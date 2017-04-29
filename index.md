@@ -2,7 +2,9 @@
 Ranked awesome lists
 </h1>
 
----
+<p align="center">
+	This list is a copy of $origin with ranks
+</p>
 
 <h1 align="center">
 	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
