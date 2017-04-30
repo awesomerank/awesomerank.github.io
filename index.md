@@ -16,9 +16,9 @@
 ---
 
 <p align="center">
-	<a https://github.com/sindresorhus/awesome/blob/master/awesome.md>What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a https://github.com/sindresorhus/awesome/blob/master/contributing.md>Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a https://github.com/sindresorhus/awesome/blob/master/create-list.md>Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/sindresorhus/awesome/blob/master/contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a href="https://github.com/sindresorhus/awesome/blob/master/create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
 </p>
 
