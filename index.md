@@ -16,9 +16,9 @@
 ---
 
 <p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
+	<a https://github.com/sindresorhus/awesome/blob/master/awesome.md>What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
+	<a https://github.com/sindresorhus/awesome/blob/master/contributing.md>Contribution guide</a>&nbsp;&nbsp;&nbsp;
+	<a https://github.com/sindresorhus/awesome/blob/master/create-list.md>Creating a list</a>&nbsp;&nbsp;&nbsp;
 	<a href="https://www.stickermule.com/marketplace/10034-awesome">Sticker</a>
 </p>
 
@@ -517,6 +517,7 @@
 - [Framer ★170](lists/podo/awesome-framer.md) - Prototyping interactive UI designs.
 - [Markdown ★81](lists/BubuAnabelas/awesome-markdown.md) - Markup language.
 - [Dev Fun ★31](lists/mislavcimpersak/awesome-dev-fun.md) - Funny developer projects.
+- [Events in the Netherlands ★12](lists/awkward/awesome-netherlands-events.md) - Tech-related events in the Netherlands.
 
 
 ## License
