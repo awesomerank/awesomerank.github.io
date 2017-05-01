@@ -58,7 +58,7 @@
 ## Platforms
 
 - [Node.js ★16805](lists/sindresorhus/awesome-nodejs.md)
-- [Frontend Development ★21504](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [Frontend Development ★21504](lists/dypsilon/frontend-dev-bookmarks.md)
 - [iOS ★19589](lists/vsouza/awesome-ios.md)
 - [Android ★3856](lists/JStumpp/awesome-android.md)
 - [IoT & Hybrid Apps ★249](lists/weblancaster/awesome-IoT-hybrid.md)
