@@ -1,4 +1,10 @@
 <h1 align="center">
+Ranked awesome lists
+</h1>
+<p align="center">
+	This list is a copy of https://github.com/sindresorhus/awesome with ranks
+</p>
+<h1 align="center">
 	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
 	<br>
 	<br>
@@ -207,6 +213,7 @@
 - [Less ★6](lists/LucasBassetti/awesome-less.md) - CSS preprocessor.
 - [WebGL ★60](lists/sjfricke/awesome-webgl.md) - JavaScript API for rendering 3D graphics.
 - [Preact ★43](lists/ooade/awesome-preact.md) - App framework.
+- [Progressive Enhancement ★18](lists/jbmoelker/progressive-enhancement-resources.md)
 
 
 ## Back-End Development
@@ -525,3 +532,7 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of https://github.com/sindresorhus/awesome with ranks
+</p>
