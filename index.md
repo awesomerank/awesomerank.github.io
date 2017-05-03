@@ -1,9 +1,10 @@
 <h1 align="center">
-Ranked awesome lists
+Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of https://github.com/sindresorhus/awesome with ranks
+	This list is a copy of [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome) with ranks
 </p>
+---
 <h1 align="center">
 	<img width="400" src="https://cdn.rawgit.com/sindresorhus/awesome/master/media/logo.svg" alt="Awesome">
 	<br>
@@ -534,5 +535,5 @@ Ranked awesome lists
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of https://github.com/sindresorhus/awesome with ranks
+	This list is a copy of [https://github.com/sindresorhus/awesome](https://github.com/sindresorhus/awesome) with ranks
 </p>
