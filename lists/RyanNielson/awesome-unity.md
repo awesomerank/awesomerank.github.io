@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/RyanNielson/awesome-unity">https://github.com/RyanNielson/awesome-unity</a> with ranks
+</p>
+---
 Awesome Unity
 =============
 
@@ -70,7 +77,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 ## Input
 
 * [InControl ★517](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
-* [InputBinder ★18](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
+* [InputBinder ★18 ⏳1Y](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
 * [TouchKit ★451](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
 * [TouchScript ★791](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
 
@@ -114,7 +121,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Utilities
 
-* [Consolation ★71](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
+* [Consolation ★71 ⏳1Y](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 * [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
@@ -152,3 +159,7 @@ A list of awesome projects made using Unity.
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/RyanNielson/awesome-unity">https://github.com/RyanNielson/awesome-unity</a> with ranks
+</p>

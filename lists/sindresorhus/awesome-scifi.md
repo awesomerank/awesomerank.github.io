@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/sindresorhus/awesome-scifi">https://github.com/sindresorhus/awesome-scifi</a> with ranks
+</p>
+---
 # Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > Sci-Fi worth consuming
@@ -6,7 +13,7 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 *For fantasy books, see [awesome-fantasy ★223](https://github.com/RichardLitt/awesome-fantasy).*
 
-*Please read the [Contributing Guidelines](contributing.md) before contributing.*
+*Please read the [Contributing Guidelines](https://github.com/sindresorhus/awesome-scifi/blob/master/contributing.md) before contributing.*
 
 ![](https://cloud.githubusercontent.com/assets/170270/7630100/242bda3a-fa33-11e4-881a-589cffa0c421.gif)
 
@@ -1644,3 +1651,7 @@ Maintained by [Richard Littauer](https://github.com/RichardLitt) and [these marv
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/sindresorhus/awesome-scifi">https://github.com/sindresorhus/awesome-scifi</a> with ranks
+</p>

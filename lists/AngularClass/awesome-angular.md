@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/AngularClass/awesome-angular">https://github.com/AngularClass/awesome-angular</a> with ranks
+</p>
+---
 <p align="center">
   <a href="https://angularclass.com" target="_blank">
     <img src="/media/awesome-angular.png" alt="Awesome Angular 2" />
@@ -183,7 +190,7 @@ Table of contents:
 #### Cheatsheet
 * [Official Angular 2 Cheatsheet](https://angular.io/cheatsheet)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
-* [Angular2 Dart cheatsheet ★9](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+* [Angular2 Dart cheatsheet ★9 ⏳1Y](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 * [Angular Performance Checklist ★631](https://github.com/mgechev/angular-performance-checklist)
 
 #### Features
@@ -199,46 +206,46 @@ A component is a directive which uses shadow DOM to create encapsulate visual be
 
 ##### View
 A View is a core primitive used by angular to render the DOM tree.
-<br>[Read more »](features/View.md)
+<br>[Read more »](https://github.com/AngularClass/awesome-angular/blob/master/features/View.md)
 
 ##### Templates
 Templates are markup which is added to HTML to declaratively describe how the application model should be
 projected to DOM as well as which DOM events should invoke which methods on the controller.
-<br>[Read more »](features/Templates.md)
+<br>[Read more »](https://github.com/AngularClass/awesome-angular/blob/master/features/Templates.md)
 
 ##### Change detection
 Every component gets a change detector responsible for checking the bindings defined in its template.
-<br>[Read more »](features/ChangeDetection.md)
+<br>[Read more »](https://github.com/AngularClass/awesome-angular/blob/master/features/ChangeDetection.md)
 
 ##### Dependency Injection
 Angular 1.x has two APIs for injecting dependencies into a directive. Angular 2 unifies the two APIs, making the code easier to understand and test.
-<br>[Read more »](features/DI.md)
+<br>[Read more »](https://github.com/AngularClass/awesome-angular/blob/master/features/DI.md)
 
 ##### Pipes
 Pipes can be appended on the end of the expressions to translate the value to a different format.
-<br>[Read more »](features/Pipes.md)
+<br>[Read more »](https://github.com/AngularClass/awesome-angular/blob/master/features/Pipes.md)
 
 ##### Web Workers
 WebWorker support in Angular2 is designed to make it easy to leverage parallelization in your web application.
 When you choose to run your application in a WebWorker angular runs both your application's logic and the
 majority of the core angular framework in a WebWorker.
-<br>[Read more »](features/WebWorkers.md)
+<br>[Read more »](https://github.com/AngularClass/awesome-angular/blob/master/features/WebWorkers.md)
 
 ##### HTTP
 Http is available as an injectable class, with methods to perform http requests. Calling request returns an EventEmitter which will emit a single Response when a response is received.
 * [Introduction to HTTP in Angular 2](http://www.syntaxsuccess.com/viewarticle/angular-2.0-and-http)
-<br>[Read more »](features/HTTP.md)
+<br>[Read more »](https://github.com/AngularClass/awesome-angular/blob/master/features/HTTP.md)
 
 ##### Router
 * [Offical Router](https://angular.io/docs/ts/latest/guide/router.html#!#sts=Router%20imports)
 * [ui-router ★13173](https://github.com/angular-ui/ui-router)
-<br>[Read more »](features/Router.md)
+<br>[Read more »](https://github.com/AngularClass/awesome-angular/blob/master/features/Router.md)
 
 ##### Test
 * [Testing Http services in Angular 2 with Jasmine](http://chariotsolutions.com/blog/post/testing-http-services-angular-2-jasmine/)
 * [Testing UI Components with the TestComponentBuilder](http://chariotsolutions.com/blog/post/testing-angular-2-components-unit-tests-testcomponentbuilder/)
 [**{{** help_out **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
-<br>[Read more »](features/Test.md)
+<br>[Read more »](https://github.com/AngularClass/awesome-angular/blob/master/features/Test.md)
 
 ##### Ahead-of-Time Compilation
 * [Official Documentation](https://angular.io/docs/ts/latest/cookbook/aot-compiler.html)
@@ -255,14 +262,14 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Webpack
 * [Official web page](https://webpack.github.io/)
-* [Angular 2 Webpack Starter from AngularClass ★7810](https://github.com/AngularClass/angular2-webpack-starter)
-* [Angular 2 Webpack from preboot](https://github.com/preboot/angular2-webpack)
-* [Angular 2 Nightly Webpack Starter ★591](https://github.com/qdouble/angular-webpack2-starter)
-* [Angular 2 Webpack with Visual Studio ASP.NET Core from Damien Bowden ★293](https://github.com/damienbod/AngularWebpackVisualStudio)
-* [Angular 2 Typescript Webpack from schempy ★72](https://github.com/schempy/angular2-typescript-webpack)
-* [Angular 2 Webpack  Tour of Heroes from michaelbazos ★12](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
-* [Angular 2 Webpack + rxjs + modules ★6](https://github.com/jorgeas80/angular2-webpack-toh)
-* [Angular 2 ASP.NET Core Spa from SteveSandersonMS](https://github.com/aspnet/JavaScriptServices/tree/dev/templates/Angular2Spa)
+* [Angular Starter from AngularClass ★7840](https://github.com/AngularClass/angular-starter)
+* [Angular Webpack from preboot](https://github.com/preboot/angular2-webpack)
+* [Angular Nightly Webpack Starter ★591](https://github.com/qdouble/angular-webpack2-starter)
+* [Angular Webpack with Visual Studio ASP.NET Core from Damien Bowden ★293](https://github.com/damienbod/AngularWebpackVisualStudio)
+* [Angular Typescript Webpack from schempy ★72](https://github.com/schempy/angular2-typescript-webpack)
+* [Angular Webpack  Tour of Heroes from michaelbazos ★12](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
+* [Angular Webpack + rxjs + modules ★6](https://github.com/jorgeas80/angular2-webpack-toh)
+* [Angular ASP.NET Core Spa from SteveSandersonMS](https://github.com/aspnet/JavaScriptServices/tree/dev/templates/Angular2Spa)
 
 #### Series
 * Ionic
@@ -392,7 +399,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-safe-img ★3](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
 * [ng2-table ★331](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
 * [ng2-smart-table ★362](https://github.com/akveo/ng2-smart-table) Smart data table library with sorting, filtering, pagination & add/edit/delete functions.
-* [ng2-bs ★9](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
+* [ng2-bs ★9 ⏳1Y](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
 * [ng-lightning ★452](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 * [ag-grid](https://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
 * [angular2-grid ★239](https://github.com/BTMorton/angular2-grid) A drag/drop/resize grid-based plugin directive for angular2.
@@ -440,6 +447,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngfb-sortable-table ★2](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
 * [angular-split ★33](https://github.com/bertrandg/angular-split) Angular split component
 * [od-virtualscroll ★10](https://github.com/dinony/od-virtualscroll) Observable-based virtual scroll implementation in Angular
+* [angular2-froala-wysiwyg ★57](https://github.com/froala/angular2-froala-wysiwyg) Angular 2 wrapper for Froala WYSIWYG HTML Editor
 
 #### Pipes
 * [fuel-ui ★241](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
@@ -506,11 +514,11 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 Samples ★904](https://github.com/thelgevold/angular-2-samples) Angular 2.0 sample components
 * [Todo app with Firebase, OAuth, and Immutable ★380](https://github.com/r-park/todo-angular2-firebase)
 * [Spring Boot and Angular2 tutorial ★132](https://github.com/springboot-angular2-tutorial/angular2-app) Angular2 practical example based on [Rails tutorial](https://www.railstutorial.org/).
-* [Angular 2 Goldilocks seed ★43](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
+* [Angular 2 Goldilocks seed ★43 ⏳1Y](https://github.com/ColinEberhardt/angular2-goldilocks-seed) - A seed project for Angular 2 and TypeScript that is not too simple, yet not too complex. In fact it's just right!
 * [Angular 2 Starter](https://github.com/antonybudianto/angular2-starter) - Simple Angular 2 Starter with Gulp workflow and Travis CI
 * [Angular 2 Leaflet Starter](https://github.com/haoliangyu/angular2-leaflet-starter) - A map application starter based on Angular 2 and Leaflet
 * [Angular 2 MapboxGL Starter](https://github.com/haoliangyu/angular2-mapboxgl-starter) - Another map application starter based on Angular 2 and MapboxGL JS
-* [Angular 2 reconnecting websockets quickstart ★7](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
+* [Angular 2 reconnecting websockets quickstart ★7 ⏳1Y](https://github.com/mkusz/ng2_websockets_quickstart) - Simple counter using 2-way or 1-way reconnecting websockets communication
 * [ng2-start ★24](https://github.com/cebor/ng2-start) - Minimal setup to start creating an angular2 application
 * [ng-kitchen-sink ★711](https://github.com/born2net/Angular-kitchen-sink) - The ultimate Angular 2 bootstrap single page app - touches on all key and advanced aspects of Angular
 * [ng-skeleton ★23](https://github.com/born2net/ng-skeleton) - The ultimate Angular seed with ngrx, bootstrap and two factor auth
@@ -567,11 +575,11 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 
 #### Dart Seed Projects
-* [Angular 2 Dart Quickstart ★5](https://github.com/andresaraujo/ng2_dart_quickstart) A minimal quick start project.
+* [Angular 2 Dart Quickstart ★5 ⏳1Y](https://github.com/andresaraujo/ng2_dart_quickstart) A minimal quick start project.
 
 #### Dart Demo, Samples, and Examples
-* [Hackernews App ★11](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
-* [Router Demo ★0](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
+* [Hackernews App ★11 ⏳1Y](https://github.com/andresaraujo/ng2_hackernews) A HackerNews application made with Angular 2 for Dart
+* [Router Demo ★0 ⏳1Y](https://github.com/andresaraujo/ng2_dart_router_demo) A basic example of Angular 2 router.
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 ---
@@ -586,7 +594,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Traceur Seed Projects
 
-* [GitHub: Angular2 ES6 Seed (Evan Plaice) ★2](https://github.com/evanplaice/angular2-es6-seed)
+* [GitHub: Angular2 ES6 Seed (Evan Plaice) ★2 ⏳1Y](https://github.com/evanplaice/angular2-es6-seed)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 ---
@@ -604,7 +612,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Babel Seed Projects
 * [babel-angular2-app ★278](https://github.com/shuhei/babel-angular2-app) A skeleton Angular 2 app built with [Babel](https://babeljs.io/) and [Browserify](http://browserify.org/).
-* [angular2-fullstack-starter ★34](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
+* [angular2-fullstack-starter ★34 ⏳1Y](https://github.com/jgodi/angular2-fullstack-starter) A full stack skeleton Angular 2 app built with Webpack/Babel.
 * [angular2-es6-starter ★511](https://github.com/blacksonic/angular2-babel-esnext-starter) A skeleton Angular 2 ES6 application built with Babel, Webpack, Gulp.
 * [angular2-es-seed](https://github.com/codewareio/angular2-es-seed) A complete, yet simple, starter for Angular 2 using ES2016.
 * [angular2-babel-quickstart ★2](https://github.com/rbnlffl/angular2-babel-quickstart) The super simple Angular 2 quickstarter with ES6/Babel
@@ -617,7 +625,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Babel Plugins
 * [babel-preset-angular2 ★17](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
-* [babel-plugin-type-assertion ★0](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts_assert
+* [babel-plugin-type-assertion ★0 ⏳1Y](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts_assert
 
 ---
 
@@ -693,7 +701,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 #### Haxe Seed Projects
-* [angular2haxe ★27](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2
+* [angular2haxe ★27 ⏳1Y](https://github.com/nweedon/angular2haxe) Haxe Language Bindings for Angular 2
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 ---
@@ -705,7 +713,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 * [**{{** help_add_resources **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 #### Scala Seed Projects
-* [play-angular2 ★9](https://github.com/gdi2290/play-angular2)
+* [play-angular2 ★9 ⏳1Y](https://github.com/gdi2290/play-angular2)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 
@@ -728,3 +736,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/AngularClass/awesome-angular">https://github.com/AngularClass/awesome-angular</a> with ranks
+</p>

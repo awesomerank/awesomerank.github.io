@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/herrbischoff/awesome-osx-command-line">https://github.com/herrbischoff/awesome-osx-command-line</a> with ranks
+</p>
+---
 <h1><img src="https://cdn.rawgit.com/herrbischoff/awesome-osx-command-line/master/assets/logo.svg" alt="Awesome OS X Command Line" width="600"></h1>
 
 > A curated list of shell commands and tools specific to OS X.
@@ -6,7 +13,7 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/herrbischoff/awesome-osx-command-line.svg?branch=master)](https://travis-ci.org/herrbischoff/awesome-osx-command-line)
 
-If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](contributing.md).
+If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/herrbischoff/awesome-osx-command-line/blob/master/contributing.md).
 
 For more terminal shell goodness, please also see this list's sister list [Awesome Command Line Apps ★867](https://github.com/herrbischoff/awesome-command-line-apps).
 
@@ -747,7 +754,7 @@ cp -v /Applications/Utilities/Terminal.app/Contents/Resources/Fonts/SFMono-* ~/L
 
 ## Functions
 
-Please see [this file](functions.md).
+Please see [this file](https://github.com/herrbischoff/awesome-osx-command-line/blob/master/functions.md).
 
 
 ## Hardware
@@ -1408,7 +1415,7 @@ sudo kextunload -b com.apple.driver.ExampleBundle
 
 ### LaunchAgents
 
-Please see [this file](launchagents.md).
+Please see [this file](https://github.com/herrbischoff/awesome-osx-command-line/blob/master/launchagents.md).
 
 
 ### LaunchServices
@@ -1691,7 +1698,7 @@ chsh -s $(brew --prefix)/bin/zsh
 - [Hack](http://sourcefoundry.org/hack/) - Hack is hand groomed and optically balanced to be your go-to code face.
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -  A monospace font, designed for code listings and the like.
 - [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
-- [Meslo ★1705](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font.
+- [Meslo ★1705 ⏳1Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font.
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
 - [Powerline Fonts ★8043](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin.
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
@@ -1700,3 +1707,7 @@ chsh -s $(brew --prefix)/bin/zsh
 ## License
 
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/herrbischoff/awesome-osx-command-line">https://github.com/herrbischoff/awesome-osx-command-line</a> with ranks
+</p>

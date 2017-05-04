@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/janikvonrotz/awesome-powershell">https://github.com/janikvonrotz/awesome-powershell</a> with ranks
+</p>
+---
 # Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
@@ -34,7 +41,7 @@ It includes a command-line shell and an associated scripting language.
 
 - [PSGitHub ★34](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API. 
 - [Posh-Github ★50](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
-- [Posh-Gist ★17](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
+- [Posh-Gist ★17 ⏳1Y](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
 - [PSGist ★9](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists. http://dotps1.github.io/PSGist.
 - [PSAppVeyor ★7](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
 - [PSSlack ★53](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration http://ramblingcookiemonster.github.io/PSSlack/
@@ -55,7 +62,7 @@ It includes a command-line shell and an associated scripting language.
 * [Invoke-Build ★155](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
 * [PSDeploy ★107](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
 * [BuildHelpers ★37](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
-* [YDeliver ★31](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
+* [YDeliver ★31 ⏳1Y](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
 
 ## Code and Package Repositories
 
@@ -87,7 +94,7 @@ It includes a command-line shell and an associated scripting language.
 ## Documentation Helper
 
 - [platyPS ★142](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
-- [Invoke-CreateModuleHelpFile ★15](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands. 
+- [Invoke-CreateModuleHelpFile ★15 ⏳2Y](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands. 
 
 ## Editors and IDEs
 
@@ -104,7 +111,7 @@ It includes a command-line shell and an associated scripting language.
 ## Frameworks
 
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
-- [PowerShell PowerUp ★23](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerfull server management framework.
+- [PowerShell PowerUp ★23 ⏳1Y](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerfull server management framework.
 - [PSCX](https://pscx.codeplex.com/) - Useful set of additional cmdlets.
 - [PlatyPS ★142](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
 
@@ -154,7 +161,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Webserver
 
-- [Flancy ★104](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell.
+- [Flancy ★104 ⏳1Y](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell.
 - [NancyPS ★15](https://github.com/Jaykul/NancyPS) - Nancy, self-hosted in PowerShell, with script method handlers.
 - [PoSH Server](http://www.poshserver.net/) - Secure, flexible and lightweight web server to meet your requirements.
 - [WebCommander ★121](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
@@ -171,7 +178,11 @@ It includes a command-line shell and an associated scripting language.
 
 ## Misc
 
-- [poke ★25](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
+- [poke ★25 ⏳1Y](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.
-- [psInlineProgress ★18](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. 
+- [psInlineProgress ★18 ⏳1Y](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/janikvonrotz/awesome-powershell">https://github.com/janikvonrotz/awesome-powershell</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/webpack-contrib/awesome-webpack">https://github.com/webpack-contrib/awesome-webpack</a> with ranks
+</p>
+---
 <h3 align="center">
 	<img width="355" src="https://raw.githubusercontent.com/webpack-contrib/awesome-webpack/master/media/awesome_webpack_branding.png" alt="awesome-webpack">
 	<br>
@@ -107,6 +114,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 - [Underscore Loader ★43](https://github.com/emaphp/underscore-template-loader) - Underscore and Lodash template loader.  -- *Maintainer*: `Emmanuel Antico` [![Github][githubicon]](https://github.com/emaphp) [![Twitter][twittericon]](https://twitter.com/emaphp)
 - [ngTemplate Loader ★165](https://github.com/WearyMonkey/ngtemplate-loader) - Angular1 Template Loader.  -- *Maintainer*: `Toby Rahilly` [![Github][githubicon]](https://github.com/WearyMonkey)
 - [ngInlineStylesLoader ★2](https://github.com/seveves/ng-inline-styles-loader): Optimizes inlined css of angular components. -- *Maintainer*: `Severin Friede` [![Github][githubicon]](https://github.com/seveves)
+- [Markup-inline Loader ★10](https://github.com/asnowwolf/markup-inline-loader) Inline SVGs to HTML. It’s useful when applying icon font or applying CSS animation to SVG. -- *Maintainer*: `Zhicheng Wang` [![Github][githubicon]](https://github.com/asnowwolf)
 
 #### Styles
 
@@ -157,7 +165,8 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 - [SystemJS Webpack ★17](https://github.com/guybedford/systemjs-webpack-plugin) - Webpack bundling for SystemJS.  -- *Maintainer*: `Guy Bedford` [![Github][githubicon]](https://github.com/guybedford) [![Twitter][twittericon]](https://twitter.com/guybedford)
 - [Gulp Webpack Stream ★884](https://github.com/shama/webpack-stream) - Run webpack through a stream interface.  -- *Maintainer*: `Kyle Robinson Young` [![Github][githubicon]](https://github.com/shama) [![Twitter][twittericon]](https://twitter.com/shamakry)
 - [Webpack Blocks ★2224](https://github.com/andywer/webpack-blocks) - Configure webpack using functional feature blocks.  -- *Maintainer*: `Andy Wermke` [![Github][githubicon]](https://github.com/andywer) [![Twitter][twittericon]](https://twitter.com/andywritescode)
-- [Webpacker ★1440](https://github.com/rails/webpacker) - Offical webpack gem for integration into ruby on rails projects  -- *Maintainer*: `Rails` [![Github][githubicon]](https://github.com/rails)
+- [Webpacker ★1440](https://github.com/rails/webpacker) - Offical webpack gem for integration into ruby on rails projects.  -- *Maintainer*: `Rails` [![Github][githubicon]](https://github.com/rails)
+- [WebpackAspnetMiddleware ★17](https://github.com/frankwallis/WebpackAspnetMiddleware) - Development middleware for ASP.NET 5.  -- *Maintainer*: `Frank Wallis` [![Github][githubicon]](https://github.com/frankwallis)
 
 [Back to top](#table-of-contents)
 
@@ -205,6 +214,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 
 ### Articles
 
+- Gábor Soós | 24-Apr-17 - [How to do proper tree-shaking in Webpack 2](https://blog.craftlab.hu/how-to-do-proper-tree-shaking-in-webpack-2-e27852af8b21)
 - Mark Erikson | 07-Mar-17 - [Declaratively Rendering Earth in 3D, Part 1: Building a Cesium + React App with Webpack](http://blog.isquaredsoftware.com/2017/03/declarative-earth-part-1-cesium-webpack/)
 - Joseph Zimmerman | 2-Feb-17 - [A Detailed Introduction To Webpack.](https://www.smashingmagazine.com/2017/02/a-detailed-introduction-to-webpack/)
 - Jamund Ferguson | 22-Jul-16 - [Manually Tuning Webpack Builds.](https://medium.com/@xjamundx/manually-tuning-webpack-builds-284923f47f44#.lbvkidezh)
@@ -288,3 +298,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 
 [twittericon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/twitter-square.svg
 [githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/webpack-contrib/awesome-webpack">https://github.com/webpack-contrib/awesome-webpack</a> with ranks
+</p>

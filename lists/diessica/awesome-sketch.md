@@ -1,10 +1,17 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/diessica/awesome-sketch">https://github.com/diessica/awesome-sketch</a> with ranks
+</p>
+---
 # awesome Sketch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > [**Sketch 3**](http://bohemiancoding.com/sketch/) has become very popular in the Design community. How much do you know about it?
 
 A curated list of awesome Sketch videos, articles, plugins, whatever, for designers, developers, or neither.
 
-Found something cool? Please, **[contribute](contributing.md)**!
+Found something cool? Please, **[contribute](https://github.com/diessica/awesome-sketch/blob/master/contributing.md)**!
 
 --
 
@@ -73,11 +80,11 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - [Sketch Measure ★4587](https://github.com/utom/sketch-measure)
 - [Style Inventory ★1691](https://github.com/getflourish/Sketch-Style-Inventory)
 - [Dynamic Button ★1053](https://github.com/ddwht/sketch-dynamic-button)
-- [Page Switch ★66](https://github.com/mauehara/sketch-page-switch)
+- [Page Switch ★66 ⏳2Y](https://github.com/mauehara/sketch-page-switch)
 - [Sketch Flex Layout ★1686](https://github.com/hrescak/Sketch-Flex-Layout)
 
 ###### Nice-to-have :thumbsup:
-- [Handy Tools ★117](https://github.com/webpatch/Handy-Tools)
+- [Handy Tools ★117 ⏳1Y](https://github.com/webpatch/Handy-Tools)
 - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
 - [User Flow ★993](https://github.com/abynim/UserFlows)
 - [Sketch Runner](http://sketchrunner.com)
@@ -92,9 +99,9 @@ Found something cool? Please, **[contribute](contributing.md)**!
 - In the [Sketch community](#community)
 
 ## Templates & UI Kits
-- [Responsive Web Design Template ★21](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
-- [Sketch iOS Templates ★853](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
-- [Teracy Wireframe Kit ★1183](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
+- [Responsive Web Design Template ★21 ⏳1Y](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
+- [Sketch iOS Templates ★853 ⏳3Y](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
+- [Teracy Wireframe Kit ★1183 ⏳2Y](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
 
 ## Services
 - [Zeplin](https://zeplin.io) – design, prototyping and collaboration
@@ -127,3 +134,7 @@ Sketch has got a **fast-growing community**. Joining them (*see [Community](#com
 
 To the extent possible under law, [Diéssica Gurskas](http://diessi.ca) has waived all copyright and related or neighboring rights to this work.
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/diessica/awesome-sketch">https://github.com/diessica/awesome-sketch</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/webpro/awesome-dotfiles">https://github.com/webpro/awesome-dotfiles</a> with ranks
+</p>
+---
 # Awesome dotfiles
 
 A curated list of dotfiles resources. Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list thing.
@@ -109,10 +116,10 @@ Title | Description | Focus
 ## Archive/abandoned projects
 
 * [Bashstrap ★1440](https://github.com/barryclark/bashstrap)
-* [battleschool ★408](https://github.com/spencergibb/battleschool)
+* [battleschool ★408 ⏳1Y](https://github.com/spencergibb/battleschool)
 * [Eduardo's dotfiles ★421](https://github.com/eduardolundgren/dotfiles)
 * [Kevin's dotfiles ★49](https://github.com/kdeldycke/dotfiles) 
-* [kody ★65](https://github.com/jh3y/kody)
+* [kody ★65 ⏳1Y](https://github.com/jh3y/kody)
 * [osxc](http://osxc.github.io)
 
 ## License
@@ -120,3 +127,7 @@ Title | Description | Focus
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Lars Kappert](https://webpro.nl) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/webpro/awesome-dotfiles">https://github.com/webpro/awesome-dotfiles</a> with ranks
+</p>

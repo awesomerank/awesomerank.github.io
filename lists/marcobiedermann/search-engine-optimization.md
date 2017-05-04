@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/marcobiedermann/search-engine-optimization">https://github.com/marcobiedermann/search-engine-optimization</a> with ranks
+</p>
+---
 # [Search Engine Optimization (SEO)](https://marcobiedermann.github.io/search-engine-optimization/)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
@@ -176,7 +183,7 @@ search engines do not use this meta tag
 * **[Pinterest](https://developers.pinterest.com/rich_pins/validator/):** validate your Rich Pins and apply to get them on Pinterest
 
 ### Bookmarklets
-* **[OuiSEO ★26](https://github.com/carlsednaoui/seo-bookmarklet):** an open-source bookmarklet that shows you on-page SEO and social meta data information.
+* **[OuiSEO ★26 ⏳2Y](https://github.com/carlsednaoui/seo-bookmarklet):** an open-source bookmarklet that shows you on-page SEO and social meta data information.
 * **[SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet):** a One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
 
 ### Browser Extensions
@@ -225,3 +232,7 @@ search engines do not use this meta tag
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/marcobiedermann/search-engine-optimization">https://github.com/marcobiedermann/search-engine-optimization</a> with ranks
+</p>

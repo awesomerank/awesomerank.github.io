@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/leekelleher/awesome-umbraco">https://github.com/leekelleher/awesome-umbraco</a> with ranks
+</p>
+---
 # Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A collection of awesome [Umbraco 7](http://umbraco.com/) packages, resources and shiny things.
@@ -116,3 +123,7 @@ Please note * indicates that the package is commercial or may require a license 
 [![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/leekelleher/awesome-umbraco">https://github.com/leekelleher/awesome-umbraco</a> with ranks
+</p>

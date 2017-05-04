@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/razum2um/awesome-clojure">https://github.com/razum2um/awesome-clojure</a> with ranks
+</p>
+---
 # Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
@@ -38,6 +45,7 @@
   - [Monads](#monads)
   - [WebSocket](#websocket)
   - [Testing](#testing)
+  - [Webdriver automation](#webdriver-automation)
   - [Code Analysis and Linter](#code-analysis-and-linter)
   - [Science and Data Analysis](#science-and-data-analysis)
   - [Machine Learning](#machine-learning)
@@ -62,7 +70,7 @@
 
   * [Web Non-Framework ★17](https://github.com/webnf/webnf)
   * [Luminus](http://www.luminusweb.net/)
-  * [Joodo ★3](https://github.com/slagyr/joodoweb)
+  * [Joodo ★3 ⏳3Y](https://github.com/slagyr/joodoweb)
   * [Coils](https://github.com/zubairq/AppShare)
   * [Duct](https://github.com/weavejester/duct)
   * [Pedestal ★1745](https://github.com/pedestal/pedestal)
@@ -93,7 +101,7 @@
 
 ## GUI
 
-  * [fx-clj ★80](https://github.com/aaronc/fx-clj)
+  * [fx-clj ★80 ⏳1Y](https://github.com/aaronc/fx-clj)
   * [seesaw ★1109](https://github.com/daveray/seesaw)
 
 ## Audio
@@ -116,7 +124,7 @@
 
   * [Datomic](http://www.datomic.com/)
   * [clojure.jdbc ★86](https://github.com/funcool/clojure.jdbc)
-  * [cravendb ★50](https://github.com/robashton/cravendb)
+  * [cravendb ★50 ⏳3Y](https://github.com/robashton/cravendb)
   * [Mongo](http://clojuremongodb.info/)
   * [RethinkDB ★170](https://github.com/apa512/clj-rethinkdb)
   * [ElasticSearch](http://clojureelasticsearch.info/)
@@ -164,7 +172,7 @@
 
   * [Buddy ★515](https://github.com/funcool/buddy)
   * [Friend ★1073](https://github.com/cemerick/friend)
-  * [bolt ★124](https://github.com/juxt/bolt)
+  * [bolt ★124 ⏳1Y](https://github.com/juxt/bolt)
 
 ## RESTful API
 
@@ -194,7 +202,7 @@
 
   * [Validateur](http://clojurevalidations.info/)
   * [Prismatic's schema ★1729](https://github.com/plumatic/schema)
-  * [domaintypes ★5](https://github.com/friemen/domaintypes)
+  * [domaintypes ★5 ⏳2Y](https://github.com/friemen/domaintypes)
   * [Bouncer ★304](https://github.com/leonardoborges/bouncer)
   * [clova ★9](https://github.com/markwoodhall/clova)
 
@@ -215,7 +223,7 @@
 
   * [core.async ★1346](https://github.com/clojure/core.async)
   * [pulsar ★758](https://github.com/puniverse/pulsar)
-  * [lamina ★735](https://github.com/ztellman/lamina)
+  * [lamina ★735 ⏳1Y](https://github.com/ztellman/lamina)
   * [aleph ★1809](https://github.com/ztellman/aleph)
 
 ## Monads
@@ -232,6 +240,10 @@
   * [Expectations](http://jayfields.com/expectations/)
   * [Midje ★1285](https://github.com/marick/Midje)
 
+## Webdriver automation
+
+  * [Etaoin ★36](https://github.com/igrishaev/etaoin)
+
 ## Code Analysis and Linter
 
   * [Slamhound ★364](https://github.com/technomancy/slamhound)
@@ -247,16 +259,16 @@
 
 ## Machine Learning
 
-  * [clj-ml ★131](https://github.com/antoniogarrote/clj-ml)
-  * [clj-bigml ★46](https://github.com/bigmlcom/clj-bigml)
-  * [Clatern ★66](https://github.com/rinuboney/clatern)
+  * [clj-ml ★131 ⏳1Y](https://github.com/antoniogarrote/clj-ml)
+  * [clj-bigml ★46 ⏳1Y](https://github.com/bigmlcom/clj-bigml)
+  * [Clatern ★66 ⏳1Y](https://github.com/rinuboney/clatern)
   * [Deeplearning4j ★6526](https://github.com/deeplearning4j/deeplearning4j)
-  * [Enclog ★137](https://github.com/jimpil/enclog)
-  * [Infer ★158](https://github.com/aria42/infer)
-  * [k9 ★87](https://github.com/gigasquid/k9)
+  * [Enclog ★137 ⏳1Y](https://github.com/jimpil/enclog)
+  * [Infer ★158 ⏳1Y](https://github.com/aria42/infer)
+  * [k9 ★87 ⏳2Y](https://github.com/gigasquid/k9)
   * [lambda-ml ★19](https://github.com/cloudkj/lambda-ml)
-  * [Statistiker ★50](https://github.com/clojurewerkz/statistiker)
-  * [Synaptic ★79](https://github.com/japonophile/synaptic)
+  * [Statistiker ★50 ⏳1Y](https://github.com/clojurewerkz/statistiker)
+  * [Synaptic ★79 ⏳1Y](https://github.com/japonophile/synaptic)
 
 ## Computer Vision
 
@@ -276,8 +288,8 @@
 
   * [CIDER ★2091](https://github.com/clojure-emacs/cider)
   * [vim-fireplace ★1224](https://github.com/tpope/vim-fireplace)
-  * [vim-redl ★105](https://github.com/dgrnbrg/vim-redl)
-  * [vim-leiningen ★133](https://github.com/tpope/vim-salve)
+  * [vim-redl ★105 ⏳2Y](https://github.com/dgrnbrg/vim-redl)
+  * [vim-leiningen ★133 ⏳1Y](https://github.com/tpope/vim-salve)
   * [rainbow_parentheses.vim ★147](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer](http://shaunlebron.github.io/parinfer/)
@@ -289,18 +301,18 @@
 
 ## Miscellaneous
 
- * [clj-tuple ★171](https://github.com/ztellman/clj-tuple)
+ * [clj-tuple ★171 ⏳1Y](https://github.com/ztellman/clj-tuple)
  * [slingshot ★470](https://github.com/scgilardi/slingshot)
 
 ## Debugging
 
-  * [debugger ★188](https://github.com/razum2um/clj-debugger)
-  * [debug-repl ★137](https://github.com/GeorgeJahad/debug-repl)
-  * [ritz ★327](https://github.com/pallet/ritz)
-  * [redl ★29](https://github.com/dgrnbrg/redl)
-  * [limit-break ★16](https://github.com/technomancy/limit-break)
+  * [debugger ★188 ⏳1Y](https://github.com/razum2um/clj-debugger)
+  * [debug-repl ★137 ⏳3Y](https://github.com/GeorgeJahad/debug-repl)
+  * [ritz ★327 ⏳4Y](https://github.com/pallet/ritz)
+  * [redl ★29 ⏳2Y](https://github.com/dgrnbrg/redl)
+  * [limit-break ★16 ⏳4Y](https://github.com/technomancy/limit-break)
   * [spyscope ★371](https://github.com/dgrnbrg/spyscope)
-  * [aprint ★104](https://github.com/razum2um/aprint)
+  * [aprint ★104 ⏳1Y](https://github.com/razum2um/aprint)
   * [pretty ★331](https://github.com/AvisoNovate/pretty)
   * [prone ★436](https://github.com/magnars/prone)
   * [figwheel ★2105](https://github.com/bhauman/lein-figwheel)
@@ -345,3 +357,7 @@
 ## Project Management
   
   * [milestones](https://github.com/turbopape/milestones)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/razum2um/awesome-clojure">https://github.com/razum2um/awesome-clojure</a> with ranks
+</p>

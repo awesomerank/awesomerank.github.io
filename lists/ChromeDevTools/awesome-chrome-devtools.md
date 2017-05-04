@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ChromeDevTools/awesome-chrome-devtools">https://github.com/ChromeDevTools/awesome-chrome-devtools</a> with ranks
+</p>
+---
 # Awesome chrome-devtools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
@@ -6,12 +13,12 @@
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 
 ### DevTools as an IDE
-- [Chrome DevTools App ★1389](https://github.com/auchenberg/chrome-devtools-app) - Standalone app which can inspect various targets.
+- [Chrome DevTools App ★1389 ⏳1Y](https://github.com/auchenberg/chrome-devtools-app) - Standalone app which can inspect various targets.
 - [DevTools Remote ★515](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
 - [DevTools Snippets ★1182](https://github.com/bahmutov/code-snippets) - Collection of snippets.
 
 ### Node.js + DevTools
-- [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The recommended Node.js API for the protocol. There are also [TypeScript-friendly alternatives ★53](https://github.com/DickvdBrink/chrome-debug-protocol).
+- [chrome-remote-interface](https://github.com/cyrus-and/chrome-remote-interface) - The recommended Node.js API for the protocol. There are also [TypeScript-friendly alternatives ★53 ⏳1Y](https://github.com/DickvdBrink/chrome-debug-protocol).
 - [chrome-devtools-frontend](https://www.npmjs.com/package/chrome-devtools-frontend) - Mirror of the frontend shipping in Chrome.
 - [chrome-timeline-model](https://www.npmjs.com/package/devtools-timeline-model) - Uses frontend as lib to process profiling data.
 - [crmux ★79](https://github.com/sidorares/crmux) - Multiplexes protocol connections.
@@ -19,7 +26,7 @@
 
 ### Chrome Debugging Protocol
 - [Debugging Protocol Viewer](https://chromedevtools.github.io/debugger-protocol-viewer/) - Easy browsable UI for exploring the protocol's domains, methods and events
-- [Remote Debug Gateway ★54](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
+- [Remote Debug Gateway ★54 ⏳1Y](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
 - [Remote Debug Firefox adapter ★103](https://github.com/RemoteDebug/remotedebug-firefox-adapter) - Translates Firefox's devtools protocol to the CDP
 - [ios-webkit-debug-proxy ★2737](https://github.com/google/ios-webkit-debug-proxy) - Exposes Mobile Safari & UIWebView instances via the CDP.
 - [Remote Debug iOS WebKit adapter ★120](https://github.com/RemoteDebug/remotedebug-ios-webkit-adapter) - Builts upon ios-webkit-debug-proxy and translates WebKit's Remote Debugging Protocol API to the CDP
@@ -39,7 +46,7 @@
 - [buggerJS ★150](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
 
 ### Object formatting
-- [immutable-devtools ★485](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
+- [immutable-devtools ★485 ⏳1Y](https://github.com/andrewdavey/immutable-devtools) - Custom formatter for Immutable-js values.
 
 ### Network Inspection
 - [betwixt ★3437](https://github.com/kdzwinel/betwixt) - System level network proxy, providing inspection via Network panel
@@ -51,7 +58,7 @@
 - [Wishbone python framework](http://wishbone.readthedocs.org/en/develop/miscellaneous.html#profiling) - Profiling data can export as `.cpuprofile`.
 
 ### Multimedia
-- [snapline ★271](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
+- [snapline ★271 ⏳1Y](https://github.com/pmdartus/snapline) - Converts timeline screenshots to gif.
 
 ### Timeline, Tracing & Profiling
 - [DevTools Timeline Viewer](https://chromedevtools.github.io/timeline-viewer/) - Share URLs of your timeline recordings.
@@ -80,7 +87,7 @@
 - [Redux Devtools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd) - Inspect Redux with actions history, undo and replay.
 - [Three.js](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea/) - Edit any three.js project.
 - [Insight ★676](https://github.com/3Dparallax/insight) - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
-- [BEM devtools ★34](https://github.com/escaton/bem-chrome-devtools) - Inspect BEM entities expressed in `i-bem` framework.
+- [BEM devtools ★34 ⏳1Y](https://github.com/escaton/bem-chrome-devtools) - Inspect BEM entities expressed in `i-bem` framework.
 
 ### UX
 - [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - A selection of themes to modify parts of DevTools related to authoring web applications.
@@ -92,3 +99,7 @@
 ### Testing
 - [UI-automation-chrome-extension](https://chrome.google.com/webstore/detail/ui-automation/aacdhbhfmngpoiinjmphdcpalpdcmbpf/) - Provides simple DOM selectors with Java code snippets so you can write automated Selenium tests faster.
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ChromeDevTools/awesome-chrome-devtools">https://github.com/ChromeDevTools/awesome-chrome-devtools</a> with ranks
+</p>

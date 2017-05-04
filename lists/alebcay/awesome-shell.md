@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/alebcay/awesome-shell">https://github.com/alebcay/awesome-shell</a> with ranks
+</p>
+---
 ```
  █████╗ ██╗    ██╗███████╗███████╗ ██████╗ ███╗   ███╗███████╗
 ██╔══██╗██║    ██║██╔════╝██╔════╝██╔═══██╗████╗ ████║██╔════╝
@@ -52,7 +59,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [autoenv ★3378](https://github.com/kennethreitz/autoenv) - Directory-based environments
 * [autojump ★5396](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line
 * [bashhub ★338](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
-* [bashmarks ★1072](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
+* [bashmarks ★1072 ⏳1Y](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd ★645](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
 * [boilr ★469](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 * [boom ★1048](https://github.com/holman/boom) - Store links and snippets in the commandline
@@ -78,24 +85,24 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [parallel](http://www.gnu.org/software/parallel/) - Build and execute shell command lines from standard input in parallel
 * [pathpicker ★3310](https://github.com/facebook/PathPicker) - Accepts inputs like grep, searches, git etc; allows selecting files from the result of the input, which you can then open or provide as argument to a command.
 * [percol ★2299](https://github.com/mooz/percol) - Adds flavor of interactive filtering to the traditional pipe concept of UNIX shell
-* [qfc ★422](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
+* [qfc ★422 ⏳1Y](https://github.com/pindexis/qfc) - File-completion widget for Bash and Zsh
 * [rg ★4376](https://github.com/BurntSushi/ripgrep) - ripgrep is a line oriented search tool that combines the usability of The Silver Searcher with the raw speed of GNU grep
 * [SHML](https://github.com/odb/shml) - Style framework for the terminal (Shell Markup Language)
-* [slugify ★175](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
+* [slugify ★175 ⏳1Y](https://github.com/benlinton/slugify) - Command that converts filenames and directories to a web friendly format
 * [sman ★117](https://github.com/tokozedg/sman) - :bug: A command-line snippet manager
 * [spark ★4752](https://github.com/holman/spark) - ▁▂▃▅▂▇ in your shell
 * [Shark ★129](https://github.com/fisherman/shark) - ▁▂▃▅ Sparkline Generator
-* [sheet ★218](https://github.com/oscardelben/sheet) -  Text snippets for the command line
-* [spot ★612](https://github.com/rauchg/spot) - Tiny file search utility
+* [sheet ★218 ⏳4Y](https://github.com/oscardelben/sheet) -  Text snippets for the command line
+* [spot ★612 ⏳1Y](https://github.com/rauchg/spot) - Tiny file search utility
 - [snips ★19](https://github.com/srijanshetty/snips) - Commandline tool to manage snippets of code.
-* [sshfs ★425](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
+* [sshfs ★425 ⏳1Y](https://github.com/osxfuse/sshfs) - A tool for mounting remote file systems over SSH
 * [sshrc ★3677](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
 * [sudocabulary ★73](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 * [surfraw](http://surfraw.alioth.debian.org/) - browse specific site and search the web from your terminal without browser.
 * [thefuck ★26327](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr ★109](https://github.com/raylee/tldr) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](http://tmux.github.io/) - Amazing terminal multiplexer
-* [up ★29](https://github.com/shannonmoeller/up) - Ascend directories by name or count, for bash and zsh.
+* [up ★29 ⏳1Y](https://github.com/shannonmoeller/up) - Ascend directories by name or count, for bash and zsh.
 * [v ★269](https://github.com/rupa/v) - z for vim.
 * [wemux ★2731](https://github.com/zolrath/wemux) - Multi-User Tmux Made Easy
 * [z ★6721](https://github.com/rupa/z) - z is the new j, yo
@@ -112,7 +119,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bullet-train-oh-my-zsh-theme ★1263](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 * [emojify ★832](https://github.com/mrowa44/emojify) Emoji on the command line :scream:
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Nicer colors for terminal
-* [git-prompt ★320](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules
+* [git-prompt ★320 ⏳1Y](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules
 * [gittify ★21](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
 * [Gogh - Color Scheme ★839](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
 * [liquidprompt ★3044](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
@@ -125,7 +132,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Command-line development, version control, and deployment.*
 
 * [bcal ★34](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
-* [bocker ★4188](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
+* [bocker ★4188 ⏳1Y](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 * [cloc ★2614](https://github.com/AlDanial/cloc) - Count Lines of Code
 * [dokku ★13517](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
 * [getopts ★88](https://github.com/fisherman/getopts) - CLI parser for fish
@@ -141,7 +148,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pre-commit](http://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [repren ★131](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
 * [slap ★3511](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
-* [shipit ★323](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
+* [shipit ★323 ⏳1Y](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring ★89](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 
 ## System Utilities
@@ -158,12 +165,12 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [htop ★2196](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
 * [lnav](http://lnav.org) - An advanced log file viewer for the small-scale
 * [ls++ ★329](https://github.com/trapd00r/ls--) - Colorized ls on steroids
-* [lsp ★409](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
+* [lsp ★409 ⏳1Y](https://github.com/dborzov/lsp) - An improved `ls`, with file descriptions in plain language and intelligent file grouping
 * [mtr ★630](https://github.com/traviscross/mtr) - The functionality of the 'traceroute' and 'ping' programs in a single network diagnostic tool.
 * [ncdu](https://dev.yorhel.nl/ncdu) - NCurses Disk Usage
 * [powertop ★255](https://github.com/fenrus75/powertop) - Battery/Power usage and device stats monitoring command-line tool, with tune-up options.
-* [procdog ★44](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
-* [quick-secure ★252](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
+* [procdog ★44 ⏳1Y](https://github.com/jlevy/procdog) - Lightweight command-line control of long-lived processes like servers
+* [quick-secure ★252 ⏳1Y](https://github.com/marshyski/quick-secure) - Quickly secure and harden UNIX/Linux systems
 
 ## Downloading and Serving
 
@@ -175,7 +182,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bitpocket](https://github.com/sickill/bitpocket) - "DIY Dropbox" or "2-way directory (r)sync with proper deletion"
 * [Dropbox-Uploader ★4655](https://github.com/andreafabrizi/Dropbox-Uploader) - Dropbox Uploader is a Bash script which can be used to upload, download, list or delete files from Dropbox
 * [httpie ★29368](https://github.com/jakubroztocil/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
-* [ngincat ★104](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
+* [ngincat ★104 ⏳2Y](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty ★2108](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
 * [youtube-dl ★25590](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
 
@@ -183,7 +190,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for handling video and audio files.*
 
-* [adb-export ★45](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
+* [adb-export ★45 ⏳2Y](https://github.com/sromku/adb-export) - Export Android content providers to CSV format
 * [Android-Kitchen ★745](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
 * [Beets ★5829](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus ★1988](https://github.com/cmus/cmus) - Cross-platform cli audio player.
@@ -204,20 +211,20 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [ansiweather ★1278](https://github.com/fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols
 * [bashblog ★576](https://github.com/cfenollosa/bashblog) - A Bash script that handles blog posting
-* [choosealicense-cli ★29](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
+* [choosealicense-cli ★29 ⏳1Y](https://github.com/lord63/choosealicense-cli) - Choose an OSS license from the comfort of your terminal
 * [facy ★237](https://github.com/huydx/facy) - Command line power tool for facebook
 * [fanyi ★282](https://github.com/afc163/fanyi) - Translate English to Chinese in terminal
 * [geeknote ★1776](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [haxor-news ★2229](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 * [hn-cli ★378](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
 * [iponmap ★109](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
-* [isitup ★20](https://github.com/lord63/isitup) - Check whether a website is up or down
+* [isitup ★20 ⏳1Y](https://github.com/lord63/isitup) - Check whether a website is up or down
 * [jrnl ★2332](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger ★2029](https://github.com/ledger/ledger) - Command line accounting
-* [licen ★23](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
+* [licen ★23 ⏳2Y](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
 * [moviemon ★72](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 * [pockyt ★167](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
-* [pushblast ★90](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
+* [pushblast ★90 ⏳1Y](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash ★173](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [Reddit Terminal Viewer ★1258](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 * [SAWS ★3235](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
@@ -236,7 +243,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [minesweeper](https://github.com/feherke/Bash-script/tree/master/minesweeper) - Bash implementation of minesweeper
 * [nudoku ★57](https://github.com/jubalh/nudoku) - ncurses based sudoku game written in C
 * [sedtris ★216](https://github.com/uuner/sedtris) - Tetris in sed
-* [sed-scripts ★16](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
+* [sed-scripts ★16 ⏳4Y](https://github.com/aureliojargas/sed-scripts) - Arkanoid and Sokoban written using sed
 * [tty-solitaire ★66](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
 
 ## Shell Package Management
@@ -260,7 +267,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ansi ★94](https://github.com/fidian/ansi) - ANSI escape codes in pure bash - change text color, position the cursor, much more
 * [assert.sh ★280](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 * [bashful ★322](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
-* [bashmanager ★30](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
+* [bashmanager ★30 ⏳1Y](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
 * [bashwithnails ★3](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
 * [bats ★3494](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [crash ★8](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
@@ -279,7 +286,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shellfire](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [shpec ★276](https://github.com/rylnd/shpec) - A shell testing framework
 * [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
-* [sub ★1356](https://github.com/basecamp/sub) - A delicious way to organize programs
+* [sub ★1356 ⏳4Y](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts ★32](https://github.com/thinkerbot/ts) - A shell test script
 * [shunit2 ★219](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash ★21](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
@@ -312,3 +319,7 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 [awesome-fish]: https://github.com/jbucaran/awesome-fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/alebcay/awesome-shell">https://github.com/alebcay/awesome-shell</a> with ranks
+</p>

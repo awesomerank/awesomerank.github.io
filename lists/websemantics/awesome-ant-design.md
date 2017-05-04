@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/websemantics/awesome-ant-design">https://github.com/websemantics/awesome-ant-design</a> with ranks
+</p>
+---
 ```   
                                                                        ---.
       ╭───╮╭──╮  ╭──╮   ╭──╮ ╭───╮  ╭──╮  ╭─── ───╮   ╭──╮            -..  \
@@ -95,7 +102,7 @@ A list of UI components built with Ant Design,
 
 A list of mature apps built with Ant Design,
 
-- [Eevee ★94](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
+- [Eevee ★94 ⏳1Y](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
 - [Productivity Application ★57](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
 ## Frameworks
@@ -112,7 +119,7 @@ A list of starter projects and boilerplates built with Ant Design,
 - [React SPA ★350](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
 - [React Admin](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
 - [React Redux ★189](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
-- [React Antd Starter ★63](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
+- [React Antd Starter ★63 ⏳1Y](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
 - [Webbf ★116](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
 - [React Redux Antd Starter ★46](https://github.com/BetaRabbit/react-redux-antd-starter) - Front-end boilerplate built with React, Redux and Ant Design.
 - [Koa ★39](https://github.com/yukrain/koa-antd-admin) - Example app to build Admin UI built with React, Ant Design and Koa.
@@ -121,7 +128,7 @@ A list of starter projects and boilerplates built with Ant Design,
 - [React Start Kit ★78](https://github.com/jovey-zheng/react-start-kit) - SPA Boilerplate built with React, Webpack, ES6+, Redux, Router, Babel, Express, Ant Design.
 - [CL React ★24](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
 - [TODO MVC ★5](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
-- [React Boilerplate ★17](https://github.com/huhulab/react-frontend-boilerplate) - React Admin front-end boilerplate built with Ant Design.
+- [React Boilerplate ★17 ⏳1Y](https://github.com/huhulab/react-frontend-boilerplate) - React Admin front-end boilerplate built with Ant Design.
 - [Dva Antd Starter ★3](https://github.com/xlsdg/dva-antd-starter) - Get started with Dva.js and Ant Design.
 - [Dva Antd Mobile Starter ★14](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.
 - [Dva Ant Admin ★1](https://github.com/jiangbo2015/learn-dva) - A front-end boilerplate built with Dva, Ant-Design
@@ -135,3 +142,7 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/websemantics/awesome-ant-design">https://github.com/websemantics/awesome-ant-design</a> with ranks
+</p>

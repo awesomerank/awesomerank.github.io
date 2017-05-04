@@ -1,9 +1,16 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/phillipadsmith/awesome-github">https://github.com/phillipadsmith/awesome-github</a> with ranks
+</p>
+---
 # Awesome GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/phillipadsmith/awesome-github.svg)](https://travis-ci.org/phillipadsmith/awesome-github)
 
 
 > A curated list of GitHub's awesomeness
 
-Think GitHub is awesome? Contribute something to this list! It's easy, just have a look at the [contribution guidelines](CONTRIBUTING.md).
+Think GitHub is awesome? Contribute something to this list! It's easy, just have a look at the [contribution guidelines](https://github.com/phillipadsmith/awesome-github/blob/master/CONTRIBUTING.md).
 
 The awesomeness is currently organized into just a few different buckets: 
 
@@ -18,7 +25,7 @@ It is specifically focused on _GitHub_, and not on [Git](https://git-scm.com/). 
 
 All that to say, this list -- [Awesome GitHub ★267](https://github.com/phillipadsmith/awesome-github) -- is an attempt to document that aspect of what is awesome: everything that GitHub has become -- far beyond what Git is today, and beyond where GitHub started just eight years ago.
 
-The inspiration for this list came from [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) for the [2015 Mozilla Festival](https://2015.mozillafestival.org/). I later learned, serendiptiously, that the Mozilla Festival itself was using [GitHub issues to manage the program ★36](https://github.com/mozilla/mozfest-program) -- reviewing proposals, assign sessions to tracks and themes, and much more. Just one more example of how GitHub is being used to make awesome.
+The inspiration for this list came from [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) for the [2015 Mozilla Festival](https://2015.mozillafestival.org/). I later learned, serendiptiously, that the Mozilla Festival itself was using [GitHub issues to manage the program ★36 ⏳1Y](https://github.com/mozilla/mozfest-program) -- reviewing proposals, assign sessions to tracks and themes, and much more. Just one more example of how GitHub is being used to make awesome.
 
 ------
 
@@ -27,7 +34,7 @@ The inspiration for this list came from [a session proposal](http://phillipadsmi
 - [Code School's Try Git](https://try.github.io/levels/1/challenges/1) - If you'd like to better understand Git, one of the technologys that makes GitHub possible, this is a great place to start. No GitHub account required.
 - [Git-it ★1535](https://github.com/jlord/git-it) -- :computer: :mortar_board: A workshopper for learning Git and GitHub.
 - [On-Demand GitHub Training](https://services.github.com/on-demand/) - Self-paced, interactive projects created and maintained by GitHub's own Training team. 
-- [Bingo Board ★16](https://github.com/muan/bingo-board) -- Play bingo :boom: by sending pull requests!
+- [Bingo Board ★16 ⏳1Y](https://github.com/muan/bingo-board) -- Play bingo :boom: by sending pull requests!
 - [Writing on GitHub](https://help.github.com/articles/writing-on-github/) - GitHub's own guide to using GitHub for more than just software development.
 - [GitHubGuides](https://www.youtube.com/user/GitHubGuides) - GitHub Training & Guides on YouTube.
 - [GitHub Pages](https://pages.github.com/) - Websites for you and your projects.
@@ -40,7 +47,7 @@ Hosted directly from your GitHub repository. Just edit, push, and your changes a
   - [CSV](https://github.com/blog/1601-see-your-csvs) - Data journalists and civic data nerds rejoice, comma separated values right in the browser!
   - [SVG](https://github.com/blog/1902-svg-viewing-diffing) - Not only can you view scalable vector graphics in the browser, but you can see the difference between versions visually! You've got to see it to believe it.  (In fact, [you can do this with most image files](https://github.com/blog/817-behold-image-view-modes).)
   - [PSD](https://github.com/blog/1845-psd-viewing-diffing) - That's right, same idea as SVG, but for Photoshop files!
-- [GitHub Government Community ★70](https://github.com/government/welcome) - Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
+- [GitHub Government Community ★70 ⏳1Y](https://github.com/government/welcome) - Information on joining GitHub's [government community](https://government.github.com/) — a collaborative community for sharing best practices in furtherance of open source, open data, and open government efforts.
 - [Classroom for GitHub](https://classroom.github.com) - Your course assignments on GitHub.
 
 ## Resources for those already familiar with GitHub
@@ -69,9 +76,9 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Penflip](https://www.penflip.com/) - Collaborative writing and version control, powered by GitLab (similar to GitHub).
 - [Gitbook](https://www.gitbook.com/) - A modern publishing toolchain. Simply taking you from ideas to finished, polished books.
 - [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
-- [Redliner ★18](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
+- [Redliner ★18 ⏳1Y](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
 - [Gatekeeper ★499](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
-- [github-secret-keeper ★49](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
+- [github-secret-keeper ★49 ⏳1Y](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 - [Hub ★10294](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
 - [Ghizmo ★35](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
 - [cli-github ★168](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line.
@@ -88,9 +95,13 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 
 ## Novel uses of GitHub
 
-- [Mozilla Festival ★36](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
+- [Mozilla Festival ★36 ⏳1Y](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
 - [Open Source Society University ★20989](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
 - [Clef's Handbook ★2450](https://github.com/clef/handbook) - An employee handbook built for inclusion.
 - [The United States Code ★636](https://github.com/divegeek/uscode) - The complete United States Code.
-- [Le code civil français sous git ★2540](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
+- [Le code civil français sous git ★2540 ⏳1Y](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.
 - [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/phillipadsmith/awesome-github">https://github.com/phillipadsmith/awesome-github</a> with ranks
+</p>

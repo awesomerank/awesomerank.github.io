@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ciconia/awesome-music">https://github.com/ciconia/awesome-music</a> with ranks
+</p>
+---
 # Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A categorized collection of awesome music libraries, tools, frameworks and software.
@@ -75,7 +82,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Lilypond](http://lilypond.org/) - free, open-source music engraving program, devoted to producing the highest-quality sheet music possible.
 * [Lilypond cook book](https://github.com/noteflakes/lilypond-cookbook/wiki/) - tips & tricks for getting the most out of lilypond.
 * [Lilypond Snippet Repository](http://lsr.di.unimi.it/) - an online database of Lilypond snippets ideas, features and hacks.
-* [Lilyvm ★2](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
+* [Lilyvm ★2 ⏳1Y](https://github.com/olsonpm/lilyvm) - Lilypond version manager.
 * [Lydown ★8](https://github.com/ciconia/lydown) - a modern language for music notation, based on Lilypond.
 * [Lyp ★38](https://github.com/noteflakes/lyp) - the Lilypond swiss army knife - easily install packages, manage multiple versions of Lilypond, and other tools for power users.
 * [MuseScore ★1511](https://github.com/musescore/MuseScore) - free open-source music notation and composition software.
@@ -83,9 +90,9 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [NOTATIO](http://notat.io/) - a forum devoted to the practice of music notation.
 * [OpenLilyLib ★67](https://github.com/openlilylib/snippets) - LilyPond tools - snippets, templates, and extensions.
 * [Python-ly](https://pypi.python.org/pypi/python-ly) - a tool and library for manipulating LilyPond files.
-* [Ripple ★15](https://github.com/ciconia/ripple) - DRY for Lilypond - generate scores and parts with minimal fuss.
+* [Ripple ★15 ⏳3Y](https://github.com/ciconia/ripple) - DRY for Lilypond - generate scores and parts with minimal fuss.
 * [Scorelib](http://scorelib.sapp.org/) - a C++ library for parsing SCORE data files.
-* [Tunefl ★19](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
+* [Tunefl ★19 ⏳1Y](https://github.com/tiredpixel/tunefl) - LilyPond mini-score engraving and sharing service for musicians.
 * [Verovio ★85](https://github.com/rism-ch/verovio) - a library and a toolkit for engraving MEI music notation into SVG.
 * [Vexflow ★1794](https://github.com/0xfe/vexflow) - a JavaScript library for rendering music notation and guitar tablature.
 
@@ -94,7 +101,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Alda ★2625](https://github.com/alda-lang/alda) - a music programming language for musicians.
 * [Bach: Automated Composer's Helper](http://www.bachproject.net/) - a cross-platform set of patches and externals for Max, aimed to bring the richness of computer-aided composition into the real-time world.
 * [Chuck ★200](https://github.com/ccrma/chuck) - strongly-timed, concurrent, and on-the-fly music programming language.
-* [CoffeeCollider ★183](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
+* [CoffeeCollider ★183 ⏳1Y](https://github.com/mohayonao/CoffeeCollider) - a language for real time audio synthesis and algorithmic composition in HTML5. "Write CoffeeScript, and be processed as SuperCollider."
 * [Common Music](http://commonmusic.sourceforge.net/) - an open source music composition system.
 * [Csound](http://csound.github.io/) - a user-programmable and user-extensible sound processing language and software synthesizer.
 * [Faust](http://faust.grame.fr/about/) - a functional programming language specifically designed for real-time signal processing and synthesis.
@@ -137,3 +144,7 @@ Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sharon Rosner](http://github.com/ciconia) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ciconia/awesome-music">https://github.com/ciconia/awesome-music</a> with ranks
+</p>

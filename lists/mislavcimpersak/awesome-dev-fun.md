@@ -1,8 +1,15 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/mislavcimpersak/awesome-dev-fun">https://github.com/mislavcimpersak/awesome-dev-fun</a> with ranks
+</p>
+---
 # Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
-For now this is a really short list, so please contribute. Read [the guide](CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
+For now this is a really short list, so please contribute. Read [the guide](https://github.com/mislavcimpersak/awesome-dev-fun/blob/master/CONTRIBUTING.md) and make a pull request or just ping me on Twitter [@mislavcimpersak](https://twitter.com/mislavcimpersak) with some funny stuff.
 
 
 ## Contents
@@ -25,7 +32,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 - [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - Feel for a moment as the great Stevie Wonder with this simulator for Android.
 - [Mindf@*k Keyboard ★2](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press.
-- [holdr ★28](https://github.com/starakaj/holdr) - Solves the problem of knowing when you're holding your phone.
+- [holdr ★28 ⏳2Y](https://github.com/starakaj/holdr) - Solves the problem of knowing when you're holding your phone.
 
 
 ## Elixir
@@ -38,13 +45,13 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## JavaScript
 
-- [ComcastifyJS ★1147](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast.
+- [ComcastifyJS ★1147 ⏳2Y](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast.
 - [Elevator.js ★4223](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
-- [Echochamber.js ★3647](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage.
+- [Echochamber.js ★3647 ⏳1Y](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage.
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
-- [FuckitJS ★2352](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller.
+- [FuckitJS ★2352 ⏳4Y](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller.
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
-- [Object.toSting() ★166](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
+- [Object.toSting() ★166 ⏳1Y](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
 - [Sarcasm ★37](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids.
 - [Batonnet.js ★6](https://github.com/BinaryBrain/Batonnet.js) - Universal, intercultural and user-friendly way to display numbers.
 - [HTML9 Responsive Boilerstrap JS](http://html9responsiveboilerstrapjs.com/) - H9RBS.js (v0.0001) is a flexible, dependency-free, lightweight, device-agnostic, modular, baked-in, component framework MVC library shoelacestrap to help you kickstart your responsive CSS-based app architecture backbone kitchensink tweetybirds.
@@ -55,19 +62,19 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## PHP
 
-- [Phpunit VW ★1610](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools.
+- [Phpunit VW ★1610 ⏳1Y](https://github.com/hmlb/phpunit-vw) - VW makes failing test cases succeed in continuous integration tools.
 
 
 ## Python
 
-- [PyTest-VW ★95](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
+- [PyTest-VW ★95 ⏳1Y](https://github.com/The-Compiler/pytest-vw) - VW makes failing test cases succeed in continuous integration tools.
 - [left-pad](https://pypi.python.org/pypi/left-pad/) - Python's solution to infamous npm problem.
 
 
 ## Ruby
 
 - [Nyan Cat RSpec Formatter ★625](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
-- [Base ★373](https://github.com/garybernhardt/base) - The universal Base class you've always wanted.
+- [Base ★373 ⏳3Y](https://github.com/garybernhardt/base) - The universal Base class you've always wanted.
 
 
 ## Languages
@@ -93,7 +100,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## CLI
 - [Pong-command ★61](https://github.com/kurehajime/pong-command) - Pong is Not Ping.
-- [Alice ★5](https://github.com/susisu/alice) - Alice sings when you mistakenly type al.
+- [Alice ★5 ⏳1Y](https://github.com/susisu/alice) - Alice sings when you mistakenly type al.
 - [cmprss ★1](https://github.com/kurehajime/cmprss) - IrrvrsbleCmprssionForTxt.
 - [lolcat ★2198](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 - [evil.sh ★878](https://github.com/mathiasbynens/evil.sh) - Subtle and not-so-subtle shell tweaks that will slowly drive people insane.
@@ -103,3 +110,7 @@ For now this is a really short list, so please contribute. Read [the guide](CONT
 
 ## Miscellaneous
 - [Filefile](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/mislavcimpersak/awesome-dev-fun">https://github.com/mislavcimpersak/awesome-dev-fun</a> with ranks
+</p>

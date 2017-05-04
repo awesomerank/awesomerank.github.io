@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/mfornos/awesome-microservices">https://github.com/mfornos/awesome-microservices</a> with ranks
+</p>
+---
 # Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of Microservice Architecture related principles and technologies.
@@ -118,7 +125,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Libslack](http://libslack.org/) -  Provides a generic agent oriented programming model, run time selection of locking strategies, functions that make writing daemons trivial and simplify the implementation of network servers and clients, &c.
 - [Lwan](http://lwan.ws/) - High-performance and scalable web server.
 - [Onion ★1202](https://github.com/davidmoreno/onion) - C library to create simple HTTP servers and web applications.
-- [RIBS2 ★106](https://github.com/Adaptv/ribs2) - Library which allows building high-performance internet serving systems.
+- [RIBS2 ★106 ⏳2Y](https://github.com/Adaptv/ribs2) - Library which allows building high-performance internet serving systems.
 
 ### C++
 <!-- #c-1 anchor -->
@@ -153,7 +160,7 @@ A curated list of Microservice Architecture related principles and technologies.
 #### Erlang
 
 - [Cowboy ★3948](https://github.com/ninenines/cowboy) - Small, fast, modular HTTP server written in Erlang.
-- [Gen Microservice ★78](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
+- [Gen Microservice ★78 ⏳2Y](https://github.com/videlalvaro/gen_microservice) - This library solves the problem of implementing microservices with Erlang.
 - [Mochiweb ★1473](https://github.com/mochi/mochiweb) - Erlang library for building lightweight HTTP servers.
 
 ### Go
@@ -172,10 +179,10 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Micro ★3065](https://github.com/micro/micro) - A microservices toolchain in Go.
 - [Nano ★2](https://github.com/pasztorpisti/nano) - A minimalistic, transport-agnostic and testing-friendly microservice framework.
 - [Negroni](https://github.com/codegangsta/negroni) - Idiomatic HTTP middleware for Golang.
-- [Neutrino ★135](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
+- [Neutrino ★135 ⏳1Y](https://github.com/neutrinoapp/neutrino) - Realtime/REST backend service.
 - [RPCX ★1004](https://github.com/smallnest/rpcx) - A distributed RPC service framework based on NET/RPC like Alibaba Dubbo and Weibo Motan.
-- [Sleepy ★656](https://github.com/dougblack/sleepy) - REST for go.
-- [Vamp-router ★79](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
+- [Sleepy ★656 ⏳3Y](https://github.com/dougblack/sleepy) - REST for go.
+- [Vamp-router ★79 ⏳1Y](https://github.com/magneticio/vamp-router) - Service routing, load balancing and filtering application.
 - [Zerver ★141](https://github.com/cosiner/zerver) - RESTful API framework.
 
 ### Haskell
@@ -228,7 +235,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Baucis ★616](https://github.com/wprl/baucis) - To build and maintain scalable HATEOAS/Level 3 REST APIs.
 - [Express](http://expressjs.com/) - Fast, unopinionated, minimalist web framework for Node.js
 - [FeathersJS](http://feathersjs.com/) - An open source REST and realtime API layer for modern applications.
-- [Graft ★218](https://github.com/GraftJS/graft) - Full-stack javascript through microservices.
+- [Graft ★218 ⏳1Y](https://github.com/GraftJS/graft) - Full-stack javascript through microservices.
 - [Hapi](http://hapijs.com/) - A rich framework for building applications and services.
 - [Hudson Taylor ★25](https://github.com/hudson-taylor/hudson-taylor) - Set of libraries for building automatically documented, well validated services.
 - [Koa](http://koajs.com/) - Next generation web framework for Node.js
@@ -280,7 +287,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Keepalived](http://www.keepalived.org/) - Simple and robust facilities for loadbalancing and high-availability to Linux system and Linux based infrastructures.
 - [Kong](https://getkong.org/) - Open source management layer for APIs.
 - [Linkerd](https://linkerd.io/) - Resilient service mesh for cloud native apps.
-- [Neutrino ★218](https://github.com/eBay/Neutrino) - Extensible software load balancer.
+- [Neutrino ★218 ⏳1Y](https://github.com/eBay/Neutrino) - Extensible software load balancer.
 - [OpenResty](http://openresty.org/) - Fast web application server built on top of Nginx.
 - [Skipper ★350](https://github.com/zalando/skipper) - HTTP router useful for decoupling routing from service logic.
 - [Tengine](http://tengine.taobao.org/) - A distribution of Nginx with some advanced features.
@@ -300,7 +307,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Consul](https://www.consul.io/) - Service discovery and configuration made easy. Distributed, highly available, and datacenter-aware.
 - [ContainerPilot ★650](https://github.com/joyent/containerpilot) - Service for autodiscovery and configuration of applications running in containers.
 - [Denominator ★431](https://github.com/Netflix/denominator) - Portably control DNS clouds using java or bash.
-- [Doozer ★2852](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
+- [Doozer ★2852 ⏳1Y](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
 - [Etcd ★13222](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
 - [Microphone ★360](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
@@ -345,7 +352,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Mesos](https://mesos.apache.org/) - Abstracts CPU, memory, storage, and other compute resources away from machines (physical or virtual), enabling fault-tolerant and elastic distributed systems to easily be built and run effectively.
 - [Nomad](https://www.nomadproject.io/) - Distributed, highly available, datacenter-aware scheduler.
 - [Onyx ★1480](https://github.com/onyx-platform/onyx) - Distributed, masterless, high performance, fault tolerant data processing for Clojure.
-- [Ordasity ★348](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
+- [Ordasity ★348 ⏳2Y](https://github.com/boundary/ordasity) - Designed to spread persistent or long-lived workloads across several machines.
 - [Redisson](https://github.com/mrniko/redisson) - Distributed and scalable Java data structures on top of Redis server.
 - [Serf](https://www.serfdom.io/) - Decentralized solution for cluster membership, failure detection and orchestration.
 
@@ -387,7 +394,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kryo ★2590](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 - [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 - [Protostuff](http://www.protostuff.io/) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
-- [SBinary ★79](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
+- [SBinary ★79 ⏳1Y](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 - [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
 
 ### Storage
@@ -424,7 +431,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Pathod](http://pathod.net/) - Crafted malice for tormenting HTTP clients and servers.
 - [Raft Consensus](http://raftconsensus.github.io/) - Consensus algorithm that is designed to be easy to understand. It's equivalent to Paxos in fault-tolerance and performance.
 - [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
-- [Saboteur ★290](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
+- [Saboteur ★290 ⏳1Y](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
 - [Simian Army ★5410](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
 
 ### Testing
@@ -483,8 +490,8 @@ A curated list of Microservice Architecture related principles and technologies.
 - [ION-Roller ★152](https://github.com/gilt/ionroller) - AWS immutable deployment framework for web services.
 - [Janky ★2615](https://github.com/github/janky) - Continuous integration server built on top of Jenkins and Hubot.
 - [Jenkins](http://jenkins-ci.org/) - Extensible open source continuous integration server.
-- [Nscale ★318](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
-- [Project 6 ★22](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
+- [Nscale ★318 ⏳1Y](https://github.com/nearform/nscale) - Open toolkit supporting configuration, build and deployment of connected container sets.
+- [Project 6 ★22 ⏳1Y](https://github.com/DatawiseIO/Project6) - Software for deploying and managing Docker containers across a cluster of hosts, with a focus on simplifying network and storage configurations for on-premises environments.
 - [Puller ★0](https://github.com/crufter/puller) - A very simple, distributed tool to deploy and do CI with Docker containers.
 - [Rancher ★5886](https://github.com/rancher/rancher) - Open source platform for operating Docker in production.
 - [Spinnaker ★2957](https://github.com/spinnaker/spinnaker) - Open source cloud-agnostic continuous delivery and infrastructure management platform.
@@ -501,8 +508,8 @@ A curated list of Microservice Architecture related principles and technologies.
 ### Lightweight
 
 - [Capsule ★1021](https://github.com/puniverse/capsule) - Packaging and deployment tool for JVM applications.
-- [Fleet ★887](https://github.com/substack/fleet) - Multi-server continuous git-based deployment and process management.
-- [Kafka Deploy ★109](https://github.com/nathanmarz/kafka-deploy) - Automated deploy for a Kafka cluster on AWS.
+- [Fleet ★887 ⏳4Y](https://github.com/substack/fleet) - Multi-server continuous git-based deployment and process management.
+- [Kafka Deploy ★109 ⏳5Y](https://github.com/nathanmarz/kafka-deploy) - Automated deploy for a Kafka cluster on AWS.
 - [LambdaCD ★449](https://github.com/flosell/lambdacd) - A library to define a continuous delivery pipeline in code.
 
 ## Containers
@@ -663,7 +670,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - Microservices in C#: [Part 1](http://insidethecpu.com/2015/07/17/microservices-in-c-part-1-building-and-testing/), [Part 2](http://insidethecpu.com/2015/07/31/microservices-in-c-part-2-consistent-message-delivery/), [Part 3](http://insidethecpu.com/2015/08/14/microservices-in-c-part-3-queue-pool-sizing/), [Part 4](http://insidethecpu.com/2015/08/28/microservices-in-c-part-4-scaling-out/), [Part 5](http://insidethecpu.com/2015/09/11/microservices-in-c-part-5-autoscaling/).
 - [Microservices with Python, RabbitMQ and Nameko](http://brunorocha.org/python/microservices-with-python-rabbitmq-and-nameko.html)
 - [Petstore Example in Light Java](https://networknt.github.io/light-java/example/petstore/) - Petstore API from OpenAPI specification to production.
-- [Reactive Microservices ★192](https://github.com/theiterators/reactive-microservices) - Project showcasing different microservice communication styles using Scala, Akka, Play and other tools from Scala ecosystem.
+- [Reactive Microservices ★192 ⏳1Y](https://github.com/theiterators/reactive-microservices) - Project showcasing different microservice communication styles using Scala, Akka, Play and other tools from Scala ecosystem.
 - [Using Packer and Ansible to build immutable infrastructure](https://blog.codeship.com/packer-ansible/)
 
 ### Books
@@ -710,3 +717,7 @@ Please, read the [Contribution Guidelines](https://github.com/mfornos/awesome-mi
 Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/issues) or [create a pull request](https://github.com/mfornos/awesome-microservices/pulls) with your additions.
 
 :star2: Thank you!
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/mfornos/awesome-microservices">https://github.com/mfornos/awesome-microservices</a> with ranks
+</p>

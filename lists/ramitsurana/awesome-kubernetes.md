@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ramitsurana/awesome-kubernetes">https://github.com/ramitsurana/awesome-kubernetes</a> with ranks
+</p>
+---
 Awesome-Kubernetes
 =======================================================================
 
@@ -147,6 +154,7 @@ Installers
 * [Juju](https://jujucharms.com/canonical-kubernetes) - Ubuntu - Cloud Agnostique - [Apache-2.0](https://github.com/juju-solutions/bundle-canonical-kubernetes/blob/master/LICENSE)
 * [Terraform ★362](https://github.com/kz8s/tack) - CoreOS - AWS - [MIT](https://github.com/kz8s/tack/blob/master/LICENSE)
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique - [Apache-2.0](https://github.com/supergiant/supergiant/blob/master/LICENSE)
+* [Archon ★65](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubeup/archon/blob/master/LICENSE)
 
 Main Resources
 =======================================================================
@@ -283,6 +291,7 @@ Persistent Volume Providers
 * [OpenStack Cinder](https://wiki.openstack.org/cinder)
 * [CephRBD](http://ceph.com/ceph-storage/block-storage/)
 * [QuoByte](https://www.quobyte.com/)
+* [Kube-Aliyun ★28](https://github.com/kubeup/kube-aliyun)
 
 Related Projects
 =======================================================================
@@ -302,6 +311,7 @@ Related Projects
 * [Kubernetes Ec2 Autoscaler ★391](https://github.com/openai/kubernetes-ec2-autoscaler)
 * [Kubeform](https://capgemini.github.io/kubeform/)
 * [kube-openvpn ★58](https://github.com/pieterlange/kube-openvpn)
+* [Archon ★65](https://github.com/kubeup/archon) 
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
 
 ## Package Managers
@@ -317,7 +327,7 @@ Related Projects
 * [Datadog](https://www.datadoghq.com/)
 * [Heapster ★1179](https://github.com/kubernetes/heapster)
 * [Kubedash](https://github.com/kubernetes/kubedash)
-* [Kube-ui ★145](https://github.com/kubernetes/kube-ui)
+* [Kube-ui ★145 ⏳1Y](https://github.com/kubernetes/kube-ui)
 * [Netsil ★37](https://github.com/netsil/manifests)
 * [Prometheus](http://prometheus.io)
 * [Sysdig Open Source](http://www.sysdig.org/)
@@ -399,7 +409,7 @@ Related Projects
 * [Contiv](http://contiv.github.io/)
 * [Calico](https://www.projectcalico.org/)
 * [OpenVSwitch](http://openvswitch.org/)
-
+* [Kube-router](http://github.com/cloudnativelabs/kube-router)
 
 ## Service mesh
 
@@ -664,3 +674,7 @@ License
 =======================================================================
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-kubernetes</span> by <a xmlns:cc="http://creativecommons.org" href="http://www.linkedin.com/in/ramitsurana" property="cc:attributionName" rel="cc:attributionURL">Ramit Surana</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ramitsurana/awesome-kubernetes">https://github.com/ramitsurana/awesome-kubernetes</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/lauris/awesome-scala">https://github.com/lauris/awesome-scala</a> with ranks
+</p>
+---
 Awesome Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 =============
 
@@ -211,6 +218,8 @@ Projects with over 500 stargazers are in bold.
 
 * [kantan.csv ★ 143 ⧗ 24](https://github.com/nrinaudo/kantan.csv) - CSV handling library for Scala with multiple backends.
 * [Scala-CSV ★ 365 ⧗ 1](https://github.com/tototoshi/scala-csv) - CSV Reader/Writer for Scala.
+* [fm-flatfile ★ 1 ⧗ 1](https://github.com/frugalmechanic/fm-flatfile) - Very flexible, Flat File (CSV, TSV, Excel, etc) Reader for Scala.
+
 
 ## Serialization
 
@@ -536,3 +545,7 @@ Projects with over 500 stargazers are in bold.
 # Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/lauris/awesome-scala">https://github.com/lauris/awesome-scala</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/aleksandar-todorovic/awesome-c">https://github.com/aleksandar-todorovic/awesome-c</a> with ranks
+</p>
+---
 # awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][387]
 
 A curated list of C good stuff. This list contains *only* [free software][13] for code, and sellers who aren't evil for physical resources.
@@ -936,3 +943,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [398]: https://github.com/jorisvink/kore
 [399]: https://github.com/koanlogic/klone
 [400]: https://github.com/liteserver/binn
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/aleksandar-todorovic/awesome-c">https://github.com/aleksandar-todorovic/awesome-c</a> with ranks
+</p>

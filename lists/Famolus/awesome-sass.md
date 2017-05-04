@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/Famolus/awesome-sass">https://github.com/Famolus/awesome-sass</a> with ranks
+</p>
+---
 ![Awesome Sass](https://raw.githubusercontent.com/Famolus/awesome-sass/master/awesome-sass-logo-github.png)
 
 # Awesome Sass [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
@@ -5,7 +12,7 @@
 > Curated list of awesome [Sass](http://sass-lang.com/) and [SCSS](http://sass-lang.com/) frameworks, libraries, style guides, articles, and resources.
 
 - Use <kbd>command</kbd> + <kbd>F</kbd> or <kbd>ctrl</kbd> + <kbd>F</kbd> to search for a keyword.
-- Contributions welcome, please see [contribution guide](contributing.md).
+- Contributions welcome, please see [contribution guide](https://github.com/Famolus/awesome-sass/blob/master/contributing.md).
 
 ## Contents
 - [About](#about)
@@ -78,7 +85,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [mq-scss ★43](https://github.com/Dan503/mq-scss) - An extreamly powerful but easy to use Sass media query mixin.
 
 ### Color
-- [scss-blend-modes ★815](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
+- [scss-blend-modes ★815 ⏳2Y](https://github.com/heygrady/scss-blend-modes) - Using standard color blending functions in Sass.
 - [brand-colors](http://brand-colors.com/) - 1100+ collection of popular brand colors available in Sass, Less, Stylus and CSS.
 - [Open color ★2813](https://github.com/yeun/open-color) - Open color is a color scheme for UI design. Available in CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 
@@ -91,7 +98,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 ### Animation
 - [Sass Burger ★613](https://github.com/jorenvanhee/sass-burger) - Sass mixin for creating animated hamburger icon.
 - [SpinThatShit](https://matejkustec.github.io/SpinThatShit/) - Set of SCSS mixins for single element loaders and spinners.
-- [Animate.scss ★444](https://github.com/geoffgraham/animate.scss) -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
+- [Animate.scss ★444 ⏳1Y](https://github.com/geoffgraham/animate.scss) -  Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) for SASS.
 - [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on. Available in CSS, Sass, and LESS.
 
 ### Miscellaneous
@@ -100,7 +107,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [normalize-scss ★1133](https://github.com/JohnAlbin/normalize-scss) -  Sass/Compass version of Normalize.css, a collection of HTML element and attribute rulesets to normalize styles across all browsers.
 - [Buttons ★5017](https://github.com/alexwolfe/Buttons) - CSS button library built using Sass and Compass.
 - [Modular Scale ★1602](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass.
-- [Scut ★746](https://github.com/davidtheclark/scut) - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
+- [Scut ★746 ⏳1Y](https://github.com/davidtheclark/scut) - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
 - [Sass flexbox mixin ★1048](https://github.com/mastastealth/sass-flex-mixin) - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
 - [Angled Edges ★694](https://github.com/josephfusco/angled-edges) - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
 - [retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
@@ -160,3 +167,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/Famolus/awesome-sass">https://github.com/Famolus/awesome-sass</a> with ranks
+</p>

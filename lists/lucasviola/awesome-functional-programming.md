@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/lucasviola/awesome-functional-programming">https://github.com/lucasviola/awesome-functional-programming</a> with ranks
+</p>
+---
 ## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 Based on the [Awesome ★57421](https://github.com/sindresorhus/awesome) project
@@ -89,7 +96,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Isabelle/HOL](https://www.cl.cam.ac.uk/research/hvg/Isabelle/) - Generic proof assistant based on Higher Order Logic	
 
 ### Repos
-- [Idris Koans ★103](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
+- [Idris Koans ★103 ⏳1Y](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 - [Functional Javascript Workshop ★1407](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
 - [J-Bob ★236](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 - [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
@@ -110,3 +117,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Lucas Viola](http://lucasviola.github.io) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/lucasviola/awesome-functional-programming">https://github.com/lucasviola/awesome-functional-programming</a> with ranks
+</p>

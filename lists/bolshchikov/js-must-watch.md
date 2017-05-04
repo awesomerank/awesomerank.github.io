@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/bolshchikov/js-must-watch">https://github.com/bolshchikov/js-must-watch</a> with ranks
+</p>
+---
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 > This is a list of must-watch videos devoted to JavaScript 
 
@@ -88,3 +95,7 @@
 ## 2009
 1. [Nicholas Zakas: **Scalable JavaScript Application Architecture**](https://www.youtube.com/watch?v=vXjVFPosQHw) [52:22]
 2. [Douglas Crockford: **JavaScript: The Good Parts**](https://www.youtube.com/watch?v=hQVTIJBZook) [1:03:47]
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/bolshchikov/js-must-watch">https://github.com/bolshchikov/js-must-watch</a> with ranks
+</p>

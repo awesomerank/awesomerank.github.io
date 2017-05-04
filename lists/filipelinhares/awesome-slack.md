@@ -1,4 +1,11 @@
-![Awesome Slack](images/logo.jpg)
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/filipelinhares/awesome-slack">https://github.com/filipelinhares/awesome-slack</a> with ranks
+</p>
+---
+![Awesome Slack](https://github.com/filipelinhares/awesome-slack/blob/master/images/logo.jpg)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/filipelinhares/awesome-slack.png)](https://travis-ci.org/filipelinhares/awesome-slack)
@@ -74,3 +81,7 @@ Your contributions and suggestions are :heart: welcome. Ensure to read the [guid
 
 ## License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/filipelinhares/awesome-slack">https://github.com/filipelinhares/awesome-slack</a> with ranks
+</p>

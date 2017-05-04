@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/TalAter/awesome-service-workers">https://github.com/TalAter/awesome-service-workers</a> with ranks
+</p>
+---
 # Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated collection of service worker resources.
@@ -6,7 +13,7 @@ A curated collection of service worker resources.
 >
 > -- <cite>[Mozilla Developer Network - Service Worker API](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API)</cite>
 
-If you want to contribute, please read the [contribution guidelines](contributing.md).
+If you want to contribute, please read the [contribution guidelines](https://github.com/TalAter/awesome-service-workers/blob/master/contributing.md).
 
 ## Contents
 
@@ -74,3 +81,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [CacheStorage API ★849](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
 - [IndexedDB ★849](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
 - [Push Notifications ★849](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/TalAter/awesome-service-workers">https://github.com/TalAter/awesome-service-workers</a> with ranks
+</p>

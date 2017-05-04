@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/Kiloreux/awesome-robotics">https://github.com/Kiloreux/awesome-robotics</a> with ranks
+</p>
+---
 Awesome Robotics
 ================
 
@@ -171,3 +178,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Deep Learning ★4408](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Deep Vision ★4004](https://github.com/kjw0612/awesome-deep-vision)
 * [Awesome Reinforcement Learning ★1142](https://github.com/aikorea/awesome-rl)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/Kiloreux/awesome-robotics">https://github.com/Kiloreux/awesome-robotics</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/bnb/awesome-hyper">https://github.com/bnb/awesome-hyper</a> with ranks
+</p>
+---
 # Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
 
 [<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)
@@ -6,7 +13,7 @@
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm ★2398](https://github.com/sindresorhus/awesome-npm), which both have CLI stuff you can use with Hyper!*
 
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/bnb/awesome-hyper/blob/master/CONTRIBUTING.md) before contributing.*
 
 **Check out the official [Hyper site](https://hyper.is), check out [Zeit](https://zeit.co), and their interesting Hosting product, [Now](https://zeit.co/now).**
 
@@ -219,3 +226,7 @@ Know of another really awesome theme? [Get it on awesome-hyper!](https://github.
 * Know of another Hyper resource? [Share the love!](https://github.com/bnb/awesome-hyper/issues/new)
 
 [⬆ Back to top](#contents)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/bnb/awesome-hyper">https://github.com/bnb/awesome-hyper</a> with ranks
+</p>

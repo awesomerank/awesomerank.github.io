@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/Granze/awesome-polymer">https://github.com/Granze/awesome-polymer</a> with ranks
+</p>
+---
 # Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 <a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="64" width="92"></a>
 > A collection of awesome Polymer resources
@@ -61,7 +68,7 @@
 * [Polymer Podcast](http://www.polymerpodcast.com/)
 
 ## Boilerplates
-* [Polymer boilerplate ★377](https://github.com/webcomponents/polymer-boilerplate)
+* [Polymer boilerplate ★377 ⏳1Y](https://github.com/webcomponents/polymer-boilerplate)
 * [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
 * [Seed element](https://github.com/polymerlabs/seed-element)
 * [Polymer Admin ★259](https://github.com/akveo/polymer-admin) Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit
@@ -92,7 +99,7 @@
 ## Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
 * [Polybuild ★76](https://github.com/PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
-* [Polyup ★39](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. 
+* [Polyup ★39 ⏳1Y](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. 
 * [Polylint ★128](https://github.com/PolymerLabs/polylint) Detect errors in your code.
 * [Polygit](http://polygit.org/) The Magic Server serves files directly from github (via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.
 * [Polydev ★98](https://github.com/PolymerLabs/polydev) DevTool extension.
@@ -114,7 +121,7 @@
 ## Behaviors
 * [Polymer-Apollo ★32](https://github.com/aruntk/polymer-apollo) Polymer Apollo GraphQL Integration.
 * [MWC-Mixin ★17](https://github.com/meteorwebcomponents/mixin) Reactive meteor data source for polymer elements
-* [MWC-Router ★5](https://github.com/meteorwebcomponents/router) Two way bind polymer with Meteor Flowrouter.
+* [MWC-Router ★5 ⏳1Y](https://github.com/meteorwebcomponents/router) Two way bind polymer with Meteor Flowrouter.
 * [Polymer-Redux ★250](https://github.com/tur-nr/polymer-redux) Polymer bindings for Redux. 
 
 ## Theming/Styling
@@ -134,3 +141,7 @@
 ### License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/Granze/awesome-polymer">https://github.com/Granze/awesome-polymer</a> with ranks
+</p>

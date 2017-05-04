@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/fasouto/awesome-dataviz">https://github.com/fasouto/awesome-dataviz</a> with ranks
+</p>
+---
 # Awesome dataviz 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
 
@@ -70,7 +77,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ### Misc
 - [Chroma.js](http://gka.github.io/chroma.js/) - A small library for color manipulation.
-- [Piecon ★2330](https://github.com/lipka/piecon) - Pie charts in your favicon.
+- [Piecon ★2330 ⏳1Y](https://github.com/lipka/piecon) - Pie charts in your favicon.
 - [Textures.js](http://riccardoscalco.github.io/textures/) - A library to create SVG patterns.
 - [Timeline.js](http://timeline.knightlab.com/) -  Create interactive timelines.
 - [Vega](https://vega.github.io/vega/) - Vega is a visualization grammar, a declarative format for creating, saving, and sharing interactive visualization designs.
@@ -177,3 +184,7 @@ Thanks for your suggestions!
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Fabio Souto](http://fabiosouto.me/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/fasouto/awesome-dataviz">https://github.com/fasouto/awesome-dataviz</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/karlhorky/learn-to-program">https://github.com/karlhorky/learn-to-program</a> with ranks
+</p>
+---
 # Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 #### Foundation in Web Development
 
@@ -176,3 +183,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 ## Contributing
 
 In lieu of a formal styleguide, take care to maintain the existing style of this list.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/karlhorky/learn-to-program">https://github.com/karlhorky/learn-to-program</a> with ranks
+</p>

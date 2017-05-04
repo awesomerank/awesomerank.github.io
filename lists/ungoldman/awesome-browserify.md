@@ -1,10 +1,17 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ungoldman/awesome-browserify">https://github.com/ungoldman/awesome-browserify</a> with ranks
+</p>
+---
 <div align="center"><img src="browserify.png" alt="Browserify!"></div>
 
 # Awesome Browserify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > :crystal_ball: A curated list of awesome [Browserify ★10969](https://github.com/substack/node-browserify) resources, libraries, and tools.
 
-Please help improve this list by [contributing](contributing.md)!
+Please help improve this list by [contributing](https://github.com/ungoldman/awesome-browserify/blob/master/contributing.md)!
 
 ## Contents
 
@@ -104,7 +111,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ### Node in the Browser
 
 - [crypto-browserify ★207](https://github.com/crypto-browserify/crypto-browserify) - Port of node's `crypto` module to the browser.
-- [stream-browserify ★43](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers!
+- [stream-browserify ★43 ⏳1Y](https://github.com/substack/stream-browserify) - The `stream` module from node core, for browsers!
 - [buffer ★365](https://github.com/feross/buffer) - The `buffer` module from node.js, for the browser.
 - [requirebin](http://requirebin.com/) - Write browser JavaScript programs using modules from NPM.
 
@@ -115,12 +122,16 @@ You can use a node-style `require()` to organize your browser code and load modu
 
 ## Contributing
 
-Contributions welcome! Please read the [contributing guidelines](contributing.md) before getting started.
+Contributions welcome! Please read the [contributing guidelines](https://github.com/ungoldman/awesome-browserify/blob/master/contributing.md) before getting started.
 
 ## License
 
-The [browserify logo](browserify.png) is by [substack](https://github.com/substack).
+The [browserify logo](https://github.com/ungoldman/awesome-browserify/blob/master/browserify.png) is by [substack](https://github.com/substack).
 
 All other content is released to the public domain under [CC0-1.0](https://spdx.org/licenses/CC0-1.0.html).
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ungoldman/awesome-browserify">https://github.com/ungoldman/awesome-browserify</a> with ranks
+</p>

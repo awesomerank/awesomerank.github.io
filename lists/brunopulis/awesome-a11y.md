@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/brunopulis/awesome-a11y">https://github.com/brunopulis/awesome-a11y</a> with ranks
+</p>
+---
 # Awesome Accessibility
 
 [![Build Status](https://api.travis-ci.org/brunopulis/awesome-a11y.svg?branch=master)](https://travis-ci.org/brunopulis/awesome-a11y)
@@ -163,6 +170,7 @@
 
 ## Talks
 
+* [JQuerySF - Victor Tsaran - The Modern Web and Accessibility](https://www.youtube.com/watch?v=KIruVNEi6mI)
 * [WCAG is not scary anymore - A progressive approach to Website Accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles)
 * [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/)
 * [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) by [Helena Zubkow](https://twitter.com/misshelenasue)
@@ -248,7 +256,7 @@ This is a list, in no particular order, of people to follow that contribute grea
 
 ## Contributing
 
-You want to contribute to this project? [Please follow these recommendations](CONTRIBUTING.md).
+You want to contribute to this project? [Please follow these recommendations](https://github.com/brunopulis/awesome-a11y/blob/master/CONTRIBUTING.md).
 
 ----
 
@@ -261,3 +269,7 @@ You want to contribute to this project? [Please follow these recommendations](CO
 ## Credits and references
 
 1. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox ★641](https://github.com/afonsopacifer/awesome-flexbox).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/brunopulis/awesome-a11y">https://github.com/brunopulis/awesome-a11y</a> with ranks
+</p>

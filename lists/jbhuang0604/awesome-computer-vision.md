@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/jbhuang0604/awesome-computer-vision">https://github.com/jbhuang0604/awesome-computer-vision</a> with ranks
+</p>
+---
 
 # Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 A curated list of awesome computer vision resources, inspired by [awesome-php ★15226](https://github.com/ziadoz/awesome-php).
@@ -418,7 +425,7 @@ Non-uniform Deblurring
 ###### Tracking/Odometry:
  * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
  * [PTAM: Parallel tracking and mapping](http://www.robots.ox.ac.uk/~gk/PTAM/)
- * [KFusion: Implementation of KinectFusion ★74](https://github.com/GerhardR/kfusion)
+ * [KFusion: Implementation of KinectFusion ★74 ⏳2Y](https://github.com/GerhardR/kfusion)
  * [kinfu_remake: Lightweight, reworked and optimized version of Kinfu. ★91](https://github.com/Nerei/kinfu_remake)
  * [LVR-KinFu: kinfu_remake based Large Scale KinectFusion with online reconstruction](http://las-vegas.uni-osnabrueck.de/related-projects/lvr-kinfu/)
  * [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/~victor/infinitam/)
@@ -438,7 +445,7 @@ Non-uniform Deblurring
 
 ###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
- * [LSD-SLAM ★1001](https://github.com/tum-vision/lsd_slam)
+ * [LSD-SLAM ★1001 ⏳1Y](https://github.com/tum-vision/lsd_slam)
  * [ORB-SLAM ★486](https://github.com/raulmur/ORB_SLAM)
 
 #### Single-view Spatial Understanding
@@ -469,7 +476,7 @@ Non-uniform Deblurring
  * [PatchMatch](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/index.php)
  * [Generalized PatchMatch](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
  * [Coherency Sensitive Hashing](http://www.eng.tau.ac.il/~simonk/CSH/)
- * [PMBP: PatchMatch Belief Propagation ★5](https://github.com/fbesse/pmbp)
+ * [PMBP: PatchMatch Belief Propagation ★5 ⏳2Y](https://github.com/fbesse/pmbp)
  * [TreeCANN](http://www.eng.tau.ac.il/~avidan/papers/TreeCANN_code_20121022.rar)
 
 #### Visual Tracking
@@ -713,3 +720,7 @@ License
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Jia-Bin Huang](www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/jbhuang0604/awesome-computer-vision">https://github.com/jbhuang0604/awesome-computer-vision</a> with ranks
+</p>

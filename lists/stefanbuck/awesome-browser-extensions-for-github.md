@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/stefanbuck/awesome-browser-extensions-for-github">https://github.com/stefanbuck/awesome-browser-extensions-for-github</a> with ranks
+</p>
+---
 # Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome browser extensions for GitHub.
@@ -255,7 +262,7 @@ Displays size of each file, download link and an option of copying file contents
 </details>
 
 
-## [GitHub Pr Filter ★15](https://github.com/danielhusar/github-pr-filter)
+## [GitHub Pr Filter ★15 ⏳1Y](https://github.com/danielhusar/github-pr-filter)
 <a href="https://chrome.google.com/webstore/detail/github-pr-filter/fjmalelcdgindphooaabcgmmnmoclpee"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Add ability to filter files in pull requests.
@@ -303,7 +310,7 @@ Makes searching in GitHub better. With GitHub, you can only search one branch pe
 </details>
 
 
-## [Gitter Helper ★11](https://github.com/svincent/gitter-chrome)
+## [Gitter Helper ★11 ⏳1Y](https://github.com/svincent/gitter-chrome)
 <a href="https://chrome.google.com/webstore/detail/gitter-helper-for-github/apahfabdianobklhejoojcpmoegaolpi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
@@ -474,7 +481,7 @@ This package lists the dependencies in the package files of the various packages
  ![Package Hub](https://raw.githubusercontent.com/BrainMaestro/packagehub/master/screenshot.png)
 </details>
 
-## [Pages2Repo ★19](https://github.com/Frozenfire92/Pages2Repo)
+## [Pages2Repo ★19 ⏳1Y](https://github.com/Frozenfire92/Pages2Repo)
 <a href="https://chrome.google.com/webstore/detail/pages2repo/afnogakjnebbgcbjkgmhaccljfejeflh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Makes it easy to access repository info from a GitHub pages website.
@@ -534,7 +541,7 @@ Make tab indented code more readable by forcing the tab size to 4 instead of 8.
 </details>
 
 
-## [Twitter for GitHub ★95](https://github.com/bevacqua/twitter-for-github)
+## [Twitter for GitHub ★95 ⏳1Y](https://github.com/bevacqua/twitter-for-github)
 <a href="https://chrome.google.com/webstore/detail/twitter-for-github/joalalcafnlmimkfkihjbdgmphgedojc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Infers or tries to find GitHub users' Twitter handles and present them to you in the GitHub interface.
@@ -544,7 +551,7 @@ Infers or tries to find GitHub users' Twitter handles and present them to you in
 </details>
 
 
-## [Where is it? ★11](https://github.com/WhereIsItDev/whereisit)
+## [Where is it? ★11 ⏳1Y](https://github.com/WhereIsItDev/whereisit)
 <a href="https://chrome.google.com/webstore/detail/where-is-it/cdgnplmebagbialenimejpokfcodlkdm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Whereisit makes code navigation on GitHub easier. Look up and jump around class/method definitions with a single click.
@@ -563,3 +570,7 @@ ZenHub is the first and only project management suite that works natively within
 <details><summary>Screenshots</summary>
  ![ZenHub](https://dl.dropboxusercontent.com/s/yosmyg8zsl5tyc5/zenhub.jpg)
 </details>
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/stefanbuck/awesome-browser-extensions-for-github">https://github.com/stefanbuck/awesome-browser-extensions-for-github</a> with ranks
+</p>

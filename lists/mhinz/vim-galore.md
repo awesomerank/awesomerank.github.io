@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/mhinz/vim-galore">https://github.com/mhinz/vim-galore</a> with ranks
+</p>
+---
 <div align='center'>
   <br /><br /><br />
   <img src='https://raw.githubusercontent.com/mhinz/vim-galore/master/static/images/logo-vim-galore.png' alt='vim-galore logo' />
@@ -132,7 +139,7 @@
 
 ### [List of colorschemes](#list-of-colorschemes-1)
 
-### [List of plugins](PLUGINS.md)
+### [List of plugins](https://github.com/mhinz/vim-galore/blob/master/PLUGINS.md)
 
 <br>
 
@@ -2699,19 +2706,23 @@ See `man 7 ascii` and `:h NL-used-for-Nul` for more information.
 
 Here's a list of commonly used colorschemes:
 
-- [acme-colors ★12](https://github.com/plan9-for-vimspace/acme-colors)
+- [acme-colors ★12 ⏳1Y](https://github.com/plan9-for-vimspace/acme-colors)
 - [base16 ★994](https://github.com/chriskempson/base16-vim)
 - [gotham ★659](https://github.com/whatyouhide/vim-gotham)
 - [gruvbox ★2847](https://github.com/morhetz/gruvbox)
 - [janah ★60](https://github.com/mhinz/vim-janah)
 - [jellybeans ★1061](https://github.com/nanotech/jellybeans.vim)
-- [lucius ★234](https://github.com/jonathanfilip/vim-lucius)
+- [lucius ★234 ⏳1Y](https://github.com/jonathanfilip/vim-lucius)
 - [molokai ★2287](https://github.com/tomasr/molokai)
 - [railscasts ★231](https://github.com/jpo/vim-railscasts-theme)
 - [seoul256 ★629](https://github.com/junegunn/seoul256.vim)
 - [solarized](https://github.com/altercation/vim-colors-solarized) (or a lighter variant: [flattened](https://github.com/romainl/flattened))
 - [tomorrow ★240](https://github.com/chriskempson/vim-tomorrow-theme)
-- [vividchalk ★242](https://github.com/tpope/vim-vividchalk)
+- [vividchalk ★242 ⏳5Y](https://github.com/tpope/vim-vividchalk)
 - [yowish ★75](https://github.com/kabbamine/yowish.vim)
-- [zenburn ★419](https://github.com/jnurmine/Zenburn)
+- [zenburn ★419 ⏳1Y](https://github.com/jnurmine/Zenburn)
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/mhinz/vim-galore">https://github.com/mhinz/vim-galore</a> with ranks
+</p>

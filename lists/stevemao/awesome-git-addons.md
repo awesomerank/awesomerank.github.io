@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/stevemao/awesome-git-addons">https://github.com/stevemao/awesome-git-addons</a> with ranks
+</p>
+---
 # Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of add-ons that extend/enhance the git CLI.
@@ -919,7 +926,7 @@ Listing tracked paths
 ```
 
 
-## [git-now ★102](https://github.com/iwata/git-now)
+## [git-now ★102 ⏳1Y](https://github.com/iwata/git-now)
 
 ```
 $ git now
@@ -1135,7 +1142,7 @@ refs/heads/master                      Commit is directly on this branch.
 ```
 
 
-## [git-playback ★72](https://github.com/jianli/git-playback)
+## [git-playback ★72 ⏳1Y](https://github.com/jianli/git-playback)
 
 ```
 $ git playback README.md
@@ -1144,7 +1151,7 @@ $ git playback README.md
 ![](https://camo.githubusercontent.com/9abe1d2de474dbc0d1ad4f48acf9e954ff0d0b30/68747470733a2f2f7261772e6769746875622e636f6d2f6a69616e6c692f6769742d706c61796261636b2f6d61737465722f616e696d6174696f6e2e676966)
 
 
-## [git-branch-status ★13](https://github.com/alexdavid/git-branch-status)
+## [git-branch-status ★13 ⏳1Y](https://github.com/alexdavid/git-branch-status)
 
 ```
 $ git branch-status
@@ -1208,7 +1215,7 @@ $ git ink
 ```
 
 
-## [recursive-blame ★49](https://github.com/scottgonzalez/recursive-blame)
+## [recursive-blame ★49 ⏳1Y](https://github.com/scottgonzalez/recursive-blame)
 
 ```
 $ git recursive-blame version package.json
@@ -1273,7 +1280,7 @@ Leave building!
 TBD
 
 
-## [git-blame-someone-else ★4052](https://github.com/jayphelps/git-blame-someone-else)
+## [git-blame-someone-else ★4052 ⏳1Y](https://github.com/jayphelps/git-blame-someone-else)
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
@@ -1348,7 +1355,7 @@ done. all 1 files are revealed.
 ```
 
 
-## [apply-pr ★39](https://github.com/petkaantonov/apply-pr)
+## [apply-pr ★39 ⏳1Y](https://github.com/petkaantonov/apply-pr)
 
 TBD
 
@@ -1487,3 +1494,7 @@ $ git standup
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Steve Mao](https://github.com/stevemao) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/stevemao/awesome-git-addons">https://github.com/stevemao/awesome-git-addons</a> with ranks
+</p>

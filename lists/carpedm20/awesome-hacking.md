@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/carpedm20/awesome-hacking">https://github.com/carpedm20/awesome-hacking</a> with ranks
+</p>
+---
 # Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Hacking. Inspired by [awesome-machine-learning ★22112](https://github.com/josephmisiti/awesome-machine-learning)
@@ -100,7 +107,7 @@ For a list of free hacking books available for download, go [here ★620](https:
  * [ILSpy ★3432](https://github.com/icsharpcode/ILSpy) - an open-source .NET assembly browser and decompiler
  * [dnSpy ★2039](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger 
  * [de4dot ★1456](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker. 
- * [antinet ★85](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code 
+ * [antinet ★85 ⏳3Y](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code 
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
  * [radare2 ★4549](https://github.com/radare/radare2) - A portable reversing framework
  * [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
@@ -130,7 +137,7 @@ For a list of free hacking books available for download, go [here ★620](https:
  * [pig ★272](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
  * [mitmproxy](https://mitmproxy.org/) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
- * [mitmsocks4j ★20](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
+ * [mitmsocks4j ★20 ⏳4Y](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
@@ -153,7 +160,7 @@ For a list of free hacking books available for download, go [here ★620](https:
 # Cryptography
 
 ### Tools
- * [xortool ★432](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
+ * [xortool ★432 ⏳2Y](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
  * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
  * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
 
@@ -215,3 +222,7 @@ For a list of free hacking books available for download, go [here ★620](https:
 
 # ETC
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/carpedm20/awesome-hacking">https://github.com/carpedm20/awesome-hacking</a> with ranks
+</p>

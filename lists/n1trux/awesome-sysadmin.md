@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/n1trux/awesome-sysadmin">https://github.com/n1trux/awesome-sysadmin</a> with ranks
+</p>
+---
 <!--
   Title: Awesome Sysadmin
   Description: A curated list of amazingly awesome open source sysadmin resources.
@@ -6,7 +13,7 @@
 
 # Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
-**A curated list of amazingly awesome open source sysadmin resources.** Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software and consider [donating ★9](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
+**A curated list of amazingly awesome open source sysadmin resources.** Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software and consider [donating ★9 ⏳2Y](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
 
 * [Awesome Sysadmin](#awesome-sysadmin)
   * [Automation](#automation)
@@ -84,6 +91,7 @@
 
   * [Amanda](http://www.amanda.org/) - Client-server model backup tool.
   * [Bareos](http://www.bareos.org/en/) - A fork of Bacula backup tool.
+  * [BackupPC](http://backuppc.sourceforge.net/) - BackupPC is a high-performance system for backing up to disk.
   * [Backupninja](https://labs.riseup.net/code/projects/backupninja) - Lightweight, extensible meta-backup system.
   * [BorgBackup ★2246](https://github.com/borgbackup/borg) - A fork of [Attic](https://attic-backup.org) deduplicating backup program written in Python.
   * [Burp](http://burp.grke.org/) - Network backup and restore program.
@@ -96,7 +104,7 @@
   * [Shield ★103](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.
   * [Snebu](http://www.snebu.com/) – Snapshot backup with global multi-client deduplication and transparent compression.
   * [UrBackup](http://www.urbackup.org/) - Another client-server backup system.
-  * [DREBS ★32](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
+  * [DREBS ★32 ⏳2Y](https://github.com/dojo4/drebs) - AWS EBS backup script that supports strategies.
   * [ZBackup](http://zbackup.org/) - A versatile deduplicating backup tool.
 
 
@@ -237,7 +245,7 @@
   * DNS
     * [Atomia DNS](http://atomiadns.com/) - DNS management system.
     * [nsedit ★102](https://github.com/tuxis-ie/nsedit) - nsedit is a DNS editor for PowerDNS, working with PowerDNS's new API.
-    * [PDNS Gui ★17](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
+    * [PDNS Gui ★17 ⏳1Y](https://github.com/odoucet/pdns-gui) - WebGUI which aids in administering domains and records for PowerDNS with MySQL.
     * [Poweradmin](http://www.poweradmin.org/) - Friendly web-based DNS administration tool for PowerDNS server.
   * Revision Control
     * [iF.SVNAdmin](http://svnadmin.insanefactory.com/) - WebGUI to manage Subversion repositories and User/Group permissions.
@@ -315,7 +323,7 @@
   * [GNU Emacs](http://www.gnu.org/software/emacs/) - An extensible, customizable text editor-and more.
   * [Haroopad](http://pad.haroopress.com/) - Markdown editor with live preview.
   * [ICEcoder](https://icecoder.net/) - Code editor awesomeness, built with common web languages.
-  * [jotgit ★169](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
+  * [jotgit ★169 ⏳2Y](https://github.com/jdleesmiller/jotgit) - Git-backed real-time collaborative code editing.
   * [KDevelop](https://www.kdevelop.org/) - IDE by the people behind KDE.
   * [Light Table](http://lighttable.com/) - The next generation code editor.
   * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
@@ -405,10 +413,11 @@
   * [Munin](http://munin-monitoring.org/) - Networked resource monitoring tool.
   * [Naemon](http://www.naemon.org/) - Network monitoring tool based on the Nagios 4 core with performance enhancements and new features.
   * [Nagios](https://www.nagios.org/) - Computer system, network and infrastructure monitoring software application.
-  * [Node-Bell ★276](https://github.com/eleme/bell.js) - Real-time anomalies detection for periodic time series, metrics monitor.
+  * [Node-Bell ★276 ⏳1Y](https://github.com/eleme/bell.js) - Real-time anomalies detection for periodic time series, metrics monitor.
   * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
   * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
   * [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
+  * [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
   * [psdash ★1942](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut
 ils and flask.
   * [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
@@ -461,6 +470,7 @@ ils and flask.
 
   * [GestióIP](http://www.gestioip.net/) - An automated web based IPv4/IPv6 IP Address Management tool.
   * [Oxidized ★547](https://github.com/ytti/oxidized) - A modern take on network device configuration monitoring with web interface and GIT storage.
+  * [phpIPAM](http://phpipam.net/) - Open source IP address management with [PowerDNS](https://www.powerdns.com/) integration.
   * [RANCID](http://www.shrubbery.net/rancid/) - Monitors network device's configuration and maintain history of changes.
   * [rConfig](http://www.rconfig.com/) - Another network device configuration management tool.
   * [trigger ★374](https://github.com/trigger/trigger) - Robust network automation toolkit written in Python.
@@ -471,7 +481,7 @@ ils and flask.
 
   * [DadaMail](http://dadamailproject.com/) - Mailing List Manager, written in Perl.
   * [phpList](https://www.phplist.com/) - Newsletter manager written in PHP.
-  * [LibreMailer ★14](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
+  * [LibreMailer ★14 ⏳2Y](https://github.com/averna-syd/LibreMailer) - Libre Mailer is a modest and simple web based email marketing application.
   * [Lewsnetter](https://github.com/bborn/lewsnetter) - E-mail marketing application (create and send e-mail newsletter via SES). Includes subscription management, delivery, bounce and complaint notification, templates, and some stats.
 
 
@@ -543,7 +553,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 ## Service Discovery
 
   * [Consul](https://www.consul.io/) - Consul is a tool for service discovery, monitoring and configuration.
-  * [Doozerd ★2852](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
+  * [Doozerd ★2852 ⏳1Y](https://github.com/ha/doozerd) - Doozer is a highly-available, completely consistent store for small amounts of extremely important data.
   * [etcd ★13222](https://github.com/coreos/etcd) - distributed K/V-Store, authenticating via SSL PKI and a REST HTTP Api for shared configuration and service discovery.
   * [ZooKeeper](http://zookeeper.apache.org/) - ZooKeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services.
 
@@ -597,7 +607,6 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
   * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
   * [OpenNode](http://opennodecloud.com) - Builds open-source infrastructure management software and implements cloud systems.
-  * [Otto](https://www.ottoproject.io/) - Development and deployment system designed as the successor to Vagrant.
   * [oVirt](http://www.ovirt.org/) - Manages virtual machines, storage and virtual networks.
   * [Packer](https://www.packer.io/) - A tool for creating identical machine images for multiple platforms from a single source configuration.
   * [Proxmox VE](https://www.proxmox.com/proxmox-ve) - Virtualization management solution.
@@ -699,6 +708,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Websites
 *Useful sysadmin related websites.*
 
+  * [Awesome SysAdmin @ LibHunt](https://sysadmin.libhunt.com) - Your go-to SysAdmin Toolbox. Based on the list here.
   * [Ops School](http://www.opsschool.org) - Comprehensive program that will help you learn to be an operations engineer.
   * [Digital Ocean Tutorials](https://www.digitalocean.com/community/tutorials) - A surprisingly vast resource for getting the basics of certain applications, tools, or even systems administration topics.
 
@@ -715,3 +725,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ![cc license](http://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/n1trux/awesome-sysadmin">https://github.com/n1trux/awesome-sysadmin</a> with ranks
+</p>

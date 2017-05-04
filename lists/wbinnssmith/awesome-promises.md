@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/wbinnssmith/awesome-promises">https://github.com/wbinnssmith/awesome-promises</a> with ranks
+</p>
+---
 <a href="https://promisesaplus.com/">
     <img src="https://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo" align="right" />
 </a>
@@ -20,7 +27,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 ## Resources, Blogs, and Books
 
 ### For beginners
-* [Promise Cookbook ★1037](https://github.com/mattdesl/promise-cookbook) - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers".
+* [Promise Cookbook ★1037 ⏳1Y](https://github.com/mattdesl/promise-cookbook) - The why, what, and how. "A brief introduction [...] primarily aimed at frontend developers".
 * [Promises for Asynchronous Programming](http://exploringjs.com/es6/ch_promises.html) - Chapter from [Exploring ES6](http://exploringjs.com/)
 * [You Don't Know JS: Promises](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/ch3.md) - Chapter from [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/tree/master/async%20%26%20performance)
 * [JavaScript Promises: an Introduction](https://developers.google.com/web/fundamentals/getting-started/primers/promises) - Basics of JavaScript's native promise implementation.
@@ -115,16 +122,20 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-props](https://github.com/sindresorhus/p-props) - Like `Promise.all()` but for `Map` and `Object`
 
 ### Others
-* [promise-method ★2](https://github.com/wbinnssmith/promise-method) - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one.
-* [is-promise ★36](https://github.com/then/is-promise) - Determine if something looks like a Promise.
+* [promise-method ★2 ⏳1Y](https://github.com/wbinnssmith/promise-method) - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one.
+* [is-promise ★36 ⏳1Y](https://github.com/then/is-promise) - Determine if something looks like a Promise.
 * [sprom](https://github.com/then/sprom) - Resolve when a stream ends. Optional buffering (be careful with this!)
 * [task.js ★1605](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.
 * [co ★8023](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
-* [promise-do-until ★0](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
+* [promise-do-until ★0 ⏳1Y](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
 * [promise-do-whilst ★2](https://github.com/busterc/promise-do-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise.
 * [promise-semaphore ★24](https://github.com/samccone/promise-semaphore) - Push a set of work to be done in a configurable serial fashion
 * [promise-nodeify ★0](https://github.com/kevinoid/promise-nodeify) - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
 
 ## License
 Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/wbinnssmith/awesome-promises">https://github.com/wbinnssmith/awesome-promises</a> with ranks
+</p>

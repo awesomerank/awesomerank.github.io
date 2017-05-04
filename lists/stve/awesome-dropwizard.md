@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/stve/awesome-dropwizard">https://github.com/stve/awesome-dropwizard</a> with ranks
+</p>
+---
 # Awesome Dropwizard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][awesome]
 
 [<img src="https://cdn.rawgit.com/stve/awesome-dropwizard/master/dropwizard-hat.png" align="right" width="50">][dropwizard]
@@ -9,7 +16,7 @@
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first.
+Please take a quick look at the [contribution guidelines](https://github.com/stve/awesome-dropwizard/blob/master/CONTRIBUTING.md) first.
 
 ## Editor Support
 
@@ -17,7 +24,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Eclipse
 
-* [dropwizard-tools ★2](https://github.com/Tasktop/dropwizard-tools) - Eclipse Tools for Dropwizard
+* [dropwizard-tools ★2 ⏳1Y](https://github.com/Tasktop/dropwizard-tools) - Eclipse Tools for Dropwizard
 
 ## Open Source
 
@@ -25,7 +32,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 * [dropwizard-jaxws ★36](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API.
 * [dropwizard-redirect-bundle ★13](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects.
 * [dropwizard-template-config ★36](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template.
-* [dropwizard-caching-bundle ★7](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses.
+* [dropwizard-caching-bundle ★7 ⏳1Y](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses.
 * [dropwizard-xml ★24](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs
 * [dropwizard-crypto ★12](https://github.com/meltmedia/dropwizard-crypto) - A Cryptographic Bundle for Dropwizard
 * [dropwizard-circuitbreaker ★14](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard
@@ -56,7 +63,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 ### Data Stores
 
 * [dropwizard-etcd ★3](https://github.com/meltmedia/dropwizard-etcd) - A Dropwizard Bundle for Etcd
-* [dropwizard-mongo ★21](https://github.com/eeb/dropwizard-mongo) - Factories and health checks for connecting to mongoDB.
+* [dropwizard-mongo ★21 ⏳1Y](https://github.com/eeb/dropwizard-mongo) - Factories and health checks for connecting to mongoDB.
 * [dropwizard-elasticsearch ★43](https://github.com/dropwizard/dropwizard-elasticsearch) - A set of classes for using Elasticsearch in a Dropwizard service
 * [dropwizard-service-discovery ★3](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper service discovery bundle and client for dropwizard.
 * [dropwizard-cassandra ★57](https://github.com/composable-systems/dropwizard-cassandra) - Dropwizard support for Cassandra
@@ -76,7 +83,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Scheduled/Recurrence Jobs
 
-* [dropwizard-quartz ★54](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz.
+* [dropwizard-quartz ★54 ⏳1Y](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz.
 * [dropwizard-jobs ★84](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard
 * [dropwizard-sundial ★21](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial
 
@@ -88,7 +95,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ### Deployment
 
-* [WizToWar ★40](https://github.com/twilio/wiztowar) - Build WARs from your Dropwizard apps
+* [WizToWar ★40 ⏳2Y](https://github.com/twilio/wiztowar) - Build WARs from your Dropwizard apps
 * [wizard-in-a-box ★28](https://github.com/rvs-fluid-it/wizard-in-a-box) - deploy Dropwizard apps as a war
 
 ## Tutorials
@@ -128,7 +135,7 @@ Please take a quick look at the [contribution guidelines](CONTRIBUTING.md) first
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/stve/awesome-dropwizard/blob/master/CONTRIBUTING.md) first.
 
 ## Awesome!
 
@@ -139,3 +146,7 @@ Check out more [awesome projects ★57421](https://github.com/sindresorhus/aweso
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Steve Agalloco](http://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/stve/awesome-dropwizard">https://github.com/stve/awesome-dropwizard</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/Friz-zy/awesome-linux-containers">https://github.com/Friz-zy/awesome-linux-containers</a> with ranks
+</p>
+---
 # Awesome Linux Containers
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
@@ -105,7 +112,7 @@ OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secu
 
 * [runc ★3767](https://github.com/opencontainers/runc)  
 runc is a CLI tool for spawning and running containers according to the OCS specification.
-* [Bocker ★4188](https://github.com/p8952/bocker)  
+* [Bocker ★4188 ⏳1Y](https://github.com/p8952/bocker)  
 Docker implemented in around 100 lines of bash.
 * [Rocket](https://github.com/coreos/rkt)  
 rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
@@ -113,7 +120,7 @@ rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is 
 LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
 * [Vagga ★1110](https://github.com/tailhook/vagga)  
 Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
-* [libct ★87](https://github.com/xemul/libct)  
+* [libct ★87 ⏳1Y](https://github.com/xemul/libct)  
 Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
 * [libvirt](https://libvirt.org/drvlxc.html)  
 A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
@@ -123,7 +130,7 @@ Spawn a namespace container for debugging, testing and building. Part of [system
 The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.
 * [udocker ★113](https://github.com/indigo-dc/udocker)  
 A basic user tool to execute simple containers in batch or interactive systems without root privileges.
-* [Let Me Contain That For You ★3017](https://github.com/google/lmctfy)  
+* [Let Me Contain That For You ★3017 ⏳1Y](https://github.com/google/lmctfy)  
 LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.
 * [cc-oci-runtime ★376](https://github.com/01org/cc-oci-runtime)  
 Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
@@ -302,7 +309,11 @@ If you can communicate or attack one of these as a privileged process, you can o
 
 ## Another Information Sources
 
-* [sysdig-container-ecosystem ★64](https://github.com/draios/sysdig-container-ecosystem)  
+* [sysdig-container-ecosystem ★64 ⏳1Y](https://github.com/draios/sysdig-container-ecosystem)  
 The ecosystem of awesome new technologies emerging around containers and microservices can be a little overwhelming, to say the least. We thought we might be able to help: welcome to the Container Ecosystem Project.
 * [doger.io](http://doger.io/)  
 This page is an attempt to document the ins and outs of containers on Linux. This is not just restricted to programmers looking to implement containers or use container like features in their own code but also Sysadmins and Users who want to get more of a handle on how containers work 'under the hood'. 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/Friz-zy/awesome-linux-containers">https://github.com/Friz-zy/awesome-linux-containers</a> with ranks
+</p>

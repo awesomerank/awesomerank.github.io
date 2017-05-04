@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/caesar0301/awesome-public-datasets">https://github.com/caesar0301/awesome-public-datasets</a> with ranks
+</p>
+---
 Awesome Public Datasets
 =======================
 .. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
@@ -600,3 +607,7 @@ Complementary Collections
 * Quora: `Where can I find large datasets open to the public? <http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public>`_
 * RS.io: `100+ Interesting Data Sets for Statistics <http://rs.io/100-interesting-data-sets-for-statistics/>`_
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/caesar0301/awesome-public-datasets">https://github.com/caesar0301/awesome-public-datasets</a> with ranks
+</p>

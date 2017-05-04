@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/weblancaster/awesome-IoT-hybrid">https://github.com/weblancaster/awesome-IoT-hybrid</a> with ranks
+</p>
+---
 # Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
@@ -107,3 +114,7 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/weblancaster/awesome-IoT-hybrid">https://github.com/weblancaster/awesome-IoT-hybrid</a> with ranks
+</p>

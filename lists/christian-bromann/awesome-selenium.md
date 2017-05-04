@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/christian-bromann/awesome-selenium">https://github.com/christian-bromann/awesome-selenium</a> with ranks
+</p>
+---
 # Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
@@ -28,7 +35,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 - [DalekJS](http://dalekjs.com/) - Automated cross browser testing.
 - [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
 - [Nightwatch](http://nightwatchjs.org/) - efficient and straightforward Javascript End-to-End tests.
-- [yiewd ★93](https://github.com/jlipps/yiewd) - WD.js wrapper using latest Harmony generators! Get rid of the callback pyramid with yield.
+- [yiewd ★93 ⏳2Y](https://github.com/jlipps/yiewd) - WD.js wrapper using latest Harmony generators! Get rid of the callback pyramid with yield.
 - [Karma](http://karma-runner.github.io/0.12/index.html) - Brings a productive testing environment to developers for unit testing (mostly AngularJS).
 - [Protractor](https://angular.github.io/protractor/) - Protractor is an end-to-end test framework for AngularJS applications.
 - [Cypress](https://www.cypress.io/) - Cypress helps developers write automated tests for the web.
@@ -39,7 +46,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 
 - [Selenium with Ruby](http://seleniumhq.github.io/selenium/docs/api/rb/index.html) - Selenium Ruby bindings
 - [Watir](https://watir.com/) - Automated testing that doesn’t hurt
-- [Anemone ★1577](https://github.com/chriskite/anemone) - Anemone web-spider framework.
+- [Anemone ★1577 ⏳1Y](https://github.com/chriskite/anemone) - Anemone web-spider framework.
 - [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
 - [Spidr ★484](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
 - [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
@@ -52,7 +59,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 #### Python
 
 - [Selenium with Python](http://selenium-python.readthedocs.io/) - Selenium Python bindings
-- [Pomade ★1](https://github.com/saucelabs/pomade) - SauceLabs integrated test runner for Selenium test.
+- [Pomade ★1 ⏳2Y](https://github.com/saucelabs/pomade) - SauceLabs integrated test runner for Selenium test.
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
 
 #### Java
@@ -134,3 +141,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Christian Bromann](http://www.christian-bromann.com/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/christian-bromann/awesome-selenium">https://github.com/christian-bromann/awesome-selenium</a> with ranks
+</p>

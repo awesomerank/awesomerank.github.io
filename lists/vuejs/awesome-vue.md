@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/vuejs/awesome-vue">https://github.com/vuejs/awesome-vue</a> with ranks
+</p>
+---
 <p align="center">
   <br>
   <img width="400" src="https://rawgit.com/vuejs/awesome-vue/master/logo.png" alt="awesome">
@@ -158,7 +165,7 @@
 - [Twitter](https://twitter.com/vuejs)
 - [Gitter Chat Room](https://gitter.im/vuejs/vue)
 - [Official Forum](http://forum.vuejs.org/)
-- [vue-requests ★52](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
+- [vue-requests ★52 ⏳1Y](https://github.com/vuejs/vue-requests) - Request a Vue.js module you wish existed or get ideas for modules
 - [VueJS Brasil - Telegram Group [Portuguese]](https://t.me/vuejsbrasil)
 - [VueJS Iran - Telegram Channel & group (group link available in channel bio)](https://telegram.me/vue_js)
 - [vueslack - 1300+ registered users worldwide](https://vueslack.com/)
@@ -178,7 +185,7 @@
 
 - [Basic Examples](http://vuejs.org/guide/)
 - [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
-  - [CoffeeScript Version ★14](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
+  - [CoffeeScript Version ★14 ⏳1Y](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
 - [**Vue.js HackerNews Clone** ★2148](https://github.com/vuejs/vue-hackernews)
 
 ### Tutorials
@@ -246,14 +253,14 @@
 
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
   - [Node Webkit + Vue example ★41](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
-  - [Vue Samples ★29](https://github.com/superlloyd/VueSamples) by @superlloyd
-  - [HackerNews clone with vue.js + vue-router ★12](https://github.com/kazupon/vue-router-hackernews) by @kazupon
+  - [Vue Samples ★29 ⏳1Y](https://github.com/superlloyd/VueSamples) by @superlloyd
+  - [HackerNews clone with vue.js + vue-router ★12 ⏳1Y](https://github.com/kazupon/vue-router-hackernews) by @kazupon
   - [**Electron + Vue example** ★529](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
-  - [Single page application example (Vue + Voie) ★48](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
+  - [Single page application example (Vue + Voie) ★48 ⏳1Y](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
   - [Begin - Task Manager SPA written in Vue + Lumen ★45](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
-  - [Vue Mini Shop ★116](https://github.com/BosNaufal/vue-mini-shop) by [BosNaufal](https://github.com/BosNaufal)
-  - [Vue SoundCloud ★24](https://github.com/mul14/vue-soundcloud) by [mul14](https://github.com/mul14)
-  - [Feature Requests (Laravel + Vue Combo) ★10](https://github.com/haydenbbickerton/feature-requests-app) by [haydenbbickerton](https://github.com/haydenbbickerton)
+  - [Vue Mini Shop ★116 ⏳1Y](https://github.com/BosNaufal/vue-mini-shop) by [BosNaufal](https://github.com/BosNaufal)
+  - [Vue SoundCloud ★24 ⏳1Y](https://github.com/mul14/vue-soundcloud) by [mul14](https://github.com/mul14)
+  - [Feature Requests (Laravel + Vue Combo) ★10 ⏳1Y](https://github.com/haydenbbickerton/feature-requests-app) by [haydenbbickerton](https://github.com/haydenbbickerton)
   - [Vue Cookbook (Vue1.0 + express) ★248](https://github.com/yjj5855/node-vue-server-webpack) by [@yjj5855](https://github.com/yjj5855): A demo first screen rendering of a service
   - [Strong Together ★61](https://github.com/websemantics/strong-together) - A starter project to build single page Vue.js apps as stand-alone or for Laravel / Laravel Spark projects, based on Browserify and Semantic-ui) by [WebSemantics](https://github.com/websemantics)
   - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe ★11](https://github.com/sjerrys/vuetest)
@@ -308,6 +315,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [The Majesty Of Vue.js](https://www.packtpub.com/web-development/majesty-vuejs) by Alex Kyriakidis & Kostas Maniatis, Packt. (Nov 2016)
 - [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) by Olga Filipova, Packt. (Dec 2016)
 - [The Majesty Of Vue.js 2](https://leanpub.com/vuejs2) by Alex Kyriakidis and Kostas Maniatis, Leanpub. (Mar 2017)
+- [Vue.js 2 Cookbook](https://www.packtpub.com/web-development/vuejs-2-cookbook) by Andrea Passaglia, Packt. (May 2017)
 
 
 
@@ -357,6 +365,9 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [pm86 ★78](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
   - [vms ★550](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
   - [nativescript-vue ★59](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
+  - [piper ★8](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
+  - [Media Manager ★2](https://github.com/iutbay/mm) - Web File Manager.
+
 
 ### Commercial Products
 
@@ -382,7 +393,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [TravelMap](http://clem.travelmap.fr) - A simple way for travellers to create a blog based on a Map.
   - [Proper Cloth Shirt Builder](https://propercloth.com/design-a-shirt) - Custom shirt builder.
   - [CheckIt](https://check-it.io)
-  - [Reddit News ★38](https://github.com/Mati365/reddit-news) - A browser extension which show notifications and news from reddit.
+  - [Reddit News ★38 ⏳1Y](https://github.com/Mati365/reddit-news) - A browser extension which show notifications and news from reddit.
   - [Powerpuff Yourself by Cartoon Networks](https://www.powerpuffyourself.com/)
   - [小桃酱](https://app.xiaotaojiang.com/)
   - [cloudradioo](http://cloudradioo.com) - Web app that plays randomly all top 50 songs from the soundcloud charts
@@ -658,7 +669,6 @@ Tooltips / popovers
  - [vue-datepicker ★389](https://github.com/hilongjw/vue-datepicker) - Calendar and datepicker component with material design for Vue.js.
  - [vue2-timepicker](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support.
  - [vuejs-datepicker ★227](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
- - [vue-flatpickr](https://github.com/jrainlau/vue-flatpickr) - Flatpickr for VueJS.
 
 #### Select
 
@@ -681,6 +691,7 @@ Tooltips / popovers
 *Autosuggest / autocomplete / typeahead*
 
  - [vue-instant ★125](https://github.com/santiblanko/vue-instant) - Vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications.
+ - [v-autocomplete ★26](https://github.com/paliari/v-autocomplete) - Autocomplete component for Vue.js
 
 #### Type Select
 
@@ -731,6 +742,7 @@ Tooltips / popovers
  - [vue-clip ★52](https://github.com/thetutlage/vue-clip) - Simple and hackable file uploader for VueJs. Supports Vue >= 2.1.
  - [vue-simple-upload ★28](https://github.com/saivarunk/vue-simple-upload) - Simple File upload component for Vue.js.
  - [vue2-multi-uploader ★7](https://github.com/abarta/vue2-multi-uploader) - A drag and drop multiple file uploader component that uses Vue.js v2 and Axios. Uploader shows file names, sizes and total size of files added. It also allows setting a minimum required number of files to upload.
+  - [vue-dropzone](https://github.com/rowanwins/vue-dropzone) - A Vue.js (vue2) component for Dropzone.js - a drag’n’drop file uploads utility with image previews.
 
 #### Context Menu
 
@@ -747,6 +759,7 @@ Tooltips / popovers
  - [vue-embed ★6](https://github.com/Gomah/vue-embed) - Embed component is based on embed.js for Vue 2.x, a component that embeds emojis, media, maps, tweets, gists, code, services and markdown.
  - [vue-google-autocomplete](https://github.com/olefirenko/vue-google-autocomplete) - A Vue.js (2.x) autosuggest component for the Google Maps Places API.
  - [vue-ip-input ★5](https://github.com/lakb248/vue-ip-input) - An ip input component for Vue.js 2.x
+ - [vue-particles ★36](https://github.com/creotip/vue-particles) - Vue.js component for particles backgrounds
 
 #### Wizard
 
@@ -788,7 +801,7 @@ Tooltips / popovers
  - [vuetify ★2390](https://github.com/vuetifyjs/vuetify) - Material Component Framework for Vue.js 2.
  - [muse-ui ★2723](https://github.com/museui/muse-ui) - Material Component library for Vue.js 2.
  - [buefy ★473](https://github.com/rafaelpimpa/buefy) - Components based on Bulma framework.
-
+ - [element-ui ★12063](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
 ### Mobile
 
 *UI frameworks for mobile*
@@ -805,7 +818,6 @@ Tooltips / popovers
  - [keen-ui ★2622](https://github.com/JosephusPaye/Keen-UI) - A lightweight collection of essential UI components written with Vue and inspired by Material Design.
  - [vue-admin ★4084](https://github.com/vue-bulma/vue-admin) - Vue Admin Panel Framework, Powered by Vue 2.0 and Bulma 0.3.
  - [vuikit ★682](https://github.com/vuikit/vuikit) - UIkit with all the power of Vue.
- - [element-ui ★12063](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web.
  - [bootstrap-vue](https://bootstrap-vue.github.io) - Bootstrap 4 Components for Vue.js 2.
  - [uiv ★39](https://github.com/wxsms/uiv) Bootstrap3 components implemented by Vue2.
  - [yuche/vue-strap ★3816](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
@@ -1061,6 +1073,7 @@ Tooltips / popovers
 
  - [vue-navigation ★16](https://github.com/zack24q/vue-navigation) - A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库，记录路由并缓存页面，像原生APP导航一样。
  - [vue-acl ★35](https://github.com/leonardovilarinho/vue-acl) - Access Control List for VueJS 2.
+ - [vue-breadcrumbs ★37](https://github.com/samturrell/vue-breadcrumbs) - Implements simple breadcrumb functionality with vue-router for both Vue 1.x and Vue 2.x.
 
 ### Miscellaneous
 - [vue-container ★16](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
@@ -1150,7 +1163,7 @@ Tooltips / popovers
  - [language-vue@atom.io ★69](https://github.com/hedefalk/atom-vue) - Vue component file syntax for Atom.
  - [language-vue-component@atom.io ★26](https://github.com/CYBAI/language-vue-component) - Adds syntax highlighting to Vue Component files in Atom.
  - [vue-autocomplete@atom.io ★5](https://github.com/ealves-pt/atom-vue-autocomplete) - Vue.js 1.0+ autocomplete for Atom.
- - [vue-snippets@atom.io ★8](https://github.com/ealves-pt/atom-vue-snippets) - Atom snippets for Vue component files.
+ - [vue-snippets@atom.io ★8 ⏳1Y](https://github.com/ealves-pt/atom-vue-snippets) - Atom snippets for Vue component files.
  - [vue-autocompile@atom.io ★4](https://github.com/paulpflug/vue-autocompile) - Auto compile vue file on save.
  - [lint-sass-vue@atom.io ★5](https://github.com/fsblemos/lint-sass-vue) - Atom.io package to lint Sass/SCSS in `.vue` files.
 
@@ -1172,7 +1185,7 @@ Tooltips / popovers
 
 #### Brackets
 
- - [Brackets Vue ★22](https://github.com/pandao/brackets-vue) - Brackets extension for Vue.js.
+ - [Brackets Vue ★22 ⏳1Y](https://github.com/pandao/brackets-vue) - Brackets extension for Vue.js.
 
 #### Intellij
 
@@ -1249,3 +1262,7 @@ Tooltips / popovers
 <br/>
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/vuejs/awesome-vue">https://github.com/vuejs/awesome-vue</a> with ranks
+</p>

@@ -1,7 +1,14 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/matteofigus/awesome-speaking">https://github.com/matteofigus/awesome-speaking</a> with ranks
+</p>
+---
 awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 ================
 
-A collection of awesome resources about public speaking. Please read the [contributing guideline](contributing.md) if you wish to contribute.
+A collection of awesome resources about public speaking. Please read the [contributing guideline](https://github.com/matteofigus/awesome-speaking/blob/master/contributing.md) if you wish to contribute.
 
 ## Blog Posts
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
@@ -44,4 +51,8 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 
 # LICENSE
-[MIT](LICENSE.md)
+[MIT](https://github.com/matteofigus/awesome-speaking/blob/master/LICENSE.md)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/matteofigus/awesome-speaking">https://github.com/matteofigus/awesome-speaking</a> with ranks
+</p>

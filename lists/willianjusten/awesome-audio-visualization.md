@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/willianjusten/awesome-audio-visualization">https://github.com/willianjusten/awesome-audio-visualization</a> with ranks
+</p>
+---
 <p align="center">
   <img id="awesome-audio-visualization" src="logo-aav.gif" alt="Logo AAV">
 </p>
@@ -8,7 +15,7 @@
 
 - [Who made this list?](#authors)
 - [Check the logo in action](http://www.shiz.co/aav/)
-- [Contributing Guide](Contributing.md)
+- [Contributing Guide](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md)
 
 [![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
@@ -158,17 +165,17 @@
 
 - [web-audio-analyser ★123](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
 - [web-audio-player ★115](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player.
-- [web-media-playback ★6](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser.
+- [web-media-playback ★6 ⏳1Y](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser.
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
-- [ThreeAudio.js ★401](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
+- [ThreeAudio.js ★401 ⏳1Y](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
 - [Beeplay.js](https://watilde.github.io/beeplay/) - Write a song In JavaScript.
 - [MIDI.js ★2161](https://github.com/mudcube/MIDI.js) - Making life easy to create a MIDI-app on the web.
-- [Beep.js ★1142](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers.
+- [Beep.js ★1142 ⏳2Y](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers.
 - [p5.sound ★212](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
 - [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
-- [audio-render ★19](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
-- [Octavian ★97](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
+- [audio-render ★19 ⏳1Y](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
+- [Octavian ★97 ⏳1Y](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
 - [audiowaveform ★342](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 
@@ -264,3 +271,7 @@ Your contributions are always welcome! [Click here to read the guidelines](https
 [![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 To the extent possible under law, [Willian Justen](http://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/willianjusten/awesome-audio-visualization">https://github.com/willianjusten/awesome-audio-visualization</a> with ranks
+</p>

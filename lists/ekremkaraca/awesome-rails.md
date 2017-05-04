@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ekremkaraca/awesome-rails">https://github.com/ekremkaraca/awesome-rails</a> with ranks
+</p>
+---
 # AwesomeRails [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/ekremkaraca/awesome-rails.svg?branch=master)](https://travis-ci.org/ekremkaraca/awesome-rails)
 
 A collection of all things awesome about Rails. Inspired by other awesome-* stuffs.<small>(see [Notable Awesome Stuffs](#notable-awesome-stuffs) part below)</small> Contributions and pull requests are kindly welcomed!
@@ -61,13 +68,13 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 #### Blogging
 
 - [publify ★1676](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails  [Live](http://demo.publify.co/)
-- [obtvse2 ★261](https://github.com/natew/obtvse2) - A clean and simple markdown blogging platform on Rails
+- [obtvse2 ★261 ⏳3Y](https://github.com/natew/obtvse2) - A clean and simple markdown blogging platform on Rails
 
 #### Community Management
 
 - [discourse ★21366](https://github.com/discourse/discourse) -A platform for community discussion  [Live](http://try.discourse.org/)
 - [loomio ★1400](https://github.com/loomio/loomio) -  A collaborative decision-making tool that makes it easy for anyone [Live](https://www.loomio.org/)
-- [campo ★460](https://github.com/chloerei/campo) - A lightweight forum application, base on Ruby on Rails  [Live](http://codecampo.com/)
+- [campo ★460 ⏳1Y](https://github.com/chloerei/campo) - A lightweight forum application, base on Ruby on Rails  [Live](http://codecampo.com/)
 - [onebody ★1349](https://github.com/churchio/onebody) - A private member portal for churches built with Ruby on Rails [Live](https://church.io/)
 - [calagator ★333](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR
 
@@ -90,7 +97,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 
 #### Health
 
-- [quant ★128](https://github.com/jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker
+- [quant ★128 ⏳1Y](https://github.com/jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker
 - [dgi-db](https://github.com/genome/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database [Live](http://dgidb.genome.wustl.edu/)
 - [popHealth ★120](https://github.com/pophealth/popHealth) -  An Open Source Population Health Reporting Prototype  
 
@@ -103,7 +110,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 #### Music
 
 - [Beatstream ★107](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere  
-- [listenup ★20](https://github.com/ooofinooo/listenup) -  An application that allows users to search for songs and add them to friends playlist  [Live](http://listenup-songshare.herokuapp.com/)
+- [listenup ★20 ⏳2Y](https://github.com/ooofinooo/listenup) -  An application that allows users to search for songs and add them to friends playlist  [Live](http://listenup-songshare.herokuapp.com/)
 
 #### Nature
 
@@ -119,13 +126,13 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 #### Politics
 
 - [whitehall ★392](https://github.com/alphagov/whitehall) - Inside Government: how the UK Government works, what it's doing, and how you can get involved  
-- [askaway ★30](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election  [Live](https://nzelection.askaway.org.nz/)
+- [askaway ★30 ⏳1Y](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election  [Live](https://nzelection.askaway.org.nz/)
 
 #### Project Management
 
 - [redmine ★2402](https://github.com/edavis10/redmine) - A flexible project management web application written using Ruby on Rails  [Live](http://demo.redmine.org/)
-- [teambox ★1920](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com/)
-- [kanban ★510](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com/)
+- [teambox ★1920 ⏳4Y](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com/)
+- [kanban ★510 ⏳1Y](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com/)
 - [openproject ★1407](https://github.com/opf/openproject) - A web based project management system built on Ruby on Rails  [Live](https://www.openproject.org/)
 - [people ★49](https://github.com/netguru/people) - Manage people within the projects
 - [WebsiteOne ★74](https://github.com/AgileVentures/WebsiteOne) - A platform for online collaboration and crowdsourced project development [Live](http://www.agileventures.org/)
@@ -137,7 +144,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - [diaspora ★11217](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [Live](https://diasporafoundation.org/)
 - [coderwall](https://github.com/assemblymade/coderwall) - Professional network for software engineers  [Live](https://coderwall.com/)
 - [follow-all ★83](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click
-- [Hashrobot ★40](https://github.com/rysmith/hashrobot) - A social media assistant  [Live](http://www.hashrobot.com/)
+- [Hashrobot ★40 ⏳1Y](https://github.com/rysmith/hashrobot) - A social media assistant  [Live](http://www.hashrobot.com/)
 - [socify](https://github.com/sudharti/socify) - an open source social networking platform written in Ruby on Rails
 - [RoRdit ★41](https://github.com/mertbulan/RoRdit) - Link aggregation web app similar with Reddit in Ruby on Rails [Live](https://rordit.herokuapp.com)
 - [Mastodon ★8434](https://github.com/tootsuite/mastodon) - GNU Social-compatible microblogging server [Live](https://mastodon.social)
@@ -146,7 +153,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 
 - [adopt-a-hydrant ★374](https://github.com/codeforamerica/adopt-a-hydrant) - A Ruby on Rails application that allows citizens to "adopt" civic infrastructure, such as fire hydrants  [Live](http://adopt-a-hydrant.herokuapp.com/)
 - [planningalerts-app ★41](https://github.com/openaustralia/planningalerts) - Find out and have your say about what's being built and knocked down in your area
-- [spokenvote ★42](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
+- [spokenvote ★42 ⏳1Y](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
 
 #### Sports
 
@@ -166,13 +173,13 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 -  [danbooru ★466](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3 [Live](http://testbooru.donmai.us)
 -  [sharetribe ★1013](https://github.com/sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online [Live](https://www.sharetribe.com)
 -  [AsakusaSatellite ★91](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers [Live](http://www.codefirst.org/AsakusaSatellite/)
--  [sanataro ★53](https://github.com/kaznum/sanataro) - Simple Web Household Account Book. built with Ruby on Rails [Live](http://sanataro.herokuapp.com)
--  [opencongress ★45](https://github.com/sunlightlabs/opencongress) - An open website for opening Congress
+-  [sanataro ★53 ⏳1Y](https://github.com/kaznum/sanataro) - Simple Web Household Account Book. built with Ruby on Rails [Live](http://sanataro.herokuapp.com)
+-  [opencongress ★45 ⏳1Y](https://github.com/sunlightlabs/opencongress) - An open website for opening Congress
 -  [rletters ★16](https://github.com/rletters/rletters) - Web application designed to perform digital humanities research tasks on a database of journal articles [Live](http://www.rletters.net)
 -  [scholarsphere ★59](https://github.com/psu-stewardship/scholarsphere) - A web application for ingest, curation, search, and display of digital assets  
 -  [opensit ★41](https://github.com/danbartlett/opensit) - An open source meditation community [Live](http://opensit.com)
 -  [fromthepage ★80](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [Live](http://beta.fromthepage.com/)
--  [graff_mags ★17](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com/)
+-  [graff_mags ★17 ⏳2Y](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com/)
 -  [trado ★85](https://github.com/Jellyfishboy/trado) - lightweight, easy to use e-commerce platform designed for sole traders and SME businesses  
 -  [CoRM ★16](https://github.com/SIGIRE/CoRM) - Easier than a CRM [Live](http://www.corm.fr)
 -  [leihs ★41](https://github.com/leihs/leihs) - An easy inventory handling system  
@@ -186,8 +193,8 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 -  [crabgrass-core ★71](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online  
 -  [alaveteli ★199](https://github.com/mysociety/alaveteli) - Provide a Freedom of Information request system for your jurisdiction  [Live](http://alaveteli.org)
 -  [PasswordPusher ★148](https://github.com/pglombardo/PasswordPusher) - A Ruby on Rails application to communicate passwords over the web  [Live](https://pwpush.com/)
--  [rentmybikes-rails ★58](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails
--  [lavish ★709](https://github.com/mquan/lavish) - a rails app that generates Bootstrap color scheme from an image  [Live](http://www.lavishbootstrap.com/)
+-  [rentmybikes-rails ★58 ⏳2Y](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails
+-  [lavish ★709 ⏳1Y](https://github.com/mquan/lavish) - a rails app that generates Bootstrap color scheme from an image  [Live](http://www.lavishbootstrap.com/)
 -  [coursemology2 ★33](https://github.com/Coursemology/coursemology2) - Rails 4 re-write of Coursemology  
 -  [Helpy ★14](https://github.com/scott/helpy) - Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community [Live](http://helpy.io)
 -  [expertiza](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc).
@@ -213,3 +220,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - [awesome-ruby ★933](https://github.com/sdogruyol/awesome-ruby)
 - [awesome-rails-gem ★2053](https://github.com/hothero/awesome-rails-gem)
 - [Other awesome lists (by update dates)](https://github.com/search?utf8=%E2%9C%93&q=awesome+list+sort%3Aupdated&type=Repositories&ref=searchresults)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ekremkaraca/awesome-rails">https://github.com/ekremkaraca/awesome-rails</a> with ranks
+</p>

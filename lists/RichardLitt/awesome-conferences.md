@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/RichardLitt/awesome-conferences">https://github.com/RichardLitt/awesome-conferences</a> with ranks
+</p>
+---
 # Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > :ticket: A list of awesome conferences
@@ -40,7 +47,7 @@
  * Alcohol-free drink options.
  * Quiet rooms and safe space.
 
-Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPLATE.md) provided.
+Add your conferences below, using the [Pull Request Template](https://github.com/RichardLitt/awesome-conferences/blob/master/PULL_REQUEST_TEMPLATE.md) provided.
 
 ## Conferences
 
@@ -344,6 +351,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 ### Help with Speaking
 
 * [awesome-speaking ★471](https://github.com/matteofigus/awesome-speaking)
+* [gitpitch ★2704](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com.
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
@@ -388,10 +396,14 @@ Would you like to be a maintainer? Please ping me! [I'm looking for more.](https
 
 ## Contribute
 
-Please do! Check out the [Contributing](contributing.md) file, and [open an issue](https://github.com/RichardLitt/awesome-conferences/issues/new)!
+Please do! Check out the [Contributing](https://github.com/RichardLitt/awesome-conferences/blob/master/contributing.md) file, and [open an issue](https://github.com/RichardLitt/awesome-conferences/issues/new)!
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/RichardLitt/awesome-conferences">https://github.com/RichardLitt/awesome-conferences</a> with ranks
+</p>

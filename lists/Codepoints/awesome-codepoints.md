@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/Codepoints/awesome-codepoints">https://github.com/Codepoints/awesome-codepoints</a> with ranks
+</p>
+---
 # Awesome Code Points [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 This is a curated list of characters in Unicode, that have interesting (and
@@ -207,7 +214,7 @@ For plain-text gaming, Unicode is well equipped with several complete sets:
 
 ## Contributing Your Code Points
 
-See [the contribution guide](CONTRIBUTING.md) for details.
+See [the contribution guide](https://github.com/Codepoints/awesome-codepoints/blob/master/CONTRIBUTING.md) for details.
 
 ## License
 
@@ -217,3 +224,7 @@ To the extent possible under law, [the
 contributors](https://github.com/Codepoints/awesome-codepoints/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See
 [the license file](LICENSE) for details.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/Codepoints/awesome-codepoints">https://github.com/Codepoints/awesome-codepoints</a> with ranks
+</p>

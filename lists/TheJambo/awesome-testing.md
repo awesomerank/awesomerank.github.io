@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/TheJambo/awesome-testing">https://github.com/TheJambo/awesome-testing</a> with ranks
+</p>
+---
 ![](https://github.com/TheJambo/awesome-testing/blob/master/resources/AwesomeTesting.jpg?raw=true)
 # Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 > A curated list of testing software, extensions and resources
@@ -70,10 +77,10 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Testers.io](http://www.testers.io/) - Community Slack for testers to discuss everything and rant. Mostly rant.
 
 ## Contributing
-See the *Awesome Testing* [contribution guide](CONTRIBUTING.md) for details on how to contribute.
+See the *Awesome Testing* [contribution guide](https://github.com/TheJambo/awesome-testing/blob/master/CONTRIBUTING.md) for details on how to contribute.
 
 ## Code of Conduct
-See the [Code of Conduct](CODE-OF-CONDUCT.md) for details. Basically it comes down to:
+See the [Code of Conduct](https://github.com/TheJambo/awesome-testing/blob/master/CODE-OF-CONDUCT.md) for details. Basically it comes down to:
 >In the interest of fostering an open and welcoming environment, we as
 contributors and maintainers pledge to making participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
@@ -88,3 +95,7 @@ To the extent possible under law, [the
 contributors](https://github.com/jagracey/Awesome-Unicode/graphs/contributors)
 have waived all copyright and related or neighboring rights to this work. See the
 [license file](LICENSE) for details.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/TheJambo/awesome-testing">https://github.com/TheJambo/awesome-testing</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/iJackUA/awesome-vagrant">https://github.com/iJackUA/awesome-vagrant</a> with ranks
+</p>
+---
 # Awesome Vagrant
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
 
@@ -36,8 +43,8 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 * [vagrant-hostsupdater ★908](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system.
 * [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier/) - share a common package (apt-get, npm, etc.) cache among similar VM instances.
 * [vagrant-host-shell ★100](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots.
-* [vagrant-ansible-local ★60](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
-* [sahara ★695](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
+* [vagrant-ansible-local ★60 ⏳2Y](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
+* [sahara ★695 ⏳1Y](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
 
 
 ## Helpers / Tools
@@ -90,8 +97,8 @@ for any IP address.
 * [Joomla-Vagrant ★130](https://github.com/joomlatools/joomlatools-vagrant).
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
 * [Drupal VM](https://www.drupalvm.com/) - A VM for local Drupal development, built with Vagrant + Ansible
-* [Try Yii2 ★46](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
-* [Laravel4-Vagrant ★512](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
+* [Try Yii2 ★46 ⏳1Y](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
+* [Laravel4-Vagrant ★512 ⏳1Y](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
 * [OpenStack on Ansible with Vagrant ★214](https://github.com/openstack-ansible/openstack-ansible).
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 16.04 LTS, PHP 7, Nginx, and multiple database platforms.
 * [Scotch Box](https://scotch.io/bar-talk/announcing-scotch-box-2-0-our-dead-simple-vagrant-lamp-stack-improved) - Simple Vagrant Box with [LAMP](https://en.m.wikipedia.org/wiki/LAMP_%28software_bundle%29) stack, plus some useful extras, based on Ubuntu 14.04 LTS.
@@ -102,3 +109,7 @@ for any IP address.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Ievgen Kuzminov](http://stdout.in/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/iJackUA/awesome-vagrant">https://github.com/iJackUA/awesome-vagrant</a> with ranks
+</p>

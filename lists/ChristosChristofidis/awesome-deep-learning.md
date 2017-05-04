@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">https://github.com/ChristosChristofidis/awesome-deep-learning</a> with ranks
+</p>
+---
 # Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
@@ -301,7 +308,7 @@
 22. [CAVIAR video sequences of mall and public space behavior](http://homepages.inf.ed.ac.uk/rbf/CAVIARDATA1/) - 90K video frames in 90 sequences of various human activities, with XML ground truth of detection and behavior classification (Formats: MPEG2 & JPEG)
 23. [Machine Vision Unit](http://www.ipab.inf.ed.ac.uk/mvu/)
 25. [CCITT Fax standard images](http://www.cs.waikato.ac.nz/~singlis/ccitt.html) - 8 images (Formats: gif)
-26. [CMU CIL's Stereo Data with Ground Truth](cil-ster.html) - 3 sets of 11 images, including color tiff images with spectroradiometry (Formats: gif, tiff)
+26. [CMU CIL's Stereo Data with Ground Truth](https://github.com/ChristosChristofidis/awesome-deep-learning/blob/master/cil-ster.html) - 3 sets of 11 images, including color tiff images with spectroradiometry (Formats: gif, tiff)
 27. [CMU PIE Database](http://www.ri.cmu.edu/projects/project_418.html) - A database of 41,368 face images of 68 people captured under 13 poses, 43 illuminations conditions, and with 4 different expressions.
 28. [CMU VASC Image Database](http://www.ius.cs.cmu.edu/idb/) - Images, sequences, stereo pairs (thousands of images) (Formats: Sun Rasterimage)
 29. [Caltech Image Database](http://www.vision.caltech.edu/html-files/archive.html) - about 20 images - mostly top-down views of small objects and toys. (Formats: GIF)
@@ -408,12 +415,12 @@
 7.  [DeepLearning4J](http://deeplearning4j.org/)
 8.  [Brain ★7651](https://github.com/harthur/brain)
 9.  [DeepLearnToolbox ★2447](https://github.com/rasmusbergpalm/DeepLearnToolbox)
-10.  [Deepnet ★748](https://github.com/nitishsrivastava/deepnet)
-11.  [Deeppy ★1100](https://github.com/andersbll/deeppy)
+10.  [Deepnet ★748 ⏳2Y](https://github.com/nitishsrivastava/deepnet)
+11.  [Deeppy ★1100 ⏳1Y](https://github.com/andersbll/deeppy)
 12.  [JavaNN ★1066](https://github.com/ivan-vasilev/neuralnetworks)
-13.  [hebel ★1162](https://github.com/hannes-brt/hebel)
+13.  [hebel ★1162 ⏳1Y](https://github.com/hannes-brt/hebel)
 14.  [Mocha.jl ★872](https://github.com/pluskid/Mocha.jl)
-15.  [OpenDL ★208](https://github.com/guoding83128/OpenDL)
+15.  [OpenDL ★208 ⏳1Y](https://github.com/guoding83128/OpenDL)
 16.  [cuDNN](https://developer.nvidia.com/cuDNN)
 17.  [MGL](http://melisgl.github.io/mgl-pax-world/mgl-manual.html)
 18.  [Knet.jl ★253](https://github.com/denizyuret/Knet.jl)
@@ -425,7 +432,7 @@
 24.  [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
 25.  [char-rnn ★5537](https://github.com/karpathy/char-rnn)
 26.  [MatConvNet: CNNs for MATLAB ★729](https://github.com/vlfeat/matconvnet)
-27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU ★598](https://github.com/dmlc/minerva)
+27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU ★598 ⏳1Y](https://github.com/dmlc/minerva)
 28.  [Brainstorm - Fast, flexible and fun neural networks. ★1251](https://github.com/IDSIA/brainstorm)
 29.  [Tensorflow - Open source software library for numerical computation using data flow graphs ★55594](https://github.com/tensorflow/tensorflow)
 30.  [DMTK - Microsoft Distributed Machine Learning Tookit ★2084](https://github.com/Microsoft/DMTK)
@@ -452,8 +459,8 @@
 3.  [100 Best Github Resources in Github for DL](http://meta-guide.com/software-meta-guide/100-best-github-deep-learning/)
 4.  [Word2Vec](https://code.google.com/p/word2vec/)
 5.  [Caffe DockerFile](https://github.com/tleyden/docker/tree/master/caffe)
-6.  [TorontoDeepLEarning convnet ★462](https://github.com/TorontoDeepLearning/convnet)
-8.  [gfx.js ★116](https://github.com/clementfarabet/gfx.js)
+6.  [TorontoDeepLEarning convnet ★462 ⏳1Y](https://github.com/TorontoDeepLearning/convnet)
+8.  [gfx.js ★116 ⏳1Y](https://github.com/clementfarabet/gfx.js)
 9. [Torch7 Cheat sheet](https://github.com/torch/torch7/wiki/Cheatsheet)
 10. [Misc from MIT's 'Advanced Natural Language Processing' course] (http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-864-advanced-natural-language-processing-fall-2005/)
 11. [Misc from MIT's 'Machine Learning' course](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/)
@@ -463,13 +470,13 @@
 15. [A chess AI that learns to play chess using deep learning. ★498](https://github.com/erikbern/deep-pink)
 16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind] (https://github.com/kristjankorjus/Replicating-DeepMind)
 17. [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps ★351](https://github.com/idio/wiki2vec)
-18. [The original code from the DeepMind article + tweaks ★1349](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
-19. [Google deepdream - Neural Network art ★10109](https://github.com/google/deepdream)
+18. [The original code from the DeepMind article + tweaks ★1349 ⏳1Y](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
+19. [Google deepdream - Neural Network art ★10109 ⏳1Y](https://github.com/google/deepdream)
 20. [An efficient, batched LSTM.](https://gist.github.com/karpathy/587454dc0146a6ae21fc)
 21. [A recurrent neural network designed to generate classical music. ★1238](https://github.com/hexahedria/biaxial-rnn-music-composition)
 22. [Memory Networks Implementations - Facebook ★1052](https://github.com/facebook/MemNN)
 23. [Face recognition with Google's FaceNet deep neural network. ★7008](https://github.com/cmusatyalab/openface)
-24. [Basic digit recognition neural network ★73](https://github.com/joeledenberg/DigitRecognition)
+24. [Basic digit recognition neural network ★73 ⏳4Y](https://github.com/joeledenberg/DigitRecognition)
 25. [Emotion Recognition API Demo - Microsoft](https://www.projectoxford.ai/demo/emotion#detection)
 26. [Proof of concept for loading Caffe models in TensorFlow ★1159](https://github.com/ethereon/caffe-tensorflow)
 27. [YOLO: Real-Time Object Detection](http://pjreddie.com/darknet/yolo/#webcam)
@@ -487,3 +494,7 @@ Have anything in mind that you think is awesome and would fit in this list? Feel
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Christos Christofidis](https://linkedin.com/in/Christofidis) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">https://github.com/ChristosChristofidis/awesome-deep-learning</a> with ranks
+</p>

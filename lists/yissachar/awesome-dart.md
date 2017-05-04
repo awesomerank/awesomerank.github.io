@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/yissachar/awesome-dart">https://github.com/yissachar/awesome-dart</a> with ranks
+</p>
+---
 Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 ============
 
@@ -5,7 +12,7 @@ A curated list of awesome Dart frameworks, libraries, and software. Items on the
 
 ### Contributing
 
-Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors); you rock!
+Please take a quick look at the [contribution guidelines](https://github.com/yissachar/awesome-dart/blob/master//CONTRIBUTING.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you to all [contributors](https://github.com/yissachar/awesome-dart/graphs/contributors); you rock!
 
 ### Contents
 
@@ -46,7 +53,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 * [Aqueduct ★124](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support.
 * [Redstone ★266](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart.
 * [Start ★385](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
-* [Express ★104](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
+* [Express ★104 ⏳2Y](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_)
 * [Force ★83](https://github.com/ForceUniverse/dart-force) - A real time web framework, embracing websockets, making communication even better
@@ -56,19 +63,19 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Game Development
 
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
-* [DartRocket ★40](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
-* [Pixi Dart ★21](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
-* [Ranger ★15](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
+* [DartRocket ★40 ⏳2Y](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
+* [Pixi Dart ★21 ⏳2Y](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
+* [Ranger ★15 ⏳1Y](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
 
 ## Animation
 
-* [Universal Tween Engine ★19](https://github.com/xaguzman/tween-engine-dart) - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
-* [Spine Dart ★6](https://github.com/FedeOmoto/spine) - An implementation of the Esoteric Software Spine runtime.
+* [Universal Tween Engine ★19 ⏳1Y](https://github.com/xaguzman/tween-engine-dart) - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
+* [Spine Dart ★6 ⏳2Y](https://github.com/FedeOmoto/spine) - An implementation of the Esoteric Software Spine runtime.
 
 ## Template
 
 * [mustache4dart ★35](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache.
-* [jaded ★32](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
+* [jaded ★32 ⏳3Y](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
 
 ## Database
 
@@ -86,7 +93,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 * [Flutter ★961](https://github.com/flutter/engine) - Flutter is a new way to build high-performance, cross-platform mobile apps, allowing you to write applications for Android and iOS.
 * [Quiver ★140](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
-* [route_hierarchical ★30](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
+* [route_hierarchical ★30 ⏳1Y](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
 * [Frappe](https://pub.dartlang.org/packages/frappe) - A functional reactive programming library for Dart. Frappé extends the functionality of Dart's streams, and introduces new concepts like properties/signals.
 
@@ -106,7 +113,7 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 ## Validation
 
 * [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
-* [validator.dart ★18](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
+* [validator.dart ★18 ⏳2Y](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
 
 ## ORM
 
@@ -122,14 +129,14 @@ Please take a quick look at the [contribution guidelines](/CONTRIBUTING.md) firs
 
 ## Testing
 
-* [Guinness ★40](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
+* [Guinness ★40 ⏳1Y](https://github.com/vsavkin/guinness) - A port of the Jasmine library.
 * [test](https://pub.dartlang.org/packages/test) - Provides a standard way of writing and running tests in Dart.
 
 ## Tools
 
 * [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory is a tool for profiling and debugging your Dart applications.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
-* [js2dart ★16](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
+* [js2dart ★16 ⏳2Y](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
 * [Stagehand ★185](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [Crossdart](http://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
@@ -159,3 +166,7 @@ There are lots of awesome libraries being added to [Pub](https://pub.dartlang.or
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/yissachar/awesome-dart">https://github.com/yissachar/awesome-dart</a> with ranks
+</p>

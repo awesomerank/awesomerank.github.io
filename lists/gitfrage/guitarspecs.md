@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/gitfrage/guitarspecs">https://github.com/gitfrage/guitarspecs</a> with ranks
+</p>
+---
 
 ## Electric Guitar Specifications [guitarspecs.info](https://www.guitarspecs.info)
 
@@ -553,3 +560,7 @@ Cliparts by : <a href="http://de.123rf.com/profile_tele52">tele52/123RF</a>
 CSS: https://github.com/sindresorhus/github-markdown-css
 
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/gitfrage/guitarspecs">https://github.com/gitfrage/guitarspecs</a> with ranks
+</p>

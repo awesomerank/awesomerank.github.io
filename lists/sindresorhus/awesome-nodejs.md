@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/sindresorhus/awesome-nodejs">https://github.com/sindresorhus/awesome-nodejs</a> with ranks
+</p>
+---
 # Awesome Node.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/gilbarbara/logos/e7b1dc2666c3dabe6c1276abd0a767b6ebd6af43/logos/nodejs-icon.svg" align="right" width="70">](https://nodejs.org)
@@ -7,7 +14,7 @@
 **Just type [`node.cool`](https://node.cool) to go here ✨**
 
 *You might also like [awesome-npm ★2398](https://github.com/sindresorhus/awesome-npm).*
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-nodejs/blob/master/contributing.md) before contributing.*
 
 ---
 
@@ -93,10 +100,10 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [peerflix ★4223](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 - [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
 - [ipfs ★885](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
-- [GitTorrent ★3628](https://github.com/cjb/GitTorrent) - Peer-to-peer network of Git repositories being shared over BitTorrent.
+- [GitTorrent ★3628 ⏳1Y](https://github.com/cjb/GitTorrent) - Peer-to-peer network of Git repositories being shared over BitTorrent.
 - [stackgl](http://stack.gl) - Open software ecosystem for WebGL, built on top of browserify and npm.
-- [peerwiki ★252](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
-- [peercast ★321](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
+- [peerwiki ★252 ⏳2Y](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+- [peercast ★321 ⏳2Y](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
 - [Bitcore](https://bitcore.io) - Pure and powerful Bitcoin library.
 - [PDFKit](http://pdfkit.org) - PDF generation library.
@@ -115,18 +122,18 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 
 - [np ★2129](https://github.com/sindresorhus/np) - Better `npm publish`.
 - [trash ★1305](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
-- [npm-name ★43](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
+- [npm-name ★43 ⏳1Y](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
 - [speed-test ★1862](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
 - [emoj ★1235](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [pageres ★7974](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - [cpy ★122](https://github.com/sindresorhus/cpy) - Copy files.
 - [vtop ★1929](https://github.com/MrRio/vtop) - More better top, with nice charts.
 - [empty-trash ★75](https://github.com/sindresorhus/empty-trash) - Empty the trash.
-- [is-up ★257](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
+- [is-up ★257 ⏳1Y](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 - [is-online ★271](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 - [public-ip ★211](https://github.com/sindresorhus/public-ip) - Get your public IP address.
 - [clipboard-cli ★105](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
-- [ttystudio ★2690](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
+- [ttystudio ★2690 ⏳1Y](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
 - [XO ★2525](https://github.com/sindresorhus/xo) - Enforce strict code style using the JavaScript happiness style.
 - [Standard ★11361](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
@@ -134,7 +141,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [David ★731](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [http-server ★4872](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
 - [Live Server ★1311](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
-- [bcat ★247](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
+- [bcat ★247 ⏳2Y](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
 - [normit ★162](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
 - [slap ★3511](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 - [jsinspect ★1424](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
@@ -143,14 +150,14 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [pjs ★309](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
 - [license-checker ★361](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run ★258](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
-- [tmpin ★102](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
+- [tmpin ★102 ⏳1Y](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
 - [modhelp ★18](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
 - [wifi-password ★53](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 - [wallpaper ★376](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [brightness ★84](https://github.com/kevva/brightness-cli) - Change the screen brightness.
 - [torrent ★459](https://github.com/maxogden/torrent) - Download torrents.
 - [tfa ★22](https://github.com/jasnell/tfa) - Two-factor authentication client.
-- [rtail ★1309](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
+- [rtail ★1309 ⏳1Y](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
 - [kill-tabs ★197](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 - [alex ★1760](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
 - [vantage ★3283](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
@@ -159,15 +166,15 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [dark-mode ★171](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
 - [iponmap ★109](https://github.com/nogizhopaboroda/iponmap) - IP location finder.
 - [Jsome ★63](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
-- [itunes-remote ★243](https://github.com/mischah/itunes-remote) - Interactively control iTunes.
+- [itunes-remote ★243 ⏳1Y](https://github.com/mischah/itunes-remote) - Interactively control iTunes.
 - [text-meme ★44](https://github.com/beatfreaker/text-meme-cli) - Generate a text meme.
 - [mobicon ★31](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash ★16](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
 - [diff2html-cli ★53](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
 - [Cash ★7183](https://github.com/dthree/cash) - Cross-platform Unix shell commands in pure JavaScript.
-- [vaca ★75](https://github.com/sindresorhus/vaca) - Get a random ASCII 🐮.
-- [gh-home ★52](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
-- [npm-home ★33](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+- [vaca ★75 ⏳1Y](https://github.com/sindresorhus/vaca) - Get a random ASCII 🐮.
+- [gh-home ★52 ⏳1Y](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
+- [npm-home ★33 ⏳1Y](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [trymodule ★964](https://github.com/VictorBjelkholm/trymodule) - Try out npm packages in the terminal.
 - [terminal-recorder ★48](https://github.com/cortezcristian/terminal-recorder) - Record your terminal usage and export it to interactive HTML.
 - [jscpd ★441](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
@@ -216,13 +223,13 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [ironNode ★2312](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box.
 - [node-inspector ★11312](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
 - [devtool ★3674](https://github.com/Jam3/devtool) - Run Node.js programs through Chrome Dev Tools.
-- [Theseus ★1341](https://github.com/adobe-research/theseus) - JavaScript debugger featuring real-time code coverage, retroactive inspection and asynchronous call tree.
+- [Theseus ★1341 ⏳2Y](https://github.com/adobe-research/theseus) - JavaScript debugger featuring real-time code coverage, retroactive inspection and asynchronous call tree.
 - [longjohn ★571](https://github.com/mattinsler/longjohn) - Long stack traces with configurable call trace length.
 - [debug ★4246](https://github.com/visionmedia/debug) - Tiny debugging utility.
 - [jstrace ★377](https://github.com/jstrace/jstrace) - Dynamic tracing for JavaScript, similar to dtrace, ktap etc.
 - [why-is-node-running ★507](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 - [njsTrace ★194](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
-- [vstream ★54](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
+- [vstream ★54 ⏳2Y](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
 - [stackman ★123](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 - [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
 - [bugger ★150](https://github.com/buggerjs/bugger) - Provides Chrome Devtools bindings to debug programs in Chrome.
@@ -264,8 +271,8 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [yn ★73](https://github.com/sindresorhus/yn) - Parse yes/no like values.
 - [cli-table ★1245](https://github.com/Automattic/cli-table) - Pretty unicode tables.
 - [drawille ★587](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
-- [sudo-block ★40](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
-- [googleauth ★38](https://github.com/maxogden/googleauth) - Create and load persistent Google authentication tokens for command-line apps.
+- [sudo-block ★40 ⏳2Y](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
+- [googleauth ★38 ⏳2Y](https://github.com/maxogden/googleauth) - Create and load persistent Google authentication tokens for command-line apps.
 - [ascii-charts ★188](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
 - [progress](https://github.com/tj/node-progress) - Flexible ascii progress bar.
 - [insight ★352](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
@@ -278,7 +285,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [cross-env ★1224](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 - [shelljs ★5817](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
 - [loud-rejection ★141](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
-- [sparkly ★239](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
+- [sparkly ★239 ⏳1Y](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
 - [term-img ★154](https://github.com/sindresorhus/term-img) - Display images in your terminal.
 - [yargs ★2865](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 
@@ -367,14 +374,14 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [find-up ★83](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
 - [proper-lockfile ★32](https://github.com/IndigoUnited/node-proper-lockfile) - Inter-process and inter-machine lockfile utility.
 - [load-json-file ★61](https://github.com/sindresorhus/load-json-file) - Read and parse a JSON file.
-- [write-json-file ★53](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
+- [write-json-file ★53 ⏳1Y](https://github.com/sindresorhus/write-json-file) - Stringify and write JSON to a file atomically.
 - [fs-write-stream-atomic](https://github.com/npm/fs-write-stream-atomic) - Like `fs.createWriteStream()`, but atomic.
 - [filenamify ★67](https://github.com/sindresorhus/filenamify) - Convert a string to a valid filename.
-- [lnfs ★8](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
+- [lnfs ★8 ⏳1Y](https://github.com/kevva/lnfs) - Force create symlinks like `ln -fs`.
 - [istextorbinary ★30](https://github.com/bevry/istextorbinary) - Check if a file is text or binary.
 - [fs-jetpack ★275](https://github.com/szwacz/fs-jetpack) - Completely redesigned file system API for convenience in everyday use.
 - [fs-extra ★2314](https://github.com/jprichardson/node-fs-extra) - Extra methods for the `fs` module.
-- [pkg-dir ★27](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
+- [pkg-dir ★27 ⏳1Y](https://github.com/sindresorhus/pkg-dir) - Find the root directory of an npm package.
 - [sander ★53](https://github.com/rich-harris/sander) - Promise-based replacement for the `fs` module.
 - [filehound ★47](https://github.com/nspragg/filehound) - Flexible and fluent interface for searching the file system.
 
@@ -420,13 +427,13 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [peek-stream ★27](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 - [binary-split](https://github.com/maxogden/binary-split) - Newline (or any delimiter) splitter stream.
 - [byline ★218](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
-- [first-chunk-stream ★13](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
+- [first-chunk-stream ★13 ⏳1Y](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 - [pad-stream ★5](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
 - [multistream ★112](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
 - [stream-combiner2 ★62](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
 - [readable-stream ★514](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
-- [through2-concurrent ★44](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
-- [graphicsmagick-stream ★56](https://github.com/e-conomic/graphicsmagick-stream) - Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.
+- [through2-concurrent ★44 ⏳1Y](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
+- [graphicsmagick-stream ★56 ⏳1Y](https://github.com/e-conomic/graphicsmagick-stream) - Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.
 
 
 ### Real-time
@@ -461,7 +468,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [iconv-lite ★1249](https://github.com/ashtuchkin/iconv-lite) - Convert character encodings.
 - [string-length ★30](https://github.com/sindresorhus/string-length) - Get the real length of a string - by correctly counting astral symbols and ignoring ansi escape codes.
 - [camelcase ★118](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
-- [escape-string-regexp ★131](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
+- [escape-string-regexp ★131 ⏳1Y](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 - [execall ★57](https://github.com/sindresorhus/execall) - Find multiple RegExp matches in a string.
 - [splice-string ★11](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 - [indent-string ★33](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
@@ -469,8 +476,8 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [detect-indent ★86](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
 - [he ★986](https://github.com/mathiasbynens/he) - HTML entity encoder/decoder.
 - [i18n-node ★1643](https://github.com/mashpie/i18n-node) - Simple translation module with dynamic JSON storage.
-- [babelfish ★161](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
-- [hanging-indent ★2](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
+- [babelfish ★161 ⏳1Y](https://github.com/nodeca/babelfish) - i18n with very easy syntax for plurals.
+- [hanging-indent ★2 ⏳1Y](https://github.com/codekirei/hanging-indent) - Format a string into a hanging-indented paragraph.
 - [matcher ★222](https://github.com/sindresorhus/matcher) - Simple wildcard matching.
 - [unhomoglyph ★7](https://github.com/nodeca/unhomoglyph) - Normalize visually similar unicode characters.
 
@@ -488,7 +495,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [ndarray ★591](https://github.com/scijs/ndarray) - Multidimensional arrays.
 - [mathjs ★4370](https://github.com/josdejong/mathjs) - An extensive math library.
 - [math-sum ★4](https://github.com/sindresorhus/math-sum) - Sum numbers.
-- [math-clamp ★4](https://github.com/sindresorhus/math-clamp) - Clamp a number.
+- [math-clamp ★4 ⏳1Y](https://github.com/sindresorhus/math-clamp) - Clamp a number.
 - [algebra ★40](https://github.com/fibo/algebra) - Algebraic structures.
 
 
@@ -505,7 +512,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 ### URL
 
 - [normalize-url ★145](https://github.com/sindresorhus/normalize-url) - Normalize a URL.
-- [humanize-url ★43](https://github.com/sindresorhus/humanize-url) - Humanize a URL: http://sindresorhus.com → sindresorhus.com.
+- [humanize-url ★43 ⏳1Y](https://github.com/sindresorhus/humanize-url) - Humanize a URL: http://sindresorhus.com → sindresorhus.com.
 - [url-unshort ★20](https://github.com/nodeca/url-unshort) - Expand shortened URLs.
 - [speakingurl ★757](https://github.com/pid/speakingurl) - Generate a slug from a string with transliteration.
 - [linkify-it ★153](https://github.com/markdown-it/linkify-it) - Link patterns detector with full unicode support.
@@ -527,13 +534,13 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [remark ★862](https://github.com/wooorm/remark) - Markdown processor powered by plugins.
 - [markdown-it ★3419](https://github.com/markdown-it/markdown-it) - Markdown parser with 100% CommonMark support, extensions and syntax plugins.
 - [parse5 ★1378](https://github.com/inikulin/parse5) - Fast full-featured spec compliant HTML parser.
-- [strip-json-comments ★281](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
+- [strip-json-comments ★281 ⏳1Y](https://github.com/sindresorhus/strip-json-comments) - Strip comments from JSON.
 - [strip-css-comments ★71](https://github.com/sindresorhus/strip-css-comments) - Strip comments from CSS.
 - [parse-json ★79](https://github.com/sindresorhus/parse-json) - Parse JSON with more helpful errors.
 - [URI.js ★4691](https://github.com/medialize/URI.js) - URL mutation.
 - [PostCSS ★14519](https://github.com/postcss/postcss) - CSS parser / stringifier.
 - [JSONStream ★1208](https://github.com/dominictarr/JSONStream) - Streaming JSON.parse and stringify.
-- [neat-csv ★45](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
+- [neat-csv ★45 ⏳1Y](https://github.com/sindresorhus/neat-csv) - Fast CSV parser. Callback interface for the above.
 - [csv-parser ★277](https://github.com/mafintosh/csv-parser) - Streaming CSV parser that aims to be faster than everyone else.
 - [PEG.js ★2273](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 - [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraping utility.
@@ -553,10 +560,10 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 ### Humanize
 
 - [pretty-bytes ★278](https://github.com/sindresorhus/pretty-bytes) - Convert bytes to a human readable string: `1337` → `1.34 kB`.
-- [pretty-ms ★224](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
+- [pretty-ms ★224 ⏳1Y](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 - [ms](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 - [pretty-error ★704](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
-- [humanize ★338](https://github.com/taijinlee/humanize) - Data formatter for human readability.
+- [humanize ★338 ⏳1Y](https://github.com/taijinlee/humanize) - Data formatter for human readability.
 - [read-art ★208](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
 
 
@@ -575,7 +582,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [get-port ★129](https://github.com/sindresorhus/get-port) - Get an available port.
 - [ipify ★116](https://github.com/sindresorhus/ipify) - Get your public IP address.
 - [getmac ★103](https://github.com/bevry/getmac) - Get the computer MAC address.
-- [polo ★179](https://github.com/mafintosh/polo) - Zero-config service discovery.
+- [polo ★179 ⏳2Y](https://github.com/mafintosh/polo) - Zero-config service discovery.
 
 
 ### Database
@@ -659,7 +666,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Passport](http://passportjs.org) - Simple, unobtrusive authentication.
 - [everyauth](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, Facebook, etc) for your Connect and Express apps.
 - [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
-- [Lockit ★430](https://github.com/zemirco/lockit) - Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.
+- [Lockit ★430 ⏳1Y](https://github.com/zemirco/lockit) - Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.
 - [Grant ★1251](https://github.com/simov/grant) - OAuth middleware for Express, Koa, and Hapi.
 - [CloudRail](https://github.com/CloudRail/cloudrail-si-node-sdk) - Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).
 
@@ -726,7 +733,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 ### AST
 
 - [Acorn ★2412](https://github.com/ternjs/acorn) - Tiny, fast JavaScript parser.
-- [Rocambole ★142](https://github.com/millermedeiros/rocambole) - Recursively walk and transform JavaScript AST.
+- [Rocambole ★142 ⏳1Y](https://github.com/millermedeiros/rocambole) - Recursively walk and transform JavaScript AST.
 
 
 ### Static site generators
@@ -736,6 +743,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [Assemble](http://assemble.io) - Static site generator for Node.js, Grunt.js, and Yeoman.
 - [DocPad ★2911](https://github.com/docpad/docpad) - Static site generator with dynamic abilities and huge plugin ecosystem.
 - [Phenomic](https://phenomic.io) - Modern static website generator based on the React and Webpack ecosystem.
+- [docsify](https://docsify.js.org) - Markdown documentation site generator with no statically built HTML files.
 
 
 ### Content management systems
@@ -757,7 +765,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 
 ### Weird
 
-- [cows ★154](https://github.com/sindresorhus/cows) - ASCII cows.
+- [cows ★154 ⏳1Y](https://github.com/sindresorhus/cows) - ASCII cows.
 - [superb ★206](https://github.com/sindresorhus/superb) - Get superb like words.
 - [cat-names ★165](https://github.com/sindresorhus/cat-names) - Get popular cat names.
 - [dog-names ★67](https://github.com/sindresorhus/dog-names) - Get popular dog names.
@@ -774,7 +782,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [cheerio ★11981](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 - [Electron](https://github.com/atom/electron) - Build cross platform desktop apps with web technologies. *(You might like [awesome-electron](https://github.com/sindresorhus/awesome-electron))*
 - [opn ★499](https://github.com/sindresorhus/opn) - Opens stuff like websites, files, executables.
-- [hasha ★442](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
+- [hasha ★442 ⏳1Y](https://github.com/sindresorhus/hasha) - Hashing made simple. Get the hash of a buffer/string/stream/file.
 - [dot-prop ★155](https://github.com/sindresorhus/dot-prop) - Get a property from a nested object using a dot path.
 - [onetime ★63](https://github.com/sindresorhus/onetime) - Only run a function once.
 - [mem ★264](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
@@ -792,7 +800,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [node-pre-gyp ★383](https://github.com/mapbox/node-pre-gyp) - Makes it easy to publish and install Node.js C++ addons from binaries.
 - [opencv ★2664](https://github.com/peterbraden/node-opencv) - Bindings for OpenCV. The defacto computer vision library.
 - [dotenv ★2940](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
-- [remote-git-tags ★16](https://github.com/sindresorhus/remote-git-tags) - Get tags from a remote git repo.
+- [remote-git-tags ★16 ⏳1Y](https://github.com/sindresorhus/remote-git-tags) - Get tags from a remote git repo.
 - [semver ★1704](https://github.com/npm/node-semver) - [semver](http://semver.org) parser.
 - [nar ★399](https://github.com/h2non/nar) - Create self-contained executable binaries.
 - [Faker.js ★10050](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
@@ -813,7 +821,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
 - [stream-handbook ★10023](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 - [browserify-handbook ★4038](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
-- [module-best-practices ★857](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
+- [module-best-practices ★857 ⏳1Y](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 - [The Node Way](http://thenodeway.io) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
 - [You Don't Know Node.js ★609](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
 
@@ -851,7 +859,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 - [StrongLoop Talks](https://strongloop.com/node-js/videos/) - Series of talks.
 - [thenewboston's Node.js for Beginners](https://www.thenewboston.com/videos.php?cat=355)
 - [Nodetuts](http://nodetuts.com) - Series of talks, including TCP & HTTP API servers, async programming, and more.
-- [Node Interactive 2015 ★36](https://github.com/duffn/nodeinteractive-2015) - List of talks, keynotes and panels from the 2015 Node Interactive conference.
+- [Node Interactive 2015 ★36 ⏳1Y](https://github.com/duffn/nodeinteractive-2015) - List of talks, keynotes and panels from the 2015 Node Interactive conference.
 
 ### Podcasts
 
@@ -885,7 +893,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 ### Cheatsheets
 
 - [Express.js](https://github.com/azat-co/cheatsheets/blob/master/express4)
-- [Stream FAQs ★141](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
+- [Stream FAQs ★141 ⏳1Y](https://github.com/stephenplusplus/stream-faqs) - Answering common questions about streams, covering pagination, events, and more.
 
 ### Tools
 
@@ -917,3 +925,7 @@ Check out my [blog](https://blog.sindresorhus.com) 🦄 or say *hi* on [Twitter]
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/sindresorhus/awesome-nodejs">https://github.com/sindresorhus/awesome-nodejs</a> with ranks
+</p>

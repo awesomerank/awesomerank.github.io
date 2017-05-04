@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/stoeffel/awesome-fp-js">https://github.com/stoeffel/awesome-fp-js</a> with ranks
+</p>
+---
 # Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 This is a curated list of awesome [functional programming](https://en.wikipedia.org/wiki/Functional_programming) code and learning resources for JavaScript. As a multi-paradigm programming language, JavaScript can be written in many styles. With these resources we want to help you to make better use of JavaScript’s support for writing programs in a _functional_ way.
@@ -33,18 +40,18 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module.
 * [preludejs ★50](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 * [1-liners ★434](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
-* [fn-curry ★5](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
+* [fn-curry ★5 ⏳3Y](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
 * [curry ★71](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
 * [compose-function ★25](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
-* [functionize ★38](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
-* [lambdajs ★123](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
+* [functionize ★38 ⏳2Y](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
+* [lambdajs ★123 ⏳2Y](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
 * [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
 * [trifl ★34](https://github.com/algesten/trifl) – A functional user interface library with unidirectional dataflow and a virtual dom.
 * [funcy ★193](https://github.com/bramstein/funcy) – An experiment in adding functional pattern matching to JavaScript. _Experimental_  :triangular_flag_on_post:
 * [date-fp ★85](https://github.com/cullophid/date-fp) – A functional utility library for working with JavaScript dates. All functions in date-fp are pure, autocurried and will not mutate the date objects they are applied to.
 * [js-joda ★421](https://github.com/js-joda/js-joda) – An immutable date and time library that provides a simple, domain-driven and clean API based on the ISO8601 calendar.
-* [\_part\_ ★46](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
-* [claire ★78](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
+* [\_part\_ ★46 ⏳3Y](https://github.com/AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
+* [claire ★78 ⏳3Y](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
 * [FPO.js](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 
 
@@ -77,7 +84,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [union-type ★305](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
 * [freeky ★82](https://github.com/DrBoolean/freeky) – A collection of Free monads.
 * [Fluture](https://github.com/Avaq/Fluture) – A Future library with included control utilities, high performance and great error messages.
-* [fantasy-combinators ★40](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
+* [fantasy-combinators ★40 ⏳1Y](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 * [fantasy-birds ★41](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 
 ### Lenses
@@ -153,9 +160,9 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 ### Examples and Exercises
 
-* [FPJS-Class ★67](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
+* [FPJS-Class ★67 ⏳1Y](https://github.com/loop-recur/FPJS-Class) – Functional Programming learned through JavaScript.
 * [functional-javascript-workshop ★1407](https://github.com/timoxley/functional-javascript-workshop) – The goal of this workshop is to create realistic problems that can be solved using terse, vanilla, idiomatic JavaScript to teach fundamental functional programming features of JavaScript.
-* [functional-frontend-architecture ★853](https://github.com/paldepind/functional-frontend-architecture) – A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
+* [functional-frontend-architecture ★853 ⏳1Y](https://github.com/paldepind/functional-frontend-architecture) – A functional frontend framework. Based on Ramda + union-type-js + Flyd + Snabbdom
 * [cube-composer ★1118](https://github.com/sharkdp/cube-composer) – A puzzle game inspired by functional programming.
 * [FP Youtube Search ★35](https://github.com/jaysoo/example-fp-youtube-search) – YouTube search app with ReactJS, Redux, and FP concepts
 * [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) – Learn to apply techniques from the forefront of computer science research to solve practical problems in Javascript. Discover functional programming and see it demonstrated step-by-step with how to build an example web app using abstract interfaces like Monads, Functors, Monoids and Applicatives. (_commercial_)
@@ -185,3 +192,7 @@ Please read the [contribution guidelines](./contributing.md) to get started.
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Christoph Hermann](http://stoeffel.github.io/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/stoeffel/awesome-fp-js">https://github.com/stoeffel/awesome-fp-js</a> with ranks
+</p>

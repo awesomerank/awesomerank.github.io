@@ -1,4 +1,11 @@
 <h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/aharris88/awesome-cli-apps">https://github.com/aharris88/awesome-cli-apps</a> with ranks
+</p>
+---
+<h1 align="center">
 	<br>
 	<img width="763" src="https://cdn.rawgit.com/aharris88/awesome-cli-apps/master/media/logo.png" alt="awesome cli apps">
 	<br>
@@ -57,12 +64,12 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 
 - [cmus ★1988](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [Instant-Music-Downloader ★1129](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-- [itunes-remote ★243](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
+- [itunes-remote ★243 ⏳1Y](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
 - [moviemon ★72](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [quote-cli ★13](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
-- [movie ★23](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
-- [somafm-cli ★9](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
+- [movie ★23 ⏳1Y](https://github.com/mayankchd/movie) - Get movie info or compare movies in terminal.
+- [somafm-cli ★9 ⏳1Y](https://github.com/rockymadden/somafm-cli) - Listen to SomaFM in your terminal.
 - [nehm](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use macOS) your SoundCloud likes in convenient way
 - [football-cli ★103](https://github.com/ManrajGrover/football-cli) - Get live scores, fixtures, standings of almost every football competition/league in your terminal.
 - [pockyt ★167](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
@@ -85,21 +92,21 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 
 ### Web Development
 
-- [bower-name-cli ★13](https://github.com/sindresorhus/bower-name-cli) - Check whether a package name is available on bower.
+- [bower-name-cli ★13 ⏳1Y](https://github.com/sindresorhus/bower-name-cli) - Check whether a package name is available on bower.
 - [caniuse-cmd](https://github.com/sgentle/caniuse-cmd) - Searches [caniuse.com](caniuse.com) about browser support of feature.
 - [htconvert ★133](https://github.com/lukechilds/htconvert) - Convert .htaccess redirects to nginx.conf redirects.
-- [is-up-cli ★60](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down.
+- [is-up-cli ★60 ⏳1Y](https://github.com/sindresorhus/is-up-cli) - Check whether a website is up or down.
 - [npm-name-cli ★90](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-- [npm-user-cli ★12](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
+- [npm-user-cli ★12 ⏳1Y](https://github.com/sindresorhus/npm-user-cli) - Get user info of a npm user.
 - [pageres-cli ★601](https://github.com/sindresorhus/pageres-cli) - Capture website screenshots.
-- [strip-css-comments-cli ★17](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
-- [viewport-list-cli ★18](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
+- [strip-css-comments-cli ★17 ⏳1Y](https://github.com/sindresorhus/strip-css-comments-cli) - Strip comments from CSS.
+- [viewport-list-cli ★18 ⏳1Y](https://github.com/kevva/viewport-list-cli) - Return a list of devices and their viewports.
 - [surge](https://surge.sh) - deploy directory to the web.
 - [acmetool ★1213](https://github.com/hlandau/acme) - An easy-to-use command line tool for automatically acquiring certificates from ACME servers.
 - [loadtest ★708](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
 - [wp-cli ★3243](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more, without using a web browser.
 - [diff2html-cli ★53](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
-- [npm-home ★33](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+- [npm-home ★33 ⏳1Y](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 - [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
 
 ### Mobile Development
@@ -114,9 +121,9 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 
 ## Productivity
 
-- [AutoScreenshotUploader ★10](https://github.com/yask123/AutoScreenshotUploader) - Instantly capture and upload screenshot to [imgur](https://imgur.com).
+- [AutoScreenshotUploader ★10 ⏳1Y](https://github.com/yask123/AutoScreenshotUploader) - Instantly capture and upload screenshot to [imgur](https://imgur.com).
 - [bitly-client ★9](https://github.com/specious/bitly-client) - Make and manage Bitly shortlinks with this command line utility
-- [doing ★494](https://github.com/ttscoff/doing) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
+- [doing ★494 ⏳1Y](https://github.com/ttscoff/doing) - A command line tool for keeping track of what you’re doing and tracking what you’ve done.
 - [ffscreencast ★677](https://github.com/cytopia/ffscreencast) - ffmpeg screencast with video overlay and multi monitor support.
 - [idea ★46](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [imgur-uploader-cli ★13](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
@@ -138,9 +145,9 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 
 - [archive-type-cli ★3](https://github.com/kevva/archive-type-cli) - Detect the archive type of a Buffer/Uint8Array.
 - [battery-level ★125](https://github.com/gillstrom/battery-level) - Get current battery level.
-- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version ★8](https://github.com/sondreb/win-brightness).
+- [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version ★8 ⏳1Y](https://github.com/sondreb/win-brightness).
 - [gotty ★7515](https://github.com/yudai/gotty) - Share your terminal as a web application.
-- [screensaver ★16](https://github.com/gillstrom/screensaver) - Start the screensaver.
+- [screensaver ★16 ⏳1Y](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [wallpaper-ci ★55](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [yank ★606](https://github.com/mptre/yank) - Yank terminal output to clipboard.
 - [text-meme ★44](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
@@ -198,7 +205,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 ### Files
 
 - [file-type-cli ★16](https://github.com/sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
-- [strip-json-comments-cli ★21](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
+- [strip-json-comments-cli ★21 ⏳1Y](https://github.com/sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
 - [DocToc ★1310](https://github.com/thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
 
 ### Directory Listing
@@ -224,7 +231,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 
 - [CLI GitHub ★261](https://github.com/IonicaBizau/cli-github) - :tv: A fancy GitHub client for command line.
 - [Gistup ★363](https://github.com/mbostock/gistup) - Create a gist from terminal, then use git to update it.
-- [git commander ★992](https://github.com/golbin/git-commander) - A git tool with a easy terminal interface.
+- [git commander ★992 ⏳1Y](https://github.com/golbin/git-commander) - A git tool with a easy terminal interface.
 - [git-stats ★4300](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
 - [hub ★10294](https://github.com/github/hub) - A command-line wrapper for git that makes you better at GitHub.
 - [dev-time ★135](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
@@ -245,7 +252,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 - [gifsicle ★1014](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 - [ttygif ★2184](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
 - [ttygif ★187](https://github.com/sugyan/ttygif) - ttyrec to gif.
-- [ttystudio ★2690](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
+- [ttystudio ★2690 ⏳1Y](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [asciinema ★2468](https://github.com/asciinema/asciinema) - Terminal session recorder and the best companion of asciinema.org.
 - [givegif ★172](https://github.com/passy/givegif) - GIFs on the command line.
 
@@ -260,35 +267,35 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 
 ## Text Manipulation
 
-- [parse-columns-cli ★21](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
+- [parse-columns-cli ★21 ⏳1Y](https://github.com/sindresorhus/parse-columns-cli) - Parse text columns, like the output of unix commands. Returns JSON that you can manipulate with tools like jq or underscore-cli.
 
 ## Screensavers
 
-- [cmatrix ★79](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen- ([original](http://www.asty.org/cmatrix/)).
+- [cmatrix ★79 ⏳3Y](https://github.com/Treri/cmatrix) - Show a scrolling 'Matrix' like screen- ([original](http://www.asty.org/cmatrix/)).
 - [pipes.sh ★327](https://github.com/pipeseroni/pipes.sh) - Shows random pipes that grow across the screen.
 
 ## Graphics
 
 - [cli-mandelbrot ★16](https://github.com/danyshaanan/cli-mandelbrot) - A cli for traversing the Mandelbrot fractal.
-- [WOPR ★2326](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
-- [sparkly-cli ★49](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
+- [WOPR ★2326 ⏳1Y](https://github.com/yaronn/wopr) - A simple markup language for creating rich terminal reports, presentations and infographics.
+- [sparkly-cli ★49 ⏳1Y](https://github.com/sindresorhus/sparkly-cli) - Generate sparklines ▁▂▃▅▂▇..
 
 ## Other
 
 - [app-path-cli](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
-- [Bible.Js CLI client ★110](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
+- [Bible.Js CLI client ★110 ⏳1Y](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday ★15](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [cowsay ★18](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
 - [cgasm ★171](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
-- [detect-indent-cli ★11](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
+- [detect-indent-cli ★11 ⏳1Y](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 - [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
-- [fullname-cli ★9](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
+- [fullname-cli ★9 ⏳1Y](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
 - [get-port-cli ★39](https://github.com/sindresorhus/get-port-cli) - Get an available port.
 - [gzip-size-cli ★63](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
-- [HASHA -cli ★27](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
-- [is-reachable-cli ★5](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
+- [HASHA -cli ★27 ⏳1Y](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
+- [is-reachable-cli ★5 ⏳1Y](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
 - [kill-tabs ★197](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
-- [leven-cli ★21](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
+- [leven-cli ★21 ⏳1Y](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [maybe ★6173](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
 - [mdlt ★20](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [medium-cli ★474](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
@@ -296,7 +303,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 - [pkg-dir-cli ★7](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [speed-test ★1862](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI.
 - [shortcut-url-cli ★5](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file.
-- [SpeedRead ★15](https://github.com/sunsations/speed_read) - A simple terminal-based open source Spritz-alike.
+- [SpeedRead ★15 ⏳2Y](https://github.com/sunsations/speed_read) - A simple terminal-based open source Spritz-alike.
 - [to-double-quotes ★8](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.
 - [to-single-quotes ★15](https://github.com/sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns.
 - [yosay ★124](https://github.com/yeoman/yosay) - Like cowsay, but for yeoman.
@@ -314,3 +321,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Adam Harris](https://twitter.com/adamCoder) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/aharris88/awesome-cli-apps">https://github.com/aharris88/awesome-cli-apps</a> with ranks
+</p>

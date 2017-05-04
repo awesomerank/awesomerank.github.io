@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/rossant/awesome-math">https://github.com/rossant/awesome-math</a> with ranks
+</p>
+---
 # Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome mathematics resources.
@@ -167,7 +174,7 @@ A curated list of awesome mathematics resources.
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * [Linear Algebra](http://www.mathematik.uni-muenchen.de/~renesse/AP09/hefferon.pdf) - Jim Hefferon
 * [Linear Algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
-* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ★63](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ★63 ⏳2Y](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ### Ring Theory
 
@@ -350,3 +357,7 @@ A curated list of awesome mathematics resources.
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/rossant/awesome-math">https://github.com/rossant/awesome-math</a> with ranks
+</p>

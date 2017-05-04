@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/dylanrees/citizen-science">https://github.com/dylanrees/citizen-science</a> with ranks
+</p>
+---
 # Digital Tools for Citizen Science
 
 Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository ★399](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
@@ -217,3 +224,7 @@ No copyright intended.
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Dylan Rees has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/dylanrees/citizen-science">https://github.com/dylanrees/citizen-science</a> with ranks
+</p>

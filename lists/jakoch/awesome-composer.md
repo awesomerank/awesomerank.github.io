@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/jakoch/awesome-composer">https://github.com/jakoch/awesome-composer</a> with ranks
+</p>
+---
 ## Awesome Composer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/jakoch/awesome-composer.svg?branch=master)](https://travis-ci.org/jakoch/awesome-composer) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
 
 [<img src="https://raw.githubusercontent.com/jakoch/awesome-composer/master/logo-composer-transparent.png" align="right" width="150">](https://getcomposer.org/)
@@ -6,7 +13,7 @@
 
 You might also like [awesome-php ★15226](https://github.com/ziadoz/awesome-php).
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/jakoch/awesome-composer/blob/master/contributing.md) before contributing.*
 
 ## Composer
 
@@ -37,7 +44,7 @@ You might also like [awesome-php ★15226](https://github.com/ziadoz/awesome-php
 - [Documentation for Plugins](https://getcomposer.org/doc/articles/plugins.md) - This offical documentation is good starting point, when writing a Composer plugin.
 - [Composer-Asset-Plugin ★714](https://github.com/fxpio/composer-asset-plugin) - A npm/Bower Dependencies Manager for Composer.
 - [Composer-AWS](https://github.com/naderman/composer-aws) - The plugin loads repository data and downloads packages from Amazon S3 (with authentication support for private repositories).
-- [Composer-Composition ★101](https://github.com/bamarni/composition) - Provides an API, for checking your environment at runtime.
+- [Composer-Composition ★101 ⏳1Y](https://github.com/bamarni/composition) - Provides an API, for checking your environment at runtime.
 - [Composer-Suggest ★2](https://github.com/nfreear/composer-suggest) - Enables you to install a custom group of suggested packages, based on keyword patterns.
 - [Composer-Versions-Check](https://github.com/Soullivaneuh/composer-versions-check) - Shows outdated packages from last major versions after using the update command (showing "Latest is vX.Y.Z").
 - [Composer-Changelogs ★366](https://github.com/pyrech/composer-changelogs) - Provides a summary of the updates with links to changelog/releasenote/tag. The output is ready to be pasted into the commit message when updating the composer.lock file.
@@ -47,13 +54,13 @@ You might also like [awesome-php ★15226](https://github.com/ziadoz/awesome-php
 - [Composer-MonoRepo-Plugin ★157](https://github.com/beberlei/composer-monorepo-plugin) - The plugin adds support for managing dependencies for multiple packages in a single repository.
 - [Composer-Patches-Plugin ★51](https://github.com/netresearch/composer-patches-plugin) - Enables you to provide patches for any package from any package. When the dependency is fetched, the patch is applied on top.
 - [Composer-Patches ★230](https://github.com/cweagans/composer-patches) - The plugin applies a patch from a local or remote file to any required package.
-- [Composer-Cleanup-Plugin ★52](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir.
+- [Composer-Cleanup-Plugin ★52 ⏳1Y](https://github.com/barryvdh/composer-cleanup-plugin) - Removes tests & documentation folders from the vendor dir.
 - [Composer-Cleaner ★36](https://github.com/dg/composer-cleaner) - The tool removes unnecessary files and directories from the vendor directory.
 - [Composer-Shared-Package-Plugin ★146](https://github.com/Letudiant/composer-shared-package-plugin) - Allows you to share your selected packages between your projects by creating symlinks.
 - [Composer-Symlinker ★9](https://github.com/dg/composer-symlinker) - Enables you to load some packages from different directories (instead of loading them from /vendor).
 - [Prestissimo ★2641](https://github.com/hirak/prestissimo) - A parallel downloader using `phpext_curl`.
-- [Composer-FastFetch ★3](https://github.com/jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2.
-- [Composer-Curl-Plugin ★2](https://github.com/ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages.
+- [Composer-FastFetch ★3 ⏳1Y](https://github.com/jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2.
+- [Composer-Curl-Plugin ★2 ⏳1Y](https://github.com/ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages.
 - [Composer-Custom-Directory-Installer](https://github.com/mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (which is in the vendor folder).
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
 - [PackageVersions ★113](https://github.com/Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
@@ -61,6 +68,7 @@ You might also like [awesome-php ★15226](https://github.com/ziadoz/awesome-php
 - [PackageInfo ★0](https://github.com/ThaDafinser/PackageInfo) - Check if a package is installed and retrieve all package informations like version, tag release date, description, ... 
 - [composer-ignore-plugin ★3](https://github.com/lichunqiang/composer-ignore-plugin) - The composer plugin to remove useless files in vendor by yourself.
 - [composer-git-hooks ★114](https://github.com/BrainMaestro/composer-git-hooks) - A library for easily managing git hooks in your composer config.
+- [Symfony-Flex](https://github.com/symfony/flex) - Provides [recipe-based ★149](https://github.com/symfony/recipes) installation and configuration management for Symfony packages.
 
 ## Tools
 
@@ -160,3 +168,7 @@ You might also like [awesome-php ★15226](https://github.com/ziadoz/awesome-php
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Jens A. Koch](https://github.com/jakoch) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/jakoch/awesome-composer">https://github.com/jakoch/awesome-composer</a> with ranks
+</p>

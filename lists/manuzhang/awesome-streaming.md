@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/manuzhang/awesome-streaming">https://github.com/manuzhang/awesome-streaming</a> with ranks
+</p>
+---
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/manuzhang/awesome-streaming.svg?branch=master)](https://travis-ci.org/manuzhang/awesome-streaming)
 
 A curated list of awesome [streaming (stream processing)](http://radar.oreilly.com/2015/08/the-world-beyond-batch-streaming-101.html) frameworks, applications, readings and other resources. Inspired by [other awesome projects ★57421](https://github.com/sindresorhus/awesome). 
@@ -30,12 +37,12 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [heron](http://heronstreaming.io/) - Twitter's real-time analytics platform that is fully API-compatible with Storm. Storm has been replaced by Heron at Twitter.
 * [mantis](http://www.slideshare.net/g9yuayon/qcon-talk-on-netflix-mantis-a-stream-processing-system) - Netflix's event stream processing system.
 * [millwheel](http://research.google.com/pubs/pub41378.html) - framework for building low-latency data-processing applications that is widely used at Google.
-* [mupd8(muppet) ★126](https://github.com/walmartlabs/mupd8) [Scala/Java] - mapReduce-style framework for processing fast/streaming data.
+* [mupd8(muppet) ★126 ⏳1Y](https://github.com/walmartlabs/mupd8) [Scala/Java] - mapReduce-style framework for processing fast/streaming data.
 * [pulsar](http://gopulsar.io/) [Java] - an open-source, real-time analytics platform and stream processing framework.
 * [s4](http://incubator.apache.org/s4/) [Java] - general-purpose, distributed, scalable, fault-tolerant, pluggable platform that allows programmers to easily develop applications for processing continuous unbounded streams of data.
-* [SPQR ★26](https://github.com/ottogroup/SPQR) [Java] - dynamic framework for processing high volumn data streams through pipelines.
+* [SPQR ★26 ⏳1Y](https://github.com/ottogroup/SPQR) [Java] - dynamic framework for processing high volumn data streams through pipelines.
 * [tigon ★234](https://github.com/caskdata/tigon) [C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
-* [hailstorm ★72](https://github.com/hailstorm-hs/hailstorm) [Haskell] - distributed stream processing with exactly-once semantics based on Storm.
+* [hailstorm ★72 ⏳2Y](https://github.com/hailstorm-hs/hailstorm) [Haskell] - distributed stream processing with exactly-once semantics based on Storm.
 * [Teknek](https://github.com/edwardcapriolo/teknek-core) [Java] - Simple elegant stream processing with interactive prototying shell SOL (Stream Operator Language)
 * [concord](http://concord.io/) [C++] - a distributed stream processing framework built in C++ on top of Apache Mesos, designed for high performance data processing jobs that require flexibility & control.
 
@@ -49,7 +56,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 
 ### Streaming Application
 
-* [straw ★67](https://github.com/rwalk/straw) [Python/Java] - A platform for real-time streaming search.
+* [straw ★67 ⏳1Y](https://github.com/rwalk/straw) [Python/Java] - A platform for real-time streaming search.
 * [storm-crawler](http://stormcrawler.net/) [Java] - Web crawler SDK based on Apache Storm.
 
 ### IoT
@@ -69,10 +76,10 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [metaq ★988](https://github.com/killme2008/Metamorphosis) [Java] - Taobao's high available, high performance distributed messaging system
 * [nsq](https://github.com/bitly/nsq) [Go] - realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
 * [NATS streaming ★446](https://github.com/nats-io/nats-streaming-server) [Go] - fast disk-backed messaging solution
-* [camus ★692](https://github.com/linkedin/camus) [Java] - Linkedin's Kafka -> HDFS pipeline.
+* [camus ★692 ⏳1Y](https://github.com/linkedin/camus) [Java] - Linkedin's Kafka -> HDFS pipeline.
 * [databus ★1489](https://github.com/linkedin/databus) [Java] - Linkedin's source-agnostic distributed change data capture system.
 * [flume ★946](https://github.com/apache/flume) [Java] - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
-* [suro ★601](https://github.com/Netflix/suro) [Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
+* [suro ★601 ⏳1Y](https://github.com/Netflix/suro) [Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
 * [StreamSets Data Collector ★269](https://github.com/streamsets/datacollector) [Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
 
 ### Online Machine Learning 
@@ -80,7 +87,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [streamDM ★260](https://github.com/huawei-noah/streamDM) [Scala] - mining Big Data streams using Spark Streaming from Huawei.
 * [jubatus](http://jubat.us/en/) [C++] - distributed processing framework and streaming machine learning library.
 * [Apache Samoa](https://github.com/yahoo/samoa) [Java] - distributed streaming machine learning (ML) framework that contains a programing abstraction for distributed streaming ML algorithms.
-* [trident-ml ★360](https://github.com/pmerienne/trident-ml) [Java] - realtime online machine learning library based on Trident.
+* [trident-ml ★360 ⏳1Y](https://github.com/pmerienne/trident-ml) [Java] - realtime online machine learning library based on Trident.
 * [StormCV](https://github.com/sensorstorm/StormCV) [Java] - enables the use of Apache Storm for video processing by adding computer vision (CV) specific operations and data model.
 * [DataSketches ★426](https://github.com/DataSketches/sketches-core) [Java] - sketches library from Yahoo!.
 * [StreamingBandit](https://github.com/MKaptein/streamingbandit) [Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems.
@@ -94,9 +101,9 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 ### Benchmark
 
 * [storm-benchmark ★32](https://github.com/intel-hadoop/storm-benchmark) [Java] - a set of benchmarks to test Storm performance.
-* [storm-perf-test ★66](https://github.com/yahoo/storm-perf-test) [Java] - a simple storm performance/stress test.
+* [storm-perf-test ★66 ⏳1Y](https://github.com/yahoo/storm-perf-test) [Java] - a simple storm performance/stress test.
 * [streaming-benchmarks](https://github.com/yahoo/streaming-benchmarks) [Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
-* [flotilla ★158](https://github.com/tylertreat/Flotilla) [Go] - Automated message queue orchestration for scaled-up benchmarking.
+* [flotilla ★158 ⏳1Y](https://github.com/tylertreat/Flotilla) [Go] - Automated message queue orchestration for scaled-up benchmarking.
 
 
 
@@ -106,8 +113,8 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [akka](http://akka.io/) [Scala] - toolkit and runtime for building highly concurrent, distributed, and resilient message-driven application on the JVM.
 * [pulsar](http://quantmind.github.io/pulsar/index.html#) [Python] - Actor based event driven concurrent framework for Python.
 * [aeron ★2721](https://github.com/real-logic/Aeron) [Java/C++] - efficient reliable unicast and multicast message transport.
-* [StreamFlow ★211](https://github.com/lmco/streamflow) [Java] - stream processing tool designed to help build and monitor processing workflows.
-* [samza-luwak ★85](https://github.com/romseygeek/samza-luwak) [Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
+* [StreamFlow ★211 ⏳1Y](https://github.com/lmco/streamflow) [Java] - stream processing tool designed to help build and monitor processing workflows.
+* [samza-luwak ★85 ⏳2Y](https://github.com/romseygeek/samza-luwak) [Java] - uses Luwak, a stored-query engine built on Lucene, to implement full-text search on streams.
 * [Turbine](https://github.com/Netflix/Turbine) [Java] - tool for aggregating streams of Server-Sent Event (SSE) JSON data into a single stream.
 
 ### Readings
@@ -122,3 +129,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 ![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/80x15.png) 
 
 Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/manuzhang/awesome-streaming">https://github.com/manuzhang/awesome-streaming</a> with ranks
+</p>

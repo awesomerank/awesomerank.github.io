@@ -1,5 +1,12 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ianstormtaylor/awesome-heroku">https://github.com/ianstormtaylor/awesome-heroku</a> with ranks
+</p>
+---
 
-![](images/banner.png)
+![](https://github.com/ianstormtaylor/awesome-heroku/blob/master/images/banner.png)
 
 <p align="center">
   <a href="https://github.com/sindresorhus/awesome">
@@ -118,7 +125,7 @@ How to secure you Heroku applications...
 Helpful resources for the [Heroku Toolbelt](https://toolbelt.heroku.com/)...
 
 - `official` [Toolbelt Download](https://toolbelt.heroku.com/) — where to download the Heroku toolbelt.
-- `plugin` [heroku-accounts ★1288](https://github.com/ddollar/heroku-accounts) — makes it easy to work with multiple accounts at once from the command line.
+- `plugin` [heroku-accounts ★1288 ⏳1Y](https://github.com/ddollar/heroku-accounts) — makes it easy to work with multiple accounts at once from the command line.
 - `plugin` [heroku-pg-extras ★741](https://github.com/heroku/heroku-pg-extras) — a toolbelt plugin that adds extra useful plugins for working with Postgres. Things like analyzing cache hit rates, outlier queries, unused indexes, table sizes, etc.
 
 
@@ -134,3 +141,7 @@ Things to check out if you decide to migrate off of Heroku for some reason...
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Ian Storm Taylor](http://ianstormtaylor.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ianstormtaylor/awesome-heroku">https://github.com/ianstormtaylor/awesome-heroku</a> with ranks
+</p>

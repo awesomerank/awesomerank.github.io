@@ -1,4 +1,11 @@
-[![awesome flexbox](awesome-flexbox.jpg) ★641](https://github.com/afonsopacifer/awesome-flexbox)
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/afonsopacifer/awesome-flexbox">https://github.com/afonsopacifer/awesome-flexbox</a> with ranks
+</p>
+---
+[![awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox/blob/master/awesome-flexbox.jpg) ★641](https://github.com/afonsopacifer/awesome-flexbox)
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
@@ -82,12 +89,12 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 #### Preprocessors in action
 * [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
 * [Sass flex mixin ★1048](https://github.com/mastastealth/sass-flex-mixin)
-* [Stylus flex mixin ★9](https://github.com/differui/stylus-flex-mixin)
+* [Stylus flex mixin ★9 ⏳2Y](https://github.com/differui/stylus-flex-mixin)
 
 #### Polyfills
 * [Flexibility](https://github.com/10up/flexibility):metal:
 * [Flexie ★1104](https://github.com/doctyper/flexie)
-* [Reflexie ★259](https://github.com/doctyper/reflexie)
+* [Reflexie ★259 ⏳3Y](https://github.com/doctyper/reflexie)
 
 ## Other Interesting Articles
 *A list of issues related to flexbox.*
@@ -145,9 +152,9 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 *Have a little help to create their projects :D*
 * [Build with Flexbox](http://flexbox.buildwithreact.com/)
 * [CSS flexbox please](http://demo.agektmr.com/flexbox/)
-* [CSS Flexbox snippets for Atom ★5](https://github.com/brenopolanski/css-flexbox-atom-snippets)
-* [CSS Flexbox snippets for Sublime Text 2/3 ★12](https://github.com/brenopolanski/css-flexbox-sublime-snippets)
-* [Fibonacci ★415](https://github.com/maxsteenbergen/Fibonacci)
+* [CSS Flexbox snippets for Atom ★5 ⏳1Y](https://github.com/brenopolanski/css-flexbox-atom-snippets)
+* [CSS Flexbox snippets for Sublime Text 2/3 ★12 ⏳1Y](https://github.com/brenopolanski/css-flexbox-sublime-snippets)
+* [Fibonacci ★415 ⏳2Y](https://github.com/maxsteenbergen/Fibonacci)
 * [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
 * [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 * [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
@@ -168,7 +175,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 ## Featured Projects
 *Awesome projects about flexbox.*
 * [Cool examples of flexbox layout](http://codepen.io/collection/KegmA/) - A codepen a collection.
-* [flex-box ★2](https://github.com/potch/flex-box) - A Custom Element to make the basics of flexbox easier to use.
+* [flex-box ★2 ⏳2Y](https://github.com/potch/flex-box) - A Custom Element to make the basics of flexbox easier to use.
 * [Flexbugs ★6776](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
 * [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 * [Flexbox Patterns](http://www.flexboxpatterns.com/) - Examples and source code that will teach you how to build UI components with CSS flexbox! What’s flexbox?
@@ -204,3 +211,7 @@ Want to contribute? [Follow these recommendations](https://github.com/afonsopaci
 
 ## License
 [MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](http://afonsopacifer.com/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/afonsopacifer/awesome-flexbox">https://github.com/afonsopacifer/awesome-flexbox</a> with ranks
+</p>

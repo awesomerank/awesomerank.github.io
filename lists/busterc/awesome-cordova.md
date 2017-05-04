@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/busterc/awesome-cordova">https://github.com/busterc/awesome-cordova</a> with ranks
+</p>
+---
 # Awesome Cordova [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/busterc/awesome-cordova.svg?branch=master)](https://travis-ci.org/busterc/awesome-cordova)
 
 A curated list of amazingly awesome Cordova libraries, resources and shiny things.
@@ -40,34 +47,34 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
   - Generators
     - App
       - [generator-angularjs-cordova ★99](https://github.com/keshavos/generator-angularjs-cordova)
-      - [generator-cordova ★142](https://github.com/dangeross/generator-cordova)
-      - [generator-cordova-react ★1](https://github.com/jackong/generator-cordova-react)
-      - [generator-cordova-ripple ★0](https://github.com/keunlee/generator-cordova-ripple)
+      - [generator-cordova ★142 ⏳3Y](https://github.com/dangeross/generator-cordova)
+      - [generator-cordova-react ★1 ⏳1Y](https://github.com/jackong/generator-cordova-react)
+      - [generator-cordova-ripple ★0 ⏳2Y](https://github.com/keunlee/generator-cordova-ripple)
       - [generator-cordova-www ★1](https://github.com/busterc/generator-cordova-www)
       - [generator-m-ionic ★655](https://github.com/mwaylabs/generator-m-ionic)
       - [generator-onsenui-ngcordova ★1](https://github.com/healthonnet/generator-onsenui-ngcordova)
-      - [generator-polymer-cordova ★2](https://github.com/emoriarty/generator-polymer-cordova)
+      - [generator-polymer-cordova ★2 ⏳1Y](https://github.com/emoriarty/generator-polymer-cordova)
       - [generator-redux-react-cordova ★19](https://github.com/zmeecer/generator-redux-react-cordova)
     - Icons + Splash Screens
-      - [cordova-res-builder ★0](https://github.com/mettbox/cordova-res-builder)
-      - [cordova-resource-generators ★36](https://github.com/busterc/cordova-resource-generators)
+      - [cordova-res-builder ★0 ⏳2Y](https://github.com/mettbox/cordova-res-builder)
+      - [cordova-resource-generators ★36 ⏳1Y](https://github.com/busterc/cordova-resource-generators)
     - Icons
       - [cordova-icon ★484](https://github.com/AlexDisler/cordova-icon)
       - [cordova-icon-gm ★3](https://github.com/disusered/cordova-icon-gm)
-      - [cordova-res-builder ★0](https://github.com/mettbox/cordova-res-builder)
-      - [cordova-resource-generators ★36](https://github.com/busterc/cordova-resource-generators)
+      - [cordova-res-builder ★0 ⏳2Y](https://github.com/mettbox/cordova-res-builder)
+      - [cordova-resource-generators ★36 ⏳1Y](https://github.com/busterc/cordova-resource-generators)
     - Splash Screens
-      - [cordova-res-builder ★0](https://github.com/mettbox/cordova-res-builder)
-      - [cordova-resource-generators ★36](https://github.com/busterc/cordova-resource-generators)
+      - [cordova-res-builder ★0 ⏳2Y](https://github.com/mettbox/cordova-res-builder)
+      - [cordova-resource-generators ★36 ⏳1Y](https://github.com/busterc/cordova-resource-generators)
       - [cordova-splash ★278](https://github.com/AlexDisler/cordova-splash)
-      - [cordova-splash-gm ★7](https://github.com/disusered/cordova-splash-gm)
+      - [cordova-splash-gm ★7 ⏳2Y](https://github.com/disusered/cordova-splash-gm)
     - Plugin
       - [generator-cordova-plugin ★12](https://github.com/lholmquist/generator-cordova-plugin)
-      - [generator-cordova-plugin-bb10 ★0](https://github.com/blackberry/generator-cordova-plugin-bb10)
+      - [generator-cordova-plugin-bb10 ★0 ⏳1Y](https://github.com/blackberry/generator-cordova-plugin-bb10)
       - [generator-cordova-plugin-devbed ★14](https://github.com/sony/generator-cordova-plugin-devbed)
   - Testing
     - [ios-sim-inspector](https://github.com/busterc/profiles/blob/master/osx/sources/ios-sim-inspector)
-    - [ripple ★28](https://github.com/ripple-emulator/ripple)
+    - [ripple ★28 ⏳1Y](https://github.com/ripple-emulator/ripple)
   - Building
     - [cordova-xml ★4](https://github.com/mifi/cordova-xml)
   - Logging
@@ -78,3 +85,7 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness ★18656]
 
 # Contributing
 Your contributions are always welcome!
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/busterc/awesome-cordova">https://github.com/busterc/awesome-cordova</a> with ranks
+</p>

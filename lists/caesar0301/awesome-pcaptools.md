@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/caesar0301/awesome-pcaptools">https://github.com/caesar0301/awesome-pcaptools</a> with ranks
+</p>
+---
 Introduction
 ------------
 
@@ -105,7 +112,7 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [EtherApe](http://etherape.sourceforge.net/): is a graphical network monitor for Unix modeled after etherman. Featuring link layer, ip and TCP modes, it displays network activity graphically. Hosts and links change in size with traffic. Color coded protocols display. It supports Ethernet, FDDI, Token Ring, ISDN, PPP and SLIP devices. It can filter traffic to be shown, and can read traffic from a file as well as live from the network.
 
-* [HttpSniffer ★77](https://github.com/caesar0301/http-sniffer): A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
+* [HttpSniffer ★77 ⏳1Y](https://github.com/caesar0301/http-sniffer): A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
 
 * [Ipsumdump](http://www.read.seas.harvard.edu/~kohler/ipsumdump/): summarizes TCP/IP dump files into a self-describing ASCII format easily readable by humans and programs. Ipsumdump can read packets from network interfaces, from tcpdump files, and from existing ipsumdump files. It will transparently uncompress tcpdump or ipsumdump files when necessary. It can randomly sample traffic, filter traffic based on its contents, anonymize IP addresses, and sort packets from multiple dumps by timestamp. Also, it can optionally create a tcpdump file containing actual packet data. It's also convenient to work with CLICK as a inserted module.
 
@@ -129,7 +136,7 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [Ntopng](http://www.ntop.org/products/ntop/): Ntopng is the next generation version of the original ntop, a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform, MacOSX and on Win32 as well.
 
-* [Pcap2har ★146](https://github.com/andrewf/pcap2har): A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
+* [Pcap2har ★146 ⏳1Y](https://github.com/andrewf/pcap2har): A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
 
 * [pkt2flow](https://github.com/caesar0301/pkt2flow): A simple utility to classify packets into flows. It's so simple that only one task is aimed to finish.  For Deep Packet Inspection or flow classification, it's so common to analyze the feature of one specific flow. I have make the attempt to use made-ready tools like tcpflows, tcpslice, tcpsplit, but all these tools try to either decrease the trace volume (under requirement) or resemble the packets into flow payloads (over requirement). I have not found a simple tool to classify the packets into flows without further processing.
 
@@ -177,9 +184,9 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [Xplot](http://www.xplot.org/): The program xplot was written in the late 1980s to support the analysis of TCP packet traces.
 
-* [yaraPcap ★43](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
+* [yaraPcap ★43 ⏳3Y](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
 
-* [yaraprocessor ★68](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
+* [yaraprocessor ★68 ⏳2Y](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
 
 
 DNS Utilities <a name="dnstools"></a>
@@ -239,3 +246,7 @@ Related Projects<a name="others"></a>
 * [Traffic Data Repository at the WIDE Project](http://www.sonycsl.co.jp/person/kjc/papers/freenix2000/): It becomes increasingly important for both network researchers and operators to know the trend of network traffic and to find anomaly in their network traffic. This paper describes an on-going effort within the WIDE project to collect a set of free tools to build a traffic data repository containing detailed information of our backbone traffic. Traffic traces are collected by tcpdump and, after removing privacy information, the traces are made open to the public. We review the issues on user privacy, and then, the tools used to build the WIDE traffic repository. We will report the current status and findings in the early stage of our IPv6 deployment.
 
 * [Usenix93 Paper on BPF](ftp://ftp.ee.lbl.gov/papers/bpf-usenix93.ps.Z): The libpcap interface supports a filtering mechanism based on the architecture in the BSD packet filter. BPF is described in the 1993 Winter Usenix paper "The BSD Packet Filter: A New Architecture for User-level Packet Capture".
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/caesar0301/awesome-pcaptools">https://github.com/caesar0301/awesome-pcaptools</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/chiraggude/awesome-laravel">https://github.com/chiraggude/awesome-laravel</a> with ranks
+</p>
+---
 # Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
@@ -103,7 +110,7 @@ Inspired by [ziadoz/awesome-php ★15226](https://github.com/ziadoz/awesome-php)
 * [Eloquent Filter ★127](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships
 * [Eloquent Sluggable ★1531](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
 * [Eloquent Sortable ★234](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
-* [Presenter ★503](https://github.com/laracasts/Presenter) - Presenter for Models
+* [Presenter ★503 ⏳1Y](https://github.com/laracasts/Presenter) - Presenter for Models
 * [HTML ★934](https://github.com/LaravelCollective/html) - Official HTML and Form Builders for Laravel
 * [Hyn/multi-tenant ★289](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of a.o. routes, assets and databases
 * [Laravel 5 form builder ★642](https://github.com/kristijanhusak/laravel-form-builder) - Form builder for Laravel 5 inspired by Symfony's form builder.
@@ -552,3 +559,7 @@ Found an awesome package, blog, video etc.? Send me a pull request!
 [![CC BY 4.0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Awesome Laravel is licensed under a  [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/chiraggude/awesome-laravel">https://github.com/chiraggude/awesome-laravel</a> with ranks
+</p>

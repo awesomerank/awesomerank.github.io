@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/Fr0sT-Brutal/awesome-delphi">https://github.com/Fr0sT-Brutal/awesome-delphi</a> with ranks
+</p>
+---
 # Awesome Delphi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Delphi frameworks, libraries, resources, and shiny things. Inspired by awesome-... stuff.
@@ -136,9 +143,9 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Transparent-canvas ★22](https://github.com/vintagedave/transparent-canvas). Delphi VCL / Windows project for drawing semi-transparent alphablended graphics. It provides a class similar to TCanvas.
 
-* [Fully-justified-text ★13](https://github.com/vintagedave/fully-justified-text). Delphi VCL / Windows project for text output, allowing printing of fully justified text with a variety of options.
+* [Fully-justified-text ★13 ⏳1Y](https://github.com/vintagedave/fully-justified-text). Delphi VCL / Windows project for text output, allowing printing of fully justified text with a variety of options.
 
-* [AsciiImage ★18](https://github.com/Memnarch/AsciiImage). AsciiImage-Implementation for Delphi by Alexander Benikowski based on AsciiImage by Charles Parnot. Read more on [his article](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring).
+* [AsciiImage ★18 ⏳1Y](https://github.com/Memnarch/AsciiImage). AsciiImage-Implementation for Delphi by Alexander Benikowski based on AsciiImage by Charles Parnot. Read more on [his article](http://cocoamine.net/blog/2015/03/20/replacing-photoshop-with-nsstring).
 // *Creates scalable monochrome image from ASCII pixel map*
 
 * [PngComponents](https://bitbucket.org/uweraabe/pngcomponents). PngComponents is a set of components that allows you to include in your application real PNG files. PNG files on their own do not generate an enourmous advantage, but their support for an alpha-channel does indeed have quite a charm to it.
@@ -153,16 +160,16 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Game dev ##
 
-* [RecastNavigation ★8](https://github.com/Kromster80/RecastNavigationDelphi). Recast is state of the art navigation mesh construction toolset for games. Recast is accompanied with Detour, path-finding and spatial reasoning toolkit. You can use any navigation mesh with Detour, but of course the data generated with Recast fits perfectly. This is a port of the original RecastNavigation written in C++.
+* [RecastNavigation ★8 ⏳1Y](https://github.com/Kromster80/RecastNavigationDelphi). Recast is state of the art navigation mesh construction toolset for games. Recast is accompanied with Detour, path-finding and spatial reasoning toolkit. You can use any navigation mesh with Detour, but of course the data generated with Recast fits perfectly. This is a port of the original RecastNavigation written in C++.
 
 * [Kraft Physics Engine](https://github.com/BeRo1985/kraft). Open source Object Pascal physics engine library that can be used in 3D games. Compatible with: Delphi 7-XE7 (but not with the Android and iOS targets), FreePascal >= 2.6.2 (with almost all FPC-supported targets including Android and iOS) 
 
-* [ZenGL ★4](https://github.com/andru-kun/zengl). OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc. 
+* [ZenGL ★4 ⏳1Y](https://github.com/andru-kun/zengl). OpenGL Cross-platform game development library written in Pascal, designed to provide necessary functionality for rendering 2D-graphics, handling input, sound output, etc. 
 // *Not updated lately, but is working ok* 
 
 * [Platform eXtended Library (PXL)](https://sourceforge.net/projects/asphyre). Cross-platform framework for developing 2D/3D video games, interactive and scientific applications. It aids the developer with mathematics, hardware control, resource management, displaying real-time graphics and text, handle user input and network communication capabilities.
 
-* [CrystalPathFinding ★13](https://github.com/d-mozulyov/CrystalPathFinding). Simple and effective library with an open source intended for the searching of the shortest paths by algorithms A*/WA* for maps based on tiles with 4 (simple), 8 (diagonal/diagonalex) or 6 (hexagonal) neighbors.
+* [CrystalPathFinding ★13 ⏳1Y](https://github.com/d-mozulyov/CrystalPathFinding). Simple and effective library with an open source intended for the searching of the shortest paths by algorithms A*/WA* for maps based on tiles with 4 (simple), 8 (diagonal/diagonalex) or 6 (hexagonal) neighbors.
 
 
 ## Communications ##
@@ -195,7 +202,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [delphi-aws-ses](https://github.com/monde-sistemas/delphi-aws-ses). Amazon Simple Email Service (AWS SES) library for Delphi applications.
 
-* [delphi-slackbot ★16](https://github.com/monde-sistemas/delphi-slackbot). Delphi library to send messages on [Slack](https://slack.com) using slackbot.
+* [delphi-slackbot ★16 ⏳1Y](https://github.com/monde-sistemas/delphi-slackbot). Delphi library to send messages on [Slack](https://slack.com) using slackbot.
 
 * [Kitto](https://github.com/nandod/kitto). Allows to create Rich Internet Applications based on a data model that can be mapped onto any database. The client-side part uses ExtJS (through the ExtPascal library) to create a fully AJAX application, allowing you to build standard and advanced data-manipulating forms in a fraction of the time. Kitto is aimed at Delphi developers that need to create web application without delving into the intricacies of HTML, CSS, Javascript or learning to use a particular library such as ExtJS, yet it allows access to the bare metal if required.
 
@@ -287,7 +294,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [HtmlViewer ★119](https://github.com/BerndGabriel/HtmlViewer). Delphi/Lazarus HtmlViewer/FrameViewer.
 // *Html visualiser supporting majority of tags, inline styles and CSS.*
 
-* [SciDe ★24](https://github.com/da-baranov/SciDe). [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
+* [SciDe ★24 ⏳1Y](https://github.com/da-baranov/SciDe). [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
 
 ## Other GUI
@@ -378,7 +385,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [CrystalLUA](https://github.com/d-mozulyov/CrystalLUA). Lua binding (Delphi6-2007).
 // *LUA DLL required*
 
-* [lua4delphi ★8](https://github.com/danieleteti/lua4delphi). Delphi binding for Lua 5.1 language.
+* [lua4delphi ★8 ⏳1Y](https://github.com/danieleteti/lua4delphi). Delphi binding for Lua 5.1 language.
 // *LUA DLL required*
 
 
@@ -387,7 +394,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Compression
 
-* [FWZip ★16](https://github.com/AlexanderBagel/FWZip). Classes to work with Zip archives using Store and Deflate methods, supports ZIP64, DataDescryptors, PKWARE encryption, NTFS attributes, Utf8 in filenames.
+* [FWZip ★16 ⏳1Y](https://github.com/AlexanderBagel/FWZip). Classes to work with Zip archives using Store and Deflate methods, supports ZIP64, DataDescryptors, PKWARE encryption, NTFS attributes, Utf8 in filenames.
 // *Uses stock ZLIB.obj that gets compiled into binary*
 
 * [Abbrevia](http://sourceforge.net/p/tpabbrevia) ([Newest](https://github.com/TurboPack/Abbrevia) and maintained version for recent compiler version only). Advanced data compression toolkit for Delphi and C++Builder. Supports PKZIP, Microsoft CAB, tar, gzip, and bzip2 archives, and can create self-extracting executables. On Windows it also provides Delphi wrappers for the LZMA, Bzip2, and WavPack SDKs, and PPMd decompression. Abbrevia also has several visual controls that simplify displaying and manipulating archives, including treeview and listview components. Features: Unicode filenames in all archive formats; Decompress most .zipx and legacy (PKZIP v1) zips; ZIP64 support for archives larger than 2GB; Spanned and split zip archives; Cross-platform (Windows, OS X, and Linux); No DLLs required; Includes COM component; Extensive documentation
@@ -406,7 +413,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *No updates since 2010 but features list so huge that it couldn't be ignored*
 
 * [LockBox](http://sourceforge.net/projects/tplockbox) ([Newest](https://github.com/TurboPack/LockBox3) and maintained version for recent compiler version only). Delphi library for cryptography. Currently supported Delphi XE6. It provides support for AES, DES, 3DES, Blowfish, Twofish, SHA2 (including the new SHA-512/224 & SHA-512/256), MD5; ECB, CBC, CFB8, CFB, CTR, ECB, OFB, PCBC chaining modes, RSA digital signature and verification. Has interface to OpenSSL library.
-// *Check out [this ★11](https://github.com/jarto/lockbox2) page as well for alternative version.*
+// *Check out [this ★11 ⏳3Y](https://github.com/jarto/lockbox2) page as well for alternative version.*
 
 * [SynCrypto](https://github.com/synopse/mORMot/blob/master/SynCrypto.pas). Fast cryptographic routines (hashing and cypher), implementing AES, XOR, RC4, ADLER32, MD5, SHA1, SHA256 algorithms, optimized for speed (tuned assembler and VIA PADLOCK optional support).
 
@@ -471,11 +478,11 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 ## Language
 *Tools for Pascal and other languages*
 
-* [Next Delphi Yacc & Lex ★21](https://github.com/RomanYankovsky/ndyacclex). Parser generator toolset for Delphi.
+* [Next Delphi Yacc & Lex ★21 ⏳3Y](https://github.com/RomanYankovsky/ndyacclex). Parser generator toolset for Delphi.
 
 * [Abstract Syntax Tree Builder ★90](https://github.com/RomanYankovsky/DelphiAST). With DelphiAST you can take real Delphi code and get an abstract syntax tree. One unit at time and without a symbol table though.
 
-* [Castalia-Delphi-Parser ★54](https://github.com/jacobthurman/Castalia-Delphi-Parser). These files make up a hand-written high speed parser for the Object Pascal dialect known as "Delphi". The original work was done by Martin Waldenburg in the late 1990s, and the project was abandoned sometime before 2003, when I found the code and began working on it.  I have kept it updated as necessary to work with my project, called "Castalia".
+* [Castalia-Delphi-Parser ★54 ⏳1Y](https://github.com/jacobthurman/Castalia-Delphi-Parser). These files make up a hand-written high speed parser for the Object Pascal dialect known as "Delphi". The original work was done by Martin Waldenburg in the late 1990s, and the project was abandoned sometime before 2003, when I found the code and began working on it.  I have kept it updated as necessary to work with my project, called "Castalia".
 
 * [CrossPascal](https://github.com/BeRo1985/crosspascal). aims to be a Delphi 7 compatible cross-platform source-to-source compiler (together with the new unicode string types from XE3 but where ansistring is still the default string type for to be still Delphi 7 compatible) which generates intermediate C code.
 // *Quite interesting project though seems abandoned*
@@ -505,7 +512,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Delphi Detours Library ★86](https://github.com/mahdisafsafi/delphi-detours-library). Library allowing you to hook Delphi functions and object methods and Windows API functions. It provides an easy way to insert and remove hook.
 // *Supports x64, calling original functions, multi hooks, COM/Interfaces/win32api, object methods hooking, fully thread-safe, Delphi 7/2005-2010/XE-XE7 & Lazarus/FPC, 64 bit address is supported.*
 
-* [MemoryModule ★13](https://github.com/Fr0sT-Brutal/Delphi_MemoryModule). With the MemoryModule engine you can store all required DLLs inside your binary to keep it standalone. Additional hook units allow transparent using of MM engine thus allowing switching MM/WinAPI loading as well as enabling 3rd party dynamic-load DLL interfaces that are unaware of MM (tested with Interbase Express components and Firebird client library). MemoryModule is a Pascal port of Joachim Bauch's C MemoryModule.
+* [MemoryModule ★13 ⏳2Y](https://github.com/Fr0sT-Brutal/Delphi_MemoryModule). With the MemoryModule engine you can store all required DLLs inside your binary to keep it standalone. Additional hook units allow transparent using of MM engine thus allowing switching MM/WinAPI loading as well as enabling 3rd party dynamic-load DLL interfaces that are unaware of MM (tested with Interbase Express components and Firebird client library). MemoryModule is a Pascal port of Joachim Bauch's C MemoryModule.
 
 
 ## Template
@@ -529,7 +536,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 ## Other non-visual
 
-* [TRegExpr ★3](https://github.com/ashumkin/RegExpr). Easy to use and powerful tool for sophisticated search and substitutioning and for template-based text input check.
+* [TRegExpr ★3 ⏳3Y](https://github.com/ashumkin/RegExpr). Easy to use and powerful tool for sophisticated search and substitutioning and for template-based text input check.
 // *Abandoned since 2004 but unlike stock RAD Studio implementation doesn't use PCRE obj files that add dependency on msvcrt.dll*
 
 * [FLRE](https://github.com/BeRo1985/flre). FLRE ( F ast L ight R egular E xpressions) is a fast, safe and efficient regular expression library, which is implemented in Object Pascal (Delphi and Free Pascal) but which is even usable from other languages like C/C++ and so on.
@@ -547,20 +554,20 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [byterage](https://github.com/quartexNOR/byterage). Object pascal class library designed to remove some of the limitations of streams. The framework is very simple to use, with only one common ancestor class (TBRBuffer) which defines a set of storage agnostic mechanisms for allocating, scaling, inserting, deleting and otherwise manipulating a segment of raw binary data.
 
-* [stateless ★12](https://github.com/SirRufo/stateless). Simple library for creating state machines in Delphi code.
+* [stateless ★12 ⏳1Y](https://github.com/SirRufo/stateless). Simple library for creating state machines in Delphi code.
 
 * [GenericTree ★17](https://github.com/davidberneda/GenericTree). Delphi implementation of a generic Tree structure.
 
 * [Delphi Event Bus](https://github.com/spinettaro/delphi-event-bus) (for short DEB) is an Event Bus framework for Delphi.
 
-* [DHibernate ★5](https://github.com/thecocce/delphi-hibernate) Object Persistent Framework based on Hibernate and NHibernate for Delphi.
+* [DHibernate ★5 ⏳1Y](https://github.com/thecocce/delphi-hibernate) Object Persistent Framework based on Hibernate and NHibernate for Delphi.
 // *Abandoned since 2012*
 
 * [UniConv ★10](https://github.com/d-mozulyov/UniConv). Universal text conversion library is a universal quick and compact library intended for conversion, comparison and change of the register of text in concordance with the latest standards of the Unicode Consortium. The librarys function greatly resembles ICU, libiconv and Windows.kernel which are de facto standard for popular operating systems.
 
 * [CachedBuffers ★11](https://github.com/d-mozulyov/CachedBuffers). The library is irreplaceable for the tasks of sequential data reading or writing, especially if the requirements for the performance are increased and there are much data.
 
-* [CachedTexts ★7](https://github.com/d-mozulyov/CachedTexts). Powerful and compact cross-platform library aimed at parsing and generating of text data with the maximum possible performance. Depends on the two other libraries: CachedBuffers and UniConv.
+* [CachedTexts ★7 ⏳1Y](https://github.com/d-mozulyov/CachedTexts). Powerful and compact cross-platform library aimed at parsing and generating of text data with the maximum possible performance. Depends on the two other libraries: CachedBuffers and UniConv.
 
 * [ZEXMLSS ★8](https://github.com/Avemey/zexmlss). Lazarus/Delphi component for read/write ods, excel xml, xlsx.
 
@@ -610,7 +617,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [Delphi-Mocks ★128](https://github.com/VSoftTechnologies/Delphi-Mocks). Simple mocking framework for Delphi XE2 or later. Allow you to mock both classes and interfaces for testing. 
 
-* [DUnit-XML ★11](https://github.com/VSoftTechnologies/DUnit-XML). Test runner that allows DUnit Tests to output NUnit compatible XML.
+* [DUnit-XML ★11 ⏳2Y](https://github.com/VSoftTechnologies/DUnit-XML). Test runner that allows DUnit Tests to output NUnit compatible XML.
 
 * [Smoketest](https://github.com/deltics/delphi.libs/tree/master/smoketest). Framework for writing tests and performance benchmarks using the Delphi language for Microsoft Windows. It has been tested on all versions of Delphi from 7 thru to 2010.
 
@@ -695,3 +702,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/Fr0sT-Brutal/awesome-delphi">https://github.com/Fr0sT-Brutal/awesome-delphi</a> with ranks
+</p>

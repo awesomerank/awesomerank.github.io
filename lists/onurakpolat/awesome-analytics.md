@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/onurakpolat/awesome-analytics">https://github.com/onurakpolat/awesome-analytics</a> with ranks
+</p>
+---
 # Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata ★4544](https://github.com/onurakpolat/awesome-bigdata).
@@ -127,3 +134,7 @@ Often there is no clear differentiation between social media management and anal
 - Another list? [list ★4231](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome ★858](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-bigdata ★4544](https://github.com/onurakpolat/awesome-bigdata).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/onurakpolat/awesome-analytics">https://github.com/onurakpolat/awesome-analytics</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/BubuAnabelas/awesome-markdown">https://github.com/BubuAnabelas/awesome-markdown</a> with ranks
+</p>
+---
 # Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 
@@ -7,7 +14,7 @@
 
 Markdown is a markup language created by John Gruber in collaboration with Aaron Swartz. It was designed to be easily converted to HTML and has been extended into different types of implementations.
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/BubuAnabelas/awesome-markdown/blob/master/contributing.md) before contributing.*
 
 :gem: means **really _awesome/useful_**.<br />
 <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24"> means that **it's _webapp/webservice_**.<br />
@@ -56,7 +63,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 ### C
 
 - [Hoedown](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork).
-- [peg-markdown ★538](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
+- [peg-markdown ★538 ⏳3Y](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
 - [Sundown ★1487](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C.
 
 ### Java
@@ -191,3 +198,7 @@ _[Icon pack by Icons8](https://icons8.com)_
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Joaquín Serna](https://github.com/BubuAnabelas) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/BubuAnabelas/awesome-markdown">https://github.com/BubuAnabelas/awesome-markdown</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/edobashira/speech-language-processing">https://github.com/edobashira/speech-language-processing</a> with ranks
+</p>
+---
 Speech and Natural Language Processing
 #######################################
 .. image:: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
@@ -294,3 +301,7 @@ Books
  - `Foundations of Data Science <http://www.cs.cornell.edu/jeh/NOSOLUTIONS90413.pdf>`_ Draft by John Hopcroft and Ravindran Kannan
  - `Introduction to Matrix Methods and Applications <http://stanford.edu/class/ee103/mma.pdf>`_ (Working Title) S. Boyd and L. Vandenberghe
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/edobashira/speech-language-processing">https://github.com/edobashira/speech-language-processing</a> with ranks
+</p>

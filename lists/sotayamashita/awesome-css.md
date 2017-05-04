@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/sotayamashita/awesome-css">https://github.com/sotayamashita/awesome-css</a> with ranks
+</p>
+---
 [awesome-link]:  https://github.com/sindresorhus/awesome
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis-link]:   https://travis-ci.org/sotayamashita/awesome-css
@@ -59,7 +66,7 @@ CSS Working Group is defined CSS specifications which travel through the thier p
 
 * [CSSOM ★513](https://github.com/NV/CSSOM) - CSS Object Model implemented in pure JavaScript
 * [CSSTree ★179](https://github.com/csstree/csstree) - Detailed CSS parser with syntax validator
-* [Gonzales ★111](https://github.com/css/gonzales) - Fast CSS parser
+* [Gonzales ★111 ⏳3Y](https://github.com/css/gonzales) - Fast CSS parser
 * [Gonzales PE ★181](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors
 * [mensch ★84](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
 * [ParserLib ★253](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib
@@ -122,7 +129,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 ## Reset and Normalize
 
 - [Normalize ★25897](https://github.com/necolas/normalize.css) - A set of CSS rules that provide better cross-browser consistency in the default styling of HTML elements.
-- [Normalize-OpenType ★778](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
+- [Normalize-OpenType ★778 ⏳1Y](https://github.com/kennethormandy/normalize-opentype.css) - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.
 - [MiniReset.css ★716](https://github.com/jgthms/minireset.css) - A tiny modern CSS reset
 - [Reset](http://meyerweb.com/eric/tools/css/reset/) - A set of CSS rules that resets the styling of all HTML elements to a consistent baseline.
 - [sanitize.css ★2278](https://github.com/jonathantneal/sanitize.css) - A set of CSS rules that style with today’s best practices out-of-the-box
@@ -163,7 +170,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design.
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet.
-* [Dropbox (S)CSS Style Guide ★526](https://github.com/dropbox/css-style-guide) by Dropbox.
+* [Dropbox (S)CSS Style Guide ★526 ⏳1Y](https://github.com/dropbox/css-style-guide) by Dropbox.
 * [Fabric](https://dev.office.com/fabric#/) by Microsoft.
 * [GitHub CSS Style Guide](http://primercss.io) by Github.
 * [Official Trello CSS Guide](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80) by Bobby Grace.
@@ -186,8 +193,8 @@ Here is also great resource to understand. [Website style guide resource](http:/
 - [Hologram ★2011](https://github.com/trulia/hologram)
 - [mdcss ★604](https://github.com/jonathantneal/mdcss)
 - [Source](https://sourcejs.com/)
-- [styledoc ★4](https://github.com/Joony/styledoc)
-- [styledocco ★1080](https://github.com/jacobrask/styledocco)
+- [styledoc ★4 ⏳5Y](https://github.com/Joony/styledoc)
+- [styledocco ★1080 ⏳1Y](https://github.com/jacobrask/styledocco)
 - [styledown ★585](https://github.com/styledown/styledown)
 - [sc5-styleguide ★1110](https://github.com/SC5/sc5-styleguide)
 
@@ -340,3 +347,7 @@ Here is [CSS in JS techniques comparison ★2020](https://github.com/MicheleBert
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sota Yamashita](https://github.com/sotayamashita) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/sotayamashita/awesome-css">https://github.com/sotayamashita/awesome-css</a> with ranks
+</p>

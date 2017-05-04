@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/kdeldycke/awesome-falsehood">https://github.com/kdeldycke/awesome-falsehood</a> with ranks
+</p>
+---
 # Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
 
 A curated list of awesome falsehoods programmers believe in.
@@ -199,7 +206,7 @@ Covers phone numbers, their representation and meaning.
 - [`libphonenumber` ★5054](https://github.com/googlei18n/libphonenumber) - Google's
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
-[C# ★166](https://github.com/erezak/libphonenumber-csharp),
+[C# ★166 ⏳1Y](https://github.com/erezak/libphonenumber-csharp),
 [Objective-C ★1608](https://github.com/iziz/libPhoneNumber-iOS),
 [Python ★1498](https://github.com/daviddrysdale/python-phonenumbers),
 [Ruby ★507](https://github.com/sstephenson/global_phone) and
@@ -277,7 +284,7 @@ your assumptions about strings.
 ## Contributing
 
 Your contributions are always welcome! Please take a look at the [contribution
-guidelines](CONTRIBUTING.md) first.
+guidelines](https://github.com/kdeldycke/awesome-falsehood/blob/master/CONTRIBUTING.md) first.
 
 
 ## Good Candidates
@@ -326,3 +333,7 @@ license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 To the extent possible under law, [Kevin Deldycke](https://kevin.deldycke.com)
 has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/kdeldycke/awesome-falsehood">https://github.com/kdeldycke/awesome-falsehood</a> with ranks
+</p>

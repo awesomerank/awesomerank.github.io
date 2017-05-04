@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/xen0l/awesome-dtrace">https://github.com/xen0l/awesome-dtrace</a> with ranks
+</p>
+---
 # Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome DTrace books, articles, videos, tools and resources.
@@ -136,7 +143,7 @@ List of software with DTrace support.
 
 #### Lua
 
-- [lua-usdt ★5](https://github.com/chrisa/lua-usdt) - Libusdt bindings for Lua.
+- [lua-usdt ★5 ⏳3Y](https://github.com/chrisa/lua-usdt) - Libusdt bindings for Lua.
 
 #### Node.js
 
@@ -144,7 +151,7 @@ List of software with DTrace support.
 
 #### Perl
 
-- [perl-Devel-DTrace-Provider ★1](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
+- [perl-Devel-DTrace-Provider ★1 ⏳4Y](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
 
 #### PHP
 
@@ -158,7 +165,7 @@ List of software with DTrace support.
 #### Ruby
 
 - [Ruby](http://ruby-doc.org/core-2.3.1/doc/dtrace_probes_rdoc.html) - Ruby DTrace probes.
-- [ruby-usdt ★21](https://github.com/kevinykchan/ruby-usdt) - Native DTrace probes for ruby apps.
+- [ruby-usdt ★21 ⏳3Y](https://github.com/kevinykchan/ruby-usdt) - Native DTrace probes for ruby apps.
 
 ### Databases
 
@@ -177,9 +184,9 @@ List of software with DTrace support.
 ## Tools
 
 - [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
-- [dtrace-cloud-tools ★139](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
-- [pgsql tools ★109](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
-- [portsnoop ★2](https://github.com/davepacheco/portsnoop) - Trace event port activity.
+- [dtrace-cloud-tools ★139 ⏳3Y](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
+- [pgsql tools ★109 ⏳1Y](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
+- [portsnoop ★2 ⏳3Y](https://github.com/davepacheco/portsnoop) - Trace event port activity.
 - [storage tools ★23](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.
 
 ## Community
@@ -191,3 +198,7 @@ List of software with DTrace support.
 ## Contributing
 
 Contributions are more than welcome! Please see [contribution guidelines](https://github.com/xen0l/awesome-dtrace/blob/master/CONTRIBUTING.md) first.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/xen0l/awesome-dtrace">https://github.com/xen0l/awesome-dtrace</a> with ranks
+</p>

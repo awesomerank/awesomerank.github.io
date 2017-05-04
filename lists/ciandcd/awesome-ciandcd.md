@@ -1,4 +1,11 @@
-#ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ciandcd/awesome-ciandcd">https://github.com/ciandcd/awesome-ciandcd</a> with ranks
+</p>
+---
+# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
 
@@ -69,7 +76,8 @@ and developer-friendly build server out of the box
 * [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management  
 * [SimpleCI](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.  
 * [pulse](http://zutubi.com) no free version.  
-* [rundesk](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
+* [PHP Censor](https://github.com/corpsee) PHP Censor is a open source self-hosted continuous integration server for PHP projects (Fork of PHPCI)
+* [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 
 ## Online Build System
 Online build release system  
@@ -95,6 +103,11 @@ Online build release system
 * [IBM DevOps Services](https://hub.jazz.net) - Develop, track, plan, and deploy software onto the IBM Bluemix cloud platform.  
 * [deploybot](https://deploybot.com) - Instantly build and ship code anywhere in one consistent process for your entire team.
 * [Semaphore CI](https://semaphoreci.com/) — Fast and easy to use continuous integration and deployment service with native Docker support.
+* [flow.ci](https://flow.ci/) - flow.ci, hosted continuous integration and delivery service for innovators who shape the future.
+
+## Monitoring
+Tools for monitoring the status continuous integration and continuous delivery  
+* [CatLight](https://catlight.io)  Build status monitor for Jenkins, TeamCity, Travis CI, Appveyor and TFS
 
 ## Infrastructure
 The hardware,virtual machines, fram management, docker  
@@ -106,6 +119,7 @@ The hardware,virtual machines, fram management, docker
 * [ctrixserver](http://www.citrix.com/products/xenserver/overview.html)  XenServer is the best server virtualization platform for public and private clouds, powering 4 of the 5 largest hosting provider clouds.  Built with scale, security and multi-tenancy in mind, XenServer allows for even greater flexibility and cost efficiency  
 * [miscrosofthyperv](Docker - An open platform for distributed applications for developers and sysadmins)  microsoft virtualization  
 * [amazon](http://aws.amazon.com/ec2/) Scalable, pay-as-you-go compute capacity in the cloud  
+* [mesosphere-dc/os](mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.  
 
 ## Dev env
 * [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.  
@@ -136,6 +150,7 @@ Code review tools
 * [gerrit](https://code.google.com/p/gerrit/) Gerrit is a web based code review system, facilitating online code reviews for projects using the Git version control system  
 * [Codebrag](http://www.codebrag.com/)  Codebrag is a simple code review tool that makes the process work for your team.  
 * [Upsource](https://www.jetbrains.com/upsource/) Polyglot Code Review Tool, featuring code insight for PHP, JavaScript and Kotlin, GitHub integration, automated workflows, integration with CI servers
+* [Ebert](https://ebertapp.io) Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.
 
 ## Build
 Build tools  
@@ -264,7 +279,7 @@ Other amazingly awesome lists can be found in
 * [awesome ★57421](https://github.com/sindresorhus/awesome)  
 * [awesome-awesome ★771](https://github.com/emijrp/awesome-awesome)  
 * [awesome-awesomeness ★18656](https://github.com/bayandin/awesome-awesomeness)  
-* [sysadmin ★3](https://github.com/itech001/awesome-sysadmin)  
+* [sysadmin ★3 ⏳2Y](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 * [ci tools compare 3 ★335](https://github.com/ligurio/Continuous-Integration-services)
@@ -276,3 +291,7 @@ my email is: itech001@126.com.
   
 
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ciandcd/awesome-ciandcd">https://github.com/ciandcd/awesome-ciandcd</a> with ranks
+</p>

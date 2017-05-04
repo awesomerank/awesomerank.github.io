@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/HQarroum/awesome-iot">https://github.com/HQarroum/awesome-iot</a> with ranks
+</p>
+---
 # Awesome IoT
 
 <img src="iot-logo.png" align="right" width="100">
@@ -340,3 +347,7 @@ and Vlad Trifa
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Halim Qarroum](https://github.com/HQarroum/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/HQarroum/awesome-iot">https://github.com/HQarroum/awesome-iot</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ipfs/awesome-ipfs">https://github.com/ipfs/awesome-ipfs</a> with ranks
+</p>
+---
 # Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [![](https://img.shields.io/badge/made%20by-Protocol%20Labs-blue.svg?style=flat-square)](http://ipn.io)
@@ -40,15 +47,15 @@ place to ask about it might be in [ipfs/apps ★36](https://github.com/ipfs/apps
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 * [HydrusNetwork ★183](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
 * [InterPlanetary Wayback](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
-* [Interplanetary Wiki ★44](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
-* [IPFS Event Drop ★5](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
+* [Interplanetary Wiki ★44 ⏳1Y](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+* [IPFS Event Drop ★5 ⏳2Y](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
 * [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub ★5](https://github.com/kpcyrd/ipfs.ink)
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
-* [ipfs-share ★21](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
-* [ipfs-userscript ★5](https://github.com/loadletter/ipfs-redirect-userscript) -  Browser userscript for redirecting gateway.ipfs.io links to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
+* [ipfs-share ★21 ⏳2Y](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
+* [ipfs-userscript ★5 ⏳1Y](https://github.com/loadletter/ipfs-redirect-userscript) -  Browser userscript for redirecting gateway.ipfs.io links to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
 * [ipfs.pics](https://ipfs.pics) - Upload and share pics. [GitHub ★773](https://github.com/ipfspics/ipfspics-server)
-* [IPFSBin ★82](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
-* [markup.rocks ★13](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
+* [IPFSBin ★82 ⏳1Y](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
+* [markup.rocks ★13 ⏳1Y](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
 * [Philes](http://philes.co) - Philes is a browser-based, IPFS-powered distributed notepad (editor & viewer).
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
@@ -69,19 +76,19 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
   https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
 )
 - [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (Read only for now)
-- [Gorilla REPL viewer ★3](https://github.com/keorn/ipfs-gorilla-repl) - [example](https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j)
+- [Gorilla REPL viewer ★3 ⏳1Y](https://github.com/keorn/ipfs-gorilla-repl) - [example](https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j)
 
 ## Tools
 
 * [cachewarmer ★26](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
 * [git-remote-ipfs ★90](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
-* [http2ipfs ★19](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
-* [ipcat ★3](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
+* [http2ipfs ★19 ⏳1Y](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
+* [ipcat ★3 ⏳1Y](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
 * [ipfs-chrome-station ★35](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
-* [ipfs-chrome-extension ★53](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
+* [ipfs-chrome-extension ★53 ⏳1Y](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-firefox-addon ★84](https://github.com/lidel/ipfs-firefox-addon) - Firefox addon to provide access to IPFS via local gateway
-* [ipfs-linux-service ★30](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
-* [ipfs-paste ★16](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
+* [ipfs-linux-service ★30 ⏳2Y](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
+* [ipfs-paste ★16 ⏳1Y](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 * [ipfs-screencap ★25](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
 * [ipfscrape ★92](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 * [ipget ★52](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
@@ -126,3 +133,7 @@ Please add (or remove) stuff from this list if you see anything awesome! [Open a
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ipfs/awesome-ipfs">https://github.com/ipfs/awesome-ipfs</a> with ranks
+</p>

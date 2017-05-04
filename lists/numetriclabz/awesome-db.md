@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/numetriclabz/awesome-db">https://github.com/numetriclabz/awesome-db</a> with ranks
+</p>
+---
 ﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 =========
 A curated list of amazingly awesome database libraries, resources and shiny things by [Numetric Technologies](https://www.numetriclabz.com/)
@@ -6,15 +13,15 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
  * [Datomic](http://www.datomic.com/)
  * [clojure.jdbc](https://github.com/niwibe/clojure.jdbc)
- * [cravendb ★50](https://github.com/robashton/cravendb)
+ * [cravendb ★50 ⏳3Y](https://github.com/robashton/cravendb)
 
 ## C / CPP
 * [Aerospike ★1392](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
-* [Alchemy-Database ★175](https://github.com/JakSprats/Alchemy-Database) - AlchemyDB is now Aerospike
+* [Alchemy-Database ★175 ⏳4Y](https://github.com/JakSprats/Alchemy-Database) - AlchemyDB is now Aerospike
 * [cstore_fdw ★818](https://github.com/citusdata/cstore_fdw) - Fast columnar store for analytics with PostgreSQL [website](http://citusdata.github.io/cstore_fdw/)
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics.
 * [memcache ★6160](https://github.com/memcached/memcached) - Free & open source, high-performance, distributed memory object caching system
-* [monetdb ★3](https://github.com/snaga/monetdb) - [website](https://www.monetdb.org/)
+* [monetdb ★3 ⏳3Y](https://github.com/snaga/monetdb) - [website](https://www.monetdb.org/)
 * [mongo ★11405](https://github.com/mongodb/mongo) - The Mongo Database http://www.mongodb.org/
 * [facebook/mysql-5.6 ★914](https://github.com/facebook/mysql-5.6) - Facebook's branch of the Oracle MySQL v5.6 database
 * [twitter/mysql ★1564](https://github.com/twitter/mysql) - MySQL fork maintained and used at Twitter https://github.com/twitter/mysql/wiki
@@ -43,13 +50,13 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 ## Go-lang
 
 * [bolt ★6117](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
-* [diskv ★447](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
+* [diskv ★447 ⏳1Y](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
 * [go-cache](https://github.com/pmylund/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 * [goleveldb ★1585](https://github.com/syndtr/goleveldb) - An implementation of the [LevelDB](https://code.google.com/p/leveldb/) key/value database in the Go.
 * [groupcache ★5332](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 * [ledisdb ★2074](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
-* [roshi ★1830](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
+* [roshi ★1830 ⏳1Y](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
 * [skydb.io](https://github.com/skydb/sky) - Sky is an open source database used for flexible, high performance analysis of behavioral data.
 * [tiedot ★1795](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
 
@@ -73,7 +80,11 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 
 ## Scala
-* [BlinkDB ★536](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.cs.berkeley.edu/)
+* [BlinkDB ★536 ⏳3Y](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.cs.berkeley.edu/)
 
 ## Research Papers
 * [db-readings ★4472](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/numetriclabz/awesome-db">https://github.com/numetriclabz/awesome-db</a> with ranks
+</p>

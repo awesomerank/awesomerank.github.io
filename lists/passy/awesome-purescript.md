@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/passy/awesome-purescript">https://github.com/passy/awesome-purescript</a> with ranks
+</p>
+---
 # awesome-purescript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > A curated list of delightful libraries, tools and other shiny things for PureScript.
@@ -7,7 +14,7 @@
 - [pulp ★322](https://github.com/bodil/pulp)
 - [psvm-js](https://github.com/ThomasCrvsr/psvm-js) - PureScript Version Manager
 - [purescript-psa ★32](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc`
-- [grunt-purescript ★10](https://github.com/purescript-contrib/grunt-purescript)
+- [grunt-purescript ★10 ⏳1Y](https://github.com/purescript-contrib/grunt-purescript)
 - [gulp-purescript ★32](https://github.com/purescript-contrib/gulp-purescript)
 - [purs-loader ★86](https://github.com/ethul/purs-loader) for webpack
 
@@ -21,7 +28,7 @@
 
 - [purescript-thermite ★230](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
 - [purescript-halogen ★556](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
-- [purescript-react-simple ★3](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react.
+- [purescript-react-simple ★3 ⏳2Y](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react.
 - [purescript-css ★41](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS.
 - [purescript-optic-ui ★84](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
 - [purescript-flare ★169](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal.
@@ -67,7 +74,7 @@ See [Editor and tool support](https://github.com/purescript/purescript/wiki/Edit
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/passy/awesome-purescript/blob/master/contributing.md) first.
 
 
 ## License
@@ -75,3 +82,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Pascal Hartig](https://passy.me/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/passy/awesome-purescript">https://github.com/passy/awesome-purescript</a> with ranks
+</p>

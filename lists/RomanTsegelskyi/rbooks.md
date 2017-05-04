@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/RomanTsegelskyi/rbooks">https://github.com/RomanTsegelskyi/rbooks</a> with ranks
+</p>
+---
 R Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 ===
 A curated list of books about different aspects and applications of [R](https://www.r-project.org/) programming language and an attempt to modernize [R Books]() in a more user friendly way. Inspired by [GoBooks]().
@@ -201,3 +208,7 @@ Your contributions are always welcome and greately appreciated, just follow [the
 License
 ====
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/RomanTsegelskyi/rbooks">https://github.com/RomanTsegelskyi/rbooks</a> with ranks
+</p>

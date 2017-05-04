@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/beaconinside/awesome-beacon">https://github.com/beaconinside/awesome-beacon</a> with ranks
+</p>
+---
 # Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open source projects, libraries, tools and tutorials. This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.com) project.
@@ -67,9 +74,9 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Hacks & Cool Apps
 
 * [Empowering vision impaired people to navigate the world independently](https://www.wayfindr.net) (an open standard)
-* [Google Glass & Beacons ★4](https://github.com/tmwagency/Glasstimote)
+* [Google Glass & Beacons ★4 ⏳2Y](https://github.com/tmwagency/Glasstimote)
 * [10 awesome things you can do today with iBeacons](http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons) (by Twocanoes)
-* [PunchClock ★1698](https://github.com/panicinc/PunchClock) An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
+* [PunchClock ★1698 ⏳1Y](https://github.com/panicinc/PunchClock) An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
 * [The Geofancy iOS app](https://github.com/LocativeHQ/ios-app) Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
 * [LaunchHere for iOS - iBeacon based app shortcuts](http://launchhere.awwapps.com/)
 
@@ -134,7 +141,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Android Lolipop Bluetooth Low Energy Enhancements.](https://developer.android.com/about/versions/android-5.0.html) Support OS-level scan filter & peripheral mode.
 * [iBeacon Scanner for Android ★16](https://github.com/inthepocket/ibeacon-scanner-android), [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
 * [Android beacon library based on AltBeacon. ★1548](https://github.com/AltBeacon/android-beacon-library) Use a custom beacon parser for iBeacon device compatibility.
-* [BeaconKeeper ★135](https://github.com/m039/beacon-keeper) The simple library for locating iBeacons in background
+* [BeaconKeeper ★135 ⏳1Y](https://github.com/m039/beacon-keeper) The simple library for locating iBeacons in background
 * [Android iBeacon Patterns](http://blog.surecase.eu/androidbeaconpatterns/)
 * [Android & BLE](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
 * [DevBytes: Bluetooth Low Energy API in Android 4.3](https://www.youtube.com/watch?v=vUbFB1Qypg8)
@@ -170,8 +177,8 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # OS X
 
 * [iBeacon Scanning Utility App for OSX ★368](https://github.com/mlwelles/BeaconScanner)
-* [iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID ★134](https://github.com/liamnichols/iBeaconScanner)
-* [Beacon OSX ★858](https://github.com/mttrb/BeaconOSX) - Mavericks as an iBeacon
+* [iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID ★134 ⏳2Y](https://github.com/liamnichols/iBeaconScanner)
+* [Beacon OSX ★858 ⏳2Y](https://github.com/mttrb/BeaconOSX) - Mavericks as an iBeacon
 * [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons
 * [Electron Slide Beacon](https://github.com/dermike/electron-slide-beacon) - Share links from your Mac using this app to broadcast them as an Eddystone URL (Physical Web) bluetooth beacon.
 
@@ -233,7 +240,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [BeaconCtrl](https://github.com/upnext/BeaconCtrl) Setup and manage large beacon deployments with BeaconCtrl Open Source platform
 * [The Open and Interoperable Proximity Beacon Specification](http://altbeacon.org/)
-* [Open iBeacon Credentials](http://blog.awwapps.com/blog/2014/05/29/open-ibeacon-credentials/)  [on Github ★16](https://github.com/AwwApps/Open-Beacon-Credentials)
+* [Open iBeacon Credentials](http://blog.awwapps.com/blog/2014/05/29/open-ibeacon-credentials/)  [on Github ★16 ⏳2Y](https://github.com/AwwApps/Open-Beacon-Credentials)
 * [Policies about beacon IDs](http://blog.awwapps.com/blog/2014/05/20/manual-ibeacon-entry-to-be-removed/)
 
 
@@ -247,3 +254,7 @@ Bluetooth, Apple, Google, iBeacon, Eddystone and other trademarks are the proper
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Beaconinside GmbH](http://www.beaconinside.com/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/beaconinside/awesome-beacon">https://github.com/beaconinside/awesome-beacon</a> with ranks
+</p>

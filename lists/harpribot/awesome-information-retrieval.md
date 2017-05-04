@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/harpribot/awesome-information-retrieval">https://github.com/harpribot/awesome-information-retrieval</a> with ranks
+</p>
+---
 # Awesome Information Retrieval [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [![Join the chat at https://gitter.im/awesome-information-retrieval/Lobby](https://badges.gitter.im/awesome-information-retrieval/Lobby.svg)](https://gitter.im/awesome-information-retrieval/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -6,7 +13,7 @@ Curated list of information retrieval and web search resources from all around t
 ## Introduction
 [Information Retrieval](https://en.wikipedia.org/wiki/Information_retrieval) involves finding relevant information for user queries, ranging from simple domain of database search to complicated aspects of web search (Eg - Google, Bing, Yahoo). Currently, researchers are developing algorithms to address [Information Need](https://en.wikipedia.org/wiki/Information_needs) of user(s), by maximizing [User and Topic Relevance](https://en.wikipedia.org/wiki/Relevance_(information_retrieval)) of retrieved results, while minimizing [Information Overload](https://en.wikipedia.org/wiki/Information_overload) and retrieval time.
 ## Contributing
-Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or [email] (mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](contributing.md).
+Please feel free to send me [pull requests](https://github.com/harpribot/awesome-information-retrieval/pulls) or [email] (mailto:harshal.priyadarshi@utexas.edu) me to add new links. I am very open to suggestions and corrections. Please look at the [contributions guide](https://github.com/harpribot/awesome-information-retrieval/blob/master/contributing.md).
 
 ## Contents
  - [Books](#books)
@@ -161,3 +168,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Harshal Priyadarshi](http://www.harshalpriyadarshi.com) and all the contributors have waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/harpribot/awesome-information-retrieval">https://github.com/harpribot/awesome-information-retrieval</a> with ranks
+</p>

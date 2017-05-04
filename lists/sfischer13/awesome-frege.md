@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/sfischer13/awesome-frege">https://github.com/sfischer13/awesome-frege</a> with ranks
+</p>
+---
 # Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege"> ★2744](https://github.com/Frege/frege)
@@ -6,7 +13,7 @@
 
 You might also like [awesome-haskell ★1070](https://github.com/krispo/awesome-haskell).
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/sfischer13/awesome-frege/blob/master/contributing.md) before contributing.*
 
 ## Contents
 
@@ -61,7 +68,7 @@ You might also like [awesome-haskell ★1070](https://github.com/krispo/awesome-
 - [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started) - First steps with Frege on the command line.
 - [REPL](http://try.frege-lang.org/) - Edit and run Frege code on the web.
 - [Examples](https://github.com/Frege/frege/tree/master/examples) - Some code examples.
-- [Template ★3](https://github.com/tfausak/fregexample) - Template for Frege projects.
+- [Template ★3 ⏳1Y](https://github.com/tfausak/fregexample) - Template for Frege projects.
 
 ### Comparisons
 
@@ -115,7 +122,7 @@ You might also like [awesome-haskell ★1070](https://github.com/krispo/awesome-
 
 - [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details) - Book by Dierk König.
 - [Frege Quick Reference](https://www.gitbook.com/book/ingo60/frege-quick-reference/details) - Book by Ingo Wechsung.
-- [Learn You a Frege for Great Good! ★41](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!.
+- [Learn You a Frege for Great Good! ★41 ⏳1Y](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!.
 - [Frege Wiki](https://github.com/Frege/frege/wiki/Books) - List of more books on the Frege wiki.
 
 ### Conferences
@@ -139,7 +146,7 @@ You might also like [awesome-haskell ★1070](https://github.com/krispo/awesome-
 
 ### Android
 
-- [FregeAndroid ★15](https://github.com/trilogysci/FregeAndroid) - Frege interface to the Android API.
+- [FregeAndroid ★15 ⏳1Y](https://github.com/trilogysci/FregeAndroid) - Frege interface to the Android API.
 - [frege-on-android ★1](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android.
 - [FregeAndroid ★9](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege.
 - [GeoQuiz-Frege ★8](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege.
@@ -147,12 +154,12 @@ You might also like [awesome-haskell ★1070](https://github.com/krispo/awesome-
 
 ### Big Data
 
-- [Spark ★5](https://github.com/sw1sh/frege-spark) - Apache Spark with Frege.
+- [Spark ★5 ⏳1Y](https://github.com/sw1sh/frege-spark) - Apache Spark with Frege.
 
 ### Databases
 
 - [Sirocco ★14](https://github.com/fregelab/sirocco) - Frege library for relational databases.
-- [frege-dbc ★2](https://github.com/DellCliff/frege-dbc) - JDBC with Frege.
+- [frege-dbc ★2 ⏳1Y](https://github.com/DellCliff/frege-dbc) - JDBC with Frege.
 
 ### Email
 
@@ -170,13 +177,13 @@ You might also like [awesome-haskell ★1070](https://github.com/krispo/awesome-
 
 - [Chinook ★26](https://github.com/fregelab/chinook) - Frege web framework based on SparkJava.
 - [Fregelet ★5](https://github.com/mmhelloworld/fregelet) - Frege web framework based on servlet.
-- [Play ★17](https://github.com/mmhelloworld/hello-play-frege) - Play framework with Frege.
+- [Play ★17 ⏳1Y](https://github.com/mmhelloworld/hello-play-frege) - Play framework with Frege.
 
 ## Sample Applications
 
 ### Games
 
-- [2048 ★4](https://github.com/tfausak/fr2048) - Frege clone of 2048.
+- [2048 ★4 ⏳1Y](https://github.com/tfausak/fr2048) - Frege clone of 2048.
 
 ### Media
 
@@ -185,7 +192,7 @@ You might also like [awesome-haskell ★1070](https://github.com/krispo/awesome-
 ### Web
 
 - [RESTful Todo Manager ★5](https://github.com/y-taka-23/restful-todo) - Task list manager written in Frege.
-- [Play Framework ★17](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege.
+- [Play Framework ★17 ⏳1Y](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege.
 - [Fervor ★0](https://github.com/mchav/fervor) - Server for local directories.
 
 ## Tools
@@ -209,10 +216,14 @@ You might also like [awesome-haskell ★1070](https://github.com/krispo/awesome-
 
 ### Unit Testing
 
-- [FrUnit ★1](https://github.com/melrief/FrUnit) - JUnit for Frege.
+- [FrUnit ★1 ⏳2Y](https://github.com/melrief/FrUnit) - JUnit for Frege.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/sfischer13/awesome-frege">https://github.com/sfischer13/awesome-frege</a> with ranks
+</p>

@@ -1,10 +1,17 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/Kickball/awesome-selfhosted">https://github.com/Kickball/awesome-selfhosted</a> with ranks
+</p>
+---
 # Awesome-Selfhosted
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![](https://camo.githubusercontent.com/3d659054abd6ce21c0e47cf3b83a51bda69ca282/68747470733a2f2f64656d6f2e726f636b65742e636861742f696d616765732f6a6f696e2d636861742e737667)](https://chat.awesome-selfhosted.com)
 
 Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 
-This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](non-free.md) page.
+This is a list of [Free](https://en.wikipedia.org/wiki/Free_software) Software [network services](https://en.wikipedia.org/wiki/Network_service) and [web applications](https://en.wikipedia.org/wiki/Web_application) which can be hosted locally. Non-Free software is listed on the [Non-Free](https://github.com/Kickball/awesome-selfhosted/blob/master/non-free.md) page.
 
 See [Contributing](.github/CONTRIBUTING.md).
 
@@ -129,7 +136,7 @@ _Business Intelligence_
   * [Headphones ★2320](https://github.com/rembo10/headphones) - An automated music downloader for NZB and Torrent, written in Python. It supports SABnzbd, NZBget, Transmission, µTorrent, Deluge and Blackhole. `GPLv3` `Python`
   * [Healthchecks](https://healthchecks.io/) - Django app which listens for pings and sends alerts when pings are late. ([Source Code](https://github.com/healthchecks/healthchecks)) `BSD` `Python`
   * [Home Assistant](https://home-assistant.io/) - An open-source home automation platform. ([Demo](https://home-assistant.io/demo/), [Source Code](https://github.com/home-assistant/home-assistant)) `MIT` `Python`
-  * [homebank-converter ★7](https://github.com/Binnette/homebank-converter) - A web app to convert an export bank file to compatible Homebank csv. ([Demo](http://binnette.github.io/homebank-converter/)) `AGPLv3` `HTML5`
+  * [homebank-converter ★7 ⏳1Y](https://github.com/Binnette/homebank-converter) - A web app to convert an export bank file to compatible Homebank csv. ([Demo](http://binnette.github.io/homebank-converter/)) `AGPLv3` `HTML5`
   * [Huginn ★16066](https://github.com/cantino/huginn) - Allows you to build agents that monitor and act on your behalf. `MIT` `Ruby`
   * [Http2pic](https://http2pic.haschek.at/) - Website screenshots/renderer. It uses the wkhtmltox to render websites with various options. ([Source Code](https://github.com/chrisiaut/http2pic)) `Apache 2.0` `PHP/Javascript`
   * [Medusa](https://github.com/pymedusa/SickRage) - Automatic Video Library Manager for TV Shows. It watches for new episodes of your favorite shows, and when they are posted it does its magic. `GPLv3` `Python`
@@ -158,7 +165,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [Antville](https://antville.org) - Antville is a free, open source project aimed at the development of a high performance, feature rich weblog hosting software. ([Source Code](https://github.com/antville/antville)) `Apache` `Javascript`
   * [Blogotext](http://lehollandaisvolant.net/blogotext/) - A free blog-engine written in PHP and using SQLite. This offers you both an unmatched simplicity during installation and great performances. ([Source Code](https://github.com/timovn/blogotext)) `MIT` `PHP`
   * [Bludit](https://www.bludit.com/) `⚠` - Simple application to build a site or blog in seconds. Bludit uses flat-files (text files in JSON format) to store posts and pages. ([Demo](http://demo-bludit.rhcloud.com/), [Source Code](https://github.com/dignajar/bludit)) `MIT` `PHP`
-  * [Chyrp ★202](https://github.com/chyrp/chyrp) - An extra-awesome, extra-lightweight blog engine. `MIT` `PHP`
+  * [Chyrp ★202 ⏳1Y](https://github.com/chyrp/chyrp) - An extra-awesome, extra-lightweight blog engine. `MIT` `PHP`
   * [Dotclear](http://dotclear.org/) - Take control over your blog. ([Source Code](https://hg.dotclear.org/dotclear)) `GPLv2` `PHP`
   * [Formtools](https://formtools.org/) - Powerful, flexible, free and open source PHP/MySQL script to manage your forms and data. ([Source Code](https://github.com/formtools)) `GPLv2` `PHP`
   * [Ghost](https://ghost.org/) - Just a blogging platform. ([Source Code](https://github.com/TryGhost/Ghost)) `MIT` `Nodejs`
@@ -547,7 +554,7 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
   * [Stringer ★2647](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
   * [Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://framanews.org/)) `GPLv3` `PHP`
     * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS. ([Source Code](https://github.com/nhoening/gritttt-rss)) `BSD` `Python`
-    * [ttrss-mobile ★180](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS. `AGPLv3` `Javascript`
+    * [ttrss-mobile ★180 ⏳1Y](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS. `AGPLv3` `Javascript`
     * [ttrss-reader ★24](https://github.com/kucrut/ttrss-reader) - Light and responsive client for TTRSS. `GPLv2` `Javascript`
 
 
@@ -822,7 +829,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Markdown Edit](http://georgeosddev.github.com/markdown-edit/) - Online markdown editor/viewer. ([Source Code](https://github.com/georgeOsdDev/markdown-edit)) `MIT` `HTML5`
   * [Meemo](https://meemo.minimal-space.de/) - Personal notes stream with Markdown support. ([Source Code](https://github.com/nebulade/meemo)) `MIT` `Nodejs`
   * [minimalist-web-notepad ★63](https://github.com/pereorga/minimalist-web-notepad) - A minimalist notepad.cc clone. `Apache` `PHP`
-  * [notes ★12](https://github.com/SSilence/notes) - Simple script for personal notes with a single page with a WYSIWYG Editor. `GPLv3` `PHP`
+  * [notes ★12 ⏳1Y](https://github.com/SSilence/notes) - Simple script for personal notes with a single page with a WYSIWYG Editor. `GPLv3` `PHP`
   * [OpenNote](https://github.com/FoxUSA/OpenNote) - OpenNote was built to be an open web-based alternative to Microsoft OneNote (T) and EverNote. ([Demo](https://foxusa.github.io/OpenNote/OpenNote/#/folder)) `MIT` `HTML5`
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep. ([Source Code](https://github.com/twostairs/paperwork)) `MIT` `PHP`
   * [savepad](https://github.com/novavex/textpad) - A minimalist notepad based on notepad.cc. `MIT` `PHP`
@@ -878,7 +885,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [snipt](https://snipt.net/) - Long-term memory for coders. Share and store code snippets. ([Source Code ★219](https://github.com/nicksergeant/snipt)) `BSD` `Python`
   * [Sticky Notes](http://sayakb.github.io/sticky-notes/) - A powerful open-source pastebin application for effortless code sharing. ([Source Code](https://github.com/sayakb/sticky-notes)) `BSD` `PHP`
   * [Stikked ★583](https://github.com/claudehohl/Stikked) - An advanced and beautiful pastebin. `GPLv3` `PHP`
-  * [tastebin ★18](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features. `Apache` `Nodejs`
+  * [tastebin ★18 ⏳1Y](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features. `Apache` `Nodejs`
 
 
 ## Personal Dashboards 
@@ -910,7 +917,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
   * [MinigalNano](https://github.com/sebsauvage/MinigalNano) - MinigalNano is a very simple image gallery. It adheres to the KISS principle and is very easy to install. MinigalNano does not have a web admin interface: You just upload your images in the photo folder on your server (using FTP, SFTP). `AGPLv3` `PHP`
   * [Photato ★24](https://github.com/trebonius0/Photato) - A self-hosted photo gallery, accessible through a responsive WebUI. Directly uses and indexes a specific folder in the filesystem. `AGPLv3` `Java`
   * [Photofloat](http://blog.zx2c4.com/567) - A Web 2.0 Photo Gallery Done Right via Static JSON & Dynamic Javascript. ([Demo](http://photos.jasondonenfeld.com/)) `GPLv2` `Python`
-  * [PhotoLight ★13](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is. `GPLv3` `PHP`
+  * [PhotoLight ★13 ⏳3Y](https://github.com/thibaud-rohmer/PhotoLight) - The easiest photo gallery there is. `GPLv3` `PHP`
   * [Photoshow](http://www.photoshow-gallery.com/) - Responsive Web Gallery. ([Source Code](https://github.com/thibaud-rohmer/PhotoShow)) `GPLv3` `PHP`
   * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. `GPLv2` `PHP`
   * [Plumi](http://blog.plumi.org/) - Create your own sophisticated video-sharing site. ([Source Code](https://github.com/plumi/plumi.app)) `GPLv2` `Python`
@@ -1047,7 +1054,7 @@ See also [Static site generators](#static-site-generators)
 
   * [Docstore](http://haldean.org/) - Static document hosting without any server-side processing, does not require you to recompile every time you change an article. Clone the repository and add articles in the text/ directory to get started. ([Source Code](https://github.com/haldean/docstore)) `BSD` `Javascript`
   * [Flatdoc](http://ricostacruz.com/flatdoc/) - A small Javascript file that fetches Markdown files and renders them as full pages. `MIT` `Javascript`
-  * [markdown-tree ★68](https://github.com/mil/markdown-tree) - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown. `MIT` `Ruby`
+  * [markdown-tree ★68 ⏳2Y](https://github.com/mil/markdown-tree) - Serve a hierarchy / tree directory of markdown files. Use intended for small sites built in markdown. `MIT` `Ruby`
   * [Read the Docs](https://docs.readthedocs.org/en/latest/install.html) - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar. ([Demo](https://readthedocs.org/projects/), [Source Code](https://github.com/rtfd/readthedocs.org)) `MIT` `Python`
 
 ### Localization
@@ -1074,7 +1081,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Kanboard](http://kanboard.net/) - A simple and open source visual task board. ([Source Code](https://github.com/kanboard/kanboard)) `MIT` `PHP`
     * [Wheatbin](http://wheatbin.com/) - A project management software that combines Kanban methodology with the Law of the Harvest. ([Source Code](https://github.com/wheatbin/wheatbin)) `MIT` `PHP`
   * [myTinyTodo](http://www.mytinytodo.net/) - Simple way to manage your todo list in AJAX style. Uses PHP, jQuery, SQLite/MySQL. GTD compliant. `GPLv2` `PHP`
-  * [omgnata ★14](https://github.com/chr15m/omgnata) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://chr15m.github.io/omgnata/)) `GPLv3` `ClojureScript`
+  * [omgnata ★14 ⏳1Y](https://github.com/chr15m/omgnata) - Mobile friendly zero-feature TODO list web app. Unix philosophy. ([Demo](https://chr15m.github.io/omgnata/)) `GPLv3` `ClojureScript`
   * [PHP Task/Todo list ★2](https://github.com/lgg/tasks.php) - A simple task/todo list that uses a JSON text file for the tasks. `MIT` `PHP`
   * [Restyaboard](http://restya.com/board/) - Open source Trello-like kanban board. ([Demo](http://restya.com/board/demo.html), [Source Code](https://github.com/RestyaPlatform/board)) `OSLv3` `PHP`
   * [scrumblr](http://scrumblr.ca/) - Collaborative Online Scrum Tool Using Websockets, Node.js, jQuery, and CSS3. ([Source Code](https://github.com/ocdtrekkie/scrumblr/tree/sandstorm)) `GPLv3` `Nodejs`
@@ -1082,7 +1089,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Taskfreak](http://www.taskfreak.com/original) - A simple but efficient web based task manager written in PHP. ([Demo](http://demo.taskfreak.com/)) `GPLv3` `PHP`
   * [Tasks](https://projects.miguelpiedrafita.com/Tasks/) - Simple tasks & notes manager written in PHP, jQuery and Bootstrap using a custom flat file database. ([Demo](https://demo.miguelpiedrafita.com/tasks/), ([Source Code](https://github.com/m1guelpf/tasks)) `MPLv2` `PHP`
   * [Tasks ★292](https://github.com/thewhitetulip/Tasks) - Kanban based to-do list manager written in Go. `MIT` `Go`
-  * [tasks.php ★35](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager. `MIT` `PHP`
+  * [tasks.php ★35 ⏳3Y](https://github.com/RaymiiOrg/tasks.php) - A simple task/todo list manager. `MIT` `PHP`
   * [Taskwarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from your command line. It is flexible, fast, efficient, and unobtrusive. It does its job then gets out of your way. ([Source Code](https://taskwarrior.org/download/#git)) `MIT` `C++`
   * [Tinyissue ★38](https://github.com/satrun77/tinyissue) - Simple Issue Tracking for Teams. `MIT` `PHP`
   * [Tracks](http://www.getontracks.org/) - A web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology. ([Source Code](https://github.com/TracksApp/tracks)) `GPLv2` `Ruby`
@@ -1251,8 +1258,12 @@ Contributing guidelines can be found [here](.github/CONTRIBUTING.md).
 
 ## Authors
 
-The list of authors can be found [here](AUTHORS.md).
+The list of authors can be found [here](https://github.com/Kickball/awesome-selfhosted/blob/master/AUTHORS.md).
 
 ## License
 
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/Kickball/awesome-selfhosted">https://github.com/Kickball/awesome-selfhosted</a> with ranks
+</p>

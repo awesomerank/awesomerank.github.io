@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/hothero/awesome-rails-gem">https://github.com/hothero/awesome-rails-gem</a> with ranks
+</p>
+---
 # Awesome Rails Gem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 A collection of awesome Ruby Gems for Rails development.
 
@@ -106,7 +113,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 ## File Uploading
 * [Carrierwave ★7448](https://github.com/carrierwaveuploader/carrierwave) - Carrierwave is a classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
   * [carrierwave_backgrounder ★637](https://github.com/lardawge/carrierwave_backgrounder) - Offload CarrierWave's image processing and storage to a background process using Delayed Job, Resque, Sidekiq, Qu, Queue Classic or Girl Friday.
-  * [CarrierWave Crop ★91](https://github.com/kirtithorat/carrierwave-crop) - Carrierwave extension to crop uploaded images using Jcrop plugin with preview.
+  * [CarrierWave Crop ★91 ⏳1Y](https://github.com/kirtithorat/carrierwave-crop) - Carrierwave extension to crop uploaded images using Jcrop plugin with preview.
   * [CarrierWave ImageOptimizer ★151](https://github.com/jtescher/carrierwave-imageoptimizer) - This gem allows you to simply optimize CarrierWave images via jpegoptim or optipng using the image_optimizer gem.
 * [remotipart ★950](https://github.com/JangoSteve/remotipart) - Rails jQuery file uploads via standard Rails "remote: true" forms.
 * [MiniMagick ★1998](https://github.com/minimagick/minimagick) - MiniMagick is a ruby wrapper for ImageMagick or GraphicsMagick command line.
@@ -150,7 +157,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Config ★1236](https://github.com/railsconfig/config) - Multi-environment YAML style configurations that helps easily manage environment specific settings in an easy and usable manner.
 * [Figaro ★3032](https://github.com/laserlemon/figaro) - Figaro is very simple, Heroku-friendly Rails app configuration using ENV and a single YAML file.
 * [dotenv ★3989](https://github.com/bkeepers/dotenv) - Dotenv is a gem that allows you to set your environment variables in .env file, and it will load it in to ENV.
-* [opsworks-dotenv ★8](https://github.com/mikamai/opsworks-dotenv) - Opsworks-dotenv let you configure the environment for you Rails application using OpsWorks, Chef and Dotenv.
+* [opsworks-dotenv ★8 ⏳1Y](https://github.com/mikamai/opsworks-dotenv) - Opsworks-dotenv let you configure the environment for you Rails application using OpsWorks, Chef and Dotenv.
 
 ## Admin Panel
 * [ActiveAdmin](http://activeadmin.info) - ActiveAdmin is a administration framework for Ruby on Rails applications.
@@ -172,7 +179,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [web-console ★1004](https://github.com/rails/web-console) - Web Console is a debugging tool for your Ruby on Rails applications.
 * [spring ★2265](https://github.com/rails/spring) - Spring is a Rails application preloader. It speeds up development by keeping your application running in the background so you don't need to boot it every time you run a test, rake task or migration.
 * [rails-footnotes ★1435](https://github.com/josevalim/rails-footnotes) - Rails footnotes displays footnotes in your application for easy debugging, such as sessions, request parameters, cookies, filter chain, routes, queries, etc.
-* [g ★101](https://github.com/jugyo/g) - The Kernel.g that works like Kernel.p by using terminal-notifier or growl.
+* [g ★101 ⏳3Y](https://github.com/jugyo/g) - The Kernel.g that works like Kernel.p by using terminal-notifier or growl.
 * [terminal-notifier ★3862](https://github.com/julienXX/terminal-notifier) - terminal-notifier is a command-line tool to send Mac OS X User Notifications, which are available in Mac OS X 10.8 and higher.
 * [letter_opener ★2546](https://github.com/ryanb/letter_opener) - Preview email in the default browser instead of sending it. This means you do not need to set up email delivery in your development environment, and you no longer need to worry about accidentally sending a test email to someone else's address.
 * [Better Errors ★6126](https://github.com/charliesome/better_errors) - Better errors replaces the standard Rails error page with a much better and more useful error page.
@@ -189,15 +196,15 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [rspec-rails ★3254](https://github.com/rspec/rspec-rails) - Rspec-rails is a testing framework for Rails 3.x and 4.x.
 * [Capybara](https://github.com/jnicklas/capybara) - Capybara helps you test web applications by simulating how a real user would interact with your app. And drivers:
   - [capybara-webkit ★1863](https://github.com/thoughtbot/capybara-webkit) - Capybara-webkit is a capybara driver that uses Webkit via QtWebkit.
-  - [selenium-webdriver ★21](https://github.com/vertis/selenium-webdriver) - Selenium-webdriver provides ruby bindings for WebDriver.
+  - [selenium-webdriver ★21 ⏳1Y](https://github.com/vertis/selenium-webdriver) - Selenium-webdriver provides ruby bindings for WebDriver.
   - [poltergeist ★2340](https://github.com/teampoltergeist/poltergeist) - Poltergeist allows you to run your Capybara tests on a headless WebKit browser, provided by PhantomJS.
   - [page-object ★530](https://github.com/cheezy/page-object) - Page-object is a simple gem that assists in creating flexible page objects for testing browser based applications.
 * [factory_girl](https://github.com/thoughtbot/factory_girl) - Factory_girl is a fixtures replacement with a straightforward definition syntax, support for multiple build strategies (saved instances, unsaved instances, attribute hashes, and stubbed objects), and support for multiple factories for the same class (user, admin_user, and so on), including factory inheritance.
 * [factory_girl_rails ★1798](https://github.com/thoughtbot/factory_girl_rails) - Factory_girl_rails provides Rails integration for factory_girl.
-* [factory_factory_girl ★44](https://github.com/st0012/factory_factory_girl) - FactoryFactoryGirl lets you generate factory files more efficiently with naming rules.
+* [factory_factory_girl ★44 ⏳1Y](https://github.com/st0012/factory_factory_girl) - FactoryFactoryGirl lets you generate factory files more efficiently with naming rules.
 * [Database Cleaner ★2047](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner is a set of strategies for cleaning your database in Ruby.Support ActiveRecord, DataMapper, Sequel, MongoMapper, Mongoid, CouchPotato, Ohm and Redis.
 * [shoulda-matchers ★1970](https://github.com/thoughtbot/shoulda-matchers) - Shoulda-matchers provides serveral matchers for testing common Rails functionality.
-* [ResponseCodeMatchers ★50](https://github.com/r7kamura/response_code_matchers) - ResponseCodeMatchers provides rspec matchers to match http response code.
+* [ResponseCodeMatchers ★50 ⏳2Y](https://github.com/r7kamura/response_code_matchers) - ResponseCodeMatchers provides rspec matchers to match http response code.
 * [SimpleCov ★2987](https://github.com/colszowka/simplecov) - SimpleCov is a code coverage analysis tool for Ruby.
 * [Timecop ★2354](https://github.com/travisjeffery/timecop) - A gem providing "time travel" and "time freezing" capabilities, making it dead simple to test time-dependent code.
 * [VCR ★3444](https://github.com/vcr/vcr) - Record your test suite's HTTP interactions and replay them during future test runs for fast, deterministic, accurate tests.
@@ -212,7 +219,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [Slowpoke ★122](https://github.com/ankane/slowpoke) - Rack::Timeout is great. Slowpoke makes it better.
 * [Rack Attack ★3204](https://github.com/kickstarter/rack-attack) - Rack middleware to blocking & throttling.
 * [Responders ★1555](https://github.com/plataformatec/responders) - A set of Rails responders to dry up your application.
-* [production_rails ★681](https://github.com/ankane/production_rails) - Best practices for running Rails in production.
+* [production_rails ★681 ⏳1Y](https://github.com/ankane/production_rails) - Best practices for running Rails in production.
 * [Mina ★3508](https://github.com/mina-deploy/mina) - fast deployer and server automation tool.
 
 ## Error Logging
@@ -228,4 +235,8 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/hothero/awesome-rails-gem/blob/master/contributing.md) first.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/hothero/awesome-rails-gem">https://github.com/hothero/awesome-rails-gem</a> with ranks
+</p>

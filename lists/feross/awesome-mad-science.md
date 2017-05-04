@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/feross/awesome-mad-science">https://github.com/feross/awesome-mad-science</a> with ranks
+</p>
+---
 # Awesome Mad Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 Delightful npm packages that make you say "wow, didn't know that was possible!" PRs welcome!
@@ -38,7 +45,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 
 ## sound
 - [doppler ★2166](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
-- [speak.js ★225](https://github.com/mattytemple/speak-js) - text-to-speech on the web
+- [speak.js ★225 ⏳1Y](https://github.com/mattytemple/speak-js) - text-to-speech on the web
 
 ## streams
 - [strip-html](https://www.npmjs.com/package/strip-html) - strip html from a stream
@@ -91,3 +98,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Feross Aboukhadijeh](http://feross.org) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/feross/awesome-mad-science">https://github.com/feross/awesome-mad-science</a> with ranks
+</p>

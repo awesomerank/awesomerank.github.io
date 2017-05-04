@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/feross/awesome-standard">https://github.com/feross/awesome-standard</a> with ranks
+</p>
+---
 # Awesome Standard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg) ★11361](https://github.com/feross/standard)
@@ -74,3 +81,7 @@ PRs welcome!
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Feross Aboukhadijeh](http://feross.org) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/feross/awesome-standard">https://github.com/feross/awesome-standard</a> with ranks
+</p>

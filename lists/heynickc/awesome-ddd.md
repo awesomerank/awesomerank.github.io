@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/heynickc/awesome-ddd">https://github.com/heynickc/awesome-ddd</a> with ranks
+</p>
+---
 # Awesome Domain-Driven Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources.
@@ -126,17 +133,17 @@ The term was coined by Eric Evans in his book of the same title.
 - [SimpleCQRS ★1103](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
 - [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://naa4e.codeplex.com/SourceControl/latest) by Dino Esposito.
 - [Microsoft Patterns and Practices: CQRS Journey Sample Code](https://github.com/mspnp/cqrs-journey) - Sample code from CQRS Journey.
-- [CQRS-DDD Example ★27](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
-- [Scritchy ★59](https://github.com/ToJans/Scritchy) - CQRS without the Plumbing, [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
-- [Simple CQRS in F# ★56](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
-- [FsUno ★56](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
-- [IDDD Samples ★772](https://github.com/VaughnVernon/IDDD_Samples) - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168).
-- [IDDD Samples in .NET ★338](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168).
+- [CQRS-DDD Example ★27 ⏳3Y](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
+- [Scritchy ★59 ⏳3Y](https://github.com/ToJans/Scritchy) - CQRS without the Plumbing, [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
+- [Simple CQRS in F# ★56 ⏳4Y](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
+- [FsUno ★56 ⏳2Y](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
+- [IDDD Samples ★772 ⏳1Y](https://github.com/VaughnVernon/IDDD_Samples) - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168).
+- [IDDD Samples in .NET ★338 ⏳1Y](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168).
 - [Akka CQRS ES Demo ★35](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
 - [DDD Leaven ★309](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
 - [DDD Playground ★79](https://github.com/jorge07/ddd-playground) - Sample implementation in PHP.
-- [Fohjin ★550](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
-- [Lokad IDDD Sample ★131](https://github.com/Lokad/lokad-iddd-sample) - This is a .NET Sample Project to accompany Event Sourcing materials from the book by Vaughn Vernon: Implementing Domain-Driven Design.
+- [Fohjin ★550 ⏳1Y](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
+- [Lokad IDDD Sample ★131 ⏳4Y](https://github.com/Lokad/lokad-iddd-sample) - This is a .NET Sample Project to accompany Event Sourcing materials from the book by Vaughn Vernon: Implementing Domain-Driven Design.
 - [ContosoUniversityCore ★209](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
 - [DDDSkeletonNet](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
 - [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) (Java) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
@@ -208,3 +215,7 @@ The term was coined by Eric Evans in his book of the same title.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Nick Chamberlain](https://buildplease.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/heynickc/awesome-ddd">https://github.com/heynickc/awesome-ddd</a> with ranks
+</p>

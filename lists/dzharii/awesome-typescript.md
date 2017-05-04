@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/dzharii/awesome-typescript">https://github.com/dzharii/awesome-typescript</a> with ranks
+</p>
+---
 # Awesome TypeScript
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch ★763](https://github.com/dzharii/awesome-elasticsearch) →
@@ -6,7 +13,7 @@
 
 ## Contributing
 
-Please take a quick look at the [contribution guidelines](/contributing.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
+Please take a quick look at the [contribution guidelines](https://github.com/dzharii/awesome-typescript/blob/master//contributing.md) first. If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file.
 
 ## Getting Started with (Awesome) TypeScript
 
@@ -47,7 +54,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 #### Online
 
 ##### Playground
-* [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 ★53](https://github.com/basarat/TypeScriptEditor)
+* [TypeScript playground-on-ace](https://github.com/hi104/typescript-playground-on-ace) by @hi104 [updated to TypeScript 1.5 ★53 ⏳1Y](https://github.com/basarat/TypeScriptEditor)
 * [TypeScript official Playground](http://www.typescriptlang.org/Playground/)
 * [JS Bin](http://jsbin.com/?js) (Select TypeScript)
 * [Codepen](http://codepen.io/) (Select TypeScript)
@@ -64,7 +71,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
 
 ### TypeScript for...
 #### React.js
-* :octocat: [jsxtyper ★27](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
+* :octocat: [jsxtyper ★27 ⏳1Y](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
 * :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 * :octocat: [TodoMVC • TypeScript + React Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
 * :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
@@ -124,3 +131,7 @@ Please take a quick look at the [contribution guidelines](/contributing.md) firs
  * [@angularjs](https://twitter.com/angularjs) - Official Angularjs Twitter using Typescript Since 2.0
  * [@jntrnr](https://twitter.com/jntrnr) - Typescript Program Manager at Microsoft
  * [@ahejlsberg](https://twitter.com/ahejlsberg) - Technical Fellow at Microsoft invovled with the Typescript project
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/dzharii/awesome-typescript">https://github.com/dzharii/awesome-typescript</a> with ranks
+</p>

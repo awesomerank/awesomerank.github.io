@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/igorbarinov/awesome-data-engineering">https://github.com/igorbarinov/awesome-data-engineering</a> with ranks
+</p>
+---
 Awesome Data Engineering
 ==========================
 
@@ -71,7 +78,7 @@ List of content
 	* [Druid ★4789](https://github.com/druid-io/druid) Column oriented distributed data store ideal for powering interactive applications
 	* [Riak-TS](http://basho.com/products/riak-ts/) Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data
 	* [Akumuli ★133](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
-	* [Rhombus ★118](https://github.com/Pardot/Rhombus) A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
+	* [Rhombus ★118 ⏳2Y](https://github.com/Pardot/Rhombus) A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
 	* [Dalmatiner DB ★413](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
 	* [Blueflood ★525](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
 	* [Timely ★63](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.
@@ -83,11 +90,11 @@ List of content
 
 # Data Ingestion
 * [Kafka](http://kafka.apache.org/) Publish-subscribe messaging rethought as a distributed commit log.
-	* [Camus ★692](https://github.com/linkedin/camus) LinkedIn's Kafka to HDFS pipeline.
+	* [Camus ★692 ⏳1Y](https://github.com/linkedin/camus) LinkedIn's Kafka to HDFS pipeline.
 	* [BottledWater ★1112](https://github.com/confluentinc/bottledwater-pg) Change data capture from PostgreSQL into Kafka
 	* [kafkat ★254](https://github.com/airbnb/kafkat) Simplified command-line administration for Kafka brokers
 	* [kafkacat ★637](https://github.com/edenhill/kafkacat) Generic command line non-JVM Apache Kafka producer and consumer
-	* [pg-kafka ★62](https://github.com/xstevens/pg_kafka) A PostgreSQL extension to produce messages to Apache Kafka
+	* [pg-kafka ★62 ⏳2Y](https://github.com/xstevens/pg_kafka) A PostgreSQL extension to produce messages to Apache Kafka
 	* [librdkafka ★1031](https://github.com/edenhill/librdkafka) The Apache Kafka C/C++ library
 	* [kafka-docker ★862](https://github.com/wurstmeister/kafka-docker) Kafka in Docker
 	* [kafka-manager ★3563](https://github.com/yahoo/kafka-manager) A tool for managing Apache Kafka
@@ -110,7 +117,7 @@ List of content
 * [Tachyon](http://tachyon-project.org/) Tachyon is a memory-centric distributed storage system enabling reliable data sharing at memory-speed across cluster frameworks, such as Spark and MapReduce
 * [CEPH](http://ceph.com/) Ceph is a unified, distributed storage system designed for excellent performance, reliability and scalability
 * [OrangeFS](http://www.orangefs.org/) Orange File System is a branch of the Parallel Virtual File System
-* [SnackFS ★13](https://github.com/tuplejump/snackfs-release) SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra
+* [SnackFS ★13 ⏳1Y](https://github.com/tuplejump/snackfs-release) SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra
 * [GlusterFS](http://www.gluster.org/) Gluster Filesystem
 * [XtreemFS](http://www.xtreemfs.org/) fault-tolerant distributed file system for all storage needs
 * [SeaweedFS ★4238](https://github.com/chrislusf/seaweedfs) Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
@@ -172,7 +179,7 @@ multi-processor, multi-core machines
 	* [D3Plus](http://d3plus.org) D3's simplier, easier to use cousin. Mostly predefined templates that you can just plug data in.
 * [SmoothieCharts](http://smoothiecharts.org) A JavaScript Charting Library for Streaming Data.
 * [PyXley ★1874](https://github.com/stitchfix/pyxley) Python helpers for building dashboards using Flask and React
-* [Plotly ★319](https://github.com/plotly/dash) Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
+* [Plotly ★319 ⏳1Y](https://github.com/plotly/dash) Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
 
 # Workflow
 * [Luigi ★6826](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs.
@@ -189,14 +196,14 @@ multi-processor, multi-core machines
 * [ZomboDB ★1048](https://github.com/zombodb/zombodb) Postgres Extension that allows creating an index backed by Elasticsearch
 
 # Docker
-* [Gockerize ★616](https://github.com/aerofs/gockerize) Package golang service into minimal docker containers
+* [Gockerize ★616 ⏳1Y](https://github.com/aerofs/gockerize) Package golang service into minimal docker containers
 * [Flocker ★2778](https://github.com/ClusterHQ/flocker) Easily manage Docker containers & their data
 * [Rancher](http://rancher.com/rancher-os/) RancherOS is a 20mb Linux distro that runs the entire OS as Docker containers
 * [Kontena](http://www.kontena.io/) Application Containers for Masses
 * [Weave ★4640](https://github.com/weaveworks/weave) Weaving Docker containers into applications http://www.weave.works/
-* [Zodiac ★164](https://github.com/CenturyLinkLabs/zodiac) A lightweight tool for easy deployment and rollback of dockerized applications
+* [Zodiac ★164 ⏳1Y](https://github.com/CenturyLinkLabs/zodiac) A lightweight tool for easy deployment and rollback of dockerized applications
 * [cAdvisor ★5561](https://github.com/google/cadvisor) Analyzes resource usage and performance characteristics of running containers
-* [Micro S3 persistence ★8](https://github.com/shinymayhem/micro-s3-persistence) Docker microservice for saving/restoring volume data to S3
+* [Micro S3 persistence ★8 ⏳2Y](https://github.com/shinymayhem/micro-s3-persistence) Docker microservice for saving/restoring volume data to S3
 * [Dockup ★243](https://github.com/tutumcloud/dockup) Docker image to backup/restore your Docker container volumes to AWS S3
 * [Rocker-compose ★387](https://github.com/grammarly/rocker-compose) Docker composition tool with idempotency features for deploying apps composed of multiple containers.
 * [Nomad ★2405](https://github.com/hashicorp/nomad) Nomad is a cluster manager, designed for both long lived services and short lived batch processing workloads
@@ -235,3 +242,7 @@ To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/igorbarinov/awesome-data-engineering/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/igorbarinov/awesome-data-engineering">https://github.com/igorbarinov/awesome-data-engineering</a> with ranks
+</p>

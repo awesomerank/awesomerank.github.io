@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/AllThingsSmitty/css-protips">https://github.com/AllThingsSmitty/css-protips</a> with ranks
+</p>
+---
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon">
 </p>
@@ -14,7 +21,7 @@ A collection of tips to help take your CSS skills pro.
 * [Protips](#protips)
 * [Support](#support)
 * [Translations](#translations)
-* [Contribution Guidelines](CONTRIBUTING.md)
+* [Contribution Guidelines](https://github.com/AllThingsSmitty/css-protips/blob/master/CONTRIBUTING.md)
 
 
 ## Protips
@@ -526,3 +533,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 * [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
 * [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 * [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/AllThingsSmitty/css-protips">https://github.com/AllThingsSmitty/css-protips</a> with ranks
+</p>

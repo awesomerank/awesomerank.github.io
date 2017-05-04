@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/HollyAdele/awesome-programming-for-kids">https://github.com/HollyAdele/awesome-programming-for-kids</a> with ranks
+</p>
+---
 # Awesome Programming for Kids [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 A curated list of awesome resources for teaching kids programming. 
 
@@ -27,3 +34,7 @@ A curated list of awesome resources for teaching kids programming.
 * [Khan Academy - Computer Programming](https://www.khanacademy.org/computing/computer-programming) - A series of web-based programming lessons with interactive challenges, by Khan Academy. Teaches topics like animation, game development, and web programming.  Users can post questions, which get answered quickly by the community.  
 * [Web Design for Kids](https://webdesign.tutsplus.com/series/web-design-for-kids--cms-823) - A series of tutorials teaching children the basics of designing and building a website with HTML and CSS.
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/HollyAdele/awesome-programming-for-kids">https://github.com/HollyAdele/awesome-programming-for-kids</a> with ranks
+</p>

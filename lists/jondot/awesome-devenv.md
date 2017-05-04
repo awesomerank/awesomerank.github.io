@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/jondot/awesome-devenv">https://github.com/jondot/awesome-devenv</a> with ranks
+</p>
+---
 # Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
@@ -126,7 +133,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) - LiveReload plugin.
 * [MarkdownEditing ★1969](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes.
 * [Package Control](https://sublime.wbond.net/installation) - The Sublime Text package manager.
-* [RubyTest ★749](https://github.com/maltize/sublime-text-2-ruby-tests) - Plugin for running Ruby tests.
+* [RubyTest ★749 ⏳1Y](https://github.com/maltize/sublime-text-2-ruby-tests) - Plugin for running Ruby tests.
 * [Side Bar Enhancments ★54](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
 * [Sublime Git ★2639](https://github.com/kemayo/sublime-text-git) - Git Integration for Sublime.
 * [Sublime Linter ★1270](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting.
@@ -134,13 +141,13 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 ### Intellij
 
-* [keymap ★6](https://github.com/jondot/keymaps) - a hybrid Vim/ReSharper/Intellij keymap
+* [keymap ★6 ⏳2Y](https://github.com/jondot/keymaps) - a hybrid Vim/ReSharper/Intellij keymap
 
 
 ## Git
 *Tools and addons for making an awesome Git experience*
 
-* [awesome-github ★149](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
+* [awesome-github ★149 ⏳1Y](https://github.com/fffaraz/awesome-github) - Faraz Fallahi maintains a curated list of GitHub & Git resources.
 * [gh](https://github.com/jingweno/gh) - Fast GitHub command line client (hub port to Go)
 * [git-extra-commands ★160](https://github.com/unixorn/git-extra-commands) - collected git helper scripts
 * [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
@@ -224,3 +231,7 @@ to `/home/Users/yourself/projects`.
 * [watchman ★5363](https://github.com/facebook/watchman) - Facebook's better
   `watch` - note it works as a service.
 * [Zappr ★249](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/jondot/awesome-devenv">https://github.com/jondot/awesome-devenv</a> with ranks
+</p>

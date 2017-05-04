@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/git-tips/tips">https://github.com/git-tips/tips</a> with ranks
+</p>
+---
 ## git-tips
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](./contributing.md)
 
@@ -1158,3 +1165,7 @@ git checkout master@{yesterday}
 
 <!-- Don’t remove or change the comment below – that can break automatic updates. More info at <http://npm.im/doxie.inject>. -->
 <!-- @doxie.inject end -->
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/git-tips/tips">https://github.com/git-tips/tips</a> with ranks
+</p>

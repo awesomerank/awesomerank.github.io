@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/fcambus/nginx-resources">https://github.com/fcambus/nginx-resources</a> with ranks
+</p>
+---
 # Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
@@ -106,7 +113,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Lapis - A web framework for Lua or MoonScript powered by OpenResty](http://leafo.net/lapis/)
 - [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
 - [A small router for Openresty](https://docs.apitools.com/blog/2014/04/24/a-small-router-for-openresty.html)
-- [Building an OpenResty events server ★66](https://github.com/cagerton/dropthat)
+- [Building an OpenResty events server ★66 ⏳3Y](https://github.com/cagerton/dropthat)
 - [SysAdvent 2014 - OpenResty, Nginx and Lua](http://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source](https://github.com/lusis/sysadvent-2014))
 - [OpenResty (Nginx) with dynamically generated certificates](http://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
 - [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
@@ -135,3 +142,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Frederic Cambus](https://www.cambus.net) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/fcambus/nginx-resources">https://github.com/fcambus/nginx-resources</a> with ranks
+</p>

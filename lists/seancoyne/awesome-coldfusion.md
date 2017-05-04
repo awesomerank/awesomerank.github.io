@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/seancoyne/awesome-coldfusion">https://github.com/seancoyne/awesome-coldfusion</a> with ranks
+</p>
+---
 # Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript ★8841](https://github.com/sorrycc/awesome-javascript).
@@ -61,7 +68,7 @@ Pull requests very welcome.
 
 * [CFArango ★4](https://github.com/dajester2013/CFArango) - ArangoDB client for ColdFusion
 * [CFCouchbase ★12](https://github.com/Ortus-Solutions/cfcouchbase-sdk) - Couchbase NoSQL and caching client wrapper for ColdFusion
-* [cfmongodb ★90](https://github.com/marcesher/cfmongodb) - MongoDB client wrapper for ColdFusion
+* [cfmongodb ★90 ⏳1Y](https://github.com/marcesher/cfmongodb) - MongoDB client wrapper for ColdFusion
 
 ## REST
 
@@ -72,7 +79,7 @@ Pull requests very welcome.
 ## Other Libraries
 
 * [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
-* [cfbackport ★26](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion.
+* [cfbackport ★26 ⏳2Y](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion.
 * [cfpayment ★70](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant.
 * [Hoth ★125](https://github.com/aarongreenlee/Hoth) - Exception Tracking
 * [BugLogHQ ★132](https://github.com/oarevalo/BugLogHQ) - Exception Tracking
@@ -104,7 +111,7 @@ Pull requests very welcome.
 * [CF Live](http://cflive.net) - Realtime CFML testing console
 * [CF411](http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (in over 150 categories) by Charlie Arehart
 * [CFLib](http://cflib.org/) - Common Function Library Project
-* [ColdFusion Koans ★59](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
+* [ColdFusion Koans ★59 ⏳1Y](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
 * [ColdFusion UI the Right Way ★83](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
 * [Learn CF in a Week](http://www.learncfinaweek.com) - community driven training program that teaches all the basics you need to be a ColdFusion Developer in one week.
 * [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
@@ -130,3 +137,7 @@ Pull requests very welcome.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sean Coyne ★41](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/seancoyne/awesome-coldfusion">https://github.com/seancoyne/awesome-coldfusion</a> with ranks
+</p>

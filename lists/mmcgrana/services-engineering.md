@@ -1,9 +1,16 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/mmcgrana/services-engineering">https://github.com/mmcgrana/services-engineering</a> with ranks
+</p>
+---
 ## Services Engineering Reading List
 
 A reading list for services engineering, with a focus on cloud
 infrastructure services.
 
-We welcome [suggestions](CONTRIBUTING.md).
+We welcome [suggestions](https://github.com/mmcgrana/services-engineering/blob/master/CONTRIBUTING.md).
 
 #### Papers
 
@@ -94,3 +101,7 @@ We welcome [suggestions](CONTRIBUTING.md).
 * [Ricon](http://ricon.io/)
 * [Surge](http://surge.omniti.com/)
 * [Velocity](http://velocityconf.com/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/mmcgrana/services-engineering">https://github.com/mmcgrana/services-engineering</a> with ranks
+</p>

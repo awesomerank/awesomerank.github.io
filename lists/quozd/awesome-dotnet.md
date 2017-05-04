@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/quozd/awesome-dotnet">https://github.com/quozd/awesome-dotnet</a> with ranks
+</p>
+---
 # Awesome .NET!
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) 
@@ -160,7 +167,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Cassette](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
 * [NodeAssets ★19](https://github.com/ajorkowski/NodeAssets) - Asset Manager for .net that has live css updates using SignalR and can optionally leverage NodeJS compilers
 * [Bundle Transformer](http://bundletransformer.codeplex.com/) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](http://aspnetoptimization.codeplex.com/). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
-* [Bundler ★255](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
+* [Bundler ★255 ⏳1Y](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
 * [SquishIt ★472](https://github.com/jetheredge/SquishIt) - Lets you *easily* bundle some css and javascript
 
 ## Authentication and Authorization
@@ -180,6 +187,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [CLR via C#](https://www.microsoftpressstore.com/store/clr-via-c-sharp-9780735667457) - Dig deep and master the intricacies of the common language runtime, C#, and .NET development. **[$]**
 * [Functional Programming in C#](https://www.manning.com/books/functional-programming-in-c-sharp) - teaches how to best leverage the functional features of the C# language. **[$]**
 * [Microservices in .NET Core](https://www.manning.com/books/microservices-in-net-core) - shows you how to build maintainable, secure and operations-friendly microservices using Nancy and .NET Core. **[$]**
+* [Dependency Injection in .NET](https://www.manning.com/books/dependency-injection-in-dot-net) [2nd edition](https://www.manning.com/books/dependency-injection-in-dot-net-second-edition) - teaches you to use Dependency Injection to reduce hard-coded dependencies between application components in .NET. **[$]**
 
 ## Build Automation
 
@@ -231,7 +239,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [App.Metrics ★144](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://alhardy.github.io/app-metrics-docs/) for me details.
 * [CodeMaid](http://www.codemaid.net/) - Visual studio extension to cleanup, dig through and simplify C#, C++, F#, VB, PHP, JSON, XAML, XML, ASP, HTML, CSS, LESS, SCSS, JavaScript and TypeScript coding.
 * [StyleCop](https://stylecop.codeplex.com/) - StyleCop analyzes C# source code to enforce a set of style and consistency rules
-* [Gendarme ★61](https://github.com/spouliot/gendarme) - Extensible rule-based tool to find problems in .NET applications and libraries
+* [Gendarme ★61 ⏳6Y](https://github.com/spouliot/gendarme) - Extensible rule-based tool to find problems in .NET applications and libraries
 * [Metrics-Net ★267](https://github.com/Recognos/Metrics.NET) - Capturing CLR and application-level metrics. So you know what's going on.
 * [AspNet.Metrics ★10](https://github.com/alhardy/aspnet-metrics) - Capturing CLR, application-level web request metrics. Middleware and extensions using Metrics-Net
 * [BenchmarkDotNet ★1955](https://github.com/dotnet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
@@ -260,7 +268,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Testura.Code ★58](https://github.com/Testura/Testura.Code) - Wrapper around the Roslyn API and used for generation, saving and and compiling C# code. It provides methods and helpers to generate classes, methods, statements and expressions.
 * [VisualFSharp ★995](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools
 * [Fable ★818](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
-* [LinqOptimizer ★302](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
+* [LinqOptimizer ★302 ⏳1Y](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
 * [Roslyn-linq-rewrite ★467](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ## Compression
@@ -269,7 +277,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [DotNetZip.Semverd ★123](https://github.com/haf/DotNetZip.Semverd) - An open-source project that delivers a .NET library for handling ZIP files, and some associated tools. (fork of [**Unmaintained** DotNetZip](http://dotnetzip.codeplex.com))
 * [SharpZipLib](http://icsharpcode.github.io/SharpZipLib/) - a Zip, GZip, Tar and BZip2 library written entirely in C# for the .NET platform
 * [Snappy for Windows](https://snappy.angeloflogic.com) - Snappy compression library for .NET baked on PInvoke
-* [Snappy.Sharp ★68](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
+* [Snappy.Sharp ★68 ⏳1Y](https://github.com/jeffesp/Snappy.Sharp) - An implementation of Google's Snappy compression algorithm in C#.
 
 ## Continuous Integration
 * [TeamCity](http://www.jetbrains.com/teamcity/) - Ready to work, extensible and developer-friendly build server — out of the box **[$]**
@@ -427,7 +435,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## GUI
 
 * [MahApps.Metro ★3440](https://github.com/MahApps/MahApps.Metro) - Toolkit for creating Metro styled WPF apps
-* [Callisto ★343](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
+* [Callisto ★343 ⏳1Y](https://github.com/timheuer/callisto) - A control toolkit for Windows 8 XAML applications. Contains some UI controls to make it easier to create Windows UI style apps for the Windows Store in accordance with Windows UI guidelines.
 * [ObjectListView](http://objectlistview.sourceforge.net/cs/index.html) - ObjectListView is a C# wrapper around a .NET ListView. It makes the ListView much easier to use and teaches it some new tricks
 * [DockPanelSuite](http://dockpanelsuite.com/) - The Visual Studio inspired docking library for .NET WinForms
 * [AvalonEdit ★426](https://github.com/icsharpcode/AvalonEdit) - The WPF-based text editor component used in SharpDevelop
@@ -450,9 +458,9 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## HTML and CSS
 
 * [AngleSharp ★1335](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
-* [CsQuery ★946](https://github.com/jamietre/CsQuery) - HTML5 parser with jQuery style DOM interaction
+* [CsQuery ★946 ⏳1Y](https://github.com/jamietre/CsQuery) - HTML5 parser with jQuery style DOM interaction
 * [dotless ★656](https://github.com/dotless/dotless) - .NET Port of the ruby Less CSS lib http://www.dotlesscss.org
-* [ExCSS ★123](https://github.com/TylerBrinks/ExCSS) - CSS3 parser Library for C#
+* [ExCSS ★123 ⏳1Y](https://github.com/TylerBrinks/ExCSS) - CSS3 parser Library for C#
 * [FluentBootstrap](http://fluentbootstrap.com) - Makes the Bootstrap CSS framework easier to use from ASP.NET MVC or WebPages.
 * [HtmlAgilityPack](http://htmlagilitypack.codeplex.com/) - an agile HTML parser that builds a read/write DOM and supports plain XPATH or XSLT
 * [LibSass Host ★10](https://github.com/Taritsyn/LibSassHost) - .NET wrapper around the [libSass](http://sass-lang.com/libsass) library with the ability to support a virtual file system
@@ -503,7 +511,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [CppSharp ★729](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 * [Sharpen ★225](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
-* [CXXI ★169](https://github.com/mono/cxxi) - C++ interop framework
+* [CXXI ★169 ⏳5Y](https://github.com/mono/cxxi) - C++ interop framework
 * [pythonnet ★684](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
 
 ## IoC
@@ -548,7 +556,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 ## Machine Learning and Data Science
 * [Infer.NET](http://infernet.azurewebsites.net/default.aspx) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming. **[[Proprietary](http://infernet.azurewebsites.net/docs/Frequently%20Asked%20Questions.aspx)]** **[Free]** **[Research]**
 * [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
-* [Accord.NET Extensions ★206](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
+* [Accord.NET Extensions ★206 ⏳1Y](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 * [AForge.NET](http://www.aforgenet.com/) - Framework for developers and researchers in the fields of Computer Vision and Artificial Intelligence (image processing, neural networks, genetic algorithms, machine learning, robotics).
 * [Deedle](http://bluemountaincapital.github.io/Deedle/) - Data frame and (time) series library for exploratory data manipulation with C# and F# support
 * [FsLab](https://fslab.org/) - A collection of data science and machine learning libraries for F# and .NET
@@ -596,8 +604,8 @@ metadata in media files, including video, audio, and photo formats
 
 ## Misc
 * [CSharp Pad](http://csharppad.com) - A web based C# REPL with awesome code completion.
-* [AzureCrawler ★41](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
-* [BitSharp ★75](https://github.com/pmlyon/BitSharp) - C# Bitcoin Node
+* [AzureCrawler ★41 ⏳3Y](https://github.com/yagopv/AzureCrawler) - Take HTML Snapshots for your Angular, Ember, Durandal or any JavaScript applications
+* [BitSharp ★75 ⏳1Y](https://github.com/pmlyon/BitSharp) - C# Bitcoin Node
 * [CSScript](http://www.csscript.net/) - CS-Script is a CLR based scripting system which usesC# as a programming language. CS-Script currently targets Microsoft implementation of CLR (.NET 2.0/3.0/3.5/4.0/4.5) with full support on Mono. Comes with many additional features, such as script hosting.
 * [CsvHelper ★1202](https://github.com/JoshClose/CsvHelper) - Library to help reading and writing CSV files https://github.com/JoshClose/CsvHelper
 * [FlatMapper ★41](https://github.com/joaomatossilva/FlatMapper) - A library to import and export data from and to plain text files in a Linq compatible way.
@@ -767,7 +775,7 @@ metadata in media files, including video, audio, and photo formats
 ## Static Site Generators
 * [FsBlog ★92](https://github.com/fsprojects/FsBlog) - Blog aware, static site generation using F#
 * [Pretzel](https://github.com/Code52/pretzel) - A site generation tool (and then some) for .NET platforms
-* [Sandra.Snow ★226](https://github.com/Sandra/Sandra.Snow) - Jekyll inspired static site generation for .NET
+* [Sandra.Snow ★226 ⏳1Y](https://github.com/Sandra/Sandra.Snow) - Jekyll inspired static site generation for .NET
 * [Wyam](https://wyam.io/) - A simple to use, highly modular, and extremely configurable static content generator
 
 ## Style Guide
@@ -796,7 +804,7 @@ metadata in media files, including video, audio, and photo formats
 * [Fuchu ★78](https://github.com/mausch/Fuchu) - A unit-testing library for F# with tests-as-values which makes DSLs extemely easy to create.
 * [Machine.Specifications](https://github.com/machine/machine.specifications) - Machine.Specifications (MSpec) is a context/specification framework that removes language noise and simplifies tests.
 * [Moq ★1752](https://github.com/Moq/moq4) - The most popular and friendly mocking framework for .NET
-* [NBuilder ★31](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
+* [NBuilder ★31 ⏳1Y](https://github.com/garethdown44/nbuilder) - Rapid generation of test objects
 * [NCrunch](http://www.ncrunch.net) - An automated continuous & concurrent testing tool for Visual Studio. **[$]**
 * [NSubstitute](http://nsubstitute.github.io/) - A friendly substitute for .NET mocking frameworks
 * [NUnit ★949](https://github.com/nunit/nunit) - A unit-testing framework for all .Net languages
@@ -885,7 +893,7 @@ metadata in media files, including video, audio, and photo formats
 ## Other Lists
 
 * [.NET-libraries-that-make-your-life-easier ★251](https://github.com/tallesl/net-libraries-that-make-your-life-easier) - Open Source .NET libraries that make your life easier
-* [awesome-LINQ ★169](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
+* [awesome-LINQ ★169 ⏳1Y](https://github.com/aloisdg/awesome-linq) - A curated collection of awesome LINQ libraries, tools, and more.
 * [awesome-analyzers](https://github.com/Cybermaxs/awesome-analyzers) - A curated list of .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes.
 * [C# Algorithms, Data Structures ★1050](https://github.com/aalhour/C-Sharp-Algorithms) - A list of algorithms and data structures implementations.
 * [Awesome .NET Core ★1988](https://github.com/thangchung/awesome-dotnet-core) - A collection of awesome .NET core libraries, tools, frameworks and software
@@ -904,3 +912,7 @@ metadata in media files, including video, audio, and photo formats
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/quozd/awesome-dotnet">https://github.com/quozd/awesome-dotnet</a> with ranks
+</p>

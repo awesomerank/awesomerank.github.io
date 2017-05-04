@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/akullpp/awesome-java">https://github.com/akullpp/awesome-java</a> with ranks
+</p>
+---
 # Awesome Java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Java frameworks, libraries and software.
@@ -63,6 +70,7 @@ A curated list of awesome Java frameworks, libraries and software.
     - [Template Engine](#template-engine)
     - [Testing](#testing)
     - [Utility](#utility)
+    - [Version Managers](#version-managers)
     - [Web Crawling](#web-crawling)
     - [Web Frameworks](#web-frameworks)
 - [Resources](#resources)
@@ -357,7 +365,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Formal-methods tools: proof assistants, model checking, symbolic execution etc.*
 
-* [CATG ★46](https://github.com/ksen007/janala2) - Concolic unit testing engine. Automatically generates unit tests using formal methods.
+* [CATG ★46 ⏳1Y](https://github.com/ksen007/janala2) - Concolic unit testing engine. Automatically generates unit tests using formal methods.
 * [Checker Framework](http://types.cs.washington.edu/checker-framework/) - Pluggable type systems. Includes nullness types, physical units, immutability types and more.
 * [Daikon](http://plse.cs.washington.edu/daikon/) - Daikon detects likely program invariants and can generate JML specs based on those invariants.
 * [Java Path Finder (JPF)](http://babelfish.arc.nasa.gov/trac/jpf) - JVM formal verification tool containing a model checker and more. Created by NASA.
@@ -530,7 +538,6 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Design Patterns ★18472](https://github.com/iluwatar/java-design-patterns) - Implementation and explanation of the most common design patterns.
 * [Failsafe ★1676](https://github.com/jhalterman/failsafe) - Simple failure handling with retries and circuit breakers.
 * [J2ObjC ★4722](https://github.com/google/j2objc) - Java to Objective-C translator for porting Android libraries to iOS.
-* [jabba ★223](https://github.com/shyiko/jabba) - Java Version Manager inspired by nvm.
 * [javaslang-circuitbreaker](https://github.com/javaslang/javaslang-circuitbreaker) - Functional fault tolerance library.
 * [JavaX](http://javax.ai1.lol/) - Reinventing and extending Java with a focus on simplicity.
 * [JBake](http://jbake.org) - Static website generator.
@@ -563,6 +570,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 * [AppDynamics ![c]](https://www.appdynamics.com/) - Performance monitor.
 * [Glowroot](https://glowroot.org/) - Open source Java APM.
+* [Instrumental ![c]](https://instrumentalapp.com) - Real-time Java application performance monitoring. A commercial service with free development accounts.
 * [JavaMelody ★820](https://github.com/javamelody/javamelody) - Performance monitoring and profiling.
 * [jmxtrans ★1152](https://github.com/jmxtrans/jmxtrans) - Tool to connect to multiple JVMs and to query them for their attributes via JMX. Its query language is based on JSON, which allows non-Java programmers to access the JVMs attributes. Likewise, this tool supports different output writes, including Graphite, Ganglia, StatsD, among others.
 * [Jolokia](https://jolokia.org/) - JMX over REST.
@@ -652,7 +660,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [JITWatch ★1094](https://github.com/AdoptOpenJDK/jitwatch) - Analyze the JIT compiler optimisations made by the HotSpot JVM.
 * [JMH](http://openjdk.java.net/projects/code-tools/jmh/) - JMH is a Java harness for building, running, and analysing nano/micro/milli/macro benchmarks written in Java and other languages targeting the JVM.
 * [JProfiler ![c]](https://www.ej-technologies.com/products/jprofiler/overview.html) - Profiler.
-* [LatencyUtils ★272](https://github.com/LatencyUtils/LatencyUtils) - Utilities for latency measurement and reporting.
+* [LatencyUtils ★272 ⏳1Y](https://github.com/LatencyUtils/LatencyUtils) - Utilities for latency measurement and reporting.
 * [XRebel ![c]](http://zeroturnaround.com/software/xrebel/) - Profiler for web applications.
 * [YourKit Java Profiler ![c]](https://www.yourkit.com/features/) - Profiler.
 
@@ -769,15 +777,16 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Cukes-REST ★30](https://github.com/ctco/cukes-rest) - A collection of Gherkin steps for REST-service testing using Cucumber.
 * [Gatling](http://gatling.io/) - Load testing tool designed for ease of use, maintainability and high performance.
 * [GreenMail](http://www.icegreen.com/greenmail/) - In-memory email server for integration testing. Supports SMTP, POP3 and IMAP including SSL.
-* [J8Spec ★37](https://github.com/j8spec/j8spec) - J8Spec is a library that allows tests written in Java to follow the BDD style introduced by RSpec and Jasmine.
+* [J8Spec ★37 ⏳1Y](https://github.com/j8spec/j8spec) - J8Spec is a library that allows tests written in Java to follow the BDD style introduced by RSpec and Jasmine.
 * [JBehave](http://jbehave.org/) - Framework for Behavioural Driven Development.
 * [JFairy ★291](https://github.com/Codearte/jfairy) - Fake data generator.
+* [Fixture Factory ★195](https://github.com/six2six/fixture-factory) - Generates fake objects from a template.
 * [JGiven](http://jgiven.org) - Developer-friendly BDD testing framework compatible with JUnit and TestNG.
 * [JMockit](http://jmockit.org/) - Mocks static, final methods and more.
 * [JSONAssert](http://jsonassert.skyscreamer.org/) - Simplifies testing of JSON strings.
 * [junit-dataprovider ★118](https://github.com/TNG/junit-dataprovider) - A TestNG like dataprovider runner for JUnit.
 * [JUnitParams](https://pragmatists.github.io/JUnitParams/) - Creation of readable and maintainable parametrised tests.
-* [Lamdba Behave ★188](https://github.com/RichardWarburton/lambda-behave) - Descriptive behavioural specification framework.
+* [Lamdba Behave ★188 ⏳1Y](https://github.com/RichardWarburton/lambda-behave) - Descriptive behavioural specification framework.
 * [Mockito ★4523](https://github.com/mockito/mockito) - Creation of test double objects in automated unit tests for the purpose of TDD or BDD.
 * [MockServer](http://www.mock-server.com/) - Allows mocking of systems that are integrated with HTTP/S.
 * [Moco ★1691](https://github.com/dreamhead/moco) - Concise web services for stubs and mocks, Duke's Choice Award 2013.
@@ -809,6 +818,14 @@ A curated list of awesome Java frameworks, libraries and software.
 * [minio-java ★48](https://github.com/minio/minio-java) - Provides simple APIs to access any Amazon S3 compatible object storage server.
 * [Protégé](http://protege.stanford.edu/) - Provides an ontology editor and a framework to build knowledge-based systems.
 * [Underscore-java ★131](https://github.com/javadev/underscore-java) - Port of Underscore.js functions.
+
+## Version Managers
+
+*Utilities that help setup the development shell environment and switch between different Java versions.*
+
+* [jabba ★223](https://github.com/shyiko/jabba) - Java Version Manager inspired by nvm. Supports Mac OS X, Linux, Windows.
+* [jenv ★1431](https://github.com/gcuisinier/jenv) - Java Version Manager inspired by rbenv. Can configure globally or per project. Tested on Debian and Mac OS X.
+* [SDKMan ★1358](https://github.com/sdkman/sdkman-cli) - Java Version Manager inspired by RVM and rbenv. Supports UNIX-based platforms and Windows.
 
 ## Web Crawling
 
@@ -926,3 +943,7 @@ Contributions are very welcome!
 Please have a look at [CONTRIBUTING](https://github.com/akullpp/awesome-java/blob/master/CONTRIBUTING.md) for guidelines.
 
 [c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/akullpp/awesome-java">https://github.com/akullpp/awesome-java</a> with ranks
+</p>

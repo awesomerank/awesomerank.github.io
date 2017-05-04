@@ -1,10 +1,17 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/Siddharth11/Colorful">https://github.com/Siddharth11/Colorful</a> with ranks
+</p>
+---
 <p align="center">
 	<img src="color-palette.gif" alt="header image">
 </p>
 
 # Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 __A curated list of awesome resources to choose your next color scheme.__  
-Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](contributing.md)__ before contributing.
+Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
 
 ## Table of Contents
 - [Tools](#tools)
@@ -20,7 +27,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [GradStop.js ★78](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-- [Coloor ★334](https://github.com/krasimir/coloor) - Image preloading utility.
+- [Coloor ★334 ⏳1Y](https://github.com/krasimir/coloor) - Image preloading utility.
 - [Color Thief ★5586](https://github.com/lokesh/color-thief) - Grab color palette from an image.
 - [Colorify.js ★703](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
 - [Colofilter.css ★558](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
@@ -119,3 +126,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
 Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/Siddharth11/Colorful">https://github.com/Siddharth11/Colorful</a> with ranks
+</p>

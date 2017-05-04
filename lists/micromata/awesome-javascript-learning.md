@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/micromata/awesome-javascript-learning">https://github.com/micromata/awesome-javascript-learning</a> with ranks
+</p>
+---
 # Awesome JavaScript Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 > An awesome list limited to the best JavaScript learning resources
@@ -100,3 +107,7 @@ Thin books which you can get through in a few days.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/micromata/awesome-javascript-learning">https://github.com/micromata/awesome-javascript-learning</a> with ranks
+</p>

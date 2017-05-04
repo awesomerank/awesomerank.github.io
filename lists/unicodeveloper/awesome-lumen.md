@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/unicodeveloper/awesome-lumen">https://github.com/unicodeveloper/awesome-lumen</a> with ranks
+</p>
+---
 # Awesome lumen [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 > Curated list of resources: books, videos, articles about using Lumen ( PHP Microframework by Laravel )
@@ -50,9 +57,9 @@
 ## Packages and Middleware
 * [Lumen Cors ★38](https://github.com/vluzrmos/lumen-cors) - A simple lumen CORS
 * [Alternative Lumen Cors ★54](https://github.com/palanik/lumen-cors) - CORS Middleware for Lumen micro-framework
-* [Phpspec Lumen ★0](https://github.com/pmartelletti/phpspec-lumen) - Test your Lumen app with phpspec
-* [Understand Lumen ★5](https://github.com/understand/understand-lumen) - Laravel Lumen service provider for Understand.io
-* [Badge Poser ★5](https://github.com/vluzrmos/laravel-badge-poser) - Lumen Badge Generator
+* [Phpspec Lumen ★0 ⏳1Y](https://github.com/pmartelletti/phpspec-lumen) - Test your Lumen app with phpspec
+* [Understand Lumen ★5 ⏳1Y](https://github.com/understand/understand-lumen) - Laravel Lumen service provider for Understand.io
+* [Badge Poser ★5 ⏳1Y](https://github.com/vluzrmos/laravel-badge-poser) - Lumen Badge Generator
 * [Cors Illuminate](https://github.com/neomerx/cors-illuminate) - CORS (Cross-Origin Resource Sharing) support for Laravel and Lumen
 * [Jwt Artisan ★126](https://github.com/generationtux/jwt-artisan) - JWT auth for Laravel and Lumen
 * [Facebook SDK ★507](https://github.com/SammyK/LaravelFacebookSdk) - Facebook SDK for Laravel and Lumen
@@ -61,7 +68,7 @@
 * [Lumen Tinker ★57](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework
 * [Lumen Maintenance Mode ★8](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode
 * [Lumen Vendor Publish ★85](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework.
-* [Lumen Make ★13](https://github.com/michaelbonds/lumen-make) - Ports most of the make commands from Laravel to Lumen. 
+* [Lumen Make ★13 ⏳1Y](https://github.com/michaelbonds/lumen-make) - Ports most of the make commands from Laravel to Lumen. 
 * [Lumen File Manager ★35](https://github.com/nordsoftware/lumen-file-manager) - File manager module for the Lumen PHP framework.
 * [Lumen 5.2 HTTP Basic Auth Guard ★22](https://github.com/arubacao/http-basic-auth-guard) - Brings back basic authentication for Lumen 5.2.
 * [Larasupport ★46](https://github.com/irazasyed/larasupport) - Adds Laravel Packages Support to Lumen and Other Helpers.
@@ -70,9 +77,9 @@
 
 ## Made With Lumen
 * [Slack Invitator ★53](https://github.com/vluzrmos/lumen-slackin) - A Slack Invitator made with Lumen Framework
-* [Email Microservice ★32](https://github.com/rlacerda83/lumen-email-microservice) - Microservice for sending emails with Lumen
-* [Lissandra ★12](https://github.com/laravelista/Lissandra) - API for Laracasts Feed built with Lumen.
-* [Lumen Solder ★1](https://github.com/TechnicPack/LumenSolder) - An implementation of Solder in Laravel's Lumen Framework.
+* [Email Microservice ★32 ⏳1Y](https://github.com/rlacerda83/lumen-email-microservice) - Microservice for sending emails with Lumen
+* [Lissandra ★12 ⏳2Y](https://github.com/laravelista/Lissandra) - API for Laracasts Feed built with Lumen.
+* [Lumen Solder ★1 ⏳1Y](https://github.com/TechnicPack/LumenSolder) - An implementation of Solder in Laravel's Lumen Framework.
 
 
 ## Books
@@ -105,3 +112,7 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This work (Awesome Lumen) is free of known copyright restrictions.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/unicodeveloper/awesome-lumen">https://github.com/unicodeveloper/awesome-lumen</a> with ranks
+</p>

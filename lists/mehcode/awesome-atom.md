@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/mehcode/awesome-atom">https://github.com/mehcode/awesome-atom</a> with ranks
+</p>
+---
 # Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome ★57421](https://github.com/sindresorhus/awesome).
@@ -210,3 +217,7 @@ JavaScript, and much more in Atom.
 
 #### [Tree View Search Bar](https://atom.io/packages/tree-view-search-bar)
 > Quick look in tree view.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/mehcode/awesome-atom">https://github.com/mehcode/awesome-atom</a> with ranks
+</p>

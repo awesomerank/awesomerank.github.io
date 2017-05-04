@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/addyosmani/critical-path-css-tools">https://github.com/addyosmani/critical-path-css-tools</a> with ranks
+</p>
+---
 Critical-path (Above-the-fold) CSS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 ==========================================
 
@@ -33,11 +40,11 @@ The following is a list of tools to help generate, inline and report on critical
 
 ## CasperJS
 
-* [critical-css-casperjs ★69](https://github.com/ibrennan/critical-css-casperjs) - CasperJS script to pull critical CSS information from pages
+* [critical-css-casperjs ★69 ⏳3Y](https://github.com/ibrennan/critical-css-casperjs) - CasperJS script to pull critical CSS information from pages
 
 ## PhantomJS
 
-* [dr-css-inliner ★70](https://github.com/drdk/dr-css-inliner) - PhantomJS script to inline above-the-fold CSS on a page.
+* [dr-css-inliner ★70 ⏳2Y](https://github.com/drdk/dr-css-inliner) - PhantomJS script to inline above-the-fold CSS on a page.
 
 ## Inline sources (styles, scripts)
 
@@ -52,8 +59,8 @@ Async loading should be used to fetch the rest of your site-wide styles after yo
 
 * [loadCSS ★4211](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS. [Research](https://gist.github.com/scottjehl/87176715419617ae6994) that led to this is also available.
 * [async & conditional loading](https://gist.github.com/matt-bailey/602b40c77a5d3381ff26) - POC script for loading CSS files asynchronously and conditionally based on body tag classes
-* [asyncLoader ★0](https://github.com/n0mad01/asyncLoader) - async script/stylesheet loader
-* [basket.js](http://addyosmani.github.io/basket.js/) - async script/resource loader with support for localStorage caching. Can be [extended ★21](https://github.com/andrewwakeling/basket-css-example) to load stylesheets.
+* [asyncLoader ★0 ⏳2Y](https://github.com/n0mad01/asyncLoader) - async script/stylesheet loader
+* [basket.js](http://addyosmani.github.io/basket.js/) - async script/resource loader with support for localStorage caching. Can be [extended ★21 ⏳3Y](https://github.com/andrewwakeling/basket-css-example) to load stylesheets.
 
 Note: The Guardian currently also cache their global styles into localStorage for subsequent page loads. More info in this [comment](https://gist.github.com/scottjehl/87176715419617ae6994).
 
@@ -65,7 +72,7 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 * [Snippet](https://gist.github.com/PaulKinlan/6284142) by Paul Kinlan. Patrick Hamann has an [exercise](http://patrickhamann.com/workshops/performance/tasks/2_Critical_Path/2_2.html) using the snippet you can try out.
 * [Snippet](https://gist.github.com/scottjehl/b6129da04733e4e0f9a4) by Scott Jehl
-* [CSSVacuum ★37](https://github.com/ndreckshage/CSSVacuum) by ndreckshage
+* [CSSVacuum ★37 ⏳3Y](https://github.com/ndreckshage/CSSVacuum) by ndreckshage
 
 ## Render-blocking issues detection
 
@@ -78,3 +85,7 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 * [UnCSS](https://github.com/giakki/uncss) removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss), [Gulp ★942](https://github.com/ben-eb/gulp-uncss) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/addyosmani/critical-path-css-tools">https://github.com/addyosmani/critical-path-css-tools</a> with ranks
+</p>

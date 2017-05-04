@@ -1,10 +1,17 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/RichardLitt/awesome-fantasy">https://github.com/RichardLitt/awesome-fantasy</a> with ranks
+</p>
+---
 # awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > Fantasy literature worth reading
 
 *Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi ★1339](https://github.com/sindresorhus/awesome-scifi).*
 
-*Please read the [Contributing Guidelines](contributing.md) before contributing.*
+*Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/contributing.md) before contributing.*
 
 ## Contents
 
@@ -497,3 +504,7 @@ Try the [top 100 sci-fi and fantasy books as picked by NPR listeners](http://www
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/RichardLitt/awesome-fantasy">https://github.com/RichardLitt/awesome-fantasy</a> with ranks
+</p>

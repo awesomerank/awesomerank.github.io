@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/benoitjadinon/awesome-xamarin">https://github.com/benoitjadinon/awesome-xamarin</a> with ranks
+</p>
+---
 # awesome-xamarin
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/benoitjadinon/awesome-xamarin.svg?branch=master)](https://travis-ci.org/benoitjadinon/awesome-xamarin)
 
@@ -224,3 +231,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, Benoit Jadinon has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/benoitjadinon/awesome-xamarin">https://github.com/benoitjadinon/awesome-xamarin</a> with ranks
+</p>

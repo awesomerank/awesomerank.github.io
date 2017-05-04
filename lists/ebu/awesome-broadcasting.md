@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ebu/awesome-broadcasting">https://github.com/ebu/awesome-broadcasting</a> with ranks
+</p>
+---
 # Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome open source resources for broadcasters.
 
@@ -55,17 +62,17 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 ## DVB & WiFi
 
-* [DTT 2 IP ★8](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage.
+* [DTT 2 IP ★8 ⏳1Y](https://github.com/ebu/dtt2ip) - Broadcast to IP conversion for Wifi indoor coverage.
 * [DVB Inspector](https://sourceforge.net/projects/dvbinspector/) - DVB Inspector is an open-source DVB analyzer.
 * [DVBlast](http://www.videolan.org/projects/dvblast.html) - DVBlast is a simple and powerful MPEG-2/TS demux and streaming application.
-* [dvbshout ★4](https://github.com/njh/dvbshout) - Send DVB audio to a shoutcast server or a RTP stream.
+* [dvbshout ★4 ⏳5Y](https://github.com/njh/dvbshout) - Send DVB audio to a shoutcast server or a RTP stream.
 * [Opencaster](http://www.avalpa.com/the-key-values/15-free-software/33-opencaster) - OpenCaster is a free and open source MPEG2 transport stream data generator and packet manipulator.
 * [Project X](https://sourceforge.net/projects/project-x/) - DVB demux tool.
 * [WiFiBroadcast](https://befinitiv.wordpress.com/wifibroadcast-analog-like-transmission-of-live-video-data/) - Analog-like transmission of live video data.
 
 ## Animation, Graphics & Video Playout
 
-* [Aurena ★75](https://github.com/thaytan/aurena) - Aurena is a network distributed media playback system.
+* [Aurena ★75 ⏳1Y](https://github.com/thaytan/aurena) - Aurena is a network distributed media playback system.
 * [Blender](https://developer.blender.org/diffusion/) - 3D creation suite supporting 3D pipeline—modelling, rigging, animation, simulation, rendering, compositing and motion tracking, even video editing and game creation.
 * [CasparCG](http://www.casparcg.com/) - CasparCG is a professional graphics and video play-out software, proven in 24/7 broadcasts since 2006.
 * [i-Score](http://i-score.org/) - A free and open-source intermedia sequencer.
@@ -73,15 +80,15 @@ A curated list of amazingly awesome open source resources for broadcasters.
 ## Hybrid Radio
 
 * [RadioDNS for Node.js ★1](https://github.com/bbc/node-radiodns) - Perform RadioDNS resolutions and service lookups in node.js.
-* [RadioDNS Manager ★6](https://github.com/ebu/radiodns-plugit) - A platform to manage Hybrid Radio static services such as RadioVIS, RadioEPG and Service Following.
-* [RadioTag.js ★6](https://github.com/ebu/radiotag.js) - RadioTag client library in JavaScript.
-* [RadioVIS Html Player ★6](https://github.com/ebu/radiovis-html5player) - RadioVIS Player using WebSocket.
+* [RadioDNS Manager ★6 ⏳1Y](https://github.com/ebu/radiodns-plugit) - A platform to manage Hybrid Radio static services such as RadioVIS, RadioEPG and Service Following.
+* [RadioTag.js ★6 ⏳1Y](https://github.com/ebu/radiotag.js) - RadioTag client library in JavaScript.
+* [RadioVIS Html Player ★6 ⏳2Y](https://github.com/ebu/radiovis-html5player) - RadioVIS Player using WebSocket.
 * [RadioVIS Demo ★13](https://github.com/bbc/RadioVisDemo) - RadioVIS client application in Python.
 * [RadioVIS Stomp Server ★4](https://github.com/bbc/node-radiovis-stomp-server) - RadioVIS STOMP server written in node.js.
 
 ## Media Players
 
-* [Dash.js ★6](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
+* [Dash.js ★6 ⏳1Y](https://github.com/ebu/dash.js) - A reference client implementation for the playback of MPEG DASH via Javascript and compliant browsers.
 * [Kodi ★5836](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
 * [Media4DPlayer ★2](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
 * [Peaks.js](http://waveform.prototyping.bbc.co.uk/) - Browser-based audio waveform visualisation.
@@ -95,7 +102,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [EBUCore ★6](https://github.com/ebu/ebucore) - the Github for maintenance of the [EBUCore schema](https://tech.ebu.ch/docs/tech/tech3293.pdf).
 * [jebu-core ★1](https://github.com/mikrosimage/jebu-core) - EBUCore XML Schema Java port. Java port of [TECH 3293](https://tech.ebu.ch/publications/tech3293) EBU CORE METADATA SET (EBUCore) SPECIFICATION v. 1.5, including new [Audio Definition Model](https://tech.ebu.ch/docs/tech/tech3364.pdf).
 * [Ledger ★11](https://github.com/Streampunk/ledger) - Node.js implementation of the NMOS registration and discovery specifications.
-* [MAJ API ★1](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
+* [MAJ API ★1 ⏳1Y](https://github.com/AMWA-TV/maj) - Pure Java library for reading and writing MXF and AAF files.
 * [TV-Anytime ★2](https://github.com/ebu/tvanytime) - The tv-anytime schema github maintenance page.
 
 ## Multimedia content processing
@@ -137,7 +144,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [QCTools ★78](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
 * [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
 * [VMAF ★291](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.
-* [Wisual ★3](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
+* [Wisual ★3 ⏳1Y](https://github.com/MarcAntoine-Arnaud/wisual) - A web service for Visual Quality Assessment, which supports PSNR, SSIM, VQM, etc.
 
 ## Radio Production
 
@@ -155,8 +162,8 @@ A curated list of amazingly awesome open source resources for broadcasters.
 
 * [CCExtractor](http://ccextractor.sourceforge.net/about-ccextractor.html) - A tool that analyzes video files and produces stand-alone subtitle files.
 * [GStreamer TTML subtitling package](https://github.com/bbc/gst-ttml-subtitles) - A means for GStreamer pipelines to parse and render  EBU-TT-D (TTML) subtitles. 
-* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - The original fork of dash.js to experiment with XML based subtitles like EBU-TT-D within dash.js. Uses an HTML/CSS overlay. Has since been integrated into [dash.js ★6](https://github.com/ebu/dash.js).
-* [EBU-TT-D W3C XML Schema ★6](https://github.com/ebu/ebu-tt-d-xsd) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
+* [EBU-TT-D Subtitling within dash.js](https://github.com/ebu/dash.js/tree/ebu-subtitling-dev) - The original fork of dash.js to experiment with XML based subtitles like EBU-TT-D within dash.js. Uses an HTML/CSS overlay. Has since been integrated into [dash.js ★6 ⏳1Y](https://github.com/ebu/dash.js).
+* [EBU-TT-D W3C XML Schema ★6 ⏳1Y](https://github.com/ebu/ebu-tt-d-xsd) - Informative EBU-TT-D XML Schema to support the implementation of EBU Tech 3380.
 * [EBU-TT Live Interoperability Toolkit ★9](https://github.com/ebu/ebu-tt-live-toolkit) - A set of components for generating, testing and distributing subtitle documents in the [EBU-TT Live](https://tech.ebu.ch/publications/tech3370) format.
 * [imscJS ★9](https://github.com/sandflow/imscJS) - JavaScript library for rendering IMSC1 Text and Image Profile documents to HTML5.
 * [IRT EBU-TT-D Application Samples ★4](https://github.com/IRT-Open-Source/irt-ebu-tt-d-application-samples) - EBU-TT-D sample files, related PNG images and mp4 videos showing how they should be rendered.
@@ -184,3 +191,7 @@ Various resources, such as books, websites and articles, for improving your skil
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ebu/awesome-broadcasting">https://github.com/ebu/awesome-broadcasting</a> with ranks
+</p>

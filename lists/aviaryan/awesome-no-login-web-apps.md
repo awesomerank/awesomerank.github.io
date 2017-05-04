@@ -1,7 +1,14 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/aviaryan/awesome-no-login-web-apps">https://github.com/aviaryan/awesome-no-login-web-apps</a> with ranks
+</p>
+---
 # Awesome Web Apps (that work without login)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
-[![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](CONTRIBUTING.md)
+[![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/CONTRIBUTING.md)
 [![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Curated list of awesome web apps that work without requesting you to create an account. 
@@ -168,6 +175,7 @@ Powershell, Redis and lots others. Also has a good collection of IDEs for progra
 * [Archive.org](https://archive.org/) `[Account]` - Unlimited file hosting of any type, no limits on bandwidth and upload size.
 * [imgh](https://imgh.us/) - Image hosting service. Supports all major formats. File size limit is 16mb.
 * [SnapDrop](https://snapdrop.net/) - Open source local file sharing inspired by Apple's Airdrop, similar to SHAREit on Android.
+* [MultCloud](https://www.multcloud.com/home) - Cloud service to manage, move, copy and migrate data between multiple cloud services. Supports all major cloud services. No sign-up required, 2TB cloud storage, download large files directly to the cloud, no size restrictions.
 
 
 ### Audio and Video
@@ -249,3 +257,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/aviaryan/awesome-no-login-web-apps">https://github.com/aviaryan/awesome-no-login-web-apps</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/SrinivasanTarget/awesome-appium">https://github.com/SrinivasanTarget/awesome-appium</a> with ranks
+</p>
+---
 # Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
 
 [<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
@@ -30,7 +37,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 - [Python ★309](https://github.com/appium/python-client)
 - [Java ★321](https://github.com/appium/java-client)
 - [JavaScript](http://webdriver.io/)
-- [Objective C ★54](https://github.com/appium/selenium-objective-c)
+- [Objective C ★54 ⏳1Y](https://github.com/appium/selenium-objective-c)
 - [PHP ★23](https://github.com/appium/php-client)
 - [C# (.NET) ★70](https://github.com/appium/appium-dotnet-driver)
 - [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary)
@@ -88,8 +95,8 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 - [Appium Tests in AWS Device Farm ★32](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
 - [Appium Tests in OpenSTF Device Farm ★36](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm.
 - [Appium Docker Demo ★49](https://github.com/vbanthia/appium-docker-demo) - Appium sample test running on real devices inside docker container.
-- [Appium Docker File ★5](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
-- [Appium Docker File ★5](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
+- [Appium Docker File ★5 ⏳2Y](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
+- [Appium Docker File ★5 ⏳1Y](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
 - [Dockerising Appium](http://shashikantjagtap.net/dockerising-appium-talk-at-appium-london-meetup/) - Dockerising Appium.
 - [Docker Appium with multiple SDK's](https://github.com/SrinivasanTarget/docker-appium) - DockerFile for Appium Android
 
@@ -110,10 +117,14 @@ Contribute some ;)
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/SrinivasanTarget/awesome-appium/blob/master/contributing.md) first.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Srinivasan Sekar](https://github.com/SrinivasanTarget) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/SrinivasanTarget/awesome-appium">https://github.com/SrinivasanTarget/awesome-appium</a> with ranks
+</p>

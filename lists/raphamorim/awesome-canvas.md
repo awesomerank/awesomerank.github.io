@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/raphamorim/awesome-canvas">https://github.com/raphamorim/awesome-canvas</a> with ranks
+</p>
+---
 # Awesome Canvas
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
@@ -41,15 +48,15 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Canvas Loader](http://cssdeck.com/labs/full/4do6cnjm) [[show me the code](http://cssdeck.com/labs/4do6cnjm)] • Reference to make loaders using canvas.
 * [Circular Rings](http://cssdeck.com/labs/full/zeaklousedit) [[show me the code](http://cssdeck.com/labs/zeaklousedit)] • A great example about how to create circular rings using canvas.
 * [Cloth 3D Effect](http://gyu.que.jp/jscloth/) (Google Chrome strongly recommended) • Thid demo renders a 3d model of Apple iPod with sphere environmental mapping technique.
-* [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) [[show me the code ★8](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
-* [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) [[show me the code ★8](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
+* [Cloth Effect](http://raphamorim.io/canvas-experiments/cloth) [[show me the code ★8 ⏳1Y](https://github.com/raphamorim/canvas-experiments)] • A cloth 3D effect fork.
+* [Colorful Particles](http://raphamorim.io/canvas-experiments/particles) [[show me the code ★8 ⏳1Y](https://github.com/raphamorim/canvas-experiments)] • Experiment show how to generates random particles. Very simple code for assimilate.
 * [Distance Field Waves](http://www.kevs3d.co.uk/dev/shaders/distancefield3.html) [[show me the code](https://github.com/kevinroast/webglshaders/blob/master/distancefield3.html)] • A example about GPU rendering shader experiments with procedural 3D scene generation using ray marching and distance field (also known as 'sphere tracing') rendering techniques.
-* [Draw Table](http://raphamorim.io/canvas-experiments/draw) - [[show me the code ★8](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
+* [Draw Table](http://raphamorim.io/canvas-experiments/draw) - [[show me the code ★8 ⏳1Y](https://github.com/raphamorim/canvas-experiments)] • A simple example about events using canvas.
 * [Fibrous Texture](http://cssdeck.com/labs/full/fibrous) [[show me the code](http://cssdeck.com/labs/fibrous)] • Simple canvas based animation; draws random lines across the field. Makes an interesting papery pattern that becomes increasingly detailed with each iteration.
 * [Image Nodes](http://cssdeck.com/labs/full/image-nodes) [[show me the code](http://cssdeck.com/labs/image-nodes)] • Interactive nodes built from image data. Use the mouse to play.
-* [Inception](http://raphamorim.io/canvas-experiments/inception) [[show me the code ★8](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie 
+* [Inception](http://raphamorim.io/canvas-experiments/inception) [[show me the code ★8 ⏳1Y](https://github.com/raphamorim/canvas-experiments)] • Generates a scrawl of a city, a canvas HTML5 experiment. Based on Inception movie 
 * [JS Metaballs](http://cssdeck.com/labs/full/js-metaballs) [[show me the code](http://cssdeck.com/labs/js-metaballs)] • Experiment for Chrome. Mix of webkit-filter and canvas for a metaballs effect.
-* [Just Canvas](http://raphamorim.io/just-canvas/) [[show me the code ★12](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
+* [Just Canvas](http://raphamorim.io/just-canvas/) [[show me the code ★12 ⏳1Y](https://github.com/raphamorim/just-canvas)]• This is a JavaScript experiment to capture movements. Just Dance Idea + HTML5 Canvas Implementation.
 * [Linjer](http://lab.hakim.se/linjer/) • Amazing experiment about nodes effects in addition with cloth and animation effect.
 * [Liquid Particles](http://spielzeugz.de/html5/liquid-particles.html) • A good example about Liquid Particles.
 * [LucidChart](http://www.lucidchart.com/documents/demo) • A complete tool to draw diagrams and other geometric forms, made in canvas.
@@ -60,7 +67,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 * [Particles.js](http://codepen.io/VincentGarreau/full/pnlso/) [[show me the code](http://codepen.io/VincentGarreau/pen/pnlso)] • Beautiful particles created usign canvas.
 * [Ping Pong Game](http://cssdeck.com/labs/full/ping-pong-game-tutorial-with-html5-canvas-and-sounds) [[show me the code](http://cssdeck.com/labs/ping-pong-game-tutorial-with-html5-canvas-and-sounds)] • Besides being a good example, it also is a tutorial about game made with canvas.
 * [Pirates Love Daisies](http://www.pirateslovedaisies.com/) • A entire game created using canvas
-* [Raining Day](http://raphamorim.io/raining-day/) [[show me the code ★8](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
+* [Raining Day](http://raphamorim.io/raining-day/) [[show me the code ★8 ⏳1Y](https://github.com/raphamorim/canvas-experiments)] • Raindrops using canvas. It's Neatnait Canvas Rain fork.
 * [Space Noodles](http://www.spielzeugz.de/html5/space-noodles/) • Amazig example about line movement and animation.
 * [Tree in the Breeze](http://cssdeck.com/labs/full/fjqj6ifd) [[show me the code](http://cssdeck.com/labs/fjqj6ifd)] • Demo about generating 2D trees in canvas.
 * [Video Destruction](http://www.craftymind.com/factory/html5video/CanvasVideo.html) • Block based destruction of HTML5 video, best viewed in webkit based browsers.
@@ -90,7 +97,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     - [Some amazing examples](http://threejs.org/examples/)
-- [Visualize ★349](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
+- [Visualize ★349 ⏳2Y](https://github.com/filamentgroup/jQuery-Visualize) is a JQuery plugin who creates charts and graphs from tabular data using the HTML canvas element.
 
 
 ### For other purposes, but still use canvas
@@ -148,3 +155,7 @@ Where to discover more about Canvas.
 ## License
 
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/raphamorim/awesome-canvas">https://github.com/raphamorim/awesome-canvas</a> with ranks
+</p>

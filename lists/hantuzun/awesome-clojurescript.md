@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/hantuzun/awesome-clojurescript">https://github.com/hantuzun/awesome-clojurescript</a> with ranks
+</p>
+---
 <img src="https://avatars2.githubusercontent.com/u/12118456?v=3&s=75"
      align="right"/>
 
@@ -53,7 +60,7 @@
 
 
 ### Data Serialization
-- [Cljson ★65](https://github.com/tailrecursion/cljson) – Clojure/ClojureScript library for accelerated browser data deserialization.
+- [Cljson ★65 ⏳1Y](https://github.com/tailrecursion/cljson) – Clojure/ClojureScript library for accelerated browser data deserialization.
 - [Transit ★198](https://github.com/cognitect/transit-cljs) – A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 
@@ -63,7 +70,7 @@
 
 ### Database
 - [Datascript ★2561](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
-- [Jaki ★12](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
+- [Jaki ★12 ⏳4Y](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 - [Konserve ★55](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
 
 
@@ -79,12 +86,12 @@
 
 
 ### Document Object Model
-- [cljs-binding ★57](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
-- [Crate ★206](https://github.com/ibdknox/crate) – A ClojureScript implementation of Hiccup.
-- [Dominator ★72](https://github.com/dubiousdavid/dominator) – Virtual-Dom in ClojureScript.
+- [cljs-binding ★57 ⏳4Y](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
+- [Crate ★206 ⏳1Y](https://github.com/ibdknox/crate) – A ClojureScript implementation of Hiccup.
+- [Dominator ★72 ⏳1Y](https://github.com/dubiousdavid/dominator) – Virtual-Dom in ClojureScript.
 - [Dommy ★727](https://github.com/plumatic/dommy) – A no-nonsense ClojureScript templating and DOM manipulation library.
 - [Enfocus](http://ckirkendall.github.io/enfocus-site/) – A DOM manipulation and templating library for ClojureScript inspired by Enlive.
-- [Freactive ★371](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
+- [Freactive ★371 ⏳1Y](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 - [Hiccups ★141](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
 - [Hickory ★281](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 - [json-html ★85](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.
@@ -111,8 +118,8 @@
 ### JavaScript Interoperability
 - [CLJSJS](http://cljsjs.github.io/) – An easy way for Clojurescript developers to depend on Javascript libraries.
 - [Jayq ★392](https://github.com/ibdknox/jayq) – A ClojureScript wrapper for jQuery.
-- [Purnam ★270](https://github.com/zcaudate/purnam) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
-- [Pylon ★35](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
+- [Purnam ★270 ⏳2Y](https://github.com/zcaudate/purnam) – A ClojureScript library designed to provide better clojurescript/javascript interop, testing and documentation tools.
+- [Pylon ★35 ⏳4Y](https://github.com/bodil/pylon) – A Javascript class system in 100% Clojurescript.
 
 
 ### Miscellaneous
@@ -145,9 +152,9 @@
 ### Reactive Programming
 - [Javelin ★583](https://github.com/hoplon/javelin) – A Functional Reactive Programming library for ClojureScript.
 - [Manifold-cljs](https://github.com/dm3/manifold-cljs) — A port of [Manifold ★461](https://github.com/ztellman/manifold) to ClojureScript.
-- [Reagi ★206](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
+- [Reagi ★206 ⏳1Y](https://github.com/weavejester/reagi) – An FRP library for Clojure and ClojureScript, built on top of core.async.
 - [rx-cljs](https://github.com/leonardoborges/rx-cljs) – A ClojureScript wrapper for Reactive Extensions (Rx) for Javascript.
-- [Yolk ★45](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
+- [Yolk ★45 ⏳3Y](https://github.com/Cicayda/yolk) – A thin ClojureScript wrapper around bacon.js.
 
 
 ### Routing
@@ -161,9 +168,9 @@
 - [component](https://github.com/stuartsierra/component) – Managed lifecycle of stateful objects in Clojure(Script).
 - [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
 - [mount ★598](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
-- [plato ★24](https://github.com/eneroth/plato) – Incrementally persists atom state to Local Storage in ClojureScript.
+- [plato ★24 ⏳2Y](https://github.com/eneroth/plato) – Incrementally persists atom state to Local Storage in ClojureScript.
 - [storage-atom ★142](https://github.com/alandipert/storage-atom) – ClojureScript atoms backed by HTML5 web storage.
-- [Waltz ★93](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
+- [Waltz ★93 ⏳5Y](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
 
 
 ### Testing
@@ -179,18 +186,18 @@
 
 
 ### Web Framework & Template
-- [atw-om ★40](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
+- [atw-om ★40 ⏳2Y](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
 - [Chestnut ★1038](https://github.com/plexus/chestnut) – An Application template for ClojureScript/Om with live reloading.
 - [Clops ★126](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
 - [descjop ★287](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
-- [electron-template ★91](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
+- [electron-template ★91 ⏳1Y](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
 - [Macchiato ★141](https://github.com/macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 - [Mies ★315](https://github.com/swannodette/mies) – A minimal ClojureScript project template.
 - [re-frame ★2377](https://github.com/Day8/re-frame) – A Reagent Framework For Writing SPAs, in Clojurescript.
 - [Tenzing](http://martinklepsch.github.io/tenzing/) – A ClojureScript template with no backend that uses Boot.
-- [WebFUI ★225](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
+- [WebFUI ★225 ⏳4Y](https://github.com/drcode/webfui) – Client-Side Web Framework for ClojureScript.
 
 
 ### WebSockets
@@ -202,7 +209,7 @@
 
 
 ## Contributing
-All contributions are welcome. Please read [Contributing](CONTRIBUTING.md) before opening a pull request.
+All contributions are welcome. Please read [Contributing](https://github.com/hantuzun/awesome-clojurescript/blob/master/CONTRIBUTING.md) before opening a pull request.
 
 
 ## License
@@ -211,3 +218,7 @@ All contributions are welcome. Please read [Contributing](CONTRIBUTING.md) befor
 [Han Tuzun](http://hantuzun.com) has dedicated the work to the public domain by waiving all of his rights to the work worldwide under copyright law, including all related and neighboring rights, to the extent allowed by law.
 
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/hantuzun/awesome-clojurescript">https://github.com/hantuzun/awesome-clojurescript</a> with ranks
+</p>

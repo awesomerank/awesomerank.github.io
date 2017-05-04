@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/hkirat/awesome-chess">https://github.com/hkirat/awesome-chess</a> with ranks
+</p>
+---
 # Awesome Chess [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of assets availible on the Internet related to chess.
@@ -31,16 +38,16 @@ FEN Parsers
 ---
 *Forsyth–Edwards Notation (FEN) is a standard notation for describing a particular board position of a chess game.*
 
- - [fenparser by tlehman ★1](https://github.com/tlehman/fenparser) - A parser for Forsyth-Edwards Notation wriitten in Python.
- - [fen by ucarion ★0](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling.
- - [fen-diagram by andyherbert ★3](https://github.com/andyherbert/fen-diagram) - JavaScript for generating chess diagrams using Forsyth-Edwards notation.
+ - [fenparser by tlehman ★1 ⏳1Y](https://github.com/tlehman/fenparser) - A parser for Forsyth-Edwards Notation wriitten in Python.
+ - [fen by ucarion ★0 ⏳1Y](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling.
+ - [fen-diagram by andyherbert ★3 ⏳3Y](https://github.com/andyherbert/fen-diagram) - JavaScript for generating chess diagrams using Forsyth-Edwards notation.
 
 Bots
 ---
 *Bots are algorithms involving artificial intelligence to play against a user.*
 
- - [latrunculorum ★5](https://github.com/benwr/latrunculorum) - A simple chess bot in Python.
- - [Chessbot ★0](https://github.com/jfabeel/Chessbot) - Bot written in Java.
+ - [latrunculorum ★5 ⏳2Y](https://github.com/benwr/latrunculorum) - A simple chess bot in Python.
+ - [Chessbot ★0 ⏳4Y](https://github.com/jfabeel/Chessbot) - Bot written in Java.
 
 Move Validators
 ---
@@ -70,8 +77,8 @@ Boards
 
  - [Chessboard.js ★890](https://github.com/oakmac/chessboardjs) - chessboard.js is a standalone JavaScript chess board.
  - [chess-board ★15](https://github.com/laat/chess-board) - A web component for displaying chess positions. It takes FEN string as input and renders the board as output.
- - [jchess ★83](https://github.com/bmarini/jchess) - A jQuery based JavaScript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs.
- - [Chessboard-js ★7](https://github.com/caustique/chessboard-js) - A responsive mobile-first JavaScript chessboard library.
+ - [jchess ★83 ⏳1Y](https://github.com/bmarini/jchess) - A jQuery based JavaScript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs.
+ - [Chessboard-js ★7 ⏳3Y](https://github.com/caustique/chessboard-js) - A responsive mobile-first JavaScript chessboard library.
 
 Board Notations
 ---
@@ -105,3 +112,7 @@ Talks
  - [Chess Life](https://www.youtube.com/watch?v=lgCSo1Txw3c)
  - [Why Chess is Boring ](https://www.youtube.com/watch?v=7EuxVOgrEig) - Talk on why chess is boring by Bobby Fischer
  - [Chess Peeps](https://www.youtube.com/watch?v=p027ysBt0_M)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/hkirat/awesome-chess">https://github.com/hkirat/awesome-chess</a> with ranks
+</p>

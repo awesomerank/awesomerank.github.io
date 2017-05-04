@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/zhaopuming/awesome-d">https://github.com/zhaopuming/awesome-d</a> with ranks
+</p>
+---
 # Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 =========
 
@@ -94,8 +101,8 @@
 * [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet,  SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
 * [DlangScience](https://github.com/DlangScience) -A focal point and first port of call for scientific libraries and tooling for D.
-* [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash ★346](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
-* [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D ★44](https://github.com/d-gamedev-team/opengl-tutorials).
+* [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash ★346 ⏳1Y](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+* [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D ★44 ⏳2Y](https://github.com/d-gamedev-team/opengl-tutorials).
 * [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
 * [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 * [libmir](https://github.com/libmir) - D's numeric library development team
@@ -110,11 +117,11 @@
 *D related tutorials.*
 * [The Dlang Tour](http://tour.dlang.io/) - An interactive tutorial for D, inspired by Golang Tour.
 * [Pragmatic D tutorial](http://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
-* [D Template Tutorial ★155](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+* [D Template Tutorial ★155 ⏳2Y](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 * [Component programming in D](http://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that details how D's functional support leads to a flexible and beautiful component programming style.
 * [Component programming with ranges](http://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
 * [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
-* [OpenGL tutorials ★44](https://github.com/d-gamedev-team/opengl-tutorials) - OpenGL tutorials in D.
+* [OpenGL tutorials ★44 ⏳2Y](https://github.com/d-gamedev-team/opengl-tutorials) - OpenGL tutorials in D.
 
 ### Bare metal / kernel development
 * [D Bare bones](http://wiki.osdev.org/D_Bare_Bones) - kernel hello world in D (using GDC compiler)
@@ -134,7 +141,7 @@
 
 * [Purity in D](http://klickverbot.at/blog/2012/05/purity-in-d/) - An article that explains the design principles behind D's purity feature.
 * [Hidden treasures in the D standard library](http://nomad.so/2014/08/hidden-treasure-in-the-d-standard-library/) - An article talking about several useful functions and templates in Phobos.
-* [Porting D Runtime to ARM ★24](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
+* [Porting D Runtime to ARM ★24 ⏳3Y](https://github.com/JinShil/D_Runtime_ARM_Cortex-M_study) - A study about porting a minimal D runtime to ARM Cortex-M preprocessors.
 * [D is for Data Science](http://tech.adroll.com/blog/data/2014/11/17/d-is-for-data-science.html) - A great post about how D is suitable for data science, particularly, replacing the role of python scripts for fast prototyping.
 * [D Functional Garden](https://garden.dlang.io/)
 
@@ -165,9 +172,9 @@
 * [scons-d](http://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 * [premake ★2](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
 * [reggae ★37](https://github.com/atilaneves/reggae) - meta build system in D
-* [Makefile ★18](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
+* [Makefile ★18 ⏳1Y](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
 * [cmake-d ★26](https://github.com/dcarp/cmake-d) - CMake D Projects
-* [cook2 ★16](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
+* [cook2 ★16 ⏳1Y](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 * [button](http://jasonwhite.github.io/button/) - A universal build system to build your software at the push of a button.
 * [wild](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex ★315](https://github.com/Vild/PowerNex) kernel
 
@@ -186,7 +193,7 @@
 ## Lexers, Parsers, Parser Generators
 
 * [libdparse](https://github.com/Hackerpilot/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
-* [Martin Nowak's Lexer ★8](https://github.com/MartinNowak/lexer) - A lexer generator.
+* [Martin Nowak's Lexer ★8 ⏳3Y](https://github.com/MartinNowak/lexer) - A lexer generator.
 * [Mono-D's DParser ★23](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
 * [Pegged](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
 * [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie Parsing System.
@@ -195,7 +202,7 @@
 
 ## Preprocesors
 
-* [warp ★427](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
+* [warp ★427 ⏳1Y](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
 ## Javascript
 * [higgs ★757](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
@@ -217,7 +224,7 @@
 *Full stack web frameworks.*
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd ★269](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
-* [cmsed ★15](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
+* [cmsed ★15 ⏳2Y](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
 *RPC library*
 * [Hprose ★18](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
@@ -262,7 +269,7 @@
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise ★1645](https://github.com/antirez/linenoise).
 * [d-colorize](http://code.dlang.org/packages/colorize) - A port of the ruby library [colorize ★721](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
 * [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd ★269](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
-* [dexpect ★10](https://github.com/grogancolin/dexpect) -  A D implementation of the expect framework. Handy for bash emulation.
+* [dexpect ★10 ⏳1Y](https://github.com/grogancolin/dexpect) -  A D implementation of the expect framework. Handy for bash emulation.
 * [Argon ★9](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D. 
 
 
@@ -273,7 +280,7 @@
 * [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE ★154](https://github.com/buggins/dlangide).
 * [GtkD ★172](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
 * [DWT ★79](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
-* [tkD ★78](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
+* [tkD ★78 ⏳1Y](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
 * [dqml ★23](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
 * [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui ★4293](https://github.com/andlabs/libui)
@@ -316,15 +323,15 @@
 
 * [DGame ★62](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
 * [gfm ★137](https://github.com/d-gamedev-team/gfm) - D gamedev toolkit. see <http://d-gamedev-team.github.io/gfm/>.
-* [Dash ★346](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <http://circularstudios.com/dash>.
+* [Dash ★346 ⏳1Y](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <http://circularstudios.com/dash>.
 * [DSFML ★83](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
 * [Voxelman ★77](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 
 ## Games
 
-* [Spacecraft ★14](https://github.com/Ingrater/Spacecraft) - A 3d multiplayer deathmatch space game written in D 2.0.
-* [Dtanks ★9](https://github.com/kingsleyh/dtanks) - Robot Tank Battle Game.
+* [Spacecraft ★14 ⏳2Y](https://github.com/Ingrater/Spacecraft) - A 3d multiplayer deathmatch space game written in D 2.0.
+* [Dtanks ★9 ⏳1Y](https://github.com/kingsleyh/dtanks) - Robot Tank Battle Game.
 * [Atrium] (https://github.com/gecko0307/atrium) - FPS game with physics based puzzles using OpenGL.
 
 ## Video applications
@@ -372,3 +379,7 @@
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ★18656](https://github.com/bayandin/awesome-awesomeness) projects.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/zhaopuming/awesome-d">https://github.com/zhaopuming/awesome-d</a> with ranks
+</p>

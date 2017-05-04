@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/hangtwenty/dive-into-machine-learning">https://github.com/hangtwenty/dive-into-machine-learning</a> with ranks
+</p>
+---
 # Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 **Hi there! This guide is for you:**
@@ -135,12 +142,12 @@ Busy schedule? Read [Ray Li's review of this course](http://rayli.net/blog/data/
 Here are some other free online courses I've seen recommended. (Machine Learning, Data Science, and related topics.)
 
 * [Prof. Pedro Domingos's introductory video series](https://homes.cs.washington.edu/~pedrod/). Domingos wrote the paper ["A Few Useful Things to Know About Machine Learning"](https://homes.cs.washington.edu/~pedrod/papers/cacm12.pdf), recommended earlier in this guide.
-* Kevin Markham's video series, [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/), starts with what we've already covered, then continues on at a comfortable place. After the videos you could do Markham's [General Assembly's Data Science course. ★1027](https://github.com/justmarkham/DAT8) Interactive. Markham's course is also offered in-person in Washington, DC.
+* Kevin Markham's video series, [Intro to Machine Learning with scikit-learn](http://blog.kaggle.com/2015/04/08/new-video-series-introduction-to-machine-learning-with-scikit-learn/), starts with what we've already covered, then continues on at a comfortable place. After the videos you could do Markham's [General Assembly's Data Science course. ★1027 ⏳1Y](https://github.com/justmarkham/DAT8) Interactive. Markham's course is also offered in-person in Washington, DC.
 * Data science courses as IPython Notebooks:
 	* [Practical Data Science](http://radimrehurek.com/data_science_python/)
 	* [Learn Data Science (an entire self-directed course!)](http://learnds.com/)
 	* Supplementary material: [donnemartin/data-science-ipython-notebooks ★8883](https://github.com/donnemartin/data-science-ipython-notebooks). "Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines."
-* Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror). ★333](https://github.com/josephmisiti/machine-learning-module) Good for people with a strong mathematics background.
+* Prof. Mark A. Girolami's [Machine Learning Module (GitHub Mirror). ★333 ⏳6Y](https://github.com/josephmisiti/machine-learning-module) Good for people with a strong mathematics background.
 * Surveys of Data Science courseware (a bit more Choose Your Own Adventure)
 	* Check out [Jack Golding's survey of Data Science courseware](https://www.quora.com/Is-it-worth-it-to-pay-9-*-49-for-a-data-science-specialization-on-Coursera/answer/Jack-Golding). Includes Coursera's [Data Science Specialization](https://www.coursera.org/specializations/jhudatascience) with 9 courses in it. The Specialization certificate isn't free, but you can take the courses 1-by-1 for free if you don't care about the certificate. The survey also covers [Harvard CS109](http://cs109.github.io/2014/) which I've seen recommended elsewhere.
 	* [Another epic Quora thread: How can I become a data scientist?](https://www.quora.com/How-can-I-become-a-data-scientist?redirected_qid=59455)
@@ -235,7 +242,7 @@ So you are dabbling with Machine Learning. You've got Hacking Skills. Maybe you'
 
 #### Towards Expertise
 
-You need **practice.** [On Hacker News, user olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. You can find some [examples of code for popular Kaggle competitions here ★106](https://github.com/apeeyush/machine-learning). For smaller exercises, [try HackerRank](https://www.hackerrank.com/domains/ai/machine-learning/page/1).
+You need **practice.** [On Hacker News, user olympus commented to say you could use competitions to practice and evaluate yourself](https://news.ycombinator.com/item?id=10508565). [Kaggle](http://www.kaggle.com/competitions) and [ChaLearn](http://www.chalearn.org/) are hubs for Machine Learning competitions. You can find some [examples of code for popular Kaggle competitions here ★106 ⏳1Y](https://github.com/apeeyush/machine-learning). For smaller exercises, [try HackerRank](https://www.hackerrank.com/domains/ai/machine-learning/page/1).
 
 You also need **understanding.** You should review what Kaggle competition winners say about their solutions, [for example, the "No Free Hunch" blog](http://blog.kaggle.com/). These might be over your head at first but once you're starting to understand and appreciate these, you know you're getting somewhere.
 
@@ -355,3 +362,7 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * [Machine Learning for Software Engineers ★14579](https://github.com/ZuzooVn/machine-learning-for-software-engineers) by Nam Vu. It’s the top-down and results-first approach designed for software engineers.
 * For some news sources to follow, check out [Sam DeBrule's list](https://medium.com/machine-learnings/a-humans-guide-to-machine-learning-e179f43b67a0) here.
 * [Your guide here]
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/hangtwenty/dive-into-machine-learning">https://github.com/hangtwenty/dive-into-machine-learning</a> with ranks
+</p>

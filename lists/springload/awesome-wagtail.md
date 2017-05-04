@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/springload/awesome-wagtail">https://github.com/springload/awesome-wagtail</a> with ranks
+</p>
+---
 Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
 ===============
 
@@ -57,7 +64,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Rich text editor extensions
 
-- [wagtail-readability ★9](https://github.com/takeflight/wagtail-readability) - Test how readable the content you enter into Wagtail is.
+- [wagtail-readability ★9 ⏳1Y](https://github.com/takeflight/wagtail-readability) - Test how readable the content you enter into Wagtail is.
 - [wagtailembedder ★21](https://github.com/springload/wagtailembedder) - Snippets embedder for Wagtail richtext fields.
 - [Wagtail TinyMCE ★20](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail.
 - [Wagtail Froala ★5](https://github.com/jaydensmith/wagtailfroala) - Extends Wagtail to use the Froala WYSIWYG editor in RichTextField/RichTextBlock.
@@ -78,19 +85,19 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Static site generation
 
-- [Wagtail Bakery ★15](https://github.com/mhnbcu/wagtailbakery) - SAMPLE module for Wagtail CMS static generation with Django Bakery.
+- [Wagtail Bakery ★15 ⏳2Y](https://github.com/mhnbcu/wagtailbakery) - SAMPLE module for Wagtail CMS static generation with Django Bakery.
 
 ### Settings management
 
-- [Wagtail-Constance ★6](https://github.com/MechanisM/wagtail-constance) - django-constance integration for Wagtail CMS.
+- [Wagtail-Constance ★6 ⏳1Y](https://github.com/MechanisM/wagtail-constance) - django-constance integration for Wagtail CMS.
 - [Wagtail-Flags ★10](https://github.com/cfpb/wagtail-flags) - Feature flags for Wagtail sites.
 
 ### E-commerce
 
 - [wagtailinvoices ★19](https://github.com/SableWalnut/wagtailinvoices) - A Wagtail module for creating invoices.
-- [wagtail-saleor ★21](https://github.com/mirumee/wagtail-saleor) - An e-commerce application based on Wagtail and Satchless.
+- [wagtail-saleor ★21 ⏳3Y](https://github.com/mirumee/wagtail-saleor) - An e-commerce application based on Wagtail and Satchless.
 - [longclaw ★31](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
-- [django-oscar-wagtail](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?)
+- [django-oscar-wagtail ★22](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?)
 
 ### SEO and SMO
 
@@ -106,13 +113,14 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Security
 
 - [wagtailenforcer ★21](https://github.com/springload/wagtailenforcer) - If you need to enforce security protocols on your Wagtail site you've come to the right place.
-- [wagtail-yubikey ★3](https://github.com/ahopkins/wagtail-yubikey) - Enable YubiKey two factor authentication on Wagtail admin panel.
+- [wagtail-yubikey ★3 ⏳1Y](https://github.com/ahopkins/wagtail-yubikey) - Enable YubiKey two factor authentication on Wagtail admin panel.
 
 ### Media
 
 - [wagtailmedia ★22](https://github.com/torchbox/wagtailmedia) - A Wagtail module for managing video and audio files within the admin.
 - [wagtail-embedvideos](https://github.com/infoportugal/wagtail-embedvideos) - Simple app that works similar to wagtailimages, but for embedding YouTube and Vimeo videos and music from SoundCloud. It's an integration of [django-embed-video](https://github.com/yetty/django-embed-video).
 - [Wagtail Alt Generator ★30](https://github.com/marteinn/wagtail-alt-generator) - A module for generating image description and tags based on computer vision.
+- [Wagtail FilePreviews ★3](https://github.com/filepreviews/wagtail-filepreviews) - Extend Wagtail's Documents with image previews and metadata from FilePreviews.io.
 
 ### Translations
 
@@ -133,7 +141,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Misc
 
-- [Wagtail Plus ★32](https://github.com/rfosterslo/wagtailplus) - Modular add-ons for Wagtail CMS.
+- [Wagtail Plus ★32 ⏳1Y](https://github.com/rfosterslo/wagtailplus) - Modular add-ons for Wagtail CMS.
 - [wagtailmenus ★87](https://github.com/rkhleics/wagtailmenus) - An extension for Torchbox's Wagtail CMS to help you manage and render multi-level navigation and simple flat menus in a consistent, flexible way.
 - [Wagtail Error Pages ★12](https://github.com/alexgleason/wagtailerrorpages) - Pretty, smart, customizable error pages for Wagtail.
 - [Wagtail Themes ★26](https://github.com/moorinteractive/wagtail-themes) - Site-specific theme loader for Wagtail.
@@ -224,10 +232,14 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## Contribute
 
 Contributions are always welcome!
-Please read the [contribution guidelines](CONTRIBUTING.md) first.
+Please read the [contribution guidelines](https://github.com/springload/awesome-wagtail/blob/master/CONTRIBUTING.md) first.
 
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Springload](https://www.springload.co.nz/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/springload/awesome-wagtail">https://github.com/springload/awesome-wagtail</a> with ranks
+</p>

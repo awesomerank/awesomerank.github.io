@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/viatsko/awesome-vscode">https://github.com/viatsko/awesome-vscode</a> with ranks
+</p>
+---
 # Awesome VS Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome ★57421](https://github.com/sindresorhus/awesome).
@@ -382,7 +389,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/viatsko/awesome-vscode/blob/master/CONTRIBUTING.md) first.
 
 
 ## License
@@ -390,3 +397,7 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Valerii Iatsko](http://codingbox.io) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/viatsko/awesome-vscode">https://github.com/viatsko/awesome-vscode</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/cyclejs-community/awesome-cyclejs">https://github.com/cyclejs-community/awesome-cyclejs</a> with ranks
+</p>
+---
 ## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
@@ -82,6 +89,7 @@ http://oleg.fi/graafi/
 * [cyclejs-community/built-with-cycle ★4](https://github.com/cyclejs-community/built-with-cycle) - [A website](http://cyclejs-community.github.io/built-with-cycle) to showcase the cool projects built with Cycle.js
 * [class-ideas/cyclejs-hangman ★7](https://github.com/class-ideas/cyclejs-hangman) A hangman game built with Cycle.js
 * [wmaurer/cyclejs-fractals ★13](https://github.com/wmaurer/cyclejs-fractals) Dancing pythagorean tree fractal - Animating 2048 SVG nodes.
+* [fabiothiroki/cyclejs-starwars ★1](https://github.com/fabiothiroki/cyclejs-starwars) A Star Wars character search app using Cycle.js, RxJS and Virtual DOM tests.
 
 ## Tools
 
@@ -100,7 +108,7 @@ http://oleg.fi/graafi/
 * [cgeorg/cycle-socket.io ★16](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients
 * [**cyclejs/cycle-dom ★162**](https://github.com/cyclejs/dom) - The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers
 * [secobarbital/cycle-fetch-driver ★2](https://github.com/secobarbital/cycle-fetch-driver) - A Cycle.js Driver for making HTTP requests, using the Fetch API.
-* [r7kamura/cycle-fetcher-driver ★13](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher ★18](https://github.com/r7kamura/stackable-fetcher).
+* [r7kamura/cycle-fetcher-driver ★13](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher ★18 ⏳1Y](https://github.com/r7kamura/stackable-fetcher).
 * [cyclejs/cycle-history ★62](https://github.com/cyclejs/history) - The standard Cycle driver for dealing with the [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
 * [benji6/cycle-audio-graph ★11](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph ★93](https://github.com/benji6/virtual-audio-graph)
 * [CyclicMaterials/cycle-hammer-driver ★10](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures
@@ -175,3 +183,7 @@ http://oleg.fi/graafi/
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/cyclejs-community/awesome-cyclejs">https://github.com/cyclejs-community/awesome-cyclejs</a> with ranks
+</p>

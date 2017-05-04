@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/thibmaek/awesome-raspberry-pi">https://github.com/thibmaek/awesome-raspberry-pi</a> with ranks
+</p>
+---
 # Awesome Raspberry Pi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
@@ -17,9 +24,9 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 ## OS Images
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
 - [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - New Out Of the Box Software, an easy OS installer for beginners.
-- [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
-- [Snappy Ubuntu Core](https://developer.ubuntu.com/en/snappy/start/raspberry-pi-2/) - Official (minimal) Ubuntu distribution for IoT. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
-- [Windows 10 IoT Core](https://developer.microsoft.com/nl-nl/windows/iot/Downloads.htm) - Windows 10 distribution for IoT. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
+- [Snappy Ubuntu Core](https://developer.ubuntu.com/en/snappy/start/raspberry-pi-2/) - Official (minimal) Ubuntu distribution for IoT. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
+- [Windows 10 IoT Core](https://developer.microsoft.com/nl-nl/windows/iot/Downloads.htm) - Windows 10 distribution for IoT. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 - [OSMC](https://osmc.tv/) - Open Source Media Centre, based on Kodi.
 - [PiNet](http://pinet.org.uk/) - System to manage Raspberry Pi classrooms.
 - [Risc OS](https://www.riscosopen.org/content/downloads/raspberry-pi) - Non-Linux OS originated from the group that developed the ARM microprocessor.
@@ -34,16 +41,16 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Recalbox](https://www.recalbox.com) - Drag & drop light-weight retro-gaming and media center on the Raspberry Pi.
 - [Lakka](http://lakka.tv) - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
 - [RasPlex](http://www.rasplex.com/) - Plex client for the Raspberry Pi.
-- [chilipie-kiosk ★73](https://github.com/futurice/chilipie-kiosk) - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [chilipie-kiosk ★73](https://github.com/futurice/chilipie-kiosk) - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 - [DietPi ★410](https://github.com/Fourdee/DietPi) - Mimimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
-- [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - CentOS on the Raspberry Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - CentOS on the Raspberry Pi. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 - [Minibian](https://minibianpi.wordpress.com/) - Minimal Raspbian (lighter than Jessie Lite).
 - [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - Bootloader/universal OS installer, with support to VNC and HDMI-CEC.
 - [PirateBox](https://piratebox.cc/raspberry_pi:diy) - Anonymous offline mobile file-sharing and communications system.
 - [OctoPi](https://octopi.octoprint.org/) - Distribution for 3d printers.
 - [Kano OS](http://developers.kano.me/downloads/) - Open-source OS for exploration, creation, and play – free for Raspberry Pi and the new Pi 3.
 - [resinOS](https://resinos.io) - open source OS to run Docker containers on embedded devices that's been designed for reliability and proven in production.
-- [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) - Linux Fedora distribution built for the Pi. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [Fedora](https://fedoraproject.org/wiki/Raspberry_Pi#Preparing_the_SD_card) - Linux Fedora distribution built for the Pi. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 - [motionEyeOS](https://github.com/ccrisan/motioneyeos/wiki) - Linux distribution that turns a single-board computer into a video surveillance system.
 - [NextCloudPi](https://ownyourbits.com/2017/02/13/nextcloud-ready-raspberry-pi-image/) - Nextcloud ready image based on Raspbian. Features Nextcloud 11 running on Raspbian 8, with PHP 7 and HTTP2 enabled Apache server.
 - [PiDeck](http://pideck.com/) - Small form factor DVS system allowing you to control digital music files with timecode vinyl.
@@ -71,8 +78,8 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - Big Data cluster running on the Raspberry Pi.
 - [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
 - [Building a Ceph Cluster on Raspberry Pi](http://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/) - Highly redundant and low power usage RADOS home storage solution.
-- [Smart Mirror ★1876](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
-- [Magic Mirror](http://magicmirror.builders) - The original open source modular smart mirror platform. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
+- [Smart Mirror ★1876](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
+- [Magic Mirror](http://magicmirror.builders) - The original open source modular smart mirror platform. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 - [Door bot](https://blog.haschek.at/post/f31aa) - Door bot that senses when a door is opened and sends you chat messages.
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 - [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
@@ -80,8 +87,8 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [SecPi ★119](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
 - [PiClock ★289](https://github.com/n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi.
 - [Garage Door Opener ★7](https://github.com/benjefferies/gogo-garage-opener) - Garage door opener using the [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) app to control garage door.
-- [Movel ★49](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
-- [PiFanTuner ★7](https://github.com/winkidney/PIFanTuner) - CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
+- [Movel ★49 ⏳1Y](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
+- [PiFanTuner ★7](https://github.com/winkidney/PIFanTuner) - CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-3.png)
 - [SkyJack](https://samy.pl/skyjack/) - Take over and allow full control over any Parrot AR Drone within wireless distance.
 - [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
 - [Wordpress using Docker ★11](https://github.com/rothgar/rpi-wordpress) - Run a Wordpress site in containers with dynamic DNS.
@@ -93,7 +100,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
 - [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) - Makeshift Amazon Dash orders using a Raspberry PI + EAN scanner.
-- [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) - E-ink nametag display running on a Pi Zero. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) - E-ink nametag display running on a Pi Zero. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-0.png)
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) - Interactive soundart installation using the Hifiberry DAC.
 - [clockOS ★8](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
 - [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) - Home automation based on sound recognition from notes played on an ocarina.
@@ -109,10 +116,10 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - Simple, secure and detailed guide to setup VPN on your Raspberry Pi.
 - [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node.js project to control Spotify & Slack with libspotify.
 - [Moonlight ★851](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
-- [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - Guide to boot and access a Raspberry Pi Zero over a USB cable without need of an ethernet/wifi connection, keyboard or screen. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - Guide to boot and access a Raspberry Pi Zero over a USB cable without need of an ethernet/wifi connection, keyboard or screen. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
 - [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - Media Server and NAS tutorials from HTPC Guides.
-- [Turn the Raspberry Pi Zero into a mini dongle computer](http://n-o-d-e.net/post/150780207431/turn-the-raspberry-pi-zero-into-a-mini-dongle) - Setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](/media/badges/rpi-0.png)
+- [Turn the Raspberry Pi Zero into a mini dongle computer](http://n-o-d-e.net/post/150780207431/turn-the-raspberry-pi-zero-into-a-mini-dongle) - Setup a pi0 to be able to ssh & vnc over USB. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-0.png)
 - [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - Good beginners-guide to working with Beacon technology.
 - [Build a $35 Time Capsule](https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html) - Time Machine Backup Server.
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.
@@ -130,7 +137,11 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [eLinux Hub](http://elinux.org/RPi_Hub)
 
 ### Contributing
-Contribution guidelines can be found [here](/CONTRIBUTING.md)
+Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//CONTRIBUTING.md)
 
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/thibmaek/awesome-raspberry-pi">https://github.com/thibmaek/awesome-raspberry-pi</a> with ranks
+</p>

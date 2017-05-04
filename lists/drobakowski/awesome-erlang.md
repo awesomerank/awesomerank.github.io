@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/drobakowski/awesome-erlang">https://github.com/drobakowski/awesome-erlang</a> with ranks
+</p>
+---
 # Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer) ★656](https://github.com/drobakowski/awesome-erlang)
 A curated list of amazingly awesome Erlang libraries, resources and shiny thing inspired by [awesome-elixir ★6344](https://github.com/h4cc/awesome-elixir).
 
@@ -77,8 +84,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Standalone component from web development frameworks.*
 
 * [cb_admin ★75](https://github.com/ChicagoBoss/cb_admin) - An admin interface for Chicago Boss.
-* [cb_websocket_controller ★7](https://github.com/dkuhlman/cb_websocket_controller) - A template for implementing a Websocket controller for ChicagoBoss.
-* [giallo_session ★10](https://github.com/kivra/giallo_session) - A session management library for the Giallo web framework.
+* [cb_websocket_controller ★7 ⏳4Y](https://github.com/dkuhlman/cb_websocket_controller) - A template for implementing a Websocket controller for ChicagoBoss.
+* [giallo_session ★10 ⏳3Y](https://github.com/kivra/giallo_session) - A session management library for the Giallo web framework.
 * [simple_bridge](https://github.com/nitrogen/simple_bridge) - An abstraction layer providing a unified interface to popular Erlang web servers (Cowboy, Inets, Mochiweb, Webmachine, and Yaws).
 
 ## HTTP
@@ -95,22 +102,22 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries for testing codebases and generating test data.*
 
 * [PropEr ★534](https://github.com/manopapad/proper) - A QuickCheck-inspired property-based testing tool for Erlang.
-* [tracerl ★16](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP
+* [tracerl ★16 ⏳2Y](https://github.com/esl/tracerl) - Dynamic tracing tests and utilities for Erlang/OTP
 
 ## Logging
 *Libraries for generating and working with log files.*
 
 * [lager ★13](https://github.com/basho/lager) - A logging framework for Erlang/OTP.
-* [lager_amqp_backend ★33](https://github.com/jbrisbin/lager_amqp_backend) - AMQP RabbitMQ Lager backend.
+* [lager_amqp_backend ★33 ⏳5Y](https://github.com/jbrisbin/lager_amqp_backend) - AMQP RabbitMQ Lager backend.
 * [lager_hipchat ★5](https://github.com/synlay/lager_hipchat) - HipChat backend for lager.
 * [lager_loggly ★16](https://github.com/kivra/lager_loggly) - Loggly backend for lager.
-* [lager_smtp ★13](https://github.com/blinkov/lager_smtp) - SMTP backend for lager.
+* [lager_smtp ★13 ⏳4Y](https://github.com/blinkov/lager_smtp) - SMTP backend for lager.
 * [logplex ★775](https://github.com/heroku/logplex) - Heroku log router.
 
 ## Monitoring
 *Libraries for gathering metrics and monitoring.*
 
-* [entop ★230](https://github.com/mazenharake/entop) - A top-like Erlang node monitoring tool.
+* [entop ★230 ⏳4Y](https://github.com/mazenharake/entop) - A top-like Erlang node monitoring tool.
 * [eper ★382](https://github.com/massemanet/eper) - A loose collection of Erlang Performance related tools.
 * [Exometer ★385](https://github.com/Feuerlabs/exometer) - An Erlang instrumentation package.
 * [folsom](https://github.com/boundary/folsom) - An Erlang based metrics system inspired by Coda Hale's [metrics ★393](https://github.com/codahale/metrics).
@@ -150,7 +157,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Debugging
 *Libraries and tools for debugging code and applications.*
 
-* [tx ★59](https://github.com/kvakvs/tx) - An HTML Erlang term viewer, starts own webserver and displays any term you give it from your Erlang node.
+* [tx ★59 ⏳2Y](https://github.com/kvakvs/tx) - An HTML Erlang term viewer, starts own webserver and displays any term you give it from your Erlang node.
 
 ## Actors
 *Libraries and tools for working with actors and such.*
@@ -174,10 +181,10 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Queue
 *Libraries for working with event and task queues.*
 
-* [dq ★22](https://github.com/darach/dq) - Distributed Fault Tolerant Queue library.
-* [ebqueue ★4](https://github.com/rgrinberg/ebqueue) - Tiny simple blocking queue in erlang.
+* [dq ★22 ⏳2Y](https://github.com/darach/dq) - Distributed Fault Tolerant Queue library.
+* [ebqueue ★4 ⏳2Y](https://github.com/rgrinberg/ebqueue) - Tiny simple blocking queue in erlang.
 * [pqueue ★88](https://github.com/okeuday/pqueue) - Erlang Priority Queues.
-* [tinymq ★95](https://github.com/ChicagoBoss/tinymq) - A diminutive, in-memory message queue for Erlang.
+* [tinymq ★95 ⏳1Y](https://github.com/ChicagoBoss/tinymq) - A diminutive, in-memory message queue for Erlang.
 
 ## Authentication
 *Libraries for implementing authentications schemes.*
@@ -187,9 +194,9 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Text and Numbers
 *Libraries for parsing and manipulating text and numbers.*
 
-* [eql ★38](https://github.com/artemeff/eql) - Erlang with SQL or not.
+* [eql ★38 ⏳1Y](https://github.com/artemeff/eql) - Erlang with SQL or not.
 * [jiffy ★602](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
-* [jsonrec ★12](https://github.com/EduardSergeev/jsonrec) - JSON encoder/decoder with the ability to map to records.
+* [jsonrec ★12 ⏳2Y](https://github.com/EduardSergeev/jsonrec) - JSON encoder/decoder with the ability to map to records.
 * [jsx ★514](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
 * [qsp ★12](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang.
 
@@ -212,11 +219,11 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Networking
 *Libraries and tools for using network related stuff.*
 
-* [barrel_tcp ★77](https://github.com/benoitc-attic/barrel_tcp) - barrel_tcp is a generic TCP acceptor pool with low latency in Erlang.
+* [barrel_tcp ★77 ⏳1Y](https://github.com/benoitc-attic/barrel_tcp) - barrel_tcp is a generic TCP acceptor pool with low latency in Erlang.
 * [gen_rpc ★114](https://github.com/priestjim/gen_rpc) - A scalable RPC library for Erlang-VM based languages.
-* [gen_tcp_server ★8](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server.
-* [gossiperl ★35](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang.
-* [nat_upnp ★35](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD.
+* [gen_tcp_server ★8 ⏳2Y](https://github.com/rpt/gen_tcp_server) - A library that takes the concept of gen_server and introduces the same mechanics for operating a TCP server.
+* [gossiperl ★35 ⏳1Y](https://github.com/gossiperl/gossiperl) - Language agnostic gossip middleware and message bus written in Erlang.
+* [nat_upnp ★35 ⏳1Y](https://github.com/benoitc/nat_upnp) - Erlang library to map your internal port to an external using UNP IGD.
 * [ranch ★674](https://github.com/ninenines/ranch) - Socket acceptor pool for TCP protocols.
 
 ## Internet of Things
@@ -227,7 +234,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 *Libraries and implementations of algorithms and datastructures.*
 
 * [erlando ★1](https://github.com/travelping/erlando) - A set of syntax extensions like currying and monads for Erlang.
-* [statebox ★232](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities.
+* [statebox ★232 ⏳2Y](https://github.com/mochi/statebox) - Erlang state "monad" with merge/conflict-resolution capabilities.
 * [riak_dt ★211](https://github.com/basho/riak_dt) - Erlang library of state based CRDTs.
 
 ## Translations and Internationalizations
@@ -270,3 +277,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 
 # Contributing
 Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) for details.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/drobakowski/awesome-erlang">https://github.com/drobakowski/awesome-erlang</a> with ranks
+</p>

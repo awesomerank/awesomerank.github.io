@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/iCHAIT/awesome-macOS">https://github.com/iCHAIT/awesome-macOS</a> with ranks
+</p>
+---
 <img src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/awesome-display.svg" width="400">
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
@@ -66,7 +73,7 @@
 
 ### Chat Clients
 
-- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon] ★1910](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
+- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web. [![Open-Source Software][OSS Icon] ★1910 ⏳1Y](https://github.com/stonesam92/ChitChat) ![Freeware][Freeware Icon]
 - [Goofy](http://www.goofyapp.com/) - Unofficial Facebook Messenger client. [![Open-Source Software][OSS Icon] ★627](https://github.com/danielbuechele/goofy) ![Freeware][Freeware Icon]
 - [Telegram](https://itunes.apple.com/us/app/telegram/id747648890?mt=12) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon] ★1324](https://github.com/overtake/telegram) ![Freeware][Freeware Icon]
 - [Textual 5](https://www.codeux.com/textual/) - An Internet Relay Chat (IRC) client. [![Open-Source Software][OSS Icon] ★1432](https://github.com/Codeux-Software/Textual)
@@ -89,7 +96,7 @@
 - [gitbar](https://github.com/Shikkic/gitbar) - Open source github contribution stats on your Menu Bar. [![Open-Source Software][OSS Icon] ★231](https://github.com/Shikkic/gitbar) ![Freeware][Freeware Icon]
 - [GitHub Desktop](https://desktop.github.com/) - A GUI for using GitHub. ![Freeware][Freeware Icon]
 - [GitUp](http://gitup.co/) - A simple but powerful Git macOS app. [![Open-Source Software][OSS Icon] ★6477](https://github.com/git-up/GitUp) ![Freeware][Freeware Icon]
-- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Edit hosts file. [![Open-Source Software][OSS Icon] ★1065](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
+- [Hosts](https://github.com/specialunderwear/Hosts.prefpane) - Edit hosts file. [![Open-Source Software][OSS Icon] ★1065 ⏳2Y](https://github.com/specialunderwear/Hosts.prefpane) ![Freeware][Freeware Icon]
 - [ImageAlpha](https://pngmini.com/) - Apply lossy compression on PNG files with or without transparency for more efficient files. [![Open-Source Software][OSS Icon] ★321](https://github.com/pornel/ImageAlpha) ![Freeware][Freeware Icon]
 - [ImageOptim](https://imageoptim.com/mac) - Makes images take up less disk space and load faster. [![Open-Source Software][OSS Icon] ★3908](https://github.com/ImageOptim/ImageOptim) ![Freeware][Freeware Icon]
 - [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Easily find your website's broken links. ![Freeware][Freeware Icon]
@@ -105,8 +112,9 @@
 - [Sip](http://theolabrothers.com/) - A simple color picker for developers.
 - [SnippetsLab](https://www.renfei.org/snippets-lab/) - Manage and organise snippets of code.
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client. ![Freeware][Freeware Icon]
+- [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - The macOS Touch Bar Simulator as a standalone app. [![Open-Source Software][OSS Icon] ★430](https://github.com/sindresorhus/touch-bar-simulator) ![Freeware][Freeware Icon]
 - [Tower](https://www.git-tower.com/) - The most powerful Git client.
-- [Unused](https://jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon] ★1237](https://github.com/jeffhodnett/Unused) ![Freeware][Freeware Icon]
+- [Unused](https://jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon] ★1237 ⏳1Y](https://github.com/jeffhodnett/Unused) ![Freeware][Freeware Icon]
 - [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place with Vagrant Manager for macOS. [![Open-Source Software][OSS Icon] ★1543](https://github.com/lanayotech/vagrant-manager) ![Freeware][Freeware Icon]
 - [Versions](http://versionsapp.com/) - SVN GUI client for Mac.
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon] ★5030](https://github.com/insidegui/WWDC)
@@ -148,7 +156,7 @@
 - [Boxer](http://boxerapp.com/) - The DOS game emulator that’s fit for your Mac. [![Open-Source Software][OSS Icon] ★425](https://github.com/alunbestor/Boxer) ![Freeware][Freeware Icon]
 - [Dolphin](https://dolphin-emu.org) - A powerful, Open Source emulator for Nintendo GameCube and Wii games. [![Open-Source Software][OSS Icon] ★3277](https://github.com/dolphin-emu/dolphin) ![Freeware][Freeware Icon]
 - [OpenEmu](http://openemu.org/) - Multiple Video Game System. [![Open-Source Software][OSS Icon] ★7558](https://github.com/OpenEmu/OpenEmu) ![Freeware][Freeware Icon]
-- [Screentendo](http://aaronrandall.com/blog/screentendo/) - Turn your screen into a playable level of Mario. [![Open-Source Software][OSS Icon] ★898](https://github.com/AaronRandall/Screentendo) ![Freeware][Freeware Icon]
+- [Screentendo](http://aaronrandall.com/blog/screentendo/) - Turn your screen into a playable level of Mario. [![Open-Source Software][OSS Icon] ★898 ⏳1Y](https://github.com/AaronRandall/Screentendo) ![Freeware][Freeware Icon]
 - [Stockfish](http://stockfishchess.org/mac/) - Beautiful, powerful chess application. [![Open-Source Software][OSS Icon] ★237](https://github.com/daylen/stockfish-mac) ![Freeware][Freeware Icon]
 
 
@@ -157,6 +165,7 @@
 - [Acorn](https://secure.flyingmeat.com/acorn/) - A very Mac-like image editor with a comprehensive feature set.
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Vector image design tool, possible Adobe Illustrator alternative.
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Raster image design tool, possible Adobe Photoshop alternative.
+- [GifCapture](https://github.com/onmyway133/GifCapture) - Record GIF screencasts. [![Open-Source Software][OSS Icon] ★261](https://github.com/onmyway133/GifCapture)
 - [GIPHY Capture](https://itunes.apple.com/us/app/giphy-capture.-the-gif-maker/id668208984) - Capture and share GIFs on the desktop. ![Freeware][Freeware Icon]
 - [Image2icon](http://www.img2icnsapp.com) - Create and personalize icons from your pictures. ![Freeware][Freeware Icon]
 - [OmniGraffle](https://www.omnigroup.com/omnigraffle) - An app for creating precise, beautiful graphics.
@@ -170,7 +179,7 @@
 
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
 - [BetterTouchTool](https://www.boastr.net/) - Configure gestures for mouse and actions for keyboard shortcuts.
-- [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon] ★501](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
+- [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon] ★501 ⏳1Y](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
 - [Dropzone](https://aptonic.com/) - Create a popup grid of customizable actions that enhance productivity on your Mac.
 - [f.lux](https://justgetflux.com/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
@@ -239,7 +248,7 @@
 - [Keka](http://www.kekaosx.com/en/) - Compress to and extract from many archive file formats. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/keka/files/) ![Freeware][Freeware Icon]
 - [Knock](http://www.knocktounlock.com) - Unlock your Mac quickly and securely. ![Freeware][Freeware Icon]
 - [LaunchControl](http://www.soma-zone.com/LaunchControl/) - Create, manage and debug launchd services. ![Freeware][Freeware Icon]
-- [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon] ★420](https://github.com/BonzaiThePenguin/Loading) ![Freeware][Freeware Icon]
+- [Loading](http://bonzaiapps.com) - See when apps are using your network in your Mac menubar. [![Open-Source Software][OSS Icon] ★420 ⏳1Y](https://github.com/BonzaiThePenguin/Loading) ![Freeware][Freeware Icon]
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) - Protect your privacy.
 - [MacDown](http://macdown.uranusjr.com/) - Markdown editor. [![Open-Source Software][OSS Icon] ★5782](https://github.com/MacDownApp/macdown) ![Freeware][Freeware Icon]
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync. [![Open-Source Software][OSS Icon] ★5998](https://github.com/lra/mackup) ![Freeware][Freeware Icon]
@@ -297,10 +306,10 @@
 - [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Screensaver for Mac. [![Open-Source Software][OSS Icon] ★8416](https://github.com/JohnCoates/Aerial) ![Freeware][Freeware Icon]
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. [![Open-Source Software][OSS Icon] ★250](https://github.com/mipstian/catch) ![Freeware][Freeware Icon]
 - [Clocker](https://itunes.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12) - Check time in multiple timezones from your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/Abhishaker17/Clocker) ![Freeware][Freeware Icon]
-- [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. [![Open-Source Software][OSS Icon] ★626](https://github.com/chenasraf/gInbox) ![Freeware][Freeware Icon]
-- [hacker-menu](https://hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon] ★909](https://github.com/jingweno/hacker-menu) ![Freeware][Freeware Icon]
+- [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. [![Open-Source Software][OSS Icon] ★626 ⏳1Y](https://github.com/chenasraf/gInbox) ![Freeware][Freeware Icon]
+- [hacker-menu](https://hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon] ★909 ⏳1Y](https://github.com/jingweno/hacker-menu) ![Freeware][Freeware Icon]
 - [PopKey](http://popkey.co/send-gifs) -  Allows easy access to animated GIFs from the Mac menu bar.
-- [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ★855](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
+- [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ★855 ⏳2Y](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon] ★700](https://github.com/salomvary/soundcleod) ![Freeware][Freeware Icon]
 - [Juice](https://github.com/brianmichel/Juice) - Make your battery information a bit more interesting. [![Open-Source Software][OSS Icon] ★446](https://github.com/brianmichel/Juice) ![Freeware][Freeware Icon]
 - [Transmit](https://panic.com/transmit/) - A FTP client.
@@ -356,9 +365,9 @@
 ## Security
 
 * [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
-* [macchanger by acrogenesis](https://acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon] ★75](https://github.com/acrogenesis/macchanger) ![Freeware][Freeware Icon]
+* [macchanger by acrogenesis](https://acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon] ★75 ⏳1Y](https://github.com/acrogenesis/macchanger) ![Freeware][Freeware Icon]
 * [macchanger by shilch](https://github.com/shilch/macchanger/) - Change / spoof MAC address (random, custom and restore). [![Open-Source Software][OSS Icon] ★21](https://github.com/shilch/macchanger)
-* [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon] ★815](https://github.com/etsy/MIDAS)
+* [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon] ★815 ⏳1Y](https://github.com/etsy/MIDAS)
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 * [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit. [![Open-Source Software][OSS Icon] ★1233](https://github.com/Yelp/osxcollector) ![Freeware][Freeware Icon]
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon] ★1534](https://github.com/google/santa) ![Freeware][Freeware Icon]
@@ -424,3 +433,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [chitchat]: https://github.com/stonesam92/ChitChat
 [OSS Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/oss.svg
 [Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/iCHAIT/awesome-macOS">https://github.com/iCHAIT/awesome-macOS</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/sadcitizen/awesome-backbone">https://github.com/sadcitizen/awesome-backbone</a> with ranks
+</p>
+---
 # Awesome Backbone.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > A list of resources for backbone.js
@@ -100,10 +107,10 @@
 ## Examples and boilerplates
 
 - [Backbone Require Boilerplate ★638](https://github.com/BoilerplateMVC/Backbone-Require-Boilerplate) - A Rad Backbone.js and Require.js Boilerplate Project
-- [Wine Cellar Sample Application ★943](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js
-- [Employee Directory ★476](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
-- [Backbone Contact Manager ★61](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application
-- [Backbone Boilerplates ★503](https://github.com/addyosmani/backbone-boilerplates) - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
+- [Wine Cellar Sample Application ★943 ⏳5Y](https://github.com/ccoenraets/backbone-cellar) - "Backbone Cellar" is a sample application built with Backbone.js
+- [Employee Directory ★476 ⏳1Y](https://github.com/ccoenraets/directory-backbone-bootstrap) - Employee Directory sample application built with Backbone.js and Twitter Bootstrap
+- [Backbone Contact Manager ★61 ⏳3Y](https://github.com/dmytroyarmak/backbone-contact-manager) - Simple Backbone.js example application
+- [Backbone Boilerplates ★503 ⏳4Y](https://github.com/addyosmani/backbone-boilerplates) - Backbone.js stack boilerplates demonstrating integration with Express, Ruby, PHP, Grails and more
 - [Backbone TodoMVC example](http://todomvc.com/examples/backbone/) - Simple todo app built using Backbone and Backbone.localStorage.
 
 ## Courses
@@ -126,11 +133,14 @@
 - [Backbone.stickit ★1694](https://github.com/NYTimes/backbone.stickit)
 - [Backbone.paginator ★1465](https://github.com/backbone-paginator/backbone.paginator)
 - [Backbone.validation ★1381](https://github.com/thedersen/backbone.validation)
-- [Exoskeleton ★921](https://github.com/paulmillr/exoskeleton)
+- [Exoskeleton ★921 ⏳1Y](https://github.com/paulmillr/exoskeleton)
 - [Backbone.dualstorage ★836](https://github.com/nilbus/Backbone.dualStorage)
-- [Backbone.iobind ★603](https://github.com/noveogroup/backbone.iobind)
+- [Backbone.iobind ★603 ⏳1Y](https://github.com/noveogroup/backbone.iobind)
 - [Backbone-associations ★513](https://github.com/dhruvaray/backbone-associations)
-- [Backbone-tastypie ★502](https://github.com/PaulUithol/backbone-tastypie)
+- [Backbone-tastypie ★502 ⏳2Y](https://github.com/PaulUithol/backbone-tastypie)
 - [Backbone.Radio ★483](https://github.com/marionettejs/backbone.radio)
 - [Backbone.BabySitter ★389](https://github.com/marionettejs/backbone.babysitter)
-- [Backbone.History.Polyfill ★1](https://github.com/FidelityInternational/BackboneHistoryPolyfill)
+- [Backbone.History.Polyfill ★1](https://github.com/FidelityInternational/BackboneHistoryPolyfill)---
+<p align="center">
+	This list is a copy of <a href="https://github.com/sadcitizen/awesome-backbone">https://github.com/sadcitizen/awesome-backbone</a> with ranks
+</p>

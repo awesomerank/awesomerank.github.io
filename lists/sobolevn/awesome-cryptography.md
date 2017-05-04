@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/sobolevn/awesome-cryptography">https://github.com/sobolevn/awesome-cryptography</a> with ranks
+</p>
+---
 # Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [![Build Status](https://travis-ci.org/sobolevn/awesome-cryptography.svg)](https://travis-ci.org/sobolevn/awesome-cryptography) [![Join the chat at https://gitter.im/sobolevn/awesome-cryptography](https://badges.gitter.im/sobolevn/awesome-cryptography.svg)](https://gitter.im/sobolevn/awesome-cryptography?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -183,10 +190,10 @@ A curated list of cryptography resources and links.
 - [cipher ★17](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
 - [cloak ★127](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 - [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
-- [elixir-rsa ★13](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
-- [elixir_tea ★1](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
+- [elixir-rsa ★13 ⏳2Y](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
+- [elixir_tea ★1 ⏳2Y](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 - [ex_crypto ★26](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
-- [exgpg ★6](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+- [exgpg ★6 ⏳1Y](https://github.com/rozap/exgpg) - Use gpg from Elixir.
 - [pot ★37](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 - [siphash-elixir ★7](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 
@@ -200,8 +207,8 @@ A curated list of cryptography resources and links.
 - [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
 - [cryptoballot ★103](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 - [dedis/crypto ★91](https://github.com/dedis/crypto) - Advanced crypto library for the Go language.
-- [dkeyczar ★101](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
-- [gocrypto ★84](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
+- [dkeyczar ★101 ⏳1Y](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
+- [gocrypto ★84 ⏳2Y](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 
 ### Haskell
 
@@ -211,7 +218,7 @@ A curated list of cryptography resources and links.
 - [cryptol ★593](https://github.com/GaloisInc/cryptol) - The Language of Cryptography.
 - [Cryptonite](https://hackage.haskell.org/package/cryptonite) - Haskell repository of cryptographic primitives.
 - [HsOpenSSL](https://github.com/phonohawk/HsOpenSSL) - OpenSSL binding for Haskel.
-- [scrypt ★11](https://github.com/informatikr/scrypt) - Haskell bindings to Colin Percival's scrypt implementation.
+- [scrypt ★11 ⏳1Y](https://github.com/informatikr/scrypt) - Haskell bindings to Colin Percival's scrypt implementation.
 
 ### Haxe
 
@@ -225,9 +232,9 @@ A curated list of cryptography resources and links.
 - [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
 - [cryptico ★661](https://github.com/wwwtyro/cryptico) - Easy-to-use encryption system utilizing RSA and AES for javascript.
 - [crypto-js ★1959](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-- [cryptojs ★211](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
+- [cryptojs ★211 ⏳4Y](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
 - [forge ★1864](https://github.com/digitalbazaar/forge) - Native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps.
-- [javascript-crypto-library ★230](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
+- [javascript-crypto-library ★230 ⏳1Y](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
 - [js-nacl ★361](https://github.com/tonyg/js-nacl) - Pure-Javascript High-level API to Emscripten-compiled libsodium routines.
 - [jsencrypt ★1360](https://github.com/travist/jsencrypt) - Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
 - [JShashes](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
@@ -235,7 +242,7 @@ A curated list of cryptography resources and links.
 - [libsodium.js ★233](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
 - [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for NodeJS.
 - [OpenPGP.js ★2523](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
-- [PolyCrypt ★260](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
+- [PolyCrypt ★260 ⏳2Y](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
 - [rusha ★200](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
 - [sjcl ★4379](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library.
 - [URSA ★458](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
@@ -272,7 +279,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### PHP
 
 - [halite](https://paragonie.com/project/halite) - Simple library for encryption using `libsodium`.
-- [libsodium-laravel ★14](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
+- [libsodium-laravel ★14 ⏳1Y](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
 - [PHP Encryption ★1126](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
 - [TCrypto ★50](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
 
@@ -305,7 +312,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [rust-openssl ★269](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
 - [rustls ★499](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
 - [sodiumoxide](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
-- [suruga ★127](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
+- [suruga ★127 ⏳1Y](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
 - [webpki ★86](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Scala
@@ -319,7 +326,7 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [OpenSSL ★28](https://github.com/Zewo/OpenSSL) - Swift OpenSSL for OS X and Linux.
 - [SweetHMAC ★28](https://github.com/jancassio/SweetHMAC) - Tiny and easy to use Swift class to encrypt strings using HMAC algorithms.
 - [Swift-Sodium ★136](https://github.com/jedisct1/swift-sodium) - Swift interface to the Sodium library for common crypto operations for iOS and OS X.
-- [SwiftSSL ★180](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift.
+- [SwiftSSL ★180 ⏳1Y](https://github.com/SwiftP2P/SwiftSSL) - Elegant crypto toolkit in Swift.
 
 ## Resources
 
@@ -368,3 +375,7 @@ rights to `awesome-cryptography`.
 
 You should have received a copy of the CC0 legalcode along with this
 work.  If not, see [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/sobolevn/awesome-cryptography">https://github.com/sobolevn/awesome-cryptography</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/meirwah/awesome-incident-response">https://github.com/meirwah/awesome-incident-response</a> with ranks
+</p>
+---
 # awesome-incident-response
 A curated list of tools and resources for security incident response, aimed to help security analysts and [DFIR](http://www.acronymfinder.com/Digital-Forensics%2c-Incident-Response-(DFIR).html) teams.
 
@@ -98,7 +105,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### Linux Evidence Collection
 
-* [FastIR Collector Linux ★44](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artefacts on live Linux and records the results in csv files
+* [FastIR Collector Linux ★44 ⏳1Y](https://github.com/SekoiaLab/Fastir_Collector_Linux) - FastIR for Linux collects different artefacts on live Linux and records the results in csv files
 
 ### Log Analysis Tools
 
@@ -121,7 +128,7 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Memory Imaging Tools
 
 * [Belkasoft Live RAM Capturer](http://belkasoft.com/ram-capturer) - A tiny free forensic tool to reliably extract the entire content of the computer’s volatile memory – even if protected by an active anti-debugging or anti-dumping system
-* [Linux Memory Grabber ★118](https://github.com/halpomeranz/lmg) - A script for dumping Linux memory and creating Volatility profiles.
+* [Linux Memory Grabber ★118 ⏳1Y](https://github.com/halpomeranz/lmg) - A script for dumping Linux memory and creating Volatility profiles.
 * [Magnet RAM Capture](https://www.magnetforensics.com/free-tool-magnet-ram-capture/) - Magnet RAM Capture is a free imaging tool designed to capture the physical memory of a suspect’s computer. Supports recent versions of Windows
 * [OSForensics](http://www.osforensics.com/) - OSForensics can acquire live memory on 32bit and 64bit systems. A dump of an individual process’s memory space or physical memory dump can be done
 
@@ -153,7 +160,7 @@ A curated list of tools and resources for security incident response, aimed to h
 ### Playbooks
 
 * [Demisto Playbooks Collection](https://www.demisto.com/category/playbooks/) - Playbooks collection
-* [IRM ★236](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale
+* [IRM ★236 ⏳1Y](https://github.com/certsocietegenerale/IRM) - Incident Response Methodologies by CERT Societe Generale
 * [IR Workflow Gallery](https://www.incidentresponse.com/playbooks/) - Different generic incident response workflows, e.g. for malware outbreak, data theft, unauthorized access,... Every workflow constists of seven steps: prepare, detect, analyze, contain, eradicate, recover, post-incident handling. The workflows are online available or for download
 * [PagerDuty Incident Response Documentation](https://response.pagerduty.com/) - Documents that describe parts of the PagerDuty Incident Response process. It provides information not only on preparing for an incident, but also what to do during and after. Source is available on [GitHub ★383](https://github.com/PagerDuty/incident-response-docs).
 
@@ -169,7 +176,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Cuckoo-modified-api ★4](https://github.com/keithjjones/cuckoo-modified-api) - A Python library to control a cuckoo-modified sandbox
 * [Hybrid-Analysis](https://www.hybrid-analysis.com/) - Hybrid-Analysis is a free powerful online sandbox by Payload Security
 * [Malwr](https://malwr.com) - Malwr is a free online malware analysis service and community, which is powered by the Cuckoo Sandbox
-* [Mastiff ★79](https://github.com/KoreLogicSecurity/mastiff) - MASTIFF is a static analysis framework that automates the process of extracting key characteristics from a number of different file formats
+* [Mastiff ★79 ⏳1Y](https://github.com/KoreLogicSecurity/mastiff) - MASTIFF is a static analysis framework that automates the process of extracting key characteristics from a number of different file formats
 * [Viper ★893](https://github.com/viper-framework/viper) - Viper is a python based binary analysis and management framework, that works well with Cuckoo and YARA
 * [Virustotal](https://www.virustotal.com) - Virustotal, a subsidiary of Google, is a free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners
 * [Visualize_Logs ★67](https://github.com/keithjjones/visualize_logs) - Open source 
@@ -201,3 +208,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [PSRecon ★218](https://github.com/gfoss/PSRecon) - PSRecon gathers data from a remote Windows host using PowerShell (v2 or later), organizes the data into folders, hashes all extracted data, hashes PowerShell and various system properties, and sends the data off to the security team. The data can be pushed to a share, sent over email, or retained locally
 * [RegRipper](https://code.google.com/p/regripper/wiki/RegRipper) - Regripper is an open source tool, written in Perl, for extracting/parsing information (keys, values, data) from the Registry and presenting it for analysis
 * [TRIAGE-IR](https://code.google.com/p/triage-ir/) - Triage-IR is a IR collector for Windows
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/meirwah/awesome-incident-response">https://github.com/meirwah/awesome-incident-response</a> with ranks
+</p>

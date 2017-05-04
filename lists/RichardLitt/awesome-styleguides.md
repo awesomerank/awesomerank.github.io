@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/RichardLitt/awesome-styleguides">https://github.com/RichardLitt/awesome-styleguides</a> with ranks
+</p>
+---
 awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 ===================
 
@@ -53,7 +60,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 # Other Styleguide Lists
 * [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@Saijo_George](https://twitter.com/Saijo_George).
 * [Narkoz ★1269](https://github.com/narkoz/guides)
-* [paulmillr ★164](https://github.com/paulmillr/code-style-guides)
+* [paulmillr ★164 ⏳3Y](https://github.com/paulmillr/code-style-guides)
 * [SalGnt ★1428](https://github.com/SalGnt/cscs)
 * [Styleguides.io ★469](https://github.com/maban/styleguides)
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides)
@@ -65,7 +72,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
-* [CSS Best Practices ★175](https://github.com/sezgi/CSS-Best-Practices)
+* [CSS Best Practices ★175 ⏳2Y](https://github.com/sezgi/CSS-Best-Practices)
 * [CSSWizardry](http://cssguidelin.es/) This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
 * [GitHub](http://primercss.io)
 * [Google](https://google.github.io/styleguide/htmlcssguide.xml)
@@ -91,7 +98,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## HTML
 * [Google](https://google.github.io/styleguide/htmlcssguide.xml)
-* [THX ★34](https://github.com/thx/html-code-guide) Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
+* [THX ★34 ⏳1Y](https://github.com/thx/html-code-guide) Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
 
 ## Java
 * [Android](http://source.android.com/source/code-style.html)
@@ -111,13 +118,13 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [rsjs ★91](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
 
 ### AngularJS
-* [gocardless ★1545](https://github.com/gocardless/angularjs-style-guide)
+* [gocardless ★1545 ⏳1Y](https://github.com/gocardless/angularjs-style-guide)
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
 * [johnpapa's opinionated sg for  AngularJS ★22517](https://github.com/johnpapa/angular-styleguide)
 * [mgechev's community best practices ★4882](https://github.com/mgechev/angularjs-style-guide)
 * [srph's AngularJS structure sg ★285](https://github.com/srph/angularjs-structure-styleguide)
 * [Todd Motto's for AngularJS ★5574](https://github.com/toddmotto/angularjs-styleguide)
-  * [jmcunningham's fork ★240](https://github.com/jmcunningham/angularjs-styleguide)
+  * [jmcunningham's fork ★240 ⏳2Y](https://github.com/jmcunningham/angularjs-styleguide)
 
 ### CoffeeScript
 * [Polarmobile ★1642](https://github.com/polarmobile/coffeescript-style-guide)
@@ -130,10 +137,10 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Google](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
 ### jQuery
-* [Pragmatic jQuery ★123](https://github.com/yuanyan/pragmatic-jquery)
+* [Pragmatic jQuery ★123 ⏳2Y](https://github.com/yuanyan/pragmatic-jquery)
 
 ### Modules
-* [mattdesl ★857](https://github.com/mattdesl/module-best-practices)
+* [mattdesl ★857 ⏳1Y](https://github.com/mattdesl/module-best-practices)
 
 ### npm
 * [npm Style Guide ★40](https://github.com/voorhoede/npm-style-guide#readme) An opinionated collection of best practices for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
@@ -152,8 +159,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0)
 * [Futurice iOS Good Practices ★6010](https://github.com/futurice/ios-good-practices) iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
 * [Github - Style guide & coding conventions for Swift projects ★4027](https://github.com/github/swift-style-guide) A guide to our Swift style and conventions by @github.
-* [Github Objective-C Style Guide ★1630](https://github.com/github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
-* [Khan ★15](https://github.com/Khan/objective-c-style-guide)
+* [Github Objective-C Style Guide ★1630 ⏳1Y](https://github.com/github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
+* [Khan ★15 ⏳1Y](https://github.com/Khan/objective-c-style-guide)
 * [NY Times - Objective C Style Guide ★4388](https://github.com/NYTimes/objective-c-style-guide) The Objective-C Style Guide used by The New York Times.
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) Gist with coding conventions.
 * [raywenderlich Style Guide ★2507](https://github.com/raywenderlich/objective-c-style-guide) A style guide that outlines the coding conventions for raywenderlich.com.
@@ -197,3 +204,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/RichardLitt/awesome-styleguides">https://github.com/RichardLitt/awesome-styleguides</a> with ranks
+</p>

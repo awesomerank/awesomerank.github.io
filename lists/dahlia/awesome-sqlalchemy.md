@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/dahlia/awesome-sqlalchemy">https://github.com/dahlia/awesome-sqlalchemy</a> with ranks
+</p>
+---
 Awesome SQLAlchemy
 ==================
 
@@ -476,3 +483,7 @@ sqlalchemy_mixins_
 .. _paginate_sqlalchemy: https://github.com/Pylons/paginate_sqlalchemy
 .. _sandman2: https://github.com/jeffknupp/sandman2
 .. _sqlalchemy_mixins: https://github.com/absent1706/sqlalchemy-mixins
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/dahlia/awesome-sqlalchemy">https://github.com/dahlia/awesome-sqlalchemy</a> with ranks
+</p>

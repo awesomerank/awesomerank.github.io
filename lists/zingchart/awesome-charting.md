@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/zingchart/awesome-charting">https://github.com/zingchart/awesome-charting</a> with ranks
+</p>
+---
 
 <img src="https://cdn.rawgit.com/zingchart/awesome-charting/media/assets/awesome-charting.svg" alt="awesome">
 
@@ -31,7 +38,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [dc.js](https://dc-js.github.io/dc.js/) - D3 Library with [crossfilter](http://square.github.io/crossfilter/) support
 * [dygraphs ★2148](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts.
 * [ECharts ★17534](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser.
-* [EJSChart ★18](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library.
+* [EJSChart ★18 ⏳1Y](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library.
 * [Graphosaurus](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
 * [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
 * [Plotly ★6220](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
@@ -76,3 +83,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [The Functional Art](http://www.thefunctionalart.com) - Noted data visualization author and professor Aberto Cairo's blog on dataviz trends and best practices.
 * [Visualizing Data](http://www.visualisingdata.com) - Dataviz consultant Andy Kirk compiles examples, resources, and reference materials on the subject of charting and visualization.
 * [Well Formed Data](http://well-formed-data.net/archives/1210/little-boxes) - Thought pieces on information visualization and design by Moritz Stefaner previously of the World Economic Forum.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/zingchart/awesome-charting">https://github.com/zingchart/awesome-charting</a> with ranks
+</p>

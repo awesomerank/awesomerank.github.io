@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/jtoy/awesome-tensorflow">https://github.com/jtoy/awesome-tensorflow</a> with ranks
+</p>
+---
 # Awesome TensorFlow  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★84](https://github.com/jtoy/awesome)
 
 A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
@@ -62,8 +69,8 @@ More info [here](http://tensorflow.org).
 * [Colornet - Neural Network to colorize grayscale images] (https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 * [Neural Caption Generator ★247](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
 * [Neural Caption Generator with Attention ★247](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
-* [Weakly_detector ★220](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
-* [Dynamic Capacity Networks ★7](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
+* [Weakly_detector ★220 ⏳1Y](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
+* [Dynamic Capacity Networks ★7 ⏳1Y](https://github.com/jazzsaxmafia/dcn.tf) - Implementation of ["Dynamic Capacity Networks"](http://arxiv.org/abs/1511.07838)
 * [HMM in TensorFlow ★139](https://github.com/dwiel/tensorflow_hmm) - Implementation of viterbi and forward/backward algorithms for HMM
 * [DeepOSM ★868](https://github.com/trailbehind/DeepOSM) - Train TensorFlow neural nets with OpenStreetMap features and satellite imagery.
 * [DQN-tensorflow ★957](https://github.com/devsisters/DQN-tensorflow) - TensorFlow implementation of DeepMind's 'Human-Level Control through Deep Reinforcement Learning' with OpenAI Gym by Devsisters.com
@@ -169,6 +176,7 @@ More info [here](http://tensorflow.org).
 
 ## Books
 
+* [Machine Learning with TensorFlow](http://tensorflowbook.com) by Nishant Shukla, computer vision researcher at UCLA and author of Haskell Data Analysis Cookbook. This book makes the math-heavy topic of ML approachable and practicle to a newcomer. 
 * [First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) by Jordi Torres, professor at UPC Barcelona Tech and a research manager and senior advisor at Barcelona Supercomputing Center
 * [Deep Learning with Python](https://machinelearningmastery.com/deep-learning-with-python/) - Develop Deep Learning Models on Theano and TensorFlow Using Keras by Jason Brownlee
 * [TensorFlow for Machine Intelligence](https://bleedingedgepress.com/tensor-flow-for-machine-intelligence/) - Complete guide to use TensorFlow from the basics of graph computing, to deep learning models to using it in production environments - Bleeding Edge Press
@@ -199,3 +207,7 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 
 * Some of the python libraries were cut-and-pasted from [vinta ★33326](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/jtoy/awesome-tensorflow">https://github.com/jtoy/awesome-tensorflow</a> with ranks
+</p>

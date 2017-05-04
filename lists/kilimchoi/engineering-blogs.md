@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/kilimchoi/engineering-blogs">https://github.com/kilimchoi/engineering-blogs</a> with ranks
+</p>
+---
 # Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 ### [Companies](#companies-1)
@@ -758,8 +765,12 @@ You can find an opml file to import rss feeds here: [engineering_blogs.opml](./e
 
 # Contributing
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/kilimchoi/engineering-blogs/blob/master/contributing.md) first.
 
 # License
 
 Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/kilimchoi/engineering-blogs">https://github.com/kilimchoi/engineering-blogs</a> with ranks
+</p>

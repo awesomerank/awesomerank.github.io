@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ibaaj/awesome-OpenSourcePhotography">https://github.com/ibaaj/awesome-OpenSourcePhotography</a> with ranks
+</p>
+---
 #Awesome-OpenSourcePhotography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome ★57421](https://github.com/sindresorhus/awesome).
@@ -49,23 +56,23 @@ A list of awesome free open source software & libraries for photography. Also to
 
 ### Canon
 
-- [OfxCanon ★40](https://github.com/roxlu/ofxCanon) - *OpenFrameworks addon for the Canon EDSK.*
+- [OfxCanon ★40 ⏳5Y](https://github.com/roxlu/ofxCanon) - *OpenFrameworks addon for the Canon EDSK.*
 - [Edsdk4j ★48](https://github.com/kritzikratzi/edsdk4j) - *Canon SDK for Java.*
 
 ### GoPro
-- [GoPro ★125](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.*
+- [GoPro ★125 ⏳4Y](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.*
 - [GoPro ★67](https://github.com/DenisCarriere/gopro) - *GoPro Hero 4 - Python API.*
 - [GoPro ★223](https://github.com/joshvillbrandt/goprohero) - *a Python library and a CLI that can interface with GoPro HERO3, HERO3+, and HERO4 cameras over http.*
-- [GoPro.Hero ★42](https://github.com/r1pper/GoPro.Hero) - *a lightweight c# library to access and control GoPro HERO.*
+- [GoPro.Hero ★42 ⏳1Y](https://github.com/r1pper/GoPro.Hero) - *a lightweight c# library to access and control GoPro HERO.*
 
 ### Sony
 
-- [SonyPy ★14](https://github.com/storborg/sonypy) - *Python module for Sony Camera Remote API.*
+- [SonyPy ★14 ⏳3Y](https://github.com/storborg/sonypy) - *Python module for Sony Camera Remote API.*
 
 ## Utilities
 
 - [Timelapse-sony ★52](https://github.com/ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.*
-- [Remoteyourcam-usb ★79](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.*
+- [Remoteyourcam-usb ★79 ⏳3Y](https://github.com/crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.*
 
 
 ## RAW image developers
@@ -179,3 +186,7 @@ make -f tmp/hugin.mk all
 ![license](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
 
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ibaaj/awesome-OpenSourcePhotography">https://github.com/ibaaj/awesome-OpenSourcePhotography</a> with ranks
+</p>

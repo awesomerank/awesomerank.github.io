@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/dav009/awesome-spanish-nlp">https://github.com/dav009/awesome-spanish-nlp</a> with ranks
+</p>
+---
 # Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 
@@ -15,7 +22,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Stanford - POSTagger](http://nlp.stanford.edu/software/tagger.shtml)
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
 - [ixa-pipe-pos ★8](https://github.com/ixa-ehu/ixa-pipe-pos)
-- [Ruby Snowball Implementation ★3](https://github.com/MaG21/estem)
+- [Ruby Snowball Implementation ★3 ⏳4Y](https://github.com/MaG21/estem)
 - [Spaguetti POSTagger(Based on NLTK +  CESS corpus](https://code.google.com/p/spaghetti-tagger/)
 
 # Multiword Expressions  Extractors (MLWE)
@@ -45,8 +52,8 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Lemmas Dictionary](http://sfn.uab.es:8080/SFN/dictionary/dictionary-information-lemmas-and-expanded-forms)
 - [esTenten Spanish (POSTagged) ](http://www.sketchengine.co.uk/documentation/wiki/Corpora/TenTen/esTenTen)
 - [Europarl Corpus (Parallel Corpus English-Spanish)](http://www.statmt.org/europarl/)
-- [Colombian Political Speeches ★1](https://github.com/dav009/LatinamericanTextResources)
-- [South American Slang Expressions/MTWE ★1](https://github.com/dav009/LatinamericanTextResources)
+- [Colombian Political Speeches ★1 ⏳3Y](https://github.com/dav009/LatinamericanTextResources)
+- [South American Slang Expressions/MTWE ★1 ⏳3Y](https://github.com/dav009/LatinamericanTextResources)
 - [Syntax and Semantic Annotations (Subset Ancora Corpus)](http://ufal.mff.cuni.cz/conll2009-st/trial/CoNLL2009-ST-Spanish-trial.zip)
 - [Plurilingual Specific Corpus on Economics, Medicine, Computer Science](http://www.iula.upf.edu/corpus/corpusuk.htm)
 - [Copenhagen  Treebank (Dependency Parsing)](http://code.google.com/p/copenhagen-dependency-treebank/)
@@ -76,10 +83,14 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/dav009/awesome-spanish-nlp/blob/master/contributing.md) first.
 
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [David Przybilla](http://alejandro.pictures) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/dav009/awesome-spanish-nlp">https://github.com/dav009/awesome-spanish-nlp</a> with ranks
+</p>

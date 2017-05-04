@@ -1,8 +1,15 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/AchoArnold/discount-for-student-dev">https://github.com/AchoArnold/discount-for-student-dev</a> with ranks
+</p>
+---
 # discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
 This list is greatly inspired by the [free-for-dev list ★15403](https://github.com/ripienaar/free-for-dev).
 
-You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](contributing.md) first.
+You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
 
 If you're not inclined to make PRs you can tweet me at [@acho_arnold](https://twitter.com/acho_arnold)!
@@ -152,3 +159,7 @@ Table of Contents
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Acho Arnold](https://acho.arnold.cf/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/AchoArnold/discount-for-student-dev">https://github.com/AchoArnold/discount-for-student-dev</a> with ranks
+</p>

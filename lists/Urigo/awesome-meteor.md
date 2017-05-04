@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/Urigo/awesome-meteor">https://github.com/Urigo/awesome-meteor</a> with ranks
+</p>
+---
 # Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Meteor Packages, libraries and software.
@@ -75,7 +82,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Helpers for templates*
 
 * [aldeed:autoform ★1408](https://github.com/aldeed/meteor-autoform) - UI components and helpers to easily create basic forms with automatic insert and update events, and automatic reactive validation.
-* [dispatch:scrollview ★23](https://github.com/DispatchMe/meteor-scrollview) - A high performance infinite scrollview for meteor
+* [dispatch:scrollview ★23 ⏳1Y](https://github.com/DispatchMe/meteor-scrollview) - A high performance infinite scrollview for meteor
 * [themeteorites:blaze-magic-events ★23](https://github.com/themeteorites/blaze-magic-events) - A new way of binding event handlers to html elements for Meteor's Blaze
 * [manuel:viewmodel ★206](https://github.com/ManuelDeLeon/viewmodel) - MVVM for Meteor
 * [webix:webix ★342](https://github.com/dandv/meteor-webix) - Meteor.js - Webix UI integration
@@ -94,7 +101,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [BulletProof Meteor](https://bulletproofmeteor.com/)
 * [meteorhacks:kadira ★183](https://github.com/meteorhacks/kadira) - Performance Monitoring for Meteor.
 * [meteor-up](https://github.com/arunoda/meteor-up) – Meteor Deployments.
-* [davidyaha:collection2-migrations ★35](https://github.com/davidyaha/meteor-collection2-migrations) - Auto DB migrations with collection2 and simple schema on Meteor
+* [davidyaha:collection2-migrations ★35 ⏳1Y](https://github.com/davidyaha/meteor-collection2-migrations) - Auto DB migrations with collection2 and simple schema on Meteor
 * [percolate:migrations ★193](https://github.com/percolatestudio/meteor-migrations) - Simple migration system for Meteor
 * [meteorhacks:fast-render ★585](https://github.com/kadirahq/fast-render) - Render you app even before the DDP connection is live
 * [meteorhacks:cluster ★631](https://github.com/meteorhacks/cluster) - Clustering solution for Meteor with load balancing and service discovery
@@ -122,9 +129,9 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [Meteor Testing Manual](http://www.meteortesting.com/)
 * [Velocity](http://velocity.meteor.com/) - A reactive test-runner for Meteor.
-* [mike:mocha ★157](https://github.com/mad-eye/meteor-mocha-web) – Run mocha tests within the Meteor framework.
+* [mike:mocha ★157 ⏳1Y](https://github.com/mad-eye/meteor-mocha-web) – Run mocha tests within the Meteor framework.
 * [xolvio:chimp ★616](https://github.com/xolvio/chimp) - Testing so easy, a primate could do it! Supports mocha, Cucumber, jasmine, and chai.
-* [velocity:html-reporter ★25](https://github.com/meteor-velocity/html-reporter) - HTML reporter for Meteor velocity testing framework.
+* [velocity:html-reporter ★25 ⏳1Y](https://github.com/meteor-velocity/html-reporter) - HTML reporter for Meteor velocity testing framework.
 
 ## Files
 
@@ -154,8 +161,8 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [martijnwalraven:meteor-ios ★756](https://github.com/martijnwalraven/meteor-ios) - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP ★243](https://github.com/delight-im/Android-DDP) - DDP for clients on Android.
 * [okland:accounts-phone ★104](https://github.com/okland/accounts-phone) - A login service based on mobile phone number for Meteor.
-* [okland:camera-ui ★24](https://github.com/okland/camera-ui) - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
-* [percolatestudio/cordova-plugin-safe-reload ★13](https://github.com/percolatestudio/cordova-plugin-safe-reload) - Cordova plugin to watch and recover after a broken Meteor Hot Code Push.
+* [okland:camera-ui ★24 ⏳1Y](https://github.com/okland/camera-ui) - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
+* [percolatestudio/cordova-plugin-safe-reload ★13 ⏳1Y](https://github.com/percolatestudio/cordova-plugin-safe-reload) - Cordova plugin to watch and recover after a broken Meteor Hot Code Push.
 
 ## Analytics
 
@@ -175,9 +182,9 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Debugging Tools*
 
 * [msavin:mongol ★806](https://github.com/msavin/Mongol) - Visual Editing Tool for Meteor for MongoDB Collections.
-* [msavin:jetsetter ★185](https://github.com/msavin/JetSetter) - Visual Get/Set Tool for Meteor Session Variables.
+* [msavin:jetsetter ★185 ⏳1Y](https://github.com/msavin/JetSetter) - Visual Get/Set Tool for Meteor Session Variables.
 * [meteorhacks:kadira-debug ★157](https://github.com/kadirahq/meteor-debug) - Full Stack Debugging Solution for Meteor.
-* [babrahams:constellation ★30](https://github.com/JackAdams/constellation-distro) - An extensible dev console for Meteor.
+* [babrahams:constellation ★30 ⏳1Y](https://github.com/JackAdams/constellation-distro) - An extensible dev console for Meteor.
 * [Meteor DDP Monitor](https://github.com/thebakeryio/meteor-ddp-monitor) - Chrome Dev tools extension for monitoring Meteor DDP traffic
 * [Dr. Mongo](http://www.drmongo.com/) - Open-source MongoDB admin app built on MeteorJs.
 
@@ -185,7 +192,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Using package managers in Meteor*
 
-* [meteorhacks:npm ★545](https://github.com/meteorhacks/npm) - Use Npm Modules with Your Meteor App.
+* [meteorhacks:npm ★545 ⏳1Y](https://github.com/meteorhacks/npm) - Use Npm Modules with Your Meteor App.
 * [cosmos:browserify ★79](https://github.com/elidoran/cosmos-browserify) - Browserify npm modules for client side in Meteor packages.
 
 ## Scaffolding
@@ -194,9 +201,9 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [Meteor Kitchen](http://www.meteorkitchen.com/) - Code generator for Meteor
 * [iron-cli ★656](https://github.com/iron-meteor/iron-cli) - A scaffolding command line tool for Meteor applications 
-* [Differential - meteor-boilerplate ★920](https://github.com/Differential/meteor-boilerplate)
+* [Differential - meteor-boilerplate ★920 ⏳1Y](https://github.com/Differential/meteor-boilerplate)
 * [matteodem - meteor-boilerplate ★842](https://github.com/matteodem/meteor-boilerplate)
-* [meteoris2 ★269](https://github.com/radiegtya/meteoris2)
+* [meteoris2 ★269 ⏳1Y](https://github.com/radiegtya/meteoris2)
 * [Base ★624](https://github.com/themeteorchef/base)
 
 ## Tooling
@@ -235,7 +242,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 **Alternative Databases for MongoDB
 
 * [meteor-pg ★8](https://github.com/Richie765/meteor-pg) - New and improved PostgreSQL support for Meteor
-* [numtel:pg ★304](https://github.com/numtel/meteor-pg) - Reactive PostgreSQL for Meteor
+* [numtel:pg ★304 ⏳1Y](https://github.com/numtel/meteor-pg) - Reactive PostgreSQL for Meteor
 * [numtel:mysql ★326](https://github.com/numtel/meteor-mysql) - Reactive MySQL for Meteor
 * [simple:rethink ★310](https://github.com/Slava/meteor-rethinkdb) - RethinkDB integration for Meteor
 
@@ -289,7 +296,7 @@ Where to discover new Meteor things.
 * [Meetups](http://meteor.meetup.com/)
 * [Reddit](https://www.reddit.com/r/meteor)
 * [YouTube](https://www.youtube.com/channel/UC3fBiJrFFMhKlsWM46AsAYw) videos from meetups around the world
-* [Unofficial Meteor FAQ ★1012](https://github.com/oortcloud/unofficial-meteor-faq)
+* [Unofficial Meteor FAQ ★1012 ⏳1Y](https://github.com/oortcloud/unofficial-meteor-faq)
 * [The Meteor Chef](https://themeteorchef.com) 
 
 ### Q&A
@@ -321,3 +328,7 @@ Where to discover new Meteor things.
 Your contributions are always welcome!
 
 Thank you @gillesfabio for creating this repo!
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/Urigo/awesome-meteor">https://github.com/Urigo/awesome-meteor</a> with ranks
+</p>

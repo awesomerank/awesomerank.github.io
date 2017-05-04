@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/krispo/awesome-haskell">https://github.com/krispo/awesome-haskell</a> with ranks
+</p>
+---
 Awesome Haskell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 =============
 
@@ -55,7 +62,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 * [Happy](https://www.haskell.org/happy/) - The Parser Generator for Haskell.
 * [Hayoo](http://hayoo.fh-wedel.de/) - will search all packages from Hackage, including all function and type definitions.
 * [Hoogle](https://www.haskell.org/hoogle/) - a Haskell API search engine, which allows you to search many standard Haskell libraries by either function name, or by approximate type signature.
-* [hsenv ★122](https://github.com/Paczesiowa/hsenv) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
+* [hsenv ★122 ⏳3Y](https://github.com/Paczesiowa/hsenv) - a tool to create isolated Haskell environments. This allows a project to use a GHC version different of the currently installed.
 * [Stack ★2206](https://github.com/commercialhaskell/stack) - a cross-platform tool to help on building Haskell projects. It includes support to create isolated Haskell environments and to automatically manage the dependencies of a project.
 * [Stackage ★282](https://github.com/fpco/stackage) - "Stable Hackage," tools for creating a vetted set of packages from Hackage.
 * [The Haskell Platform](https://www.haskell.org/platform/contents.html) - a comprehensive, robust development environment for programming in Haskell.
@@ -428,3 +435,7 @@ An auxiliary list of awesome Haskell links, frameworks, libraries and software. 
 # License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/krispo/awesome-haskell">https://github.com/krispo/awesome-haskell</a> with ranks
+</p>

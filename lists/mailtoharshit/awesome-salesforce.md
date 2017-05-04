@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/mailtoharshit/awesome-salesforce">https://github.com/mailtoharshit/awesome-salesforce</a> with ranks
+</p>
+---
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/spring17.jpg" align="center" width="1200">
 
@@ -19,8 +26,8 @@ Awesome is awesome project started by [Sindre Sorhus](http://githubranking.com/s
 Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce/blob/master/contributing.md) and ensure your list complies.
 
   Read Related Awesome Pages :
-   * [Awesome Lighting ★17](https://github.com/mailtoharshit/awesome-lighting)
-   * [Awesome Articles ★3](https://github.com/mailtoharshit/awesome-salesforce-articles)
+   * [Awesome Lighting ★17 ⏳1Y](https://github.com/mailtoharshit/awesome-lighting)
+   * [Awesome Articles ★3 ⏳1Y](https://github.com/mailtoharshit/awesome-salesforce-articles)
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Awesome Heroku ★1](https://github.com/mailtoharshit/awesome-heroku)
 
@@ -112,11 +119,11 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 </a><br/>
 
 This library has been extended by five libraries <br/>
-* [Google Cloud Print ★3](https://github.com/financialforcedev/ffhttp-googlecloudprint)
+* [Google Cloud Print ★3 ⏳2Y](https://github.com/financialforcedev/ffhttp-googlecloudprint)
 * [Google Drive ★7](https://github.com/financialforcedev/ffhttp-googledrive)
-* [Google Mirror ★0](https://github.com/financialforcedev/ffhttp-googlemirror)
-* [Google Sheets ★5](https://github.com/financialforcedev/ffhttp-googlesheets)
-* [Dropbox ★4](https://github.com/financialforcedev/ffhttp-dropbox)
+* [Google Mirror ★0 ⏳2Y](https://github.com/financialforcedev/ffhttp-googlemirror)
+* [Google Sheets ★5 ⏳2Y](https://github.com/financialforcedev/ffhttp-googlesheets)
+* [Dropbox ★4 ⏳2Y](https://github.com/financialforcedev/ffhttp-dropbox)
 
 
  <b>Key Features of this library</b>
@@ -124,12 +131,15 @@ This library has been extended by five libraries <br/>
   + JSON serialization and deserialization base classes.
   + OAuth Client - extends the base AbstractClient to provide the callouts required for OAuth authentication.
 
-* [Polyforce ★27](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/>
+* [Polyforce ★27 ⏳2Y](https://github.com/mailtoharshit/polyforce) - PolyForce is the project started as an idea with a motive create polymer applications/components that derive data from Salesforce, The idea create a robust set of polymer components that can mutually be shared with each other and on the other hand provide a working sample for developers to learn and get inspired to built more components <br/>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://na17.salesforce.com/packaging/installPackage.apexp?p0=04to00000003EDJ)
 
-* [Salesforce to Github  ★0](https://github.com/SalesforceFoundation/sfdo-github) - Github API client in Apex for Force.com <br/>
-* [Apex UML Digram Maker ★34](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/>
+* [Salesforce to Github  ★0 ⏳1Y](https://github.com/SalesforceFoundation/sfdo-github) - Github API client in Apex for Force.com <br/>
+* [Apex UML Digram Maker ★34 ⏳1Y](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/>
 * [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
+
+* [Visualforce TableGrid](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br>
+[![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid)
 
 ### Developer Utilities
 
@@ -142,9 +152,9 @@ This library has been extended by five libraries <br/>
 
 * [Cinnamon ★59](https://github.com/forcedotcom/cinnamon)-Cinnamon is a Force.com app that enables you to build and run Selenium tests to validate custom UI pages with Visualforce/Javascript in your Salesforce org.
 
-* [Push Notification Plugin for iOS and Android ★1](https://github.com/forcedotcom/PushPlugin)- Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
+* [Push Notification Plugin for iOS and Android ★1 ⏳2Y](https://github.com/forcedotcom/PushPlugin)- Cordova Push Notifications Plugin for Android, iOS, WP8 and Amazon Fire OS
 
-* [Salesforce1-Dev-Guide-Setup-Package ★36](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
+* [Salesforce1-Dev-Guide-Setup-Package ★36 ⏳2Y](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
 
 * [Analytics-Cloud-Dataset-Utils ★75](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)- Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
 
@@ -178,7 +188,7 @@ This library has been extended by five libraries <br/>
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
 
 * [Salesforce Mobile UI - Polymer Elements for Salesforce](https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
-* [ForceServer ★26](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
+* [ForceServer ★26 ⏳1Y](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
 
 ## Javascript Libraries for Salesforce
 
@@ -186,7 +196,7 @@ This library has been extended by five libraries <br/>
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/JavaScript.png" align="right" width="220">
 
-* [ForceSniffer - Device Detection Library for Salesforce ★6](https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context.
+* [ForceSniffer - Device Detection Library for Salesforce ★6 ⏳1Y](https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context.
 * [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps
 * [nForce ★259](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com
 * [ngForce ★142](https://github.com/noeticpenguin/ngForce) -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
@@ -206,7 +216,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * [Feather - Google Material Design Mockup for Salesforce](https://github.com/mailtoharshit/Feather/blob/master/README.md) - Library 
 * [React Components for Saleforce Lighting Design System](http://mashmatrix.github.io/react-lightning-design-system/) - Salesforce Lightning Design System components built with React
 * [Salesforce ReactJS SPA Starter](https://github.com/stomita/salesforce-reactjs-spa-starter) - A template project to create ReactJS-based single page application on Salesforce, with automatic build script (Gulp.js)
-* [ForceSpinner ★7](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
+* [ForceSpinner ★7 ⏳1Y](https://github.com/mailtoharshit/ForceSpinner) - Loaders/Spinner collections to leverage powerful User Experience for Salesforce Projects
 
 ## ETL Tools
 
@@ -221,7 +231,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * Some other solutions from [awesome-etl list ★384](https://github.com/pawl/awesome-etl).
 
 ## Salesforce Lighting
-* [Awesome Lighting ★17](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
+* [Awesome Lighting ★17 ⏳1Y](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework
 
 ## Salesforce Browser Extensions
 * [Awesome Salesforce Browser Extensions ★9](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce): Collection of Awesome Browser Extensions for Salesforce
@@ -241,17 +251,17 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 Google Polymer Pack : [Try Designer](https://sfdc-designer.herokuapp.com/) | [Github Repo](https://github.com/forcedotcom/mobile-ui-elements) | [Watch Designer Video](https://www.youtube.com/watch?v=67FjSemJ7uQ&feature=youtu.be) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/polymer.png" align="left" width="180">](https://github.com/ForceDotComLabs/mobile-ui-elements)
 Build your Mobile App with a set of new HTML tags that ease the development of salesforce driven user interfaces. It's based on the Google’s Polymer framework and uses Web Components to provide fundamental building blocks for creating an Offline enabled application with Salesforce Mobile SDK
 
-AngularJS Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#angularjs) | [Github Repo ★72](https://github.com/developerforce/MobilePack-AngularJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443678/dsl4du0pi46hb28za8jz.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#jquery)
+AngularJS Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#angularjs) | [Github Repo ★72 ⏳2Y](https://github.com/developerforce/MobilePack-AngularJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443678/dsl4du0pi46hb28za8jz.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#jquery)
 Design and build apps that separate UI, logic, and data using Mobile Pack for AngularJS. Google's AngularJS lets you reap the benefits of a Model-View-Control architecture in your JavaScript code and utilize advanced features like reusable components and dependency injection.
 
 
-Jquery Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery) | [Github Repo ★15](https://github.com/developerforce/MobilePack-jQueryMobile) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443533/mxpjwcbxf1zxg4ptzyf1.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
+Jquery Pack : [Get Started](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery) | [Github Repo ★15 ⏳3Y](https://github.com/developerforce/MobilePack-jQueryMobile) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443533/mxpjwcbxf1zxg4ptzyf1.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
 Quickly create mobile web and hybrid apps using the Mobile Pack for jQuery Mobile. jQuery Mobile is a touch-optimized web framework that lets you develop mobile web applications using HTML5, JavaScript and CSS3 for a wide variety of smartphones and tablet computers.
 
-Backbone Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#backbone) | [Github Repo ★25](https://github.com/developerforce/MobilePack-BackboneJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443611/xh5arugajxlhquh6jesc.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#backbone)
+Backbone Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#backbone) | [Github Repo ★25 ⏳3Y](https://github.com/developerforce/MobilePack-BackboneJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1365443611/xh5arugajxlhquh6jesc.png" align="left" width="180">](https://developer.salesforce.com/mobile/getting-started/html5/#backbone)
 Add structure to your mobile web and hybrid applications with Mobile Pack for Backbone.js. Backbone.js is a JavaScript framework that provides models with key-value binding and custom events, collections with a rich API of enumerable functions, and views with declarative event handling.
 
-Knockout Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#knockout) | [Github Repo ★4](https://github.com/developerforce/MobilePack-KnockoutJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1373054813/knockout.png.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#knockout))
+Knockout Pack : [Get Started](https://developer.salesforce.com/mobile/getting-started/html5/#knockout) | [Github Repo ★4 ⏳3Y](https://github.com/developerforce/MobilePack-KnockoutJS) |  [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1373054813/knockout.png.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#knockout))
 Get Mobile Pack for Knockout and create mobile apps with responsive design that updates dynamically. Knockout adds dependency tracking that refreshes your UI whenever your data changes, and lets you create new resusable custom behaviors.
 
 Appery.IO Pack : [Get Started](http://appery.io/salesforce/?utm_source=external&utm_medium=link&utm_campaign=ongoingPartnerLinks)[<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/v1373054840/appery.png.png" align="left" width="180">](http://appery.io/salesforce/?utm_source=external&utm_medium=link&utm_campaign=ongoingPartnerLinks)
@@ -269,7 +279,7 @@ Mobilize your Salesforce data and build native, cross-platform apps from a singl
 VizApps Pack : [Get Started](http://www.viziapps.com/learn-more/create-custom-mobile-apps-with-salesforce-data/) | [<img src="http://res.cloudinary.com/hy4kyit2a/image/upload/viziapps_web_logo_2.png" align="left" width="180">](https://developer.salesforce.com/en/mobile/getting-started/html5/#jquery)
 Create mobile apps with device feature-driven workflow using your standard or custom objects with Mobile Pack for ViziApps. Combine flexible UX design with Salesforce data into your app’s workflow without coding, then publish to the Apple App Store, Google Play, or directly to your enterprise users.
 
-[Ionic Starter Pack for Saleforce ★78](https://github.com/driftyco/ionic-starter-salesforce) - A starter project for Ionic and Salesforce
+[Ionic Starter Pack for Saleforce ★78 ⏳1Y](https://github.com/driftyco/ionic-starter-salesforce) - A starter project for Ionic and Salesforce
 
 ## Troubleshooting and queries
  * [Force.com Discussion boards](http://boards.developerforce.com/sforce/?category.id=developers) : Rich variety of boards are available to discuss almost anything about platform. Locate the correct board [here].
@@ -336,3 +346,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/mai
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/mailtoharshit/awesome-salesforce">https://github.com/mailtoharshit/awesome-salesforce</a> with ranks
+</p>

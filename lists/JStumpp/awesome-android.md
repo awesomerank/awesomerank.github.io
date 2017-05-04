@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/JStumpp/awesome-android">https://github.com/JStumpp/awesome-android</a> with ranks
+</p>
+---
 # Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 # [<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png"> ★3861](https://github.com/jstumpp/awesome-android)
@@ -103,7 +110,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AndroidStaggeredGrid ★4513](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
 - [AndroidQuery](https://github.com/androidquery/androidquery) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
 - [Flow ★2215](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
-- [Crouton ★2994](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
+- [Crouton ★2994 ⏳1Y](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
 - [DragSortListView](https://github.com/bauerca/drag-sort-listview) - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
 - [MaterialProgressBar ★1154](https://github.com/DreaminginCodeZH/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
 - [AndroidFillableLoaders ★1576](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
@@ -111,7 +118,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Snap RecyclerView Utils ★68](https://github.com/prashantsolanki3/Snap-RecyclerView-Utils) - Populate Single or multiple Layout RecyclerView without creating an Adapter.
 - [SwipeableCard ★570](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView!!
 - [ElasticProgressBar ★255](https://github.com/michelelacorte/ElasticProgressBar) - Beautiful loading bar.
-- [EntryScreenManager ★27](https://github.com/kunall17/EntryScreenManager) - Intro/Entry/Walkthrough/Starting Screens.
+- [EntryScreenManager ★27 ⏳1Y](https://github.com/kunall17/EntryScreenManager) - Intro/Entry/Walkthrough/Starting Screens.
 - [EasyIntro ★64](https://github.com/meNESS/EasyIntro) - The flexible, easy to use, all in one app intro library for your Android project.
 - [Material-Calendar-View ★257](https://github.com/BlackBoxVision/material-calendar-view) - Material Design Calendar compatible with API 8+
 - [SectionedRecyclerViewAdapter ★450](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.
@@ -129,7 +136,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Litho (By Facebook) ★2690](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
-- [FadingActionBar ★2850](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
+- [FadingActionBar ★2850 ⏳2Y](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
 
 #### Navigation
 - [SlidingMenu ★10381](https://github.com/jfeinstein10/SlidingMenu) - Library to create applications with slide-in menus.
@@ -141,7 +148,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Floating-Navigation-View ★779](https://github.com/andremion/Floating-Navigation-View) - A simple Floating Action Button that shows an anchored Navigation View.
 
 #### Animations
-- [NineOldAndroids ★4102](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
+- [NineOldAndroids ★4102 ⏳1Y](https://github.com/JakeWharton/NineOldAndroids) - Library for using the Honeycomb animation API on all versions of the platform back to 1.0.
 - [Rebound ★4391](https://github.com/facebook/rebound) - Rebound is a java library that models spring dynamics.
 - [Android View Animations ★7295](https://github.com/daimajia/AndroidViewAnimations) - Cute view animation collection.
 - [Android-Transition ★546](https://github.com/kaichunlin/android-transition) - Allows the easy creation of view transitions that react to user inputs.
@@ -152,7 +159,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Crescento ★883](https://github.com/developer-shivam/crescento) - Explore new style in material design by adding curve below image view.
 - [android-crop ★3500](https://github.com/jdamcd/android-crop) - Library project for cropping images.
-- [CircularImageView ★1125](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
+- [CircularImageView ★1125 ⏳1Y](https://github.com/Pkmmte/CircularImageView) - Custom view for circular images while maintaining the best draw performance.
 - [Android-Image-Filter ★501](https://github.com/ragnraok/android-image-filter) - Library project for applying image filters easily.
 - [Compressor ★2168](https://github.com/zetbaitsu/Compressor) - Compressor is a lightweight and powerful android image compression library.
 
@@ -196,9 +203,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [OkHttp ★19414](https://github.com/square/okhttp) - An HTTP+SPDY client for Android and Java applications.
 - [Asynchronous Http Client ★9779](https://github.com/loopj/android-async-http) - An Asynchronous HTTP Library.
 - [RoboSpice ★3007](https://github.com/stephanenicolas/robospice) - Library that makes writing asynchronous network requests easy.
-- [IceNet ★67](https://github.com/anton46/IceNet) - Fast, Simple and Easy Networking for Android
+- [IceNet ★67 ⏳2Y](https://github.com/anton46/IceNet) - Fast, Simple and Easy Networking for Android
 - [Android Volley](https://developer.android.com/training/volley/index.html) - Official Android HTTP library that makes networking for easier and faster.
-- [IceSoap ★65](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
+- [IceSoap ★65 ⏳1Y](https://github.com/AlexGilleran/IceSoap) - Easy, asynchronous, annotation-based SOAP for Android.
 - [node-android ★446](https://github.com/InstantWebP2P/node-android) - Run Node.js on Android.
 - [HappyDns ★115](https://github.com/qiniu/happy-dns-android) - A Dns library, user can use custom dns server, dnspod httpdns. Only support A record.
 - [RESTMock ★397](https://github.com/andrzejchm/RESTMock) - HTTP Web server for mocking API responses in Android Instrumentation tests.
@@ -213,8 +220,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [EzyLogger ★2](https://github.com/afiqiqmal/EzyLogger) - Simple Lightweight logger
 
 ### Notifications
-- [android-remote-notifications ★67](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
-- [Android HeartBeat Fixer ★38](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
+- [android-remote-notifications ★67 ⏳1Y](https://github.com/kaiwinter/android-remote-notifications) - Pulls notifications from a remote JSON file and shows them in your app.
+- [Android HeartBeat Fixer ★38 ⏳1Y](https://github.com/joaopedronardari/AndroidHeartBeatFixer) - Way to set heartbeat interval and users receive PushNotifications from GCM.
 
 ### Database
 - [Cupboard](https://bitbucket.org/littlerobots/cupboard) - Access the sqlite easily via direct database access or through the ContentProvider framework.
@@ -222,7 +229,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [SQLite Asset Helper ★1784](https://github.com/jgilfelt/android-sqlite-asset-helper) - manage database creation and version management using an application's raw asset files.
 - [Realm ★7597](https://github.com/realm/realm-java) - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
 - [Realm Asset Helper ★19](https://github.com/eggheadgames/android-realm-asset-helper) - Copies a realm database from the apk assets folder. Efficienty handles versioning of read-only realm databases.
-- [RestorableSQLiteDatabase ★15](https://github.com/yaa110/RestorableSQLiteDatabase) - A wrapper to replicate android's SQLiteDatabase with restoring capability.
+- [RestorableSQLiteDatabase ★15 ⏳1Y](https://github.com/yaa110/RestorableSQLiteDatabase) - A wrapper to replicate android's SQLiteDatabase with restoring capability.
 
 #### ORM
 
@@ -232,14 +239,14 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
 - [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
 - [DBFlow ★3376](https://github.com/Raizlabs/DBFlow) - Fast and powerful ORM with compile-time annotation processing.
-- [NexusData ★71](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
+- [NexusData ★71 ⏳2Y](https://github.com/dkharrat/NexusData) - Object graph and persistence framework for Android.
 - [SimpleNoSQL ★394](https://github.com/Jearil/SimpleNoSQL) - A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code.
 - [RxSimpleNoSQL ★35](https://github.com/xmartlabs/RxSimpleNoSQL) - Reactive extensions for SimpleNoSQL. Manipulate entities using Observables.
 
 ### REST
 
 - [Retrofit](http://square.github.io/retrofit/) - Retrofit turns your REST API into a Java interface.
-- [Spring for Android - Rest Template ★651](https://github.com/spring-projects/spring-android) - A Rest Client for Android.
+- [Spring for Android - Rest Template ★651 ⏳1Y](https://github.com/spring-projects/spring-android) - A Rest Client for Android.
 
 ### Testing
 
@@ -259,7 +266,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Google-Directions-Android ★633](https://github.com/jd-alexander/Google-Directions-Android) - Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.
 - [Android Maps Extensions ★343](https://github.com/mg6maciej/android-maps-extensions) - Extending capabilities of Google Maps Android API v2, adding marker clustering among other things
-- [Clusterkraf ★267](https://github.com/twotoasters/clusterkraf) - Clustering library for the Google Maps Android API v2
+- [Clusterkraf ★267 ⏳2Y](https://github.com/twotoasters/clusterkraf) - Clustering library for the Google Maps Android API v2
 - [MapScaleView ★33](https://github.com/pengrad/MapScaleView) - Scale bar for Google Maps Android API
 
 ### Utility
@@ -267,11 +274,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Conceal SharedPreferences ★21](https://github.com/afiqiqmal/ConcealSharedPreference-Android) - Secured Preferences using Facebook Secure Encryption called Conceal. 
 - [EventBus](http://greenrobot.github.io/EventBus/) - EventBus is a library that simplifies communication between different parts of your application.
 - [Otto ★4772](https://github.com/square/otto) - Event Bus for Android.
-- [Weak handler ★1043](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
+- [Weak handler ★1043 ⏳1Y](https://github.com/badoo/android-weak-handler) - Memory safer implementation of android.os.Handler.
 - [Byte Buddy](http://bytebuddy.net) - Runtime code generation library with support for Android.
 - [Secure Preference Manager ★64](https://github.com/prashantsolanki3/Secure-Pref-Manager) - Secure Preference Manager for android. It uses various Encryption to protect your application's Shared Preferences.
 - [LeakCanary ★14847](https://github.com/square/leakcanary) - Catch memory leaks as they occur.
-- [Drekkar ★14](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
+- [Drekkar ★14 ⏳1Y](https://github.com/coshx/drekkar) - An Android event bus for WebView and JS.
 - [Androl4b ★366](https://github.com/sh4hin/Androl4b) - A vm for assessing android applications.
 - [DroidMVP ★204](https://github.com/andrzejchm/DroidMVP) - Android library to help you incorporate MVP along with Passive View and Presentation Model patterns into your app.
 - [Gota ★41](https://github.com/alhazmy13/Gota) - Simplifying Android Permissions.
@@ -281,7 +288,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 ### Debugging Tools
 
 - [Linx ★533](https://github.com/pedrovgs/Lynx) - Show logcat inside the device for debug builds
-- [Scalpel ★2037](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
+- [Scalpel ★2037 ⏳1Y](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
 - [Stetho ★7492](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
 - [Android Debug Database ★2062](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
 
@@ -329,7 +336,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AboutLibraries ★1734](https://github.com/mikepenz/AboutLibraries) - Automatically generates an About this app section, with a list of used libraries.
 - [AudioPlayerView ★75](https://github.com/HugoMatilla/AudioPlayerView) - A view that loads audio from an url and have basic playback tools.
 - [andle ★39](https://github.com/Jintin/andle) - command line tool help you sync dependencies, sdk or build tool version.
-- [Typography ★40](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
+- [Typography ★40 ⏳1Y](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
 - [Calligraphy ★6137](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android an OK way.
 - [transai ★38](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 - [Android-Link-Preview ★212](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
@@ -350,7 +357,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Device Art Generator](https://developer.android.com/distribute/marketing-tools/device-art-generator.html) - Wraps app screenshots in real device artwork.
 - [Android UI design resources](https://androiduiux.com/free-design-resources/) - Gives you wide variety of design resources form a Google Developer Expert in UI/UX.
 - [Pencil Project](http://pencil.evolus.vn/) - An open source prototyping software.
-- [Google Wear App ★9](https://github.com/mbcrump/FirstGoogleWearableApp) - This is an open source Google Wear App that uses speech recognition to calculate a tip.
+- [Google Wear App ★9 ⏳2Y](https://github.com/mbcrump/FirstGoogleWearableApp) - This is an open source Google Wear App that uses speech recognition to calculate a tip.
 - [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) - Video tutorials by Derek Banas.
 - [android-blogs ★347](https://github.com/vbauer/android-blogs) - List with blogs about Android.
 - [Future Studio](https://futurestud.io/tutorials/tag/android) - Extensive Android tutorials on Retrofit, Picasso, Glide & Gson.
@@ -397,12 +404,12 @@ My personal recommendation is (for now) to use the android api to build a native
 ### Groovy
 - [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
 - [Groovy Language Support for Android ★686](https://github.com/groovy/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
-- [SwissKnife ★253](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
+- [SwissKnife ★253 ⏳1Y](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
 
 ### Kotlin
 - [Anko ★4378](https://github.com/Kotlin/anko) - DSL for Android written in Kotlin by JetBrains.
 - [Kotterknife ★964](https://github.com/JakeWharton/kotterknife) - Android view injection writen in Kotlin based on ButterKnife
-- [Android Kotlin Samples ★153](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples writen in Kotlin.
+- [Android Kotlin Samples ★153 ⏳1Y](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples writen in Kotlin.
 - [KAndroid ★452](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
 - [RxKotlin/Pocket ★11](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 
@@ -414,4 +421,8 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness ★18656]
 
 ## Contributing
 
-Your contributions are always welcome! Please read the [contribution guidelines](contributing.md) first.
+Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/JStumpp/awesome-android/blob/master/contributing.md) first.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/JStumpp/awesome-android">https://github.com/JStumpp/awesome-android</a> with ranks
+</p>

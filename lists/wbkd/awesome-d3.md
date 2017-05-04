@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/wbkd/awesome-d3">https://github.com/wbkd/awesome-d3</a> with ranks
+</p>
+---
 # Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities.
@@ -38,11 +45,11 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [dTree ★57](https://github.com/ErikGartner/dTree) - Family tree library
 - [epoch](http://epochjs.github.io/epoch/) - A general purpose, real-time visualization library
 - [EventDrops ★718](https://github.com/marmelab/EventDrops) - A time based/event series interactive visualization
-- [fancycharts ★86](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values
-- [firespray ★80](https://github.com/boundary/firespray) - Streaming charts
-- [forest-d3 ★47](https://github.com/robinfhu/forest-d3) - A time series charting library
+- [fancycharts ★86 ⏳1Y](https://github.com/ahoiin/Fancycharts.js) - Library to visualize percentage values
+- [firespray ★80 ⏳2Y](https://github.com/boundary/firespray) - Streaming charts
+- [forest-d3 ★47 ⏳1Y](https://github.com/robinfhu/forest-d3) - A time series charting library
 - [Gantt-Chart ★236](https://github.com/dk8996/Gantt-Chart) - Gantt chart library
-- [insights ★175](https://github.com/ignacioola/insights) -  Library to visualize and navigate graphs
+- [insights ★175 ⏳1Y](https://github.com/ignacioola/insights) -  Library to visualize and navigate graphs
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [micropolar](http://micropolar.org/) - A polar chart library
 - [mpld3](http://mpld3.github.io/) - Export matplotlib graphics to work in the Browser
@@ -59,11 +66,12 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [uvCharts](http://imaginea.github.io/uvCharts/index.html)  - Supports lots of different chart types
 - [vega](http://trifacta.github.io/vega/) - A visualization grammar
 - [vizabi](https://github.com/Gapminder/vizabi) - A framework for building visual data exploration tools
-- [xkcdgraphs ★289](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs
+- [xkcdgraphs ★289 ⏳1Y](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs
 
 ##### Third Party
 
 - [angular-nvd3](http://krispo.github.io/angular-nvd3) - NVd3 for Angular
+- [britecharts ★170](https://github.com/eventbrite/britecharts) - Client-side reusable Charting Library based on D3.js v4
 - [d3act ★283](https://github.com/AnSavvides/d3act) - d3 with React
 - [d3 simplecharts](https://wordpress.org/plugins/d3-simplecharts/) - A d3 wordpress plugin
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
@@ -83,7 +91,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 ## Maps
 
-- [carto map ★205](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality
+- [carto map ★205 ⏳2Y](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality
 - [composite-projections](http://rveciana.github.io/d3-composite-projections/) - Set of projections for showing countries' distant lands together
 - [datamaps](http://datamaps.github.io/) - Customizable map visualizations in one file
 - [d3 cartogram](http://prag.ma/code/d3-cartogram/) - Cartograms with D3 & TopoJSON
@@ -92,7 +100,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 geomap](http://d3-geomap.github.io/) - Library for creating geographic maps
 - [d3.geo2rect ★125](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
 - [mapmap.js ★74](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
-- [mapsense.js ★81](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
+- [mapsense.js ★81 ⏳1Y](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 - [maptable](https://github.com/Packet-Clearing-House/maptable) - Convert any dataset to a customizable set of visual components (Map, Filters, Table)
 - [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps
 - [spam ★72](https://github.com/newsappsio/spam) - Create maps with D3 and Canvas, easily
@@ -111,30 +119,30 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-annotation](http://d3-annotation.susielu.com/) - Annotaion helper with built-in annotation types
 - [d3-component ★43](https://github.com/curran/d3-component) - Lightweight component abstraction
 - [d3-extended ★244](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
-- [d3-helpers ★24](https://github.com/bahmutov/d3-helpers) - Little utility functions
+- [d3-helpers ★24 ⏳2Y](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-history ★35](https://github.com/vijithassar/d3-history) - Proper URL bar history
-- [d3-iconarray ★49](https://github.com/tomgp/d3-iconarray) - A plug-in for aligning elements in grids
+- [d3-iconarray ★49 ⏳1Y](https://github.com/tomgp/d3-iconarray) - A plug-in for aligning elements in grids
 - [d3-kit ★314](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
 - [d3-Labeler ★144](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
 - [d3-lasso ★51](https://github.com/skokenes/d3-lasso) - tag elements on a page by drawing a line over or around objects
 - [d3-legend](http://d3-legend.susielu.com/) - Legend helper
 - [d3-nelson-rules](https://github.com/kiernanmcgowan/d3-nelson-rules) - Utility to apply nelsons rules of process control to a set of data
-- [d3-peaks ★42](https://github.com/efekarakus/d3-peaks) - Find peaks in a noisy signal
+- [d3-peaks ★42 ⏳1Y](https://github.com/efekarakus/d3-peaks) - Find peaks in a noisy signal
 - [d3-plus](http://d3plus.org/) - An extension to the D3 library that allows fast and easy creation of data visualizations
 - [d3-ring-note ★95](https://github.com/armollica/d3-ring-note) - Plugin for placing circle and text annotations
 - [d3-scale-cluster ★66](https://github.com/schnerd/d3-scale-cluster) - Scale that clusters data into discrete groups
 - [d3-starterkit ★118](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
 - [d3-tip ★893](https://github.com/Caged/d3-tip) - Tooltip helper
 - [d3-tipy ★79](https://github.com/tj/d3-tipy) - Tooltip helper
-- [d3-trail ★125](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
+- [d3-trail ★125 ⏳2Y](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
 - [d3-xray](http://www.vijithassar.com/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
 - [d3.slider ★209](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider
-- [d3.svg.circularbrush ★41](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data
-- [d3.svg.ribbon ★17](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
+- [d3.svg.circularbrush ★41 ⏳1Y](https://github.com/emeeks/d3.svg.circularbrush) - A brush for selecting cyclical data
+- [d3.svg.ribbon ★17 ⏳1Y](https://github.com/emeeks/d3.svg.ribbon) - An area interpolator
 - [iopctrl](http://iop.io/iopctrl) - Lib for making simple user interface controls
 - [jetpack ★383](https://github.com/gka/d3-jetpack) - Nifty convenience wrappers that speed up your daily work
 - [kodama](http://darkmarmot.github.io/kodama/) - Tooltip Plugin
-- [swoopyarrows ★61](https://github.com/bizweekgraphics/swoopyarrows) - Plugin to create swoopy arrows
+- [swoopyarrows ★61 ⏳1Y](https://github.com/bizweekgraphics/swoopyarrows) - Plugin to create swoopy arrows
 - [swoopyDrag ★96](https://github.com/1wheel/swoopy-drag) - Artisanal label placement for d3 graphics
 - [textures](http://riccardoscalco.github.io/textures/) - SVG patterns for Data Visualization
 
@@ -148,18 +156,22 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-cloud ★2044](https://github.com/jasondavies/d3-cloud) - Word clouds
 - [d3-context-menu ★58](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 - [d3-force-gravity](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion) using d3-force
-- [d3-resume ★20](https://github.com/glena/d3-resume) - Resume visualizer
-- [d3.sketchy ★204](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
+- [d3-resume ★20 ⏳2Y](https://github.com/glena/d3-resume) - Resume visualizer
+- [d3.sketchy ★204 ⏳1Y](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 - [d3plus](http://d3plus.org/) - An extension to D3 that allows fast and easy creation of data visualizations
 - [d3plus-text ★20](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 - [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events
-- [jsdocs2diagram ★30](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
+- [jsdocs2diagram ★30 ⏳1Y](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
 - [mermaid](http://knsv.github.io/mermaid/) - Generation of diagrams and flowcharts from text in a similar manner as markdown
-- [netvis ★7](https://github.com/dborzov/netvis) - Tool to visualize network communication for arbitrary protocols
+- [netvis ★7 ⏳2Y](https://github.com/dborzov/netvis) - Tool to visualize network communication for arbitrary protocols
 
 ## Server side 
 - [d3-node ★282](https://github.com/d3-node/d3-node) - Static chart and map generation 
 
 ## Code Editors
 - [Snippets for Atom ★22](https://github.com/martgnz/d3-snippets)
-- [Snippets for Sublime Text 2 ★12](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2)
+- [Snippets for Sublime Text 2 ★12 ⏳3Y](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/wbkd/awesome-d3">https://github.com/wbkd/awesome-d3</a> with ranks
+</p>

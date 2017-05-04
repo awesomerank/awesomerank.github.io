@@ -1,8 +1,15 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/lukasz-madon/awesome-remote-job">https://github.com/lukasz-madon/awesome-remote-job</a> with ranks
+</p>
+---
 # Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
 
-*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](CONTRIBUTING.md).*
+*To contribute, click README.md and then the pencil icon. Make your changes and click the "Propose file change" button to submit a pull request. Make sure to follow [the contributions guidelines](https://github.com/lukasz-madon/awesome-remote-job/blob/master/CONTRIBUTING.md).*
 
 ## Table of Contents
 
@@ -351,7 +358,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Communities
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
-1. [##remotes ★9](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
+1. [##remotes ★9 ⏳2Y](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee.
 1. [Remote Year] (http://www.remoteyear.com/) - Traveling techies for 1 year.
@@ -398,6 +405,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
 
 ## Others
+  1. [awesome-digital-nomads ★116](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
@@ -412,3 +420,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/lukasz-madon/awesome-remote-job">https://github.com/lukasz-madon/awesome-remote-job</a> with ranks
+</p>

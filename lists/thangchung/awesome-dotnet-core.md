@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/thangchung/awesome-dotnet-core">https://github.com/thangchung/awesome-dotnet-core</a> with ranks
+</p>
+---
 # Awesome .NET Core [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome [.NET Core](#frameworks-libraries-and-tools) frameworks, libraries, tools, resources and software.
@@ -90,6 +97,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Halibut ★117](https://github.com/OctopusDeploy/Halibut) - A secure communication stack for .NET using JSON-RPC over SSL.
 * [grpc](https://github.com/grpc/grpc/tree/master/src/csharp) - Remote Procedure Calls (RPCs) provide a useful abstraction for building distributed applications and services. The libraries in this repository provide a concrete implementation of the gRPC protocol, layered over HTTP/2. These libraries enable communication between clients and servers using any combination of the supported languages.
 * [Nancy ★5175](https://github.com/NancyFx/Nancy) - Lightweight, low-ceremony, framework for building HTTP based services on .NET and Mono.
+* [protoactor-dotnet ★255](https://github.com/AsynkronIT/protoactor-dotnet) - Ultra fast distributed actors for Golang and C# [http://proto.actor](http://proto.actor).
 * [ServiceStack ★3809](https://github.com/ServiceStack/ServiceStack) - Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all [https://servicestack.net](https://servicestack.net).
 * [Steeltoe OSS](https://github.com/SteelToeOSS) - .NET toolkit for common microservice patterns.
 
@@ -200,7 +208,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Logging
 * [common-logging ★454](https://github.com/net-commons/common-logging) - Portable logging abstraction for .NET [http://net-commons.github.io/common-logging](http://net-commons.github.io/common-logging).
-* [dnxcore-logging-logstash ★4](https://github.com/jvandevelde/dnxcore-logging-logstash) - Logstash logging extension for .NET Core applications with UDP and Redis transports.
+* [dnxcore-logging-logstash ★4 ⏳1Y](https://github.com/jvandevelde/dnxcore-logging-logstash) - Logstash logging extension for .NET Core applications with UDP and Redis transports.
 * [serilog ★1323](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
 * [NLog ★2287](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging.
 * [Q42.Logging.ApplicationInsights ★2](https://github.com/Q42/Q42.Logging.ApplicationInsights) - Log appender for the build in ASP.NET Core logging to send all logs to Application Insights.
@@ -393,7 +401,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
  [Azure Bot App ★17](https://github.com/Microsoft/BikeSharing360_BotApps).
 * [cloudscribe ★420](https://github.com/joeaudette/cloudscribe) - ASP.NET Core Multi-tenant web application foundation.
 * [CoreCodeCamp ★16](https://github.com/shawnwildermuth/CoreCodeCamp) - An Open Source Website for running small, local development events.
-* [distributed-playground ★13](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core.
+* [distributed-playground ★13 ⏳1Y](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core.
 * [DotNetClub ★186](https://github.com/scheshan/DotNetClub) - Tiny club written in ASP.NET Core.
 * [Entropy ★261](https://github.com/aspnet/Entropy) - Chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
 * [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) - Microservices Architecture and Containers based Reference Application.
@@ -412,7 +420,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Microsoft architectual overview of comprehensive BikeSharing360 suite of demo apps with related videos](https://blogs.msdn.microsoft.com/visualstudio/2016/12/14/connectdemos-2016-bikesharing360-on-github/)
   * [Porting .NET Framework Library to .NET Core](http://www.michael-whelan.net/porting-dotnet-framework-library-to-dotnet-core)
   * [The 68 things the CLR does before executing a single line of your code](http://mattwarren.org/2017/02/07/The-68-things-the-CLR-does-before-executing-a-single-line-of-your-code/)
-  * The comparison between .NET Core and Nodejs at [here](https://manuel-rauber.com/2016/03/07/node-js-asp-net-core-1-0-a-usage-comparison/), [here](https://gist.github.com/ilyaigpetrov/f6df3e6f825ae1b5c7e2) and [here ★47](https://github.com/thinktecture/nodejs-aspnetcore-webapi)
+  * The comparison between .NET Core and Nodejs at [here](https://manuel-rauber.com/2016/03/07/node-js-asp-net-core-1-0-a-usage-comparison/), [here](https://gist.github.com/ilyaigpetrov/f6df3e6f825ae1b5c7e2) and [here ★47 ⏳1Y](https://github.com/thinktecture/nodejs-aspnetcore-webapi)
   * [Understanding ASP.NET Core Initialization](http://developer.telerik.com/featured/understanding-asp-net-core-initialization/)
 * Cloud Development
   * [Configuring the AWS SDK in .NET Core](https://aws.amazon.com/blogs/developer/configuring-aws-sdk-with-net-core/)
@@ -444,6 +452,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [ASP.NET Core 1.0 High Performance](https://www.amazon.com/ASP-NET-Core-1-0-High-Performance/dp/1785881892)
 * [Building Microservices with ASP.NET Core: Develop, Test, and Deploy Cross-Platform Services in the Cloud](https://www.amazon.com/Building-Microservices-ASP-NET-Core-Cross-Platform/dp/1491961732)
 * [C# 6 and .NET Core 1.0: Modern Cross-Platform Development](https://www.amazon.com/NET-Core-1-0-Cross-Platform-Development/dp/1785285696)
+* [Dependency Injection in .NET Core, 2nd edition](https://www.manning.com/books/dependency-injection-in-dot-net-second-edition)
 * [Microservices in .NET Core: with C#, the Nancy framework, and OWIN middleware](https://www.amazon.com/Microservices-NET-Core-framework-middleware/dp/1617293377)
 * [Professional C# 6 and .NET Core 1.0](https://www.amazon.com/Professional-NET-Core-Christian-Nagel/dp/111909660X)
 * [.NET Core in Action](https://manning.com/books/dotnet-core-in-action)
@@ -476,3 +485,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [thangchung](http://weblogs.asp.net/thangchung) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/thangchung/awesome-dotnet-core">https://github.com/thangchung/awesome-dotnet-core</a> with ranks
+</p>

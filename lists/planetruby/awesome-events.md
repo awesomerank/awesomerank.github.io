@@ -1,12 +1,19 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/planetruby/awesome-events">https://github.com/planetruby/awesome-events</a> with ranks
+</p>
+---
 Awesome Series @ Planet Ruby
 
 [Rubies (Virtual Machines, Compilers, ...) ★202](https://github.com/planetruby/awesome-rubies) •
 [ActiveRecord ★241](https://github.com/planetruby/awesome-activerecord)  •
-[Webframeworks (Micro, Macro, APIs, ...) ★111](https://github.com/planetruby/awesome-webframeworks) •
-[Webservers (Single-Threaded, Multi-Threaded, Evented, ...) ★136](https://github.com/planetruby/awesome-webservers) •
-[Static Generators (Sites, Books, Presentations, ...) ★1](https://github.com/planetruby/awesome-staticgen) •
+[Webframeworks (Micro, Macro, APIs, ...) ★111 ⏳1Y](https://github.com/planetruby/awesome-webframeworks) •
+[Webservers (Single-Threaded, Multi-Threaded, Evented, ...) ★136 ⏳1Y](https://github.com/planetruby/awesome-webservers) •
+[Static Generators (Sites, Books, Presentations, ...) ★1 ⏳1Y](https://github.com/planetruby/awesome-staticgen) •
 [Events (Conferences, Camps, Meetups, ...) ★183](https://github.com/planetruby/awesome-events) •
-[Blogs (News, Opinions, Podcasts, ...) ★3](https://github.com/planetruby/awesome-blogs)
+[Blogs (News, Opinions, Podcasts, ...) ★3 ⏳1Y](https://github.com/planetruby/awesome-blogs)
 
 
 # Awesome Ruby Events
@@ -885,7 +892,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 NOTE: A [calendar page](http://planetruby.github.io/calendar)
 gets auto-generated from this page listing conferences sorted by
 date (that is, year and month)
-or better try the "live" version using the [whatson command line tool ★12](https://github.com/textkit/whatson).
+or better try the "live" version using the [whatson command line tool ★12 ⏳1Y](https://github.com/textkit/whatson).
 Type:
 
 ~~~
@@ -930,3 +937,7 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 **Questions? Comments?**
 
 Send them along to the ruby-talk mailing list. Thanks!
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/planetruby/awesome-events">https://github.com/planetruby/awesome-events</a> with ranks
+</p>

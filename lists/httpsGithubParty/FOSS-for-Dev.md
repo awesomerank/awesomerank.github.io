@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/httpsGithubParty/FOSS-for-Dev">https://github.com/httpsGithubParty/FOSS-for-Dev</a> with ranks
+</p>
+---
 # FOSS-for-Dev  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 A list of Free and open-source software for developers
 
@@ -34,7 +41,7 @@ Feel free to send a PR :)
 ## IDE 
 
  * [Coding WebIDE ★586](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project
- * [CodeBox ★3703](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
+ * [CodeBox ★3703 ⏳1Y](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 
 
 ## Collaboration Tools
@@ -82,3 +89,7 @@ Feel free to send a PR :)
 ## ADN 
   
  
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/httpsGithubParty/FOSS-for-Dev">https://github.com/httpsGithubParty/FOSS-for-Dev</a> with ranks
+</p>

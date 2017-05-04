@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/svaksha/Julia.jl">https://github.com/svaksha/Julia.jl</a> with ranks
+</p>
+---
 # Julia.jl
 
 [Julia.jl](http://svaksha.github.io/Julia.jl) aggregates and curates decibans of knowledge resources for the [Julia language](https://github.com/JuliaLang).
@@ -49,7 +56,7 @@ To create a package, check out the [Julia Package Development Kit](https://githu
 
 # LICENSE
 + COPYRIGHT © 2012-Now [SVAKSHA](http://svaksha.com/pages/Bio), All Rights Reserved.
-+ This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](LICENSE.md) file and ALL references, citations, copies and forks of this work must retain the Copyright, Licence (LICENSE.md file), this permission notice and must [attribute credit](https://en.wikipedia.org/wiki/Creative_Commons_license#Attribution).
++ This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - (CC BY-NC-SA 4.0) as detailed in the [LICENSE.md](https://github.com/svaksha/Julia.jl/blob/master/LICENSE.md) file and ALL references, citations, copies and forks of this work must retain the Copyright, Licence (LICENSE.md file), this permission notice and must [attribute credit](https://en.wikipedia.org/wiki/Creative_Commons_license#Attribution).
 
 ## Mirrors
 + [Bitbucket](https://bitbucket.org/svaksha/Julia.jl) :: git clone git@bitbucket.org:svaksha/Julia.jl.git
@@ -85,3 +92,7 @@ On a scale of 1 to 5 (1=lowest,..5=highest), please rank your package for,
 3. For broken links or outdated information, submit a bug report (BR), or make the necessary changes and submit a PR. Both are welcome. Please submit separate PR's for each link or change added.
 4. For Documentation and cookbooks, check if it matches the categories listed, else, list it on the [Resources.md](https://github.com/svaksha/Julia.jl/blob/master/Resources.md) page.
 5. For those unable to use git, create a github account, then fork the `Julia.jl` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/svaksha/Julia.jl">https://github.com/svaksha/Julia.jl</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/diasdavid/awesome-hacking-spots">https://github.com/diasdavid/awesome-hacking-spots</a> with ranks
+</p>
+---
 Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 ===============================
 
@@ -1244,3 +1251,7 @@ ask | ✔ | ✔ | [425 15th Ave E, Seattle, WA 98112](https://goo.gl/maps/2RFTNQ
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 ask | ✔ |  [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/diasdavid/awesome-hacking-spots">https://github.com/diasdavid/awesome-hacking-spots</a> with ranks
+</p>

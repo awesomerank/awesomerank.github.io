@@ -1,9 +1,16 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/danielecook/Awesome-Bioinformatics">https://github.com/danielecook/Awesome-Bioinformatics</a> with ranks
+</p>
+---
 Awesome Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 ======================
 
 > Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. — [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)
 
-A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](CONTRIBUTING.md)!
+A curated list of awesome Bioinformatics software, resources, and libraries. Mostly command line based, and free or open-source. Please feel free to [contribute](https://github.com/danielecook/Awesome-Bioinformatics/blob/master/CONTRIBUTING.md)!
 
 **Table of Contents**
 
@@ -109,7 +116,7 @@ __DNA Resequencing__
 ### BAM File Utilities
 
 * __[Bamtools ★204](https://github.com/pezmaster31/bamtools)__ - Collection of tools for working with BAM files.
-* __[mergesam ★6](https://github.com/DarwinAwardWinner/mergesam)__ - Automate common SAM & BAM conversions.
+* __[mergesam ★6 ⏳4Y](https://github.com/DarwinAwardWinner/mergesam)__ - Automate common SAM & BAM conversions.
 * __[SAMstat](http://samstat.sourceforge.net/)__ - Displaying sequence statistics for next-generation sequencing.
 * __[Telseq ★8](https://github.com/zd1/telseq)__ - Telseq is a tool for estimating telomere length from whole genome sequence data.
 * __[bam toolbox ★0](https://github.com/AndersenLab/bam-toolbox)__ MtDNA:Nuclear Coverage; BAM Toolbox can output the ratio of MtDNA:nuclear coverage, a proxy for mitochondrial content.
@@ -129,7 +136,7 @@ __DNA Resequencing__
 
 ### Variant Simulation
 
-* __[wgsim ★95](https://github.com/lh3/wgsim)__ - __Comes with samtools!__ - Reads simulator.
+* __[wgsim ★95 ⏳1Y](https://github.com/lh3/wgsim)__ - __Comes with samtools!__ - Reads simulator.
 * __[Bam Surgeon ★75](https://github.com/adamewing/bamsurgeon)__ - Tools for adding mutations to existing `.bam` files, used for testing mutation callers.
 
 ### Variant Filtering / Quality Control
@@ -149,7 +156,7 @@ __DNA Resequencing__
 #### Tools
 
 * __[pyfaidx ★121](https://github.com/mdshw5/pyfaidx)__ - Pythonic access to FASTA files.
-* __[pyBedTools](https://github.com/daler/pybedtools)__ - Python wrapper for [bedtools ★113](https://github.com/arq5x/bedtools).
+* __[pyBedTools](https://github.com/daler/pybedtools)__ - Python wrapper for [bedtools ★113 ⏳1Y](https://github.com/arq5x/bedtools).
 * __[pysam](https://github.com/pysam-developers/pysam)__ - Python wrapper for [samtools ★482](https://github.com/samtools/samtools).
 * __[pyVCF ★218](https://github.com/jamescasbon/PyVCF)__ - A VCF Parser for Python.
 * __[cyvcf](https://github.com/arq5x/cyvcf)__ - A port of [pyVCF ★218](https://github.com/jamescasbon/PyVCF) using Cython for speed.
@@ -163,10 +170,10 @@ The following tools can be used to visualize genomic data or for constructing cu
 
 * __[biodalliance](http://www.biodalliance.org/)__ - Embeddable genome viewer. Integration data from a wide variety of sources, and can load data directly from popular genomics file formats including bigWig, BAM, and VCF.
 * __[IGV js](https://www.broadinstitute.org/igv/)__ - Java-based browser. Fast, efficient, scalable visualization tool for genomics data and annotations. Handles a large [variety of formats](http://software.broadinstitute.org/software/igv/fileformats).
-* __[Island Plot ★25](https://github.com/lairdm/islandplot)__ - D3 JavaScript based genome viewer. Constructs SVGs.
+* __[Island Plot ★25 ⏳1Y](https://github.com/lairdm/islandplot)__ - D3 JavaScript based genome viewer. Constructs SVGs.
 * __[pileup.js ★175](https://github.com/hammerlab/pileup.js)__ - JavaScript library that can be used to generate interactive and highly customizable web-based genome browsers.
-* __[scribl ★68](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
-* __[DNAism ★51](https://github.com/drio/dnaism)__ - Horizon chart D3-based JavaScript library for DNA data.
+* __[scribl ★68 ⏳2Y](https://github.com/chmille4/Scribl)__ - JavaScript library for drawing canvas-based gene diagrams. The [Homepage](http://chmille4.github.io/Scribl/) has examples.
+* __[DNAism ★51 ⏳1Y](https://github.com/drio/dnaism)__ - Horizon chart D3-based JavaScript library for DNA data.
 * __[Circleator ★12](https://github.com/jonathancrabtree/Circleator)__ - Flexible circular visualization of genome-associated data with BioPerl and SVG.
 * __[BioJS](https://biojs.net/)__ - BioJS is a library of over hundred JavaScript components enabling you to visualize and process data using current web technologies.
 
@@ -243,3 +250,7 @@ The following tools can be used to visualize genomic data or for constructing cu
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/danielecook/Awesome-Bioinformatics">https://github.com/danielecook/Awesome-Bioinformatics</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/maxogden/maintenance-modules">https://github.com/maxogden/maintenance-modules</a> with ranks
+</p>
+---
 # maintenance-modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [![NPM](https://nodei.co/npm/maintenance-modules.png)](https://www.npmjs.com/package/maintenance-modules)
@@ -30,7 +37,7 @@ Checks which modules you have used in your code and then makes sure they are lis
 npm i dependency-check --save-dev
 ```
 
-### [create-module ★31](https://github.com/finnp/create-module) by [finnp](https://www.npmjs.com/~finnpauls)
+### [create-module ★31 ⏳1Y](https://github.com/finnp/create-module) by [finnp](https://www.npmjs.com/~finnpauls)
 
 Helper tool for the usual steps to create a module. Creates empty github repo, generates module boilerplate, runs npm init, does first commit + push, etc.
 
@@ -46,7 +53,7 @@ A command line module for travis, especially targeted for managing tests for nod
 npm i travisjs --save-dev
 ```
 
-### [gh-pages-deploy ★174](https://github.com/meandavejustice/gh-pages-deploy) by [meandave](https://www.npmjs.com/~meandave)
+### [gh-pages-deploy ★174 ⏳1Y](https://github.com/meandavejustice/gh-pages-deploy) by [meandave](https://www.npmjs.com/~meandave)
 
 Deploy to gh-pages with one command. Lets you add static build settings into your package.json and then automatically build, deploy and push to gh-pages from master using this module.
 
@@ -86,7 +93,7 @@ Generate a README.md from package.json contents. With npm modules, lots of info 
 npm i package-json-to-readme -g
 ```
 
-### [npmwd ★3](https://github.com/zeke/npmwd) by [zeke](https://npmjs.org/~zeke)
+### [npmwd ★3 ⏳2Y](https://github.com/zeke/npmwd) by [zeke](https://npmjs.org/~zeke)
 
 Open the npm package URL in your browser that matches your shell's current working directory.
 
@@ -167,3 +174,7 @@ alias major='pre-version && npm version major && post-version'
 alias pre-version='git diff --exit-code && npm prune && npm install -q && npm test'
 alias post-version='npm run --if-present build && git diff --exit-code && git push && git push --tags && npm publish'
 ```
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/maxogden/maintenance-modules">https://github.com/maxogden/maintenance-modules</a> with ranks
+</p>

@@ -1,7 +1,14 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/Awesome-Windows/Awesome">https://github.com/Awesome-Windows/Awesome</a> with ranks
+</p>
+---
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
 
 [![Join the chat at https://gitter.im/Awesome-Windows/Awesome](https://badges.gitter.im/Awesome-Windows/Awesome.svg)](https://gitter.im/Awesome-Windows/Awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-cn.md)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
 > An awesome & curated list of best applications and tools for Windows.
 
@@ -28,6 +35,7 @@
   - [Productivity](#productivity)
   - [Terminal](#terminal)
   - [Text Editors](#text-editors)
+  - [IDEs](#ides)
   - [Utilities](#utilities)
   - [Video](#video)
 - [Setup](#setup)
@@ -171,12 +179,19 @@
 
 - [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon] ★36470](https://github.com/atom/atom) ![Freeware][Freeware Icon]
 - [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon] ★27324](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
-- [Eclipse](https://eclipse.org/downloads/) - A powerful IDE.
 - [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][OSS Icon] ★8954](https://github.com/vim/vim) ![Freeware][Freeware Icon]
 - [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][OSS Icon] ★9588](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
 - [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][OSS Icon] ★4065](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
 - [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][OSS Icon] ★26869](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
+
+### IDEs
+
+- [Eclipse](https://eclipse.org/downloads/) - A powerful IDE. [![Open-Source Software][OSS Icon]](https://git.eclipse.org/c/) ![Freeware][Freeware Icon]
+- [IntelliJ IDEA](https://www.jetbrains.com/idea/) - A modern Java IDE.
+- [NetBeans IDE](https://netbeans.org/) - A free and open-source IDE. [![Open-Source Software][OSS Icon]](https://netbeans.org/community/sources/) ![Freeware][Freeware Icon]
+- [Visual Studio](https://www.visualstudio.com/vs/) - Microsofts official IDE. Supports a multitude of languages via plugins.
+- [Android Studio](https://developer.android.com/studio/index.html) - The official IDE for Android, based off IntelliJ's IDEA IDE. [![Open-Source Software][OSS Icon]](https://sites.google.com/a/android.com/tools/) ![Freeware][Freeware Icon]
 
 ### Online Storage
 
@@ -320,7 +335,7 @@
 
 ## Contribute
 
-Contributions are most welcome, please adhere to the [contribution guidelines](Contributing.md).
+Contributions are most welcome, please adhere to the [contribution guidelines](https://github.com/Awesome-Windows/Awesome/blob/master/Contributing.md).
 
 **[⬆ back to top](#applications)**
 
@@ -334,3 +349,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 [OSS Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/OSS.svg
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/Awesome-Windows/Awesome">https://github.com/Awesome-Windows/Awesome</a> with ranks
+</p>

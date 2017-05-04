@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/hackerkid/bots">https://github.com/hackerkid/bots</a> with ranks
+</p>
+---
 <p align="center">
   <img src="bots3d.png" />
 </p>
@@ -120,3 +127,7 @@ Table of Contents
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/hackerkid/bots">https://github.com/hackerkid/bots</a> with ranks
+</p>

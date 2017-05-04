@@ -1,7 +1,14 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/egeerardyn/awesome-LaTeX">https://github.com/egeerardyn/awesome-LaTeX</a> with ranks
+</p>
+---
 # Awesome LaTeX
 
 This is a curated list of awesome stuff for the (La)TeX typesetting system.
-[![Awesome][awesome] ★57421](https://github.com/sindresorhus/awesome) [![Issue Count](https://codeclimate.com/github/egeerardyn/awesome-LaTeX/badges/issue_count.svg)](https://codeclimate.com/github/egeerardyn/awesome-LaTeX) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](LICENSE.md)
+[![Awesome][awesome] ★57421](https://github.com/sindresorhus/awesome) [![Issue Count](https://codeclimate.com/github/egeerardyn/awesome-LaTeX/badges/issue_count.svg)](https://codeclimate.com/github/egeerardyn/awesome-LaTeX) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
 
 ## Contents
 
@@ -93,7 +100,7 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 - [Vim](http://www.vim.org) [![Vim][awesome] ★6425](https://github.com/mhinz/vim-galore) ![foss][foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss][foss]
-	- [LaTeX Live Preview ★182](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss]
+	- [LaTeX Live Preview ★182 ⏳1Y](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss]
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
 	- [TeXiFy-IDEA ★10](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss]
@@ -221,7 +228,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 
 # Meta Awesome-LaTeX
 
-If you want to contribute, please do read our [CONTRIBUTING](CONTRIBUTING.md) guidelines.
+If you want to contribute, please do read our [CONTRIBUTING](https://github.com/egeerardyn/awesome-LaTeX/blob/master/CONTRIBUTING.md) guidelines.
 
 ## Legend
 
@@ -243,3 +250,7 @@ All trademarks are property of their respective owners.
 [windows]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/windows.svg
 [foss]: https://cdn.rawgit.com/egeerardyn/awesome-LaTeX/700138fe725574e1741f148df6d1f77a8aa07eee/fig/foss.svg
 [awesome]:  https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/egeerardyn/awesome-LaTeX">https://github.com/egeerardyn/awesome-LaTeX</a> with ranks
+</p>

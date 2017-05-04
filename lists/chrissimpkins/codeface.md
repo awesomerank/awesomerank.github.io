@@ -1,17 +1,24 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/chrissimpkins/codeface">https://github.com/chrissimpkins/codeface</a> with ranks
+</p>
+---
 <img src="images/non-gallery/codeface-HR-new.png" alt="Codeface | Typefaces for source code beautification" width="790">
 
 
 ## Typefaces for Source Code Beautification 
 [![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667) ★57421](https://github.com/sindresorhus/awesome)
 
-* [About](ABOUT.md)
+* [About](https://github.com/chrissimpkins/codeface/blob/master/ABOUT.md)
 * [Main Font Gallery](#the-gallery)
-* [Bitmap Font Gallery](BITMAP.md)
-* [Chinese, Japanese, Korean Developer Font Gallery](CJK.md)
-* [Free, Non-Distrib EULA Developer Font Gallery](NONDISTRIB.md)
-* [Contribute to the Project](CONTRIBUTING.md)
-* [Contributor List](CONTRIBUTORS.md)
-* [License](LICENSE.md)
+* [Bitmap Font Gallery](https://github.com/chrissimpkins/codeface/blob/master/BITMAP.md)
+* [Chinese, Japanese, Korean Developer Font Gallery](https://github.com/chrissimpkins/codeface/blob/master/CJK.md)
+* [Free, Non-Distrib EULA Developer Font Gallery](https://github.com/chrissimpkins/codeface/blob/master/NONDISTRIB.md)
+* [Contribute to the Project](https://github.com/chrissimpkins/codeface/blob/master/CONTRIBUTING.md)
+* [Contributor List](https://github.com/chrissimpkins/codeface/blob/master/CONTRIBUTORS.md)
+* [License](https://github.com/chrissimpkins/codeface/blob/master/LICENSE.md)
 
 ## New!
 
@@ -50,7 +57,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [agave](fonts/agave)
 
-[ [License](fonts/agave/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/agave/license.txt) ]
 
 <img src="images/gallery/agave-STP.png" width="725">
 <img src="images/gallery/agave-STPC.png" width="725">
@@ -61,7 +68,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Anonymous Pro](fonts/anonymous-pro)
 
-[ [License](fonts/anonymous-pro/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/anonymous-pro/license.txt) ]
 
 <img src="images/gallery/anonymous-pro-STP.png" width="725">
 <img src="images/gallery/anonymous-pro-STPC.png" width="725">
@@ -72,7 +79,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Aurulent Sans Mono](fonts/aurulent-sans-mono)
 
-[ [License](fonts/aurulent-sans-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/aurulent-sans-mono/license.txt) ]
 
 <img src="images/gallery/aurulent-sans-mono-STP.png" width="725">
 <img src="images/gallery/aurulent-sans-mono-STPC.png" width="725">
@@ -83,7 +90,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [AverageMono](fonts/average-mono)
 
-[ [License](fonts/average-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/average-mono/license.txt) ]
 
 <img src="images/gallery/average-mono-STP.png" width="725">
 <img src="images/gallery/average-mono-STPC.png" width="725">
@@ -94,7 +101,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Bitstream Vera Sans Mono](fonts/bitstream-vera-sans-mono)
 
-[ [License](fonts/bitstream-vera-sans-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/bitstream-vera-sans-mono/license.txt) ]
 
 <img src="images/gallery/bitstream-vera-sans-mono-STP.png" width="725">
 <img src="images/gallery/bitstream-vera-sans-mono-STPC.png" width="725">
@@ -105,7 +112,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [BPmono](fonts/bp-mono)
 
-[ [License](fonts/bp-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/bp-mono/license.txt) ]
 
 <img src="images/gallery/bp-mono-STP.png" width="725">
 <img src="images/gallery/bp-mono-STPC.png" width="725">
@@ -116,7 +123,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Bront](fonts/bront)
 
-[ [License](fonts/bront/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/bront/license.txt) ]
 
 <img src="images/gallery/bront-STP.png" width="725">
 <img src="images/gallery/bront-STPC.png" width="725">
@@ -127,7 +134,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [CamingoCode](fonts/camingo-code)
 
-[ [License](fonts/camingo-code/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/camingo-code/license.txt) ]
 
 <img src="images/gallery/camingo-code-STP.png" width="725">
 <img src="images/gallery/camingo-code-STPC.png" width="725">
@@ -138,7 +145,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [CMU Typewriter Text](fonts/cmu-typewriter)
 
-[ [License](fonts/cmu-typewriter/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/cmu-typewriter/license.txt) ]
 
 <img src="images/gallery/cmu-typewriter-STP.png" width="725">
 <img src="images/gallery/cmu-typewriter-STPC.png" width="725">
@@ -149,7 +156,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Courier Prime Code](fonts/courierprime-code)
 
-[ [License](fonts/courierprime-code/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/courierprime-code/license.txt) ]
 
 <img src="images/gallery/courierprime-code-STP.png" width="725">
 <img src="images/gallery/courierprime-code-STPC.png" width="725">
@@ -160,7 +167,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Cousine](fonts/cousine)
 
-[ [License](fonts/cousine/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/cousine/license.txt) ]
 
 <img src="images/gallery/cousine-STP.png" width="725">
 <img src="images/gallery/cousine-STPC.png" width="725">
@@ -171,7 +178,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [CPMono_v07](fonts/cp-mono)
 
-[ [License](fonts/cp-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/cp-mono/license.txt) ]
 
 <img src="images/gallery/cp-mono-STP.png" width="725">
 <img src="images/gallery/cp-mono-STPC.png" width="725">
@@ -182,7 +189,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Cutive Mono](fonts/cutive-mono)
 
-[ [License](fonts/cutive-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/cutive-mono/license.txt) ]
 
 <img src="images/gallery/cutive-mono-STP.png" width="725">
 <img src="images/gallery/cutive-mono-STPC.png" width="725">
@@ -193,7 +200,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Droid Sans Mono](fonts/droid-sans-mono)
 
-[ [License](fonts/droid-sans-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/droid-sans-mono/license.txt) ]
 
 <img src="images/gallery/droid-sans-mono-STP.png" width="725">
 <img src="images/gallery/droid-sans-mono-STPC.png" width="725">
@@ -204,7 +211,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Edlo](fonts/edlo)
 
-[ [License](fonts/edlo/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/edlo/license.txt) ]
 
 <img src="images/gallery/edlo-STP.png" width="725">
 <img src="images/gallery/edlo-STPC.png" width="725">
@@ -215,7 +222,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Fantasque Sans Mono](fonts/fantasque-sans-mono)
 
-[ [License](fonts/fantasque-sans-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/fantasque-sans-mono/license.txt) ]
 
 <img src="images/gallery/fantasque-sans-mono-STP.png" width="725">
 <img src="images/gallery/fantasque-sans-mono-STPC.png" width="725">
@@ -226,7 +233,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Fira Code](fonts/fira-code)
 
-[ [License](fonts/fira-code/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/fira-code/license.txt) ]
 
 <img src="images/gallery/fira-code-STP.png" width="725">
 <img src="images/gallery/fira-code-STPC.png" width="725">
@@ -237,7 +244,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Fira Mono](fonts/fira-mono)
 
-[ [License](fonts/fira-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/fira-mono/license.txt) ]
 
 <img src="images/gallery/fira-mono-STP.png" width="725">
 <img src="images/gallery/fira-mono-STPC.png" width="725">
@@ -248,7 +255,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [FreeMono](fonts/free-mono)
 
-[ [License](fonts/free-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/free-mono/license.txt) ]
 
 <img src="images/gallery/free-mono-STP.png" width="725">
 <img src="images/gallery/free-mono-STPC.png" width="725">
@@ -259,7 +266,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Generic Mono II](fonts/generic)
 
-[ [License](fonts/generic/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/generic/license.txt) ]
 
 <img src="images/gallery/generic-STP.png" width="725">
 <img src="images/gallery/generic-STPC.png" width="725">
@@ -270,7 +277,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Hack](fonts/hack)
 
-[ [License](fonts/hack/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/hack/license.txt) ]
 
 <img src="images/gallery/hack-STP.png" width="725">
 <img src="images/gallery/hack-STPC.png" width="725">
@@ -281,7 +288,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Hasklig](fonts/hasklig)
 
-[ [License](fonts/hasklig/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/hasklig/license.txt) ]
 
 <img src="images/gallery/hasklig-STP.png" width="725">
 <img src="images/gallery/hasklig-STPC.png" width="725">
@@ -292,7 +299,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Hermit](fonts/hermit)
 
-[ [License](fonts/hermit/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/hermit/license.txt) ]
 
 <img src="images/gallery/hermit-STP.png" width="725">
 <img src="images/gallery/hermit-STPC.png" width="725">
@@ -303,7 +310,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Inconsolata](fonts/inconsolata)
 
-[ [License](fonts/inconsolata/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/inconsolata/license.txt) ]
 
 <img src="images/gallery/inconsolata-STP.png" width="725">
 <img src="images/gallery/inconsolata-STPC.png" width="725">
@@ -314,7 +321,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Iosevka](fonts/iosevka)
 
-[ [License](fonts/iosevka/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/iosevka/license.txt) ]
 
 <img src="images/gallery/iosevka-STP.png" width="725">
 <img src="images/gallery/iosevka-STPC.png" width="725">
@@ -325,7 +332,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Iosevka Slab](fonts/iosevka-slab)
 
-[ [License](fonts/iosevka-slab/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/iosevka-slab/license.txt) ]
 
 <img src="images/gallery/iosevka-slab-STP.png" width="725">
 <img src="images/gallery/iosevka-slab-STPC.png" width="725">
@@ -336,7 +343,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Kawkab Mono](fonts/kawkab-mono)
 
-[ [License](fonts/kawkab-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/kawkab-mono/license.txt) ]
 
 <img src="images/gallery/kawkab-mono-STP.png" width="725">
 <img src="images/gallery/kawkab-mono-STPC.png" width="725">
@@ -347,7 +354,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Lekton](fonts/lekton)
 
-[ [License](fonts/lekton/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/lekton/license.txt) ]
 
 <img src="images/gallery/lekton-STP.png" width="725">
 <img src="images/gallery/lekton-STPC.png" width="725">
@@ -358,7 +365,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Liberation Mono](fonts/liberation-mono)
 
-[ [License](fonts/liberation-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/liberation-mono/license.txt) ]
 
 <img src="images/gallery/liberation-mono-STP.png" width="725">
 <img src="images/gallery/liberation-mono-STPC.png" width="725">
@@ -369,7 +376,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Linux Libertine Mono](fonts/linux-libertine-mono)
 
-[ [License](fonts/linux-libertine-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/linux-libertine-mono/license.txt) ]
 
 <img src="images/gallery/linux-libertine-mono-STP.png" width="725">
 <img src="images/gallery/linux-libertine-mono-STPC.png" width="725">
@@ -380,7 +387,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Luculent](fonts/luculent)
 
-[ [License](fonts/luculent/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/luculent/license.txt) ]
 
 <img src="images/gallery/luculent-STP.png" width="725">
 <img src="images/gallery/luculent-STPC.png" width="725">
@@ -391,7 +398,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Luxi Mono](fonts/luxi-mono)
 
-[ [License](fonts/luxi-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/luxi-mono/license.txt) ]
 
 <img src="images/gallery/luxi-mono-STP.png" width="725">
 <img src="images/gallery/luxi-mono-STPC.png" width="725">
@@ -402,7 +409,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Mensch](fonts/mensch)
 
-[ [License](fonts/mensch/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/mensch/license.txt) ]
 
 <img src="images/gallery/mensch-STP.png" width="725">
 <img src="images/gallery/mensch-STPC.png" width="725">
@@ -413,7 +420,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Meslo LG M DZ](fonts/meslo)
 
-[ [License](fonts/meslo/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/meslo/license.txt) ]
 
 <img src="images/gallery/meslo-STP.png" width="725">
 <img src="images/gallery/meslo-STPC.png" width="725">
@@ -424,7 +431,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Metrickal](fonts/metrickal)
 
-[ [License](fonts/metrickal/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/metrickal/license.txt) ]
 
 <img src="images/gallery/metrickal-STP.png" width="725">
 <img src="images/gallery/metrickal-STPC.png" width="725">
@@ -435,7 +442,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [monoOne](fonts/mono-one)
 
-[ [License](fonts/mono-one/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/mono-one/license.txt) ]
 
 <img src="images/gallery/mono-one-STP.png" width="725">
 <img src="images/gallery/mono-one-STPC.png" width="725">
@@ -446,7 +453,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [MonoSpatial](fonts/mono-spatial)
 
-[ [License](fonts/mono-spatial/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/mono-spatial/license.txt) ]
 
 <img src="images/gallery/mono-spatial-STP.png" width="725">
 <img src="images/gallery/mono-spatial-STPC.png" width="725">
@@ -457,7 +464,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [monofur](fonts/monofur)
 
-[ [License](fonts/monofur/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/monofur/license.txt) ]
 
 <img src="images/gallery/monofur-STP.png" width="725">
 <img src="images/gallery/monofur-STPC.png" width="725">
@@ -468,7 +475,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Monoid](fonts/monoid)
 
-[ [License](fonts/monoid/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/monoid/license.txt) ]
 
 <img src="images/gallery/monoid-STP.png" width="725">
 <img src="images/gallery/monoid-STPC.png" width="725">
@@ -479,7 +486,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Monospace](fonts/monospace)
 
-[ [License](fonts/monospace/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/monospace/license.txt) ]
 
 <img src="images/gallery/monospace-STP.png" width="725">
 <img src="images/gallery/monospace-STPC.png" width="725">
@@ -490,7 +497,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [MonospaceTypewriter](fonts/monospace-typewriter)
 
-[ [License](fonts/monospace-typewriter/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/monospace-typewriter/license.txt) ]
 
 <img src="images/gallery/monospace-typewriter-STP.png" width="725">
 <img src="images/gallery/monospace-typewriter-STPC.png" width="725">
@@ -501,7 +508,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [M+ 1m](fonts/mplus1m)
 
-[ [License](fonts/mplus1m/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/mplus1m/license.txt) ]
 
 <img src="images/gallery/mplus1m-STP.png" width="725">
 <img src="images/gallery/mplus1m-STPC.png" width="725">
@@ -512,7 +519,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [M+ 1mn](fonts/mplus1mn)
 
-[ [License](fonts/mplus1mn/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/mplus1mn/license.txt) ]
 
 <img src="images/gallery/mplus1mn-STP.png" width="725">
 <img src="images/gallery/mplus1mn-STPC.png" width="725">
@@ -523,7 +530,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [M+ 2m](fonts/mplus2m)
 
-[ [License](fonts/mplus2m/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/mplus2m/license.txt) ]
 
 <img src="images/gallery/mplus2m-STP.png" width="725">
 <img src="images/gallery/mplus2m-STPC.png" width="725">
@@ -534,7 +541,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Nimbus Mono](fonts/nimbus-mono)
 
-[ [License](fonts/nimbus-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/nimbus-mono/license.txt) ]
 
 <img src="images/gallery/nimbus-mono-STP.png" width="725">
 <img src="images/gallery/nimbus-mono-STPC.png" width="725">
@@ -545,7 +552,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [NotCourierSans](fonts/not-courier-sans)
 
-[ [License](fonts/not-courier-sans/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/not-courier-sans/license.txt) ]
 
 <img src="images/gallery/not-courier-sans-STP.png" width="725">
 <img src="images/gallery/not-courier-sans-STPC.png" width="725">
@@ -556,7 +563,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Office Code Pro](fonts/office-code-pro)
 
-[ [License](fonts/office-code-pro/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/office-code-pro/license.txt) ]
 
 <img src="images/gallery/office-code-pro-STP.png" width="725">
 <img src="images/gallery/office-code-pro-STPC.png" width="725">
@@ -567,7 +574,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Oxygen Mono](fonts/oxygen-mono)
 
-[ [License](fonts/oxygen-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/oxygen-mono/license.txt) ]
 
 <img src="images/gallery/oxygen-mono-STP.png" width="725">
 <img src="images/gallery/oxygen-mono-STPC.png" width="725">
@@ -578,7 +585,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Panic Sans](fonts/panic-sans)
 
-[ [License](fonts/panic-sans/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/panic-sans/license.txt) ]
 
 <img src="images/gallery/panic-sans-STP.png" width="725">
 <img src="images/gallery/panic-sans-STPC.png" width="725">
@@ -589,7 +596,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Pointfree](fonts/pointfree)
 
-[ [License](fonts/pointfree/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/pointfree/license.txt) ]
 
 <img src="images/gallery/pointfree-STP.png" width="725">
 <img src="images/gallery/pointfree-STPC.png" width="725">
@@ -600,7 +607,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [ProFontWindows](fonts/pro-font-windows)
 
-[ [License](fonts/pro-font-windows/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/pro-font-windows/license.txt) ]
 
 <img src="images/gallery/pro-font-windows-STP.png" width="725">
 <img src="images/gallery/pro-font-windows-STPC.png" width="725">
@@ -611,7 +618,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [PT Mono](fonts/pt-mono)
 
-[ [License](fonts/pt-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/pt-mono/license.txt) ]
 
 <img src="images/gallery/pt-mono-STP.png" width="725">
 <img src="images/gallery/pt-mono-STPC.png" width="725">
@@ -622,7 +629,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Roboto Mono](fonts/roboto-mono)
 
-[ [License](fonts/roboto-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/roboto-mono/license.txt) ]
 
 <img src="images/gallery/roboto-mono-STP.png" width="725">
 <img src="images/gallery/roboto-mono-STPC.png" width="725">
@@ -633,7 +640,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [saxMono](fonts/sax-mono)
 
-[ [License](fonts/sax-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/sax-mono/license.txt) ]
 
 <img src="images/gallery/sax-mono-STP.png" width="725">
 <img src="images/gallery/sax-mono-STPC.png" width="725">
@@ -644,7 +651,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Share-TechMonoTrue](fonts/sharetech-mono)
 
-[ [License](fonts/sharetech-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/sharetech-mono/license.txt) ]
 
 <img src="images/gallery/sharetech-mono-STP.png" width="725">
 <img src="images/gallery/sharetech-mono-STPC.png" width="725">
@@ -655,7 +662,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [SmallTypeWriting](fonts/small-type-writing)
 
-[ [License](fonts/small-type-writing/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/small-type-writing/license.txt) ]
 
 <img src="images/gallery/small-type-writing-STP.png" width="725">
 <img src="images/gallery/small-type-writing-STPC.png" width="725">
@@ -666,7 +673,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Source Code Pro](fonts/source-code-pro)
 
-[ [License](fonts/source-code-pro/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/source-code-pro/license.txt) ]
 
 <img src="images/gallery/source-code-pro-STP.png" width="725">
 <img src="images/gallery/source-code-pro-STPC.png" width="725">
@@ -677,7 +684,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Sudo](fonts/sudo)
 
-[ [License](fonts/sudo/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/sudo/license.txt) ]
 
 <img src="images/gallery/sudo-STP.png" width="725">
 <img src="images/gallery/sudo-STPC.png" width="725">
@@ -688,7 +695,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Terminus](fonts/terminus)
 
-[ [License](fonts/terminus/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/terminus/license.txt) ]
 
 <img src="images/gallery/terminus-STP.png" width="725">
 <img src="images/gallery/terminus-STPC.png" width="725">
@@ -699,7 +706,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [TeX Gyre Cursor](fonts/tex-gyre-cursor)
 
-[ [License](fonts/tex-gyre-cursor/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/tex-gyre-cursor/license.txt) ]
 
 <img src="images/gallery/tex-gyre-cursor-STP.png" width="725">
 <img src="images/gallery/tex-gyre-cursor-STPC.png" width="725">
@@ -710,7 +717,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Ubuntu Mono](fonts/ubuntu-mono)
 
-[ [License](fonts/ubuntu-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/ubuntu-mono/license.txt) ]
 
 <img src="images/gallery/ubuntu-mono-STP.png" width="725">
 <img src="images/gallery/ubuntu-mono-STPC.png" width="725">
@@ -721,7 +728,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Verily Serif Mono](fonts/verily-serif-mono)
 
-[ [License](fonts/verily-serif-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/verily-serif-mono/license.txt) ]
 
 <img src="images/gallery/verily-serif-mono-STP.png" width="725">
 <img src="images/gallery/verily-serif-mono-STPC.png" width="725">
@@ -732,7 +739,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 
 ### [Whois](fonts/whois-mono)
 
-[ [License](fonts/whois-mono/license.txt) ]
+[ [License](https://github.com/chrissimpkins/codeface/blob/master/fonts/whois-mono/license.txt) ]
 
 <img src="images/gallery/whois-mono-STP.png" width="725">
 <img src="images/gallery/whois-mono-STPC.png" width="725">
@@ -744,3 +751,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 ---
 
 § The End
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/chrissimpkins/codeface">https://github.com/chrissimpkins/codeface</a> with ranks
+</p>

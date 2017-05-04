@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/prakhar1989/awesome-courses">https://github.com/prakhar1989/awesome-courses</a> with ranks
+</p>
+---
 # Awesome Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 
@@ -184,7 +191,7 @@ Courses
 - [CS 75](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html) **Principles of Compiler Design** *Swathmore College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4f9.png" width="20" height="20" alt="Lecture Videos" title="Lecture Videos" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- Modelled after the influential paper on [incremental approach to compiler design](http://scheme2006.cs.uchicago.edu/11-ghuloum.pdf), this course teaches how to build a compiler in OCaml
 	- [Course on Github](https://github.com/compilers-course-materials)
-	- [Notes ★18](https://github.com/compilers-course-materials/cs75-s16-lectures)
+	- [Notes ★18 ⏳1Y](https://github.com/compilers-course-materials/cs75-s16-lectures)
 - [CS 91](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/index.html) **Introduction to Programming Languages** *Swathmore College* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- Uses the [Pyret](https://www.pyret.org/) programming language & [PAPL](http://papl.cs.brown.edu/2014/) book to understand the fundamentals of programming languages.
 	- [Labs](https://www.cs.swarthmore.edu/~jpolitz/cs91/s15/s_labs.html)
@@ -193,7 +200,7 @@ Courses
 	- [Previous](http://www.seas.upenn.edu/~cis194/spring13/index.html) semester also available, with more exercises
 - [CIS 198](http://cis198-2016s.github.io/) **Rust Programming** *UPenn* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- This course covers what makes Rust so unique and applies it to practical systems programming problems. Topics covered include traits and generics; memory safety (move semantics, borrowing, and lifetimes); Rust’s rich macro system; closures; and concurrency.
-	- [Assignments ★29](https://github.com/cis198-2016s/homework)
+	- [Assignments ★29 ⏳1Y](https://github.com/cis198-2016s/homework)
 - [Clojure](http://mooc.cs.helsinki.fi/clojure) **Functional Programming with Clojure** *University of Helsinki* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- The course is an introduction to functional programming with a dynamically typed language Clojure. We start with an introduction to Clojure; its syntax and development environment. Clojure has a good selection of data structures and we cover most of them. We also go through the basics of recursion and higher-order functions. The course material is in English.
 	- [Github Page](http://iloveponies.github.io/120-hour-epic-sax-marathon/index.html)
@@ -737,7 +744,7 @@ skills in vulnerability research, reverse engineering, and binary exploitation.
 	- [Lectures Notes](http://security.cs.rpi.edu/courses/binexp-spring2015/lectures/)
 	- [Labs](https://github.com/RPISEC/MBE/tree/master/src)
 	- [Projects](https://github.com/RPISEC/MBE/tree/master/src)
-- [CSCI 4976 ★1486](https://github.com/RPISEC/Malware) **Malware Analysis** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
+- [CSCI 4976 ★1486 ⏳1Y](https://github.com/RPISEC/Malware) **Malware Analysis** *Rensselaer Polytechnic Institute* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" /><img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" />
 	- This repository contains the materials as developed and used by [RPISEC](http://rpis.ec) to
 teach Malware Analysis at [Rensselaer Polytechnic Institute](http://rpi.edu) in
 Fall 2015. This was a university course developed and run soley by students, primarily using the
@@ -807,7 +814,7 @@ and anti-analysis techniques.
 	- [Lectures](http://cs.brown.edu/courses/csci1230/lectures.html)
 	- [Labs](http://cs.brown.edu/courses/csci1230/labs.html)
 	- [Demos](http://cs.brown.edu/courses/csci1230/demos.html)
-- [CS 378 ★62](https://github.com/ut-cs378-vision-2014fall/course-info) **3D Reconstruction with Computer Vision** *UTexas* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
+- [CS 378 ★62 ⏳2Y](https://github.com/ut-cs378-vision-2014fall/course-info) **3D Reconstruction with Computer Vision** *UTexas* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" title="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" title="Lecture Notes" />
 	- In this lab-based class, we'll dive into practical applications of 3D reconstruction, combining hardware and software to build our own 3D environments from scratch. We'll use open-source frameworks like OpenCV to do the heavy lifting, with the focus on understanding and applying state-of-the art approaches to geometric computer vision
 	- [Lectures](https://github.com/ut-cs378-vision-2014fall/course-info/tree/master/meeting-notes)
 - [CS 4620](http://www.cs.cornell.edu/Courses/CS4620/2014fa/index.shtml#) **Introduction to Computer Graphics** *Cornell University* <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4bb.png" width="20" height="20" alt="Assignments" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4dd.png" width="20" height="20" alt="Lecture Notes" /> <img src="https://assets-cdn.github.com/images/icons/emoji/unicode/1f4da.png" width="20" height="20" alt="Readings" />
@@ -977,3 +984,7 @@ and anti-analysis techniques.
 	- This is an introductory course on Networking for graduate students. It follows a top-down approach to teaching Computer Networks, so it starts with the Application layer which most of the students are familiar with and as the course unravels we learn more about transport, network and link layers of the protocol stack.
 	- As far as prerequisites are concerned - basic computer, programming and probability theory background is required.
 	- The course site contains links to the lecture videos, reading material and assignments.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/prakhar1989/awesome-courses">https://github.com/prakhar1989/awesome-courses</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/dastergon/awesome-sre">https://github.com/dastergon/awesome-sre</a> with ranks
+</p>
+---
 # Awesome Site Reliability Engineering  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) and [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) Engineering resources.
@@ -7,7 +14,7 @@ A curated list of awesome [Site Reliability](https://www.usenix.org/conference/s
 
 ## Contributing
 
-Please take a look at the [contribution guidelines](CONTRIBUTING.md) first.
+Please take a look at the [contribution guidelines](https://github.com/dastergon/awesome-sre/blob/master/CONTRIBUTING.md) first.
 Contributions are always welcome!
 
 ## Contents
@@ -73,6 +80,8 @@ Contributions are always welcome!
 * [Hope Is Not a Strategy](https://medium.com/@jerub/hope-is-not-a-strategy-6a7d0a3b1c08)
 * [Tenets of SRE](https://medium.com/@jerub/tenets-of-sre-8af6238ae8a8)
 * [Site Reliability Engineering Demystified](https://medium.com/@venkatachalamrangasamy/site-reliability-engineering-demystified-ed676e0a7d56)
+* [Is Site Reliability Engineering the True ‘Ops’ in DevOps?](https://devops.com/site-reliability-engineering-sre-true-ops-devops/)
+* [SRE vs. DevOps vs. Cloud Native: The Server Cage Match](https://devops.com/sre-devops-cloud-native-server-cage-match/)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -204,6 +213,7 @@ Contributions are always welcome!
 * [LinkedIn Preps Site Reliability Engineers (SREs) For Exciting Careers](http://devops.com/2015/09/10/linkedin-preps-site-reliability-engineers-sres-exciting-careers/)
 * [Book Review: Site Reliability Engineering - How Google Runs Production Systems](https://www.infoq.com/articles/site-reliability-engineering)
 * [Site Reliability Engineers: “We solve cooler problems”](https://www.google.com/about/careers/stories/site-reliability-engineering-profile-google/)
+* [SREcon17: Brave new world of site reliability engineering](http://www.networkworld.com/article/3182827/cloud-computing/srecon17-brave-new-world-of-site-reliability-engineering.html)
 
 ## Real-time Messaging
 * [#sre channel at Hangops Slack](https://hangops.slack.com/) - Discussion of Site Reliability Engineering generally.
@@ -222,6 +232,7 @@ Contributions are always welcome!
 * [Operations for Developers](http://some.ops4devs.info/) - A collection of resources for developers to strengthen their Ops skills.
 * [ProdOps: From Product to Production](http://prodops.guide/)
 * [Stephen Thorne's Blog](https://medium.com/@jerub) - Blog Posts About SRE
+* [Increment](https://increment.com/) - A digital magazine about how teams build and operate software systems at scale.
 
 ## Conferences & Meetups
 * [SRECon Conferences](https://www.usenix.org/conferences/byname/925) - The Official SRE Conference.
@@ -231,21 +242,25 @@ Contributions are always welcome!
 * [San Francisco Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/) - A Group Of People Who Are Passionate About Reliable, Performant Software Systems.
 
 ## Twitter
-* [Alice Goldfuss](https://twitter.com/alicegoldfuss) - SRE @ New Relic - Tweets About the SRE Culture.
-* [Brendan Gregg](https://twitter.com/brendangregg) - SRE @ Netflix - Technical Resources about Systems, Performance and Site Reliability Engineers.
-* [Caitie McCaffrey](https://twitter.com/caitie) - Tweets About Reliability and Distributed Systems.
-* [Dave Hahn](https://twitter.com/relix42) - SRE @ Netflix.
-* [Highscal](https://twitter.com/highscal) - Feed of the High Scalability Blog.
-* [Jennifer Petoff](https://twitter.com/jennski) - Program Manager for Google's Site Reliability Engineering team.
-* [Jesse Dearing](https://twitter.com/JesseDearing) - SRE @ InVisionApp.
-* [Jonah horowitz](https://twitter.com/jonahhorowitz) - SRE @ Netflix.
-* [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley) - SRE @ Dropbox.
-* [Niall Murphy](https://twitter.com/niallm) - SRE @ Google.
-* [Nick Craver](https://twitter.com/Nick_Craver) - SRE @ StackOverflow.
+* [Alice Goldfuss](https://twitter.com/alicegoldfuss)
+* [Brendan Gregg](https://twitter.com/brendangregg)
+* [Caitie McCaffrey](https://twitter.com/caitie)
+* [Dave Hahn](https://twitter.com/relix42)
+* [Highscal](https://twitter.com/highscal)
+* [Jennifer Petoff](https://twitter.com/jennski)
+* [Jesse Dearing](https://twitter.com/JesseDearing)
+* [Jonah horowitz](https://twitter.com/jonahhorowitz)
+* [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley)
+* [Niall Murphy](https://twitter.com/niallm)
+* [Nick Craver](https://twitter.com/Nick_Craver)
 * [SREBook](https://twitter.com/SREBook) - The Official Twitter Account of Site Reliability Engineering Book.
 * [SREcon](https://twitter.com/SREcon) - SRECon's Official Twitter Account.
-* [Tammy Bütow](https://twitter.com/tammybutow) - SRE Manager at Dropbox
-* [Thomas A. Limoncelli](https://twitter.com/yesthattom) - Prominent Author About SysAdmin/DevOps/SRE - SRE Manager at Stack Exchange.
-* [Todd Underwood](https://twitter.com/tmu) - SRE @ Google.
+* [Tammy Bütow](https://twitter.com/tammybutow)
+* [Thomas A. Limoncelli](https://twitter.com/yesthattom)
+* [Todd Underwood](https://twitter.com/tmu)
 * [Twitter SRE](https://twitter.com/TwitterSRE) - The Official Twitter Account of Twitter's SRE team.
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/dastergon/awesome-sre">https://github.com/dastergon/awesome-sre</a> with ranks
+</p>

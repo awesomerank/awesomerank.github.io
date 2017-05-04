@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/diegocard/awesome-html5">https://github.com/diegocard/awesome-html5</a> with ranks
+</p>
+---
 Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
 =============
 
@@ -374,3 +381,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 ##Contributing
 
 Your contributions are always welcome!
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/diegocard/awesome-html5">https://github.com/diegocard/awesome-html5</a> with ranks
+</p>

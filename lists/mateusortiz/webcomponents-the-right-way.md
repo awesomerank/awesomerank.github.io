@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/mateusortiz/webcomponents-the-right-way">https://github.com/mateusortiz/webcomponents-the-right-way</a> with ranks
+</p>
+---
 # Web Components the Right Way
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
@@ -87,16 +94,16 @@
 
 * [Integrating Web Components with AngularJS](http://pascalprecht.github.io/2014/10/25/integrating-web-components-with-angularjs/) This article focuses on the integration of Web Components with the AngularJS of today and the AngularJS of tomorrow.
 * [React and Custom Elements](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements/) Component Interop with React and Custom Elements
-* [Interop Sass ★39](https://github.com/webcomponents/sass-interop) A demo of interoperability between Sass and Polymer.
-* [Interop Less ★16](https://github.com/webcomponents/less-interop) A demo of interoperability between Less and Polymer.
+* [Interop Sass ★39 ⏳1Y](https://github.com/webcomponents/sass-interop) A demo of interoperability between Sass and Polymer.
+* [Interop Less ★16 ⏳1Y](https://github.com/webcomponents/less-interop) A demo of interoperability between Less and Polymer.
 * [Interop Angular ★59](https://github.com/webcomponents/angular-interop) A demo of interoperability between Polymer and AngularJs.
 * [Angular2-Polymer](https://github.com/vaadin/angular2-polymer) A directive factory that allows using Polymer based Web Components in Angular 2 applications.
 
 ## Generators
 
-* [Generator Elements ★125](https://github.com/webcomponents/generator-element) A Yeoman Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
+* [Generator Elements ★125 ⏳1Y](https://github.com/webcomponents/generator-element) A Yeoman Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
 * [Generator Polymer ★983](https://github.com/yeoman/generator-polymer) Yeoman generator for scaffolding Polymer apps
-* [Geneator X-Tag ★6](https://github.com/x-tag/yo-x-tag-generator) X-Tag generator for Yeoman
+* [Geneator X-Tag ★6 ⏳3Y](https://github.com/x-tag/yo-x-tag-generator) X-Tag generator for Yeoman
 * [Slush Element ★36](https://github.com/webcomponents/slush-element) A Slush Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
 
 
@@ -126,7 +133,7 @@
 
 ## Style Guides
 
-* [Google Web Components Style Guide ★301](https://github.com/GoogleWebComponents/style-guide) This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
+* [Google Web Components Style Guide ★301 ⏳2Y](https://github.com/GoogleWebComponents/style-guide) This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
 * [Polymer Elements Style Guide](http://polymerelements.github.io/style-guide/)
 
 
@@ -168,8 +175,8 @@
 
 ## Boilerplates
 
-* [Polymer Boilerplate ★377](https://github.com/webcomponents/polymer-boilerplate) A bare minimum custom element starter-kit using Polymer.
-* [X-Tag Boilerplate ★50](https://github.com/webcomponents/xtag-boilerplate) A bare minimum custom element starter-kit using X-Tag.
+* [Polymer Boilerplate ★377 ⏳1Y](https://github.com/webcomponents/polymer-boilerplate) A bare minimum custom element starter-kit using Polymer.
+* [X-Tag Boilerplate ★50 ⏳1Y](https://github.com/webcomponents/xtag-boilerplate) A bare minimum custom element starter-kit using X-Tag.
 * [VanillaJS Boilerplate ★198](https://github.com/webcomponents/element-boilerplate) A bare minimum custom element starter-kit using VanillaJS.
 
 
@@ -196,3 +203,7 @@ Code licensed under the:
 [MIT license](http://mateusortiz.mit-license.org)
 
 @author Mateus Ortiz <mteusortiz@gmail.com>
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/mateusortiz/webcomponents-the-right-way">https://github.com/mateusortiz/webcomponents-the-right-way</a> with ranks
+</p>

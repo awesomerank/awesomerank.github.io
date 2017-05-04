@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/terkelg/awesome-creative-coding">https://github.com/terkelg/awesome-creative-coding</a> with ranks
+</p>
+---
 # Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 # [<img src="https://cdn.rawgit.com/terkelg/awesome-creative-coding/master/cover.png"> ★1910](https://github.com/terkelg/awesome-creative-coding)
@@ -8,7 +15,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 *You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL ★498](https://github.com/eug/awesome-opengl).*
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) before contributing.*
 
 <hr>
 
@@ -227,10 +234,10 @@ Creative coding is a different discipline than programming systems in which the 
 - [Shaders: Second stage](https://notes.underscorediscovery.com/shaders-second-stage/) - The second part to the previous.
 - [WebGL Lessons — Fragment Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-intro) - A brief introduction to fragment shaders.
 - [WebGL Lessons — ThreeJS Shaders](https://github.com/Jam3/jam3-lesson-webgl-shader-threejs) - Using custom vertex and fragment shaders in ThreeJS.
-- [ThreeJS post-proces example ★11](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
+- [ThreeJS post-proces example ★11 ⏳1Y](https://github.com/Jam3/threejs-post-process-example) - example of post-processing effects in ThreeJS.
 - [Ray Marching and Signed Distance Functions](http://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing) - Introduction to ray tracing.
 - [Introduction to Ray Tracing](http://jamie-wong.com/2016/07/15/ray-marching-signed-distance-functions/) - A simple method for creating 3D images.
-- [GLSL lighting walkthrough ★296](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
+- [GLSL lighting walkthrough ★296 ⏳1Y](https://github.com/stackgl/glsl-lighting-walkthrough) - Phong shading tutorial with glslify.
 - [Three glslify example ★31](https://github.com/mattdesl/three-glslify-example) - Example on how to use three.js with glslify.
 - [WebGL Beyond Dom ★2](https://github.com/gregtatum/talk-webgl-beyond-dom) - Greg Tatum explain the basic of WebGL using Regl.
 - [FBO particles](http://barradeau.com/blog/?p=621) - Article about FBO/GPGPU particles by @nicoptere.
@@ -269,7 +276,7 @@ Creative coding is a different discipline than programming systems in which the 
 ### Interactive
 
 - [Shader-school ★1495](https://github.com/stackgl/shader-school) - Workshop for GLSL shaders and graphics programming.
-- [Webgl-workshop ★766](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API.
+- [Webgl-workshop ★766 ⏳1Y](https://github.com/stackgl/webgl-workshop) - The sequel to shader-school: Learn the WebGL API.
 - [Fragment-oundry](http://hughsk.io/fragment-foundry) - Interactive fragment shader tutorial.
 - [SDF Tutorial 1: box & balloon](https://www.shadertoy.com/view/Xl2XWt) - Shadertoy tutorial on raytracing.
 - [HOWTO: Ray Marching](https://www.shadertoy.com/view/XllGW4) - Shadertoy tutorial on Ray Marching.
@@ -323,7 +330,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 - [Math snippets ★19](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
-- [Learning Maths again ★114](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
+- [Learning Maths again ★114 ⏳1Y](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 - [Eases ★150](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.
@@ -413,3 +420,7 @@ Creative coding is a different discipline than programming systems in which the 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Terkel Gjervig](http://terkel.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/terkelg/awesome-creative-coding">https://github.com/terkelg/awesome-creative-coding</a> with ranks
+</p>

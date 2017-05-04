@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ooade/awesome-preact">https://github.com/ooade/awesome-preact</a> with ranks
+</p>
+---
 # Awesome Preact [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/ooade/awesome-preact/master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
@@ -47,10 +54,10 @@
 - [Preact Portal](https://git.io/preact-portal) - :satellite: Render Preact components into (a) SPACE.
 - [Preact Richtextarea](https://git.io/preact-richtextarea) - :pencil: Simple HTML editor component.
 - [Preact Token Input ★14](https://github.com/developit/preact-token-input) - :bookmark: Text field that tokenizes input, for things like tags.
-- [Preact Virtual List ★47](https://github.com/developit/preact-virtual-list) - :card_index: Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
+- [Preact Virtual List ★47 ⏳1Y](https://github.com/developit/preact-virtual-list) - :card_index: Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
 - [Preact Cycle](https://git.io/preact-cycle) - :repeat: Functional-reactive paradigm for Preact.
 - [Preact Layout](https://download.github.io/preact-layout/) - :triangular_ruler: Small and simple layout library.
-- [Preact Socrates ★12](https://github.com/matthewmueller/preact-socrates) - :thought_balloon: Preact plugin for [Socrates](http://github.com/matthewmueller/socrates).
+- [Preact Socrates ★12 ⏳1Y](https://github.com/matthewmueller/preact-socrates) - :thought_balloon: Preact plugin for [Socrates](http://github.com/matthewmueller/socrates).
 - [Preact Flyd](https://github.com/xialvjun/preact-flyd) - :rowboat: Use [flyd ★1016](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
 - [Preact I18nline](https://github.com/download/preact-i18nline) - :speech_balloon: Integrates the ecosystem around [i18n-js](https://github.com/everydayhero/i18n-js) with Preact via [i18nline ★5](https://github.com/download/i18nline).
 - [Preact MUI](https://git.io/v1aVO) - :metal: The MUI CSS Preact library.
@@ -93,8 +100,12 @@ Contribute some ;)
 ---
 ### Contribution
 Your contributions and suggestions are welcome anytime. Build great stuffs with Preact, share with us ;) <br/>
-Make sure you follow the [guidelines](/contributing.md). Thank you!
+Make sure you follow the [guidelines](https://github.com/ooade/awesome-preact/blob/master//contributing.md). Thank you!
 
 ---
 ### License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ooade/awesome-preact">https://github.com/ooade/awesome-preact</a> with ranks
+</p>

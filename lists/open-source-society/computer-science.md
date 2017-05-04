@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/open-source-society/computer-science">https://github.com/open-source-society/computer-science</a> with ranks
+</p>
+---
 ![Open Source Society University (OSSU)](http://i.imgur.com/Cxv8DM4.png)
 
 <h3 align="center">Open Source Society University</h3>
@@ -44,13 +51,13 @@ but specifically chosen to meet the following criteria.
 **Courses must**:
 - Be open for enrollment
 - Run regularly (ideally in self-paced format, otherwise running at least once a month or so)
-- Fulfill the [academic requirements](REQUIREMENTS.md) of OSSU
+- Fulfill the [academic requirements](https://github.com/open-source-society/computer-science/blob/master/REQUIREMENTS.md) of OSSU
 - Fit neatly into the progression of the curriculum with respect to topics and difficulty level
 - Be of generally high quality in teaching materials and pedagogical principles
 
 When no course meets the above criteria, the coursework is supplemented with a book.
 When there are courses or books that don't fit into the curriculum but are otherwise of high quality,
-they belong in [extras/courses](extras/courses.md) or [extras/readings](extras/readings.md).
+they belong in [extras/courses](https://github.com/open-source-society/computer-science/blob/master/extras/courses.md) or [extras/readings](https://github.com/open-source-society/computer-science/blob/master/extras/readings.md).
 
 **Organization**. The curriculum is designed as follows:
 - *Intro CS*: for students to try out CS and see if it's right for them
@@ -73,11 +80,11 @@ just remember that you can't purchase success!
 **Content policy**. If you plan on showing off some of your coursework publicly, you must share only files that you are allowed to.
 *Do NOT disrespect the code of conduct* that you signed in the beginning of each course!
 
-**How to contribute**. Please see [CONTRIBUTING](CONTRIBUTING.md).
+**How to contribute**. Please see [CONTRIBUTING](https://github.com/open-source-society/computer-science/blob/master/CONTRIBUTING.md).
 
 # Curriculum
 
-**Curriculum version**: `7.2.0` (see [CHANGELOG](CHANGELOG.md))
+**Curriculum version**: `7.2.0` (see [CHANGELOG](https://github.com/open-source-society/computer-science/blob/master/CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
 - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -429,7 +436,7 @@ Put the OSSU-CS badge in the README of your repository!
 
 ### Evaluation
 
-Upon completing your final project, submit your project's information to [PROJECTS](PROJECTS.md)
+Upon completing your final project, submit your project's information to [PROJECTS](https://github.com/open-source-society/computer-science/blob/master/PROJECTS.md)
 via a pull request and use our [community](#community) channels to announce it to your fellow students.
 
 Your peers and mentors from OSSU will then informally evaluate your project.
@@ -474,7 +481,7 @@ These aren't the only specializations you can choose. Check the following websit
 ### Where to go next?
 
 - Look for a job as a developer!
-- Check out the [readings](extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
+- Check out the [readings](https://github.com/open-source-society/computer-science/blob/master/extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
 - Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
 - Pay attention to emerging technologies in the world of software development, such as:
   - [Elixir](http://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
@@ -533,3 +540,7 @@ You can change the status of your board to be *public* or *private*.
 - [MIT Open Courseware](http://ocw.mit.edu/courses/#electrical-engineering-and-computer-science)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 - [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/open-source-society/computer-science">https://github.com/open-source-society/computer-science</a> with ranks
+</p>

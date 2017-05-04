@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/sindresorhus/awesome-electron">https://github.com/sindresorhus/awesome-electron</a> with ranks
+</p>
+---
 # Awesome Electron [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](http://electron.atom.io)
@@ -50,7 +57,7 @@ Made with Electron.
 - [Git-it ★1167](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 - [Caprine ★1639](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 - [Simplenote ★1190](https://github.com/Automattic/simplenote-electron) - Note keeper.
-- [nuTorrent ★173](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
+- [nuTorrent ★173 ⏳1Y](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
 - [Abricotine ★1204](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 - [Medis ★4018](https://github.com/luin/medis) - Redis database management.
 - [Kakapo ★292](https://github.com/bluedaniel/kakapo-app) - Ambient sound mixer for relaxation or productivity.
@@ -63,16 +70,16 @@ Made with Electron.
 - [Cumulus ★767](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
 - [Kitematic](https://kitematic.com) - Docker container management.
 - [FatFileFinder ★113](https://github.com/pwambach/fat-file-finder) - Find large files on your machine.
-- [ScreenCat ★1926](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
+- [ScreenCat ★1926 ⏳1Y](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
 - [Gulp ★961](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from your menubar.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
-- [Kart ★360](https://github.com/maddox/kart) - Front-end for RetroArch.
+- [Kart ★360 ⏳1Y](https://github.com/maddox/kart) - Front-end for RetroArch.
 - [Vmd ★594](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku ★69](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
 - [Leanote ★937](https://github.com/leanote/desktop-app) - Cloud notepad.
-- [Snapper ★77](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
+- [Snapper ★77 ⏳1Y](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
 - [Imagemin ★610](https://github.com/imagemin/imagemin-app) - Minify images.
 - [We Build SG ★37](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
 - [Piglet ★61](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar.
@@ -81,11 +88,11 @@ Made with Electron.
 - [Toby ★81](https://github.com/frankhale/toby) - YouTube player.
 - [Kaku ★651](https://github.com/EragonJ/Kaku) - Music player.
 - [Yeoman ★925](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
-- [Markn ★118](https://github.com/minodisk/markn) - Markdown viewer.
+- [Markn ★118 ⏳1Y](https://github.com/minodisk/markn) - Markdown viewer.
 - [Shiba ★500](https://github.com/rhysd/Shiba) - Live Markdown preview with linting.
 - [Yays ★51](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
-- [TimoFM ★224](https://github.com/sapjax/TimoFM) - DoubanFM music player.
-- [Monu ★1050](https://github.com/maxogden/monu) - Process monitoring.
+- [TimoFM ★224 ⏳1Y](https://github.com/sapjax/TimoFM) - DoubanFM music player.
+- [Monu ★1050 ⏳1Y](https://github.com/maxogden/monu) - Process monitoring.
 - [Tèsèvè](https://teseve.github.io) - Static webserver.
 - [DevDocs ★271](https://github.com/egoist/devdocs-app) - Unofficial DevDocs.io app.
 - [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
@@ -94,7 +101,7 @@ Made with Electron.
 - [Sia-UI](http://sia.tech) - Decentralized file storage system based on cryptocurrency technology.
 - [MarkRight ★859](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 - [Mongotron ★2148](https://github.com/officert/mongotron) - MongoDB management tool.
-- [Colonizers ★102](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
+- [Colonizers ★102 ⏳1Y](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
 - [Eintopf ★57](https://github.com/mazehall/eintopf) - Manage development projects with Docker.
 - [WhatsDesktop ★182](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
 - [Sqlectron ★1326](https://github.com/sqlectron/sqlectron-gui) - SQL client.
@@ -102,21 +109,21 @@ Made with Electron.
 - [Light Table ★9588](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
 - [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar.
 - [Google Play Music Desktop Player ★4671](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-- [Chrome DevTools ★1389](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
-- [Yeobara ★7](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
+- [Chrome DevTools ★1389 ⏳1Y](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
+- [Yeobara ★7 ⏳1Y](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
 - [Proton ★98](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 - [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
 - [DTCP ★38](https://github.com/alchen/DTCP) - Twitter client.
 - [Inbox ★199](https://github.com/fgnass/inbox-app) - Unofficial Google Inbox app.
 - [alienbox](http://a9.io/alienbox/) - Reddit inbox & notifier in your menubar.
-- [tweet-rec ★10](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player.
-- [Snippet Bar ★59](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
+- [tweet-rec ★10 ⏳1Y](https://github.com/midnightSuyama/tweet-rec) - Tweet recording player.
+- [Snippet Bar ★59 ⏳1Y](https://github.com/teesloane/snippet-bar) - Copy-paste & re-use text snippets in your menubar.
 - [Electronic WeChat ★6858](https://github.com/geeeeeeeeek/electronic-wechat) - Unofficial WeChat app.
 - [dida](https://github.com/xwartz/dida) - Add tasks to TickTick (滴答清单).
 - [FromScratch ★346](https://github.com/kilian/fromscratch) - Autosaving scratchpad.
-- [Hawkpass ★26](https://github.com/kalpetros/hawkpass-desktop) - Password generator.
+- [Hawkpass ★26 ⏳1Y](https://github.com/kalpetros/hawkpass-desktop) - Password generator.
 - [Gokotta ★358](https://github.com/Zhangdroid/Gokotta) - Music player.
-- [Shake ★21](https://github.com/lumios/shake) - Japanese Earthquake Early Warning Notifier.
+- [Shake ★21 ⏳1Y](https://github.com/lumios/shake) - Japanese Earthquake Early Warning Notifier.
 - [Fog ★79](https://github.com/vitorgalvao/fog) - Unofficial Overcast podcast app.
 - [Wmail ★2152](https://github.com/Thomas101/wmail) - Unofficial Gmail & Google Inbox app.
 - [Boostnote ★2873](https://github.com/BoostIO/Boostnote) - Markdown note & code snippet app for developers.
@@ -255,10 +262,10 @@ Made with Electron.
 - [electron-sudo ★178](https://github.com/automation-stack/electron-sudo) - Subprocesses with administrative privileges.
 - [electron-json-storage ★452](https://github.com/jviotti/electron-json-storage) - Write and read user settings.
 - [electron-download ★89](https://github.com/electron-userland/electron-download) - Download the Electron release zip from GitHub.
-- [ipc-stream ★71](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
+- [ipc-stream ★71 ⏳1Y](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
 - [is-electron-renderer ★47](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
 - [electron-osx-sign ★161](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
-- [electron-detach ★46](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
+- [electron-detach ★46 ⏳1Y](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [ember-electron ★616](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 - [electrify ★225](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [spectron ★620](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver.
@@ -288,7 +295,7 @@ Made with Electron.
 - [electron-stream ★76](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 - [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (alternative to PhantomJS).
 - [electron-pdf ★597](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
-- [Geojsonapp ★301](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
+- [Geojsonapp ★301 ⏳1Y](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
 - [electron-mocha ★222](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
 - [electron-har](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - Turn Electron apps into Windows Store AppX packages.
@@ -378,7 +385,7 @@ Contribute some ;)
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/sindresorhus/awesome-electron/blob/master/contributing.md) first.
 
 
 ## License
@@ -386,3 +393,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/sindresorhus/awesome-electron">https://github.com/sindresorhus/awesome-electron</a> with ranks
+</p>

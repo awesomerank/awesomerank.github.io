@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know">https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know</a> with ranks
+</p>
+---
 # jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A collection of simple tips to help up your jQuery game.
@@ -10,7 +17,7 @@ A collection of simple tips to help up your jQuery game.
 * [Tips](#tips)
 * [Support](#support)
 * [Translations](#translations)
-* [Contribution Guidelines](CONTRIBUTING.md)
+* [Contribution Guidelines](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/blob/master/CONTRIBUTING.md)
 
 
 ## Tips
@@ -455,3 +462,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 * [Pусский](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/ru-RU)
 * [简体中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-CN)
 * [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know">https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know</a> with ranks
+</p>

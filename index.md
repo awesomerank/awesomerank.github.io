@@ -68,7 +68,7 @@ Ranked awesome lists, all in one place
 - [Frontend Development ★21504](lists/dypsilon/frontend-dev-bookmarks.md)
 - [iOS ★19589](lists/vsouza/awesome-ios.md)
 - [Android ★3856](lists/JStumpp/awesome-android.md)
-- [IoT & Hybrid Apps ★249](lists/weblancaster/awesome-IoT-hybrid.md)
+- [IoT & Hybrid Apps ★249 ⏳1Y](lists/weblancaster/awesome-IoT-hybrid.md)
 - [Electron ★10826](lists/sindresorhus/awesome-electron.md)
 - [Cordova ★182](lists/busterc/awesome-cordova.md)
 - [React Native ★12129](lists/jondot/awesome-react-native.md)
@@ -78,7 +78,7 @@ Ranked awesome lists, all in one place
 - [macOS ★5926](lists/iCHAIT/awesome-macOS.md)
 	- [Command-Line ★16697](lists/herrbischoff/awesome-osx-command-line.md)
 	- [Screensavers ★524](lists/aharris88/awesome-macos-screensavers.md)
-- [watchOS ★270](lists/yenchenlin/awesome-watchos.md)
+- [watchOS ★270 ⏳1Y](lists/yenchenlin/awesome-watchos.md)
 - [JVM ★383](lists/deephacks/awesome-jvm.md)
 - [Salesforce ★148](lists/mailtoharshit/awesome-salesforce.md)
 - [Amazon Web Services ★4308](lists/donnemartin/awesome-aws.md)
@@ -159,7 +159,7 @@ Ranked awesome lists, all in one place
 - [Web Performance Optimization ★5757](lists/davidsonfellipe/awesome-wpo.md)
 - [Web Tools ★257](lists/lvwzhen/tools.md)
 - [CSS ★925](lists/sotayamashita/awesome-css.md)
-	- [Critical-Path Tools ★782](lists/addyosmani/critical-path-css-tools.md)
+	- [Critical-Path Tools ★782 ⏳1Y](lists/addyosmani/critical-path-css-tools.md)
 	- [Scalability ★1157](lists/davidtheclark/scalable-css-reading-list.md)
 	- [Must-Watch Talks ★2266](lists/AllThingsSmitty/must-watch-css.md)
 	- [Protips ★9403](lists/AllThingsSmitty/css-protips.md)
@@ -193,7 +193,7 @@ Ranked awesome lists, all in one place
 - [Static Website Services ★410](lists/aharris88/awesome-static-website-services.md)
 - [A-Frame VR ★899](lists/aframevr/awesome-aframe.md) - Virtual reality.
 - [Cycle.js ★601](lists/cyclejs-community/awesome-cyclejs.md) - Functional and reactive JavaScript framework.
-- [Text Editing ★48](lists/dok/awesome-text-editing.md)
+- [Text Editing ★48 ⏳1Y](lists/dok/awesome-text-editing.md)
 - [Motion UI Design ★373](lists/fliptheweb/motion-ui-design.md)
 - [Vue.js ★14974](lists/vuejs/awesome-vue.md) - App framework.
 - [Marionette.js ★132](lists/sadcitizen/awesome-marionette.md) - App framework.
@@ -224,7 +224,7 @@ Ranked awesome lists, all in one place
 - [Docker ★6921](lists/veggiemonk/awesome-docker.md)
 - [Vagrant ★254](lists/iJackUA/awesome-vagrant.md)
 - [Pyramid ★352](lists/uralbash/awesome-pyramid.md)
-- [Play1 Framework ★32](lists/PerfectCarl/awesome-play1.md)
+- [Play1 Framework ★32 ⏳1Y](lists/PerfectCarl/awesome-play1.md)
 - [CakePHP ★532](lists/friendsofcake/awesome-cakephp.md)
 - [Symfony ★998](lists/sitepoint/awesome-symfony.md)
 	- [Education](https://github.com/Symfonisti/awesome-symfony-education)
@@ -407,7 +407,7 @@ Ranked awesome lists, all in one place
 ## Content Management Systems
 
 - [Umbraco ★81](lists/leekelleher/awesome-umbraco.md)
-- [Refinery CMS ★19](lists/refinerycms-contrib/awesome-refinerycms.md) - Ruby on Rails CMS.
+- [Refinery CMS ★19 ⏳1Y](lists/refinerycms-contrib/awesome-refinerycms.md) - Ruby on Rails CMS.
 - [Wagtail ★219](lists/springload/awesome-wagtail.md) - Django CMS focused on flexibility and user experience.
 - [Textpattern ★28](lists/drmonkeyninja/awesome-textpattern.md) - Lightweight PHP-based CMS.
 - [Drupal ★23](lists/nirgn975/awesome-drupal.md) - Extensible PHP-based CMS.
@@ -442,7 +442,7 @@ Ranked awesome lists, all in one place
 ## Networking
 
 - [Software-Defined Networking ★106](lists/sdnds-tw/awesome-sdn.md)
-- [Ripple ★41](lists/vhpoet/awesome-ripple.md) - Open source distributed settlement network.
+- [Ripple ★41 ⏳1Y](lists/vhpoet/awesome-ripple.md) - Open source distributed settlement network.
 - [Network Analysis ★494](lists/briatte/awesome-network-analysis.md)
 - [PCAPTools ★690](lists/caesar0301/awesome-pcaptools.md)
 
@@ -455,7 +455,7 @@ Ranked awesome lists, all in one place
 - [Discounts for Student Developers ★700](lists/AchoArnold/discount-for-student-dev.md)
 - [Conferences ★555](lists/RichardLitt/awesome-conferences.md)
 - [Sysadmin ★5106](lists/n1trux/awesome-sysadmin.md)
-- [Radio ★88](lists/kyleterry/awesome-radio.md)
+- [Radio ★88 ⏳1Y](lists/kyleterry/awesome-radio.md)
 - [Awesome ★57421](https://github.com/sindresorhus/awesome) - Recursion illustrated.
 - [Analytics ★657](lists/onurakpolat/awesome-analytics.md)
 - [REST ★1127](lists/marmelab/awesome-rest.md)
@@ -463,7 +463,7 @@ Ranked awesome lists, all in one place
 - [Appium ★61](lists/SrinivasanTarget/awesome-appium.md) - Test automation tool for apps.
 - [Endangered Languages ★130](lists/RichardLitt/endangered-languages.md)
 - [Continuous Delivery ★387](lists/ciandcd/awesome-ciandcd.md)
-- [Services Engineering ★2291](lists/mmcgrana/services-engineering.md)
+- [Services Engineering ★2291 ⏳1Y](lists/mmcgrana/services-engineering.md)
 - [Free for Developers ★15403](lists/ripienaar/free-for-dev.md)
 - [Bitcoin ★185](lists/igorbarinov/awesome-bitcoin.md)
 - [Answers ★463](lists/cyberglot/awesome-answers.md) - Stack Overflow, Quora, etc.
@@ -478,7 +478,7 @@ Ranked awesome lists, all in one place
 - [FOSS Production Apps ★100](lists/jwaterfaucett/awesome-foss-apps.md)
 - [Gulp ★280](lists/alferov/awesome-gulp.md) - Task runner.
 - [AMA ★759](lists/sindresorhus/amas.md) - Ask Me Anything.
-	- [Answers ★98](lists/stoeffel/awesome-ama-answers.md)
+	- [Answers ★98 ⏳1Y](lists/stoeffel/awesome-ama-answers.md)
 - [Open Source Photography ★101](lists/ibaaj/awesome-OpenSourcePhotography.md)
 - [OpenGL ★498](lists/eug/awesome-opengl.md) - Cross-platform API for rendering 2D and 3D graphics.
 - [GraphQL ★3693](lists/chentsulin/awesome-graphql.md)

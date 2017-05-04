@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/TalAter/awesome-progressive-web-apps">https://github.com/TalAter/awesome-progressive-web-apps</a> with ranks
+</p>
+---
 # Awesome Progressive Web Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated collection of Progressive Web Apps resources.
@@ -7,7 +14,7 @@ A curated collection of Progressive Web Apps resources.
 >
 > -- <cite>[Building Progressive Web Apps - O'Reilly](https://pwabook.com/oreillyapwa)</cite>
 
-If you want to contribute, please read the [contribution guidelines](contributing.md).
+If you want to contribute, please read the [contribution guidelines](https://github.com/TalAter/awesome-progressive-web-apps/blob/master/contributing.md).
 
 ## Contents
 
@@ -105,3 +112,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 
 - [RealFaviconGenerator](http://realfavicongenerator.net/) - A great way to generate all the images, favicons, and associated files needed to display your app icon across different browsers.
 - [Android Asset Studio - Launcher Icon Generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) - Generate Android style icons.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/TalAter/awesome-progressive-web-apps">https://github.com/TalAter/awesome-progressive-web-apps</a> with ranks
+</p>

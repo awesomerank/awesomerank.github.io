@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/vinjn/awesome-vulkan">https://github.com/vinjn/awesome-vulkan</a> with ranks
+</p>
+---
 # Awesome Vulkan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 <img src="https://raw.githubusercontent.com/SaschaWillems/Vulkan/master/images/vulkanlogoscene.png" alt="Vulkan demo scene" height="256px">
@@ -13,6 +20,8 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
 * **[Libraries](#libraries)**
 * **[Bindings](#bindings)**
 * **[Tools](#tools)**
+* **[Books](#books)**
+* **[Community](#community)**
 
 ## Hardware Support
 *  [gpuinfo](http://vulkan.gpuinfo.org/) - Vulkan Hardware Database by Sascha Willems
@@ -85,7 +94,6 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     *  [GDC 2016 Presentations](https://www.khronos.org/developers/library/2016-gdc)
     *  [Moving to Vulkan Khronos UK May16](https://www.khronos.org/assets/uploads/developers/library/2016-uk-chapter-moving-to-vulkan/Moving-to-Vulkan_Khronos-UK_May16.pdf)
     *  [SIGGRPAH 2016 3D BOF](https://www.khronos.org/assets/uploads/developers/library/2016-siggraph/Khronos-3D-BOF-SIGGRAPH_Jul16.pdf)
-*  [Vulkan Programming Guide](http://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - AKA the Red Book.
 *  [Lunarg's tutorial](https://vulkan.lunarg.com/doc/sdk/1.0.26.0/windows/tutorial.html)
 * Siggraph
     * [An overview of next-generation graphics APIs](http://nextgenapis.realtimerendering.com/) - covers Vulkan, D3D12 etc.
@@ -120,13 +128,14 @@ A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by
     *  [gl_vk_chopper ★107](https://github.com/nvpro-samples/gl_vk_chopper) - Simple vulkan rendering example.
     *  [gl_vk_threaded_cadscene ★60](https://github.com/nvpro-samples/gl_vk_threaded_cadscene) - OpenGL and Vulkan comparison on rendering a CAD scene using veraious techniques and [the blog](https://developer.nvidia.com/vulkan-opengl-threaded-cad-scene-sample) about it.
     *  [gl_vk_bk3dthreaded ★42](https://github.com/nvpro-samples/gl_vk_bk3dthreaded) - Vulkan sample rendering 3D with 'worker-threads'.
-    *  [gl_vk_supersampled ★35](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
+    *  [gl_vk_supersampled ★35 ⏳1Y](https://github.com/nvpro-samples/gl_vk_supersampled) - Vulkan sample showing a high quality super-sampled rendering.
 *  [NVIDIA GameWorks Samples ★325](https://github.com/NVIDIAGameWorks/GraphicsSamples) - GameWorks cross-platform graphics API samples. [[LICENSE](https://github.com/NVIDIAGameWorks/GraphicsSamples/blob/master/license.txt)]
 *  [LunarG's samples ★437](https://github.com/LunarG/VulkanSamples)
 *  [vkcube ★25](https://github.com/krh/vkcube) - 'vkcube' sample from krh, works under X, wayland and VT console with
 drm/kms.
 *  [Stardust from Intel ★58](https://github.com/GameTechDev/stardust_vulkan) - The Stardust sample application uses the Vulkan graphics API to efficiently render a cloud of animated particles. [[LICENSE](https://github.com/GameTechDev/stardust_vulkan/blob/master/license.txt)]
-*  [Introductory Vulkan sample from AMD ★41](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan). [MIT]
+*  [Introductory Vulkan sample from AMD](https://github.com/GPUOpen-
+riesAndSDKs/HelloVulkan). [MIT]
 *  [Vulkan Quake port based on QuakeSpasm ★307](https://github.com/Novum/vkQuake).
 *  [C# Samples](https://github.com/FacticiusVir/SharpVk-Samples) - Port of Overv's tutorials to [SharpVk ★24](https://github.com/FacticiusVir/SharpVk) [MIT]
 *  [Vulkan-Forward-Plus-Renderer ★263](https://github.com/WindyDarian/Vulkan-Forward-Plus-Renderer) - VFPR - a Vulkan Forward Plus Renderer. [MIT]
@@ -157,6 +166,7 @@ drm/kms.
 *  [VulkanOnD3D12](https://github.com/Chabloom/VulkanOnD3D12) - Vulkan API for D3D12. [Apache License 2.0]
 *  [visor ★6](https://github.com/baldurk/visor) - Vulkan Ignoble Software Rasterizer. [MIT]
 *  [Lugdunum ★11](https://github.com/Lugdunum3D/Lugdunum) - A modern cross-platform 3D rendering engine built with Vulkan and modern C++14. [MIT]
+*  [Vulkan-WSIWindow ★11](https://github.com/renelindsay/Vulkan-WSIWindow) - A multi-platform library to create a Vulkan window, and handle input events. [Apache License 2.0]
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
@@ -180,6 +190,20 @@ drm/kms.
 *  [Mali Graphics Debugger](http://malideveloper.arm.com/resources/tools/mali-graphics-debugger/).
 *  [Open Capture and Analytics Tool (OCAT) ★54](https://github.com/GPUOpen-Tools/OCAT) - rovides an FPS overlay and performance measurement for D3D11, D3D12, and Vulkan. [MIT]
 
+## Books
+* [Learning Vulkan](https://www.amazon.com/Learning-Vulkan-Parminder-Singh/dp/1786469804) - by **Parminder Singh** - Get started with the Vulkan API and its programming techniques using the easy-to-follow examples.
+  * [Book's Examples ★11](https://github.com/PacktPublishing/Learning-Vulkan)
+* [Vulkan Cookbook](https://www.amazon.com/Vulkan-Cookbook-Pawel-Lapinski/dp/1786468158)- by **Pawel Lapinski** - Explores a wide range of graphics programming and GPU compute methods to make the best use of the Vulkan API.
+  * [Book's Examples ★13](https://github.com/PacktPublishing/Vulkan-Cookbook)
+* [Vulkan Programming Guide](https://www.amazon.com/Vulkan-Programming-Guide-Official-Learning/dp/0134464540) - by **Graham Sellers** and **John Kessenich** - Introduces powerful 3D development techniques for many fields. 
+
+## Community
+*  [Freenode IRC](http://webchat.freenode.net/?channels=Vulkan)
+*  [Google Plus](https://plus.google.com/communities/108983304183191634377)
+*  [Khronos Forum](https://forums.khronos.org/forumdisplay.php/114-Vulkan)
+*  [Reddit](https://www.reddit.com/r/vulkan/)
+*  [Stack Overflow](http://stackoverflow.com/questions/tagged/vulkan)
+
 ## Related lists
 *  [awesome ★57421](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 *  [awesome-opengl ★498](https://github.com/eug/awesome-opengl) - A curated list of awesome OpenGL libraries, debuggers and resources.
@@ -195,3 +219,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/vinjn/awesome-vulkan/blob/master/CONTRIBUTING.md) for details.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/vinjn/awesome-vulkan">https://github.com/vinjn/awesome-vulkan</a> with ranks
+</p>

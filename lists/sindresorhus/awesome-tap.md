@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/sindresorhus/awesome-tap">https://github.com/sindresorhus/awesome-tap</a> with ranks
+</p>
+---
 # Awesome TAP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
 
@@ -29,16 +36,16 @@
 - [tap-min ★29](https://github.com/gummesson/tap-min) - Minimal output.
 - [tap-difflet ★36](https://github.com/namuol/tap-difflet) - Minimal output with diffing.
 - [tap-diff ★50](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
-- [tap-simple ★6](https://github.com/joeybaker/tap-simple) - Simple output.
+- [tap-simple ★6 ⏳2Y](https://github.com/joeybaker/tap-simple) - Simple output.
 - [faucet ★454](https://github.com/substack/faucet) - Human-readable summarizer.
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
 - [tap-summary ★20](https://github.com/zoubin/tap-summary) - Summarized output.
-- [tap-pessimist ★12](https://github.com/clux/tap-pessimist) - Only shows failed tests.
-- [tap-prettify ★28](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
-- [tap-colorize ★27](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability.
+- [tap-pessimist ★12 ⏳1Y](https://github.com/clux/tap-pessimist) - Only shows failed tests.
+- [tap-prettify ★28 ⏳3Y](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
+- [tap-colorize ★27 ⏳2Y](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability.
 - [tap-bail ★18](https://github.com/juliangruber/tap-bail) - Bail out when the first test fails.
 - [tap-notify ★43](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows.
-- [tap-json ★16](https://github.com/gummesson/tap-json) - JSON output.
+- [tap-json ★16 ⏳1Y](https://github.com/gummesson/tap-json) - JSON output.
 - [tap-xunit ★21](https://github.com/aghassemi/tap-xunit) - xUnit output.
 - [tap-teamcity ★6](https://github.com/smockle/tap-teamcity) - Output for TeamCity.
 
@@ -77,8 +84,8 @@ Things that consume TAP output.
 ### JavaScript
 
 - [tap-parser](https://github.com/substack/tap-parser) - TAP parser.
-- [tap-out ★15](https://github.com/scottcorgan/tap-out) - TAP parser.
-- [yamlish ★18](https://github.com/isaacs/yamlish) - YAML-block parser.
+- [tap-out ★15 ⏳1Y](https://github.com/scottcorgan/tap-out) - TAP parser.
+- [yamlish ★18 ⏳1Y](https://github.com/isaacs/yamlish) - YAML-block parser.
 
 [More...](https://testanything.org/consumers.html)
 
@@ -87,7 +94,7 @@ Things that consume TAP output.
 
 ### JavaScript
 
-- [tap-dev-tool ★25](https://github.com/Jam3/tap-dev-tool) - Prettify TAP in the browser console.
+- [tap-dev-tool ★25 ⏳1Y](https://github.com/Jam3/tap-dev-tool) - Prettify TAP in the browser console.
 - [tap-merge ★4](https://github.com/anko/tap-merge) - Merge multiple TAP streams.
 
 ### Python
@@ -123,3 +130,7 @@ Things that consume TAP output.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/sindresorhus/awesome-tap">https://github.com/sindresorhus/awesome-tap</a> with ranks
+</p>

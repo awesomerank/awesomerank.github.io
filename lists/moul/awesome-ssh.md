@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/moul/awesome-ssh">https://github.com/moul/awesome-ssh</a> with ranks
+</p>
+---
 # Awesome SSH [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > A curated list of *SSH* [apps](#apps), [libraries](#libraries) and [resources](#resources).
@@ -6,7 +13,7 @@
 
 Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list thing.
 
-Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contribute.
+Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/blob/master/CONTRIBUTING.md) if you want to contribute.
 
 **Check out my [blog](http://manfredtouron.tumblr.com) 🦄 or say *hi* on [Twitter](https://twitter.com/moul).**
 
@@ -40,7 +47,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [storm](https://github.com/emre/storm) [![stars](https://img.shields.io/github/stars/emre/storm.svg?style=social&label=stars) ★2798](https://github.com/emre/storm) - Manage your *SSH* like a boss.
 * [ansible-ssh-config](https://github.com/gaqzi/ansible-ssh-config) [![stars](https://img.shields.io/github/stars/gaqzi/ansible-ssh-config.svg?style=social&label=stars) ★68](https://github.com/gaqzi/ansible-ssh-config) - Letting *Ansible* manage `ssh_config`.
 * [ec2ssh](https://github.com/mirakui/ec2ssh) [![stars](https://img.shields.io/github/stars/mirakui/ec2ssh.svg?style=social&label=stars) ★185](https://github.com/mirakui/ec2ssh) - A `ssh_config` manager for *AWS EC2*.
-* [ssh-config](https://github.com/dbrady/ssh-config) [![stars](https://img.shields.io/github/stars/dbrady/ssh-config.svg?style=social&label=stars) ★73](https://github.com/dbrady/ssh-config) - A tool to help manage your `.ssh/config` file.
+* [ssh-config](https://github.com/dbrady/ssh-config) [![stars](https://img.shields.io/github/stars/dbrady/ssh-config.svg?style=social&label=stars) ★73 ⏳1Y](https://github.com/dbrady/ssh-config) - A tool to help manage your `.ssh/config` file.
 
 ### Tools using the *SSH* protocol
 
@@ -52,7 +59,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 ### Servers
 
 * [ssh2docker](https://github.com/moul/ssh2docker) [![stars](https://img.shields.io/github/stars/moul/ssh2docker.svg?style=social&label=stars) ★72](https://github.com/moul/ssh2docker) - *SSH* server to Docker containers.
-* [whosthere](https://github.com/FiloSottile/whosthere) [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social&label=stars) ★1178](https://github.com/FiloSottile/whosthere) - A *SSH* server that knows who you are. `$ ssh whoami.filippo.io`.
+* [whosthere](https://github.com/FiloSottile/whosthere) [![stars](https://img.shields.io/github/stars/FiloSottile/whosthere.svg?style=social&label=stars) ★1178 ⏳1Y](https://github.com/FiloSottile/whosthere) - A *SSH* server that knows who you are. `$ ssh whoami.filippo.io`.
 * [sshfront](https://github.com/gliderlabs/sshfront) [![stars](https://img.shields.io/github/stars/gliderlabs/sshfront.svg?style=social&label=stars) ★171](https://github.com/gliderlabs/sshfront) - Programmable *SSH* frontend.
 * [ssh-chat](https://github.com/shazow/ssh-chat) [![stars](https://img.shields.io/github/stars/shazow/ssh-chat.svg?style=social&label=stars) ★2792](https://github.com/shazow/ssh-chat) - Chat over *SSH*.
 * [sshcommand](https://github.com/dokku/sshcommand) [![stars](https://img.shields.io/github/stars/dokku/sshcommand.svg?style=social&label=stars) ★276](https://github.com/dokku/sshcommand) - Turn *SSH* into a thin client specifically for your app.
@@ -65,12 +72,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * [Mosh](https://mosh.mit.edu) - The mobile shell.
 * [sshfs](https://github.com/libfuse/sshfs) [![stars](https://img.shields.io/github/stars/libfuse/sshfs.svg?style=social&label=stars) ★713](https://github.com/libfuse/sshfs) - Filesystem client based on the *SSH* File Transfer Protocol.
 * [ngrok](https://github.com/inconshreveable/ngrok) [![stars](https://img.shields.io/github/stars/inconshreveable/ngrok.svg?style=social&label=stars) ★9737](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost.
-* [localtunnel](https://github.com/progrium/localtunnel) [![stars](https://img.shields.io/github/stars/progrium/localtunnel.svg?style=social&label=stars) ★2970](https://github.com/progrium/localtunnel) - Expose localhost servers to the Internet.
+* [localtunnel](https://github.com/progrium/localtunnel) [![stars](https://img.shields.io/github/stars/progrium/localtunnel.svg?style=social&label=stars) ★2970 ⏳2Y](https://github.com/progrium/localtunnel) - Expose localhost servers to the Internet.
 * [sshuttle](https://github.com/apenwarr/sshuttle) [![stars](https://img.shields.io/github/stars/apenwarr/sshuttle.svg?style=social&label=stars) ★7993](https://github.com/apenwarr/sshuttle) - Transparent proxy server that works as a poor man's *VPN*. Forwards over `ssh`. Doesn't require admin. Works with *Linux* and *MacOS*. Supports *DNS tunneling*.
 * [sshttp](https://github.com/stealth/sshttp) [![stars](https://img.shields.io/github/stars/stealth/sshttp.svg?style=social&label=stars) ★427](https://github.com/stealth/sshttp) - *SSH*/*HTTP(S)* multiplexer. Run a webserver and a `sshd` on the same port w/o changes.
 * [switcher](https://github.com/jamescun/switcher) [![stars](https://img.shields.io/github/stars/jamescun/switcher.svg?style=social&label=stars)](https://github.com/jamescun/switcher) - Run *SSH* and *HTTP(S)* on the same port.
 * [sslh](https://github.com/yrutschle/sslh) [![stars](https://img.shields.io/github/stars/yrutschle/sslh.svg?style=social&label=stars)](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (i.e: *SSH* + *HTTPS*).
-* [tund](https://github.com/aphyr/tund) [![stars](https://img.shields.io/github/stars/aphyr/tund.svg?style=social&label=stars) ★335](https://github.com/aphyr/tund) - *SSH* reverse tunnel daemon.
+* [tund](https://github.com/aphyr/tund) [![stars](https://img.shields.io/github/stars/aphyr/tund.svg?style=social&label=stars) ★335 ⏳1Y](https://github.com/aphyr/tund) - *SSH* reverse tunnel daemon.
 * [autossh](http://www.harding.motd.ca/autossh/) - Automatically respawn *SSH* session after network interruption.
 * [wssh](https://github.com/aluzzardi/wssh) [![stars](https://img.shields.io/github/stars/aluzzardi/wssh.svg?style=social&label=stars) ★967](https://github.com/aluzzardi/wssh) - *SSH* to WebSockets Bridge.
 * [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) [![stars](https://img.shields.io/github/stars/vieux/docker-volume-sshfs.svg?style=social&label=stars) ★114](https://github.com/vieux/docker-volume-sshfs) - `sshfs` docker volume plugin.
@@ -88,7 +95,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 
 * [authy-ssh](https://github.com/authy/authy-ssh) [![stars](https://img.shields.io/github/stars/authy/authy-ssh.svg?style=social&label=stars) ★724](https://github.com/authy/authy-ssh) - Easy *two-factor* authentication for *SSH* servers.
 * [github-auth](https://github.com/chrishunt/github-auth) [![stars](https://img.shields.io/github/stars/chrishunt/github-auth.svg?style=social&label=stars) ★356](https://github.com/chrishunt/github-auth) - *SSH* key management for GitHub users.
-* [cipherhub](https://github.com/substack/cipherhub) [![stars](https://img.shields.io/github/stars/substack/cipherhub.svg?style=social&label=stars) ★406](https://github.com/substack/cipherhub) - Encrypt messages based on *SSH* public keys with easy import from GitHub.
+* [cipherhub](https://github.com/substack/cipherhub) [![stars](https://img.shields.io/github/stars/substack/cipherhub.svg?style=social&label=stars) ★406 ⏳2Y](https://github.com/substack/cipherhub) - Encrypt messages based on *SSH* public keys with easy import from GitHub.
 * [Slack notifications](http://www.ryanbrink.com/slack-ssh-session-notifications/) - Guide to setup Slack notifications (can be modified for other services).
 * [totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) [![stars](https://img.shields.io/github/stars/benjojo/totp-ssh-fluxer.svg?style=social&label=stars) ★650](https://github.com/benjojo/totp-ssh-fluxer) - A way to make sure your `sshd` port changes every 30 seconds.
 * [github-keygen](https://github.com/dolmen/github-keygen) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars)](https://github.com/dolmen/github-keygen) - Easy creation of secure *SSH* configuration for your GitHub account(s).
@@ -142,7 +149,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 * Golang
   * [crypto/ssh](https://godoc.org/golang.org/x/crypto/ssh) - Built-in *SSH* client and server library.
   * [sftp](https://github.com/pkg/sftp) [![stars](https://img.shields.io/github/stars/pkg/sftp.svg?style=social&label=stars) ★355](https://github.com/pkg/sftp) - *SFTP* support for the go.crypto/ssh package.
-  * [go-sshkit](https://github.com/shazow/go-sshkit) [![stars](https://img.shields.io/github/stars/shazow/go-sshkit.svg?style=social&label=stars) ★9](https://github.com/shazow/go-sshkit) - Toolkit for building *SSH* servers and clients in Go.
+  * [go-sshkit](https://github.com/shazow/go-sshkit) [![stars](https://img.shields.io/github/stars/shazow/go-sshkit.svg?style=social&label=stars) ★9 ⏳1Y](https://github.com/shazow/go-sshkit) - Toolkit for building *SSH* servers and clients in Go.
   * [Socker](https://github.com/cosiner/socker) [![stars](https://img.shields.io/github/stars/cosiner/socker.svg?style=social&label=stars) ★179](https://github.com/cosiner/socker) - Library for Go to simplify the use of *SSH*.
 * Java
   * [jsch](http://www.jcraft.com/jsch/) - Pure *java*, *BSD* licensed, *SSH2* client library.
@@ -184,3 +191,7 @@ Please read the [contribution guidelines](CONTRIBUTING.md) if you want to contri
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Manfred Touron](https://github.com/moul) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/moul/awesome-ssh">https://github.com/moul/awesome-ssh</a> with ranks
+</p>

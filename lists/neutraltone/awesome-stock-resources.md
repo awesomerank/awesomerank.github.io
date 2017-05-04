@@ -1,6 +1,13 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/neutraltone/awesome-stock-resources">https://github.com/neutraltone/awesome-stock-resources</a> with ranks
+</p>
+---
 # Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
-![Introductory images](/img/splash.jpg)
+![Introductory images](https://github.com/neutraltone/awesome-stock-resources/blob/master//img/splash.jpg)
 
 > A curated list of awesome  stock photography, video and illustration websites.
 
@@ -229,7 +236,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Octicons](https://octicons.github.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) GitHub's Icons.
 * [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
-* [Topcoat Icons ★253](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
+* [Topcoat Icons ★253 ⏳3Y](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 * [Typicons](http://typicons.com/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 * [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
 * [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
@@ -241,7 +248,7 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
-* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright: ★1785](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
+* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright: ★1785 ⏳2Y](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
 * [Simple Icons ★4925](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
@@ -312,7 +319,7 @@ And last, but not least, a selection of the best paid resources.
 
 ## How to Contribute
 
-Please read [CONTRIBUTING](/CONTRIBUTING.md).
+Please read [CONTRIBUTING](https://github.com/neutraltone/awesome-stock-resources/blob/master//CONTRIBUTING.md).
 
 ## How to Share
 
@@ -333,3 +340,7 @@ And finally, if you appreciate this list and find it useful, please consider hel
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Tony Phipps](https://twitter.com/neutraltone) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/neutraltone/awesome-stock-resources">https://github.com/neutraltone/awesome-stock-resources</a> with ranks
+</p>

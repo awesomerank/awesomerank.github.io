@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/nikgraf/awesome-draft-js">https://github.com/nikgraf/awesome-draft-js</a> with ranks
+</p>
+---
 # Awesome Draft.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [Draft.js](https://facebook.github.io/draft-js/) is a framework for building rich text editors in React.
@@ -62,7 +69,7 @@
 
 ## Common Utilities
 
-* [BackDraft.js ★36](https://github.com/evanc/backdraft-js) - Function to turn a rawContentBlock into a marked-up string.
+* [BackDraft.js ★36 ⏳1Y](https://github.com/evanc/backdraft-js) - Function to turn a rawContentBlock into a marked-up string.
 * [Draft.js Exporter ★23](https://github.com/rkpasia/draft-js-exporter) - Export and format the content from Draft.js.
 * [Draft.js: Export ContentState to HTML ★274](https://github.com/sstur/draft-js-export-html) - Export ContentState to HTML.
 * [Redraft ★49](https://github.com/lokiuz/redraft) - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
@@ -114,3 +121,7 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/nikgraf/awesome-draft-js">https://github.com/nikgraf/awesome-draft-js</a> with ranks
+</p>

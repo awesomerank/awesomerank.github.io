@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/tobiasbueschel/awesome-pokemon">https://github.com/tobiasbueschel/awesome-pokemon</a> with ranks
+</p>
+---
 <p align="center">
   <a href="https://github.com/tobiasbueschel/awesome-pokemon/">
     <img alt="Awesome Pokémon" src="logo.png" width="700">
@@ -60,7 +67,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [Pokemon Go Bot ★0](https://github.com/Hrithikd/Pokemon-Go-Bot-Working-Hack-API) - Pokémon GO bot that farms for Pokestops and Pokémon.
 - [slack-pokemon ★313](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokémon battles in Slack.
 - [PokeSlack ★47](https://github.com/timwah/pokeslack) - Alerts you of nearby Pokémon.
-- [TwitchPlaysPokemon ★82](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
+- [TwitchPlaysPokemon ★82 ⏳3Y](https://github.com/sunshinekitty/TwitchPlaysPokemon) - A bot mimicking Twitch Plays Pokémon.
 - [PokemonGo-Bot ★3710](https://github.com/PokemonGoF/PokemonGo-Bot) - The Pokémon GO bot script, baking with community.
 - [Poketrainer](https://github.com/j-e-k/poketrainer) - A fast and feature filled bot in Python.
 - [PokeBot ★10](https://github.com/akbaryahya/PokeBot) - The automated Pokémon speedrunning machine.
@@ -72,7 +79,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [alfred-pokedex ★19](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
 - [Pokemon-Go-Controller ★2486](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area.
 - [pokecrystal ★848](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
-- [x-pokemon ★91](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
+- [x-pokemon ★91 ⏳1Y](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
 - [pokered ★1149](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
 - [pokemon-reverse-engineering-tools ★118](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
@@ -138,3 +145,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbueschel) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/tobiasbueschel/awesome-pokemon">https://github.com/tobiasbueschel/awesome-pokemon</a> with ranks
+</p>

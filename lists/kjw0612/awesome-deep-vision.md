@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/kjw0612/awesome-deep-vision">https://github.com/kjw0612/awesome-deep-vision</a> with ranks
+</p>
+---
 # Awesome Deep Vision [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of deep learning resources for computer vision, inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-computer-vision ★2467](https://github.com/jbhuang0604/awesome-computer-vision).
@@ -422,7 +429,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 
 ### Applications
 * Adversarial Training
-  * Code and hyperparameters for the paper "Generative Adversarial Networks" [[Web] ★793](https://github.com/goodfeli/adversarial)
+  * Code and hyperparameters for the paper "Generative Adversarial Networks" [[Web] ★793 ⏳2Y](https://github.com/goodfeli/adversarial)
 * Understanding and Visualizing
   * Source code for "Understanding Deep Image Representations by Inverting Them," CVPR, 2015. [[Web] ★116](https://github.com/aravindhm/deep-goggle)
 * Semantic Segmentation
@@ -431,7 +438,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * Super-Resolution
   * Image Super-Resolution for Anime-Style-Art [[Web] ★8169](https://github.com/nagadomi/waifu2x)
 * Edge Detection
-  * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [[Web] ★39](https://github.com/shenwei1231/DeepContour)
+  * Source code for the paper "DeepContour: A Deep Convolutional Feature Learned by Positive-Sharing Loss for Contour Detection," CVPR, 2015. [[Web] ★39 ⏳2Y](https://github.com/shenwei1231/DeepContour)
   * Source code for the paper "Holistically-Nested Edge Detection", ICCV 2015. [[Web] ★318](https://github.com/s9xie/hed)
 
 ## Tutorials
@@ -444,3 +451,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
 * [Facebook's AI Painting@Wired](http://www.wired.com/2015/06/facebook-googles-fake-brains-spawn-new-visual-reality/)
 * [Inceptionism: Going Deeper into Neural Networks@Google Research](http://googleresearch.blogspot.kr/2015/06/inceptionism-going-deeper-into-neural.html)
 * [Implementing Neural networks](http://peterroelants.github.io/) 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/kjw0612/awesome-deep-vision">https://github.com/kjw0612/awesome-deep-vision</a> with ranks
+</p>

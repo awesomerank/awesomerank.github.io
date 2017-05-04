@@ -1,10 +1,17 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/vinkla/awesome-fuse">https://github.com/vinkla/awesome-fuse</a> with ranks
+</p>
+---
 # Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cloud.githubusercontent.com/assets/499192/24413317/5cb57f14-13db-11e7-9d53-2389641d81a8.jpg" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
 
 > A curated list of awesome [Fuse](https://www.fusetools.com/) applications, articles, and plugins.
 
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/vinkla/awesome-fuse/blob/master/CONTRIBUTING.md) before contributing.*
 
 Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.com/vinkla)! 👋
 
@@ -82,7 +89,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 ## Open Source
 
 - [500px Gallery Demo ★23](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
-- [CSGOTimer ★0](https://github.com/sanderdan/CSGOTimer) - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
+- [CSGOTimer ★0 ⏳1Y](https://github.com/sanderdan/CSGOTimer) - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
 - [Firebase ★33](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
 - [FormulaFuse ★0](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation ★0](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components
@@ -92,9 +99,8 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [fuse.QrScanner ★0](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode.
 - [Fuse Tags with Firebase ★15](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
-- [Gulp Procedure ★2](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
-- [Gulp Rollup Babel ★5](https://github.com/sebbert/fuse-gulp-rollup-babel) - An alternative example of module bundling and ES6 -> ES5 transpiling.
-- [Haxe ★29](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
+- [Gulp Procedure ★2 ⏳1Y](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
+- [Haxe ★29 ⏳1Y](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
 - [Hikr ★27](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
 - [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
 - [Motion ★9](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.
@@ -105,12 +111,12 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 ## Plugins
 
-- [Alfred Workflow ★1](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred.
+- [Alfred Workflow ★1 ⏳1Y](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred.
 - [Atom ★26](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse.
 - [Bash Completion ★2](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 - [Emacs ★4](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse.
 - [Sublime ★22](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
-- [Visual Studio Code ★41](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
+- [Visual Studio Code ★41 ⏳1Y](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 - [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 - [Fuse-Log ★1](https://github.com/bstrr/vscode-fuse-log) - Get Fuse log messages into Visual Studio Code's output panel.
 
@@ -119,3 +125,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vincent Klaiber](https://vinkla.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/vinkla/awesome-fuse">https://github.com/vinkla/awesome-fuse</a> with ranks
+</p>

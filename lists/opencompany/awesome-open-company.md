@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/opencompany/awesome-open-company">https://github.com/opencompany/awesome-open-company</a> with ranks
+</p>
+---
 # Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 A community-curated list of awesome [open companies](#what-is-an-open-company),
 inspired by the many [awesome-x lists ★57421](https://github.com/sindresorhus/awesome) out there.
@@ -95,3 +102,7 @@ Company | Openness Pledge | Open Product | Open Standards | Statement | Open Cha
 
 ## License
 *This work and all contributions to it are released into the public domain under the terms of the [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/).*
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/opencompany/awesome-open-company">https://github.com/opencompany/awesome-open-company</a> with ranks
+</p>

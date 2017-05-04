@@ -1,6 +1,13 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/fliptheweb/motion-ui-design">https://github.com/fliptheweb/motion-ui-design</a> with ranks
+</p>
+---
 # Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
-Feel free to [add something interesting](contributing.md) (todo inside) by pull request!
+Feel free to [add something interesting](https://github.com/fliptheweb/motion-ui-design/blob/master/contributing.md) (todo inside) by pull request!
 
 ## Contents
 1. Resources for inspiration
@@ -140,7 +147,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Mo.js ★11470](https://github.com/legomushroom/mojs) – motion graphics toolbelt for the web;
 * [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) - library for transition of blocks and popups;
 * [Animate Plus](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile;
-* [Gravitas.js ★118](https://github.com/iamralpht/gravitas.js) - super fast physics simulations for JavaScript;
+* [Gravitas.js ★118 ⏳1Y](https://github.com/iamralpht/gravitas.js) - super fast physics simulations for JavaScript;
 * [Popmotion](https://popmotion.io/guides/basics/get-started/) – js motion engine that makes creating engaging user interactions quick and simple;
 
 ### SVG
@@ -213,3 +220,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 [![CC0](https://upload.wikimedia.org/wikipedia/commons/6/69/CC0_button.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 **Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/fliptheweb/motion-ui-design">https://github.com/fliptheweb/motion-ui-design</a> with ranks
+</p>

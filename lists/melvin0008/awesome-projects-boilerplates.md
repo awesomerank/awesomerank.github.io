@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/melvin0008/awesome-projects-boilerplates">https://github.com/melvin0008/awesome-projects-boilerplates</a> with ranks
+</p>
+---
 # Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 Curated list of boilerplates and templates to enhance productivity.
@@ -24,14 +31,14 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Android*
 
-- [Android Bootstrap ★4282](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
-- [Android Material Drawer Template ★704](https://github.com/kanytu/android-material-drawer-template) An Android template with navigation drawer for material design.
+- [Android Bootstrap ★4282 ⏳1Y](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
+- [Android Material Drawer Template ★704 ⏳2Y](https://github.com/kanytu/android-material-drawer-template) An Android template with navigation drawer for material design.
 - [material-design-icons-adt-template ★425](https://github.com/intrications/material-design-icons-adt-template) Android Studio / Eclipse ADT template for material-design-icons resources.
-- [AndroidKickststarter ★623](https://github.com/e-biz/androidkickstartr) Framework kickstarts development which help you focus on coding.
+- [AndroidKickststarter ★623 ⏳3Y](https://github.com/e-biz/androidkickstartr) Framework kickstarts development which help you focus on coding.
 - [Android Annotations](https://github.com/excilys/androidannotations) Fast Android Development. Easy maintainance.
 - [Android Cookbook Examples ★642](https://github.com/IanDarwin/Android-Cookbook-Examples) Collected code examples from the O'Reilly Android Cookbook.
 - [Android Basic Samples ★744](https://github.com/playgameservices/android-basic-samples) Mostly game oriented samples.
-- [Android Webview Sample App ★60](https://github.com/tscolari/android-webview-sample-app) Webview Sample App
+- [Android Webview Sample App ★60 ⏳5Y](https://github.com/tscolari/android-webview-sample-app) Webview Sample App
 - [Android Quickstart ★182](https://github.com/googledrive/android-quickstart) Quickstart application showing the Google Drive API for Android.
 - [Beginning Android Resources](https://github.com/codepath/android_guides/wiki/Beginning-Android-Resources) Android Guide.
 - [Universal Music Player ★7585](https://github.com/googlesamples/android-UniversalMusicPlayer) Google sample application that shows how to implement an audio media app that works across multiple form factors and provides a consistent user experience on Android phones, tablets, Auto, Wear and Cast devices.
@@ -41,9 +48,9 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for IOS*
 
-- [iOS Boilerplate ★2908](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
-- [Amaro ★370](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
-- [Boilerplate-iOS ★7](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
+- [iOS Boilerplate ★2908 ⏳5Y](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
+- [Amaro ★370 ⏳1Y](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
+- [Boilerplate-iOS ★7 ⏳4Y](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 
 ## JavaScript
 
@@ -56,31 +63,31 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Node Module boilerplate ★355](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
     - [Express Boilerplate ★654](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
     - [Hackathon Starter ★19652](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
-    - [Node/Backbone Web App Boilerplate ★23](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
+    - [Node/Backbone Web App Boilerplate ★23 ⏳4Y](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
     - [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
 - [AngularJS](#angular-js)
     - [ng-boilerplate ★4154](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
     - [Yeoman Angular Generator ★5838](https://github.com/yeoman/generator-angular)
-    - [Angular Laravel CouchDB ★4](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
+    - [Angular Laravel CouchDB ★4 ⏳2Y](https://github.com/melvin0008/laravel-angular) Angular Laravel CouchDB Boilerplate
     - [fafafa](https://github.com/fordaaronj/fafafa) Angular / Flask / Foundation Boilerplate.
 - [ReactJS](#react-js)
-    - [React Boilerplate ★571](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
+    - [React Boilerplate ★571 ⏳1Y](https://github.com/petehunt/react-boilerplate) Boilerplate for creating a React npm package
     - [React Boilerplate](https://github.com/rackt/react-boilerplate) React boilerplate with React Router and webpack
     - [React Transorm Boilerplate ★3427](https://github.com/gaearon/react-transform-boilerplate) A new Webpack boilerplate with hot reloading React components, and error handling on module and component level.
-    - [Library Boilerplate ★379](https://github.com/gaearon/library-boilerplate) An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader
-    - [React Isomorphic Starterkit ★2276](https://github.com/RickWong/react-isomorphic-starterkit) Isomorphic starterkit with server-side React rendering having many features
-    - [Coffee React Quickstart  ★256](https://github.com/KyleAMathews/coffee-react-quickstart) Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
+    - [Library Boilerplate ★379 ⏳1Y](https://github.com/gaearon/library-boilerplate) An opinionated boilerplate for React libraries including ESLint, Mocha, Babel, Webpack and an example powered by Webpack Dev Server and React Hot Loader
+    - [React Isomorphic Starterkit ★2276 ⏳1Y](https://github.com/RickWong/react-isomorphic-starterkit) Isomorphic starterkit with server-side React rendering having many features
+    - [Coffee React Quickstart  ★256 ⏳1Y](https://github.com/KyleAMathews/coffee-react-quickstart) Quickstart for building React single page apps using Coffeescript, Gulp, Webpack, and React-Router
     - [Flask React Boilerplate ★251](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
-    - [Boilerplate Webpack React ★48](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
+    - [Boilerplate Webpack React ★48 ⏳1Y](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
     - [React Redux Universal Hot Example ★9529](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
 - [Backbone](#backbone)
-    - [Backbone Boilerplates ★503](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
+    - [Backbone Boilerplates ★503 ⏳4Y](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Yeoman Backbone Generator ★657](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
     - [benm ★182](https://github.com/shorttompkins/benm) Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB.
 - [Jquery](#jquery)
-    - [Generator Jquery Boilerplate ★146](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
+    - [Generator Jquery Boilerplate ★146 ⏳1Y](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
 - [Polymer](#polymer)
     - [Polymer Starter Kit ★2376](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
     - [Polymer Seed Element ★288](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
@@ -98,23 +105,23 @@ Curated list of boilerplates and templates to enhance productivity.
 *Boilerplates and templates for Python*
 - [Django Hackathon Starter ★998](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
 - [CookieCutter ★4920](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
-- [bootstrapy ★272](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
+- [bootstrapy ★272 ⏳3Y](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
 - [Fbone](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 - [Flask-Bootstrap ★158](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
-- [Flask Boilerplate ★3](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
+- [Flask Boilerplate ★3 ⏳2Y](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
 - [Flask Foundation ★1012](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
 - [GoogleAppEngine Webapp2 Boilerplate ★707](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
 - [Flask Appengine Template ★989](https://github.com/kamalgill/flask-appengine-template) Flask App engine Template
 - [Django Starter Template ★65](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.
 - [gae-init](http://gae-init.appspot.com) Google App Engine based on Flask, RESTful, Bootstrap and tons of other cool features.
-- [CherryPy + Mako + Formish + OOOP boilerplate ★3](https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate) Targets publishing of OpenERP content to the web.
+- [CherryPy + Mako + Formish + OOOP boilerplate ★3 ⏳3Y](https://github.com/kdeldycke/cherrypy_mako_formish_ooop_boilerplate) Targets publishing of OpenERP content to the web.
 
 
 ## PHP
 
 *Boilerplates and templates for PHP*
 
-- [Laravel Angular CouchDB ★4](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
+- [Laravel Angular CouchDB ★4 ⏳2Y](https://github.com/melvin0008/laravel-angular) Laravel Angular CouchDB Boilerplate
 - [Laravel Snippets](http://www.laravelsnippets.com) Many laravel snippets.
 
 ## Ruby
@@ -122,7 +129,7 @@ Curated list of boilerplates and templates to enhance productivity.
 *Boilerplates and templates for Ruby*
 
 - [AngularJS Rails Templates ★571](https://github.com/pitr/angular-rails-templates) Rails and Angular Tempate.  
-- [AngularJS Sinatra Bootstrap ★13](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template.
+- [AngularJS Sinatra Bootstrap ★13 ⏳4Y](https://github.com/dannolan/angularjs-sinatra-bootstrap-template) Angular Sinatra Bootstrap template.
 - [Rails Composer](http://railsapps.github.io/rails-composer/) Use Rails Composer to generate any of the example applications from the RailsApps project.
 - [Rails Bootstrap ★431](https://github.com/RailsApps/rails-bootstrap) Starter App for Rails and Bootstrap
 
@@ -150,7 +157,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Websites*
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
-- [Meteor boilerplate ★920](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
+- [Meteor boilerplate ★920 ⏳1Y](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
 - [Web Starter Kit ★16277](https://github.com/google/web-starter-kit) Web starter kit by Google.
 - [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
 - [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates
@@ -180,3 +187,7 @@ Your contributions are always welcome!
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Melvin Philips](http://melvinphilips.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/melvin0008/awesome-projects-boilerplates">https://github.com/melvin0008/awesome-projects-boilerplates</a> with ranks
+</p>

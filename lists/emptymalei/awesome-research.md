@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/emptymalei/awesome-research">https://github.com/emptymalei/awesome-research</a> with ranks
+</p>
+---
 # Awesome Research Tools
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
@@ -216,7 +223,7 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 * [Sphinx](http://sphinx-doc.org): RestructuredText as source files, powerful, flexible and modularized.
 * [Gitbook](https://www.gitbook.com/): A new but promising tool for HTML, pdf, and epub with both online editors and local editors. Plugins like quizzes and math can be helpful to writing science.
-* [Git-scribe ★1300](https://github.com/schacon/git-scribe): Good for writing ebooks.
+* [Git-scribe ★1300 ⏳1Y](https://github.com/schacon/git-scribe): Good for writing ebooks.
 * [Static Site Generator](#static-site-generator): For more please refer to [Static Site Generator](#static-site-generator).
 
 
@@ -285,7 +292,7 @@ These programs are running on the server and can be [hosted using these services
 * [Octopress](http://octopress.org/) (Written in `Ruby`)(`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
 * [Hexo](https://hexo.io/) (Written in `Node.js`)(`Markdown`): "A fast, simple & powerful blog framework" as they say on their website. It supports GFM.
 * [Pelican](http://getpelican.com) (Written in `Python`)(`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
-  * [Pelican Svbtle Theme ★139](https://github.com/wting/pelican-svbtle)
+  * [Pelican Svbtle Theme ★139 ⏳1Y](https://github.com/wting/pelican-svbtle)
 * [Nikola](https://getnikola.com/) (Written in `Python`)(`reStructuredText`,`Markdown`,`IPython Notebook/Jupyter`,`PHP`, etc): It takes in multiple input formats including reStructuredText and many others.
 * [Hugo](http://gohugo.io/)(Written in `Go`)(`Markdown`): Easy to use and really fast. It also supports more input formats through plugins.
 
@@ -344,7 +351,7 @@ Notebook softwares that you can write in Markdown:
 
 **You can also host one using your own machine.**
 
-* [FlyLaTeX ★780](https://github.com/alabid/flylatex): A free, open source version of sharelatex
+* [FlyLaTeX ★780 ⏳1Y](https://github.com/alabid/flylatex): A free, open source version of sharelatex
 * [ShareLaTeX Source Code ★4210](https://github.com/sharelatex/sharelatex): ShareLaTeX open sourced their codes. This is a great move I would say.
 * [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
 * [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by.
@@ -376,9 +383,9 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 **Online**
 
-* [KityMinder By Baidu ★1963](https://github.com/fex-team/kityminder) : Chinese Interface
+* [KityMinder By Baidu ★1963 ⏳1Y](https://github.com/fex-team/kityminder) : Chinese Interface
 * [my-mind](http://my-mind.github.io/): repo [here ★1677](https://github.com/ondras/my-mind).
-* [beautiful Mind](http://beautifulmind.io/): repo [here ★110](https://github.com/ierror/BeautifulMind.io)
+* [beautiful Mind](http://beautifulmind.io/): repo [here ★110 ⏳2Y](https://github.com/ierror/BeautifulMind.io)
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
 * [mindmaps](http://drichard.org/mindmaps/): repo [here ★1069](https://github.com/drichard/mindmaps)
 
@@ -436,7 +443,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
 * [Strut ★1394](https://github.com/tantaman/Strut)
-* [Impressionist ★594](https://github.com/harish-io/Impressionist)
+* [Impressionist ★594 ⏳3Y](https://github.com/harish-io/Impressionist)
 * [hovercraft ★841](https://github.com/regebro/hovercraft)
 
 
@@ -454,7 +461,7 @@ Use [colors ★7380](https://github.com/mrmrs/colors) to make your HTML feels be
 * [Reveal.js ★34215](https://github.com/hakimel/reveal.js)
 * [Beckpoke.js ★4138](https://github.com/bespokejs/bespoke)
 * [CSSS ★1469](https://github.com/LeaVerou/CSSS)
-* [Scrolldeck ★686](https://github.com/johnpolacek/scrolldeck.js)
+* [Scrolldeck ★686 ⏳1Y](https://github.com/johnpolacek/scrolldeck.js)
 * [Deck.js ★5127](https://github.com/imakewebthings/deck.js)
 * [Shower ★3563](https://github.com/shower/shower)
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
@@ -482,7 +489,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 
 **Online SVG editors:**
 
-* [ext-sozi ★27](https://github.com/asyazwan/ext-sozi)
+* [ext-sozi ★27 ⏳4Y](https://github.com/asyazwan/ext-sozi)
 
 **Local SVG editors:**
 
@@ -506,8 +513,8 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 * [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
 * [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
   * [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
-  * [jiffylab ★186](https://github.com/ptone/jiffylab) is an open source one but not that well done.
-  * [supervised-ipython-nbserver ★8](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
+  * [jiffylab ★186 ⏳3Y](https://github.com/ptone/jiffylab) is an open source one but not that well done.
+  * [supervised-ipython-nbserver ★8 ⏳3Y](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 * [Matlab](http://www.mathworks.com/products/matlab/)
 * [RStudio](https://www.rstudio.com/) (`R`)
 
@@ -714,7 +721,7 @@ Professional graphs should be made using professional tools.
 * [plot in terminal ★693](https://github.com/glamp/bashplotlib)
 * [asciinema](https://asciinema.org/): Command line recording.
 * [bashplot ★693](https://github.com/glamp/bashplotlib): plot in terminal.
-* [fuck ★218](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
+* [fuck ★218 ⏳1Y](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ### Free Multimedia
 
@@ -744,3 +751,7 @@ Professional graphs should be made using professional tools.
 This is a CC BY-SA licensed project. Use the source! Keep the source open!
 
 ![CC BY-SA](https://raw.githubusercontent.com/emptymalei/awesome-research/master/assets/cc_bysa.flat.guokr.png)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/emptymalei/awesome-research">https://github.com/emptymalei/awesome-research</a> with ranks
+</p>

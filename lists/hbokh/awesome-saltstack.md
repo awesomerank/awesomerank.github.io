@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/hbokh/awesome-saltstack">https://github.com/hbokh/awesome-saltstack</a> with ranks
+</p>
+---
 # Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="https://yt3.ggpht.com/-u0bhYCAc9tQ/AAAAAAAAAAI/AAAAAAAAAAA/VzeLz4xM-AM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" align="right" width="100">](https://SaltStack.com)
@@ -64,8 +71,8 @@ A :gem: means **really _awesome / useful_**.
 
 ## Code
 
-* [zulily/alkali ★5](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
-* [zulily/buoyant ★4](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
+* [zulily/alkali ★5 ⏳1Y](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
+* [zulily/buoyant ★4 ⏳1Y](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
 
 ## Books
 
@@ -150,3 +157,7 @@ A :gem: means **really _awesome / useful_**.
 [![CC0](https://camo.githubusercontent.com/60561947585c982aee67ed3e3b25388184cc0aa3/687474703a2f2f6d6972726f72732e6372656174697665636f6d6d6f6e732e6f72672f70726573736b69742f627574746f6e732f38387833312f7376672f63632d7a65726f2e737667)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Henk](https://hbokh.github.io/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/hbokh/awesome-saltstack">https://github.com/hbokh/awesome-saltstack</a> with ranks
+</p>

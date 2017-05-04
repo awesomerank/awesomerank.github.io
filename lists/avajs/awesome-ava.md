@@ -1,8 +1,15 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/avajs/awesome-ava">https://github.com/avajs/awesome-ava</a> with ranks
+</p>
+---
 # Awesome AVA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [<img src="https://github.com/avajs/ava/raw/master/media/header.png" width="280" align="right" alt="AVA">](https://ava.li)
 
 > [AVA](https://ava.li) is a minimal & futuristic JavaScript test runner
 
-*Please read the [contribution guidelines](contributing.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/avajs/awesome-ava/blob/master/contributing.md) before contributing.*
 
 
 ## Contents
@@ -36,7 +43,7 @@
 - [sublime-ava ★38](https://github.com/avajs/sublime-ava) - Snippets for Sublime.
 - [atom-ava ★87](https://github.com/avajs/atom-ava) - Snippets for Atom.
 - [vscode-ava ★19](https://github.com/samverschueren/vscode-ava) - Snippets for Visual Studio Code.
-- [vim-ava-snippets ★14](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim.
+- [vim-ava-snippets ★14 ⏳1Y](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim.
 - [ava-spec ★123](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers.
 - [redux-ava ★159](https://github.com/sotojuan/redux-ava) - Test helpers for Redux.
 - [redux-test-recorder ★378](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
@@ -49,6 +56,7 @@
 - [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint ★7499](https://github.com/eslint/eslint) plugins with AVA.
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift ★1957](https://github.com/facebook/jscodeshift) codemods with AVA.
 - [ava-preact-init ★8](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
+- [ava-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/ava-check) - Generative property testing with [`TestCheck.js` ★524](https://github.com/leebyron/testcheck-js).
 
 
 ## Works with AVA
@@ -87,3 +95,7 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/avajs/awesome-ava">https://github.com/avajs/awesome-ava</a> with ranks
+</p>

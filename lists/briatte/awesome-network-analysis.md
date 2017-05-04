@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/briatte/awesome-network-analysis">https://github.com/briatte/awesome-network-analysis</a> with ranks
+</p>
+---
 # Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/15478/briatte/awesome-network-analysis.svg)](https://zenodo.org/badge/latestdoi/15478/briatte/awesome-network-analysis)
 
 An [awesome list ★57421](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
@@ -52,7 +59,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   - [Network Science](#network-science)
   - [Small Worlds](#small-worlds)
   - [Two-Mode Networks](#two-mode-networks)
-- __[Contributing Guidelines](CONTRIBUTING.md)__
+- __[Contributing Guidelines](https://github.com/briatte/awesome-network-analysis/blob/master/CONTRIBUTING.md)__
 - __[License](#license)__
 
 ## Books
@@ -466,7 +473,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   -   [Practical Social Network Analysis With Gephi](http://derekgreene.com/gephitutorial/) (2014).
 -   [GLEAMviz Simulator](http://www.gleamviz.org/) - Cross-platform tool intended for the prediction of human epidemics.
 -   [Graphviz](http://www.graphviz.org/) - Cross-platform software to draw graphs in the DOT graph drawing language.
--   [Graphy ★42](https://github.com/bruce/graphy) - Graph theory library written in Ruby.
+-   [Graphy ★42 ⏳7Y](https://github.com/bruce/graphy) - Graph theory library written in Ruby.
 -   [GraphX](https://spark.apache.org/graphx/) - [Apache Spark](https://spark.apache.org/) module to perform graph-related parallel computation.
 -   [Lynks](https://lynksoft.com/) - Web-based tool for simple network analysis and visualization.
 -   [Mathematica](https://www.wolfram.com/mathematica/) - Cross-platform program with graph theory and network analysis functionalities.
@@ -523,7 +530,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [MixNet - Erdös-Rényi Mixture Model for Networks](http://ssbgroup.fr/mixnet.html) - Community detection method, available in C++ and R.
 -   [OSLOM2 - Order Statistics Local Optimization Method](http://www.oslom.org/) - Clustering algorithm.
 -   [vbmod: Variational Bayesian Inference for Network Modularity](http://vbmod.sourceforge.net/) - MATLAB and Python implementations of a [Bayesian community detection algorithm](http://arxiv.org/abs/0709.3512).
--   [weighted-modularity-LPAwbPLUS ★8](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
+-   [weighted-modularity-LPAwbPLUS ★8 ⏳1Y](https://github.com/sjbeckett/weighted-modularity-LPAwbPLUS) - Julia, MATLAB and R implementations of two algorithms to find weighted modularity in bipartite networks.
 
 ### C / C++
 
@@ -576,7 +583,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   -   [Networks.jl ★4](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
   -   [GraphCentrality.jl ★5](https://github.com/JuliaGraphs/GraphCentrality.jl) - Adds network measures to the Graphs.jl package.
 -   [MatrixNetworks.jl ★21](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
--   [NetworkFlows.jl ★2](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
+-   [NetworkFlows.jl ★2 ⏳1Y](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
 -   [NetworkViz.jl](https://github.com/abhijithanilkumar/NetworkViz.jl) - Package to visualize graphs produced with LightGraphs.jl, using [ThreeJS.jl ★24](https://github.com/rohitvarkey/ThreeJS.jl).
   -   [Video presentation of the package](https://youtu.be/kY5te9NwXo8?list=PLP8iPy9hna6SQPwZUDtAM59-wPzCPyD_S) by its author at JuliaCon 2016.
 -   [PhyloNetworks.jl ★15](https://github.com/crsl4/PhyloNetworks.jl) - Package to manipulate, analyze and visualize phylogenetic networks.
@@ -599,12 +606,12 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 -   [graph-tool](http://graph-tool.skewed.de/) - Python module for network manipulation and analysis, written mostly in C++ for speed.
 -   [graphviz](https://pypi.python.org/pypi/graphviz) - Python renderer for the DOT graph drawing language.
--   [linkpred ★9](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
+-   [linkpred ★9 ⏳1Y](https://github.com/rafguns/linkpred) - Assess the likelihood of potential links in a future snapshot of a network.
 -   [metaknowledge](http://networkslab.org/metaknowledge/) - Python package to turn bibliometrics data into authorship and citation networks.
 -   [networkx](http://networkx.github.io/) - Python package for the creation, manipulation, and study of the structure, dynamics, and functions of complex networks.
   -   [Implementing an ERGM from Scratch in Python](http://davidmasad.com/blog/ergms-from-scratch/), using networkx and numpy (2014).
   -   [nxviz ★19](https://github.com/ericmjl/nxviz) - Visualization package for NetworkX.
--   [npartite ★3](https://github.com/ike002jp/npartite) - Python algorithms for community detection in n-partite networks.
+-   [npartite ★3 ⏳3Y](https://github.com/ike002jp/npartite) - Python algorithms for community detection in n-partite networks.
 -   [PyGraphistry ★142](https://github.com/graphistry/pygraphistry) - Python library to extract, transform, and visually explore big graphs.
 -   [python-igraph](http://igraph.org/python/) - Python version of the igraph network analysis package.
 -   [python-louvain](http://perso.crans.org/aynaud/communities/) - A solid implementation of Louvain community detection algorithm.
@@ -622,7 +629,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [bnlearn](https://cran.r-project.org/web/packages/bnlearn/) - Tools for [Bayesian network learning and inference](http://www.bnlearn.com/) ([related Shiny app](https://paulgovan.github.io/RiskNetwork/)).
 -   [btergm](https://cran.r-project.org/web/packages/btergm/) - Tools to fit temporal ERGMs by bootstrapped pseudolikelihood. Also provides MCMC maximum likelihood estimation, goodness of fit for ERGMs, TERGMs, and stochastic actor-oriented models (SAOMs), and tools for the micro-level interpretation of ERGMs and TERGMs.
 -   [CCAS ★3](https://github.com/matthewjdenny/CCAS) - Statistical model for communication networks.
--   [concoR ★5](https://github.com/aslez/concoR) - Implementation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
+-   [concoR ★5 ⏳1Y](https://github.com/aslez/concoR) - Implementation of the CONCOR network blockmodeling algorithm ([blog post](http://badhessian.org/2015/05/concor-in-r/)).
 -   [ContentStructure](https://github.com/matthewjdenny/ContentStructure) - Implements an extension to the [Topic-Partitioned Multinetwork Embeddings (TPME) model](http://dirichlet.net/pdf/krafft12topic-partitioned.pdf).
 -   [DiagrammeR ★770](https://github.com/rich-iannone/DiagrammeR) - Connects R, RStudio and JavaScript libraries to draw graph diagrams ([blog post](https://blog.rstudio.org/2015/05/01/rstudio-v0-99-preview-graphviz-and-diagrammer/)).
 -   [ergm](https://cran.r-project.org/web/packages/ergm/) - Estimation of Exponential Random Graph Models (ERGM).
@@ -671,7 +678,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [tnam](https://cran.r-project.org/web/packages/tnam/) - Tools to fit temporal and cross-sectional network autocorrelation models (TNAM).
 -   [tnet](https://cran.r-project.org/web/packages/tnet/) - Network measures for weighted, two-mode and longitudinal networks.
 -   [tsna](https://cran.r-project.org/web/packages/tsna/) - Tools for temporal social network analysis.
--   [visNetwork ★0](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
+-   [visNetwork ★0 ⏳1Y](https://github.com/DataKnowledge/visNetwork) - Using vis.js library for network visualization.
 -   [xergm](https://cran.r-project.org/web/packages/xergm/) - Extensions of exponential random graph models (ERGM, GERGM, TERGM, TNAM and REM).
 
 ### Stata
@@ -824,7 +831,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   [Isolated Social Networkers](http://crookedtimber.org/2005/05/19/isolated-social-networkers/), [Networks and Netwars](http://bactra.org/weblog/347.html) and [The Inter-Disciplinary Politics of Interdisciplinary Research or, “Hey, That Was My Idea First.”](https://www.cs.unm.edu/~aaron/blog/archives/2005/05/the_interdiscip.htm) - Series of blog posts that predate the advent of “network science” as a buzzword, but that touch upon the same issues as those now being discussed under that heading.
 -   [The ‘New’ Science of Networks](http://www.jstor.org/stable/29737693) - Review of network science books published in 2002-2003.
 -   [Predicting Highly Cited Papers](http://arxiv.org/abs/1310.8220) - Prediction of the next highly cited papers in network science.
--   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013 ★9](https://github.com/raffaelevacca/EUSN-co-citation-networks).
+-   [Social Network and Network Science Co-Citations Across Disciplines in 1996-2013 ★9 ⏳2Y](https://github.com/raffaelevacca/EUSN-co-citation-networks).
 -   [Three Hard Questions about Network Science](http://environmentalpolicy.ucdavis.edu/node/292).
 -   [A Twenty-First Century Science](http://www.nature.com/nature/journal/v445/n7127/full/445489a.html) - Essay by Duncan J. Watts.
 -   [What is Network Science?](http://journals.cambridge.org/repo_A88Sa8AHdt4SoI) - First editorial of the recent _Network Science_ journal.
@@ -862,3 +869,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 To the extent possible under law, the authors of this list – by chronological order: [François Briatte](http://f.briatte.org/), [Ian McCulloh](https://www.linkedin.com/in/mcculloh), [Aditya Khanna](http://home.uchicago.edu/~khanna7), [Manlio De Domenico](http://deim.urv.cat/~manlio.dedomenico/index.php), Patrick Kaminski, [Ericka Menchen-Trevino](http://www.ericka.cc/), [Tam-Kien Duong](https://github.com/taniki), [Jeremy Foote](https://github.com/jdfoote), [Catherine Cramer](http://nysci.org/nysci_people/catherine-cramer/), [Andrej Mrvar](http://mrvar.fdv.uni-lj.si/), [Patrick Doreian](http://patrickdoreian.com/), [Vladimir Batagelj](http://vladowiki.fmf.uni-lj.si/doku.php?id=vlado), Eric C. Jones, Alden S. Klovdahl, [James Fairbanks](http://www.jpfairbanks.net/), [Danielle Varda](http://www.ucdenver.edu/academics/colleges/SPA/FacultyStaff/Faculty/Pages/DanielleVarda.aspx), [Andrew Pitts](https://twitter.com/andpitts), [Roman Bartusiak](http://riomus.ml/), [Koustuv Sinha](http://koustuvsinha.github.io/) and [Mohsen Mosleh](http://mohsenmosleh.com/) – have waived all copyright and related or neighboring rights to this work.
 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau), [Eiko Fried](http://eiko-fried.com/), [Wouter de Nooy](https://www.uva.nl/over-de-uva/organisatie/medewerkers/content/n/o/w.denooy/w.denooy.html), [Katya Ognyanova](http://kateto.net/), [Camille Roth](http://camille.roth.free.fr/), [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/), [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/) and [Tim A. Wheeler](https://github.com/tawheeler), who helped locating some of the awesome resources featured in this list.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/briatte/awesome-network-analysis">https://github.com/briatte/awesome-network-analysis</a> with ranks
+</p>

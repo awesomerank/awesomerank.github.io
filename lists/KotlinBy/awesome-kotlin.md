@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/KotlinBy/awesome-kotlin">https://github.com/KotlinBy/awesome-kotlin</a> with ranks
+</p>
+---
 # Awesome Kotlin ([https://kotlin.link](https://kotlin.link))
 
 A curated list of awesome Kotlin related stuff inspired by awesome-java. :octocat:
@@ -104,6 +111,7 @@ Here awesome badge for your project:
 * <a name="articles-blog-posts-january-2013-subcategory"></a>[January 2013](#articles-blog-posts-january-2013)
 
 ### <a name="videos-category"></a>[Videos](#videos)
+* <a name="videos-april-2017-subcategory"></a>[April 2017](#videos-april-2017)
 * <a name="videos-december-2016-subcategory"></a>[December 2016](#videos-december-2016)
 * <a name="videos-november-2016-subcategory"></a>[November 2016](#videos-november-2016)
 * <a name="videos-october-2016-subcategory"></a>[October 2016](#videos-october-2016)
@@ -242,7 +250,7 @@ Here awesome badge for your project:
 
 ### <a name="libraries-frameworks-tools"></a>Tools <sup>[Back ⇈](#libraries-frameworks-tools-subcategory)</sup>
 * [Kotlin/dokka ★189](https://github.com/Kotlin/dokka) - Documentation Engine for Kotlin.
-* [Levelmoney/kbuilders ★57](https://github.com/Levelmoney/kbuilders) - KBuilders turns your Java builders into beautiful Type-Safe Builders.
+* [Levelmoney/kbuilders ★57 ⏳1Y](https://github.com/Levelmoney/kbuilders) - KBuilders turns your Java builders into beautiful Type-Safe Builders.
 * [holgerbrandl/kscript ★53](https://github.com/holgerbrandl/kscript) - Scripting utils for Kotlin.
 * [shyiko/ktlint ★163](https://github.com/shyiko/ktlint) - Kotlin linter.
 * [jtransc/jtransc ★128](https://github.com/jtransc/jtransc) - JVM AOT compiler created in Kotlin.
@@ -285,7 +293,7 @@ Here awesome badge for your project:
 * [mplatvoet/kovenant ★379](https://github.com/mplatvoet/kovenant) - Promises for Kotlin and Android
 * [kohesive/klutter ★70](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository.
 * [kohesive/solr-undertow ★76](https://github.com/kohesive/solr-undertow) - Solr Standalone Tiny and High performant server.
-* [leprosus/kotlin-hashids ★19](https://github.com/leprosus/kotlin-hashids) - Library that generates short, unique, non-sequential hashes from numbers.
+* [leprosus/kotlin-hashids ★19 ⏳2Y](https://github.com/leprosus/kotlin-hashids) - Library that generates short, unique, non-sequential hashes from numbers.
 * [mplatvoet/progress ★5](https://github.com/mplatvoet/progress) - Progress for Kotlin.
 * [sargunster/CakeParse ★3](https://github.com/sargunster/CakeParse) - Simple parser combinator library for Kotlin.
 * [sargunster/KtUnits ★7](https://github.com/sargunster/KtUnits) - Tiny unit conversion library for Kotlin.
@@ -333,7 +341,8 @@ Here awesome badge for your project:
 * [ligee/kotlin-jupyter ★43](https://github.com/ligee/kotlin-jupyter) - Kotlin kernel for Jupyter/iPython.
 * [thomasnield/kotlin-statistics ★5](https://github.com/thomasnield/kotlin-statistics) - Advanced math and statistical extensions for Kotlin.
 * [holgerbrandl/krangl ★22](https://github.com/holgerbrandl/krangl) - krangl is a {K}otlin library for data w{rangl}ing.
-* [kyonifer/golem ★38](https://github.com/kyonifer/golem) - Golem is a scientific environment for Kotlin that emphasizes language/platform interop, performance, and flexibility.
+* [kyonifer/koma ★41](https://github.com/kyonifer/koma) - A scientific computing library for Kotlin.
+* [MarcinMoskala/KotlinDiscreteMathToolkit ★6](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
 
 ### <a name="libraries-frameworks-command-line-interface"></a>Command Line Interface <sup>[Back ⇈](#libraries-frameworks-command-line-interface-subcategory)</sup>
 * [leprosus/kotlin-cli ★14](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
@@ -344,9 +353,9 @@ Here awesome badge for your project:
 ## <a name="projects"></a>Projects <sup>[Back ⇈](#projects-category)</sup>
 ### <a name="projects-web"></a>Web <sup>[Back ⇈](#projects-web-subcategory)</sup>
 * [sdeleuze/spring-boot-kotlin-demo ★124](https://github.com/sdeleuze/spring-boot-kotlin-demo) - Basic Spring Boot app in Kotlin.
-* [IRus/kotlin-dev-proxy ★4](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
+* [IRus/kotlin-dev-proxy ★4 ⏳1Y](https://github.com/IRus/kotlin-dev-proxy) - Simple server for proxy requests and host static files written in Kotlin, Spark Java and Apache HttpClient.
 * [ratpack/example-ratpack-gradle-kotlin-app ★26](https://github.com/ratpack/example-ratpack-gradle-kotlin-app) - An example of a Kotlin Ratpack app built with Gradle.
-* [mariomac/codebuilder ★2](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
+* [mariomac/codebuilder ★2 ⏳1Y](https://github.com/mariomac/codebuilder) - Demo app about asynchronous architectures for long-response-time web applications.
 * [rocketraman/kotlin-web-hello-world ★2](https://github.com/rocketraman/kotlin-web-hello-world) - This project shows how to do a web-based "Hello World!" with Kotlin in combination with various JVM - based web frameworks.
 * [ivanpopelyshev/vertx-facebook-messenger ★3](https://github.com/ivanpopelyshev/vertx-facebook-messenger) - Seed project for facebook messenger bots. Vertx, Kotlin.
 * [corda/corda ★577](https://github.com/corda/corda) - Corda is a distributed ledger platform designed to record, manage and automate legal agreements between business partners. 
@@ -372,10 +381,10 @@ Here awesome badge for your project:
 * [Kotlin/kotlin-koans ★648](https://github.com/Kotlin/kotlin-koans) - Kotlin Koans are a series of exercises to get you familiar with the Kotlin Syntax.
 * [JetBrains/kotlin-examples ★591](https://github.com/JetBrains/kotlin-examples) - Various examples for Kotlin.
 * [JetBrains/swot ★260](https://github.com/jetbrains/swot) - Identify email addresses or domains names that belong to colleges or universities. Help automate the process of approving or rejecting academic discounts.
-* [robfletcher/midcentury-ipsum ★2](https://github.com/robfletcher/midcentury-ipsum) - Swingin’ filler text for your jet-age web page.
-* [robfletcher/lazybones-kotlin ★1](https://github.com/robfletcher/lazybones-kotlin) - The Lazybones app migrated to Kotlin as a learning exercise.
-* [wangjiegulu/KotlinAndroidSample ★14](https://github.com/wangjiegulu/KotlinAndroidSample) - Android sample with kotlin.
-* [dodyg/Kotlin101 ★84](https://github.com/dodyg/Kotlin101) - 101 examples for Kotlin Programming language.
+* [robfletcher/midcentury-ipsum ★2 ⏳1Y](https://github.com/robfletcher/midcentury-ipsum) - Swingin’ filler text for your jet-age web page.
+* [robfletcher/lazybones-kotlin ★1 ⏳1Y](https://github.com/robfletcher/lazybones-kotlin) - The Lazybones app migrated to Kotlin as a learning exercise.
+* [wangjiegulu/KotlinAndroidSample ★14 ⏳1Y](https://github.com/wangjiegulu/KotlinAndroidSample) - Android sample with kotlin.
+* [dodyg/Kotlin101 ★84 ⏳1Y](https://github.com/dodyg/Kotlin101) - 101 examples for Kotlin Programming language.
 * [dkandalov/kotlin-99 ★176](https://github.com/dkandalov/kotlin-99) - Solve 99 problems with Kotlin!
 * [dkandalov/rosettacode-kotlin ★7](https://github.com/dkandalov/rosettacode-kotlin) - Repository with source code from [RosettaCode](http://rosettacode.org/)
 * [sanity/pairAdjacentViolators ★23](https://github.com/sanity/pairAdjacentViolators) - A Kotlin implementation of the Pair Adjacent Violators algorithm for isotonic regression.
@@ -393,11 +402,11 @@ Here awesome badge for your project:
 * [MarcinMoskala/ActivityStarter ★165](https://github.com/MarcinMoskala/ActivityStarter) - Activity starter generator and arguments injection library for Android.
 * [MarcinMoskala/KotlinPreferences ★14](https://github.com/MarcinMoskala/KotlinPreferences) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun.
 * [MarcinMoskala/PreferenceHolder ★45](https://github.com/MarcinMoskala/PreferenceHolder) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun using object with fields binded to SharedPreferences.
-* [nsk-mironov/kotlin-jetpack ★121](https://github.com/nsk-mironov/kotlin-jetpack) - A collection of useful extension methods for Android.
+* [nsk-mironov/kotlin-jetpack ★121 ⏳1Y](https://github.com/nsk-mironov/kotlin-jetpack) - A collection of useful extension methods for Android.
 * [pawegio/KAndroid ★452](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code.
 * [chibatching/Kotpref ★111](https://github.com/chibatching/Kotpref) - Android SharedPreference delegation for Kotlin.
-* [TouK/bubble ★48](https://github.com/TouK/bubble) - Library for obtaining screen orientation when orientation is blocked in AndroidManifest.
-* [ragunathjawahar/kaffeine ★104](https://github.com/ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development.
+* [TouK/bubble ★48 ⏳1Y](https://github.com/TouK/bubble) - Library for obtaining screen orientation when orientation is blocked in AndroidManifest.
+* [ragunathjawahar/kaffeine ★104 ⏳1Y](https://github.com/ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development.
 * [mcxiaoke/kotlin-koi ★193](https://github.com/mcxiaoke/kotlin-koi) - Koi, a lightweight kotlin library for Android Development.
 * [BennyWang/KBinding ★319](https://github.com/BennyWang/KBinding) - Android View Model binding framework write in kotlin, base on anko, simple but powerful.
 * [inaka/KillerTask ★8](https://github.com/inaka/KillerTask) -  Android AsyncTask wrapper library, written in Kotlin.
@@ -421,9 +430,9 @@ Here awesome badge for your project:
 * [antoniolg/Bandhook-Kotlin ★785](https://github.com/antoniolg/Bandhook-Kotlin) - A showcase music app for Android entirely written using Kotlin language.
 * [antoniolg/Kotlin-for-Android-Developers ★455](https://github.com/antoniolg/Kotlin-for-Android-Developers) - Companion App for the book "Kotlin Android Developers".
 * [damianpetla/kotlin-dagger-example ★331](https://github.com/damianpetla/kotlin-dagger-example) - Example of Android project showing integration with Kotlin and Dagger 2.
-* [dodyg/AndroidRivers ★255](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
+* [dodyg/AndroidRivers ★255 ⏳1Y](https://github.com/dodyg/AndroidRivers) - RSS Readers for Android.
 * [MakinGiants/banjen-android-banjo-tuner](https://github.com/MakinGiants/banjen-android-banjo-tuner) - App that plays sounds helping to tune a brazilian banjo.
-* [inaka/kotlillon ★17](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
+* [inaka/kotlillon ★17 ⏳1Y](https://github.com/inaka/kotlillon) - Android Kotlin Examples.
 * [MakinGiants/todayhistory ★6](https://github.com/MakinGiants/todayhistory) - App that shows what happened today in history.
 * [RxKotlin/Pocket ★11](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 * [SidneyXu/AndroidDemoIn4Languages ★167](https://github.com/SidneyXu/AndroidDemoIn4Languages) - Comparison between Java, Groovy, Scala, Kotlin in Android Development.
@@ -503,6 +512,7 @@ Here awesome badge for your project:
 * [Use Kotlin with npm, webpack and react](http://kotlin.link/articles/Use-Kotlin-with-npm-webpack-and-react.html) - Dmitry Jemerov
 * [Kotlin 1.1.2 is out](http://kotlin.link/articles/Kotlin-1-1-2-is-out.html) - Dmitry Jemerov
 * [Bytecode behind coroutines in Kotlin](http://kotlin.link/articles/Bytecode-behind-coroutines-in-Kotlin.html) - Eugene Petrenko
+* [How we made Basecamp 3’s Android app 100% Kotlin](http://kotlin.link/articles/How-we-made-Basecamp-3’s-Android-app-100-Kotlin.html) - Dan Kim
 
 ### <a name="articles-blog-posts-march-2017"></a>March 2017 <sup>[Back ⇈](#articles-blog-posts-march-2017-subcategory)</sup>
 * [Kotlin 1.1 Released with JavaScript Support, Coroutines and more](http://kotlin.link/articles/Kotlin-1-1-Released-with-JavaScript-Support-Coroutines-and-more.html) - Roman Belov
@@ -517,6 +527,8 @@ Here awesome badge for your project:
 ### <a name="articles-blog-posts-february-2017"></a>February 2017 <sup>[Back ⇈](#articles-blog-posts-february-2017-subcategory)</sup>
 * [Kotlin 1.1 Beta 2 is here](http://kotlin.link/articles/Kotlin-1-1-Beta-2-is-here.html) - Dmitry Jemerov
 * [The Design and Construction of Modern Build Tools](http://kotlin.link/articles/The-Design-and-Construction-of-Modern-Build-Tools.html) - Cédric Beust
+* [Using Kotlin type-safe builders to create a DSL for Forms](http://kotlin.link/articles/Using-Kotlin-type-safe-builders-to-create-a-DSL-for-Forms.html) - Giacomo Bresciani
+* [Creating a self-contained Kotlin program using Avian](http://kotlin.link/articles/Creating-a-self-contained-Kotlin-program-using-Avian.html) - Miguel Castiblanco
 * [Our first book about Kotlin is out](http://kotlin.link/articles/Our-first-book-about-Kotlin-is-out.html) - Dmitry Jemerov
 * [Kotlin 1.1 Release Candidate is Here](http://kotlin.link/articles/Kotlin-1-1-Release-Candidate-is-Here.html) - Mikhail Glukhikh
 
@@ -813,6 +825,9 @@ Here awesome badge for your project:
 
 
 ## <a name="videos"></a>Videos <sup>[Back ⇈](#videos-category)</sup>
+### <a name="videos-april-2017"></a>April 2017 <sup>[Back ⇈](#videos-april-2017-subcategory)</sup>
+* [The Future of Kotlin: How agile can language development be?](http://kotlin.link/articles/Future-of-Kotlin-How-agile-can-language-development-be-video.html) - Andrey Breslav
+
 ### <a name="videos-december-2016"></a>December 2016 <sup>[Back ⇈](#videos-december-2016-subcategory)</sup>
 * [Taking Kotlin to production, Seriously](http://kotlin.link/articles/Taking-Kotlin-to-production-Seriously.html) - Haim Yadid
 * [Functional Programming in Kotlin with funKTionale (Video)](http://kotlin.link/articles/Functional-Programming-in-Kotlin-with-funKTionale-Video.html) - Mario Arias
@@ -901,3 +916,7 @@ Here awesome badge for your project:
 ---
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/KotlinBy/awesome-kotlin">https://github.com/KotlinBy/awesome-kotlin</a> with ranks
+</p>

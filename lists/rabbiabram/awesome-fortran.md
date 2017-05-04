@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/rabbiabram/awesome-fortran">https://github.com/rabbiabram/awesome-fortran</a> with ranks
+</p>
+---
 # Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
 A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift ★3850](https://github.com/Wolg/awesome-swift) by @Wolg.
 
@@ -60,7 +67,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## XML Manipulation
 *Libraries for XML data manipulating with Fortran language.*
 
-* [fox ★31](https://github.com/andreww/fox) - Fortran XML library
+* [fox ★31 ⏳1Y](https://github.com/andreww/fox) - Fortran XML library
 * [xml-fortran](https://sourceforge.net/projects/xml-fortran/) - an all-Fortran solution for reading and writing XML files.
 
 ## Date and time manipulation
@@ -89,7 +96,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 *Libraries for parsing command-line and building user interfaces.*
 
 * [FLAP](https://github.com/szaghi/FLAP) - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
-* [options.f90 ★4](https://github.com/cngilbreth/optionsf90) - Options & input processing for modern Fortran.
+* [options.f90 ★4 ⏳2Y](https://github.com/cngilbreth/optionsf90) - Options & input processing for modern Fortran.
 
 ## Compiling and building
 *Libraries for compiling and building Fortran projects.*
@@ -136,3 +143,7 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness ★18656]
 # Contributing
 
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project, which hasn't been updated in the past 6 months or is not awesome.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/rabbiabram/awesome-fortran">https://github.com/rabbiabram/awesome-fortran</a> with ranks
+</p>

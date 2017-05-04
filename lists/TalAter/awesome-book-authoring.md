@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/TalAter/awesome-book-authoring">https://github.com/TalAter/awesome-book-authoring</a> with ranks
+</p>
+---
 # Awesome Book Authoring
 A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) resources for technical book authors.
 
@@ -91,3 +98,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Writing a Technical Book: Motivation, Publishing and how to stay focused without ruining your Life](http://www.adamtornhill.com/articles/writingbook/writingtechbook.htm) - Adam Tornhill shares experience gained writing his three books (two of them self published).
 - [Writing a Technical Book](http://www.voidspace.org.uk/python/articles/technical-writing.shtml) - Michael Foord shares his experience publishing with Apress.
 - [Tips for Writing a Programming Book](http://www.philosophicalgeek.com/2014/11/10/tips-for-writing-a-programming-book/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/TalAter/awesome-book-authoring">https://github.com/TalAter/awesome-book-authoring</a> with ranks
+</p>

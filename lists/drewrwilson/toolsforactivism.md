@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/drewrwilson/toolsforactivism">https://github.com/drewrwilson/toolsforactivism</a> with ranks
+</p>
+---
 # Digital Tools for Activism
 
 ![digital tools for activism](https://raw.githubusercontent.com/drewrwilson/toolsforactivism/master/digital-tool.jpg "digital tools for activism")
@@ -19,11 +26,11 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Open-source host-it-yourself:
 
- * [Contact Congress (Open Source) ★21](https://github.com/EFForg/contact-congress) - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below.
- * [Call Congress](https://github.com/fightforthefuture/call-congress) - Coordinate call-in days to US Congress, the President, or local or corporate targets. Original project from Fight for the Future and Taskforce.is, but with lots of development from [Mozilla ★1](https://github.com/mozilla/call-congress) and the [EFF](https://github.com/effOrg/call-congress/tree/refactor/master). Frontend looks like this, [https://call.mozilla.org](https://call.mozilla.org]) and the backend looks like [http://callpower.org](http://callpower.org/easy-to-use/). A hosted version is available, and the code is AGPL.
+ * [Contact Congress (Open Source) ★21 ⏳2Y](https://github.com/EFForg/contact-congress) - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below.
+ * [Call Congress](https://github.com/fightforthefuture/call-congress) - Coordinate call-in days to US Congress, the President, or local or corporate targets. Original project from Fight for the Future and Taskforce.is, but with lots of development from [Mozilla ★1 ⏳2Y](https://github.com/mozilla/call-congress) and the [EFF](https://github.com/effOrg/call-congress/tree/refactor/master). Frontend looks like this, [https://call.mozilla.org](https://call.mozilla.org]) and the backend looks like [http://callpower.org](http://callpower.org/easy-to-use/). A hosted version is available, and the code is AGPL.
  * [Twilio.org's Rapid Response Kit ★248](https://github.com/Twilio-org/rapid-response-kit) - Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)
  * [Ushahidi](https://www.ushahidi.com/) - Platform for data management and visualization. Other tools include CrowdMap, CrisisNET (data about world crises), Ping (tool for checking is someone is ok after an emergency), SMSsync (two-way SMS gateway). Check out their [github repos](https://github.com/ushahidi).
- * [Crowdring ★9](https://github.com/therules/CrowdRing) - web app where people around the world can place a free missed call to sign a petition
+ * [Crowdring ★9 ⏳3Y](https://github.com/therules/CrowdRing) - web app where people around the world can place a free missed call to sign a petition
  * [Self Starter ★3067](https://github.com/lockitron/selfstarter) - roll your own crowdfunding site
  * [TakeCharge.io ★7](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
  * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
@@ -47,9 +54,9 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 These are all projects that are works in process. Not finished, but worth checking out.
 
- * [Where@ ★20](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
+ * [Where@ ★20 ⏳1Y](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
  * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
- * [Day of Action ★8](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
+ * [Day of Action ★8 ⏳2Y](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
 
 
 ## How do I contribute to this list?
@@ -65,3 +72,7 @@ No copyright intended.
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Drew Wilson](https://drewrwilson.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/drewrwilson/toolsforactivism">https://github.com/drewrwilson/toolsforactivism</a> with ranks
+</p>

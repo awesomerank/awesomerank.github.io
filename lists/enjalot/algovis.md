@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/enjalot/algovis">https://github.com/enjalot/algovis</a> with ranks
+</p>
+---
 algovis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 =======
 
@@ -71,3 +78,7 @@ This is collection of projects and links about algorithm visualization.
 * [Explanation of X11 Servers](http://magcius.github.io/xplain/article/) has an X11 server running in the browser!
 * [Manual for rot.js, a roguelike game library](http://ondras.github.io/rot.js/manual/#intro) makes all the examples editable and viewable in the browser
 * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) neural network examples in browser (example: [2-layer neural network](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html))
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/enjalot/algovis">https://github.com/enjalot/algovis</a> with ranks
+</p>

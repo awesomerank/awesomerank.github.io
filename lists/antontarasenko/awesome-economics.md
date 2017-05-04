@@ -1,10 +1,17 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/antontarasenko/awesome-economics">https://github.com/antontarasenko/awesome-economics</a> with ranks
+</p>
+---
 # Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 *A curated collection of links for economists. Part of the ["Awesome X" series ★57421](https://github.com/sindresorhus/awesome).*
 
 The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
 
-Your contributions are welcomed. Add links [by yourself](contributing.md) or send them to <mailto:antontarasenko@gmail.com>.
+Your contributions are welcomed. Add links [by yourself](https://github.com/antontarasenko/awesome-economics/blob/master/contributing.md) or send them to <mailto:antontarasenko@gmail.com>.
 
 ## Table of Contents
 
@@ -162,9 +169,9 @@ Please, add yourself and your economics-related projects.
 ### Projects
 
 * [economics-book](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
-* [pyeconomics ★63](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
+* [pyeconomics ★63 ⏳3Y](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 * [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
-* [quantecon_nyu_2016 ★27](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
+* [quantecon_nyu_2016 ★27 ⏳1Y](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
 * [zice-2014](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 * [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
@@ -178,3 +185,7 @@ Please, add yourself and your economics-related projects.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/antontarasenko/awesome-economics">https://github.com/antontarasenko/awesome-economics</a> with ranks
+</p>

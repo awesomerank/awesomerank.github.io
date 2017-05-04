@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/lnishan/awesome-competitive-programming">https://github.com/lnishan/awesome-competitive-programming</a> with ranks
+</p>
+---
 # Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
@@ -9,7 +16,7 @@ Created with a view to connecting people to information, this list below contain
 
 ## Contributing
 
-Please kindly follow [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
+Please kindly follow [CONTRIBUTING.md](https://github.com/lnishan/awesome-competitive-programming/blob/master/CONTRIBUTING.md) to get started.
 
 You can also contribute by sharing!  
 Share the list with your classmates, your friends and everyone :)
@@ -393,3 +400,7 @@ Learn helpful tips, tutorials and insights from these people :)
 [![Creative Commons Attribution 4.0 International](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
 Awesome Competitive Programming is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/lnishan/awesome-competitive-programming">https://github.com/lnishan/awesome-competitive-programming</a> with ranks
+</p>

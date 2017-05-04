@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/marmelab/awesome-rest">https://github.com/marmelab/awesome-rest</a> with ranks
+</p>
+---
 # Awesome REST [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A collaborative list of great resources about RESTful API architecture, development, test, and performance. Feel free to contribute to this on-going list.
@@ -82,7 +89,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [excon](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
 * [httparty ★4078](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
 * [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
-* [raml-ruby-client-generator ★2](https://github.com/zlx/raml-ruby-client-generator) - Auto generate API client from a RAML file.
+* [raml-ruby-client-generator ★2 ⏳1Y](https://github.com/zlx/raml-ruby-client-generator) - Auto generate API client from a RAML file.
 
 ### Go Clients
 
@@ -100,9 +107,9 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [node-restify ★6651](https://github.com/restify/node-restify) - Framework specifically meant for REST API.
 * [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
-* [mers ★344](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
+* [mers ★344 ⏳1Y](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
 * [Baucis ★616](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
-* [flatiron/resourceful ★354](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
+* [flatiron/resourceful ★354 ⏳2Y](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 * [loopback](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
 * [Feathers](http://feathersjs.com/) - is a real-time, micro-service web framework that gives you control over your data via RESTful resources, sockets and flexible plug-ins.
 * [Expressa ★145](https://github.com/thomas4019/expressa) - Express middleware for creating APIs from JSON schemas with a simple admin editor and permissions model.
@@ -127,7 +134,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
 * [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas ★744](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
 * [Symfony REST Edition ★583](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
-* [NgAdminGeneratorBundle ★71](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
+* [NgAdminGeneratorBundle ★71 ⏳2Y](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
 * [API Platform ★1478](https://github.com/api-platform/api-platform) - Specialize Symfony edition for the creation of hypermedia REST APIs.
 * [NelmioApiDocBundle ★1217](https://github.com/nelmio/NelmioApiDocBundle) - Generate documentation for your REST API from annotations.
@@ -138,7 +145,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [django-tastypie](http://tastypieapi.org/) - Creating delicious APIs for Django apps.
 * [flask-restful](http://flask-restful.readthedocs.org/) - Extension for Flask that adds support for quickly building REST APIs.
 * [flask-restless](https://flask-restless.readthedocs.org/en/latest/) - Flask extension for generating ReSTful APIs for database models defined with SQLAlchemy (or Flask-SQLAlchemy).
-* [sandman ★2274](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
+* [sandman ★2274 ⏳1Y](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
 * [restless](http://restless.readthedocs.org/en/latest/) - Framework agnostic REST framework based on lessons learned from TastyPie.
 * [savory-pie](https://github.com/RueLaLa/savory-pie/) - REST API building library (django, and others).
 * [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
@@ -152,15 +159,15 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Go
 
-* [gocrud ★279](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
+* [gocrud ★279 ⏳1Y](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
 * [go-json-rest ★2756](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily.
-* [sleepy ★656](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
+* [sleepy ★656 ⏳3Y](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
 * [restit](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
 * [go-relax ★143](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
 * [go-rest ★100](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
 * [go-restful ★2090](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
 * [Goat ★128](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
-* [Resoursea ★27](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
+* [Resoursea ★27 ⏳2Y](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
 * [Zerver ★141](https://github.com/cosiner/zerver) - Zerver is a expressive, modular, feature completed RESTful framework.
 
 ### Java
@@ -191,7 +198,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [FakeRest ★195](https://github.com/marmelab/FakeRest) - Patch XMLHttpRequest to fake a REST API client-side.
 * [json-server ★20982](https://github.com/typicode/json-server) - Serve a REST API from fixture files using quick prototyping.
 * [Mocky.io](http://www.mocky.io/) - Free online service to create fake HTTP responses.
-* [Swagger API Mock ★16](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
+* [Swagger API Mock ★16 ⏳1Y](https://github.com/bulkismaslom/swagger-api-mock) - Mock RESTful API based on swagger schema
 * [Request Baskets ★14](https://github.com/darklynx/request-baskets) - Service to collect HTTP requests and inspect them via RESTful API or web UI.
 
 ### Public REST APIs To Use In Tests
@@ -231,3 +238,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
 
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/marmelab/awesome-rest">https://github.com/marmelab/awesome-rest</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/sublimino/awesome-funny-markov">https://github.com/sublimino/awesome-funny-markov</a> with ranks
+</p>
+---
 # Awesome Funny Markov Chains [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A facetiously curated list of delightfully amusing Markov chain output, inspired by [memorylessness](https://en.wikipedia.org/wiki/Memorylessness).
@@ -80,3 +87,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning ★
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/sublimino/awesome-funny-markov">https://github.com/sublimino/awesome-funny-markov</a> with ranks
+</p>

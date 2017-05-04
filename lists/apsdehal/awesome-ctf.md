@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/apsdehal/awesome-ctf">https://github.com/apsdehal/awesome-ctf</a> with ranks
+</p>
+---
 # Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
@@ -95,7 +102,7 @@ Check solve section for steganography.
 *Tools used for performing various kinds of attacks*
 
 - [Bettercap](https://github.com/evilsocket/bettercap) - Framework to perform MITM (Man in the Middle) attacks.
-- [Layer 2 attacks ★111](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
+- [Layer 2 attacks ★111 ⏳2Y](https://github.com/tomac/yersinia) - Attack various protocols on layer 2
 
 ## Crypto
 
@@ -104,7 +111,7 @@ Check solve section for steganography.
 - [FeatherDuster ★451](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
 - [RSATool ★159](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
-- [XORTool ★432](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
+- [XORTool ★432 ⏳2Y](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 
 ## Bruteforcers
 
@@ -121,7 +128,7 @@ Check solve section for steganography.
 
 *Tools used for solving Exploits challenges*
 
-- [DLLInjector ★209](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
+- [DLLInjector ★209 ⏳4Y](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
 - [libformatstr ★200](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
 - [Pwntools ★2473](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
@@ -140,7 +147,7 @@ Check solve section for steganography.
 - [Bkhive and Samdump2](http://sourceforge.net/projects/ophcrack/files/samdump2/) - Dump SYSTEM and SAM files
   - `apt-get install samdump2 bkhive`
 - [CFF Explorer](http://www.ntcore.com/exsuite.php) - PE Editor
-- [Creddump ★47](https://github.com/moyix/creddump) - Dump windows credentials
+- [Creddump ★47 ⏳2Y](https://github.com/moyix/creddump) - Dump windows credentials
 - [DVCS Ripper](https://github.com/kost/dvcs-ripper) - Rips web accessible (distributed) version control systems
 - [Exif Tool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Read, write and edit file metadata
 - [Extundelete](http://extundelete.sourceforge.net/) - Used for recovering lost data from mountable images
@@ -339,3 +346,7 @@ Check solve section for steganography.
 ### LICENSE
 
 CC0 :)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/apsdehal/awesome-ctf">https://github.com/apsdehal/awesome-ctf</a> with ranks
+</p>

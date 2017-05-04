@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/sturobson/BEM-resources">https://github.com/sturobson/BEM-resources</a> with ranks
+</p>
+---
 # BEM Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 Everyone loves a bit of BEM in their development. Here's just the starts of hopefully a large list of resources.
@@ -88,3 +95,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 
 ### Other Awesome Lists
 - [A curated list of awesome lists - @sindresorhus ★57421](https://github.com/sindresorhus/awesome)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/sturobson/BEM-resources">https://github.com/sturobson/BEM-resources</a> with ranks
+</p>

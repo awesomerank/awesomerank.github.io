@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/hubtee/awesome-opensource-documents">https://github.com/hubtee/awesome-opensource-documents</a> with ranks
+</p>
+---
 # Awesome Open Source Documents
 
 This is not a list of free programming books. This is a curated list of open source or open source licensed documents, guides, books which can read, use, modify, translate, redistribute and even rewrite under their license.
@@ -829,4 +836,8 @@ This is not a list of free programming books. This is a curated list of open sou
      href="http://creativecommons.org/publicdomain/zero/1.0/">
     <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
+</p>
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/hubtee/awesome-opensource-documents">https://github.com/hubtee/awesome-opensource-documents</a> with ranks
 </p>

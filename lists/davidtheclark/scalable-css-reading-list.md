@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/davidtheclark/scalable-css-reading-list">https://github.com/davidtheclark/scalable-css-reading-list</a> with ranks
+</p>
+---
 # A Scalable CSS Reading List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A list of things to read or watch that address these two questions: **What is scalable CSS?** and **How do we create scalable CSS?**
@@ -89,3 +96,7 @@ Newest first, I think.
 - [CSS for Grownups](https://www.youtube.com/watch?v=ZpFdyfs03Ug) ([slides](https://speakerdeck.com/andyhume/css-for-grown-ups-maturing-best-practises-sxsw-2012)), Andy Hume (2013)
 - [CSS module system in Google+](https://github.com/davidtheclark/scalable-css-reading-list/issues/3) ([slides](https://docs.google.com/presentation/d/1_LpRI2_grOgTKyqodgg8yWGDhStgZHxnvjFOTJ6Jb3g/edit#slide=id.p)), Shubhie Panicker (2013)
 - [Object-Oriented CSS](https://www.youtube.com/watch?v=BjAdHyA9nIY) ([slides](http://www.slideshare.net/stubbornella/object-oriented-css)), Nicole Sullivan (2009)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/davidtheclark/scalable-css-reading-list">https://github.com/davidtheclark/scalable-css-reading-list</a> with ranks
+</p>

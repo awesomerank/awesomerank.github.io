@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/deephacks/awesome-jvm">https://github.com/deephacks/awesome-jvm</a> with ranks
+</p>
+---
 # Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome JVM low level and performance related stuff.
@@ -82,13 +89,13 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Agera ★6440](https://github.com/google/agera) - Reactive Programming for Android by Google.
 * [Agrona ★783](https://github.com/real-logic/Agrona) - Library of data structures and utility methods that are a common need when building high-performance applications.
 * [Apache Arrow](http://arrow.apache.org/) - A high-performance cross-system data layer for columnar in-memory analytics.
-* [bloofi ★51](https://github.com/lemire/bloofi) - Java implementation of multidimensional Bloom filters
+* [bloofi ★51 ⏳1Y](https://github.com/lemire/bloofi) - Java implementation of multidimensional Bloom filters
 * [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
 * [caffeine ★2464](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8.
 * [Chronicle-Bytes ★70](https://github.com/OpenHFT/Chronicle-Bytes) - Low level memory access wrappers.
 * [Chronicle-Queue ★1072](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk.
 * [Chronicle-Map ★954](https://github.com/OpenHFT/Chronicle-Map) - In-memory key-value store designed for low-latency and/or multi-process applications.
-* [clj-ds ★208](https://github.com/krukow/clj-ds) - Clojure's data structures modified for use outside of Clojure.
+* [clj-ds ★208 ⏳3Y](https://github.com/krukow/clj-ds) - Clojure's data structures modified for use outside of Clojure.
 * [colfer ★214](https://github.com/pascaldekloe/colfer) - Binary serialization format and class generator.
 * [commons-math](http://commons.apache.org/proper/commons-math) - Library of lightweight, self-contained mathematics and statistics components.
 * [CuckooFilter4J ★33](https://github.com/MGunlogson/CuckooFilter4J) - Bloom filter replacement for approximated set-membership queries.
@@ -99,11 +106,11 @@ A curated list of awesome JVM low level and performance related stuff.
 * [fasttuple ★125](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
 * [geohash ★183](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
-* [gs-collections ★1654](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
+* [gs-collections ★1654 ⏳1Y](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
 * [hollow ★451](https://github.com/Netflix/hollow) - Java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets.
-* [high-scale-lib ★279](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
+* [high-scale-lib ★279 ⏳2Y](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [hppc ★373](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
-* [injector ★53](https://github.com/belliottsmith/injector) -  A new Executor for Java.
+* [injector ★53 ⏳2Y](https://github.com/belliottsmith/injector) -  A new Executor for Java.
 * [javaslang](http://www.javaslang.io/) - Functional Library for Java 8+.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
@@ -111,33 +118,33 @@ A curated list of awesome JVM low level and performance related stuff.
 * [lightweight_trie](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
 * [lmdbjni](https://github.com/deephacks/lmdbjni) - Java API to LMDB (HawtJNI) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
 * [lmdbjava](https://github.com/lmdbjava/lmdbjava) - Java API to LMDB (JNR) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
-* [low-gc-membuffers ★118](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
+* [low-gc-membuffers ★118 ⏳2Y](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
 * [lwjgl3](https://github.com/LWJGL/lwjgl3) - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
 * [MapDB](http://www.mapdb.org) - Collections backed by off-heap or on-disk storage.
 * [netty-buffers](http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1) - Memory buffer pool implementation similar to jemalloc.
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
 * [ohc ★175](https://github.com/snazy/ohc) - Java large off heap cache developed for Apache Cassandra 3.0.
 * [okio ★3733](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
-* [one-nio ★188](https://github.com/odnoklassniki/one-nio) - library for building high performance Java servers.
+* [one-nio ★188 ⏳1Y](https://github.com/odnoklassniki/one-nio) - library for building high performance Java servers.
 * [parquet](https://parquet.apache.org/) - Columnar storage format that uses the record shredding and assembly algorithm described in the Dremel paper.
-* [PauselessHashMap ★124](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
+* [PauselessHashMap ★124 ⏳2Y](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
 * [pcollections ★359](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
 * [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 * [rtree ★485](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R*-tree implementations in Java with reactive api.
 * [Reactive Streams](http://www.reactive-streams.org/) - Standard for asynchronous stream processing with non-blocking back pressure.
 * [RoaringBitmap ★536](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
-* [rollinghashjava ★38](https://github.com/lemire/rollinghashjava) - Rolling hash functions in Java.
+* [rollinghashjava ★38 ⏳1Y](https://github.com/lemire/rollinghashjava) - Rolling hash functions in Java.
 * [Reactor](http://projectreactor.io/) - Reactive data applications on the JVM for Java, Groovy, Clojure and other.
 * [RxJava ★23780](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences.
-* [SmoothieMap ★114](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
+* [SmoothieMap ★114 ⏳1Y](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
 * [Simple Binary Encoding ★1078](https://github.com/real-logic/simple-binary-encoding) - High Performance Message Codec.
 * [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
 * [stormpot ★103](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [stream-lib ★1561](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
 * [java-string-similarity ★1215](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
-* [transducers-java ★96](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
+* [transducers-java ★96 ⏳1Y](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 * [Zero-Allocation-Hashing ★216](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 
 ## Metaprogramming
@@ -230,7 +237,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
 * [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
 * [GCViewer ★1664](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
-* [hawkshaw ★38](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
+* [hawkshaw ★38 ⏳1Y](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
 * [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 * [hdrhistogram-metrics-reservoir](https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir) - A Metrics Reservoir implementation backed by HdrHistogram.
 * [HdrLogProcessing ★19](https://github.com/nitsanw/HdrLogProcessing) - Utilities for HDR Histogram logs manipulation.
@@ -238,7 +245,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - Sampling JVM profiler without the safepoint sample bias.
 * [jamm ★374](https://github.com/jbellis/jamm) - Measure actual object memory use including JVM overhead.
 * [Java Flight Recorder (JFR)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - Tool for collecting diagnostic and profiling data about a running Java application with almost no performance overhead.
-* [java-sizeof ★95](https://github.com/dweiss/java-sizeof) - Memory consumption estimator for Java.
+* [java-sizeof ★95 ⏳1Y](https://github.com/dweiss/java-sizeof) - Memory consumption estimator for Java.
 * [jcstress](http://openjdk.java.net/projects/code-tools/jcstress/) - Experimental harness and tests to aid the research in the correctness of concurrency support in the JVM, class libraries, and hardware.
 * [jfr-flame-graph ★81](https://github.com/chrishantha/jfr-flame-graph) - Converting JFR Method Profiling Samples to FlameGraph compatible format.
 * [jitwatch ★1094](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler.
@@ -255,9 +262,9 @@ A curated list of awesome JVM low level and performance related stuff.
 * [metrics](http://metrics.dropwizard.io/) - Measure the behavior of critical components in production environment.
 * [Overseer](http://www.peternier.com/projects/overseer/overseer.php) - Low-Level Hardware Monitoring and Management for Java.
 * [perf-map-agent](https://github.com/jrudolph/perf-map-agent) - Generate method mappings to use with the linux `perf` tool.
-* [perfj ★279](https://github.com/coderplay/perfj) - Linux perf for java programs.
-* [polarbear ★18](https://github.com/Cue/polarbear) - A tool to help diagnose OutOfMemoryError conditions.
-* [Riemann JVM Profiler ★257](https://github.com/riemann/riemann-jvm-profiler) - JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.
+* [perfj ★279 ⏳1Y](https://github.com/coderplay/perfj) - Linux perf for java programs.
+* [polarbear ★18 ⏳4Y](https://github.com/Cue/polarbear) - A tool to help diagnose OutOfMemoryError conditions.
+* [Riemann JVM Profiler ★257 ⏳2Y](https://github.com/riemann/riemann-jvm-profiler) - JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.
 * [statsd-jvm-profiler ★233](https://github.com/etsy/statsd-jvm-profiler) - JVM agent profiler that sends profiling data to StatsD.
 * [Swiss Java Knife ★1324](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
 * [Takipi](https://www.takipi.com/) - Tells you when and why code breaks in production.
@@ -271,7 +278,7 @@ A curated list of awesome JVM low level and performance related stuff.
 *Tools for managing jvm runtime processes*
 * [Capsule ★1021](https://github.com/puniverse/capsule) - Dead-Simple Packaging and Deployment for JVM Apps.
 * [CRaSH](http://www.crashub.org/) - The shell for the Java Platform.
-* [Drip ★1379](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
+* [Drip ★1379 ⏳1Y](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
 * [HotswapAgent ★733](https://github.com/HotswapProjects/HotswapAgent) - Redefine classes at runtime and skip the redeploy process.
 * [jvmkill ★41](https://github.com/airlift/jvmkill) - Agent that forcibly terminates the JVM when it is unable to allocate memory or create a thread.
 * [Nailgun](http://martiansoftware.com/nailgun/) - Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.
@@ -378,3 +385,7 @@ Machine Specification Java SE 8 Edition.
 Contributions are very welcome!
 
 Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) for guidelines.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/deephacks/awesome-jvm">https://github.com/deephacks/awesome-jvm</a> with ranks
+</p>

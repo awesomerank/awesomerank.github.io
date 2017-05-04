@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/jondot/awesome-react-native">https://github.com/jondot/awesome-react-native</a> with ranks
+</p>
+---
 # Awesome React Native
 
 <img src="https://travis-ci.org/jondot/awesome-react-native.svg?branch=master" alt="Build Status" />
@@ -858,7 +865,7 @@ Open source React Native apps and other examples.
 - [react-native-nw-react-calculator ★3472](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
 - [Posters_Galore_Android ★11](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 - [uestc-bbs-react-native ★150](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
-- [Text Blast ★19](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version ★8](https://github.com/SeshApp/text-blast-ionic) for comparison
+- [Text Blast ★19](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version ★8 ⏳1Y](https://github.com/SeshApp/text-blast-ionic) for comparison
 - [iTunesConnect ★35](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 - [react-native-gitfeed ★1468](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
 - [rndrawer-implemented-rnrouter ★43](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
@@ -997,3 +1004,7 @@ Assortment of conference and training videos.
 - [Release Process](http://facebook.github.io/react/blog/2015/05/22/react-native-release-process.html)
 - [Stable: 0.42.2](https://github.com/facebook/react-native/releases/tag/v0.42.3)
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/jondot/awesome-react-native">https://github.com/jondot/awesome-react-native</a> with ranks
+</p>

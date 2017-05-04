@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/dreikanter/sublime-bookmarks">https://github.com/dreikanter/sublime-bookmarks</a> with ranks
+</p>
+---
 # Sublime Text Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
@@ -52,15 +59,15 @@ Alive projects only, with Sublime Text version 3 support.
 - [GitGutter ★3428](https://github.com/jisaacks/GitGutter) — a plugin to see git diff in gutter.
 - [EditorConfig ★1461](https://github.com/sindresorhus/editorconfig-sublime) — .editorconfig support.
 - [SublimeLinter ★1270](https://github.com/SublimeLinter/SublimeLinter3) — a plugin that provides a framework for linting code. Whatever language you code in, SublimeLinter can help you write cleaner, better, more bug-free code. SublimeLinter has been designed to provide maximum flexibility and usability for users and maximum simplicity for linter authors.
-- [Sublime Worksheet ★334](https://github.com/jcartledge/sublime-worksheet) — an inline REPL for JavaScript, PHP, Ruby and more.
-- [Sublime Alignment ★459](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
+- [Sublime Worksheet ★334 ⏳3Y](https://github.com/jcartledge/sublime-worksheet) — an inline REPL for JavaScript, PHP, Ruby and more.
+- [Sublime Alignment ★459 ⏳1Y](https://github.com/wbond/sublime_alignment) — a simple key-binding for aligning multi-line and multiple selections.
 - [ApplySyntax](https://github.com/facelessuser/ApplySyntax) — a plugin that allows to detect and apply the syntax of files that might not otherwise be detected properly. For example, files with the .rb extension are usually Ruby files, but when they are found in a Rails project, they could be RSpec spec files, Cucumber step files, Ruby on Rails files (controllers, models, etc), or just plain Ruby files.
 - [All Autocomplete ★758](https://github.com/alienhard/SublimeAllAutocomplete) — extends the default autocomplete to find matches in all open files.
 - [SublimeREPL](https://github.com/wuub/SublimeREPL) — runs an interpreter inside ST2 (Clojure, CoffeeScript, F#, Groovy, Haskell, Lua, MozRepl, NodeJS, Python, R, Ruby, Scala, shell or configure one yourself).
 - [FindKeyConflicts ★123](https://github.com/skuroda/FindKeyConflicts) — identify conflicting key mappings.
-- [Glue ★248](https://github.com/chrissimpkins/glue) — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
-- [File Navigator ★45](https://github.com/csch0/SublimeText-File-Navigator) — keyboard-friendly file navigator and manager.
-- [Synesthesia ★11](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
+- [Glue ★248 ⏳3Y](https://github.com/chrissimpkins/glue) — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
+- [File Navigator ★45 ⏳3Y](https://github.com/csch0/SublimeText-File-Navigator) — keyboard-friendly file navigator and manager.
+- [Synesthesia ★11 ⏳1Y](https://github.com/dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
 - [StyleToken](https://github.com/vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 - [Origami ★915](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 - [Sync Settings ★71](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized
@@ -71,7 +78,7 @@ Alive projects only, with Sublime Text version 3 support.
 
 Helpful notes:
 
-- [Sublime Text setup ★752](https://github.com/mhartl/rails_tutorial_sublime_text) used in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
+- [Sublime Text setup ★752 ⏳1Y](https://github.com/mhartl/rails_tutorial_sublime_text) used in the [Ruby on Rails Tutorial](https://www.railstutorial.org/)
 - [Setting up Sublime Text for Ruby development](http://zhuravel.biz/setting-up-sublime-text-for-ruby-development)
 - [ChangeQuotes ★109](https://github.com/colinta/SublimeChangeQuotes) — converts single to double or double to single quotes.
 
@@ -96,14 +103,14 @@ Plugins:
 - [Rope ★362](https://github.com/python-rope/rope) — a Python refactoring library.
 - [SublimeLinter PEP 257](https://github.com/SublimeLinter/SublimeLinter-pep257) — an interface to [PEP 257](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) (docstring style checker).
 - [Djaneiro ★783](https://github.com/squ1b3r/Djaneiro) — Django support.
-- [SublimePythonTidy ★41](https://github.com/witsch/SublimePythonTidy) — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
+- [SublimePythonTidy ★41 ⏳4Y](https://github.com/witsch/SublimePythonTidy) — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
 - [Anaconda ★1445](https://github.com/DamnWidget/anaconda) — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
 - [SublimeJEDI ★713](https://github.com/srusskih/SublimeJEDI) — Python autocompletion.
 
 ### JavaScript Profile
 
 - [JsFormat ★1266](https://github.com/jdc0589/JsFormat) — a JavaScript formatting plugin. It uses the command-line/python-module JavaScript formatter from http://jsbeautifier.org to format whole js or json files, or the selected portion(s).
-- [CoffeeScript ★302](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
+- [CoffeeScript ★302 ⏳4Y](https://github.com/Xavura/CoffeeScript-Sublime-Plugin) — syntax highlighting and checking, commands, shortcuts, snippets, compilation and more.
 - [TernJS ★725](https://github.com/ternjs/tern_for_sublime) — a JavaScript type inference engine integration.
 
 ### Client Side Profile
@@ -145,7 +152,7 @@ Plugins:
 - [Cobalt2 ★1272](https://github.com/wesbos/cobalt2) — A full featured Sublime Text blue theme
 - [Flatland ★2768](https://github.com/thinkpixellab/flatland) — A simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
 - [Material theme ★9114](https://github.com/equinusocio/material-theme) — This theme brings the Material Design visual language. http://equinsuocha.io/material-theme
-- [Comfort ★1](https://github.com/devanshdalal/Comfort) — A Wonderful theme for sublime Text!.
+- [Comfort ★1 ⏳1Y](https://github.com/devanshdalal/Comfort) — A Wonderful theme for sublime Text!.
 - [Predawn ★1783](https://github.com/jamiewilson/predawn) — Dark interface and syntax theme for Sublime Text and Atom. http://jamiewilson.io/predawn
 - [Ayu ★2228](https://github.com/dempfi/ayu) — A simple theme with bright colors and comes in three versions — dark, mirage and light for all day long comfortable work.
 
@@ -171,10 +178,10 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 
 - [By Jon-Paul Lunney](https://dribbble.com/shots/382465-Sublime-Text-2-update-Replacement-Icon)
 - [By Chris Lee](https://dribbble.com/shots/382409-Sublime-Text-2-Icon)
-- [By Daniel Matarazzo ★555](https://github.com/dbmzzo/Sublime-Text-2-Icon)
+- [By Daniel Matarazzo ★555 ⏳3Y](https://github.com/dbmzzo/Sublime-Text-2-Icon)
 - [By Ernest Ojeh](https://dribbble.com/shots/1027361-Sublime-Text-icon-replacement-for-Flatland-Theme)
-- [By Shi Yan Hui ★5](https://github.com/shiyanhui/Sublime-Text-Icon)
-- [By Tomas Sykora ★12](https://github.com/syky27/Sublime-Text-Icon)
+- [By Shi Yan Hui ★5 ⏳3Y](https://github.com/shiyanhui/Sublime-Text-Icon)
+- [By Tomas Sykora ★12 ⏳3Y](https://github.com/syky27/Sublime-Text-Icon)
 - [By Matheus Falcão](https://www.behance.net/gallery/22168387/Sublime-Text-Icon)
 
 ### Monospace Fonts
@@ -204,3 +211,7 @@ There are a lot of other bookmarks collections on GitHub. Take a look at metaboo
 ## License
 
 Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/dreikanter/sublime-bookmarks">https://github.com/dreikanter/sublime-bookmarks</a> with ranks
+</p>

@@ -1,4 +1,11 @@
-# ![Awesome Löve](logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/love2d-community/awesome-love2d">https://github.com/love2d-community/awesome-love2d</a> with ranks
+</p>
+---
+# ![Awesome Löve](https://github.com/love2d-community/awesome-love2d/blob/master/logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 A categorized community-driven collection of high-quality, awesome [LÖVE](http://love2d.org) libraries, projects, and resources.
 
 ## Table of contents
@@ -49,8 +56,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [anim8 ★224](https://github.com/kikito/anim8) - Animation library
 * [chiro ★7](https://github.com/bjornbytes/chiro) - Convenience wrapper around [Spine](http://esotericsoftware.com)
-* [skeletor ★9](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
-* [Sodapop ★18](https://github.com/tesselode/sodapop) - Sprite and animation library
+* [skeletor ★9 ⏳1Y](https://github.com/pelevesque/skeletor) - 2D skeletal animation system
+* [Sodapop ★18 ⏳1Y](https://github.com/tesselode/sodapop) - Sprite and animation library
 * [Walt ★20](https://github.com/davisdude/Walt) - Animation library
 * [Lump ★13](https://github.com/sixFingers/lump) - Adobe Flash animation runtime
 
@@ -58,25 +65,25 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Viewport & Camera Libraries*
 
 * [Brady ★25](https://github.com/davisdude/Brady) - Camera library with parallax scrolling
-* [Editgrid ★19](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid
-* [gamera ★100](https://github.com/kikito/gamera) - Camera system
+* [Editgrid ★19 ⏳1Y](https://github.com/bakpakin/Editgrid) - Gamera and HUMP compatible scaling grid
+* [gamera ★100 ⏳1Y](https://github.com/kikito/gamera) - Camera system
 * [hump.camera](http://hump.readthedocs.io/en/latest/camera.html) - Camera library with window locking and smooth camera movement interpolation
 
 ## Development
 *Development assisting Libraries, that enrich your development experience*
 
-* [FPSGraph ★12](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility
-* [debugGraph ★11](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph
+* [FPSGraph ★12 ⏳3Y](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility
+* [debugGraph ★11 ⏳1Y](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph
 * [Lovebird ★125](https://github.com/rxi/lovebird) - Browser-based debug console
-* [Lovecat ★16](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
+* [Lovecat ★16 ⏳1Y](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
 * [LoveDebug ★48](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
-* [lurker ★86](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
+* [lurker ★86 ⏳2Y](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API ★70](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
 
 ## Drawing
 *Drawing specific Libraries, that simplify the Drawing process*
 
-* [draft ★17](https://github.com/pelevesque/draft) - A module for drawing complex shapes
+* [draft ★17 ⏳1Y](https://github.com/pelevesque/draft) - A module for drawing complex shapes
 * [Artal ★18](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
 * [Autobatch ★28](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
 * [Maid64 ★14](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
@@ -101,16 +108,16 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [lume ★190](https://github.com/rxi/lume) - Collection of functions for Lua, geared towards game development
 * [rotLove ★96](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 * [ScreenManager ★11](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework
-* [shack ★20](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation
+* [shack ★20 ⏳1Y](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation
 * [Simple Tiled Implementation ★263](https://github.com/karai17/Simple-Tiled-Implementation) - Tiled map loader and renderer
-* [Vivid ★30](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library
+* [Vivid ★30 ⏳1Y](https://github.com/WetDesertRock/vivid) - Color math, manipulation and conversion library
 
 ## Input
 *Input & Binding Libraries*
 
 * [baton ★18](https://github.com/tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls
 * [boipushy ★46](https://github.com/adonaac/boipushy) - A simple and easy to use input handler
-* [love-microphone ★43](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE
+* [love-microphone ★43 ⏳1Y](https://github.com/LPGhatguy/love-microphone) - Simple microphone support for LÖVE
 * [tactile ★34](https://github.com/tesselode/tactile) - A straightforward and flexible input library
 
 ## Lighting
@@ -122,7 +129,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Math specific Libraries*
 
 * [Cirno's Perfect Math Library ★83](https://github.com/excessive/cpml) - Math/intersection library designed for games
-* [delaunay ★54](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons
+* [delaunay ★54 ⏳1Y](https://github.com/Yonaba/delaunay) - Delaunay triangulation for convex polygons
 * [MLib ★37](https://github.com/davisdude/mlib) - Math and shape-intersection detection library written in Lua. It's aim is to be robust and easy to use
 * [hump.vector](http://hump.readthedocs.io/en/latest/vector.html) - Powerful 2D vector class
 * [Bresenham ★2](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm written in Lua
@@ -142,10 +149,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Sock.lua ★34](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games
 
 ## <a name="object"></a>Object Orientation
-*Object Orientation Libraries that support [Class-Commons ★29](https://github.com/bartbes/Class-Commons)*
+*Object Orientation Libraries that support [Class-Commons ★29 ⏳1Y](https://github.com/bartbes/Class-Commons)*
 
 * [30log](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
-* [classic ★117](https://github.com/rxi/classic) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
+* [classic ★117 ⏳1Y](https://github.com/rxi/classic) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
 * [hump.class](http://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
 * [middleclass](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
@@ -182,11 +189,11 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Save Game & Storage Libraries*
 
 * [binser ★46](https://github.com/bakpakin/binser) - Customizable Lua Serializer
-* [cdata ★24](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
+* [cdata ★24 ⏳1Y](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
 * [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script
-* [Lady ★28](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser
+* [Lady ★28 ⏳1Y](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser
 * [Ser ★51](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua
-* [Smallfolk ★11](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua
+* [Smallfolk ★11 ⏳1Y](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua
 * [trickle ★12](https://github.com/bjornbytes/trickle) - A bitstream library focused on high compression for use in networking
 
 ## Shaders
@@ -203,7 +210,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework
 * [Luassert](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests
 * [lua-TestMore](http://fperrad.github.io/lua-TestMore/) - Port of Perl's `Test::More` package
-* [Lunatest ★59](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
+* [Lunatest ★59 ⏳1Y](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
 * [lust ★21](https://github.com/bjornbytes/lust) - Minimal test framework
 * [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool
 * [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library
@@ -214,7 +221,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Flux ★109](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
 * [hump.timer](http://hump.readthedocs.io/en/latest/timer.html) - Timer and tweening library with flexible tweening methods
 * [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
-* [tween.lua ★242](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
+* [tween.lua ★242 ⏳1Y](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
 
 ## UI
 *User Interface Libraries*
@@ -225,9 +232,9 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
 * [Love Imgui ★72](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine
 * [Löve-Nuklear ★56](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games
-* [Patchy ★14](https://github.com/excessive/patchy) - 9patch library
+* [Patchy ★14 ⏳1Y](https://github.com/excessive/patchy) - 9patch library
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
-* [SafeWord ★1](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
+* [SafeWord ★1 ⏳1Y](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [SUIT ★190](https://github.com/vrld/SUIT) - small immediate mode GUI library
 
 ## Utilities
@@ -236,12 +243,12 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [cargo ★47](https://github.com/bjornbytes/cargo) - Asset manager
 * [chance.lua](http://ejmr.github.io/chance.lua/) - Library for generating random data
 * [GifCat ★28](https://github.com/WetDesertRock/GifCat) - A simple module for saving gifs from LÖVE
-* [i18n ★7](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
-* [log.lua ★74](https://github.com/rxi/log.lua) - Library for configurable log output
-* [love-loader ★70](https://github.com/kikito/love-loader) - Threaded resource loading
-* [love2d-assets-loader ★24](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
-* [Luvent ★35](https://github.com/ejmr/Luvent) - Simple event-driven programming
-* [splashy ★9](https://github.com/videah/splashy) - Splash Screen Library
+* [i18n ★7 ⏳1Y](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
+* [log.lua ★74 ⏳1Y](https://github.com/rxi/log.lua) - Library for configurable log output
+* [love-loader ★70 ⏳1Y](https://github.com/kikito/love-loader) - Threaded resource loading
+* [love2d-assets-loader ★24 ⏳1Y](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
+* [Luvent ★35 ⏳1Y](https://github.com/ejmr/Luvent) - Simple event-driven programming
+* [splashy ★9 ⏳1Y](https://github.com/videah/splashy) - Splash Screen Library
 * [Talkback ★7](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication
 * [tick ★14](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop
 
@@ -258,7 +265,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Integrated Development Enviroments and text editor plugins*
 
 * [Atom](https://atom.io/) - A hackable text editor for the 21st Century
-	* [Löve Atom](https://atom.io/packages/love-atom) - A lövely provider for Atom's autocomplete+ package
+	* [Love-Atom](https://atom.io/packages/love-atom) - Smart autocompletion for the LÖVE framework in Atom.
 	* [Autocomplete GLSL](https://atom.io/packages/autocomplete-glsl) - Adds GLSL autocompletion in Atom
 	* [language-glsl](https://atom.io/packages/language-glsl) - OpenGL Shading Language support in Atom
 	* [language-lua](https://atom.io/packages/language-lua) - Lua language support in Atom
@@ -294,7 +301,11 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 # Other Awesome Lists
 
 * [awesome-lua ★1295](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
-* [awesome-love-shaders ★28](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE
+* [awesome-love-shaders ★28 ⏳1Y](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE
 * [awesome-pico8 ★539](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
 
 Other awesome lists can be found in the [awesome-awesomeness ★18656](https://github.com/bayandin/awesome-awesomeness) list.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/love2d-community/awesome-love2d">https://github.com/love2d-community/awesome-love2d</a> with ranks
+</p>

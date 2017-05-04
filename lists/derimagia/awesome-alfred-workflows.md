@@ -1,4 +1,11 @@
 <h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/derimagia/awesome-alfred-workflows">https://github.com/derimagia/awesome-alfred-workflows</a> with ranks
+</p>
+---
+<h1 align="center">
 	<img width="594" src="https://cdn.rawgit.com/derimagia/awesome-alfred-workflows/master/media/header.gif" alt="awesome-alfred-workflows">
 	<br>
 </h1>
@@ -44,16 +51,16 @@ A curated list of Awesome Alfred Workflows.
 - [VagrantUP ★27](https://github.com/m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
 
 ## Text Manipulation
-- [Encode / Decode ★178](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
+- [Encode / Decode ★178 ⏳1Y](https://github.com/willfarrell/alfred-encode-decode-workflow) - Transform your query strings through base64, html, url, and utf-8 encode/decode.
 - [Funnel](http://www.packal.org/workflow/funnel) - Funnel selected text or a file through various filters.
 - [hl ★23](https://github.com/importre/alfred-hl) - Syntax highlight code in the clipboard.
-- [HTML Entity Lookup ★24](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
+- [HTML Entity Lookup ★24 ⏳2Y](https://github.com/ajgon/alfred2-html-entity-lookup) - Search for entity characters based on how they look or by name.
 - [Pandoctor](https://github.com/smargh/alfred_pandoctor) - Alfred interface to [pandoc](http://pandoc.org), a tool that allows to convert between text formats (Markdown, LaTeX, DOC, DOCX, ...).
 - [Unicode Text Search ★91](https://github.com/bevesce/unicode-symbols-search) - Search for Unicode Symbols.
 
 ## Scientific
-- [DOITools ★2](https://github.com/hbuschme/doi-tools-alfred-workflow) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
-- [Scientific Workflow ★42](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
+- [DOITools ★2 ⏳2Y](https://github.com/hbuschme/doi-tools-alfred-workflow) - Tools to resolve, open, shorten DOI numbers and even convert them to bibtex.
+- [Scientific Workflow ★42 ⏳1Y](https://github.com/andrewning/alfred-workflows-scientific) - Workflows that are useful for scientists: e.g. LaTeX, importing references in bibtex.
 - [Skim remote](http://www.packal.org/workflow/skim-remote) - Controls the [Skim PDF Viewer](http://skim-app.sourceforge.net) remotely from Alfred.
 - [Units](http://designandsuch.com/work/alfred-workflow-units) - Convert between physical units.
 
@@ -63,7 +70,7 @@ A curated list of Awesome Alfred Workflows.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
 ## Security
-- [LastPass Vault Manager ★90](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
+- [LastPass Vault Manager ★90 ⏳2Y](https://github.com/bachya/lp-vault-manager) - A workflow to interact with a LastPass vault.
 - [Random MAC](http://www.packal.org/workflow/random-mac) - Assigns a random MAC address to `en0` (e.g. for free wifi).
 
 ## System
@@ -71,7 +78,7 @@ A curated list of Awesome Alfred Workflows.
 - [Copy Paths to Clipboard ★57](https://github.com/franzheidl/copy-paths-to-clipboard) - Copy Current File Paths to Clipboard as POSIX, HFS, or File URLs.
 - [Finder New item ★5](https://github.com/danielbayley/alfred-finder-new-item) - Swiftly create new items in Finder with support for templates.
 - [Keyboard Maestro ★119](https://github.com/iansinnott/alfred-maestro) - Execute Keyboard Maestro macros from Alfred.
-- [Keylue ★18](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
+- [Keylue ★18 ⏳2Y](https://github.com/zhaocai/alfred2-keylue-workflow) - Key Clue, Menu Bar and Keyboard Maestro Hot Key Search
 - [Network Info](http://www.packal.org/workflow/network-info) -  Display ip addresses or mac addresses for all network interfaces.
 - [SSH ★10](https://github.com/isometry/alfred-ssh) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 - [Swift Windows Switcher ★16](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
@@ -107,3 +114,7 @@ Here are a list of other collections of alfred collections which are useful.
 </a>
 
 To the extent possible under law, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/derimagia/awesome-alfred-workflows">https://github.com/derimagia/awesome-alfred-workflows</a> with ranks
+</p>

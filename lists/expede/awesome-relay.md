@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/expede/awesome-relay">https://github.com/expede/awesome-relay</a> with ranks
+</p>
+---
 # Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 Awesome resources for [Relay](https://github.com/facebook/relay), based on the [Awesome ★57421](https://github.com/sindresorhus/awesome) project
 
@@ -72,13 +79,13 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [`relay-decorator`](https://github.com/4Catalyzer/relay-decorators) - Simply syntax for Relay containers with ES7 decorators (`@` syntax)
 - [`recompose-relay`](https://www.npmjs.com/package/recompose-relay) - Ease composition of Relay containers by currying and providing the component after the container.
 - [`relay-local-schema` ★155](https://github.com/relay-tools/relay-local-schema) - Use a local schema; no need for a remote GraphQL server.
-- [`react-native-relay` ★74](https://github.com/lenaten/react-native-relay) - Use Relay with React Native.
+- [`react-native-relay` ★74 ⏳1Y](https://github.com/lenaten/react-native-relay) - Use Relay with React Native.
   - May be supported [out of the box](https://github.com/facebook/relay/issues/26) in the future.
-- [`relay-sink` ★123](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
+- [`relay-sink` ★123 ⏳1Y](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
 - [`babel-plugin-flow-relay-query` ★35](https://github.com/guymers/babel-plugin-flow-relay-query) - Convert [Flow](http://flowtype.org) types into Relay fragments.
 - [`sequelize-relay`](https://github.com/MattMcFarland/sequelize-relay) - Make Relay compatible with [`sequelize` ★9564](https://github.com/sequelize/sequelize).
 - [`relay-mongodb-connection` ★21](https://github.com/mikberg/relay-mongodb-connection) - Create Relay connections from MongoDB cursors.
-- [`relay-composite-network-layer` ★45](https://github.com/eyston/relay-composite-network-layer) - Compose your Relay Network Layer of many different Network Layers each with their own schema.
+- [`relay-composite-network-layer` ★45 ⏳1Y](https://github.com/eyston/relay-composite-network-layer) - Compose your Relay Network Layer of many different Network Layers each with their own schema.
 - [`react-relay-network-layer` ★241](https://github.com/nodkz/react-relay-network-layer) - A Network Layer that adds support for query-batching and middlewares. It additionally provides some useful middlewares such as for auth, for logging, etc.
 
 ## Tooling
@@ -88,13 +95,13 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Babel Relay Plugin](https://www.npmjs.com/package/babel-relay-plugin) - Use Relay the latest ES6+ syntax.
 
 ## Starter Kits
-- [Relay Skeleton ★121](https://github.com/fortruce/relay-skeleton) - Relay project skeleton.
+- [Relay Skeleton ★121 ⏳1Y](https://github.com/fortruce/relay-skeleton) - Relay project skeleton.
 - [Relay Starter Kit ★962](https://github.com/relayjs/relay-starter-kit) - An app that it already set up with a basic setup. Just clone and tweak to suit your needs!
 - [Node.js API Starter Kit ★404](https://github.com/kriasoft/nodejs-api-starter) - Boilerplate and tooling for building data APIs with Node.js, GraphQL and Relay
 - [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit ★962](https://github.com/relayjs/relay-starter-kit).
 - [UniversalRelayBoilerplate ★418](https://github.com/codefoundries/UniversalRelayBoilerplate)
 Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
-- [Relay on Rails Starter Kit ★35](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
+- [Relay on Rails Starter Kit ★35 ⏳1Y](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
 - [Relay Fullstack ★722](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
 
 # Relay-Specific Server Support
@@ -114,10 +121,14 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Rails
 - [GraphQL and Relay on Rails — First relay powered react component](https://medium.com/@gauravtiwari/graphql-and-relay-on-rails-first-relay-powered-react-component-cb3f9ee95eca#.c88zcoftn) - Full walk through of a simple Relay setup, including clonable code.
 - [Relay/GraphQL On Rails](https://medium.com/@khor/relay-facebook-on-rails-8b4af2057152#.5hjih9wms) - A brief example of Relay with Rails, complete with several diagrams to aid in comprehension.
-- [Relay on Rails Starter Kit ★35](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
+- [Relay on Rails Starter Kit ★35 ⏳1Y](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
 
 ## Scala
 - [`sangria-relay` ★50](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).
 
 # Testing
 - [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. 
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/expede/awesome-relay">https://github.com/expede/awesome-relay</a> with ranks
+</p>

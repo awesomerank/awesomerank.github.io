@@ -1,10 +1,17 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/dustinspecker/awesome-eslint">https://github.com/dustinspecker/awesome-eslint</a> with ranks
+</p>
+---
 # Awesome ESLint [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="http://eslint.org/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
 
 > A list of awesome ESLint configs, plugins, etc.
 
-If you want to contribute, please read the [contribution guidelines](contributing.md).
+If you want to contribute, please read the [contribution guidelines](https://github.com/dustinspecker/awesome-eslint/blob/master/contributing.md).
 
 ## Contents
 
@@ -44,14 +51,14 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [Backbone ★89](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone
 - [Chai ★4](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai
 - [Ember ★58](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember
-- [Hapi ★15](https://github.com/continuationlabs/eslint-plugin-hapi) – Linting rules for hapi
+- [Hapi ★15 ⏳1Y](https://github.com/continuationlabs/eslint-plugin-hapi) – Linting rules for hapi
 - [Jasmine ★32](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine
 - [JSDoc ★85](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
 - [Lodash ★107](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules
 - [Lodash/fp ★75](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules
 - [Meteor ★86](https://github.com/dferber90/eslint-plugin-meteor) - Meteor specific linting rules
 - [Mocha ★118](https://github.com/lo1tuma/eslint-plugin-mocha) - Linting rules for Mocha
-- [Mongodb ★12](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native nodejs driver linting rules
+- [Mongodb ★12 ⏳1Y](https://github.com/nfroidure/eslint-plugin-mongodb) - Mongodb native nodejs driver linting rules
 - [React ★2533](https://github.com/yannickcr/eslint-plugin-react) - Linting rules for React and JSX
 - [React Native ★181](https://github.com/Intellicode/eslint-plugin-react-native) - React Native specific linting rules
 - [RequireJS ★21](https://github.com/cvisco/eslint-plugin-requirejs) - Linting rules for RequireJS
@@ -80,8 +87,8 @@ If you want to contribute, please read the [contribution guidelines](contributin
 - [fp ★217](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 - [Immutable ★642](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript
 - [JSX a11y ★433](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements
-- [new-with-error ★10](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
-- [no-inferred-method-name ★26](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
+- [new-with-error ★10 ⏳1Y](https://github.com/Trott/eslint-plugin-new-with-error) - Require errors to be thrown using `new`
+- [no-inferred-method-name ★26 ⏳1Y](https://github.com/johnstonbl01/eslint-no-inferred-method-name) - Custom rule for ESLint that checks for inferred method names within object literals.
 - [no-loops ★23](https://github.com/buildo/eslint-plugin-no-loops) - It's 2017 and you still use loops?
 - [no-use-extend-native ★22](https://github.com/dustinspecker/eslint-plugin-no-use-extend-native) - Prevent using extended native objects
 - [Promise ★149](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises
@@ -123,3 +130,7 @@ If you want to contribute, please read the [contribution guidelines](contributin
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/dustinspecker/awesome-eslint">https://github.com/dustinspecker/awesome-eslint</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/nirgn975/awesome-drupal">https://github.com/nirgn975/awesome-drupal</a> with ranks
+</p>
+---
 # Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/nirgn975/awesome-drupal/master/icon-drupal.png" align="right" width="90">](https://www.drupal.org)
@@ -137,7 +144,7 @@ You might also like [awesome-php ★15226](https://github.com/ziadoz/awesome-php
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions welcome! Read the [contribution guidelines](https://github.com/nirgn975/awesome-drupal/blob/master/contributing.md) first.
 
 
 ## License
@@ -145,3 +152,7 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/nirgn975/awesome-drupal">https://github.com/nirgn975/awesome-drupal</a> with ranks
+</p>

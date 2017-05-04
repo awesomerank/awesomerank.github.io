@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/dok/awesome-text-editing">https://github.com/dok/awesome-text-editing</a> with ranks
+</p>
+---
 # Awesome text editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 A curated collection of text editing libraries, services, and resources for the web.
 
@@ -17,7 +24,7 @@ A curated collection of text editing libraries, services, and resources for the 
 * [Textbox.IO](https://textbox.io/) - From the makers of TinyMCE
 * [Froala](https://www.froala.com/wysiwyg-editor) - A simple to use rich text editor, with mobile support, lots of examples, high performance and inline editing
 * [Redactor](http://imperavi.com/redactor/) - Advanced, clean and smooth, Redactor Rich Text Editor offers an excellent immersive user experience
-* [Ritzy ★769](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor
+* [Ritzy ★769 ⏳1Y](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor
 * [Aloha Editor](http://www.alohaeditor.org/Content.Node/index.html) - Open Source browser based html5 enabled rich text editor
 * [WYMeditor](http://www.wymeditor.org/) - Open Source XHTML editor focusing on semantic markup
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component
@@ -72,3 +79,7 @@ Editor should:
 ## License
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/dok/awesome-text-editing">https://github.com/dok/awesome-text-editing</a> with ranks
+</p>

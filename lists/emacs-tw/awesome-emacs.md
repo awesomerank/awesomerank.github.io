@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/emacs-tw/awesome-emacs">https://github.com/emacs-tw/awesome-emacs</a> with ranks
+</p>
+---
 * Awesome Emacs
 [[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
 
@@ -812,3 +819,7 @@ A curated list of awesome lists can be found at [[https://awesome.re][awesome.re
 [[https://creativecommons.org/publicdomain/zero/1.0/][https://i.creativecommons.org/p/zero/1.0/88x31.png]]
 
 To the extent possible under law, [[https://github.com/emacs-tw][emacs.tw]] has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/emacs-tw/awesome-emacs">https://github.com/emacs-tw/awesome-emacs</a> with ranks
+</p>

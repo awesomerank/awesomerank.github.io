@@ -1,10 +1,17 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/vinkla/awesome-educational-games">https://github.com/vinkla/awesome-educational-games</a> with ranks
+</p>
+---
 # Awesome Educational Games [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cloud.githubusercontent.com/assets/499192/18659925/ed7e6262-7f0d-11e6-8e8e-b53b87158210.png" align="right" alt="Awesome Educational Games" width="150">](https://en.m.wikipedia.org/wiki/Educational_game)
 
 > A curated list of awesome [educational games](https://en.m.wikipedia.org/wiki/Educational_game) to learn editors, languages, programming, etc.
 
-*Please read the [contribution guidelines](CONTRIBUTING.md) before contributing.*
+*Please read the [contribution guidelines](https://github.com/vinkla/awesome-educational-games/blob/master/CONTRIBUTING.md) before contributing.*
 
 > [Educational games](https://en.m.wikipedia.org/wiki/Educational_game) are designed to teach people about certain subjects, expand concepts, reinforce development, understand an historical event or culture, or assist them in learning a skill as they play - [Wikipedia](https://en.m.wikipedia.org/wiki/Educational_game)
 
@@ -94,3 +101,7 @@ Like `awesome-educational-games`? Reach out to me and say *hi* on [Twitter](http
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Vincent Klaiber](https://vinkla.com) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/vinkla/awesome-educational-games">https://github.com/vinkla/awesome-educational-games</a> with ranks
+</p>

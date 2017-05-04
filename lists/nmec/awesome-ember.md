@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/nmec/awesome-ember">https://github.com/nmec/awesome-ember</a> with ranks
+</p>
+---
 # Awesome Ember [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Ember.js things.
@@ -26,9 +33,9 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 
 - [Ember-cli](http://ember-cli.com/) - 'The command line interface for ambitious web applications' - Officially maintained.
 - [Ember Inspector ★817](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
-- [gulp-ember-handlebars ★12](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
-- [Ember Data Sails Adapter ★92](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
-- [Ember Data WordPress Adapter ★38](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
+- [gulp-ember-handlebars ★12 ⏳2Y](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
+- [Ember Data Sails Adapter ★92 ⏳2Y](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
+- [Ember Data WordPress Adapter ★38 ⏳2Y](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.
 - [Ember Twiddle](https://ember-twiddle.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
 - [Ember Perf ★56](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app
@@ -137,3 +144,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Jono Warren](https://jwarren.co.uk) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/nmec/awesome-ember">https://github.com/nmec/awesome-ember</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/eug/awesome-opengl">https://github.com/eug/awesome-opengl</a> with ranks
+</p>
+---
 # awesome-opengl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 [<img src="https://rawgit.com/eug/awesome-opengl/master/opengl-logo.svg" align="right" width="140">](https://www.opengl.org)
 
@@ -89,7 +96,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 * [gl3w ★252](https://github.com/skaslev/gl3w) - Simple OpenGL core profile loader.
 * [glad ★374](https://github.com/Dav1dde/glad) - Multi profile loader-generator based on the official specs.
-* [glbindify ★2](https://github.com/nnesse/glbindify) - Commmand line tool to generate C bindings for OpenGL, wgl, and glX.
+* [glbindify ★2 ⏳1Y](https://github.com/nnesse/glbindify) - Commmand line tool to generate C bindings for OpenGL, wgl, and glX.
 * [glbinding ★412](https://github.com/cginternals/glbinding) - Profile loader leveraging C++11 features to provide type safety.
 * [GLEW](http://glew.sourceforge.net) - Mature cross-platform library to load OpenGL extensions.
 * [glLoadGen](https://bitbucket.org/alfonse/glloadgen/wiki/Home) - Multi profile loader-generator written in Lua.
@@ -161,3 +168,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/eug/awesome-opengl">https://github.com/eug/awesome-opengl</a> with ranks
+</p>

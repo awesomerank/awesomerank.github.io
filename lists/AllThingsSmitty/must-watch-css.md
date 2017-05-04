@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/AllThingsSmitty/must-watch-css">https://github.com/AllThingsSmitty/must-watch-css</a> with ranks
+</p>
+---
 <p align="center">
   <img width="300" src="https://rawgit.com/AllThingsSmitty/must-watch-css/master/media/logo.svg" alt="TV icon">
 </p>
@@ -9,7 +16,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 > **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★57421](https://github.com/sindresorhus/awesome).
 
 
-* [Contribution Guidelines](CONTRIBUTING.md)
+* [Contribution Guidelines](https://github.com/AllThingsSmitty/must-watch-css/blob/master/CONTRIBUTING.md)
 
 
 ### 2016
@@ -84,3 +91,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 
 1. [**Handcrafted CSS**](https://vimeo.com/17091905): Dan Cederholm, Build Conference `44:29`
 1. [**The Top 5 Mistakes of Massive CSS**](https://www.youtube.com/watch?v=j6sAm7CLoCQ): Nicole Sullivan, Build Conference `37:53`
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/AllThingsSmitty/must-watch-css">https://github.com/AllThingsSmitty/must-watch-css</a> with ranks
+</p>

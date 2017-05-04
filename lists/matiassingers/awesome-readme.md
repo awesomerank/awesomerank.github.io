@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/matiassingers/awesome-readme">https://github.com/matiassingers/awesome-readme</a> with ranks
+</p>
+---
 <img src="icon.png" align="right" />
 # Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 > A curated list of awesome README
@@ -11,7 +18,7 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 - [jakubroztocil/httpie](https://github.com/jkbrzt/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
 - [karan/joe ★2375](https://github.com/karan/joe) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
 - [aimeos/aimeos-typo3 ★17](https://github.com/aimeos/aimeos-typo3) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [rstacruz/hicat ★322](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
+- [rstacruz/hicat ★322 ⏳1Y](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
 - [skywinder/github-changelog-generator ★3383](https://github.com/skywinder/github-changelog-generator) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
 - [shama/gaze ★933](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
 - [node-chat ★352](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
@@ -33,7 +40,7 @@ Elements in beautiful READMEs include, but not limited to: images, screenshots, 
 ## Contribute
 
 Contributions are always welcome!
-Please read the [contribution guidelines](contributing.md) first.
+Please read the [contribution guidelines](https://github.com/matiassingers/awesome-readme/blob/master/contributing.md) first.
 
 
 ## License
@@ -41,3 +48,7 @@ Please read the [contribution guidelines](contributing.md) first.
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Matias Singers](http://mts.io) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/matiassingers/awesome-readme">https://github.com/matiassingers/awesome-readme</a> with ranks
+</p>

@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> with ranks
+</p>
+---
 # free-for-dev
 Developers and Open Source authors now have a massive amount of services offering free tiers, but it can be hard to find them all in order to make informed decisions.
 
@@ -616,6 +623,10 @@ Table of Contents
 
 ## Other Free Resources
   * [github.com - FOSS for Dev ★178](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
-  * [github.com - Free for nonprofit ★46](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
+  * [github.com - Free for nonprofit ★46 ⏳1Y](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> with ranks
+</p>

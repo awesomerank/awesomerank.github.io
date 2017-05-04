@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/eleventigers/awesome-rxjava">https://github.com/eleventigers/awesome-rxjava</a> with ranks
+</p>
+---
 # Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
@@ -20,29 +27,29 @@
 * [rxjava-jdbc ★492](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
 * [rxjava-file ★54](https://github.com/davidmoten/rxjava-file) - RxJava observables for files including NIO events.
 * [RxTuples ★114](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava.
-* [RxAnimationBinding ★73](https://github.com/blipinsk/RxAnimationBinding) - RxJava binding APIs for Android's animations.
+* [RxAnimationBinding ★73 ⏳1Y](https://github.com/blipinsk/RxAnimationBinding) - RxJava binding APIs for Android's animations.
 
 ## Utilities
 * [RxJavaAsyncUtil ★95](https://github.com/ReactiveX/RxJavaAsyncUtil) - Async utilities for RxJava.
-* [RxJavaJoins ★73](https://github.com/ReactiveX/RxJavaJoins) - Joins operators for RxJava.
+* [RxJavaJoins ★73 ⏳2Y](https://github.com/ReactiveX/RxJavaJoins) - Joins operators for RxJava.
 * [RxJavaMath ★76](https://github.com/ReactiveX/RxJavaMath) - Math operators for RxJava.
 * [RxJavaString ★105](https://github.com/ReactiveX/RxJavaString) - 
 String and Byte operators for RxJava.
-* [RxJavaComputationExpressions ★50](https://github.com/ReactiveX/RxJavaComputationExpressions) - Computation expressions for RxJava.
+* [RxJavaComputationExpressions ★50 ⏳1Y](https://github.com/ReactiveX/RxJavaComputationExpressions) - Computation expressions for RxJava.
 * [rxjava-extras ★203](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 * [RxActions ★34](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 * [RxRelay ★1184](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and an Action1.
 * [Frodo ★1171](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
 * [RxPartialApplication ★32](https://github.com/pakoito/RxPartialApplication) - Simple partial application for FuncN and ActionN on RxJava.
 * [RxCurrying ★39](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava.
-* [RxEither ★77](https://github.com/eleventigers/rxeither) - Either type for RxJava.
+* [RxEither ★77 ⏳1Y](https://github.com/eleventigers/rxeither) - Either type for RxJava.
 * [RxReplayingShare](https://github.com/JakeWharton/RxReplayingShare) - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
 * [RxFunctions ★52](https://github.com/pakoito/RxFunctions) - Advanced Function composition to use with RxJava.
 * [rxlint](https://bitbucket.org/littlerobots/rxlint) - An Android lint rule for RxJava code.
 * [RxComprehensions ★74](https://github.com/pakoito/RxComprehensions) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps.
 
 ## Testing
-* [assertj-rx ★129](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
+* [assertj-rx ★129 ⏳1Y](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
 * [rxpresso ★338](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava.
 
 ## Guides
@@ -74,3 +81,7 @@ String and Byte operators for RxJava.
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Jokubas Dargis](http://jokubasdargis.net/) has waived all copyright and related or neighboring rights to this work.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/eleventigers/awesome-rxjava">https://github.com/eleventigers/awesome-rxjava</a> with ranks
+</p>

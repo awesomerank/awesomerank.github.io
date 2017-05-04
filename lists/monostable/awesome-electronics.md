@@ -1,3 +1,10 @@
+<h1 align="center">
+Ranked awesome lists, all in one place
+</h1>
+<p align="center">
+	This list is a copy of <a href="https://github.com/monostable/awesome-electronics">https://github.com/monostable/awesome-electronics</a> with ranks
+</p>
+---
 # Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for electronic engineers and hobbyists
@@ -6,7 +13,7 @@ Electronic engineering (EE) is the practice of understanding, designing and buil
 
 Experimenting with and building electronic circuits is also a popular hobby and many professional resources are often equally applicable to hobbyists and vice versa.
 
-This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. If you have anything to add please follow the instructions in [contributing.md](contributing.md).
+This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. If you have anything to add please follow the instructions in [contributing.md](https://github.com/monostable/awesome-electronics/blob/master/contributing.md).
 
 Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbeda-software-list/) on the EEVblog forums. It's been up for a while longer and is much more comprehensive for some sections.
 
@@ -160,3 +167,7 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 ### Theory and Courses
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
+---
+<p align="center">
+	This list is a copy of <a href="https://github.com/monostable/awesome-electronics">https://github.com/monostable/awesome-electronics</a> with ranks
+</p>
