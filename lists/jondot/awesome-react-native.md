@@ -153,6 +153,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 ### UI
 
+- [rn-placeholder★14](https://github.com/Skahrz/rn-placeholder) - Skeleton placeholder loader with (optional) animations
 - [rn-sliding-up-panel ★22](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
 - [react-native-splash-screen ★383](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
 - [react-native-display ★23](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
@@ -187,6 +188,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-autocomplete-input ★104](https://github.com/l-urence/react-native-autocomplete-input) - Pure javascript autocomplete input for react-native
 - [react-native-avatar-gravatar ★10](https://github.com/niborb/react-native-gravatar) - React Native Gravatar component
 - [react-native-bar-collapsible ★11](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
+- [react-native-beautiful-video-recorder ★27](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android.
+- [react-native-beautiful-image ★12](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.
 - [react-native-blur ★1021](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-fxblurview ★26](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
 - [react-native-button ★521](https://github.com/ide/react-native-button)
@@ -211,6 +214,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-circular-action-menu ★66](https://github.com/geremih/react-native-circular-action-menu) - An animated and customizable circular floating menu.
 - [react-native-circular-progress ★414](https://github.com/bgryszko/react-native-circular-progress) - React Native component for creating animated, circular progress with ReactART
 - [react-native-collapsible ★365](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
+- [react-native-compress ★4](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.
 - [react-native-countdown ★17](https://github.com/buhe/react-native-countdown) - react native countdown button
 - [react-native-country-picker ★5](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 - [react-native-country-picker-modal ★136](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
@@ -246,6 +250,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-flex-label ★6](https://github.com/eccolabs/react-native-flex-label) - A text label for React Native that handles multiple lines of text with ellipses truncation as well as vertical alignment within it's view container.
 - [react-native-flexi-radio-button ★7](https://github.com/thegamenicorus/react-native-flexi-radio-button) - Simple and flexible Radio button for React Native
 - [react-native-floating-labels ★82](https://github.com/mayank-patel/react-native-floating-labels) - Reusabe floating lable component for react native
+- [react-native-focus-scroll ★0](https://github.com/c-bata/react-native-focus-scroll) - react-native-focus-scroll can detect which children are focused when scrolling.
 - [react-native-foldview ★816](https://github.com/jmurzy/react-native-foldview) - Animated FoldingCell implementation in React Native
 - [react-native-fontbase ★1](https://github.com/frostney/react-native-fontbase) - Defining font sizes in React Native
 - [react-native-fs-modal ★44](https://github.com/kirkness/react-native-fs-modal) - React native full screen modal component.
@@ -396,6 +401,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-timeline-listview ★3](https://github.com/thegamenicorus/react-native-timeline-listview) - Timeline component for React Native App
 - [react-native-timer-mixin ★158](https://github.com/reactjs/react-timer-mixin) - TimerMixin provides timer functions for executing code in the future that are safely cleaned up when the component unmounts. This is a fork that includes react-native InteractionManager support.
 - [react-native-tinder-swipe-cards ★400](https://github.com/meteor-factory/react-native-tinder-swipe-cards) - Tinder card style swiping.
+- [react-native-thumbnail ★7](https://github.com/phuochau/react-native-thumbnail) - Get thumbnail from local media. 
 - [react-native-toast ★196](https://github.com/remobile/react-native-toast) - A android like toast for react-native support for ios and android
 - [react-native-toolkit ★35](https://github.com/marty-wang/react-native-toolkit) - A collection of common UI components for react native mobile apps.
 - [react-native-tooltip ★120](https://github.com/chirag04/react-native-tooltip) - A react-native wrapper for showing tooltips
@@ -409,6 +415,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-viewport-units ★50](https://github.com/jmstout/react-native-viewport-units) - Incredibly simple utility for (sort of) using viewport units with React Native.
 - [react-native-viewport ★42](https://github.com/pjjanak/react-native-viewport) - Viewport dimensions for react-native
 - [react-native-webbrowser ★80](https://github.com/d-a-n/react-native-webbrowser) - A cross-platform (iOS / Android), full-featured, highly customizable web browser module for React Native apps.
+- [react-native-android-wheel-picker ★15](https://github.com/ElekenAgency/ReactNativeWheelPicker) - Simple and flexible React native wheel picker for Android, including DatePicker and TimePicker.
 - [react-native-wheel-picker ★52](https://github.com/lesliesam/react-native-wheel-picker) - React native cross platform picker.
 - [react-native-wheel ★20](https://github.com/shexiaoheng/react-native-wheel) - android wheel view for react-native
 - [react-native-message-bar ★182](https://github.com/KBLNY/react-native-message-bar) - A module for presenting notifications via an animated message bar at the top/bottom of the screen, highly customizable, for React Native (Android and iOS) projects.
@@ -429,7 +436,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-zoom-image ★8](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer.
 - [react-native-hijri-date-picker ★5](Codelabsys/react-native-hijri-date-picker-android) -  Date Picker Dialog for Hijri calendar for android.
 - [react-native-md-motion-buttons ★10](zecaptus/react-native-md-motion-buttons) - Material design motion button inspired by inVision app.
-- [rn-placeholder ★15](Skahrz/rn-placeholder) - Skeleton placeholder loader with (optional) animations
 - [react-native-fab ★4](SiDevesh/React-Native-FAB) - A FAB button component for Android and iOS, customizable, simple and as per material design specs.
 
 ### Navigation
@@ -515,6 +521,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [codemod-RN24-to-RN25 ★94](https://github.com/sibeliusseraphini/codemod-RN24-to-RN25) - a simple codemod to handle the new import style on >=RN25
 - [react-native-workers ★291](https://github.com/devfd/react-native-workers) - Background services and web workers for react-native
 - [react-native-console-time-polyfill ★2](https://github.com/MaxGraey/react-native-console-time-polyfill) - console.time and console.timeEnd polyfill for react-native
+- [detox ★422](https://github.com/wix/detox) - Graybox End-to-End (functional) Tests and Automation Library for Mobile with first class support for React Native
 
 ### Forms
 
@@ -555,6 +562,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### Styling
 
 - [cairn ★98](https://github.com/adamterlson/cairn) - Simple, string-based style selector engine with support for basic inheritance.
+- [glamorous-native ★88](https://github.com/robinpowered/glamorous-native) - A React Native version of glamorous - a component styling library.
 - [react-native-css ★584](https://github.com/sabeurthabti/react-native-css) - Style React-Native components with css and built in support for SASS.
 - [react-native-extended-stylesheet ★571](https://github.com/vitalets/react-native-extended-stylesheet) - Extend React Native stylesheet with variables, relative units, percents, math operations, scaling and other stuff.
 - [react-native-responsive ★145](https://github.com/ayoubdev/react-native-responsive) - The power of Media Queries now in your React Native project (ios and android) ! Responsive Design can now be easily managed !
@@ -673,6 +681,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-sound-demo ★6](https://github.com/zmxv/react-native-sound-demo) - react-native-sound demo project
 - [react-native-speech ★123](https://github.com/naoufal/react-native-speech) - A text-to-speech library for React Native.
 - [react-native-video ★1483](https://github.com/brentvatne/react-native-video) - A Video component for react-native
+- [react-native-fullscreen-video ★8](mostafa/react-native-fullscreen-video) - A full-screen video component on top of react-native-video
 - [react-native-volume-slider ★29](https://github.com/IFours/react-native-volume-slider) - React Native VolumeView component
 - [react-native-vlc-player ★34](https://github.com/ghondar/react-native-vlc-player) - VLC Player for react-native
 - [react-native-camera-roll-picker ★108](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll
@@ -699,7 +708,8 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 - [feathers](http://docs.feathersjs.com/clients/feathers.html) - Feathers client that works in the React Native, the browser, or NodeJS.
 - [react-native-async-http ★3](https://github.com/szq4119/react-native-async-http) - React Native component for async-http
-- [react-native-cognito ★48](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
+- [react-native-cognito ★54](https://github.com/morcmarc/react-native-cognito) - AWS Cognito-based authentication module for React Native.
+- [react-native-aws-cognito-js ★27](https://github.com/AirLabsTeam/react-native-aws-cognito-js) - An adaptation of Amazon Cognito Identity SDK for JavaScript in combination with AWS SDK for JavaScript for React Native.
 - [react-native-file-download ★35](https://github.com/plrthink/react-native-file-download) - A simple file download module for react-native
 - [react-native-file-upload ★70](https://github.com/booxood/react-native-file-upload) - A file upload plugin for react-native
 - [react-native-http ★11](https://github.com/iktw/react-native-jwt) - React native http

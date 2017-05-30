@@ -30,7 +30,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-bumps-chart ★1](johnwalley/d3-bumps-chart) - Plugin for visualizing bumps charts
 - [d3-circle ★110](tj/d3-circle) - Circle chart
 - [d3-dot ★107](tj/d3-dot) - Dot chart
-- [d3-heatmap ★186](tj/d3-heatmap) - Heatmap
+- [d3-heatmap ★186 ⏳1Y](tj/d3-heatmap) - Heatmap
 - [d3-line ★102](tj/d3-line) - Line chart
 - [d3-flame-graph ★197](spiermar/d3-flame-graph) - Flame graphs from hierarchical data
 - [d3-horizon-chart](http://kmandov.github.io/d3-horizon-chart/) - Horizon charts module

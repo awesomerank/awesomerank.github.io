@@ -47,6 +47,9 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 ## Posts
 
+(Offline First Design Patterns : Engineering)[https://medium.com/offline-camp/offline-first-design-patterns-engineering-1c66821137d3]
+(Anirudha Bedre - Mar 28, 2017)
+
 [Introducing Redux Offline: Offline-First Architecture for Progressive Web Applications and React Native](https://hackernoon.com/introducing-redux-offline-offline-first-architecture-for-progressive-web-applications-and-react-68c5167ecfe0)
 (Jani Eväkallio - Mar 28, 2017)
 
@@ -67,6 +70,9 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 [Send messages when you’re back online with Service Workers and Background Sync](https://www.twilio.com/blog/2017/02/send-messages-when-youre-back-online-with-service-workers-and-background-sync.html)
 (Phil Nash - Feb 17, 2017)
+
+[Easy Offline First Apps With Webpack's Offline Plugin](https://dev.to/kayis/easy-offline-first-apps-with-webpacks-offline-plugin)
+(Kay Plößer - Feb 12, 2017)
 
 [Offline First React Native + Meteor Apps](https://hackernoon.com/offline-first-react-native-meteor-apps-2bee8e976ec7)
 (Spencer Carli - Feb 8, 2017)
@@ -193,6 +199,9 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 (Offline Google Analytics Made Easy)[https://developers.google.com/web/updates/2016/07/offline-google-analytics]
 (Jeff Posnick - Jul, 2016)
+
+(Security in Offline First Apps)[https://medium.com/offline-camp/offline-first-security-59bf4800e82a]
+(Calvin Metcalf - Jul 8, 2016)
 
 [My blog's Service Worker and Caching Strategy](https://paul.kinlan.me/my-blogs-service-worker-and-caching-strategy/)
 (Paul Kinlan - Jun 15, 2016)

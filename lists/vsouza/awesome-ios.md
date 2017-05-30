@@ -220,7 +220,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AlamofireOauth2 ★67](evermeer/AlamofireOauth2) - A swift implementation of OAuth2 :large_orange_diamond:
 * [SwiftyOAuth ★450](delba/SwiftyOAuth) - A simple OAuth library for iOS with a built-in set of providers :large_orange_diamond:
 * [Simplicity ★601](SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and OS X apps. :large_orange_diamond:
-* [InstagramAuthViewController ★32](Isuru-Nanayakkara/InstagramAuthViewController) - A ViewController for Instagram authentication. :large_orange_diamond:
+* [InstagramAuthViewController ★32 ⏳1Y](Isuru-Nanayakkara/InstagramAuthViewController) - A ViewController for Instagram authentication. :large_orange_diamond:
 * [Cely ★64](chaione/Cely) - Plug-n-Play login framework written in Swift. :large_orange_diamond:
 
 ## Bridging
@@ -719,7 +719,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AudioBus](https://developer.audiob.us/) - Add Next Generation Live App-to-App Audio Routing.
 * [AudioKit ★3526](audiokit/AudioKit) - A powerful toolkit for synthesizing, processing, and analyzing sounds. :large_orange_diamond:
 * [EZAudio ★3900](syedhali/EZAudio) - An iOS/OSX audio visualization framework built upon Core Audio useful for anyone doing real-time, low-latency audio processing and visualizations.
-* [novocaine ★2034](alexbw/novocaine) - Painless high-performance audio on iOS and Mac OS X.
+* [novocaine ★2034 ⏳1Y](alexbw/novocaine) - Painless high-performance audio on iOS and Mac OS X.
 * [QHSpeechSynthesizerQueue ★24 ⏳1Y](quentinhayot/QHSpeechSynthesizerQueue) - Queue management system for AVSpeechSynthesizer (iOS Text to Speech).
 * [Cephalopod ★75](evgenyneu/Cephalopod) - A sound fader for AVAudioPlayer written in Swift. :large_orange_diamond:
 * [Chirp ★303](trifl/Chirp) - The easiest way to prepare, play, and remove sounds in your Swift app! :large_orange_diamond:

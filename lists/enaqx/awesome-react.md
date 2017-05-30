@@ -347,7 +347,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-pad - Authoring tool for React components ★3 ⏳3Y](andreypopp/react-pad)
 * [ogre.js - Object graph manager, built with ReactJS in mind ★4 ⏳2Y](elucidata/ogre.js)
 * [react-scroll-components - A set of components that react to page scrolling ★111](jeroencoumans/react-scroll-components)
-* [react-fullscreen-component - Create fullscreen toggles ★31 ⏳1Y](jeroencoumans/react-fullscreen-component)
+* [react-fullscreen-component - Create fullscreen toggles ★31 ⏳2Y](jeroencoumans/react-fullscreen-component)
 * [react-frozenhead - Make your whole page a React component and render it on the server ★55 ⏳2Y](matthewwithanm/react-frozenhead)
 * [react-document-title - declarative, nested, stateful document.title ★858](gaearon/react-document-title)
 * [react-tags - A simple wrapper around React.DOM ★5 ⏳3Y](adelevie/react-tags)

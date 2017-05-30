@@ -693,7 +693,7 @@ Ranked awesome lists, all in one place
 - [Serverless (v1.0) Python Sample ★28](bennybauer/serverless-python-sample) - A simple Serverless Python sample with REST API endpoints and dependencies.
 - [Express to AWS Lambda](https://github.com/johncmckim/express-to-aws-lambda) - Code of the "Express to AWS Lambda" blog post series.
 - [Serverless HipChat connect](https://bitbucket.org/gorillastack/serverless-hipchat-connect) - Using Atlassian connect with Serverless.
-- [Serverless MongoDB ★16](pcorey/serverless-mongodb) - Example project on how to use Serverless and MongoDB.
+- [Serverless MongoDB ★16 ⏳1Y](pcorey/serverless-mongodb) - Example project on how to use Serverless and MongoDB.
 - [Serverless npm registry ★5](mgrenier/serverless-npm-registry) - Npm registry built with the help of the Serverless framework.
 - [AWS Serverless SoundCloud ★3](trunghieu138/aws-serverless-soundcloud) - Get artists tracks from SoundCloud.
 - [PhantomJS Lambda pack ★37](justengland/phantomjs-lambda-pack) - PhantomJS wrapper for AWS Lambda.

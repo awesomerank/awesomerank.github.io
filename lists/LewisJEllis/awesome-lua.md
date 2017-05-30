@@ -265,7 +265,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [pgmoon ★129](leafo/pgmoon) - Lua PostgreSQL driver for OpenResty and others.
 - [lua-resty-mysql ★322](openresty/lua-resty-mysql) - Lua MySQL driver for OpenResty.
 - [lua-resty-redis ★796](openresty/lua-resty-redis) - Lua Redis client driver for OpenResty.
-- [lua-resty-cassandra ★60 ⏳1Y](jbochi/lua-resty-cassandra) - Lua Cassandra client driver for OpenResty and others.
+- [lua-resty-cassandra ★60 ⏳2Y](jbochi/lua-resty-cassandra) - Lua Cassandra client driver for OpenResty and others.
 
 
 ### Testing

@@ -483,7 +483,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Email
 
 * [Griddler ★1149](thoughtbot/griddler) - Simplify receiving email in Rails
-* [Incoming ★301 ⏳2Y](honeybadger-io/incoming) - Incoming! helps you receive email in your Rack apps.
+* [Incoming ★301 ⏳3Y](honeybadger-io/incoming) - Incoming! helps you receive email in your Rack apps.
 * [LetterOpener ★2578](ryanb/letter_opener) - Preview mail in the browser instead of sending.
 * [Mail ★2690](mikel/mail) - A Really Ruby Mail Library.
 * [MailCatcher](http://mailcatcher.me) - Catches mail and serves it through a dream.
@@ -890,6 +890,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [Feed normalizer ★134 ⏳3Y](aasmith/feed-normalizer) - Extensible Ruby wrapper for Atom and RSS parsers.
 * [Feedjira ★1873](feedjira/feedjira) - A feed fetching and parsing library.
+* [feedparser ★46](feedparser/feedparser) - A feed parser and normalizer (Atom, RSS, JSON, etc) library.
 * [Ratom ★98 ⏳2Y](seangeo/ratom) - A fast, libxml based, Ruby Atom library.
 * [Simple rss ★202](cardmagic/simple-rss) - A simple, flexible, extensible, and liberal RSS and Atom reader.
 * [Stringer ★2658](swanson/stringer) - A self-hosted, anti-social RSS reader.

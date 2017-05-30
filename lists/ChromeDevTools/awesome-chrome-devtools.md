@@ -27,11 +27,12 @@ Ranked awesome lists, all in one place
 - [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
 
 ### Protocol driver libraries (in various languages)
-- [chrome-remote-interface ★1328](cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
-- [chrome-debugging-client ★18](krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
-- [cdp4j ★13](webfolderio/cdp4j) - Java library for CDP
-- [chromote ★228](iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
-- [cdp ★8](mafredri/cdp) - A Golang library for the protocol
+- JavaScript/Node.js: [chrome-remote-interface ★1328](cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
+- TypeScript/Node.js: [chrome-debugging-client ★18](krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
+- Java: [cdp4j ★13](webfolderio/cdp4j) - Java library for CDP
+- Python: [chromote ★228](iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
+- Go: [cdp ★8](mafredri/cdp) - A Golang library for the protocol
+- Go: [gcd ★99](wirepair/gcd) - A different client library in Go
 
 ### Using protocol 
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes

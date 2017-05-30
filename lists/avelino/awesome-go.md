@@ -7,16 +7,13 @@ Ranked awesome lists, all in one place
 ---
 # Awesome Go [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Join the chat at https://gitter.im/avelino/awesome-go](https://badges.gitter.im/avelino/awesome-go.svg)](https://gitter.im/avelino/awesome-go?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-
 A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python ★34408](vinta/awesome-python).
-
 
 ### Contributing
 
 Please take a quick gander at the [contribution guidelines](https://github.com/avelino/awesome-go/blob/master/CONTRIBUTING.md) first. Thanks to all [contributors](https://github.com/avelino/awesome-go/graphs/contributors); you rock!
 
 #### *If you see a package or project here that is no longer maintained or is not a good fit, please submit a pull request to improve this file. Thank you!*
-
 
 ### Contents
 
@@ -93,7 +90,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     - [Websites](#websites)
         - [Tutorials](#tutorials)
 
-
 ## Audio/Music
 
 *Libraries for manipulating audio.*
@@ -113,7 +109,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [taglib ★50 ⏳1Y](wtolson/go-taglib) - Go bindings for taglib.
 * [vorbis ★15 ⏳1Y](mccoyst/vorbis) - A "native" Go Vorbis decoder (uses CGO, but has no dependencies).
 * [waveform ★177](mdlayher/waveform) - Go package capable of generating waveform images from audio streams.
-
 
 ## Authentication & OAuth
 
@@ -141,13 +136,11 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [traefik ★8153](containous/traefik) - A reverse proxy and load balancer with support for multiple backends.
 * [yubigo ★75](GeertJohan/yubigo) - a Yubikey client package that provides a simple API to integrate the Yubico Yubikey into a go application.
 
-
 ## Command Line
-
 
 ### Standard CLI
 
-*Libraries for building standard or basic Command Line applications*
+*Libraries for building standard or basic Command Line applications.*
 
 * [argv ★1](cosiner/argv) - A Go library to split command line string as arguments array using the bash syntax.
 * [cli ★270](mkideal/cli) - A feature-rich and easy to use command-line package based on golang tag
@@ -172,10 +165,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [wlog ★15](dixonwille/wlog) - A simple logging interface that supports cross-platform color and concurrency.
 * [wmenu ★27](dixonwille/wmenu) - An easy to use menu structure for cli applications that prompts users to make choices.
 
-
 ### Advanced Console UIs
 
-*Libraries for building Console Applications and Console User Interfaces*
+*Libraries for building Console Applications and Console User Interfaces.*
 
 * [aurora ★232](logrusorgru/aurora) - ANSI terminal colors that supports fmt.Printf/Sprintf
 * [chalk ★200](ttacon/chalk) - Intuitive package for prettifying terminal/console output.
@@ -194,10 +186,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [uiprogress ★943](gosuri/uiprogress) - A flexible library to render progress bars in terminal applications.
 * [uitable ★379 ⏳1Y](gosuri/uitable) - A library to improve readability in terminal apps using tabular data.
 
-
 ## Configuration
 
-*Libraries for configuration parsing*
+*Libraries for configuration parsing.*
 
 * [config ★107](olebedev/config) - JSON or YAML configuration wrapper with environment variables and flags parsing.
 * [configure ★25 ⏳1Y](paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables.
@@ -218,7 +209,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 ## Continuous Integration
 
-*Tools for help with continuous integration*
+*Tools for help with continuous integration.*
 
 * [drone ★9765](drone/drone) - Drone is a Continuous Integration platform built on Docker, written in Go
 * [goveralls ★385](mattn/goveralls) - Go integration for Coveralls.io continuous code coverage tracking system.
@@ -226,7 +217,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 ## CSS Preprocessors
 
-*Libraries for preprocessing CSS files*
+*Libraries for preprocessing CSS files.*
 
 * [c6 ★375](c9s/c6) - High performance SASS compatible-implementation compiler written in Go
 * [gcss ★377 ⏳2Y](yosssi/gcss) - Pure Go CSS Preprocessor.
@@ -328,7 +319,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [Squirrel ★1117](Masterminds/squirrel) - Go library that helps you build SQL queries.
 * [xo ★1088](knq/xo) - Generate idiomatic Go code for databases based on existing schema definitions or custom queries supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server.
 
-
 ## Database Drivers
 
 *Libraries for connecting and operating databases.*
@@ -372,6 +362,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * Search and Analytic Databases
     * [bleve ★3265](blevesearch/bleve) - A modern text indexing library for go.
     * [elastic ★1370](olivere/elastic) - Elasticsearch client for Go.
+    * [elasticsql ★59](cch123/elasticsql) - Convert sql to elasticsearch dsl in Go.
     * [elastigo ★854](mattbaird/elastigo) - A Elasticsearch client library.
     * [goes ★72](belogik/goes) - A library to interact with Elasticsearch.
     * [skizze ★41 ⏳1Y](seiflotfy/skizze) - A probabilistic data-structures service and storage.
@@ -388,7 +379,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [now ★855](jinzhu/now) - Now is a time toolkit for golang.
 * [NullTime ★3](kirillDanshin/nulltime) - Nullable time.Time
 * [timeutil ★130 ⏳1Y](leekchan/timeutil) - Useful extensions (Timedelta, Strftime, ...) to the golang's time package.
-
 
 ## Distributed Systems
 
@@ -420,7 +410,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 ## Email
 
-*Libraries that implement email creation and sending*
+*Libraries that implement email creation and sending.*
 
 * [douceur ★92](aymerick/douceur) - CSS inliner for your HTML emails.
 * [email ★765](jordan-wright/email) - A robust and flexible email library for Go.
@@ -434,11 +424,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [SendGrid ★253](sendgrid/sendgrid-go) - SendGrid's Go library for sending email
 * [smtp ★31](mailhog/smtp) - SMTP server protocol state machine
 
-
-
 ## Embeddable Scripting Languages
 
-*Embedding other languages inside your go code*
+*Embedding other languages inside your go code.*
 
 * [agora](https://github.com/PuerkitoBio/agora) - Dynamically typed, embeddable programming language in Go
 * [anko ★388](mattn/anko) - Scriptable interpreter written in Go
@@ -454,19 +442,17 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [otto ★2945](robertkrimen/otto) - A JavaScript interpreter written in Go
 * [purl ★16 ⏳2Y](ian-kent/purl) - Perl 5.18.2 embedded in Go
 
-
 ## Files
 
-*Libraries for  handling files and file systems*
+*Libraries for  handling files and file systems.*
 
 * [afero ★983](spf13/afero) - A FileSystem Abstraction System for Go.
 * [notify ★233](rjeczalik/notify) - File system event notification library with simple API, similar to os/signal.
 * [tarfs ★9](posener/tarfs) - An implementation of the [`FileSystem` interface](https://godoc.org/github.com/kr/fs#FileSystem) for tar files.
 
-
 ## Financial
 
-*Packages for accounting and finance*
+*Packages for accounting and finance.*
 
 * [accounting ★281](leekchan/accounting) - money and currency formatting for golang
 * [decimal ★513](shopspring/decimal) - Arbitrary-precision fixed-point decimal numbers
@@ -474,7 +460,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-money ★320](rhymond/go-money) - Implementation of Fowler's Money pattern
 * [ofxgo ★8](aclindsa/ofxgo) - Query OFX servers and/or parse the responses (with example command-line client)
 * [vat ★33](dannyvankooten/vat) - VAT number validation & EU VAT rates
-
 
 ## Forms
 
@@ -488,7 +473,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [forms ★69](albrow/forms) - A framework-agnostic library for parsing and validating form/JSON data which supports multipart forms and files.
 * [gorilla/csrf ★196](gorilla/csrf) - CSRF protection for Go web applications & services.
 * [nosurf ★746](justinas/nosurf) - A CSRF protection middleware for Go.
-
 
 ## Game Development
 
@@ -509,10 +493,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [raylib-go ★151](gen2brain/raylib-go) - Go bindings for [raylib](http://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 * [termloop ★745](JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox
 
-
 ## Generation & Generics
 
-*Tools to enhance the language with features like generics via code generation*
+*Tools to enhance the language with features like generics via code generation.*
 
 * [efaceconv ★19](t0pep0/efaceconv) - Code generation tool for high performance conversion from interface{} to immutable type without allocations
 * [gen ★799](clipperhouse/gen) - Code generation tool for ‘generics’-like functionality.
@@ -521,19 +504,17 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [jennifer ★472](dave/jennifer) - Generate arbitrary Go code without templates.
 * [pkgreflect ★53](ungerik/pkgreflect) - A Go preprocessor for package scoped reflection.
 
-
 ## Go Compilers
 
-*Tools for compiling Go to other languages*
+*Tools for compiling Go to other languages.*
 
 * [gopherjs ★5175](gopherjs/gopherjs) - A compiler from Go to JavaScript.
 * [llgo ★818 ⏳2Y](go-llvm/llgo) - LLVM-based compiler for Go.
 * [tardisgo ★338](tardisgo/tardisgo) - Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.
 
-
 ## Goroutines
 
-*Tools for managing and working with Goroutines*
+*Tools for managing and working with Goroutines.*
 
 * [go-flow ★36](kamildrazkiewicz/go-flow) - Control goroutines execution order.
 * [goworker ★1689](benmanns/goworker) - goworker is a Go-based background worker
@@ -542,10 +523,9 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [semaphore ★3](kamilsk/semaphore) - Semaphore pattern implementation with timeout of lock/unlock operations based on channel and context.
 * [tunny ★507](Jeffail/tunny) - A goroutine pool for golang.
 
-
 ## GUI
 
-*Libraries for building GUI Applications*
+*Libraries for building GUI Applications.*
 
 * [app ★1583](murlokswarm/app) - Package to create apps with GO, HTML and CSS.
 * [go-astilectron ★282](asticode/go-astilectron) - Build cross platform GUI apps with GO and HTML/JS/CSS (powered by Electron)
@@ -561,7 +541,6 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [trayhost ★97](shurcooL/trayhost) - Cross-platform Go library to place an icon in the host operating system's taskbar.
 * [ui ★4093](andlabs/ui) - Platform-native GUI library for Go.
 * [walk ★1841](lxn/walk) - Windows application library kit for Go.
-
 
 ## Hardware
 
@@ -671,10 +650,9 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [regommend ★153](muesli/regommend) - Recommendation & collaborative filtering engine
 * [shield ★98 ⏳1Y](eaigner/shield) - Bayesian text classifier with flexible tokenizers and storage backends for Go
 
-
 ## Messaging
 
-*Libraries that implement messaging systems*
+*Libraries that implement messaging systems.*
 
 * [Centrifugo ★1845](centrifugal/centrifugo) - Real-time messaging (Websockets or SockJS) server in Go.
 * [dbus ★154](godbus/dbus) - Native Go bindings for D-Bus.
@@ -703,10 +681,9 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [Uniqush-Push ★905](uniqush/uniqush-push) - A redis backed unified push service for server-side notifications to mobile devices.
 * [zmq4](https://github.com/pebbe/zmq4) - A Go interface to ZeroMQ version 4. Also available for [version 3](https://github.com/pebbe/zmq3) and [version 2 ★14](pebbe/zmq2).
 
-
 ## Miscellaneous
 
-*These libraries were placed here because none of the other categories seemed to fit*
+*These libraries were placed here because none of the other categories seemed to fit.*
 
 * [alice ★3](magic003/alice) - An additive dependency injection container for Golang.
 * [archiver ★486](mholt/archiver) - Library and command for making and extracting .zip and .tar.gz archives
@@ -776,7 +753,7 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 
 ## Networking
 
-*Libraries for working with various layers of the network*
+*Libraries for working with various layers of the network.*
 
 * [arp ★87](mdlayher/arp) - Package arp implements the ARP protocol, as described in RFC 826.
 * [buffstreams ★160 ⏳1Y](stabbycutyou/buffstreams) - Streaming protocolbuffer data over TCP made easy
@@ -828,7 +805,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [goxjs/glfw ★43](goxjs/glfw) - Go cross-platform glfw library for creating an OpenGL context and receiving events.
 * [mathgl ★168](go-gl/mathgl) - Pure Go math package specialized for 3D math, with inspiration from GLM.
 
-
 ## ORM
 
 *Libraries that implement Object-Relational Mapping or datamapping techniques.*
@@ -865,9 +841,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [nut ★249 ⏳1Y](jingweno/nut) - Vendor Go dependencies
 * [VenGO ★98](DamnWidget/VenGO) - create and manage exportable isolated go virtual environments
 
-
-
-
 ## Query Language
 
 * [graphql ★41](tmc/graphql) - graphql parser + utilities.
@@ -875,7 +848,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [graphql ★528](neelance/graphql-go) - GraphQL server with a focus on ease of use.
 * [graphql-go ★1392](graphql-go/graphql) - An implementation of GraphQL for Go.
 * [jsonql ★94](elgs/jsonql) - JSON query expression library in Golang.
-
 
 ## Resource Embedding
 
@@ -889,7 +861,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [statik ★475](rakyll/statik) - Embeds static files into a Go executable
 * [templify ★3](wlbr/templify) - Embed external template files into Go code to create single file binaries.
 * [vfsgen ★164](shurcooL/vfsgen) - Generates a vfsdata.go file that statically implements the given virtual filesystem.
-
 
 ## Science and Data Analysis
 
@@ -919,7 +890,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [streamtools ★1290 ⏳1Y](nytlabs/streamtools) - general purpose, graphical tool for dealing with streams of data.
 * [vectormath ★55 ⏳4Y](spate/vectormath) - Vectormath for Go, an adaptation of the scalar C functions from Sony's Vector Math library, as found in the Bullet-2.79 source code. (currently inactive)
 
-
 ## Security
 
 *Libraries that are used to help make your application more secure.*
@@ -934,7 +904,7 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 
 ## Serialization
 
-*Libraries and tools for binary serialization*
+*Libraries and tools for binary serialization.*
 
 * [asn1 ★16](PromonLogicalis/asn1) - Asn.1 BER and DER encoding library for golang
 * [colfer ★225](pascaldekloe/colfer) - Code generation for the Colfer binary format
@@ -947,7 +917,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [php_session_decoder ★69](yvasiyarov/php_session_decoder) - GoLang library for working with PHP session format and PHP Serialize/Unserialize functions
 * [structomap ★50 ⏳2Y](tuvistavie/structomap) - Library to easily and dynamically generate maps from static structures.
 
-
 ## Server Applications
 
 * [algernon ★335](xyproto/algernon) - HTTP/2 web server with built-in support for Lua, Markdown, GCSS and Amber.
@@ -958,7 +927,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [minio ★6931](minio/minio) - Minio is a distributed object storage server.
 * [nsq](http://nsq.io/) - A realtime distributed messaging platform
 * [yakvs ★17](sci4me/yakvs) - A small, networked, in-memory key-value store.
-
 
 ## Template Engines
 
@@ -1074,7 +1042,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
     * [parth ★14](codemodus/parth) - URL path segmentation parsing.
     * [xurls ★261](mvdan/xurls) - Extract urls from text
 
-
 ## Third-party APIs
 
 *Libraries for accessing third party APIs.*
@@ -1110,7 +1077,7 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [golyrics ★16](mamal72/golyrics) - Golyrics is a Go library to fetch music lyrics data from the Wikia website.
 * [GoMusicBrainz ★21](michiwend/gomusicbrainz) - a Go MusicBrainz WS2 client library.
 * [google ★1030](google/google-api-go-client) - Auto-generated Google APIs for Go.
-* [google-analytics ★7 ⏳1Y](chonthu/go-google-analytics) - A simple wrapper for easy google analytics reporting.
+* [google-analytics ★7 ⏳2Y](chonthu/go-google-analytics) - A simple wrapper for easy google analytics reporting.
 * [google-cloud](https://github.com/GoogleCloudPlatform/gcloud-golang) - Google Cloud APIs Go Client Library.
 * [google-email-audit-api ★3](ngs/go-google-email-audit-api) - Go client library for [Google G Suite Email Audit API](https://developers.google.com/admin-sdk/email-audit/).
 * [gostorm ★92](jsgilmore/gostorm) - GoStorm is a Go library that implements the communications protocol required to write Storm spouts and Bolts in Go that communicate with the Storm shells.
@@ -1244,7 +1211,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [xferspdy ★33](monmohan/xferspdy) - Xferspdy provides binary diff and patch library in golang
 * [xlsx ★1674](tealeg/xlsx) - Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs.
 
-
 ## Validation
 
 *Libraries for validation.*
@@ -1253,7 +1219,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [ozzo-validation ★363](go-ozzo/ozzo-validation) - Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags.
 * [validate ★8](markbates/validate) - This package provides a framework for writing validations for Go applications.
 * [validator ★961](go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.
-
 
 ## Version Control
 
@@ -1264,7 +1229,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [go-vcs ★49](sourcegraph/go-vcs) - manipulate and inspect VCS repositories in Go.
 * [hgo ★9 ⏳1Y](beyang/hgo) - Hgo is a collection of Go packages providing read-access to local Mercurial repositories.
 
-
 ## Video
 
 *Libraries for manipulating video.*
@@ -1273,7 +1237,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [goav ★314](giorgisio/goav) - Comphrensive Go bindings for FFmpeg.
 * [gst ★129 ⏳1Y](ziutek/gst) - Go bindings for GStreamer.
 * [v4l ★9](korandiz/v4l) - A video capture library for Linux, written in Go.
-
 
 ## Web Frameworks
 
@@ -1312,23 +1275,20 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [YARF ★36](yarf-framework/yarf) - Fast micro-framework designed to build REST APIs and web services in a fast and simple way.
 * [Zerver ★142 ⏳1Y](cosiner/zerver) - Zerver is an expressive, modular, feature completed RESTful framework.
 
-
 ## Windows
 
 * [d3d9 ★30](gonutz/d3d9) - Go bindings for Direct3D9
 * [go-ole ★287](go-ole/go-ole) - Win32 OLE implementation for golang.
 
-
 ## XML
 
-*Libraries and tools for manipulating XML*
+*Libraries and tools for manipulating XML.*
 
 * [go-pkg-xmlx ★122](jteeuwen/go-pkg-xmlx) - Extension to the standard Go XML package. Maintains a node tree that allows forward/backwards browsing and exposes some simple single/multi-node search functions.
 * [XML-Comp ★5](xml-comp/xml-comp) - Simple command line XML comparer that generates diffs of folders, files and tags.
 * [xmlwriter ★0](shabbyrobe/xmlwriter) - Procedural XML generation API based on libxml2's xmlwriter module.
 * [xpath ★12](antchfx/xpath) - XPath package for Go.
 * [xquery ★58](antchfx/xquery) - XQuery lets you extract data from HTML/XML documents using XPath expression.
-
 
 ### Middlewares
 
@@ -1355,7 +1315,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [stats ★418](thoas/stats) - A Go middleware that stores various information about your web application.
 * [Volatile ★80 ⏳1Y](volatile/core) - Minimalist middleware stack promoting flexibility, good practices and clean code.
 
-
 ### Routers
 
 * [alien ★76](gernest/alien) - A lightweight and fast http router from outer space
@@ -1378,11 +1337,9 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [xmux ★67 ⏳1Y](rs/xmux) - A high performance muxer based on `httprouter` with `net/context` support.
 * [zeus ★107](daryl/zeus) - A very simple and fast HTTP router for Go.
 
-
 # Tools
 
-Go software and plugins.
-
+*Go software and plugins.*
 
 ## Code Analysis
 
@@ -1407,7 +1364,6 @@ Go software and plugins.
 * [unconvert ★172](mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 * [validate ★60 ⏳1Y](mccoyst/validate) - Automatically validates struct fields with tags.
-
 
 ## Editor Plugins
 
@@ -1436,8 +1392,7 @@ Go software and plugins.
 
 ## Software Packages
 
-Software written in Go.
-
+*Software written in Go.*
 
 ### DevOps Tools
 
@@ -1526,16 +1481,9 @@ Software written in Go.
 * [websysd](https://github.com/ian-kent/websysd) - Web based process manager (like Marathon or Upstart).
 * [wellington ★241](wellington/wellington) - Sass project management tool, extends the language with sprite functions (like Compass).
 
-
-
-
-
-
-
 # Resources
 
-Where to discover new Go libraries.
-
+*Where to discover new Go libraries.*
 
 ## Benchmarks
 
@@ -1553,7 +1501,6 @@ Where to discover new Go libraries.
 * [kvbench ★11 ⏳3Y](jimrobinson/kvbench) - Key/Value database benchmark.
 * [skynet ★753](atemerev/skynet) - Skynet 1M threads microbenchmark.
 * [speedtest-resize ★103](fawick/speedtest-resize) - Compare various Image resize algorithms for the Go language.
-
 
 ## Conferences
 
@@ -1587,7 +1534,6 @@ Where to discover new Go libraries.
 * [@golang_news](https://twitter.com/golang_news)
 * [@golangweekly](https://twitter.com/golangweekly)
 
-
 ## Websites
 
 * [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
@@ -1609,7 +1555,6 @@ Where to discover new Go libraries.
 * [r/Golang](https://www.reddit.com/r/golang) - News about Go.
 * [Trending Go repositories on GitHub today](https://github.com/trending?l=go) - Good place to find new Go libraries.
 
-
 ### Tutorials
 
 * [A Tour of Go](http://tour.golang.org/) - Interactive tour of Go.
@@ -1620,8 +1565,6 @@ Where to discover new Go libraries.
 * [Go database/sql tutorial](http://go-database-sql.org/) - Introduction to database/sql.
 * [How to Use Godog for Behavior-driven Development in Go](https://semaphoreci.com/community/tutorials/how-to-use-godog-for-behavior-driven-development-in-go) - Get started with Godog — a Behavior-driven development framework for building and testing Go applications.
 * [Working with Go ★682](mkaz/working-with-go) - An intro to go for experienced programmers.
-
-
 
 ## Support on Beerpay
 Hey dude! Help me out for a couple of :beers:!

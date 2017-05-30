@@ -761,7 +761,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [bump ★2](evanfarrar/ex_bump) - A BMP file writer in pure Elixir.
 * [chunky_svg ★18](mmmries/chunky_svg) -  A library for drawing things with SVG.
 * [cloudex ★22](smeevil/cloudex) - Cloudex is an Elixir library that can upload image files or urls to Cloudinary.
-* [eikon ★8](tchoutri/Eikon) - An Elixir library providing a read-only interface for image files.
+* [eikon ★8 ⏳1Y](tchoutri/Eikon) - An Elixir library providing a read-only interface for image files.
 * [elixir_exif ★10](sschneider1207/ElixirExif) - Parse exif tags and thumbnail data from jpeg files.
 * [ex_image_info ★6](rNoz/ex_image_info) - An Elixir library to parse images (binaries) and get the dimensions, detected mime-type and overall validity for a set of image formats.
 * [exexif ★9](pragdave/exexif) - Pure Elixir library to extract TIFF and EFIX metadata from jpeg files.
@@ -1100,7 +1100,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cspex ★6 ⏳1Y](costaraphael/cspex) - Simple, OTP compliant, Elixir implementation of CSP channels.
 * [dbus ★5 ⏳2Y](aforward/sadbus) - A dumb message bus for sharing data between microservices decoupled using Redis.
 * [elixir_nsq ★42](wistia/elixir_nsq) - NSQ client library for Elixir.
-* [elixir_talk ★16](jsvisa/elixir_talk) - An Elixir client for beanstalkd.
+* [elixir_talk ★16 ⏳1Y](jsvisa/elixir_talk) - An Elixir client for beanstalkd.
 * [enm ★83](basho/enm) - enm is an Erlang port driver that wraps the nanomsg C library.
 * [exdisque](https://github.com/mosic/exdisque) - Elixir client for [Disque ★6190](antirez/disque), an in-memory, distributed job queue.
 * [exq ★607](akira/exq) - Job processing library for Elixir - compatible with Resque/Sidekiq.

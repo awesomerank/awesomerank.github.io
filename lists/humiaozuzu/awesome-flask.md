@@ -173,7 +173,7 @@ Plugins
     - [Flask-Analytics ★38](citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework.
 - Other SDK
     - [Flask-GoogleMaps ★303](rochacbruno/Flask-GoogleMaps) - Build and embed google maps in our Flask templates
-    - [Flask-Dropbox ★56 ⏳3Y](playpauseandstop/Flask-Dropbox) - Dropbox Python SDK support for Flask applications
+    - [Flask-Dropbox ★56 ⏳4Y](playpauseandstop/Flask-Dropbox) - Dropbox Python SDK support for Flask applications
     - [Flask-Heroku](https://github.com/kennethreitz/flask-heroku) - Heroku environment variable configurations for Flask
     - [Flask-Gravatar ★63](zzzsochi/Flask-Gravatar) - Small and simple gravatar usage in Flask
     - [Flask-WeasyPrint ★65 ⏳1Y](Kozea/Flask-WeasyPrint) - Make PDF in your Flask app with WeasyPrint

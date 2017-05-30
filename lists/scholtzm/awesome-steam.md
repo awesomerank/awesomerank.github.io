@@ -119,10 +119,16 @@ The purpose of this document is to provide a quick overview over existing packag
 
 ### Python
 
+#### General
+
 - [steam ★83](ValvePython/steam) - Module for various interactions with Steam.
 - [PySteamKit](https://bitbucket.org/AzuiSleet/pysteamkit) - Python port of SteamKit.
 - [steamodd ★58 ⏳1Y](Lagg/steamodd) - Steam tools library.
 - [steampy ★30](bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
+
+#### Misc
+
+- [backpack.py ★2](Zwork101/backpack.py) - Library for interacting with backpack.tf.
 
 ### C++
 

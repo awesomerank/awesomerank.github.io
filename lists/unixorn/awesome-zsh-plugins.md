@@ -587,6 +587,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [itg ★28 ⏳1Y](itsthatguy/itg.zsh-theme) - itsthatguy's theme.
 * [jcl-zsh-theme ★2 ⏳3Y](jasonlewis/jcl-zsh-theme) - Loosely based on the ys theme.
 * [judgedim ★0 ⏳2Y](judgedim/oh-my-zsh-judgedim-theme) - Minimalist prompt.
+* [keloran ★0](Keloran/keloran.zsh-theme) - Theme that includes a few features from other themes
 * [kimwz ★3](kimwz/kimwz-oh-my-zsh-theme) - Minimal theme.
 * [kketcham ★0 ⏳2Y](prototype27/kketcham) - Theme with nifty colors on the git info.
 * [klendathu ★0 ⏳1Y](kegonomics/klendathu) - Uses Powerline iconsolas.

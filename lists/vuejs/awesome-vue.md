@@ -607,6 +607,7 @@ Tooltips / popovers
  - [vue-echarts-v3 ★332](xlsdg/vue-echarts-v3) - Vue.js(v2.x+) component wrap for ECharts.js(v3.x+).
  - [vue-chartist ★6](lakb248/vue-chartist) - Vue.js 2.0 component wrap for Chartist.
  - [g2-vue ★8](fireyy/g2-vue) - Factory wrapper for using G2 easily in a Vue Component.
+ - [vuebars ★2](DeviaVir/vue-bar) - Simple, elegant spark bars for Vue.js.
 
 ### Time
 
