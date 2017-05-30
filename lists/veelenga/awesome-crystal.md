@@ -543,6 +543,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [linter-crystal](https://atom.io/packages/linter-crystal) - Lint Crystal using the Crystal compiler in Atom
  * Emacs
    * [emacs-crystal-mode ★13](dotmilk/emacs-crystal-mode) - Crystal language support for Emacs
+   * [play-crystal.el ★0](veelenga/play-crystal.el) - [play.crystal-lang.org](https://play.crystal-lang.org/#/cr) integration in Emacs
  * Spacemacs
    * [crystal-spacemacs-layer ★8](juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
  * Sublime
@@ -550,6 +551,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * TextMate
    * [Crystal.tmbundle ★3](huacnlee/Crystal.tmbundle) - Crystal syntax highlighting, compile, format command, snippets
  * Vim
+   * [carcin.vim ★5 ⏳1Y](MakeNowJust/carcin.vim) - Vim plugin to provide utility functions for carc.in
    * [vim-crystal ★164](rhysd/vim-crystal) - Vim filetype support for Crystal
    * [vim-slang](https://github.com/isaacsloan/vim-slang) - Vim filetype support for Slang Templating Engine
  * Visual Studio Code

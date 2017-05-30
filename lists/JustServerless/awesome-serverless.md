@@ -510,6 +510,7 @@ Ranked awesome lists, all in one place
 - [Serverless app to analyze CloudFront access logs](https://aws.amazon.com/de/blogs/big-data/build-a-serverless-architecture-to-analyze-amazon-cloudfront-access-logs-using-aws-lambda-amazon-athena-and-amazon-kinesis-analytics/) - How to build a serverless architecture to analyze Amazon CloudFront access logs.
 - [What’s the community saying about serverless?](https://read.acloud.guru/whats-the-community-saying-about-serverless-e733208ddd6d) - The 5 top blog post written by the community, for the community.
 - [What is Firebase?](https://cloudacademy.com/blog/what-is-firebase-serverless-for-mobile-developers/) - Post which explains Firebase - Serverless for mobile developers.
+- [Going serverless with Lambdas](http://blog.stack.foundation/2017/05/29/going-serverless-with-lambdas/) - Blog post series about StackFoundations move to a serverless architecture.
 
 ## Screencasts
 
@@ -538,6 +539,7 @@ Ranked awesome lists, all in one place
 - [Serverless conference 2017 debriefing](https://www.youtube.com/watch?v=7OPYapnBOzA) - Virtual Panel: ServerlessConf Austin 2017 debriefing.
 - [Serverless & GraphQL: A Love Story](https://www.youtube.com/watch?v=paInEUALg1Y) - Screencast by Cloud Academy and Nik Graf on serverless and GraphQL.
 - [Build a serverless web app](https://www.twitch.tv/videos/101322542) - How to build a serverless web app on AWS.
+- [Building a development workflow for serverless applications](https://www.youtube.com/watch?v=e3lreqpWN0A) - Webinar about development workflows for serverless applications.
 
 ## Talks
 
@@ -1039,6 +1041,7 @@ Ranked awesome lists, all in one place
 - [Domain manager ★7](amplify-education/serverless-domain-manager) - Plugin for managing custom domains with API Gateways.
 - [Encrypted ★1](nalbion/serverless-plugin-encrypted) - Encrypts Lambda environment variables using a KMS key.
 - [Localstack ★3](temyers/serverless-localstack) - Plugin for running against Atalssian Localstack.
+- [Purdyrest](https://www.npmjs.com/package/serverless-purdyrest) - Use Purdyrest with the Serverless Framework.
 
 ## Literature
 

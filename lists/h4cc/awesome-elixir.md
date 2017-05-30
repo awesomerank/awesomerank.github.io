@@ -1169,7 +1169,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mtx ★15 ⏳1Y](synrc/mtx) - MTX supports front-end API for tracking Histogram, Meter, Counter, Gauge, Timing keys.
 * [numerix ★43](safwank/Numerix) - A collection of useful mathematical functions with a slant towards statistics, linear algebra and machine learning.
 * [statistics ★47](msharp/elixir-statistics) - Some basic statistical functions for Elixir.
-* [wizard ★8](raywan/wizard) - Math and statistics functions for Elixir.
+* [wizard ★8 ⏳1Y](raywan/wizard) - Math and statistics functions for Elixir.
 
 ## Templating
 *Libraries parsing and helping with templates*

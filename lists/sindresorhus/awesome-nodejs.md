@@ -156,7 +156,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [wifi-password ★59](kevva/wifi-password-cli) - Get the current wifi password.
 - [wallpaper ★390](sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [brightness ★88 ⏳1Y](kevva/brightness-cli) - Change the screen brightness.
-- [torrent ★464](maxogden/torrent) - Download torrents.
+- [torrent ★464 ⏳1Y](maxogden/torrent) - Download torrents.
 - [tfa ★23](jasnell/tfa) - Two-factor authentication client.
 - [rtail ★1312 ⏳1Y](kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
 - [kill-tabs ★199](sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.

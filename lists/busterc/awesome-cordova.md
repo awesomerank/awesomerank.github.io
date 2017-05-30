@@ -54,7 +54,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
       - [generator-m-ionic ★666](mwaylabs/generator-m-ionic)
       - [generator-onsenui-ngcordova ★1](healthonnet/generator-onsenui-ngcordova)
       - [generator-polymer-cordova ★2 ⏳1Y](emoriarty/generator-polymer-cordova)
-      - [generator-redux-react-cordova ★20](zmeecer/generator-redux-react-cordova)
+      - [generator-redux-react-cordova ★20 ⏳1Y](zmeecer/generator-redux-react-cordova)
     - Icons + Splash Screens
       - [cordova-res-builder ★0 ⏳2Y](mettbox/cordova-res-builder)
       - [cordova-resource-generators ★36 ⏳1Y](busterc/cordova-resource-generators)

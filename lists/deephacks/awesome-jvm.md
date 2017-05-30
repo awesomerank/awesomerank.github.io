@@ -111,7 +111,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [high-scale-lib ★281 ⏳2Y](boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [hppc ★384](carrotsearch/hppc) - High Performance Primitive Collections.
 * [injector ★54 ⏳2Y](belliottsmith/injector) -  A new Executor for Java.
-* [javaslang](http://www.javaslang.io/) - Functional Library for Java 8+.
+* [java-string-similarity ★1241](tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [LevelDB ★744](dain/leveldb) - Rewrite (port) of LevelDB in Java.
@@ -144,8 +144,8 @@ A curated list of awesome JVM low level and performance related stuff.
 * [stormpot ★106 ⏳1Y](chrisvest/stormpot) - A fast object pool for the JVM.
 * [stream-lib ★1576](addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
-* [java-string-similarity ★1241](tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [transducers-java ★96 ⏳1Y](cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
+* [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
 * [Zero-Allocation-Hashing ★222](OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 
 ## Metaprogramming
@@ -200,7 +200,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [muxy ★553](mefellows/muxy) - Simulating real-world distributed system failures.
 * [Netty](http://netty.io/) - Async event-driven network library for high performance protocol servers & clients.
 * [okhttp ★20059](square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
-* [ReactiveSocket](http://reactivesocket.io/) - ReactiveSocket is an application protocol providing Reactive Streams semantics over an asynchronous, binary boundary.
+* [RSocket](http://rsocket.io/) - RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron.
 * [SimianArmy ★5485](Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
 * [pcap4j ★324](kaitoy/pcap4j) - Java library for capturing, crafting, and sending packets using libpcap.
 * [pig ★274](rafael-santiago/pig) - A Linux packet crafting tool.
@@ -304,6 +304,7 @@ A curated list of awesome JVM low level and performance related stuff.
 ## Documentation
 
 *Documentation related to JVM*
+* [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) - mini-post series where every post goes deep for only a single topic by Aleksey Shipilёv.
 * [Coordinated Omission problem](https://groups.google.com/forum/#!msg/mechanical-sympathy/icNZJejUHfE/BfDekfBEs_sJ) - Discussion on Mechanical Sympathy.
 * [False sharing](http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html) - Threads impact the performance of each other while modifying independent variables sharing the same cache line. Martin Thompson.
 * [The JVM specification](https://docs.oracle.com/javase/specs/jvms/se8/jvms8.pdf) - The Java Virtual

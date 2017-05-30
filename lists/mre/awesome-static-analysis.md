@@ -19,6 +19,7 @@ This is a collection of static analysis tools and code quality checkers.
   - [Ada](#ada)
   - [C/C++](#cc)
   - [C#](#c)
+  - [Crystal](#crystal)
   - [Elixir](#elixir)
   - [Erlang](#erlang)
   - [Go](#go)
@@ -29,6 +30,7 @@ This is a collection of static analysis tools and code quality checkers.
   - [JavaScript](#javascript)
   - [Kotlin](#kotlin)
   - [Lua](#lua)
+  - [MATLAB](#matlab)
   - [Perl](#perl)
   - [PHP](#php)
   - [Python](#python)
@@ -49,10 +51,15 @@ This is a collection of static analysis tools and code quality checkers.
   - [Configuration Management](#configuration-management)
   - [CSS](#css)
   - [HTML](#html)
+  - [IDE Plugins](#ide-plugins)
+  - [LaTeX](#latex)
   - [Makefiles](#makefiles)
+  - [Markdown](#markdown)
   - [Mobile](#mobile)
   - [Packages](#packages)
+  - [Template Languages](#template-languages)
   - [Web services](#web-services)
+  - [Writing](#writing)
 - [More Collections](#more-collections)
 
 
@@ -97,6 +104,10 @@ This is a collection of static analysis tools and code quality checkers.
 * [SonarLint for Visual Studio](https://github.com/SonarSource/sonarlint-vs) - SonarLint is a Visual Studio 2015 extension that provides on-the-fly feedback to developers on new bugs and quality issues injected into .NET code.
 * [VSDiagnostics](https://github.com/Vannevelj/VSDiagnostics) - A collection of static analyzers based on Roslyn that integrate with VS.
 * [Wintellect.Analyzers ★67](Wintellect/Wintellect.Analyzers) - .NET Compiler Platform ("Roslyn") diagnostic analyzers and code fixes written by Wintellect.
+
+## Crystal
+
+* [crystal](https://crystal-lang.org/) - The Crystal compiler has built-in linting functionality.
 
 ## Elixir
 
@@ -154,6 +165,7 @@ This is a collection of static analysis tools and code quality checkers.
 * [escomplex](https://github.com/jared-stilwell/escomplex) - Software complexity analysis of JavaScript-family abstract syntax trees.
 * [eslint ★7676](eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
 * [Esprima ★3763](jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
+* [flow](https://flow.org/) - A static type checker for JavaScript.
 * [jshint ★7237](jshint/jshint) - detect errors and potential problems in JavaScript code and enforce your team's coding conventions
 * [JSLint ★2957](douglascrockford/JSLint) :copyright: - The JavaScript Code Quality Tool
 * [plato ★3958](es-analysis/plato) - Visualize JavaScript source complexity
@@ -170,6 +182,10 @@ This is a collection of static analysis tools and code quality checkers.
 ## Lua
 
 * [luacheck ★473](mpeterv/luacheck) - A tool for linting and static analysis of Lua code.
+
+## MATLAB
+
+* [mlint](https://de.mathworks.com/help/matlab/ref/mlint.html) :copyright: - Check MATLAB code files for possible problems.
 
 ## Perl
 
@@ -257,6 +273,7 @@ Wrappers:
 * [herbie ★120](mcarton/rust-herbie-lint) - Adds warnings or errors to your crate when using a numerically unstable floating point expression.
 * [linter-rust ★34](AtomLinter/linter-rust) - Linting your Rust-files in Atom, using rustc and cargo
 * [rustfix ★94](killercup/rustfix) - read and apply the suggestions made by rustc (and third-party lints, like those offered by clippy).
+* [Rust Language Server ★842](rust-lang-nursery/rls) - Supports functionality such as 'goto definition', symbol search, reformatting, and code completion, and enables renaming and refactorings.
 
 ## Scala
 
@@ -281,6 +298,7 @@ Wrappers:
 ## TypeScript
 
 * [Codelyzer ★1128](mgechev/codelyzer) - A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
+* [TSLint ★1909](palantir/tslint) - An extensible linter for the TypeScript language.
 
 # Multiple languages
 
@@ -332,6 +350,8 @@ Wrappers:
 
 ## Configuration Management
 
+* [ansible-lint ★699](willthames/ansible-lint) - Checks playbooks for practices and behaviour that could potentially be improved
+* [foodcritic](http://www.foodcritic.io/) - A lint tool that checks Chef cookbooks for common problems. 
 * [Puppet Lint ★625](rodjek/puppet-lint) - Check that your Puppet manifests conform to the style guide.
 
 ## CSS
@@ -340,6 +360,7 @@ Wrappers:
 * [CSScomb ★2086](csscomb/csscomb.js) - a coding style formatter for CSS. Supports own configurations to make style sheets beautiful and consistent
 * [CSSLint ★3758](CSSLint/csslint) - Does basic syntax checking and finds problematic patterns or signs of inefficiency
 * [Parker ★2265](katiefenn/parker) - Stylesheet analysis tool
+* [sass-lint ★1108](sasstools/sass-lint) - A Node-only Sass linter for both sass and scss syntax.
 * [scsslint ★2758](brigade/scss-lint) - Linter for SCSS files
 * [Specificity Graph ★567 ⏳1Y](pocketjoso/specificity-graph) - CSS Specificity Graph Generator
 * [Stylelint](http://stylelint.io/) - Linter for SCSS/CSS files
@@ -348,10 +369,25 @@ Wrappers:
 
 * [HTMLHint ★1446](yaniswang/HTMLHint) - A Static Code Analysis Tool for HTML
 * [HTML Inspector ★2306](philipwalton/html-inspector) - HTML Inspector is a code quality tool to help you and your team write better markup.
+* [HTML Tidy](http://www.html-tidy.org/) - Corrects and cleans up HTML and XML documents by fixing markup errors and upgrading legacy code to modern standards.
+
+## IDE Plugins
+
+* [ale ★1831](w0rp/ale) - Asynchronous Lint Engine for Vim and NeoVim with support for many languages
+* [vint ★253](Kuniwak/vint) - Fast and Highly Extensible Vim script Language Lint implemented by Python.
+
+## LaTeX
+
+* [ChkTeX](http://www.nongnu.org/chktex/) - A linter for LaTex which catches some typographic errors LaTeX oversees.
+* [lacheck](https://www.ctan.org/pkg/lacheck) - A tool for finding common mistakes in LaTeX documents.
 
 ## Makefiles
 
 * [portlint](https://www.freebsd.org/cgi/man.cgi?query=portlint&sektion=1&manpath=FreeBSD+8.1-RELEASE+and+Ports) - A verifier for FreeBSD and DragonFlyBSD port directories
+
+## Markdown
+
+* [mdl ★340](mivok/markdownlint) - A tool to check markdown files and flag style issues.
 
 ## Mobile
 
@@ -362,6 +398,19 @@ Wrappers:
 ## Packages
 
 * [lintian ★21](Debian/lintian) - Static analysis tool for Debian packages
+* [rpmlint ★18](rpm-software-management/rpmlint) - Tool for checking common errors in rpm packages
+
+## Template-Languages
+
+* [ember-template-lint ★74](rwjblue/ember-template-lint) - Linter for Ember or Handlebars templates.
+* [haml-lint ★144](brigade/haml-lint) - Tool for writing clean and consistent HAML
+* [slim-lint ★78](sds/slim-lint) - Configurable tool for analyzing Slim templates
+* [yamllint ★174](adrienverge/yamllint) -Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
+
+## Writing
+
+* [proselint ★2384](amperser/proselint) - a linter for English prose with a focus on writing style instead of grammar.
+* [vale ★60](ValeLint/vale) - A customizable, syntax-aware linter for prose.
 
 ## Web services
 
