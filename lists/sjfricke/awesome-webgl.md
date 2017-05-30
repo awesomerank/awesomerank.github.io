@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/sjfricke/awesome-webgl">https://github.com/sjfricke/awesome-webgl</a> with ranks
+	This list is a copy of <a href="sjfricke/awesome-webgl">sjfricke/awesome-webgl</a> with ranks
 </p>
 ---
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -86,7 +86,7 @@ Processing Unit (GPU).
 
 * [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
-* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify ★654](https://github.com/stackgl/glslify).
+* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify ★673](stackgl/glslify).
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer.
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
@@ -95,11 +95,11 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE ★577](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE ★599](google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [Khronos Offical Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/webvr/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 * [WebGL Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API Quick Reference Card for printing.
-* [WebGL Source Code ★813](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
+* [WebGL Source Code ★833](KhronosGroup/WebGL) - Source code to both view and contribute.
 * [WebGL Spec Sheet](https://www.khronos.org/registry/webgl/specs/1.0/) - All the detailed information about WebGL.
 
 
@@ -113,6 +113,7 @@ Processing Unit (GPU).
 
 > Tools for development and debugging WebGL
 
+* [Spector.js](http://spector.babylonjs.com/) - Agnostic JavaScript framework for exploring and troubleshooting your WebGL scenes.
 * [WebGL Inspector](http://benvanik.github.io/WebGL-Inspector/) - Tool inspired by gDEBugger and PIX with the goal of making the development of advanced WebGL applications easier.
 * [WebGl Playground](http://webglplayground.net/) - The editor lets you work on the JavaScript code and the GLSL vertex/fragment shaders (if you have any) at the same time in a convenient way. Everything is organized, formatted and highlighted properly, just as you would like.
 * [WebGL Report](http://webglreport.com/?v=1) - Way to view the details of what your browser supports for WebGL.
@@ -122,8 +123,9 @@ Processing Unit (GPU).
 
 #### Chrome Specific Tools/Debugger
 
-* [GLSL Shader Editor Extension ★411](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
-* [Webgl Insight ★676](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
+* [GLSL Shader Editor Extension ★418](spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
+* [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - Explore and Troubleshoot your WebGL and WebGL2 scenes easily.
+* [Webgl Insight ★681](3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 #### Firefox Specific Tools/Debugger
 
@@ -184,6 +186,7 @@ Processing Unit (GPU).
 ### Tutorials
 * [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 * [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
+* [WebGL 2 Examples ★71](tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 
 ### Videos
 
@@ -205,7 +208,7 @@ Processing Unit (GPU).
 
 ### Others
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
-* [Ammo.js ★1062](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js ★1081](kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 * [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 * [Cesium](http://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
@@ -235,18 +238,18 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome ★57421](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-* [awesome-computer-vision ★2467](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
-* [awesome-opengl ★498](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
-* [awesome-vulkan ★501](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
-* [gamedev ★3877](https://github.com/ellisonleao/magictools) - Awesome list about game development.
-* [graphics-resources ★999](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+* [awesome ★59088](sindresorhus/awesome) - Curated list of awesome lists.
+* [awesome-computer-vision ★2593](jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+* [awesome-opengl ★525](eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome-vulkan ★521](vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
+* [gamedev ★3930](ellisonleao/magictools) - Awesome list about game development.
+* [graphics-resources ★1008](mattdesl/graphics-resources) - List of graphic programming resources.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) for details.
 
 ## Testing
-Travis CI testing automation thanks to [awesome_bot ★324](https://github.com/dkhamsing/awesome_bot)!
+Travis CI testing automation thanks to [awesome_bot ★344](dkhamsing/awesome_bot)!
 
 ## License
 
@@ -255,5 +258,5 @@ Travis CI testing automation thanks to [awesome_bot ★324](https://github.com/d
 To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/sjfricke/awesome-webgl">https://github.com/sjfricke/awesome-webgl</a> with ranks
+	This list is a copy of <a href="sjfricke/awesome-webgl">sjfricke/awesome-webgl</a> with ranks
 </p>

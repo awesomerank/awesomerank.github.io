@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/candelibas/awesome-ionic2">https://github.com/candelibas/awesome-ionic2</a> with ranks
+	This list is a copy of <a href="candelibas/awesome-ionic2">candelibas/awesome-ionic2</a> with ranks
 </p>
 ---
-# Awesome Ionic 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Ionic 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 An "awesome" list of the Ionic 2 resources 
 
@@ -21,12 +21,12 @@ An "awesome" list of the Ionic 2 resources
 * [Blog](http://blog.ionic.io/)
 * [Documentation](http://ionicframework.com/docs/v2/)
 * [Getting Started Guide](http://ionicframework.com/docs/v2/getting-started/)
-* [Ionic Native ★1265](https://github.com/driftyco/ionic-native)
+* [Ionic Native ★1303](driftyco/ionic-native)
 * [Community Forum](http://forum.ionicframework.com/)
 * [Ionic IRC](http://webchat.freenode.net/?randomnick=1&channels=%23ionic&uio=d4)
 * [Ionic Youtube Channel](https://www.youtube.com/channel/UChYheBnVeCfhCmqZfCUdJQw)
 * [Showcase](http://showcase.ionicframework.com/)
-* [GitHub Repo ★29273](https://github.com/driftyco/ionic)
+* [GitHub Repo ★29729](driftyco/ionic)
 
 #### Ionic 2 Fundamentals
 * [Beginners Guide to Getting Started with Ionic 2](http://www.joshmorony.com/beginners-guide-to-getting-started-with-ionic-2/)
@@ -103,7 +103,7 @@ An "awesome" list of the Ionic 2 resources
 
 #### Tools
 * [Ionic2-vscode](https://marketplace.visualstudio.com/items?itemName=jgw9617.ionic2-vscode)
-* [Vim-ionic2 ★2](https://github.com/akz92/vim-ionic2)
+* [Vim-ionic2 ★2](akz92/vim-ionic2)
 
 #### Video Tutorials
 * [Ionic 2 Quickstart](https://www.udemy.com/ionic-2-quickstart/)
@@ -116,19 +116,20 @@ An "awesome" list of the Ionic 2 resources
 #### Books
 * [Building Mobile Apps with Ionic 2](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)
 * [Ionic 2 Blueprints](https://www.packtpub.com/web-development/ionic-2-blueprints)
+* [Hybrid Mobile Development with Ionic](https://www.packtpub.com/application-development/hybrid-mobile-development-ionic)
 
 #### Open Source Projects
-* [Ionic Conference App ★1648](https://github.com/driftyco/ionic-conference-app)
-* [IonicRealty ★246](https://github.com/ccoenraets/ionic2-realty)
-* [Ionic Firebase Chat App ★20](https://github.com/ionic2blueprints/firebase-chat)
-* [Ionic Ecommerce App ★13](https://github.com/ionic2blueprints/ionic2-marketcloud)
-* [Ionic Conference App based on Lanyrd API ★3](https://github.com/ionic2blueprints/conference-app)
-* [Ionic Stock Tracking App ★9](https://github.com/ionic2blueprints/ionic2-stockmarket)
-* [Ionic Wordpress Client ★10](https://github.com/ionic2blueprints/ionic2-wp-client)
-* [Ionic Media Player ★19](https://github.com/ionic2blueprints/media-player)
-* [Ionic Social App ★11](https://github.com/ionic2blueprints/social-app)
-* [Ionic 2 Push Notification ★59](https://github.com/aggarwalankush/ionic2-push-base)
-* [Ionic 2 Weather app ★72](https://github.com/aggarwalankush/ionic2-mosum)
+* [Ionic Conference App ★1714](driftyco/ionic-conference-app)
+* [IonicRealty ★251](ccoenraets/ionic2-realty)
+* [Ionic Firebase Chat App ★22](ionic2blueprints/firebase-chat)
+* [Ionic Ecommerce App ★13](ionic2blueprints/ionic2-marketcloud)
+* [Ionic Conference App based on Lanyrd API ★4](ionic2blueprints/conference-app)
+* [Ionic Stock Tracking App ★9](ionic2blueprints/ionic2-stockmarket)
+* [Ionic Wordpress Client ★10](ionic2blueprints/ionic2-wp-client)
+* [Ionic Media Player ★19](ionic2blueprints/media-player)
+* [Ionic Social App ★13](ionic2blueprints/social-app)
+* [Ionic 2 Push Notification ★71](aggarwalankush/ionic2-push-base)
+* [Ionic 2 Weather app ★92](aggarwalankush/ionic2-mosum)
 * [Ionic 2 Reddit Reader](https://github.com/smartapant/ionic2-reddit-reader)
 * [Ionic 2 Advanced Components](https://github.com/yannbf/ionic2-components)
 
@@ -140,5 +141,5 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/can
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/candelibas/awesome-ionic2">https://github.com/candelibas/awesome-ionic2</a> with ranks
+	This list is a copy of <a href="candelibas/awesome-ionic2">candelibas/awesome-ionic2</a> with ranks
 </p>

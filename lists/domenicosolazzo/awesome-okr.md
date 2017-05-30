@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/domenicosolazzo/awesome-okr">https://github.com/domenicosolazzo/awesome-okr</a> with ranks
+	This list is a copy of <a href="domenicosolazzo/awesome-okr">domenicosolazzo/awesome-okr</a> with ranks
 </p>
 ---
-# Awesome OKR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome OKR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 A curated list of resources about OKRs
 
 OKR are the best practice of setting and communicating company, team and employee objectives and measuring their progress based on achieved results.
@@ -157,5 +157,5 @@ Read [this](https://github.com/domenicosolazzo/awesome-okr/blob/master/CODE_OF_C
 To the extent possible under law, [Domenico Solazzo](https://github.com/domenicosolazzo) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/domenicosolazzo/awesome-okr">https://github.com/domenicosolazzo/awesome-okr</a> with ranks
+	This list is a copy of <a href="domenicosolazzo/awesome-okr">domenicosolazzo/awesome-okr</a> with ranks
 </p>

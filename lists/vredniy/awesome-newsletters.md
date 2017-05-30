@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/vredniy/awesome-newsletters">https://github.com/vredniy/awesome-newsletters</a> with ranks
+	This list is a copy of <a href="vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
 </p>
 ---
-# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
+# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
 
 A curated list of awesome newsletters.
 
@@ -38,7 +38,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [The Smashing Email Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/). Email newsletter twice a month with useful tips, tricks and resources for designers and developers.
 * [A Drip of JavaScript](http://adripofjavascript.com/index.html). One quick JavaScript tip, delivered to your inbox every other week.
 * [Web Tools Weekly](http://webtoolsweekly.com/). Web Tools Weekly is a front-end development and web design newsletter with a focus on tools.
-* [Web Operations Weekly](http://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
+* [Web Operations Weekly](https://webopsweekly.com/). A weekly newsletter on Web operations, infrastructure, performance, and tooling, from the browser down to the metal.
 * [ES.next News](http://esnextnews.com/). 5 ECMAScript.next links every week curated by Dr. Axel Raushmayer and Johannes Weber.
 * [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 * [TypeScript Weekly](https://www.typescript-weekly.com/). The best TypeScript links every week, right in your box.
@@ -78,10 +78,10 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Responsive Design Weekly](http://responsivedesignweekly.com). A free, once–weekly round-up of responsive design articles, tools, tips, tutorials and inspirational links.
 * [UX Weekly](http://uxwkly.com/). A small newsletter of around five links per week that has consistently good reading.
 * [Alertbox E-Mail Newsletter](https://www.nngroup.com/articles/subscribe/). The latest articles about interface usability, website design, and UX research from the Nielsen Norman Group.
-* [Web Design Depot](http://www.webdesignerdepot.com/newsletter/). It's packed with quick bits of news, inspirational resources as well as cool new products and services for designers.
+* [Web Design Depot](https://www.webdesignerdepot.com/newsletter/). It's packed with quick bits of news, inspirational resources as well as cool new products and services for designers.
 * [UI Movement](https://uimovement.com). Only the best UI design inspiration, right in your inbox.
 * [Designer News](https://www.designernews.co). Where the design community meets.
-* [Design Faves](http://www.designfaves.com). Daily posts and exclusive articles marry the very best modern expressions and innovations from the Branding, Art and Graphic Design worlds.
+* [Design Faves](https://www.designfaves.com/). Daily posts and exclusive articles marry the very best modern expressions and innovations from the Branding, Art and Graphic Design worlds.
 * [Hack Design](https://hackdesign.org). An easy to follow design course for people who do amazing things.
 * [Hacking UI](http://hackingui.com/). Weekly hand-picked resources for front-end developers and product managers.
 * [UX Essentials](http://uxessentials.co.uk/). 5 best links of week about UX, UI and Product Design emailed to you every Sunday.
@@ -132,7 +132,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 
 ### R
-* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub ★104](https://github.com/rweekly/rweekly.org).
+* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub ★106](rweekly/rweekly.org).
 
 ### Ruby
 * [Ruby Weekly](http://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
@@ -197,7 +197,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [DB Weekly](https://dbweekly.com/). A weekly round-up of database technology news and articles covering new developments, SQL, NoSQL, document databases, graph databases, and more.
 
 ### PostgreSQL
-* [Postgres Weekly](http://postgresweekly.com/). A free, once–weekly e-mail round-up of PostgreSQL news and articles.
+* [Postgres Weekly](https://postgresweekly.com/). A free, once–weekly e-mail round-up of PostgreSQL news and articles.
 
 ### MySQL
 * [Weekly MySQL News](http://mysqlnewsletter.com/). Unofficial Weekly News Digest of all things MySQL.
@@ -265,7 +265,7 @@ every Sunday in the form of the DevOps newsletter.
 * Projects We Love archive by [KickStarter](https://www.kickstarter.com/newsletters).
 * [Startup Digest](https://www.startupdigest.com/reading-lists). Curated reading materials from around the world, customized by your interests.
 * A free weekly newsletter featuring the best and hand curated links related to domains, development, monetization, how to guides, tips and tricks, resources, events and more. [This Week in Domains](http://www.thisweekindomains.com/)
-* [My Morning Routine](http://mymorningroutine.com/). My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.
+* [My Morning Routine](https://mymorningroutine.com/). My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.
 * [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 * [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 
@@ -280,11 +280,11 @@ every Sunday in the form of the DevOps newsletter.
 * [Software Lead Weekly](http://softwareleadweekly.com/). A free weekly email, for busy people who care about people, culture and leadership.
 * [Hacking Revenue](http://hackingrevenue.com/). One email a week with carefully curated insights to scale up your business.
 * [The Changelog Nightly](https://changelog.com/nightly). An email, every night at 10pm CT, that unearths the hottest new repos on GitHub.
-* [GitHub Reminder](https://githubreminder.org/signin). Receive serendipitous (daily, weekly or monthly) email reminders about forgotten starred repos.
 * [Code Cartoons](https://tinyletter.com/codecartoons). Learn code via cartoons via email.
 * [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 * [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
-
+* [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
+* ~~[GitHub Reminder](https://githubreminder.org/signin). Receive serendipitous (daily, weekly or monthly) email reminders about forgotten starred repos.~~
 
 # License
 
@@ -293,5 +293,5 @@ every Sunday in the form of the DevOps newsletter.
 To the extent possible under law, [Dmitry Zudochkin](https://github.com/vredniy) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/vredniy/awesome-newsletters">https://github.com/vredniy/awesome-newsletters</a> with ranks
+	This list is a copy of <a href="vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
 </p>

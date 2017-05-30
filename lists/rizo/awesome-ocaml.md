@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/rizo/awesome-ocaml">https://github.com/rizo/awesome-ocaml</a> with ranks
+	This list is a copy of <a href="rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks
 </p>
 ---
-Awesome OCaml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+Awesome OCaml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 =============
 
 <img src="colour-logo.png" width="70%" />
@@ -71,23 +71,23 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Algorithms and Data Structures
 
 - [Comparing a Machine Learning Algorithm Implemented in F# and OCaml](http://philtomson.github.io/blog/2014/05/29/comparing-a-machine-learning-algorithm-implemented-in-f-number-and-ocaml/)
-- [OCamlgraph ★87](https://github.com/backtracking/ocamlgraph) – A generic graph library for OCaml.
-- [ods ★10](https://github.com/owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
-- [combine ★12 ⏳1Y](https://github.com/backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
+- [OCamlgraph ★88](backtracking/ocamlgraph) – A generic graph library for OCaml.
+- [ods ★11](owainlewis/ods) – A large collection of data structures and algorithms for OCaml.
+- [combine ★11 ⏳1Y](backtracking/combine) – OCaml library for combinatorics <https://www.lri.fr/~filliatr/combine/>.
 - [Decompress](https://github.com/oklm-wsh/Decompress.git) - A pure OCaml implementation of Zlib
 
 
 ## Application Libraries
 
-- [Batteries Included ★271](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
-- [Cmdliner ★59](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
-- [Core ★493](https://github.com/janestreet/core) – Jane Street Capital's standard library overlay.
+- [Batteries Included ★273](ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
+- [Cmdliner ★61](dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
+- [Core ★502](janestreet/core) – Jane Street Capital's standard library overlay.
 - [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
-- [ctypes ★162](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
-- [easy-format ★15 ⏳1Y](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
-- [ocaml-rpc ★30](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
-- [ocaml-containers](https://github.com/c-cube/ocaml-containers) – A small standard library extension, string library, and (in "misc") a bunch of random things of lower quality. BSD license.
-- [Notty ★100](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
+- [ctypes ★165](ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
+- [easy-format ★15 ⏳1Y](mjambon/easy-format) – Pretty-printing library for OCaml.
+- [ocaml-rpc ★31](mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
+- [ocaml-containers ★131](c-cube/ocaml-containers) – A small standard library extension, string library, and (in "misc") a bunch of random things of lower quality. BSD license.
+- [Notty ★100](pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
 
 
 ## Blogs
@@ -102,7 +102,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [More OCaml: Algorithms, Methods, and Diversions](http://www.amazon.com/More-OCaml-Algorithms-Methods-Diversions/dp/0957671113/) – In More OCaml John Whitington takes a meandering tour of functional programming with OCaml, introducing various language features and describing some classic algorithms. The book ends with a large worked example dealing with the production of PDF files. There are questions for each chapter together with worked answers and hints.
 - [How to Think Like a (Functional) Programmer](http://www.greenteapress.com/thinkocaml/index.html) by Allen Downey and Nicholas Monje – How to Think Like a Computer Scientist is an introductory programming textbook based on the OCaml language. It is a modified version of Think Python by Allen Downey. It is intended for newcomers to programming and also those who know some programming but want to learn programming in the function-oriented paradigm, or those who simply want to learn OCaml.
 - [OCaml from the Very Beginning](http://ocaml-book.com/) by J. Whitington - OCaml from the Very Beginning will appeal both to new programmers, and experienced programmers eager to explore functional languages such as OCaml.
-- [Pearls of Functional Algorithm Design](http://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) by Richard Bird - It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are [here ★10 ⏳2Y](https://github.com/MassD/pearls).
+- [Pearls of Functional Algorithm Design](http://www.amazon.co.uk/Pearls-Functional-Algorithm-Design-Richard/dp/0521513383) by Richard Bird - It summaries 30 hard algorithm problems in function programming world. Although it is for Haskell, the algorithm problems are very interesting and trying to solve them in OCaml also helps the thinking of functional programming. Partial solutions in OCaml are [here ★11 ⏳2Y](MassD/pearls).
 - [Real World OCaml](https://realworldocaml.org/) by Y. Minsky, A. Madhavapeddy and J. Hickey - Functional programming for the masses.
 - [Unix System Programming in OCaml](http://ocamlunix.forge.ocamlcore.org/) by X. Leroy and D. Rémy – Introduction to Unix system programming, with an emphasis on communications between processes.
 - [Using, Understanding, and Unraveling OCaml](http://caml.inria.fr/pub/docs/u3-ocaml) – This book describes both the OCaml language and the theoretical grounds behind its powerful type system.
@@ -113,12 +113,12 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Code Analysis and Linters
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
-- [pfff ★1951](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
-- [infer ★6629](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C
-- [flow ★11466](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
-- [Ocamllint ★52](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
+- [pfff ★1993](facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
+- [infer ★6755](facebook/infer) - infer is a static analyzer for Java, C and Objective-C
+- [flow ★11934](facebook/flow) - flow is a static type checker for JavaScript
+- [Ocamllint ★53](cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
-- [SLAyer ★287](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
+- [SLAyer ★290](Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
 
 
 ## Compilers and Compiler Tools
@@ -133,17 +133,17 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Mezzo Programming Language](http://protz.github.io/mezzo/) - Mezzo is a programming language in the ML tradition, which places strong emphasis on the control of aliasing and access to mutable memory.
   - [OCaml-Java](http://www.ocamljava.org) - OCaml to Java bytecode compiler.
   - [Opa Programming Language](http://opalang.org/)
-  - [Rhine ★568 ⏳2Y](https://github.com/artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
+  - [Rhine ★569 ⏳2Y](artagnon/rhine-ml) – A Lisp on LLVM written in OCaml.
   - [Rust Programming Language](http://rust-lang.org) - Originally written in OCaml before bootstrapping.
-  - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo ★55 ⏳3Y](https://github.com/nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
-  - [tis-interpreter ★371](https://github.com/TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
+  - [Quick C-- Target Language](http://www.cminusminus.org/) - It is now a dead project. [Github Repo ★55 ⏳3Y](nrnrnr/qc--). [Alternative website](http://www.cs.tufts.edu/~nr/c--/qc--.html).
+  - [tis-interpreter ★372](TrustInSoft/tis-interpreter) - An interpreter for finding subtle bugs in programs written in standard C
   - [Reason](http://facebook.github.io/reason/) - Friendly syntax & toolchain for OCaml by Facebook.
   - [Others](http://caml.inria.fr/cgi-bin/hump.en.cgi?sort=0&browse=88) - Some other compilers implemented in OCaml, quite a few dead now.
 - **Parser and Lexer Generators**:
-  - [Opal ★58](https://github.com/pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
+  - [Opal ★60](pyrocat101/opal) – Self-contained monadic parser combinators for OCaml.
   - [Menhir](http://gallium.inria.fr/~fpottier/menhir) – Menhir is a LR(1) parser generator for OCaml.
   - [ocamllex/ocamlyacc](http://caml.inria.fr/pub/docs/manual-ocaml-4.01/lexyacc.html) – lex and yacc implementation for OCaml.
-  - [Angstrom ★99](https://github.com/inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
+  - [Angstrom ★107](inhabitedtype/angstrom) - Parser combinators built for speed and memory efficiency
 - **Articles**:
   - [Kaleidoscope: Implementing a Language with LLVM in Objective Caml¶](http://llvm.org/docs/tutorial/OCamlLangImpl1.html)
   - [Getting started with OCaml bindings for LLVM](http://nopaniers.calepin.co/getting-started-with-ocaml-bindings-for-llvm.html)
@@ -162,27 +162,27 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — A binding to the NDBM/GDBM Unix "databases".
   - [Mongo.ml](http://massd.github.io/mongo/) – An OCaml driver for Mongodb
   - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — PG'OCaml provides an interface to PostgreSQL databases for OCaml applications.
-  - [SQLite3 ★30](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
+  - [SQLite3 ★31](mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
-  - [ocaml-redis ★25](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
+  - [ocaml-redis ★25](0xffea/ocaml-redis) – Redis bindings for OCaml.
   - [mysql](http://ocaml-mysql.forge.ocamlcore.org/) – Bindings to libmysqlclient for interacting with MySQL databases.
-  - [mysql_protocol ★7 ⏳1Y](https://github.com/slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
+  - [mysql_protocol ★7 ⏳1Y](slegrand45/mysql_protocol) – Implementation of MySQL Protocol with the Bitstring library.
 - **New Implementations**
-  - [Irmin ★695](https://github.com/mirage/irmin) — A distributed database that follows the same design principles as Git.
+  - [Irmin ★712](mirage/irmin) — A distributed database that follows the same design principles as Git.
   - [Obigstore](http://obigstore.forge.ocamlcore.org/) — A database with BigTable-like data model atop LevelDB.
-  - [RunOrg ★8 ⏳2Y](https://github.com/RunOrg/RunOrg) - It is a WIP database server written in OCaml.
+  - [RunOrg ★9 ⏳2Y](RunOrg/RunOrg) - It is a WIP database server written in OCaml.
 - **Overlays**
-  - [Macaque ★26 ⏳1Y](https://github.com/ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
-  - [ORM ★28](https://github.com/mirage/orm) — ORM for SQLite.
+  - [Macaque ★26 ⏳1Y](ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
+  - [ORM ★29](mirage/orm) — ORM for SQLite.
 - **Articles**:
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](http://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
 
 
 ## Datetime
 
-- [ISO8601 ★11](https://github.com/sagotch/ISO8601.ml)
+- [ISO8601 ★12](sagotch/ISO8601.ml)
 - [calendar](http://calendar.forge.ocamlcore.org/)
-- [odate ★8 ⏳3Y](https://github.com/hhugo/odate)
+- [odate ★8 ⏳3Y](hhugo/odate)
 - [ptime](http://erratique.ch/software/ptime)
 
 
@@ -190,20 +190,20 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Try OCaml](http://try.ocamlpro.com/) – Try OCaml in your web browser.
 - [codingground](https://www.tutorialspoint.com/compile_ocaml_online.php) – Compile and execute OCaml code online.
-- [iocaml ★132](https://github.com/andrewray/iocaml) – An OCaml kernel for the IPython notebook.
-- [utop ★327](https://github.com/diml/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
+- [iocaml ★137](andrewray/iocaml) – An OCaml kernel for the IPython notebook.
+- [utop ★332](diml/utop) – Universal toplevel for OCaml with support of multiline edition, history, real-time and context sensitive completion, colors, and more.
 - [ocp-browser](http://www.typerex.org/ocp-index.html#ocp-browser) — Small ncurses-based API and documentation browser. Provided with ocp-index.
 - [ocamlbrowser](http://caml.inria.fr/pub/docs/manual-ocaml/browser.html) — A source and compiled interface browser, written using LablTk. Included in the standard distribution for ocaml <= 4.01 and with labltk for ocaml >= 4.02.
-- [ghim ★15 ⏳3Y](https://github.com/samoht/ghim) – A command-line tool to manage Github Issues.
+- [ghim ★15 ⏳3Y](samoht/ghim) – A command-line tool to manage Github Issues.
 - [OCaml Yeoman Generator](https://github.com/mabrasil/generator-ocaml) – Yeoman generator to scaffold OCaml modules.
 - **Foreign Function Interface**:
-  - [ocaml-main-program-in-c ★12 ⏳3Y](https://github.com/johnwhitington/ocaml-main-program-in-c) – Example build system for making mixed C/Ocaml binaries where the main program is in C.
+  - [ocaml-main-program-in-c ★12 ⏳3Y](johnwhitington/ocaml-main-program-in-c) – Example build system for making mixed C/Ocaml binaries where the main program is in C.
   - [Modular foreign function bindings](http://openmirage.org/blog/modular-foreign-function-bindings)
 - **Editor Plugins**:
-  - [merlin ★614](https://github.com/ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
-  - [tuareg ★145](https://github.com/ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
-  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml/) — extension that provides OCaml language support for [VSCode ★26871](https://github.com/microsoft/vscode)
-  - [Sublime better ocaml ★12](https://github.com/whitequark/sublime-better-ocaml) — Better OCaml mode for Sublime Text.
+  - [merlin ★629](ocaml/merlin) – Context sensitive completion for Ocaml in Vim and Emacs.
+  - [tuareg ★147](ocaml/tuareg) - OCaml mode for Emacs that can run the toplevel and the debugger within Emacs.
+  - [vscode-ocaml](https://github.com/hackwaly/vscode-ocaml/) — extension that provides OCaml language support for [VSCode ★28367](microsoft/vscode)
+  - [Sublime better ocaml ★12](whitequark/sublime-better-ocaml) — Better OCaml mode for Sublime Text.
     - [Sublime text package](https://github.com/def-lkb/sublime-text-merlin)
   - [ocp-index](http://www.typerex.org/ocp-index.html) — Easy access to the interface information of installed OCaml libraries for editors like Emacs and Vim.
     - [Sublime text package](https://sublime.wbond.net/packages/OCaml%20Autocompletion)
@@ -211,14 +211,14 @@ If you are beginner and want to learn the basics of OCaml programming here is th
     - [Vim interface](https://github.com/def-lkb/ocp-indent-vim).
 - Code coverage
   - [Bisect](http://bisect.x9c.fr/)
-  - [Bisect_ppx ★1](https://github.com/rleonid/bisect_ppx) a more recent fork of the previous tool.
+  - [Bisect_ppx ★1](rleonid/bisect_ppx) a more recent fork of the previous tool.
 
 
 ## Exercises
 
-- [99 problems](http://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here ★9 ⏳2Y](https://github.com/MassD/99).
+- [99 problems](http://ocaml.org/learn/tutorials/99problems.html). 99% solutions are [here ★9 ⏳2Y](MassD/99).
 - [Rosetta Code](http://rosettacode.org/wiki/Category:OCaml)
-- [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions ★30](https://github.com/exercism/xocaml).
+- [OCaml at Exercism](http://exercism.io/languages/ocaml) – Exercism is your place to engage in thoughtful conversations about code. Explore simplicity, idiomatic language features, and expressive readable code. [Solutions ★30](exercism/xocaml).
 
 
 ## Formal Software Verification
@@ -241,9 +241,9 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Why OCaml, why now?](http://spyder.wordpress.com/2014/03/16/why-ocaml-why-now/)
 - [A blog about game development in OCaml](http://cranialburnout.blogspot.ca/)
 - [(Functional) Alternatives to inheritance](http://ocamltutorials.blogspot.se/2013/06/alternatives-to-subtyping.html)
-- [camlPDF ★66](https://github.com/johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
+- [camlPDF ★67](johnwhitington/camlpdf) – OCaml library for reading, writing and modifying PDF files.
 - [capnp-ocaml 2.0: The Road to Unembarrassing Performance](http://pelzlpj.github.io/capnp-ocaml/2014/09/02/capnp-ocaml-2.0/)
-- [slacko ★37](https://github.com/Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
+- [slacko ★39](Leonidas-from-XIV/slacko) – A neat interface for Slack in OCaml.
 - [Learn X in Y minutes](https://learnxinyminutes.com/docs/ocaml/) - Where X=OCaml.
 
 
@@ -251,8 +251,8 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - **2D**
   - [archimedes](http://archimedes.forge.ocamlcore.org/) — 2D plotting library.
-  - [cairo2 ★14](https://github.com/Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
-  - [Vg ★38](https://github.com/dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
+  - [cairo2 ★16](Chris00/ocaml-cairo) — Binding to Cairo, a 2D Vector Graphics Library. Integrates well with lablgtk.
+  - [Vg ★38](dbuenzli/vg) – Declarative 2D vector graphics for OCaml.
 - **3D**
   - [glMLite](http://www.linux-nantes.org/~fmonnier/OCaml/GL/) — OpenGL bindings for OCaml. Provides an (experimental) functional API.
   - [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
@@ -267,19 +267,19 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Language-related
 
 - [Higher-Rank Polymorphism in OCaml](http://devmusings.legiasoft.com/blog/2008/05/23/higher-rank_polymorphism_in_ocaml)
-- [mikmatch ★18](https://github.com/mjambon/mikmatch) – OCaml pattern-matching extended with regexps
+- [mikmatch ★19](mjambon/mikmatch) – OCaml pattern-matching extended with regexps
 - [Inlined records in constructors](http://www.lexifi.com/blog/inlined-records-constructors)
 - [Algebraic Data Types](http://tech.esper.com/2014/07/30/algebraic-data-types/)
 - [XEN – OCaml Best Practices for Developers](http://wiki.xen.org/wiki/OCaml_Best_Practices_for_Developers)
-- [OCaml Style Guide ★6 ⏳2Y](https://github.com/pyrocat101/ocaml-style-guide) - See also: [[1]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html), [[2]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [[3]](https://www.seas.upenn.edu/~cis120/current/programming_style.shtml).
+- [OCaml Style Guide](https://github.com/pyrocat101/ocaml-style-guide) - See also: [[1]](https://www.seas.upenn.edu/~cis500/cis500-f06/resources/programming_style.html), [[2]](http://www.cs.cornell.edu/Courses/cs312/2001sp/style.html), [[3]](https://www.seas.upenn.edu/~cis120/current/programming_style.shtml).
 - [A safe but strange way of modifying OCaml compiler](https://bitbucket.org/camlspotter/compiler-libs-hack)
 - [Fiddling with the OCaml Type System](http://technotroph.wordpress.com/2013/10/25/fiddling-with-the-ocaml-type-system/)
 
 
 ## Logging
 
-- [dolog ★20 ⏳1Y](https://github.com/UnixJunkie/dolog) – A dumb OCaml logger.
-- [Volt ★2](https://github.com/codinuum/volt) – A variant of Bolt OCaml logging tool.
+- [dolog ★20 ⏳1Y](UnixJunkie/dolog) – A dumb OCaml logger.
+- [Volt ★2](codinuum/volt) – A variant of Bolt OCaml logging tool.
 - [Logs](http://erratique.ch/software/logs) - Logs provides a logging infrastructure for OCaml.
 
 
@@ -291,10 +291,10 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Syntax extensions without Camlp4: let's do it!](http://www.lexifi.com/blog/syntax-extensions-without-camlp4-lets-do-it)
   - [Reading Camlp4 – Ambassador to the Computers](http://ambassadortothecomputers.blogspot.pt/p/reading-camlp4.html)
 - **Syntax Extensions**:
-  - [ppx_import ★20](https://github.com/whitequark/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
-  - [ppx_string_interpolate](https://github.com/sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
-  - [ppx_monad ★2](https://github.com/rizo/ppx_monad) – Monad syntax extension for OCaml.
-  - [ppx_deriving_yojson ★38](https://github.com/whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
+  - [ppx_import ★20](whitequark/ppx_import) – Import is a syntax extension that allows to pull in types or signatures from other compiled interface files.
+  - [ppx_string_interpolate ★7 ⏳2Y](sheijk/ppx_string_interpolate) – A simple ppx filter to support string interpolation like `[%str "value of foo is $(foo)"]`.
+  - [ppx_monad ★2](rizo/ppx_monad) – Monad syntax extension for OCaml.
+  - [ppx_deriving_yojson ★39](whitequark/ppx_deriving_yojson) – A Yojson codec generator for OCaml.
 - **Tools and Language Extensions**:
   - [MetaOCaml](http://okmij.org/ftp/ML/MetaOCaml.html) – an OCaml dialect for multi-stage programming.
   - [Fan](http://thinkinginmeta.com/Fan) – Fan is a compile-time metaprogramming system for OCaml, originally inspired from Camlp4. It's a combination of OCaml and Lispy Macros. It shares the same concrete syntax with OCaml.
@@ -308,21 +308,21 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [OCaml on iOS 7 Released](http://psellos.com/2014/08/2014.08.ocamlxarm-402.html)
   - [OCaml + Cordova = more secured, typed and hybrid mobile applications](https://blog.danny-willems.be/en/ocaml-cordova-secured-typed-hybrid-mobile-applications/)
 - **Bindings**:
-  - [Cordova plugins ★19](https://github.com/dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
+  - [Cordova plugins ★19](dannywillems/ocaml-cordova-plugin-list) – List of bindings to Cordova plugins. Get access to native device components like accelerometer, SMS, geolocation, etc in OCaml.
 
 
 ## Networking
 
 - **HTTP Tools**:
-  - [ocaml-cohttp ★235](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
-  - [ocurl ★19](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
+  - [ocaml-cohttp ★242](mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
+  - [ocurl ★19](ygrek/ocurl) – OCaml bindings to libcurl.
 - **ZeroMQ Bindings**:
-  - [ocaml-zmq ★31](https://github.com/issuu/ocaml-zmq) – ZeroMQ bindings for OCaml.
-  - [async-zmq ★10 ⏳1Y](https://github.com/rgrinberg/async-zmq) – Async wrapper around ocaml-zmq.
-  - [lwt-zmq ★13](https://github.com/hcarty/lwt-zmq) – Lwt-friendly interface to ZeroMQ for OCaml.
-- [ocaml-dns ★38](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
-- [onanomsg ★28](https://github.com/rgrinberg/onanomsg) – nanomsg bindings for OCaml.
-- [fluent-logger ★3 ⏳2Y](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
+  - [ocaml-zmq ★31](issuu/ocaml-zmq) – ZeroMQ bindings for OCaml.
+  - [async-zmq ★10 ⏳1Y](rgrinberg/async-zmq) – Async wrapper around ocaml-zmq.
+  - [lwt-zmq ★13](hcarty/lwt-zmq) – Lwt-friendly interface to ZeroMQ for OCaml.
+- [ocaml-dns ★40](mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
+- [onanomsg ★28](rgrinberg/onanomsg) – nanomsg bindings for OCaml.
+- [fluent-logger ★3 ⏳2Y](fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 - [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
 
 
@@ -338,18 +338,18 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Distribution**:
   - [OPAM](http://opam.ocamlpro.com/) – A flexible Git-friendly package manager with multiple compiler support.
   - [ocamlfind](http://projects.camlcity.org/projects/findlib.html) — Local OCaml library manager. Used by most of the OCaml ecosystem.
-  - [WODI for Windows](http://wodi.forge.ocamlcore.org/) - A package manager for Windows.
-  - [makorel ★7 ⏳2Y](https://github.com/sagotch/makorel) – Release OPAM packages easily.
+  - [OCaml for Windows](https://fdopen.github.io/opam-repository-mingw) - opam repository and experimental build for Windows.
+  - [makorel ★7 ⏳2Y](sagotch/makorel) – Release OPAM packages easily.
 
 - **Build Tools**:
   - [Oasis](http://oasis.forge.ocamlcore.org/) - A tool to integrate a configure, build and install system in your OCaml project. It helps to create standard entry points in your build system and allows external tools to analyse your project easily.
-    - [oasis2opam ★24](https://github.com/ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
-  - [obuild ★40](https://github.com/ocaml-obuild/obuild) – Simple package build system for ocaml.
-  - [jenga ★66](https://github.com/janestreet/jenga) – Monadic build system from Jane Street.
+    - [oasis2opam ★24](ocaml/oasis2opam) — Tool to convert OASIS metadata to OPAM package descriptions.
+  - [obuild ★39](ocaml-obuild/obuild) – Simple package build system for ocaml.
+  - [jenga ★67](janestreet/jenga) – Monadic build system from Jane Street.
   - [ocamlbuild](http://ocaml.org/learn/tutorials/ocamlbuild/) — Build system provided with the compiler.
-  - [ocaml-makefile ★39](https://github.com/mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
-  - [topkg ★47](https://github.com/dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
-  - [Namespaces ★61](https://github.com/aantron/namespaces) - ocamlbuild plugin that converts your directory tree into nested modules.
+  - [ocaml-makefile ★41](mmottl/ocaml-makefile) — Easy to use Makefile for small to medium-sized OCaml-projects.
+  - [topkg ★48](dbuenzli/topkg) — OPAM-aware packaging system using ocamlbuild.
+  - [Namespaces ★62](aantron/namespaces) - ocamlbuild plugin that converts your directory tree into nested modules.
 
 
 ## Parallelism
@@ -358,11 +358,11 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - **Libraries**:
   - [Parmap](http://rdicosmo.github.io/parmap/) — Provides easy-to-use parallel map and fold functions.
-  - [ForkWork ★18 ⏳4Y](https://github.com/mlin/forkwork) — A simple library for forking child processes to perform work on multiple cores.
+  - [ForkWork ★18 ⏳4Y](mlin/forkwork) — A simple library for forking child processes to perform work on multiple cores.
   - [Functory](http://functory.lri.fr/About.html) — A distributed computing library which facilitates distributed execution of parallelizable computations in a seamless fashion.
-  - [Rpc.Parallel ★23](https://github.com/janestreet/rpc_parallel) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
+  - [Rpc.Parallel ★23](janestreet/rpc_parallel) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
-  - [Nproc ★24 ⏳3Y](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
+  - [Nproc ★25 ⏳3Y](MyLifeLabs/nproc) – Process pool implementation for OCaml.
 
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](http://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
@@ -376,27 +376,27 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 # Science and Technical Computing
 
-- [biocaml ★71](https://github.com/biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
-- [guizmin ★4](https://github.com/pveber/guizmin) – OCaml library for building bioinformatics pipelines.
+- [biocaml ★74](biocaml/biocaml) – OCaml Bioinformatics Library <http://biocaml.org>.
+- [guizmin ★4](pveber/guizmin) – OCaml library for building bioinformatics pipelines.
 - [lacaml](https://mmottl.github.io/lacaml/) - OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries).
-- [onumerical ★7 ⏳3Y](https://github.com/cheshire/onumerical) – Numerical library for OCaml.
-- [oml ★90](https://github.com/hammerlab/oml) - OCaml library for general numerical work.
-- [ocephes ★9](https://github.com/rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
-- [slap ★45](https://github.com/akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
-- [tensorflow-ocaml ★94](https://github.com/LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
+- [onumerical ★7 ⏳3Y](cheshire/onumerical) – Numerical library for OCaml.
+- [oml ★94](hammerlab/oml) - OCaml library for general numerical work.
+- [ocephes ★9](rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
+- [slap ★45](akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
+- [tensorflow-ocaml ★100](LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 
 
 ## Regular Expressions
 
-- [Re](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
-- [ocaml-pcre](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
-- [Humane-re ★15 ⏳1Y](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
-- [Tyre ★87](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
+- [Re ★85](ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
+- [ocaml-pcre ★12](mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
+- [Humane-re ★16 ⏳1Y](rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
+- [Tyre ★87](Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
 
 
 ## Security
 
-- [ocaml-tls ★176](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+- [ocaml-tls ★178](mirleft/ocaml-tls) – TLS in pure OCaml.
 
 
 ## Semantic Technology
@@ -406,43 +406,43 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 ## Serialization
 
-- [bencode](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
-- [biniou ★16](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
+- [bencode ★8 ⏳2Y](rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
+- [biniou ★16](mjambon/biniou) – Extensible binary data format, like JSON but faster.
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
-- [yojson ★75](https://github.com/mjambon/yojson) — An optimized parsing and printing library for the JSON format.
-- [sexplib ★51](https://github.com/janestreet/sexplib) – A S-expression parser and printer
+- [yojson ★77](mjambon/yojson) — An optimized parsing and printing library for the JSON format.
+- [sexplib ★53](janestreet/sexplib) – A S-expression parser and printer
 
 
 ## System Programming
 
-- [Mirage OS ★874](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
-- [ocaml-fat ★10](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
-- [ocaml-git ★45](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
-- [ocaml-vchan ★23](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
+- [Mirage OS ★897](mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
+- [ocaml-fat ★10](mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
+- [ocaml-git ★47](mirage/ocaml-git) – Pure OCaml low-level git bindings.
+- [ocaml-vchan ★24](mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
 
 ## Testing
 
-- [Alcotest ★0](https://github.com/samoht/alcotest) – A lightweight and colourful test framework.
+- [Alcotest ★0](samoht/alcotest) – A lightweight and colourful test framework.
 - [OUnit](http://ounit.forge.ocamlcore.org/) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
-- [QCheck ★34](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
-- [iTeML ★32](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
+- [QCheck ★37](c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+- [iTeML ★33](vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
 - [Kaputt](http://kaputt.x9c.fr) —  comprehensive testing framework.
 - [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
-- [TestSimple ★7 ⏳2Y](https://github.com/hcarty/ocaml-testsimple) - A lightweight unit testing framework compatible with the [Test Anything Protocol](https://testanything.org/).
+- [TestSimple ★7 ⏳2Y](hcarty/ocaml-testsimple) - A lightweight unit testing framework compatible with the [Test Anything Protocol](https://testanything.org/).
 
 
 ## Web Development
 
 - **Frameworks**:
-  - [Opium ★233](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
-  - [Eliom](http://ocsigen.org/eliom/) – Eliom is a framework for programming web sites and client/server web applications. It uses very new concepts making programming very different from all other web programming tools, and allowing to write a complex web site in very few lines of code.
+  - [Opium ★243](rgrinberg/opium) – Sinatra like web toolkit for OCaml.
+  - [Ocsigen Eliom](http://ocsigen.org/eliom/) – Eliom is a full-featured multi-tier framework, for developing multi-platform Web and mobile apps as 100% OCaml distributed applications. It can also be used for more traditional Web or mobile apps: Web sites, single page applications, REST API, etc.
   - [Ohm](http://ohm-framework.com/) - Ohm was an open source web framework for the OCaml language which is now dead.
-  - [webmachine ★97](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
+  - [webmachine ★102](inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
 
 - **Tools**:
-  - [COW](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
+  - [COW ★68](mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html)
     has many relevant web libraries —
     [Nethtml](http://projects.camlcity.org/projects/dl/ocamlnet-4.0.4/doc/html-main/Nethtml.html)
@@ -457,26 +457,26 @@ If you are beginner and want to learn the basics of OCaml programming here is th
     in Ocamlnet's manual.
   - [tyxml](http://ocsigen.org/tyxml) — Library to build valid (according to the W3C spec) Html and Svg trees.
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
-    - [commonjs_of_ocaml ★9](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js_of_ocaml project.
-  - [BuckleScript ★2428](https://github.com/bloomberg/bucklescript) - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way.
-  - [ocaml-uri ★38](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
-  - [Goji ★26 ⏳2Y](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
-  - [Syndic ★21](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
-  - [ocaml-mustache ★24](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
-  - [atdjs ★9 ⏳3Y](https://github.com/barko/atdjs) – atd code generator for OCaml/js_of_ocaml.
-  - [jingoo ★48](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
-  - [dispatch ★16 ⏳1Y](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
-  - [Lambda Soup ★120](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
-  - [Markup.ml ★64](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
-  - [gen_js_api ★55](https://github.com/LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
+    - [commonjs_of_ocaml ★9 ⏳1Y](AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js_of_ocaml project.
+  - [BuckleScript ★2544](bloomberg/bucklescript) - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way.
+  - [ocaml-uri ★38](mirage/ocaml-uri) – RFC3986 URI parsing library.
+  - [Goji ★29 ⏳2Y](klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
+  - [Syndic ★21](Cumulus/Syndic) – RSS and Atom feed parsing
+  - [ocaml-mustache ★25](rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
+  - [atdjs ★9 ⏳3Y](barko/atdjs) – atd code generator for OCaml/js_of_ocaml.
+  - [jingoo ★48](tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
+  - [dispatch ★17 ⏳1Y](inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
+  - [Lambda Soup ★123](aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
+  - [Markup.ml ★64](aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
+  - [gen_js_api ★59](LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
 
 - **Open Source Projects**:
-  - [Cumulus ★35 ⏳2Y](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
+  - [Cumulus ★35 ⏳2Y](Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen
 
 * * *
 
-_Inspired by awesome projects line. Discover [more awesomeness ★18656](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
+_Inspired by awesome projects line. Discover [more awesomeness ★18868](bayandin/awesome-awesomeness) :sparkles:._
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/rizo/awesome-ocaml">https://github.com/rizo/awesome-ocaml</a> with ranks
+	This list is a copy of <a href="rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks
 </p>

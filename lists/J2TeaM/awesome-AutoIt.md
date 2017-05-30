@@ -2,19 +2,19 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/J2TeaM/awesome-AutoIt">https://github.com/J2TeaM/awesome-AutoIt</a> with ranks
+	This list is a copy of <a href="J2TeaM/awesome-AutoIt">J2TeaM/awesome-AutoIt</a> with ranks
 </p>
 ---
 # Awesome AutoIt
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/J2TeaM/awesome-AutoIt.svg)](https://travis-ci.org/J2TeaM/awesome-AutoIt)
 [![Creator](https://img.shields.io/badge/Creator-Juno__okyo-blue.svg)](https://junookyo.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow&maxAge=2592000)](https://twitter.com/juno_okyo)
 
 > A curated list of awesome UDFs, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
 
-Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list thing.
+Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 ## Table Of Contents
 
@@ -73,8 +73,8 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [SAPWizard (by ozmike)](https://www.autoitscript.com/forum/index.php?showtopic=149540) - SAPWizard UDF.
 - [Service (by arcker)](https://www.autoitscript.com/forum/index.php?showtopic=80201) - Build your own service with AutoIt code.
 - [WiFi (by MattyD)](https://www.autoitscript.com/forum/index.php?showtopic=91018) - Low level control over your wireless LAN.
-- [AutoItMonkey ★7](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
-- [ImperiusAutoIt](https://ohtejera.github.io/ImperiusAutoIt/) - Imperius AutoIt is an [ImperiusGeorge ★9 ⏳2Y](https://github.com/lookout/ImperiusGeorge) client for mobile test automation that support native Android apps.
+- [AutoItMonkey ★7](ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
+- [ImperiusAutoIt](https://ohtejera.github.io/ImperiusAutoIt/) - Imperius AutoIt is an [ImperiusGeorge ★9 ⏳2Y](lookout/ImperiusGeorge) client for mobile test automation that support native Android apps.
 
 #### Browsers
 
@@ -307,7 +307,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Gmail (by PhoenixXL)](https://www.autoitscript.com/forum/index.php?showtopic=141340) - Remote Gmail (UDF).
 - [Google Functions (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=98504) - Google Functions (Suggestions, Definitions, Translate, Convert).
 - [Google Maps (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=115437) - Google Maps UDF.
-- [Imgur ★4 ⏳1Y](https://github.com/J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API.
+- [Imgur ★4 ⏳1Y](J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API.
 - [iTunes (by torels)](https://www.autoitscript.com/forum/index.php?showtopic=70675) - iTunes UDF.
 - [iTunes (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=101802) - Another iTunes UDF.
 - [No-IP (by Nessie)](https://www.autoitscript.com/forum/index.php?showtopic=150985) - With this UDF you can simply update your no-ip hostname(s) and retrive the ip address of an no-ip address.
@@ -375,8 +375,8 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Synology filestation (by nend)](https://www.autoitscript.com/forum/index.php?showtopic=164444) - UDF for users of Synology NAS server.
 - [TVExplorer (by Yashied)](https://www.autoitscript.com/forum/index.php?showtopic=125251) - TVExplorer UDF.
 - [SciLexer (by Kip)](https://www.autoitscript.com/forum/index.php?showtopic=51547) - SciLexer UDF.
-- [AutoItAppveyor (by KyleChamberlin) ★0 ⏳2Y](https://github.com/AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
-- [Micro Unit Testing Framework (by KyleChamberlin) ★5 ⏳1Y](https://github.com/AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt.
+- [AutoItAppveyor (by KyleChamberlin) ★0 ⏳2Y](AutoItMicro/AutoItAppveyor) - This library contains functions for integrating your AutoIt scripts and programs with Appveyor CI.
+- [Micro Unit Testing Framework (by KyleChamberlin) ★5 ⏳1Y](AutoItMicro/MicroUnitTestingFramework) - Micro is a xUnit style testing framework design for use with AutoIt.
 - [TeenyScript (by tarretarretarre)](http://teenyscript.tarre.nu/documentation) - TeenyScript is a Superset of AutoIt which makes it more advanced. TeenyScript code are parsed into native AutoiT code.
 
 ## Tools
@@ -436,7 +436,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 - [WP Syntax](https://wordpress.org/plugins/wp-syntax/) (WordPress Plugin) - based on GeSHi.
 - [PrismJS](http://prismjs.com/) - Added AutoIt since version 1.1.0
-- [AutoIt - Visual Studio ★5](https://github.com/loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
+- [AutoIt - Visual Studio ★5](loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
 
 ## License
 
@@ -448,18 +448,18 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Other Awesome Lists
 
-- [awesome ★57421](https://github.com/sindresorhus/awesome) by @sindresorhus
-- [awesome-all ★83](https://github.com/bradoyler/awesome-all) by @bradoyler
-- [awesome-awesome ★771](https://github.com/emijrp/awesome-awesome) by @emijrp
-- [awesome-awesome ★108](https://github.com/erichs/awesome-awesome) by @erichs
-- [awesome-awesome ★60](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
-- [awesome-awesomeness ★18656](https://github.com/bayandin/awesome-awesomeness) by @bayandin
-- [awesome-awesomes ★473](https://github.com/fleveque/awesome-awesomes) by @fleveque
-- [awesome-collection ★91](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
-- [lists ★4231](https://github.com/jnv/lists) by @jnv
+- [awesome ★59088](sindresorhus/awesome) by @sindresorhus
+- [awesome-all ★85](bradoyler/awesome-all) by @bradoyler
+- [awesome-awesome ★790](emijrp/awesome-awesome) by @emijrp
+- [awesome-awesome ★111](erichs/awesome-awesome) by @erichs
+- [awesome-awesome ★60](oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
+- [awesome-awesomeness ★18868](bayandin/awesome-awesomeness) by @bayandin
+- [awesome-awesomes ★476](fleveque/awesome-awesomes) by @fleveque
+- [awesome-collection ★92](flyhigher139/awesome-collection) by @flyhigher139
+- [lists ★4263](jnv/lists) by @jnv
 
 [[Back to Top](#awesome-autoit)]
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/J2TeaM/awesome-AutoIt">https://github.com/J2TeaM/awesome-AutoIt</a> with ranks
+	This list is a copy of <a href="J2TeaM/awesome-AutoIt">J2TeaM/awesome-AutoIt</a> with ranks
 </p>

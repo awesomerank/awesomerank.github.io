@@ -2,17 +2,17 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/git-tips/tips">https://github.com/git-tips/tips</a> with ranks
+	This list is a copy of <a href="git-tips/tips">git-tips/tips</a> with ranks
 </p>
 ---
 ## git-tips
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](./contributing.md)
 
-[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский ★243](https://github.com/Imangazaliev/git-tips)
+[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский ★256](Imangazaliev/git-tips)
 
 ### __Tools:__
 
-* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container](https://github.com/djoudi5/docker-git-tip))
+* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container ★0](djoudi5/docker-git-tip))
 
 P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
 
@@ -1167,5 +1167,5 @@ git checkout master@{yesterday}
 <!-- @doxie.inject end -->
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/git-tips/tips">https://github.com/git-tips/tips</a> with ranks
+	This list is a copy of <a href="git-tips/tips">git-tips/tips</a> with ranks
 </p>

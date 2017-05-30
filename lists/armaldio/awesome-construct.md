@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/armaldio/awesome-construct">https://github.com/armaldio/awesome-construct</a> with ranks
+	This list is a copy of <a href="armaldio/awesome-construct">armaldio/awesome-construct</a> with ranks
 </p>
 ---
-# Awesome Construct [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Construct [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 [<img src="https://www.scirra.com/images/construct2.png" align="right" width="100">](https://www.scirra.com/)
 
@@ -103,5 +103,5 @@ This list includes all the best tools, tutorials and examples related to the awe
 
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/armaldio/awesome-construct">https://github.com/armaldio/awesome-construct</a> with ranks
+	This list is a copy of <a href="armaldio/awesome-construct">armaldio/awesome-construct</a> with ranks
 </p>

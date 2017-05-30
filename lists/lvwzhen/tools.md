@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/lvwzhen/tools">https://github.com/lvwzhen/tools</a> with ranks
+	This list is a copy of <a href="lvwzhen/tools">lvwzhen/tools</a> with ranks
 </p>
 ---
-# Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 >Tools for web
 
@@ -76,6 +76,7 @@ Ranked awesome lists, all in one place
 * [AlloyPhoto](http://alloyteam.github.io/AlloyPhoto/)
 * [Compressor.io](https://compressor.io/)
 * [Shrinkray](https://shrinkray.io)
+* [Trimage](https://trimage.org)
 
 ### JavaScript
 
@@ -100,13 +101,13 @@ Ranked awesome lists, all in one place
 * [ios7colors](http://ios7colors.com/)
 * [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 * [color-hex](http://www.color-hex.com/)
-* [colors ★7380](https://github.com/mrmrs/colors)
+* [colors ★7421](mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 * [randomColor](https://randomcolor.llllll.li/)
 * [Please JS](http://www.checkman.io/please/)
 * [colourco.de](http://colourco.de)
 * [flatuicolorpicker](http://www.flatuicolorpicker.com/)
-* [krmp.cc ★2](https://github.com/dadleyy/krmp.cc)
+* [krmp.cc ★2](dadleyy/krmp.cc)
 
 ### Font
 
@@ -117,7 +118,7 @@ Ranked awesome lists, all in one place
 * [fonts2u](http://www.fonts2u.com/index.html)
 * [webfonts](http://www.fonts.com/web-fonts)
 * [justfont](http://www.justfont.com/)
-* [iconpark ★319 ⏳1Y](https://github.com/lvwzhen/iconpark)
+* [iconpark ★320 ⏳1Y](lvwzhen/iconpark)
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
 
@@ -143,5 +144,5 @@ Ranked awesome lists, all in one place
 * [Git@OSC](http://git.oschina.net/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/lvwzhen/tools">https://github.com/lvwzhen/tools</a> with ranks
+	This list is a copy of <a href="lvwzhen/tools">lvwzhen/tools</a> with ranks
 </p>

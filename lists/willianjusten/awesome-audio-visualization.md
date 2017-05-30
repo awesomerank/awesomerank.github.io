@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/willianjusten/awesome-audio-visualization">https://github.com/willianjusten/awesome-audio-visualization</a> with ranks
+	This list is a copy of <a href="willianjusten/awesome-audio-visualization">willianjusten/awesome-audio-visualization</a> with ranks
 </p>
 ---
 <p align="center">
@@ -17,7 +17,7 @@ Ranked awesome lists, all in one place
 - [Check the logo in action](http://www.shiz.co/aav/)
 - [Contributing Guide](https://github.com/willianjusten/awesome-audio-visualization/blob/master/Contributing.md)
 
-[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+[![Travis Build](https://travis-ci.org/willianjusten/awesome-audio-visualization.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-audio-visualization) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 ## Table of Contents
 
@@ -93,7 +93,6 @@ Ranked awesome lists, all in one place
 - [Glowsynth - just amazing!](http://outputchannel.com/glowsynth/) - Play with your mouse, Qwerty keyboad, or MIDI keyboard and watch as the lights dance to your music.
 - [Mmorph](http://mmorph.massivemusic.com/) - An adventure into new ways of delivering interactive music in the browser and beyond.
 - [Play a cornet to Donald Trump](http://trumpdonald.org/) - A funny site to play a cornet to Donald Trump by Animal Agency.
-- [Ludens Beat Box](https://www.ludensbeatbox.com) - create your BeatBox by Ludens.
 - [Loop Waveform Visualizer](https://airtightinteractive.com/demos/js/reactive/) - WebGL Visualizer for Screw Base by Beytah.
 - [The Infinite Jukebox](http://labs.echonest.com/Uploader/index.html) - Play every music until the infinite by Paul Lamere.
 - [Bohemian Rhapsichord](http://static.echonest.com/BohemianRhapsichord/index.html) - A web app that turns the song Bohemian Rhapsody into a musical instrument by Paul Lamere.
@@ -122,14 +121,13 @@ Ranked awesome lists, all in one place
 - [D159](http://www.simppa.fi/demo/d159/) - Audio visualization for "gloom" shown at NVScene 2015 by Simo Santavirta.
 - [Restless Earth](http://restless.earth/) - Audio visualization for "Restless Earth".
 - [Scribble Audio](http://scribble.audio/) - Draw loops of sound with this web synthesizer.
-- [Center Your Love](http://cabbi.bo/CenterYourLove/) - Audio visualization experiment by Isaac Cohen.
 - [Touchpianist](http://touchpianist.com/) - play a piano and look all animations along the screen.
 - [Soundcloud Visualizer](http://soundscape.ivxvixviii.io/) - A Generative audio artwork tool.
 - [PartyMode](https://preziotte.com/partymode/) - An experimental music visualizer using d3.js and the web audio api.
 - [Arkade London](http://arkade.london/) - Arkade London is a pure personal and experimental webVJ fan art.
 - [DJi](http://jieverson.com/DJi/) - Clean music visualizer from SoundCloud or self uploaded.
 - [Braille Face: Kōya](https://koya.brailleface.co/) - Navigate a unique interactive environment in your browser while listening to Kōya, the debut album from Melbourne musician Braille Face.
-- [VR Ondes Martenot ★3](https://github.com/elifer5000/vr-ondes-martenot) - A playable rendition of the Ondes Martenot in Virtual Reality.
+- [VR Ondes Martenot ★3](elifer5000/vr-ondes-martenot) - A playable rendition of the Ondes Martenot in Virtual Reality.
 - [Popcorn](http://hughsk.io/popcorn/) - Little audio-reactive sketch by Hugh Kennedy.
 - [Beat](http://experiments.kevinboudot.me/canvas-beat/) - Beat is a HTML5 audio/canvas experiment inspired by Propellerheads Figure iOS App.
 - [Dancing Torus](http://dancing-torus.s3-website-us-east-1.amazonaws.com/) - Dancing Torus is a WebGL Audio Reactive experience. Choose your favourite song on Soundcloud and start dancing!
@@ -163,38 +161,38 @@ Ranked awesome lists, all in one place
 
 ## Libraries Audio
 
-- [web-audio-analyser ★123](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
-- [web-audio-player ★115](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player.
-- [web-media-playback ★6 ⏳1Y](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser.
+- [web-audio-analyser ★130](hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
+- [web-audio-player ★121](Jam3/web-audio-player) - A cross-browser Web Audio player.
+- [web-media-playback ★6 ⏳1Y](hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser.
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
-- [ThreeAudio.js ★401 ⏳1Y](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
+- [ThreeAudio.js ★403 ⏳1Y](unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
 - [Beeplay.js](https://watilde.github.io/beeplay/) - Write a song In JavaScript.
-- [MIDI.js ★2161](https://github.com/mudcube/MIDI.js) - Making life easy to create a MIDI-app on the web.
-- [Beep.js ★1142 ⏳2Y](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers.
-- [p5.sound ★212](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
+- [MIDI.js ★2184](mudcube/MIDI.js) - Making life easy to create a MIDI-app on the web.
+- [Beep.js ★1164 ⏳2Y](stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers.
+- [p5.sound ★221](processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
 - [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
-- [audio-render ★19 ⏳1Y](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
-- [Octavian ★97 ⏳1Y](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
+- [audio-render ★19 ⏳1Y](audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
+- [Octavian ★99 ⏳1Y](stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
-- [audiowaveform ★342](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
+- [audiowaveform ★357](bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 
 ## Libraries Visualization
 
 - [p5.js](http://p5js.org/) - A JavaScript library for creating graphic and interactive experiences, based on the core principles of Processing.
-- [Pixi.js ★14098](https://github.com/pixijs/pixi.js) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+- [Pixi.js ★14362](pixijs/pixi.js) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
 - [sketch.js](http://soulwire.github.io/sketch.js/) - Let's you get straight to the fun parts of creative coding, without ever having to worry about shims or boilerplate code.
 - [three.js](http://threejs.org/) - Three.js is a library that makes WebGL easy to use.
 - [Two.js](https://jonobr1.github.io/two.js/) - A two-dimensional drawing API geared towards modern web browsers. It is renderer agnostic enabling the same API to draw in multiple contexts: SVG, Canvas, and WebGL.
 - [BabylonJS](http://babylonjs.com/) - A complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
-- [Web Audio Extension ★136](https://github.com/spite/WebAudioExtension) - A Chrome extension to play with Web Audio.
+- [Web Audio Extension ★138](spite/WebAudioExtension) - A Chrome extension to play with Web Audio.
 - [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding in C++.
 - [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
 - [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
-- [The Force ★77](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
-- [Hylogen](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
+- [The Force ★78](shawnlawson/The_Force) - Live coded shader editing with audio input.
+- [Hylogen ★316](sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 - [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
-- [Clubber.js ★129](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations.
+- [Clubber.js ★143](wizgrav/clubber) - Application of music theory in audio reactive visualizations.
 
 ## People to Follow
 
@@ -273,5 +271,5 @@ Your contributions are always welcome! [Click here to read the guidelines](https
 To the extent possible under law, [Willian Justen](http://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/willianjusten/awesome-audio-visualization">https://github.com/willianjusten/awesome-audio-visualization</a> with ranks
+	This list is a copy of <a href="willianjusten/awesome-audio-visualization">willianjusten/awesome-audio-visualization</a> with ranks
 </p>

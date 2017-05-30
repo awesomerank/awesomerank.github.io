@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/lucasviola/awesome-tech-videos">https://github.com/lucasviola/awesome-tech-videos</a> with ranks
+	This list is a copy of <a href="lucasviola/awesome-tech-videos">lucasviola/awesome-tech-videos</a> with ranks
 </p>
 ---
-## Awesome Tech Videos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+## Awesome Tech Videos [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 * A curated list of tech videos from youtube, vimeo, etc, just because
 I think this is one of the best ways for us to learn from people who
@@ -182,5 +182,5 @@ really know what they are doing :)
 To the extent possible under law, [Lucas Viola](http://lucasviola.github.io) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/lucasviola/awesome-tech-videos">https://github.com/lucasviola/awesome-tech-videos</a> with ranks
+	This list is a copy of <a href="lucasviola/awesome-tech-videos">lucasviola/awesome-tech-videos</a> with ranks
 </p>

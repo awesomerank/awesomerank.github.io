@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/Codepoints/awesome-codepoints">https://github.com/Codepoints/awesome-codepoints</a> with ranks
+	This list is a copy of <a href="Codepoints/awesome-codepoints">Codepoints/awesome-codepoints</a> with ranks
 </p>
 ---
-# Awesome Code Points [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Code Points [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 This is a curated list of characters in Unicode, that have interesting (and
 maybe not widely known) features or are awesome in some other way.
@@ -194,6 +194,8 @@ different types of whitespace.
     &#x1F596;
 * [U+1F918](https://codepoints.net/U+1F918) SIGN OF THE HORNS - Rock on!
     &#x1F918;
+* [U+2800](https://codepoints.net/U+2800) BRAILLE PATTERN BLANK - A Braille pattern that has zero of its six or eight dots filled in. According to the standard: “* while this character is imaged as a fixed-width blank in many fonts, it does not act as a space” Essentially it is rendered as white-space, but since it is designated as *not* white-space it isn't matched by white-space-validating regular expressions. This can be used to bypass all kinds of validation that disallows or trims white-space.
+
 
 ### Games
 
@@ -226,5 +228,5 @@ have waived all copyright and related or neighboring rights to this work. See
 [the license file](LICENSE) for details.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/Codepoints/awesome-codepoints">https://github.com/Codepoints/awesome-codepoints</a> with ranks
+	This list is a copy of <a href="Codepoints/awesome-codepoints">Codepoints/awesome-codepoints</a> with ranks
 </p>

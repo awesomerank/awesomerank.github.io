@@ -2,13 +2,13 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/jyguyomarch/awesome-productivity">https://github.com/jyguyomarch/awesome-productivity</a> with ranks
+	This list is a copy of <a href="jyguyomarch/awesome-productivity">jyguyomarch/awesome-productivity</a> with ranks
 </p>
 ---
-# Awesome Productivity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Productivity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 > A curated list of delightful productivity resources.
 
-Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 ## Table of Content
 
@@ -71,8 +71,8 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
  - [IFTTT](https://ifttt.com) – Allows you to create chains of conditional statements (called _recipes_) between web services in order to make the web work for you and boost your productivity.
  - [Tasker](http://tasker.dinglisch.net/) – Android application that can perform context sensitive custom tasks (_e.g._ automatically turn on wifi when you arrive home).
  - [Zapier](https://zapier.com/) – Automation tool that allows you to connect hundreds of web services and create automations between the processes.
- - [Awesome AutoHotKey ★447](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
+ - [Awesome AutoHotKey ★461](ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/jyguyomarch/awesome-productivity">https://github.com/jyguyomarch/awesome-productivity</a> with ranks
+	This list is a copy of <a href="jyguyomarch/awesome-productivity">jyguyomarch/awesome-productivity</a> with ranks
 </p>

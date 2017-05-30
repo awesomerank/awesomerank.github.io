@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/dypsilon/frontend-dev-bookmarks">https://github.com/dypsilon/frontend-dev-bookmarks</a> with ranks
+	This list is a copy of <a href="dypsilon/frontend-dev-bookmarks">dypsilon/frontend-dev-bookmarks</a> with ranks
 </p>
 ---
-# Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 **Manually curated collection of resources for frontend web developers.**
 
@@ -123,5 +123,5 @@ Task automation and asset delivery.
 
 Please provide a link back to this repository. This is not necessary for GitHub forks.---
 <p align="center">
-	This list is a copy of <a href="https://github.com/dypsilon/frontend-dev-bookmarks">https://github.com/dypsilon/frontend-dev-bookmarks</a> with ranks
+	This list is a copy of <a href="dypsilon/frontend-dev-bookmarks">dypsilon/frontend-dev-bookmarks</a> with ranks
 </p>

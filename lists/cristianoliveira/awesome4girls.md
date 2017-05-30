@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/cristianoliveira/awesome4girls">https://github.com/cristianoliveira/awesome4girls</a> with ranks
+	This list is a copy of <a href="cristianoliveira/awesome4girls">cristianoliveira/awesome4girls</a> with ranks
 </p>
 ---
-# awesome4girls [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
+# awesome4girls [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 A curated list of awesome inclusive events/projects/initiatives for women in the tech area.
 
 ----
@@ -311,5 +311,5 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 This work is licensed under a [CC0 1.0 Universal (CC0 1.0).](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/cristianoliveira/awesome4girls">https://github.com/cristianoliveira/awesome4girls</a> with ranks
+	This list is a copy of <a href="cristianoliveira/awesome4girls">cristianoliveira/awesome4girls</a> with ranks
 </p>

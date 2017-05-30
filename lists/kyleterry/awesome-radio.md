@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/kyleterry/awesome-radio">https://github.com/kyleterry/awesome-radio</a> with ranks
+	This list is a copy of <a href="kyleterry/awesome-radio">kyleterry/awesome-radio</a> with ranks
 </p>
 ---
-# Awesome Radio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Radio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A curated list of awesome radio resources. Inspired by awesome-*.
 
@@ -206,5 +206,5 @@ group and the base station will find an empty frequency to transmit on.
 * [Trunked Radio wikipedia](http://en.wikipedia.org/wiki/Trunked_radio_system)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/kyleterry/awesome-radio">https://github.com/kyleterry/awesome-radio</a> with ranks
+	This list is a copy of <a href="kyleterry/awesome-radio">kyleterry/awesome-radio</a> with ranks
 </p>

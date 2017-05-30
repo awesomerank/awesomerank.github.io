@@ -2,24 +2,24 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/sadcitizen/awesome-marionette">https://github.com/sadcitizen/awesome-marionette</a> with ranks
+	This list is a copy of <a href="sadcitizen/awesome-marionette">sadcitizen/awesome-marionette</a> with ranks
 </p>
 ---
-# Awesome Marionette.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Marionette.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > A list of resources for marionette.js
 
 ## General
 
 - [Official site](http://marionettejs.com/)
-- [Github repository ★7118](https://github.com/marionettejs/backbone.marionette)
+- [Github repository ★7125](marionettejs/backbone.marionette)
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
 - [Gitter chat](https://gitter.im/marionettejs/backbone.marionette)
-- [Marionette Inspector ★165](https://github.com/marionettejs/marionette.inspector)
-- [Yeoman generator for Marionette.js ★347](https://github.com/mrichard/generator-marionette)
-- [Marionette CLI ★21](https://github.com/denar90/marionette-cli)
+- [Marionette Inspector ★165](marionettejs/marionette.inspector)
+- [Yeoman generator for Marionette.js ★347](mrichard/generator-marionette)
+- [Marionette CLI ★21 ⏳1Y](denar90/marionette-cli)
 - [MarionetteJS CLI package for atom](https://atom.io/packages/atom-marionettejs-cli)
 
 ## Tutorials and articles
@@ -92,32 +92,32 @@ Ranked awesome lists, all in one place
 
 ## Examples and boilerplates
 
-- [Marionette Require Boilerplate ★257 ⏳1Y](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate)
-- [Marionette Contact Manager ★24 ⏳3Y](https://github.com/dmytroyarmak/marionette-contact-manager) - Continuation of development "Backbone Contact Manager" but using Marionette.js
-- [Marionette, Require, and Gulp.js Boilerplate ★18 ⏳1Y](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js
-- [MarionetteJS + RequireJS + Twitter Bootstrap ★65 ⏳2Y](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
-- [Marionette Gentle Introduction ★354](https://github.com/davidsulc/marionette-gentle-introduction)
-- [Marionette Wires ★336](https://github.com/thejameskyle/marionette-wires)
-- [Marionette Cookbook ★103 ⏳2Y](https://github.com/MarionetteLabs/marionette-cookbook)
-- [MarionetteJS + Brunch + Babel/ES6 ★13](https://github.com/denar90/brunch-with-marionettejs)
-- [A Place to Write About Technical Subjects on the Web ★97 ⏳1Y](https://github.com/jmeas/gistbook)
-- [The Front End App for edit.sx ★32 ⏳2Y](https://github.com/samccone/edit.sx-frontend)
-- [Streamus ★1111](https://github.com/MeoMix/StreamusChromeExtension)
-- [Marionette-Integrations ★94](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools
-- [ES6 Marionette Project ★65](https://github.com/abiee/es6-marionette)
+- [Marionette Require Boilerplate ★259 ⏳1Y](BoilerplateMVC/Marionette-Require-Boilerplate)
+- [Marionette Contact Manager ★24 ⏳3Y](dmytroyarmak/marionette-contact-manager) - Continuation of development "Backbone Contact Manager" but using Marionette.js
+- [Marionette, Require, and Gulp.js Boilerplate ★18 ⏳2Y](jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js
+- [MarionetteJS + RequireJS + Twitter Bootstrap ★66 ⏳2Y](ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
+- [Marionette Gentle Introduction ★355 ⏳1Y](davidsulc/marionette-gentle-introduction)
+- [Marionette Wires ★338](thejameskyle/marionette-wires)
+- [Marionette Cookbook ★104 ⏳2Y](MarionetteLabs/marionette-cookbook)
+- [MarionetteJS + Brunch + Babel/ES6 ★14](denar90/brunch-with-marionettejs)
+- [A Place to Write About Technical Subjects on the Web ★97 ⏳1Y](jmeas/gistbook)
+- [The Front End App for edit.sx ★32 ⏳2Y](samccone/edit.sx-frontend)
+- [Streamus ★1110](MeoMix/StreamusChromeExtension)
+- [Marionette-Integrations ★95](marionettejs/marionette-integrations) - example marionette apps using several different asset management tools
+- [ES6 Marionette Project ★65](abiee/es6-marionette)
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
-- [Webpack-Marionette ★8](https://github.com/alexpsi/webpack-marionette) A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.
+- [Webpack-Marionette ★9](alexpsi/webpack-marionette) A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.
 
 
 ## Libraries
 
-- [Marionette State ★115 ⏳1Y](https://github.com/Squareknot/marionette.state)
-- [Marionette Virtual Dom ★132](https://github.com/tiagorg/marionette-vdom)
-- [Marionette Form View ★80 ⏳1Y](https://github.com/viverae/marionette.formview)
-- [A Better Router for Backbone and Marionette Applications ★69 ⏳1Y](https://github.com/Betterment/backbone.blazer)
-- [Marionette.Toolkit ★66](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
-- [Orchestra ★26](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework
+- [Marionette State ★115 ⏳1Y](Squareknot/marionette.state)
+- [Marionette Virtual Dom ★134](tiagorg/marionette-vdom)
+- [Marionette Form View ★80 ⏳1Y](viverae/marionette.formview)
+- [A Better Router for Backbone and Marionette Applications ★68 ⏳1Y](Betterment/backbone.blazer)
+- [Marionette.Toolkit ★65](RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
+- [Orchestra ★26](BedeGaming/orchestra) - Client-side app orchestration framework
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/sadcitizen/awesome-marionette">https://github.com/sadcitizen/awesome-marionette</a> with ranks
+	This list is a copy of <a href="sadcitizen/awesome-marionette">sadcitizen/awesome-marionette</a> with ranks
 </p>

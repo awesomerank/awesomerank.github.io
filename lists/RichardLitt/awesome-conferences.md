@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/RichardLitt/awesome-conferences">https://github.com/RichardLitt/awesome-conferences</a> with ranks
+	This list is a copy of <a href="RichardLitt/awesome-conferences">RichardLitt/awesome-conferences</a> with ranks
 </p>
 ---
-# Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > :ticket: A list of awesome conferences
 
@@ -112,7 +112,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
 * [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
-* [Papers We Love ★22892](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
+* [Papers We Love ★23320](papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
 * [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
 * [Symfony Live](http://live.symfony.com/) // [@symfony_live](https://twitter.com/symfony_live)
 * [React.js Conf](http://conf.reactjs.org/) // [@vjeux](https://twitter.com/vjeux)
@@ -350,8 +350,8 @@ _If you see any conferences here that you like // have attended // will attend, 
 
 ### Help with Speaking
 
-* [awesome-speaking ★471](https://github.com/matteofigus/awesome-speaking)
-* [gitpitch ★2704](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com.
+* [awesome-speaking ★483](matteofigus/awesome-speaking)
+* [gitpitch ★3023](gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com.
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
@@ -370,16 +370,16 @@ How to host stuff.
 
 ### Other Lists
 
-* [AndroidStudyGroup ★956](https://github.com/AndroidStudyGroup/conferences)
-* [awesome-django#conferences ★5389](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
-* [awesome-software-craftsmanship conferences ★294](https://github.com/benas/awesome-software-craftsmanship#school-conferences)
+* [AndroidStudyGroup ★967](AndroidStudyGroup/conferences)
+* [awesome-django#conferences ★5543](rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
+* [awesome-software-craftsmanship conferences ★296](benas/awesome-software-craftsmanship#school-conferences)
 * [Big Conference List](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0) from @joshsimmons.
-* [Cocoa Conferences ★638](https://github.com/Lascorbe/CocoaConferences) List of cocoa conferences for iOS & OSX developers.
-* [watson/conferences ★158](https://github.com/watson/conferences) List of awesome conferences from @watson.
+* [Cocoa Conferences ★644](Lascorbe/CocoaConferences) List of cocoa conferences for iOS & OSX developers.
+* [watson/conferences ★163](watson/conferences) List of awesome conferences from @watson.
 * [Interdisciplinary Open Source Community Conferences](https://gist.github.com/maxogden/322a649ff84fe1c2a680) by [@maxogden](https://github.com/maxogden).
 * [Conferences list](https://twitter.com/jakerella/lists/conferences/members) by [@jakarella](https://twitter.com/jakerella) on Twitter.
 * [php conferences in fall 2015](https://gist.github.com/DragonBe/51002bd40a6fa99a5123)
-* [planetruby/awesome-events](https://github.com/planetruby/awesome-events). A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
+* [planetruby/awesome-events ★186](planetruby/awesome-events). A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
 * [totalism.org](http://totalism.org/calendar). Events of interest for tactical hacker, theory, avant-art scenes in space-time.
 
 
@@ -405,5 +405,5 @@ Please do! Check out the [Contributing](https://github.com/RichardLitt/awesome-c
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/RichardLitt/awesome-conferences">https://github.com/RichardLitt/awesome-conferences</a> with ranks
+	This list is a copy of <a href="RichardLitt/awesome-conferences">RichardLitt/awesome-conferences</a> with ranks
 </p>

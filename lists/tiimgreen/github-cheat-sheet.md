@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/tiimgreen/github-cheat-sheet">https://github.com/tiimgreen/github-cheat-sheet</a> with ranks
+	This list is a copy of <a href="tiimgreen/github-cheat-sheet">tiimgreen/github-cheat-sheet</a> with ranks
 </p>
 ---
-# GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 A collection of cool hidden and not so hidden features of Git and GitHub. This cheat sheet was inspired by [Zach Holman](https://github.com/holman)'s [Git and GitHub Secrets](http://confreaks.tv/videos/aloharuby2012-git-and-github-secrets) talk at Aloha Ruby Conference 2012 ([slides](https://speakerdeck.com/holman/git-and-github-secrets)) and his [More Git and GitHub Secrets](https://vimeo.com/72955426) talk at WDCNZ 2013 ([slides](https://speakerdeck.com/holman/more-git-and-github-secrets)).
 
 *Shortlink: [`http://git.io/sheet`](http://git.io/sheet)*
@@ -351,14 +351,14 @@ table.add_row('Tim Green', 'tiimgreen@gmail.com')
 puts table.to_s
 ```
 
-GitHub uses [Linguist ★4652](https://github.com/github/linguist) to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
+GitHub uses [Linguist ★4727](github/linguist) to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
 
 [*Read more about GitHub Flavored Markdown.*](https://help.github.com/articles/github-flavored-markdown/)
 
 ### Emojis
 Emojis can be added to Pull Requests, Issues, commit messages, repository descriptions, etc. using `:name_of_emoji:`.
 
-The full list of supported Emojis on GitHub can be found at [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/) or [scotch-io/All-Github-Emoji-Icons ★459](https://github.com/scotch-io/All-Github-Emoji-Icons).
+The full list of supported Emojis on GitHub can be found at [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/) or [scotch-io/All-Github-Emoji-Icons ★478](scotch-io/All-Github-Emoji-Icons).
 A handy emoji search engine can be found at [emoji.muan.co](http://emoji.muan.co/).
 
 The top 5 used Emojis on GitHub are:
@@ -592,7 +592,7 @@ GitHub can display several common image formats, including PNG, JPG, GIF, and PS
 [*Read more about rendering and diffing images.*](https://help.github.com/articles/rendering-and-diffing-images/)
 
 ### Hub
-[Hub ★10294](https://github.com/github/hub) is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.
+[Hub ★10458](github/hub) is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.
 
 This allows you to do things like:
 
@@ -600,7 +600,7 @@ This allows you to do things like:
 $ hub clone tiimgreen/toc
 ```
 
-[*Check out some more cool commands Hub has to offer.* ★10294](https://github.com/github/hub#commands)
+[*Check out some more cool commands Hub has to offer.* ★10611](github/hub#commands)
 
 ### Contribution Guidelines
 GitHub supports adding 3 different files which help users contribute to your project.
@@ -839,7 +839,7 @@ produces:
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-*This can be aliased using the instructions found [here ★21871](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
+*This can be aliased using the instructions found [here ★22108](tiimgreen/github-cheat-sheet#aliases).*
 
 [*Read more about the Git `log` command.*](http://git-scm.com/docs/git-log)
 
@@ -1060,5 +1060,5 @@ $ git config --global color.ui 1
 | GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/tiimgreen/github-cheat-sheet">https://github.com/tiimgreen/github-cheat-sheet</a> with ranks
+	This list is a copy of <a href="tiimgreen/github-cheat-sheet">tiimgreen/github-cheat-sheet</a> with ranks
 </p>

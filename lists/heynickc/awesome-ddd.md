@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/heynickc/awesome-ddd">https://github.com/heynickc/awesome-ddd</a> with ranks
+	This list is a copy of <a href="heynickc/awesome-ddd">heynickc/awesome-ddd</a> with ranks
 </p>
 ---
-# Awesome Domain-Driven Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Domain-Driven Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources.
 
@@ -67,7 +67,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Advanced Distributed Systems Design](https://5757066.flickrocket.com/us/) - Live training from Udi Dahan.  Udi's live training schedule can be found [here](http://udidahan.com/training/).
 - [Nomad PHP](https://nomadphp.com/product/introduction-event-sourcing-cqrs/) - Introduction to Event Sourcing and CQRS.
 - [Event Sourcery](https://eventsourcery.com/) - Introduction to DDD, CQRS, and Event Sourcing.
-- [Mixter ★130](https://github.com/DevLyon/mixter) - CQRS and Event Sourcing Koans.
+- [Mixter ★144](DevLyon/mixter) - CQRS and Event Sourcing Koans.
 - [Pluralsight](https://pluralsight.com)
 	 - [Domain-Driven Design Fundamentals](https://www.pluralsight.com/courses/domain-driven-design-fundamentals) - Teaches the fundamentals of Domain-Driven Design (DDD) through a demonstration of customer interactions and a complex demo application, along with advice from Eric Evans.
 	 - [Domain-Driven Design in Practice](https://www.pluralsight.com/courses/domain-driven-design-in-practice) - A descriptive, in-depth walk-through for applying Domain-Driven Design principles in practice.
@@ -128,56 +128,56 @@ The term was coined by Eric Evans in his book of the same title.
 
 ## Sample Projects
 
-- [Reactive Trader Cloud ★547](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
+- [Reactive Trader Cloud ★576](AdaptiveConsulting/ReactiveTraderCloud) - Reactive Trader Cloud by Adaptive Consulting.
 - [Example of Domain-Driven Design in F#](https://gist.github.com/swlaschin/2ad8627d0400b2ab70e9f3da08902c9d) - Example of Domain Driven Design for the game of checkers. There are two files: a scratch file with a series of designs, and a final version.
-- [SimpleCQRS ★1103](https://github.com/gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
+- [SimpleCQRS ★1119 ⏳1Y](gregoryyoung/m-r) - Greg Young's "Simplest Thing" CQRS with Event Sourcing project.
 - [Companion Code for Microsoft .NET Architecting Applications for the Enterprise](https://naa4e.codeplex.com/SourceControl/latest) by Dino Esposito.
 - [Microsoft Patterns and Practices: CQRS Journey Sample Code](https://github.com/mspnp/cqrs-journey) - Sample code from CQRS Journey.
-- [CQRS-DDD Example ★27 ⏳3Y](https://github.com/dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
-- [Scritchy ★59 ⏳3Y](https://github.com/ToJans/Scritchy) - CQRS without the Plumbing, [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
-- [Simple CQRS in F# ★56 ⏳4Y](https://github.com/thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
-- [FsUno ★56 ⏳2Y](https://github.com/thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
-- [IDDD Samples ★772 ⏳1Y](https://github.com/VaughnVernon/IDDD_Samples) - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168).
-- [IDDD Samples in .NET ★338 ⏳1Y](https://github.com/VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168).
-- [Akka CQRS ES Demo ★35](https://github.com/mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
-- [DDD Leaven ★309](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
-- [DDD Playground ★79](https://github.com/jorge07/ddd-playground) - Sample implementation in PHP.
-- [Fohjin ★550 ⏳1Y](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
-- [Lokad IDDD Sample ★131 ⏳4Y](https://github.com/Lokad/lokad-iddd-sample) - This is a .NET Sample Project to accompany Event Sourcing materials from the book by Vaughn Vernon: Implementing Domain-Driven Design.
-- [ContosoUniversityCore ★209](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
-- [DDDSkeletonNet](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
-- [Event Sourcing Example](https://github.com/Pragmatists/eventsourcing-java-example) (Java) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
+- [CQRS-DDD Example ★28 ⏳3Y](dcomartin/DDD-CQRS-ES-Example) - Domain Driven Design, CQRS, & Event Sourcing Example using GetEventStore, CommonDomain, NServiceBus, Entity Framework, SQL Server, SignalR.
+- [Scritchy ★59 ⏳3Y](ToJans/Scritchy) - CQRS without the Plumbing, [video](http://www.youtube.com/watch?v=5DKTFZD3hu8).
+- [Simple CQRS in F# ★56 ⏳5Y](thinkbeforecoding/m-r) - Greg Young's SimpleCQRS in F#.
+- [FsUno ★56 ⏳2Y](thinkbeforecoding/FsUno) - Event sourcing implementation sample in F#.
+- [IDDD Samples ★807 ⏳1Y](VaughnVernon/IDDD_Samples) - These are the sample Bounded Contexts from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168).
+- [IDDD Samples in .NET ★345 ⏳1Y](VaughnVernon/IDDD_Samples_NET) - These are the sample Bounded Contexts for C#.NET from the book "Implementing Domain-Driven Design" by Vaughn Vernon: [http://vaughnvernon.co/?page_id=168](http://vaughnvernon.co/?page_id=168).
+- [Akka CQRS ES Demo ★36](mdonkers/akka-cqrs-es-demo) - Demo project to implement the CQRS and Event Sourcing patterns in Scala-Akka.
+- [DDD Leaven ★317](BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
+- [DDD Playground ★90](jorge07/ddd-playground) - Sample implementation in PHP.
+- [Fohjin ★554 ⏳1Y](MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
+- [Lokad IDDD Sample ★131 ⏳4Y](Lokad/lokad-iddd-sample) - This is a .NET Sample Project to accompany Event Sourcing materials from the book by Vaughn Vernon: Implementing Domain-Driven Design.
+- [ContosoUniversityCore ★220](jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
+- [DDDSkeletonNet ★75 ⏳3Y](andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
+- [Event Sourcing Example ★0](Pragmatists/eventsourcing-java-example) (Java) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).
 
 ## Libraries and Frameworks
 
 - [Event Store](https://geteventstore.com) - The open-source, functional database with Complex Event Processing in JavaScript.
 - [Axon Framework](http://www.axonframework.org/) - The axon framework is focused on making life easier for developers that want to create a java application based on the CQRS principles.
-- [MessageRouter ★32](https://github.com/QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
-- [NEventStore ★1101](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
-- [Projac ★76](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
-- [Streamstone ★126](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
-- [Value ★17](https://github.com/tpierrain/Value) - Help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
-- [Cirqus ★155](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
-- [Its.Cqrs ★46](https://github.com/jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.
-- [AggregateSource ★166](https://github.com/yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
-- [JESA ★4](https://github.com/yreynhout/JESA) -  Event sourced aggregates for Java.
-- [EventFlow ★322](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET http://geteventflow.net/.
-- [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga ★18](https://github.com/adrai/node-cqrs-saga).
+- [MessageRouter ★35](QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
+- [NEventStore ★1111](NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
+- [Projac ★78](yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
+- [Streamstone ★131](yevhen/Streamstone) - Event Store for Azure Table Storage.
+- [Value ★24](tpierrain/Value) - Help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
+- [Cirqus ★157](d60/Cirqus) - d60 event sourcing + CQRS framework.
+- [Its.Cqrs ★47](jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.
+- [AggregateSource ★168](yreynhout/aggregateSource) - Lightweight infrastructure for doing eventsourcing using aggregates.
+- [JESA ★4](yreynhout/JESA) -  Event sourced aggregates for Java.
+- [EventFlow ★335](eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET http://geteventflow.net/.
+- [cqrs.js](http://cqrs.js.org) - CQRS implementations in node.js.  Includes [node-eventstore](https://github.com/adrai/node-eventstore), [node-cqrs-domain](https://github.com/adrai/node-cqrs-domain), [node-eventdenormalizer](https://github.com/adrai/node-cqrs-eventdenormalizer), [node-cqrs-saga ★21](adrai/node-cqrs-saga).
 - [Eventsourcing](https://eventsourcing.com) - Business event capture and querying framework.
-- [CQRS on Azure ★5](https://github.com/MerrionComputing/CQRSAzure) CQRS on Windows Azure.
+- [CQRS on Azure ★5](MerrionComputing/CQRSAzure) CQRS on Windows Azure.
 - [SeedStack's Business Framework](http://seedstack.org/docs/business/) - A set of building blocks that enable you to code business logic according to the Domain-Driven Design (DDD) approach.
-- [SqlStreamStore ★91](https://github.com/damianh/SqlStreamStore) - .NET Stream Store library targeting SQL based implementations.
-- [Cedar.CommandHandling ★38](https://github.com/damianh/Cedar.CommandHandling) - Middleware to handling commands over HTTP; typically used in CQRS applications.
-- [NServiceBus ★1088](https://github.com/Particular/NServiceBus) - Service bus for .NET.
-- [MassTransit ★1085](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET.
+- [SqlStreamStore](https://github.com/damianh/SqlStreamStore) - .NET Stream Store library targeting SQL based implementations.
+- [Cedar.CommandHandling ★38](damianh/Cedar.CommandHandling) - Middleware to handling commands over HTTP; typically used in CQRS applications.
+- [NServiceBus ★1100](Particular/NServiceBus) - Service bus for .NET.
+- [MassTransit ★1102](MassTransit/MassTransit) - Distributed Application Framework for .NET.
 - [Akka.NET](http://getakka.net/) - Akka.NET is a toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 - [ASP.NET Boilerplate](http://aspnetboilerplate.com/) - ASP.NET MVC, Web API and ASP.NET Core based application framework to create NLayered, Domain Driven Designed web Applications implementing best practices.
-- [Aggregates.NET ★42](https://github.com/volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.
-- [Stringly.Typed ★18](https://github.com/mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
-- [Commanded ★184](https://github.com/slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
-- [akka-ddd ★202](https://github.com/pawelkaczor/akka-ddd) - Reusable artifacts for building applications on top of the Akka platform following CQRS/DDDD-based approach.
-- [eventstore ★197](https://github.com/slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
-- [Node API Boilerplate ★81](https://github.com/talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
+- [Aggregates.NET ★45](volak/Aggregates.NET) - .NET event sourced domain driven design model via NServicebus and GetEventStore.
+- [Stringly.Typed ★18](mission202/Stringly.Typed) - Making it easier to convert strings to/from .NET types.
+- [Commanded ★201](slashdotdash/commanded) - Command handling middleware for CQRS/ES applications, Pure Functional Data Structures for Aggregates and Process Managers, Point-to-Point message routing, and much more in Elixir (Erlang VM) - All in Actor concurrency model.
+- [akka-ddd ★205](pawelkaczor/akka-ddd) - Reusable artifacts for building applications on top of the Akka platform following CQRS/DDDD-based approach.
+- [eventstore ★205](slashdotdash/eventstore) - CQRS event store using PostgreSQL for persistence.
+- [Node API Boilerplate ★88](talyssonoc/node-api-boilerplate) - NodeJS web API boilerplate for DDD and Clean Architecture applications.
 
 ## Podcasts and Interviews
 
@@ -217,5 +217,5 @@ The term was coined by Eric Evans in his book of the same title.
 To the extent possible under law, [Nick Chamberlain](https://buildplease.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/heynickc/awesome-ddd">https://github.com/heynickc/awesome-ddd</a> with ranks
+	This list is a copy of <a href="heynickc/awesome-ddd">heynickc/awesome-ddd</a> with ranks
 </p>

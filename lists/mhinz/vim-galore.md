@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/mhinz/vim-galore">https://github.com/mhinz/vim-galore</a> with ranks
+	This list is a copy of <a href="mhinz/vim-galore">mhinz/vim-galore</a> with ranks
 </p>
 ---
 <div align='center'>
@@ -160,7 +160,7 @@ Discussions and user questions are best done on the
 [vim_use](https://groups.google.com/forum/#!forum/vim_use) mailing list or using
 IRC ([Freenode](https://freenode.net)) in the `#vim` channel.
 
-Development happens on [Github ★8954](https://github.com/vim/vim), discussions on the
+Development happens on [Github ★9182](vim/vim), discussions on the
 [vim_dev](https://groups.google.com/forum/#!forum/vim_dev) mailing list.
 
 Read [Why, oh WHY, do those #?@! nutheads use
@@ -306,7 +306,7 @@ Help:
 - http://michael.peopleofhonoronly.com/vim/vim_cheat_sheet_for_programmers_screen.png
 - http://www.rosipov.com/images/posts/vim-movement-commands-cheatsheet.png
 
-Or quickly open a cheatsheet from within Vim: [vim-cheat40 ★23](https://github.com/lifepillar/vim-cheat40).
+Or quickly open a cheatsheet from within Vim: [vim-cheat40 ★25](lifepillar/vim-cheat40).
 
 # Basics
 
@@ -896,7 +896,7 @@ files](#handling-backup-swap-undo-and-viminfo-files) for how to enable
 persistent undo.
 
 If you're confused by the undo tree,
-[undotree ★665](https://github.com/mbbill/undotree) does a great job at visualizing
+[undotree ★685](mbbill/undotree) does a great job at visualizing
 it.
 
 Help:
@@ -1075,7 +1075,7 @@ Vim distinguishes between several types of fold methods:
 
 **NOTE**: Folding can be computationally intensive! If you experience any
 performance drawbacks (small delays when typing), have a look at
-[FastFold ★240](https://github.com/Konfekt/FastFold), which prevents Vim from
+[FastFold ★244](Konfekt/FastFold), which prevents Vim from
 updating folds when it's not needed.
 
 Help:
@@ -1694,7 +1694,7 @@ mount a remote filesystem into your local filesystem.
 
 ## Managing plugins
 
-[Pathogen ★9005](https://github.com/tpope/vim-pathogen) was the first popular tool for
+[Pathogen ★9114](tpope/vim-pathogen) was the first popular tool for
 managing plugins. Actually it just adjusts the _runtimepath_ (`:h 'rtp'`) to
 include all the things put under a certain directory. You have to clone the
 repositories of the plugins there yourself.
@@ -1702,10 +1702,10 @@ repositories of the plugins there yourself.
 Real plugin managers expose commands that help you to install and update plugins
 from within Vim. Hereinafter is a list of commonly used plugin managers:
 
-- [dein ★1210](https://github.com/Shougo/dein.vim)
-- [plug ★7290](https://github.com/junegunn/vim-plug)
-- [vim-addon-manager ★534](https://github.com/MarcWeber/vim-addon-manager)
-- [vundle ★14686](https://github.com/VundleVim/Vundle.vim)
+- [dein ★1255](Shougo/dein.vim)
+- [plug ★7557](junegunn/vim-plug)
+- [vim-addon-manager ★536](MarcWeber/vim-addon-manager)
+- [vundle ★14910](VundleVim/Vundle.vim)
 
 ## Block insert
 
@@ -1738,7 +1738,7 @@ See `:h blockwise-examples` for more info. It might seem complicated at first,
 but quickly becomes second nature.
 
 If you want to get real fancy, have a look at
-[multiple-cursors ★5274](https://github.com/terryma/vim-multiple-cursors).
+[multiple-cursors ★5331](terryma/vim-multiple-cursors).
 
 ## Running external programs and using filters
 
@@ -2432,6 +2432,7 @@ See `:h :syntime`.
 | [Learn Vimscript the Hard Way](http://learnvimscriptthehardway.stevelosh.com) | Develop a Vim plugin from scratch. |
 | [Practical Vim (2nd Edition)](http://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275/) | Hands down the best book about Vim. |
 | [Vimcasts.org](http://vimcasts.org/episodes/archive) | Vim screencasts. |
+| [wincent's screencasts on YouTube](https://www.youtube.com/channel/UCXPHFM88IlFn68OmLwtPmZA) | Vim screencasts. |
 | [Why, oh WHY, do those #?@! nutheads use vi?](http://www.viemu.com/a-why-vi-vim.html) | Common misconceptions explained. |
 | [Your problem with Vim is that you don't grok vi](http://stackoverflow.com/a/1220118) | Concise, informative and correct. A real gem. |
 
@@ -2455,8 +2456,8 @@ looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
 - [janus](https://github.com/carlhuda/janus.git)
-- [spacevim ★2248](https://github.com/SpaceVim/SpaceVim)
-- [spf13 ★10288](https://github.com/spf13/spf13-vim)
+- [spacevim ★2449](SpaceVim/SpaceVim)
+- [spf13 ★10453](spf13/spf13-vim)
 
 ## Standard plugins
 
@@ -2508,8 +2509,8 @@ To change the keys in X, put this in your `~/.xmodmap`:
 
 Afterwards source it via `$ xmodmap ~/.xmodmap`.
 
-An alternative would be using [caps2esc ★53](https://github.com/oblitum/caps2esc) or
-[xcape ★1013](https://github.com/alols/xcape).
+An alternative would be using [caps2esc ★69](oblitum/caps2esc) or
+[xcape ★1046](alols/xcape).
 
 **Windows**:
 
@@ -2556,7 +2557,7 @@ There are two things which can have a huge impact on performance:
 | `:set cursorline`        | Causes all lines to redraw. | `:set nocursorline` |
 | `:set cursorcolumn`      | Causes all lines to redraw. | `:set nocursorcolumn` |
 | `:set relativenumber`    | Causes all lines to redraw. | `:set norelativenumber` |
-| `:set foldmethod=syntax` | If the syntax file is slow already, this makes it even worse. | `:set foldmethod=manual`, `:set foldmethod=marker` or [FastFold ★240](https://github.com/Konfekt/FastFold) |
+| `:set foldmethod=syntax` | If the syntax file is slow already, this makes it even worse. | `:set foldmethod=manual`, `:set foldmethod=marker` or [FastFold ★244](Konfekt/FastFold) |
 | `:set synmaxcol=3000`    | Due to internal representation, Vim has problems with long lines in general. Highlights columns till column 3000. | `:set synmaxcol=200` |
 | matchparen.vim           | Loaded by default. Uses regular expressions to find the accompanying parenthesis. | Disable plugin: `:h matchparen` |
 
@@ -2609,7 +2610,7 @@ To workaround this, you have to `:set paste`, so it gets pasted as-is. See `:h
 
 If you're fed up with toggling `'paste'` all the time, have a look at this fine
 plugin that does it for you:
-[bracketed-paste ★290](https://github.com/ConradIrwin/vim-bracketed-paste).
+[bracketed-paste ★294](ConradIrwin/vim-bracketed-paste).
 
 Additional read from the same author as the plugin:
 [here](http://cirw.in/blog/bracketed-paste).
@@ -2706,23 +2707,23 @@ See `man 7 ascii` and `:h NL-used-for-Nul` for more information.
 
 Here's a list of commonly used colorschemes:
 
-- [acme-colors ★12 ⏳1Y](https://github.com/plan9-for-vimspace/acme-colors)
-- [base16 ★994](https://github.com/chriskempson/base16-vim)
-- [gotham ★659](https://github.com/whatyouhide/vim-gotham)
-- [gruvbox ★2847](https://github.com/morhetz/gruvbox)
-- [janah ★60](https://github.com/mhinz/vim-janah)
-- [jellybeans ★1061](https://github.com/nanotech/jellybeans.vim)
-- [lucius ★234 ⏳1Y](https://github.com/jonathanfilip/vim-lucius)
-- [molokai ★2287](https://github.com/tomasr/molokai)
-- [railscasts ★231](https://github.com/jpo/vim-railscasts-theme)
-- [seoul256 ★629](https://github.com/junegunn/seoul256.vim)
-- [solarized](https://github.com/altercation/vim-colors-solarized) (or a lighter variant: [flattened](https://github.com/romainl/flattened))
-- [tomorrow ★240](https://github.com/chriskempson/vim-tomorrow-theme)
-- [vividchalk ★242 ⏳5Y](https://github.com/tpope/vim-vividchalk)
-- [yowish ★75](https://github.com/kabbamine/yowish.vim)
-- [zenburn ★419 ⏳1Y](https://github.com/jnurmine/Zenburn)
+- [acme-colors ★12 ⏳1Y](plan9-for-vimspace/acme-colors)
+- [base16 ★1020](chriskempson/base16-vim)
+- [gotham ★676](whatyouhide/vim-gotham)
+- [gruvbox ★2939](morhetz/gruvbox)
+- [janah ★62](mhinz/vim-janah)
+- [jellybeans ★1081](nanotech/jellybeans.vim)
+- [lucius ★240 ⏳1Y](jonathanfilip/vim-lucius)
+- [molokai ★2329](tomasr/molokai)
+- [railscasts ★232](jpo/vim-railscasts-theme)
+- [seoul256 ★642](junegunn/seoul256.vim)
+- [solarized](https://github.com/altercation/vim-colors-solarized) (or a lighter variant: [flattened ★145](romainl/flattened))
+- [tomorrow ★241](chriskempson/vim-tomorrow-theme)
+- [vividchalk ★242 ⏳5Y](tpope/vim-vividchalk)
+- [yowish ★80](kabbamine/yowish.vim)
+- [zenburn ★431 ⏳1Y](jnurmine/Zenburn)
 
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/mhinz/vim-galore">https://github.com/mhinz/vim-galore</a> with ranks
+	This list is a copy of <a href="mhinz/vim-galore">mhinz/vim-galore</a> with ranks
 </p>

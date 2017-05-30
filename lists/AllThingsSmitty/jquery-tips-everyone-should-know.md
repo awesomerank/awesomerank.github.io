@@ -2,14 +2,14 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know">https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know</a> with ranks
+	This list is a copy of <a href="AllThingsSmitty/jquery-tips-everyone-should-know">AllThingsSmitty/jquery-tips-everyone-should-know</a> with ranks
 </p>
 ---
-# jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A collection of simple tips to help up your jQuery game.
 
-> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★57421](https://github.com/sindresorhus/awesome).
+> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★59088](sindresorhus/awesome).
 
 
 ## Table of Contents
@@ -42,6 +42,7 @@ A collection of simple tips to help up your jQuery game.
 1. [Ajax Call Error Handling](#ajax-call-error-handling)
 1. [Chain Plugin Calls](#chain-plugin-calls)
 1. [Sort List Items Alphabetically](#sort-list-items-alphabetically)
+1. [Disable Right-Click](#disable-right-click)
 
 
 ### Checking If jQuery Loaded
@@ -450,6 +451,31 @@ There you go!
 <sup>[back to table of contents](#table-of-contents)</sup>
 
 
+### Disable Right-Click
+
+If you want to disable right-click, you can do it for an entire page...
+
+```javascript
+$(document).ready(function() {
+  $(document).bind('contextmenu', function(e) {
+    return false;
+  })
+})
+```
+
+...but you can also do the same for a specific element:
+
+```javascript
+$(document).ready(function() {
+  $('#submit').bind('contextmenu', function(e) {
+    return false;
+  })
+})
+```
+
+<sup>[back to table of contents](#table-of-contents)</sup>
+
+
 ## Support
 
 Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
@@ -464,5 +490,5 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 * [繁體中文](https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know/tree/master/translations/zh-TW)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know">https://github.com/AllThingsSmitty/jquery-tips-everyone-should-know</a> with ranks
+	This list is a copy of <a href="AllThingsSmitty/jquery-tips-everyone-should-know">AllThingsSmitty/jquery-tips-everyone-should-know</a> with ranks
 </p>

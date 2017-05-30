@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/mmccaff/PlacesToPostYourStartup">https://github.com/mmccaff/PlacesToPostYourStartup</a> with ranks
+	This list is a copy of <a href="mmccaff/PlacesToPostYourStartup">mmccaff/PlacesToPostYourStartup</a> with ranks
 </p>
 ---
-[![Build Status](https://travis-ci.org/mmccaff/PlacesToPostYourStartup.svg?branch=master)](https://travis-ci.org/mmccaff/PlacesToPostYourStartup) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+[![Build Status](https://travis-ci.org/mmccaff/PlacesToPostYourStartup.svg?branch=master)](https://travis-ci.org/mmccaff/PlacesToPostYourStartup) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 # Places To Post Your Startup
 
@@ -144,5 +144,5 @@ Originally from [this HN post](https://news.ycombinator.com/item?id=7248460) whi
 To the extent possible under law, [Matt McCaffrey](http://www.mattmccaffrey.com/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/mmccaff/PlacesToPostYourStartup">https://github.com/mmccaff/PlacesToPostYourStartup</a> with ranks
+	This list is a copy of <a href="mmccaff/PlacesToPostYourStartup">mmccaff/PlacesToPostYourStartup</a> with ranks
 </p>

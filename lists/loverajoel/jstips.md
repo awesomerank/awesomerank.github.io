@@ -2,12 +2,12 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/loverajoel/jstips">https://github.com/loverajoel/jstips</a> with ranks
+	This list is a copy of <a href="loverajoel/jstips">loverajoel/jstips</a> with ranks
 </p>
 ---
 ![header](https://github.com/loverajoel/jstips/blob/gh-pages/assets/images/jstips-animation.gif)
 
-# JS Tips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# JS Tips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 > Useful JavaScript tips
 
 This is an awesome project about short and useful JavaScript tips that will allow you to improve your code writing. With less than 2 minutes, you will be able to read about performance, conventions, hacks, interview questions and all the items that the future of this awesome language holds for us.
@@ -28,8 +28,8 @@ There are a lot of ways to get updates, choose your own
 
 - [Official Blog](http://www.jstips.co)
 - [Official Twitter Account](https://twitter.com/tips_js)
-- [Hubot ★7 ⏳1Y](https://github.com/dggriffin/hubot-jstips)
-- [Slackbot ★18](https://github.com/radibit/js-tips-slack-bot)
+- [Hubot ★7 ⏳1Y](dggriffin/hubot-jstips)
+- [Slackbot ★18](radibit/js-tips-slack-bot)
 - [js2016.tips](http://js2016.tips/)
 - [Hingsir](http://hingsir.com/jstips-site/dist/tips/)
 - [Awesomelists](https://awesomelists.top/#/repos/loverajoel/jstips)
@@ -123,5 +123,5 @@ There are a lot of ways to get updates, choose your own
 [GNU GENERAL PUBLIC LICENSE](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/loverajoel/jstips">https://github.com/loverajoel/jstips</a> with ranks
+	This list is a copy of <a href="loverajoel/jstips">loverajoel/jstips</a> with ranks
 </p>

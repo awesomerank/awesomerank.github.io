@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/Granze/awesome-polymer">https://github.com/Granze/awesome-polymer</a> with ranks
+	This list is a copy of <a href="Granze/awesome-polymer">Granze/awesome-polymer</a> with ranks
 </p>
 ---
-# Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 <a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="64" width="92"></a>
 > A collection of awesome Polymer resources
 
@@ -16,7 +16,7 @@ Ranked awesome lists, all in one place
 * [Blog](https://blog.polymer-project.org/)
 * [Google+ Profile](https://plus.google.com/+PolymerProject/)
 * [Github](https://github.com/polymer)
-* [Project ★135](https://github.com/polymer/project) All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
+* [Project ★136](polymer/project) All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
 
 ## Polymer Communities
 * [StackOverflow](http://stackoverflow.com/questions/tagged/polymer)
@@ -59,6 +59,7 @@ Ranked awesome lists, all in one place
 * [Summit 2016](https://www.youtube.com/watch?v=0iM0DZjYGqg&list=PLNYkxOF6rcICc687SxHQRuo9TVNOJelSZ)
 * [Summit 2015](https://www.youtube.com/playlist?list=PLNYkxOF6rcICdISJclfQhj2S8QZGjXV8J)
 * [The Web Platform Podcast 46: Polymer 1.0](https://www.youtube.com/watch?v=d9tNO3n0RlM)
+* [Google I/O 2017 - Future, Faster: Unlock the Power of Web Components with Polymer](https://www.youtube.com/watch?v=cuoZenpQveQ)
 * [Google I/O 2015 - Polymer and modern web APIs: In production at Google scale](https://www.youtube.com/watch?v=fD2As5RmM8Q)
 * [Componentize your app with Polymer Elements](https://youtu.be/7WgEuNZCCHk)
 * [Learn Polymer 1.0](https://www.youtube.com/playlist?list=PLPaj_o9gjMYll0sSb47TrzQCjIo5iqQZm) by Stretch Projects
@@ -68,27 +69,29 @@ Ranked awesome lists, all in one place
 * [Polymer Podcast](http://www.polymerpodcast.com/)
 
 ## Boilerplates
-* [Polymer boilerplate ★377 ⏳1Y](https://github.com/webcomponents/polymer-boilerplate)
+* [Polymer boilerplate ★377 ⏳1Y](webcomponents/polymer-boilerplate)
 * [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/) Build tools & boilerplate for creating production-quality web apps.
 * [Seed element](https://github.com/polymerlabs/seed-element)
-* [Polymer Admin ★259](https://github.com/akveo/polymer-admin) Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit
-* [Meteor-Polymer Starter Kit ★15](https://github.com/aruntk/kickstart-meteor-polymer) Kickstart a Meteor - Polymer project with MWC packages
-* [Meteor-Polymer Starter Kit Including Auth ★7](https://github.com/aruntk/kickstart-meteor-polymer-with-auth)
+* [Polymer Admin ★267](akveo/polymer-admin) Responsive admin dashboard created using Polymer 1.0 and Polymer Starter Kit
+* [Meteor-Polymer Starter Kit ★16](aruntk/kickstart-meteor-polymer) Kickstart a Meteor - Polymer project with MWC packages
+* [Meteor-Polymer Starter Kit Including Auth ★7](aruntk/kickstart-meteor-polymer-with-auth)
 
 ## Generators
-* [Generator Polymer ★983](https://github.com/yeoman/generator-polymer) Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
+* [Generator Polymer ★988](yeoman/generator-polymer) Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
 * [Generator element](https://www.npmjs.com/package/generator-element) Yeoman generator to create Custom Elements using Polymer, X-Tag or VanillaJS.
 
 ## Official Elements
-* [Elements Catalog](https://elements.polymer-project.org/) 
- * [Iron](https://elements.polymer-project.org/browse?package=iron-elements) Iron elements are a set of visual and non-visual utility elements.
- * [Paper](https://elements.polymer-project.org/browse?package=paper-elements) Paper elements are a set of visual elements that implement Google's Material Design.
- * [Google web components](https://elements.polymer-project.org/browse?package=google-web-components) 
- * [Gold](https://elements.polymer-project.org/browse?package=gold-elements) The gold elements are built for e-commerce use-cases like checkout flows.
- * [Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
- * [Platinum](https://elements.polymer-project.org/browse?package=platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
- * [Molecules](https://elements.polymer-project.org/browse?package=molecules) Elements that wrap other javascript libraries.
- * [Carbon](https://elements.polymer-project.org/browse?package=carbon-elements) Elements that enable building full web apps out of modular custom elements.
+* [Elements Catalog](https://www.webcomponents.org/collection/Polymer/elements) 
+ * [Iron](https://www.webcomponents.org/collection/PolymerElements/iron-elements) Iron elements are a set of visual and non-visual utility elements.
+ * [Paper](https://www.webcomponents.org/collection/PolymerElements/paper-elements) Paper elements are a set of visual elements that implement Google's Material Design.
+ * [Google web components](https://www.webcomponents.org/collection/GoogleWebComponents/google-web-components) 
+ * [Gold](https://www.webcomponents.org/collection/PolymerElements/gold-elements) The gold elements are built for e-commerce use-cases like checkout flows.
+ * [Platinum](https://www.webcomponents.org/collection/PolymerElements/platinum-elements) Elements to turn your web page into a true webapp, with push, offline, and more.
+ * [Molecules](https://www.webcomponents.org/collection/PolymerElements/molecules) Elements that wrap other javascript libraries.
+ * [App](https://www.webcomponents.org/collection/PolymerElements/app-elements) Elements that enable building full web apps out of modular custom elements.
+ * [Data](https://www.webcomponents.org/collection/PolymerElements/data-elements) A collection of data/storage related elements.
+ * [Layout](https://www.webcomponents.org/collection/PolymerElements/layout-elements) A collection of layout related elements.
+ * [[Obsolete] Neon](https://elements.polymer-project.org/browse?package=neon-elements) Neon elements implement special effects.
 
 ## Directories
 * [Built with Polymer](http://builtwithpolymer.org/)
@@ -98,31 +101,31 @@ Ranked awesome lists, all in one place
 
 ## Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
-* [Polybuild ★76](https://github.com/PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
-* [Polyup ★39 ⏳1Y](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. 
-* [Polylint ★128](https://github.com/PolymerLabs/polylint) Detect errors in your code.
+* [Polybuild ★77](PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
+* [Polyup ★38 ⏳1Y](PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0. 
+* [Polylint ★130](PolymerLabs/polylint) Detect errors in your code.
 * [Polygit](http://polygit.org/) The Magic Server serves files directly from github (via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.
-* [Polydev ★98](https://github.com/PolymerLabs/polydev) DevTool extension.
+* [Polydev ★101](PolymerLabs/polydev) DevTool extension.
 * [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
 * [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.
-* [Crisper ★91](https://github.com/PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
+* [Crisper ★94](PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
 * [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
 * [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
-* [Synthesis ★30](https://github.com/meteorwebcomponents/synthesis) Use Polymer as the view Layer of Meteor.js
-* [MWC-Layout ★5](https://github.com/meteorwebcomponents/layout) Control rendering of polymer components.
-* [WC-Loader ★53](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
+* [Synthesis ★32](meteorwebcomponents/synthesis) Use Polymer as the view Layer of Meteor.js
+* [MWC-Layout ★5](meteorwebcomponents/layout) Control rendering of polymer components.
+* [WC-Loader ★62](aruntk/wc-loader). Webcomponents webpack loader
 
 ## Testing
-* [Web components tester ★445](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
-* [Web components tester istambul ★20](https://github.com/thedeeno/web-component-tester-istanbul) Istanbul coverage plugin for web-component-tester.
-* [test-fixture ★13](https://github.com/PolymerElements/test-fixture) Element that can simplify the exercise of consistently resetting a test suite's DOM.
-* [iron-test-helpers ★16](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
+* [Web components tester ★460](Polymer/web-component-tester) Makes testing your web components a breeze!
+* [Web components tester istambul ★22](thedeeno/web-component-tester-istanbul) Istanbul coverage plugin for web-component-tester.
+* [test-fixture ★13](PolymerElements/test-fixture) Element that can simplify the exercise of consistently resetting a test suite's DOM.
+* [iron-test-helpers ★18](PolymerElements/iron-test-helpers) Utility classes to make testing easier.
 
 ## Behaviors
-* [Polymer-Apollo ★32](https://github.com/aruntk/polymer-apollo) Polymer Apollo GraphQL Integration.
-* [MWC-Mixin ★17](https://github.com/meteorwebcomponents/mixin) Reactive meteor data source for polymer elements
-* [MWC-Router ★5 ⏳1Y](https://github.com/meteorwebcomponents/router) Two way bind polymer with Meteor Flowrouter.
-* [Polymer-Redux ★250](https://github.com/tur-nr/polymer-redux) Polymer bindings for Redux. 
+* [Polymer-Apollo ★35](aruntk/polymer-apollo) Polymer Apollo GraphQL Integration.
+* [MWC-Mixin ★18](meteorwebcomponents/mixin) Reactive meteor data source for polymer elements
+* [MWC-Router ★5 ⏳1Y](meteorwebcomponents/router) Two way bind polymer with Meteor Flowrouter.
+* [Polymer-Redux ★271](tur-nr/polymer-redux) Polymer bindings for Redux. 
 
 ## Theming/Styling
 * [Polymer Themes](https://polymerthemes.com/) Free Polymer themes and templates
@@ -130,11 +133,11 @@ Ranked awesome lists, all in one place
 * [Polystyle](https://poly-style.appspot.com/demo/) Wrap existing stylesheets with Polymer's style module system.
 
 ## Notable projects 
-[Polymer Projects ★28](https://github.com/abdonrd/PolymerProjects) A list of websites and apps built with Polymer
+[Polymer Projects ★43](abdonrd/PolymerProjects) A list of websites and apps built with Polymer
 
 
 ## Other awesome resources
-**If you want more awesome resources, check the [awesome ★57421](https://github.com/sindresorhus/awesome) list!**
+**If you want more awesome resources, check the [awesome ★59088](sindresorhus/awesome) list!**
 
 ---
 
@@ -143,5 +146,5 @@ Ranked awesome lists, all in one place
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/Granze/awesome-polymer">https://github.com/Granze/awesome-polymer</a> with ranks
+	This list is a copy of <a href="Granze/awesome-polymer">Granze/awesome-polymer</a> with ranks
 </p>

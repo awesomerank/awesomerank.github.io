@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/papers-we-love/papers-we-love">https://github.com/papers-we-love/papers-we-love</a> with ranks
+	This list is a copy of <a href="papers-we-love/papers-we-love">papers-we-love/papers-we-love</a> with ranks
 </p>
 ---
 ## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
@@ -32,6 +32,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Hyderabad](http://www.meetup.com/papers-we-love-hyderabad/)
 * [Iasi](http://www.meetup.com/Papers-We-Love-Iasi/)
 * [Kathmandu](https://www.facebook.com/groups/PapersWeLoveKathmandu/)
+* [Lebanon](http://www.paperswelovelb.club)
 * [London](http://www.meetup.com/papers-we-love-london)
 * [Los Angeles](http://www.meetup.com/papers-we-love-la)
 * [Madrid](http://www.meetup.com/Papers-We-Love-Madrid/)
@@ -81,7 +82,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [cat-v.org](http://doc.cat-v.org/)
 * [y-archive](http://yarchive.net/comp/index.html)
 * [netlib](http://www.netlib.org/)
-* [Services Engineering Reading List ★2291 ⏳1Y](https://github.com/mmcgrana/services-engineering)
+* [Services Engineering Reading List ★2316 ⏳1Y](mmcgrana/services-engineering)
 * [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Gradual Typing Bibliography](http://samth.github.io/gradual-typing-bib/)
 * [Security Data Science Papers](http://www.covert.io/security-datascience-papers/)
@@ -114,5 +115,5 @@ Please take a look at our [CONTRIBUTING.md](https://github.com/papers-we-love/pa
 The name "Papers We Love" and the logos for the organization are copyrighted, and under the ownership of Papers We Love Ltd, all rights reserved. When starting a chapter, please review [our guidelines](https://github.com/papers-we-love/papers-we-love/wiki/Creating-a-PWL-chapter) and ask us about using the logo.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/papers-we-love/papers-we-love">https://github.com/papers-we-love/papers-we-love</a> with ranks
+	This list is a copy of <a href="papers-we-love/papers-we-love">papers-we-love/papers-we-love</a> with ranks
 </p>

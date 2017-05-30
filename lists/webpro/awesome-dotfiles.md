@@ -2,12 +2,12 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/webpro/awesome-dotfiles">https://github.com/webpro/awesome-dotfiles</a> with ranks
+	This list is a copy of <a href="webpro/awesome-dotfiles">webpro/awesome-dotfiles</a> with ranks
 </p>
 ---
 # Awesome dotfiles
 
-A curated list of dotfiles resources. Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list thing.
+A curated list of dotfiles resources. Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 ## Articles
 
@@ -60,66 +60,66 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 
 Title | Description | Focus
 :--|:--|:--
-[Bash it ★6114](https://github.com/Bash-it/bash-it) | Community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
+[Bash it ★6230](Bash-it/bash-it) | Community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
 [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles) | Sensible hacker defaults for macOS | Lots of goodness here, great collaborative community effort.
-[Maximum Awesome ★4684](https://github.com/square/maximum-awesome) | Config files for vim and tmux | Vim, tmux. Built for Mac OS X.
-[dev-setup ★2727](https://github.com/donnemartin/dev-setup) | Mac OS X development environment setup | Extensive setup of developer tools on OS X.
-[webpro's dotfiles ★175](https://github.com/webpro/dotfiles) | macOS dotfiles | Bash, Homebrew, Brew Cask, Git, Node.js, Hammerspoon.
+[Maximum Awesome ★4709](square/maximum-awesome) | Config files for vim and tmux | Vim, tmux. Built for Mac OS X.
+[dev-setup ★2783](donnemartin/dev-setup) | Mac OS X development environment setup | Extensive setup of developer tools on OS X.
+[webpro's dotfiles ★182](webpro/dotfiles) | macOS dotfiles | Bash, Homebrew, Brew Cask, Git, Node.js, Hammerspoon.
 
 ### Zsh
 
 Title | Description | Focus
 :--|:--|:--
-[thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm ★1508](https://github.com/thoughtbot/rcm).
+[thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm ★1528](thoughtbot/rcm).
 [oh-my-zsh](http://ohmyz.sh/) | Community-driven framework for managing your zsh configuration. | Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool.
-[Prezto ★7500](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
+[Prezto ★7609](sorin-ionescu/prezto) | The configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 [YADR](http://skwp.github.io/dotfiles/) | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Homebrew, zsh, git, vim, and more. Active repository.
-[holman does dotfiles ★4436](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
+[holman does dotfiles ★4476](holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
 [antigen](http://antigen.sharats.me/) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins. Antigen is to zsh, what Vundle is to vim.
-[Dries's dotfiles ★137](https://github.com/driesvints/dotfiles) | Simplified approach to dotfiles for macOS | Zsh, Oh My Zsh, macOS, Homebrew, Mackup
+[Dries's dotfiles ★149](driesvints/dotfiles) | Simplified approach to dotfiles for macOS | Zsh, Oh My Zsh, macOS, Homebrew, Mackup
 
 ## Tools
 
 * [Ansible](https://www.ansible.com/) - Radically simple configuration-management, application deployment, task-execution, and multinode orchestration engine.
-* [Bork ★154](https://github.com/mattly/bork) - Bash DSL for config management.
-* [dotbot ★1071](https://github.com/anishathalye/dotbot) - Tool that bootstraps your dotfiles.
-* [dotfiles ★304](https://github.com/jbernard/dotfiles) - Tool to make managing your dotfile symlinks in $HOME easy.
-* [Ellipsis ★109](https://github.com/ellipsis/ellipsis) - A package manager for dotfiles.
+* [Bork ★155](mattly/bork) - Bash DSL for config management.
+* [dotbot ★1116](anishathalye/dotbot) - Tool that bootstraps your dotfiles.
+* [dotfiles ★307](jbernard/dotfiles) - Tool to make managing your dotfile symlinks in $HOME easy.
+* [Ellipsis ★147](ellipsis/ellipsis) - A package manager for dotfiles.
 * [fresh](https://freshshell.com/) - Keep your dotfiles fresh. Fresh is a tool to source shell configuration (aliases, functions, etc) from others into your own configuration files.
 * [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
-* [homeshick ★1039](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
-* [homesick ★1879](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/)).
-* [mackup ★5998](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
-* [rcm](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
+* [homeshick ★1058](andsens/homeshick) - Git dotfile synchronizer written in Bash.
+* [homesick ★1889](technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](http://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick/)).
+* [mackup ★6060](lra/mackup) - Keep your application settings in sync (OS X/Linux).
+* [rcm ★1528](thoughtbot/rcm) - rc file (dotfile) management
 * [SaltStack](https://saltstack.com/) - Intelligent orchestration for the software-defined data center ([article](https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e)).
-* [vcsh ★1265](https://github.com/RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME.
-* [yadm ★298](https://github.com/TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
+* [vcsh ★1267](RichiH/vcsh) - Version Control System for $HOME, multiple Git repositories in $HOME.
+* [yadm ★331](TheLocehiliosan/yadm) - Tool for managing a collection of files across multiple computers, using a shared Git repository and some additional features.
 
 ### macOS
 
-* [Cider ★754](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew.
-* [dockutil ★454](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
-* [mas ★3064](https://github.com/mas-cli/mas) - Mac App Store command line interface
+* [Cider ★754](msanders/cider) - Hassle-free bootstrapping with Homebrew.
+* [dockutil ★461](kcrawford/dockutil) - Command line tool for managing dock items
+* [mas ★3130](mas-cli/mas) - Mac App Store command line interface
 
 ## Miscellaneous
 
 * [A lesson in shortcuts](https://plus.google.com/+RobPikeTheHuman/posts/R58WgWwN9jp) - How the idea of "hidden" or "dot" files was born, by Rob Pike.
 * [dotfiles.github.io](http://dotfiles.github.io/) - Your unofficial guide to dotfiles on GitHub.
-* [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) - Centralized place for the awesome work started by [@mathiasbynens on .osx ★16578](https://github.com/mathiasbynens/dotfiles#sensible-os-x-defaults).
+* [OS X Defaults](https://github.com/kevinSuttle/macOS-Defaults) - Centralized place for the awesome work started by [@mathiasbynens on .osx ★16773](mathiasbynens/dotfiles#sensible-os-x-defaults).
 
 ## Related Lists
 
-* [Awesome Shell ★9227](https://github.com/alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
-* [Awesome Zsh Plugins ★2641](https://github.com/unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
-* [Awesome Dev Env ★749](https://github.com/jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment.
+* [Awesome Shell ★9491](alebcay/awesome-shell) - Curated list of awesome command-line frameworks, toolkits, guides and gizmos.
+* [Awesome Zsh Plugins ★2757](unixorn/awesome-zsh-plugins) - List of Zsh plugins suitable for use with oh-my-zsh, antigen & Prezto.
+* [Awesome Dev Env ★782](jondot/awesome-devenv) - Curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
 ## Archive/abandoned projects
 
-* [Bashstrap ★1440](https://github.com/barryclark/bashstrap)
-* [battleschool ★408 ⏳1Y](https://github.com/spencergibb/battleschool)
-* [Eduardo's dotfiles ★421](https://github.com/eduardolundgren/dotfiles)
-* [Kevin's dotfiles ★49](https://github.com/kdeldycke/dotfiles) 
-* [kody ★65 ⏳1Y](https://github.com/jh3y/kody)
+* [Bashstrap ★1444](barryclark/bashstrap)
+* [battleschool ★410 ⏳1Y](spencergibb/battleschool)
+* [Eduardo's dotfiles ★425](eduardolundgren/dotfiles)
+* [Kevin's dotfiles ★48](kdeldycke/dotfiles) 
+* [kody ★67 ⏳1Y](jh3y/kody)
 * [osxc](http://osxc.github.io)
 
 ## License
@@ -129,5 +129,5 @@ Title | Description | Focus
 To the extent possible under law, [Lars Kappert](https://webpro.nl) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/webpro/awesome-dotfiles">https://github.com/webpro/awesome-dotfiles</a> with ranks
+	This list is a copy of <a href="webpro/awesome-dotfiles">webpro/awesome-dotfiles</a> with ranks
 </p>

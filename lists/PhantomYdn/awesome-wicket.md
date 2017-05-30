@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/PhantomYdn/awesome-wicket">https://github.com/PhantomYdn/awesome-wicket</a> with ranks
+	This list is a copy of <a href="PhantomYdn/awesome-wicket">PhantomYdn/awesome-wicket</a> with ranks
 </p>
 ---
-# Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 [<img src="https://upload.wikimedia.org/wikipedia/ru/5/5d/Apache_Wicket_logo.png" align="right" width="100">](http://wicket.apache.org/)
 
 A curated list of awesome projects powered by [Apache Wicket](http://wicket.apache.org)
@@ -26,7 +26,7 @@ Your contributions are always welcome!
 ## Generic Info
 
 - [Apache Wicket](http://wicket.apache.org/) - Wicket official site.
-- [Wicket on Github ★370](https://github.com/apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com).
+- [Wicket on Github ★375](apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com).
 - [Wicket on Twitter](https://twitter.com/apache_wicket) - Official account of Wicket.
 - [Wicket wiki](https://cwiki.apache.org/confluence/display/WICKET/Index) - Official knowledge base on Wiki about Wicket.
 - [Build With Wicket](https://builtwithwicket.tumblr.com/) - Official [Tumblr](https://www.tumblr.com/) account of Wicket.
@@ -37,28 +37,28 @@ Your contributions are always welcome!
 ## Libraries
 List of libraries and components which can be used in your application
 
-- [wicket-akka ★3 ⏳3Y](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket.
-- [wicket-autowire ★11 ⏳1Y](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation.
-- [wicket-bootstrap ★270](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket.
-- [wicket-clientside-logging ★16](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - Helper library that allows javascript logging on client side, all log messages will be stored on server side too.
-- [wicket-console ★7](https://github.com/PhantomYdn/wicket-console) - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.
-- [wicket-dnd ★16](https://github.com/svenmeier/wicket-dnd) - Generic Drag&Drop framework for Wicket.
-- [wicket-extjs-integration ★1](https://github.com/onehippo/wicket-extjs-integration) - Integration of Wicket with ExtJS with event handling and a focus on making the Java-API as close to the JS-API as possible.
-- [wicket-fullcalendar ★25](https://github.com/42Lines/wicket-fullcalendar) - Integration of [FullCalendar](http://fullcalendar.io/) javascript lib with Wicket.
-- [wicket-jquery-selectors ★12](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) - Library for working with JQuery and Wicket.
+- [wicket-akka ★3 ⏳3Y](l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket.
+- [wicket-autowire ★11 ⏳1Y](wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation.
+- [wicket-bootstrap ★271](l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket.
+- [wicket-clientside-logging ★16](l0rdn1kk0n/wicket-clientside-logging) - Helper library that allows javascript logging on client side, all log messages will be stored on server side too.
+- [wicket-console ★7](PhantomYdn/wicket-console) - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.
+- [wicket-dnd ★16](svenmeier/wicket-dnd) - Generic Drag&Drop framework for Wicket.
+- [wicket-extjs-integration ★0](onehippo/wicket-extjs-integration) - Integration of Wicket with ExtJS with event handling and a focus on making the Java-API as close to the JS-API as possible.
+- [wicket-fullcalendar ★25](42Lines/wicket-fullcalendar) - Integration of [FullCalendar](http://fullcalendar.io/) javascript lib with Wicket.
+- [wicket-jquery-selectors ★12](l0rdn1kk0n/wicket-jquery-selectors) - Library for working with JQuery and Wicket.
 - [wicket-jquery-ui](http://www.7thweb.net/wicket-jquery-ui/) - JQuery UI integration in Wicket 1.5.x, Wicket 6.x & Wicket7.x.
 - [wicket-modelfactory](http://wicketeer.org/wicket-modelfactory/) - Wicket-modelfactory is an API to create Wicket PropertyModels in a typesafe and refactoring-safe way.
-- [wicket-mustache ★8 ⏳1Y](https://github.com/l0rdn1kk0n/wicket-mustache) - Provides a specialized panel and some related utilities that enables users to work with Mustache and Wicket.
+- [wicket-mustache ★8 ⏳1Y](l0rdn1kk0n/wicket-mustache) - Provides a specialized panel and some related utilities that enables users to work with Mustache and Wicket.
 - [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) - Integration of Wicket with [OrientDB](http://orientdb.com/).
-- [wicket-requirejs ★7 ⏳1Y](https://github.com/l0rdn1kk0n/wicket-requirejs) - Helper to use require.js in your Wicket application.
-- [wicket-shieldui ★18](https://github.com/shieldui/wicket-shieldui) - Components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library.
-- [wicket-source ★36 ⏳2Y](https://github.com/42Lines/wicket-source) - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source.
-- [wicket-spring-boot ★57](https://github.com/MarcGiffing/wicket-spring-boot) - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot.
-- [wicket-webjars ★23](https://github.com/l0rdn1kk0n/wicket-webjars) - Integration of webjars for Wicket.
-- [wicked-charts ★51](https://github.com/thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications.
+- [wicket-requirejs ★7 ⏳1Y](l0rdn1kk0n/wicket-requirejs) - Helper to use require.js in your Wicket application.
+- [wicket-shieldui ★18](shieldui/wicket-shieldui) - Components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library.
+- [wicket-source ★36 ⏳3Y](42Lines/wicket-source) - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source.
+- [wicket-spring-boot ★61](MarcGiffing/wicket-spring-boot) - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot.
+- [wicket-webjars ★23](l0rdn1kk0n/wicket-webjars) - Integration of webjars for Wicket.
+- [wicked-charts ★50](thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications.
 
 ### WicketStuff
-[WicketStuff ★295](https://github.com/wicketstuff/core) based libraries
+[WicketStuff ★296](wicketstuff/core) based libraries
 
 - [Annotation](https://github.com/wicketstuff/core/wiki/Annotation) - Mount your pages declarativly by java annotations.
 - [Annotation Event Dispatcher](https://github.com/wicketstuff/core/tree/master/annotationeventdispatcher-parent) - Improves events handling in Wicket by annotations.
@@ -107,12 +107,12 @@ List of libraries and components which can be used in your application
 - [TinyMCE Integration](https://github.com/wicketstuff/core/wiki/TinyMCE-Integration) - Integration of the well-known TinyMCE WYSIWYG editor in Wicket.
 - [Twitter](https://github.com/wicketstuff/core/wiki/Twitter) - Contains wicket components and behaviors to use the Twitter widgets with wicket.
 - [UrlFragment](https://github.com/wicketstuff/core/tree/master/urlfragment-parent) - With this you can build bookmarkable AJAX features and still support the back button.
-- [WHighCharts ★13](https://github.com/wicketstuff/wiquery-highcharts) - Provides WiQuery bindings for HighCharts.
+- [WHighCharts ★13](wicketstuff/wiquery-highcharts) - Provides WiQuery bindings for HighCharts.
 - [Whiteboard](https://github.com/wicketstuff/core/wiki/Whiteboard) - Provides a Whiteboard which can be integrated in any wicket application.
 - [wicket-foundation](https://github.com/wicketstuff/core/tree/master/wicket-foundation) - Integrates Wicket and [Zurb Foundation](http://foundation.zurb.com/).
 - [Wicket Rest Annotations](https://github.com/wicketstuff/core/tree/master/wicketstuff-restannotations-parent) - Provides a special resource class and a set of annotations to implement REST API/services in much the same way as we do it with Spring MVC or with the standard JAX-RS.
-- [WiQuery ★2 ⏳1Y](https://github.com/wicketstuff/wiquery) - Wicket integration with jQuery and jQuery UI.
-- [WqPlot ★11 ⏳1Y](https://github.com/wicketstuff/wiquery-jqplot) - Provides WiQuery bindings for JqPlot.
+- [WiQuery ★2 ⏳1Y](wicketstuff/wiquery) - Wicket integration with jQuery and jQuery UI.
+- [WqPlot ★11 ⏳1Y](wicketstuff/wiquery-jqplot) - Provides WiQuery bindings for JqPlot.
 
 ## Web Frameworks
 Web Framework on top of wicket which allow you to build your system easily and smoothly
@@ -120,22 +120,22 @@ Web Framework on top of wicket which allow you to build your system easily and s
 - [Apache Isis](https://isis.apache.org/) - A framework for rapidly developing domain-driven apps in Java.
 - [BrixCMS](http://www.brixcms.org/) - Wicket based CMS (seems to be dead).
 - [Hippo CMS](http://www.onehippo.com/en) - Enables enterprises to continuously refine their online business strategy by responding quickly to content performance metrics.
-- [Nocket ★8 ⏳1Y](https://github.com/Nocket/nocket) - Naked Object based framework for wicket.
+- [Nocket ★8 ⏳1Y](Nocket/nocket) - Naked Object based framework for wicket.
 - [NoWicket](http://invesdwin.de/nowicket/) - A naked objects framework for Wicket that enables developers to write less boilerplate Wicket code during implementation of complex websites.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site.
-- [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket.
+- [Wicketopia ★16](jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket.
 
 ## Solutions
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
-- [Estatio ★106](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket.
-- [GeoServer ★796](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data.
+- [Estatio ★116](estatio/estatio) - Open source estate management built on Apache Isis and wicket.
+- [GeoServer ★814](geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data.
 - [NextReports](http://www.next-reports.com/) - Smart business reportins.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.
-- [Yes Cart ★47](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform.
+- [Yes Cart ★47](inspire-software/yes-cart) - Pure e-Commerse platform.
 
 ## IDE Plugins and Tools
 
@@ -147,5 +147,5 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
  [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/PhantomYdn/awesome-wicket">https://github.com/PhantomYdn/awesome-wicket</a> with ranks
+	This list is a copy of <a href="PhantomYdn/awesome-wicket">PhantomYdn/awesome-wicket</a> with ranks
 </p>

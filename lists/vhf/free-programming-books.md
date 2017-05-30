@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/vhf/free-programming-books">https://github.com/vhf/free-programming-books</a> with ranks
+	This list is a copy of <a href="vhf/free-programming-books">vhf/free-programming-books</a> with ranks
 </p>
 ---
-# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 [View the English list](https://github.com/vhf/free-programming-books/blob/master//free-programming-books.md)
 
@@ -84,5 +84,5 @@ Free Podcasts and Screencasts:
 + [Free Programming Playgrounds](https://github.com/vhf/free-programming-books/blob/master//free-programming-playgrounds.md)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/vhf/free-programming-books">https://github.com/vhf/free-programming-books</a> with ranks
+	This list is a copy of <a href="vhf/free-programming-books">vhf/free-programming-books</a> with ranks
 </p>

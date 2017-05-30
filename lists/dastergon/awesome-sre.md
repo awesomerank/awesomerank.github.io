@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/dastergon/awesome-sre">https://github.com/dastergon/awesome-sre</a> with ranks
+	This list is a copy of <a href="dastergon/awesome-sre">dastergon/awesome-sre</a> with ranks
 </p>
 ---
-# Awesome Site Reliability Engineering  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Site Reliability Engineering  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A curated list of awesome [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) and [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) Engineering resources.
 
@@ -82,6 +82,7 @@ Contributions are always welcome!
 * [Site Reliability Engineering Demystified](https://medium.com/@venkatachalamrangasamy/site-reliability-engineering-demystified-ed676e0a7d56)
 * [Is Site Reliability Engineering the True ‘Ops’ in DevOps?](https://devops.com/site-reliability-engineering-sre-true-ops-devops/)
 * [SRE vs. DevOps vs. Cloud Native: The Server Cage Match](https://devops.com/sre-devops-cloud-native-server-cage-match/)
+* [SRE: What’s The Big Idea?](https://youtu.be/8dfYLRAWn_c)
 
 ## Education
 * [Panel: Educating SRE](https://www.usenix.org/conference/srecon15/program/presentation/sebenik)
@@ -141,7 +142,9 @@ Contributions are always welcome!
 * [Available...or not? That is the question - CRE life lessons](https://cloudplatform.googleblog.com/2017/01/available-or-not-that-is-the-question-CRE-life-lessons.html)
 * [How Google Backs Up The Internet Along With Exabytes Of Other Data](http://highscalability.com/blog/2014/2/3/how-google-backs-up-the-internet-along-with-exabytes-of-othe.html)
 * [Performance, Scalability, And High Availability: 3 Key Infrastructure Adaptability Requirements](http://highscalability.com/blog/2017/2/2/performance-scalability-and-high-availability-3-key-infrastr.html)
-* The Production Environment at Google - [Partt 1](https://medium.com/@jerub/the-production-environment-at-google-8a1aaece3767) & [Part 2](https://medium.com/@jerub/the-production-environment-at-google-part-2-610884268aaa)
+* The Production Environment at Google - [Part 1](https://medium.com/@jerub/the-production-environment-at-google-8a1aaece3767) & [Part 2](https://medium.com/@jerub/the-production-environment-at-google-part-2-610884268aaa)
+* [Reliable releases and rollbacks - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/reliable-releases-and-rollbacks-CRE-life-lessons.html)
+* [How release canaries can save your bacon - CRE life lessons](https://cloudplatform.googleblog.com/2017/03/how-release-canaries-can-save-your-bacon-CRE-life-lessons.html)
 
 ## Monitoring and Alerting
 * [A Working Theory-of-Monitoring](https://www.usenix.org/conference/lisa13/working-theory-monitoring)
@@ -166,11 +169,11 @@ Contributions are always welcome!
 * [SysAdvent - Day 6 - No More On-Call Martyrs](https://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html)
 * [On Being On Call](http://naildrivin5.com/blog/2016/12/07/on-call.html)
 * [PagerDuty Incident Response](https://response.pagerduty.com/)
-* [The On-Call Handbook ★159](https://github.com/alicegoldfuss/oncall-handbook)
+* [The On-Call Handbook ★182](alicegoldfuss/oncall-handbook)
 * [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
 
 ## Post-Mortem
-* [A collection of post-mortems ★2960](https://github.com/danluu/post-mortems)
+* [A collection of post-mortems ★2985](danluu/post-mortems)
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * [A Tale of Postmortems](https://blog.box.com/blog/a-tale-of-postmortems/)
 * [Building a Blameless Post-Mortem Culture with Jason Hand](http://runasradio.com/Shows/Show/486)
@@ -193,6 +196,8 @@ Contributions are always welcome!
 * [SysAdvent- Day 20 - How to set and monitor SLAs](https://sysadvent.blogspot.com/2016/12/day-20-how-to-set-and-monitor-slas.html)
 * [SLOs, SLIs, SLAs, oh my - CRE life lessons](https://cloudplatform.googleblog.com/2017/01/availability-part-deux--CRE-life-lessons.html)
 * [Service Levels and Error Budgets](https://www.usenix.org/conference/srecon16/program/presentation/jones)
+* [(Un)Reliability Budgets - Finding Balance between Innovation and Reliability](https://www.usenix.org/system/files/login/articles/login_aug15_06_roth.pdf)
+* [The Calculus of Service Availability](https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)
@@ -250,6 +255,7 @@ Contributions are always welcome!
 * [Jennifer Petoff](https://twitter.com/jennski)
 * [Jesse Dearing](https://twitter.com/JesseDearing)
 * [Jonah horowitz](https://twitter.com/jonahhorowitz)
+* [Julia Evans](https://twitter.com/b0rk)
 * [Krishelle Hardson-Hurley](https://twitter.com/khardsonhurley)
 * [Niall Murphy](https://twitter.com/niallm)
 * [Nick Craver](https://twitter.com/Nick_Craver)
@@ -262,5 +268,5 @@ Contributions are always welcome!
 * [USENIX Association](https://twitter.com/usenix) - The Official USENIX Twitter Account.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/dastergon/awesome-sre">https://github.com/dastergon/awesome-sre</a> with ranks
+	This list is a copy of <a href="dastergon/awesome-sre">dastergon/awesome-sre</a> with ranks
 </p>

@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/MunGell/awesome-for-beginners">https://github.com/MunGell/awesome-for-beginners</a> with ranks
+	This list is a copy of <a href="MunGell/awesome-for-beginners">MunGell/awesome-for-beginners</a> with ranks
 </p>
 ---
-# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A list of awesome beginners-friendly projects.
 
@@ -24,7 +24,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## C++
 
 - [xoreos](https://github.com/xoreos/xoreos/labels/first-timers-only) _(label: first-timers-only)_ <br> A reimplementation of BioWare's Aurora engine (and derivatives).
-- [electron](https://github.com/electron/electron/labels/beginner) _(label: beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
+- [electron](https://github.com/electron/electron/labels/help%2Fbeginner) _(label: help/beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ Computation using data flow graphs for scalable machine learning
 
 ## Clojure
@@ -104,7 +104,6 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 - [catapult](https://github.com/catapult-project/catapult/labels/Good%20First%20Bug) _(label: Good First Bug)_ <br> Catapult home for performance tools.
 - [Python Babel](https://github.com/python-babel/babel/labels/difficulty%2Flow) _(label: difficulty/low)_ <br> The Python Internationalization Library.
-- [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good%20first%20contribution) _(label: good first contribution)_ <br> An interactive SSL-capable intercepting HTTP proxy.
 - [Kinto](https://github.com/Kinto/kinto/labels/easy-pick) _(label: easy-pick)_ <br> A lightweight JSON storage service with synchronisation and sharing abilities.
 - [Pinax](https://github.com/pinax/pinax/labels/first-timers-only) _(label: first-timers-only)_ <br> A Django-based platform for rapidly developing websites.
 - [BorgBackup](https://github.com/borgbackup/borg/labels/easy) _(label: easy)_ <br> Deduplicating backup program with compression and authenticated encryption.
@@ -113,13 +112,15 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [mitmproxy](https://github.com/mitmproxy/mitmproxy/labels/good-first-contribution) _(label: good first contribution)_ <br> An interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers
 - [Mailpile](https://github.com/mailpile/Mailpile/labels/Low%20Hanging%20Fruit) _(label: low hanging fruit)_ <br> A free & open modern, fast email client with user-friendly encryption and privacy features
 - [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
+- [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command line Interface.
+- [qutebrowser](https://github.com/qutebrowser/qutebrowser/labels/easy) _(label: easy)_ <br> A keyboard-driven, vim-like browser based on PyQt5.
 
 ## Ruby
 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_ <br> MCollective Server and Client Puppet Module.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
-- [Goby](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
+- [Goby ★31](nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
 - [Hanami](https://github.com/search?utf8=%E2%9C%93&q=user%3Ahanami+state%3Aopen+label%3Aeasy&type=Issues&ref=searchresults) _(label: easy)_ <br> A modern framework for Ruby.
 - [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding._
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
@@ -157,5 +158,5 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/Mun
 To the extent possible under law, the author has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/MunGell/awesome-for-beginners">https://github.com/MunGell/awesome-for-beginners</a> with ranks
+	This list is a copy of <a href="MunGell/awesome-for-beginners">MunGell/awesome-for-beginners</a> with ranks
 </p>

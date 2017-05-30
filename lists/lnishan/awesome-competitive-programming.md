@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/lnishan/awesome-competitive-programming">https://github.com/lnishan/awesome-competitive-programming</a> with ranks
+	This list is a copy of <a href="lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
 </p>
 ---
-# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
 
@@ -83,6 +83,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [PEGWiki](http://wcipeg.com/wiki/Special:AllPages) | A website with amazing in-depth wiki-like writeups on many topics. It's far better than those on Wikipedia in my opinion. |
 | ★★☆ | [Notes - HackerEarth](https://www.hackerearth.com/practice/notes/trending/) | A great crowdsourcing platform for tutorials. Also visit [Code Monk](https://www.hackerearth.com/practice/codemonk/). |
 | ★★☆ | [USA Computing Olympiad (USACO)](http://www.usaco.org/) | Contains several training pages on its website which are designed to develop one's skills in programming solutions to difficult and varied algorithmic problems at one's own pace. |
+| ★★☆ | [Competitive Programming - Commonlounge](https://www.commonlounge.com/discussion/d4a14f601eb44281b6c579e73d126cca/main?r=acp) | Short video tutorials for beginner and intermediate concepts. Advanced tutorials selected from the best ones available on various CP blogs. |
 | ★☆☆ | [OLYMPIADS IN INFORMATICS](http://www.mii.lt/olympiads_in_informatics/index.html) | An international journal focused on the research and practice of professionals who are working in the field of teaching and learning informatics to talented student. |
 | ★☆☆ | [algolist (Russian)](http://algolist.manual.ru/) | A Russian website devoted to algorithms of all sorts. Some topics listed on this website seems pretty interesting. |
 | ★★☆ | [演算法筆記 (Algorithm Notes) (Chinese)](http://www.csie.ntnu.edu.tw/~u91029/) | One of the most popular tutorial websites among the Taiwanese competitive programming community. The maintainer for this website spends immense efforts on researching algorithms. |
@@ -100,13 +101,13 @@ Share the list with your classmates, your friends and everyone :)
 | ★★☆ | [Codechef's Indian Programming Camp](https://www.youtube.com/playlist?list=PLi0ZM-RCX5nsTc2Z6woHr5qoF6n3b-thO) | Video Lectures from [Codechef's Indian Programming Camp 2016](https://blog.codechef.com/2016/08/03/lectures-from-indian-coding-camp/). Lectures given by top competitive programmers like Sergey Kulik, Kevin Charles Atienza and Anudeep Nekkanti. Primarily focused on exploring these concepts by applying them to actual competitive contest problems. |
 | ★★☆ | [Reykjavik T-414-ÁFLV: A Competitive Programming Course](https://algo.is/competitive-programming-course/) | An awesome course taught by [Bjarki Ágúst Guðmundsson (SuprDewd)](https://algo.is). These lectures feature neat slides and a nice list of problems to practice. |
 | ★★☆ | [NCTU DCP4631: Problem Solving and Programming Techniques](https://sites.google.com/site/mzshieh/courses/problem-solving-and-programming-techniques-spring-2014) | A course on basic topics featuring good lecture slides.
-| ★☆☆ | [Materials (English) ★73](https://github.com/mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics |
+| ★☆☆ | [Materials (English) ★73](mostafa-saad/ArabicCompetitiveProgramming) from [Arabic Competitive Programming Channel](https://www.youtube.com/user/nobody123497) | Some materials (slides & source codes) covering a broad range of algorithmic topics |
 
 ### Open Courses for Algorithms and Data Structures
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [prakhar1989/awesome-courses#algorithms ★18863](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
+| ★★★ | [prakhar1989/awesome-courses#algorithms ★19415](prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
 | ★★★ | [MIT SMA 5503: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses. |
 
 
@@ -192,7 +193,7 @@ Choose a category (eg. DP) of interest and practice problems on that topic.
 | ★★★ | [Programming Contest Calendar - HackerRank](https://www.hackerrank.com/calendar) | Google Calendar export available |
 | ★★☆ | [clist.by](http://clist.by/) | API available for use |
 | ★★☆ | [Coding Calendar (Android App)](https://play.google.com/store/apps/details?id=com.limitskyapps.CodingCalendar) |  |
-| ★★☆ | [Coder's Calendar ★241](https://github.com/nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
+| ★★☆ | [Coder's Calendar ★250](nishanthvijayan/CoderCalendar): [Android App](https://play.google.com/store/apps/details?id=com.corphots.coderscalendar), [Chrome Extension](https://chrome.google.com/webstore/detail/coders-calendar/bageaffklfkikjigoclfgengklfnidll), [Firefox Add-on](https://addons.mozilla.org/en-US/firefox/addon/coder-calendar/) |  |
 | ★★★ | [CodeHorizon](http://codehorizon.star-lord.me/): [iOS App](https://itunes.apple.com/in/app/codehorizon/id925056167?mt=8), [Android App](https://play.google.com/store/apps/details?id=com.chintanghate.CodeHorizon) |  |
 
 
@@ -204,6 +205,7 @@ Paste your codes at [ideone](http://ideone.com), [pastebin](http://pastebin.com)
 | --- | --- | --- |
 | ★★★ | [Codeforces](http://codeforces.com/) | For quick answers, Codeforces is definitely the go-to place to ask about anything competition-related. |
 | ★★★ | [Competitive Programming - Quora](https://www.quora.com/topic/Competitive-Programming) | You would typically get more elaborate answers on Quora, but you might not have your questions answered straightaway. |
+| ★★★ | [Competitive Programming - Commonlounge](https://www.commonlounge.com/community/862d2091c64e447cacde77d4c76a9ac3?r=acp) | Most questions get a response in < 30 minutes. Questions can range from beginner simple questions to in-depth questions. |
 | ★★☆ | [Theoretical Computer Science Stack Exchange](http://cstheory.stackexchange.com/) | This place is generally for the academics, so don't ask questions about contest problems here. |
 | ★★☆ | [Algorithmic Competitive Programming Stack Exchange (proposed)](http://area51.stackexchange.com/proposals/104641/algorithmic-competitive-programming/) | Competitive programming enthusiasts on Stack Exchange are discussing whether to create a new competitive programming Q&A site. |
 
@@ -213,12 +215,12 @@ Paste your codes at [ideone](http://ideone.com), [pastebin](http://pastebin.com)
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository ★574](https://github.com/indy256/codelibrary). |
-| ★★★ | [spaghetti-source/algorithm](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara) | High-quality implementations of many hard algorithms and data structures. |
-| ★★☆ | [jaehyunp/stanfordacm ★522](https://github.com/jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
-| ★★☆ | [ngthanhtrung23/ACM_Notebook_new](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
-| ★★☆ | [bobogei81123/bcw_codebook](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
-| ★☆☆ | [foreverbell/acm-icpc-cheat-sheet](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
+| ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository ★579](indy256/codelibrary). |
+| ★★★ | [spaghetti-source/algorithm ★132](spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara) | High-quality implementations of many hard algorithms and data structures. |
+| ★★☆ | [jaehyunp/stanfordacm ★557](jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
+| ★★☆ | [ngthanhtrung23/ACM_Notebook_new ★92](ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
+| ★★☆ | [bobogei81123/bcw_codebook ★50](bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
+| ★☆☆ | [foreverbell/acm-icpc-cheat-sheet ★61](foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
 | ★☆☆ | [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk (Abednego) | A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team. |
 
 
@@ -275,8 +277,8 @@ Paste your codes at [ideone](http://ideone.com), [pastebin](http://pastebin.com)
 | ☆ | Name | Description |
 | --- | --- | --- |
 | ★★★ | [VisuAlgo](https://visualgo.net/) | A website featuring a large collection of visualization tools for algorithms and data structures. |
-| ★★★ | General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide](https://github.com/slycelote/caide) (Visual Studio, CodeLite) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) | Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth. |
-| ★★☆ | Codeforces Parsers: ... [Codeforces Parser](https://github.com/johnathan79717/codeforces-parser) ... [GoCF](https://github.com/sukeesh/GoCF) ... [cfparser](https://github.com/gnull/cfparser) (emacs) | These tools parse Codeforces contest problems and help run sample tests. |
+| ★★★ | General Practice Helpers: ... [CHelper](https://plugins.jetbrains.com/plugin/7091?pr=idea) (IntelliJ IDEA) ([manual](http://codeforces.com/blog/entry/3273)) ... [caide ★22](slycelote/caide) (Visual Studio, CodeLite) ... [JHelper](http://codeforces.com/blog/entry/13369) (AppCode, CLion) | Great tools that parse contests, inline library codes and provide testing frameworks. They save you from spending your precious time on switching windows and copy-pasting back and forth. |
+| ★★☆ | Codeforces Parsers: ... [Codeforces Parser](https://github.com/johnathan79717/codeforces-parser) ... [GoCF](https://github.com/sukeesh/GoCF) ... [cfparser ★9](gnull/cfparser) (emacs) | These tools parse Codeforces contest problems and help run sample tests. |
 | ★★★ | [The On-Line Encyclopedia of Integer Sequences (OEIS)](https://oeis.org/) | A stunning encyclopedia with a database of countless integer sequences. It also features a powerful search engine. Sometimes a seemingly difficult combinatorics problem could be equivalent to a simple or studied integer sequence. |
 | ★★☆ | Syntax Highlighters: ... [tohtml.com](https://tohtml.com/) ... [markup.su](http://markup.su/highlighter/) ... [hilite.me](http://hilite.me/) | Very handy for creating slides or team notebooks with pretty, formatted code snippets. Just copy the highlighted code snippets and paste them in your favorite WYSIWYG (What-You-See-Is-What-You-Get) editor! |
 | ★★☆ | Code Sharing: ... [Ideone.com](http://ideone.com/) ... [Pastebin.com](http://pastebin.com/) ... [Ubuntu Pastebin](http://paste.ubuntu.com/) | These tools generate semi-permanent pages for code sharing. Very useful especially when you're trying to get someone else to look into your code. |
@@ -320,7 +322,6 @@ Learn helpful tips, tutorials and insights from these people :)
 
 | Name (Handle) | Link |
 | --- | --- |
-|  | [HackerRank Live Youtube](https://www.youtube.com/channel/UCmyXobPA1T5Vsf28lrBkiSw) |
 | Petr Mitrichev (Petr) | [Youtube](https://www.youtube.com/channel/UCdmeooqNtlN7IhrKlq7hGDA)
 | Egor Kulikov (Egor) | [Youtube](https://www.youtube.com/channel/UCjlLfxSPkYluCDetlwbLpjQ) |
 | Adam Bardashevich (subscriber) | [Youtube](https://www.youtube.com/channel/UCc4jWVeWjUfpUo8z4PHfopw) |
@@ -360,6 +361,8 @@ Learn helpful tips, tutorials and insights from these people :)
 | [The 'science' of training in competitive programming - Codeforces](http://codeforces.com/blog/entry/17842), by Thanh Trung Nguyen (I_love_Hoang_Yen) |
 | [If you ask me how to improve your algorithm competition skill, I will give you the link of this blog. - Codeforces](http://codeforces.com/blog/entry/16599), by Huang I-Wen (dreamoon) |
 | [How to prepare for ACM - ICPC? - GeeksforGeeks](http://www.geeksforgeeks.org/how-to-prepare-for-acm-icpc/), by Vishwesh Shrimali |
+| [Complete reference to competitive programming - HackerEarth](https://www.hackerearth.com/getstarted-competitive-programming/), by Ravi Ojha |
+| [Getting started with the sport of competitive programming - HackerEarth](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/), by Triveni Mahatha |
 
 ### FAQs
 > Fine answers to frequently-asked questions 
@@ -379,20 +382,20 @@ Learn helpful tips, tutorials and insights from these people :)
 | C++ Books | [The Definitive C++ Book Guide and List - Stack Overflow](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 | Java Books | [What are the best books to learn Java? - Quora](https://www.quora.com/What-are-the-best-books-to-learn-Java) |
 | Advanced Java Books | [What is the best book for advanced Java programming? - Quora](https://www.quora.com/What-is-the-best-book-for-advanced-Java-programming) |
-| Algorithms | [tayllan/awesome-algorithms ★2514](https://github.com/tayllan/awesome-algorithms) |
-| Algorithm Visualization | [enjalot/algovis ★670](https://github.com/enjalot/algovis) |
-| Math | [rossant/awesome-math ★638](https://github.com/rossant/awesome-math) |
-| C++ | [fffaraz/awesome-cpp ★8091](https://github.com/fffaraz/awesome-cpp) |
-| Java | [akullpp/awesome-java ★12302](https://github.com/akullpp/awesome-java) |
-| Courses | [prakhar1989/awesome-courses ★18852](https://github.com/prakhar1989/awesome-courses) |
-| Free Programming Books | [vhf/free-programming-books ★84190](https://github.com/vhf/free-programming-books) |
+| Algorithms | [tayllan/awesome-algorithms ★2589](tayllan/awesome-algorithms) |
+| Algorithm Visualization | [enjalot/algovis ★682](enjalot/algovis) |
+| Math | [rossant/awesome-math ★689](rossant/awesome-math) |
+| C++ | [fffaraz/awesome-cpp ★8367](fffaraz/awesome-cpp) |
+| Java | [akullpp/awesome-java ★12695](akullpp/awesome-java) |
+| Courses | [prakhar1989/awesome-courses ★19406](prakhar1989/awesome-courses) |
+| Free Programming Books | [vhf/free-programming-books ★85559](vhf/free-programming-books) |
 
 ### Interview Questions
 | Name | Description |
 | --- | --- |
 | [CareerCup](https://www.careercup.com) | The most popular website for software engineering interview preparation. | 
 | [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-play designs which are designed to invoke one's interest in practicing. |
-| [Awesome Interviews ★14633](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
+| [Awesome Interviews ★14930](MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
 
 
 ## License
@@ -402,5 +405,5 @@ Learn helpful tips, tutorials and insights from these people :)
 Awesome Competitive Programming is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/lnishan/awesome-competitive-programming">https://github.com/lnishan/awesome-competitive-programming</a> with ranks
+	This list is a copy of <a href="lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
 </p>

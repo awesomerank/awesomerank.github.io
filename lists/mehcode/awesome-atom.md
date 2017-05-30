@@ -2,12 +2,12 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/mehcode/awesome-atom">https://github.com/mehcode/awesome-atom</a> with ranks
+	This list is a copy of <a href="mehcode/awesome-atom">mehcode/awesome-atom</a> with ranks
 </p>
 ---
-# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
-A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome ★57421](https://github.com/sindresorhus/awesome).
+A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome ★59088](sindresorhus/awesome).
 
 ## Table of Content
 
@@ -31,6 +31,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Emmet](#emmet)
  - [File Icons](#file-icons)
  - [Fonts](#fonts)
+ - [Git Time Machine](#git-time-machine)
  - [html-to-css](#html-to-css)
  - [iMDone](#imdone)
  - [Jumpy](#jumpy)
@@ -86,7 +87,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
  - [AppleScript](https://atom.io/packages/build-applescript) — oscompile
  - [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
  - [CoffeeScript](https://atom.io/packages/build-coffee) - coffee
- - [GNU Make ★9](https://github.com/AtomBuild/atom-build-make) - make
+ - [GNU Make ★9](AtomBuild/atom-build-make) - make
  - [Sass](https://atom.io/packages/build-sass) — sass
  - [TypeScript](https://atom.io/packages/build-tsc) - tsc
 
@@ -95,7 +96,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 ## Extensions
 
 #### [Nuclide](https://nuclide.io/)
-> An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook ★6538](https://github.com/facebook/nuclide).
+> An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook ★6679](facebook/nuclide).
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
 
@@ -117,7 +118,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 ![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
-> [Beautify ★4622](https://github.com/beautify-web/js-beautify)
+> [Beautify ★4706](beautify-web/js-beautify)
 HTML (including [Handlebars](http://handlebarsjs.com/)),
 CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
@@ -156,6 +157,11 @@ JavaScript, and much more in Atom.
 
 #### [Fonts](https://atom.io/packages/fonts)
 > Lots of monospace fonts.
+
+#### [Git Time Machine](https://atom.io/packages/git-time-machine)
+> It shows visual plot of commits to the current file over time and you can click on it on the timeplot or hover over the plot and see all of the commits for a time range.
+
+![git-time-machine](https://i.github-camo.com/62085307dccead1c2f5efdf4d7a40f9cdb777b93/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c6974746c656265652f6769742d74696d652d6d616368696e652f6d61737465722f7265736f75726365732f74696d656d616368696e652e676966)
 
 #### [html-to-css](https://atom.io/packages/html-to-css)
 > Generates CSS boilerplate based on the selected HTML. Supports CSS, SCSS, Sass, LESS, BEM, JSX.
@@ -219,5 +225,5 @@ JavaScript, and much more in Atom.
 > Quick look in tree view.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/mehcode/awesome-atom">https://github.com/mehcode/awesome-atom</a> with ranks
+	This list is a copy of <a href="mehcode/awesome-atom">mehcode/awesome-atom</a> with ranks
 </p>

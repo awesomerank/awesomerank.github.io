@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/lukasz-madon/awesome-remote-job">https://github.com/lukasz-madon/awesome-remote-job</a> with ranks
+	This list is a copy of <a href="lukasz-madon/awesome-remote-job">lukasz-madon/awesome-remote-job</a> with ranks
 </p>
 ---
-# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
 
@@ -65,7 +65,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Managing a Geographically Dispersed Team: Achieving Your Goals Together, While Apart](https://www.mindtools.com/pages/article/newTMM_40.htm)
   1. [Michael Bloomberg agrees with Marissa Mayer on telecommuting](http://www.capitalnewyork.com/article/politics/2013/03/8071699/michael-bloomberg-agrees-marissa-mayer-telecommuting)
   1. [My Ideal Day as a Remote Programmer: Taking Charge of Your Daily Routine](https://overflow.buffer.com/2014/06/12/my-ideal-day-as-a-programmer-taking-charge-of-your-daily-routine/)
-  1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)  
+  1. [My Remote Developer Life](https://shift.infinite.red/my-remote-developer-life-ama-bb91fa7bd0bd#.kjpehbcab)
   1. [One day offices will be a thing of the past](https://www.virgin.com/richard-branson/one-day-offices-will-be-a-thing-of-the-past)
   1. [Remote worker vs distributed team](https://opensource.com/life/11/11/remote-worker-vs-distributed-team)
   1. [Remote Workers Log More Hours and Are Slightly More Engaged](http://www.gallup.com/opinion/gallup/170669/remote-workers-log-hours-slightly-engaged.aspx)
@@ -154,7 +154,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Coder](https://remotecoder.io/)
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
-  1. [remote-jobs ★4620](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+  1. [remote-jobs ★4695](jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [RemoteWorkHunt](http://www.remoteworkhunt.com/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
@@ -173,7 +173,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Housing
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
   1. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
-  1. [Casa98](http://casa98.co/) - Coworking space. Medellin, Colombia
   1. [Common] (https://www.hicommon.com/) - Coliving House in NewYork
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   1. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
@@ -184,7 +183,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
   1. [NoHatDigital](http://www.nohatdigital.com/mansionpage/) - Coliving space in Mexico
   1. [Nomad House](https://nomadhouse.io) - Global network of nomad housing
-  1. [Nomad Pad](http://nomadpad.org) - Global network of coliving spaces
   1. [nomadicHUB](http://nomadichub.com) - Coliving & coworking spaces in exotic locations
   1. [Ondas](http://www.ondasmedellin.com) - Coworking space in Medellin, Colombia
   1. [Roam](https://www.roam.co/) - Global network of coliving spaces
@@ -197,8 +195,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 
 ## Interviewing
-  1. [andreis/interview ★4717](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
-  2. [awesome-interviews ★14633](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+  1. [andreis/interview ★4891](andreis/interview) - Everything you need to kick ass on your coding interview
+  2. [awesome-interviews ★14930](MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
   3. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
   4. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
   5. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
@@ -225,7 +223,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Wide Teams](http://www.wideteams.com) - Each episode a one-on-one interview with a remote worker taking about workflow and practices
 
 ## Companies with "remote DNA"
-  1. [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators. 
+  1. [10up](https://10up.com/careers/) - 10up makes the web better by finely crafting websites & tools for content creators.
   1. [Aha!](https://www.aha.io/company/careers/current-openings) - Aha! is roadmapping software for PMs who want their mojo back.
   1. [Arkency](http://blog.arkency.com/join-our-team/) - Rails and React.js experts, fully remote/async.
   1. [Articulate](https://articulate.com/company/careers.php) - EdTech. Makes software that helps teachers make e-learning courses. Ruby, Node, C#, and .NET for Windows app.
@@ -239,6 +237,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [BeBanjo](http://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
   1. [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
+  1. [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
   1. [Cadasta](http://cadasta.org/about-us/careers/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
   1. [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
   1. [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
@@ -273,6 +272,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) - Competitor to GitHub.
   1. [GlueNetworks] (http://gluenetworks.com/) - Network automation company.
+  1. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS.
   1. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
   1. [HashiCorp](https://www.hashicorp.com/jobs.html) - Open source tools for automating the modern data center. Go, Ruby, Rails, Ember, JavaScript.
   1. [HE:labs](https://helabs.com/us/)
@@ -296,6 +296,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
   1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
+  1. [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona.
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
   1. [Netsparker](https://www.netsparker.com/jobs/) - Web Application Security Scanner.
@@ -358,7 +359,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Communities
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
-1. [##remotes ★9 ⏳2Y](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
+1. [##remotes ★9 ⏳2Y](remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee.
 1. [Remote Year] (http://www.remoteyear.com/) - Traveling techies for 1 year.
@@ -375,7 +376,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Bluejeans](https://bluejeans.com/) video conferencing app, great for large groups & live streams
   1. [Codeshare.io](https://codeshare.io/) – Browser-based multi-user live code sharing with optional video chat.
   1. [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
-  1. [Floobits](https://floobits.com) remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
+  1. [Floobits](https://floobits.com) - Remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
   1. [Flowdock](https://www.flowdock.com/) – Browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc.
   1. [Hangouts](http://www.google.com/+/learnmore/hangouts/) – Chat system, share desktop and video calls.
   1. [Hipchat](https://www.hipchat.com/) – Great internal chat for hackers.
@@ -394,24 +395,25 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 #### Project Management
   1. [Asana](https://asana.com/) - Project management good for distributed teams.
   1. [Pinitto.me](https://pinitto.me) - Lightweight realtime infinite virtual corkboard application (open source).
-  1. [Trello](https://trello.com/) - lean project boards.
+  1. [Trello](https://trello.com/) - Lean project boards.
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
   1. [Noisli](https://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus.
+  1. [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback (Mac).
   1. [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team.
 
 ## Law & Finance
   1. [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
 
 ## Others
-  1. [awesome-digital-nomads ★116](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+  1. [awesome-digital-nomads ★123](cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
   1. [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space.
   1. [Remote Companies on Careers SO](http://talent.stackoverflow.com/companies?searchTerm=&location=&allowsremote=true)
-  1. [Remote Working ★1466](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+  1. [Remote Working ★1534](greatghoul/remote-working) - A list of remote working resources for Chinese.
   1. [The Caravanserai](http://www.thecaravanserai.co/) - Co-living provider.
   1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 
@@ -422,5 +424,5 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/lukasz-madon/awesome-remote-job">https://github.com/lukasz-madon/awesome-remote-job</a> with ranks
+	This list is a copy of <a href="lukasz-madon/awesome-remote-job">lukasz-madon/awesome-remote-job</a> with ranks
 </p>

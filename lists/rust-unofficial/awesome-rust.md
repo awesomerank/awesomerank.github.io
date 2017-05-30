@@ -212,7 +212,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [emk/rust-musl-builder ★185](emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
   * [kpcyrd/mini-docker-rust ★46](kpcyrd/mini-docker-rust) — An example project for very small rust docker images [<img src="https://travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master">](https://travis-ci.org/kpcyrd/mini-docker-rust)
 * Google App Engine
-  * [DenisKolodin/rust-app-engine ★16](DenisKolodin/rust-app-engine) — App Engine Rust boilerplate
+  * [DenisKolodin/rust-app-engine ★16 ⏳1Y](DenisKolodin/rust-app-engine) — App Engine Rust boilerplate
 * Heroku
   * [emk/heroku-buildpack-rust ★110](emk/heroku-buildpack-rust) — a buildpack for Rust applications on Heroku
 

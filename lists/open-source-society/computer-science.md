@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/open-source-society/computer-science">https://github.com/open-source-society/computer-science</a> with ranks
+	This list is a copy of <a href="open-source-society/computer-science">open-source-society/computer-science</a> with ranks
 </p>
 ---
 ![Open Source Society University (OSSU)](http://i.imgur.com/Cxv8DM4.png)
@@ -84,7 +84,7 @@ just remember that you can't purchase success!
 
 # Curriculum
 
-**Curriculum version**: `7.2.0` (see [CHANGELOG](https://github.com/open-source-society/computer-science/blob/master/CHANGELOG.md))
+**Curriculum version**: `7.2.1` (see [CHANGELOG](https://github.com/open-source-society/computer-science/blob/master/CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
 - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -221,7 +221,7 @@ Courses | Duration | Effort | Prerequisites
 :-- | :--: | :--: | :--:
 [Build a Modern Computer from First Principles: From Nand to Tetris](https://www.coursera.org/learn/build-a-computer) ([alt](http://www.nand2tetris.org/)) | 6 weeks | 7-13 hours/week | none
 [Build a Modern Computer from First Principles: Nand to Tetris Part II ](https://www.coursera.org/learn/nand2tetris2) | 6 weeks | 12-18 hours/week | From Nand to Tetris Part I
-[Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| - | 4–12 hours/week | algebra, probability, basic CS
+[Introduction to Computer Networking](https://lagunita.stanford.edu/courses/Engineering/Networking-SP/SelfPaced/about)| 8 weeks | 4–12 hours/week | algebra, probability, basic CS
 
 #### Readings
 - **Required** since Nand2Tetris does not go deep enough into operating systems: [Operating Systems: Three Easy Pieces](http://pages.cs.wisc.edu/~remzi/OSTEP/)
@@ -407,7 +407,7 @@ Courses | Duration | Effort | Prerequisites
 [Big Data (Specialization)](https://www.coursera.org/specializations/big-data) | 30 weeks | 3-5 hours/week | none
 [Internet of Things (Specialization)](https://www.coursera.org/specializations/internet-of-things) | 30 weeks | 1-5 hours/week | strong programming
 [Cloud Computing (Specialization)](https://www.coursera.org/specializations/cloud-computing) | 30 weeks | 2-6 hours/week | C++ programming
-[Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack) | 27 weeeks | 2-6 hours/week | programming, databases
+[Full Stack Web Development (Specialization)](https://www.coursera.org/specializations/full-stack) | 27 weeks | 2-6 hours/week | programming, databases
 [Data Science (Specialization)](https://www.coursera.org/specializations/jhu-data-science) | 43 weeks | 1-6 hours/week | none
 [Functional Programming in Scala (Specialization)](https://www.coursera.org/specializations/scala) | 29 weeks | 4-5 hours/weeks | One year programming experience
 
@@ -429,9 +429,9 @@ In some cases, it may not be permitted;
 do **not** violate your course's Honor Code!
 
 Put the OSSU-CS badge in the README of your repository!
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★20989](https://github.com/open-source-society/computer-science)
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22060](open-source-society/computer-science)
 
-- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★20989](https://github.com/open-source-society/computer-science)`
+- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22060](open-source-society/computer-science)`
 - HTML: `<a href="https://github.com/open-source-society/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
 
 ### Evaluation
@@ -542,5 +542,5 @@ You can change the status of your board to be *public* or *private*.
 - [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/open-source-society/computer-science">https://github.com/open-source-society/computer-science</a> with ranks
+	This list is a copy of <a href="open-source-society/computer-science">open-source-society/computer-science</a> with ranks
 </p>

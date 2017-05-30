@@ -2,14 +2,14 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/nmec/awesome-ember">https://github.com/nmec/awesome-ember</a> with ranks
+	This list is a copy of <a href="nmec/awesome-ember">nmec/awesome-ember</a> with ranks
 </p>
 ---
-# Awesome Ember [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Ember [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A curated list of awesome Ember.js things.
 
-Inspired by [all the other awesome things ★18656](https://github.com/bayandin/awesome-awesomeness).
+Inspired by [all the other awesome things ★18868](bayandin/awesome-awesomeness).
 
 ## Examples
 
@@ -32,13 +32,13 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 ## Tools
 
 - [Ember-cli](http://ember-cli.com/) - 'The command line interface for ambitious web applications' - Officially maintained.
-- [Ember Inspector ★817](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
-- [gulp-ember-handlebars ★12 ⏳2Y](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
-- [Ember Data Sails Adapter ★92 ⏳2Y](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
-- [Ember Data WordPress Adapter ★38 ⏳2Y](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
+- [Ember Inspector ★823](emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
+- [gulp-ember-handlebars ★12 ⏳2Y](fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
+- [Ember Data Sails Adapter ★91 ⏳2Y](bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
+- [Ember Data WordPress Adapter ★39 ⏳2Y](HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.
 - [Ember Twiddle](https://ember-twiddle.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
-- [Ember Perf ★56](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app
+- [Ember Perf ★57](mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app
 
 ## Tutorials
 
@@ -47,7 +47,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709) - A five part introductory course to Ember.
 - [Ember Components: A Deep Dive](http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551) - A closer look at using Ember Components.
 - [Getting Started with Ember.js using Ember CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/) - Building a Todo app with Ember CLI.
-- [Ember runloop handbook ★323](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember JS runloop.
+- [Ember runloop handbook ★325](eoinkelly/ember-runloop-handbook) - A deep dive into the Ember JS runloop.
 - [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 
 ## Screencasts
@@ -109,22 +109,22 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 
 ### UI Components
 
-- [ember-cli-flash ★301](https://github.com/poteto/ember-cli-flash) — simple, highly configurable flash messages for ember-cli.
-- [ember-modal-dialog ★309](https://github.com/yapplabs/ember-modal-dialog) — components to implement modal dialogs throughout an Ember application using a simple, consistent pattern.
+- [ember-cli-flash ★303](poteto/ember-cli-flash) — simple, highly configurable flash messages for ember-cli.
+- [ember-modal-dialog ★316](yapplabs/ember-modal-dialog) — components to implement modal dialogs throughout an Ember application using a simple, consistent pattern.
 - [ui-bootstrap](https://www.npmjs.com/package/ui-bootstrap) — collection of Bootstrap components: label, pill, progressbar, card, navbar. Includes Bootstrap 4 SASS as bower dependency.
 - [ui-button](https://www.npmjs.com/package/ui-button) — customizable button component with Bootstrap theme.
 - [ui-datepicker](https://www.npmjs.com/package/ui-datepicker) — customizable datepicker component.
 - [ui-icon](https://ui-icon.firebaseapp.com/) — an icon component, used by ui-bootstrap, ui-input, ui-button and others.
 - [ui-image](https://ui-image.firebaseapp.com/) — a simple image wrapper component.
 - [ui-input](https://ui-input.firebaseapp.com/) — components for text, email, password and numberic inputs.
-- [Ember-AnyChart](https://github.com/AnyChart/AnyChart-Ember) — AnyChart ($) data visualisation components.
+- [Ember-AnyChart ★11](AnyChart/AnyChart-Ember) — AnyChart ($) data visualisation components.
 
 ### UI Helpers
 
 - [ember-cli-stylist](https://www.npmjs.com/package/ember-cli-stylist) — provide HTML style attributes dynamically and safely.
 - [ember-i18n](https://www.npmjs.com/package/ember-i18n) — internationalization for your Ember application.
-- [ember-tether ★100](https://github.com/yapplabs/ember-tether) — a component that allows for 'tethering' a block to a target somewhere else on the page.
-- [ember-wormhole ★230](https://github.com/yapplabs/ember-wormhole) — a component that allows for rendering a block to a DOM element somewhere else on the page.
+- [ember-tether ★102](yapplabs/ember-tether) — a component that allows for 'tethering' a block to a target somewhere else on the page.
+- [ember-wormhole ★232](yapplabs/ember-wormhole) — a component that allows for rendering a block to a DOM element somewhere else on the page.
 
 ### Testing
 
@@ -137,7 +137,7 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 
 ### Build Enhancements
 
-- [ember-cli-autoprefixer ★91](https://github.com/kimroen/ember-cli-autoprefixer) — automatically run your styles through autoprefixer.
+- [ember-cli-autoprefixer ★92](kimroen/ember-cli-autoprefixer) — automatically run your styles through autoprefixer.
 
 ## License
 
@@ -146,5 +146,5 @@ using a [JSON API](http://jsonapi.org/)-compliant client-side server.
 To the extent possible under law, [Jono Warren](https://jwarren.co.uk) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/nmec/awesome-ember">https://github.com/nmec/awesome-ember</a> with ranks
+	This list is a copy of <a href="nmec/awesome-ember">nmec/awesome-ember</a> with ranks
 </p>

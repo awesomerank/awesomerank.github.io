@@ -2,12 +2,12 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/hackerkid/Mind-Expanding-Books">https://github.com/hackerkid/Mind-Expanding-Books</a> with ranks
+	This list is a copy of <a href="hackerkid/Mind-Expanding-Books">hackerkid/Mind-Expanding-Books</a> with ranks
 </p>
 ---
 # Mind Expanding Books
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) ![Awesome](https://travis-ci.org/hackerkid/Mind-Expanding-Books.svg?branch=master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) ![Awesome](https://travis-ci.org/hackerkid/Mind-Expanding-Books.svg?branch=master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/Mind-Expanding-Books?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Curated list of mind expanding books.
 
@@ -402,5 +402,5 @@ Ranked awesome lists, all in one place
 To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/hackerkid/Mind-Expanding-Books">https://github.com/hackerkid/Mind-Expanding-Books</a> with ranks
+	This list is a copy of <a href="hackerkid/Mind-Expanding-Books">hackerkid/Mind-Expanding-Books</a> with ranks
 </p>

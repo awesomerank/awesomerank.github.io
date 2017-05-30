@@ -2,16 +2,16 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/jwaterfaucett/awesome-foss-apps">https://github.com/jwaterfaucett/awesome-foss-apps</a> with ranks
+	This list is a copy of <a href="jwaterfaucett/awesome-foss-apps">jwaterfaucett/awesome-foss-apps</a> with ranks
 </p>
 ---
-# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > A curated list of awesome production grade free and open source software organized by category.
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome ★57421](https://github.com/sindresorhus/awesome).*
+*Inspired by Sindre Sorhus's [awesome ★59088](sindresorhus/awesome).*
 
 ## TOC
 
@@ -25,21 +25,21 @@ This list is for developers who are looking for non-trivial quality applications
 ## Web Apps (frontend only)
 ----
 
-### [CircleCI ★812](https://github.com/circleci/frontend)
+### [CircleCI ★822](circleci/frontend)
 
 * clojurescript, om, react
 * Eclipse Public License
 
 > CircleCI provides a continuous integration and deployment platform. The frontend is an impressive example of a large application built with the immutable data structures of clojurescript. The frontend integrates with pusher, intercom, d3, and google analytics and has a great example of navigation routing and communication via real-time events, websockets, and backend API servers. Its test suite is not that extensive but does provide a good example of how to test clojurescript/om apps using karma.
 
-### [Precursor App ★433](https://github.com/PrecursorApp/precursor)
+### [Precursor App ★441](PrecursorApp/precursor)
 
 * clojurescript, om, react
 * Eclipse Public License
 
 > Precursor is a highly interactive prototyping webapp. Its frontend is built from the ground up with clojurescript. The project has a simple enough routing and event passing system such that newer clojurescript developers could easily understand how routing in clojurescript applications can work. It is also full of many examples of how to build a component based frontend architecture that is part of an interactive graphics application i.e. where many components manipulate the HTML5 canvas or work with HTML5 APIs. 
 
-### [The Guardian ★3553](https://github.com/guardian/frontend)
+### [The Guardian ★3565](guardian/frontend)
 
 * play2, scala, node
 * Apache 2.0 License
@@ -49,21 +49,21 @@ This list is for developers who are looking for non-trivial quality applications
 ### Web Apps (fullstack)
 ----
 
-### [Ghost ★22597](https://github.com/TryGhost/Ghost)
+### [Ghost ★22767](TryGhost/Ghost)
 
 * node, express, ember
 * MIT License
 
 > Ghost provides a simple publishing platform for bloggers. The code contains an emberjs client and node server backend that handle authorization, role management, tagging, blog posting, data persistence, and most things you'd expect from a quality blogging platform. The only thing that Ghost doesn't handle is i18n. It also contains a comprehensive test suite with both integration and unit tests that hit the whole ember/node stack.
 
-### [Gitlab ★19338](https://github.com/gitlabhq/gitlabhq)
+### [Gitlab ★19423](gitlabhq/gitlabhq)
 
 * ruby, rails, coffescript, redis, sidekiq,
 * MIT License
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse ★21366](https://github.com/discourse/discourse)
+### [Discourse ★21681](discourse/discourse)
 
 * ruby, rails, ember
 * GPLv2 License
@@ -103,7 +103,7 @@ This list is for developers who are looking for non-trivial quality applications
 > Blender is 3D Graphic Software that can visually compete with Maya and 3DS Max. The end product is an amazing example of a cross-platform 3D Tooling piece of software. It is a very mature project having been in development since 1994. It has an embedded python scripting engine, a game logic engine and is loaded with implementations of 3d manipulation, rendering, and compositing algorithms.
 
 
-### [Atom ★36470](https://github.com/atom/atom)
+### [Atom ★37219](atom/atom)
 
 * coffeescript, electron, node
 * MIT License
@@ -118,21 +118,21 @@ This list is for developers who are looking for non-trivial quality applications
 ### Games
 ----
 
-### [0ad ★897](https://github.com/0ad/0ad)
+### [0ad ★910](0ad/0ad)
 
 * c++, python
 * GPLv2 License
 
 > 0 A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.
 
-### [Hedgewars ★174](https://github.com/hedgewars/hw)
+### [Hedgewars ★178](hedgewars/hw)
 
 * c, c++, pascal, haskell
 * GPLv2 License
 
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
-### [Wesnoth ★1081](https://github.com/wesnoth/wesnoth)
+### [Wesnoth ★1103](wesnoth/wesnoth)
 
 * c, c++, lua
 * GPLv2 License
@@ -147,5 +147,5 @@ This list is for developers who are looking for non-trivial quality applications
 To the extent possible under law, John Faucett has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/jwaterfaucett/awesome-foss-apps">https://github.com/jwaterfaucett/awesome-foss-apps</a> with ranks
+	This list is a copy of <a href="jwaterfaucett/awesome-foss-apps">jwaterfaucett/awesome-foss-apps</a> with ranks
 </p>

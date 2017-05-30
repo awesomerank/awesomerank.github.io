@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/RichardLitt/awesome-styleguides">https://github.com/RichardLitt/awesome-styleguides</a> with ranks
+	This list is a copy of <a href="RichardLitt/awesome-styleguides">RichardLitt/awesome-styleguides</a> with ranks
 </p>
 ---
-awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 ===================
 
 _:clipboard: A list of styleguides_
@@ -53,31 +53,31 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 # How to build a styleguide
 * [_A Maintainable Style Guide_](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather of Lonely Planet. Advocates Style Guide Driven Development, which is pretty snazzy.
-* [Huge's Styleguide Tool ★1592](https://github.com/hugeinc/styleguide) A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
+* [Huge's Styleguide Tool ★1613](hugeinc/styleguide) A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
 * [An In-Depth Overview Of Living Style Guide Tools](http://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/) A good overview of what is out there.
 
 
 # Other Styleguide Lists
 * [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@Saijo_George](https://twitter.com/Saijo_George).
-* [Narkoz ★1269](https://github.com/narkoz/guides)
-* [paulmillr ★164 ⏳3Y](https://github.com/paulmillr/code-style-guides)
-* [SalGnt ★1428](https://github.com/SalGnt/cscs)
-* [Styleguides.io ★469](https://github.com/maban/styleguides)
+* [Narkoz ★1284](narkoz/guides)
+* [paulmillr ★162 ⏳3Y](paulmillr/code-style-guides)
+* [SalGnt ★1423](SalGnt/cscs)
+* [Styleguides.io ★486](maban/styleguides)
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides)
 
 # Styleguides
 
 ## Generic
-* [frontend-guidelines ★6623](https://github.com/bendc/frontend-guidelines)
+* [frontend-guidelines ★6656](bendc/frontend-guidelines)
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
-* [CSS Best Practices ★175 ⏳2Y](https://github.com/sezgi/CSS-Best-Practices)
+* [CSS Best Practices ★175 ⏳2Y](sezgi/CSS-Best-Practices)
 * [CSSWizardry](http://cssguidelin.es/) This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
 * [GitHub](http://primercss.io)
 * [Google](https://google.github.io/styleguide/htmlcssguide.xml)
-* [Idiomatic-CSS ★5168](https://github.com/necolas/idiomatic-css)
-* [rscss ★3300](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
+* [Idiomatic-CSS ★5205](necolas/idiomatic-css)
+* [rscss ★3325](rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/)
 * [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 * [Wordpress.org](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
@@ -98,7 +98,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## HTML
 * [Google](https://google.github.io/styleguide/htmlcssguide.xml)
-* [THX ★34 ⏳1Y](https://github.com/thx/html-code-guide) Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
+* [THX ★34 ⏳1Y](thx/html-code-guide) Added because this is the first Chinese styleguide I have seen that has any significant amount of stars.
 
 ## Java
 * [Android](http://source.android.com/source/code-style.html)
@@ -106,66 +106,66 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
 ## Javascript
-* [AirBnB ★51309](https://github.com/airbnb/javascript)
-* [bevacqua's JS sg ★2363](https://github.com/bevacqua/js)
-* [feross/standard ★11361](https://github.com/feross/standard)
+* [AirBnB ★52729](airbnb/javascript)
+* [bevacqua's JS sg ★2367](bevacqua/js)
+* [feross/standard ★11789](feross/standard)
 * [Google](https://google.github.io/styleguide/jsguide.html)
 * [hapi](http://hapijs.com/styleguide)
 * [Joyent](https://www.joyent.com/developers/node/design)
-* [jscs ★5125](https://github.com/jscs-dev/node-jscs)
+* [jscs ★5140](jscs-dev/node-jscs)
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
-* [rsjs ★91](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
+* [rsjs ★94](rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
 
 ### AngularJS
-* [gocardless ★1545 ⏳1Y](https://github.com/gocardless/angularjs-style-guide)
+* [gocardless ★1541 ⏳1Y](gocardless/angularjs-style-guide)
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
-* [johnpapa's opinionated sg for  AngularJS ★22517](https://github.com/johnpapa/angular-styleguide)
-* [mgechev's community best practices ★4882](https://github.com/mgechev/angularjs-style-guide)
-* [srph's AngularJS structure sg ★285](https://github.com/srph/angularjs-structure-styleguide)
-* [Todd Motto's for AngularJS ★5574](https://github.com/toddmotto/angularjs-styleguide)
-  * [jmcunningham's fork ★240 ⏳2Y](https://github.com/jmcunningham/angularjs-styleguide)
+* [johnpapa's opinionated sg for  AngularJS ★22704](johnpapa/angular-styleguide)
+* [mgechev's community best practices ★4912](mgechev/angularjs-style-guide)
+* [srph's AngularJS structure sg ★283](srph/angularjs-structure-styleguide)
+* [Todd Motto's for AngularJS ★5629](toddmotto/angularjs-styleguide)
+  * [jmcunningham's fork ★240 ⏳2Y](jmcunningham/angularjs-styleguide)
 
 ### CoffeeScript
-* [Polarmobile ★1642](https://github.com/polarmobile/coffeescript-style-guide)
+* [Polarmobile ★1646](polarmobile/coffeescript-style-guide)
 
 ### HTTP Design
-* [http-api-design ★12189](https://github.com/interagent/http-api-design)
-* [http-api-guide ★1704](https://github.com/bolasblack/http-api-guide) _Chinese_
+* [http-api-design ★12332](interagent/http-api-design)
+* [http-api-guide ★1743](bolasblack/http-api-guide) _Chinese_
 
 ### JSON
 * [Google](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
 ### jQuery
-* [Pragmatic jQuery ★123 ⏳2Y](https://github.com/yuanyan/pragmatic-jquery)
+* [Pragmatic jQuery ★123 ⏳2Y](yuanyan/pragmatic-jquery)
 
 ### Modules
-* [mattdesl ★857 ⏳1Y](https://github.com/mattdesl/module-best-practices)
+* [mattdesl ★873 ⏳1Y](mattdesl/module-best-practices)
 
 ### npm
-* [npm Style Guide ★40](https://github.com/voorhoede/npm-style-guide#readme) An opinionated collection of best practices for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
+* [npm Style Guide ★41](voorhoede/npm-style-guide#readme) An opinionated collection of best practices for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
 
 ### React
 * [John Cobb](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/react.md)
 
 ### Riot
-* [RiotJS Style Guide ★188](https://github.com/voorhoede/riotjs-style-guide#readme) Opinionated RiotJS Style Guide for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
+* [RiotJS Style Guide ★196](voorhoede/riotjs-style-guide#readme) Opinionated RiotJS Style Guide for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
 
 ## Lisp
-* [emacs-lips-style-guide ★401](https://github.com/bbatsov/emacs-lisp-style-guide)
+* [emacs-lips-style-guide ★413](bbatsov/emacs-lisp-style-guide)
 
 ## Objective-C
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0)
-* [Futurice iOS Good Practices ★6010](https://github.com/futurice/ios-good-practices) iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
-* [Github - Style guide & coding conventions for Swift projects ★4027](https://github.com/github/swift-style-guide) A guide to our Swift style and conventions by @github.
-* [Github Objective-C Style Guide ★1630 ⏳1Y](https://github.com/github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
-* [Khan ★15 ⏳1Y](https://github.com/Khan/objective-c-style-guide)
-* [NY Times - Objective C Style Guide ★4388](https://github.com/NYTimes/objective-c-style-guide) The Objective-C Style Guide used by The New York Times.
+* [Futurice iOS Good Practices ★6142](futurice/ios-good-practices) iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
+* [Github - Style guide & coding conventions for Swift projects ★4083](github/swift-style-guide) A guide to our Swift style and conventions by @github.
+* [Github Objective-C Style Guide ★1643 ⏳1Y](github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
+* [Khan ★15 ⏳1Y](Khan/objective-c-style-guide)
+* [NY Times - Objective C Style Guide ★4411](NYTimes/objective-c-style-guide) The Objective-C Style Guide used by The New York Times.
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) Gist with coding conventions.
-* [raywenderlich Style Guide ★2507](https://github.com/raywenderlich/objective-c-style-guide) A style guide that outlines the coding conventions for raywenderlich.com.
-* [Spotify Objective-C Coding Style ★194](https://github.com/spotify/ios-style) Guidelines for iOS development in use at Spotify.
-* [Swift Style Guide by @raywenderlich ★6994](https://github.com/raywenderlich/swift-style-guide) The official Swift style guide for raywenderlich.com.
+* [raywenderlich Style Guide ★2541](raywenderlich/objective-c-style-guide) A style guide that outlines the coding conventions for raywenderlich.com.
+* [Spotify Objective-C Coding Style ★194](spotify/ios-style) Guidelines for iOS development in use at Spotify.
+* [Swift Style Guide by @raywenderlich ★7126](raywenderlich/swift-style-guide) The official Swift style guide for raywenderlich.com.
 
 ## PHP
 * [PSR-1: Basic Coding Standard](http://www.php-fig.org/psr/psr-1/)
@@ -178,20 +178,20 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 
 ## Ruby
-* [AirBnB ★1670](https://github.com/airbnb/ruby)
-* [bbatsov ★12203](https://github.com/bbatsov/ruby-style-guide)
+* [AirBnB ★1735](airbnb/ruby)
+* [bbatsov ★12372](bbatsov/ruby-style-guide)
 * [Github](https://github.com/styleguide/ruby) Based on bbatsov style guide
 
 ### Ruby on Rails
-* [bbastov's Ruby on Rails 4 styleguide ★5013](https://github.com/bbatsov/rails-style-guide)
+* [bbastov's Ruby on Rails 4 styleguide ★5048](bbatsov/rails-style-guide)
 
 ## Rust
 * [aturon](https://aturon.github.io)
 
 ## Swift
-* [GitHub ★4027](https://github.com/github/swift-style-guide)
-* [raywenderlich ★6994](https://github.com/raywenderlich/swift-style-guide)
-* [SlideShareInc ★89](https://github.com/SlideShareInc/swift-style-guide)
+* [GitHub ★4083](github/swift-style-guide)
+* [raywenderlich ★7126](raywenderlich/swift-style-guide)
+* [SlideShareInc ★90](SlideShareInc/swift-style-guide)
 
 # Non-Code
 
@@ -206,5 +206,5 @@ If you have used any of these styleguides, please add a comment if you can! The 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/RichardLitt/awesome-styleguides">https://github.com/RichardLitt/awesome-styleguides</a> with ranks
+	This list is a copy of <a href="RichardLitt/awesome-styleguides">RichardLitt/awesome-styleguides</a> with ranks
 </p>

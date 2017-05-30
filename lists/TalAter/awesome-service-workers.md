@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/TalAter/awesome-service-workers">https://github.com/TalAter/awesome-service-workers</a> with ranks
+	This list is a copy of <a href="TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks
 </p>
 ---
-# Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A curated collection of service worker resources.
 
@@ -38,7 +38,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 - [Building Offline Sites with ServiceWorkers and UpUp](https://dev.opera.com/articles/offline-with-upup-service-workers/) - A general introduction to service workers and using UpUp to provide offline functionality in minutes.
 - [Introduction to Service Worker](http://www.html5rocks.com/en/tutorials/service-worker/introduction/)
-- [Service Workers 101 ★560](https://github.com/delapuente/service-workers-101) - An infographic summarizing the most important parts of service workers API.
+- [Service Workers 101 ★565](delapuente/service-workers-101) - An infographic summarizing the most important parts of service workers API.
 - [ServiceWorker Cookbook by Mozilla](https://serviceworke.rs/) - A collection of recipes for different use cases.
 - [The copy & paste guide to your first Service Worker](https://remysharp.com/2016/03/22/the-copy--paste-guide-to-your-first-service-worker) - Shortest available introduction, by [Remy Sharp](https://github.com/remy).
 - [The offline cookbook](https://jakearchibald.com/2014/offline-cookbook/) - The bible of service worker Patterns by Jake Archibald.
@@ -57,11 +57,10 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Libraries and Tools
 
 - [UpUp](http://upup.rocks/) - A popular service worker library providing complete offline functionality for your site in 1 line of code.
-- [sw-toolbox ★2351](https://github.com/GoogleChrome/sw-toolbox) - A collection of simple helpers to simplify implementing common runtime caching patterns.
+- [sw-toolbox ★2453](GoogleChrome/sw-toolbox) - A collection of simple helpers to simplify implementing common runtime caching patterns.
 - [Manifest Generator](https://brucelawson.github.io/manifest/) - Generate a web app manifest, required for push notifications and installable web apps.
-- [sw-precache ★2826](https://github.com/GoogleChrome/sw-precache) - Generates a service worker to cache your local App Shell resources.
-- [sw-appcache-behavior](https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-appcache-behavior) - A service worker implementation of the behavior defined in a page's App Cache manifest.
-- [sw-offline-google-analytics](https://github.com/GoogleChrome/sw-helpers/tree/master/projects/sw-offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
+- [sw-precache ★3050](GoogleChrome/sw-precache) - Generates a service worker to cache your local App Shell resources.
+- [sw-offline-google-analytics](https://github.com/GoogleChrome/sw-helpers/tree/master/packages/sw-offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
 
 ## Videos
 
@@ -76,12 +75,12 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ## Related Technologies
 
-- [App Install Banners ★849](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps)
-- [Background Sync ★849](https://github.com/TalAter/awesome-progressive-web-apps#background-sync)
-- [CacheStorage API ★849](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
-- [IndexedDB ★849](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
-- [Push Notifications ★849](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
+- [App Install Banners ★872](TalAter/awesome-progressive-web-apps#installable-web-apps)
+- [Background Sync ★872](TalAter/awesome-progressive-web-apps#background-sync)
+- [CacheStorage API ★872](TalAter/awesome-progressive-web-apps#cachestorage-api)
+- [IndexedDB ★872](TalAter/awesome-progressive-web-apps#indexeddb)
+- [Push Notifications ★872](TalAter/awesome-progressive-web-apps#push-notifications)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/TalAter/awesome-service-workers">https://github.com/TalAter/awesome-service-workers</a> with ranks
+	This list is a copy of <a href="TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks
 </p>

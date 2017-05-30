@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/weblancaster/awesome-IoT-hybrid">https://github.com/weblancaster/awesome-IoT-hybrid</a> with ranks
+	This list is a copy of <a href="weblancaster/awesome-IoT-hybrid">weblancaster/awesome-IoT-hybrid</a> with ranks
 </p>
 ---
-# Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 
@@ -42,7 +42,7 @@ Ranked awesome lists, all in one place
 - [Node Red](http://nodered.org/)
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
-- [Lelylan ★943](https://github.com/lelylan/lelylan)
+- [Lelylan ★974](lelylan/lelylan)
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
@@ -51,7 +51,7 @@ Ranked awesome lists, all in one place
 
 ## Hybrid Desktop
 
-- [nw.js ★31363](https://github.com/nwjs/nw.js)
+- [nw.js ★31581](nwjs/nw.js)
 - [Electron](https://github.com/atom/electron)
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
@@ -75,7 +75,7 @@ Ranked awesome lists, all in one place
 
 #### Tools-Plugins
 
-- [Cordova / Phonegap iBeacon plugin ★597](https://github.com/petermetz/cordova-plugin-ibeacon)
+- [Cordova / Phonegap iBeacon plugin ★608](petermetz/cordova-plugin-ibeacon)
 
 ## Miscellaneous
 
@@ -116,5 +116,5 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/weblancaster/awesome-IoT-hybrid">https://github.com/weblancaster/awesome-IoT-hybrid</a> with ranks
+	This list is a copy of <a href="weblancaster/awesome-IoT-hybrid">weblancaster/awesome-IoT-hybrid</a> with ranks
 </p>

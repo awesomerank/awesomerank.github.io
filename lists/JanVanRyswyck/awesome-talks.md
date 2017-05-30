@@ -2,11 +2,11 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/JanVanRyswyck/awesome-talks">https://github.com/JanVanRyswyck/awesome-talks</a> with ranks
+	This list is a copy of <a href="JanVanRyswyck/awesome-talks">JanVanRyswyck/awesome-talks</a> with ranks
 </p>
 ---
 # Awesome talks
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 There are a lot of screencasts, recordings of user group gatherings and conference talks available online. I try to commit myself watching at least two new talks every week, and I've been doing this for quite some time now. I created this list of online talks that I really enjoyed watching. I'll also be updating this list whenever I've watched another *awesome* talk that is worthy enough. Suggestions are always appreciated through a pull request. So without further ado ..
 
@@ -22,6 +22,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Computers are a Sadness, I am the Cure](https://vimeo.com/95066828) by **James Mickens** [27:35]
 * [Are We There Yet?](http://www.infoq.com/presentations/Are-We-There-Yet-Rich-Hickey) by **Rich Hickey** [1:10:04]
 * [Simple Made Easy](http://www.infoq.com/presentations/Simple-Made-Easy) by **Rich Hickey** [1:01:26]
+* [The Value of Values](https://www.infoq.com/presentations/Value-Values) by **Rich Hickey** [58:53]
 * [The Web We Lost](https://www.youtube.com/watch?v=9KKMnoTTHJk) by **Anil Dash** [1:10:54]
 * [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by **Guy Steele** [53:30]
 * [The Mess We're In](https://www.youtube.com/watch?v=lKXe3HUG2l4&list=UU_QIfHvN9auy2CoOdSfMWDw) by **Joe Armstrong** [45:49]
@@ -55,6 +56,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 * [Propositions as Types](https://www.youtube.com/watch?v=IOiZatlZtGU) by **Philip Wadler** [42:42]
 * [Category Theory for the Working Hacker](https://www.infoq.com/presentations/category-theory-propositions-principle) by **Philip Wadler** [42:17]
 * [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio) by **Matthias Felleisen** [1:15:18]
+* [Functional architecture - The pits of success](https://www.youtube.com/watch?v=US8QG9I1XW0) by **Mark Seemann** [1:00:09]
 
 ##### Software Design
 
@@ -142,5 +144,5 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/JanVanRyswyck/awesome-talks">https://github.com/JanVanRyswyck/awesome-talks</a> with ranks
+	This list is a copy of <a href="JanVanRyswyck/awesome-talks">JanVanRyswyck/awesome-talks</a> with ranks
 </p>

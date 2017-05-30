@@ -2,16 +2,16 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/Siddharth11/Colorful">https://github.com/Siddharth11/Colorful</a> with ranks
+	This list is a copy of <a href="Siddharth11/Colorful">Siddharth11/Colorful</a> with ranks
 </p>
 ---
 <p align="center">
 	<img src="color-palette.gif" alt="header image">
 </p>
 
-# Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 __A curated list of awesome resources to choose your next color scheme.__  
-Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
+Inspired by the __[awesome ★59088](sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
 
 ## Table of Contents
 - [Tools](#tools)
@@ -24,15 +24,16 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 
 #### Libraries
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-- [GradStop.js ★78](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+- [GradStop.js ★81](Siddharth11/gradStop.js) - Generate gradient color stops.
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-- [Coloor ★334 ⏳1Y](https://github.com/krasimir/coloor) - Image preloading utility.
-- [Color Thief ★5586](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-- [Colorify.js ★703](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-- [Colofilter.css ★558](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
-- [Polychrome ★240](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
-- [Palettable](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+- [Coloor ★335 ⏳1Y](krasimir/coloor) - Image preloading utility.
+- [Color Thief ★5655](lokesh/color-thief) - Grab color palette from an image.
+- [Colorify.js ★708](LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+- [Colofilter.css ★559](LukyVj/colofilter.css) - Duotone filters made with CSS.
+- [Polychrome ★248](cdonohue/polychrome) - A small library for parsing and manipulating colors.
+- [Palettable ★236](jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+- [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 
 #### Web App
 - [Color Picker for Data](http://tristen.ca/hcl-picker/) - Hold chroma constant and pick your palette with ease.
@@ -45,7 +46,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Pictaculous](http://www.pictaculous.com/) - Generate color palette with an image.
 - [Adobe Color Wheel](https://color.adobe.com/) - Create color schemes with the color wheel.
 - [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - Generate and customize multiple css3 radial gradients.
-- [SassMe ★22](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
+- [SassMe ★23](jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
 - [Shade](http://jxnblk.com/shade/) - Mathematically derived gradient explorer.
 - [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
 - [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.
@@ -65,6 +66,7 @@ Inspired by the __[awesome](https://github.com/sindresorhus/awesome)__ list. Ple
 - [Color Library](http://colorlibrary.ch/) - Automated Color Separation.
 - [Color Supply](http://colorsupplyyy.com/app/) - Inspirational color palettes from designers & illustrators around the world.
 - [ColorFavs](http://www.colorfavs.com/) - Create and Discover Beautiful Color Palettes and Colors.
+- [Colormind](http://www.colormind.io/) - Colormind is a color scheme generator that uses deep learning.
 
 ## Color Palettes
 - [ColorHunt](http://colorhunt.co/) - Color palettes with quick preview feature.
@@ -128,5 +130,5 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/Siddharth11/Colorful">https://github.com/Siddharth11/Colorful</a> with ranks
+	This list is a copy of <a href="Siddharth11/Colorful">Siddharth11/Colorful</a> with ranks
 </p>

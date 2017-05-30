@@ -2,12 +2,12 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/jbhuang0604/awesome-computer-vision">https://github.com/jbhuang0604/awesome-computer-vision</a> with ranks
+	This list is a copy of <a href="jbhuang0604/awesome-computer-vision">jbhuang0604/awesome-computer-vision</a> with ranks
 </p>
 ---
 
-# Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
-A curated list of awesome computer vision resources, inspired by [awesome-php ★15226](https://github.com/ziadoz/awesome-php).
+# Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+A curated list of awesome computer vision resources, inspired by [awesome-php ★15483](ziadoz/awesome-php).
 
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
@@ -76,6 +76,13 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Advances in Computer Vision](http://6.869.csail.mit.edu/fa15/) - Antonio Torralba and Bill Freeman (MIT)
  * [Computer Vision](http://www.vision.rwth-aachen.de/course/11/) - Bastian Leibe (RWTH Aachen University)
  * [Computer Vision 2](http://www.vision.rwth-aachen.de/course/9/) - Bastian Leibe (RWTH Aachen University)
+ * [Computer Vision](http://klewel.com/conferences/epfl-computer-vision/) Pascal Fua (EPFL):
+ * [Computer Vision 1](http://cvlab-dresden.de/courses/computer-vision-1/) Carsten Rother (TU Dresden):
+ * [Computer Vision 2](http://cvlab-dresden.de/courses/CV2/) Carsten Rother (TU Dresden):
+ * [Multiple View Geometry](https://youtu.be/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4) Daniel Cremers (TU Munich):
+
+
+
 
 #### Computational Photography
 * [Image Manipulation and Computational Photography](http://inst.eecs.berkeley.edu/~cs194-26/fa14/) - Alexei A. Efros (UC Berkeley)
@@ -105,6 +112,9 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
  * [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) - Sebastian Thrun (Stanford University)
  * [Machine Learning](https://www.udacity.com/course/machine-learning--ud262) - Charles Isbell, Michael Littman (Georgia Tech)
  * [(Convolutional) Neural Networks for Visual Recognition](https://cs231n.github.io/) - Fei-Fei Li, Andrej Karphaty, Justin Johnson (Stanford University)
+ * [Machine Learning for Computer Vision](https://youtu.be/QZmZFeZxEKI?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl - Rudolph Triebel (TU Munich)
+
+
 
 #### Optimization
  * [Convex Optimization I](http://stanford.edu/class/ee364a/) - Stephen Boyd (Stanford University)
@@ -223,8 +233,8 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Open CV](http://opencv.org/)
 * [mexopencv](http://kyamagu.github.io/mexopencv/)
 * [SimpleCV](http://simplecv.org/)
-* [Open source Python module for computer vision ★1075](https://github.com/jesolem/PCV)
-* [ccv: A Modern Computer Vision Library ★5742](https://github.com/liuliu/ccv)
+* [Open source Python module for computer vision ★1095](jesolem/PCV)
+* [ccv: A Modern Computer Vision Library ★5776](liuliu/ccv)
 * [VLFeat](http://www.vlfeat.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
@@ -244,7 +254,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
-* [Awesome 3D reconstruction list ★279](https://github.com/openMVG/awesome_3DReconstruction_list)
+* [Awesome 3D reconstruction list ★335](openMVG/awesome_3DReconstruction_list)
 
 
 #### Feature Detection and Extraction
@@ -260,10 +270,10 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
   * A. Alahi, R. Ortiz, and P. Vandergheynst, "FREAK: Fast Retina Keypoint", CVPR 2012
 * [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
   * Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison, "KAZE Features", ECCV 2012
-* [Local Binary Patterns ★52](https://github.com/nourani/LBP)
+* [Local Binary Patterns ★54](nourani/LBP)
 
 #### High Dynamic Range Imaging
-* [HDR_Toolbox ★48](https://github.com/banterle/HDR_Toolbox)
+* [HDR_Toolbox ★48](banterle/HDR_Toolbox)
 
 #### Semantic Segmentation
 * [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
@@ -393,9 +403,9 @@ Non-uniform Deblurring
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
  * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/research/superpixel-segmentation/)
  * [SEEDS](http://www.mvdblive.org/seeds/)
- * [SEEDS Revised ★23](https://github.com/davidstutz/seeds-revised)
+ * [SEEDS Revised ★24](davidstutz/seeds-revised)
  * [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
- * [Fast Edge Detection Using Structured Forests ★300](https://github.com/pdollar/edges)
+ * [Fast Edge Detection Using Structured Forests ★307](pdollar/edges)
 
 #### Interactive Image Segmentation
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
@@ -425,19 +435,19 @@ Non-uniform Deblurring
 ###### Tracking/Odometry:
  * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
  * [PTAM: Parallel tracking and mapping](http://www.robots.ox.ac.uk/~gk/PTAM/)
- * [KFusion: Implementation of KinectFusion ★74 ⏳2Y](https://github.com/GerhardR/kfusion)
- * [kinfu_remake: Lightweight, reworked and optimized version of Kinfu. ★91](https://github.com/Nerei/kinfu_remake)
+ * [KFusion: Implementation of KinectFusion ★77 ⏳2Y](GerhardR/kfusion)
+ * [kinfu_remake: Lightweight, reworked and optimized version of Kinfu. ★90](Nerei/kinfu_remake)
  * [LVR-KinFu: kinfu_remake based Large Scale KinectFusion with online reconstruction](http://las-vegas.uni-osnabrueck.de/related-projects/lvr-kinfu/)
  * [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/~victor/infinitam/)
  * [VoxelHashing: Large-scale KinectFusion](https://github.com/nachtmar/VoxelHashing)
  * [SLAMBench: Multiple-implementation of KinectFusion](http://apt.cs.manchester.ac.uk/projects/PAMELA/tools/SLAMBench/)
- * [SVO: Semi-direct visual odometry ★665](https://github.com/uzh-rpg/rpg_svo)
- * [DVO: dense visual odometry ★204](https://github.com/tum-vision/dvo_slam)
+ * [SVO: Semi-direct visual odometry ★691](uzh-rpg/rpg_svo)
+ * [DVO: dense visual odometry ★212](tum-vision/dvo_slam)
  * [FOVIS: RGB-D visual odometry](https://code.google.com/p/fovis/)
 
 ###### Graph Optimization:
  * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
- * [G2O: General framework for graph optomization ★418](https://github.com/RainerKuemmerle/g2o)
+ * [G2O: General framework for graph optomization ★452](RainerKuemmerle/g2o)
 
 ###### Loop Closure:
  * [FabMap: appearance-based loop closure system](http://www.robots.ox.ac.uk/~mjc/Software.htm) - also available in [OpenCV2.4.11](http://docs.opencv.org/2.4/modules/contrib/doc/openfabmap.html)
@@ -445,25 +455,25 @@ Non-uniform Deblurring
 
 ###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
- * [LSD-SLAM ★1001 ⏳1Y](https://github.com/tum-vision/lsd_slam)
- * [ORB-SLAM ★486](https://github.com/raulmur/ORB_SLAM)
+ * [LSD-SLAM ★1032 ⏳1Y](tum-vision/lsd_slam)
+ * [ORB-SLAM ★500](raulmur/ORB_SLAM)
 
 #### Single-view Spatial Understanding
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
  * [Recovering Spatial Layout](http://web.engr.illinois.edu/~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) - Varsha Hedau (UIUC)
  * [Geometric Reasoning](http://www.cs.cmu.edu/~./dclee/code/index.html) - David C. Lee (CMU)
- * [RGBD2Full3D](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
+ * [RGBD2Full3D ★13 ⏳2Y](arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
 
 #### Object Detection
  * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
  * [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/~rbg/latent/)
- * [VOC-DPM ★355](https://github.com/rbgirshick/voc-dpm)
+ * [VOC-DPM ★359](rbgirshick/voc-dpm)
  * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
- * [R-CNN: Regions with Convolutional Neural Network Features ★985](https://github.com/rbgirshick/rcnn)
- * [SPP-Net ★220](https://github.com/ShaoqingRen/SPP_net)
+ * [R-CNN: Regions with Convolutional Neural Network Features ★1019](rbgirshick/rcnn)
+ * [SPP-Net ★227](ShaoqingRen/SPP_net)
  * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
- * [Edge Boxes ★300](https://github.com/pdollar/edges)
- * [ReInspect ★298](https://github.com/Russell91/ReInspect)
+ * [Edge Boxes ★307](pdollar/edges)
+ * [ReInspect ★307](Russell91/ReInspect)
 
 #### Nearest Neighbor Search
 
@@ -476,7 +486,7 @@ Non-uniform Deblurring
  * [PatchMatch](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/index.php)
  * [Generalized PatchMatch](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
  * [Coherency Sensitive Hashing](http://www.eng.tau.ac.il/~simonk/CSH/)
- * [PMBP: PatchMatch Belief Propagation ★5 ⏳2Y](https://github.com/fbesse/pmbp)
+ * [PMBP: PatchMatch Belief Propagation ★5 ⏳2Y](fbesse/pmbp)
  * [TreeCANN](http://www.eng.tau.ac.il/~avidan/papers/TreeCANN_code_20121022.rar)
 
 #### Visual Tracking
@@ -517,10 +527,10 @@ Non-uniform Deblurring
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 #### Deep Learning
- * [Awesome Deep Vision ★4004](https://github.com/kjw0612/awesome-deep-vision)
+ * [Awesome Deep Vision ★4285](kjw0612/awesome-deep-vision)
 
 #### Machine Learning
- * [Awesome Machine Learning ★22112](https://github.com/josephmisiti/awesome-machine-learning)
+ * [Awesome Machine Learning ★22923](josephmisiti/awesome-machine-learning)
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
  * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
@@ -549,6 +559,11 @@ Non-uniform Deblurring
  * [MPI-Sintel Optical Flow Dataset and Evaluation](http://sintel.is.tue.mpg.de/)
  * [The KITTI Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/eval_stereo_flow.php?benchmark=flow)
  * [HCI Challenge](http://hci.iwr.uni-heidelberg.de/Benchmarks/document/Challenging_Data_for_Stereo_and_Optical_Flow/)
+
+###### Video Object Segmentation
+ * [DAVIS: Densely Annotated VIdeo Segmentation](http://davischallenge.org/)
+ * [SegTrack v2](http://web.engr.oregonstate.edu/~lif/SegTrack2/dataset.html)
+
 
 ###### Change Detection
  * [Labeled and Annotated Sequences for Integral Evaluation of SegmenTation Algorithms](http://www.gti.ssr.upm.es/data/LASIESTA)
@@ -704,8 +719,8 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning ★4408](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [awesome-machine-learning ★22112](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-deep-learning ★4627](ChristosChristofidis/awesome-deep-learning)
+* [awesome-machine-learning ★22923](josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *
@@ -722,5 +737,5 @@ License
 To the extent possible under law, [Jia-Bin Huang](www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/jbhuang0604/awesome-computer-vision">https://github.com/jbhuang0604/awesome-computer-vision</a> with ranks
+	This list is a copy of <a href="jbhuang0604/awesome-computer-vision">jbhuang0604/awesome-computer-vision</a> with ranks
 </p>

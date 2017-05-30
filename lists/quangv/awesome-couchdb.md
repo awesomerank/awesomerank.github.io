@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/quangv/awesome-couchdb">https://github.com/quangv/awesome-couchdb</a> with ranks
+	This list is a copy of <a href="quangv/awesome-couchdb">quangv/awesome-couchdb</a> with ranks
 </p>
 ---
 <p>
@@ -11,7 +11,7 @@ Ranked awesome lists, all in one place
   <br>
 </p>
 
-# Awesome CouchDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome CouchDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > A curated meta resources & best practices list for CouchDB.
 
@@ -120,7 +120,7 @@ Pull-Requests are welcomed.
 ### Companies
 
 - [Couchbase](https://www.couchbase.com/) - NoSQL database.
-- [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices ★106 ⏳1Y](https://github.com/eHealthAfrica/couchdb-best-practices).
+- [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices ★114 ⏳1Y](eHealthAfrica/couchdb-best-practices).
 
 
 #### Hosting
@@ -182,5 +182,5 @@ Pull-Requests are welcomed.
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/quangv/awesome-couchdb">https://github.com/quangv/awesome-couchdb</a> with ranks
+	This list is a copy of <a href="quangv/awesome-couchdb">quangv/awesome-couchdb</a> with ranks
 </p>

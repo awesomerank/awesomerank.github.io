@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/micromata/awesome-javascript-learning">https://github.com/micromata/awesome-javascript-learning</a> with ranks
+	This list is a copy of <a href="micromata/awesome-javascript-learning">micromata/awesome-javascript-learning</a> with ranks
 </p>
 ---
-# Awesome JavaScript Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
+# Awesome JavaScript Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 > An awesome list limited to the best JavaScript learning resources
 
@@ -49,7 +49,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 ## Free eBooks
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) – Covering the language and runtime specifics.
-- [You Don't Know JS (book series) ★57570](https://github.com/getify/You-Dont-Know-JS) – Series of books diving deep into language.
+- [You Don't Know JS (book series) ★59774](getify/You-Dont-Know-JS) – Series of books diving deep into language.
 - [Speaking JavaScript](http://speakingjs.com) - In-depth guide beginning with the basics.
 - [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns.
 
@@ -89,7 +89,7 @@ Thin books which you can get through in a few days.
 - [Setting up ES6](http://exploringjs.com/setting-up-es6.html) - Explains how to set up ES6 projects that are transpiled to ES5.
 - [ES6 Overview](https://ponyfoo.com/articles/es6) - Bullet point overview including in-depth articles.
 - [ES6 Katas](http://es6katas.org) - Learn ES6 by solving unit test online.
-- [Practical ES6 ★1390](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
+- [Practical ES6](https://github.com/mjavascript/practical-es6) - eBook with practical examples and advices.
 
 ## DOM related
 
@@ -98,7 +98,7 @@ Thin books which you can get through in a few days.
 
 ## Node.js
 
-- [The Art of Node ★6313](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics. 
+- [The Art of Node ★6415](maxogden/art-of-node#readme) - Introductory tutorial covering the basics. 
 - [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
 - [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 
@@ -109,5 +109,5 @@ Thin books which you can get through in a few days.
 To the extent possible under law, [Michael Kühnel](http://micromata.de) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/micromata/awesome-javascript-learning">https://github.com/micromata/awesome-javascript-learning</a> with ranks
+	This list is a copy of <a href="micromata/awesome-javascript-learning">micromata/awesome-javascript-learning</a> with ranks
 </p>

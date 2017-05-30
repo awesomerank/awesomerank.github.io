@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> with ranks
+	This list is a copy of <a href="ripienaar/free-for-dev">ripienaar/free-for-dev</a> with ranks
 </p>
 ---
 # free-for-dev
@@ -151,13 +151,12 @@ Table of Contents
   * [shippable.com](https://app.shippable.com/) — Free for 1 build container, private and public repos, unlimited builds
   * [snap-ci.com](https://snap-ci.com/) — Free for public repositories, 1 build at the time
   * [appveyor.com](http://www.appveyor.com/) — CD service for Windows, free for Open Source
-  * [github.com ★335](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
+  * [github.com ★344](ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
   * [ftploy.com](http://ftploy.com/) — 1 project with unlimited deployments
   * [deployhq.com](http://www.deployhq.com/) — 1 project with 10 daily deployments
   * [hub.jazz.net](https://hub.jazz.net/) — 60 minutes of free build time/month
   * [styleci.io](https://styleci.io/) — Public GitHub repositories only
   * [bitrise.io](https://www.bitrise.io/) — An iOS CI/CD with 200 free builds/month
-  * [saucelabs.com](https://saucelabs.com/) — CI with scalable testing for mobile and web apps, free for Open Source
   * [buddybuild.com](https://www.buddybuild.com/) — Build, deploy and gather feedback for your iOS and Android apps in one seamless, iterative system
   * [gitlab.com](https://about.gitlab.com/gitlab-ci/) — Create pipelines directly from Git repositories using GitLab's CI service
   * [dependencyci.com](https://dependencyci.com/) — Continuous dependency checking for GitHub repositories, free for open source
@@ -165,6 +164,7 @@ Table of Contents
 ## Automated Browser Testing
 
   * [gridlastic.com](https://www.gridlastic.com/) — Selenium Grid testing with free plan up to 4 simultaneous selenium nodes/10 grid starts/4,000 test minutes/month
+  * [saucelabs.com](https://saucelabs.com/) — Cross browser testing, Selenium testing and mobile testing, [free for Open Source](https://saucelabs.com/open-source)
   * [browserstack.com](https://www.browserstack.com/) — Manual and automated browser testing, free for Open Source
   * [everystep-automation.com](https://www.everystep-automation.com/) — Records and replays all steps made in a web browser and creates scripts,... free with fewer options
   * [Applitools.com](https://applitools.com/) — smart visual validation for web, native mobile and desktop apps. Integrates with almost all automation solutions (like Selenium and Karma) and remote runners (Sauce Labs, Browser Stack). free for open source. A free tier for a single user with limited checkpoints per week.
@@ -288,9 +288,8 @@ Table of Contents
   * [mailtrap.io](https://mailtrap.io/) — Fake SMTP server for development, free plan with 1 inbox, 50 messages, no team member, 2 emails/second, no forward rules
   * [postmarkapp.com](https://postmarkapp.com/) — First 25,000 emails free
   * [zoho.com](https://www.zoho.com/mail/) — Free email management and collaboration for up to 10 users
-  * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
-  * [pawnmail.com](http://pawnmail.com) — 2 GB free email hosting across unlimited users for custom domain. Roundcube webmail, POP3, IMAP and SMTP access. No paid plans or upgrades
-  * [moosend.com](http://moosend.com/) — Mailing list management service. Free account for 6 months for startups
+  * [domain.yandex.com](https://domain.yandex.com/domains_add/) — Free email and DNS hosting for up to 1,000 users
+  * [moosend.com](http://moosend.com/) — Mailing list management service. Free account for 6 months for startups
   * [debugmail.io](https://debugmail.io/) — Easy to use testing mail server for developers
   * [mailboxlayer.com](https://mailboxlayer.com/) — Email validation and verification JSON API for developers. 1,000 free API requests/month
   * [mailcatcher.me](http://mailcatcher.me/) — Catches mail and serves it through a web interface
@@ -353,6 +352,7 @@ Table of Contents
   * [bip.io](https://bip.io/) — A web-automation platform for easily connecting web services. Fully open GPLv3 to power the backend of your Open Source project. Commercial OEM License available
   * [blockspring.com](https://www.blockspring.com/) — Cloud functions. Free for 5 million runs/month
   * [kinvey.com](http://www.kinvey.com/) — Mobile backend, starter plan has unlimited requests/second, with 2 GB of data storage, as well as push notifications for up 5 million unique recipients. Enterprise application support
+  * [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000 month, and 1000 data objects in table.
   * [konacloud.io](http://konacloud.io/) — Web and Mobile Backend as a Service, with 5 GB free account
   * [layer.com](https://layer.com/) — The full-stack building block for communications
   * [quickblox.com](http://quickblox.com/) — A communication backend for instant messaging, video and voice calling and push notifications
@@ -622,11 +622,11 @@ Table of Contents
   * [cloudrail.com](https://cloudrail.com) — API integration solution. Unified interfaces for multiple web APIs, API change management
 
 ## Other Free Resources
-  * [github.com - FOSS for Dev ★178](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
-  * [github.com - Free for nonprofit ★46 ⏳1Y](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
+  * [github.com - FOSS for Dev ★180](httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
+  * [github.com - Free for nonprofit ★47 ⏳2Y](pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/ripienaar/free-for-dev">https://github.com/ripienaar/free-for-dev</a> with ranks
+	This list is a copy of <a href="ripienaar/free-for-dev">ripienaar/free-for-dev</a> with ranks
 </p>

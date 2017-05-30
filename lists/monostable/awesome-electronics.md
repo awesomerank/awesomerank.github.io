@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/monostable/awesome-electronics">https://github.com/monostable/awesome-electronics</a> with ranks
+	This list is a copy of <a href="monostable/awesome-electronics">monostable/awesome-electronics</a> with ranks
 </p>
 ---
-# Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > A curated list of awesome resources for electronic engineers and hobbyists
 
@@ -14,8 +14,6 @@ Electronic engineering (EE) is the practice of understanding, designing and buil
 Experimenting with and building electronic circuits is also a popular hobby and many professional resources are often equally applicable to hobbyists and vice versa.
 
 This list is for websites, services, software, tools and more: everything that you think is awesome in the world of electronic engineering. If you have anything to add please follow the instructions in [contributing.md](https://github.com/monostable/awesome-electronics/blob/master/contributing.md).
-
-Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbeda-software-list/) on the EEVblog forums. It's been up for a while longer and is much more comprehensive for some sections.
 
 ## Contents
 
@@ -41,10 +39,10 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
   * [Help](#help)
 - [Podcasts](#podcasts)
 - [Videos](#videos)
-- [Tutorials](#tutorials)
 - [Learning](#learning)
   * [Technical Tutorials](#technical-tutorials)
   * [Theory and Courses](#theory-and-courses)
+- [Other Lists](#other-lists)
 
 <!-- tocstop -->
 
@@ -79,17 +77,17 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 ## CAD Specific 
 
 ### KiCAD
-- [Xesscorp's list of KiCAD 3rd part tools ★54](https://github.com/xesscorp/kicad-3rd-party-tools)
+- [Xesscorp's list of KiCAD 3rd part tools ★56](xesscorp/kicad-3rd-party-tools)
 - [Contextual Electronics' KiCAD 4.0 video tutorials](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - Comprehensive video tutorials for beginners.
 - [KiCAD.info Forums](https://forum.kicad.info) - User discussion and help forum.
-- [Keyboard PCB Guide ★565](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+- [Keyboard PCB Guide ★591](ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 - [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
-- [Footprint Collection ★52](https://github.com/monostable/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them.
+- [Footprint Collection ★57](monostable/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
-- [Adafruit Eagle Library ★753](https://github.com/adafruit/Adafruit-Eagle-Library)
-- [SparkFun Electronics Eagle Libraries ★1045](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
+- [Adafruit Eagle Library ★759](adafruit/Adafruit-Eagle-Library)
+- [SparkFun Electronics Eagle Libraries ★1057](sparkfun/SparkFun-Eagle-Libraries)
 
 ## PCB Batching Services
 - [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services.
@@ -167,7 +165,12 @@ Also check out the [PCB/EDA software list](http://www.eevblog.com/forum/eda/pcbe
 ### Theory and Courses
 - [All About Circuits](http://www.allaboutcircuits.com/textbook/) - Online textbook for learning theory with clear diagrams and explanations.
 - [Electrical Engineering - Khan Academy](https://www.khanacademy.org/science/electrical-engineering) - Online learning platform with lots of topics, including a full course on electrical engineering, circuits, semiconductors, signals, robots, and even reverse engineering electronic devices.
+
+## Other Lists
+
+- [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) 
+- [intaja/open-electronics ★5](intajay/open-electronics)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/monostable/awesome-electronics">https://github.com/monostable/awesome-electronics</a> with ranks
+	This list is a copy of <a href="monostable/awesome-electronics">monostable/awesome-electronics</a> with ranks
 </p>

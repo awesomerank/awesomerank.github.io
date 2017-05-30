@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/herrbischoff/awesome-osx-command-line">https://github.com/herrbischoff/awesome-osx-command-line</a> with ranks
+	This list is a copy of <a href="herrbischoff/awesome-osx-command-line">herrbischoff/awesome-osx-command-line</a> with ranks
 </p>
 ---
 <h1><img src="https://cdn.rawgit.com/herrbischoff/awesome-osx-command-line/master/assets/logo.svg" alt="Awesome OS X Command Line" width="600"></h1>
@@ -11,11 +11,11 @@ Ranked awesome lists, all in one place
 >
 > _“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)_
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/herrbischoff/awesome-osx-command-line.svg?branch=master)](https://travis-ci.org/herrbischoff/awesome-osx-command-line)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://travis-ci.org/herrbischoff/awesome-osx-command-line.svg?branch=master)](https://travis-ci.org/herrbischoff/awesome-osx-command-line)
 
 If you want to contribute, you are highly encouraged to do so. Please read the [contribution guidelines](https://github.com/herrbischoff/awesome-osx-command-line/blob/master/contributing.md).
 
-For more terminal shell goodness, please also see this list's sister list [Awesome Command Line Apps ★867](https://github.com/herrbischoff/awesome-command-line-apps).
+For more terminal shell goodness, please also see this list's sister list [Awesome Command Line Apps ★923](herrbischoff/awesome-command-line-apps).
 
 ## Contents
 
@@ -1563,7 +1563,7 @@ sudo softwareupdate -l
 ```
 
 #### Set Software Update Server
-This should only be done for testing purposes or unmanaged clients. To use network-wide, either correctly set up DNS along with [Apple SUS service](http://krypted.com/mac-security/using-the-software-update-service-on-mountain-lion-server/) and bind your clients via OpenDirectory. Alternatively, use [Reposado](https://github.com/wdas/reposado) together with correct network DNS settings to make resolution transparent. [Margarita ★176](https://github.com/jessepeterson/margarita) looks nice to have as well.
+This should only be done for testing purposes or unmanaged clients. To use network-wide, either correctly set up DNS along with [Apple SUS service](http://krypted.com/mac-security/using-the-software-update-service-on-mountain-lion-server/) and bind your clients via OpenDirectory. Alternatively, use [Reposado](https://github.com/wdas/reposado) together with correct network DNS settings to make resolution transparent. [Margarita ★179](jessepeterson/margarita) looks nice to have as well.
 ```bash
 # Use own SUS
 sudo defaults write /Library/Preferences/com.apple.SoftwareUpdate CatalogURL http://su.example.com:8088/index.sucatalog
@@ -1661,7 +1661,7 @@ chsh -s $(brew --prefix)/bin/bash
 ```
 
 - [Homepage](https://www.gnu.org/software/bash/) - The default shell for OS X and most other Unix-based operating systems.
-- [Bash-it ★6114](https://github.com/Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash.
+- [Bash-it ★6230](Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash.
 
 #### fish
 Install the latest version and set as current users' default shell:
@@ -1674,8 +1674,8 @@ chsh -s $(brew --prefix)/bin/fish
 - [Homepage](http://fishshell.com) - A smart and user-friendly command line
 shell for OS X, Linux, and the rest of the family.
 - [Fisherman](https://fisherman.github.io/) - A blazing fast, modern plugin manager for Fish.
-- [The Fishshell Framework ★2126](https://github.com/oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell.
-- [Installation & Configuration Tutorial ★55](https://github.com/ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X.
+- [The Fishshell Framework ★2253](oh-my-fish/oh-my-fish) - Provides core infrastructure to allow you to install packages which extend or modify the look of your shell.
+- [Installation & Configuration Tutorial ★65](ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X.
 
 #### Zsh
 Install the latest version and set as current users' default shell:
@@ -1687,20 +1687,20 @@ chsh -s $(brew --prefix)/bin/zsh
 
 - [Homepage](http://www.zsh.org) - Zsh is a shell designed for interactive use, although it is also a powerful scripting language.
 - [Oh My Zsh](http://ohmyz.sh) - An open source, community-driven framework for managing your Zsh configuration.
-- [Prezto ★7500](https://github.com/sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
-- [zgen ★739](https://github.com/tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you.
+- [Prezto ★7609](sorin-ionescu/prezto) - A speedy Zsh framework. Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
+- [zgen ★747](tarjoilija/zgen) - Another open source framework for managing your zsh configuration. Zgen will load oh-my-zsh compatible plugins and themes and has the advantage of both being faster and automatically cloning any plugins used in your configuration for you.
 
 ### Terminal Fonts
 
 - [Anonymous Pro](http://www.marksimonson.com/fonts/view/anonymous-pro) - A family of four fixed-width fonts designed with coding in mind.
-- [Codeface ★3898](https://github.com/chrissimpkins/codeface) - A gallery and repository of monospaced fonts for developers.
+- [Codeface ★3942](chrissimpkins/codeface) - A gallery and repository of monospaced fonts for developers.
 - [DejaVu Sans Mono](https://dejavu-fonts.github.io/) - A font family based on the Vera Fonts.
 - [Hack](http://sourcefoundry.org/hack/) - Hack is hand groomed and optically balanced to be your go-to code face.
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -  A monospace font, designed for code listings and the like.
 - [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
-- [Meslo ★1705 ⏳1Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font.
+- [Meslo ★1719 ⏳1Y](andreberg/Meslo-Font) - Customized version of Apple's Menlo font.
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
-- [Powerline Fonts ★8043](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin.
+- [Powerline Fonts ★8286](powerline/fonts) - Repo of patched fonts for the Powerline plugin.
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.
 
 
@@ -1709,5 +1709,5 @@ chsh -s $(brew --prefix)/bin/zsh
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/herrbischoff/awesome-osx-command-line">https://github.com/herrbischoff/awesome-osx-command-line</a> with ranks
+	This list is a copy of <a href="herrbischoff/awesome-osx-command-line">herrbischoff/awesome-osx-command-line</a> with ranks
 </p>

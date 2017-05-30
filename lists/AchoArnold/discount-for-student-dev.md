@@ -2,12 +2,12 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/AchoArnold/discount-for-student-dev">https://github.com/AchoArnold/discount-for-student-dev</a> with ranks
+	This list is a copy of <a href="AchoArnold/discount-for-student-dev">AchoArnold/discount-for-student-dev</a> with ranks
 </p>
 ---
-# discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-This list is greatly inspired by the [free-for-dev list ★15403](https://github.com/ripienaar/free-for-dev).
+This list is greatly inspired by the [free-for-dev list ★15770](ripienaar/free-for-dev).
 
 You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
@@ -23,7 +23,6 @@ Table of Contents
   * [Web Hosting](#web-hosting)
   * [Design and Photo Editing](#design-and-photo-editing)
   * [SaaS](#saas)
-  * [DBaaS](#dbaas)
   * [PaaS](#paas)
   * [Email](#email)
   * [CI / CD](#ci--cd)
@@ -61,7 +60,7 @@ Table of Contents
 
   * [Tower](http://www.git-tower.com/buy) -  Version control with git made easy. Students get a 50% discount.
   * [GitKraken](https://www.gitkraken.com/github-student-developer-pack) - Another free as in price desktop Git client. Based on Electron, runs on Windows, GNU/Linux, and Mac. To claim free 1-year PRO license, you must claim your [Github Student Developer Pack](https://education.github.com/pack) and sign in to the desktop client w/ GitHub.
-  
+
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
@@ -76,10 +75,6 @@ Table of Contents
 
   * [Adobe Creative Cloud](http://www.adobe.com/creativecloud/buy/students.html) - Students save big with 60% off Creative Cloud.
 
-## DBaaS
-
-  * [Orchestrate](https://orchestrate.io/) - A complete database portfolio that includes search, time-series events, geolocation and graph queries through an API. Developer account (normally $49/month) while you're a student offered via [Github Student Developer Pack](https://education.github.com/pack).
-
 ## PaaS
 
   * [Amazon Web Services](http://www.awseducate.com/application) - Access cloud content, training, collaboration tools, and AWS technology at no cost by joining AWS Educate today.
@@ -91,7 +86,7 @@ Table of Contents
 ## CI / CD
 
   * [Travis CI](https://travis-ci.org) - Private builds (normally $69/month) while you're a student available via [Github Student Developer Pack](https://education.github.com/pack).
-  * [StyleCI](https://styleci.io/) - Free Student Plan with access to StyleCI for up to five private repositories. Student Discount Scheme entitles up to 50% off all other plans [support](https://blog.alt-three.com/student-discount-scheme/)
+  * [StyleCI](https://blog.alt-three.com/introducing-the-student-plan/) - Free Student Plan with access to StyleCI for up to five private repositories.
 
 ## Payments
 
@@ -161,5 +156,5 @@ Table of Contents
 To the extent possible under law, [Acho Arnold](https://acho.arnold.cf/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/AchoArnold/discount-for-student-dev">https://github.com/AchoArnold/discount-for-student-dev</a> with ranks
+	This list is a copy of <a href="AchoArnold/discount-for-student-dev">AchoArnold/discount-for-student-dev</a> with ranks
 </p>

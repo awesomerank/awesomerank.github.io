@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/TalAter/awesome-progressive-web-apps">https://github.com/TalAter/awesome-progressive-web-apps</a> with ranks
+	This list is a copy of <a href="TalAter/awesome-progressive-web-apps">TalAter/awesome-progressive-web-apps</a> with ranks
 </p>
 ---
-# Awesome Progressive Web Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Progressive Web Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A curated collection of Progressive Web Apps resources.
 
@@ -32,17 +32,18 @@ If you want to contribute, please read the [contribution guidelines](https://git
   - [IndexedDB](#indexeddb)
   - [Installable Web Apps](#installable-web-apps)
     - [App Icons](#app-icons)
+  - [Web Share APIs](#web-share-apis)
+- [Awesome Performance](#awesome-performance)
 
 ## Must Reads
 
-- [Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en) - A step-by-step guide to building a progressive web apps using the app shell pattern.
-- [Wired - Wait! The Web Isn’t Dead After All. Google Made Sure of It](http://www.wired.com/2016/04/wait-web-isnt-really-dead-google-made-sure/) - The behind the scenes story of progressive web apps for non-developers.
+- [Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) - A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more.
+- [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning on building a progressive web app.
 
 ## Learning Resources
 
-- [Awesome Service Workers ★1078](https://github.com/TalAter/awesome-service-workers) - A collection of awesome resources for learning service workers.
-- [Building Progressive Web Apps - O'Reilly Media](https://pwabook.com/oreillyapwa) - A deep dive into progressive web apps, service workers, push notifications, background sync, IndexedDB, offline first and much more (disclaimer: written by the maintainer of this page).
-- [Offline Web Applications Using IndexedDB & Service Worker](https://www.udacity.com/course/offline-web-applications--ud899) - This free Udacity course is a must if you're planning on building a progressive web app.
+- [Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en) - A step-by-step guide to building a progressive web apps using the app shell pattern.
+- [Awesome Service Workers ★1084](TalAter/awesome-service-workers) - A collection of awesome resources for learning service workers.
 - [Service Workers W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
 
 ## Browser Support
@@ -78,7 +79,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ### Service Workers
 
-- [Awesome Service Workers ★1078](https://github.com/TalAter/awesome-service-workers) - A curated collection of the finest service worker resources.
+- [Awesome Service Workers ★1084](TalAter/awesome-service-workers) - A curated collection of the finest service worker resources.
 
 ### CacheStorage API
 
@@ -112,7 +113,23 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 - [RealFaviconGenerator](http://realfavicongenerator.net/) - A great way to generate all the images, favicons, and associated files needed to display your app icon across different browsers.
 - [Android Asset Studio - Launcher Icon Generator](https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html) - Generate Android style icons.
+
+### Web Share APIs
+
+- [Introducing the Web Share API](https://developers.google.com/web/updates/2016/10/navigator-share) - High level introduction to the Web Share API.
+- [Web Share API explainer](https://github.com/WICG/web-share/blob/master/docs/explainer.md) - An explanation of the API, along with some examples. Part of the proposal doc.
+- [Web Share Target API ★34](WICG/web-share-target) - The proposal for the Web Share Target API, as well as a high level [explainer](https://github.com/WICG/web-share-target/blob/master/docs/explainer.md).
+
+## Awesome Performance
+
+- [Web Fundamentals - Performance](https://developers.google.com/web/fundamentals/performance/) - Google's performance learning portal, containing a wealth of knowledge on optimizing your web apps for perfomance.
+- [Introducing RAIL: A User-Centric Model For Performance](https://www.smashingmagazine.com/2015/10/rail-user-centric-model-performance/) - The seminal introduction to RAIL by the Gang of Pauls.
+- [Website Performance Optimization](https://udacity.com/ud884) - A free Udacity course on optimizing websites for speed.
+- [Browser Rendering Optimization](https://udacity.com/ud860) - A free Udacity course helping you create web apps that maintain jank-free 60fps performance.
+- [The PRPL Pattern](https://developers.google.com/web/fundamentals/performance/prpl-pattern/) - A new pattern for structuring and serving Progressive Web Apps, with an emphasis on performance.
+- [Browser Rendering Performance](https://developers.google.com/web/fundamentals/performance/rendering/) - Understand how HTML, JavaScript and CSS is handled by the browser, and how to optimize your page accordingly.
+
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/TalAter/awesome-progressive-web-apps">https://github.com/TalAter/awesome-progressive-web-apps</a> with ranks
+	This list is a copy of <a href="TalAter/awesome-progressive-web-apps">TalAter/awesome-progressive-web-apps</a> with ranks
 </p>

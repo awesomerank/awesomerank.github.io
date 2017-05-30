@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/matteofigus/awesome-speaking">https://github.com/matteofigus/awesome-speaking</a> with ranks
+	This list is a copy of <a href="matteofigus/awesome-speaking">matteofigus/awesome-speaking</a> with ranks
 </p>
 ---
-awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 ================
 
 A collection of awesome resources about public speaking. Please read the [contributing guideline](https://github.com/matteofigus/awesome-speaking/blob/master/contributing.md) if you wish to contribute.
@@ -35,7 +35,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
 
 ## Miscellaneous
-* [Awesome ★57421](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
+* [Awesome ★59088](sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
 * [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
 
 ## Videos
@@ -45,7 +45,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 ## Websites
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-* [awesome-talks ★1766](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
+* [awesome-talks ★1781](JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 * [Nextspeaker.io](http://nextspeaker.io/) - web application for events schedule
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 * [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
@@ -54,5 +54,5 @@ A collection of awesome resources about public speaking. Please read the [contri
 [MIT](https://github.com/matteofigus/awesome-speaking/blob/master/LICENSE.md)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/matteofigus/awesome-speaking">https://github.com/matteofigus/awesome-speaking</a> with ranks
+	This list is a copy of <a href="matteofigus/awesome-speaking">matteofigus/awesome-speaking</a> with ranks
 </p>

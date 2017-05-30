@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/edobashira/speech-language-processing">https://github.com/edobashira/speech-language-processing</a> with ranks
+	This list is a copy of <a href="edobashira/speech-language-processing">edobashira/speech-language-processing</a> with ranks
 </p>
 ---
 Speech and Natural Language Processing
@@ -303,5 +303,5 @@ Books
 
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/edobashira/speech-language-processing">https://github.com/edobashira/speech-language-processing</a> with ranks
+	This list is a copy of <a href="edobashira/speech-language-processing">edobashira/speech-language-processing</a> with ranks
 </p>

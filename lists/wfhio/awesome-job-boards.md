@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/wfhio/awesome-job-boards">https://github.com/wfhio/awesome-job-boards</a> with ranks
+	This list is a copy of <a href="wfhio/awesome-job-boards">wfhio/awesome-job-boards</a> with ranks
 </p>
 ---
-# Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A curated list of awesome niche job boards.
 
@@ -134,5 +134,5 @@ A curated list of awesome niche job boards.
 * [Free & Open Source Jobs](https://www.fossjobs.net/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/wfhio/awesome-job-boards">https://github.com/wfhio/awesome-job-boards</a> with ranks
+	This list is a copy of <a href="wfhio/awesome-job-boards">wfhio/awesome-job-boards</a> with ranks
 </p>

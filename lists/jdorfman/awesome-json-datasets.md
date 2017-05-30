@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/jdorfman/awesome-json-datasets">https://github.com/jdorfman/awesome-json-datasets</a> with ranks
+	This list is a copy of <a href="jdorfman/awesome-json-datasets">jdorfman/awesome-json-datasets</a> with ranks
 </p>
 ---
-# Awesome JSON Datasets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome JSON Datasets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 [<img src="https://www.justindorfman.com/assets/images/json.svg" align="right" width="100">](http://www.json.org/)
 
@@ -257,7 +257,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: you can do **a lot** more at [http://httpbin.org](http://httpbin.org/).
 
 ## Media
-* [Giphy ★1600](https://github.com/Giphy/GiphyAPI)
+* [Giphy ★1660](Giphy/GiphyAPI)
   * [Cats](http://api.giphy.com/v1/gifs/search?q=cats&api_key=dc6zaTOxFJmzC)
   * [Dogs](http://api.giphy.com/v1/gifs/search?q=dogs&api_key=dc6zaTOxFJmzC)
   * [Surprised](http://api.giphy.com/v1/gifs/search?q=surprised&api_key=dc6zaTOxFJmzC)
@@ -424,14 +424,14 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: generate URLs for any location at [Yahoo Weather API](https://developer.yahoo.com/weather/)
 
 ## More Awesome Lists
-* [Awesome](https://github.com/sindresorhus/awesome) *(The OG List)*
-* [Help Wanted](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
-* [JSON](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
-* [WPO](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-* [Shell](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
-* [Public APIs](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
-* [Public Datasets](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
-* [Style Guides](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
+* [Awesome ★59088](sindresorhus/awesome) *(The OG List)*
+* [Help Wanted ★41](fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
+* [JSON ★471](burningtree/awesome-json) *(Libraries and Resources)*
+* [WPO ★5787](davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
+* [Shell ★9491](alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+* [Public APIs ★18041](toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
+* [Public Datasets ★18763](caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
+* [Style Guides ★706](kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
 ## Contributing
 If you want to contribute, please read the [contribution guidelines](https://github.com/jdorfman/awesome-json-datasets/blob/master/CONTRIBUTING.md).
@@ -442,5 +442,5 @@ If you want to contribute, please read the [contribution guidelines](https://git
 To the extent possible under law, [MaxCDN](https://www.maxcdn.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/jdorfman/awesome-json-datasets">https://github.com/jdorfman/awesome-json-datasets</a> with ranks
+	This list is a copy of <a href="jdorfman/awesome-json-datasets">jdorfman/awesome-json-datasets</a> with ranks
 </p>

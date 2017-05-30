@@ -2,14 +2,14 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/dylanrees/citizen-science">https://github.com/dylanrees/citizen-science</a> with ranks
+	This list is a copy of <a href="dylanrees/citizen-science">dylanrees/citizen-science</a> with ranks
 </p>
 ---
 # Digital Tools for Citizen Science
 
-Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository ★399](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
+Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository ★408](drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 ## Contents
 
@@ -51,7 +51,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Zotero](https://www.zotero.org/) - Open-source citation management software.
  * [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
  * [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
- * [ISLE ★199](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+ * [ISLE ★199](nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
  * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
  * [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
  * [Calibre](http://calibre-ebook.com/) - eBook management software.
@@ -81,8 +81,10 @@ Below is a curated list of awesome software and other resources to enable those 
  * [BLAST](http://blast.ncbi.nlm.nih.gov/Blast.cgi) - Search tool for local alignment.
  * [IORodeo](http://iorodeo.com/) - Sells a cheap open-source potentiostat, a colorimeter, and some other equipment.
  * [BioSurplus](http://www.biosurplus.com/) - A supplier of used bio lab equipment.
+ * [DremelFuge](http://www.thingiverse.com/thing:1483) - A biology centrifuge that takes the form of a dremel attachment.
  * [Paperfuge](http://www.biorxiv.org/content/early/2016/08/30/072207.full.pdf+html) - An ultra-low cost, hand-powered centrifuge inspired by the mechanics of a whirligig toy.
  * [Ministat](http://www.hivebio.org/projects/ministat-2/) - A DIY chemostat.
+ * [MinION](https://nanoporetech.com/products/minion) - An affordable, portable DNA/RNA sequencer.
  
 ### Environmental Science and Geology
 
@@ -138,6 +140,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Lead Concentrations in Inner-City Soils As a Factor in the Child Lead Problem](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1651267/pdf/amjph00647-0022.pdf) - A 1983 pharmacology paper detailing a low-cost, low-tech method of doing soil heavy metal testing.
  * [How to Run a Feminist Science Lab Meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/) - A guide by the Civic Laboratory in St. John's, Newfoundland
  * [From the March for Science to an Abolitionist Science](https://www.fromthesquare.org/march-science-abolitionist-science/#.WPpQv2nyuUl) - An article that offers several historical and current critiques of science that propose alternative ways of doing scientific work.
+ * [Whole Earth Catalog](http://www.wholeearth.com/index.php) - A site that contains the remnants of a famous late 1960s and early 1970s maker/ecology magazine.
  
 ## Citizen Science Spaces and Projects
 
@@ -226,5 +229,5 @@ No copyright intended.
 To the extent possible under law, Dylan Rees has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/dylanrees/citizen-science">https://github.com/dylanrees/citizen-science</a> with ranks
+	This list is a copy of <a href="dylanrees/citizen-science">dylanrees/citizen-science</a> with ranks
 </p>

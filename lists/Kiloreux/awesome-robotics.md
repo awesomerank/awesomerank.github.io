@@ -2,13 +2,13 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/Kiloreux/awesome-robotics">https://github.com/Kiloreux/awesome-robotics</a> with ranks
+	This list is a copy of <a href="Kiloreux/awesome-robotics">Kiloreux/awesome-robotics</a> with ranks
 </p>
 ---
 Awesome Robotics
 ================
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -23,6 +23,7 @@ This is a list of various books, courses and other resources for robotics. It's 
 * [Robot Mechanics and Control, Part II](https://www.edx.org/course/robot-mechanics-control-part-ii-snux-snu446-345-2x) **edX**
 * [Autonomous Navigation for Flying Robots](https://www.edx.org/course/autonomous-navigation-flying-robots-tumx-autonavx-0) **edX**
 * [Artificial Intelligence for Robotics](https://www.udacity.com/course/artificial-intelligence-for-robotics--cs373) **Udacity**
+* [Robotics Nanodegree](https://www.udacity.com/course/robotics-nanodegree--nd209) **Udacity**
 * [Robotic vision](https://www.qut.edu.au/study/short-courses-and-professional-development/short-courses/robotic-vision) **QUT**
 * [Applied robot design](https://www.youtube.com/user/StanfordCS235/videos) **Stanford University**
 * [Introduction to Robotics](https://see.stanford.edu/Course/CS223A) **Stanford University**
@@ -172,13 +173,15 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 
 ### Related awesome lists ###
-* [Awesome Artificial Intelligence ★2433](https://github.com/owainlewis/awesome-artificial-intelligence)
-* [Awesome Computer Vision ★2467](https://github.com/jbhuang0604/awesome-computer-vision)
-* [Awesome Machine Learning ★22112](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Deep Learning ★4408](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Vision ★4004](https://github.com/kjw0612/awesome-deep-vision)
-* [Awesome Reinforcement Learning ★1142](https://github.com/aikorea/awesome-rl)
+* [Awesome Artificial Intelligence ★2510](owainlewis/awesome-artificial-intelligence)
+* [Awesome Computer Vision ★2593](jbhuang0604/awesome-computer-vision)
+* [Awesome Machine Learning ★22923](josephmisiti/awesome-machine-learning)
+* [Awesome Deep Learning ★4627](ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Vision ★4285](kjw0612/awesome-deep-vision)
+* [Awesome Reinforcement Learning ★1260](aikorea/awesome-rl)
+* [Awesome Robotics ★3](ahundt/awesome-robotics)
+* [Awesome Robotics Libraries ★68](jslee02/awesome-robotics-libraries)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/Kiloreux/awesome-robotics">https://github.com/Kiloreux/awesome-robotics</a> with ranks
+	This list is a copy of <a href="Kiloreux/awesome-robotics">Kiloreux/awesome-robotics</a> with ranks
 </p>

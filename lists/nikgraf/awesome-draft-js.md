@@ -2,23 +2,23 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/nikgraf/awesome-draft-js">https://github.com/nikgraf/awesome-draft-js</a> with ranks
+	This list is a copy of <a href="nikgraf/awesome-draft-js">nikgraf/awesome-draft-js</a> with ranks
 </p>
 ---
-# Awesome Draft.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Draft.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 [Draft.js](https://facebook.github.io/draft-js/) is a framework for building rich text editors in React.
 
 **Table of Contents**
 
-- [Community ★770](https://github.com/nikgraf/awesome-draft-js#community)
-- [Presentations ★770](https://github.com/nikgraf/awesome-draft-js#presentations)
-- [Projects on Top of Draft.js ★770](https://github.com/nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs)
-- [Common Utilities ★770](https://github.com/nikgraf/awesome-draft-js#common-utilities)
-- [Blog Posts & Articles ★770](https://github.com/nikgraf/awesome-draft-js#blog-posts--articles)
-- [Live Demos ★770](https://github.com/nikgraf/awesome-draft-js#live-demos)
-- [Usage in Production ★770](https://github.com/nikgraf/awesome-draft-js#usage-in-production)
-- [License ★770](https://github.com/nikgraf/awesome-draft-js#license)
+- [Community ★804](nikgraf/awesome-draft-js#community)
+- [Presentations ★804](nikgraf/awesome-draft-js#presentations)
+- [Projects on Top of Draft.js ★804](nikgraf/awesome-draft-js#standalone-editors-built-on-draftjs)
+- [Common Utilities ★804](nikgraf/awesome-draft-js#common-utilities)
+- [Blog Posts & Articles ★804](nikgraf/awesome-draft-js#blog-posts--articles)
+- [Live Demos ★804](nikgraf/awesome-draft-js#live-demos)
+- [Usage in Production ★804](nikgraf/awesome-draft-js#usage-in-production)
+- [License ★804](nikgraf/awesome-draft-js#license)
 
 ## Community
 
@@ -34,19 +34,19 @@ Ranked awesome lists, all in one place
 
 ## Standalone Editors Built on Draft.js
 
-* [Draft WYSIWYG ★305](https://github.com/bkniffler/draft-wysiwyg) - WYSIWYG editor that with drag&drop, resizing & tooltips.
-* [Draft.js Editor ★79](https://github.com/AlastairTaft/draft-js-editor) - A Rich text editor inspired by Medium & Facebook Notes.
-* [React-RTE ★1195](https://github.com/sstur/react-rte) - A full-featured textarea replacement similar to CKEditor or TinyMCE.
-* [Facebook Notes Clone(ish) ★173](https://github.com/andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes.
-* [Megadraft ★340](https://github.com/globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility.
-* [Medium Draft ★782](https://github.com/brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
+* [Draft WYSIWYG ★312](bkniffler/draft-wysiwyg) - WYSIWYG editor that with drag&drop, resizing & tooltips.
+* [Draft.js Editor ★80](AlastairTaft/draft-js-editor) - A Rich text editor inspired by Medium & Facebook Notes.
+* [React-RTE ★1234](sstur/react-rte) - A full-featured textarea replacement similar to CKEditor or TinyMCE.
+* [Facebook Notes Clone(ish) ★177 ⏳1Y](andrewcoelho/react-text-editor) - Rich text editor similar to Facebook notes.
+* [Megadraft ★358](globocom/megadraft) - A rich text editor with a nice default base of plugins and extensibility.
+* [Medium Draft ★798](brijeshb42/medium-draft) - Medium-like rich text editor with a focus on keyboard shortcuts.
 * [React-Draft-Wyiswyg](https://github.com/jpuri/react-draft-wysiwyg.git) - A WYISWYG editor, with various text editing options and corresponding HTML generation.
-* [Dante 2 ★256](https://github.com/michelson/dante2) - Just another Medium clone built on top of DraftJs.
-* [Last Draft ★75](https://github.com/vacenz/last-draft) - A Draft editor built with Draft.js plugins.
+* [Dante 2 ★274](michelson/dante2) - Just another Medium clone built on top of DraftJs.
+* [Last Draft ★92](vacenz/last-draft) - A Draft editor built with Draft.js plugins.
 
 ## Plugins and Decorators Built for Draft.js
 
-* [Draft.js Plugins ★1919](https://github.com/draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js
+* [Draft.js Plugins ★1984](draft-js-plugins/draft-js-plugins) - A Plugin architecture on top of Draft.js
   - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support
   - [Stickers](https://www.draft-js-plugins.com/plugin/sticker) - Facebook-like sticker support
   - [Hashtags](https://www.draft-js-plugins.com/plugin/hashtag) - Twitter-like hashtag support
@@ -54,37 +54,46 @@ Ranked awesome lists, all in one place
   - [Mentions](https://www.draft-js-plugins.com/plugin/mention) - Twitter-like mention support
   - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
   - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
-  - [Autolist ★40](https://github.com/icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation.
-  - [Block Breakout ★21](https://github.com/icelab/draft-js-block-breakout-plugin) - Break out of block types as you type.
-  - [Markdown Shortcuts ★64](https://github.com/ngs/draft-js-markdown-shortcuts-plugin) - Markdown syntax shortcuts.
-  - [Single Line ★13](https://github.com/icelab/draft-js-single-line-plugin) - Restrict to a single line of input.
-  - [RichButtons ★28](https://github.com/jasonphillips/draft-js-richbuttons-plugin) - Add and customize rich formatting buttons.
-  - [Katex ★3](https://github.com/letranloc/draft-js-katex-plugin) - Insert and render LaTeX using Katex.
-  - [Mathjax](https://github.com/efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax.
+  - [Autolist ★41](icelab/draft-js-autolist-plugin) - Automatic unordered/ordered list creation.
+  - [Block Breakout ★21](icelab/draft-js-block-breakout-plugin) - Break out of block types as you type.
+  - [Markdown Shortcuts ★68](ngs/draft-js-markdown-shortcuts-plugin) - Markdown syntax shortcuts.
+  - [Single Line ★13](icelab/draft-js-single-line-plugin) - Restrict to a single line of input.
+  - [RichButtons ★29](jasonphillips/draft-js-richbuttons-plugin) - Add and customize rich formatting buttons.
+  - [Katex ★4](letranloc/draft-js-katex-plugin) - Insert and render LaTeX using Katex.
+  - [Mathjax ★11](efloti/draft-js-mathjax-plugin) - Edit math using (La)TeX rendered by Mathjax.
+  - [Buttons ★20](vacenz/last-draft-js-plugins)
+  - [Color Picker ★20](vacenz/last-draft-js-plugins)
+  - [Embed ★20](vacenz/last-draft-js-plugins)
+  - [EmojiPicker ★20](vacenz/last-draft-js-plugins)
+  - [GifPicker ★20](vacenz/last-draft-js-plugins)
+  - [Link ★20](vacenz/last-draft-js-plugins)
+  - [Modal ★20](vacenz/last-draft-js-plugins)
+  - [Sidebar ★20](vacenz/last-draft-js-plugins)
+  - [Toolbar ★20](vacenz/last-draft-js-plugins)
 * [Draft.js Gutter](https://github.com/yepnamesjames/draft-js-gutter) - Compliments line number gutter.
-* [Draft.js Basic HTML Editor ★61](https://github.com/dburrows/draft-js-basic-html-editor) - Accept html as its input format, and return html to an onChange.
+* [Draft.js Basic HTML Editor ★61](dburrows/draft-js-basic-html-editor) - Accept html as its input format, and return html to an onChange.
 * [Draft.js Prism](https://github.com/SamyPesse/draftjs-prism)- Highlight code blocks using Prism.
-* [Draft.js Typeahead ★74](https://github.com/dooly-ai/draft-js-typeahead) - Support for typeahead functionality.
-* [Draft Extend ★36](https://github.com/HubSpot/draft-extend) - Build extensible Draft.js editors with configurable plugins and integrated serialization.
+* [Draft.js Typeahead ★81](dooly-ai/draft-js-typeahead) - Support for typeahead functionality.
+* [Draft Extend ★39](HubSpot/draft-extend) - Build extensible Draft.js editors with configurable plugins and integrated serialization.
 
 ## Common Utilities
 
-* [BackDraft.js ★36 ⏳1Y](https://github.com/evanc/backdraft-js) - Function to turn a rawContentBlock into a marked-up string.
-* [Draft.js Exporter ★23](https://github.com/rkpasia/draft-js-exporter) - Export and format the content from Draft.js.
-* [Draft.js: Export ContentState to HTML ★274](https://github.com/sstur/draft-js-export-html) - Export ContentState to HTML.
-* [Redraft ★49](https://github.com/lokiuz/redraft) - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
-* [Draft.js exporter (Ruby) ★4](https://github.com/ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML.
-* [Draft.js exporter (Python) ★14](https://github.com/springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML
-* [Draft.js AST Exporter](https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (AST).
-* [Draft.js AST Importer](https://github.com/icelab/draft-js-ast-importer)- Emport an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
+* [BackDraft.js ★35 ⏳1Y](evanc/backdraft-js) - Function to turn a rawContentBlock into a marked-up string.
+* [Draft.js Exporter ★24](rkpasia/draft-js-exporter) - Export and format the content from Draft.js.
+* [Draft.js: Export ContentState to HTML ★284](sstur/draft-js-export-html) - Export ContentState to HTML.
+* [Redraft ★52](lokiuz/redraft) - Renders the result of Draft.js convertToRaw using provided callbacks, works well with React
+* [Draft.js exporter (Ruby) ★4](ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML.
+* [Draft.js exporter (Python) ★14](springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML
+* [Draft.js AST Exporter ★19](icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (AST).
+* [Draft.js AST Importer ★3](icelab/draft-js-ast-importer)- Emport an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 * [Draft.js Multidecorators](https://github.com/SamyPesse/draftjs-multidecorators) - Combine multiple decorators.
-* [Draft.js SimpleDecorator ★12](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
+* [Draft.js SimpleDecorator ★12](Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
 * [DraftJS Utils](https://github.com/jpuri/draftjs-utils.git) - Set of utility functions for DraftJS.
 * [DraftJs to HTML](https://github.com/jpuri/draftjs-to-html.git) - Library for generating HTML for DraftJS editor content.
-* [Draft Convert ★114](https://github.com/HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML.
-* [HTML to DraftJS ★18](https://github.com/jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content.
-* [Draft.js Exporter (Go) ★8](https://github.com/ejilay/draftjs) - Export Draft.js content state into HTML.
-* [React Native Draft.js Render ★77](https://github.com/globocom/react-native-draftjs-render) - A React Native render for Draft.js model.
+* [Draft Convert ★128](HubSpot/draft-convert) - Extensibly serialize & deserialize Draft.js ContentState with HTML.
+* [HTML to DraftJS ★20](jpuri/html-to-draftjs) - Convert plain HTML to DraftJS Editor content.
+* [Draft.js Exporter (Go) ★10](ejilay/draftjs) - Export Draft.js content state into HTML.
+* [React Native Draft.js Render ★93](globocom/react-native-draftjs-render) - A React Native render for Draft.js model.
 
 ## Blog Posts & Articles
 
@@ -99,7 +108,7 @@ Ranked awesome lists, all in one place
 
 * [REACTing Codepen Comment Editor - Draft.js](http://codepen.io/rkpasia/full/jqbrpq)
 * [Draft.js Examples - A Heroku app w/ several example Draft.js Editors from different projects](http://draftjs-examples.herokuapp.com/)
-* [Draft-js Samples - An app with examples and code explanations ★8](https://github.com/Mair/react-meetup-draftjs)
+* [Draft-js Samples - An app with examples and code explanations ★11](Mair/react-meetup-draftjs)
 
 ## Playgrounds for Examples from Official Repository (v.0.10.0)
 * [Rich Text Editor](http://codepen.io/Kiwka/pen/YNYvyG)
@@ -123,5 +132,5 @@ Ranked awesome lists, all in one place
 To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/nikgraf/awesome-draft-js">https://github.com/nikgraf/awesome-draft-js</a> with ranks
+	This list is a copy of <a href="nikgraf/awesome-draft-js">nikgraf/awesome-draft-js</a> with ranks
 </p>

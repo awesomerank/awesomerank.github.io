@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/jonathandion/awesome-emails">https://github.com/jonathandion/awesome-emails</a> with ranks
+	This list is a copy of <a href="jonathandion/awesome-emails">jonathandion/awesome-emails</a> with ranks
 </p>
 ---
 <h1 align="center">
@@ -13,7 +13,7 @@ Ranked awesome lists, all in one place
 	<br>
 </h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > A collection of awesome frameworks, templates, tools, workflows and many more to build responsive emails. :fire:
 
@@ -23,23 +23,24 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Frameworks
 
 - [MJML](https://mjml.io) - MJML is a markup language designed to reduce the pain of coding a responsive email. :fire:
-- [Foundation for Emails ★6332](https://github.com/zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
+- [Foundation for Emails ★6370](zurb/foundation-emails) - Quickly create responsive HTML emails that work on any device & client. Even Outlook.
 - [Email Framework](http://emailframe.work/) - The HTML email framework developed to help you build responsive HTML email.
 
 ## Templates
 
-- [Campaign ★601](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
+- [Campaign ★601](bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
-- [Mailchimp Email Blueprints ★6024 ⏳1Y](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
+- [Mailchimp Email Blueprints ★6059 ⏳1Y](mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
-- [Responsive Transactional HTML Email Templates](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
-- [Cerberus ★2125](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
-- [Antwort ★3191](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
-- [Responsive HTML Template ★488](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
+- [Responsive Transactional HTML Email Templates ★5411 ⏳1Y](mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
+- [Cerberus ★2199](TedGoas/Cerberus) - Few responsive email patterns.
+- [Antwort ★3200](internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
+- [Responsive HTML Template ★494](charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service
-- [Grunt Email Boilerplate ★297](https://github.com/dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
+- [Grunt Email Boilerplate ★297](dwightjack/grunt-email-boilerplate) - A Grunt template to create emails.
 - [Responsive Email Patterns](http://responsiveemailpatterns.com/) - A collection of patterns & modules for responsive emails.
-- [](https://github.com/seanpowell/Email-Boilerplate)
+- [Email boilerplate ★3042](seanpowell/Email-Boilerplate) - The email boilerplate for sending out nicely formatted messages.
+- [htmlemail](https://htmlemail.io/) - Responsive HTML email templates for startups & developers.
 
 ## Tools
 - [MJML App](https://mjmlio.github.io/mjml-app/) - MJML official desktop app.
@@ -55,11 +56,13 @@ VML and CSS.
 - [Mailchimp](https://mailchimp.com/) - MailChimp provides email marketing for more than 15 million people globally.
 - [Mailjet](https://mailjet.com/) - all-in-one Email Services Provider that allows businesses to send Marketing, Transaction Email and Email Automation.
 - [Campaign monitor](https://www.campaignmonitor.com/) - Campaign Monitor makes it easy for you to create, send, and optimize your email marketing campaigns.
+- [Sendgrid](https://sendgrid.com/) - Delivering your transactional and marketing email through one reliable platform.
+- [Postal ★6778](atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail.
 
 ## Workflows
 
-- [Lee Munroe's Grunt Email Design ★2619](https://github.com/leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
-- [Darylldoyle Gulp workflow ★144](https://github.com/darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
+- [Lee Munroe's Grunt Email Design ★2639](leemunroe/grunt-email-workflow) - A Grunt workflow for designing and testing responsive HTML email templates with SCSS.
+- [Darylldoyle Gulp workflow ★142](darylldoyle/Gulp-Email-Creator) - Gulp Email Creator is a gulp workflow inspired by Lee Munroe's grunt-email-design workflow.
 - [Html Email Development Workflow](http://www.sitepoint.com/my-current-html-email-development-workflow/) - A Typical Email Development Workflow by Sitepoint.
 
 #### Articles
@@ -80,6 +83,9 @@ VML and CSS.
 - [Spently Blog](https://blog.spently.com/)
 - [Emailmonks Blog](http://www.emailmonks.com/blog/)
 
+## Copy
+- [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
+- [greatemailcopy](http://greatemailcopy.com/) - A dose of well-crafted emails from around the web.
 
 ## Resources
 
@@ -89,7 +95,6 @@ VML and CSS.
 - [Campaign Monitor Resources](https://www.campaignmonitor.com/resources/) - Campaign Monitor resources will turn you into an expert in no time.
 - [Campaign Monitor Dev Resources](https://www.campaignmonitor.com/dev-resources/)
 - [Mailchimp](http://templates.mailchimp.com/) - MailChimp Email Design Reference
-- [Email Copy](http://www.goodemailcopy.com/) - Email copy from great companies.
 
 ## Inspirations
 
@@ -129,5 +134,5 @@ VML and CSS.
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/jonathandion/awesome-emails">https://github.com/jonathandion/awesome-emails</a> with ranks
+	This list is a copy of <a href="jonathandion/awesome-emails">jonathandion/awesome-emails</a> with ranks
 </p>

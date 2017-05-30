@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/guipdutra/awesome-geek-podcasts">https://github.com/guipdutra/awesome-geek-podcasts</a> with ranks
+	This list is a copy of <a href="guipdutra/awesome-geek-podcasts">guipdutra/awesome-geek-podcasts</a> with ranks
 </p>
 ---
 ---
@@ -10,7 +10,7 @@ title: Awesome Geek Podcasts
 permalink: /
 layout: default
 ---
-# Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A curated list of podcasts we like to listen to.
 
@@ -72,6 +72,7 @@ A curated list of podcasts we like to listen to.
 * [Go Time](https://changelog.com/gotime/) - Interesting topics around the Go programming language, building systems, the community, and everything in between.
 * [HardcoreHistory](http://www.dancarlin.com/hardcore-history-series/) - In "Hardcore History" the very unconventional Dan Carlin takes his "Martian", outside-the-box way of thinking and applies it to the past.
 * [Harry Potter and the methods of rationality](http://www.hpmorpodcast.com/) - This is an alternate universe story, where Petunia married a scientist. Harry enters the wizarding world armed with Enlightenment ideals and the experimental spirit.
+* [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
 * [Hello Internet](http://www.hellointernet.fm/) - Science youtubers CGP Grey and Brady Haran discuss everything from flag design to Star Wars.
 * [HTTP 203](https://developers.google.com/web/shows/http203/) -  In each show Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
@@ -79,6 +80,7 @@ A curated list of podcasts we like to listen to.
 * [Linear Digressions](http://www.lineardigressions.com) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws) - About anything that runs on Linux, about open source software on other platforms and many other things.
 * [Listen and Learn about AWS](http://aws.amazon.com/podcasts/aws-podcast/) - Jeff Barr discusses various aspects of the Amazon Web Services (AWS) offering. Each podcast include AWS news, tech tips, and interviews with startups, AWS partners, and AWS employees.
+* [Magic Read Along](http://www.magicreadalong.com) - A podcast about programming, life and the internet. Topics include FP, OOP, development practices, and a dip into our personal lives from time to time.
 * [Makers](https://makers.crew.co/) - Unexpected life moments that have had an impact on today’s most influential and experimental makers.
 * [Mastering Embedded Systems](http://embeddedsuccess.com/podcast/) - I have identified four major problems in mastering Embedded Systems: 1. Not enough specialists; 2. inadequate design and poor detections of faults; 3. mandatory multi-site approaches are failing; 4. bad mistakes in managing Virtual Teams I'll teach you the know-how and the tools to overcome these challenges.
 * [Mind the Cloud Podcast](http://mindthecloud.com) - The podcast about the developers and companies using the cloud to create the future.
@@ -108,6 +110,7 @@ A curated list of podcasts we like to listen to.
 * [ShopTalk Show](http://shoptalkshow.com) - Podcast about front end web design, development and UX.
 * [Software Engineering Daily](http://softwareengineeringdaily.com/) - A podcast with daily interviews about technical software topics intended for professional software developers.
 * [Software Engineering Radio](http://www.se-radio.net/) - The podcast for professional software developers.
+* [Soft Skills Engineering](https://softskills.audio/) - Weekly advice podcast for software developers. It takes more than great code to be a great developer.
 * [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [StarTalk Radio](http://www.startalkradio.net/shows-archive/) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
 * [Start Here FM](http://dain.io/startherefm/) - An informative and up-to-date podcast on creating a business with Web Development.
@@ -249,7 +252,7 @@ A curated list of podcasts we like to listen to.
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
 * [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
 * [AntennaPod](http://antennapod.org) - (Android and Open Source)
-* [Soundwaves](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
+* [Soundwaves ★80](bottiger/SoundWaves) - (Android and Open Source)
 * [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 * [gPodder](http://gpodder.org/) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 
@@ -258,5 +261,5 @@ A curated list of podcasts we like to listen to.
 See [CONTRIBUTING](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/CONTRIBUTING.md) for info on how to contribute to this list.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/guipdutra/awesome-geek-podcasts">https://github.com/guipdutra/awesome-geek-podcasts</a> with ranks
+	This list is a copy of <a href="guipdutra/awesome-geek-podcasts">guipdutra/awesome-geek-podcasts</a> with ranks
 </p>

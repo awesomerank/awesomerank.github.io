@@ -2,18 +2,18 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/AllThingsSmitty/css-protips">https://github.com/AllThingsSmitty/css-protips</a> with ranks
+	This list is a copy of <a href="AllThingsSmitty/css-protips">AllThingsSmitty/css-protips</a> with ranks
 </p>
 ---
 <p align="center">
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon">
 </p>
 
-# CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A collection of tips to help take your CSS skills pro.
 
-> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★57421](https://github.com/sindresorhus/awesome).
+> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★59088](sindresorhus/awesome).
 
 
 ## Table of Contents
@@ -162,7 +162,7 @@ body {
 
 Want to center something else? Vertically, horizontally...anything, anytime, anywhere? CSS-Tricks has [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) on doing all of that.
 
-**Note:** Watch for some [buggy behavior ★6776](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
+**Note:** Watch for some [buggy behavior ★6954](philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
@@ -535,5 +535,5 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 * [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/AllThingsSmitty/css-protips">https://github.com/AllThingsSmitty/css-protips</a> with ranks
+	This list is a copy of <a href="AllThingsSmitty/css-protips">AllThingsSmitty/css-protips</a> with ranks
 </p>

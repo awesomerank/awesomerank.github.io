@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/emacs-tw/awesome-emacs">https://github.com/emacs-tw/awesome-emacs</a> with ranks
+	This list is a copy of <a href="emacs-tw/awesome-emacs">emacs-tw/awesome-emacs</a> with ranks
 </p>
 ---
 * Awesome Emacs
@@ -142,7 +142,7 @@ Most of the following packages are available in [[https://github.com/milkypostma
      - [[http://www.emacswiki.org/emacs/DiredPlus][Dired+]] - Functional & interface extensions for Dired.
      - [[https://github.com/Fuco1/dired-hacks][dired-hacks]] - Collection of useful dired additions.
      - [[https://github.com/syohex/emacs-dired-k][dired-k]] - Highlight dired buffer by file size, modified time, git status.
-   - [[http://www.emacswiki.org/emacs/NeoTree][NeoTree]] - A emacs tree plugin like NERD tree for Vim.
+   - [[https://github.com/jaypei/emacs-neotree][NeoTree]] - A emacs tree plugin like NERD tree for Vim.
    - [[http://www.emacswiki.org/emacs/SrSpeedbar][Sr Speedbar]] - Same frame speedbar.
      - [[https://github.com/anshulverma/projectile-speedbar][projectile-speedbar]] - Speedbar and Projectile integration
    - [[https://github.com/m2ym/direx-el][Direx]] - directory tree explorer
@@ -368,7 +368,7 @@ Most of the following packages are available in [[https://github.com/milkypostma
 
 *** Java
 
-    - [[https://github.com/senny/emacs-eclim][emacs-eclim]] - An Eclipse plugin which exposes Eclipse features through a server interface.
+    - [[https://github.com/emacs-eclim/emacs-eclim][emacs-eclim]] - An Eclipse plugin which exposes Eclipse features through a server interface.
     - [[https://github.com/m0smith/malabar-mode][malabar-mode]] - A better Java mode for Emacs.
     - [[https://github.com/jdee-emacs/jdee][JDEE]] - The JDEE is an add-on software package that turns Emacs into a comprehensive system for creating, editing, debugging, and documenting Java applications.
     - [[https://github.com/mopemope/meghanada-emacs][meghanada-emacs]] - A Better Java Development Environment for Emacs.
@@ -493,10 +493,11 @@ External Guides:
 *** Org-mode
 
     - [[http://orgmode.org/][Org]] - =[built-in]= Write notes, GTD, authoring, publish and wash dishes.
-      - [[https://github.com/kelvinh/org-page][org-page]] - A static site generator based on org-mode files
+      - [[https://github.com/kelvinh/org-page][org-page]] - A static site generator based on org-mode files.
       - [[https://github.com/coldnew/org-ioslide][org-ioslide]] - Export Org document into Google I/O HTML5 slide.
       - [[https://github.com/sabof/org-bullets][org-bullets]] - Shows org-mode bullets as pretty UTF-8 characters.
       - [[https://github.com/org-trello/org-trello][org-trello]] - Minor mode to synchronize org-mode buffer and [[https://trello.com][trello]] board.
+      - [[https://github.com/alphapapa/org-protocol-capture-html][org-protocol-capture-html]] - Capture HTML from the browser selection into Emacs as org-mode content.
 
 ** Version control
 
@@ -511,6 +512,7 @@ External Guides:
    - [[https://github.com/rmuslimov/browse-at-remote][browse-at-remote]] - Open page at github/bitbucket from emacs buffers.
    - [[https://github.com/sshaw/git-link][git-link]] - Get the GitHub/Bitbucket/GitLab etc... URL for a buffer location.
    - [[https://github.com/ananthakumaran/monky][monky]] - An interactive interface for mercurial.
+   - [[https://bitbucket.org/agriggio/ahg/][aHg]] - An Emacs front-end for the Mercurial SCM.
 
 ** Integration
 
@@ -699,6 +701,7 @@ External Guides:
 
    - [[https://github.com/bbatsov/zenburn-emacs][Zenburn]] - /(dark)/ Vim's "Zenburn theme" ported to Emacs.
    - [[https://github.com/bbatsov/solarized-emacs][Solarized]] - /(light/dark)/ Solarized color theme.
+   - [[https://github.com/hlissner/emacs-doom-theme][Doom-themes]] - /(dark)/ Inspired by the One Dark/Light UI and syntax themes in Atom.
    - [[https://github.com/purcell/color-theme-sanityinc-tomorrow][Sanityinc-tomorrow]] - /(light/dark)/ An Emacs version of "Tomorrow-themes".
    - [[https://github.com/oneKelvinSmith/monokai-emacs][Monokai]] - /(dark)/ A port of the popular TextMate theme Monokai
    - [[https://github.com/n3mo/cyberpunk-theme.el][Cyberpunk-theme]] - /(dark)/ *[256color]* Mostly a direct port of the "Cyberpunk Overtone theme".
@@ -821,5 +824,5 @@ A curated list of awesome lists can be found at [[https://awesome.re][awesome.re
 To the extent possible under law, [[https://github.com/emacs-tw][emacs.tw]] has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/emacs-tw/awesome-emacs">https://github.com/emacs-tw/awesome-emacs</a> with ranks
+	This list is a copy of <a href="emacs-tw/awesome-emacs">emacs-tw/awesome-emacs</a> with ranks
 </p>

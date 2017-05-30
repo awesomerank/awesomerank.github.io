@@ -2,14 +2,14 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/feross/awesome-standard">https://github.com/feross/awesome-standard</a> with ranks
+	This list is a copy of <a href="feross/awesome-standard">feross/awesome-standard</a> with ranks
 </p>
 ---
-# Awesome Standard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Standard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
-[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg) ★11361](https://github.com/feross/standard)
+[![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg) ★11789](feross/standard)
 
-Documenting the explosion of packages in the [`standard` ★11361](https://github.com/feross/standard) ecosystem!
+Documenting the explosion of packages in the [`standard` ★11789](feross/standard) ecosystem!
 
 ## standard
 
@@ -33,13 +33,16 @@ Documenting the explosion of packages in the [`standard` ★11361](https://githu
 
 - **[standard-format](https://www.npmjs.com/package/standard-format)** - standard automatic code formatter
 - **["unix commands" gist](https://gist.github.com/watson/453fc63cace521fcdadc)** - A list of search and replace unix commands to help make a node repository 'standard' compliant
-- **[prettier-standard](https://www.npmjs.com/package/prettier-standard)** - format with [prettier ★9204](https://github.com/prettier/prettier) configured to standard rules
+- **[prettier-standard](https://www.npmjs.com/package/prettier-standard)** - format with [prettier ★10186](prettier/prettier) configured to standard rules
 
 ## editor snippets
- - Sublime: **[sublime-js-snippets ★406](https://github.com/jprichardson/sublime-js-snippets)**
+ - Sublime: **[sublime-js-snippets ★408](jprichardson/sublime-js-snippets)**
  - Atom: **[standardjs-snippets](https://atom.io/packages/standardjs-snippets)**
- - Visual Studio Code: **[vscode-react-standard ★10](https://github.com/TimonVS/vscode-react-standard)**
- 
+ - Visual Studio Code: **[vscode-react-standard ★10](TimonVS/vscode-react-standard)**
+
+## editor plugins
+ - Atom: **[linter-js-standard-engine](https://atom.io/packages/linter-js-standard-engine)** - Linter plugin supporting standard and all standard-engine based linters
+
 ## pretty terminal output (reporters)
 
 - **[snazzy](https://www.npmjs.com/package/snazzy)** - Format JavaScript Standard Style as Stylish (i.e. snazzy) output
@@ -63,7 +66,7 @@ Documenting the explosion of packages in the [`standard` ★11361](https://githu
 
 - **[semistandard](https://www.npmjs.com/package/semistandard)** - standard, with semicolons
 - **[uber-standard](https://www.npmjs.com/package/uber-standard)** - fork by the [Uber](https://www.uber.com/) team
-- **[videojs-standard](https://www.npmjs.com/package/videojs-standard)** - fork by the [video.js ★16023](https://github.com/videojs/video.js) team
+- **[videojs-standard](https://www.npmjs.com/package/videojs-standard)** - fork by the [video.js ★16404](videojs/video.js) team
 - **[yodlr-standard](https://www.npmjs.com/package/yodlr-standard)** - fork by the [yodlr](https://getyodlr.com/home) team
 - **[happiness](https://www.npmjs.com/package/happiness)** - standard customized to make @JedWatson happy
 - **[doublestandard](https://www.npmjs.com/package/doublestandard)** - standard, with even more semicolons
@@ -83,5 +86,5 @@ PRs welcome!
 To the extent possible under law, [Feross Aboukhadijeh](http://feross.org) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/feross/awesome-standard">https://github.com/feross/awesome-standard</a> with ranks
+	This list is a copy of <a href="feross/awesome-standard">feross/awesome-standard</a> with ranks
 </p>

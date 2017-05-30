@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/nicolesaidy/awesome-web-design">https://github.com/nicolesaidy/awesome-web-design</a> with ranks
+	This list is a copy of <a href="nicolesaidy/awesome-web-design">nicolesaidy/awesome-web-design</a> with ranks
 </p>
 ---
-# Awesome Web Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Web Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 > A curated list of awesome resources for digital designers.
 
 **Check out my [website](http://nicolesaidy.com) & follow me on [Medium](http://medium.com/@nicolesaidy). ✨**
@@ -26,6 +26,7 @@ Ranked awesome lists, all in one place
 
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
+* [Marvel Blog](http://blog.marvelapp.com): The latest news, resources and thoughts from the Marvel team.
 * [The Next Web](http://thenextweb.com/section/creative/): International technology news, business & culture.
 * [Medium]( https://medium.com/tag/web-design): A community of readers and writers offering unique perspectives on ideas large and small.
 * [Creative Bloq](http://www.creativebloq.com/): Art & design inspiration.
@@ -36,12 +37,13 @@ Ranked awesome lists, all in one place
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.
+* [One Page Love](http://onepagelove.com):  Design gallery showcasing the best Single Page websites.
 * [Inspired UI](http://inspired-ui.com/): Mobile apps design patterns.
 * [Behance](http://behance.net): Showcase & discover creative work.
 * [Dribbble](http://dribbble.com): Show and tell for designers.
 * [Product Hunt](http://producthunt.com): The place to discover your next favorite thing.
 * [UI Movement](https://uimovement.com): The best UI design inspiration, every day.
-* [UI Patterns](http://ui-patterns.com/): Recurring solutions that solve common design problems.
+* [Pttrns](http://pttrns.com/): The finest collection of design patterns, resources and inspiration.
 
 ## Colors
 * [Brandcolors](https://brandcolors.net/): Official colors for the world's biggest brands.
@@ -124,6 +126,7 @@ Ranked awesome lists, all in one place
 * [Inbox by Google](http://inbox.google.com): The email tool that makes your life more efficient.
 * [Trello](http://trello.com): Organize and prioritize your projects in a fun, flexible and rewarding way.
 * [RescueTime](https://www.rescuetime.com): Helps you understand your daily habits so you can focus and be more productive.
+* [Qbserve](https://qotoqot.com/qbserve/): Automatic time tracking, invoicing, and real-time productivity feedback.
 * [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 * [Sip](http://sipapp.io/): A color picker for Mac.
 
@@ -135,5 +138,5 @@ Ranked awesome lists, all in one place
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/nicolesaidy/awesome-web-design">https://github.com/nicolesaidy/awesome-web-design</a> with ranks
+	This list is a copy of <a href="nicolesaidy/awesome-web-design">nicolesaidy/awesome-web-design</a> with ranks
 </p>

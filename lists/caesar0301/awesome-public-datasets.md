@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/caesar0301/awesome-public-datasets">https://github.com/caesar0301/awesome-public-datasets</a> with ranks
+	This list is a copy of <a href="caesar0301/awesome-public-datasets">caesar0301/awesome-public-datasets</a> with ranks
 </p>
 ---
 Awesome Public Datasets
@@ -609,5 +609,5 @@ Complementary Collections
 * StaTrek: `Leveraging open data to understand urban lives <http://xiaming.me/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/>`_
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/caesar0301/awesome-public-datasets">https://github.com/caesar0301/awesome-public-datasets</a> with ranks
+	This list is a copy of <a href="caesar0301/awesome-public-datasets">caesar0301/awesome-public-datasets</a> with ranks
 </p>

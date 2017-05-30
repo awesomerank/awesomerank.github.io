@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/rossant/awesome-math">https://github.com/rossant/awesome-math</a> with ranks
+	This list is a copy of <a href="rossant/awesome-math">rossant/awesome-math</a> with ranks
 </p>
 ---
-# Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 A curated list of awesome mathematics resources.
 
@@ -17,6 +17,7 @@ A curated list of awesome mathematics resources.
     * [Questions and Answers](#questions-and-answers)
     * [Encyclopedia](#encyclopedia)
     * [Books](#books)
+    * [Blogs](#blogs)
     * [Misc](#misc)
 * [Lecture Notes](#lecture-notes)
     * [Foundations of Mathematics](#foundations-of-mathematics)
@@ -85,9 +86,14 @@ A curated list of awesome mathematics resources.
 
 ## Books
 
+* [Calculus: Basic Concepts for High Schools](https://archive.org/details/TarasovCalculus) - L.V. Tarasov
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+
+## Blogs
+
+* [BetterExplained](https://betterexplained.com/) - A blog maintained by Kalid Azad
 
 ## Misc
 
@@ -108,9 +114,9 @@ A curated list of awesome mathematics resources.
 ### Logic
 
 * [Introduction to Logic](http://logic.stanford.edu/intrologic/secondary/index.html) - Michael Genesereth, Eric Kao (Stanford University)
-* [An Introduction to Formal Logic](https://textbookequity.org/oct/Textbooks/Magnus_forallx.pdf) - P.D. Magnus (University at Albany)
+* [An Introduction to Formal Logic](https://www.fecundity.com/codex/forallx.pdf) - P.D. Magnus (University at Albany)
 * [A Problem Course in Mathematical Logic](http://euclid.trentu.ca/math/sb/pcml/pcml-16.pdf) - Stefan Bilaniuk (Trent University)
-* [Language, Proof, and Logic](http://ssdi.di.fct.unl.pt/~pb/cadeiras/lc/0102/lpl%20textbook.pdf) - Jon Barwise, John Etchemendy
+* [Language, Proof, and Logic](http://homepages.uc.edu/~martinj/Symbolic_Logic/341%20Syllabus,%20Textbook,%20Handouts,%20Notes/LPL%20textbook.pdf) - Jon Barwise, John Etchemendy
 * [Mathematical Logic](http://www.mathematik.uni-muenchen.de/~schwicht/lectures/logic/ws03/ml.pdf) - Helmut Schwichtenberg
 * [Mathematical Logic](http://www.personal.psu.edu/t20/notes/logic.pdf) - Stephen G. Simpson (Pennsylvania State University)
 * [Formal Logic](http://maude.sip.ucm.es/~miguelpt/papers/flogic.pdf) - Miguel Palomino
@@ -163,18 +169,18 @@ A curated list of awesome mathematics resources.
 
 ### Group Theory
 
-* [Notes on Group Theory](https://www2.bc.edu/~reederma/Groups.pdf) - Mark Reeder
+* [Notes on Group Theory](https://www2.bc.edu/mark-reeder/Groups.pdf) - Mark Reeder
 * [Group Theory](http://www.jmilne.org/math/CourseNotes/GT.pdf) - J.S. Milne
 * [Notes on Finite Group Theory](http://www.maths.qmul.ac.uk/~pjc/notes/gt.pdf) - Peter J. Cameron
 
 ### Linear Algebra
 
 * [Fundamentals of Linear Algebra](http://www.math.ubc.ca/~carrell/NB.pdf) - James B. Carrell
-* [Linear Algebra and Matrices](http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
+* [Linear Algebra and Matrices](https://web.archive.org/web/20140824074655/http://mathstat.helsinki.fi/~fluch/linear_algebra_1-sp07/la1.pdf) - Martin Fluch
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * [Linear Algebra](http://www.mathematik.uni-muenchen.de/~renesse/AP09/hefferon.pdf) - Jim Hefferon
 * [Linear Algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
-* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ★63 ⏳2Y](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ★68 ⏳2Y](juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ### Ring Theory
 
@@ -251,9 +257,8 @@ A curated list of awesome mathematics resources.
 * [Elementary Real Analysis](http://prac.im.pwr.wroc.pl/~kwasnicki/pl/stuff/tbb-hyper.pdf) - Thomson, Bruckner
 * [Lecture Notes in Real Analysis](http://ms.mcmaster.ca/~sawyer/Publications/Real_Analysis.pdf) - Eric T. Sawyer (McMaster University)
 * [Real Analysis](http://math.harvard.edu/~ctm/papers/home/text/class/harvard/212a/course/course.pdf) - C. McMullen
-* [From Calculus to Analysis](http://www.wright.edu/~steen.pedersen/teaching/Calculus2Analysis.pdf) - Steen Pedersen
-* [Real Analysis for Graduate Students](http://homepages.uconn.edu/~rib02005/rags010213.pdf) - Richard F. Bass
-* [Modern Real Analysis](http://www.indiana.edu/~mathwz/PRbook.pdf) - William P. Ziemer (Indiana University)
+* [Real Analysis for Graduate Students](http://bass.math.uconn.edu/3rd.pdf) - Richard F. Bass
+* [Modern Real Analysis](http://www.math.purdue.edu/~torres/pubs/Modern-real-analysis.pdf) - William P. Ziemer (Indiana University)
 
 ### Harmonic Analysis
 
@@ -272,7 +277,7 @@ A curated list of awesome mathematics resources.
 * [Complex Analysis](http://www.math.ku.dk/noter/filer/koman-12.pdf) - Christian Berg
 * [Complex Variables](http://people.math.sc.edu/girardi/m7034/book/AshComplexVariablesWithHyperlinks.pdf) - R. B. Ash, W.P. Novinger
 * [Complex Analysis](http://www.maths.lth.se/matematiklu/personal/olofsson/CompHT06.pdf) - Christer Bennewitz
-* [Complex Analysis](https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
+* [Complex Analysis](https://web.archive.org/web/20150620124453/https://www.math.washington.edu/~marshall/math_536/Notes.pdf) - Donald E. Marshall
 * [A Concise Course in Complex Analysis and Riemann Surfaces](http://www.math.uchicago.edu/~schlag/bookweb.pdf) - Wilhelm Schlag
 
 ### Functional Analysis
@@ -359,5 +364,5 @@ A curated list of awesome mathematics resources.
 To the extent possible under law, [Cyrille Rossant](http://cyrille.rossant.net) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/rossant/awesome-math">https://github.com/rossant/awesome-math</a> with ranks
+	This list is a copy of <a href="rossant/awesome-math">rossant/awesome-math</a> with ranks
 </p>

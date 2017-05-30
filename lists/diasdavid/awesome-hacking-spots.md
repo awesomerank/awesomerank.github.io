@@ -2,13 +2,13 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/diasdavid/awesome-hacking-spots">https://github.com/diasdavid/awesome-hacking-spots</a> with ranks
+	This list is a copy of <a href="diasdavid/awesome-hacking-spots">diasdavid/awesome-hacking-spots</a> with ranks
 </p>
 ---
-Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 ===============================
 
-> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★57421](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★59088](sindresorhus/awesome) thing.
 
 ## Index
 
@@ -60,6 +60,8 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
   - [Lisbon](#lisbon)
   - [Porto](#porto)
   - [Viana do Castelo](#viana-do-castelo)
+- [Singapore 🇸🇬](#singapore-)
+  - [Outram Park](#outram-park)  
 - [Spain 🇪🇸](#spain-)
   - [Barcelona](#barcelona)
   - [Oviedo](#oviedo)
@@ -877,6 +879,20 @@ Wifi | Power | Address | Open Hours
 ---------------------------------------------------------------
 ---------------------------------------------------------------
 
+# Singapore 🇸🇬
+
+## Outram Park
+
+#### Just Want Coffee
+
+> Not so much noisy and crowded. It is located nearby MRT station. Coffee and cakes are also good.
+
+Webpage: https://www.facebook.com/JWCEverton/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Blk 1 Everton Park, #01-27, Singapore 081001](https://goo.gl/maps/wFxgBRghZuC2) | Mon - Fri 8:30AM–6PM, Sat - Sun 10AM–6PM
+
 # Spain 🇪🇸
 
 ## Barcelona
@@ -1253,5 +1269,5 @@ Wifi | Power | Address | Open Hours
 ask | ✔ |  [6900 East Green Lake Way N, Seattle, WA 98115](https://goo.gl/maps/hgjYxwLr8sS2) | Mon-Fri 6:00-21:00, Sat 7:00-21:00, Sun 7:00-20:00
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/diasdavid/awesome-hacking-spots">https://github.com/diasdavid/awesome-hacking-spots</a> with ranks
+	This list is a copy of <a href="diasdavid/awesome-hacking-spots">diasdavid/awesome-hacking-spots</a> with ranks
 </p>

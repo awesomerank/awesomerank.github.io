@@ -2,13 +2,13 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/cyberglot/awesome-answers">https://github.com/cyberglot/awesome-answers</a> with ranks
+	This list is a copy of <a href="cyberglot/awesome-answers">cyberglot/awesome-answers</a> with ranks
 </p>
 ---
-Awesome Answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+Awesome Answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 ===
 
-Curated list of inspiring and thoughtful answers given at stackoverflow, quora, etc.
+Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.
 
 TOC
 ---
@@ -173,6 +173,7 @@ Miscellaneous
 - [Why is processing a sorted array faster than an unsorted array?](http://stackoverflow.com/a/11227902)
 - [What are the current fads in computer science, IT and software engineering?](http://qr.ae/7PyLkC)
 - [What is your most productive shortcut with Vim?](http://stackoverflow.com/a/1220118)
+- [How to become a Hacker?](http://www.catb.org/~esr/faqs/hacker-howto.html)
 
 ## License
 
@@ -181,5 +182,5 @@ Miscellaneous
 To the extent possible under law, [Ju Gonçalves](http://jugoncalv.es) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/cyberglot/awesome-answers">https://github.com/cyberglot/awesome-answers</a> with ranks
+	This list is a copy of <a href="cyberglot/awesome-answers">cyberglot/awesome-answers</a> with ranks
 </p>

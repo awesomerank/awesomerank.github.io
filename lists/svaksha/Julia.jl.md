@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/svaksha/Julia.jl">https://github.com/svaksha/Julia.jl</a> with ranks
+	This list is a copy of <a href="svaksha/Julia.jl">svaksha/Julia.jl</a> with ranks
 </p>
 ---
 # Julia.jl
@@ -20,9 +20,9 @@ Ranked awesome lists, all in one place
 ----
 
 # INDEX
-For Base packages, check if the package you seek is listed in the [built-in package manager ★147](https://github.com/JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions and dont forget the Easter eggs!
+For Base packages, check if the package you seek is listed in the [built-in package manager ★150](JuliaLang/METADATA.jl) on github, or check METADATA for [registered Julia packages](http://pkg.julialang.org/), then use the built-in package manager to install it after checking the requirements for respective versions and dont forget the Easter eggs!
 
-To create a package, check out the [Julia Package Development Kit](https://github.com/JuliaLang/PkgDev.jl) and here is a [sample Julia package ★14](https://github.com/JuliaLang/Example.jl) model. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse). Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
+To create a package, check out the [Julia Package Development Kit](https://github.com/JuliaLang/PkgDev.jl) and here is a [sample Julia package ★15](JuliaLang/Example.jl) model. The latest interesting package statistics are available at the [Julia Package Ecosystem Pulse](http://pkg.julialang.org/pulse.html) webpage which mirrors the current core development on [github](https://github.com/JuliaLang/julia/pulse). Abandoned packages that no longer have a maintainer or no longer fit into the Julia oraganization that initially hosted the package are listed in the [Julia Archive](https://github.com/JuliaArchive) organisation.
 
 
 + [AI.md](https://github.com/svaksha/Julia.jl/blob/master/AI.md) :: Algorithms, DataMining, Data Structures, HMM, ML, NLP, ...
@@ -94,5 +94,5 @@ On a scale of 1 to 5 (1=lowest,..5=highest), please rank your package for,
 5. For those unable to use git, create a github account, then fork the `Julia.jl` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/svaksha/Julia.jl">https://github.com/svaksha/Julia.jl</a> with ranks
+	This list is a copy of <a href="svaksha/Julia.jl">svaksha/Julia.jl</a> with ranks
 </p>

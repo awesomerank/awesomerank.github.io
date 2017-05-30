@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/vhpoet/awesome-ripple">https://github.com/vhpoet/awesome-ripple</a> with ranks
+	This list is a copy of <a href="vhpoet/awesome-ripple">vhpoet/awesome-ripple</a> with ranks
 </p>
 ---
-# Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > A curated list of Ripple resources.
 
@@ -56,40 +56,40 @@ Pull requests are more then welcome.
 
 #### Code
 ###### Rippled - The Guy!
-- [rippled ★1284](https://github.com/ripple/rippled): Ripple peer-to-peer network daemon
+- [rippled ★1349](ripple/rippled): Ripple peer-to-peer network daemon
 
 ###### Libs - Libraries for talking to the Ripple API
-- [ripple-rest ★62 ⏳1Y](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
-- [ripple-lib ★434](https://github.com/ripple/ripple-lib): Java Script
-- [ripple-lib-java ★61](https://github.com/ripple/ripple-lib-java): Java
-- [ripple-lib-ruby ★4 ⏳3Y](https://github.com/kevinejohn/ripple-lib-rpc-ruby): Ruby
-- [ripple-python ★16](https://github.com/miracle2k/ripple-python): Python Lib
-- [ripple-haskell ★1 ⏳1Y](https://github.com/singpolyma/ripple-haskell): Haskell
-- [rubblelabs/ripple ★22](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
+- [ripple-rest ★61 ⏳1Y](ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
+- [ripple-lib ★443](ripple/ripple-lib): Java Script
+- [ripple-lib-java ★67](ripple/ripple-lib-java): Java
+- [ripple-lib-ruby ★4 ⏳3Y](kevinejohn/ripple-lib-rpc-ruby): Ruby
+- [ripple-python ★17](miracle2k/ripple-python): Python Lib
+- [ripple-haskell ★1 ⏳1Y](singpolyma/ripple-haskell): Haskell
+- [rubblelabs/ripple ★23](rubblelabs/ripple): Go packages to interact with the Ripple protocol
 
 ###### Clients / Apps
-- [ripple-client ★1239](https://github.com/ripple/ripple-client): Web client
-- [ripple-client-desktop ★36](https://github.com/ripple/ripple-client-desktop): Desktop client
-- [ripple-client-ios ★29 ⏳2Y](https://github.com/ripple-unmaintained/ripple-client-ios): iOS client
+- [ripple-client ★1257](ripple/ripple-client): Web client
+- [ripple-client-desktop ★47](ripple/ripple-client-desktop): Desktop client
+- [ripple-client-ios ★29 ⏳3Y](ripple-unmaintained/ripple-client-ios): iOS client
 - [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
-- [ripple-graph ★21 ⏳2Y](https://github.com/ripple-unmaintained/ripple-graph): Ripple graph
+- [ripple-graph ★21 ⏳2Y](ripple-unmaintained/ripple-graph): Ripple graph
 - [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
 - [Snow](https://github.com/justcoin/snow): Digital currency exchange engine written in node.js.
 
 ###### Other
 - [gatewayd](https://github.com/ripple/gatewayd): Ripple gateway software automation framework
-- [ripple-blobvault ★32 ⏳1Y](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
-- [ripple-authd ★6 ⏳1Y](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
-- [rippled-historical-database ★23](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
-- [ripple-data-api ★40 ⏳1Y](https://github.com/ripple/ripple-data-api)
+- [ripple-blobvault ★32 ⏳1Y](ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
+- [ripple-authd ★6 ⏳2Y](ripple/ripple-authd): Ripple peer-assisted key derivation server
+- [rippled-historical-database ★25](ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
+- [ripple-data-api ★40 ⏳1Y](ripple/ripple-data-api)
 - [ripple-vault-client](ripple-vault-client)
-- [federation-php ★9 ⏳3Y](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
-- [federation-python ★2 ⏳2Y](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
-- [Ripple Rails ★3 ⏳4Y](https://github.com/singpolyma/ripple-rails)
-- [Ripple Gen ★17 ⏳4Y](https://github.com/CodeShark/RippleGen)
-- [Ripple Checkout ★6 ⏳3Y](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
+- [federation-php ★9 ⏳3Y](ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
+- [federation-python ★2 ⏳2Y](miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
+- [Ripple Rails ★3 ⏳4Y](singpolyma/ripple-rails)
+- [Ripple Gen ★18 ⏳4Y](CodeShark/RippleGen)
+- [Ripple Checkout ★6 ⏳3Y](emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 - [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
-- [rubblelabs/tx ★10 ⏳2Y](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+- [rubblelabs/tx ★10 ⏳2Y](rubblelabs/tx): Tool for executing transactions on the Ripple network
 
 #### Hosted Tools
 ###### Clients
@@ -100,7 +100,7 @@ Pull requests are more then welcome.
 - [Ripple API Tool](https://ripple.com/build/websocket-tool/)
 - [Ripple Info Tool](https://ripple.com/build/ripple-info-tool/)
 - [Ripple.txt checker](https://ripple.com/tools/txt/)
-- [jRippleAPI ★16 ⏳2Y](https://github.com/pmarches/jStellarAPI)
+- [jRippleAPI ★15 ⏳2Y](pmarches/jStellarAPI)
 - [Rippleserver Google Group](https://groups.google.com/forum/#!forum/ripple-server/)
 
 ###### Trader tools / charts
@@ -112,10 +112,10 @@ Pull requests are more then welcome.
 - [Ripple Live (GateHub)](https://gatehub.net/live)
 
 ###### Other tools
-- [Ripple Helpers ★5 ⏳3Y](https://github.com/vhpoet/ripple-helpers)
+- [Ripple Helpers ★5 ⏳3Y](vhpoet/ripple-helpers)
 - [XRPTools](http://xrptools.com/)
 - [XRPValue](http://xrpvalue.com/): Real time XRP price.
-- [RippleGen ★17 ⏳4Y](https://github.com/CodeShark/RippleGen): A simple multithreaded vanity generator for the ripple p2p network.
+- [RippleGen ★18 ⏳4Y](CodeShark/RippleGen): A simple multithreaded vanity generator for the ripple p2p network.
 - [Dollero](http://dollero.com/): Global remittance payments software
 
 #### Other
@@ -140,5 +140,5 @@ Pull requests are more then welcome.
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/vhpoet/awesome-ripple">https://github.com/vhpoet/awesome-ripple</a> with ranks
+	This list is a copy of <a href="vhpoet/awesome-ripple">vhpoet/awesome-ripple</a> with ranks
 </p>

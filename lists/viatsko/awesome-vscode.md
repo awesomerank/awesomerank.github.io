@@ -2,12 +2,20 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/viatsko/awesome-vscode">https://github.com/viatsko/awesome-vscode</a> with ranks
+	This list is a copy of <a href="viatsko/awesome-vscode">viatsko/awesome-vscode</a> with ranks
 </p>
 ---
-# Awesome VS Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+<br/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/logo.ico">
+</p>
+<br/>
 
-A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome ★57421](https://github.com/sindresorhus/awesome).
+# Awesome VS Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+
+A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome ★59088](sindresorhus/awesome).
+
+[![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
 
 # Table of Content
 
@@ -41,6 +49,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [Path IntelliSense](#path-intellisense)
  - [Project Manager](#project-manager)
  - [REST Client](#rest-client)
+ - [Settings Sync](#settings-sync)
  - [Yo](#yo)
 - [Formatting/Beautification](#formatting-beautification)
  - [Align](#align)
@@ -58,6 +67,8 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
  - [Editor Config for VS Code](#editor-config-for-vs-code)
  - [ftp-sync](#ftp-sync)
+ - [PlatformIO](#platformio)
+ - [Quokka](#quokka)
  - [Runner](#runner)
  - [Slack](#slack)
  - [SVG Viewer](#svg-viewer)
@@ -72,9 +83,9 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 ## Official
 
 - [Official website](https://code.visualstudio.com/)
-- [Source code ★26871](https://github.com/microsoft/vscode) on GitHub
-- [Releases (stable channel)](http://code.visualstudio.com/download)
-- [Releases (insiders channel)](http://code.visualstudio.com/insiders)
+- [Source code ★28367](microsoft/vscode) on GitHub
+- [Releases (stable channel)](https://code.visualstudio.com/download)
+- [Releases (insiders channel)](https://code.visualstudio.com/insiders)
 - [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
 
 ## Syntax
@@ -100,7 +111,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Protobuf](https://marketplace.visualstudio.com/items?itemName=peterj.proto)
 - [Ruby](https://marketplace.visualstudio.com/items?itemName=groksrc.ruby)
 - [Scala](https://marketplace.visualstudio.com/items?itemName=itryapitsin.Scala)
-- [Stylus](https://marketplace.visualstudio.com/items?itemName=buzinas.stylus)
+- [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
 
@@ -113,9 +124,10 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### C++
 
-- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
+- [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
+- [C/C++ Clang Command Adapter ★53](mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 
 ### CSS
 
@@ -135,12 +147,13 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### JavaScript
 
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](http://eslint.org/).
-- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2525](https://github.com/sindresorhus/xo).
-- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA](https://github.com/sindresorhus/ava).
+- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2621](sindresorhus/xo).
+- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★10262](avajs/ava).
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier ★188](esbenp/prettier-vscode).
 
 ### Markdown
 
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint ★164](https://github.com/DavidAnson/markdownlint).
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint ★176](DavidAnson/markdownlint).
 
 ### PHP
 
@@ -163,8 +176,8 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence ★20](https://github.com/flagello/Essence)
-- [Pragmatic Essence ★41](https://github.com/orta/Essence) 
+- [Essence ★32](flagello/Essence)
+- [Pragmatic Essence ★40](orta/Essence)
 
 ### Syntax
 
@@ -182,7 +195,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 #### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
 
-![](https://raw.github.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
+![](https://raw.githubusercontent.com/andischerer/vscode-theme-atom-one-dark/master/theme.png)
 
 #### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
@@ -200,9 +213,9 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 > Mark lines and jump to them
 
-![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-commands.png)
+![](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-commands.png)
 
-![](https://github.com/alefragnani/vscode-bookmarks/raw/master/images/bookmarks-toggle.png)
+![](https://raw.githubusercontent.com/alefragnani/vscode-bookmarks/master/images/bookmarks-toggle.png)
 
 ### [Copy Relative Path](https://marketplace.visualstudio.com/items?itemName=alexdima.copy-relative-path)
 
@@ -211,7 +224,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 #### [Gi](https://marketplace.visualstudio.com/items?itemName=rubbersheep.gi)
 > Generating .gitignore files made easy.
 
-![](https://github.com/hasit/vscode-gi/raw/master/assets/gi.gif)
+![](https://raw.githubusercontent.com/hasit/vscode-gi/master/assets/gi.gif)
 
 ### [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
@@ -261,6 +274,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ![](https://raw.githubusercontent.com/Huachao/vscode-restclient/master/images/usage.gif)
 
+### [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+
+> Synchronize settings, snippets, themes, file icons, launch, keybindings, workspaces and extensions across multiple machines using Github Gist
+
+![Settings Sync](http://i.imgur.com/QZtaBca.gif)
+
 ### [Yo](https://marketplace.visualstudio.com/items?itemName=samverschueren.yo)
 
 > Scaffold projects using [Yeoman](http://yeoman.io/)
@@ -307,7 +326,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 > Sorts lines of text in specific order
 
-![](https://github.com/Tyriar/vscode-sort-lines/raw/master/images/usage-animation.gif)
+![](https://raw.githubusercontent.com/Tyriar/vscode-sort-lines/master/images/usage-animation.gif)
 
 ## Uncategorized
 
@@ -333,7 +352,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 > A VS Code extension to debug your JavaScript code in the Chrome browser, or other targets that support the Chrome Debugging Protocol.
 
-![](https://github.com/Microsoft/vscode-chrome-debug/raw/master/images/screenshot.png)
+![](https://raw.githubusercontent.com/Microsoft/vscode-chrome-debug/master/images/screenshot.png)
 
 ### [Editor Config for VS Code](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig)
 
@@ -344,6 +363,18 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 > Auto-sync your work to remote FTP server
 
 ![](http://i.imgur.com/W9h4pwW.gif)
+
+### [PlatformIO](https://marketplace.visualstudio.com/items?itemName=formulahendry.platformio)
+
+> An open source ecosystem for IoT development: supports 350+ embedded boards, 20+ development platforms, 10+ frameworks. Arduino and ARM mbed compatible.
+
+![](https://raw.githubusercontent.com/formulahendry/vscode-platformio/master/images/build.gif)
+
+### [Quokka](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+
+> Rapid prototyping playground for JavaScript and TypeScript in VS Code, with access to your project's files, inline reporting, code coverage and rich output formatting.
+
+![](https://quokkajs.com/assets/img/vsc1.gif)
 
 ### [Runner](https://marketplace.visualstudio.com/items?itemName=mattn.Runner)
 
@@ -367,8 +398,6 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 > Relatively new, but promising extension implementing Vim features in VSCode. Authors suggest to join their [Slack channel](https://vscodevim-slackin.azurewebsites.net/) for feature requests on your favorite Vim features
 
-![](https://github.com/VSCodeVim/Vim/raw/master/images/screen.png)
-
 ## Resources for extension developers
 
 ### Documentation
@@ -377,14 +406,14 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ### Libraries
 
-- [vscode-set-text](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
-- [vscode-test-content ★1](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
+- [vscode-set-text ★0 ⏳1Y](samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
+- [vscode-test-content ★1](mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 
 ### Tools
 
-- [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/tools/yocode) tool
-- [Yo Code - Extension Generator](https://code.visualstudio.com/docs/tools/yocode)
-- [Open in Code ★33](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+- [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
+- [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
+- [Open in Code ★44](sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 ![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
 ## Contribute
@@ -394,10 +423,10 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/via
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Valerii Iatsko](http://codingbox.io) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/viatsko/awesome-vscode">https://github.com/viatsko/awesome-vscode</a> with ranks
+	This list is a copy of <a href="viatsko/awesome-vscode">viatsko/awesome-vscode</a> with ranks
 </p>

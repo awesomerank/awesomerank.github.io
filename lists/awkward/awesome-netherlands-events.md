@@ -2,17 +2,17 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/awkward/awesome-netherlands-events">https://github.com/awkward/awesome-netherlands-events</a> with ranks
+	This list is a copy of <a href="awkward/awesome-netherlands-events">awkward/awesome-netherlands-events</a> with ranks
 </p>
 ---
-# Awesome Events in NL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Events in NL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > A curated list of Awesome Events in 🇳🇱
 
 This list contains awesome (tech related) events happening (and are mostly recurring) in The Netherlands like: conferences, meetups and parties 🎉 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
-- [What is an awesome list? ★57421](https://github.com/sindresorhus/awesome)
+- [What is an awesome list? ★59088](sindresorhus/awesome)
 - [Contribution guide](https://github.com/awkward/awesome-netherlands-events/blob/master/contributing.md)
 
 ---
@@ -60,5 +60,5 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/awkward/awesome-netherlands-events">https://github.com/awkward/awesome-netherlands-events</a> with ranks
+	This list is a copy of <a href="awkward/awesome-netherlands-events">awkward/awesome-netherlands-events</a> with ranks
 </p>

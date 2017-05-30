@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/dahlia/awesome-sqlalchemy">https://github.com/dahlia/awesome-sqlalchemy</a> with ranks
+	This list is a copy of <a href="dahlia/awesome-sqlalchemy">dahlia/awesome-sqlalchemy</a> with ranks
 </p>
 ---
 Awesome SQLAlchemy
@@ -454,7 +454,7 @@ zope.sqlalchemy_
 .. _Flask: http://flask.pocoo.org/
 .. _Flask-SQLAlchemy: https://pythonhosted.org/Flask-SQLAlchemy/
 .. _Flask-Admin: https://github.com/flask-admin/flask-admin
-.. _Pyramid: http://www.pylonsproject.org/
+.. _Pyramid: http://pylonsproject.org/
 .. _pyramid_restler: https://github.com/wylee/pyramid_restler
 .. _pyramid_sacrud: https://pyramid-sacrud.readthedocs.org/
 .. _pyramid_sqlalchemy: https://pyramid-sqlalchemy.readthedocs.org
@@ -485,5 +485,5 @@ sqlalchemy_mixins_
 .. _sqlalchemy_mixins: https://github.com/absent1706/sqlalchemy-mixins
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/dahlia/awesome-sqlalchemy">https://github.com/dahlia/awesome-sqlalchemy</a> with ranks
+	This list is a copy of <a href="dahlia/awesome-sqlalchemy">dahlia/awesome-sqlalchemy</a> with ranks
 </p>

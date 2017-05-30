@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/kilimchoi/engineering-blogs">https://github.com/kilimchoi/engineering-blogs</a> with ranks
+	This list is a copy of <a href="kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
 </p>
 ---
-# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
@@ -179,7 +179,7 @@ Ranked awesome lists, all in one place
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
-* Heroku https://engineering.heroku.com/
+* Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
 * Holiday Extras http://hungrygeek.holidayextras.co.uk/
 * HomeAway https://tech.homeaway.com/
@@ -351,7 +351,7 @@ Ranked awesome lists, all in one place
 * Stack Overflow https://stackoverflow.blog/engineering/
 * Stitch Fix http://multithreaded.stitchfix.com/blog/
 * Stormpath https://stormpath.com/blog/
-* Strava http://labs.strava.com/blog/
+* Strava https://medium.com/strava-engineering/
 * Stride NYC http://blog.stridenyc.com/
 * Stripe https://stripe.com/blog
 * SurveyMonkey https://engineering.surveymonkey.com/
@@ -772,5 +772,5 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/kil
 Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/kilimchoi/engineering-blogs">https://github.com/kilimchoi/engineering-blogs</a> with ranks
+	This list is a copy of <a href="kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
 </p>

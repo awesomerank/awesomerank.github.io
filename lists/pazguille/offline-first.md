@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/pazguille/offline-first">https://github.com/pazguille/offline-first</a> with ranks
+	This list is a copy of <a href="pazguille/offline-first">pazguille/offline-first</a> with ranks
 </p>
 ---
-# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
+# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
 
 > Useful resources for creating Offline-First web apps
 
@@ -13,7 +13,7 @@ Ranked awesome lists, all in one place
 
 > via https://www.html5rocks.com/en/features/offline
 
-Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 ## Table of Contents
 - [W3C Specification](#w3c-specification)
@@ -787,27 +787,27 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
 
 ## Tools
 
-[offline-plugin ★1836](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
+[offline-plugin ★1946](NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
 
-[Pinterest Service Workers ★769](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
+[Pinterest Service Workers ★781](pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
 
 [Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
 
-[bottle-service ★283 ⏳1Y](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
+[bottle-service ★284 ⏳1Y](bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
 
 [react-boilerplate](https://github.com/mxstbr/react-boilerplate): Quick setup for performance orientated, offline-first React.js applications.
 
-[Haywire ★18 ⏳1Y](https://github.com/omnia-salud/haywire): A minimal javascript library for network issues detection.
+[Haywire ★19 ⏳2Y](omnia-salud/haywire): A minimal javascript library for network issues detection.
 
-[sw-toolbox ★2351](https://github.com/GoogleChrome/sw-toolbox): A collection of tools for service workers.
+[sw-toolbox ★2453](GoogleChrome/sw-toolbox): A collection of tools for service workers.
 
 [UpUp](https://www.talater.com/upup/): An Offline First library designed to be the easiest way to add offline capabilities to a site.
 
-[simple-serviceworker-tutorial ★253](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
+[simple-serviceworker-tutorial ★268](jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
 
-[Hyperboot ★383 ⏳1Y](https://github.com/substack/hyperboot): Offline webapp bootloader.
+[Hyperboot ★382 ⏳1Y](substack/hyperboot): Offline webapp bootloader.
 
-[MakeDrive ★355 ⏳1Y](https://github.com/mozilla/makedrive): A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
+[MakeDrive ★355 ⏳2Y](mozilla/makedrive): A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
 See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDrive) for background info.
 
 [ApplicationCache](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache): HTML5 provides an application caching mechanism that lets web-based applications run offline.
@@ -816,7 +816,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
-[localForage ★9022](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+[localForage ★9213](localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 [remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 
@@ -828,9 +828,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Offline States](http://offlinestat.es/): What show applications when we have not internet connection.
 
-[appCache Nanny ★197](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
+[appCache Nanny ★199](gr2m/appcache-nanny):  JavaScript APIs for appCache
 
-[bro-fs ★5](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
+[bro-fs ★6](vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
 
 ## Books
 
@@ -882,5 +882,5 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/pazguille/offline-first">https://github.com/pazguille/offline-first</a> with ranks
+	This list is a copy of <a href="pazguille/offline-first">pazguille/offline-first</a> with ranks
 </p>

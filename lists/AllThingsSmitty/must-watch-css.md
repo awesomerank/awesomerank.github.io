@@ -2,21 +2,26 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/AllThingsSmitty/must-watch-css">https://github.com/AllThingsSmitty/must-watch-css</a> with ranks
+	This list is a copy of <a href="AllThingsSmitty/must-watch-css">AllThingsSmitty/must-watch-css</a> with ranks
 </p>
 ---
 <p align="center">
   <img width="300" src="https://rawgit.com/AllThingsSmitty/must-watch-css/master/media/logo.svg" alt="TV icon">
 </p>
 
-# Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 This is a collection of well-received talks about CSS, covering topics such as CSS frameworks, Sass, SVG, animation, scalability, CSS performance, tooling, mobile tips, and more.
 
-> **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★57421](https://github.com/sindresorhus/awesome).
+> **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★59088](sindresorhus/awesome).
 
 
 * [Contribution Guidelines](https://github.com/AllThingsSmitty/must-watch-css/blob/master/CONTRIBUTING.md)
+
+
+### 2017
+
+1. [**CSS and the First Meaningful Paint**](https://www.youtube.com/watch?v=4pQ2byAoIX0&t=16s&list=PLUS3uVC08ZaqVEGFkl_dS_3FUzILkOIzA): Patrick Hamann, CSSConf.EU `37:56`
 
 
 ### 2016
@@ -93,5 +98,5 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**The Top 5 Mistakes of Massive CSS**](https://www.youtube.com/watch?v=j6sAm7CLoCQ): Nicole Sullivan, Build Conference `37:53`
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/AllThingsSmitty/must-watch-css">https://github.com/AllThingsSmitty/must-watch-css</a> with ranks
+	This list is a copy of <a href="AllThingsSmitty/must-watch-css">AllThingsSmitty/must-watch-css</a> with ranks
 </p>

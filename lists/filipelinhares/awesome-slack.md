@@ -2,12 +2,12 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/filipelinhares/awesome-slack">https://github.com/filipelinhares/awesome-slack</a> with ranks
+	This list is a copy of <a href="filipelinhares/awesome-slack">filipelinhares/awesome-slack</a> with ranks
 </p>
 ---
 ![Awesome Slack](https://github.com/filipelinhares/awesome-slack/blob/master/images/logo.jpg)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/filipelinhares/awesome-slack.png)](https://travis-ci.org/filipelinhares/awesome-slack)
 
 A list of communities about web development and design that are powered by [Slack](https://slack.com/).
@@ -49,7 +49,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 - [Kazan Developers](https://devkzn.slack.com/)
 - [Polish developers](http://slackin.devstyle.pl/)
-- [Spanish-speaking developer communities list ★20](https://github.com/esebastian/awesome-spanish-slack-dev-groups)
+- [Spanish-speaking developer communities list ★34](esebastian/awesome-spanish-slack-dev-groups)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
@@ -73,7 +73,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
 
 ## Looking for more lists like that?
-- [Awesome ★57421](https://github.com/sindresorhus/awesome)
+- [Awesome ★59088](sindresorhus/awesome)
 - [Awesome Community](https://github.com/peterkokot/awesome-community)
 
 ## Contribute
@@ -83,5 +83,5 @@ Your contributions and suggestions are :heart: welcome. Ensure to read the [guid
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/filipelinhares/awesome-slack">https://github.com/filipelinhares/awesome-slack</a> with ranks
+	This list is a copy of <a href="filipelinhares/awesome-slack">filipelinhares/awesome-slack</a> with ranks
 </p>

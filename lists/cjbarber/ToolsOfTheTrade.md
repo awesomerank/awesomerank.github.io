@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/cjbarber/ToolsOfTheTrade">https://github.com/cjbarber/ToolsOfTheTrade</a> with ranks
+	This list is a copy of <a href="cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
 </p>
 ---
-# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
 
@@ -130,6 +130,7 @@ It's hosted on GitHub for a reason! Please submit pull requests.
 
 ### Identity Verification
 
+* Cognito | https://cognitohq.com | [@getcognito](https://twitter.com/getcognito) | Frictionless, modern identity verification that starts with just a phone number.
 * BlockScore | https://blockscore.com | [@getblockscore](https://twitter.com/getblockscore) | $1/verification - $5/verification | Individual ID verifications and company verifications | Verify customers in realtime. Implement in hours.
 
 ### Browser/Email Testing
@@ -227,6 +228,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 ### User Testing
 
 * Silverback 2.0 | http://silverbackapp.com | [@silverbackapp](https://twitter.com/silverbackapp) | 69.95 | Guerrilla usability testing software for designers and developers | Silverback makes it easy, quick and cheap for everyone to perform guerrilla usability tests with no setup and no expense, using hardware already in your Mac.
+* HotJar | https://www.hotjar.com | [@hotjar](https://twitter.com/hotjar) | Free - $29/mo (personal) | Records videos and collects heatmaps of your site visitor actions.
 
 ### HR
 
@@ -286,7 +288,7 @@ don't have time for analytics | We take your data and present in a beautiful tim
 
 ### Application Distribution
 
-* HockeyApp | https://www.hockeyapp.net | [@hockeyapp](https://twitter.com/hockeyapp) | $10/mo - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps | Includes analytics, user feedback and crash reports.
+* HockeyApp | https://www.hockeyapp.net | [@hockeyapp](https://twitter.com/hockeyapp) | Free - $129/mo depending on number of apps and number of owners | Distribution of iOS, Android, Windows Phone and Mac OS apps | Includes analytics, user feedback and crash reports.
 
 ### Log Monitoring
 
@@ -378,12 +380,12 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 ### Email Marketing
 
 * MailCharts | https://www.mailcharts.com | [@mailcharts](https://twitter.com/mailcharts) | $30/mo | Track & understand how your competitors use email marketing | MailCharts tracks over a thousand companies, bringing you actionable insights to help you improve your email marketing strategy, make data-driven decisions and gain design and content inspiration.
-* Customer.io | https://customer.io |  | $50/mo - $1250/Mo | Send email based on what people do
-or don't do in your app | Customer.io lets you send newsletters to segments of customers using data from your site.
+* Customer.io | https://customer.io |  | $50/mo - $1250/Mo | Send email based on what people do or don't do in your app | Customer.io lets you send newsletters to segments of customers using data from your site.
 * Vero | https://www.getvero.com | [@veroapp](https://twitter.com/veroapp) | $99/mo | Send emails based on what your customers do | Vero makes it easy to create segments of customers based on the attributes you capture (e.g. age, location, gender) and the actions your customers take (e.g. logged in, used feature x, checked out, etc.).
 * MailChimp | https://mailchimp.com
 * Campaign Monitor | https://www.campaignmonitor.com | [@](https://www.campaignmonitor.com/customers/) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
 * Sendy | https://sendy.co | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers.
+* Image-Charts | https://image-charts.com | [@imagecharts](https://twitter.com/imagecharts) | free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts.
 
 ### Email Collection/Landing Page Apps
 
@@ -412,7 +414,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 * Pipedrive | https://www.pipedrive.com | | $9/ mo | Pipeline software that gets you organized. | Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin.
 * Contactually | https://www.contactually.com | [@Contactually](https://twitter.com/contactually) | $17.99/mo - $99.99/mo | Maximize your network ROI. More referrals. More repeat business | Contactually helps businesses follow up with the right people, at the right time, to maximize relationship ROI.
 
-[Best CRM Software for Startups ★40 ⏳3Y](https://github.com/cjbarber/best-crm-for-startups)
+[Best CRM Software for Startups ★40 ⏳3Y](cjbarber/best-crm-for-startups)
 
 ### Social Media Marketing
 
@@ -443,7 +445,8 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 
 * Tomatoes | http://www.tomato.es/ | [@tomatoesapp](https://twitter.com/tomatoesapp) |  | Track your time and be productive with the Pomodoro Technique | Tomatoes is a "pomodoro tracker", a Pomodoro technique® driven time tracker. Track your time using 25 minutes slots called "pomodoros".
 * Do.com
-* RescueTime | https://www.rescuetime.com | [@rescuetime](https://twitter.com/rescuetime) | $9 | RescueTime gives you an accurate picture of how you spend your time to help you become more productive every day.
+* RescueTime | https://www.rescuetime.com | [@rescuetime](https://twitter.com/rescuetime) | $9/mo | RescueTime gives you an accurate picture of how you spend your time to help you become more productive every day.
+* Qbserve | https://qotoqot.com/qbserve/ | [@Qbserve](https://twitter.com/Qbserve) | $40 one-time | Qbserve is a time tracker for Mac that does whatever RescueTime can but also tracks project time automatically, generates invoices, and stores tracked data locally.
 
 ### Prototyping/Mockups
 
@@ -618,7 +621,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Convo | https://www.convo.com/
 * Zoom | https://www.zoom.us/
 
-[HipChat Alternatives ★232](https://github.com/cjbarber/hipchat-alternatives)
+[HipChat Alternatives ★232](cjbarber/hipchat-alternatives)
 
 ### Remote Collaboration
 
@@ -862,5 +865,5 @@ With many thanks to the [contributors](https://github.com/davisonio/awesome-irc/
 **Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/awesome-irc/blob/master/CONTRIBUTING.md). :raised_hands:
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/cjbarber/ToolsOfTheTrade">https://github.com/cjbarber/ToolsOfTheTrade</a> with ranks
+	This list is a copy of <a href="cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
 </p>

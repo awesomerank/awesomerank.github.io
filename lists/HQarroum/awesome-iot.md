@@ -2,18 +2,18 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/HQarroum/awesome-iot">https://github.com/HQarroum/awesome-iot</a> with ranks
+	This list is a copy of <a href="HQarroum/awesome-iot">HQarroum/awesome-iot</a> with ranks
 </p>
 ---
 # Awesome IoT
 
 <img src="iot-logo.png" align="right" width="100">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://travis-ci.org/HQarroum/awesome-iot.svg?branch=master)](https://travis-ci.org/HQarroum/awesome-iot)
 
 > A curated list of awesome Internet of Things projects and resources.
 
-Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -75,7 +75,7 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
  - [Groovy](http://www.groovy-lang.org/) - Groovy is a powerful, optionally typed and dynamic language, with static-typing and static compilation capabilities, for the Java platform aimed at multiplying developers’ productivity thanks to a concise, familiar and easy to learn syntax. It is used by the SmartThings development environment to create smart applications.
  - [Lua](http://www.lua.org/) - Lua is a powerful, fast, lightweight, embeddable scripting language. Lua is dynamically typed, runs by interpreting bytecode for a register-based virtual machine, and has automatic memory management with incremental garbage collection, making it ideal for configuration, scripting, and rapid prototyping.
  - [eLua](http://www.eluaproject.net/) - eLua stands for Embedded Lua and the project offers the full implementation of the Lua Programming Language to the embedded world, extending it with specific features for efficient and portable software embedded development.
- - [ELFE](http://c3d.github.io/elfe/) - ELFE is a very simple and small programming language. While it is a general-purpose programming language, it is specifcally tuned to facilitate the configuration and control of swarms of small devices such as sensors or actuators.
+ - [ELFE](http://c3d.github.io/elfe/) - ELFE is a very simple and small programming language. While it is a general-purpose programming language, it is specifically tuned to facilitate the configuration and control of swarms of small devices such as sensors or actuators.
 
 #### Frameworks
 
@@ -91,25 +91,25 @@ Inspired by the [awesome ★57421](https://github.com/sindresorhus/awesome) list
  - [Mihini](https://wiki.eclipse.org/Mihini) - The main goal of Mihini is to deliver an embedded runtime running on top of Linux, that exposes high-level API for building M2M applications. Mihini aims at enabling easy and portable development, by facilitating access to the I/Os of an M2M system, providing a communication layer, etc.
  - [OpenHAB](http://www.openhab.org/) - The openHAB runtime is a set of OSGi bundles deployed on an OSGi framework (Equinox). It is therefore a pure Java solution and needs a JVM to run. Being based on OSGi, it provides a highly modular architecture, which even allows adding and removing functionality during runtime without stopping the service.
  - [Gobot](http://gobot.io/) - Gobot is a framework for robotics, physical computing, and the Internet of Things, written in the Go programming language.
- - [Home Assistant ★6691](https://github.com/home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
+ - [Home Assistant ★6936](home-assistant/home-assistant) - Home Assistant is a home automation platform running on Python 3. The goal of Home Assistant is to be able to track and control all devices at home and offer a platform for automating control.
  - [Lightweight MQTT Machine Network](http://lwmqn.github.io/) - LWMQN is an open source project that follows part of OMA LWM2M v1.0 specification and uses the IP-base Smart Object model to meet the minimum requirements of machine network management. It provides both server-side and machine-side libraries to make full-stack IoT development possible with JavaScript and Node.js. See also: IPSO Alliance [Technical Archive](http://www.ipso-alliance.org/ipso-community/resources/technical-archive/).
- - [Thingsboard IoT Gateway ★95](https://github.com/thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
+ - [Thingsboard IoT Gateway ★98](thingsboard/thingsboard-gateway) - Open-source IoT Gateway - integrates devices connected to legacy and third-party systems with Thingsboard IoT Platform using OPC-UA and MQTT protocols.
 
 #### Middlewares
 
  - [IFTTT](https://ifttt.com/) - IFTTT is a web-based service that allows users to create chains of simple conditional statements, called "recipes", which are triggered based on changes to other web services such as Gmail, Facebook, Instagram, and Pinterest. IFTTT is an abbreviation of "If This Then That" (pronounced like "gift" without the "g").
- - [Huginn ★16066](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
+ - [Huginn](https://github.com/cantino/huginn) - Huginn is a system for building agents that perform automated tasks for you online.
  - [Kaa](http://www.kaaproject.org/) - An open-source middleware platform for rapid creation of IoT solutions.
  - [Losant](https://losant.com) - Losant is an easy-to-use and powerful developer platform designed to help you quickly and securely build complex connected solutions. Losant uses open communication standards like REST and MQTT to provide connectivity from one to millions of devices. Losant provides powerful data collection, aggregation, and visualization features to help understand and quantify vast amounts of sensor data. Losant's drag-and-drop workflow editor allows you to trigger actions, notifications, and machine-to-machine communication without programming.
  - [DreamFactory](http://www.dreamfactory.com) - DreamFactory is a free open source REST API Platform for mobile, web and IoT Applications.
- - [I1820](http://aolab.github.io/I1820/) - I1820 is a free open source platform which provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
+ - [I1820](https://i1820.github.io/) - I1820 is a free open source platform which provides discovery, data collection and configuration services based on MQTT. I1820 implements a REST API for controlling the things and it stores all collected data in a Time-Series database named InfluxDB.
  - [IOStash](https://iostash.io) - IOStash is a high performance IoT platform that is free for DIY developers and non profit applications. It has multiple connectivity options and enables easy development of M2M or M2A applications. IOStash offers Nodejs and Android libraries for easy application creation. 
  - [Thingsboard](https://thingsboard.io) - An open-source IoT platform. Device management, data collection, processing and visualization for your IoT solution.
 
 #### Libraries and Tools
 
  - [Cylon.js](http://cylonjs.com/) - Cylon.js is a JavaScript framework for robotics, physical computing, and the Internet of Things. It makes it incredibly easy to command robots and devices.
- - [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua ! While this framework is not directly involved with IoT development, it is still a *great* way to rapidly build powertfull, yet memory efficient, embedded web applications.
+ - [Luvit](https://luvit.io/) - Luvit implements the same APIs as Node.js, but in Lua ! While this framework is not directly involved with IoT development, it is still a *great* way to rapidly build powerful, yet memory efficient, embedded web applications.
  - [Johnny-Five](http://johnny-five.io/) - Johnny-Five is the original JavaScript Robotics programming framework. Released by Bocoup in 2012, Johnny-Five is maintained by a community of passionate software developers and hardware engineers.
  - [Pi4J](http://pi4j.com/) - Pi4j is intended to provide a friendly object-oriented I/O API and implementation libraries for Java Programmers to access the full I/O capabilities of the Raspberry Pi platform.
  - [WiringPi](http://wiringpi.com/) - WiringPi is a GPIO access library written in C for the BCM2835 used in the Raspberry Pi.
@@ -137,7 +137,7 @@ Bluetooth is a wireless technology standard for exchanging data over short dista
 
 > Bluetooth is managed by the Bluetooth Special Interest Group (SIG), which has more than 25,000 member companies in the areas of telecommunication, computing, networking, and consumer electronics.
 
-#### <img width="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/Bluetooth_Smart_Logo.svg/288px-Bluetooth_Smart_Logo.svg.png" /> - [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_low_energy) (Bluetooth Special Interest Group)
+#### <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Bluetooth_Smart_Logo.svg/241px-Bluetooth_Smart_Logo.svg.png" /> - [Bluetooth Low Energy](https://en.wikipedia.org/wiki/Bluetooth_low_energy) (Bluetooth Special Interest Group)
 
 Bluetooth low energy (Bluetooth LE, BLE, marketed as Bluetooth Smart) is a wireless personal area network technology designed and marketed by the Bluetooth Special Interest Group aimed at novel applications in the healthcare, fitness, beacons, security, and home entertainment industries. - [Wikipedia](https://en.wikipedia.org/wiki/Bluetooth_low_energy)
 
@@ -266,7 +266,7 @@ Extensible Messaging and Presence Protocol (XMPP) is a communications protocol f
 Near field communication (NFC) is the set of protocols that enable electronic devices to establish radio communication with each other by touching the devices together, or bringing them into proximity to a distance of typically 10cm or less. - [Wikipedia](https://en.wikipedia.org/wiki/Near_field_communication)
 
 ### <img width="50" src="https://opcfoundation.org/wp-content/themes/opc/images/logo.jpg"/>- [OPCUA](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
-OPC-UA is a not only a protocol for industrial automation but also a technology that allows semantic description and object modeling of industrial environment.
+OPC-UA is a not only a protocol for industrial automation but also a technology that allows semantic description and object modelling of industrial environment.
 [Wikipedia](https://en.wikipedia.org/wiki/OPC_Unified_Architecture)
 
 
@@ -349,5 +349,5 @@ and Vlad Trifa
 To the extent possible under law, [Halim Qarroum](https://github.com/HQarroum/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/HQarroum/awesome-iot">https://github.com/HQarroum/awesome-iot</a> with ranks
+	This list is a copy of <a href="HQarroum/awesome-iot">HQarroum/awesome-iot</a> with ranks
 </p>

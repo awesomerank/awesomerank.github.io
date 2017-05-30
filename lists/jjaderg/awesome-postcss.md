@@ -2,14 +2,14 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/jjaderg/awesome-postcss">https://github.com/jjaderg/awesome-postcss</a> with ranks
+	This list is a copy of <a href="jjaderg/awesome-postcss">jjaderg/awesome-postcss</a> with ranks
 </p>
 ---
 # Awesome PostCSS 
 
 > A tool for transforming CSS with JavaScript
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
  
 *An awesome list of plugins, articles, resources and other things related to PostCSS.*
@@ -131,15 +131,15 @@ Your contributions are always welcome. But, please take a quick gander at the co
 ### Plugins
 
 - [postcss parts](http://postcss.parts/) - A searchable catalog of PostCSS plugins
-- [atom-language-postcss ★52](https://github.com/azat-io/atom-language-postcss) - Atom language support for PostCSS
-- [poststylus ★213](https://github.com/seaneking/poststylus) - PostCSS adapter for Stylus
-- [postcss-instagram ★86](https://github.com/azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
-- [postcss-normalize ★18](https://github.com/seaneking/postcss-normalize) - Simple normalize.css wrapper for PostCSS
-- [postcss-font-magician ★617](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
-- [postcss-loader ★1150](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
-- [css-declaration-sorter ★55](https://github.com/Siilwyn/css-declaration-sorter) - A Node.js module and PostCSS plugin to sort the CSS declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn)
-- [postcss-pxtorem](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
-- [postcss-selector-parser ★44](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings
+- [atom-language-postcss ★53](azat-io/atom-language-postcss) - Atom language support for PostCSS
+- [poststylus ★217](seaneking/poststylus) - PostCSS adapter for Stylus
+- [postcss-instagram ★87](azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
+- [postcss-normalize](https://github.com/seaneking/postcss-normalize) - Simple normalize.css wrapper for PostCSS
+- [postcss-font-magician ★634](jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
+- [postcss-loader ★1235](postcss/postcss-loader) - PostCSS loader for webpack
+- [css-declaration-sorter ★55](Siilwyn/css-declaration-sorter) - A Node.js module and PostCSS plugin to sort the CSS declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn)
+- [postcss-pxtorem ★240](cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
+- [postcss-selector-parser ★48](postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings
 
 ## Presentations
 
@@ -166,5 +166,5 @@ Your contributions are always welcome. But, please take a quick gander at the co
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) © [Jader Gomes](https://github.com/jjaderg)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/jjaderg/awesome-postcss">https://github.com/jjaderg/awesome-postcss</a> with ranks
+	This list is a copy of <a href="jjaderg/awesome-postcss">jjaderg/awesome-postcss</a> with ranks
 </p>

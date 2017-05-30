@@ -2,16 +2,16 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/hzoo/awesome-gametalks">https://github.com/hzoo/awesome-gametalks</a> with ranks
+	This list is a copy of <a href="hzoo/awesome-gametalks">hzoo/awesome-gametalks</a> with ranks
 </p>
 ---
-# Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 > [2005] [Heart of a Gamer](https://www.youtube.com/watch?v=RMrj8gdUfCU): Satoru Iwata (Nintendo)
 
 > On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.
 
-Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/blob/master/CONTRIBUTING.md) and other [awesome ★57421](https://github.com/sindresorhus/awesome) stuff!
+Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/blob/master/CONTRIBUTING.md) and other [awesome ★59088](sindresorhus/awesome) stuff!
 
 > GDC has a channel now: https://www.youtube.com/c/gdconf
 
@@ -176,5 +176,5 @@ Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/bl
 - [Episode 93, Collective Podcast] [Discussing Monument Valley](http://www.thecollectivepodcast.com/#/ken-wong/): Ken Wong (UsTwo Games)
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/hzoo/awesome-gametalks">https://github.com/hzoo/awesome-gametalks</a> with ranks
+	This list is a copy of <a href="hzoo/awesome-gametalks">hzoo/awesome-gametalks</a> with ranks
 </p>

@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/brunocvcunha/awesome-userscripts">https://github.com/brunocvcunha/awesome-userscripts</a> with ranks
+	This list is a copy of <a href="brunocvcunha/awesome-userscripts">brunocvcunha/awesome-userscripts</a> with ranks
 </p>
 ---
-# Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+# Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A curated list of Awesome Userscripts.
 
@@ -58,8 +58,8 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 
 * [GitHub Comment Enhancer](https://github.com/jerone/UserScripts/tree/master/Github_Comment_Enhancer) - Add features to enhance comments, wiki and contact page on GitHub.
 * [GitHub Commit Whitespace](https://github.com/jerone/UserScripts/tree/master/Github_Commit_Whitespace) - Adds button to hide whitespace diffs from commits.
-* [GitHub Monospace Editor ★7](https://github.com/devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
-* [GitHub PR Approvals ★1 ⏳1Y](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
+* [GitHub Monospace Editor ★7](devxoul/github-monospace-editor) - Provide MonoSpace font on GitHub textareas.
+* [GitHub PR Approvals ★1 ⏳1Y](stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 * [GitHub User Info](https://github.com/jerone/UserScripts/tree/master/Github_User_Info) - Show user information on avatar hover.
 * [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer) - Preview images from within the file listing.
 
@@ -73,7 +73,7 @@ There's no focused plugins to get Userscripts running on Microsoft Edge or Inter
 * [Download YouTube Videos as MP4](https://greasyfork.org/en/scripts/1317-download-youtube-videos-as-mp4) - Adds a button that lets you download YouTube videos.
 * [YouTube Link Title](https://greasyfork.org/en/scripts/413-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
 * [YouTube Plus](https://greasyfork.org/en/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
-* [YouTube Subtitle Download ★117](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+* [YouTube Subtitle Download ★120](1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 
 
@@ -110,5 +110,5 @@ Please have a look at [CONTRIBUTING](https://github.com/brunocvcunha/awesome-use
 To the extent possible under law, [Bruno Candido Volpato da Cunha](http://www.brunocandido.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/brunocvcunha/awesome-userscripts">https://github.com/brunocvcunha/awesome-userscripts</a> with ranks
+	This list is a copy of <a href="brunocvcunha/awesome-userscripts">brunocvcunha/awesome-userscripts</a> with ranks
 </p>

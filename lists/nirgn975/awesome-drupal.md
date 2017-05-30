@@ -2,16 +2,16 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/nirgn975/awesome-drupal">https://github.com/nirgn975/awesome-drupal</a> with ranks
+	This list is a copy of <a href="nirgn975/awesome-drupal">nirgn975/awesome-drupal</a> with ranks
 </p>
 ---
-# Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+# Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/nirgn975/awesome-drupal/master/icon-drupal.png" align="right" width="90">](https://www.drupal.org)
 
 > [Drupal](https://www.drupal.org) is a free and open source CMS written in PHP and distributed under the GNU General Public License, provides a back-end for Web sites worldwide – ranging from personal blogs to corporate, political, and government sites.
 
-You might also like [awesome-php ★15226](https://github.com/ziadoz/awesome-php).
+You might also like [awesome-php ★15483](ziadoz/awesome-php).
 
 
 ## Contents
@@ -30,7 +30,7 @@ You might also like [awesome-php ★15226](https://github.com/ziadoz/awesome-php
 
 ## Tools
 
-- [Yo Hedley! ★104](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
+- [Yo Hedley! ★104](Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
 
 
 ## Modules
@@ -137,7 +137,7 @@ You might also like [awesome-php ★15226](https://github.com/ziadoz/awesome-php
 
 ## Tips
 
-- [Solr Script ★6](https://github.com/RoySegall/solr-script) - Handy script to install Apache Solr.
+- [Solr Script ★6](RoySegall/solr-script) - Handy script to install Apache Solr.
 - [Ubuntu development environment setup](https://github.com/Gizra/KnowledgeBase/wiki/Ubuntu-and-development-environment-setup) - Provides steps for configuring ubuntu so it will be ready for PHP and Drupal development.
 - [MacOS: New Machine configuration](https://github.com/Gizra/KnowledgeBase/wiki/MacOS:-New-Machine) - Provides files and scripts for configuring MacOS for development.
 
@@ -154,5 +154,5 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/nir
 To the extent possible under law, [Nir Galon](http://nirgn.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/nirgn975/awesome-drupal">https://github.com/nirgn975/awesome-drupal</a> with ranks
+	This list is a copy of <a href="nirgn975/awesome-drupal">nirgn975/awesome-drupal</a> with ranks
 </p>

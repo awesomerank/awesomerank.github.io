@@ -2,10 +2,10 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="https://github.com/dariubs/GoBooks">https://github.com/dariubs/GoBooks</a> with ranks
+	This list is a copy of <a href="dariubs/GoBooks">dariubs/GoBooks</a> with ranks
 </p>
 ---
-Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★57421](https://github.com/sindresorhus/awesome)
+Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
@@ -44,7 +44,7 @@ This companion book contains material initially written specifically for this ev
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github ★179](https://github.com/miekg/learninggo).
+The [markdown source is available on Github ★186](miekg/learninggo).
 
 ### [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers) *Free*
 
@@ -96,11 +96,11 @@ and may be conveniently fetched, built, and installed using the `go get` command
 
 Perfect for beginners familiar with programming basics, this hands-on guide provides an easy introduction to Go, the general-purpose programming language from Google. Author Caleb Doxsey covers the language's core features with step-by-step instructions and exercises in each chapter to help you practice what you learn.
 
-### [Learn Go](https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821)
+### [Get Programming with Go](https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821)
 
-<a href="https://manning.com/books/learn-go?a_aid=nathany&a_bid=53f68821"><img src="https://nathany.com/images/learn-go-meap.jpg" width="120px"/></a>
+<a href="https://www.manning.com/books/get-programming-with-go?a_aid=nathany&a_bid=53f68821"><img src="https://images.manning.com/120/160/resize/book/0/85793cf-cbb9-4f32-8f4b-d4767755dc5c/Youngman_GetProg-go_hiresmeap.png" width="120px"/></a>
 
-*Learn Go* is a beginner’s guide to the Go programming language, aimed squarely at hobbyists and new developers. It’s chock-full of exercises that you can tackle with nothing more than a web browser. Move forward each day with succinctly written chapters punctuated by elaborate challenges. By the end you will have cracked ancient ciphers, discovered the wonders of cellular automatons, planned a vacation on Mars, and directed rovers to gather weather data. This is just the beginning. What you build next is up to you.
+*Get Programming with Go* introduces you to the powerful Go language without the confusing jargon or high-level theory. By working through over 25 quick-fire chapters, you'll quickly pick up the basics of the innovative Go programming language! Most of the examples in this book can be executed in the Go playground, so you don't need to worry about setting up a practice environment. Chock-full of engaging projects, you'll crack ancient ciphers, discover the wonders of cellular automatons, plan a vacation on Mars, and direct rovers to gather weather data!
 
 ### [Go Programming by Example](https://www.amazon.com/Go-Programming-Example-Agus-Kurniawan-ebook/dp/B00TWLZVQQ)
 
@@ -127,11 +127,13 @@ Solve your Go problems using a problem-solution approach. Each recipe is a self-
 
 A short guide to Test-driven development in golang. free to [read online](https://leanpub.com/golang-tdd/read).
 
-### [Network Programming with Go](https://www.gitbook.com/book/jannewmarch/network-programming-with-go-golang-/details) *Free*
+### [Network Programming with Go](https://www.apress.com/us/book/9781484226919)
 
-<img src="https://ek8whxe.cloudimg.io/s/width/226/https://www.gitbook.com/cover/book/jannewmarch/network-programming-with-go-golang-.jpg" width="120px"/>
+<img src="https://images.springer.com/sgw/books/medium/9781484226919.jpg" width="120px"/>
 
-An e-book on building network applications using the Google Go programming language. Free to [read online](https://www.gitbook.com/book/jannewmarch/network-programming-with-go-golang-/details).
+Dive into key topics in network architecture and Go, such as data serialization, application level protocols, character sets and encodings. This book covers network architecture and gives an overview of the Go language as a primer, covering the latest Go release.
+
+Beyond the fundamentals, Network Programming with Go covers key networking and security issues such as HTTP and HTTPS, templates, remote procedure call (RPC), web sockets including HTML5 web sockets, and more.
 
 ### [Mastering Concurrency in Go](http://shop.oreilly.com/product/9781783983483.do)
 
@@ -157,6 +159,17 @@ A developer's exprience in golang.
 
 Tested, easy-to-adapt code examples illuminate every step of Go development, helping you write highly scalable, concurrent software. You’ll master Go-specific idioms for working with strings, collections, arrays, error handling, goroutines, slices, maps, channels, numbers, dates, times, files, networking, web apps, the runtime, and more.
 
+### [Go Design Patterns](https://www.packtpub.com/application-development/go-design-patterns)
+ 
+<img src="https://dz13w8afd47il.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/image.jpg" width="120px"/>
+
+Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDD.
+
+### [Go Reactive Programming](https://www.packtpub.com/application-development/go-reactive-programming)
+
+<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06127_MockupCover.png" width="120px"/>
+
+Build concurrent, easy-to-maintain responsive applications in Go.
 
 **Web Development**
 ----
@@ -192,7 +205,7 @@ At each step, you’ll get advice for better coding in Go. You’ll see how to s
 
 Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
 
-### [Webapps in Go the anti textbook ★1643](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *free*
+### [Webapps in Go the anti textbook ★1684](thewhitetulip/web-dev-golang-anti-textbook) *free*
 
 <img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
 
@@ -234,5 +247,5 @@ License
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ---
 <p align="center">
-	This list is a copy of <a href="https://github.com/dariubs/GoBooks">https://github.com/dariubs/GoBooks</a> with ranks
+	This list is a copy of <a href="dariubs/GoBooks">dariubs/GoBooks</a> with ranks
 </p>
