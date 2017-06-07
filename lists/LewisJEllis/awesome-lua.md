@@ -96,7 +96,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
 - [Lua Fun](https://github.com/rtsisyk/luafun) - High-performance functional programming library designed for LuaJIT.
 - [Moses ★316](Yonaba/Moses) - Functional programming utility belt, inspired by Underscore.js.
 - [Penlight ★699](stevedonovan/Penlight) - Broad, heavyweight utility library, inspired by Python's standard libs. Provides the batteries that Lua doesn't.
-- [lua-stdlib ★145](lua-stdlib/lua-stdlib) - Middle-weight standard library extension; adds some useful data structures, utility functions, and basic functional stuff.
+- [lua-stdlib ★145 ⏳1Y](lua-stdlib/lua-stdlib) - Middle-weight standard library extension; adds some useful data structures, utility functions, and basic functional stuff.
 - [Microlight ★91 ⏳1Y](stevedonovan/Microlight) - A little library of useful Lua functions; the 'extra light' version of Penlight.
 
 
@@ -180,7 +180,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 
 ### Templating
 - [lustache](http://olivinelabs.com/lustache/) - Mustache template implementation.
-- [etlua ★83](leafo/etlua) - Embedded Lua templates, ERB-style.
+- [etlua ★83 ⏳1Y](leafo/etlua) - Embedded Lua templates, ERB-style.
 - [lua-resty-template ★432](bungle/lua-resty-template) - Lua-oriented template engine for OpenResty, somewhat Jinja-like.
 
 
@@ -284,7 +284,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [luadec51 ★166 ⏳1Y](sztupy/luadec51) - Lua Decompiler for Lua version 5.1.
 - [luacov](http://keplerproject.github.io/luacov/) - Simple coverage analyzer, used by busted and telescope for checking test coverage.
 - [luacheck ★473](mpeterv/luacheck) - Simple static analyzer which detects accidental globals and undefined or shadowed locals.
-- [Metalua ★246 ⏳2Y](fab13n/metalua) - Pure Lua parser and compiler, used for generating ASTs. A number of other tools make use of the Metalua parser in this way.
+- [Metalua ★246 ⏳3Y](fab13n/metalua) - Pure Lua parser and compiler, used for generating ASTs. A number of other tools make use of the Metalua parser in this way.
 - [LuaInspect ★136 ⏳1Y](davidm/lua-inspect) - Lua's most powerful code analysis and linting tool, built on Metalua. Used by ZeroBraneStudio, among others.
 - [LuaMinify ★117](stravant/LuaMinify) - Minifier which also brings its own static analysis tools, lexer, and parser.
 - [Typed Lua ★307](andremm/typedlua) - A typed superset of Lua that compiles to plain Lua.

@@ -109,7 +109,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [pubsubclient ★1184](knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
 * [rumqtt ★16](AtherEnergy/rumqtt) - A fast, lock free pure rust mqtt cilent.
 * [ruby-mqtt ★266](njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol.
-* [tcl-mqtt ★2 ⏳2Y](Tingenek/tcl-mqtt) - Small library to connect to a matt broker. Very, very basic.
+* [tcl-mqtt ★2 ⏳3Y](Tingenek/tcl-mqtt) - Small library to connect to a matt broker. Very, very basic.
 * [TMQTTClient](http://jamiei.com/blog/code/mqtt-client-library-for-delphi/) - MQTT Client Library for Delphi.
 * [wolfMQTT](https://wolfssl.com/wolfSSL/Products-wolfmqtt.html) - a client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.
 
@@ -193,14 +193,15 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Smart Home Integration Software
 
-* [control-freak ★2](xblox/control-freak) IDE for IoT & friends. Built in MQTT support.
-* [Domoticz](http://www.domoticz.com/) Domoticz beta supports MQTT.
+* [control-freak ★2](xblox/control-freak) - IDE for IoT & friends. Built in MQTT support.
+* [Domoticz](http://www.domoticz.com/) - Domoticz beta supports MQTT.
 * [FHEM](http://fhem.de/fhem.html) has a [MQTT module](http://fhem.de/commandref.html#MQTT) since V5.6.
 * [Home Assistant](https://home-assistant.io/) has a MQTT component.
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) has build in MQTT support.
 * [homekit2mqtt](https://github.com/hobbyquaker/homekit2mqtt) - Interface between [HAP-NodeJS ★1386](KhaosT/HAP-NodeJS) and MQTT. Control MQTT connected devices with Siri or HomeKit Apps.
 * [Home.Pi ★174 ⏳2Y](denschu/home.pi) is based on MQTT.
 * [ioBroker](https://github.com/ioBroker) has a [MQTT adapter ★8](ioBroker/ioBroker.mqtt).
+* [Lelylan](http://www.lelylan.com/) - IOT Cloud Platform. Microservices Architecture. For Developers.
 * [Node-RED](https://nodered.org/) - A visual tool for wiring the Internet of Things, has native MQTT Support.
 * [openHAB](https://github.com/openhab) has a [MQTT binding](https://github.com/openhab/openhab1-addons/wiki/MQTT-Binding).
 * [pimatic](https://pimatic.org/) has a MQTT plugin.
@@ -226,7 +227,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [lirc2mqtt ★6](hobbyquaker/lirc2mqtt) - Send and receive infrared via [LIRC](www.lirc.org).
 * [mqtt2atlonamatrix ★0](forty2/mqtt2atlonamatrix) - Control Atlona HDMI matrix switches with MQTT.
 * [mqtt2tivoremote ★0](forty2/mqtt2tivoremote) - Make TiVo DVR remote control available through an mqtt-smarthome style interface.
-* [onkyo2mqtt ★5](owagner/onkyo2mqtt) - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
+* [onkyo2mqtt ★5 ⏳1Y](owagner/onkyo2mqtt) - Interface between Onkyo AVR's EISCP network remote protocol and MQTT. Uses the onkyo-eiscp library.
 * [VLC MQTT Module](https://wiki.videolan.org/Documentation:Modules/mqtt/) - Control VLC via MQTT.
 * [xbmc2mqtt ★5 ⏳2Y](gordonjcp/xbmc-mqtt) - A simple plugin for XBMC to listen for a particular topic on an MQTT broker, and display a popup message.
 * [yamaha-avr2mqtt ★3 ⏳1Y](akentner/yamaha-avr2mqtt) - A simple adapter for connection Yamaha AVR to MQTT.

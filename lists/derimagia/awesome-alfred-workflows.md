@@ -34,9 +34,8 @@ A curated list of Awesome Alfred Workflows.
 
 ## Developer
 - [caniuse ★286](willfarrell/alfred-caniuse-workflow) - Caniuse.com workflow to query HTML / CSS support.
-- [CDN ★61](willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
+- [CDN ★61 ⏳1Y](willfarrell/alfred-cdn-workflow) - Check which CDNs a package is hosted on.
 - [Colors](http://www.packal.org/workflow/colors) - Convert color formats & access the OS X color panel.
-- [Composer](https://github.com/vinkla/alfred-composer) - Search for [Composer](https://getcomposer.org/) packages with [Packagist](https://packagist.org/).
 - [Dash](https://kapeli.com/dash) - Allows you to query Dash for Developer Documentation.
 - [DevDocs ★139](yannickglt/alfred-devdocs) - An Alternative to Dash. Allows you query [devdocs.io](https://devdocs.io/) for documentation.
 - [Font Awesome](https://github.com/ruedap/alfred2-font-awesome-workflow) - Quickly look up font awesome icons and add the desired one to your clipboard.
@@ -47,6 +46,7 @@ A curated list of Awesome Alfred Workflows.
 - [npms ★164](sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [ng ★32](SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
 - [Package Managers ★365](willfarrell/alfred-pkgman-workflow) - Package Repo Search.
+- [Packagist ★14](vinkla/alfred-packagist) - Search for PHP packages with [Packagist](https://packagist.org).
 - [Source Tree ★68](zhaocai/alfred2-sourcetree-workflow) - Alfred 2 Workflow to list, search, and open Source Tree repositories in Alfred.
 - [VagrantUP ★28](m1keil/alfred-vagrant-workflow) - List and control Vagrant environments with Alfred2.
 
@@ -67,6 +67,7 @@ A curated list of Awesome Alfred Workflows.
 ## Miscellaneous
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
 - [Emoj ★103](sindresorhus/alfred-emoj) - Find relevant emoji from text.
+- [Kaomoji ★5](vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
 ## Security

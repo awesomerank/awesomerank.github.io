@@ -40,7 +40,7 @@ Ranked awesome lists, all in one place
 
 - [eslint-plugin-ava ★131](avajs/eslint-plugin-ava) - ESLint rules.
 - [ava-codemods](https://github.com/jamestalmage/ava-codemods) - Codemods that simplifies upgrading to newer versions.
-- [sublime-ava ★38](avajs/sublime-ava) - Snippets for Sublime.
+- [sublime-ava ★38 ⏳1Y](avajs/sublime-ava) - Snippets for Sublime.
 - [atom-ava ★88](avajs/atom-ava) - Snippets for Atom.
 - [vscode-ava ★19](samverschueren/vscode-ava) - Snippets for Visual Studio Code.
 - [vim-ava-snippets ★16 ⏳1Y](ahmedelgabri/vim-ava-snippets) - Snippets for Vim.

@@ -45,7 +45,7 @@ Ranked awesome lists, all in one place
  - [redux-orm ★1179](tommikaikkonen/redux-orm) - Small, simple and immutable ORM to manage relational data in your Redux store.
  - [redux-api-middleware ★817](agraboso/redux-api-middleware) - Redux middleware for calling an API.
  - [redux-ignore ★491](omnidan/redux-ignore) - Higher-order reducer to ignore Redux actions.
- - [redux-modifiers ★159](calvinfroedge/redux-modifiers) - Collection of generic functions for writing Redux reducers to operate on various data structures.
+ - [redux-modifiers ★159 ⏳1Y](calvinfroedge/redux-modifiers) - Collection of generic functions for writing Redux reducers to operate on various data structures.
  - [rereduce ★161](slorber/rereduce) - Reducer library for Redux.
  - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
  - [redux-logger ★2106](evgenyrodionov/redux-logger) - Logger middleware for Redux.

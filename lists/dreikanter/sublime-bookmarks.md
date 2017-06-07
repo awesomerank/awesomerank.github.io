@@ -67,7 +67,7 @@ Alive projects only, with Sublime Text version 3 support.
 - [FindKeyConflicts ★126](skuroda/FindKeyConflicts) — identify conflicting key mappings.
 - [Glue ★249 ⏳3Y](chrissimpkins/glue) — a cross-platform, extensible plug-in for Sublime Text 2 and 3 that connects your favorite editor to your shell.
 - [File Navigator ★46 ⏳3Y](csch0/SublimeText-File-Navigator) — keyboard-friendly file navigator and manager.
-- [Synesthesia ★11 ⏳1Y](dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
+- [Synesthesia ★11 ⏳2Y](dariusf/synesthesia) — a plugin for highlighting text with pretty colours.
 - [StyleToken ★25](vcharnahrebel/style-token) — allows to highlight certain pieces of text with different colors (similar to Notepad++ "Style token" functionality).
 - [Origami ★919](SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 - [Sync Settings ★72](mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized

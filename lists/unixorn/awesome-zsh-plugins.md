@@ -113,7 +113,7 @@ These frameworks make customizing your zsh setup easier.
 
 **oh-my-zsh** is a community-driven framework for managing your zsh configuration. Includes 120+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
-### [prezto](https://github.com/zsh-users/prezto)
+### [prezto ★7609](sorin-ionescu/prezto)
 
 **Prezto** enriches the ZSH command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 
@@ -202,7 +202,7 @@ These frameworks make customizing your zsh setup easier.
 * [accurev-zsh ★1 ⏳2Y](dalefukami/accurev-zsh) - ZSH plugin for accurev.
 * [alias-tips ★167](djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once.
 * [allergen ★1](stanislas/allergen) - A collection of custom zsh plugins to use with antigen
-* [almostontop ★34](Valiev/almostontop) - Clears previous command output every time before new command executed in shell. Inspired by alwaysontop plugin for bash.
+* [almostontop ★34 ⏳1Y](Valiev/almostontop) - Clears previous command output every time before new command executed in shell. Inspired by alwaysontop plugin for bash.
 * [ansible ★1](sparsick/ansible-zsh) - A plugin for Ansible.
 * [ansiweather ★1282](fcambus/ansiweather) - Weather in your terminal, with ANSI colors and Unicode symbols.
 * [antigen-git-rebase ★0 ⏳2Y](smallhadroncollider/antigen-git-rebase) - Antigen/zsh script to aid with Git rebasing.
@@ -368,6 +368,7 @@ These frameworks make customizing your zsh setup easier.
 * [zero ★11 ⏳1Y](arlimus/zero.zsh) - Zero is both a plugin and a theme. See the github page for installation details.
 * [zgdbm ★0](zdharma/zgdbm) - Adds GDBM as a plugin
 * [zinfo_line ★1](kmhjs/zinfo_line) - Makes more information available to zsh themes.
+* [zredis ★0](zdharma/zredis) - adds Redis database support, with `database_key` <-> `shell_variable` binding. Supports all data types.
 * [zsh-256color ★33 ⏳1Y](chrissicool/zsh-256color) - Enhances the terminal environment with 256 colors. It looks at the chosen TERM environment variable and sees if there is respective ncurses' terminfo with 256 colors available. The result is a multicolor terminal, if available.
 * [zsh-abbrev-alias ★4](momo-lab/zsh-abbrev-alias) - Provides functionality similar to Vim's abbreviation expansion.
 * [zsh-async ★136](mafredri/zsh-async) - Library for running asynchronous tasks in zsh without requiring any external tools.
@@ -385,7 +386,7 @@ These frameworks make customizing your zsh setup easier.
 * [zsh-completion-generator ★59](RobSis/zsh-completion-generator) - This plugin tries to read the list of options from the help text of programs and generate a completion function automatically. Note that this doesn't do it automatically, you have to explicitly call the generator.
 * [zsh-dircolors-solarized ★21](joel-porquet/zsh-dircolors-solarized) - Solarized dircolors plugin.
 * [zsh-directory-history ★77](tymm/zsh-directory-history) - A per directory history for zsh.
-* [zsh-dwim ★66 ⏳1Y](oknowton/zsh-dwim) - zsh-dwim attempts to predict what you will want to do next. It provides a key binding (control-u) that will replace the current (or previous) command line with the command you will want to run next.
+* [zsh-dwim ★66 ⏳2Y](oknowton/zsh-dwim) - zsh-dwim attempts to predict what you will want to do next. It provides a key binding (control-u) that will replace the current (or previous) command line with the command you will want to run next.
 * [zsh-editing-workbench ★17](psprint/zsh-editing-workbench) - Adds sane, complex command line editing (e.g. incremental history _word_ completion).
 * [zsh-emojis ★6](MichaelAquilina/zsh-emojis) - Adds numerous ascii art emojis to your environment in convenient variables.
 * [zsh-favorite-directories ★5](seletskiy/zsh-favorite-directories) - Fast jumps to your favorite directories.
@@ -448,7 +449,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [aws_manager_plugin ★0 ⏳1Y](EslamElHusseiny/aws_manager_plugin) - Add completions for the aws_manager CLI.
 * [berkshelf-zsh-plugin ★16](berkshelf/berkshelf-zsh-plugin) - Adds tab completion for berkshelf.
 * [bosh-zsh-autocompletion ★2 ⏳2Y](krujos/bosh-zsh-autocompletion) - Adds BOSH autocompletion.
-* [brew-services ★12 ⏳1Y](vasyharan/zsh-brew-services) - Completion plugin for homebrew services.
+* [brew-services ★12 ⏳2Y](vasyharan/zsh-brew-services) - Completion plugin for homebrew services.
 * [cabal ★0 ⏳2Y](d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
 * [cf-zsh-autocomplete-plugin](https://github.com/frodenas/cf-zsh-autocomplete-plugin) - Adds autocomplete for all [Cloud Foundry CLI](https://docs.cloudfoundry.org/devguide/installcf/) commands.
 * [codeception-zsh-plugin ★10 ⏳1Y](shengyou/codeception-zsh-plugin) - Adds command completion for the Codeception Testing Framework.
@@ -476,7 +477,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [npm-run.plugin.zsh ★21](akoenig/npm-run.plugin.zsh) - Autocompletion support for `npm run`.
 * [oh-my-zsh-nova ★6 ⏳2Y](rbirnie/oh-my-zsh-nova) - Provides auto-complete for nova.
 * [oh-my-zsh-spring-boot-plugin ★8 ⏳1Y](linux-china/oh-my-zsh-spring-boot-plugin) - Adds autocompletions for [spring-boot](http://projects.spring.io/spring-boot/) commands.
-* [oh-my-zsh_razor_plugin](https://github.com/dalang/oh-my-zsh_razor_plugin) - Provides autocomplete for [Razor ★17 ⏳2Y](puppetlabs/Razor).
+* [oh-my-zsh_razor_plugin](https://github.com/dalang/oh-my-zsh_razor_plugin) - Provides autocomplete for [Razor ★17 ⏳3Y](puppetlabs/Razor).
 * [parallels-zsh-plugin ★6 ⏳3Y](benclark/parallels-zsh-plugin) - Add completions for Parallels desktop.
 * [pebble-zsh-completion ★11 ⏳1Y](Neal/pebble-zsh-completion) - completion script for [pebble](https://developer.getpebble.com/guides/publishing-tools/pebble-tool).
 * [racket completion ★3](racket/shell-completion) - Completion for [Racket](http://racket-lang.org).
@@ -496,7 +497,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [zsh-completions ★1597](zsh-users/zsh-completions) - A collection of extra completions for ZSH.
 * [zsh-ipfs ★3 ⏳1Y](aramboi/zsh-ipfs) - Completions for the [Interplanetary File System](https://ipfs.io).
 * [zsh-packer ★2](wakeful/zsh-packer) - Adds tab completion for packer.
-* [zsh-pandoc-completion ★6](srijanshetty/zsh-pandoc-completion) - Pandoc completion plugin.
+* [zsh-pandoc-completion ★6 ⏳1Y](srijanshetty/zsh-pandoc-completion) - Pandoc completion plugin.
 * [zsh-pip-completion ★10 ⏳2Y](srijanshetty/zsh-pip-completion) - Autocompletion plugin for pip.
 * [zsh-ssh-agent ★1](bobsoppe/zsh-ssh-agent) - Manage ssh-agent
 * [zsh.plugin.haxelib ★1](tong/zsh.plugin.haxelib) - Completions for haxelib.
@@ -516,7 +517,8 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [alien ★6](eendroroy/alien) - Powerline-esque Zsh theme that shows git branch and the exit code of the last command.
 * [alpharized ★6 ⏳2Y](NicoSantangelo/Alpharized) - Optimized to work with [solarized](http://ethanschoonover.com/solarized) dark. It's a modified version of the [avit theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/avit.zsh-theme).
 * [angry fly ★2 ⏳4Y](russjohnson/angry-fly-zsh) - Shows git information in right hand prompt.
-* [aplos](https://github.com/nostophilia/aplos) - minimal ZSH prompt with working directory, Git local info, Git remote info, time and exit code.
+* [aplos](https://github.com/nostophilia/aplos) - Minimal ZSH prompt with working directory, Git local info, Git remote info, time and exit code.
+* [asciigit ★0](cemsbr/asciigit) - An ASCII-only theme for git users who don't want to use fonts with extra glyphs.
 * [avit-d2k ★6 ⏳1Y](fdaciuk/avit-da2k) - Based on Avit, with small changes.
 * [bandit ★0](Holger-Will/zsh_bandit) - Another Powerline variant.
 * [bashi](https://github.com/eli-oat/bashi) - Optimized for Ahmet Sülek's [Flat UI Terminal Theme](https://github.com/ahmetsulek/flat-terminal) and Pasquale D'Silva's [Saturn Terminal Theme ★69 ⏳1Y](psql/saturn-colors).
@@ -606,7 +608,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [min ★4](andrepolischuk/min) - A minimalistic ZSH prompt.
 * [mindful-space ★2 ⏳2Y](syndbg/mindful-space-zsh-theme) - ZSH theme with space in mind.
 * [minimal ★47](S1cK94/minimal) - S1ck94's minimal theme.
-* [misa ★1 ⏳3Y](misalabs/misa.zsh-theme) - misalabs' zsh theme.
+* [misa ★1 ⏳3Y](misalabs/misa.zsh-theme) - Misalabs' zsh theme.
 * [mixed](https://github.com/dnavtoparts/mixed-zsh-theme) - Optimized for Dark Background.
 * [molokai-powerline-zsh ★5 ⏳1Y](prikhi/molokai-powerline-zsh) - Based on [agnoster](https://gist.github.com/agnoster/3712874).
 * [multi-shell-repo-prompt ★11 ⏳2Y](dotcode/multi-shell-repo-prompt) - Provides useful information (in your prompt) about the repository that you are in. It currently works for [Git](http://git-scm.com/) and [Mercurial](https://www.mercurial-scm.org/), under [zsh](http://en.wikipedia.org/wiki/Zsh) as well as [bash](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29).
@@ -653,7 +655,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [schminitz](https://gist.github.com/schminitz/9931af23bbb59e772eec) - Shows if Vim is running in the background when using `:sh` command.
 * [seeker ★43](tonyseek/oh-my-zsh-seeker-theme) - This theme uses many special unicode characters to be fancy, but it may cause some problems without well supported fonts.
 * [sepshell ★8](sepehr/sepshell) - Clean and minimal zsh theme based on the old lost taybalt theme.
-* [sfz ★0](mreinhardt/sfz-prompt.zsh) - an evolution of lean prompt which itself is a rewrite of pure.
+* [sfz ★0](mreinhardt/sfz-prompt.zsh) - An evolution of lean prompt which itself is a rewrite of pure.
 * [shellder ★129](simnalamburt/shellder) - Minimal theme with git branch display. Requires a powerline font.
 * [sinon ★0 ⏳2Y](k-kinzal/oh-my-zsh-sinon-theme) - k-kinzal's sinon theme.
 * [sk9-zsh ★0 ⏳2Y](skeiter9/sk9-zsh) - Skeiter9's zsh theme.
@@ -661,13 +663,14 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [slimline ★15](mgee/slimline) - Minimal, fast and elegant ZSH prompt. Displays the right information at the right time.
 * [smiley ★4 ⏳3Y](gsamokovarov/smiley.zsh-theme) - A prompt with happy and sad faces.
 * [solarized-powerline ★5](houjunchen/solarized-powerline) - Solarized powerline-style theme for zsh.
-* [solarizsh ★3 ⏳4Y](paddykontschak/Solarizsh) - Color fix for robbyrussell's oh-my-zsh theme to work with [Solarized](http://ethanschoonover.com/solarized).
+* [solarizsh ★3 ⏳5Y](paddykontschak/Solarizsh) - Color fix for robbyrussell's oh-my-zsh theme to work with [Solarized](http://ethanschoonover.com/solarized).
 * [spaceship ★844](denysdovhan/spaceship-zsh-theme) - A zsh theme with git, nvm, rvm/rbenv/chruby, python, ssh and other useful indicators.
 * [spowerline](https://mbauhardt.github.io/spowerline/) - Written in scala, inspired by agnoster, tmux powerline, vim powerline and the vim status plugin.
 * [staples ★0](dersam/staples) - based on bureau, displays user@host if connected through SSH.
 * [statusline ★34](el1t/statusline) - A responsive zsh theme that provides informational segments when you need them.
 * [sugarfree](https://github.com/cbrock/sugar-free) - Based on the [Pure ★3386](sindresorhus/pure) and [Candy](https://github.com/BinaryMuse/oh-my-zsh/blob/binarymuse/themes/candy.zsh-theme) themes.
 * [tahuri ★0 ⏳1Y](Tahuri/oh-my-zshel-theme-tahuri) - Zsh theme for Arch Linux.
+* [termuxer ★0](patrick330602/termuxer) - Theme inspired by agnoster and linuxer.
 * [the-time-lord ★0 ⏳2Y](jhwhite/the-time-lord) - A theme based on gallifrey.
 * [theme-line ★3](yw9381/oh-my-zsh_theme_line) - Colorful theme with Git status.
 * [trajan ★1 ⏳4Y](denisinla/trajan-zsh-theme) - A dark theme for ZSH.
@@ -675,7 +678,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [tvline ★2 ⏳2Y](thvitt/tvline) - Derived from [agnoster's theme](https://gist.github.com/agnoster/3712874), adds powerline font enhancements.
 * [ultimate](https://github.com/b4b4r07/ultimate) - Minimalist theme forked from [S1cK94/minimal ★47](S1cK94/minimal).
 * [vinhnx ★7 ⏳3Y](vinhnx/vinhnx.zsh-theme) - Modified from themes/mgutz.zsh-theme.Looks great when using with Solarized color scheme.
-* [wang-iterm-zsh ★5](0532/wang-iterm-zsh) - based on the 0532 theme.
+* [wang-iterm-zsh ★5](0532/wang-iterm-zsh) - Based on the 0532 theme.
 * [wild-cherry ★281](mashaal/wild-cherry) - A fairy-tale inspired theme for Zsh, iTerm, Sublime, Atom, & Mou.
 * [work-line ★4](afnizarnur/work-line) - Theme with nice emojis.
 * [xremix ★1 ⏳1Y](xremix/oh-my-zsh-xremix-theme) - An oh-my-zsh shell theme based on the Jreese theme plugin.
@@ -683,15 +686,15 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [yairshefi ★0](yaireclipse/yairshefi-ohmyzsh-theme) - Minimal theme with line separated prompts.
 * [ykmam](https://github.com/julienvanderkluft/ykmam-zsh-theme/blob/master/ykmam.zsh-theme) - Modified from ys theme. Optimized for a dark background.
 * [ys ★0](cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
-* [yuki ★1](yuki-torii/yuki-zsh-theme) - dark optimized ZSH theme.
+* [yuki ★1](yuki-torii/yuki-zsh-theme) - A dark optimized ZSH theme.
 * [z4rr3t ★1 ⏳2Y](inimicus/z4rr3t) - Based on sindresorhus' pure theme.
 * [zemm-blinks ★8 ⏳2Y](aranasaurus/zemm-blinks.zsh-theme) - Customized version of oh-my-zsh blinks with mercurial support and other changes.
 * [zero ★11 ⏳1Y](arlimus/zero.zsh) - Zero's theme & plugin.
 * [zeta ★42](skylerlee/zeta-zsh-theme) - Shows username, git information, machine name, current working directory.
-* [zsh-blackrain ★4](ginfuru/zsh-blackrain) - git-aware theme.
+* [zsh-blackrain ★4](ginfuru/zsh-blackrain) - Another git-aware theme.
 * [zsh-megaprompt](https://github.com/willghatch/zsh-megaprompt) - A maximalist prompt including keyboard mode, ownership info, and other contextual info, with λ as the prompt character. Requires the [hooks ★14 ⏳1Y](willghatch/zsh-hooks) plugin.
 * [zsh-prompt-powerline ★46 ⏳1Y](Valodim/zsh-prompt-powerline) - A fairly heavyweight zsh prompt, based on the powerline font from the popular eponymous vim plugin, which works well for a dark background.
-* [zsh-theme-nerdish ★2](nyarla/zsh-theme-nerdish) - prompt theme for zsh with Nerd Fonts.
+* [zsh-theme-nerdish ★2](nyarla/zsh-theme-nerdish) - A prompt theme for zsh with Nerd Fonts.
 * [zsh2000](https://github.com/maverick2000/zsh2000) - Powerline looking ZSH theme with rvm prompt, git status and branch, current time, user, hostname, pwd, exit status, root and background job status.
 * [zshcomrade ★4 ⏳4Y](landongn/zshcomrade) - A ZSH theme, comrade!
 * [zwsh ★0](naens/zwsh) - A Zpm3/Wordstar mode/theme for zsh
@@ -728,7 +731,7 @@ Most of these plugins can be installed by adding `antigen bundle githubuser/repo
 2. `git clone repo`
 3. Add the repo to your plugin list
 
-### [Prezto](https://github.com/zsh-users/prezto)
+### [Prezto ★7609](sorin-ionescu/prezto)
 
 1. Clone the plugin into your prezto modules directory
 2. Add the plugin to your `.zpreztorc` file

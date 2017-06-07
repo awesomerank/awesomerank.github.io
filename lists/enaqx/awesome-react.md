@@ -637,7 +637,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-mapbox-gl - A mapbox-gl-js wrapper to make the API react friendly ★297](alex3165/react-mapbox-gl)
 
 ##### Charts
-* [react-d3 - Modular React charts made with d3.js ★1587](esbullington/react-d3)
+* [react-d3 - Modular React charts made with d3.js ★1587 ⏳1Y](esbullington/react-d3)
 * [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
 * [react-stockcharts - Highly customizable stock charts with ReactJS and d3 ★728](rrag/react-stockcharts)
 * [VictoryJS - A collection of composable React components for building interactive data visualizations ★4322](FormidableLabs/victory)

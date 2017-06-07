@@ -76,7 +76,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 simplecharts](https://wordpress.org/plugins/d3-simplecharts/) - A d3 wordpress plugin
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
 - [n3-charts](http://n3-charts.github.io/line-chart/#/) - Charts for Angular
-- [react-d3 ★1587](esbullington/react-d3) - Charts for React
+- [react-d3 ★1587 ⏳1Y](esbullington/react-d3) - Charts for React
 - [react-d3-components ★1211](codesuki/react-d3-components) - D3 Components
 - [react-d3-library](http://react-d3-library.github.io/) - Library that allows developers the ability to use D3 in React
 - [react-stockcharts](http://rrag.github.io/react-stockcharts) - Highly customizable stock charts

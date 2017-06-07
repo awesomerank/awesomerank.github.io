@@ -225,7 +225,7 @@ Ranked awesome lists, all in one place
 - [VueJS 2 French tutorial](https://www.youtube.com/playlist?list=PLjwdMgw5TTLW-mAtlR46VajrKs4dep3y0) Français par Grafikart
 - [Jayway Vue.js 2 workshop. Build an e-commerce site with vue-router, vuex and vue-resource ★164](jayway/vue-js-workshop)
 - [How to Create Great VueJS Applications Using Wijmo Controls](http://wijmo.com/blog/how-to-create-great-vuejs-applications-using-wijmo-controls/)
-- [**讲解Vue.js 2 官网 中文-含代码、百度云、youtube **](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
+- [**讲解Vue.js 2 官网 中文-含代码、百度云、youtube**](https://github.com/bhnddowinf/vuejs2-learn) on bhnddowinf
 - [Vue.js Cheatsheet: Server-side Applications, Router, Vuex Store, GraphQL and more](https://www.gitbook.com/book/xpepermint/vue-js-cheatsheet/details) by [@xpepermint](https://twitter.com/kristijansedlak)
 - [Medium like Image Loading with Vue.js](https://www.theodo.fr/blog/2016/10/medium-like-image-loading-with-vue-js/)
 - [How to Use Vuex in a Laravel Spark Project](https://metricloop.com/blog/how-to-use-vuex-in-a-laravel-spark-project) on [Metric Loop](https://metricloop.com/blog)
@@ -257,7 +257,9 @@ Ranked awesome lists, all in one place
 - [Vue JS 2 Tutorials](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gQcYgjhBoeQH7wiAyZNrYa) on Youtube by [The Net Ninja](https://www.thenetninja.co.uk)
 - [Add a headless CMS to VueJs in 5 Minutes](https://www.storyblok.com/tp/add-a-headless-CMS-to-vuejs-in-5-minutes)
 - [vue 架构中的 Watcher](https://github.com/dengwanc/dengwanc.github.io/issues/11)
-
+- [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
+- [5 Practical Examples For Learning Vue.js](http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/)
+- [Migrating from KnockoutJS to VueJS](https://jes.al/2017/05/migrating-from-knockoutjs-to-vuejs/) by [@jesalg](https://twitter.com/jesalg)
 
 ### Examples
 
@@ -321,6 +323,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vuexpresso ★15](Ethaan/vuexpresso) - A boilerplate using VueX, Vue-Router, Vue-Apollo, webpack, GraphQL, Apollo-client, express and mongo
   - [Vue.js with Sails.js backend example project ★7](ndabAP/Vue.js-with-Sails.js-backend-example-project) - This project is for those who are new to single-page applications and want to learn through a real example.
   - [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
+  - [vue-feathers-chat ★8](ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
 
 ### Books
 
@@ -384,6 +387,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [npm-stats ★25](apertureless/npm-stats) - npm package download statistics dashboard
   - [vue2-admin-lte ★129](devjin0617/vue2-admin-lte) - a project that converts AdminLTE to work with Vuejs (v2.x).
 - [Dockeron ★17](dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
+- [Flamme ★13](alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
 
 
 
@@ -457,6 +461,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.
   - [Winsome Trivia](https://splode.github.io/trivia/) - A single or multiplayer trivia game featuring over 2,000 unique questions built with Vue.js and powered by the Open Trivia Database.
   - [Moon Organizer](https://moonorganizer.com/calendar/) - Lunar calendar app
+  - [Flash-Vue](https://flash-vue.com) - ‘Flashcards of the Future’ bring learning everywhere :rocket:
+  - [Kinderbesteck](https://www.kinderbesteck-gravur.de/) - A full Online Shop SPA with Vue2.0, Vuex, Vue Router
 
 ### Interactive Experiences
 
@@ -594,6 +600,7 @@ Tooltips / popovers
  - [vue-flickity ★89](drewjbartlett/vue-flickity) - A Vue Component for Flickity.js.
  - [vue-carousel-3d ★160](wlada/vue-carousel-3d) - Vue Carousel 3D - Beautiful, flexible and touch supported 3D Carousel for Vue.js.
  - [vue-carousel ★117](SSENSE/vue-carousel) - A flexible, responsive, touch-friendly carousel for Vue.js.
+ - [vue-coverflow ★16](OrangeXC/vue-coverflow) - A vue2.x coverflow component.
 
 ### Charts
 
@@ -691,7 +698,7 @@ Tooltips / popovers
  - [vue-truncate-collapsed ★5](kavalcante/vue-truncate-collapsed) - A simple component that truncates your text and adds a 'Read More/Show Less' clickable for Vue.js 2.x
  - [vue-kanban ★52](BrockReece/vue-kanban) - A flexible drag and drop kanban board component
  - [vue-letter-avatar ★0](aidewoode/vue-letter-avatar) - A simple and elegant letter avatar component for vue.js
-
+ - [vue-highlightjs ★22](metachris/vue-highlightjs) - Syntax highlighting with highlight.js
 
 
 ### Tabs
@@ -734,6 +741,7 @@ Tooltips / popovers
 
  - [vue-instant ★138](santiblanko/vue-instant) - Vue instant allows you to easily create custom search controls with auto suggestions for your vue 2 applications.
  - [v-autocomplete ★33](paliari/v-autocomplete) - Autocomplete component for Vue.js
+ - [vue-awesomplete ★2](sandi-racy/vue-awesomplete) - Vue wrapper for Awesomplete
 
 #### Type Select
 
@@ -791,6 +799,7 @@ Tooltips / popovers
 #### Context Menu
 
  - [vue-context-menu ★51](vmaimone/vue-context-menu) - A context menu component for vue js.
+ - [vue-lil-context-menu ★1](timwis/vue-lil-context-menu) - A flexible lil context menu component for Vue.
 
 #### Miscellaneous
 
@@ -829,6 +838,7 @@ Tooltips / popovers
  - [vue-fraction-grid ★28](bkzl/vue-fraction-grid) - Flexbox based responsive fraction grid system for Vue.js.
  - [vue-virtual-scroll-list ★49](tangbc/vue-virtual-scroll-list) - A vue (2.x) component support big data by using virtual scroll list.
  - [vue-virtual-scroller ★224](Akryum/vue-virtual-scroller) - Component to scroll a large amount of elements efficiently (Vue 2.x).
+ - [vue-virtualscroll ★2](ddgll/vue-virtualscroll) - [Vue 2.x] component to virtual scroll things.
 
 
 
@@ -947,6 +957,10 @@ Tooltips / popovers
 
 - [vue-scrollview ★8](chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
 
+*Customize the scroll behavior*
+
+- [vue-scroll-behavior ★2](jeneser/vue-scroll-behavior) - Customize the scroll behavior on route navigation. Especially hash mode.
+
 ### Routing
 
  - [vue-router ★5627](vuejs/vue-router) - The official router for Vue.js.
@@ -1059,6 +1073,7 @@ Tooltips / popovers
  - [vue-localstorage ★84](pinguinjkeke/vue-local-storage) - Vue.js localStorage plugin with types support.
  - [vue-ls ★45](RobinCK/vue-ls) - Vue plugin for work with LocalStorage from Vue context.
  - [vue-pouch](https://github.com/qurateinc/vue-pouch) - Live and reactive bindings for PouchDB. Persist data in IndexedDB and sync with CouchDB.
+ - [vue-idb ★2](ddgll/vue-idb) - Lists and huge lists managment with IndexedDB (Dexie.js) only or automaticly created and extendible vuex modules
 
 ### State Management
 
@@ -1119,6 +1134,7 @@ Tooltips / popovers
  - [vue-brunch ★54](nblackburn/vue-brunch) - Adds support to Brunch for pre-compiling single file Vue components.
  - [poi ★942](egoist/poi) - Start writing an app with a single .js file, Poi could handle all the development setups for you, no more configuration hell.
  - [http-vue-loader ★80](FranckFreiburger/http-vue-loader) - Load .vue files directly from your html/js without node.js environment nor build step.
+ - [vue-jsx-hot-loader ★8](skyrpex/vue-jsx-hot-loader) - Enable HMR for Vue.js components with JSX render functions.
 
 ### Page Navigation
 
@@ -1200,7 +1216,7 @@ Tooltips / popovers
  - [vue-styleguide-generator ★85](shershen08/vue-styleguide-generator) - React inspired style guide generator for Vue.js.
  - [CheatSheet](https://vuejs-tips.github.io/cheatsheet) - Complete Interactive API.
  - [propdoc ★20](propellant/doctor) - A single component that provides simple documentation of Vue.js components/props.
-
+ - [Vuex CheatSheet](https://vuejs-tips.github.io/vuex-cheatsheet) - Complete Interactive Vuex API.
 ### Test
 
  - [avoriaz ★285](eddyerburgh/avoriaz) - A Vue.js testing utility library.
@@ -1271,6 +1287,7 @@ Tooltips / popovers
 
  - [vue-cli ★5064](vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects.
  - [Vue-Django ★120](NdagiStanley/vue-django) - A boilerplate to set you up in bringing the awesomeness of VueJS into a Django (Python) app.
+ - [python-vuejs ★4](cstrap/python-vuejs) - Gluing Python web frameworks and Vue.js with a set of scripts. Basically a `vue-cli` wrapper.
 
 ### Client
 

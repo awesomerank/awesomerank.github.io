@@ -32,6 +32,7 @@ For more terminal shell goodness, please also see this list's sister list [Aweso
     - [Safari](#safari)
     - [Sketch](#sketch)
     - [Skim](#skim)
+    - [Terminal](#terminal)
     - [TextEdit](#textedit)
 - [Backup](#backup)
     - [Time Machine](#time-machine)
@@ -163,6 +164,29 @@ defaults write com.apple.appstore ShowDebugMenu -bool false
 
 ### Apple Remote Desktop
 
+#### Kickstart Manual Pages
+```bash
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -help
+```
+
+#### Activate And Deactivate the ARD Agent and Helper
+```bash
+# Activate And Restart the ARD Agent and Helper
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate -restart -agent -console
+
+# Deactivate and Stop the Remote Management Service
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate -stop 
+```
+
+#### Enable and Disable Remote Desktop Sharing
+```bash
+# Allow Access for All Users and Give All Users Full Access
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -configure -allowAccessFor -allUsers -privs -all
+
+# Disable ARD Agent and Remove Access Privileges for All Users
+sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -deactivate -configure -access -off
+```
+
 #### Remove Apple Remote Desktop Settings
 ```bash
 sudo rm -rf /var/db/RemoteManagement ; \
@@ -270,6 +294,16 @@ defaults write com.bohemiancoding.sketch3 exportCompactSVG -bool yes
 Removes the dialog and defaults to auto reload.
 ```bash
 defaults write -app Skim SKAutoReloadFileUpdate -boolean true
+```
+### Terminal
+
+#### Focus Follows Mouse
+```bash
+# Enable
+defaults write com.apple.Terminal FocusFollowsMouse -string YES
+
+# Disable
+defaults write com.apple.Terminal FocusFollowsMouse -string NO
 ```
 
 ### TextEdit
@@ -524,15 +558,6 @@ hdiutil detach /dev/disk2s1
 Like the Disk Utility "Restore" function.
 ```bash
 sudo asr -restore -noverify -source /path/to/diskimage.dmg -target /Volumes/VolumeToRestoreTo
-```
-
-
-## Documents
-
-#### Convert File to HTML
-Supported formats are plain text, rich text (rtf) and Microsoft Word (doc/docx).
-```bash
-textutil -convert html file.ext
 ```
 
 
@@ -1653,7 +1678,7 @@ tput bel
 ### Shells
 
 #### Bash
-Install the latest version and set as current users' default shell:
+Install the latest version and set as current user's default shell:
 ```bash
 brew install bash && \
 echo $(brew --prefix)/bin/bash | sudo tee -a /etc/shells && \
@@ -1664,7 +1689,7 @@ chsh -s $(brew --prefix)/bin/bash
 - [Bash-it ★6230](Bash-it/bash-it) - Community Bash framework, like Oh My Zsh for Bash.
 
 #### fish
-Install the latest version and set as current users' default shell:
+Install the latest version and set as current user's default shell:
 ```bash
 brew install fish && \
 echo $(brew --prefix)/bin/fish | sudo tee -a /etc/shells && \
@@ -1678,7 +1703,7 @@ shell for OS X, Linux, and the rest of the family.
 - [Installation & Configuration Tutorial ★65](ellerbrock/fish-shell-setup-osx) - How to Setup Fish Shell with Fisherman, Powerline Fonts, iTerm2 and Budspencer Theme on OS X.
 
 #### Zsh
-Install the latest version and set as current users' default shell:
+Install the latest version and set as current user's default shell:
 ```bash
 brew install zsh && \
 sudo sh -c 'echo $(brew --prefix)/bin/zsh >> /etc/shells' && \

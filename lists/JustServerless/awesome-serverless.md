@@ -9,7 +9,7 @@ Ranked awesome lists, all in one place
 
 [<img src="https://rawgit.com/justserverless/awesome-serverless/master/logo_serverless.png" align="right" width="100">](http://serverless.com)
 
-> A curated list of resources regarding the [Serverless framework](https://serverless.com) (formerly JAWS) and the serverless architecture.
+> A curated list of resources regarding the [Serverless Framework](https://serverless.com) (formerly JAWS) and the serverless architecture.
 
 *Inspired by the [awesome ★59088](sindresorhus/awesome) list project.*
 
@@ -60,6 +60,8 @@ Ranked awesome lists, all in one place
 - [Serverless Weekly](https://serverless.email) - A weekly newsletter about serverless architectures and paradigms.
 - [Serverless stackshare.io](https://stackshare.io/serverless/in-stacks) - Serverless users and their stacks.
 - [Serverless working group ★3](cncf/wg-serverless) - CNCF serverless working group.
+- [Emit Conference](http://www.emitconference.com) - The conference on event-driven architectures.
+- [JeffConf](https://www.jeffconf.com) - Conference focused on serverless architectures.
 
 ## Blogs
 
@@ -511,6 +513,28 @@ Ranked awesome lists, all in one place
 - [What’s the community saying about serverless?](https://read.acloud.guru/whats-the-community-saying-about-serverless-e733208ddd6d) - The 5 top blog post written by the community, for the community.
 - [What is Firebase?](https://cloudacademy.com/blog/what-is-firebase-serverless-for-mobile-developers/) - Post which explains Firebase - Serverless for mobile developers.
 - [Going serverless with Lambdas](http://blog.stack.foundation/2017/05/29/going-serverless-with-lambdas/) - Blog post series about StackFoundations move to a serverless architecture.
+- [Serverless server-side rendering with React](https://hackernoon.com/serverless-server-side-rendering-with-react-using-redux-or-mobx-ce32a121ce08) - Tutorial on how to do serverless server-side rendering with React using Redux or MobX.
+- [Scaphold, GraphQL, Serverless, Relay, & Apollo](https://scaphold.io/community/blog/scaphold-graphql-serverless-relay-apollo/) - How Scaphold, GraphQL, Serverless, Relay, & Apollo work together.
+- [Kubeless UI alpha](https://medium.com/bitnami-perspectives/kubeless-ui-now-in-alpha-3364f9a4cbed) - Post introducing the Alpha release of the Kubeless UI.
+- [Serverless Kubeles plugin announcement](https://medium.com/bitnami-perspectives/a-serverless-plugin-for-kubeless-64cd0f7e4f62) - Announcement blog post for the Serverless kubeless provider plugin.
+- [Event routers: the missing serverless service](https://medium.com/@PaulDJohnston/event-routers-the-missing-serverless-service-9ed51b14f25) - Post which discusses the idea of an event routing system for serverless applications.
+- [A vision for loosely-coupled and high-performance serverless architecture](https://read.acloud.guru/a-vision-for-loosely-coupled-high-performance-serverless-architecture-f35c1fd68e9d) - Post which discusses the key missing pieces for a loosely coupled and high performant serverless architecture.
+- [Service Discovery as a Service](https://read.acloud.guru/service-discovery-as-a-service-the-missing-serverless-lynchpin-541d001466f4) - Part 1 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
+- [Server-less eats the infrastructure](https://medium.com/@chakrabartis/server-less-eats-the-infrastructure-2a3d0ef66363) - How serverless will change the cloud infrastructure game.
+- [DynamoDB autoscaling](https://www.trek10.com/blog/dynamodb-autoscaling-open-source/) - Post about a serverless project which scales DynamoDB automagically.
+- [Event sourcing at Nordstrom](https://read.acloud.guru/serverless-event-sourcing-at-nordstrom-ea69bd8fb7cc) - Blog post about the "Hello, Retail!" project from Nordstrom.
+- [Serverless isn’t about cost savings, it’s about At-Bats](https://thenewstack.io/serverless-isnt-cost-savings-bats/) - Why and how serverless architectures are a perfect fit for agile software practices.
+- [Deploying bots using the Serverless Framework](https://www.microsoft.com/reallifecode/2017/06/01/deploying-bots-using-the-serverless-framework/) - How to build a Microsoft Bot Framework powered bot and deploy it with the Serverless Framework.
+- [IBM serverless journeys](https://developer.ibm.com/code/journey/category/serverless-computing/) - IBM blog posts regarding serverless solutions for real world use-cases.
+- [Realm adds serverless functionality](https://adtmag.com/articles/2017/05/31/realm-functions.aspx) - Post which discusses the recently announced Realm Functions FaaS offering.
+- [Aqueduct - a serverless ETL pipeline](https://www.zocdoc.com/about/blog/tech/aqueduct-serverless-etl-pipeline/) - How Zocdoc uses serverless to streamline their ETL processes.
+- [“Serverless and the the death of devops”. Can you not?](http://redmonk.com/jgovernor/2017/06/02/serverless-and-the-the-death-of-devops-can-you-not/) - Post which outlines why serverless computing is not the death of DevOps.
+- [May Wrap-up - Jax Conference and serverless book](http://blog.n-k.de/2017/06/may-wrapup-jax-serverless-book.html) - Wrap-up post by Niko Köbler about the Jax Conference, his talks and workshops on serverless computing and the progress on the serverless book.
+- [Serverless: Background, challenges and the future](https://dzone.com/articles/serverless-background-challenges-and-future-1) - Post which outlines the history and evolvement of serverless computing.
+- [DevOps use-cases with Serverless Variables](https://serverless.com/blog/devops-serverless-variables/) - How developers use the Serverless Variables system to enhance their DevOps experience.
+- [What comes after SaaS?](https://hackernoon.com/what-comes-after-saas-1f71ec40de45) - Thoughts about the evolution of the cloud and future use-cases where serverless can fit in (and might replace SaaS).
+- [Announcing JeffConf](https://serverless.zone/announcing-jeffconf-london-2017-49af72bf5284) - Announcement blog post which describes the motivation behind the JeffConf conference.
+- [Recurring payments with Stripe and AWS Lambda](http://normal-extensions.com/2017/05/05/simple-recurring/) - Tutorial on how to create dirty cheap recurring serverless payments with AWS Lambda and Stripe.
 
 ## Screencasts
 
@@ -641,6 +665,10 @@ Ranked awesome lists, all in one place
 - [A day in the life of an Azure serverless developer](https://channel9.msdn.com/Events/Build/2017/T6003) - Talk about a day of an Azure serverless developer.
 - [From dedicated to serverless](https://vimeo.com/219025716) - Manuel Schweizers talk about the transition from dedicated servers to serverless computing.
 - [New serverless world](https://www.slideshare.net/HaufeDev/new-serverless-world-cloud-native-apps-76366858) - Slide deck about the history of serverless computing and what it exactly is.
+- [8 1-2 things about serverless](https://speakerdeck.com/slobodan/8-1-2-things-about-serverless-with-node-dot-js-holyjs-piter-2017) - Slide deck about the talk on the history and characteristics of serverless architectures.
+- [Fun with serverless JavaScript](https://speakerdeck.com/lornajane/fun-with-serverless-javascript) - Slide deck from the talk about "Some Amazon Lambda, some Apache OpenWhisk and a little bit of Alexa mixed in".
+- [Serverless, the enterprise and making simple things simpler](https://www.cloudtp.com/doppler/serverless-enterprise-making-simple-things-simpler/) - Podcast which discusses the foundational traits of serverless computing, including scaling and provisioning, cost precision, high availability and more.
+- [From Rails to serverless](https://pivorak.com/talks/from-rails-to-serverless-via-ddd-and-microservices) - Andrzej Krzywdas talk about the journey from Rails to serverless.
 
 ## Amazon AWS resources
 
@@ -866,6 +894,7 @@ Ranked awesome lists, all in one place
 - [Odin ★1](manwaring/odin) - Periodically checks the status of CloudFormation stacks in your AWS environment and sends the stale ones to Valhalla.
 - [AWS alias example ★3](HyperBrain/serverless-aws-alias-example) - Example project for the Serverless alias plugin.
 - [Boilerplate ★3](frangeris/serverless-boilerplate) - Boilerplate to create RESTful APIs with serverless architectures on AWS.
+- [Whim bot ★1](maasglobal/whim-bot) - Microsoft Bot Framewok powered serverless bot.
 
 ## Related projects
 
@@ -922,6 +951,7 @@ Ranked awesome lists, all in one place
 - [OpenWhisk Slackapp ★14](IBM-Bluemix/openwhisk-slackapp) - Slack app built with Slack Events API and IBM Bluemix OpenWhisk.
 - [Moleculer ★49](ice-services/moleculer) - Fast & powerful microservices framework for Node.js.
 - [Serverless Architectures on AWS code ★15](sbarski/serverless-architectures-aws) - The code repository for the Serverless Architectures on AWS book.
+- [Lambdacult](https://lambdacult.com) - Services on top of AWS Lambda.
 
 ## Plugins
 
@@ -1042,6 +1072,10 @@ Ranked awesome lists, all in one place
 - [Encrypted ★1](nalbion/serverless-plugin-encrypted) - Encrypts Lambda environment variables using a KMS key.
 - [Localstack ★3](temyers/serverless-localstack) - Plugin for running against Atalssian Localstack.
 - [Purdyrest](https://www.npmjs.com/package/serverless-purdyrest) - Use Purdyrest with the Serverless Framework.
+- [S3 upload ★2](telerik/serverless-s3-upload) - Uploads files / folders to an AWS S3 bucket.
+- [WSGI export env ★1](phil-hachey/serverless-wsgi-export-env) - WSGI export env plugin.
+- [Webpack ★2](sandfox/serverless-webpack-plugin) - Fork of the `serverless-webpack` plugin with some bugfixes and enhancements.
+- [Eventuate AWS Gateway ★1](eventuate-clients/eventuate-aws-gateway-serverless-plugin) - Plugin for the [Eventuate](http://eventuate.io) AWS Gateway.
 
 ## Literature
 

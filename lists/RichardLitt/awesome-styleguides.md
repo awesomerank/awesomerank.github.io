@@ -61,7 +61,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@Saijo_George](https://twitter.com/Saijo_George).
 * [Narkoz ★1284](narkoz/guides)
 * [paulmillr ★162 ⏳3Y](paulmillr/code-style-guides)
-* [SalGnt ★1423](SalGnt/cscs)
+* [SalGnt ★1423 ⏳1Y](SalGnt/cscs)
 * [Styleguides.io ★486](maban/styleguides)
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides)
 
@@ -137,7 +137,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Google](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
 ### jQuery
-* [Pragmatic jQuery ★123 ⏳2Y](yuanyan/pragmatic-jquery)
+* [Pragmatic jQuery ★123 ⏳3Y](yuanyan/pragmatic-jquery)
 
 ### Modules
 * [mattdesl ★873 ⏳1Y](mattdesl/module-best-practices)
@@ -191,7 +191,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ## Swift
 * [GitHub ★4083](github/swift-style-guide)
 * [raywenderlich ★7126](raywenderlich/swift-style-guide)
-* [SlideShareInc ★90](SlideShareInc/swift-style-guide)
+* [SlideShareInc ★90 ⏳1Y](SlideShareInc/swift-style-guide)
 
 # Non-Code
 

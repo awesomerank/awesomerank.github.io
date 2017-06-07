@@ -32,6 +32,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Canonical](https://github.com/gajus/eslint-config-canonical) – Shareable config for [Canonical style guide ★13](gajus/canonical)
 - [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) - Shareable config for ESLint's default settings
 - [ES ★3](thenativeweb/eslint-config-es) - Shareable config for very strict code
+- [Facebook](https://www.npmjs.com/package/eslint-config-fbjs) - Sharable config for Facebook's style guide.
 - [Google ★547](google/eslint-config-google) - Shareable config for the [Google style](http://google.github.io/styleguide/javascriptguide.xml)
 - [Shopify](https://github.com/Shopify/eslint-plugin-shopify) - Shareable config for [Shopify's style guide ★118](Shopify/javascript)
 - [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style ★11789](feross/standard)
@@ -79,6 +80,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Markdown ★92](eslint/eslint-plugin-markdown) - Linting JavaScript in Markdown
 - [Node ★165](mysticatea/eslint-plugin-node) - Linting rules for Node.js (checking importing paths, ES syntax, ...)
 - [Optimize Regex ★5](BrainMaestro/eslint-plugin-optimize-regex) - Optimize regex literals
+- [SQL ★6](gajus/eslint-plugin-sql) – SQL linting rules for ESLint
 - [TypeLint](https://github.com/yarax/typelint) - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors
 - [unicorn ★141](sindresorhus/eslint-plugin-unicorn) - Various awesome ESLint rules
 - [ESLint Comments ★19](mysticatea/eslint-plugin-eslint-comments) - Best practices about ESLint directive comments (`/*eslint-disable*/`, etc...)

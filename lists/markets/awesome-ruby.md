@@ -855,7 +855,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Peek ★2683](peek/peek) - Visual status bar showing Rails performance.
 * [perftools.rb ★1020](tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code.
 * [rack-mini-profiler ★2184](MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
-* [Rbkit ★374](code-mancers/rbkit) - profiler for Ruby. With a GUI.
+* [Rbkit ★374 ⏳1Y](code-mancers/rbkit) - profiler for Ruby. With a GUI.
 * [ruby-prof ★1347](ruby-prof/ruby-prof) - A code profiler for MRI rubies.
 
 ## Queue
@@ -905,7 +905,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Scientific
 
 * Artificial intelligence
-  * [AI4R ★672](sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
+  * [AI4R ★672 ⏳1Y](sergiofierens/ai4r) - Algorithms covering several Artificial intelligence fields.
   * [ruby-fann ★308 ⏳1Y](tangledpath/ruby-fann) - Ruby library for interfacing with FANN (Fast Artificial Neural Network).
 * Bindings
   * [ruby-opencv ★660](ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.

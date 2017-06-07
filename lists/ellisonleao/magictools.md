@@ -201,7 +201,7 @@ Code
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
 * [Bladecoder ★124](bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
 * [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
-* [Chipmunk C# ★32 ⏳1Y](netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
+* [Chipmunk C# ★32 ⏳2Y](netonjm/ChipmunkSharp) - C# implementation of the Chipmunk2D lib.
 * [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 * [Cocos2D ★361](los-cocos/cocos) - graphic library for games and multimedia, for python language
 * [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
@@ -383,6 +383,7 @@ Must see
 * [Lost Garden](http://www.lostgarden.com/)
 * [Polygon](http://www.polygon.com/)
 * [Real-Time Rendering](http://www.realtimerendering.com/)
+* [Slidedb](http://www.slidedb.com/) - On Slide DB we give developers a community they can share their ideas with and showcase the work they are doing, beyond the basic app stores and the highly contested "top charts".
 * [Superlevel](https://superlevel.de/)
 * [TIGSource](http://www.tigsource.com/)
 * [TruePCGaming](http://truepcgaming.com/)

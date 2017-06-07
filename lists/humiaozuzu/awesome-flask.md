@@ -50,10 +50,10 @@ Resources
     - [GuitarFan ★33 ⏳2Y](lowrain/GuitarFan) - guitar tab
     - [June ★1016 ⏳2Y](pythoncn/june) - ~~python-china.org~~
     - [Zerqu ★133](lepture/zerqu) - ZERQU is a content-focused API-based platform. eg: [Python-China](https://python-china.org)
-    - [motiky ★32 ⏳3Y](notedit/motiky)
+    - [motiky ★32 ⏳4Y](notedit/motiky)
     - [missing ★7 ⏳4Y](notedit/missing) - a list service called missing
     - [thenewsmeme.com ★72 ⏳6Y](danjac/newsmeme)
-    - [overholt ★1258](mattupstate/overholt) - Example Flask application illustrating common practices
+    - [overholt ★1258 ⏳1Y](mattupstate/overholt) - Example Flask application illustrating common practices
     - [pypress ★500](laoqiu/pypress) - flask team blog
     - [thepast.me ★739 ⏳1Y](laiwei/thepast)
     - [redispapa ★348](no13bus/redispapa) - another redis monitor by using flask, angular, socket.io
@@ -169,7 +169,7 @@ Plugins
     - [Flask-Analytics ★19 ⏳5Y](srounet/Flask-Analytics) - A Flask extention that provide user navigation tracking
     - [Flask-StatHat ★8 ⏳2Y](marksteve/flask-stathat) - StatHat extension for Flask
     - [scales ★905](Cue/scales) - Metrics for Python
-    - [flask-tracking ★31](closeio/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
+    - [flask-tracking ★31 ⏳1Y](closeio/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
     - [Flask-Analytics ★38](citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework.
 - Other SDK
     - [Flask-GoogleMaps ★303](rochacbruno/Flask-GoogleMaps) - Build and embed google maps in our Flask templates

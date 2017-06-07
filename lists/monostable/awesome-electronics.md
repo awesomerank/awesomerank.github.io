@@ -60,6 +60,7 @@ This list is for websites, services, software, tools and more: everything that y
 - [Gerblook](http://gerblook.org/) - Online Gerber viewer powered by Gerbv.
 - [Mayhew Labs 3dpcb](http://mayhewlabs.com/3dpcb) - 3D Gerber viewer.
 - [EasyEDA Gerber Viewer](https://gerber-viewer.easyeda.com/) - Gerber viewer and design for manufacture test.
+- [CircuitPeople](http://circuitpeople.com/) - No frills 2D layer viewer for Gerbers, without the excessive processing.
 
 ### Installable
 - [Gerbv](http://gerbv.geda-project.org/) - Excellent Gerber viewer for Linux and BSD.
@@ -120,8 +121,10 @@ This list is for websites, services, software, tools and more: everything that y
 - [Tindie](https://www.tindie.com) - Marketplace for electronics makers to sell low volume batches of their own designs.
 
 ## Blogs
-- [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking.
+- [Hackaday](https://hackaday.com) - Probably the most popular blog covering electronics and hardware hacking with a whole staff of writers.
 - [bunniestudios.com](https://www.bunniestudios.com) - Andrew 'Bunnie' Huang covers hardware hacking, open hardware, manufacturing and more.
+- [Bald Engineer](https://www.baldengineer.com) - Project logs, tutorials and articles about electronics and embedded software by James Lewis.
+- [Rheingold Heavy](https://rheingoldheavy.com) - More project logs, tutorials and articles about electronics and embedded software, these ones by Dan Hienzsch.
 
 ## Forums
 
@@ -168,8 +171,8 @@ This list is for websites, services, software, tools and more: everything that y
 
 ## Other Lists
 
-- [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) 
-- [intaja/open-electronics ★5](intajay/open-electronics)
+- [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available. 
+- [intaja/open-electronics ★5](intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers
 ---
 <p align="center">
 	This list is a copy of <a href="monostable/awesome-electronics">monostable/awesome-electronics</a> with ranks

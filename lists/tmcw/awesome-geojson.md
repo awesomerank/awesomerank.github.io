@@ -75,6 +75,7 @@ GeoJSON utilities that will make your life easier.
 * [supercluster ★300](mapbox/supercluster): A fast GeoJSON clustering library for browsers and Node.
 * [rfc7946-to-d3](https://github.com/tyrasd/rfc7946-to-d3): Converts polygon winding order between rfc7946 and [d3 compatible ★173](d3/d3-geo#d3-geo) conventions.
 * [geojson-svgify ★2](juliuste/geojson-svgify): Convert GeoJSON geometry paths to SVG polyline elements.
+* [geojson-to-svg-cli ★1](derhuerst/geojson-to-svg-cli): Command line tool to convert GeoJSON to SVG.
 
 ### data
 

@@ -30,7 +30,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 
 
 ## [Solidus e-commerce ★1382](solidusio/solidus) + Refinery extensions
-* [solidus-refinery-authentication ★6](refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery
+* [solidus-refinery-authentication ★6 ⏳1Y](refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery
 
 ## [Spree e-commerce ★8425](spree/spree) + Refinery extensions
 * [spree_refinery_resources ★1 ⏳1Y](bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product

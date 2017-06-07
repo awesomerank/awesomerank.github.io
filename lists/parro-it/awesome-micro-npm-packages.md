@@ -108,7 +108,7 @@ Ranked awesome lists, all in one place
 
 ### Stream
 * [through2 ★1105](rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
-* [through2-filter ★18 ⏳1Y](brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
+* [through2-filter ★18 ⏳2Y](brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
 * [through2-map ★52](brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams.
 * [stream-spigot ★15](brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams.
 * [concat-stream ★403](maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.

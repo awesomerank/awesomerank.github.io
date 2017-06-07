@@ -104,7 +104,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
   * [gbench ★23 ⏳2Y](gperfutils/gbench) - The benchmarking module for Groovy
 
 ## File System Utilities
-* [Groovy-Vfs ★53](ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
+* [Groovy-Vfs ★53 ⏳1Y](ysb33r/groovy-vfs) - A DSL for Groovy on top of Apache VFS2
 * [Directree ★8](kdabir/directree) - A Simple DSL to create Directory Tree with Text Files
 
 ## File Format DSL

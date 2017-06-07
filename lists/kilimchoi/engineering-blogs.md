@@ -209,6 +209,7 @@ Ranked awesome lists, all in one place
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/category/ocaml/
+* JobTeaser https://medium.com/jobteaser-dev-team/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat http://tech.just-eat.com/
 * Jet Technology https://tech.jet.com/

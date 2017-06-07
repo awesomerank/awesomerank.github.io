@@ -96,7 +96,7 @@ Dynamic Analysis Tools
 * [Android Tamer](https://androidtamer.com/) - Virtual / Live Platform for Android Security Professionals
 * [DECAF ★168](sycurelab/DECAF) - Dynamic Executable Code Analysis Framework based on QEMU (DroidScope is now an extension to DECAF)
 * [CuckooDroid ★244](idanr1986/cuckoo-droid) - Android extension for Cuckoo sandbox
-* [Mem ★23 ⏳1Y](MobileForensicsResearch/mem) - Memory analysis of Android (root required)
+* [Mem ★23 ⏳2Y](MobileForensicsResearch/mem) - Memory analysis of Android (root required)
 * [Crowdroid](http://www.ida.liu.se/labs/rtslab/publications/2011/spsm11-burguera.pdf) – unable to find the actual tool
 * [AuditdAndroid ★23 ⏳4Y](nwhusted/AuditdAndroid) – android port of auditd, not under active development anymore
 * [Android Security Evaluation Framework](https://code.google.com/p/asef/) - not under active development anymore

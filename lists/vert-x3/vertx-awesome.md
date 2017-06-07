@@ -197,6 +197,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [JGroups Cluster Manager ★4](vert-x3/vertx-jgroups) - JGroups cluster manager.
 * [Zookeeper Cluster Manager ★38](vert-x3/vertx-zookeeper) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Zookeeper cluster manager.
 * [Atomix Cluster Manager ★10 ⏳1Y](atomix/atomix-vertx) - An [Atomix](http://atomix.io) based cluster manager implementation for Vert.x 3.
+* [Infinispan Cluster Manager ★4](vert-x3/vertx-infinispan) - Infinispan cluster manager.
 
 ## Cloud Support
 
@@ -279,7 +280,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Vert.x Gradle Starter ★4](yyunikov/vertx-gradle-starter) - Java 8 starter application with example of using Vert.x with Gradle build system, profiles configuration and SLF4J.
 * [Vert.x Gentics Mesh Example ★4](gentics/mesh-vertx-example) - Example on how to build a template-based web server with Gentics Mesh and handlebars.
 * [HTTP/2 showcase ★5](aesteve/http2-showcase) - A simple demo, showing how HTTP/2 can drastically improve user experience when a huge latency is involved.
-
+* [Vert.x Music Store ★9](tsegismont/vertx-musicstore) - An example application on how to build Vert.x applications with RxJava
 
 ## Deployment
 

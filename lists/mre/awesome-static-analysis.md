@@ -94,7 +94,7 @@ This is a collection of static analysis tools and code quality checkers.
 * [.NET Analyzers](https://github.com/DotNetAnalyzers) - An organization for the development of analyzers (diagnostics and code fixes) using the .NET Compiler Platform.
 * [Code Analysis Rule Collection](https://carc.codeplex.com/) - Contains a set of diagnostics, code fixes and refactorings built on the Microsoft .NET Compiler Platform "Roslyn".
 * [code-cracker ★731](code-cracker/code-cracker) - An analyzer library for C# and VB that uses Roslyn to produce refactorings, code analysis, and other niceties.
-* [CSharpEssentials ★137](DustinCampbell/CSharpEssentials) - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
+* [CSharpEssentials ★137 ⏳1Y](DustinCampbell/CSharpEssentials) - C# Essentials is a collection of Roslyn diagnostic analyzers, code fixes and refactorings that make it easy to work with C# 6 language features.
 * [Designite](http://www.designite-tools.com) :copyright: - Designite is a software design quality assessment tool. It supports detection of implementation and design smells, computation of various code quality metrics, and trend analysis.
 * [Gendarme](http://www.mono-project.com/docs/tools+libraries/tools/gendarme/) - Gendarme inspects programs and libraries that contain code in ECMA CIL format (Mono and .NET) and looks for common problems with the code, problems that compiler do not typically check or have not historically checked.
 * [NDepend](http://www.ndepend.com/) :copyright: - Measure, query and visualize your code and avoid unexpected issues, technical debt and complexity in your project.
@@ -196,8 +196,10 @@ This is a collection of static analysis tools and code quality checkers.
 * [dephpend ★55](mihaeu/dephpend) - Dependency analysis tool
 * [deptrac ★511](sensiolabs-de/deptrac) - Enforce rules for dependencies between software layers.
 * [DesignPatternDetector ★61](Halleck45/DesignPatternDetector) - detection of design patterns in PHP code
+* [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - combine [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ★4509](FriendsOfPHP/PHP-CS-Fixer)
 * [exakat ★64](exakat/exakat) - An automated code reviewing engine for PHP
 * [GrumPHP ★1733](phpro/grumphp) - checks code on every commit
+* [Mondrian ★324 ⏳1Y](Trismegiste/Mondrian) - a set of static analysis and refactoring tools which use graph theory
 * [Parse ★154](psecio/parse) - A Static Security Scanner
 * [phan ★2128](etsy/phan) - a modern static analyzer from etsy
 * [Php Inspections (EA Extended) ★244](kalessil/phpinspectionsea) - A Static Code Analyzer for PHP.
@@ -257,14 +259,13 @@ Wrappers:
 * [flay ★478](seattlerb/flay) - Flay analyzes code for structural similarities.
 * [flog ★533](seattlerb/flog) - Flog reports the most tortured code in an easy to read pain report. The higher the score, the more pain the code is in.
 * [laser ★391 ⏳5Y](michaeledgar/laser) - Static analysis and style linter for Ruby code.
-* [Mondrian](http://trismegiste.github.io/Mondrian/) - a set of static analysis and refactoring tools for more abstraction
 * [pelusa ★446 ⏳2Y](codegram/pelusa) - Static analysis Lint-type tool to improve your OO Ruby code
 * [quality ★121](apiology/quality) - Runs quality checks on your code using community tools, and makes sure your numbers don't get any worse over time.
 * [reek ★2374](troessner/reek) - Code smell detector for Ruby
 * [rubocop ★7695](bbatsov/rubocop) - A Ruby static code analyzer, based on the community Ruby style guide.
 * [ruby-lint ★724](YorickPeterse/ruby-lint) - Static code analysis for Ruby
 * [rubycritic ★1819](whitesmith/rubycritic) - A Ruby code quality reporter
-* [SandyMeter ★679](makaroni4/sandi_meter) - Static analysis tool for checking Ruby code for Sandi Metz' rules.
+* [SandiMeter ★679](makaroni4/sandi_meter) - Static analysis tool for checking Ruby code for Sandi Metz' rules.
 
 ## Rust
 

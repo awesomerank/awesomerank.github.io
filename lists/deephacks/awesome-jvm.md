@@ -115,7 +115,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [LevelDB ★744](dain/leveldb) - Rewrite (port) of LevelDB in Java.
-* [lightweight_trie ★37 ⏳4Y](bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
+* [lightweight_trie ★37 ⏳5Y](bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
 * [lmdbjni ★161](deephacks/lmdbjni) - Java API to LMDB (HawtJNI) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
 * [lmdbjava ★95](lmdbjava/lmdbjava) - Java API to LMDB (JNR) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
 * [low-gc-membuffers ★118 ⏳2Y](cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
@@ -128,7 +128,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [one-nio ★191](odnoklassniki/one-nio) - library for building high performance Java servers.
 * [onyx-java ★5](onyx-platform/onyx-java) - Mirrors the Onyx Platform core API by providing a Java equivalent for each component of an Onyx workflow.
 * [parquet](https://parquet.apache.org/) - Columnar storage format that uses the record shredding and assembly algorithm described in the Dremel paper.
-* [PauselessHashMap ★127 ⏳2Y](giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
+* [PauselessHashMap ★127 ⏳3Y](giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
 * [pcollections ★378](hrldcpr/pcollections) - A Persistent Java Collections Library.
 * [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.

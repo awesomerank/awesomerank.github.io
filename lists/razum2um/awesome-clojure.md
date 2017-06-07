@@ -74,7 +74,7 @@ Ranked awesome lists, all in one place
   * [Coils](https://github.com/zubairq/AppShare)
   * [Duct](https://github.com/weavejester/duct)
   * [Pedestal ★1756](pedestal/pedestal)
-  * [Catalysis](https://github.com/metasoarous/catalysis)
+  * [Datsys ★136](metasoarous/datsys)
   * [yada ★449](juxt/yada)
   * [Hoplon](http://hoplon.io/)
 

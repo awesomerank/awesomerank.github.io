@@ -62,7 +62,7 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### WebAPI
 
-- [steam-webapi ★8](DoctorMcKay/node-steam-webapi) - Complete WebAPI wrapper with support for extra HTTP headers sent by Steam.
+- [steam-webapi ★8 ⏳1Y](DoctorMcKay/node-steam-webapi) - Complete WebAPI wrapper with support for extra HTTP headers sent by Steam.
 
 #### Trading
 

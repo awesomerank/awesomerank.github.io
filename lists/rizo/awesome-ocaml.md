@@ -173,7 +173,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [RunOrg ★9 ⏳2Y](RunOrg/RunOrg) - It is a WIP database server written in OCaml.
 - **Overlays**
   - [Macaque ★26 ⏳1Y](ocsigen/macaque) — Macaque is a library for safe and flexible database queries using comprehensions on top of PG'OCaml.
-  - [ORM ★29](mirage/orm) — ORM for SQLite.
+  - [ORM ★29 ⏳1Y](mirage/orm) — ORM for SQLite.
 - **Articles**:
   - [Implementing the Binary Memcached Protocol with Ocaml and Bitstring](http://andreas.github.io/2014/08/22/implementing-the-binary-memcached-protocol-with-ocaml-and-bitstring/)
 
@@ -381,7 +381,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [lacaml](https://mmottl.github.io/lacaml/) - OCaml bindings for BLAS/LAPACK (high-performance linear algebra Fortran libraries).
 - [onumerical ★7 ⏳3Y](cheshire/onumerical) – Numerical library for OCaml.
 - [oml ★94](hammerlab/oml) - OCaml library for general numerical work.
-- [ocephes ★9](rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
+- [ocephes ★9 ⏳1Y](rleonid/ocephes) - Bindings to frequently used `C` special funcitons library.
 - [slap ★45](akabe/slap) - A linear algebra library in OCaml with type-based static size checking for matrix operations.
 - [tensorflow-ocaml ★100](LaurentMazare/tensorflow-ocaml) – OCaml bindings for TensorFlow.
 

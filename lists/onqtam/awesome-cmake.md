@@ -46,6 +46,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Article - A list of common CMake antipatterns (from 2013 but still relevant)](http://voices.canonical.com/jussi.pakkanen/2013/03/26/a-list-of-common-cmake-antipatterns/).
 * [Article - How to Build a CMake-Based Project](http://preshing.com/20170511/how-to-build-a-cmake-based-project/).
 * [Article - The architecture of CMake](http://aosabook.org/en/cmake.html).
+* [Lecture - Effective CMake - by Daniel Pfeife, C++Now 2017](https://www.youtube.com/watch?v=bsXLMQ6WgIk).
 
 ## Package Management / Build Systems
 
@@ -98,6 +99,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [CMakePCHCompiler ★27 ⏳1Y](nanoant/CMakePCHCompiler) - CMake precompiled headers via custom compiler extension - with reuse support! [```[MIT]```][MIT]
 * [CMake-codecov](https://github.com/RWTH-ELP/CMake-codecov) - Enables code coverage and generates coverage reports with CMake targets. [```[GPL]```][GPL]
 * [leatherman ★19](puppetlabs/leatherman) - Collection of C++ and CMake utility libraries. [```[APACHE2]```][APACHE2]
+* [cmake-get ★39](pfultz2/cmake-get) - Get dependencies in config or script mode. ```[NO LICENSE]```
 
 ## Toolchains
 
@@ -131,7 +133,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [CMake-VisualStudio-Example ★34](cognitivewaves/CMake-VisualStudio-Example) - CMake example for Visual Studio developers - [blog post](http://cognitivewaves.wordpress.com/cmake-and-visual-studio/). ```[NO LICENSE]```
 * [Cpp-Project-Template ★29 ⏳2Y](NewProggie/Cpp-Project-Template) - C++ bootstrap project template including CMake build system. [```[MIT]```][MIT]
 * [BASIS ★7](cmake-basis/BASIS) - CMake [BASIS](https://cmake-basis.github.io) makes it easy to create sharable software and libraries that work together. [```[BSD2]```][BSD-2-Clause]
-* [OpenGL_CMake_Skeleton ★23](ArthurSonzogni/OpenGL_CMake_Skeleton) -  A ready to use CMake skeleton using GLFW, Glew and glm. [```[MIT]```][MIT]
+* [OpenGL_CMake_Skeleton ★23 ⏳1Y](ArthurSonzogni/OpenGL_CMake_Skeleton) -  A ready to use CMake skeleton using GLFW, Glew and glm. [```[MIT]```][MIT]
 * [coveralls-cmake-example](https://github.com/JoakimSoderberg/coveralls-cmake-example) - Example project for [coveralls-cmake ★56](JoakimSoderberg/coveralls-cmake). ```[NO LICENSE]```
 * [cppbase ★29](kartikkumar/cppbase) - Template for a simple CMake-based C++ project. [```[MIT]```][MIT]
 * [Arduino-CMake-Template ★2 ⏳1Y](maxbader/Arduino-CMake-Template) - Starting point for Arduino development using CMake. ```[NO LICENSE]```

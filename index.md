@@ -200,7 +200,7 @@ Ranked awesome lists, all in one place
 - [Marionette.js ★135](lists/sadcitizen/awesome-marionette.md) - App framework.
 - [Aurelia ★209](lists/behzad888/awesome-aurelia.md) - App framework.
 - [Charting ★645](lists/zingchart/awesome-charting.md)
-- [Ionic Framework 2 ★496](lists/candelibas/awesome-ionic2.md)
+- [Ionic Framework 2](https://github.com/candelibas/awesome-ionic2)
 - [Chrome DevTools ★2025](lists/ChromeDevTools/awesome-chrome-devtools.md)
 - [PostCSS ★180](lists/jjaderg/awesome-postcss.md) - CSS preprocessor.
 - [Draft.js ★804](lists/nikgraf/awesome-draft-js.md) - Rich text editor framework for React.

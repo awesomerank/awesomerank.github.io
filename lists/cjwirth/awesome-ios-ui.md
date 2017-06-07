@@ -49,7 +49,7 @@ Badges
 Repo | Demo
 --- | ---
 [RKNotificationHub ★2629](cwRichardKim/RKNotificationHub) <br> [![](http://gh-btns.cjwirth.com/stars/cwRichardKim/RKNotificationHub)](https://github.com/cwRichardKim/RKNotificationHub/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/RKNotificationHub1.gif">
-[BBBadgeBarButtonItem ★936](TanguyAladenise/BBBadgeBarButtonItem) <br> [![](http://gh-btns.cjwirth.com/stars/TanguyAladenise/BBBadgeBarButtonItem)](https://github.com/TanguyAladenise/BBBadgeBarButtonItem/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/BBBadgeBarButtonItem1.png">
+[BBBadgeBarButtonItem ★936 ⏳1Y](TanguyAladenise/BBBadgeBarButtonItem) <br> [![](http://gh-btns.cjwirth.com/stars/TanguyAladenise/BBBadgeBarButtonItem)](https://github.com/TanguyAladenise/BBBadgeBarButtonItem/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/BBBadgeBarButtonItem1.png">
 [JSBadgeView ★1082 ⏳1Y](JaviSoto/JSBadgeView) <br> [![](http://gh-btns.cjwirth.com/stars/JaviSoto/JSBadgeView)](https://github.com/JaviSoto/JSBadgeView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JSBadgeView1.png"> <img src="/assets/JSBadgeView2.png">
 
 

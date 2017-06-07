@@ -25,12 +25,12 @@ Ranked awesome lists, all in one place
 ## Contents
 
 - [Tools](#tools)
-- [Extensions](#extensions)
+- [Extensions](#open-source-extensions)
 - [Themes](#themes)
 - [Blogs](#blogs)
 - [Learning](#learning)
 - [Platforms](#platforms)
-- [Official Resources](#official)
+- [Official Resources](#official-resources)
 
 ---
 
@@ -66,8 +66,9 @@ Ranked awesome lists, all in one place
 
 ### Deployment
 
+- [Capistrano::Magento2 ★84](davidalger/capistrano-magento2) - Magento 2 deployments with [Capistrano](http://capistranorb.com) by [David Alger](http://davidalger.com).
 - [MageDeploy2 ★15](mwr/magedeploy2-base) - Automatic Magento2 Deployments with [robo](http://robo.li/) and [deployer](https://deployer.org/).
-- [Magento 2 Deployment Tool ★15](staempfli/magento2-deployment-tool) - Magento2 Deployment Tool with [PHing](https://www.phing.info/) by [Juan Alonso](https://commercehero.io/juan.alonso).
+- [Magento 2 Deployment Tool ★15](staempfli/magento2-deployment-tool) - Magento2 Deployment Tool with PHing by [Juan Alonso](https://commercehero.io/juan.alonso).
 - [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Magento2 deployment recipe for [deployer](https://deployer.org/).
 
 ### Language Packages
@@ -154,12 +155,13 @@ Ranked awesome lists, all in one place
 - [Pierrefay](https://www.pierrefay.com/en/tag/magento2.html)
 
 #### Company Blogs
-- [dev98](https://dev98.de/)
-- [inchoo](http://inchoo.net/category/magento-2/)
 - [Atwix](https://www.atwix.com/blog/)
-- [integer_net blog](https://www.integer-net.com/blog/)
+- [Classy Llama](https://www.classyllama.com/blog)
+- [dev98](https://dev98.de/)
 - [FireBear Studio](https://firebearstudio.com/blog)
 - [Fooman](http://store.fooman.co.nz/blog)
+- [inchoo](http://inchoo.net/category/magento-2/)
+- [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
 
 #### Other

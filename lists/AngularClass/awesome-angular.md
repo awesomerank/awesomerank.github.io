@@ -116,7 +116,7 @@ Table of contents:
 * `#angular2` channel on Freenode IRC Server
 * [`#angular2`](https://twitter.com/hashtag/angular2) hashtag on Twitter
 * [Gitter Channel](https://gitter.im/angular/angular)
-* [Angular 2 StackOverflow](http://stackoverflow.com/questions/tagged/angular)
+* [Angular 2 StackOverflow](https://stackoverflow.com/questions/tagged/angular)
 * [@Angular on Twitter](https://twitter.com/angular)
 * [/r/Angular2 Subreddit](https://www.reddit.com/r/Angular2/)
 * [Angular Group on Facebook](https://www.facebook.com/groups/angular2/)
@@ -412,6 +412,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular2-fontawesome ★58](travelist/angular2-fontawesome) Angular2 Components and Directives for Fontawesome
 * [angular-safeguard ★55](MikaAK/angular-safeguard) Wrapper around cookies/sessionStorage/localStorage for angular2. If all are unavailable will use an in memory storage.
 * [angular2-google-maps ★629](SebastianM/angular-google-maps) Angular2 directives for Google Maps
+* [angular-cesium ★16](TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
 * [ng2-radio-group ★38](pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
 * [ng2-dropdown ★56](pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
 * [ng2-progress-bar ★15](pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
@@ -457,6 +458,10 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-i18n-router/core ★7](ngx-i18n-router/core) - Route internationalization utility for Angular by @fulls1z3
 * [angular2-promise-buttons ★12](johannesjo/angular2-promise-buttons) - Loading buttons for Angular 2 by @johannesjo
 * [ng2-archwizard ★7](madoar/ng2-archwizard) - Wizard component for Angular 2
+* [ngx-popper ★4](MrFrankel/ngx-popper) - Tooltip managment, wrapper for popper.js(https://popper.js.org/)
+* [ngx-avatar ★9](HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
+* [ngx-qrcode2 ★2](techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes .
+
 
 #### Pipes
 * [fuel-ui ★251](FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
@@ -554,8 +559,8 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Ionic Documentation](http://ionicframework.com/docs/) Official for Ionic Framework
 
 ##### Ionic 2 General Resources
-* [Ionic 2 Repository (GitHub) ★29729](driftyco/ionic)
-* [Ionic 2 Awesome ★496](candelibas/awesome-ionic2)
+* [Ionic 2 Repository (GitHub)](https://github.com//ionic-team/ionic)
+* [Ionic 2 Awesome ★502](candelibas/awesome-ionic)
 
 ---
 

@@ -108,7 +108,7 @@ Libraries to collect data and feed into InfluxDB.
 * [lua-resty-influx ★4](p0pr0ck5/lua-resty-influx) - [OpenResty](https://openresty.org/en/) client for InfluxDB
 * [metrics ★192](beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
 * [pyVsphereInflux ★3 ⏳1Y](fennm/pyVsphereInflux) - A library and supporting script for pulling data from [vSphere](http://www.vmware.com/products/vsphere.html) and inserting it into InfluxDB
-* [telemetry ★76 ⏳1Y](arussellsaw/telemetry) - metric reporting for Go applications
+* [telemetry ★76 ⏳2Y](arussellsaw/telemetry) - metric reporting for Go applications
 
 #### Hooks
 

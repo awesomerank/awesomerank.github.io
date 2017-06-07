@@ -15,7 +15,8 @@ Awesome-Kubernetes
 A curated list for awesome kubernetes sources 
 Inspired by [@sindresorhus' awesome ★59088](sindresorhus/awesome)
 
-![k8](https://cloud.githubusercontent.com/assets/8342133/13547481/fcb5ffb0-e2fa-11e5-8f75-555cea5eb7b2.png)
+![final-k8s](https://cloud.githubusercontent.com/assets/8342133/26794201/62c1a006-4a3e-11e7-8bf9-4449814648f2.png)
+
 
 
 > "Talent wins games, but teamwork and intelligence wins championships."
@@ -229,7 +230,7 @@ Managed Kubernetes
 
   - [Platform9](https://platform9.com/)
   - [Gravitational](https://github.com/gravitational)
-  - [KCluster](https://kcluster.io/)
+  - [KCluster](https://blog.kcluster.io)
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
@@ -266,7 +267,7 @@ Managed Kubernetes
   - [Gondor/Kel]
   - [WSO2](http://wso2.com)
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
-  - [Kumoru](http://kumoru.io/)
+  - [Kumoru](https://medium.com/@kumoru_io)
   - [Open Shift Origin](https://www.openshift.org/)
 
 Case Studies
@@ -360,7 +361,7 @@ Related Projects
 * [Funktion](https://github.com/fabric8io/funktion)
 * [Fission](https://github.com/platform9/fission)
 * [Kubeless](https://github.com/skippbox/kubeless)
-* OpenWhisk
+* [OpenWhisk](https://github.com/openwhisk)
 * [Iron.io](http://iron.io)
 
 ## Operators
@@ -375,7 +376,7 @@ Related Projects
 * [Sticky Node Scheduler ★3](philipn/kubernetes-sticky-node-scheduler)
 * [ksched ★12](coreos/ksched) Experimental flow based scheduler
 * [kronjob ★17](Eneco/kronjob) Scheduler for recurring jobs
-* [escheduler ★14](agonzalezro/escheduler) Example scheduler written in elixir
+* [escheduler ★14 ⏳1Y](agonzalezro/escheduler) Example scheduler written in elixir
 * [bashScheduler ★18](rothgar/bashScheduler) Example scheduler written in bash
 
 ## Container Support
@@ -414,6 +415,7 @@ Related Projects
 ## Service mesh
 
 * [Envoy](http://lyft.github.io/envoy/)
+* [Istio](https://istio.io/)
 * [Linkerd](https://linkerd.io/getting-started/k8s/)
 * [Amalgam8](http://www.amalgam8.io/)
 * [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)
@@ -530,7 +532,8 @@ us with information*
 * [Kubernetes in Action](https://www.manning.com/books/kubernetes-in-action) by [Marko Lukša](https://twitter.com/markoluksa)
 * [Kubernetes Cookbook](https://www.packtpub.com/virtualization-and-cloud/kubernetes-cookbook) by Hideto Saito, Hui-Chuan Chloe Lee, Ke-Jou Carol Hsu
 * [Getting Started with Kubernetes](http://shop.oreilly.com/product/9781784394035.do) by Jonathan Baier
-
+* [Kubernetes Handbook ★224](feiskyer/kubernetes-handbook) (OpenSource Book in Chinese) by [Pengfei Ni](https://github.com/feiskyer)
+* [Mastering Kubernetes](https://www.amazon.com/Mastering-Kubernetes-Gigi-Sayfan/dp/1786461005) by [Gigi Sayfan](https://github.com/the-gigi)
 
 Slide Presentations
 =======================================================================
@@ -633,6 +636,7 @@ Meetup Groups
 * [Bangalore](https://www.meetup.com/Bangalore-Kubernetes-Meetup)
 * [Pune](https://www.meetup.com/Kubernetes-Pune/)
 * [London](https://www.meetup.com/Kubernetes-London/)
+* [Worldwide](https://www.meetup.com/kubernauts/)
 
 
 Connecting with Kubernetes

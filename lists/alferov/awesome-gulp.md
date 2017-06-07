@@ -264,7 +264,7 @@ Ranked awesome lists, all in one place
 * [generator-gulp-angular ★3903](Swiip/generator-gulp-angular) - Yeoman generator for AngularJS with gulp.
 * [generator-react-gulp-browserify ★427](randylien/generator-react-gulp-browserify) - A Yeoman Generator for React library. It includes gulp, Browserify, Browsersync and Bootstrap.
 * [generator-node-gulp ★38](youngmountain/generator-node-gulp) - A Node.js module generator including gulp and Mocha.
-* [generator-gulp-bootstrap ★71 ⏳1Y](niallobrien/generator-gulp-bootstrap) - Yeoman generator for Bootstrap, gulp & libsass.
+* [generator-gulp-bootstrap ★71 ⏳2Y](niallobrien/generator-gulp-bootstrap) - Yeoman generator for Bootstrap, gulp & libsass.
 * [generator-angulpify ★151 ⏳1Y](jgoux/generator-angulpify) - Yeoman generator involving AngularJS, gulp and Browserify.
 * [generator-ionic-gulp ★141](tmaximini/generator-ionic-gulp) - A Yeoman generator for Ionic Projects with gulp.
 * [generator-gulp-plugin-boilerplate](https://github.com/sindresorhus/generator-gulp-plugin-boilerplate) - Scaffold out a [gulp plugin boilerplate ★57 ⏳1Y](sindresorhus/gulp-plugin-boilerplate).

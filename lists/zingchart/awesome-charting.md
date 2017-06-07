@@ -70,7 +70,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 
 ### React
 * [Formiddable ★4322](FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-* [react-d3 ★1587](esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
+* [react-d3 ★1587 ⏳1Y](esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
 * [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
 * [recharts](http://recharts.org) - Redefined chart library built with React and D3
 

@@ -94,7 +94,7 @@ Things that consume TAP output.
 
 ### JavaScript
 
-- [tap-dev-tool ★25 ⏳1Y](Jam3/tap-dev-tool) - Prettify TAP in the browser console.
+- [tap-dev-tool ★25 ⏳2Y](Jam3/tap-dev-tool) - Prettify TAP in the browser console.
 - [tap-merge ★4](anko/tap-merge) - Merge multiple TAP streams.
 
 ### Python

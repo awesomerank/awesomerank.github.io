@@ -152,7 +152,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [license-checker ★382](davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run ★264](juliangruber/browser-run) - Easily run code in a browser environment.
 - [tmpin ★102 ⏳2Y](sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-- [modhelp ★18](runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
+- [modhelp ★18 ⏳1Y](runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
 - [wifi-password ★59](kevva/wifi-password-cli) - Get the current wifi password.
 - [wallpaper ★390](sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [brightness ★88 ⏳1Y](kevva/brightness-cli) - Change the screen brightness.
@@ -448,7 +448,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Primus ★3186](primus/primus) - An abstraction layer for real-time frameworks to prevent module lock-in.
 - [Straw ★241](simonswain/straw) - Real-time dataflow framework.
 - [deepstream.io](https://deepstream.io) - Scalable real-time microservice framework.
-- [Kalm ★478](fed135/Kalm) - Modular socket wrapper and optimizer.
+- [Kalm ★13](kalm/kalm.js) - Low-level socket router and middleware framework.
 - [MQTT.js ★2257](mqttjs/MQTT.js) - Client for MQTT - Pub-sub based messaging protocol for use on top of TCP/IP.
 
 

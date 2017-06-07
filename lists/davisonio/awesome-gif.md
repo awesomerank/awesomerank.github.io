@@ -78,7 +78,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [gifstreaming ★126 ⏳3Y](jbochi/gifstreaming) - Live video streaming server
 - [Screengif ★908](dergachev/screengif) - Create animated GIF screencasts
 - [vnc-over-gif ★511](sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http
-- [gifdeck ★92 ⏳1Y](jaipandya/gifdeck) - Convert your SlideShares into animated GIFs
+- [gifdeck ★92 ⏳2Y](jaipandya/gifdeck) - Convert your SlideShares into animated GIFs
 - [Gifbot ★38 ⏳3Y](schuyler/gifbot) - GIF search for Slack
 - [Gif-camera ★19 ⏳3Y](FuzzyWobble/GIF-Camera) - create animated GIFs using webcam
 - [Gifline ★54](zehfernandes/gifline) - Chrome extension to put GIFs in your emails
@@ -117,7 +117,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 - [Android-gif-drawable ★4502](koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android
 - [gifanimateddrawable ★216 ⏳3Y](Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable
-- [GifView ★80 ⏳3Y](RoiSoleil/GifView) - android library to deal with GIF
+- [GifView ★80 ⏳4Y](RoiSoleil/GifView) - android library to deal with GIF
 - [Gif Movie View ★432 ⏳1Y](sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations
 - [GifImageView ★840](felipecsl/GifImageView) - Android ImageView that handles animated GIF images
 - [Gif-animation ★95](extrapixel/gif-animation) - Processing library to play and export GIF
@@ -136,7 +136,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [node-gify ★207 ⏳1Y](tj/node-gify) - Javascript convert videos to GIFs using ffmpeg and gifsicle
 - [Gifencoder ★172 ⏳1Y](eugeneware/gifencoder) - Server side animated GIF generation for node.js
 - [Gif-video ★56 ⏳3Y](hughsk/gif-video) - Javascript Convert a GIF image into an HTML5-ready video
-- [Gif-player ★61 ⏳2Y](apankrat/gif-player) - On-demand GIF loader/player in Javascript
+- [Gif-player ★61 ⏳3Y](apankrat/gif-player) - On-demand GIF loader/player in Javascript
 - [GifgifLab-face ★6 ⏳2Y](Viral-MediaLab/gifgifLab-face) - Facial-emotion detectors
 - [node-youtube ★122](javascipt/node-youtube) - Youtube to snapshots and GIFs.
 
@@ -173,7 +173,8 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [GIFs ★581](orta/GIFs) - Mac App for finding GIFs
 - [VineGifR ★86 ⏳4Y](esten/VineGifR) - Mac app to turn Vine videos into GIFs
 - [GifPro ★41 ⏳5Y](unixpickle/GifPro) - GIF encoder for Mac
-- [Gif Maker](https://movielala.com/gif-maker/) - High quailty GIF maker with filters for Mac
+- [Gif Maker](https://gifmaker.movielala.com) - High quailty GIF maker with filters for Mac
+- [AnimatedGif ★32](Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
 
 ### Hosting
 
@@ -183,15 +184,15 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 ### Online Tools
 
 - [Vid2gif](http://imgur.com/vidgif) - Video to GIF by imgur
-- [EzGif](http://ezgif.com/) - Online GIF maker and image editor
+- [EzGif](https://ezgif.com/) - Online GIF maker and image editor
 - [Giflr](https://giflr.com/) - A web app for making or remixing animated GIFs
 - [Gif.gf](http://www.gif.gf/labs/face) - Provide a matching GIF for your face
 
 ### Community
 
-- [Giphy.com](http://giphy.com)
+- [Giphy.com](https://giphy.com)
 - [Gifme.io](http://gifme.io)
-- [9gag.com/gif](http://9gag.com/gif)
+- [9gag.com/gif](https://9gag.com/gif)
 - [Reactionsgifs](http://www.reactiongifs.com/)
 - [Educational Gifs](https://www.reddit.com/r/educationalgifs/)
 
@@ -401,7 +402,7 @@ or use [ccapture.js ★808](spite/ccapture.js).
 
 ### Miscellaneous
 
-- [Why is the GIF I created so slow?](http://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967#569967) - Using ImageMagick to solve problems concerning GIF speed.
+- [Why is the GIF I created so slow?](https://superuser.com/questions/569924/why-is-the-gif-i-created-so-slow/569967) - Using ImageMagick to solve problems concerning GIF speed.
 
 ## Use
 

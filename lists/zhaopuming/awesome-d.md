@@ -239,7 +239,7 @@ Ranked awesome lists, all in one place
 ### JSON
 
 * [vibe.data.json](http://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
-* [fast.json ★69](mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
+* [fast.json ★69 ⏳1Y](mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [painlessjson ★15](BlackEdder/painlessjson) - Convert between D types and std.json.
 * [std.data.join ★23](s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
@@ -264,7 +264,7 @@ Ranked awesome lists, all in one place
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
 ## Command Line
-* [terminix](https://github.com/gnunn1/terminix) -  A tiling terminal emulator for Linux using GTK+ 3.
+* [tilix ★1430](gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
 * [scriptlike ★61](Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
 * [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise ★1667](antirez/linenoise).
 * [d-colorize](http://code.dlang.org/packages/colorize) - A port of the ruby library [colorize ★734](fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.

@@ -35,13 +35,14 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 - [Productivity](#productivity)
 - [Utilities](#utilities)
   - [macOS](#macos)
-- [Command Line Tools](#command-line-tools)
+- [Command Line Learning](#command-line-learning)
 - [Data Manipulation](#data-manipulation)
 - [Files and Directories](#files-and-directories)
   - [File managers](#file-managers)
   - [Deleting, Copying, and Renaming](#deleting-copying-and-renaming)
   - [Files](#files)
   - [Directory Navigation](#directory-navigation)
+- [Terminal Utilities](#terminal-utilities)
 - [Version Control](#version-control)
   - [Git](#git)
   - [Changelogs](#changelogs)
@@ -87,8 +88,9 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 ## Development
 
-- [Wat ★353](dthree/wat) - Instant, central, community-built docs.
 - [bcal ★38](jarun/bcal) - Byte CALculator for storage conversions and calculations.
+- [boilr ★484](tmrts/boilr) - Dependency free CLI to create projects from boilerplate templates.
+- [cookiecutter ★5128](audreyr/cookiecutter) - creates projects from cookiecutters (project templates)
 - [dockly ★58](lirantal/dockly) - Interactive CLI for managing Docker containers.
 
 ### Web Development
@@ -117,8 +119,9 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 ## Database
 
-- [mycli ★4070](dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
 - [cycli ★179](nicolewhite/cycli) - A terminal client for Neo4j with autocompletion and syntax highlighting.
+- [mycli ★4070](dbcli/mycli) - A Terminal Client for MySQL with AutoCompletion and Syntax Highlighting.
+- [pgcli ★5562](dbcli/pgcli) - A Terminal Client for Postgre with AutoCompletion and Syntax Highlighting.
 
 ## Productivity
 
@@ -147,7 +150,6 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 - [archive-type-cli ★3](kevva/archive-type-cli) - Detect the archive type of a Buffer/Uint8Array.
 - [battery-level ★131](gillstrom/battery-level) - Get current battery level.
 - [brightness-cli](https://github.com/kevva/brightness-cli) - Change screen brightness- [windows version ★8 ⏳1Y](sondreb/win-brightness).
-- [gotty ★7723](yudai/gotty) - Share your terminal as a web application.
 - [screensaver ★16 ⏳1Y](gillstrom/screensaver) - Start the screensaver.
 - [wallpaper-ci ★57](sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [yank ★611](mptre/yank) - Yank terminal output to clipboard.
@@ -172,22 +174,24 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 - [osx-wifi-cli ★27](danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
 - [active-win-cli ★15](sindresorhus/active-win-cli) - Get the title/id/etc of the active window
 
-## Command Line Tools
+## Command Line Learning
 
-- [The Fuck ★28102](nvbn/thefuck) - Magnificent app which corrects your previous console command.
-- [tldr ★9412](tldr-pages/tldr) - Simplified and community-driven man pages.
+- [cmdchallenge](https://cmdchallenge.com/) - presents small shell challenge with user submitted solutions.
+- [explainshell](http://www.explainshell.com/) - type a command line snippet to see the help text for each argument.
 - [howdoi ★5378](gleitz/howdoi) - Instant coding answers via the command line.
 - [how2 ★4522](santinic/how2) - Finds the simplest way to do something on a unix bash command line (Nodejs implementation of howdoi).
-- [Cash ★7227](dthree/cash) - Cross-platform Linux commands in pure ES6.
-- [emoj ★1255](sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-- [emoji-finder ★5](dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
-- [trino ★59](eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
+- [shortcutfoo](https://www.shortcutfoo.com/) - Learn shortcuts for VIM, Emacs, git, bash and more.
+- [The Fuck ★28102](nvbn/thefuck) - Magnificent app which corrects your previous console command.
+- [tldr ★9412](tldr-pages/tldr) - Simplified and community-driven man pages.
+- [Wat ★353](dthree/wat) - Instant, central, community-built docs.
+
 
 ## Data Manipulation
 
 - [jq ★8946](stedolan/jq) - Command-line JSON processor [http://stedolan.github.io/jq/](http://stedolan.github.io/jq/).
 - [underscore-cli ★1440](ddopson/underscore-cli) - Command-line utility-belt for hacking JSON and Javascript.
 - [ramda-cli ★322](raine/ramda-cli) - A CLI tool for processing data with functional pipelines.
+- [yaml-cli ★15](pandastrike/yaml-cli) - A simple CLI for querying and updating YAML files
 
 ## Files and Directories
 
@@ -206,6 +210,7 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 ### Files
 
+- [chokidar-cli ★296](kimmobrunfeldt/chokidar-cli) - CLI to watch file system changes.
 - [file-type-cli ★17](sindresorhus/file-type-cli) - Detect the file type of a file or stdin.
 - [strip-json-comments-cli ★21 ⏳1Y](sindresorhus/strip-json-comments-cli) - Strip comments from JSON. Lets you use comments in your JSON files!
 - [DocToc ★1354](thlorenz/doctoc) - Generates table of contents for markdown files inside local git repository. Links are compatible with anchors generated by github or other sites.
@@ -226,6 +231,13 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 - [fz ★86](changyuheng/fz) - Seamless fuzzy tab completion for z
 - [nnn ★258](jarun/nnn) - File browser and disk usage analyzer with excellent desktop integration
 
+## Terminal Utilities
+
+- [gotty ★7723](yudai/gotty) - Share your terminal as a web application.
+- [mosh](https://mosh.org/) - Remote SSH client that allows roaming with intermittent connectivity.
+- [teleconsole](https://www.teleconsole.com/) - Share your UNIX terminal in seconds.
+- [tmate.io](https://tmate.io/) - Instant terminal (tmux) sharing.
+- [warp ★896](spolu/warp) - Secure and simple terminal sharing.
 
 ## Version Control
 
@@ -290,6 +302,8 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 - [cowsay ★22](tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
 - [cgasm ★178 ⏳1Y](bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [detect-indent-cli ★11 ⏳1Y](sindresorhus/detect-indent-cli) - Detect the indentation of code.
+- [emoj ★1255](sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoji-finder ★5](dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
 - [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
 - [fullname-cli ★9 ⏳1Y](sindresorhus/fullname-cli) - Get the fullname of the current user.
 - [get-port-cli ★39](sindresorhus/get-port-cli) - Get an available port.
@@ -313,6 +327,9 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 - [weather-cli ★13](riyadhalnur/weather-cli) - Check the weather for your city from your terminal.
 - [hget ★224](bevacqua/hget) - Render websites in plain text from your terminal.
 - [ponysay ★539](erkin/ponysay) - Pony rewrite of cowsay.
+- [google-wifi-status ★0](joelgeorgev/google-wifi-status) - A Node.js CLI app that displays status of your Google Wifi / OnHub router.
+- [calories ★12](zupzup/calories) - Calories and weight tracker.
+- [trino ★59](eneserdogan/trino) - Trino CLI allows a quick and easy translation of words and phrases entered in the command line.
 
 ## Other Awesome Lists
 

@@ -31,7 +31,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
 * [Web Stack Weekly](http://likerrr.ru/newsletter). A weekly collection of links for web development stack, picked up from popular internet resources.
 * [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform.
-* [Versioning](https://www.sitepoint.com/versioning/email). Stay entertained and up to date about all things web dev and design with a daily email.
+* [Versioning](https://www.sitepoint.com/versioning/). Stay entertained and up to date about all things web dev and design with a daily email.
 
 ### JavaScript
 * [JavaScript Weekly](http://javascriptweekly.com/). A free, once–weekly e-mail round-up of JavaScript news and articles. [Archive](http://javascriptweekly.com/issues).
@@ -43,6 +43,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome JavaScript Newsletter](https://js.libhunt.com/newsletter). A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 * [TypeScript Weekly](https://www.typescript-weekly.com/). The best TypeScript links every week, right in your box.
 * [JSter](http://jster.net/blog). No nonsense list of curated JavaScript links to your mailbox once every two weeks. [Subscribe](http://jster.us7.list-manage1.com/subscribe?u=ed40c0084a0c5ba31b3365d65&id=ec6f32bf5e).
+* [Weekend JavaScript](http://www.weekendjs.com/). A handy picked-up collection of essentials JavaScript articles to read on your weekend. Aimed at mature developers.
 
 #### React
 * [ReactJS Newsletter](http://reactjsnewsletter.com/). The free, weekly newsletter of the best React.js news and articles.
@@ -223,7 +224,7 @@ every Sunday in the form of the DevOps newsletter.
 * [MicroServices Weekly](http://www.microservicesweekly.com/). Get a free weekly dose of Microservice architectures and container-based virtualization news and articles from around the community.
 * [Awesome SysAdmin Newsletter](https://sysadmin.libhunt.com/newsletter). A curated list of awesome SysAdmin tools, software and resources.
 * [DevOpsLinks](http://devopslinks.com). DevOpsLinks is a community of thousands of IT experts from all over the world.
-* [Monitoring Weekly](http://weekly.monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
+* [Monitoring Weekly](https://weekly.monitoring.love/). Monitoring Weekly delivers the latest monitoring news, articles, and tools right to your inbox.
 * [SRE Weekly](http://sreweekly.com/). SRE Weekly is a newsletter devoted to everything related to keeping a site or service available as consistently as possible.
 
 ### Cloud Development
@@ -256,6 +257,10 @@ every Sunday in the form of the DevOps newsletter.
 * [Four Short Links](https://www.oreilly.com/feed/four-short-links). 4 short links about (mostly research oriented) technology every weekday.
 * [The Morning Paper](https://blog.acolyer.org/). An interesting/influential/important paper from the world of CS every weekday morning, as selected by Adrian Colyer.
 
+## Business/Finance
+* [Finimize](http://insider.finimize.com/). Understand today's financial news within 3 minutes. For free.
+* [Morning Brew](https://www.morningbrewdaily.com/). Your daily fix of everything business.
+
 ## Awesome news
 * [HackerNewsLetter](http://www.hackernewsletter.com/). A weekly newsletter of the best articles on startups, technology, programming, and more. All links are curated by hand from the popular Hacker News site.
 * [Reddit's Official Newsletter](https://www.reddit.com/newsletter). Best of reddit's content curated, packaged, and delivered to your inbox once a week.
@@ -284,7 +289,8 @@ every Sunday in the form of the DevOps newsletter.
 * [Awesome Self Hosted Newsletter](https://selfhosted.libhunt.com/newsletter). A directory of free software solutions and web applications which can be hosted locally.
 * [lkml.wtf](https://lkml.wtf/). A weekly roundup of Linux Kernel Mailing List threads but with a lot more sarcasm.
 * [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
-* ~~[GitHub Reminder](https://githubreminder.org/signin). Receive serendipitous (daily, weekly or monthly) email reminders about forgotten starred repos.~~
+* [Now I Know](http://nowiknow.com/). A free, daily email offering trivia in a neat digest.
+* [The ListServe](http://thelistserve.com/). A free, unique "lottery" newsletter where every day a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
 
 # License
 

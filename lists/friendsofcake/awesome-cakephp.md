@@ -133,6 +133,7 @@ Additional lists you might find useful:
 - [Airbrake plugin ★3 ⏳1Y](chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
 - [DebugKit plugin ★859](cakephp/debug_kit) - The de-facto standard for debugging.
 - [ErrorEmail plugin ★3](ebrigham1/cakephp-error-email) - A plugin to email exception/error information to your dev team.
+- [Execution order ★11 ⏳1Y](dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
 - [Gourmet/Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops ★4041](filp/whoops).
 - [Psa/FixtureCheck plugin ★2](World-Architects/cakephp-fixture-check) - A plugin to help detect mismatches in live DB and fixtures in order to make fixture based tests more reliable and deployments safer.
 - [Setup plugin ★26](dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
@@ -195,7 +196,7 @@ Additional lists you might find useful:
 - [ShadowTranslate plugin ★35](AD7six/cakephp-shadow-translate) - A plugin with shadow table based replacement for core's Translate behavior.
 - [Transifex plugin ★13](dereuromark/cakephp-transifex) - Managing i18n PO files and translations via Transifex API.
 - [Translate plugin ★6](dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API.
-- [Translation plugin ★5](ava007/wnk_translation) - Extract pot files, translate string (manually, google, community), export translations to pot files.
+- [Translation plugin ★5 ⏳1Y](ava007/wnk_translation) - Extract pot files, translate string (manually, google, community), export translations to pot files.
 
 ## Imagery
 *Plugins for manipulating images.*
@@ -216,7 +217,7 @@ Additional lists you might find useful:
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
 - [Rocketeer ★2404](rocketeers/rocketeer) - PHP task runner and deployment package.
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
-- [YamlRoute ★5](makallio85/yaml-route) - Configure routes with simple YAML files.
+- [YamlRoute ★5 ⏳1Y](makallio85/yaml-route) - Configure routes with simple YAML files.
 
 ## Markup
 *Plugins for working with markup.*
@@ -227,7 +228,6 @@ Additional lists you might find useful:
 ## Migration
 *Plugins and resources around migration and upgrading.*
 
-- [Execution order ★11 ⏳1Y](dereuromark/executionorder) - A 3.x test app to display the execution order of files, methods and callbacks.
 - [Migrations plugin ★77](cakephp/migrations) - (DB) Migration plugin.
 - [Upgrade app ★68](cakephp/upgrade) - Official upgrade app for 2.x=>3.x.
 - [Upgrade app (extended) ★6](dereuromark/upgrade) - An extended upgrade app for 2.x=>3.x and between 3.x.

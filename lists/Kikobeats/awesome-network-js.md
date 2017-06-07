@@ -14,7 +14,7 @@ Ranked awesome lists, all in one place
 > Based, at least, in a CLI interface.
 
 * [airpaste ★600 ⏳2Y](mafintosh/airpaste) – 1-1 network pipe that auto discovers other peers using mdns.
-* [blecat ★92 ⏳1Y](mafintosh/blecat) – 1-1 pipe over bluetooth low energy.
+* [blecat ★92 ⏳2Y](mafintosh/blecat) – 1-1 pipe over bluetooth low energy.
 * [deejay ★106 ⏳1Y](mafintosh/deejay) – Music player that broadcasts to everyone on the same network.
 * [dhtkv ★45 ⏳1Y](maxogden/dhtkv) – CLI for storing arbitrary key/value data in the bittorrent mainline DHT.
 * [gun ★4678](amark/gun) – A realtime, decentralized, offline-first, graph database engine.
@@ -37,7 +37,7 @@ Ranked awesome lists, all in one place
 
 > Implementation of protocols specs in pure javascript.
 
-* [airswarm ★104](mafintosh/airswarm) – Network swarm that automagically discovers other peers on the network using multicast dns.
+* [airswarm ★104 ⏳1Y](mafintosh/airswarm) – Network swarm that automagically discovers other peers on the network using multicast dns.
 * [bittorrent-dht](https://github.com/feross/bittorrent-dht) – BitTorrent DHT protocol implementation.
 * [bittorrent-protocol](https://github.com/feross/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
 * [bittorrent-swarm](https://github.com/feross/bittorrent-swarm) – BitTorrent "swarm" implementation.

@@ -131,6 +131,7 @@ Here you can find everything to get started and master the development of unoffi
 - [GameBoyEmulator-GBS ★22 ⏳1Y](Salgat/GameBoyEmulator-GBS) - C++ 14 with a single library dependency of SFML.
 - [PyBoy ★27](Baekalfen/PyBoy) - Python. Mac, Linux and Windows.
 - [scimitar ★0](tompko/scimitar) - Rust.
+- [FunGBC ★7](andreasjhkarlsson/fungbc) - F#.
 
 
 ## Software Development
@@ -171,7 +172,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [Assembly tutorial by David Pello](http://wiki.ladecadence.net/doku.php?do=show&id=tutorial_de_ensamblador) - Good document to actually learn to produce working asm code for gb. Brief explainations of many important topics. Many examples with commented source code (spanish only).
 - [Assembly tutorial by David Pello](https://avivace.ovh/apps/gbdev/salvage/tutorial_de_ensamblador%20%5bLa%20decadence%5d.html) - The english version of the resource above.
 - [Beginner's Guide to Reverse Engineering GB](http://web.archive.org/web/20150511145100/http://www.bennvenn.com/Beginners_Guide_To_Reverse_Engineering.htm) - Some starting tips on disassembling and reverse engineering.
-- [gb-template ★2](exezin/gb-template) - A template with basic functions pre-made such as joypad input, DMA transfers, and map/tile data loading.
+- [gb-template ★2 ⏳1Y](exezin/gb-template) - A template with basic functions pre-made such as joypad input, DMA transfers, and map/tile data loading.
 - [assemblydigest ★35 ⏳3Y](assemblydigest/gameboy) - Exploring Game Boy programming techniques.
 - [Reverse Engineering for Beginners](https://beginners.re/) - Free ebook (1060 pages) by Dennis Yurichev.
 - [FlappyBoy: Making a simple Game Boy Game](http://voidptr.io/blog/2017/01/21/GameBoy.html)
@@ -258,7 +259,7 @@ Game Boy Classic fully functional FPGA implementation from scratch
 - [Ostrich ★3](PumpMagic/ostrich) - A Game Boy Sound System player written in Swift.
 - [mGB ★39 ⏳1Y](trash80/mGB) - A Gameboy cartridge program that enables the Gameboy to act as a full MIDI supported sound module.
 - [GBVisualizer ★10](LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Gameboy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels.
-- [GBVideoPlayer ★31](LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Gameboy LCD controller can be hacked to make a Gameboy Color play a full motion video in color, together with music.
+- [GBVideoPlayer ★31 ⏳1Y](LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Gameboy LCD controller can be hacked to make a Gameboy Color play a full motion video in color, together with music.
 - [rgbgfx ★7](stag019/rgbgfx) - A program which converts PNG images into the Game Boy's planar tile format, for eventual integration into RGBDS.
 - [ArduinoGameBoy ★40 ⏳1Y](drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 - [gameboy-brainfuck ★2](bitnenfer/gameboy-brainfuck) - 

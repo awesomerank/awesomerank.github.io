@@ -13,9 +13,6 @@ Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.f
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
 based on [awesome-python ★34408](vinta/awesome-python).
 
-> **[Pyramid Workshop in Munich, Germany.](https://pyconweb.com/talks/28-05-2017/pyramid-workshop)**
-> (May 28, 2017, 10:30 a.m. - 12:30 p.m.)
-
 - [Awesome Pyramid](#awesome-pyramid)
     - [Admin Interface](#admin-interface)
     - [Asset Management](#asset-management)
@@ -163,7 +160,7 @@ based on [awesome-python ★34408](vinta/awesome-python).
   dogpile.cache configuration package for Pyramid
 * [pyramid_sessions ★0 ⏳2Y](joulez/pyramid_sessions) - Multiple
   session support for the Pyramid Web Framework
-* [pyramid_nacl_session ★6](Pylons/pyramid_nacl_session) -
+* [pyramid_nacl_session ★6 ⏳1Y](Pylons/pyramid_nacl_session) -
   defines an encrypting, pickle-based cookie serializer, using
   [PyNaCl](http://pynacl.readthedocs.io/en/latest/secret/) to generate the
   symmetric encryption for the cookie state.
@@ -250,7 +247,7 @@ based on [awesome-python ★34408](vinta/awesome-python).
 
 *Packages that provide search capabilities to projects.*
 
-* [hypatia ★25](Pylons/hypatia) - A Python indexing and
+* [hypatia ★25 ⏳1Y](Pylons/hypatia) - A Python indexing and
   searching system.
 
 ## Security
@@ -334,6 +331,7 @@ provide new storage backends.*
   to extract translatable texts from your code, and to check existing
   translations. It replaces the use of the xgettext command from gettext, or
   pybabel from Babel.
+* [pyramid_i18n_helper ★2](sahama/pyramid_i18n_helper) - helper to create new smgid and translate msgid to local langs .
 
 ## Web frontend integration
 
@@ -428,7 +426,7 @@ provide new storage backends.*
 * [Khufu Project](http://khufuproject.github.io/) - Khufu is an application
   scaffolding for Pyramid that provides an environment to work with Jinja2 and
   SQLAlchemy.
-* [Ptah ★76 ⏳1Y](ptahproject/ptah) - Ptah is a fast, fun, open
+* [Ptah ★76 ⏳2Y](ptahproject/ptah) - Ptah is a fast, fun, open
   source high-level Python web development environment.
 * [warehouse ★1021](pypa/warehouse) - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
@@ -456,6 +454,7 @@ Where to discover new Pyramid apps and projects.
 
 ## Conferences
 
+* [Pyramid Workshop in Munich, Germany.](https://pyconweb.com/talks/28-05-2017/pyramid-workshop) (May 28, 2017, 10:30 a.m. - 12:30 p.m.)
 * [PloneConf 2017](https://2017.ploneconf.org/) - Barcelona Plone Digital Experience Conference (16~22 Oct. 2017)
 * [PloneConf 2016](https://2016.ploneconf.org/) - Boston Plone Digital Experience Conference (17~23 Oct. 2016)
 * [DragonSprint 2016](http://dragonsprint.com/) - DragonSprint is a week-long sprint on Pyramid. The sprint takes place in Ljubljana, Slovenia, EU in the first week of December (5th to 9th). The main two sprint topics are Pyramid 2.0 and Pyramid for Newcomers.

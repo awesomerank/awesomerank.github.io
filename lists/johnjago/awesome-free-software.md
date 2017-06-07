@@ -43,6 +43,7 @@ A curated list of awesome free software and free software resources.
   - [Articles](#articles)
   - [Discovery](#discovery)
   - [Events](#events)
+  - [Licensing](#licensing)
   - [Organizations](#organizations)
   - [Talks](#talks)
 
@@ -51,6 +52,7 @@ A curated list of awesome free software and free software resources.
 ### Audio
 
 - [Audacity](http://www.audacityteam.org/) - Sound recording and post-processing. ([GNU GPLv2+](http://www.audacityteam.org/about/license/))
+- [Headset](http://headsetapp.co/) - Music streaming from YouTube and music subreddits. ([MIT](https://github.com/headsetapp/headset-electron/blob/master/LICENSE))
 - [LMMS](https://lmms.io/) - Complete music workstation. ([GNU GPLv2+](https://github.com/LMMS/lmms/blob/master/LICENSE.txt))
 - [mStream](http://mstream.io/) - Suite of software for syncing and streaming music across multiple devices. ([GNU GPLv3](https://github.com/IrosTheBeggar/mStream/blob/master/LICENSE))
 
@@ -63,6 +65,7 @@ A curated list of awesome free software and free software resources.
 ### Communication
 
 - [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
+- [Mattermost](https://about.mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
 - [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
 
 ### File Management
@@ -107,6 +110,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Other
 
+- [Lepton](http://hackjutsu.com/Lepton/) - GitHub gist desktop client. ([MIT](https://github.com/hackjutsu/Lepton/blob/master/LICENSE))
 - [Media Mate](https://mediamate.williamblythe.info/) - All-in-one media server, player, and downloader. ([MIT](https://github.com/willyb321/media_mate/blob/develop/license))
 
 ### Payments
@@ -157,15 +161,15 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [GitLab](https://about.gitlab.com/downloads/) - Web-based Git repository manager with wiki and issue tracking features. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
 - [MediaGoblin](http://mediagoblin.org/) - Media publishing platform. ([GNU AGPLv3](http://mediagoblin.org/))
-- [MediaWiki](https://www.mediawiki.org) - Wiki software that has the ability to organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
-- []() - ([]())
+- [MediaWiki](https://www.mediawiki.org) - Wiki software with the ability to organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
 
 ### Web Browsers
 
-- [Chromium](https://www.chromium.org/Home) - The open-source version of one of the world's most popular web browsers. ([BSD license](https://cs.chromium.org/chromium/src/LICENSE))
+- [Chromium](https://www.chromium.org/Home) - The open source version of the world's most popular web browser. ([BSD license](https://cs.chromium.org/chromium/src/LICENSE))
 - [Firefox](https://mozilla.org/firefox) - Web browser with a large collection of add-ons available. It is backed by Mozilla, a non-profit organization that supports innovation, freedom, and an open Web. ([MPL 2.0](https://www.mozilla.org/en-US/MPL/2.0/))
+- [IceCat](https://www.gnu.org/software/gnuzilla/) - A fork of Firefox that is composed entirely of free software. ([MPL 2.0](https://git.savannah.gnu.org/cgit/gnuzilla.git/tree/COPYING))
 - [Waterfox](https://www.waterfoxproject.org/) - Fork of Firefox that is focused on performance, 64-bit systems, and data privacy. ([MPL 2.0](https://raw.githubusercontent.com/MrAlex94/Waterfox/master/LICENSE.md))
 
 ### Web Servers
@@ -192,6 +196,10 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [LibrePlanet](https://libreplanet.org/) - Annual conference on free software.
 - [Software Freedom Day](http://www.softwarefreedomday.org/) - Annual worldwide celebration of free software with the aim of increasing awareness of free software and its virtues.
 
+### Licensing
+
+- [gplenforced.org](https://gplenforced.org/) - Community-oriented GPL enforcement.
+
 ### Organizations
 
 - [Digital Freedom Foundation](http://www.digitalfreedomfoundation.org/) - Promotes access to knowledge via technology.
@@ -210,9 +218,9 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Free Software, Beyond Software by Agustín Benito at TEDxLaLaguna](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 - [Free Software, Free Society by Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
 - [I Am Not a Free Software Guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
-- [Jeremy Allison](https://www.youtube.com/watch?v=kNakHgHnSDI)
-- [John Sullivan](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
-- [Stephen Fry](https://www.youtube.com/watch?v=YGbMbF0mdPU)
+- [Jeremy Allison talks about free software](https://www.youtube.com/watch?v=kNakHgHnSDI)
+- [John Sullivan talks about free software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
+- [Stephen Fry talks about free software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 
 ## License
 

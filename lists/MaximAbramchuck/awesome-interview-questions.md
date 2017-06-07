@@ -178,7 +178,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 ### Golang
 
 * [Solutions for Elements of Programming Interviews problems written in Golang ★55](mrekucci/epi)
-* [Solutions for some basic coding interview tasks written in Go ★18 ⏳1Y](efischer19/golang_ctci)
+* [Solutions for some basic coding interview tasks written in Go ★18 ⏳2Y](efischer19/golang_ctci)
 * [Top 20 GO Programming Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-20-go-programming-interview-questions/)
 
 ### HTML
@@ -279,7 +279,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 
 * [50 Python interview questions and answers](http://www.careerride.com/python-interview-questions.aspx)
 * [8 Essential Python Interview Questions from top 3% developers company](http://www.toptal.com/python/interview-questions)
-* [A listing of questions that could potentially be asked for a python job listing ★51 ⏳1Y](sigmavirus24/python-interview-questions)
+* [A listing of questions that could potentially be asked for a python job listing ★51 ⏳2Y](sigmavirus24/python-interview-questions)
 * [Interview Questions for both beginners and experts](http://www.bogotobogo.com/python/python_interview_questions.php)
 * [Interview Cake Python Interview Questions](https://www.interviewcake.com/python-interview-questions)
 * [Python Frequently Asked Questions (Programming)](https://docs.python.org/2/faq/programming.html)

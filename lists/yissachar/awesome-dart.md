@@ -65,7 +65,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
 * [DartRocket ★39 ⏳2Y](StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
 * [Pixi Dart ★21 ⏳2Y](FedeOmoto/pixi) - A port of the pixi.js rendering engine.
-* [Ranger ★15 ⏳1Y](wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
+* [Ranger ★15 ⏳2Y](wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
 
 ## Animation
 
@@ -140,7 +140,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Stagehand ★193](google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [Crossdart](http://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
-* [gulp-dart ★3](agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
+* [gulp-dart ★3 ⏳1Y](agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
 * [dev_compiler](https://github.com/dart-lang/dev_compiler) - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.
 
 ## Tutorials

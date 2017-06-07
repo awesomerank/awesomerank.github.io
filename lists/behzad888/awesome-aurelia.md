@@ -210,7 +210,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [sukobuto/aurelia-tinymce-sample ★1 ⏳1Y](sukobuto/aurelia-tinymce-sample) * Sample app with Aurelia and TinyMCE
 * [stamp-web/stamp-web-aurelia ★15](stamp-web/stamp-web-aurelia) * Next Generation Stamp Web Editor written in Aurelio with Bootstrap
 * [aurelia-tabs ★14](Vheissu/aurelia-tabs) * A dependency free tabs component for your Aurelia applications. Allows you to toggle between sections of content, with supports for dynamically composing views with optional data
-* [aurelia-flickr-ts-memo-game ★0](kst83/aurelia-flickr-ts-memo-game) * Match the pairs type of game written with Aurelia in TypeScript using Flickr
+* [aurelia-flickr-ts-memo-game ★0 ⏳1Y](kst83/aurelia-flickr-ts-memo-game) * Match the pairs type of game written with Aurelia in TypeScript using Flickr
 * [AureliaElectronHappiness ★7](seesharper/AureliaElectronHappiness) * Sample application that shows how to combine TypeScript, VSCode and Electron.
 * [aurelia-datatable ★23](SpoonX/aurelia-datatable) * A 100% aurelia based data table component [http://aurelia-datatable.spoonx.org](http://aurelia-datatable.spoonx.org)
 

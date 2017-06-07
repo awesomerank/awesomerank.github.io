@@ -17,7 +17,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-821-orange.svg) | May 26, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-827-orange.svg) | June 05, 2017
 
 ### Contributing
 
@@ -26,6 +26,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Contents
 
 - [Guides](#guides)
+  - [Newsletter](#newsletter)
   - [Official Guides](#official-guides)
   - [Style Guides](#style-guides)
   - [Third party Guides](#third-party-guides)
@@ -151,6 +152,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ## Guides
 *An awesome list of Swift related guides.* 
 
+### Newsletter
+[back to top](#readme) 
+
+* [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - A curated newsletter by Natasha the Robot
+* [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter
+* [This Week In Swift](http://swiftnews.curated.co/) - Weekly Newsletter on Swift.
+* [WeeklyCocoa.News](https://weeklycocoa.news) - Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.
+
 ### Official Guides
 [back to top](#readme) 
 
@@ -164,7 +173,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [GitHub ★4083](github/swift-style-guide) - Style guide & coding conventions.
 * [LinkedIn ★487](linkedin/swift-style-guide) - LinkedIn's Official Style Guide.
 * [Raywenderlich ★7126](raywenderlich/swift-style-guide) - Raywenderlich guide, a must read.
-* [Swift-Best-Practices ★1882](schwa/Swift-Community-Best-Practices) - Best practices for software development.
 
 ### Third party Guides
 [back to top](#readme) 
@@ -184,7 +192,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftIntro ★47](Sajjon/SwiftIntro) - Memory game implementation that also teaches Swift.
 * [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code.
 * [The Swift Web Developer](https://theswiftwebdeveloper.com) - A publication for Swift Web Developers.
-* [This Week In Swift](http://swiftnews.curated.co/) - Weekly Newsletter on Swift.
 
 ## Boilerplates
 
@@ -514,6 +521,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AEXML ★650](tadija/AEXML) - xml wrapper.
 * [AlamofireXmlToObjects ★58](evermeer/AlamofireXmlToObjects) - An Alamofire extension for fetching an XML feed and parsing it into objects.
+* [SwiftyXML ★16](chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML data
 * [SWXMLHash ★772](drmohundro/SWXMLHash) - Simple XML parsing.
 * [XMLParser ★74 ⏳1Y](Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+.
 
@@ -760,6 +768,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [JustUiKit ★30](lfkdsk/JustUiKit) - iOS UI Kit With Android-Style. It is designed to make Android developers build iOS UI easily.
 * [ManualLayout ★259](isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [Neon ★3945](mamaral/Neon) - A powerful programmatic UI layout framework.
+* [PinLayout](https://mirego.github.io/PinLayout/) - Manual views layouting without auto layout, no magic, pure code, full control. Concise syntax, readable & chainable.
 * [Static ★912](venmo/Static) - A simple static table views for iOS.
 * [Stevia ★2035](freshOS/Stevia) - Elegant view layout for iOS.
 * [SwiftBox ★781](joshaber/SwiftBox) - Inspired by Flexbox, uses Facebook's css-layout.
@@ -1299,6 +1308,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### TextField
 [back to top](#readme) 
 
+* [CBPinEntryView ★16](Fawxy/CBPinEntryView) - CBPinEntryView is an easy to use, very customisable pin entry field.
 * [DTTextField ★50](iDhaval/DTTextField) - DTTextField is a custom textfield with floating placeholder and error label.
 * [HTYTextField ★211](hanton/HTYTextField) - A UITextField with bouncy placeholder.
 * [PasswordTextField ★119](PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
@@ -1318,6 +1328,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [MusicPlayerTransition ★407](xxxAIRINxxx/MusicPlayerTransition) - Custom interactive transition like Apple Music iOS App.
 * [PinterestSwift ★1455](demonnico/PinterestSwift) - Pinterest style transition.
 * [RevealingSplashView ★679](PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by the Twitter splash.
+* [SendIndicator ★19](LeonardoCardoso/SendIndicator) - Yet another task indicator.
 * [StarWars.iOS ★2834](Yalantis/StarWars.iOS) - Transition animation to crumble view-controller into tiny pieces.
 * [Transition ★1598](Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions.
 * [TransitionManager ★193](cemolcay/TransitionManager) - Painless custom transitioning. Easy extend, easy setup, just focus on animations.

@@ -249,7 +249,7 @@ in STEM (Science, Technology, Engineering, Math) industries.
 
 ## Internationalization
 
-- [i18n Testing Data ★23](patch/i18n-testing) - Real-word
+- [i18n Testing Data ★23 ⏳1Y](patch/i18n-testing) - Real-word
 international and diverse name data for unit testing and QA.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
 A video about things you need to keep in mind when internationalizing your code.

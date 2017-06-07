@@ -60,7 +60,7 @@ You might also like [awesome-php ★15483](ziadoz/awesome-php).
 - [Composer-Symlinker ★9](dg/composer-symlinker) - Enables you to load some packages from different directories (instead of loading them from /vendor).
 - [Prestissimo ★2698](hirak/prestissimo) - A parallel downloader using `phpext_curl`.
 - [Composer-FastFetch ★5 ⏳1Y](jakoch/composer-fastfetch) - Parallel Downloader using external download tools: Aria2.
-- [Composer-Curl-Plugin ★2 ⏳1Y](ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages.
+- [Composer-Curl-Plugin ★2 ⏳2Y](ngyuki/composer-curl-plugin) - The plugin use phpext_curl for downloading packages.
 - [Composer-Custom-Directory-Installer ★78](mnsami/composer-custom-directory-installer) - A composer plugin, to install different types of composer packages in custom directories outside the default composer installation path (which is in the vendor folder).
 - [Composer-Dependency-Analyzer](https://packagist.org/packages/jms/composer-deps-analyzer) - Allows you to build a dependency graph for an installed composer project.
 - [PackageVersions ★117](Ocramius/PackageVersions) - Provides a very quick and easy access to installed composer dependency versions.
@@ -92,6 +92,7 @@ You might also like [awesome-php ★15483](ziadoz/awesome-php).
 
 - [WordPress Packagist](https://wpackagist.org/) - Mirrors the WordPress plugin and theme directories as a Composer repository.
 - [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
+- [Firegento](http://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 
 ## Tutorials 
 

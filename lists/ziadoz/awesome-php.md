@@ -97,6 +97,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PaketHub](https://pakethub.com/) - All-in-One PHP Package Repository.
 * [Private Packagist](https://packagist.com/) - Composer package archive as a service for PHP.
 * [WordPress Packagist](https://wpackagist.org/) - Manage your plugins with Composer.
+* [Zend Framework Packages](https://packages.zendframework.com/) - Zend Framework Composer Repository.
 
 ## Dependency Management
 *Libraries for dependency and package management.*
@@ -175,7 +176,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Aura.Router ★307](auraphp/Aura.Router) - A full-featured routing library.
 * [Fast Route ★2270](nikic/FastRoute) - A fast routing library.
 * [Klein ★2067](klein/klein.php) - A flexible router.
-* [Pux ★1202](c9s/Pux) - Another fast routing library.
+* [Pux ★1202 ⏳1Y](c9s/Pux) - Another fast routing library.
 * [Route ★281](thephpleague/route) - A routing library built on top of Fast Route.
 
 ## Templating

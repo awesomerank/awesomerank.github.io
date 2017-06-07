@@ -170,6 +170,7 @@ A curated list of cryptography resources and links.
 ### Clojure
 
 - [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
+- [clj-crypto ★22](macourtney/clj-crypto) - Wrapper for Bouncy Castle.
 - [pandect ★170](xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
 
 ### Common Lisp

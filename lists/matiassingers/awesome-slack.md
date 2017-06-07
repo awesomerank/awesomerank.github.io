@@ -186,7 +186,7 @@ Ranked awesome lists, all in one place
 - [brackets-slacksnippet ★10 ⏳1Y](Wikunia/brackets-slacksnippet) - push code snippets from Brackets to a slack channel
 - [browser-node-slack ★2 ⏳1Y](RichardLitt/browser-node-slack) - Slack integration for node and browserify
 - [bunyan-slack ★59](qualitybath/bunyan-slack) - Bunyan stream for Slack chat integration
-- [camayak-to-slack ★1 ⏳2Y](tcu360/camayak-to-slack) - Node.js app that allows Slack to work as a Camayak publishing destination
+- [camayak-to-slack ★1 ⏳3Y](tcu360/camayak-to-slack) - Node.js app that allows Slack to work as a Camayak publishing destination
 - [chivebot ★8 ⏳2Y](totherik/chivebot) - A pluggable Slack bot based on Outgoing Webhooks
 - [CircleCI2Slack](https://github.com/modestinc/CircleCI2Slack) - Node app that proxies build notifications from CircleCI to Slack
 - [crispyfi ★117 ⏳1Y](crispymtn/crispyfi) - A local pseudo-bot that controls Spotify through Slack
@@ -256,7 +256,7 @@ Ranked awesome lists, all in one place
 - [slack.com.js ★3 ⏳3Y](caseman72/slack.com.js) - Google Chrome extension to make emoticons look better
 - [slack-issue-tracker-parser ★4 ⏳1Y](caiosba/slack-issue-tracker-parser) (II) - A Google Chrome extension to turn issues numbers into links to the issue on an issue tracker
 - [slackapi-angularjs ★27](nickaranz/slackapi-angularjs) - AngularJS module wrapper for the Slack Web API
-- [slackarma ★7 ⏳1Y](gdroel/slackarma) - Give your teammates reputation points in Slack
+- [slackarma ★7 ⏳2Y](gdroel/slackarma) - Give your teammates reputation points in Slack
 - [slackbot-says ★6 ⏳2Y](smilledge/slackbot-says) - Chrome extension to post messages to Slack as Slackbot
 - [slackbotapi ★125](xBytez/slackbotapi) - node.js Slack RTM API module
 - [slackbox ★494](benchmarkstudios/slackbox) - Spotify playlist collaboration through Slack
@@ -314,13 +314,13 @@ Ranked awesome lists, all in one place
 - [Gifbot ★20 ⏳2Y](josephschmitt/gifbot) - GIFs for your Slack channel
 - [GifBot ★75 ⏳2Y](gstjohn/GifBot) - Random GIF generator for your Slack channels
 - [jira-slack-php ★22 ⏳1Y](HotAlexx/jira-slack-php) - JIRA-Slack Integration in PHP
-- [make-it-rain ★302](fitztrev/make-it-rain) - Animated gif notifications whenever you get paid through Stripe
+- [make-it-rain ★302 ⏳1Y](fitztrev/make-it-rain) - Animated gif notifications whenever you get paid through Stripe
 - [MantisBT-Slack ★37](infojunkie/MantisBT-Slack) - MantisBT plugin to send bug updates to Slack
 - [mediawiki-slack ★36 ⏳1Y](grundleborg/mediawiki-slack) - Mediawiki integration for Slack
 - [monolog ★6097](Seldaek/monolog) - Sends your logs to Slack
 - [notifyme ★176](notifymehq/notifyme) - Provides a common interface for notification services
 - [opauth-slack ★1 ⏳1Y](t1mmen/opauth-slack) - Slack authentication strategy for Opauth
-- [phlack ★52](mcrumm/phlack) - PHP API Wrapper
+- [phlack ★52 ⏳1Y](mcrumm/phlack) - PHP API Wrapper
 - [php-slack ★119](Frlnc/php-slack) - A lightweight PHP implementation of Slack's API
 - [PHP-Slack](https://github.com/ConnorVG/PHP-Slack) - PHP API Wrapper with Laravel support
 - [php-slack-error-reporter ★5 ⏳2Y](tailored-tunes/php-slack-error-reporter) - Library to report errors to slack.
@@ -379,7 +379,7 @@ Ranked awesome lists, all in one place
 - [slack-echo-chamber ★6 ⏳2Y](balloon-studios/slack-echo-chamber) - Crosspost messages from one channel into another
 - [slack-emojis ★110](jkloo/slack-emojis) - images for custom Slack emojis
 - [slack-imgur ★18 ⏳1Y](juanpabloaj/slack-imgur) - A random image from Imgur to Slack
-- [slack-overflow ★799](karan/slack-overflow) - Search Stack Overflow right from within Slack
+- [slack-overflow ★799 ⏳1Y](karan/slack-overflow) - Search Stack Overflow right from within Slack
 - [slack\_standup\_snitch ★2 ⏳1Y](ramanshah/slack_standup_snitch) - A Slack bot that counts the days each user was active on a channel, calling out the inactive users
 - [slack-w3w ★10 ⏳2Y](samzhang111/slack-w3w) - Slack Webhook for linking to What3Words
 - [slack-workout ★531](brandonshin/slackbot-workout) - A fun hack that gets Slackbot to force your teammates to work out!
@@ -429,7 +429,7 @@ Ranked awesome lists, all in one place
 - [lita-slack-handler ★7 ⏳2Y](kenjij/lita-slack-handler) - Lita handler for Slack
 - [mina\_slack ★9 ⏳2Y](mbajur/mina_slack) - Slack notifications for Mina
 - [Monit to Slack](https://gist.github.com/jlecour/9830941) - Post alerts from Monit to Slack
-- [mslabs-slack-bridge ★1 ⏳2Y](ms-digital-labs/mslabs-slack-bridge) - Bridge between our cloud services and Slack
+- [mslabs-slack-bridge ★1 ⏳3Y](ms-digital-labs/mslabs-slack-bridge) - Bridge between our cloud services and Slack
 - [omniauth-slack ★64](kmrshntr/omniauth-slack) - Omniauth provider for Slack
 - [pagerbot ★213](stripe-contrib/pagerbot) - Manage Pagerduty on-call schedules from within your internal chat channels
 - [puppet-slack ★2 ⏳3Y](orlando/puppet-slack) - Slack Puppet Module for Boxen

@@ -426,7 +426,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [localForage](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 * [jStorage ★1479](andris9/jStorage) - jStorage is a simple key/value database to store data on browser side.
 * [cross-storage ★931](zendesk/cross-storage) - Cross domain local storage, with permissions.
-* [basket.js ★2937](addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
+* [basket.js ★2937 ⏳1Y](addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
 * [bag.js ★59](nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
 * [basil.js ★1874](Wisembly/basil.js) - The missing Javascript smart persistent layer.
 * [jquery-cookie ★8232](carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
@@ -585,7 +585,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Keyboard Wrappers
 
 * [mousetrap ★7775](ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript.
-* [keymaster ★5722](madrobby/keymaster) - A simple micro-library for defining and dispatching keyboard shortcuts.
+* [keymaster ★5722 ⏳1Y](madrobby/keymaster) - A simple micro-library for defining and dispatching keyboard shortcuts.
 * [Keypress ★3034](dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key.
 * [KeyboardJS ★1290](RobertWHurst/KeyboardJS) - A JavaScript library for binding keyboard combos without the pain of key codes and key combo conflicts.
 * [jquery.hotkeys ★2418](jeresig/jquery.hotkeys) - jQuery Hotkeys lets you watch for keyboard events anywhere in your code supporting almost any key combination.
@@ -826,7 +826,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [velocity ★12915](julianshapiro/velocity) - Accelerated JavaScript animation.
 * [jquery.transit ★7312](rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery.
 * [imrpess.js ★31610](impress/impress.js) - Make Prezi-like presentations with CSS3 transformations/transitions in an HTML document.
-* [bounce.js ★5002 ⏳1Y](tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
+* [bounce.js ★5002 ⏳2Y](tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
 * [GreenSock-JS ★6148](greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 * [TransitionEnd ★85](EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitionend event.
 * [Dynamic.js ★6301](michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations.

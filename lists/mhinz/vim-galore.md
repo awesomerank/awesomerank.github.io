@@ -2715,7 +2715,7 @@ Here's a list of commonly used colorschemes:
 - [jellybeans ★1081](nanotech/jellybeans.vim)
 - [lucius ★240 ⏳1Y](jonathanfilip/vim-lucius)
 - [molokai ★2329](tomasr/molokai)
-- [railscasts ★232](jpo/vim-railscasts-theme)
+- [railscasts ★232 ⏳1Y](jpo/vim-railscasts-theme)
 - [seoul256 ★642](junegunn/seoul256.vim)
 - [solarized](https://github.com/altercation/vim-colors-solarized) (or a lighter variant: [flattened ★145](romainl/flattened))
 - [tomorrow ★241](chriskempson/vim-tomorrow-theme)

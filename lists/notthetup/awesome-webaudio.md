@@ -61,7 +61,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [audio contour ★12](danigb/audio-contour) - A 5 stage audio envelope generator.
 - [Tuna ★820](Theodeus/tuna) - An audio effects library.
 - [web-audio-recorder-js ★143](higuma/web-audio-recorder-js) - A library that records audio input (Web Audio API AudioNode object) and encodes to audio file image (Blob object).
-- [audiolet ★848](oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
+- [audiolet ★848 ⏳1Y](oampo/Audiolet) - A JavaScript library for real-time audio synthesis and composition from within the browser.
 - [playnote ★1](createbits/playnote) - Play your favorite instrument in the browser, with complex note intervals and scales.
 
 ### Utilities
@@ -95,7 +95,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Books
 - [Web Audio API Book](http://chimera.labs.oreilly.com/books/1234000001552/index.html) - A book that brings the reader through the basics of WebAudio.
-
+- [JavaScript for Sound Artists](https://www.crcpress.com/JavaScript-for-Sound-Artists-Learn-to-Code-with-the-Web-Audio-API/Turner-Leonard/p/book/9781138961531) - A bottom up JavaScript / DOM course using Web Audio for all the examples.
 ### Newsletters
 - [Web Audio Weekly Newsletter](http://www.webaudioweekly.com) - A weekly review of what's happening in Web Audio.
 

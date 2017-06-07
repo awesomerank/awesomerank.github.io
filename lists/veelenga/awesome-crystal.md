@@ -114,6 +114,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [snappy-crystal ★3 ⏳1Y](benoist/snappy-crystal) - Bindings for Snappy library
  * [soundfile ★0](mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [ssh2.cr ★21](datanoise/ssh2.cr) - Bindings for libssh2 library
+ * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow ★58822](tensorflow/tensorflow)
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox ★1033](nsf/termbox) (terminal UI library)
  * [x11-cr ★1](TamasSzekeres/x11-cr) - X11 bindings
  * [zeromq-crystal ★18](benoist/zeromq-crystal) - Bindings for ZeroMQ
@@ -172,6 +173,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rocksdb.cr ★8](maiha/rocksdb.cr) - RocksDB client
 
 ## Database Tools
+ * [crecto-admin ★2](Crecto/crecto-admin) - Admin dashboard for Crecto and your database
  * [micrate ★54](juanedi/micrate) - Database migration tool
 
 ## Development Tools
@@ -415,6 +417,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Template Engine
  * [Bunny ★9 ⏳2Y](samsheff/Bunny) - A simple HTML templating language for Crystal, same syntax as erb
  * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup ★1556](weavejester/hiccup)
+ * [crinja ★4](straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache ★31](MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
  * [Kilt ★51](jeromegn/kilt) - Abstraction layer for template engines
  * [Slang ★70](jeromegn/slang) - Lightweight, terse, templating language inspired by Ruby's Slim
@@ -444,6 +447,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-github ★1](felipeelias/crystal-github) - Wrapper for the [Github](https://github.com/) API
  * [crystal-mondo](https://github.com/barisbalic/crystal-mondo) - A client for the [Mondo API](https://getmondo.co.uk/docs/)
  * [crystal-newrelic ★3](waj/crystal-newrelic) - NewRelic API client
+ * [crystal-ovh ★6](ovh/crystal-ovh) - Lightweight Crystal wrapper around [OVH](https://eu.api.ovh.com/)'s API
  * [crystal-qiita ★0 ⏳1Y](pine/crystal-qiita) - A wrapper for the [Qiita](https://qiita.com/) API
  * [crystal-swapi ★2](sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
  * [crystal_brium ★1](manastech/crystal_brium) - Access Brium's API using Crystal
@@ -470,20 +474,15 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [spotify.cr ★27](marceloboeira/spotify.cr) - A library to access the Spotify API
  * [TelegramBot](https://github.com/hangyas/TelegramBot) - A wrapper for the Telegram Bot API
  * [twitter-crystal ★48](sferik/twitter-crystal) - A library to access the Twitter API
- * [wit-crystal ★9](spalladino/wit-crystal) - Crystal SDK for [wit.ai](https://wit.ai/)
+ * [wit-crystal ★9 ⏳1Y](spalladino/wit-crystal) - Crystal SDK for [wit.ai](https://wit.ai/)
 
 ## Virtualization
  * [backed_file_system ★45](schovi/baked_file_system) - Virtual file system implementation
  * [rcpu ★30](ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks
- * [amatista ★50 ⏳1Y](werner/amatista) - A web framework to create quick applications
  * [amber ★29](Amber-Crystal/amber) - Open source efficient and cohesive web application framework
  * [amethyst ★504](Codcore/Amethyst) - A Rails inspired web-framework
- * [carbon-crystal ★43 ⏳1Y](benoist/carbon-crystal) - A framework with Rails in mind
- * [chocolate ★10 ⏳1Y](Grabli66/chocolate) - Simple web framework and template engine
- * [frost ★96 ⏳1Y](ysbaddaden/frost) - Full featured MVC Web Framework, largely inspired by Ruby on Rails
- * [iceberg ★25 ⏳1Y](adlerhsieh/iceberg) - A full-stack web framework
  * [kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [kemalyst](https://github.com/drujensen/kemalyst) - A Rails like framework inspired by Kemal but includes the kitchen sink
  * [lattice-core ★37](jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)

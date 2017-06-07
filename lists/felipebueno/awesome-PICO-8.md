@@ -101,7 +101,7 @@ How to install the font(s):
 ## Hacks - undocumented PICO-8 features
 
 - [Mouse](http://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (with demo).
-- [p8keyboard.js ★7](dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
+- [p8keyboard.js ★7 ⏳1Y](dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 - [SFX Modifications](http://www.lexaloffle.com/bbs/?tid=3561) - Four effects that can only be applied by modifying memory (with demo).
 - [Tracker State/Audio Memory Locations](http://www.lexaloffle.com/bbs/?pid=10719#p10719) - How to access and modify audio data as it is playing.
 
@@ -121,7 +121,7 @@ How to install the font(s):
 ## Clones
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX         
 - [PicoLove ★34](gamax92/picolove) - Pico-8 Reimplementation in LÖVE.
-- [LIKO-12 ★166](RamiLego4Game/LIKO-12) - A PICO-8 clone with extra abilities, different api and bigger screen width.
+- [LIKO-12 ★166](RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
 - [PX8 ★533](Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
 ## I Want to Contribute!

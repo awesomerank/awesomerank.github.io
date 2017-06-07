@@ -114,7 +114,7 @@ Ranked awesome lists, all in one place
 - [Marionette State ★115 ⏳1Y](Squareknot/marionette.state)
 - [Marionette Virtual Dom ★134](tiagorg/marionette-vdom)
 - [Marionette Form View ★80 ⏳1Y](viverae/marionette.formview)
-- [A Better Router for Backbone and Marionette Applications ★68 ⏳1Y](Betterment/backbone.blazer)
+- [A Better Router for Backbone and Marionette Applications ★68 ⏳2Y](Betterment/backbone.blazer)
 - [Marionette.Toolkit ★65](RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
 - [Orchestra ★26](BedeGaming/orchestra) - Client-side app orchestration framework
 ---

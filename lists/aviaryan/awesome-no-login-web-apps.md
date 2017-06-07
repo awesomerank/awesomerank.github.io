@@ -101,6 +101,7 @@ To save the world from creating user accounts and installing software applicatio
 * [rst.ninjs](http://rst.ninjs.org/) - WYSIWYG RST preview with option to save document online for editing later.
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
 * [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
+* [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
 
 
 <a name="drawing"></a>
@@ -146,6 +147,7 @@ To save the world from creating user accounts and installing software applicatio
 ### Games
 
 * [Typeracer](http://play.typeracer.com/) - Evaluate your typing speed while racing against others.
+* [Spark Chess](https://www.sparkchess.com/) - Learn to play chess, play with users around the globe or play with AI depending on your skill level.
 
 
 ### Graphics, Image and Design

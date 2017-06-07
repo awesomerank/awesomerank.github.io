@@ -116,13 +116,14 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Input & Binding Libraries*
 
 * [baton ★22](tesselode/baton) -  Input library for LÖVE that bridges the gap between keyboard and gamepad controls
-* [boipushy](https://github.com/adonaac/boipushy) - A simple and easy to use input handler
+* [boipushy ★51](SSYGEA/boipushy) - A simple and easy to use input handler
 * [love-microphone ★43 ⏳1Y](LPGhatguy/love-microphone) - Simple microphone support for LÖVE
 * [tactile ★34](tesselode/tactile) - A straightforward and flexible input library
 
 ## Lighting
 *Lighting & Shadow Libraries*
 
+* [Shädows ★27](matiasah/shadows) - A Shadows & Lights engine for löve
 * [Light World ★127](tanema/light_world.lua) - A lighting model
 
 ## Math
@@ -169,6 +170,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [Bump ★317](kikito/bump.lua) - Collision detection library for Lua
 * [HC](http://vrld.github.io/HardonCollider/) - Collision detection with arbitrary polygons; allows rotation of objects
+* [Windfield ★45](SSYGEA/windfield) - Physics module wrapper for LÖVE
 
 ## Platforms
 *Ports for Platforms other than Windows, Mac and Linux*
@@ -255,7 +257,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tutorials
 *Blogs and tutorials*
 
-* [adonaac's](https://github.com/adonaac/blog) - A blog by [adonaac](https://github.com/adonaac) with articles about game development using LÖVE
+* [SSYGEA's ★574](SSYGEA/blog) - A blog by [SSYGEA](https://github.com/SSYGEA) with articles about game development using LÖVE
 * [Using Tiled Maps in LÖVE](http://lua.space/gamedev/using-tiled-maps-in-love) - An article about using maps created with Tiled in your LÖVE game
 * [Tutorial on making an Arkanoid-type game](https://github.com/noooway/love2d_arkanoid_tutorial/wiki) - A complete tutorial on how to make a breakout clone by nooowaay
 * [Simple Game Tutorials](https://simplegametutorials.github.io/) - Tutorials for making simple games with LÖVE (Snake, Sokoban, Tetris, etc.)

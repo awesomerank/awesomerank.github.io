@@ -35,7 +35,7 @@ Discover more awesome lists at [sindresorhus/awesome ★59088](sindresorhus/awes
     - [mysql ★10 ⏳4Y](schmalle/MysqlPot) - A mysql honeypot, still very very early stage.
     - [NoSQLpot ★78](torque59/nosqlpot) - The NoSQL Honeypot Framework.
     - [ESPot ★6 ⏳2Y](mycert/ESPot) - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
-    - [Delilah ★25 ⏳1Y](Novetta/delilah) - An Elasticsearch Honeypot written in Python.
+    - [Delilah ★25 ⏳2Y](Novetta/delilah) - An Elasticsearch Honeypot written in Python.
 
 - Web honeypots
     - [Glastopf ★271](mushorg/glastopf) - Web Application Honeypot.
@@ -60,11 +60,11 @@ Discover more awesome lists at [sindresorhus/awesome ★59088](sindresorhus/awes
         - [HonnyPotter ★18 ⏳1Y](MartinIngesen/HonnyPotter) - A WordPress login honeypot for collection and analysis of failed login attempts.
         - [HoneyPress ★48](dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container.
         - [wp-smart-honeypot ★12 ⏳1Y](freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot.
-        - [wordpot ★96 ⏳1Y](gbrindisi/wordpot) - A WordPress Honeypot.
+        - [wordpot ★96 ⏳2Y](gbrindisi/wordpot) - A WordPress Honeypot.
 
 - Service Honeypots
     - [honeyntp ★33 ⏳3Y](fygrave/honeyntp) - NTP logger/honeypot.
-    - [honeypot-camera ★30 ⏳1Y](alexbredo/honeypot-camera) - observation camera honeypot.
+    - [honeypot-camera ★30 ⏳2Y](alexbredo/honeypot-camera) - observation camera honeypot.
     - [troje ★30 ⏳2Y](dutchcoders/troje) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
     - [HoneyPy ★218](foospidy/HoneyPy) - A low interaction honeypot.
     - [Ensnare ★66](ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
@@ -273,7 +273,7 @@ Discover more awesome lists at [sindresorhus/awesome ★59088](sindresorhus/awes
     - [Cowrie ★1115](micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
     - [sshlowpot](https://github.com/kd5pbo/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
     - [sshhipot](https://github.com/kd5pbo/sshhipot) - High-interaction MitM SSH honeypot
-    - [DShield docker ★3](xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
+    - [DShield docker ★3 ⏳1Y](xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
     - [hornet ★17](czardoz/hornet) - Medium interaction SSH Honeypot that supports multiple virtual hosts
     - [ssh-honeypot ★90](droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords.    
 

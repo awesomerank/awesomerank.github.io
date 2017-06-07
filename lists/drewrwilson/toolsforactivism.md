@@ -26,7 +26,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 ## Open-source host-it-yourself:
 
- * [Contact Congress (Open Source) ★22 ⏳2Y](EFForg/contact-congress) - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below.
+ * [Contact Congress (Open Source) ★22 ⏳3Y](EFForg/contact-congress) - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below.
  * [Call Congress](https://github.com/fightforthefuture/call-congress) - Coordinate call-in days to US Congress, the President, or local or corporate targets. Original project from Fight for the Future and Taskforce.is, but with lots of development from [Mozilla ★1 ⏳2Y](mozilla/call-congress) and the [EFF](https://github.com/effOrg/call-congress/tree/refactor/master). Frontend looks like this, [https://call.mozilla.org](https://call.mozilla.org]) and the backend looks like [http://callpower.org](http://callpower.org/easy-to-use/). A hosted version is available, and the code is AGPL.
  * [Twilio.org's Rapid Response Kit ★249](Twilio-org/rapid-response-kit) - Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)
  * [Ushahidi](https://www.ushahidi.com/) - Platform for data management and visualization. Other tools include CrowdMap, CrisisNET (data about world crises), Ping (tool for checking is someone is ok after an emergency), SMSsync (two-way SMS gateway). Check out their [github repos](https://github.com/ushahidi).
@@ -54,7 +54,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
 These are all projects that are works in process. Not finished, but worth checking out.
 
- * [Where@ ★20 ⏳1Y](the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
+ * [Where@ ★20 ⏳2Y](the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
  * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code ★9 ⏳1Y](drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
  * [Day of Action ★8 ⏳2Y](handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
 

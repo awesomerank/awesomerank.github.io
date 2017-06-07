@@ -17,6 +17,8 @@ You might also like [awesome-haskell ★1088](krispo/awesome-haskell).
 
 ## Contents
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 
 
 - [Introduction](#introduction)
@@ -55,6 +57,7 @@ You might also like [awesome-haskell ★1088](krispo/awesome-haskell).
   - [Unit Testing](#unit-testing)
 - [License](#license)
 
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
 
@@ -207,6 +210,8 @@ You might also like [awesome-haskell ★1088](krispo/awesome-haskell).
 ### IDEs
 
 - [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial) - Eclipse plugin for Frege.
+- [intellij-frege ★11](carymrobbins/intellij-frege) - Frege support for IntelliJ IDEA.
+- [frege-idea-plugin ★21 ⏳1Y](Dierk/frege-idea-plugin) - Language support for Frege in IntelliJ IDEA.
 
 ### REPLs
 

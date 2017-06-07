@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="JStumpp/awesome-android">JStumpp/awesome-android</a> with ranks
 </p>
 ---
-# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+﻿# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
 
 # [<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png"> ★3961](jstumpp/awesome-android)
 
@@ -60,7 +60,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ## Emulators
 - [AMIDuOS](https://www.amiduos.com)
-- [AndY](http://andyroid.net)
+- [AndY](https://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
 - [BlueStacks](http://www.bluestacks.com)
 - [Genymotion](https://www.genymotion.com)
@@ -239,7 +239,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 #### ORM
 
 - [requery ★1929](requery/requery) - Compile time ORM and SQL query library for Java & Android.
-- [GreeDAO](http://greenrobot.org/greendao/) - Light & fast ORM solution.
+- [GreenDAO](http://greenrobot.org/greendao/) - Light & fast ORM solution.
 - [ORMLite](http://ormlite.com/sqlite_java_android_orm.shtml) - Lightweight ORM Java package for JDBC and Android.
 - [ActiveAndroid](http://www.activeandroid.com) - Active record style ORM.
 - [Sugar ORM](http://satyan.github.io/sugar/) - Insanely easy way to work with Android Databases.
@@ -310,6 +310,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [MediaRecorderDialog ★38](alhazmy13/MediaRecorderDialog) - Custom Dialog to record audio, store it and play it in your phone.
 - [HijriDatePicker ★39](alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
+- [Noty ★4](emre1512/Noty) - A simple library for creating animated alerts/dialogs/warnings.
 
 ### Version Checking
 
@@ -391,7 +392,7 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### HTML, CSS and Javascript
 
-- [PhoneGap](http://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
+- [PhoneGap](https://phonegap.com) - Open source framework by Adobe to create cross platform mobile apps using HTML, CSS, and JavaScript.
 - [Titanium](http://www.appcelerator.com/mobile-app-development-products/) - Open-source framework to create 'native' cross platform apps using JavaScript.
 - [NativeScript](https://www.nativescript.org/) - An open-source framework to build native iOS and Android apps with JavaScript from a single code base.
 - [React Native ★48867](facebook/react-native) - A framework for building native apps with React by Facebook.

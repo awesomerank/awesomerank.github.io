@@ -135,6 +135,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Find Bacon](https://findbacon.com/jobs/remote)
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) - View as table, then sort by `performed`
+  1. [FrontHAT](https://fronthat.com/) - Aggragated and curated collection of 100% remote frontend development and design jobs.
   1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
   1. [GoRemote.io](https://goremote.io/)
@@ -146,7 +147,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [JOBBOX.io](https://landing.jobs/offers) – Filter -> Remote only.
   1. [Jobmote](http://jobmote.com/) – Telecommuting jobs for IT professionals.
   1. [Jobspresso](https://jobspresso.co/) * High-quality remote positions that are open and legitimate *
-  1. [Jobs Remotely](https://jobsremotely.com) – Jobs and Resumes.
   1. [Landing.jobs](https://landing.jobs/offers) filter -> Remote only
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
@@ -208,7 +208,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   3. [Project Getaway](http://www.projectgetaway.com) - 30 days retreat
 
 ## Newsletters
-  1. [Remote Digest](http://remotedigest.com/) - Job posts.
   1. [Remote Internships](http://foundersgrid.com/)
   1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
   1. [Working Nomads](http://workingnomads.co/) - Job posts.

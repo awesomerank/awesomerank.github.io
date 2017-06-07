@@ -26,6 +26,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [E-commerce](#e-commerce)
   - [SEO and SMO](#seo-and-smo)
   - [Analytics](#analytics)
+  - [Customer experience](#customer-experience)
   - [Security](#security)
   - [Media](#media)
   - [Translations](#translations)
@@ -109,7 +110,11 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### Analytics
 
 - [Wagtail Analytics ★53](tomdyson/wagalytics) - A Google Analytics dashboard in your Wagtail admin.
+
+### Customer experience
+
 - [Wagtail Experiments ★26](torchbox/wagtail-experiments) – A/B testing for Wagtail.
+- [Wagtail Personalisation ★23](LabD/wagtail-personalisation) - Personalisation module, enabling editors to create customised pages - or parts of pages - based on segments whose rules are configured directly in the admin interface.
 
 ### Security
 

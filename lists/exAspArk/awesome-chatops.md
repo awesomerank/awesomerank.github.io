@@ -108,7 +108,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Campfire
 
-* [Errbot](http://errbot.io/) + [adapter ★0](errbotio/err-backend-campfire) (Python)
+* [Errbot](http://errbot.io/) + [adapter ★0 ⏳1Y](errbotio/err-backend-campfire) (Python)
 * [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/campfire.html) (Go)
 * [Hubot](https://hubot.github.com/) + [adapter](https://hubot.github.com/docs/adapters/campfire/) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter ★7 ⏳2Y](josacar/lita-campfire) (Ruby)

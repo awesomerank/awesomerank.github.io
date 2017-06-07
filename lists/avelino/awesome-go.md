@@ -546,7 +546,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries, tools, and tutorials for interacting with hardware.*
 
-See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
+See [go-hardware ★499 ⏳1Y](rakyll/go-hardware) for a comprehensive list.
 
 ## Images
 
@@ -699,12 +699,13 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [go-commons-pool ★359](jolestar/go-commons-pool) - A generic object pool for Golang.
 * [go-multierror ★293](hashicorp/go-multierror) - A Go (golang) package for representing a list of errors as a single error.
 * [go-openapi](https://github.com/go-openapi) - A collection of packages to parse and utilize open-api schemas
+* [go-resiliency ★480](eapache/go-resiliency) - Resiliency patterns for golang
 * [go-shortid ★151](ventu-io/go-shortid) - Distributed generation of super short, unique, non-sequential, URL friendly IDs.
 * [go-unarr ★13](gen2brain/go-unarr) - Decompression library for RAR, TAR, ZIP and 7z archives.
 * [go.uuid ★1142](satori/go.uuid) - Implementation of Universally Unique Identifier (UUID). Supported both creation and parsing of UUIDs.
 * [gofakeit ★30](brianvoe/gofakeit) - Random data generator written in go
 * [gopsutil ★1681](shirou/gopsutil) - A cross-platform library for retrieving process and system utilization(CPU, Memory, Disks, etc).
-* [gosms ★1016](haxpax/gosms) - Your own local SMS gateway in Go that can be used to send SMS
+* [gosms ★1016 ⏳1Y](haxpax/gosms) - Your own local SMS gateway in Go that can be used to send SMS
 * [gountries ★120](pariz/gountries) - A package that exposes country and subdivision data.
 * [hanu ★23](sbstjn/hanu) - Framework for writing Slack bots.
 * [health ★233](dimiro1/health) - A Easy to use, extensible health check library.
@@ -733,7 +734,7 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [go-unidecode ★16](mozillazg/go-unidecode) - ASCII transliterations of Unicode text.
 * [go2vec ★18](danieldk/go2vec) - Reader and utility functions for word2vec embeddings.
 * [gojieba](https://github.com/yanyiwu/gojieba) - This is a Go implementation of [jieba ★8656](fxsjy/jieba) which a Chinese word splitting algorithm.
-* [golibstemmer ★12 ⏳2Y](rjohnsondev/golibstemmer) - Go bindings for the snowball libstemmer library including porter 2
+* [golibstemmer ★12 ⏳3Y](rjohnsondev/golibstemmer) - Go bindings for the snowball libstemmer library including porter 2
 * [gounidecode ★50 ⏳1Y](fiam/gounidecode) - Unicode transliterator (also known as unidecode) for Go
 * [icu ★14](goodsign/icu) - Cgo binding for icu4c C library detection and conversion functions. Guaranteed compatibility with version 50.1.
 * [libtextcat ★8 ⏳4Y](goodsign/libtextcat) - Cgo binding for libtextcat C library. Guaranteed compatibility with version 2.2.
@@ -901,6 +902,7 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [passlib ★153](hlandau/passlib) - Futureproof password hashing library.
 * [secure ★673](unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 * [simple-scrypt ★109](elithrar/simple-scrypt) - an scrypt package with a simple, obvious API and automatic cost calibration built-in.
+* [ssh-vault ★51](ssh-vault/ssh-vault) - encrypt/decrypt using ssh keys
 
 ## Serialization
 
@@ -1116,6 +1118,7 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [abutil ★30 ⏳1Y](bahlo/abutil) - A collection of often-used Golang helpers.
 * [apm ★83](topfreegames/apm) - A process manager for Golang applications with an HTTP API.
 * [boilr ★484](tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
+* [circuitbreaker ★445](rubyist/circuitbreaker) - Circuit Breakers in Go
 * [clockwerk](http://github.com/onatm/clockwerk) - Go package to schedule periodic jobs using a simple, fluent syntax.
 * [command ★5 ⏳1Y](txgruppi/command) - Command pattern for Go with thread safe serial and parallel dispatcher
 * [coop ★1187 ⏳1Y](rakyll/coop) - Cheat sheet for some of the common concurrent flows in Go.
@@ -1159,14 +1162,16 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [goreleaser ★787](goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 * [goreporter ★973](wgliang/goreporter) - A Golang tool that does static analysis, unit testing, code review and generate code quality report.
 * [goreq ★583](franela/goreq) - Minimal and simple request library for Go language.
-* [goreq ★47](smallnest/goreq) - An enhanced simplified HTTP client based on gorequest.
+* [goreq ★47 ⏳1Y](smallnest/goreq) - An enhanced simplified HTTP client based on gorequest.
 * [gorequest ★1144](parnurzeal/gorequest) - Simplified HTTP client with rich features for Go.
 * [gotenv ★55](subosito/gotenv) - Load environment variables from `.env` or any `io.Reader` in Go
+* [gpath ★9](tenntenn/gpath) - Library to simplify access struct fields with Go's expression in reflection.
 * [grequests ★882](levigross/grequests) - An elegant and simple `net/http` wrapper that follows Python's requests library
 * [htcat ★434 ⏳2Y](htcat/htcat) - Parallel and Pipelined HTTP GET Utility
 * [httpcontrol ★454 ⏳1Y](facebookgo/httpcontrol) - Package httpcontrol allows for HTTP transport level control around timeouts and retries.
 * [hub ★10458](github/hub) - wrap git commands with additional functionality to interact with github from the terminal.
 * [hystrix-go ★613](afex/hystrix-go) - Implements Hystrix patterns of programmer-defined fallbacks aka circuit breaker.
+* [immortal ★382](immortal/immortal) - A *nix cross-platform (OS agnostic) supervisor
 * [JobRunner ★360](bamzi/jobrunner) - Smart and featureful cron job scheduler with job queuing and live monitoring built in.
 * [jsonapi-errors ★2](AmuzaTkts/jsonapi-errors) - Go bindings based on the JSON API errors reference.
 * [jsonf ★42](miolini/jsonf) - Console tool for highlighted formatting and struct query fetching JSON.
@@ -1272,6 +1277,7 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 * [tigertonic ★942](rcrowley/go-tigertonic) - A Go framework for building JSON web services inspired by Dropwizard
 * [traffic ★506 ⏳1Y](pilu/traffic) - Sinatra inspired regexp/pattern mux and web framework for Go.
 * [utron ★1873](gernest/utron) - A lightweight MVC framework for Go(Golang).
+* [violetear ★68](nbari/violetear) - Go HTTP router.
 * [YARF ★36](yarf-framework/yarf) - Fast micro-framework designed to build REST APIs and web services in a fast and simple way.
 * [Zerver ★142 ⏳1Y](cosiner/zerver) - Zerver is an expressive, modular, feature completed RESTful framework.
 
@@ -1570,7 +1576,6 @@ See [go-hardware ★499](rakyll/go-hardware) for a comprehensive list.
 Hey dude! Help me out for a couple of :beers:!
 
 [![Beerpay](https://beerpay.io/avelino/awesome-go/badge.svg?style=beer-square)](https://beerpay.io/avelino/awesome-go)  [![Beerpay](https://beerpay.io/avelino/awesome-go/make-wish.svg?style=flat-square)](https://beerpay.io/avelino/awesome-go?focus=wish)
-
 ---
 <p align="center">
 	This list is a copy of <a href="avelino/awesome-go">avelino/awesome-go</a> with ranks

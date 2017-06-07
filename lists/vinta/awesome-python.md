@@ -550,6 +550,7 @@ Inspired by [awesome-php ★15483](ziadoz/awesome-php).
 
 *Libraries for Python version and environment management.*
 
+* [Pipenv ★3448](kennethreitz/pipenv) - Sacred Marriage of Pipfile, Pip, & Virtualenv.
 * [p ★667](qw3rtman/p) - Dead simple interactive Python version management.
 * [pyenv](https://github.com/yyuu/pyenv) - Simple Python version management.
 * [venv](https://docs.python.org/3/library/venv.html) - (Python standard library in Python 3.3+) Creating lightweight virtual environments.

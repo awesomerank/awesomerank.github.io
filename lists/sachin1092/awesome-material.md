@@ -18,7 +18,7 @@ Icons, Fonts and Colors
   - [material-color ★102](mrmlnc/material-color) — The colour palette, based on Google's Material Design, for use in your project.
   - [LESS-Material-design-colors ★7 ⏳2Y](tisign/LESS-Material-design-colors) — A .less file with al the Google material design colors.
   - [sass-material-colors ★79](minusfive/sass-material-colors) — An easy way to use Google's Material Design colors in your Sass/Scss project.
-  - [Google-Material-Design-Font-Icon ★5 ⏳1Y](Seb-L/Google-Material-Design-Font-Icon) — Font Icon based on Google Material Design Icon set.
+  - [Google-Material-Design-Font-Icon ★5 ⏳2Y](Seb-L/Google-Material-Design-Font-Icon) — Font Icon based on Google Material Design Icon set.
   - [Material Design Icons](https://materialdesignicons.com/) — Community generated Material Design icon pack.
 
 Animation

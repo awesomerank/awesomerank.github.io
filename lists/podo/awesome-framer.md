@@ -113,7 +113,7 @@ Ranked awesome lists, all in one place
 * [framer-equally-rotate-images ★30 ⏳1Y](aboutjax/framer-equally-rotate-images) - Give this module an array of images, and it will rotate them equally around in a circular path.
 * [framer-colour-transition ★8 ⏳1Y](nickmangos/framer-colour-transition) - Framer module that transitions the background colour of a layer.
 * [framer-webview ★17 ⏳2Y](peteschaffner/framer-webview) - Web view module for Framer.
-* [framer-uistatusbar ★2 ⏳1Y](peteschaffner/framer-uistatusbar) - iOS status bar module for Framer.
+* [framer-uistatusbar ★2 ⏳2Y](peteschaffner/framer-uistatusbar) - iOS status bar module for Framer.
 * [framer.module.ajax ★18 ⏳1Y](karlerikjonatan/framer.module.ajax) - Ajax module for Framer.
 * [framer.module.fill ★6 ⏳1Y](karlerikjonatan/framer.module.fill) - Fill module for Framer.
 * [SpeechSynth ★9 ⏳1Y](joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis.
@@ -146,10 +146,9 @@ Ranked awesome lists, all in one place
 * [Cloudstitch Framer Module ★13](cloudstitch/framer.module.cloudstitch) - Module lets you load data from Google Spreadsheets and Microsoft Excel directly into your Framer projects.
 * [framer-QueryInterface ★16](marckrenn/framer-QueryInterface) - Module that allows Framer prototypes to read variables from and write variables to the last part of their URL (the query).
 * [StatusBarLayer ★33](bpxl-labs/StatusBarLayer) - Module for generating accurate, customizable status bars for iOS app prototypes.
-* [Loading Placeholder ★7](zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style
+* [Loading Placeholder ★7](zehfernandes/framer-loadingplaceholder) - Module which instantly creates loading placeholder based on your layer style.
 * [bodymovin for Framer ★7](72/bodymovin-for-Framer) - Module that renders JSON files exported with the Bodymovin plugin from After Effects.
-
-
+* [ControlPanelLayer ★23](bpxl-labs/ControlPanelLayer) - Framer module for creating a developer panel to control aspects of the prototype from within the prototype.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.

@@ -146,7 +146,7 @@ For the purpose of this section, an "Integration"-focused library does one of th
 - [Marble](https://marble.kde.org) [:package:](https://cgit.kde.org/marble.git) - Virtual globe and map that can be used standalone or embedded within other applications.
 - [qgexedit2](https://github.com/Simsys/qhexedit2) [:octocat: ★73](Simsys/qhexedit2) - Embed a hex editor in your application.
 - [qml-material](https://github.com/papyros/qml-material) [:octocat: ★1778](papyros/qml-material) - Material Design implemented in QML.
-- [QNodeView](https://github.com/gwihlidal/QNodeView) [:octocat: ★58](gwihlidal/QNodeView) - Widget that lets you create and edit nodes in a graph similar to the kind provided by Unreal Engine, Substance Designer, or PureData.
+- [QNodeView](https://github.com/gwihlidal/QNodeView) [:octocat: ★58 ⏳1Y](gwihlidal/QNodeView) - Widget that lets you create and edit nodes in a graph similar to the kind provided by Unreal Engine, Substance Designer, or PureData.
 - [QSimpleUpdater](https://github.com/alex-spataru/QSimpleUpdater) [:octocat: ★57](alex-spataru/QSimpleUpdater) - Let your application update itself.
 - [qt-maybe](https://github.com/robertknight/qt-maybe) [:octocat: ★13 ⏳1Y](robertknight/qt-maybe) - Fans of type theory will enjoy these sum and optional types.
 - [qt-mustache](https://github.com/robertknight/qt-mustache) [:octocat: ★48](robertknight/qt-mustache) - Render [Mustache](https://mustache.github.io) templates.

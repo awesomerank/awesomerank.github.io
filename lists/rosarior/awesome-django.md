@@ -516,7 +516,7 @@ phone numbers.
 
 *Other awesome Django packages.*
 
-* [django-activeurl ★95](hellysmile/django-activeurl) - Easy to use active URL highlighting for django
+* [django-activeurl ★95 ⏳1Y](hellysmile/django-activeurl) - Easy to use active URL highlighting for django
 * [django-activity-stream ★1189](justquick/django-activity-stream) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
 * [django-adminactions ★170](saxix/django-adminactions) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
 * [django-autoadmin ★29 ⏳1Y](rosarior/django-autoadmin) - Automatic admin users for Django projects.

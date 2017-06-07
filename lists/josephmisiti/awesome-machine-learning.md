@@ -306,6 +306,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [GoNN ★240 ⏳1Y](fxsjy/gonn) - GoNN is an implementation of Neural Network in Go Language, which includes BPNN, RBF, PCN
 * [MXNet ★9814](dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [go-mxnet-predictor ★22](songtianyi/go-mxnet-predictor) - Go binding for MXNet c_predict_api to do inference with pre-trained model
+* [neat ★17](jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT)
 
 <a name="go-data-analysis"></a>
 #### Data Analysis / Data Visualization
@@ -437,6 +438,9 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Datamaps](http://datamaps.github.io/)- Customizable SVG map/geo visualizations using D3.js.
 * [ZingChart](https://www.zingchart.com/)- library written on Vanilla JS for big data visualization.
 * [cheminfo](http://www.cheminfo.org/) - Platform for data visualization and analysis, using the [visualizer ★14](npellet/visualizer) project.
+* [Learn JS Data](http://learnjsdata.com/)
+* [AnyChart](http://www.anychart.com/)
+* [FusionCharts](http://www.fusioncharts.com/)
 
 
 <a name="javascript-general-purpose"></a>
@@ -538,7 +542,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Distributions ★244](JuliaStats/Distributions.jl) - A Julia package for probability distributions and associated functions.
 * [Data Arrays ★41](JuliaStats/DataArrays.jl) - Data structures that allow missing values
 * [Time Series ★76](JuliaStats/TimeSeries.jl) - Time series toolkit for Julia
-* [Sampling ★0 ⏳2Y](lindahua/Sampling.jl) - Basic sampling algorithms for Julia
+* [Sampling ★0 ⏳3Y](lindahua/Sampling.jl) - Basic sampling algorithms for Julia
 
 <a name="julia-misc"></a>
 #### Misc Stuff / Presentations
@@ -706,7 +710,7 @@ on MNIST digits[DEEP LEARNING]
 * [BPN-NeuralNetwork ★29 ⏳1Y](Kalvar/ios-BPN-NeuralNetwork) - It implemented 3 layers neural network ( Input Layer, Hidden Layer and Output Layer ) and it named Back Propagation Neural Network (BPN). This network can be used in products recommendation, user behavior analysis, data mining and data analysis.
 * [Multi-Perceptron-NeuralNetwork ★20](Kalvar/ios-Multi-Perceptron-NeuralNetwork) - it implemented multi-perceptrons neural network (ニューラルネットワーク) based on Back Propagation Neural Network (BPN) and designed unlimited-hidden-layers.
 * [KRHebbian-Algorithm ★10 ⏳1Y](Kalvar/ios-KRHebbian-Algorithm) - It is a non-supervisor and self-learning algorithm (adjust the weights) in neural network of Machine Learning.
-* [KRKmeans-Algorithm ★14](Kalvar/ios-KRKmeans-Algorithm) - It implemented K-Means the clustering and classification algorithm. It could be used in data mining and image compression.
+* [KRKmeans-Algorithm ★14 ⏳1Y](Kalvar/ios-KRKmeans-Algorithm) - It implemented K-Means the clustering and classification algorithm. It could be used in data mining and image compression.
 * [KRFuzzyCMeans-Algorithm ★9 ⏳1Y](Kalvar/ios-KRFuzzyCMeans-Algorithm) - It implemented Fuzzy C-Means (FCM) the fuzzy clustering / classification algorithm on Machine Learning. It could be used in data mining and image compression.
 
 <a name="ocaml"></a>
@@ -849,7 +853,7 @@ be
 * [topik ★81 ⏳1Y](ContinuumIO/topik) - Topic modelling toolkit
 * [PyBrain ★2292](pybrain/pybrain) - Another Python Machine Learning Library.
 * [Brainstorm ★1259](IDSIA/brainstorm) - Fast, flexible and fun neural networks. This is the successor of PyBrain.
-* [Crab ★822](muricoca/crab) - A ﬂexible, fast recommender engine.
+* [Crab ★822 ⏳1Y](muricoca/crab) - A ﬂexible, fast recommender engine.
 * [python-recsys ★850 ⏳1Y](ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [thinking bayes ★641](AllenDowney/ThinkBayes) - Book on Bayesian Analysis
 * [Image-to-Image Translation with Conditional Adversarial Networks ★5](williamFalcon/pix2pix-keras) - Implementation of image to image (pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf).[DEEP LEARNING]
@@ -991,18 +995,18 @@ be
 * [wiki challenge ★6 ⏳5Y](hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
 * [kaggle insults ★120 ⏳1Y](amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary"
 * [kaggle_acquire-valued-shoppers-challenge ★50 ⏳3Y](MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
-* [kaggle-cifar ★38 ⏳2Y](zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
-* [kaggle-blackbox ★118 ⏳2Y](zygmuntz/kaggle-blackbox) - Deep learning made easy
-* [kaggle-accelerometer ★9 ⏳2Y](zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle
-* [kaggle-advertised-salaries ★49 ⏳2Y](zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition
-* [kaggle amazon ★22 ⏳2Y](zygmuntz/kaggle-amazon) - Amazon access control challenge
-* [kaggle-bestbuy_big ★4 ⏳2Y](zygmuntz/kaggle-bestbuy_big) - Code for the Best Buy competition at Kaggle
-* [kaggle-bestbuy_small ★3 ⏳2Y](zygmuntz/kaggle-bestbuy_small)
+* [kaggle-cifar ★38 ⏳3Y](zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
+* [kaggle-blackbox ★118 ⏳3Y](zygmuntz/kaggle-blackbox) - Deep learning made easy
+* [kaggle-accelerometer ★9 ⏳3Y](zygmuntz/kaggle-accelerometer) - Code for Accelerometer Biometric Competition at Kaggle
+* [kaggle-advertised-salaries ★49 ⏳3Y](zygmuntz/kaggle-advertised-salaries) - Predicting job salaries from ads - a Kaggle competition
+* [kaggle amazon ★22 ⏳3Y](zygmuntz/kaggle-amazon) - Amazon access control challenge
+* [kaggle-bestbuy_big ★4 ⏳3Y](zygmuntz/kaggle-bestbuy_big) - Code for the Best Buy competition at Kaggle
+* [kaggle-bestbuy_small ★3 ⏳3Y](zygmuntz/kaggle-bestbuy_small)
 * [Kaggle Dogs vs. Cats ★56 ⏳3Y](kastnerkyle/kaggle-dogs-vs-cats) - Code for Kaggle Dogs vs. Cats competition
 * [Kaggle Galaxy Challenge ★391 ⏳2Y](benanne/kaggle-galaxies) - Winning solution for the Galaxy Challenge on Kaggle
-* [Kaggle Gender ★7 ⏳2Y](zygmuntz/kaggle-gender) - A Kaggle competition: discriminate gender based on handwriting
-* [Kaggle Merck ★5 ⏳2Y](zygmuntz/kaggle-merck) - Merck challenge at Kaggle
-* [Kaggle Stackoverflow ★37 ⏳2Y](zygmuntz/kaggle-stackoverflow) - Predicting closed questions on Stack Overflow
+* [Kaggle Gender ★7 ⏳3Y](zygmuntz/kaggle-gender) - A Kaggle competition: discriminate gender based on handwriting
+* [Kaggle Merck ★5 ⏳3Y](zygmuntz/kaggle-merck) - Merck challenge at Kaggle
+* [Kaggle Stackoverflow ★37 ⏳3Y](zygmuntz/kaggle-stackoverflow) - Predicting closed questions on Stack Overflow
 * [kaggle_acquire-valued-shoppers-challenge ★50 ⏳3Y](MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
 * [wine-quality ★9 ⏳1Y](zygmuntz/wine-quality) - Predicting wine quality
 
@@ -1054,7 +1058,7 @@ be
 <a name="ruby-misc"></a>
 #### Misc
 
-* [Big Data For Chimps ★166 ⏳1Y](infochimps-labs/big_data_for_chimps)
+* [Big Data For Chimps ★166 ⏳2Y](infochimps-labs/big_data_for_chimps)
 * [Listof ★18](kevincobain2000/listof) - Community based data collection, packed in gem. Get list of pretty much anything (stop words, countries, non words) in txt, json or hash. [Demo/Search for a list](http://kevincobain2000.github.io/listof/)
 
 

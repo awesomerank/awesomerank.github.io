@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="papers-we-love/papers-we-love">papers-we-love/papers-we-love</a> with ranks
 </p>
 ---
-## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
+﻿## ![Papers We Love](http://paperswelove.org/images/logo-top.svg)
 
 **Papers We Love** (*PWL*) is a community built around reading, discussing and learning more about academic computer science papers. This repository serves as a directory of some of the best papers the community can find, bringing together documents scattered across the web. You can also visit the [Papers We Love site](http://paperswelove.org/) for more info.
 
@@ -52,6 +52,7 @@ Here are our official chapters. Let us know if you are interested in [starting o
 * [Seoul, Korea](http://www.meetup.com/seoul-tech-society)
 * [Singapore](https://www.facebook.com/groups/paperswelovesg/)
 * [St. Louis](http://www.meetup.com/Papers-We-Love-in-saint-louis/)
+* [Teresina](https://www.meetup.com/pt-BR/Papers-We-Love-Teresina/)
 * [Toronto](http://www.meetup.com/Papers-We-Love-Toronto/)
 * [Vienna](http://www.meetup.com/Papers-We-Love-Vienna/)
 * [Washington, DC](http://www.meetup.com/Papers-We-Love-DC-NoVA/)

@@ -290,7 +290,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [kaldi-svn-archive ★3 ⏳1Y](kaldi-asr/kaldi-svn-archive) An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available)
 * [kaldi ★1936](kaldi-asr/kaldi) This is now the official location of the Kaldi project.
 * [lex4all ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lex4all.svg) ★1 ⏳2Y](FieldDB/lex4all)  pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
-* [node-pocketsphinx ★142](cmusphinx/node-pocketsphinx)
+* [node-pocketsphinx ★142 ⏳1Y](cmusphinx/node-pocketsphinx)
 * [opensauce ![GitHub stars](https://img.shields.io/github/stars/voicesauce/opensauce.svg) ★2 ⏳1Y](voicesauce/opensauce)  GNU Octave-compatible version of VoiceSauce
 * [pocketsphinx ![GitHub Stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg) ★1089](cmusphinx/pocketsphinx) PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
 * [pocketsphinx-ios-demo ★40](cmusphinx/pocketsphinx-ios-demo) Simple demo for iOS

@@ -123,7 +123,7 @@ Ranked awesome lists, all in one place
   * [Eggdrop](http://www.eggheads.org/) - the world's most popular IRC bot, designed for flexibility and ease of use, and is freely distributable under the GNU GPL.
   * [Err](http://errbot.io/) - a plugin based chatbot designed to be easily deployable, extensible and maintainable.
   * [Hubot](https://hubot.github.com/) - A customizable, life embetterment robot.
-  * [Lazlo ★92](djosephsen/lazlo) - A chatops automation framework in Go.
+  * [Lazlo ★92 ⏳1Y](djosephsen/lazlo) - A chatops automation framework in Go.
   * [Lita](https://www.lita.io/) - A robot companion for your company's chat room.
   * [Abot](https://github.com/itsabot/abot) - A digital assistant framework in Go.
 

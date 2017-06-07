@@ -243,7 +243,7 @@ Intermediate
 ------------
 
 * [ANSI Common Lisp](http://www.paulgraham.com/acl.html) - A thorough, practical covering of the entire language, with exercises. Not recommended as a starter text, due to [some caveats][20].
-* [Common Lisp Recipes](http://weitz.de/cl-recipes/) - **Common Lisp Recipes** is a collection of solutions to problems and answers to questions you are likely to encounter when writing real-world applications in Common Lisp.
+* [Common Lisp Recipes](http://weitz.de/cl-recipes/) - **Common Lisp Recipes** is a collection of solutions to problems and answers to questions you are likely to encounter when writing real-world applications in Common Lisp. Published in 2015.
 
 Advanced
 --------
@@ -360,7 +360,7 @@ Others
 Numerical and Scientific
 ========================
 
-* [cl-spark ★51 ⏳1Y](tkych/cl-spark) - Generates sparkline strings for lists of numbers. [Expat][14].
+* [cl-spark ★51 ⏳2Y](tkych/cl-spark) - Generates sparkline strings for lists of numbers. [Expat][14].
 * [GSLL](https://common-lisp.net/project/gsll/) - GNU Scientific Library for Lisp; allows the use of the GSL from Common Lisp. [GNU LGPL2.1][11].
 * [common-lisp-stat ★130 ⏳2Y](blindglobe/common-lisp-stat) - Common Lisp statistics library. [FreeBSD][39].
 * [lisp-matrix ★46 ⏳2Y](blindglobe/lisp-matrix) - A matrix package. [FreeBSD][39].

@@ -67,7 +67,7 @@ coding style guides and development practices across the web.
 
 ### Sass
 
-+ [Principles of writing idiomatic Sass ★215](anthonyshort/idiomatic-sass#readme)
++ [Principles of writing idiomatic Sass ★215 ⏳1Y](anthonyshort/idiomatic-sass#readme)
 + [Sass Style Guide](https://css-tricks.com/sass-style-guide/)
 + [Sass Guidelines](https://sass-guidelin.es/)
 

@@ -194,7 +194,7 @@ Here is also great resource to understand. [Website style guide resource](http:/
 - [mdcss ★606](jonathantneal/mdcss)
 - [Source](https://sourcejs.com/)
 - [styledoc ★4 ⏳5Y](Joony/styledoc)
-- [styledocco ★1082 ⏳1Y](jacobrask/styledocco)
+- [styledocco ★1082 ⏳2Y](jacobrask/styledocco)
 - [styledown ★590](styledown/styledown)
 - [sc5-styleguide ★1119](SC5/sc5-styleguide)
 

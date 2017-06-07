@@ -169,7 +169,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 -  [otwarchive ★255](otwcode/otwarchive) -  An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids  [Live](http://archiveofourown.org/)
 -  [peatio ★1094](peatio/peatio) -  An open-source crypto currency exchange  [Live](http://www.peatio.com/)
 -  [openstreetmap-website ★623](openstreetmap/openstreetmap-website) - Mirror of the Rails application powering  [Live](http://www.openstreetmap.org)
--  [RapidFTR ★290](rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations [Live](http://www.rapidftr.com/)
+-  [RapidFTR ★290](rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
 -  [danbooru ★472](r888888888/danbooru) - A taggable image board written in Rails 3 [Live](http://testbooru.donmai.us)
 -  [sharetribe ★1038](sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online [Live](https://www.sharetribe.com)
 -  [AsakusaSatellite ★91](codefirst/AsakusaSatellite) - A realtime chat application for developers [Live](http://www.codefirst.org/AsakusaSatellite/)
@@ -199,7 +199,8 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 -  [Helpy ★15](scott/helpy) - Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community [Live](http://helpy.io)
 -  [expertiza ★120](expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc).
 -  [covoiturage-libre ★35](covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5
-
+-  [hitobito ★108](hitobito/hitobito) - A web application to manage complex group hierarchies with members, events and a lot more - [Live](http://hitobito.com/en/)
+-  [ossfriday ★104](ossfriday/ossfriday) - a movement to encourage companies, people and maintainers to contribute to open source every Friday
 
 ### Other Rails Tools
 

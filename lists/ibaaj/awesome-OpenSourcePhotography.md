@@ -72,7 +72,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ## Utilities
 
 - [Timelapse-sony ★53](ThibaudM/timelapse-sony) - *Android app for creating timelapse via "Ctrl with Smartphone" mode or connected by NFC.*
-- [Remoteyourcam-usb ★83 ⏳3Y](crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.*
+- [Remoteyourcam-usb ★83 ⏳4Y](crazymaik/remoteyourcam-usb) - *Control your Canon or Nikon DSLR camera from your Android device through USB.*
 
 
 ## RAW image developers

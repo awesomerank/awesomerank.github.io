@@ -53,7 +53,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [\_part\_ ★46 ⏳3Y](AutoSponge/_part_) – A micro library that encourages functional programming by making native methods available as partially applied functions.
 * [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
 * [FPO.js ★229](getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
-
+* [Javascript Parser Combinator ★21](d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
 
 
 ### Data Structures
@@ -86,6 +86,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Fluture](https://github.com/Avaq/Fluture) – A Future library with included control utilities, high performance and great error messages.
 * [fantasy-combinators ★40 ⏳1Y](fantasyland/fantasy-combinators) – Common combinators.
 * [fantasy-birds ★41](fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
+* [crocks ★62](evilsoft/crocks) – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running.
 
 ### Lenses
 
@@ -100,6 +101,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [ClojureScript ★7020](clojure/clojurescript) – Compiles [Clojure](http://clojure.org/), a hosted Lisp with immutable persistent data structures, to JavaScript.
 * [Elm](http://elm-lang.org/) – A type-safe functional programming language for declaratively creating web browser-based graphical user interfaces. Implemented in Haskell.
+* [Fable](http://fable.io/) - Compiles [F#](http://fsharp.org) to readable JavaScript.
 * [PureScript](http://www.purescript.org/) – A small strongly typed programming language that compiles to JavaScript.
 * [Idris](http://www.idris-lang.org/) – A general purpose pure functional programming language with dependent types.
 * [GHCJS ★1647](ghcjs/ghcjs) – [Haskell](https://www.haskell.org/) to JavaScript compiler, based on GHC.
@@ -166,6 +168,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [cube-composer ★1132](sharkdp/cube-composer) – A puzzle game inspired by functional programming.
 * [FP Youtube Search ★35](jaysoo/example-fp-youtube-search) – YouTube search app with ReactJS, Redux, and FP concepts
 * [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) – Learn to apply techniques from the forefront of computer science research to solve practical problems in Javascript. Discover functional programming and see it demonstrated step-by-step with how to build an example web app using abstract interfaces like Monads, Functors, Monoids and Applicatives. (_commercial_)
+* [Escape from Callback Mountain ★6](justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
 
 ## Community
 

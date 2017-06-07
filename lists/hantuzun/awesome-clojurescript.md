@@ -192,6 +192,7 @@ Ranked awesome lists, all in one place
 - [descjop ★293](karad/lein_template_descjop) – A template for Web based desktop application with Electron.
 - [electron-template ★93 ⏳1Y](ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
+- [Keechma](http://keechma.com) – Micro frontend framework for ClojureScript and Reagent.
 - [Luminus](http://www.luminusweb.net/) – It aims to provide a robust, scalable, and easy to use platform.
 - [Macchiato ★149](macchiato-framework/macchiato-core) – It aims to provide an easy to use platform for Node.js.
 - [Mies ★317](swannodette/mies) – A minimal ClojureScript project template.

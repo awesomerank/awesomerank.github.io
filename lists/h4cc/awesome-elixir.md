@@ -188,9 +188,9 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 ## Applications
 *Standalone applications.*
-* [Alher ★24](Queertoo/Alher) - Alexander is a rock-solid IRC bot written in Elixir with powerful plugins.
+* [Alher ★24 ⏳1Y](Queertoo/Alher) - Alexander is a rock-solid IRC bot written in Elixir with powerful plugins.
 * [bpe ★77](spawnproc/bpe) - Business Process Engine in Erlang.
-* [Consolex ★83](sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
+* [Consolex ★83 ⏳1Y](sivsushruth/consolex) - Consolex is a tool that allows you to attach a web based console to any mix project.
 * [dragonfly_server ★37 ⏳1Y](cloud8421/dragonfly-server) - Elixir app to serve Dragonfly images.
 * [ExChat ★155](tony612/exchat) - A Slack-like app by Elixir, Phoenix & React(redux).
 * [Exon ★14](tchoutri/Exon) - A “mess manager” developed in Elixir and provides a simple API to manage & document your stuff.
@@ -427,7 +427,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## CSV
 *Libraries and implementations working with CSV.*
 
-* [cesso ★19 ⏳2Y](meh/cesso) - CSV handling library for Elixir.
+* [cesso ★19 ⏳3Y](meh/cesso) - CSV handling library for Elixir.
 * [csv ★199](beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 * [csvlixir ★24](jimm/csvlixir) - A CSV reading/writing application for Elixir.
 * [ex_csv ★32](CargoSense/ex_csv) - CSV for Elixir.
@@ -529,7 +529,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Encoding and Compression
 *Transforming data in different formats or compressing it.*
 
-* [huffman ★12 ⏳1Y](SenecaSystems/huffman) - Huffman encoding and decoding in Elixir.
+* [huffman ★12 ⏳2Y](SenecaSystems/huffman) - Huffman encoding and decoding in Elixir.
 
 ## Errors and Exception Handling
 *Working with errors and exceptions.*
@@ -684,7 +684,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Frameworks
 *Web development frameworks.*
 
-* [exelli ★12 ⏳1Y](pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
+* [exelli ★12 ⏳2Y](pigmej/exelli) - An Elli Elixir wrapper with some sugar syntax goodies.
 * [kitto ★533](kittoframework/kitto) - A framework for interactive dashboards.
 * [phoenix ★9627](phoenixframework/phoenix) - Elixir Web Framework targeting full-featured, fault tolerant applications with realtime functionality.
 * [placid ★136](slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
@@ -834,7 +834,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exsentry ★24](appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
 * [gelf_logger ★10](jschniper/gelf_logger) - A Logger backend that will generate Graylog Extended Log Format (GELF) messages.
 * [honeybadger ★48](honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
-* [json_logger ★16](LeeroyDing/json_logger) - JSON Logger is a logger backend that outputs elixir logs in JSON format.
+* [json_logger ★16 ⏳1Y](LeeroyDing/json_logger) - JSON Logger is a logger backend that outputs elixir logs in JSON format.
 * [lager ★16](basho/lager) - A logging framework for Erlang/OTP by basho.com.
 * [lager_logger ★15](PSPDFKit-labs/lager_logger) - A lager backend that forwards all log messages to Elixir's Logger.
 * [logfmt ★10](jclem/logfmt-elixir) - Logfmt is a module for encoding and decoding logfmt-style log lines.
@@ -950,7 +950,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and tools for using network related stuff.*
 
 * [asn ★2](ephe-meral/asn) - Can be used to map from IP to AS to ASN.
-* [chatter ★21](dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
+* [chatter ★21 ⏳1Y](dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 * [eio ★8 ⏳1Y](falood/eio) - Elixir server of engine.io.
 * [ejabberd ★3011](processone/ejabberd) - Robust, ubiquitous and massively scalable Jabber/XMPP Instant Messaging platform.
 * [ExPcap ★14 ⏳2Y](cobenian/expcap) - PCAP parser written in Elixir.
@@ -959,7 +959,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [reagent ★87](meh/reagent) - reagent is a socket acceptor pool for Elixir.
 * [socket ★449](meh/elixir-socket) - Socket wrapping for Elixir.
 * [sshex ★66](rubencaro/sshex) - Simple SSH helpers for Elixir.
-* [wifi ★25 ⏳1Y](gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
+* [wifi ★25 ⏳2Y](gausby/wifi) - Various utility functions for working with the local Wifi network in Elixir.
 * [wpa_supplicant ★4 ⏳1Y](fhunleth/wpa_supplicant.ex) - Elixir interface to the wpa_supplicant.
 
 ## Office
@@ -1081,7 +1081,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Special protocol and format libraries.*
 
 * [elixir_radius ★6 ⏳1Y](bearice/elixir-radius) - RADIUS Protocol on Elixir.
-* [ex_hl7 ★13](jcomellas/ex_hl7) - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
+* [ex_hl7 ★13 ⏳1Y](jcomellas/ex_hl7) - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
 * [ex_marshal ★25](gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
 * [exprotobuf ★253](bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
 * [grpc-elixir ★131](tony612/grpc-elixir) - The Elixir implementation of gRPC.
@@ -1118,7 +1118,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [task_bunny ★79](shinyscorpion/task_bunny) - background processing application written in Elixir and uses RabbitMQ as a messaging backend.
 * [toniq ★211](joakimk/toniq) - Simple and reliable background job library for Elixir.
 * [verk ★328](edgurgel/verk) - Verk is a job processing system backed by Redis. It uses the same job definition of Sidekiq/Resque.
-* [work_queue ★29 ⏳1Y](pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
+* [work_queue ★29 ⏳2Y](pragdave/work_queue) - Simple implementation of the hungry-consumer model in Elixir.
 
 
 ## Release Management
@@ -1200,7 +1200,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_machina ★678](thoughtbot/ex_machina) - Flexible test factories for Elixir. Works out of the box with Ecto and Ecto associations.
 * [ex_parameterized ★6](KazuCocoa/ex_parameterized) - Simple macro for parameterized testing.
 * [ex_spec ★78](drewolson/ex_spec) - BDD-like syntax for ExUnit.
-* [ex_unit_fixtures ★8](obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
+* [ex_unit_fixtures ★8 ⏳1Y](obmarg/ex_unit_fixtures) - A library for defining modular dependencies for ExUnit tests.
 * [ex_unit_notifier ★48](navinpeiris/ex_unit_notifier) - Desktop notifications for ExUnit.
 * [excheck ★224](parroty/excheck) - Property-based testing library for Elixir (QuickCheck style).
 * [exkorpion ★28](wesovilabs/exkorpion) - A BDD library for Elixir developers.
@@ -1399,7 +1399,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [random_user ★7](katgironpe/random_user) - An Elixir client for randomuser.me API.
 * [reap ★3 ⏳2Y](Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [reddhl ★3 ⏳1Y](MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
-* [redtube ★6 ⏳1Y](kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
+* [redtube ★6 ⏳2Y](kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
 * [reporter ★4](KazuCocoa/simple_app_reporter_ex) - Reporter is simple reporting App reviews library. Support AppStore and GooglePlay.
 * [riemann ★33](koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
 * [semver ★2 ⏳1Y](lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
@@ -1445,7 +1445,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [erlware_commons ★155](erlware/erlware_commons) - Additional standard library for Erlang.
 * [exjprop ★0](stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
 * [fitex ★1 ⏳1Y](timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
-* [global ★2 ⏳1Y](mgwidmann/global) - Wrapper of the Erlang `:global` module.
+* [global ★2 ⏳2Y](mgwidmann/global) - Wrapper of the Erlang `:global` module.
 * [mandrake ★6 ⏳1Y](mbasso/mandrake) - Mandrake is a functional programming library that bring something else magic in elixir.
 * [mnemonix ★13](christhekeele/mnemonix) - A unified interface to key/value stores.
 * [plasm ★58](facto/plasm) - Plasm is Ecto's composable query multitool, containing higher-level functions such as .count, .random, .first, .last, .find, .inserted_before, .inserted_after, etc.

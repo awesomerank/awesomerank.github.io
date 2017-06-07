@@ -67,7 +67,7 @@ Ranked awesome lists, all in one place
 
 ## Duo plugins
 * Babel: [duo-babel ★15 ⏳1Y](babel/duo-babel)
-* TypeScript: [duo-typescript ★0 ⏳1Y](frankwallis/duo-typescript)
+* TypeScript: [duo-typescript ★0 ⏳2Y](frankwallis/duo-typescript)
 
 ## Connect plugins
 * Babel: [babel-connect ★22](babel/babel-connect)

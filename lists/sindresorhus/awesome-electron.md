@@ -102,7 +102,7 @@ Made with Electron.
 - [MarkRight ★865](dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 - [Mongotron ★2169](officert/mongotron) - MongoDB management tool.
 - [Colonizers ★106 ⏳1Y](colonizers/colonizers-desktop) - "Catan" inspired board game.
-- [Eintopf ★55](mazehall/eintopf) - Manage development projects with Docker.
+- [Eintopf ★55 ⏳1Y](mazehall/eintopf) - Manage development projects with Docker.
 - [WhatsDesktop ★185](mawie81/whatsdesktop) - Unofficial WhatsApp app.
 - [Sqlectron ★1377](sqlectron/sqlectron-gui) - SQL client.
 - [docker-indicator ★25](khornberg/docker-indicator) - Unofficial Docker menubar app.
@@ -137,7 +137,6 @@ Made with Electron.
 - [Build Checker App ★35](willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost ★741](tryghost/ghost-desktop) - Professional publishing platform.
-- [Anatine ★1100](sindresorhus/anatine) - Pristine Twitter app.
 - [Mattermost ★494](mattermost/desktop) - Mattermost client.
 - [PupaFM ★214](xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
@@ -209,6 +208,8 @@ Made with Electron.
 - [Inkdrop](https://www.inkdrop.info) - Markdown notebook for hackers.
 - [Exodus](https://www.exodus.io) - Secure, manage, and exchange blockchain assets like Bitcoin and Ethereum.
 - [Hackolade](http://hackolade.com) - Data modeling for NoSQL and multi-model databases.
+- [Headset](http://headsetapp.co) - Discover, collect, and listen to music from YouTube.
+- [ScreenSquid](http://screensquid.com) - Record and playback website visitor sessions.
 
 ### Samples
 

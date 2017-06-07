@@ -33,6 +33,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [Database Drivers](#database-drivers)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Graphics](#graphics)
+  * [GUI](#gui)
   * [Functional Programming](#functional-programming)
   * [IDE](#ide)
   * [Internationalization](#internationalization)
@@ -179,6 +180,10 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [ImageSharp ★828](JimBobSquarePants/ImageSharp) - Cross-platform library for processing of image files written in C# [http://imageprocessor.org](http://imageprocessor.org).
 * [Structure.Sketching ★33](JaCraig/Structure.Sketching) - Image processing library for use in .NET applications that supports .NET Core.
 * [veldrid ★93](mellinoe/veldrid) - A low-level, hardware-accelerated 3D graphics library for .NET.
+
+### GUI
+* [Avalonia ★2215](AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
+* [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/) - The Avalonia-based text editor component forked from [AvalonEdit ★438](icsharpcode/AvalonEdit)
 
 ### Functional Programming
 * [CSharpFunctionalExtensions ★104](vkhorikov/CSharpFunctionalExtensions) - Functional Extensions for C#.

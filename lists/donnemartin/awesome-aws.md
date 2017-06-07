@@ -482,7 +482,7 @@ AWS Repos:
 
 Community Repos:
 
-* [jorgebastida/awslogs :fire::fire::fire: ★1013](jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
+* [jorgebastida/awslogs :fire::fire::fire::fire: ★1013](jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
 * [newrelic-platform/newrelic_aws_cloudwatch_plugin :fire: ★141](newrelic-platform/newrelic_aws_cloudwatch_plugin) - New Relic plugin.
 
 ### Code Deploy
@@ -833,7 +833,7 @@ Community Repos:
 * [marcel/aws-s3 :fire::fire::fire: ★794](marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
 * [mardix/flask-cloudy :fire: ★163](mardix/flask-cloudy) - Flask extension.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire: ★294](MathieuLoutre/grunt-aws-s3) - Grunt plugin.
-* [minio/mc :fire::fire: ★490](minio/mc) -  Minio Client for filesystem and cloud storage.
+* [minio/mc :fire::fire::fire: ★490](minio/mc) -  Minio Client for filesystem and cloud storage.
 * [minio/minio :fire::fire::fire::fire::fire: ★6931](minio/minio) - Object storage server compatible with S3.
 * [mumrah/s3-multipart :fire: ★128 ⏳1Y](mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 * [ncw/rclone :fire::fire::fire::fire::fire: ★6224](ncw/rclone) - Rsync for various cloud storage providers such as S3.
@@ -910,7 +910,7 @@ Community Repos:
 Community Repos:
 
 * [chef-cookbooks/aws :fire::fire: ★307](chef-cookbooks/aws) - Development repository for aws Chef cookbook.
-* [colinbjohnson/aws-missing-tools :fire::fire::fire: ★1007](colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53.
+* [colinbjohnson/aws-missing-tools :fire::fire::fire::fire: ★1007](colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53.
 * [k1LoW/awspec :fire::fire: ★430](k1LoW/awspec) - RSpec tests your resources.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire: ★2314](mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 * [NixOS/nixops :fire::fire: ★319](NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources.

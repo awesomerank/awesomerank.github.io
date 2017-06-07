@@ -298,6 +298,7 @@ Image Processing
 * `Caltech Pedestrian Detection Benchmark <https://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/>`_
 * `Chars74K dataset, Character Recognition in Natural Images (both English and Kannada are available) <http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/>`_
 * `Face Recognition Benchmark <http://www.face-rec.org/databases/>`_
+* `Flickr: 32 Class Brand Logos <http://www.multimedia-computing.de/flickrlogos/>`_
 * `GDXray: X-ray images for X-ray testing and Computer Vision <http://dmery.ing.puc.cl/index.php/material/gdxray/>`_
 * `ImageNet (in WordNet hierarchy) <http://www.image-net.org/>`_
 * `Indoor Scene Recognition <http://web.mit.edu/torralba/www/indoor.html>`_
@@ -326,6 +327,7 @@ Machine Learning
 * `Labeled Faces in the Wild (LFW) <http://vis-www.cs.umass.edu/lfw/>`_
 * `Lending Club Loan Data <https://www.lendingclub.com/info/download-data.action>`_
 * `Machine Learning Data Set Repository <http://mldata.org/>`_
+* `Free Music Archive <https://github.com/mdeff/fma>`_
 * `Million Song Dataset <http://labrosa.ee.columbia.edu/millionsong/>`_
 * `More Song Datasets <http://labrosa.ee.columbia.edu/millionsong/pages/additional-datasets>`_
 * `MovieLens Data Sets <http://grouplens.org/datasets/movielens/>`_
