@@ -225,7 +225,7 @@ Related Repos:
 
 * [chilts/awssum :fire::fire: ★478 ⏳3Y](chilts/awssum)
 * [mirkokiefer/aws-lib :fire::fire::fire: ★693](mirkokiefer/aws-lib)
-* [SaltwaterC/aws2js :fire::fire: ★243 ⏳1Y](SaltwaterC/aws2js)
+* [SaltwaterC/aws2js :fire::fire: ★243 ⏳2Y](SaltwaterC/aws2js)
 
 ### Haskell SDK
 

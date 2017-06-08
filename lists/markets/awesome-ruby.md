@@ -213,7 +213,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [IdentityCache ★1306](Shopify/identity_cache) - A blob level caching solution to plug into ActiveRecord.
 * [Kashmir ★253](IFTTT/kashmir) - Kashmir is a Ruby DSL that makes serializing and caching objects a snap.
 * [Readthis ★427](sorentwo/readthis) - High performance, pooled, ActiveSupport compliant caching with Redis.
-* [Record Cache ★145](orslumen/record-cache) - Cache Active Model Records in Rails 3.
+* [Record Cache ★145 ⏳1Y](orslumen/record-cache) - Cache Active Model Records in Rails 3.
 * [redis-store](http://redis-store.org/) - Redis Store provides a full set of stores (Cache, I18n, Session, HTTP Cache) for modern Ruby frameworks like: Ruby on Rails, Sinatra, Rack, Rack::Cache and I18n. It supports object marshalling, timeouts, single or multiple nodes, and namespaces.
 * [Second Level Cache ★240](hooopo/second_level_cache) - Write-Through and Read-Through caching library for ActiveRecord 4.
 
