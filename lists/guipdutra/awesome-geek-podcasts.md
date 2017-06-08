@@ -10,7 +10,7 @@ title: Awesome Geek Podcasts
 permalink: /
 layout: default
 ---
-# Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A curated list of podcasts we like to listen to.
 
@@ -252,7 +252,7 @@ A curated list of podcasts we like to listen to.
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
 * [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
 * [AntennaPod](http://antennapod.org) - (Android and Open Source)
-* [Soundwaves ★80](bottiger/SoundWaves) - (Android and Open Source)
+* [Soundwaves ★80](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 * [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 * [gPodder](http://gpodder.org/) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 
@@ -263,6 +263,7 @@ See [CONTRIBUTING](https://github.com/guipdutra/awesome-geek-podcasts/blob/maste
 <p align="center">
 	This list is a copy of <a href="guipdutra/awesome-geek-podcasts">guipdutra/awesome-geek-podcasts</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

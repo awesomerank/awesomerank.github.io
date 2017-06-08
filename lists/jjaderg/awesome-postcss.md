@@ -9,7 +9,7 @@ Ranked awesome lists, all in one place
 
 > A tool for transforming CSS with JavaScript
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
  
 *An awesome list of plugins, articles, resources and other things related to PostCSS.*
@@ -131,15 +131,15 @@ Your contributions are always welcome. But, please take a quick gander at the co
 ### Plugins
 
 - [postcss parts](http://postcss.parts/) - A searchable catalog of PostCSS plugins
-- [atom-language-postcss ★53](azat-io/atom-language-postcss) - Atom language support for PostCSS
-- [poststylus ★217](seaneking/poststylus) - PostCSS adapter for Stylus
-- [postcss-instagram ★87](azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
+- [atom-language-postcss ★53](https://github.com/azat-io/atom-language-postcss) - Atom language support for PostCSS
+- [poststylus ★217](https://github.com/seaneking/poststylus) - PostCSS adapter for Stylus
+- [postcss-instagram ★87](https://github.com/azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
 - [postcss-normalize](https://github.com/seaneking/postcss-normalize) - Simple normalize.css wrapper for PostCSS
-- [postcss-font-magician ★634](jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
-- [postcss-loader ★1235](postcss/postcss-loader) - PostCSS loader for webpack
-- [css-declaration-sorter ★55](Siilwyn/css-declaration-sorter) - A Node.js module and PostCSS plugin to sort the CSS declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn)
-- [postcss-pxtorem ★240](cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
-- [postcss-selector-parser ★48](postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings
+- [postcss-font-magician ★634](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
+- [postcss-loader ★1235](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
+- [css-declaration-sorter ★55](https://github.com/Siilwyn/css-declaration-sorter) - A Node.js module and PostCSS plugin to sort the CSS declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn)
+- [postcss-pxtorem ★240](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
+- [postcss-selector-parser ★48](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings
 
 ## Presentations
 
@@ -168,6 +168,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 <p align="center">
 	This list is a copy of <a href="jjaderg/awesome-postcss">jjaderg/awesome-postcss</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

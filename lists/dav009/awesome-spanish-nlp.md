@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
 </p>
 ---
-# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 
 Curated list of Linguistic Resources for doing Spanish NLP & CL.
@@ -21,8 +21,8 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [TreeTagger - POSTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
 - [Stanford - POSTagger](http://nlp.stanford.edu/software/tagger.shtml)
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
-- [ixa-pipe-pos ★9](ixa-ehu/ixa-pipe-pos)
-- [Ruby Snowball Implementation ★3 ⏳4Y](MaG21/estem)
+- [ixa-pipe-pos ★9](https://github.com/ixa-ehu/ixa-pipe-pos)
+- [Ruby Snowball Implementation ★3 ⏳4Y](https://github.com/MaG21/estem)
 - [Spaguetti POSTagger(Based on NLTK +  CESS corpus](https://code.google.com/p/spaghetti-tagger/)
 
 # Multiword Expressions  Extractors (MLWE)
@@ -30,7 +30,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Name Entity Recognition (NER)
 - [OpenNLP - Person/Place/Organization models](http://opennlp.sourceforge.net/models-1.5/)
-- [DBPedia Spotlight ★572](dbpedia-spotlight/dbpedia-spotlight)
+- [DBPedia Spotlight ★572](https://github.com/dbpedia-spotlight/dbpedia-spotlight)
 - [CitiusTagger - Spanish NER and  POSTagger](http://gramatica.usc.es/pln/tools/CitiusTools.html)
 
 ## Corpora
@@ -52,8 +52,8 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Lemmas Dictionary](http://sfn.uab.es:8080/SFN/dictionary/dictionary-information-lemmas-and-expanded-forms)
 - [esTenten Spanish (POSTagged) ](http://www.sketchengine.co.uk/documentation/wiki/Corpora/TenTen/esTenTen)
 - [Europarl Corpus (Parallel Corpus English-Spanish)](http://www.statmt.org/europarl/)
-- [Colombian Political Speeches ★1 ⏳3Y](dav009/LatinamericanTextResources)
-- [South American Slang Expressions/MTWE ★1 ⏳3Y](dav009/LatinamericanTextResources)
+- [Colombian Political Speeches ★1 ⏳3Y](https://github.com/dav009/LatinamericanTextResources)
+- [South American Slang Expressions/MTWE ★1 ⏳3Y](https://github.com/dav009/LatinamericanTextResources)
 - [Syntax and Semantic Annotations (Subset Ancora Corpus)](http://ufal.mff.cuni.cz/conll2009-st/trial/CoNLL2009-ST-Spanish-trial.zip)
 - [Plurilingual Specific Corpus on Economics, Medicine, Computer Science](http://www.iula.upf.edu/corpus/corpusuk.htm)
 - [Copenhagen  Treebank (Dependency Parsing)](http://code.google.com/p/copenhagen-dependency-treebank/)
@@ -76,7 +76,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-- [Word2Vec vectors for Wikipedia Spanish Articles ★366](idio/wiki2vec)
+- [Word2Vec vectors for Wikipedia Spanish Articles ★366](https://github.com/idio/wiki2vec)
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)
@@ -94,6 +94,7 @@ To the extent possible under law, [David Przybilla](http://alejandro.pictures) h
 <p align="center">
 	This list is a copy of <a href="dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
 </p>
 ---
-# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
+# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
 
 A curated list of awesome newsletters.
 
@@ -133,7 +133,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 
 ### R
-* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub ★106](rweekly/rweekly.org).
+* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub ★106](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 * [Ruby Weekly](http://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
@@ -301,6 +301,7 @@ To the extent possible under law, [Dmitry Zudochkin](https://github.com/vredniy)
 <p align="center">
 	This list is a copy of <a href="vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -11,7 +11,7 @@ Ranked awesome lists, all in one place
 <br>
 <br>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://travis-ci.org/hackerkid/bots.svg?branch=master)](https://travis-ci.org/hackerkid/bots) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/bots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hackerkid/bots.svg?branch=master)](https://travis-ci.org/hackerkid/bots) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/bots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Table of Contents
 -----------------
@@ -53,7 +53,7 @@ Table of Contents
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot ★3278](gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python
+* [ChatterBot ★3278](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python
 
 ## Tools For Bot Analytics
 * [ChatMetrics](https://chatmetrics.io/) - Engagement platform for bots. ChatMetrics allows to reactivate inactive users and improve retention by sending "smart" notifications to users.
@@ -69,27 +69,27 @@ Table of Contents
 ## Libraries
 
 ### General
-* [Qtypes ★118](superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
-* [BotKit ★6449](howdyai/botkit) - Botkit is a toolkit for making bot applications.
-* [Claudia Bot Builder ★1113](claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
+* [Qtypes ★118](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
+* [BotKit ★6449](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
+* [Claudia Bot Builder ★1113](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
 
 ### Facebook Messenger
-* [Go ★204](paked/messenger)
+* [Go ★204](https://github.com/paked/messenger)
 
 ### Slack
 * [Node.js (Official)](https://github.com/slackhq/node-slack-sdk)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
-* [Relax (scalable RTM library to scale to 1000's of teams) ★142](zerobotlabs/relax)
+* [Relax (scalable RTM library to scale to 1000's of teams) ★142](https://github.com/zerobotlabs/relax)
 
 ### Telegram
-* [Node.js ★1656](yagop/node-telegram-bot-api)
-* [Node.js ★313](telegraf/telegraf)
-* [PHP ★764](irazasyed/telegram-bot-sdk)
-* [Python ★2424](python-telegram-bot/python-telegram-bot)
-* [C# ★452](MrRoundRobin/telegram.bot)
-* [Go ★298](tucnak/telebot)
+* [Node.js ★1656](https://github.com/yagop/node-telegram-bot-api)
+* [Node.js ★313](https://github.com/telegraf/telegraf)
+* [PHP ★764](https://github.com/irazasyed/telegram-bot-sdk)
+* [Python ★2424](https://github.com/python-telegram-bot/python-telegram-bot)
+* [C# ★452](https://github.com/MrRoundRobin/telegram.bot)
+* [Go ★298](https://github.com/tucnak/telebot)
 
 ## Bot Stores
 * [ChatBottle](https://chatbottle.co/) - Chatbots Search Engine
@@ -110,7 +110,7 @@ Table of Contents
 * [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.rreq2dp6r)
 * [Pair Programming a Facebook Messenger Bot.](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.b1rilkua8) 
-* [Facebook Chatbot Tutorial ★5](AdrianKrebs/facebook-chatbot-tutorial)
+* [Facebook Chatbot Tutorial ★5](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 
 ## Communities
 * [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
@@ -136,6 +136,7 @@ To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waive
 <p align="center">
 	This list is a copy of <a href="hackerkid/bots">hackerkid/bots</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

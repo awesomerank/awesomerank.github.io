@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="felipebueno/awesome-PICO-8">felipebueno/awesome-PICO-8</a> with ranks
 </p>
 ---
-# Awesome PICO-8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome PICO-8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 
 ![PICO-8](http://www.lexaloffle.com/gfx/p8_jelpi.gif)
@@ -61,37 +61,37 @@ Ranked awesome lists, all in one place
 - [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8.
 - [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch.
 - [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/) - Screencaptures of writing a Spaceshooter game step by step.  
-- [Token optimization ★22](seleb/PICO-8-Token-Optimizations) - tips&tricks for saving tokens. 
+- [Token optimization ★22](https://github.com/seleb/PICO-8-Token-Optimizations) - tips&tricks for saving tokens. 
 - [Tweetjam, BBS thread](http://www.lexaloffle.com/bbs/?tid=3726) - cards which code fits in a tweet (really useful to learn some fun techniques).
 - [Sample code on the BBS](http://www.lexaloffle.com/bbs/?search=sample+code) - the search is not 100% accurate, but some of those cards features some nice tricks you can re-use in your future code.
 
 ## Tools
 
 - [Sprite Editor](http://www.lexaloffle.com/bbs/?tid=2462) - External sprite editor compatible with Pico-8 and PicoLove.
-- [pico2png ★12](briacp/pico2png) - Spritesheet extraction written in perl.
+- [pico2png ★12](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
 - [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - Compilation of works assest and tools using the PICO-8 palette.
-- [Pico8Utils ★27 ⏳1Y](josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
-- [picotool ★97](dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
-- [p8dl - Carts Downloader - Python ★4 ⏳1Y](franciscod/p8dl) - Downloads cartridges into the correct folder (https://github.com/felipebueno/awesome-PICO-8/blob/master/looks at your config.txt).
-- [Pico-8 Carts Downloader - Bash  ★3](kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
-- [p8 responsive webplayer transform ★6](benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
+- [Pico8Utils ★27 ⏳1Y](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
+- [picotool ★97](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
+- [p8dl - Carts Downloader - Python ★4 ⏳1Y](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (https://github.com/felipebueno/awesome-PICO-8/blob/master/looks at your config.txt).
+- [Pico-8 Carts Downloader - Bash  ★3](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
+- [p8 responsive webplayer transform ★6](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
 - [Color Palette](http://www.romanzolotarev.com/pico-8-color-palette/) - Hex and RGB colors codes for web.
 - [PICO-8 font](https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view) - by [RhythmLynx](http://www.lexaloffle.com/bbs/?uid=11704).
-- [pico-test ★10 ⏳1Y](jozanza/pico-test) - PICO-8 testing framework.
-- [Lib-Pico8 ★49](clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
-- [pico8-missing-builtins ★8](adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
-- [P8Coder ★19](movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
+- [pico-test ★10 ⏳1Y](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
+- [Lib-Pico8 ★49](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
+- [pico8-missing-builtins ★8](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
+- [P8Coder ★19](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
 ## Text Editors Language Support
 
-- Visual Studio Code: [vscode-pico8 ★1](nathanchere/vscode-pico8)
+- Visual Studio Code: [vscode-pico8 ★1](https://github.com/nathanchere/vscode-pico8)
 - Atom: [language-pico8](https://atom.io/packages/language-pico8)
 - Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
-- Vim: [vim-pico8-syntax ★24](justinj/vim-pico8-syntax)
+- Vim: [vim-pico8-syntax ★24](https://github.com/justinj/vim-pico8-syntax)
 
 ### Programming Fonts
 
-You might be interested to install [pico-8 programming fonts ★3](juanitogan/p8-programming-fonts) they support the pico-8 custom characters as well as various fonts (bitmap and regular anti-aliased fonts). Check the [BBS thread here](http://www.lexaloffle.com/bbs/?tid=28975).
+You might be interested to install [pico-8 programming fonts ★3](https://github.com/juanitogan/p8-programming-fonts) they support the pico-8 custom characters as well as various fonts (bitmap and regular anti-aliased fonts). Check the [BBS thread here](http://www.lexaloffle.com/bbs/?tid=28975).
 
 How to install the font(s):
 
@@ -101,7 +101,7 @@ How to install the font(s):
 ## Hacks - undocumented PICO-8 features
 
 - [Mouse](http://www.lexaloffle.com/bbs/?tid=3549) - How to retrieve mouse coordinates (with demo).
-- [p8keyboard.js ★7 ⏳1Y](dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
+- [p8keyboard.js ★7 ⏳1Y](https://github.com/dppc/p8keyboard.js) - Javascript "keyboard adapter" for the Pico-8. Send ASCII characters to a Pico-8 program running in a browser.
 - [SFX Modifications](http://www.lexaloffle.com/bbs/?tid=3561) - Four effects that can only be applied by modifying memory (with demo).
 - [Tracker State/Audio Memory Locations](http://www.lexaloffle.com/bbs/?pid=10719#p10719) - How to access and modify audio data as it is playing.
 
@@ -120,9 +120,9 @@ How to install the font(s):
 
 ## Clones
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX         
-- [PicoLove ★34](gamax92/picolove) - Pico-8 Reimplementation in LÖVE.
-- [LIKO-12 ★166](RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
-- [PX8 ★533](Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
+- [PicoLove ★34](https://github.com/gamax92/picolove) - Pico-8 Reimplementation in LÖVE.
+- [LIKO-12 ★166](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
+- [PX8 ★533](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
 ## I Want to Contribute!
 
@@ -141,6 +141,7 @@ See [LICENSE](LICENSE) for more information.
 <p align="center">
 	This list is a copy of <a href="felipebueno/awesome-PICO-8">felipebueno/awesome-PICO-8</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

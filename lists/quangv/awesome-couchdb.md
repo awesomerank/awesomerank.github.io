@@ -11,7 +11,7 @@ Ranked awesome lists, all in one place
   <br>
 </p>
 
-# Awesome CouchDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome CouchDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > A curated meta resources & best practices list for CouchDB.
 
@@ -120,7 +120,7 @@ Pull-Requests are welcomed.
 ### Companies
 
 - [Couchbase](https://www.couchbase.com/) - NoSQL database.
-- [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices ★114 ⏳1Y](eHealthAfrica/couchdb-best-practices).
+- [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices ★114 ⏳1Y](https://github.com/eHealthAfrica/couchdb-best-practices).
 
 
 #### Hosting
@@ -184,6 +184,7 @@ Pull-Requests are welcomed.
 <p align="center">
 	This list is a copy of <a href="quangv/awesome-couchdb">quangv/awesome-couchdb</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

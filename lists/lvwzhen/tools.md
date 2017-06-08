@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="lvwzhen/tools">lvwzhen/tools</a> with ranks
 </p>
 ---
-# Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 >Tools for web
 
@@ -101,13 +101,13 @@ Ranked awesome lists, all in one place
 * [ios7colors](http://ios7colors.com/)
 * [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 * [color-hex](http://www.color-hex.com/)
-* [colors ★7421](mrmrs/colors)
+* [colors ★7421](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 * [randomColor](https://randomcolor.llllll.li/)
 * [Please JS](http://www.checkman.io/please/)
 * [colourco.de](http://colourco.de)
 * [flatuicolorpicker](http://www.flatuicolorpicker.com/)
-* [krmp.cc ★2](dadleyy/krmp.cc)
+* [krmp.cc ★2](https://github.com/dadleyy/krmp.cc)
 
 ### Font
 
@@ -118,7 +118,7 @@ Ranked awesome lists, all in one place
 * [fonts2u](http://www.fonts2u.com/index.html)
 * [webfonts](http://www.fonts.com/web-fonts)
 * [justfont](http://www.justfont.com/)
-* [iconpark ★320 ⏳1Y](lvwzhen/iconpark)
+* [iconpark ★320 ⏳1Y](https://github.com/lvwzhen/iconpark)
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
 
@@ -146,6 +146,7 @@ Ranked awesome lists, all in one place
 <p align="center">
 	This list is a copy of <a href="lvwzhen/tools">lvwzhen/tools</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

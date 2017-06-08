@@ -5,9 +5,9 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="mehcode/awesome-atom">mehcode/awesome-atom</a> with ranks
 </p>
 ---
-# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome ★59088](sindresorhus/awesome).
+A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome ★59088](https://github.com/sindresorhus/awesome).
 
 ## Table of Content
 
@@ -87,7 +87,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
  - [AppleScript](https://atom.io/packages/build-applescript) — oscompile
  - [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
  - [CoffeeScript](https://atom.io/packages/build-coffee) - coffee
- - [GNU Make ★9](AtomBuild/atom-build-make) - make
+ - [GNU Make ★9](https://github.com/AtomBuild/atom-build-make) - make
  - [Sass](https://atom.io/packages/build-sass) — sass
  - [TypeScript](https://atom.io/packages/build-tsc) - tsc
 
@@ -96,7 +96,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 ## Extensions
 
 #### [Nuclide](https://nuclide.io/)
-> An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook ★6679](facebook/nuclide).
+> An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook ★6679](https://github.com/facebook/nuclide).
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
 
@@ -118,7 +118,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 ![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
-> [Beautify ★4706](beautify-web/js-beautify)
+> [Beautify ★4706](https://github.com/beautify-web/js-beautify)
 HTML (including [Handlebars](http://handlebarsjs.com/)),
 CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
@@ -227,6 +227,7 @@ JavaScript, and much more in Atom.
 <p align="center">
 	This list is a copy of <a href="mehcode/awesome-atom">mehcode/awesome-atom</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

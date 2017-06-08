@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="lukasz-madon/awesome-remote-job">lukasz-madon/awesome-remote-job</a> with ranks
 </p>
 ---
-# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
 
@@ -154,7 +154,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Remote Coder](https://remotecoder.io/)
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
-  1. [remote-jobs ★4695](jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+  1. [remote-jobs ★4695](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [RemoteWorkHunt](http://www.remoteworkhunt.com/)
   1. [Remotive Jobs](http://jobs.remotive.io/)
@@ -195,8 +195,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 
 ## Interviewing
-  1. [andreis/interview ★4891](andreis/interview) - Everything you need to kick ass on your coding interview
-  2. [awesome-interviews ★14930](MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+  1. [andreis/interview ★4891](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
+  2. [awesome-interviews ★14930](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
   3. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
   4. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
   5. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
@@ -358,7 +358,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Communities
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
-1. [##remotes ★9 ⏳2Y](remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
+1. [##remotes ★9 ⏳2Y](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee.
 1. [Remote Year] (http://www.remoteyear.com/) - Traveling techies for 1 year.
@@ -406,13 +406,13 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
 
 ## Others
-  1. [awesome-digital-nomads ★123](cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+  1. [awesome-digital-nomads ★123](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
   1. [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space.
   1. [Remote Companies on Careers SO](http://talent.stackoverflow.com/companies?searchTerm=&location=&allowsremote=true)
-  1. [Remote Working ★1534](greatghoul/remote-working) - A list of remote working resources for Chinese.
+  1. [Remote Working ★1534](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
   1. [The Caravanserai](http://www.thecaravanserai.co/) - Co-living provider.
   1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 
@@ -425,6 +425,7 @@ To the extent possible under law, [Lukasz Madon](https://github.com/lukasz-madon
 <p align="center">
 	This list is a copy of <a href="lukasz-madon/awesome-remote-job">lukasz-madon/awesome-remote-job</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

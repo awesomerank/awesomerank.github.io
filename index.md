@@ -458,7 +458,7 @@ Ranked awesome lists, all in one place
 - [Conferences ★565](lists/RichardLitt/awesome-conferences.md)
 - [Sysadmin ★5229](lists/n1trux/awesome-sysadmin.md)
 - [Radio ★87 ⏳1Y](lists/kyleterry/awesome-radio.md)
-- [Awesome ★59088](sindresorhus/awesome) - Recursion illustrated.
+- [Awesome ★59088](https://github.com/sindresorhus/awesome) - Recursion illustrated.
 - [Analytics ★689](lists/onurakpolat/awesome-analytics.md)
 - [REST ★1163](lists/marmelab/awesome-rest.md)
 - [Selenium ★196](lists/christian-bromann/awesome-selenium.md)
@@ -541,6 +541,7 @@ To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has w
 <p align="center">
 	This list is a copy of <a href="sindresorhus/awesome">sindresorhus/awesome</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

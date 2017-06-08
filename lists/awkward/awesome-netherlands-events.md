@@ -5,14 +5,14 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="awkward/awesome-netherlands-events">awkward/awesome-netherlands-events</a> with ranks
 </p>
 ---
-# Awesome Events in NL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Events in NL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > A curated list of Awesome Events in 🇳🇱
 
 This list contains awesome (tech related) events happening (and are mostly recurring) in The Netherlands like: conferences, meetups and parties 🎉 
 
 Contributions welcome. Add links through pull requests or create an issue to start a discussion.
-- [What is an awesome list? ★59088](sindresorhus/awesome)
+- [What is an awesome list? ★59088](https://github.com/sindresorhus/awesome)
 - [Contribution guide](https://github.com/awkward/awesome-netherlands-events/blob/master/contributing.md)
 
 ---
@@ -62,6 +62,7 @@ Want to see more awesomeness? [Follow us on Twitter](https://twitter.com/madeawk
 <p align="center">
 	This list is a copy of <a href="awkward/awesome-netherlands-events">awkward/awesome-netherlands-events</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

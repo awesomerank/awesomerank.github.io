@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
 </p>
 ---
-# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★59088](sindresorhus/awesome)
+# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
 
@@ -349,6 +349,7 @@ your customers.
 * Get Satisfaction! | https://getsatisfaction.com/corp/ | Customer communities for social support, social marketing & customer feedback - online community software | Get Satisfaction is the leading customer engagement platform that helps companies build better relationships with their customers and prospects, through the best online customer community.
 * Reamaze | https://www.reamaze.com | [@reamaze](https://twitter.com/reamaze) | $15/mo | Lightweight, Lightspeed Help Desk. Email, Social, Branded, Integrated. | Reamaze provides your team with helpdesk functionality that integrates with your application, as well as integrations with popular 3rd party tools in your workflow.
 * Jitbit Helpdesk | https://www.jitbit.com/helpdesk/ | [@jitbithelpdesk](https://twitter.com/jitbithelpdesk) | $29/mo - $199/mo | A help desk app that actually makes your work easier, not harder. | Comes in both hosted and on-premise versions. Very well designed and easy to use. Has all the must-have features and doesn't get in your way.
+* Drift | https://www.drift.com | [@drift](https://twitter.com/drift) | free for < 100 contacts, paid from $49/mo | Stop wasting your website traffic. | Sales-oriented live chat and in-app messaging, with chatbot automation.
 
 ### Transactional Email
 
@@ -386,6 +387,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 * Campaign Monitor | https://www.campaignmonitor.com | [@](https://www.campaignmonitor.com/customers/) | $9/mo - $699/mo | CAMPUnbounce Feature Tour |
 * Sendy | https://sendy.co | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers.
 * Image-Charts | https://image-charts.com | [@imagecharts](https://twitter.com/imagecharts) | free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts.
+* Drip | https://www.getdrip.com | [@getdrip](https://twitter.com/getdrip) | free for < 100 subscribers, paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc..
 
 ### Email Collection/Landing Page Apps
 
@@ -414,7 +416,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 * Pipedrive | https://www.pipedrive.com | | $9/ mo | Pipeline software that gets you organized. | Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin.
 * Contactually | https://www.contactually.com | [@Contactually](https://twitter.com/contactually) | $17.99/mo - $99.99/mo | Maximize your network ROI. More referrals. More repeat business | Contactually helps businesses follow up with the right people, at the right time, to maximize relationship ROI.
 
-[Best CRM Software for Startups ★40 ⏳3Y](cjbarber/best-crm-for-startups)
+[Best CRM Software for Startups ★40 ⏳3Y](https://github.com/cjbarber/best-crm-for-startups)
 
 ### Social Media Marketing
 
@@ -447,6 +449,7 @@ for Your Enterprise | Whether planning ahead or booking on the fly, find and res
 * Do.com
 * RescueTime | https://www.rescuetime.com | [@rescuetime](https://twitter.com/rescuetime) | $9/mo | RescueTime gives you an accurate picture of how you spend your time to help you become more productive every day.
 * Qbserve | https://qotoqot.com/qbserve/ | [@Qbserve](https://twitter.com/Qbserve) | $40 one-time | Qbserve is a time tracker for Mac that does whatever RescueTime can but also tracks project time automatically, generates invoices, and stores tracked data locally.
+* Timing | https://timingapp.com/ | [@TimingApp](https://twitter.com/TimingApp) | $29 - $79 | Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost (if you are billing hourly).
 
 ### Prototyping/Mockups
 
@@ -459,7 +462,7 @@ depending on how you like to call them. | The most stunning HTML5 app for creati
 * POP - PrototypeOnPaper | https://popapp.in/ | Free iPhone prototype app, turn back of napkin sketches into prototypes
 * Proto.io | https://proto.io | [@protoio](https://twitter.com/protoio) | $24/mo- $199/mo | Silly-fast mobile prototyping | Build high-fidelity fully interactive mobile app prototypes in minutes. Prototypes can be viewed on browser or device giving a real experience to the user how the app will look like and behave. Multiple devices like smart phones and tablets/pads are supported including iPhone, iPad and Android devices.
 * invision | https://www.invisionapp.com | [@InVisionApp](https://twitter.com/InVisionApp) | $0/mo- $100+/mo | Free Web & Mobile (iOS, Android) Prototyping and UI Mockup Tool | Transform your Web & Mobile (iOS, Android) designs into clickable, interactive Prototypes and Mockups. Share and Collaborate on them with others.
-* Sketch | https://www.sketchapp.com | [@sketchapp](https://twitter.com/sketchapp) | $79 | Professional digital design for Mac. Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
+* Sketch | https://www.sketchapp.com | [@sketchapp](https://twitter.com/sketchapp) | $99 | Professional digital design for Mac. Sketch gives you the power, flexibility and speed you always wanted in a lightweight and easy-to-use package. Finally you can focus on what you do best: Design.
 
 ### Content Creation/Infographics
 
@@ -529,8 +532,9 @@ per successful charge. | Feature-packed payments | No need to design payment for
 * Pin | https://pin.net.au | [@pin_payments](https://twitter.com/pin_payments) | 2.9% + 30¢
 per successful charge. | Payments, Rebooted. | Accepting credit card payments from a global audience typically requires a merchant acount. The process of establishing a merchant account for each currency can be too difficult and costly for small businesses.
 * PayMill | https://www.paymill.com | [@Paymill](https://twitter.com/Paymill) | 0.28 € - 0.25 € | Online payments made easy | Make payments personal by customising the checkout according to the flow of your website
-* Spreedly | https://www.spreedly.com | [@spreedly](https://twitter.com/spreedly) | $150/mo-  $1500/mo | Payments as a Platform | One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token.
+* Spreedly | https://www.spreedly.com | [@spreedly](https://twitter.com/spreedly) | $150/mo - $1500/mo | Payments as a Platform | One of Spreedly's major benefits is reaching a large number of merchant accounts by working across multiple payment gateways. As a direct merchant you can transact globally but deposit funds in unique merchant accounts based on geographic or other business rules. As a SaaS platform you can support the unique merchant accounts of your individual customers. A payment gateway token is your way to indicate to us which unique merchant account this particular transaction will go against. Each unique merchant account = one unique payment gateway token.
 * WePay | https://go.wepay.com | [@wepay](https://twitter.com/wepay) | 2.9% + 30¢ per transaction. | WePay is the first payments engine to offer platforms — marketplaces, crowdfunding, and business software/tools — a way to own their customer experience while still shielding them from 100 percent of fraud and regulatory risk.
+* Paddle | https://paddle.com | [@PaddleHQ](https://twitter.com/PaddleHQ) | 5% + 50¢ per transaction. | Payment processing and fulfillment, specialized for desktop apps and SaaS subscription services. Handles VAT and invoicing for you, so your accounting becomes easier.
 
 ### Banking
 
@@ -621,7 +625,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Convo | https://www.convo.com/
 * Zoom | https://www.zoom.us/
 
-[HipChat Alternatives ★232](cjbarber/hipchat-alternatives)
+[HipChat Alternatives ★232](https://github.com/cjbarber/hipchat-alternatives)
 
 ### Remote Collaboration
 
@@ -867,6 +871,7 @@ With many thanks to the [contributors](https://github.com/davisonio/awesome-irc/
 <p align="center">
 	This list is a copy of <a href="cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

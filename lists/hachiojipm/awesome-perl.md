@@ -5,9 +5,9 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="hachiojipm/awesome-perl">hachiojipm/awesome-perl</a> with ranks
 </p>
 ---
-# Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Perl5 frameworks, libraries and software. Inspired by [awesome-go ★20918](avelino/awesome-go).
+A curated list of awesome Perl5 frameworks, libraries and software. Inspired by [awesome-go ★20918](https://github.com/avelino/awesome-go).
 
 Not Perl6 modules ;-P
 
@@ -338,7 +338,7 @@ We also recommend these lists.
 
 * [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 * [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
-* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman ★4306](ddollar/foreman)
+* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman ★4306](https://github.com/ddollar/foreman)
 
 ## Profiling
 
@@ -503,11 +503,11 @@ We also recommend these lists.
 
 Other amazingly awesome lists can be found in:
 
-* [bayandin/awesome-awesomeness ★18868](bayandin/awesome-awesomeness)
-* [emijrp/awesome-awesome ★790](emijrp/awesome-awesome)
-* [fleveque/awesome-awesomes ★476](fleveque/awesome-awesomes)
-* [sindresorhus/awesome ★59088](sindresorhus/awesome)
-* [t3chnoboy/awesome-awesome-awesome ★880](t3chnoboy/awesome-awesome-awesome)
+* [bayandin/awesome-awesomeness ★18868](https://github.com/bayandin/awesome-awesomeness)
+* [emijrp/awesome-awesome ★790](https://github.com/emijrp/awesome-awesome)
+* [fleveque/awesome-awesomes ★476](https://github.com/fleveque/awesome-awesomes)
+* [sindresorhus/awesome ★59088](https://github.com/sindresorhus/awesome)
+* [t3chnoboy/awesome-awesome-awesome ★880](https://github.com/t3chnoboy/awesome-awesome-awesome)
 
 # How to contribute?
 
@@ -516,6 +516,7 @@ Please read [CONTRIBUTING.md](https://github.com/hachiojipm/awesome-perl/blob/ma
 <p align="center">
 	This list is a copy of <a href="hachiojipm/awesome-perl">hachiojipm/awesome-perl</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

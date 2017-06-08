@@ -5,11 +5,11 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="leekelleher/awesome-umbraco">leekelleher/awesome-umbraco</a> with ranks
 </p>
 ---
-# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A collection of awesome [Umbraco 7](http://umbraco.com/) packages, resources and shiny things.
 
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome). For general C#/.NET please see the [awesome-dotnet ★4648](quozd/awesome-dotnet) collection!
+Inspired by [awesome lists](https://github.com/sindresorhus/awesome). For general C#/.NET please see the [awesome-dotnet ★4648](https://github.com/quozd/awesome-dotnet) collection!
 
 **Contributions are always welcome!** Please read the [contribution guidelines and quality standard](https://github.com/leekelleher/awesome-umbraco/blob/master/CONTRIBUTING.md) page before making a pull-request.
 
@@ -44,7 +44,7 @@ Please note * indicates that the package is commercial or may require a license 
 ### Form Builders
 
 * [Umbraco Forms*](http://umbraco.com/forms) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
-* [Form Editor ★53](kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
+* [Form Editor ★53](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
 * [Formulate](https://our.umbraco.org/projects/backoffice-extensions/formulate/) - Build website forms (contact forms, newsletter sign ups, surveys, job applications) with no coding.
 
 ### Grid Editors
@@ -111,7 +111,7 @@ Please note * indicates that the package is commercial or may require a license 
 ## Code Libraries
 
 * [Ditto](https://our.umbraco.org/projects/developer-tools/ditto/) - a lightweight model mapper for `IPublishedContent`.
-* [Zbu Models Builder ★74](zpqrtbnk/Zbu.ModelsBuilder) - generate strongly-typed `IPublishedContent` models automagically.
+* [Zbu Models Builder ★74](https://github.com/zpqrtbnk/Zbu.ModelsBuilder) - generate strongly-typed `IPublishedContent` models automagically.
 * [Umbraco Core Property Value Converters](https://our.umbraco.org/projects/developer-tools/umbraco-core-property-value-converters) - implements converters for the Umbraco Core property-editors.
 * [Skybrud.Umbraco.GridData](https://our.umbraco.org/projects/developer-tools/skybrudumbracogriddata/) - a package for making the Umbraco grid strongly typed.
 
@@ -127,6 +127,7 @@ This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 Inter
 <p align="center">
 	This list is a copy of <a href="leekelleher/awesome-umbraco">leekelleher/awesome-umbraco</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -5,11 +5,11 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="AllThingsSmitty/jquery-tips-everyone-should-know">AllThingsSmitty/jquery-tips-everyone-should-know</a> with ranks
 </p>
 ---
-# jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# jQuery Tips Everyone Should Know [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A collection of simple tips to help up your jQuery game.
 
-> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★59088](sindresorhus/awesome).
+> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★59088](https://github.com/sindresorhus/awesome).
 
 
 ## Table of Contents
@@ -492,6 +492,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 <p align="center">
 	This list is a copy of <a href="AllThingsSmitty/jquery-tips-everyone-should-know">AllThingsSmitty/jquery-tips-everyone-should-know</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -6,7 +6,7 @@ Ranked awesome lists, all in one place
 </p>
 ---
 ![](https://github.com/TheJambo/awesome-testing/blob/master/resources/AwesomeTesting.jpg?raw=true)
-# Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 > A curated list of testing software, extensions and resources
 
 ## Foreword
@@ -30,7 +30,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 
 ### Security
 - [BeEF](http://beefproject.com/) - Manipulate the browser exploiting any XSS vulns you find.
-- [OWASP ZAP ★2513](zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
+- [OWASP ZAP ★2513](https://github.com/zaproxy/zaproxy) - This intercepting proxy allows you to see all HTTP traffic and manipulate it in real time. Easy to scan, catalog and exploit security issues.
 - [Cookie Inspector](https://chrome.google.com/webstore/detail/cookie-inspector/jgbbilmfbammlbbhmmgaagdkbkepnijn) - View and Edit Cookies easily using the developer tools pane.
 
 ### Make your life easier
@@ -51,7 +51,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Thinking, Fast and Slow](https://www.amazon.co.uk/Thinking-Fast-Slow-Daniel-Kahneman/dp/0141033576) - All about how we make decisions (UI Testing).
 
 ## Training (Includes developer training for automation testers)
-- [Learn to Code ★305](karlhorky/learn-to-program) - Another awesome list for developer training
+- [Learn to Code ★305](https://github.com/karlhorky/learn-to-program) - Another awesome list for developer training
 - [The Dojo](https://dojo.ministryoftesting.com/) - Courses and talks directly from the testing community.
 - [Guru99](http://www.guru99.com/) - Learn by experience, a bit more fun than video training.
 - [Coursera](https://www.coursera.org/) - Online courses from top universities.
@@ -61,16 +61,16 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Suggested Awesome Lists
 
 ### Must Read
-- [Falsehoods ★5263](kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
-- [Naughty Strings ★21071](minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
-- [Unicode ★350](jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
+- [Falsehoods ★5263](https://github.com/kdeldycke/awesome-falsehood) - A funny and educational list of why nothing in Software Development is ever easy. Think you can store a marriage in a DB?
+- [Naughty Strings ★21071](https://github.com/minimaxir/big-list-of-naughty-strings) - This is the famous list of Naughty Strings. If you're doing some field validation, look no further for inspiration.
+- [Unicode ★350](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Useful References
-- [The Original ★59088](sindresorhus/awesome) - The awesome list of awesome lists.
-- [Learn to Code ★305](karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
-- [Application Security ★2395](paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
-- [Selenium ★196](christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
-- [Security ★1682](sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
+- [The Original ★59088](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+- [Learn to Code ★305](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
+- [Application Security ★2395](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
+- [Selenium ★196](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.
+- [Security ★1682](https://github.com/sbilly/awesome-security) - This is mostly focused on Infrastructure, but if you're testing a series of systems, this is very useful.
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md) - A list of free software testing books.
 
 ## Others
@@ -100,6 +100,7 @@ have waived all copyright and related or neighboring rights to this work. See th
 <p align="center">
 	This list is a copy of <a href="TheJambo/awesome-testing">TheJambo/awesome-testing</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

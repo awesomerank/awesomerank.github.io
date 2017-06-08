@@ -7,13 +7,13 @@ Ranked awesome lists, all in one place
 ---
 Awesome Series @ Planet Ruby
 
-[Rubies (Virtual Machines, Compilers, ...) ★202](planetruby/awesome-rubies) •
-[ActiveRecord ★243](planetruby/awesome-activerecord)  •
-[Webframeworks (Micro, Macro, APIs, ...) ★112 ⏳1Y](planetruby/awesome-webframeworks) •
-[Webservers (Single-Threaded, Multi-Threaded, Evented, ...) ★135 ⏳1Y](planetruby/awesome-webservers) •
-[Static Generators (Sites, Books, Presentations, ...) ★1 ⏳1Y](planetruby/awesome-staticgen) •
-[Events (Conferences, Camps, Meetups, ...) ★186](planetruby/awesome-events) •
-[Blogs (News, Opinions, Podcasts, ...) ★4 ⏳1Y](planetruby/awesome-blogs)
+[Rubies (Virtual Machines, Compilers, ...) ★202](https://github.com/planetruby/awesome-rubies) •
+[ActiveRecord ★243](https://github.com/planetruby/awesome-activerecord)  •
+[Webframeworks (Micro, Macro, APIs, ...) ★112 ⏳1Y](https://github.com/planetruby/awesome-webframeworks) •
+[Webservers (Single-Threaded, Multi-Threaded, Evented, ...) ★135 ⏳1Y](https://github.com/planetruby/awesome-webservers) •
+[Static Generators (Sites, Books, Presentations, ...) ★1 ⏳1Y](https://github.com/planetruby/awesome-staticgen) •
+[Events (Conferences, Camps, Meetups, ...) ★186](https://github.com/planetruby/awesome-events) •
+[Blogs (News, Opinions, Podcasts, ...) ★4 ⏳1Y](https://github.com/planetruby/awesome-blogs)
 
 
 # Awesome Ruby Events
@@ -892,7 +892,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 NOTE: A [calendar page](http://planetruby.github.io/calendar)
 gets auto-generated from this page listing conferences sorted by
 date (that is, year and month)
-or better try the "live" version using the [whatson command line tool ★12 ⏳1Y](textkit/whatson).
+or better try the "live" version using the [whatson command line tool ★12 ⏳1Y](https://github.com/textkit/whatson).
 Type:
 
 ~~~
@@ -941,6 +941,7 @@ Send them along to the ruby-talk mailing list. Thanks!
 <p align="center">
 	This list is a copy of <a href="planetruby/awesome-events">planetruby/awesome-events</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

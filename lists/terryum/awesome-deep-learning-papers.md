@@ -7,7 +7,7 @@ Ranked awesome lists, all in one place
 ---
 # Awesome - Most Cited Deep Learning Papers
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A curated list of the most cited deep learning papers (since 2012)
 
@@ -15,7 +15,7 @@ We believe that there exist *classic* deep learning papers which are worth readi
 
 ## Background
 
-Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners, called [Deep Learning Papers Reading Roadmap ★11717](songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
+Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners, called [Deep Learning Papers Reading Roadmap ★11717](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
 
 Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
 
@@ -278,7 +278,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 *(Lectures)*
 - CS231n, Convolutional Neural Networks for Visual Recognition, Stanford University [[web]](http://cs231n.stanford.edu/)
 - CS224d, Deep Learning for Natural Language Processing, Stanford University [[web]](http://cs224d.stanford.edu/)
-- Oxford Deep NLP 2017, Deep Learning for Natural Language Processing, University of Oxford [[web] ★8194](oxford-cs-deepnlp-2017/lectures)
+- Oxford Deep NLP 2017, Deep Learning for Natural Language Processing, University of Oxford [[web] ★8194](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 *(Tutorials)*
 - NIPS 2016 Tutorials, Long Beach [[web]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
@@ -393,6 +393,7 @@ To the extent possible under law, [Terry T. Um](https://www.facebook.com/terryum
 <p align="center">
 	This list is a copy of <a href="terryum/awesome-deep-learning-papers">terryum/awesome-deep-learning-papers</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

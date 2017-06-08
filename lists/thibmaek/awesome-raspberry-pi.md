@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="thibmaek/awesome-raspberry-pi">thibmaek/awesome-raspberry-pi</a> with ranks
 </p>
 ---
-# Awesome Raspberry Pi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Raspberry Pi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 <a href="https://www.raspberrypi.org"><img src="https://www.raspberrypi.org/wp-content/uploads/2012/03/raspberry-pi-logo.png" alt="Raspberry Pi Logo" align="left" style="margin-right: 25px" height=150></a>
 
@@ -41,8 +41,8 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Recalbox](https://www.recalbox.com) - Drag & drop light-weight retro-gaming and media center on the Raspberry Pi.
 - [Lakka](http://lakka.tv) - Retro-gaming on the Raspberry Pi built entirely on RetroArch.
 - [RasPlex](http://www.rasplex.com/) - Plex client for the Raspberry Pi.
-- [chilipie-kiosk ★79](futurice/chilipie-kiosk) - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
-- [DietPi ★442](Fourdee/DietPi) - Mimimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
+- [chilipie-kiosk ★79](https://github.com/futurice/chilipie-kiosk) - Image which boots directly into full-screen Chrome, perfect for dashboards and build monitors. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
+- [DietPi ★442](https://github.com/Fourdee/DietPi) - Mimimal image designed to fit on a 2GB SD card, with tons of configurable settings and scripts.
 - [CentOS](https://wiki.centos.org/SpecialInterestGroup/AltArch/Arm32/RaspberryPi3) - CentOS on the Raspberry Pi. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 - [Minibian](https://minibianpi.wordpress.com/) - Minimal Raspbian (lighter than Jessie Lite).
 - [BerryBoot](http://www.berryterminal.com/doku.php/berryboot) - Bootloader/universal OS installer, with support to VNC and HDMI-CEC.
@@ -60,16 +60,16 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
 - [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - macOS application to easily install/backup/restore images onto an SD card.
 - [Etcher](https://www.etcher.io/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
-- [PiShrink ★143](Drewsif/PiShrink) - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
-- [OpenVPN-Setup ★506](StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
-- [pi-gen ★219](RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
+- [PiShrink ★143](https://github.com/Drewsif/PiShrink) - Bash script that automatically shrinks a pi image that will then resize to the max size of the SD card on boot.
+- [OpenVPN-Setup ★506](https://github.com/StarshipEngineer/OpenVPN-Setup) - Shell script to set up Raspberry Pi as an OpenVPN server.
+- [pi-gen ★219](https://github.com/RPi-Distro/pi-gen) - Tool used to create the raspberrypi.org Raspbian images. This can be used to create your own custom images with specific packages installed, etc.
 - [PiVPN](http://www.pivpn.io/) - Simple, Flexible, and Managable single line install of OpenVPN Server for your Raspberry Pi.
 - [Network Presence Detector](https://github.com/initialstate/pi-sensor-free-presence-detector/wiki) - Setup a Pi Zero to scan for devices on a WiFi network and use that to determine who is "home".
-- [Resin Bridge ★5](resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
+- [Resin Bridge ★5](https://github.com/resin-io-playground/resin-bridge) - Simple application/repo to bridge a Raspberry Pi's wlan0 interface to devices plugged into it over ethernet (eth0).
 - [WiFi config generator](https://steveedson.co.uk/tools/wpa/) - Simple tool to generate wpa_supplicant.conf files with wifi settings
 - [Raspbian QEMU with network](https://ownyourbits.com/2017/02/06/raspbian-on-qemu-with-network-access/) - Simple tool to launch QEMU on Raspbian with the required modifications on the system and kernel. Automatic network access. Handy to create images in your PC.
-- [RaspAP-webgui ★238](billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
-- [HealthyPi ★18](Protocentral/HealthyPi) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
+- [RaspAP-webgui ★238](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
+- [HealthyPi ★18](https://github.com/Protocentral/HealthyPi) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
@@ -80,33 +80,33 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Raspberry PI Hadoop Cluster](http://www.widriksson.com/raspberry-pi-hadoop-cluster/) - Big Data cluster running on the Raspberry Pi.
 - [Multi-Datacenter Cassandra on 32 Raspberry Pi’s](http://www.datastax.com/dev/blog/32-node-raspberry-pi-cassandra-cluster) - Showcase for the always on, fault tolerant nature of Cassandra using a Raspberry Pi cluster board.
 - [Building a Ceph Cluster on Raspberry Pi](http://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/) - Highly redundant and low power usage RADOS home storage solution.
-- [Smart Mirror ★1907](evancohen/smart-mirror) - Voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
+- [Smart Mirror ★1907](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 - [Magic Mirror](http://magicmirror.builders) - The original open source modular smart mirror platform. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 - [Door bot](https://blog.haschek.at/post/f31aa) - Door bot that senses when a door is opened and sends you chat messages.
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 - [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
 - [Lightberry](https://lightberry.eu) - Led lighting solution dedicated for raspberry pi and your TV.
-- [SecPi ★121](SecPi/SecPi) - Raspberry Pi based home alarm system.
-- [PiClock ★297](n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi.
-- [Garage Door Opener ★7](benjefferies/gogo-garage-opener) - Garage door opener using the [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) app to control garage door.
-- [Movel ★53 ⏳1Y](stevelacy/movel) - Raspberry Pi car computer.
-- [PiFanTuner ★7](winkidney/PIFanTuner) - CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-3.png)
+- [SecPi ★121](https://github.com/SecPi/SecPi) - Raspberry Pi based home alarm system.
+- [PiClock ★297](https://github.com/n0bel/PiClock) - Fancy Clock built around a monitor and a Raspberry Pi.
+- [Garage Door Opener ★7](https://github.com/benjefferies/gogo-garage-opener) - Garage door opener using the [Garage Opener](https://play.google.com/store/apps/details?id=com.ionicframework.gogogarageopenerui416115&hl=en) app to control garage door.
+- [Movel ★53 ⏳1Y](https://github.com/stevelacy/movel) - Raspberry Pi car computer.
+- [PiFanTuner ★7](https://github.com/winkidney/PIFanTuner) - CPU-fan-tuner daemon, just enables your fan as necessary. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-3.png)
 - [SkyJack](https://samy.pl/skyjack/) - Take over and allow full control over any Parrot AR Drone within wireless distance.
 - [Nerves Project](https://github.com/nerves-project) - Craft and deploy bulletproof embedded software in Elixir.
-- [Wordpress using Docker ★13](rothgar/rpi-wordpress) - Run a Wordpress site in containers with dynamic DNS.
+- [Wordpress using Docker ★13](https://github.com/rothgar/rpi-wordpress) - Run a Wordpress site in containers with dynamic DNS.
 - [Pi-hole](https://pi-hole.net/) - Black hole for internet ads.
 - [Planning lunch with a Slackbot on resin.io](https://resin.io/blog/planning-lunch-with-a-slackbot-on-resin-io/) - Node.js Slackbot (lunchbot), hosted on Resin.
-- [Sonus ★223](evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
-- [Sonic Pi ★2125](samaaron/sonic-pi) - The Live Coding Music Synth for Everyone.
+- [Sonus ★223](https://github.com/evancohen/sonus) - Node.js voice control for your Pi (and everything else) with customizable offline hotword detection.
+- [Sonic Pi ★2125](https://github.com/samaaron/sonic-pi) - The Live Coding Music Synth for Everyone.
 - [Alexa AVS](https://github.com/alexa/alexa-avs-sample-app/wiki/Raspberry-Pi) - Demonstration on using Alexa Voice Service with a Java client and Node.js server.
 - [Pi4j Project](http://pi4j.com) - Java I/O library the Raspberry Pi.
 - [Harry Potter and the real life Daily Prophet](https://www.raspberrypi.org/blog/harry-potter-and-the-real-life-daily-prophet/) - Display mimicking the Daily Prophet from Harry Potter using a 7" Raspberry Pi display.
 - [PiScan](http://denis.papathanasiou.org/posts/2015.05.30.post.html) - Makeshift Amazon Dash orders using a Raspberry PI + EAN scanner.
 - [PiE-Ink](http://www.htxt.co.za/2017/02/07/pie-ink-is-a-raspberry-pi-name-tag-that-uses-an-e-ink-display/) - E-ink nametag display running on a Pi Zero. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-0.png)
 - [Whispering Mirror](http://whisperingwallproject.com/whisperingmirror/) - Interactive soundart installation using the Hifiberry DAC.
-- [clockOS ★9](iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
+- [clockOS ★9](https://github.com/iGerli/clockOS) - simple smart desktop clock using a Raspberry Pi display.
 - [Zelda Home Automation](https://www.raspberrypi.org/blog/zelda-home-automation/) - Home automation based on sound recognition from notes played on an ocarina.
-- [Looper/synth/drum thing ★171](otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
+- [Looper/synth/drum thing ★171](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
 
 ## Resources
 ### Articles
@@ -118,7 +118,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/2015/05/07/raspberry-pi-login-with-ssh-keys.html) - Password-less login for ssh sessions on the Raspberry Pi.
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - Simple, secure and detailed guide to setup VPN on your Raspberry Pi.
 - [Controlling Spotify with Slack and a Raspberry Pi](https://thesocietea.org/2016/03/controlling-spotify-with-slack-and-a-raspberry-pi/) - Node.js project to control Spotify & Slack with libspotify.
-- [Moonlight ★862](irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
+- [Moonlight ★862](https://github.com/irtimmer/moonlight-embedded) - Nvidia GameStream implementation to stream your full collection of Steam games from desktop to the Raspberry Pi.
 - [Raspberry Pi Zero: Programming over USB](http://blog.gbaman.info/?p=791) - Guide to boot and access a Raspberry Pi Zero over a USB cable without need of an ethernet/wifi connection, keyboard or screen. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-0.png)
 - [Use a Raspberry Pi with multiple WiFi networks](https://www.mikestreety.co.uk/blog/use-a-raspberry-pi-with-multiple-wifi-networks) - Tutorial on using a Raspberry Pi with multiple networks.
 - [Raspberry Pi Media Server Guides](http://www.htpcguides.com/category/raspberry-pi/) - Media Server and NAS tutorials from HTPC Guides.
@@ -148,6 +148,7 @@ Contribution guidelines can be found [here](https://github.com/thibmaek/awesome-
 <p align="center">
 	This list is a copy of <a href="thibmaek/awesome-raspberry-pi">thibmaek/awesome-raspberry-pi</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

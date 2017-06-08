@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
 </p>
 ---
-# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
@@ -775,6 +775,7 @@ Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-s
 <p align="center">
 	This list is a copy of <a href="kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="arslanbilal/git-cheat-sheet">arslanbilal/git-cheat-sheet</a> with ranks
 </p>
 ---
-Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://travis-ci.org/arslanbilal/git-cheat-sheet.svg?branch=master)](https://travis-ci.org/arslanbilal/git-cheat-sheet)
+Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/arslanbilal/git-cheat-sheet.svg?branch=master)](https://travis-ci.org/arslanbilal/git-cheat-sheet)
 ===============
 <hr>
 <p align="center">
@@ -535,7 +535,7 @@ $ git commit -m "remove xyz file"
 <hr>
 
 ## Git-Flow
-Improved [Git-flow ★1997](petervanderdoes/gitflow-avh)
+Improved [Git-flow ★1997](https://github.com/petervanderdoes/gitflow-avh)
 
 ### Index
 * [Setup](#setup)
@@ -682,6 +682,7 @@ git flow hotfix finish VERSION
 <p align="center">
 	This list is a copy of <a href="arslanbilal/git-cheat-sheet">arslanbilal/git-cheat-sheet</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

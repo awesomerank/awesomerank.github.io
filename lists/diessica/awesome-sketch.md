@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="diessica/awesome-sketch">diessica/awesome-sketch</a> with ranks
 </p>
 ---
-# awesome Sketch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# awesome Sketch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > [**Sketch 3**](http://bohemiancoding.com/sketch/) has become very popular in the Design community. How much do you know about it?
 
@@ -75,33 +75,33 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
 ###### Must-have :heart:
-- [Content Generator ★3873](timuric/Content-generator-sketch-plugin)
-- [RenameIt ★756](rodi01/RenameIt)
-- [Sketch Measure ★4686](utom/sketch-measure)
-- [Style Inventory ★1708](getflourish/Sketch-Style-Inventory)
-- [Dynamic Button ★1055](ddwht/sketch-dynamic-button)
-- [Page Switch ★66 ⏳2Y](mauehara/sketch-page-switch)
-- [Sketch Flex Layout ★1696](hrescak/Sketch-Flex-Layout)
+- [Content Generator ★3873](https://github.com/timuric/Content-generator-sketch-plugin)
+- [RenameIt ★756](https://github.com/rodi01/RenameIt)
+- [Sketch Measure ★4686](https://github.com/utom/sketch-measure)
+- [Style Inventory ★1708](https://github.com/getflourish/Sketch-Style-Inventory)
+- [Dynamic Button ★1055](https://github.com/ddwht/sketch-dynamic-button)
+- [Page Switch ★66 ⏳2Y](https://github.com/mauehara/sketch-page-switch)
+- [Sketch Flex Layout ★1696](https://github.com/hrescak/Sketch-Flex-Layout)
 
 ###### Nice-to-have :thumbsup:
-- [Handy Tools ★119](webpatch/Handy-Tools)
+- [Handy Tools ★119](https://github.com/webpatch/Handy-Tools)
 - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
-- [User Flow ★1060](abynim/UserFlows)
+- [User Flow ★1060](https://github.com/abynim/UserFlows)
 - [Sketch Runner](http://sketchrunner.com)
-- [Efficiency ★107](x-raizor/Efficiency)
+- [Efficiency ★107](https://github.com/x-raizor/Efficiency)
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory ★2613](sketchplugins/plugin-directory)
+- [Sketch Plugin Directory ★2613](https://github.com/sketchplugins/plugin-directory)
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).
 - In the [Sketch community](#community)
 
 ## Templates & UI Kits
-- [Responsive Web Design Template ★22 ⏳1Y](luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
-- [Sketch iOS Templates ★854 ⏳3Y](nvk/sketch-ios), a collection of many iOS templates.
-- [Teracy Wireframe Kit ★1195 ⏳2Y](teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
+- [Responsive Web Design Template ★22 ⏳1Y](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
+- [Sketch iOS Templates ★854 ⏳3Y](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
+- [Teracy Wireframe Kit ★1195 ⏳2Y](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
 
 ## Services
 - [Zeplin](https://zeplin.io) – design, prototyping and collaboration
@@ -138,6 +138,7 @@ To the extent possible under law, [Diéssica Gurskas](http://diessi.ca) has waiv
 <p align="center">
 	This list is a copy of <a href="diessica/awesome-sketch">diessica/awesome-sketch</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

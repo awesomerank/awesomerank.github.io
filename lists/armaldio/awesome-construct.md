@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="armaldio/awesome-construct">armaldio/awesome-construct</a> with ranks
 </p>
 ---
-# Awesome Construct [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Construct [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 [<img src="https://www.scirra.com/images/construct2.png" align="right" width="100">](https://www.scirra.com/)
 
@@ -105,6 +105,7 @@ This list includes all the best tools, tutorials and examples related to the awe
 <p align="center">
 	This list is a copy of <a href="armaldio/awesome-construct">armaldio/awesome-construct</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

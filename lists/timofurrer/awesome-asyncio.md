@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="timofurrer/awesome-asyncio">timofurrer/awesome-asyncio</a> with ranks
 </p>
 ---
-# Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > A carefully curated list of awesome Python asyncio frameworks, libraries, software and resources.
 
@@ -34,60 +34,60 @@ Find some of those *awesome* packages here and if you are missing one we count o
 *Libraries to build web applications.*
 
 * [aiohttp](https://github.com/KeepSafe/aiohttp) - Http client/server for asyncio (PEP-3156).
-* [sanic ★5877](channelcat/sanic) - Python 3.5+ web server that's written to go fast.
-* [Kyoukai ★310](SunDwarf/Kyoukai) - Fully async web framework for Python3.5+ using asyncio.
-* [cirrina ★10](neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
-* [autobahn ★1434](crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
+* [sanic ★5877](https://github.com/channelcat/sanic) - Python 3.5+ web server that's written to go fast.
+* [Kyoukai ★310](https://github.com/SunDwarf/Kyoukai) - Fully async web framework for Python3.5+ using asyncio.
+* [cirrina ★10](https://github.com/neolynx/cirrina) - Opinionated asynchronous web framework based on aiohttp.
+* [autobahn ★1434](https://github.com/crossbario/autobahn-python) - WebSocket and WAMP supporting asyncio and Twisted, for clients and servers.
 
 ## Message Queues
 
 *Libraries to implement applications using message queues.*
 
-* [aioamqp ★86](Polyconseil/aioamqp) - AMQP implementation using asyncio.
-* [aiozmq ★207](aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ.
-* [crossbar ★1257](crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
+* [aioamqp ★86](https://github.com/Polyconseil/aioamqp) - AMQP implementation using asyncio.
+* [aiozmq ★207](https://github.com/aio-libs/aiozmq) - Asyncio (pep 3156) integration with ZeroMQ.
+* [crossbar ★1257](https://github.com/crossbario/crossbar) - Crossbar.io is a networking platform for distributed and microservice applications.
 
 ## Database Drivers
 
 *Libraries to connect to databases.*
 
-* [asyncpg ★1846](MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
-* [asyncpgsa ★108](CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
-* [aiopg ★431](aio-libs/aiopg) - Library for accessing a PostgreSQL database.
-* [aiomysql ★290](aio-libs/aiomysql) - Library for accessing a MySQL database
-* [aioodbc ★56](aio-libs/aioodbc) - Library for accessing a ODBC databases.
-* [motor ★789](mongodb/motor) - The async Python driver for MongoDB.
-* [asyncio-redis ★350](jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
-* [aiocouchdb ★36](aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
-* [aioes ★79](aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
-* [peewee-async](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee ★4059](coleifer/peewee) and aiopg.
+* [asyncpg ★1846](https://github.com/MagicStack/asyncpg) - Fast PostgreSQL Database Client Library for Python/asyncio.
+* [asyncpgsa ★108](https://github.com/CanopyTax/asyncpgsa) - Asyncpg with sqlalchemy core support.
+* [aiopg ★431](https://github.com/aio-libs/aiopg) - Library for accessing a PostgreSQL database.
+* [aiomysql ★290](https://github.com/aio-libs/aiomysql) - Library for accessing a MySQL database
+* [aioodbc ★56](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
+* [motor ★789](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
+* [asyncio-redis ★350](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
+* [aiocouchdb ★36](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
+* [aioes ★79](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
+* [peewee-async](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee ★4059](https://github.com/coleifer/peewee) and aiopg.
 
 ## Networking
 
 *Libraries to communicate in your network.*
 
-* [AsyncSSH ★546](ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
+* [AsyncSSH ★546](https://github.com/ronf/asyncssh) - Provides an asynchronous client and server implementation of the SSHv2 protocol.
 
 ## Testing
 
 *Libraries to test asyncio based applications.*
 
-* [aiomock ★7](nhumrich/aiomock) - A python mock library that supports async methods.
-* [asynctest ★71](Martiusweb/asynctest) - Enhance the standard unittest package with features for testing. asyncio libraries
-* [pytest-asyncio ★135](pytest-dev/pytest-asyncio) - Pytest support for asyncio.
+* [aiomock ★7](https://github.com/nhumrich/aiomock) - A python mock library that supports async methods.
+* [asynctest ★71](https://github.com/Martiusweb/asynctest) - Enhance the standard unittest package with features for testing. asyncio libraries
+* [pytest-asyncio ★135](https://github.com/pytest-dev/pytest-asyncio) - Pytest support for asyncio.
 
 ## Alternative Loops
 
 *Alternative asyncio loop implementations.*
 
-* [uvloop ★3562](MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
-* [curio ★1872](dabeaz/curio) - The coroutine concurrency library.
+* [uvloop ★3562](https://github.com/MagicStack/uvloop) - Ultra fast implementation of asyncio event loop on top of libuv.
+* [curio ★1872](https://github.com/dabeaz/curio) - The coroutine concurrency library.
 
 ## Misc
 
 *Other awesome asyncio libraries.*
 
-* [aiofiles ★202](Tinche/aiofiles) - File support for asyncio.
+* [aiofiles ★202](https://github.com/Tinche/aiofiles) - File support for asyncio.
 
 ## Writings
 
@@ -107,6 +107,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 <p align="center">
 	This list is a copy of <a href="timofurrer/awesome-asyncio">timofurrer/awesome-asyncio</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

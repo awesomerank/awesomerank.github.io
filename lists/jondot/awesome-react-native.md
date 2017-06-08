@@ -271,7 +271,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-hero ★19](https://github.com/brh55/react-native-hero) - A hero/banner component with support for dynamic or static images, dynamic sizing, color overlays, and more.
 - [react-native-ibeacon-simulator ★13](https://github.com/williamtran29/react-native-ibeacon-simulator) - React Native Library to simulate device act as an iBeacon
 - [react-native-ichart ★17](https://github.com/AdonRain/react-native-ichart) - ichart for react-native
-- [react-native-icons ★1118](corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
+- [react-native-icons ★1118](https://github.com/corymsmith/react-native-icons), [video](https://www.youtube.com/watch?v=TEdM7IwTT1g#t=50)
 - [react-native-idle-timer ★36](https://github.com/marcshilling/react-native-idle-timer) - An Objective-C bridge that allows you to enable and disable the screen idle timer in your React Native app
 - [react-native-image-container ★0](https://github.com/frostney/react-native-image-container) - Image container for React Native
 - [react-native-image-picker ★1862](https://github.com/marcshilling/react-native-image-picker) - A React Native module that allows you to use the native UIImagePickerController UI to select a photo from the device library or directly from the camera.
@@ -434,9 +434,9 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-snackbar-component ★0](https://github.com/SiDevesh/React-Native-SnackBar-Component) - A snackbar component for Android and iOS, customizable and simple.
 - [react-native-expand ★3](https://github.com/hejiaji/react-native-expand) - A react-native expandable component for both Android and iOS
 - [react-native-zoom-image ★8](https://github.com/Tinysymphony/react-native-zoom-image) - An image viewer component for react-native, like twitter's image viewer.
-- [react-native-hijri-date-picker ★5](Codelabsys/react-native-hijri-date-picker-android) -  Date Picker Dialog for Hijri calendar for android.
-- [react-native-md-motion-buttons ★10](zecaptus/react-native-md-motion-buttons) - Material design motion button inspired by inVision app.
-- [react-native-fab ★4](SiDevesh/React-Native-FAB) - A FAB button component for Android and iOS, customizable, simple and as per material design specs.
+- [react-native-hijri-date-picker ★5](https://github.com/Codelabsys/react-native-hijri-date-picker-android) -  Date Picker Dialog for Hijri calendar for android.
+- [react-native-md-motion-buttons ★10](https://github.com/zecaptus/react-native-md-motion-buttons) - Material design motion button inspired by inVision app.
+- [react-native-fab ★4](https://github.com/SiDevesh/React-Native-FAB) - A FAB button component for Android and iOS, customizable, simple and as per material design specs.
 
 ### Navigation
 - [native-navigation ★1237](https://github.com/airbnb/native-navigation) - Native navigation library for React Native applications
@@ -681,7 +681,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-sound-demo ★6](https://github.com/zmxv/react-native-sound-demo) - react-native-sound demo project
 - [react-native-speech ★123](https://github.com/naoufal/react-native-speech) - A text-to-speech library for React Native.
 - [react-native-video ★1483](https://github.com/brentvatne/react-native-video) - A Video component for react-native
-- [react-native-fullscreen-video ★8](mostafa/react-native-fullscreen-video) - A full-screen video component on top of react-native-video
+- [react-native-fullscreen-video ★8](https://github.com/mostafa/react-native-fullscreen-video) - A full-screen video component on top of react-native-video
 - [react-native-volume-slider ★29](https://github.com/IFours/react-native-volume-slider) - React Native VolumeView component
 - [react-native-vlc-player ★34](https://github.com/ghondar/react-native-vlc-player) - VLC Player for react-native
 - [react-native-camera-roll-picker ★108](https://github.com/jeanpan/react-native-camera-roll-picker) - A React Native component providing images selection from camera roll
@@ -751,7 +751,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-google-places-autocomplete ★332](https://github.com/FaridSafi/react-native-google-places-autocomplete) - Customizable Google Places autocomplete component for iOS and Android React-Native apps
 - [react-native-google-signin ★382](https://github.com/apptailor/react-native-google-signin) - Google Signin for your react native applications
 - [react-native-hawk ★4](https://github.com/andyscott/react-native-hawk) - Hawk wrapper for react-native
-- [react-native-heyzap ★5 ⏳1Y](react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
+- [react-native-heyzap ★5 ⏳1Y](https://github.com/react-native-contrib/react-native-heyzap)- Heyzap plugin for React Native
 - [react-native-instagram-oauth ★37](https://github.com/watzak/react-native-instagram-oauth) - react-native instagram login
 - [react-native-instagram-share ★14](https://github.com/watzak/react-native-instagram-share) - A react-native interface to share images and videos within instagram (iOS)
 - [react-native-youtube-oauth ★0](https://github.com/indatawetrust/react-native-youtube-oauth) - react-native interface to login to youtube (iOS)
@@ -821,7 +821,7 @@ Useful React Native tooling.
 - [rn-nodeify ★64](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 - [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
 - [react-native-debugger ★638](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
-- [react-native-exception-handler ★34](master-atul/react-native-exception-handler) – Avoid silent crash and errors on the production build of your app
+- [react-native-exception-handler ★34](https://github.com/master-atul/react-native-exception-handler) – Avoid silent crash and errors on the production build of your app
 - [generact](http://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
 
 ## Seeds
@@ -891,7 +891,7 @@ Open source React Native apps and other examples.
 - [react-native-nw-react-calculator ★3472](https://github.com/benoitvallon/react-native-nw-react-calculator) - A mobile, desktop and website App with the same code
 - [Posters_Galore_Android ★11](https://github.com/marmelab/Posters_Galore_Android) - An experimental Android application using Redux and a REST API
 - [uestc-bbs-react-native ★150](https://github.com/just4fun/uestc-bbs-react-native) - An iOS client for http://bbs.uestc.edu.cn/ written in React Native with Redux
-- [Text Blast ★19](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version ★8 ⏳1Y](SeshApp/text-blast-ionic) for comparison
+- [Text Blast ★19](https://github.com/SeshApp/text-blast-react-native) - iOS client for MMS text blasting app with analogous [ionic version ★8 ⏳1Y](https://github.com/SeshApp/text-blast-ionic) for comparison
 - [iTunesConnect ★35](https://github.com/oney/iTunesConnect) - Unofficial iTunes Connect App
 - [react-native-gitfeed ★1468](https://github.com/xiekw2010/react-native-gitfeed) - Yet another Github client written with react-native(iOS & android)
 - [rndrawer-implemented-rnrouter ★43](https://github.com/efkan/rndrawer-implemented-rnrouter) - A react-native-drawer implemented example and scaffolding for react-native-router-flux
@@ -922,7 +922,7 @@ Open source React Native apps and other examples.
 - [Sequent ★15](https://github.com/sobstel/sequent) - short-term memory training game (W/ Redux).
 - [RNV2ex ★2](https://github.com/dyygtfx/RNV2ex) - react-native for v2ex
 - [Paramap ★1](https://github.com/twist900/paramap) - Accessability map. React-native with Redux and Firebase. iOS and Android.
-- [Surmon.me.native ★185](surmon-china/surmon.me.native) A react-native applaction for surmon.me
+- [Surmon.me.native ★185](https://github.com/surmon-china/surmon.me.native) A react-native applaction for surmon.me
 - [AudienceNetworkReactNative ★36](https://github.com/7kfpun/AudienceNetworkReactNative) - Facebook Audience Network Performance Tool.
 
 ## Frameworks
@@ -1037,6 +1037,7 @@ Assortment of conference and training videos.
 <p align="center">
 	This list is a copy of <a href="jondot/awesome-react-native">jondot/awesome-react-native</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

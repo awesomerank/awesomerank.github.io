@@ -5,13 +5,13 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="carpedm20/awesome-hacking">carpedm20/awesome-hacking</a> with ranks
 </p>
 ---
-# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Hacking. Inspired by [awesome-machine-learning ★22923](josephmisiti/awesome-machine-learning)
+A curated list of awesome Hacking. Inspired by [awesome-machine-learning ★22923](https://github.com/josephmisiti/awesome-machine-learning)
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@carpedm20](https://twitter.com/carpedm20)
 
-For a list of free hacking books available for download, go [here ★723](Hack-with-Github/Free-Security-eBooks)
+For a list of free hacking books available for download, go [here ★723](https://github.com/Hack-with-Github/Free-Security-eBooks)
 
 
 ## Table of Contents
@@ -62,12 +62,12 @@ For a list of free hacking books available for download, go [here ★723](Hack-w
  * [Exploit Writing Tutorials for Pentesters](http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
 
 ## Tools
- * [Metasploit ★8757](rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
- * [mimikatz ★3654](gentilkiwi/mimikatz) - A little tool to play with Windows security
+ * [Metasploit ★8757](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+ * [mimikatz ★3654](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
 ### Docker Images for Penetration Testing & Security
  * `docker pull kalilinux/kali-linux-docker` [official Kali Linux](https://hub.docker.com/r/kalilinux/kali-linux-docker/)
- * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP ★2513](zaproxy/zaproxy)
+ * `docker pull owasp/zap2docker-stable` - [official OWASP ZAP ★2513](https://github.com/zaproxy/zaproxy)
  * `docker pull wpscanteam/wpscan` - [official WPScan](https://hub.docker.com/r/wpscanteam/wpscan/)
  * `docker pull pandrew/metasploit` - [docker-metasploit](https://hub.docker.com/r/pandrew/metasploit/)
  * `docker pull citizenstig/dvwa` - [Damn Vulnerable Web Application (DVWA)](https://hub.docker.com/r/citizenstig/dvwa/)
@@ -79,9 +79,9 @@ For a list of free hacking books available for download, go [here ★723](Hack-w
  * `docker pull diogomonica/docker-bench-security` - [Docker Bench for Security](https://hub.docker.com/r/diogomonica/docker-bench-security/)
  * `docker pull ismisepaul/securityshepherd` - [OWASP Security Shepherd](https://hub.docker.com/r/ismisepaul/securityshepherd/)
  * `docker pull danmx/docker-owasp-webgoat` - [OWASP WebGoat Project docker image](https://hub.docker.com/r/danmx/docker-owasp-webgoat/)
- * `docker-compose build && docker-compose up` - [OWASP NodeGoat ★452](owasp/nodegoat#option-3---run-nodegoat-on-docker)
+ * `docker-compose build && docker-compose up` - [OWASP NodeGoat ★452](https://github.com/owasp/nodegoat#option-3---run-nodegoat-on-docker)
  * `docker pull citizenstig/nowasp` - [OWASP Mutillidae II Web Pen-Test Practice Application](https://hub.docker.com/r/citizenstig/nowasp/)
- * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop ★348](bkimminich/juice-shop#docker-container--)
+ * `docker pull bkimminich/juice-shop` - [OWASP Juice Shop ★348](https://github.com/bkimminich/juice-shop#docker-container--)
 
 ## General
  * [Exploit database](https://www.exploit-db.com/) - An ultimate archive of exploits and vulnerable software
@@ -98,21 +98,21 @@ For a list of free hacking books available for download, go [here ★723](Hack-w
  * [IDA](https://www.hex-rays.com/products/ida/) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
  * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
  * [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for Windows
- * [dex2jar ★3166](pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files
+ * [dex2jar ★3166](https://github.com/pxb1988/dex2jar) - Tools to work with Android .dex and Java .class files
  * [JD-GUI](http://jd.benow.ca/) - A standalone graphical utility that displays Java source codes of “.class” files
  * [procyon](https://bitbucket.org/mstrobel/procyon/wiki/Java%20Decompiler) - A modern open-source Java decompiler
  * [androguard](https://code.google.com/p/androguard/) - Reverse engineering, malware and goodware analysis of Android applications
  * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
- * [ILSpy ★3514](icsharpcode/ILSpy) - an open-source .NET assembly browser and decompiler
- * [dnSpy ★2203](0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger 
- * [de4dot ★1498](0xd4d/de4dot) - .NET deobfuscator and unpacker. 
- * [antinet ★92 ⏳3Y](0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code 
+ * [ILSpy ★3514](https://github.com/icsharpcode/ILSpy) - an open-source .NET assembly browser and decompiler
+ * [dnSpy ★2203](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger 
+ * [de4dot ★1498](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker. 
+ * [antinet ★92 ⏳3Y](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code 
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
- * [radare2 ★4714](radare/radare2) - A portable reversing framework
+ * [radare2 ★4714](https://github.com/radare/radare2) - A portable reversing framework
  * [plasma](https://github.com/joelpx/plasma) - Interactive disassembler for x86/ARM/MIPS. Generates indented pseudo-code with colored syntax code.
  * [Hopper](https://www.hopperapp.com) - A OS X and Linux Disassembler/Decompiler for 32/64-bit Windows/Mac/Linux/iOS executables.
- * [ScratchABit ★221](pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API
+ * [ScratchABit ★221](https://github.com/pfalcon/ScratchABit) - Easily retargetable and hackable interactive disassembler with IDAPython-compatible plugin API
 
 
 
@@ -123,7 +123,7 @@ For a list of free hacking books available for download, go [here ★723](Hack-w
 # Web
 
 ## Tools
- * [sqlmap ★8678](sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
+ * [sqlmap ★8678](https://github.com/sqlmapproject/sqlmap) - Automatic SQL injection and database takeover tool
  * [tools.web-max.ca](http://tools.web-max.ca/encode_decode.php) - base64 base85 md4,5 hash, sha1 hash encoding/decoding
 
 
@@ -134,21 +134,21 @@ For a list of free hacking books available for download, go [here ★723](Hack-w
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
  * [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
  * [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
- * [pig ★274](rafael-santiago/pig) - A Linux packet crafting tool
+ * [pig ★274](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
  * [mitmproxy](https://mitmproxy.org/) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
- * [mitmsocks4j ★20 ⏳4Y](Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
+ * [mitmsocks4j ★20 ⏳4Y](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
- * [Nipe ★196](GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
+ * [Nipe ★196](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
 
 
 # Forensic
 
 ## Tools
  * [Autospy](http://www.sleuthkit.org/autopsy/) - A digital forensics platform and graphical interface to [The Sleuth Kit](http://www.sleuthkit.org/sleuthkit/index.php) and other digital forensics tools
- * [sleuthkit ★913](sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
+ * [sleuthkit ★913](https://github.com/sleuthkit/sleuthkit) - A library and collection of command-line digital forensics tools
  * [EnCase](https://www.guidancesoftware.com/products/Pages/encase-forensic/overview.aspx) - The shared technology within a suite of digital investigations products by Guidance Software
  * [malzilla](http://malzilla.sourceforge.net/) - Malware hunting tool
  * [PEview](http://wjradburn.com/software/) - A quick and easy way to view the structure and content of 32-bit Portable Executable (PE) and Component Object File Format (COFF) files
@@ -160,7 +160,7 @@ For a list of free hacking books available for download, go [here ★723](Hack-w
 # Cryptography
 
 ### Tools
- * [xortool ★440 ⏳2Y](hellman/xortool) - A tool to analyze multi-byte XOR cipher
+ * [xortool ★440 ⏳2Y](https://github.com/hellman/xortool) - A tool to analyze multi-byte XOR cipher
  * [John the Ripper](http://www.openwall.com/john/) - A fast password cracker
  * [Aircrack](http://www.aircrack-ng.org/) - Aircrack is 802.11 WEP and WPA-PSK keys cracking program.
 
@@ -210,8 +210,8 @@ For a list of free hacking books available for download, go [here ★723](Hack-w
  * [WeChall](http://www.wechall.net/)
  * [CTF archives (shell-storm)](http://shell-storm.org/repo/CTF/)
  * [Rookit Arsenal](https://amzn.com/144962636X) - OS RE and rootkit development
- * [Pentest Cheat Sheets ★118](coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
- * [Movies For Hacker ★5187](k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
+ * [Pentest Cheat Sheets ★118](https://github.com/coreb1t/awesome-pentest-cheat-sheets) - Collection of cheat sheets useful for pentesting
+ * [Movies For Hacker ★5187](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 
 # OS
 
@@ -226,6 +226,7 @@ For a list of free hacking books available for download, go [here ★723](Hack-w
 <p align="center">
 	This list is a copy of <a href="carpedm20/awesome-hacking">carpedm20/awesome-hacking</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -5,13 +5,13 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="stoeffel/awesome-ama-answers">stoeffel/awesome-ama-answers</a> with ranks
 </p>
 ---
-# awesome-ama-answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# awesome-ama-answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome AMA answers
 
-Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
+Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list thing.
 
-Check out [awesome AMAs ★768](sindresorhus/amas) to find AMAs of your favorite dev.
+Check out [awesome AMAs ★768](https://github.com/sindresorhus/amas) to find AMAs of your favorite dev.
 
 ***
 
@@ -160,6 +160,7 @@ To the extent possible under law, [Christoph Hermann](https://stoeffel.github.io
 <p align="center">
 	This list is a copy of <a href="stoeffel/awesome-ama-answers">stoeffel/awesome-ama-answers</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

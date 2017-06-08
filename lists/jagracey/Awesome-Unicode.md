@@ -8,7 +8,7 @@ Ranked awesome lists, all in one place
 ![](https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg)
 
 
-# Awesome Unicode [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Unicode [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 
 
@@ -364,7 +364,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 - **String length is typically determined by counting codepoints.** This means that surrogate pairs would count as two characters. Combining multiple diacritics may be stacked over the same character. `a + ̈  == ̈a   `, increasing length, while only producing a single character.
 
-- **Similarily, reversing strings often is a non-trivial task.** Again, surrogate pairs and diacritics must be reversed together. [ES Reverser ★470](mathiasbynens/esrever) provides a pretty good solution.
+- **Similarily, reversing strings often is a non-trivial task.** Again, surrogate pairs and diacritics must be reversed together. [ES Reverser ★470](https://github.com/mathiasbynens/esrever) provides a pretty good solution.
 
 - **Upper and lower case mappings are not always one-to-one.** They can also be:
   - One-to-many: (ß → SS )
@@ -492,11 +492,11 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 
 # Awesome Packages & Libraries
-- [PhantomScript ★23 ⏳1Y](jagracey/PhantomScript) - :ghost: :flashlight: Invisible JavaScript code execution & social engineering
-- [ESReverser ★470](mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
-- [mimic ★3216](reinderien/mimic) - [ab]using Unicode to create tragedy
-- [python-ftfy ★1695](LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
-- [vim-troll-stopper ★135](vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
+- [PhantomScript ★23 ⏳1Y](https://github.com/jagracey/PhantomScript) - :ghost: :flashlight: Invisible JavaScript code execution & social engineering
+- [ESReverser ★470](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
+- [mimic ★3216](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
+- [python-ftfy ★1695](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
+- [vim-troll-stopper ★135](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
 
 
 # Emojis
@@ -1095,6 +1095,7 @@ have waived all copyright and related or neighboring rights to this work. See th
 <p align="center">
 	This list is a copy of <a href="jagracey/Awesome-Unicode">jagracey/Awesome-Unicode</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

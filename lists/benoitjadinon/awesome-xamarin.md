@@ -6,11 +6,11 @@ Ranked awesome lists, all in one place
 </p>
 ---
 # awesome-xamarin
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/benoitjadinon/awesome-xamarin.svg?branch=master)](https://travis-ci.org/benoitjadinon/awesome-xamarin)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/benoitjadinon/awesome-xamarin.svg?branch=master)](https://travis-ci.org/benoitjadinon/awesome-xamarin)
 
 A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for Xamarin Android/iOS/WP libraries.
 
-Inspired by [awesome-dotnet ★4648](quozd/awesome-dotnet)
+Inspired by [awesome-dotnet ★4648](https://github.com/quozd/awesome-dotnet)
   
   * [General](#general)
   * [Architecture](#architecture)
@@ -56,7 +56,7 @@ Inspired by [awesome-dotnet ★4648](quozd/awesome-dotnet)
 ## Cloud
 * [Azure](https://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
 * [FireSharp ★319](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper
-* [Bugfender ★3](bugfender/bugfender-xamarin) - Store your application logs on the cloud (iOS & Android)
+* [Bugfender ★3](https://github.com/bugfender/bugfender-xamarin) - Store your application logs on the cloud (iOS & Android)
 
 ## Database
 * [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
@@ -71,7 +71,7 @@ Inspired by [awesome-dotnet ★4648](quozd/awesome-dotnet)
 ## Fody
 * [Fody ★1,325](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
 * [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - Automatically generates DependencyProperty boilerplate from simple C# properties
-* [PropertyChanged.Fody ★494](Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
+* [PropertyChanged.Fody ★494](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
 * [ReactiveUI.Fody ★60](https://github.com/kswoll/ReactiveUI.Fody) - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
 
 ## Framework
@@ -127,7 +127,7 @@ Inspired by [awesome-dotnet ★4648](quozd/awesome-dotnet)
   * [MvvmNano ★26](https://github.com/aspnetde/MvvmNano) - Small and smart MVVM framework made with ❤ for Xamarin.Forms
   * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
 * [Bind ★125](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
-* [Wires ★14](aloisdeniel/Wires) - Wires is a simple binding library.
+* [Wires ★14](https://github.com/aloisdeniel/Wires) - Wires is a simple binding library.
 
 ## Network
 * [Flurl ★470](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
@@ -143,7 +143,7 @@ Inspired by [awesome-dotnet ★4648](quozd/awesome-dotnet)
 ## Reactive
 * [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
 * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework 
-* [Sensors ★8](aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
+* [Sensors ★8](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
 * [Refit ★1,092](https://github.com/paulcbetts/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface
 * [RxFlow ★16](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
 
@@ -162,14 +162,14 @@ Inspired by [awesome-dotnet ★4648](quozd/awesome-dotnet)
 
 ## Tools
 * [GradleBindings ★56](https://github.com/EgorBo/Xamarin.GradleBindings) - Visual Studio extension, for referencing gradle libs in Android projects
-* *Material icons generator plugin* - [Xamarin Studio ★13](https://github.com/interisti/xs-material-icons-generator) & [Visual Studio ★8](interisti/vs-material-icons-generator) plugin, for adding material icons to android project
+* *Material icons generator plugin* - [Xamarin Studio ★13](https://github.com/interisti/xs-material-icons-generator) & [Visual Studio ★8](https://github.com/interisti/vs-material-icons-generator) plugin, for adding material icons to android project
 * [PushSharp ★3,507](https://github.com/Redth/PushSharp) - A server-side library for sending Push Notifications to iOS (iPhone/iPad APNS), Android (C2DM and GCM - Google Cloud Message), Windows Phone, Windows 8, Amazon, Blackberry, and (soon) FirefoxOS devices!
 * [Twin Tools Add-In ★15](https://github.com/twintechs/TwinToolsForXamarin) - Productivity plugin for Xamarin Studio
 * [Xamaridea ★34](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 * [Cheeseknife ★33](https://github.com/MarcelBraghetto/Cheeseknife) -  a view injection library for Xamarin.Android
 
 ## UI
-* [NControl ★174](chrfalch/NControl) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
+* [NControl ★174](https://github.com/chrfalch/NControl) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
 * [Passcode ★10](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
 
 ## Wearable
@@ -235,6 +235,7 @@ To the extent possible under law, Benoit Jadinon has waived all copyright and re
 <p align="center">
 	This list is a copy of <a href="benoitjadinon/awesome-xamarin">benoitjadinon/awesome-xamarin</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

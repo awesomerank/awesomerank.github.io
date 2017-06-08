@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="xen0l/awesome-dtrace">xen0l/awesome-dtrace</a> with ranks
 </p>
 ---
-# Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome DTrace books, articles, videos, tools and resources.
 
@@ -38,7 +38,7 @@ Recommended reading for learning DTrace.
 - [DTrace one-liners](http://www.brendangregg.com/DTrace/dtrace_oneliners.txt) - DTrace one liners. Handy commands.
 - [DTrace one-liners (FreeBSD)](https://wiki.freebsd.org/DTrace/One-Liners) - DTrace one liners from FreeBSD.
 - [DTrace QuickStart](http://www.tablespace.net/quicksheet/dtrace-quickstart.html) - DTrace quick starting guide.
-- [Using DTrace stories ★18](NanXiao/using-dtrace-stories) - A collection of using DTrace to debug system stories.
+- [Using DTrace stories ★18](https://github.com/NanXiao/using-dtrace-stories) - A collection of using DTrace to debug system stories.
 - [Advanced DTrace Tips, Tricks and Gotchas](http://dtrace.org/resources/bmc/dtrace_tips.pdf) - A collection of advanced tips for using DTrace.
 
 ## Articles
@@ -143,15 +143,15 @@ List of software with DTrace support.
 
 #### Lua
 
-- [lua-usdt ★5 ⏳3Y](chrisa/lua-usdt) - Libusdt bindings for Lua.
+- [lua-usdt ★5 ⏳3Y](https://github.com/chrisa/lua-usdt) - Libusdt bindings for Lua.
 
 #### Node.js
 
-- [node-dtrace-provider ★279](chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps.
+- [node-dtrace-provider ★279](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps.
 
 #### Perl
 
-- [perl-Devel-DTrace-Provider ★1 ⏳4Y](chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
+- [perl-Devel-DTrace-Provider ★1 ⏳4Y](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
 
 #### PHP
 
@@ -160,12 +160,12 @@ List of software with DTrace support.
 #### Python
 
 - [Python](https://www.jcea.es/artic/python_dtrace.htm) - DTrace patch for Python 2.7.x and 3.x.
-- [python-usdt ★2](nshalman/python-usdt) - Libusdt bindings for Python.
+- [python-usdt ★2](https://github.com/nshalman/python-usdt) - Libusdt bindings for Python.
 
 #### Ruby
 
 - [Ruby](http://ruby-doc.org/core-2.3.1/doc/dtrace_probes_rdoc.html) - Ruby DTrace probes.
-- [ruby-usdt ★21 ⏳3Y](kevinykchan/ruby-usdt) - Native DTrace probes for ruby apps.
+- [ruby-usdt ★21 ⏳3Y](https://github.com/kevinykchan/ruby-usdt) - Native DTrace probes for ruby apps.
 
 ### Databases
 
@@ -178,16 +178,16 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph ★3953](brendangregg/FlameGraph) - Stack trace visualizer.
-- [node-stackvis ★317](joyent/node-stackvis) - Stack trace visualizer.
+- [FlameGraph ★3953](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
+- [node-stackvis ★317](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
 
 ## Tools
 
 - [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
-- [dtrace-cloud-tools ★142 ⏳3Y](brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
-- [pgsql tools ★109 ⏳1Y](joyent/pgsqlstat) - Report top-level PostgreSQL stats.
-- [portsnoop ★2 ⏳3Y](davepacheco/portsnoop) - Trace event port activity.
-- [storage tools ★23](richardelling/tools) - Report NFS, CIFS and iSCSI stats.
+- [dtrace-cloud-tools ★142 ⏳3Y](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
+- [pgsql tools ★109 ⏳1Y](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
+- [portsnoop ★2 ⏳3Y](https://github.com/davepacheco/portsnoop) - Trace event port activity.
+- [storage tools ★23](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.
 
 ## Community
 
@@ -202,6 +202,7 @@ Contributions are more than welcome! Please see [contribution guidelines](https:
 <p align="center">
 	This list is a copy of <a href="xen0l/awesome-dtrace">xen0l/awesome-dtrace</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -5,11 +5,11 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="RichardLitt/awesome-fantasy">RichardLitt/awesome-fantasy</a> with ranks
 </p>
 ---
-# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > Fantasy literature worth reading
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi ★1357](sindresorhus/awesome-scifi).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi ★1357](https://github.com/sindresorhus/awesome-scifi).*
 
 *Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/contributing.md) before contributing.*
 
@@ -508,6 +508,7 @@ To the extent possible under law, [Richard Littauer](http://burntfen.com) has wa
 <p align="center">
 	This list is a copy of <a href="RichardLitt/awesome-fantasy">RichardLitt/awesome-fantasy</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

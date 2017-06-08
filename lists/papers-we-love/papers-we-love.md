@@ -83,7 +83,7 @@ We're looking for pull requests related to papers we should add, better organiza
 * [cat-v.org](http://doc.cat-v.org/)
 * [y-archive](http://yarchive.net/comp/index.html)
 * [netlib](http://www.netlib.org/)
-* [Services Engineering Reading List ★2316 ⏳1Y](mmcgrana/services-engineering)
+* [Services Engineering Reading List ★2316 ⏳1Y](https://github.com/mmcgrana/services-engineering)
 * [Readings in Distributed Systems](http://christophermeiklejohn.com/distributed/systems/2013/07/12/readings-in-distributed-systems.html)
 * [Gradual Typing Bibliography](http://samth.github.io/gradual-typing-bib/)
 * [Security Data Science Papers](http://www.covert.io/security-datascience-papers/)
@@ -118,6 +118,7 @@ The name "Papers We Love" and the logos for the organization are copyrighted, an
 <p align="center">
 	This list is a copy of <a href="papers-we-love/papers-we-love">papers-we-love/papers-we-love</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

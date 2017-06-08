@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="sger/ElixirBooks">sger/ElixirBooks</a> with ranks
 </p>
 ---
-# Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 Contents
 ====
 * [Books](#books)
@@ -161,7 +161,7 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir ★6511](h4cc/awesome-elixir)
+* [Awesome Elixir ★6511](https://github.com/h4cc/awesome-elixir)
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
 
@@ -176,6 +176,7 @@ License
 <p align="center">
 	This list is a copy of <a href="sger/ElixirBooks">sger/ElixirBooks</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

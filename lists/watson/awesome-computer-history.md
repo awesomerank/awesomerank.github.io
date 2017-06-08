@@ -5,9 +5,9 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="watson/awesome-computer-history">watson/awesome-computer-history</a> with ranks
 </p>
 ---
-# Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
+# Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
 
-A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing ★59088](sindresorhus/awesome).
+A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing ★59088](https://github.com/sindresorhus/awesome).
 
 [Pull Requests](https://github.com/watson/awesome-computer-history/edit/master/README.md) are welcome.
 
@@ -133,6 +133,7 @@ To the extent possible under law, [Thomas Watson](https://github.com/watson) has
 <p align="center">
 	This list is a copy of <a href="watson/awesome-computer-history">watson/awesome-computer-history</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

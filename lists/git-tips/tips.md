@@ -8,11 +8,11 @@ Ranked awesome lists, all in one place
 ## git-tips
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](./contributing.md)
 
-[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский ★256](Imangazaliev/git-tips)
+[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский ★256](https://github.com/Imangazaliev/git-tips)
 
 ### __Tools:__
 
-* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container ★0](djoudi5/docker-git-tip))
+* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container ★0](https://github.com/djoudi5/docker-git-tip))
 
 P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
 
@@ -1169,6 +1169,7 @@ git checkout master@{yesterday}
 <p align="center">
 	This list is a copy of <a href="git-tips/tips">git-tips/tips</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

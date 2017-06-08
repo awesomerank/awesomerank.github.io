@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="feross/awesome-mad-science">feross/awesome-mad-science</a> with ranks
 </p>
 ---
-# Awesome Mad Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Mad Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 Delightful npm packages that make you say "wow, didn't know that was possible!" PRs welcome!
 
@@ -20,7 +20,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [brfs](https://www.npmjs.com/package/brfs) - turn `fs.readFileSync()` calls into inlined static assets
 - [browser field spec](https://gist.github.com/defunctzombie/4339901) - replace certain files/modules when a module is bundled for the browser
 - [browserify](https://npmjs.org/package/browserify) - use `require()` in the browser
-- [glslify ★673](stackgl/glslify) - npm modules compiled into WebGL shaders
+- [glslify ★673](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders
 - [webworkify](https://www.npmjs.com/package/webworkify) - composable web workers for browserify
 
 ## files
@@ -44,8 +44,8 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [trackingjs](https://trackingjs.com/) - computer vision on the web
 
 ## sound
-- [doppler ★2173](DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
-- [speak.js ★225 ⏳1Y](mattytemple/speak-js) - text-to-speech on the web
+- [doppler ★2173](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
+- [speak.js ★225 ⏳1Y](https://github.com/mattytemple/speak-js) - text-to-speech on the web
 
 ## streams
 - [strip-html](https://www.npmjs.com/package/strip-html) - strip html from a stream
@@ -65,14 +65,14 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [minimist](https://www.npmjs.com/package/minimist) - simple argument parser
 - [progress](https://www.npmjs.com/package/progress) - create a simple terminal progress bar
 - [terminal-menu](https://www.npmjs.com/package/terminal-menu) - create retro terminal menus
-- [vantage.js ★3295](dthree/vantage) - CLI + SSH + REPL for Node
-- [cash ★7227](dthree/cash) - Cross-platform Linux commands in pure ES6
+- [vantage.js ★3295](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node
+- [cash ★7227](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6
 
 ## virtual machines
-- [jsemu ★771](fcambus/jsemu) - A list of emulators written in the JavaScript
+- [jsemu ★771](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript
 - [jslinux](https://www.npmjs.com/package/jslinux) - x86 emulator for running Linux, written in JavaScript
 - [jvm](https://www.npmjs.com/package/node-jvm) - java virtual machine in pure node.js
-- [doppio ★1101](plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript
+- [doppio ★1101](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript
 
 ## misc
 - [bell.js](https://www.npmjs.com/package/bell.js) - real-time anomalies detection for periodic time series.
@@ -102,6 +102,7 @@ To the extent possible under law, [Feross Aboukhadijeh](http://feross.org) has w
 <p align="center">
 	This list is a copy of <a href="feross/awesome-mad-science">feross/awesome-mad-science</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

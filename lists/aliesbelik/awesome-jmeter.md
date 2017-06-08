@@ -5,12 +5,12 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="aliesbelik/awesome-jmeter">aliesbelik/awesome-jmeter</a> with ranks
 </p>
 ---
-# Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, ci, devops etc.
 
 The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
-This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://del.icio.us/veslefrik/jmeter) and got further inspiration from [awesome ★59088](sindresorhus/awesome) project.
+This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://del.icio.us/veslefrik/jmeter) and got further inspiration from [awesome ★59088](https://github.com/sindresorhus/awesome) project.
 
 ## Contents
 
@@ -100,7 +100,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 ## DSL
 
-- [RubyJmeter ★555](flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
+- [RubyJmeter ★555](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
 
 ## Distributions
 
@@ -112,15 +112,15 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/edit?usp=sharing) - List of available plugins and extensions.
 - [JMeter Plugins](http://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter.
 - [UBIK Load Pack](http://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
-- [AtlantBH Custom JMeter Components ★62](ATLANTBH/jmeter-components) - Set of JMeter extensions developed by AtlantBH (currently included into JMeter Plugins project).
+- [AtlantBH Custom JMeter Components ★62](https://github.com/ATLANTBH/jmeter-components) - Set of JMeter extensions developed by AtlantBH (currently included into JMeter Plugins project).
 
 ## CI
 
 - Tools & Plugins
     - [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/) - Ant task to automate running JMeter test plans.
-    - [JMeter Maven Plugin ★206](jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+    - [JMeter Maven Plugin ★206](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
     - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
-    - [TeamCity Performance Tests Analysis Plugin ★10](jtorgan/jmeter_plugin)
+    - [TeamCity Performance Tests Analysis Plugin ★10](https://github.com/jtorgan/jmeter_plugin)
     - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
     - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard.
     - [Lightning](http://deliverymind.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
@@ -128,7 +128,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
     - Jenkins
         - [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
         - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/?p=280)
-        - [CI with Jenkins, Git, Maven, Grunt, and JMeter ★8 ⏳2Y](dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
+        - [CI with Jenkins, Git, Maven, Grunt, and JMeter ★8 ⏳2Y](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
         - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
         - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
         - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
@@ -175,7 +175,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 - [BlazeMeter Sense](https://sense.blazemeter.com/) - Service for storing and analysing performance test results.
 - [JAnalyser](http://epireum.com/page-section/janalyser/) - Browser-based results analysis tool.
-- [JMeter Result Analysis Plugin ★36 ⏳1Y](afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
+- [JMeter Result Analysis Plugin ★36 ⏳1Y](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 - [JMeter Results Analyser](http://sourceforge.net/projects/jmstats/) - Web-based application for collating, analysing and reporting JMeter test results.
 - DB Result Collectors
     - [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/) - Plugin to enable results logging into a database for more effective reporting.
@@ -188,9 +188,9 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [Using ELK](http://ecmarchitect.com/archives/2014/09/09/3932) - Using Elasticsearch, Logstash, and Kibana to visualize JMeter test results.
 - [Using Matplotlib & Python](http://www.metaltoad.com/blog/plotting-your-load-test-jmeter) - Plotting JMeter load test results with Matplotlib plotting tool and Python.
 - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) - Custom Statistical Aggregate Report listener for enhanced results visualization.
-- [JChav ★2 ⏳2Y](d6y/jchav) - JMeter Chart History and Visualisation library.
+- [JChav ★2 ⏳2Y](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library.
 - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html) - Create JMeter graphs with CMDRunner with powershell parallel execution.
-- JMeter Dashboard: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources ★4 ⏳2Y](vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
+- JMeter Dashboard: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources ★4 ⏳2Y](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
 
 ## JMeter Performance
 
@@ -279,6 +279,7 @@ Please take a look at the [contribution guidelines](https://github.com/aliesbeli
 <p align="center">
 	This list is a copy of <a href="aliesbelik/awesome-jmeter">aliesbelik/awesome-jmeter</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

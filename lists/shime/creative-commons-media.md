@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="shime/creative-commons-media">shime/creative-commons-media</a> with ranks
 </p>
 ---
-# Creative Commons Media [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://travis-ci.org/shime/creative-commons-media.svg?branch=master)](https://travis-ci.org/shime/creative-commons-media)
+# Creative Commons Media [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/shime/creative-commons-media.svg?branch=master)](https://travis-ci.org/shime/creative-commons-media)
 
 A curated list of resources that provide media licensed under [Creative Commons licenses](https://creativecommons.org/licenses/).
 
@@ -88,7 +88,7 @@ Contributions are very welcome!
 
 ## Other awesome lists
 
-* [awesome-awesomeness ★18868](bayandin/awesome-awesomeness)
+* [awesome-awesomeness ★18868](https://github.com/bayandin/awesome-awesomeness)
 
 ## License
 
@@ -97,6 +97,7 @@ MIT
 <p align="center">
 	This list is a copy of <a href="shime/creative-commons-media">shime/creative-commons-media</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

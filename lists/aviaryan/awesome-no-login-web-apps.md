@@ -7,7 +7,7 @@ Ranked awesome lists, all in one place
 ---
 # Awesome Web Apps (that work without login)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 [![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/CONTRIBUTING.md)
 [![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -323,6 +323,7 @@ To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all
 <p align="center">
 	This list is a copy of <a href="aviaryan/awesome-no-login-web-apps">aviaryan/awesome-no-login-web-apps</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

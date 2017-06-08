@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="paragonie/awesome-appsec">paragonie/awesome-appsec</a> with ranks
 </p>
 ---
-# Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about application security. Contains books,
 websites, blog posts, and self-assessment quizzes.
@@ -290,7 +290,7 @@ A vulnerability research and exploit development class by Owen Redwood of Florid
 
 **Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
 
-### [Hack Night ★577](isislab/Hack-Night)
+### [Hack Night ★577](https://github.com/isislab/Hack-Night)
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
@@ -504,7 +504,7 @@ If you're confused about cryptography terms, start here.
 
 **Released**: August 2, 2015
 
-Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library ★1168](defuse/php-encryption), or OpenSSL.
+Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library ★1168](https://github.com/defuse/php-encryption), or OpenSSL.
 
 ## Books and ebooks
 
@@ -518,27 +518,27 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ## Useful libraries
 
-### [defuse/php-encryption ★1168](defuse/php-encryption)
+### [defuse/php-encryption ★1168](https://github.com/defuse/php-encryption)
 
 Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
 
-### [ircmaxell/password_compat ★1843](ircmaxell/password_compat)
+### [ircmaxell/password_compat ★1843](https://github.com/ircmaxell/password_compat)
 
 If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
 
-### [ircmaxell/RandomLib ★598](ircmaxell/RandomLib)
+### [ircmaxell/RandomLib ★598](https://github.com/ircmaxell/RandomLib)
 
 Useful for generating random strings or numbers
 
-### [thephpleague/oauth2-server ★2882](thephpleague/oauth2-server)
+### [thephpleague/oauth2-server ★2882](https://github.com/thephpleague/oauth2-server)
 
 A secure OAuth2 server implementation
 
-### [paragonie/random_compat ★454](paragonie/random_compat)
+### [paragonie/random_compat ★454](https://github.com/paragonie/random_compat)
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
 
-### [psecio/gatekeeper ★323](psecio/gatekeeper)
+### [psecio/gatekeeper ★323](https://github.com/psecio/gatekeeper)
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 
@@ -610,11 +610,12 @@ A wiki maintained by the OWASP Python Security project.
 
 **Released**: March 10, 2014
 
-A guide to secure Ruby development by the Fedora Security Team. Also available on [Github ★5 ⏳1Y](jrusnack/secure-ruby-development-guide).
+A guide to secure Ruby development by the Fedora Security Team. Also available on [Github ★5 ⏳1Y](https://github.com/jrusnack/secure-ruby-development-guide).
 ---
 <p align="center">
 	This list is a copy of <a href="paragonie/awesome-appsec">paragonie/awesome-appsec</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

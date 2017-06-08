@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="dastergon/awesome-sre">dastergon/awesome-sre</a> with ranks
 </p>
 ---
-# Awesome Site Reliability Engineering  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Site Reliability Engineering  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) and [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) Engineering resources.
 
@@ -173,11 +173,11 @@ Contributions are always welcome!
 * [SysAdvent - Day 6 - No More On-Call Martyrs](https://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html)
 * [On Being On Call](http://naildrivin5.com/blog/2016/12/07/on-call.html)
 * [PagerDuty Incident Response](https://response.pagerduty.com/)
-* [The On-Call Handbook ★182](alicegoldfuss/oncall-handbook)
+* [The On-Call Handbook ★182](https://github.com/alicegoldfuss/oncall-handbook)
 * [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
 
 ## Post-Mortem
-* [A collection of post-mortems ★2985](danluu/post-mortems)
+* [A collection of post-mortems ★2985](https://github.com/danluu/post-mortems)
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * [A Tale of Postmortems](https://blog.box.com/blog/a-tale-of-postmortems/)
 * [Building a Blameless Post-Mortem Culture with Jason Hand](http://runasradio.com/Shows/Show/486)
@@ -188,7 +188,7 @@ Contributions are always welcome!
 * [Etsy’s Debriefing Facilitation Guide for Blameless Postmortems](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 * [Writing Your First Postmortem](https://medium.com/production-ready/writing-your-first-postmortem-8053c678b90f)
 * [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
-* [A collection of postmortem templates ★1](dastergon/postmortem-templates)
+* [A collection of postmortem templates ★1](https://github.com/dastergon/postmortem-templates)
 
 ## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
@@ -276,6 +276,7 @@ Contributions are always welcome!
 <p align="center">
 	This list is a copy of <a href="dastergon/awesome-sre">dastergon/awesome-sre</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

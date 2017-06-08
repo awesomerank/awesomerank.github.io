@@ -11,9 +11,9 @@ Ranked awesome lists, all in one place
 </p>
 <br/>
 
-# Awesome VS Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome VS Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome ★59088](sindresorhus/awesome).
+A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome ★59088](https://github.com/sindresorhus/awesome).
 
 [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
 
@@ -83,7 +83,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 ## Official
 
 - [Official website](https://code.visualstudio.com/)
-- [Source code ★28367](microsoft/vscode) on GitHub
+- [Source code ★28367](https://github.com/microsoft/vscode) on GitHub
 - [Releases (stable channel)](https://code.visualstudio.com/download)
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
 - [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
@@ -127,7 +127,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
-- [C/C++ Clang Command Adapter ★53](mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
+- [C/C++ Clang Command Adapter ★53](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 
 ### CSS
 
@@ -147,13 +147,13 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### JavaScript
 
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](http://eslint.org/).
-- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2621](sindresorhus/xo).
-- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★10262](avajs/ava).
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier ★188](esbenp/prettier-vscode).
+- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2621](https://github.com/sindresorhus/xo).
+- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★10262](https://github.com/avajs/ava).
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier ★188](https://github.com/esbenp/prettier-vscode).
 
 ### Markdown
 
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint ★176](DavidAnson/markdownlint).
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint ★176](https://github.com/DavidAnson/markdownlint).
 
 ### PHP
 
@@ -176,8 +176,8 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence ★32](flagello/Essence)
-- [Pragmatic Essence ★40](orta/Essence)
+- [Essence ★32](https://github.com/flagello/Essence)
+- [Pragmatic Essence ★40](https://github.com/orta/Essence)
 
 ### Syntax
 
@@ -406,14 +406,14 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ### Libraries
 
-- [vscode-set-text ★0 ⏳1Y](samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
-- [vscode-test-content ★1](mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
+- [vscode-set-text ★0 ⏳1Y](https://github.com/samverschueren/vscode-set-text) - An easy-to-use VS Code `#setText()` method.
+- [vscode-test-content ★1](https://github.com/mlewand-org/vscode-test-content) - A method to set/get editor content, and it's selection. Especially useful for unit tests.
 
 ### Tools
 
 - [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code ★44](sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+- [Open in Code ★44](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 ![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
 ## Contribute
@@ -430,6 +430,7 @@ To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waive
 <p align="center">
 	This list is a copy of <a href="viatsko/awesome-vscode">viatsko/awesome-vscode</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

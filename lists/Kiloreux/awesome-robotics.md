@@ -8,7 +8,7 @@ Ranked awesome lists, all in one place
 Awesome Robotics
 ================
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -96,7 +96,7 @@ An Internet-accessible simulation system that allows the simulation of robots co
 [**The Player Project**](http://playerstage.sourceforge.net/)
 Free Software tools for robot and sensor applications 
 
-[**Open AI's Roboschool** ★542](openai/roboschool)
+[**Open AI's Roboschool** ★542](https://github.com/openai/roboschool)
 Open-source software for robot simulation, integrated with OpenAI Gym.
 
 ### Papers ###
@@ -177,18 +177,19 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 
 ### Related awesome lists ###
-* [Awesome Artificial Intelligence ★2510](owainlewis/awesome-artificial-intelligence)
-* [Awesome Computer Vision ★2593](jbhuang0604/awesome-computer-vision)
-* [Awesome Machine Learning ★22923](josephmisiti/awesome-machine-learning)
-* [Awesome Deep Learning ★4627](ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Vision ★4285](kjw0612/awesome-deep-vision)
-* [Awesome Reinforcement Learning ★1260](aikorea/awesome-rl)
-* [Awesome Robotics ★3](ahundt/awesome-robotics)
-* [Awesome Robotics Libraries ★68](jslee02/awesome-robotics-libraries)
+* [Awesome Artificial Intelligence ★2510](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [Awesome Computer Vision ★2593](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Machine Learning ★22923](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Deep Learning ★4627](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Vision ★4285](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Reinforcement Learning ★1260](https://github.com/aikorea/awesome-rl)
+* [Awesome Robotics ★3](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries ★68](https://github.com/jslee02/awesome-robotics-libraries)
 ---
 <p align="center">
 	This list is a copy of <a href="Kiloreux/awesome-robotics">Kiloreux/awesome-robotics</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

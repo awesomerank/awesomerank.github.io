@@ -429,9 +429,9 @@ In some cases, it may not be permitted;
 do **not** violate your course's Honor Code!
 
 Put the OSSU-CS badge in the README of your repository!
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22060](open-source-society/computer-science)
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22060](https://github.com/open-source-society/computer-science)
 
-- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22060](open-source-society/computer-science)`
+- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22060](https://github.com/open-source-society/computer-science)`
 - HTML: `<a href="https://github.com/open-source-society/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
 
 ### Evaluation
@@ -544,6 +544,7 @@ You can change the status of your board to be *public* or *private*.
 <p align="center">
 	This list is a copy of <a href="open-source-society/computer-science">open-source-society/computer-science</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

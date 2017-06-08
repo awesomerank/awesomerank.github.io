@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="cristianoliveira/awesome4girls">cristianoliveira/awesome4girls</a> with ranks
 </p>
 ---
-# awesome4girls [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
+# awesome4girls [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 A curated list of awesome inclusive events/projects/initiatives for women in the tech area.
 
 ----
@@ -313,6 +313,7 @@ This work is licensed under a [CC0 1.0 Universal (CC0 1.0).](https://creativecom
 <p align="center">
 	This list is a copy of <a href="cristianoliveira/awesome4girls">cristianoliveira/awesome4girls</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

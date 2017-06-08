@@ -6,7 +6,7 @@ Ranked awesome lists, all in one place
 </p>
 ---
 # Awesome Book Authoring
-A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) resources for technical book authors.
+A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) resources for technical book authors.
 
 # Table of Contents
 
@@ -102,6 +102,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 <p align="center">
 	This list is a copy of <a href="TalAter/awesome-book-authoring">TalAter/awesome-book-authoring</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

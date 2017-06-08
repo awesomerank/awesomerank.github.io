@@ -5,13 +5,13 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="sindresorhus/awesome-scifi">sindresorhus/awesome-scifi</a> with ranks
 </p>
 ---
-# Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > Sci-Fi worth consuming
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*For fantasy books, see [awesome-fantasy ★227](RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy ★227](https://github.com/RichardLitt/awesome-fantasy).*
 
 *Please read the [Contributing Guidelines](https://github.com/sindresorhus/awesome-scifi/blob/master/contributing.md) before contributing.*
 
@@ -783,7 +783,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### Fantasy
 
-_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list ★227](RichardLitt/awesome-fantasy)._
+_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list ★227](https://github.com/RichardLitt/awesome-fantasy)._
 
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.0]
 
@@ -1655,6 +1655,7 @@ To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has w
 <p align="center">
 	This list is a copy of <a href="sindresorhus/awesome-scifi">sindresorhus/awesome-scifi</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

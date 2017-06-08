@@ -7,7 +7,7 @@ Ranked awesome lists, all in one place
 ---
 <img src="https://rawgit.com/willianjusten/awesome-svg/master/logo.svg" alt="Awesome SVG">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
 
 > A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date.
 
@@ -54,9 +54,9 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ## Other Awesome Lists
 
-* [Awesome ★59088](sindresorhus/awesome)
-* [Awesome-awesome ★790](emijrp/awesome-awesome)
-* [Awesome-awesomeness ★18868](bayandin/awesome-awesomeness)
+* [Awesome ★59088](https://github.com/sindresorhus/awesome)
+* [Awesome-awesome ★790](https://github.com/emijrp/awesome-awesome)
+* [Awesome-awesomeness ★18868](https://github.com/bayandin/awesome-awesomeness)
 
 ##License
 
@@ -67,6 +67,7 @@ To the extent possible under law, [Willian Justen](http://github.com/willianjust
 <p align="center">
 	This list is a copy of <a href="willianjusten/awesome-svg">willianjusten/awesome-svg</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

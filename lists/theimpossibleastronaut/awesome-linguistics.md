@@ -6,7 +6,7 @@ Ranked awesome lists, all in one place
 </p>
 ---
 ### Awesome Linguistics
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A curated list of anything remotely related to linguistics, sorted in alphabetical order.
 
@@ -25,8 +25,8 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 *Libraries, frameworks and applications useful for developing applications.*
 
 ### Platforms and toolkits
-* [Haxe-linguistics ★18](sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
-* [Natural ★6405](NaturalNode/natural) - General natural language tools for Node.js.
+* [Haxe-linguistics ★18](https://github.com/sexybiggetje/haxe-linguistics) - Early linguistical analysis and natural language processing library for Haxe.
+* [Natural ★6405](https://github.com/NaturalNode/natural) - General natural language tools for Node.js.
 * [Natural Language ToolKit (NLTK)](http://www.nltk.org/) - The most complete platform for building Python programs to work with human language data.
 * [Snowball](http://snowball.tartarus.org/) - Snowball is a language in which stemming algorithms can be easily represented.
 
@@ -35,7 +35,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [The Porter Stemmer Algorithm](http://tartarus.org/martin/PorterStemmer/) - The ‘official’ home page for distribution of the Porter Stemming Algorithm, written and maintained by its author, Martin Porter.
 
 ### Data sets
-* [EuroRomCom Data ★8](kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
+* [EuroRomCom Data ★8](https://github.com/kirkins/euroromcom) - JSON formatted Pan-Romance word lists.
 
 ### Resources
 *List of interesting external resources.*
@@ -75,6 +75,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 <p align="center">
 	This list is a copy of <a href="theimpossibleastronaut/awesome-linguistics">theimpossibleastronaut/awesome-linguistics</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

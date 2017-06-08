@@ -5,11 +5,11 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="christian-bromann/awesome-selenium">christian-bromann/awesome-selenium</a> with ranks
 </p>
 ---
-# Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
+# Awesome Selenium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/christian-bromann/awesome-selenium.svg?branch=master)](https://travis-ci.org/christian-bromann/awesome-selenium)
 
 > A curated list of delightful [Selenium](http://www.seleniumhq.org/) [resources](#resources).
 
-Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
+Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list thing.
 
 ## Resources
 
@@ -28,14 +28,14 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 #### Javascript
 
 - [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
-- [WD ★1153](admc/wd) - WebDriver/Selenium 2 node.js client.
+- [WD ★1153](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
 - [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 - [CasperJS](http://casperjs.org/) - open source navigation scripting & testing utility.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
 - [DalekJS](http://dalekjs.com/) - Automated cross browser testing.
 - [SlimerJS](http://slimerjs.org/) - A scriptable browser for Web developers.
 - [Nightwatch](http://nightwatchjs.org/) - efficient and straightforward Javascript End-to-End tests.
-- [yiewd ★93](jlipps/yiewd) - WD.js wrapper using latest Harmony generators! Get rid of the callback pyramid with yield.
+- [yiewd ★93](https://github.com/jlipps/yiewd) - WD.js wrapper using latest Harmony generators! Get rid of the callback pyramid with yield.
 - [Karma](http://karma-runner.github.io/0.12/index.html) - Brings a productive testing environment to developers for unit testing (mostly AngularJS).
 - [Protractor](https://angular.github.io/protractor/) - Protractor is an end-to-end test framework for AngularJS applications.
 - [Cypress](https://www.cypress.io/) - Cypress helps developers write automated tests for the web.
@@ -46,20 +46,20 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 - [Selenium with Ruby](http://seleniumhq.github.io/selenium/docs/api/rb/index.html) - Selenium Ruby bindings
 - [Watir](https://watir.com/) - Automated testing that doesn’t hurt
-- [Anemone ★1582 ⏳1Y](chriskite/anemone) - Anemone web-spider framework.
+- [Anemone ★1582 ⏳1Y](https://github.com/chriskite/anemone) - Anemone web-spider framework.
 - [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
-- [Spidr ★492](postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
+- [Spidr ★492](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
 - [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
 
 #### PHP
-- [Facebook WebDriver ★1719](facebook/php-webdriver) - A PHP client for webdriver.
-- [Selenium Setup ★22](bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
-- [Steward ★86](lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
+- [Facebook WebDriver ★1719](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
+- [Selenium Setup ★22](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
+- [Steward ★86](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
 
 #### Python
 
 - [Selenium with Python](http://selenium-python.readthedocs.io/) - Selenium Python bindings
-- [Pomade ★1 ⏳2Y](saucelabs/pomade) - SauceLabs integrated test runner for Selenium test.
+- [Pomade ★1 ⏳2Y](https://github.com/saucelabs/pomade) - SauceLabs integrated test runner for Selenium test.
 - [mechanize](http://wwwsearch.sourceforge.net/mechanize/) - Stateful programmatic web browsing.
 - [Robot](http://robotframework.org/) - Robot Framework is a generic test automation framework for acceptance testing and ATDD.
 
@@ -67,7 +67,7 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 - [Selenium with Java](http://seleniumhq.github.io/selenium/docs/api/java/index.html) - Selenium Java bindings
 - [Conductor](http://conductor.ddavison.io) - Turbo-boosted Selenium framework that makes test writing a breeze.
-- [darcy ★14](darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
+- [darcy ★14](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
 - [Serenity](http://www.thucydides.info/) - It is an open source library for writing better quality automated acceptance tests faster. (Formerly Thucydides).
 
 #### C#
@@ -80,23 +80,23 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 
 ### CSS Regression Testing
 
-- [PhantomCSS ★4369](Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS.
-- [WebdriverCSS ★486](webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
+- [PhantomCSS ★4369](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS.
+- [WebdriverCSS ★486](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
 ### Containers
 
 #### Docker
 
-- [elgalu/docker-selenium ★685](elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
-- [SeleniumHQ/docker-selenium ★1549](SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
-- [zalando/zalenium ★242](zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
+- [elgalu/docker-selenium ★685](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
+- [SeleniumHQ/docker-selenium ★1549](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
+- [zalando/zalenium ★242](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
 
 ### Driver
 
 #### Desktop
 
 - [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-- [Geckodriver ★827](mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
+- [Geckodriver ★827](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
 - [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium.
 - [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
 - [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
@@ -108,11 +108,11 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 - [Appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps. It drives iOS, Android and Windows Apps using the WebDriver protocol.
 - [Selendroid](http://selendroid.io/mobileWeb.html) - Selendroid is based on the Android instrumentation framework.
 - [ios-driver](http://ios-driver.github.io/ios-driver/) - Test any IOS native, hybrid, or mobile web application using Selenium / WebDriver.  
-- [Winium ★94](2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
+- [Winium ★94](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
 
 ### Desktop Tools
 
-- [SWD Page Recorder ★136](dzharii/swd-recorder) - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates.
+- [SWD Page Recorder ★136](https://github.com/dzharii/swd-recorder) - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates.
 
 ### Cloud Services
 
@@ -146,6 +146,7 @@ To the extent possible under law, [Christian Bromann](http://www.christian-broma
 <p align="center">
 	This list is a copy of <a href="christian-bromann/awesome-selenium">christian-bromann/awesome-selenium</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

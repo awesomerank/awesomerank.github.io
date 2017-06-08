@@ -5,13 +5,13 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="sublimino/awesome-funny-markov">sublimino/awesome-funny-markov</a> with ranks
 </p>
 ---
-# Awesome Funny Markov Chains [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Funny Markov Chains [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A facetiously curated list of delightfully amusing Markov chain output, inspired by [memorylessness](https://en.wikipedia.org/wiki/Memorylessness).
 
 If you want to [contribute](https://github.com/sublimino/awesome-funny-markov/blob/master/contributing.md) to this list (please do), send a pull request or contact me [@sublimino](https://twitter.com/sublimino). 
 
-Looking for more information on Markov Chains? Try [Awesome Machine Learning ★22923](josephmisiti/awesome-machine-learning).
+Looking for more information on Markov Chains? Try [Awesome Machine Learning ★22923](https://github.com/josephmisiti/awesome-machine-learning).
 
 
 ## Table of Contents
@@ -91,6 +91,7 @@ Looking for more information on Markov Chains? Try [Awesome Machine Learning ★
 <p align="center">
 	This list is a copy of <a href="sublimino/awesome-funny-markov">sublimino/awesome-funny-markov</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -9,11 +9,11 @@ Ranked awesome lists, all in one place
   <img width="300" src="https://rawgit.com/AllThingsSmitty/must-watch-css/master/media/logo.svg" alt="TV icon">
 </p>
 
-# Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Must-Watch CSS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 This is a collection of well-received talks about CSS, covering topics such as CSS frameworks, Sass, SVG, animation, scalability, CSS performance, tooling, mobile tips, and more.
 
-> **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★59088](sindresorhus/awesome).
+> **Like JavaScript? Check out [Must-Watch JavaScript](https://github.com/AllThingsSmitty/must-watch-javascript)!** For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★59088](https://github.com/sindresorhus/awesome).
 
 
 * [Contribution Guidelines](https://github.com/AllThingsSmitty/must-watch-css/blob/master/CONTRIBUTING.md)
@@ -100,6 +100,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 <p align="center">
 	This list is a copy of <a href="AllThingsSmitty/must-watch-css">AllThingsSmitty/must-watch-css</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

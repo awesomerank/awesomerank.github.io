@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="cyclejs-community/awesome-cyclejs">cyclejs-community/awesome-cyclejs</a> with ranks
 </p>
 ---
-## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+## Awesome Cycle.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A collection of awesome Cycle.js tools, resources, videos and shiny things.
 
@@ -88,7 +88,7 @@ http://oleg.fi/graafi/
 * [lucamezzalira/jsday-cycle-js ★8](https://github.com/lucamezzalira/jsday-cycle-js) - Reactive Live London Tube trains status example built with Cycle.js.
 * [cyclejs-community/built-with-cycle ★4](https://github.com/cyclejs-community/built-with-cycle) - [A website](http://cyclejs-community.github.io/built-with-cycle) to showcase the cool projects built with Cycle.js
 * [class-ideas/cyclejs-hangman ★7](https://github.com/class-ideas/cyclejs-hangman) A hangman game built with Cycle.js
-* [wmaurer/cyclejs-fractals ★13](wmaurer/cyclejs-fractals) Dancing pythagorean tree fractal - Animating 2048 SVG nodes.
+* [wmaurer/cyclejs-fractals ★13](https://github.com/wmaurer/cyclejs-fractals) Dancing pythagorean tree fractal - Animating 2048 SVG nodes.
 * [fabiothiroki/cyclejs-starwars ★1](https://github.com/fabiothiroki/cyclejs-starwars) A Star Wars character search app using Cycle.js, RxJS and Virtual DOM tests.
 
 ## Tools
@@ -108,9 +108,9 @@ http://oleg.fi/graafi/
 * [cgeorg/cycle-socket.io ★16](https://github.com/cgeorg/cycle-socket.io) - A Cycle driver for Socket.IO clients
 * [**cyclejs/cycle-dom ★162**](https://github.com/cyclejs/dom) - The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers
 * [secobarbital/cycle-fetch-driver ★2](https://github.com/secobarbital/cycle-fetch-driver) - A Cycle.js Driver for making HTTP requests, using the Fetch API.
-* [r7kamura/cycle-fetcher-driver ★13](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher ★18 ⏳1Y](r7kamura/stackable-fetcher).
+* [r7kamura/cycle-fetcher-driver ★13](https://github.com/r7kamura/cycle-fetcher-driver) - A Cycle.js Driver for making HTTP requests using [stackable-fetcher ★18 ⏳1Y](https://github.com/r7kamura/stackable-fetcher).
 * [cyclejs/cycle-history ★62](https://github.com/cyclejs/history) - The standard Cycle driver for dealing with the [History API](https://developer.mozilla.org/en-US/docs/Web/API/History_API)
-* [benji6/cycle-audio-graph ★11](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph ★93](benji6/virtual-audio-graph)
+* [benji6/cycle-audio-graph ★11](https://github.com/benji6/cycle-audio-graph) - A Cycle.js Driver for manipulating the Web Audio API using [virtual-audio-graph ★93](https://github.com/benji6/virtual-audio-graph)
 * [CyclicMaterials/cycle-hammer-driver ★10](https://github.com/CyclicMaterials/cycle-hammer-driver) - A Cycle.js driver to wrap Hammer.js and detect touch gestures
 * [jessaustin/cycle-sse-driver ★5](https://github.com/jessaustin/cycle-sse-driver) - Source driver for Server-Sent Events/EventSource.
 * [tylors/cycle-snabbdom ★42](https://github.com/TylorS/cycle-snabbdom) - DOM driver using Snabbdom
@@ -129,8 +129,8 @@ http://oleg.fi/graafi/
 * [garrydzeng/cycle-page ★1](https://github.com/garrydzeng/cycle-page) - A tiny client-side router for Cycle.js
 * [jbowden1982/cycle-socketcluster ★3](https://github.com/jbowden1982/cycle-socketcluster) - A socketcluster driver for Cycle.js
 * [cyclejs-community/redux-cycles ★30](https://github.com/cyclejs-community/redux-cycles) - A Redux middleware that allows you to handle actions lifecycle with Cycle.js
-* [JuniperChicago/cycle-gun ★12](JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync.
-* [EnigmaCurry/cycle-deepstream ★8](EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
+* [JuniperChicago/cycle-gun ★12](https://github.com/JuniperChicago/cycle-gun) - A basic Cycle.js driver wrapping a gun.js instance allowing graph storage and p2p sync.
+* [EnigmaCurry/cycle-deepstream ★8](https://github.com/EnigmaCurry/cycle-deepstream) - A Cycle.js driver for [deepstream.io](https://deepstream.io)
 * [Alex0007/cycle-express-driver ★0](https://github.com/Alex0007/cycle-express-driver) - A Cycle.js driver for Express.js server
 
 ### Utilities
@@ -172,9 +172,9 @@ http://oleg.fi/graafi/
 * [erykpiast/autocompleted-select ★9](https://github.com/erykpiast/autocompleted-select) - Select Web Component with autocompletion. Based on RxJS and VirtualDOM.
 * [enten/cyclejs-calendar ★9](https://github.com/enten/cyclejs-calendar) - Calendar component for Cycle.js. Try it online [here](http://enten.github.io/cyclejs-calendar/example).
 * [mciparelli/cyclejs-gravatar ★0](https://github.com/mciparelli/cyclejs-gravatar) - Cycle.js component for rendering a gravatar profile image.
-* [tommy-the-runner/cyclejs-ace-editor ★0](https://github.com/tommy-the-runner/cyclejs-ace-editor) - Cycle.js intergration with Ace Editor using [brace ★357](thlorenz/brace). Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
-* [raquelxmoss/cycle-color-picker ★35](raquelxmoss/cycle-color-picker) - A Color Picker component for Cycle.js. [Check out the example](https://raquelxmoss.github.io/cycle-color-picker).
-* [cyclejs-community/cycle-svg-pan-and-zoom ★2](cyclejs-community/cycle-svg-pan-and-zoom) - A Google Maps style SVG pan and zoom component for Cycle.js
+* [tommy-the-runner/cyclejs-ace-editor ★0](https://github.com/tommy-the-runner/cyclejs-ace-editor) - Cycle.js intergration with Ace Editor using [brace ★357](https://github.com/thlorenz/brace). Check an example [here](https://tommy-the-runner.github.io/cyclejs-ace-editor/).
+* [raquelxmoss/cycle-color-picker ★35](https://github.com/raquelxmoss/cycle-color-picker) - A Color Picker component for Cycle.js. [Check out the example](https://raquelxmoss.github.io/cycle-color-picker).
+* [cyclejs-community/cycle-svg-pan-and-zoom ★2](https://github.com/cyclejs-community/cycle-svg-pan-and-zoom) - A Google Maps style SVG pan and zoom component for Cycle.js
 
 ## Community
 
@@ -188,6 +188,7 @@ http://oleg.fi/graafi/
 <p align="center">
 	This list is a copy of <a href="cyclejs-community/awesome-cyclejs">cyclejs-community/awesome-cyclejs</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="RomanTsegelskyi/rbooks">RomanTsegelskyi/rbooks</a> with ranks
 </p>
 ---
-R Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+R Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 ===
 A curated list of books about different aspects and applications of [R](https://www.r-project.org/) programming language and an attempt to modernize [R Books]() in a more user friendly way. Inspired by [GoBooks]().
 
@@ -212,6 +212,7 @@ License
 <p align="center">
 	This list is a copy of <a href="RomanTsegelskyi/rbooks">RomanTsegelskyi/rbooks</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="dariubs/GoBooks">dariubs/GoBooks</a> with ranks
 </p>
 ---
-Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
@@ -44,7 +44,7 @@ This companion book contains material initially written specifically for this ev
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github ★186](miekg/learninggo).
+The [markdown source is available on Github ★186](https://github.com/miekg/learninggo).
 
 ### [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers) *Free*
 
@@ -205,7 +205,7 @@ At each step, you’ll get advice for better coding in Go. You’ll see how to s
 
 Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
 
-### [Webapps in Go the anti textbook ★1684](thewhitetulip/web-dev-golang-anti-textbook) *free*
+### [Webapps in Go the anti textbook ★1684](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *free*
 
 <img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
 
@@ -249,6 +249,7 @@ License
 <p align="center">
 	This list is a copy of <a href="dariubs/GoBooks">dariubs/GoBooks</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

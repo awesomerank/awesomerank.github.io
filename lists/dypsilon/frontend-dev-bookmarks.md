@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="dypsilon/frontend-dev-bookmarks">dypsilon/frontend-dev-bookmarks</a> with ranks
 </p>
 ---
-# Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Frontend Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 **Manually curated collection of resources for frontend web developers.**
 
@@ -125,6 +125,7 @@ Please provide a link back to this repository. This is not necessary for GitHub 
 <p align="center">
 	This list is a copy of <a href="dypsilon/frontend-dev-bookmarks">dypsilon/frontend-dev-bookmarks</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

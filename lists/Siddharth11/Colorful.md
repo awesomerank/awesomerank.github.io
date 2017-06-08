@@ -9,9 +9,9 @@ Ranked awesome lists, all in one place
 	<img src="color-palette.gif" alt="header image">
 </p>
 
-# Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 __A curated list of awesome resources to choose your next color scheme.__  
-Inspired by the __[awesome ★59088](sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
+Inspired by the __[awesome ★59088](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
 
 ## Table of Contents
 - [Tools](#tools)
@@ -24,15 +24,15 @@ Inspired by the __[awesome ★59088](sindresorhus/awesome)__ list. Please read t
 
 #### Libraries
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-- [GradStop.js ★81](Siddharth11/gradStop.js) - Generate gradient color stops.
+- [GradStop.js ★81](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
-- [Coloor ★335 ⏳1Y](krasimir/coloor) - Image preloading utility.
-- [Color Thief ★5655](lokesh/color-thief) - Grab color palette from an image.
-- [Colorify.js ★708](LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-- [Colofilter.css ★559](LukyVj/colofilter.css) - Duotone filters made with CSS.
-- [Polychrome ★248](cdonohue/polychrome) - A small library for parsing and manipulating colors.
-- [Palettable ★236](jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+- [Coloor ★335 ⏳1Y](https://github.com/krasimir/coloor) - Image preloading utility.
+- [Color Thief ★5655](https://github.com/lokesh/color-thief) - Grab color palette from an image.
+- [Colorify.js ★708](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+- [Colofilter.css ★559](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+- [Polychrome ★248](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
+- [Palettable ★236](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 - [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 
 #### Web App
@@ -46,7 +46,7 @@ Inspired by the __[awesome ★59088](sindresorhus/awesome)__ list. Please read t
 - [Pictaculous](http://www.pictaculous.com/) - Generate color palette with an image.
 - [Adobe Color Wheel](https://color.adobe.com/) - Create color schemes with the color wheel.
 - [Drag Gradients](http://elrumordelaluz.github.io/draGGradients/) - Generate and customize multiple css3 radial gradients.
-- [SassMe ★23](jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
+- [SassMe ★23](https://github.com/jimniels/sassme) - Visualize SASS color functions in real-time without compiling.
 - [Shade](http://jxnblk.com/shade/) - Mathematically derived gradient explorer.
 - [Colourco](http://www.colourco.de/) - Easily and intuitively combine colours.
 - [HSL Color Picker](http://hslpicker.com/) - HSL Color Picker.
@@ -132,6 +132,7 @@ Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Ziv
 <p align="center">
 	This list is a copy of <a href="Siddharth11/Colorful">Siddharth11/Colorful</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

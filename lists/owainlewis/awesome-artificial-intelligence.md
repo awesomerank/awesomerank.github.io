@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="owainlewis/awesome-artificial-intelligence">owainlewis/awesome-artificial-intelligence</a> with ranks
 </p>
 ---
-# Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
@@ -109,7 +109,7 @@ Contributions most welcome.
 * [Getting Started with Deep Learning and Python](http://www.pyimagesearch.com/2014/09/22/getting-started-deep-learning-python/)
 * [Machine Learning Mastery](http://machinelearningmastery.com/)
 * [Deep Learning.net](http://deeplearning.net/) - Aggregation site for DL resources
-* [Awesome Machine Learning ★22923](josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
+* [Awesome Machine Learning ★22923](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 * [FastML](http://fastml.com/)
 
 ![](https://media.giphy.com/media/jeAQYN9FfROX6/giphy.gif)
@@ -192,6 +192,7 @@ To the extent possible under law, [Owain Lewis](http://owainlewis.com) has waive
 <p align="center">
 	This list is a copy of <a href="owainlewis/awesome-artificial-intelligence">owainlewis/awesome-artificial-intelligence</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

@@ -5,13 +5,13 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="hzoo/awesome-gametalks">hzoo/awesome-gametalks</a> with ranks
 </p>
 ---
-# Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Game Talks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > [2005] [Heart of a Gamer](https://www.youtube.com/watch?v=RMrj8gdUfCU): Satoru Iwata (Nintendo)
 
 > On my business card, I am a corporate president. In my mind, I am a game developer. But in my heart, I am a gamer.
 
-Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/blob/master/CONTRIBUTING.md) and other [awesome ★59088](sindresorhus/awesome) stuff!
+Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/blob/master/CONTRIBUTING.md) and other [awesome ★59088](https://github.com/sindresorhus/awesome) stuff!
 
 > GDC has a channel now: https://www.youtube.com/c/gdconf
 
@@ -178,6 +178,7 @@ Check out [contribution guidelines](https://github.com/hzoo/awesome-gametalks/bl
 <p align="center">
 	This list is a copy of <a href="hzoo/awesome-gametalks">hzoo/awesome-gametalks</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

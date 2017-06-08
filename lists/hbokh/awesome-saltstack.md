@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="hbokh/awesome-saltstack">hbokh/awesome-saltstack</a> with ranks
 </p>
 ---
-# Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 [<img src="https://yt3.ggpht.com/-u0bhYCAc9tQ/AAAAAAAAAAI/AAAAAAAAAAA/VzeLz4xM-AM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" align="right" width="100">](https://SaltStack.com)
 
@@ -36,7 +36,7 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 * [SaltStack site](https://saltstack.com/) - Company website.
-* [GitHub repo ★7730](saltstack/salt) - Salt's source code, issues discussion and collaboration.
+* [GitHub repo ★7730](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 * [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 * [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
@@ -73,8 +73,8 @@ A :gem: means **really _awesome / useful_**.
 
 ## Code
 
-* [zulily/alkali ★5 ⏳1Y](zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
-* [zulily/buoyant ★4 ⏳1Y](zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
+* [zulily/alkali ★5 ⏳1Y](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
+* [zulily/buoyant ★4 ⏳1Y](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
 
 ## Books
 
@@ -97,10 +97,10 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tools
 
-* [SaltPad ★558](Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
-* [SaltShaker ★93](yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
-* [SaltGUI ★29](oliverdunk/SaltGUI) - A web interface for managing SaltStack based infrastructure.
-* [Pepperboard ★9](webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
+* [SaltPad ★558](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
+* [SaltShaker ★93](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
+* [SaltGUI ★29](https://github.com/oliverdunk/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+* [Pepperboard ★9](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 
 ## Presentations
 
@@ -144,7 +144,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Cheat sheets
 
-* [SaltStack Cheat Sheet Plus ★8](fmdlc/saltstack-cheatsheet) - by Facu de la Cruz.
+* [SaltStack Cheat Sheet Plus ★8](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz.
 * [Salt Commands cheat sheet](https://sites.google.com/site/bladelogicwiki/salt-stack/guides/salt-commands) - List of common Salt commands (by "Bladelogic").
 * [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
 * [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.
@@ -164,6 +164,7 @@ To the extent possible under law, [Henk](https://hbokh.github.io/) has waived al
 <p align="center">
 	This list is a copy of <a href="hbokh/awesome-saltstack">hbokh/awesome-saltstack</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

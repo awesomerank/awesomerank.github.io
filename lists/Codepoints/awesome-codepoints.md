@@ -5,7 +5,7 @@ Ranked awesome lists, all in one place
 	This list is a copy of <a href="Codepoints/awesome-codepoints">Codepoints/awesome-codepoints</a> with ranks
 </p>
 ---
-# Awesome Code Points [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](sindresorhus/awesome)
+# Awesome Code Points [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 This is a curated list of characters in Unicode, that have interesting (and
 maybe not widely known) features or are awesome in some other way.
@@ -230,6 +230,7 @@ have waived all copyright and related or neighboring rights to this work. See
 <p align="center">
 	This list is a copy of <a href="Codepoints/awesome-codepoints">Codepoints/awesome-codepoints</a> with ranks
 </p>
+
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
