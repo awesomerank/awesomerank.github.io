@@ -319,7 +319,7 @@ Inspired by the [awesome ★59088](sindresorhus/awesome) list thing.
 - [pkg-dir-cli ★7](sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
 - [speed-test ★1873](sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI.
 - [shortcut-url-cli ★5 ⏳1Y](sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file.
-- [SpeedRead ★20 ⏳2Y](sunsations/speed_read) - A simple terminal-based open source Spritz-alike.
+- [SpeedRead ★20 ⏳3Y](sunsations/speed_read) - A simple terminal-based open source Spritz-alike.
 - [to-double-quotes ★8](sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.
 - [to-single-quotes ★15](sindresorhus/to-single-quotes-cli) - Convert matching double-quotes to single-quotes: I "love" unicorns → I 'love' unicorns.
 - [yosay ★125](yeoman/yosay) - Like cowsay, but for yeoman.
@@ -344,3 +344,13 @@ To the extent possible under law, [Adam Harris](https://twitter.com/adamCoder) h
 <p align="center">
 	This list is a copy of <a href="aharris88/awesome-cli-apps">aharris88/awesome-cli-apps</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

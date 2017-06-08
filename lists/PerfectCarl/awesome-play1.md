@@ -147,7 +147,7 @@ If you want to contribute information about a module, please refer to the [guide
 * **[[press] ](http://www.playframework.com/modules/press) [Minimize javascript/css files](http://github.com/dirkmc/press)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/press) A JavaScript, CSS and Less minimizer that is designed to be transparent to the application developer. 
 * **[[sass] ](http://www.playframework.com/modules/sass) [Syntactically Awesome Stylesheets](http://github.com/guillaumebort/play-sass)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/sass)[![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat)](http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.sass/play-sass) Sass makes CSS fun again. Sass is CSS, plus nested rules, variables, mixins, and more, all in a concise, readable syntax.  
 * **[[table] ](http://www.playframework.com/modules/table) [Table ★7 ⏳4Y](julienrf/play-table)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/table)[![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat)](http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.table/play-table) Simplifies the code needed to display data in HTML tables. 
-* **[[tabularasa] ](http://www.playframework.com/modules/tabularasa) [Tabula Rasa ★7 ⏳5Y](schaloner/tabula-rasa)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/tabularasa) Tabula Rasa provides support for user-customisable tables in views 
+* **[[tabularasa] ](http://www.playframework.com/modules/tabularasa) [Tabula Rasa ★7 ⏳6Y](schaloner/tabula-rasa)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/tabularasa) Tabula Rasa provides support for user-customisable tables in views 
 * **[[twitterbootstrap] ](http://www.playframework.com/modules/twitterbootstrap) [Twitterbootstrap](http://www.playframework.com/modules/twitterbootstrap)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/twitterbootstrap) Bundles up the twitter-bootstrap stylekit and the play less plugin, easing the .less files edition (changes are dynamically taken into account). 
 
 ### Rest 
@@ -245,3 +245,13 @@ To the extent possible under law, [PerfectCarl](https://github.com/PerfectCarl) 
 <p align="center">
 	This list is a copy of <a href="PerfectCarl/awesome-play1">PerfectCarl/awesome-play1</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

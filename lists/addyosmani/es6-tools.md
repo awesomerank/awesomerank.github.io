@@ -173,7 +173,7 @@ Ranked awesome lists, all in one place
 * [ES.next showcase ★312](sindresorhus/esnext-showcase) - real-world usage examples of ES6 features
 * [looper ★16 ⏳3Y](wycats/looper) - static analysis tools for ES6
 * [es6-module-packager](https://www.npmjs.com/package/es6-module-packager)
-* [es-dependency-graph](https://github.com/yahoo/es-dependency-graph) and [grunt-es-dependency-graph ★3 ⏳2Y](yahoo/grunt-es-dependency-graph) - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc.
+* [es-dependency-graph](https://github.com/yahoo/es-dependency-graph) and [grunt-es-dependency-graph ★3 ⏳3Y](yahoo/grunt-es-dependency-graph) - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc.
 * [es6-import-validate](https://github.com/sproutsocial/es6-import-validate) and [grunt-es6-import-validate ★3 ⏳1Y](sproutsocial/grunt-es6-import-validate) - validate matching named/default import statements in ES6 modules.
 * [let-er ★125 ⏳2Y](getify/let-er) - transpiles [let-block block-scoping](http://wiki.ecmascript.org/doku.php?id=proposals:block_expressions#let_statement) (not accepted into ES6) into either ES3 or ES6
 * [Recast](https://github.com/benjamn/recast) - Esprima-based JavaScript syntax tree transformer, conservative pretty-printer, and automatic source map generator. Used by several of the transpilers listed above, including [regenerator](https://github.com/facebook/regenerator) and [es6-arrow-function ★51 ⏳2Y](esnext/es6-arrow-function).
@@ -189,3 +189,13 @@ Ranked awesome lists, all in one place
 <p align="center">
 	This list is a copy of <a href="addyosmani/es6-tools">addyosmani/es6-tools</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

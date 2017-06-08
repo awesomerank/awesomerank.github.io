@@ -125,3 +125,13 @@ Please provide a link back to this repository. This is not necessary for GitHub 
 <p align="center">
 	This list is a copy of <a href="dypsilon/frontend-dev-bookmarks">dypsilon/frontend-dev-bookmarks</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

@@ -1051,7 +1051,7 @@ See [go-hardware ★499 ⏳1Y](rakyll/go-hardware) for a comprehensive list.
 * [amazon-product-advertising-api ★8](ngs/go-amazon-product-advertising-api) - Go Client Library for [Amazon Product Advertising API](https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html)
 * [anaconda ★696](ChimeraCoder/anaconda) - A Go client library for the Twitter 1.1 API
 * [aws-sdk-go ★3218](aws/aws-sdk-go) - The official AWS SDK for the Go programming language.
-* [brewerydb ★11 ⏳1Y](naegelejd/brewerydb) - Go library for accessing the BreweryDB API.
+* [brewerydb ★11 ⏳2Y](naegelejd/brewerydb) - Go library for accessing the BreweryDB API.
 * [cachet ★33 ⏳1Y](andygrunwald/cachet) - Go client library for [Cachet (open source status page system)](https://cachethq.io/)
 * [circleci ★11](jszwedko/go-circleci) - A Go client library for interacting with CircleCI's API
 * [clarifai](https://github.com/samuelcouch/clarifai) - A Go client library for interfacing with the Clarifai API.
@@ -1580,3 +1580,13 @@ Hey dude! Help me out for a couple of :beers:!
 <p align="center">
 	This list is a copy of <a href="avelino/awesome-go">avelino/awesome-go</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

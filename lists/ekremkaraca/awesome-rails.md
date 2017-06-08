@@ -97,7 +97,7 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 
 #### Health
 
-- [quant ★129 ⏳1Y](jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker
+- [quant ★129 ⏳2Y](jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker
 - [dgi-db](https://github.com/genome/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database [Live](http://dgidb.genome.wustl.edu/)
 - [popHealth ★119](pophealth/popHealth) -  An Open Source Population Health Reporting Prototype  
 
@@ -225,3 +225,13 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 <p align="center">
 	This list is a copy of <a href="ekremkaraca/awesome-rails">ekremkaraca/awesome-rails</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

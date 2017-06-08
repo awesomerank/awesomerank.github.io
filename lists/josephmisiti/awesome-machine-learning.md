@@ -957,7 +957,7 @@ be
 * [ipython-notebooks ★400](ogrisel/notebooks)
 * [data-science-ipython-notebooks ★9151](donnemartin/data-science-ipython-notebooks) - Continually updated Data Science Python Notebooks: Spark, Hadoop MapReduce, HDFS, AWS, Kaggle, scikit-learn, matplotlib, pandas, NumPy, SciPy, and various command lines.
 * [decision-weights ★21 ⏳2Y](CamDavidsonPilon/decision-weights)
-* [Sarah Palin LDA ★8 ⏳5Y](Wavelets/sarah-palin-lda) - Topic Modeling the Sarah Palin emails.
+* [Sarah Palin LDA ★8 ⏳6Y](Wavelets/sarah-palin-lda) - Topic Modeling the Sarah Palin emails.
 * [Diffusion Segmentation ★2 ⏳6Y](Wavelets/diffusion-segmentation) - A collection of image segmentation algorithms based on diffusion methods
 * [Scipy Tutorials ★1 ⏳7Y](Wavelets/scipy-tutorials) - SciPy tutorials. This is outdated, check out scipy-lecture-notes
 * [Crab ★78 ⏳5Y](marcelcaraciolo/crab) - A recommendation engine library for Python
@@ -1288,3 +1288,13 @@ be
 <p align="center">
 	This list is a copy of <a href="josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

@@ -1149,7 +1149,7 @@ Ranked awesome lists, all in one place
 - [Webpack ★61](asprouse/serverless-webpack-plugin) - Use Webpack to optimize your Serverless Node.js Functions.
 - [Runtime Babel ★59](serverless/serverless-runtime-babel) - Babel runtime for the Serverless framework (so that ES6 and ES7 syntax can be used).
 - [Runtime Streamline ★0 ⏳1Y](marclar/serverless-runtime-streamline) - Streamline.js for Serverless.
-- [Meta Sync ★41](serverless/serverless-meta-sync) - Synchronize project credentials via AWS.
+- [Meta Sync ★41 ⏳1Y](serverless/serverless-meta-sync) - Synchronize project credentials via AWS.
 - [GraphiQL ★4 ⏳1Y](marclar/serverless-graphiql) - Deploys a GraphiQL client to a public S3 bucket.
 - [S3 ★0 ⏳1Y](camhart/sls-s3) - Deploy files to S3.
 - [Swagger ★28](serverless/serverless-swagger-plugin) - Swagger plugin.
@@ -1197,3 +1197,13 @@ Ranked awesome lists, all in one place
 <p align="center">
 	This list is a copy of <a href="JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

@@ -324,7 +324,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql ★13](ropensci/graphql) - Bindings to libgraphqlparser for R.
 * [gqlr ★4](schloerke/gqlr) - GraphQL server package for R.
-* [gqlr ★7](ropensci/ghql) - GraphQL client package for R.
+* [ghql ★7](ropensci/ghql) - GraphQL client package for R.
 
 <a name="tools" />
 
@@ -402,7 +402,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [serverless-graphql-blog ★571](serverless/serverless-graphql-blog) - A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint
 * [relay-cart ★15](soonlive/relay-cart) - A simple shopping cart example leveraging relay & GraphQL with routing and pagination.
 * [graphql-loader ★34 ⏳1Y](applification/graphql-loader) - Example project to illustrate GraphQL, Express and Facebook DataLoader to connect to third party REST API
-* [swapi-graphql-lambda ★12](alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
+* [swapi-graphql-lambda ★12 ⏳1Y](alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
 * [Apollo Client documentation](http://dev.apollodata.com/react/) - Documentation and example for building GraphQL apps using apollo client
 * [Apollo Server tools documentation](http://dev.apollodata.com/tools/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 * [f8-apollo ★88](nnance/f8app-apollo) - Refactored version of the official F8 app of 2016, powered by React Native and the Apollo Stack.
@@ -544,3 +544,13 @@ To the extent possible under law, [Chen-Tsu Lin](https://github.com/chentsulin) 
 <p align="center">
 	This list is a copy of <a href="chentsulin/awesome-graphql">chentsulin/awesome-graphql</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

@@ -29,6 +29,7 @@ A curated list of awesome free software and free software resources.
   - [Operating Systems](#operating-systems)
   - [Other](#other)
   - [Payments](#payments)
+  - [Programming](#programming)
   - [Scientific Work](#scientific-work)
   - [Screencasting](#screencasting)
   - [Text Editors](#text-editors)
@@ -116,6 +117,10 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ### Payments
 
 - [Electrum](https://electrum.org) - Lightweight Bitcoin client that provides wallet recovery, decentralized servers, and offline storage. ([MIT](https://github.com/spesmilo/electrum/blob/master/LICENCE))
+
+### Programming
+
+- [GNU Compiler Collection](https://www.gnu.org/software/gcc/) - Compiler for C, C++, Objective-C, Fortran, Ada, and Go. ([GNU GPLv3](https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=COPYING3;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=f0cd56a4ae4b7114ad5df0d34fa1d75c8d3469dc))
 
 ### Scientific Work
 
@@ -229,3 +234,13 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 <p align="center">
 	This list is a copy of <a href="johnjago/awesome-free-software">johnjago/awesome-free-software</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

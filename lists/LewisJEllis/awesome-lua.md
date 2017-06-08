@@ -129,7 +129,7 @@ Note: From LuaJIT to Lua to lua.vm.js to Moonshine, a basic benchmark sees perfo
   - [tween.lua ★246 ⏳1Y](kikito/tween.lua) - Small library for tweening, with several easing functions.
 - Examples
   - [termtris ★391 ⏳2Y](tylerneylon/termtris) - A tetris clone, written in literate style with "an emphasis on learn-from-ability".
-  - [PacPac ★314 ⏳1Y](tylerneylon/pacpac) - A Pac-man clone, made with LÖVE.
+  - [PacPac ★314 ⏳2Y](tylerneylon/pacpac) - A Pac-man clone, made with LÖVE.
   - [Mari0 ★163](Stabyourself/mari0) - Fusion of Mario and Portal, made with LÖVE. See also its [wikipedia entry](https://en.wikipedia.org/wiki/Mari0).
   - [Journey to the Center of Hawkthorne ★765](hawkthorne/hawkthorne-journey) - 2D platformer based on Community's [Digital Estate Planning](https://en.wikipedia.org/wiki/Digital_Estate_Planning) episode, made with LÖVE.
 
@@ -373,3 +373,13 @@ To the extent possible under law, Lewis Ellis has waived all copyright and relat
 <p align="center">
 	This list is a copy of <a href="LewisJEllis/awesome-lua">LewisJEllis/awesome-lua</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

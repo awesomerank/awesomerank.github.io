@@ -1032,7 +1032,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [Bacon ★395](chneukirchen/bacon) - A small RSpec clone.
   * [Capybara ★7819](teamcapybara/capybara) - Acceptance test framework for web applications.
   * [Cucumber ★1063](cucumber/cucumber) - BDD that talks to domain experts first and code second.
-  * [Cutest ★132](djanowski/cutest) - Isolated tests in Ruby.
+  * [Cutest ★132 ⏳1Y](djanowski/cutest) - Isolated tests in Ruby.
   * [Howitzer ★142](strongqa/howitzer) - Ruby based framework for acceptance testing
   * [Konacha ★1065](jfirebaugh/konacha) - Test your Rails application's JavaScript with the mocha test framework and chai assertion library.
   * [minitest ★2193](seattlerb/minitest) - minitest provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
@@ -1198,3 +1198,13 @@ Where to discover new Ruby libraries, projects and trends.
 <p align="center">
 	This list is a copy of <a href="markets/awesome-ruby">markets/awesome-ruby</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

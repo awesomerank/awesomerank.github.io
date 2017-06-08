@@ -357,7 +357,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [IRMINGARD ★4 ⏳4Y](gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [Minilens ★63](KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine ★349 ⏳1Y](Circular-Studios/Dash).
-* [tictactoe ★4 ⏳1Y](cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
+* [tictactoe ★4 ⏳2Y](cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
 * [Wizznic ★13 ⏳1Y](DusteDdk/Wizznic) - Most awesome puzzle game.
 * [PokerTH ★164](pokerth/pokerth) - Implementation of Texas Hold'em supporting (online) multiplayer and botplay. [Play it now!](http://www.pokerth.net/)
 
@@ -584,3 +584,13 @@ A selection of major game studios, publishers, etc. using GitHub:
 <p align="center">
 	This list is a copy of <a href="leereilly/games">leereilly/games</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

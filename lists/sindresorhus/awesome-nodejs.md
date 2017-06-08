@@ -236,6 +236,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [bugger ★149](buggerjs/bugger) - Provides Chrome Devtools bindings to debug programs in Chrome.
 - [0x ★499](davidmarkclements/0x) - Flamegraph profiling.
 - [ctrace ★81](automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+- [leakage ★1070](andywer/leakage) - Write memory leak tests.
 
 
 ### Logging
@@ -290,6 +291,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [term-img ★158](sindresorhus/term-img) - Display images in your terminal.
 - [yargs ★2984](yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [DraftLog ★779](ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
+- [Bit ★588](teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 
 
 ### Build tools
@@ -932,3 +934,13 @@ To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has w
 <p align="center">
 	This list is a copy of <a href="sindresorhus/awesome-nodejs">sindresorhus/awesome-nodejs</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>

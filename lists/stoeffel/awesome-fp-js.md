@@ -54,6 +54,8 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [claire](https://github.com/robotlolita/claire) – A property-based testing library for clearly specifying code invariants and behaviour.
 * [FPO.js ★229](getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 * [Javascript Parser Combinator ★21](d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
+* [fun-task ★197](rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
+* [most ★1962](cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 
 
 ### Data Structures
@@ -117,6 +119,8 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [eslint-plugin-fp ★224](jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 * [eslint-config-cleanjs ★896](bodil/eslint-config-cleanjs) - An eslint config which reduces JS to a pure functional language
+* [4.5 ★12](TylorS/4.5) – A functional assertions library. If you prefer functional style APIs and practices in JavaScript, this library aims to solve this with functionally-oriented assertions that are lazy and monadic.
+* [hm-def ★10](xodio/hm-def) – Runtime type checking for JS with Hindley Milner signatures.
 
 ## Resources
 
@@ -199,3 +203,13 @@ To the extent possible under law, [Christoph Hermann](http://stoeffel.github.io/
 <p align="center">
 	This list is a copy of <a href="stoeffel/awesome-fp-js">stoeffel/awesome-fp-js</a> with ranks
 </p>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-100705027-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
