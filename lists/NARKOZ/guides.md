@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="NARKOZ/guides">NARKOZ/guides</a> with ranks
+	This list is a copy of <a href="http://github.com/NARKOZ/guides">NARKOZ/guides</a> with ranks
 </p>
 ---
 # Guides
@@ -234,7 +234,7 @@ See [Contribution Guides](https://github.com/NARKOZ/guides/blob/master/CONTRIBUT
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/).
 ---
 <p align="center">
-	This list is a copy of <a href="NARKOZ/guides">NARKOZ/guides</a> with ranks
+	This list is a copy of <a href="http://github.com/NARKOZ/guides">NARKOZ/guides</a> with ranks
 </p>
 
 <script>

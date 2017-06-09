@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="igorbarinov/awesome-data-engineering">igorbarinov/awesome-data-engineering</a> with ranks
+	This list is a copy of <a href="http://github.com/igorbarinov/awesome-data-engineering">igorbarinov/awesome-data-engineering</a> with ranks
 </p>
 ---
 Awesome Data Engineering
@@ -244,7 +244,7 @@ To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/
 
 ---
 <p align="center">
-	This list is a copy of <a href="igorbarinov/awesome-data-engineering">igorbarinov/awesome-data-engineering</a> with ranks
+	This list is a copy of <a href="http://github.com/igorbarinov/awesome-data-engineering">igorbarinov/awesome-data-engineering</a> with ranks
 </p>
 
 <script>

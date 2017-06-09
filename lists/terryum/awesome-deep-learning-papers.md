@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="terryum/awesome-deep-learning-papers">terryum/awesome-deep-learning-papers</a> with ranks
+	This list is a copy of <a href="http://github.com/terryum/awesome-deep-learning-papers">terryum/awesome-deep-learning-papers</a> with ranks
 </p>
 ---
 # Awesome - Most Cited Deep Learning Papers
@@ -391,7 +391,7 @@ Thank you for all your contributions. Please make sure to read the [contributing
 To the extent possible under law, [Terry T. Um](https://www.facebook.com/terryum.io/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="terryum/awesome-deep-learning-papers">terryum/awesome-deep-learning-papers</a> with ranks
+	This list is a copy of <a href="http://github.com/terryum/awesome-deep-learning-papers">terryum/awesome-deep-learning-papers</a> with ranks
 </p>
 
 <script>

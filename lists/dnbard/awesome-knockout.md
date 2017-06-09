@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="dnbard/awesome-knockout">dnbard/awesome-knockout</a> with ranks
+	This list is a copy of <a href="http://github.com/dnbard/awesome-knockout">dnbard/awesome-knockout</a> with ranks
 </p>
 ---
 # Awesome Knockout [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -26,7 +26,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Mapping ★536](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS
 - [Validation ★945](https://github.com/Knockout-Contrib/Knockout-Validation) - A validation library for Knockout JS
 - [Sortable ★512](https://github.com/rniemeyer/knockout-sortable) - A Knockout.js binding to connect observableArrays with jQuery UI sortable functionality
-- [Grid ★287 ⏳1Y](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout
+- [Grid ★287 ⏳2Y](https://github.com/Knockout-Contrib/KoGrid) - A data grid plugin for Knockout
 - [External Template Engine ★236 ⏳2Y](https://github.com/ifandelse/Knockout.js-External-Template-Engine) - Custom Template Engine and Template Source for Knockout.js that loads external templates
 - [Postbox ★340](https://github.com/rniemeyer/knockout-postbox) - Publish/subscribe decoupled communication between separate view models and components
 - [Deferred Updates ★143 ⏳1Y](https://github.com/mbest/knockout-deferred-updates) - The plugin that modifies parts of Knockout’s observable/subscription system to use deferred updates
@@ -54,7 +54,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [WebSockets ★82 ⏳6Y](https://github.com/carlhoerberg/knockout-websocket-example) - Example of real time collaborative web app using WebSockets and Knockout
 ---
 <p align="center">
-	This list is a copy of <a href="dnbard/awesome-knockout">dnbard/awesome-knockout</a> with ranks
+	This list is a copy of <a href="http://github.com/dnbard/awesome-knockout">dnbard/awesome-knockout</a> with ranks
 </p>
 
 <script>

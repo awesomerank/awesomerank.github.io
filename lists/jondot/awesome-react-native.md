@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="jondot/awesome-react-native">jondot/awesome-react-native</a> with ranks
+	This list is a copy of <a href="http://github.com/jondot/awesome-react-native">jondot/awesome-react-native</a> with ranks
 </p>
 ---
 # Awesome React Native
@@ -1035,7 +1035,7 @@ Assortment of conference and training videos.
 - [Next: latest](https://github.com/facebook/react-native/releases/latest)
 ---
 <p align="center">
-	This list is a copy of <a href="jondot/awesome-react-native">jondot/awesome-react-native</a> with ranks
+	This list is a copy of <a href="http://github.com/jondot/awesome-react-native">jondot/awesome-react-native</a> with ranks
 </p>
 
 <script>

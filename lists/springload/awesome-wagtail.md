@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="springload/awesome-wagtail">springload/awesome-wagtail</a> with ranks
+	This list is a copy of <a href="http://github.com/springload/awesome-wagtail">springload/awesome-wagtail</a> with ranks
 </p>
 ---
 Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
@@ -248,7 +248,7 @@ Please read the [contribution guidelines](https://github.com/springload/awesome-
 To the extent possible under law, [Springload](https://www.springload.co.nz/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="springload/awesome-wagtail">springload/awesome-wagtail</a> with ranks
+	This list is a copy of <a href="http://github.com/springload/awesome-wagtail">springload/awesome-wagtail</a> with ranks
 </p>
 
 <script>

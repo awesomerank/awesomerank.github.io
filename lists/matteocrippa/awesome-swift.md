@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="matteocrippa/awesome-swift">matteocrippa/awesome-swift</a> with ranks
+	This list is a copy of <a href="http://github.com/matteocrippa/awesome-swift">matteocrippa/awesome-swift</a> with ranks
 </p>
 ---
 # Awesome Swift
@@ -17,7 +17,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-828-orange.svg) | June 08, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-831-orange.svg) | June 08, 2017
 
 ### Contributing
 
@@ -138,6 +138,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
     - [StackView](#stackview)
     - [Switch](#switch)
     - [Tab](#tab)
+    - [Template](#template)
     - [TextField](#textfield)
     - [Transition](#transition)
     - [UICollectionView](#uicollectionview)
@@ -1027,6 +1028,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Format ★1124](https://github.com/marmelroy/Format) - Formatting kit for numbers, addresses and colors.
 * [Markdown ★60](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown).
 * [MarkdownKit ★68](https://github.com/ivanbruel/MarkdownKit) - A simple and customizable Markdown Parser.
+* [MarkdownView ★758](https://github.com/keitaoouchi/MarkdownView) - MarkdownView for iOS
 * [Mustard ★652](https://github.com/mathewsanders/Mustard) - Library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [Notepad ★251](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 * [Parsey ★32](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
@@ -1138,7 +1140,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftTheme ★784](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 7+.
 * [SYBlinkAnimationKit ★83](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
 * [TagListView ★982](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
-* [TemplateKit ★102](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces.
 * [Toaster ★749](https://github.com/devxoul/Toaster) - Notification toasts.
 * [TouchVisualizer ★518](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library with a single line of code.
 * [Twinkle ★414](https://github.com/piemonte/Twinkle) - Easy way to make elements in your iOS app twinkle.
@@ -1306,6 +1307,13 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Tabman ★284](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController ★617](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.
 
+#### Template
+[back to top](#readme) 
+
+* [SwiftCssParser ★177](https://github.com/100mango/SwiftCssParser) - Extensible CSS Parser
+* [TemplateKit ★102](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces.
+* [Themes ★52](https://github.com/onmyway133/Themes) - Theme management
+
 #### TextField
 [back to top](#readme) 
 
@@ -1457,7 +1465,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftVideoBackground ★65](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
 ---
 <p align="center">
-	This list is a copy of <a href="matteocrippa/awesome-swift">matteocrippa/awesome-swift</a> with ranks
+	This list is a copy of <a href="http://github.com/matteocrippa/awesome-swift">matteocrippa/awesome-swift</a> with ranks
 </p>
 
 <script>

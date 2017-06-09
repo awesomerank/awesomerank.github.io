@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="stevemao/awesome-git-addons">stevemao/awesome-git-addons</a> with ranks
+	This list is a copy of <a href="http://github.com/stevemao/awesome-git-addons">stevemao/awesome-git-addons</a> with ranks
 </p>
 ---
 # Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -1526,7 +1526,7 @@ Line 1 will be cropped at 100 characters. All other lines will be wrapped after 
 To the extent possible under law, [Steve Mao](https://github.com/stevemao) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="stevemao/awesome-git-addons">stevemao/awesome-git-addons</a> with ranks
+	This list is a copy of <a href="http://github.com/stevemao/awesome-git-addons">stevemao/awesome-git-addons</a> with ranks
 </p>
 
 <script>

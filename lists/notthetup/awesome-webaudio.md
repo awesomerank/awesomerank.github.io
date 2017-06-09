@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="notthetup/awesome-webaudio">notthetup/awesome-webaudio</a> with ranks
+	This list is a copy of <a href="http://github.com/notthetup/awesome-webaudio">notthetup/awesome-webaudio</a> with ranks
 </p>
 ---
 # Awesome WebAudio
@@ -109,7 +109,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 To the extent possible under law, [Chinmay Pendharkar](https://chinmay.audio/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="notthetup/awesome-webaudio">notthetup/awesome-webaudio</a> with ranks
+	This list is a copy of <a href="http://github.com/notthetup/awesome-webaudio">notthetup/awesome-webaudio</a> with ranks
 </p>
 
 <script>

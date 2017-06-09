@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="herrbischoff/awesome-osx-command-line">herrbischoff/awesome-osx-command-line</a> with ranks
+	This list is a copy of <a href="http://github.com/herrbischoff/awesome-osx-command-line">herrbischoff/awesome-osx-command-line</a> with ranks
 </p>
 ---
 <h1><img src="https://cdn.rawgit.com/herrbischoff/awesome-osx-command-line/master/assets/logo.svg" alt="Awesome OS X Command Line" width="600"></h1>
@@ -1734,7 +1734,7 @@ chsh -s $(brew --prefix)/bin/zsh
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ---
 <p align="center">
-	This list is a copy of <a href="herrbischoff/awesome-osx-command-line">herrbischoff/awesome-osx-command-line</a> with ranks
+	This list is a copy of <a href="http://github.com/herrbischoff/awesome-osx-command-line">herrbischoff/awesome-osx-command-line</a> with ranks
 </p>
 
 <script>

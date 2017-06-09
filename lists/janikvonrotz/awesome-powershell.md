@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="janikvonrotz/awesome-powershell">janikvonrotz/awesome-powershell</a> with ranks
+	This list is a copy of <a href="http://github.com/janikvonrotz/awesome-powershell">janikvonrotz/awesome-powershell</a> with ranks
 </p>
 ---
 # Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -184,7 +184,7 @@ It includes a command-line shell and an associated scripting language.
 - [psInlineProgress ★18 ⏳1Y](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. 
 ---
 <p align="center">
-	This list is a copy of <a href="janikvonrotz/awesome-powershell">janikvonrotz/awesome-powershell</a> with ranks
+	This list is a copy of <a href="http://github.com/janikvonrotz/awesome-powershell">janikvonrotz/awesome-powershell</a> with ranks
 </p>
 
 <script>

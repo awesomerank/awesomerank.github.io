@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="vhpoet/awesome-ripple">vhpoet/awesome-ripple</a> with ranks
+	This list is a copy of <a href="http://github.com/vhpoet/awesome-ripple">vhpoet/awesome-ripple</a> with ranks
 </p>
 ---
 # Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -84,7 +84,7 @@ Pull requests are more then welcome.
 - [ripple-data-api ★40 ⏳1Y](https://github.com/ripple/ripple-data-api)
 - [ripple-vault-client](ripple-vault-client)
 - [federation-php ★9 ⏳3Y](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
-- [federation-python ★2 ⏳2Y](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
+- [federation-python ★2 ⏳3Y](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
 - [Ripple Rails ★3 ⏳4Y](https://github.com/singpolyma/ripple-rails)
 - [Ripple Gen ★18 ⏳4Y](https://github.com/CodeShark/RippleGen)
 - [Ripple Checkout ★6 ⏳3Y](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
@@ -140,7 +140,7 @@ Pull requests are more then welcome.
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="vhpoet/awesome-ripple">vhpoet/awesome-ripple</a> with ranks
+	This list is a copy of <a href="http://github.com/vhpoet/awesome-ripple">vhpoet/awesome-ripple</a> with ranks
 </p>
 
 <script>

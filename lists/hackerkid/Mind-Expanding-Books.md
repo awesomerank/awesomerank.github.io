@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="hackerkid/Mind-Expanding-Books">hackerkid/Mind-Expanding-Books</a> with ranks
+	This list is a copy of <a href="http://github.com/hackerkid/Mind-Expanding-Books">hackerkid/Mind-Expanding-Books</a> with ranks
 </p>
 ---
 # Mind Expanding Books
@@ -402,7 +402,7 @@ Ranked awesome lists, all in one place
 To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="hackerkid/Mind-Expanding-Books">hackerkid/Mind-Expanding-Books</a> with ranks
+	This list is a copy of <a href="http://github.com/hackerkid/Mind-Expanding-Books">hackerkid/Mind-Expanding-Books</a> with ranks
 </p>
 
 <script>

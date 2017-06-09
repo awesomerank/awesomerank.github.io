@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="brunopulis/awesome-a11y">brunopulis/awesome-a11y</a> with ranks
+	This list is a copy of <a href="http://github.com/brunopulis/awesome-a11y">brunopulis/awesome-a11y</a> with ranks
 </p>
 ---
 # Awesome Accessibility
@@ -280,7 +280,7 @@ You want to contribute to this project? [Please follow these recommendations](ht
 1. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox ★646](https://github.com/afonsopacifer/awesome-flexbox).
 ---
 <p align="center">
-	This list is a copy of <a href="brunopulis/awesome-a11y">brunopulis/awesome-a11y</a> with ranks
+	This list is a copy of <a href="http://github.com/brunopulis/awesome-a11y">brunopulis/awesome-a11y</a> with ranks
 </p>
 
 <script>

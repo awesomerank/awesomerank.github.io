@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="awesome-spark/awesome-spark">awesome-spark/awesome-spark</a> with ranks
+	This list is a copy of <a href="http://github.com/awesome-spark/awesome-spark">awesome-spark/awesome-spark</a> with ranks
 </p>
 ---
 [<img src="https://cdn.rawgit.com/awesome-spark/awesome-spark/f78a16db/spark-logo-trademark.svg" align="right">](https://spark.apache.org/)
@@ -210,7 +210,7 @@ Apache Spark, Spark, Apache, and the Spark logo are <a href="https://www.apache.
 Inspired by [sindresorhus/awesome ★59088](https://github.com/sindresorhus/awesome).
 ---
 <p align="center">
-	This list is a copy of <a href="awesome-spark/awesome-spark">awesome-spark/awesome-spark</a> with ranks
+	This list is a copy of <a href="http://github.com/awesome-spark/awesome-spark">awesome-spark/awesome-spark</a> with ranks
 </p>
 
 <script>

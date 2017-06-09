@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ramitsurana/awesome-kubernetes">ramitsurana/awesome-kubernetes</a> with ranks
+	This list is a copy of <a href="http://github.com/ramitsurana/awesome-kubernetes">ramitsurana/awesome-kubernetes</a> with ranks
 </p>
 ---
 Awesome-Kubernetes
@@ -680,7 +680,7 @@ License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/InteractiveResource" property="dct:title" rel="dct:type">awesome-kubernetes</span> by <a xmlns:cc="http://creativecommons.org" href="http://www.linkedin.com/in/ramitsurana" property="cc:attributionName" rel="cc:attributionURL">Ramit Surana</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
 ---
 <p align="center">
-	This list is a copy of <a href="ramitsurana/awesome-kubernetes">ramitsurana/awesome-kubernetes</a> with ranks
+	This list is a copy of <a href="http://github.com/ramitsurana/awesome-kubernetes">ramitsurana/awesome-kubernetes</a> with ranks
 </p>
 
 <script>

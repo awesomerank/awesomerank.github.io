@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="mhinz/vim-galore">mhinz/vim-galore</a> with ranks
+	This list is a copy of <a href="http://github.com/mhinz/vim-galore">mhinz/vim-galore</a> with ranks
 </p>
 ---
 <div align='center'>
@@ -2725,7 +2725,7 @@ Here's a list of commonly used colorschemes:
 
 ---
 <p align="center">
-	This list is a copy of <a href="mhinz/vim-galore">mhinz/vim-galore</a> with ranks
+	This list is a copy of <a href="http://github.com/mhinz/vim-galore">mhinz/vim-galore</a> with ranks
 </p>
 
 <script>

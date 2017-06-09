@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks
+	This list is a copy of <a href="http://github.com/TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks
 </p>
 ---
 # Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -82,7 +82,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Push Notifications ★872](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
 ---
 <p align="center">
-	This list is a copy of <a href="TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks
+	This list is a copy of <a href="http://github.com/TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="qazbnm456/awesome-web-security">qazbnm456/awesome-web-security</a> with ranks
+	This list is a copy of <a href="http://github.com/qazbnm456/awesome-web-security">qazbnm456/awesome-web-security</a> with ranks
 </p>
 ---
 # Awesome Web Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -388,7 +388,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 To the extent possible under law, [@qazbnm456](https://qazbnm456.github.io/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="qazbnm456/awesome-web-security">qazbnm456/awesome-web-security</a> with ranks
+	This list is a copy of <a href="http://github.com/qazbnm456/awesome-web-security">qazbnm456/awesome-web-security</a> with ranks
 </p>
 
 <script>

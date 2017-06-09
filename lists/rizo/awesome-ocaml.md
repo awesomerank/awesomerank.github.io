@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks
+	This list is a copy of <a href="http://github.com/rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks
 </p>
 ---
 Awesome OCaml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -478,7 +478,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 _Inspired by awesome projects line. Discover [more awesomeness ★18868](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
 ---
 <p align="center">
-	This list is a copy of <a href="rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks
+	This list is a copy of <a href="http://github.com/rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks
 </p>
 
 <script>

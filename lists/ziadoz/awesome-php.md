@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ziadoz/awesome-php">ziadoz/awesome-php</a> with ranks
+	This list is a copy of <a href="http://github.com/ziadoz/awesome-php">ziadoz/awesome-php</a> with ranks
 </p>
 ---
 # Awesome PHP [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php)
@@ -996,7 +996,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
 ---
 <p align="center">
-	This list is a copy of <a href="ziadoz/awesome-php">ziadoz/awesome-php</a> with ranks
+	This list is a copy of <a href="http://github.com/ziadoz/awesome-php">ziadoz/awesome-php</a> with ranks
 </p>
 
 <script>

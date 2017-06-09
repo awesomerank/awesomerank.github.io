@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="hangtwenty/dive-into-machine-learning">hangtwenty/dive-into-machine-learning</a> with ranks
+	This list is a copy of <a href="http://github.com/hangtwenty/dive-into-machine-learning">hangtwenty/dive-into-machine-learning</a> with ranks
 </p>
 ---
 # Dive into Machine Learning [![Creative Commons License](http://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -364,7 +364,7 @@ Here are some other guides to Machine Learning. They can be alternatives or comp
 * [Your guide here]
 ---
 <p align="center">
-	This list is a copy of <a href="hangtwenty/dive-into-machine-learning">hangtwenty/dive-into-machine-learning</a> with ranks
+	This list is a copy of <a href="http://github.com/hangtwenty/dive-into-machine-learning">hangtwenty/dive-into-machine-learning</a> with ranks
 </p>
 
 <script>

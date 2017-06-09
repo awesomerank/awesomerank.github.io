@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="jjaderg/awesome-postcss">jjaderg/awesome-postcss</a> with ranks
+	This list is a copy of <a href="http://github.com/jjaderg/awesome-postcss">jjaderg/awesome-postcss</a> with ranks
 </p>
 ---
 # Awesome PostCSS 
@@ -166,7 +166,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) © [Jader Gomes](https://github.com/jjaderg)
 ---
 <p align="center">
-	This list is a copy of <a href="jjaderg/awesome-postcss">jjaderg/awesome-postcss</a> with ranks
+	This list is a copy of <a href="http://github.com/jjaderg/awesome-postcss">jjaderg/awesome-postcss</a> with ranks
 </p>
 
 <script>

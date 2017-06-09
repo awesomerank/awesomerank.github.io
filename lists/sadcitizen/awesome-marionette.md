@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sadcitizen/awesome-marionette">sadcitizen/awesome-marionette</a> with ranks
+	This list is a copy of <a href="http://github.com/sadcitizen/awesome-marionette">sadcitizen/awesome-marionette</a> with ranks
 </p>
 ---
 # Awesome Marionette.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -119,7 +119,7 @@ Ranked awesome lists, all in one place
 - [Orchestra ★26](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework
 ---
 <p align="center">
-	This list is a copy of <a href="sadcitizen/awesome-marionette">sadcitizen/awesome-marionette</a> with ranks
+	This list is a copy of <a href="http://github.com/sadcitizen/awesome-marionette">sadcitizen/awesome-marionette</a> with ranks
 </p>
 
 <script>

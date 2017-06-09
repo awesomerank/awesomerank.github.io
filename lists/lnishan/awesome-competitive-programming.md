@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
+	This list is a copy of <a href="http://github.com/lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
 </p>
 ---
 # Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -405,7 +405,7 @@ Learn helpful tips, tutorials and insights from these people :)
 Awesome Competitive Programming is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 ---
 <p align="center">
-	This list is a copy of <a href="lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
+	This list is a copy of <a href="http://github.com/lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
 </p>
 
 <script>

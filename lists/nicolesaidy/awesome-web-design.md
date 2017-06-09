@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="nicolesaidy/awesome-web-design">nicolesaidy/awesome-web-design</a> with ranks
+	This list is a copy of <a href="http://github.com/nicolesaidy/awesome-web-design">nicolesaidy/awesome-web-design</a> with ranks
 </p>
 ---
 # Awesome Web Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -138,7 +138,7 @@ Ranked awesome lists, all in one place
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="nicolesaidy/awesome-web-design">nicolesaidy/awesome-web-design</a> with ranks
+	This list is a copy of <a href="http://github.com/nicolesaidy/awesome-web-design">nicolesaidy/awesome-web-design</a> with ranks
 </p>
 
 <script>

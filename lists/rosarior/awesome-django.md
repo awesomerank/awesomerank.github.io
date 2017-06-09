@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="rosarior/awesome-django">rosarior/awesome-django</a> with ranks
+	This list is a copy of <a href="http://github.com/rosarior/awesome-django">rosarior/awesome-django</a> with ranks
 </p>
 ---
 # <a href="http://awesome-django.com"><img src="https://raw.githubusercontent.com/rosarior/awesome-django/gh-pages/images/logo-small.png" align="absmiddle"/> Awesome Django</a>
@@ -657,7 +657,7 @@ Just fork and send a pull request with your awesome Django apps, projects or res
 By contributing you agree to abide by the Code of Merit.
 ---
 <p align="center">
-	This list is a copy of <a href="rosarior/awesome-django">rosarior/awesome-django</a> with ranks
+	This list is a copy of <a href="http://github.com/rosarior/awesome-django">rosarior/awesome-django</a> with ranks
 </p>
 
 <script>

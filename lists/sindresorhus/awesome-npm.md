@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sindresorhus/awesome-npm">sindresorhus/awesome-npm</a> with ranks
+	This list is a copy of <a href="http://github.com/sindresorhus/awesome-npm">sindresorhus/awesome-npm</a> with ranks
 </p>
 ---
 # awesome npm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
@@ -337,7 +337,7 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="sindresorhus/awesome-npm">sindresorhus/awesome-npm</a> with ranks
+	This list is a copy of <a href="http://github.com/sindresorhus/awesome-npm">sindresorhus/awesome-npm</a> with ranks
 </p>
 
 <script>

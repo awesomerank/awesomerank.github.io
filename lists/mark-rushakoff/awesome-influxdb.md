@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="mark-rushakoff/awesome-influxdb">mark-rushakoff/awesome-influxdb</a> with ranks
+	This list is a copy of <a href="http://github.com/mark-rushakoff/awesome-influxdb">mark-rushakoff/awesome-influxdb</a> with ranks
 </p>
 ---
 # awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -205,7 +205,7 @@ Projects that don't seem to fit in any other category.
 To the extent possible under law, the authors and contributors have waived all copyright and related or neighboring rights to awesome-influxdb.
 ---
 <p align="center">
-	This list is a copy of <a href="mark-rushakoff/awesome-influxdb">mark-rushakoff/awesome-influxdb</a> with ranks
+	This list is a copy of <a href="http://github.com/mark-rushakoff/awesome-influxdb">mark-rushakoff/awesome-influxdb</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="AllThingsSmitty/css-protips">AllThingsSmitty/css-protips</a> with ranks
+	This list is a copy of <a href="http://github.com/AllThingsSmitty/css-protips">AllThingsSmitty/css-protips</a> with ranks
 </p>
 ---
 <p align="center">
@@ -535,7 +535,7 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 * [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
 ---
 <p align="center">
-	This list is a copy of <a href="AllThingsSmitty/css-protips">AllThingsSmitty/css-protips</a> with ranks
+	This list is a copy of <a href="http://github.com/AllThingsSmitty/css-protips">AllThingsSmitty/css-protips</a> with ranks
 </p>
 
 <script>

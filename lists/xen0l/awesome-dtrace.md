@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="xen0l/awesome-dtrace">xen0l/awesome-dtrace</a> with ranks
+	This list is a copy of <a href="http://github.com/xen0l/awesome-dtrace">xen0l/awesome-dtrace</a> with ranks
 </p>
 ---
 # Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -200,7 +200,7 @@ List of software with DTrace support.
 Contributions are more than welcome! Please see [contribution guidelines](https://github.com/xen0l/awesome-dtrace/blob/master/CONTRIBUTING.md) first.
 ---
 <p align="center">
-	This list is a copy of <a href="xen0l/awesome-dtrace">xen0l/awesome-dtrace</a> with ranks
+	This list is a copy of <a href="http://github.com/xen0l/awesome-dtrace">xen0l/awesome-dtrace</a> with ranks
 </p>
 
 <script>

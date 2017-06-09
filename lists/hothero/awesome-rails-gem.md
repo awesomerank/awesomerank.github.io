@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="hothero/awesome-rails-gem">hothero/awesome-rails-gem</a> with ranks
+	This list is a copy of <a href="http://github.com/hothero/awesome-rails-gem">hothero/awesome-rails-gem</a> with ranks
 </p>
 ---
 # Awesome Rails Gem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -238,7 +238,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 Contributions welcome! Read the [contribution guidelines](https://github.com/hothero/awesome-rails-gem/blob/master/contributing.md) first.
 ---
 <p align="center">
-	This list is a copy of <a href="hothero/awesome-rails-gem">hothero/awesome-rails-gem</a> with ranks
+	This list is a copy of <a href="http://github.com/hothero/awesome-rails-gem">hothero/awesome-rails-gem</a> with ranks
 </p>
 
 <script>

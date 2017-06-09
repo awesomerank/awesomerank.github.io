@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sdnds-tw/awesome-sdn">sdnds-tw/awesome-sdn</a> with ranks
+	This list is a copy of <a href="http://github.com/sdnds-tw/awesome-sdn">sdnds-tw/awesome-sdn</a> with ranks
 </p>
 ---
 # Awesome SDN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sdnds-tw/awesome-sdn.svg?branch=master)](https://travis-ci.org/sdnds-tw/awesome-sdn)
@@ -156,7 +156,7 @@ protocol, based on Twisted.
 - [A Guided Tour of Data-Center Networking](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40404.pdf)
 - [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)---
 <p align="center">
-	This list is a copy of <a href="sdnds-tw/awesome-sdn">sdnds-tw/awesome-sdn</a> with ranks
+	This list is a copy of <a href="http://github.com/sdnds-tw/awesome-sdn">sdnds-tw/awesome-sdn</a> with ranks
 </p>
 
 <script>

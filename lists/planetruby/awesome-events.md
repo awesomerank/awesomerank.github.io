@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="planetruby/awesome-events">planetruby/awesome-events</a> with ranks
+	This list is a copy of <a href="http://github.com/planetruby/awesome-events">planetruby/awesome-events</a> with ranks
 </p>
 ---
 Awesome Series @ Planet Ruby
@@ -939,7 +939,7 @@ The awesome list is dedicated to the public domain. Use it as you please with no
 Send them along to the ruby-talk mailing list. Thanks!
 ---
 <p align="center">
-	This list is a copy of <a href="planetruby/awesome-events">planetruby/awesome-events</a> with ranks
+	This list is a copy of <a href="http://github.com/planetruby/awesome-events">planetruby/awesome-events</a> with ranks
 </p>
 
 <script>

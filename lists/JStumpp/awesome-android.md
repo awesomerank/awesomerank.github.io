@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="JStumpp/awesome-android">JStumpp/awesome-android</a> with ranks
+	This list is a copy of <a href="http://github.com/JStumpp/awesome-android">JStumpp/awesome-android</a> with ranks
 </p>
 ---
 ﻿# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -135,6 +135,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Audiogram ★100](https://github.com/alxrm/audiowave-progressbar) - Lightweight audiowave progressbar
 - [Bubbles for Android ★1125](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
 - [Litho (By Facebook) ★3360](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
+- [MultiViewAdapter ★118](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
 - [FadingActionBar ★2856 ⏳2Y](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
@@ -236,6 +237,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Realm ★7782](https://github.com/realm/realm-java) - The alternative to SQLite and ORMs: Simple, modern and fast! Object oriented API and multi platform support.
 - [Realm Asset Helper ★19](https://github.com/eggheadgames/android-realm-asset-helper) - Copies a realm database from the apk assets folder. Efficiently handles versioning of read-only realm databases.
 - [RestorableSQLiteDatabase ★15 ⏳1Y](https://github.com/yaa110/RestorableSQLiteDatabase) - A wrapper to replicate android's SQLiteDatabase with restoring capability.
+- [Nitrite Database ★29](https://github.com/dizitart/nitrite-database) - A NoSQL embedded document store for Android with MongoDb like API.
 
 #### ORM
 
@@ -431,7 +433,7 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness ★18868]
 Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/JStumpp/awesome-android/blob/master/contributing.md) first.
 ---
 <p align="center">
-	This list is a copy of <a href="JStumpp/awesome-android">JStumpp/awesome-android</a> with ranks
+	This list is a copy of <a href="http://github.com/JStumpp/awesome-android">JStumpp/awesome-android</a> with ranks
 </p>
 
 <script>

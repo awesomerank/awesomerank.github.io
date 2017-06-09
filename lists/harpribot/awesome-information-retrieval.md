@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="harpribot/awesome-information-retrieval">harpribot/awesome-information-retrieval</a> with ranks
+	This list is a copy of <a href="http://github.com/harpribot/awesome-information-retrieval">harpribot/awesome-information-retrieval</a> with ranks
 </p>
 ---
 # Awesome Information Retrieval [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -170,7 +170,7 @@ Please feel free to send me [pull requests](https://github.com/harpribot/awesome
 To the extent possible under law, [Harshal Priyadarshi](http://www.harshalpriyadarshi.com) and all the contributors have waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="harpribot/awesome-information-retrieval">harpribot/awesome-information-retrieval</a> with ranks
+	This list is a copy of <a href="http://github.com/harpribot/awesome-information-retrieval">harpribot/awesome-information-retrieval</a> with ranks
 </p>
 
 <script>

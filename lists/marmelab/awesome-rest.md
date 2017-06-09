@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="marmelab/awesome-rest">marmelab/awesome-rest</a> with ranks
+	This list is a copy of <a href="http://github.com/marmelab/awesome-rest">marmelab/awesome-rest</a> with ranks
 </p>
 ---
 # Awesome REST [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -241,7 +241,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 ---
 <p align="center">
-	This list is a copy of <a href="marmelab/awesome-rest">marmelab/awesome-rest</a> with ranks
+	This list is a copy of <a href="http://github.com/marmelab/awesome-rest">marmelab/awesome-rest</a> with ranks
 </p>
 
 <script>

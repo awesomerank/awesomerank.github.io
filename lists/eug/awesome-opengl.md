@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="eug/awesome-opengl">eug/awesome-opengl</a> with ranks
+	This list is a copy of <a href="http://github.com/eug/awesome-opengl">eug/awesome-opengl</a> with ranks
 </p>
 ---
 # awesome-opengl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -172,7 +172,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 Please see [CONTRIBUTING](https://github.com/eug/awesome-opengl/blob/master/CONTRIBUTING.md) for details.
 ---
 <p align="center">
-	This list is a copy of <a href="eug/awesome-opengl">eug/awesome-opengl</a> with ranks
+	This list is a copy of <a href="http://github.com/eug/awesome-opengl">eug/awesome-opengl</a> with ranks
 </p>
 
 <script>

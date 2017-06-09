@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sadcitizen/awesome-backbone">sadcitizen/awesome-backbone</a> with ranks
+	This list is a copy of <a href="http://github.com/sadcitizen/awesome-backbone">sadcitizen/awesome-backbone</a> with ranks
 </p>
 ---
 # Awesome Backbone.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -142,7 +142,7 @@ Ranked awesome lists, all in one place
 - [Backbone.BabySitter ★388](https://github.com/marionettejs/backbone.babysitter)
 - [Backbone.History.Polyfill ★1](https://github.com/FidelityInternational/BackboneHistoryPolyfill)---
 <p align="center">
-	This list is a copy of <a href="sadcitizen/awesome-backbone">sadcitizen/awesome-backbone</a> with ranks
+	This list is a copy of <a href="http://github.com/sadcitizen/awesome-backbone">sadcitizen/awesome-backbone</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
+	This list is a copy of <a href="http://github.com/JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
 </p>
 ---
 # Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -1195,7 +1195,7 @@ Ranked awesome lists, all in one place
 - [Learn Serverless - By Philipp Müns ★5](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Deprecated.
 ---
 <p align="center">
-	This list is a copy of <a href="JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
+	This list is a copy of <a href="http://github.com/JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
 </p>
 
 <script>

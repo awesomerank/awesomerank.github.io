@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="davisonio/awesome-gif">davisonio/awesome-gif</a> with ranks
+	This list is a copy of <a href="http://github.com/davisonio/awesome-gif">davisonio/awesome-gif</a> with ranks
 </p>
 ---
 # [Awesome GIF](https://davison.io/awesome-gif/) :sunglasses: [![](https://img.shields.io/travis/davisonio/awesome-gif.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-gif) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -432,7 +432,7 @@ Based on a [recovered list](https://github.com/sindresorhus/awesome/issues/872):
 - Copyright © 2015-2016 [Ismail Baaj](http://ismailbaaj.fr).
 ---
 <p align="center">
-	This list is a copy of <a href="davisonio/awesome-gif">davisonio/awesome-gif</a> with ranks
+	This list is a copy of <a href="http://github.com/davisonio/awesome-gif">davisonio/awesome-gif</a> with ranks
 </p>
 
 <script>

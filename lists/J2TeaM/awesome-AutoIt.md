@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="J2TeaM/awesome-AutoIt">J2TeaM/awesome-AutoIt</a> with ranks
+	This list is a copy of <a href="http://github.com/J2TeaM/awesome-AutoIt">J2TeaM/awesome-AutoIt</a> with ranks
 </p>
 ---
 # Awesome AutoIt
@@ -461,7 +461,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [[Back to Top](#awesome-autoit)]
 ---
 <p align="center">
-	This list is a copy of <a href="J2TeaM/awesome-AutoIt">J2TeaM/awesome-AutoIt</a> with ranks
+	This list is a copy of <a href="http://github.com/J2TeaM/awesome-AutoIt">J2TeaM/awesome-AutoIt</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="aviaryan/awesome-no-login-web-apps">aviaryan/awesome-no-login-web-apps</a> with ranks
+	This list is a copy of <a href="http://github.com/aviaryan/awesome-no-login-web-apps">aviaryan/awesome-no-login-web-apps</a> with ranks
 </p>
 ---
 # Awesome Web Apps (that work without login)
@@ -321,7 +321,7 @@ See [plotting graphs examples](https://www.wolframalpha.com/examples/PlottingAnd
 To the extent possible under law, [Avi Aryan](http://aviaryan.in) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="aviaryan/awesome-no-login-web-apps">aviaryan/awesome-no-login-web-apps</a> with ranks
+	This list is a copy of <a href="http://github.com/aviaryan/awesome-no-login-web-apps">aviaryan/awesome-no-login-web-apps</a> with ranks
 </p>
 
 <script>

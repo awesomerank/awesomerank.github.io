@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="addyosmani/critical-path-css-tools">addyosmani/critical-path-css-tools</a> with ranks
+	This list is a copy of <a href="http://github.com/addyosmani/critical-path-css-tools">addyosmani/critical-path-css-tools</a> with ranks
 </p>
 ---
 Critical-path (Above-the-fold) CSS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -87,7 +87,7 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ---
 <p align="center">
-	This list is a copy of <a href="addyosmani/critical-path-css-tools">addyosmani/critical-path-css-tools</a> with ranks
+	This list is a copy of <a href="http://github.com/addyosmani/critical-path-css-tools">addyosmani/critical-path-css-tools</a> with ranks
 </p>
 
 <script>

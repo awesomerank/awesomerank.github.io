@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="guipdutra/awesome-geek-podcasts">guipdutra/awesome-geek-podcasts</a> with ranks
+	This list is a copy of <a href="http://github.com/guipdutra/awesome-geek-podcasts">guipdutra/awesome-geek-podcasts</a> with ranks
 </p>
 ---
 ---
@@ -261,7 +261,7 @@ A curated list of podcasts we like to listen to.
 See [CONTRIBUTING](https://github.com/guipdutra/awesome-geek-podcasts/blob/master/CONTRIBUTING.md) for info on how to contribute to this list.
 ---
 <p align="center">
-	This list is a copy of <a href="guipdutra/awesome-geek-podcasts">guipdutra/awesome-geek-podcasts</a> with ranks
+	This list is a copy of <a href="http://github.com/guipdutra/awesome-geek-podcasts">guipdutra/awesome-geek-podcasts</a> with ranks
 </p>
 
 <script>

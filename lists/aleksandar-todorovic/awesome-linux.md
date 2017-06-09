@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="aleksandar-todorovic/awesome-linux">aleksandar-todorovic/awesome-linux</a> with ranks
+	This list is a copy of <a href="http://github.com/aleksandar-todorovic/awesome-linux">aleksandar-todorovic/awesome-linux</a> with ranks
 </p>
 ---
 <h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> Linux </h1>
@@ -413,7 +413,7 @@ Although its design is outdated, Linux.org is (probably) the most popular forum 
 This repository is licensed under the [Do What the Fuck You Want to Public License](http://www.wtfpl.net/). Its full content is located in the `LICENSE` file.
 ---
 <p align="center">
-	This list is a copy of <a href="aleksandar-todorovic/awesome-linux">aleksandar-todorovic/awesome-linux</a> with ranks
+	This list is a copy of <a href="http://github.com/aleksandar-todorovic/awesome-linux">aleksandar-todorovic/awesome-linux</a> with ranks
 </p>
 
 <script>

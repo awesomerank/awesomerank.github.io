@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="carpedm20/awesome-hacking">carpedm20/awesome-hacking</a> with ranks
+	This list is a copy of <a href="http://github.com/carpedm20/awesome-hacking">carpedm20/awesome-hacking</a> with ranks
 </p>
 ---
 # Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -224,7 +224,7 @@ For a list of free hacking books available for download, go [here ★723](https:
  * [SecTools](http://sectools.org/) - Top 125 Network Security Tools
 ---
 <p align="center">
-	This list is a copy of <a href="carpedm20/awesome-hacking">carpedm20/awesome-hacking</a> with ranks
+	This list is a copy of <a href="http://github.com/carpedm20/awesome-hacking">carpedm20/awesome-hacking</a> with ranks
 </p>
 
 <script>

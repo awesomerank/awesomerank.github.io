@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="wasabeef/awesome-android-ui">wasabeef/awesome-android-ui</a> with ranks
+	This list is a copy of <a href="http://github.com/wasabeef/awesome-android-ui">wasabeef/awesome-android-ui</a> with ranks
 </p>
 ---
 List of Android UI/UX Libraries
@@ -383,7 +383,7 @@ Name | License | Demo
 [Stepper Touch ★179](https://github.com/DanielMartinus/Stepper-Touch) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StepperTouch.gif" width="49%">
 [Konfetti ★348](https://github.com/DanielMartinus/konfetti) | [ISC](https://opensource.org/licenses/ISC) | <img src="/art/konfetti.gif">---
 <p align="center">
-	This list is a copy of <a href="wasabeef/awesome-android-ui">wasabeef/awesome-android-ui</a> with ranks
+	This list is a copy of <a href="http://github.com/wasabeef/awesome-android-ui">wasabeef/awesome-android-ui</a> with ranks
 </p>
 
 <script>

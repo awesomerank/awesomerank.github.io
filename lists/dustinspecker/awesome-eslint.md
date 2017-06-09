@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="dustinspecker/awesome-eslint">dustinspecker/awesome-eslint</a> with ranks
+	This list is a copy of <a href="http://github.com/dustinspecker/awesome-eslint">dustinspecker/awesome-eslint</a> with ranks
 </p>
 ---
 # Awesome ESLint [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -135,7 +135,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="dustinspecker/awesome-eslint">dustinspecker/awesome-eslint</a> with ranks
+	This list is a copy of <a href="http://github.com/dustinspecker/awesome-eslint">dustinspecker/awesome-eslint</a> with ranks
 </p>
 
 <script>

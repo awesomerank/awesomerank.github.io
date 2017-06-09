@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="aharris88/awesome-macos-screensavers">aharris88/awesome-macos-screensavers</a> with ranks
+	This list is a copy of <a href="http://github.com/aharris88/awesome-macos-screensavers">aharris88/awesome-macos-screensavers</a> with ranks
 </p>
 ---
 # Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -205,7 +205,7 @@ Free
 To the extent possible under law, [Adam Harris](https://twitter.com/adamCoder) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="aharris88/awesome-macos-screensavers">aharris88/awesome-macos-screensavers</a> with ranks
+	This list is a copy of <a href="http://github.com/aharris88/awesome-macos-screensavers">aharris88/awesome-macos-screensavers</a> with ranks
 </p>
 
 <script>

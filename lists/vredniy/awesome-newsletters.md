@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
+	This list is a copy of <a href="http://github.com/vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
 </p>
 ---
 # Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
@@ -299,7 +299,7 @@ every Sunday in the form of the DevOps newsletter.
 To the extent possible under law, [Dmitry Zudochkin](https://github.com/vredniy) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
+	This list is a copy of <a href="http://github.com/vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
 </p>
 
 <script>

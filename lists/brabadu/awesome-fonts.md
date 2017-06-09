@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="brabadu/awesome-fonts">brabadu/awesome-fonts</a> with ranks
+	This list is a copy of <a href="http://github.com/brabadu/awesome-fonts">brabadu/awesome-fonts</a> with ranks
 </p>
 ---
 # Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -169,7 +169,7 @@ A curated list of fonts and typography resources.
 Feel free to make a pull request. [Click here to read the guidelines](https://github.com/willianjusten/awesome-svg/blob/master/contributing.md).
 ---
 <p align="center">
-	This list is a copy of <a href="brabadu/awesome-fonts">brabadu/awesome-fonts</a> with ranks
+	This list is a copy of <a href="http://github.com/brabadu/awesome-fonts">brabadu/awesome-fonts</a> with ranks
 </p>
 
 <script>

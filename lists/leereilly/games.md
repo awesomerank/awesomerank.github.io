@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="leereilly/games">leereilly/games</a> with ranks
+	This list is a copy of <a href="http://github.com/leereilly/games">leereilly/games</a> with ranks
 </p>
 ---
 # Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
@@ -582,7 +582,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 ---
 <p align="center">
-	This list is a copy of <a href="leereilly/games">leereilly/games</a> with ranks
+	This list is a copy of <a href="http://github.com/leereilly/games">leereilly/games</a> with ranks
 </p>
 
 <script>

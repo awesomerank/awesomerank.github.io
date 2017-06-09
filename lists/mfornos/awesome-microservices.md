@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="mfornos/awesome-microservices">mfornos/awesome-microservices</a> with ranks
+	This list is a copy of <a href="http://github.com/mfornos/awesome-microservices">mfornos/awesome-microservices</a> with ranks
 </p>
 ---
 # Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -720,7 +720,7 @@ Feel free to [open an issue](https://github.com/mfornos/awesome-microservices/is
 :star2: Thank you!
 ---
 <p align="center">
-	This list is a copy of <a href="mfornos/awesome-microservices">mfornos/awesome-microservices</a> with ranks
+	This list is a copy of <a href="http://github.com/mfornos/awesome-microservices">mfornos/awesome-microservices</a> with ranks
 </p>
 
 <script>

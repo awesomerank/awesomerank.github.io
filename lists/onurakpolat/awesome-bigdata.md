@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="onurakpolat/awesome-bigdata">onurakpolat/awesome-bigdata</a> with ranks
+	This list is a copy of <a href="http://github.com/onurakpolat/awesome-bigdata">onurakpolat/awesome-bigdata</a> with ranks
 </p>
 ---
 # Awesome Big Data
@@ -701,7 +701,7 @@ for Data Analytics at Twitter.
 - Analytics [awesome-analytics ★689](https://github.com/onurakpolat/awesome-analytics).
 ---
 <p align="center">
-	This list is a copy of <a href="onurakpolat/awesome-bigdata">onurakpolat/awesome-bigdata</a> with ranks
+	This list is a copy of <a href="http://github.com/onurakpolat/awesome-bigdata">onurakpolat/awesome-bigdata</a> with ranks
 </p>
 
 <script>

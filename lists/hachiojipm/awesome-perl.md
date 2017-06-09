@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="hachiojipm/awesome-perl">hachiojipm/awesome-perl</a> with ranks
+	This list is a copy of <a href="http://github.com/hachiojipm/awesome-perl">hachiojipm/awesome-perl</a> with ranks
 </p>
 ---
 # Awesome Perl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -514,7 +514,7 @@ Other amazingly awesome lists can be found in:
 Please read [CONTRIBUTING.md](https://github.com/hachiojipm/awesome-perl/blob/master/CONTRIBUTING.md)
 ---
 <p align="center">
-	This list is a copy of <a href="hachiojipm/awesome-perl">hachiojipm/awesome-perl</a> with ranks
+	This list is a copy of <a href="http://github.com/hachiojipm/awesome-perl">hachiojipm/awesome-perl</a> with ranks
 </p>
 
 <script>

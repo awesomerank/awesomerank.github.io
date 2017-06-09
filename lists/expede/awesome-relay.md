@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="expede/awesome-relay">expede/awesome-relay</a> with ranks
+	This list is a copy of <a href="http://github.com/expede/awesome-relay">expede/awesome-relay</a> with ranks
 </p>
 ---
 # Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -130,7 +130,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 - [Writing Simple Unit Tests with Relay](https://medium.com/@mikaelberg/writing-simple-unit-tests-with-relay-707f19e90129) - An early first look at testing Relay. 
 ---
 <p align="center">
-	This list is a copy of <a href="expede/awesome-relay">expede/awesome-relay</a> with ranks
+	This list is a copy of <a href="http://github.com/expede/awesome-relay">expede/awesome-relay</a> with ranks
 </p>
 
 <script>

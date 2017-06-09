@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="qinwf/awesome-R">qinwf/awesome-R</a> with ranks
+	This list is a copy of <a href="http://github.com/qinwf/awesome-R">qinwf/awesome-R</a> with ranks
 </p>
 ---
 # Awesome R
@@ -608,7 +608,7 @@ Your contributions are always welcome!
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License - [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/legalcode)
 ---
 <p align="center">
-	This list is a copy of <a href="qinwf/awesome-R">qinwf/awesome-R</a> with ranks
+	This list is a copy of <a href="http://github.com/qinwf/awesome-R">qinwf/awesome-R</a> with ranks
 </p>
 
 <script>

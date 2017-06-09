@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sfischer13/awesome-frege">sfischer13/awesome-frege</a> with ranks
+	This list is a copy of <a href="http://github.com/sfischer13/awesome-frege">sfischer13/awesome-frege</a> with ranks
 </p>
 ---
 # Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -230,7 +230,7 @@ You might also like [awesome-haskell ★1088](https://github.com/krispo/awesome-
 To the extent possible under law, [Stefan Fischer](https://github.com/sfischer13) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="sfischer13/awesome-frege">sfischer13/awesome-frege</a> with ranks
+	This list is a copy of <a href="http://github.com/sfischer13/awesome-frege">sfischer13/awesome-frege</a> with ranks
 </p>
 
 <script>

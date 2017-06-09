@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="mmcgrana/services-engineering">mmcgrana/services-engineering</a> with ranks
+	This list is a copy of <a href="http://github.com/mmcgrana/services-engineering">mmcgrana/services-engineering</a> with ranks
 </p>
 ---
 ## Services Engineering Reading List
@@ -103,7 +103,7 @@ We welcome [suggestions](https://github.com/mmcgrana/services-engineering/blob/m
 * [Velocity](http://velocityconf.com/)
 ---
 <p align="center">
-	This list is a copy of <a href="mmcgrana/services-engineering">mmcgrana/services-engineering</a> with ranks
+	This list is a copy of <a href="http://github.com/mmcgrana/services-engineering">mmcgrana/services-engineering</a> with ranks
 </p>
 
 <script>

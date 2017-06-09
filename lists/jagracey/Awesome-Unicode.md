@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="jagracey/Awesome-Unicode">jagracey/Awesome-Unicode</a> with ranks
+	This list is a copy of <a href="http://github.com/jagracey/Awesome-Unicode">jagracey/Awesome-Unicode</a> with ranks
 </p>
 ---
 ![](https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg)
@@ -1093,7 +1093,7 @@ have waived all copyright and related or neighboring rights to this work. See th
 [license file](LICENSE) for details.
 ---
 <p align="center">
-	This list is a copy of <a href="jagracey/Awesome-Unicode">jagracey/Awesome-Unicode</a> with ranks
+	This list is a copy of <a href="http://github.com/jagracey/Awesome-Unicode">jagracey/Awesome-Unicode</a> with ranks
 </p>
 
 <script>

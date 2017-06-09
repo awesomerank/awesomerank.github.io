@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="kdabir/awesome-groovy">kdabir/awesome-groovy</a> with ranks
+	This list is a copy of <a href="http://github.com/kdabir/awesome-groovy">kdabir/awesome-groovy</a> with ranks
 </p>
 ---
 Awesome Groovy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -55,7 +55,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 
 ## Database
 * [Gmongo ★178 ⏳1Y](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
-* [Gstorm ★61](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
+* [Gstorm ★61 ⏳1Y](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
 * [Tayra ★133](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
 * [Groovy-liquibase ★72 ⏳1Y](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
 * [Effigy ★3 ⏳1Y](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework
@@ -181,7 +181,7 @@ If you are lazy to download the repo, an easy way is:
 To all the awesome-* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) and [this ★18868](https://github.com/bayandin/awesome-awesomeness).
 ---
 <p align="center">
-	This list is a copy of <a href="kdabir/awesome-groovy">kdabir/awesome-groovy</a> with ranks
+	This list is a copy of <a href="http://github.com/kdabir/awesome-groovy">kdabir/awesome-groovy</a> with ranks
 </p>
 
 <script>

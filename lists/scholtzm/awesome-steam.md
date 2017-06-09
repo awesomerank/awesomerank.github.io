@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="scholtzm/awesome-steam">scholtzm/awesome-steam</a> with ranks
+	This list is a copy of <a href="http://github.com/scholtzm/awesome-steam">scholtzm/awesome-steam</a> with ranks
 </p>
 ---
 # Awesome Steam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -187,7 +187,7 @@ The purpose of this document is to provide a quick overview over existing packag
 To the extent possible under law, the author and contributors of this text have waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="scholtzm/awesome-steam">scholtzm/awesome-steam</a> with ranks
+	This list is a copy of <a href="http://github.com/scholtzm/awesome-steam">scholtzm/awesome-steam</a> with ranks
 </p>
 
 <script>

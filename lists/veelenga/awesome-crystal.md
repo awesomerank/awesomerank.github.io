@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="veelenga/awesome-crystal">veelenga/awesome-crystal</a> with ranks
+	This list is a copy of <a href="http://github.com/veelenga/awesome-crystal">veelenga/awesome-crystal</a> with ranks
 </p>
 ---
 # Awesome Crystal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
@@ -561,7 +561,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-zsh ★15](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin
 ---
 <p align="center">
-	This list is a copy of <a href="veelenga/awesome-crystal">veelenga/awesome-crystal</a> with ranks
+	This list is a copy of <a href="http://github.com/veelenga/awesome-crystal">veelenga/awesome-crystal</a> with ranks
 </p>
 
 <script>

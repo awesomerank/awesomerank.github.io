@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ashishb/android-security-awesome">ashishb/android-security-awesome</a> with ranks
+	This list is a copy of <a href="http://github.com/ashishb/android-security-awesome">ashishb/android-security-awesome</a> with ranks
 </p>
 ---
 android-security-awesome [![Backers on Open Collective](https://opencollective.com/android-security-awesome/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/android-security-awesome/sponsors/badge.svg)](#sponsors) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -305,7 +305,7 @@ Become a sponsor and get your logo on our README on Github with a link to your s
 
 ---
 <p align="center">
-	This list is a copy of <a href="ashishb/android-security-awesome">ashishb/android-security-awesome</a> with ranks
+	This list is a copy of <a href="http://github.com/ashishb/android-security-awesome">ashishb/android-security-awesome</a> with ranks
 </p>
 
 <script>

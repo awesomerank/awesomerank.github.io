@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="iJackUA/awesome-vagrant">iJackUA/awesome-vagrant</a> with ranks
+	This list is a copy of <a href="http://github.com/iJackUA/awesome-vagrant">iJackUA/awesome-vagrant</a> with ranks
 </p>
 ---
 # Awesome Vagrant
@@ -111,7 +111,7 @@ for any IP address.
 To the extent possible under law, [Ievgen Kuzminov](http://stdout.in/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="iJackUA/awesome-vagrant">iJackUA/awesome-vagrant</a> with ranks
+	This list is a copy of <a href="http://github.com/iJackUA/awesome-vagrant">iJackUA/awesome-vagrant</a> with ranks
 </p>
 
 <script>

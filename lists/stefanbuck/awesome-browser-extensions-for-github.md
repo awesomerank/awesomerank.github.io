@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="stefanbuck/awesome-browser-extensions-for-github">stefanbuck/awesome-browser-extensions-for-github</a> with ranks
+	This list is a copy of <a href="http://github.com/stefanbuck/awesome-browser-extensions-for-github">stefanbuck/awesome-browser-extensions-for-github</a> with ranks
 </p>
 ---
 # Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -655,7 +655,7 @@ ZenHub is the first and only project management suite that works natively within
 </details>
 ---
 <p align="center">
-	This list is a copy of <a href="stefanbuck/awesome-browser-extensions-for-github">stefanbuck/awesome-browser-extensions-for-github</a> with ranks
+	This list is a copy of <a href="http://github.com/stefanbuck/awesome-browser-extensions-for-github">stefanbuck/awesome-browser-extensions-for-github</a> with ranks
 </p>
 
 <script>

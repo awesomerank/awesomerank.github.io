@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="chrissimpkins/codeface">chrissimpkins/codeface</a> with ranks
+	This list is a copy of <a href="http://github.com/chrissimpkins/codeface">chrissimpkins/codeface</a> with ranks
 </p>
 ---
 <img src="images/non-gallery/codeface-HR-new.png" alt="Codeface | Typefaces for source code beautification" width="790">
@@ -753,7 +753,7 @@ $ curl -OL https://github.com/chrissimpkins/codeface/releases/download/font-coll
 § The End
 ---
 <p align="center">
-	This list is a copy of <a href="chrissimpkins/codeface">chrissimpkins/codeface</a> with ranks
+	This list is a copy of <a href="http://github.com/chrissimpkins/codeface">chrissimpkins/codeface</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="wbkd/awesome-d3">wbkd/awesome-d3</a> with ranks
+	This list is a copy of <a href="http://github.com/wbkd/awesome-d3">wbkd/awesome-d3</a> with ranks
 </p>
 ---
 # Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -174,7 +174,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [Snippets for Sublime Text 2 ★12 ⏳3Y](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2)
 ---
 <p align="center">
-	This list is a copy of <a href="wbkd/awesome-d3">wbkd/awesome-d3</a> with ranks
+	This list is a copy of <a href="http://github.com/wbkd/awesome-d3">wbkd/awesome-d3</a> with ranks
 </p>
 
 <script>

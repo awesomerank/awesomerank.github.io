@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="viatsko/awesome-vscode">viatsko/awesome-vscode</a> with ranks
+	This list is a copy of <a href="http://github.com/viatsko/awesome-vscode">viatsko/awesome-vscode</a> with ranks
 </p>
 ---
 <br/>
@@ -428,7 +428,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/via
 To the extent possible under law, [Valerii Iatsko](https://viatsko.me) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="viatsko/awesome-vscode">viatsko/awesome-vscode</a> with ranks
+	This list is a copy of <a href="http://github.com/viatsko/awesome-vscode">viatsko/awesome-vscode</a> with ranks
 </p>
 
 <script>

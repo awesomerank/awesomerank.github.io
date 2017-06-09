@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="karlhorky/learn-to-program">karlhorky/learn-to-program</a> with ranks
+	This list is a copy of <a href="http://github.com/karlhorky/learn-to-program">karlhorky/learn-to-program</a> with ranks
 </p>
 ---
 # Learn to Program [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -185,7 +185,7 @@ To the extent possible under law, [Karl Horky](https://github.com/karlhorky) has
 In lieu of a formal styleguide, take care to maintain the existing style of this list.
 ---
 <p align="center">
-	This list is a copy of <a href="karlhorky/learn-to-program">karlhorky/learn-to-program</a> with ranks
+	This list is a copy of <a href="http://github.com/karlhorky/learn-to-program">karlhorky/learn-to-program</a> with ranks
 </p>
 
 <script>

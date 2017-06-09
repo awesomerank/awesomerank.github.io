@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="YerkoPalma/awesome-choo">YerkoPalma/awesome-choo</a> with ranks
+	This list is a copy of <a href="http://github.com/YerkoPalma/awesome-choo">YerkoPalma/awesome-choo</a> with ranks
 </p>
 ---
 # Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
@@ -124,7 +124,7 @@ Templates for [choo-cli ★51](https://github.com/trainyard/choo-cli)
 To the extent possible under law, [Yerko Palma](https://github.com/YerkoPalma) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="YerkoPalma/awesome-choo">YerkoPalma/awesome-choo</a> with ranks
+	This list is a copy of <a href="http://github.com/YerkoPalma/awesome-choo">YerkoPalma/awesome-choo</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="aleksandar-todorovic/awesome-c">aleksandar-todorovic/awesome-c</a> with ranks
+	This list is a copy of <a href="http://github.com/aleksandar-todorovic/awesome-c">aleksandar-todorovic/awesome-c</a> with ranks
 </p>
 ---
 # awesome-c [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][387]
@@ -945,7 +945,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [400]: https://github.com/liteserver/binn
 ---
 <p align="center">
-	This list is a copy of <a href="aleksandar-todorovic/awesome-c">aleksandar-todorovic/awesome-c</a> with ranks
+	This list is a copy of <a href="http://github.com/aleksandar-todorovic/awesome-c">aleksandar-todorovic/awesome-c</a> with ranks
 </p>
 
 <script>

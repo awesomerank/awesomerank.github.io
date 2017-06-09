@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="humiaozuzu/awesome-flask">humiaozuzu/awesome-flask</a> with ranks
+	This list is a copy of <a href="http://github.com/humiaozuzu/awesome-flask">humiaozuzu/awesome-flask</a> with ranks
 </p>
 ---
 Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -227,7 +227,7 @@ Plugins
     - [Flask-Styleguide ★40 ⏳1Y](https://github.com/vitalk/flask-styleguide) - A living Styleguide for your Flask application
 ---
 <p align="center">
-	This list is a copy of <a href="humiaozuzu/awesome-flask">humiaozuzu/awesome-flask</a> with ranks
+	This list is a copy of <a href="http://github.com/humiaozuzu/awesome-flask">humiaozuzu/awesome-flask</a> with ranks
 </p>
 
 <script>

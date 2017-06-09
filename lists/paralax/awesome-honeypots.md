@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="paralax/awesome-honeypots">paralax/awesome-honeypots</a> with ranks
+	This list is a copy of <a href="http://github.com/paralax/awesome-honeypots">paralax/awesome-honeypots</a> with ranks
 </p>
 ---
 # Awesome Honeypots  
@@ -445,7 +445,7 @@ the honeyd daemon and generate configuration files
     - [vEYE](http://link.springer.com/article/10.1007%2Fs10115-008-0137-3) - behavioral footprinting for self-propagating worm detection and profiling.
 ---
 <p align="center">
-	This list is a copy of <a href="paralax/awesome-honeypots">paralax/awesome-honeypots</a> with ranks
+	This list is a copy of <a href="http://github.com/paralax/awesome-honeypots">paralax/awesome-honeypots</a> with ranks
 </p>
 
 <script>

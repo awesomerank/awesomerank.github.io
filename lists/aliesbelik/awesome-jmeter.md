@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="aliesbelik/awesome-jmeter">aliesbelik/awesome-jmeter</a> with ranks
+	This list is a copy of <a href="http://github.com/aliesbelik/awesome-jmeter">aliesbelik/awesome-jmeter</a> with ranks
 </p>
 ---
 # Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -277,7 +277,7 @@ Please take a look at the [contribution guidelines](https://github.com/aliesbeli
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 ---
 <p align="center">
-	This list is a copy of <a href="aliesbelik/awesome-jmeter">aliesbelik/awesome-jmeter</a> with ranks
+	This list is a copy of <a href="http://github.com/aliesbelik/awesome-jmeter">aliesbelik/awesome-jmeter</a> with ranks
 </p>
 
 <script>

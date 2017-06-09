@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="RichardLitt/awesome-conferences">RichardLitt/awesome-conferences</a> with ranks
+	This list is a copy of <a href="http://github.com/RichardLitt/awesome-conferences">RichardLitt/awesome-conferences</a> with ranks
 </p>
 ---
 # Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -405,7 +405,7 @@ Please do! Check out the [Contributing](https://github.com/RichardLitt/awesome-c
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="RichardLitt/awesome-conferences">RichardLitt/awesome-conferences</a> with ranks
+	This list is a copy of <a href="http://github.com/RichardLitt/awesome-conferences">RichardLitt/awesome-conferences</a> with ranks
 </p>
 
 <script>

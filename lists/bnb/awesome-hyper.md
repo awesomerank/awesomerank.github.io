@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="bnb/awesome-hyper">bnb/awesome-hyper</a> with ranks
+	This list is a copy of <a href="http://github.com/bnb/awesome-hyper">bnb/awesome-hyper</a> with ranks
 </p>
 ---
 # Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
@@ -232,7 +232,7 @@ Know of another really awesome theme? [Get it on awesome-hyper!](https://github.
 [⬆ Back to top](#contents)
 ---
 <p align="center">
-	This list is a copy of <a href="bnb/awesome-hyper">bnb/awesome-hyper</a> with ranks
+	This list is a copy of <a href="http://github.com/bnb/awesome-hyper">bnb/awesome-hyper</a> with ranks
 </p>
 
 <script>

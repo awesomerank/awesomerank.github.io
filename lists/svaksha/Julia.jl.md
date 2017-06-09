@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="svaksha/Julia.jl">svaksha/Julia.jl</a> with ranks
+	This list is a copy of <a href="http://github.com/svaksha/Julia.jl">svaksha/Julia.jl</a> with ranks
 </p>
 ---
 # Julia.jl
@@ -94,7 +94,7 @@ On a scale of 1 to 5 (1=lowest,..5=highest), please rank your package for,
 5. For those unable to use git, create a github account, then fork the `Julia.jl` repo on the user interface. Then edit the page by [clicking on the "pencil" icon on the markdown page](https://help.github.com/articles/editing-files-in-your-repository), then click on save and submit a PR. Github does this [automatically in 8 steps](https://help.github.com/articles/editing-files-in-another-user-s-repository).
 ---
 <p align="center">
-	This list is a copy of <a href="svaksha/Julia.jl">svaksha/Julia.jl</a> with ranks
+	This list is a copy of <a href="http://github.com/svaksha/Julia.jl">svaksha/Julia.jl</a> with ranks
 </p>
 
 <script>

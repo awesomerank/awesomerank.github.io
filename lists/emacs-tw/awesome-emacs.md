@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="emacs-tw/awesome-emacs">emacs-tw/awesome-emacs</a> with ranks
+	This list is a copy of <a href="http://github.com/emacs-tw/awesome-emacs">emacs-tw/awesome-emacs</a> with ranks
 </p>
 ---
 * Awesome Emacs
@@ -824,7 +824,7 @@ A curated list of awesome lists can be found at [[https://awesome.re][awesome.re
 To the extent possible under law, [[https://github.com/emacs-tw][emacs.tw]] has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="emacs-tw/awesome-emacs">emacs-tw/awesome-emacs</a> with ranks
+	This list is a copy of <a href="http://github.com/emacs-tw/awesome-emacs">emacs-tw/awesome-emacs</a> with ranks
 </p>
 
 <script>

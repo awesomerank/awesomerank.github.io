@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="d3viant0ne/awesome-rethinkdb">d3viant0ne/awesome-rethinkdb</a> with ranks
+	This list is a copy of <a href="http://github.com/d3viant0ne/awesome-rethinkdb">d3viant0ne/awesome-rethinkdb</a> with ranks
 </p>
 ---
 <h3 align="center">
@@ -256,7 +256,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="d3viant0ne/awesome-rethinkdb">d3viant0ne/awesome-rethinkdb</a> with ranks
+	This list is a copy of <a href="http://github.com/d3viant0ne/awesome-rethinkdb">d3viant0ne/awesome-rethinkdb</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="cjwirth/awesome-ios-ui">cjwirth/awesome-ios-ui</a> with ranks
+	This list is a copy of <a href="http://github.com/cjwirth/awesome-ios-ui">cjwirth/awesome-ios-ui</a> with ranks
 </p>
 ---
 awesome-ios-ui [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -203,7 +203,7 @@ Repo | Demo
 [Unknown]: https://github.com/shu223/AnimatedTransitionGallery/issues/5
 ---
 <p align="center">
-	This list is a copy of <a href="cjwirth/awesome-ios-ui">cjwirth/awesome-ios-ui</a> with ranks
+	This list is a copy of <a href="http://github.com/cjwirth/awesome-ios-ui">cjwirth/awesome-ios-ui</a> with ranks
 </p>
 
 <script>

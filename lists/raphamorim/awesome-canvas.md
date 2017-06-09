@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="raphamorim/awesome-canvas">raphamorim/awesome-canvas</a> with ranks
+	This list is a copy of <a href="http://github.com/raphamorim/awesome-canvas">raphamorim/awesome-canvas</a> with ranks
 </p>
 ---
 # Awesome Canvas
@@ -157,7 +157,7 @@ Where to discover more about Canvas.
 The content of this project itself is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/us/deed.en_US).
 ---
 <p align="center">
-	This list is a copy of <a href="raphamorim/awesome-canvas">raphamorim/awesome-canvas</a> with ranks
+	This list is a copy of <a href="http://github.com/raphamorim/awesome-canvas">raphamorim/awesome-canvas</a> with ranks
 </p>
 
 <script>

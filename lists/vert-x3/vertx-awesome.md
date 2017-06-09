@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="vert-x3/vertx-awesome">vert-x3/vertx-awesome</a> with ranks
+	This list is a copy of <a href="http://github.com/vert-x3/vertx-awesome">vert-x3/vertx-awesome</a> with ranks
 </p>
 ---
 # Awesome Vert.x [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -95,6 +95,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 * Server-Sent Events
   * [jEaSSE ★22](https://github.com/mariomac/jeasse) - Java Easy SSE. A simple, lightweight implementation of SSE.
+  * [vertx-sse ★6](https://github.com/aesteve/vertx-sse) - Vert.x SSE implementation + event-bus SSE bridge.
 
 * Mail
   * [SMTP ★15](https://github.com/vert-x3/vertx-mail-client) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Async SMTP client.
@@ -317,7 +318,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 Contributions welcome! Read the [contribution guidelines](https://github.com/vert-x3/vertx-awesome/blob/master/CONTRIBUTING.md) first.
 ---
 <p align="center">
-	This list is a copy of <a href="vert-x3/vertx-awesome">vert-x3/vertx-awesome</a> with ranks
+	This list is a copy of <a href="http://github.com/vert-x3/vertx-awesome">vert-x3/vertx-awesome</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="tayllan/awesome-algorithms">tayllan/awesome-algorithms</a> with ranks
+	This list is a copy of <a href="http://github.com/tayllan/awesome-algorithms">tayllan/awesome-algorithms</a> with ranks
 </p>
 ---
 # Awesome Algorithms
@@ -168,7 +168,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ---
 <p align="center">
-	This list is a copy of <a href="tayllan/awesome-algorithms">tayllan/awesome-algorithms</a> with ranks
+	This list is a copy of <a href="http://github.com/tayllan/awesome-algorithms">tayllan/awesome-algorithms</a> with ranks
 </p>
 
 <script>

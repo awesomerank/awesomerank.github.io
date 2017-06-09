@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sjfricke/awesome-webgl">sjfricke/awesome-webgl</a> with ranks
+	This list is a copy of <a href="http://github.com/sjfricke/awesome-webgl">sjfricke/awesome-webgl</a> with ranks
 </p>
 ---
 # Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -223,6 +223,7 @@ Processing Unit (GPU).
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
+* [xeogl](http://xeogl.org/) - data-driven 3D visualization engine on WebGL.
 * [Whitestorm.js](https://whsjs.io/) - Framework for developing 3D web apps with physics.
 
 ## Community
@@ -260,7 +261,7 @@ Travis CI testing automation thanks to [awesome_bot ★344](https://github.com/d
 To the extent possible under law, [Spencer Fricke](https://github.com/sjfricke) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="sjfricke/awesome-webgl">sjfricke/awesome-webgl</a> with ranks
+	This list is a copy of <a href="http://github.com/sjfricke/awesome-webgl">sjfricke/awesome-webgl</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="briatte/awesome-network-analysis">briatte/awesome-network-analysis</a> with ranks
+	This list is a copy of <a href="http://github.com/briatte/awesome-network-analysis">briatte/awesome-network-analysis</a> with ranks
 </p>
 ---
 # Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/15478/briatte/awesome-network-analysis.svg)](https://zenodo.org/badge/latestdoi/15478/briatte/awesome-network-analysis)
@@ -871,7 +871,7 @@ To the extent possible under law, the authors of this list – by chronological 
 Thanks to [Robert J. Ackland](https://github.com/rjackland), [Marc Flandreau](http://graduateinstitute.ch/directory/_/people/flandreau), [Eiko Fried](http://eiko-fried.com/), [Wouter de Nooy](https://www.uva.nl/over-de-uva/organisatie/medewerkers/content/n/o/w.denooy/w.denooy.html), [Katya Ognyanova](http://kateto.net/), [Camille Roth](http://camille.roth.free.fr/), [Cosma Shalizi](http://www.stat.cmu.edu/~cshalizi/), [Tom A.B. Snijders](https://www.stats.ox.ac.uk/~snijders/) and [Tim A. Wheeler](https://github.com/tawheeler), who helped locating some of the awesome resources featured in this list.
 ---
 <p align="center">
-	This list is a copy of <a href="briatte/awesome-network-analysis">briatte/awesome-network-analysis</a> with ranks
+	This list is a copy of <a href="http://github.com/briatte/awesome-network-analysis">briatte/awesome-network-analysis</a> with ranks
 </p>
 
 <script>

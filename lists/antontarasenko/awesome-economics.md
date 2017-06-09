@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="antontarasenko/awesome-economics">antontarasenko/awesome-economics</a> with ranks
+	This list is a copy of <a href="http://github.com/antontarasenko/awesome-economics">antontarasenko/awesome-economics</a> with ranks
 </p>
 ---
 # Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -187,7 +187,7 @@ Please, add yourself and your economics-related projects.
 
 ---
 <p align="center">
-	This list is a copy of <a href="antontarasenko/awesome-economics">antontarasenko/awesome-economics</a> with ranks
+	This list is a copy of <a href="http://github.com/antontarasenko/awesome-economics">antontarasenko/awesome-economics</a> with ranks
 </p>
 
 <script>

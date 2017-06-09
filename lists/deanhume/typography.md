@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="deanhume/typography">deanhume/typography</a> with ranks
+	This list is a copy of <a href="http://github.com/deanhume/typography">deanhume/typography</a> with ranks
 </p>
 ---
 # Awesome Web Typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)  [![Build Status](https://api.travis-ci.org/deanhume/typography.svg?branch=master)](https://travis-ci.org/deanhume/typography)
@@ -99,7 +99,7 @@ A curated collection of awesome web typography articles.
 [![CC0](https://licensebuttons.net/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="deanhume/typography">deanhume/typography</a> with ranks
+	This list is a copy of <a href="http://github.com/deanhume/typography">deanhume/typography</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="Fr0sT-Brutal/awesome-delphi">Fr0sT-Brutal/awesome-delphi</a> with ranks
+	This list is a copy of <a href="http://github.com/Fr0sT-Brutal/awesome-delphi">Fr0sT-Brutal/awesome-delphi</a> with ranks
 </p>
 ---
 # Awesome Delphi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -328,7 +328,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [ZeosLib](http://sourceforge.net/projects/zeoslib). Set of database components for MySQL, PostgreSQL, Interbase, Firebird, MS SQL, Sybase, Oracle and SQLite.
 
-* [Unified Interbase ★30](https://github.com/hgourvest/uib). Set of components to use Interbase, FireBird and YAFFIL. These components were born from the need to use Interbase, FireBird or Yaffil indifferently as fast as possible in a Multithreading environment, a Server for example.
+* [Unified Interbase ★30 ⏳1Y](https://github.com/hgourvest/uib). Set of components to use Interbase, FireBird and YAFFIL. These components were born from the need to use Interbase, FireBird or Yaffil indifferently as fast as possible in a Multithreading environment, a Server for example.
 
 * [ASQLite ★12](https://github.com/remobjects/ASQLite3). Delphi SQLite set of DAC components from aducom software, based on their latest release for Delphi 2009, and updated to support newer editions of Delphi as included in RemObjects Data Abstract for Delphi.
 
@@ -718,7 +718,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0)
 ---
 <p align="center">
-	This list is a copy of <a href="Fr0sT-Brutal/awesome-delphi">Fr0sT-Brutal/awesome-delphi</a> with ranks
+	This list is a copy of <a href="http://github.com/Fr0sT-Brutal/awesome-delphi">Fr0sT-Brutal/awesome-delphi</a> with ranks
 </p>
 
 <script>

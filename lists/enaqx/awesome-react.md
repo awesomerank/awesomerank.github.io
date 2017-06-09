@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="enaqx/awesome-react">enaqx/awesome-react</a> with ranks
+	This list is a copy of <a href="http://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
 </p>
 ---
 ### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/enaqx/awesome-react.svg?branch=master)](https://travis-ci.org/enaqx/awesome-react)
@@ -1046,7 +1046,7 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="enaqx/awesome-react">enaqx/awesome-react</a> with ranks
+	This list is a copy of <a href="http://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
 </p>
 
 <script>

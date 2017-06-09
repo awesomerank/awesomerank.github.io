@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
+	This list is a copy of <a href="http://github.com/friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
 </p>
 ---
 # Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -499,7 +499,7 @@ Please see [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/
 awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.
 ---
 <p align="center">
-	This list is a copy of <a href="friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
+	This list is a copy of <a href="http://github.com/friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
 </p>
 
 <script>

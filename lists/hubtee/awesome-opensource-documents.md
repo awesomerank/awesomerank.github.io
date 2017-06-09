@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="hubtee/awesome-opensource-documents">hubtee/awesome-opensource-documents</a> with ranks
+	This list is a copy of <a href="http://github.com/hubtee/awesome-opensource-documents">hubtee/awesome-opensource-documents</a> with ranks
 </p>
 ---
 # Awesome Open Source Documents
@@ -839,7 +839,7 @@ This is not a list of free programming books. This is a curated list of open sou
 </p>
 ---
 <p align="center">
-	This list is a copy of <a href="hubtee/awesome-opensource-documents">hubtee/awesome-opensource-documents</a> with ranks
+	This list is a copy of <a href="http://github.com/hubtee/awesome-opensource-documents">hubtee/awesome-opensource-documents</a> with ranks
 </p>
 
 <script>

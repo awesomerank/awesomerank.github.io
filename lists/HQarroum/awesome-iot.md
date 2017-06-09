@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="HQarroum/awesome-iot">HQarroum/awesome-iot</a> with ranks
+	This list is a copy of <a href="http://github.com/HQarroum/awesome-iot">HQarroum/awesome-iot</a> with ranks
 </p>
 ---
 # Awesome IoT
@@ -349,7 +349,7 @@ and Vlad Trifa
 To the extent possible under law, [Halim Qarroum](https://github.com/HQarroum/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="HQarroum/awesome-iot">HQarroum/awesome-iot</a> with ranks
+	This list is a copy of <a href="http://github.com/HQarroum/awesome-iot">HQarroum/awesome-iot</a> with ranks
 </p>
 
 <script>

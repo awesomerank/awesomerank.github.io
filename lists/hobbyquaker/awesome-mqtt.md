@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="hobbyquaker/awesome-mqtt">hobbyquaker/awesome-mqtt</a> with ranks
+	This list is a copy of <a href="http://github.com/hobbyquaker/awesome-mqtt">hobbyquaker/awesome-mqtt</a> with ranks
 </p>
 ---
 # Awesome MQTT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hobbyquaker/awesome-mqtt.svg?branch=master)](https://travis-ci.org/hobbyquaker/awesome-mqtt)
@@ -171,7 +171,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Logging
 
-* [mqttcollect ★14](https://github.com/jpmens/mqttcollect) - collectd "Exec" plugin for MQTT.
+* [mqttcollect ★14 ⏳1Y](https://github.com/jpmens/mqttcollect) - collectd "Exec" plugin for MQTT.
 * [graylog-plugin-mqtt ★6 ⏳1Y](https://github.com/graylog-labs/graylog-plugin-mqtt) - MQTT Input Plugin for Graylog.
 * [mqtt2graphite ★44 ⏳1Y](https://github.com/jpmens/mqtt2graphite) - Subscribe to MQTT topics and push to Graphite's Carbon server.
 * [influx4mqtt ★5 ⏳1Y](https://github.com/hobbyquaker/influx4mqtt) - Subscribe to MQTT topics and insert into InfluxDB.
@@ -290,7 +290,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/hob
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="hobbyquaker/awesome-mqtt">hobbyquaker/awesome-mqtt</a> with ranks
+	This list is a copy of <a href="http://github.com/hobbyquaker/awesome-mqtt">hobbyquaker/awesome-mqtt</a> with ranks
 </p>
 
 <script>

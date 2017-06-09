@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="Kickball/awesome-selfhosted">Kickball/awesome-selfhosted</a> with ranks
+	This list is a copy of <a href="http://github.com/Kickball/awesome-selfhosted">Kickball/awesome-selfhosted</a> with ranks
 </p>
 ---
 # Awesome-Selfhosted
@@ -1276,7 +1276,7 @@ The list of authors can be found [here](https://github.com/Kickball/awesome-self
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
 ---
 <p align="center">
-	This list is a copy of <a href="Kickball/awesome-selfhosted">Kickball/awesome-selfhosted</a> with ranks
+	This list is a copy of <a href="http://github.com/Kickball/awesome-selfhosted">Kickball/awesome-selfhosted</a> with ranks
 </p>
 
 <script>

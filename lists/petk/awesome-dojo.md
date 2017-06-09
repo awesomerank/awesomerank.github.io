@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="petk/awesome-dojo">petk/awesome-dojo</a> with ranks
+	This list is a copy of <a href="http://github.com/petk/awesome-dojo">petk/awesome-dojo</a> with ranks
 </p>
 ---
 # Awesome Dojo
@@ -229,7 +229,7 @@ To the extent possible under law, [Peter Kokot](https://github.com/petk) has wai
 [Back to top](#awesome-dojo)
 ---
 <p align="center">
-	This list is a copy of <a href="petk/awesome-dojo">petk/awesome-dojo</a> with ranks
+	This list is a copy of <a href="http://github.com/petk/awesome-dojo">petk/awesome-dojo</a> with ranks
 </p>
 
 <script>

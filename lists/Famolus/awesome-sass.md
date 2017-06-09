@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="Famolus/awesome-sass">Famolus/awesome-sass</a> with ranks
+	This list is a copy of <a href="http://github.com/Famolus/awesome-sass">Famolus/awesome-sass</a> with ranks
 </p>
 ---
 ![Awesome Sass](https://raw.githubusercontent.com/Famolus/awesome-sass/master/awesome-sass-logo-github.png)
@@ -175,7 +175,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="Famolus/awesome-sass">Famolus/awesome-sass</a> with ranks
+	This list is a copy of <a href="http://github.com/Famolus/awesome-sass">Famolus/awesome-sass</a> with ranks
 </p>
 
 <script>

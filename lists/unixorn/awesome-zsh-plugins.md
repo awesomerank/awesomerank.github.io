@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="unixorn/awesome-zsh-plugins">unixorn/awesome-zsh-plugins</a> with ranks
+	This list is a copy of <a href="http://github.com/unixorn/awesome-zsh-plugins">unixorn/awesome-zsh-plugins</a> with ranks
 </p>
 ---
 
@@ -769,7 +769,7 @@ Find other useful awesome-* lists at the [awesome collection ★59088](https://g
 The [Zsh Reference Card](http://www.bash2zsh.com/zsh_refcard/refcard.pdf) and [zsh-lovers site](http://grml.org/zsh/zsh-lovers.html) are indispensable.
 ---
 <p align="center">
-	This list is a copy of <a href="unixorn/awesome-zsh-plugins">unixorn/awesome-zsh-plugins</a> with ranks
+	This list is a copy of <a href="http://github.com/unixorn/awesome-zsh-plugins">unixorn/awesome-zsh-plugins</a> with ranks
 </p>
 
 <script>

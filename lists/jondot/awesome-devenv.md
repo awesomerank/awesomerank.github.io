@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="jondot/awesome-devenv">jondot/awesome-devenv</a> with ranks
+	This list is a copy of <a href="http://github.com/jondot/awesome-devenv">jondot/awesome-devenv</a> with ranks
 </p>
 ---
 # Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -233,7 +233,7 @@ to `/home/Users/yourself/projects`.
 * [Zappr ★257](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
 ---
 <p align="center">
-	This list is a copy of <a href="jondot/awesome-devenv">jondot/awesome-devenv</a> with ranks
+	This list is a copy of <a href="http://github.com/jondot/awesome-devenv">jondot/awesome-devenv</a> with ranks
 </p>
 
 <script>

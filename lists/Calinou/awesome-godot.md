@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="Calinou/awesome-godot">Calinou/awesome-godot</a> with ranks
+	This list is a copy of <a href="http://github.com/Calinou/awesome-godot">Calinou/awesome-godot</a> with ranks
 </p>
 ---
 # Awesome Godot [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -138,7 +138,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 ---
 <p align="center">
-	This list is a copy of <a href="Calinou/awesome-godot">Calinou/awesome-godot</a> with ranks
+	This list is a copy of <a href="http://github.com/Calinou/awesome-godot">Calinou/awesome-godot</a> with ranks
 </p>
 
 <script>

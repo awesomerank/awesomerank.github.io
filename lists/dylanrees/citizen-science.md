@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="dylanrees/citizen-science">dylanrees/citizen-science</a> with ranks
+	This list is a copy of <a href="http://github.com/dylanrees/citizen-science">dylanrees/citizen-science</a> with ranks
 </p>
 ---
 # Digital Tools for Citizen Science
@@ -229,7 +229,7 @@ No copyright intended.
 To the extent possible under law, Dylan Rees has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="dylanrees/citizen-science">dylanrees/citizen-science</a> with ranks
+	This list is a copy of <a href="http://github.com/dylanrees/citizen-science">dylanrees/citizen-science</a> with ranks
 </p>
 
 <script>

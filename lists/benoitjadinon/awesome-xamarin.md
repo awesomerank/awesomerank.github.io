@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="benoitjadinon/awesome-xamarin">benoitjadinon/awesome-xamarin</a> with ranks
+	This list is a copy of <a href="http://github.com/benoitjadinon/awesome-xamarin">benoitjadinon/awesome-xamarin</a> with ranks
 </p>
 ---
 # awesome-xamarin
@@ -134,6 +134,7 @@ Inspired by [awesome-dotnet ★4648](https://github.com/quozd/awesome-dotnet)
 * [Fusillade ★160](https://github.com/paulcbetts/Fusillade) - set of HttpMessageHandlers that make your mobile applications more efficient and responsive
 * [Messaging](https://github.com/cjlotz/Xamarin.Plugins/tree/master/Messaging) - make a phone call, send a sms or send an e-mail using the default messaging applications
 * [ModernHttpClient ★489](https://github.com/paulcbetts/ModernHttpClient) - Accelerates HTTP requests by using mobile-optimized libs (NSURLSession / OkHttp)
+* [NFC ★4](https://github.com/smstuebe/xamarin-nfc) - Xamarin plugin for reading NFC tags.
 * [Push Notification](https://github.com/rdelrosario/xamarin-plugins/tree/master/PushNotification) - Simple cross platform plugin to handle push notification events such as registering, unregistering and messages arrival on Android and iOS.
 * [Reachability ★12](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
 * [Refit ★1,092](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET
@@ -233,7 +234,7 @@ Most of them support Android and iOS, some do Windows Phone 8
 To the extent possible under law, Benoit Jadinon has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="benoitjadinon/awesome-xamarin">benoitjadinon/awesome-xamarin</a> with ranks
+	This list is a copy of <a href="http://github.com/benoitjadinon/awesome-xamarin">benoitjadinon/awesome-xamarin</a> with ranks
 </p>
 
 <script>

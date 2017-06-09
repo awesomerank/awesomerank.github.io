@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="jtoy/awesome-tensorflow">jtoy/awesome-tensorflow</a> with ranks
+	This list is a copy of <a href="http://github.com/jtoy/awesome-tensorflow">jtoy/awesome-tensorflow</a> with ranks
 </p>
 ---
 # Awesome TensorFlow  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★90](https://github.com/jtoy/awesome)
@@ -47,6 +47,7 @@ More info [here](http://tensorflow.org).
 * [Getting Started with TensorFlow on Android](https://omid.al/posts/2017-02-20-Tutorial-Build-Your-First-Tensorflow-Android-App.html) - Build your first TensorFlow Android app
 * [Predict time series ★17](https://github.com/guillaume-chevalier/seq2seq-signal-prediction) - Learn to use a seq2seq model on simple datasets as an introduction to the vast array of possibilities that this architecture offers
 * [Single Image Random Dot Stereograms ★0](https://github.com/Mazecreator/TensorFlow-SIRDS) - SIRDS is a means to present 3D data in a 2D image. It allows for scientific data display of a waterfall type plot with no hidden lines due to perspective.
+* [CS20 SI: TensorFlow for DeepLearning Research](http://web.stanford.edu/class/cs20si/syllabus.html) - Stanford Course about Tensorflow from 2017 - [Syllabus](http://web.stanford.edu/class/cs20si/syllabus.html) - [Unofficial Videos](https://youtu.be/g-EvyKpZjmQ?list=PLSPPwKHXGS2110rEaNH7amFGmaD5hsObs)
 
 <a name="github-projects" />
 
@@ -213,7 +214,7 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 ---
 <p align="center">
-	This list is a copy of <a href="jtoy/awesome-tensorflow">jtoy/awesome-tensorflow</a> with ranks
+	This list is a copy of <a href="http://github.com/jtoy/awesome-tensorflow">jtoy/awesome-tensorflow</a> with ranks
 </p>
 
 <script>

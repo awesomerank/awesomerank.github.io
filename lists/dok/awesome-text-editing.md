@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="dok/awesome-text-editing">dok/awesome-text-editing</a> with ranks
+	This list is a copy of <a href="http://github.com/dok/awesome-text-editing">dok/awesome-text-editing</a> with ranks
 </p>
 ---
 # Awesome text editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -81,7 +81,7 @@ Editor should:
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="dok/awesome-text-editing">dok/awesome-text-editing</a> with ranks
+	This list is a copy of <a href="http://github.com/dok/awesome-text-editing">dok/awesome-text-editing</a> with ranks
 </p>
 
 <script>

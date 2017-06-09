@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="TheJambo/awesome-testing">TheJambo/awesome-testing</a> with ranks
+	This list is a copy of <a href="http://github.com/TheJambo/awesome-testing">TheJambo/awesome-testing</a> with ranks
 </p>
 ---
 ![](https://github.com/TheJambo/awesome-testing/blob/master/resources/AwesomeTesting.jpg?raw=true)
@@ -98,7 +98,7 @@ have waived all copyright and related or neighboring rights to this work. See th
 [license file](LICENSE) for details.
 ---
 <p align="center">
-	This list is a copy of <a href="TheJambo/awesome-testing">TheJambo/awesome-testing</a> with ranks
+	This list is a copy of <a href="http://github.com/TheJambo/awesome-testing">TheJambo/awesome-testing</a> with ranks
 </p>
 
 <script>

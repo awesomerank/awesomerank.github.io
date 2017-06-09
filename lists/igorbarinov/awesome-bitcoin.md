@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="igorbarinov/awesome-bitcoin">igorbarinov/awesome-bitcoin</a> with ranks
+	This list is a copy of <a href="http://github.com/igorbarinov/awesome-bitcoin">igorbarinov/awesome-bitcoin</a> with ranks
 </p>
 ---
 Awesome Bitcoin
@@ -133,7 +133,7 @@ Created by [BlockchainU](http://blockchainu.co/) fellows.
 To the extent possible under law, [Igor Barinov](https://github.com/igorbarinov/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="igorbarinov/awesome-bitcoin">igorbarinov/awesome-bitcoin</a> with ranks
+	This list is a copy of <a href="http://github.com/igorbarinov/awesome-bitcoin">igorbarinov/awesome-bitcoin</a> with ranks
 </p>
 
 <script>

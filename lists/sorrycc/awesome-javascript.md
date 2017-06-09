@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sorrycc/awesome-javascript">sorrycc/awesome-javascript</a> with ranks
+	This list is a copy of <a href="http://github.com/sorrycc/awesome-javascript">sorrycc/awesome-javascript</a> with ranks
 </p>
 ---
 # Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -925,7 +925,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/sor
 To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="sorrycc/awesome-javascript">sorrycc/awesome-javascript</a> with ranks
+	This list is a copy of <a href="http://github.com/sorrycc/awesome-javascript">sorrycc/awesome-javascript</a> with ranks
 </p>
 
 <script>

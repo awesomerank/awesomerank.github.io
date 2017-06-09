@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="alebcay/awesome-shell">alebcay/awesome-shell</a> with ranks
+	This list is a copy of <a href="http://github.com/alebcay/awesome-shell">alebcay/awesome-shell</a> with ranks
 </p>
 ---
 ```
@@ -324,7 +324,7 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
 ---
 <p align="center">
-	This list is a copy of <a href="alebcay/awesome-shell">alebcay/awesome-shell</a> with ranks
+	This list is a copy of <a href="http://github.com/alebcay/awesome-shell">alebcay/awesome-shell</a> with ranks
 </p>
 
 <script>

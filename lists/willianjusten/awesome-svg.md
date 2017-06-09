@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="willianjusten/awesome-svg">willianjusten/awesome-svg</a> with ranks
+	This list is a copy of <a href="http://github.com/willianjusten/awesome-svg">willianjusten/awesome-svg</a> with ranks
 </p>
 ---
 <img src="https://rawgit.com/willianjusten/awesome-svg/master/logo.svg" alt="Awesome SVG">
@@ -65,7 +65,7 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 To the extent possible under law, [Willian Justen](http://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="willianjusten/awesome-svg">willianjusten/awesome-svg</a> with ranks
+	This list is a copy of <a href="http://github.com/willianjusten/awesome-svg">willianjusten/awesome-svg</a> with ranks
 </p>
 
 <script>

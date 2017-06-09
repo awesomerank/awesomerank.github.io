@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="melvin0008/awesome-projects-boilerplates">melvin0008/awesome-projects-boilerplates</a> with ranks
+	This list is a copy of <a href="http://github.com/melvin0008/awesome-projects-boilerplates">melvin0008/awesome-projects-boilerplates</a> with ranks
 </p>
 ---
 # Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -175,7 +175,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and template files*
 
-- [GitHub Template Guidelines ★52](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
+- [GitHub Template Guidelines ★52 ⏳1Y](https://github.com/cezaraugusto/github-template-guidelines) Collection of guidelines and boilerplate files for writing maintanable GitHub projects.
 - [Pollinate](https://github.com/everysquare/pollinate) Template your base files and generate them from GitHub.
 
 # [Contributing](https://github.com/melvin0008/awesome-projects-boilerplates/blob/master/CONTRIBUTING.MD)
@@ -189,7 +189,7 @@ Your contributions are always welcome!
 To the extent possible under law, [Melvin Philips](http://melvinphilips.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="melvin0008/awesome-projects-boilerplates">melvin0008/awesome-projects-boilerplates</a> with ranks
+	This list is a copy of <a href="http://github.com/melvin0008/awesome-projects-boilerplates">melvin0008/awesome-projects-boilerplates</a> with ranks
 </p>
 
 <script>

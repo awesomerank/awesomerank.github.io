@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="vuejs/awesome-vue">vuejs/awesome-vue</a> with ranks
+	This list is a copy of <a href="http://github.com/vuejs/awesome-vue">vuejs/awesome-vue</a> with ranks
 </p>
 ---
 <p align="center">
@@ -1343,7 +1343,7 @@ Tooltips / popovers
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="vuejs/awesome-vue">vuejs/awesome-vue</a> with ranks
+	This list is a copy of <a href="http://github.com/vuejs/awesome-vue">vuejs/awesome-vue</a> with ranks
 </p>
 
 <script>

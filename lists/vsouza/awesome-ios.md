@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="vsouza/awesome-ios">vsouza/awesome-ios</a> with ranks
+	This list is a copy of <a href="http://github.com/vsouza/awesome-ios">vsouza/awesome-ios</a> with ranks
 </p>
 ---
 <img src="https://raw.githubusercontent.com/vsouza/awesome-ios/master/awesome_logo.png">
@@ -516,7 +516,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ## Graphics
 * [Graphicz ★24](https://github.com/SwiftKitz/Graphicz) - Light-weight, operator-overloading-free complements to CoreGraphics! :large_orange_diamond:
 * [PKCoreTechniques ★142 ⏳1Y](https://github.com/pkluz/PKCoreTechniques) - The code for my CoreGraphics+CoreAnimation talk, held during the 2012 iOS Game Design Seminar at the Technical University Munich.
-* [MPWDrawingContext ★89 ⏳1Y](https://github.com/mpw/MPWDrawingContext) - An Objective-C wrapper for CoreGraphics CGContext
+* [MPWDrawingContext ★89 ⏳2Y](https://github.com/mpw/MPWDrawingContext) - An Objective-C wrapper for CoreGraphics CGContext
 * [DePict ★24](https://github.com/davidcairns/DePict) - A simple, declarative, functional drawing framework, in Swift! :large_orange_diamond:
 * [SwiftSVG ★764](https://github.com/mchoe/SwiftSVG) -  A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView). :large_orange_diamond:
 * [InkKit ★332](https://github.com/shaps80/InkKit) - Write-Once, Draw-Everywhere for iOS and OSX -- Now in Swift! :large_orange_diamond:
@@ -2706,7 +2706,7 @@ Other amazingly awesome lists can be found in the
  * Distributed under the MIT license. See LICENSE for more information.
 ---
 <p align="center">
-	This list is a copy of <a href="vsouza/awesome-ios">vsouza/awesome-ios</a> with ranks
+	This list is a copy of <a href="http://github.com/vsouza/awesome-ios">vsouza/awesome-ios</a> with ranks
 </p>
 
 <script>

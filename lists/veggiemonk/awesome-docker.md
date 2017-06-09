@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="veggiemonk/awesome-docker">veggiemonk/awesome-docker</a> with ranks
+	This list is a copy of <a href="http://github.com/veggiemonk/awesome-docker">veggiemonk/awesome-docker</a> with ranks
 </p>
 ---
 
@@ -673,7 +673,7 @@ Services to securely store your Docker images.
 [wsargent]: https://github.com/wsargent
 ---
 <p align="center">
-	This list is a copy of <a href="veggiemonk/awesome-docker">veggiemonk/awesome-docker</a> with ranks
+	This list is a copy of <a href="http://github.com/veggiemonk/awesome-docker">veggiemonk/awesome-docker</a> with ranks
 </p>
 
 <script>

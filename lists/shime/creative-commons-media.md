@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="shime/creative-commons-media">shime/creative-commons-media</a> with ranks
+	This list is a copy of <a href="http://github.com/shime/creative-commons-media">shime/creative-commons-media</a> with ranks
 </p>
 ---
 # Creative Commons Media [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/shime/creative-commons-media.svg?branch=master)](https://travis-ci.org/shime/creative-commons-media)
@@ -95,7 +95,7 @@ Contributions are very welcome!
 MIT
 ---
 <p align="center">
-	This list is a copy of <a href="shime/creative-commons-media">shime/creative-commons-media</a> with ranks
+	This list is a copy of <a href="http://github.com/shime/creative-commons-media">shime/creative-commons-media</a> with ranks
 </p>
 
 <script>

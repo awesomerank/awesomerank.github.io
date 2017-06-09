@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="fffaraz/awesome-cpp">fffaraz/awesome-cpp</a> with ranks
+	This list is a copy of <a href="http://github.com/fffaraz/awesome-cpp">fffaraz/awesome-cpp</a> with ranks
 </p>
 ---
 # Awesome C/C++
@@ -816,7 +816,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 Please see [CONTRIBUTING](https://github.com/fffaraz/awesome-cpp/blob/master/CONTRIBUTING.md) for details.
 ---
 <p align="center">
-	This list is a copy of <a href="fffaraz/awesome-cpp">fffaraz/awesome-cpp</a> with ranks
+	This list is a copy of <a href="http://github.com/fffaraz/awesome-cpp">fffaraz/awesome-cpp</a> with ranks
 </p>
 
 <script>

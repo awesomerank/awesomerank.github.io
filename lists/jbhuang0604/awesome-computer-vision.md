@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="jbhuang0604/awesome-computer-vision">jbhuang0604/awesome-computer-vision</a> with ranks
+	This list is a copy of <a href="http://github.com/jbhuang0604/awesome-computer-vision">jbhuang0604/awesome-computer-vision</a> with ranks
 </p>
 ---
 
@@ -737,7 +737,7 @@ License
 To the extent possible under law, [Jia-Bin Huang](www.jiabinhuang.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="jbhuang0604/awesome-computer-vision">jbhuang0604/awesome-computer-vision</a> with ranks
+	This list is a copy of <a href="http://github.com/jbhuang0604/awesome-computer-vision">jbhuang0604/awesome-computer-vision</a> with ranks
 </p>
 
 <script>

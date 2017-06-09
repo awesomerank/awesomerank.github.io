@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="matiassingers/awesome-readme">matiassingers/awesome-readme</a> with ranks
+	This list is a copy of <a href="http://github.com/matiassingers/awesome-readme">matiassingers/awesome-readme</a> with ranks
 </p>
 ---
 <img src="icon.png" align="right" />
@@ -67,7 +67,7 @@ Please read the [contribution guidelines](https://github.com/matiassingers/aweso
 To the extent possible under law, [Matias Singers](http://mts.io) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="matiassingers/awesome-readme">matiassingers/awesome-readme</a> with ranks
+	This list is a copy of <a href="http://github.com/matiassingers/awesome-readme">matiassingers/awesome-readme</a> with ranks
 </p>
 
 <script>

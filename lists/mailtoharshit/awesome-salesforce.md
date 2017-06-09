@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="mailtoharshit/awesome-salesforce">mailtoharshit/awesome-salesforce</a> with ranks
+	This list is a copy of <a href="http://github.com/mailtoharshit/awesome-salesforce">mailtoharshit/awesome-salesforce</a> with ranks
 </p>
 ---
 
@@ -348,7 +348,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/mai
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="mailtoharshit/awesome-salesforce">mailtoharshit/awesome-salesforce</a> with ranks
+	This list is a copy of <a href="http://github.com/mailtoharshit/awesome-salesforce">mailtoharshit/awesome-salesforce</a> with ranks
 </p>
 
 <script>

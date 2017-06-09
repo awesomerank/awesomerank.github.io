@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="jbmoelker/progressive-enhancement-resources">jbmoelker/progressive-enhancement-resources</a> with ranks
+	This list is a copy of <a href="http://github.com/jbmoelker/progressive-enhancement-resources">jbmoelker/progressive-enhancement-resources</a> with ranks
 </p>
 ---
 # Progressive Enhancement Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -163,7 +163,7 @@ Asynchronously fetch and transition between static pages using ajax and `history
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 ---
 <p align="center">
-	This list is a copy of <a href="jbmoelker/progressive-enhancement-resources">jbmoelker/progressive-enhancement-resources</a> with ranks
+	This list is a copy of <a href="http://github.com/jbmoelker/progressive-enhancement-resources">jbmoelker/progressive-enhancement-resources</a> with ranks
 </p>
 
 <script>

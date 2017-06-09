@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="dzharii/awesome-typescript">dzharii/awesome-typescript</a> with ranks
+	This list is a copy of <a href="http://github.com/dzharii/awesome-typescript">dzharii/awesome-typescript</a> with ranks
 </p>
 ---
 # Awesome TypeScript
@@ -139,7 +139,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
  * [@ahejlsberg](https://twitter.com/ahejlsberg) - Technical Fellow at Microsoft invovled with the Typescript project
 ---
 <p align="center">
-	This list is a copy of <a href="dzharii/awesome-typescript">dzharii/awesome-typescript</a> with ranks
+	This list is a copy of <a href="http://github.com/dzharii/awesome-typescript">dzharii/awesome-typescript</a> with ranks
 </p>
 
 <script>

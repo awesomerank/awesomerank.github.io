@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="nikgraf/awesome-draft-js">nikgraf/awesome-draft-js</a> with ranks
+	This list is a copy of <a href="http://github.com/nikgraf/awesome-draft-js">nikgraf/awesome-draft-js</a> with ranks
 </p>
 ---
 # Awesome Draft.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -132,7 +132,7 @@ Ranked awesome lists, all in one place
 To the extent possible under law, [Nikolaus Graf](https://github.com/nikgraf/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="nikgraf/awesome-draft-js">nikgraf/awesome-draft-js</a> with ranks
+	This list is a copy of <a href="http://github.com/nikgraf/awesome-draft-js">nikgraf/awesome-draft-js</a> with ranks
 </p>
 
 <script>

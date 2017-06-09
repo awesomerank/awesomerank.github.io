@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="Siddharth11/Colorful">Siddharth11/Colorful</a> with ranks
+	This list is a copy of <a href="http://github.com/Siddharth11/Colorful">Siddharth11/Colorful</a> with ranks
 </p>
 ---
 <p align="center">
@@ -130,7 +130,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
 ---
 <p align="center">
-	This list is a copy of <a href="Siddharth11/Colorful">Siddharth11/Colorful</a> with ranks
+	This list is a copy of <a href="http://github.com/Siddharth11/Colorful">Siddharth11/Colorful</a> with ranks
 </p>
 
 <script>

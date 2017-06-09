@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="addyosmani/es6-tools">addyosmani/es6-tools</a> with ranks
+	This list is a copy of <a href="http://github.com/addyosmani/es6-tools">addyosmani/es6-tools</a> with ranks
 </p>
 ---
 # <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -187,7 +187,7 @@ Ranked awesome lists, all in one place
 * [Rollup](http://rollupjs.org/) - Rollup is a next-generation JavaScript module bundler. Author your app or library using ES2015 modules, then efficiently bundle them up into a single file for use in browsers and Node.js
 ---
 <p align="center">
-	This list is a copy of <a href="addyosmani/es6-tools">addyosmani/es6-tools</a> with ranks
+	This list is a copy of <a href="http://github.com/addyosmani/es6-tools">addyosmani/es6-tools</a> with ranks
 </p>
 
 <script>

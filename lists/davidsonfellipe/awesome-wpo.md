@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="davidsonfellipe/awesome-wpo">davidsonfellipe/awesome-wpo</a> with ranks
+	This list is a copy of <a href="http://github.com/davidsonfellipe/awesome-wpo">davidsonfellipe/awesome-wpo</a> with ranks
 </p>
 ---
 # Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -362,7 +362,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [CSSshrink ★1080 ⏳2Y](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
 * [Grunt-cssshrink ★27 ⏳1Y](https://github.com/JohnCashmore/grunt-cssshrink) - This is just a grunt wrapper for CSS Shrink.
 * [Gulp-cssshrink ★22 ⏳1Y](https://github.com/torrottum/gulp-cssshrink) - Shrinks CSS files using cssshrink for Gulp.
-* [Prettyugly ★7 ⏳2Y](https://github.com/stoyan/prettyugly) - Uglify (strip spaces) or prettify (add consistent spaces) CSS code.
+* [Prettyugly ★7 ⏳3Y](https://github.com/stoyan/prettyugly) - Uglify (strip spaces) or prettify (add consistent spaces) CSS code.
 * [Grunt-contrib-cssmin ★772](https://github.com/gruntjs/grunt-contrib-cssmin) - CSS Minifier for Grunt.
 * [Gulp-cssmin ★57](https://github.com/chilijung/gulp-cssmin) - CSS Minifier for Gulp.
 * [Grunt-uncss ★3870](https://github.com/addyosmani/grunt-uncss) - A grunt task for removing unused CSS from your projects.
@@ -468,7 +468,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 For contributing, [open an issue](https://github.com/davidsonfellipe/awesome-wpo/issues) and/or a [pull request](https://github.com/davidsonfellipe/awesome-wpo/pulls).
 ---
 <p align="center">
-	This list is a copy of <a href="davidsonfellipe/awesome-wpo">davidsonfellipe/awesome-wpo</a> with ranks
+	This list is a copy of <a href="http://github.com/davidsonfellipe/awesome-wpo">davidsonfellipe/awesome-wpo</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="busterc/awesome-cordova">busterc/awesome-cordova</a> with ranks
+	This list is a copy of <a href="http://github.com/busterc/awesome-cordova">busterc/awesome-cordova</a> with ranks
 </p>
 ---
 # Awesome Cordova [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/busterc/awesome-cordova.svg?branch=master)](https://travis-ci.org/busterc/awesome-cordova)
@@ -87,7 +87,7 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness ★18868]
 Your contributions are always welcome!
 ---
 <p align="center">
-	This list is a copy of <a href="busterc/awesome-cordova">busterc/awesome-cordova</a> with ranks
+	This list is a copy of <a href="http://github.com/busterc/awesome-cordova">busterc/awesome-cordova</a> with ranks
 </p>
 
 <script>

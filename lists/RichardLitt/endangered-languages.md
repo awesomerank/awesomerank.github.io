@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="RichardLitt/endangered-languages">RichardLitt/endangered-languages</a> with ranks
+	This list is a copy of <a href="http://github.com/RichardLitt/endangered-languages">RichardLitt/endangered-languages</a> with ranks
 </p>
 ---
 Endangered Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -289,7 +289,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [ipa-chart ![GitHub stars](https://img.shields.io/github/stars/westonruter/ipa-chart.svg) ★56 ⏳1Y](https://github.com/westonruter/ipa-chart)  International Phonetic Alphabet (IPA) Unicode Chart and Character Picker
 * [kaldi-svn-archive ★3 ⏳1Y](https://github.com/kaldi-asr/kaldi-svn-archive) An read-only archive of the original Kaldi SVN repository (mainly to keep sandboxes available)
 * [kaldi ★1936](https://github.com/kaldi-asr/kaldi) This is now the official location of the Kaldi project.
-* [lex4all ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lex4all.svg) ★1 ⏳2Y](https://github.com/FieldDB/lex4all)  pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
+* [lex4all ![GitHub stars](https://img.shields.io/github/stars/FieldDB/lex4all.svg) ★1 ⏳3Y](https://github.com/FieldDB/lex4all)  pronunciation LEXicons for Any Low-resource Language (_Fork_ of a student project)
 * [node-pocketsphinx ★142 ⏳1Y](https://github.com/cmusphinx/node-pocketsphinx)
 * [opensauce ![GitHub stars](https://img.shields.io/github/stars/voicesauce/opensauce.svg) ★2 ⏳1Y](https://github.com/voicesauce/opensauce)  GNU Octave-compatible version of VoiceSauce
 * [pocketsphinx ![GitHub Stars](https://img.shields.io/github/stars/cmusphinx/pocketsphinx.svg) ★1089](https://github.com/cmusphinx/pocketsphinx) PocketSphinx is a lightweight speech recognition engine, specifically tuned for handheld and mobile devices, though it works equally well on the desktop
@@ -708,7 +708,7 @@ _zul :: zulu_
 * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
 ---
 <p align="center">
-	This list is a copy of <a href="RichardLitt/endangered-languages">RichardLitt/endangered-languages</a> with ranks
+	This list is a copy of <a href="http://github.com/RichardLitt/endangered-languages">RichardLitt/endangered-languages</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="brillout/awesome-redux">brillout/awesome-redux</a> with ranks
+	This list is a copy of <a href="http://github.com/brillout/awesome-redux">brillout/awesome-redux</a> with ranks
 </p>
 ---
 # Redux Libraries & Learning Material [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -236,7 +236,7 @@ If you are curious for more, check out following resources.
 
 ---
 <p align="center">
-	This list is a copy of <a href="brillout/awesome-redux">brillout/awesome-redux</a> with ranks
+	This list is a copy of <a href="http://github.com/brillout/awesome-redux">brillout/awesome-redux</a> with ranks
 </p>
 
 <script>

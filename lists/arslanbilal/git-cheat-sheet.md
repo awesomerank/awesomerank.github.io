@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="arslanbilal/git-cheat-sheet">arslanbilal/git-cheat-sheet</a> with ranks
+	This list is a copy of <a href="http://github.com/arslanbilal/git-cheat-sheet">arslanbilal/git-cheat-sheet</a> with ranks
 </p>
 ---
 Git and Git Flow Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/arslanbilal/git-cheat-sheet.svg?branch=master)](https://travis-ci.org/arslanbilal/git-cheat-sheet)
@@ -680,7 +680,7 @@ git flow hotfix finish VERSION
 <hr>
 ---
 <p align="center">
-	This list is a copy of <a href="arslanbilal/git-cheat-sheet">arslanbilal/git-cheat-sheet</a> with ranks
+	This list is a copy of <a href="http://github.com/arslanbilal/git-cheat-sheet">arslanbilal/git-cheat-sheet</a> with ranks
 </p>
 
 <script>

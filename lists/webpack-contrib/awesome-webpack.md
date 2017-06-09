@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="webpack-contrib/awesome-webpack">webpack-contrib/awesome-webpack</a> with ranks
+	This list is a copy of <a href="http://github.com/webpack-contrib/awesome-webpack">webpack-contrib/awesome-webpack</a> with ranks
 </p>
 ---
 <h3 align="center">
@@ -301,7 +301,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 [githubicon]: https://rawgit.com/d3viant0ne/awesome-webpack/master/media/github-square.svg
 ---
 <p align="center">
-	This list is a copy of <a href="webpack-contrib/awesome-webpack">webpack-contrib/awesome-webpack</a> with ranks
+	This list is a copy of <a href="http://github.com/webpack-contrib/awesome-webpack">webpack-contrib/awesome-webpack</a> with ranks
 </p>
 
 <script>

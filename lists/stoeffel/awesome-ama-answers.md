@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="stoeffel/awesome-ama-answers">stoeffel/awesome-ama-answers</a> with ranks
+	This list is a copy of <a href="http://github.com/stoeffel/awesome-ama-answers">stoeffel/awesome-ama-answers</a> with ranks
 </p>
 ---
 # awesome-ama-answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -158,7 +158,7 @@ Check out [awesome AMAs ★768](https://github.com/sindresorhus/amas) to find AM
 To the extent possible under law, [Christoph Hermann](https://stoeffel.github.io) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="stoeffel/awesome-ama-answers">stoeffel/awesome-ama-answers</a> with ranks
+	This list is a copy of <a href="http://github.com/stoeffel/awesome-ama-answers">stoeffel/awesome-ama-answers</a> with ranks
 </p>
 
 <script>

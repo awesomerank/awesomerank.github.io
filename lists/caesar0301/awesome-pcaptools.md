@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="caesar0301/awesome-pcaptools">caesar0301/awesome-pcaptools</a> with ranks
+	This list is a copy of <a href="http://github.com/caesar0301/awesome-pcaptools">caesar0301/awesome-pcaptools</a> with ranks
 </p>
 ---
 Introduction
@@ -248,7 +248,7 @@ Related Projects<a name="others"></a>
 * [Usenix93 Paper on BPF](ftp://ftp.ee.lbl.gov/papers/bpf-usenix93.ps.Z): The libpcap interface supports a filtering mechanism based on the architecture in the BSD packet filter. BPF is described in the 1993 Winter Usenix paper "The BSD Packet Filter: A New Architecture for User-level Packet Capture".
 ---
 <p align="center">
-	This list is a copy of <a href="caesar0301/awesome-pcaptools">caesar0301/awesome-pcaptools</a> with ranks
+	This list is a copy of <a href="http://github.com/caesar0301/awesome-pcaptools">caesar0301/awesome-pcaptools</a> with ranks
 </p>
 
 <script>

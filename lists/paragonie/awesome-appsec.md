@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="paragonie/awesome-appsec">paragonie/awesome-appsec</a> with ranks
+	This list is a copy of <a href="http://github.com/paragonie/awesome-appsec">paragonie/awesome-appsec</a> with ranks
 </p>
 ---
 # Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -613,7 +613,7 @@ A wiki maintained by the OWASP Python Security project.
 A guide to secure Ruby development by the Fedora Security Team. Also available on [Github ★5 ⏳1Y](https://github.com/jrusnack/secure-ruby-development-guide).
 ---
 <p align="center">
-	This list is a copy of <a href="paragonie/awesome-appsec">paragonie/awesome-appsec</a> with ranks
+	This list is a copy of <a href="http://github.com/paragonie/awesome-appsec">paragonie/awesome-appsec</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="drewrwilson/toolsforactivism">drewrwilson/toolsforactivism</a> with ranks
+	This list is a copy of <a href="http://github.com/drewrwilson/toolsforactivism">drewrwilson/toolsforactivism</a> with ranks
 </p>
 ---
 # Digital Tools for Activism
@@ -34,7 +34,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
  * [Self Starter ★3071](https://github.com/lockitron/selfstarter) - roll your own crowdfunding site
  * [TakeCharge.io ★7](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
  * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
- * [Countdown ★17](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
+ * [Countdown ★17 ⏳1Y](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
 
 ## Software as a service:
 
@@ -74,7 +74,7 @@ No copyright intended.
 To the extent possible under law, [Drew Wilson](https://drewrwilson.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="drewrwilson/toolsforactivism">drewrwilson/toolsforactivism</a> with ranks
+	This list is a copy of <a href="http://github.com/drewrwilson/toolsforactivism">drewrwilson/toolsforactivism</a> with ranks
 </p>
 
 <script>

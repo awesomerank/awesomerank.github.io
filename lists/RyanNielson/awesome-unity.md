@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="RyanNielson/awesome-unity">RyanNielson/awesome-unity</a> with ranks
+	This list is a copy of <a href="http://github.com/RyanNielson/awesome-unity">RyanNielson/awesome-unity</a> with ranks
 </p>
 ---
 Awesome Unity
@@ -162,7 +162,7 @@ A list of awesome projects made using Unity.
 Please see [CONTRIBUTING](https://github.com/RyanNielson/awesome-unity/blob/master/CONTRIBUTING.md) for details.
 ---
 <p align="center">
-	This list is a copy of <a href="RyanNielson/awesome-unity">RyanNielson/awesome-unity</a> with ranks
+	This list is a copy of <a href="http://github.com/RyanNielson/awesome-unity">RyanNielson/awesome-unity</a> with ranks
 </p>
 
 <script>

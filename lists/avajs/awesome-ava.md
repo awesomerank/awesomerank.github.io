@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="avajs/awesome-ava">avajs/awesome-ava</a> with ranks
+	This list is a copy of <a href="http://github.com/avajs/awesome-ava">avajs/awesome-ava</a> with ranks
 </p>
 ---
 # Awesome AVA [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [<img src="https://github.com/avajs/ava/raw/master/media/header.png" width="280" align="right" alt="AVA">](https://ava.li)
@@ -96,7 +96,7 @@ Ranked awesome lists, all in one place
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="avajs/awesome-ava">avajs/awesome-ava</a> with ranks
+	This list is a copy of <a href="http://github.com/avajs/awesome-ava">avajs/awesome-ava</a> with ranks
 </p>
 
 <script>

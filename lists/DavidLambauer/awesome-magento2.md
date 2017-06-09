@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="DavidLambauer/awesome-magento2">DavidLambauer/awesome-magento2</a> with ranks
+	This list is a copy of <a href="http://github.com/DavidLambauer/awesome-magento2">DavidLambauer/awesome-magento2</a> with ranks
 </p>
 ---
 # Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/DavidLambauer/awesome-magento2.svg?branch=master)](https://travis-ci.org/DavidLambauer/awesome-magento2)
@@ -287,7 +287,7 @@ Thanks [MageTitans](http://www.magetitans.co.uk/) for sharing the Talks on YouTu
 [![Beerpay](https://beerpay.io/DavidLambauer/awesome-magento2/badge.svg?style=beer-square)](https://beerpay.io/DavidLambauer/awesome-magento2)  [![Beerpay](https://beerpay.io/DavidLambauer/awesome-magento2/make-wish.svg?style=flat-square)](https://beerpay.io/DavidLambauer/awesome-magento2?focus=wish)
 ---
 <p align="center">
-	This list is a copy of <a href="DavidLambauer/awesome-magento2">DavidLambauer/awesome-magento2</a> with ranks
+	This list is a copy of <a href="http://github.com/DavidLambauer/awesome-magento2">DavidLambauer/awesome-magento2</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="tobiasbueschel/awesome-pokemon">tobiasbueschel/awesome-pokemon</a> with ranks
+	This list is a copy of <a href="http://github.com/tobiasbueschel/awesome-pokemon">tobiasbueschel/awesome-pokemon</a> with ranks
 </p>
 ---
 <p align="center">
@@ -147,7 +147,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 To the extent possible under law, [Tobias Bueschel](http://github.com/tobiasbueschel) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="tobiasbueschel/awesome-pokemon">tobiasbueschel/awesome-pokemon</a> with ranks
+	This list is a copy of <a href="http://github.com/tobiasbueschel/awesome-pokemon">tobiasbueschel/awesome-pokemon</a> with ranks
 </p>
 
 <script>

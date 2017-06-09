@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="unicodeveloper/awesome-lumen">unicodeveloper/awesome-lumen</a> with ranks
+	This list is a copy of <a href="http://github.com/unicodeveloper/awesome-lumen">unicodeveloper/awesome-lumen</a> with ranks
 </p>
 ---
 # Awesome lumen [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
@@ -114,7 +114,7 @@ Found an awesome package, article, blog, video etc.? Send me a pull request! Jus
 This work (Awesome Lumen) is free of known copyright restrictions.
 ---
 <p align="center">
-	This list is a copy of <a href="unicodeveloper/awesome-lumen">unicodeveloper/awesome-lumen</a> with ranks
+	This list is a copy of <a href="http://github.com/unicodeveloper/awesome-lumen">unicodeveloper/awesome-lumen</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="uraimo/Awesome-Swift-Playgrounds">uraimo/Awesome-Swift-Playgrounds</a> with ranks
+	This list is a copy of <a href="http://github.com/uraimo/Awesome-Swift-Playgrounds">uraimo/Awesome-Swift-Playgrounds</a> with ranks
 </p>
 ---
 # Awesome Swift Playgrounds [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)  ![126 playgrounds](https://img.shields.io/badge/Playgrounds:-126-orange.svg)
@@ -198,7 +198,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Core Animation Swift Playgrounds ★21](https://github.com/rmirabelli/CoreAnimationSwiftPlaygrounds) - A set of interesting Core Animation playgounds.
 * [UIViewPropertyAnimator Playground ★13](https://github.com/mathewsanders/Scrubber) - Playground demonstrating UIViewPropertyAnimator.
 * [WWDC Crowd Simulator 2017 ★14](https://github.com/neilsardesai/WWDC-Crowd-Simulator-2017) - A SpriteKit experiment to simulate the WWDC2017 logo crowd.
-* [Additive Animations ★29 ⏳2Y](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation. ⏳
+* [Additive Animations ★29 ⏳3Y](https://github.com/d-ronnqvist/Additive-Animations-Playground) - Experiment with multiple additive animations in Core Animation. ⏳
 * [Core Animation Playground ★5 ⏳1Y](https://github.com/knightsc/CoreAnimationPlayground) - Companion to Apple's Core Animation Programming Guide. ⏳
 * [Duet-Inspired Trail Effect ★10](https://github.com/dionlarson/Duet-Trail-Effect-SpriteKit-Playground) - How to get a Duet style trailing effect in SpriteKit. ⏳
 
@@ -271,7 +271,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Earth photos ★2 ⏳1Y](https://github.com/jtbandes/DSCOVR.playground) - A slideshow of Earth photos taken by DSCOVR/EPIC. 🌟 ⏳
 ---
 <p align="center">
-	This list is a copy of <a href="uraimo/Awesome-Swift-Playgrounds">uraimo/Awesome-Swift-Playgrounds</a> with ranks
+	This list is a copy of <a href="http://github.com/uraimo/Awesome-Swift-Playgrounds">uraimo/Awesome-Swift-Playgrounds</a> with ranks
 </p>
 
 <script>

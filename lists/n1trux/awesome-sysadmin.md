@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="n1trux/awesome-sysadmin">n1trux/awesome-sysadmin</a> with ranks
+	This list is a copy of <a href="http://github.com/n1trux/awesome-sysadmin">n1trux/awesome-sysadmin</a> with ranks
 </p>
 ---
 <!--
@@ -269,7 +269,7 @@ Ranked awesome lists, all in one place
   * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
   * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
   * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
-  * [Vlad the Deployer ★346](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
+  * [Vlad the Deployer ★346 ⏳1Y](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
   * [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
 
 
@@ -727,7 +727,7 @@ Various resources, such as books, websites and articles, for improving your skil
 This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/) license.
 ---
 <p align="center">
-	This list is a copy of <a href="n1trux/awesome-sysadmin">n1trux/awesome-sysadmin</a> with ranks
+	This list is a copy of <a href="http://github.com/n1trux/awesome-sysadmin">n1trux/awesome-sysadmin</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="onqtam/awesome-cmake">onqtam/awesome-cmake</a> with ranks
+	This list is a copy of <a href="http://github.com/onqtam/awesome-cmake">onqtam/awesome-cmake</a> with ranks
 </p>
 ---
 # Awesome CMake [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -182,7 +182,7 @@ This is released under the [**```Creative Commons Attribution 4.0 International`
 [MPL]: https://www.mozilla.org/en-US/MPL/2.0/
 ---
 <p align="center">
-	This list is a copy of <a href="onqtam/awesome-cmake">onqtam/awesome-cmake</a> with ranks
+	This list is a copy of <a href="http://github.com/onqtam/awesome-cmake">onqtam/awesome-cmake</a> with ranks
 </p>
 
 <script>

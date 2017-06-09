@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="hantuzun/awesome-clojurescript">hantuzun/awesome-clojurescript</a> with ranks
+	This list is a copy of <a href="http://github.com/hantuzun/awesome-clojurescript">hantuzun/awesome-clojurescript</a> with ranks
 </p>
 ---
 <img src="https://avatars2.githubusercontent.com/u/12118456?v=3&s=75"
@@ -221,7 +221,7 @@ All contributions are welcome. Please read [Contributing](https://github.com/han
 You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
 ---
 <p align="center">
-	This list is a copy of <a href="hantuzun/awesome-clojurescript">hantuzun/awesome-clojurescript</a> with ranks
+	This list is a copy of <a href="http://github.com/hantuzun/awesome-clojurescript">hantuzun/awesome-clojurescript</a> with ranks
 </p>
 
 <script>

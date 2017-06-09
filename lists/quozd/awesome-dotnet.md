@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="quozd/awesome-dotnet">quozd/awesome-dotnet</a> with ranks
+	This list is a copy of <a href="http://github.com/quozd/awesome-dotnet">quozd/awesome-dotnet</a> with ranks
 </p>
 ---
 # Awesome .NET!
@@ -917,7 +917,7 @@ metadata in media files, including video, audio, and photo formats
 To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="quozd/awesome-dotnet">quozd/awesome-dotnet</a> with ranks
+	This list is a copy of <a href="http://github.com/quozd/awesome-dotnet">quozd/awesome-dotnet</a> with ranks
 </p>
 
 <script>

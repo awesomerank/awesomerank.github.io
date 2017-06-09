@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="mislavcimpersak/awesome-dev-fun">mislavcimpersak/awesome-dev-fun</a> with ranks
+	This list is a copy of <a href="http://github.com/mislavcimpersak/awesome-dev-fun">mislavcimpersak/awesome-dev-fun</a> with ranks
 </p>
 ---
 # Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -113,7 +113,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [Filefile ★62](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile).
 ---
 <p align="center">
-	This list is a copy of <a href="mislavcimpersak/awesome-dev-fun">mislavcimpersak/awesome-dev-fun</a> with ranks
+	This list is a copy of <a href="http://github.com/mislavcimpersak/awesome-dev-fun">mislavcimpersak/awesome-dev-fun</a> with ranks
 </p>
 
 <script>

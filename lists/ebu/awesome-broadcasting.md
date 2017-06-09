@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ebu/awesome-broadcasting">ebu/awesome-broadcasting</a> with ranks
+	This list is a copy of <a href="http://github.com/ebu/awesome-broadcasting">ebu/awesome-broadcasting</a> with ranks
 </p>
 ---
 # Awesome Broadcasting [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -192,7 +192,7 @@ Various resources, such as books, websites and articles, for improving your skil
 Please see [CONTRIBUTING](https://github.com/ebu/awesome-broadcasting/blob/master/CONTRIBUTING.md) for details.
 ---
 <p align="center">
-	This list is a copy of <a href="ebu/awesome-broadcasting">ebu/awesome-broadcasting</a> with ranks
+	This list is a copy of <a href="http://github.com/ebu/awesome-broadcasting">ebu/awesome-broadcasting</a> with ranks
 </p>
 
 <script>

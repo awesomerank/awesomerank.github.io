@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="iCHAIT/awesome-macOS">iCHAIT/awesome-macOS</a> with ranks
+	This list is a copy of <a href="http://github.com/iCHAIT/awesome-macOS">iCHAIT/awesome-macOS</a> with ranks
 </p>
 ---
 <img src="https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/awesome-display.svg" width="400">
@@ -438,7 +438,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Freeware Icon]: https://cdn.rawgit.com/iCHAIT/awesome-osx/master/media/free.svg
 ---
 <p align="center">
-	This list is a copy of <a href="iCHAIT/awesome-macOS">iCHAIT/awesome-macOS</a> with ranks
+	This list is a copy of <a href="http://github.com/iCHAIT/awesome-macOS">iCHAIT/awesome-macOS</a> with ranks
 </p>
 
 <script>

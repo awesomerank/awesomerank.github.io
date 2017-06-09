@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sobolevn/awesome-cryptography">sobolevn/awesome-cryptography</a> with ranks
+	This list is a copy of <a href="http://github.com/sobolevn/awesome-cryptography">sobolevn/awesome-cryptography</a> with ranks
 </p>
 ---
 # Awesome Cryptography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -378,7 +378,7 @@ You should have received a copy of the CC0 legalcode along with this
 work.  If not, see [https://creativecommons.org/publicdomain/zero/1.0/](https://creativecommons.org/publicdomain/zero/1.0/).
 ---
 <p align="center">
-	This list is a copy of <a href="sobolevn/awesome-cryptography">sobolevn/awesome-cryptography</a> with ranks
+	This list is a copy of <a href="http://github.com/sobolevn/awesome-cryptography">sobolevn/awesome-cryptography</a> with ranks
 </p>
 
 <script>

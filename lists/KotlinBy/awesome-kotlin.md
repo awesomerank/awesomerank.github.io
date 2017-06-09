@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="KotlinBy/awesome-kotlin">KotlinBy/awesome-kotlin</a> with ranks
+	This list is a copy of <a href="http://github.com/KotlinBy/awesome-kotlin">KotlinBy/awesome-kotlin</a> with ranks
 </p>
 ---
 # Awesome Kotlin ([https://kotlin.link](https://kotlin.link))
@@ -952,7 +952,7 @@ Here awesome badge for your project:
 [![CC0](https://licensebuttons.net/p/zero/1.0/80x15.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="KotlinBy/awesome-kotlin">KotlinBy/awesome-kotlin</a> with ranks
+	This list is a copy of <a href="http://github.com/KotlinBy/awesome-kotlin">KotlinBy/awesome-kotlin</a> with ranks
 </p>
 
 <script>

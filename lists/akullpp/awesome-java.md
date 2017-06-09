@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="akullpp/awesome-java">akullpp/awesome-java</a> with ranks
+	This list is a copy of <a href="http://github.com/akullpp/awesome-java">akullpp/awesome-java</a> with ranks
 </p>
 ---
 # Awesome Java [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -961,7 +961,7 @@ Please have a look at [CONTRIBUTING](https://github.com/akullpp/awesome-java/blo
 [c]: https://cdn.rawgit.com/akullpp/23246ca832bda82bb505230bf3538e2a/raw/d9bcdb769bf025292f9c6bc1290f01f1fcd1f864/commercial.svg
 ---
 <p align="center">
-	This list is a copy of <a href="akullpp/awesome-java">akullpp/awesome-java</a> with ranks
+	This list is a copy of <a href="http://github.com/akullpp/awesome-java">akullpp/awesome-java</a> with ranks
 </p>
 
 <script>

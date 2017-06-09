@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="AngularClass/awesome-angular">AngularClass/awesome-angular</a> with ranks
+	This list is a copy of <a href="http://github.com/AngularClass/awesome-angular">AngularClass/awesome-angular</a> with ranks
 </p>
 ---
 <p align="center">
@@ -761,7 +761,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="AngularClass/awesome-angular">AngularClass/awesome-angular</a> with ranks
+	This list is a copy of <a href="http://github.com/AngularClass/awesome-angular">AngularClass/awesome-angular</a> with ranks
 </p>
 
 <script>

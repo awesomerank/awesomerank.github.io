@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="jyguyomarch/awesome-productivity">jyguyomarch/awesome-productivity</a> with ranks
+	This list is a copy of <a href="http://github.com/jyguyomarch/awesome-productivity">jyguyomarch/awesome-productivity</a> with ranks
 </p>
 ---
 # Awesome Productivity [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -74,7 +74,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
  - [Awesome AutoHotKey ★461](https://github.com/ahkscript/awesome-AutoHotkey) – AutoHotKey is a free, open-source macro-creation and automation software for Windows that allows users to automate repetitive tasks.
 ---
 <p align="center">
-	This list is a copy of <a href="jyguyomarch/awesome-productivity">jyguyomarch/awesome-productivity</a> with ranks
+	This list is a copy of <a href="http://github.com/jyguyomarch/awesome-productivity">jyguyomarch/awesome-productivity</a> with ranks
 </p>
 
 <script>

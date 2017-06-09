@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="afonsopacifer/awesome-flexbox">afonsopacifer/awesome-flexbox</a> with ranks
+	This list is a copy of <a href="http://github.com/afonsopacifer/awesome-flexbox">afonsopacifer/awesome-flexbox</a> with ranks
 </p>
 ---
 [![awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox/blob/master/awesome-flexbox.jpg) ★646](https://github.com/afonsopacifer/awesome-flexbox)
@@ -213,7 +213,7 @@ Want to contribute? [Follow these recommendations](https://github.com/afonsopaci
 [MIT License](https://github.com/afonsopacifer/awesome-flexbox/blob/master/license.md) © [Afonso Pacifer](http://afonsopacifer.com/)
 ---
 <p align="center">
-	This list is a copy of <a href="afonsopacifer/awesome-flexbox">afonsopacifer/awesome-flexbox</a> with ranks
+	This list is a copy of <a href="http://github.com/afonsopacifer/awesome-flexbox">afonsopacifer/awesome-flexbox</a> with ranks
 </p>
 
 <script>

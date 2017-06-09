@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="enjalot/algovis">enjalot/algovis</a> with ranks
+	This list is a copy of <a href="http://github.com/enjalot/algovis">enjalot/algovis</a> with ranks
 </p>
 ---
 algovis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -80,7 +80,7 @@ This is collection of projects and links about algorithm visualization.
 * [ConvNetJS](http://cs.stanford.edu/people/karpathy/convnetjs/) neural network examples in browser (example: [2-layer neural network](http://cs.stanford.edu/people/karpathy/convnetjs/demo/classify2d.html))
 ---
 <p align="center">
-	This list is a copy of <a href="enjalot/algovis">enjalot/algovis</a> with ranks
+	This list is a copy of <a href="http://github.com/enjalot/algovis">enjalot/algovis</a> with ranks
 </p>
 
 <script>

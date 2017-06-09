@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="marcobiedermann/search-engine-optimization">marcobiedermann/search-engine-optimization</a> with ranks
+	This list is a copy of <a href="http://github.com/marcobiedermann/search-engine-optimization">marcobiedermann/search-engine-optimization</a> with ranks
 </p>
 ---
 # [Search Engine Optimization (SEO)](https://marcobiedermann.github.io/search-engine-optimization/)
@@ -234,7 +234,7 @@ search engines do not use this meta tag
 
 ---
 <p align="center">
-	This list is a copy of <a href="marcobiedermann/search-engine-optimization">marcobiedermann/search-engine-optimization</a> with ranks
+	This list is a copy of <a href="http://github.com/marcobiedermann/search-engine-optimization">marcobiedermann/search-engine-optimization</a> with ranks
 </p>
 
 <script>

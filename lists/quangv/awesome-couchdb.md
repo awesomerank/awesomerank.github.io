@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="quangv/awesome-couchdb">quangv/awesome-couchdb</a> with ranks
+	This list is a copy of <a href="http://github.com/quangv/awesome-couchdb">quangv/awesome-couchdb</a> with ranks
 </p>
 ---
 <p>
@@ -182,7 +182,7 @@ Pull-Requests are welcomed.
 <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by.svg" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.
 ---
 <p align="center">
-	This list is a copy of <a href="quangv/awesome-couchdb">quangv/awesome-couchdb</a> with ranks
+	This list is a copy of <a href="http://github.com/quangv/awesome-couchdb">quangv/awesome-couchdb</a> with ranks
 </p>
 
 <script>

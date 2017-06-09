@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="gitfrage/guitarspecs">gitfrage/guitarspecs</a> with ranks
+	This list is a copy of <a href="http://github.com/gitfrage/guitarspecs">gitfrage/guitarspecs</a> with ranks
 </p>
 ---
 
@@ -562,7 +562,7 @@ CSS: https://github.com/sindresorhus/github-markdown-css
 
 ---
 <p align="center">
-	This list is a copy of <a href="gitfrage/guitarspecs">gitfrage/guitarspecs</a> with ranks
+	This list is a copy of <a href="http://github.com/gitfrage/guitarspecs">gitfrage/guitarspecs</a> with ranks
 </p>
 
 <script>

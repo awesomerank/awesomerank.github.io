@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="maxogden/maintenance-modules">maxogden/maintenance-modules</a> with ranks
+	This list is a copy of <a href="http://github.com/maxogden/maintenance-modules">maxogden/maintenance-modules</a> with ranks
 </p>
 ---
 # maintenance-modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -176,7 +176,7 @@ alias post-version='npm run --if-present build && git diff --exit-code && git pu
 ```
 ---
 <p align="center">
-	This list is a copy of <a href="maxogden/maintenance-modules">maxogden/maintenance-modules</a> with ranks
+	This list is a copy of <a href="http://github.com/maxogden/maintenance-modules">maxogden/maintenance-modules</a> with ranks
 </p>
 
 <script>

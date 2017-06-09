@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="vinkla/awesome-fuse">vinkla/awesome-fuse</a> with ranks
+	This list is a copy of <a href="http://github.com/vinkla/awesome-fuse">vinkla/awesome-fuse</a> with ranks
 </p>
 ---
 # Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -129,7 +129,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 To the extent possible under law, [Vincent Klaiber](https://vinkla.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="vinkla/awesome-fuse">vinkla/awesome-fuse</a> with ranks
+	This list is a copy of <a href="http://github.com/vinkla/awesome-fuse">vinkla/awesome-fuse</a> with ranks
 </p>
 
 <script>

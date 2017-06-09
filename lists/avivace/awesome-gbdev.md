@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="avivace/awesome-gbdev">avivace/awesome-gbdev</a> with ranks
+	This list is a copy of <a href="http://github.com/avivace/awesome-gbdev">avivace/awesome-gbdev</a> with ranks
 </p>
 ---
 # Awesome Game Boy Development [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](#awesome-gbdev)
@@ -279,7 +279,7 @@ See [LICENSE](LICENSE) for more information.
 [Every](https://github.com/avivace/awesome-gbdev/graphs/contributors) contributor of this project, Jeff Frohwein, Pascal Felber, KOOPa, Pan of Anthrox, GABY, Marat Fayzullin, Paul Robson, Martin Korth, BOWSER, neviksti, Martin “nocash" Korth, Nitro2k01, Duo, Chris Antonellis, Michael Hope, Beware, Jonathan “Lord Nightmare” Gevaryahu, Marat Fayzullin, Paul Robson, Carsten Sorense, Sindre Aamås, Otaku No Zoku, GeeBee.
 ---
 <p align="center">
-	This list is a copy of <a href="avivace/awesome-gbdev">avivace/awesome-gbdev</a> with ranks
+	This list is a copy of <a href="http://github.com/avivace/awesome-gbdev">avivace/awesome-gbdev</a> with ranks
 </p>
 
 <script>

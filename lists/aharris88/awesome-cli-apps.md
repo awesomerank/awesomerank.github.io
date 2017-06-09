@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="aharris88/awesome-cli-apps">aharris88/awesome-cli-apps</a> with ranks
+	This list is a copy of <a href="http://github.com/aharris88/awesome-cli-apps">aharris88/awesome-cli-apps</a> with ranks
 </p>
 ---
 <h1 align="center">
@@ -223,7 +223,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 
 - [autojump ★5506](https://github.com/wting/autojump) - A cd command that learns - easily navigate directories from the command line- [https://github.com/wting/autojump/wiki](https://github.com/wting/autojump/wiki).
 - [fasd ★3112](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories, inspired by autojump, z and v.
-- [pm ★39](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
+- [pm ★39 ⏳1Y](https://github.com/Angelmmiguel/pm) - The easy way to switch to your projects on the shell.
 - [z ★6816](https://github.com/rupa/z) - z is the new j, yo.
 - [happyfinder ★273 ⏳1Y](https://github.com/hugows/hf) - (another) Fuzzy file finder for the command line.
 - [PathPicker ★3374](https://github.com/facebook/pathpicker) - After parsing the output from a command, PathPicker presents you with a nice UI to select which files you're interested in.
@@ -342,7 +342,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 To the extent possible under law, [Adam Harris](https://twitter.com/adamCoder) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="aharris88/awesome-cli-apps">aharris88/awesome-cli-apps</a> with ranks
+	This list is a copy of <a href="http://github.com/aharris88/awesome-cli-apps">aharris88/awesome-cli-apps</a> with ranks
 </p>
 
 <script>

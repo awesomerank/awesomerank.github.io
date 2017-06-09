@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="zingchart/awesome-charting">zingchart/awesome-charting</a> with ranks
+	This list is a copy of <a href="http://github.com/zingchart/awesome-charting">zingchart/awesome-charting</a> with ranks
 </p>
 ---
 
@@ -85,7 +85,7 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [Well Formed Data](http://well-formed-data.net/archives/1210/little-boxes) - Thought pieces on information visualization and design by Moritz Stefaner previously of the World Economic Forum.
 ---
 <p align="center">
-	This list is a copy of <a href="zingchart/awesome-charting">zingchart/awesome-charting</a> with ranks
+	This list is a copy of <a href="http://github.com/zingchart/awesome-charting">zingchart/awesome-charting</a> with ranks
 </p>
 
 <script>

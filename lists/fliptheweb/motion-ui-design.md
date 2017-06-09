@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="fliptheweb/motion-ui-design">fliptheweb/motion-ui-design</a> with ranks
+	This list is a copy of <a href="http://github.com/fliptheweb/motion-ui-design">fliptheweb/motion-ui-design</a> with ranks
 </p>
 ---
 # Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -223,7 +223,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 **Collected with :heart: by Artur Kornakov and [these awesome guys](https://github.com/fliptheweb/motion-ui-design/graphs/contributors)**
 ---
 <p align="center">
-	This list is a copy of <a href="fliptheweb/motion-ui-design">fliptheweb/motion-ui-design</a> with ranks
+	This list is a copy of <a href="http://github.com/fliptheweb/motion-ui-design">fliptheweb/motion-ui-design</a> with ranks
 </p>
 
 <script>

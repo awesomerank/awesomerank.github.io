@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="burningtree/awesome-json">burningtree/awesome-json</a> with ranks
+	This list is a copy of <a href="http://github.com/burningtree/awesome-json">burningtree/awesome-json</a> with ranks
 </p>
 ---
 # Awesome JSON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -374,7 +374,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/bur
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="burningtree/awesome-json">burningtree/awesome-json</a> with ranks
+	This list is a copy of <a href="http://github.com/burningtree/awesome-json">burningtree/awesome-json</a> with ranks
 </p>
 
 <script>

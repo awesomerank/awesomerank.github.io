@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ChristosChristofidis/awesome-deep-learning">ChristosChristofidis/awesome-deep-learning</a> with ranks
+	This list is a copy of <a href="http://github.com/ChristosChristofidis/awesome-deep-learning">ChristosChristofidis/awesome-deep-learning</a> with ranks
 </p>
 ---
 # Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -497,7 +497,7 @@ Have anything in mind that you think is awesome and would fit in this list? Feel
 To the extent possible under law, [Christos Christofidis](https://linkedin.com/in/Christofidis) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="ChristosChristofidis/awesome-deep-learning">ChristosChristofidis/awesome-deep-learning</a> with ranks
+	This list is a copy of <a href="http://github.com/ChristosChristofidis/awesome-deep-learning">ChristosChristofidis/awesome-deep-learning</a> with ranks
 </p>
 
 <script>

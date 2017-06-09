@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks
+	This list is a copy of <a href="http://github.com/seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks
 </p>
 ---
 # Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -139,7 +139,7 @@ Pull requests very welcome.
 To the extent possible under law, [Sean Coyne ★42](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks
+	This list is a copy of <a href="http://github.com/seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks
 </p>
 
 <script>

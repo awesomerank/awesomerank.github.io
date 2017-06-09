@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
+	This list is a copy of <a href="http://github.com/cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
 </p>
 ---
 # Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -869,7 +869,7 @@ With many thanks to the [contributors](https://github.com/davisonio/awesome-irc/
 **Contributions are welcome!** Check out the [Contributing Guidelines](https://github.com/davisonio/awesome-irc/blob/master/CONTRIBUTING.md). :raised_hands:
 ---
 <p align="center">
-	This list is a copy of <a href="cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
+	This list is a copy of <a href="http://github.com/cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="mre/awesome-static-analysis">mre/awesome-static-analysis</a> with ranks
+	This list is a copy of <a href="http://github.com/mre/awesome-static-analysis">mre/awesome-static-analysis</a> with ranks
 </p>
 ---
 ![Logo](https://github.com/mre/awesome-static-analysis/blob/master/awesome.png)
@@ -75,8 +75,10 @@ This is a collection of static analysis tools and code quality checkers.
 
 * [clang-tidy](http://clang.llvm.org/extra/clang-tidy/) - clang static analyser
 * [CMetrics ★17 ⏳2Y](https://github.com/MetricsGrimoire/CMetrics) - Measures size and complexity for C files
+* [CodeSonar from GrammaTech](https://www.grammatech.com/products/codesonar) :copyright: - Advanced, whole program, deep path, static analysis of C and C++ with easy-to-understand explanations and code and path visualization.
 * [Corrode ★1570](https://github.com/jameysharp/corrode) - Semi-automatic translation from C to Rust. Could reveal bugs in the original implementation by showing Rust compiler warnings and errors.
 * [cppcheck ★1264](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
+* [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) - automated C++ cecker that follows Google's style guide
 * [cqmetrics ★18](https://github.com/dspinellis/cqmetrics) - quality metrics for C code
 * [CScout](https://www.spinellis.gr/cscout/) - complexity and quality metrics for for C and C preprocessor code
 * [flawfinder](http://www.dwheeler.com/flawfinder/) - finds possible security weaknesses
@@ -448,7 +450,7 @@ To the extent possible under law, [Matthias Endler](http://matthias-endler.de) h
 Title image [Designed by Freepik](http://www.freepik.com).
 ---
 <p align="center">
-	This list is a copy of <a href="mre/awesome-static-analysis">mre/awesome-static-analysis</a> with ranks
+	This list is a copy of <a href="http://github.com/mre/awesome-static-analysis">mre/awesome-static-analysis</a> with ranks
 </p>
 
 <script>

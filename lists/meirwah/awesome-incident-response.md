@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="meirwah/awesome-incident-response">meirwah/awesome-incident-response</a> with ranks
+	This list is a copy of <a href="http://github.com/meirwah/awesome-incident-response">meirwah/awesome-incident-response</a> with ranks
 </p>
 ---
 # awesome-incident-response
@@ -213,7 +213,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [TRIAGE-IR](https://code.google.com/p/triage-ir/) - Triage-IR is a IR collector for Windows
 ---
 <p align="center">
-	This list is a copy of <a href="meirwah/awesome-incident-response">meirwah/awesome-incident-response</a> with ranks
+	This list is a copy of <a href="http://github.com/meirwah/awesome-incident-response">meirwah/awesome-incident-response</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="drmonkeyninja/awesome-textpattern">drmonkeyninja/awesome-textpattern</a> with ranks
+	This list is a copy of <a href="http://github.com/drmonkeyninja/awesome-textpattern">drmonkeyninja/awesome-textpattern</a> with ranks
 </p>
 ---
 h1. Awesome Textpattern <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome" /></a>
@@ -202,7 +202,7 @@ h2(#license). License
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Awesome Textpattern</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://andy-carter.com" property="cc:attributionName" rel="cc:attributionURL">Andy Carter</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ---
 <p align="center">
-	This list is a copy of <a href="drmonkeyninja/awesome-textpattern">drmonkeyninja/awesome-textpattern</a> with ranks
+	This list is a copy of <a href="http://github.com/drmonkeyninja/awesome-textpattern">drmonkeyninja/awesome-textpattern</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="loverajoel/jstips">loverajoel/jstips</a> with ranks
+	This list is a copy of <a href="http://github.com/loverajoel/jstips">loverajoel/jstips</a> with ranks
 </p>
 ---
 ![header](https://github.com/loverajoel/jstips/blob/gh-pages/assets/images/jstips-animation.gif)
@@ -123,7 +123,7 @@ There are a lot of ways to get updates, choose your own
 [GNU GENERAL PUBLIC LICENSE](https://github.com/loverajoel/jstips/blob/master/LICENSE.md)
 ---
 <p align="center">
-	This list is a copy of <a href="loverajoel/jstips">loverajoel/jstips</a> with ranks
+	This list is a copy of <a href="http://github.com/loverajoel/jstips">loverajoel/jstips</a> with ranks
 </p>
 
 <script>

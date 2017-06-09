@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="AllThingsSmitty/must-watch-css">AllThingsSmitty/must-watch-css</a> with ranks
+	This list is a copy of <a href="http://github.com/AllThingsSmitty/must-watch-css">AllThingsSmitty/must-watch-css</a> with ranks
 </p>
 ---
 <p align="center">
@@ -98,7 +98,7 @@ This is a collection of well-received talks about CSS, covering topics such as C
 1. [**The Top 5 Mistakes of Massive CSS**](https://www.youtube.com/watch?v=j6sAm7CLoCQ): Nicole Sullivan, Build Conference `37:53`
 ---
 <p align="center">
-	This list is a copy of <a href="AllThingsSmitty/must-watch-css">AllThingsSmitty/must-watch-css</a> with ranks
+	This list is a copy of <a href="http://github.com/AllThingsSmitty/must-watch-css">AllThingsSmitty/must-watch-css</a> with ranks
 </p>
 
 <script>

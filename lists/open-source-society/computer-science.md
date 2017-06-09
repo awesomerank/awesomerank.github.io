@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="open-source-society/computer-science">open-source-society/computer-science</a> with ranks
+	This list is a copy of <a href="http://github.com/open-source-society/computer-science">open-source-society/computer-science</a> with ranks
 </p>
 ---
 ![Open Source Society University (OSSU)](http://i.imgur.com/Cxv8DM4.png)
@@ -542,7 +542,7 @@ You can change the status of your board to be *public* or *private*.
 - [Obtaining a Thorough CS Background Online](http://spin.atomicobject.com/2015/05/15/obtaining-thorough-cs-background-online/)
 ---
 <p align="center">
-	This list is a copy of <a href="open-source-society/computer-science">open-source-society/computer-science</a> with ranks
+	This list is a copy of <a href="http://github.com/open-source-society/computer-science">open-source-society/computer-science</a> with ranks
 </p>
 
 <script>

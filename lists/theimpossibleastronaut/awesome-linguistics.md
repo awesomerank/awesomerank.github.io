@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="theimpossibleastronaut/awesome-linguistics">theimpossibleastronaut/awesome-linguistics</a> with ranks
+	This list is a copy of <a href="http://github.com/theimpossibleastronaut/awesome-linguistics">theimpossibleastronaut/awesome-linguistics</a> with ranks
 </p>
 ---
 ### Awesome Linguistics
@@ -73,7 +73,7 @@ A curated list of anything remotely related to linguistics, sorted in alphabetic
 * [15 most popular books on good reads](http://www.goodreads.com/shelf/show/natural-language-processing)
 ---
 <p align="center">
-	This list is a copy of <a href="theimpossibleastronaut/awesome-linguistics">theimpossibleastronaut/awesome-linguistics</a> with ranks
+	This list is a copy of <a href="http://github.com/theimpossibleastronaut/awesome-linguistics">theimpossibleastronaut/awesome-linguistics</a> with ranks
 </p>
 
 <script>

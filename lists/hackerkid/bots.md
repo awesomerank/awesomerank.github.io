@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="hackerkid/bots">hackerkid/bots</a> with ranks
+	This list is a copy of <a href="http://github.com/hackerkid/bots">hackerkid/bots</a> with ranks
 </p>
 ---
 <p align="center">
@@ -134,7 +134,7 @@ Table of Contents
 To the extent possible under law, [Vishnu Ks](http://www.vishnuks.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="hackerkid/bots">hackerkid/bots</a> with ranks
+	This list is a copy of <a href="http://github.com/hackerkid/bots">hackerkid/bots</a> with ranks
 </p>
 
 <script>

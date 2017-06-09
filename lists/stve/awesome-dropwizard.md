@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="stve/awesome-dropwizard">stve/awesome-dropwizard</a> with ranks
+	This list is a copy of <a href="http://github.com/stve/awesome-dropwizard">stve/awesome-dropwizard</a> with ranks
 </p>
 ---
 # Awesome Dropwizard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)][awesome]
@@ -148,7 +148,7 @@ Check out more [awesome projects ★59088](https://github.com/sindresorhus/aweso
 To the extent possible under law, [Steve Agalloco](http://beforeitwasround.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="stve/awesome-dropwizard">stve/awesome-dropwizard</a> with ranks
+	This list is a copy of <a href="http://github.com/stve/awesome-dropwizard">stve/awesome-dropwizard</a> with ranks
 </p>
 
 <script>

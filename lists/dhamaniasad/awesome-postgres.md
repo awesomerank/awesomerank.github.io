@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="dhamaniasad/awesome-postgres">dhamaniasad/awesome-postgres</a> with ranks
+	This list is a copy of <a href="http://github.com/dhamaniasad/awesome-postgres">dhamaniasad/awesome-postgres</a> with ranks
 </p>
 ---
 # Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -186,7 +186,7 @@ Ranked awesome lists, all in one place
 * [Heroku Postgres](https://elements.heroku.com/addons/heroku-postgresql) - Plans from free to huge, operated by PostgreSQL experts. Does not require running your app on Heroku. Free plan includes 10,000 rows, 20 connections, up to two backups, and has PostGIS support.
 ---
 <p align="center">
-	This list is a copy of <a href="dhamaniasad/awesome-postgres">dhamaniasad/awesome-postgres</a> with ranks
+	This list is a copy of <a href="http://github.com/dhamaniasad/awesome-postgres">dhamaniasad/awesome-postgres</a> with ranks
 </p>
 
 <script>

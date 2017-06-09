@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sachin1092/awesome-material">sachin1092/awesome-material</a> with ranks
+	This list is a copy of <a href="http://github.com/sachin1092/awesome-material">sachin1092/awesome-material</a> with ranks
 </p>
 ---
 # Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -89,7 +89,7 @@ Other amazingly awesome lists can be found in the [awesome-awesomeness ★18868]
 Your contributions are always welcome! Please read the [contribution guidelines](https://github.com/sachin1092/awesome-material/blob/master/contributing.md) first.
 ---
 <p align="center">
-	This list is a copy of <a href="sachin1092/awesome-material">sachin1092/awesome-material</a> with ranks
+	This list is a copy of <a href="http://github.com/sachin1092/awesome-material">sachin1092/awesome-material</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sotayamashita/awesome-css">sotayamashita/awesome-css</a> with ranks
+	This list is a copy of <a href="http://github.com/sotayamashita/awesome-css">sotayamashita/awesome-css</a> with ranks
 </p>
 ---
 [awesome-link]:  https://github.com/sindresorhus/awesome
@@ -350,7 +350,7 @@ Here is [CSS in JS techniques comparison ★2204](https://github.com/MicheleBert
 To the extent possible under law, [Sota Yamashita](https://github.com/sotayamashita) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="sotayamashita/awesome-css">sotayamashita/awesome-css</a> with ranks
+	This list is a copy of <a href="http://github.com/sotayamashita/awesome-css">sotayamashita/awesome-css</a> with ranks
 </p>
 
 <script>

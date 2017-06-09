@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="KimberlyMunoz/empathy-in-engineering">KimberlyMunoz/empathy-in-engineering</a> with ranks
+	This list is a copy of <a href="http://github.com/KimberlyMunoz/empathy-in-engineering">KimberlyMunoz/empathy-in-engineering</a> with ranks
 </p>
 ---
 # Empathy in Engineering [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -62,7 +62,7 @@ Sometimes you need code samples to implement strategies above.
 - [NoCoffee: JS Bookmarklet Simulating Low Vision Scenarios](https://accessgarage.wordpress.com/2013/02/09/458/) - This is a JS bookmarklet that takes any page and simulates in low vision scenarios.
 ---
 <p align="center">
-	This list is a copy of <a href="KimberlyMunoz/empathy-in-engineering">KimberlyMunoz/empathy-in-engineering</a> with ranks
+	This list is a copy of <a href="http://github.com/KimberlyMunoz/empathy-in-engineering">KimberlyMunoz/empathy-in-engineering</a> with ranks
 </p>
 
 <script>

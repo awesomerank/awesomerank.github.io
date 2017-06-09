@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="tiimgreen/github-cheat-sheet">tiimgreen/github-cheat-sheet</a> with ranks
+	This list is a copy of <a href="http://github.com/tiimgreen/github-cheat-sheet">tiimgreen/github-cheat-sheet</a> with ranks
 </p>
 ---
 # GitHub Cheat Sheet [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -1060,7 +1060,7 @@ $ git config --global color.ui 1
 | GitHub Flow  | http://scottchacon.com/2011/08/31/github-flow.html |
 ---
 <p align="center">
-	This list is a copy of <a href="tiimgreen/github-cheat-sheet">tiimgreen/github-cheat-sheet</a> with ranks
+	This list is a copy of <a href="http://github.com/tiimgreen/github-cheat-sheet">tiimgreen/github-cheat-sheet</a> with ranks
 </p>
 
 <script>

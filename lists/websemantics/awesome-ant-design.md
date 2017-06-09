@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="websemantics/awesome-ant-design">websemantics/awesome-ant-design</a> with ranks
+	This list is a copy of <a href="http://github.com/websemantics/awesome-ant-design">websemantics/awesome-ant-design</a> with ranks
 </p>
 ---
 ```   
@@ -146,7 +146,7 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 ---
 <p align="center">
-	This list is a copy of <a href="websemantics/awesome-ant-design">websemantics/awesome-ant-design</a> with ranks
+	This list is a copy of <a href="http://github.com/websemantics/awesome-ant-design">websemantics/awesome-ant-design</a> with ranks
 </p>
 
 <script>

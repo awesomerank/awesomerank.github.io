@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="manuzhang/awesome-streaming">manuzhang/awesome-streaming</a> with ranks
+	This list is a copy of <a href="http://github.com/manuzhang/awesome-streaming">manuzhang/awesome-streaming</a> with ranks
 </p>
 ---
 ## Awesome Streaming  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/manuzhang/awesome-streaming.svg?branch=master)](https://travis-ci.org/manuzhang/awesome-streaming)
@@ -131,7 +131,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 Licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="manuzhang/awesome-streaming">manuzhang/awesome-streaming</a> with ranks
+	This list is a copy of <a href="http://github.com/manuzhang/awesome-streaming">manuzhang/awesome-streaming</a> with ranks
 </p>
 
 <script>

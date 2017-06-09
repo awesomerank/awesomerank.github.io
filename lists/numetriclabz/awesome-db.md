@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="numetriclabz/awesome-db">numetriclabz/awesome-db</a> with ranks
+	This list is a copy of <a href="http://github.com/numetriclabz/awesome-db">numetriclabz/awesome-db</a> with ranks
 </p>
 ---
 ﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -86,7 +86,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [db-readings ★4491](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
 ---
 <p align="center">
-	This list is a copy of <a href="numetriclabz/awesome-db">numetriclabz/awesome-db</a> with ranks
+	This list is a copy of <a href="http://github.com/numetriclabz/awesome-db">numetriclabz/awesome-db</a> with ranks
 </p>
 
 <script>

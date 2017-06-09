@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="JanVanRyswyck/awesome-talks">JanVanRyswyck/awesome-talks</a> with ranks
+	This list is a copy of <a href="http://github.com/JanVanRyswyck/awesome-talks">JanVanRyswyck/awesome-talks</a> with ranks
 </p>
 ---
 # Awesome talks
@@ -144,7 +144,7 @@ There are a lot of screencasts, recordings of user group gatherings and conferen
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="JanVanRyswyck/awesome-talks">JanVanRyswyck/awesome-talks</a> with ranks
+	This list is a copy of <a href="http://github.com/JanVanRyswyck/awesome-talks">JanVanRyswyck/awesome-talks</a> with ranks
 </p>
 
 <script>

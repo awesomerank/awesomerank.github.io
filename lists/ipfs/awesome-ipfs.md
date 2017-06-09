@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ipfs/awesome-ipfs">ipfs/awesome-ipfs</a> with ranks
+	This list is a copy of <a href="http://github.com/ipfs/awesome-ipfs">ipfs/awesome-ipfs</a> with ranks
 </p>
 ---
 # Awesome IPFS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -136,7 +136,7 @@ Please add (or remove) stuff from this list if you see anything awesome! [Open a
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="ipfs/awesome-ipfs">ipfs/awesome-ipfs</a> with ranks
+	This list is a copy of <a href="http://github.com/ipfs/awesome-ipfs">ipfs/awesome-ipfs</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="aframevr/awesome-aframe">aframevr/awesome-aframe</a> with ranks
+	This list is a copy of <a href="http://github.com/aframevr/awesome-aframe">aframevr/awesome-aframe</a> with ranks
 </p>
 ---
 # awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -144,11 +144,11 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Heatmap3d ★5](https://github.com/morandd/aframe-heatmap3d) - Yet another heatmap/heightmap component
 - [Height Grid ★8 ⏳1Y](https://github.com/andreasplesch/aframe-heightgrid-component) - Terrain
 - [Hexmap ★0](https://github.com/morandd/aframe-hexgraph-hexmap) - A hex grid/map for data viz (inspired by deck.gl's hexmap layer)
-- [href ★29](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
+- [href ★29 ⏳1Y](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
 - [HTML Texture ★39](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas
 - [Interpolation ★5 ⏳1Y](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
 - [k-frame](https://github.com/ngokevin/k-frame) - Kevin's collection of A-Frame components
-- [Keyboard ★5](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
+- [Keyboard ★5 ⏳1Y](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
 - [L-System ★19](https://github.com/nylki/aframe-lsystem-component) - Render [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems
 - [Layout ★29](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
 - [Leap Hands ★91](https://github.com/openleap/aframe-leap-hands) - [Leap Motion](https://www.leapmotion.com/) controller support
@@ -196,7 +196,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse + pointerlock, touch-to-move, with [physics ★56](https://github.com/donmccurdy/aframe-physics-system) compatibility
 - [Video Controls ★26](https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
 - [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for the HTC Vive's controllers
-- [WebVR Controller ★27](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
+- [WebVR Controller ★27 ⏳1Y](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
 - [WebVR-UI](https://googlevr.github.io/webvr-ui/examples/aframe.html) - "Enter VR" Button by Google VR [[Code]](https://github.com/googlevr/webvr-ui/blob/master/examples/aframe.html)
 
 ### Materials
@@ -334,7 +334,7 @@ Contributions and suggestions are very welcome. Check out the guidelines and [ma
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0)
 ---
 <p align="center">
-	This list is a copy of <a href="aframevr/awesome-aframe">aframevr/awesome-aframe</a> with ranks
+	This list is a copy of <a href="http://github.com/aframevr/awesome-aframe">aframevr/awesome-aframe</a> with ranks
 </p>
 
 <script>

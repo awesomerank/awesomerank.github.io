@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="jdorfman/awesome-json-datasets">jdorfman/awesome-json-datasets</a> with ranks
+	This list is a copy of <a href="http://github.com/jdorfman/awesome-json-datasets">jdorfman/awesome-json-datasets</a> with ranks
 </p>
 ---
 # Awesome JSON Datasets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -442,7 +442,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 To the extent possible under law, [MaxCDN](https://www.maxcdn.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="jdorfman/awesome-json-datasets">jdorfman/awesome-json-datasets</a> with ranks
+	This list is a copy of <a href="http://github.com/jdorfman/awesome-json-datasets">jdorfman/awesome-json-datasets</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sindresorhus/awesome-tap">sindresorhus/awesome-tap</a> with ranks
+	This list is a copy of <a href="http://github.com/sindresorhus/awesome-tap">sindresorhus/awesome-tap</a> with ranks
 </p>
 ---
 # Awesome TAP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
@@ -132,7 +132,7 @@ Things that consume TAP output.
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="sindresorhus/awesome-tap">sindresorhus/awesome-tap</a> with ranks
+	This list is a copy of <a href="http://github.com/sindresorhus/awesome-tap">sindresorhus/awesome-tap</a> with ranks
 </p>
 
 <script>

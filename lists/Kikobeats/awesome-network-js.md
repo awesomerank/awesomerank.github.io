@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="Kikobeats/awesome-network-js">Kikobeats/awesome-network-js</a> with ranks
+	This list is a copy of <a href="http://github.com/Kikobeats/awesome-network-js">Kikobeats/awesome-network-js</a> with ranks
 </p>
 ---
 # Awesome JavaScript Network [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★321](https://github.com/Kikobeats/awesome-network-js) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-network-js/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-network-js) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
@@ -80,7 +80,7 @@ Ranked awesome lists, all in one place
 * [udp-packet ★31 ⏳1Y](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
 ---
 <p align="center">
-	This list is a copy of <a href="Kikobeats/awesome-network-js">Kikobeats/awesome-network-js</a> with ranks
+	This list is a copy of <a href="http://github.com/Kikobeats/awesome-network-js">Kikobeats/awesome-network-js</a> with ranks
 </p>
 
 <script>

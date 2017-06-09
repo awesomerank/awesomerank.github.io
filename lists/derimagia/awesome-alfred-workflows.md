@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="derimagia/awesome-alfred-workflows">derimagia/awesome-alfred-workflows</a> with ranks
+	This list is a copy of <a href="http://github.com/derimagia/awesome-alfred-workflows">derimagia/awesome-alfred-workflows</a> with ranks
 </p>
 ---
 <h1 align="center">
@@ -118,7 +118,7 @@ Here are a list of other collections of alfred collections which are useful.
 To the extent possible under law, [David Wikoff](https://github.com/derimagia) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="derimagia/awesome-alfred-workflows">derimagia/awesome-alfred-workflows</a> with ranks
+	This list is a copy of <a href="http://github.com/derimagia/awesome-alfred-workflows">derimagia/awesome-alfred-workflows</a> with ranks
 </p>
 
 <script>

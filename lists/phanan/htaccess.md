@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="phanan/htaccess">phanan/htaccess</a> with ranks
+	This list is a copy of <a href="http://github.com/phanan/htaccess">phanan/htaccess</a> with ranks
 </p>
 ---
 # .htaccess Snippets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -536,7 +536,7 @@ RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 [Source ★49 ⏳1Y](https://github.com/vincentorback/WebP-images-with-htaccess)
 ---
 <p align="center">
-	This list is a copy of <a href="phanan/htaccess">phanan/htaccess</a> with ranks
+	This list is a copy of <a href="http://github.com/phanan/htaccess">phanan/htaccess</a> with ranks
 </p>
 
 <script>

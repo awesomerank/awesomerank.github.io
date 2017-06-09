@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="arbox/nlp-with-ruby">arbox/nlp-with-ruby</a> with ranks
+	This list is a copy of <a href="http://github.com/arbox/nlp-with-ruby">arbox/nlp-with-ruby</a> with ranks
 </p>
 ---
 <img src="header.png" align="center">
@@ -645,7 +645,7 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
 ---
 <p align="center">
-	This list is a copy of <a href="arbox/nlp-with-ruby">arbox/nlp-with-ruby</a> with ranks
+	This list is a copy of <a href="http://github.com/arbox/nlp-with-ruby">arbox/nlp-with-ruby</a> with ranks
 </p>
 
 <script>

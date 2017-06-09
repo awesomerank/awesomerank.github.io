@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="yenchenlin/awesome-watchos">yenchenlin/awesome-watchos</a> with ranks
+	This list is a copy of <a href="http://github.com/yenchenlin/awesome-watchos">yenchenlin/awesome-watchos</a> with ranks
 </p>
 ---
 <img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png" width="500">
@@ -185,7 +185,7 @@ Feel free to contribute & Thank you very much!
 To the extent possible under law, [YenChen Lin](https://github.com/yenchenlin1994) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="yenchenlin/awesome-watchos">yenchenlin/awesome-watchos</a> with ranks
+	This list is a copy of <a href="http://github.com/yenchenlin/awesome-watchos">yenchenlin/awesome-watchos</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
+	This list is a copy of <a href="http://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
 </p>
 ---
 # Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -1286,7 +1286,7 @@ be
 * The few go reference I found where pulled from [this page](https://github.com/golang/go/wiki/Projects)
 ---
 <p align="center">
-	This list is a copy of <a href="josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
+	This list is a copy of <a href="http://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
 </p>
 
 <script>

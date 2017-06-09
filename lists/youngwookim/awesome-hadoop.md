@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="youngwookim/awesome-hadoop">youngwookim/awesome-hadoop</a> with ranks
+	This list is a copy of <a href="http://github.com/youngwookim/awesome-hadoop">youngwookim/awesome-hadoop</a> with ranks
 </p>
 ---
 # Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -326,7 +326,7 @@ Various resources, such as books, websites and articles.
 Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome ★59088](https://github.com/sindresorhus/awesome) list.
 ---
 <p align="center">
-	This list is a copy of <a href="youngwookim/awesome-hadoop">youngwookim/awesome-hadoop</a> with ranks
+	This list is a copy of <a href="http://github.com/youngwookim/awesome-hadoop">youngwookim/awesome-hadoop</a> with ranks
 </p>
 
 <script>

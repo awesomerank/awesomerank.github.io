@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="dahlia/awesome-sqlalchemy">dahlia/awesome-sqlalchemy</a> with ranks
+	This list is a copy of <a href="http://github.com/dahlia/awesome-sqlalchemy">dahlia/awesome-sqlalchemy</a> with ranks
 </p>
 ---
 Awesome SQLAlchemy
@@ -485,7 +485,7 @@ sqlalchemy_mixins_
 .. _sqlalchemy_mixins: https://github.com/absent1706/sqlalchemy-mixins
 ---
 <p align="center">
-	This list is a copy of <a href="dahlia/awesome-sqlalchemy">dahlia/awesome-sqlalchemy</a> with ranks
+	This list is a copy of <a href="http://github.com/dahlia/awesome-sqlalchemy">dahlia/awesome-sqlalchemy</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="vinta/awesome-python">vinta/awesome-python</a> with ranks
+	This list is a copy of <a href="http://github.com/vinta/awesome-python">vinta/awesome-python</a> with ranks
 </p>
 ---
 # Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -1305,7 +1305,7 @@ Your contributions are always welcome! Please take a look at the [contribution g
 I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/vinta/awesome-python/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
 ---
 <p align="center">
-	This list is a copy of <a href="vinta/awesome-python">vinta/awesome-python</a> with ranks
+	This list is a copy of <a href="http://github.com/vinta/awesome-python">vinta/awesome-python</a> with ranks
 </p>
 
 <script>

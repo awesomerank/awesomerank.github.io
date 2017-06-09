@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ramnes/awesome-mongodb">ramnes/awesome-mongodb</a> with ranks
+	This list is a copy of <a href="http://github.com/ramnes/awesome-mongodb">ramnes/awesome-mongodb</a> with ranks
 </p>
 ---
 ![Awesome MongoDB](https://github.com/ramnes/awesome-mongodb/blob/master/logo.png)
@@ -235,7 +235,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 To the extent possible under law, [Guillaume Gelin](https://github.com/ramnes) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="ramnes/awesome-mongodb">ramnes/awesome-mongodb</a> with ranks
+	This list is a copy of <a href="http://github.com/ramnes/awesome-mongodb">ramnes/awesome-mongodb</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="brunocvcunha/awesome-userscripts">brunocvcunha/awesome-userscripts</a> with ranks
+	This list is a copy of <a href="http://github.com/brunocvcunha/awesome-userscripts">brunocvcunha/awesome-userscripts</a> with ranks
 </p>
 ---
 # Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
@@ -144,7 +144,7 @@ Please have a look at [CONTRIBUTING](https://github.com/brunocvcunha/awesome-use
 To the extent possible under law, [Bruno Candido Volpato da Cunha](http://www.brunocandido.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="brunocvcunha/awesome-userscripts">brunocvcunha/awesome-userscripts</a> with ranks
+	This list is a copy of <a href="http://github.com/brunocvcunha/awesome-userscripts">brunocvcunha/awesome-userscripts</a> with ranks
 </p>
 
 <script>

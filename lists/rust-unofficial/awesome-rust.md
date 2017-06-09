@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="rust-unofficial/awesome-rust">rust-unofficial/awesome-rust</a> with ranks
+	This list is a copy of <a href="http://github.com/rust-unofficial/awesome-rust">rust-unofficial/awesome-rust</a> with ranks
 </p>
 ---
 # Awesome Rust
@@ -917,7 +917,7 @@ See also [Rust web framework comparison ★440](https://github.com/flosse/rust-w
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="rust-unofficial/awesome-rust">rust-unofficial/awesome-rust</a> with ranks
+	This list is a copy of <a href="http://github.com/rust-unofficial/awesome-rust">rust-unofficial/awesome-rust</a> with ranks
 </p>
 
 <script>

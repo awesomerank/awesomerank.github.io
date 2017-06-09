@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="mateusortiz/webcomponents-the-right-way">mateusortiz/webcomponents-the-right-way</a> with ranks
+	This list is a copy of <a href="http://github.com/mateusortiz/webcomponents-the-right-way">mateusortiz/webcomponents-the-right-way</a> with ranks
 </p>
 ---
 # Web Components the Right Way
@@ -205,7 +205,7 @@ Code licensed under the:
 @author Mateus Ortiz <mteusortiz@gmail.com>
 ---
 <p align="center">
-	This list is a copy of <a href="mateusortiz/webcomponents-the-right-way">mateusortiz/webcomponents-the-right-way</a> with ranks
+	This list is a copy of <a href="http://github.com/mateusortiz/webcomponents-the-right-way">mateusortiz/webcomponents-the-right-way</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
+	This list is a copy of <a href="http://github.com/kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
 </p>
 ---
 # Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -773,7 +773,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/kil
 Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ---
 <p align="center">
-	This list is a copy of <a href="kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
+	This list is a copy of <a href="http://github.com/kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
 </p>
 
 <script>

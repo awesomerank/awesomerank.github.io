@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="pazguille/offline-first">pazguille/offline-first</a> with ranks
+	This list is a copy of <a href="http://github.com/pazguille/offline-first">pazguille/offline-first</a> with ranks
 </p>
 ---
 # Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
@@ -891,7 +891,7 @@ Thanks to all [contributors](https://github.com/pazguille/offline-first/graphs/c
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="pazguille/offline-first">pazguille/offline-first</a> with ranks
+	This list is a copy of <a href="http://github.com/pazguille/offline-first">pazguille/offline-first</a> with ranks
 </p>
 
 <script>

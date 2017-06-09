@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="willianjusten/awesome-audio-visualization">willianjusten/awesome-audio-visualization</a> with ranks
+	This list is a copy of <a href="http://github.com/willianjusten/awesome-audio-visualization">willianjusten/awesome-audio-visualization</a> with ranks
 </p>
 ---
 <p align="center">
@@ -271,7 +271,7 @@ Your contributions are always welcome! [Click here to read the guidelines](https
 To the extent possible under law, [Willian Justen](http://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="willianjusten/awesome-audio-visualization">willianjusten/awesome-audio-visualization</a> with ranks
+	This list is a copy of <a href="http://github.com/willianjusten/awesome-audio-visualization">willianjusten/awesome-audio-visualization</a> with ranks
 </p>
 
 <script>

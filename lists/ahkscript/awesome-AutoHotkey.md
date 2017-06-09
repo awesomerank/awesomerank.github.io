@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ahkscript/awesome-AutoHotkey">ahkscript/awesome-AutoHotkey</a> with ranks
+	This list is a copy of <a href="http://github.com/ahkscript/awesome-AutoHotkey">ahkscript/awesome-AutoHotkey</a> with ranks
 </p>
 ---
 # Awesome AutoHotkey [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey-yellowgreen.svg)](https://autohotkey.com/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -322,7 +322,7 @@ Development state:
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 ---
 <p align="center">
-	This list is a copy of <a href="ahkscript/awesome-AutoHotkey">ahkscript/awesome-AutoHotkey</a> with ranks
+	This list is a copy of <a href="http://github.com/ahkscript/awesome-AutoHotkey">ahkscript/awesome-AutoHotkey</a> with ranks
 </p>
 
 <script>

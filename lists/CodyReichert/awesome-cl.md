@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="CodyReichert/awesome-cl">CodyReichert/awesome-cl</a> with ranks
+	This list is a copy of <a href="http://github.com/CodyReichert/awesome-cl">CodyReichert/awesome-cl</a> with ranks
 </p>
 ---
 <div align="center">
@@ -428,7 +428,7 @@ Utilities
 Language extensions
 -------------------
 
-* [cl21 ★619](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat][14].
+* [cl21 ★619 ⏳1Y](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat][14].
 * [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
 * [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
 * [cl-algebraic-data-type](https://bitbucket.org/tarballs_are_good/cl-algebraic-data-type) - A library for defining algebraic data types in a similar spirit to Haskell or ML. [3-clause BSD][15].
@@ -540,7 +540,7 @@ an issue to add a new framework, library or software to the list.
 [207]: https://opensource.org/licenses/bsd-license.php
 ---
 <p align="center">
-	This list is a copy of <a href="CodyReichert/awesome-cl">CodyReichert/awesome-cl</a> with ranks
+	This list is a copy of <a href="http://github.com/CodyReichert/awesome-cl">CodyReichert/awesome-cl</a> with ranks
 </p>
 
 <script>

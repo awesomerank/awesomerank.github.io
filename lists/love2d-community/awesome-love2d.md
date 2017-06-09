@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks
+	This list is a copy of <a href="http://github.com/love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks
 </p>
 ---
 # ![Awesome Löve](https://github.com/love2d-community/awesome-love2d/blob/master/logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -212,7 +212,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework
 * [Luassert ★47](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests
 * [lua-TestMore](http://fperrad.github.io/lua-TestMore/) - Port of Perl's `Test::More` package
-* [Lunatest ★59 ⏳1Y](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
+* [Lunatest ★59 ⏳2Y](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
 * [lust ★20](https://github.com/bjornbytes/lust) - Minimal test framework
 * [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool
 * [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library
@@ -309,7 +309,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 Other awesome lists can be found in the [awesome-awesomeness ★18868](https://github.com/bayandin/awesome-awesomeness) list.
 ---
 <p align="center">
-	This list is a copy of <a href="love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks
+	This list is a copy of <a href="http://github.com/love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ripienaar/free-for-dev">ripienaar/free-for-dev</a> with ranks
+	This list is a copy of <a href="http://github.com/ripienaar/free-for-dev">ripienaar/free-for-dev</a> with ranks
 </p>
 ---
 # free-for-dev
@@ -628,7 +628,7 @@ Table of Contents
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
 ---
 <p align="center">
-	This list is a copy of <a href="ripienaar/free-for-dev">ripienaar/free-for-dev</a> with ranks
+	This list is a copy of <a href="http://github.com/ripienaar/free-for-dev">ripienaar/free-for-dev</a> with ranks
 </p>
 
 <script>

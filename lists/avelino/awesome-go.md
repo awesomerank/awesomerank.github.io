@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="avelino/awesome-go">avelino/awesome-go</a> with ranks
+	This list is a copy of <a href="http://github.com/avelino/awesome-go">avelino/awesome-go</a> with ranks
 </p>
 ---
 # Awesome Go [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/avelino/awesome-go](https://badges.gitter.im/avelino/awesome-go.svg)](https://gitter.im/avelino/awesome-go?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -1578,7 +1578,7 @@ Hey dude! Help me out for a couple of :beers:!
 [![Beerpay](https://beerpay.io/avelino/awesome-go/badge.svg?style=beer-square)](https://beerpay.io/avelino/awesome-go)  [![Beerpay](https://beerpay.io/avelino/awesome-go/make-wish.svg?style=flat-square)](https://beerpay.io/avelino/awesome-go?focus=wish)
 ---
 <p align="center">
-	This list is a copy of <a href="avelino/awesome-go">avelino/awesome-go</a> with ranks
+	This list is a copy of <a href="http://github.com/avelino/awesome-go">avelino/awesome-go</a> with ranks
 </p>
 
 <script>

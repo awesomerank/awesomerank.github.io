@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ianstormtaylor/awesome-heroku">ianstormtaylor/awesome-heroku</a> with ranks
+	This list is a copy of <a href="http://github.com/ianstormtaylor/awesome-heroku">ianstormtaylor/awesome-heroku</a> with ranks
 </p>
 ---
 
@@ -143,7 +143,7 @@ Things to check out if you decide to migrate off of Heroku for some reason...
 To the extent possible under law, [Ian Storm Taylor](http://ianstormtaylor.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="ianstormtaylor/awesome-heroku">ianstormtaylor/awesome-heroku</a> with ranks
+	This list is a copy of <a href="http://github.com/ianstormtaylor/awesome-heroku">ianstormtaylor/awesome-heroku</a> with ranks
 </p>
 
 <script>

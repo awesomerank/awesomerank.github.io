@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sindresorhus/awesome-nodejs">sindresorhus/awesome-nodejs</a> with ranks
+	This list is a copy of <a href="http://github.com/sindresorhus/awesome-nodejs">sindresorhus/awesome-nodejs</a> with ranks
 </p>
 ---
 # Awesome Node.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -427,7 +427,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [get-stream ★70](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 - [into-stream ★40](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
 - [duplexify ★108](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
-- [pumpify ★101](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
+- [pumpify ★101 ⏳1Y](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
 - [peek-stream ★28](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.
 - [binary-split ★45](https://github.com/maxogden/binary-split) - Newline (or any delimiter) splitter stream.
 - [byline ★219](https://github.com/jahewson/node-byline) - Super-simple line-by-line Stream reader.
@@ -932,7 +932,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="sindresorhus/awesome-nodejs">sindresorhus/awesome-nodejs</a> with ranks
+	This list is a copy of <a href="http://github.com/sindresorhus/awesome-nodejs">sindresorhus/awesome-nodejs</a> with ranks
 </p>
 
 <script>

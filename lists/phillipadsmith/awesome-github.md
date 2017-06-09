@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="phillipadsmith/awesome-github">phillipadsmith/awesome-github</a> with ranks
+	This list is a copy of <a href="http://github.com/phillipadsmith/awesome-github">phillipadsmith/awesome-github</a> with ranks
 </p>
 ---
 # Awesome GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/phillipadsmith/awesome-github.svg)](https://travis-ci.org/phillipadsmith/awesome-github)
@@ -63,7 +63,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Speaker Deck](https://speakerdeck.com/) - Share Presentations without the Mess, by GitHub.
 - [Blocks](http://bl.ocks.org/) - This is a simple viewer for code examples hosted on GitHub Gist. (Introduction is [here](http://bost.ocks.org/mike/block/))
 - [Block Builder](http://blockbuilder.org/) - Quickly create, edit, and fork D3.js examples
-- [GitHub Template Guidelines ★52](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
+- [GitHub Template Guidelines ★52 ⏳1Y](https://github.com/cezaraugusto/github-template-guidelines) - Guidelines for creating template files for a GitHub project..
 
 ## Tips, tricks, tools, and add-ons for GitHub power users
 - [GitHub Integrations Directory](https://github.com/integrations) - Use your favorite tools with GitHub.
@@ -103,7 +103,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Gitron](https://gitron.herokuapp.com) - A web game about GitHub based on Tron movies. 
 ---
 <p align="center">
-	This list is a copy of <a href="phillipadsmith/awesome-github">phillipadsmith/awesome-github</a> with ranks
+	This list is a copy of <a href="http://github.com/phillipadsmith/awesome-github">phillipadsmith/awesome-github</a> with ranks
 </p>
 
 <script>

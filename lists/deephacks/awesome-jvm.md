@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="deephacks/awesome-jvm">deephacks/awesome-jvm</a> with ranks
+	This list is a copy of <a href="http://github.com/deephacks/awesome-jvm">deephacks/awesome-jvm</a> with ranks
 </p>
 ---
 # Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -215,6 +215,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Flame Graphs](http://www.brendangregg.com/flamegraphs.html) - Visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately.
 * [javap](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/javap.html) - Disassembles class files into code that reflects the java bytecode.
 * [jhat](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jhat.html) - Java Heap Analysis Tool
+* [jhsdb](https://docs.oracle.com/javase/9/tools/jhsdb.htm) - Launch a postmortem debugger to analyze the content of a core-dump from a crashed JVM.
 * [jinfo](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jinfo.html) - Prints configuration information for a given process.
 * [jstack](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html) - Prints stack traces of threads for a given Java process.
 * [jstat](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html) - Monitors GC and compiler statistics in the JVM.
@@ -393,7 +394,7 @@ Contributions are very welcome!
 Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) for guidelines.
 ---
 <p align="center">
-	This list is a copy of <a href="deephacks/awesome-jvm">deephacks/awesome-jvm</a> with ranks
+	This list is a copy of <a href="http://github.com/deephacks/awesome-jvm">deephacks/awesome-jvm</a> with ranks
 </p>
 
 <script>

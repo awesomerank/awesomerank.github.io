@@ -2,12 +2,12 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="vinkla/awesome-educational-games">vinkla/awesome-educational-games</a> with ranks
+	This list is a copy of <a href="http://github.com/vinkla/awesome-educational-games">vinkla/awesome-educational-games</a> with ranks
 </p>
 ---
 ---
 <p align="center">
-	This list is a copy of <a href="vinkla/awesome-educational-games">vinkla/awesome-educational-games</a> with ranks
+	This list is a copy of <a href="http://github.com/vinkla/awesome-educational-games">vinkla/awesome-educational-games</a> with ranks
 </p>
 
 <script>

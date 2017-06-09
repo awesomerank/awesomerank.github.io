@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="isRuslan/awesome-elm">isRuslan/awesome-elm</a> with ranks
+	This list is a copy of <a href="http://github.com/isRuslan/awesome-elm">isRuslan/awesome-elm</a> with ranks
 </p>
 ---
 # <img src="http://elm-lang.org/assets/logo.svg" width="26"> Awesome Elm
@@ -43,7 +43,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Builtwithelm](http://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
 * [Elm Joust ★17](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
 * [Tetris](http://people.cs.umass.edu/~jcollard/elmtris/) — A Tetris game for the web browser written in Elm.
-* [Vessel ★92 ⏳1Y](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
+* [Vessel ★92 ⏳2Y](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
 * [Sliding Puzzle ★45 ⏳1Y](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
 * [TodoMVC ★786](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
 * [TodoMVC with JSON API ★77](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
@@ -302,7 +302,7 @@ Awesome Elm is just a part of awesome thing, get more here:
 To the extent possible under law, [@isRuslan](https://github.com/isRuslan) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="isRuslan/awesome-elm">isRuslan/awesome-elm</a> with ranks
+	This list is a copy of <a href="http://github.com/isRuslan/awesome-elm">isRuslan/awesome-elm</a> with ranks
 </p>
 
 <script>

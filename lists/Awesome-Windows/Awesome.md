@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="Awesome-Windows/Awesome">Awesome-Windows/Awesome</a> with ranks
+	This list is a copy of <a href="http://github.com/Awesome-Windows/Awesome">Awesome-Windows/Awesome</a> with ranks
 </p>
 ---
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
@@ -357,7 +357,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [Freeware Icon]: https://cdn.rawgit.com/Awesome-Windows/Awesome/master/media/free.svg
 ---
 <p align="center">
-	This list is a copy of <a href="Awesome-Windows/Awesome">Awesome-Windows/Awesome</a> with ranks
+	This list is a copy of <a href="http://github.com/Awesome-Windows/Awesome">Awesome-Windows/Awesome</a> with ranks
 </p>
 
 <script>

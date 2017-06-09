@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ciconia/awesome-music">ciconia/awesome-music</a> with ranks
+	This list is a copy of <a href="http://github.com/ciconia/awesome-music">ciconia/awesome-music</a> with ranks
 </p>
 ---
 # Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -146,7 +146,7 @@ Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit
 To the extent possible under law, [Sharon Rosner](http://github.com/ciconia) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="ciconia/awesome-music">ciconia/awesome-music</a> with ranks
+	This list is a copy of <a href="http://github.com/ciconia/awesome-music">ciconia/awesome-music</a> with ranks
 </p>
 
 <script>

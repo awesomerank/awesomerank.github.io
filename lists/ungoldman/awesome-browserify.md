@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="ungoldman/awesome-browserify">ungoldman/awesome-browserify</a> with ranks
+	This list is a copy of <a href="http://github.com/ungoldman/awesome-browserify">ungoldman/awesome-browserify</a> with ranks
 </p>
 ---
 <div align="center"><img src="browserify.png" alt="Browserify!"></div>
@@ -133,7 +133,7 @@ All other content is released to the public domain under [CC0-1.0](https://spdx.
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="ungoldman/awesome-browserify">ungoldman/awesome-browserify</a> with ranks
+	This list is a copy of <a href="http://github.com/ungoldman/awesome-browserify">ungoldman/awesome-browserify</a> with ranks
 </p>
 
 <script>

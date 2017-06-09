@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="refinerycms-contrib/awesome-refinerycms">refinerycms-contrib/awesome-refinerycms</a> with ranks
+	This list is a copy of <a href="http://github.com/refinerycms-contrib/awesome-refinerycms">refinerycms-contrib/awesome-refinerycms</a> with ranks
 </p>
 ---
 # Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -69,7 +69,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 To the extent possible under law, [Brice Sanchez](http://brice-sanchez.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="refinerycms-contrib/awesome-refinerycms">refinerycms-contrib/awesome-refinerycms</a> with ranks
+	This list is a copy of <a href="http://github.com/refinerycms-contrib/awesome-refinerycms">refinerycms-contrib/awesome-refinerycms</a> with ranks
 </p>
 
 <script>

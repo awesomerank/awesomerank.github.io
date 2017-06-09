@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="emptymalei/awesome-research">emptymalei/awesome-research</a> with ranks
+	This list is a copy of <a href="http://github.com/emptymalei/awesome-research">emptymalei/awesome-research</a> with ranks
 </p>
 ---
 # Awesome Research Tools
@@ -754,7 +754,7 @@ This is a CC BY-SA licensed project. Use the source! Keep the source open!
 ![CC BY-SA](https://raw.githubusercontent.com/emptymalei/awesome-research/master/assets/cc_bysa.flat.guokr.png)
 ---
 <p align="center">
-	This list is a copy of <a href="emptymalei/awesome-research">emptymalei/awesome-research</a> with ranks
+	This list is a copy of <a href="http://github.com/emptymalei/awesome-research">emptymalei/awesome-research</a> with ranks
 </p>
 
 <script>

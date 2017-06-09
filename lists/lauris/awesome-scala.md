@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="lauris/awesome-scala">lauris/awesome-scala</a> with ranks
+	This list is a copy of <a href="http://github.com/lauris/awesome-scala">lauris/awesome-scala</a> with ranks
 </p>
 ---
 Awesome Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -550,7 +550,7 @@ Projects with over 500 stargazers are in bold.
 Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.
 ---
 <p align="center">
-	This list is a copy of <a href="lauris/awesome-scala">lauris/awesome-scala</a> with ranks
+	This list is a copy of <a href="http://github.com/lauris/awesome-scala">lauris/awesome-scala</a> with ranks
 </p>
 
 <script>

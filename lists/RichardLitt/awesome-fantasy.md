@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="RichardLitt/awesome-fantasy">RichardLitt/awesome-fantasy</a> with ranks
+	This list is a copy of <a href="http://github.com/RichardLitt/awesome-fantasy">RichardLitt/awesome-fantasy</a> with ranks
 </p>
 ---
 # awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -506,7 +506,7 @@ Try the [top 100 sci-fi and fantasy books as picked by NPR listeners](http://www
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="RichardLitt/awesome-fantasy">RichardLitt/awesome-fantasy</a> with ranks
+	This list is a copy of <a href="http://github.com/RichardLitt/awesome-fantasy">RichardLitt/awesome-fantasy</a> with ranks
 </p>
 
 <script>

@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="behzad888/awesome-aurelia">behzad888/awesome-aurelia</a> with ranks
+	This list is a copy of <a href="http://github.com/behzad888/awesome-aurelia">behzad888/awesome-aurelia</a> with ranks
 </p>
 ---
 <p align="center">
@@ -313,7 +313,7 @@ Thank you for your suggestions!
 A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
 ---
 <p align="center">
-	This list is a copy of <a href="behzad888/awesome-aurelia">behzad888/awesome-aurelia</a> with ranks
+	This list is a copy of <a href="http://github.com/behzad888/awesome-aurelia">behzad888/awesome-aurelia</a> with ranks
 </p>
 
 <script>

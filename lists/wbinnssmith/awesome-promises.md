@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="wbinnssmith/awesome-promises">wbinnssmith/awesome-promises</a> with ranks
+	This list is a copy of <a href="http://github.com/wbinnssmith/awesome-promises">wbinnssmith/awesome-promises</a> with ranks
 </p>
 ---
 <a href="https://promisesaplus.com/">
@@ -137,7 +137,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 Licensed under the [Creative Commons CC0 License](https://creativecommons.org/publicdomain/zero/1.0/).
 ---
 <p align="center">
-	This list is a copy of <a href="wbinnssmith/awesome-promises">wbinnssmith/awesome-promises</a> with ranks
+	This list is a copy of <a href="http://github.com/wbinnssmith/awesome-promises">wbinnssmith/awesome-promises</a> with ranks
 </p>
 
 <script>

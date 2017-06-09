@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="drobakowski/awesome-erlang">drobakowski/awesome-erlang</a> with ranks
+	This list is a copy of <a href="http://github.com/drobakowski/awesome-erlang">drobakowski/awesome-erlang</a> with ranks
 </p>
 ---
 # Awesome Erlang [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Analytics](https://ga-beacon.appspot.com/UA-82766782-1/awesome-erlang?flat&useReferer) ★675](https://github.com/drobakowski/awesome-erlang)
@@ -279,7 +279,7 @@ Various resources, such as books, websites and articles, for improving your Erla
 Please see [CONTRIBUTING](https://github.com/drobakowski/awesome-erlang/blob/master/CONTRIBUTING.md) for details.
 ---
 <p align="center">
-	This list is a copy of <a href="drobakowski/awesome-erlang">drobakowski/awesome-erlang</a> with ranks
+	This list is a copy of <a href="http://github.com/drobakowski/awesome-erlang">drobakowski/awesome-erlang</a> with ranks
 </p>
 
 <script>

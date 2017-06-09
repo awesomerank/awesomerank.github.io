@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="JesseTG/awesome-qt">JesseTG/awesome-qt</a> with ranks
+	This list is a copy of <a href="http://github.com/JesseTG/awesome-qt">JesseTG/awesome-qt</a> with ranks
 </p>
 ---
 # Awesome Qt  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -251,7 +251,7 @@ If you're familiar with Awesome, you'll know that there's an *extremely* wide va
 To the extent possible under law, [Jesse Talavera-Greenberg](https://jessetg.github.io) has waived all copyright and related or neighboring rights to this work.  See the [LICENSE](LICENSE) file for details.
 ---
 <p align="center">
-	This list is a copy of <a href="JesseTG/awesome-qt">JesseTG/awesome-qt</a> with ranks
+	This list is a copy of <a href="http://github.com/JesseTG/awesome-qt">JesseTG/awesome-qt</a> with ranks
 </p>
 
 <script>

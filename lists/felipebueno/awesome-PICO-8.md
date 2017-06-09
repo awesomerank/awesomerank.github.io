@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="felipebueno/awesome-PICO-8">felipebueno/awesome-PICO-8</a> with ranks
+	This list is a copy of <a href="http://github.com/felipebueno/awesome-PICO-8">felipebueno/awesome-PICO-8</a> with ranks
 </p>
 ---
 # Awesome PICO-8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -139,7 +139,7 @@ To the extent possible under law, [Felipe Bueno](https://twitter.com/felipebueno
 See [LICENSE](LICENSE) for more information.
 ---
 <p align="center">
-	This list is a copy of <a href="felipebueno/awesome-PICO-8">felipebueno/awesome-PICO-8</a> with ranks
+	This list is a copy of <a href="http://github.com/felipebueno/awesome-PICO-8">felipebueno/awesome-PICO-8</a> with ranks
 </p>
 
 <script>

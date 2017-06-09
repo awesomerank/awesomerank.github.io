@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="Friz-zy/awesome-linux-containers">Friz-zy/awesome-linux-containers</a> with ranks
+	This list is a copy of <a href="http://github.com/Friz-zy/awesome-linux-containers">Friz-zy/awesome-linux-containers</a> with ranks
 </p>
 ---
 # Awesome Linux Containers
@@ -315,7 +315,7 @@ The ecosystem of awesome new technologies emerging around containers and microse
 This page is an attempt to document the ins and outs of containers on Linux. This is not just restricted to programmers looking to implement containers or use container like features in their own code but also Sysadmins and Users who want to get more of a handle on how containers work 'under the hood'. 
 ---
 <p align="center">
-	This list is a copy of <a href="Friz-zy/awesome-linux-containers">Friz-zy/awesome-linux-containers</a> with ranks
+	This list is a copy of <a href="http://github.com/Friz-zy/awesome-linux-containers">Friz-zy/awesome-linux-containers</a> with ranks
 </p>
 
 <script>

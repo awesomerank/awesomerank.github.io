@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="kakoni/awesome-healthcare">kakoni/awesome-healthcare</a> with ranks
+	This list is a copy of <a href="http://github.com/kakoni/awesome-healthcare">kakoni/awesome-healthcare</a> with ranks
 </p>
 ---
 # Awesome Health [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -158,7 +158,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [MEDIC Client Registry RI ★2](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
 ---
 <p align="center">
-	This list is a copy of <a href="kakoni/awesome-healthcare">kakoni/awesome-healthcare</a> with ranks
+	This list is a copy of <a href="http://github.com/kakoni/awesome-healthcare">kakoni/awesome-healthcare</a> with ranks
 </p>
 
 <script>

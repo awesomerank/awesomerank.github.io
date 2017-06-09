@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="terkelg/awesome-creative-coding">terkelg/awesome-creative-coding</a> with ranks
+	This list is a copy of <a href="http://github.com/terkelg/awesome-creative-coding">terkelg/awesome-creative-coding</a> with ranks
 </p>
 ---
 # Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -427,7 +427,7 @@ Creative coding is a different discipline than programming systems in which the 
 To the extent possible under law, [Terkel Gjervig](http://terkel.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="terkelg/awesome-creative-coding">terkelg/awesome-creative-coding</a> with ranks
+	This list is a copy of <a href="http://github.com/terkelg/awesome-creative-coding">terkelg/awesome-creative-coding</a> with ranks
 </p>
 
 <script>

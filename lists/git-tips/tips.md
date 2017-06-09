@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="git-tips/tips">git-tips/tips</a> with ranks
+	This list is a copy of <a href="http://github.com/git-tips/tips">git-tips/tips</a> with ranks
 </p>
 ---
 ## git-tips
@@ -1167,7 +1167,7 @@ git checkout master@{yesterday}
 <!-- @doxie.inject end -->
 ---
 <p align="center">
-	This list is a copy of <a href="git-tips/tips">git-tips/tips</a> with ranks
+	This list is a copy of <a href="http://github.com/git-tips/tips">git-tips/tips</a> with ranks
 </p>
 
 <script>

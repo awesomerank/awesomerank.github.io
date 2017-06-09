@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
+	This list is a copy of <a href="http://github.com/dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
 </p>
 ---
 # Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -92,7 +92,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/dav
 To the extent possible under law, [David Przybilla](http://alejandro.pictures) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
+	This list is a copy of <a href="http://github.com/dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
 </p>
 
 <script>

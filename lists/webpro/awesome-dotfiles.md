@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="webpro/awesome-dotfiles">webpro/awesome-dotfiles</a> with ranks
+	This list is a copy of <a href="http://github.com/webpro/awesome-dotfiles">webpro/awesome-dotfiles</a> with ranks
 </p>
 ---
 # Awesome dotfiles
@@ -129,7 +129,7 @@ Title | Description | Focus
 To the extent possible under law, [Lars Kappert](https://webpro.nl) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="webpro/awesome-dotfiles">webpro/awesome-dotfiles</a> with ranks
+	This list is a copy of <a href="http://github.com/webpro/awesome-dotfiles">webpro/awesome-dotfiles</a> with ranks
 </p>
 
 <script>

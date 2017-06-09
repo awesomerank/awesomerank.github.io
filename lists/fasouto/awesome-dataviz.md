@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="fasouto/awesome-dataviz">fasouto/awesome-dataviz</a> with ranks
+	This list is a copy of <a href="http://github.com/fasouto/awesome-dataviz">fasouto/awesome-dataviz</a> with ranks
 </p>
 ---
 # Awesome dataviz 
@@ -186,7 +186,7 @@ Thanks for your suggestions!
 To the extent possible under law, [Fabio Souto](http://fabiosouto.me/) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="fasouto/awesome-dataviz">fasouto/awesome-dataviz</a> with ranks
+	This list is a copy of <a href="http://github.com/fasouto/awesome-dataviz">fasouto/awesome-dataviz</a> with ranks
 </p>
 
 <script>

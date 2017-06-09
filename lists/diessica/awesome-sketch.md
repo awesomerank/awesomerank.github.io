@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="diessica/awesome-sketch">diessica/awesome-sketch</a> with ranks
+	This list is a copy of <a href="http://github.com/diessica/awesome-sketch">diessica/awesome-sketch</a> with ranks
 </p>
 ---
 # awesome Sketch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -136,7 +136,7 @@ To the extent possible under law, [Diéssica Gurskas](http://diessi.ca) has waiv
 
 ---
 <p align="center">
-	This list is a copy of <a href="diessica/awesome-sketch">diessica/awesome-sketch</a> with ranks
+	This list is a copy of <a href="http://github.com/diessica/awesome-sketch">diessica/awesome-sketch</a> with ranks
 </p>
 
 <script>

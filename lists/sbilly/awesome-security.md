@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sbilly/awesome-security">sbilly/awesome-security</a> with ranks
+	This list is a copy of <a href="http://github.com/sbilly/awesome-security">sbilly/awesome-security</a> with ranks
 </p>
 ---
 # Awesome Security
@@ -306,7 +306,7 @@ Other amazingly awesome lists:
 Your contributions are always welcome!
 ---
 <p align="center">
-	This list is a copy of <a href="sbilly/awesome-security">sbilly/awesome-security</a> with ranks
+	This list is a copy of <a href="http://github.com/sbilly/awesome-security">sbilly/awesome-security</a> with ranks
 </p>
 
 <script>

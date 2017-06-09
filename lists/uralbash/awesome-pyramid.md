@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="uralbash/awesome-pyramid">uralbash/awesome-pyramid</a> with ranks
+	This list is a copy of <a href="http://github.com/uralbash/awesome-pyramid">uralbash/awesome-pyramid</a> with ranks
 </p>
 ---
 # Awesome Pyramid
@@ -499,7 +499,7 @@ To the extent possible under law, @uralbash has waived all copyright and related
 or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="uralbash/awesome-pyramid">uralbash/awesome-pyramid</a> with ranks
+	This list is a copy of <a href="http://github.com/uralbash/awesome-pyramid">uralbash/awesome-pyramid</a> with ranks
 </p>
 
 <script>

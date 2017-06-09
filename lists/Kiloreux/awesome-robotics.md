@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="Kiloreux/awesome-robotics">Kiloreux/awesome-robotics</a> with ranks
+	This list is a copy of <a href="http://github.com/Kiloreux/awesome-robotics">Kiloreux/awesome-robotics</a> with ranks
 </p>
 ---
 Awesome Robotics
@@ -187,7 +187,7 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [Awesome Robotics Libraries ★68](https://github.com/jslee02/awesome-robotics-libraries)
 ---
 <p align="center">
-	This list is a copy of <a href="Kiloreux/awesome-robotics">Kiloreux/awesome-robotics</a> with ranks
+	This list is a copy of <a href="http://github.com/Kiloreux/awesome-robotics">Kiloreux/awesome-robotics</a> with ranks
 </p>
 
 <script>

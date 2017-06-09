@@ -2,7 +2,7 @@
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="sindresorhus/amas">sindresorhus/amas</a> with ranks
+	This list is a copy of <a href="http://github.com/sindresorhus/amas">sindresorhus/amas</a> with ranks
 </p>
 ---
 # Awesome & Marvelous Amas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -137,6 +137,7 @@ Ranked awesome lists, all in one place
 - [Ken Wheeler ★9](https://github.com/kenwheeler/ama) - Professional American. Manchild.
 - [Helen V. Holmes ★2](https://github.com/helenvholmes/ama) - Freelance designer and UI engineer.
 - [Rachel Andrew ★110](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
+- [Ilya Bodrov ★0](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 
 #### Ask these organizations anything!
 
@@ -167,7 +168,7 @@ Ranked awesome lists, all in one place
 To the extent possible under law, [Sindre Sorhus](http://sindresorhus.com) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="sindresorhus/amas">sindresorhus/amas</a> with ranks
+	This list is a copy of <a href="http://github.com/sindresorhus/amas">sindresorhus/amas</a> with ranks
 </p>
 
 <script>
