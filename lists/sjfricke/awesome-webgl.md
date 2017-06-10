@@ -218,12 +218,13 @@ Processing Unit (GPU).
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 * [LumaGL](https://uber.github.io/luma.gl/) - WebGL building blocks enabling high-performance browser-based data visualizations.
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
+* [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
-* [xeogl](http://xeogl.org/) - data-driven 3D visualization engine on WebGL.
+* [xeogl](http://xeogl.org/) - Data-driven 3D visualization engine on WebGL.
 * [Whitestorm.js](https://whsjs.io/) - Framework for developing 3D web apps with physics.
 
 ## Community

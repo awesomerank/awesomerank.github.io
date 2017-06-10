@@ -673,6 +673,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [termuxer ★0](https://github.com/patrick330602/termuxer) - Theme inspired by agnoster and linuxer.
 * [the-time-lord ★0 ⏳2Y](https://github.com/jhwhite/the-time-lord) - A theme based on gallifrey.
 * [theme-line ★3](https://github.com/yw9381/oh-my-zsh_theme_line) - Colorful theme with Git status.
+* [tq ★0](https://github.com/kitian616/tq-zsh-theme) - Displays git status, time, requires a Powerline font.
 * [trajan ★1 ⏳4Y](https://github.com/denisinla/trajan-zsh-theme) - A dark theme for ZSH.
 * [trinity](https://github.com/de-luca/Trinity) - A simple theme based on [geometry](https://github.com/frmendes/geometry).
 * [tvline ★2 ⏳2Y](https://github.com/thvitt/tvline) - Derived from [agnoster's theme](https://gist.github.com/agnoster/3712874), adds powerline font enhancements.

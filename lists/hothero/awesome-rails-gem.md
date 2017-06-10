@@ -149,7 +149,7 @@ The goal is to help every Rails developer to build an awesome Rails product/serv
 * [meta-tags ★1734](https://github.com/kpumuk/meta-tags) - Search Engine Optimization (SEO) plugin for Ruby on Rails applications.
 * [active_link_to ★577](https://github.com/comfy/active_link_to) - active_link_to adds css 'active' class to your links.
 * [cells](https://github.com/apotonick/cells) - Cells allow you to encapsulate parts of your UI into components into view models. View models, or cells, are simple ruby classes that can render templates.
-* [i18n Country Code Select ★25](https://github.com/onomojo/i18n_country_select) - I18n Country Code Select Form Helper for Rails 3 & 4.
+* [i18n Country Code Select ★25 ⏳1Y](https://github.com/onomojo/i18n_country_select) - I18n Country Code Select Form Helper for Rails 3 & 4.
 * [Subdivision Select ★11](https://github.com/cllns/subdivision_select) - A Rails plugin to populate a state/province select box from country_select.
 * [cocoon ★2344](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy
 

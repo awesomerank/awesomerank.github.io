@@ -434,7 +434,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [first-chunk-stream ★13 ⏳1Y](https://github.com/sindresorhus/first-chunk-stream) - Transform the first chunk in a stream.
 - [pad-stream ★5](https://github.com/sindresorhus/pad-stream) - Pad each line in a stream.
 - [multistream ★115](https://github.com/feross/multistream) - Combine multiple streams into a single stream.
-- [stream-combiner2 ★62](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
+- [stream-combiner2 ★62 ⏳1Y](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
 - [readable-stream ★523](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 - [through2-concurrent ★45 ⏳1Y](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
 - [graphicsmagick-stream ★56 ⏳1Y](https://github.com/e-conomic/graphicsmagick-stream) - Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.

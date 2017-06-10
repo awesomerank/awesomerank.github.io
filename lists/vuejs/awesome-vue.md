@@ -388,7 +388,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue2-admin-lte ★129](https://github.com/devjin0617/vue2-admin-lte) - a project that converts AdminLTE to work with Vuejs (v2.x).
 - [Dockeron ★17](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop.
 - [Flamme ★13](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
-
+- [Goldfish ★483](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI built with VueJS, Golang, and Bulma CSS
+- [Adminify ★45](https://github.com/wxs77577/adminify) - An Admin dashboard based on [Vuetify](https://vuetifyjs.com/), check the [Online Demo](http://adminify.genyii.com)
 
 
 ### Commercial Products
@@ -538,6 +539,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-easy-toast ★37](https://github.com/noru/vue-easy-toast) - A toast plugin for vue/vue2.
  - [vue-toasted ★110](https://github.com/shakee93/vue-toasted) - Responsive Touch Compatible Toast plugin for VueJS.
  - [vue-notifikation ★1](https://github.com/happyCoda/vue-notifikation) - Vue.js notification plugin.
+ - [vue-notification ★9](https://github.com/euvl/vue-notification) - Vue.js 2+ notification plugin using `Velocity` for animations.
 
 ### Loader
 
@@ -1081,6 +1083,7 @@ Tooltips / popovers
  - [vue-sync ★20](https://github.com/buhrmi/vue-sync) - Synchronize Vue State with the Browser URL, Server Backend, and other endpoints.
  - [vuelm ★18](https://github.com/keuller/vuelm) - Lightweight state management inspired by Elm architecture.
  - [vue-duo ★16](https://github.com/haoxins/vue-duo) - A tiny state management for Vue.js.
+ - [vuez ★37](https://github.com/markselby9/vuez) - A simple but powerful State Management for Vue.js, with only 2 APIs.
 
 #### Redux
 
@@ -1122,6 +1125,7 @@ Tooltips / popovers
 ### CSS
 
  - [vue-bem-cn ★21](https://github.com/c01nd01r/vue-bem-cn) - Simple BEM class name generator for Vue.JS.
+ - [vue-css](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-css) - Vue.js plugin that allows you to bundle CSS with your components.
 
 ### Asset Management
 

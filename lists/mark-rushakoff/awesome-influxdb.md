@@ -82,7 +82,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 
 * [cAdvisor ★5689](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers
 * [cernan ★133](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
-* [cloudwatch-sender ★46](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
+* [cloudwatch-sender ★46 ⏳1Y](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
 * [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine ★529 ⏳1Y](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
 * [gatling ★3001](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
 * [Glances ★7387](https://github.com/nicolargo/glances) - Glances an Eye on your system

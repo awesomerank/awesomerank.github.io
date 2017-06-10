@@ -227,7 +227,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and OS X applications for iPhone, iPad and Mac, all using the Ruby language.
 * [JSPatch ★9835](https://github.com/bang590/JSPatch) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
 * [WebViewJavascriptBridge ★8711](https://github.com/marcuswestin/WebViewJavascriptBridge) - An iOS/OSX bridge for sending messages between Obj-C and JavaScript in UIWebViews/WebViews
-* [MAIKit ★131](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X
+* [MAIKit ★131 ⏳1Y](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X
 
 ## Cache
 * [Awesome Cache ★1023](https://github.com/aschuch/AwesomeCache) - Delightful on-disk cache (written in Swift) :large_orange_diamond:

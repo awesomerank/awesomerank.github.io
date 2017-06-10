@@ -535,6 +535,8 @@ Ranked awesome lists, all in one place
 - [What comes after SaaS?](https://hackernoon.com/what-comes-after-saas-1f71ec40de45) - Thoughts about the evolution of the cloud and future use-cases where serverless can fit in (and might replace SaaS).
 - [Announcing JeffConf](https://serverless.zone/announcing-jeffconf-london-2017-49af72bf5284) - Announcement blog post which describes the motivation behind the JeffConf conference.
 - [Recurring payments with Stripe and AWS Lambda](http://normal-extensions.com/2017/05/05/simple-recurring/) - Tutorial on how to create dirty cheap recurring serverless payments with AWS Lambda and Stripe.
+- [Databricks Serverless](https://databricks.com/blog/2017/06/07/databricks-serverless-next-generation-resource-management-for-apache-spark.html) - Databricks Serverless announcement blog post.
+- [Going serverless tutorial](https://medium.freecodecamp.com/going-serverless-how-to-run-your-first-aws-lambda-function-in-the-cloud-d866a9b51536) - Tutorial on how to run your first AWS Lambda function.
 
 ## Screencasts
 
@@ -1162,7 +1164,7 @@ Ranked awesome lists, all in one place
 - [Secrets ★63](https://github.com/trek10inc/serverless-secrets) - Secret management.
 - [Vandium ★6](https://github.com/vandium-io/vandium-serverless) - Vandium PlugIn for Serverless.
 - [Command line event args ★10](https://github.com/horike37/serverless-command-line-event-args) - Pass JSON to serverless via the command line.
-- [Unit test boilerplate ★5](https://github.com/horike37/serverless-unittest-boilerplate) - Boilerplate for unit testing with Serverless.
+- [Unit test boilerplate ★5 ⏳1Y](https://github.com/horike37/serverless-unittest-boilerplate) - Boilerplate for unit testing with Serverless.
 - [Dependency install ★5](https://github.com/99xt/serverless-dependency-install) - Serverless plugin for managing dependencies.
 - [DynamoDB local ★74](https://github.com/99xt/serverless-dynamodb-local) - Use DynamoDB locally with Serverless.
 - [Cognito manager ★23](https://github.com/trek10inc/serverless-cognito-manager) - Easy cognito management for Serverless projects.

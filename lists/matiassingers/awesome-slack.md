@@ -183,7 +183,7 @@ Ranked awesome lists, all in one place
 
 - [bip-pod-slack ★3](https://github.com/bipio-server/bip-pod-slack) - Slack Pod for BipIO
 - [bitbucket-slack-pr-hook ★58 ⏳1Y](https://github.com/lfilho/bitbucket-slack-pr-hook) - Receive Pull Request notifications from BitBucket and send them to Slack
-- [brackets-slacksnippet ★10 ⏳1Y](https://github.com/Wikunia/brackets-slacksnippet) - push code snippets from Brackets to a slack channel
+- [brackets-slacksnippet ★10 ⏳2Y](https://github.com/Wikunia/brackets-slacksnippet) - push code snippets from Brackets to a slack channel
 - [browser-node-slack ★2 ⏳1Y](https://github.com/RichardLitt/browser-node-slack) - Slack integration for node and browserify
 - [bunyan-slack ★59](https://github.com/qualitybath/bunyan-slack) - Bunyan stream for Slack chat integration
 - [camayak-to-slack ★1 ⏳3Y](https://github.com/tcu360/camayak-to-slack) - Node.js app that allows Slack to work as a Camayak publishing destination
@@ -441,7 +441,7 @@ Ranked awesome lists, all in one place
 - [slack\_notifier ★7 ⏳3Y](https://github.com/nacyot/slack_notifier) - Send notifications to Slack
 - [slack-notifier ★931](https://github.com/stevenosloan/slack-notifier) - A simple wrapper for posting to Slack
 - [slack-notify ★89 ⏳2Y](https://github.com/sosedoff/slack-notify) - Send notifications to Slack
-- [slack-portals ★7 ⏳2Y](https://github.com/atomic-app/slack-portals) - Link two different companies' Slacks together through a common channel
+- [slack-portals ★7 ⏳3Y](https://github.com/atomic-app/slack-portals) - Link two different companies' Slacks together through a common channel
 - [slack-post ★30](https://github.com/CozyCo/slack-post) - Post messages to Slack
 - [slack-poster ★41 ⏳1Y](https://github.com/rikas/slack-poster) - Simple gem to post messages on Slack using webhooks
 - [slack-repeater ★1 ⏳2Y](https://github.com/hekk/slack-repeater) - Repeater bot

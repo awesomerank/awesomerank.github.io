@@ -163,12 +163,12 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 - [moeda ★66](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli
 - [wego ★4847](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
 - [mapscii ★1582](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
-- [website-popup-cli ★7](https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
+- [website-popup-cli ★7 ⏳1Y](https://github.com/sindresorhus/website-popup-cli) - Quickly watch a window in a pop up window without closing or opening another full screen window.
 
 ### macOS
 
-- [bundle-id-cli ★11](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name (macOS): Safari → com.apple.Safari.
-- [bundle-name-cli ★3](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier (macOS): com.apple.Safari → Safari.
+- [bundle-id-cli ★11 ⏳1Y](https://github.com/sindresorhus/bundle-id-cli) - Get bundle identifier from a bundle name (macOS): Safari → com.apple.Safari.
+- [bundle-name-cli ★3 ⏳1Y](https://github.com/sindresorhus/bundle-name-cli) - Get bundle name from a bundle identifier (macOS): com.apple.Safari → Safari.
 - [lnfs-cli ★2](https://github.com/kevva/lnfs-cli) - Safely force create symlinks.
 - [osx-version-cli](https://github.com/sindresorhus/osx-version-cli) - Get the macOS version of the current system.
 - [osx-wifi-cli ★27](https://github.com/danyshaanan/osx-wifi-cli) - A cli for managing wifi connections on OSX.
@@ -202,7 +202,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 ### Deleting, Copying, and Renaming
 
 - [trash-cli ★277](https://github.com/sindresorhus/trash-cli) - Move files and directories to the trash.
-- [empty-trash-cli ★39](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
+- [empty-trash-cli ★39 ⏳1Y](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 - [trashss ★22](https://github.com/sotojuan/trashss) - ( only) Trash screenshots on desktop.
 - [del-cli ★66](https://github.com/sindresorhus/del-cli) - Delete files and folders.
 - [cpy-cli ★53](https://github.com/sindresorhus/cpy-cli) - Copies files.
@@ -296,7 +296,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 
 ## Other
 
-- [app-path-cli ★14](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
+- [app-path-cli ★14 ⏳1Y](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
 - [Bible.Js CLI client ★114 ⏳1Y](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday ★15](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
 - [cowsay ★22](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).

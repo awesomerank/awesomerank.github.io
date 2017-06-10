@@ -477,7 +477,7 @@ Http is available as an injectable class, with methods to perform http requests.
   * Yeoman
     * [swirlycheetah/generator-angular2 ★271](https://github.com/chrisdwheatley/generator-angular2)
   * Faristo
-    * [majodi/generator-angular2 ★0](https://github.com/majodi/Faristo)
+    * [majodi/generator-angular2 ★0 ⏳1Y](https://github.com/majodi/Faristo)
 * Dart
   * Stagehand
     * [google/stagehand ★193](https://github.com/google/stagehand)

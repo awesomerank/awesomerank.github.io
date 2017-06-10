@@ -388,7 +388,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Strategy
 
 * [0 A.D. ★910](https://github.com/0ad/0ad) - 3D RTS similar to Age of Empires II
-* [Caesaria ★105](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
+* [Caesaria ★105 ⏳1Y](https://github.com/dalerank/caesaria-game) - Remake of the popular citybuilder and economic sim Caesar III.
 * [Colobot ★380](https://github.com/colobot/colobot) - A real-time strategy game with programmable bots.
 * [CorsixTH ★1439](https://github.com/CorsixTH/CorsixTH) - Clone of Theme Hospital.
 * [Curse of War ★137](https://github.com/a-nikolaev/curseofwar) - Fast-paced action strategy game with ncurses and SDL frontends.

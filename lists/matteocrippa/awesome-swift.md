@@ -246,7 +246,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Miscellaneous Swift related projects* 
 * [generator-swift-framework ★32](https://github.com/cybertk/generator-swift-framework) - Scaffolds out a Xcode framework project.
 * [InteractivePlayground ★43](https://github.com/dasdom/InteractivePlayground) - A playground exploring the interactivity of Xcode 7.3 playgrounds.
-* [MAIKit ★131](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
+* [MAIKit ★131 ⏳1Y](https://github.com/MichaelBuckley/MAIKit) - A framework for sharing code between iOS and OS X.
 * [sbconstants ★306](https://github.com/paulsamuels/SBConstants) - A nifty tool to generate constants file by grabbing identifiers from storyboards in a project.
 * [SwagGen ★30](https://github.com/yonaskolb/SwagGen) :penguin: - A command line tool for generating a REST API from a Swagger spec based off Stencil templates.
 * [swift-compiler-crashes ★840](https://github.com/practicalswift/swift-compiler-crashes) - A collection of test cases crashing the compiler.

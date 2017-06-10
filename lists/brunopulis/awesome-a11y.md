@@ -136,7 +136,7 @@ Ranked awesome lists, all in one place
 * [WAVE](http://wave.webaim.org/)
 * [Web Accessibility Toolbar (WAT) - By The Paciello Group, IE Extension (Win only)](https://www.paciellogroup.com/resources/wat/)
 * [WP Accessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](https://github.com/joedolson)
-* [skip-to-content ★7](https://github.com/afonsopacifer/skip-to-content) - A Polymer element for Skip to Content. by [@afonsopacifer](https://github.com/afonsopacifer)
+* [skip-to-content ★7 ⏳1Y](https://github.com/afonsopacifer/skip-to-content) - A Polymer element for Skip to Content. by [@afonsopacifer](https://github.com/afonsopacifer)
 
 ----
 

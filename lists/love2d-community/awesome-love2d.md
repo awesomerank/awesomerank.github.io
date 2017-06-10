@@ -228,7 +228,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## UI
 *User Interface Libraries*
 
-* [CatUI ★12](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE
+* [CatUI ★12 ⏳1Y](https://github.com/wilhantian/catui) - A very light-weight GUI library for LÖVE
 * [GOOi ★65](https://github.com/tavuntu/gooi) - Android-oriented GUI library
 * [Gspöt ★10](https://github.com/pgimeno/Gspot) - A stateful GUI lib for LÖVE
 * [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
