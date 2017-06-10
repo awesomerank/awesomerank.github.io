@@ -1,4 +1,12 @@
 title: Awesome Rank
 description: Ranked Awesome Lists.
 google_analytics:
+
+minima:
+  date_format: "%b %-d, %Y"
+
+markdown: kramdown
 theme: minima
+exclude:
+  - Gemfile
+  - Gemfile.lock
