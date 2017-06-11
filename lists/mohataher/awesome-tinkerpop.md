@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/mohataher/awesome-tinkerpop">mohataher/awesome-tinkerpop</a> with ranks
+	This list is a copy of <a href="https://github.com/mohataher/awesome-tinkerpop">mohataher/awesome-tinkerpop</a> with ranks
 </p>
 ---
 # Awesome TinkerPop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -79,7 +86,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 ##### Python
 * [Mogwai ★38 ⏳1Y](https://github.com/platinummonkey/mogwai) - TinkerPop3 Graph Database Library for Python.
 * [python-gremlin-rest ★1](https://github.com/windj007/python-gremlin-rest) - A REST-based client for Gremlin Server.
-* [gremlinclient ★21](https://github.com/davebshow/gremlinclient) - An asynchronous Python 2/3 client for Gremlin Server that allows for flexible coroutine syntax - Trollius, Tornado, Asyncio.
+* [gremlinclient ★21 ⏳1Y](https://github.com/davebshow/gremlinclient) - An asynchronous Python 2/3 client for Gremlin Server that allows for flexible coroutine syntax - Trollius, Tornado, Asyncio.
 * [aiogremlin ★24](https://github.com/davebshow/aiogremlin) (python) - A Python 3 library based on asyncio and aiohttp that uses websockets to communicate with the Gremlin Server.
 * [gremlinrestclient](http://gremlinrestclient.readthedocs.org/en/latest/) (python) - Python 2/3 library that uses HTTP to communicate with the Gremlin Server over REST.
 * [goblin](https://github.com/ZEROFAIL/goblin) - OGM for TinkerPop3 Gremlin Server.
@@ -146,7 +153,7 @@ Please follow the [guideliness here](https://github.com/mohataher/awesome-tinker
 To the extent possible under law, [@mohataher](https://github.com/mohataher) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/mohataher/awesome-tinkerpop">mohataher/awesome-tinkerpop</a> with ranks
+	This list is a copy of <a href="https://github.com/mohataher/awesome-tinkerpop">mohataher/awesome-tinkerpop</a> with ranks
 </p>
 
 <script>

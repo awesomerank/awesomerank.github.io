@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
+	This list is a copy of <a href="https://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
 </p>
 ---
 ### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/enaqx/awesome-react.svg?branch=master)](https://travis-ci.org/enaqx/awesome-react)
@@ -195,7 +202,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React and Haskell
 * [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/index.html)
 * [stackage-view, built with Yesod and GHCJS+React ★19 ⏳1Y](https://github.com/fpco/stackage-view)
-* [TodoMVC example with Shade (Haste+React) ★13 ⏳2Y](https://github.com/takeoutweight/shade-todomvc)
+* [TodoMVC example with Shade (Haste+React) ★13 ⏳3Y](https://github.com/takeoutweight/shade-todomvc)
 * [react-haskell, to be used with Haste](https://hackage.haskell.org/package/react-haskell) ([blog post](http://joelburget.com/react-haskell/))
 * [blaze-react, blaze-html style React bindings using GHCJS ★100](https://github.com/meiersi/blaze-react) ([video tutorial](https://www.youtube.com/watch?v=4nTnC0t7pzY))
 * [purescript-react bindings](https://github.com/purescript-contrib/purescript-react) ([example app ★5 ⏳2Y](https://github.com/fujimura/purescript-react-example))
@@ -1046,7 +1053,7 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
+	This list is a copy of <a href="https://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
 </p>
 
 <script>

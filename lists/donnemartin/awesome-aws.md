@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/donnemartin/awesome-aws">donnemartin/awesome-aws</a> with ranks
+	This list is a copy of <a href="https://github.com/donnemartin/awesome-aws">donnemartin/awesome-aws</a> with ranks
 </p>
 ---
 <br/>
@@ -901,7 +908,7 @@ Community Repos:
 Community Repos:
 
 * [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire: ★9151](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks.
-* [everpeace/vagrant-mesos :fire::fire: ★442](https://github.com/everpeace/vagrant-mesos) - Spin up your Mesos Cluster with Vagrant.
+* [everpeace/vagrant-mesos :fire::fire: ★442 ⏳1Y](https://github.com/everpeace/vagrant-mesos) - Spin up your Mesos Cluster with Vagrant.
 * [jhorey/ferry :fire::fire: ★253 ⏳2Y](https://github.com/jhorey/ferry) -  Define, run, and deploy big data apps using Docker.
 * [nathanmarz/storm-deploy :fire::fire::fire: ★512 ⏳1Y](https://github.com/nathanmarz/storm-deploy) - One click deploy for Storm clusters.
 
@@ -1002,7 +1009,7 @@ Community Repos:
 * [mhart/react-server-routing-example :fire::fire: ★260](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
 * [snowplow/snowplow :fire::fire::fire::fire::fire: ★3356](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
 * [Spinnaker/spinnaker :fire::fire::fire::fire::fire: ★3033](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
-* [spulec/moto :fire::fire::fire: ★1107](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
+* [spulec/moto :fire::fire::fire::fire: ★1107](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
 
 ## Guides, Books, Documentation, and Training
 
@@ -1443,7 +1450,7 @@ My contact info can be found on my [GitHub page](https://github.com/donnemartin)
     http://creativecommons.org/licenses/by/4.0/
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/donnemartin/awesome-aws">donnemartin/awesome-aws</a> with ranks
+	This list is a copy of <a href="https://github.com/donnemartin/awesome-aws">donnemartin/awesome-aws</a> with ranks
 </p>
 
 <script>

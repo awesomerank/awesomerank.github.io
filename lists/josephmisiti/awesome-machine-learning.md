@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
+	This list is a copy of <a href="https://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
 </p>
 ---
 # Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -494,7 +501,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Local Regression ★11](https://github.com/JuliaStats/Loess.jl) - Local regression, so smooooth!
 * [Naive Bayes ★3 ⏳4Y](https://github.com/nutsiepully/NaiveBayes.jl) - Simple Naive Bayes implementation in Julia
 * [Mixed Models ★85](https://github.com/dmbates/MixedModels.jl) - A Julia package for fitting (statistical) mixed-effects models
-* [Simple MCMC ★10 ⏳3Y](https://github.com/fredo-dedup/SimpleMCMC.jl) - basic mcmc sampler implemented in Julia
+* [Simple MCMC ★10 ⏳4Y](https://github.com/fredo-dedup/SimpleMCMC.jl) - basic mcmc sampler implemented in Julia
 * [Distance ★27 ⏳2Y](https://github.com/JuliaStats/Distance.jl) - Julia module for Distance evaluation
 * [Decision Tree ★80](https://github.com/bensadeghi/DecisionTree.jl) - Decision Tree Classifier and Regressor
 * [Neural ★33](https://github.com/compressed/BackpropNeuralNet.jl) - A neural network in Julia
@@ -1286,7 +1293,7 @@ be
 * The few go reference I found where pulled from [this page](https://github.com/golang/go/wiki/Projects)
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
+	This list is a copy of <a href="https://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
 </p>
 
 <script>

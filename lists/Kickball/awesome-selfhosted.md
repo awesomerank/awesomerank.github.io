@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/Kickball/awesome-selfhosted">Kickball/awesome-selfhosted</a> with ranks
+	This list is a copy of <a href="https://github.com/Kickball/awesome-selfhosted">Kickball/awesome-selfhosted</a> with ranks
 </p>
 ---
 # Awesome-Selfhosted
@@ -269,6 +276,7 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
 
   * [Citadel](http://www.citadel.org/) - Feature packed, easy, versatile, and powerful mail server, thanks to exclusive "rooms" based architecture. ([Source Code](http://code.citadel.org/?p=citadel.git;a=summary)) `GPLv3` `C`
   * [docker-mailserver ★1625](https://github.com/tomav/docker-mailserver) - A fullstack but simple mail server (smtp, imap, antispam, antivirus, etc.). Only configuration files, no SQL database. Keep it simple and versioned. Easy to deploy and upgrade. `MIT` `Docker`
+  * [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code ★61](https://github.com/Inboxen/Inboxen)) `GPLv3` `Python`
   * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot. ([Source Code](https://bitbucket.org/zhb/iredmail/commits/)) `GPLv3` `Shell`
   * [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code](https://github.com/andryyy/mailcow)) `GPLv2` `PHP`
   * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code ★6337](https://github.com/mail-in-a-box/mailinabox)) `CC0` `Shell`
@@ -308,8 +316,10 @@ _Mailing lists servers and mass mailing software - one message to many recipient
   * [MailyHerald](http://mailyherald.org/) - Self-hosted Mailchimp alternative that you can easily integrate with your site. Helps you send and manage your application mailings. It support email marketing and conducting the daily stream of notifications you send to your users. ([Source Code ★382 ⏳1Y](https://github.com/Sology/maily_herald)) `LGPLv3` `Ruby`
   * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code ★1625](https://github.com/mautic/mautic)) `GPLv3` `PHP`
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
+  * [postal ★6778](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. `MIT` `Ruby`
   * [Schleuder](https://schleuder.nadir.org/) - A GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPLv3` `Ruby`
   * [Sympa](https://www.sympa.org/) - A mailing list manager. `GPLv2` `Perl`
+
 
 #### Webmail clients
 
@@ -554,6 +564,7 @@ See https://github.com/n1trux/awesome-sysadmin#identity-management
   * [Screaming Liquid Tiger ★89](https://github.com/herrbischoff/screaming-liquid-tiger) - Simple script to automatically generate valid RSS and Atom feeds from a list of media files in the same folder. `MIT` `PHP`
   * [Selfoss](http://selfoss.aditu.de/) - The new multipurpose rss reader, live stream, mashup, aggregation web application. ([Source Code ★1417](https://github.com/SSilence/selfoss)) `AGPLv3` `PHP`
   * [Stringer ★2658](https://github.com/swanson/stringer) - A work-in-progress self-hosted, anti-social RSS reader. `MIT` `Ruby`
+  * [Temboz ★3](https://github.com/fazalmajid/temboz) - A two-column feed reader emphasizing filtering capabilities to manage information overload. `MIT` `Python`
   * [Tiny Tiny RSS](https://tt-rss.org/gitlab/fox/tt-rss) - Open source web-based news feed (RSS/Atom) reader and aggregator. ([Demo](http://framanews.org/)) `GPLv3` `PHP`
     * [gritttt-rss](http://gritttt-rss.nicolashoening.de/) - More features for Tiny Tiny RSS. ([Source Code ★35](https://github.com/nhoening/gritttt-rss)) `BSD` `Python`
     * [ttrss-mobile ★180 ⏳1Y](https://github.com/mboinet/ttrss-mobile) - A mobile webapp for Tiny Tiny RSS. `AGPLv3` `Javascript`
@@ -610,7 +621,6 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [img.bi ★184 ⏳1Y](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `Nodejs`
   * [ipfs.pics](https://ipfs.pics/) - ipfs.pics is a o distributed image hosting website. ([Source Code](https://github.com/ipfspics/server)) `AGPLv3` `PHP`
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/)) `AGPLv3` `PHP`
-  * [Jyraphe](http://home.gna.org/jyraphe/) - Jyraphe is a web application of file repository, easy to install and easy to use. ([Source Code](http://svn.gna.org/viewcvs/jyraphe/)) `AGPLv3` `PHP`
   * [linx ★284](https://github.com/andreimarcu/linx-server) - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support. ([Demo](https://linx.li/)) `GPLv3` `Go`
   * [lufi](https://git.framasoft.org/luc/lufi) - Let's Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://git.framasoft.org/luc/lufi/tree/master)) `AGPLv3` `Perl`
   * [lutim ★126](https://github.com/ldidry/lutim) - Let's Upload That Image. `AGPLv3` `Perl`
@@ -698,7 +708,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 ## Learning and Courses
 
 **[`^        back to top        ^`](#)**
-  
+
   * [Canvas LMS](https://www.canvaslms.com/) - Canvas is the trusted, open-source learning management system (LMS) that is revolutionizing the way we educate. ([Demo](https://canvas.instructure.com/register), [Source Code ★2055](https://github.com/instructure/canvas-lms)) `AGPLv3` `Ruby`
   * [Chamilo LMS](https://chamilo.org/chamilo-lms/) - Chamilo LMS allows you to create a virtual campus for the provision of online or semi-online training. ([Source Code ★192](https://github.com/chamilo/chamilo-lms)) `GPLv3` `PHP`
   * [edX](https://www.edx.org/) - The Open edX platform is open-source code that powers [edX.org](https://www.edx.org/). ([Source Code](https://github.com/edx/)) `AGPLv3` `Python`
@@ -747,6 +757,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
    * [Mopidy MusicBox ★282](https://github.com/pimusicbox/mopidy-musicbox-webclient) - Web Client for Mopidy Music Server. `Apache` `HTML5`
    * [Mopidy-Party ★36](https://github.com/Lesterpig/mopidy-party) - Mopidy web extension designed for party! Let your guests manage the sound. `Apache` `Python`
   * [mpd](http://www.musicpd.org/) - Daemon to remotely play music, stream music, handle and organize playlists. Many clients available. `GPLv2` `C++`
+  * [mStream](http://mstream.io/) - Music streaming server with GUI management tools. Runs on Mac, Windows, and Linux. ([Demo](https://darncoyotes.mstream.io/), [Source Code ★934](https://github.com/IrosTheBeggar/mStream)) `GPLv2` `Nodejs`
    * [ympd](http://www.ympd.org/) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS. ([Source Code ★336](https://github.com/notandy/ympd)) `GPLv2` `C`
   * [Sonerezh](https://www.sonerezh.bzh/) - A self-hosted, web-based application for stream your music, everywhere. ([Demo](https://www.sonerezh.bzh/demo/), [Source Code ★616](https://github.com/sonerezh/sonerezh)) `GPLv3` `PHP`
 
@@ -841,6 +852,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep. ([Source Code ★5893](https://github.com/twostairs/paperwork)) `MIT` `PHP`
   * [savepad](https://github.com/novavex/textpad) - A minimalist notepad based on notepad.cc. `MIT` `PHP`
   * [ShareLaTex](https://www.sharelatex.com/) - A web-based collaborative LaTeX editor. ([Source Code ★4282](https://github.com/sharelatex/sharelatex)) `AGPLv3` `Ruby`
+  * [to-markdown](https://domchristie.github.io/to-markdown/) - An HTML to Markdown converter written in JavaScript. ([Source Code ★2342](https://github.com/domchristie/to-markdown)) `MIT` `JavaScript`
   * [Turtl](https://turtl.it/) - A totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPLv3` `CommonLisp`
 
 
@@ -896,7 +908,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [tastebin ★18 ⏳1Y](https://github.com/andreineculau/tastebin) - Updated version of hastebin plus additional features. `Apache` `Nodejs`
 
 
-## Personal Dashboards 
+## Personal Dashboards
 See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 **[`^        back to top        ^`](#)**
@@ -1067,7 +1079,7 @@ See also [Static site generators](#static-site-generators)
   * [Read the Docs](https://docs.readthedocs.org/en/latest/install.html) - Host documentation, making it fully searchable and easy to find; import your docs using any major version control system, including Mercurial, Git, Subversion, and Bazaar. ([Demo](https://readthedocs.org/projects/), [Source Code ★3496](https://github.com/rtfd/readthedocs.org)) `MIT` `Python`
 
 ### Localization
- 
+
   * [Parrot](http://anthonynsimon.com/parrot.github.io/) - Self-hosted Localization Management Platform built with Go and Angular 2.. ([Source Code ★817](https://github.com/anthonynsimon/parrot)) `MIT` `Go`
   * [Pootle](http://pootle.translatehouse.org) - Online translation and localization tool. ([Source Code ★856](https://github.com/translate/pootle)) `GPLv3` `Python`
   * [Weblate](https://weblate.org) - Web-based translation tool with tight version control integration. ([Demo](https://demo.weblate.org), [Source Code ★751](https://github.com/WeblateOrg/weblate)) `GPLv3` `Python`
@@ -1117,7 +1129,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Bumpy Booby](http://bumpy-booby.derivoile.fr/) - A simple, responsive and highly customizable PHP bug tracking system. ([Source Code ★18](https://github.com/piero-la-lune/Bumpy-Booby)) `MIT` `PHP`
   * [Cerb](http://www.cerberusweb.com/) - Group-based e-mail management project. ([Source Code ★40](https://github.com/wgm/cerb)) `DPL` `PHP`
   * [Coordino](http://coordino.com/) - Open Source question & answer system on top of CakePHP. ([Source Code ★722 ⏳1Y](https://github.com/Datawalke/Coordino)) `MIT` `PHP`
-  * [Deskulu ★452](https://github.com/Taskulu/deskulu) - Opensource helpdesk and ticketing system based on Drupal 7. ([Demo](https://help.taskulu.com)) `GPLv2` `PHP`
+  * [Deskulu ★452 ⏳1Y](https://github.com/Taskulu/deskulu) - Opensource helpdesk and ticketing system based on Drupal 7. ([Demo](https://help.taskulu.com)) `GPLv2` `PHP`
   * [DiamanteDesk](http://diamantedesk.com/) - DiamanteDesk is FREE Open Source easy-to-use help-desk solution. ([Demo](http://diamantedesk.com/demo/), [Source Code ★67](https://github.com/eltrino/diamantedesk-application)) `OSLv3` `PHP`
   * [Flyspray](http://www.flyspray.org/) - Uncomplicated, web-based bug tracking system. ([Source Code ★251](https://github.com/Flyspray/flyspray)) `GPLv2` `PHP`
   * [HuBoard ★1693](https://github.com/huboard/huboard) `⚠` - Instant project management for your GitHub issues (Connects directly GitHub API). `MIT` `Ruby`
@@ -1276,7 +1288,7 @@ The list of authors can be found [here](https://github.com/Kickball/awesome-self
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](LICENSE) License.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/Kickball/awesome-selfhosted">Kickball/awesome-selfhosted</a> with ranks
+	This list is a copy of <a href="https://github.com/Kickball/awesome-selfhosted">Kickball/awesome-selfhosted</a> with ranks
 </p>
 
 <script>

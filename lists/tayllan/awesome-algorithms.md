@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/tayllan/awesome-algorithms">tayllan/awesome-algorithms</a> with ranks
+	This list is a copy of <a href="https://github.com/tayllan/awesome-algorithms">tayllan/awesome-algorithms</a> with ranks
 </p>
 ---
 # Awesome Algorithms
@@ -31,6 +38,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Big-O Cheat Sheet](http://bigocheatsheet.com/) - Big-O complexities of common algorithms used in Computer Science.
 * [Data Structure Visualizations](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html) - Visualize the behavior of Data Structures and play with its operations.
 * [Geeks for Geeks](http://www.geeksforgeeks.org/fundamentals-of-algorithms/) - Lots and lots of well explained and implemented algorithms.
+* [Path Finding](https://qiao.github.io/PathFinding.js/visual/) - A visual representation on how algorithms such as A\*, IDA\*, Breadth-First-Search, Best-First-Search and others describe a path between two points A and B.
 * [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code) - A programming chrestomathy site which aims to present implementations of many algorithms and data structures in different programming languages.
 * [Sorting Algorithms](http://www.sorting-algorithms.com/) - Nice and simple animations of sorting algorithms. With short codes and discussions.
 * [Stoimen's web log](http://www.stoimen.com/blog/) - Some algorithms nicely explained.
@@ -168,7 +176,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/tayllan/awesome-algorithms">tayllan/awesome-algorithms</a> with ranks
+	This list is a copy of <a href="https://github.com/tayllan/awesome-algorithms">tayllan/awesome-algorithms</a> with ranks
 </p>
 
 <script>

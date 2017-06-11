@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/sorrycc/awesome-javascript">sorrycc/awesome-javascript</a> with ranks
+	This list is a copy of <a href="https://github.com/sorrycc/awesome-javascript">sorrycc/awesome-javascript</a> with ranks
 </p>
 ---
 # Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -725,7 +732,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [scrollMonitor ★2188](https://github.com/stutrek/scrollMonitor) - A simple and fast API to monitor elements as you scroll.
 * [headroom ★9163](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it.
-* [onepage-scroll ★9048](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.
+* [onepage-scroll ★9048 ⏳1Y](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.
 * [iscroll ★9503](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.
 * [skrollr ★17070](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.
 * [parallax ★11460](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device.
@@ -925,7 +932,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/sor
 To the extent possible under law, [chencheng](https://github.com/sorrycc) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/sorrycc/awesome-javascript">sorrycc/awesome-javascript</a> with ranks
+	This list is a copy of <a href="https://github.com/sorrycc/awesome-javascript">sorrycc/awesome-javascript</a> with ranks
 </p>
 
 <script>

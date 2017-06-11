@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/RichardLitt/endangered-languages">RichardLitt/endangered-languages</a> with ranks
+	This list is a copy of <a href="https://github.com/RichardLitt/endangered-languages">RichardLitt/endangered-languages</a> with ranks
 </p>
 ---
 Endangered Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -317,7 +324,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [clld ![GitHub stars](https://img.shields.io/github/stars/clld/clld.svg) ★13](https://github.com/clld/clld)  Cross Linguistic Linked Data python library
 * [LaTeX2HTML5 ![GitHub stars](https://img.shields.io/github/stars/pyramation/LaTeX2HTML5.svg) ★613 ⏳2Y](https://github.com/pyramation/LaTeX2HTML5)  LaTeX web components
 * [MultilingualCorporaExtractor ![GitHub stars](https://img.shields.io/github/stars/FieldDB/MultilingualCorporaExtractor.svg) ★0 ⏳4Y](https://github.com/FieldDB/MultilingualCorporaExtractor)  Node io Spider for extracting multilingual corpora (_Fork_ of a student project)
-* [SeedLing ![GitHub stars](https://img.shields.io/github/stars/FieldDB/SeedLing.svg) ★1 ⏳2Y](https://github.com/FieldDB/SeedLing)  Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project)
+* [SeedLing ![GitHub stars](https://img.shields.io/github/stars/FieldDB/SeedLing.svg) ★1 ⏳3Y](https://github.com/FieldDB/SeedLing)  Building and Using A Seed Corpus for the Human Language Project (_Fork_ of a student project)
 
 # Experimentation
 
@@ -334,7 +341,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [flashfork ★0 ⏳1Y](https://github.com/sillsdev/flashfork) An Anki addon for copying decks of flashcards, with or without also copying their note types.
 * [flashgrab ★4](https://github.com/sillsdev/flashgrab) An Anki addon for pulling flashcard data (one-way sync) from XML. Optimized for LIFT XML (from WeSay or FLEx). [This is now the official repo. -pconstrictor]
 * [flashgrid ![GitHub stars](https://img.shields.io/github/stars/sillsdev/flashgrid.svg ★3 ⏳1Y](https://github.com/sillsdev/flashgrid) An Anki addon for drilling flashcards by selecting the correct card from a grid layout of several cards. See the Anki website's list of provided addons.
-* [VocabLift ![GitHub stars](https://img.shields.io/github/stars/somelinguist/VocabLift.svg ★3 ⏳2Y](https://github.com/somelinguist/VocabLift) Language-learning tool that uses vocabulary from LIFT-format dictionaries produced by programs such as Fieldworks Language Explorer and WeSay.
+* [VocabLift ![GitHub stars](https://img.shields.io/github/stars/somelinguist/VocabLift.svg ★3 ⏳3Y](https://github.com/somelinguist/VocabLift) Language-learning tool that uses vocabulary from LIFT-format dictionaries produced by programs such as Fieldworks Language Explorer and WeSay.
 
 # Natural language generation
 
@@ -708,7 +715,7 @@ _zul :: zulu_
 * [Ukwabelana](http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus) An open-source morphological Zulu corpus
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/RichardLitt/endangered-languages">RichardLitt/endangered-languages</a> with ranks
+	This list is a copy of <a href="https://github.com/RichardLitt/endangered-languages">RichardLitt/endangered-languages</a> with ranks
 </p>
 
 <script>

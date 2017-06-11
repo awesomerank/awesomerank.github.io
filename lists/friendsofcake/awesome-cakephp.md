@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
+	This list is a copy of <a href="https://github.com/friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
 </p>
 ---
 # Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -133,7 +140,7 @@ Additional lists you might find useful:
 - [Airbrake plugin ★3 ⏳1Y](https://github.com/chrisShick/AirbrakeCake) A plugin to seamlessly integrate Airbrake with CakePHP for errors and exceptions.
 - [DebugKit plugin ★859](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 - [ErrorEmail plugin ★3](https://github.com/ebrigham1/cakephp-error-email) - A plugin to email exception/error information to your dev team.
-- [Execution order ★11 ⏳1Y](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
+- [Execution order ★11 ⏳2Y](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
 - [Gourmet/Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops ★4041](https://github.com/filp/whoops).
 - [Psa/FixtureCheck plugin ★2](https://github.com/World-Architects/cakephp-fixture-check) - A plugin to help detect mismatches in live DB and fixtures in order to make fixture based tests more reliable and deployments safer.
 - [Setup plugin ★26](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
@@ -499,7 +506,7 @@ Please see [CONTRIBUTING](https://github.com/friendsofcake/awesome-cakephp/blob/
 awesome-cakephp has been created by [dereuromark](https://github.com/dereuromark) and is currently maintained by him and the FriendsOfCake group. Thank you to all [contributors](https://github.com/FriendsOfCake/awesome-cakephp/graphs/contributors), too.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
+	This list is a copy of <a href="https://github.com/friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
 </p>
 
 <script>

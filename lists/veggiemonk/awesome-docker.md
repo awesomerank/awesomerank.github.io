@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/veggiemonk/awesome-docker">veggiemonk/awesome-docker</a> with ranks
+	This list is a copy of <a href="https://github.com/veggiemonk/awesome-docker">veggiemonk/awesome-docker</a> with ranks
 </p>
 ---
 
@@ -295,7 +302,7 @@ Services to securely store your Docker images.
 * [cAdvisor ★5689](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. Created by [@Google](https://github.com/google)
 * [Docker-Fluentd][fluentd] - Docker container to Log Other Containers' Logs. One can aggregate the logs of Docker containers running on the same host using Fluentd by [@kiyoto][kiyoto]
 * [Docker-mon ★721 ⏳1Y](https://github.com/icecrime/docker-mon) - Console-based Docker monitoring by [@icecrime](https://github.com/icecrime)
-* [Dockerana ★186 ⏳1Y](https://github.com/dockerana/dockerana) - packaged version of Graphite and Grafana, specifically targeted at metrics from Docker.
+* [Dockerana ★186 ⏳2Y](https://github.com/dockerana/dockerana) - packaged version of Graphite and Grafana, specifically targeted at metrics from Docker.
 * [DoMonit ★42](https://github.com/eon01/DoMonit) - A simple Docker Monitoring wrapper For Docker API
 * [Dynatrace](https://www.dynatrace.com/technologies/cloud-and-microservices/docker-monitoring/) - Monitor containerized applications without installing agents or modifying your Run commands
 * [Glances](https://nicolargo.github.io/glances/) - A cross-platform curses-based system monitoring tool written in Python by [@nicolargo](https://github.com/nicolargo)
@@ -673,7 +680,7 @@ Services to securely store your Docker images.
 [wsargent]: https://github.com/wsargent
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/veggiemonk/awesome-docker">veggiemonk/awesome-docker</a> with ranks
+	This list is a copy of <a href="https://github.com/veggiemonk/awesome-docker">veggiemonk/awesome-docker</a> with ranks
 </p>
 
 <script>

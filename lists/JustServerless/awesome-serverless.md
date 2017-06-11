@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
+	This list is a copy of <a href="https://github.com/JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
 </p>
 ---
 # Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -537,6 +544,11 @@ Ranked awesome lists, all in one place
 - [Recurring payments with Stripe and AWS Lambda](http://normal-extensions.com/2017/05/05/simple-recurring/) - Tutorial on how to create dirty cheap recurring serverless payments with AWS Lambda and Stripe.
 - [Databricks Serverless](https://databricks.com/blog/2017/06/07/databricks-serverless-next-generation-resource-management-for-apache-spark.html) - Databricks Serverless announcement blog post.
 - [Going serverless tutorial](https://medium.freecodecamp.com/going-serverless-how-to-run-your-first-aws-lambda-function-in-the-cloud-d866a9b51536) - Tutorial on how to run your first AWS Lambda function.
+- [Serverless v1.15.0](https://serverless.com/blog/serverless-v1.15.0/) - Announcement blog post for Serverless Framework v1.15.0.
+- [Getting started with Azure serverless](http://azureserverless.com/2017/04/27/getting-started-with-azure-serverless-a-roadmap-for-getting-up-to-speed/) - A Roadmap for getting up to speed with serverless development on Azure.
+- [Serverless push notifications for React Native using Firebase](https://school.shoutem.com/lectures/react-native-chat-app-serverless-firebase-push-notifications/) - Add serverless Firebase push notifications to React Native chat app tutorial.
+- [5 tips building serverless teams](https://thenewstack.io/five-tips-building-serverless-teams-enterprise/) - Five tips on building serverless teams in an enterprise.
+- [Global multi-cloud replication in FaunaDB](https://fauna.com/blog/global-multi-cloud-replication-in-faunadb-serverless-cloud) - Announcement blog post on global multi-cloud replication in FaunaDB serverless cloud.
 
 ## Screencasts
 
@@ -566,6 +578,7 @@ Ranked awesome lists, all in one place
 - [Serverless & GraphQL: A Love Story](https://www.youtube.com/watch?v=paInEUALg1Y) - Screencast by Cloud Academy and Nik Graf on serverless and GraphQL.
 - [Build a serverless web app](https://www.twitch.tv/videos/101322542) - How to build a serverless web app on AWS.
 - [Building a development workflow for serverless applications](https://www.youtube.com/watch?v=e3lreqpWN0A) - Webinar about development workflows for serverless applications.
+- [What's new in Serverless v1.14](https://www.youtube.com/watch?v=FYs5CMFjFdc) - Screencast which shows all the new features of Serverless v1.14.
 
 ## Talks
 
@@ -897,6 +910,7 @@ Ranked awesome lists, all in one place
 - [AWS alias example ★3](https://github.com/HyperBrain/serverless-aws-alias-example) - Example project for the Serverless alias plugin.
 - [Boilerplate ★3](https://github.com/frangeris/serverless-boilerplate) - Boilerplate to create RESTful APIs with serverless architectures on AWS.
 - [Whim bot ★1](https://github.com/maasglobal/whim-bot) - Microsoft Bot Framewok powered serverless bot.
+- [AWS IAM manager ★20](https://github.com/netguru/aws-iam-manager) - AWS IAM Manager as code.
 
 ## Related projects
 
@@ -1078,6 +1092,7 @@ Ranked awesome lists, all in one place
 - [WSGI export env ★1](https://github.com/phil-hachey/serverless-wsgi-export-env) - WSGI export env plugin.
 - [Webpack ★2](https://github.com/sandfox/serverless-webpack-plugin) - Fork of the `serverless-webpack` plugin with some bugfixes and enhancements.
 - [Eventuate AWS Gateway ★1](https://github.com/eventuate-clients/eventuate-aws-gateway-serverless-plugin) - Plugin for the [Eventuate](http://eventuate.io) AWS Gateway.
+- [API Gateway binary ★0](https://github.com/maciejtreder/serverless-apigw-binary) - Enable binary support in AWS API Gateway.
 
 ## Literature
 
@@ -1197,7 +1212,7 @@ Ranked awesome lists, all in one place
 - [Learn Serverless - By Philipp Müns ★5](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Deprecated.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
+	This list is a copy of <a href="https://github.com/JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
 </p>
 
 <script>

@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/matiassingers/awesome-slack">matiassingers/awesome-slack</a> with ranks
+	This list is a copy of <a href="https://github.com/matiassingers/awesome-slack">matiassingers/awesome-slack</a> with ranks
 </p>
 ---
 # awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -209,7 +216,7 @@ Ranked awesome lists, all in one place
 - [node-slackbot ★24 ⏳2Y](https://github.com/rmcdaniel/node-slackbot) - Slackbot for node.js using RTM API
 - [node-slackhook ★20 ⏳1Y](https://github.com/joezo/node-slackhook) - A node module for Slack custom hooks
 - [node-slackr ★63](https://github.com/chenka/node-slackr) - A node.js library for sending messages to Slack
-- [nodebot-slack ★3 ⏳2Y](https://github.com/Nodejs-ar/nodebot-slack) - A Node.js bot for Slack teams
+- [nodebot-slack ★3 ⏳3Y](https://github.com/Nodejs-ar/nodebot-slack) - A Node.js bot for Slack teams
 - [Notifications for Fluid](https://gist.github.com/banderson623/81889e7764da84f32112) - Use native notification center for Slack in fluid.app
 - [Overcast ★397 ⏳1Y](https://github.com/andrewchilds/overcast) - A SSH-based cloud management CLI with Slack support
 - [passport-slack ★68](https://github.com/mjpearson/passport-slack) - Slack OAuth2 strategy for Passport
@@ -523,7 +530,7 @@ Please read the [contribution guidelines](https://github.com/matiassingers/aweso
 To the extent possible under law, [Matias Singers](http://mts.io) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/matiassingers/awesome-slack">matiassingers/awesome-slack</a> with ranks
+	This list is a copy of <a href="https://github.com/matiassingers/awesome-slack">matiassingers/awesome-slack</a> with ranks
 </p>
 
 <script>

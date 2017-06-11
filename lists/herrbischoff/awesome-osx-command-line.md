@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/herrbischoff/awesome-osx-command-line">herrbischoff/awesome-osx-command-line</a> with ranks
+	This list is a copy of <a href="https://github.com/herrbischoff/awesome-osx-command-line">herrbischoff/awesome-osx-command-line</a> with ranks
 </p>
 ---
 <h1><img src="https://cdn.rawgit.com/herrbischoff/awesome-osx-command-line/master/assets/logo.svg" alt="Awesome OS X Command Line" width="600"></h1>
@@ -1734,7 +1741,7 @@ chsh -s $(brew --prefix)/bin/zsh
 <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/herrbischoff/awesome-osx-command-line">herrbischoff/awesome-osx-command-line</a> with ranks
+	This list is a copy of <a href="https://github.com/herrbischoff/awesome-osx-command-line">herrbischoff/awesome-osx-command-line</a> with ranks
 </p>
 
 <script>

@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/ziadoz/awesome-php">ziadoz/awesome-php</a> with ranks
+	This list is a copy of <a href="https://github.com/ziadoz/awesome-php">ziadoz/awesome-php</a> with ranks
 </p>
 ---
 # Awesome PHP [![Build Status](https://api.travis-ci.org/ziadoz/awesome-php.svg?branch=master)](https://travis-ci.org/ziadoz/awesome-php)
@@ -385,7 +392,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Exakat ★64](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 * [GrumPHP ★1733](https://github.com/phpro/grumphp) - A composer plugin to defend code quality.
 * [Mondrian ★324 ⏳1Y](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
-* [PHP Analyser ★446](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
+* [PHP Analyser ★446 ⏳1Y](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
 * [PHP Code Sniffer ★3501](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
 * [PHP CS Fixer ★4509](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
 * [PHP Manipulator ★107 ⏳2Y](https://github.com/schmittjoh/php-manipulator) - A library for analysing and modifying PHP Source Code.
@@ -764,7 +771,7 @@ Libraries to help manage database schemas and migrations.
 * [Github ★64 ⏳3Y](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
 * [Mailgun ★558](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
 * [PHP Github API ★1070](https://github.com/KnpLabs/php-github-api) - Another library to interface with the Github API.
-* [S3 Stream Wrapper ★17](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
+* [S3 Stream Wrapper ★17 ⏳1Y](https://github.com/gwkunze/S3StreamWrapper) - A stream wrapper library for Amazon S3.
 * [Stripe ★1118](https://github.com/stripe/stripe-php) - The official Stripe PHP library.
 * [Twilio ★821](https://github.com/twilio/twilio-php) - The official Twilio PHP REST API.
 * [Twitter OAuth ★7 ⏳3Y](https://github.com/widop/twitter-oauth) - A library to interface with Twitter's OAuth workflow.
@@ -996,7 +1003,7 @@ Various resources, such as books, websites and articles, for improving your PHP 
 * [php[architect]](https://www.phparch.com/magazine/) - A monthly magazine dedicated to PHP.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/ziadoz/awesome-php">ziadoz/awesome-php</a> with ranks
+	This list is a copy of <a href="https://github.com/ziadoz/awesome-php">ziadoz/awesome-php</a> with ranks
 </p>
 
 <script>

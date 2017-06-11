@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/marmelab/awesome-rest">marmelab/awesome-rest</a> with ranks
+	This list is a copy of <a href="https://github.com/marmelab/awesome-rest">marmelab/awesome-rest</a> with ranks
 </p>
 ---
 # Awesome REST [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -107,7 +114,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 * [node-restify ★6760](https://github.com/restify/node-restify) - Framework specifically meant for REST API.
 * [Sails.js](http://sailsjs.org/) - Node.js Web framework embedding a command to generate automatically a REST API.
-* [mers ★345 ⏳1Y](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
+* [mers ★345 ⏳2Y](https://github.com/jspears/mers) - Express service exposing Mongoose finders as RESTful API.
 * [Baucis ★620](https://github.com/wprl/baucis) - Build scalable REST API based on your Mongoose entities.
 * [flatiron/resourceful ★355 ⏳2Y](https://github.com/flatiron/resourceful) - Isomorphic Resource engine for JavaScript.
 * [loopback](http://loopback.io/) - Powerful Node.js framework for creating APIs and easily connecting to backend data sources.
@@ -241,7 +248,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/marmelab/awesome-rest">marmelab/awesome-rest</a> with ranks
+	This list is a copy of <a href="https://github.com/marmelab/awesome-rest">marmelab/awesome-rest</a> with ranks
 </p>
 
 <script>

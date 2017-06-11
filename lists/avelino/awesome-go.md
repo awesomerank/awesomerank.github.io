@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/avelino/awesome-go">avelino/awesome-go</a> with ranks
+	This list is a copy of <a href="https://github.com/avelino/awesome-go">avelino/awesome-go</a> with ranks
 </p>
 ---
 # Awesome Go [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/avelino/awesome-go](https://badges.gitter.im/avelino/awesome-go.svg)](https://gitter.im/avelino/awesome-go?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -1519,6 +1526,7 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [GopherCon Brazil](https://gopherconbr.org) - Florianópolis, BR
 * [GopherCon Dubai](http://www.gophercon.ae/) - Dubai, UAE
 * [GopherCon India](http://www.gophercon.in/) - Pune, India
+* [GopherCon Singapore](https://gophercon.sg) - Mapletree Business City, Singapore
 * [GothamGo](http://gothamgo.com/) - New York City, USA
 
 ## E-Books
@@ -1578,7 +1586,7 @@ Hey dude! Help me out for a couple of :beers:!
 [![Beerpay](https://beerpay.io/avelino/awesome-go/badge.svg?style=beer-square)](https://beerpay.io/avelino/awesome-go)  [![Beerpay](https://beerpay.io/avelino/awesome-go/make-wish.svg?style=flat-square)](https://beerpay.io/avelino/awesome-go?focus=wish)
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/avelino/awesome-go">avelino/awesome-go</a> with ranks
+	This list is a copy of <a href="https://github.com/avelino/awesome-go">avelino/awesome-go</a> with ranks
 </p>
 
 <script>

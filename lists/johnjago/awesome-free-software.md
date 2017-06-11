@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/johnjago/awesome-free-software">johnjago/awesome-free-software</a> with ranks
+	This list is a copy of <a href="https://github.com/johnjago/awesome-free-software">johnjago/awesome-free-software</a> with ranks
 </p>
 ---
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -191,12 +198,13 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
 - [Free software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
+- [Proprietary Software is Often Malware](https://www.gnu.org/proprietary/)
 - [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important.
 
 ### Discovery
 
 - [Free Software Directory](https://directory.fsf.org/wiki/Main_Page) - Over 15,000 free software packages.
-- [Free GNU/Linux distributions](https://www.gnu.org/distros/free-distros.html) - Entirely free distributions.
+- [Free GNU/Linux Distributions](https://www.gnu.org/distros/free-distros.html) - Entirely free distributions.
 
 ### Events
 
@@ -224,7 +232,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Free Software for Digital India by Prof. Nagarjuna G](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
 - [Free Software, Beyond Software by Agustín Benito at TEDxLaLaguna](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 - [Free Software, Free Society by Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
-- [I Am Not a Free Software Guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
+- [I am not a free software guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
 - [Jeremy Allison talks about free software](https://www.youtube.com/watch?v=kNakHgHnSDI)
 - [John Sullivan talks about free software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
 - [Stephen Fry talks about free software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
@@ -234,7 +242,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/johnjago/awesome-free-software">johnjago/awesome-free-software</a> with ranks
+	This list is a copy of <a href="https://github.com/johnjago/awesome-free-software">johnjago/awesome-free-software</a> with ranks
 </p>
 
 <script>

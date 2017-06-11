@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks
+	This list is a copy of <a href="https://github.com/love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks
 </p>
 ---
 # ![Awesome Löve](https://github.com/love2d-community/awesome-love2d/blob/master/logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -104,6 +111,8 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [astray ★39](https://github.com/SiENcE/astray) - Astray is a lua based maze, room and dungeon generation library for dungeon crawlers and roguelike video games
 * [hump ★391](https://github.com/vrld/hump) - Collection of tools for developing games with LÖVE (Gamestates, Timers/Tweens, Vectors, Classes, Signals, Cameras)
 * [knife ★103](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
+* [lovely-windows ★1](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
+* [love-state-switcher ★1](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine
 * [lue ★19](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
 * [lume ★192](https://github.com/rxi/lume) - Collection of functions for Lua, geared towards game development
 * [rotLove ★96](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
@@ -185,7 +194,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Guides to distributing LÖVE games in 3rd party stores*
 
 * [Love-Snap-Template ★12](https://github.com/popey/love-snap-template) - A template for packaging LÖVE games for distribution in the Snappy Store
-* [AppImageKit ★1776](https://github.com/probonopd/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file
+* [AppImageKit ★1805](https://github.com/AppImage/AppImageKit) - Using AppImageKit you can package LÖVE games as AppImages that run on common Linux-based operating systems, such as RHEL, CentOS, Ubuntu, Fedora, debian and derivatives; one game = one file
 
 ## Serialization
 *Save Game & Storage Libraries*
@@ -309,7 +318,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 Other awesome lists can be found in the [awesome-awesomeness ★18868](https://github.com/bayandin/awesome-awesomeness) list.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks
+	This list is a copy of <a href="https://github.com/love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks
 </p>
 
 <script>

@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/vuejs/awesome-vue">vuejs/awesome-vue</a> with ranks
+	This list is a copy of <a href="https://github.com/vuejs/awesome-vue">vuejs/awesome-vue</a> with ranks
 </p>
 ---
 <p align="center">
@@ -324,6 +331,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue.js with Sails.js backend example project ★7](https://github.com/ndabAP/Vue.js-with-Sails.js-backend-example-project) - This project is for those who are new to single-page applications and want to learn through a real example.
   - [**Vue.js & Pyramid web framework app**](https://github.com/eddyekofo94/pyramidVue.git) - A boilerplate using Pylons Pyramid webframework backend Vuejs webpack2, vue-router, yarn(packet manager)
   - [vue-feathers-chat ★8](https://github.com/ErickPetru/vue-feathers-chat) A sample realtime chat made with Vue in frontend and Feathers in backend, but using just Socket.IO-Client for the communication
+  - [vue-xplan ★8](https://github.com/JackGit/xplan) A rotating earth demo page created with Vue and three.js
+  - [**vueSocketChatRoom** ★1](https://github.com/Chanran/vueSocketChatroom) A socket chat room using vue2.x,vuex2.x,vue-router2.x,vux2.x,socket.io
 
 ### Books
 
@@ -816,8 +825,9 @@ Tooltips / popovers
  - [vue-ip-input ★8](https://github.com/lakb248/vue-ip-input) - An ip input component for Vue.js 2.x
  - [vue-particles ★158](https://github.com/creotip/vue-particles) - Vue.js component for particles backgrounds
  - [vue-uniq-ids ★6](https://github.com/termosa/vue-uniq-ids) - Vue.js 2.x plugin that helps to use id-related attributes with no side-effect
-  - [vue-default-value ★4](https://github.com/termosa/vue-default-value) - Vue.js 2.x directive to set a default value for editable elements with no affect to the model state
-- [vue-model-autoset ★0](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
+ - [vue-default-value ★4](https://github.com/termosa/vue-default-value) - Vue.js 2.x directive to set a default value for editable elements with no affect to the model state
+ - [vue-model-autoset ★0](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
+ - [vue-submit](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit) - Simple implementation of Ladda ([1](http://lab.hakim.se/ladda/), [2](https://msurguy.github.io/ladda-bootstrap/)) in less than 90 lines of code with no dependencies.
 
 #### Wizard
 
@@ -1145,6 +1155,8 @@ Tooltips / popovers
  - [vue-navigation ★25](https://github.com/zack24q/vue-navigation) - A page navigation library, record routes and cache pages, like native app navigation. 一个页面导航库，记录路由并缓存页面，像原生APP导航一样。
  - [vue-acl ★48](https://github.com/leonardovilarinho/vue-acl) - Access Control List for VueJS 2.
  - [vue-breadcrumbs ★43](https://github.com/samturrell/vue-breadcrumbs) - Implements simple breadcrumb functionality with vue-router for both Vue 1.x and Vue 2.x.
+ - [vue-2-breadcrumbs ★1](https://github.com/GitScrum/vue-2-breadcrumbs) - breadcrumb together with vue-router for Vue 2.x. and Bootstrap 4
+ - [vs-crumbs](https://github.com/NxtChg/pieces/tree/master/js/vue/vs-crumbs) - Vue breadcrumbs in 40 lines of code that allows nested paths without child views.
 
 ### Miscellaneous
 - [vue-container ★21](https://github.com/dealloc/vuec) - A simple dependency injection library for Vue 2.
@@ -1292,6 +1304,7 @@ Tooltips / popovers
  - [vue-cli ★5064](https://github.com/vuejs/vue-cli) - Simple CLI for scaffolding Vue.js projects.
  - [Vue-Django ★120](https://github.com/NdagiStanley/vue-django) - A boilerplate to set you up in bringing the awesomeness of VueJS into a Django (Python) app.
  - [python-vuejs ★4](https://github.com/cstrap/python-vuejs) - Gluing Python web frameworks and Vue.js with a set of scripts. Basically a `vue-cli` wrapper.
+ - [generator-vue-plugin ★3](https://github.com/jeneser/generator-vue-plugin) - Yeoman generator generating vue plugin.
 
 ### Client
 
@@ -1347,7 +1360,7 @@ Tooltips / popovers
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/vuejs/awesome-vue">vuejs/awesome-vue</a> with ranks
+	This list is a copy of <a href="https://github.com/vuejs/awesome-vue">vuejs/awesome-vue</a> with ranks
 </p>
 
 <script>

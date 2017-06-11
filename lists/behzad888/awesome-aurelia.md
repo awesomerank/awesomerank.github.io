@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/behzad888/awesome-aurelia">behzad888/awesome-aurelia</a> with ranks
+	This list is a copy of <a href="https://github.com/behzad888/awesome-aurelia">behzad888/awesome-aurelia</a> with ranks
 </p>
 ---
 <p align="center">
@@ -313,7 +320,7 @@ Thank you for your suggestions!
 A lot of times, making a PR adhere to the standards above can be difficult. If the maintainers notice anything that we'd like changed, we'll ask you to edit your PR before we merge it. There's no need to open a new PR, just edit the existing one. If you're not sure how to do that, [here is a guide](https://github.com/RichardLitt/docs/blob/master/amending-a-commit-guide.md) on the different ways you can update your PR so that we can merge it.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/behzad888/awesome-aurelia">behzad888/awesome-aurelia</a> with ranks
+	This list is a copy of <a href="https://github.com/behzad888/awesome-aurelia">behzad888/awesome-aurelia</a> with ranks
 </p>
 
 <script>

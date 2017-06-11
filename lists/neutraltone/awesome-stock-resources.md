@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/neutraltone/awesome-stock-resources">neutraltone/awesome-stock-resources</a> with ranks
+	This list is a copy of <a href="https://github.com/neutraltone/awesome-stock-resources">neutraltone/awesome-stock-resources</a> with ranks
 </p>
 ---
 # Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
@@ -342,7 +349,7 @@ And finally, if you appreciate this list and find it useful, please consider hel
 To the extent possible under law, [Tony Phipps](https://twitter.com/neutraltone) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/neutraltone/awesome-stock-resources">neutraltone/awesome-stock-resources</a> with ranks
+	This list is a copy of <a href="https://github.com/neutraltone/awesome-stock-resources">neutraltone/awesome-stock-resources</a> with ranks
 </p>
 
 <script>

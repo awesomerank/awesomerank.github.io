@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
+	This list is a copy of <a href="https://github.com/vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
 </p>
 ---
 # Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
@@ -273,6 +280,7 @@ every Sunday in the form of the DevOps newsletter.
 * [My Morning Routine](https://mymorningroutine.com/). My Morning Routine is an independent online magazine that brings you a brand new, inspiring morning routine every Wednesday.
 * [wpMail.me](http://wpmail.me/). A free WordPress Newsletter, once a week, with a round-up of WordPress news and articles. [Archive](http://wpmail.me/newsletters/).
 * [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
+* [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
 
 
 ## Etc.
@@ -299,7 +307,7 @@ every Sunday in the form of the DevOps newsletter.
 To the extent possible under law, [Dmitry Zudochkin](https://github.com/vredniy) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
+	This list is a copy of <a href="https://github.com/vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
 </p>
 
 <script>

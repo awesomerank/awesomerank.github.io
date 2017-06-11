@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/PerfectCarl/awesome-play1">PerfectCarl/awesome-play1</a> with ranks
+	This list is a copy of <a href="https://github.com/PerfectCarl/awesome-play1">PerfectCarl/awesome-play1</a> with ranks
 </p>
 ---
 # Awesome Play1 [![play-isthe1!](http://img.shields.io/badge/play-isthe1-red.svg?style=flat)](https://github.com/markets/awesome-ruby) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -118,7 +125,7 @@ If you want to contribute information about a module, please refer to the [guide
 * **[[mongo] ](http://www.playframework.com/modules/mongo) [MongoDB](http://github.com/louth/play-mongo)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/mongo) Provides a simple, elegant solution for using models stored in mongodb. For a more complex use cases, please take a look at the morphia module. 
 * **[[morphia] ](http://www.playframework.com/modules/morphia) [MongoDB Integration](http://github.com/greenlaw110/play-morphia)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/morphia)[![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat)](http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.morphia/play-morphia)[![Updated since the play module registry was frozen](http://img.shields.io/badge/ -updated-ff69b4.svg?style=flat)](http://github.com/greenlaw110/play-morphia) Seamlessly MongoDB access integration with Play’s Model interface. 
 * **[[mybatisplay] ](http://www.playframework.com/modules/mybatisplay) [MyBatisPlay](https://github.com/eamelink/play-navigation/wiki)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/mybatisplay) Provides support for MyBatis persistence framework. 
-* **[[neo4j] ](http://www.playframework.com/modules/neo4j) [logisima-neo4j ★16 ⏳3Y](https://github.com/sim51/logisima-play-neo4j)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/neo4j) Integrate neo4j database into your play! project. 
+* **[[neo4j] ](http://www.playframework.com/modules/neo4j) [logisima-neo4j ★16 ⏳4Y](https://github.com/sim51/logisima-play-neo4j)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/neo4j) Integrate neo4j database into your play! project. 
 * **[[objectify] ](http://www.playframework.com/modules/objectify) [Objectify](http://code.google.com/p/play-framework-objectify/)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/objectify) Objectify is a flexible abstraction on Google App Engine/J which makes data access simple and elegant 
 * **[[orientdb] ](http://www.playframework.com/modules/orientdb) [OrientDB ★26 ⏳3Y](https://github.com/mfornos/orientdb)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/orientdb) OrientDB for Play! Framework 
 * **[[redis] ](http://www.playframework.com/modules/redis) [Redis ★37 ⏳5Y](https://github.com/tkral/play-redis)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/redis)[![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat)](http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.redis/play-redis) The Redis Play! module helps you easily use Redis in your Play! applications 
@@ -208,7 +215,7 @@ If you want to contribute information about a module, please refer to the [guide
 
 * **[[i18ntools] ](http://www.playframework.com/modules/i18ntools) [I18ntools](http://github.com/naholyr/i18ntools)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/i18ntools) This module will add some tools to ease use of i18n in your Play! projects. 
 * **[[messages] ](http://www.playframework.com/modules/messages) [@messages ★18 ⏳4Y](https://github.com/huljas/play-messages)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/messages)[![mavenized](http://img.shields.io/badge/ -mavenized-blue.svg?style=flat)](http://mvnrepository.com/artifact/com.google.code.maven-play-plugin.org.playframework.modules.messages/play-messages) Module messages provides a web based tool for managing your application’s localizations. 
-* **[[nemrod] ](http://www.playframework.com/modules/nemrod) [Nemrod ★16 ⏳3Y](https://github.com/sim51/logisima-play-neo4j)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/nemrod) This module helps to import and export translations from your application to a Nemrod instance automatically. 
+* **[[nemrod] ](http://www.playframework.com/modules/nemrod) [Nemrod ★16 ⏳4Y](https://github.com/sim51/logisima-play-neo4j)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/nemrod) This module helps to import and export translations from your application to a Nemrod instance automatically. 
 * **[play-i18ned]  [Play-i18ned](https://github.com/phaus/play-i18ned)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-no-red.svg?style=flat) ★0 ⏳2Y](https://github.com/phaus/play-i18ned) Converts default i18n files from an Excel Sheet and the other way around. 
 
 ### Misc 
@@ -243,7 +250,7 @@ If you want to contribute information about a module, please refer to the [guide
 To the extent possible under law, [PerfectCarl](https://github.com/PerfectCarl) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/PerfectCarl/awesome-play1">PerfectCarl/awesome-play1</a> with ranks
+	This list is a copy of <a href="https://github.com/PerfectCarl/awesome-play1">PerfectCarl/awesome-play1</a> with ranks
 </p>
 
 <script>

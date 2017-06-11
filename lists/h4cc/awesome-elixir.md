@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/h4cc/awesome-elixir">h4cc/awesome-elixir</a> with ranks
+	This list is a copy of <a href="https://github.com/h4cc/awesome-elixir">h4cc/awesome-elixir</a> with ranks
 </p>
 ---
 # Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -613,7 +620,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [absinthe_plug ★55](https://github.com/absinthe-graphql/absinthe_plug) - Plug support for Absinthe.
 * [addict ★567](https://github.com/trenpixster/addict) - User authentication for Phoenix Framework.
-* [airbrake_plug ★5 ⏳1Y](https://github.com/romul/airbrake_plug) - Report errors in your Plug stack or whatever to Airbrake.
+* [airbrake_plug ★5 ⏳2Y](https://github.com/romul/airbrake_plug) - Report errors in your Plug stack or whatever to Airbrake.
 * [ashes ★66 ⏳2Y](https://github.com/nickgartmann/ashes) - A code generation tool for the Phoenix web framework.
 * [blaguth ★15](https://github.com/lexmag/blaguth) - Basic Access Authentication in Plug applications.
 * [commanded ★201](https://github.com/slashdotdash/commanded) - Command handling middleware for Command Query Responsibility Segregation (CQRS) applications.
@@ -1225,7 +1232,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ponos ★97 ⏳1Y](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
 * [power_assert ★142](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
 * [proper ★537](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
-* [setup_tag ★1](https://github.com/vic/setup_tag) - Easily mix and match functions marked with tags to setup your test context.
+* [setup_tag ★1 ⏳1Y](https://github.com/vic/setup_tag) - Easily mix and match functions marked with tags to setup your test context.
 * [shouldi ★128](https://github.com/batate/shouldi) - Elixir testing libraries with nested contexts, superior readability, and ease of use.
 * [test_that_json ★7](https://github.com/facto/test_that_json) - JSON assertions and helpers for your Elixir testing needs.
 * [tuco_tuco ★56](https://github.com/stuart/tuco_tuco) - TucoTuco helps you test your web application by running a web browser and simulating user interaction with your application.
@@ -1246,7 +1253,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ccc ★4](https://github.com/Joe-noh/ccc) - Character Code Converter.
 * [chinese_translation ★67 ⏳2Y](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 * [cidr ★8](https://github.com/c-rack/cidr-elixir) - Classless Inter-Domain Routing (CIDR) for Elixir.
-* [cirru_parser ★0 ⏳1Y](https://github.com/Cirru/parser.ex) - Cirru Parser in Elixir.
+* [cirru_parser ★0 ⏳2Y](https://github.com/Cirru/parser.ex) - Cirru Parser in Elixir.
 * [cldr ★1 ⏳2Y](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
 * [colorful ★2 ⏳2Y](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors ★5](https://github.com/lidashuang/colors) - Colors util written in Elixir.
@@ -1615,7 +1622,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 Please see [CONTRIBUTING](https://github.com/h4cc/awesome-elixir/blob/master/.github/CONTRIBUTING.md) for details.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/h4cc/awesome-elixir">h4cc/awesome-elixir</a> with ranks
+	This list is a copy of <a href="https://github.com/h4cc/awesome-elixir">h4cc/awesome-elixir</a> with ranks
 </p>
 
 <script>

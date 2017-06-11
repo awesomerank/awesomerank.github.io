@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/markets/awesome-ruby">markets/awesome-ruby</a> with ranks
+	This list is a copy of <a href="https://github.com/markets/awesome-ruby">markets/awesome-ruby</a> with ranks
 </p>
 ---
 # <img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/> <a href="http://awesome-ruby.com">Awesome Ruby</a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
@@ -911,7 +918,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [ruby-opencv ★660](https://github.com/ruby-opencv/ruby-opencv) - An OpenCV wrapper for Ruby.
 * Classifiers
   * [classifier-reborn ★341](https://github.com/jekyll/classifier-reborn) - An active fork of Classifier, and general module to allow Bayesian and other types of classifications.
-  * [stuff-classifier ★435](https://github.com/alexandru/stuff-classifier) - A library for classifying text into multiple categories.
+  * [stuff-classifier ★435 ⏳1Y](https://github.com/alexandru/stuff-classifier) - A library for classifying text into multiple categories.
 * Data analysis/structures
   * [daru](https://github.com/v0dro/daru) - A library for storage, analysis, manipulation and visualization of data in pure Ruby.
   * [Rgl ★109](https://github.com/monora/rgl) - A framework for graph data structures and algorithms.
@@ -1196,7 +1203,7 @@ Where to discover new Ruby libraries, projects and trends.
 * [The Ruby Toolbox](https://www.ruby-toolbox.com) - A comprehensive catalog of Ruby and Rails plug-ins, gems, tools and resources for Ruby developers with popularity ratings based on GitHub watchers and Gem downloads.
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/markets/awesome-ruby">markets/awesome-ruby</a> with ranks
+	This list is a copy of <a href="https://github.com/markets/awesome-ruby">markets/awesome-ruby</a> with ranks
 </p>
 
 <script>

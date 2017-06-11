@@ -1,8 +1,15 @@
+---
+layout: default
+title: Awesome Rank
+---
+
+<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
+
 <h1 align="center">
 Ranked awesome lists, all in one place
 </h1>
 <p align="center">
-	This list is a copy of <a href="http://github.com/leereilly/games">leereilly/games</a> with ranks
+	This list is a copy of <a href="https://github.com/leereilly/games">leereilly/games</a> with ranks
 </p>
 ---
 # Games on GitHub <img src="http://i.imgur.com/Cj4rMrS.gif" height="40" alt="Swimming Octocat" title="Games on GitHub">
@@ -412,7 +419,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenRCT2 ★2759](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2.
 * [Race into Space ★50](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
 * [Seven Kingdoms: Ancient Adversaries ★59](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
-* [Source of Tales ★49 ⏳1Y](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
+* [Source of Tales ★49 ⏳2Y](https://github.com/tales/sourceoftales) - Entry in the Liberated Pixel Cup 2012.
 * [Tanks of Freedom ★334](https://github.com/w84death/Tanks-of-Freedom) - Turn-based strategy game in isometric pixel-art style.
 * [The Battle for Wesnoth ★1103](https://github.com/wesnoth/wesnoth) - Turn-based strategy game with a high fantasy theme.
 * [Unknown Horizons](https://github.com/unknown-horizons/) - 2D isometric RTS economic strategy game written in C++ & Python, built on the Flexible Isometric Free Engine.
@@ -582,7 +589,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 ---
 <p align="center">
-	This list is a copy of <a href="http://github.com/leereilly/games">leereilly/games</a> with ranks
+	This list is a copy of <a href="https://github.com/leereilly/games">leereilly/games</a> with ranks
 </p>
 
 <script>
