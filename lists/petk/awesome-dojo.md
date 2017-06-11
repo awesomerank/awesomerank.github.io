@@ -1,13 +1,8 @@
 ---
 layout: default
-title: Awesome Rank
+title: Awesome Rank for petk/awesome-dojo
 ---
 
-<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
-
-<h1 align="center">
-Ranked awesome lists, all in one place
-</h1>
 <p align="center">
 	This list is a copy of <a href="https://github.com/petk/awesome-dojo">petk/awesome-dojo</a> with ranks
 </p>
@@ -159,7 +154,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [AuShada ★53 ⏳1Y](https://github.com/dreaswar/AuShadha) - Django and Dojo application for Electronic Medical Records (EMR) and Public Health Management
 * [dapi ★10 ⏳2Y](https://github.com/dojo/dapi) - node.js Dojo API viewer
 * [Dig Dug ★37](https://github.com/theintern/digdug) - A JavaScript library for launching WebDriver service tunnels
-* [Dojo Demo ★57 ⏳5Y](https://github.com/rmurphey/dojo-demo) - Dojo demo
+* [Dojo Demo ★57 ⏳6Y](https://github.com/rmurphey/dojo-demo) - Dojo demo
 * [dojorama ★47 ⏳3Y](https://github.com/sirprize/dojorama) - Single page demo application based on Dojo 1.9, Twitter Bootstrap 3 and history API
 * [Dojox application ★30 ⏳2Y](https://github.com/dmachi/dojox_application) - Dojox Application Framework for mobile, tablets, and desktops
 * [js-doc-parse ★12 ⏳2Y](https://github.com/dojo/js-doc-parse) - Library for parsing dojo JavaScript files and extracting inline documentation
@@ -238,14 +233,3 @@ To the extent possible under law, [Peter Kokot](https://github.com/petk) has wai
 <p align="center">
 	This list is a copy of <a href="https://github.com/petk/awesome-dojo">petk/awesome-dojo</a> with ranks
 </p>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-100705027-1', 'auto');
-  ga('send', 'pageview');
-
-</script>

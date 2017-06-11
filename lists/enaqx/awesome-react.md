@@ -1,13 +1,8 @@
 ---
 layout: default
-title: Awesome Rank
+title: Awesome Rank for enaqx/awesome-react
 ---
 
-<a href="https://github.com/awesomerank/rank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://camo.githubusercontent.com/a6677b08c955af8400f44c6298f40e7d19cc5b2d/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f6769746875622f726962626f6e732f666f726b6d655f72696768745f677261795f3664366436642e706e67" alt="Fork me on GitHub" data-canonical-src="https://s3.amazonaws.com/github/ribbons/forkme_right_gray_6d6d6d.png"></a>
-
-<h1 align="center">
-Ranked awesome lists, all in one place
-</h1>
 <p align="center">
 	This list is a copy of <a href="https://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
 </p>
@@ -394,7 +389,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-weather - Example React weather app using forecast.io's API ★71](https://github.com/andrewgleave/react-weather)
 * [react-sparkline - React component for rendering simple sparklines ★116 ⏳1Y](https://github.com/KyleAMathews/react-sparkline)
 * [react-component-width-mixin - React mixin which sets width ★32 ⏳1Y](https://github.com/KyleAMathews/react-component-width-mixin)
-* [react-micro-bar-chart - React component for micro bar-charts rendered with D3 ★91](https://github.com/KyleAMathews/react-micro-bar-chart)
+* [react-micro-bar-chart - React component for micro bar-charts rendered with D3 ★91 ⏳1Y](https://github.com/KyleAMathews/react-micro-bar-chart)
 * [react-horizontal-bar-chart - Simple horizontal bar chart component, using D3 scales only ★9 ⏳1Y](https://github.com/laem/react-horizontal-bar-chart)
 * [react-infinity - A UITableView Inspired list and grid display ★425](https://github.com/nmn/react-infinity)
 * [react-timeago - A simple time-ago component for React ★358](https://github.com/nmn/react-timeago)
@@ -1055,14 +1050,3 @@ Your contributions and suggestions are heartily♡ welcome. (✿◠‿◠)
 <p align="center">
 	This list is a copy of <a href="https://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
 </p>
-
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-100705027-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
