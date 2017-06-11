@@ -1,6 +1,6 @@
 title: Awesome Rank
 description: Ranked Awesome Lists.
-google_analytics:
+google_analytics: UA-100705027-1
 gems:
   - jemoji
 markdown: kramdown
