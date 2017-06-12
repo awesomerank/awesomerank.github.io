@@ -337,7 +337,7 @@ Makes searching in GitHub better. With GitHub, you can only search one branch pe
 </details>
 
 
-## [Gitter Helper ★11 ⏳1Y](https://github.com/svincent/gitter-chrome)
+## [Gitter Helper ★11 ⏳2Y](https://github.com/svincent/gitter-chrome)
 <a href="https://chrome.google.com/webstore/detail/gitter-helper-for-github/apahfabdianobklhejoojcpmoegaolpi"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.

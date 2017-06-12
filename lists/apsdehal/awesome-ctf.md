@@ -133,6 +133,8 @@ Check solve section for steganography.
 - [DLLInjector ★219 ⏳4Y](https://github.com/OpenSecurityResearch/dllinjector) - Inject dlls in processes
 - [libformatstr ★204](https://github.com/hellman/libformatstr) - Simplify format string exploitation.
 - [Metasploit](http://www.metasploit.com/) - Penetration testing software
+- [one_gadget ★141](https://github.com/david942j/one_gadget) -  A tool to find the one gadget `execve('/bin/sh', NULL, NULL)` call
+  - `gem install one_gadget`
 - [Pwntools ★2607](https://github.com/Gallopsled/pwntools) - CTF Framework for writing exploits
 - [Qira ★1436](https://github.com/BinaryAnalysisPlatform/qira) - QEMU Interactive Runtime Analyser
 - [ROP Gadget ★1025](https://github.com/JonathanSalwan/ROPgadget) - Framework for ROP exploitation

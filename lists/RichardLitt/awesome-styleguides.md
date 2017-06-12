@@ -129,7 +129,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
   * [jmcunningham's fork ★240 ⏳2Y](https://github.com/jmcunningham/angularjs-styleguide)
 
 ### CoffeeScript
-* [Polarmobile ★1646](https://github.com/polarmobile/coffeescript-style-guide)
+* [Polarmobile ★1646 ⏳1Y](https://github.com/polarmobile/coffeescript-style-guide)
 
 ### HTTP Design
 * [http-api-design ★12332](https://github.com/interagent/http-api-design)

@@ -190,7 +190,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [sbt-docker-compose ★65](https://github.com/Tapad/sbt-docker-compose) - Integrates Docker Compose functionality into sbt by [@kurtkopchik](https://github.com/kurtkopchik/)
 
 ## Development Environments
-* [Binci ★511](https://github.com/binci/binci) - Containerize your development workflow. (formerly DevLab by [@TechnologyAdvice][https://github.com/TechnologyAdvice])
+* [Binci ★511](https://github.com/binci/binci) - Containerize your development workflow. (formerly DevLab by [@TechnologyAdvice](https://github.com/TechnologyAdvice))
 * [Devstep ★196](https://github.com/fgrehm/devstep) - Development environments powered by Docker and buildpacks by [@fgrehm][fgrehm]
 * [Docker osx dev ★1332](https://github.com/brikis98/docker-osx-dev) - A productive development environment with Docker on OS X by [@brikis98](https://github.com/brikis98)
 * [Docker-sync](http://docker-sync.io/) - Drastically improves performance ([50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance)) when using Docker for development on Mac OS X/Windows and Linux while sharing code to the container. By [@EugenMayer](https://github.com/EugenMayer)
@@ -355,7 +355,7 @@ Services to securely store your Docker images.
 * [ElasticKube ★159](https://github.com/ElasticBox/elastickube) - Open source management platform for Kubernetes.
 * [Fleet ★2397](https://github.com/coreos/fleet) - A Distributed init System providing low-level orchestration [coreos.com]
 * [Flocker ★2802](https://github.com/ClusterHQ/flocker) - Flocker is a data volume manager and multi-host Docker cluster management tool by [@ClusterHQ](https://github.com/ClusterHQ)
-* [Haven] (https://github.com/codeabovelab/haven-platform) - Haven is a simplied container management platform that integrates container, application, cluster, image, and registry managements. 
+* [Haven ★91](https://github.com/codeabovelab/haven-platform) - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By [@codeabovelab](https://github.com/codeabovelab)
 * [Kontena ★1109](https://github.com/kontena/kontena) - Application Containers for Masses https://www.kontena.io/
 * [Kubernetes][kubernetes] - Open source orchestration system for Docker containers by Google [kubernetes] See Also [awesome-kubernetes ★926](https://github.com/ramitsurana/awesome-kubernetes) by [@ramitsurana][ramitsurana]
 * [Maestro ★616 ⏳3Y](https://github.com/toscanini/maestro) - Maestro provides the ability to easily launch, orchestrate and manage mulitiple Docker containers as single unit by [@tascanini](https://github.com/toscanini)

@@ -69,7 +69,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [hirestime ★3](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
 * [periods ★1 ⏳2Y](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
 * [fecha ★993](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
-* [akamai-time-reference ★0](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
+* [akamai-time-reference ★0 ⏳1Y](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
 * [timeago.js ★2535](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement.
 
 ### Object

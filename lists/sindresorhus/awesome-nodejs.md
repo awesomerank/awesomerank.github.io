@@ -704,7 +704,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - Node.js
 	- [user-info ★32](https://github.com/sindresorhus/user-info) - Node.js 6 `os.userInfo()` ponyfill.
 	- [buffer-includes ★7](https://github.com/sindresorhus/buffer-includes) - Node.js 5.3 `buffer.includes()` ponyfill.
-	- [deep-strict-equal ★20](https://github.com/sindresorhus/deep-strict-equal) - Test for deep equality - Node.js `assert.deepStrictEqual()` algorithm as a standalone module.
+	- [deep-strict-equal ★20 ⏳1Y](https://github.com/sindresorhus/deep-strict-equal) - Test for deep equality - Node.js `assert.deepStrictEqual()` algorithm as a standalone module.
 - JavaScript
 	- [harmony-reflect ★340](https://github.com/tvcutsem/harmony-reflect) - ES2015 `Reflect` and `Proxy` polyfill.
 	- [es6-shim ★2219](https://github.com/paulmillr/es6-shim) - Collection of ES2015 polyfills.

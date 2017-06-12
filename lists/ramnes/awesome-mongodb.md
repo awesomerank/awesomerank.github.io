@@ -207,7 +207,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 ### Monitoring
  - [check_mongodb ★15](https://github.com/dalenys/check_mongodb) - Nagios plugin (in Bash)
  - [Datadog](https://www.datadoghq.com/blog/monitor-mongodb-performance-with-datadog?ref=awesome) - SaaS-based MongoDB monitoring
- - [Mongoop ★30](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
+ - [Mongoop ★30 ⏳1Y](https://github.com/Lujeni/mongoop) - Long operations monitoring and alerting
  - [Motop ★57 ⏳1Y](https://github.com/tart/motop) - MongoDB top clone
  - [mtop ★50 ⏳2Y](https://github.com/beaufour/mtop) - Another top clone
  - [mongo-munin ★149 ⏳5Y](https://github.com/erh/mongo-munin) - Collection of Munin plugins

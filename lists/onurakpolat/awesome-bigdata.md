@@ -183,7 +183,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Bolt ★6290](https://github.com/boltdb/bolt) - an embedded key-value database for Go.
 * [BuntDB ★1442](https://github.com/tidwall/buntdb) - a fast, embeddable, in-memory key/value database for Go with custom indexing and geospatial support.
 * [Edis ★424 ⏳1Y](https://github.com/cbd/edis) - is a protocol-compatible Server replacement for Redis.
-* [ElephantDB ★521 ⏳2Y](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
+* [ElephantDB ★521 ⏳3Y](https://github.com/nathanmarz/elephantdb) - Distributed database specialized in exporting data from Hadoop.
 * [EventStore](https://geteventstore.com/) - distributed time series database.
 * [GridDB ★289](https://github.com/griddb/griddb_nosql) - suitable for sensor data stored in a timeseries.
 * [HyperDex ★1177](https://github.com/rescrv/HyperDex) - a scalable, next generation key-value and document store with a wide array of features, including consistency, fault tolerance and high performance.

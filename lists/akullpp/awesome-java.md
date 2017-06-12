@@ -222,6 +222,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Frameworks and libraries that simplify reading/writing CSV data.*
 
+* [Apache Commons CSV ★72](https://github.com/apache/commons-csv) - Provides a simple interface for reading and writing CSV files of various types.
 * [jackson-dataformat-csv ★179](https://github.com/FasterXML/jackson-dataformat-csv) - Jackson extension for reading and writing CSV.
 * [opencsv](http://opencsv.sourceforge.net) - Simple CSV parser.
 * [Super CSV](http://super-csv.github.io/super-csv/) - Powerful CSV parser with support for Dozer, Joda-Time and Java 8.
@@ -241,6 +242,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [JDBI](http://jdbi.org/) - Convenient abstraction of JDBC.
 * [Jedis ★5163](https://github.com/xetorthio/jedis) - A small client for interaction with Redis, with methods for commands.
 * [jetcd ★119](https://github.com/justinsb/jetcd) - A client library for etcd.
+* [Jinq ★443](https://github.com/my2iu/Jinq) - Typesafe database queries via symbolic execution of Java 8 Lambdas (on top of JPA or jOOQ). 
 * [jOOQ](http://www.jooq.org/) - Generates typesafe code based on SQL schema.
 * [Liquibase](http://www.liquibase.org/) - Database-independent library for tracking, managing and applying database schema changes.
 * [MapDB](http://www.mapdb.org/) - Embedded database engine that provides concurrent collections backed on disk or in off-heap memory.

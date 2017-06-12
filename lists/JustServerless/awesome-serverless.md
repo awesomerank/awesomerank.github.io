@@ -544,6 +544,15 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless push notifications for React Native using Firebase](https://school.shoutem.com/lectures/react-native-chat-app-serverless-firebase-push-notifications/) - Add serverless Firebase push notifications to React Native chat app tutorial.
 - [5 tips building serverless teams](https://thenewstack.io/five-tips-building-serverless-teams-enterprise/) - Five tips on building serverless teams in an enterprise.
 - [Global multi-cloud replication in FaunaDB](https://fauna.com/blog/global-multi-cloud-replication-in-faunadb-serverless-cloud) - Announcement blog post on global multi-cloud replication in FaunaDB serverless cloud.
+- [Getting started with Google Cloud Functions](https://www.programmableweb.com/news/getting-started-google-cloud-functions/how-to/2017/06/05) - Introduction to serverless on the Google Cloud platform.
+- [Serverless C#](https://visualstudiomagazine.com/articles/2017/04/01/implementing-webhooks-azure-functions.aspx) - Serverless C# with Azure Functions - Implementing Webhooks.
+- [Serverless PHP on OpenWhisk](https://medium.com/openwhisk/serverless-php-how-to-implement-serverless-functions-in-php-using-openwhisk-9943dc06f544) - How to implement serverless functions in PHP using OpenWhisk.
+- [OpenWhisk with Node](https://www.raymondcamden.com/2017/06/02/integrating-openwhisk-with-your-node-application/) - Integrating OpenWhisk with your Node application.
+- [Databricks serverless platform](https://techcrunch.com/2017/06/06/deep-databricks/) - Databricks releases serverless platform for Apache Spark along with new library supporting deep learning.
+- [Using the Serverless Framework to automate AWS Lambda deployments](https://medium.com/engineers-optimizely/using-serverless-to-simplify-and-automate-aws-lambda-442addd80d72) - How the Serverless Framework can help to automate AWS Lambda deployments.
+- [Run Docker in Lambda](https://hackernoon.com/how-did-i-hack-aws-lambda-to-run-docker-containers-7184dc47c09b) - Post which describes how to run Docker containers in AWS Lambda.
+- [How serverless changes application development](http://www.infoworld.com/article/3199243/application-development/how-serverless-changes-application-development.html) - Post on how serverless architectures change app development.
+- [AWS Lambda lifecycle and in-memory caching](https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072) - How in-memory caching could be used in AWS Lambda.
 
 ## Screencasts
 
@@ -906,6 +915,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Boilerplate ★3](https://github.com/frangeris/serverless-boilerplate) - Boilerplate to create RESTful APIs with serverless architectures on AWS.
 - [Whim bot ★1](https://github.com/maasglobal/whim-bot) - Microsoft Bot Framewok powered serverless bot.
 - [AWS IAM manager ★20](https://github.com/netguru/aws-iam-manager) - AWS IAM Manager as code.
+- [SendToSlack ★2](https://github.com/optimizely/serverless-sendToSlack) - Send messages to a Slack channel.
 
 ## Related projects
 
@@ -963,6 +973,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Moleculer ★49](https://github.com/ice-services/moleculer) - Fast & powerful microservices framework for Node.js.
 - [Serverless Architectures on AWS code ★15](https://github.com/sbarski/serverless-architectures-aws) - The code repository for the Serverless Architectures on AWS book.
 - [Lambdacult](https://lambdacult.com) - Services on top of AWS Lambda.
+- [Scar ★5](https://github.com/grycap/scar) - Serverless Container-aware ARchitectures (e.g. Docker containers in AWS Lambda).
 
 ## Plugins
 

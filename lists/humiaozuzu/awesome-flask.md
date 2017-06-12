@@ -209,7 +209,7 @@ Plugins
     - [flask2postman ★59](https://github.com/numberly/flask2postman) - Generate a Postman collection from your Flask application
 - Utils
     - [Flask-Script ★543](https://github.com/smurfix/flask-script) - Flask extension to help writing external scripts for Flask applications
-    - [Flask-Split ★90](https://github.com/jpvanhal/flask-split) - A/B testing for your Flask application
+    - [Flask-Split ★90 ⏳1Y](https://github.com/jpvanhal/flask-split) - A/B testing for your Flask application
     - [flask-jsonrpc ★100](https://github.com/cenobites/flask-jsonrpc) - A basic JSON-RPC implementation for your Flask-powered sites
     - [Flask-Bcrypt ★176](https://github.com/maxcountryman/flask-bcrypt) - Flask-Bcrypt is a Flask extension that provides bcrypt hashing utilities for your application
     - [Flask-AppBuilder ★983](https://github.com/dpgaspar/Flask-AppBuilder) - Simple and rapid application builder framework, built on top of Flask. includes detailed security, auto form generation, google charts and much more

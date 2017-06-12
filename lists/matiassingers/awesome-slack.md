@@ -478,7 +478,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [trebekbot ★134](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
 - [vip-notify ★5 ⏳1Y](https://github.com/doejo/vip-notify) - Send VIP deployment notifications to Slack
 - [slack-webistrano ★4 ⏳2Y](https://github.com/caiosba/slack-webistrano) - Send Webistrano deploys to Slack
-- [yobot ★6 ⏳2Y](https://github.com/voxmedia/yobot) - YOs a Slack channel of your choice
+- [yobot ★6 ⏳3Y](https://github.com/voxmedia/yobot) - YOs a Slack channel of your choice
 
 ### Rust
 

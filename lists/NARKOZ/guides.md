@@ -102,7 +102,7 @@ coding style guides and development practices across the web.
 
 ### CoffeeScript
 
-+ [CoffeeScript Style Guide ★1646](https://github.com/polarmobile/coffeescript-style-guide#readme)
++ [CoffeeScript Style Guide ★1646 ⏳1Y](https://github.com/polarmobile/coffeescript-style-guide#readme)
 
 ### Elixir
 

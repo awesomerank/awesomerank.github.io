@@ -351,8 +351,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## ORM/ODM Extensions
  * [active_record.cr ★150](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [crecto](https://github.com/fridgerator/crecto) - Database wrapper, based on Ecto
+ * [granite-orm ★25](https://github.com/kemalyst/granite-orm) - ORM for Postgres, Mysql, Sqlite
  * [jennifer ★45](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
- * [kemalyst-model](https://github.com/drujensen/kemalyst-model) - ORM Model for the Kemalyst Framework
  * [ohm-crystal ★34](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr ★4](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
  * [selenite-db ★2](https://github.com/xdougx/selenite-db) - A simple persistency-model based library
@@ -360,6 +360,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [topaz](https://github.com/tbrand/topaz) - A simple and useful db wrapper
 
 ## Package Management
+ * [CRelease ★4](https://github.com/elorest/crelease) - Version and git tag manager that makes shard releases easy
  * [shards](https://github.com/ysbaddaden/shards) - Dependency manager for the Crystal
 
 ## Processes and Threads
@@ -558,6 +559,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * Visual Studio Code
    * [vscode-crystal ★10](https://github.com/g3ortega/vscode-crystal) - Crystal language support in VSCode
    * [vscode-crystal-ide ★19](https://github.com/kofno/crystal-ide) - Crystal IDE powered by [Language Server Protocol](https://code.visualstudio.com/blogs/2016/06/27/common-language-protocol)
+   * [vscode-crystal-lang ★2](https://github.com/faustinoaq/vscode-crystal-lang) - Formatter, linter and syntax highlighting for `cr` and `ecr` files
 
 ## Shell plugins
  * [crystal-zsh ★15](https://github.com/veelenga/crystal-zsh) - .oh-my-zsh plugin

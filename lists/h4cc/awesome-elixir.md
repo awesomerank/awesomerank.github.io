@@ -209,7 +209,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [poxa ★599](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
 * [Queerlink ★18 ⏳1Y](https://github.com/Queertoo/Queerlink) - A simple yet efficient URL shortening service written in Elixir.
 * [Sprint Poker ★136](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
-* [tty2048 ★128](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
+* [tty2048 ★128 ⏳1Y](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ## Artificial Intelligence
 *When your code becomes smarter than you.*
@@ -1243,7 +1243,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [base62 ★12](https://github.com/igas/base62) - Base62 encoder/decoder in pure Elixir.
 * [bencode ★10](https://github.com/gausby/bencode) - A Bencode encoder and decoder for Elixir. The decoder will return the checksum value of the info dictionary, if an info dictionary was found in the input.
 * [bencoder ★4 ⏳2Y](https://github.com/alehander42/bencoder) - bencode in Elixir.
-* [brcpfcnpj ★8](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
+* [brcpfcnpj ★8 ⏳1Y](https://github.com/williamgueiros/Brcpfcnpj) - Number format and Validation for Brazilian documents (CPF/CNPJ).
 * [calliope ★158](https://github.com/nurugger07/calliope) - An Elixir HAML parser.
 * [ccc ★4](https://github.com/Joe-noh/ccc) - Character Code Converter.
 * [chinese_translation ★67 ⏳2Y](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
@@ -1262,7 +1262,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [elixir-range-extras ★6 ⏳1Y](https://github.com/lnikkila/elixir-range-extras) - Elixir range utilities: constant-time random sampling and set operations.
 * [elixir_bencode ★10 ⏳2Y](https://github.com/AntonFagerberg/elixir_bencode) - Bencode implemented in Elixir.
 * [erldn](https://github.com/marianoguerra/erldn) - [EDN ★1466](https://github.com/edn-format/edn) format parser for the Erlang platform.
-* [event_source_encoder ★3 ⏳1Y](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
+* [event_source_encoder ★3 ⏳2Y](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
 * [ex_brace_expansion ★3 ⏳2Y](https://github.com/gniquil/ex_brace_expansion) - Brace expansion, as known from sh/bash, in Elixir.
 * [ex_rfc3966 ★0](https://github.com/marcelog/ex_rfc3966) - Elixir Tel URI parser compatible with RFC3966.
 * [ex_rfc3986 ★5](https://github.com/marcelog/ex_rfc3986) - RFC3986 URI/URL parser.

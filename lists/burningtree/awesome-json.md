@@ -301,7 +301,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
 * [JSONtoFoundation ★42 ⏳2Y](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
 * [fanci ★15 ⏳1Y](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
-* [Pinch ★22 ⏳2Y](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (Javascript)
+* [Pinch ★22 ⏳3Y](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (Javascript)
 * [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
 * [jsontl ★4 ⏳2Y](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
 * [json-transforms ★18](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.

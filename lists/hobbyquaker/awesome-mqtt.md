@@ -155,7 +155,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [mqttlauncher ★23 ⏳3Y](https://github.com/jpmens/mqtt-launcher) - Execute shell commands triggered by published MQTT messages.
 * [mqtt-os-status ★6 ⏳3Y](https://github.com/oskarhagberg/mqtt-os-status) - Operating-system related data, published to an MQTT broker at fixed intervals.
-* [mqttpc ★1](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.
+* [mqttpc ★1 ⏳1Y](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.
 * [mqttwatchdir ★15 ⏳2Y](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker.
 * [psmqtt ★10](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT.
 

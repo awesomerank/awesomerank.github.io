@@ -127,7 +127,7 @@ These open source projects will help you to build a bot in order to automate you
 ### Discord
 
 * [Discordrb ★207](https://github.com/meew0/discordrb) (Ruby)
-* [Errbot](http://errbot.io/) + [adapter ★5](https://github.com/gbin/err-backend-discord) (Python)
+* [Errbot](http://errbot.io/) + [adapter ★5 ⏳1Y](https://github.com/gbin/err-backend-discord) (Python)
 * [Lita](https://www.lita.io/) + [adapter ★0 ⏳1Y](https://github.com/kyleboe/lita-discord) (Ruby)
 
 ### Facebook Messenger

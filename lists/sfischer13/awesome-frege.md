@@ -73,7 +73,7 @@ You might also like [awesome-haskell ★1088](https://github.com/krispo/awesome-
 - [Getting Started](https://github.com/Frege/frege/wiki/Getting-Started) - First steps with Frege on the command line.
 - [REPL](http://try.frege-lang.org/) - Edit and run Frege code on the web.
 - [Examples](https://github.com/Frege/frege/tree/master/examples) - Some code examples.
-- [Template ★3 ⏳1Y](https://github.com/tfausak/fregexample) - Template for Frege projects.
+- [Template ★3 ⏳2Y](https://github.com/tfausak/fregexample) - Template for Frege projects.
 
 ### Comparisons
 

@@ -328,7 +328,7 @@ Discover more awesome lists at [sindresorhus/awesome ★59088](https://github.co
     - [honeypot ★1 ⏳1Y](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK
     - [SpamHAT ★14 ⏳1Y](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
     - [SendMeSpamIDS.py ★8](https://github.com/johestephan/SendMeSpamIDS.py) Simple SMTP fetch all IDS and analyzer
-    - [Shiva ★87](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
+    - [Shiva ★87 ⏳1Y](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
         - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
 
 - Distributed spam tracking

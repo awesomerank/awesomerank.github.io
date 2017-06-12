@@ -223,7 +223,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *Live math with playgrounds*
 
 * [Lindenmayer Systems ★4](https://github.com/henrinormak/lindenmayer) - A Swift playground exploring Lindemayer systems.
-* [Swift Natural Numbers ★3](https://github.com/jakebromberg/Swift-Natural-Numbers) - A playground for implementing the natural numbers and more concepts in number theory.
+* [Swift Natural Numbers ★3 ⏳1Y](https://github.com/jakebromberg/Swift-Natural-Numbers) - A playground for implementing the natural numbers and more concepts in number theory.
 * [Numsw ★71](https://github.com/sonsongithub/numsw) - A swift playground book that mimics some of the features of numpy and jupyter notebook. 📱
 * [Geometry with Swift ★0](https://github.com/dbbudd/Geometry-Swift-PlaygroundBook) - Learn the basics of geometry and Swift. 📱
 * [Polydoxical ★0](https://github.com/kirkbyo/Polydoxical) - Interactive playground to experiment with roulettes and polygons.
