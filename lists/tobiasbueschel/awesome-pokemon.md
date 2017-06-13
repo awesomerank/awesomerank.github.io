@@ -93,6 +93,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokemonGO-IV-Renamer ★92](https://github.com/Boren/PokemonGO-IV-Renamer) - Automatically renames your Pokémon to their IV stats.
 - [pokemongo-genymotion ★13](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon GO from your Genymotion device.
 - [pokemongo-game-master ★15](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.
+- [Pokemon-Terminal ★1413](https://github.com/LazoCoder/Pokemon-Terminal) - Pokémon terminal themes for iTerm2.
 
 ## Resources & Others
 #### Communities

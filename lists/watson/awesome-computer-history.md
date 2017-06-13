@@ -22,6 +22,8 @@ A curated list of computer history videos, documentaries and related folklore ma
   - [Talks & Lectures](#talks--lectures)
   - [Movies](#movies)
   - [Commercials](#commercials)
+- [Audio](#audio)
+  - [Podcasts](#podcasts)
 - [Texts](#texts)
   - [Folklore](#folklore)
   - [Announcements](#announcements)
@@ -98,6 +100,12 @@ _Dramatized versions of real events_
 ### Commercials
 
 - [Apple 1984 Super Bowl Commercial](https://www.youtube.com/watch?v=2zfqw8nhUwA) (1984) - Apple 1984 Super Bowl Commercial Introducing Macintosh Computer
+
+## Audio
+
+### Podcasts
+
+- [Internet History Podcast](http://www.internethistorypodcast.com/) ([subscribe](https://itunes.apple.com/us/podcast/internet-history-podcast/id829119009))
 
 ## Texts
 

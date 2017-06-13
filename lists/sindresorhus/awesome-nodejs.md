@@ -237,7 +237,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
 - [bugger ★149](https://github.com/buggerjs/bugger) - Provides Chrome Devtools bindings to debug programs in Chrome.
 - [0x ★499](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
-- [ctrace ★81](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
+- [ctrace ★81 ⏳1Y](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 - [leakage ★1070](https://github.com/andywer/leakage) - Write memory leak tests.
 
 

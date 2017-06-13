@@ -316,7 +316,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 * [JSONSelect ★1568](https://github.com/lloyd/JSONSelect) - CSS-like selectors. (Javascript)
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath implementation. (Javascript/PHP)
 * [searchjs ★133](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
-* [json-rel ★7](https://github.com/slurmulon/json-where) - Transparent references in JSON.
+* [json-rel ★7 ⏳1Y](https://github.com/slurmulon/json-where) - Transparent references in JSON.
 
 ## JSON Schema Frontend components
 * [JSON Editor ★3883](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)

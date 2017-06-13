@@ -96,7 +96,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 #### Polyfills
 * [Flexibility](https://github.com/10up/flexibility):metal:
 * [Flexie ★1107](https://github.com/doctyper/flexie)
-* [Reflexie ★259 ⏳3Y](https://github.com/doctyper/reflexie)
+* [Reflexie ★259 ⏳4Y](https://github.com/doctyper/reflexie)
 
 ## Other Interesting Articles
 *A list of issues related to flexbox.*

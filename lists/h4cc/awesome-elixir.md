@@ -112,7 +112,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exos](https://github.com/awetzel/exos) - A Port Wrapper which forwards cast and call to a linked Port.
 * [flowex ★127](https://github.com/antonmi/flowex) - Railway Flow-Based Programming with Elixir GenStage.
 * [mon_handler ★1 ⏳1Y](https://github.com/tattdcodemonkey/mon_handler) - A minimal GenServer that monitors a given GenEvent handler.
-* [pool_ring ★2 ⏳1Y](https://github.com/camshaft/pool_ring) - Create a pool based on a hash ring.
+* [pool_ring ★2 ⏳2Y](https://github.com/camshaft/pool_ring) - Create a pool based on a hash ring.
 * [poolboy ★896](https://github.com/devinus/poolboy) - A hunky Erlang worker pool factory.
 * [pooler ★236](https://github.com/seth/pooler) - An OTP Process Pool Application.
 * [sbroker ★68](https://github.com/fishcakez/sbroker) - Sojourn-time based active queue management library.
@@ -406,7 +406,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_conf ★28 ⏳2Y](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 * [figaro ★7 ⏳1Y](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
 * [figaro_elixir ★8](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
-* [sweetconfig ★1 ⏳2Y](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
+* [sweetconfig ★1 ⏳3Y](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
 
 ## Cryptography
 *Encrypting and decrypting data*
@@ -445,7 +445,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [crontab ★9](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
 * [ex_ical ★15](https://github.com/fazibear/ex_ical) - ICalendar parser.
 * [filtrex ★30](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
-* [good_times ★36](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
+* [good_times ★36 ⏳1Y](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
 * [milliseconds ★1 ⏳2Y](https://github.com/davebryson/elixir_milliseconds) - Simple library to work with milliseconds in Elixir.
 * [moment ★25 ⏳1Y](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [quantum ★681](https://github.com/c-rack/quantum-elixir) - Cron-like job scheduler for Elixir applications.
@@ -860,7 +860,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [eventsourced ★72](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 * [exceptional ★61](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 * [expat ★43](https://github.com/vic/expat) - Simple pattern generator for matching on elixir quoted expressions.
-* [guardsafe ★19](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
+* [guardsafe ★19 ⏳1Y](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
 * [happy ★24](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 * [kwfuns ★2 ⏳1Y](https://github.com/RobertDober/lab42_defkw) - Macros to create functions with syntax based keyword parameters with default values.
 * [lineo ★0 ⏳2Y](https://github.com/camshaft/lineo) - parse transform for accurate line numbers.
@@ -1056,7 +1056,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [tds_ecto ★41](https://github.com/livehelpnow/tds_ecto) - MSSQL / TDS Adapter for Ecto.
 * [timex_ecto ★93](https://github.com/bitwalker/timex_ecto) - An adapter for using Timex DateTimes with Ecto.
 * [tirexs ★350](https://github.com/Zatvobor/tirexs) - An Elixir flavored DSL for building JSON based requests to Elasticsearch engine.
-* [udpflux ★3 ⏳1Y](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
+* [udpflux ★3 ⏳2Y](https://github.com/timbuchwaldt/udpflux) - An opinionated InfluxDB UDP only client.
 * [yar ★8 ⏳2Y](https://github.com/dantswain/yar) - Yet another Redis client for Elixir.
 
 ## OTP

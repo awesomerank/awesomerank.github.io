@@ -553,6 +553,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Run Docker in Lambda](https://hackernoon.com/how-did-i-hack-aws-lambda-to-run-docker-containers-7184dc47c09b) - Post which describes how to run Docker containers in AWS Lambda.
 - [How serverless changes application development](http://www.infoworld.com/article/3199243/application-development/how-serverless-changes-application-development.html) - Post on how serverless architectures change app development.
 - [AWS Lambda lifecycle and in-memory caching](https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072) - How in-memory caching could be used in AWS Lambda.
+- [4 tools for production serverless architectures](https://serverless.com/blog/4-tools-for-building-production-serverless-architectures/) - 4 tools which will help you build production serverless architectures.
 
 ## Screencasts
 
@@ -688,6 +689,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Fun with serverless JavaScript](https://speakerdeck.com/lornajane/fun-with-serverless-javascript) - Slide deck from the talk about "Some Amazon Lambda, some Apache OpenWhisk and a little bit of Alexa mixed in".
 - [Serverless, the enterprise and making simple things simpler](https://www.cloudtp.com/doppler/serverless-enterprise-making-simple-things-simpler/) - Podcast which discusses the foundational traits of serverless computing, including scaling and provisioning, cost precision, high availability and more.
 - [From Rails to serverless](https://pivorak.com/talks/from-rails-to-serverless-via-ddd-and-microservices) - Andrzej Krzywdas talk about the journey from Rails to serverless.
+- [Serverless microservices](https://speakerdeck.com/davidwells/serverless-microservices) - Talk on serverless computing and serverless architectures.
+- [Serverless on Kubernetes](https://softwareengineeringdaily.com/2017/06/12/serverless-on-kubernetes-with-soam-vasani/) - Podacst about serverless on Kubernetes with Soam Vasani.
 
 ## Amazon AWS resources
 
@@ -1099,6 +1102,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Webpack ★2](https://github.com/sandfox/serverless-webpack-plugin) - Fork of the `serverless-webpack` plugin with some bugfixes and enhancements.
 - [Eventuate AWS Gateway ★1](https://github.com/eventuate-clients/eventuate-aws-gateway-serverless-plugin) - Plugin for the [Eventuate](http://eventuate.io) AWS Gateway.
 - [API Gateway binary ★0](https://github.com/maciejtreder/serverless-apigw-binary) - Enable binary support in AWS API Gateway.
+- [Graph ★10](https://github.com/trek10inc/serverless-graph) - Outputs your Serverless architecture and resources as a Graphviz dot compatible output.
 
 ## Literature
 

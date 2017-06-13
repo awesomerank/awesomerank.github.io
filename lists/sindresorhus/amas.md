@@ -17,7 +17,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Pascal Hartig ★29 ⏳1Y](https://github.com/passy/ama) - Polyglot. Engineer at Twitter. Contributor to Yeoman, TodoMVC, WSK.
 - [Stephen Sawchuk ★12 ⏳1Y](https://github.com/stephenplusplus/ama) - Just having fun. Creator of wiredep, youmeyou. Helper of ^.
 - [Arthur Verschaeve ★20 ⏳1Y](https://github.com/arthurvr/ama) - Open source fanboy at H5BP, Yeoman, jQuery, and TodoMVC.
-- [Mark Otto ★78 ⏳1Y](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
+- [Mark Otto ★78 ⏳2Y](https://github.com/mdo/ama) - Designer at GitHub. Creator of Bootstrap.
 - [Zach Holman](https://github.com/holman/feedback) - Developer and speaker. Previously worked at GitHub.
 - [Kent C. Dodds ★133](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 - [Simon Boudrias ★2 ⏳1Y](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
@@ -151,6 +151,7 @@ title: Awesome Rank for sindresorhus/amas
 - [From the Front ★0 ⏳1Y](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 - [HackCU ★4 ⏳1Y](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.
 - [Ansible Taiwan ★5](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
+- [IIIT Vadodara ★10](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 
 
 ---

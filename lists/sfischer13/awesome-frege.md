@@ -188,7 +188,7 @@ You might also like [awesome-haskell ★1088](https://github.com/krispo/awesome-
 
 ### Games
 
-- [2048 ★4 ⏳1Y](https://github.com/tfausak/fr2048) - Frege clone of 2048.
+- [2048 ★4 ⏳2Y](https://github.com/tfausak/fr2048) - Frege clone of 2048.
 
 ### Media
 

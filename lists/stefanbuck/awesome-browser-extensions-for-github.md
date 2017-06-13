@@ -558,7 +558,7 @@ This package lists the dependencies in the package files of the various packages
  ![Package Hub](https://raw.githubusercontent.com/BrainMaestro/packagehub/master/screenshot.png)
 </details>
 
-## [Pages2Repo ★19 ⏳1Y](https://github.com/Frozenfire92/Pages2Repo)
+## [Pages2Repo ★19 ⏳2Y](https://github.com/Frozenfire92/Pages2Repo)
 <a href="https://chrome.google.com/webstore/detail/pages2repo/afnogakjnebbgcbjkgmhaccljfejeflh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Makes it easy to access repository info from a GitHub pages website.

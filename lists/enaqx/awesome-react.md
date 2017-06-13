@@ -359,7 +359,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-table-component - React Table Component for creating a very basic html table](https://gist.github.com/ChaseWest/1935d08b156ae04b85d2)
 * [react-input-placeholder - Input is a small wrapper around React.DOM.input ★29](https://github.com/enigma-io/react-input-placeholder)
 * [react-infinite-scroll - An infinite scroll component for React ★372](https://github.com/guillaumervls/react-infinite-scroll)
-* [react-ellipsis - Ellipsis component for React ★9 ⏳1Y](https://github.com/guillaumervls/react-ellipsis)
+* [react-ellipsis - Ellipsis component for React ★9 ⏳2Y](https://github.com/guillaumervls/react-ellipsis)
 * [react-pillbox - Pillbox component for React ★2 ⏳2Y](https://github.com/redbadger/react-pillbox)
 * [react-intl - React Internationalization Component ★4857](https://github.com/yahoo/react-intl)
 * [react-tokeninput - Tokeninput component for React](https://github.com/instructure/react-tokeninput)

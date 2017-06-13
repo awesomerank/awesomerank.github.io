@@ -111,6 +111,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
+  * [WPF](#WPF)
   * [Other Lists](#other-lists)
 
 
@@ -489,6 +490,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Ionide](http://ionide.io/) - An Atom Editor and Visual Studio Code package suite for cross platform F# development.
 * [Rider](https://www.jetbrains.com/rider/) - A cross-platform C# IDE based on the IntelliJ platform and ReSharper
 * [RoslynPad ★417](https://github.com/aelij/RoslynPad) - A simple C# editor based on Roslyn and AvalonEdit.
+* [Consulo](https://consulo.io) - A cross-platform IDE with C# & Java support, fork of IntelliJ IDEA Community Edition
 
 ## Image Processing
 
@@ -505,6 +507,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 * [Wix Toolset](http://wixtoolset.org/) - The most powerful set of tools available to create your Windows installation experience
 * [Squirrel ★2895](https://github.com/squirrel/squirrel.windows) - Squirrel is both a set of tools and a library, to completely manage both installation and updating your Desktop Windows application.
 * [Chocolatey ★2993](https://github.com/chocolatey/choco) - like yum or apt-get, but for Windows.
+* [Wax](https://marketplace.visualstudio.com/items?itemName=TomEnglert.Wax) - An interactive editor for WiX projects.
 
 ## Internationalization
 
@@ -645,6 +648,7 @@ metadata in media files, including video, audio, and photo formats
 * [MVVMCross ★1992](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
 * [Stylet ★68](https://github.com/canton7/stylet) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 * [Gemini ★407](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
+* [Toms Toolbox ★8](https://github.com/tom-englert/TomsToolbox) - Visual Composition framework to easily build modularized MVVM applications based on the [Managed Extensibility Framework (MEF)](https://docs.microsoft.com/en-us/dotnet/framework/mef/index).
 
 ## Object to object mapping
 
@@ -894,6 +898,10 @@ metadata in media files, including video, audio, and photo formats
 ## Windows Services
 
 * [TopShelf ★1905](https://github.com/Topshelf/Topshelf) - An easy service hosting framework for building Windows services using .NET
+
+## WPF
+
+* [Data Grid Extensions ★16](https://github.com/tom-englert/DataGridExtensions) - Modular extensions for the WPF DataGrid control, like filtering, additional column events, extended star-size column behavior, and more...
 
 ## Other Lists
 

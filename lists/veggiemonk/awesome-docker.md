@@ -403,6 +403,7 @@ Services to securely store your Docker images.
 ## Services for running containers
 * [Amazon ECS](https://aws.amazon.com/ecs/) - A management service on EC2 that supports Docker containers.
 * [Arukas](https://arukas.io/) - Heroku-inspired CaaS
+* [Azure ACS](https://azure.microsoft.com/en-us/services/container-service/) - A management service on Azure Virtual Machines that supports Docker containers.
 * [Cloud 66](http://www.cloud66.com) - Full-stack hosted container management as a service
 * [ContainerShip Cloud][containership] - Multi-Cloud Container Hosting Automation Platform.
 * [DataMC](http://datamc.io/) - DataMc is a PaaS for Production ready and fully managed Data Platform
@@ -429,6 +430,7 @@ Services to securely store your Docker images.
 * [tsaotun ★26](https://github.com/qazbnm456/tsaotun) - Python based Assistance for Docker by [@qazbnm456](https://github.com/qazbnm456)
 
 ## Testing
+* [appium-docker-android ★36](https://github.com/appium/appium-docker-android) - Docker images from appium which helps to run tests on real devices.
 * [dgoss](https://github.com/aelsabbahy/goss/tree/master/extras/dgoss) - A fast YAML based tool for validating docker containers.
 * [elgalu/docker-selenium ★685](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
 * [Pumba ★464](https://github.com/gaia-adm/pumba) - Chaos testing tool for Docker. Can be deployed on Kubernets and CoreOS clusters.
