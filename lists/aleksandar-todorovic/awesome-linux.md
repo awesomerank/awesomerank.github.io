@@ -3,10 +3,6 @@ layout: default
 title: Awesome Rank for aleksandar-todorovic/awesome-linux
 ---
 
-<p align="center">
-	This list is a copy of <a href="https://github.com/aleksandar-todorovic/awesome-linux">aleksandar-todorovic/awesome-linux</a> with ranks
-</p>
-
 <h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> Linux </h1>
 
 <p align="center">We all know that Linux is awesome, but here's a list of especially awesome things related to the Linux ecosystem.</p>
