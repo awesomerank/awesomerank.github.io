@@ -4,6 +4,8 @@ google_analytics: UA-100705027-1
 gems:
   - jemoji
 markdown: kramdown
+kramdown:  
+  parse_block_html: true
 theme: minima
 exclude:
   - vendor/bundle
