@@ -433,7 +433,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [agora](https://github.com/PuerkitoBio/agora) - Dynamically typed, embeddable programming language in Go
 * [anko ★388](https://github.com/mattn/anko) - Scriptable interpreter written in Go
 * [binder](https://github.com/alexeyco/binder) - Go to Lua binding library, based on [gopher-lua ★1666](https://github.com/yuin/gopher-lua)
-* [gisp ★358 ⏳2Y](https://github.com/jcla1/gisp) - Simple LISP in Go
+* [gisp ★358 ⏳3Y](https://github.com/jcla1/gisp) - Simple LISP in Go
 * [go-duktape ★487](https://github.com/olebedev/go-duktape) - Duktape JavaScript engine bindings for Go
 * [go-lua ★950](https://github.com/Shopify/go-lua) - A port of the Lua 5.2 VM to pure Go
 * [go-php ★308](https://github.com/deuill/go-php) - PHP bindings for Go

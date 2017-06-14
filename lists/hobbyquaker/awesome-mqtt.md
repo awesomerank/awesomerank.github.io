@@ -7,15 +7,15 @@ title: Awesome Rank for hobbyquaker/awesome-mqtt
 	This list is a copy of <a href="https://github.com/hobbyquaker/awesome-mqtt">hobbyquaker/awesome-mqtt</a> with ranks
 </p>
 ---
-# Awesome MQTT [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hobbyquaker/awesome-mqtt.svg?branch=master)](https://travis-ci.org/hobbyquaker/awesome-mqtt)
+# Awesome MQTT 
 
-
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > A curated list of MQTT related stuff.
 
 MQTT is a lightweight client-server publish/subscribe messaging protocol, optimized for high-latency or unreliable networks. This protocol is a good choice for Internet of Things applications, Telemetry, Sensor Networks, Smart Metering, Home Automation, Messaging and Notfication Services.   
 
-## Table of Contents
+## Contents
 
 - [Community Resources](#community-resources)
 - [Broker](#broker)
@@ -51,7 +51,8 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Blogs
 
-* [Dominik Obermaier (Forkbomb Blog)](http://forkbomb-blog.de/category/mqtt)
+* [Ben Hardill](https://www.hardill.me.uk/wordpress/tag/mqtt/)
+* [Dominik Obermaier](http://forkbomb-blog.de/category/mqtt)
 * [Jan-Piet Mens](http://jpmens.net/)
 * [Nick O'Leary](http://knolleary.net/)
 
@@ -213,7 +214,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [chromoflex2mqtt ★2 ⏳1Y](https://github.com/owagner/chromoflex2mqtt) - Control Chromoflex USP3 RGB LED modules via MQTT.
 * [h801/mqtt](https://github.com/open-homeautomation/h801/tree/master/mqtt) - Alternative firmware for the H801 LED dimmer that uses MQTT as a control channel.
-* [hue2mqtt ★27](https://github.com/owagner/hue2mqtt) - Interface between the Philips Hue bridge and MQTT.
+* [hue2mqtt.js ★1](https://github.com/hobbyquaker/hue2mqtt.js) - Interface between the Philips Hue bridge and MQTT.
 * [mqtt-dmx-sequencer ★4](https://github.com/hobbyquaker/mqtt-dmx-sequencer) - Control DMX devices via Art-Net by MQTT.
 * [TRADFRI2MQTT ★22](https://github.com/hardillb/TRADFRI2MQTT) - MQTT Bridge for IKEA TRÅDFRI Light Gateway.
 
@@ -255,6 +256,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [haiku2mqtt ★0](https://github.com/forty2/haiku2mqtt) - A bridge between Haiku smart fans and MQTT.
 * [homely ★4](https://github.com/baol/homely) - collection of Go daemons for connecting Domoticz and other stuff.
 * [leaf-python-mqtt ★7](https://github.com/glynhudson/leaf-python-mqtt) - Extract data from Nissan Leaf API and post to mqtt.
+* [mqtt2ble ★7](https://github.com/hardillb/mqtt2ble) - A way to bridge MQTT topics to BLE Gatt characteristics.
 * [node-mqtt-for-anki-overdrive ★32 ⏳1Y](https://github.com/IBM-Bluemix/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
 * [parrot-sample ★17 ⏳1Y](https://github.com/IBM-Bluemix/parrot-sample) - Sample code which uses MQTT to control a Parrot AR Drone.
 * Tasker (Automation for Android) [MQTT Publisher Plugin](https://play.google.com/store/apps/details?id=net.nosybore.mqttpublishplugin).

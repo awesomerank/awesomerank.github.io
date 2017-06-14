@@ -113,6 +113,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-api ★54](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
 - [steamid ★3](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
 - [steam-totp ★9](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
+- [steam-auth ★1](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support.
 
 ### Go
 

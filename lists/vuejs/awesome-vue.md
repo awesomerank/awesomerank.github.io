@@ -262,6 +262,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Building Your First App With Vue.js](http://tutorialzine.com/2016/08/building-your-first-app-with-vue-js/)
 - [5 Practical Examples For Learning Vue.js](http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/)
 - [Migrating from KnockoutJS to VueJS](https://jes.al/2017/05/migrating-from-knockoutjs-to-vuejs/) by [@jesalg](https://twitter.com/jesalg)
+- [Create a quiz with Vue.js](https://medium.com/@rap2h/create-a-quiz-with-vue-js-ed1e8e0e8294) by [@rap2h](https://twitter.com/rap2h)
 
 ### Examples
 
@@ -335,6 +336,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Learning Vue.js 2](https://www.packtpub.com/web-development/learning-vuejs-2) by Olga Filipova, Packt. (Dec 2016)
 - [The Majesty Of Vue.js 2](https://leanpub.com/vuejs2) by Alex Kyriakidis and Kostas Maniatis, Leanpub. (Mar 2017)
 - [Vue.js 2 Cookbook](https://www.packtpub.com/web-development/vuejs-2-cookbook) by Andrea Passaglia, Packt. (May 2017)
+- [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) by Erik Hanchett and Benjamin Listwon (Spring 2018)
 
 
 
@@ -385,6 +387,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vms ★608](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
   - [nativescript-vue ★155](https://github.com/rigor789/nativescript-vue) - A Vue.js implementation of the NativeScript renderer.
   - [piper ★13](https://github.com/fireyy/piper) - A drag-and-drop mobile website builder base on Vue.
+  - [mmf-blog-vue2 ★121](https://github.com/lincenying/mmf-blog-vue2) - A blog based on Vue2(Vue-router, Vuex) and Webpack2.
   - [Media Manager ★12](https://github.com/iutbay/mm) - Web File Manager.
   - [dyu/bookmarks ★4](https://github.com/dyu/bookmarks) - A self-contained, self-hosted bookmarking app powered by leveldb, built with Vue2.1.x.
   - [JSON Schema Editor ★15](https://github.com/tangram-js/json-schema-editor) - An intuitive editor for JSON schema. Develop with Vue.js 2 and Firebase.
@@ -394,7 +397,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Flamme ★13](https://github.com/alicin/flamme) - An open source Tinder desktop client built with electron and Vue.js for educational purposes
 - [Goldfish ★483](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI built with VueJS, Golang, and Bulma CSS
 - [Adminify ★45](https://github.com/wxs77577/adminify) - An Admin dashboard based on [Vuetify](https://vuetifyjs.com/), check the [Online Demo](http://adminify.genyii.com)
-
+- [promptie ★17](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
 
 ### Commercial Products
 
@@ -463,6 +466,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Guess Right](https://kdcinfo.com/guessright/) - A 'guess the word' game - Written with Vue/vuex/vue-router (front-end) and Laravel/MySQL (back-end). Code is [Open Source on GitHub ★0](https://github.com/KDCinfo/guess-right) (although not the live files that run the game at kdcinfo).
   - [GRAP](https://grap.io) - Business communication service
   - [Easy Mock](https://easy-mock.com)
+  - [mmf-blog-vue2-ssr ★76](https://github.com/lincenying/mmf-blog-vue2-ssr) A blog built with Vue 2.0, vue-router & vuex, with server-side rendering
   - [JSON Schema Editor](https://json-schema-editor.tangramjs.com) - An intuitive editor for JSON schema built with Vue.js and Firebase.
   - [Winsome Trivia](https://splode.github.io/trivia/) - A single or multiplayer trivia game featuring over 2,000 unique questions built with Vue.js and powered by the Open Trivia Database.
   - [Moon Organizer](https://moonorganizer.com/calendar/) - Lunar calendar app
@@ -595,6 +599,7 @@ Tooltips / popovers
 
  - [vue-side-nav ★35](https://github.com/vue-comps/vue-side-nav) - Side-nav.
  - [vue-accordion ★31](https://github.com/zeratulmdq/vue-accordion) - Simple accordion nav menu component for Vue.js.
+ - [vue-js-dropdown ★15](https://github.com/euvl/vue-js-dropdown) - Vue.js 2 dropdown menu component. Light, easy to use and extend, no external deps.
 
 ### Carousel
 
@@ -740,6 +745,7 @@ Tooltips / popovers
  - [vue-dragula ★153](https://github.com/Astray-git/vue-dragula) - Drag and drop so simple it hurts.
  - [vue2-dragula ★72](https://github.com/kristianmandrup/vue2-dragula) - A `vue-dragula` fork for `Vue2`, with a lot of improvements.
  - [awe-dnd ★131](https://github.com/hilongjw/vue-dragging) - A sortable list directive with Vue.
+ - [vue-draggable-resizable ★9](https://github.com/mauricius/vue-draggable-resizable) - Vue2 component for draggable and resizable elements.
 
 #### Autocomplete
 
@@ -981,6 +987,7 @@ Tooltips / popovers
  - [vue-l-lazyload ★12](https://github.com/lsycxyj/vue-l-lazyload) - A lazyload plugin for Vue.js v2.x+.
  - [vue-lazyload-img ★145](https://github.com/JALBAA/vue-lazyload-img) - Especially optimized for mobile browser. support V2 & v1.
  - [vue-lazy-images ★20](https://github.com/yyh1102/vue-lazyload-images) - A plugin of lazyload images for Vue 2.x.
+ - [v-lazy-img ★0](https://github.com/nkoehring/v-lazy-img) - Tiny (<0.6kb) directive for progressive image loading for Vue 2.
 
 ### Pagination
 

@@ -242,7 +242,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Kubernetes ★926](lists/ramitsurana/awesome-kubernetes.md)
 - [Lumen ★132](lists/unicodeveloper/awesome-lumen.md)
 - [Serverless Framework ★761](lists/JustServerless/awesome-serverless.md)
-- [Apache Wicket ★22](lists/PhantomYdn/awesome-wicket.md) - Java web app framework.
+- [Apache Wicket ★22 ⏳1Y](lists/PhantomYdn/awesome-wicket.md) - Java web app framework.
 - [Vert.x ★427](lists/vert-x3/vertx-awesome.md) - Toolkit for building reactive apps on the JVM.
 
 

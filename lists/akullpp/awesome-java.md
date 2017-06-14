@@ -160,6 +160,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Checkstyle ★2005](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards.
 * [Error Prone ★2626](https://github.com/google/error-prone) - Catches common programming mistakes as compile-time errors.
 * [FindBugs](http://findbugs.sourceforge.net/) - Static analysis of bytecode to find potential bugs.
+* [Infer ★6755](https://github.com/facebook/infer) - Modern static analysis tool for verifying the correctness of code.
 * [jQAssistant](http://jqassistant.org/) - Static code analysis with Neo4J-based query language.
 * [PMD ★956](https://github.com/pmd/pmd) - Source code analysis for finding bad coding practices.
 * [Spoon ★345](https://github.com/INRIA/spoon) - Library for analyzing and transforming Java source code.
@@ -183,6 +184,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [JHipster ★7076](https://github.com/jhipster/generator-jhipster) - Yeoman source code generator for Spring Boot and AngularJS.
 * [Joda-Beans](http://www.joda.org/joda-beans/) - Small framework that adds queryable properties to Java, enhancing JavaBeans.
 * [Lombok](https://projectlombok.org/) - Code generator that aims to reduce verbosity.
+* [JavaPoet ★3511](https://github.com/square/javapoet) - API to generate source files.
 
 ## Command-line Argument Parsers
 

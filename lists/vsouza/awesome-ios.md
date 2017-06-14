@@ -693,6 +693,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Swift-Brain ★285](https://github.com/vlall/Swift-Brain) - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI. :large_orange_diamond:
 * [AIToolbox ★579](https://github.com/KevinCoble/AIToolbox) - A toolbox of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians. :large_orange_diamond:
 * [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) - The official Google-built powerful neural network library port for iOS.
+* [Bender ★940](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks. Use TensorFlow models. Metal under the hood.
 
 ## Maps
 * [Route-me ★1291 ⏳4Y](https://github.com/route-me/route-me) - Open source map library for iOS.
@@ -2519,7 +2520,7 @@ Most of these are paid services, some have free tiers.
 * [Dracula Theme ★12 ⏳1Y](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
 * [Xcode themes list ★1595](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
 * [Solarized-Dark-for-Xcode ★248](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode) - Solarized Dark Theme for Xcode 5.
-* [WWDC2016 Xcode Color Scheme ★334](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
+* [WWDC2016 Xcode Color Scheme ★334 ⏳1Y](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
 
 #### Other Xcode
 

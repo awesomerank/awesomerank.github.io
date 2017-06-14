@@ -231,7 +231,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [debug ★4358](https://github.com/visionmedia/debug) - Tiny debugging utility.
 - [jstrace ★377](https://github.com/jstrace/jstrace) - Dynamic tracing for JavaScript, similar to dtrace, ktap etc.
 - [why-is-node-running ★540](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
-- [njsTrace ★197](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
+- [njsTrace ★197 ⏳1Y](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
 - [vstream ★54 ⏳2Y](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
 - [stackman ★125](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 - [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.

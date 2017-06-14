@@ -231,7 +231,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [animatedModal.js ★785](https://github.com/joaopereirawd/animatedModal.js) - Plugin for creating fullscreen modals with CSS3 transitions. You can use the transitions from `animate.css` or create your own.
 * [Avgrund ★1824 ⏳1Y](https://github.com/voronianski/jquery.avgrund.js) - Plugin for your modal boxes and popups with new concept of showing depth between popup and page.
-* [Bootstrap Modal ★5026 ⏳1Y](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable and ajax.
+* [Bootstrap Modal ★5026 ⏳2Y](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable and ajax.
 * [iziModal ★1274](https://github.com/dolce/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
 * [jBox ★831](https://github.com/StephanWagner/jBox) - Powerful and flexible plugin which takes care of all modal windows, tooltips and notices.
 * [jQuery Modal ★1372](https://github.com/kylefox/jquery-modal) - Simple and lightweight method of displaying modal windows.

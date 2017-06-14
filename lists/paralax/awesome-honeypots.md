@@ -412,7 +412,7 @@ the honeyd daemon and generate configuration files
 
 - Front Ends
     - [Tango ★191](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk.
-    - [Django-kippo ★10 ⏳4Y](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot.
+    - [Django-kippo ★10 ⏳5Y](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot.
     - [Wordpot-Frontend ★0 ⏳1Y](https://github.com/GovCERT-CZ/Wordpot-Frontend) - a full featured script to visualize statistics from a Wordpot honeypot.
     - [Shockpot-Frontend ★0 ⏳1Y](https://github.com/GovCERT-CZ/Shockpot-Frontend) - a full featured script to visualize statistics from a Shockpot honeypot. 
     - [honeypotDisplay ★2 ⏳1Y](https://github.com/Joss-Steward/honeypotDisplay) - A flask website which displays data I've gathered with my SSH Honeypot. 

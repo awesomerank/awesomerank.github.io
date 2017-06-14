@@ -155,7 +155,7 @@ Additional lists you might find useful:
 *Plugins for sending and parsing email.*
 
 - [EmailQueue plugin ★38](https://github.com/lorenzo/cakephp-email-queue) - Email queue plugin with a preview and sender shell.
-- [Gourmet/Email plugin ★16](https://github.com/gourmet/email) - Email helper, layout and more.
+- [Gourmet/Email plugin ★16 ⏳1Y](https://github.com/gourmet/email) - Email helper, layout and more.
 - [Mailgun plugin ★9](https://github.com/narendravaghela/cakephp-mailgun) - Email transport plugin for sending email via Mailgun.
 - [SparkPost plugin ★10](https://github.com/syntaxera/cakephp-sparkpost-plugin) - Email transport plugin for sending email via the SparkPost API.
 

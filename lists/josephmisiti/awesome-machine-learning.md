@@ -586,7 +586,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
   * [cutorch ★235](https://github.com/torch/cutorch) - Torch CUDA Implementation
   * [cunn ★155](https://github.com/torch/cunn) - Torch CUDA Neural Network Implementation
   * [imgraph ★16 ⏳2Y](https://github.com/clementfarabet/lua---imgraph) - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images.
-  * [videograph ★7 ⏳3Y](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos.
+  * [videograph ★7 ⏳4Y](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos.
   * [saliency ★3 ⏳3Y](https://github.com/marcoscoffier/torch-saliency) - code and tools around integral images. A library for finding interest points based on fast integral histograms.
   * [stitch ★2 ⏳5Y](https://github.com/marcoscoffier/lua---stitch) - allows us to use hugin to stitch images and apply same stitching to a video sequence
   * [sfm ★3 ⏳5Y](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package

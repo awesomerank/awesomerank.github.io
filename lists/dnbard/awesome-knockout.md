@@ -22,7 +22,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Bootstrap ★238 ⏳1Y](https://github.com/billpull/knockout-bootstrap) - A plugin that adds custom bindings for twitter bootstrap objects such as tooltips and popovers
 - [ASP.NET MVC ★206](https://github.com/AndreyAkinshin/knockout-mvc) - Power of Knockout.js for ASP.NET MVC
 - [Rails ★109 ⏳5Y](https://github.com/dnagir/knockout-rails) - KnockoutJS for Rails
-- [Meteor ★69 ⏳3Y](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge
+- [Meteor ★69 ⏳4Y](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge
 
 ## Plugins and libraries
 - [Mapping ★536](https://github.com/SteveSanderson/knockout.mapping) - Object mapping plugin for KnockoutJS

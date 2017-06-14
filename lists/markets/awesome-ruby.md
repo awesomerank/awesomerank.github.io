@@ -921,7 +921,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [NMatrix ★376](https://github.com/sciruby/nmatrix) - Fast numerical linear algebra library for Ruby.
   * [NArray ★167](https://github.com/masa16/narray) - N-dimensional Numerical Array for Ruby.
   * [mdarray ★33](https://github.com/rbotafogo/mdarray) - Multi dimensional array implemented for JRuby inspired by NumPy.
-* [SciRuby ★830](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
+* [SciRuby ★830 ⏳1Y](https://github.com/sciruby/sciruby) - Tools for scientific computation in Ruby/Rails.
   * [statsample ★69](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
   * [statsample-timeseries ★8](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
   * [statsample-glm ★17](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
@@ -1080,7 +1080,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Dropbox ★360 ⏳1Y](https://github.com/futuresimple/dropbox-api) - Dropbox API Ruby Client.
 * [facy ★239](https://github.com/huydx/facy) - Command line power tool for facebook.
 * [fb_graph2 ★97](https://github.com/nov/fb_graph2) - A full-stack Facebook Graph API wrapper.
-* [flickr ★18 ⏳2Y](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API.
+* [flickr ★18 ⏳3Y](https://github.com/RaVbaker/flickr) - A Ruby interface to the Flickr API.
 * [gitlab ★464](https://github.com/NARKOZ/gitlab) - Ruby wrapper and CLI for the GitLab API.
 * [google-api-ads-ruby ★212](https://github.com/googleads/google-api-ads-ruby) - Google Adwords Ruby client
 * [gmail ★263](https://github.com/gmailgem/gmail) - A Rubyesque interface to Gmail, with all the tools you'll need.

@@ -171,7 +171,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 - [AcraSlack ★7 ⏳2Y](https://github.com/tolmachevroman/AcraSlack) - Sample project for Android Studio showing how to implement ACRA and Slack integration
 - [gitblit-slack-plugin ★5 ⏳1Y](https://github.com/gitblit/gitblit-slack-plugin) - Post Gitblit events to a Slack channel
-- [rundeck-slack-incoming-webhook-plugin ★46](https://github.com/higanworks/rundeck-slack-incoming-webhook-plugin) - A Rundeck Plugin for Slack Incoming WebHooks
+- [rundeck-slack-incoming-webhook-plugin ★46 ⏳1Y](https://github.com/higanworks/rundeck-slack-incoming-webhook-plugin) - A Rundeck Plugin for Slack Incoming WebHooks
 - [rundeck-slack-plugin ★28 ⏳1Y](https://github.com/bitplaces/rundeck-slack-plugin) - A Rundeck Plugin for Slack
 - [simple-slack-api ★278](https://github.com/Ullink/simple-slack-api) - A Slack client library in Java
 - [SlackMC ★51](https://github.com/CircuitSoftGroup/SlackMC) - Bukkit/Bungee plugin for Slack
@@ -344,7 +344,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [SlackGoogle ★15 ⏳1Y](https://github.com/dommerq/SlackGoogle) - Slash command that returns a Google search URL, like LMGTFY
 - [SlackHelper ★5 ⏳2Y](https://github.com/leoetlino/SlackHelper) - Object-oriented classes for sending data to Slack via incoming webhooks
 - [SlackHolidayBot ★11 ⏳3Y](https://github.com/bradslavin/SlackHolidayBot) - Posts today's holiday to a channel in Slack
-- [slackuntappd ★15 ⏳1Y](https://github.com/gregavola/slackuntappd) - A webhook that allows you to search for beer information within Slack via Untappd
+- [slackuntappd ★15 ⏳2Y](https://github.com/gregavola/slackuntappd) - A webhook that allows you to search for beer information within Slack via Untappd
 - [SlackWamp ★4](https://github.com/voryx/SlackWamp) - A WAMP wrapper for the Slack API
 - [Sqwack ★14 ⏳2Y](https://github.com/heyupdate/Sqwack) - Semi-realtime profile photos in Slack
 - [tourdefrance-slack-bot ★17](https://github.com/j0k3r/tourdefrance-slack-bot) - Notifies a Slack channel/group for every stage during the Tour de France 2014

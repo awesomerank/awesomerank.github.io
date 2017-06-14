@@ -32,7 +32,7 @@ Inspired by the __[awesome ★59088](https://github.com/sindresorhus/awesome)__ 
 - [Coloor ★335 ⏳1Y](https://github.com/krasimir/coloor) - Image preloading utility.
 - [Color Thief ★5655](https://github.com/lokesh/color-thief) - Grab color palette from an image.
 - [Colorify.js ★708](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-- [Colofilter.css ★559](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+- [Colofilter.css ★559 ⏳1Y](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 - [Polychrome ★248](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
 - [Palettable ★236](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 - [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.

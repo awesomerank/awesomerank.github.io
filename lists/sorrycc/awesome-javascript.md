@@ -247,7 +247,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 * [d3 ★64800](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
   * [metrics-graphics ★6626](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
-* [pykcharts.js ★269](https://github.com/pykih/PykCharts.js) - Well designed d3.js charting without the complexity of d3.js.
+* [pykcharts.js ★269 ⏳1Y](https://github.com/pykih/PykCharts.js) - Well designed d3.js charting without the complexity of d3.js.
 * [three.js ★33048](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 * [Chart.js ★30194](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the <canvas> tag.
 * [paper.js ★7850](https://github.com/paperjs/paper.js) - The Swiss Army Knife of Vector Graphics Scripting – Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
@@ -713,7 +713,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jquery-popbox ★452](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
 * [jquery.avgrund.js ★1824 ⏳1Y](https://github.com/voronianski/jquery.avgrund.js) - A jQuery plugin with new modal concept for popups.
 * [vex ★6108](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
-* [bootstrap-modal ★5026 ⏳1Y](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
+* [bootstrap-modal ★5026 ⏳2Y](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
 * [css-modal ★1669](https://github.com/drublic/css-modal) - A modal built out of pure CSS.
 * [jquery-popup-overlay ★396](https://github.com/vast-engineering/jquery-popup-overlay) - jQuery plugin for responsive and accessible modal windows and tooltips.
 * [SweetAlert ★15904](https://github.com/t4t5/sweetalert) - An awesome replacement for JavaScript's alert.

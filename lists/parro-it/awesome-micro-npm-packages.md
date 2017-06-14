@@ -83,7 +83,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [deep-equal ★209](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
 * [deep-assign ★217](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign().
 * [set-value ★16](https://github.com/jonschlinkert/set-value) - Create nested values and any intermediaries dot notation (`'a.b.c'`) paths.
-* [get-value ★33](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object.
+* [get-value ★33 ⏳1Y](https://github.com/jonschlinkert/get-value) - Use property paths (a.b.c) to get a nested value from an object.
 * [has-value ★7](https://github.com/jonschlinkert/has-value) - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (`'a.b.c'`) paths.
 * [has-key-deep ★1](https://github.com/ryanaghdam/has-key-deep) - Deep-search objects for keys. Keys can be searched by providing an array of keys, or using a dot-notiation.
 * [flatkeys ★3 ⏳3Y](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator.
