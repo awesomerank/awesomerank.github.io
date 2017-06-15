@@ -81,7 +81,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [darrint/device-blocker ★9](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
 * [dlecan/generic-dns-update ★2](https://github.com/dlecan/generic-dns-update) — a tool to update DNS zonefiles with your IP address [<img src="https://travis-ci.org/dlecan/generic-dns-update.svg?branch=master">](https://travis-ci.org/dlecan/generic-dns-update)
 * [Factotum ★75](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](http://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) [<img src="https://travis-ci.org/snowplow/factotum.svg?branch=master">](https://travis-ci.org/snowplow/factotum)
-* [fcsonline/woodpecker ★5](https://github.com/fcsonline/woodpecker) — a HTTP load testing application inspired by Ansible syntax
+* [fcsonline/drill ★10](https://github.com/fcsonline/drill) — a HTTP load testing application inspired by Ansible syntax
 * [Fractalide ★296](https://github.com/fractalide/fractalide) — Simple Rust Microservices
 * [habitat](https://habitat.sh/) — An tool created by [Chef](https://www.chef.io/) to build, deploy, and manage applications.
 * [imjacobclark/Herd ★63 ⏳1Y](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
@@ -265,6 +265,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/ffi.html), 
   * [SSheldon/rust-objc ★99](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 * Python
   * [dgrunwald/rust-cpython ★482](https://github.com/dgrunwald/rust-cpython) — Python bindings [<img src="https://travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
+  * [PyO3/PyO3 ★27](https://github.com/PyO3/PyO3) - CPython Rust binding (a fork of rust-cpython) [<img src="https://travis-ci.org/PyO3/PyO3.svg?branch=master">](https://travis-ci.org/PyO3/PyO3)
 * R
   * [rustr/rustr ★79](https://github.com/rustr/rustr) — use Rust from R, and use R in Rust [<img src="https://travis-ci.org/rustr/rustr.svg?branch=master">](https://travis-ci.org/rustr/rustr)
 * Ruby

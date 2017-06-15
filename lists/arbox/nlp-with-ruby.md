@@ -565,6 +565,7 @@ on the code here.
 
 ## Related Resources
 
+- [Neural Machine Translation Implementations ★142](https://github.com/jonsafari/nmt-list)
 - [Awesome Ruby ★7234](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
 - [Ruby NLP ★911](https://github.com/diasks2/ruby-nlp) -
@@ -574,16 +575,10 @@ on the code here.
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
 - [iRuby ★258](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
-- [Kiba ★825](https://github.com/thbar/kiba) -
-  Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
 - [Awesome OCR ★102](https://github.com/kba/awesome-ocr) -
   Multitude of OCR (Optical Character Recognition) resources.
 - [Awesome TensorFlow ★7574](https://github.com/jtoy/awesome-tensorflow) -
   Machine Learning with TensorFlow libraries.
-- [rb-gsl ★64](https://github.com/SciRuby/rb-gsl) -
-  Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).
-- [The Definitive Guide to Ruby's C API](https://silverhammermba.github.io/emberb/) -
-  Modern Reference and Tutorial on Embedding and Extending Ruby using C programming language.
 - <a name="imagemagic"></a>
   [ImageMagick](https://www.imagemagick.org/script/index.php)
 

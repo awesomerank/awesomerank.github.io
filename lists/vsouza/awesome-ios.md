@@ -259,7 +259,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FSLineChart ★785](https://github.com/ArthurGuibert/FSLineChart) - A line chart library for iOS.
 * [chartee ★829 ⏳1Y](https://github.com/zhiyu/chartee) - a charting library for mobile platforms.
 * [ANDLineChartView ★401](https://github.com/anaglik/ANDLineChartView) - ANDLineChartView is easy to use view-based class for displaying animated line chart.
-* [TWRCharts ★362 ⏳2Y](https://github.com/chasseurmic/TWRCharts) - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
+* [TWRCharts ★362 ⏳3Y](https://github.com/chasseurmic/TWRCharts) - An iOS wrapper for ChartJS. Easily build animated charts by leveraging the power of native Obj-C code.
 * [SwiftCharts ★1328](https://github.com/i-schuetz/SwiftCharts) - Easy to use and highly customizable charts library for iOS. :large_orange_diamond:
 * [FlowerChart ★7 ⏳1Y](https://github.com/drinkius/flowerchart) - Flower-shaped chart with custom appearance animation, fully vector. :large_orange_diamond:
 * [Scrollable-GraphView ★3748](https://github.com/philackm/Scrollable-GraphView) - An adaptive scrollable graph view for iOS to visualise simple discrete datasets. Written in Swift. :large_orange_diamond:
@@ -1652,7 +1652,7 @@ Most of these are paid services, some have free tiers.
 * [CCMRadarView ★177](https://github.com/cacmartinez/CCMRadarView) - CCMRadarView uses the IBDesignable tools to make an easy customizable radar view with animation :large_orange_diamond:
 * [Pulsator ★714](https://github.com/shu223/Pulsator) - Pulse animation for iOS :large_orange_diamond:
 * [Interpolate ★1475](https://github.com/marmelroy/Interpolate) - Swift interpolation for gesture-driven animations :large_orange_diamond:
-* [ADPuzzleAnimation ★106](https://github.com/Antondomashnev/ADPuzzleAnimation) - Custom animation for UIView inspired by Fabric - Answers animation. :large_orange_diamond:
+* [ADPuzzleAnimation ★106 ⏳1Y](https://github.com/Antondomashnev/ADPuzzleAnimation) - Custom animation for UIView inspired by Fabric - Answers animation. :large_orange_diamond:
 * [Wave ★59 ⏳1Y](https://github.com/onmyway133/Wave) - :ocean: Declarative chainable animations in Swift :large_orange_diamond:
 * [Stellar ★2300](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift :large_orange_diamond:
 * [MotionMachine ★315](https://github.com/poetmountain/MotionMachine) - A powerful, elegant, and modular animation library for Swift. :large_orange_diamond:

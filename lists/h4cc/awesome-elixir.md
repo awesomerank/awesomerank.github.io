@@ -175,6 +175,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [red_black_tree ★21](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
 * [remodel ★89](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
 * [rendezvous ★3 ⏳1Y](https://github.com/timdeputter/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
+* [rock ★0](https://github.com/ayrat555/rock) - Elixir implementation of ROCK: A Robust Clustering Algorithm for Categorical Attributes.
 * [sfmt ★58](https://github.com/jj1bdx/sfmt-erlang) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 * [simhash ★9](https://github.com/UniversalAvenue/simhash-ex) - Simhash implementation using Siphash and N-grams.
 * [sorted_set ★14](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
@@ -209,6 +210,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [poxa ★599](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
 * [Queerlink ★18 ⏳1Y](https://github.com/Queertoo/Queerlink) - A simple yet efficient URL shortening service written in Elixir.
 * [Sprint Poker ★136](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
+* [Startup Job ★19](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
 * [tty2048 ★128 ⏳1Y](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ## Artificial Intelligence
@@ -446,6 +448,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_ical ★15](https://github.com/fazibear/ex_ical) - ICalendar parser.
 * [filtrex ★30](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 * [good_times ★36 ⏳1Y](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
+* [jalaali ★6](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation for Elixir.
 * [milliseconds ★1 ⏳2Y](https://github.com/davebryson/elixir_milliseconds) - Simple library to work with milliseconds in Elixir.
 * [moment ★25 ⏳1Y](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [quantum ★681](https://github.com/c-rack/quantum-elixir) - Cron-like job scheduler for Elixir applications.
@@ -857,6 +860,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [anaphora ★11 ⏳1Y](https://github.com/sviridov/anaphora-elixir) - Anaphora is the anaphoric macro collection for Elixir. An anaphoric macro is one that deliberately captures a variable (typically it) from forms supplied to the macro.
 * [apix ★8](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
+* [backports ★0](https://github.com/leifg/backports) - Use new functions in Elixir 1.1 and 1.2.
 * [eventsourced ★72](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 * [exceptional ★61](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 * [expat ★43](https://github.com/vic/expat) - Simple pattern generator for matching on elixir quoted expressions.
@@ -1078,6 +1082,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [gutenex ★156](https://github.com/SenecaSystems/gutenex) - Native PDF generation for Elixir.
 * [pdf2htmlex ★31 ⏳1Y](https://github.com/ricn/pdf2htmlex) - Convert PDF docs to beautiful HTML files without losing text or format.
+* [pdf_generator ★71](https://github.com/gutschilla/elixir-pdf-generator) - A simple wrapper for wkhtmltopdf (HTML to PDF) for use in Elixir projects.
 
 ## Protocols
 *Special protocol and format libraries.*
@@ -1286,6 +1291,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mt940 ★7](https://github.com/my-flow/mt940) - MT940 (standard structured SWIFT Customer Statement message) parser for Elixir.
 * [neotomex ★40](https://github.com/jtmoulia/neotomex) - A [PEG](http://bford.info/packrat/) implementation with a pleasant Elixir DSL.
 * [number ★67](https://github.com/danielberkompas/number) - Number is a pretentiously-named Elixir library which provides functions to convert numbers into a variety of different formats.
+* [numero ★2](https://github.com/alisinabh/numero) - A micro library for converting non-english utf-8 digits in elixir.
 * [palette ★1 ⏳2Y](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.
 * [pinyin ★12](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
 * [porterstemmer ★4 ⏳2Y](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
@@ -1305,6 +1311,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [unit_fun ★13](https://github.com/meadsteve/unit_fun) - Attempt to add units to numbers in elixir to give some added type saftey when dealing with numeric quantities.
 * [uuid ★154](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [uuid_erl ★132](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
+* [veritaserum ★30](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -1344,6 +1351,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [elixir_ipfs_api ★13](https://github.com/zabirauf/elixir-ipfs-api) - IPFS (InterPlanetary File System) API client for Elixir.
 * [elixirfm ★3](https://github.com/jrichocean/Elixirfm) - Last.fm API wrapper for Elixir.
 * [elixtagram ★47](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
+* [ethereumex ★3](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 * [everex ★8 ⏳2Y](https://github.com/jwarlander/everex) - Evernote API client for Elixir.
 * [everyoneapi ★1 ⏳2Y](https://github.com/knewter/everyoneapi) - API Client for EveryoneAPI.com.
 * [ex_codeship ★0](https://github.com/securingsincity/ex_codeship) - API Client for Codeship.
@@ -1463,7 +1471,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [bankster ★7](https://github.com/railsmechanic/bankster) - A IBAN account number and BIC validation library for Elixir.
 * [exop ★24](https://github.com/madeinussr/exop) - A library that allows to encapsulate business logic and validate params with predefined contract.
 * [jeaux ★5](https://github.com/zbarnes757/jeaux) - A light and easy schema validator.
-* [shape ★7 ⏳1Y](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
+* [shape ★7 ⏳2Y](https://github.com/prio/shape) - A data validation library for Elixir based on Prismatic Scheme.
 * [uk_postcode ★7 ⏳2Y](https://github.com/KushalP/uk_postcode) - UK postcode parsing and validation library.
 * [vex ★217](https://github.com/CargoSense/vex) - An extensible data validation library for Elixir.
 * [voorhees ★39 ⏳1Y](https://github.com/danmcclain/voorhees) - A library for validating JSON responses.
@@ -1487,6 +1495,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exml ★17](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
 * [exquery ★31](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
 * [floki ★606](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
+* [meeseeks ★40](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 * [quinn ★29](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [readability ★72](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.
@@ -1511,6 +1520,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Elixir in Action](https://www.manning.com/books/elixir-in-action) - A brief intro to the language followed by a more detailed look at building production-ready systems in Elixir by Saša Jurić (2015).
 * [Erlang and Elixir for Imperative Programmers](https://leanpub.com/erlangandelixirforimperativeprogrammers) - Introduction to Erlang and Elixir in the context of functional concepts by Wolfgang Loder (2016).
 * [Erlang in Anger](http://www.erlang-in-anger.com/) - This book intends to be a little guide about how to be the Erlang medic in a time of war by Fred Hebert (2014).
+* [Functional Web Development with Elixir, OTP, and Phoenix](https://pragprog.com/book/lhelph/functional-web-development-with-elixir-otp-and-phoenix) - Open doors to powerful new techniques that will get you thinking about web development in fundamentally new ways (2017).
 * [Getting Started - Elixir ★51](https://github.com/potatogopher/elixir-getting-started) - PDF, MOBI, and EPUB documents for Elixir's Getting Started tutorial (2016).
 * [Introducing Elixir ](http://shop.oreilly.com/product/0636920030584.do) - A gentle introduction to the language, with lots of code examples and exercises by Simon St. Laurent and J. David Eisenberg (2013).
 * [Metaprogramming Elixir: Write Less Code, Get More Done (and Have Fun!)](https://pragprog.com/book/cmelixir/metaprogramming-elixir) - Thorough explanation on how to exploit Elixir's metaprogramming capabilities to improve your Elixir coding by Chris McCord (2015).
@@ -1600,6 +1610,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [Benjamin Tan - Learnings & Writings](http://benjamintan.io/blog/tags/elixir/) - A blog consisting of mostly Elixir posts.
 * [Elixir China ★187](https://github.com/jw2013/elixir-china) - Chinese Elixir website [elixir-cn.com](http://elixir-cn.com/).
 * [Elixir Examples](http://elixir-examples.github.io/) - A collection of small Elixir programming language examples.
+* [Elixir Flashcards](https://elixircards.co.uk/) - Flashcards are a powerful way to improve your knowledge. Elixircards are hand crafted, professionally printed flashcards for levelling up your Elixir.
 * [Elixir Fountain](https://soundcloud.com/elixirfountain) - A weekly podcast with news & interviews from around the Elixir community hosted by [Johnny Winn](https://twitter.com/johnny_rugger).
 * [Elixir Github Repository ★10139](https://github.com/elixir-lang/elixir) - The project repository.
 * [Elixir Github Wiki](https://github.com/elixir-lang/elixir/wiki) - The project's wiki, containing much useful information.

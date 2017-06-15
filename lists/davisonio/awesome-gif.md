@@ -82,7 +82,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [vnc-over-gif ★511](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http
 - [gifdeck ★92 ⏳2Y](https://github.com/jaipandya/gifdeck) - Convert your SlideShares into animated GIFs
 - [Gifbot ★38 ⏳3Y](https://github.com/schuyler/gifbot) - GIF search for Slack
-- [Gif-camera ★19 ⏳3Y](https://github.com/FuzzyWobble/GIF-Camera) - create animated GIFs using webcam
+- [Gif-camera ★19 ⏳4Y](https://github.com/FuzzyWobble/GIF-Camera) - create animated GIFs using webcam
 - [Gifline ★54](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails
 - [Gifdrop ★36 ⏳1Y](https://github.com/markjaquith/gifdrop) - Create a repository for your collection of gif images
 - [Gh-gif ★21](https://github.com/node-gh/gh-gif) - NodeGH plugin for commenting on pull requests/issues using GIF reactions

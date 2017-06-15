@@ -339,7 +339,7 @@ phone numbers.
 
 *Packages for project management and time-tracking.*
 
-* [django-timepiece ★254](https://github.com/caktus/django-timepiece) - A multi-user Django application for tracking people's time on projects.
+* [django-timepiece ★254 ⏳1Y](https://github.com/caktus/django-timepiece) - A multi-user Django application for tracking people's time on projects.
 
 ## Reporting
 *Packages for creating reports*

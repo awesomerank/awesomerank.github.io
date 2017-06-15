@@ -3,6 +3,10 @@ layout: default
 title: Awesome Rank for aleksandar-todorovic/awesome-linux
 ---
 
+<p align="center">
+	This list is a copy of <a href="https://github.com/aleksandar-todorovic/awesome-linux">aleksandar-todorovic/awesome-linux</a> with ranks
+</p>
+---
 <h1 align="center"> <a href="http://awesome.re"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="awesome"></a> Linux </h1>
 
 <p align="center">We all know that Linux is awesome, but here's a list of especially awesome things related to the Linux ecosystem.</p>
@@ -11,7 +15,7 @@ title: Awesome Rank for aleksandar-todorovic/awesome-linux
 
 ---
 
-<p align="center"> You might also want to check <a href="https://github.com/aleksandar-todorovic/awesome-c">awesome-c</a>, <a href="https://github.com/alebcay/awesome-shell">awesome-shell</a>, <a href="https://github.com/n1trux/awesome-sysadmin">awesome-sysadmin</a>, and <a href="https://github.com/sbilly/awesome-security">awesome-security</a>.</p>
+<p align="center"> You might also want to check <a href="https://github.com/aleksandar-todorovic/awesome-c">awesome-c</a>, <a href="https://github.com/alebcay/awesome-shell">awesome-shell</a>, <a href="https://github.com/n1trux/awesome-sysadmin">awesome-sysadmin</a>, and <a href="https://github.com/sbilly/awesome-security">awesome-security</a>.
 
 ---
 

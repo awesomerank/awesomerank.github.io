@@ -25,7 +25,6 @@ A curated list of awesome free software and free software resources.
   - [Communication](#communication)
   - [File Management](#file-management)
   - [File Sharing](#file-sharing)
-  - [Frameworks](#frameworks)
   - [Graphics](#graphics)
   - [Integrated Development Environments](#integrated-development-environments)
   - [Office](#office)
@@ -43,6 +42,8 @@ A curated list of awesome free software and free software resources.
   - [Web Applications](#web-applications)
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
+- [Programming Tools](#programming-tools)
+  - [Frameworks](#frameworks)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Discovery](#discovery)
@@ -71,6 +72,7 @@ A curated list of awesome free software and free software resources.
 - [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
 - [Mattermost](https://about.mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
 - [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
+- [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
 
 ### File Management
 
@@ -80,10 +82,6 @@ A curated list of awesome free software and free software resources.
 ### File Sharing
 
 - [qBittorrent](http://qbittorrent.org/) - Easy to use BitTorrent client. ([GNU GPLv2+](https://raw.githubusercontent.com/qbittorrent/qBittorrent/master/COPYING))
-
-### Frameworks
-
-- [Nano ★116 ⏳1Y](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
 
 ### Graphics
 
@@ -192,6 +190,12 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [lighttpd](http://www.lighttpd.net/) - Optimized for speed-critical environments while remaining standards-compliant, secure and flexible. ([Revised BSD license](http://www.lighttpd.net/assets/COPYING))
 - [nginx](https://nginx.org/) - A HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
 - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
+
+## Programming Tools
+
+### Frameworks
+
+- [Nano ★116 ⏳1Y](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
 
 ## Resources
 

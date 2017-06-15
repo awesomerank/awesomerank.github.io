@@ -292,6 +292,7 @@ Made with Electron.
 - [electron-router ★15](https://github.com/m0n0l0c0/electron-router) - Router tidying up IPC message passing.
 - [electron-lets-move ★118](https://github.com/tommoor/electron-lets-move) - Automatically move your app to `/Applications` on macOS.
 - [electron-settings ★194](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
+- [got ★1658](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 
 ### Using Electron
 

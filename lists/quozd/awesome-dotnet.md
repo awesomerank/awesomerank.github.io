@@ -111,7 +111,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
   * [Web Servers](#web-servers)
   * [WebSocket](#websocket)
   * [Windows Services](#windows-services)
-  * [WPF](#WPF)
+  * [WPF](#wpf)
   * [Other Lists](#other-lists)
 
 
@@ -513,6 +513,7 @@ Thanks to all [contributors](https://github.com/quozd/awesome-dotnet/graphs/cont
 
 * [i18n ★411](https://github.com/turquoiseowl/i18n) - Smart internationalization for ASP.NET MVC
 * [MessageFormat.NET ★61](https://github.com/jeffijoe/MessageFormat.NET) - ICU MessageFormat implementation in .NET lets you write contextual UI messages (PCL library)
+* [ResX Resource Manager ★53](https://github.com/tom-englert/ResXResourceManager) - The most popular free tool to localize all kind of applications with resx-based resources.
 
 ## Interoperability
 

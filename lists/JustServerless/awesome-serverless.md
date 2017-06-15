@@ -555,6 +555,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWS Lambda lifecycle and in-memory caching](https://medium.com/@tjholowaychuk/aws-lambda-lifecycle-and-in-memory-caching-c9cd0844e072) - How in-memory caching could be used in AWS Lambda.
 - [4 tools for production serverless architectures](https://serverless.com/blog/4-tools-for-building-production-serverless-architectures/) - 4 tools which will help you build production serverless architectures.
 - [Open Source leaders: Matei Zaharia, Apache Spark](https://thenewstack.io/matei-zaharia-qa/) - Q & A with Matei Zaharia on Apache Spark and their new serverless offering.
+- [Reuters replaced WebSockets with Cognito and SQS](https://serverless.com/blog/how-reuters-replaced-websockets-with-amazon-cognito-and-sqs/) - How Reuters replaced WebSockets with AWS Cognito and SQS.
+- [Serverless CI with CodeBuild and CodePipeline - Part 1](https://cloudncode.blog/2017/06/13/serverless-ci-part-1-getting-started-with-aws-codebuild/) - Part 1 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
 
 ## Screencasts
 
@@ -1104,6 +1106,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Eventuate AWS Gateway ★1](https://github.com/eventuate-clients/eventuate-aws-gateway-serverless-plugin) - Plugin for the [Eventuate](http://eventuate.io) AWS Gateway.
 - [API Gateway binary ★0](https://github.com/maciejtreder/serverless-apigw-binary) - Enable binary support in AWS API Gateway.
 - [Graph ★10](https://github.com/trek10inc/serverless-graph) - Outputs your Serverless architecture and resources as a Graphviz dot compatible output.
+- [Lambda fanout ★3](https://github.com/trek10inc/serverless-aws-lambda-fanout) - Quickly add a fanout Lambda with targets to a Serverless project.
 
 ## Literature
 

@@ -236,7 +236,7 @@ These frameworks make customizing your zsh setup easier.
 * [crayon-syntax-zsh ★0 ⏳3Y](https://github.com/Stibbons/crayon-syntax-zsh) - ZSH syntax highlighting for the Crayon Plugin for Wordpress.
 * [crystal](https://github.com/veelenga/crystal-zsh) - A plugin for [Crystal](https://github.com/manastech/crystal).
 * [czhttpd ★23 ⏳1Y](https://github.com/jsks/czhttpd) - A simple http server written in 99.9% pure zsh.
-* [deer ★190](https://github.com/Vifon/deer) - A file navigator for zsh heavily inspired by [ranger](http://ranger.nongnu.org/).
+* [deer ★190 ⏳1Y](https://github.com/Vifon/deer) - A file navigator for zsh heavily inspired by [ranger](http://ranger.nongnu.org/).
 * [depot-tools ★0 ⏳4Y](https://github.com/jgrowl/depot_tools) - Simple oh-my-zsh plugin for installing the chromium depot_tools. Installing this plugin will put all of the chromium depot_tools in your path automatically.
 * [docker-aliases ★2](https://github.com/webyneter/docker-aliases) Docker aliases for everyday use.
 * [docker-compose ★22 ⏳1Y](https://github.com/sroze/docker-compose-zsh-plugin) Show docker container status in your prompt.

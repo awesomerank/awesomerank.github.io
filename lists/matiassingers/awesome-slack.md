@@ -203,7 +203,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [hublin-slack-integration ★5 ⏳2Y](https://github.com/linagora/hublin-slack-integration) - Integrate Hubl.in with Slack
 - [imma-let-you-finish ★40 ⏳1Y](https://github.com/sparragus/imma-let-you-finish) - A bot that randomly appears in your conversation to tell everyone who has the best comment of all times
 - [irc-slack-echo ★44 ⏳3Y](https://github.com/rknLA/irc-slack-echo) - Echoes IRC activity to Slack, and supports IRC/Slack username mapping
-- [Live-WorldCup-Notification-for-Slack ★18 ⏳2Y](https://github.com/sbehrends/Live-WorldCup-Notification-for-Slack) - World Cup 2014 notifications
+- [Live-WorldCup-Notification-for-Slack ★18 ⏳3Y](https://github.com/sbehrends/Live-WorldCup-Notification-for-Slack) - World Cup 2014 notifications
 - [LOUDBOT-SLACK ★31](https://github.com/ceejbot/LOUDBOT-SLACK) - LOUDBOT FOR SLACK
 - [nasa-slack](https://github.com/seanrose/nasa-slack) - a slack integration to post the nasa photo of the day
 - [node-slack-cli ★23 ⏳2Y](https://github.com/juanpabloaj/node-slack-cli) - Send messages to Slack from the command line with nodejs

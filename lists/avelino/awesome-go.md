@@ -841,7 +841,7 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [gpm ★1125 ⏳1Y](https://github.com/pote/gpm) - Barebones dependency manager for Go.
 * [gvt ★653](https://github.com/FiloSottile/gvt) - `gvt` is a simple vendoring tool made for Go native vendoring (aka GO15VENDOREXPERIMENT), based on gb-vendor.
 * [johnny-deps ★213 ⏳2Y](https://github.com/VividCortex/johnny-deps) - Minimal dependency version using Git
-* [nut ★249 ⏳1Y](https://github.com/jingweno/nut) - Vendor Go dependencies
+* [nut ★249 ⏳2Y](https://github.com/jingweno/nut) - Vendor Go dependencies
 * [VenGO ★98](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments
 
 ## Query Language
@@ -878,7 +878,7 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [go-fn ★6 ⏳2Y](https://github.com/ematvey/go-fn) - Mathematical functions written in Go language, that are not covered by math pkg
 * [go-gt ★3 ⏳1Y](https://github.com/ThePaw/go-gt) - Graph theory algorithms written in "Go" language
 * [go.matrix ★282 ⏳1Y](https://github.com/skelterjohn/go.matrix) - linear algebra for go (has been stalled)
-* [gocomplex ★3 ⏳1Y](https://github.com/varver/gocomplex) - A complex number library for the Go programming language.
+* [gocomplex ★3 ⏳2Y](https://github.com/varver/gocomplex) - A complex number library for the Go programming language.
 * [gofrac ★6 ⏳1Y](https://github.com/anschelsc/gofrac) - A (goinstallable) fractions library for go with support for basic arithmetic.
 * [gohistogram ★90](https://github.com/VividCortex/gohistogram) - Approximate histograms for data streams
 * [gonum/mat64 ★458](https://github.com/gonum/matrix) - The general purpose package for matrix computation. Package mat64 provides basic linear algebra operations for float64 matrices.

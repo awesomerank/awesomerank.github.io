@@ -757,11 +757,11 @@ Wifi | Power | Address | Open Hours
 
 > Pour over, aeropress, espressoo - this place has got it all.
 
-Webpage: http://copenhagencoffeelab.com/lissabon/
+Webpage: http://copenhagencoffeelab.com/cafe-at-rua-nova-da-piedade/
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | 𝘅 | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
+✔ | ✘ | [1200 192, R. Nova da Piedade 10, 1200-405 Lisboa](https://goo.gl/maps/PGwRAsp5mhA2) |
 
 ![](http://www.speedtest.net/result/6156014466.png)
 
@@ -785,7 +785,7 @@ Webpage: http://4sq.com/1dQaY6h
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ✔ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
+✘ | ✘ | [Rua Portas De Santo Antão, 136, Lisbon, Portugal](https://goo.gl/maps/6cYBbdg82rv) |
 
 #### O pão nosso
 
@@ -988,18 +988,6 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Carrer de Badajoz 95. Poblenou. Barcelona](https://goo.gl/maps/jtdnk5FfwL72) |
 
 ![](http://www.speedtest.net/result/5456163855.png)
-
-#### True Artisan Cafe
-
-> Super central and the baristas are really nice.
-
-Webpage: https://www.facebook.com/trueartisancafe/
-
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [Passatge de Sant Benet, 6, 08003 Barcelona](https://goo.gl/maps/aQRFhmnGmkn) |
-
-![](http://www.speedtest.net/result/5456649700.png)
 
 ## Oviedo
 

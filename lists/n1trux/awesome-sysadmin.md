@@ -270,9 +270,11 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Capistrano](http://capistranorb.com/) - Deploy your application to any number of machines simultaneously, in sequence or as a rolling set via SSH (rake based).
   * [Fabric](http://www.fabfile.org/) - Python library and cli tool for streamlining the use of SSH for application deployment or systems administration tasks.
   * [Mina](http://nadarei.co/mina/) - Really fast deployer and server automation tool (rake based).
-  * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
-  * [Vlad the Deployer ★346 ⏳1Y](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
   * [munki](https://www.munki.org/munki/) - Webserver-based repository of packages and package metadata, that allows macOS administrators to manage software installs.
+  * [Rocketeer](http://rocketeer.autopergamene.eu/) - PHP task runner and deployment tool.
+  * [sup ★1453](https://github.com/pressly/sup) - Super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
+  * [Vlad the Deployer ★346 ⏳1Y](https://github.com/seattlerb/vlad) - Deployment automation (rake based).
+
 
 
 ## Distributed Filesystems
@@ -407,6 +409,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code ★5689](https://github.com/google/cadvisor)) `Apache` `Go`
   * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
   * [Dash ★7646](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
+  * [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
   * [Flapjack](http://flapjack.io/) - Monitoring notification routing & event processing system.
   * [Healthchecks](https://healthchecks.io/) - Monitoring for cron jobs, background services and scheduled tasks.
   * [Icinga](https://www.icinga.org/) - Nagios fork that has since lapped nagios several times. Comes with the possibility of clustered monitoring - ([Source Code](https://github.com/Icinga)) - `GPLv2`
@@ -418,12 +421,14 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Node-Bell ★277 ⏳1Y](https://github.com/eleme/bell.js) - Real-time anomalies detection for periodic time series, metrics monitor.
   * [Observium](http://www.observium.org/) - SNMP monitoring for servers and networking devices. Runs on linux.
   * [OMD](http://omdistro.org/) - The Open Monitoring Distribution.
+  * [Performance Co-Pilot](http://pcp.io) - Lightweight, distributed system performance and analysis framework. 
   * [PhpSysInfo](https://phpsysinfo.github.io/phpsysinfo/) - A customizable PHP script that displays information about your system nicely.
   * [PHP Server Monitor](https://www.phpservermonitor.org/) - Open source tool to monitor your servers and websites
   * [psdash ★1960](https://github.com/Jahaja/psdash) - A linux system information web dashboard using psut
 ils and flask.
   * [pyDash](https://k3oni.github.io/pydash/) - Small web-based monitoring dashboard for linux.
   * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
+  * [rtop ★1544](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
   * [Sensu](https://sensuapp.org/) - Monitoring framework.
   * [ServerStatus BotoX ★211](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
   * [ServerStatus moejda ★258](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
@@ -431,6 +436,7 @@ ils and flask.
   * [SWMP - Server Web Monitor Page](https://swmp.thefuzz.xyz/) - A responsive, eye-pleasing Linux server statistics dashboard.
   * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
   * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
+  * [Vector ★2293](https://github.com/Netflix/vector) - An on-host performance monitoring framework.
   * [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
   * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
   * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.

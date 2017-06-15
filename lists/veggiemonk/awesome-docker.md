@@ -343,7 +343,7 @@ Services to securely store your Docker images.
 * [Workflow ★858](https://github.com/deis/workflow) - The open source PaaS for Kubernetes by [Deis](https://github.com/deis). Formerly Deis v1.
 
 ## Remote Container Manager / Orchestration
-* [autodock ★39](https://github.com/prologic/autodock) - Daemon for Docker Automation by [@prologic][prologic]
+* [autodock ★39 ⏳1Y](https://github.com/prologic/autodock) - Daemon for Docker Automation by [@prologic][prologic]
 * [blimp ★18 ⏳2Y](https://github.com/tubesandlube/blimp) - Uses Docker Machine to easily move a container from one Docker host to another, show containers running against all of your hosts, replicate a container across multiple hosts and more. By [@defermat](https://github.com/defermat) and [@schvin](https://github.com/schvin)
 * [Capitan ★15](https://github.com/byrnedo/capitan) - Composable docker orchestration with added scripting support by [@byrnedo](https://github.com/byrnedo).
 * [CloudSlang](http://www.cloudslang.io/) - CloudSlang is a workflow engine to create Docker process automation

@@ -134,7 +134,7 @@ title: Awesome Rank for vuejs/awesome-vue
     - [Electron](#electron)
     - [Parts](#parts)
   - [Runtime](#runtime)
-    - [Commnand Line / Terminal](#command-line--terminal)
+    - [Command Line / Terminal](#command-line--terminal)
 
 
 
@@ -728,6 +728,7 @@ Tooltips / popovers
  - [vue2-timepicker ★83](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support.
  - [vuejs-datepicker ★282](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
  - [vue-smooth-picker ★9](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
+ - [vuedt ★0](https://github.com/nkoehring/vuedt) - Crazy lightweight (5.5kb!) Vuejs Date and Time picker component with nice animations and not too much fuzz.
 
 #### Select
 
@@ -1236,6 +1237,7 @@ Tooltips / popovers
  - [CheatSheet](https://vuejs-tips.github.io/cheatsheet) - Complete Interactive API.
  - [propdoc ★20](https://github.com/propellant/doctor) - A single component that provides simple documentation of Vue.js components/props.
  - [Vuex CheatSheet](https://vuejs-tips.github.io/vuex-cheatsheet) - Complete Interactive Vuex API.
+ - [vue-styleguidist ★37](https://github.com/vue-styleguidist/vue-styleguidist) - A style guide generator for Vue components with a living style guide.
 ### Test
 
  - [avoriaz ★285](https://github.com/eddyerburgh/avoriaz) - A Vue.js testing utility library.

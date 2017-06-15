@@ -374,7 +374,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [globby ★318](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 - [cpy ★124](https://github.com/sindresorhus/cpy) - Copy files.
 - [rimraf ★1689](https://github.com/isaacs/rimraf) - Recursively delete files like `rm -rf`.
-- [mkdirp ★1394](https://github.com/substack/node-mkdirp) - Recursively create directories like `mkdir -p`.
+- [make-dir ★179](https://github.com/sindresorhus/make-dir) - Recursively create directories like `mkdir -p`.
 - [graceful-fs ★614](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements.
 - [chokidar ★2905](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 - [find-up ★88](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.
