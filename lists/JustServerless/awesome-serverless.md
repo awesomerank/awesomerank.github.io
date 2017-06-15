@@ -557,6 +557,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Open Source leaders: Matei Zaharia, Apache Spark](https://thenewstack.io/matei-zaharia-qa/) - Q & A with Matei Zaharia on Apache Spark and their new serverless offering.
 - [Reuters replaced WebSockets with Cognito and SQS](https://serverless.com/blog/how-reuters-replaced-websockets-with-amazon-cognito-and-sqs/) - How Reuters replaced WebSockets with AWS Cognito and SQS.
 - [Serverless CI with CodeBuild and CodePipeline - Part 1](https://cloudncode.blog/2017/06/13/serverless-ci-part-1-getting-started-with-aws-codebuild/) - Part 1 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
+- [AWS serverless architecture issues and caveats](http://searchaws.techtarget.com/feature/Work-through-AWS-serverless-architecture-issues-and-caveats) - Q & A with Peter Sbarski on issues and caveats when building serverless applications on AWS.
 
 ## Screencasts
 
@@ -586,7 +587,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless & GraphQL: A Love Story](https://www.youtube.com/watch?v=paInEUALg1Y) - Screencast by Cloud Academy and Nik Graf on serverless and GraphQL.
 - [Build a serverless web app](https://www.twitch.tv/videos/101322542) - How to build a serverless web app on AWS.
 - [Building a development workflow for serverless applications](https://www.youtube.com/watch?v=e3lreqpWN0A) - Webinar about development workflows for serverless applications.
-- [What's new in Serverless v1.14](https://www.youtube.com/watch?v=FYs5CMFjFdc) - Screencast which shows all the new features of Serverless v1.14.
+- [What's new in Serverless v1.14](https://www.youtube.com/watch?v=FYs5CMFjFdc) - Video walkthrough about all the new features of Serverless v1.14.
+- [What's new in Serverless v1.15](https://www.youtube.com/watch?v=o1-vyHJ9J8Y) - Video walkthrough about all the new features in Serverless v1.15.
 
 ## Talks
 
@@ -694,6 +696,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [From Rails to serverless](https://pivorak.com/talks/from-rails-to-serverless-via-ddd-and-microservices) - Andrzej Krzywdas talk about the journey from Rails to serverless.
 - [Serverless microservices](https://speakerdeck.com/davidwells/serverless-microservices) - Talk on serverless computing and serverless architectures.
 - [Serverless on Kubernetes](https://softwareengineeringdaily.com/2017/06/12/serverless-on-kubernetes-with-soam-vasani/) - Podacst about serverless on Kubernetes with Soam Vasani.
+- [How Serverless is shaping the future of software development](https://thenewstack.io/serverless-shaping-future-software-development/) - Podcast which discusses the future of software development and serverless architectures with Symphonia co-founder Mike Roberts.
 
 ## Amazon AWS resources
 
@@ -922,6 +925,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Whim bot ★1](https://github.com/maasglobal/whim-bot) - Microsoft Bot Framewok powered serverless bot.
 - [AWS IAM manager ★20](https://github.com/netguru/aws-iam-manager) - AWS IAM Manager as code.
 - [SendToSlack ★2](https://github.com/optimizely/serverless-sendToSlack) - Send messages to a Slack channel.
+- [Slack Time Tracking Bot with Google Sheets ★1](https://github.com/ersel/time-tracker-slack-gsheets) - A Node.js application to help you keep track of time spent on manual tasks in a standardised way.
 
 ## Related projects
 
