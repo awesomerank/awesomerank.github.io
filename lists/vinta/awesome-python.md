@@ -852,7 +852,7 @@ Inspired by [awesome-php ★15483](https://github.com/ziadoz/awesome-php).
     * [hot-redis ★214](https://github.com/stephenmcd/hot-redis) - Rich Python data types for Redis.
     * [MongoEngine](http://mongoengine.org/) - A Python Object-Document-Mapper for working with MongoDB.
     * [PynamoDB](https://github.com/jlafon/PynamoDB) - A Pythonic interface for [Amazon DynamoDB](https://aws.amazon.com/dynamodb/).
-    * [redisco ★355](https://github.com/kiddouk/redisco) - A Python Library for Simple Models and Containers Persisted in Redis.
+    * [redisco ★355 ⏳1Y](https://github.com/kiddouk/redisco) - A Python Library for Simple Models and Containers Persisted in Redis.
 * Others
     * [butterdb](https://github.com/Widdershin/butterdb) - A Python ORM for Google Drive Spreadsheets.
     * [dataset ★2697](https://github.com/pudo/dataset) - A JSON-based database.

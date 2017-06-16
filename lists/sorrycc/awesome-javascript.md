@@ -772,7 +772,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [Cerberus ★2199](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
  * [full-page-intro-and-navigation ★28 ⏳2Y](https://github.com/CodyHouse/full-page-intro-and-navigation) - An intro page with a full width background image, a bold animated menu and an iOS-like blurred effect behind the navigation
  * [Fluid-Squares ★25 ⏳2Y](https://github.com/crozynski/Fluid-Squares) - A fluid grid of square units.
- * [Mobile-First-RWD ★53 ⏳4Y](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design
+ * [Mobile-First-RWD ★53 ⏳5Y](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design
  * [this-is-responsive ★1472](https://github.com/bradfrost/this-is-responsive) - This Is Responsive
  * [npm run-scripts](https://gist.github.com/addyosmani/9f10c555e32a8d06ddb0) Task automation with NPM run-scripts.
 

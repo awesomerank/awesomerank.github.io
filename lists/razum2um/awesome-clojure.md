@@ -26,6 +26,7 @@ title: Awesome Rank for razum2um/awesome-clojure
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
   - [Build Automation and Package management](#build-automation-and-package-management)
+  - [Version Control Management](#version-control-management)
   - [Date and Time](#date-and-time)
   - [GUI](#gui)
   - [Audio](#audio)
@@ -54,17 +55,21 @@ title: Awesome Rank for razum2um/awesome-clojure
   - [Computer Vision](#computer-vision)
   - [Natural Language Processing](#natural-language-processing)
   - [Parsing](#parsing)
+  - [Reflection](#reflection)
   - [Editor Plugins](#editor-plugins)
+  - [Documentation](#documentation)
   - [Literate Programming](#literate-programming)
   - [Miscellaneous](#miscellaneous)
   - [Debugging tools](#debugging)
   - [CI](#ci)
   - [Project Management](#project-management)
+
 - [Resources](#resources)
   - [Guides](#guides)
   - [Websites](#websites)
   - [Twitter](#twitter)
   - [Exercises](#exercises)
+
 
 ## Web Framework
 
@@ -94,6 +99,14 @@ title: Awesome Rank for razum2um/awesome-clojure
 
   * [Leiningen ★5434](https://github.com/technomancy/leiningen)
   * [Boot ★1238](https://github.com/boot-clj/boot)
+  * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
+  * [lucid.package](http://docs.caudate.me/lucidity/lucid-package.html)
+
+## Version Control Management
+
+*Code utilities for interacting with VCS software*
+
+  * [lucid.git](http://docs.caudate.me/lucidity/lucid-git.html)
 
 ## Date and Time
 
@@ -242,6 +255,7 @@ title: Awesome Rank for razum2um/awesome-clojure
 
   * [Expectations](http://jayfields.com/expectations/)
   * [Midje ★1285](https://github.com/marick/Midje)
+  * [lucid.unit](http://docs.caudate.me/lucidity/lucid-unit.html)
 
 ## Webdriver automation
 
@@ -252,13 +266,20 @@ title: Awesome Rank for razum2um/awesome-clojure
   * [Slamhound ★363](https://github.com/technomancy/slamhound)
   * [eastwood ★667](https://github.com/jonase/eastwood)
   * [kibit ★1238](https://github.com/jonase/kibit)
+  * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
 
 ## Science and Data Analysis
+
+*Libraries, extended REPLs, and other tools for scientific and statistical data
+anylysis and visualization.*
 
   * [Incanter ★1881](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
   * [Onyx ★1495](https://github.com/onyx-platform/onyx)
   * [Neanderthal ★322](https://github.com/uncomplicate/neanderthal)
+  * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
+  * [Streaming Histograms ★126](https://github.com/bigmlcom/histogram)
+  * [Gorilla REPL](http://gorilla-repl.org/)  
 
 ## Machine Learning
 
@@ -287,6 +308,13 @@ title: Awesome Rank for razum2um/awesome-clojure
 
   * [Instaparse ★1781](https://github.com/Engelberg/instaparse)
 
+## Reflection
+*Libraries for improved code reflection and object introspection
+
+  * [hara.reflect](docs.caudate.me/hara/hara-reflect.html)
+  * [lucid.mind](http://docs.caudate.me/lucidity/lucid-mind.html)
+  * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
+
 ## Editor Plugins
 
   * [CIDER ★2121](https://github.com/clojure-emacs/cider)
@@ -297,6 +325,12 @@ title: Awesome Rank for razum2um/awesome-clojure
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer](http://shaunlebron.github.io/parinfer/)
 
+## Documentation
+
+*Utilities and libraries for (non-LP) code and project documentation*
+
+ * [lucid.publish](http://docs.caudate.me/lucidity/lucid-publish.html)
+
 ## Literate Programming
 
   * [marginalia ★621](https://github.com/gdeer81/marginalia)
@@ -306,6 +340,7 @@ title: Awesome Rank for razum2um/awesome-clojure
 
  * [clj-tuple ★170 ⏳1Y](https://github.com/ztellman/clj-tuple)
  * [slingshot ★470](https://github.com/scgilardi/slingshot)
+ * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
 
 ## Debugging
 

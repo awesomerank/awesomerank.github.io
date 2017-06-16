@@ -81,7 +81,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 - [PICO-8 font](https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view) - by [RhythmLynx](http://www.lexaloffle.com/bbs/?uid=11704).
 - [pico-test ★10 ⏳1Y](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
 - [Lib-Pico8 ★49](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
-- [pico8-missing-builtins ★8](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
+- [pico8-missing-builtins ★8 ⏳1Y](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 - [P8Coder ★19](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
 ## Text Editors Language Support

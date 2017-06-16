@@ -207,7 +207,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 - [empty-trash-cli ★39 ⏳1Y](https://github.com/sindresorhus/empty-trash-cli) - Empty the trash.
 - [trashss ★22](https://github.com/sotojuan/trashss) - ( only) Trash screenshots on desktop.
 - [del-cli ★66](https://github.com/sindresorhus/del-cli) - Delete files and folders.
-- [cpy-cli ★53](https://github.com/sindresorhus/cpy-cli) - Copies files.
+- [cpy-cli ★53 ⏳1Y](https://github.com/sindresorhus/cpy-cli) - Copies files.
 - [rename-cli ★1](https://github.com/jhotmann/node-rename-cli) - A cross-platform tool for renaming files quickly, especially multiple files at once.
 
 ### Files

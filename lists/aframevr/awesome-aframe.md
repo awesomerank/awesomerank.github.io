@@ -203,7 +203,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 
 ### Materials
 
-- [Draw ★5](https://github.com/mayognaise/aframe-draw-shader) - Render from canvas
+- [Draw ★5 ⏳1Y](https://github.com/mayognaise/aframe-draw-shader) - Render from canvas
 - [HTML ★64](https://github.com/mayognaise/aframe-html-shader) - Render from HTML
 - [Video ★17](https://github.com/mayognaise/aframe-video-shader) - iOS-compatible video material
 - [GIF ★19](https://github.com/mayognaise/aframe-gif-shader) - Render animated GIFs

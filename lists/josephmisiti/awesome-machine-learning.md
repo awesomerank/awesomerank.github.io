@@ -168,7 +168,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 <a name="cpp-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [BanditLib ★69 ⏳1Y](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library.
+* [BanditLib ★69 ⏳2Y](https://github.com/jkomiyama/banditlib) - A simple Multi-armed Bandit library.
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind. [DEEP LEARNING]
 * [CNTK ★10819](https://github.com/Microsoft/CNTK) - The Computational Network Toolkit (CNTK) by Microsoft Research, is a unified deep-learning toolkit that describes neural networks as a series of computational steps via a directed graph.
 * [CUDA](https://code.google.com/p/cuda-convnet/) - This is a fast C++/CUDA implementation of convolutional [DEEP LEARNING]

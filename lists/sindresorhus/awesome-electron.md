@@ -277,7 +277,7 @@ Made with Electron.
 - [babel-preset-electron ★27](https://github.com/emorikawa/babel-preset-electron) - Babel preset that only compiles what's necessary for a particular Electron version.
 - [electron-is ★65](https://github.com/delvedor/electron-is) - Utility functions.
 - [electron-osx-appearance ★119](https://github.com/danhp/electron-osx-appearance) - Simplified API for accessing macOS's appearance settings.
-- [electron-config ★359](https://github.com/sindresorhus/electron-config) - Persist user settings and other data.
+- [electron-store ★428](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 - [electron-context-menu ★279](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 - [electron-require ★13](https://github.com/brrd/electron-require) - Simplified require.
 - [NeDB ★6545](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.

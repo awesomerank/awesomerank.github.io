@@ -599,7 +599,7 @@ phone numbers.
 
 ## Books
 
-* [Django by Example ★15](https://github.com/kevinlondon/django-by-example) (1.2)
+* [Django by Example ★15 ⏳1Y](https://github.com/kevinlondon/django-by-example) (1.2)
 * [Djen of Django](http://agiliq.com/books/djenofdjango/) (< 1.7)
 * [Effective Django](http://www.effectivedjango.com/) (1.5)
 * [Getting started with Django](http://www.gettingstartedwithdjango.com/) (video)

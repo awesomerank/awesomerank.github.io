@@ -532,6 +532,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Events in the Netherlands ★15](lists/awkward/awesome-netherlands-events.md) - Tech-related events in the Netherlands.
 - [Healthcare ★127](lists/kakoni/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
 - [Magento 2 ★144](lists/DavidLambauer/awesome-magento2.md) - Open Source eCommerce built with PHP.
+- [TikZ ★85](lists/xiaohanyu/awesome-tikz.md) - Graph drawing packages for TeX/LaTeX/ConTeXt.
 
 
 ## License

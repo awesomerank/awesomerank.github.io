@@ -1111,6 +1111,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [API Gateway binary ★0](https://github.com/maciejtreder/serverless-apigw-binary) - Enable binary support in AWS API Gateway.
 - [Graph ★10](https://github.com/trek10inc/serverless-graph) - Outputs your Serverless architecture and resources as a Graphviz dot compatible output.
 - [Lambda fanout ★3](https://github.com/trek10inc/serverless-aws-lambda-fanout) - Quickly add a fanout Lambda with targets to a Serverless project.
+- [Browserifier ★2](https://github.com/digitalmaas/serverless-plugin-browserifier) - Reduce the size and speed up your Node.js based Lambdas using Browserify.
 
 ## Literature
 

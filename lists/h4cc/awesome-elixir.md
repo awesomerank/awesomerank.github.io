@@ -662,7 +662,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [plug_jwt ★33 ⏳1Y](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 * [plug_rails_cookie_session_store ★62](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 * [plug_redirect_https ★5](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
-* [plug_require_header ★18](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
+* [plug_require_header ★18 ⏳1Y](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
 * [plug_response_header ★9 ⏳1Y](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
 * [plug_ribbon ★19 ⏳1Y](https://github.com/stnly/plug_ribbon) - Injects a ribbon to your web application in the development environment.
 * [plug_secex ★5](https://github.com/techgaun/plug_secex) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
@@ -1254,7 +1254,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [chinese_translation ★67 ⏳2Y](https://github.com/tyrchen/chinese_translation) - Translate between traditional chinese and simplified chinese based on wikipedia data, and translate chinese words/characters to pinyin (or slug with or without tone).
 * [cidr ★8](https://github.com/c-rack/cidr-elixir) - Classless Inter-Domain Routing (CIDR) for Elixir.
 * [cirru_parser ★0 ⏳2Y](https://github.com/Cirru/parser.ex) - Cirru Parser in Elixir.
-* [cldr ★1 ⏳2Y](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
+* [cldr ★1 ⏳3Y](https://github.com/magicienap/cldr) - cldr is a library to use information from CLDR data.
 * [colorful ★2 ⏳2Y](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors ★5](https://github.com/lidashuang/colors) - Colors util written in Elixir.
 * [convertat ★9 ⏳1Y](https://github.com/whatyouhide/convertat) - An Elixir library for converting from and to arbitrary bases.
@@ -1589,6 +1589,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 *Cool video tutorials.*
 
 * [Confreaks (Elixir)](http://confreaks.tv/tags/40) - Elixir related conference talks.
+* [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers) - Functional, Parallel, Reliable (and fun!), taught by Dave Thomas.
 * [Elixir Sips](http://elixirsips.com/) - Tiny screencasts for learning Elixir.
 * [ExCasts](https://excasts.com) - Elixir and Phoenix screencasts for all skill levels.
 * [LearnElixir.tv](https://www.learnelixir.tv/) - Beginner friendly, in-depth, step by step screencasts.

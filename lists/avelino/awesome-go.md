@@ -850,7 +850,7 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [graphql ★32 ⏳1Y](https://github.com/sevki/graphql) - GraphQL implementation in go.
 * [graphql ★528](https://github.com/neelance/graphql-go) - GraphQL server with a focus on ease of use.
 * [graphql-go ★1392](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go.
-* [jsonql ★94](https://github.com/elgs/jsonql) - JSON query expression library in Golang.
+* [jsonql ★94 ⏳1Y](https://github.com/elgs/jsonql) - JSON query expression library in Golang.
 
 ## Resource Embedding
 

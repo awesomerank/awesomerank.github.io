@@ -336,6 +336,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Shyp https://medium.com/shyp-engineering
 * Sift Science http://blog.siftscience.com/?category=Engineering
 * Simple https://www.simple.com/engineering
+* SitePoint https://sitepoint.com
 * Sky Betting & Gaming http://engineering.skybettingandgaming.com/
 * Skyscanner http://codevoyagers.com/
 * Slack https://slack.engineering/
@@ -488,7 +489,6 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Chris Wellons http://nullprogram.com/
 * Clay McLeod http://blog.claymcleod.io/
 * Cocoa Is My Girlfriend http://www.cimgf.com/
-* CodeFX http://codefx.org
 * Code Better http://codebetter.com/
 * Code with style! http://codewithstyle.info/
 * Codrops https://tympanus.net/codrops/
@@ -630,6 +630,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Nick Desaulniers https://nickdesaulniers.github.io/
 * Nick Galbreath http://www.client9.com/
 * Nicolas Liochon http://blog.thislongrun.com/
+* Nicolai Parlog (CodeFX) http://codefx.org
 * Nikola Brežnjak http://www.nikola-breznjak.com/blog/
 * Nikolay Nemshilov http://nikolay.rocks/
 * NSHipster http://nshipster.com/

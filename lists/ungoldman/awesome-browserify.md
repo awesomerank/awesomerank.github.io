@@ -55,7 +55,7 @@ You can use a node-style `require()` to organize your browser code and load modu
 ## Tutorials
 
 - [Hello World with Browserify](http://browserify.org/#middle-section)
-- [Browserify Adventure ★138](https://github.com/workshopper/browserify-adventure)
+- [Browserify Adventure ★138 ⏳1Y](https://github.com/workshopper/browserify-adventure)
 - [A Gentle Browserify Walkthrough](https://ponyfoo.com/articles/a-gentle-browserify-walkthrough)
 - [Browserify guide](http://zhaoda.net/2015/10/16/browserify-guide/) (Chinese)
 
