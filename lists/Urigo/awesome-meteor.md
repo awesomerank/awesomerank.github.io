@@ -147,7 +147,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 *Search sort paginate related tools*
 
 * [tmeasday:publish-counts ★187](https://github.com/percolatestudio/publish-counts) - Publish the count of a cursor, in real time.
-* [percolate:find-from-publication ★30](https://github.com/versolearning/find-from-publication) - Enable finding all documents that have been published by a given publication.
+* [percolate:find-from-publication ★30 ⏳1Y](https://github.com/versolearning/find-from-publication) - Enable finding all documents that have been published by a given publication.
 * [meteorhacks:search-source ★153](https://github.com/meteorhacks/search-source) - Reactive Data Source for Search
 * [matteodem:easy-search ★420](https://github.com/matteodem/meteor-easy-search) - Easy-to-use search with Blaze Components (+ Elastic Search Support
 * [alethes:pages ★410](https://github.com/alethes/meteor-pages) - Out of the box Meteor pagination

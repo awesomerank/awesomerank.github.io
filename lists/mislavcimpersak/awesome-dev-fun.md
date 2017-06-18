@@ -51,7 +51,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [Elevator.js ★4249](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [Echochamber.js ★3650 ⏳1Y](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage.
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.
-- [FuckitJS ★2363 ⏳4Y](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller.
+- [FuckitJS ★2363 ⏳5Y](https://github.com/mattdiamond/fuckitjs) - JavaScript Error Steamroller.
 - [Autocomplete from Stack Overflow](https://emilschutte.com/stackoverflow-autocomplete/) - Autocomplete your JS from Stack Overflow.
 - [Object.toSting() ★168 ⏳1Y](https://github.com/teropa/to-sting) - Logs an image of Sting to the development console.
 - [Sarcasm ★39](https://github.com/komlev/sarcasm) - Sarcasm is easy-as-pie, batteries-included, non-opinionated, simple-to-get-started, lightweight, reliable, convenient, dead simple, user friendly, super-sonic, hipercharged, kick-ass JavaScript library on steroids.

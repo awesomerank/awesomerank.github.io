@@ -164,11 +164,14 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * GitHub http://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
 * Gnip https://engineering.gnip.com/
+* Go Programming Language https://blog.golang.org/
 * GoCardless https://gocardless.com/blog/tagged/engineering/
 * Good Eggs https://team.goodeggs.com
 * Google Online Security https://security.googleblog.com/
 * Google Research https://research.googleblog.com/
 * GoSquared https://engineering.gosquared.com/
+* Grab http://engineering.grab.com/
+* Grafana https://grafana.com/blog/
 * Grammarly http://tech.grammarly.com/blog/index.html
 * Grofers https://lambda.grofers.com/
 * Grouper http://blog.joingrouper.com/
@@ -181,6 +184,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
+* Heap https://heap.engineering/
 * Heroku https://blog.heroku.com/engineering
 * HireArt http://code.hireart.com/
 * Holiday Extras http://hungrygeek.holidayextras.co.uk/
@@ -284,7 +288,6 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Paperless Post https://www.paperlesspost.com/blog/teams/tech/
 * Parse http://blog.parse.com/
 * Paypal https://www.paypal-engineering.com/
-* Periscope https://www.periscopedata.com/blog/
 * Periscope Data https://www.periscopedata.com/blog
 * PicCollage https://tech.pic-collage.com/
 * Pinterest https://engineering.pinterest.com/blog
@@ -302,7 +305,6 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Quora https://engineering.quora.com/
 
 #### R companies
-* Raintank https://blog.raintank.io/
 * Raizlabs https://www.raizlabs.com/dev/
 * RapidAPI http://blog.rapidapi.com/
 * REA Group http://rea.tech/engineering/
@@ -429,7 +431,8 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 #### Z companies
 * Zalando https://tech.zalando.com/blog/
 * ZeeMee https://zeemee.engineering/
-* Zendesk https://developer.zendesk.com/blog
+* Zendesk https://medium.com/zendesk-engineering
+* Zendesk(old) https://developer.zendesk.com/blog
 * Zenefits https://engineering.zenefits.com/posts/
 * Zillow https://www.zillow.com/engineering/
 * Zomato https://engineering.zomato.com/
@@ -484,7 +487,6 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Carlos Becker https://carlosbecker.com
 * Chen Hui Jing https://www.chenhuijing.com/blog/
 * Chien Tran http://thelazylog.com/
-* Chinmaya Kr. Patanaik http://chinmayapatanaik.com
 * Chris Hager https://www.metachris.com/blog/
 * Chris Wellons http://nullprogram.com/
 * Clay McLeod http://blog.claymcleod.io/
@@ -693,6 +695,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 #### T individuals
 * Tero Parviainen http://teropa.info/
 * That Thing In Swift https://thatthinginswift.com/
+* The Coded Self http://www.thecodedself.com
 * The Daily WTF http://thedailywtf.com/
 * Thomas Young http://upcoder.com
 * Tikhon Jelvis http://jelv.is/blog/

@@ -221,7 +221,7 @@ Plugins
     - [Flask-ShortUrl ★22](https://github.com/lepture/flask-shorturl) - Short URL generator for Flask
     - [Flask-FeatureFlags ★84](https://github.com/trustrachel/Flask-FeatureFlags) - A Flask extension that enables or disables features based on configuration
     - [Flask-UUID ★22 ⏳3Y](https://github.com/wbolster/flask-uuid) - UUID url converter for Flask routes
-    - [Flask-Reggie ★36 ⏳3Y](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
+    - [Flask-Reggie ★36 ⏳4Y](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
     - [Flask-SocketIO ★1603](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications
     - [Flask-Moment ★135](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js
     - [Flask-Paginate ★119](https://github.com/lixxu/flask-paginate) - Pagination support for Flask

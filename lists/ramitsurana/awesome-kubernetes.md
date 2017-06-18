@@ -439,6 +439,7 @@ Related Projects
 * [Vault controller ★299](https://github.com/kelseyhightower/vault-controller)
 * [kube-lego ★789](https://github.com/jetstack/kube-lego)
 * [k8sec ★51](https://github.com/dtan4/k8sec)
+* [kubernetes-vault ★247](https://github.com/Boostport/kubernetes-vault)
     
 ## Desktop applications
 

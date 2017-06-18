@@ -68,7 +68,7 @@ title: Awesome Rank for unicodeveloper/awesome-lumen
 * [Lumen Generators ★123](https://github.com/webNeat/lumen-generators) - A collection of generators for Lumen and Laravel 5.
 * [Dingo API ★5902](https://github.com/dingo/api) - A RESTful API package for the Laravel and Lumen frameworks.
 * [Lumen Tinker ★59](https://github.com/vluzrmos/lumen-tinker) - An interactive shell to Lumen framework
-* [Lumen Maintenance Mode ★9](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode
+* [Lumen Maintenance Mode ★9 ⏳1Y](https://github.com/rdehnhardt/lumen-maintenance-mode) - Define Lumen Application Maintenance Mode
 * [Lumen Vendor Publish ★91](https://github.com/laravelista/lumen-vendor-publish) - Vendor publish command for Lumen framework.
 * [Lumen Make ★13 ⏳1Y](https://github.com/michaelbonds/lumen-make) - Ports most of the make commands from Laravel to Lumen. 
 * [Lumen File Manager ★35](https://github.com/nordsoftware/lumen-file-manager) - File manager module for the Lumen PHP framework.

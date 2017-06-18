@@ -390,7 +390,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [anubis ★77](https://github.com/bennyhallett/anubis) - Command-Line application framework for Elixir.
 * [firex ★10](https://github.com/msoedov/firex) - Firex is a library for automatically generating command line interfaces (CLIs) from an elixir module.
-* [getopt ★196](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
+* [getopt ★196 ⏳1Y](https://github.com/jcomellas/getopt) - Command-line options parser for Erlang.
 * [loki ★29](https://github.com/khusnetdinov/loki) - Library for creating interactive command-line application.
 * [meld](https://github.com/Lac/meld) - Create global binaries from mix tasks.
 * [optimus ★19](https://github.com/savonarola/optimus) - Command-line option parser for Elixir inspired by [clap.rs](https://clap.rs/).
@@ -869,7 +869,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [kwfuns ★2 ⏳1Y](https://github.com/RobertDober/lab42_defkw) - Macros to create functions with syntax based keyword parameters with default values.
 * [lineo ★0 ⏳2Y](https://github.com/camshaft/lineo) - parse transform for accurate line numbers.
 * [mdef ★35 ⏳2Y](https://github.com/pragdave/mdef) - Easily define multiple function heads in Elixir.
-* [named_args ★9](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
+* [named_args ★9 ⏳1Y](https://github.com/mgwidmann/named_args) - Allows named arg style arguments in Elixir.
 * [OK ★104](https://github.com/CrowdHailer/OK) - Macros for elegant happy path coding, maximizing power and readability.
 * [ok_jose ★43](https://github.com/vic/ok_jose) - Pipe elixir functions that match `{:ok,_}`, `{:error,_}` tuples or custom patterns.
 * [pattern_tap ★36 ⏳1Y](https://github.com/mgwidmann/elixir-pattern_tap) - Macro for tapping into a pattern match while using the pipe operator.
@@ -1415,7 +1415,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [semver ★2 ⏳1Y](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
 * [sendgrid ★26](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
 * [sift_ex ★13](https://github.com/C404/sift_ex) - A Siftscience API Library for Elixir.
-* [simplex ★3](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
+* [simplex ★3 ⏳1Y](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 * [slack ★330](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 * [sparkpost ★29](https://github.com/SparkPost/elixir-sparkpost) - An Elixir library for sending email using SparkPost.
 * [statix ★70](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.

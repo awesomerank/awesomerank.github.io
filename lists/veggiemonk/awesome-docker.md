@@ -140,7 +140,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [Drone ★9765](https://github.com/drone/drone) - Continuous integration server built on Docker and configured using YAML files.
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - GitLab has integrated CI to test, build and deploy your code with the use of GitLab runners.
 * [GOCD-Docker ★101](https://github.com/gocd/gocd-docker)Go Server and Agent in docker containers to provision.
-* [InSpec ★715](https://github.com/chef/inspec) - InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements.
+* [InSpec][inspec] - InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements. By [@chef](https://github.com/chef)
 * [Microservices Continuous Deployment ★110](https://github.com/francescou/docker-continuous-deployment) - Continuous deployment of a microservices application.
 * [Screwdriver](http://screwdriver.cd/) - Yahoo's OpenSource buildplatform designed for Continous Delivery.
 * [Skipper ★14](https://github.com/Stratoscale/skipper) - Easily dockerize your Git repository by [@Stratoscale](https://github.com/Stratoscale)
@@ -177,7 +177,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [construi ★13](https://github.com/lstephen/construi) - Run your builds inside a Docker defined environment by [@lstephen](https://github.com/lstephen)
 * [Docker Client for JVM ★38](https://github.com/gesellix/docker-client) - A Docker remote api client library for the JVM, written in Groovy by [@gesellix][gesellix]
 * [docker-it-scala ★187](https://github.com/whisklabs/docker-it-scala) - Docker integration testing kit with Scala by [@whisklabs](https://github.com/whisklabs)
-* [docker-maven-plugin (1) ★1050](https://github.com/spotify/docker-maven-plugin) - A Maven plugin for building and pushing Docker images by [@spotify](https://github.com/spotify/)
+* [docker-maven-plugin (1) ★1050](https://github.com/spotify/docker-maven-plugin) - A Maven plugin for building and pushing Docker images by [@spotify][spotify]
 * [docker-maven-plugin (2) ★596](https://github.com/fabric8io/docker-maven-plugin) - A Maven plugin for running and creating Docker images by [@fabric8io](https://github.com/fabric8io)
 * [Docker-PowerShell ★210](https://github.com/Microsoft/Docker-PowerShell) - PowerShell Module for Docker
 * [Docker.DotNet ★306](https://github.com/Microsoft/Docker.DotNet) - C#/.NET HTTP client for the Docker remote API by [@ahmetalpbalkan](ahmetalpbalkan)
@@ -215,7 +215,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [caduc ★4](https://github.com/tjamet/caduc) - A docker garbage collector cleaning stuff you did not use recently
 * [Docker Clean ★772](https://github.com/zzrotdesign/docker-clean) - A script that cleans Docker containers, images and volumes by [@zzrotdesign](https://github.com/zzrotdesign)
 * [docker-garby ★25](https://github.com/konstruktoid/docker-garby) - Docker garbage collection script by [@konstruktoid](https://github.com/konstruktoid).
-* [docker-gc ★3384](https://github.com/spotify/docker-gc) - A cron job that will delete old stopped containers and unused images by [@spotify](https://github.com/spotify)
+* [docker-gc ★3384](https://github.com/spotify/docker-gc) - A cron job that will delete old stopped containers and unused images by [@spotify][spotify]
 * [sherdock ★110 ⏳1Y](https://github.com/rancher/sherdock) - Automatic GC of images based on regexp by [@rancher][rancher]
 
 ## Hosting Images (registries)
@@ -275,12 +275,12 @@ Services to securely store your Docker images.
 * [Ansible](http://docs.ansible.com/ansible/docker_module.html) - manage docker containers.
 * [Azk](http://www.azk.io/) - Orchestrate development enviornments on your local machine by [@azukiapp](https://github.com/azukiapp)
 * [Beluga ★169 ⏳1Y](https://github.com/cortexmedia/Beluga) - CLI to deploy docker containers on a single server or low amount of servers. By [@cortextmedia](https://github.com/cortexmedia)
-* [Boot2Docker ★6758](https://github.com/boot2docker/boot2docker) - Docker for OSX and Windows -- http://boot2docker.io/
+* [Boot2Docker ★6758](https://github.com/boot2docker/boot2docker) - Docker for OSX and Windows
 * [crowdr ★71 ⏳1Y](https://github.com/polonskiy/crowdr) - Tool for managing multiple Docker containers (`docker-compose` alternative) by [@polonskiy](https://github.com/polonskiy/)
 * [Dinghy ★1563](https://github.com/codekitchen/dinghy) - An alternative way to use Docker on Mac OS X using Docker Machine with virtualbox, vmware, xhyve or parallels
 * [DLite ★2393](https://github.com/nlf/dlite) - Simplest way to use Docker on OSX, no VM needed. By [@nlf](https://github.com/nlf)
 * [docker-vm ★32](https://github.com/shyiko/docker-vm) - Simple and transparent alternative to boot2docker (backed by Vagrant) by [@shyiko](https://github.com/shyiko)
-* [Dray ★303](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows by [@CenturyLinkLabs][CenturyLinkLabs]
+* [Dray ★303 ⏳1Y](https://github.com/CenturyLinkLabs/dray) - An engine for managing the execution of container-based workflows by [@CenturyLinkLabs][CenturyLinkLabs]
 * [Dusty](http://dusty.gc.com/) - Managed Docker development environments on OS X
 * [FuGu ★135](https://github.com/mattes/fugu) - Docker run wrapper without orchestration by [@mattes](https://github.com/mattes)
 * [libcompose ★428](https://github.com/docker/libcompose) - Go library for Docker Compose.
@@ -336,38 +336,40 @@ Services to securely store your Docker images.
 * [Dcw ★4](https://github.com/pbertera/dcw) - Docker-compose SSH wrapper: a very poor man PaaS, exposing the docker-compose and custom-container commands defined in container labels.
 * [Dokku][dokku] - Docker powered mini-Heroku that helps you build and manage the lifecycle of applications (originally by [@progrium][progrium])
 * [Empire ★2211](https://github.com/remind101/empire) - A PaaS built on top of Amazon EC2 Container Service (ECS)
-* [Flynn ★6083](https://github.com/flynn/flynn) - A next generation open source platform as a service https://flynn.io/
-* [Nanobox ★939](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
+* [Flynn ★6083](https://github.com/flynn/flynn) - A next generation open source platform as a service
+* [Nanobox ★939](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere
 * [OpenShift][openshift] - An open source PaaS built on [Kubernetes][kubernetes] and optimized for Dockerized app development and deployment by [Red Hat](https://www.redhat.com/)
-* [Tsuru ★2339](https://github.com/tsuru/tsuru) - Tsuru is an extensible and open source Platform as a Service software. By [@tsuru](https://github.com/tsuru)
+* [Tsuru ★2339](https://github.com/tsuru/tsuru) - Tsuru is an extensible and open source Platform as a Service software
 * [Workflow ★858](https://github.com/deis/workflow) - The open source PaaS for Kubernetes by [Deis](https://github.com/deis). Formerly Deis v1.
 
 ## Remote Container Manager / Orchestration
 * [autodock ★39 ⏳1Y](https://github.com/prologic/autodock) - Daemon for Docker Automation by [@prologic][prologic]
-* [blimp ★18 ⏳2Y](https://github.com/tubesandlube/blimp) - Uses Docker Machine to easily move a container from one Docker host to another, show containers running against all of your hosts, replicate a container across multiple hosts and more. By [@defermat](https://github.com/defermat) and [@schvin](https://github.com/schvin)
+* [blimp ★18 ⏳2Y](https://github.com/tubesandlube/blimp) - Uses Docker Machine to easily move a container from one Docker host to another, show containers running against all of your hosts, replicate a container across multiple hosts and more by [@defermat](https://github.com/defermat) and [@schvin](https://github.com/schvin)
 * [Capitan ★15](https://github.com/byrnedo/capitan) - Composable docker orchestration with added scripting support by [@byrnedo](https://github.com/byrnedo).
 * [CloudSlang](http://www.cloudslang.io/) - CloudSlang is a workflow engine to create Docker process automation
-* [clusterdock ★6](https://github.com/clusterdock/framework) - Docker container orchestration to enable the testing of long-running cluster deployments.
-* [ContainerShip ★161](https://github.com/containership/containership) A simple container management platform [containership]
-* [CoreOS][coreos] - Linux for Massive Server Deployments https://coreos.com/
+* [clusterdock ★6](https://github.com/clusterdock/framework) - Docker container orchestration to enable the testing of long-running cluster deployments
+* [ContainerShip ★161](https://github.com/containership/containership) A simple container management platform
+* [CoreOS][coreos] - Linux for Massive Server Deployments
 * [Crane ★648](https://github.com/Dataman-Cloud/crane) - Control plane based on docker built-in swarm [@Dataman-Cloud](https://github.com/Dataman-Cloud)
 * [Deploying a Containerized App on a Public Node with Mesos](https://docs.mesosphere.com/usage/tutorials/containerized-app/) - Docker plus Mesosphere provides an easy way to automate and scale deployment of containers in a production environment
-* [ElasticKube ★159](https://github.com/ElasticBox/elastickube) - Open source management platform for Kubernetes.
-* [Fleet ★2397](https://github.com/coreos/fleet) - A Distributed init System providing low-level orchestration [coreos.com]
+* [ElasticKube ★159](https://github.com/ElasticBox/elastickube) - Open source management platform for Kubernetes
+* [Fleet ★2397](https://github.com/coreos/fleet) - A Distributed init System providing low-level orchestration by [@coreos](https://github.com/coreos)
 * [Flocker ★2802](https://github.com/ClusterHQ/flocker) - Flocker is a data volume manager and multi-host Docker cluster management tool by [@ClusterHQ](https://github.com/ClusterHQ)
+* [gantryd ★278](https://github.com/DevTable/gantryd) - A framework for easy management of docker-based components across machines by [@DevTable](https://github.com/DevTable)
 * [Haven ★91](https://github.com/codeabovelab/haven-platform) - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By [@codeabovelab](https://github.com/codeabovelab)
+* [Helios ★1780](https://github.com/spotify/helios) - A simple platform for deploying and managing containers across an entire fleet of servers by [@spotify](spotify)
 * [Kontena ★1109](https://github.com/kontena/kontena) - Application Containers for Masses https://www.kontena.io/
 * [Kubernetes][kubernetes] - Open source orchestration system for Docker containers by Google [kubernetes] See Also [awesome-kubernetes ★926](https://github.com/ramitsurana/awesome-kubernetes) by [@ramitsurana][ramitsurana]
 * [Maestro ★616 ⏳3Y](https://github.com/toscanini/maestro) - Maestro provides the ability to easily launch, orchestrate and manage mulitiple Docker containers as single unit by [@tascanini](https://github.com/toscanini)
-* [Mantl ★2913](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services [@mantl](https://github.com/mantl/)
-* [Marathon](https://mesosphere.github.io/marathon/docs/) - Marathon is a private PaaS built on Mesos. It automatically handles hardware or software failures and ensures that an app is "always on")
-* [MCollective Docker Agent ★4 ⏳1Y](https://github.com/m4ce/mcollective-docker-agent) - Uses MCollective to orchestrate your Docker containers and images [@m4ce](https://github.com/m4ce)
-* [Nomad Project](https://www.nomadproject.io/) - Easily deploy applications at any scale. A Distributed, Highly Available, Datacenter-Aware Scheduler.
+* [Mantl ★2913](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
+* [Marathon](https://mesosphere.github.io/marathon/docs/) - Marathon is a private PaaS built on Mesos. It automatically handles hardware or software failures and ensures that an app is "always on"
+* [MCollective Docker Agent ★4 ⏳1Y](https://github.com/m4ce/mcollective-docker-agent) - Uses MCollective to orchestrate your Docker containers and images by  [@m4ce](https://github.com/m4ce)
+* [Nomad ★2474](https://github.com/hashicorp/nomad) - Easily deploy applications at any scale. A Distributed, Highly Available, Datacenter-Aware Scheduler by [@hashicorp](https://github.com/hashicorp)
 * [Panamax ★1405 ⏳1Y](https://github.com/CenturyLinkLabs/panamax-ui) - An open-source project that makes deploying complex containerized apps as easy as Drag-and-Drop by [@CenturyLinkLabs][CenturyLinkLabs].
 * [Portainer](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker host or Docker Swarm cluster (previously [DockerUI ★4685](https://github.com/kevana/ui-for-docker) by [@kevana](https://github.com/kevana))
 * [Rancher ★6038](https://github.com/rancher/rancher) - An open source project that provides a complete platform for operating Docker in production by [@rancher][rancher].
 * [Serf ★4008](https://github.com/hashicorp/serf) - Service orchestration and management tool by [@hashicorp](https://github.com/hashicorp)
-* [Shipyard ★5962](https://github.com/shipyard/shipyard) - Composable Docker Management https://shipyard-project.com/
+* [Shipyard ★5962](https://github.com/shipyard/shipyard) - Composable Docker Management
 
 ## Reverse Proxy
 * [docker-proxy ★143 ⏳1Y](https://github.com/silarsis/docker-proxy) - Transparent proxy for docker containers, run in a docker container. By [@silarsis](https://github.com/silarsis)
@@ -380,6 +382,7 @@ Services to securely store your Docker images.
 * [Træfɪk ★8153](https://github.com/containous/traefik) - Automated reverse proxy and load-balancer for Docker, Mesos, Consul, Etcd... By [@EmileVauge](https://github.com/emilevauge)
 
 ## Security
+* [CIS Docker Benchmark ★46](https://github.com/dev-sec/cis-docker-benchmark) - This [InSpec][inspec] compliance profile implement the CIS Docker 1.12.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment. By [@dev-sec](https://github.com/dev-sec)
 * [Clair ★2226](https://github.com/coreos/clair) - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By [@coreos][CoreOS]
 * [docker-bench-security ★2307](https://github.com/docker/docker-bench-security) - script that checks for dozens of common best-practices around deploying Docker containers in production. By [@docker][docker]
 * [notary ★861](https://github.com/docker/notary) - a server and a client for running and interacting with trusted collections. By [@docker][docker]
@@ -412,7 +415,7 @@ Services to securely store your Docker images.
 * [Giant Swarm](https://giantswarm.io/) - Simple microservice infrastructure. Deploy your containers in seconds.
 * [Google Container Engine](https://cloud.google.com/container-engine/docs/) - Docker containers on Google Cloud Computing powered by [Kubernetes][kubernetes].
 * [Hyper_](https://hyper.sh/) - Secure container hosting service with "nano-containers" and per-second billing.
-* [IBM Bluemix Container Service](https://console.ng.bluemix.net/docs/containers/container_index.html) - Run Docker containers in a hosted cloud environment on IBM Bluemix.
+* [IBM Bluemix Container Service](https://console.bluemix.net/docs/containers/container_index.html) - Run Docker containers in a hosted cloud environment on IBM Bluemix.
 * [OpenShift Dedicated](https://www.openshift.com/dedicated/index.html) - A hosted [OpenShift][openshift] cluster for running your Docker containers managed by Red Hat.
 * [Orchard](https://www.orchardup.com/) (part of Docker Inc) - Get a Docker host in the cloud, instantly.
 * [Sloppy.io](https://sloppy.io/) - all-in-one solution for container deployment and hosting – made and hosted in Germany
@@ -455,7 +458,7 @@ Services to securely store your Docker images.
 * [docker-replay ★44](https://github.com/bcicen/docker-replay) - Generate `docker run`command and options from running containers. By [bcicen](https://github.com/bcicen)
 * [docker-volumes ★381 ⏳1Y](https://github.com/cpuguy83/docker-volumes) - Docker Volume Manager by [@cpuguy83][cpuguy83]
 * [dockerize ★1189](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers by [@jwilder][jwilder]
-* [Dockly ★186](https://github.com/swipely/dockly) - Dockly is a gem made to ease the pain of packaging an application in Docker by [@swipely](https://github.com/swipely/)
+* [Dockly ★186 ⏳1Y](https://github.com/swipely/dockly) - Dockly is a gem made to ease the pain of packaging an application in Docker by [@swipely](https://github.com/swipely/)
 * [dockramp ★254 ⏳1Y](https://github.com/jlhawn/dockramp) - Proof of Concept: A Client Driven Docker Image Builder by [@jlhawn](https://github.com/jlhawn)
 * [draw-compose ★33](https://github.com/Alexis-benoist/draw-compose) - Utility to draw a schema of a docker compose by [@Alexis-benoist](https://github.com/Alexis-benoist)
 * [Dropdock](http://dropdock.io/) - A framework designed for Drupal to build fast, isolated development environments using Docker.
@@ -641,6 +644,7 @@ Services to securely store your Docker images.
 [gondor]: https://github.com/gondor
 [grammarly]: https://github.com/grammarly
 [ianmiell]: https://github.com/ianmiell
+[inspec]: https://github.com/chef/inspec
 [JensPiegsa]: https://github.com/JensPiegsa
 [jessblog]: https://blog.jessfraz.com/post/docker-containers-on-the-desktop/
 [jessvid]: https://www.youtube.com/watch?v=1qlLUf7KtAw
@@ -670,11 +674,13 @@ Services to securely store your Docker images.
 [sebgoa]: https://twitter.com/sebgoa
 [sematext]: https://twitter.com/sematext
 [sindresorhus]: https://github.com/sindresorhus/awesome
+[spotify]: https://github.com/spotify
 [spm]: https://github.com/sematext/sematext-agent-docker
 [vegasbrianc]: https://github.com/vegasbrianc
 [vimagick]: https://github.com/vimagick
 [weave]: https://github.com/weaveworks/weave
 [wsargent]: https://github.com/wsargent
+
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/veggiemonk/awesome-docker">veggiemonk/awesome-docker</a> with ranks

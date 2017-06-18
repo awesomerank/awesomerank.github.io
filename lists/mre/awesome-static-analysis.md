@@ -207,7 +207,7 @@ This is a collection of static analysis tools and code quality checkers.
 * [Parse ★154](https://github.com/psecio/parse) - A Static Security Scanner
 * [phan ★2128](https://github.com/etsy/phan) - a modern static analyzer from etsy
 * [Php Inspections (EA Extended) ★244](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP.
-* [PHP Refactoring Browser ★544](https://github.com/QafooLabs/php-refactoring-browser) - Refactoring helper
+* [PHP Refactoring Browser ★544 ⏳1Y](https://github.com/QafooLabs/php-refactoring-browser) - Refactoring helper
 * [PHP-Parser ★2873](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 * [PHP-Token-Reflection ★186](https://github.com/Andrewsville/PHP-Token-Reflection) - Library emulating the PHP internal reflection
 * [php7cc ★1036](https://github.com/sstalle/php7cc) - PHP 7 Compatibility Checker

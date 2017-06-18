@@ -197,6 +197,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 - [OmniOutliner](https://www.omnigroup.com/omnioutliner/) - Perfect for collecting information, outlining ideas, adding structure to any sort of writing, and much more.
 - [Paste](http://pasteapp.me) - The new way to copy & paste for Mac.
 - [PopClip](http://pilotmoon.com/popclip/) - Instantly copy & paste, access actions like search, spelling, dictionary and more.
+- [Qbserve](https://qotoqot.com/qbserve/) - Automatic time and project tracking, timesheets, invoicing, and real-time productivity feedback.
 - [Quicksilver](https://qsapp.com/) - Control your Mac quickly and elegantly. [![Open-Source Software][OSS Icon] ★2164](https://github.com/quicksilver/Quicksilver) ![Freeware][Freeware Icon]
 - [Rocket](http://matthewpalmer.net/rocket/) - Makes typing emoji faster and easier using Slack-style shortcuts. ![Freeware][Freeware Icon]
 - [SelfControl](https://selfcontrolapp.com/) - Block access to distracting websites. [![Open-Source Software][OSS Icon] ★2173](https://github.com/SelfControlApp/selfcontrol) ![Freeware][Freeware Icon]
@@ -204,6 +205,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 - [TaskPaper](https://www.taskpaper.com/) - Plain text to-do lists.
 - [Telephone](http://www.64characters.com/telephone/) - A SIP softphone. Make phone calls over the Internet or your company’s network. [![Open-Source Software][OSS Icon]](https://github.com/eofster/Telephone) ![Freeware][Freeware Icon]
 - [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
+- [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
 
 
 ### Sharing Files

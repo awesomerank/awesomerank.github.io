@@ -39,6 +39,7 @@ Made with Electron.
 
 ###### Featured
 
+- [Beaker ★1368](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
 - [Hyper ★16996](https://github.com/zeit/hyper) - Terminal.
 - [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
 - [Kap ★4900](https://github.com/wulkano/kap) - Screen recorder with GIF support.
@@ -66,7 +67,6 @@ Made with Electron.
 - [SmartMirror ★1907](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
 - [KeeWeb ★4910](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
-- [Soundcast ★650](https://github.com/andresgottlieb/soundcast) - Cast macOS audio to Chromecast from your menubar.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
 - [Friends ★2751](https://github.com/moose-team/friends) - P2P chat.
 - [Cumulus ★795](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
@@ -82,7 +82,7 @@ Made with Electron.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
 - [Leanote ★950](https://github.com/leanote/desktop-app) - Cloud notepad.
 - [Snapper ★78 ⏳1Y](https://github.com/prt2121/Snapper) - Screen capturing & recording for Android devices.
-- [Imagemin ★619](https://github.com/imagemin/imagemin-app) - Minify images.
+- [Imagemin ★619 ⏳1Y](https://github.com/imagemin/imagemin-app) - Minify images.
 - [We Build SG ★37](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
 - [Piglet ★61 ⏳1Y](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar.
 - [Yoda ★305](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
@@ -103,7 +103,7 @@ Made with Electron.
 - [Sia-UI](http://sia.tech) - Decentralized file storage system based on cryptocurrency technology.
 - [MarkRight ★865](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
 - [Mongotron ★2169](https://github.com/officert/mongotron) - MongoDB management tool.
-- [Colonizers ★106 ⏳1Y](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
+- [Colonizers ★106 ⏳2Y](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
 - [Eintopf ★55 ⏳1Y](https://github.com/mazehall/eintopf) - Manage development projects with Docker.
 - [WhatsDesktop ★185](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
 - [Sqlectron ★1377](https://github.com/sqlectron/sqlectron-gui) - SQL client.
@@ -135,7 +135,6 @@ Made with Electron.
 - [Catify ★38](https://github.com/MeoBeoI/Catify) - Utility for Spotify.
 - [Minira ★68](https://github.com/jenslind/minira) - JIRA issues in your menubar.
 - [Ansel ★57](https://github.com/m0g/ansel) - Image organizer.
-- [Cuttle ★322](https://github.com/oakmac/cuttle) - UI for the ClojureScript compiler.
 - [Build Checker App ★35](https://github.com/willmendesneto/build-checker-app) - Check CI-server build statuses.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost ★741](https://github.com/tryghost/ghost-desktop) - Professional publishing platform.

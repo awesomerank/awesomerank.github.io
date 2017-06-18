@@ -101,8 +101,9 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [indiscipline/zrtstr ★2](https://github.com/indiscipline/zrtstr) — a command line utility for checking if stereo wav files are faux-stereo (i.e. have identical channels) and converting such files to mono. [<img src="https://travis-ci.org/indiscipline/zrtstr.svg?branch=master">](https://travis-ci.org/indiscipline/zrtstr)
 * **Database**
   * [pingcap/tikv ★1842](https://github.com/pingcap/tikv) — a distributed KV database in Rust [<img src="https://travis-ci.org/pingcap/tikv.svg?branch=master">](https://travis-ci.org/pingcap/tikv)
+  * [PumpkinDB ★736](https://github.com/PumpkinDB/PumpkinDB) — an event sourcing database engine [<img src="https://travis-ci.org/PumpkinDB/PumpkinDB.svg?branch=master">](https://travis-ci.org/PumpkinDB/PumpkinDB)
   * [seppo0010/rsedis ★1045](https://github.com/seppo0010/rsedis) — a Redis reimplementation in Rust [<img src="https://travis-ci.org/seppo0010/rsedis.svg?branch=master">](https://travis-ci.org/seppo0010/rsedis)
-  * [PumpkinDB/PumpkinDB ★736](https://github.com/PumpkinDB/PumpkinDB) — an event sourcing database engine [<img src="https://travis-ci.org/PumpkinDB/PumpkinDB.svg?branch=master">](https://travis-ci.org/PumpkinDB/PumpkinDB)
+
 * **Emulators** [[emulator](https://crates.io/keywords/emulator)]
   * Commodore 64
     * [kondrak/rust64 ★64 ⏳1Y](https://github.com/kondrak/rust64) — [<img src="https://travis-ci.org/kondrak/rust64.svg?branch=master">](https://travis-ci.org/kondrak/rust64)
@@ -234,7 +235,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 
 ### FFI
 
-See also [Foreign Function Interface](https://doc.rust-lang.org/book/ffi.html),  [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) (a collection of examples of using code written in Rust from other languages) and [FFI examples written in Rust ★202 ⏳1Y](https://github.com/alexcrichton/rust-ffi-examples).
+See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-edition/ffi.html),  [The Rust FFI Omnibus](http://jakegoulding.com/rust-ffi-omnibus/) (a collection of examples of using code written in Rust from other languages) and [FFI examples written in Rust ★202 ⏳1Y](https://github.com/alexcrichton/rust-ffi-examples).
 
 * C
   * [Sean1708/rusty-cheddar ★154](https://github.com/Sean1708/rusty-cheddar) — generates C header files from Rust source files [<img src="https://travis-ci.org/Sean1708/rusty-cheddar.svg?branch=master">](https://travis-ci.org/Sean1708/rusty-cheddar)
@@ -265,6 +266,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/ffi.html), 
   * [SSheldon/rust-objc ★99](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 * Python
   * [dgrunwald/rust-cpython ★482](https://github.com/dgrunwald/rust-cpython) — Python bindings [<img src="https://travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
+  * [mitsuhiko/snaek ★165](https://github.com/mitsuhiko/snaek) — helps to build Rust libraries and bridge them to Python with the help of cffi. [<img src="https://travis-ci.org/mitsuhiko/snaek.svg?branch=master">](https://travis-ci.org/mitsuhiko/snaek)
   * [PyO3/PyO3 ★27](https://github.com/PyO3/PyO3) - CPython Rust binding (a fork of rust-cpython) [<img src="https://travis-ci.org/PyO3/PyO3.svg?branch=master">](https://travis-ci.org/PyO3/PyO3)
 * R
   * [rustr/rustr ★79](https://github.com/rustr/rustr) — use Rust from R, and use R in Rust [<img src="https://travis-ci.org/rustr/rustr.svg?branch=master">](https://travis-ci.org/rustr/rustr)

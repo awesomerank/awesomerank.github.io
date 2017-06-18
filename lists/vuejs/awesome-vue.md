@@ -263,6 +263,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [5 Practical Examples For Learning Vue.js](http://tutorialzine.com/2016/03/5-practical-examples-for-learning-vue-js/)
 - [Migrating from KnockoutJS to VueJS](https://jes.al/2017/05/migrating-from-knockoutjs-to-vuejs/) by [@jesalg](https://twitter.com/jesalg)
 - [Create a quiz with Vue.js](https://medium.com/@rap2h/create-a-quiz-with-vue-js-ed1e8e0e8294) by [@rap2h](https://twitter.com/rap2h)
+- [Vue.js: Getting Started](https://ecofic.com/courses/vue-getting-started/) by [@chadcampbell](https://twitter.com/chadcampbell)
 
 ### Examples
 
@@ -398,6 +399,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Goldfish ★483](https://github.com/Caiyeon/goldfish) - A HashiCorp Vault UI built with VueJS, Golang, and Bulma CSS
 - [Adminify ★45](https://github.com/wxs77577/adminify) - An Admin dashboard based on [Vuetify](https://vuetifyjs.com/), check the [Online Demo](http://adminify.genyii.com)
 - [promptie ★17](https://github.com/alicin/promptie) - A framework written in Vue.js for creating command-line like interfaces in web browsers.
+- [Hare ★7](https://github.com/clarkdo/hare) - 🐇 Application boilerplate based on Vue.js 2.x, Koa 2.x, Element-UI and Nuxt.js
 
 ### Commercial Products
 
@@ -508,6 +510,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [ZenMate](https://zenmate.com)
  - [Codeship](https://blog.codeship.com/consider-vuejs-next-web-project/)
  - [Storyblok](https://app.storyblok.com)
+ - [Monito](https://www.monito.com) - Building the Booking.com for international money transfers
 
 
 
@@ -585,6 +588,7 @@ Tooltips / popovers
 - [vodal ★90](https://github.com/chenjiahan/vodal) - A vue modal with animations.
 - [vue-image-lightbox ★10](https://github.com/pexea12/vue-image-lightbox) - A Vue image lightbox/gallery to display images nicely.
 - [vue2-simplert ★28](https://github.com/mazipan/vue2-simplert) - Vue 2 Simple Alert Component (SweetAlert Inspired) By Irfan Maulana
+- [Vue-Semantic-Modal ★2](https://github.com/David-Desmaisons/Vue-Semantic-Modal) - Vue 2 Semantic-UI modal component without jQuery dependency
 
 ### Parallax
 
@@ -895,6 +899,7 @@ Tooltips / popovers
  - [yuche/vue-strap ★3914](https://github.com/yuche/vue-strap) - Bootstrap 3 components built with Vue.js 1
  - [wffranco/vue-strap ★200](https://github.com/wffranco/vue-strap) - Bootstrap 3 components built with Vue.js 2
  - [N3-components ★646](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
+ - [jsmod-vue-pc ★29](https://github.com/chaogao/jsmod-pc-vue) - [Chinese] Highly scalable web components for vue 2.0
 
 ###### Mobile
 
@@ -1219,6 +1224,7 @@ Tooltips / popovers
 ## Dev Tools
 
  - [vue-dev-server ★14](https://github.com/paulpflug/vue-dev-server) - A small development server for building `vue` components.
+ - [vuepack.org](http://vuepack.org) - A simple page that allows you to select Vue components and download them as a single minified JS file.
 
 ### Inspect
 

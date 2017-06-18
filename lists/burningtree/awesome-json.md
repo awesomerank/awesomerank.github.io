@@ -111,7 +111,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 * [JSONPatch](http://jsonpatch.com/) - A format for describing changes to a document.
 * [JSON-Patch ★590](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). (Javascript)
 * [jiff ★282](https://github.com/cujojs/jiff) - JSON Patch and diff based on rfc6902. (Javascript)
-* [json-patch-php ★56](https://github.com/mikemccabe/json-patch-php) - implementation of JSON-patch (IETF RFC 6902) (PHP)
+* [json-patch-php ★56 ⏳1Y](https://github.com/mikemccabe/json-patch-php) - implementation of JSON-patch (IETF RFC 6902) (PHP)
 * [dffptch ★157](https://github.com/paldepind/dffptch) - A micro library for diffing and patching using a compact diff format. (Javascript)
 * [jsondiffpatch ★1981](https://github.com/benjamine/jsondiffpatch) - Diff & patch for JavaScript objects. (Javascript)
 

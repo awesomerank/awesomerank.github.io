@@ -124,7 +124,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
 * [johnpapa's opinionated sg for  AngularJS ★22704](https://github.com/johnpapa/angular-styleguide)
 * [mgechev's community best practices ★4912](https://github.com/mgechev/angularjs-style-guide)
-* [srph's AngularJS structure sg ★283](https://github.com/srph/angularjs-structure-styleguide)
+* [srph's AngularJS structure sg ★283 ⏳1Y](https://github.com/srph/angularjs-structure-styleguide)
 * [Todd Motto's for AngularJS ★5629](https://github.com/toddmotto/angularjs-styleguide)
   * [jmcunningham's fork ★240 ⏳2Y](https://github.com/jmcunningham/angularjs-styleguide)
 

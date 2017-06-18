@@ -44,7 +44,7 @@ place to ask about it might be in [ipfs/apps ★38](https://github.com/ipfs/apps
 * [beets ★5884](https://github.com/beetbox/beets) - Beets has a plugin which allows for easy sharing of music libraries using IPFS
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub ★133](https://github.com/fazo96/ipfs-boards)
-* [Cohort ★15](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
+* [Cohort ★15 ⏳1Y](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github ★95](https://github.com/madvas/ethlance)
@@ -97,7 +97,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipfs-linux-service ★31 ⏳2Y](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 * [ipfs-paste ★16 ⏳1Y](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 * [ipfs-screencap ★25](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
-* [ipfscrape ★95](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
+* [ipfscrape ★95 ⏳1Y](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 * [ipget ★56](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.
 * [IPRedirect ★0](https://github.com/JayBrown/IPRedirect) - Browser userscript for redirecting IPFS/IPNS addresses to your local gateway. This should work on any browser that hasn’t had an extension written for it yet and has support for userscripts.
 * [ipscend ★130](https://github.com/diasdavid/ipscend) - Tool for hosting web apps and static websites in IPFS

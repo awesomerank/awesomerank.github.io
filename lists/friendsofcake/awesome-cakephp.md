@@ -109,7 +109,7 @@ Additional lists you might find useful:
 - [ADmad/HybridAuth plugin](https://github.com/ADmad/CakePHP-HybridAuth) - A plugin which allows using the [HybridAuth ★2439](https://github.com/hybridauth/hybridauth) social sign on library with CakePHP.
 - [ADmad/JwtAuth plugin ★98](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 - [CookieAuth plugin ★14](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
-- [HierAuth plugin ★3](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
+- [HierAuth plugin ★3 ⏳1Y](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
 - [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client` ★1606](https://github.com/thephpleague/oauth2-client).
 - [Muffin/Tokenize plugin ★3](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens.
 - [MultiTenant plugin ★23](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.

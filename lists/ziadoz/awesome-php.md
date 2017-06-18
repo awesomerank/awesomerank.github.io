@@ -395,7 +395,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Metrics ★1141](https://github.com/phpmetrics/PhpMetrics) - A static metric library.
 * [PHP Migration ★90](https://github.com/monque/PHP-Migration) - A static analyzer for PHP version migration.
 * [PHP Parser ★2873](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
-* [PHP Refactoring Browser ★544](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
+* [PHP Refactoring Browser ★544 ⏳1Y](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [PHP Semantic Versioning Checker ★361](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
 * [phan ★2128](https://github.com/etsy/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 * [PHPCheckstyle ★83](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
@@ -449,7 +449,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Bob ★96 ⏳3Y](https://github.com/CHH/bob) - A simple project automation tool.
 * [Box ★1019](https://github.com/box-project/box2) - A utility to build PHAR files.
 * [Construct ★214](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
-* [Phake ★380](https://github.com/jaz303/phake) - A rake PHP clone library.
+* [Phake ★380 ⏳1Y](https://github.com/jaz303/phake) - A rake PHP clone library.
 * [Phing](https://www.phing.info/) - A PHP project build system inspired by Apache Ant.
 
 ## Task Runners
@@ -794,7 +794,7 @@ Libraries to help manage database schemas and migrations.
 * [JSON Lint ★234](https://github.com/Seldaek/jsonlint) - A JSON lint utility.
 * [JSONPCallbackValidator ★41](https://github.com/willdurand/JsonpCallbackValidator) - A library for validating JSONP callbacks.
 * [Jumper ★40 ⏳3Y](https://github.com/kakawait/Jumper) - A remote service executor library.
-* [LadyBug ★443](https://github.com/raulfraile/Ladybug) - A dumper library.
+* [LadyBug ★443 ⏳1Y](https://github.com/raulfraile/Ladybug) - A dumper library.
 * [Lambda PHP ★19 ⏳3Y](https://github.com/igorw/lambda-php) - A Lambda calculus interpreter in PHP.
 * [LiteCQRS ★470 ⏳2Y](https://github.com/beberlei/litecqrs-php) - A CQRS (Command Query Responsibility Separation) library.
 * [Metrics ★192](https://github.com/beberlei/metrics) - A simple metrics API library.

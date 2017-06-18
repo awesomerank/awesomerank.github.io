@@ -241,7 +241,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 #### Administrative Tools
 
 - [Chateau ★162](https://github.com/neumino/chateau) - Another (awesome) data explorer for RethinkDB.
-- [RethinkDB CLI ★14](https://github.com/athlite/rethinkdb-cli) - CLI and REPL for Rethinkdb.
+- [RethinkDB CLI ★14 ⏳1Y](https://github.com/athlite/rethinkdb-cli) - CLI and REPL for Rethinkdb.
 - [RethinkDB Nightly ★37](https://github.com/robconery/rethinkdb_nightly) - A node module that will execute a nightly backup and push it to S3.
 
 #### Deployment
@@ -249,7 +249,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 - [Vagrant ★47 ⏳1Y](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant.
 - [Puppet ★5 ⏳2Y](https://github.com/tmont/puppet-rethinkdb) - Puppet module for RethinkDB.
 - [Chef ★16 ⏳3Y](https://github.com/AVVSDevelopment/chef-rethinkdb) - Chef RethinkDB cookbook.
-- [Wrecker ★10 ⏳1Y](https://github.com/mies/box-rethinkdb) - Wercker box for RethinkDB.
+- [Wrecker ★10 ⏳2Y](https://github.com/mies/box-rethinkdb) - Wercker box for RethinkDB.
 - [Docker](https://github.com/crosbymichael/Dockerfiles/blob/master/rethinkdb/Dockerfile) - Single node Dockerfile.
 
 <br>

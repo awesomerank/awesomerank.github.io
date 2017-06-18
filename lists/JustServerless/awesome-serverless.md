@@ -558,6 +558,10 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Reuters replaced WebSockets with Cognito and SQS](https://serverless.com/blog/how-reuters-replaced-websockets-with-amazon-cognito-and-sqs/) - How Reuters replaced WebSockets with AWS Cognito and SQS.
 - [Serverless CI with CodeBuild and CodePipeline - Part 1](https://cloudncode.blog/2017/06/13/serverless-ci-part-1-getting-started-with-aws-codebuild/) - Part 1 of the blog post series on Serverless CI with AWS CodeBuild and AWS CodePipeline.
 - [AWS serverless architecture issues and caveats](http://searchaws.techtarget.com/feature/Work-through-AWS-serverless-architecture-issues-and-caveats) - Q & A with Peter Sbarski on issues and caveats when building serverless applications on AWS.
+- [AWS Tutorial: Intro to using Lambda with the Serverless framework](https://www.thorntech.com/2017/02/aws-tutorial-intro-using-lambda-serverless-framework/) - Use Serverless to create a REST API with Node.js and Lambda.
+- [AWS Step Functions using .Net Core](http://vgaltes.com/serverless/step-functions-using-net-core/) - How to use AWS Step Functions with a .Net Core runtime and the the Serverless Framework.
+- [First speakers announced for JeffConf](https://serverless.zone/first-speakers-announced-for-jeffconf-c7afbbe9bc4d) - Announcement blog post of the first speakers at JeffCon 2017.
+- [What's up with serverless frameworks](https://redmonk.com/jgovernor/2017/06/16/so-about-openwhisk-progress-whats-up-with-serverless-frameworks/) - A look at the status quo of different serverless frameworks.
 
 ## Screencasts
 
@@ -589,6 +593,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Building a development workflow for serverless applications](https://www.youtube.com/watch?v=e3lreqpWN0A) - Webinar about development workflows for serverless applications.
 - [What's new in Serverless v1.14](https://www.youtube.com/watch?v=FYs5CMFjFdc) - Video walkthrough about all the new features of Serverless v1.14.
 - [What's new in Serverless v1.15](https://www.youtube.com/watch?v=o1-vyHJ9J8Y) - Video walkthrough about all the new features in Serverless v1.15.
+- [Create a website and API with AWS Lambda](https://www.youtube.com/watch?v=xhkAd-yJwa8) - Create a simple website using Serverless architecture with API Gateway, Lambda, S3, and DynamoDB.
+- [Serverless Framework tutorial series](https://www.youtube.com/watch?v=lUTGk64jppM&list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3) - Tutorial series which covers the Serverless Framework.
 
 ## Talks
 
@@ -697,6 +703,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless microservices](https://speakerdeck.com/davidwells/serverless-microservices) - Talk on serverless computing and serverless architectures.
 - [Serverless on Kubernetes](https://softwareengineeringdaily.com/2017/06/12/serverless-on-kubernetes-with-soam-vasani/) - Podacst about serverless on Kubernetes with Soam Vasani.
 - [How Serverless is shaping the future of software development](https://thenewstack.io/serverless-shaping-future-software-development/) - Podcast which discusses the future of software development and serverless architectures with Symphonia co-founder Mike Roberts.
+- [The state of serverless](https://speakerdeck.com/mthenw/the-state-of-serverless-1) - Slide deck about the talk on the state of serverless held at DevOps Con 2017.
+- [OpenWhisk, Bluemix, and Event-Driven architectures in the cloud](https://thenewstack.io/openwhisk-bluemix-event-driven-architectures-cloud/) - Podcast about the future of serverless technologies with Jason McGee, VP and CTO of IBM Cloud Platform.
 
 ## Amazon AWS resources
 
@@ -732,7 +740,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Cortex ★0 ⏳1Y](https://github.com/namastereid/cortex) - Cortex project.
 - [Protocol service ★0 ⏳1Y](https://github.com/Backfeed/protocol-service) - Protocol service.
 - [Cat facts ★7 ⏳1Y](https://github.com/ryansb/serverless-cat-facts) - Example how to use Serverless with Python.
-- [Notes ★8](https://github.com/JustServerless/notes) - Note taking application written for the ["Learn Serverless"](http://learnserverless.club) book.
+- [Notes ★8 ⏳1Y](https://github.com/JustServerless/notes) - Note taking application written for the ["Learn Serverless"](http://learnserverless.club) book.
 - [Aquest](https://github.com/dherault/Aquest) - Demo application.
 - [Hello world ★1 ⏳1Y](https://github.com/bart-blommaerts/serverless_helloworld) - Hello World application.
 - [Garage ★4 ⏳1Y](https://github.com/bart-blommaerts/serverless_garage) - Managing cars.
@@ -1202,7 +1210,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Dependency install ★5](https://github.com/99xt/serverless-dependency-install) - Serverless plugin for managing dependencies.
 - [DynamoDB local ★74](https://github.com/99xt/serverless-dynamodb-local) - Use DynamoDB locally with Serverless.
 - [Cognito manager ★23](https://github.com/trek10inc/serverless-cognito-manager) - Easy cognito management for Serverless projects.
-- [Hook scripts ★4](https://github.com/kennu/serverless-plugin-hookscripts) - Run code whenever a Serverless action is run.
+- [Hook scripts ★4 ⏳1Y](https://github.com/kennu/serverless-plugin-hookscripts) - Run code whenever a Serverless action is run.
 - [Header function ★1](https://github.com/blackevil245/serverless-header-function) - Automatically run a JavaScript script on every Serverless action hooks.
 - [Runtime Node.js 6.10 ★1](https://github.com/creditiq/serverless-runtime-node610) - Support for the Node.js 6.10 runtime.
 - [Swagger export ★10](https://github.com/kennu/serverless-plugin-swagger-export) - Generate a Swagger JSON definition from your Serverless project.

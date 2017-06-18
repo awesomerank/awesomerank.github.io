@@ -134,7 +134,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Animated_GIF ★147](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs
 - [Gifffer ★537](https://github.com/krasimir/gifffer) JavaScript library that prevents the autoplaying of the animated GIFs
 - [Gifplayer ★317](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs
-- [Jsgif ★371](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player
+- [Jsgif ★371 ⏳1Y](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player
 - [node-gify ★207 ⏳1Y](https://github.com/tj/node-gify) - Javascript convert videos to GIFs using ffmpeg and gifsicle
 - [Gifencoder ★172 ⏳1Y](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js
 - [Gif-video ★56 ⏳3Y](https://github.com/hughsk/gif-video) - Javascript Convert a GIF image into an HTML5-ready video

@@ -9,13 +9,11 @@ title: Awesome Rank for johnjago/awesome-free-software
 ---
 # Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome free software and free software resources.
+[<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="115">](https://www.gnu.org/)
 
-> [What is free software?](https://www.gnu.org/philosophy/free-sw.html)
+>A curated list of free as in freedom software.
 
-<p align="center">
-  <img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU">
-</p>
+[What is free software?](https://www.gnu.org/philosophy/free-sw.html)
 
 ## Contents
 
@@ -42,8 +40,7 @@ A curated list of awesome free software and free software resources.
   - [Web Applications](#web-applications)
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
-- [Programming Tools](#programming-tools)
-  - [Frameworks](#frameworks)
+- [Frameworks](#frameworks)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Discovery](#discovery)
@@ -53,6 +50,7 @@ A curated list of awesome free software and free software resources.
   - [Talks](#talks)
 
 ## Applications
+> Download and use.
 
 ### Audio
 
@@ -171,6 +169,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ### Web Applications
 
 - [GitLab](https://about.gitlab.com/downloads/) - Web-based Git repository manager with wiki and issue tracking features. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
+- [Mastodon](https://mastodon.social) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
 - [MediaGoblin](http://mediagoblin.org/) - Media publishing platform. ([GNU AGPLv3](http://mediagoblin.org/))
 - [MediaWiki](https://www.mediawiki.org) - Wiki software with the ability to organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
@@ -191,9 +190,8 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [nginx](https://nginx.org/) - A HTTP and reverse proxy server, a mail proxy server, and a generic TCP/UDP proxy server. ([2-clause BSD-like license](https://nginx.org/LICENSE))
 - [ZeroNet](https://zeronet.io/) - Decentralized websites using Bitcoin cryptography and the BitTorrent network. ([GNU GPLv2](https://raw.githubusercontent.com/HelloZeroNet/ZeroNet/master/LICENSE))
 
-## Programming Tools
-
-### Frameworks
+## Frameworks
+> Free frameworks to build (hopefully) free software.
 
 - [Backbone.js](http://backbonejs.org/) - Provides a minimal structure for JavaScript in web applications. ([MIT](https://github.com/jashkenas/backbone/blob/master/LICENSE))
 - [Nano ★116 ⏳1Y](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
@@ -202,8 +200,8 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Articles
 
-- [Business models for open-source software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
-- [Free software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
+- [Business Models for Open-Source Software](https://en.wikipedia.org/wiki/Business_models_for_open-source_software)
+- [Free Software](https://en.wikipedia.org/wiki/Free_software) - Wikipedia entry on the topic of free software.
 - [Proprietary Software is Often Malware](https://www.gnu.org/proprietary/)
 - [Software Freedom](https://devuan.org/os/free-software) - Short, simple explanation of why free software is important.
 
@@ -238,14 +236,14 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Free Software for Digital India by Prof. Nagarjuna G](https://www.youtube.com/watch?v=O1A4UZqPtMQ)
 - [Free Software, Beyond Software by Agustín Benito at TEDxLaLaguna](https://www.youtube.com/watch?v=_2Qq072wIDk) (Español)
 - [Free Software, Free Society by Richard Stallman at TEDxGeneva 2014](https://www.youtube.com/watch?v=Ag1AKIl_2GM)
-- [I am not a free software guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
-- [Jeremy Allison talks about free software](https://www.youtube.com/watch?v=kNakHgHnSDI)
-- [John Sullivan talks about free software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
-- [Stephen Fry talks about free software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
+- [I Am Not a Free Software Guy by Wrishiraj Kaushik at TEDxSaraighat](https://www.youtube.com/watch?v=KQCC5oSfAYo)
+- [Jeremy Allison Talks About Free Software](https://www.youtube.com/watch?v=kNakHgHnSDI)
+- [John Sullivan Talks About Free Software](https://www.youtube.com/watch?v=uh_6PBv5Z2Y)
+- [Stephen Fry Talks About Free Software](https://www.youtube.com/watch?v=YGbMbF0mdPU)
 
 ## License
 
-![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/johnjago/awesome-free-software">johnjago/awesome-free-software</a> with ranks

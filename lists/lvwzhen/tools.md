@@ -17,6 +17,7 @@ title: Awesome Rank for lvwzhen/tools
 * [viewport-resizer](http://lab.maltewassermann.com/viewport-resizer/)
 * [Media Queri](http://mediaqueri.es/)
 * [Screensiz](http://screensiz.es/phone)
+* [Sizzy](http://sizzy.co)
 
 ### Placeholder
 

@@ -268,6 +268,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [d3-MQTT-Topic-Tree ★58](https://github.com/hardillb/d3-MQTT-Topic-Tree) - A MQTT Topic Tree viewer using the d3 collapsable tree and MQTT over websockets.
 * [HelloIoT ★1](https://github.com/adrianromero/helloiot) - HelloIoT is a MQTT client and dashboard application.
 * [HOMR-REACT ★4](https://github.com/klauserber/homr-react) - A configurable MQTT Visualization.
+* [Linear MQTT Dashboard ★19](https://github.com/ravendmaster/linear-mqtt-dashboard) - Easy, customizable control panel - MQTT-client.
 * [node-red-dashboard ★200](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED.
 * [mqtt2highcharts ★39](https://github.com/matbor/mqtt2highcharts) - plotting live numbered data from a subscribed mqtt topic using highcharts.
 * [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de) - Android App: With the app you can create dashboards for your MQTT enabled IoT Smart Home devices and applications.
