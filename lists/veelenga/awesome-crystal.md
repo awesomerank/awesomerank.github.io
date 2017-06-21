@@ -255,7 +255,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [charly](https://github.com/charly-lang) - Charly Programming Language
  * [cltk ★29](https://github.com/ziprandom/cltk) - A crystal port of the Ruby Language Toolkit
  * [cppize ★16](https://github.com/unn4m3d/cppize) - Crystal-to-C++ transpiler
- * [crisp ★17](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
+ * [crisp ★17 ⏳1Y](https://github.com/rhysd/Crisp) - Lisp dialect implemented with Crystal
  * [crow ★34](https://github.com/geppetto-apps/crow) - Transpile/compile Crystal to [Flow](https://flowtype.org/)
  * [NuummiteOS ★37](https://github.com/TheKernelCorp/NuummiteOS) - An OS written in Crystal as a Proof of Concept
  * [onix ★48](https://github.com/ozra/onyx-lang) - ONYX Programming Language

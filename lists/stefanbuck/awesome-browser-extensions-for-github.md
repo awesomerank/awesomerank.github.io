@@ -378,7 +378,7 @@ Allows you to toggle between the normal GitHub contribution chart and an isometr
 A Chrome extension for infinite scrolling on GitHub's commit pages.
 
 
-## [Lovely forks ★134](https://github.com/musically-ut/lovely-forks)
+## [Lovely forks ★134 ⏳1Y](https://github.com/musically-ut/lovely-forks)
 <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 

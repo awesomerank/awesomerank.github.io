@@ -562,6 +562,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWS Step Functions using .Net Core](http://vgaltes.com/serverless/step-functions-using-net-core/) - How to use AWS Step Functions with a .Net Core runtime and the the Serverless Framework.
 - [First speakers announced for JeffConf](https://serverless.zone/first-speakers-announced-for-jeffconf-c7afbbe9bc4d) - Announcement blog post of the first speakers at JeffCon 2017.
 - [What's up with serverless frameworks](https://redmonk.com/jgovernor/2017/06/16/so-about-openwhisk-progress-whats-up-with-serverless-frameworks/) - A look at the status quo of different serverless frameworks.
+- [Why we switched from Docker to serverless](https://serverless.com/blog/why-we-switched-from-docker-to-serverless/) - Why ShoutOUT switched from Docker container usage to a serverless architecture.
+- [Kicking the tires on this serverless thing](http://rob.conery.io/2017/06/05/serverless-is-a-thing/) - Post which evaluates different frameworks and use cases for serverless architectures and applications.
+- [Introduction to the Serverless Framework](http://www.developintelligence.com/blog/2017/06/introduction-serverless-framework/) - Tutorial which explains how to build an API with the Serverless Framework.
 
 ## Screencasts
 
@@ -705,6 +708,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [How Serverless is shaping the future of software development](https://thenewstack.io/serverless-shaping-future-software-development/) - Podcast which discusses the future of software development and serverless architectures with Symphonia co-founder Mike Roberts.
 - [The state of serverless](https://speakerdeck.com/mthenw/the-state-of-serverless-1) - Slide deck about the talk on the state of serverless held at DevOps Con 2017.
 - [OpenWhisk, Bluemix, and Event-Driven architectures in the cloud](https://thenewstack.io/openwhisk-bluemix-event-driven-architectures-cloud/) - Podcast about the future of serverless technologies with Jason McGee, VP and CTO of IBM Cloud Platform.
+- [The serverless revolution](https://changelog.com/podcast/253) - Podcast with Pam Selle about the serverless revolution happening for JavaScript developers.
+- [Skipping containers for serverless environments](https://thenewstack.io/skipping-containers-altogether-serverless-environments/) - Podcast on how and why enterprises adopt serverless technologies.
+- [The need for infrastructure tooling in the serverless ecosystem](https://thenewstack.io/need-infrastructure-tooling-serverless-ecosystem/) - Podcast which discusses the need for serverless infrastructure toolings.
 
 ## Amazon AWS resources
 
@@ -934,9 +940,12 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWS IAM manager ★20](https://github.com/netguru/aws-iam-manager) - AWS IAM Manager as code.
 - [SendToSlack ★2](https://github.com/optimizely/serverless-sendToSlack) - Send messages to a Slack channel.
 - [Slack Time Tracking Bot with Google Sheets ★1](https://github.com/ersel/time-tracker-slack-gsheets) - A Node.js application to help you keep track of time spent on manual tasks in a standardised way.
+- [Kinesis Streams fan-out ★18](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework).
+- [X-Ray ★1](https://github.com/e-r-w/serverless-xray-test) - Example service to test the AWS X-Ray integration.
 
 ## Related projects
 
+- [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
 - [DataFire ★71](https://github.com/DataFire/DataFire) - Open Integration Framework.
 - [AWS log parser ★6](https://github.com/rotemtam/serverless-aws-logs-parser) - Make sense of Lambda and API Gateway CloudWatch log files.
 - [IronFunctions ★1590](https://github.com/iron-io/functions) - The Serverless Microservices Platform.
@@ -992,6 +1001,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless Architectures on AWS code ★15](https://github.com/sbarski/serverless-architectures-aws) - The code repository for the Serverless Architectures on AWS book.
 - [Lambdacult](https://lambdacult.com) - Services on top of AWS Lambda.
 - [Scar ★5](https://github.com/grycap/scar) - Serverless Container-aware ARchitectures (e.g. Docker containers in AWS Lambda).
+- [Serverless Computing: Current Trends and open problems](https://arxiv.org/pdf/1706.03178.pdf) - Research paper on serverless computing.
 
 ## Plugins
 

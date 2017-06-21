@@ -196,7 +196,7 @@ Additional lists you might find useful:
 - [ADmad/I18n plugin ★20](https://github.com/ADmad/cakephp-i18n) - A plugin with I18n related tools.
 - [Localized plugin ★196](https://github.com/cakephp/localized) - Localized validation and ready-to-use translation PO files.
 - [ShadowTranslate plugin ★35](https://github.com/AD7six/cakephp-shadow-translate) - A plugin with shadow table based replacement for core's Translate behavior.
-- [Transifex plugin ★13](https://github.com/dereuromark/cakephp-transifex) - Managing i18n PO files and translations via Transifex API.
+- [Transifex plugin ★13 ⏳1Y](https://github.com/dereuromark/cakephp-transifex) - Managing i18n PO files and translations via Transifex API.
 - [Translate plugin ★6](https://github.com/dereuromark/cakephp-translate) - Manage translations of your static content the easy way via web backend, incl. import from POT files, auto-suggest and auto-translate via API.
 - [Translation plugin ★5 ⏳1Y](https://github.com/ava007/wnk_translation) - Extract pot files, translate string (manually, google, community), export translations to pot files.
 

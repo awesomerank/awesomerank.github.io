@@ -113,7 +113,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ### Animation
 
 - [Animate ★40 ⏳2Y](https://github.com/joshuapekera/animate) - A library of CSS3 keyframe animations authored using Less.
-- [Animate Less ★527 ⏳1Y](https://github.com/machito/animate.less) - Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) to Less.
+- [Animate Less ★527 ⏳2Y](https://github.com/machito/animate.less) - Port of Dan Eden's [Animate.css](https://daneden.github.io/animate.css/) to Less.
 - [Cube Less ★48](https://github.com/sparanoid/cube.less) - 3D (animated) cube using only CSS (Less), originally used by LeanCloud (aka. AVOS Cloud).
 - [Hover](http://ianlunn.github.io/Hover/) - Collection of CSS3 powered hover animated effects to be applied to links, buttons, logos, SVG, featured images and so on.
 - [Less Burguer ★5 ⏳1Y](https://github.com/MarkRabey/less-burger) - Port of [Sass Burger](http://joren.co/sass-burger/) to Less.

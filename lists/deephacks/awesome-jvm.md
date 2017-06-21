@@ -146,7 +146,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [stormpot ★106 ⏳1Y](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [stream-lib ★1576](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
-* [transducers-java ★96 ⏳1Y](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
+* [transducers-java ★96 ⏳2Y](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 * [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
 * [Zero-Allocation-Hashing ★222](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 

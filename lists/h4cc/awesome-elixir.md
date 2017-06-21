@@ -647,7 +647,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [phoenix_pubsub_postgres ★23 ⏳2Y](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
 * [phoenix_pubsub_rabbitmq ★29 ⏳1Y](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 * [phoenix_pubsub_redis ★63](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
-* [phoenix_pubsub_vernemq ★21 ⏳1Y](https://github.com/larshesel/phoenix_pubsub_vernemq) - The VerneMQ MQTT pubsub adapter for the Phoenix framework.
+* [phoenix_pubsub_vernemq ★21 ⏳2Y](https://github.com/larshesel/phoenix_pubsub_vernemq) - The VerneMQ MQTT pubsub adapter for the Phoenix framework.
 * [phoenix_slime ★137](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
 * [phoenix_token_auth ★164](https://github.com/manukall/phoenix_token_auth) - Token authentication solution for Phoenix. Useful for APIs or single page apps.
 * [plug ★1378](https://github.com/elixir-lang/plug) - A specification and conveniences for composable modules in between web applications.
@@ -898,7 +898,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [charm ★4 ⏳2Y](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
 * [Countries ★37](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
 * [countriex ★6](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
-* [dye ★14](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
+* [dye ★14 ⏳1Y](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 * [dynamic_compile ★0 ⏳2Y](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
 * [ecto_autoslug_field ★26](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
 * [egaugex ★1](https://github.com/Brightergy/egaugex) - Client to fetch and parse realtime data from egauge devices.
@@ -1151,7 +1151,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [maru](https://github.com/falood/maru) - Elixir copy of grape for creating REST-like APIs.
 * [mazurka ★14](https://github.com/exstruct/mazurka) - hypermedia api toolkit.
 * [plug_rest ★31](https://github.com/christopheradams/plug_rest) - REST behaviour and Plug router for hypermedia web applications.
-* [signaturex ★15](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
+* [signaturex ★15 ⏳1Y](https://github.com/edgurgel/signaturex) - Simple key/secret based authentication for APIs.
 * [urna ★75](https://github.com/meh/urna) - Urna is a simple DSL around cauldron to implement REST services.
 * [versionary ★4](https://github.com/sticksnleaves/versionary) - API versioning for Elixir Plug and Phoenix.
 
@@ -1348,7 +1348,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dublin_bus_api ★0](https://github.com/carlo-colombo/dublin-bus-api) - Access to the Real Time Passenger Information (RTPI) for Dublin Bus services.
 * [edgarex ★0 ⏳2Y](https://github.com/rozap/edgarex) - Elixir interface for fetching SEC filings from EDGAR.
 * [elixir_authorizenet ★4](https://github.com/marcelog/elixir_authorizenet) - Unofficial client for the Authorize.Net merchant API.
-* [elixir_ipfs_api ★13](https://github.com/zabirauf/elixir-ipfs-api) - IPFS (InterPlanetary File System) API client for Elixir.
+* [elixir_ipfs_api ★13 ⏳1Y](https://github.com/zabirauf/elixir-ipfs-api) - IPFS (InterPlanetary File System) API client for Elixir.
 * [elixirfm ★3](https://github.com/jrichocean/Elixirfm) - Last.fm API wrapper for Elixir.
 * [elixtagram ★47](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
 * [ethereumex ★3](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.

@@ -205,7 +205,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Shaders
 *GLSL related Libraries*
 
-* [LoveShaderConverter ★27](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes
+* [LoveShaderConverter ★27 ⏳1Y](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
 * [shine ★162](https://github.com/vrld/shine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
@@ -253,7 +253,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [log.lua ★79 ⏳1Y](https://github.com/rxi/log.lua) - Library for configurable log output
 * [love-loader ★70](https://github.com/kikito/love-loader) - Threaded resource loading
 * [love2d-assets-loader ★23 ⏳1Y](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
-* [Luvent ★35 ⏳1Y](https://github.com/ejmr/Luvent) - Simple event-driven programming
+* [Luvent ★35 ⏳2Y](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy ★8 ⏳1Y](https://github.com/videah/splashy) - Splash Screen Library
 * [Talkback ★8](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication
 * [tick ★15](https://github.com/bjornbytes/tick) - Useful timing tweaks for LÖVE's run loop

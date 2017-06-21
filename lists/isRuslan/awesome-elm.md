@@ -59,6 +59,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Flatris ★217](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
 * [Elm + Phoenix + Webpack ★23](https://github.com/ronanyeah/elm-phoenix-example) - A minimal Elm + Phoenix setup, using webpack instead of Brunch.
 * [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - Full stack Elm app w/ CRUD operations, Auth, routing, pagination and more. [Code ★705](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
+* [Spotify Mapper ★21](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -202,6 +203,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [create-elm-app ★422](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
 * [html-to-elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
+* [elm-analyse ★110](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 
 **[:arrow_up: back to top](#table-of-contents)**
 

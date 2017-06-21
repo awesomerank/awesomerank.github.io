@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-832-orange.svg) | June 12, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-838-orange.svg) | June 19, 2017
 
 ### Contributing
 
@@ -277,6 +277,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Analytics
 *Analytics related libraries to easily track your app usage* [back to top](#readme) 
 
+* [Umbrella ★157](https://github.com/devxoul/Umbrella) - Analytics abstraction layer
 
 ### Animation
 *Libs to help with animation* [back to top](#readme) 
@@ -549,6 +550,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [DateHelper ★778](https://github.com/melvitax/DateHelper) - Simple date helper.
 * [Datez ★191](https://github.com/SwiftKitz/Datez) - Library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
+* [Datify ★30](https://github.com/hemangshah/Datify) - Easypeasy date functions.
 * [NSDate-Extensions ★1364](https://github.com/erica/NSDate-Extensions) - Practical real-world dates.
 * [Punctual.swift ★318](https://github.com/harlanhaskins/Punctual.swift) :penguin: - Date handler.
 * [SwiftDate ★2960](https://github.com/malcommac/SwiftDate) - Easy NSDate Management.
@@ -787,6 +789,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AutoLayoutPlus ★25](https://github.com/ruipfcosta/AutoLayoutPlus) - A bit of steroids for AutoLayout.
 * [Cartography ★5626](https://github.com/robb/Cartography) - Declarative auto layout lib for your project.
+* [Cupcake ★109](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
 * [EasyPeasy ★1495](https://github.com/nakiostudio/EasyPeasy) - Auto Layout made easy.
 * [FormationLayout ★52](https://github.com/evan-liu/FormationLayout) - Auto Layout lib supports group layout and size classes.
 * [MisterFusion ★252](https://github.com/marty-suzuki/MisterFusion) - DSL for AutoLayout, supports Size Class.
@@ -825,6 +828,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Evergreen ★62](https://github.com/knly/Evergreen) - Most natural logging.
 * [HeliumLogger ★59](https://github.com/IBM-Swift/HeliumLogger) :penguin: - IBM's lightweight logging framework.
 * [Log ★631](https://github.com/delba/Log) - A logging tool with built-in themes, formatters, and a nice API to define your owns.
+* [Printer ★25](https://github.com/hemangshah/printer) - A fancy logger for your next app.
 * [Puree ★133](https://github.com/cookpad/puree-ios) - A log collector for iOS.
 * [QorumLogs ★692](https://github.com/goktugyil/QorumLogs) - Logging Utility for Xcode & Google Docs.
 * [Rainbow ★847](https://github.com/onevcat/Rainbow) :penguin: - Delightful console output.
@@ -1203,6 +1207,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Floaty ★428](https://github.com/kciter/Floaty) - Floating Action Button for iOS.
 * [Hamburger button transition ★2155](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [HamburgerButton ★176](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
+* [LGButton ★118](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [LTHRadioButton ★179](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 * [MIBadgeButton ★253](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.
 * [NFDownloadButton ★164](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.
@@ -1217,6 +1222,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DateTimePicker ★1100](https://github.com/itsmeichigo/DateTimePicker) - A nicer iOS UI component for picking date and time.
 * [JTAppleCalendar ★2972](https://github.com/patchthecode/JTAppleCalendar) - UI calendar handler.
 * [Koyomi ★391](https://github.com/shoheiyokoyama/Koyomi) - Simple customizable calendar component.
+* [Workaholic ★35](https://github.com/hemangshah/Workaholic) - A GitHub-like work contribution timeline.
 
 #### Form
 [back to top](#readme) 
@@ -1392,7 +1398,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AlexaSkillsKit ★101](https://github.com/choefele/AlexaSkillsKit) - Develop custom Alexa Skills.
 * [ArrayDiff ★82](https://github.com/Adlai-Holler/ArrayDiff) - A fast, UITableView/UICollectionView-compatible array diffing microframework.
 * [Basis ★298](https://github.com/typelift/Basis) - Pure Declarative Programming.
-* [Butterfly ★405](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
+* [Butterfly ★405 ⏳1Y](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [CallbackURLKit ★156](https://github.com/phimage/CallbackURLKit) - Implementation of x-callback-url (Inter app communication).
 * [Cormorant ★127](https://github.com/austinzheng/Cormorant) - Clojure(ish) interpreter.
 * [Curry ★325](https://github.com/thoughtbot/Curry) - Function currying.

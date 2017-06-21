@@ -925,7 +925,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [statsample ★69](https://github.com/sciruby/statsample) - A suite for basic and advanced statistics on Ruby.
   * [statsample-timeseries ★8](https://github.com/sciruby/statsample-timeseries) - Bioruby Statsample TimeSeries.
   * [statsample-glm ★17](https://github.com/sciruby/statsample-glm) - Generalized Linear Models extension for Statsample.
-  * [distribution ★25](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
+  * [distribution ★25 ⏳1Y](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
   * [integration ★9 ⏳2Y](https://github.com/sciruby/integration) - Numerical integration methods, based on original work by Beng.
   * [minimization ★17 ⏳1Y](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
   * [publisci ★6 ⏳3Y](https://github.com/sciruby/publisci) - A toolkit for publishing scientific results to the semantic web.

@@ -265,7 +265,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [SlackChannelTrafficIndicator ★2 ⏳3Y](https://github.com/kjpluck/SlackChannelTrafficIndicator) - Chrome extension that plots the traffic in Slack channels
 - [slackdraw ★8 ⏳1Y](https://github.com/caiosba/slack-draw) - A Google Chrome extension to draw and share the drawings on Slack
 - [slackey ★17](https://github.com/FredKSchott/slackey) - A JavaScript SDK for the Slack API
-- [slackihook ★5 ⏳1Y](https://github.com/kfatehi/slackihook) - Send incoming webhooks to Slack with Node.js
+- [slackihook ★5 ⏳2Y](https://github.com/kfatehi/slackihook) - Send incoming webhooks to Slack with Node.js
 - [slackin](http://rauchg.com/slackin/) - Public Slack organizations made easy
 - [slacklink ★20](https://github.com/robjmills/slacklink) - Post links to Slack from Chrome
 - [slackr-bot ★13](https://github.com/tal/slackr-bot) - A node module for making bots that use the Slack RTM API

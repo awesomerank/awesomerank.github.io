@@ -13,7 +13,7 @@ Awesome Series @ Planet Ruby
 [ActiveRecord ★243](https://github.com/planetruby/awesome-activerecord)  •
 [Webframeworks (Micro, Macro, APIs, ...) ★112 ⏳1Y](https://github.com/planetruby/awesome-webframeworks) •
 [Webservers (Single-Threaded, Multi-Threaded, Evented, ...) ★135 ⏳1Y](https://github.com/planetruby/awesome-webservers) •
-[Static Generators (Sites, Books, Presentations, ...) ★1 ⏳1Y](https://github.com/planetruby/awesome-staticgen) •
+[Static Generators (Sites, Books, Presentations, ...) ★1 ⏳2Y](https://github.com/planetruby/awesome-staticgen) •
 [Events (Conferences, Camps, Meetups, ...) ★186](https://github.com/planetruby/awesome-events) •
 [Blogs (News, Opinions, Podcasts, ...) ★4 ⏳1Y](https://github.com/planetruby/awesome-blogs)
 

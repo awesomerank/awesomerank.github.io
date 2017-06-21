@@ -258,6 +258,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Speedment ★959](https://github.com/speedment/speedment) - Database access library that utilizes the Java 8 Stream API for querying.
 * [sql2o](http://sql2o.org/) - Thin JDBC wrapper that simplifies database access and provides simple mapping of ResultSets to POJOs.
 * [Vibur DBCP](http://www.vibur.org/) - JDBC connection pool library with advanced performance monitoring capabilities.
+* [Xodus](http://jetbrains.github.io/xodus/) - Highly concurrent transactional schema-less and ACID-compliant embedded database.
 
 ## Data Structures
 
@@ -866,6 +867,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 - [Awesome Gradle Plugins ★80](https://github.com/ksoichiro/awesome-gradle)
 - [Awesome JVM ★403](https://github.com/deephacks/awesome-jvm)
+- [Awesome Microservices ★3856](https://github.com/mfornos/awesome-microservices)
 - [Awesome REST ★1163](https://github.com/marmelab/awesome-rest)
 - [ciandcd ★401](https://github.com/ciandcd/awesome-ciandcd)
 - [Useful Java Links ★3023](https://github.com/Vedenin/useful-java-links)

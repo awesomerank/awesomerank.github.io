@@ -162,7 +162,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-svg2png ★51](https://github.com/akoenig/gulp-svg2png) - Convert SVGs to PNGs.
 * [gulp-responsive ★354](https://github.com/mahnunchik/gulp-responsive) - Generate images at different sizes.
 * [gulp-svgstore ★542](https://github.com/w0rm/gulp-svgstore) - Combine svg files into one with <symbol> elements.
-* [gulp-iconfont ★629](https://github.com/nfroidure/gulp-iconfont) - Create icon fonts from several SVG icons.
+* [gulp-iconfont ★629 ⏳1Y](https://github.com/nfroidure/gulp-iconfont) - Create icon fonts from several SVG icons.
 
 ### Injecting Assets
 * [gulp-useref ★626](https://github.com/jonkemp/gulp-useref) - Parse build blocks in HTML files to replace references to non-optimized scripts or stylesheets.

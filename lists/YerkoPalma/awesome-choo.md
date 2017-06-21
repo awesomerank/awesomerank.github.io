@@ -57,7 +57,7 @@ under the hood:
 - [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox)
 - [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo ★35](https://github.com/shuhei/todomvc-choo))
 - [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo](https://github.com/mw222rs/choo-firebase))
-- [Grow](https://grow.static.land) - ([repo ★15](https://github.com/sethvincent/grow))
+- [Grow](https://grow.static.land) - ([repo ★15 ⏳1Y](https://github.com/sethvincent/grow))
 - [Chatbot](http://chootbot.herokuapp.com) - ([repo ★1](https://github.com/plaey/chatbot))
 - [chat-random ★3](https://github.com/akiva/chat-random)
 - [choo-leaflet-demo ★12](https://github.com/timwis/choo-leaflet-demo)
@@ -106,7 +106,7 @@ Templates for [choo-cli ★51](https://github.com/trainyard/choo-cli)
 ### Projects using choo
 
 - [boxcar ★9](https://github.com/toddself/boxcar) - A choo-based grid/spreadsheet editor.
-- [choo-sortable ★2](https://github.com/willkessler/choo-sortable) - Building sortable code with choo.
+- [choo-sortable ★2 ⏳1Y](https://github.com/willkessler/choo-sortable) - Building sortable code with choo.
 - [hacker-choo](https://github.com/mw222rs/hacker-choo) - Hacker Typer clone written in choo.
 - [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review).
 - [minidocs ★116](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.

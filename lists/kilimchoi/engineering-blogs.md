@@ -91,7 +91,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Cerner http://engineering.cerner.com/
 * Chaps https://blog.chaps.io/
 * Chartbeat http://engineering.chartbeat.com/
-* Chef https://www.chef.io/blog/
+* Chef https://blog.chef.io
 * Clever https://engineering.clever.com/
 * CleverTap https://blog.clevertap.com/category/engineering/
 * Cloudera https://blog.cloudera.com/

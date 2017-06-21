@@ -141,7 +141,7 @@ Looking for resources for code languages? Take a look at [the awesome collection
 * [Bristol Uni MT Morphology tools ★1 ⏳1Y](https://github.com/LowResourceLanguages/bristol-mt-morphology) This repo is a mirror of scripts available on http://www.cs.bris.ac.uk/Research/MachineLearning/Morphology/resources.jsp#corpus. Included: Ukwabelana - An open-source morphological Zulu corpus and EMMA: A Novel Evaluation Metric for Morphological Analysis.
 * [brown-cluster ![GitHub stars](https://img.shields.io/github/stars/percyliang/brown-cluster.svg) ★245](https://github.com/percyliang/brown-cluster) C++ implementation of the Brown word clustering algorithm.
 * [CasualCon](https://sites.google.com/site/casualconc/Home) CasualConc is a concordance program that runs natively on Mac OS X 10.5 Leopard or later. It was originally designed for casual use (preliminary analysis or non-research purposes), though [the maintainer] has been using it for his own research (and may others have). It can generate kwic concordance lines, word clusters, collocation analysis, and word count.
-* [cdec ![GitHub stars](https://img.shields.io/github/stars/redpony/cdec.svg) ★142](https://github.com/redpony/cdec)  Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms
+* [cdec ![GitHub stars](https://img.shields.io/github/stars/redpony/cdec.svg) ★142 ⏳1Y](https://github.com/redpony/cdec)  Decoder, aligner, and model optimizer for statistical machine translation and other structured prediction models based on (mostly) context-free formalisms
 * [charlint](http://www.w3.org/International/charlint/) Charlint is a character normalization/checking tool written in Perl. Among else, it implements Normalization Form C of Unicode TR 15, as a test platform for Early Uniform Normalization in the W3C Character Model.
 * [clam ![GitHub stars](https://img.shields.io/github/stars/proycon/clam.svg) ★40](https://github.com/proycon/clam)  Computational Linguistics Application Mediator -- Quickly turn NLP applications into RESTful webservices with a web-application front-end. You provide a specification of your command line application, its input, output and parameters, and CLAM wraps around your application to form a fully fledged RESTful webservice.
 * [CMU Sphinx](https://sourceforge.net/projects/cmusphinx/) CMUSphinx is a speaker-independent large vocabulary continuous speech recognizer released under BSD style license. It is also a collection of open source tools and resources that allows researchers and developers to build speech recognition systems.
@@ -526,7 +526,7 @@ _kat :: ქართული_
 * [d0ragon/number-to-words-ka ★1 ⏳3Y](https://github.com/d0ragon/number-to-words-ka) Convert numbers to localized strings (PHP).
 * [dimakura/ka ★0 ⏳3Y](https://github.com/dimakura/ka) Common functionality for georgian projects (Ruby).
 * [dimakura/ka.js ★5 ⏳2Y](https://github.com/dimakura/ka.js) Georgian language support for node and browser (JavaScript).
-* [akalongman/kautilities ★3](https://github.com/akalongman/kautilities) Convert Georgian letters to Latin and vice-versa (PHP).
+* [akalongman/kautilities ★3 ⏳1Y](https://github.com/akalongman/kautilities) Convert Georgian letters to Latin and vice-versa (PHP).
 * [Landish/Laravel-Ka ★6](https://github.com/Landish/Laravel-KA) [Laravel](https://laravel.com/) Georgian Language Pack.
 * [Landish/RedactorJS-GE ★0 ⏳2Y](https://github.com/Landish/RedactorJS-GE) Redactor WYSIWYG HTML Editor Georgian Language Pack (JavaScript).
 * [wenzhixin/bootstrap-table ★5903](https://github.com/wenzhixin/bootstrap-table) Bootstrap table with extra features. l10n by [@Lotuashvili](https://github.com/Lotuashvili) and [@Stichoza](https://github.com/Stichoza).
@@ -623,7 +623,7 @@ _mlg :: Malagasy_
 
 _glv :: Gaelg_
 
-* [aspell-gv ★1 ⏳4Y](https://github.com/pld-linux/aspell-gv) Manx Gaelic dictionary for aspell
+* [aspell-gv ★1 ⏳5Y](https://github.com/pld-linux/aspell-gv) Manx Gaelic dictionary for aspell
 * [gaelg ★0](https://github.com/kscanne/gaelg) NLP resources for Manx Gaelic, mainly in support of the gv2ga MT engine
 
 ## Migmaq
@@ -677,7 +677,7 @@ Giellatekno does a lot for other minority Uralic languages. Following are some k
 
 _gla :: Gàidhlig_
 
-* [aspell-gd ★1 ⏳4Y](https://github.com/pld-linux/aspell-gd) Scottish Gaelic dictionary for aspell
+* [aspell-gd ★1 ⏳5Y](https://github.com/pld-linux/aspell-gd) Scottish Gaelic dictionary for aspell
 * [briathrachan ★2](https://github.com/tobiasbayer/briathrachan) This is the source code to Briathrachan, a Gaelic-English dictionary app for iOS.
 * [gaidhlig ★0](https://github.com/kscanne/gaidhlig) NLP resources for Scottish Gaelic, mainly in support of gd2ga/ga2gd MT engines
 * [gd-fcfg ★2 ⏳5Y](https://github.com/wojtekdz/gd-fcfg) Context-free feature-based grammar of Scottish Gaelic in the NLTK format

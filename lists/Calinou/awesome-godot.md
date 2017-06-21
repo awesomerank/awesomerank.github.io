@@ -25,7 +25,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Dolphin Island 2 ★63](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam
 - [DynaDungeons ★67](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
 - [Kraken-Rampage ★0 ⏳1Y](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
-- [Libre Pinball ★10](https://github.com/Calinou/libre-pinball) - A pinball game.
+- [Libre Pinball ★10 ⏳1Y](https://github.com/Calinou/libre-pinball) - A pinball game.
 - [Minehunter ★4 ⏳1Y](https://github.com/genete/Minehunter) - A Minesweeper clone
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 - [Mountain of Hope ★3 ⏳1Y](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)

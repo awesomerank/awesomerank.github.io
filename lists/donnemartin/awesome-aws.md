@@ -784,7 +784,7 @@ AWS Repos:
 * [opsworks-cookbooks :fire::fire::fire: ★979](https://github.com/aws/opsworks-cookbooks) - Chef Cookbooks.
 * [opsworks-demo-php-photo-share-app ★12 ⏳3Y](https://github.com/awslabs/opsworks-demo-php-photo-share-app) - Simple PHP photo share app.
 * [opsworks-demo-php-simple-app ★28](https://github.com/awslabs/opsworks-demo-php-simple-app) - Simple PHP app.
-* [opsworks-demo-rails-photo-share-app ★11 ⏳1Y](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - A sample Rails app.
+* [opsworks-demo-rails-photo-share-app ★11 ⏳2Y](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - A sample Rails app.
 * [opsworks-elasticsearch-cookbook ★36 ⏳2Y](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - Elasticsearch sample cookbook.
 * [opsworks-example-cookbooks ★83](https://github.com/awslabs/opsworks-example-cookbooks) - Cookbooks used with the sample apps.
 * [opsworks-first-cookbook ★9 ⏳2Y](https://github.com/awslabs/opsworks-first-cookbook) - Cookbook used to demonstrate simple recipes.

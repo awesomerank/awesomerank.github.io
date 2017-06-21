@@ -452,7 +452,7 @@ Related Projects
 
 ## API/CLI adaptors
 
-* [Kubebot ★54](https://github.com/harbur/kubebot)
+* [Kubebot ★54 ⏳1Y](https://github.com/harbur/kubebot)
 * [StackStorm ★1992](https://github.com/StackStorm/st2)
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
 * [Ksql ★74](https://github.com/brendandburns/ksql)

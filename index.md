@@ -91,6 +91,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Heroku ★78 ⏳1Y](lists/ianstormtaylor/awesome-heroku.md)
 - [Raspberry Pi ★2296](lists/thibmaek/awesome-raspberry-pi.md) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt ★38](lists/JesseTG/awesome-qt.md) - Cross-platform GUI app framework.
+- [WebExtensions ★115](lists/bfred-it/Awesome-WebExtensions.md) - Cross-browser extension system.
 
 
 ## Programming Languages
@@ -352,6 +353,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Fantasy ★227](lists/RichardLitt/awesome-fantasy.md)
 - [Podcasts ★925](lists/guipdutra/awesome-geek-podcasts.md)
 - [Email Newsletters ★459](lists/vredniy/awesome-newsletters.md)
+- [IT Quotes ★17](lists/victorlaerte/awesome-it-quotes.md)
 
 
 ## Databases

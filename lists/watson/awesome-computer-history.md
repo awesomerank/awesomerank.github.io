@@ -65,6 +65,11 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [BBS The Documentary](https://www.youtube.com/playlist?list=PLgE-9Sxs2IBVgJkY-1ZMj0tIFxsJ-vOkv) (2005) - History of the Bulletin Board System <sup>[8.6/10](http://www.imdb.com/title/tt0460402/)</sup>
 - [The Codebreakers](https://www.youtube.com/watch?v=Zc-hlV2xbSg) (2006) - Documentary about how poor countries are using free and open source software (FOSS) for development purposes.
 - [Hackers Are People Too](https://www.youtube.com/watch?v=7jciIsuEZWM) (2008) - Documentary about what hackers are <sup>[6.1/10](http://www.imdb.com/title/tt1279942/)</sup>
+- [Download: The True Story of the Internet](https://en.wikipedia.org/wiki/Download_The_True_Story_of_the_Internet) (2008) - A documentary television series about Internet history <sup>[7.8/10](http://www.imdb.com/title/tt1684716/)</sup>
+  - [Part 1: Browser Wars](https://www.youtube.com/watch?v=VANORrzKX50) – The rise and fall of Netscape and its battle against Microsoft
+  - [Part 2: Search](https://www.youtube.com/watch?v=Jjbh9FFW6VE) – The rise of Google and Yahoo
+  - [Part 3: Bubble](https://www.youtube.com/watch?v=aQjnkyoNIfg) – The dot.com crash of 2000 and the mainstays of the Internet: Amazon.com and Ebay
+  - [Part 4: People Power](https://www.youtube.com/watch?v=f42J_reRO0Q) – Peer to peer technology, web 2.0, and social networking
 - [Something Ventured](http://www.imdb.com/title/tt1737747/) (2011) - The history of early venture capital <sup>[7.0/10](http://www.imdb.com/title/tt1737747/)</sup>
 - [Code 2600](https://www.youtube.com/watch?v=FAfUjqIbfXo) (2011) - Documents the Info-Tech Age, told by the events and people who helped build and manipulate it <sup>[7.6/10](http://www.imdb.com/title/tt1830538/)</sup>
 - [Silicon Valley](http://www.pbs.org/video/2332168287/) (2013) - A PBS "American Experience" documentary about the start of Silicon Valley <sup>[8.1/10](http://www.imdb.com/title/tt2547530/)</sup>
@@ -74,6 +79,7 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw) (2014) - Invention of the Basic computer language.
 - [The Internet's Own Boy: The Story of Aaron Swartz](https://www.youtube.com/watch?v=vXr-2hwTk58) (2014) - The story of programming prodigy and information activist Aaron Swartz <sup>[8.1/10](http://www.imdb.com/title/tt3268458/)</sup>
 - [Rise of the Hackers](https://www.youtube.com/watch?v=dQnAEiGx1-4) (2014) - Harnessing cryptography to stay a step ahead of cybercriminals <sup>[7.8/10](http://www.imdb.com/title/tt3979842/)</sup>
+- [Silicon Cowboys](https://www.netflix.com/title/80104318) (2016) - Documentary detailing the story of Compaq, its three founders and how it took on IBM at the height of its PC dominance. <sup>[6.7/10](http://www.imdb.com/title/tt4938484/)</sup>
 
 ### Reflective interviews
 

@@ -21,7 +21,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * Facebook's [jstransform ★439](https://github.com/facebookarchive/jstransform) - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
 * [defs ★120 ⏳1Y](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
 * [es6_module_transpiler-rails ★87 ⏳2Y](https://github.com/DavyJonesLocker/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
-* [Some Sweet.js macros ★222 ⏳2Y](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
+* [Some Sweet.js macros ★222 ⏳3Y](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 * Bitovi's [transpile ★17](https://github.com/stealjs/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 * [regexpu ★109](https://github.com/mathiasbynens/regexpu) — Transform Unicode-aware ES6 regular expressions to ES5
 * [Lebab](https://github.com/mohebifar/lebab) - Transformations for ES5 code to ES6 (approximates)
@@ -112,7 +112,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * [beck.js ★5 ⏳3Y](https://github.com/unscriptable/beck) - toolkit for ES6 Module Loader pipelines, shim for legacy environments
 
 ## Boilerplates
-* [es6-boilerplate ★86 ⏳2Y](https://github.com/davidjnelson/es6-boilerplate) - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.
+* [es6-boilerplate ★86 ⏳3Y](https://github.com/davidjnelson/es6-boilerplate) - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.
 * [es6-jspm-gulp-boilerplate ★146](https://github.com/alexweber/es6-jspm-gulp-boilerplate) - Tooling to allow the community to use es6 now via babel in conjunction jspm, with source maps, concatenation, minification, compression, and unit testing in real browsers using es6.
 
 ## Code generation

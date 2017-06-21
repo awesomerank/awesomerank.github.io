@@ -104,7 +104,7 @@ _Source:_ [What is Docker](https://www.docker.com/what-docker)
 * [Windows Containers Quick Start](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/) Overview of Windows containers, drilling down to Quick Starts for Windows 10 and Windows Server 2016
 * [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) Walkthrough installing Docker on Windows 10, building a Docker image and running a Windows container
 * Video: [Windows Containers and Docker: The 101](https://www.youtube.com/watch?v=N7SG2wEyQtM) A 20-minute overview, using Docker to run  PowerShell, ASP.NET Core and ASP.NET apps
-* [A Comparative Study of Docker Engine on Windows Server vs Linux](http://collabnix.com/archives/1965) Comparing the feature sets and implementations of Docker on Windows and Linux
+* [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) Comparing the feature sets and implementations of Docker on Windows and Linux
 * [Docker with Microsoft SQL 2016 + ASP.NET](http://blog.alexellis.io/docker-does-sql2016-aspnet/) Demonstration running ASP.NET and SQL Server workloads in Docker
 * [Running a Legacy ASP.NET App in a Windows Container](https://blog.sixeyed.com/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/) Steps for Dockerizing a legacy ASP.NET app and runnning as a Windows container
 * [Exploring ASP.NET Core with Docker in both Linux and Windows Containers](http://www.hanselman.com/blog/ExploringASPNETCoreWithDockerInBothLinuxAndWindowsContainers.aspx) Running ASP.NET Core apps in Linux and Windows containers, using [Docker for Windows][docker-for-windows]
@@ -141,7 +141,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [GitLab CI](https://about.gitlab.com/gitlab-ci/) - GitLab has integrated CI to test, build and deploy your code with the use of GitLab runners.
 * [GOCD-Docker ★101](https://github.com/gocd/gocd-docker)Go Server and Agent in docker containers to provision.
 * [InSpec][inspec] - InSpec is an open-source testing framework for infrastructure with a human- and machine-readable language for specifying compliance, security and policy requirements. By [@chef](https://github.com/chef)
-* [Microservices Continuous Deployment ★110](https://github.com/francescou/docker-continuous-deployment) - Continuous deployment of a microservices application.
+* [Microservices Continuous Deployment ★110 ⏳1Y](https://github.com/francescou/docker-continuous-deployment) - Continuous deployment of a microservices application.
 * [Screwdriver](http://screwdriver.cd/) - Yahoo's OpenSource buildplatform designed for Continous Delivery.
 * [Skipper ★14](https://github.com/Stratoscale/skipper) - Easily dockerize your Git repository by [@Stratoscale](https://github.com/Stratoscale)
 * [SwarmCI ★38](https://github.com/ghostsquad/swarmci) - Create a distributed, isolated task pipeline in your Docker Swarm.
@@ -224,7 +224,6 @@ Services to securely store your Docker images.
 * [Atomic Registry](http://www.projectatomic.io/registry/) - Red Hat Atomic Registry is an open source enterprise registry based on the Origin and Cockpit projects, enhancing the Docker registry library.
 * [Azure Container Registry](https://azure.microsoft.com/de-de/services/container-registry/) Manage a Docker private registry as a first-class Azure resource
 * [CargoOS](https://cargos.io/) A bare essential OS for running the Docker Engine on bare metal or Cloud.
-* [Compose Registry](https://www.composeregistry.com/) - Project from [@francescou]Francesco Uliana that stores docker-compose.yml files with stack examples like LAMP/LEMP stacks, Django stacks, Flask stacks and ELK stacks for instance.
 * [Container Compliance ★189](https://github.com/OpenSCAP/container-compliance) Open Source tool for assesing running containers and cold images for vulnerabilites and audits.
 * [Cycle.io](https://cycle.io/) Bare-metal container hosting.
 * [Docker Hub](https://hub.docker.com/) provided by Docker Inc.
@@ -321,13 +320,13 @@ Services to securely store your Docker images.
 * [Meros](https://meros.io) - Analyzes containers resources, captures logs, remote web SSH terminal and powerful DevOps alerts.
 * [New Relic](https://newrelic.com/partner/docker) - New Relics Docker Monitoring tool
 * [Prometheus](https://prometheus.io/) - Open-source service monitoring system and time series database
-* [Sysdig](http://www.sysdig.org/) - An open source troubleshooting tool that provides a rich set of real-time, system-level information. It has container-specific features and is very useful in Docker environments.
+* [Sysdig](https://www.sysdig.org/) - An open source troubleshooting tool that provides a rich set of real-time, system-level information. It has container-specific features and is very useful in Docker environments.
 * [Site24x7](https://www.site24x7.com/docker-monitoring.html) - Docker MOnitoring for DevOps and IT is a SaaS Pay per Host model
 * [SPM for Docker][spm] - Monitoring of host and container metrics, Docker events and logs. Automatic log parser. Anomaly Detection and alerting for metrics and logs. [@sematext][sematext]
 
 ## Networking
 * [Calico-Docker](https://www.projectcalico.org/getting-started/docker/) - Calico is a pure layer 3 virtual network that allows containers over multiple docker-hosts to talk to each other.
-* [Flannel ★2133](https://github.com/coreos/flannel) - Flannel is a virtual network that gives a subnet to each host for use with container runtimes.
+* [Flannel ★2133](https://github.com/coreos/flannel) - Flannel is a virtual network that gives a subnet to each host for use with container runtimes. By [@coreos][coreos]
 * [Weave][weave] (The Docker network) - Weave creates a virtual network that connects Docker containers deployed across multiple hosts.
 
 ## PaaS
@@ -353,7 +352,7 @@ Services to securely store your Docker images.
 * [Crane ★648](https://github.com/Dataman-Cloud/crane) - Control plane based on docker built-in swarm [@Dataman-Cloud](https://github.com/Dataman-Cloud)
 * [Deploying a Containerized App on a Public Node with Mesos](https://docs.mesosphere.com/usage/tutorials/containerized-app/) - Docker plus Mesosphere provides an easy way to automate and scale deployment of containers in a production environment
 * [ElasticKube ★159](https://github.com/ElasticBox/elastickube) - Open source management platform for Kubernetes
-* [Fleet ★2397](https://github.com/coreos/fleet) - A Distributed init System providing low-level orchestration by [@coreos](https://github.com/coreos)
+* [Fleet ★2397](https://github.com/coreos/fleet) - A Distributed init System providing low-level orchestration by [@coreos][coreos]
 * [Flocker ★2802](https://github.com/ClusterHQ/flocker) - Flocker is a data volume manager and multi-host Docker cluster management tool by [@ClusterHQ](https://github.com/ClusterHQ)
 * [gantryd ★278](https://github.com/DevTable/gantryd) - A framework for easy management of docker-based components across machines by [@DevTable](https://github.com/DevTable)
 * [Haven ★91](https://github.com/codeabovelab/haven-platform) - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By [@codeabovelab](https://github.com/codeabovelab)
@@ -364,11 +363,11 @@ Services to securely store your Docker images.
 * [Mantl ★2913](https://github.com/mantl/mantl) - Mantl is a modern platform for rapidly deploying globally distributed services
 * [Marathon](https://mesosphere.github.io/marathon/docs/) - Marathon is a private PaaS built on Mesos. It automatically handles hardware or software failures and ensures that an app is "always on"
 * [MCollective Docker Agent ★4 ⏳1Y](https://github.com/m4ce/mcollective-docker-agent) - Uses MCollective to orchestrate your Docker containers and images by  [@m4ce](https://github.com/m4ce)
-* [Nomad ★2474](https://github.com/hashicorp/nomad) - Easily deploy applications at any scale. A Distributed, Highly Available, Datacenter-Aware Scheduler by [@hashicorp](https://github.com/hashicorp)
+* [Nomad ★2474](https://github.com/hashicorp/nomad) - Easily deploy applications at any scale. A Distributed, Highly Available, Datacenter-Aware Scheduler by [@hashicorp][hashicorp]
 * [Panamax ★1405 ⏳1Y](https://github.com/CenturyLinkLabs/panamax-ui) - An open-source project that makes deploying complex containerized apps as easy as Drag-and-Drop by [@CenturyLinkLabs][CenturyLinkLabs].
 * [Portainer](https://github.com/portainer/portainer) - A lightweight management UI for managing your Docker host or Docker Swarm cluster (previously [DockerUI ★4685](https://github.com/kevana/ui-for-docker) by [@kevana](https://github.com/kevana))
 * [Rancher ★6038](https://github.com/rancher/rancher) - An open source project that provides a complete platform for operating Docker in production by [@rancher][rancher].
-* [Serf ★4008](https://github.com/hashicorp/serf) - Service orchestration and management tool by [@hashicorp](https://github.com/hashicorp)
+* [Serf ★4008](https://github.com/hashicorp/serf) - Service orchestration and management tool by [@hashicorp][hashicorp]
 * [Shipyard ★5962](https://github.com/shipyard/shipyard) - Composable Docker Management
 
 ## Reverse Proxy
@@ -445,7 +444,6 @@ Services to securely store your Docker images.
 * [Chaperone ★93](https://github.com/garywiz/chaperone) - A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package. by [@garywiz](https://github.com/garywiz)
 * [codelift](https://codelift.io/) - CodeLift is an automated Docker image build utility for 'dockerizing' services by [@BoozAllen](https://twitter.com/BoozAllen)
 * [Codenvy](https://codenvy.io) - One-click Docker environments and cloud workspace for development teams
-* [Compose Registry](https://www.composeregistry.com) - A very handy search engine for Compose Files
 * [Composerize ★40](https://github.com/magicmark/composerize) - Convert docker run commands into docker-compose files
 * [dexec ★277](https://github.com/docker-exec/dexec) - Command line interface written in Go for running code with Docker Exec images.
 * [dext-docker-registry-plugin ★1](https://github.com/vutran/dext-docker-registry-plugin) - Search the Docker Registry with the Dext smart launcher.
@@ -643,6 +641,7 @@ Services to securely store your Docker images.
 [gliderlabs]: https://github.com/gliderlabs
 [gondor]: https://github.com/gondor
 [grammarly]: https://github.com/grammarly
+[hashicorp]: https://github.com/hashicorp
 [ianmiell]: https://github.com/ianmiell
 [inspec]: https://github.com/chef/inspec
 [JensPiegsa]: https://github.com/JensPiegsa
@@ -680,7 +679,6 @@ Services to securely store your Docker images.
 [vimagick]: https://github.com/vimagick
 [weave]: https://github.com/weaveworks/weave
 [wsargent]: https://github.com/wsargent
-
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/veggiemonk/awesome-docker">veggiemonk/awesome-docker</a> with ranks

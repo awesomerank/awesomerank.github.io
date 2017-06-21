@@ -394,7 +394,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ffjson ★1830](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
 - [FST ★762](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacemen.
 - [Jackson ★2917](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
-- [Jackson Afterburner ★87](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
+- [Jackson Afterburner ★87 ⏳1Y](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
 - [Kryo ★2646](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 - [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 - [Protostuff](http://www.protostuff.io/) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.

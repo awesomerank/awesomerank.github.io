@@ -613,6 +613,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Anchors ★63](https://github.com/onmyway133/Anchors) - Declarative, extensible, powerful Auto Layout for iOS 8+ and macOS 10.10+ :large_orange_diamond:
 * [PinLayout ★2](https://github.com/mirego/PinLayout) - Extremely Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise syntax, intuitive, readable & chainable. 🔶
 * [SnapLayout ★7](https://github.com/sp71/SnapLayout) - Concise Auto Layout API to chain programmatic constraints while easily updating existing constraints. 🔶[e]
+* [Cupcake ★109](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS. :large_orange_diamond:
 
 #### Location
 * [IngeoSDK ★85](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
@@ -643,7 +644,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Lin ★1226 ⏳1Y](https://github.com/questbeat/Lin) - Xcode plugin that provides auto-completion for NSLocalizedString.
 * [LocalizationKit ★823](https://github.com/willpowell8/LocalizationKit_iOS) - Localization management in realtime from a web portal. Easily manage your texts and translations without redeploy and resubmission.
 * [Localize-Swift ★1305](https://github.com/marmelroy/Localize-Swift) - Swift 2.0 friendly localization and i18n with in-app language switching :large_orange_diamond:
-* [LocalizedView ★7](https://github.com/darkcl/LocalizedView) - Setting up application specific localized string within Xib file.
+* [LocalizedView ★7 ⏳1Y](https://github.com/darkcl/LocalizedView) - Setting up application specific localized string within Xib file.
 * [transai ★38](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 * [lokalise](https://lokalise.co/en ) - Translation platform for software developers. Free for open source projects
 * [Strsync ★96](https://github.com/metasmile/strsync) - Automatically translate and synchronize .strings files from base language.
@@ -872,6 +873,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [swift-360-videos ★41](https://github.com/team-pie/DDDKit) - Pure swift (no SceneKit) 3D library with focus on video and 360.
 * [ABMediaView ★17](https://github.com/andrewboryk/ABMediaView) - UIImageView subclass for drop-in image, video, GIF, and audio display, with functionality for fullscreen and minimization to the bottom-right corner.
 * [PryntTrimmerView ★52](https://github.com/prynt/PryntTrimmerView) - A set of UI elements to trim, crop and select frames inside a video. :large_orange_diamond:
+* [VGPlayer ★71](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player in Swift,Support play local and network,Background playback mode. :large_orange_diamond:
 
 ## Messaging
 
@@ -1259,7 +1261,7 @@ Most of these are paid services, some have free tiers.
 * [Valet ★2430](https://github.com/square/Valet) - Securely store data in the iOS or OS X Keychain without knowing a thing about how the Keychain works.
 * [Locksmith ★2202](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
 * [KeychainAccess ★2879](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and OS X :large_orange_diamond:
-* [Keychain ★41](https://github.com/hyperoslo/Keychain) - Because you should care... about the security... of your shit. :large_orange_diamond:
+* [Keychains ★44](https://github.com/hyperoslo/Keychains) - Because you should care... about the security... of your shit. :large_orange_diamond:
 * [Lockbox ★831](https://github.com/granoff/Lockbox) - Objective-C utility class for storing data securely in the key chain.
 * [SAMKeychain ★4365](https://github.com/soffes/SAMKeychain) - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
 * [SwiftKeychainWrapper ★508](https://github.com/jrendel/SwiftKeychainWrapper) - A simple wrapper for the iOS Keychain to allow you to use it in a similar fashion to User Defaults. Written in Swift. :large_orange_diamond:
@@ -1296,7 +1298,7 @@ Most of these are paid services, some have free tiers.
 * [MMMarkdown ★1030](https://github.com/mdiep/MMMarkdown) - An Objective-C static library for converting Markdown to HTML.
 * [DTCoreText ★4933](https://github.com/Cocoanetics/DTCoreText) - Methods to allow using HTML code with CoreText.
 * [DTRichTextEditor ★281](https://github.com/Cocoanetics/DTRichTextEditor) - A rich-text editor for iOS.
-* [NBEmojiSearchView ★75 ⏳1Y](https://github.com/neerajbaid/NBEmojiSearchView) - A searchable emoji dropdown view.
+* [NBEmojiSearchView ★75 ⏳2Y](https://github.com/neerajbaid/NBEmojiSearchView) - A searchable emoji dropdown view.
 * [Pluralize.swift ★126](https://github.com/joshualat/Pluralize.swift) - Great Swift String Pluralize Extension :large_orange_diamond:
 * [RichEditorView ★846](https://github.com/cjwirth/RichEditorView) - RichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing. :large_orange_diamond:
 * [Money ★741](https://github.com/danthorpe/Money) - Swift value types for working with money & currency :large_orange_diamond:
@@ -1794,7 +1796,7 @@ Most of these are paid services, some have free tiers.
 * [ZFRippleButton ★1243](https://github.com/zoonooz/ZFRippleButton) - Custom UIButton effect inspired by Google Material Design :large_orange_diamond:
 * [ProgressButton ★109 ⏳1Y](https://github.com/sprint84/ProgressButton) - Custom button class that displays a progress bar around it to gauge :large_orange_diamond:
 * [JOEmojiableBtn ★202](https://github.com/lojals/JOEmojiableBtn) - Emoji selector like Facebook Reactions.
-* [EMEmojiableBtn ★67](https://github.com/Eke/EMEmojiableBtn) - Option selector that works similar to Reactions by fb. Objective-c version.
+* [EMEmojiableBtn ★67 ⏳1Y](https://github.com/Eke/EMEmojiableBtn) - Option selector that works similar to Reactions by fb. Objective-c version.
 * [WYMaterialButton ★41](https://github.com/Yu-w/WYMaterialButton) - Interactive and fully animated Material Design button for iOS developers.
 * [DynamicButton ★815](https://github.com/yannickl/DynamicButton) - Yet another animated flat buttons in Swift :large_orange_diamond:
 * [OnOffButton ★394](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift. By Creativedash :large_orange_diamond:
@@ -2526,7 +2528,7 @@ Most of these are paid services, some have free tiers.
 
 * [awesome-xcode-scripts ★20](https://github.com/aashishtamsya/awesome-xcode-scripts) - A curated list of useful xcode scripts 📝.
 * [Synx ★5404](https://github.com/venmo/synx) - A command-line tool that reorganizes your Xcode project folder to match your Xcode groups.
-* [dsnip ★9 ⏳1Y](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...)
+* [dsnip ★9 ⏳2Y](https://github.com/Tintenklecks/IBDelegateCodesippets) - Tool to generate (native) Xcode code snippets from all protocols/delegate methods of UIKit (UITableView, ...)
 * [SBShortcutMenuSimulator ★1760](https://github.com/DeskConnect/SBShortcutMenuSimulator) - 3D Touch shortcuts in the Simulator
 * [awesome-gitignore-templates ★6](https://github.com/aashishtamsya/awesome-gitignore-templates) - A collection of swift, objective-c, android and many more langugages .gitignore templates 📝.
 * [swift-project-template ★14](https://github.com/artemnovichkov/swift-project-template) - Template for iOS Swift project generation.
@@ -2589,7 +2591,7 @@ Most of these are paid services, some have free tiers.
 * [Tutorials Point](http://www.tutorialspoint.com/ios/)
 * [Code with Chris](http://codewithchris.com/)
 * [Cocoa with Love](http://www.cocoawithlove.com/)
-* [Code School - Try Objective-C](http://tryobjectivec.codeschool.com/)
+* [Code School - Try Objective-C](https://www.codeschool.com/courses/try-objective-c)
 * [Brian Advent youtube channel](https://www.youtube.com/channel/UCysEngjfeIYapEER9K8aikw/videos) - Swift tutorials Youtube Channel. :large_orange_diamond:
 * [RAYWENDERLICH](https://www.raywenderlich.com/tutorials) - Tutorials for developers and gamers
 * [Mike Ash](https://www.mikeash.com/pyblog/)
@@ -2710,6 +2712,8 @@ Other amazingly awesome lists can be found in the
 # Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)
  * Distributed under the MIT license. See LICENSE for more information.
+
+
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/vsouza/awesome-ios">vsouza/awesome-ios</a> with ranks

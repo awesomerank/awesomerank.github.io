@@ -363,7 +363,7 @@ These frameworks make customizing your zsh setup easier.
 * [warhol](https://github.com/unixorn/warhol.plugin.zsh) - Configures colorization with [grc ★337](https://github.com/garabik/grc).
 * [watson.zsh](https://github.com/bcho/Watson.zsh) - A plugin for [watson ★580](https://github.com/TailorDev/Watson).
 * [wd ★160](https://github.com/mfaerevaag/wd) - Warp directory lets you jump to custom directories in zsh, without using cd. Why? Because cd seems inefficient when the folder is frequently visited or has a long path.
-* [yeoman-zsh-plugin ★33](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's Yeoman plugin for oh-my-zsh, compatible with yeoman version ≥1.0 (includes options and command auto-completion).
+* [yeoman-zsh-plugin ★33 ⏳1Y](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's Yeoman plugin for oh-my-zsh, compatible with yeoman version ≥1.0 (includes options and command auto-completion).
 * [zaw ★364](https://github.com/zsh-users/zaw) - ZSH anything.el-like widget.
 * [zce ★24](https://github.com/hchbaw/zce.zsh) - Vim’s EasyMotion / Emacs’s ace-jump-mode for zsh.
 * [zconvey ★6](https://github.com/zdharma/zconvey) - Adds ability to send commands to other Zsh sessions, you can use this to `cd $PWD` on all active Zshells, for example.
@@ -439,6 +439,7 @@ These frameworks make customizing your zsh setup easier.
 * [zsh-url-highlighter ★14 ⏳1Y](https://github.com/ascii-soup/zsh-url-highlighter) - A plugin for the zsh syntax highlighter that turns URLs green if they respond with a "good" status, and red otherwise. Useful for checking URL typos.
 * [zsh-viexchange ★1](https://github.com/okapia/zsh-viexchange) - Vi mode plugin for easily swapping text between two places in the buffer, like vim-exchange.
 * [zsh-vim-mode ★30 ⏳4Y](https://github.com/sharat87/zsh-vim-mode) - Shrikant Sharat's bindings for zsh's vi mode so it behaves more vim-like.
+* [zsh-you-should-use ★56](https://github.com/MichaelAquilina/zsh-you-should-use)- ZSH plugin that reminds you to use those aliases you defined
 * [zshmarks ★123](https://github.com/jocelynmallon/zshmarks) - A port of Bashmarks (by Todd Werth), a simple command line bookmarking plugin, for oh-my-zsh.
 * [zsnapshot ★5](https://github.com/psprint/zsnapshot) - Adds command to dump the current Zsh state into a file, for later restoration by sourcing the snapshot file.
 * [Ztrace ★5](https://github.com/psprint/ztrace) - Catches output of commands, allows to reuse that output, glue it with history content.

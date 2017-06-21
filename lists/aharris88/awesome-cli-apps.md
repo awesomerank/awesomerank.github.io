@@ -160,8 +160,8 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 - [google-font-installer ★34](https://github.com/lordgiotto/google-font-installer) - Search, download, and install any Google Font on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - Lightweight multi-protocol and multi-source, cross platform download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [mklicense ★68 ⏳1Y](https://github.com/cezaraugusto/mklicense) - Create a custom LICENSE file painlessly with customized info. Busy people & beginner's friendly.
-- [share-cli ★19](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
-- [remote-share-cli ★13](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
+- [share-cli ★19 ⏳1Y](https://github.com/marionebl/share-cli) - Quickly share files from command line with your local network.
+- [remote-share-cli ★13 ⏳1Y](https://github.com/marionebl/remote-share-cli) - Quickly share files from your command line with the world.
 - [moeda ★66](https://github.com/thompsonemerson/moeda) - A foreign exchange rates and currency conversion using cli
 - [wego ★4847](https://github.com/schachmat/wego) - Get the weather right in your browser or your console.
 - [mapscii ★1582](https://github.com/rastapasta/mapscii) - Terminal Map Viewer - the whole world in your console!
@@ -301,7 +301,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 - [app-path-cli ★14 ⏳1Y](https://github.com/sindresorhus/app-path-cli) - Get the path to an app (macOS).
 - [Bible.Js CLI client ★114 ⏳1Y](https://github.com/BibleJS/BibleApp) - :book: Bible.JS CLI client. Read the Holy Bible via the command line.
 - [birthday ★15](https://github.com/IonicaBizau/birthday) - Know when a friend's birthday is coming.
-- [cowsay ★22](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
+- [cowsay ★22 ⏳1Y](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
 - [cgasm ★178 ⏳1Y](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [detect-indent-cli ★11 ⏳1Y](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
 - [emoj ★1255](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.

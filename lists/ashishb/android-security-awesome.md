@@ -57,7 +57,7 @@ Static Analysis Tools
 * [Droid Intent Data Flow Analysis for Information Leakage](https://www.cert.org/secure-coding/tools/didfail.cfm)
 * [DroidLegacy](https://bitbucket.org/srl/droidlegacy)
 * [Several tools from PSU](http://siis.cse.psu.edu/tools.html)
-* [Smali CFG generator ★56 ⏳2Y](https://github.com/EugenioDelfa/Smali-CFGs)
+* [Smali CFG generator ★56 ⏳3Y](https://github.com/EugenioDelfa/Smali-CFGs)
 * [FlowDroid](https://blogs.uni-paderborn.de/sse/tools/flowdroid/)
 * [Android Decompiler](https://www.pnfsoftware.com/) – not free
 * [PSCout](http://pscout.csl.toronto.edu/) - A tool that extracts the permission specification from the Android OS source code using static analysis

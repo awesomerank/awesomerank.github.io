@@ -72,7 +72,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [mesos-influxdb-collector ★13 ⏳1Y](https://github.com/kpacha/mesos-influxdb-collector) - Lightweight [mesos](https://mesos.apache.org/) stats collector for InfluxDB
 * [mqforward ★32](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) to influxdb forwarder
 * [ntp_checker ★3 ⏳1Y](https://github.com/fss1/ntp_checker) - compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds
-* [sysinfo_influxdb ★88 ⏳1Y](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB
+* [sysinfo_influxdb ★88 ⏳2Y](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB
 * [Telegraf ★2990](https://github.com/influxdata/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB
 * [tesla-streamer](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB ([rake task](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
 * [traffic_stats](https://trafficcontrol.apache.org/docs/latest/overview/traffic_stats.html) - Acquires and stores statistics about CDNs controlled by [Apache Traffic Control](https://trafficcontrol.apache.org/)
@@ -174,7 +174,7 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 
 ## Queries
 
-* [dbal-influxdb ★9 ⏳1Y](https://github.com/corley/dbal-influxdb) - Doctrine DBAL for InfluxDB
+* [dbal-influxdb ★9 ⏳2Y](https://github.com/corley/dbal-influxdb) - Doctrine DBAL for InfluxDB
 * [Influxdb::Arel ★8](https://github.com/undr/influxdb-arel) - Influxdb::Arel is a SQL AST manager for InfluxDB dialect. It simplifies the generation of complex SQL queries
 * [influxer ★57](https://github.com/palkan/influxer) - InfluxDB ActiveRecord-style
 

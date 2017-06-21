@@ -124,7 +124,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [pgbadger ★1035](https://github.com/dalibo/pgbadger) - Fast PostgreSQL Log Analyzer.
 * [PgBouncer](http://pgbouncer.github.io) - Lightweight connection pooler for PostgreSQL.
 * [pgCenter ★466](https://github.com/lesovsky/pgcenter) - Provides convenient interface to various statistics, management task, reloading services, viewing log files and canceling or terminating database backends.
-* [pgclimb ★223](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats.
+* [pgclimb ★223 ⏳1Y](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats.
 * [pgfutter ★542](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way.
 * [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your PostgreSQL database.
 * [pgloader ★1053](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.

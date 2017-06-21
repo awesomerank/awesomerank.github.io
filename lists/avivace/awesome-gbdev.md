@@ -242,7 +242,10 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [Sonic 1 ★11 ⏳3Y](https://github.com/Kroc/Sonic1-Z80-ASM)
 - [Pokémon Red/Blue ★1163](https://github.com/pret/pokered)
 - [Pokémon Crystal ★850](https://github.com/pret/pokecrystal)
+- [Pokémon Pinball ★17](https://github.com/pret/pokepinball)
+- [Pokémon TCG ★35](https://github.com/pret/poketcg)
 - [Reverse engineering Kirby's Dreamland 2](http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html)
+- [pokemontools ★120](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
 
 ## Related sites, posts and projects
 - [papiGB ★0](https://github.com/diegovalverde/papiGB) - 
