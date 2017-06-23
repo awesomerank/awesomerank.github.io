@@ -44,7 +44,7 @@ Discover more awesome lists at [sindresorhus/awesome ★59088](https://github.co
     - Snare/Tanner - successors to Glastopf
       - [Snare ★48](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot
       - [Tanner ★26](https://github.com/mushorg/tanner) - Evaluating SNARE events
-    - [phpmyadmin_honeypot ★29 ⏳1Y](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpMyAdmin honeypot.
+    - [phpmyadmin_honeypot ★29 ⏳2Y](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpMyAdmin honeypot.
     - [servlet ★5 ⏳4Y](https://github.com/schmalle/Servletpot) - Web application Honeypot.
     - [Nodepot ★16 ⏳1Y](https://github.com/schmalle/Nodepot)  - A nodejs web application honeypot.
     - [basic-auth-pot ★9 ⏳2Y](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot.

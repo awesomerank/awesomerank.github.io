@@ -105,6 +105,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Vuforia](https://www.vuforia.com/) - Augmented Reality library.
 - [Unity](https://unity3d.com/unity/multiplatform) - Cross-platform game creation system.
 - [Rajawali ★1383](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
+- [Cocos2d-x](http://www.cocos2d-x.org) - Cross-platform 2d game framework.
 
 ### GUI
 
@@ -138,6 +139,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Bubbles for Android ★1125](https://github.com/txusballesteros/bubbles-for-android) - Facebook like chat bubble library
 - [Litho (By Facebook) ★3360](https://github.com/facebook/litho) - A declarative framework for building efficient UIs on Android.
 - [MultiViewAdapter ★118](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
+- [LGSnackbar ★13](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
+
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
 - [FadingActionBar ★2856 ⏳2Y](https://github.com/ManuelPeinado/FadingActionBar) - Fading action bar effect that can be seen in the new Play Music app.
@@ -408,7 +411,7 @@ My personal recommendation is (for now) to use the android api to build a native
 - [Reapp.io](http://reapp.io/) - Cordova based framework to build hybrid apps with mobile-optimized HTML, CSS and JS with ReactJS.
 
 ### Lua
-- [Corona SDK](https://coronalabs.com/corona-sdk/) - Framework to create native iOS and Android Apps (especially Games).
+- [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (especially Games).
 
 ### Scala
 - [Scaloid ★2072](https://github.com/pocorall/scaloid) - Library for less painful Android development with Scala.

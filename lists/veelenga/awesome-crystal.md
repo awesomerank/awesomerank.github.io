@@ -121,6 +121,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Cli Utils
  * [progress ★88](https://github.com/askn/progress) - [==..] Progress bar
+ * [progress_bar.cr ★0](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner ★35](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr ★11](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
 
@@ -223,7 +224,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [glove ★22](https://github.com/ddfreyne/glove) - A library for gaming development
  * [inari ★7](https://github.com/ddfreyne/inari) - A collection of games using Glove as the game engine
  * [medico ★0](https://github.com/konovod/medico) - Game about a medieval doctor
- * [mos_game ★6](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
+ * [mos_game ★6 ⏳1Y](https://github.com/bararchy/mos_game) - Mini Offline Singleplayer game
 
 ## HTML/XML Parsing
  * [crystagiri](https://github.com/madeindjs/Crystagiri) - An Html Reader / parser like [Nokogiri ★4409](https://github.com/sparklemotion/nokogiri) Ruby gem
@@ -285,7 +286,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crz ★15](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [denetmen ★19](https://github.com/izniburak/denetmen) - Useful micro validator / check library
  * [emoji.cr ★11](https://github.com/veelenga/emoji.cr) - Emoji library
- * [hoop ★151](https://github.com/0x73/hoop) - Building native OSX apps
+ * [hoop ★153](https://github.com/0x73/hoop) - Building native OSX apps
  * [html_builder ★22](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [immutable ★101](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [inflector.cr ★14](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
@@ -410,7 +411,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [TelegramBot](https://github.com/hangyas/TelegramBot) - A wrapper for the Telegram Bot API
 
 ## Virtualization
- * [backed_file_system ★45](https://github.com/schovi/baked_file_system) - Virtual file system implementation
+ * [baked_file_system ★45](https://github.com/schovi/baked_file_system) - Virtual file system implementation
  * [rcpu ★30](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks

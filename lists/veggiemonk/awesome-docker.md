@@ -85,20 +85,21 @@ All the links are monitored and tested with [awesome_bot ★344](https://github.
 _Source:_ [What is Docker](https://www.docker.com/what-docker)
 
 # Where to start?
-* [Play With Docker](http://training.play-with-docker.com/) - A great way to get started with Docker from beginner to advanced users. Docker runs directly in your browser.
-* [Docker Documentation](https://docs.docker.com/)
-* [Docker Training](http://training.docker.com/) - Includes a free self-paced hands-on tutorial (free registration required or sign-in with DockerHub ID)
-* Read this complete article: [Basics – Docker, Containers, Hypervisors, CoreOS](http://etherealmind.com/basics-docker-containers-hypervisors-coreos/)
-* [Docker Jumpstart ★2745 ⏳1Y](https://github.com/odewahn/docker-jumpstart): a quick introduction
-* [Docker Curriculum](https://prakhar.me/docker-curriculum/): A comprehensive tutorial for getting started with Docker. Teaches how to use Docker and deploy dockerized apps on AWS with Elastic Beanstalk and Elastic Container Service.
-* [Docker Toolbox](https://docs.docker.com/toolbox/overview/) - It's a **legacy desktop application** for quick setup and launch of a Docker environment on older Mac (10.10 and below) and Windows (8.1 and below) systems. On newer systems it's recommended to use the [Docker for Mac][docker-for-mac] or [Docker for Windows][docker-for-windows].
-* Check out [Docker Cheat Sheet][docker-cheat-sheet] by [@wsargent][wsargent] __MUST SEE__
-* [Docker Containers on the Desktop][jessblog] - The **funniest way** to learn about docker by [@jessfraz][jessfraz] who also gave a [presentation][jessvid] about it @ DockerCon 2015 (Tips: checkout her [dotfiles][jessfrazdotfiles] and her [dockerfiles][jessfrazdockerfiles])
-* [Learn Docker ★53 ⏳1Y](https://github.com/dwyl/learn-docker) Full environment set up, screenshots, step-by-step tutorial and more resources (video, articles, cheat sheets) by [@dwyl](https://github.com/dwyl)
+* [Basics – Docker, Containers, Hypervisors, CoreOS](http://etherealmind.com/basics-docker-containers-hypervisors-coreos/)
 * [Docker Caveats](http://docker-saigon.github.io/post/Docker-Caveats/) What You Should Know About Running Docker In Production (written 11 APRIL 2016) __MUST SEE__
-* [How to Whale ★19](https://github.com/carolynvs/howtowhale) - Learn Docker in your web browser, no setup or installation required by [@carolynvs](https://github.com/carolynvs).
+* [Docker Cheat Sheet][docker-cheat-sheet] by [@wsargent][wsargent] __MUST SEE__
+* [Docker Containers on the Desktop][jessblog] - The **funniest way** to learn about docker by [@jessfraz][jessfraz] who also gave a [presentation][jessvid] about it @ DockerCon 2015 (Tips: checkout her [dotfiles][jessfrazdotfiles] and her [dockerfiles][jessfrazdockerfiles])
+* [Docker Curriculum](https://prakhar.me/docker-curriculum/): A comprehensive tutorial for getting started with Docker. Teaches how to use Docker and deploy dockerized apps on AWS with Elastic Beanstalk and Elastic Container Service.
+* [Docker Documentation](https://docs.docker.com/)
 * [Docker for all - Developers, Testers, DevOps, Product Owners + Videos ★39](https://github.com/machzqcq/docker-for-all) Docker Training Videos for all
+* [Docker Jumpstart ★2745 ⏳1Y](https://github.com/odewahn/docker-jumpstart): a quick introduction
+* [Docker Toolbox](https://docs.docker.com/toolbox/overview/) - It's a **legacy desktop application** for quick setup and launch of a Docker environment on older Mac (10.10 and below) and Windows (8.1 and below) systems. On newer systems it's recommended to use the [Docker for Mac][docker-for-mac] or [Docker for Windows][docker-for-windows].
+* [Docker Training](https://training.docker.com/) - Includes a free self-paced hands-on tutorial (free registration required or sign-in with DockerHub ID)
+* [How to Whale ★19](https://github.com/carolynvs/howtowhale) - Learn Docker in your web browser, no setup or installation required by [@carolynvs](https://github.com/carolynvs).
 * [Katacoda](https://www.katacoda.com/): Learn Docker using Interactive Browser-Based Labs
+* [Learn Docker ★53 ⏳1Y](https://github.com/dwyl/learn-docker) Full environment set up, screenshots, step-by-step tutorial and more resources (video, articles, cheat sheets) by [@dwyl](https://github.com/dwyl)
+* [Play With Docker](http://training.play-with-docker.com/) - PWD is a great way to get started with Docker from beginner to advanced users. Docker runs directly in your browser.
+* [Play With Moby](http://play-with-moby.com/) - PWM is a web based Moby playground which allows you to try different components of the platform in seconds. It gives you the experience of having a free Alpine Linux Virtual Machine in the cloud where you can build and run Moby projects and even create clusters to experiment.
 
 # Where to start? (Windows)
 * [Windows Containers Quick Start](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/) Overview of Windows containers, drilling down to Quick Starts for Windows 10 and Windows Server 2016
@@ -229,7 +230,7 @@ Services to securely store your Docker images.
 * [Docker Hub](https://hub.docker.com/) provided by Docker Inc.
 * [Docker Registry v2][distribution] - The Docker toolset to pack, ship, store, and deliver content
 * [GCE Container Registry](https://cloud.google.com/container-registry/) Fast, private Docker image storage on Google Cloud Platform
-* [GitLab Container Registry](https://docs.gitlab.com/ce/container_registry/README.html) - Repositories focused on using it images in GitLab CI
+* [GitLab Container Registry](https://docs.gitlab.com/ce/user/project/container_registry.html) - Repositories focused on using it images in GitLab CI
 * [Quay.io](https://quay.io/) (part of CoreOS) - Secure hosting for private Docker repositories
 * [Rescoyl ★9](https://github.com/noteed/rescoyl) - Private Docker registry (free and open source) by [@noteed][noteed]
 * [Sonatype Nexus](https://www.sonatype.com/nexus-repository-oss) - Repository with Universal Support, also for Docker images
@@ -314,6 +315,7 @@ Services to securely store your Docker images.
 ### Monitoring & Logging Services
 * [AppDynamics](https://www.appdynamics.com/community/exchange/extension/docker-monitoring-extension/) - AppDynamics gives enterprises real-time insights into application performance, user performance, and business performance so they can move faster in an increasingly sophisticated, software-driven world.
 * [Axibase Time-Series Database](http://axibase.com/products/axibase-time-series-database/writing-data/docker-cadvisor/) - Long-term retention of container statistics and built-in dashboards for Docker. Collected with native Google cAdvisor storage driver.
+* [CA Technologies Docker Monitoring - $$$](https://www.ca.com/us/products/docker-monitoring.html) - Agile Operations solutions from CA deliver the modern Docker monitoring businesses need to accelerate and optimize the performance of microservices and the dynamic Docker environments running them. Monitor both the Docker environment and apps that run inside them.
 * [Collecting docker logs and stats with Splunk](https://www.splunk.com/blog/2015/08/24/collecting-docker-logs-and-stats-with-splunk/)
 * [CoScale](https://www.coscale.com/docker-monitoring) - Full stack monitoring for containerized applications and microservices. Powered by anomaly detection to find performance problems faster.
 * [Datadog](https://www.datadoghq.com/) - Datadog is a full-stack monitoring service for large-scale cloud environments that aggregates metrics/events from servers, databases, and applications. It includes support for Docker, Kubernetes, and Mesos.
@@ -394,6 +396,7 @@ Services to securely store your Docker images.
 * [FaaS ★2072](https://github.com/alexellis/faas) - Docker Serverless/Functions as a Service (on Docker Swarm). By [@alexellis](https://github.com/alexellis/)
 * [Funker ★11](https://github.com/bfirsh/funker-example-voting-app) - Functions as Docker containers example voting app. By [@bfirsh](https://github.com/bfirsh)
 * [IronFunctions ★1590](https://github.com/iron-io/functions) - The serverless microservices platform FaaS (Funcitons as a Service) which uses Docker containers to run Any language or AWS Lambda functions
+* [SCAR ★5](https://github.com/grycap/scar) - Serverless Container-aware Architectures (SCAR) is a serverless framework that allows easy deployment and execution of containers (e.g. Docker) in Serverless environments (e.g. Lambda) by [@grycap](https://github.com/grycap)
 
 ## Service Discovery
 * [Docker Grand Ambassador ★190 ⏳2Y](https://github.com/cpuguy83/docker-grand-ambassador) - This is a fully dynamic docker link ambassador. + [Article](https://docs.docker.com/engine/admin/ambassador_pattern_linking/) by [@cpuguy83][cpuguy83]
@@ -470,6 +473,7 @@ Services to securely store your Docker images.
 * [Powerline-Docker ★20](https://github.com/adrianmo/powerline-docker) - A Powerline segment for showing the status of Docker containers by [@adrianmo](https://github.com/adrianmo)
 * [Squid-in-a-can ★233](https://github.com/jpetazzo/squid-in-a-can) - in case of proxy problem by [@jpetazzo][jpetazzo]
 * [TrivialRC ★5](https://github.com/vorakl/TrivialRC) - A minimalistic Runtime Configuration system and process manager for containers [@vorakl](https://github.com/vorakl)
+* [udocker ★117](https://github.com/indigo-dc/udocker) - A tool to execute simple docker containers in batch or interactive systems without root privileges by [@inidigo-dc](https://github.com/indigo-dc)
 
 ## Volume management and plugins
 * [Blockbridge ★52](https://github.com/blockbridge/blockbridge-docker-volume) - The Blockbridge plugin is a volume plugin that provides access to an extensible set of container-based persistent storage options. It supports single and multi-host Docker environments with features that include tenant isolation, automated provisioning, encryption, secure deletion, snapshots and QoS. By [@blockbridge][blockbridge]

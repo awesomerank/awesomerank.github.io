@@ -202,6 +202,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
  - [MongoChef](http://3t.io/mongochef) - Cross-platform MongoDB manager, stable and powerful
  - [MongoBooster](http://www.mongobooster.com) - Feature-rich but easy-to-use cross-platform MongoDB manager
  - [MongoHub ★2172 ⏳1Y](https://github.com/jeromelebel/MongoHub-Mac) - Mac native client
+ - [Mongotron](http://mongotron.io/) - Cross-platform, open-source MongoDB client built with Electron
  - [Robomongo](https://github.com/paralect/robomongo) - Native and cross-platform MongoDB manager
 
 ### Monitoring

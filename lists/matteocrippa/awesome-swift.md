@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-838-orange.svg) | June 19, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-841-orange.svg) | June 23, 2017
 
 ### Contributing
 
@@ -159,8 +159,8 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Newsletter
 [back to top](#readme) 
 
-* [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - A curated newsletter by Natasha the Robot
-* [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter
+* [Swift Newsletter by Natasha the Robot](https://www.natashatherobot.com) - Curated newsletter.
+* [Swift Weekly Brief](https://swiftweekly.github.io) - A multi author curated newsletter.
 * [This Week In Swift](http://swiftnews.curated.co/) - Weekly Newsletter on Swift.
 * [WeeklyCocoa.News](https://weeklycocoa.news) - Weekly updated newsletter about iOS, Swift, Objective-C, CocoaTouch, and other Apple connected development technologies.
 
@@ -277,7 +277,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### Analytics
 *Analytics related libraries to easily track your app usage* [back to top](#readme) 
 
-* [Umbrella ★157](https://github.com/devxoul/Umbrella) - Analytics abstraction layer
+* [Umbrella ★157](https://github.com/devxoul/Umbrella) - Analytics abstraction layer.
 
 ### Animation
 *Libs to help with animation* [back to top](#readme) 
@@ -530,7 +530,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AEXML ★650](https://github.com/tadija/AEXML) - xml wrapper.
 * [AlamofireXmlToObjects ★58](https://github.com/evermeer/AlamofireXmlToObjects) - An Alamofire extension for fetching an XML feed and parsing it into objects.
-* [SwiftyXML ★16](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML data
+* [SwiftyXML ★16](https://github.com/chenyunguiMilook/SwiftyXML) - The most swifty way to deal with XML.
 * [SWXMLHash ★772](https://github.com/drmohundro/SWXMLHash) - Simple XML parsing.
 * [XMLParser ★74 ⏳1Y](https://github.com/Mozharovsky/XMLParser) - A lightweight XMLParser for assembling and parsing XML values written for iOS 8+.
 
@@ -677,7 +677,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Bluetooth
 *Wrappers around CoreBluetooth* [back to top](#readme) 
 
-* [Bleu ★411](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U
+* [Bleu ★411](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U.
 * [BlueCap ★369](https://github.com/troystribling/BlueCap) - Wrapper around CoreBluetooth and much more.
 * [Bluetonium ★113](https://github.com/e-sites/Bluetonium) - Library that makes it easy to communicate with Bluetooth devices.
 * [BluetoothKit ★1495](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
@@ -706,7 +706,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### iBeacon
 *Interested in using iBeacon in your Swift project? Here some interesting resources.* [back to top](#readme) 
 
-* [iBeacon ★194](https://github.com/gemtot/iBeacon) - iBeacon implementation.
+* [iBeacon ★194 ⏳1Y](https://github.com/gemtot/iBeacon) - iBeacon implementation.
 * [JMCBeaconManager ★131](https://github.com/izotx/JMCBeaconManager) - iBeacon Manager.
 * [SwiftLocation ★1244](https://github.com/malcommac/SwiftLocation) - Location & Beacon Monitoring.
 
@@ -724,7 +724,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CTPanoramaView ★676](https://github.com/scihant/CTPanoramaView) - A library that displays spherical or cylindrical panoramas with touch or motion based controls.
 * [FacebookImagePicker ★62](https://github.com/terflogag/FacebookImagePicker) - Facebook album photo picker.
 * [Filterpedia ★1544](https://github.com/FlexMonkey/Filterpedia) - Core image filter.
-* [FlexibleImage ★494](https://github.com/kawoou/FlexibleImage) - A simple way to play with image!
+* [FlexibleImage ★494](https://github.com/kawoou/FlexibleImage) - A simple way to play with images.
 * [gifu ★1698](https://github.com/kaishin/gifu) - highly performant animated GIF support for iOS.
 * [GPUImage 2 ★3119](https://github.com/BradLarson/GPUImage2) - GPUImage 2 is a BSD-licensed Swift framework for GPU-accelerated video and image processing.
 * [HanekeSwift ★4310](https://github.com/Haneke/HanekeSwift) - A lightweight generic cache for iOS with extra love for images.
@@ -753,6 +753,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Vulcan ★271](https://github.com/jinSasaki/Vulcan) - Multi image downloader with priority.
 * [WDImagePicker ★67](https://github.com/justwudi/WDImagePicker) - Image picker with customizable crop rectangle (getting update).
 * [XAnimatedImage ★578 ⏳1Y](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS based on FLAnimatedImage.
+* [YapImageManager ★22](https://github.com/yapstudios/YapImageManager) - A high-performance image downloader — powered by YapDatabase.
 
 ### Key Value Coding
 *Libraries for key-value coding in Swift* [back to top](#readme) 
@@ -1039,7 +1040,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Format ★1124](https://github.com/marmelroy/Format) - Formatting kit for numbers, addresses and colors.
 * [Markdown ★60](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown).
 * [MarkdownKit ★68](https://github.com/ivanbruel/MarkdownKit) - A simple and customizable Markdown Parser.
-* [MarkdownView ★758](https://github.com/keitaoouchi/MarkdownView) - MarkdownView for iOS
+* [MarkdownView ★758](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 * [Mustard ★652](https://github.com/mathewsanders/Mustard) - Library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [Notepad ★251](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 * [Parsey ★32](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
@@ -1156,6 +1157,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Twinkle ★414](https://github.com/piemonte/Twinkle) - Easy way to make elements in your iOS app twinkle.
 * [UIDropDown ★49](https://github.com/igongora/UIDropDown) - An elegant dropdown for iOS.
 * [URLEmbeddedView ★388](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
+* [URWeatherView ★136](https://github.com/jegumhon/URWeatherView) - Show weather effects onto a view.
 * [Wallet ★209](https://github.com/rshevchuk/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
 * [WSTagsField ★575](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 * [YNSearch ★524](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest.
@@ -1266,7 +1268,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [FrostedSidebar ★423](https://github.com/edekhayser/FrostedSidebar) - Hamburger Menu and iOS 8 API's.
 * [GuillotineMenu ★2432](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
 * [InteractiveSideMenu ★178](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
-* [KWDrawerController ★39](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use!
+* [KWDrawerController ★39](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
 * [MediumMenu ★286](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
 * [MenuItemKit ★326](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 * [Pagemenu ★3971](https://github.com/PageMenu/PageMenu) - Pagination enabled view controller.
@@ -1324,14 +1326,14 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Template
 [back to top](#readme) 
 
-* [SwiftCssParser ★177](https://github.com/100mango/SwiftCssParser) - Extensible CSS Parser
+* [SwiftCssParser ★177](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
 * [TemplateKit ★102](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces.
-* [Themes ★52](https://github.com/onmyway133/Themes) - Theme management
+* [Themes ★52](https://github.com/onmyway133/Themes) - Theme management.
 
 #### TextField
 [back to top](#readme) 
 
-* [CBPinEntryView ★16](https://github.com/Fawxy/CBPinEntryView) - CBPinEntryView is an easy to use, very customisable pin entry field.
+* [CBPinEntryView ★16](https://github.com/Fawxy/CBPinEntryView) - Easy to use, very customisable pin entry.
 * [DTTextField ★50](https://github.com/iDhaval/DTTextField) - DTTextField is a custom textfield with floating placeholder and error label.
 * [HTYTextField ★211](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder.
 * [PasswordTextField ★119](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforces good password policies.
@@ -1373,6 +1375,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [DTTableViewManager ★294](https://github.com/DenHeadless/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
+* [ExpyTableView ★74](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.
 * [folding-cell ★5772](https://github.com/Ramotion/folding-cell) - Folding cell transition.
 * [Hakuba ★479](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
 * [Persei ★2653](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView.
@@ -1427,7 +1430,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Sugar ★824](https://github.com/hyperoslo/Sugar) - Something sweet that goes great with your Cocoa.
 * [Swift Sugar ★159](https://github.com/RuiAAPeres/Swift-Sugar) - Port of objsugar.
 * [SwiftBitmask ★33](https://github.com/brynbellomy/SwiftBitmask) - `Bitmask<T>` type intended as a replacement for `RawOptionSet`.
-* [SwifterSwift ★3376](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 360 native extensions to boost your productivity.
+* [SwifterSwift ★3376](https://github.com/SwifterSwift/SwifterSwift) - A handy collection of more than 500 native Swift 3 extensions to boost your productivity. 
 * [SwiftGen-Storyboard ★3578](https://github.com/SwiftGen/SwiftGen#uistoryboard) - A tool to auto-generate `enums` for all your Storyboards, Scenes and Segues constants + appropriate convenience accessors.
 * [SwiftLinkPreview ★665](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all information such as title, relevant texts and images.
 * [SwiftRandom ★445](https://github.com/thellimist/SwiftRandom) - A tiny generator of random data.
@@ -1463,7 +1466,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [AppVersionMonitor ★207](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.
-* [Siren ★1852](https://github.com/ArtSabintsev/Siren) - Inform users when App Store updates are available.
+* [Siren ★1852](https://github.com/ArtSabintsev/Siren) - Notify users when a new version of your app is available and prompt them to upgrade.
 * [Version ★74](https://github.com/mrackwitz/Version) - Version represents and compares semantic versions.
 * [Version Tracker Swift ★49](https://github.com/tbaranes/VersionTrackerSwift) - Versions tracker for your iOS, OS X, and tvOS app.
 * [Version Update ★3](https://github.com/tenric/VersionUpdate) - Check and update app's version for both AppStore & Fir.

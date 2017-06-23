@@ -225,7 +225,7 @@ Useful Articles
 * [Handling Sensitive Data In A Docker Application with Kubernetes Secrets](https://scotch.io/tutorials/google-cloud-platform-iii-handling-sensitive-data-in-a-docker-application-with-kubernetes-secrets) by [John Kariuki ](https://twitter.com/_kar_is)
 * [How to Create and Use Kubernetes Secrets](http://linoxide.com/containers/create-use-kubernetes-secrets/) by [Mohamed Ez Ez](http://linoxide.com/author/mohamedez/)
 * [Microservice Monitoring in Kubernetes with Netsil](https://netsil.com/microservices-monitoring-kubernetes/) by [Matt Baldwin](https://twitter.com/baldwinmathew)
-* [Automate deep learning training with Kubernetes GPU-cluster ★225](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
+* [Automate deep learning training with Kubernetes GPU-cluster ★297](https://github.com/Langhalsdino/Kubernetes-GPU-Guide)
 * [Kubernetes Production Patterns (and Anti-Patterns)](https://github.com/gravitational/workshop/blob/master/k8sprod.md)
 
 
@@ -284,7 +284,7 @@ Case Studies
 * [Bringing Pokemon Go to Google Cloud](https://cloudplatform.googleblog.com/2016/09/bringing-Pokemon-GO-to-life-on-Google-Cloud.html)
 * [Monitoring Kubernetes at Wayblazer](https://sysdig.com/blog/monitoring-docker-kubernetes-wayblazer/)
 * [Major League Soccer Monolith to Kubernetes Transition](https://sysdig.com/blog/monoliths-kubernetes-monitoring-transitioning-docker-major-league-soccer/)
-* [Using Kubernetes on AWS ★37](https://github.com/hjacobs/kubernetes-on-aws-users)
+* [Using Kubernetes on AWS ★43](https://github.com/hjacobs/kubernetes-on-aws-users)
 
 
 Persistent Volume Providers
@@ -352,7 +352,7 @@ Related Projects
    * [Automated Image Builds with Jenkins, Packer, and Kubernetes](https://cloud.google.com/solutions/automated-build-images-with-jenkins-kubernetes#kubernetes_architecture)
    * [On-demand Jenkins slaves with Kubernetes and the Google Container Engine](https://www.cloudbees.com/blog/demand-jenkins-slaves-kubernetes-and-google-container-engine)
    * [Jenkins setups for Kubernetes and Docker Workflow](http://iocanel.blogspot.in/2015/09/jenkins-setups-for-kubernetes-and.html)
-   * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes ★411](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
+   * [Lab: Build a Continuous Deployment Pipeline with Jenkins and Kubernetes ★416](https://github.com/GoogleCloudPlatform/continuous-deployment-on-kubernetes)
 * [kb8or ★38](https://github.com/UKHomeOffice/kb8or)
 * [Wercker](http://blog.wercker.com/topic/kubernetes)
 * [Shippable](http://blog.shippable.com/topic/kubernetes)

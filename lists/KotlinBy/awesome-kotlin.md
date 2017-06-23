@@ -357,7 +357,7 @@ Here awesome badge for your project:
 * [MarcinMoskala/KotlinDiscreteMathToolkit ★34](https://github.com/MarcinMoskala/KotlinDiscreteMathToolkit) - Set of extensions for Kotlin that provides Discrete Math functionalities as an Kotlin extension functions.
 
 ### <a name="libraries-frameworks-command-line-interface"></a>Command Line Interface <sup>[Back ⇈](#libraries-frameworks-command-line-interface-subcategory)</sup>
-* [leprosus/kotlin-cli ★17](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
+* [leprosus/kotlin-cli ★17 ⏳1Y](https://github.com/leprosus/kotlin-cli) - Kotlin-CLI - command line interface options parser for Kotlin.
 * [jimschubert/kopper ★31](https://github.com/jimschubert/kopper) - A simple Kotlin option parser
 * [xenomachina/kotlin-argparser ★107](https://github.com/xenomachina/kotlin-argparser) - Easy to use and concise yet powerful and robust command line argument parsing for Kotlin.
 
@@ -432,7 +432,7 @@ Here awesome badge for your project:
 * [inaka/KillerTask ★8](https://github.com/inaka/KillerTask) -  Android AsyncTask wrapper library, written in Kotlin.
 * [grandstaish/paperparcel ★314](https://github.com/grandstaish/paperparcel) - Boilerplate reduction library written specifically for working with Kotlin data classes on Android.
 * [andre-artus/AnvilKotlin ★0 ⏳1Y](https://github.com/andre-artus/AnvilKotlin) - Minimal UI library for Android inspired by React.
-* [mathcamp/fiberglass ★15](https://github.com/mathcamp/fiberglass) - Easy lightweight SharedPreferences library for Android in Kotlin using delegated properties.
+* [mathcamp/fiberglass ★15 ⏳1Y](https://github.com/mathcamp/fiberglass) - Easy lightweight SharedPreferences library for Android in Kotlin using delegated properties.
 * [nitrico/LastAdapter ★371](https://github.com/nitrico/LastAdapter) - Don't write a RecyclerView adapter again. Not even a ViewHolder!.
 * [denisidoro/krouter ★25](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
 * [metalabdesign/AsyncAwait ★252](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.

@@ -41,6 +41,7 @@ title: Awesome Rank for johnjago/awesome-free-software
   - [Web Browsers](#web-browsers)
   - [Web Servers](#web-servers)
 - [Frameworks](#frameworks)
+- [Hardware](#hardware)
 - [Resources](#resources)
   - [Articles](#articles)
   - [Discovery](#discovery)
@@ -103,6 +104,8 @@ title: Awesome Rank for johnjago/awesome-free-software
 
 Note: Some of these may contain or allow installation of nonfree software. See this [FSF page](https://www.gnu.org/distros/common-distros.html) for details.
 
+#### Desktop
+
 - [Arch Linux](https://www.archlinux.org/) - Lightweight and flexible. ([Licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
 - [Devuan](https://devuan.org/) - Fork of Debian without systemd. ([Licenses](https://devuan.org/os/source-code))
 - [elementary OS](https://elementary.io/) - Elegant design aimed at ease of use. Pantheon desktop environment. ([Licenses](https://elementary.io/open-source))
@@ -112,6 +115,10 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Tails](https://tails.boum.org/) - Live operating system focused on privacy and anonymity. ([GNU GPLv3](https://tails.boum.org/doc/about/license/))
 - [Ubuntu](https://www.ubuntu.com/) - Debian-based operating system for personal computers and servers. ([Licenses](https://wiki.archlinux.org/index.php/Licenses))
 - [Xubuntu](https://xubuntu.org/) - Lightweight version of Ubuntu. Xfce desktop environment. ([See Ubuntu licenses](https://www.ubuntu.com/about/about-ubuntu/licensing))
+
+#### Mobile
+
+- [Replicant](https://www.replicant.us/) - Fully free Android distribution that emphasizes freedom, security, and privacy. ([Licenses](https://www.replicant.us/about.php))
 
 ### Other
 
@@ -197,6 +204,11 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [Backbone.js](http://backbonejs.org/) - Provides a minimal structure for JavaScript in web applications. ([MIT](https://github.com/jashkenas/backbone/blob/master/LICENSE))
 - [Nano ★116 ⏳1Y](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
 
+## Hardware
+> Libre-friendly.
+
+- [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy.
+
 ## Resources
 
 ### Articles
@@ -244,7 +256,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ## License
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/johnjago/awesome-free-software">johnjago/awesome-free-software</a> with ranks

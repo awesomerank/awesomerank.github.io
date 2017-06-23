@@ -107,6 +107,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ### Web
 * :octocat: [AngularJs2 ★24436](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+* :octocat: [React-UWP ★103](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
 * :octocat: [palantir/plottable ★2103](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org)
 * :octocat: [APIs-guru/graphql-voyager ★1602](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
 * :octocat: [Rebilly/ReDoc ★795](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation

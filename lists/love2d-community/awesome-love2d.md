@@ -108,7 +108,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [knife ★103](https://github.com/airstruck/knife) - Collection of useful micro-modules for Lua (Class, State Machines, Bind, Chain, Coroutines, Event, Memoize, Entity, Tests, Timer)
 * [lovely-windows ★1](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [love-state-switcher ★1](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine
-* [lue ★19](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
+* [lue ★19 ⏳1Y](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
 * [lume ★192](https://github.com/rxi/lume) - Collection of functions for Lua, geared towards game development
 * [rotLove ★96](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 * [ScreenManager ★12](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework

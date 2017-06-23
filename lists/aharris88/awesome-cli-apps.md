@@ -250,7 +250,7 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 - [git commander ★988 ⏳1Y](https://github.com/golbin/git-commander) - A git tool with a easy terminal interface.
 - [git-stats ★4325](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
 - [hub ★10458](https://github.com/github/hub) - A command-line wrapper for git that makes you better at GitHub.
-- [dev-time ★136](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+- [dev-time ★136 ⏳1Y](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [git-labelmaker ★230](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
 - [tig ★4430](https://github.com/jonas/tig) - Text-mode interface for Git.
 - [git-standup ★4134](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.

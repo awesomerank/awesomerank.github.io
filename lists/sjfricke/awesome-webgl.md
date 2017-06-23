@@ -28,7 +28,7 @@ Processing Unit (GPU).
 * [WebGL 2](#webgl-2)
 * [WebVR](#webvr)
 * [Libraries](#libraries)
-* [Community](#community)
+* [Community](#community-1)
 
 ## WebGL
 
@@ -200,6 +200,20 @@ Processing Unit (GPU).
     * [Slides](https://www.khronos.org/assets/uploads/developers/library/2017-webgl-webinar/Khronos-Webinar-WebGL-20-is-here_What-you-need-to-know_Apr17.pdf)
 
 ## WebVR
+
+> Information about different parts of the new and upcoming WebVR ecosystem
+>
+> All items related to more developers and less on where to find WebVR content as entertainment
+
+#### WebVR sub-categories
+
+* [Community](#community)
+* [References](#references-2)
+
+### Community
+* [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
+
+### References
 
 ## Libraries
 

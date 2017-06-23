@@ -64,6 +64,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless working group ★3](https://github.com/cncf/wg-serverless) - CNCF serverless working group.
 - [Emit Conference](http://www.emitconference.com) - The conference on event-driven architectures.
 - [JeffConf](https://www.jeffconf.com) - Conference focused on serverless architectures.
+- [Shipped](http://shipped.devopslinks.com/) - Independent newsletter focused on serverless computing, containers & orchestration.
+
 
 ## Blogs
 
@@ -565,6 +567,12 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Why we switched from Docker to serverless](https://serverless.com/blog/why-we-switched-from-docker-to-serverless/) - Why ShoutOUT switched from Docker container usage to a serverless architecture.
 - [Kicking the tires on this serverless thing](http://rob.conery.io/2017/06/05/serverless-is-a-thing/) - Post which evaluates different frameworks and use cases for serverless architectures and applications.
 - [Introduction to the Serverless Framework](http://www.developintelligence.com/blog/2017/06/introduction-serverless-framework/) - Tutorial which explains how to build an API with the Serverless Framework.
+- [How to serve serverless](http://developer.telerik.com/content-types/tutorials/serve-serverless-examples-azure/) - How to serve serverless with Azure examples.
+- [Build a serverless Twilio SMS + call forwarding bot](https://hackernoon.com/build-a-serverless-twilio-sms-call-forwarding-bot-in-7-minutes-using-node-js-stdlib-411697c3cc1b) - Tutorial on how to build a serverless Twilio SMS + call forwarding bot in 7 minutes.
+- [Web auth with AWS Lambda and API Gateway](https://www.sandersdenardi.com/aws-lambda-api-auth/) - Tutorial on how to do web authentication with AWS Lambda and API Gateway.
+- [Why go serverless?](http://blog.backand.com/why-go-serverless/) - Post which explaines why one should consider to go serverless.
+- [Event-driven processing with Serverless and DynamoDB streams](https://serverless.com/blog/event-driven-architecture-dynamodb/) - How to setup an event-driven data processing pipeline with the Serverless Framework and DynamoDB streams.
+- [Serverless v1.16.0](https://serverless.com/blog/serverless-v1.16.0/) - Announcement blog post for Serverless Framework v1.16.0.
 
 ## Screencasts
 
@@ -598,6 +606,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [What's new in Serverless v1.15](https://www.youtube.com/watch?v=o1-vyHJ9J8Y) - Video walkthrough about all the new features in Serverless v1.15.
 - [Create a website and API with AWS Lambda](https://www.youtube.com/watch?v=xhkAd-yJwa8) - Create a simple website using Serverless architecture with API Gateway, Lambda, S3, and DynamoDB.
 - [Serverless Framework tutorial series](https://www.youtube.com/watch?v=lUTGk64jppM&list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3) - Tutorial series which covers the Serverless Framework.
+- [How to make a Serverless Framework plugin](https://www.youtube.com/watch?v=lzcmdmk2Lc8) - Video which shows how to make a Serverless Framework plugin in under 2 minutes.
+- [What's new in Serverless v1.16](https://www.youtube.com/watch?v=_F4YO6pi1sg) - Video walkthrough about all the new features in Serverless v1.16.
 
 ## Talks
 
@@ -728,7 +738,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Official Serverless Examples ★598](https://github.com/serverless/examples) - Examples from the Serverless Framework team and community.
 - [Serverless examples](https://github.com/serverless-examples) - GitHub organization with several Serverless example projects.
 - [React Serverless ★8 ⏳1Y](https://github.com/hiromoon/react-serverless) - Use React together with Serverless.
-- [Serverless test plugin ★23](https://github.com/arabold/serverless-test-plugin) - Test plugin.
+- [Serverless test plugin ★23 ⏳1Y](https://github.com/arabold/serverless-test-plugin) - Test plugin.
 - [Lang Adventure backend ★1 ⏳1Y](https://github.com/jonatasschagas/langadventurebackend) - Backend from Lang Adventure game.
 - [Serverless project written with ES2015 ★3 ⏳1Y](https://github.com/mpppk/serverless-project-written-in-es2015) - Project example written in ES2015.
 - [Serveress Telegram bot ★5 ⏳1Y](https://github.com/minibikini/serverless-telegram-bot) - Telegram bot implementation.
@@ -942,6 +952,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Slack Time Tracking Bot with Google Sheets ★1](https://github.com/ersel/time-tracker-slack-gsheets) - A Node.js application to help you keep track of time spent on manual tasks in a standardised way.
 - [Kinesis Streams fan-out ★18](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework).
 - [X-Ray ★1](https://github.com/e-r-w/serverless-xray-test) - Example service to test the AWS X-Ray integration.
+- [Faultline ★34](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
 
 ## Related projects
 
@@ -1002,6 +1013,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Lambdacult](https://lambdacult.com) - Services on top of AWS Lambda.
 - [Scar ★5](https://github.com/grycap/scar) - Serverless Container-aware ARchitectures (e.g. Docker containers in AWS Lambda).
 - [Serverless Computing: Current Trends and open problems](https://arxiv.org/pdf/1706.03178.pdf) - Research paper on serverless computing.
+- [Lambda session auth ★10](https://github.com/sedenardi/lambda-session-auth) - Cookie-based session authentication using AWS Lambda and Node.js.
+- [CloudBoost ★873](https://github.com/cloudboost/cloudboost) - One complete serverless platform for the next web.
 
 ## Plugins
 
@@ -1130,6 +1143,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Graph ★10](https://github.com/trek10inc/serverless-graph) - Outputs your Serverless architecture and resources as a Graphviz dot compatible output.
 - [Lambda fanout ★3](https://github.com/trek10inc/serverless-aws-lambda-fanout) - Quickly add a fanout Lambda with targets to a Serverless project.
 - [Browserifier ★2](https://github.com/digitalmaas/serverless-plugin-browserifier) - Reduce the size and speed up your Node.js based Lambdas using Browserify.
+- [Shell ★3](https://github.com/UnitedIncome/serverless-shell) - Drop to a runtime shell with all the environment variables set that you'd have in Lambda.
 
 ## Literature
 

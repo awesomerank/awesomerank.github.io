@@ -81,7 +81,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [darrint/device-blocker ★9](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
 * [dlecan/generic-dns-update ★2](https://github.com/dlecan/generic-dns-update) — a tool to update DNS zonefiles with your IP address [<img src="https://api.travis-ci.org/dlecan/generic-dns-update.svg?branch=master">](https://travis-ci.org/dlecan/generic-dns-update)
 * [Factotum ★75](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) [<img src="https://api.travis-ci.org/snowplow/factotum.svg?branch=master">](https://travis-ci.org/snowplow/factotum)
-* [fcsonline/drill ★10](https://github.com/fcsonline/drill) — a HTTP load testing application inspired by Ansible syntax
+* [fcsonline/drill ★43](https://github.com/fcsonline/drill) — a HTTP load testing application inspired by Ansible syntax
 * [Fractalide ★296](https://github.com/fractalide/fractalide) — Simple Rust Microservices
 * [habitat](https://www.habitat.sh) — An tool created by [Chef](https://www.chef.io/) to build, deploy, and manage applications.
 * [imjacobclark/Herd ★63 ⏳1Y](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
@@ -263,7 +263,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
 * Python
   * [dgrunwald/rust-cpython ★482](https://github.com/dgrunwald/rust-cpython) — Python bindings [<img src="https://api.travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
   * [mitsuhiko/snaek ★165](https://github.com/mitsuhiko/snaek) — helps to build Rust libraries and bridge them to Python with the help of cffi. [<img src="https://api.travis-ci.org/mitsuhiko/snaek.svg?branch=master">](https://travis-ci.org/mitsuhiko/snaek)
-  * [PyO3/PyO3 ★27](https://github.com/PyO3/PyO3) - CPython Rust binding (a fork of rust-cpython) [<img src="https://api.travis-ci.org/PyO3/PyO3.svg?branch=master">](https://travis-ci.org/PyO3/PyO3)
+  * [PyO3/PyO3 ★31](https://github.com/PyO3/PyO3) - CPython Rust binding (a fork of rust-cpython) [<img src="https://api.travis-ci.org/PyO3/PyO3.svg?branch=master">](https://travis-ci.org/PyO3/PyO3)
 * R
   * [rustr/rustr ★79](https://github.com/rustr/rustr) — use Rust from R, and use R in Rust [<img src="https://api.travis-ci.org/rustr/rustr.svg?branch=master">](https://travis-ci.org/rustr/rustr)
 * Ruby
@@ -757,7 +757,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [tomaka/android-rs-glue ★426](https://github.com/tomaka/android-rs-glue) — glue between Rust and Android [<img src="https://api.travis-ci.org/tomaka/android-rs-glue.svg?branch=master">](https://travis-ci.org/tomaka/android-rs-glue)
 * iOS
   * [TimNN/cargo-lipo ★35](https://github.com/TimNN/cargo-lipo) — a cargo lipo subcommand which automatically creates a universal library for use with your iOS application. [<img src="https://api.travis-ci.org/TimNN/cargo-lipo.svg?branch=master">](https://travis-ci.org/TimNN/cargo-lipo)
-  * [vhbit/ObjCrust ★36 ⏳1Y](https://github.com/vhbit/ObjCrust) — using Rust to create an iOS static library [<img src="https://api.travis-ci.org/vhbit/ObjCrust.svg?branch=master">](https://travis-ci.org/vhbit/ObjCrust)
+  * [vhbit/ObjCrust ★36 ⏳2Y](https://github.com/vhbit/ObjCrust) — using Rust to create an iOS static library [<img src="https://api.travis-ci.org/vhbit/ObjCrust.svg?branch=master">](https://travis-ci.org/vhbit/ObjCrust)
 * Pebble
   * [andars/pebble.rs ★39 ⏳1Y](https://github.com/andars/pebble.rs) — a crate that allows Rust to be used to develop Pebble applications.
 

@@ -101,7 +101,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Fuse Pokedex ★3](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
 - [Fuse Samples ★124](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 - [fuse.QrScanner ★1](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode.
-- [Fuse Tags with Firebase ★15](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
+- [Fuse Tags with Firebase ★15 ⏳1Y](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Haxe ★29 ⏳1Y](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.

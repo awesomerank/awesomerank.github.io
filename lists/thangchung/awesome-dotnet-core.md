@@ -78,6 +78,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### API
 * [autorest ★820](https://github.com/Azure/autorest) - Swagger (OpenAPI) Specification code generator featuring C# and Razor templates. Supports C#, Java, Node.js, TypeScript, Python and Ruby. `4.5.x or above`
 * [Flurl ★607](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP for .NET [http://tmenier.github.io/Flurl](http://tmenier.github.io/Flurl).
+* [halcyon ★18](https://github.com/visualeyes/halcyon) - HAL implementation for ASP.NET.
 * [LightNode ★104](https://github.com/neuecc/LightNode) - Micro RPC/REST Framework built on OWIN [http://neuecc.github.io/LightNode](http://neuecc.github.io/LightNode).
 * [NSwag ★609](https://github.com/NSwag/NSwag) - The Swagger API toolchain for .NET, Web API and TypeScript [http://NSwag.org](http://NSwag.org).
 * [refit ★1264](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET [http://paulcbetts.github.io/refit/](http://paulcbetts.github.io/refit/).
@@ -151,14 +152,14 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Platformus](https://github.com/Platformus) - Free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
 * [SimpleContent ★116](https://github.com/joeaudette/cloudscribe.SimpleContent) - Simple, yet flexible content and blog engine for ASP.NET Core that can work with or without a database.
 * [Squidex ★43](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
-* [Weapsy ★218](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
+* [Weapsy ★227](https://github.com/Weapsy/Weapsy) - Open source ASP.NET Core CMS based on DDD and CQRS. It supports MSSQL, MySQL, SQLite and PostgreSQL out of the box.
 
 ### Code Analysis and Metrics
 * [App.Metrics ★157](https://github.com/alhardy/AppMetrics) - App Metrics is an open-source and cross-platform .NET library used to record and report metrics within an application and reports it's health. See the [docs](https://alhardy.github.io/app-metrics-docs/) for me details.
 * [AspNet.Metrics](https://github.com/alhardy/aspnet-metrics) - Capturing CLR, application-level web request metrics. Middleware and extensions using [Metrics.Net ★281](https://github.com/Recognos/Metrics.NET).
 * [Audit.NET ★315](https://github.com/thepirat000/Audit.NET) - Small framework to audit .NET object changes.
 * [BenchmarkDotNet](https://github.com/PerfDotNet/BenchmarkDotNet) - Powerful .NET library for benchmarking.
-* [NBench](https://github.com/petabridge/NBench/tree/dev) - Performance benchmarking and testing framework for .NET applications. `4.5.x or above`
+* [NBench ★354](https://github.com/petabridge/NBench) - Performance benchmarking and testing framework for .NET applications.
 * [OpenCover ★741](https://github.com/OpenCover/opencover) - Code coverage tool for .NET 2 and above (WINDOWS OS only), support for 32 and 64 processes with both branch and sequence points.
 
 ### Compilers, Transpilers and Languages
@@ -271,7 +272,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Dapper ★6447](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
   * [Dapper-FluentMap ★98](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
   * [Dommel ★53](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
-* [DBreeze ★114](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL ( key value store embedded ) ACID multi-paradigm database management system.
+* [DBreeze ★118](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL ( key value store embedded ) ACID multi-paradigm database management system.
 * [Limebean](https://nick-lucas.github.io/LimeBean/) - Hybrid-ORM, designed to be simple to use and not totally hide SQL, while having all the nice things you expect from an ORM. Inspired by RedBeanPHP.
 * [marten ★518](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications [http://jasperfx.github.io/marten](http://jasperfx.github.io/marten).
 * [NEventStore](https://github.com/NEventStore/NEventStore/tree/feature/dotnetcore) - Persistence library used to abstract different storage implementations when using event sourcing as storage mechanism. This library is developed with a specific focus on DDD/CQRS applications.

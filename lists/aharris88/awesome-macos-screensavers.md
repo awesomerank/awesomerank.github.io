@@ -136,7 +136,7 @@ $0.99
 
 > Plays videos of people completing speed runs of games.
 
-[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/speedS@ver.png) ★59 ⏳3Y](https://github.com/orta/SpeedS-ver)
+[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/speedS@ver.png) ★59 ⏳4Y](https://github.com/orta/SpeedS-ver)
 
 ## Aquarium
 

@@ -42,7 +42,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## Go
 
-- [Docker](https://github.com/docker/docker/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
+- [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
 - [CockroachDB](https://github.com/cockroachdb/cockroach/labels/easy) _(label: easy)_ <br> The Scalable, Survivable, Strongly-Consistent SQL Database
@@ -53,6 +53,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [TEAMMATES](https://github.com/TEAMMATES/teammates/labels/d.FirstTimers) _(label: d.FirstTimers)_ <br> TEAMMATES is a free online tool for managing peer evaluations and other feedback paths of your students.
 - [elasticsearch](https://github.com/elastic/elasticsearch/labels/low%20hanging%20fruit) _(label: low hanging fruit)_ <br> Open Source, Distributed, RESTful Search Engine.
 - [JabRef](https://github.com/JabRef/jabref/labels/beginner) _(label: beginner)_ <br> Desktop application moving from SWING to JavaFX. Focus on code quality: Usage of code quality tools such as [CodeCov](https://codecov.io/) and [Codacy](https://www.codacy.com/). Each Pull Request is reviewed by two developers to provide high-quality feedback and to ensure high quality of new contributions.
+- [Wikimedia Commons Android App](https://github.com/commons-app/apps-android-commons/labels/beginner%20friendly) _(label: beginner friendly)_ <br> Allows users to upload pictures from their Android phone/tablet to Wikimedia Commons.
 
 ## JavaScript
 
@@ -117,6 +118,9 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [coala](https://github.com/issues?utf8=✓&q=is%3Aopen+is%3Aissue+user%3Acoala+label%3Adifficulty%2Fnewcomer++no%3Aassignee) _(label: difficulty/newcomer)_ <br>A unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [jarvis](https://github.com/sukeesh/Jarvis/labels/difficulty%2Fnewcomer) _(label: difficulty/newcomer)_ <br>A personal assistant for Linux based on Command line Interface.
 - [qutebrowser](https://github.com/qutebrowser/qutebrowser/labels/easy) _(label: easy)_ <br> A keyboard-driven, vim-like browser based on PyQt5.
+- [Pybee/voc](https://github.com/pybee/voc/labels/first-timers-only) _(label: first-timers-only)_ <br> A transpiler that converts Python code into Java bytecode.
+- [Pybee/batavia](https://github.com/pybee/batavia/labels/first-timers-only) _(label: first-timers-only)_ <br> A Javascript implementation of the Python virtual machine.
+- [JARVIS-on-Messenger](https://github.com/swapagarwal/JARVIS-on-Messenger/labels/Low-Hanging%20Fruit) _(label: Low-Hanging Fruit)_ <br> :speech_balloon: A community-driven python bot that aims to be as simple as possible to serve humans with their everyday tasks http://m.me/J.A.R.V.I.S.on.Messenger
 
 ## Ruby
 

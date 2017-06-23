@@ -82,6 +82,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [Devcards ★1080](https://github.com/bhauman/devcards) – Devcards aims to provide a visual REPL experience for ClojureScript.
 - [lein-cljsbuild ★912](https://github.com/emezeske/lein-cljsbuild) — A Leiningen plugin to make ClojureScript development easy.
 - [lein-figwheel ★2132](https://github.com/bhauman/lein-figwheel) – Leiningen plugin that pushes ClojureScript code changes to the client.
+- [Lumo ★853](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 - [Planck ★717](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
 - [shadow-build ★105](https://github.com/thheller/shadow-build) – A ClojureScript build library capable of compiling multiple output files.

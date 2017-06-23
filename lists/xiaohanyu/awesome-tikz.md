@@ -67,8 +67,8 @@ Tools
 -   [tikzedt](http://www.tikzedt.org/) - A combined WYSIWYG/text editor designed for editing Tikz code.
 -   [ktikz ★57](https://github.com/fhackenberger/ktikz) - Provides a nice user interface for making pictures using TikZ.
 -   [gratex](https://sourceforge.net/projects/gratex/) - Visual graph creator for LaTeX (PGF & TikZ).
--   [matlab2tikz ★480](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
--   [matplotlib2tikz ★347](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
+-   [matlab2tikz ★484](https://github.com/matlab2tikz/matlab2tikz) - Converts MATLAB®/Octave figures to TikZ/pgfplots figures.
+-   [matplotlib2tikz ★349](https://github.com/nschloe/matplotlib2tikz) - Convert matplotlib figure and spits out a TikZ/PGFplots figure.
 
 Libraries
 ---------

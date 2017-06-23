@@ -172,7 +172,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Libraries for building Console Applications and Console User Interfaces.*
 
 * [aurora ★232](https://github.com/logrusorgru/aurora) - ANSI terminal colors that supports fmt.Printf/Sprintf
-* [chalk ★200](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output.
+* [chalk ★200 ⏳1Y](https://github.com/ttacon/chalk) - Intuitive package for prettifying terminal/console output.
 * [color ★1617](https://github.com/fatih/color) - Versatile package for colored terminal output.
 * [colourize ★9 ⏳1Y](https://github.com/TreyBastian/colourize) - Go library for ANSI colour text in terminals.
 * [go-ataman ★0](https://github.com/workanator/go-ataman) - Go library for rendering ANSI colored text templates in terminals.
@@ -1372,7 +1372,7 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [apicompat ★76](https://github.com/bradleyfalzon/apicompat) - Checks recent changes to a Go project for backwards incompatible changes.
 * [dupl ★81](https://github.com/mibk/dupl) - A tool for code clone detection.
 * [errcheck ★818](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
-* [gcvis ★697](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
+* [gcvis ★697 ⏳1Y](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 * [Go Metalinter ★1634](https://github.com/alecthomas/gometalinter) - Metalinter is a tool to automatically apply all static analysis tool and report their output in normalized form.
 * [go-checkstyle ★35](https://github.com/qiniu/checkstyle) checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style refered to some points in Go Code Review Comments.
 * [go-cleanarch ★150](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.

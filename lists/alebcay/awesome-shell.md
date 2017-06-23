@@ -316,6 +316,8 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness ★18868](https://github.com/bayandin/awesome-awesomeness).
 
 ### See also
+
+* [awesome-cli-apps)(https://github.com/aharris88/awesome-cli-apps) 
 * [awesome-fish][awesome-fish]
 * [awesome-zsh][awesome-zsh]
 * [terminals-are-sexy ★4808](https://github.com/k4m4/terminals-are-sexy)

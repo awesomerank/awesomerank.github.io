@@ -430,7 +430,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular2-text-mask ★1768](https://github.com/text-mask/text-mask) Angular 2 input mask directive
 * [ng2-fullpage ★101](https://github.com/meiblorn/ngx-fullpage) Fullpage scrolling for Angular2 based on fullPage.js
 * [file-droppa ★43](https://github.com/ptkach/fileDroppa) Simple files drop and upload component with files list
-* [ng2-img-fallback ★18](https://github.com/VadimDez/ng2-img-fallback) Load placeholder image on image error
+* [ngx-img-fallback ★21](https://github.com/VadimDez/ngx-img-fallback) Load placeholder image on image error
 * [angular2-busy ★180](https://github.com/devyumao/angular2-busy) Show busy/loading indicators on any promise, or on any Observable's subscription
 * [ng2-pdf-viewer ★108](https://github.com/VadimDez/ng2-pdf-viewer) PDF viewer component
 * [Covalent](https://teradata.github.io/covalent/) - a UI platform built on Angular 2.0 + Material Design
@@ -469,7 +469,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [fuel-ui ★251](https://github.com/FuelInteractive/fuel-ui) OrderBy and Range pipes ported from Angular 1.x to Angular 2
 * [ng2-filter-pipe ★25](https://github.com/VadimDez/ng2-filter-pipe) Pipe for filtering arrays
 * [ngx-pipes ★332](https://github.com/danrevah/ngx-pipes) Bunch of useful pipes for Angular2 and beyond!
-* [ngx-order-pipe ★15](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
+* [ngx-order-pipe ★18](https://github.com/VadimDez/ngx-order-pipe) OrderBy pipe for Angular4+ - sort collection by a field
 * [angular2-camelcase ★1](https://github.com/previousdeveloper/angular2-camelcase) Angular2 pipe to convert camelCase strings to human readable strings Edit
 
 #### Generators

@@ -25,6 +25,7 @@ An awesome list about Software Defined Networks (SDN)
   - [Test](#lest)
   - [NFV](#nfv)
   - [Overlay Network](#overlay-network)
+  - [Router](#router)
   - [Misc](#misc)
 - [Resources](#resources)
   - [Books](#books)
@@ -57,6 +58,7 @@ capabilities such as MPLS and SDN
 - [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack.
 - [ZeroTier ★1494](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
 - [PISCES](http://pisces.cs.princeton.edu/) - A Programmable, Protocol-Independent Software Switch.
+- [BESS ★61](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
 
 # Network Virtualization
 
@@ -96,6 +98,7 @@ capabilities such as MPLS and SDN
 - [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
 - [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
 - [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports OpenFlow environment.
+- [Containernet ★12](https://github.com/containernet/containernet) - Mininet fork that allows to use Docker containers as hosts in emulated networks
 
 # Language
 
@@ -131,6 +134,18 @@ protocol, based on Twisted.
 # Overlay Network
 
 - [VXLAN](https://docs.ustack.com/unp/src/architecture/vxlan.html) - Virtual Extensible LAN
+- [NVGRE](https://tools.ietf.org/html/draft-sridharan-virtualization-nvgre-00) - NVGRE-Network-Virtualization-using-Generic-Routing-Encapsulation
+
+# Router
+
+- [FreeRouter](http://freerouter.nop.hu/) - Python-based vRouter
+- [Bird](http://bird.network.cz/)
+- [Quagga](http://www.quagga.net/)
+- [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
+- [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
+- [bgp4r ★20](https://github.com/jesnault/bgp4r)
+- [gobgp ★955](https://github.com/osrg/gobgp)
+- [yabgp ★78](https://github.com/smartbgp/yabgp)
 
 # Misc
 
@@ -156,7 +171,8 @@ protocol, based on Twisted.
 ## Paper
 - [SDN A Comprehensive Survey](https://pdfs.semanticscholar.org/d8bd/4c1e92420200bd29cb1a233bd81eb3c28bba.pdf)
 - [A Guided Tour of Data-Center Networking](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40404.pdf)
-- [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)---
+- [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
+---
 <p align="center">
 	This list is a copy of <a href="https://github.com/sdnds-tw/awesome-sdn">sdnds-tw/awesome-sdn</a> with ranks
 </p>

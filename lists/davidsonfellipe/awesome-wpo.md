@@ -192,7 +192,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Benchmark - CSS
 
-* [CSS-perf ★575 ⏳1Y](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
+* [CSS-perf ★575 ⏳2Y](https://github.com/mdo/css-perf) - Completely unscientific way of testing CSS performance. Most of these tests will revolve around methodologies and techniques for determining effective CSS architecture. Put another way, I want to know what works best given a particular comparison of CSS strategies.
 
 
 ## Benchmark - Javascript
@@ -205,7 +205,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Timing.js ★1264](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
 * [Stats.js ★4136](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
 * [PerfTests ★1 ⏳2Y](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
-* [Memory-stats.js ★1896 ⏳1Y](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory.
+* [Memory-stats.js ★1896 ⏳2Y](https://github.com/paulirish/memory-stats.js) - minimal monitor for JS Heap Size via performance memory.
 
 
 ## Benchmark - PHP
@@ -361,7 +361,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Django-pipeline](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
 * [JShrink ★459](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
 * [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.
-* [CSSshrink ★1080 ⏳2Y](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
+* [CSSshrink ★1080 ⏳3Y](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
 * [Grunt-cssshrink ★27 ⏳1Y](https://github.com/JohnCashmore/grunt-cssshrink) - This is just a grunt wrapper for CSS Shrink.
 * [Gulp-cssshrink ★22 ⏳1Y](https://github.com/torrottum/gulp-cssshrink) - Shrinks CSS files using cssshrink for Gulp.
 * [Prettyugly ★7 ⏳3Y](https://github.com/stoyan/prettyugly) - Uglify (strip spaces) or prettify (add consistent spaces) CSS code.

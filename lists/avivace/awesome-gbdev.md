@@ -124,7 +124,7 @@ Here you can find everything to get started and master the development of unoffi
 - [oneup-gb ★0](https://github.com/oneup40/oneup-gb) - C++ DMG. Currently provides SDL frontend and Retroarch integration.
 - [rustboy ★5](https://github.com/VelocityRa/rustboy) - A basic DMG emulator written in Rust, using the Piston engine for window creation and graphics.
 - [Gearboy ★245](https://github.com/drhelius/Gearboy) - C++. iOS, Raspberry Pi, Mac, Windows and Linux.
-- [AndroidGameBoyEmulator ★179](https://github.com/pedrovgs/AndroidGameBoyEmulator)
+- [AndroidGameBoyEmulator ★179 ⏳1Y](https://github.com/pedrovgs/AndroidGameBoyEmulator)
 - [GameLad ★251](https://github.com/Dooskington/GameLad) - C++/SDL almost fully featured emulator.
 - [Wadatsumi ★8](https://github.com/arrow-lang/wadatsumi) - Arrow.
 - [Binjgb ★28](https://github.com/binji/binjgb) - 5kloc emulator in C that passes most of the tests.
@@ -139,7 +139,7 @@ Here you can find everything to get started and master the development of unoffi
 ## Software Development
 
 ### Assemblers
-- [rgbds ★231](https://github.com/rednex/rgbds) - Assembler and linker package (a fork currently updated).
+- [rgbds ★234](https://github.com/rednex/rgbds) - Assembler and linker package (a fork currently updated).
 - [wla-dx ★147](https://github.com/vhelin/wla-dx) - Yet Another GB-Z80/Z80/.. Multi Platform Cross Assembler Package.
 - [gbasm ★94](https://github.com/BonsaiDen/gbasm) - A JavaScript based compiler for Gameboy z80 assembly code.
 - [tniASM](http://www.tni.nl/products/tniasm.html) - Macro Assembler.

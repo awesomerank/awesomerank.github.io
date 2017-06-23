@@ -296,7 +296,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-aim - Determine the cursor aim for triggering mouse events ★289](https://github.com/gabrielbull/react-aim)
 * [react-touch - React photo viewer for mobile ★429 ⏳1Y](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
-* [react-grid - Data grid for React ★71 ⏳1Y](https://github.com/prometheusresearch/react-grid)
+* [react-grid - Data grid for React ★71 ⏳2Y](https://github.com/prometheusresearch/react-grid)
 * [React-iCheck - iCheck components built with React. Highly customizable checkboxes and radio buttons ★132](https://github.com/luqin/react-icheck)
 * [react-absolute-grid - An absolutely positioned, animated, filterable, sortable, drag and droppable, ES6 grid for React ★655](https://github.com/jrowny/react-absolute-grid)
 * [react-async - Async rendering for React components ★447](https://github.com/andreypopp/react-async)
@@ -566,7 +566,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-typeahead-search by @tonyspiro ★12 ⏳1Y](https://github.com/tonyspiro/react-typeahead-search)
 * [react-autocomplete by @rackt - WAI-ARIA compliant React autocomplete](https://github.com/rackt/react-autocomplete)
 * [react-autosuggest by @moroshko - WAI-ARIA compliant React autosuggest component ★1943](https://github.com/moroshko/react-autosuggest)
-* [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS ★92 ⏳2Y](https://github.com/eliseumds/react-autocomplete)
+* [react-autocomplete by @eliseumds- Just tasting some ReactJS + RxJS ★92 ⏳3Y](https://github.com/eliseumds/react-autocomplete)
 * [react-autocomplete by @prometheusresearch - Autocomplete widget based on React ★35](https://github.com/prometheusresearch/react-autocomplete)
 * [instatype by @gragland - Simple react autocomplete component ★43](https://github.com/gragland/instatype)
 

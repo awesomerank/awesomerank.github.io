@@ -338,7 +338,7 @@ anylysis and visualization.*
 
 ## Miscellaneous
 
- * [clj-tuple ★170 ⏳1Y](https://github.com/ztellman/clj-tuple)
+ * [clj-tuple ★170 ⏳2Y](https://github.com/ztellman/clj-tuple)
  * [slingshot ★470](https://github.com/scgilardi/slingshot)
  * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
 

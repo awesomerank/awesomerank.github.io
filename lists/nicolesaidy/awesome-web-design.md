@@ -25,6 +25,7 @@ title: Awesome Rank for nicolesaidy/awesome-web-design
 - [Sketch Tools](#sketch-tools)
 - [Tutorials & Courses](#tutorials--courses)
 - [Productivity](#productivity)
+- [Slack Teams](#slack-teams)
 
 ## Blog & News
 * [Web Designer News](http://webdesignernews.com): The best curated stories for designers.
@@ -132,6 +133,13 @@ title: Awesome Rank for nicolesaidy/awesome-web-design
 * [Qbserve](https://qotoqot.com/qbserve/): Automatic time tracking, invoicing, and real-time productivity feedback.
 * [Paste](http://pasteapp.me/): A smart clipboard history manager for Mac.
 * [Sip](http://sipapp.io/): A color picker for Mac.
+* [Timing](https://timingapp.com/): Automatic time and productivity tracking for Mac.
+
+## Slack Teams
+* [Team Sketch](http://teamsketch.io): A community for Sketch designers powered by Slack
+* [Designer Hangout](https://www.designerhangout.co): A place where UXers from around the world discuss user experience.
+* [Design Talks](https://docs.google.com/forms/d/e/1FAIpQLSeKT_LC8kKTzJ4JjmgVQVpfl24i1qBkjJ7TYyQcNHL7fBQkYQ/viewform?c=0&w=1): A community for UI/UX design, web design, freelancing, design critiques, etc.
+* [TheDesignerShip](http://thedesignership.com/): A community of over 1,500+ designers and founders.
 
 ## Share
 * <a href="https://twitter.com/intent/tweet?text=https://github.com/nicolesaidy/awesome-web-design%20Awesome%20Web%20Design%20collection" target="_blank">Share on Twitter</a>

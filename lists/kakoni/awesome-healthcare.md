@@ -113,9 +113,9 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [Health data standards ★76](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
   * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit.
   * [Node HL7 ★5](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-  * [Python HL7 ★88](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
+  * [Python HL7 ★88 ⏳1Y](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
   * [Ruby FHIR ★23](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
-  * [Ruby HL7 ★89 ⏳3Y](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
+  * [Ruby HL7 ★89 ⏳4Y](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Applications
   * [Intervention Engine ★11](https://github.com/intervention-engine/ie) - The Intervention Engine project provides a web-application for data-driven team huddles.

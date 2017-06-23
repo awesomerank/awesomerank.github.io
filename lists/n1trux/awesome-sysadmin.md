@@ -436,7 +436,7 @@ ils and flask.
   * [SWMP - Server Web Monitor Page](https://swmp.thefuzz.xyz/) - A responsive, eye-pleasing Linux server statistics dashboard.
   * [Thruk](http://www.thruk.org/) - Multibackend monitoring web interface with support for Naemon, Nagios, Icinga and Shinken.
   * [Uchiwa](https://uchiwa.io/) - Simple dashboard for sensu.
-  * [Vector ★2293](https://github.com/Netflix/vector) - An on-host performance monitoring framework.
+  * [Vector ★2318](https://github.com/Netflix/vector) - An on-host performance monitoring framework.
   * [Xymon](https://www.xymon.com/) - Network monitoring inspired by Big Brother.
   * [Zabbix](http://www.zabbix.com/) - Enterprise-class software for monitoring of networks and applications.
   * [Zenoss](http://community.zenoss.org) - Application, server, and network management platform based on Zope.

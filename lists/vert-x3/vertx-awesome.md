@@ -91,7 +91,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [MarkLogic ★1 ⏳1Y](https://github.com/etourdot/vertx-marklogic) - Asynchronous client for Marklogic Database Server.
 
 * [vertx-pojo-mapper ★14](https://github.com/BraintagsGmbH/vertx-pojo-mapper) - Non-blocking POJO mapping for MySQL and MongoDB.
-* [vertx-mysql-binlog-client ★6](https://github.com/guoyu511/vertx-mysql-binlog-client) - A Vert.x client for tapping into MySQL replication stream.
+* [vertx-mysql-binlog-client ★9](https://github.com/guoyu511/vertx-mysql-binlog-client) - A Vert.x client for tapping into MySQL replication stream.
 
 
 ## Integration

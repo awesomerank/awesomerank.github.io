@@ -139,6 +139,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [loopback-graphql ★99](https://github.com/tallyb/loopback-graphql) - GraphQL Server for Loopback.
 * [parasprite ★3](https://github.com/octet-stream/parasprite) - Describe your GraphQL schema using chainable interface.
 * [GraphQL.js ★140](https://github.com/f/graphql.js) - JavaScript GraphQL Client for Browser and Node.js Usage
+* [graphql-sync ★29](https://github.com/arangodb/graphql-sync) - Promise-free wrapper to GraphQL.js for synchronous environments
 
 ##### Relay Related
 
@@ -212,6 +213,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-java-annotations ★85](https://github.com/graphql-java/graphql-java-annotations) - Provides annotations-based syntax for schema definition with GraphQL Java.
 * [spring-graphql-common ★65](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 * [graphql-spring-boot ★23](https://github.com/graphql-java/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
+* [neo4j-graphql ★83](https://github.com/neo4j-graphql/neo4j-graphql) - GraphQL bindings for Neo4j, generates and runs Cypher.
 * [vertx-graphql-service-discovery ★11](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
 * [vertx-dataloader ★25](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 

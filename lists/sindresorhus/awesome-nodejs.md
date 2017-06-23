@@ -140,7 +140,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [XO ★2621](https://github.com/sindresorhus/xo) - Enforce strict code style using the JavaScript happiness style.
 - [Standard ★11789](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
-- [dev-time ★136](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+- [dev-time ★136 ⏳1Y](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [David ★741](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
 - [http-server ★5021](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
 - [Live Server ★1353](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
@@ -374,7 +374,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [globby ★318](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
 - [cpy ★124](https://github.com/sindresorhus/cpy) - Copy files.
 - [rimraf ★1689](https://github.com/isaacs/rimraf) - Recursively delete files like `rm -rf`.
-- [make-dir ★179](https://github.com/sindresorhus/make-dir) - Recursively create directories like `mkdir -p`.
+- [make-dir ★181](https://github.com/sindresorhus/make-dir) - Recursively create directories like `mkdir -p`.
 - [graceful-fs ★614](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements.
 - [chokidar ★2905](https://github.com/paulmillr/chokidar) - Filesystem watcher which stabilizes events from `fs.watch` and `fs.watchFile` as well as using native `fsevents` on macOS.
 - [find-up ★88](https://github.com/sindresorhus/find-up) - Find a file by walking up parent directories.

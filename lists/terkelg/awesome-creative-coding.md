@@ -264,6 +264,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Generating Geometry: 1](http://codepen.io/mcdorli/post/generating-geometry-part-1-basics), [2](http://codepen.io/mcdorli/post/generating-geometry-part-2-going-3d), [3](http://codepen.io/mcdorli/post/generating-geometry-part-3-getting-spherical) - Beginner introduction on how to create geometry object.
 - [Three.js sine animation](http://www.pshkvsky.com/gif2code/sine-animation-tutorial-three-js/) - Learn how to add sine waves to a circle with three.js. ([oF version](http://www.pshkvsky.com/gif2code/sinewaves-animation-tutorial-openframeworks/))
 - [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - Series of tutorials about WebGL, Three.js, and Three.bas.
+- [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems through out the 3D graphics pipeline.
 
 #### Canvas
 
@@ -332,6 +333,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 - [The Creative Coding Podcast](http://creativecodingpodcast.com/) - Iain and Seb discuss the ins and outs of creative coding.
 - [realtimevfx.com](https://realtimevfx.com/) - Real Time VFX Community.
+- [Data Stories](http://datastori.es/) - Podcast on data visualization.
 
 
 ## Math
@@ -355,7 +357,9 @@ Creative coding is a different discipline than programming systems in which the 
 - [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) - Essence of linear algebra YouTube playlist.
 - [Mathematics of Animation](https://winkervsbecks.github.io/mathematics-of-animation/#/) - Slides about the mathematics of animation ([repo ★10](https://github.com/winkerVSbecks/mathematics-of-animation)).
 - [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/index.html) - Beautiful and visual introduction to math and quasi physics.
-
+- [Gene Kogan: Perlin Noise](http://genekogan.com/code/p5js-perlin-noise/) - introduction to 2D and 3D perlin noise.
+- [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
+- [Mathematical Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) - List of all mathematical symbols and signs.
 
 ## Machine learning • Computer Vision • Ai
 

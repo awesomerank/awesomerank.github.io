@@ -461,7 +461,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slackbots ★29](https://github.com/treeder/slackbots) - A bunch of rad slackbots that run on IronWorker
 - [slackbotsy ★79 ⏳1Y](https://github.com/rlister/slackbotsy) - Ruby bot for Slack, inspire by botsy
 - [slackcat ★275](https://github.com/rlister/slackcat) - Upload files to Slack from the command-line
-- [SlackCI ★3 ⏳2Y](https://github.com/grubernaut/SlackCI) - Command-Line Interface and RubyGem for Slack
+- [SlackCI ★3 ⏳3Y](https://github.com/grubernaut/SlackCI) - Command-Line Interface and RubyGem for Slack
 - [SlackEco ★7 ⏳1Y](https://github.com/riencroonenborghs/slackeco) - Generate memes within your Slack channels
 - [slacker ★24 ⏳1Y](https://github.com/ttaylorr/slacker) - A collection of scripts for making Slack a little better
 - [slackfire ★6 ⏳2Y](https://github.com/RokkinCat/slackfire) - Send real time events from Firebase to Slack

@@ -493,7 +493,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 ## Functional Programming
 * [Forbind ★44](https://github.com/ulrikdamm/Forbind) - Functional chaining and promises in Swift. :large_orange_diamond:
 * [Funky ★12 ⏳1Y](https://github.com/brynbellomy/Funky) - Functional programming tools and experiments in Swift. :large_orange_diamond:
-* [LlamaKit ★634 ⏳1Y](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools. :large_orange_diamond:
+* [LlamaKit ★634 ⏳2Y](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools. :large_orange_diamond:
 * [Oriole ★11 ⏳1Y](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions. :large_orange_diamond:[e]
 * [Prelude ★294](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools. :large_orange_diamond:
 * [Swiftx ★173](https://github.com/typelift/Swiftx) - Functional data types and functions for any project. :large_orange_diamond:
@@ -579,7 +579,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FlexboxLayout ★286](https://github.com/alexdrone/FlexboxLayout) - Port of Facebook's css-layout to Swift :large_orange_diamond:
 * [Masonry ★14879](https://github.com/SnapKit/Masonry) - Harness the power of AutoLayout NSLayoutConstraints with a simplified, chainable and expressive syntax.
 * [FLKAutoLayout ★1495](https://github.com/floriankugler/FLKAutoLayout) - UIView category which makes it easy to create layout constraints in code.
-* [Façade ★707](https://github.com/mamaral/Facade) - Programmatic view layout for the rest of us - an autolayout alternative.
+* [Façade ★707 ⏳1Y](https://github.com/mamaral/Facade) - Programmatic view layout for the rest of us - an autolayout alternative.
 * [PureLayout ★6432](https://github.com/PureLayout/PureLayout) - The ultimate API for iOS & OS X Auto Layout — impressively simple, immensely powerful. Objective-C and Swift compatible.
 * [SnapKit ★9827](https://github.com/SnapKit/SnapKit) - A Swift Autolayout DSL for iOS & OS X. :large_orange_diamond:
 * [Cartography ★5626](https://github.com/robb/Cartography) - A declarative Auto Layout DSL for Swift :iphone::triangular_ruler: :large_orange_diamond:
@@ -694,7 +694,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Swift-Brain ★285](https://github.com/vlall/Swift-Brain) - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI. :large_orange_diamond:
 * [AIToolbox ★579](https://github.com/KevinCoble/AIToolbox) - A toolbox of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians. :large_orange_diamond:
 * [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) - The official Google-built powerful neural network library port for iOS.
-* [Bender ★940](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks. Use TensorFlow models. Metal under the hood.
+* [Bender ★1047](https://github.com/xmartlabs/Bender) - Easily craft fast Neural Networks. Use TensorFlow models. Metal under the hood.
 
 ## Maps
 * [Route-me ★1291 ⏳4Y](https://github.com/route-me/route-me) - Open source map library for iOS.
@@ -1444,7 +1444,7 @@ Most of these are paid services, some have free tiers.
 * [WobbleView ★2151](https://github.com/inFullMobile/WobbleView) - WobbleView is an implementation of a recently popular wobble effect for any view in your app. It can be used to easily add dynamics to user interactions and transitions. :large_orange_diamond:
 * [RKNotificationHub ★2629](https://github.com/cwRichardKim/RKNotificationHub) - Make any UIView a full fledged notification center.
 * [EatFit ★561](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit :large_orange_diamond:
-* [phone-number-picker ★102](https://github.com/hughbe/phone-number-picker) - A simple and easy to use view controller enabling you to enter a phone number with a country code similar to WhatsApp written in Swift :large_orange_diamond:
+* [phone-number-picker ★102 ⏳1Y](https://github.com/hughbe/phone-number-picker) - A simple and easy to use view controller enabling you to enter a phone number with a country code similar to WhatsApp written in Swift :large_orange_diamond:
 * [DLWBouncyView ★50 ⏳1Y](https://github.com/cute/DLWBouncyView) - BouncyView is an implementation of a recently popular bouncy effect for any view.
 * [EXTView ★148 ⏳1Y](https://github.com/recruit-mtl/EXTView) - Extended UIView for Interface Builder by using IB_DESIGNABLE and IBInspectable.
 * [SFFocusViewLayout ★1511](https://github.com/fdzsergio/SFFocusViewLayout) - UICollectionViewLayout with focused content.
@@ -1566,6 +1566,7 @@ Most of these are paid services, some have free tiers.
 * [GDCheckbox ★0](https://github.com/SaeidBsn/GDCheckbox) - An easy to use custom checkbox/radio button component for iOS, with support of IBDesign Inspector. 🔶
 * [HamsterUIKit ★3](https://github.com/ChromieIsDangerous/HamsterUIKit) - A simple and elegant UIKit(Chart) for iOS.  🔶
 * [AZEmptyState ★8](https://github.com/Minitour/AZEmptyState) - A UIControl subclass that makes it easy to create empty states. 🔶
+* [URWeatherView ★136](https://github.com/jegumhon/URWeatherView) - Show the weather effects onto view written in Swift3. 🔶
 
 #### Activity Indicator
 
@@ -1707,6 +1708,7 @@ Most of these are paid services, some have free tiers.
 * [Motion ★510](https://github.com/CosmicMind/Motion) - Seamless animations and transitions in Swift. :large_orange_diamond:
 * [PresenterKit ★365](https://github.com/jessesquires/PresenterKit) - Swifty view controller presentation for iOS :large_orange_diamond:
 * [Transition ★1598](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions. :large_orange_diamond:
+* [Gagat ★574](https://github.com/Boerworz/Gagat) - A delightful way to transition between visual styles in your iOS applications. :large_orange_diamond:
 
 #### Alert & Action Sheet
 
@@ -1804,6 +1806,7 @@ Most of these are paid services, some have free tiers.
 * [WCLShineButton ★834](https://github.com/imwcl/WCLShineButton) - This is a UI lib for iOS. Effects like shining. :large_orange_diamond:
 * [EasySocialButton ★121](https://github.com/Minitour/EasySocialButton) - An easy way to create beautiful social authentication buttons. :large_orange_diamond:
 * [NFDownloadButton ★164](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. 🔶
+* [LGButton ★118](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code. :large_orange_diamond:
 
 #### Calendar
 * [CVCalendar ★2554](https://github.com/CVCalendar/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
@@ -1903,7 +1906,7 @@ Most of these are paid services, some have free tiers.
 * [EEJSelectMenu ★13](https://github.com/eejahromi/EEJSelectMenu) - Single selection menu with cool animations, responsive with all screen sizes.
 * [IGLDropDownMenu ★1023](https://github.com/bestwnh/IGLDropDownMenu) - An iOS drop down menu with pretty animation and easy to customize.
 * [Side-Menu.iOS ★2262](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI :large_orange_diamond:
-* [PopMenu ★756](https://github.com/xhzengAIB/PopMenu) - PopMenu is pop animation menu inspired by Sina weibo / NetEase app.
+* [PopMenu ★756 ⏳1Y](https://github.com/xhzengAIB/PopMenu) - PopMenu is pop animation menu inspired by Sina weibo / NetEase app.
 * [FlowingMenu ★681](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift :large_orange_diamond:
 * [Persei ★2653](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView written in Swift :large_orange_diamond:
 * [DropDown ★779](https://github.com/AssistoLab/DropDown) - A Material Design drop down for iOS :large_orange_diamond:
@@ -2141,6 +2144,7 @@ Most of these are paid services, some have free tiers.
 * [BouncyLayout ★2304](https://github.com/roberthein/BouncyLayout) - BouncyLayout is a collection view layout that makes your cells bounce. 🔶
 * [Savory ★1](https://github.com/Nandiin/Savory) - A swift accordion view implementation. :large_orange_diamond:
 * [PagingView ★231](https://github.com/KyoheiG3/PagingView) - Infinite paging, Smart auto layout, Interface of similar to UIKit. :large_orange_diamond:🔶
+* [ExpyTableView ★74](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method. 🔶
 
 #### Tag
 * [PARTagPicker ★243](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
@@ -2438,6 +2442,7 @@ Most of these are paid services, some have free tiers.
 * [Rollout.io](https://rollout.io/) - SDK to patch, fix bugs, modify and manipulate native apps (Obj-c & Swift) in real-time.
 * [AppLaunchpad](https://theapplaunchpad.com/) - Free App Store screenshot builder.
 * [LaunchKit ★1586](https://github.com/LaunchKit/LaunchKit) - A set of web-based tools for mobile app developers, now open source!
+* [Instabug](https://instabug.com) - In-app feedback, Bug and Crash reporting, Fix Bugs Faster through user-steps, video recordings, screen annotation, network requests logging.
 
 # App Store
 * [Average App Store Review Times](http://appreviewtimes.com) This site tracks the average App Store review times for both the iOS and the Mac App Store using data crowdsourced from iOS and Mac developers.

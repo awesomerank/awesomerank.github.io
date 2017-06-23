@@ -169,7 +169,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [navigation_tree ★1 ⏳1Y](https://github.com/gutschilla/elixir-navigation-tree) - A navigation tree representation with helpers to generate HTML out of it.
 * [parallel_stream ★40](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
 * [paratize ★17](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
-* [parex ★61 ⏳1Y](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
+* [parex ★61 ⏳2Y](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
 * [qex ★2](https://github.com/princemaple/elixir-queue) - Wraps `:queue`, with improved API and `Inspect`, `Collectable` and `Enumerable` protocol implementations.
 * [ratio ★7](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
 * [red_black_tree ★21](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
@@ -210,7 +210,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [poxa ★599](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
 * [Queerlink ★18 ⏳1Y](https://github.com/Queertoo/Queerlink) - A simple yet efficient URL shortening service written in Elixir.
 * [Sprint Poker ★136](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
-* [Startup Job ★19](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
+* [Startup Job ★22](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
 * [tty2048 ★128 ⏳1Y](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.
 
 ## Artificial Intelligence
@@ -349,7 +349,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Guri ★13 ⏳1Y](https://github.com/elvio/guri) - Automate tasks using chat messages.
 * [hedwig ★320](https://github.com/hedwig-im/hedwig) - XMPP Client/Bot Framework for Elixir.
 * [kaguya ★52](https://github.com/Luminarys/Kaguya) - A small, powerful, and modular IRC bot.
-* [slacker ★72](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
+* [slacker ★72 ⏳1Y](https://github.com/koudelka/slacker) - A bot library for the Slack chat service.
 * [yocingo ★25](https://github.com/Yawolf/yocingo) - Create your own Telegram Bot.
 
 ## Cloud Infrastructure and Management
@@ -448,7 +448,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_ical ★15](https://github.com/fazibear/ex_ical) - ICalendar parser.
 * [filtrex ★30](https://github.com/rcdilorenzo/filtrex) - A library for performing and validating complex SQL-like filters from a client (e.g. smart filters).
 * [good_times ★36 ⏳1Y](https://github.com/DevL/good_times) - Expressive and easy to use datetime functions.
-* [jalaali ★6](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation for Elixir.
+* [jalaali ★7](https://github.com/jalaali/elixir-jalaali) - Jalaali calendar implementation for Elixir.
 * [milliseconds ★1 ⏳2Y](https://github.com/davebryson/elixir_milliseconds) - Simple library to work with milliseconds in Elixir.
 * [moment ★25 ⏳1Y](https://github.com/atabary/moment) - Parse, validate, manipulate, and display dates in Elixir.
 * [quantum ★681](https://github.com/c-rack/quantum-elixir) - Cron-like job scheduler for Elixir applications.
@@ -860,7 +860,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [anaphora ★11 ⏳1Y](https://github.com/sviridov/anaphora-elixir) - Anaphora is the anaphoric macro collection for Elixir. An anaphoric macro is one that deliberately captures a variable (typically it) from forms supplied to the macro.
 * [apix ★8](https://github.com/liveforeverx/apix) - Simple convention and DSL for transformation of elixir functions to an API for later documentation and or validation.
-* [backports ★0](https://github.com/leifg/backports) - Use new functions in Elixir 1.1 and 1.2.
+* [backports ★1](https://github.com/leifg/backports) - Use new functions in Elixir 1.1 and 1.2.
 * [eventsourced ★72](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 * [exceptional ★61](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
 * [expat ★43](https://github.com/vic/expat) - Simple pattern generator for matching on elixir quoted expressions.
@@ -1311,7 +1311,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [unit_fun ★13](https://github.com/meadsteve/unit_fun) - Attempt to add units to numbers in elixir to give some added type saftey when dealing with numeric quantities.
 * [uuid ★154](https://github.com/zyro/elixir-uuid) - UUID generator and utilities for Elixir.
 * [uuid_erl ★132](https://github.com/okeuday/uuid) - Erlang Native UUID Generation.
-* [veritaserum ★30](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
+* [veritaserum ★31](https://github.com/uesteibar/veritaserum) - Sentiment analysis based on afinn-165, emojis and some enhancements.
 
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
@@ -1323,7 +1323,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [anilixir ★1](https://github.com/sotojuan/anilixir) - Elixir client for the Anilist API.
 * [apns ★62](https://github.com/chvanikoff/apns4ex) - Apple Push Notifications Service client library for elixir.
 * [apostle ★0 ⏳1Y](https://github.com/jamesotron/apostle-elixir) - Elixir client for Apostle.io.
-* [asanaficator ★1 ⏳1Y](https://github.com/trenpixster/asanaficator) - Simple Elixir wrapper for the Asana API. Based on Tentacat.
+* [asanaficator ★1 ⏳2Y](https://github.com/trenpixster/asanaficator) - Simple Elixir wrapper for the Asana API. Based on Tentacat.
 * [assembla_api ★0 ⏳1Y](https://github.com/Assembla/ex_assembla_api) - Assembla API client for Elixir.
 * [balalaika_bear ★4](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
 * [balanced ★1 ⏳2Y](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
@@ -1351,7 +1351,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [elixir_ipfs_api ★13 ⏳1Y](https://github.com/zabirauf/elixir-ipfs-api) - IPFS (InterPlanetary File System) API client for Elixir.
 * [elixirfm ★3](https://github.com/jrichocean/Elixirfm) - Last.fm API wrapper for Elixir.
 * [elixtagram ★47](https://github.com/zensavona/elixtagram) - Instagram API client for Elixir.
-* [ethereumex ★3](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
+* [ethereumex ★4](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 * [everex ★8 ⏳2Y](https://github.com/jwarlander/everex) - Evernote API client for Elixir.
 * [everyoneapi ★1 ⏳2Y](https://github.com/knewter/everyoneapi) - API Client for EveryoneAPI.com.
 * [ex_codeship ★0](https://github.com/securingsincity/ex_codeship) - API Client for Codeship.
@@ -1362,7 +1362,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exdesk ★3 ⏳1Y](https://github.com/deadkarma/exdesk) - Elixir library for the Desk.com API.
 * [exfacebook ★13](https://github.com/oivoodoo/exfacebook) - Facebook API, written in Elixir using similar methods like Ruby koala gem.
 * [exgenius ★1 ⏳1Y](https://github.com/jeffweiss/exgenius) - Elixir library for the (undocumented) Rap Genius API.
-* [exgravatar ★12](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
+* [exgravatar ★12 ⏳1Y](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
 * [exgrid ★7](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 * [exjira ★5 ⏳2Y](https://github.com/mattweldon/exjira) - JIRA client library for Elixir.
 * [exlingr ★1 ⏳2Y](https://github.com/mtwtkman/exlingr) - A Lingr client module.
@@ -1395,7 +1395,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [omise ★4](https://github.com/teerawat1992/omise-elixir) - Omise client library for Elixir.
 * [opbeat ★7](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
 * [pagexduty](https://github.com/ride/pagexduty) - A Pagerduty client for Elixir.
-* [parse_client ★4 ⏳1Y](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
+* [parse_client ★4 ⏳2Y](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex ★1 ⏳2Y](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [particle ★1](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
 * [pathway ★3 ⏳2Y](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
@@ -1495,7 +1495,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exml ★17](https://github.com/expelledboy/exml) - Most simple Elixir wrapper for xmerl xpath.
 * [exquery ★31](https://github.com/rozap/exquery) - A library for parsing HTML and querying elements within.
 * [floki ★606](https://github.com/philss/floki) - A simple HTML parser that enables searching using CSS like selectors.
-* [meeseeks ★40](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
+* [meeseeks ★41](https://github.com/mischov/meeseeks) - A library for parsing and extracting data from HTML and XML with CSS or XPath selectors.
 * [quinn ★29](https://github.com/nhu313/Quinn) - XML parser for Elixir.
 * [readability ★72](https://github.com/keepcosmos/readability) - Readability is for extracting and curating articles.
 * [sweet_xml](https://github.com/awetzel/sweet_xml) - Query XML simply and effectively.

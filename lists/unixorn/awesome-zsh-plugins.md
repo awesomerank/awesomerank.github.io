@@ -539,7 +539,6 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [bureau-colorized ★0](https://github.com/edwild22/bureau-colorized) - Based on bureau.zsh-theme, for people who use Git and NVM.
 * [bureau ★12](https://github.com/isqua/bureau) - A clear and informative two-lined prompt. Includes git status optimized for large repositories.
 * [candy-light ★1 ⏳3Y](https://github.com/RanaExMachina/oh-my-zsh-candy-light) - Light version of the candy theme.
-* [carcassoid ★0](https://github.com/denmord/carcassoid-zsh-theme) - Easily customizable zsh theme.
 * [charged ★4 ⏳3Y](https://github.com/robwierzbowski/charged-zsh-theme) - A zsh prompt optimized for the solarized dark terminal theme.
 * [chi](https://github.com/andela-abankole/chi) - A zsh theme optimized for iTerm users on OS X.
 * [ciacho ★1 ⏳1Y](https://github.com/Ciacho/ciacho-ohmyzsh-theme) - Based on Agnoster
@@ -640,6 +639,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [powerlevel9k ★2013](https://github.com/bhilburn/powerlevel9k) - A very flexible theme based on the well-known agnoster-theme with support for various VCS, AWS, rbenv, virtualenv, etc.
 * [powerline-cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - Based on [bullet-train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme).
 * [powerline ★0](https://github.com/syui/powerline.zsh) - A git aware powerline theme.
+* [powerline-shell](https://github.com/banga/powerline-shell) - A [powerline ★2804 ⏳4Y](https://github.com/Lokaltog/vim-powerline)-like prompt for Bash, ZSH and Fish. Shows important details about git/svn/hg/fossil branch and is easy to customize/extend.
 * [powerzeesh ★0](https://github.com/sevaho/Powerzeesh) - A Powerline based zsh theme. It aims for simplicity, showing information only when it's relevant, optimized for speed and look.
 * [pre-theme ★27](https://github.com/leandromatos/pre-theme) - A collection of themes for Sublime Text, Terminal, iTerm2 and zsh.
 * [predawn-shell ★21](https://github.com/jamiewilson/predawn-shell) - Theme for dark terminal themes.
@@ -666,7 +666,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [skeletor-syntax ★11](https://github.com/ramonmcros/skeletor-syntax) - Theme collection for Atom, Prism and Zsh inspired by Skeletor from He-Man and the Masters of the Universe.
 * [slimline ★15](https://github.com/mgee/slimline) - Minimal, fast and elegant ZSH prompt. Displays the right information at the right time.
 * [smiley ★4 ⏳3Y](https://github.com/gsamokovarov/smiley.zsh-theme) - A prompt with happy and sad faces.
-* [sobole ★1](https://github.com/sobolevn/sobole-zsh-theme) - A minimalistic zsh theme. Works well on a light background.
+* [sobole ★3](https://github.com/sobolevn/sobole-zsh-theme) - A minimalistic zsh theme. Works well on a light background.
 * [solarized-powerline ★5](https://github.com/houjunchen/solarized-powerline) - Solarized powerline-style theme for zsh.
 * [solarizsh ★3 ⏳5Y](https://github.com/paddykontschak/Solarizsh) - Color fix for robbyrussell's oh-my-zsh theme to work with [Solarized](http://ethanschoonover.com/solarized).
 * [spaceship ★844](https://github.com/denysdovhan/spaceship-zsh-theme) - A zsh theme with git, nvm, rvm/rbenv/chruby, python, ssh and other useful indicators.
