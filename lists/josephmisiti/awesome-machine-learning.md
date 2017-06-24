@@ -315,7 +315,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 
 * [go-graph ★78 ⏳1Y](https://github.com/StepLg/go-graph) - Graph library for Go/golang language.
 * [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation
-* [RF ★77 ⏳2Y](https://github.com/fxsjy/RF.go) - Random forests implementation in Go
+* [RF ★77 ⏳3Y](https://github.com/fxsjy/RF.go) - Random forests implementation in Go
 
 
 <a name="haskell"></a>
@@ -1264,6 +1264,7 @@ be
 <a name="swift-general-purpose"></a>
 #### General-Purpose Machine Learning
 
+* [Bender ★1047](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 * [Swift AI](https://github.com/collinhundley/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
 * [BrainCore ★307](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework
 * [swix ★485](https://github.com/stsievert/swix) - A bare bones library that

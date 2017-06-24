@@ -1402,7 +1402,7 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [gocode ★3710](https://github.com/nsf/gocode) - An autocompletion daemon for the Go programming language.
 * [GoSublime ★2619](https://github.com/DisposaBoy/GoSublime) - A Golang plugin collection for the text editor SublimeText 2 providing code completion and other IDE-like features.
 * [velour ★14](https://github.com/velour/velour) - An IRC client for the acme editor.
-* [vim-compiler-go ★70](https://github.com/rjohnsondev/vim-compiler-go) - A Vim plugin to highlight syntax errors on save.
+* [vim-compiler-go ★70 ⏳1Y](https://github.com/rjohnsondev/vim-compiler-go) - A Vim plugin to highlight syntax errors on save.
 * [vim-go ★6639](https://github.com/fatih/vim-go) - Go development plugin for Vim.
 * [Watch ★132 ⏳1Y](https://github.com/eaburns/Watch) - Runs a command in an acme win on file changes.
 

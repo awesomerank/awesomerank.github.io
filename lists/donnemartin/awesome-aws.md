@@ -313,7 +313,7 @@ Related Repos:
 ### Unity SDK
 
 * [Repo ★83 ⏳1Y](https://github.com/aws/aws-sdk-unity)
-* [Repo with Samples ★59](https://github.com/awslabs/aws-sdk-unity-samples)
+* [Repo with Samples ★59 ⏳1Y](https://github.com/awslabs/aws-sdk-unity-samples)
 * [Install](https://s3.amazonaws.com/aws-unity-sdk/latest/aws-unity-sdk.zip)
 * [Docs](http://docs.aws.amazon.com/mobile/sdkforunity/developerguide/)
 

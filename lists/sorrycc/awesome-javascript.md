@@ -131,7 +131,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [jasmine ★12492](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
 * [jest ★10350](https://github.com/facebook/jest) - Painless Javascript Unit Testing.
-* [prova ★323](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
+* [prova ★323 ⏳1Y](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
 * [DalekJS ★727](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
 * [Protractor ★6605](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
 * [tape ★3869](https://github.com/substack/tape) - Tap-producing test harness for node and browsers.

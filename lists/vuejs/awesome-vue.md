@@ -61,7 +61,8 @@ title: Awesome Rank for vuejs/awesome-vue
     - [Search](#search)
     - [Miscellaneous](#miscellaneous)
     - [Form](#form)
-      - [Date Picker](#date-picker)
+      - [Picker](#picker)
+        - [Date Picker](#date-picker)
       - [Select](#select)
       - [Slider](#slider)
       - [Drag and Drop](#drag-and-drop)
@@ -480,6 +481,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Kinderbesteck](https://www.kinderbesteck-gravur.de/) - A full Online Shop SPA with Vue2.0, Vuex, Vue Router
   - [n2ex ★6](https://github.com/OrangeXC/n2ex) - A vue ssr(nust) website, use v2ex API
   - [Power Thesaurus](https://www2.powerthesaurus.org) - A crowdsourced online thesaurus
+  - [Chattanosy](https://chattanosy.com) - A community-powered database of new things and places in Chattanooga, TN.
 
 ### Interactive Experiences
 
@@ -730,14 +732,17 @@ Tooltips / popovers
 
 *Let the user create & edit data*
 
-#### Date Picker
+#### Picker
+
+ - [vue-smooth-picker ★9](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
+
+##### Date Picker
 
 *Date / datetime / time Picker*
 
  - [vue-datepicker ★420](https://github.com/hilongjw/vue-datepicker) - Calendar and datepicker component with material design for Vue.js.
  - [vue2-timepicker ★83](https://github.com/phoenixwong/vue2-timepicker) - A dropdown time picker (hour|minute|second) for Vue 2.x, with flexible time format support.
  - [vuejs-datepicker ★282](https://github.com/charliekassel/vuejs-datepicker) - A simple Vue.js datepicker component. Supports disabling of dates, inline mode, translations.
- - [vue-smooth-picker ★9](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
  - [vuedt ★0](https://github.com/nkoehring/vuedt) - Crazy lightweight (5.5kb!) Vuejs Date and Time picker component with nice animations and not too much fuzz.
 
 #### Select

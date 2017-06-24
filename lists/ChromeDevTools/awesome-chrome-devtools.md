@@ -60,6 +60,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - TypeScript/Node.js: [chrome-debugging-client ★18](https://github.com/krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
 - Java: [cdp4j ★13](https://github.com/webfolderio/cdp4j) - Java library for CDP
 - Python: [chromote ★228](https://github.com/iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
+- Python: [PyChromeDevTools ★1](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
 - Go: [cdp ★8](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd ★99](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet ★142](https://github.com/raff/godet) - Also different, also Go.

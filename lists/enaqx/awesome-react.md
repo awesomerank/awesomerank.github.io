@@ -592,7 +592,7 @@ A collection of awesome things regarding React ecosystem.
 * [cortex - A javascript library for centrally managing data with React ★1042](https://github.com/mquan/cortex)
 * [avers - A modern client-side model abstraction library ★1](https://github.com/wereHamster/avers)
 * [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
-* [morearty.js - Better state management for React in pure JavaScript ★664](https://github.com/moreartyjs/moreartyjs)
+* [morearty.js - Better state management for React in pure JavaScript ★664 ⏳1Y](https://github.com/moreartyjs/moreartyjs)
 * [valuable - An immutable data store for React ★101 ⏳2Y](https://github.com/josephsavona/valuable)
 * [react-resolver - Isomorphic library to recursively lazy-load data for React components ★1472](https://github.com/ericclemmons/react-resolver)
 * [freezer-js - Lightweight and reactive immutable data structure for React ★1034](https://github.com/arqex/freezer)

@@ -290,7 +290,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FBMemoryProfiler ★2574](https://github.com/facebook/FBMemoryProfiler) - iOS tool that helps with profiling iOS Memory usage.
 * [FBRetainCycleDetector ★2412](https://github.com/facebook/FBRetainCycleDetector) - iOS library to help detecting retain cycles in runtime.
 * [Buglife ★244](https://github.com/Buglife/Buglife-iOS) - Awesome bug reporting for iOS apps
-* [Warnings-xcconfig ★424 ⏳1Y](https://github.com/boredzo/Warnings-xcconfig) - An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.
+* [Warnings-xcconfig ★424 ⏳2Y](https://github.com/boredzo/Warnings-xcconfig) - An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.
 * [Aardvark ★178](https://github.com/square/Aardvark) - Aardvark is a library that makes it dead simple to create actionable bug reports.
 * [Stats ★137](https://github.com/shu223/Stats) - In-app memory usage monitoring.
 * [Alpha ★626](https://github.com/Legoless/Alpha) - Next generation debugging framework for iOS.
@@ -356,6 +356,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [NSLock+Synchronized ★2](https://github.com/Jon-Schneider/NSLock-Synchronized) - Do you miss @synchronized in Swift? NSLock+Synchronized gives you back @synchronized in Swift via a global function and NSLock class and instance methods, conveniently usable via Cocoapod and Carthage Framework. :large_orange_diamond:[e]
 * [AsyncNinja ★47](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives. :large_orange_diamond:
 * [Kommander ★79](https://github.com/intelygenz/Kommander-iOS) - Kommander is a Swift library to manage the task execution in different threads. Through the definition a simple but powerful concept, Kommand. :large_orange_diamond:
+* [Threadly ★13](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift :large_orange_diamond:
 
 ## Core Data
 * [CWCoreData ★72 ⏳1Y](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
@@ -807,7 +808,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [CLImageViewPopup ★19](https://github.com/vinbhai4u/CLImageViewPopup) - A simple Image full screen pop up :large_orange_diamond:
 * [APKenBurnsView ★38](https://github.com/Alterplay/APKenBurnsView) - Ken Burns effect with face recognition! :large_orange_diamond:
 * [Moa ★251](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS. :large_orange_diamond:[e]
-* [JMCMarchingAnts ★123](https://github.com/izotx/JMCMarchingAnts) - Library that lets you add marching ants (animated) selection to the edges of the images. :large_orange_diamond:
+* [JMCMarchingAnts ★123 ⏳1Y](https://github.com/izotx/JMCMarchingAnts) - Library that lets you add marching ants (animated) selection to the edges of the images. :large_orange_diamond:
 * [ImageViewer ★1186](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter :large_orange_diamond:
 * [FaceAware ★1932](https://github.com/BeauNouvelle/FaceAware) - An extension that gives UIImageView the ability to focus on faces within an image when using AspectFill. :large_orange_diamond:
 * [SwiftyAvatar ★149](https://github.com/dkalaitzidis/SwiftyAvatar) - A UiimageView class for creating circular avatar images, IBDesignable to make all changes via storyboard
@@ -828,6 +829,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [TinyCrayon ★90](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - A smart and easy-to-use image masking and cutout SDK for mobile apps. :large_orange_diamond:
 * [FlexibleImage ★494](https://github.com/kawoou/FlexibleImage) - A simple way to play with image! :large_orange_diamond:
 * [TLPhotoPicker ★825](https://github.com/tilltue/TLPhotoPicker) - Multiple phassets picker for iOS lib. like a facebook. :large_orange_diamond:
+* [YapImageManager ★22](https://github.com/yapstudios/YapImageManager) - A high-performance image downloader written in Swift, powered by YapDatabase. :large_orange_diamond:
 
 #### Media Processing
 * [SwiftOCR ★2449](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift :large_orange_diamond:
@@ -1404,6 +1406,7 @@ Most of these are paid services, some have free tiers.
 * [AcceptanceMark ★49](https://github.com/bizz84/AcceptanceMark) Tool to auto-generate Xcode tests classes from Markdown tables
 * [MetovaTestKit ★19](https://github.com/metova/MetovaTestKit) - A collection of testing utilities to turn crashing test suites into failing test suites. :large_orange_diamond:
 * [MirrorDiffKit ★60](https://github.com/Kuniwak/MirrorDiffKit) - Pretty diff between any structs or classes :large_orange_diamond:
+* [SnappyTestCase ★3](https://github.com/tooploox/SnappyTestCase) - iOS Simulator type agnostic snapshot testing, built on top of the FBSnapshotTestCase. :large_orange_diamond:
 
 #### Font
 * [FontBlaster ★817](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app. :large_orange_diamond:
@@ -1441,7 +1444,7 @@ Most of these are paid services, some have free tiers.
 * [HorizontalDial ★87](https://github.com/kciter/HorizontalDial) - A horizontal scroll dial like Instagram. :large_orange_diamond:
 * [ComponentKit](http://componentkit.org/) - A React-Inspired View Framework for iOS, by Facebook.
 * [PMTween ★336](https://github.com/poetmountain/PMTween) - An elegant and flexible tweening library for iOS.
-* [WobbleView ★2151](https://github.com/inFullMobile/WobbleView) - WobbleView is an implementation of a recently popular wobble effect for any view in your app. It can be used to easily add dynamics to user interactions and transitions. :large_orange_diamond:
+* [WobbleView ★2151 ⏳1Y](https://github.com/inFullMobile/WobbleView) - WobbleView is an implementation of a recently popular wobble effect for any view in your app. It can be used to easily add dynamics to user interactions and transitions. :large_orange_diamond:
 * [RKNotificationHub ★2629](https://github.com/cwRichardKim/RKNotificationHub) - Make any UIView a full fledged notification center.
 * [EatFit ★561](https://github.com/Yalantis/EatFit) - Eat fit is a component for attractive data representation inspired by Google Fit :large_orange_diamond:
 * [phone-number-picker ★102 ⏳1Y](https://github.com/hughbe/phone-number-picker) - A simple and easy to use view controller enabling you to enter a phone number with a country code similar to WhatsApp written in Swift :large_orange_diamond:

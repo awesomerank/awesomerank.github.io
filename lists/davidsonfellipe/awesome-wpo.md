@@ -294,7 +294,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Lazyloaders
 
-* [lazyload ★901](https://github.com/vvo/lazyload) - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader ~1kb
+* [lazyload ★901 ⏳1Y](https://github.com/vvo/lazyload) - Lazyload images, iframes, widgets with a standalone JavaScript lazyloader ~1kb
 
 
 ## Loaders

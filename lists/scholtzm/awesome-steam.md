@@ -98,7 +98,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steam-resources ★16](https://github.com/seishun/node-steam-resources) - Steam's enums, protobufs and structs.
 - [steam-crypto ★13 ⏳1Y](https://github.com/seishun/node-steam-crypto) - Node.js implementation of Steam crypto.
 - [steam-groups ★17 ⏳1Y](https://github.com/scholtzm/node-steam-groups) - Custom node-steam handler which provides group functions.
-- [steamid ★27](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy.
+- [steamid ★27 ⏳1Y](https://github.com/DoctorMcKay/node-steamid) - SteamID usage and conversion made easy.
 - [steam-totp ★92](https://github.com/DoctorMcKay/node-steam-totp) - Easily generate 2FA codes used by Steam.
 - [steam-chat-bot ★71](https://github.com/Steam-Chat-Bot/node-steam-chat-bot) - Simplified interface for a steam chat bot.
 - [vdf ★14 ⏳1Y](https://github.com/RJacksonm1/node-vdf) - vdf to object and vice versa.

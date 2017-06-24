@@ -736,7 +736,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [elli ★644](https://github.com/knutin/elli) - Elli is a webserver you can run inside your Erlang application to expose an HTTP API.
 * [explode ★5](https://github.com/pkinney/explode) - An easy utility for responding with standard HTTP/JSON error payloads in Plug- and Phoenix-based applications.
 * [exvcr ★283](https://github.com/parroty/exvcr) - HTTP request/response recording library for Elixir, inspired by VCR.
-* [fuzzyurl](https://github.com/gamache/fuzzyurl.ex) - An Elixir library for parsing, constructing, and wildcard-matching URLs. Also available for [Ruby](https://github.com/gamache/fuzzyurl.rb) and [JavaScript ★3](https://github.com/gamache/fuzzyurl.js).
+* [fuzzyurl](https://github.com/gamache/fuzzyurl.ex) - An Elixir library for parsing, constructing, and wildcard-matching URLs. Also available for [Ruby](https://github.com/gamache/fuzzyurl.rb) and [JavaScript ★3 ⏳1Y](https://github.com/gamache/fuzzyurl.js).
 * [hackney ★678](https://github.com/benoitc/hackney) - Simple HTTP client written in Erlang.
 * [http ★11 ⏳2Y](https://github.com/slogsdon/http) - HTTP server for Elixir.
 * [http_digex ★1](https://github.com/techgaun/http_digex) - A module to create basic digest HTTP auth header.
@@ -754,7 +754,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [tesla ★349](https://github.com/teamon/tesla) - HTTP client library, with support for middleware and multiple adapters.
 * [Tube ★6](https://github.com/narrowtux/Tube) - Pure Elixir WebSocket client library.
 * [uri_query ★5](https://github.com/shhavel/uri_query) - URI encode nested GET parameters and array values in Elixir.
-* [uri_template ★11](https://github.com/pezra/ex-uri-template) - RFC6570 compliant URI template processor for Elixir.
+* [uri_template ★11 ⏳1Y](https://github.com/pezra/ex-uri-template) - RFC6570 compliant URI template processor for Elixir.
 * [web_socket ★41](https://github.com/slogsdon/plug-web-socket) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
 * [webdriver ★75 ⏳1Y](https://github.com/stuart/elixir-webdriver) - This is an implementation of the WebDriver protocol client. It currently supports PhantomJS, FireFox, ChromeDriver and remote webdriver servers (e.g. Selenium).
 * [yuri ★7 ⏳1Y](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
@@ -913,7 +913,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exprint ★20](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
 * [exquisite ★46](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
 * [exsync ★26](https://github.com/falood/exsync) - Yet another Elixir reloader.
-* [funnel ★30](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
+* [funnel ★30 ⏳1Y](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [gen_task ★5](https://github.com/Nebo15/gen_task) - Generic Task behavior that helps to encapsulate worker errors and recover from them in classic GenStage's.
 * [gimei_ex ★6 ⏳1Y](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
 * [growl ★1 ⏳1Y](https://github.com/zachallett/growl) - Simple wrapper for growl, the notification system for OSX.
@@ -1438,7 +1438,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ecto_gettext](https://github.com/exbugs-elixir/ecto_gettext) - Library for localization Ecto validation errors with using Gettext.
 * [exkanji ★8](https://github.com/ikeikeikeike/exkanji) - A Elixir library for translating between hiragana, katakana, romaji and kanji. It uses Mecab.
 * [exromaji ★4](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
-* [linguist ★117](https://github.com/chrismccord/linguist) - Elixir Internationalization library.
+* [linguist ★117 ⏳1Y](https://github.com/chrismccord/linguist) - Elixir Internationalization library.
 * [parabaikElixirConverter ★1 ⏳2Y](https://github.com/Arkar-Aung/ParabaikElixirConverter) - ParabaikElixirConverter is just a Elixir version of Parabaik converter. It can convert from Unicode to Zawgyi-One and Zawgyi-One to Unicode vice versa.
 * [trans ★64](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.
 

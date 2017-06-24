@@ -351,6 +351,7 @@ These frameworks make customizing your zsh setup easier.
 * [tipz](https://github.com/molovo/tipz) - Displays your alias if you have an alias for the command you just ran (Similar to [alias-tips ★167](https://github.com/djui/alias-tips))
 * [tsm ★5](https://github.com/RobertAudi/tsm) - Adds a tmux Session Manager.
 * [tumult ★38](https://github.com/unixorn/tumult.plugin.zsh) - Adds tools for OS X.
+* [ubuntualiases ★0](https://github.com/GuilleDF/zsh-ubuntualiases) - Ubuntu 16 aliases
 * [up.zsh ★14 ⏳1Y](https://github.com/peterhurford/up.zsh) - Adds an up command to cd multiple levels up.
 * [vanilli.sh ★1](https://github.com/yous/vanilli.sh) - A lightweight start point of shell configuration.
 * [vimman ★9 ⏳2Y](https://github.com/yonchu/vimman) - View vim plugin manuals (help) like man in zsh.

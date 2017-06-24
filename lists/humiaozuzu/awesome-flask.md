@@ -186,7 +186,7 @@ Plugins
     - [Flask-Mustache ★25 ⏳3Y](https://github.com/bradwright/flask-mustachejs) - Mustache template integration with Flask
     - [Flask-Genshi ★17 ⏳5Y](https://github.com/dag/flask-genshi) - Genshi templating for Flask
     - [flask-mako ★33](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask
-    - [Flask-Markdown ★102 ⏳1Y](https://github.com/dcolish/flask-markdown) - Markdown jinja2 extension for Flask
+    - [Flask-Markdown ★102 ⏳2Y](https://github.com/dcolish/flask-markdown) - Markdown jinja2 extension for Flask
     - [Flask-Sijax ★86 ⏳2Y](https://github.com/spantaleev/flask-sijax) - An extension for the Flask microframework that adds Sijax support
     - [flask-apispec ★177](https://github.com/jmcarp/flask-apispec) - simple self-documenting APIs with flask
     - [flask-assets ★316](https://github.com/miracle2k/flask-assets) - Flask webassets integration

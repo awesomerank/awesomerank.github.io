@@ -32,6 +32,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Professional services](#professional-services)
 - [Deprecated](#deprecated)
   - [General](#general)
+  - [Blog posts (v0.5)](#blog-posts-v05)
   - [Projects (v0.5)](#projects-v05)
   - [Plugins (v0.5)](#plugins-v05)
   - [Modules](#modules)
@@ -86,7 +87,6 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Example AWS infrastructure](https://serverlesscode.com/images/guetta_article/image04.png) - Example cloud infrastructure for a Serverless project.
 - [Build a Serverless REST API in Minutes with the Serverless Framework](https://blog.codeship.com/a-serverless-rest-api-in-minutes/) - Most recent "getting started" post as of Jan 2016.
 - [Moving from Ruby on Rails to Serverless](http://microapps.com/blog/learnt-building-monolithic-rails-app/) - Blog post why and how this transition was made.
-- [Zerosharp blog posts series](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/) - Step-by-step development of an example application.
 - [Serverless and GraphQL](http://kevinold.com/2016/02/01/serverless-graphql.html) - How Serverless can be used with GraphQL.
 - [Serverless - The next big thing](https://www.linkedin.com/pulse/serverless-next-big-thing-colin-lyman) - Colin Lyman on Serverless as the next big thing.
 - [Building a website](http://zanon.io/posts/building-serverless-websites-on-aws-tutorial) - Tutorial on how to build a serverless website.
@@ -573,6 +573,15 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Why go serverless?](http://blog.backand.com/why-go-serverless/) - Post which explaines why one should consider to go serverless.
 - [Event-driven processing with Serverless and DynamoDB streams](https://serverless.com/blog/event-driven-architecture-dynamodb/) - How to setup an event-driven data processing pipeline with the Serverless Framework and DynamoDB streams.
 - [Serverless v1.16.0](https://serverless.com/blog/serverless-v1.16.0/) - Announcement blog post for Serverless Framework v1.16.0.
+- [How do different factors affect Lambda cold starts?](https://read.acloud.guru/does-coding-language-memory-or-package-size-affect-cold-starts-of-aws-lambda-a15e26d12c76) - Post on how language, memory and package size affect AWS Lambda cold starts.
+- [AWS Lambda runtime performance comparisons](https://read.acloud.guru/comparing-aws-lambda-performance-when-using-node-js-java-c-or-python-281bef2c740f) - Comparing AWS Lambda performance when using Node.js, Java, C# or Python.
+- [Serverless (Cron)icle 3](https://serverless.com/blog/serverless-cron-icle-3/) - Serverless (Cron)icle 2 - News from the serverless ecosystem.
+- [Writing IAM policies CAREfully](https://serverlesscode.com/post/iam-policies-like-you-care/) - Conceptual framework that helps writing better IAM policies.
+- [FaunaDB with GraphQL](https://fauna.com/blog/graphql-faunadb) - How to use FaunaDB with GraphQL and the Serverless Framework.
+- [5 handy serverless APIs](https://thenewstack.io/5-handy-api-services-web-development/) - 5 handy APIs one can use for serverless development.
+- [Python 3 apps with the Serverless Framework](https://serverlesscode.com/post/python-3-on-serverless-framework/) - How to build Python 3 services with the Serverless Framework.
+- [Serving 39 million requests for $370 / month](https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd) - Post which outlines how Postlight reduced their hosting costs by two orders of magnitude.
+- [Serverless stripe](https://yos.io/2017/06/22/serverless-stripe/) - Post on how to receive payments in a serverless fashion with Stripe and AWS Lambda.
 
 ## Screencasts
 
@@ -953,6 +962,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Kinesis Streams fan-out ★18](https://github.com/alexcasalboni/kinesis-streams-fan-out-kinesis-analytics) - Amazon Kinesis Streams fan-out via Kinesis Analytics (powered by the Serverless Framework).
 - [X-Ray ★1](https://github.com/e-r-w/serverless-xray-test) - Example service to test the AWS X-Ray integration.
 - [Faultline ★34](https://github.com/faultline/faultline) - Error tracking tool on AWS managed services.
+- [Dev dependencies ★2](https://github.com/cjelger/serverless-dev-dependencies) - Dummy project to show exclusion of dev dependencies when packaging with the Serverless Framework.
+- [FaunaDB powered GraphQL blog ★4](https://github.com/fauna/serverless-graphql-blog) - Serverless blog leveraging GraphQL in combination with FaunaDB.
+- [Stripe backend ★4](https://github.com/yosriady/serverless-stripe-backend) - Backend application for `serverless-stripe-frontend` built on AWS Lambda & the Serverless Framework.
 
 ## Related projects
 
@@ -1190,6 +1202,14 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [JAWS local server ★3 ⏳1Y](https://github.com/martinlindenberg/JawsLocalServer) - Local server which lets you execute Lambda functions locally.
 - [Shark Notes ★2 ⏳1Y](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless.
 - [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
+
+### Blog posts (v0.5)
+
+- [Serverless Framework tutorial - Part 1](http://blog.zerosharp.com/serverless-framework-part-1-up-and-running/) - Part 1 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
+- [Serverless Framework tutorial - Part 2](http://blog.zerosharp.com/serverless-framework-part-2-typescript-and-mocha/) - Part 2 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
+- [Serverless Framework tutorial - Part 3](http://blog.zerosharp.com/serverless-framework-part-3-the-guts/) - Part 3 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
+- [Serverless Framework tutorial - Part 4](http://blog.zerosharp.com/serverless-framework-part-4-connecting-the-parts/) - Part 4 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
+- [Serverless Framework tutorial - Part 5](http://blog.zerosharp.com/serverless-framework-part-5-pulling-in-a-node-package/) - Part 5 of the Serverless Framework tutorial by [zerosharp](http://zerosharp.com).
 
 ### Projects (v0.5)
 

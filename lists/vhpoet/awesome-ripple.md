@@ -66,7 +66,7 @@ Pull requests are more then welcome.
 - [ripple-lib-java ★67](https://github.com/ripple/ripple-lib-java): Java
 - [ripple-lib-ruby ★4 ⏳3Y](https://github.com/kevinejohn/ripple-lib-rpc-ruby): Ruby
 - [ripple-python ★17](https://github.com/miracle2k/ripple-python): Python Lib
-- [ripple-haskell ★1 ⏳1Y](https://github.com/singpolyma/ripple-haskell): Haskell
+- [ripple-haskell ★1 ⏳2Y](https://github.com/singpolyma/ripple-haskell): Haskell
 - [rubblelabs/ripple ★23](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
 
 ###### Clients / Apps

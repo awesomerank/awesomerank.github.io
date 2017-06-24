@@ -126,7 +126,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [Weld ★22](https://github.com/weld/weld-vertx) - Brings the CDI programming model into the Vert.x ecosystem (register CDI observer methods as Vert.x message consumers, CDI-powered Verticles, define routes in a declarative way, etc.).
 
 * Meteor
-  * [Meteor ★15](https://github.com/jmusacchio/vertxbus) - Meteor integration support through Vert.x event bus.
+  * [Meteor ★15 ⏳1Y](https://github.com/jmusacchio/vertxbus) - Meteor integration support through Vert.x event bus.
 
 * Metrics
   * [Hawkular metrics ★5 ⏳1Y](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI.

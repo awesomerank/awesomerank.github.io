@@ -48,7 +48,7 @@ place to ask about it might be in [ipfs/apps ★38](https://github.com/ipfs/apps
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github ★95](https://github.com/madvas/ethlance)
-* [git-ipfs-rehost ★69](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
+* [git-ipfs-rehost ★69 ⏳1Y](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 * [HydrusNetwork ★192](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
 * [InterPlanetary Wayback ★66](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.

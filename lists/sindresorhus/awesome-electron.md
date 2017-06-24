@@ -291,6 +291,7 @@ Made with Electron.
 - [electron-lets-move ★118](https://github.com/tommoor/electron-lets-move) - Automatically move your app to `/Applications` on macOS.
 - [electron-settings ★194](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
 - [got ★1658](https://github.com/sindresorhus/got) - Simplified HTTP requests.
+- [electron-unhandled ★59](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 
 ### Using Electron
 

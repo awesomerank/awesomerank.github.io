@@ -47,7 +47,7 @@ A curated list of fonts and typography resources.
 * [Open Baskerville](http://klepas.org/openbaskerville/)
 * [Redacted ★4469](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans ★184](https://github.com/RoelN/SansBullshitSans)
-* [WorkSans ★713](https://github.com/weiweihuanghuang/Work-Sans)
+* [WorkSans ★713 ⏳1Y](https://github.com/weiweihuanghuang/Work-Sans)
 
 ## Emojis
 * [alfred-emoji-workflow ★531](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes

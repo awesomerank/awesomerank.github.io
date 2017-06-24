@@ -146,7 +146,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [DDD Leaven ★317](https://github.com/BottegaIT/ddd-leaven-v2) - DDD-CQRS sample v2.0 project that helps you with starting out advanced domain modeling using Spring, JPA and testing.
 - [DDD Playground ★90](https://github.com/jorge07/ddd-playground) - Sample implementation in PHP.
 - [Fohjin ★554 ⏳1Y](https://github.com/MarkNijhof/Fohjin) - Example project that accompanies Mark Nijhof's [CQRS](https://leanpub.com/cqrs) book.
-- [Lokad IDDD Sample ★131 ⏳4Y](https://github.com/Lokad/lokad-iddd-sample) - This is a .NET Sample Project to accompany Event Sourcing materials from the book by Vaughn Vernon: Implementing Domain-Driven Design.
+- [Lokad IDDD Sample ★131 ⏳5Y](https://github.com/Lokad/lokad-iddd-sample) - This is a .NET Sample Project to accompany Event Sourcing materials from the book by Vaughn Vernon: Implementing Domain-Driven Design.
 - [ContosoUniversityCore ★220](https://github.com/jbogard/ContosoUniversityCore) - ContosoUniversity on ASP.NET Core with Full .NET Framework.
 - [DDDSkeletonNet ★75 ⏳3Y](https://github.com/andras-nemes/DDDSkeletonNet) (C#) - a .NET skeleton project to introduce the concepts of Domain Driven Design and loosely coupled layers.
 - [Event Sourcing Example ★0](https://github.com/Pragmatists/eventsourcing-java-example) (Java) - A simplified (in memory) example of Event Sourcing and CQRS implementation for Java code (modeled for banking domain use cases).

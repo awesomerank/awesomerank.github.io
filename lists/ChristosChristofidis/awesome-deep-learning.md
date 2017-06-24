@@ -417,7 +417,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 7.  [DeepLearning4J](http://deeplearning4j.org/)
 8.  [Brain ★7707](https://github.com/harthur/brain)
 9.  [DeepLearnToolbox ★2492](https://github.com/rasmusbergpalm/DeepLearnToolbox)
-10.  [Deepnet ★752 ⏳2Y](https://github.com/nitishsrivastava/deepnet)
+10.  [Deepnet ★752 ⏳3Y](https://github.com/nitishsrivastava/deepnet)
 11.  [Deeppy ★1108 ⏳1Y](https://github.com/andersbll/deeppy)
 12.  [JavaNN ★1081](https://github.com/ivan-vasilev/neuralnetworks)
 13.  [hebel ★1161 ⏳1Y](https://github.com/hannes-brt/hebel)

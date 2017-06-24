@@ -130,7 +130,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [amiando-slack ★0 ⏳3Y](https://github.com/dotconferences/amiando-slack) - Push Amiando ticket sales to Slack
 - [anonymous-slack ★12 ⏳1Y](https://github.com/recursionpharma/anonymous-slack) - A service you can run on Heroku to send anonymous messages to colleagues
 - [circle2slack ★1 ⏳3Y](https://github.com/dstrelau/circle2slack) - Proxy CircleCI webhooks to Slack
-- [enotify-slack ★22](https://github.com/daikikohara/enotify-slack) - A tool to get event information and send it to Slack
+- [enotify-slack ★22 ⏳1Y](https://github.com/daikikohara/enotify-slack) - A tool to get event information and send it to Slack
 - [gdrive2slack ★75](https://github.com/optionfactory/gdrive2slack) - Frictionless integration between Google Drive and Slack
 - [go-bot ★22 ⏳1Y](https://github.com/fabioxgn/go-bot) - IRC bot written in go
 - [hal ★257](https://github.com/danryan/hal) - A chat bot in Go
