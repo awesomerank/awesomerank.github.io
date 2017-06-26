@@ -262,7 +262,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
   * [SSheldon/rust-objc ★99](https://github.com/SSheldon/rust-objc) — Objective-C Runtime bindings and wrapper for Rust
 * Python
   * [dgrunwald/rust-cpython ★482](https://github.com/dgrunwald/rust-cpython) — Python bindings [<img src="https://api.travis-ci.org/dgrunwald/rust-cpython.svg?branch=master">](https://travis-ci.org/dgrunwald/rust-cpython)
-  * [mitsuhiko/snaek ★165](https://github.com/mitsuhiko/snaek) — helps to build Rust libraries and bridge them to Python with the help of cffi. [<img src="https://api.travis-ci.org/mitsuhiko/snaek.svg?branch=master">](https://travis-ci.org/mitsuhiko/snaek)
+  * [mitsuhiko/snaek ★181](https://github.com/mitsuhiko/snaek) — helps to build Rust libraries and bridge them to Python with the help of cffi. [<img src="https://api.travis-ci.org/mitsuhiko/snaek.svg?branch=master">](https://travis-ci.org/mitsuhiko/snaek)
   * [PyO3/PyO3 ★31](https://github.com/PyO3/PyO3) - CPython Rust binding (a fork of rust-cpython) [<img src="https://api.travis-ci.org/PyO3/PyO3.svg?branch=master">](https://travis-ci.org/PyO3/PyO3)
 * R
   * [rustr/rustr ★79](https://github.com/rustr/rustr) — use Rust from R, and use R in Rust [<img src="https://api.travis-ci.org/rustr/rustr.svg?branch=master">](https://travis-ci.org/rustr/rustr)

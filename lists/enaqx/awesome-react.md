@@ -1012,7 +1012,7 @@ A collection of awesome things regarding React ecosystem.
 * [reactor-demo - Isomorphic Javascript app with React ★16 ⏳3Y](https://github.com/natew/reactor-demo)
 * [imgsible - React-based Imgur-like isomorphic demo app ★102 ⏳3Y](https://github.com/BinaryMuse/imgsible)
 * [wow-realm-status-react - WoW Realm Status: React Edition ★3 ⏳3Y](https://github.com/BinaryMuse/wow-realm-status-react)
-* [react-json-editor - A generic JSON editor ★85](https://github.com/dustingetz/react-json-editor)
+* [react-json-editor - A generic JSON editor ★85 ⏳1Y](https://github.com/dustingetz/react-json-editor)
 * [react-todos - Backbone's example TODO app with React JS for views ★23](https://github.com/ssorallen/react-todos)
 * [github-issues-viewer - A gitub issues viewer build in react + backbone ★245 ⏳3Y](https://github.com/jaredly/github-issues-viewer)
 * [wolfenstein3D-react - Wolfenstein with the rendering layer written in React ★40 ⏳1Y](https://github.com/petehunt/wolfenstein3D-react)

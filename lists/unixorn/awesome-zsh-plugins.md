@@ -37,6 +37,7 @@ A collection of ZSH frameworks, plugins, tutorials & themes inspired by the vari
   - [zgen](#zgen)
   - [zilsh](#zilsh)
   - [zim](#zim)
+  - [zit](#zit)
   - [zoppo](#zoppo)
   - [zplug](#zplug)
   - [zplugin](#zplugin)
@@ -139,6 +140,10 @@ These frameworks make customizing your zsh setup easier.
 
 **Zim** is a Zsh configuration framework with blazing speed and modular extensions.
 
+### [zit ★4](https://github.com/m45t3r/zit)
+
+**zit** is a plugin manager for ZSH. It is minimal because it implements the bare minimum to be qualified as a plugin manager: it allows the user to install plugins from Git repositories (and Git repositories only, them why the name), source plugins and update them. It does not implement fancy functions like cleanup of removed plugins, automatic compilation of installed plugins, alias for oh-my-zsh/prezto/other ZSH frameworks, building binaries, PATH manipulation and others.
+
 ### [zoppo ★25](https://github.com/zoppo/zoppo)
 
 **Zoppo** is the crippled configuration framework for Zsh. As an Italian saying goes: "chi va con lo zoppo, impara a zoppicare", we realized we were walking with a cripple and are now going to become crippled ourselves.
@@ -212,7 +217,7 @@ These frameworks make customizing your zsh setup easier.
 * [anyframe ★104](https://github.com/mollifier/anyframe) - A peco/percol/fzf wrapper plugin for zsh.
 * [apache2.plugin.zsh ★3](https://github.com/voronkovich/apache2.plugin.zsh) - Adds aliases and functions for managing Apache2.
 * [asciidoctor ★0](https://github.com/sparsick/asciidoctor-zsh) - A plugin for AsciiDoctor.
-* [atom_plugin.zsh ★1](https://github.com/kingsj/atom_plugin.zsh) - A plugin for the Atom editor on OS X.
+* [atom_plugin.zsh ★1 ⏳1Y](https://github.com/kingsj/atom_plugin.zsh) - A plugin for the Atom editor on OS X.
 * [auto-fu.zsh ★327](https://github.com/hchbaw/auto-fu.zsh) - Automatic complete-word and list-choices. Originally incr-0.2.zsh by y.fujii <y-fujii at mimosa-pudica.net>.
 * [auto-ls ★2](https://github.com/desyncr/auto-ls) - Automatically `ls` when cding to a new directory.
 * [autoenv](https://github.com/horosgrisa/autoenv) - Extended version of the zsh-autoenv plugin.
@@ -305,7 +310,7 @@ These frameworks make customizing your zsh setup easier.
 * [node.plugin.zsh ★5 ⏳2Y](https://github.com/srijanshetty/node.plugin.zsh) - Srijan Shetty's nodejs plugin for zsh with caching of nvm completions and autoloading of nvm if present.
 * [nodenv.plugin.zsh ★0](https://github.com/jsahlen/nodenv.plugin.zsh) - Auto-load nodenv and its completions into the shell.
 * [nohup ★0](https://github.com/micrenda/zsh-nohup) - Add `nohup` to the current command pressing `Ctrl-H`.
-* [noreallyjustfuckingstopalready ★262](https://github.com/eventi/noreallyjustfuckingstopalready) - OS X users know the pain of trying to figure out what command actually flushes the DNS cache on their version of OS X, and this plugin makes that annoyance go away.
+* [noreallyjustfuckingstopalready ★262 ⏳1Y](https://github.com/eventi/noreallyjustfuckingstopalready) - OS X users know the pain of trying to figure out what command actually flushes the DNS cache on their version of OS X, and this plugin makes that annoyance go away.
 * [nvm-auto-use ★3 ⏳1Y](https://github.com/tomsquest/nvm-auto-use.zsh) - calls `nvm use` automatically whenever you enter a directory that contains an `.nvmrc` file with a string telling nvm which node to use.
 * [nvm-auto ★6](https://github.com/dijitalmunky/nvm-auto) - Aims to alleviate needing to type `nvm use` as much as possible, especially if you often switch between versions of node.js and use `.nvmrc` files in your project to manage what version of node your project needs.
 * [oh-my-dogesh ★3 ⏳3Y](https://github.com/keithhamilton/oh-my-dogesh) - Dogification plugin.
@@ -595,7 +600,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [judgedim ★0 ⏳2Y](https://github.com/judgedim/oh-my-zsh-judgedim-theme) - Minimalist prompt.
 * [keloran ★0](https://github.com/Keloran/keloran.zsh-theme) - Theme that includes a few features from other themes
 * [kimwz ★3](https://github.com/kimwz/kimwz-oh-my-zsh-theme) - Minimal theme.
-* [kketcham ★0 ⏳2Y](https://github.com/prototype27/kketcham) - Theme with nifty colors on the git info.
+* [kketcham ★0 ⏳3Y](https://github.com/prototype27/kketcham) - Theme with nifty colors on the git info.
 * [klendathu ★0 ⏳1Y](https://github.com/kegonomics/klendathu) - Uses Powerline iconsolas.
 * [lagune ★0](https://github.com/noplay/lagune) - a minimal zsh theme.
 * [lambda-pure ★22](https://github.com/marszall87/lambda-pure) - A minimal zsh theme, based on Pure, with added NodeJS version.

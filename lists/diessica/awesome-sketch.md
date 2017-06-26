@@ -82,7 +82,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 - [Sketch Measure ★4686](https://github.com/utom/sketch-measure)
 - [Style Inventory ★1708](https://github.com/getflourish/Sketch-Style-Inventory)
 - [Dynamic Button ★1055](https://github.com/ddwht/sketch-dynamic-button)
-- [Page Switch ★66 ⏳2Y](https://github.com/mauehara/sketch-page-switch)
+- [Page Switch ★66 ⏳3Y](https://github.com/mauehara/sketch-page-switch)
 - [Sketch Flex Layout ★1696](https://github.com/hrescak/Sketch-Flex-Layout)
 
 ###### Nice-to-have :thumbsup:

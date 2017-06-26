@@ -866,7 +866,7 @@ AWS Repos:
 
 * [aws-flow-ruby :fire: ★140](https://github.com/aws/aws-flow-ruby) - Creates background jobs and multistep workflows.
 * [aws-flow-ruby-samples ★62](https://github.com/awslabs/aws-flow-ruby-samples) - AWS Flow Framework for Ruby samples.
-* [aws-flow-ruby-opsworks-helloworld ★5](https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld) - Hello World sample.
+* [aws-flow-ruby-opsworks-helloworld ★5 ⏳1Y](https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld) - Hello World sample.
 
 Community Repos:
 

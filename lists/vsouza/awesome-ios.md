@@ -1722,7 +1722,7 @@ Most of these are paid services, some have free tiers.
 * [SCLAlertView-Swift ★3767](https://github.com/vikmeup/SCLAlertView-Swift) - Beautiful animated Alert View, written in Swift. :large_orange_diamond:
 * [TTGSnackbar ★294](https://github.com/zekunyan/TTGSnackbar) - Show simple message and action button on the bottom of the screen with multi kinds of animation. :large_orange_diamond:
 * [TSMessages ★4822](https://github.com/KrauseFx/TSMessages) - Show notification views on top of screen such as success, error, warning or messages for iOS.
-* [PJAlertView ★6 ⏳1Y](https://github.com/PrajeetShrestha/PJAlertView) - Apple has deprecated beloved alert view but this library will add revamped alert view with far more customization possibility.
+* [PJAlertView ★6 ⏳2Y](https://github.com/PrajeetShrestha/PJAlertView) - Apple has deprecated beloved alert view but this library will add revamped alert view with far more customization possibility.
 * [Swift-Prompts ★705](https://github.com/GabrielAlva/Swift-Prompts) - A Swift library to design custom prompts with a great scope of options to choose from. :large_orange_diamond:
 * [BRYXBanner ★768](https://github.com/bryx-inc/BRYXBanner) - A lightweight dropdown notification for iOS 7+, in Swift. :large_orange_diamond:
 * [LNRSimpleNotifications ★162](https://github.com/LISNR/LNRSimpleNotifications) - Simple Swift in-app notifications. LNRSimpleNotifications is a simplified Swift port of TSMessages :large_orange_diamond:
@@ -2421,7 +2421,7 @@ Most of these are paid services, some have free tiers.
 * [dyci ★1043](https://github.com/DyCI/dyci-main) - Code injection tool.
 * [injectionforxcode ★4653](https://github.com/johnno1962/injectionforxcode) - Code injection including Swift.
 * [Swinject ★1568](https://github.com/Swinject/Swinject) - Dependency injection framework for Swift
-* [Reliant ★51](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
+* [Reliant ★51 ⏳1Y](https://github.com/appfoundry/Reliant) - Nonintrusive Objective-C dependency injection.
 * [Kraken ★17](https://github.com/sabirvirtuoso/Kraken) - A Dependency Injection Container for Swift with easy-to-use syntax.
 * [Cleanse ★868](https://github.com/square/Cleanse) - Lightweight Swift Dependency Injection Framework by Square. :large_orange_diamond:
 * [Typhoon ★2158](https://github.com/appsquickly/Typhoon) - Powerful dependency injection (Objective-C & Swift).
@@ -2708,7 +2708,7 @@ Other amazingly awesome lists can be found in the
 * [awesome watchkit apps ★186 ⏳1Y](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials. :watch:
 * [iOS Learning Resources ★213](https://github.com/sanketfirodiya/iOS-learning-resources) Comprehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
 * [awesome-ios-animation ★2540](https://github.com/ameizi/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
-* [awesome-ios-chart ★918](https://github.com/ameizi/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
+* [awesome-ios-chart ★918 ⏳1Y](https://github.com/ameizi/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
 * [awesome-gists ★152](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
 * [awesome-ios-ui ★9429](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
 * [Awesome Reactive Programming in Swift ★84 ⏳1Y](https://github.com/SideEffects-xyz/Awesome-Reactive-Programming-Swift) - A collection of frameworks, talks and resources about reactive programming in Swift.

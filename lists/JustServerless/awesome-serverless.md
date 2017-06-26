@@ -523,7 +523,6 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless Kubeles plugin announcement](https://medium.com/bitnami-perspectives/a-serverless-plugin-for-kubeless-64cd0f7e4f62) - Announcement blog post for the Serverless kubeless provider plugin.
 - [Event routers: the missing serverless service](https://medium.com/@PaulDJohnston/event-routers-the-missing-serverless-service-9ed51b14f25) - Post which discusses the idea of an event routing system for serverless applications.
 - [A vision for loosely-coupled and high-performance serverless architecture](https://read.acloud.guru/a-vision-for-loosely-coupled-high-performance-serverless-architecture-f35c1fd68e9d) - Post which discusses the key missing pieces for a loosely coupled and high performant serverless architecture.
-- [Service Discovery as a Service](https://read.acloud.guru/service-discovery-as-a-service-the-missing-serverless-lynchpin-541d001466f4) - Part 1 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
 - [Server-less eats the infrastructure](https://medium.com/@chakrabartis/server-less-eats-the-infrastructure-2a3d0ef66363) - How serverless will change the cloud infrastructure game.
 - [DynamoDB autoscaling](https://www.trek10.com/blog/dynamodb-autoscaling-open-source/) - Post about a serverless project which scales DynamoDB automagically.
 - [Event sourcing at Nordstrom](https://read.acloud.guru/serverless-event-sourcing-at-nordstrom-ea69bd8fb7cc) - Blog post about the "Hello, Retail!" project from Nordstrom.
@@ -582,6 +581,17 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Python 3 apps with the Serverless Framework](https://serverlesscode.com/post/python-3-on-serverless-framework/) - How to build Python 3 services with the Serverless Framework.
 - [Serving 39 million requests for $370 / month](https://trackchanges.postlight.com/serving-39-million-requests-for-370-month-or-how-we-reduced-our-hosting-costs-by-two-orders-of-edc30a9a88cd) - Post which outlines how Postlight reduced their hosting costs by two orders of magnitude.
 - [Serverless stripe](https://yos.io/2017/06/22/serverless-stripe/) - Post on how to receive payments in a serverless fashion with Stripe and AWS Lambda.
+- [API Management with OpenWhisk](https://medium.com/@cfjedimaster/enabling-api-management-for-serverless-with-openwhisk-c9421643365d) - How to enable API Management for serverless with OpenWhisk.
+- [Service Discovery as a Service](https://read.acloud.guru/service-discovery-as-a-service-the-missing-serverless-lynchpin-541d001466f4) - Part 1 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
+- [The Need for Asynchronous FaaS Call Chains](https://medium.com/@ben11kehoe/the-need-for-asynchronous-rpc-architecture-in-serverless-systems-ff168f1c8785) - Part 2 of the blog post series about key missing pieces for a loosely coupled and high performant serverless architecture.
+- [Announcing PubNub Functions and Endpoints](https://medium.com/@PubNub/announcing-pubnub-functions-and-endpoints-69e170179ef0) - Announcement blog post for PubNub Functions and Endpoints.
+- [Write a serverless Slack chat bot using AWS](https://chatbotslife.com/write-a-serverless-slack-chat-bot-using-aws-e2d2432c380e) - Tutorial which shows how to write a Slack chatbot with AWS Lambda.
+- [Fly + AWS Lambda](https://fly.io/articles/fly-aws-lambda/) - Announcement blog post that [Fly](http://fly.io) now supports AWS Lambda for a serverless application delivery.
+- [Introducing FaunaDB serverless cloud](https://www.infoq.com/articles/faunadb-serverless) - Post which gives an introduction to the FaunaDB serverless cloud.
+- [Ask HN: How was your experience with AWS Lambda in production?](https://news.ycombinator.com/item?id=14601809) - Discussions about the AWS Lambda experience when using it in production.
+- [The great serverless showdown](https://headmelted.com/serverless-showdown-4a771ca561d2) - A head-to-head comparison of different FaaS providers.
+- [Coding for a serverless future](https://headmelted.com/coding-for-a-serverless-future-f34ae86c6c2) - Post which helps to get started with zero-infrastructure development (aka serverless architectures).
+- [Deploying functions to Docker Swarm via a CLI](https://dev.to/developius/functions-as-a-service---deploying-functions-to-docker-swarm-via-a-cli) - Post which shows how the Docker-based FaaS project works.
 
 ## Screencasts
 
@@ -617,6 +627,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless Framework tutorial series](https://www.youtube.com/watch?v=lUTGk64jppM&list=PLzvRQMJ9HDiT5b4OsmIBiMbsPjfp4kfg3) - Tutorial series which covers the Serverless Framework.
 - [How to make a Serverless Framework plugin](https://www.youtube.com/watch?v=lzcmdmk2Lc8) - Video which shows how to make a Serverless Framework plugin in under 2 minutes.
 - [What's new in Serverless v1.16](https://www.youtube.com/watch?v=_F4YO6pi1sg) - Video walkthrough about all the new features in Serverless v1.16.
+- [Getting started with AWS Lambda](https://www.youtube.com/watch?v=NhGEik26324) - Screencasts on the first steps with AWS Lambda.
+- [AWS Lambda: Advanced Coding Session](https://www.youtube.com/watch?v=NlZjTn9SaWg) - Advanced screencast on AWS Lambda usage.
 
 ## Talks
 
@@ -730,6 +742,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [The serverless revolution](https://changelog.com/podcast/253) - Podcast with Pam Selle about the serverless revolution happening for JavaScript developers.
 - [Skipping containers for serverless environments](https://thenewstack.io/skipping-containers-altogether-serverless-environments/) - Podcast on how and why enterprises adopt serverless technologies.
 - [The need for infrastructure tooling in the serverless ecosystem](https://thenewstack.io/need-infrastructure-tooling-serverless-ecosystem/) - Podcast which discusses the need for serverless infrastructure toolings.
+- [Serverless and you](https://pusher.com/sessions/meetup/london-node-user-group/serverless-and-you) - Marcel Cutts talk about serverless and the Serverless Framework at the London Node.js user group.
 
 ## Amazon AWS resources
 
@@ -965,6 +978,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Dev dependencies ★2](https://github.com/cjelger/serverless-dev-dependencies) - Dummy project to show exclusion of dev dependencies when packaging with the Serverless Framework.
 - [FaunaDB powered GraphQL blog ★4](https://github.com/fauna/serverless-graphql-blog) - Serverless blog leveraging GraphQL in combination with FaunaDB.
 - [Stripe backend ★4](https://github.com/yosriady/serverless-stripe-backend) - Backend application for `serverless-stripe-frontend` built on AWS Lambda & the Serverless Framework.
+- [FaunaDB CRUD ★10](https://github.com/fauna/serverless-crud) - CRUD service which uses FaunaDB for data persistence.
 
 ## Related projects
 
@@ -1027,6 +1041,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless Computing: Current Trends and open problems](https://arxiv.org/pdf/1706.03178.pdf) - Research paper on serverless computing.
 - [Lambda session auth ★10](https://github.com/sedenardi/lambda-session-auth) - Cookie-based session authentication using AWS Lambda and Node.js.
 - [CloudBoost ★873](https://github.com/cloudboost/cloudboost) - One complete serverless platform for the next web.
+- [Lambda test ★59 ⏳1Y](https://github.com/berezovskyi/lambda-test) - Test (pseudo) AWS Lambda runtime startup time.
 
 ## Plugins
 
@@ -1164,6 +1179,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless Architectures on AWS - By Peter Sbarski & Sam Kroonenburg](http://book.acloud.guru) - Book focused on covering serverless architectures using AWS.
 - [Agile development for serverless platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) - How to apply agile practices in fully serverless architectures.
 - [Introduction to serverless computing with AWS Lambda](https://www.contino.io/files/Contino-Introduction-to-Serverless-Computing-with-AWS-Lambda.pdf) - Guide about serverless computing on AWS Lambda.
+- [Going serverless](https://leanpub.com/going-serverless) - Building scalable applications with the Serverless Framework and AWS Lambda.
 
 ## Professional services
 

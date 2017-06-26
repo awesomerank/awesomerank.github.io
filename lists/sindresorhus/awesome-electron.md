@@ -39,7 +39,7 @@ Made with Electron.
 
 ###### Featured
 
-- [Beaker ★1368](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
+- [Beaker ★1418](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
 - [Hyper ★16996](https://github.com/zeit/hyper) - Terminal.
 - [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
 - [Kap ★4900](https://github.com/wulkano/kap) - Screen recorder with GIF support.

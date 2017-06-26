@@ -309,7 +309,7 @@ Here awesome badge for your project:
 * [kohesive/klutter ★73](https://github.com/kohesive/klutter) - A mix of random small libraries for Kotlin, the smallest reside here until big enough for their own repository.
 * [kohesive/solr-undertow ★77](https://github.com/kohesive/solr-undertow) - Solr Standalone Tiny and High performant server.
 * [leprosus/kotlin-hashids ★23 ⏳2Y](https://github.com/leprosus/kotlin-hashids) - Library that generates short, unique, non-sequential hashes from numbers.
-* [mplatvoet/progress ★6](https://github.com/mplatvoet/progress) - Progress for Kotlin.
+* [mplatvoet/progress ★6 ⏳1Y](https://github.com/mplatvoet/progress) - Progress for Kotlin.
 * [sargunster/CakeParse ★6](https://github.com/sargunster/CakeParse) - Simple parser combinator library for Kotlin.
 * [sargunster/KtUnits ★7](https://github.com/sargunster/KtUnits) - Tiny unit conversion library for Kotlin.
 * [hotchemi/khronos ★113](https://github.com/hotchemi/khronos) - An intuitive Date extensions in Kotlin.

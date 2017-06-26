@@ -108,11 +108,13 @@ A collection of all things awesome about Rails. Inspired by other awesome-* stuf
 - [canvas-lms ★2055](https://github.com/instructure/canvas-lms) -  A new, open-source learning management system by Instructure Inc  
 - [theodinproject ★502](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](http://www.theodinproject.com)
 - [cyberdojo ★220](https://github.com/JonJagger/cyber-dojo) -  Free in-browser coding-dojo [Live](http://cyber-dojo.org)
+- [mumuki-laboratory ★104](https://github.com/mumuki/mumuki-laboratory) - Where students practice and receive automated and human feedback [Live](http://mumuki.io/)
 
 #### Music
 
 - [Beatstream ★109](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere  
 - [listenup ★20 ⏳2Y](https://github.com/ooofinooo/listenup) -  An application that allows users to search for songs and add them to friends playlist  [Live](http://listenup-songshare.herokuapp.com)
+- [alonetone ★176](https://github.com/sudara/alonetone) - an independent music platform, allowing musicians to host and distribute their music in a non-commercial, easy-to-use environment. [Live](https://alonetone.com/)
 
 #### Nature
 

@@ -50,7 +50,7 @@ A curated list of fonts and typography resources.
 * [WorkSans ★713 ⏳1Y](https://github.com/weiweihuanghuang/Work-Sans)
 
 ## Emojis
-* [alfred-emoji-workflow ★531](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
+* [alfred-emoji-workflow ★531 ⏳1Y](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
 * [emoji-cheat-sheet.com ★4958](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 * [emoji-data-js ★50 ⏳1Y](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
 * [emoji-minesweeper ★203](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis

@@ -460,7 +460,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [ClassManager ★35](https://github.com/kogarashisan/ClassManager) - One of the fastest and most convenient class systems in the world
 * [klass ★722 ⏳1Y](https://github.com/ded/klass) - A utility for creating expressive classes in JavaScript.
-* [augment ★897 ⏳1Y](https://github.com/javascript/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
+* [augment ★897 ⏳2Y](https://github.com/javascript/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
 
 
 ## Control Flow

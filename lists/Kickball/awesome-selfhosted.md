@@ -251,7 +251,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Ring](https://ring.cx/) - Free software for universal communication which respects freedoms and privacy of its users. ([Source Code ★52](https://github.com/savoirfairelinux/ring-project)) `GPLv3` `C++`
   * [Rocket.Chat](https://rocket.chat/) - Teamchat solution similar to Gitter.im or Slack. ([Source Code ★12186](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`
   * [Scrollback](https://scrollback.io/) - Embeddable cross-platform chat for communities. ([Source Code ★570 ⏳1Y](https://github.com/scrollback/scrollback)) `AGPLv3` `Nodejs`
-  * [Spectrum 2](http://spectrum.im/) - Spectrum 2 is an open source instant messaging transport.  It allows users to chat together even when they are using different IM networks. ([Source Code ★225](https://github.com/hanzz/spectrum2)) `GPLv3` `C++`
+  * [Spectrum 2](http://spectrum.im/) - Spectrum 2 is an open source instant messaging transport.  It allows users to chat together even when they are using different IM networks. ([Source Code ★227](https://github.com/hanzz/spectrum2)) `GPLv3` `C++`
   * [Spreed](https://www.spreed.me/) - WebRTC audio/video calls, conferencing server, and web client. ([Source Code ★485](https://github.com/strukturag/spreed-webrtc)) `AGPLv3` `Go`
   * [Synapse](http://matrix.org/docs/projects/server/synapse.html) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code ★1947](https://github.com/matrix-org/synapse)) `Apache` `Python`
     * [Matrix Console Web](http://matrix.org/docs/projects/client/matrix-console.html) - A web client meant to be a showcase of Matrix capabilities, and reference implementation of the Matrix standard. ([Source Code ★24](https://github.com/matrix-org/matrix-angular-sdk)) `Apache` `Javascript`
@@ -275,7 +275,7 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
   * [Inboxen](https://inboxen.org) - Inboxen is a service that provides you with an infinite number of unique inboxes. ([Source Code ★61](https://github.com/Inboxen/Inboxen)) `GPLv3` `Python`
   * [iRedMail](http://www.iredmail.org/) - Full-featured mail server solution based on Postfix and Dovecot. ([Source Code](https://bitbucket.org/zhb/iredmail/commits/)) `GPLv3` `Shell`
   * [Mailcow](https://mailcow.email/) - Mail server suite based on Dovecot, Postfix and other open source software, that provides a modern Web UI for administration. ([Source Code](https://github.com/andryyy/mailcow)) `GPLv2` `PHP`
-  * [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Demo](https://github.com/Mailu/Mailu/wiki/Demo-server), [Source Code ★173](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
+  * [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Demo](https://github.com/Mailu/Mailu/wiki/Demo-server), [Source Code ★176](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
   * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code ★6337](https://github.com/mail-in-a-box/mailinabox)) `CC0` `Shell`
   * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/tonioo/modoboa)) `MIT` `Python`
   * [Postal ★6778](https://github.com/atech/postal) - Postal is a complete and full featured mail server for use by websites and web servers. `MIT` `Ruby`
@@ -358,7 +358,7 @@ _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony soft
 _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
 
   * [Freepbx](http://www.freepbx.org) - Web-based open source GUI that controls and manages Asterisk. ([Source Code](http://git.freepbx.org/projects/FREEPBX)) `GPLv2` `PHP`
-  * [FusionPBX](https://www.fusionpbx.com/) - An open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code ★140](https://github.com/fusionpbx/fusionpbx)) `MPLv1.1` `PHP`
+  * [FusionPBX](https://www.fusionpbx.com/) - An open source project that provides a customizable and flexible web interface to the very powerful and highly scalable multi-platform voice switch called FreeSWITCH. ([Source Code ★142](https://github.com/fusionpbx/fusionpbx)) `MPLv1.1` `PHP`
   * [Kazoo](http://2600hz.org/) - KAZOO is an open-source, highly scalable software platform designed to provide carrier-grade VoIP switch functions and features. ([Source Code ★477](https://github.com/2600hz/KAZOO)) `MPLv1.1` `Erlang`
 
 ### Social Networks and Forums
@@ -527,7 +527,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 **[`^        back to top        ^`](#)**
 
 * [ERPNext](https://erpnext.com) - Free open source ERP system. ([Demo](https://demo.erpnext.com), [Source Code ★2092](https://github.com/frappe/erpnext)) `GPLv3` `Python`
-* [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code ★34](https://github.com/ledgersmb/LedgerSMB)) `GPLv2` `Perl`
+* [LedgerSMB](https://ledgersmb.org/) - Integrated accounting and ERP system for small and midsize businesses, with double entry accounting, budgeting, invoicing, quotations, projects, orders and inventory management, shipping and more. ([Demo](https://demo.cloud.efficito.com/erp/1.5/login.pl), [Source Code ★36](https://github.com/ledgersmb/LedgerSMB)) `GPLv2` `Perl`
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code ★6743](https://github.com/odoo/odoo)) `LGPLv3` `Python`
 * [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python`
 
@@ -795,7 +795,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [King Phisher ★372](https://github.com/securestate/king-phisher) - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. `BSD` `Python`
   * [LicAPI](https://projects.miguelpiedrafita.com/LicAPI) - A PHP API to manage license info. ([Source Code ★9](https://github.com/m1guelpf/LicAPI)) `MPLv2` `PHP`
   * [Mindmaps ★1078](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/)) `AGPLv3` `HTML5`
-  * [Monica](https://monicahq.com/) - Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ([Source Code ★2682](https://github.com/monicahq/monica)) `AGPLv3` `PHP`
+  * [Monica](https://monicahq.com/) - Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ([Source Code ★3010](https://github.com/monicahq/monica)) `AGPLv3` `PHP`
   * [Musical Artifacts](https://musical-artifacts.com/) - Helping to catalog, preserve and free the artifacts you need to produce music. ([Source Code ★21](https://github.com/lfzawacki/musical-artifacts)) `MIT` `Ruby`
   * [nnmm](https://nnmm.nl/) - A super tiny pastebin/url minifier "microservice". ([Source Code ★17](https://github.com/Mechazawa/nnmm)) `Beerware` `PHP`
   * [Notica](https://notica.us) - Lets you send browser notifications from your terminal to your desktop or phone. No installation or registration is required. ([Source Code ★33](https://github.com/tannercollin/Notica)) `MIT` `Nodejs`
@@ -854,7 +854,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [Paperwork](http://paperwork.rocks) - OpenSource note-taking & archiving alternative to Evernote, Microsoft OneNote & Google Keep. ([Source Code ★5893](https://github.com/twostairs/paperwork)) `MIT` `PHP`
   * [savepad](https://github.com/novavex/textpad) - A minimalist notepad based on notepad.cc. `MIT` `PHP`
   * [ShareLaTex](https://www.sharelatex.com/) - A web-based collaborative LaTeX editor. ([Source Code ★4282](https://github.com/sharelatex/sharelatex)) `AGPLv3` `Ruby`
-  * [Standard Notes](https://standardnotes.org) - A simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://standardfile.org), [Source Code ★327](https://github.com/standardnotes/web)) `GPLv3` `Ruby/Nodejs`
+  * [Standard Notes](https://standardnotes.org) - A simple and private notes app. Protect your privacy while getting more done. That's Standard Notes. ([Demo](https://standardfile.org), [Source Code ★336](https://github.com/standardnotes/web)) `GPLv3` `Ruby/Nodejs`
   * [to-markdown](https://domchristie.github.io/to-markdown/) - An HTML to Markdown converter written in JavaScript. ([Source Code ★2342](https://github.com/domchristie/to-markdown)) `MIT` `JavaScript`
   * [Turtl](https://turtl.it/) - A totally private personal database and note taking app. ([Source Code](https://github.com/turtl)) `GPLv3` `CommonLisp`
 
@@ -970,7 +970,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 **[`^        back to top        ^`](#)**
 
   * [http2-serverpush-proxy ★4](https://github.com/n1try/http2-serverpush-proxy) - A reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone application. `MIT` `Nodejs`
-  * [iodine](http://code.kryo.se/iodine/) - A ipv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ([Source Code ★1836](https://github.com/yarrick/iodine)) `ISC` `C`
+  * [iodine](http://code.kryo.se/iodine/) - A ipv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ([Source Code ★1842](https://github.com/yarrick/iodine)) `ISC` `C`
   * [microproxy](https://github.com/thekvs/microproxy) - lightweight non-caching HTTP/HTTPS proxy server. ([Source Code ★42](https://github.com/thekvs/microproxy)) `MIT` `Go`
   * [miniProxy](https://github.com/joshdick/miniProxy/) - Simple web proxy written in PHP that can allow you to bypass Internet content filters, or to browse the internet anonymously. Only one php file. ([Source Code ★291](https://github.com/joshdick/miniProxy)) `GPLv3` `PHP`
   * [Oranjeproxy](http://lehollandaisvolant.net/tout/oranjeproxy/) - Anonymizing web proxy. ([Source Code ★23 ⏳1Y](https://github.com/AmauryCarrade/OranjeProxy)) `GPLv2` `PHP`
@@ -1154,7 +1154,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [Nimbus ★141](https://github.com/ethanal/nimbus) - A URL shortener and file sharer with a drag-and-drop OS X menu bar client and web interface. `MIT` `Python`
   * [Polr](https://project.polr.me/) - A modern, minimalist, modular, and lightweight URL shortener. ([Source Code ★1415](https://github.com/Cydrobolt/polr)) `GPLv2` `PHP`
   * [shuri ★4](https://github.com/pips-/shuri) - SHort URI - Lighweight URL shortener. `MIT` `PHP`
-  * [url-shortener ★72](https://github.com/cagataycali/url-shortener) `⚠` - Shitty url shortener, emoji and AI powered. `MIT` `Nodejs`
+  * [url-shortener ★75](https://github.com/cagataycali/url-shortener) `⚠` - Shitty url shortener, emoji and AI powered. `MIT` `Nodejs`
   * [YOURLS](http://yourls.org/) - YOURLS is a set of PHP scripts that will allow you to run Your Own URL Shortener. Features include password protection, URL customization, bookmarklets, statistics, API, plugins, jsonp. ([Source Code ★3128](https://github.com/YOURLS/YOURLS)) `MIT` `PHP`
 
 

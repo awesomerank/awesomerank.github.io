@@ -60,6 +60,7 @@ title: Awesome Rank for avajs/awesome-ava
 - [ava-preact-init ★9](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
 - [ava-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/ava-check) - Generative property testing with [`TestCheck.js` ★574](https://github.com/leebyron/testcheck-js).
 - [ava-fixture ★1](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA.
+- [ava-playback ★48](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests.
 
 
 ## Works with AVA

@@ -270,7 +270,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slacklink ★20](https://github.com/robjmills/slacklink) - Post links to Slack from Chrome
 - [slackr-bot ★13](https://github.com/tal/slackr-bot) - A node module for making bots that use the Slack RTM API
 - [slacktappd ★13](https://github.com/nicksergeant/slacktappd) - A tiny little app to post Untappd checkins to Slack
-- [slacktocracy ★5 ⏳1Y](https://github.com/nicksergeant/slacktocracy) - A tiny little app to post Fitocracy workouts to Slack
+- [slacktocracy ★5 ⏳2Y](https://github.com/nicksergeant/slacktocracy) - A tiny little app to post Fitocracy workouts to Slack
 - [SlackToggle ★0 ⏳2Y](https://github.com/keirua/SlackToggle) - Chrome extension to collapse/expand a Slack discussion section
 - [slackus ★18](https://github.com/jonathanwiesel/slackus) - New Disqus comment notifier for Slack
 - [SlackVote ★40 ⏳2Y](https://github.com/azharb/SlackVote) - Slack integration that allows team members to vote

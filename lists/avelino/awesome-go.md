@@ -392,7 +392,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Packages that help with building Distributed Systems.*
 
 * [celeriac ★23](https://github.com/svcavallar/celeriac.v1) - A library for adding support for interacting and monitoring Celery workers, tasks and events in Go
-* [drmaa ★16](https://github.com/dgruber/drmaa) - Job submission library for cluster schedulers based on the DRMAA standard.
+* [drmaa ★17](https://github.com/dgruber/drmaa) - Job submission library for cluster schedulers based on the DRMAA standard.
 * [flowgraph ★31](https://github.com/vectaport/flowgraph) - MPI-style ready-send coordination layer.
 * [gleam ★697](https://github.com/chrislusf/gleam) - Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luajit's high performance, runs standalone or distributed.
 * [glow ★1608](https://github.com/chrislusf/glow) - Easy-to-Use scalable distributed big data processing, Map-Reduce, DAG execution, all in pure Go.
@@ -544,7 +544,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [goqt ★1254](https://github.com/visualfc/goqt) - Golang bindings to the Qt cross-platform application framework.
 * [gosx-notifier ★364](https://github.com/deckarep/gosx-notifier) - OSX Desktop Notifications library for Go.
 * [gotk3 ★231](https://github.com/gotk3/gotk3) - Go bindings for GTK3.
-* [gowd ★5](https://github.com/dtylman/gowd) - Rapid and simple desktop UI development with GO, HTML, CSS and NW.js.
+* [gowd ★8](https://github.com/dtylman/gowd) - Rapid and simple desktop UI development with GO, HTML, CSS and NW.js.
 * [qt ★2491](https://github.com/therecipe/qt) - Qt binding for Go (support for Windows / macOS / Linux / Android / iOS / Sailfish OS / Raspberry Pi)
 * [robotgo ★1712](https://github.com/go-vgo/robotgo) - Go Native cross-platform GUI system automation;Control the mouse, keyboard and other.
 * [systray ★183](https://github.com/getlantern/systray) - Cross platform Go library to place an icon and menu in the notification area
@@ -895,7 +895,7 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [gonum/mat64 ★458](https://github.com/gonum/matrix) - The general purpose package for matrix computation. Package mat64 provides basic linear algebra operations for float64 matrices.
 * [gonum/plot ★480](https://github.com/gonum/plot) - gonum/plot provides an API for building and drawing plots in Go.
 * [goraph ★358](https://github.com/gyuho/goraph) - A pure Go graph theory library(data structure, algorith visualization)
-* [gostat ★16 ⏳1Y](https://github.com/ematvey/gostat) - A statistics library for the go language
+* [gostat ★16 ⏳2Y](https://github.com/ematvey/gostat) - A statistics library for the go language
 * [graph ★6](https://github.com/yourbasic/graph) - A library of basic graph algorithms
 * [ode ★1](https://github.com/ChristopherRabotin/ode) - An ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions.
 * [pagerank ★27 ⏳1Y](https://github.com/alixaxel/pagerank) - Weighted PageRank algorithm implemented in Go
@@ -1078,7 +1078,7 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [geo-golang ★179](https://github.com/codingsince1985/geo-golang) - Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](http://open.mapquestapi.com/geocoding/), [Nominatim](http://open.mapquestapi.com/nominatim/), [OpenCage](http://geocoder.opencagedata.com/api.html), [HERE](https://developer.here.com/rest-apis/documentation/geocoder), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/), and [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) geocoding / reverse geocoding APIs.
 * [ghost ★18 ⏳1Y](https://github.com/neuegram/ghost) - Go Library for accessing the Snapchat API.
 * [github ★2627](https://github.com/google/go-github) - Go library for accessing the GitHub REST API v3.
-* [githubql ★86](https://github.com/shurcooL/githubql) - Go library for accessing the GitHub GraphQL API v4.
+* [githubql ★87](https://github.com/shurcooL/githubql) - Go library for accessing the GitHub GraphQL API v4.
 * [go-imgur ★4 ⏳1Y](https://github.com/koffeinsource/go-imgur) - Go client library for [imgur](https://imgur.com)
 * [go-jira ★144](https://github.com/andygrunwald/go-jira) - Go client library for [Atlassian JIRA](https://www.atlassian.com/software/jira)
 * [go-marathon ★138](https://github.com/gambol99/go-marathon) - A Go library for interacting with Mesosphere's Marathon PAAS.
@@ -1226,10 +1226,10 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [Storm ★528](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB.
 * [Task ★219](https://github.com/go-task/task) - simple "Make" alternative
 * [toolbox ★16](https://github.com/viant/toolbox) - Slice, map, multimap, struct, function, data conversion utilities. Service router, macro evaluator, tokenizer.
-* [ugo ★11](https://github.com/alxrm/ugo) - ugo is slice toolbox with concise syntax for Go.
+* [ugo ★11 ⏳1Y](https://github.com/alxrm/ugo) - ugo is slice toolbox with concise syntax for Go.
 * [UNIS ★57](https://github.com/esemplastic/unis) - A Common Architecture™ for String Utilities in Go.
 * [usql ★1974](https://github.com/knq/usql) - usql is a universal command-line interface for SQL databases.
-* [util ★7](https://github.com/shomali11/util) - A collection of useful utility functions. (strings, concurrency, manipulations, ...)
+* [util ★13](https://github.com/shomali11/util) - A collection of useful utility functions. (strings, concurrency, manipulations, ...)
 * [wuzz ★6246](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection.
 * [xferspdy ★33](https://github.com/monmohan/xferspdy) - Xferspdy provides binary diff and patch library in golang
 * [xlsx ★1674](https://github.com/tealeg/xlsx) - Library to simplify reading the XML format used by recent version of Microsoft Excel in Go programs.
@@ -1348,8 +1348,8 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [fasthttprouter ★309](https://github.com/buaazp/fasthttprouter) - A high performance router forked from `httprouter`. The first router fit for `fasthttp`.
 * [gocraft/web ★1211](https://github.com/gocraft/web) - A mux and middleware package in Go.
 * [Goji ★459](https://github.com/goji/goji) - Goji is a minimalistic and flexible HTTP request multiplexer with support for `net/context`.
-* [GoRouter ★14](https://github.com/vardius/gorouter) - GoRouter is a Server/API micro framwework, HTTP request router, multiplexer, mux that provides request router with middleware supporting `net/context`.
-* [gowww/router ★77](https://github.com/gowww/router) - A lightning fast HTTP router fully compatible with the net/http.Handler interface.
+* [GoRouter ★15](https://github.com/vardius/gorouter) - GoRouter is a Server/API micro framwework, HTTP request router, multiplexer, mux that provides request router with middleware supporting `net/context`.
+* [gowww/router ★112](https://github.com/gowww/router) - A lightning fast HTTP router fully compatible with the net/http.Handler interface.
 * [httprouter ★4996](https://github.com/julienschmidt/httprouter) - A high performance router. Use this and the standard http handlers to form a very high performance web framework.
 * [httptreemux ★231](https://github.com/dimfeld/httptreemux) - High-speed, flexible tree-based HTTP router for Go. Inspiration from httprouter.
 * [lars ★321](https://github.com/go-playground/lars) - Is a lightweight, fast and extensible zero allocation HTTP router for Go used to create customizable frameworks.
@@ -1375,7 +1375,7 @@ See [go-hardware ★499 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [gcvis ★697 ⏳1Y](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 * [Go Metalinter ★1634](https://github.com/alecthomas/gometalinter) - Metalinter is a tool to automatically apply all static analysis tool and report their output in normalized form.
 * [go-checkstyle ★35](https://github.com/qiniu/checkstyle) checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style refered to some points in Go Code Review Comments.
-* [go-cleanarch ★150](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
+* [go-cleanarch ★153](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
 * [go-outdated ★32 ⏳1Y](https://github.com/firstrow/go-outdated) - Console application that displays outdated packages.
 * [goast-viewer ★168](https://github.com/yuroyoro/goast-viewer) - Web based Golang AST visualizer.
 * [GoCover.io](http://gocover.io/) - GoCover.io offers the code coverage of any golang package as a service.

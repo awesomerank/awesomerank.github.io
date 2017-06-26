@@ -301,7 +301,7 @@ provide new storage backends.*
 * [pyramid_celery ★84](https://github.com/sontek/pyramid_celery) - Pyramid
   configuration with celery integration. Allows you to use pyramid .ini files
   to configure celery and have your pyramid configuration inside celery tasks.
-* [pyramid_rq ★9](https://github.com/wichert/pyramid_rq) - Support using the rq
+* [pyramid_rq ★9 ⏳1Y](https://github.com/wichert/pyramid_rq) - Support using the rq
   queueing system with pyramid. The easiest way to monitor and use
   [RQ](http://python-rq.org) in your Pyramid projects.
 

@@ -49,6 +49,7 @@ title: Awesome Rank for johnjago/awesome-free-software
   - [Licensing](#licensing)
   - [Organizations](#organizations)
   - [Talks](#talks)
+- [License](#license)
 
 ## Applications
 > Download and use.
@@ -68,9 +69,11 @@ title: Awesome Rank for johnjago/awesome-free-software
 
 ### Communication
 
+- [Jitsi Meet](https://jitsi.org/jitsi-meet/) - Secure video conferencing and desktop sharing using WebRTC. ([Apache License 2.0](https://github.com/jitsi/jitsi-meet/blob/master/LICENSE))
 - [Mail-in-a-Box](https://mailinabox.email/) - Easy-to-deploy mail server package for cloud computers. ([CC0](https://github.com/mail-in-a-box/mailinabox/blob/master/LICENSE))
 - [Mattermost](https://about.mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
 - [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
+- [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
 - [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
 
 ### File Management
@@ -241,6 +244,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [FSFE](https://fsfe.org/) - European sister site for the FSF.
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
 - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
+- [Jitsi](https://jitsi.org/) - Community for the development of open source video conferencing software.
 - [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
   

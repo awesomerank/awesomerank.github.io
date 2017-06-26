@@ -164,9 +164,9 @@ Main Resources
 
 *Official resources from the Kubernetes team*
 
-* [Kubernetes Documentation](http://kubernetes.io/docs/)
+* [Kubernetes Documentation](https://kubernetes.io/docs/home/)
 * [Kubernetes Source ★23545](https://github.com/kubernetes/kubernetes)
-* [Kubernetes Troubleshooting](http://kubernetes.io/docs/troubleshooting/)
+* [Kubernetes Troubleshooting](https://kubernetes.io/docs/tasks/debug-application-cluster/troubleshooting/)
 
 
 Useful Articles
@@ -439,7 +439,7 @@ Related Projects
 * [Vault controller ★299](https://github.com/kelseyhightower/vault-controller)
 * [kube-lego ★789](https://github.com/jetstack/kube-lego)
 * [k8sec ★51](https://github.com/dtan4/k8sec)
-* [kubernetes-vault ★247](https://github.com/Boostport/kubernetes-vault)
+* [kubernetes-vault ★254](https://github.com/Boostport/kubernetes-vault)
     
 ## Desktop applications
 
@@ -657,7 +657,7 @@ Connecting with Kubernetes
 * [Stackoverflow](http://stackoverflow.com/questions/tagged/kubernetes)
 * [Slack](http://slack.k8s.io/)
 * [Mailing List](https://groups.google.com/forum/#!forum/google-containers)
-* [Newsletter](https://kismatic.com/community/introducing-kubernetes-weekly-news/) by [Kismatic](https://kismatic.com/)
+* [Newsletter](http://kube.news/)
 * [Reddit](https://www.reddit.com/r/kubernetes/)
 * [Community ★470](https://github.com/kubernetes/community)
 

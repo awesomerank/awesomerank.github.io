@@ -86,7 +86,7 @@ title: Awesome Rank for podo/awesome-framer
 * [iOS Toggle](http://share.framerjs.com/mraze47eux9w/) - iOS Toggle using Color class by [Jorn van Dijk](https://twitter.com/jornvandijk).
 
 ## Modules
-* [framer-googlefonts ★50 ⏳1Y](https://github.com/peteschaffner/framer-googlefonts) - Google Fonts loader module for your Framer prototypes.
+* [framer-googlefonts ★50 ⏳2Y](https://github.com/peteschaffner/framer-googlefonts) - Google Fonts loader module for your Framer prototypes.
 * [tabBarModule ★84 ⏳1Y](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar.
 * [framer-animation-collections ★50 ⏳1Y](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations.
 * [framer.iosnotification ★21 ⏳2Y](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification.
@@ -106,7 +106,7 @@ title: Awesome Rank for podo/awesome-framer
 * [ios-keyboard-for-framer](https://github.com/supsupmo/ios-keyboard-for-framer) - iOS Keyboard module for Framer.
 * [textLayer-for-Framer ★249](https://github.com/awt2542/textLayer-for-Framer) - Framer module that simplifies the process of adding text to your prototypes.
 * [Kinetics ★30 ⏳1Y](https://github.com/joshmtucker/Kinetics) - Test spring animations on any layer in your Framer Studio project without having to reload.
-* [framer-flip-card-module ★87](https://github.com/aboutjax/framer-flip-card-module) - Framer module to quickly create a flip card effect with two image layers.
+* [framer-flip-card-module ★87 ⏳1Y](https://github.com/aboutjax/framer-flip-card-module) - Framer module to quickly create a flip card effect with two image layers.
 * [Input-Framer ★227](https://github.com/ajimix/Input-Framer) - Framer module to easily turn your designs inputs into real inputs.
 * [StickyHeaders-for-Framer ★77](https://github.com/72/StickyHeaders-for-Framer) - Module to create scroll components with sticky stamps in Framer.
 * [OrientationEvents ★87](https://github.com/joshmtucker/OrientationEvents) - Module for Framer to handle device orientation events.

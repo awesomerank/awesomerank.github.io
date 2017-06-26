@@ -434,7 +434,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cesso ★19 ⏳3Y](https://github.com/meh/cesso) - CSV handling library for Elixir.
 * [csv ★199](https://github.com/beatrichartz/csv) - CSV Decoding and Encoding for Elixir.
 * [csvlixir ★24](https://github.com/jimm/csvlixir) - A CSV reading/writing application for Elixir.
-* [ex_csv ★32](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
+* [ex_csv ★32 ⏳1Y](https://github.com/CargoSense/ex_csv) - CSV for Elixir.
 * [nimble_csv ★180](https://github.com/plataformatec/nimble_csv) - A simple and fast CSV parsing and dumping library for Elixir.
 
 ## Date and Time
@@ -442,7 +442,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [block_timer ★7 ⏳2Y](https://github.com/adamkittelson/block_timer) - Macros to use :timer.apply_after and :timer.apply_interval with a block.
 * [calendar ★258](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
-* [chronos ★82](https://github.com/nurugger07/chronos) - An Elixir date/time library.
+* [chronos ★82 ⏳1Y](https://github.com/nurugger07/chronos) - An Elixir date/time library.
 * [cronex ★14](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
 * [crontab ★9](https://github.com/jshmrtn/crontab) - A Cron Expressions Parser, Composer & Date Candidate Finder.
 * [ex_ical ★15](https://github.com/fazibear/ex_ical) - ICalendar parser.

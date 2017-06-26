@@ -248,7 +248,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [DL4CLJ ★52](https://github.com/engagor/dl4clj) - Clojure wrapper for Deeplearning4j
 * [Encog ★136 ⏳1Y](https://github.com/jimpil/enclog) - Clojure wrapper for Encog (v3) (Machine-Learning framework that specializes in neural-nets)
 * [Fungp ★85 ⏳3Y](https://github.com/vollmerm/fungp) - A genetic programming library for Clojure
-* [Statistiker ★50 ⏳1Y](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure.
+* [Statistiker ★50 ⏳2Y](https://github.com/clojurewerkz/statistiker) - Basic Machine Learning algorithms in Clojure.
 * [clortex ★159 ⏳1Y](https://github.com/htm-community/clortex) - General Machine Learning library using Numenta’s Cortical Learning Algorithm
 * [comportex ★121](https://github.com/htm-community/comportex) - Functionally composable Machine Learning library using Numenta’s Cortical Learning Algorithm
 * [cortex ★629](https://github.com/thinktopic/cortex) - Neural networks, regression and feature learning in Clojure.
@@ -968,7 +968,7 @@ be
 * [sentiment-analyzer ★37 ⏳5Y](https://github.com/madhusudancs/sentiment-analyzer) - Tweets Sentiment Analyzer
 * [sentiment_classifier ★100](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
 * [group-lasso ★14 ⏳4Y](https://github.com/fabianp/group_lasso) - Some experiments with the coordinate descent algorithm used in the (Sparse) Group Lasso model
-* [jProcessing ★60](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
+* [jProcessing ★60 ⏳1Y](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
 * [mne-python-notebooks ★6 ⏳1Y](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python
 * [Neon Course ★57](https://github.com/NervanaSystems/neon_course) - IPython notebooks for a complete course around understanding Nervana's Neon
 * [pandas cookbook ★2163](https://github.com/jvns/pandas-cookbook) - Recipes for using Python's pandas library

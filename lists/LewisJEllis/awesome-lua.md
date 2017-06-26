@@ -288,7 +288,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [luacheck ★473](https://github.com/mpeterv/luacheck) - Simple static analyzer which detects accidental globals and undefined or shadowed locals.
 - [Metalua ★246 ⏳3Y](https://github.com/fab13n/metalua) - Pure Lua parser and compiler, used for generating ASTs. A number of other tools make use of the Metalua parser in this way.
 - [LuaInspect ★136 ⏳1Y](https://github.com/davidm/lua-inspect) - Lua's most powerful code analysis and linting tool, built on Metalua. Used by ZeroBraneStudio, among others.
-- [LuaMinify ★117](https://github.com/stravant/LuaMinify) - Minifier which also brings its own static analysis tools, lexer, and parser.
+- [LuaMinify ★117 ⏳1Y](https://github.com/stravant/LuaMinify) - Minifier which also brings its own static analysis tools, lexer, and parser.
 - [Typed Lua ★307](https://github.com/andremm/typedlua) - A typed superset of Lua that compiles to plain Lua.
 
 

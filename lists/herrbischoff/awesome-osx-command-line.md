@@ -283,6 +283,15 @@ Other options: `get source`, `get text`.
 osascript -e 'tell application "Safari" to get URL of current tab of front window'
 ```
 
+#### Use Backspace/Delete to Go Back a Page
+```bash
+# Enable
+defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool YES
+
+# Disable
+defaults write com.apple.Safari com.apple.Safari.ContentPageGroupIdentifier.WebKit2BackspaceKeyNavigationEnabled -bool NO
+```
+
 ### Sketch
 
 #### Export Compact SVGs

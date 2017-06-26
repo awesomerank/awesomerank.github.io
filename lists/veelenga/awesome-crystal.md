@@ -183,7 +183,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [Crystal-Maze ★9](https://github.com/Demonstrandum/Crystal-Maze) - A* Path finding for PNG mazes
  * [crystal-patterns ★35](https://github.com/veelenga/crystal-patterns) - Examples of GOF patters
  * [crystal_samples ★25](https://github.com/tbpgr/crystal_samples) - Variety of Crystal samples
- * [crystalized_ruby ★98](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
+ * [crystalized_ruby ★98 ⏳1Y](https://github.com/phoffer/crystalized_ruby) - Native Ruby extensions written in Crystal
  * [docker-kemal ★7 ⏳1Y](https://github.com/ianblenke/docker-kemal) - An example Dockerized Crystal Kemal project
  * [kemal-chat ★26](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-heroku-example ★1](https://github.com/cagataycali/kemal-heroku-example) - This repository shows, how you can publish your open source apps which powered kemal framework publish as heroku app in seconds
@@ -207,7 +207,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kave ★15](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token ★11](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
  * [kemal-flash ★4](https://github.com/neovintage/kemal-flash) - Temporary storage between actions in Kemal
- * [kemal-monetdb ★0](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
+ * [kemal-monetdb ★0 ⏳1Y](https://github.com/puppetpies/kemal-monetdb) - MonetDB Data connection for Kemal
  * [kemal-redis ★7 ⏳1Y](https://github.com/sdogruyol/kemal-redis) - Easily add Redis to Kemal
  * [kemal-session ★17](https://github.com/kemalcr/kemal-session) - Session handler for Kemal
  * [kemalyst-i18n ★1](https://github.com/TechMagister/kemalyst-i18n) - i18n support for Kemalyst

@@ -18,32 +18,6 @@ This is a collection of static analysis tools and code quality checkers.
 # Table of Contents
 
 - [Programming Languages](#programming-languages)
-  - [Ada](#ada)
-  - [C/C++](#cc)
-  - [C#](#c)
-  - [Crystal](#crystal)
-  - [Elixir](#elixir)
-  - [Erlang](#erlang)
-  - [Go](#go)
-  - [Groovy](#groovy)
-  - [Haskell](#haskell)
-  - [Haxe](#haxe)
-  - [Java](#java)
-  - [JavaScript](#javascript)
-  - [Kotlin](#kotlin)
-  - [Lua](#lua)
-  - [MATLAB](#matlab)
-  - [Perl](#perl)
-  - [PHP](#php)
-  - [Python](#python)
-  - [R](#r)
-  - [Ruby](#ruby)
-  - [Rust](#rust)
-  - [Scala](#scala)
-  - [Shell](#shell)
-  - [SQL](#sql)
-  - [Swift](#swift)
-  - [TypeScript](#typescript)
 - [Multiple languages](#multiple-languages)
 - [Other](#other)
   - [Build tools](#build-tools)
@@ -80,11 +54,12 @@ This is a collection of static analysis tools and code quality checkers.
 * [CodeSonar from GrammaTech](https://www.grammatech.com/products/codesonar) :copyright: - Advanced, whole program, deep path, static analysis of C and C++ with easy-to-understand explanations and code and path visualization.
 * [Corrode ★1570](https://github.com/jameysharp/corrode) - Semi-automatic translation from C to Rust. Could reveal bugs in the original implementation by showing Rust compiler warnings and errors.
 * [cppcheck ★1264](https://github.com/danmar/cppcheck) - static analysis of C/C++ code
-* [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) - automated C++ cecker that follows Google's style guide
+* [cpplint](https://github.com/google/styleguide/tree/gh-pages/cpplint) - automated C++ checker that follows Google's style guide
 * [cqmetrics ★18](https://github.com/dspinellis/cqmetrics) - quality metrics for C code
 * [CScout](https://www.spinellis.gr/cscout/) - complexity and quality metrics for for C and C preprocessor code
 * [flawfinder](http://www.dwheeler.com/flawfinder/) - finds possible security weaknesses
 * [flint++](http://l2program.co.uk/category/flint) - cross-platform, zero-dependency port of flint, a lint program for C++ developed and used at Facebook.
+* [Frama-C](http://frama-c.com/) - a sound and extensible static analyzer for C code
 * [oclint](http://oclint.org/) - static analysis of C/C++ code
 * [Polyspace Bug Finder](https://www.mathworks.com/products/polyspace-bug-finder.html) :copyright: - identifies run-time errors, concurrency issues, security vulnerabilities, and other defects in C and C++ embedded software.
 * [Polyspace Code Prover](https://www.mathworks.com/products/polyspace-code-prover.html) :copyright: - provide code verification that proves the absence of overflow, divide-by-zero, out-of-bounds array access, and certain other run-time errors in C and C++ source code.
@@ -314,6 +289,7 @@ Wrappers:
 * [coala](https://coala.io/) - Language independent framework for creating code analysis - supports [over 60 languages](https://coala.io/languages) by default
 * [codeburner ★56](https://github.com/groupon/codeburner) - Provides a unified interface to sort and act on the issues it finds
 * [Coverity Save](http://www.coverity.com/products/coverity-save/) :copyright: - Static analysis for  C/C++, Java and C#
+* [graudit ★176](https://github.com/wireghoul/graudit) - Grep rough audit - source code auditing tool - C/C++, PHP, ASP, C#, Java, Perl, Python, Ruby
 * [Hound CI](https://houndci.com/) - Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift.
 * [imhotep ★197](https://github.com/justinabrahms/imhotep) - Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
 * [Infer ★6755](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C

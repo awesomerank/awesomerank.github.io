@@ -86,7 +86,7 @@ Helpful notes:
 
 Plugins:
 
-- [RSpec plugin ★115](https://github.com/SublimeText/RSpec)
+- [RSpec plugin ★115 ⏳1Y](https://github.com/SublimeText/RSpec)
 - [BeautifyRuby ★229](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
 - [Sublime Ruby Debugger ★428](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
 - [ProductiveSnippetsRuby ★113](https://github.com/janlelis/productive-sublime-snippets-ruby) — consistent set of alternative snippets, focusing on core and stdlib ([Cheatsheet](https://github.com/janlelis/productive-sublime-snippets-ruby/blob/master/CHEATSHEET.md))

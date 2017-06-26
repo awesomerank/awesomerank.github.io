@@ -107,7 +107,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Seth Alexander ★0 ⏳1Y](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
 - [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima ★3763](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
 - [Rob Thomas ★0 ⏳1Y](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at [Sangoma](https://www.sangoma.com).
-- [Amit Merchant ★1 ⏳1Y](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java.
+- [Amit Merchant ★1 ⏳2Y](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java.
 - [William Oliveira ★0 ⏳1Y](https://github.com/woliveiras/ama) - Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on [my blog](http://woliveiras.com.br).
 - [Unbug Lee ★0 ⏳1Y](https://github.com/unbug/ama) - Author of [MIHTool](http://www.mihtool.com) and [Codelf](http://unbug.github.io/codelf/).
 - [Tibor Simon ★0 ⏳1Y](https://github.com/tiborsimon/ama) - Electrical engineer, software geek, DSP, iOS, vimmer, guitarist, biker, runner, [tiborsimon.io](https://tiborsimon.io).
@@ -141,6 +141,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Rachel Andrew ★110](https://github.com/rachelandrew/cssgrid-ama) - CSS Grid Ask Me Anything. Rachel Andrew is a UK web developer, writer, public speaker and co-founder of Perch CMS.
 - [Ilya Bodrov ★0](https://github.com/bodrovis/ama) - Author, teacher, consulting developer. Fan of Ruby and Elixir.
 - [Matt Seemon ★0](https://github.com/mattseemon/ama) - Voice-over artist, karaoke jockey, amateur actor, IT enthusiast.
+- [Gaurav Mehla ★1](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor.
 
 #### Ask these organizations anything!
 
