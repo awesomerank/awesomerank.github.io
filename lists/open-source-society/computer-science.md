@@ -84,9 +84,11 @@ just remember that you can't purchase success!
 
 **How to contribute**. Please see [CONTRIBUTING](https://github.com/open-source-society/computer-science/blob/master/CONTRIBUTING.md).
 
+**Getting help**. Please check our [Frequently Asked Questions](https://github.com/open-source-society/computer-science/blob/master/FAQ.md), and if you cannot find the answer, file an issue or talk to our [friendly community](#community)!
+
 # Curriculum
 
-**Curriculum version**: `7.2.1` (see [CHANGELOG](https://github.com/open-source-society/computer-science/blob/master/CHANGELOG.md))
+**Curriculum version**: `7.2.2` (see [CHANGELOG](https://github.com/open-source-society/computer-science/blob/master/CHANGELOG.md))
 
 - [Prerequisites](#prerequisites)
 - [Introduction to Computer Science](#introduction-to-computer-science)
@@ -119,6 +121,7 @@ and is knowledgeable enough now to decide which electives to take.
 
 These courses will introduce you to the world of computer science.
 Both are required, but feel free to skip straight to the second course when CS50 (the first course) moves away from C.
+([Why?](FAQ.md#why-do-you-recommend-skipping-the-second-half-of-cs50))
 
 **Topics covered**:
 `imperative programming`
@@ -168,6 +171,7 @@ Courses | Duration | Effort | Prerequisites
 
 #### Readings
 - **Required** to learn about monads, laziness, purity: [Learn You a Haskell for a Great Good!](http://learnyouahaskell.com/)
+  - **OBS**: probably the best resource to learn Haskell: [Haskell Programming from First Principles](http://haskellbook.com/) `paid`
 - **Required**, to learn about logic programming, backtracking, unification: [Learn Prolog Now!](http://www.learnprolognow.org/)
 
 ### Core math
@@ -254,6 +258,9 @@ Courses | Duration | Effort | Prerequisites
 Parts 1 and 2 of Stanford Algorithms is available as [Algorithms: Design and Analysis](https://lagunita.stanford.edu/courses/course-v1:Engineering+Algorithms1+SelfPaced/about) through Stanford Lagunita.
 Unlike the Coursera version, quizzes and tests are auto-graded for free.
 If you are pursuing an optional certificate from Coursera, you will still need to complete parts 1 and 2 through Coursera.
+
+In spite of what it looks like, **these courses are free to access**.
+([How?](FAQ.md#are-coursera-courses-free-to-access))
 
 ### Core applications
 
@@ -362,8 +369,9 @@ Courses | Duration | Effort | Prerequisites
 [ops-class.org - Hack the Kernel](https://www.ops-class.org/) | 15 weeks | 6 hours/week | algorithms
 
 **<sup>1</sup> Note**:
-These courses assume knowledge of basic physics;
-if you are struggling, you can find a physics MOOC or utilize the materials from Khan Academy:
+These courses assume knowledge of basic physics.
+([Why?](FAQ.md#why-is-the-curriculum-missing-some-pre-requisites))
+If you are struggling, you can find a physics MOOC or utilize the materials from Khan Academy:
 [Khan Academy - Physics](https://www.khanacademy.org/science/physics)
 
 ### Advanced theory
@@ -431,9 +439,9 @@ In some cases, it may not be permitted;
 do **not** violate your course's Honor Code!
 
 Put the OSSU-CS badge in the README of your repository!
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22060](https://github.com/open-source-society/computer-science)
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22651](https://github.com/open-source-society/computer-science)
 
-- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22060](https://github.com/open-source-society/computer-science)`
+- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22651](https://github.com/open-source-society/computer-science)`
 - HTML: `<a href="https://github.com/open-source-society/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
 
 ### Evaluation
@@ -485,9 +493,10 @@ These aren't the only specializations you can choose. Check the following websit
 - Look for a job as a developer!
 - Check out the [readings](https://github.com/open-source-society/computer-science/blob/master/extras/readings.md) for classic books you can read that will sharpen your skills and expand your knowledge.
 - Join a local developer meetup (e.g. via [meetup.com](https://www.meetup.com/)).
-- Pay attention to emerging technologies in the world of software development, such as:
-  - [Elixir](http://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
-  - [Rust](https://www.rust-lang.org/), a systems language which uses borrowing and lifetimes to achieve memory safety without a garbage collector!
+- Pay attention to emerging technologies in the world of software development:
+  + Explore the **actor model** through [Elixir](http://elixir-lang.org/), a new functional programming language for the web based on the battle-tested Erlang Virtual Machine!
+  + Explore **borrowing and lifetimes** through [Rust](https://www.rust-lang.org/), a systems language which achieves memory- and thread-safety without a garbage collector!
+  + Explore **dependent type systems** through [Idris](https://www.idris-lang.org/), a new Haskell-inspired language with unprecedented support for type-driven development
 
 ![keep learning](http://i.imgur.com/REQK0VU.jpg)
 

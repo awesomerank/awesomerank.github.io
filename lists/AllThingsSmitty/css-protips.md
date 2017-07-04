@@ -11,11 +11,11 @@ title: Awesome Rank for AllThingsSmitty/css-protips
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon">
 </p>
 
-# CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 A collection of tips to help take your CSS skills pro.
 
-> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★59088](https://github.com/sindresorhus/awesome).
+> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★60916](https://github.com/sindresorhus/awesome).
 
 
 ## Table of Contents
@@ -164,7 +164,7 @@ body {
 
 Want to center something else? Vertically, horizontally...anything, anytime, anywhere? CSS-Tricks has [a nice write-up](https://css-tricks.com/centering-css-complete-guide/) on doing all of that.
 
-**Note:** Watch for some [buggy behavior ★6954](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
+**Note:** Watch for some [buggy behavior ★7347](https://github.com/philipwalton/flexbugs#3-min-height-on-a-flex-container-wont-apply-to-its-flex-items) with flexbox in IE11.
 
 #### [Demo](http://codepen.io/AllThingsSmitty/pen/GqmGqZ)
 
@@ -525,6 +525,8 @@ textarea {
 
 Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 
+<sup>[back to table of contents](#table-of-contents)</sup>
+
 
 ## Translations
 
@@ -535,6 +537,8 @@ Current versions of Chrome, Firefox, Safari, Opera, Edge, and IE11.
 * [Português do Brasil](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/pt-BR)
 * [Русский](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/ru-RU)
 * [简体中文](https://github.com/AllThingsSmitty/css-protips/tree/master/translations/zh-CN)
+
+<sup>[back to table of contents](#table-of-contents)</sup>
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/AllThingsSmitty/css-protips">AllThingsSmitty/css-protips</a> with ranks

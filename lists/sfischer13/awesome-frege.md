@@ -7,13 +7,13 @@ title: Awesome Rank for sfischer13/awesome-frege
 	This list is a copy of <a href="https://github.com/sfischer13/awesome-frege">sfischer13/awesome-frege</a> with ranks
 </p>
 ---
-# Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege"> ★2771](https://github.com/Frege/frege)
+[<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege"> ★2806](https://github.com/Frege/frege)
 
 > Useful resources for the [Frege](https://en.wikipedia.org/wiki/Frege_(programming_language)) programming language
 
-You might also like [awesome-haskell ★1088](https://github.com/krispo/awesome-haskell).
+You might also like [awesome-haskell ★1131](https://github.com/krispo/awesome-haskell).
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-frege/blob/master/contributing.md) before contributing.*
 
@@ -65,7 +65,7 @@ You might also like [awesome-haskell ★1088](https://github.com/krispo/awesome-
 
 ### Overview
 
-- [Frege ★2771](https://github.com/Frege/frege) - Official website.
+- [Frege ★2806](https://github.com/Frege/frege) - Official website.
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps
@@ -127,7 +127,7 @@ You might also like [awesome-haskell ★1088](https://github.com/krispo/awesome-
 
 - [Frege Goodness](https://www.gitbook.com/book/dierk/fregegoodness/details) - Book by Dierk König.
 - [Frege Quick Reference](https://www.gitbook.com/book/ingo60/frege-quick-reference/details) - Book by Ingo Wechsung.
-- [Learn You a Frege for Great Good! ★43 ⏳1Y](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!.
+- [Learn You a Frege for Great Good! ★45 ⏳1Y](https://github.com/y-taka-23/learn-you-a-frege) - Frege adaptation of Learn You a Haskell for Great Good!.
 - [Frege Wiki](https://github.com/Frege/frege/wiki/Books) - List of more books on the Frege wiki.
 
 ### Conferences
@@ -217,7 +217,7 @@ You might also like [awesome-haskell ★1088](https://github.com/krispo/awesome-
 
 ### REPLs
 
-- [Console REPL ★62](https://github.com/Frege/frege-repl) - REPL on the console.
+- [Console REPL ★64](https://github.com/Frege/frege-repl) - REPL on the console.
 - [GUI REPL ★21](https://github.com/Dierk/frepl-gui) - GUI based REPL.
 - [Web REPL](http://try.frege-lang.org/) - Web based REPL.
 

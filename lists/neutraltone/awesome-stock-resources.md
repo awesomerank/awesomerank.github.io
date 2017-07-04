@@ -7,7 +7,7 @@ title: Awesome Rank for neutraltone/awesome-stock-resources
 	This list is a copy of <a href="https://github.com/neutraltone/awesome-stock-resources">neutraltone/awesome-stock-resources</a> with ranks
 </p>
 ---
-# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
+# Awesome Stock Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/neutraltone/awesome-stock-resources.svg?branch=master)](https://travis-ci.org/neutraltone/awesome-stock-resources) [![Support](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/tonyphipps)
 
 ![Introductory images](https://github.com/neutraltone/awesome-stock-resources/blob/master//img/splash.jpg)
 
@@ -207,7 +207,7 @@ A mixture of CSS and image based pattern resources.
 A mixture of free and open source font resources.
 
 * [Beautiful Web Type](http://hellohappy.org/beautiful-web-type/) - A showcase of the best typefaces from the Google web fonts directory.
-* [Brick ★2849](https://github.com/alfredxing/brick) - Webfonts that actually look good.
+* [Brick ★2846](https://github.com/alfredxing/brick) - Webfonts that actually look good.
 * [Font Fabric](http://www.fontfabric.com/category/free/) - Font Fabric's free fonts.
 * [Font Squirrel](https://www.fontsquirrel.com) - Handpicked fonts free for commercial use.
 * [Google Fonts](https://fonts.google.com/) - Interactive directory of free hosted application programming interfaces for web fonts.
@@ -223,7 +223,7 @@ A mixture of free and open source font resources.
 A collection for icon font resources, most of which also include SVGs, which can be used in your interface and website designs.
 
 * [Appa Sariicon](http://code.sariina.com/appa-sariicon/) [:copyright:](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL) 147 8-bit retro style webfont icons for web and mobile
-* [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css ★4046 ⏳1Y](https://github.com/csswizardry/inuit.css).
+* [Batch Icons](http://adamwhitcroft.com/batch/) - [:copyright:](https://github.com/AdamWhitcroft/Batch/blob/master/License.txt) Icon set of 300+ icons, which is part of [inuit.css ★4034 ⏳1Y](https://github.com/csswizardry/inuit.css).
 * [Devicons](http://vorillaz.github.io/devicons/#/main) - [:copyright:](https://choosealicense.com/licenses/mit/) Meet Devicons, an iconic font made for developers, code jedis, ninjas, HTTPsters, evangelists and nerds(sic). 100+ icons ready to use in your next project.   
 * [Iconfinder](https://www.iconfinder.com/) - Iconfinder provides beautiful icons to millions of designers and developers. Most icons are available under attribution. See individual licenses for more details.
 * [Font Awesome](http://fontawesome.io/) - [:copyright:](http://choosealicense.com/licenses/mit/) MIT licensed icon font.
@@ -238,7 +238,7 @@ A collection for icon font resources, most of which also include SVGs, which can
 * [Octicons](https://octicons.github.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) GitHub's Icons.
 * [Open Iconic](https://useiconic.com/open) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Icon set with 223 marks in SVG.
 * [Social Stackicons](http://stackicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Icon set with over 60 social brands.
-* [Topcoat Icons ★254 ⏳3Y](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
+* [Topcoat Icons ★252 ⏳3Y](https://github.com/topcoat/icons) - [:copyright:](http://www.apache.org/licenses/LICENSE-2.0) Icons by [Topcoat](http://topcoat.io/).
 * [Typicons](http://typicons.com/) - [:copyright: (font)](http://scripts.sil.org/cms/scripts/page.php?item_id=OFL_web) [:copyright: (icons)](https://creativecommons.org/licenses/by-sa/3.0/) Rounded icon set with 336 icons.
 * [Weather Icons](https://erikflowers.github.io/weather-icons/) - Weather Icons is the only icon font and CSS with 222 weather themed icons.
 * [WeLoveIconFonts](http://weloveiconfonts.com) – A free & open source icon fonts hosting service (like Google Web Fonts, but icon fonts only).
@@ -250,9 +250,9 @@ A collection for SVG icon resources which can be used in your interface and webs
 * [Entypo](http://www.entypo.com/) - [:copyright:](http://creativecommons.org/licenses/by-sa/3.0/) Carefully crafted iconset by [Daniel Bruce](http://www.danielbruce.se/).
 * [Geomicons Icons](http://geomicons.com/) - [:copyright:](http://choosealicense.com/licenses/mit/) Most basic icon set.
 * [Iconmonstr](http://iconmonstr.com) - [:copyright:](http://iconmonstr.com/license/) A huge selection of icons in SVG and PNG format.
-* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright: ★1790](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
+* [Maps Icon](https://github.com/djaiss/mapsicon) - [:copyright: ★1800](https://github.com/djaiss/mapsicon#license) Mapsicon is a free collection of maps for nearly every country in the world, available in 11 different sizes, ranging from 16x16 pixels to 1024x1024 pixels, as well as .svg format.
 * [Material Design Icons](https://www.materialui.co/icons) - A collections of free, material design style icons.
-* [Simple Icons ★5109](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
+* [Simple Icons ★5227](https://github.com/danleech/simple-icons) - [:copyright:](http://artlibre.org/licence/lal/en/) SVG icons for popular brands.
 * [The Noun Project](https://thenounproject.com/) - [:copyright:](https://thenounproject.com/accounts/pricing/) Over 150,000 icons designed by creators from around the world. Free users must give credit to the creator.
 
 ## Colors

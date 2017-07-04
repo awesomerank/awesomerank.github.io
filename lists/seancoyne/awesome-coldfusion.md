@@ -7,9 +7,9 @@ title: Awesome Rank for seancoyne/awesome-coldfusion
 	This list is a copy of <a href="https://github.com/seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks
 </p>
 ---
-# Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript ★9057](https://github.com/sorrycc/awesome-javascript).
+A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript ★9648](https://github.com/sorrycc/awesome-javascript).
 
 Pull requests very welcome.
 
@@ -40,7 +40,7 @@ Pull requests very welcome.
 * [cfwheels ★173](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails.
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
-* [FW/1 - Framework One ★352](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework
+* [FW/1 - Framework One ★354](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework
 * [ModelGlue](http://model-glue.com) - a CFML based, full stack, front controller based on MVC. Features include Scaffolding, ORM integration, and many others
 
 ## Testing
@@ -60,7 +60,7 @@ Pull requests very welcome.
 ## CMS
 
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
-* [ContentBox ★63](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
+* [ContentBox ★65](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS ★7](https://github.com/farcrycore/plugin-farcrycms)
 * [Mura ★231](https://github.com/blueriver/MuraCMS)
 * [Preside CMS ★33](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
@@ -82,8 +82,8 @@ Pull requests very welcome.
 
 * [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
 * [cfbackport ★26 ⏳2Y](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion.
-* [cfpayment ★73](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant.
-* [Hoth ★125](https://github.com/aarongreenlee/Hoth) - Exception Tracking
+* [cfpayment ★74](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant.
+* [Hoth ★126](https://github.com/aarongreenlee/Hoth) - Exception Tracking
 * [BugLogHQ ★135](https://github.com/oarevalo/BugLogHQ) - Exception Tracking
 * [iQuery ★11 ⏳2Y](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`.
 * [JavaLoader ★45](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.
@@ -100,12 +100,12 @@ Pull requests very welcome.
 * [cfbrackets](http://cfbrackets.org) - adds support for ColdFusion Markup Language (CFML) to [Brackets Code Editor](http://brackets.io/)
 * [CFEclipse](http://cfeclipse.org) - CFML Plugin for [Eclipse](http://www.eclipse.org/)
 * [CFML Language for Atom ★39](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
-* [CFML Package for Sublime Text 3 ★83](https://github.com/jcberquist/sublimetext-cfml) - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
+* [CFML Package for Sublime Text 3 ★86](https://github.com/jcberquist/sublimetext-cfml) - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
 * [TextMate ★11](https://github.com/textmate/coldfusion.tmbundle) - [TextMate](http://macromates.com) support for ColdFusion
 
 ## Tools
 
-* [CommandBox ★31](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more
+* [CommandBox ★34](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more
 * [Unofficial Updater](http://www.uu-2.info/) - A utility that helps install ColdFusion hotfixes
 
 ## References
@@ -114,7 +114,7 @@ Pull requests very welcome.
 * [CF411](http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (in over 150 categories) by Charlie Arehart
 * [CFLib](http://cflib.org/) - Common Function Library Project
 * [ColdFusion Koans ★59 ⏳1Y](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
-* [ColdFusion UI the Right Way ★85](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
+* [ColdFusion UI the Right Way ★84](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
 * [Learn CF in a Week](http://www.learncfinaweek.com) - community driven training program that teaches all the basics you need to be a ColdFusion Developer in one week.
 * [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
 
@@ -127,7 +127,7 @@ Pull requests very welcome.
 
 * [Adobe ColdFusion Documentation](https://helpx.adobe.com/coldfusion/home.html) - The Official Adobe ColdFusion docs
 * [CFDocs](http://cfdocs.org/) - UltraFast CFML Documentation Reference.
-* [CFML Tags to CFScript Reference ★10](https://github.com/cfchef/cfml-tag-to-script-conversions) -  CFML Tag to Script Conversions by Tony Junkes
+* [CFML Tags to CFScript Reference](https://github.com/cfchef/cfml-tag-to-script-conversions) -  CFML Tag to Script Conversions by Tony Junkes
 * [CFQuickDocs](http://cfquickdocs.com/) - ColdFusion documentation
 * [CFScript Reference](https://github.com/daccfml/cfscript/blob/master/cfscript.md) -  CFScript Documentation by Adam Cameron
 * [Lucee Wiki](https://bitbucket.org/lucee/lucee/wiki/Home) - Official Lucee Documentation

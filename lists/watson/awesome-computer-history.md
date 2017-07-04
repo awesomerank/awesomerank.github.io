@@ -7,9 +7,9 @@ title: Awesome Rank for watson/awesome-computer-history
 	This list is a copy of <a href="https://github.com/watson/awesome-computer-history">watson/awesome-computer-history</a> with ranks
 </p>
 ---
-# Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
+# Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
 
-A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing ★59088](https://github.com/sindresorhus/awesome).
+A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing ★60916](https://github.com/sindresorhus/awesome).
 
 [Pull Requests](https://github.com/watson/awesome-computer-history/edit/master/README.md) are welcome.
 
@@ -127,6 +127,7 @@ _Dramatized versions of real events_
 - [A Cypherpunk's Manifesto](https://w2.eff.org/Privacy/Crypto/Crypto_misc/cypherpunk.manifesto) (1993)
 - [The Story of Getting SSH Port 22](https://www.ssh.com/ssh/port) (1995)
 - [In the Beginning…Was the Command Line](http://www.cryptonomicon.com/beginning.html) (1999)
+- [The case of the 500-mile email](https://www.ibiblio.org/harris/500milemail.html) (2002)
 - [UTF-8 history](http://www.cl.cam.ac.uk/~mgk25/ucs/utf-8-history.txt) (2003)
 - [20 Years — One Standard: The Story of TCP/IP](http://www.cbi.umn.edu/iterations/spira.html) (2003)
 - [How Steve Wozniak Wrote BASIC for the Original Apple From Scratch](http://gizmodo.com/how-steve-wozniak-wrote-basic-for-the-original-apple-fr-1570573636) (2014)
@@ -138,6 +139,7 @@ _Dramatized versions of real events_
 
 ## Source Code
 
+- [C compiler](https://www.bell-labs.com/usr/dmr/www/primevalC.html) (1972) - The earliest known versions of Dennis Ritchie's first C compiler ([GitHub code mirror ★1826](https://github.com/mortdeus/legacy-cc))
 - [UNIX](https://github.com/dspinellis/unix-history-repo/tree/Research-Release) (1972) - Continuous Unix commit history from 1972 until today
 
 ## License

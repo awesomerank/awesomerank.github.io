@@ -7,7 +7,7 @@ title: Awesome Rank for bfred-it/Awesome-WebExtensions
 	This list is a copy of <a href="https://github.com/bfred-it/Awesome-WebExtensions">bfred-it/Awesome-WebExtensions</a> with ranks
 </p>
 ---
-# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
 
@@ -54,17 +54,17 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 
 Code meant become part of the extension.
 
-- [webext-options-sync ★12](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
+- [webext-options-sync ★13](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 - [webext-inject-on-install ★1](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
 - [chrome-promise ★58](https://github.com/tfoxy/chrome-promise) - Promised version of `chrome.*` callback-style functions.
-- [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★31252](https://github.com/reactjs/redux) for managing the state of your WebExtension
+- [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★32082](https://github.com/reactjs/redux) for managing the state of your WebExtension
 
 ## Tools
 
 Apps that help you manage your extensions.
 
 - [Chrome Webstore Upload ★38](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
-- [mozilla/Web-ext ★188](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
+- [mozilla/Web-ext ★190](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
 - [chromepet ★11 ⏳2Y](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 - [inline-install ★3](https://github.com/alykoshin/inline-install) - Simplify the installation of the extension directly from your website.
 - [wemf ★7](https://github.com/pastak/wemf) - Format and validate `manifest.json`.
@@ -77,15 +77,15 @@ Apps that help you manage your extensions.
 
 ## Testing
 
-- [sinon-chrome ★179](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
+- [sinon-chrome ★180](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 - [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines.
 
 ## Boilerplates
 
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
-- [generator-chrome-extension ★1633](https://github.com/yeoman/generator-chrome-extension) - Boilerplate based on gulp & babel.
-- [generator-chrome-extension-kickstart ★103](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
-- [react-chrome-extension-boilerplate ★630](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
+- [generator-chrome-extension ★1636](https://github.com/yeoman/generator-chrome-extension) - Boilerplate based on gulp & babel.
+- [generator-chrome-extension-kickstart ★104](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
+- [react-chrome-extension-boilerplate ★662](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
 
 ## Sample Extensions
 
@@ -93,8 +93,8 @@ These are simple and modern WebExtensions repositories that could help you figur
 
 - [npm-hub](https://github.com/zeke/npm-hub)
 - [Sticky Pinned Tabs ★2](https://github.com/bfred-it/sticky-pinned-tabs)
-- [Dim Files on GitHub ★2](https://github.com/bfred-it/dim-files-on-github)
-- [Refined GitHub ★1389](https://github.com/sindresorhus/refined-github)
+- [Dim Files on GitHub ★3](https://github.com/bfred-it/dim-files-on-github)
+- [Refined GitHub ★1735](https://github.com/sindresorhus/refined-github)
 
 ## License
 

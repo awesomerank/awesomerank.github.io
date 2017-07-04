@@ -10,7 +10,7 @@ title: Awesome Rank for RyanNielson/awesome-unity
 Awesome Unity
 =============
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources. Free assets and resources are prioritized over paid when possible.
 
@@ -46,9 +46,9 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [2D Rope System (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
 * [2D Toolkit (Paid)](https://www.assetstore.unity3d.com/en/#!/content/908) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
 * [Ferr2D Terrain Tool (Paid)](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
-* [Pixel Camera 2D ★193](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
+* [Pixel Camera 2D ★198](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 * [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
-* [UnityTiled ★41](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
+* [UnityTiled ★43](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
 
 ## AI
 
@@ -59,9 +59,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 
 ## Augmented & Virtual Reality
-* [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augumented Reality SDK that includes libraries, utilities, and examples.
+* [ARToolKit](http://artoolkit.org/documentation/doku.php?id=6_Unity:unity_about) - Augmented Reality SDK that includes libraries, utilities, and examples.
 * [Google VR SDK](https://developers.google.com/vr/unity) - Scripts and prefabs to help with the development of Google Daydream and Cardboard apps for Android and iOS.
 * [SteamVR Unity Toolkit](https://www.assetstore.unity3d.com/en/#!/content/64131) - Scripts and Great examples to abstract the use of VR controller actions in Unity.
+* [Vuforia](https://vuforia.com/) - Augmented Reality SDK with image and object recognition, smart terrain and extended tracking features.
 
 ## Camera
 
@@ -69,7 +70,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Character Controllers
 
-* [CharacterController2D ★458](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarily to Unity's CharacterController component.
+* [CharacterController2D ★471 ⏳1Y](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
 
 ## Frameworks
 
@@ -79,10 +80,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Input
 
-* [InControl ★522](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
-* [InputBinder ★22 ⏳2Y](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
-* [TouchKit ★458](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
-* [TouchScript ★800](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
+* [InControl ★531 ⏳1Y](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
+* [InputBinder ★26 ⏳2Y](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
+* [TouchKit ★467](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
+* [TouchScript ★831](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
 
 ## Modeling
 * [Prototype](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
@@ -92,6 +93,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Networking
 
+* [Nakama](https://www.assetstore.unity3d.com/en/#!/content/81338) - Build social and realtime games with an open-source [distributed server ★418](https://github.com/heroiclabs/nakama).
 * [Photon Bolt (Paid)](https://www.assetstore.unity3d.com/en/#!/content/41330) - Build networked games without having to know the details of networking or write any complex networking code.
 * [Photon Unity Networking](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 
@@ -124,12 +126,12 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Utilities
 
-* [Consolation ★79](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
+* [Consolation ★87](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 * [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
-* [UniRx ★1520](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
-* [UnityToolbag ★852](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+* [UniRx ★1606](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
+* [UnityToolbag ★878](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
 
 ## Visual Scripting
 

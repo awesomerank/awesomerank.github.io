@@ -7,7 +7,7 @@ title: Awesome Rank for KimberlyMunoz/empathy-in-engineering
 	This list is a copy of <a href="https://github.com/KimberlyMunoz/empathy-in-engineering">KimberlyMunoz/empathy-in-engineering</a> with ranks
 </p>
 ---
-# Empathy in Engineering [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Empathy in Engineering [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 > A curated list of resources for building and promoting more compassionate engineering cultures
 
@@ -60,7 +60,7 @@ Sometimes you need code samples to implement strategies above.
 - [JS Simulation of Dyslexia](http://geon.github.io/programming/2016/03/03/dsxyliea) - This is a simulation of what it is like to read a block of text with dyslexia.
 
 ### Bookmarklets
-- [JS Bookmarklet Simulating Colorblindness ★97 ⏳2Y](https://github.com/Altreus/colourblind) - This is a JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness.
+- [JS Bookmarklet Simulating Colorblindness ★99 ⏳2Y](https://github.com/Altreus/colourblind) - This is a JS bookmarklet that takes any page and simulates what is like to navigate with colorblindness.
 - [NoCoffee: JS Bookmarklet Simulating Low Vision Scenarios](https://accessgarage.wordpress.com/2013/02/09/458/) - This is a JS bookmarklet that takes any page and simulates in low vision scenarios.
 ---
 <p align="center">

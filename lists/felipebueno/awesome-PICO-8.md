@@ -7,7 +7,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 	This list is a copy of <a href="https://github.com/felipebueno/awesome-PICO-8">felipebueno/awesome-PICO-8</a> with ranks
 </p>
 ---
-# Awesome PICO-8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome PICO-8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 
 ![PICO-8](http://www.lexaloffle.com/gfx/p8_jelpi.gif)
@@ -63,7 +63,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 - [Music Tracker Tutorial Series](https://www.youtube.com/playlist?list=PLjZAika8vyZkyOjoCp0EbHeIFZ8MLlhvg) - Making audio with PICO-8.
 - [Tron Lightcycle game from scratch](https://youtu.be/ZuaLuMhwcc8) - A quick introduction to PICO-8 writing a game from scratch.
 - [A PICO-8 Spaceshooter in 16 GIFs](https://ztiromoritz.github.io/pico-8-shooter/) - Screencaptures of writing a Spaceshooter game step by step.  
-- [Token optimization ★22](https://github.com/seleb/PICO-8-Token-Optimizations) - tips&tricks for saving tokens. 
+- [Token optimization ★26](https://github.com/seleb/PICO-8-Token-Optimizations) - tips&tricks for saving tokens. 
 - [Tweetjam, BBS thread](http://www.lexaloffle.com/bbs/?tid=3726) - cards which code fits in a tweet (really useful to learn some fun techniques).
 - [Sample code on the BBS](http://www.lexaloffle.com/bbs/?search=sample+code) - the search is not 100% accurate, but some of those cards features some nice tricks you can re-use in your future code.
 
@@ -73,7 +73,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 - [pico2png ★12](https://github.com/briacp/pico2png) - Spritesheet extraction written in perl.
 - [Spritesheets and tools for the PICO-8 Palette](https://www.reddit.com/r/pico8/comments/3jhmni/spritesheets_and_tools_for_the_pico8_palette/) - Compilation of works assest and tools using the PICO-8 palette.
 - [Pico8Utils ★27 ⏳1Y](https://github.com/josefnpat/pico8utils) - Compilation of lua scripts based on the unix philosophy for working with .p8 files.
-- [picotool ★97](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
+- [picotool ★98](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 - [p8dl - Carts Downloader - Python ★4 ⏳1Y](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (https://github.com/felipebueno/awesome-PICO-8/blob/master/looks at your config.txt).
 - [Pico-8 Carts Downloader - Bash  ★3](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
 - [p8 responsive webplayer transform ★6](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
@@ -82,7 +82,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 - [pico-test ★10 ⏳1Y](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
 - [Lib-Pico8 ★49](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
 - [pico8-missing-builtins ★8 ⏳1Y](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
-- [P8Coder ★19](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
+- [P8Coder ★22](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
 ## Text Editors Language Support
 
@@ -93,7 +93,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 
 ### Programming Fonts
 
-You might be interested to install [pico-8 programming fonts ★3](https://github.com/juanitogan/p8-programming-fonts) they support the pico-8 custom characters as well as various fonts (bitmap and regular anti-aliased fonts). Check the [BBS thread here](http://www.lexaloffle.com/bbs/?tid=28975).
+You might be interested to install [pico-8 programming fonts ★5](https://github.com/juanitogan/p8-programming-fonts) they support the pico-8 custom characters as well as various fonts (bitmap and regular anti-aliased fonts). Check the [BBS thread here](http://www.lexaloffle.com/bbs/?tid=28975).
 
 How to install the font(s):
 
@@ -122,9 +122,9 @@ How to install the font(s):
 
 ## Clones
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX         
-- [PicoLove ★34](https://github.com/gamax92/picolove) - Pico-8 Reimplementation in LÖVE.
-- [LIKO-12 ★166](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
-- [PX8 ★533](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
+- [PicoLove ★35](https://github.com/gamax92/picolove) - Pico-8 Reimplementation in LÖVE.
+- [LIKO-12 ★179](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
+- [PX8 ★560](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
 ## I Want to Contribute!
 

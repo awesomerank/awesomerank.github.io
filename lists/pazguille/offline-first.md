@@ -7,7 +7,7 @@ title: Awesome Rank for pazguille/offline-first
 	This list is a copy of <a href="https://github.com/pazguille/offline-first">pazguille/offline-first</a> with ranks
 </p>
 ---
-# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
+# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
 
 > Useful resources for creating Offline-First web apps
 
@@ -15,7 +15,7 @@ title: Awesome Rank for pazguille/offline-first
 
 > via https://www.html5rocks.com/en/features/offline
 
-Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 - [W3C Specification](#w3c-specification)
@@ -48,6 +48,12 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 [The Offline First Reader](http://offlinefirst.us4.list-manage1.com/subscribe?u=12d36bbe9418ed6a43127cd62&id=7fc00bfaef). A monthly reader featuring all things Offline First, covering theory, technology and user experience for new offline use cases.
 
 ## Posts
+
+(Persistent Storage API: Building for the offline web)[https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161]
+(Dean Hume - Jun 26, 2017)
+
+(Offline POSTs in Progressive Web Apps)[https://medium.com/@nitish404/offline-post-in-progressive-web-apps-3d02f893b223]
+(Nitish Thakur - Jun 23, 2017)
 
 (Offline First Design Patterns : Engineering)[https://medium.com/offline-camp/offline-first-design-patterns-engineering-1c66821137d3]
 (Anirudha Bedre - Mar 28, 2017)
@@ -798,25 +804,25 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 
 ## Tools
 
-[offline-plugin ★1946](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
+[offline-plugin ★2099](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
 
-[Pinterest Service Workers ★781](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
+[Pinterest Service Workers ★806](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
 
 [Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
 
-[bottle-service ★284 ⏳1Y](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
+[bottle-service ★285 ⏳1Y](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
 
 [react-boilerplate](https://github.com/mxstbr/react-boilerplate): Quick setup for performance orientated, offline-first React.js applications.
 
 [Haywire ★19 ⏳2Y](https://github.com/omnia-salud/haywire): A minimal javascript library for network issues detection.
 
-[sw-toolbox ★2453](https://github.com/GoogleChrome/sw-toolbox): A collection of tools for service workers.
+[sw-toolbox ★2544](https://github.com/GoogleChrome/sw-toolbox): A collection of tools for service workers.
 
 [UpUp](https://www.talater.com/upup/): An Offline First library designed to be the easiest way to add offline capabilities to a site.
 
-[simple-serviceworker-tutorial ★268](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
+[simple-serviceworker-tutorial ★279](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
 
-[Hyperboot ★382 ⏳1Y](https://github.com/substack/hyperboot): Offline webapp bootloader.
+[Hyperboot ★383 ⏳1Y](https://github.com/substack/hyperboot): Offline webapp bootloader.
 
 [MakeDrive ★355 ⏳2Y](https://github.com/mozilla/makedrive): A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
 See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDrive) for background info.
@@ -827,7 +833,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
-[localForage ★9213](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+[localForage ★9454](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 [remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 
@@ -839,7 +845,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Offline States](http://offlinestat.es/): What show applications when we have not internet connection.
 
-[appCache Nanny ★199](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
+[appCache Nanny ★203](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
 
 [bro-fs ★6](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
 

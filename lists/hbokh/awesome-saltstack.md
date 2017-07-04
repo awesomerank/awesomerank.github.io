@@ -7,7 +7,7 @@ title: Awesome Rank for hbokh/awesome-saltstack
 	This list is a copy of <a href="https://github.com/hbokh/awesome-saltstack">hbokh/awesome-saltstack</a> with ranks
 </p>
 ---
-# Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 [<img src="https://yt3.ggpht.com/-u0bhYCAc9tQ/AAAAAAAAAAI/AAAAAAAAAAA/VzeLz4xM-AM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" align="right" width="100">](https://SaltStack.com)
 
@@ -38,7 +38,7 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 * [SaltStack site](https://saltstack.com/) - Company website.
-* [GitHub repo ★7730](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
+* [GitHub repo ★7816](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 * [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 * [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
@@ -75,7 +75,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Code
 
-* [zulily/alkali ★5 ⏳1Y](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
+* [zulily/alkali ★6 ⏳1Y](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
 * [zulily/buoyant ★4 ⏳1Y](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
 
 ## Books
@@ -99,8 +99,8 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tools
 
-* [SaltPad ★558](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
-* [SaltShaker ★93](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
+* [SaltPad ★571](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
+* [SaltShaker ★100](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
 * [SaltGUI ★29](https://github.com/oliverdunk/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 * [Pepperboard ★9](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 

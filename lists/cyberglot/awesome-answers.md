@@ -7,7 +7,7 @@ title: Awesome Rank for cyberglot/awesome-answers
 	This list is a copy of <a href="https://github.com/cyberglot/awesome-answers">cyberglot/awesome-answers</a> with ranks
 </p>
 ---
-Awesome Answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+Awesome Answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 ===
 
 Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.

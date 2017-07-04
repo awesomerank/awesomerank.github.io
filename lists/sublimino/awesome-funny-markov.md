@@ -7,13 +7,13 @@ title: Awesome Rank for sublimino/awesome-funny-markov
 	This list is a copy of <a href="https://github.com/sublimino/awesome-funny-markov">sublimino/awesome-funny-markov</a> with ranks
 </p>
 ---
-# Awesome Funny Markov Chains [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Funny Markov Chains [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 A facetiously curated list of delightfully amusing Markov chain output, inspired by [memorylessness](https://en.wikipedia.org/wiki/Memorylessness).
 
 If you want to [contribute](https://github.com/sublimino/awesome-funny-markov/blob/master/contributing.md) to this list (please do), send a pull request or contact me [@sublimino](https://twitter.com/sublimino). 
 
-Looking for more information on Markov Chains? Try [Awesome Machine Learning ★22923](https://github.com/josephmisiti/awesome-machine-learning).
+Looking for more information on Markov Chains? Try [Awesome Machine Learning ★23868](https://github.com/josephmisiti/awesome-machine-learning).
 
 
 ## Table of Contents

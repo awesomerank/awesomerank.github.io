@@ -7,13 +7,13 @@ title: Awesome Rank for vorpaljs/awesome-vorpal
 	This list is a copy of <a href="https://github.com/vorpaljs/awesome-vorpal">vorpaljs/awesome-vorpal</a> with ranks
 </p>
 ---
-# Awesome Vorpal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Vorpal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful [Vorpal ★3917](https://github.com/dthree/vorpal)-based projects and extensions.
+A curated list of delightful [Vorpal ★3967](https://github.com/dthree/vorpal)-based projects and extensions.
 
-[Vorpal is Node's first framework for building immersive CLI applications. ★3917](https://github.com/dthree/vorpal)
+[Vorpal is Node's first framework for building immersive CLI applications. ★3967](https://github.com/dthree/vorpal)
 
-Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -44,17 +44,17 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 
 *Awesome projects and applications built using Vorpal.*
 
-- [Cash ★7227](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
+- [Cash ★7251](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
-- [iTunes-remote ★252 ⏳1Y](https://github.com/mischah/itunes-remote) - Control iTunes on the CLI.
-- [phunt ★95](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
-- [trelew ★63 ⏳1Y](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
-- [wat ★353](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
+- [iTunes-remote ★258 ⏳1Y](https://github.com/mischah/itunes-remote) - Control iTunes on the CLI.
+- [phunt ★96](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
+- [trelew ★64 ⏳1Y](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
+- [wat ★362](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
 - [metronome ★5 ⏳1Y](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.
 - [fastack ★27 ⏳1Y](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy.
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
-- [quotr ★53 ⏳1Y](https://github.com/andrerpena/quotr) - View stock exchange quotes.
-- [Vantage ★3295](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
+- [quotr ★54 ⏳1Y](https://github.com/andrerpena/quotr) - View stock exchange quotes.
+- [Vantage ★3302](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
 - [birdknife ★20](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI.
 - [tv-remote-cli ★14 ⏳1Y](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV.
 - [launch ★26](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more
@@ -71,10 +71,10 @@ Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list
 
 #### Development tools
 
-- [repl ★12 ⏳1Y](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
-- [tour ★8 ⏳1Y](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
+- [repl ★13 ⏳1Y](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
+- [tour ★9 ⏳1Y](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [watch ★2 ⏳1Y](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
-- [log ★7 ⏳1Y](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
+- [log ★8 ⏳1Y](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 - [set-or-print ★3 ⏳1Y](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
 #### Realtime

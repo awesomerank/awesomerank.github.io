@@ -11,7 +11,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 
 [![Build Status](https://api.travis-ci.org/brunopulis/awesome-a11y.svg?branch=master)](https://travis-ci.org/brunopulis/awesome-a11y)
 [![Join the chat at https://gitter.im/brunopulis/awesome-a11y](https://badges.gitter.im/brunopulis/awesome-a11y.svg)](https://gitter.im/brunopulis/awesome-a11y?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 <img src="a11y.png" />
 
@@ -47,10 +47,10 @@ title: Awesome Rank for brunopulis/awesome-a11y
 
 * [Accessibility Guidelines](http://accessibility.voxmedia.com/)
 * [Acessibilidade for Devs - pt-br ★9](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io)
-* [Accessible Mega Menu ★453](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
+* [Accessible Mega Menu ★467](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
 * [a11yweekly](http://a11yweekly.com/)
 * [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
-* [BBC Accessibility Standards Checker ★87](https://github.com/bbc/bbc-a11y)
+* [BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y)
 * [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html)
 * [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
 * [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
@@ -73,7 +73,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 * [Advice for creating content that works well with screen readers](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers/)
 * [10 rules for efficient form design](http://babich.biz/10-rules-for-efficient-form-design/)
 * [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY)
-* [A11Y Dialog ★658](https://github.com/edenspiekermann/a11y-dialog)
+* [A11Y Dialog ★664](https://github.com/edenspiekermann/a11y-dialog)
 * [Automated Accessibility Checking with aXe](https://www.sitepoint.com/automated-accessibility-checking-with-axe/)
 * [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
@@ -112,12 +112,12 @@ title: Awesome Rank for brunopulis/awesome-a11y
 ## Development Testing and Validators
 
 * [508 Checker](http://www.508checker.com/)
-* [A11Y.css ★426](https://github.com/ffoodd/a11y.css)
+* [A11Y.css ★445](https://github.com/ffoodd/a11y.css)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
-* [a11y-checker ★13](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue. 
+* [a11y-checker ★15](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue. 
 * [Access Lint](http://accesslint.com/)
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
-* [Accessibility Developer Tools ★1277](https://github.com/GoogleChrome/accessibility-developer-tools)
+* [Accessibility Developer Tools ★1336](https://github.com/GoogleChrome/accessibility-developer-tools)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [aslint.org](https://www.aslint.org/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
@@ -131,7 +131,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 * [HTML5 Acessibility](http://www.html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 * [I want to see like the colour blind - Chrome Extension (Mac/Win)](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)
 * [pa11y](http://www.pa11y.org/)
-* [React A11y ★1226](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
+* [React A11y ★1285](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - A color blindness simulator for Mac and iOS
 * [Tenon.io](https://tenon.io/)
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
@@ -156,11 +156,11 @@ title: Awesome Rank for brunopulis/awesome-a11y
 
 ## Other Resources
 
-* [A11Y Style Guide ★157](https://github.com/cehfisher/a11y-style-guide)
+* [A11Y Style Guide ★171](https://github.com/cehfisher/a11y-style-guide)
 * [AIIY.js](http://allyjs.io/)
-* [A11yProject ★1492](https://github.com/a11yproject/a11yproject.com)
+* [A11yProject ★1546](https://github.com/a11yproject/a11yproject.com)
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
-* [Alix ★265](https://github.com/ireade/alix) - a browser extension for a11y.css
+* [Alix ★274](https://github.com/ireade/alix) - a browser extension for a11y.css
 * [Accessibility section - jQuery Plugins using ARIA](http://a11y.nicolas-hoffmann.net/) - Plugins and demos by [@Nico3333fr](https://twitter.com/Nico3333fr)
 * [Color Safe](http://colorsafe.co/)
 * [Color Tool - Material Design](https://material.io/color/#!/?view.left=0&view.right=0)
@@ -173,7 +173,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 * [Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit
 * [van11y](https://van11y.net/) - A collection of accessible scripts
 * [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
-* [Semantic Web Autocomplete for Atom ★38](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
+* [Semantic Web Autocomplete for Atom ★37](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
 * [Trello accessibility cards generator ★0](https://github.com/luarmr/trello-a11y-cards) - A node.js script to create a Trello card for every point in WCAG2 guidelines.
 
 
@@ -279,7 +279,7 @@ You want to contribute to this project? [Please follow these recommendations](ht
 
 ## Credits and references
 
-1. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox ★646](https://github.com/afonsopacifer/awesome-flexbox).
+1. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox ★663](https://github.com/afonsopacifer/awesome-flexbox).
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/brunopulis/awesome-a11y">brunopulis/awesome-a11y</a> with ranks

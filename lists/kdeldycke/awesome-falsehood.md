@@ -7,7 +7,7 @@ title: Awesome Rank for kdeldycke/awesome-falsehood
 	This list is a copy of <a href="https://github.com/kdeldycke/awesome-falsehood">kdeldycke/awesome-falsehood</a> with ranks
 </p>
 ---
-# Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
+# Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
 
 A curated list of awesome falsehoods programmers believe in.
 
@@ -96,7 +96,7 @@ Economics are not simple or rational.
 definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
 Currency validity date ranges overlap due to revolts, invasions, new
 constitutions, and slow planned adoption.
-- [`tax` ★186](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
+- [`tax` ★188](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
 library.
 
 
@@ -205,14 +205,14 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber` ★5204](https://github.com/googlei18n/libphonenumber) - Google's
+- [`libphonenumber` ★5345](https://github.com/googlei18n/libphonenumber) - Google's
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C# ★166 ⏳1Y](https://github.com/erezak/libphonenumber-csharp),
-[Objective-C ★1625](https://github.com/iziz/libPhoneNumber-iOS),
-[Python ★1531](https://github.com/daviddrysdale/python-phonenumbers),
+[Objective-C ★1649](https://github.com/iziz/libPhoneNumber-iOS),
+[Python ★1549](https://github.com/daviddrysdale/python-phonenumbers),
 [Ruby ★506](https://github.com/sstephenson/global_phone) and
-[PHP ★1851](https://github.com/giggsey/libphonenumber-for-php).
+[PHP ★1887](https://github.com/giggsey/libphonenumber-for-php).
 
 
 ## Postal Addresses
@@ -223,12 +223,12 @@ Covers streets, postal codes, buildings, cities and countries.
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
-- [`libaddressinput` ★248](https://github.com/googlei18n/libaddressinput) - Google's
+- [`libaddressinput` ★253](https://github.com/googlei18n/libaddressinput) - Google's
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
-- [`addressing` ★486](https://github.com/commerceguys/addressing) - A PHP 5.4+
+- [`addressing` ★495](https://github.com/commerceguys/addressing) - A PHP 5.4+
 addressing library, powered by Google's dataset.
-- [`postal-address` ★55](https://github.com/scaleway/postal-address) - Python
+- [`postal-address` ★59](https://github.com/scaleway/postal-address) - Python
 module to parse, normalize and render postal addresses.
 
 

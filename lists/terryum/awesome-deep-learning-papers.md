@@ -9,7 +9,7 @@ title: Awesome Rank for terryum/awesome-deep-learning-papers
 ---
 # Awesome - Most Cited Deep Learning Papers
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 A curated list of the most cited deep learning papers (since 2012)
 
@@ -17,7 +17,7 @@ We believe that there exist *classic* deep learning papers which are worth readi
 
 ## Background
 
-Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners, called [Deep Learning Papers Reading Roadmap ★11717](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
+Before this list, there exist other *awesome deep learning lists*, for example, [Deep Vision](https://github.com/kjw0612/awesome-deep-vision) and [Awesome Recurrent Neural Networks](https://github.com/kjw0612/awesome-rnn). Also, after this list comes out, another awesome list for deep learning beginners, called [Deep Learning Papers Reading Roadmap ★12301](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap), has been created and loved by many deep learning researchers.
 
 Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
 
@@ -87,7 +87,8 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 <!---[Key researchers]  [Geoffrey Hinton](https://scholar.google.ca/citations?user=JicYPdAAAAAJ), [Yoshua Bengio](https://scholar.google.ca/citations?user=kukA0LcAAAAJ), [Jason Yosinski](https://scholar.google.ca/citations?hl=en&user=gxL1qj8AAAAJ) -->
 
 ### Optimization / Training Techniques
-- **Batch normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Ioffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
+- **Training very deep networks** (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
+- **Batch normalization: Accelerating deep network training by reducing internal covariate shift** (2015), S. Loffe and C. Szegedy [[pdf]](http://arxiv.org/pdf/1502.03167)
 - **Delving deep into rectifiers: Surpassing human-level performance on imagenet classification** (2015), K. He et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/He_Delving_Deep_into_ICCV_2015_paper.pdf)
 - **Dropout: A simple way to prevent neural networks from overfitting** (2014), N. Srivastava et al. [[pdf]](http://jmlr.org/papers/volume15/srivastava14a/srivastava14a.pdf)
 - **Adam: A method for stochastic optimization** (2014), D. Kingma and J. Ba [[pdf]](http://arxiv.org/pdf/1412.6980)
@@ -144,7 +145,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - **VQA: Visual question answering** (2015), S. Antol et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 - **DeepFace: Closing the gap to human-level performance in face verification** (2014), Y. Taigman et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Taigman_DeepFace_Closing_the_2014_CVPR_paper.pdf):
 - **Large-scale video classification with convolutional neural networks** (2014), A. Karpathy et al. [[pdf]](http://vision.stanford.edu/pdf/karpathy14.pdf)
-- **DeepPose: Human pose estimation via deep neural networks** (2014), A. Toshev and C. Szegedy [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Toshev_DeepPose_Human_Pose_2014_CVPR_paper.pdf)
 - **Two-stream convolutional networks for action recognition in videos** (2014), K. Simonyan et al. [[pdf]](http://papers.nips.cc/paper/5353-two-stream-convolutional-networks-for-action-recognition-in-videos.pdf)
 - **3D convolutional neural networks for human action recognition** (2013), S. Ji et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2010_JiXYY10.pdf)
 
@@ -219,6 +219,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 ### New papers
 *Newly published papers (< 6 months) which are worth reading*
+- Accurate, Large Minibatch SGD:Training ImageNet in 1 Hour (2017), Priya Goyal et al. [[pdf]](https://research.fb.com/wp-content/uploads/2017/06/imagenet1kin1h3.pdf)
 - TACOTRON: Towards end-to-end speech synthesis (2017), Y. Wang et al. [[pdf]](https://arxiv.org/pdf/1703.10135.pdf)
 - Deep Photo Style Transfer (2017), F. Luan et al. [[pdf]](http://arxiv.org/pdf/1703.07511v1.pdf)
 - Evolution Strategies as a Scalable Alternative to Reinforcement Learning (2017), T. Salimans et al. [[pdf]](http://arxiv.org/pdf/1703.03864v1.pdf)
@@ -280,7 +281,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 *(Lectures)*
 - CS231n, Convolutional Neural Networks for Visual Recognition, Stanford University [[web]](http://cs231n.stanford.edu/)
 - CS224d, Deep Learning for Natural Language Processing, Stanford University [[web]](http://cs224d.stanford.edu/)
-- Oxford Deep NLP 2017, Deep Learning for Natural Language Processing, University of Oxford [[web] ★8194](https://github.com/oxford-cs-deepnlp-2017/lectures)
+- Oxford Deep NLP 2017, Deep Learning for Natural Language Processing, University of Oxford [[web] ★8375](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 *(Tutorials)*
 - NIPS 2016 Tutorials, Long Beach [[web]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
@@ -346,7 +347,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Learning spatiotemporal features with 3d convolutional networks (2015), D. Tran et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Tran_Learning_Spatiotemporal_Features_ICCV_2015_paper.pdf)
 - Understanding neural networks through deep visualization (2015), J. Yosinski et al. [[pdf]](https://arxiv.org/pdf/1506.06579)
 - An Empirical Exploration of Recurrent Network Architectures (2015), R. Jozefowicz et al.  [[pdf]](http://www.jmlr.org/proceedings/papers/v37/jozefowicz15.pdf)
-- Training very deep networks (2015), R. Srivastava et al. [[pdf]](http://papers.nips.cc/paper/5850-training-very-deep-networks.pdf)
 - Deep generative image models using a￼ laplacian pyramid of adversarial networks (2015), E.Denton et al. [[pdf]](http://papers.nips.cc/paper/5773-deep-generative-image-models-using-a-laplacian-pyramid-of-adversarial-networks.pdf)
 - Gated Feedback Recurrent Neural Networks (2015), J. Chung et al. [[pdf]](http://www.jmlr.org/proceedings/papers/v37/chung15.pdf)
 - Fast and accurate deep network learning by exponential linear units (ELUS) (2015), D. Clevert et al. [[pdf]](https://arxiv.org/pdf/1511.07289.pdf%5Cnhttp://arxiv.org/abs/1511.07289%5Cnhttp://arxiv.org/abs/1511.07289)
@@ -363,7 +363,7 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 
 
 *(~2014)*
-
+- DeepPose: Human pose estimation via deep neural networks (2014), A. Toshev and C. Szegedy [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Toshev_DeepPose_Human_Pose_2014_CVPR_paper.pdf)
 - Learning a Deep Convolutional Network for Image Super-Resolution (2014, C. Dong et al. [[pdf]](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Lecture_Notes_in_Computer_Science/links/53e583e50cf25d674e9c280e.pdf)
 - Recurrent models of visual attention (2014), V. Mnih et al. [[pdf]](http://arxiv.org/pdf/1406.6247.pdf)
 - Empirical evaluation of gated recurrent neural networks on sequence modeling (2014), J. Chung et al. [[pdf]](https://arxiv.org/pdf/1412.3555)
@@ -379,7 +379,6 @@ If you have any suggestions (missing papers, new papers, key researchers or typo
 - Linguistic Regularities in Continuous Space Word Representations (2013), T. Mikolov et al. [[pdf]](http://www.aclweb.org/anthology/N13-1#page=784)
 - Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
 - A Fast and Accurate Dependency Parser using Neural Networks. Chen and Manning. [[pdf]](http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf)
-
 
 
 

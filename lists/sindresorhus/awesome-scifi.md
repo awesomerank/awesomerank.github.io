@@ -7,13 +7,13 @@ title: Awesome Rank for sindresorhus/awesome-scifi
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-scifi">sindresorhus/awesome-scifi</a> with ranks
 </p>
 ---
-# Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 > Sci-Fi worth consuming
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*For fantasy books, see [awesome-fantasy ★227](https://github.com/RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy ★231](https://github.com/RichardLitt/awesome-fantasy).*
 
 *Please read the [Contributing Guidelines](https://github.com/sindresorhus/awesome-scifi/blob/master/contributing.md) before contributing.*
 
@@ -319,9 +319,9 @@ This book is not just filled to the brim with interesting and novel ideas about 
 
 > Set against the backdrop of China’s Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brink of destruction captures the signal and plans to invade Earth. Meanwhile, on Earth, different camps start forming, planning to either welcome the superior beings and help them take over a world seen as corrupt, or to fight against the invasion. The result is a science fiction masterpiece of enormous scope and vision.
 
-##### [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]  
+##### [The Dark Forest](https://www.goodreads.com/book/show/23168817-the-dark-forest) (2015) [4.4]
 
-> In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret. 
+> In The Dark Forest, Earth is reeling from the revelation of a coming alien invasion — four centuries in the future. The aliens' human collaborators have been defeated but the presence of the sophons, the subatomic particles that allow Trisolaris instant access to all human information, means that Earth's defense plans are exposed to the enemy. Only the human mind remains a secret.
 
 ##### [Death's End](https://www.goodreads.com/book/show/25451264-death-s-end) (2016) [4.5]
 
@@ -785,7 +785,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### Fantasy
 
-_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list ★227](https://github.com/RichardLitt/awesome-fantasy)._
+_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list ★231](https://github.com/RichardLitt/awesome-fantasy)._
 
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.0]
 
@@ -841,6 +841,12 @@ _Novels which focus on the near-future unintended consequences of biotechnology 
 > Now, in celebration of the week-long, once-in-a-decade rite of Apert, the fraas and suurs prepare to venture beyond the concent’s gates—at the same time opening them wide to welcome the curious “extras” in. During his first Apert as a fraa, Erasmas eagerly anticipates reconnecting with the landmarks and family he hasn’t seen since he was “collected.” But before the week is out, both the existence he abandoned and the one he embraced will stand poised on the brink of cataclysmic change.
 
 > Powerful unforeseen forces jeopardize the peaceful stability of mathic life and the established ennui of the Extramuros—a threat that only an unsteady alliance of saecular and avout can oppose—as, one by one, Erasmas and his colleagues, teachers, and friends are summoned forth from the safety of the concent in hopes of warding off global disaster. Suddenly burdened with a staggering responsibility, Erasmas finds himself a major player in a drama that will determine the future of his world—as he sets out on an extraordinary odyssey that will carry him to the most dangerous, inhospitable corners of the planet… and beyond.
+
+#### [Never Let Me Go](https://www.goodreads.com/book/show/6334.Never_Let_Me_Go) (2005) *by [Kazuo Ishiguro](https://www.goodreads.com/author/show/4280.Kazuo_Ishiguro)* [3.8] 🔥
+
+A heartbreaking coming of age novel with a speculative, mysterious twist. Definitely a character-driven story. - [@sunrein](https://github.com/sunrein)
+
+> As children, Kathy, Ruth, and Tommy were students at Hailsham, an exclusive boarding school secluded in the English countryside. It was a place of mercurial cliques and mysterious rules where teachers were constantly reminding their charges of how special they were. Now, years later, Kathy is a young woman. Ruth and Tommy have reentered her life, and for the first time she is beginning to look back at their shared past and understand just what it is that makes them special— and how that gift will shape the rest of their time together.
 
 #### [Stranger in a Strange Land](https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land) (1961) *by [Robert A. Heinlein](https://en.wikipedia.org/wiki/Robert_A._Heinlein)* [3.9] 🌟 🔥
 
@@ -1015,7 +1021,7 @@ Director: _Denis Villeneuve_
 
 A beautiful film, weaving together memory, languages, and the other. The film is less about aliens and more about our perception of them; like District 9, this film functions as a good mirror for how different people and governments deal with alien interaction. The music is also exceptional. - [@RichardLitt](https://github.com/RichardLitt)
 
-> When 12 mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.  
+> When 12 mysterious spacecraft appear around the world, linguistics professor Louise Banks is tasked with interpreting the language of the apparent alien visitors.
 
 #### [Blade Runner](http://www.imdb.com/title/tt0083658/) (1982) [8.2]
 
@@ -1587,13 +1593,21 @@ Categories: `drama` `fantasy` `horror`
 
 ## Comic books
 
-#### [Saga](https://imagecomics.com/comics/series/saga) (2014-) *by Brian K. Vaughan*
+#### [Alex + Ada](https://www.goodreads.com/book/show/30896668-alex-ada) (2013-2015) *by [Jonathan Luna](https://en.wikipedia.org/wiki/Luna_Brothers), [Sarah Vaughn](https://www.goodreads.com/author/show/7372180.Sarah_Vaughn)* [4.11]
 
-Categories: `fantasy` `sci-fi` `space-opera`
+Categories: `ai` `drama` `sci-fi`
 
-Saga is a comic that is an elevator pitch proof. It's impossible to describe it in a sentence. All I can say is that it's a beautifully written and drawn story about love and family, in a very interesting space opera-like world. It's kinda like Star Wars, but not at all. While in Star Wars the heroes are in a huge journey to end the war, in Saga they just want to be left alone to live with their family. - [@matheusteixeira](https://github.com/matheusteixeira)
+Alex + Ada is a thought provoking and moving exploration of what it means to be alive, and what rights can and should be afforded to non-human sentient beings. It's a short and effective near-future look at the obligations we have to both each other and to the intelligent life we create. - [@thejessleigh](https://github.com/thejessleigh)
 
-> Saga is an epic space opera/fantasy comic book series created by writer Brian K. Vaughan and artist Fiona Staples, published monthly by Image Comics. The series is heavily influenced by Star Wars, and based on ideas Vaughan conceived both as a child and as a parent. It depicts two lovers from long-warring extraterrestrial races, Alana and Marko, fleeing authorities from both sides of a galactic war as they struggle to care for their newborn daughter, Hazel, who occasionally narrates the series.
+> From JONATHAN LUNA (THE SWORD, GIRLS, Spider-Woman: Origin) and SARAH VAUGHN (Sparkshooter, Ruined) comes ALEX + ADA, a sci-fi/drama set in the near future. The last thing in the world Alex wanted was an X5, the latest in realistic androids. But after Ada is dropped into his life, he discovers she is more than just a robot. Alex takes a huge risk to unlock Ada so she can think for herself and explore life as a sentient android.
+
+#### [Arzach](http://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius*
+
+Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
+
+One of the most influential french sci-fi comics. It inspired a lot of what became Heavy Metal Magazine. Moebius in this onirical tale uses no words to this graphical prose. - [@matheusteixeira](https://github.com/matheusteixeira)
+
+> Arzach fut une révolution pour la bande dessinée de l'époque. Elle est constituée d'une série de cinq histoires autonomes, sortes de « nouvelles graphiques » de quelques planches chacune. Sa particularité réside tout d'abord en son absence totale de dialogues : on y croise un voire deux personnages récurrents (Arzach et son Ptéroïde, sorte de ptérodactyle) mais apparemment muets, en tout cas l'auteur ne leur autorise pas la parole pour s'exprimer.
 
 #### [Global Frequency](http://www.goodreads.com/book/show/15819022-global-frequency) (2002-2004) *by Warren Ellis*
 
@@ -1611,21 +1625,13 @@ Mind boggling, crazy high concepts based on historical events. - [@matheusteixei
 
 > What if the research and development department created to produce the first atomic bomb was a front for a series of other, more unusual, programs?
 
-#### [We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison*
+#### [Saga](https://imagecomics.com/comics/series/saga) (2014-) *by Brian K. Vaughan*
 
-Categories: `hard-science-fiction` `sci-fi` `society`
+Categories: `fantasy` `sci-fi` `space-opera`
 
-One of the most emotional stories I ever read. We3 is a very visceral and incredibly well drawn tale of freedom. - [@matheusteixeira](https://github.com/matheusteixeira)
+Saga is a comic that is an elevator pitch proof. It's impossible to describe it in a sentence. All I can say is that it's a beautifully written and drawn story about love and family, in a very interesting space opera-like world. It's kinda like Star Wars, but not at all. While in Star Wars the heroes are in a huge journey to end the war, in Saga they just want to be left alone to live with their family. - [@matheusteixeira](https://github.com/matheusteixeira)
 
-> Writer Grant Morrison and artist Frank Quitely tell the unforgettable story of three innocent pets-a dog, a cat and a rabbit-who have been converted into deadly cyborgs by a sinister military weapons program.With nervous systems amplified to match their terrifying mechanical exoskeletons, the members of Animal Weapon 3 have the firepower of a battalion between them. But they are just the program's prototypes, and now that their testing is complete, they're slated to be permanently "de-commissioned"-until they seize their one chance to make a desperate run for freedom. Relentlessly pursued by their makers, the WE3 team must navigate a frightening and confusing world where their instincts and heightened abilities make them as much a threat as those hunting them-but a world, nonetheless, in which somewhere there is something called "home."
-
-#### [Arzach](http://www.goodreads.com/book/show/8748185-arzach) (1975) *by Moebius*
-
-Categories: `hard-science-fiction` `sci-fi` `cyberpunk`
-
-One of the most influential french sci-fi comics. It inspired a lot of what became Heavy Metal Magazine. Moebius in this onirical tale uses no words to this graphical prose. - [@matheusteixeira](https://github.com/matheusteixeira)
-
-> Arzach fut une révolution pour la bande dessinée de l'époque. Elle est constituée d'une série de cinq histoires autonomes, sortes de « nouvelles graphiques » de quelques planches chacune. Sa particularité réside tout d'abord en son absence totale de dialogues : on y croise un voire deux personnages récurrents (Arzach et son Ptéroïde, sorte de ptérodactyle) mais apparemment muets, en tout cas l'auteur ne leur autorise pas la parole pour s'exprimer.
+> Saga is an epic space opera/fantasy comic book series created by writer Brian K. Vaughan and artist Fiona Staples, published monthly by Image Comics. The series is heavily influenced by Star Wars, and based on ideas Vaughan conceived both as a child and as a parent. It depicts two lovers from long-warring extraterrestrial races, Alana and Marko, fleeing authorities from both sides of a galactic war as they struggle to care for their newborn daughter, Hazel, who occasionally narrates the series.
 
 #### [Transmetropolitan](http://www.goodreads.com/book/show/22416.Transmetropolitan_Vol_1) (1998) *by Warren Ellis*
 
@@ -1635,6 +1641,13 @@ One of the most anarchistic comics I ever read. Transmetropolitan has no mercy f
 
 > After years of self-imposed exile from a civilization rife with degradation and indecency, cynical journalist Spider Jerusalem is forced to return to a job that he hates and a city that he loathes. Working as an investigative reporter for the newspaper The Word, Spider attacks the injustices of his surreal 23rd Century surroundings. Combining black humor, life-threatening situations, and moral ambiguity, this book is the first look into the mind of an outlaw journalist and the world he seeks to destroy.
 
+#### [We3](http://www.goodreads.com/book/show/22358.We3) (2005) *by Grant Morrison*
+
+Categories: `hard-science-fiction` `sci-fi` `society`
+
+One of the most emotional stories I ever read. We3 is a very visceral and incredibly well drawn tale of freedom. - [@matheusteixeira](https://github.com/matheusteixeira)
+
+> Writer Grant Morrison and artist Frank Quitely tell the unforgettable story of three innocent pets-a dog, a cat and a rabbit-who have been converted into deadly cyborgs by a sinister military weapons program.With nervous systems amplified to match their terrifying mechanical exoskeletons, the members of Animal Weapon 3 have the firepower of a battalion between them. But they are just the program's prototypes, and now that their testing is complete, they're slated to be permanently "de-commissioned"-until they seize their one chance to make a desperate run for freedom. Relentlessly pursued by their makers, the WE3 team must navigate a frightening and confusing world where their instincts and heightened abilities make them as much a threat as those hunting them-but a world, nonetheless, in which somewhere there is something called "home."
 
 ## Links
 

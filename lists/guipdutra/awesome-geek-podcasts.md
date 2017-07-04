@@ -12,7 +12,7 @@ title: Awesome Geek Podcasts
 permalink: /
 layout: default
 ---
-# Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Geek Podcasts [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 A curated list of podcasts we like to listen to.
 
@@ -254,7 +254,7 @@ A curated list of podcasts we like to listen to.
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
 * [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
 * [AntennaPod](http://antennapod.org) - (Android and Open Source)
-* [Soundwaves ★80](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
+* [Soundwaves ★85](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 * [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 * [gPodder](http://gpodder.org/) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 

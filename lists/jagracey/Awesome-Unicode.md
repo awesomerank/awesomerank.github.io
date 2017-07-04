@@ -10,7 +10,7 @@ title: Awesome Rank for jagracey/Awesome-Unicode
 ![](https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg)
 
 
-# Awesome Unicode [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Unicode [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 
 
@@ -366,7 +366,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 - **String length is typically determined by counting codepoints.** This means that surrogate pairs would count as two characters. Combining multiple diacritics may be stacked over the same character. `a + ̈  == ̈a   `, increasing length, while only producing a single character.
 
-- **Similarily, reversing strings often is a non-trivial task.** Again, surrogate pairs and diacritics must be reversed together. [ES Reverser ★470](https://github.com/mathiasbynens/esrever) provides a pretty good solution.
+- **Similarily, reversing strings often is a non-trivial task.** Again, surrogate pairs and diacritics must be reversed together. [ES Reverser ★472](https://github.com/mathiasbynens/esrever) provides a pretty good solution.
 
 - **Upper and lower case mappings are not always one-to-one.** They can also be:
   - One-to-many: (ß → SS )
@@ -494,11 +494,11 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 
 # Awesome Packages & Libraries
-- [PhantomScript ★23 ⏳1Y](https://github.com/jagracey/PhantomScript) - :ghost: :flashlight: Invisible JavaScript code execution & social engineering
-- [ESReverser ★470](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
-- [mimic ★3216](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
-- [python-ftfy ★1695](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
-- [vim-troll-stopper ★135](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
+- [PhantomScript ★24 ⏳1Y](https://github.com/jagracey/PhantomScript) - :ghost: :flashlight: Invisible JavaScript code execution & social engineering
+- [ESReverser ★472](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
+- [mimic ★3253](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
+- [python-ftfy ★1728](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
+- [vim-troll-stopper ★138](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
 
 
 # Emojis
@@ -754,9 +754,10 @@ And heres some basic results
 # Overview Map
 ## A map of the Basic Multilingual Plane
 **Each numbered box represents 256 code points.**
-<center>
-![A map of the Basic Multilingual Plane. Each numbered box represents 256 code points.](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Roadmap_to_Unicode_BMP.svg/750px-Roadmap_to_Unicode_BMP.svg.png)
-</center>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Roadmap_to_Unicode_BMP.svg/750px-Roadmap_to_Unicode_BMP.svg.png" alt="A map of the Basic Multilingual Plane. Each numbered box represents 256 code points."/>
+</p>
+
 *The Chinese, Japanese and Korean (CJK) scripts share a common background, collectively known as CJK characters. In the process called Han unification, the common (shared) characters were identified and named "CJK Unified Ideographs".*
 
 

@@ -153,7 +153,7 @@ Table of Contents
   * [shippable.com](https://app.shippable.com/) — Free for 1 build container, private and public repos, unlimited builds
   * [snap-ci.com](https://snap-ci.com/) — Free for public repositories, 1 build at the time
   * [appveyor.com](http://www.appveyor.com/) — CD service for Windows, free for Open Source
-  * [github.com ★344](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
+  * [github.com ★364](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
   * [ftploy.com](http://ftploy.com/) — 1 project with unlimited deployments
   * [deployhq.com](http://www.deployhq.com/) — 1 project with 10 daily deployments
   * [hub.jazz.net](https://hub.jazz.net/) — 60 minutes of free build time/month
@@ -586,6 +586,7 @@ Table of Contents
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
+  * [Whales ★54](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free.
 
 ## Vagrant Related
 
@@ -624,8 +625,8 @@ Table of Contents
   * [cloudrail.com](https://cloudrail.com) — API integration solution. Unified interfaces for multiple web APIs, API change management
 
 ## Other Free Resources
-  * [github.com - FOSS for Dev ★180](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
-  * [github.com - Free for nonprofit ★47 ⏳2Y](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
+  * [github.com - FOSS for Dev ★183](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
+  * [github.com - Free for nonprofit ★48 ⏳2Y](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
 ---

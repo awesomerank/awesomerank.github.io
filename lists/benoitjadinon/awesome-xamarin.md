@@ -8,11 +8,11 @@ title: Awesome Rank for benoitjadinon/awesome-xamarin
 </p>
 ---
 # awesome-xamarin
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/benoitjadinon/awesome-xamarin.svg?branch=master)](https://travis-ci.org/benoitjadinon/awesome-xamarin)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/benoitjadinon/awesome-xamarin.svg?branch=master)](https://travis-ci.org/benoitjadinon/awesome-xamarin)
 
 A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for Xamarin Android/iOS/WP libraries.
 
-Inspired by [awesome-dotnet ★4648](https://github.com/quozd/awesome-dotnet)
+Inspired by [awesome-dotnet ★4815](https://github.com/quozd/awesome-dotnet)
   
   * [General](#general)
   * [Architecture](#architecture)
@@ -73,7 +73,7 @@ Inspired by [awesome-dotnet ★4648](https://github.com/quozd/awesome-dotnet)
 ## Fody
 * [Fody ★1,325](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
 * [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - Automatically generates DependencyProperty boilerplate from simple C# properties
-* [PropertyChanged.Fody ★494](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
+* [PropertyChanged.Fody ★521](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
 * [ReactiveUI.Fody ★60](https://github.com/kswoll/ReactiveUI.Fody) - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
 
 ## Framework
@@ -146,7 +146,7 @@ Inspired by [awesome-dotnet ★4648](https://github.com/quozd/awesome-dotnet)
 ## Reactive
 * [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
 * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework 
-* [Sensors ★8](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
+* [Sensors ★9](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
 * [Refit ★1,092](https://github.com/paulcbetts/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface
 * [RxFlow ★16](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
 
@@ -172,7 +172,7 @@ Inspired by [awesome-dotnet ★4648](https://github.com/quozd/awesome-dotnet)
 * [Cheeseknife ★33](https://github.com/MarcelBraghetto/Cheeseknife) -  a view injection library for Xamarin.Android
 
 ## UI
-* [NControl ★174](https://github.com/chrfalch/NControl) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
+* [NControl ★179](https://github.com/chrfalch/NControl) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
 * [Passcode ★10](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
 
 ## Wearable

@@ -7,12 +7,12 @@ title: Awesome Rank for aliesbelik/awesome-jmeter
 	This list is a copy of <a href="https://github.com/aliesbelik/awesome-jmeter">aliesbelik/awesome-jmeter</a> with ranks
 </p>
 ---
-# Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome JMeter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 A curated collection of resources covering [Apache JMeter](http://jmeter.apache.org/) and related resources and shiny things: plugins, integrations, testing techniques, ci, devops etc.
 
 The [Apache JMeter](http://jmeter.apache.org/) is open source, pure Java application designed to load test functional behavior and measure performance.
 
-This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://del.icio.us/veslefrik/jmeter) and got further inspiration from [awesome ★59088](https://github.com/sindresorhus/awesome) project.
+This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.com/a/2552/1842) and [this jmeter-related links collection](https://del.icio.us/veslefrik/jmeter) and got further inspiration from [awesome ★60916](https://github.com/sindresorhus/awesome) project.
 
 ## Contents
 
@@ -102,7 +102,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 ## DSL
 
-- [RubyJmeter ★555](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
+- [RubyJmeter ★565](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
 
 ## Distributions
 
@@ -114,13 +114,13 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/edit?usp=sharing) - List of available plugins and extensions.
 - [JMeter Plugins](http://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter.
 - [UBIK Load Pack](http://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
-- [AtlantBH Custom JMeter Components ★62](https://github.com/ATLANTBH/jmeter-components) - Set of JMeter extensions developed by AtlantBH (currently included into JMeter Plugins project).
+- [AtlantBH Custom JMeter Components ★63](https://github.com/ATLANTBH/jmeter-components) - Set of JMeter extensions developed by AtlantBH (currently included into JMeter Plugins project).
 
 ## CI
 
 - Tools & Plugins
     - [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/) - Ant task to automate running JMeter test plans.
-    - [JMeter Maven Plugin ★206](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+    - [JMeter Maven Plugin ★211](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
     - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
     - [TeamCity Performance Tests Analysis Plugin ★10](https://github.com/jtorgan/jmeter_plugin)
     - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
@@ -177,7 +177,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [Analyzing JMeter Results](http://www.datazoo.de/articles/158/performance-testing-analyzing-jmeter-results)
 - [BlazeMeter Sense](https://sense.blazemeter.com/) - Service for storing and analysing performance test results.
 - [JAnalyser](http://epireum.com/page-section/janalyser/) - Browser-based results analysis tool.
-- [JMeter Result Analysis Plugin ★36 ⏳1Y](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
+- [JMeter Result Analysis Plugin ★37 ⏳1Y](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 - [JMeter Results Analyser](http://sourceforge.net/projects/jmstats/) - Web-based application for collating, analysing and reporting JMeter test results.
 - DB Result Collectors
     - [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/) - Plugin to enable results logging into a database for more effective reporting.
@@ -192,7 +192,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [Statistical Aggregate Report](http://rubenlaguna.com/wp/better-jmeter-graphs/) - Custom Statistical Aggregate Report listener for enhanced results visualization.
 - [JChav ★2 ⏳2Y](https://github.com/d6y/jchav) - JMeter Chart History and Visualisation library.
 - [Using CMDRunner & Powershell](http://performancewebautoamtionother.blogspot.com.by/2015/12/jmeter-create-graphs-with-cmdrunner.html) - Create JMeter graphs with CMDRunner with powershell parallel execution.
-- JMeter Dashboard: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources ★4 ⏳2Y](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
+- JMeter Dashboard: [howto](http://seangkuan.blogspot.com.by/2015/06/jmeter-dashboard-realtime-monitoring-of.html), [sources ★3 ⏳2Y](https://github.com/vincentskooi/JMeterDashboard) - Realtime monitoring of JMeter load test.
 
 ## JMeter Performance
 

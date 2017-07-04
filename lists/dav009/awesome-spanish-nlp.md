@@ -7,7 +7,7 @@ title: Awesome Rank for dav009/awesome-spanish-nlp
 	This list is a copy of <a href="https://github.com/dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
 </p>
 ---
-# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 
 Curated list of Linguistic Resources for doing Spanish NLP & CL.
@@ -23,7 +23,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [TreeTagger - POSTagger](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
 - [Stanford - POSTagger](http://nlp.stanford.edu/software/tagger.shtml)
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
-- [ixa-pipe-pos ★9](https://github.com/ixa-ehu/ixa-pipe-pos)
+- [ixa-pipe-pos ★10](https://github.com/ixa-ehu/ixa-pipe-pos)
 - [Ruby Snowball Implementation ★3 ⏳4Y](https://github.com/MaG21/estem)
 - [Spaguetti POSTagger(Based on NLTK +  CESS corpus](https://code.google.com/p/spaghetti-tagger/)
 
@@ -32,7 +32,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Name Entity Recognition (NER)
 - [OpenNLP - Person/Place/Organization models](http://opennlp.sourceforge.net/models-1.5/)
-- [DBPedia Spotlight ★572](https://github.com/dbpedia-spotlight/dbpedia-spotlight)
+- [DBPedia Spotlight ★578](https://github.com/dbpedia-spotlight/dbpedia-spotlight)
 - [CitiusTagger - Spanish NER and  POSTagger](http://gramatica.usc.es/pln/tools/CitiusTools.html)
 
 ## Corpora
@@ -78,7 +78,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-- [Word2Vec vectors for Wikipedia Spanish Articles ★366](https://github.com/idio/wiki2vec)
+- [Word2Vec vectors for Wikipedia Spanish Articles ★375](https://github.com/idio/wiki2vec)
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)

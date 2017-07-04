@@ -7,7 +7,7 @@ title: Awesome Rank for johnjago/awesome-free-software
 	This list is a copy of <a href="https://github.com/johnjago/awesome-free-software">johnjago/awesome-free-software</a> with ranks
 </p>
 ---
-# Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 [<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="115">](https://www.gnu.org/)
 
@@ -74,6 +74,7 @@ title: Awesome Rank for johnjago/awesome-free-software
 - [Mattermost](https://about.mattermost.com/) - Open source, private cloud alternative to Slack. ([Licensing](https://www.mattermost.org/licensing/))
 - [ProtonMail](https://protonmail.com/) - Secure web-based email service. ([MIT](https://github.com/ProtonMail/WebClient/blob/public/license.md))
 - [Ring](https://ring.cx/) - Telephone, teleconferencing, and media sharing through a distributed service. ([GNU GPLv3](https://ring.cx/en/about/practical))
+- [Signal](https://www.whispersystems.org/) - Private messaging and calling for desktop, Android, and iOS. ([GNU GPLv3](https://github.com/WhisperSystems/Signal-Android/blob/master/LICENSE))
 - [Tox](https://tox.chat/) - Encrypted and distributed messaging platform with voice, video, and screen sharing. ([GNU GPLv3](https://github.com/TokTok/c-toxcore/blob/master/COPYING))
 
 ### File Management
@@ -179,11 +180,13 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ### Web Applications
 
 - [GitLab](https://about.gitlab.com/downloads/) - Git repository manager for the entire code lifecycle. ([MIT](https://gitlab.com/gitlab-org/gitlab-ce/raw/master/LICENSE))
+- [GNU social](https://gnu.io/social/) -  Microblogging server written in PHP. (GNU GPLv3)
 - [Gogs](https://gogs.io/) - Lightweight, cross-platform, self-hosted Git service. ([MIT](https://github.com/gogits/gogs/blob/master/LICENSE))
 - [Mastodon](https://mastodon.social) - Decentralized social network server. ([GNU AGPLv3](https://github.com/tootsuite/mastodon/blob/master/LICENSE))
 - [MediaGoblin](http://mediagoblin.org/) - Publishing platform for all types of media. ([GNU AGPLv3](http://mediagoblin.org/))
 - [MediaWiki](https://www.mediawiki.org) - Wiki software that can organize and serve large amounts of frequently accessed data. ([GNU GPLv2+](https://www.mediawiki.org/wiki/Copyright))
 - [Neocities](https://neocities.org/) - GeoCities for the modern world. ([BSD 2-clause](https://github.com/neocities/neocities/blob/master/LICENSE.txt))
+- [NotABug.org](https://notabug.org/) - Collaboration platform for freely licensed projects. ([MIT](https://notabug.org/hp/gogs/src/master/LICENSE))
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license. ([GNU GPLv2](https://git.openstreetmap.org/rails.git/blob/HEAD:/LICENSE))
 - [WordPress](https://wordpress.org/) - Blog publishing platform and content management system. ([GNU GPLv2+](https://wordpress.org/about/gpl/))
 
@@ -210,6 +213,8 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 ## Hardware
 > Libre-friendly.
 
+- [Libiquity](http://www.libiquity.com/) - Company that designs and develops embedded software and firmware systems.
+- [Technoethical](https://tehnoetic.com/) - Laptops, adapters, and mobile devices compatible with free operating systems.
 - [ThinkPenguin](https://www.thinkpenguin.com/) - Provider of modern laptops, desktops, and printers that contain no proprietary software.
 - [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy.
 
@@ -245,6 +250,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 - [FSFLA](http://www.fsfla.org/ikiwiki/) - Latin American sister site for the FSF.
 - [GNU](https://www.gnu.org/) - Home of the GNU/Linux operating system.
 - [Jitsi](https://jitsi.org/) - Community for the development of open source video conferencing software.
+- [Outreachy](https://www.gnome.org/outreachy/) - Helps people from underrepresented backgrounds find internships with FOSS software companies.
 - [Software Freedom Conservancy](https://sfconservancy.org/) - Charity that helps promote, improve, develop, and defend free, libre, and open source software projects.
 - [Software Freedom Law Center](https://www.softwarefreedom.org/) - Provider of no-cost legal services to free, libre, and open source software creators.
   

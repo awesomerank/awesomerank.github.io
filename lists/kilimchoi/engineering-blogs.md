@@ -7,7 +7,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 	This list is a copy of <a href="https://github.com/kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
 </p>
 ---
-# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
@@ -126,6 +126,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * DigitalOcean https://www.digitalocean.com/community/tutorials
 * Discord https://blog.discordapp.com/
 * Docker https://blog.docker.com/category/engineering/
+* Drivy https://drivy.engineering/
 * Dropbox https://blogs.dropbox.com/tech/
 
 #### E companies
@@ -345,6 +346,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Slack https://slack.engineering/
 * SlideShare https://engineering.linkedin.com/blog/topic/slideshare
 * Small Improvements https://tech.small-improvements.com/
+* SmartRecruiters https://up.smartrecruiters.com
 * Snapdeal http://engineering.snapdeal.com/category/code/
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick http://devblog.songkick.com/

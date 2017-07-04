@@ -7,13 +7,13 @@ title: Awesome Rank for afonsopacifer/awesome-flexbox
 	This list is a copy of <a href="https://github.com/afonsopacifer/awesome-flexbox">afonsopacifer/awesome-flexbox</a> with ranks
 </p>
 ---
-[![awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox/blob/master/awesome-flexbox.jpg) ★646](https://github.com/afonsopacifer/awesome-flexbox)
+[![awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox/blob/master/awesome-flexbox.jpg) ★663](https://github.com/afonsopacifer/awesome-flexbox)
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 > A curated list of CSS Flexible Box Layout Module or only Flexbox.
-Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-svg ★3201](https://github.com/willianjusten/awesome-svg).
+Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-svg ★3233](https://github.com/willianjusten/awesome-svg).
 
 ## Table of Contents
 * [W3C Specification](#w3c-specification)
@@ -90,13 +90,13 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 
 #### Preprocessors in action
 * [Compass Flexbox](http://compass-style.org/reference/compass/css3/flexbox/)
-* [Sass flex mixin ★1054](https://github.com/mastastealth/sass-flex-mixin)
+* [Sass flex mixin ★1072](https://github.com/mastastealth/sass-flex-mixin)
 * [Stylus flex mixin ★9 ⏳3Y](https://github.com/differui/stylus-flex-mixin)
 
 #### Polyfills
 * [Flexibility](https://github.com/10up/flexibility):metal:
-* [Flexie ★1107](https://github.com/doctyper/flexie)
-* [Reflexie ★259 ⏳4Y](https://github.com/doctyper/reflexie)
+* [Flexie ★1106](https://github.com/doctyper/flexie)
+* [Reflexie ★260 ⏳4Y](https://github.com/doctyper/reflexie)
 
 ## Other Interesting Articles
 *A list of issues related to flexbox.*
@@ -156,7 +156,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [CSS flexbox please](http://demo.agektmr.com/flexbox/)
 * [CSS Flexbox snippets for Atom ★5 ⏳1Y](https://github.com/brenopolanski/css-flexbox-atom-snippets)
 * [CSS Flexbox snippets for Sublime Text 2/3 ★12 ⏳1Y](https://github.com/brenopolanski/css-flexbox-sublime-snippets)
-* [Fibonacci ★417 ⏳2Y](https://github.com/maxsteenbergen/Fibonacci)
+* [Fibonacci ★418 ⏳2Y](https://github.com/maxsteenbergen/Fibonacci)
 * [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
 * [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 * [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)
@@ -167,10 +167,10 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 ## Libraries and Frameworks
 *A list of incredible libraries based on flexbox.*
 * [Bem grid](https://github.com/bem-incubator/bem-grid)
-* [Flexboxgrid ★5989](https://github.com/kristoferjoseph/flexboxgrid):metal:
+* [Flexboxgrid ★6175](https://github.com/kristoferjoseph/flexboxgrid):metal:
 * [Flex Grid Framework](https://afonsopacifer.github.io/flex-grid-framework/):metal:
 * [Flexbox Grid for Stylus](http://stylusgrid.com)
-* [Ginger Grid ★23](https://github.com/erwstout/ginger) - A Flexbox grid framework named after a cute dog.
+* [Ginger Grid ★24](https://github.com/erwstout/ginger) - A Flexbox grid framework named after a cute dog.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox
 * [Milligram](http://milligram.github.io/) - A minimalist CSS framework
 
@@ -178,16 +178,16 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 *Awesome projects about flexbox.*
 * [Cool examples of flexbox layout](http://codepen.io/collection/KegmA/) - A codepen a collection.
 * [flex-box ★2 ⏳2Y](https://github.com/potch/flex-box) - A Custom Element to make the basics of flexbox easier to use.
-* [Flexbugs ★6954](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
+* [Flexbugs ★7347](https://github.com/philipwalton/flexbugs) - A community-curated list of flexbox issues and cross-browser workarounds for them.
 * [Flexbox Froggy](http://flexboxfroggy.com/) - A game for learning CSS flexbox.
 * [Flexbox Patterns](http://www.flexboxpatterns.com/) - Examples and source code that will teach you how to build UI components with CSS flexbox! What’s flexbox?
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
 * [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - Understand how to calculate the width of flex items.
-* [Flexbox layout ★8015](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
+* [Flexbox layout ★8486](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 * [Post Apocalypse Flexbox ★24 ⏳1Y](https://github.com/afonsopacifer/post-apocalypse-flexbox)
-* [React-flexbox ★148](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles.
-* [Reflexbox ★903](https://github.com/jxnblk/reflexbox) - Responsive React flexbox grid system higher order component.
-* [Solved by flexbox ★9831](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal:
+* [React-flexbox ★149](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles.
+* [Reflexbox ★964](https://github.com/jxnblk/reflexbox) - Responsive React flexbox grid system higher order component.
+* [Solved by flexbox ★10027](https://github.com/philipwalton/solved-by-flexbox) - A showcase of problems once hard or impossible to solve with CSS alone, now made trivially easy with Flexbox.:metal:
 * [Visualizing Flexbox](http://codepen.io/paultrone/pen/xwxNmQ?utm_campaign=CSS%2BLayout%2BNews&utm_medium=email&utm_source=CSS_Layout_News_6) - A neat little CodePen Demo to play around with Flex properties.
 * [ZEEF CSS Flexbox](https://css-flexbox.zeef.com/afonso.pacifer) - The awesome flexbox on zeef.:metal:
 

@@ -7,7 +7,7 @@ title: Awesome Rank for brunocvcunha/awesome-userscripts
 	This list is a copy of <a href="https://github.com/brunocvcunha/awesome-userscripts">brunocvcunha/awesome-userscripts</a> with ranks
 </p>
 ---
-# Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+# Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A curated list of Awesome Userscripts.
 
@@ -109,7 +109,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Download YouTube Videos as MP4](https://greasyfork.org/en/scripts/1317-download-youtube-videos-as-mp4) - Adds a button that lets you download YouTube videos.
 * [YouTube Link Title](https://greasyfork.org/en/scripts/413-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
 * [YouTube Plus](https://greasyfork.org/en/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
-* [YouTube Subtitle Download ★120](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+* [YouTube Subtitle Download ★131](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 
 

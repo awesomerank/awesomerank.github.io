@@ -7,7 +7,7 @@ title: Awesome Rank for rossant/awesome-math
 	This list is a copy of <a href="https://github.com/rossant/awesome-math">rossant/awesome-math</a> with ranks
 </p>
 ---
-# Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Math [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome mathematics resources.
 
@@ -93,6 +93,8 @@ A curated list of awesome mathematics resources.
 * [Basics of Algebra, Topology, and Differential Calculus](http://www.cis.upenn.edu/~jean/math-basics.pdf) - Jean Gallier (University of Pennsylvania)
 * [Wikibooks](https://en.wikibooks.org/wiki/Wikibooks:Mathematics_bookshelf)
 * [Online Mathematics Textbooks](https://people.math.gatech.edu/~cain/textbooks/onlinebooks.html)
+* [Beginning and Intermediate Algebra](http://www.wallace.ccfaculty.org/book/Beginning_and_Intermediate_Algebra.pdf)
+* [Trignometry](http://www.mecmath.net/trig/trigbook.pdf)
 
 ## Blogs
 
@@ -189,7 +191,7 @@ A curated list of awesome mathematics resources.
 * [Vector Space Theory](http://www.maths.usyd.edu.au/u/bobh/UoS/MATH2902/vswhole.pdf) - Robert Howlett
 * [Linear Algebra](http://www.mathematik.uni-muenchen.de/~renesse/AP09/hefferon.pdf) - Jim Hefferon
 * [Linear Algebra](http://www.calpoly.edu/~jborzell/Courses/Year%2010-11/Fall%202010/Petersen-Linear_Algebra-Math_306.pdf) - Peter Petersen
-* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ★68 ⏳2Y](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
+* [MIT OpenCourseWare Lectures on Linear Algebra (18.06) as Jupyter Notebooks ★76 ⏳2Y](https://github.com/juanklopper/MIT_OCW_Linear_Algebra_18_06) - Juan Klopper
 
 ### Ring Theory
 

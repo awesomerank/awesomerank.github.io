@@ -7,7 +7,7 @@ title: Awesome Rank for vinkla/awesome-fuse
 	This list is a copy of <a href="https://github.com/vinkla/awesome-fuse">vinkla/awesome-fuse</a> with ranks
 </p>
 ---
-# Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cloud.githubusercontent.com/assets/499192/24413317/5cb57f14-13db-11e7-9d53-2389641d81a8.jpg" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
 
@@ -37,9 +37,10 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Criminal Mind](https://livingabook.com) - Interactive story book [(​_iOS_​)](https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal).
 - [Dark Forest](https://livingabook.com) - Interactive book [(​_iOS_​)](https://itunes.apple.com/mx/app/dark-forest-living-a-book/id695442145) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.livingabook.darkforest).
 - [Deem](http://deemapp.co/) - The ultimate way to see movie reviews worldwide [(​_iOS_​)](https://itunes.apple.com/app/deem-movies/id1057365760) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.deem).
-- [FuseCloud ★43](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(_iOS_)](https://itunes.apple.com/us/app/fusecloud/id1173516856?mt=8) [(_Android_)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en).
+- [FuseCloud ★47](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(_iOS_)](https://itunes.apple.com/us/app/fusecloud/id1173516856?mt=8) [(_Android_)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en).
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​_iOS_​)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.GameCalculator).
 - [Gig](http://www.letsgig.in/) - Discover local nightlife [(​_Android_​)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
+- [Guias Doop](http://guiadoop.com.br/download/) - Celebrity lifestyle guide  [(​_iOS_​)](https://itunes.apple.com/br/app/guias-doop/id1235335392?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=br.com.guiadoop.fuse)
 - [HatTrick](http://htgame.uk) The official app for the card-driven soccer simulation Hat-Trick [(​_iOS_​)](https://itunes.apple.com/cl/app/hattrick-companion-app/id1160945812) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.apps.hattrick).
 - [HowOld](https://play.google.com/store/apps/details?id=com.HowOld) - Find out how old or young you look [(​_Android​_)](https://play.google.com/store/apps/details?id=com.HowOld).
 - [Klickle](https://itunes.apple.com/us/app/klickle/id873427610?mt=8) - Find stuff that’s happening now from local businesses [(​_iOS_​)](https://itunes.apple.com/us/app/klickle/id873427610?mt=8)
@@ -87,27 +88,27 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Features Status](https://www.fusetools.com/docs/features) - List of current and upcoming Fuse features.
 - [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
 - [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
-- [Samples ★124](https://github.com/fusetools/fuse-samples) - Samples demonstrating the use of various Fuse and FuseJS APIs.
-- [Tour De Fuse ★5](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse.
+- [Samples ★131](https://github.com/fusetools/fuse-samples) - Samples demonstrating the use of various Fuse and FuseJS APIs.
+- [Tour De Fuse ★6](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse.
 
 ## Open Source
 
 - [500px Gallery Demo ★24](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
 - [CSGOTimer](https://github.com/sanderdan/CSGOTimer) - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
-- [Firebase ★38](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
+- [Firebase ★41](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
 - [FormulaFuse ★0](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation ★1](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components
 - [Fuse PM ★26](https://github.com/bolav/fusepm) - A Fusetools package manager.
 - [Fuse Pokedex ★3](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
-- [Fuse Samples ★124](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
+- [Fuse Samples ★131](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 - [fuse.QrScanner ★1](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode.
 - [Fuse Tags with Firebase ★15 ⏳1Y](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Haxe ★29 ⏳1Y](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
-- [Hikr ★30](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
+- [Hikr ★34](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
 - [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
-- [Motion ★9](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.
+- [Motion ★10](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.
 - [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
 - [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 - [Syncano ★5](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
@@ -116,10 +117,10 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 ## Plugins
 
 - [Alfred Workflow ★1 ⏳1Y](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred.
-- [Atom ★26](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse.
+- [Atom ★28](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse.
 - [Bash Completion ★2](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 - [Emacs ★4](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse.
-- [Sublime ★22](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
+- [Sublime ★21](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
 - [Visual Studio Code ★41 ⏳1Y](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 - [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 - [Fuse-Log ★1](https://github.com/bstrr/vscode-fuse-log) - Get Fuse log messages into Visual Studio Code's output panel.

@@ -8,7 +8,7 @@ title: Awesome Rank for TalAter/awesome-book-authoring
 </p>
 ---
 # Awesome Book Authoring
-A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) resources for technical book authors.
+A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) resources for technical book authors.
 
 # Table of Contents
 

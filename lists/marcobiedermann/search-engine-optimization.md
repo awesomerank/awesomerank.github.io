@@ -9,7 +9,7 @@ title: Awesome Rank for marcobiedermann/search-engine-optimization
 ---
 # [Search Engine Optimization (SEO)](https://marcobiedermann.github.io/search-engine-optimization/)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 [![Join the chat at https://gitter.im/marcobiedermann/search-engine-optimization](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/marcobiedermann/search-engine-optimization)
 
 A helpful checklist / collection of Search Engine Optimization (SEO) tips and techniques.
@@ -35,6 +35,8 @@ A helpful checklist / collection of Search Engine Optimization (SEO) tips and te
   * [Structured Data](#structured-data)
   * [Bookmarklets](#bookmarklets)
   * [Browser Extensions](#browser-extensions)
+  * [Jekyll Plugins](#jekyll-plugins)
+  * [TYPO3 Extensions](#typo3-extensions)
   * [WordPress Plugins](#wordpress-plugins)
 * [Books](#books)
 * [Courses](#courses)
@@ -156,7 +158,7 @@ search engines do not use this meta tag
 * **[Open Site Explorer](https://moz.com/researchtools/ose/):** use Open Site Explorer to identify link building opportunities. Research backlinks, identify top pages, view social activity, and analyze anchor text.
 * **[Piwik](https://piwik.org/):** an open analytics platform
 * **[SEMrush](https://www.semrush.com/):** SEMrush is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.
-* **[SEOstats ★1087](https://github.com/eyecatchup/SEOstats):** SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
+* **[SEOstats ★1099](https://github.com/eyecatchup/SEOstats):** SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
 * **[SimilarWeb](https://www.similarweb.com/):** compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.
 * **[Twitter Analytics](https://analytics.twitter.com/):** measure and boost your impact on Twitter.
 
@@ -167,7 +169,7 @@ search engines do not use this meta tag
 * **[WooRank](https://www.woorank.com/):** WooRank will help you to address issues on your site & identify opportunities to push you ahead of the competition.
 
 ### Keywords
-* **[AdWords Keyword Tool](https://adwords.google.com/KeywordPlanner):** plan your Search Network campaigns and learn what your customers are looking for
+* **[Keyword Planner](https://adwords.google.com/KeywordPlanner):** plan your Search Network campaigns and learn what your customers are looking for
 * **[Google Trends](https://www.google.com/trends/):** explore Google trending search topics with Google Trends.
 * **[Keyword Tool](http://keywordtool.io/):** best FREE alternative to Google Keyword Tool for SEO & PPC keyword research! Get 750+ relevant long-tail keywords from Google Suggest in seconds!
 * **[Rankscanner](https://www.rankscanner.com/):** easily track your keyword positions (SERPs) on Google for free. Unlimited websites and 100 % ranking accuracy. The best SEO tool and SERP monitor online.
@@ -190,6 +192,13 @@ search engines do not use this meta tag
 
 ### Browser Extensions
 * **[MozBar](https://moz.com/tools/seo-toolbar):** the SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain & Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!
+
+### Jekyll Plugins
+* **[Jekyll SEO Tag ★469](https://github.com/jekyll/jekyll-seo-tag):** A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
+
+### TYPO3 Extensions
+* **[Basic SEO Features](https://typo3.org/extensions/repository/view/seo_basics):** Adds a separate field for the title-tag per page, easy and SEO-friendly keywords and description editing in a new module as well as a flexible Google Sitemap.
+* **[Google sitemap](https://typo3.org/extensions/repository/view/dd_googlesitemap):** High performance Google sitemap implementation that avoids typical errors by other similar extensions.
 
 ### WordPress Plugins
 * **[All in One SEO Pack](https://wordpress.org/plugins/all-in-one-seo-pack/):** the most downloaded plugin for WordPress (almost 30 million downloads). Use All in One SEO Pack to automatically optimize your site for Search Engines

@@ -7,7 +7,7 @@ title: Awesome Rank for NoahBuscher/Inspire
 	This list is a copy of <a href="https://github.com/NoahBuscher/Inspire">NoahBuscher/Inspire</a> with ranks
 </p>
 ---
-Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 ===
 
 Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collction of links to help you. Enjoy!
@@ -61,7 +61,7 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 * [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
   * Themes
-    * [Flatron ★264 ⏳1Y](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
+    * [Flatron ★264 ⏳2Y](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
 * [Atom](https://atom.io) - A hackable text editor for the 21st century.
 * [FileZilla](https://filezilla-project.org) - For those who fear FTP in the terminal.
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.

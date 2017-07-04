@@ -7,7 +7,7 @@ title: Awesome Rank for vredniy/awesome-newsletters
 	This list is a copy of <a href="https://github.com/vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
 </p>
 ---
-# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
+# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
 
 A curated list of awesome newsletters.
 
@@ -135,7 +135,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 
 ### R
-* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub ★106](https://github.com/rweekly/rweekly.org).
+* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub ★109](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 * [Ruby Weekly](http://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
@@ -148,10 +148,10 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 
 ### PHP
 * [PHP Weekly](http://www.phpweekly.com/). A free once-a-week newsletter, featuring some great articles, news and blog posts.
-* [Laravel Weekly Newsletter](http://laravelweekly.com/). Laravel PHP framework.
 * [Laravel News](https://laravel-news.com/). Every week lots of tips, tutorials, and packages are released for Laravel.
 * [Awesome PHP Newsletter](https://php.libhunt.com/newsletter). A curated list of awesome PHP libraries and resources.
 * [murze.be newsletter](https://murze.be/newsletter/). A bi weekly newsletter on modern PHP and Laravel.
+* [Laravel Daily](http://laraveldaily.com/weekly-laravel-newsletter/) Weekly tips and tricks from Laravel community.
 
 ### Python
 * [Python Weekly](http://www.pythonweekly.com/). A free weekly newsletter featuring curated news, articles, new releases, jobs etc related to Python.
@@ -294,6 +294,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Crypto-Gram](https://www.schneier.com/crypto-gram/). A security-focused monthly newsletter curated by Bruce Schneier, one of the most famous security experts in the world.
 * [Now I Know](http://nowiknow.com/). A free, daily email offering trivia in a neat digest.
 * [The ListServe](http://thelistserve.com/). A free, unique "lottery" newsletter where every day a subscriber is picked whose email submission is sent to all of the other subscribers. Subject matter varies in both topic and quality.
+* [Engineering Impact](https://www.gitprime.com/engineering-impact). Weekly newsletter for managers of engineering teams covering leadership, culture, scaling, and software development productivity.
 
 # License
 

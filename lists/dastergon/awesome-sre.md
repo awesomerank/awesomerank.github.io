@@ -7,7 +7,7 @@ title: Awesome Rank for dastergon/awesome-sre
 	This list is a copy of <a href="https://github.com/dastergon/awesome-sre">dastergon/awesome-sre</a> with ranks
 </p>
 ---
-# Awesome Site Reliability Engineering  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Site Reliability Engineering  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [Site Reliability](https://www.usenix.org/conference/srecon14/technical-sessions/presentation/keys-sre) and [Production](https://www.usenix.org/conference/srecon15/program/presentation/canahuati) Engineering resources.
 
@@ -182,12 +182,12 @@ Contributions are always welcome!
 * [SysAdvent - Day 6 - No More On-Call Martyrs](https://sysadvent.blogspot.com/2016/12/day-6-no-more-on-call-martyrs.html)
 * [On Being On Call](http://naildrivin5.com/blog/2016/12/07/on-call.html)
 * [PagerDuty Incident Response](https://response.pagerduty.com/)
-* [The On-Call Handbook ★182](https://github.com/alicegoldfuss/oncall-handbook)
+* [The On-Call Handbook ★191](https://github.com/alicegoldfuss/oncall-handbook)
 * [Incident management at Google — adventures in SRE-land](https://cloudplatform.googleblog.com/2017/02/Incident-management-at-Google-adventures-in-SRE-land.html)
 * [How Spotify and GOV.UK handle on call, and more](https://blog.serverdensity.com/spotify-gov-uk-handle-on-call/)
 
 ## Post-Mortem
-* [A collection of post-mortems ★2985](https://github.com/danluu/post-mortems)
+* [A collection of post-mortems ★3026](https://github.com/danluu/post-mortems)
 * [Blameless PostMortems and a Just Culture](https://codeascraft.com/2012/05/22/blameless-postmortems/)
 * [A Tale of Postmortems](https://blog.box.com/blog/a-tale-of-postmortems/)
 * [Building a Blameless Post-Mortem Culture with Jason Hand](http://runasradio.com/Shows/Show/486)
@@ -198,7 +198,7 @@ Contributions are always welcome!
 * [Etsy’s Debriefing Facilitation Guide for Blameless Postmortems](https://codeascraft.com/2016/11/17/debriefing-facilitation-guide/)
 * [Writing Your First Postmortem](https://medium.com/production-ready/writing-your-first-postmortem-8053c678b90f)
 * [How to Write Great Outage Post-Mortems](https://artsy.github.io/blog/2014/11/19/how-to-write-great-outage-post-mortems/)
-* [A collection of postmortem templates ★1](https://github.com/dastergon/postmortem-templates)
+* [A collection of postmortem templates ★2](https://github.com/dastergon/postmortem-templates)
 
 ## Capacity Planning
 * [Capacity Planning](https://www.usenix.org/system/files/login/articles/login_feb15_07_hixson.pdf)
@@ -215,6 +215,8 @@ Contributions are always welcome!
 * [(Un)Reliability Budgets - Finding Balance between Innovation and Reliability](https://www.usenix.org/system/files/login/articles/login_aug15_06_roth.pdf)
 * [The Calculus of Service Availability](https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i)
 * [Availability Calculator: Calculate how much downtime should be permitted in your SLA](https://dastergon.github.io/availability-calculator/)
+* [Standardize cloud SLA availability with numerical performance data](https://www.ibm.com/developerworks/cloud/library/cl-SLAloadbalance-numanalysis/)
+* [Best practices to develop SLAs for cloud computing](https://www.ibm.com/developerworks/cloud/library/cl-slastandards/)
 
 ## Performance
 * [Performance Checklists for SREs](https://www.usenix.org/conference/srecon16/program/presentation/gregg)

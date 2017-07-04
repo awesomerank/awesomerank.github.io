@@ -9,9 +9,9 @@ title: Awesome Rank for raphamorim/awesome-canvas
 ---
 # Awesome Canvas
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python ★34408](https://github.com/vinta/awesome-python).
+A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python ★35497](https://github.com/vinta/awesome-python).
 
 ## Contributing
 
@@ -88,14 +88,14 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [ChemDoodle](http://web.chemdoodle.com/) is an open source chemistry and chem-informatics toolkit where canvas is being used to solve common chemistry related tasks, displaying the molecules in a variety of different ways.
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
 and also has SVG-to-canvas (and canvas-to-SVG) parser
-- [iio.js ★431](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
-- [Origami.js ★609](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
-- [Paper.js ★7850](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
+- [iio.js ★429](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
+- [Origami.js ★614](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
+- [Paper.js ★7963](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 - [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
     - [Overview](http://ejohn.org/blog/overview-of-processing/)
     - [91 basic demos](http://ejohn.org/apps/processing.js/examples/basic/)
-- [Sketch ★2626](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
+- [Sketch ★2674](https://github.com/soulwire/sketch.js) - Cross-Platform JavaScript Creative Coding Framework
 - [Three.js](http://threejs.org/) is a javascript library that makes WebGL - 3D in the browser, however you can [render using canvas instead of WebGL](http://threejs.org/docs/#Reference/Renderers/CanvasRenderer)
     - [Introduction](http://threejs.org/docs/#Manual/Introduction/Creating_a_scene)
     - [Some amazing examples](http://threejs.org/examples/)
@@ -103,7 +103,7 @@ and also has SVG-to-canvas (and canvas-to-SVG) parser
 
 
 ### For other purposes, but still use canvas
-- [React Canvas ★10069](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components.
+- [React Canvas ★10199](https://github.com/Flipboard/react-canvas) - High performance <canvas> rendering for React components.
 
 
 ## Resources
@@ -130,8 +130,8 @@ Where to discover more about Canvas.
 ### Twitter
 
 * [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js ★1775](https://github.com/jeresig/processing-js)
-* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js ★33048](https://github.com/mrdoob/three.js)
-* [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js ★2626](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
+* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js ★33727](https://github.com/mrdoob/three.js)
+* [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js ★2674](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
 * [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 * [@paul_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
 * [@end3r](https://twitter.com/end3r) - HTML5 game developer and EnclaveGames indie studio founder

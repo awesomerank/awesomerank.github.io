@@ -7,7 +7,7 @@ title: Awesome Rank for MunGell/awesome-for-beginners
 	This list is a copy of <a href="https://github.com/MunGell/awesome-for-beginners">MunGell/awesome-for-beginners</a> with ranks
 </p>
 ---
-# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome First PR Opportunities [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 A list of awesome beginners-friendly projects.
 
@@ -84,7 +84,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy) _(label: help-wanted-easy)_ <br> The Serverless Framework
 - [Hoodie Camp](https://github.com/hoodiehq/camp/labels/first-timers-only) _(label: first-timers-only)_ <br> Hoodie Camp is a space for new and existing contributors.
 - [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
-- [Yarn](https://github.com/yarnpkg/yarn/labels/good%20first%20bug) _(label: good first bug)_ <br> Fast, reliable, and secure dependency management.
+- [Yarn](https://github.com/yarnpkg/yarn/labels/good-first-contribution) _(label: good-first-contribution)_ <br> Fast, reliable, and secure dependency management.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy) _(label: Difficulty: Easy)_ <br> A 2D JavaScript Renderer
 - [Next.js](https://github.com/zeit/next.js/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> A minimalistic framework for universal server-rendered React applications
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task) _(label: good first task)_ <br> The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
@@ -127,7 +127,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [JRuby](https://github.com/jruby/jruby/labels/beginner) _(label: beginner)_ <br> An implementation of Ruby on the Java Virtual Machine.
 - [puppet-mcollective](https://github.com/puppet-community/puppet-mcollective/labels/beginner%20friendly) _(label: beginner friendly)_ <br> MCollective Server and Client Puppet Module.
 - [Sinatra](https://github.com/sinatra/sinatra/labels/your-first-pr) _(label: your-first-pr)_ <br> Classy web-development dressed in a DSL.
-- [Goby ★31](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
+- [Goby ★32](https://github.com/nskins/goby) _(label: beginner)_ <br> Framework for developing text-RPGs.
 - [Hanami](https://github.com/search?utf8=%E2%9C%93&q=user%3Ahanami+state%3Aopen+label%3Aeasy&type=Issues&ref=searchresults) _(label: easy)_ <br> A modern framework for Ruby.
 - [operationcode](https://github.com/OperationCode/operationcode/labels/beginner%20friendly) _(label: beginner friendly)_ <br>An open source community dedicated to getting military veterans coding._
 - [chef](https://github.com/chef/chef/labels/Type%3A%20Jump%20In) _(label: Type: Jump In)_ <br>A systems integration framework, built to bring the benefits of configuration management to your entire infrastructure
@@ -151,13 +151,9 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/Effort%3A%20Easy) _(label: Effort: Easy)_ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [Visual Studio Code](https://github.com/Microsoft/vscode/labels/beginner) _(label: beginner)_ a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
-## Want to create something new?
-
-If you are interested in creating something from scratch and looking for ideas check out requests for NPM modules here: [sindresorhus/module-requests](https://github.com/sindresorhus/module-requests/issues)
-
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](https://github.com/MunGell/awesome-for-beginners/blob/master/CONTRIBUTING.md) first.
+Contributions are welcome! See the [contribution guidelines](https://github.com/MunGell/awesome-for-beginners/blob/master/CONTRIBUTING.md).
 
 ## License
 

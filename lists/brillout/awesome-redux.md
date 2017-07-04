@@ -7,7 +7,7 @@ title: Awesome Rank for brillout/awesome-redux
 	This list is a copy of <a href="https://github.com/brillout/awesome-redux">brillout/awesome-redux</a> with ranks
 </p>
 ---
-# Redux Libraries & Learning Material [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Redux Libraries & Learning Material [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="110">](http://redux.js.org/)
 
@@ -37,32 +37,32 @@ title: Awesome Rank for brillout/awesome-redux
 *Aims to improve the overall structure of the source code. Makes reasoning about the code easier.*
 
  - [redux-schema ★131](https://github.com/ddsol/redux-schema) - Automatic actions, reducers and validation for Redux.
- - [redux-tcomb ★206](https://github.com/gcanti/redux-tcomb) - Immutable and type-checked state and actions for Redux.
+ - [redux-tcomb ★209](https://github.com/gcanti/redux-tcomb) - Immutable and type-checked state and actions for Redux.
  - [redux-action-tree](https://github.com/cerebral/redux-action-tree) - The Cerebral signals running with Redux.
  - [redux-elm](https://github.com/salsita/redux-elm) - The Elm Architecture in JavaScript.
 
 
 ## Utilities
 
- - [redux-orm ★1179](https://github.com/tommikaikkonen/redux-orm) - Small, simple and immutable ORM to manage relational data in your Redux store.
- - [redux-api-middleware ★817](https://github.com/agraboso/redux-api-middleware) - Redux middleware for calling an API.
- - [redux-ignore ★491](https://github.com/omnidan/redux-ignore) - Higher-order reducer to ignore Redux actions.
+ - [redux-orm ★1259](https://github.com/tommikaikkonen/redux-orm) - Small, simple and immutable ORM to manage relational data in your Redux store.
+ - [redux-api-middleware ★861](https://github.com/agraboso/redux-api-middleware) - Redux middleware for calling an API.
+ - [redux-ignore ★514](https://github.com/omnidan/redux-ignore) - Higher-order reducer to ignore Redux actions.
  - [redux-modifiers ★159 ⏳1Y](https://github.com/calvinfroedge/redux-modifiers) - Collection of generic functions for writing Redux reducers to operate on various data structures.
  - [rereduce ★161](https://github.com/slorber/rereduce) - Reducer library for Redux.
  - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
- - [redux-logger ★2106](https://github.com/evgenyrodionov/redux-logger) - Logger middleware for Redux.
- - [redux-immutable ★1062](https://github.com/gajus/redux-immutable) - Redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
- - [reselect ★7072](https://github.com/reactjs/reselect) - Selector library for Redux.
- - [redux-requests ★227 ⏳1Y](https://github.com/idolize/redux-requests) - Manages in-flight requests with a Redux reducer to avoid issuing duplicate requests.
- - [redux-undo ★1376](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers.
- - [redux-bug-reporter ★478](https://github.com/dtschust/redux-bug-reporter) - Bug reporter and bug playback tool for Redux.
- - [redux-transducers ★109 ⏳1Y](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
+ - [redux-logger ★2241](https://github.com/evgenyrodionov/redux-logger) - Logger middleware for Redux.
+ - [redux-immutable ★1121](https://github.com/gajus/redux-immutable) - Redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
+ - [reselect ★7526](https://github.com/reactjs/reselect) - Selector library for Redux.
+ - [redux-requests ★229 ⏳1Y](https://github.com/idolize/redux-requests) - Manages in-flight requests with a Redux reducer to avoid issuing duplicate requests.
+ - [redux-undo ★1430](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers.
+ - [redux-bug-reporter ★491](https://github.com/dtschust/redux-bug-reporter) - Bug reporter and bug playback tool for Redux.
+ - [redux-transducers ★113 ⏳1Y](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
 
 
 ### Store Persistence
 
- - [redux-storage ★604](https://github.com/michaelcontento/redux-storage) - Persistence layer for Redux with flexible backends.
- - [redux-persist ★2651](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a Redux store.
+ - [redux-storage ★610](https://github.com/michaelcontento/redux-storage) - Persistence layer for Redux with flexible backends.
+ - [redux-persist ★2950](https://github.com/rt2zz/redux-persist) - Persist and rehydrate a Redux store.
 
 
 ### Side Effects
@@ -70,65 +70,65 @@ title: Awesome Rank for brillout/awesome-redux
 *Side Effects / Asynchronous Actions*
 
  - [redux-saga](https://github.com/yelouafi/redux-saga) - Alternative side effect model for Redux apps.
- - [redux-promise-middleware ★928](https://github.com/pburtchaell/redux-promise-middleware) - Redux middleware for resolving and rejecting promises with conditional optimistic updates.
- - [redux-effects ★447](https://github.com/redux-effects/redux-effects) - You write pure functions, redux-effects handles the rest.
- - [redux-thunk ★5359](https://github.com/gaearon/redux-thunk) - Thunk middleware for Redux.
- - [redux-connect ★394](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router, extremely useful for handling server-side rendering in React.
- - [redux-loop ★1207](https://github.com/redux-loop/redux-loop) - Port of elm-effects and the Elm Architecture to Redux that allows you to sequence your effects naturally and purely by returning them from your reducers.
- - [redux-side-effects ★158](https://github.com/salsita/redux-side-effects) - Redux toolset for keeping all the side effects inside your reducers while maintaining their purity.
- - [redux-logic ★673](https://github.com/jeffbski/redux-logic) - Redux middleware for organizing business logic and action side effects.
- - [redux-observable ★2966](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;.
- - [redux-ship ★584](https://github.com/clarus/redux-ship) - Composable, testable and typable side effects.
+ - [redux-promise-middleware ★976](https://github.com/pburtchaell/redux-promise-middleware) - Redux middleware for resolving and rejecting promises with conditional optimistic updates.
+ - [redux-effects ★454](https://github.com/redux-effects/redux-effects) - You write pure functions, redux-effects handles the rest.
+ - [redux-thunk ★5682](https://github.com/gaearon/redux-thunk) - Thunk middleware for Redux.
+ - [redux-connect ★417](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router, extremely useful for handling server-side rendering in React.
+ - [redux-loop ★1253](https://github.com/redux-loop/redux-loop) - Port of elm-effects and the Elm Architecture to Redux that allows you to sequence your effects naturally and purely by returning them from your reducers.
+ - [redux-side-effects ★161](https://github.com/salsita/redux-side-effects) - Redux toolset for keeping all the side effects inside your reducers while maintaining their purity.
+ - [redux-logic ★720](https://github.com/jeffbski/redux-logic) - Redux middleware for organizing business logic and action side effects.
+ - [redux-observable ★3156](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;.
+ - [redux-ship ★587](https://github.com/clarus/redux-ship) - Composable, testable and typable side effects.
 
 
 ## Code Style
 
 *Aims to make parts of the source code easier to read/write.*
 
- - [redux-act ★751](https://github.com/pauldijou/redux-act) - Opinionated lib to create actions and reducers for Redux.
- - [redux-crud ★471](https://github.com/Versent/redux-crud) - Set of standard actions and reducers for Redux CRUD Applications.
+ - [redux-act ★785](https://github.com/pauldijou/redux-act) - Opinionated lib to create actions and reducers for Redux.
+ - [redux-crud ★484](https://github.com/Versent/redux-crud) - Set of standard actions and reducers for Redux CRUD Applications.
 
 
 ## Dev tools / Inspection tools
 
- - [redux-devtools-inspector ★225](https://github.com/alexkuz/redux-devtools-inspector) - Another Redux DevTools Monitor.
+ - [redux-devtools-inspector ★224](https://github.com/alexkuz/redux-devtools-inspector) - Another Redux DevTools Monitor.
  - [redux-diff-logger](https://github.com/fcomb/redux-diff-logger) - Diff logger between states for Redux.
- - [redux-devtools-chart-monitor ★231](https://github.com/romseguy/redux-devtools-chart-monitor) - Chart monitor for Redux DevTools.
- - [redux-devtools ★7644](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
+ - [redux-devtools-chart-monitor ★232](https://github.com/romseguy/redux-devtools-chart-monitor) - Chart monitor for Redux DevTools.
+ - [redux-devtools ★7875](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
  - [redux-devtools-dispatch ★133](https://github.com/YoruNoHikage/redux-devtools-dispatch) - Dispatch your actions manually to test if your app Reacts well.
- - [redux-devtools-dock-monitor ★299](https://github.com/gaearon/redux-devtools-dock-monitor) - Resizable and movable dock for Redux DevTools monitors.
+ - [redux-devtools-dock-monitor ★303](https://github.com/gaearon/redux-devtools-dock-monitor) - Resizable and movable dock for Redux DevTools monitors.
  - [redux-devtools-filterable-log-monitor ★125](https://github.com/bvaughn/redux-devtools-filterable-log-monitor) - Filterable tree view monitor for Redux DevTools.
- - [redux-devtools-log-monitor ★220](https://github.com/gaearon/redux-devtools-log-monitor) - The default monitor for Redux DevTools with a tree view.
- - [remote-redux-devtools ★901](https://github.com/zalmoxisus/remote-redux-devtools) - Redux DevTools remotely.
+ - [redux-devtools-log-monitor ★223](https://github.com/gaearon/redux-devtools-log-monitor) - The default monitor for Redux DevTools with a tree view.
+ - [remote-redux-devtools ★954](https://github.com/zalmoxisus/remote-redux-devtools) - Redux DevTools remotely.
 
 
 ## React Integration
 
- - [redux-test-recorder ★382](https://github.com/conorhastings/redux-test-recorder) - Redux middleware to automatically generate tests for reducers through ui interaction.
- - [react-redux ★7879](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
+ - [redux-test-recorder ★387](https://github.com/conorhastings/redux-test-recorder) - Redux middleware to automatically generate tests for reducers through ui interaction.
+ - [react-redux ★8323](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
  - [react-easy-universal ★209 ⏳1Y](https://github.com/keystonejs/react-easy-universal) - Universal Routing &amp; Rendering with React &amp; Redux was too hard. Now it&#39;s easy.
- - [redux-form-material-ui ★356](https://github.com/erikras/redux-form-material-ui) - Set of wrapper components to facilitate using Material UI with Redux Form.
+ - [redux-form-material-ui ★382](https://github.com/erikras/redux-form-material-ui) - Set of wrapper components to facilitate using Material UI with Redux Form.
 
 
 ### Routing
 
- - [redux-async-connect ★570](https://github.com/Rezonans/redux-async-connect) - It allows you to request async data, store them in Redux state and connect them to your React component.
- - [redux-tiny-router ★137 ⏳1Y](https://github.com/Agamennon/redux-tiny-router) - Router made for Redux and made for universal apps. Stop using the router as a controller, it's just state.
- - [redux-router ★2162](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
- - [react-router-redux ★6099](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and Redux in sync.
+ - [redux-async-connect ★578](https://github.com/Rezonans/redux-async-connect) - It allows you to request async data, store them in Redux state and connect them to your React component.
+ - [redux-tiny-router ★138 ⏳1Y](https://github.com/Agamennon/redux-tiny-router) - Router made for Redux and made for universal apps. Stop using the router as a controller, it's just state.
+ - [redux-router ★2180](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
+ - [react-router-redux ★6254](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and Redux in sync.
  - [ground-control ★269](https://github.com/raisemarketplace/ground-control) - Scalable reducer management &amp; powerful data fetching for React Router &amp; Redux.
 
 
 ### Forms
 
- - [redux-form ★6400](https://github.com/erikras/redux-form) - Higher Order Component using react-redux to keep form state in a Redux store.
- - [react-redux-form ★1301](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
+ - [redux-form ★6760](https://github.com/erikras/redux-form) - Higher Order Component using react-redux to keep form state in a Redux store.
+ - [react-redux-form ★1353](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
 
 
 ### Component State
 
- - [redux-react-local ★299](https://github.com/threepointone/redux-react-local) - Local component state via Redux.
- - [redux-ui ★445](https://github.com/tonyhb/redux-ui) - Easy UI state management for React Redux.
+ - [redux-react-local ★303](https://github.com/threepointone/redux-react-local) - Local component state via Redux.
+ - [redux-ui ★479](https://github.com/tonyhb/redux-ui) - Easy UI state management for React Redux.
 
 
 ## Other Integrations
@@ -136,13 +136,13 @@ title: Awesome Rank for brillout/awesome-redux
 
 ### Flux
 
- - [redux-actions ★3340](https://github.com/acdlite/redux-actions) - Flux Standard Action utilities for Redux.
- - [redux-promise ★1592](https://github.com/acdlite/redux-promise) - FSA-compliant promise middleware for Redux.
+ - [redux-actions ★3526](https://github.com/acdlite/redux-actions) - Flux Standard Action utilities for Redux.
+ - [redux-promise ★1651](https://github.com/acdlite/redux-promise) - FSA-compliant promise middleware for Redux.
 
 
 ### Backbone
 
- - [backbone-redux ★152](https://github.com/redbooth/backbone-redux) - Easy way to keep your backbone collections and Redux store in sync.
+ - [backbone-redux ★155](https://github.com/redbooth/backbone-redux) - Easy way to keep your backbone collections and Redux store in sync.
 
 
 ### Falcor
@@ -152,15 +152,15 @@ title: Awesome Rank for brillout/awesome-redux
 
 ### RxJS
 
- - [redux-observable ★2966](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;.
- - [rx-redux ★266 ⏳1Y](https://github.com/jas-chen/rx-redux) - Reimplementation of Redux using RxJS.
- - [redux-rx ★879 ⏳1Y](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
- - [redurx ★93](https://github.com/shiftyp/redurx) - Redux&#39;ish Functional State Management using RxJS.
+ - [redux-observable ★3156](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;.
+ - [rx-redux ★274 ⏳1Y](https://github.com/jas-chen/rx-redux) - Reimplementation of Redux using RxJS.
+ - [redux-rx ★895 ⏳1Y](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
+ - [redurx ★96](https://github.com/shiftyp/redurx) - Redux&#39;ish Functional State Management using RxJS.
 
 
 ### Electron
 
- - [redux-electron-store ★249](https://github.com/samiskin/redux-electron-store) - Redux store enhancer that allows automatic synchronization between electron processes.
+ - [redux-electron-store ★255](https://github.com/samiskin/redux-electron-store) - Redux store enhancer that allows automatic synchronization between electron processes.
 
 
 ### Deku
@@ -171,26 +171,26 @@ title: Awesome Rank for brillout/awesome-redux
 ### Other
 
  - [redux-rollbar-middleware ★34](https://github.com/netguru/redux-rollbar-middleware) - Redux middleware that wraps exceptions in actions and sends them to Rollbar with current state.
- - [kasia ★179](https://github.com/outlandishideas/kasia) - React Redux toolset for the WordPress API.
+ - [kasia ★182](https://github.com/outlandishideas/kasia) - React Redux toolset for the WordPress API.
 
 
 ## Boilerplate
 
 *Boilerplates /  Scaffolds / Starter Kits / Generators / Stack Ensembles*
 
- - [redux-cli ★756](https://github.com/SpencerCDixon/redux-cli) - Opinionated CLI for building Redux/React apps quicker.
- - [reactuate ★497](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
- - [react-chrome-extension-boilerplate ★630](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project.
- - [universal-redux ★471](https://github.com/bdefore/universal-redux) - Npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
- - [generator-react-aspnet-boilerplate ★237](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
- - [generator-redux ★250 ⏳1Y](https://github.com/banderson/generator-redux) - CLI tools for Redux: next-gen functional Flux/React with devtools.
- - [generator-react-webpack-redux ★493](https://github.com/stylesuxx/generator-react-webpack-redux) - React Webpack Generator including Redux support.
- - [socrates ★522](https://github.com/matthewmueller/socrates) - Small (8kb), batteries-included Redux store to reduce boilerplate and promote good habits.
+ - [redux-cli ★773](https://github.com/SpencerCDixon/redux-cli) - Opinionated CLI for building Redux/React apps quicker.
+ - [reactuate ★495](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
+ - [react-chrome-extension-boilerplate ★662](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project.
+ - [universal-redux ★474](https://github.com/bdefore/universal-redux) - Npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
+ - [generator-react-aspnet-boilerplate ★242](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
+ - [generator-redux ★249 ⏳1Y](https://github.com/banderson/generator-redux) - CLI tools for Redux: next-gen functional Flux/React with devtools.
+ - [generator-react-webpack-redux ★501](https://github.com/stylesuxx/generator-react-webpack-redux) - React Webpack Generator including Redux support.
+ - [socrates ★524](https://github.com/matthewmueller/socrates) - Small (8kb), batteries-included Redux store to reduce boilerplate and promote good habits.
 
 
 ## Miscellaneous
 
- - [redux-core ★40 ⏳1Y](https://github.com/jas-chen/redux-core) - Minimal Redux.
+ - [redux-core ★41 ⏳1Y](https://github.com/jas-chen/redux-core) - Minimal Redux.
 
 
 ## Learning Material
@@ -205,7 +205,7 @@ title: Awesome Rank for brillout/awesome-redux
 
  - **Side Effects**
 
-    [Redux Loop's readme ★1207](https://github.com/redux-loop/redux-loop) gives a good insight on Side Effects in the context of Redux.
+    [Redux Loop's readme ★1253](https://github.com/redux-loop/redux-loop) gives a good insight on Side Effects in the context of Redux.
 
 Reading the aforementioned material will get you a good start for writing apps with Redux.
 If you are curious for more, check out following resources.

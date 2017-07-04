@@ -7,7 +7,7 @@ title: Awesome Rank for vhpoet/awesome-ripple
 	This list is a copy of <a href="https://github.com/vhpoet/awesome-ripple">vhpoet/awesome-ripple</a> with ranks
 </p>
 ---
-# Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 > A curated list of Ripple resources.
 
@@ -58,21 +58,21 @@ Pull requests are more then welcome.
 
 #### Code
 ###### Rippled - The Guy!
-- [rippled ★1349](https://github.com/ripple/rippled): Ripple peer-to-peer network daemon
+- [rippled ★1424](https://github.com/ripple/rippled): Ripple peer-to-peer network daemon
 
 ###### Libs - Libraries for talking to the Ripple API
-- [ripple-rest ★61 ⏳1Y](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
-- [ripple-lib ★443](https://github.com/ripple/ripple-lib): Java Script
-- [ripple-lib-java ★67](https://github.com/ripple/ripple-lib-java): Java
+- [ripple-rest ★62 ⏳1Y](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
+- [ripple-lib ★456](https://github.com/ripple/ripple-lib): Java Script
+- [ripple-lib-java ★70](https://github.com/ripple/ripple-lib-java): Java
 - [ripple-lib-ruby ★4 ⏳3Y](https://github.com/kevinejohn/ripple-lib-rpc-ruby): Ruby
-- [ripple-python ★17](https://github.com/miracle2k/ripple-python): Python Lib
+- [ripple-python ★20](https://github.com/miracle2k/ripple-python): Python Lib
 - [ripple-haskell ★1 ⏳2Y](https://github.com/singpolyma/ripple-haskell): Haskell
-- [rubblelabs/ripple ★23](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
+- [rubblelabs/ripple ★25](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
 
 ###### Clients / Apps
-- [ripple-client ★1257](https://github.com/ripple/ripple-client): Web client
-- [ripple-client-desktop ★47](https://github.com/ripple/ripple-client-desktop): Desktop client
-- [ripple-client-ios ★29 ⏳3Y](https://github.com/ripple-unmaintained/ripple-client-ios): iOS client
+- [ripple-client ★1265](https://github.com/ripple/ripple-client): Web client
+- [ripple-client-desktop ★52](https://github.com/ripple/ripple-client-desktop): Desktop client
+- [ripple-client-ios ★30 ⏳3Y](https://github.com/ripple-unmaintained/ripple-client-ios): iOS client
 - [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
 - [ripple-graph ★21 ⏳2Y](https://github.com/ripple-unmaintained/ripple-graph): Ripple graph
 - [Ripple Go](https://bitbucket.org/dchapes/ripple/): Ripple Go is a set of Go packages and a ripple client.
@@ -82,8 +82,8 @@ Pull requests are more then welcome.
 - [gatewayd](https://github.com/ripple/gatewayd): Ripple gateway software automation framework
 - [ripple-blobvault ★32 ⏳1Y](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
 - [ripple-authd ★6 ⏳2Y](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
-- [rippled-historical-database ★25](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
-- [ripple-data-api ★40 ⏳1Y](https://github.com/ripple/ripple-data-api)
+- [rippled-historical-database ★28](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
+- [ripple-data-api ★44 ⏳1Y](https://github.com/ripple/ripple-data-api)
 - [ripple-vault-client](ripple-vault-client)
 - [federation-php ★9 ⏳3Y](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
 - [federation-python ★2 ⏳3Y](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.

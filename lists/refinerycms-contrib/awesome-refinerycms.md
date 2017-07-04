@@ -7,13 +7,13 @@ title: Awesome Rank for refinerycms-contrib/awesome-refinerycms
 	This list is a copy of <a href="https://github.com/refinerycms-contrib/awesome-refinerycms">refinerycms-contrib/awesome-refinerycms</a> with ranks
 </p>
 ---
-# Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+# Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, resources and shiny things.
 
 ## Frontoffice extensions
 * [refinerycms-copywriting ★54 ⏳1Y](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite
-* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch ★1207](https://github.com/elastic/elasticsearch-ruby)
+* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch ★1228](https://github.com/elastic/elasticsearch-ruby)
 * [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows
 * [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications
 * [refinerycms-products ★6](https://github.com/bisscomm/refinerycms-products) - Display products
@@ -31,12 +31,12 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [refinerycms-tinymce ★3](https://github.com/ghoppe/refinerycms-tinymce) - TinyMCE Visual Editing
 
 
-## [Solidus e-commerce ★1382](https://github.com/solidusio/solidus) + Refinery extensions
+## [Solidus e-commerce ★1443](https://github.com/solidusio/solidus) + Refinery extensions
 * [solidus-refinery-authentication ★6 ⏳1Y](https://github.com/refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery
 
-## [Spree e-commerce ★8425](https://github.com/spree/spree) + Refinery extensions
+## [Spree e-commerce ★8506](https://github.com/spree/spree) + Refinery extensions
 * [spree_refinery_resources ★1 ⏳1Y](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product
-* [spree-refinery-authentication ★7 ⏳1Y](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery
+* [spree-refinery-authentication ★8 ⏳1Y](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery
 
 ## Refinery team extensions
 
@@ -47,7 +47,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [Resources](https://github.com/refinery/refinerycms/tree/master/resources)
 
 ### Frontoffice extensions
-* [refinerycms-authentication-devise ★3](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication
+* [refinerycms-authentication-devise ★4](https://github.com/refinery/refinerycms-authentication-devise) - Devise based authentication
 * [refinerycms-blog](https://github.com/refinery/refinerycms-blog) - Blog (more features than [refinerycms-news ★124](https://github.com/refinery/refinerycms-news))
 * [refinerycms-inquiries ★106](https://github.com/refinery/refinerycms-inquiries) - Send contact forms
 * [refinerycms-news ★124](https://github.com/refinery/refinerycms-news) - Basic display of news

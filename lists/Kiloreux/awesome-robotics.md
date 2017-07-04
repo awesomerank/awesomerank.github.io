@@ -10,7 +10,7 @@ title: Awesome Rank for Kiloreux/awesome-robotics
 Awesome Robotics
 ================
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
 
 This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -179,14 +179,14 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 
 
 ### Related awesome lists ###
-* [Awesome Artificial Intelligence ★2510](https://github.com/owainlewis/awesome-artificial-intelligence)
-* [Awesome Computer Vision ★2593](https://github.com/jbhuang0604/awesome-computer-vision)
-* [Awesome Machine Learning ★22923](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Deep Learning ★4627](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Vision ★4285](https://github.com/kjw0612/awesome-deep-vision)
-* [Awesome Reinforcement Learning ★1260](https://github.com/aikorea/awesome-rl)
-* [Awesome Robotics ★3](https://github.com/ahundt/awesome-robotics)
-* [Awesome Robotics Libraries ★68](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome Artificial Intelligence ★2633](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [Awesome Computer Vision ★2740](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Machine Learning ★23868](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Deep Learning ★4859](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Deep Vision ★4602](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Reinforcement Learning ★1389](https://github.com/aikorea/awesome-rl)
+* [Awesome Robotics ★4](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries ★81](https://github.com/jslee02/awesome-robotics-libraries)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/Kiloreux/awesome-robotics">Kiloreux/awesome-robotics</a> with ranks
