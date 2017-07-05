@@ -7,7 +7,7 @@ title: Awesome Rank for aframevr/awesome-aframe
 	This list is a copy of <a href="https://github.com/aframevr/awesome-aframe">aframevr/awesome-aframe</a> with ranks
 </p>
 ---
-# awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A collection of awesome resources for the [A-Frame](https://aframe.io) WebVR
 framework.

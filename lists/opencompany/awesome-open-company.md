@@ -7,9 +7,9 @@ title: Awesome Rank for opencompany/awesome-open-company
 	This list is a copy of <a href="https://github.com/opencompany/awesome-open-company">opencompany/awesome-open-company</a> with ranks
 </p>
 ---
-# Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 A community-curated list of awesome [open companies](#what-is-an-open-company),
-inspired by the many [awesome-x lists ★60916](https://github.com/sindresorhus/awesome) out there.
+inspired by the many [awesome-x lists ★61331](https://github.com/sindresorhus/awesome) out there.
 
 (**[click here](#companies)** to jump straight to the list below.)
 

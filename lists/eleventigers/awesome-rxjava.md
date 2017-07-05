@@ -7,13 +7,13 @@ title: Awesome Rank for eleventigers/awesome-rxjava
 	This list is a copy of <a href="https://github.com/eleventigers/awesome-rxjava">eleventigers/awesome-rxjava</a> with ranks
 </p>
 ---
-# Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
 > Useful resources for working with [RxJava ★25351](https://github.com/ReactiveX/RxJava)
 
-*Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list thing.*
+*Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list thing.*
 
 ## Bindings
 

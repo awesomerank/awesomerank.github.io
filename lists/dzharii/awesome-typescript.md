@@ -11,7 +11,7 @@ title: Awesome Rank for dzharii/awesome-typescript
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch ★910](https://github.com/dzharii/awesome-elasticsearch) →
 
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) lists.
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) lists.
 
 ## Contributing
 

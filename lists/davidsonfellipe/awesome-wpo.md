@@ -7,7 +7,7 @@ title: Awesome Rank for davidsonfellipe/awesome-wpo
 	This list is a copy of <a href="https://github.com/davidsonfellipe/awesome-wpo">davidsonfellipe/awesome-wpo</a> with ranks
 </p>
 ---
-# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
 
 A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -462,7 +462,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 # Other Awesome Lists
 
 * [bayandin/awesome-awesomeness ★19141](https://github.com/bayandin/awesome-awesomeness).
-* [sindresorhus/awesome ★60916](https://github.com/sindresorhus/awesome).
+* [sindresorhus/awesome ★61331](https://github.com/sindresorhus/awesome).
 
 
 # Contributing

@@ -7,7 +7,7 @@ title: Awesome Rank for mark-rushakoff/awesome-influxdb
 	This list is a copy of <a href="https://github.com/mark-rushakoff/awesome-influxdb">mark-rushakoff/awesome-influxdb</a> with ranks
 </p>
 ---
-# awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome projects, libraries, tools, etc. related to [InfluxDB](https://www.influxdata.com/).
 This list focuses on libraries, tools, etc. supporting InfluxDB version 1.0 and up.
@@ -197,7 +197,7 @@ Projects that don't seem to fit in any other category.
 
 ### Lists of awesome lists that include awesome-influxdb
 
-* [awesome ★60916](https://github.com/sindresorhus/awesome)
+* [awesome ★61331](https://github.com/sindresorhus/awesome)
 * [lists ★4370](https://github.com/jnv/lists)
 
 ## License

@@ -7,7 +7,7 @@ title: Awesome Rank for brabadu/awesome-fonts
 	This list is a copy of <a href="https://github.com/brabadu/awesome-fonts">brabadu/awesome-fonts</a> with ranks
 </p>
 ---
-# Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 A curated list of fonts and typography resources.
 
 ## Contents

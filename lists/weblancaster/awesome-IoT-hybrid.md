@@ -7,7 +7,7 @@ title: Awesome Rank for weblancaster/awesome-IoT-hybrid
 	This list is a copy of <a href="https://github.com/weblancaster/awesome-IoT-hybrid">weblancaster/awesome-IoT-hybrid</a> with ranks
 </p>
 ---
-# Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 

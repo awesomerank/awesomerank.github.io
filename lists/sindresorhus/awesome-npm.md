@@ -7,11 +7,11 @@ title: Awesome Rank for sindresorhus/awesome-npm
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-npm">sindresorhus/awesome-npm</a> with ranks
 </p>
 ---
-# awesome npm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
+# awesome npm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
-You might also like [awesome-nodejs ★17657](https://github.com/sindresorhus/awesome-nodejs).
+You might also like [awesome-nodejs ★17764](https://github.com/sindresorhus/awesome-nodejs).
 
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-npm/blob/master/contributing.md) before contributing.*
 
@@ -81,7 +81,7 @@ You might also like [awesome-nodejs ★17657](https://github.com/sindresorhus/aw
 
 ### Publishing
 
-- [np ★2242](https://github.com/sindresorhus/np) - A better `npm publish`.
+- [np ★2251](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [publish-please ★708](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 - [pkgfiles ★49](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.

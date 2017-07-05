@@ -7,7 +7,7 @@ title: Awesome Rank for ciandcd/awesome-ciandcd
 	This list is a copy of <a href="https://github.com/ciandcd/awesome-ciandcd">ciandcd/awesome-ciandcd</a> with ranks
 </p>
 ---
-# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
 
@@ -277,7 +277,7 @@ Conference and submit
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
-* [awesome ★60916](https://github.com/sindresorhus/awesome)  
+* [awesome ★61331](https://github.com/sindresorhus/awesome)  
 * [awesome-awesome ★837](https://github.com/emijrp/awesome-awesome)  
 * [awesome-awesomeness ★19141](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin ★5](https://github.com/itech001/awesome-sysadmin)  

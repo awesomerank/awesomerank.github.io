@@ -7,7 +7,7 @@ title: Awesome Rank for therebelrobot/awesome-workshopper
 	This list is a copy of <a href="https://github.com/therebelrobot/awesome-workshopper">therebelrobot/awesome-workshopper</a> with ranks
 </p>
 ---
-# awesome-workshopper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# awesome-workshopper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 *alternatively, awesome-adventure*
 
 A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode ★4679](https://github.com/workshopper/learnyounode):

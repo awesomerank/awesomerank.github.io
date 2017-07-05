@@ -7,7 +7,7 @@ title: Awesome Rank for RichardLitt/endangered-languages
 	This list is a copy of <a href="https://github.com/RichardLitt/endangered-languages">RichardLitt/endangered-languages</a> with ranks
 </p>
 ---
-Endangered Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+Endangered Languages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 ====================
 
 There is no centralised list of open-source code that would be useful for documenting, conserving, developing, preserving, or working with endangered languages. According to some estimates, half of the 7,000~ currently spoken languages are expected to become extinct this century ([Wikipedia](https://en.wikipedia.org/wiki/Language_preservation)). However, there is a lot of work by academics, independent scholars, organizations, communities, and individuals which goes towards stopping or slowing this trend. This list is intended to provide a central location to document those efforts.
@@ -30,7 +30,7 @@ In general, please link directly to the resource or to the page describing the r
 
 **Open Source** "promotes a universal access via a free license to a product's design or blueprint, and universal redistribution of that design or blueprint, including subsequent improvements to it by anyone." ([Wiki](https://en.wikipedia.org/wiki/Open_source)). This is important because money and resources allocated towards a language or project that are not open source is spent at the expense of possible extensibility elsewhere.
 
-Looking for resources for code languages? Take a look at [the awesome collection of other awesome lists ★60916](https://github.com/sindresorhus/awesome).
+Looking for resources for code languages? Take a look at [the awesome collection of other awesome lists ★61331](https://github.com/sindresorhus/awesome).
 
 # Table of Contents
 

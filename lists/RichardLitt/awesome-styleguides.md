@@ -7,7 +7,7 @@ title: Awesome Rank for RichardLitt/awesome-styleguides
 	This list is a copy of <a href="https://github.com/RichardLitt/awesome-styleguides">RichardLitt/awesome-styleguides</a> with ranks
 </p>
 ---
-awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 ===================
 
 _:clipboard: A list of styleguides_
@@ -60,7 +60,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 
 # Other Styleguide Lists
-* [Brand Style Guides](http://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@Saijo_George](https://twitter.com/Saijo_George).
+* [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@SaijoGeorge](https://twitter.com/SaijoGeorge).
 * [Narkoz ★1299](https://github.com/narkoz/guides)
 * [paulmillr ★163 ⏳3Y](https://github.com/paulmillr/code-style-guides)
 * [SalGnt ★1423 ⏳1Y](https://github.com/SalGnt/cscs)

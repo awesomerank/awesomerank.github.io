@@ -7,7 +7,7 @@ title: Awesome Rank for monostable/awesome-electronics
 	This list is a copy of <a href="https://github.com/monostable/awesome-electronics">monostable/awesome-electronics</a> with ranks
 </p>
 ---
-# Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for electronic engineers and hobbyists
 

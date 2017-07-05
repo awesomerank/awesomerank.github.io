@@ -7,7 +7,7 @@ title: Awesome Rank for YerkoPalma/awesome-choo
 	This list is a copy of <a href="https://github.com/YerkoPalma/awesome-choo">YerkoPalma/awesome-choo</a> with ranks
 </p>
 ---
-# Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
+# Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
 
 > [choo](https://choo.io/) is a `5kb` framework for creating
 > sturdy frontend applications

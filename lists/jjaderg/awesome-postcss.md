@@ -11,7 +11,7 @@ title: Awesome Rank for jjaderg/awesome-postcss
 
 > A tool for transforming CSS with JavaScript
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
  
 *An awesome list of plugins, articles, resources and other things related to PostCSS.*
@@ -50,7 +50,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 *Features to stay current*
 
 - [Twitter](https://twitter.com/PostCSS) 
-- [Guitter](https://gitter.im/postcss/postcss)
+- [Gitter](https://gitter.im/postcss/postcss)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
 - [Vkontakte](https://m.vk.com/postcss)
 

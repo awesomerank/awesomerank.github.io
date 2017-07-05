@@ -7,10 +7,10 @@ title: Awesome Rank for diasdavid/awesome-hacking-spots
 	This list is a copy of <a href="https://github.com/diasdavid/awesome-hacking-spots">diasdavid/awesome-hacking-spots</a> with ranks
 </p>
 ---
-Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 ===============================
 
-> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★60916](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★61331](https://github.com/sindresorhus/awesome) thing.
 
 ## Index
 

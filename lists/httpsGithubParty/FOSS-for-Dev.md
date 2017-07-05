@@ -7,7 +7,7 @@ title: Awesome Rank for httpsGithubParty/FOSS-for-Dev
 	This list is a copy of <a href="https://github.com/httpsGithubParty/FOSS-for-Dev">httpsGithubParty/FOSS-for-Dev</a> with ranks
 </p>
 ---
-# FOSS-for-Dev  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# FOSS-for-Dev  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 A list of Free and open-source software for developers
 
  
@@ -17,7 +17,7 @@ Feel free to send a PR :)
 
 [free-for-dev-zh ★660 ⏳1Y](https://github.com/qinghuaiorg/free-for-dev-zh) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to Chinese devops and infradev
 
-[awesome ★60916](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
+[awesome ★61331](https://github.com/sindresorhus/awesome) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 
 
 # Contents
@@ -43,7 +43,7 @@ Feel free to send a PR :)
 ## IDE 
 
  * [Coding WebIDE ★640](https://github.com/Coding/WebIDE) - The Coding WebIDE Community Edition project
- * [CodeBox ★3749 ⏳1Y](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
+ * [CodeBox ★3749 ⏳2Y](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 
 
 ## Collaboration Tools

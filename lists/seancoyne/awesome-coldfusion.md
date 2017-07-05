@@ -7,7 +7,7 @@ title: Awesome Rank for seancoyne/awesome-coldfusion
 	This list is a copy of <a href="https://github.com/seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks
 </p>
 ---
-# Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript ★9648](https://github.com/sorrycc/awesome-javascript).
 

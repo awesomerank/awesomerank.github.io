@@ -9,11 +9,11 @@ title: Awesome Rank for ramnes/awesome-mongodb
 ---
 ![Awesome MongoDB](https://github.com/ramnes/awesome-mongodb/blob/master/logo.png)
 
-# Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
-Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
+Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
 
 ## Table of Contents
  - [Resources](#resources)

@@ -390,7 +390,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 ## Looking for more lists like this?
 
 * Awesome lists:
-    * [awesome ★60916](https://github.com/sindresorhus/awesome) - Awesome lists
+    * [awesome ★61331](https://github.com/sindresorhus/awesome) - Awesome lists
     * [awesome-all ★87](https://github.com/bradoyler/awesome-all) - Awesome lists
     * [emijrp/awesome-awesome ★837](https://github.com/emijrp/awesome-awesome) - Awesome lists
     * [erichs/awesome-awesome ★116](https://github.com/erichs/awesome-awesome) - Awesome lists

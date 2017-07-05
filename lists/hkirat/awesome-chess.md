@@ -7,11 +7,11 @@ title: Awesome Rank for hkirat/awesome-chess
 	This list is a copy of <a href="https://github.com/hkirat/awesome-chess">hkirat/awesome-chess</a> with ranks
 </p>
 ---
-# Awesome Chess [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Chess [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A curated list of assets availible on the Internet related to chess.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might want to read the complete [awesome ★60916](https://github.com/sindresorhus/awesome) list.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might want to read the complete [awesome ★61331](https://github.com/sindresorhus/awesome) list.*
 
 ### Contributing
 Kindly go through [Contribution Guidelines](https://github.com/hkirat/awesome-chess/blob/master/CONTRIBUTING.md#contribution-guidelines) first.

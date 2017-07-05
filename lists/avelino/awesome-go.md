@@ -7,7 +7,7 @@ title: Awesome Rank for avelino/awesome-go
 	This list is a copy of <a href="https://github.com/avelino/awesome-go">avelino/awesome-go</a> with ranks
 </p>
 ---
-# Awesome Go [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/avelino/awesome-go](https://badges.gitter.im/avelino/awesome-go.svg)](https://gitter.im/avelino/awesome-go?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+# Awesome Go [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/avelino/awesome-go](https://badges.gitter.im/avelino/awesome-go.svg)](https://gitter.im/avelino/awesome-go?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python ★35497](https://github.com/vinta/awesome-python).
 
@@ -594,7 +594,7 @@ See [go-hardware ★520 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 *Libraries for programming devices of the IoT.*
 
 * [connectordb ★68](https://github.com/connectordb/connectordb) - An Open-Source Platform for Quantified Self & IoT.
-* [devices ★185](https://github.com/goiot/devices) - Suite of libraries for IoT devices, experimental for x/exp/io.
+* [devices ★185 ⏳1Y](https://github.com/goiot/devices) - Suite of libraries for IoT devices, experimental for x/exp/io.
 * [eywa ★7](https://github.com/xcodersun/eywa) - Project Eywa is essentially a connection manager that keeps track of connected devices.
 * [flogo ★227](https://github.com/tibcosoftware/flogo) - Project Flogo is an Open Source Framework for IoT Edge Apps & Integration.
 * [gatt ★504](https://github.com/paypal/gatt) - Gatt is a Go package for building Bluetooth Low Energy peripherals.
@@ -1349,7 +1349,7 @@ See [go-hardware ★520 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [alien ★76](https://github.com/gernest/alien) - A lightweight and fast http router from outer space
 * [Bone ★1033](https://github.com/go-zoo/bone) - Lightning Fast HTTP Multiplexer.
 * [Bxog ★73](https://github.com/claygod/Bxog) - Simple and fast HTTP router for Go. It works with routes of varying difficulty, length and nesting. And he knows how to create a URL from the received parameters.
-* [chi](https://github.com/pressly/chi) - Small, fast and expressive HTTP router built on net/context.
+* [chi ★2145](https://github.com/go-chi/chi) - Small, fast and expressive HTTP router built on net/context.
 * [fasthttprouter ★327](https://github.com/buaazp/fasthttprouter) - A high performance router forked from `httprouter`. The first router fit for `fasthttp`.
 * [gocraft/web ★1217](https://github.com/gocraft/web) - A mux and middleware package in Go.
 * [Goji ★482](https://github.com/goji/goji) - Goji is a minimalistic and flexible HTTP request multiplexer with support for `net/context`.

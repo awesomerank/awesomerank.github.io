@@ -7,7 +7,7 @@ title: Awesome Rank for sjfricke/awesome-webgl
 	This list is a copy of <a href="https://github.com/sjfricke/awesome-webgl">sjfricke/awesome-webgl</a> with ranks
 </p>
 ---
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -215,6 +215,7 @@ Processing Unit (GPU).
 * [WebVR Public Mailing List](https://lists.w3.org/Archives/Public/public-webvr/)
 
 ### References
+* [WebVR Spec](https://w3c.github.io/webvr/)
 
 ## Libraries
 
@@ -262,7 +263,7 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome ★60916](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+* [awesome ★61331](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 * [awesome-computer-vision ★2740](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 * [awesome-opengl ★541](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [awesome-vulkan ★546](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.

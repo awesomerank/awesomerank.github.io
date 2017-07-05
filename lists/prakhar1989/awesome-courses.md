@@ -7,7 +7,7 @@ title: Awesome Rank for prakhar1989/awesome-courses
 	This list is a copy of <a href="https://github.com/prakhar1989/awesome-courses">prakhar1989/awesome-courses</a> with ranks
 </p>
 ---
-# Awesome Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Courses [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 
 Introduction

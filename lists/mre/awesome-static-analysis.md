@@ -151,7 +151,7 @@ This is a collection of static analysis tools and code quality checkers.
 * [Prettier ★12135](https://github.com/prettier/prettier) - An opinionated code formatter.
 * [quality](https://github.com/jden/quality) - zero configuration code and module linting
 * [standard](http://standardjs.com/) - An npm module that checks for Javascript Styleguide issues
-* [XO ★2715](https://github.com/sindresorhus/xo) - Enforce strict code style. Never discuss code style on a pull request again!
+* [XO ★2726](https://github.com/sindresorhus/xo) - Enforce strict code style. Never discuss code style on a pull request again!
 * [yardstick ★23](https://github.com/calmh/yardstick) - Javascript code metrics
 
 ## Kotlin

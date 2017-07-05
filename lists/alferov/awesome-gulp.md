@@ -7,11 +7,11 @@ title: Awesome Rank for alferov/awesome-gulp
 	This list is a copy of <a href="https://github.com/alferov/awesome-gulp">alferov/awesome-gulp</a> with ranks
 </p>
 ---
-# Awesome Gulp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Gulp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome [gulp ★26688](https://github.com/gulpjs/gulp) resources, plugins, and boilerplates for a better development workflow automation.
 
-*Looking for something else? Take a look at other [awesome lists ★60916](https://github.com/sindresorhus/awesome).*
+*Looking for something else? Take a look at other [awesome lists ★61331](https://github.com/sindresorhus/awesome).*
 
 ## Contribution
 :octocat: All contributions welcome. Feel free to contribute ([guidelines](https://github.com/alferov/awesome-gulp/blob/master/contributing.md)).
@@ -134,7 +134,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-coffee](https://github.com/contra/gulp-coffee) - [Coffeescript ★14056](https://github.com/jashkenas/coffeescript) → JavaScript.
 * [gulp-typescript](https://github.com/ivogabe/gulp-typescript) - [TypeScript ★23454](https://github.com/Microsoft/TypeScript) → JavaScript.
 * [gulp-react](https://github.com/sindresorhus/gulp-react) - Facebook [React ★70065](https://github.com/facebook/react) JSX templates → JavaScript.
-* [webpack-stream](https://github.com/shama/webpack-stream) - Run [webpack ★29591](https://github.com/webpack/webpack) as a stream to conveniently integrate with gulp.
+* [webpack-stream](https://github.com/shama/webpack-stream) - Run [webpack ★29663](https://github.com/webpack/webpack) as a stream to conveniently integrate with gulp.
 
 ### Transpilation
 * [gulp-babel](https://github.com/babel/gulp-babel) - ES6 → ES5 with [babel ★21553](https://github.com/babel/babel).

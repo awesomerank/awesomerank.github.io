@@ -7,11 +7,11 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 	This list is a copy of <a href="https://github.com/parro-it/awesome-micro-npm-packages">parro-it/awesome-micro-npm-packages</a> with ranks
 </p>
 ---
-# Awesome Micro npm Packages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Micro npm Packages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list thing.*
+*Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list thing.*
 
 
 ## Articles
@@ -179,8 +179,8 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs ★17657](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
-* [awesome-npm ★2448](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips.
+* [awesome-nodejs ★17764](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
+* [awesome-npm ★2455](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 

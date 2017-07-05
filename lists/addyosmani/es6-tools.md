@@ -7,7 +7,7 @@ title: Awesome Rank for addyosmani/es6-tools
 	This list is a copy of <a href="https://github.com/addyosmani/es6-tools">addyosmani/es6-tools</a> with ranks
 </p>
 ---
-# <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 ## Transpilers
 
@@ -144,8 +144,8 @@ title: Awesome Rank for addyosmani/es6-tools
 * [`Object.assign` ★652](https://github.com/sindresorhus/object-assign)
 * [`Number.isFinite` ★7](https://github.com/sindresorhus/is-finite)
 * [`Math.sign` ★6](https://github.com/sindresorhus/math-sign)
-* [`RegExp.prototype.match` ★8 ⏳2Y](https://github.com/mathiasbynens/RegExp.prototype.match)
-* [`RegExp.prototype.search` ★5 ⏳2Y](https://github.com/mathiasbynens/RegExp.prototype.search)
+* [`RegExp.prototype.match` ★8 ⏳3Y](https://github.com/mathiasbynens/RegExp.prototype.match)
+* [`RegExp.prototype.search` ★5 ⏳3Y](https://github.com/mathiasbynens/RegExp.prototype.search)
 * [es6-promise](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API
 * [ES6 Map Shim ★19 ⏳2Y](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
 * [`Function.create` ★8 ⏳4Y](https://github.com/walling/Function.create.js)

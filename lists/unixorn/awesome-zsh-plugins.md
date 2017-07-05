@@ -9,7 +9,7 @@ title: Awesome Rank for unixorn/awesome-zsh-plugins
 ---
 
 # awesome-zsh-plugins
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 ## Status
 [![Build Status](https://travis-ci.org/unixorn/awesome-zsh-plugins.svg?branch=master)](https://travis-ci.org/unixorn/awesome-zsh-plugins) [![Join the chat at https://gitter.im/unixorn/awesome-zsh-plugins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/unixorn/awesome-zsh-plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![GitHub stars](https://img.shields.io/github/stars/unixorn/awesome-zsh-plugins.svg)](https://github.com/unixorn/awesome-zsh-plugins/stargazers)
@@ -780,7 +780,7 @@ I've documented some recommendations for writing a new plugin [here](https://git
 * [awesome-sysadmin ★5375](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources
 * [Terminals Are Sexy ★4890](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
 
-Find other useful awesome-* lists at the [awesome collection ★60916](https://github.com/sindresorhus/awesome)
+Find other useful awesome-* lists at the [awesome collection ★61331](https://github.com/sindresorhus/awesome)
 
 ### Other References
 

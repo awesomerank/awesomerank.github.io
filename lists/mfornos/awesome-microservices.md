@@ -7,7 +7,7 @@ title: Awesome Rank for mfornos/awesome-microservices
 	This list is a copy of <a href="https://github.com/mfornos/awesome-microservices">mfornos/awesome-microservices</a> with ranks
 </p>
 ---
-# Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A curated list of Microservice Architecture related principles and technologies.
 
@@ -470,7 +470,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Logging
 
-- [Bunyan ★4098](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
+- [Bunyan ★4121](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
 - [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
 - [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.

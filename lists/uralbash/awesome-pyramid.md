@@ -8,12 +8,14 @@ title: Awesome Rank for uralbash/awesome-pyramid
 </p>
 ---
 # Awesome Pyramid
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 [![IRC
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
 based on [awesome-python ★35497](https://github.com/vinta/awesome-python).
+
+> ### [PloneConf 2017](https://2017.ploneconf.org/) - Barcelona Plone Digital Experience Conference (16~22 Oct. 2017)
 
 - [Awesome Pyramid](#awesome-pyramid)
     - [Admin Interface](#admin-interface)
@@ -473,6 +475,7 @@ Where to discover new Pyramid apps and projects.
 
 ## Videos
 * [List of videos from the official site](https://docs.pylonsproject.org/projects/pyramid_cookbook/en/latest/misc/videos.html)
+* [Online Video Courses at Talk Python Training](https://training.talkpython.fm/courses/all)
 * [Web Applications with Python and the Pyramid
   Framework](http://shop.oreilly.com/product/0636920041900.do) -
   In this Web Applications with Python and the Pyramid Framework training

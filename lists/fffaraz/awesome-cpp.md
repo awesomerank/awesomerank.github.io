@@ -804,7 +804,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 * [lists ★4370](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 * [awesome-awesomeness ★19141](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
-* [awesome ★60916](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+* [awesome ★61331](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 * [C++ links ★361](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 * [Awesome C/C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
 * [Awesome C/C++](https://cpp.libhunt.com/) - LibHunt's mirror.

@@ -7,7 +7,7 @@ title: Awesome Rank for sorrycc/awesome-javascript
 	This list is a copy of <a href="https://github.com/sorrycc/awesome-javascript">sorrycc/awesome-javascript</a> with ranks
 </p>
 ---
-# Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
@@ -460,7 +460,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Class
 
 * [ClassManager ★35](https://github.com/kogarashisan/ClassManager) - One of the fastest and most convenient class systems in the world
-* [klass ★725 ⏳1Y](https://github.com/ded/klass) - A utility for creating expressive classes in JavaScript.
+* [klass ★725 ⏳2Y](https://github.com/ded/klass) - A utility for creating expressive classes in JavaScript.
 * [augment ★897 ⏳2Y](https://github.com/javascript/augment) - The world's smallest and fastest classical JavaScript inheritance pattern.
 
 
@@ -762,7 +762,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 * [Semantic UI](http://semantic-ui.com/) - UI Kit with lots of themes and elements
 * [w2ui](http://w2ui.com/) - A set of jQuery plugins for front-end development of data-driven web applications.
-* [fluidity ★1113](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework
+* [fluidity ★1113 ⏳1Y](https://github.com/mrmrs/fluidity) - The worlds smallest fully-responsive css framework
 * [Ink ★1902](https://github.com/sapo/Ink) - An HTML5/CSS3 framework used at SAPO for fast and efficient website design and prototyping
 
 ## Boilerplates
@@ -899,7 +899,7 @@ http://www.listjs.com
 * [sotayamashita/awesome-css ★1009](https://github.com/sotayamashita/awesome-css)
 * [emijrp/awesome-awesome ★837](https://github.com/emijrp/awesome-awesome)
 * [bayandin/awesome-awesomeness ★19141](https://github.com/bayandin/awesome-awesomeness)
-* [sindresorhus/awesome ★60916](https://github.com/sindresorhus/awesome)
+* [sindresorhus/awesome ★61331](https://github.com/sindresorhus/awesome)
 * [jnv/list ★4370](https://github.com/jnv/lists)
 * [gianarb/angularjs ★2157](https://github.com/gianarb/awesome-angularjs)
 * [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)

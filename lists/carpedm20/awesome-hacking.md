@@ -7,7 +7,7 @@ title: Awesome Rank for carpedm20/awesome-hacking
 	This list is a copy of <a href="https://github.com/carpedm20/awesome-hacking">carpedm20/awesome-hacking</a> with ranks
 </p>
 ---
-# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Hacking. Inspired by [awesome-machine-learning ★23868](https://github.com/josephmisiti/awesome-machine-learning)
 

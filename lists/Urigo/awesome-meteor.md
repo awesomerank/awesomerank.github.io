@@ -7,7 +7,7 @@ title: Awesome Rank for Urigo/awesome-meteor
 	This list is a copy of <a href="https://github.com/Urigo/awesome-meteor">Urigo/awesome-meteor</a> with ranks
 </p>
 ---
-# Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Meteor [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Meteor Packages, libraries and software.
 

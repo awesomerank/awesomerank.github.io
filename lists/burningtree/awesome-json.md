@@ -7,10 +7,10 @@ title: Awesome Rank for burningtree/awesome-json
 	This list is a copy of <a href="https://github.com/burningtree/awesome-json">burningtree/awesome-json</a> with ranks
 </p>
 ---
-# Awesome JSON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome JSON [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 A curated list of awesome JSON libraries and resources.
 
-Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list.
+Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list.
 
 * [Awesome JSON](#awesome-json)
   * [Applications](#applications)
@@ -251,7 +251,7 @@ Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list
 
 ## Supersets
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
-* [HanSON ★115](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
+* [HanSON ★115 ⏳1Y](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
 * [μson ★55 ⏳1Y](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
 * [HOCON](https://github.com/typesafehub/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation) - Human-Optimized Config Object Notation.
 * [ASON](http://www.americanteeth.org/libason/ason_spec.pdf) - A semantically complete superset of JSON (draft).

@@ -7,9 +7,9 @@ title: Awesome Rank for briatte/awesome-network-analysis
 	This list is a copy of <a href="https://github.com/briatte/awesome-network-analysis">briatte/awesome-network-analysis</a> with ranks
 </p>
 ---
-# Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/15478/briatte/awesome-network-analysis.svg)](https://zenodo.org/badge/latestdoi/15478/briatte/awesome-network-analysis)
+# Awesome Network Analysis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [![DOI](https://zenodo.org/badge/15478/briatte/awesome-network-analysis.svg)](https://zenodo.org/badge/latestdoi/15478/briatte/awesome-network-analysis)
 
-An [awesome list ★60916](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
+An [awesome list ★61331](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
 
 Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math ★745](https://github.com/rossant/awesome-math) and others.
 

@@ -7,7 +7,7 @@ title: Awesome Rank for sindresorhus/awesome-tap
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-tap">sindresorhus/awesome-tap</a> with ranks
 </p>
 ---
-# Awesome TAP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
+# Awesome TAP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
 
 > Useful resources for the [Test Anything Protocol](https://testanything.org)<br>

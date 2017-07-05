@@ -9,13 +9,13 @@ title: Awesome Rank for paralax/awesome-honeypots
 ---
 # Awesome Honeypots  
 
-[![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+[![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome honeypots, tools, components and much more. The list is divided into categories such as web, services, and others, focusing on open source projects.
 
 There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/paralax/awesome-honeypots/blob/master/CONTRIBUTING.md).
 
-Discover more awesome lists at [sindresorhus/awesome ★60916](https://github.com/sindresorhus/awesome).
+Discover more awesome lists at [sindresorhus/awesome ★61331](https://github.com/sindresorhus/awesome).
 
 ### Sections
 
@@ -75,6 +75,7 @@ Discover more awesome lists at [sindresorhus/awesome ★60916](https://github.co
     - [Tom's Honeypot ★7 ⏳2Y](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot.
     - [Honeyport ★12](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python.
     - [AMTHoneypot ★2](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.
+    - [Lyrebird](https://hub.docker.com/r/lyrebird/honeypot-base/) - A modern high-interaction honeypot framework.
 
 - Distributed Honeypots
     - [DemonHunter ★6](https://github.com/RevengeComing/DemonHunter) - Low interaction Honepot Server.

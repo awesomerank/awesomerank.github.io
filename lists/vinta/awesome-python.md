@@ -7,7 +7,7 @@ title: Awesome Rank for vinta/awesome-python
 	This list is a copy of <a href="https://github.com/vinta/awesome-python">vinta/awesome-python</a> with ranks
 </p>
 ---
-# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
@@ -1292,7 +1292,7 @@ Where to discover new Python libraries.
 List of lists.
 
 * Monty
-    * [awesome ★60916](https://github.com/sindresorhus/awesome)
+    * [awesome ★61331](https://github.com/sindresorhus/awesome)
     * [lists ★4370](https://github.com/jnv/lists)
 * Python
     * [pycrumbs ★2576](https://github.com/kirang89/pycrumbs)

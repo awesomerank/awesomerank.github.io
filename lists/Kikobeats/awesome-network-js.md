@@ -23,8 +23,8 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [hyperpipe ★92](https://github.com/mafintosh/hyperpipe) – Distributed input/output pipe.
 * [instant.io](https://github.com/feross/instant.io) – Streaming file transfer over WebTorrent.
 * [ipp-printer ★274 ⏳1Y](https://github.com/watson/ipp-printer) – Create a printer on your network.
-* [peercast ★328 ⏳2Y](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
-* [peerflix ★4294](https://github.com/mafintosh/peerflix) – Streaming torrent client.
+* [peercast ★329 ⏳2Y](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
+* [peerflix ★4300](https://github.com/mafintosh/peerflix) – Streaming torrent client.
 * [peervisionary ★37 ⏳1Y](https://github.com/mafintosh/peervisionary) – Stream p2p content over your local network.
 * [peerwiki ★255 ⏳2Y](https://github.com/mafintosh/peerwiki) – browse all of wikipedia using bittorrent.
 * [screencat ★1974 ⏳1Y](https://github.com/maxogden/screencat) – WebRTC screensharing app.

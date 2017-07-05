@@ -9,7 +9,7 @@ title: Awesome Rank for webpro/awesome-dotfiles
 ---
 # Awesome dotfiles
 
-A curated list of dotfiles resources. Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list thing.
+A curated list of dotfiles resources. Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list thing.
 
 ## Articles
 

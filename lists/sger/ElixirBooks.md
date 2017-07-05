@@ -7,7 +7,7 @@ title: Awesome Rank for sger/ElixirBooks
 	This list is a copy of <a href="https://github.com/sger/ElixirBooks">sger/ElixirBooks</a> with ranks
 </p>
 ---
-# Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 Contents
 ====
 * [Books](#books)

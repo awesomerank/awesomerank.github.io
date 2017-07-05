@@ -7,7 +7,7 @@ title: Awesome Rank for timofurrer/awesome-asyncio
 	This list is a copy of <a href="https://github.com/timofurrer/awesome-asyncio">timofurrer/awesome-asyncio</a> with ranks
 </p>
 ---
-# Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome asyncio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > A carefully curated list of awesome Python asyncio frameworks, libraries, software and resources.
 

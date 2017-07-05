@@ -7,7 +7,7 @@ title: Awesome Rank for chentsulin/awesome-graphql
 	This list is a copy of <a href="https://github.com/chentsulin/awesome-graphql">chentsulin/awesome-graphql</a> with ranks
 </p>
 ---
-# awesome-graphql [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# awesome-graphql [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > Awesome list of GraphQL & Relay
 

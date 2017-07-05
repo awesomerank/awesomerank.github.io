@@ -7,7 +7,7 @@ title: Awesome Rank for enjalot/algovis
 	This list is a copy of <a href="https://github.com/enjalot/algovis">enjalot/algovis</a> with ranks
 </p>
 ---
-algovis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+algovis [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 =======
 
 This is collection of projects and links about algorithm visualization.

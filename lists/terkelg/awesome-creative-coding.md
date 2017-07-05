@@ -7,7 +7,7 @@ title: Awesome Rank for terkelg/awesome-creative-coding
 	This list is a copy of <a href="https://github.com/terkelg/awesome-creative-coding">terkelg/awesome-creative-coding</a> with ranks
 </p>
 ---
-# Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 # [<img src="https://cdn.rawgit.com/terkelg/awesome-creative-coding/master/cover.png"> ★2152](https://github.com/terkelg/awesome-creative-coding)
 

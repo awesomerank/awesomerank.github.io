@@ -105,7 +105,7 @@ title: Awesome Rank for sindresorhus/awesome
 	- [Micro npm Packages ★469](lists/parro-it/awesome-micro-npm-packages.md)
 	- [Mad Science npm Packages ★612](lists/feross/awesome-mad-science.md)
 	- [Maintenance Modules ★286 ⏳1Y](lists/maxogden/maintenance-modules.md) - For npm packages.
-	- [npm ★2448](lists/sindresorhus/awesome-npm.md) - Package manager.
+	- [npm ★2455](lists/sindresorhus/awesome-npm.md) - Package manager.
 	- [AVA ★203](lists/avajs/awesome-ava.md) - Test runner.
 	- [ESLint ★737](lists/dustinspecker/awesome-eslint.md) - Linter.
 	- [Functional Programming ★1750](lists/stoeffel/awesome-fp-js.md)
@@ -462,7 +462,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Conferences ★574](lists/RichardLitt/awesome-conferences.md)
 - [Sysadmin ★5375](lists/n1trux/awesome-sysadmin.md)
 - [Radio ★87 ⏳1Y](lists/kyleterry/awesome-radio.md)
-- [Awesome ★60916](https://github.com/sindresorhus/awesome) - Recursion illustrated.
+- [Awesome ★61331](https://github.com/sindresorhus/awesome) - Recursion illustrated.
 - [Analytics ★722](lists/onurakpolat/awesome-analytics.md)
 - [REST ★1208](lists/marmelab/awesome-rest.md)
 - [Selenium ★221](lists/christian-bromann/awesome-selenium.md)

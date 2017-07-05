@@ -7,7 +7,7 @@ title: Awesome Rank for SrinivasanTarget/awesome-appium
 	This list is a copy of <a href="https://github.com/SrinivasanTarget/awesome-appium">SrinivasanTarget/awesome-appium</a> with ranks
 </p>
 ---
-# Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
+# Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
 
 [<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
 
@@ -15,7 +15,7 @@ title: Awesome Rank for SrinivasanTarget/awesome-appium
 
 Feel free to add links via PRs and file issues to start discussions.
 
-Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contents
 

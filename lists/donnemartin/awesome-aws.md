@@ -13,11 +13,11 @@ title: Awesome Rank for donnemartin/awesome-aws
 </p>
 <br/>
 
-# Awesome AWS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome AWS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources.
 
-Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list.
+Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list.
 
 ## The Fiery Meter of AWSome
 
@@ -726,7 +726,7 @@ AWS Repos:
 * [aws-lambda-java-libs ★91](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
 * [aws-lambda-redshift-loader :fire::fire: ★322](https://github.com/awslabs/aws-lambda-redshift-loader) - Redshift loader.
 * [chalice :fire::fire::fire::fire::fire: ★2842](https://github.com/awslabs/chalice) - Python Serverless Microframework.
-* [create-thumbnails-lambda ★17 ⏳1Y](https://github.com/awslabs/create-thumbnails-lambda) - Uses the grunt-aws-lambda plugin to help you develop and test.
+* [create-thumbnails-lambda ★17 ⏳2Y](https://github.com/awslabs/create-thumbnails-lambda) - Uses the grunt-aws-lambda plugin to help you develop and test.
 * [lambda-ecs-worker-pattern :fire: ★163](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
 * [lambda-refarch-fileprocessing :fire: ★138](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
 * [lambda-refarch-iotbackend :fire: ★138](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.

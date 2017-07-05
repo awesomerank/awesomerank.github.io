@@ -150,7 +150,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [overcommit ★2001](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](http://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [repren ★140](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
-* [slap ★4596](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
+* [slap ★4598](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit ★335 ⏳1Y](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring ★95](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 * [tag ★431](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
@@ -221,7 +221,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [geeknote ★1785](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [haxor-news ★2286](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 * [hn-cli ★383](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
-* [iponmap ★116](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
+* [iponmap ★117](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup ★20 ⏳1Y](https://github.com/lord63/isitup) - Check whether a website is up or down
 * [jrnl ★2384](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger ★2078](https://github.com/ledger/ledger) - Command line accounting

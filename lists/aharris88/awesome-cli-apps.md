@@ -15,11 +15,11 @@ title: Awesome Rank for aharris88/awesome-cli-apps
 	<br>
 </h1>
 
-# Awesome CLI Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome CLI Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > A curated list of command line apps.
 
-Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -67,7 +67,7 @@ Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list
 
 - [cmus ★2098](https://github.com/cmus/cmus) - Small, fast and powerful console music player for Unix-like operating systems.
 - [Instant-Music-Downloader ★1136](https://github.com/yask123/Instant-Music-Downloader) - Instant music downloader.
-- [itunes-remote ★258 ⏳1Y](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
+- [itunes-remote ★259 ⏳1Y](https://github.com/mischah/itunes-remote) - It’s about listening to music without leaving the terminal. macOS only.
 - [moviemon ★73](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 - [pianobar](https://6xq.net/pianobar/) - Pandora client.
 - [quote-cli ★13](https://github.com/riyadhalnur/quote-cli) - Get a random quote or the quote of the day in your CLI.
@@ -110,8 +110,8 @@ Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list
 - [acmetool ★1248](https://github.com/hlandau/acme) - An easy-to-use command line tool for automatically acquiring certificates from ACME servers.
 - [loadtest ★760](https://github.com/alexfernandez/loadtest) - Runs a load test on the selected URL. Easy to extend minimally for your own ends.
 - [wp-cli ★3303](https://github.com/wp-cli/wp-cli) - Manage WordPress installations, update plugins, set up multisite installs and much more, without using a web browser.
-- [diff2html-cli ★70](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
-- [npm-home ★50](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
+- [diff2html-cli ★72](https://github.com/rtfpessoa/diff2html-cli) - Command-line tool to parse git diffs as JSON and generate pretty HTML.
+- [npm-home ★51](https://github.com/sindresorhus/npm-home) - Open the npm page of the package in the current directory.
 - [HTTPie](https://github.com/jkbrzt/httpie) - A user-friendly HTTP client.
 
 ### Mobile Development
@@ -134,7 +134,7 @@ Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list
 - [idea ★51](https://github.com/IonicaBizau/idea) - A lightweight CLI tool and module for keeping ideas in a safe place quick and easy.
 - [imgur-uploader-cli ★18](https://github.com/kevva/imgur-uploader-cli) - Upload images to imgur.
 - [geeknote ★1785](https://github.com/VitaliyRodnenko/geeknote) - Console client for Evernote.
-- [localtunnel ★4805](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
+- [localtunnel ★4832](https://github.com/localtunnel/localtunnel) - Exposes your localhost to the world for easy testing and sharing.
 - [ledger](http://ledger-cli.org) - Powerful, double-entry accounting system that is accessed from the UNIX command-line.
 - [meetup-cli ★16](https://github.com/specious/meetup-cli) - Meetup.com command line interface
 - [The Mutt E-Mail Client](http://www.mutt.org/) - Email client.
@@ -155,7 +155,7 @@ Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list
 - [screensaver ★16 ⏳1Y](https://github.com/gillstrom/screensaver) - Start the screensaver.
 - [wallpaper-cli ★57](https://github.com/sindresorhus/wallpaper-cli) - Get or set the desktop wallpaper.
 - [yank ★617](https://github.com/mptre/yank) - Yank terminal output to clipboard.
-- [text-meme ★46](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
+- [text-meme ★48](https://github.com/beatfreaker/text-meme-cli) - Generate text meme.
 - [s ★1452](https://github.com/zquestz/s) - Open a web search in your terminal. Supports multiple search providers.
 - [google-font-installer ★36](https://github.com/lordgiotto/google-font-installer) - Search, download, and install any Google Font on your local machine.
 - [aria2](https://github.com/tatsuhiro-t/aria2) - Lightweight multi-protocol and multi-source, cross platform download utility. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
@@ -250,7 +250,7 @@ Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list
 - [git commander ★991 ⏳1Y](https://github.com/golbin/git-commander) - A git tool with a easy terminal interface.
 - [git-stats ★4350](https://github.com/IonicaBizau/git-stats) - :four_leaf_clover: A GitHub-like contributions calendar, but locally, with all your git commits.
 - [hub ★10894](https://github.com/github/hub) - A command-line wrapper for git that makes you better at GitHub.
-- [dev-time ★137 ⏳1Y](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+- [dev-time ★136 ⏳1Y](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
 - [git-labelmaker ★239](https://github.com/himynameisdave/git-labelmaker) - Edit GitHub labels from the command line.
 - [tig ★4537](https://github.com/jonas/tig) - Text-mode interface for Git.
 - [git-standup ★4185](https://github.com/kamranahmedse/git-standup) - Recall what you did on the last working day.
@@ -268,7 +268,7 @@ Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list
 - [gifsicle ★1072](https://github.com/kohler/gifsicle) - Create, manipulate, and optimize GIF images and animations.
 - [ttygif ★2259](https://github.com/icholy/ttygif) - Convert terminal recordings to animated gifs.
 - [ttygif ★189](https://github.com/sugyan/ttygif) - ttyrec to gif.
-- [ttystudio ★2720 ⏳1Y](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
+- [ttystudio ★2721 ⏳1Y](https://github.com/chjj/ttystudio) - A terminal-to-gif recorder minus the headaches.
 - [asciinema ★2622](https://github.com/asciinema/asciinema) - Terminal session recorder and the best companion of asciinema.org.
 - [givegif ★175](https://github.com/passy/givegif) - GIFs on the command line.
 
@@ -304,7 +304,7 @@ Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list
 - [cowsay ★25 ⏳1Y](https://github.com/tnalpgge/rank-amateur-cowsay) - You can [install with homebrew](http://brewformulas.org/Cowsay).
 - [cgasm ★176 ⏳1Y](https://github.com/bnagy/cgasm) - A tool that gives x86 assembly documentation. It is pronounced "SeekAzzem".
 - [detect-indent-cli ★11 ⏳1Y](https://github.com/sindresorhus/detect-indent-cli) - Detect the indentation of code.
-- [emoj ★1272](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [emoj ★1282](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
 - [emoji-finder ★5](https://github.com/dematerializer/emoji-finder) - Quickly find and copy emoji to the clipboard via the command-line
 - [fortune](http://brewformulas.org/Fortune) - Shows a random fortune.
 - [fullname-cli ★9 ⏳1Y](https://github.com/sindresorhus/fullname-cli) - Get the fullname of the current user.
@@ -312,14 +312,14 @@ Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list
 - [gzip-size-cli ★67](https://github.com/sindresorhus/gzip-size-cli) - Get the gzipped size of a file or stdin.
 - [HASHA -cli ★30](https://github.com/sindresorhus/hasha-cli) - Hashing made simple. Get the hash of text or stdin.
 - [is-reachable-cli ★5 ⏳1Y](https://github.com/beatfreaker/is-reachable-cli) - Check if hostnames are reachable or not.
-- [kill-tabs ★200](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
+- [kill-tabs ★202](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
 - [leven-cli ★21 ⏳1Y](https://github.com/sindresorhus/leven-cli) - Measure the difference between two strings using the Levenshtein distance algorithm.
 - [maybe ★6211](https://github.com/p-e-w/maybe) - See what a program does before deciding whether you really want it to happen.
 - [mdlt ★30](https://github.com/metadelta/mdlt) - Do quick math right from the command line.
 - [medium-cli ★486](https://github.com/djadmin/medium-cli) - Read [medium.com](https://medium.com/) stories within your terminal, also gives top stories.
 - [open-shortcut-cli ★5 ⏳1Y](https://github.com/sindresorhus/open-shortcut-cli) - Open the URL from a web shortcut file in the browser.
 - [pkg-dir-cli ★7](https://github.com/sindresorhus/pkg-dir-cli) - Find the root directory of a npm package.
-- [speed-test ★1887](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI.
+- [speed-test ★1890](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping using speedtest.net from the CLI.
 - [shortcut-url-cli ★5 ⏳1Y](https://github.com/sindresorhus/shortcut-url-cli) - Get the URL from a web shortcut file.
 - [SpeedRead ★21 ⏳3Y](https://github.com/sunsations/speed_read) - A simple terminal-based open source Spritz-alike.
 - [to-double-quotes ★8](https://github.com/sindresorhus/to-double-quotes-cli) - Convert matching single-quotes to double-quotes: I 'love' unicorns => I "love" unicorns.

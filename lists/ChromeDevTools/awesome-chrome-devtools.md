@@ -7,7 +7,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 	This list is a copy of <a href="https://github.com/ChromeDevTools/awesome-chrome-devtools">ChromeDevTools/awesome-chrome-devtools</a> with ranks
 </p>
 ---
-# Awesome chrome-devtools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome chrome-devtools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
 

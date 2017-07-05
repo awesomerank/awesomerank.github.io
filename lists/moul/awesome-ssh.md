@@ -7,13 +7,13 @@ title: Awesome Rank for moul/awesome-ssh
 	This list is a copy of <a href="https://github.com/moul/awesome-ssh">moul/awesome-ssh</a> with ranks
 </p>
 ---
-# Awesome SSH [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome SSH [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > A curated list of *SSH* [apps](#apps), [libraries](#libraries) and [resources](#resources).
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/moul/awesome-ssh/master/logo.jpg" width="400" /></h2>
 
-Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list thing.
 
 Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/blob/master/CONTRIBUTING.md) if you want to contribute.
 

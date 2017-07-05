@@ -224,8 +224,7 @@ Here awesome badge for your project:
 * [kailan/kodeinject ★6](https://github.com/kailan/kodeinject) - Constructor dependency injection for Kodein.
 * [traversals/kapsule ★54](https://github.com/traversals/kapsule) - Minimalist dependency injection library for Kotlin.
 * [JLLeitschuh/kotlin-guiced ★3](https://github.com/JLLeitschuh/kotlin-guiced) - Convenience Kotlin API over the Google Guice DI Library.
-* [Ekito/koin ★38](https://github.com/Ekito/koin) - A functional Kotlin dependency injection framework.
-* [Ekito/koin-android ★20](https://github.com/Ekito/koin-android) - A Kotlin dependency injection framework for Android, based on Koin.
+* [Ekito/koin ★38](https://github.com/Ekito/koin) - A functional Kotlin dependency injection framework for Android and JVM.
 
 ### <a name="libraries-frameworks-coroutines"></a>Coroutines <sup>[Back ⇈](#libraries-frameworks-coroutines-subcategory)</sup>
 * [Kotlin/kotlin-coroutines ★321](https://github.com/Kotlin/kotlin-coroutines) - Design documents and examples for coroutines in Kotlin.

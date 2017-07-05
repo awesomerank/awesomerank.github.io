@@ -7,7 +7,7 @@ title: Awesome Rank for sindresorhus/amas
 	This list is a copy of <a href="https://github.com/sindresorhus/amas">sindresorhus/amas</a> with ranks
 </p>
 ---
-# Awesome & Marvelous Amas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome & Marvelous Amas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
 
@@ -33,7 +33,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Maxime Euzière ★2 ⏳2Y](https://github.com/xem/ama) - Front-end hacker and JS code-golfer.
 - [Robert Haritonov ★1 ⏳2Y](https://github.com/operatino/ama) - Front-end team lead, [SourceJS](http://sourcejs.com) maintainer and Living Style Guide evangelist.
 - [Lim Chee Aun ★10 ⏳2Y](https://github.com/cheeaun/ama) - Product engineer. GitHub stargazer. Anime lover.
-- [Darcy Clarke ★2 ⏳1Y](https://github.com/darcyclarke/ama) - Developer, Designer, Founder, Mentor & Speaker.
+- [Darcy Clarke ★2 ⏳2Y](https://github.com/darcyclarke/ama) - Developer, Designer, Founder, Mentor & Speaker.
 - [Vishnu Ks ★2 ⏳2Y](https://github.com/hackerkid/ama) - Student at IIIT Allahabad. Experimentalist.
 - [Nick Desaulniers ★0 ⏳2Y](https://github.com/nickdesaulniers/ama) - Open Source Zealot at Mozilla.
 - [Henry Snopek ★1 ⏳2Y](https://github.com/hhsnopek/ama) - Front-end developer, university student.

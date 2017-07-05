@@ -7,13 +7,13 @@ title: Awesome Rank for sindresorhus/awesome-electron
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-electron">sindresorhus/awesome-electron</a> with ranks
 </p>
 ---
-# Awesome Electron [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Electron [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](http://electron.atom.io)
 
 > Useful resources for creating apps with [Electron](http://electron.atom.io)
 
-You might also like [awesome-nodejs ★17657](https://github.com/sindresorhus/awesome-nodejs).
+You might also like [awesome-nodejs ★17764](https://github.com/sindresorhus/awesome-nodejs).
 
 
 ## Contents

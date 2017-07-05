@@ -7,8 +7,8 @@ title: Awesome Rank for expede/awesome-relay
 	This list is a copy of <a href="https://github.com/expede/awesome-relay">expede/awesome-relay</a> with ranks
 </p>
 ---
-# Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
-Awesome resources for [Relay](https://github.com/facebook/relay), based on the [Awesome ★60916](https://github.com/sindresorhus/awesome) project
+# Awesome Relay [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+Awesome resources for [Relay](https://github.com/facebook/relay), based on the [Awesome ★61331](https://github.com/sindresorhus/awesome) project
 
 # Table of Contents
 - [Learning Resources](#learning-resources)

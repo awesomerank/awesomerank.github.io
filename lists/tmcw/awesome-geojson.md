@@ -7,7 +7,7 @@ title: Awesome Rank for tmcw/awesome-geojson
 	This list is a copy of <a href="https://github.com/tmcw/awesome-geojson">tmcw/awesome-geojson</a> with ranks
 </p>
 ---
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 GeoJSON utilities that will make your life easier.
 
@@ -27,7 +27,7 @@ GeoJSON utilities that will make your life easier.
 * [point-grouper ★26 ⏳3Y](https://github.com/substack/point-grouper): group geojson points into containing polygons
 * [geojson-join](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
 * [simplify-geojson ★75](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
-* [turf ★2743](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
+* [turf ★2748](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
 * [winnow](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
 
 ### editors & viewers

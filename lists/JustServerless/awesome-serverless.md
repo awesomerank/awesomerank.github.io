@@ -7,13 +7,13 @@ title: Awesome Rank for JustServerless/awesome-serverless
 	This list is a copy of <a href="https://github.com/JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
 </p>
 ---
-# Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/justserverless/awesome-serverless/master/logo_serverless.png" align="right" width="100">](http://serverless.com)
 
 > A curated list of resources regarding the [Serverless Framework](https://serverless.com) (formerly JAWS) and the serverless architecture.
 
-*Inspired by the [awesome ★60916](https://github.com/sindresorhus/awesome) list project.*
+*Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list project.*
 
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 

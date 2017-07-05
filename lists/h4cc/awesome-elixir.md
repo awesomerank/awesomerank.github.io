@@ -7,7 +7,7 @@ title: Awesome Rank for h4cc/awesome-elixir
 	This list is a copy of <a href="https://github.com/h4cc/awesome-elixir">h4cc/awesome-elixir</a> with ranks
 </p>
 ---
-# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php ★15773](https://github.com/ziadoz/awesome-php).
 
 If you think a package should be added, please add a :+1: (`:+1:`) at the according issue or create a new one.
@@ -377,7 +377,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Code Analysis
 *Libraries and tools for code base analysis, parsing, and manipulation.*
 
-* [belvedere ★12 ⏳1Y](https://github.com/nirvana/belvedere) - An example of CircleCI integration with Elixir.
+* [belvedere ★12 ⏳2Y](https://github.com/nirvana/belvedere) - An example of CircleCI integration with Elixir.
 * [coverex ★68](https://github.com/alfert/coverex) - Coverage Reports for Elixir.
 * [credo ★1921](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching Elixir.
 * [dialyxir ★516](https://github.com/jeremyjh/dialyxir) - Mix tasks to simplify use of Dialyzer in Elixir projects.

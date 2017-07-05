@@ -7,9 +7,9 @@ title: Awesome Rank for ibaaj/awesome-OpenSourcePhotography
 	This list is a copy of <a href="https://github.com/ibaaj/awesome-OpenSourcePhotography">ibaaj/awesome-OpenSourcePhotography</a> with ranks
 </p>
 ---
-#Awesome-OpenSourcePhotography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+#Awesome-OpenSourcePhotography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome ★60916](https://github.com/sindresorhus/awesome).
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome ★61331](https://github.com/sindresorhus/awesome).
 
 
 - [General](#general)
@@ -52,7 +52,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [Autoexec Hack ★353](https://github.com/KonradIT/autoexechack) - *Compilation of hacks for GoPro Cameras.*
 - [PTool Firmware Manipulation Tool](http://www.gh1-hack.info/) - *change the video recording parameters of Panasonic's cameras.*
 - [Nikon Hacker](https://nikonhacker.com/wiki/Main_Page) - *Nikon Patch and Nikon Emulator, 2 softwares for Nikon cameras.*
-- [Xiaomi Yi Autoexec ★161](https://github.com/PJanisio/Xiaomi_Yi_autoexec) - *Compilation of autoexec scripts and mods for Xiaomi Yi camera.*
+- [Xiaomi Yi Autoexec ★161 ⏳1Y](https://github.com/PJanisio/Xiaomi_Yi_autoexec) - *Compilation of autoexec scripts and mods for Xiaomi Yi camera.*
 
 ## Libraries
 

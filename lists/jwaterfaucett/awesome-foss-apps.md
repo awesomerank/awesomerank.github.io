@@ -7,13 +7,13 @@ title: Awesome Rank for jwaterfaucett/awesome-foss-apps
 	This list is a copy of <a href="https://github.com/jwaterfaucett/awesome-foss-apps">jwaterfaucett/awesome-foss-apps</a> with ranks
 </p>
 ---
-# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome production grade free and open source software organized by category.
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome ★60916](https://github.com/sindresorhus/awesome).*
+*Inspired by Sindre Sorhus's [awesome ★61331](https://github.com/sindresorhus/awesome).*
 
 ## TOC
 

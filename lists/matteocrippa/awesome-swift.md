@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-843-orange.svg) | June 27, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-843-orange.svg) | June 27, 2017
 
 ### Contributing
 
@@ -1418,7 +1418,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Prelude ★299](https://github.com/robrix/Prelude) - Framework of simple functional programming tools.
 * [protobuf-swift ★738](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers.
 * [Prototope](http://khan.github.io/Prototope/) - Library of lightweight interfaces for prototyping, bridged to JS.
-* [Pythonic.swift ★512](https://github.com/practicalswift/Pythonic.swift) - Selected parts of Python standard library.
+* [Pythonic.swift ★512 ⏳1Y](https://github.com/practicalswift/Pythonic.swift) - Selected parts of Python standard library.
 * [R.swift ★3887](https://github.com/mac-cain13/R.swift) - Tool to get strong typed, autocompleted resources like images, cells and segues.
 * [RandomKit ★1147](https://github.com/nvzqz/RandomKit) :penguin: - Random data generation.
 * [ReactiveArray ★54 ⏳1Y](https://github.com/Wolox/ReactiveArray) - An array class that can be observed using ReactiveCocoa's Signals.

@@ -8,7 +8,7 @@ title: Awesome Rank for TheJambo/awesome-testing
 </p>
 ---
 ![](https://github.com/TheJambo/awesome-testing/blob/master/resources/AwesomeTesting.jpg?raw=true)
-# Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 > A curated list of testing software, extensions and resources
 
 ## Foreword
@@ -68,7 +68,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Unicode ★359](https://github.com/jagracey/Awesome-Unicode) - A great resource for learning how unicode works and the issues it can cause.
 
 ### Useful References
-- [The Original ★60916](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
+- [The Original ★61331](https://github.com/sindresorhus/awesome) - The awesome list of awesome lists.
 - [Learn to Code ★316](https://github.com/karlhorky/learn-to-program) - Learning to code, for those looking to make the move to automation
 - [Application Security ★2440](https://github.com/paragonie/awesome-appsec) - Incredibly extensive, but you'll find something to fit the bill.
 - [Selenium ★221](https://github.com/christian-bromann/awesome-selenium) - Better than searching Google if you know what you want.

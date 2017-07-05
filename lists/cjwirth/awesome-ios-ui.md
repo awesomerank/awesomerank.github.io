@@ -7,7 +7,7 @@ title: Awesome Rank for cjwirth/awesome-ios-ui
 	This list is a copy of <a href="https://github.com/cjwirth/awesome-ios-ui">cjwirth/awesome-ios-ui</a> with ranks
 </p>
 ---
-awesome-ios-ui [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+awesome-ios-ui [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 ==============
 
 A curated list of awesome iOS UI/UX libraries.

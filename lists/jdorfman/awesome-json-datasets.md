@@ -7,7 +7,7 @@ title: Awesome Rank for jdorfman/awesome-json-datasets
 	This list is a copy of <a href="https://github.com/jdorfman/awesome-json-datasets">jdorfman/awesome-json-datasets</a> with ranks
 </p>
 ---
-# Awesome JSON Datasets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome JSON Datasets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 [<img src="https://www.justindorfman.com/assets/images/json.svg" align="right" width="100">](http://www.json.org/)
 
@@ -424,7 +424,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: generate URLs for any location at [Yahoo Weather API](https://developer.yahoo.com/weather/)
 
 ## More Awesome Lists
-* [Awesome ★60916](https://github.com/sindresorhus/awesome) *(The OG List)*
+* [Awesome ★61331](https://github.com/sindresorhus/awesome) *(The OG List)*
 * [Help Wanted ★41](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 * [JSON ★489](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 * [WPO ★5812](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*

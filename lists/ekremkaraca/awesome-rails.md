@@ -8,7 +8,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 </p>
 ---
 # AwesomeRails
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 A collection of all things awesome about Rails. Inspired by other awesome-* stuffs.<small>(see [Notable Awesome Stuffs](#notable-awesome-stuffs) part below)</small> Contributions and pull requests are kindly welcomed!
 
 ## Table of Contents

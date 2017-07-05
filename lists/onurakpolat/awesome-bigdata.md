@@ -9,7 +9,7 @@ title: Awesome Rank for onurakpolat/awesome-bigdata
 ---
 # Awesome Big Data
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome big data frameworks, resources and other awesomeness. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [awesome-ruby ★957](https://github.com/Sdogruyol/awesome-ruby), [hadoopecosystemtable](http://hadoopecosystemtable.github.io/) & [big-data](http://usefulstuff.io/big-data/).
 
@@ -106,7 +106,7 @@ Your contributions are always welcome!
 * [Pinterest Pinlater](https://engineering.pinterest.com/blog/pinlater-asynchronous-job-execution-system) - asynchronous job execution system.
 * [Pydoop](http://crs4.github.io/pydoop/) - Python MapReduce and HDFS API for Hadoop.
 * [Rackerlabs Blueflood](http://blueflood.io/) - multi-tenant distributed metric processing system
-* [Skale ★138](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
+* [Skale ★139](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS.
 * [Stratosphere](http://stratosphere.eu/) - general purpose cluster computing framework.
 * [Streamdrill](https://streamdrill.com/) - useful for counting activities of event streams over different time windows and finding the most active one.
 * [streamsx.topology ★14](https://github.com/IBMStreams/streamsx.topology) - Libraries to enable building IBM Streams application in Java, Python or Scala.
@@ -700,7 +700,7 @@ for Data Analytics at Twitter.
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness ★19141](https://github.com/bayandin/awesome-awesomeness).
-- Even more lists [awesome ★60916](https://github.com/sindresorhus/awesome).
+- Even more lists [awesome ★61331](https://github.com/sindresorhus/awesome).
 - Another list? [list ★4370](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome ★907](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-analytics ★722](https://github.com/onurakpolat/awesome-analytics).

@@ -7,7 +7,7 @@ title: Awesome Rank for davisonio/awesome-gif
 	This list is a copy of <a href="https://github.com/davisonio/awesome-gif">davisonio/awesome-gif</a> with ranks
 </p>
 ---
-# [Awesome GIF](https://davison.io/awesome-gif/) :sunglasses: [![](https://img.shields.io/travis/davisonio/awesome-gif.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-gif) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# [Awesome GIF](https://davison.io/awesome-gif/) :sunglasses: [![](https://img.shields.io/travis/davisonio/awesome-gif.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-gif) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome [GIF](https://en.wikipedia.org/wiki/GIF) resources
 
@@ -136,7 +136,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gifplayer ★321](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs
 - [Jsgif ★376 ⏳1Y](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player
 - [node-gify ★210 ⏳1Y](https://github.com/tj/node-gify) - Javascript convert videos to GIFs using ffmpeg and gifsicle
-- [Gifencoder ★176 ⏳1Y](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js
+- [Gifencoder ★176 ⏳2Y](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js
 - [Gif-video ★56 ⏳3Y](https://github.com/hughsk/gif-video) - Javascript Convert a GIF image into an HTML5-ready video
 - [Gif-player ★61 ⏳3Y](https://github.com/apankrat/gif-player) - On-demand GIF loader/player in Javascript
 - [GifgifLab-face ★6 ⏳2Y](https://github.com/Viral-MediaLab/gifgifLab-face) - Facial-emotion detectors

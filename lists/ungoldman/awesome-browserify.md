@@ -9,7 +9,7 @@ title: Awesome Rank for ungoldman/awesome-browserify
 ---
 <div align="center"><img src="browserify.png" alt="Browserify!"></div>
 
-# Awesome Browserify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Browserify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 > :crystal_ball: A curated list of awesome [Browserify ★11139](https://github.com/substack/node-browserify) resources, libraries, and tools.
 

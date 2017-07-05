@@ -7,7 +7,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 	This list is a copy of <a href="https://github.com/matiassingers/awesome-slack">matiassingers/awesome-slack</a> with ranks
 </p>
 ---
-# awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 > A curated list of awesome Slack related things
 
 ## Table of Contents
