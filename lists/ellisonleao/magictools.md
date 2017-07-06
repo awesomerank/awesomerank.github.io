@@ -132,7 +132,6 @@ Graphics
 * [AutoTileGen](http://pixelatto.com) - AutoTileGen is an automatic tileset generator for 2D game terrains. ![commercial](https://github.com/ellisonleao/magictools/blob/master//img/commercial.png)
 * [OGMO Editor](http://www.ogmoeditor.com/) - generic level editor. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Overlap2D](http://overlap2d.com/) - a 2D level and UI editor with an engine agnostic philosophy.
-* [Mappy](http://tilemap.co.uk/mappy.php) - Free tilemap editor. ![free](https://github.com/ellisonleao/magictools/blob/master//img/free.png)
 * [Tiled](http://www.mapeditor.org/) - free, easy to use and flexible tile map editor. ![free](https://github.com/ellisonleao/magictools/blob/master//img/free.png)
 
 #### Animation

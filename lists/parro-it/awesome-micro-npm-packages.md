@@ -157,7 +157,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [abbrev ★107](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
 * [glob ★3501](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 * [username ★61](https://github.com/sindresorhus/username) - Get the username of the current user.
-* [minimist ★2293](https://github.com/substack/minimist) - Parse argument options.
+* [minimist ★2316](https://github.com/substack/minimist) - Parse argument options.
 
 ### Module management
 

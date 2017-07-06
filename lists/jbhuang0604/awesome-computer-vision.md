@@ -472,7 +472,7 @@ Non-uniform Deblurring
  * [VOC-DPM ★370](https://github.com/rbgirshick/voc-dpm)
  * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
  * [R-CNN: Regions with Convolutional Neural Network Features ★1053](https://github.com/rbgirshick/rcnn)
- * [SPP-Net ★234](https://github.com/ShaoqingRen/SPP_net)
+ * [SPP-Net ★234 ⏳1Y](https://github.com/ShaoqingRen/SPP_net)
  * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
  * [Edge Boxes ★316 ⏳1Y](https://github.com/pdollar/edges)
  * [ReInspect ★312](https://github.com/Russell91/ReInspect)

@@ -289,12 +289,12 @@ Made with Electron.
 - [electron-router ★17](https://github.com/m0n0l0c0/electron-router) - Router tidying up IPC message passing.
 - [electron-lets-move ★124](https://github.com/tommoor/electron-lets-move) - Automatically move your app to `/Applications` on macOS.
 - [electron-settings ★218](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
-- [got ★1759](https://github.com/sindresorhus/got) - Simplified HTTP requests.
+- [got ★1781](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled ★61](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 
 ### Using Electron
 
-- [devtool ★3705](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
+- [devtool ★3704](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
 - [nativefier ★11130](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [electron-stream ★78](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 - [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (alternative to PhantomJS).

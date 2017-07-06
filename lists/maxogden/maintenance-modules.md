@@ -151,7 +151,7 @@ Create a release for a node package on GitHub. Uses the Github Releases API to c
 npm i gh-release -g
 ```
 
-### [XO ★2715](https://github.com/sindresorhus/xo) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+### [XO ★2726](https://github.com/sindresorhus/xo) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
 JavaScript happiness style linter. Enforce strict code style. No decision-making. No config. It just works!
 

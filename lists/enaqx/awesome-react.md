@@ -332,7 +332,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-inlinesvg - An SVG loader component for React ★340](https://github.com/matthewwithanm/react-inlinesvg)
 * [react-imageloader - A React component for wrangling image loading ★310](https://github.com/hzdg/react-imageloader)
 * [expose - A React mixin for lazy loading ★2 ⏳1Y](https://github.com/dok/expose)
-* [react-loadqueueloader - A React component for managing loads with a load queue ★8 ⏳2Y](https://github.com/hzdg/react-loadqueueloader)
+* [react-loadqueueloader - A React component for managing loads with a load queue ★8 ⏳3Y](https://github.com/hzdg/react-loadqueueloader)
 * [react-loadermixin - A React mixin for giving components loading behavior ★10 ⏳2Y](https://github.com/hzdg/react-loadermixin)
 * [react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events ★16 ⏳2Y](https://github.com/hzdg/react-pressable)
 * [react-google-analytics - Google analytics component ★85](https://github.com/hzdg/react-google-analytics)
@@ -588,7 +588,7 @@ A collection of awesome things regarding React ecosystem.
 * [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
 
 ##### Data Managing
-* [Immutable.js - Immutable Data Collections for Javascript ★19351](https://github.com/facebook/immutable-js)
+* [Immutable.js - Immutable Data Collections for Javascript ★19474](https://github.com/facebook/immutable-js)
 * [cortex - A javascript library for centrally managing data with React ★1044](https://github.com/mquan/cortex)
 * [avers - A modern client-side model abstraction library ★2](https://github.com/wereHamster/avers)
 * [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)

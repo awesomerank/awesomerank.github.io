@@ -248,7 +248,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Fetch ★427](https://github.com/tedious/Fetch) - An IMAP library.
 * [Mautic ★1706](https://github.com/mautic/mautic) - Email marketing automation
 * [PHPMailer ★9015](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
-* [Stampie ★33 ⏳1Y](https://github.com/henrikbjorn/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](http://www.mandrill.com).
+* [Stampie ★215](https://github.com/Stampie/Stampie) - A library for email services such as [SendGrid](https://sendgrid.com/), [PostMark](https://postmarkapp.com), [MailGun](https://www.mailgun.com/) and [Mandrill](http://www.mandrill.com).
 * [SwiftMailer](http://swiftmailer.org/) - A mailer solution.
 
 ## Files

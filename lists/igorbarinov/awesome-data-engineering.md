@@ -147,6 +147,7 @@ multi-processor, multi-core machines
 * [Apache NiFi](http://nifi.apache.org/) is an easy to use, powerful, and reliable system to process and distribute data
 * [VoltDB](https://voltdb.com/)
 * [PipelineDB ★1334](https://github.com/pipelinedb/pipelinedb) The Streaming SQL Database https://www.pipelinedb.com
+* [Spring Cloud Dataflow](http://cloud.spring.io/spring-cloud-dataflow/) Streaming and tasks execution between Spring Boot apps
 
 # Batch Processing
 * [Hadoop MapReduce](http://hadoop.apache.org/docs/current/hadoop-mapreduce-client/hadoop-mapreduce-client-core/MapReduceTutorial.html) Hadoop MapReduce is a software framework for easily writing applications which process vast amounts of data (multi-terabyte data-sets) in-parallel on large clusters (thousands of nodes) of commodity hardware in a reliable, fault-tolerant manner
@@ -182,6 +183,7 @@ multi-processor, multi-core machines
 * [SmoothieCharts](http://smoothiecharts.org) A JavaScript Charting Library for Streaming Data.
 * [PyXley ★1928](https://github.com/stitchfix/pyxley) Python helpers for building dashboards using Flask and React
 * [Plotly ★1964](https://github.com/plotly/dash) Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
+* [Apache Superset](https://github.com/airbnb/superset) Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
 # Workflow
 * [Luigi ★7242](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs.
@@ -230,6 +232,15 @@ multi-processor, multi-core machines
 ## Prometheus
 * [Prometheus.io ★10271](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
 * [HAProxy Exporter ★105](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
+
+# Community
+
+## Forums
+* [/r/dataengineering](https://www.reddit.com/r/dataengineering/) News, tips and background on Data Engineering
+* [/r/etl](https://www.reddit.com/r/ETL/) Subreddit focused on ETL
+
+## Conferences
+* [DataEngConf](http://www.dataengconf.com/about) DataEngConf is the first technical conference that bridges the gap between data scientists, data engineers and data analysts.
 
 Cheers to [The Data Engineering Ecosystem: An Interactive Map](http://xyz.insightdataengineering.com/blog/pipeline_map.html)
 

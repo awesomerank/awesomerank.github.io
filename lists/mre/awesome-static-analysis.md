@@ -34,6 +34,7 @@ This is a collection of static analysis tools and code quality checkers.
   - [Mobile](#mobile)
   - [Packages](#packages)
   - [Template Languages](#template-languages)
+  - [Translation](#translation)
   - [Web services](#web-services)
   - [Writing](#writing)
 - [More Collections](#more-collections)
@@ -389,6 +390,10 @@ Wrappers:
 * [haml-lint ★149](https://github.com/brigade/haml-lint) - Tool for writing clean and consistent HAML
 * [slim-lint ★80](https://github.com/sds/slim-lint) - Configurable tool for analyzing Slim templates
 * [yamllint ★198](https://github.com/adrienverge/yamllint) -Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
+
+## Translation
+
+* [dennis ★37](https://github.com/willkg/dennis) - A set of utilities for working with PO files to ease development and improve quality.
 
 ## Writing
 

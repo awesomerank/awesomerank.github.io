@@ -7,7 +7,7 @@ title: Awesome Rank for sindresorhus/awesome-nodejs
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-nodejs">sindresorhus/awesome-nodejs</a> with ranks
 </p>
 ---
-# Awesome Node.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★60916](https://github.com/sindresorhus/awesome)
+# Awesome Node.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/gilbarbara/logos/e7b1dc2666c3dabe6c1276abd0a767b6ebd6af43/logos/nodejs-icon.svg" align="right" width="70">](https://nodejs.org)
 
@@ -15,7 +15,7 @@ title: Awesome Rank for sindresorhus/awesome-nodejs
 
 Just type [`node.cool`](https://node.cool) to go here ✨
 
-*You might also like [awesome-npm ★2448](https://github.com/sindresorhus/awesome-npm).*
+*You might also like [awesome-npm ★2455](https://github.com/sindresorhus/awesome-npm).*
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-nodejs/blob/master/contributing.md) before contributing.*
 
 
@@ -100,98 +100,98 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 ### Mad science
 
 - [webtorrent](https://github.com/feross/webtorrent) - Streaming torrent client for Node.js and the browser.
-- [peerflix ★4294](https://github.com/mafintosh/peerflix) - Streaming torrent client.
+- [peerflix ★4300](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 - [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
-- [ipfs ★976](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
-- [GitTorrent ★3663 ⏳1Y](https://github.com/cjb/GitTorrent) - Peer-to-peer network of Git repositories being shared over BitTorrent.
+- [ipfs ★992](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
+- [GitTorrent ★3661 ⏳1Y](https://github.com/cjb/GitTorrent) - Peer-to-peer network of Git repositories being shared over BitTorrent.
 - [stackgl](http://stack.gl) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [peerwiki ★255 ⏳2Y](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
-- [peercast ★328 ⏳2Y](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
+- [peercast ★329 ⏳2Y](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
 - [Bitcore](https://bitcore.io) - Pure and powerful Bitcoin library.
 - [PDFKit](http://pdfkit.org) - PDF generation library.
-- [turf ★2743](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
+- [turf ★2748](https://github.com/Turfjs/turf) - Modular geospatial processing and analysis engine.
 - [webcat ★344](https://github.com/mafintosh/webcat) - p2p pipe across the web using WebRTC that uses your GitHub private/public key for authentication.
 - [NodeOS](http://node-os.com) - The first operating system powered by npm.
-- [limdu ★590](https://github.com/erelsgl/limdu) - Machine-learning framework.
+- [limdu ★596](https://github.com/erelsgl/limdu) - Machine-learning framework.
 - [Cytoscape.js](http://js.cytoscape.org) - Graph theory (a.k.a. network) modeling and analysis.
-- [kad ★198](https://github.com/kadtools/kad) - Kademlia distributed hash table.
+- [kad ★203](https://github.com/kadtools/kad) - Kademlia distributed hash table.
 - [seedshot ★89](https://github.com/twobucks/seedshot) - Temporary P2P screenshot sharing from your browser.
-- [js-git ★3094](https://github.com/creationix/js-git) - JavaScript implementation of Git.
-- [skale ★138](https://github.com/skale-me/skale-engine) - High performance distributed data processing engine.
+- [js-git ★3097](https://github.com/creationix/js-git) - JavaScript implementation of Git.
+- [skale ★139](https://github.com/skale-me/skale-engine) - High performance distributed data processing engine.
 
 
 ### Command-line apps
 
-- [np ★2242](https://github.com/sindresorhus/np) - Better `npm publish`.
-- [trash ★1338](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
-- [npm-name ★48 ⏳1Y](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
-- [speed-test ★1887](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
-- [emoj ★1272](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
-- [pageres ★8037](https://github.com/sindresorhus/pageres) - Capture website screenshots.
-- [cpy ★127](https://github.com/sindresorhus/cpy) - Copy files.
-- [vtop ★2144](https://github.com/MrRio/vtop) - More better top, with nice charts.
+- [np ★2251](https://github.com/sindresorhus/np) - Better `npm publish`.
+- [trash ★1343](https://github.com/sindresorhus/trash) - Safer alternative to `rm`.
+- [npm-name ★56](https://github.com/sindresorhus/npm-name) - Check whether a package name is available on npm.
+- [speed-test ★1890](https://github.com/sindresorhus/speed-test) - Test your internet connection speed and ping.
+- [emoj ★1282](https://github.com/sindresorhus/emoj) - Find relevant emoji from text on the command-line.
+- [pageres ★8046](https://github.com/sindresorhus/pageres) - Capture website screenshots.
+- [cpy ★129](https://github.com/sindresorhus/cpy) - Copy files.
+- [vtop ★2153](https://github.com/MrRio/vtop) - More better top, with nice charts.
 - [empty-trash ★78](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 - [is-up ★259 ⏳1Y](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
-- [is-online ★285](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
-- [public-ip ★229](https://github.com/sindresorhus/public-ip) - Get your public IP address.
-- [clipboard-cli ★114](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
-- [ttystudio ★2720 ⏳1Y](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
-- [XO ★2715](https://github.com/sindresorhus/xo) - Enforce strict code style using the JavaScript happiness style.
+- [is-online ★287](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
+- [public-ip ★230](https://github.com/sindresorhus/public-ip) - Get your public IP address.
+- [clipboard-cli ★115](https://github.com/sindresorhus/clipboard-cli) - Copy & paste on the terminal.
+- [ttystudio ★2721 ⏳1Y](https://github.com/chjj/ttystudio) - Record your terminal and compile it to a GIF or APNG without any external dependencies, bash scripts, gif concatenation, etc.
+- [XO ★2726](https://github.com/sindresorhus/xo) - Enforce strict code style using the JavaScript happiness style.
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style — One style to rule them all.
 - [ESLint](http://eslint.org) - The pluggable linting utility for JavaScript.
-- [dev-time ★137 ⏳1Y](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
-- [David ★748](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
-- [http-server ★5183](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
-- [Live Server ★1417](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
+- [dev-time ★136 ⏳1Y](https://github.com/samverschueren/dev-time-cli) - Get the current local time of a GitHub user.
+- [David ★750](https://github.com/alanshaw/david) - Tells you when your package npm dependencies are out of date.
+- [http-server ★5219](https://github.com/indexzero/http-server) - Simple, zero-config command-line HTTP server.
+- [Live Server ★1428](https://github.com/tapio/live-server) - Development HTTP-server with livereload capability.
 - [bcat ★249 ⏳2Y](https://github.com/kessler/node-bcat) - Pipe command output to web browsers.
-- [normit ★168](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
-- [slap ★4596](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
-- [jsinspect ★1472](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
-- [esformatter ★889](https://github.com/millermedeiros/esformatter) - JavaScript code beautifier/formatter.
-- [fkill ★1480](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
+- [normit ★171](https://github.com/pawurb/normit) - Google Translate with speech synthesis in your terminal.
+- [slap ★4598](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
+- [jsinspect ★1486](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
+- [esformatter ★890](https://github.com/millermedeiros/esformatter) - JavaScript code beautifier/formatter.
+- [fkill ★1486](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [pjs ★315](https://github.com/danielstjules/pjs) - Pipeable JavaScript. Quickly filter, map, and reduce from the terminal.
-- [license-checker ★392](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
+- [license-checker ★396](https://github.com/davglass/license-checker) - Check licenses of your app's dependencies.
 - [browser-run ★269](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 - [tmpin ★102 ⏳2Y](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
-- [modhelp ★18 ⏳1Y](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
-- [wifi-password ★64](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
-- [wallpaper ★397](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
+- [modhelp ★19 ⏳1Y](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
+- [wifi-password ★65](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
+- [wallpaper ★399](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [brightness ★89 ⏳1Y](https://github.com/kevva/brightness-cli) - Change the screen brightness.
 - [torrent ★471 ⏳1Y](https://github.com/maxogden/torrent) - Download torrents.
 - [tfa ★23](https://github.com/jasnell/tfa) - Two-factor authentication client.
-- [rtail ★1323 ⏳1Y](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
-- [kill-tabs ★200](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
-- [alex ★1825](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
-- [vantage ★3302](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
+- [rtail ★1322 ⏳1Y](https://github.com/kilianc/rtail) - Terminal output to the browser in seconds, using UNIX pipes.
+- [kill-tabs ★202](https://github.com/sindresorhus/kill-tabs) - Kill all Chrome tabs to improve performance, decrease battery usage, and save memory.
+- [alex ★1843](https://github.com/wooorm/alex) - Catch insensitive, inconsiderate writing.
+- [vantage ★3305](https://github.com/dthree/vantage) - Distributed, realtime CLI for your live app.
 - [pen ★135](https://github.com/noraesae/pen) - Live Markdown preview in the browser from your favorite editor.
 - [subdownloader ★67](https://github.com/beatfreaker/subdownloader) - Subtitle downloader for movies and TV series.
-- [dark-mode ★179](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
-- [iponmap ★116](https://github.com/nogizhopaboroda/iponmap) - IP location finder.
+- [dark-mode ★177](https://github.com/sindresorhus/dark-mode) - Toggle the macOS Dark Mode.
+- [iponmap ★117](https://github.com/nogizhopaboroda/iponmap) - IP location finder.
 - [Jsome ★66](https://github.com/Javascipt/Jsome) - Pretty prints JSON with configurable colors and indentation.
-- [itunes-remote ★258 ⏳1Y](https://github.com/mischah/itunes-remote) - Interactively control iTunes.
-- [text-meme ★46](https://github.com/beatfreaker/text-meme-cli) - Generate a text meme.
+- [itunes-remote ★259 ⏳1Y](https://github.com/mischah/itunes-remote) - Interactively control iTunes.
+- [text-meme ★48](https://github.com/beatfreaker/text-meme-cli) - Generate a text meme.
 - [mobicon ★31 ⏳1Y](https://github.com/samverschueren/mobicon-cli) - Mobile app icon generator.
 - [mobisplash ★16](https://github.com/samverschueren/mobisplash-cli) - Mobile app splash screen generator.
-- [diff2html-cli ★70](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
-- [Cash ★7251](https://github.com/dthree/cash) - Cross-platform Unix shell commands in pure JavaScript.
-- [vaca ★77 ⏳1Y](https://github.com/sindresorhus/vaca) - Get a random ASCII 🐮.
+- [diff2html-cli ★72](https://github.com/rtfpessoa/diff2html-cli) - Pretty git diff to HTML generator.
+- [Cash ★7254](https://github.com/dthree/cash) - Cross-platform Unix shell commands in pure JavaScript.
+- [vaca ★76 ⏳1Y](https://github.com/sindresorhus/vaca) - Get a random ASCII 🐮.
 - [gh-home ★78](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
-- [npm-home ★50](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+- [npm-home ★51](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [trymodule ★973](https://github.com/VictorBjelkholm/trymodule) - Try out npm packages in the terminal.
 - [terminal-recorder ★57](https://github.com/cortezcristian/terminal-recorder) - Record your terminal usage and export it to interactive HTML.
-- [jscpd ★465](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
+- [jscpd ★474](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo ★443](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
-- [auto-install ★603](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
-- [lessmd ★60](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
-- [cost-of-modules ★1742](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
-- [localtunnel ★4805](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
+- [auto-install ★675](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
+- [lessmd ★61](https://github.com/linuxenko/lessmd) - Markdown in the terminal.
+- [cost-of-modules ★1794](https://github.com/siddharthkp/cost-of-modules) - Find out which dependencies are slowing you down.
+- [localtunnel ★4832](https://github.com/localtunnel/localtunnel) - Expose your localhost to the world.
 
 
 ### Functional programming
 
 - [lodash](https://lodash.com) - Utility library delivering consistency, customization, performance, & extras. A better and faster Underscore.js.
-- [immutable ★19351](https://github.com/facebook/immutable-js) - Immutable data collections.
+- [immutable ★19474](https://github.com/facebook/immutable-js) - Immutable data collections.
 - [mori](http://swannodette.github.io/mori/) - Library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 - [Ramda](http://ramdajs.com) - Utility library with a focus on flexible functional composition enabled by automatic currying and reversed argument order. Avoids mutating data.
 - [Folktale](http://folktalejs.org) - Suite of libraries for generic functional programming in JavaScript that allows you to write elegant, modular applications with fewer bugs, and more reuse.
@@ -199,111 +199,111 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Mout](http://moutjs.com) - Utility library with the biggest difference between other existing solutions is that you can choose to load only the modules/functions that you need, no extra overhead.
 - [Bacon.js](http://baconjs.github.io) - Functional reactive programming.
 - [RxJS](http://reactivex.io) - Functional reactive library for transforming, composing, and querying various kinds of data.
-- [Lazy.js ★4193](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
-- [Kefir.js ★1268](https://github.com/rpominov/kefir) - Reactive library with focus on high performance and low memory usage.
+- [Lazy.js ★4199](https://github.com/dtao/lazy.js) - Utility library similar to lodash/Underscore but with lazy evaluation, which can translate to superior performance in many cases.
+- [Kefir.js ★1271](https://github.com/rpominov/kefir) - Reactive library with focus on high performance and low memory usage.
 
 
 ### HTTP
 
-- [got ★1759](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
-- [gh-got ★77](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API.
-- [axios ★22083](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
-- [request ★15950](https://github.com/request/request) - Simplified HTTP request client.
+- [got ★1781](https://github.com/sindresorhus/got) - Nicer interface to the built-in `http` module.
+- [gh-got ★79](https://github.com/sindresorhus/gh-got) - Convenience wrapper for `got` to interact with the GitHub API.
+- [axios ★22595](https://github.com/mzabriskie/axios) - Promise based HTTP client (works in the browser too).
+- [request ★16048](https://github.com/request/request) - Simplified HTTP request client.
 - [Nock](https://github.com/pgte/nock) - HTTP mocking and expectations library.
 - [spdy](https://github.com/indutny/node-spdy) - Creates SPDY servers with the same API as the built-in `https` module.
-- [wreck ★259](https://github.com/hapijs/wreck) - HTTP Client Utilities.
-- [download ★518](https://github.com/kevva/download) - Download and extract files effortlessly.
-- [http-proxy ★7343](https://github.com/nodejitsu/node-http-proxy) - HTTP proxy.
-- [rocky ★249](https://github.com/h2non/rocky) - Featured, middleware-oriented HTTP proxy with traffic replay and intercept.
-- [superagent ★10796](https://github.com/visionmedia/superagent) - HTTP request library.
-- [node-fetch ★1830](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
-- [flashheart ★55](https://github.com/bbc/flashheart) - REST client.
-- [http-fake-backend ★96](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
+- [wreck ★260](https://github.com/hapijs/wreck) - HTTP Client Utilities.
+- [download ★523](https://github.com/kevva/download) - Download and extract files effortlessly.
+- [http-proxy ★7377](https://github.com/nodejitsu/node-http-proxy) - HTTP proxy.
+- [rocky ★251](https://github.com/h2non/rocky) - Featured, middleware-oriented HTTP proxy with traffic replay and intercept.
+- [superagent ★10855](https://github.com/visionmedia/superagent) - HTTP request library.
+- [node-fetch ★1858](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
+- [flashheart ★58](https://github.com/bbc/flashheart) - REST client.
+- [http-fake-backend ★97](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
 
 
 ### Debugging / Profiling
 
-- [ironNode ★2326](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box.
-- [node-inspector ★11484](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
-- [devtool ★3705](https://github.com/Jam3/devtool) - Run Node.js programs through Chrome Dev Tools.
+- [ironNode ★2327](https://github.com/s-a/iron-node) - Node.js debugger supporting ES2015 out of the box.
+- [node-inspector ★11506](https://github.com/node-inspector/node-inspector) - Debugger based on Blink Developer Tools.
+- [devtool ★3704](https://github.com/Jam3/devtool) - Run Node.js programs through Chrome Dev Tools.
 - [Theseus ★1347 ⏳2Y](https://github.com/adobe-research/theseus) - JavaScript debugger featuring real-time code coverage, retroactive inspection and asynchronous call tree.
-- [longjohn ★586](https://github.com/mattinsler/longjohn) - Long stack traces with configurable call trace length.
-- [debug ★4451](https://github.com/visionmedia/debug) - Tiny debugging utility.
+- [longjohn ★588](https://github.com/mattinsler/longjohn) - Long stack traces with configurable call trace length.
+- [debug ★4475](https://github.com/visionmedia/debug) - Tiny debugging utility.
 - [jstrace ★378](https://github.com/jstrace/jstrace) - Dynamic tracing for JavaScript, similar to dtrace, ktap etc.
-- [why-is-node-running ★548](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
+- [why-is-node-running ★549](https://github.com/mafintosh/why-is-node-running) - Node.js is running but you don't know why?
 - [njsTrace ★197 ⏳1Y](https://github.com/valyouw/njstrace) - Instrument and trace your code, see all function calls, arguments, return values, as well as the time spent in each function.
 - [vstream ★54 ⏳2Y](https://github.com/joyent/node-vstream) - Instrumentable streams mix-ins to inspect a pipeline of streams.
 - [stackman ★129](https://github.com/watson/stackman) - Enhance an error stacktrace with code excerpts and other goodies.
 - [locus](https://github.com/alidavut/locus) - Starts a REPL at runtime that has access to all variables.
 - [bugger ★150](https://github.com/buggerjs/bugger) - Provides Chrome Devtools bindings to debug programs in Chrome.
-- [0x ★509](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
+- [0x ★513](https://github.com/davidmarkclements/0x) - Flamegraph profiling.
 - [ctrace ★81 ⏳1Y](https://github.com/automation-stack/ctrace) - Well-formatted and improved trace system calls and signals.
 - [leakage ★1070](https://github.com/andywer/leakage) - Write memory leak tests.
 
 
 ### Logging
 
-- [pino ★1138](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
-- [winston ★7751](https://github.com/winstonjs/winston) - Multi-transport async logging library.
-- [Bunyan ★4098](https://github.com/trentm/node-bunyan) - JSON logging library.
+- [pino ★1153](https://github.com/pinojs/pino) - Extremely fast logger inspired by Bunyan.
+- [winston ★7806](https://github.com/winstonjs/winston) - Multi-transport async logging library.
+- [Bunyan ★4121](https://github.com/trentm/node-bunyan) - JSON logging library.
 - [intel](http://seanmonstar.github.io/intel/) - Logging library (handlers, filters, formatters, console injection).
 - [console-log-level ★14](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
-- [storyboard ★328](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
+- [storyboard ★331](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
 
 ### Command-line utilities
 
-- [chalk ★5556](https://github.com/chalk/chalk) - Terminal string styling done right.
-- [meow ★845](https://github.com/sindresorhus/meow) - CLI app helper.
-- [minimist ★2293](https://github.com/substack/minimist) - Parse command-line flags.
+- [chalk ★6056](https://github.com/chalk/chalk) - Terminal string styling done right.
+- [meow ★857](https://github.com/sindresorhus/meow) - CLI app helper.
+- [minimist ★2316](https://github.com/substack/minimist) - Parse command-line flags.
 - [get-stdin ★116](https://github.com/sindresorhus/get-stdin) - Easier stdin.
-- [ora ★1819](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
-- [log-update ★324](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
-- [Inquirer.js ★4607](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
-- [listr ★858](https://github.com/samverschueren/listr) - Terminal task list.
-- [conf ★157](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
-- [update-notifier ★685](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
-- [ansi-escapes ★118](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
-- [log-symbols ★212](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
-- [figures ★163](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
-- [boxen ★223](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
-- [string-width ★68](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
+- [ora ★1845](https://github.com/sindresorhus/ora) - Elegant terminal spinner.
+- [log-update ★327](https://github.com/sindresorhus/log-update) - Log by overwriting the previous output in the terminal. Useful for rendering progress bars, animations, etc.
+- [Inquirer.js ★4640](https://github.com/SBoudrias/Inquirer.js) - Interactive command-line prompt.
+- [listr ★865](https://github.com/samverschueren/listr) - Terminal task list.
+- [conf ★160](https://github.com/sindresorhus/conf) - Simple config handling for your app or module.
+- [update-notifier ★691](https://github.com/yeoman/update-notifier) - Update notifications for your CLI app.
+- [ansi-escapes ★119](https://github.com/sindresorhus/ansi-escapes) - ANSI escape codes for manipulating the terminal.
+- [log-symbols ★214](https://github.com/sindresorhus/log-symbols) - Colored symbols for various log levels.
+- [figures ★168](https://github.com/sindresorhus/figures) - Unicode symbols with Windows CMD fallbacks.
+- [boxen ★227](https://github.com/sindresorhus/boxen) - Create boxes in the terminal.
+- [string-width ★69](https://github.com/sindresorhus/string-width) - Get the visual width of a string - the number of columns required to display it.
 - [cli-truncate ★22](https://github.com/sindresorhus/cli-truncate) - Truncate a string to a specific width in the terminal.
-- [first-run ★32](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run.
-- [vorpal ★3967](https://github.com/dthree/vorpal) - Interactive CLI apps.
-- [blessed ★6230](https://github.com/chjj/blessed) - Curses-like library.
+- [first-run ★33](https://github.com/sindresorhus/first-run) - Check if it's the first time the process is run.
+- [vorpal ★3973](https://github.com/dthree/vorpal) - Interactive CLI apps.
+- [blessed ★6255](https://github.com/chjj/blessed) - Curses-like library.
 - [yn ★73](https://github.com/sindresorhus/yn) - Parse yes/no like values.
-- [cli-table ★1275](https://github.com/Automattic/cli-table) - Pretty unicode tables.
-- [drawille ★623](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
+- [cli-table ★1280](https://github.com/Automattic/cli-table) - Pretty unicode tables.
+- [drawille ★626](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
 - [sudo-block ★43](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
 - [googleauth ★39 ⏳2Y](https://github.com/maxogden/googleauth) - Create and load persistent Google authentication tokens for command-line apps.
-- [ascii-charts ★199](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
+- [ascii-charts ★203](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
 - [progress](https://github.com/tj/node-progress) - Flexible ascii progress bar.
-- [insight ★361](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
+- [insight ★364](https://github.com/yeoman/insight) - Helps you understand how your tool is being used by anonymously reporting usage metrics to Google Analytics.
 - [cli-cursor ★28](https://github.com/sindresorhus/cli-cursor) - Toggle the CLI cursor.
-- [columnify ★232 ⏳1Y](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping.
+- [columnify ★233 ⏳1Y](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping.
 - [cli-columns ★6](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
 - [cfonts ★170](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
 - [multispinner ★181](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
-- [omelette ★612](https://github.com/f/omelette) - Shell autocompletion helper.
-- [cross-env ★1440](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
-- [shelljs ★6133](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
-- [loud-rejection ★161](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
-- [sparkly ★244 ⏳1Y](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
-- [term-img ★160](https://github.com/sindresorhus/term-img) - Display images in your terminal.
-- [yargs ★3104](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
-- [DraftLog ★789](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
-- [Bit ★650](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
+- [omelette ★614](https://github.com/f/omelette) - Shell autocompletion helper.
+- [cross-env ★1467](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
+- [shelljs ★6160](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
+- [loud-rejection ★163](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
+- [sparkly ★245 ⏳1Y](https://github.com/sindresorhus/sparkly) - Generate sparklines ▁▂▃▅▂▇
+- [term-img ★159](https://github.com/sindresorhus/term-img) - Display images in your terminal.
+- [yargs ★3134](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
+- [DraftLog ★791](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
+- [Bit ★655](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
 
 
 ### Build tools
 
-- [webpack ★29591](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
-- [rollup ★9746](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
+- [webpack ★29663](https://github.com/webpack/webpack) - Packs modules and assets for the browser.
+- [rollup ★9805](https://github.com/rollup/rollup) - Next-generation ES2015 module bundler.
 - [gulp](http://gulpjs.com) - Streaming and fast build system that favors code over config.
-- [browserify ★11139](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
-- [Broccoli ★3040](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
-- [Brunch ★5973](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
+- [browserify ★11155](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
+- [Broccoli ★3041](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
+- [Brunch ★5982](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
 - [strong-build ★39](https://github.com/strongloop/strong-build) - Build a node app package and prepare to deploy it as a package to production or use git to commit to a deploy branch.
 - [start ★196](https://github.com/start-runner/start) - Simple tasks runner powered by composable functions and promise chaining.
 - [ygor ★34](https://github.com/shannonmoeller/ygor) - Promising task runner for when `npm run` isn't enough and everything else is too much.
@@ -372,7 +372,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [del ★641](https://github.com/sindresorhus/del) - Delete files/folders using globs.
 - [globby ★338](https://github.com/sindresorhus/globby) - Glob files with support for multiple patterns.
-- [cpy ★127](https://github.com/sindresorhus/cpy) - Copy files.
+- [cpy ★129](https://github.com/sindresorhus/cpy) - Copy files.
 - [rimraf ★1749](https://github.com/isaacs/rimraf) - Recursively delete files like `rm -rf`.
 - [make-dir ★181](https://github.com/sindresorhus/make-dir) - Recursively create directories like `mkdir -p`.
 - [graceful-fs ★626](https://github.com/isaacs/node-graceful-fs) - Drop-in replacement for the `fs` module with various improvements.

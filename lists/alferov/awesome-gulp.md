@@ -238,7 +238,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-strip-debug ★194](https://github.com/sindresorhus/gulp-strip-debug) - Strip console, alert, and debugger statements from JavaScript code.
 * [gulp-cssimport ★25](https://github.com/unlight/gulp-cssimport) - Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it.
 * [gulp-inline-css ★216](https://github.com/jonkemp/gulp-inline-css) - Inline your CSS properties into the style attribute in an HTML file.
-* [gulp-gh-pages ★548](https://github.com/shinnn/gulp-gh-pages) - Publish contents to Github pages.
+* [gulp-gh-pages ★548 ⏳1Y](https://github.com/shinnn/gulp-gh-pages) - Publish contents to Github pages.
 * [gulp-ng-annotate](https://github.com/Kagami/gulp-ng-annotate) - Add AngularJS dependency injection annotations with [ng-annotate ★2078](https://github.com/olov/ng-annotate).
 * [gulp-bump ★230](https://github.com/stevelacy/gulp-bump) - Bump any semver JSON version.
 * [gulp-file-include ★414](https://github.com/coderhaoxin/gulp-file-include) - Include files with gulp.

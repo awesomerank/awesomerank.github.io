@@ -122,7 +122,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and implementations of algorithms and data structures.*
 
 * [array ★18](https://github.com/takscape/elixir-array) - An Elixir wrapper library for Erlang's array.
-* [aruspex ★14](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
+* [aruspex ★14 ⏳1Y](https://github.com/dkendal/aruspex) - Aruspex is a configurable constraint solver, written purely in Elixir.
 * [bitmap ★16](https://github.com/hashd/bitmap-elixir) - Pure Elixir implementation of [bitmaps](https://en.wikipedia.org/wiki/Bitmap).
 * [blocking_queue ★33](https://github.com/joekain/BlockingQueue) - BlockingQueue is a simple queue implemented as a GenServer. It has a fixed maximum length established when it is created.
 * [bloomex ★32](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
@@ -289,7 +289,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Bittorrent
 *Sharing is caring with Elixir*
 
-* [bento ★32](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
+* [bento ★32 ⏳1Y](https://github.com/folz/bento) - An incredibly fast, correct, pure-Elixir Bencoding library.
 * [tracker_request ★8 ⏳2Y](https://github.com/alehander42/tracker_request) - Dealing with bittorrent tracker requests and responses.
 * [wire ★9 ⏳1Y](https://github.com/alehander42/wire) - Encode and decode bittorrent peer wire protocol messages with Elixir.
 
@@ -342,6 +342,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Chatting
 *Chatting via IRC, Slack, HipChat and other systems using Elixir.*
 
+* [alice ★17](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
 * [chatty ★30](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 * [cog ★742](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
 * [ExIrc ★85](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
@@ -534,6 +535,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Encoding and Compression
 *Transforming data in different formats or compressing it.*
 
+* [ex_rlp ★0](https://github.com/exthereum/ex_rlp) - Elixir implementation of Ethereum's RLP (Recursive Length Prefix) encoding.
 * [huffman ★12 ⏳2Y](https://github.com/SenecaSystems/huffman) - Huffman encoding and decoding in Elixir.
 
 ## Errors and Exception Handling
@@ -578,7 +580,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries to manage feature toggles (AKA feature flags): ON/OFF values that can be toggled at runtime through some interface*
 
 * [flippant ★16](https://github.com/sorentwo/flippant) - Feature flipping for the Elixir world.
-* [fun_with_flags ★44](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis for persistance, ETS for local caching and Redis PubSub for inter-node cache busting. Optimized for speed and low Redis usage.
+* [fun_with_flags ★44](https://github.com/tompave/fun_with_flags) - A feature toggle library using Redis or Ecto for persistance, an ETS cache for speed and PubSub for distributed cache busting. Comes with a management web UI for Phoenix and Plug.
 * [molasses ★52](https://github.com/securingsincity/molasses) - A feature toggle library using redis or SQL (using Ecto) as a backing service.
 
 ## Feeds
@@ -747,6 +749,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [lhttpc ★1 ⏳1Y](https://github.com/talko/lhttpc) - A lightweight HTTP/1.1 client implemented in Erlang.
 * [mnemonic_slugs ★4](https://github.com/devshane/mnemonic_slugs) - A memorable, mnemonic slug generator in Elixir.
 * [mochiweb ★1487](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
+* [neuron ★37](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 * [plug_wait1 ★1](https://github.com/wait1/plug_wait1) - Plug adapter for the wait1 protocol.
 * [river ★61](https://github.com/peburrows/river) - An HTTP/2 client that is lightweight and lightning fast.
 * [scrape ★169](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
@@ -863,7 +866,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [backports ★1](https://github.com/leifg/backports) - Use new functions in Elixir 1.1 and 1.2.
 * [eventsourced ★72](https://github.com/slashdotdash/eventsourced) - Build functional, event-sourced domain models.
 * [exceptional ★62](https://github.com/expede/exceptional) - Helpers for happy-path programming & exception handling.
-* [expat ★45](https://github.com/vic/expat) - Simple pattern generator for matching on elixir quoted expressions.
+* [expat ★45](https://github.com/vic/expat) - Reusable, composable patterns across Elixir libraries.
 * [guardsafe ★19 ⏳1Y](https://github.com/DevL/guardsafe) - Macros expanding into code that can be safely used in guard clauses.
 * [happy ★25](https://github.com/vic/happy) - Happy path programming, alternative to elixir `with` form.
 * [kwfuns ★2 ⏳1Y](https://github.com/RobertDober/lab42_defkw) - Macros to create functions with syntax based keyword parameters with default values.
@@ -950,6 +953,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [gibran](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted ★101](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
 * [Paasaa ★32](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
+* [Petrovich ★11](https://github.com/petrovich/petrovich_elixir) - Elixir library to inflect Russian first, last, and middle names.
 * [Woolly ★27](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
 
 ## Networking
@@ -1119,6 +1123,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [kafka_ex ★187](https://github.com/kafkaex/kafka_ex) - Kafka client library for Elixir.
 * [mqs ★27 ⏳1Y](https://github.com/synrc/mqs) - RabbitMQ client library, routing keys, RPC over MQ and other stuff.
 * [pqueue ★91](https://github.com/okeuday/pqueue) - Erlang Priority Queue Implementation.
+* [que ★222](https://github.com/sheharyarn/que) - Simple Background Job Processing with Mnesia.
 * [queuex ★8](https://github.com/falood/queuex) - Priority Queue with multiple backends.
 * [RBMQ ★11](https://github.com/Nebo15/rbmq) - Simple API for spawning RabbitMQ Producers and Consumers.
 * [stream_weaver](https://hex.pm/packages/stream_weaver) - Library for working with streams.
@@ -1164,10 +1169,10 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Static Page Generation
 *Tools and libraries for generating static websites and content.*
 
+* [blogit ★7](https://github.com/meddle0x53/blogit) - An OTP application for generating blogs from git repositories containing markdown files.
 * [coil ★50 ⏳3Y](https://github.com/badosu/coil) - Minimalistic static content engine.
 * [obelisk ★238](https://github.com/BennyHallett/obelisk) - Static blog and website generator.
 * [serum ★42](https://github.com/Dalgona/Serum) - A simple static website generator written in Elixir.
-
 
 ## Statistics
 *Libraries around the topic statistics.*

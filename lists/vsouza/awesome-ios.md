@@ -710,7 +710,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [NAMapKit ★254 ⏳1Y](https://github.com/neilang/NAMapKit) - Allows you to use custom maps in iPhone applications and attempts to mimics some of the behaviour of the MapKit framework.
 * [Mapbox GL ★1954](https://github.com/mapbox/mapbox-gl-native) - An OpenGL renderer for Mapbox Vector Tiles with SDK bindings for iOS.
 * [CMMapLauncher ★186 ⏳1Y](https://github.com/citymapper/CMMapLauncher) - iOS library that makes it quick and easy to show directions in various mapping applications.
-* [GEOSwift ★800](https://github.com/andreacremaschi/GEOSwift) - The Swift Geographic Engine. :large_orange_diamond:
+* [GEOSwift ★803](https://github.com/GEOSwift/GEOSwift) - The Swift Geographic Engine. :large_orange_diamond:
 * [PXGoogleDirections ★178](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper for iOS, written in Swift :large_orange_diamond:
 * [Cluster ★634](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering. :large_orange_diamond:
 
@@ -773,13 +773,13 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AsyncImageView ★942](https://github.com/nicklockwood/AsyncImageView) - Simple extension of UIImageView for loading and displaying images asynchronously without lock up the UI.
 * [SDWebImage ★18017](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support with an UIImageView category.
 * [DFImageManager ★1215](https://github.com/kean/DFImageManager) - Modern framework for fetching images from various sources. Zero config yet immense customization and extensibility. Uses NSURLSession.
-* [MapleBacon ★185](https://github.com/zalando-incubator/MapleBacon) - An image download and caching library for iOS written in Swift. :large_orange_diamond:
+* [MapleBacon ★186](https://github.com/JanGorman/MapleBacon) - An image download and caching library for iOS written in Swift. :large_orange_diamond:
 * [NYTPhotoViewer ★2097](https://github.com/NYTimes/NYTPhotoViewer) - Slideshow and image viewer.
 * [IDMPhotoBrowser ★2353](https://github.com/thiagoperes/IDMPhotoBrowser) - Photo Browser / Viewer.
 * [JTSImageViewController ★2236](https://github.com/jaredsinclair/JTSImageViewController) - Interactive iOS image viewer.
 * [Concorde ★1238 ⏳1Y](https://github.com/contentful-labs/Concorde) - Download and decode progressive JPEGs.
 * [TOCropViewController ★1607](https://github.com/TimOliver/TOCropViewController) - A view controller that allows users to crop UIImage objects.
-* [YXTMotionView ★77 ⏳1Y](https://github.com/hanton/YXTMotionView) - A custom image view that implements device motion scrolling.
+* [YXTMotionView ★77 ⏳2Y](https://github.com/hanton/YXTMotionView) - A custom image view that implements device motion scrolling.
 * [PINRemoteImage ★2993](https://github.com/pinterest/PINRemoteImage) - A thread safe, performant, feature rich image fetcher.
 * [SABlurImageView ★450](https://github.com/marty-suzuki/SABlurImageView) - Easily Adding Animated Blur/Unblur Effects To An Image. :large_orange_diamond:
 * [FastImageCache ★7439](https://github.com/path/FastImageCache) - iOS library for quickly displaying images while scrolling.
@@ -1000,7 +1000,7 @@ Most of these are paid services, some have free tiers.
 * [Boxcar](https://boxcar.io)
 * [Carnival](http://www.carnival.io)
 * [Catapush](http://www.catapush.com/)
-* [Netmera](http://www.netmera.com)
+* [Netmera](https://www.netmera.com/)
 * [OneSignal](https://onesignal.com) - Free.
 * [PushBots](https://pushbots.com/)
 * [Pushwoosh](https://www.pushwoosh.com)
@@ -1250,6 +1250,7 @@ Most of these are paid services, some have free tiers.
 * [iOS-App-Security-Class ★29](https://github.com/karek314/iOS-App-Security-Class) - Simple class to check if iOS app has been cracked, being debugged or enriched with custom dylib and as well detect jailbroken environment.
 * [BiometricAuth ★15](https://github.com/vasilenkoigor/BiometricAuth) - Simple framework for biometric authentication (via TouchID) in your application 🔶
 * [SAPinViewController ★14](https://github.com/siavashalipour/SAPinViewController) - Simple and easy to use default iOS PIN screen. This simple library allows you to draw a fully customisable PIN screen same as the iOS default PIN view. My inspiration to create this library was form THPinViewController, however SAPinViewController is completely implemented in Swift. Also the main purpose of creating this library was to have simple, easy to use and fully customisable PIN screen. 🔶
+* [VoiceItAPI1IosSDK ★2](https://github.com/voiceittech/VoiceItAPI1IosSDK) - A super easy way to add Voice Authentication(Biometrics) to your iOS apps, conveniently usable via cocoapods :large_orange_diamond:
 
 #### Encryption
 * [AESCrypt-ObjC ★664 ⏳1Y](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
@@ -1826,6 +1827,7 @@ Most of these are paid services, some have free tiers.
 * [NFDownloadButton ★232](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. 🔶
 * [LGButton ★570](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code. :large_orange_diamond:
 * [MultiToggleButton ★20](https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (Like the camera flash and timer buttons). :large_orange_diamond:
+* [PMSuperButton ★55](https://github.com/Codeido/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard! 🔶
 
 #### Calendar
 * [CVCalendar ★2583](https://github.com/CVCalendar/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
@@ -2273,7 +2275,7 @@ Most of these are paid services, some have free tiers.
  * [Cent ★152](https://github.com/ankurp/Cent) - Extensions for Swift Standard Types and Classes :large_orange_diamond:
  * [AssistantKit ★398](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift. :large_orange_diamond:
  * [SwiftLinkPreview ★682](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images. 🔶
- * [BundleInfos ★0](https://github.com/singcodes/BundleInfos) - Simple getter for Bundle informations. like short version from bundle. 🔶
+ * [BundleInfos ★0 ⏳1Y](https://github.com/singcodes/BundleInfos) - Simple getter for Bundle informations. like short version from bundle. 🔶
  * [YAML.framework ★177](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
  * [ReadabilityKit ★589](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift. 🔶
  * [MissionControl-iOS ★100](https://github.com/appculture/MissionControl-iOS) - Super powerful remote config utility written in Swift (iOS, watchOS, tvOS, OSX) :large_orange_diamond:

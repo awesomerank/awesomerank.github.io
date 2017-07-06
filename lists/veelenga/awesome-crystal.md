@@ -24,7 +24,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Configuration](#configuration)
   * [Converters](#converters)
   * [Data Generators](#data-generators)
-  * [Database Drivers](#database-drivers)
+  * [Database Drivers/Clients](#database-driversclients)
   * [Database Tools](#database-tools)
   * [Development Tools](#development-tools)
   * [Email](#email)
@@ -105,7 +105,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [posix ★16](https://github.com/ysbaddaden/posix) - POSIX/C bindings
  * [soundfile ★0](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [ssh2.cr ★21](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
- * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow ★62156](https://github.com/tensorflow/tensorflow)
  * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox ★1057](https://github.com/nsf/termbox) (terminal UI library)
  * [x11-cr ★1](https://github.com/TamasSzekeres/x11-cr) - X11 bindings
 
@@ -128,6 +127,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [progress_bar.cr ★0](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner ★35](https://github.com/askn/spinner) - Terminal Spinner
  * [terminal_table.cr ★12](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
+ * [todo ★1](https://github.com/Nephos/todo) - Todo list working in command line
 
 ## Configuration
  * [cr-dotenv ★21](https://github.com/gdotdesign/cr-dotenv) - Loads .env file
@@ -145,7 +145,8 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [faker ★65](https://github.com/askn/faker) - A library for generating fake data
  * [hashids.cr ★19](https://github.com/splattael/hashids.cr) - A library to generate YouTube-like ids from one or many numbers
 
-## Database Drivers
+## Database Drivers/Clients
+ * [arangocr ★7](https://github.com/solisoft/arangocr) - ArangoDB client
  * [crystal-db ★70](https://github.com/crystal-lang/crystal-db) - Common db api
  * [crystal-leveldb ★16](https://github.com/greyblake/crystal-leveldb) - Crystal bindings for LevelDB
  * [crystal-monetdb-libmapi ★1](https://github.com/puppetpies/crystal-monetdb-libmapi) - Bindings for MonetDB
@@ -276,7 +277,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Machine Learning
  * [crystal-fann ★9](https://github.com/bararchy/crystal-fann) - FANN (Fast Artifical Neural Network) binding
+ * [crystal-learn ★23](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
  * [grey_matter ★5](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
+ * [machine ★16](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
+ * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow ★62156](https://github.com/tensorflow/tensorflow)
 
 ## Markdown/Text Processors
  * [html-pipeline ★3](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities
@@ -308,6 +312,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [syscall.cr ★11](https://github.com/kubo39/syscall.cr) - Raw syscall interface
  * [tren ★70](https://github.com/sdogruyol/tren) - Give your SQL some love
  * [ulid ★3](https://github.com/SuperPaintman/ulid) - Universally Unique Lexicographically Sortable Identifier (ULID)
+ * [wikicr ★3](https://github.com/Nephos/wikicr) - Wiki using git to manage revisions
 
 ## Networking
  * [amqp.cr ★27](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
@@ -317,6 +322,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [fast_irc.cr ★5](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [ipaddress.cr ★10](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
  * [msgpack-crystal ★51](https://github.com/benoist/msgpack-crystal) - MessagePack library
+ * [transfer_more ★8](https://github.com/Nephos/transfer_more) - Clone of transfer.sh to uploads files
 
 ## ORM/ODM Extensions
  * [active_record.cr ★156](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
@@ -363,8 +369,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [schedule.cr ★12](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
 ## Science and Data analysis
- * [crystal-learn ★23](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
- * [machine ★16](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
  * [predict.cr ★4](https://github.com/RX14/predict.cr) - Satellite prediction library using the sgp4 model
  * [scorystal ★2](https://github.com/asafschers/scorystal) - Scoring API for PMML - supports RF and GBM
  * [stats ★5](https://github.com/Nephos/stats) - An expressive implementation of statistical distributions

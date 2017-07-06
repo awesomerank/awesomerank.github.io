@@ -67,7 +67,7 @@ title: Awesome Rank for sindresorhus/awesome
 
 ## Platforms
 
-- [Node.js ★17657](lists/sindresorhus/awesome-nodejs.md) - JavaScript runtime built on Chrome's V8 JavaScript engine. 
+- [Node.js ★17764](lists/sindresorhus/awesome-nodejs.md) - JavaScript runtime built on Chrome's V8 JavaScript engine. 
 - [Frontend Development ★21894](lists/dypsilon/frontend-dev-bookmarks.md)
 - [iOS ★20514](lists/vsouza/awesome-ios.md)
 - [Android ★4092](lists/JStumpp/awesome-android.md)

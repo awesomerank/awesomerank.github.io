@@ -103,7 +103,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *Module or loading system for JavaScript.*
 
 * [RequireJS ★10716](https://github.com/requirejs/requirejs) - A file and module loader for JavaScript.
-* [browserify ★11139](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
+* [browserify ★11155](https://github.com/substack/node-browserify) - Browser-side require() the node.js way.
 * [SeaJS ★6815](https://github.com/seajs/seajs) - A Module Loader for the Web.
 * [HeadJS ★4115](https://github.com/headjs/headjs) - The only script in your HEAD.
 * [curl ★1758](https://github.com/cujojs/curl) - A small, fast, extensible module loader that handles AMD, CommonJS Modules/1.1, CSS, HTML/text, and legacy scripts.
@@ -117,10 +117,10 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## Bundlers
 
-* [browserify ★11139](https://github.com/substack/node-browserify) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
-* [webpack ★29591](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
-* [Rollup ★9746](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
-* [Brunch ★5973](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
+* [browserify ★11155](https://github.com/substack/node-browserify) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
+* [webpack ★29663](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
+* [Rollup ★9805](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
+* [Brunch ★5982](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 
 
 ## Testing Frameworks
@@ -169,7 +169,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [JSHint ★7290](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 * [jscs ★5139](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt ★1703](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
-* [jsinspect ★1472](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
+* [jsinspect ★1486](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 * [buddy.js ★556](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 * [ESLint ★7961](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint ★2975](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
@@ -357,7 +357,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [underscore ★20951](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt.
 * [lodash ★24443](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 * [Sugar ★3336](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
-* [lazy.js ★4193](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
+* [lazy.js ★4199](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda ★30](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
 * [mout ★747](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [mesh ★1026](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
@@ -378,7 +378,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
 
-* [immutable-js ★19351](https://github.com/facebook/immutable-js) - Immutable Data Collections including Sequence, Range, Repeat, Map, OrderedMap, Set and a sparse Vector.
+* [immutable-js ★19474](https://github.com/facebook/immutable-js) - Immutable Data Collections including Sequence, Range, Repeat, Map, OrderedMap, Set and a sparse Vector.
 * [mori ★2661](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [buckets ★733](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap ★266](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
@@ -493,7 +493,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Log
 
-* [log ★2470](https://github.com/adamschwartz/log) - Console.log with style.
+* [log ★2470 ⏳1Y](https://github.com/adamschwartz/log) - Console.log with style.
 * [Conzole ★184 ⏳1Y](https://github.com/Oaxoa/Conzole) - A debug panel built in javascript that wraps javascript native console object methods and functionality in a panel displayed inside the page.
 * [console.log-wrapper ★393](https://github.com/patik/console.log-wrapper) - Log to the console in any browser with clarity.
 * [loglevel ★824](https://github.com/pimterry/loglevel) - Minimal lightweight logging for JavaScript, adding reliable log level methods to wrap any available console.log methods.

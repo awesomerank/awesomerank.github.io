@@ -229,8 +229,11 @@ Processing Unit (GPU).
 ### WebGL 2
 * [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
-### Others
+### WebVR
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
+  * [Awesome-AFrame ★1035](https://github.com/aframevr/awesome-aframe)
+
+### Others
 * [Ammo.js ★1122](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 * [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.

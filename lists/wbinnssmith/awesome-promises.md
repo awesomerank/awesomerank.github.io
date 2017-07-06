@@ -61,7 +61,7 @@ Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list
 ### Strict Implementations
 These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.
 
-* [pinkie](https://github.com/floatdrop/pinkie) - Ponyfill. Node-oriented, but [browserifyable ★11139](https://github.com/substack/node-browserify). *Extremely* small implementation.
+* [pinkie](https://github.com/floatdrop/pinkie) - Ponyfill. Node-oriented, but [browserifyable ★11155](https://github.com/substack/node-browserify). *Extremely* small implementation.
 * [native-promise-only ★552](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible.
 * [es6-promise ★4645](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js.
 * [lie ★557](https://github.com/calvinmetcalf/lie) - Small, browserifyable with an opt-in polyfill.
@@ -88,7 +88,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 ### sindresorhus's many Promise utilities ([see notes ★912](https://github.com/sindresorhus/promise-fun))
 * [delay ★129](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
 * [pify ★614](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function.
-* [loud-rejection ★161](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
+* [loud-rejection ★163](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
 * [hard-rejection ★51](https://github.com/sindresorhus/hard-rejection) - Make unhandled promise rejections fail hard right away instead of the default silent fail
 * [p-queue ★95](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
 * [p-break ★6](https://github.com/sindresorhus/p-break) - Break out of a promise chain

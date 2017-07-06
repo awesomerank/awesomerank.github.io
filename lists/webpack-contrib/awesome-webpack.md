@@ -12,7 +12,7 @@ title: Awesome Rank for webpack-contrib/awesome-webpack
 	<br>
 </h3>
 
-**[webpack ★29591](https://github.com/webpack/webpack)** is a **module bundler**.
+**[webpack ★29663](https://github.com/webpack/webpack)** is a **module bundler**.
 
 webpack takes modules with dependencies and generates static assets representing those modules.
 <br>

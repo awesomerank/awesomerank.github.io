@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-843-orange.svg) | June 27, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-847-orange.svg) | July 05, 2017
 
 ### Contributing
 
@@ -303,6 +303,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Stellar ★2349](https://github.com/AugustRush/Stellar) - A Physical animation library.
 * [SwiftyAnimate ★133](https://github.com/rchatham/SwiftyAnimate) - Composable animations.
 * [Walker ★124](https://github.com/RamonGilabert/Walker) - An animation engine to make your animations easy and more readable.
+* [YapAnimator ★379](https://github.com/yapstudios/YapAnimator) - Your fast and friendly physics-based animation system.
 * [ZoomTransitioning ★515](https://github.com/WorldDownTown/ZoomTransitioning) - A custom transition with image zooming animation.
 
 ### API
@@ -736,7 +737,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [KFSwiftImageLoader ★334](https://github.com/kiavashfaisali/KFSwiftImageLoader) - An extremely high-performance, lightweight, and energy-efficient async web image loader with memory and disk caching for iOS and  Watch.
 * [Kingfisher ★8865](https://github.com/onevcat/Kingfisher) - Image download and caching.
 * [Lightbox ★110](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
-* [MapleBacon ★185](https://github.com/zalando-incubator/MapleBacon) - Image download and caching library.
+* [MapleBacon ★186](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
 * [Misen ★118](https://github.com/tasanobu/Misen) - A script to support using Xcode Asset Catalog.
 * [Moa ★253](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 * [Nuke ★2249](https://github.com/kean/Nuke) - Advanced framework for loading, caching, processing, displaying and preheating images.
@@ -1043,6 +1044,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Markdown ★62](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown).
 * [MarkdownKit ★74](https://github.com/ivanbruel/MarkdownKit) - A simple and customizable Markdown Parser.
 * [MarkdownView ★915](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
+* [MarkyMark ★36](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
 * [Mustard ★653](https://github.com/mathewsanders/Mustard) - Library for tokenizing strings when splitting by whitespace doesn't cut it.
 * [Notepad ★264](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting.
 * [Parsey ★33](https://github.com/rxwei/Parsey) - Parser combinator framework that supports source location tracking, backtracking prevention, and rich error messages.
@@ -1215,6 +1217,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [LTHRadioButton ★182](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 * [MIBadgeButton ★258](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.
 * [NFDownloadButton ★232](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.
+* [PMSuperButton ★55](https://github.com/Codeido/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 * [SwiftShareBubbles ★144](https://github.com/takecian/SwiftShareBubbles) - Animated social share buttons control for iOS.
 * [TVButton ★907](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
 * [ZFRippleButton ★1259](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
@@ -1364,7 +1367,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [BouncyLayout ★2408](https://github.com/roberthein/BouncyLayout) - Collection view layout that makes your cells bounce.
-* [CenteredCollectionView ★71](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight CollectionView that 'pages' and centers it's cells.
+* [CenteredCollectionView ★71](https://github.com/BenEmdon/CenteredCollectionView) - A lightweight UICollectionViewLayout that pages and centers it's cells.
 * [CollectionViewShelfLayout ★190](https://github.com/pitiphong-p/CollectionViewShelfLayout) - A UICollectionViewLayout subclass displays its items as rows of items similar to the App Store Feature tab without a nested UITableView/UICollectionView hack.
 * [Drag and Drop UICollectionView ★231](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging and Dropping data across multiple UICollectionViews.
 * [FSPagerView ★1681](https://github.com/WenchaoD/FSPagerView) - FSPagerView is an elegant Screen Slide Library. It is extremely helpful for making Banner View、Product Show、Welcome/Guide Pages、Screen/ViewController Sliders.
@@ -1482,6 +1485,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Player ★802](https://github.com/piemonte/Player) - iOS video player, simple drop in component for playing and streaming media.
 * [PlayerView ★86](https://github.com/davidlondono/PlayerView) - Easy to use video player using a UIView, manage rate of reproduction, screenshots and callbacks-delegate for player state.
 * [SwiftVideoBackground ★68](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementating a video background.
+* [VGPlayer ★85](https://github.com/VeinGuo/VGPlayer) - A simple iOS video player, support play local and network, background playback mode, automatic caching while playing.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/matteocrippa/awesome-swift">matteocrippa/awesome-swift</a> with ranks

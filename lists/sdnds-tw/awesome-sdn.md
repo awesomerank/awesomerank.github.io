@@ -116,7 +116,7 @@ protocol, based on Twisted.
 - [oflib-node ★14 ⏳5Y](https://github.com/TrafficLab/oflib-node) - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
 - [OpenFlowJ](https://bitbucket.org/openflowj/openflowj) - A Java implementation of low-level OpenFlow packet marshalling/unmarshalling and IO operations.
 - [nettle](http://haskell.cs.yale.edu/other-projects/nettle/) - A Haskell library for working with the OpenFlow protocol.
-- [OCaml OpenFlow ★9 ⏳1Y](https://github.com/frenetic-lang/ocaml-openflow) - A serialization and protocol library for OpenFlow.
+- [OCaml OpenFlow ★9 ⏳2Y](https://github.com/frenetic-lang/ocaml-openflow) - A serialization and protocol library for OpenFlow.
 - [Scapy](http://www.secdev.org/projects/scapy/) - Scapy is a powerful interactive packet manipulation program.
 
 # Test

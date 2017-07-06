@@ -322,7 +322,7 @@ Additional lists you might find useful:
 - [PlumSearch plugin ★15](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [FriendsOfCake/Search plugin ★76](https://github.com/FriendsOfCake/search) - Search provides a searching/filter module for CakePHP applications.
 - [Search plugin ★350](https://github.com/CakeDC/search) - Search plugin built on PRG pattern.
-- [SphinxSearch plugin ★3](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes.
+- [SphinxSearch plugin ★3 ⏳1Y](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes.
 
 ## Security
 *Plugins and information around security, preventing vulnerabilities and protection against XSS and alike.*

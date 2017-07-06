@@ -65,7 +65,7 @@ Things that produce TAP output.
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap ★74](https://github.com/twada/qunit-tap) - TAP output for QUnit.
 - [jasmine-reporters ★363](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
-- [karma-tap-reporter ★7](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
+- [karma-tap-reporter ★7 ⏳1Y](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester. `$ mos test --tap`
 
 ### Fish

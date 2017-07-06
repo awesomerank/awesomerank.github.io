@@ -208,6 +208,7 @@ For a list of free hacking books available for download, go [here ★786](https:
  * [Boston Key Party CTF](http://bostonkeyparty.net/)
 
 ## General
+ * [Hack+](http://hack.plus) - An Intelligent network of bots that fetch the latest InfoSec content.
  * [CTFtime.org](https://ctftime.org/) - All about CTF (Capture The Flag)
  * [WeChall](http://www.wechall.net/)
  * [CTF archives (shell-storm)](http://shell-storm.org/repo/CTF/)

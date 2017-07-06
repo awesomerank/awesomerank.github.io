@@ -609,6 +609,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Is serverless ready for the enterprise?](https://www.cloudtp.com/doppler/is-serverless-ready-for-the-enterprise/) - Post which discusses serverless in an enterprise context.
 - [Building Alexa skills with IBM Watson and OpenWhisk](http://heidloff.net/article/alexa-ibm-watson-openwhisk) - How to build an Alexa skill with OpenWhisk and IBM Watson.
 - [Subscription and payment with Stripe and Azure Functions](http://pjdecarlo.com/2017/06/super-cheap-subscription-and-payment-services-with-stripe-on-microsoft-azure-using-serverless-code-via-azure-functions-node-js.html) - How to use Azure Functions to setup a ridiculously cheap subscription and payment service with Stripe.
+- [The price war over serverless computing](http://www.computerweekly.com/news/450421657/The-big-four-cloud-firms-are-set-for-price-war-over-serverless-computing-suggests-451-Research) - Post about the cloud industry price wars on serverless compute offerings.
+- [Swift with OpenWhisk](https://medium.com/openwhisk/serverless-swift-with-openwhisk-4f84129e6839) - How to use Swift with OpenWhisk and the Serverless Framework.
+- [Serverless cryptocurrency tradingbot](https://medium.com/@nickdenengelsman/the-story-of-a-serverless-cryptocurrency-tradingbot-ed80233b3ac9) - The story of a cryptocurrency tradingbot written with the help of the Serverless Framework.
 
 ## Screencasts
 
@@ -762,6 +765,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [The need for infrastructure tooling in the serverless ecosystem](https://thenewstack.io/need-infrastructure-tooling-serverless-ecosystem/) - Podcast which discusses the need for serverless infrastructure toolings.
 - [Serverless and you](https://pusher.com/sessions/meetup/london-node-user-group/serverless-and-you) - Marcel Cutts talk about serverless and the Serverless Framework at the London Node.js user group.
 - [TalkPython Podcast - Serverless software](https://talkpython.fm/episodes/show/118/serverless-software) - Podcast with Ryan Scott Brown about Python and serverless architectures.
+- [Introduction to Serverless](https://scriptconf.org/blog/introduction-to-serverless-nik-graf/) - Introduction to serverless computing and the Serverless Framework by Nik Graf at ScriptConf 2017.
 
 ## Amazon AWS resources
 
@@ -1001,6 +1005,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Comic Relief Grants API service ★3](https://github.com/comicrelief/grants-api-serverless) - Consumer and frontend for the Comic Relief Grants API.
 - [Foo ★1](https://github.com/skewart/foo-service) - Simple example service.
 - [Screenshot get ★3](https://github.com/amv/serverless-screenshot-get) - AWS API for returning PNG data of a fresh web page screenshot.
+- [Coinboss ★15](https://github.com/nicka/coinboss) - Serverless Coinbase tradingbot.
 
 ## Related projects
 
@@ -1198,6 +1203,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Shell ★3](https://github.com/UnitedIncome/serverless-shell) - Drop to a runtime shell with all the environment variables set that you'd have in Lambda.
 [Offline ★534](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing on Serverless projects.
 - [Stack output ★2](https://github.com/sbstjn/serverless-stack-output) - Store output from your AWS CloudFormation Stack in JSON/YAML/TOML files, or to pass it to a JavaScript function for further processing.
+- [OpenAPI documentation ★6](https://github.com/temando/serverless-openapi-documentation) - Generate OpenAPI V3 documentation from a Serverless configuration.
+- [Build substitute ★1](https://github.com/zyrorl/serverless-build-substitute-plugin) - Build plugin to substitute files into a build (eg. AWS binaries into node_modules).
+- [Sentry ★16](https://github.com/arabold/serverless-sentry-plugin) - Sentry integration for Serverless v1.
 
 ## Literature
 

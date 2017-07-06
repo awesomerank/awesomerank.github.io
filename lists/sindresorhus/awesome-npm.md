@@ -105,9 +105,9 @@ You might also like [awesome-nodejs ★17764](https://github.com/sindresorhus/aw
 
 ### Other
 
-- [npm-home ★50](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+- [npm-home ★51](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [gh-home ★78](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
-- [david ★748](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
+- [david ★750](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
 - [npm-check ★3453](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
 - [npm-upgrade ★73](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 - [npm-shrinkwrap ★774](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
