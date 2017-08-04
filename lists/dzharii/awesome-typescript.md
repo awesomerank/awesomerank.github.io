@@ -9,9 +9,9 @@ title: Awesome Rank for dzharii/awesome-typescript
 ---
 # Awesome TypeScript
 
-#### -= Awesome TypeScript =- [Awesome Elasticsearch ★910](https://github.com/dzharii/awesome-elasticsearch) →
+#### -= Awesome TypeScript =- [Awesome Elasticsearch ★983](https://github.com/dzharii/awesome-elasticsearch) →
 
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) lists.
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) lists.
 
 ## Contributing
 
@@ -22,10 +22,10 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 ### Awesome TypeScript Essential Resources
 * :books: [Handbook - Welcome to TypeScript](http://www.typescriptlang.org/Handbook) the official resource for learning TypeScript
 * :books: [TypeScript Deep Dive](https://basarat.gitbooks.io/typescript/) by [Basarat Ali Syed](https://twitter.com/basarat)
-* :octocat: [Microsoft/TypeScript on Github ★23454](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
+* :octocat: [Microsoft/TypeScript on Github ★24497](https://github.com/Microsoft/TypeScript) fork TypeScript on Github! Or... just read the code
 * :octocat:[The official TypeScript Roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap)
 * :books: [TypeScript Team Blog](http://blogs.msdn.com/b/typescript/) with announcements and recent updates
-* :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov ★11281](https://github.com/DefinitelyTyped/DefinitelyTyped)
+* :octocat: [DefinitelyTyped](http://definitelytyped.org/), the repository for high quality TypeScript type definitions maintained by [Boris Yankov ★11695](https://github.com/DefinitelyTyped/DefinitelyTyped)
 * :octocat: [Type search](https://aka.ms/typings), search for typings on npm
 
 ### Typescript Starter Projects
@@ -40,17 +40,17 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 ##### Visual Studio
 * [ Visual Studio Community Edition 2015](https://www.visualstudio.com/products/visual-studio-community-vs) - free (conditionally) IDE with integrated TypeScript support
   * [VS Addon - TypescriptSyntaxPaste](https://visualstudiogallery.msdn.microsoft.com/eb0887f8-3ac1-434a-b50b-f0112f1572f7) - Allow you to copy C# source code, then paste as Typescript syntax which help you with converting DTO or interface
-* [NodeJS Tools for Visual Studio ★1563](https://github.com/Microsoft/nodejstools)
+* [NodeJS Tools for Visual Studio ★1579](https://github.com/Microsoft/nodejstools)
 
 ##### Other (Plugins || Cross-platform || OSS || Free)
 * [Visual Studio Code](https://www.visualstudio.com/en-us/products/code-vs.aspx)
 * [PhpStorm](https://www.jetbrains.com/phpstorm/download/)
 * [CATS](http://jbaron.github.io/cats/) is an IDE for TypeScript and Web developers by @jbaron
-* [TypeScript Sublime Plugin ★1108](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
-* [Atom TypeScript ★905](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
-* [TypeScript Interactive Development Environment for Emacs ★342](https://github.com/ananthakumaran/tide) by @ananthakumaran
+* [TypeScript Sublime Plugin ★1130](https://github.com/Microsoft/TypeScript-Sublime-Plugin) by @Microsoft
+* [Atom TypeScript ★916](https://github.com/TypeStrong/atom-typescript) by @TypeStrong
+* [TypeScript Interactive Development Environment for Emacs ★357](https://github.com/ananthakumaran/tide) by @ananthakumaran
 * [TypeScript IDE for Eclipse](http://typecsdev.com/)
-* [TypeScript Syntax for VIM ★635](https://github.com/leafgarland/typescript-vim)
+* [TypeScript Syntax for VIM ★657](https://github.com/leafgarland/typescript-vim)
 * :octocat: [Typescript addin for ★29](https://github.com/mrward/typescript-addin) MonoDevelop, SharpDevelop and Xamarin Studio;  a short [review article](http://lastexitcode.com/blog/2015/04/01/TypeScriptSupportInXamarinStudio/)
 
 #### Online
@@ -65,7 +65,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ##### Chrome Extension
 * [TypeScript Editey](https://chrome.google.com/webstore/detail/typescript-editey/liedfkjkedgcgpddoijfeeeeoikcbmaf)
-* [OctoLinker ★2197](https://github.com/OctoLinker/browser-extension)
+* [OctoLinker ★2248](https://github.com/OctoLinker/browser-extension)
 
 ### Awesome TypeScript Videos
 
@@ -73,21 +73,21 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ### TypeScript for...
 #### React
-* :octocat: [wmonk/create-react-app-typescript ★677](https://github.com/wmonk/create-react-app-typescript) Create React apps using typescript with no build configuration; based on `create-react-app`
-* :octocat: [Microsoft/TypeScript-React-Starter ★2095](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
-* :octocat: [jsxtyper ★27 ⏳2Y](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
+* :octocat: [wmonk/create-react-app-typescript ★809](https://github.com/wmonk/create-react-app-typescript) Create React apps using typescript with no build configuration; based on `create-react-app`
+* :octocat: [Microsoft/TypeScript-React-Starter ★2311](https://github.com/Microsoft/TypeScript-React-Starter) A starter template for TypeScript and React with a detailed README describing how to use the two together; based on `create-react-app`
+* :octocat: [jsxtyper ★28 ⏳2Y](https://github.com/fuselabs/jsxtyper) Generates TypeScript interfaces from .jsx files
 * :scroll: [Building a simple react component with typescript](http://www.austentalbot.com/how-to-use-react-with-typescript/)
 * :octocat: [TodoMVC • TypeScript + React Example](https://github.com/tastejs/todomvc/tree/gh-pages/examples/typescript-react)
 * :scroll: [Working with React and TypeScript](http://blog.wolksoftware.com/working-with-react-and-typescript)
-* :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more. ★429](https://github.com/barbar/vortigern)
-* :robot: [Convert React code to TypeScript automatically ★12](https://github.com/lyft/react-javascript-to-typescript-transform)
+* :guardsman: [**vortigern** - A universal boilerplate for building web applications w/ TypeScript, React, Redux and more. ★449](https://github.com/barbar/vortigern)
+* :robot: [Convert React code to TypeScript automatically ★21](https://github.com/lyft/react-javascript-to-typescript-transform)
 ## Aspect Oriented Programming
-* [Agent Framework ★16](https://github.com/agentframework/agentframework) Create interceptor for your class and method using @decorators
+* [Agent Framework ★17](https://github.com/agentframework/agentframework) Create interceptor for your class and method using @decorators
 
 ## Build Systems
 * [Grunt](http://gruntjs.com/) tasks:
   - [grunt-ts](https://www.npmjs.com/package/grunt-ts) - Grunt-ts is an npm package that handles TypeScript compilation work in GruntJS build scripts
-* [Zwitterion ★5](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
+* [Zwitterion ★11](https://github.com/lastmjs/zwitterion) - Super simple development server with built-in support for TypeScript files.
 
 ## Module Bundlers
 * [Webpack](http://webpack.github.io/) - supports CommonJS and AMD module bundling
@@ -97,27 +97,27 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ## Tools
 * [TypeDoc](http://typedoc.org/) - A documentation generator for TypeScript projects
-* [TsLint ★2029](https://github.com/palantir/tslint) - TypeScript linter by @palantir
-* [TypeScript Standard ★18](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
+* [TsLint ★2145](https://github.com/palantir/tslint) - TypeScript linter by @palantir
+* [TypeScript Standard ★19](https://github.com/e2tox/typescript-standard) - Zero-configuration TypeScript 2 Standard Validation
 
 ## Built with TypeScript
 ### Mobile
-* :octocat: [NativeScript ★10538](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
+* :octocat: [NativeScript ★10757](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
 * [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
 
 ### Web
-* :octocat: [AngularJs2 ★25474](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
-* :octocat: [React-UWP ★173](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
-* :octocat: [palantir/plottable ★2151](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org)
-* :octocat: [APIs-guru/graphql-voyager ★2094](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
-* :octocat: [Rebilly/ReDoc ★1036](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
+* :octocat: [Angular ★26499](https://github.com/angular/angular) - Angular is a development platform for building mobile and desktop web applications
+* :octocat: [React-UWP ★246](https://github.com/myxvisual/react-uwp) - React Components that Implement Microsoft's UWP Design & Fluent Design.
+* :octocat: [palantir/plottable ★2170](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org)
+* :octocat: [APIs-guru/graphql-voyager ★2168](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
+* :octocat: [Rebilly/ReDoc ★1219](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
 
 ### Standalone apps
-* :octocat: [Visual Studio Code ★29765](https://github.com/Microsoft/vscode) - Multiplatform IDE.
-* :octocat: [alm - A next generation IDE just for TypeScript written in TypeScript + React ★1609](https://github.com/alm-tools/alm)
+* :octocat: [Visual Studio Code ★31164](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+* :octocat: [alm - A next generation IDE just for TypeScript written in TypeScript + React ★1677](https://github.com/alm-tools/alm)
 
 ### Design patterns
-* :octocat: [Design Patterns implementation ★723](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
+* :octocat: [Design Patterns implementation ★774](https://github.com/torokmark/design_patterns_in_typescript) - Implementation of the well-known 23 patterns of GoF
 
 # Video Courses
 

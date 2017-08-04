@@ -7,13 +7,13 @@ title: Awesome Rank for jjaderg/awesome-postcss
 	This list is a copy of <a href="https://github.com/jjaderg/awesome-postcss">jjaderg/awesome-postcss</a> with ranks
 </p>
 ---
-# Awesome PostCSS 
+# Awesome PostCSS
 
 > A tool for transforming CSS with JavaScript
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
- 
+
 *An awesome list of plugins, articles, resources and other things related to PostCSS.*
 
 ### Contributing
@@ -49,7 +49,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 *Features to stay current*
 
-- [Twitter](https://twitter.com/PostCSS) 
+- [Twitter](https://twitter.com/PostCSS)
 - [Gitter](https://gitter.im/postcss/postcss)
 - [Stack Overflow](http://stackoverflow.com/questions/tagged/postcss)
 - [Vkontakte](https://m.vk.com/postcss)
@@ -123,7 +123,7 @@ Your contributions are always welcome. But, please take a quick gander at the co
 - [Instant setup options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536)
 
 ##### Using PostCSS:
-  
+
 - [for minification and optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568)
 - [for cross browser compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
 - [Together with sass, stylus, or LESS](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
@@ -134,14 +134,15 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 - [postcss parts](http://postcss.parts/) - A searchable catalog of PostCSS plugins
 - [atom-language-postcss ★54](https://github.com/azat-io/atom-language-postcss) - Atom language support for PostCSS
-- [poststylus ★221](https://github.com/seaneking/poststylus) - PostCSS adapter for Stylus
+- [poststylus ★232](https://github.com/seaneking/poststylus) - PostCSS adapter for Stylus
 - [postcss-instagram ★89](https://github.com/azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
 - [postcss-normalize](https://github.com/seaneking/postcss-normalize) - Simple normalize.css wrapper for PostCSS
-- [postcss-font-magician ★654](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
-- [postcss-loader ★1300](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
+- [postcss-font-magician ★672](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
+- [postcss-loader ★1376](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
 - [css-declaration-sorter ★55](https://github.com/Siilwyn/css-declaration-sorter) - A Node.js module and PostCSS plugin to sort the CSS declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn)
-- [postcss-pxtorem ★257](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
-- [postcss-selector-parser ★48](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings
+- [postcss-pxtorem ★276](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
+- [postcss-selector-parser ★52](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings
+- [postcss-html ★7](https://github.com/gucong3000/postcss-html) - PostCSS Syntax for parsing HTML / Markdown / Vue component
 
 ## Presentations
 

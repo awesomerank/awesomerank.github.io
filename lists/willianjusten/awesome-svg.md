@@ -9,7 +9,7 @@ title: Awesome Rank for willianjusten/awesome-svg
 ---
 <img src="https://rawgit.com/willianjusten/awesome-svg/master/logo.svg" alt="Awesome SVG">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Travis Build](https://travis-ci.org/willianjusten/awesome-svg.svg?branch=master)](https://travis-ci.org/willianjusten/awesome-svg)
 
 > A curated list of SVG. The main idea is that everyone can contribute here, so we can center all the informations about SVG and keep up-to-date.
 
@@ -46,7 +46,7 @@ title: Awesome Rank for willianjusten/awesome-svg
 * [Marcus Vinicius](https://github.com/mvfsillva), my friend =)
 * [Rodrigo Machado](https://github.com/rcmachado) for helping me with CC License.
 * [Cleyson Leal](https://github.com/Cleysonlb) for creating the awesome logo.
-* [Chris Coyier](http://chriscoyier.net/) and his [Compendium of SVG Information](http://css-tricks.com/mega-list-svg-information/), was a great start point for me.
+* [Chris Coyier](https://chriscoyier.net/) and his [Compendium of SVG Information](https://css-tricks.com/mega-list-svg-information/), was a great start point for me.
 * and of course, all the [Contributors](https://github.com/willianjusten/awesome-svg/graphs/contributors).
 
 
@@ -56,15 +56,15 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 ## Other Awesome Lists
 
-* [Awesome ★61331](https://github.com/sindresorhus/awesome)
-* [Awesome-awesome ★837](https://github.com/emijrp/awesome-awesome)
-* [Awesome-awesomeness ★19141](https://github.com/bayandin/awesome-awesomeness)
+* [Awesome ★62884](https://github.com/sindresorhus/awesome)
+* [Awesome-awesome ★857](https://github.com/emijrp/awesome-awesome)
+* [Awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness)
 
-##License
+## License
 
-[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](https://creativecommons.org/licenses/by/4.0/)
 
-To the extent possible under law, [Willian Justen](http://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Willian Justen](https://github.com/willianjusten) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/willianjusten/awesome-svg">willianjusten/awesome-svg</a> with ranks

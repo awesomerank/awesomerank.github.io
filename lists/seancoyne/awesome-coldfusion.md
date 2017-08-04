@@ -7,13 +7,13 @@ title: Awesome Rank for seancoyne/awesome-coldfusion
 	This list is a copy of <a href="https://github.com/seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks
 </p>
 ---
-# Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript ★9648](https://github.com/sorrycc/awesome-javascript).
+A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript ★11708](https://github.com/sorrycc/awesome-javascript).
 
 Pull requests very welcome.
 
-* [Awesome ColdFusion ★42](https://github.com/seancoyne/awesome-coldfusion)
+* [Awesome ColdFusion ★44](https://github.com/seancoyne/awesome-coldfusion)
 	* [Engines](#engines)
 	* [Application Frameworks](#application-frameworks)
 	* [Testing](#testing)
@@ -45,32 +45,32 @@ Pull requests very welcome.
 
 ## Testing
 
-* [CFSelenium ★69](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
+* [CFSelenium ★72](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
-* [MXUnit ★81](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
+* [MXUnit ★82](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
 * [mxunit-watch ★13 ⏳1Y](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
 * [TestBox ★20](https://github.com/Ortus-Solutions/TestBox) - BDD style unit testing framework
 
 ## Dependency Injection
 
 * [ColdSpring](http://www.coldspringframework.org/) - ColdSpring makes the configuration and dependencies of your CFCs easier to manage. ColdSpring brings the power of the popular Spring framework for Java to ColdFusion.
-* [DI/1 - Inject One ★108 ⏳1Y](https://github.com/framework-one/di1) - a very lightweight, convention over configuration, dependency injection (inversion of control) framework
+* [DI/1 - Inject One ★109 ⏳1Y](https://github.com/framework-one/di1) - a very lightweight, convention over configuration, dependency injection (inversion of control) framework
 * [Wirebox](http://wiki.coldbox.org/wiki/WireBox.cfm) - The Enterprise Dependency Injection Framework
 
 ## CMS
 
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
-* [ContentBox ★65](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
+* [ContentBox ★66](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS ★7](https://github.com/farcrycore/plugin-farcrycms)
-* [Mura ★231](https://github.com/blueriver/MuraCMS)
-* [Preside CMS ★33](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
-* [Slatwall ★112](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform
+* [Mura ★232](https://github.com/blueriver/MuraCMS)
+* [Preside CMS ★34](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
+* [Slatwall ★114](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform
 
 ## NoSQL
 
 * [CFArango ★4](https://github.com/dajester2013/CFArango) - ArangoDB client for ColdFusion
 * [CFCouchbase ★12](https://github.com/Ortus-Solutions/cfcouchbase-sdk) - Couchbase NoSQL and caching client wrapper for ColdFusion
-* [cfmongodb ★90 ⏳1Y](https://github.com/marcesher/cfmongodb) - MongoDB client wrapper for ColdFusion
+* [cfmongodb ★91 ⏳1Y](https://github.com/marcesher/cfmongodb) - MongoDB client wrapper for ColdFusion
 
 ## REST
 
@@ -82,15 +82,15 @@ Pull requests very welcome.
 
 * [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
 * [cfbackport ★26 ⏳2Y](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion.
-* [cfpayment ★74](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant.
-* [Hoth ★126](https://github.com/aarongreenlee/Hoth) - Exception Tracking
-* [BugLogHQ ★135](https://github.com/oarevalo/BugLogHQ) - Exception Tracking
+* [cfpayment ★75](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant.
+* [Hoth ★127 ⏳1Y](https://github.com/aarongreenlee/Hoth) - Exception Tracking
+* [BugLogHQ ★136](https://github.com/oarevalo/BugLogHQ) - Exception Tracking
 * [iQuery ★11 ⏳2Y](https://github.com/atuttle/iquery) - Sane script querying syntax for Adobe ColdFusion, compatible as far back as CF9. Looks and behaves much like `queryExecute()`.
 * [JavaLoader ★45](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
 * [Moment.cfc ★31](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 * [Mustache.cfc ★41](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion
-* [UnderscoreCF ★74](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library.
+* [UnderscoreCF ★75](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library.
 * [ValidateThis](http://validatethis.org) - A Validation Framework for ColdFusion Objects
 
 ## Editors
@@ -100,12 +100,12 @@ Pull requests very welcome.
 * [cfbrackets](http://cfbrackets.org) - adds support for ColdFusion Markup Language (CFML) to [Brackets Code Editor](http://brackets.io/)
 * [CFEclipse](http://cfeclipse.org) - CFML Plugin for [Eclipse](http://www.eclipse.org/)
 * [CFML Language for Atom ★39](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
-* [CFML Package for Sublime Text 3 ★86](https://github.com/jcberquist/sublimetext-cfml) - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
+* [CFML Package for Sublime Text 3 ★89](https://github.com/jcberquist/sublimetext-cfml) - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
 * [TextMate ★11](https://github.com/textmate/coldfusion.tmbundle) - [TextMate](http://macromates.com) support for ColdFusion
 
 ## Tools
 
-* [CommandBox ★34](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more
+* [CommandBox ★36](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more
 * [Unofficial Updater](http://www.uu-2.info/) - A utility that helps install ColdFusion hotfixes
 
 ## References
@@ -113,8 +113,8 @@ Pull requests very welcome.
 * [CF Live](http://cflive.net) - Realtime CFML testing console
 * [CF411](http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (in over 150 categories) by Charlie Arehart
 * [CFLib](http://cflib.org/) - Common Function Library Project
-* [ColdFusion Koans ★59 ⏳1Y](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
-* [ColdFusion UI the Right Way ★84](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
+* [ColdFusion Koans ★61 ⏳1Y](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
+* [ColdFusion UI the Right Way ★85](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
 * [Learn CF in a Week](http://www.learncfinaweek.com) - community driven training program that teaches all the basics you need to be a ColdFusion Developer in one week.
 * [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
 
@@ -138,7 +138,7 @@ Pull requests very welcome.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sean Coyne ★42](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sean Coyne ★44](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks

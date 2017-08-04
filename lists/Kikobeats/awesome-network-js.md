@@ -7,7 +7,7 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 	This list is a copy of <a href="https://github.com/Kikobeats/awesome-network-js">Kikobeats/awesome-network-js</a> with ranks
 </p>
 ---
-# Awesome JavaScript Network [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★325](https://github.com/Kikobeats/awesome-network-js) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-network-js/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-network-js) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
+# Awesome JavaScript Network [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★331](https://github.com/Kikobeats/awesome-network-js) [![Build Status](https://img.shields.io/travis/Kikobeats/awesome-network-js/master.svg?style=flat-square)](https://travis-ci.org/Kikobeats/awesome-network-js) [![Donate](https://img.shields.io/badge/donate-paypal-blue.svg?style=flat-square)](https://paypal.me/kikobeats)
 
 > A 🎩 list of network layer resources written pure JS.
 
@@ -15,23 +15,23 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 
 > Based, at least, in a CLI interface.
 
-* [airpaste ★605 ⏳2Y](https://github.com/mafintosh/airpaste) – 1-1 network pipe that auto discovers other peers using mdns.
-* [blecat ★92 ⏳2Y](https://github.com/mafintosh/blecat) – 1-1 pipe over bluetooth low energy.
+* [airpaste ★607 ⏳2Y](https://github.com/mafintosh/airpaste) – 1-1 network pipe that auto discovers other peers using mdns.
+* [blecat ★93 ⏳2Y](https://github.com/mafintosh/blecat) – 1-1 pipe over bluetooth low energy.
 * [deejay ★107 ⏳1Y](https://github.com/mafintosh/deejay) – Music player that broadcasts to everyone on the same network.
 * [dhtkv ★45 ⏳1Y](https://github.com/maxogden/dhtkv) – CLI for storing arbitrary key/value data in the bittorrent mainline DHT.
-* [gun ★6054](https://github.com/amark/gun) – A realtime, decentralized, offline-first, graph database engine.
-* [hyperpipe ★92](https://github.com/mafintosh/hyperpipe) – Distributed input/output pipe.
+* [gun ★6219](https://github.com/amark/gun) – A realtime, decentralized, offline-first, graph database engine.
+* [hyperpipe ★94](https://github.com/mafintosh/hyperpipe) – Distributed input/output pipe.
 * [instant.io](https://github.com/feross/instant.io) – Streaming file transfer over WebTorrent.
-* [ipp-printer ★274 ⏳1Y](https://github.com/watson/ipp-printer) – Create a printer on your network.
-* [peercast ★329 ⏳2Y](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
-* [peerflix ★4300](https://github.com/mafintosh/peerflix) – Streaming torrent client.
+* [ipp-printer ★278 ⏳1Y](https://github.com/watson/ipp-printer) – Create a printer on your network.
+* [peercast ★334 ⏳2Y](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
+* [peerflix ★4356](https://github.com/mafintosh/peerflix) – Streaming torrent client.
 * [peervisionary ★37 ⏳1Y](https://github.com/mafintosh/peervisionary) – Stream p2p content over your local network.
-* [peerwiki ★255 ⏳2Y](https://github.com/mafintosh/peerwiki) – browse all of wikipedia using bittorrent.
-* [screencat ★1974 ⏳1Y](https://github.com/maxogden/screencat) – WebRTC screensharing app.
-* [signalhub ★276](https://github.com/mafintosh/signalhub) – Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
-* [torrent-mount ★1073 ⏳2Y](https://github.com/mafintosh/torrent-mount) – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
-* [webcat ★344](https://github.com/mafintosh/webcat) – pipe across the web using WebRTC.
-* [websocketd ★8214](https://github.com/joewalnes/websocketd) – Turn any program that uses stdin/stdout into a WebSocket server.
+* [peerwiki ★254 ⏳2Y](https://github.com/mafintosh/peerwiki) – browse all of wikipedia using bittorrent.
+* [screencat ★1983 ⏳1Y](https://github.com/maxogden/screencat) – WebRTC screensharing app.
+* [signalhub ★280](https://github.com/mafintosh/signalhub) – Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
+* [torrent-mount ★1078 ⏳2Y](https://github.com/mafintosh/torrent-mount) – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
+* [webcat ★347](https://github.com/mafintosh/webcat) – pipe across the web using WebRTC.
+* [websocketd ★8330](https://github.com/joewalnes/websocketd) – Turn any program that uses stdin/stdout into a WebSocket server.
 * [webtorrent](https://github.com/feross/webtorrent) – BitTorrent over WebRTC.
 * [wifi-triangulate ★46 ⏳1Y](https://github.com/watson/wifi-triangulate) – Finds your current position on planet earth using the wifi access point.
 
@@ -44,18 +44,18 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [bittorrent-protocol](https://github.com/feross/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
 * [bittorrent-swarm](https://github.com/feross/bittorrent-swarm) – BitTorrent "swarm" implementation.
 * [bittorrent-tracker](https://github.com/feross/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
-* [bonjour ★187](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
-* [castv2 ★341](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
-* [dht-rpc ★46](https://github.com/mafintosh/dht-rpc) – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.
+* [bonjour ★195](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
+* [castv2 ★349](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
+* [dht-rpc ★47](https://github.com/mafintosh/dht-rpc) – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.
 * [dns-discovery ★117](https://github.com/mafintosh/dns-discovery) – Discovery peers in a distributed system using regular dns and multicast dns.
-* [hypercore ★513](https://github.com/mafintosh/hypercore) – A p2p network for distributing and replicating static feeds of binary data.
-* [ipfs ★266](https://github.com/ipfs/js-ipfs-api) – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
-* [k-bucket ★66](https://github.com/tristanls/k-bucket) – Kademlia DHT K-bucket implementation as a binary tree.
+* [hypercore ★521](https://github.com/mafintosh/hypercore) – A p2p network for distributing and replicating static feeds of binary data.
+* [ipfs ★275](https://github.com/ipfs/js-ipfs-api) – The InterPlanetary File System, a new peer-to-peer hypermedia protocol.
+* [k-bucket ★70](https://github.com/tristanls/k-bucket) – Kademlia DHT K-bucket implementation as a binary tree.
 * [k-rpc](https://github.com/mafintosh/k-rpc) – Implementation of the k-rpc protocol used the BitTorrent DHT. Also see [k-rpc-socket ★18](https://github.com/mafintosh/k-rpc-socket).
-* [mdns ★619](https://github.com/agnat/node_mdns) – mdns/zeroconf/bonjour service discovery.
-* [multicast-dns ★175](https://github.com/mafintosh/multicast-dns) – Low level multicast-dns implementation.
-* [peervision ★85 ⏳1Y](https://github.com/mafintosh/peervision) – Live p2p streaming protocol.
-* [polo ★187 ⏳2Y](https://github.com/mafintosh/polo) – A zero configuration service discovery module.
+* [mdns ★625](https://github.com/agnat/node_mdns) – mdns/zeroconf/bonjour service discovery.
+* [multicast-dns ★180](https://github.com/mafintosh/multicast-dns) – Low level multicast-dns implementation.
+* [peervision ★86 ⏳1Y](https://github.com/mafintosh/peervision) – Live p2p streaming protocol.
+* [polo ★191 ⏳2Y](https://github.com/mafintosh/polo) – A zero configuration service discovery module.
 * [rtsp-server ★16 ⏳1Y](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
 * [utp-native ★53](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
 
@@ -63,23 +63,23 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 
 > Do one thing well.
 
-* [airplay-server ★184](https://github.com/watson/airplay-server) – A low level AirPlay server.
+* [airplay-server ★186](https://github.com/watson/airplay-server) – A low level AirPlay server.
 * [castnow ★75](https://github.com/xat/chromecast-player) – simple chromecast player.
-* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm ★160](https://github.com/mafintosh/webrtc-swarm).
-* [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket ★46](https://github.com/mafintosh/dns-socket).
-* [etcdjs ★49](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
+* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm ★164](https://github.com/mafintosh/webrtc-swarm).
+* [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket ★45](https://github.com/mafintosh/dns-socket).
+* [etcdjs ★50](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
 * [geocode-wifi ★24 ⏳2Y](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.
 * [hash-to-port ★22 ⏳1Y](https://github.com/mafintosh/hash-to-port) – Hash a value to a valid port.
-* [ip-packet ★22 ⏳1Y](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
+* [ip-packet ★25 ⏳2Y](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
 * [magnet-uri](https://github.com/feross/magnet-uri) – Parse a magnet URI and return an object of keys/values.
 * [network-address ★50](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
-* [network-simulator ★40 ⏳1Y](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
+* [network-simulator ★39 ⏳1Y](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
 * [rtsp-stream ★34 ⏳1Y](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
-* [simple-peer ★1117](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
-* [simple-websocket ★61](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
+* [simple-peer ★1187](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
+* [simple-websocket ★62](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
 * [torrent-discovery](https://github.com/feross/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
-* [torrent-stream ★1378](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
-* [udp-packet ★31 ⏳1Y](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
+* [torrent-stream ★1392](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
+* [udp-packet ★32 ⏳1Y](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/Kikobeats/awesome-network-js">Kikobeats/awesome-network-js</a> with ranks

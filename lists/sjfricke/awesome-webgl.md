@@ -7,7 +7,7 @@ title: Awesome Rank for sjfricke/awesome-webgl
 	This list is a copy of <a href="https://github.com/sjfricke/awesome-webgl">sjfricke/awesome-webgl</a> with ranks
 </p>
 ---
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -72,7 +72,7 @@ Processing Unit (GPU).
   * [First two chapters online](http://chimera.labs.oreilly.com/books/1234000000802/ch01.html)
 * [WebGL Beginner's guide](https://www.amazon.com/WebGL-Beginners-Guide-Diego-Cantor/dp/184969172X) by **Diego Cantor** and **Brandon Jones** - For JavaScript developer who wants to take the plunge into 3D web development via WebGL.
 * [WebGL Hotshot](https://www.amazon.com/WebGL-Hotshot-Mitch-Williams-ebook/dp/B00KLAJ65Y) by **Mitch Williams** - For web designer looking to expand your knowledge of 3D graphics concepts and broaden your existing skill set.
-* [WebGL Insights](https://www.amazon.com/WebGL-Insights-Patrick-Cozzi/dp/1498716075) by **Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
+* [WebGL Insights](https://github.com/WebGLInsights/WebGLInsights.github.io/releases/download/v1.0/WebGL.Insights.-.Patrick.Cozzi.pdf) by **Patrick Cozzi** - Presents real-world techniques for intermediate and advanced WebGL developers by assembling contributions from experienced WebGL engine and application developers, GPU vendors, browser developers, researchers, and educators.
   * [Book's Personal Site](http://www.webglinsights.com/)
 * [WebGL Programming Guide: Interactive 3D Graphics Programming with WebGL](https://www.amazon.com/WebGL-Programming-Guide-Interactive-Graphics/dp/0321902920) by **Kouichi Matsuda** and **Rodger Lea** - WebGL Programming Guide will help you get started quickly with interactive WebGL 3D programming, even if you have no prior knowledge of HTML5, JavaScript, 3D graphics, mathematics, or OpenGL.
 
@@ -89,7 +89,7 @@ Processing Unit (GPU).
 
 * [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
-* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify ★694](https://github.com/stackgl/glslify).
+* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify ★713](https://github.com/stackgl/glslify).
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
 * [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer.
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
@@ -98,11 +98,11 @@ Processing Unit (GPU).
 
 > WebGL references
 
-* [Google Project ANGLE ★621](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
+* [Google Project ANGLE ★648](https://github.com/google/angle) - Default WebGL backend for both Google Chrome and Mozilla Firefox on Windows platforms.
 * [Khronos Offical Wiki](https://www.khronos.org/webgl/wiki/) - The official wiki for WebGL.
 * [WebVR Community Group](https://www.w3.org/community/webvr/) - Group who's goal is to help bring high-performance Virtual Reality to the open Web.
 * [WebGL Reference Card](https://www.khronos.org/files/webgl/webgl-reference-card-1_0.pdf) - WebGL 1.0 API Quick Reference Card for printing.
-* [WebGL Source Code ★852](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
+* [WebGL Source Code ★878](https://github.com/KhronosGroup/WebGL) - Source code to both view and contribute.
 * [WebGL Spec Sheet](https://www.khronos.org/registry/webgl/specs/1.0/) - All the detailed information about WebGL.
 
 
@@ -126,9 +126,9 @@ Processing Unit (GPU).
 
 #### Chrome Specific Tools/Debugger
 
-* [GLSL Shader Editor Extension ★422](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
+* [GLSL Shader Editor Extension ★423](https://github.com/spite/ShaderEditorExtension) - Chrome DevTools extension to help you edit shaders live in the browser.
 * [Spector.js Extension](https://chrome.google.com/webstore/detail/spectorjs/denbgaamihkadbghdceggmchnflmhpmk) - Explore and Troubleshoot your WebGL and WebGL2 scenes easily.
-* [Webgl Insight ★684](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
+* [Webgl Insight ★684 ⏳1Y](https://github.com/3Dparallax/insight) - Chrome extension WebGL debugging toolkit providing a variety of capabilities.
 
 #### Firefox Specific Tools/Debugger
 
@@ -190,7 +190,7 @@ Processing Unit (GPU).
 ### Tutorials
 * [WebGL 2 Fundamentals](https://webgl2fundamentals.org/)- Series of online tutorials with code samples and live demonstrations.
 * [WebGL 2 Samples](http://webglsamples.org/WebGL2Samples/) - Great source of many different WebGL 2 work with very good commenting.
-* [WebGL 2 Examples ★80](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
+* [WebGL 2 Examples ★84](https://github.com/tsherif/webgl2examples) - Rendering algorithms implemented in raw WebGL 2.
 
 ### Videos
 
@@ -221,6 +221,10 @@ Processing Unit (GPU).
 
 > [More detailed information about the different libraries can be found in the Libraries directory.](https://github.com/sjfricke/awesome-webgl/tree/master/Libraries)
 
+### 2D
+* [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
+* [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
+
 ### Math
 * [glMatrix](http://glmatrix.net/) - Javascript matrix and vector library for high performance WebGL apps.
 * [Sylvester](http://sylvester.jcoglan.com/) - Sylvester is a vector, matrix and geometry library for JavaScript.
@@ -231,10 +235,10 @@ Processing Unit (GPU).
 
 ### WebVR
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
-  * [Awesome-AFrame ★1035](https://github.com/aframevr/awesome-aframe)
+  * [Awesome-AFrame ★1081](https://github.com/aframevr/awesome-aframe)
 
 ### Others
-* [Ammo.js ★1122](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js ★1155](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 * [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
 * [Cesium](http://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
@@ -243,8 +247,7 @@ Processing Unit (GPU).
 * [LumaGL](https://uber.github.io/luma.gl/) - WebGL building blocks enabling high-performance browser-based data visualizations.
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
-* [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
-* [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
+* [Pocket.gl](http://pocket.gl/) - Fully customizable webgl shader sandbox to embed in your pages.
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
@@ -266,18 +269,18 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome ★61331](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-* [awesome-computer-vision ★2740](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
-* [awesome-opengl ★541](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
-* [awesome-vulkan ★546](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
-* [gamedev ★3997](https://github.com/ellisonleao/magictools) - Awesome list about game development.
-* [graphics-resources ★1009](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+* [awesome ★62884](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+* [awesome-computer-vision ★2873](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+* [awesome-opengl ★568](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome-vulkan ★581](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
+* [gamedev ★4071](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+* [graphics-resources ★1023](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) for details.
 
 ## Testing
-Travis CI testing automation thanks to [awesome_bot ★358](https://github.com/dkhamsing/awesome_bot)!
+Travis CI testing automation thanks to [awesome_bot ★368](https://github.com/dkhamsing/awesome_bot)!
 
 ## License
 

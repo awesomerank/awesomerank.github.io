@@ -7,7 +7,7 @@ title: Awesome Rank for vinkla/awesome-fuse
 	This list is a copy of <a href="https://github.com/vinkla/awesome-fuse">vinkla/awesome-fuse</a> with ranks
 </p>
 ---
-# Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cloud.githubusercontent.com/assets/499192/24413317/5cb57f14-13db-11e7-9d53-2389641d81a8.jpg" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
 
@@ -28,34 +28,36 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 ## Applications
 
-- [20,000 Leagues Under The Sea](https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369) - Interactive book [(​_iOS_​)](https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369).
-- [Beer Week](http://gbgbeerweek.se/) - The official app for Gothenburg beer festival [(​_iOS_​)](https://itunes.apple.com/se/app/beer-week/id1094707718) [(_Android_)](https://play.google.com/store/apps/details?id=com.gbgbeerweek).
-- [BPMTap](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649) - A BPM tapper that works [(​_iOS_​)](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649).
-- [CityU Minerals](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals) - A mobile virtual museum [(​_Android_​)](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals).
-- [Conrad Wise](http://www.conradwise.com) - The all-knowing Conrad Wise [(​_iOS_​)](https://itunes.apple.com/us/app/conrad-wise/id1090322679) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.ConradWise).
-- [Countinental](https://itunes.apple.com/us/app/countinental/id1065815345) - An app for counting things [(​_iOS_​)](https://itunes.apple.com/us/app/countinental/id1065815345) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Countinental).
-- [Criminal Mind](https://livingabook.com) - Interactive story book [(​_iOS_​)](https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal).
-- [Dark Forest](https://livingabook.com) - Interactive book [(​_iOS_​)](https://itunes.apple.com/mx/app/dark-forest-living-a-book/id695442145) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.livingabook.darkforest).
-- [Deem](http://deemapp.co/) - The ultimate way to see movie reviews worldwide [(​_iOS_​)](https://itunes.apple.com/app/deem-movies/id1057365760) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.deem).
-- [FuseCloud ★47](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(_iOS_)](https://itunes.apple.com/us/app/fusecloud/id1173516856?mt=8) [(_Android_)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en).
-- [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​_iOS_​)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.GameCalculator).
-- [Gig](http://www.letsgig.in/) - Discover local nightlife [(​_Android_​)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
-- [Guias Doop](http://guiadoop.com.br/download/) - Celebrity lifestyle guide  [(​_iOS_​)](https://itunes.apple.com/br/app/guias-doop/id1235335392?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=br.com.guiadoop.fuse)
-- [HatTrick](http://htgame.uk) The official app for the card-driven soccer simulation Hat-Trick [(​_iOS_​)](https://itunes.apple.com/cl/app/hattrick-companion-app/id1160945812) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.apps.hattrick).
-- [HowOld](https://play.google.com/store/apps/details?id=com.HowOld) - Find out how old or young you look [(​_Android​_)](https://play.google.com/store/apps/details?id=com.HowOld).
-- [Klickle](https://itunes.apple.com/us/app/klickle/id873427610?mt=8) - Find stuff that’s happening now from local businesses [(​_iOS_​)](https://itunes.apple.com/us/app/klickle/id873427610?mt=8)
-- [Opportunity](https://myopportunity.com/) - A lead generation tool built inside of a business network [(​_iOS_​)](https://itunes.apple.com/us/app/opportunity-business-opportunities/id1120189533) [(Android)](https://play.google.com/store/apps/details?id=com.opprtunity.opprtunityapp).
-- [Quotis](https://play.google.com/store/apps/details?id=com.qubatetech.quotis) - Streamlined inspirational quote app that let's you browse and copy/paste great quotes [(​_Android_​)](https://play.google.com/store/apps/details?id=com.qubatetech.quotis).
-- [Sanntidsappen](https://sanntidsappen.9u.no/) - Great-looking overview of bus routes in Trondheim [(​_iOS_​)](https://itunes.apple.com/no/app/sanntidsappen/id1106042398?ls=1&mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=io.tmn.sanntidsappen).
-- [Snapptime](https://snapptime.de/) - Enjoy the food offers in your city (in German) [(​_iOS_​)](https://itunes.apple.com/de/app/snapptime/id1162387536?mt=8) [(​_Android_​)](https://play.google.com/store/apps/details?id=de.snapptime).
-- [SpinDice3D](https://itunes.apple.com/us/app/spindice3d/id1082656455) - Select and spin a dice from collection of 4, 6, 8, 12 and 20 sides [(​_iOS_​)](https://itunes.apple.com/us/app/spindice3d/id1082656455) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.SpinDice).
-- [Tasty](http://www.tastyapp.net/) - The local food curation chatbot app [(​_Android_​)](https://play.google.com/store/apps/details?id=net.tastyapp.tasty&hl=en).
-- [The monster and the cat](https://livingabook.com) - Interactive book [(​_iOS_​)](https://itunes.apple.com/mx/app/the-monster-and-the-cat/id726779970) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.livingabook.monsterandcat).
-- [Tiffinity](https://itunes.apple.com/us/app/tiffinity/id1191434201?ls=1&mt=8) - Order delicious home made food from around you, delivered fresh. [(​_iOS_​)](https://itunes.apple.com/us/app/tiffinity/id1191434201?ls=1&mt=8)  [(​_Android_​)](https://play.google.com/store/apps/details?id=com.apps.tiffinityapp)
-- [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch [(​_iOS_​)](https://itunes.apple.com/bt/app/timecircle/id1068220814) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.vegardstrand.TimeCircle).
-- [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​_iOS_​)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Timestealer).
-- [Vaka](https://itunes.apple.com/us/app/vaka/id1077345742) - Vaka is a game for focused and stable mind [(​_iOS_​)](https://itunes.apple.com/us/app/vaka/id1077345742) [(​_Android_​)](https://play.google.com/store/apps/details?id=com.Vaka).
-- [Wonder](https://getwonder.io/) - An idea companion app that trains your creative and ideation skills [(​_iOS_​)](https://itunes.apple.com/se/app/wonder-creativity-training/id1090880488).
+- [20,000 Leagues Under The Sea](https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369) - Interactive book [(​iOS)](https://itunes.apple.com/us/app/20-000-leagues-under-sea-pathbook/id1187726369).
+- [Amphi Festival 2017](http://www.amphi-festival.de/) - Semi-official app for Amphi Festival 2017 [(​iOS)](https://itunes.apple.com/us/app/amphi-festival-2017/id1258744398) [(Android)](https://play.google.com/store/apps/details?id=org.knatten.AmphiFestival2017).
+- [Beer Week](http://gbgbeerweek.se/) - The official app for Gothenburg beer festival [(​iOS)](https://itunes.apple.com/se/app/beer-week/id1094707718) [(Android)](https://play.google.com/store/apps/details?id=com.gbgbeerweek).
+- [BPMTap](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649) - A BPM tapper that works [(​iOS)](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649).
+- [CityU Minerals](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals) - A mobile virtual museum [(Android)](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals).
+- [Conrad Wise](http://www.conradwise.com) - The all-knowing Conrad Wise [(​iOS)](https://itunes.apple.com/us/app/conrad-wise/id1090322679) [(Android)](https://play.google.com/store/apps/details?id=com.ConradWise).
+- [Countinental](https://itunes.apple.com/us/app/countinental/id1065815345) - An app for counting things [(​iOS)](https://itunes.apple.com/us/app/countinental/id1065815345) [(Android)](https://play.google.com/store/apps/details?id=com.Countinental).
+- [Criminal Mind](https://livingabook.com) - Interactive story book [(​iOS)](https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal).
+- [Dark Forest](https://livingabook.com) - Interactive book [(​iOS)](https://itunes.apple.com/mx/app/dark-forest-living-a-book/id695442145) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.darkforest).
+- [Deem](http://deemapp.co/) - The ultimate way to see movie reviews worldwide [(​iOS)](https://itunes.apple.com/app/deem-movies/id1057365760) [(Android)](https://play.google.com/store/apps/details?id=com.deem).
+- [FuseCloud ★48](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(iOS)](https://itunes.apple.com/us/app/fusecloud/id1173516856) [(Android)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en).
+- [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​iOS)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(Android)](https://play.google.com/store/apps/details?id=com.GameCalculator).
+- [Gig](https://play.google.com/store/apps/details?id=com.littleboat.gig) - Discover local nightlife [(Android)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
+- [Guias Doop](http://guiadoop.com.br/download/) - Celebrity lifestyle guide. [(​iOS)](https://itunes.apple.com/br/app/guias-doop/id1235335392) [(Android)](https://play.google.com/store/apps/details?id=br.com.guiadoop.fuse)
+- [HatTrick](http://htgame.uk) The official app for the card-driven soccer simulation Hat-Trick [(​iOS)](https://itunes.apple.com/cl/app/hattrick-companion-app/id1160945812) [(Android)](https://play.google.com/store/apps/details?id=com.apps.hattrick).
+- [HowOld](https://play.google.com/store/apps/details?id=com.HowOld) - Find out how old or young you look [(Android​)](https://play.google.com/store/apps/details?id=com.HowOld).
+- [Klickle](https://itunes.apple.com/us/app/klickle/id873427610) - Find stuff that’s happening now from local businesses [(​iOS)](https://itunes.apple.com/us/app/klickle/id873427610).
+- [Opportunity](https://myopportunity.com/) - A lead generation tool built inside of a business network [(​iOS)](https://itunes.apple.com/us/app/opportunity-business-opportunities/id1120189533) [(Android)](https://play.google.com/store/apps/details?id=com.opprtunity.opprtunityapp).
+- [Quotis](https://play.google.com/store/apps/details?id=com.qubatetech.quotis) - Streamlined inspirational quote app that let's you browse and copy/paste great quotes [(Android)](https://play.google.com/store/apps/details?id=com.qubatetech.quotis).
+- [Sanntidsappen](https://sanntidsappen.9u.no/) - Great-looking overview of bus routes in Trondheim [(​iOS)](https://itunes.apple.com/no/app/sanntidsappen/id1106042398) [(Android)](https://play.google.com/store/apps/details?id=io.tmn.sanntidsappen).
+- [Snapptime](https://snapptime.de/) - Enjoy the food offers in your city (in German) [(​iOS)](https://itunes.apple.com/de/app/snapptime/id1162387536) [(Android)](https://play.google.com/store/apps/details?id=de.snapptime).
+- [SpinDice3D](https://itunes.apple.com/us/app/spindice3d/id1082656455) - Select and spin a dice from collection of 4, 6, 8, 12 and 20 sides [(​iOS)](https://itunes.apple.com/us/app/spindice3d/id1082656455) [(Android)](https://play.google.com/store/apps/details?id=com.SpinDice).
+- [Tasty](http://www.tastyapp.net/) - The local food curation chatbot app [(Android)](https://play.google.com/store/apps/details?id=net.tastyapp.tasty&hl=en).
+- [Tesla CTRL](https://itunes.apple.com/no/app/teslactrls/id1120560798) - This app will give you better control of your Tesla [(​iOS)](https://itunes.apple.com/no/app/teslactrls/id1120560798).
+- [The Monster and the Cat](https://livingabook.com) - Interactive book [(​iOS)](https://itunes.apple.com/mx/app/the-monster-and-the-cat/id726779970) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.monsterandcat).
+- [Tiffinity](https://itunes.apple.com/us/app/tiffinity/id1191434201) - Order delicious home made food from around you [(​iOS)](https://itunes.apple.com/us/app/tiffinity/id1191434201). [(Android)](https://play.google.com/store/apps/details?id=com.apps.tiffinityapp)
+- [Timecircle](https://itunes.apple.com/bt/app/timecircle/id1068220814) - Simple yet effective and good-looking stop watch [(​iOS)](https://itunes.apple.com/bt/app/timecircle/id1068220814) [(Android)](https://play.google.com/store/apps/details?id=com.vegardstrand.TimeCircle).
+- [Timestealer](https://itunes.apple.com/us/app/timestealer/id1073144825) - Track how much your meetings are costing you and your company [(​iOS)](https://itunes.apple.com/us/app/timestealer/id1073144825) [(Android)](https://play.google.com/store/apps/details?id=com.Timestealer).
+- [Vaka](https://itunes.apple.com/us/app/vaka/id1077345742) - Vaka is a game for focused and stable mind [(​iOS)](https://itunes.apple.com/us/app/vaka/id1077345742) [(Android)](https://play.google.com/store/apps/details?id=com.Vaka).
+- [Wonder](https://getwonder.io/) - An idea companion app that trains your creative and ideation skills [(​iOS)](https://itunes.apple.com/se/app/wonder-creativity-training/id1090880488).
 
 ## Articles
 
@@ -88,40 +90,38 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Features Status](https://www.fusetools.com/docs/features) - List of current and upcoming Fuse features.
 - [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
 - [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
-- [Samples ★131](https://github.com/fusetools/fuse-samples) - Samples demonstrating the use of various Fuse and FuseJS APIs.
-- [Tour De Fuse ★6](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse.
+- [Samples ★140](https://github.com/fusetools/fuse-samples) - Samples demonstrating the use of various Fuse and FuseJS APIs.
+- [Tour De Fuse ★7](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse.
 
 ## Open Source
 
-- [500px Gallery Demo ★24](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
-- [CSGOTimer](https://github.com/sanderdan/CSGOTimer) - Keep track of the bomb timer in Counter Strike: Global Offensive, made in Fuse!
-- [Firebase ★41](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
+- [500px Gallery Demo ★24 ⏳1Y](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
+- [Firebase ★43](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
 - [FormulaFuse ★0](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation ★1](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components
-- [Fuse PM ★26](https://github.com/bolav/fusepm) - A Fusetools package manager.
+- [Fuse PM ★27](https://github.com/bolav/fusepm) - A Fusetools package manager.
 - [Fuse Pokedex ★3](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
-- [Fuse Samples ★131](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
+- [Fuse Samples ★140](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 - [fuse.QrScanner ★1](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode.
 - [Fuse Tags with Firebase ★15 ⏳1Y](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
-- [Gulp Procedure](https://github.com/joms/gulp-fuse) - Gulp-procedure for Fuse compiling ES6 into ES5.
 - [Haxe ★29 ⏳1Y](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
-- [Hikr ★34](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
+- [Hikr ★35](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
 - [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
-- [Motion ★10](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.
+- [Motion ★11](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.
 - [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
 - [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
-- [Syncano ★5](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
+- [Syncano ★5 ⏳1Y](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
 - [UnityAds Sample ★5](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse.
 
 ## Plugins
 
 - [Alfred Workflow ★1 ⏳1Y](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred.
-- [Atom ★28](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse.
-- [Bash Completion ★2](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
+- [Atom ★29](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse.
+- [Bash Completion ★3 ⏳1Y](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 - [Emacs ★4](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse.
 - [Sublime ★21](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
-- [Visual Studio Code ★41 ⏳1Y](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
+- [Visual Studio Code ★42 ⏳1Y](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 - [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 - [Fuse-Log ★1](https://github.com/bstrr/vscode-fuse-log) - Get Fuse log messages into Visual Studio Code's output panel.
 

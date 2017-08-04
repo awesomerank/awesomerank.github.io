@@ -7,10 +7,10 @@ title: Awesome Rank for diegocard/awesome-html5
 	This list is a copy of <a href="https://github.com/diegocard/awesome-html5">diegocard/awesome-html5</a> with ranks
 </p>
 ---
-Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
+Awesome HTML5 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/diegocard/awesome-html5.svg?branch=master)](https://travis-ci.org/diegocard/awesome-html5)
 =============
 
-A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python ★35497](https://github.com/vinta/awesome-python)
+A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://github.com/ziadoz/awesome-php) and [awesome-python ★36876](https://github.com/vinta/awesome-python)
 
 ## Table of Contents
 - [Articles and standards](#articles-and-standards)
@@ -327,14 +327,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Info, news and tutorials](http://html5gamedevelopment.com/)
 * [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
 * Opensource JavaScript game engines
-  - [Pixi.js ★14979](https://github.com/pixijs/pixi.js)
-  - [phaser ★15635](https://github.com/photonstorm/phaser)
-  - [MelonJS ★1874](https://github.com/melonjs/melonJS)
+  - [Pixi.js ★15335](https://github.com/pixijs/pixi.js)
+  - [phaser ★15893](https://github.com/photonstorm/phaser)
+  - [MelonJS ★1900](https://github.com/melonjs/melonJS)
   - [kiwi.js ★908](https://github.com/gamelab/kiwi.js)
-  - [Crafty ★2404](https://github.com/craftyjs/Crafty)
-  - [PhysicsJS ★3004](https://github.com/wellcaffeinated/PhysicsJS)
-  - [Stage.js ★1120](https://github.com/shakiba/stage.js)
-  - [cocos2d ★2222](https://github.com/cocos2d/cocos2d-html5)
+  - [Crafty ★2420](https://github.com/craftyjs/Crafty)
+  - [PhysicsJS ★3023](https://github.com/wellcaffeinated/PhysicsJS)
+  - [Stage.js ★1131](https://github.com/shakiba/stage.js)
+  - [cocos2d ★2230](https://github.com/cocos2d/cocos2d-html5)
 
 ## Videos and Keynotes
 
@@ -374,8 +374,8 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Other awesome lists
 
-* [awesome-awesomeness ★19141](https://github.com/bayandin/awesome-awesomeness)
-* [lists ★4370](https://github.com/jnv/lists)
+* [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness)
+* [lists ★4413](https://github.com/jnv/lists)
 
 ## Contributing
 

@@ -7,7 +7,7 @@ title: Awesome Rank for lvwzhen/tools
 	This list is a copy of <a href="https://github.com/lvwzhen/tools">lvwzhen/tools</a> with ranks
 </p>
 ---
-# Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 >Tools for web
 
@@ -104,7 +104,7 @@ title: Awesome Rank for lvwzhen/tools
 * [ios7colors](http://ios7colors.com/)
 * [Color Thief](http://lokeshdhakar.com/projects/color-thief/)
 * [color-hex](http://www.color-hex.com/)
-* [colors ★7451](https://github.com/mrmrs/colors)
+* [colors ★7493](https://github.com/mrmrs/colors)
 * [chuantongsecai](http://ylbook.com/cms/web/chuantongsecai/chuantongsecai.htm)
 * [randomColor](https://randomcolor.llllll.li/)
 * [Please JS](http://www.checkman.io/please/)
@@ -121,7 +121,7 @@ title: Awesome Rank for lvwzhen/tools
 * [fonts2u](http://www.fonts2u.com/index.html)
 * [webfonts](http://www.fonts.com/web-fonts)
 * [justfont](http://www.justfont.com/)
-* [iconpark ★324 ⏳1Y](https://github.com/lvwzhen/iconpark)
+* [iconpark ★323 ⏳1Y](https://github.com/lvwzhen/iconpark)
 * [FontSquirrel](http://www.fontsquirrel.com/)
 * [Fontface Ninja](http://fontface.ninja/)
 

@@ -7,13 +7,13 @@ title: Awesome Rank for sfischer13/awesome-frege
 	This list is a copy of <a href="https://github.com/sfischer13/awesome-frege">sfischer13/awesome-frege</a> with ranks
 </p>
 ---
-# Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege"> ★2806](https://github.com/Frege/frege)
+[<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege"> ★2828](https://github.com/Frege/frege)
 
 > Useful resources for the [Frege](https://en.wikipedia.org/wiki/Frege_(programming_language)) programming language
 
-You might also like [awesome-haskell ★1131](https://github.com/krispo/awesome-haskell).
+You might also like [awesome-haskell ★1167](https://github.com/krispo/awesome-haskell).
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-frege/blob/master/contributing.md) before contributing.*
 
@@ -65,7 +65,7 @@ You might also like [awesome-haskell ★1131](https://github.com/krispo/awesome-
 
 ### Overview
 
-- [Frege ★2806](https://github.com/Frege/frege) - Official website.
+- [Frege ★2828](https://github.com/Frege/frege) - Official website.
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps
@@ -155,7 +155,7 @@ You might also like [awesome-haskell ★1131](https://github.com/krispo/awesome-
 - [frege-on-android ★1](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android.
 - [FregeAndroid ★9](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege.
 - [GeoQuiz-Frege ★8](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege.
-- [froid ★77](https://github.com/mchav/froid) - Library for using Frege in Android development.
+- [froid ★78](https://github.com/mchav/froid) - Library for using Frege in Android development.
 
 ### Big Data
 
@@ -172,7 +172,7 @@ You might also like [awesome-haskell ★1131](https://github.com/krispo/awesome-
 
 ### Graphics
 
-- [Frege-RayTracer ★3](https://github.com/mchav/Frege-RayTracer) - Ray tracer in Frege.
+- [Frege-RayTracer ★4](https://github.com/mchav/Frege-RayTracer) - Ray tracer in Frege.
 
 ### GUI
 
@@ -180,7 +180,7 @@ You might also like [awesome-haskell ★1131](https://github.com/krispo/awesome-
 
 ### Web Frameworks
 
-- [Chinook ★26 ⏳1Y](https://github.com/fregelab/chinook) - Frege web framework based on SparkJava.
+- [Chinook ★27 ⏳1Y](https://github.com/fregelab/chinook) - Frege web framework based on SparkJava.
 - [Fregelet ★5](https://github.com/mmhelloworld/fregelet) - Frege web framework based on servlet.
 - [Play ★17 ⏳1Y](https://github.com/mmhelloworld/hello-play-frege) - Play framework with Frege.
 
@@ -206,18 +206,18 @@ You might also like [awesome-haskell ★1131](https://github.com/krispo/awesome-
 
 - [Leiningen](http://leiningen.org/) - Project automation for Frege and Clojure.
 - [Leiningen Template ★7 ⏳1Y](https://github.com/Frege/frege-lein-template) - Template for frege-lein projects.
-- [Gofre ★1](https://github.com/NickSeagull/gofre) - Build system for Frege.
+- [Gofre ★1 ⏳1Y](https://github.com/NickSeagull/gofre) - Build system for Frege.
 - [gottlob ★0](https://github.com/mchav/gottlob) - Build tool for Frege.
 
 ### IDEs
 
 - [fregIDE](https://github.com/Frege/eclipse-plugin/wiki/fregIDE-Tutorial) - Eclipse plugin for Frege.
-- [intellij-frege ★11](https://github.com/carymrobbins/intellij-frege) - Frege support for IntelliJ IDEA.
+- [intellij-frege ★11 ⏳1Y](https://github.com/carymrobbins/intellij-frege) - Frege support for IntelliJ IDEA.
 - [frege-idea-plugin ★21 ⏳1Y](https://github.com/Dierk/frege-idea-plugin) - Language support for Frege in IntelliJ IDEA.
 
 ### REPLs
 
-- [Console REPL ★64](https://github.com/Frege/frege-repl) - REPL on the console.
+- [Console REPL ★63](https://github.com/Frege/frege-repl) - REPL on the console.
 - [GUI REPL ★21](https://github.com/Dierk/frepl-gui) - GUI based REPL.
 - [Web REPL](http://try.frege-lang.org/) - Web based REPL.
 

@@ -7,11 +7,11 @@ title: Awesome Rank for aharris88/awesome-macos-screensavers
 	This list is a copy of <a href="https://github.com/aharris88/awesome-macos-screensavers">aharris88/awesome-macos-screensavers</a> with ranks
 </p>
 ---
-# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome macOS Screensavers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61860](https://github.com/sindresorhus/awesome)
 
 > A curated list of screensavers for macOS.
 
-Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★61860](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -64,13 +64,13 @@ Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list
 
 > Unix Time (epoch) flip clock.
 
-[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/epochFlipClock.png) ★37](https://github.com/chrstphrknwtn/epoch-flip-clock)
+[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/epochFlipClock.png) ★39](https://github.com/chrstphrknwtn/epoch-flip-clock)
 
 ### Grid Clock
 
 > Twelve hour time in words.
 
-[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/gridClock.png) ★26](https://github.com/chrstphrknwtn/grid-clock)
+[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/gridClock.png) ★29](https://github.com/chrstphrknwtn/grid-clock)
 
 ### Color Clocks
 
@@ -86,7 +86,7 @@ Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list
 
 > Apple TV Aerial Screensaver for Mac.
 
-[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/aerial.png) ★8875](https://github.com/JohnCoates/Aerial)
+[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/aerial.png) ★8980](https://github.com/JohnCoates/Aerial)
 
 ### Apple Watch
 
@@ -122,7 +122,7 @@ $0.99
 
 > The latest commits from GitHub visualized in a Matrix-style animation.
 
-[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/githubMatrix.png) ★119](https://github.com/winterbe/github-matrix-screensaver)
+[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/githubMatrix.png) ★120](https://github.com/winterbe/github-matrix-screensaver)
 
 ### StarWarsScroll
 
@@ -168,7 +168,7 @@ Free
 
 Free
 
-[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/kernelPanic.png) ★14](https://github.com/dessibelle/Blue-Screen-Saver)
+[![](https://github.com/aharris88/awesome-macos-screensavers/blob/master/screenshots/kernelPanic.png) ★15](https://github.com/dessibelle/Blue-Screen-Saver)
 
 ## Graphics
 

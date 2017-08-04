@@ -7,57 +7,57 @@ title: Awesome Rank for eleventigers/awesome-rxjava
 	This list is a copy of <a href="https://github.com/eleventigers/awesome-rxjava">eleventigers/awesome-rxjava</a> with ranks
 </p>
 ---
-# Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
-> Useful resources for working with [RxJava ★25351](https://github.com/ReactiveX/RxJava)
+> Useful resources for working with [RxJava ★26144](https://github.com/ReactiveX/RxJava)
 
-*Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list thing.*
+*Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list thing.*
 
 ## Bindings
 
-* [RxAndroid ★12902](https://github.com/ReactiveX/RxAndroid) - Android specific bindings for RxJava.
-* [RxBinding ★5742](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android UI widgets from the platform and support libraries.
-* [rx-preferences ★1133](https://github.com/f2prateek/rx-preferences) - Reactive `SharedPreferences` for Android.
-* [RxPermissions ★3934](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava.
-* [SQLBrite ★4038](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
-* [Android-ReactiveLocation ★1745](https://github.com/mcharmas/Android-ReactiveLocation) - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
-* [ReactiveNetwork ★1047](https://github.com/pwittchen/ReactiveNetwork) - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.
+* [RxAndroid ★13249](https://github.com/ReactiveX/RxAndroid) - Android specific bindings for RxJava.
+* [RxBinding ★5936](https://github.com/JakeWharton/RxBinding) - RxJava binding APIs for Android UI widgets from the platform and support libraries.
+* [rx-preferences ★1150](https://github.com/f2prateek/rx-preferences) - Reactive `SharedPreferences` for Android.
+* [RxPermissions ★4174](https://github.com/tbruyelle/RxPermissions) - Android M runtime permissions powered by RxJava.
+* [SQLBrite ★4152](https://github.com/square/sqlbrite) - A lightweight wrapper around SQLiteOpenHelper and ContentResolver which introduces reactive stream semantics to queries.
+* [Android-ReactiveLocation ★1775](https://github.com/mcharmas/Android-ReactiveLocation) - Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum.
+* [ReactiveNetwork ★1073](https://github.com/pwittchen/ReactiveNetwork) - Android library listening network connection state and change of the WiFi signal strength with RxJava Observables.
 * [ReactiveSensors ★103](https://github.com/pwittchen/ReactiveSensors) - Android library monitoring hardware sensors with RxJava Observables.
-* [RxPalette ★191](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android.
-* [rxjava-jdbc ★528](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
-* [rxjava-file ★56](https://github.com/davidmoten/rxjava-file) - RxJava observables for files including NIO events.
-* [RxTuples ★116](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava.
-* [RxAnimationBinding ★74 ⏳1Y](https://github.com/blipinsk/RxAnimationBinding) - RxJava binding APIs for Android's animations.
+* [RxPalette ★190](https://github.com/hzsweers/RxPalette) - RxJava bindings for the Palette library on Android.
+* [rxjava-jdbc ★538](https://github.com/davidmoten/rxjava-jdbc) - Efficient execution and functional composition of database calls using jdbc and RxJava Observables.
+* [rxjava-file ★58](https://github.com/davidmoten/rxjava-file) - RxJava observables for files including NIO events.
+* [RxTuples ★115](https://github.com/pakoito/RxTuples) - Simple tuples to use with RxJava.
+* [RxAnimationBinding ★75 ⏳1Y](https://github.com/blipinsk/RxAnimationBinding) - RxJava binding APIs for Android's animations.
 
 ## Utilities
-* [RxJavaAsyncUtil ★101](https://github.com/ReactiveX/RxJavaAsyncUtil) - Async utilities for RxJava.
-* [RxJavaJoins ★76 ⏳2Y](https://github.com/ReactiveX/RxJavaJoins) - Joins operators for RxJava.
-* [RxJavaMath ★79 ⏳1Y](https://github.com/ReactiveX/RxJavaMath) - Math operators for RxJava.
-* [RxJavaString ★107](https://github.com/ReactiveX/RxJavaString) - 
+* [RxJavaAsyncUtil ★103](https://github.com/ReactiveX/RxJavaAsyncUtil) - Async utilities for RxJava.
+* [RxJavaJoins ★79 ⏳2Y](https://github.com/ReactiveX/RxJavaJoins) - Joins operators for RxJava.
+* [RxJavaMath ★81 ⏳1Y](https://github.com/ReactiveX/RxJavaMath) - Math operators for RxJava.
+* [RxJavaString ★108](https://github.com/ReactiveX/RxJavaString) - 
 String and Byte operators for RxJava.
-* [RxJavaComputationExpressions ★51 ⏳1Y](https://github.com/ReactiveX/RxJavaComputationExpressions) - Computation expressions for RxJava.
-* [rxjava-extras ★216](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
+* [RxJavaComputationExpressions ★52 ⏳1Y](https://github.com/ReactiveX/RxJavaComputationExpressions) - Computation expressions for RxJava.
+* [rxjava-extras ★221](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 * [RxActions ★34](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
-* [RxRelay ★1267](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and an Action1.
-* [Frodo ★1216](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
+* [RxRelay ★1306](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and an Action1.
+* [Frodo ★1243](https://github.com/android10/frodo) - Android Library for Logging RxJava Observables and Subscribers.
 * [RxPartialApplication ★33](https://github.com/pakoito/RxPartialApplication) - Simple partial application for FuncN and ActionN on RxJava.
 * [RxCurrying ★39](https://github.com/pakoito/RxCurrying) - Simple currying for FuncN and ActionN on RxJava.
 * [RxEither ★79 ⏳1Y](https://github.com/eleventigers/rxeither) - Either type for RxJava.
-* [RxReplayingShare ★373](https://github.com/JakeWharton/RxReplayingShare) - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
+* [RxReplayingShare ★403](https://github.com/JakeWharton/RxReplayingShare) - An RxJava transformer which combines replay(1), publish(), and refCount() operators.
 * [RxFunctions ★52](https://github.com/pakoito/RxFunctions) - Advanced Function composition to use with RxJava.
 * [rxlint](https://bitbucket.org/littlerobots/rxlint) - An Android lint rule for RxJava code.
 * [RxComprehensions ★74](https://github.com/pakoito/RxComprehensions) - Reduce boilerplate in RxJava by abstracting chained flatMaps, concatMaps and switchMaps.
 
 ## Testing
-* [assertj-rx ★129 ⏳1Y](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
-* [rxpresso ★351](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava.
+* [assertj-rx ★128 ⏳1Y](https://github.com/ribot/assertj-rx) - AssertJ assertions for RxJava Observables.
+* [rxpresso ★356](https://github.com/novoda/rxpresso) - Easy Espresso UI testing for Android applications using RxJava.
 
 ## Guides
 
-* [RxJava-Android-Samples ★5361](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
-* [Intro-To-RxJava ★1194](https://github.com/Froussios/Intro-To-RxJava) - An extensive tutorial on RxJava.
+* [RxJava-Android-Samples ★5500](https://github.com/kaushikgopal/RxJava-Android-Samples) - Learning RxJava for Android by example.
+* [Intro-To-RxJava ★1256](https://github.com/Froussios/Intro-To-RxJava) - An extensive tutorial on RxJava.
 
 ## Articles
 

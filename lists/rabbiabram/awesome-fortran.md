@@ -7,8 +7,8 @@ title: Awesome Rank for rabbiabram/awesome-fortran
 	This list is a copy of <a href="https://github.com/rabbiabram/awesome-fortran">rabbiabram/awesome-fortran</a> with ranks
 </p>
 ---
-# Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
-A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift ★3993](https://github.com/Wolg/awesome-swift) by @Wolg.
+# Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
+A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift ★4077](https://github.com/Wolg/awesome-swift) by @Wolg.
 
 - [Awesome Fortran](#awesome-fortran)
 	- [Functional Libraries](#functional-libraries)
@@ -33,7 +33,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 - [Contributing](#contributing)
 
 ## Functional Libraries
-* [Functional Frotran ★129](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
+* [Functional Frotran ★133](https://github.com/wavebitscientific/functional-fortran) - Functional programming for modern Fortran.
 
 
 ## Graphics Libraries
@@ -56,15 +56,15 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 * [IMSL](http://www.roguewave.com/products-services/imsl-numerical-libraries/fortran-libraries) - The IMSL Fortran Numerical Library is the standard for high performance computing commercial mathematics and statistics libraries
 * [Lis](http://www.ssisc.org/lis/index.en.html#download) - a Library of Iterative Solvers for Linear Systems
 * [NAG Fortran Library](http://www.nag.co.uk/nag-fortran-library) - Produced by experts for use in a variety of applications, the NAG Fortran Library has a global reputation for its excellence and, with hundreds of fully documented and tested routines, is the largest collection of mathematical and statistical algorithms available
-* [netCDF ★54](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
-* [OpenBLAS ★1505](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
+* [netCDF ★56](https://github.com/Unidata/netcdf-fortran) - a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data.
+* [OpenBLAS ★1541](https://github.com/xianyi/OpenBLAS) - one of the fastest open source BLAS libraries available.  Almost as fast as Intel MKL.
 * [PAW](http://paw.web.cern.ch/paw/) - conceived as an instrument to assist physicists in the analysis and presentation of their data
 
 ## JSON Manipulation
 *Libraries for JSON data manipulating with Fortran language.*
 
 * [FSON ★34](https://github.com/josephalevin/fson) - Fortran 95 JSON Parser.
-* [json-fortran ★78](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API.
+* [json-fortran ★80](https://github.com/jacobwilliams/json-fortran) - A Fortran 2008 JSON API.
 
 ## XML Manipulation
 *Libraries for XML data manipulating with Fortran language.*
@@ -97,7 +97,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Command-Line parsing
 *Libraries for parsing command-line and building user interfaces.*
 
-* [FLAP ★38](https://github.com/szaghi/FLAP) - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
+* [FLAP ★44](https://github.com/szaghi/FLAP) - Fortran command Line Arguments Parser for poor men. A KISS library for building easily nice Command Line Interfaces (CLI) for modern (2003+) Fortran projects.
 * [options.f90 ★4 ⏳2Y](https://github.com/cngilbreth/optionsf90) - Options & input processing for modern Fortran.
 
 ## Compiling and building
@@ -114,7 +114,7 @@ A curated list of awesome Fortran frameworks, libraries and software. Inspired b
 ## Automatic documentation
 *Libraries for building documentation.*
 
-* [FORD ★94](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs.
+* [FORD ★97](https://github.com/cmacmackin/ford) - An automatic documentation generator for modern Fortran programs.
 
 ## Computational Fluid Dynamics
 *Libraries for CFD computations*
@@ -140,7 +140,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness ★19141](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 

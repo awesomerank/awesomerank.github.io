@@ -9,7 +9,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 ---
 # Web Components the Right Way
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 > This is a guide intended to introduce to Web Components. Everyone can contribute here!
 
@@ -69,7 +69,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 * [Reintroducing Custom Elements V1](https://www.webreflection.co.uk/blog/2016/08/21/custom-elements-v1) A post describing changes in version V1 of Custom Elements which has been agreed by all major browsers vendors so that it is, finally today, a safe bet.
 * [The Case for Custom Elements: Part 1](https://medium.com/dev-channel/the-case-for-custom-elements-part-1-65d807b4b439) The case for why Custom Elements make sense, especially for large organizations.
 * [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133) A post describing some of the features that make Custom Elements compelling if you’re considering building your own component library.
-* [All about HTML Custom Elements ★83](https://github.com/shawnbot/custom-elements) A detailed overview including the differences between Custom Elements v0 and v1.
+* [All about HTML Custom Elements ★84](https://github.com/shawnbot/custom-elements) A detailed overview including the differences between Custom Elements v0 and v1.
 * [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements) at Mozilla Developer Network
 
 ### Shadow DOM
@@ -98,13 +98,13 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 * [React and Custom Elements](http://addyosmani.com/blog/component-interop-with-react-and-custom-elements/) Component Interop with React and Custom Elements
 * [Interop Sass ★41 ⏳2Y](https://github.com/webcomponents/sass-interop) A demo of interoperability between Sass and Polymer.
 * [Interop Less ★15 ⏳2Y](https://github.com/webcomponents/less-interop) A demo of interoperability between Less and Polymer.
-* [Interop Angular ★64](https://github.com/webcomponents/angular-interop) A demo of interoperability between Polymer and AngularJs.
+* [Interop Angular ★65](https://github.com/webcomponents/angular-interop) A demo of interoperability between Polymer and AngularJs.
 * [Angular2-Polymer](https://github.com/vaadin/angular2-polymer) A directive factory that allows using Polymer based Web Components in Angular 2 applications.
 
 ## Generators
 
 * [Generator Elements ★126 ⏳1Y](https://github.com/webcomponents/generator-element) A Yeoman Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
-* [Generator Polymer ★986](https://github.com/yeoman/generator-polymer) Yeoman generator for scaffolding Polymer apps
+* [Generator Polymer ★987](https://github.com/yeoman/generator-polymer) Yeoman generator for scaffolding Polymer apps
 * [Geneator X-Tag ★7 ⏳3Y](https://github.com/x-tag/yo-x-tag-generator) X-Tag generator for Yeoman
 * [Slush Element ★36](https://github.com/webcomponents/slush-element) A Slush Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
 
@@ -112,14 +112,14 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 ## Tests
 
 * [Seed-Element ★290](https://github.com/PolymerElements/seed-element) Polymer element boilerplate Tests
-* [Web Component Tester ★473](https://github.com/Polymer/web-component-tester) web-component-tester makes testing your web components a breeze!
+* [Web Component Tester ★484](https://github.com/Polymer/web-component-tester) web-component-tester makes testing your web components a breeze!
 
 
 ## Discover
 
 * [Bower search](http://bower.io/search/?q=web-components) Bower search Web Components
 * [Built with Polymer](http://builtwithpolymer.org/) A curated collection of web apps and websites using Polymer
-* [Polymer Projects ★46](https://github.com/abdonrd/PolymerProjects) Projects using Polymer
+* [Polymer Projects ★50](https://github.com/abdonrd/PolymerProjects) Projects using Polymer
 * [Components Kitchen](https://component.kitchen/) The best ingredients for your web apps
 * [Custom Elements](https://customelements.io/) A web components gallery for modern web apps
 
@@ -135,7 +135,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 
 ## Style Guides
 
-* [Google Web Components Style Guide ★304 ⏳2Y](https://github.com/GoogleWebComponents/style-guide) This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
+* [Google Web Components Style Guide ★305 ⏳2Y](https://github.com/GoogleWebComponents/style-guide) This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
 * [Polymer Elements Style Guide](http://polymerelements.github.io/style-guide/)
 
 
@@ -150,7 +150,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 * [X-Tag](https://x-tag.readme.io/) X-Tag is a small JavaScript library, created and supported by Mozilla, that brings Web Components Custom Element capabilities to all modern browsers.
 * [Bosonic](http://bosonic.github.io/) Bosonic is a set of tools that enable you to build Web Components as the spec currently describes, and supporting not-so-modern browsers like IE9.
 * [Polymer Dart](https://www.dartlang.org/polymer/) Polymer.dart is a Dart port of Polymer. Build Web Components with Dart, and interoperate with Web Components built with JavaScript.
-* [Skate ★2153](https://github.com/skatejs/skatejs) Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.
+* [Skate ★2180](https://github.com/skatejs/skatejs) Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.
 
 
 ## Screencasts
@@ -172,14 +172,14 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 
 
 ## Polyfills
-* [WebComponentsjs ★2296](https://github.com/WebComponents/webcomponentsjs): A polyfill for Custom Elements, Shadow DOM, HTML Imports, Weakmap, and Mutation Observers
-* [custom-elements ★138](https://github.com/webcomponents/custom-elements): A polyfill for the v1 spec for Custom Elements.
+* [WebComponentsjs ★2344](https://github.com/WebComponents/webcomponentsjs): A polyfill for Custom Elements, Shadow DOM, HTML Imports, Weakmap, and Mutation Observers
+* [custom-elements ★142](https://github.com/webcomponents/custom-elements): A polyfill for the v1 spec for Custom Elements.
 
 ## Boilerplates
 
-* [Polymer Boilerplate ★376 ⏳2Y](https://github.com/webcomponents/polymer-boilerplate) A bare minimum custom element starter-kit using Polymer.
+* [Polymer Boilerplate ★377 ⏳2Y](https://github.com/webcomponents/polymer-boilerplate) A bare minimum custom element starter-kit using Polymer.
 * [X-Tag Boilerplate ★50 ⏳2Y](https://github.com/webcomponents/xtag-boilerplate) A bare minimum custom element starter-kit using X-Tag.
-* [VanillaJS Boilerplate ★203](https://github.com/webcomponents/element-boilerplate) A bare minimum custom element starter-kit using VanillaJS.
+* [VanillaJS Boilerplate ★205](https://github.com/webcomponents/element-boilerplate) A bare minimum custom element starter-kit using VanillaJS.
 
 
 ## Who To Follow

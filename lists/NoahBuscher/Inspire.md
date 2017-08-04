@@ -7,7 +7,7 @@ title: Awesome Rank for NoahBuscher/Inspire
 	This list is a copy of <a href="https://github.com/NoahBuscher/Inspire">NoahBuscher/Inspire</a> with ranks
 </p>
 ---
-Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 ===
 
 Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collction of links to help you. Enjoy!
@@ -18,13 +18,13 @@ Designing and building a modern frontend in any web project can be a long and ar
 * [TheBestDesigns](https://www.thebestdesigns.com/) - General list of hand picked sites from across the web.
 * [Awwwards](http://www.awwwards.com/) - More awesome sites of various styles.
 * [Dribbble](https://dribbble.com/) - Snaps of icons, doodles, sites, and more from a talented group of people.
-* [MinimalSites](http://www.minimalsites.com/) - Another list of sites, but on the much simpler side.
+* [Siiimple](https://siiimple.com/) - Another list of sites, but on the much simpler side.
 * [Httpster](http://httpster.net/) - A curated list of the best sites around the Internet.
 * [siteInspire](http://www.siteinspire.com/) - Get inspired.
 * [Designer News](https://news.layervault.com/) - The best design / development links from the 'net.
 * [CSS Winner](http://www.csswinner.com/) - Reviewed list of great websites.
 * [OnePageLove](https://onepagelove.com/) - Great influence for one page and general website design.
-* [CodeMyUI](http://codemyui.com/) - List of code snippets for fancy CSS/JS that make an awesome UI.
+* [CodeMyUI](https://codemyui.com/) - List of code snippets for fancy CSS/JS that make an awesome UI.
 * [CodePen](http://codepen.io/) - Central repository of user submitted code concepts/snippets. Great for experiments.
 * [CodyHouse](https://codyhouse.co/) - Tutorials and showcase of awesome UI elements.
 * [CSS3 Cheat Sheet](http://www.justinaguilar.com/animations/#) - CSS3 Cheat Sheet
@@ -61,8 +61,9 @@ Designing and building a modern frontend in any web project can be a long and ar
 
 * [Sublime Text](https://www.sublimetext.com) - A very popular text editor for developers.
   * Themes
-    * [Flatron ★264 ⏳2Y](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
+    * [Flatron ★263 ⏳2Y](https://github.com/noahbuscher/Flatron) - It's flat, purple, and hella sexy.
 * [Atom](https://atom.io) - A hackable text editor for the 21st century.
+* [Hyper](https://hyper.is) - Beautiful, extensible command-line interface
 * [FileZilla](https://filezilla-project.org) - For those who fear FTP in the terminal.
 * [WinSCP](http://winscp.net) - Upload files to a MEAN stack or VPS server.
 * [Sketch](http://www.sketchapp.com/) [OS X only] - A professional vector graphics app.
