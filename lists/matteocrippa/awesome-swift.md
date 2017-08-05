@@ -1292,7 +1292,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NumberMorphView ★1280](https://github.com/me-abhinav/NumberMorphView) - A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.
 * [SlidingText ★31](https://github.com/dnKaratzas/SlidingText) - UIView for sliding text with page indicator.
 * [SMIconLabel ★53](https://github.com/anatoliyv/SMIconLabel) - UILabel with image placed from left or right.
-* [Translucid ★510](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background.
+* [Translucid ★510 ⏳1Y](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background.
 * [TriLabelView ★103](https://github.com/mukeshthawani/TriLabelView) - A triangle shaped corner label view for iOS.
 
 #### Menu

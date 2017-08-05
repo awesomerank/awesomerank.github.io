@@ -439,9 +439,9 @@ In some cases, it may not be permitted;
 do **not** violate your course's Honor Code!
 
 Put the OSSU-CS badge in the README of your repository!
-[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22651](https://github.com/open-source-society/computer-science)
+[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★23182](https://github.com/open-source-society/computer-science)
 
-- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★22651](https://github.com/open-source-society/computer-science)`
+- Markdown: `[![Open Source Society University - Computer Science](https://img.shields.io/badge/OSSU-computer--science-blue.svg) ★23182](https://github.com/open-source-society/computer-science)`
 - HTML: `<a href="https://github.com/open-source-society/computer-science"><img alt="Open Source Society University - Computer Science" src="https://img.shields.io/badge/OSSU-computer--science-blue.svg"></a>`
 
 ### Evaluation

@@ -7,9 +7,9 @@ title: Awesome Rank for lucasviola/awesome-functional-programming
 	This list is a copy of <a href="https://github.com/lucasviola/awesome-functional-programming">lucasviola/awesome-functional-programming</a> with ranks
 </p>
 ---
-## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
-Based on the [Awesome ★61331](https://github.com/sindresorhus/awesome) project
+Based on the [Awesome ★62884](https://github.com/sindresorhus/awesome) project
 
 ## What is this about?
 
@@ -98,13 +98,13 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Isabelle/HOL](https://www.cl.cam.ac.uk/research/hvg/Isabelle/) - Generic proof assistant based on Higher Order Logic	
 
 ### Repos
-- [Idris Koans ★108 ⏳1Y](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
-- [Functional Javascript Workshop ★1468](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
-- [J-Bob ★240 ⏳1Y](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+- [Idris Koans ★113 ⏳1Y](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
+- [Functional Javascript Workshop ★1489](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
+- [J-Bob ★239 ⏳1Y](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 - [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 - [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
-- [Functional Programming In JavaScript ★201](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
-- [Functional Programming Jargon ★9114](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
+- [Functional Programming In JavaScript ★204](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
+- [Functional Programming Jargon ★9200](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
 
 ### People
 

@@ -9,9 +9,9 @@ title: Awesome Rank for dylanrees/citizen-science
 ---
 # Digital Tools for Citizen Science
 
-Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository ★436](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
+Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository ★478](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 ## Contents
 
@@ -93,6 +93,7 @@ Below is a curated list of awesome software and other resources to enable those 
 
  * [Raspberry Shake](https://www.kickstarter.com/projects/angelrodriguez/raspberry-shake-your-personal-seismograph) - A seismograph compatible with the Raspberry Pi.
  * [Smoky Mountain Scientific](http://www.smokymtsci.com/) - Modular, Low cost, open-source instrumentation for environmental monitoring.
+ * [AWEsome](https://www.lhc-ilc.physik.uni-bonn.de/research-groups/experimental-physics/prof.-k.-desch/research/airborne-wind-energy) - An affordable airborne wind turbine prototype.
 
 ### 3D Printing and Fabrication
 
@@ -180,6 +181,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Interspecifics](http://www.interspecifics.cc/) - A Mexico City-based collective working on projects at the intersection of art and science, especially related to biologically-generated sound.
  * [Center for Science and the Imagination](http://csi.asu.edu/) - A collaboration between artists and scientists at Arizona State University.
  * [STEM to STEAM](http://stemtosteam.org/) - An initiative out of Rhode Island School of Design to bring more art and design into STEM education.
+ * [The Waag Society](https://waag.org/en/) - An institute for collaborative art, science and technology based in the Netherlands.
 
 ## Funding and Support
 

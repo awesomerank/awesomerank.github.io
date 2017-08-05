@@ -7,9 +7,9 @@ title: Awesome Rank for AchoArnold/discount-for-student-dev
 	This list is a copy of <a href="https://github.com/AchoArnold/discount-for-student-dev">AchoArnold/discount-for-student-dev</a> with ranks
 </p>
 ---
-# discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
-This list is greatly inspired by the [free-for-dev list ★15946](https://github.com/ripienaar/free-for-dev).
+This list is greatly inspired by the [free-for-dev list ★16126](https://github.com/ripienaar/free-for-dev).
 
 You can help by sending Pull Requests to add more services. Please read the [contribution guidelines](https://github.com/AchoArnold/discount-for-student-dev/blob/master/contributing.md) first.
 Once I have a good set of links in this README file, I'll look into a better layout for the information and links (help with that is appreciated too).
@@ -66,7 +66,7 @@ Table of Contents
 ## Web Hosting
 
   * [Digital Ocean](https://www.digitalocean.com) - Digital Ocean provides $50 in hosting credit for every student that signs up for the [Github Student Developer Pack](https://education.github.com/pack).
-  * [Gwiddle](https://gwiddle.co.uk) - Gwiddle provides hosting for 2 websites, 5 mail accounts, 4 MySQL DBs, 4 cron jobs, 1.5GB bandwidth, and 2GB diskspace free to verified students. Includes online control panel, custom and subdomain support, and free storage upgrades for sites that are "solely educational in nature." Supports externally purchased SSL certs for HTTPS (use [Let's Encrypt](https://letsencrypt.org) to get one free).
+  * [Gwiddle](https://gwiddle.co.uk) - Gwiddle provides hosting for 2 websites, 10 mail accounts, 4 MySQL DBs, and 3GB bandwidth and diskspace free to verified students. Includes online Plesk control panel and the ability to bring your own domain name. Supports free SSL certificates via [Let's Encrypt](https://letsencrypt.org).
   * [RoseHosting](https://www.rosehosting.com)  - RoseHosting offers a recurring 20% discount on all their [managed Linux VPS](https://www.rosehosting.com/linux-vps-hosting.html) and [Shared hosting plans](https://www.rosehosting.com/linux-shared-hosting.html) when paying monthly. Students can use the discount by applying the coupon code "STUDENT20". Valid for new customers only. Cannot be combined with any other offer.
 
 ## Design and Photo Editing

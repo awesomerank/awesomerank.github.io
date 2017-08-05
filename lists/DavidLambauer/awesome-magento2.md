@@ -7,7 +7,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 	This list is a copy of <a href="https://github.com/DavidLambauer/awesome-magento2">DavidLambauer/awesome-magento2</a> with ranks
 </p>
 ---
-# Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/DavidLambauer/awesome-magento2.svg?branch=master)](https://travis-ci.org/DavidLambauer/awesome-magento2)
+# Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/DavidLambauer/awesome-magento2.svg?branch=master)](https://travis-ci.org/DavidLambauer/awesome-magento2)
 
 <h1 align="center">
 	<br>
@@ -40,38 +40,40 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [n98-magerun2](http://magerun.net/) - The CLI Swiss Army Knife for Magento 2.
 - [Documentation Search for Alfred ★5](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily integrate the official Magento 2 Search into your Alfred Workflows.
 - [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
-- [Pestle ★238](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
+- [Pestle ★246](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
 - [Mage2Gen](https://mage2gen.com/) - Online Module Creator.
-- [Magento 2 Code Generator ★63](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso.
+- [Magento 2 Code Generator ★72](https://github.com/staempfli/magento2-code-generator) - Code Generator by Juan Alonso.
 - [Magento 2 Docker to Linux](https://hub.docker.com/r/rafaelcgstz/magento2/) - Focused to development process, pretty faster on the Linux.
 - [Magento 2 Bitnami VM](https://bitnami.com/stack/magento/virtual-machine) - Focused to development process, works so fine.
-- [Mage Chrome Toolbar ★67](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist).
-- [convertm1m2 ★98](https://github.com/unirgy/convertm1m2) - A simple script to convert extensions from Magento1 to Magento 2.
+- [Mage Chrome Toolbar ★84](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist).
+- [convertm1m2 ★100](https://github.com/unirgy/convertm1m2) - A simple script to convert extensions from Magento1 to Magento 2.
 ---
 
 ## Open Source Extensions
 
 ### Development Utilities
 
-- [Config ImportExport ★60](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
-- [Codesniffer ★227](https://github.com/magento-ecg/coding-standard) - Magento 2 Codesniffer.
+- [Config ImportExport ★61](https://github.com/semaio/Magento2-ConfigImportExport) - CLI Based Config Management.
+- [Codesniffer ★238](https://github.com/magento-ecg/coding-standard) - Magento 2 Codesniffer.
 - [Whoops Exceptions ★16](https://github.com/yireo/Yireo_Whoops) - PHP Exceptions for Cool Kids in Magento 2.
-- [Developer Toolbar ★121](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
-- [Advanced Template Hints ★66](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
-- [Magento2 PHPStorm Templates ★57](https://github.com/staempfli/magento2-phpstorm-templates) - Live templates for Magento2
-- [Technical Dept Collector ★14](https://github.com/Vinai/m2-tech-debt) - Console Command to aggregates technical debt information on Magento 2 modules into a CSV format by [Vinai Kopp](https://commercehero.io/vinai).
-- [Magento 2 Dockerize ★57](https://github.com/arvatoSCM/dockerize-magento2) - A composer package for dockerizing Magento 2.
-- [Mage2 Vagrant ★243](https://github.com/rgranadino/mage2_vagrant) - Simple Magento 2 Vagrant Box.
-- [frontools ★203](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js.
-- [Scopehints ★20](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by [Andreas von Studnitz](https://commercehero.io/avstudnitz).
+- [Developer Toolbar ★122](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
+- [Advanced Template Hints ★68](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
+- [Magento2 PHPStorm Templates ★62](https://github.com/staempfli/magento2-phpstorm-templates) - Live templates for Magento2
+- [Technical Dept Collector ★15](https://github.com/Vinai/m2-tech-debt) - Console Command to aggregates technical debt information on Magento 2 modules into a CSV format by [Vinai Kopp](https://commercehero.io/vinai).
+- [Magento 2 Dockerize ★61](https://github.com/arvatoSCM/dockerize-magento2) - A composer package for dockerizing Magento 2.
+- [Mage2 Vagrant ★244](https://github.com/rgranadino/mage2_vagrant) - Simple Magento 2 Vagrant Box.
+- [frontools ★214](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js.
+- [Scopehints ★21](https://github.com/avstudnitz/AvS_ScopeHint2) - Displays additional information in the Store Configuration by [Andreas von Studnitz](https://commercehero.io/avstudnitz).
 - [PreferencesInfoCommand ★10](https://github.com/dmanners/DavidAndVinai_PreferencesInfoCommand) - bin/magento command to display configured preferences for classes or interfaces
-- [m2install ★24](https://github.com/yvoronoy/m2install) - Magento 2 Bash Install/Restore Script
+- [m2install ★27](https://github.com/yvoronoy/m2install) - Magento 2 Bash Install/Restore Script
+- [Magento 2 Configurator ★51](https://github.com/ctidigital/magento2-configurator) - A Magento module initially created by CTI Digital to create and maintain database variables using files.
+- [Magento Collect ★10](https://github.com/bobvanluijt/magento-collect) - A Polymer e-commerce element for Magento 2.
 
 ### Deployment
 
-- [Capistrano::Magento2 ★84](https://github.com/davidalger/capistrano-magento2) - Magento 2 deployments with [Capistrano](http://capistranorb.com) by [David Alger](http://davidalger.com).
-- [MageDeploy2 ★18](https://github.com/mwr/magedeploy2-base) - Automatic Magento2 Deployments with [robo](http://robo.li/) and [deployer](https://deployer.org/).
-- [Magento 2 Deployment Tool ★16](https://github.com/staempfli/magento2-deployment-tool) - Magento2 Deployment Tool with PHing by [Juan Alonso](https://commercehero.io/juan.alonso).
+- [Capistrano::Magento2 ★91](https://github.com/davidalger/capistrano-magento2) - Magento 2 deployments with [Capistrano](http://capistranorb.com) by [David Alger](http://davidalger.com).
+- [MageDeploy2 ★21](https://github.com/mwr/magedeploy2-base) - Automatic Magento2 Deployments with [robo](http://robo.li/) and [deployer](https://deployer.org/).
+- [Magento 2 Deployment Tool ★19](https://github.com/staempfli/magento2-deployment-tool) - Magento2 Deployment Tool with PHing by [Juan Alonso](https://commercehero.io/juan.alonso).
 - [Deployer Magento2 Recipe](https://github.com/deployphp/deployer/blob/master/recipe/magento2.php) - Magento2 deployment recipe for [deployer](https://deployer.org/).
 
 ### Language Packages
@@ -79,14 +81,14 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [ru_RU](https://packagist.org/packages/etws/magento-language-ru_ru) :ru: - Russian Language Package.
 - [de_DE ★43](https://github.com/splendidinternet/Magento2_German_LocalePack_de_DE) :de: - German Language 	Package.
 - [de_CH ★2](https://github.com/staempfli/magento2-language-de-ch) 🇨🇭 - Swiss Language Package.
-- [fr_FR ★22](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
+- [fr_FR ★24](https://github.com/Imaginaerum/magento2-language-fr-fr) :fr: - French Language Package.
 - [da_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
 - [es_ES ★6](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
-- [it_IT ★10](https://github.com/antoniocarboni/magento2-traduzione-italiana) :it: - Italian Language Package.
-- [nl_NL ★14](https://github.com/ho-nl/magento2-nl_NL) [alt.](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱 - Dutch Language Package.
+- [it_IT ★13](https://github.com/antoniocarboni/magento2-traduzione-italiana) :it: - Italian Language Package.
+- [nl_NL ★15](https://github.com/ho-nl/magento2-nl_NL) [alt.](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱 - Dutch Language Package.
 - [pl_PL ★14](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
-- [tr_TR ★8 ⏳1Y](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
-- [ro_RO ★1](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴 - Romanian Language Package.
+- [tr_TR ★9 ⏳1Y](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
+- [ro_RO ★2](https://github.com/EaDesgin/magento2-romanian-language-pack) 🇷🇴 - Romanian Language Package.
 - [fi_FL ★0](https://github.com/mageplaza/magento-2-finnish-language-pack) 🇫🇮 - Finnish Language Package.
 - [ko_KR ★0](https://github.com/mageplaza/magento-2-korean-language-pack) 🇰🇷 - Korean Language Package.
 - [sk_SK ★0](https://github.com/mageplaza/magento-2-slovak-language-pack) 🇸🇰 - Slovakian Language Package.
@@ -94,31 +96,33 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 
 ### Search
 
-- [Algolia Search Integration ★51](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
-- [Elastic Suite Integration ★161](https://github.com/Smile-SA/elasticsuite) - Elastic Suite Integration.
-- [FastSimpleImport2 ★60](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
+- [Algolia Search Integration ★54](https://github.com/algolia/algoliasearch-magento-2) - Algolia Search(SaaS) Integration.
+- [Elastic Suite Integration ★171](https://github.com/Smile-SA/elasticsuite) - Elastic Suite Integration.
+- [FastSimpleImport2 ★63](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays.
 
 ### CMS
 
 - [Mageplaza Blog Extension](https://github.com/mageplaza/magento-2-blog-extension) - Simple, but well working Blog Extension.
 - [Bluefoot CMS](https://www.bluefootcms.com/) - CMS Plugin owned by Magento for Magento 2.
-- [PageDesigner ★21](https://github.com/Magenerds/PageDesigner) - Easily create and drag and drop your CMS contents in the Magento Backend.
+- [PageDesigner ★23](https://github.com/Magenerds/PageDesigner) - Easily create and drag and drop your CMS contents in the Magento Backend.
 
 ### Marketing
 
 - [MagePlaza Seo](https://github.com/mageplaza/magento-2-seo-extension) - Well documented multi purpose SEO Extension.
-- [Magemonkey Mailchimp Integration ★37](https://github.com/ebizmarts/magento2-magemonkey) - Plug & Play Mailchimp Integration.
-- [Magento 2 PDF ★20](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based on [wkhtmltopdf](http://wkhtmltopdf.org/).
+- [Magemonkey Mailchimp Integration ★38](https://github.com/ebizmarts/magento2-magemonkey) - Plug & Play Mailchimp Integration.
+- [Magento 2 PDF ★21](https://github.com/staempfli/magento2-module-pdf) - PDF Generator based on [wkhtmltopdf](http://wkhtmltopdf.org/).
 
 ### Adminhtml / Backend
 
-- [Customer Force Login ★37](https://github.com/bitExpert/magento2-force-login) - Login as a Customer for support reasons.
-- [Checkout Tester ★12](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
+- [Customer Force Login ★41](https://github.com/bitExpert/magento2-force-login) - Login as a Customer for support reasons.
+- [Checkout Tester ★16](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 - [Firebear Import/Export](https://github.com/firebearstudio/importexport) - Import/Export Improvements for Standard Magento Importer.
-- [Image Resizer ★26](https://github.com/staempfli/magento2-module-image-resizer) - Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates by [Staempfli](https://commercehero.io/staempfli).
+- [Image Resizer ★27](https://github.com/staempfli/magento2-module-image-resizer) - Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates by [Staempfli](https://commercehero.io/staempfli).
 - [Excel Spreadsheet ★4](https://github.com/staempfli/magento2-module-spreadsheet) - Magento 2 Module for parsing xlsx, xlsm and csv files from Excel by [Staempfli](https://commercehero.io/staempfli).
-- [PDF Generator ★7](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2 by [EaDesign](https://commercehero.io/eadesign).
+- [PDF Generator ★8](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2 by [EaDesign](https://commercehero.io/eadesign).
 - [Mobile Detection ★8](https://github.com/EaDesgin/magento2-mobiledetect) - Mobile detect change theme and redirect based on device type by [EaDesign](https://commercehero.io/eadesign).
+- [Menu Editor ★39](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2.
+- [PageNotFound ★11](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database.
 
 ### Security 
 
@@ -137,8 +141,8 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 
 #### Boilerplates
 
-- [MASE2 Optimus theme ★19](https://github.com/studioemma/magento2-theme-optimus)
-- [Magento2 - Blank Theme - SASS version ★184](https://github.com/SnowdogApps/magento2-theme-blank-sass)
+- [MASE2 Optimus theme ★22](https://github.com/studioemma/magento2-theme-optimus)
+- [Magento2 - Blank Theme - SASS version ★190](https://github.com/SnowdogApps/magento2-theme-blank-sass)
 ---
 
 ### Blogs
@@ -196,11 +200,11 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [Magento Official Website](https://www.magento.com) - Magento's official Website.
 - [Magento Developer Documentation](http://devdocs.magento.com/) - Official Developer Documentation.
 - [Magento Forum](https://community.magento.com/) - Community Forum by Magento.
-- [Magento Github Repository ★4520](https://github.com/magento/magento2) - Github Repository.
-- [Magento PHP CS Fixer ★87](https://github.com/magento/marketplace-eqp) - CS Fixer specific for Magento 2.
+- [Magento Github Repository ★4607](https://github.com/magento/magento2) - Github Repository.
+- [Magento PHP CS Fixer ★92](https://github.com/magento/marketplace-eqp) - CS Fixer specific for Magento 2.
 - [Magento Developer Blog](https://community.magento.com/t5/Magento-DevBlog/bg-p/devblog?nobounce=) - Developer Blog by Magento.
-- [Magento 2 Code Samples ★39](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2.
-- [Magento 2 DevBox ★146](https://github.com/magento/magento2devbox-web) - Dockerbox built by Magento.
+- [Magento 2 Code Samples ★48](https://github.com/magento/magento2-samples) - Samples to introduce and demonstrate new technologies in Magento 2.
+- [Magento 2 DevBox ★153](https://github.com/magento/magento2devbox-web) - Dockerbox built by Magento.
 - Magento Masters 2017
   - [Peter Jaap Blaakmeer](https://commercehero.io/peterjaap) - CTO at [elgentos](https://www.elgentos.nl/)
   - [Carmen Bremen](https://commercehero.io/neoshops) - Freelancer at [neoshops](http://neoshops.de/)
@@ -258,10 +262,10 @@ Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-i
 
 ### Other Magento 2 related Awesome Lists
 
-- [Mageres ★268](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
-- [Awesome PHP ★15773](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
-- [Awesome Magento ★29](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content by [sunel](https://github.com/sunel).
-- [Headless Magento 2 ★26](https://github.com/sitewards/headless-magento2-resources) - A list of resources about running Magento 2 headless by [Sitewards](https://commercehero.io/sitewards)
+- [Mageres ★278](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
+- [Awesome PHP ★16056](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
+- [Awesome Magento ★31](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content by [sunel](https://github.com/sunel).
+- [Headless Magento 2 ★27](https://github.com/sitewards/headless-magento2-resources) - A list of resources about running Magento 2 headless by [Sitewards](https://commercehero.io/sitewards)
 
 ---
 
@@ -269,7 +273,7 @@ Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-i
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [David Lambauer](http://davidlambauer.de) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, David Lambauer has waived all copyright and related or neighboring rights to this work.
 
 ---
 

@@ -7,7 +7,7 @@ title: Awesome Rank for nicolesaidy/awesome-web-design
 	This list is a copy of <a href="https://github.com/nicolesaidy/awesome-web-design">nicolesaidy/awesome-web-design</a> with ranks
 </p>
 ---
-# Awesome Web Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome Web Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 > A curated list of awesome resources for digital designers.
 
 **Check out my [website](http://nicolesaidy.com) & follow me on [Medium](http://medium.com/@nicolesaidy). ✨**
@@ -22,6 +22,7 @@ title: Awesome Rank for nicolesaidy/awesome-web-design
 - [Images](#images)
 - [Guidelines](#guidelines)
 - [Design Tools](#design-tools)
+- [Prototype Tools](#prototype-tools)
 - [Sketch Tools](#sketch-tools)
 - [Tutorials & Courses](#tutorials--courses)
 - [Productivity](#productivity)
@@ -80,6 +81,7 @@ title: Awesome Rank for nicolesaidy/awesome-web-design
 ## Images
 * [Pexels](https://pexels.com): Best free stock photos in one place.
 * [Unsplash.it](http://unsplash.it): Placeholders using a beautiful image gallery.
+* [Pixabay](https://pixabay.com/): High quality photos and illustrations free for commercial use.
 * [Placehold.it](http://placehold.it): A quick and simple image placeholder service.
 * [Imgur](http://imgur.com): The most awesome images on the internet.
 * [Flickr](https://www.flickr.com): The home for all your photos.
@@ -90,18 +92,22 @@ title: Awesome Rank for nicolesaidy/awesome-web-design
 
 ## Design Tools
 * [Sketch](http://sketchapp.com): A lightweight program for digital design for Mac.
-* [Balsamiq](http://balsamiq.com): Rapid, effective and fun wireframing software.
+* [Figma](http://figma.com): The collaborative interface design tool.
 * [Wireframe.cc](https://wireframe.cc/): Minimal wireframing tool.
 * [Axure](www.axure.com/): Prototypes, specifications & diagrams in one tool.
 * [Proto.io](http://proto.io): Interactive high-fidelity prototypes that look and work like your app should.
 * [Frontify](http://frontify.com): Create brand guidelines & smart UI libraries.
 * [UX Pin](http://uxpin.com): UX design, wireframing & prototyping tool.
-* [Invision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
-* [Marvel](https://marvelapp.com/): Free mobile & web prototyping for designers.
-* [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
 * [Canva](http://canva.com): Amazingly simple graphic design software.
+* [Balsamiq](http://balsamiq.com): Rapid, effective and fun wireframing software.
+
+## Prototype Tools
 * [Zeplin](https://zeplin.io/): A great collaboration tool between designers and developers.
 * [Avocode](https://avocode.com/): A workspace open to all designers and developers.
+* [inVision](https://www.invisionapp.com/): The world's leading prototyping, collaboration & workflow platform.
+* [Adobe XD](www.adobe.com/products/experience-design.html): Prototyping & wireframing Tool.
+* [Justinmind](http://justinmind.com): Prototype faster, communicate better, for web and mobile apps.
+* [Marvel](https://marvelapp.com/): Free mobile & web prototyping for designers.
 
 ## Sketch Tools
 #### Tutorials

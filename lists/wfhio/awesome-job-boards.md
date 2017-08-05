@@ -7,16 +7,16 @@ title: Awesome Rank for wfhio/awesome-job-boards
 	This list is a copy of <a href="https://github.com/wfhio/awesome-job-boards">wfhio/awesome-job-boards</a> with ranks
 </p>
 ---
-# Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome Job Boards [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome niche job boards.
 
 ## Table of Contents
 
 - [Big Data](#big-data)
-- [Cloud](#cloud)
 - [Customer Support](#customer-support)
 - [Design](#design)
+- [DevOps](#devops)
 - [Gaming](#gaming)
 - [Growth Hacking](#growth-hacking)
 - [InfoSec](#infosec)
@@ -28,10 +28,6 @@ A curated list of awesome niche job boards.
 
 * [DataJobs.com](https://datajobs.com/)
 
-## Cloud
-
-* [StackJobs](https://www.stackjobs.io/) - OpenStack jobs
-
 ## Customer Support
 
 * [Support Driven Jobs](http://jobs.supportdriven.com/)
@@ -39,14 +35,19 @@ A curated list of awesome niche job boards.
 ## Design
 
 * [AIGA](http://designjobs.aiga.org/)
-* [IXDA](http://ixda.org/jobs/)
+* [Authentic Jobs](https://www.authenticjobs.com/) - "The leading job board for designers, hackers, and creative pros."
 * [Behance](https://www.behance.net/joblist)
 * [Coroflot](http://www.coroflot.com/design-jobs)
+* [IXDA](http://ixda.org/jobs/)
 * [Jobs for Designers](https://dribbble.com/jobs)
 * [Krop](https://www.krop.com/creative-jobs/)
 * [Open Source Design Jobs](http://opensourcedesign.net/jobs/)
 * [UX Jobs Board](https://www.uxjobsboard.com)
 * [Design Inc.](https://www.designinc.com)
+
+## DevOps
+
+* [Jobs For DevOps](https://jobsfordevops.com)
 
 ## Gaming
 
@@ -132,6 +133,10 @@ A curated list of awesome niche job boards.
 * [BetaList Jobs](https://betalist.com/jobs) - Early-stage startup jobs
 
 ## Tech
+
+### Canada
+
+* [Tramcar](https://tramcar.ca) - Toronto-Waterloo Region Corridor Jobs
 
 ### Europe
 

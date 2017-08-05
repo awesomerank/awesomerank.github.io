@@ -7,7 +7,7 @@ title: Awesome Rank for cjbarber/ToolsOfTheTrade
 	This list is a copy of <a href="https://github.com/cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
 </p>
 ---
-# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
 
@@ -390,6 +390,7 @@ currency conversion JSON API | A simple and easy-to-integrate exchange rates API
 * Sendy | https://sendy.co | [@getsendy](https://twitter.com/getSendy) | $59 one time fee, host yourselfor use a hosted sendy instance from a variety of providers.
 * Image-Charts | https://image-charts.com | [@imagecharts](https://twitter.com/imagecharts) | free - $49/mo, self-hosted plan available | Include animated charts as image into emails, no server-side rendering, 1 URL = 1 chart, compatible with Google Image Charts.
 * Drip | https://www.getdrip.com | [@getdrip](https://twitter.com/getdrip) | free for < 100 subscribers, paid plans from $49/mo | Advanced marketing automation with workflows, drip campaigns, conversion tracking etc..
+* MailerLite | https://www.mailerlite.com | [@mailerlite](https://twitter.com/mailerlite) | free - $140/month | free plan offers a lot of features
 
 ### Email Collection/Landing Page Apps
 
@@ -627,7 +628,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Convo | https://www.convo.com/
 * Zoom | https://www.zoom.us/
 
-[HipChat Alternatives ★232](https://github.com/cjbarber/hipchat-alternatives)
+[HipChat Alternatives ★234](https://github.com/cjbarber/hipchat-alternatives)
 
 ### Remote Collaboration
 

@@ -7,7 +7,7 @@ title: Awesome Rank for shime/creative-commons-media
 	This list is a copy of <a href="https://github.com/shime/creative-commons-media">shime/creative-commons-media</a> with ranks
 </p>
 ---
-# Creative Commons Media [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/shime/creative-commons-media.svg?branch=master)](https://travis-ci.org/shime/creative-commons-media)
+# Creative Commons Media [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/shime/creative-commons-media.svg?branch=master)](https://travis-ci.org/shime/creative-commons-media)
 
 A curated list of resources that provide media licensed under [Creative Commons licenses](https://creativecommons.org/licenses/).
 
@@ -27,6 +27,7 @@ Contributions are very welcome!
 ## Graphics
 
 * [AllTheFreeStock](http://allthefreestock.com/) - curated list of free stock images, graphics and videos.
+* [Altphotos](https://altphotos.com) - Handpicked free (CC0) high-resolution photos added daily.
 * [AnimalPhotos](http://animalphotos.info/a/) - Thousands of animal pictures.
 * [CarPictures.cc](http://carpictures.cc/cars/photo/) - Thousands of car pictures.
 * [Compfight](http://www.compfight.com/) - Searches Flickr for images suitable for blogs, comps, inspiration and research.
@@ -90,7 +91,7 @@ Contributions are very welcome!
 
 ## Other awesome lists
 
-* [awesome-awesomeness ★19141](https://github.com/bayandin/awesome-awesomeness)
+* [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness)
 
 ## License
 

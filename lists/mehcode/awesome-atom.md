@@ -7,9 +7,9 @@ title: Awesome Rank for mehcode/awesome-atom
 	This list is a copy of <a href="https://github.com/mehcode/awesome-atom">mehcode/awesome-atom</a> with ranks
 </p>
 ---
-# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome ★61331](https://github.com/sindresorhus/awesome).
+A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome ★62884](https://github.com/sindresorhus/awesome).
 
 ## Table of Content
 
@@ -20,35 +20,36 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [Nuclide](#nuclide)
 - [Themes](http://enrmarc.github.io/atom-theme-gallery/)
 - [Uncategorized](#uncategorized)
- - [Advanced Open File](#advanced-open-file)
- - [Atom Reverser](#atom-reverser)
- - [Atom Terminal](#atom-terminal)
- - [Autocomplete module import](#autocomplete-module-import)
- - [Beautify](#beautify)
- - [Code Peek](#code-peek)
- - [Color Picker](#color-picker)
- - [Copy Paste](#copy-paste)
- - [CSS Declaration Sorter](#css-declaration-sorter)
- - [Duplicate Selection](#duplicate-selection)
- - [Editor Config](#editor-config)
- - [Emmet](#emmet)
- - [File Icons](#file-icons)
- - [Fonts](#fonts)
- - [Git Time Machine](#git-time-machine)
- - [html-to-css](#html-to-css)
- - [iMDone](#imdone)
- - [Jumpy](#jumpy)
- - [Merge Conflicts](#merge-conflicts)
- - [Minimap](#minimap)
- - [Pigments](#pigments)
- - [Project Plus](#project-plus)
- - [Ruby Test Switcher](#ruby-test-switcher)
- - [Sort lines](#sort-lines)
- - [Sorter](#sorter)
- - [Sync Settings](#sync-settings)
- - [Terminal-Plus](#terminal-plus)
- - [TernJS](#ternjs)
- - [Toggle Quotes](#toggle-quotes)
+  - [Nuclide](#nuclide)
+  - [Advanced Open File](#advanced-open-file)
+  - [Atom Reverser](#atom-reverser)
+  - [Atom Terminal](#atom-terminal)
+  - [Autocomplete module import](#autocomplete-module-import)
+  - [Beautify](#beautify)
+  - [Code Peek](#code-peek)
+  - [Color Picker](#color-picker)
+  - [Copy Paste](#copy-paste)
+  - [CSS Declaration Sorter](#css-declaration-sorter)
+  - [Duplicate Selection](#duplicate-selection)
+  - [Editor Config](#editor-config)
+  - [Emmet](#emmet)
+  - [File Icons](#file-icons)
+  - [Fonts](#fonts)
+  - [Git Time Machine](#git-time-machine)
+  - [html-to-css](#html-to-css)
+  - [iMDone](#imdone)
+  - [Jumpy](#jumpy)
+  - [Merge Conflicts](#merge-conflicts)
+  - [Minimap](#minimap)
+  - [Pigments](#pigments)
+  - [Project Plus](#project-plus)
+  - [Sort lines](#sort-lines)
+  - [Sorter](#sorter)
+  - [Sync Settings](#sync-settings)
+  - [PlatformIO IDE Terminal](#platformio-ide-terminal)
+  - [TernJS](#ternjs)
+  - [Test Navigator](#test-navigator)
+  - [Toggle Quotes](#toggle-quotes)
 
 ## Syntax
 
@@ -56,9 +57,12 @@ Language packages extend the editor with syntax highlighting and/or
 snippets for a specific language or file format.
 
  - [Angular](https://atom.io/packages/angularjs)
+ - [Vue.js](https://atom.io/packages/language-vue)
  - [Dockerfile](https://atom.io/packages/language-docker)
+ - [Markdown](https://atom.io/packages/language-markdown)
  - [React](https://atom.io/packages/react)
  - [Stylus](https://atom.io/packages/stylus)
+ - [Pug](https://atom.io/packages/language-pug)
  - [Tcl](https://atom.io/packages/language-tcl)
  - [TypeScript](https://atom.io/packages/atom-typescript)
 
@@ -90,7 +94,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
  - [AppleScript](https://atom.io/packages/build-applescript) — oscompile
  - [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
  - [CoffeeScript](https://atom.io/packages/build-coffee) - coffee
- - [GNU Make ★10](https://github.com/AtomBuild/atom-build-make) - make
+ - [GNU Make ★9](https://github.com/AtomBuild/atom-build-make) - make
  - [Sass](https://atom.io/packages/build-sass) — sass
  - [TypeScript](https://atom.io/packages/build-tsc) - tsc
 
@@ -99,7 +103,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 ## Extensions
 
 #### [Nuclide](https://nuclide.io/)
-> An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook ★6793](https://github.com/facebook/nuclide).
+> An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook ★6922](https://github.com/facebook/nuclide).
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
 
@@ -120,13 +124,13 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 
 ![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
 
-#### [Autocomplete module import](https://atom.io/packages/atom-autocomplete-module-import)
+#### [Autocomplete module import](https://atom.io/packages/autocomplete-module-import)
 > Search & install npm packages from import/require statements by [Algolia](https://www.algolia.com/)
 
 ![](https://camo.githubusercontent.com/53350e9c6d303f60101e1644605fe62f529e45f2/687474703a2f2f672e7265636f726469742e636f2f643576695542385859372e676966)
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
-> [Beautify ★4766](https://github.com/beautify-web/js-beautify)
+> [Beautify ★4854](https://github.com/beautify-web/js-beautify)
 HTML (including [Handlebars](http://handlebarsjs.com/)),
 CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
@@ -204,9 +208,6 @@ JavaScript, and much more in Atom.
 
 ![](https://raw.githubusercontent.com/mehcode/atom-project-plus/master/project-plus.gif)
 
-#### [Ruby Test Switcher](https://atom.io/packages/ruby-test-switcher)
-> Switch between Ruby source code and test files with a keystroke. It supports RSpec, minitest and test-unit, both in Rails and non-Rails projects.
-
 #### [Sort Lines](https://atom.io/packages/sort-lines)
 > Sorts your lines. Never gets tired.
 
@@ -218,13 +219,19 @@ JavaScript, and much more in Atom.
 #### [Sync Settings](https://atom.io/packages/sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
 
-#### [Terminal-Plus](https://atom.io/packages/terminal-plus)
-> The terminal inside the editor complete with themes and more.
+#### [PlatformIO IDE Terminal](https://atom.io/packages/platformio-ide-terminal)
+> A terminal package for Atom, complete with themes, API and more for PlatformIO IDE.
+> This is a maintained (as of 2017-07-13) fork of terminal-plus.  
 
 ![](https://raw.githubusercontent.com/jeremyramin/terminal-plus/master/resources/demo.gif)
 
 #### [TernJS](https://atom.io/packages/atom-ternjs)
 > Javascript code intelligence for atom with tern.js and autocomplete-plus.
+
+### [Test Navigator](https://atom.io/packages/test-navigator)
+> Quickly navigate between test and implementation files.
+
+![Test Navigator Demo](https://github.com/DFreds/test-navigator-atom/blob/master/test-navigator.gif?raw=true)
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
 > Quickly toggle between single and double quotes.

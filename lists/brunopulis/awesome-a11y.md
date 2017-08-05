@@ -140,6 +140,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 * [Web Accessibility Toolbar (WAT) - By The Paciello Group, IE Extension (Win only)](https://www.paciellogroup.com/resources/wat/)
 * [WP Accessibility](https://www.joedolson.com/wp-accessibility/) - Helps with a variety of common accessibility problems in WP themes. by [@joedolson](https://github.com/joedolson)
 * [skip-to-content ★7 ⏳1Y](https://github.com/afonsopacifer/skip-to-content) - A Polymer element for Skip to Content. by [@afonsopacifer](https://github.com/afonsopacifer)
+* [Tanaguru Contrast Finder](http://contrast-finder.tanaguru.com/?lang=en) - Contrast finder that suggests a valid color range
 
 ----
 

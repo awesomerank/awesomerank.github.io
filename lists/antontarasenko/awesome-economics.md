@@ -7,13 +7,13 @@ title: Awesome Rank for antontarasenko/awesome-economics
 	This list is a copy of <a href="https://github.com/antontarasenko/awesome-economics">antontarasenko/awesome-economics</a> with ranks
 </p>
 ---
-# Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
-*A curated collection of links for economists. Part of the ["Awesome X" series ★61331](https://github.com/sindresorhus/awesome).*
+*A curated collection of links for economists. Part of the ["Awesome X" series ★62884](https://github.com/sindresorhus/awesome).*
 
 The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
 
-Your contributions are welcomed. Add links [by yourself](https://github.com/antontarasenko/awesome-economics/blob/master/contributing.md) or send them to <mailto:antontarasenko@gmail.com>.
+Your contributions are welcomed. Add links to "Links Sent by Readers" [by yourself](https://github.com/antontarasenko/awesome-economics/blob/master/contributing.md) or send them to <mailto:antontarasenko@gmail.com>.
 
 ## Table of Contents
 
@@ -101,7 +101,7 @@ Sharing
 * [GitHub](https://github.com/) - A repository for code and data. Publishing research here is not a common practice, but it's more convenient that alternatives (university home page, DropBox, etc.).
   - [GitHub Pages](https://pages.github.com/) - Simple static websites.
   - [GitHub LFS](https://git-lfs.github.com/) - Large file storage.
-* [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks ★9453](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+* [IPython Notebooks](http://ipython.org/) - An interactive alternative to LaTeX and Word. See examples how notebooks look like in [data-science-ipython-notebooks ★9756](https://github.com/donnemartin/data-science-ipython-notebooks) and [the gallery](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
 
 Reviews
 
@@ -171,16 +171,19 @@ Please, add yourself and your economics-related projects.
 ### Projects
 
 * [economics-book ★4](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
-* [pyeconomics ★66 ⏳3Y](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
+* [pyeconomics ★68 ⏳3Y](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 * [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
-* [quantecon_nyu_2016 ★30 ⏳1Y](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
+* [quantecon_nyu_2016 ★31 ⏳1Y](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
 * [zice-2014 ★13 ⏳3Y](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 * [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
-### Links Sent by Users
+### Links Sent by Readers
 
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
+* [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
+* [fecon235 ★183](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+* [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 
 
 ## License

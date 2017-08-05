@@ -7,7 +7,7 @@ title: Awesome Rank for victorlaerte/awesome-it-quotes
 	This list is a copy of <a href="https://github.com/victorlaerte/awesome-it-quotes">victorlaerte/awesome-it-quotes</a> with ranks
 </p>
 ---
-# Awesome IT Quotes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome IT Quotes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 This is a list of awesome IT quotes. The aim is to collect all relevant quotes said over the history of IT.
 

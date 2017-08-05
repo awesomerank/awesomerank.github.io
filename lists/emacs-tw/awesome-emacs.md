@@ -147,11 +147,12 @@ Most of the following packages are available in [[https://github.com/milkypostma
      - [[https://github.com/syohex/emacs-dired-k][dired-k]] - Highlight dired buffer by file size, modified time, git status.
    - [[https://github.com/jaypei/emacs-neotree][NeoTree]] - A emacs tree plugin like NERD tree for Vim.
    - [[http://www.emacswiki.org/emacs/SrSpeedbar][Sr Speedbar]] - Same frame speedbar.
-     - [[https://github.com/anshulverma/projectile-speedbar][projectile-speedbar]] - Speedbar and Projectile integration
-   - [[https://github.com/m2ym/direx-el][Direx]] - directory tree explorer
-   - [[https://github.com/fourier/ztree][ztree]] - Directory tree comparison mode
+     - [[https://github.com/anshulverma/projectile-speedbar][projectile-speedbar]] - Speedbar and Projectile integration.
+   - [[https://github.com/m2ym/direx-el][Direx]] - directory tree explorer.
+   - [[https://github.com/fourier/ztree][ztree]] - Directory tree comparison mode.
    - [[https://github.com/ralesi/ranger.el][Ranger]] - [[http://ranger.nongnu.org/][ranger]] like file manager based on dired.
    - [[https://github.com/escherdragon/sunrise-commander][Sunrise Commander]] - Twin-pane file manager for Emacs based on Dired and inspired by Midnight Commander.
+   - [[https://github.com/Alexander-Miller/treemacs][Treemacs]] - a tree layout file explorer for Emacs.
 
 ** Navigation
 
@@ -192,6 +193,7 @@ Most of the following packages are available in [[https://github.com/milkypostma
    - [[https://github.com/fgeller/highlight-thing.el][highlight-thing]] - Light-weight minor mode to highlight thing under point using built-ins.
    - [[https://github.com/larstvei/Focus][focus]] - Dim the font color of text in surrounding paragraphs.
    - [[https://github.com/iqbalansari/emacs-emojify][emojify]] - Display emojis in Emacs.
+   - [[https://github.com/Malabarba/beacon][beacon]] - Never lose your cursor again
 
 ** Editing
 
@@ -332,6 +334,7 @@ Most of the following packages are available in [[https://github.com/milkypostma
 
      - [[https://www.emacswiki.org/emacs/InferiorEmacsLispMode][ielm]] - =[built-in]= A simple Emacs Lisp REPL.
      - [[https://github.com/Silex/elmacro][elmacro]] - Display keyboard macros or latest interactive commands as Emacs Lisp.
+     - [[https://github.com/Wilfred/suggest.el][suggest.el]] - Discover elisp functions that do what you want.
 
 *** Web Development
 
@@ -351,6 +354,7 @@ Most of the following packages are available in [[https://github.com/milkypostma
      - [[https://github.com/joshwnj/json-mode][json-mode]] - Major mode for editing JSON files.
      - [[https://github.com/NicolasPetton/indium][indium]] - A JavaScript development environment for Emacs.
      - [[https://github.com/magnars/js2-refactor.el][js2-refactor]] - A JavaScript refactoring library for emacs.
+     - [[https://github.com/felipeochoa/rjsx-mode][rjsx-mode]] - A JSX major mode for Emacs.
 
 ***** CoffeeScript
 
@@ -661,6 +665,7 @@ External Guides:
     - [[https://github.com/quelpa/quelpa][quelpa]] - Build and install your Emacs Lisp packages on-the-fly directly from source.
     - [[https://github.com/Homebrew/homebrew-emacs][homebrew-emacs]] - [[http://brew.sh][Homebrew]] tap for installing Emacs packages.
     - [[https://github.com/emacscollective/borg][borg]] - Assimilate Emacs packages as Git submodules.
+    - [[https://github.com/raxod502/straight.el][straight.el]] - Next-generation, purely functional package manager for the Emacs hacker.
 
 *** Package Configuration
 
@@ -727,7 +732,7 @@ External Guides:
    - [[https://www.gnu.org/software/emms/][EMMS]] - The Emacs Multimedia System
    - [[https://github.com/dbrock/bongo/][Bongo]] - A flexible and usable media player for GNU Emacs
    - [[https://github.com/nlamirault/dionysos][Dionysos]] - A simple music player for Emacs
-
+   - [[https://github.com/pft/mingus][Mingus]] - An Emacs front end to the Music Player Daemon with an interface that resembles ncmpc
 ** Fun
 
    - [[https://github.com/TeMPOraL/nyan-mode][Nyan-mode]] - Let Nyan Cat show you your buffer position in mode line.

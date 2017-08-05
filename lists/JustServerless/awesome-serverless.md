@@ -677,6 +677,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Our journey to serverless](https://www.digitalmaas.com/blog/our-journey-to-serverless) - Story of DigitalMaas transition to a serverless architecture.
 - [Azure Cotainer Instances](https://thenewstack.io/azure-container-instances-proof-microsoft-innovating-containers/) - Post about Azure Container instances and their relation to AWS Lambda.
 - [Serverless v1.19.0](https://serverless.com/blog/serverless-v1.19.0/) - Announcement blog post for Serverless Framework v1.19.0.
+- [CloudFoundry Summit 2017 hackathon](https://thenewstack.io/brainstorming-new-platform-ideas-cloud-foundry-hackathon/) - Summary of the CloudFoundry Summit 2017 hackathon.
+- [Handling Python packaging](https://serverless.com/blog/serverless-python-packaging/) - How to handle your Python packaging in Lambda with Serverless plugins.
+- [5 emerging use cases for Apache OpenWhisk](https://thenewstack.io/ibms-openwhisk-serverless/) - Overview of the 5 emerging use-cases of the Apache OpenWhisk serverless platform.
 
 ## Screencasts
 
@@ -839,6 +842,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [ServerlessConf Austin - Video 1](https://www.youtube.com/watch?v=ldI1xkT5UN0) - Recap video 1 of ServerlessConf Austin 2017.
 - [ServerlessConf Austin - Video 2](https://www.youtube.com/watch?v=fnUMwjBcarY) - Recap video 2 of ServerlessConf Austin 2017.
 - [Searching for the server in serverless](https://www.dotconferences.com/2017/04/clay-smith-searching-for-the-server-in-serverless) - Talk by Clay Smith about serverless computing ([Video](https://www.youtube.com/watch?v=HDnLx3Xp7bg) / [Slides](https://speakerdeck.com/smithclay/searching-for-the-server-in-serverless)).
+- [Serverless startup with Yan Cui](https://softwareengineeringdaily.com/2017/08/04/serverless-startup-with-yan-cui/) - Talk about the startup "Yubl" which re-built their infrastructure in a serverless fashion.
 
 ## Amazon AWS resources
 
@@ -1304,6 +1308,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Bespoken ★4](https://github.com/bespoken/serverless-plugin-bespoken) - Creates a local server and a proxy so you don't have to deploy anytime you want to test your code for your [Bespoken](http://bespoken.tools) application.
 - [S3 bucket sync ★7](https://github.com/sbstjn/serverless-s3bucket-sync) - Sync local folders with an S3 bucket.
 - [S3 sync ★11](https://github.com/k1LoW/serverless-s3-sync) - Sync local directories and S3 prefixes.
+- [Nested stacks ★1](https://github.com/jagdish-176/serverless-nested-stack) - Plugin to workaround the CloudFormation 200 resource limit.
 
 ## Literature
 

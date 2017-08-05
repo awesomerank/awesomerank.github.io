@@ -431,6 +431,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FileMaker](https://github.com/PerfectlySoft/Perfect-FileMaker) - A Swift wrapper around the FileMaker XML Web publishing interface, enabling access to FileMaker servers. Part of the [Perfect ★11947](https://github.com/PerfectlySoft/Perfect) project, but stand-alone. SPM and Swift 3 support.
 * [Nora ★188](https://github.com/SD10/Nora) - Nora is a Firebase abstraction layer for working with FirebaseDatabase and FirebaseStorage. :large_orange_diamond:
 * [PersistentStorageSerializable ★158](https://github.com/IvanRublev/PersistentStorageSerializable) - Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk. :large_orange_diamond:
+* [WCDB ★3538](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
+
 
 ## Data Structures / Algorithms
 * [SwiftSortedList ★4](https://github.com/bemindinteractive/SwiftSortedList) - A sorted list implementation written in Swift :large_orange_diamond:
@@ -979,7 +981,7 @@ Also see [push notifications](#push-notifications)
 
  * [apollo-ios ★706](https://github.com/apollographql/apollo-ios) - A GraphQL client for iOS, written in Swift :large_orange_diamond:
  * [JSONRPCKit ★73](https://github.com/bricklife/JSONRPCKit) - A JSON-RPC 2.0 library purely written in Swift :large_orange_diamond:
- * [protobuf-swift ★757](https://github.com/alexeyxo/protobuf-swift) - Google ProtocolBuffers for Apple Swift http://protobuf.io/#swift :large_orange_diamond:
+ * [protobuf-swift ★757](https://github.com/alexeyxo/protobuf-swift) - Google ProtocolBuffers for Apple Swift :large_orange_diamond:
 
 ## Notifications
 
@@ -1345,7 +1347,7 @@ Most of these are paid services, some have free tiers.
 * [NoOptionalInterpolation ★39](https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(...)" and "nil" in string interpolation. Easy pluralization.🔶[e]
 * [Smile ★239](https://github.com/onmyway133/Smile) 😄 Emoji in Swift
 * [ISO8601 ★11](https://github.com/onmyway133/iso8601) Super lightweight ISO8601 Date Formatter in Swift 🔶[e]
-* [Translucid ★510](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift. :large_orange_diamond:
+* [Translucid ★510 ⏳1Y](https://github.com/Ekhoo/Translucid) - Lightweight library to set an Image as text background. Written in swift. :large_orange_diamond:
 * [FormatterKit ★4006](https://github.com/mattt/FormatterKit) - `stringWithFormat:` for the sophisticated hacker set
 * [BonMot ★1735](https://github.com/Raizlabs/BonMot) - Beautiful, easy attributed strings in Swift :large_orange_diamond:
 * [SwiftValidators ★115](https://github.com/gkaimakas/SwiftValidators) - String validation for iOS developed in Swift. Inspired by [validator.js](https://www.npmjs.com/package/validator).
@@ -1381,7 +1383,7 @@ Most of these are paid services, some have free tiers.
 * [XcodeCoverage ★683](https://github.com/jonreid/XcodeCoverage) - Code coverage for Xcode projects.
 * [OHHTTPStubs ★3293](https://github.com/AliSoftware/OHHTTPStubs) - Stub your network requests easily! Test your apps with fake network data and custom response time, response code and headers!
 * [Dixie ★202 ⏳1Y](https://github.com/Skyscanner/Dixie) - Dixie is an open source Objective-C testing framework for altering object behaviours.
-* [gh-unit ★1918](https://github.com/gh-unit/gh-unit) - Test Framework for Objective-C.
+* [gh-unit ★1918 ⏳1Y](https://github.com/gh-unit/gh-unit) - Test Framework for Objective-C.
 * [Nimble ★2284](https://github.com/Quick/Nimble) - A Matcher Framework for Swift and Objective-C :large_orange_diamond:
 * [Sleipnir ★841 ⏳1Y](https://github.com/railsware/Sleipnir) - BDD-style framework for Swift :large_orange_diamond:
 * [SwiftCheck ★783](https://github.com/typelift/SwiftCheck) - QuickCheck for Swift :large_orange_diamond:
@@ -2739,7 +2741,7 @@ Other amazingly awesome lists can be found in the
   * [@matteocrippa ★12522](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
   * [@Wolg ★4077](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
   * [Awesome-Swift-Education ★5209](https://github.com/hsavit1/Awesome-Swift-Education) - All of the resources for Learning About Swift :large_orange_diamond:
-* [awesome watchkit apps ★192 ⏳1Y](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials. :watch:
+* [awesome watchkit apps ★192 ⏳2Y](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials. :watch:
 * [iOS Learning Resources ★231](https://github.com/sanketfirodiya/iOS-learning-resources) Comprehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
 * [awesome-ios-animation ★2676](https://github.com/ameizi/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
 * [awesome-ios-chart ★959 ⏳1Y](https://github.com/ameizi/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.

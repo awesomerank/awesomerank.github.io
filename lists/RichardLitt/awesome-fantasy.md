@@ -7,11 +7,11 @@ title: Awesome Rank for RichardLitt/awesome-fantasy
 	This list is a copy of <a href="https://github.com/RichardLitt/awesome-fantasy">RichardLitt/awesome-fantasy</a> with ranks
 </p>
 ---
-# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 > Fantasy literature worth reading
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi ★1385](https://github.com/sindresorhus/awesome-scifi).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi ★1406](https://github.com/sindresorhus/awesome-scifi).*
 
 *Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/contributing.md) before contributing.*
 
@@ -198,6 +198,14 @@ The Mistborn trilogy (well, he plans on doing a trilogy of trilogies, and the la
 
 I've only read the first trilogy at this point, but I loved it; the magic system is pretty well done, the characters are convincing, we've got some strong female leads, and there's a good amount of intrigue and plot setting. Brandon Sanderson is fairly good at turning tropes on their head, as well, which was fun to read - a lot of my original complaints have now turned into praises for the books. I'm looking forward to reading more. - [@RichardLitt](https://github.com/RichardLitt)
 
+I have read the first six books and will continue reading every book in this series...and probably everything Sanderson writes. The Mistborn stories are well crafted and interesting. There is so much going on as they also fit into Sanderson's Cosmere which means characters from other worlds occasionally interact with those from Scadrial - the world where these novels are based. I find every story to be expertly paced, never leaving a lull in the momentum, I have had friends say they found the sixth book, Bands of Mourning, to be a little slow but I didn't have the same view. Every novel is well rounded, leaving plenty unsaid and undiscovered but never robbing the reader of a complete or resolved story.
+
+The first trilogy introduces us to a strange and spectacular world: one where there is magic, intrigue, social/economic inequality and, possibly my favorite thing, different races of people that inhabit this world.
+
+The second trilogy takes place some 300 years after the events of the first, and many of these events have filtered through into the 'modern' day Scadrial (it has a very old western feel to the whole setting); such as cities named after hero's, religions based on characters and many little secrets that are still unanswered from the first trilogy. We are introduced to a whole batch of new characters and some not so new characters - I won't say more otherwise I may give too much away.
+
+Would recommend this entire series and the whole Cosmere to any fantasy fan. - [@SeanSWatkins](https://github.com/SeanSWatkins)
+
 > The first three books are a trilogy to be read together.
 > Mistborn is an epic fantasy trilogy and a heist story of political intrigue, surprises and magical martial-arts action. The saga dares to turn a genre on its head by asking a simple question: What if the hero of prophecy fails? What kind of world results when the Dark Lord is in charge?
 >
@@ -209,6 +217,7 @@ Books:
  * [The Hero of Ages](https://www.goodreads.com/book/show/2767793-the-hero-of-ages) [4.4]
  * [The Alloy of Law](https://www.goodreads.com/book/show/10803121-the-alloy-of-law) [4.2]
  * [Shadows of Self](https://www.goodreads.com/book/show/16065004-shadows-of-self) [4.2]
+ * [The Bands of Mourning](https://www.goodreads.com/book/show/18739426-the-bands-of-mourning) [4.2]
  * _More coming_
 
 #### The Riftwar Saga *by Raymond E. Feist* [4.3]
@@ -271,6 +280,26 @@ This is my favorite dark fantasy series and the first book is awesome. These are
 
 > The series follows an elite mercenary unit, The Black Company, last of the Free Companies of Khatovar, through roughly forty years of its approximately four hundred-year history. Cook mixes fantasy with military fiction in gritty, down-to-earth portrayals of the Company‘s chief personalities and its struggles.
 
+#### [The Malazan Book Of The Fallen](https://www.goodreads.com/series/43493-the-malazan-book-of-the-fallen) (1999) *by [Steven Erikson](https://en.wikipedia.org/wiki/Steven_Erikson)* [3.8]
+
+Mixing the grittiness of Glen Cook's books with the modern fantasy elements, this series is more brutal than any before it. Lots of philosophical questions stems from reading even the less important chapters and a huge amount of characters makes it for a very long and deep read. As Erikson himself points out, people either "love it or hate it". The author is writing a prequel series right now and will add a sequel trilogy after it, making for a total of 16 books. - [@Donearm](https://github.com/Donearm)
+
+Books:
+ * [Gardens of the Moon](https://www.goodreads.com/book/show/55399.Gardens_of_the_Moon) [3.8]
+ * [Deadhous Gates](https://www.goodreads.com/book/show/55401.Deadhouse_Gates) [4.2]
+ * [Memories of Ice](https://www.goodreads.com/book/show/175983.Memories_of_Ice) [4.4]
+ * [House of Chains](https://www.goodreads.com/book/show/55398.House_of_Chains) [4.3]
+ * [Midnight Tides](https://www.goodreads.com/book/show/345299.Midnight_Tides) [4.3]
+ * [The Bonehunters](https://www.goodreads.com/book/show/478951.The_Bonehunters) [4.4]
+ * [Reaper's Gale](https://www.goodreads.com/book/show/459064.Reaper_s_Gale) [4.3]
+ * [Toll the Hounds](https://www.goodreads.com/book/show/938544.Toll_the_Hounds) [4.3]
+ * [Dust of Dreams](https://www.goodreads.com/book/show/4703427-dust-of-dreams) [4.3]
+ * [The Crippled God](https://www.goodreads.com/book/show/8447255-the-crippled-god) [4.4]
+
+>  Steven Erikson draws on twenty years of experience as an anthropologist and archaeologist. Vast legions of gods, mages, humans, dragons and all manner of creatures play out the fate of the Malazan Empire, with brutal action and battle scenes
+
+> The world building is done on an unprecedented scale and Erikson has left a lifetime's worth of novels on the table in the world of the Malazan Empire. So what is left to talk about? It's simple, the writing. I can tell that Steven Erikson's writing is filled with wit, charm, philosophical brilliance and a sense of imagination that would humble the most creative of authors. You will be hard-pressed to find his equal in any genre.
+
 ### Standard Fantasy
 
 #### [American Gods](https://www.goodreads.com/book/show/4407.American_Gods) *by Neil Gaiman* [4.1]
@@ -307,6 +336,14 @@ Written for J.R.R. Tolkien’s own children, The Hobbit met with instant critica
 I found Jirel fascinating as a heroine of 1930s pulp fantasy. Throughout her adventures, Jirel's opponents constantly seek to victimize her, use her as bait, lure her in, or overpower her. Often she can't escape witnessing or even being part of horrific things, but she takes these impossible situations and confronts them on her own terms. I thought this was a nice alternative to always evading danger or using feminine wiles to get out of tight corners. Jirel is physically and emotionally capable without being a know-it-all or preternaturally lucky. Moore paints incredibly vivid pictures of fantastical realms and creatures. I think these stories would translate well into a graphic novel. This collection is a fascinating bent on traditional sword and sorcery tales and well worth the read. - [@thejessleigh](https://github.com/thejessleigh)
 
 > C. L. Moore created Jirel, ruler of Joiry, in reaction to the beefy total-testosterone blood-and-thunder tales of '30s pulp magazines, but Jirel is no anti-Conan. She's a good Catholic girl, stubbornly purposeful, relentless in pursuit of enemies or vengeance, hard-boiled and a little stupid, and cannot be distracted by mere physical attractiveness. Indeed, in Jirel's world, beauty = decadence = corruption. Were these stories written today, inevitably Jirel would have a lot of hot sex, but as they were first published in Weird Tales between 1934-1939, sexual attraction is mostly only vividly implied. No loss. Jirel's journeys through unnatural landscapes and her battles with supernatural opponents are still wonderful to read, and though newcomers Red Sonja and Xena are more famous now, Jirel rules as the archetypal, indomitable redheaded swordswoman in chain mail and greaves, swinging her "great two-edged sword."
+
+#### [Jonathan Strange & Mr. Norrell](https://www.goodreads.com/book/show/14201.Jonathan_Strange_Mr_Norrell) (2006) *by [Susanna Clarke](https://en.wikipedia.org/wiki/Susanna_Clarke)* [3.8] <img src="http://i.imgur.com/iA6WScw.png" width="30px">
+
+This book takes a while to ramp up, but if you can get through the (intentionally) tedious first 100 pages or so, *Jonathan Strange & Mr. Norrell* is a true delight. The characters are engaging and well drawn, and the history-style writing offers surprising opportunities for humor and dry wit. I absolutely loved this. - [@thejessleigh](https://github.com/thejessleigh)
+
+> At the dawn of the nineteenth century, two very different magicians emerge to change England's history. In the year 1806, with the Napoleonic Wars raging on land and sea, most people believe magic to be long dead in England--until the reclusive Mr Norrell reveals his powers, and becomes a celebrity overnight.
+
+> Soon, another practicing magician comes forth: the young, handsome, and daring Jonathan Strange. He becomes Norrell's student, and they join forces in the war against France. But Strange is increasingly drawn to the wildest, most perilous forms of magic, straining his partnership with Norrell, and putting at risk everything else he holds dear.
 
 #### [The King of Elfland's Daughter](http://www.goodreads.com/book/show/14686.The_King_of_Elfland_s_Daughter) *by Lord Dunsanay* [3.8]
 

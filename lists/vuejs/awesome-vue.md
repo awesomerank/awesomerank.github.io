@@ -106,6 +106,7 @@ title: Awesome Rank for vuejs/awesome-vue
     - [Persistence](#persistence)
     - [State Management](#state-management)
       - [Redux](#redux)
+      - [Mobx](#mobx)
       - [Vuex Utilities](#vuex-utilities)
     - [Concurrency Management](#concurrency-management)
     - [Code Style](#code-style)
@@ -661,6 +662,7 @@ Tooltips / popovers
  - [vue-accordion ★49](https://github.com/zeratulmdq/vue-accordion) - Simple accordion nav menu component for Vue.js.
  - [vue-js-dropdown](https://github.com/euvl/vue-js-dropdown) - Vue.js 2 dropdown menu component. Light, easy to use and extend, no external deps.
  - [vue-slideout](https://github.com/vouill/vue-slideout) - Vue implementation of the popular library [slideout ★6709](https://github.com/Mango/slideout)
+ - [vue-quick-menu ★6](https://github.com/AshleyLv/vue-quick-menu) - This is web navigation component base on vue.js2.
 
 ### Carousel
 
@@ -992,6 +994,7 @@ Tooltips / popovers
 *Set of components for mobile*
 
  - [mint-ui ★7008](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.
+ - [vant ★137](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
 
 ### Other
 
@@ -1117,6 +1120,7 @@ Tooltips / popovers
 
  - [vue2-filters ★226](https://github.com/freearhey/vue2-filters) - A collection of standard filters Vue 1.* adapted for use in Vue 2.*.
  - [morphling ★6](https://github.com/jofftiquez/morphling) - A collection of standard and custom filters for Vue 2.
+ - [vue-currency-filter ★3](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizeable Vue 2 Currency Filter.
 
 ### SVG
 
@@ -1209,6 +1213,10 @@ Tooltips / popovers
 
  - [revue ★474](https://github.com/revue/revue) - Redux binding for Vue.
  - [vuedeux ★54](https://github.com/Vuedeux/vuedeux) - Binding Solutions for Vue & Redux.
+
+#### Mobx
+
+ - [movue ★0](https://github.com/nighca/movue) - Mobx integration for Vue.js.
 
 #### Authentication/Authorization
 
@@ -1454,7 +1462,8 @@ Tooltips / popovers
  - [vue-typescript-boilerplate ★11](https://github.com/twcapps/vue-typescript-boilerplate) - A Vue.js typescript SPA starter with Vue 2, Vue Typed, Vuex, Vue Router and localization
  - [vue-tachyons-template ★5](https://github.com/colorful-tones/vue-tachyons-template) - A Vue 2 project starter template w/ Tachyons, Webpack, and ESLint
  - [Vuets ★14](https://github.com/AkiraLaine/Vuets) - A Vue, TypeScript ready boilerplate using class-style components, vue plugin options, webpack & vue-cli.
- - [MMF-FE/vue-typescript ★20](https://github.com/MMF-FE/vue-typescript) - A vue2.x typescript template. 
+ - [MMF-FE/vue-typescript ★20](https://github.com/MMF-FE/vue-typescript) - A vue2.x typescript template.
+ - [Friendly Vue Starter ★11](https://github.com/mcongy/friendly-vue-starter) - A full featured Vue.js starter project with GraphQL support via Apollo-client (Vuex, Vue-router, Vue-i18n, Webpack 3, Eslint, Prettier, ...)
 
 ### Universal
 

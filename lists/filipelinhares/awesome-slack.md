@@ -9,8 +9,8 @@ title: Awesome Rank for filipelinhares/awesome-slack
 ---
 ![Awesome Slack](https://github.com/filipelinhares/awesome-slack/blob/master/images/logo.jpg)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
-[![Build Status](https://api.travis-ci.org/filipelinhares/awesome-slack.png)](https://travis-ci.org/filipelinhares/awesome-slack)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+[![Build Status](https://api.travis-ci.org/filipelinhares/awesome-slack.svg)](https://travis-ci.org/filipelinhares/awesome-slack)
 
 A list of communities about web development and design that are powered by [Slack](https://slack.com/).
 
@@ -50,7 +50,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 - [Kazan Developers](https://devkzn.slack.com/)
 - [Polish developers](http://slackin.devstyle.pl/)
-- [Spanish-speaking developer communities list ★41](https://github.com/esebastian/awesome-spanish-slack-dev-groups)
+- [Spanish-speaking developer communities list ★44](https://github.com/esebastian/awesome-spanish-slack-dev-groups)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
@@ -69,12 +69,13 @@ A list of communities about web development and design that are powered by [Slac
 - [Digital Artisans](http://www.artisans.digital/)
 - [Safelight](http://safelight.herokuapp.com/) - Photography  
 - [DFIR Community](https://rishi28.typeform.com/to/sTbTI8) - Information Security
+- [First Contributors](https://firstcontributions.herokuapp.com) - Help / mentroship for open source contributors
 
 ## DevOps
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
 
 ## Looking for more lists like that?
-- [Awesome ★61331](https://github.com/sindresorhus/awesome)
+- [Awesome ★62884](https://github.com/sindresorhus/awesome)
 - [Awesome Community](https://github.com/peterkokot/awesome-community)
 
 ## Contribute

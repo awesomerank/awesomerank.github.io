@@ -10,7 +10,7 @@ title: Awesome Rank for caesar0301/awesome-pcaptools
 Introduction
 ------------
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/caesar0301/awesome-pcaptools.svg)](https://travis-ci.org/caesar0301/awesome-pcaptools)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/caesar0301/awesome-pcaptools.svg)](https://travis-ci.org/caesar0301/awesome-pcaptools)
 
 This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see https://github.com/sindresorhus/awesome
 
@@ -80,7 +80,7 @@ Traffic Capture<a name="capture"></a>
 
 * [jNetPcap](http://jnetpcap.com): jNetPcap is a packet capturing library for Java that is available for Linux and Windows. jNetPcap leverages libpcap respectively WinPcap and employs the Java Native Interface (JNI) for using the functionality provided by libpcap/WinPcap.
 
-* [Moloch ★2164](https://github.com/aol/moloch): Moloch is a open source large scale full PCAP capturing, indexing and database system.
+* [Moloch ★2216](https://github.com/aol/moloch): Moloch is a open source large scale full PCAP capturing, indexing and database system.
 
 * [n2disk](http://www.ntop.org/products/n2disk/) (Commercial): A multi-Gigabit network traffic recorder with indexing capabilities. n2disk is a network traffic recorder application. With n2disk you can capture full- sized network packets at multi-Gigabit rate (above 10 Gigabit/s on adequate hardware) from a live network interface, and write them into files without any packet loss.
 
@@ -100,9 +100,9 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [Bro](http://bro-ids.org/): is an open-source, Unix-based Network Intrusion Detection System (NIDS) that passively monitors network traffic and looks for suspicious activity. Bro detects intrusions by first parsing network traffic to extract its application- level semantics and then executing event-oriented analyzers that compare the activity with patterns deemed troublesome. Its analysis includes detection of specific attacks (including those defined by signatures, but also those defined in terms of events) and unusual activities (e.g., certain hosts connecting to certain services, or patterns of failed connection attempts).
 
-* [CapTipper ★455](https://github.com/omriher/CapTipper): Malicious HTTP traffic explorer
+* [CapTipper ★466](https://github.com/omriher/CapTipper): Malicious HTTP traffic explorer
 
-* [Chopshop ★299](https://github.com/MITRECND/chopshop): is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
+* [Chopshop ★304](https://github.com/MITRECND/chopshop): is a MITRE developed framework to aid analysts in the creation and execution of pynids based decoders and detectors of APT tradecraft.
 
 * [CoralReef](http://www.caida.org/tools/measurement/coralreef/): is a software suite developed by CAIDA to analyze data collected by passive Internet traffic monitors. It provides a programming library libcoral, similar to libpcap with extensions for ATM and other network types, which is available from both C and Perl.
 
@@ -114,7 +114,7 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [EtherApe](http://etherape.sourceforge.net/): is a graphical network monitor for Unix modeled after etherman. Featuring link layer, ip and TCP modes, it displays network activity graphically. Hosts and links change in size with traffic. Color coded protocols display. It supports Ethernet, FDDI, Token Ring, ISDN, PPP and SLIP devices. It can filter traffic to be shown, and can read traffic from a file as well as live from the network.
 
-* [HttpSniffer ★86 ⏳1Y](https://github.com/caesar0301/http-sniffer): A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
+* [HttpSniffer ★90 ⏳1Y](https://github.com/caesar0301/http-sniffer): A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in JSON format.
 
 * [Ipsumdump](http://www.read.seas.harvard.edu/~kohler/ipsumdump/): summarizes TCP/IP dump files into a self-describing ASCII format easily readable by humans and programs. Ipsumdump can read packets from network interfaces, from tcpdump files, and from existing ipsumdump files. It will transparently uncompress tcpdump or ipsumdump files when necessary. It can randomly sample traffic, filter traffic based on its contents, anonymize IP addresses, and sort packets from multiple dumps by timestamp. Also, it can optionally create a tcpdump file containing actual packet data. It's also convenient to work with CLICK as a inserted module.
 
@@ -138,11 +138,11 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [Ntopng](http://www.ntop.org/products/ntop/): Ntopng is the next generation version of the original ntop, a network traffic probe that shows the network usage, similar to what the popular top Unix command does. ntop is based on libpcap and it has been written in a portable way in order to virtually run on every Unix platform, MacOSX and on Win32 as well.
 
-* [Pcap2har ★150 ⏳1Y](https://github.com/andrewf/pcap2har): A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
+* [Pcap2har ★151 ⏳1Y](https://github.com/andrewf/pcap2har): A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
 
-* [pkt2flow ★49](https://github.com/caesar0301/pkt2flow): A simple utility to classify packets into flows. It's so simple that only one task is aimed to finish.  For Deep Packet Inspection or flow classification, it's so common to analyze the feature of one specific flow. I have make the attempt to use made-ready tools like tcpflows, tcpslice, tcpsplit, but all these tools try to either decrease the trace volume (under requirement) or resemble the packets into flow payloads (over requirement). I have not found a simple tool to classify the packets into flows without further processing.
+* [pkt2flow ★51](https://github.com/caesar0301/pkt2flow): A simple utility to classify packets into flows. It's so simple that only one task is aimed to finish.  For Deep Packet Inspection or flow classification, it's so common to analyze the feature of one specific flow. I have make the attempt to use made-ready tools like tcpflows, tcpslice, tcpsplit, but all these tools try to either decrease the trace volume (under requirement) or resemble the packets into flow payloads (over requirement). I have not found a simple tool to classify the packets into flows without further processing.
 
-* [potiron ★17](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
+* [potiron ★20](https://github.com/CIRCL/potiron): Normalizes, indexes, enriches and visualizes network captures.
 
 * [pyshark](http://kiminewt.github.io/pyshark/): A Python wrapper for tshark, allowing python packet parsing using wireshark dissectors. There are quite a few python packet parsing modules, this one is different because it doesn't actually parse any packets, it simply uses tshark's (wireshark command-line utility) ability to export XMLs to use its parsing.
 
@@ -160,7 +160,7 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [Tcpdpriv](http://ita.ee.lbl.gov/html/contrib/tcpdpriv.html): Tcpdpriv is program for eliminating confidential information (user data and addresses) from packets collected on a network interface (or, from trace files created using the -w argument to tcpdump). Tcpdpriv removes the payload of TCP and UDP, and the entire IP payload for other protocols. It implements several address scrambling methods; the sequential numbering method and its variants, and a hash method with preserving address prefix.
 
-* [Tcpflow ★688](https://github.com/simsong/tcpflow): A program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis or debugging. A program like 'tcpdump' shows a summary of packets seen on the wire, but usually doesn't store the data that's actually being transmitted. In contrast, tcpflow reconstructs the actual data streams and stores each flow in a separate file for later analysis. [Original link](http://www.circlemud.org/jelson/software/tcpflow/).
+* [Tcpflow ★700](https://github.com/simsong/tcpflow): A program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis or debugging. A program like 'tcpdump' shows a summary of packets seen on the wire, but usually doesn't store the data that's actually being transmitted. In contrast, tcpflow reconstructs the actual data streams and stores each flow in a separate file for later analysis. [Original link](http://www.circlemud.org/jelson/software/tcpflow/).
 
 * [Tcplook](http://ita.ee.lbl.gov/html/contrib/tracelook.html): Tracelook is an Tcl/TK program for graphically viewing the contents of trace files created using the -w argument to tcpdump. Tracelook should look at all protocols, but presently only looks at TCP connections. The program is slow and uses system resources prodigiously.
 
@@ -186,9 +186,9 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [Xplot](http://www.xplot.org/): The program xplot was written in the late 1980s to support the analysis of TCP packet traces.
 
-* [yaraPcap ★45 ⏳3Y](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
+* [yaraPcap ★45 ⏳4Y](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
 
-* [yaraprocessor ★68 ⏳2Y](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
+* [yaraprocessor ★69 ⏳2Y](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
 
 
 DNS Utilities <a name="dnstools"></a>
@@ -220,7 +220,7 @@ File Extraction<a name="fileextraction"></a>
 
 * [pcapfex ★22](https://github.com/vikwin/pcapfex) - Packet CAPture Forensic Evidence eXtractor (pcapfex) is a tool that finds and extracts files from packet capture files. Its power lies in its ease of use. Just provide it a pcap file, and it will try to extract all of the files. It is an extensible platform, so additional file types to recognize and extract can be added easily.
 
-* [scalpel ★160](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
+* [scalpel ★161](https://github.com/sleuthkit/scalpel): Scalpel is an open source data carving tool.
 
 * [Snort](http://www.snort.org/): is an open source network intrusion prevention and detection system (IDS/IPS) developed by Sourcefire, now owned by Cisco. Combining the benefits of signature, protocol and anomaly- based inspection, Snort is the most widely deployed IDS/IPS technology worldwide.
 

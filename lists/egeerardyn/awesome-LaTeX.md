@@ -10,7 +10,7 @@ title: Awesome Rank for egeerardyn/awesome-LaTeX
 # Awesome LaTeX
 
 This is a curated list of awesome stuff for the (La)TeX typesetting system.
-[![Awesome][awesome] ★61331](https://github.com/sindresorhus/awesome) [![Issue Count](https://codeclimate.com/github/egeerardyn/awesome-LaTeX/badges/issue_count.svg)](https://codeclimate.com/github/egeerardyn/awesome-LaTeX) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
+[![Awesome][awesome] ★62884](https://github.com/sindresorhus/awesome) [![Issue Count](https://codeclimate.com/github/egeerardyn/awesome-LaTeX/badges/issue_count.svg)](https://codeclimate.com/github/egeerardyn/awesome-LaTeX) [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg?style=flat)](https://github.com/egeerardyn/awesome-LaTeX/blob/master/LICENSE.md)
 
 ## Contents
 
@@ -71,6 +71,8 @@ There are many editors out there, below are the most awesome editors.
 A complete list of latex editors is collected at [tex.stackexchange.com](http://tex.stackexchange.com/) as [big list of LaTeX Editors/IDEs](http://tex.stackexchange.com/q/339/9075).
 
 
+- [List of popular LaTeX editors](https://tex.stackexchange.com/questions/339/latex-editors-ides) - Community-maintained list of popular LaTeX editors including a screenshot and a short description.
+
 ### LaTeX-focussed
 
 Some of the most awesome editor for LaTeX do just that: edit LaTeX
@@ -91,27 +93,28 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX
 
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
-- [Atom](https://atom.io) [![Atom][awesome] ★1189](https://github.com/mehcode/awesome-atom) ![foss][foss]
+- [Atom](https://atom.io) [![Atom][awesome] ★1259](https://github.com/mehcode/awesome-atom) ![foss][foss]
 	- [LaTeXTools](https://atom.io/packages/latextools) - An Atom port of the Sublime Text package of the same name. ![foss][foss]
 
-- [Sublime Text](http://www.sublimetext.com) [![Sublime Text][awesome] ★525](https://github.com/dreikanter/sublime-bookmarks)
+- [Sublime Text](http://www.sublimetext.com) [![Sublime Text][awesome] ★529](https://github.com/dreikanter/sublime-bookmarks)
 	- [LaTeXing](http://www.latexing.com) - Commercial plug-in to edit LaTeX.
-	- [LaTeXTools ★1481](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss]
+	- [LaTeXTools ★1493](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss]
 
-- [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome] ★2899](https://github.com/emacs-tw/awesome-emacs) ![foss][foss]
+- [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome] ★2969](https://github.com/emacs-tw/awesome-emacs) ![foss][foss]
 	- [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss][foss]
 
-- [Vim](http://www.vim.org) [![Vim][awesome] ★6817](https://github.com/mhinz/vim-galore) ![foss][foss]
+- [Vim](http://www.vim.org) [![Vim][awesome] ★6979](https://github.com/mhinz/vim-galore) ![foss][foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss][foss]
-	- [LaTeX Live Preview ★193](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss]
+	- [LaTeX Live Preview ★203](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss]
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
-	- [TeXiFy-IDEA ★16](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss]
+	- [TeXiFy-IDEA ★21](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss]
 
 ### Online editors
 
 Online editors that allow you to edit documents collaboratively.
 
+- [List of popular online LaTeX editors](https://tex.stackexchange.com/questions/3/compiling-documents-online/1654#1654) - Community-maintained list of popular online LaTeX editor including equation editors.
 - [Authorea](https://www.authorea.com) - Online editor with built-in git support and bibliography tools.
 - [ShareLaTeX](https://www.sharelatex.com) - Has pretty great LaTeX documentation and simple version control.
 - [Overleaf](https://www.overleaf.com) - Online editor, also with a WYSIWYM editor and git support.
@@ -129,7 +132,7 @@ Online editors that allow you to edit documents collaboratively.
 
 Compiling LaTeX documents can be tedious, build tools help you to manage the compilation process.
 
-- [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo ★157](https://github.com/cereda/arara)) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss][foss]
+- [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo ★159](https://github.com/cereda/arara)) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss][foss]
 - [latexmk](https://www.ctan.org/pkg/latexmk) - Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, ...) to build your LaTeX files. ![foss][foss]
 - [latex-makefile ★0](https://github.com/alejandrogallo/latex-makefile) - `Makefile` based build tool that attempts to be as general and lightweight as possible. ![foss][foss]
 
@@ -178,13 +181,13 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [tkz](http://altermundus.com/pages/tkz/index.html) - A collection of TikZ-based packages to make plots and graphs.
 - [pgfplots](http://pgfplots.sourceforge.net) - A truely awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 - [A very minimal introduction to TikZ (PDF)](http://bit.ly/gNfVn9) - A short introductory document to the world of TikZ, written by Jacques Crémer.
-- [PetarV-/TikZ ★11](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
+- [PetarV-/TikZ ★13](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
 
 ## Templates
 
 - [LaTeX templates](http://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
 - [HowtoTeX: templates](http://www.howtotex.com/category/templates/) - Different templates for LaTeX under a CC-NC-SA license.
-- [Ultimate Beamer Theme List ★162 ⏳1Y](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
+- [Ultimate Beamer Theme List ★168 ⏳1Y](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 
 ## Symbols
 
@@ -201,7 +204,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [LaTeX cookbook](http://latex-cookbook.net) - Sibling of TeXample, contains quite a bit of example code.
 - [Visual FAQ](http://mirrors.ctan.org/info/visualFAQ/visualFAQ.pdf) - Typesetting issues and a link to appropriate TeX FAQ answers.
 - [12 Great resources for getting started with LaTeX](http://www.howtotex.com/general/12-great-resources-for-getting-started-with-latex/) - Nice overview of useful resources for beginners.
-- [MartinThoma's LaTeX example ★306](https://github.com/MartinThoma/LaTeX-examples) - GitHub repository containing example LaTeX documents.
+- [MartinThoma's LaTeX example ★311](https://github.com/MartinThoma/LaTeX-examples) - GitHub repository containing example LaTeX documents.
 - [HowtoTeX LaTeX](http://latex.howtotex.com) - Start page with useful resources for LaTeX users.
 - [MacTeX Wiki: TeX Extras](http://mactex-wiki.tug.org/wiki/index.php/TeX_Extras) - Overview of useful tools for LaTeX. Many of them are specific for Mac, but quite a bit are useful for other platforms as well.
 - [LaTeX community](http://latex-community.org/index.php) - Forum and blog about LaTeX.

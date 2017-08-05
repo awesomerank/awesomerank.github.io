@@ -376,7 +376,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-dnd - Flexible HTML5 drag-and-drop mixin for React with full DOM control](https://github.com/gaearon/react-dnd)
 * [react-sticky - <Sticky /> component for React-based apps ★1026](https://github.com/captivationsoftware/react-sticky)
 * [js-object-to-table - JavaScript objects drawing themselves into a table using React ★4 ⏳2Y](https://github.com/enaqx/js-object-to-table)
-* [react-kaomoji - A React component for displaying Japanese emoticons ★1 ⏳2Y](https://github.com/enaqx/react-kaomoji)
+* [react-kaomoji - A React component for displaying Japanese emoticons ★1 ⏳3Y](https://github.com/enaqx/react-kaomoji)
 * [react-calendar - Calendar that inspired by React philosophy ★8 ⏳3Y](https://github.com/Aetet/react-calendar)
 * [react-element-pan - React component for allowing panning of DOM-elements ★41](https://github.com/rexxars/react-element-pan)
 * [react-anchor - Functional factory to create react anchor components ★6](https://github.com/yoshuawuyts/react-anchor)

@@ -7,11 +7,11 @@ title: Awesome Rank for hkirat/awesome-chess
 	This list is a copy of <a href="https://github.com/hkirat/awesome-chess">hkirat/awesome-chess</a> with ranks
 </p>
 ---
-# Awesome Chess [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome Chess [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 A curated list of assets availible on the Internet related to chess.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might want to read the complete [awesome ★61331](https://github.com/sindresorhus/awesome) list.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might want to read the complete [awesome ★62884](https://github.com/sindresorhus/awesome) list.*
 
 ### Contributing
 Kindly go through [Contribution Guidelines](https://github.com/hkirat/awesome-chess/blob/master/CONTRIBUTING.md#contribution-guidelines) first.
@@ -41,7 +41,7 @@ FEN Parsers
 *Forsyth–Edwards Notation (FEN) is a standard notation for describing a particular board position of a chess game.*
 
  - [fenparser by tlehman ★2 ⏳2Y](https://github.com/tlehman/fenparser) - A parser for Forsyth-Edwards Notation wriitten in Python.
- - [fen by ucarion ★1 ⏳1Y](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling.
+ - [fen by ucarion ★1 ⏳2Y](https://github.com/ucarion/fen) - A Rust Forsyth-Edwards notation parser with proper error handling.
  - [fen-diagram by andyherbert ★3 ⏳4Y](https://github.com/andyherbert/fen-diagram) - JavaScript for generating chess diagrams using Forsyth-Edwards notation.
 
 Bots
@@ -55,7 +55,7 @@ Move Validators
 ---
 *Validators are tools for checking authenticity of a move.*
 
- - [chess.js ★1033](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication.
+ - [chess.js ★1055](https://github.com/jhlywa/chess.js) - chess.js, Structured code for chess authentication.
  - [npm chess package](https://www.npmjs.com/package/chess) - An algebraic notation driven chess engine that can validate board position and produce a list of viable moves.
  - [Chessnut](https://github.com/cgearhart/Chessnut.git) - Chessnut is a simple chess board model written in Python. It provides functionality of parsing FEN and generating a list of legal moves for each FEN representation.
 
@@ -77,10 +77,10 @@ Boards
 ---
 *Boards are tools for encapsulating the process of rendering a board.*
 
- - [Chessboard.js ★913](https://github.com/oakmac/chessboardjs) - chessboard.js is a standalone JavaScript chess board.
- - [chess-board ★16](https://github.com/laat/chess-board) - A web component for displaying chess positions. It takes FEN string as input and renders the board as output.
- - [jchess ★83 ⏳1Y](https://github.com/bmarini/jchess) - A jQuery based JavaScript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs.
- - [Chessboard-js ★8 ⏳3Y](https://github.com/caustique/chessboard-js) - A responsive mobile-first JavaScript chessboard library.
+ - [Chessboard.js ★931](https://github.com/oakmac/chessboardjs) - chessboard.js is a standalone JavaScript chess board.
+ - [chess-board ★17](https://github.com/laat/chess-board) - A web component for displaying chess positions. It takes FEN string as input and renders the board as output.
+ - [jchess ★83 ⏳2Y](https://github.com/bmarini/jchess) - A jQuery based JavaScript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs.
+ - [Chessboard-js ★10 ⏳3Y](https://github.com/caustique/chessboard-js) - A responsive mobile-first JavaScript chessboard library.
 
 Board Notations
 ---

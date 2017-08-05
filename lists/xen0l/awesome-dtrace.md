@@ -7,7 +7,7 @@ title: Awesome Rank for xen0l/awesome-dtrace
 	This list is a copy of <a href="https://github.com/xen0l/awesome-dtrace">xen0l/awesome-dtrace</a> with ranks
 </p>
 ---
-# Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome DTrace books, articles, videos, tools and resources.
 
@@ -149,11 +149,11 @@ List of software with DTrace support.
 
 #### Node.js
 
-- [node-dtrace-provider ★280](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps.
+- [node-dtrace-provider ★281](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps.
 
 #### Perl
 
-- [perl-Devel-DTrace-Provider ★1 ⏳4Y](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
+- [perl-Devel-DTrace-Provider ★2 ⏳4Y](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
 
 #### PHP
 
@@ -180,21 +180,22 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph ★4123](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
-- [node-stackvis ★318](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
+- [FlameGraph ★4299](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
+- [node-stackvis ★320](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
 
 ## Tools
 
 - [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
-- [dtrace-cloud-tools ★144 ⏳3Y](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
-- [pgsql tools ★109 ⏳1Y](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
+- [dtrace-cloud-tools ★146 ⏳3Y](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
+- [pgsql tools ★109 ⏳2Y](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
 - [portsnoop ★2 ⏳3Y](https://github.com/davepacheco/portsnoop) - Trace event port activity.
-- [storage tools ★23](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.
+- [storage tools ★24](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.
 
 ## Community
 
 - [Community site](http://dtrace.org) - DTrace community site.
 - [Mailing list](http://dtrace.org/blogs/mailing-list/) - DTrace community mailing list.
+- [FreeBSD DTrace mailing list](https://lists.freebsd.org/mailman/listinfo/freebsd-dtrace) - FreeBSD DTrace community mailing list.
 - [China DTrace](http://chinadtrace.org/) - A Chinese DTrace site.
 
 ## Contributing

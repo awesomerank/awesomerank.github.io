@@ -7,7 +7,7 @@ title: Awesome Rank for brunocvcunha/awesome-userscripts
 	This list is a copy of <a href="https://github.com/brunocvcunha/awesome-userscripts">brunocvcunha/awesome-userscripts</a> with ranks
 </p>
 ---
-# Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
+# Awesome Userscripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/brunocvcunha/awesome-userscripts.svg?branch=master)](https://travis-ci.org/brunocvcunha/awesome-userscripts) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
 
 A curated list of Awesome Userscripts.
 
@@ -64,11 +64,11 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [GitHub PR Approvals ★1 ⏳1Y](https://github.com/stowball/github-pr-approvals) - Require approvals in GitHub PRs before merging is allowed.
 * [GitHub User Info](https://github.com/jerone/UserScripts/tree/master/Github_User_Info) - Show user information on avatar hover.
 * [GitHub Image Viewer](https://github.com/jerone/UserScripts/tree/master/Github_Image_Viewer) - Preview images from within the file listing.
-* [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark ★1845](https://github.com/StylishThemes/GitHub-Dark) style to the site.
+* [GitHub Dark Script](https://github.com/StylishThemes/GitHub-Dark-Script) - Apply the [GitHub-Dark ★1930](https://github.com/StylishThemes/GitHub-Dark) style to the site.
 * [GitHub monospace font toggle](https://greasyfork.org/en/scripts/18787-github-monospace-font-toggle) - Add a monospace font toggle to comments.
 * [GitHub Diff File Toggle](https://greasyfork.org/en/scripts/18788-github-diff-file-toggle) - Add a toggle to each diff file (shift-click toggles all files).
 * [GitHub Toggle Code Wrap](https://greasyfork.org/en/scripts/18789-github-toggle-code-wrap) - Toggle code wrapping in files.
-* [GitHub Custom Emojis ★10](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
+* [GitHub Custom Emojis ★11](https://github.com/StylishThemes/GitHub-Custom-Emojis) - Add custom emojis anywhere on GitHub.
 * [GitHub Make Tooltips](https://greasyfork.org/en/scripts/22194) - Convert all titles into GitHub tooltips.
 * [GitHub code colors](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-colors) - Add a color swatch preview to code.
 * [GitHub code folding](https://github.com/Mottie/GitHub-userscripts/wiki/GitHub-code-folding) - Add code folding to files.
@@ -110,7 +110,7 @@ There's no focused plugins to get Userscripts running on Internet Explorer, but 
 * [Download YouTube Videos as MP4](https://greasyfork.org/en/scripts/1317-download-youtube-videos-as-mp4) - Adds a button that lets you download YouTube videos.
 * [YouTube Link Title](https://greasyfork.org/en/scripts/413-youtube-link-title) - Adds video titles, shows previews and embeds on click. Also supported: Vimeo, LiveLeak, Dailymotion, vidme, WorldStarHipHop, Vine, Coub, Streamable.
 * [YouTube Plus](https://greasyfork.org/en/scripts/9932-youtube) - YouTube Plus contains all kind of different useful functions which makes your visit on YouTube much more entertaining.
-* [YouTube Subtitle Download ★131](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
+* [YouTube Subtitle Download ★142](https://github.com/1c7/Youtube-Auto-Subtitle-Download) - Adds links to download video subtitles.
 
 
 

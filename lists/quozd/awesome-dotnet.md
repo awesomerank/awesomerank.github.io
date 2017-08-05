@@ -227,6 +227,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [EntryPoint ★72](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI Argument Parser for .Net Core & .Net Framework 4.5+.
 * [clipr ★43](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
 * [ReadLine ★397](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
+* [SharpNetSH ★23](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 
 ## CLR
 
@@ -793,6 +794,7 @@ metadata in media files, including video, audio, and photo formats
 * [Stateless ★1686](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 * [Automatonymous ★229](https://github.com/MassTransit/Automatonymous) - A state machine library for .Net - allows you to write fluent style state machines
 * [Appccelerate - State Machine](http://www.appccelerate.com/statemachine.html) - A powerful state machine library - configured with a fluent api and synchrounous and asynchronous state transition support
+* [LiquidState ★69](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## Static Site Generators
 * [FsBlog ★96 ⏳1Y](https://github.com/fsprojects/FsBlog) - Blog aware, static site generation using F#

@@ -13,9 +13,9 @@ title: Awesome Rank for viatsko/awesome-vscode
 </p>
 <br/>
 
-# Awesome VS Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome VS Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome ★61331](https://github.com/sindresorhus/awesome).
+A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome ★62884](https://github.com/sindresorhus/awesome).
 
 [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
 
@@ -24,68 +24,72 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 - [Official](#official)
 - [Syntax](#syntax)
 - [Lint and IntelliSense](#lint-and-intellisense)
- - [C++](#c)
- - [CSS](#css)
- - [Go](#go)
- - [JavaScript](#javascript)
- - [Markdown](#markdown)
- - [Python](#python)
- - [Rust](#rust)
+  - [C++](#c)
+  - [CSS](#css)
+  - [Go](#go)
+  - [JavaScript](#javascript)
+  - [Typescript](#typescript)
+  - [Markdown](#markdown)
+  - [Python](#python)
+  - [Rust](#rust)
 - [Themes](#themes)
- - [Material-theme](#material-theme)
- - [Base16 Ocean Kit](#base16-ocean-kit)
- - [Seti](#seti)
- - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
- - [An Old Hope Theme](#an-old-hope-theme)
+  - [Atom One Dark Theme](#atom-one-dark-theme)
+  - [Atom One Light Theme](#atom-one-light-theme)
+  - [Material-theme](#material-theme)
+  - [Base16 Ocean Kit](#base16-ocean-kit)
+  - [Seti](#seti)
+  - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
+  - [An Old Hope Theme](#an-old-hope-theme)
 - [Productivity](#productivity)
- - [Azure IoT Toolkit](#azure-iot-toolkit)
- - [Bookmarks](#bookmarks)
- - [Copy Relative Path](#copy-relative-path)
- - [Gi](#gi)
- - [Git History](#git-history)
- - [Git Project Manager](#git-project-manager)
- - [GitLink](#gitlink)
- - [GitLens](#gitlens)
- - [Icon Fonts](#icon-fonts)
- - [Multiple clipboards](#multiple-clipboards)
- - [Path IntelliSense](#path-intellisense)
- - [Project Manager](#project-manager)
- - [REST Client](#rest-client)
- - [Settings Sync](#settings-sync)
- - [Yo](#yo)
-- [Formatting/Beautification](#formatting-beautification)
- - [Align](#align)
- - [Auto Close Tag](#auto-close-tag)
- - [Auto Rename Tag](#auto-rename-tag)
- - [beautify](#beautify)
- - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
- - [Paste and Indent](#paste-and-indent)
- - [Sort Lines](#sort-lines)
+  - [Azure IoT Toolkit](#azure-iot-toolkit)
+  - [Bookmarks](#bookmarks)
+  - [Copy Relative Path](#copy-relative-path)
+  - [Gi](#gi)
+  - [Git History](#git-history)
+  - [Git Project Manager](#git-project-manager)
+  - [GitLink](#gitlink)
+  - [GitLens](#gitlens)
+  - [Icon Fonts](#icon-fonts)
+  - [Multiple clipboards](#multiple-clipboards)
+  - [Path IntelliSense](#path-intellisense)
+  - [Project Manager](#project-manager)
+  - [REST Client](#rest-client)
+  - [Settings Sync](#settings-sync)
+  - [Yo](#yo)
+- [Formatting/Beautification](#formatting--beautification)
+  - [Align](#align)
+  - [Auto Close Tag](#auto-close-tag)
+  - [Auto Rename Tag](#auto-rename-tag)
+  - [beautify](#beautify)
+  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+  - [Paste and Indent](#paste-and-indent)
+  - [Sort Lines](#sort-lines)
 - [Uncategorized](#uncategorized)
- - [Code Runner](#code-runner)
- - [Color Highlight](#color-highlight)
- - [Dash](#dash)
- - [Debugger for Chrome](#debugger-for-chrome)
- - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
- - [Editor Config for VS Code](#editor-config-for-vs-code)
- - [ftp-sync](#ftp-sync)
- - [PlatformIO](#platformio)
- - [Quokka](#quokka)
- - [Runner](#runner)
- - [Slack](#slack)
- - [SVG Viewer](#svg-viewer)
- - [Vim Mode](#vim-mode)
+  - [Code Runner](#code-runner)
+  - [Color Highlight](#color-highlight)
+  - [Output Colorizer](#output-colorizer)
+  - [Dash](#dash)
+  - [Debugger for Chrome](#debugger-for-chrome)
+  - [ECMAScript Quotes Transformer](#ecmascript-quotes-transformer)
+  - [Editor Config for VS Code](#editor-config-for-vs-code)
+  - [ftp-sync](#ftp-sync)
+  - [PlatformIO](#platformio)
+  - [Quokka](#quokka)
+  - [Runner](#runner)
+  - [Slack](#slack)
+  - [SVG Viewer](#svg-viewer)
+  - [Vim Mode](#vim-mode)
 - [Resources for extension developers](#resources-for-extension-developers)
- - [Documentation](#documentation)
- - [Libraries](#libraries)
- - [Tools](#tools)
+  - [Documentation](#documentation)
+  - [Libraries](#libraries)
+  - [Tools](#tools)
 - [Contribute](#contribute)
 - [License](#license)
 
 ## Official
 
 - [Official website](https://code.visualstudio.com/)
-- [Source code ★29837](https://github.com/microsoft/vscode) on GitHub
+- [Source code ★31321](https://github.com/microsoft/vscode) on GitHub
 - [Releases (stable channel)](https://code.visualstudio.com/download)
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
 - [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
@@ -129,7 +133,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
-- [C/C++ Clang Command Adapter ★59](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
+- [C/C++ Clang Command Adapter ★61](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 
 ### CSS
 
@@ -149,13 +153,17 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 ### JavaScript
 
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](http://eslint.org/).
-- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2726](https://github.com/sindresorhus/xo).
-- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★10607](https://github.com/avajs/ava).
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier ★245](https://github.com/esbenp/prettier-vscode).
+- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2801](https://github.com/sindresorhus/xo).
+- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★10931](https://github.com/avajs/ava).
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier](https://github.com/esbenp/prettier-vscode).
+
+### TypeScript
+
+- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code
 
 ### Markdown
 
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint ★191](https://github.com/DavidAnson/markdownlint).
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint ★224](https://github.com/DavidAnson/markdownlint).
 
 ### PHP
 
@@ -169,7 +177,6 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [Rust](https://marketplace.visualstudio.com/items?itemName=kalitaalexey.vscode-rust) - Linting, auto-completion, code formatting, snippets and more
 
-
 ## Themes
 
 ### UI
@@ -178,10 +185,22 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence ★34](https://github.com/flagello/Essence)
-- [Pragmatic Essence ★40](https://github.com/orta/Essence)
+- [Essence ★39](https://github.com/flagello/Essence)
+- [Pragmatic Essence ★42](https://github.com/orta/Essence)
 
 ### Syntax
+
+#### [Atom One Dark Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onedark)
+
+Features full workbench theming
+
+![](https://raw.githubusercontent.com/akamud/vscode-theme-onedark/master/screenshots/preview.png)
+
+#### [Atom One Light Theme](https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
+
+Features full workbench theming
+
+![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
 
 #### [Material-theme](https://marketplace.visualstudio.com/items?itemName=zhuangtongfa.Material-theme)
 
@@ -344,6 +363,12 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 ![](https://cdn-images-1.medium.com/max/1600/1*ZwE7OHKR5opvDCJJOw9KeQ.png)
 
+
+### [Output Colorizer](https://marketplace.visualstudio.com/items?itemName=IBM.output-colorizer)
+> Syntax highlighting for the VS Code Output Panel and log files
+
+![IBM.output-colorizer](https://raw.githubusercontent.com/IBM-Bluemix/vscode-log-output-colorizer/master/github-assets/screenshot-1.jpg)
+
 ### [Dash](https://marketplace.visualstudio.com/items?itemName=deerawan.vscode-dash)
 
 > Dash integration in Visual Studio Code
@@ -415,7 +440,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 - [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code ★50](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+- [Open in Code ★56](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 ![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
 ## Contribute

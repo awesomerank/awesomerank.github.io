@@ -127,7 +127,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [promise-method ★2 ⏳1Y](https://github.com/wbinnssmith/promise-method) - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one.
 * [is-promise ★41 ⏳1Y](https://github.com/then/is-promise) - Determine if something looks like a Promise.
 * [sprom ★12 ⏳1Y](https://github.com/then/sprom) - Resolve when a stream ends. Optional buffering (be careful with this!)
-* [task.js ★1606](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.
+* [task.js ★1606 ⏳1Y](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.
 * [co ★8538](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
 * [promise-do-until ★0 ⏳1Y](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.

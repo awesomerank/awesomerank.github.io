@@ -7,7 +7,7 @@ title: Awesome Rank for lukasz-madon/awesome-remote-job
 	This list is a copy of <a href="https://github.com/lukasz-madon/awesome-remote-job">lukasz-madon/awesome-remote-job</a> with ranks
 </p>
 ---
-# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
 
@@ -22,7 +22,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Books](#books)
 - [Comics](#comics)
 - [Job boards](#job-boards)
-- [Freelance marketplaces](#freelance-marketplaces)
 - [Housing](#housing)
 - [Interviewing](#interviewing)
 - [Events](#events)
@@ -110,6 +109,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
   1. [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
   1. [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
+  1. [How to Get a Remote Job](https://goodroot.ca/post/2017/02/24/how-to-get-a-remote-job/)
 
 ## Videos
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
@@ -129,7 +129,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 ## Job boards
   1. [Angel List](https://angel.co/jobs) - Startup Jobs. Search by going to Job Type, and selecting "Remote OK".
   1. [Authentic Jobs](https://authenticjobs.com/#remote=true) – Full-time and freelance job opportunities for web, design, and creative professionals.
-  1. [Careers Stackoverflow](https://stackoverflow.com/jobs/remote)
+  1. [Stack Overflow Jobs](https://stackoverflow.com/jobs/remote)
   1. [Dribbble Jobs](https://dribbble.com/jobs?location=Anywhere)
   1. [Drupal Jobs](https://jobs.drupal.org/home/type/telecommute-remote-3588)
   1. [Europe Remotely](http://europeremotely.com/)
@@ -142,6 +142,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [GoRemote.io](https://goremote.io/)
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
+  1. [Honestlance](https://www.honestlance.com/)
   1. [HigherEdJobs](https://www.higheredjobs.com/search/remote.cfm) has remote type filter.
   1. [HN hiring](http://hnhiring.me/) – Filter REMOTE.
   1. [Jobbatical](https://jobbatical.com/)
@@ -154,7 +155,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
   1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
   1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
-  1. [remote-jobs ★4952](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
+  1. [remote-jobs ★5236](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
   1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
@@ -166,17 +167,14 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
 
-## Freelance marketplaces
-  1. [Design Inc.](https://www.designinc.com)
-
 ## Housing
   1. [bedndesk](http://www.bedndesk.com) - Coworking & coliving space in Mallorca island in Spain
   1. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
-  1. [Common] (https://www.hicommon.com/) - Coliving House in NewYork
+  1. [Common](https://www.hicommon.com/) - Coliving House in NewYork
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
   1. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
   1. [Embassy Network](https://embassynetwork.com/) - Global Network of community houses in San Francisco, Amsterdam, Costa Rica, Haiti, Nepal, Estonia and soon-to-be-more locations. Mix of remote workers, entrepreneurs, artists, ... <3
-  1. [Hive Arena] (http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
+  1. [Hive Arena](http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
   1. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
   1. [Hus24](http://hus24.org/en/) - Coliving space in Sweden
   1. [Nest Copenhagen](http://nestcopenhagen.dk) - Coliving space in Copenhagen, Denmark
@@ -194,8 +192,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 
 ## Interviewing
-  1. [andreis/interview ★5064](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
-  2. [awesome-interviews ★15234](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+  1. [andreis/interview ★5229](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
+  2. [awesome-interviews ★15575](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
   3. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
   4. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
   5. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies
@@ -242,6 +240,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
   1. [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
   1. [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
+  1. [ButterCloud](http://www.buttercloud.com/) - A small team of web & app developers. We help startups & small to medium sized businesses build, maintain, and grow their products.
   1. [Cadasta](http://cadasta.org/about-us/careers/) - Secure platform for mapping global land & resource rights. 100% remote team; Python, Django, JavaScript, PostgreSQL.
   1. [Canonical](https://www.canonical.com/careers/all-vacancies) - Ubuntu.
   1. [Catalyze](https://catalyze.io/jobs) - HIPAA-compliant cloud computing for healthcare. HQ in Madison, WI. Docker, Go, Python.
@@ -274,7 +273,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Etsy](https://www.etsy.com/careers) - Marketplace for artists. MySQL, Memcache, PHP. Offices in Dublin, Paris, San Francisco, New York, London and Melbourne.
   1. [Eyeo](https://eyeo.com/en/jobs/) - Maker of AdBlock Plus. Main office in Cologne, Germany.
   1. [Findify](https://findify.io/careers/) - E-commerce search powered by machine learning and big data. Team distributed across Europe.
-  1. [Fire Engine Red](http://fire-engine-red.com/about/#careers) - SaaS for higher education. Maker of Fireworks.
+  1. [Fire Engine RED](http://fire-engine-red.com/about/#careers) - SaaS for higher education. Maker of Fireworks.
   1. [Fog Creek](http://www.fogcreek.com/careers/) - NY-based software company. Makers of bug-tracking and source control tools. Workday must overlap New York afternoons (1700 - 2200 GMT)
   1. [General Assembly](https://generalassemb.ly/careers) - Physical and on-line education for technology, business, and design.
   1. [Ghost](https://ghost.org/about/#careers) - Publishing platform.
@@ -283,6 +282,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [GitHub](https://github.com/about/jobs)
   1. [GitLab](https://about.gitlab.com/jobs/) - Competitor to GitHub.
   1. [GlueNetworks](http://gluenetworks.com/) - Network automation company.
+  1. [Gradle](https://gradle.com/careers) - Open Source Build Tool ; Enterprise SaaS and on-premise. Fully remote. Java, Groovy, Kotlin.
   1. [GrooveHQ](https://www.groovehq.com/about) - Help desk software.
   1. [Hanzo](https://www.hanzo.co/about-us/careers-uk) - Web archiving company. Fully Remote. Python, AWS.
   1. [Harvest](https://www.getharvest.com/careers) - Time tracking software.
@@ -397,7 +397,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 1. [##remotes ★9 ⏳2Y](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [#nomads](https://hashtagnomads.com/) - Slack community for nomadic working, $100 signup fee.
-1. [Remote Year] (http://www.remoteyear.com/) - Traveling techies for 1 year.
+1. [Remote Year](http://www.remoteyear.com/) - Traveling techies for 1 year.
 
 ## Conferences
  1. [DNX Global](http://www.dnxglobal.com/) - Digital Nomad Conference.
@@ -443,13 +443,13 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
 
 ## Others
-  1. [awesome-digital-nomads ★129](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+  1. [awesome-digital-nomads ★140](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
   1. [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space.
   1. [Remote Companies on Careers SO](http://talent.stackoverflow.com/companies?searchTerm=&location=&allowsremote=true)
-  1. [Remote Working ★1624](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+  1. [Remote Working ★1709](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
   1. [The Caravanserai](http://www.thecaravanserai.co/) - Co-living provider.
   1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 
