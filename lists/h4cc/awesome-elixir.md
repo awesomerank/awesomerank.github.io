@@ -964,7 +964,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [eio ★9 ⏳1Y](https://github.com/falood/eio) - Elixir server of engine.io.
 * [ejabberd ★3084](https://github.com/processone/ejabberd) - Robust, ubiquitous and massively scalable Jabber/XMPP Instant Messaging platform.
 * [ExPcap ★15 ⏳2Y](https://github.com/cobenian/expcap) - PCAP parser written in Elixir.
-* [mac ★2](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
+* [mac ★2 ⏳1Y](https://github.com/ephe-meral/mac) - Can be used to find a vendor of a MAC given in hexadecimal string (according to IEEE).
 * [pool ★7 ⏳1Y](https://github.com/slogsdon/pool) - Socket acceptor pool for Elixir.
 * [reagent ★88](https://github.com/meh/reagent) - reagent is a socket acceptor pool for Elixir.
 * [socket ★478](https://github.com/meh/elixir-socket) - Socket wrapping for Elixir.
