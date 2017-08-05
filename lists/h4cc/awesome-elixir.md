@@ -959,7 +959,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Networking
 *Libraries and tools for using network related stuff.*
 
-* [asn ★3](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
+* [asn ★3 ⏳1Y](https://github.com/ephe-meral/asn) - Can be used to map from IP to AS to ASN.
 * [chatter ★21 ⏳1Y](https://github.com/dbeck/chatter_ex) - Secure message broadcasting based on a mixture of UDP multicast and TCP.
 * [eio ★9 ⏳1Y](https://github.com/falood/eio) - Elixir server of engine.io.
 * [ejabberd ★3084](https://github.com/processone/ejabberd) - Robust, ubiquitous and massively scalable Jabber/XMPP Instant Messaging platform.
