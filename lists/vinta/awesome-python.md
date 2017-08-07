@@ -223,7 +223,7 @@ Inspired by [awesome-php ★16056](https://github.com/ziadoz/awesome-php).
 
 * [Beaker ★315](https://github.com/bbangert/beaker) - A library for caching and sessions for use with web applications and stand-alone Python scripts and applications.
 * [DiskCache](http://www.grantjenks.com/docs/diskcache/) - SQLite and file backed cache backend with faster lookups than memcached and redis.
-* [django-cache-machine ★662](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models.
+* [django-cache-machine ★662 ⏳1Y](https://github.com/django-cache-machine/django-cache-machine) - Automatic caching and invalidation for Django models.
 * [django-cacheops ★710](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 * [django-viewlet ★56](https://github.com/5monkeys/django-viewlet) - Render template parts with extended cache control.
 * [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) - dogpile.cache is next generation replacement for Beaker made by same authors.
@@ -1103,6 +1103,7 @@ Inspired by [awesome-php ★16056](https://github.com/ziadoz/awesome-php).
     * [Levenshtein ★344](https://github.com/ztane/python-Levenshtein) - Fast computation of Levenshtein distance and string similarity.
     * [pangu.py ★59 ⏳1Y](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
     * [pyfiglet ★224](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
+    * [pypinyin ★626](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi to pinyin.
     * [shortuuid ★776](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
     * [unidecode](https://pypi.python.org/pypi/Unidecode) - ASCII transliterations of Unicode text.
     * [uniout ★128](https://github.com/moskytw/uniout) - Print readable chars instead of the escaped string.

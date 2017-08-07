@@ -305,7 +305,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 *Plugins that couldn't be sorted in above categories yet.*
 
-* [Boilerplate ★2513](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development.
+* [Boilerplate ★2513 ⏳1Y](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development.
 * [Interlink](https://gist.github.com/Golpha/c5c7ae9b6ed11dc93ce6) - Event interlink plugin.
 * [Sisyphus ★1856](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more.
 * [Slugify ★84 ⏳1Y](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).

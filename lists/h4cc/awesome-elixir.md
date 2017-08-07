@@ -686,7 +686,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [sentinel ★90](https://github.com/britton-jb/sentinel) - An authentication framework for Phoenix extending guardian with routing and other basic functionality.
 * [trailing_format_plug ★16](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
-* [weebo ★3 ⏳1Y](https://github.com/stevenschobert/weebo) - An XML-RPC parser/formatter for Elixir, with full support for datatype mapping.
+* [weebo ★3 ⏳2Y](https://github.com/stevenschobert/weebo) - An XML-RPC parser/formatter for Elixir, with full support for datatype mapping.
 
 ## Frameworks
 *Web development frameworks.*
@@ -996,7 +996,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [datomex ★31 ⏳1Y](https://github.com/edubkendo/datomex) - Elixir driver for the Datomic REST API.
 * [ddb_client ★2](https://github.com/dalmatinerdb/ddb_client) - DalmatinerDB client.
 * [defql ★74](https://github.com/fazibear/defql) - Create elixir functions with SQL as a body.
-* [dexts ★4](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
+* [dexts ★4 ⏳1Y](https://github.com/meh/dexts) - Disk Elixir Terms Storage, dest wrapper.
 * [diver ★39](https://github.com/novabyte/diver) - A HBase driver for Erlang/Elixir using Jinterface and the Asynchbase Java client to query the database.
 * [dproto ★1](https://github.com/dalmatinerdb/dproto) - Protocols for DalmatinerDB.
 * [dqe ★9](https://github.com/dalmatinerdb/dqe) - DalmatinerDB query engine.

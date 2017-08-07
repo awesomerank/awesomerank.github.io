@@ -580,7 +580,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Vicinity ★362](https://github.com/Instrument/Vicinity) - Vicinity replicates iBeacons (by analyzing RSSI) and supports broadcasting and detecting low-energy Bluetooth devices in the background.
 * [BeaconEmitter ★798 ⏳3Y](https://github.com/lgaches/BeaconEmitter) - Turn your Mac as an iBeacon.
 * [MOCA Proximity](https://mocaplatform.com/features) - Paid proximity marketing platform that lets you add amazing proximity  experiences to your app.
-* [JMCBeaconManager ★132](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby. 🔶
+* [JMCBeaconManager ★132 ⏳1Y](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby. 🔶
 
 ## Layout
 * [FlexboxLayout ★303](https://github.com/alexdrone/FlexboxLayout) - Port of Facebook's css-layout to Swift :large_orange_diamond:
@@ -1115,7 +1115,6 @@ Most of these are paid services, some have free tiers.
 * [TPInAppReceipt ★25](https://github.com/tikhop/TPInAppReceipt) - Reading and Validating In App Store Receipt :large_orange_diamond:
 
 ## Permissions
-* [PermissionScope ★4434](https://github.com/nickoneill/PermissionScope) - Intelligent iOS permissions UI and unified API (Supports Location, Notifications, Camera, Contacts, Calendar, Photos, Microphone, BT, Activity Monitoring, HealthKit and CloudKit). :large_orange_diamond:
 * [Proposer ★734](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location). :large_orange_diamond:
 * [ICanHas ★80 ⏳1Y](https://github.com/wircho/ICanHas) - Simplifies iOS user permission requests (Supports location, push notifications, camera, contacts, calendar, photos). :large_orange_diamond:
 * [VWWPermissionKit ★130 ⏳1Y](https://github.com/zakkhoyt/VWWPermissionKit) - A visual permission manager for iOS.
@@ -2578,7 +2577,7 @@ Most of these are paid services, some have free tiers.
 * [awesome-gitignore-templates ★9](https://github.com/aashishtamsya/awesome-gitignore-templates) - A collection of swift, objective-c, android and many more langugages .gitignore templates 📝.
 * [swift-project-template ★20](https://github.com/artemnovichkov/swift-project-template) - Template for iOS Swift project generation.
 * [Swift-VIPER-Module ★186](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for create modules with VIPER Architecture written in Swift 3 :large_orange_diamond:
-* [ViperC ★25](https://github.com/abdullahselek/ViperC) - Xcode template for VIPER Architecture written in Objective-C
+* [ViperC ★25](https://github.com/abdullahselek/ViperC) - Xcode template for VIPER Architecture for both Objective-C and Swift :large_orange_diamond:
 
 # Reference
 * [Swift Cheat Sheet ★655](https://github.com/iwasrobbed/Swift-CheatSheet) - A quick reference cheat sheet for common, high level topics in Swift. :large_orange_diamond:

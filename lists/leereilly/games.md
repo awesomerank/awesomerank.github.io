@@ -337,7 +337,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [Captain Holetooth ★27](https://github.com/hirnbix/captain-holetooth) - A fun, explorative and story-driven platformer with minigames. Made with the Godot Engine.
 * [Commander Genius ★73](https://github.com/gerstrong/Commander-Genius) - Commander Keen compatible clone.
-* [Elemental One ★21 ⏳1Y](https://github.com/voithos/elemental-one) - Built with the Phaser HTML5 game framework. [Play it now!](http://skepsi.me/elemental-one/)
+* [Elemental One ★21 ⏳2Y](https://github.com/voithos/elemental-one) - Built with the Phaser HTML5 game framework. [Play it now!](http://skepsi.me/elemental-one/)
 * [Escape of the cat ★8 ⏳1Y](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
 * [Frogatto ★336](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
 * [Gish ★231](https://github.com/blinry/gish) - Award-winning physics platformer.

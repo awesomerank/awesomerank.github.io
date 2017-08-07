@@ -25,7 +25,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 ## Backoffice extensions
 * [refinerycms-dynamicfields ★14 ⏳1Y](https://github.com/jfalameda/refinerycms-dynamicfields) - Create models dynamically and attach them to pages
 * [refinerycms-page-resources ★6](https://github.com/anitagraham/refinerycms-page-resources) - Attach resources (files) to a Page
-* [refinerycms-redactor ★2](https://github.com/rabid/refinerycms-redactor) - WYSIWYG editor with [Redactor](https://imperavi.com/redactor/)
+* [refinerycms-redactor ★2 ⏳1Y](https://github.com/rabid/refinerycms-redactor) - WYSIWYG editor with [Redactor](https://imperavi.com/redactor/)
 * [refinerycms-resource-categories ★1 ⏳1Y](https://github.com/bisscomm/refinerycms-resource-categories) - Categorize resources
 * [refinerycms-snoods ★1 ⏳1Y](https://github.com/cleverlemming/refinerycms-snoods) - Creating download pages and sending leads to Salesforce
 * [refinerycms-tinymce ★3](https://github.com/ghoppe/refinerycms-tinymce) - TinyMCE Visual Editing

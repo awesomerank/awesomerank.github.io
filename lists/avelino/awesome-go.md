@@ -717,6 +717,7 @@ See [go-hardware ★538 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [alice ★5](https://github.com/magic003/alice) - An additive dependency injection container for Golang.
 * [archiver ★625](https://github.com/mholt/archiver) - Library and command for making and extracting .zip and .tar.gz archives
 * [autoflags ★18](https://github.com/artyom/autoflags) - Go package to automatically define command line flags from struct fields.
+* [avgRating ★3](https://github.com/kirillDanshin/avgRating) - Calculate average score and rating based on Wilson Score Equation.
 * [banner ★135](https://github.com/dimiro1/banner) - Add beautiful banners into your Go applications.
 * [battery ★70](https://github.com/distatus/battery) - A cross-platform, normalized battery information library.
 * [bitio ★27](https://github.com/icza/bitio) - Highly optimized bit-level Reader and Writer for Go.
@@ -910,7 +911,7 @@ See [go-hardware ★538 ⏳1Y](https://github.com/rakyll/go-hardware) for a comp
 * [go-gt ★3 ⏳1Y](https://github.com/ThePaw/go-gt) - Graph theory algorithms written in "Go" language
 * [go.matrix ★294 ⏳1Y](https://github.com/skelterjohn/go.matrix) - linear algebra for go (has been stalled)
 * [gocomplex ★3 ⏳2Y](https://github.com/varver/gocomplex) - A complex number library for the Go programming language.
-* [gofrac ★6 ⏳1Y](https://github.com/anschelsc/gofrac) - A (goinstallable) fractions library for go with support for basic arithmetic.
+* [gofrac ★6 ⏳2Y](https://github.com/anschelsc/gofrac) - A (goinstallable) fractions library for go with support for basic arithmetic.
 * [gohistogram ★93](https://github.com/VividCortex/gohistogram) - Approximate histograms for data streams
 * [gonum/mat64 ★472](https://github.com/gonum/matrix) - The general purpose package for matrix computation. Package mat64 provides basic linear algebra operations for float64 matrices.
 * [gonum/plot ★541](https://github.com/gonum/plot) - gonum/plot provides an API for building and drawing plots in Go.

@@ -59,7 +59,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [pydub](http://pydub.com) [:octocat: ★1981](https://github.com/jiaaro/pydub) [:package:](https://pypi.python.org/pypi/mdct) - Manipulate audio with a simple and easy high level interface.
 * [pytftb](http://tftb.nongnu.org) [:octocat: ★28](https://github.com/scikit-signal/pytftb) - Implementation of the MATLAB Time-Frequency Toolbox.
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) [:octocat: ★11](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
-* [PyWavelets](http://www.pybytes.com/pywavelets/)² [:octocat: ★0 ⏳4Y](https://github.com/scikit-signal/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
+* [PyWavelets](http://www.pybytes.com/pywavelets/)² [:octocat: ★0 ⏳5Y](https://github.com/scikit-signal/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
 * [Resampy](http://resampy.readthedocs.io) [:octocat: ★48](https://github.com/bmcfee/resampy) [:package:](https://pypi.python.org/pypi/resampy) - Sample rate conversion.
 * [STFT](http://stft.readthedocs.io) [:octocat: ★16](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) - Standalone package for Short-Time Fourier Transform.
 

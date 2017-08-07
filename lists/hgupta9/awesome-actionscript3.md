@@ -225,7 +225,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Scale9Image ★13 ⏳4Y](https://github.com/Tibus/Scale9Image) - Optimized scale9Grid image for starling.
 * [ASImageLib ★7 ⏳3Y](https://github.com/terrynoya/ASImageLib) - BMP/PNG decoder for actionscript.
-* [Async-Image-Encoders ★18 ⏳3Y](https://github.com/LeeBurrows/Async-Image-Encoders) - Asynchronously encode BitmapData objects into image file format.
+* [Async-Image-Encoders ★18 ⏳4Y](https://github.com/LeeBurrows/Async-Image-Encoders) - Asynchronously encode BitmapData objects into image file format.
 * [Flip-Planes-AS3 ★14 ⏳6Y](https://github.com/jamesflorentino/Flip-Planes-AS3) - Photo slideshow effects.
 * [AS3-transitions-lib ★8 ⏳1Y](https://github.com/foo123/as3-transitions-lib) - Image Transitions Library.
 * [Inspirit Image ★0](https://github.com/hgupta9/InspiritImage) - FFT, SURF, edge detection, fluid solver, etc.
@@ -237,7 +237,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Font
 
 * [Firetype ★107 ⏳1Y](https://github.com/MaxDidIt/firetype) - Parse OpenType fonts and render them using Stage3D.
-* [BMFontRenderer ★33 ⏳5Y](https://github.com/bengarney/BMFontRenderer) - AS3 renderer for bitmap font data in the BMFont format.
+* [BMFontRenderer ★33 ⏳6Y](https://github.com/bengarney/BMFontRenderer) - AS3 renderer for bitmap font data in the BMFont format.
 * [HanFont ★14 ⏳6Y](https://github.com/kyoji2/HanFont) - AIR app for Chinese Font Embeding in ActionScript.
 * [Ficon.as ★4 ⏳4Y](https://github.com/dv/Ficon.as) - Library to easily include icon fonts.
 
@@ -467,7 +467,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### P2P
 
 * [P2Plocal ★25 ⏳2Y](https://github.com/palkan/as3_p2plocal) - Local RTMFP connections.
-* [Android-Flash-P2P ★15 ⏳6Y](https://github.com/beautifycode/Android-Flash-P2P) - P2P Communication between a Client.swf and an Android Device with AIR.
+* [Android-Flash-P2P ★15 ⏳7Y](https://github.com/beautifycode/Android-Flash-P2P) - P2P Communication between a Client.swf and an Android Device with AIR.
 * [GogduNet ★24 ⏳4Y](https://github.com/Siyania/GogduNet) - Communication Library for TCP and UDP and P2P.
 * [NetGrouper ★25 ⏳4Y](https://github.com/walpolea/NetGrouper) - Wrapper for NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus.
 * [HydraP2P ★100 ⏳6Y](https://github.com/devboy/HydraP2P) - Simplifies the peer-to-peer API introduced in Flash Player 10.1.
@@ -563,7 +563,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Text
 
 * [Linkify-as3 ★8 ⏳6Y](https://github.com/CodeCatalyst/linkify-as3) - Convert URLs, e-mail addresses, phone numbers, into clickable links.
-* [AS3hyphenation ★1 ⏳5Y](https://github.com/gka/as3hyphenation) - Port of the Javascript text hyphenation library Hyphenator.js.
+* [AS3hyphenation ★1 ⏳6Y](https://github.com/gka/as3hyphenation) - Port of the Javascript text hyphenation library Hyphenator.js.
 
 ## Runtimes
 

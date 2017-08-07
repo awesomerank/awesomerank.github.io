@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-875-orange.svg) | August 03, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-876-orange.svg) | August 06, 2017
 
 ### Contributing
 
@@ -725,7 +725,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Interested in using iBeacon in your Swift project? Here some interesting resources.* [back to top](#readme) 
 
 * [iBeacon ★198](https://github.com/gemtot/iBeacon) - iBeacon implementation.
-* [JMCBeaconManager ★132](https://github.com/izotx/JMCBeaconManager) - iBeacon Manager.
+* [JMCBeaconManager ★132 ⏳1Y](https://github.com/izotx/JMCBeaconManager) - iBeacon Manager.
 * [SwiftLocation ★1330](https://github.com/malcommac/SwiftLocation) - Location & Beacon Monitoring.
 
 #### Sensors
@@ -1189,6 +1189,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [TouchVisualizer ★536](https://github.com/morizotter/TouchVisualizer) - Lightweight touch visualization library with a single line of code.
 * [Twinkle ★422](https://github.com/piemonte/Twinkle) - Easy way to make elements in your iOS app twinkle.
 * [UIDropDown ★52](https://github.com/igongora/UIDropDown) - An elegant dropdown for iOS.
+* [UIPheonix ★18](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 * [URLEmbeddedView ★394](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 * [URWeatherView ★309](https://github.com/jegumhon/URWeatherView) - Show weather effects onto a view.
 * [Wallet ★219](https://github.com/rshevchuk/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.

@@ -200,7 +200,7 @@ A collection of awesome things regarding React ecosystem.
 * [TodoMVC example with Shade (Haste+React) ★13 ⏳3Y](https://github.com/takeoutweight/shade-todomvc)
 * [react-haskell, to be used with Haste](https://hackage.haskell.org/package/react-haskell) ([blog post](http://joelburget.com/react-haskell/))
 * [blaze-react, blaze-html style React bindings using GHCJS ★100 ⏳1Y](https://github.com/meiersi/blaze-react) ([video tutorial](https://www.youtube.com/watch?v=4nTnC0t7pzY))
-* [purescript-react bindings](https://github.com/purescript-contrib/purescript-react) ([example app ★5 ⏳2Y](https://github.com/fujimura/purescript-react-example))
+* [purescript-react bindings](https://github.com/purescript-contrib/purescript-react) ([example app ★5 ⏳3Y](https://github.com/fujimura/purescript-react-example))
 
 ##### React and Socket.IO
 * [Socket.IO integration example](https://gist.github.com/zpao/5686416)
@@ -341,10 +341,10 @@ A collection of awesome things regarding React ecosystem.
 * [reactdi - Dependency injection for ReactJS components ★28 ⏳3Y](https://github.com/hzdg/reactdi)
 * [qrcode.react - A <QRCode/> component for use with React ★402](https://github.com/zpao/qrcode.react)
 * [react-swf - Shockwave Flash Player component for React ★48 ⏳1Y](https://github.com/syranide/react-swf)
-* [react-unmount-listener-mixin - React mixin for listenable componentWillUnmount ★3 ⏳2Y](https://github.com/syranide/react-unmount-listener-mixin)
+* [react-unmount-listener-mixin - React mixin for listenable componentWillUnmount ★3 ⏳3Y](https://github.com/syranide/react-unmount-listener-mixin)
 * [react-sortable - A sortable list component built \w React ★514](https://github.com/danielstocks/react-sortable)
 * [react-anything-sortable - A sortable component with IE8 compatibility ★356](https://github.com/jasonslyvia/react-anything-sortable)
-* [react-controllables - Easily create controllable components ★229 ⏳1Y](https://github.com/matthewwithanm/react-controllables)
+* [react-controllables - Easily create controllable components ★229 ⏳2Y](https://github.com/matthewwithanm/react-controllables)
 * [react-datalist - A <datalist> polyfill for Reactjs ★32](https://github.com/asbjornenge/react-datalist)
 * [react-pad - Authoring tool for React components ★3 ⏳3Y](https://github.com/andreypopp/react-pad)
 * [ogre.js - Object graph manager, built with ReactJS in mind ★4 ⏳2Y](https://github.com/elucidata/ogre.js)

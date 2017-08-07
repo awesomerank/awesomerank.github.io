@@ -219,7 +219,6 @@ A curated list of cryptography resources and links.
 
 ### Haskell
 
-- [Crypto](http://hackage.haskell.org/packages/#cat:Crypto) - Collaborative Hackage list.
 - [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) - Collaborative Hackage list.
 - [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) - Official Website of Haskell.
 - [cryptol ★620](https://github.com/GaloisInc/cryptol) - The Language of Cryptography.

@@ -43,7 +43,7 @@ It includes a command-line shell and an associated scripting language.
 
 - [HipChatAdmin ★1](https://github.com/cofonseca/HipChatAdmin) - A module for simple integration with Atlassian HipChat via the HipChat API.
 - [PSGitHub ★36](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API. 
-- [Posh-Github ★50](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
+- [Posh-Github ★50 ⏳1Y](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
 - [Posh-Gist ★17 ⏳1Y](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
 - [PSGist ★13](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists. http://dotps1.github.io/PSGist.
 - [PSAppVeyor ★7](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.

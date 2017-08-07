@@ -777,6 +777,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [Hellowlol HTPC Manager fork](https://github.com/Hellowlol/HTPC-Manager) - A fully responsive interface to manage all your favorite media on your HTPC. ([Source Code ★473](https://github.com/styxit/HTPC-Manager)) `MIT` `Python`
   * [Icecast 2](http://www.icecast.org/) - streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. ([Source Code](https://git.xiph.org/?p=icecast-server.git;a=summary)) `GPLv2` `C`
   * [MistServer](http://mistserver.org/) - A streaming media server that works well in any streaming environment. ([Source Code ★130](https://github.com/DDVTECH/mistserver)) `AGPLv3` `C++`
+  * [Myflix ★65](https://github.com/pastapojken/Myflix) - Self-hosted, super lightweight Netflix alternative. `MIT` `Shell`
   * [Odd Networks](http://oddnetworks.com) - Open source video management system (VMS) and API for collections and videos with supporting SDKs for Roku, Apple iOS/tvOS, Google Android, and Amazon FireTV. ([Source Code ★246](https://github.com/oddnetworks/oddworks)) `MIT` `Nodejs`
   * [ReadyMedia](http://sourceforge.net/projects/minidlna/) - A simple media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. `GPLv2` `C`
   * [Restreamer](https://datarhei.github.io/restreamer/) - Restreamer allows you to do h.264 real-time video streaming on your website without a streaming provider. ([Source Code ★691](https://github.com/datarhei/restreamer)) `Apache` `Nodejs/Docker`
@@ -954,7 +955,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
   * [Piwigo](http://piwigo.org/) - Photo gallery software for the web, built by an active community of users and developers. `GPLv2` `PHP`
   * [Plumi](http://blog.plumi.org/) - Create your own sophisticated video-sharing site. ([Source Code ★70](https://github.com/plumi/plumi.app)) `GPLv2` `Python`
   * [sigal ★348](https://github.com/saimn/sigal) - Yet another simple static gallery generator. `MIT` `Python`
-  * [UberGallery](http://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source Code ★137](https://github.com/UberGallery/UberGallery)) `MIT` `PHP`
+  * [UberGallery](http://www.ubergallery.net) - UberGallery is an easy to use, simple to manage, web photo gallery. UberGallery does not require a database and supports JPEG, GIF and PNG file types. Simply upload your images and UberGallery will automatically generate thumbnails and output HTML. ([Source Code ★137 ⏳1Y](https://github.com/UberGallery/UberGallery)) `MIT` `PHP`
   * [Videobin](http://videobin.org/code) - A simple video upload and sharing service with transcoding. ([Demo](http://videobin.org/), [Source Code](https://r-w-x.org/videobin.git)) `GPLv3` `Python`
   * [Zenphoto](http://www.zenphoto.org/) - Open-source gallery and CMS project. ([Source Code ★163](https://github.com/zenphoto/zenphoto)) `GPLv2` `PHP`
 

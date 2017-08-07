@@ -711,7 +711,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Modals and Popups
 
 * [Magnific-Popup ★9539](https://github.com/dimsemenov/Magnific-Popup) - Light and responsive lightbox script with focus on performance.
-* [jquery-popbox ★450](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
+* [jquery-popbox ★450 ⏳1Y](https://github.com/gristmill/jquery-popbox) - jQuery PopBox UI Element.
 * [jquery.avgrund.js ★1825 ⏳1Y](https://github.com/voronianski/jquery.avgrund.js) - A jQuery plugin with new modal concept for popups.
 * [vex ★6241](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style.
 * [bootstrap-modal ★5047 ⏳2Y](https://github.com/jschr/bootstrap-modal) - Extends the default Bootstrap Modal class. Responsive, stackable, ajax and more.
@@ -730,7 +730,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [headroom ★9313](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it.
 * [onepage-scroll ★9101 ⏳1Y](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin.
 * [iscroll ★9842](https://github.com/cubiq/iscroll) - iScroll is a high performance, small footprint, dependency free, multi-platform javascript scroller.
-* [skrollr ★17274](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.
+* [skrollr ★17274 ⏳1Y](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery.
 * [parallax ★11768](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device.
 * [stellar.js ★4249](https://github.com/markdalgleish/stellar.js) - Parallax scrolling made easy.
 * [plax ★2322](https://github.com/cameronmcefee/plax) - jQuery powered parallaxing.

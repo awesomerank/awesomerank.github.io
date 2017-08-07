@@ -99,7 +99,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [adorbs ★10](https://github.com/JosephShering/adorbs) - Minimal, Functional Entity Component System
 * [knife.system](https://github.com/airstruck/knife/blob/master/readme/system.md) - Minimalist functional ECS
-* [tiny-ecs ★114](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful
+* [tiny-ecs ★114 ⏳1Y](https://github.com/bakpakin/tiny-ecs) - Entity Component System for Lua that's simple, flexible, and useful
 
 ## <a name="helper"></a>Helper Libraries
 *Game specific Library bundles, that provide reuseable functions*

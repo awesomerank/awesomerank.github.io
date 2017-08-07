@@ -331,7 +331,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [rocketeer-slack ★26](https://github.com/rocketeers/rocketeer-slack) - Slack plugin for Rocketeer
 - [Shooker ★21 ⏳1Y](https://github.com/jwenzler/Shooker) - Slack WebHooks PHP Class
 - [Slack ★879](https://github.com/maknz/slack) - Laravel 4 package for sending messages to Slack
-- [slack-api ★26 ⏳2Y](https://github.com/10w042/slack-api) - A super simple wrapper for the Slack API
+- [slack-api ★26 ⏳3Y](https://github.com/10w042/slack-api) - A super simple wrapper for the Slack API
 - [slack-notifier ★59 ⏳1Y](https://github.com/polem/slack-notifier) - Simple PHP wrapper for Slack notifications
 - [slack-sdk](https://packagist.org/packages/threadmeup/slack-sdk) - PHP SDK
 - [slack-tea ★8](https://github.com/liquidlight/slack-tea) - Decide who makes the tea using Slack
@@ -462,7 +462,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slackbotsy ★78](https://github.com/rlister/slackbotsy) - Ruby bot for Slack, inspire by botsy
 - [slackcat ★279](https://github.com/rlister/slackcat) - Upload files to Slack from the command-line
 - [SlackCI ★3 ⏳3Y](https://github.com/grubernaut/SlackCI) - Command-Line Interface and RubyGem for Slack
-- [SlackEco ★7 ⏳1Y](https://github.com/riencroonenborghs/slackeco) - Generate memes within your Slack channels
+- [SlackEco ★7 ⏳2Y](https://github.com/riencroonenborghs/slackeco) - Generate memes within your Slack channels
 - [slacker ★24 ⏳1Y](https://github.com/ttaylorr/slacker) - A collection of scripts for making Slack a little better
 - [slackfire ★6 ⏳2Y](https://github.com/RokkinCat/slackfire) - Send real time events from Firebase to Slack
 - [slackistrano ★292](https://github.com/phallstrom/slackistrano) - Send Capistrano deployment messages to Slack

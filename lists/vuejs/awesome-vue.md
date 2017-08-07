@@ -1402,6 +1402,7 @@ Tooltips / popovers
  - [Vue Syntax Highlight ★699](https://github.com/vuejs/vue-syntax-highlight) - Sublime Text syntax highlighting for single-file Vue components.
  - [VUEFormatter ★7](https://github.com/baixuexiyang/VUEFormatter) - Sublime Text code format
  - [vuejs-sublime-complete ★30](https://github.com/BrainBuzzer/vuejs-sublime-complete) - Sublime Text code complete
+ - [Vue Next Formatter ★0](https://github.com/luozhihua/sublime-vue-formatter) - Sublime Text Vue formatter, Supported ES5/6/7, Less/Sass and Pug/Html template.
 
 #### Vim
 

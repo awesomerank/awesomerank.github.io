@@ -80,7 +80,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [deliteful ★70](https://github.com/ibm-js/deliteful) - Multichannel (desktop/mobile) UI Custom Elements Library
 * [Dojo Foundation packages](http://packages.dojofoundation.org/) - Packages available on Dojo Foundation
 * [dojo-smore ★37 ⏳2Y](https://github.com/kfranqueiro/dojo-smore) - package with Dojo/Store implementation
-* [generator-dojo ★39 ⏳2Y](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects
+* [generator-dojo ★39 ⏳3Y](https://github.com/bryanforbes/generator-dojo) - A yeoman generator for Dojo projects
 * Grids
     * [dgrid](http://dgrid.io/) - next-generation grid component that takes full advantage of modern browsers and object stores.
     * [gridx](http://oria.github.io/gridx/) - A fast rendering, well modularized and plugin architecture based Grid.

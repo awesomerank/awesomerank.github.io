@@ -89,7 +89,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [covoiturage-libre ★48](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5
 - [crabgrass-core ★73](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online
 - [crowdAI ★58](https://github.com/crowdAI/crowdai) - Fighting for Open Science with Open Data, a machine learning challenges platform. [Live](https://www.crowdai.org/)
-- [CrowdtiltOpen ★588](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform  [Live](https://www.tilt.com/index.html)
+- [CrowdtiltOpen ★588 ⏳1Y](https://github.com/Crowdtilt/CrowdtiltOpen) - Open source crowdfunding platform  [Live](https://www.tilt.com/index.html)
 - [cyberdojo ★221](https://github.com/JonJagger/cyber-dojo) -  Free in-browser coding-dojo [Live](http://cyber-dojo.org)
 - [danbooru ★491](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3 [Live](http://testbooru.donmai.us)
 - [dgi-db ★28](https://github.com/griffithlab/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database

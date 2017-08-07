@@ -366,7 +366,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [MSpec ★671](https://github.com/machine/machine.specifications) - Popular testing framework for writing BDD-style tests.
 * [MyTested.AspNetCore.Mvc ★674](https://github.com/ivaylokenov/MyTested.AspNetCore.Mvc) - Fluent testing
   framework for ASP.NET Core MVC.
-* [Netling ★740](https://github.com/hallatore/Netling) - Load tester client for easy web testing.
+* [Netling ★740 ⏳1Y](https://github.com/hallatore/Netling) - Load tester client for easy web testing.
 * [NSpec ★185](https://github.com/nspec/NSpec) - Battle hardened testing framework for C# that's heavily inspired by Mocha and RSpec.
 * [NSubstitute ★811](https://github.com/nsubstitute/NSubstitute) - A friendly substitute for .NET mocking frameworks.
 * [nunit ★58](https://github.com/nunit/dotnet-test-nunit) - NUnit test runner for .NET Core.

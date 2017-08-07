@@ -16,17 +16,10 @@ title: Awesome Rank for sindresorhus/awesome
 <br>
 <br>
 
-<h4 align="center">My new <a href="https://www.producthunt.com/posts/lungo">macOS app is on Product Hunt</a>. It's free. Could use some feedback.</h4>
-
-<!--
-<br>
-<br>
-
 <p align="center">
 	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
 	<b> Vote it up on <a href="https://www.producthunt.com/posts/awesome-weekly">Product Hunt</a></b>
 </p>
--->
 
 <br>
 

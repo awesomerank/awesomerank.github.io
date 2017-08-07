@@ -175,7 +175,7 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 ## Queries
 
 * [dbal-influxdb ★9 ⏳2Y](https://github.com/corley/dbal-influxdb) - Doctrine DBAL for InfluxDB
-* [Influxdb::Arel ★8](https://github.com/undr/influxdb-arel) - Influxdb::Arel is a SQL AST manager for InfluxDB dialect. It simplifies the generation of complex SQL queries
+* [Influxdb::Arel ★8 ⏳1Y](https://github.com/undr/influxdb-arel) - Influxdb::Arel is a SQL AST manager for InfluxDB dialect. It simplifies the generation of complex SQL queries
 * [influxer ★65](https://github.com/palkan/influxer) - InfluxDB ActiveRecord-style
 
 ## Miscellaneous

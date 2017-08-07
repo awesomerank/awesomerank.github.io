@@ -1309,6 +1309,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [S3 bucket sync ★7](https://github.com/sbstjn/serverless-s3bucket-sync) - Sync local folders with an S3 bucket.
 - [S3 sync ★11](https://github.com/k1LoW/serverless-s3-sync) - Sync local directories and S3 prefixes.
 - [Nested stacks ★1](https://github.com/jagdish-176/serverless-nested-stack) - Plugin to workaround the CloudFormation 200 resource limit.
+- [Kubeless ★23](https://github.com/serverless/serverless-kubeless) - Official provider plugin to deploy functions to Kubeless.
 
 ## Literature
 
@@ -1382,7 +1383,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [CORS ★70](https://github.com/joostfarla/serverless-cors-plugin) - CORS plugin.
 - [Serve ★103 ⏳1Y](https://github.com/Nopik/serverless-serve) - Test your lambda functionality locally.
 - [Base path plugin ★9 ⏳1Y](https://github.com/daffinity/serverless-base-path-plugin) - Setting a base path for all API Gateway endpoints in a component.
-- [SNS ★20](https://github.com/martinlindenberg/serverless-plugin-sns) - Plugin for SNS support.
+- [SNS ★20 ⏳1Y](https://github.com/martinlindenberg/serverless-plugin-sns) - Plugin for SNS support.
 - [Cronjob ★12 ⏳1Y](https://github.com/martinlindenberg/serverless-plugin-cronjob) - Plugin for Cronjobs.
 - [API Blueprint ★5 ⏳1Y](https://github.com/hiroara/serverless-api-blueprint) - API documentation generator.
 - [VPC ★7 ⏳1Y](https://github.com/martinlindenberg/serverless-plugin-vpc) - VPC support.

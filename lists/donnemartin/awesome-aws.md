@@ -979,7 +979,6 @@ AWS Repos:
 
 Community Repos:
 
-* [atlassian/localstack :fire::fire::fire::fire::fire: ★8](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 * [bcoe/thumbd :fire::fire: ★442](https://github.com/bcoe/thumbd) - Node.js/ImageMagick-based image thumbnailing service.
 * [Comcast/cmb :fire::fire: ★249](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service.
 * [convox/rack :fire::fire::fire::fire: ★1538](https://github.com/convox/rack) - Open-source PaaS on AWS.
@@ -989,6 +988,7 @@ Community Repos:
 * [j2labs/microarmy  ★0](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
 * [jpillora/grunt-aws :fire: ★176](https://github.com/jpillora/grunt-aws) - Grunt interface into the Node.JS SDK.
 * [jvehent/haproxy-aws :fire::fire: ★228 ⏳1Y](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
+* [localstack/localstack  ★8](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 * [meducation/propono :fire::fire:](https://github.com/meducation/propono) - Easy-to-use pub/sub in Ruby.
 * [mozilla/awsbox :fire::fire::fire: ★786 ⏳1Y](https://github.com/mozilla/awsbox) - A featherweight PaaS on top of EC2 for deploying node apps.
 * [Netflix/aminator :fire::fire::fire: ★699](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.

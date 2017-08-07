@@ -104,6 +104,7 @@ To save the world from creating user accounts and installing software applicatio
 * [EtherCalc](https://ethercalc.net/) - Online spreadsheet editor, exports to Excel.
 * [PdfEscape](https://www.pdfescape.com/) - Edit or create PDFs in browser itself.
 * [Browserpad](http://browserpad.org/) - A server-less plain text editor in the browser. Allows you to open and save plain text files.
+* [WriteURL](http://www.writeurl.com/) - A collaborative real-time online text editor.
 
 
 <a name="drawing"></a>
@@ -178,8 +179,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Vubey](https://vubey.yt/) - Download MP3 from YouTube, SoundCloud etc in various audio quality (bitrates).
 * [Seedr](https://www.seedr.cc/) `[Account]` - Cloud based torrent downloader. Limited to multiple torrents of total size of 2gb in free account. Unlimited bandwidth. 500mb increase on contributing a new user.
 * [Fuge.it](http://fuge.it/howitworks) `[Account]` - Web torrent client. Free tier limited to 2 simultaneous torrents of max size 2gb in free account, 10gb storage, 10gb bandwidth/month.
-* [Direct Torrents](http://www.direct-torrents.com/) - Download torrent files faster and safer as direct download with 10gb max size of torrent and comfortable bandwidth.
-
+* [ZbigZ](https://zbigz.com/) - Torrent downloader that lets you chose the files to download from a torrent. File size limit is 2gb and download is capped to 50kbps in the free version.
 
 ### Music, Radio and Podcasts
 

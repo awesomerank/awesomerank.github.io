@@ -452,7 +452,7 @@ These frameworks make customizing your zsh setup easier.
 * [zsh-terminal-app](https://github.com/the8/zsh-terminal-app) - A plugin for integrating with the new El Capitan Terminal.app features.
 * [zsh-titles ★15](https://github.com/jreese/zsh-titles) - Automatic window and tab titles for tmux and xterm-compatible terminals.
 * [zsh-tmux-simple ★3](https://github.com/TBSliver/zsh-plugin-tmux-simple) - Simple plugin for using tmux with zsh.
-* [zsh-travis ★1](https://github.com/denolfe/zsh-travis) - Opens the Travis CI page for the current repo if one exists.
+* [zsh-travis ★1 ⏳1Y](https://github.com/denolfe/zsh-travis) - Opens the Travis CI page for the current repo if one exists.
 * [zsh-url-highlighter ★15 ⏳1Y](https://github.com/ascii-soup/zsh-url-highlighter) - A plugin for the zsh syntax highlighter that turns URLs green if they respond with a "good" status, and red otherwise. Useful for checking URL typos.
 * [zsh-viexchange ★1](https://github.com/okapia/zsh-viexchange) - Vi mode plugin for easily swapping text between two places in the buffer, like vim-exchange.
 * [zsh-vim-mode ★31 ⏳4Y](https://github.com/sharat87/zsh-vim-mode) - Shrikant Sharat's bindings for zsh's vi mode so it behaves more vim-like.
@@ -620,6 +620,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [klendathu ★0 ⏳2Y](https://github.com/kegonomics/klendathu) - Uses Powerline iconsolas.
 * [lagune ★0 ⏳1Y](https://github.com/noplay/lagune) - a minimal zsh theme.
 * [lambda-pure ★27](https://github.com/marszall87/lambda-pure) - A minimal zsh theme, based on Pure, with added NodeJS version.
+* [lambdav ★0](https://github.com/vkaracic/lambdav-zsh-theme) - A combination of the Lambda and Fishy themes.
 * [lambda ★264](https://github.com/halfo/lambda-mod-zsh-theme) - A zsh theme optimized for git users who use unicode-compatible fonts and terminal applications.
 * [lazyprodigy ★0 ⏳3Y](https://github.com/drewlustro/lazyprodigy-zsh-theme) - Optimized for dark terminals, has variants for local and remote systems.
 * [lime ★10 ⏳1Y](https://github.com/yous/lime) - Simple standalone Zsh theme.

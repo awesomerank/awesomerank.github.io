@@ -175,7 +175,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 * [Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit
 * [van11y](https://van11y.net/) - A collection of accessible scripts
 * [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
-* [Semantic Web Autocomplete for Atom ★37](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
+* [Semantic Web Autocomplete for Atom ★37 ⏳1Y](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
 * [Trello accessibility cards generator ★0](https://github.com/luarmr/trello-a11y-cards) - A node.js script to create a Trello card for every point in WCAG2 guidelines.
 
 

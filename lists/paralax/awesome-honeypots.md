@@ -88,7 +88,7 @@ Discover more awesome lists at [sindresorhus/awesome ★62884](https://github.co
     - [gridpot ★24 ⏳2Y](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets .
     - [scada-honeynet](http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/) - mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices.
     - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks.
-    - [GasPot ★49](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST, common in the oil and gas industry.
+    - [GasPot ★49 ⏳1Y](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST, common in the oil and gas industry.
 
 - Other/random
     - [NOVA ★36 ⏳2Y](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.

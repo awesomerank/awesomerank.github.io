@@ -178,7 +178,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Tools that generate patterns for repetitive code in order to reduce verbosity and error-proneness.*
 
-* [ADT4J ★96](https://github.com/sviperll/adt4j) - JSR-269 code generator for algebraic data types.
+* [ADT4J ★96 ⏳1Y](https://github.com/sviperll/adt4j) - JSR-269 code generator for algebraic data types.
 * [Auto ★5418](https://github.com/google/auto) - Generates factory, service, and value classes.
 * [FreeBuilder ★611](https://github.com/google/FreeBuilder) - Automatically generates the Builder pattern.
 * [Immutables](http://immutables.github.io/) - Annotation processors to generate simple, safe and consistent value objects.
