@@ -685,6 +685,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless (Cron)icle 7](https://serverless.com/blog/serverless-cron-icle-7/) - Serverless (Cron)icle 7 - News from the serverless ecosystem.
 - [Serverless web apps w/o client side JavaScript](https://adrianhesketh.com/2017/07/27/serverless-web-apps-without-client-side-javascript/) - Using the Serverless Framework for HTTP form-post handling and HTML rendering.
 - [AWS X-Ray - The good, the bad, the ugly](https://read.acloud.guru/im-here-to-tell-you-the-truth-the-good-the-bad-and-the-ugly-of-aws-x-ray-and-lambda-f212b5f332e9) - In-depth analysis of the AWS X-Ray tooling.
+- [Exploring Serverless with Python, AWS Step Functions, and web frontend](https://medium.com/@dzimine/exploring-serverless-with-python-stepfunctions-and-web-front-end-8e0bf7203d4b) - Post about the journey of getting started with the Serverless Framework.
 
 ## Screencasts
 
@@ -1096,6 +1097,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [2514 ★1](https://github.com/justinm/serverless-2514) - Reproduction service of [serverless/serverless#2514](https://github.com/serverless/serverless/issues/2514).
 - [3965 ★1](https://github.com/indieisaconcept/serverless-issue-3965) - Reproduction service of [serverless/serverless#3965](https://github.com/serverless/serverless/issues/3965).
 - [Chromeless ★8546](https://github.com/graphcool/chromeless) - Runs Chrome automation locally or headless on AWS Lambda.
+- [Slack invite ★3](https://github.com/serverless-london/serverless-slack-invite) - Serverless Slack invite service.
+- [Slack sign-up ★5](https://github.com/dzimine/slack-signup-serverless) - Serverless sign-up to Slack (and other services).
 
 ## Related projects
 
