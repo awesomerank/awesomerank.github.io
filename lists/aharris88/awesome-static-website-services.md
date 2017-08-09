@@ -7,11 +7,11 @@ title: Awesome Rank for aharris88/awesome-static-website-services
 	This list is a copy of <a href="https://github.com/aharris88/awesome-static-website-services">aharris88/awesome-static-website-services</a> with ranks
 </p>
 ---
-# Awesome Static Website Services [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★61331](https://github.com/sindresorhus/awesome)
+# Awesome Static Website Services [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★59088](https://github.com/sindresorhus/awesome)
 
 > A curated list of services for static websites.
 
-Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★59088](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -115,7 +115,7 @@ Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list
 - [Flipmail](http://flipmail.co/) - Simple form processing and response retrieval via email.
 - [MailThis](http://mailthis.to/) - Simple form submissions via email with optional attachments.
 - [Simple Form](https://getsimpleform.com/) - Simple forms with optional file attachments, email notifications, and online submission viewing.
-- [Brisk Forms ★12](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
+- [Brisk Forms ★9](https://github.com/stevensona/briskforms) - Free form submission service emails you responses while keeping your email address private and is open source.
 
 #### Normal Forms
 
@@ -129,7 +129,7 @@ Inspired by the [awesome ★61331](https://github.com/sindresorhus/awesome) list
 - [Typeform](http://www.typeform.com/) - Awesome forms that can be embedded.
 - [Wufoo](http://www.wufoo.com/) - Free or Paid - Forms that you can build with a form designer, with notifications, reports, and payments.
 - [Zoho](https://www.zoho.com/crm/help/web-forms/set-up-web-forms.html) - Forms with file upload and captcha.
-- [Github Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama ★746](https://github.com/sindresorhus/ama) for an example.
+- [Github Issues](https://help.github.com/articles/about-issues/) - This is an interesting way for developers to get comments/questions. See [github.com/sindresorhus/ama ★732](https://github.com/sindresorhus/ama) for an example.
 - [FormBackend](https://www.formbackend.com) - Create form-backends and submit your HTML forms to our backend. View the entries online and connect to other services. Receive an email every time a new entry is submitted.
 
 ### Live Chat

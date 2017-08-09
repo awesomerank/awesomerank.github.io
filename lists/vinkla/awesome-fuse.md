@@ -95,6 +95,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 
 ## Open Source
 
+- [11t ★63](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon
 - [500px Gallery Demo ★24 ⏳1Y](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
 - [Firebase ★43](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
 - [FormulaFuse ★0](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
