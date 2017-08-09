@@ -11,7 +11,7 @@ title: Awesome Rank for addyosmani/es6-tools
 
 ## Transpilers
 
-* [Babel ★21932](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime
+* [Babel ★22045](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime
 * [Traceur compiler ★7377](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [es6ify ★607](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * [babelify ★1412](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
@@ -126,7 +126,7 @@ title: Awesome Rank for addyosmani/es6-tools
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel ★21932](https://github.com/babel/babel).
+* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel ★22045](https://github.com/babel/babel).
 * [es6-shim ★2291](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
 * Polymer's [WeakMap shim ★41 ⏳2Y](https://github.com/Polymer/WeakMap)

@@ -56,36 +56,36 @@ Code meant become part of the extension.
 
 - [webext-options-sync ★13](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 - [webext-inject-on-install ★1](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
-- [chrome-promise ★64](https://github.com/tfoxy/chrome-promise) - Promised version of `chrome.*` callback-style functions.
-- [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★32885](https://github.com/reactjs/redux) for managing the state of your WebExtension
+- [chrome-promise ★66](https://github.com/tfoxy/chrome-promise) - Promised version of `chrome.*` callback-style functions.
+- [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★33096](https://github.com/reactjs/redux) for managing the state of your WebExtension
 
 ## Tools
 
 Apps that help you manage your extensions.
 
 - [Chrome Webstore Upload ★40](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
-- [mozilla/Web-ext ★200](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
+- [mozilla/Web-ext ★205](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
 - [chromepet ★11 ⏳2Y](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 - [inline-install ★3](https://github.com/alykoshin/inline-install) - Simplify the installation of the extension directly from your website.
-- [wemf ★7](https://github.com/pastak/wemf) - Format and validate `manifest.json`.
+- [wemf ★10](https://github.com/pastak/wemf) - Format and validate `manifest.json`.
 - [maniver ★1 ⏳1Y](https://github.com/ragingwind/maniver) - Bump the extension version via cli.
 - [chrome-ext-downloader ★17 ⏳2Y](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 - [unzip-crx ★7 ⏳1Y](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
-- [chrome-store-api ★7](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
+- [chrome-store-api ★6](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 - [crx2ff ★44 ⏳1Y](https://github.com/abarreir/crx2ff) - Check the compatibility of a Chrome extension with the Firefox WebExtensions API.
 - [chromereload ★4](https://github.com/HaNdTriX/chromereload) - Auto-reload your extension during development.
 
 ## Testing
 
-- [sinon-chrome ★191](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
+- [sinon-chrome ★193](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 - [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines.
 
 ## Boilerplates
 
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
-- [generator-chrome-extension ★1659](https://github.com/yeoman/generator-chrome-extension) - Boilerplate based on gulp & babel.
+- [generator-chrome-extension ★1669](https://github.com/yeoman/generator-chrome-extension) - Boilerplate based on gulp & babel.
 - [generator-chrome-extension-kickstart ★115](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
-- [react-chrome-extension-boilerplate ★697](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
+- [react-chrome-extension-boilerplate ★702](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
 
 ## Sample Extensions
 
@@ -94,7 +94,7 @@ These are simple and modern WebExtensions repositories that could help you figur
 - [npm-hub](https://github.com/zeke/npm-hub)
 - [Sticky Pinned Tabs ★2](https://github.com/bfred-it/sticky-pinned-tabs)
 - [Dim Files on GitHub ★3](https://github.com/bfred-it/dim-files-on-github)
-- [Refined GitHub ★2407](https://github.com/sindresorhus/refined-github)
+- [Refined GitHub ★2435](https://github.com/sindresorhus/refined-github)
 
 ## License
 

@@ -15,7 +15,7 @@ title: Awesome Rank for terkelg/awesome-creative-coding
 
 Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. **Interaction design**, **information visualization** and **generative art** are all different types of creative coding – which has become a household term describing **artworks articulated as code**.
 
-*You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL ★568](https://github.com/eug/awesome-opengl).*
+*You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL ★576](https://github.com/eug/awesome-opengl).*
 
 *Please read the [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) before contributing.*
 
@@ -107,6 +107,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Open.gl](https://open.gl/) - Guide that teach you the basics of using OpenGL.
 - [Pixel Shaders](http://pixelshaders.com/) - Interactive Introduction to Graphics Programming.
 - [OpenGLBook](http://openglbook.com/) - Free OpenGL programming tutorial in online book format.
+- [Graphics Programming Projects](http://graphicscodex.com/projects/projects/index.html) - Book about 3D computational graphics by Morgan McGuire.
 
 ## Courses
 
@@ -160,7 +161,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 ### Web Programming • Libraries
 
-- [three.js ★34333](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [three.js ★34521](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [regl ★1482](https://github.com/regl-project/regl) - Functional WebGL.
 - [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
@@ -273,6 +274,9 @@ Creative coding is a different discipline than programming systems in which the 
 - [Into Vertex Shaders](https://medium.com/@Zadvorsky/into-vertex-shaders-594e6d8cd804) - Series of tutorials about WebGL, Three.js, and Three.bas.
 - [The Spaces of WebGL](https://medium.com/@Zadvorsky/into-vertex-shaders-part-1-the-spaces-of-webgl-c70ded527841) - Brief overview over the different coordinate systems through out the 3D graphics pipeline.
 - [WebGL Workshop](http://webgl-workshop.com/) - Short and sweet online introduction to WebGL.
+- [THREE.js & instanced geometry](http://barradeau.com/blog/?p=1109) - Fluffy predator with three.js and instanced geometry.
+- [Particle Effects via Billboards](http://www.chinedufn.com/webgl-particle-effect-billboard-tutorial/) - How to create a particle effects with billboarding and WebGL.
+- [Beautifully Animate Points with WebGL and regl](https://peterbeshai.com/beautifully-animate-points-with-webgl-and-regl.html) - How to create GPGPU particles with regl.
 
 #### Canvas
 
@@ -372,6 +376,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Matrix Math and You](https://medium.com/@Zadvorsky/into-vertex-shaders-addendum-1-matrix-math-and-you-565a51094472) - High level introduction to matrices.
 - [Mathematical Symbols](http://www.rapidtables.com/math/symbols/Basic_Math_Symbols.htm) - List of all mathematical symbols and signs.
 - [The magnificent 2d matrix](http://ncase.me/matrix/) - Interactive tool to better understand transformation matrices.
+- [Game Dev Movement cheatsheet with examples](http://www.somethinghitme.com/2013/11/13/snippets-i-always-forget-movement/) - JavaScript math snippets for movement.
 
 ## Machine learning • Computer Vision • Ai
 
@@ -441,7 +446,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 ## Related
 
-- [Awesome opengl ★568](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+- [Awesome opengl ★576](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 - [Awesome webgl ★106](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
 - [Awesome canvas ★246](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 - [Awesome audio visualization ★1295](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.

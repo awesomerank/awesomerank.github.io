@@ -144,10 +144,12 @@ title: Awesome Rank for sindresorhus/amas
 - [Gaurav Mehla ★2](https://github.com/gauravmehla/ama) - Full-stack developer, JS coder, open source contributor.
 - [Hasan Bayat ★1](https://github.com/EmpireWorld/ama) - Awesome developer. Loves open source.
 - [Stéphane Hulard ★0](https://github.com/shulard/ama) - Open source lover, dad, husband, speaker, teacher, remote worker, full-stack developer who loves playing with PHP.
+- [Scott Hanselman ★71](https://github.com/shanselman/ama) - Teacher, Podcaster, OSCON Chair, Developer, Open Source C# and .NET at Microsoft.
+- [Jürgen Gutsch ★0](https://github.com/JuergenGutsch/ama) - .NET junkie, addicted to web and software development, clean coder, MVP for Visual Studio and Development Technologies.
 
 #### Ask these organizations anything!
 
-- [Edenspiekermann ★12 ⏳1Y](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
+- [Edenspiekermann ★12 ⏳2Y](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
 - [Code Monkey Health ★0 ⏳1Y](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
 - [Ruby Taiwan ★109 ⏳1Y](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese.
 - [DevOps Taiwan ★41 ⏳1Y](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.

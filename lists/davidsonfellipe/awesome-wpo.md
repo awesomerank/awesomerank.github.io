@@ -298,7 +298,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Loaders
 
-* [HeadJS ★4121](https://github.com/headjs/headjs)- The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
+* [HeadJS ★4123](https://github.com/headjs/headjs)- The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
 * [Labjs](http://labjs.com/) - is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 * [Defer.js ★64 ⏳4Y](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
@@ -356,7 +356,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-contrib-concat ★803](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 * [Grunt-contrib-uglify ★1387](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files.
 * [Clean-css ★2530](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
-* [Django-compressor ★1893](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+* [Django-compressor ★1895](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [Django-pipeline](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
 * [JShrink ★472](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
 * [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.
@@ -460,7 +460,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 # Other Awesome Lists
 
-* [bayandin/awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness).
+* [bayandin/awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness).
 * [sindresorhus/awesome ★62884](https://github.com/sindresorhus/awesome).
 
 

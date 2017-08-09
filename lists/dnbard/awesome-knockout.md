@@ -11,7 +11,7 @@ title: Awesome Rank for dnbard/awesome-knockout
 A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com/).
 
 ## Frameworks
-- [Knockout ★8362](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
+- [Knockout ★8378](https://github.com/knockout/knockout) - Knockout makes it easier to create rich, responsive UIs with JavaScript
 - [Knockback ★1082](https://github.com/kmalakoff/knockback) - Knockback.js provides Knockout.js magic for Backbone.js Models and Collections
 - [Durandal ★1779](https://github.com/BlueSpire/Durandal) - A cross-device, cross-platform client framework written in JavaScript and designed to make building Single Page Applications
 - [Falconjs ★101 ⏳1Y](https://github.com/stoodder/falconjs) - Adds structure to knockout.js by incorporting models, collections, and views
@@ -19,7 +19,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 ## Integrations
 - Jquery[UI ★268 ⏳4Y](https://github.com/madcapnmckay/Knockout-UI) - Rich UI components based on KnockoutJS
 - [Kendo ★276](https://github.com/kendo-labs/knockout-kendo) - A project to create a robust set of Knockout.js bindings for the Kendo UI widgets
-- [Bootstrap ★237 ⏳1Y](https://github.com/billpull/knockout-bootstrap) - A plugin that adds custom bindings for twitter bootstrap objects such as tooltips and popovers
+- [Bootstrap ★237 ⏳2Y](https://github.com/billpull/knockout-bootstrap) - A plugin that adds custom bindings for twitter bootstrap objects such as tooltips and popovers
 - [ASP.NET MVC ★207](https://github.com/AndreyAkinshin/knockout-mvc) - Power of Knockout.js for ASP.NET MVC
 - [Rails ★109 ⏳5Y](https://github.com/dnagir/knockout-rails) - KnockoutJS for Rails
 - [Meteor ★69 ⏳4Y](https://github.com/steveluscher/knockout.meteor) - A Knockout-to-Meteor bridge

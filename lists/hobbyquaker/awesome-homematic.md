@@ -84,7 +84,7 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 
 ## Interfacing Software
 
-* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge ★5961](https://github.com/nfarina/homebridge) Platform.
+* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge ★6024](https://github.com/nfarina/homebridge) Platform.
 * [Homematic-Virtual-Interface ★9](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue).
 * [Hm2mqtt.js ★6](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT.
 * [Hmcompanion ★11 ⏳1Y](https://github.com/owagner/hmcompanion) - Generic telnet based interface.

@@ -299,7 +299,7 @@ anylysis and visualization.*
 
 ## Computer Vision
 
-  * [clj-tesseract ★41](https://github.com/antoniogarrote/clj-tesseract)
+  * [clj-tesseract ★41 ⏳1Y](https://github.com/antoniogarrote/clj-tesseract)
   * [vision](http://nakkaya.com/vision.html)
 
 ## Natural Language Processing

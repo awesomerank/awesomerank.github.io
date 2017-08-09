@@ -172,9 +172,9 @@ Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list
 **Java**
 * [JSON-java ★2509](https://github.com/stleary/JSON-java) - A reference implementation.
 * [Fast JSON Processor ★10078](https://github.com/alibaba/fastjson)
-* [Gson ★9582](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
+* [Gson ★9667](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
 * [Jackson](http://wiki.fasterxml.com/JacksonHome) - A multi-purpose Java library for processing JSON data format.
-* [moshi ★2926](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+* [moshi ★2953](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
 **Javascript**
 * [JSON-js ★6985](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
@@ -371,7 +371,7 @@ Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list
 * [JSON Guard](http://json-guard.thephpleague.com) - A validator for JSON Schema Draft 4.
 
 **Python**
-* [jsonschema ★1241](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
+* [jsonschema ★1246](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
 * [JSON Schema Toolkit ★25 ⏳1Y](https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
 
 **Ruby**

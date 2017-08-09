@@ -8,7 +8,7 @@ title: Awesome Rank for rabbiabram/awesome-fortran
 </p>
 ---
 # Awesome Fortran [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/rabbiabram/awesome-fortran.svg?branch=master)](https://travis-ci.org/rabbiabram/awesome-fortran)
-A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift ★4077](https://github.com/Wolg/awesome-swift) by @Wolg.
+A curated list of awesome Fortran frameworks, libraries and software. Inspired by [awesome-swift ★4101](https://github.com/Wolg/awesome-swift) by @Wolg.
 
 - [Awesome Fortran](#awesome-fortran)
 	- [Functional Libraries](#functional-libraries)
@@ -140,7 +140,7 @@ Various resources, such as books, websites and articles, for improving your Fort
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in the [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 

@@ -173,7 +173,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 
 ### Golang
 
-* [Solutions for Elements of Programming Interviews problems written in Golang ★63](https://github.com/mrekucci/epi)
+* [Solutions for Elements of Programming Interviews problems written in Golang ★63 ⏳1Y](https://github.com/mrekucci/epi)
 * [Solutions for some basic coding interview tasks written in Go ★20 ⏳2Y](https://github.com/efischer19/golang_ctci)
 * [Top 20 GO Programming Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-20-go-programming-interview-questions/)
 

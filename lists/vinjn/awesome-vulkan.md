@@ -11,7 +11,7 @@ title: Awesome Rank for vinjn/awesome-vulkan
 
 <img src="https://raw.githubusercontent.com/SaschaWillems/Vulkan/master/images/vulkanlogoscene.png" alt="Vulkan demo scene" height="256px">
 
-A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by [awesome-opengl ★568](https://github.com/eug/awesome-opengl) and other awesome-... stuff.
+A curated list of awesome Vulkan libraries, debuggers and resources. Inspired by [awesome-opengl ★576](https://github.com/eug/awesome-opengl) and other awesome-... stuff.
 
 * **[Hardware Support](#hardware-support)**
 * **[SDK](#sdk)**
@@ -213,7 +213,7 @@ drm/kms.
 
 ## Related lists
 *  [awesome ★62884](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
-*  [awesome-opengl ★568](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+*  [awesome-opengl ★576](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *  [gamedev ★4071](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *  [graphics-resources ★1023](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 *  [awesome-d3d12 ★16](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.

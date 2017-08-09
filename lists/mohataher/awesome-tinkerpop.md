@@ -99,7 +99,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [gremlin-template-string ★10 ⏳1Y](https://github.com/jbmusso/gremlin-template-string) - A Javascript Gremlin language builder.
 * [ipython-gremlin ★12](https://github.com/davebshow/ipython-gremlin) - Gremlin in IPython and Jupyter.
 * [ogre](http://ogre.clojurewerkz.org/) - A Clojure language wrapper for TinkerPop3.
-* [Peapod ★33](https://github.com/bayofmany/peapod) - A new object-graph-wrapper for the Tinkerpop3 graph stack.
+* [Peapod ★33 ⏳1Y](https://github.com/bayofmany/peapod) - A new object-graph-wrapper for the Tinkerpop3 graph stack.
 * [sparql-gremlin ★41 ⏳1Y](https://github.com/dkuppitz/sparql-gremlin) - A SPARQL to Gremlin traversal compiler.
 * [sql-gremlin ★34](https://github.com/twilmes/sql-gremlin) - A SQL to Gremlin traversal compiler.
 

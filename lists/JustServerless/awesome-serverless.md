@@ -67,7 +67,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [JeffConf](https://www.jeffconf.com) - Conference focused on serverless architectures.
 - [Shipped](http://shipped.devopslinks.com/) - Independent newsletter focused on serverless computing, containers & orchestration.
 - [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
-
+- [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 
 ## Blogs
 
@@ -174,7 +174,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Building a serverless screenshot service](http://svdgraaf.nl/2016/09/28/Serverless-Screenshot-Service-With-Lambda.html) - Building a serverless screenshot service.
 - [Essential guide to serverless technologies](http://techbeacon.com/essential-guide-serverless-technologies-architectures) - Guide which goes into detail about the serverless technology / architecture.
 - [Guide to serverless backend technologies](http://thenewstack.io/guide-serverless-technologies-functions-backends-service/) - A compilation of the best of FaaS and BaaS.
-- [MoonMail technology stack](https://blog.moonmail.io/what-is-the-technology-stack-and-architecture-behind-moonmail-4d7d6a113ed6#.r2i0cxph6) - Post about the architecture of the [MoonMail ★992](https://github.com/microapps/MoonMail) open source project.
+- [MoonMail technology stack](https://blog.moonmail.io/what-is-the-technology-stack-and-architecture-behind-moonmail-4d7d6a113ed6#.r2i0cxph6) - Post about the architecture of the [MoonMail ★996](https://github.com/microapps/MoonMail) open source project.
 - [Why enterprises should care about serverless computing](http://www.forbes.com/sites/janakirammsv/2016/10/12/why-enterprises-should-care-about-serverless-computing) - Post which outlines the future of serverless computing and enterprises.
 - [Serverless v1 and fundraising](https://serverless.com/blog/releasing-serverless-framework-v1-and-fundraising/) - Blog post which announces Serverless v1 and the fundraising behind Serverless, Inc.
 - [Serverlss raises $3M to help developers go serverless](https://techcrunch.com/2016/10/12/serverless-raises-3m-to-help-developers-go-serverless/) - TechCrunch article about the fundraising and future of Serverless, Inc.
@@ -680,6 +680,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [CloudFoundry Summit 2017 hackathon](https://thenewstack.io/brainstorming-new-platform-ideas-cloud-foundry-hackathon/) - Summary of the CloudFoundry Summit 2017 hackathon.
 - [Handling Python packaging](https://serverless.com/blog/serverless-python-packaging/) - How to handle your Python packaging in Lambda with Serverless plugins.
 - [5 emerging use cases for Apache OpenWhisk](https://thenewstack.io/ibms-openwhisk-serverless/) - Overview of the 5 emerging use-cases of the Apache OpenWhisk serverless platform.
+- [6 things to know when migrating a service to Serverless](https://serverless.com/blog/6-things-to-know-before-migrating-an-existing-service-to-serverless/) - 6 things to know before migrating an existing service to Serverless.
+- [Serverless Meetup SF (26th of July) recap](https://www.heavybit.com/library/blog/navigating-the-serverless-ecosystem-and-slack-bot-building-with-cloud-functions/)
+- [Serverless (Cron)icle 7](https://serverless.com/blog/serverless-cron-icle-7/) - Serverless (Cron)icle 7 - News from the serverless ecosystem.
 
 ## Screencasts
 
@@ -721,6 +724,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Azure Functions in 2 minutes](https://www.youtube.com/watch?v=eBEAAhZfvO0) - Quickstart guide on how to use Azure Functions.
 - [What's new in Serverless v1.18](https://www.youtube.com/watch?v=0DHT1evCtls) - Video walkthrough about all the new features in Serverless v1.18.
 - [Serverless event driven application architectures](https://www.youtube.com/watch?v=2JJMH-nwCQI) - Crater Conf JS 2017 screencast talk by David Wells on Serverless applications.
+- [Using TypeScript with the Serverless Framework](https://www.youtube.com/watch?v=FEoQlAVwvVE) - How to use the Serverless Framework with TypeScript.
 
 ## Talks
 
@@ -843,6 +847,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [ServerlessConf Austin - Video 2](https://www.youtube.com/watch?v=fnUMwjBcarY) - Recap video 2 of ServerlessConf Austin 2017.
 - [Searching for the server in serverless](https://www.dotconferences.com/2017/04/clay-smith-searching-for-the-server-in-serverless) - Talk by Clay Smith about serverless computing ([Video](https://www.youtube.com/watch?v=HDnLx3Xp7bg) / [Slides](https://speakerdeck.com/smithclay/searching-for-the-server-in-serverless)).
 - [Serverless startup with Yan Cui](https://softwareengineeringdaily.com/2017/08/04/serverless-startup-with-yan-cui/) - Talk about the startup "Yubl" which re-built their infrastructure in a serverless fashion.
+- [Slackbot building with Google Cloud Functions](https://www.youtube.com/watch?v=MW5zh7eb5lA) - Brian Leroux on how to build a Slackbot with Google Cloud Functions.
+- [Navigating the serverless ecosystem](https://www.youtube.com/watch?v=pej8jUYTVXE) - David Wells on how to navigate the serverless ecosystem.
+- [Real world serverless use-cases](https://www.youtube.com/watch?v=ZD1bmvwyj-g) - David Wells on real world serverless use-cases.
 
 ## Amazon AWS resources
 
@@ -886,7 +893,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Lambda-React-SSR ★54 ⏳1Y](https://github.com/dherault/Lambda-React-SSR) - Server-side rendering with React on Lambda.
 - [Authentication boilerplate ★261](https://github.com/laardee/serverless-authentication-boilerplate) - Authentication boilerplate for Serverless.
 - [Blog ★4 ⏳1Y](https://github.com/charltones/serverless_blog) - Blog example using Serverless.
-- [MoonMail ★992](https://github.com/microapps/MoonMail) - Serverless newsletter service.
+- [MoonMail ★996](https://github.com/microapps/MoonMail) - Serverless newsletter service.
 - [Serverless GraphQL boilerplate](https://github.com/serverless/serverless-graphql) - Official Serverless GraphQL boilerplate.
 - [SC5 boilerplate ★37](https://github.com/SC5/sc5-serverless-boilerplate) - Serverless boilerplate by [SC5](https://sc5.io/).
 - [Facebook messenger chatbot ★18 ⏳1Y](https://github.com/JustServerless/serverless-facebook-messenger-chatbot) - Facebook messenger chatbot who searches for GitHub repositories.
@@ -996,7 +1003,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Boilerplate Azure Functions ★1](https://github.com/pragnagopa/boilerplate-azurefunctions) - Boilerplate which helps to use the Azure Functions provider plugin.
 - [URL shortener ★28](https://github.com/aletheia/serverless-url-shortener) - A simple url-shortener, using Serverless Framework.
 - [Falke ★1](https://github.com/sbstjn/falke) - Alexa skill to check when a Tatort is broadcasted.
-- [LambdaAuth ★1033](https://github.com/danilop/LambdAuth) - Serverless authentication service.
+- [LambdaAuth ★1036](https://github.com/danilop/LambdAuth) - Serverless authentication service.
 - [Elasticpypi ★128](https://github.com/khornberg/elasticpypi) - Serverless PyPI service.
 - [Lambda coding round evaluator ★16](https://github.com/shekhargulati/lambda-coding-round-evaluator) - Services which help to implement a code evaluator that organizations can use to automate coding round interviews.
 - [TDD service ★2](https://github.com/laardee/my-tdd-service) - TDD example service.
@@ -1165,6 +1172,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [BinaryAlert ★287](https://github.com/airbnb/binaryalert) - Real-time serverless malware detection.
 - [Lambda ★166](https://github.com/smallwins/lambda) - Authoring tools for AWS Lambda functions.
 - [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Multi-cloud Function as a Service at spot prices.
+- [Function Router](https://www.functionrouter.com) - Distribute, manage and execute your forward-deployed serverless functions.
+- [Ansible Docs](http://docs.ansible.com/ansible/latest/serverless_module.html) - Ansible documentation for managing a Serverless project.
 
 ## Plugins
 

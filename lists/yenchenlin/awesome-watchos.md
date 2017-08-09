@@ -34,7 +34,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 # Libraries And Frameworks
 
 ### Connectivity
- * [MMWormhole ★3269](https://github.com/mutualmobile/MMWormhole) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
+ * [MMWormhole ★3271](https://github.com/mutualmobile/MMWormhole) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
 
   <space><space><img src="https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif" width="500") alt="Example App"/>
 
@@ -73,8 +73,8 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
  * [thinkapps for watch](http://thinkapps.com/watch-apps) - A website help you create your free Apple Watch App prototype in just 10 minutes.
 
 ### Images Generator
- * [RadialChartImageGenerator ★405 ⏳1Y](https://github.com/hmaidasani/RadialChartImageGenerator) - A radial bar chart generator for apple watch.
- * [KFWatchKitAnimations ★352](https://github.com/kiavashfaisali/KFWatchKitAnimations) - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.
+ * [RadialChartImageGenerator ★406 ⏳1Y](https://github.com/hmaidasani/RadialChartImageGenerator) - A radial bar chart generator for apple watch.
+ * [KFWatchKitAnimations ★353](https://github.com/kiavashfaisali/KFWatchKitAnimations) - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.
 
 # Sample Apps
  * [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.
@@ -82,7 +82,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
    <space><space><img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png") alt="Example App" width="260"/>
 
  * [WatchKit Catalog](https://developer.apple.com/library/ios/samplecode/WKInterfaceCatalog/Introduction/Intro.html) - An official sample app demonstrates how to use UI elements available in the WatchKit framework.
- * [Cherry ★363 ⏳2Y](https://github.com/kenshin03/Cherry) - A mini pomodoro timer app designed for the  Watch.
+ * [Cherry ★364 ⏳2Y](https://github.com/kenshin03/Cherry) - A mini pomodoro timer app designed for the  Watch.
 
    <space><space><img src="https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif") alt="Example App" width="250"/>
 
@@ -95,11 +95,11 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
    <space><space><img src="https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png") alt="Example App" width="230"/>
 
  * [SwiftHN ★1441](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift.
- * [BaiduFM-Swift ★567](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM.
+ * [BaiduFM-Swift ★568](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM.
 
     <space><space><img src="https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png") alt="Example App" width="250"/>
 
- * [done-swift ★103](https://github.com/FancyPixel/done-swift) - A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.
+ * [done-swift ★104](https://github.com/FancyPixel/done-swift) - A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.
 
     <space><space><img src="https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif") alt="Example App" width="400"/>
 
@@ -162,17 +162,17 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the
- * [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness) list.
- * [Open Source apps ★13890](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
+ * [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness) list.
+ * [Open Source apps ★13950](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
  * Awesome-swift
-   * [@matteocrippa ★12522](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
-   * [@Wolg ★4077](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
+   * [@matteocrippa ★12560](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
+   * [@Wolg ★4101](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
  * [awesome watchkit apps ★192 ⏳2Y](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.
- * [iOS Learning Resources ★231](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
+ * [iOS Learning Resources ★233](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
  * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
  * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
  * [awesome-gists ★157](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
- * [awesome-ios-ui ★9601](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
+ * [awesome-ios-ui ★9605](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
  * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
 # Contributing

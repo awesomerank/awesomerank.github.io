@@ -34,6 +34,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 ### Books
 * :books: [Angular 2 Development with TypeScript](https://www.manning.com/books/angular-2-development-with-typescript) by Yakov Fain and Anton Moiseev; Manning
 * :books: [NativeScript in Action](https://www.manning.com/books/nativescript-in-action) teaches readers who know JavaScript and CSS how to create native iOS and Android apps using NativeScript (by Michael E. Branstein and Nicholas J. Branstein)
+* :books: [Mastering TypeScript 2nd Ed.](https://www.packtpub.com/application-development/mastering-typescript-second-edition) by Nathan Rozentals
+* :books: [Beginning Angular 4 with TypeScript](https://www.amazon.com/Beginning-Angular-Typescript-Greg-Lim/dp/1542916674) by Greg Lim
 
 ### IDE
 #### Offline
@@ -102,7 +104,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ## Built with TypeScript
 ### Mobile
-* :octocat: [NativeScript ★10757](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
+* :octocat: [NativeScript ★10829](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
 * [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
 
 ### Web
@@ -111,9 +113,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 * :octocat: [palantir/plottable ★2170](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org)
 * :octocat: [APIs-guru/graphql-voyager ★2168](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
 * :octocat: [Rebilly/ReDoc ★1219](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
+* :octocat: [excaliburjs/Excalibur ★181](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+* :octocat: [Bobril ★257](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: http://bobril.com/)
 
 ### Standalone apps
-* :octocat: [Visual Studio Code ★31164](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+* :octocat: [Visual Studio Code ★31594](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 * :octocat: [alm - A next generation IDE just for TypeScript written in TypeScript + React ★1677](https://github.com/alm-tools/alm)
 
 ### Design patterns
@@ -130,6 +134,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 * [Practical TypeScript Migration](https://www.pluralsight.com/courses/typescript-practical-migration) (Pluralsight)
 * [Angular with TypeScript](http://www.pluralsight.com/courses/angular-typescript) (Pluralsight)
 * [Using TypeScript for Large AngularJS Applications](https://www.pluralsight.com/courses/using-typescript-large-angularjs-apps) (Pluralsight)
+* [Introduction to TypeScript](https://www.packtpub.com/application-development/introduction-typescript-video) (Packt)
+* [Mastering TypeScript](https://www.packtpub.com/web-development/mastering-typescript-video) (Packt)
 
 ### Badges
 * [TypeScript Badges ★12](https://github.com/ellerbrock/typescript-badges)  

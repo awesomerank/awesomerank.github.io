@@ -603,8 +603,8 @@ Where to discover new R-esources.
 
 # Other Awesome Lists
 
-* [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness)
-* [lists ★4413](https://github.com/jnv/lists)
+* [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness)
+* [lists ★4417](https://github.com/jnv/lists)
 
 # Contributing
 Your contributions are always welcome!

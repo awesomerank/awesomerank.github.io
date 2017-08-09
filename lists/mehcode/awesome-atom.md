@@ -19,6 +19,8 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 - [Extensions](#extensions)
   - [Nuclide](#nuclide)
 - [Themes](http://enrmarc.github.io/atom-theme-gallery/)
+- [Collaboration](#collaboration)
+  - [CodeSideStory](#codesidestory)
 - [Uncategorized](#uncategorized)
   - [Nuclide](#nuclide)
   - [Advanced Open File](#advanced-open-file)
@@ -106,6 +108,13 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 > An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook ★6922](https://github.com/facebook/nuclide).
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
+
+## Collaboration
+
+#### [CodeSideStory](https://atom.io/packages/codesidestory-atom)
+> An Atom/Slack integration to start conversations about code right from the editor. Record screens and archive it right next to the line number to provide more context to your code.
+
+![](https://storage.googleapis.com/codesidestory/static/media/atom_ss.c29b4b0b.png)
 
 ## Uncategorized
 
@@ -195,7 +204,7 @@ JavaScript, and much more in Atom.
 
 ![](https://raw.github.com/smashwilson/merge-conflicts/master/docs/conflict-resolution.gif)
 
-#### [Minimap](https://atom.io/packages/minimap-plus)
+#### [Minimap](https://atom.io/packages/minimap)
 > A preview of the full source code.
 
 #### [Pigments](https://atom.io/packages/pigments)

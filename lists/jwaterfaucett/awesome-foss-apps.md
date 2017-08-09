@@ -105,7 +105,7 @@ This list is for developers who are looking for non-trivial quality applications
 > Blender is 3D Graphic Software that can visually compete with Maya and 3DS Max. The end product is an amazing example of a cross-platform 3D Tooling piece of software. It is a very mature project having been in development since 1994. It has an embedded python scripting engine, a game logic engine and is loaded with implementations of 3d manipulation, rendering, and compositing algorithms.
 
 
-### [Atom ★38743](https://github.com/atom/atom)
+### [Atom ★38983](https://github.com/atom/atom)
 
 * coffeescript, electron, node
 * MIT License

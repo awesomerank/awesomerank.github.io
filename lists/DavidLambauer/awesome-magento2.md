@@ -127,6 +127,8 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 ### Security 
 
 - [Secure Password Hashing](https://bitbucket.org/creaminternet/module-securepasswords) - Improves Password Hashing for Magento 2.
+- [2FA ★13](https://github.com/magespecialist/m2-MSP_TwoFactorAuth) - Two Factor Auth for Magento 2.
+- [Maleware Scanner] - A collection of rules and samples to detect Magento malware.
 
 ---
 
@@ -263,7 +265,7 @@ Explanation by [Fooman](http://store.fooman.co.nz/blog/how-to-find-trustworthy-i
 ### Other Magento 2 related Awesome Lists
 
 - [Mageres ★278](https://github.com/aleron75/mageres) - Alessandro Ronchi's List of resources for Magento 1 and Magento 2.
-- [Awesome PHP ★16056](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
+- [Awesome PHP ★16135](https://github.com/ziadoz/awesome-php) - A curated List of Awesome PHP Resources.
 - [Awesome Magento ★31](https://github.com/sunel/awesome-magento) - An Awesome Magento List with mixed M1 and M2 Content by [sunel](https://github.com/sunel).
 - [Headless Magento 2 ★27](https://github.com/sitewards/headless-magento2-resources) - A list of resources about running Magento 2 headless by [Sitewards](https://commercehero.io/sitewards)
 

@@ -44,7 +44,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ## Unofficial clients
 - Linux - [PlaidChat ★514](https://github.com/plaidchat/plaidchat)
-- Linux - [ScudCloud ★1167](https://github.com/raelgc/scudcloud)
+- Linux - [ScudCloud ★1168](https://github.com/raelgc/scudcloud)
 - Windows - [SlackUI ★91](https://github.com/rfgamaral/SlackUI)
 
 ## Lists
@@ -375,7 +375,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [python-slackclient](https://github.com/slackhq/python-slackclient) ([pypi](https://pypi.python.org/pypi/slackclient/0.13)) - A basic client for Slack, which can optionally connect to the RTM API
 - [reach-slack-rtm ★16 ⏳1Y](https://github.com/izdi/react-slack-rtm) - Simple Slack RTM chat built with ReactJS and Django
 - [relay ★10 ⏳2Y](https://github.com/matsengrp/relay) - Bare-bones continuous integration using Docker Hub and Slack
-- [scudcloud ★1167](https://github.com/raelgc/scudcloud) - Ubuntu client for Slack
+- [scudcloud ★1168](https://github.com/raelgc/scudcloud) - Ubuntu client for Slack
 - [sscaas ★39](https://github.com/danielsamuels/sscaas) - Slack Slash Commands as a Service
 - [slack ★88 ⏳1Y](https://github.com/kn/slack) - A simple and comprehensive Slack API client
 - [slack-echo-chamber ★6 ⏳3Y](https://github.com/balloon-studios/slack-echo-chamber) - Crosspost messages from one channel into another
@@ -423,7 +423,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [chef-slack\_handler ★11 ⏳1Y](https://github.com/dcm-ops/chef-slack_handler) - Chef handler for Slack
 - [dogetip-slack ★9 ⏳1Y](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack
 - [doorbell-server ★16](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell
-- [fastlane ★17178](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
+- [fastlane ★17330](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
 - [gifbot ★38 ⏳3Y](https://github.com/schuyler/gifbot) - Integrated animated GIF search for Slack
 - [hatebu-hooker ★4 ⏳3Y](https://github.com/kmrshntr/hatebu-hooker) - Post Hatena::Bookmark to Slack
 - [kickslacker ★5 ⏳2Y](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack
@@ -476,7 +476,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [tarumi ★8](https://github.com/IcaliaLabs/tarumi) - A simple library to interact with Slack webhooks
 - [tickbot ★9 ⏳1Y](https://github.com/barryf/tickbot) - Simple team time tracking reminder
 - [trebekbot ★133](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
-- [vip-notify ★5 ⏳1Y](https://github.com/doejo/vip-notify) - Send VIP deployment notifications to Slack
+- [vip-notify ★5 ⏳2Y](https://github.com/doejo/vip-notify) - Send VIP deployment notifications to Slack
 - [slack-webistrano ★4 ⏳3Y](https://github.com/caiosba/slack-webistrano) - Send Webistrano deploys to Slack
 - [yobot ★6 ⏳3Y](https://github.com/voxmedia/yobot) - YOs a Slack channel of your choice
 

@@ -210,7 +210,7 @@ common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C# ★166 ⏳1Y](https://github.com/erezak/libphonenumber-csharp),
 [Objective-C ★1672](https://github.com/iziz/libPhoneNumber-iOS),
-[Python ★1574](https://github.com/daviddrysdale/python-phonenumbers),
+[Python ★1579](https://github.com/daviddrysdale/python-phonenumbers),
 [Ruby ★513](https://github.com/sstephenson/global_phone) and
 [PHP ★1923](https://github.com/giggsey/libphonenumber-for-php).
 

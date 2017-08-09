@@ -497,7 +497,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 - [PhantomScript ★25 ⏳1Y](https://github.com/jagracey/PhantomScript) - :ghost: :flashlight: Invisible JavaScript code execution & social engineering
 - [ESReverser ★482](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
 - [mimic ★3272](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
-- [python-ftfy ★1744](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
+- [python-ftfy ★1748](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
 - [vim-troll-stopper ★140](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
 
 

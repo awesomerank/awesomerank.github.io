@@ -232,7 +232,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Inspirit GPUImage ★175 ⏳4Y](https://github.com/inspirit/GPUImage) - Framework for GPU-based image processing.
 * [AS3potrace ★55 ⏳6Y](https://github.com/PowerflasherBR/as3potrace) - POTrace implementation, to trace bitmap images to vector.
 * [ATF-Encoder ★76 ⏳4Y](https://github.com/plepers/ATF-Encoder) - Encode/decode ATF (Adobe Texture Format) files in pure AS3.
-* [AS3-klt ★12 ⏳8Y](https://github.com/motemen/as3-klt) - Kanade-Lucas-Tomasi feature tracker implementation.
+* [AS3-klt ★12 ⏳9Y](https://github.com/motemen/as3-klt) - Kanade-Lucas-Tomasi feature tracker implementation.
 
 #### Font
 

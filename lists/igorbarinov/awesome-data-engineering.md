@@ -186,7 +186,7 @@ multi-processor, multi-core machines
 * [Apache Superset](https://github.com/airbnb/superset) Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
 
 # Workflow
-* [Luigi ★7432](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs.
+* [Luigi ★7475](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs.
 	* [CronQ ★57](https://github.com/seatgeek/cronq) An application cron-like system. [Used](http://chairnerd.seatgeek.com/building-out-the-seatgeek-data-pipeline/) w/Luige 
 * [Cascading](http://www.cascading.org/) Java based application development platform.
 * [Airflow](https://github.com/airbnb/airflow) Airflow is a system to programmaticaly author, schedule and monitor data pipelines.
@@ -205,7 +205,7 @@ multi-processor, multi-core machines
 * [Rancher](http://rancher.com/rancher-os/) RancherOS is a 20mb Linux distro that runs the entire OS as Docker containers
 * [Kontena](http://www.kontena.io/) Application Containers for Masses
 * [Weave ★4758](https://github.com/weaveworks/weave) Weaving Docker containers into applications http://www.weave.works/
-* [Zodiac ★167 ⏳1Y](https://github.com/CenturyLinkLabs/zodiac) A lightweight tool for easy deployment and rollback of dockerized applications
+* [Zodiac ★167 ⏳2Y](https://github.com/CenturyLinkLabs/zodiac) A lightweight tool for easy deployment and rollback of dockerized applications
 * [cAdvisor ★5993](https://github.com/google/cadvisor) Analyzes resource usage and performance characteristics of running containers
 * [Micro S3 persistence ★8 ⏳2Y](https://github.com/shinymayhem/micro-s3-persistence) Docker microservice for saving/restoring volume data to S3
 * [Dockup ★241](https://github.com/tutumcloud/dockup) Docker image to backup/restore your Docker container volumes to AWS S3

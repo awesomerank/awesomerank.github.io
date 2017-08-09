@@ -153,7 +153,7 @@ Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list
  - [MongoEngine ★1819](https://github.com/MongoEngine/mongoengine) - Python ODM on top of PyMongo
  - [MongoLog ★97 ⏳4Y](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
  - [Mongo-Thingy ★5](https://github.com/numberly/mongo-thingy) - The most Pythonic and friendly-yet-powerful way to use MongoDB
- - [Motor ★812](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado applications
+ - [Motor ★820](https://github.com/mongodb/motor) - Non-blocking Python driver for Tornado applications
  - [PyMongo ★2066](https://github.com/mongodb/mongo-python-driver) - Official (and recommended) Python driver
  - [minimongo ★293](https://github.com/slacy/minimongo) - A lightweight, schemaless, Pythonic Object-Oriented interface
  - [scrapy-mongodb ★221](https://github.com/sebdah/scrapy-mongodb) - MongoDB pipeline for Scrapy

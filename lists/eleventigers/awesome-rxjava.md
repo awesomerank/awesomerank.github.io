@@ -11,7 +11,7 @@ title: Awesome Rank for eleventigers/awesome-rxjava
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
-> Useful resources for working with [RxJava ★26144](https://github.com/ReactiveX/RxJava)
+> Useful resources for working with [RxJava ★26306](https://github.com/ReactiveX/RxJava)
 
 *Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list thing.*
 

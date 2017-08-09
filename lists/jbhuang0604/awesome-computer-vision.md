@@ -9,7 +9,7 @@ title: Awesome Rank for jbhuang0604/awesome-computer-vision
 ---
 
 # Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
-A curated list of awesome computer vision resources, inspired by [awesome-php ★16056](https://github.com/ziadoz/awesome-php).
+A curated list of awesome computer vision resources, inspired by [awesome-php ★16135](https://github.com/ziadoz/awesome-php).
 
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
@@ -464,7 +464,7 @@ Non-uniform Deblurring
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
  * [Recovering Spatial Layout](http://web.engr.illinois.edu/~dhoiem/software/counter.php?Down=varsha_spatialLayout.zip) - Varsha Hedau (UIUC)
  * [Geometric Reasoning](http://www.cs.cmu.edu/~./dclee/code/index.html) - David C. Lee (CMU)
- * [RGBD2Full3D ★14 ⏳2Y](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
+ * [RGBD2Full3D ★14 ⏳3Y](https://github.com/arron2003/rgbd2full3d) - Ruiqi Guo (UIUC)
 
 #### Object Detection
  * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
@@ -721,7 +721,7 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning ★5097](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [awesome-deep-learning ★5160](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [awesome-machine-learning ★24671](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)

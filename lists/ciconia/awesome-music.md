@@ -30,7 +30,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Audio Editing
 
-* [Audacity ★842](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
+* [Audacity ★856](https://github.com/audacity/audacity) - a free, cross-platform digital audio editor.
 * [Ardour](http://ardour.org/) - a cross-platform digital audio workstation emphasizing audio recording.
 * [LMMS](https://lmms.io/) - another cross-platform digital audio workstation, more oriented towards making beats.
 
@@ -39,7 +39,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [audio.js ★1779](https://github.com/kolber/audiojs) - audio.js is a drop-in javascript library that allows HTML5's &lt;audio&gt; tag to be used anywhere.
 * [howler.js ★8315](https://github.com/goldfire/howler.js) - a Javascript audio library for the modern web.
 * [JSyn](http://www.softsynth.com/jsyn/) - an audio synthesis software API for Java.
-* [Librosa ★1252](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
+* [Librosa ★1269](https://github.com/librosa/librosa) - a python package for music and audio analysis, providing the building blocks necessary to create music information retrieval systems.
 * [midi.js ★2259](https://github.com/mudcube/MIDI.js) - a framework for creating web-based MIDI apps.
 * [mxml ★2](https://github.com/venturemedia/mxml) - MusicXML parsing and layout library.
 * [PortAudio](http://www.portaudio.com/) - a free, cross-platform, open-source, audio I/O library.

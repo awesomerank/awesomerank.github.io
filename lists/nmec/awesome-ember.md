@@ -11,7 +11,7 @@ title: Awesome Rank for nmec/awesome-ember
 
 A curated list of awesome Ember.js things.
 
-Inspired by [all the other awesome things ★19353](https://github.com/bayandin/awesome-awesomeness).
+Inspired by [all the other awesome things ★19400](https://github.com/bayandin/awesome-awesomeness).
 
 ## Examples
 

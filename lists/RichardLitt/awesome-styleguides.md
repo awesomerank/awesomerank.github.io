@@ -108,13 +108,13 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
 ## Javascript
-* [AirBnB ★56306](https://github.com/airbnb/javascript)
+* [AirBnB ★56753](https://github.com/airbnb/javascript)
 * [bevacqua's JS sg ★2383](https://github.com/bevacqua/js)
 * [feross/standard](https://github.com/feross/standard)
 * [Google](https://google.github.io/styleguide/jsguide.html)
 * [hapi](http://hapijs.com/styleguide)
 * [Joyent](https://www.joyent.com/developers/node/design)
-* [jscs ★5148](https://github.com/jscs-dev/node-jscs)
+* [jscs ★5151](https://github.com/jscs-dev/node-jscs)
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [rsjs ★100](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
@@ -122,7 +122,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ### AngularJS
 * [gocardless ★1533 ⏳1Y](https://github.com/gocardless/angularjs-style-guide)
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
-* [johnpapa's opinionated sg for  AngularJS ★23033](https://github.com/johnpapa/angular-styleguide)
+* [johnpapa's opinionated sg for  AngularJS ★23070](https://github.com/johnpapa/angular-styleguide)
 * [mgechev's community best practices ★4956](https://github.com/mgechev/angularjs-style-guide)
 * [srph's AngularJS structure sg ★284 ⏳1Y](https://github.com/srph/angularjs-structure-styleguide)
 * [Todd Motto's for AngularJS ★5774](https://github.com/toddmotto/angularjs-styleguide)
@@ -159,15 +159,15 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Objective-C
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0)
-* [Futurice iOS Good Practices ★6360](https://github.com/futurice/ios-good-practices) iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
-* [Github - Style guide & coding conventions for Swift projects ★4211](https://github.com/github/swift-style-guide) A guide to our Swift style and conventions by @github.
-* [Github Objective-C Style Guide ★1650 ⏳1Y](https://github.com/github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
+* [Futurice iOS Good Practices ★6397](https://github.com/futurice/ios-good-practices) iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
+* [Github - Style guide & coding conventions for Swift projects ★4226](https://github.com/github/swift-style-guide) A guide to our Swift style and conventions by @github.
+* [Github Objective-C Style Guide ★1653 ⏳1Y](https://github.com/github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
 * [Khan ★15 ⏳1Y](https://github.com/Khan/objective-c-style-guide)
-* [NY Times - Objective C Style Guide ★4453](https://github.com/NYTimes/objective-c-style-guide) The Objective-C Style Guide used by The New York Times.
+* [NY Times - Objective C Style Guide ★4459](https://github.com/NYTimes/objective-c-style-guide) The Objective-C Style Guide used by The New York Times.
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) Gist with coding conventions.
-* [raywenderlich Style Guide ★2612](https://github.com/raywenderlich/objective-c-style-guide) A style guide that outlines the coding conventions for raywenderlich.com.
+* [raywenderlich Style Guide ★2623](https://github.com/raywenderlich/objective-c-style-guide) A style guide that outlines the coding conventions for raywenderlich.com.
 * [Spotify Objective-C Coding Style ★196](https://github.com/spotify/ios-style) Guidelines for iOS development in use at Spotify.
-* [Swift Style Guide by @raywenderlich ★7452](https://github.com/raywenderlich/swift-style-guide) The official Swift style guide for raywenderlich.com.
+* [Swift Style Guide by @raywenderlich ★7482](https://github.com/raywenderlich/swift-style-guide) The official Swift style guide for raywenderlich.com.
 
 ## PHP
 * [PSR-1: Basic Coding Standard](http://www.php-fig.org/psr/psr-1/)
@@ -191,8 +191,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [aturon](https://aturon.github.io)
 
 ## Swift
-* [GitHub ★4211](https://github.com/github/swift-style-guide)
-* [raywenderlich ★7452](https://github.com/raywenderlich/swift-style-guide)
+* [GitHub ★4226](https://github.com/github/swift-style-guide)
+* [raywenderlich ★7482](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc ★91 ⏳1Y](https://github.com/SlideShareInc/swift-style-guide)
 
 # Non-Code

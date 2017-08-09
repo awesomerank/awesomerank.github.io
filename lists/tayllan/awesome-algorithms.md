@@ -10,7 +10,7 @@ title: Awesome Rank for tayllan/awesome-algorithms
 # Awesome Algorithms
 
 A curated list of awesome places to learn and/or practice algorithms.
-Inspired by [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
+Inspired by [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
 
 If you want to contribute, please read the [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
@@ -104,7 +104,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * Objective-C
     * [by @ EvgenyKarkan ★2235](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
-    * [by @nryoung ★2330](https://github.com/nryoung/algorithms)
+    * [by @nryoung ★2353](https://github.com/nryoung/algorithms)
     * [by @prakhar1989 ★1859](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce ★204](https://github.com/laurentluce/python-algorithms)
     * [by @nelson-brochado](https://github.com/nelson-brochado/ands)

@@ -84,7 +84,7 @@ Other
   - [Paper Polymer Elements](https://elements.polymer-project.org/browse?package=paper-elements) — Paper elements are a set of visual elements that implement Google's Material Design.
   
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness) list.
 
 ## Contributing
 

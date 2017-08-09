@@ -117,7 +117,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
 - [pfff ★2045](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
-- [infer ★7002](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C
+- [infer ★7033](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C
 - [flow ★12825](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
 - [Ocamllint ★55](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
@@ -374,7 +374,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Functory](http://functory.lri.fr/About.html) — A distributed computing library which facilitates distributed execution of parallelizable computations in a seamless fashion.
   - [Rpc.Parallel ★24](https://github.com/janestreet/rpc_parallel) — A library for spawning processes on a cluster of machines, and passing typed messages between them.
   - [Ocamlnet](http://projects.camlcity.org/projects/ocamlnet.html) — An enhanced system platform library. Contains the `netmulticore` library to compute tasks on as many cores of the machine as needed.
-  - [Nproc ★25 ⏳3Y](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
+  - [Nproc ★25 ⏳4Y](https://github.com/MyLifeLabs/nproc) – Process pool implementation for OCaml.
 
 - **Articles**:
   - [What is the state of OCaml's parallelization abilities?](http://stackoverflow.com/questions/6588500/what-is-the-state-of-ocamls-parallelization-abilities)
@@ -488,7 +488,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 * * *
 
-_Inspired by awesome projects line. Discover [more awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
+_Inspired by awesome projects line. Discover [more awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks

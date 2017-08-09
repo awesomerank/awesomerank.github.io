@@ -8,7 +8,7 @@ title: Awesome Rank for h4cc/awesome-elixir
 </p>
 ---
 # Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
-A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php ★16056](https://github.com/ziadoz/awesome-php).
+A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php ★16135](https://github.com/ziadoz/awesome-php).
 
 If you think a package should be added, please add a :+1: (`:+1:`) at the according issue or create a new one.
 
@@ -661,7 +661,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [plug_fprof ★2 ⏳2Y](https://github.com/obmarg/plug_fprof) - A Plug that adds fprof tracing to requests, to allow for easy profiling.
 * [plug_graphql ★119](https://github.com/graphql-elixir/plug_graphql) - Phoenix Plug integration for [GraphQL Elixir](http://graphql-elixir.org/).
 * [plug_heartbeat ★11 ⏳1Y](https://github.com/whatyouhide/plug_heartbeat) - A plug for responding to heartbeat requests.
-* [plug_jwt ★33 ⏳1Y](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
+* [plug_jwt ★33 ⏳2Y](https://github.com/bryanjos/plug_jwt) - Plug for JWT authentication.
 * [plug_rails_cookie_session_store ★64](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 * [plug_redirect_https ★4](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
 * [plug_require_header ★19 ⏳1Y](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
@@ -984,7 +984,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [amnesia ★407](https://github.com/meh/amnesia) - Mnesia wrapper for Elixir.
 * [arbor ★60](https://github.com/coryodaniel/arbor) - Ecto adjacency list and tree traversal.
 * [arc_ecto ★144](https://github.com/stavro/arc_ecto) - Arc.Ecto provides an integration with Arc and Ecto.
-* [atlas ★192 ⏳1Y](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
+* [atlas ★192 ⏳2Y](https://github.com/chrismccord/atlas) - Object Relational Mapper for Elixir.
 * [Bolt.Sips ★59](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir using the Bolt protocol.
 * [boltun ★88](https://github.com/bitgamma/boltun) - Transforms notifications from the Postgres LISTEN/NOTIFY mechanism into callback execution.
 * [cassandra_ecto ★18](https://github.com/vintikzzz/cassandra_ecto) - Ecto adapter for Apache Cassandra.

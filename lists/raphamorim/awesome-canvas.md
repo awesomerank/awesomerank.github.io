@@ -11,7 +11,7 @@ title: Awesome Rank for raphamorim/awesome-canvas
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python ★36876](https://github.com/vinta/awesome-python).
+A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python ★37202](https://github.com/vinta/awesome-python).
 
 ## Contributing
 
@@ -90,7 +90,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
 - [Origami.js ★616](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
-- [Paper.js ★8076](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
+- [Paper.js ★8104](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 - [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback
 - [Processingjs](http://ejohn.org/blog/processingjs/) is a data visualization programming language.
     - [Overview](http://ejohn.org/blog/overview-of-processing/)
@@ -130,7 +130,7 @@ Where to discover more about Canvas.
 ### Twitter
 
 * [@jeresig](https://twitter.com/jeresig) - Creator of [Processing.js ★1772](https://github.com/jeresig/processing-js)
-* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js ★34333](https://github.com/mrdoob/three.js)
+* [@mrdoob](https://twitter.com/mrdoob) - Creator of [three.js ★34521](https://github.com/mrdoob/three.js)
 * [@soulwire](https://twitter.com/soulwire) - Creator of [sketch.js ★2712](https://github.com/soulwire/sketch.js) and actively creating and sharing canvas/WebGL experiments
 * [@spielzeugz](https://twitter.com/spielzeugz) - Actively creating and sharing canvas experiments
 * [@paul_irish](https://twitter.com/paul_irish) - Active contributor and write a [reference post about requestAnimationFrame](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)

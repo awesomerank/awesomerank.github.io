@@ -131,9 +131,9 @@ Often there is no clear differentiation between social media management and anal
 * [Ducksboard](https://ducksboard.com/) - visualize and share the data that matters most to you and your team.
 
 # Other Awesome Lists
-- Other awesome lists [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness).
+- Other awesome lists [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness).
 - Even more lists [awesome ★62884](https://github.com/sindresorhus/awesome).
-- Another list? [list ★4413](https://github.com/jnv/lists).
+- Another list? [list ★4417](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome ★919](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-bigdata ★4971](https://github.com/onurakpolat/awesome-bigdata).
 ---

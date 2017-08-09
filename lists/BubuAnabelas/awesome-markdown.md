@@ -94,8 +94,8 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 ### Python
 
 - [markdown2 ★1360](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python.
-- [Mistune ★964](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature.
-- [Python-Markdown ★1086](https://github.com/waylan/Python-Markdown) - Python implementation of John Gruber's Markdown.
+- [Mistune ★970](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature.
+- [Python-Markdown ★1089](https://github.com/waylan/Python-Markdown) - Python implementation of John Gruber's Markdown.
 
 ### Ruby
 
@@ -124,7 +124,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [Abricotine](http://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [iA Writer](https://ia.net/writer/) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png" title="Android OS" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png" title="iOS Logo" width="24"> <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24">
-- [MarkRight ★873](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [MarkRight ★876](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 
 - [PileMd](https://pilemd.com/) - Markdown Note App. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">

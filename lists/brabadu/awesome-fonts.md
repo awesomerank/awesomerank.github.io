@@ -75,7 +75,7 @@ A curated list of fonts and typography resources.
 * [gh-emoji ★138](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
 * [node-emoji ★322](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 * [megamoji ★151](https://github.com/muan/megamoji) - Making megamojis like a pro
-* [mojibar ★1723](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
+* [mojibar ★1728](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
 * [mojime ★30](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
 * [php-emoji ★958](https://github.com/iamcal/php-emoji) - A PHP Emoji conversion library
 * [twemoji ★6778](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone
@@ -120,13 +120,13 @@ A curated list of fonts and typography resources.
   * [Source Sans Pro ★2011](https://github.com/adobe-fonts/source-sans-pro)
   * [Source Serif Pro ★1188](https://github.com/adobe-fonts/source-serif-pro)
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-* [Codeface ★4055](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
+* [Codeface ★4075](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 * [Fantasque Sans Mono ★3225](https://github.com/belluzj/fantasque-sans)
 * [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
 * [Hack ★9325](https://github.com/chrissimpkins/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
-* [Meslo-Font ★1750 ⏳1Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
+* [Meslo-Font ★1758 ⏳1Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts ★4981](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 
@@ -142,7 +142,7 @@ A curated list of fonts and typography resources.
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [fontkit ★210](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 * [fontmin ★2207](https://github.com/ecomfe/fontmin) - Font minifier
-* [Lettering.js ★4856](https://github.com/davatron5000/Lettering.js)
+* [Lettering.js ★4861](https://github.com/davatron5000/Lettering.js)
 * [localFont ★857 ⏳1Y](https://github.com/jaicab/localFont) - Save fonts in localStorage
 * [opentype.js ★1667](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
 * [Typefont ★1216](https://github.com/Sirvasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
@@ -163,7 +163,7 @@ A curated list of fonts and typography resources.
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [font](https://github.com/Benvie/font) - Extracts metadata from OTF/TTF font files
 * [FontForge ★1528](https://github.com/fontforge/fontforge) - Cross-platform font editor
-* [Powerline Fonts ★8862](https://github.com/powerline/fonts) - Patched fonts for Powerline users
+* [Powerline Fonts ★8947](https://github.com/powerline/fonts) - Patched fonts for Powerline users
 
 ## License
 

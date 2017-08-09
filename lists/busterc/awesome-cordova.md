@@ -48,7 +48,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
 ## Tools
   - Generators
     - App
-      - [generator-angularjs-cordova ★100](https://github.com/keshavos/generator-angularjs-cordova)
+      - [generator-angularjs-cordova ★101](https://github.com/keshavos/generator-angularjs-cordova)
       - [generator-cordova ★140 ⏳3Y](https://github.com/dangeross/generator-cordova)
       - [generator-cordova-react ★1 ⏳1Y](https://github.com/jackong/generator-cordova-react)
       - [generator-cordova-ripple ★0 ⏳2Y](https://github.com/keunlee/generator-cordova-ripple)
@@ -61,14 +61,14 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
       - [cordova-res-builder ★0 ⏳2Y](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators ★36 ⏳1Y](https://github.com/busterc/cordova-resource-generators)
     - Icons
-      - [cordova-icon ★512](https://github.com/AlexDisler/cordova-icon)
-      - [cordova-icon-gm ★3](https://github.com/disusered/cordova-icon-gm)
+      - [cordova-icon ★513](https://github.com/AlexDisler/cordova-icon)
+      - [cordova-icon-gm ★4](https://github.com/disusered/cordova-icon-gm)
       - [cordova-res-builder ★0 ⏳2Y](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators ★36 ⏳1Y](https://github.com/busterc/cordova-resource-generators)
     - Splash Screens
       - [cordova-res-builder ★0 ⏳2Y](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators ★36 ⏳1Y](https://github.com/busterc/cordova-resource-generators)
-      - [cordova-splash ★302](https://github.com/AlexDisler/cordova-splash)
+      - [cordova-splash ★304](https://github.com/AlexDisler/cordova-splash)
       - [cordova-splash-gm ★7 ⏳2Y](https://github.com/disusered/cordova-splash-gm)
     - Plugin
       - [generator-cordova-plugin ★12](https://github.com/lholmquist/generator-cordova-plugin)
@@ -83,7 +83,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     - [Bugfender ★1](https://github.com/bugfender/cordova-plugin-bugfender)
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 Your contributions are always welcome!

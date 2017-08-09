@@ -146,7 +146,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 ### [React.js](https://facebook.github.io/react/) Interface
 - [Brutha ★133](https://github.com/weavejester/brutha) – A simple and functional ClojureScript interface to React.
 - [Om ★6186](https://github.com/omcljs/om) — A powerful interface to React, makes use of its object oriented structures.
-- [Quiescent ★582](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
+- [Quiescent ★582 ⏳1Y](https://github.com/levand/quiescent) — It favors functional style, fully stateless.
 - [re-com ★460](https://github.com/Day8/re-com) – A ClojureScript library of reusable components for Reagent.
 - [Reagent](http://reagent-project.github.io/) — Minimalistic, feature complete.
 - [Rum ★941](https://github.com/tonsky/rum) — Decomplected, extensible, simple.
@@ -192,7 +192,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [atw-om ★40 ⏳2Y](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
 - [Chestnut ★1085](https://github.com/plexus/chestnut) – An Application template for ClojureScript/Om with live reloading.
 - [Clops ★128](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
-- [descjop ★314](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
+- [descjop ★316](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
 - [electron-template ★95 ⏳1Y](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Keechma](http://keechma.com) – Micro frontend framework for ClojureScript and Reagent.

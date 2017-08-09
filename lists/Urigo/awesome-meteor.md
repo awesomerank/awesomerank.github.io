@@ -225,7 +225,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 ## Tooling
 
-* [ESLint-plugin-Meteor ★90](https://github.com/dferber90/eslint-plugin-meteor) - ESLint plugin for Meteor
+* [ESLint-plugin-Meteor ★91](https://github.com/dferber90/eslint-plugin-meteor) - ESLint plugin for Meteor
 
 ## Boilerplate
 
@@ -236,7 +236,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [VulcanJS ★5985](https://github.com/VulcanJS/Vulcan) - A toolkit to quickly build apps with React, GraphQL & Meteor
 * [Microscope ★916](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app
 * [Wekan ★10115](https://github.com/wekan/wekan) - Open source Trello-like kanban
-* [Reaction Commerce ★5172](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor
+* [Reaction Commerce ★5221](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor
 * [Crowducate Platform ★175](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by meteor
 * [Orion CMS](http://orionjs.org/)
 

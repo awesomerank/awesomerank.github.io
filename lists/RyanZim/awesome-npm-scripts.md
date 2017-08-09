@@ -55,15 +55,15 @@ You might also like [awesome-npm ★2490](https://github.com/sindresorhus/awesom
 Tools for running multiple commands or npm scripts in parallel or sequentially.
 
 - [script-runner ★14](https://github.com/paulpflug/script-runner) - Simple task runner with a terse syntax.
-- [npm-run-all ★1164](https://github.com/mysticatea/npm-run-all) - Fully featured task runner.
-- [redrun ★45](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+- [npm-run-all ★1193](https://github.com/mysticatea/npm-run-all) - Fully featured task runner.
+- [redrun ★46](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
 
 ## File Watchers
 
 Tools to watch your source files and run a build command whenever any of the files change.
 
-- [onchange ★269](https://github.com/Qard/onchange) - `onchange <glob> -- <command>`.
-- [watch ★956](https://github.com/mikeal/watch) - `watch <command> <directory>`.
+- [onchange ★273](https://github.com/Qard/onchange) - `onchange <glob> -- <command>`.
+- [watch ★960](https://github.com/mikeal/watch) - `watch <command> <directory>`.
 
 ## Dev Servers
 
@@ -76,10 +76,10 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 - [rimraf ★1811](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
 - [del-cli ★69](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
-- [mkdirp ★1456](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
-- [cpy-cli ★56 ⏳1Y](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
-- [copyfiles ★49](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
-- [sync-files ★13](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
+- [mkdirp ★1460](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
+- [cpy-cli ★57 ⏳1Y](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
+- [copyfiles ★50](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
+- [sync-files ★15](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
 - [echo-cli ★3 ⏳1Y](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support.
 - [clear-cli ★31 ⏳1Y](https://github.com/sindresorhus/clear-cli) - Clear the terminal.
 - [cross-env ★1548](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
@@ -89,7 +89,7 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 
 ### Utility Packs
 
-- [shx ★285](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
+- [shx ★288](https://github.com/shelljs/shx) - Collection of common Unix utilities implemented in Node.js; example usage: `shx rm somefile`.
 
 ## Other Utilities
 
@@ -102,9 +102,9 @@ Utilities to perform common command-line tasks without worrying about cross-plat
 ## Miscellaneous
 
 - [screwy ★81](https://github.com/samueleaton/screwy) - The npm scripts GUI.
-- [Forrest ★185](https://github.com/stefanjudis/forrest) - npm scripts desktop client.
+- [Forrest ★186](https://github.com/stefanjudis/forrest) - npm scripts desktop client.
 - [run-npm ★155](https://github.com/timoxley/npm-run) - Run locally-installed node module executables. Useful for debugging npm scripts.
-- [npm-quick-run ★57](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name.
+- [npm-quick-run ★59](https://github.com/bahmutov/npm-quick-run) - Quickly run npm scripts by prefix without typing the full name.
 - [edit-script ★2](https://github.com/RyanZim/edit-script) - Edit npm scripts from the command line without worrying about JSON escaping.
 
 ## Cross-platform Shell Reference

@@ -13,7 +13,7 @@ title: Awesome Rank for uralbash/awesome-pyramid
 Freenode](https://img.shields.io/badge/irc-freenode-blue.svg)](https://webchat.freenode.net/?channels=pyramid)
 
 A curated list of awesome Pyramid apps, projects and resources. Inspired by and
-based on [awesome-python ★36876](https://github.com/vinta/awesome-python).
+based on [awesome-python ★37202](https://github.com/vinta/awesome-python).
 
 > ### [PloneConf 2017](https://2017.ploneconf.org/) - Barcelona Plone Digital Experience Conference (16~22 Oct. 2017)
 
@@ -111,7 +111,7 @@ based on [awesome-python ★36876](https://github.com/vinta/awesome-python).
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
 * [pyramid_simpleauth ★29 ⏳1Y](https://github.com/thruflo/pyramid_simpleauth) - session
   based authentication and role based security for Pyramid application
-* [Python Social Auth ★2679](https://github.com/omab/python-social-auth) - Social
+* [Python Social Auth ★2682](https://github.com/omab/python-social-auth) - Social
   authentication/registration mechanism with support for a large number of
   [providers ★2680](https://github.com/omab/python-social-auth#auth-providers).
 * [Authomatic ★808](https://github.com/authomatic/authomatic) -  Simple yet powerful
@@ -201,17 +201,17 @@ based on [awesome-python ★36876](https://github.com/vinta/awesome-python).
 
 *Packages that extend the functionality of forms or add new types of forms.*
 
-* [deform ★274](https://github.com/Pylons/deform) - is a Python HTML form generation
+* [deform ★275](https://github.com/Pylons/deform) - is a Python HTML form generation
   library.
 * [colander ★295](https://github.com/Pylons/colander) - A
   serialization/deserialization/validation library for strings, mappings and
   lists.
-* [WTForms ★698](https://github.com/wtforms/wtforms) - is a flexible forms
+* [WTForms ★702](https://github.com/wtforms/wtforms) - is a flexible forms
   validation and rendering library for python web development.
 * [ColanderAlchemy ★55](https://github.com/stefanofontanelli/ColanderAlchemy) -
   helps you to auto-generate Colander schemas that are based on SQLAlchemy
   mapped classes.
-* [marshmallow ★1815](https://github.com/marshmallow-code/marshmallow) - A
+* [marshmallow ★1831](https://github.com/marshmallow-code/marshmallow) - A
   lightweight library for converting complex objects to and from simple Python
   datatypes (i.e. (de)serialization and validation).
 
@@ -225,7 +225,7 @@ based on [awesome-python ★36876](https://github.com/vinta/awesome-python).
 
 *Packages for developing RESTful APIs.*
 
-* [cornice ★306](https://github.com/Cornices/cornice) - provides helpers to
+* [cornice ★307](https://github.com/Cornices/cornice) - provides helpers to
   build & document REST-ish Web Services with Pyramid, with decent default
   behaviors. It takes care of following the HTTP specification in an automated
   way where possible.
@@ -238,7 +238,7 @@ based on [awesome-python ★36876](https://github.com/vinta/awesome-python).
 * [cliquet ★70 ⏳1Y](https://github.com/mozilla-services/cliquet) - Cliquet is a toolkit
   to ease the implementation of HTTP microservices, such as data-driven REST
   APIs.
-* [webargs ★473](https://github.com/sloria/webargs) - A friendly library for parsing
+* [webargs ★475](https://github.com/sloria/webargs) - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
 * [ramses ★273](https://github.com/ramses-tech/ramses) - Generate a RESTful API using
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
@@ -294,7 +294,7 @@ provide new storage backends.*
   pyramid-mongoengine package based on flask-mongoengine
 * [pyramid_mongodb ★39 ⏳3Y](https://github.com/niallo/pyramid_mongodb) - 
   Basic Pyramid Scaffold to easily use MongoDB for persistence with the Pyramid Web framework
-* [pyramid-excel](https://github.com/pyexcel/pyramid-excel) - pyramid-excel is based on [pyexcel ★247](https://github.com/pyexcel/pyexcel) and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
+* [pyramid-excel](https://github.com/pyexcel/pyramid-excel) - pyramid-excel is based on [pyexcel ★253](https://github.com/pyexcel/pyexcel) and makes it easy to consume/produce information stored in excel files over HTTP protocol as well as on file system. This library can turn the excel data into a list of lists, a list of records(dictionaries), dictionaries of lists. And vice versa. Hence it lets you focus on data in Pyramid based web development, instead of file formats.
 
 ## Task Queue
 
@@ -441,7 +441,7 @@ provide new storage backends.*
   SQLAlchemy.
 * [Ptah ★76 ⏳2Y](https://github.com/ptahproject/ptah) - Ptah is a fast, fun, open
   source high-level Python web development environment.
-* [warehouse ★1099](https://github.com/pypa/warehouse) - Warehouse is a next
+* [warehouse ★1111](https://github.com/pypa/warehouse) - Warehouse is a next
   generation Python Package Repository designed to replace the legacy code base
   that currently powers PyPI.
 * [travelcrm](http://www.travelcrm.org.ua/) - TravelCRM is effective free and open source application for the automation of customer relationships for travel agencies at all levels, from small to large networks.

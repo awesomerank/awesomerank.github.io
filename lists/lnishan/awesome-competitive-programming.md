@@ -387,8 +387,8 @@ Learn helpful tips, tutorials and insights from these people :)
 | Algorithms | [tayllan/awesome-algorithms ★2768](https://github.com/tayllan/awesome-algorithms) |
 | Algorithm Visualization | [enjalot/algovis ★715](https://github.com/enjalot/algovis) |
 | Math | [rossant/awesome-math ★805](https://github.com/rossant/awesome-math) |
-| C++ | [fffaraz/awesome-cpp ★8977](https://github.com/fffaraz/awesome-cpp) |
-| Java | [akullpp/awesome-java ★13424](https://github.com/akullpp/awesome-java) |
+| C++ | [fffaraz/awesome-cpp ★9070](https://github.com/fffaraz/awesome-cpp) |
+| Java | [akullpp/awesome-java ★13524](https://github.com/akullpp/awesome-java) |
 | Courses | [prakhar1989/awesome-courses ★20246](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/vhf/free-programming-books) |
 
@@ -397,7 +397,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | --- | --- |
 | [CareerCup](https://www.careercup.com) | The most popular website for software engineering interview preparation. | 
 | [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-play designs which are designed to invoke one's interest in practicing. |
-| [Awesome Interviews ★15575](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
+| [Awesome Interviews ★15687](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
 
 
 ## License

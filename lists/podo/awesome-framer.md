@@ -114,7 +114,7 @@ title: Awesome Rank for podo/awesome-framer
 * [ScaleFrame ★8 ⏳2Y](https://github.com/joshmtucker/ScaleFrame) - Module for Framer to calculate properties of a scaled layer using its new dimensions.
 * [framer-label ★13 ⏳2Y](https://github.com/peteschaffner/framer-label) - Label module with multi-line truncation support for Framer.
 * [framer-equally-rotate-images ★30 ⏳1Y](https://github.com/aboutjax/framer-equally-rotate-images) - Give this module an array of images, and it will rotate them equally around in a circular path.
-* [framer-colour-transition ★8 ⏳1Y](https://github.com/nickmangos/framer-colour-transition) - Framer module that transitions the background colour of a layer.
+* [framer-colour-transition ★8 ⏳2Y](https://github.com/nickmangos/framer-colour-transition) - Framer module that transitions the background colour of a layer.
 * [framer-webview ★18 ⏳2Y](https://github.com/peteschaffner/framer-webview) - Web view module for Framer.
 * [framer-uistatusbar ★3 ⏳2Y](https://github.com/peteschaffner/framer-uistatusbar) - iOS status bar module for Framer.
 * [framer.module.ajax ★20 ⏳1Y](https://github.com/karlerikjonatan/framer.module.ajax) - Ajax module for Framer.

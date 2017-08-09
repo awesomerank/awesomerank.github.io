@@ -39,14 +39,14 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [D3.js](https://d3js.org/) - Allows the user to manipulate documents based on data to render charts in SVG.
 * [dc.js](https://dc-js.github.io/dc.js/) - D3 Library with [crossfilter](http://square.github.io/crossfilter/) support
 * [dygraphs ★2219](https://github.com/danvk/dygraphs) - Interactive zoomable time series charts.
-* [ECharts ★19591](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser.
+* [ECharts ★19763](https://github.com/ecomfe/echarts) - A powerful charting and visualization library for browser.
 * [EJSChart ★23 ⏳1Y](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library.
 * [Graphosaurus ★253](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
 * [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
 * [Plotly ★6647](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
 * [Plottable ★2170](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
 * [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
-* [sigma.js ★7379](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
+* [sigma.js ★7399](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
 * [Smoothie Charts ★1645](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
 * [TauCharts](https://www.taucharts.com/) - Unique syntax that lets the developer describe the data using DSL. Has the ability to create facets.
 * [uvCharts ★228](https://github.com/imaginea/uvCharts) - JavaScript Charting library built using d3.js

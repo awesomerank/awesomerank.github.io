@@ -244,7 +244,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [sangria ★823](https://github.com/sangria-graphql/sangria) - Scala GraphQL client and server library.
 * [sangria-relay ★54](https://github.com/sangria-graphql/sangria-relay) - Sangria Relay Support.
-* [graphql-scala ★5 ⏳1Y](https://github.com/hrosenhorn/graphql-scala) - An attempt to get GraphQL going with Scala.
+* [graphql-scala ★5 ⏳2Y](https://github.com/hrosenhorn/graphql-scala) - An attempt to get GraphQL going with Scala.
 
 <a name="lib-dotnet" />
 
@@ -547,7 +547,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 
 ## Tutorials
 
-* [How to GraphQL](www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more 
+* [How to GraphQL](https://www.howtographql.com) - Fullstack Tutorial Website with Tracks for all Major Frameworks & Languages including React, Apollo, Relay, JavaScript, Ruby, Java, Elixir and many more 
 * [learning-graphql ★624](https://github.com/mugli/learning-graphql) - An attempt to learn GraphQL.
 * [Learn Relay](https://www.learnrelay.org/) - A comprehensive introduction to Relay
 * [Learn Apollo](https://www.learnapollo.com/) - A hands-on tutorial for Apollo GraphQL Client

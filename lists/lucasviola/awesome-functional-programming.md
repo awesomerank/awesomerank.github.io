@@ -99,12 +99,12 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 
 ### Repos
 - [Idris Koans ★113 ⏳1Y](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
-- [Functional Javascript Workshop ★1489](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
+- [Functional Javascript Workshop ★1490](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
 - [J-Bob ★239 ⏳1Y](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 - [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 - [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
-- [Functional Programming In JavaScript ★204](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
-- [Functional Programming Jargon ★9200](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
+- [Functional Programming In JavaScript ★206](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.
+- [Functional Programming Jargon ★9233](https://github.com/hemanth/functional-programming-jargon) - Project for providing a glossary for FP, and make learning FP easier.
 
 ### People
 

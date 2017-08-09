@@ -11,7 +11,7 @@ title: Awesome Rank for jondot/awesome-devenv
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
-Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in turn inspired by [awesome-python ★36876](https://github.com/vinta/awesome-python).
+Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in turn inspired by [awesome-python ★37202](https://github.com/vinta/awesome-python).
 
 ### Contributing
 
@@ -76,13 +76,13 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Data
 *Tools for handling online and offline data*
 
-* [s3cmd ★2317](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
+* [s3cmd ★2322](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
 
 
 ## Diagnostics
 *Tools for checking diagnosing your system while you work*
 
-* [glances ★7706](https://github.com/nicolargo/glances)
+* [glances ★7760](https://github.com/nicolargo/glances)
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
 
 
@@ -176,9 +176,9 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for presenting your work*
 
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
-* [impress.js ★31992](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
+* [impress.js ★32045](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
 * [remark ★6489](https://github.com/gnab/remark) - markdown based presentation on your browser
-* [reveal.js ★35768](https://github.com/hakimel/reveal.js) - markdown based presentation on your browser
+* [reveal.js ★35884](https://github.com/hakimel/reveal.js) - markdown based presentation on your browser
 * [deck.js ★5178](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser
 * [vimdeck ★1069](https://github.com/tybenz/vimdeck) - present inside your Vim
 * [WebSlides](https://github.com/jlantunez/webslides) - Making HTML presentations easy
@@ -188,9 +188,9 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) and other [oh-my-zsh ★57192](https://github.com/robbyrussell/oh-my-zsh) compatible zsh frameworks
 * [fish-shell ★8000](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
-* [oh-my-fish ★2463](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh.
+* [oh-my-fish ★2486](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh.
 * [oh-my-zsh ★57192](https://github.com/robbyrussell/oh-my-zsh) - A community driven framework for managing zsh configuration.
-* [zgen ★772](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
+* [zgen ★773](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
 * [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
 * [shellcheck ★8394](https://github.com/koalaman/shellcheck) - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts
 * [zsh quickstart kit ★111](https://github.com/unixorn/zsh-quickstart-kit) - Quick intro for getting set up with zsh and zgen

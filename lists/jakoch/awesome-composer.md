@@ -13,7 +13,7 @@ title: Awesome Rank for jakoch/awesome-composer
 
 > A curated list of resources for Composer, Packagist, Satis, Plugins, Scripts, Videos, Tutorials.
 
-You might also like [awesome-php ★16056](https://github.com/ziadoz/awesome-php).
+You might also like [awesome-php ★16135](https://github.com/ziadoz/awesome-php).
 
 *Please read the [contribution guidelines](https://github.com/jakoch/awesome-composer/blob/master/contributing.md) before contributing.*
 

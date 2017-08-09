@@ -44,7 +44,7 @@ title: Awesome Rank for weblancaster/awesome-IoT-hybrid
 - [Node Red](http://nodered.org/)
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
-- [Lelylan ★1019](https://github.com/lelylan/lelylan)
+- [Lelylan ★1032](https://github.com/lelylan/lelylan)
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
@@ -53,7 +53,7 @@ title: Awesome Rank for weblancaster/awesome-IoT-hybrid
 
 ## Hybrid Desktop
 
-- [nw.js ★31988](https://github.com/nwjs/nw.js)
+- [nw.js ★32068](https://github.com/nwjs/nw.js)
 - [Electron](https://github.com/atom/electron)
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)

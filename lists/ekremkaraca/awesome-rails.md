@@ -218,7 +218,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 
 ### Notable Awesome Stuffs
 
-- [jnv/lists ★4413](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
+- [jnv/lists ★4417](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub
 - [awesome-ruby ★967](https://github.com/sdogruyol/awesome-ruby)
 - [awesome-rails-gem ★2177](https://github.com/hothero/awesome-rails-gem)
 ---

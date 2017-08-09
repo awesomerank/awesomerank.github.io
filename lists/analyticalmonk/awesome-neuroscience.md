@@ -45,8 +45,8 @@ Software, libraries and frameworks for development purposes.
 - [MNE-Python ★326](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
 - [NiBabel ★145](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.
 - [PsychoPy ★351](https://github.com/psychopy/psychopy) - Package for running psychology and neuroscience experiments. It allows for creating psychology stimuli in Python.
-- [NuPic ★5117](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
-- [Brian2 ★132](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
+- [NuPic ★5133](https://github.com/numenta/nupic) - Numenta Platform for Intelligent Computing is an implementation of Hierarchical Temporal Memory (HTM), a theory of intelligence based strictly on the neuroscience of the neocortex.
+- [Brian2 ★136](https://github.com/brian-team/brian2) - Free, open source simulator for spiking neural networks.
 - [expyriment ★46](https://github.com/expyriment/expyriment) - Platform-independent lightweight Python library for designing and conducting timing-critical behavioural and neuroimaging experiments.
 
 ### Matlab

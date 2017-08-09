@@ -37,7 +37,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [es5-workshop ★2 ⏳3Y](https://github.com/timoxley/es5-workshop) | Introduction to ES5 methods |
 | [expressworks ★528](https://github.com/azat-co/expressworks) | an automated Express.js workshop |
 | [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop) | A step by step guide to building your own footballbot (robotics) |
-| [functional-javascript-workshop ★1489](https://github.com/timoxley/functional-javascript-workshop) | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5. |
+| [functional-javascript-workshop ★1490](https://github.com/timoxley/functional-javascript-workshop) | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5. |
 | [git-it ★1580](https://github.com/jlord/git-it) | A workshopper for learning Git and GitHub. |
 | [goingnative ★299](https://github.com/workshopper/goingnative) | Learn how to write native Node.js addons |
 | [how-to-npm](https://github.com/npm/how-to-npm) | A module to teach you how to module. |
@@ -64,7 +64,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [npm-tutor ★22 ⏳2Y](https://github.com/timoxley/npm-tutor) | npm tutor for nodeconf 2014 |
 | [oobootcamp ★6 ⏳3Y](https://github.com/winsonwq/OOBootcamp.js) | Object-Oriented JavaScript Bootcamp |
 | [planetproto ★196](https://github.com/sporto/planetproto) | Understanding JavaScript Prototypes |
-| [promise-it-wont-hurt ★480](https://github.com/stevekane/promise-it-wont-hurt) | A Workshopper module that teaches you to use promises in javascript |
+| [promise-it-wont-hurt ★481](https://github.com/stevekane/promise-it-wont-hurt) | A Workshopper module that teaches you to use promises in javascript |
 | [secureyournode ★19 ⏳2Y](https://github.com/someoneweird/secureyournode) | Security workshop |
 | [security-adventure ★299 ⏳3Y](https://github.com/toolness/security-adventure) | Go on an educational Web security adventure! |
 | [stream-adventure](https://github.com/substack/stream-adventure) | go on an educational stream adventure! |

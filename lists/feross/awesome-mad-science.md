@@ -22,7 +22,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [brfs](https://www.npmjs.com/package/brfs) - turn `fs.readFileSync()` calls into inlined static assets
 - [browser field spec](https://gist.github.com/defunctzombie/4339901) - replace certain files/modules when a module is bundled for the browser
 - [browserify](https://npmjs.org/package/browserify) - use `require()` in the browser
-- [glslify ★713](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders
+- [glslify ★716](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders
 - [webworkify](https://www.npmjs.com/package/webworkify) - composable web workers for browserify
 
 ## files
@@ -46,7 +46,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [trackingjs](https://trackingjs.com/) - computer vision on the web
 
 ## sound
-- [doppler ★2189](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
+- [doppler ★2190](https://github.com/DanielRapp/doppler) - detect motion with the doppler effect using only the microphone and speakers
 - [speak.js ★229 ⏳1Y](https://github.com/mattytemple/speak-js) - text-to-speech on the web
 
 ## streams
@@ -74,7 +74,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [jsemu ★807](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript
 - [jslinux](https://www.npmjs.com/package/jslinux) - x86 emulator for running Linux, written in JavaScript
 - [jvm](https://www.npmjs.com/package/node-jvm) - java virtual machine in pure node.js
-- [doppio ★1658](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript
+- [doppio ★1665](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript
 
 ## misc
 - [bell.js](https://www.npmjs.com/package/bell.js) - real-time anomalies detection for periodic time series.

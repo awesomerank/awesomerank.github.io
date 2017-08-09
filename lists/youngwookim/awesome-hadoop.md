@@ -44,9 +44,9 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [SpatialHadoop](http://spatialhadoop.cs.umn.edu/) - SpatialHadoop is a MapReduce extension to Apache Hadoop designed specially to work with spatial data. 
 * [GIS Tools for Hadoop](http://esri.github.io/gis-tools-for-hadoop/) - Big Data Spatial Analytics for the Hadoop Framework
 * [Elasticsearch Hadoop ★1051](https://github.com/elastic/elasticsearch-hadoop) - Elasticsearch real-time search and analytics natively integrated with Hadoop. Supports Map/Reduce, Cascading, Apache Hive and Apache Pig.
-* [dumbo ★1005 ⏳1Y](https://github.com/klbostee/dumbo) - Python module that allows you to easily write and run Hadoop programs.
+* [dumbo ★1008 ⏳1Y](https://github.com/klbostee/dumbo) - Python module that allows you to easily write and run Hadoop programs.
 * [hadoopy ★234 ⏳1Y](https://github.com/bwhite/hadoopy) - Python MapReduce library written in Cython. 
-* [mrjob ★2075](https://github.com/Yelp/mrjob) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
+* [mrjob ★2080](https://github.com/Yelp/mrjob) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 * [hdfs-du ★167](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. 
 * [White Elephant ★183 ⏳3Y](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
@@ -67,7 +67,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache HBase](http://hbase.apache.org) - Apache HBase
 * [Apache Phoenix](http://phoenix.apache.org/) - A SQL skin over HBase supporting secondary indices
-* [happybase ★333](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
+* [happybase ★334](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
 * [Hannibal ★154](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
 * [Haeinsa ★138](https://github.com/VCNC/haeinsa) - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
 * [hindex ★419](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase

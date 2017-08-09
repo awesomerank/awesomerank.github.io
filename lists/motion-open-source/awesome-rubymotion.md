@@ -224,9 +224,9 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [RubyMotionQuery - RMQ](http://infinitered.com/rmq) - UI Library for RubyMotion. Fast, non-polluting, & chaining; it’s like jQuery for RubyMotion + stylesheets, animations, events, and more.
 * [MotionPrime](http://prime.droidlabs.pro) - MotionPrime is yet another framework written on RubyMotion for creating really fast iOS applications.
 * [Elevate ★135 ⏳2Y](https://github.com/mattgreen/elevate) - Stop scattering your domain logic across your view controller. Consolidate it to a single conceptual unit with Elevate.
-* [RedPotion ★227](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast.
+* [RedPotion ★226](https://github.com/infinitered/redpotion) - RedPotion combines RMQ, ProMotion, CDQ, AFMotion, and more for the perfect mix to develop in RubyMotion fast.
 * [Motion-support ★136 ⏳1Y](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion.
-* [ProMotion ★1268](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast.
+* [ProMotion ★1266](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast.
 * [ProMotion-XLForm ★21](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm.
 * [ProMotion-form ★21 ⏳1Y](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way.
 * [ProMotion-iap ★19](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion.
@@ -244,7 +244,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### GUI Frameworks
 * [IB ★267 ⏳1Y](https://github.com/rubymotion/ib) - RubyMotion Interface Builder support, including outlets and actions.
-* [Teacup ★641 ⏳3Y](https://github.com/colinta/teacup) - Community-driven DSL for creating user interfaces on the iPhone.
+* [Teacup ★640 ⏳3Y](https://github.com/colinta/teacup) - Community-driven DSL for creating user interfaces on the iPhone.
 * [MotionKit ★327](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem.
 * [Motion-stylez ★3 ⏳3Y](https://github.com/FluffyJack/motion-stylez) - RubyMotion stylesheet library based off RMQ.
 * [Purplish-frame ★2 ⏳1Y](https://github.com/hboon/purplish-frame) - Make working with rects, sizes and points more convenient with RubyMotion for iOS & macOS.
@@ -330,11 +330,11 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Motion-schemes ★27 ⏳4Y](https://github.com/siuying/motion-schemes) - Expand RubyMotion build system to support building multiple apps from one project.
 * [Motion-config-vars](https://github.com/jamescallmebrent/motion-config-vars) - Heroku-style environment configuration for RubyMotion.
 * [Motion-env](https://github.comclayallsopp/motion-env) - Sync ENV variables between Rakefile and RubyMotion.
-* [Motion-my_env ★9 ⏳3Y](https://github.com/ainame/motion-my_env) - Simple environment variable solution for RubyMotion.
+* [Motion-my_env ★9 ⏳4Y](https://github.com/ainame/motion-my_env) - Simple environment variable solution for RubyMotion.
 
 
 ### SaaS API Wrappers
-* [Motionscan ★19 ⏳4Y](https://github.com/jjaffeux/Motionscan) - RubyMotion wrapper around the image recognition SDK of Moodstocks.com.
+* [Motionscan ★18 ⏳4Y](https://github.com/jjaffeux/Motionscan) - RubyMotion wrapper around the image recognition SDK of Moodstocks.com.
 * [Motion-phrase ★11 ⏳1Y](https://github.com/phrase/motion-phrase) - Connect your RubyMotion project with PhraseApp for easy app internationalization. Translatable strings are exported while browsing the app and then manageable through the PhraseApp translation editor.
 * [Purple-monkey ★6 ⏳1Y](https://github.com/hboon/purple-monkey) - Barebones wrapper for working with MailChimp on iOS/macOS using RubyMotion.
 * [Motion-tickspot ★2 ⏳2Y](https://github.com/codelation/motion-tickspot) - RubyMotion wrapper for the http://tickspot.com API that works on iOS and macOS.
@@ -363,7 +363,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Software Design Patterns
 
-* [Motion-pool ★1 ⏳2Y](https://github.com/wooandoo/motion-pool) - Pool for RubyMotion.
+* [Motion-pool ★1 ⏳3Y](https://github.com/wooandoo/motion-pool) - Pool for RubyMotion.
 * [Motion-state-machine ★72 ⏳2Y](https://github.com/opyh/motion-state-machine) - Grand Central-aware, simple syntax for state machines.
 * [Motion-objection ★25 ⏳2Y](https://github.com/atomicobject/motion-objection) - RubyMotion wrapper for Objection.
 * [Weak_attr_accessor ★6 ⏳2Y](https://github.com/hboon/weak_attr_accessor) - Adds weak_attr_accessor that wraps objects with WeakRef, for RubyMotion.

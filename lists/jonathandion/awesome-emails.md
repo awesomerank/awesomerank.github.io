@@ -43,7 +43,7 @@ title: Awesome Rank for jonathandion/awesome-emails
 - [Mailchimp Email Blueprints ★6123 ⏳1Y](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
 - [Responsive Transactional HTML Email Templates ★5493 ⏳1Y](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
-- [Cerberus ★2369](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
+- [Cerberus ★2381](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 - [Antwort ★3231](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
 - [Responsive HTML Template ★513 ⏳1Y](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service

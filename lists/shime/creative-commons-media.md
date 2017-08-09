@@ -91,7 +91,7 @@ Contributions are very welcome!
 
 ## Other awesome lists
 
-* [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness)
+* [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness)
 
 ## License
 

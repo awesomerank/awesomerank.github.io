@@ -65,21 +65,21 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ## Learning Swift
 *Some interesting playgrounds to learn Swift*
 
-* [The Swift Programming Language Playgrounds ★134](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
+* [The Swift Programming Language Playgrounds ★136](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
 * [Swift Hack Pack ★8](https://github.com/GuildSA/swift-hack-pack) - Collection of playgrounds that teaches Swift.
-* [The Swift Summary Book ★1632](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟
-* [Swifter Tips ★79](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language.
-* [About Swift ★23](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language.
+* [The Swift Summary Book ★1634](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟
+* [Swifter Tips ★81](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language.
+* [About Swift ★24](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language.
 * [MPCS51032 UChicago iOS Course ★3](https://github.com/uchicago-mobi/mcps51032-2017-spring-playground) - Playgrounds from the 2017 Spring iOS course of the University of Chicago.
-* [What's new in Swift 4 ★1455](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟 
+* [What's new in Swift 4 ★1469](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟 
 
 ## Learning Swift: Advanced Topics
 *Advanced topics, useful once you have mastered the basics of the language*
 
 * [A Swift Introduction to Core Data ★116](https://github.com/andyshep/CoreDataPlaygrounds) - Learn Core Data experimenting directly in this playground. 🌟
-* [TDDSwiftPlayground ★35](https://github.com/sshrpe/TDDSwiftPlayground) - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.
+* [TDDSwiftPlayground ★37](https://github.com/sshrpe/TDDSwiftPlayground) - Demonstration of using Swift Playgrounds in Test Driven Development with XCTest.
 * [Concurrency on iOS ★26](https://github.com/sammyd/2017AtSwift_Concurrency) - Concurrency and Parallelism in iOS.
-* [Modern Core Data ★9](https://github.com/dfreniche/modern-core-data-playground) - An introduction to Core Data.
+* [Modern Core Data ★10](https://github.com/dfreniche/modern-core-data-playground) - An introduction to Core Data.
 * [Swift DSL Example ★12](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift.
 * [Katan ★13](https://github.com/marciok/katan) - A micro web server that replies "Hello world!" to every request, an example of how to use sockets in Swift.
 * [Swiftly Typed Resources ★73](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with. ⏳
@@ -90,9 +90,9 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### Design Patterns
 
-* [Design Patterns Playground ★13](https://github.com/edopelawi/DesignPatternsPlayground) - Learning GoF's Design Patterns in Swift 3.
+* [Design Patterns Playground ★14](https://github.com/edopelawi/DesignPatternsPlayground) - Learning GoF's Design Patterns in Swift 3.
 * [iOS Design Patterns ★18](https://github.com/haxpor/ios-design-patterns) - Sample projects for MVC, MVP, MVVM, and VIPER.
-* [Design Patterns in Swift ★8357](https://github.com/ochococo/Design-Patterns-In-Swift) - Design patterns in Swift 3.
+* [Design Patterns in Swift ★8388](https://github.com/ochococo/Design-Patterns-In-Swift) - Design patterns in Swift 3.
 * [GOF Swift ★12](https://github.com/SebastianBoldt/GOFSwift) - Learn all 23 Gang of Four patterns using Swift.
 
 ### Protocol Oriented Programming
@@ -130,8 +130,8 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ## Theoretical Computer Science
 
-* [Logician ★101](https://github.com/mdiep/Logician) - Logic programming in Swift. 🌟
-* [Function Composition in Swift ★36](https://github.com/ijoshsmith/function-composition-in-swift) - Exploration of function composition in Swift. 🌟
+* [Logician ★102](https://github.com/mdiep/Logician) - Logic programming in Swift. 🌟
+* [Function Composition in Swift ★37](https://github.com/ijoshsmith/function-composition-in-swift) - Exploration of function composition in Swift. 🌟
 * [Swift Adventures in Monad Land ★159](https://github.com/alskipp/Swift-Adventures-In-Monad-Land) - Learn about monads.
 * [Functional Design Patterns ★3](https://github.com/cmvicentehe/FunctionalProgrammingDesignPatterns) - A few functional programming concept and patterns.
 * [Learn about transducers ★76 ⏳2Y](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers. ⏳ 
@@ -141,7 +141,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Algorithms and Data Structures
 *Algorithms and data structures implemented in Swift*
 
-* [Swift Algorithm Club ★13538](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift with explanations. 🌟
+* [Swift Algorithm Club ★13641](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift with explanations. 🌟
 * [Sorting Experiments ★6](https://github.com/adrfer/Sort) - Alluring experiments with sorting algorithms in Swift, sort of.
 * [Visual Binary Trees ★32](https://github.com/akpw/VisualBinaryTrees) - Effortless visualization of arbitrary Binary Trees, along with their pluggable traversal implementations. 🌟
 * [Emoji Intelligence ★1064](https://github.com/Luubra/EmojiIntelligence) - Neural Network built in Apple Playground using Swift. 🌟  
@@ -161,14 +161,14 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Introduction to Compilers ★178](https://github.com/ahoppen/introduction-to-compilers) - Great introduction to the inner workings of compilers. 🌟
 * [Write your own language: Mu ★1073](https://github.com/marciok/Mu) - A playground explaining how to create a tiny programming language named Mu. 🌟
-* [ASM Swift ★43](https://github.com/NSExceptional/ASM-Swift) - A playground for learning Assembly language through Swift. 🌟
+* [ASM Swift ★45](https://github.com/NSExceptional/ASM-Swift) - A playground for learning Assembly language through Swift. 🌟
 * [Register VM ★3 ⏳1Y](https://github.com/brianhill/register-vm-in-swift) - A register-based VM in a Swift playground. 🌟 ⏳
 * [Turtle Playground ★123 ⏳1Y](https://github.com/dimsumthinking/TurtlePlayground) - A playground with Logo-like commands. 🌟 ⏳
 * [Swift Brainfuck ★8 ⏳3Y](https://github.com/xavieryao/Swift-Brainfuck) - Brainfuck interpreter written in Swift using Playground. ⏳
 
 ### Machine Learning
 
-*[Neural Network Playground ★328](https://github.com/hetelek/Neural-Network-Playground) - A neural network Swift playground, with no third party dependencies. 📱
+*[Neural Network Playground ★332](https://github.com/hetelek/Neural-Network-Playground) - A neural network Swift playground, with no third party dependencies. 📱
 
 ## UIKit And Graphics
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
@@ -182,7 +182,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [WWDC16 Typography ★5](https://github.com/tototti/wwdc16_typography_playground) 🇯🇵 - Draw a logo or any text with the WWDC16 ASCII texture.  
 * [Animated GIF Playground ★1](https://github.com/danielrhammond/GIF-Playground) - Swift playground for generating animated GIFs.
 * [RPClarity ★38 ⏳2Y](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels. ⏳
-* [Swift Clock ★22 ⏳2Y](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground. ⏳
+* [Swift Clock ★23 ⏳2Y](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground. ⏳
 * [WatchKit Asset Playground ★4 ⏳2Y](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps. ⏳
 * [Swift 2.0 Protocol Extension Example ★41 ⏳1Y](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes. ⏳
 * [Tinting ★0 ⏳1Y](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit. ⏳
@@ -192,12 +192,12 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 ### Core Image
 
 * [Interpolation Playground ★37 ⏳1Y](https://github.com/FlexMonkey/Interpolation-Playground-) - Playground demonstrating lerp, smooth step, Catcall-Rom and others! ⏳
-* [CoreImage for Swift Playgrounds ★43](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". 🌟 ⏳
+* [CoreImage for Swift Playgrounds ★44](https://github.com/FlexMonkey/CoreImageForSwiftPlaygrounds) - Growing collection of CoreImage playgrounds from the upcoming book "CoreImage For Swift". 🌟 ⏳
 * [Image Processor ★3](https://github.com/mortenbrudvik/ImageProcessor) - Implementing different image filter algorithms. ⏳
 
 ### Metal
 
-* [Metalbrot ★45](https://github.com/jtbandes/Metalbrot.playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
+* [Metalbrot ★46](https://github.com/jtbandes/Metalbrot.playground) - Interactive playground that draws the Mandelbrot fractal with Metal. 🌟
 * [METAL Playground ★40 ⏳3Y](https://github.com/haawa799/METAL_Playground) - Apple Metal framework playground. 🌟 ⏳
 
 ### Animations
@@ -214,13 +214,13 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [SpriteKit Swift 3 ★6](https://github.com/MacMeDan/SpriteKitCollisions) - Playground for exploring Sprite Kit.
 * [SpriteKit Collisions ★24](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and SpriteKit. ⏳
 * [SceneKit Examples ★11 ⏳2Y](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift. ⏳
-* [SceneKit ARKit Demo ★9](https://github.com/mhanlon/ARKitDemoPlayground) - The Xcode 9 ARKit SpriteKit demo as a playground.📱🍁
+* [SceneKit ARKit Demo ★13](https://github.com/mhanlon/ARKitDemoPlayground) - The Xcode 9 ARKit SpriteKit demo as a playground.📱🍁
 
 
 ## Audio
 *Sounds and music*
 
-* [AudioKit Playground Book ★46](https://github.com/audiokit/AudioKitPlaygroundBook) - A set of playgrounds using AudioKit designed for the iOS10 Playgrounds app. 📱
+* [AudioKit Playground Book ★47](https://github.com/audiokit/AudioKitPlaygroundBook) - A set of playgrounds using AudioKit designed for the iOS10 Playgrounds app. 📱
 * [Bach Playground ★2](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
 * [PlayerNode Playground ★1](https://github.com/genedelisa/PlayerNodePlayground) - Playground using AVAudioEngine with a playernode and effects to play an audio file. 🌟
 
@@ -229,7 +229,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [Lindenmayer Systems ★5](https://github.com/henrinormak/lindenmayer) - A Swift playground exploring Lindemayer systems.
 * [Swift Natural Numbers ★3 ⏳1Y](https://github.com/jakebromberg/Swift-Natural-Numbers) - A playground for implementing the natural numbers and more concepts in number theory.
-* [Numsw ★79](https://github.com/sonsongithub/numsw) - A swift playground book that mimics some of the features of numpy and jupyter notebook. 📱
+* [Numsw ★81](https://github.com/sonsongithub/numsw) - A swift playground book that mimics some of the features of numpy and jupyter notebook. 📱
 * [Geometry with Swift ★1](https://github.com/dbbudd/Geometry-Swift-PlaygroundBook) - Learn the basics of geometry and Swift. 📱
 * [Polydoxical ★0](https://github.com/kirkbyo/Polydoxical) - Interactive playground to experiment with roulettes and polygons.
 * [Abstract Algebra ★37](https://github.com/taketo1024/SwiftyAlgebra) - Abstract algebra concepts implemented in Swift.
@@ -242,21 +242,21 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [AudioKit Playgrounds](http://audiokit.io/playgrounds/) - 130+ Audio synthesis, processing, playback, and analysis playgrounds with AudioKit.
 * [AIToolbox](https://github.com/KevinCoble/AIToolbox/tree/master/Playgrounds) - A set of playgrounds showing machine learning algorithms, all implemented with pieces of the AIToolbox framework code.
-* [Cognitive Service APIs ★20](https://github.com/codePrincess/playgrounds) - Get started with the Microsoft Cognitive Services APIs.
+* [Cognitive Service APIs ★23](https://github.com/codePrincess/playgrounds) - Get started with the Microsoft Cognitive Services APIs.
 * [Rx Playground ★2](https://github.com/sgr-ksmt/RxPlayground) - A playground with RxSwift examples.
 
 ## Playground Sets
 *Sets of playgrounds about various topics*
 
-* [Public Extensions ★201](https://github.com/Jasdev/Public-Extension) - A set of useful extensions from [@PublicExtension](https://twitter.com/publicextension). 🌟
+* [Public Extensions ★202](https://github.com/Jasdev/Public-Extension) - A set of useful extensions from [@PublicExtension](https://twitter.com/publicextension). 🌟
 * [Parks And Recreation ★68](https://github.com/zwaldowski/ParksAndRecreation) - Great collection of interesting playgrounds, for fun and for profit. 🌟
-* [URaimo's Playgrounds ★106](https://github.com/uraimo/Swift-Playgrounds) - My playgrounds, various topics.
+* [URaimo's Playgrounds ★108](https://github.com/uraimo/Swift-Playgrounds) - My playgrounds, various topics.
 * [ManuelCarlos's Playgrouds ★4](https://github.com/manuelCarlos/Swift-Playgrounds) - Various playgrounds.
 * [Sketchytech's Playgrounds ★8 ⏳2Y](https://github.com/sketchytech/SwiftPlaygrounds) - Various Playgrounds. 🌟 ⏳
 * [Swift fun playgrounds ★6 ⏳2Y](https://github.com/madbat/Swift-fun-playgrounds) - A few playgrounds to showcase Swift peculiar features. ⏳
 * [BradLarson's Playgrounds ★19 ⏳2Y](https://github.com/BradLarson/PersonalSwiftPlaygrounds) - Various playgrounds. ⏳
 * [Dmikusa's Playgrounds ★13 ⏳2Y](https://github.com/dmikusa/swift_playgrounds) - Playgrounds that show basic Swift, JSON parsing, sending HTTP requests and basic file IO. ⏳
-* [Cananito's Playgrounds ★1 ⏳1Y](https://github.com/Cananito/Playgrounds) - Various playgrounds. ⏳
+* [Cananito's Playgrounds ★1](https://github.com/Cananito/Playgrounds) - Various playgrounds. ⏳
 * [Mgrebenets's Playgrounds ★4 ⏳1Y](https://github.com/mgrebenets/playgrounds) - Various playgrounds. ⏳
 * [Uberbruns's Playgrounds ★3](https://github.com/uberbruns/SwiftPlaygrounds) - Various playgrounds. ⏳
 
@@ -264,7 +264,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *What doesn't fit anywhere else, but still awesome*
 
 * [Icon Creator ★13](https://github.com/tnantoka/IconCreator) - Create app icons on Swift playground.
-* [2048 Playground ★21](https://github.com/robin/2048_Playground) - The 2048 game implemented with a playground.
+* [2048 Playground ★22](https://github.com/robin/2048_Playground) - The 2048 game implemented with a playground.
 * [SwiftShell ★11](https://github.com/JustinJiaDev/SwiftShell) - Bash shell in a playground.
 * [File Browser Playground ★184](https://github.com/steventroughtonsmith/files-playgroundbook) - Simple File Browser for Swift Playgrounds on iOS.📱
 * [LaunchPad Playground ★0](https://github.com/Juniorlimaivd/LaunchPad-Playground) - A playground that simulates a real LaunchPad for making music.

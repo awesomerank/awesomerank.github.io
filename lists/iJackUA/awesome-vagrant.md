@@ -16,7 +16,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 ## Official resources
 
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
-* [GitHub repo ★14997](https://github.com/mitchellh/vagrant) - source code, issues discussion and collaboration.
+* [GitHub repo ★15060](https://github.com/mitchellh/vagrant) - source code, issues discussion and collaboration.
 
 
 ## Boxes

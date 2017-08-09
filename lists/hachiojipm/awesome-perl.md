@@ -340,7 +340,7 @@ We also recommend these lists.
 
 * [Parallel::ForkManager](https://metacpan.org/pod/Parallel::ForkManager) - A simple parallel processing fork manager
 * [Parallel::Prefork](https://metacpan.org/pod/Parallel::Prefork) - A simple prefork server framework
-* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman ★4374](https://github.com/ddollar/foreman)
+* [Proclet](https://metacpan.org/pod/Proclet) - Minimalistic supervisor, a Perl port of [foreman ★4385](https://github.com/ddollar/foreman)
 
 ## Profiling
 
@@ -505,8 +505,8 @@ We also recommend these lists.
 
 Other amazingly awesome lists can be found in:
 
-* [bayandin/awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness)
-* [emijrp/awesome-awesome ★857](https://github.com/emijrp/awesome-awesome)
+* [bayandin/awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness)
+* [emijrp/awesome-awesome ★866](https://github.com/emijrp/awesome-awesome)
 * [fleveque/awesome-awesomes ★479](https://github.com/fleveque/awesome-awesomes)
 * [sindresorhus/awesome ★62884](https://github.com/sindresorhus/awesome)
 * [t3chnoboy/awesome-awesome-awesome ★919](https://github.com/t3chnoboy/awesome-awesome-awesome)

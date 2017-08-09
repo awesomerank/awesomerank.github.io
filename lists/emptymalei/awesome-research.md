@@ -277,7 +277,7 @@ Before doing the investigation on platforms, just remind yourself:
 These programs are running on the server and can be [hosted using these services](#hosting).
 
 * [Wordpress](https://wordpress.org/) (`PHP`): Very popular but requires a lot of maintenance.
-* [Ghost ★23375](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
+* [Ghost ★23479](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
 * [Pico ★2635](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
 * [Dropplets](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
@@ -445,7 +445,7 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [slides.com](http://slides.com/): Easy to use with remote controlled page presentation.
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
-* [Strut ★1418](https://github.com/tantaman/Strut)
+* [Strut ★1420](https://github.com/tantaman/Strut)
 * [Impressionist ★595 ⏳4Y](https://github.com/harish-io/Impressionist)
 * [hovercraft ★886](https://github.com/regebro/hovercraft)
 
@@ -457,12 +457,12 @@ Requires a few front-end techniques.
 
 #### HTML+CSS+JS
 
-Use [colors ★7493](https://github.com/mrmrs/colors) to make your HTML feels better.
+Use [colors ★7517](https://github.com/mrmrs/colors) to make your HTML feels better.
 
 * [Impress.js](http://impress.github.io/impress.js/): more about it [impress wiki page](https://github.com/impress/impress.js/wiki).
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
-* [Reveal.js ★35768](https://github.com/hakimel/reveal.js)
-* [Beckpoke.js ★4194](https://github.com/bespokejs/bespoke)
+* [Reveal.js ★35884](https://github.com/hakimel/reveal.js)
+* [Beckpoke.js ★4197](https://github.com/bespokejs/bespoke)
 * [CSSS ★1483](https://github.com/LeaVerou/CSSS)
 * [Scrolldeck ★688 ⏳1Y](https://github.com/johnpolacek/scrolldeck.js)
 * [Deck.js ★5178](https://github.com/imakewebthings/deck.js)
@@ -721,9 +721,9 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal ★715](https://github.com/glamp/bashplotlib)
+* [plot in terminal ★716](https://github.com/glamp/bashplotlib)
 * [asciinema](https://asciinema.org/): Command line recording.
-* [bashplot ★715](https://github.com/glamp/bashplotlib): plot in terminal.
+* [bashplot ★716](https://github.com/glamp/bashplotlib): plot in terminal.
 * [fuck ★229 ⏳2Y](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ### Free Multimedia

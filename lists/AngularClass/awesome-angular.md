@@ -636,7 +636,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 #### Babel General Resources
 * [Babel](https://babeljs.io/) Official Website for Babel
 * [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-* [Babel Repository (GitHub) ★21932](https://github.com/babel/babel) Official GitHub Repo for Babel
+* [Babel Repository (GitHub) ★22045](https://github.com/babel/babel) Official GitHub Repo for Babel
 
 #### Babel Angular 2 Online Playground
 * [Plunker: Angular 2 + Babel](http://plnkr.co/edit/PxCzCu?p=preview)

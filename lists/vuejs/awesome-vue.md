@@ -156,7 +156,7 @@ title: Awesome Rank for vuejs/awesome-vue
 
 - [Official Guide](http://vuejs.org/guide/)
 - [API Reference](http://vuejs.org/api/)
-- [GitHub Repo ★61957](https://github.com/vuejs/vue)
+- [GitHub Repo ★62897](https://github.com/vuejs/vue)
 - [Release Notes](https://github.com/vuejs/vue/releases)
 
 ### External Resources
@@ -282,6 +282,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Intro to Vue, repo for Frontend Masters Course ★693](https://github.com/sdras/intro-to-vue)
 - [Vue Guide on CSS-Tricks](https://css-tricks.com/guides/vue/)
 - [Using Typescript in your VueJS app](https://medium.com/coding-blocks/using-typescript-in-your-vue-app-c4aba0bbc8bc)
+- [Vue.js视频系列，免费、入门、实战](http://nodelover.me/courses) on nodelover
 
 ### Examples
 
@@ -382,7 +383,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [npmcharts.com ★44](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
  - [Koel ★7976](https://github.com/phanan/koel) - A personal music streaming server that works.
  - [RSS Reader ★388](https://github.com/mrgodhani/rss-reader) - Simple RSS Reader made using atom electron and vue.js.
- - [Gokotta ★390](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
+ - [Gokotta ★392](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
  - [CoPilot ★1301](https://github.com/misterGF/CoPilot) - An admin portal based on AdminLTE with vue.js integration.
  - [Retrospectify ★19](https://github.com/pepf/retrospectify) - A simple tool for doing collaborative retrospectives in agile teams.
  - [jade-press ★25](https://github.com/jade-press/jade-press) - Cms based on mongodb, nodejs, koa, vue and more.
@@ -407,9 +408,9 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Lulumi-browser ★55](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
  - [vue-wordpress-pwa ★174](https://github.com/bstavroulakis/vue-wordpress-pwa)
  - [OpenAPI 3 viewer ★18](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
-  - [Stacer ★2240](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
+  - [Stacer ★2281](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
   - [Distrochooser.de ★16](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
-  - [Buka ★202](https://github.com/oguzhaninan/Buka) - EBook Management
+  - [Buka ★211](https://github.com/oguzhaninan/Buka) - EBook Management
   - [Docute ★1118](https://github.com/egoist/docute) - A framework for writing documentation without build process
   - [pm86 ★85](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
   - [vms ★683](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
@@ -519,6 +520,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [轮子工厂](http://www.wheelsfactory.cn) - A ui components and libraries sharing website
   - [ابیات ناب پارسی](http://naaab.ir) - A collection of Persian poems
   - [Ripplectron ★3](https://github.com/devjin0617/ripplectron) - Ripple(Blockchain coin) Wallet Desktop client for vue-electron
+  - [PingBreak](https://pingbreak.com) A free and simple website monitoring service using vuejs for real-time dashboard
+  - [Todoist Tribute ★0](https://github.com/rohitpaulk/todoist-tribute) - Todoist clone, written in Rails + Vue
 
 ### Interactive Experiences
 
@@ -675,6 +678,7 @@ Tooltips / popovers
  - [vue-carousel-3d ★218](https://github.com/wlada/vue-carousel-3d) - Vue Carousel 3D - Beautiful, flexible and touch supported 3D Carousel for Vue.js.
  - [vue-carousel ★158](https://github.com/SSENSE/vue-carousel) - A flexible, responsive, touch-friendly carousel for Vue.js.
  - [vue-coverflow ★27](https://github.com/OrangeXC/vue-coverflow) - A vue2.x coverflow component.
+ - [vue-agile ★36](https://github.com/lukaszflorczak/vue-agile) – A carousel component inspired by Slick, written in Vue.js and vanilla JS only.
 
 ### Charts
 
@@ -721,6 +725,7 @@ Tooltips / popovers
  - [vue-aplayer ★122](https://github.com/SevenOutman/vue-aplayer) - A Vue 2.x component of easy-to-config music players with controls.
  - [vue-audio ★40](https://github.com/shershen08/vuejs-sound-player) - audio-tag wrapper; sound player component for Vue 2.x
  - [vue-dplayer](https://github.com/sinchang/vue-dplayer) - A Vue 2.x video player component based on DPlayer.
+ - [vue-canvasvideo ★1](https://github.com/chrishurlburt/vue-canvasvideo) - A Vue 2.x component for video backgrounds and autoplay video on iOS/Safari.
 
 ### Infinite Scroll
 
@@ -916,6 +921,7 @@ Tooltips / popovers
  - [vue-model-autoset ★5](https://github.com/outluch/vue-model-autoset) - A Vue.js plugin to workaround Vue limitation in observing dynamically added properties with v-model directive
  - [vue-submit](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit) - Simple implementation of Ladda ([1](http://lab.hakim.se/ladda/), [2](https://msurguy.github.io/ladda-bootstrap/)) in less than 90 lines of code with no dependencies.
  - [vue-rate ★82](https://github.com/SinanMtl/vue-rate) - Rate component for Vue
+ - [vuetify-google-autocomplete ★1](https://github.com/MadimetjaShika/vuetify-google-autocomplete) - A Vuetify ready Vue.js (2.x) autosuggest component for the Google Maps Places API.
 
 #### Wizard
 
@@ -1249,7 +1255,7 @@ Tooltips / popovers
 
  - [vue-types ★34](https://github.com/dwightjack/vue-types) - Vue Prop Types definitions.
  - [vue-factory ★11](https://github.com/ye-will/vue-factory) - A simple factory/provider extension for Vue.js, like services in Angular.
- - [eslint-plugin-vue ★272](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for vue.js projects.
+ - [eslint-plugin-vue ★288](https://github.com/vuejs/eslint-plugin-vue) - Eslint plugin for vue.js projects.
  - [vue-decorators ★16](https://github.com/partyka95/vue-decorators) - Decorators for VueJS (beta).
 
 ### CSS
@@ -1465,6 +1471,7 @@ Tooltips / popovers
  - [Vuets ★14](https://github.com/AkiraLaine/Vuets) - A Vue, TypeScript ready boilerplate using class-style components, vue plugin options, webpack & vue-cli.
  - [MMF-FE/vue-typescript ★20](https://github.com/MMF-FE/vue-typescript) - A vue2.x typescript template.
  - [Friendly Vue Starter ★11](https://github.com/mcongy/friendly-vue-starter) - A full featured Vue.js starter project with GraphQL support via Apollo-client (Vuex, Vue-router, Vue-i18n, Webpack 3, Eslint, Prettier, ...)
+ - [vue-webpack-typescript ★184](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue 2.2 Webpack 2 and Typescript 2 setup with hot reload, unit testing, code coverage, sass and bundling/minification.
 
 ### Universal
 
@@ -1484,7 +1491,7 @@ Tooltips / popovers
 
 ### Electron
 
- - [Electron Vue ★2535](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+ - [Electron Vue ★2642](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
  - [VuePack ★1757](https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron).
 
 ### Parts

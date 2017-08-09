@@ -16,8 +16,8 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP ★16056](https://github.com/ziadoz/awesome-php)
-- [Awesome Awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness)
+- [Awesome PHP ★16135](https://github.com/ziadoz/awesome-php)
+- [Awesome Awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -432,7 +432,7 @@ Additional lists you might find useful:
 - [CakeFest](http://cakefest.dereuromark.de/) - Demo application around the annual CakePHP Conference "CakeFest".
 - [RealWorld](https://github.com/gothinkster/cakephp-realworld-example-app) - Example CakePHP codebase containing real world examples (CRUD, auth, advanced patterns and more) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) spec and API.
 - [Sandbox](http://sandbox.dereuromark.de) - A sandbox CakePHP application with lots of demos and plugin showcasings.
-- [Query Examples ★50 ⏳2Y](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
+- [Query Examples ★50 ⏳3Y](https://github.com/lorenzo/cakephp3-examples) Advanced query building examples.
 - [Xeta ★50](https://github.com/XetaIO/Xeta) - A resource to help people starting with CakePHP.
 
 # Resources

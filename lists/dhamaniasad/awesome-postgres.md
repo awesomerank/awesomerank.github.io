@@ -76,7 +76,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [Postgres.app](http://postgresapp.com/) - The Easiest Way to Get Started with PostgreSQL on macOS.
 
 ### CLI
-* [pgcli ★5779](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
+* [pgcli ★5790](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting
 * [psql](https://www.postgresql.org/docs/current/static/app-psql.html) - The built-in PostgreSQL CLI client
 * [psql2csv ★86 ⏳1Y](https://github.com/fphilipe/psql2csv) - Run a query in psql and output the result as CSV
 

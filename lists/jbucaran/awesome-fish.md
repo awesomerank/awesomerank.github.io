@@ -29,7 +29,7 @@ To contribute, fork this repository, add your amazing nugget and send us a PR.
 - [Fin ★41](https://github.com/fisherman/fin)
 - [Fundle ★138](https://github.com/tuvistavie/fundle)
 - [Fresco ★4](https://github.com/masa0x80/fresco)
-- [Oh My Fish! ★2463](https://github.com/oh-my-fish/oh-my-fish)
+- [Oh My Fish! ★2486](https://github.com/oh-my-fish/oh-my-fish)
 
 ## Plugins
 - [Bass ★553](https://github.com/edc/bass) - Make Bash utilities usable in fish.

@@ -247,7 +247,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Cloud
 
-* [AWS SDK for Ruby ★2385](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
+* [AWS SDK for Ruby ★2391](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 * [browse-everything](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 * [Fog ★4042](https://github.com/fog/fog) - The Ruby cloud services library.
 
@@ -603,7 +603,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Nokogiri](http://nokogiri.org) - An HTML, XML, SAX, and Reader parser with XPath and CSS selector support.
 * [Oga ★1131](https://github.com/YorickPeterse/oga) - An XML/HTML parser written in Ruby. Oga does not require system libraries such as libxml, making it easier and faster to install on various platforms.
 * [Ox ★558](https://github.com/ohler55/ox) - A fast XML parser and Object marshaller.
-* [ROXML ★178 ⏳1Y](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
+* [ROXML ★178 ⏳2Y](https://github.com/Empact/roxml) - Custom mapping and bidirectional marshalling between Ruby and XML using annotation-style class methods, via Nokogiri or LibXML.
 
 ## HTTP Clients
 
@@ -685,7 +685,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Clipboard ★226](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
 * [Device Detector ★356](https://github.com/podigee/device_detector) - A precise and fast user agent parser and device detector, backed by the largest and most up-to-date user agent database.
 * [Diffy ★860](https://github.com/samg/diffy) - Easy Diffing With Ruby.
-* [Foreman ★4374](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
+* [Foreman ★4385](https://github.com/ddollar/foreman) - Manage Procfile-based applications.
 * [Gollum ★8446](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend.
 * [gon ★2451](https://github.com/gazay/gon) - If you need to send some data to your js files and you don't want to do this with long way through views and parsing - use gon.
 * [Guard ★5393](https://github.com/guard/guard) - A command line tool to easily handle events on file system modifications.
@@ -699,7 +699,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Mobile Development
 
 * [dryrun ★2714](https://github.com/cesarferreira/dryrun) - Try any Android library on your smartphone directly from the command line.
-* [fastlane ★17178](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+* [fastlane ★17330](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 * [Ruboto ★1974](https://github.com/ruboto/ruboto) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries.
 * [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android.
 * [Ruby Push Notifications ★346](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
@@ -713,7 +713,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Music and Sound
 
-* [Sonic Pi ★2218](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
+* [Sonic Pi ★2236](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 
 ## Natural Language Processing
 
@@ -808,7 +808,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [gemdiff ★58](https://github.com/teeparham/gemdiff) - Find source repositories for gems. Open, compare, and update outdated gem versions.
 * Packages and Applications
   * [Berkshelf ★1060](https://github.com/berkshelf/berkshelf) - A Chef Cookbook manager.
-  * [CocoaPods ★9609](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
+  * [CocoaPods ★9651](https://github.com/CocoaPods/CocoaPods) - The Objective-C dependency manager.
   * [fpm ★7914](https://github.com/jordansissel/fpm) - Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.
   * [Linuxbrew](https://github.com/Homebrew/linuxbrew) - A fork of Homebrew for Linux.
   * [Homebrew-cask ★11338](https://github.com/caskroom/homebrew-cask) - A CLI workflow for the administration of Mac applications distributed as binaries.
@@ -881,7 +881,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Resque ★7907](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs.
 * [Que ★1132](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 * [RocketJob](http://rocketjob.io) - Enterprise Batch Processing System focused on performance, scalability, reliability, and visibility of every job in the system. Outgrown existing solutions? Or, start small and scale up later.
-* [Shoryuken ★1007](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
+* [Shoryuken ★1016](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
 * [Sidekiq](http://sidekiq.org) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 * [Sneakers ★1505](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
 * [Sucker Punch ★2114](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
@@ -1134,6 +1134,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Cuba](http://cuba.is) - A microframework for web development.
 * [Hobbit ★256 ⏳1Y](https://github.com/patriciomacadden/hobbit) - A minimalistic microframework built on top of Rack.
 * [Hanami](http://hanamirb.org) - It aims to bring back Object Oriented Programming to web development, leveraging on a stable API, a minimal DSL, and plain objects.
+* [Hyperloop](http://ruby-hyperloop.io/) - A Complete Isomorphic Ruby Framework using React, Rails and Opal
 * [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
 * [Pakyow](http://pakyow.com/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
 * [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.

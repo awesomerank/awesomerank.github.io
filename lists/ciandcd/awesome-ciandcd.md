@@ -246,7 +246,7 @@ Jetty provides a Web server and javax.servlet container, plus support for SPDY, 
 ## OS And Shell
 Linux shell, perl, python  
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
-* [awesome-python ★36876](https://github.com/vinta/awesome-python)  
+* [awesome-python ★37202](https://github.com/vinta/awesome-python)  
 * [awesome-perl ★348](https://github.com/hachiojipm/awesome-perl)  
 * [awesome-sysadmin ★15682](https://github.com/kahun/awesome-sysadmin)  
 
@@ -278,8 +278,8 @@ Conference and submit
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
 * [awesome ★62884](https://github.com/sindresorhus/awesome)  
-* [awesome-awesome ★857](https://github.com/emijrp/awesome-awesome)  
-* [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness)  
+* [awesome-awesome ★866](https://github.com/emijrp/awesome-awesome)  
+* [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin ★5](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)

@@ -9,7 +9,7 @@ title: Awesome Rank for sfischer13/awesome-frege
 ---
 # Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege"> ★2828](https://github.com/Frege/frege)
+[<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege"> ★2831](https://github.com/Frege/frege)
 
 > Useful resources for the [Frege](https://en.wikipedia.org/wiki/Frege_(programming_language)) programming language
 
@@ -65,7 +65,7 @@ You might also like [awesome-haskell ★1167](https://github.com/krispo/awesome-
 
 ### Overview
 
-- [Frege ★2828](https://github.com/Frege/frege) - Official website.
+- [Frege ★2831](https://github.com/Frege/frege) - Official website.
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps

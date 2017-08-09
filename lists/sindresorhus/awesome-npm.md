@@ -41,7 +41,7 @@ You might also like [awesome-nodejs ★18195](https://github.com/sindresorhus/aw
 - [How to use npm as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 - [Install npm packages globally without sudo on macOS and Linux](https://github.com/sindresorhus/guides/blob/master/npm-global-without-sudo.md)
 - [Optimizing the footprint of an npm package](https://medium.com/@goldglovecb/npm-needs-a-personal-trainer-537e0f8859c6)
-- [The Art of Node ★6691](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
+- [The Art of Node ★6714](https://github.com/maxogden/art-of-node#modules) - An introduction to Node.js and client-side development with npm.
 - [Why npm scripts?](https://css-tricks.com/why-npm-scripts/) - An introduction to npm scripts with common packages and scripts, as well as a boilerplate project.
 
 
@@ -74,7 +74,7 @@ You might also like [awesome-nodejs ★18195](https://github.com/sindresorhus/aw
 
 ### CLI
 
-- [zsh-better-npm-completion ★65](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
+- [zsh-better-npm-completion ★66](https://github.com/lukechilds/zsh-better-npm-completion) - Better ZSH completion for npm.
 
 
 ## Packages
@@ -82,15 +82,15 @@ You might also like [awesome-nodejs ★18195](https://github.com/sindresorhus/aw
 ### Publishing
 
 - [np ★2291](https://github.com/sindresorhus/np) - A better `npm publish`.
-- [publish-please ★707](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
+- [publish-please ★706](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
-- [pkgfiles ★50](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
-- [semantic-release ★2743](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
+- [pkgfiles ★49](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
+- [semantic-release ★2772](https://github.com/semantic-release/semantic-release) - Fully automated package publishing.
 
 ### Registry
 
 - [npm-name ★97](https://github.com/sindresorhus/npm-name-cli) - Check whether a package name is available on npm.
-- [package-json ★49](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
+- [package-json ★50](https://github.com/sindresorhus/package-json) - Get the package.json of a package from the npm registry.
 - [latest-version ★26](https://github.com/sindresorhus/latest-version-cli) - Get the latest version of an npm package.
 - [npm-keyword ★29 ⏳1Y](https://github.com/sindresorhus/npm-keyword) - Get a list of npm packages with a certain keyword.
 - [npm-user ★36 ⏳1Y](https://github.com/sindresorhus/npm-user) - Get user info of an npm user.
@@ -99,24 +99,24 @@ You might also like [awesome-nodejs ★18195](https://github.com/sindresorhus/aw
 - [dpn ★23 ⏳1Y](https://github.com/gillstrom/dpn) - Get the dependents of a user's npm packages.
 - [npm-stats ★44 ⏳1Y](https://github.com/hughsk/npm-stats) - Get data from an npm registry.
 - [npm-cli-login ★12](https://github.com/postmanlabs/npm-cli-login) - Log in to npm.
-- [nrm ★707](https://github.com/Pana/nrm) - Registry manager.
-- [npm-register ★244](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
-- [verdaccio ★1054](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
+- [nrm ★723](https://github.com/Pana/nrm) - Registry manager.
+- [npm-register ★247](https://github.com/dickeyxxx/npm-register) - Easy to set up and maintain npm registry and proxy.
+- [verdaccio ★1102](https://github.com/verdaccio/verdaccio) - Lightweight private npm proxy registry.
 
 ### Other
 
 - [npm-home ★53](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [gh-home ★79](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
 - [david ★757](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
-- [npm-check ★3514](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
-- [npm-upgrade ★76](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
+- [npm-check ★3529](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
+- [npm-upgrade ★77](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 - [npm-shrinkwrap ★777](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
-- [npm-windows-upgrade ★1186](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
+- [npm-windows-upgrade ★1190](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
 - [generator-nm ★474](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 - [pkg-up ★29](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
 - [read-pkg-up ★44](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
 - [normalize-package-data ★70](https://github.com/npm/normalize-package-data) - Normalize package metadata.
-- [pkg-conf ★56](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+- [pkg-conf ★57](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 - [npm-run-path ★37](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 - [local-npm](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
 - [npe ★34](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.
@@ -124,19 +124,19 @@ You might also like [awesome-nodejs ★18195](https://github.com/sindresorhus/aw
 - [enpeem-search ★3 ⏳1Y](https://github.com/amovah/enpeem-search) - Search packages by scraping the npm web search.
 - [npm-issues ★46 ⏳1Y](https://github.com/seanzarrin/npm-issues) - Search known issues of all your packages at once.
 - [john ★44](https://github.com/davej/john) - Make npm3's flat dependencies easier to find and sort.
-- [ntl ★383](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
+- [ntl ★384](https://github.com/ruyadorno/ntl) - Interactive CLI menu to list & run npm tasks.
 - [decheck ★8](https://github.com/egoist/decheck) - Explore dependencies of npm packages in the command-line.
 - [shrinkpack ★749](https://github.com/JamieMason/shrinkpack) - Lock down your dependencies and install offline.
-- [redrun ★45](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
-- [package-size ★78](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
+- [redrun ★46](https://github.com/coderaiser/redrun) - Expand scripts from package.json to improve execution speed.
+- [package-size ★84](https://github.com/egoist/package-size) - Get the bundle size of an npm package.
 
 
 ## Clients
 
-- [yarn ★26549](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
-- [npm ★13357](https://github.com/npm/npm) - The official client.
-- [pnpm ★2669](https://github.com/pnpm/pnpm) - Fast, disk space efficient npm installs.
-- [ied ★1939](https://github.com/alexanderGugel/ied) - Faster npm.
+- [yarn ★26697](https://github.com/yarnpkg/yarn) - Fast, reliable, and secure dependency management.
+- [npm ★13431](https://github.com/npm/npm) - The official client.
+- [pnpm ★2685](https://github.com/pnpm/pnpm) - Fast, disk space efficient npm installs.
+- [ied ★1941](https://github.com/alexanderGugel/ied) - Faster npm.
 
 
 ## Tips
@@ -147,7 +147,7 @@ You might also like [awesome-nodejs ★18195](https://github.com/sindresorhus/aw
 $ npm install --global npm
 ```
 
-*[Windows users, read more. ★1186](https://github.com/felixrieseberg/npm-windows-upgrade)*
+*[Windows users, read more. ★1190](https://github.com/felixrieseberg/npm-windows-upgrade)*
 
 ### Command aliases
 
@@ -322,7 +322,7 @@ Great for prototyping, but download the file or use Browserify yourself for prod
 - [Fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
 - [package.json](https://docs.npmjs.com/files/package.json)
 - [npm run script](https://docs.npmjs.com/cli/run-script)
-- [Stats API ★189](https://github.com/npm/download-counts)
+- [Stats API ★190](https://github.com/npm/download-counts)
 
 
 ## Support

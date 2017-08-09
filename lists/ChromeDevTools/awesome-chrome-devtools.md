@@ -15,7 +15,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 
 #### DevTools as an IDE
-- [Chrome DevTools App ★1407 ⏳1Y](https://github.com/auchenberg/chrome-devtools-app) - Standalone app which can inspect various targets.
+- [Chrome DevTools App ★1412 ⏳1Y](https://github.com/auchenberg/chrome-devtools-app) - Standalone app which can inspect various targets.
 - [DevTools Remote ★525](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
 - [DevTools Snippets ★1213](https://github.com/bahmutov/code-snippets) - Collection of snippets.
 
@@ -86,7 +86,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 ### Using DevTools frontend with other targets/platforms
 
 ##### Android
-- [Facebook Stetho ★8138](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools
+- [Facebook Stetho ★8180](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools
 
 ##### ClosureScript
 - [Dirac ★467](https://github.com/binaryage/dirac) - Debugging of ClojsureScript

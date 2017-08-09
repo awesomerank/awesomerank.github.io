@@ -490,12 +490,12 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 
 ## Other Awesome Lists
 
- - Other amazingly awesome lists can be found in the [awesome-awesomeness ★19353](https://github.com/bayandin/awesome-awesomeness) list.
+ - Other amazingly awesome lists can be found in the [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning ★24671](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
- - [lists ★4413](https://github.com/jnv/lists)
+ - [lists ★4417](https://github.com/jnv/lists)
  - [awesome-dataviz ★1093](https://github.com/fasouto/awesome-dataviz)
- - [awesome-python ★36876](https://github.com/vinta/awesome-python)
- - [Data Science IPython Notebooks. ★9756](https://github.com/donnemartin/data-science-ipython-notebooks)
+ - [awesome-python ★37202](https://github.com/vinta/awesome-python)
+ - [Data Science IPython Notebooks. ★9836](https://github.com/donnemartin/data-science-ipython-notebooks)
  - [awesome-r ★2280](https://github.com/qinwf/awesome-R)
  - [awesome-datasets ★19819](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)

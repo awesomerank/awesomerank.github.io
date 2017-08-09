@@ -87,7 +87,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [cloudwatch-sender ★50 ⏳1Y](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
 * [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine ★550](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
 * [gatling ★3111](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
-* [Glances ★7706](https://github.com/nicolargo/glances) - Glances an Eye on your system
+* [Glances ★7760](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [Graphios ★261](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
 * [heapster ★1346](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](https://kubernetes.io/) cluster
 * [heka ★3273](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
@@ -198,7 +198,7 @@ Projects that don't seem to fit in any other category.
 ### Lists of awesome lists that include awesome-influxdb
 
 * [awesome ★62884](https://github.com/sindresorhus/awesome)
-* [lists ★4413](https://github.com/jnv/lists)
+* [lists ★4417](https://github.com/jnv/lists)
 
 ## License
 

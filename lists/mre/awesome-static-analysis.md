@@ -108,7 +108,7 @@ This is a collection of static analysis tools and code quality checkers.
 * [flen ★31 ⏳1Y](https://github.com/lafolle/flen) - Get info on length of functions in a Go package
 * [Go Meta Linter ★1803](https://github.com/alecthomas/gometalinter) - Concurrently run Go lint tools and normalise their output
 * [go vet](https://golang.org/cmd/vet/) - Examines Go source code and reports suspicious constructs
-* [go-staticcheck ★406](https://github.com/dominikh/go-staticcheck) - go vet on steroids, similar to ReSharper for C#
+* [go-staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - go vet on steroids, similar to ReSharper for C#
 * [go/ast](https://golang.org/pkg/go/ast/) - Package ast declares the types used to represent syntax trees for Go packages.
 * [gocyclo ★321](https://github.com/fzipp/gocyclo) - Calculate cyclomatic complexities of functions in Go source code
 * [golint ★1932](https://github.com/golang/lint) - Prints out coding style mistakes in Go source code.
@@ -134,7 +134,7 @@ This is a collection of static analysis tools and code quality checkers.
 * [Checker Framework ★243](https://github.com/typetools/checker-framework) - Pluggable type-checking for Java http://checkerframework.org/
 * [checkstyle ★2193](https://github.com/checkstyle/checkstyle) - checking Java source code for adherence to a Code Standard or set of validation rules (best practices)
 * [ckjm](http://www.spinellis.gr/sw/ckjm/) - calculates Chidamber and Kemerer object-oriented metrics by processing the bytecode of compiled Java files
-* [Error-prone ★2834](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
+* [Error-prone ★2852](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors
 * [fb-contrib ★49](https://github.com/mebigfatguy/fb-contrib) - A plugin for FindBugs with additional bug detectors
 * [Find Security Bugs](https://find-sec-bugs.github.io/) - IDE/SonarQube plugin for security audits of Java web applications.
 * [Findbugs ★359](https://github.com/findbugsproject/findbugs) - FindBugs is a program to find bugs in Java programs. It looks for patterns are likely to be errors.
@@ -148,13 +148,13 @@ This is a collection of static analysis tools and code quality checkers.
 * [coffeelint ★840](https://github.com/clutchski/coffeelint) - A style checker that helps keep CoffeeScript code clean and consistent.
 * [complexity-report](https://github.com/jared-stilwell/complexity-report) - Software complexity analysis for JavaScript projects
 * [escomplex](https://github.com/jared-stilwell/escomplex) - Software complexity analysis of JavaScript-family abstract syntax trees.
-* [eslint ★8218](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
+* [eslint ★8278](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript
 * [Esprima ★3882](https://github.com/jquery/esprima) - ECMAScript parsing infrastructure for multipurpose analysis
 * [flow](https://flow.org/) - A static type checker for JavaScript.
-* [jshint ★7333](https://github.com/jshint/jshint) - detect errors and potential problems in JavaScript code and enforce your team's coding conventions
-* [JSLint ★2991](https://github.com/douglascrockford/JSLint) :copyright: - The JavaScript Code Quality Tool
+* [jshint ★7350](https://github.com/jshint/jshint) - detect errors and potential problems in JavaScript code and enforce your team's coding conventions
+* [JSLint ★2997](https://github.com/douglascrockford/JSLint) :copyright: - The JavaScript Code Quality Tool
 * [plato ★4020](https://github.com/es-analysis/plato) - Visualize JavaScript source complexity
-* [Prettier ★13098](https://github.com/prettier/prettier) - An opinionated code formatter.
+* [Prettier ★13419](https://github.com/prettier/prettier) - An opinionated code formatter.
 * [quality](https://github.com/jden/quality) - zero configuration code and module linting
 * [standard](http://standardjs.com/) - An npm module that checks for Javascript Styleguide issues
 * [XO ★2801](https://github.com/sindresorhus/xo) - Enforce strict code style. Never discuss code style on a pull request again!
@@ -214,7 +214,7 @@ This is a collection of static analysis tools and code quality checkers.
 ## Python
 
 * [bandit ★778](https://github.com/openstack/bandit) - a tool to find common security issues in Python code
-* [jedi ★2758](https://github.com/davidhalter/jedi) - autocompletion/static analysis library for Python
+* [jedi ★2774](https://github.com/davidhalter/jedi) - autocompletion/static analysis library for Python
 * [linty fresh ★126](https://github.com/lyft/linty_fresh) - parse lint errors and report them to Github as comments on a pull request
 * [mccabe ★121](https://github.com/PyCQA/mccabe) - check McCabe complexity
 * [mypy ★2770](https://github.com/python/mypy) - an experimental optional static type checker for Python that aims to combine the benefits of dynamic (or "duck") typing and static typing
@@ -300,7 +300,7 @@ Wrappers:
 * [graudit ★186](https://github.com/wireghoul/graudit) - Grep rough audit - source code auditing tool - C/C++, PHP, ASP, C#, Java, Perl, Python, Ruby
 * [Hound CI](https://houndci.com/) - Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift.
 * [imhotep ★200](https://github.com/justinabrahms/imhotep) - Comment on commits coming into your repository and check for syntactic errors and general lint warnings.
-* [Infer ★7002](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C
+* [Infer ★7033](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C
 * [Klocwork](http://www.klocwork.com/products-services/klocwork) :copyright: - Quality and Security Static analysis for  C/C++, Java and C#
 * [oclint ★1875](https://github.com/oclint/oclint) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C
 * [pfff ★2045](https://github.com/facebook/pfff) - Facebook's tools for code analysis, visualizations, or style-preserving source transformation for many languages

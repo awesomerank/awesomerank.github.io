@@ -162,7 +162,7 @@ Discussions and user questions are best done on the
 [vim_use](https://groups.google.com/forum/#!forum/vim_use) mailing list or using
 IRC ([Freenode](https://freenode.net)) in the `#vim` channel.
 
-Development happens on [Github ★9623](https://github.com/vim/vim), discussions on the
+Development happens on [Github ★9708](https://github.com/vim/vim), discussions on the
 [vim_dev](https://groups.google.com/forum/#!forum/vim_dev) mailing list.
 
 Read [Why, oh WHY, do those #?@! nutheads use
@@ -1702,12 +1702,9 @@ include all the things put under a certain directory. You have to clone the
 repositories of the plugins there yourself.
 
 Real plugin managers expose commands that help you to install and update plugins
-from within Vim. Hereinafter is a list of commonly used plugin managers:
+from within Vim.
 
-- [dein ★1365](https://github.com/Shougo/dein.vim)
-- [plug ★8143](https://github.com/junegunn/vim-plug)
-- [vim-addon-manager ★542](https://github.com/MarcWeber/vim-addon-manager)
-- [vundle ★15436](https://github.com/VundleVim/Vundle.vim)
+[List of plugin managers](PLUGINS.md#plugin-managers)
 
 ## Block insert
 

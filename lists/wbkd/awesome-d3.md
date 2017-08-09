@@ -63,7 +63,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [plottablejs](http://plottablejs.org/) - Flexible, interactive charts for the web
 - [pykcharts](http://pykcharts.com/) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart ★294](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
-- [rickshaw ★6074](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
+- [rickshaw ★6075](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](https://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [techanjs](http://techanjs.org/) - A visual, stock charting and technical analysis
@@ -160,9 +160,9 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [comic.js ★106 ⏳1Y](https://github.com/balint42/comic.js) - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
 - [dragit ★152 ⏳1Y](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
 - [d3moji ★99](https://github.com/mathisonian/d3moji) - First class emoji support
-- [d3-cloud ★2159](https://github.com/jasondavies/d3-cloud) - Word clouds
+- [d3-cloud ★2171](https://github.com/jasondavies/d3-cloud) - Word clouds
 - [d3-context-menu ★61](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
-- [d3-force-gravity ★17](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion) using d3-force
+- [d3-force-gravity ★17 ⏳1Y](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion) using d3-force
 - [d3-resume ★23 ⏳2Y](https://github.com/glena/d3-resume) - Resume visualizer
 - [d3.sketchy ★205 ⏳2Y](https://github.com/sebastian-meier/d3.sketchy) - Creates sketchy backgrounds, shapes and lines
 - [d3plus](http://d3plus.org/) - An extension to D3 that allows fast and easy creation of data visualizations

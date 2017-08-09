@@ -11,7 +11,7 @@ title: Awesome Rank for fasouto/awesome-dataviz
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
 
 
-A curated list of awesome data visualizations frameworks, libraries and software. Inspired by [awesome-python ★36876](https://github.com/vinta/awesome-python).
+A curated list of awesome data visualizations frameworks, libraries and software. Inspired by [awesome-python ★37202](https://github.com/vinta/awesome-python).
 
 
 ## Contents
@@ -43,14 +43,14 @@ A curated list of awesome data visualizations frameworks, libraries and software
 ### Charting libraries
 - [Chart.js](http://www.chartjs.org/) - Charts with the canvas tag.
 - [Chartist.js](http://gionkunz.github.io/chartist-js/) - Responsive charts with great browser compatibility.
-- [dc.js ★5764](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
+- [dc.js ★5776](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
 - [Dimple](http://dimplejs.org/) - An object-oriented API for business analytics.
 - [Dygraphs](http://dygraphs.com/) - Interactive line charts library that works with huge datasets.
 - [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper ★669](https://github.com/hustcc/echarts-for-react)
-- [Epoch ★4859](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
+- [Epoch ★4861](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Optimized for time-series data.
-- [NVD3 ★6092](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
-- [Peity ★3846](https://github.com/benpickles/peity) - Create small inline svg charts.
+- [NVD3 ★6104](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
+- [Peity ★3855](https://github.com/benpickles/peity) - Create small inline svg charts.
 - [Plotly.js ★6647](https://github.com/plotly/plotly.js) - Powerful declarative library with support for 20 chart types.
 - [TechanJS](http://techanjs.org/) - Stock and financial charts.
 
@@ -62,7 +62,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ### Maps
 - [CARTO ★1521](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
-- [Cesium ★2353](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
+- [Cesium ★2369](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
 - [DataMaps ★2408](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js.
 - [Leaflet](http://leafletjs.com) - JavaScript library for mobile-friendly interactive maps.
 - [Leaflet Data Visualization Framework ★489](https://github.com/humangeo/leaflet-dvf)  - A framework designed to simplify data visualization and thematic mapping using Leaflet.
@@ -74,7 +74,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ### React
 - [React-vis ★2122](https://github.com/uber/react-vis) - React components to build data visualizations.
-- [Recharts ★6232](https://github.com/recharts/recharts) - Declarative react components to render D3 charts.
+- [Recharts ★6317](https://github.com/recharts/recharts) - Declarative react components to render D3 charts.
 - [Victory](https://formidable.com/open-source/victory/) - Composable components for building interactive data visualizations
 
 ### Misc
@@ -88,7 +88,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 ## Android tools
 - [DecoView ★804](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
 - [MPAndroidChart ★17215](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
-- [WilliamChart ★3236](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
+- [WilliamChart ★3339](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
 
 ## C++ tools
 - [LargeVis ★303](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
@@ -101,7 +101,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ## iOS tools
 - [BEMSimpleLineGraph ★2610](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
-- [Charts ★15260](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
+- [Charts ★15377](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
 - [JBChartView ★3699](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
 - [PNChart ★8694](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
 
@@ -109,7 +109,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-lite.
 - [bokeh](http://bokeh.pydata.org/en/latest/) - Interactive Web Plotting for Python.
 - [diagram ★298](https://github.com/tehmaze/diagram) - Text mode diagrams using UTF-8 characters
-- [ggplot ★3074](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
+- [ggplot ★3082](https://github.com/yhat/ggpy) - plotting system based on [R's](#r-tools) ggplot2.
 - [glumpy ★290](https://github.com/glumpy/glumpy) - OpenGL scientific visualizations library.
 - [holoviews](http://holoviews.org/) - Complex and declarative visualizations from annotated data.
 - [matplotlib](http://matplotlib.org/) - 2D plotting library.

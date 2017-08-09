@@ -36,7 +36,7 @@ Discover more awesome lists at [sindresorhus/awesome ★62884](https://github.co
     - [Elastic honey ★91 ⏳2Y](https://github.com/jordan-wright/elastichoney) - A Simple Elasticsearch Honeypot.
     - [mysql ★10 ⏳4Y](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage.
     - [NoSQLpot ★80](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
-    - [ESPot ★6 ⏳2Y](https://github.com/mycert/ESPot) - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
+    - [ESPot ★6 ⏳3Y](https://github.com/mycert/ESPot) - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     - [Delilah ★25 ⏳2Y](https://github.com/Novetta/delilah) - An Elasticsearch Honeypot written in Python.
 
 - Web honeypots
