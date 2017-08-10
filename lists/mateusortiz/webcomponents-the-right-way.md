@@ -9,7 +9,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 ---
 # Web Components the Right Way
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > This is a guide intended to introduce to Web Components. Everyone can contribute here!
 

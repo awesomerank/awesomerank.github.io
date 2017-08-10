@@ -7,9 +7,9 @@ title: Awesome Rank for ibaaj/awesome-OpenSourcePhotography
 	This list is a copy of <a href="https://github.com/ibaaj/awesome-OpenSourcePhotography">ibaaj/awesome-OpenSourcePhotography</a> with ranks
 </p>
 ---
-#Awesome-OpenSourcePhotography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+#Awesome-OpenSourcePhotography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
-A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome ★62884](https://github.com/sindresorhus/awesome).
+A list of awesome free open source software & libraries for photography. Also tools for video. For more awesomeness, check out [awesome ★63395](https://github.com/sindresorhus/awesome).
 
 
 - [General](#general)
@@ -104,7 +104,7 @@ A list of awesome free open source software & libraries for photography. Also to
 - [DigiKam/ShowFoto](http://www.digikam.org/drupal/about?q=about/overview) - *Open Source Photo manager for KDE/Gnome desktop.*
 - [GPhoto](http://www.gphoto.org/) - *A program and library framework that lets users download pictures from their digital cameras.*
 - [Lychee](http://lychee.electerious.com/) - *A great looking and easy-to-use photo-management-system you can run on your server, to manage and share photos.*
-- [Simple Gallery ★186](https://github.com/SimpleMobileTools/Simple-Gallery) - *A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.*
+- [Simple Gallery ★190](https://github.com/SimpleMobileTools/Simple-Gallery) - *A Android gallery app for viewing photos and videos similar to android stock gallery with support for file copy/move/rename/delete/share.*
 - [Leaf Pic ★1725](https://github.com/HoraApps/LeafPic) - *material-designed android gallery alternative.*
 - [A Photo Manager ★59](https://github.com/k3b/APhotoManager) - *Manage local photos on Android: gallery, geotag with photomap, tags, find, sort, view, copy, delete, send,...*
 ## EXIF Editors

@@ -356,7 +356,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * Node.js:
     * [Bower](https://bower.io/) - Useful package manager optimized for the front-end.
-    * [Cheerio ★12917](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
+    * [Cheerio ★12983](https://github.com/cheeriojs/cheerio) - Fast, flexible, and lean implementation of core jQuery designed specifically for the server.
 * PHP:
     * [PHP front end setup without Node](https://www.sitepoint.com/look-ma-no-nodejs-a-php-front-end-workflow-without-node/) - Tutorial how to combine BowerPHP, Mini-Asset and Robo.li into a PHP front end asset building pipeline.
     * [symfony-collection ★204](https://github.com/ninsuo/symfony-collection) - jQuery Plugin that manages adding, deleting and moving elements from a Symfony2 collection.
@@ -390,10 +390,10 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 ## Looking for more lists like this?
 
 * Awesome lists:
-    * [awesome ★62884](https://github.com/sindresorhus/awesome) - Awesome lists
+    * [awesome ★63395](https://github.com/sindresorhus/awesome) - Awesome lists
     * [awesome-all ★91](https://github.com/bradoyler/awesome-all) - Awesome lists
     * [emijrp/awesome-awesome ★866](https://github.com/emijrp/awesome-awesome) - Awesome lists
-    * [erichs/awesome-awesome ★117](https://github.com/erichs/awesome-awesome) - Awesome lists
+    * [erichs/awesome-awesome ★120](https://github.com/erichs/awesome-awesome) - Awesome lists
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - Awesome lists
     * [lists ★4417](https://github.com/jnv/lists) - Awesome lists
 * [awesome-javascript ★11806](https://github.com/sorrycc/awesome-javascript) - Awesome JavaScript list

@@ -9,9 +9,9 @@ title: Awesome Rank for ungoldman/awesome-browserify
 ---
 <div align="center"><img src="browserify.png" alt="Browserify!"></div>
 
-# Awesome Browserify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Browserify [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
-> :crystal_ball: A curated list of awesome [Browserify ★11219](https://github.com/substack/node-browserify) resources, libraries, and tools.
+> :crystal_ball: A curated list of awesome [Browserify ★11239](https://github.com/substack/node-browserify) resources, libraries, and tools.
 
 Please help improve this list by [contributing](https://github.com/ungoldman/awesome-browserify/blob/master/contributing.md)!
 
@@ -42,8 +42,8 @@ You can use a node-style `require()` to organize your browser code and load modu
 ## Official Resources
 
 - [Docs ★11226](https://github.com/substack/node-browserify#usage)
-- [Handbook ★4093](https://github.com/substack/browserify-handbook)
-- [Repo ★11219](https://github.com/substack/node-browserify)
+- [Handbook ★4096](https://github.com/substack/browserify-handbook)
+- [Repo ★11239](https://github.com/substack/node-browserify)
 - [Website](http://browserify.org/)
 
 ## Community Resources

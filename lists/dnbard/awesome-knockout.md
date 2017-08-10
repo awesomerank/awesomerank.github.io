@@ -7,7 +7,7 @@ title: Awesome Rank for dnbard/awesome-knockout
 	This list is a copy of <a href="https://github.com/dnbard/awesome-knockout">dnbard/awesome-knockout</a> with ranks
 </p>
 ---
-# Awesome Knockout [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Knockout [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com/).
 
 ## Frameworks

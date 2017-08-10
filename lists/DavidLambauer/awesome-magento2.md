@@ -7,7 +7,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 	This list is a copy of <a href="https://github.com/DavidLambauer/awesome-magento2">DavidLambauer/awesome-magento2</a> with ranks
 </p>
 ---
-# Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/DavidLambauer/awesome-magento2.svg?branch=master)](https://travis-ci.org/DavidLambauer/awesome-magento2)
+# Awesome Magento 2 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/DavidLambauer/awesome-magento2.svg?branch=master)](https://travis-ci.org/DavidLambauer/awesome-magento2)
 
 <h1 align="center">
 	<br>
@@ -68,6 +68,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [m2install ★27](https://github.com/yvoronoy/m2install) - Magento 2 Bash Install/Restore Script
 - [Magento 2 Configurator ★51](https://github.com/ctidigital/magento2-configurator) - A Magento module initially created by CTI Digital to create and maintain database variables using files.
 - [Magento Collect ★10](https://github.com/bobvanluijt/magento-collect) - A Polymer e-commerce element for Magento 2.
+- [Auto Cache Flush ★4](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 
 ### Deployment
 

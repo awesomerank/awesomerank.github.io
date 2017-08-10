@@ -7,7 +7,7 @@ title: Awesome Rank for roaldnefs/awesome-prometheus
 	This list is a copy of <a href="https://github.com/roaldnefs/awesome-prometheus">roaldnefs/awesome-prometheus</a> with ranks
 </p>
 ---
-# Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Prometheus resources, projects and tools.
 
@@ -30,7 +30,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Official resources
 
 * [Website](https://prometheus.io/) - Official Prometheus project website.
-* [GitHub repository ★10809](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
+* [GitHub repository ★10985](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 * [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 * [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 

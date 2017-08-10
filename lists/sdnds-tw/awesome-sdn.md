@@ -7,7 +7,7 @@ title: Awesome Rank for sdnds-tw/awesome-sdn
 	This list is a copy of <a href="https://github.com/sdnds-tw/awesome-sdn">sdnds-tw/awesome-sdn</a> with ranks
 </p>
 ---
-# Awesome SDN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sdnds-tw/awesome-sdn.svg?branch=master)](https://travis-ci.org/sdnds-tw/awesome-sdn)
+# Awesome SDN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sdnds-tw/awesome-sdn.svg?branch=master)](https://travis-ci.org/sdnds-tw/awesome-sdn)
 
 An awesome list about Software Defined Networks (SDN)
 
@@ -144,7 +144,7 @@ protocol, based on Twisted.
 - [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
 - [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
 - [bgp4r ★20](https://github.com/jesnault/bgp4r)
-- [gobgp ★996](https://github.com/osrg/gobgp)
+- [gobgp ★1006](https://github.com/osrg/gobgp)
 - [yabgp ★80](https://github.com/smartbgp/yabgp)
 
 # Misc

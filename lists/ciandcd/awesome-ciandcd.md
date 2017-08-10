@@ -7,7 +7,7 @@ title: Awesome Rank for ciandcd/awesome-ciandcd
 	This list is a copy of <a href="https://github.com/ciandcd/awesome-ciandcd">ciandcd/awesome-ciandcd</a> with ranks
 </p>
 ---
-# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
 
@@ -206,7 +206,7 @@ The tools for software package and installation
 * [NSIS](http://nsis.sourceforge.net/Main_Page)  NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution  
 * [rpm](http://rpm.org)  The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages  
 * [yum](http://yum.baseurl.org)  Yum is an automatic updater and package installer/remover for rpm systems  
-* [fpm ★7914](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
+* [fpm ★7940](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
 * [wix](http://wixtoolset.org/) The most powerful set of tools available to create your Windows installation experience.  
 * [packer](https://www.packer.io/)  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.  
 
@@ -247,7 +247,7 @@ Jetty provides a Web server and javax.servlet container, plus support for SPDY, 
 Linux shell, perl, python  
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
 * [awesome-python ★37202](https://github.com/vinta/awesome-python)  
-* [awesome-perl ★348](https://github.com/hachiojipm/awesome-perl)  
+* [awesome-perl ★350](https://github.com/hachiojipm/awesome-perl)  
 * [awesome-sysadmin ★15682](https://github.com/kahun/awesome-sysadmin)  
 
 ## Applications And Container
@@ -277,7 +277,7 @@ Conference and submit
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
-* [awesome ★62884](https://github.com/sindresorhus/awesome)  
+* [awesome ★63395](https://github.com/sindresorhus/awesome)  
 * [awesome-awesome ★866](https://github.com/emijrp/awesome-awesome)  
 * [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin ★5](https://github.com/itech001/awesome-sysadmin)  

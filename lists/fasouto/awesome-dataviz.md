@@ -8,7 +8,7 @@ title: Awesome Rank for fasouto/awesome-dataviz
 </p>
 ---
 # Awesome dataviz 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
 
 
 A curated list of awesome data visualizations frameworks, libraries and software. Inspired by [awesome-python ★37202](https://github.com/vinta/awesome-python).
@@ -87,7 +87,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ## Android tools
 - [DecoView ★804](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
-- [MPAndroidChart ★17215](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
+- [MPAndroidChart ★17378](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
 - [WilliamChart ★3339](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
 
 ## C++ tools
@@ -96,14 +96,14 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [Visualization Toolkit (VTK)](https://gitlab.kitware.com/vtk/vtk/blob/master/README.md) - open-source library for 3d Graphics, image processing and visualization.
 
 ## Golang tools
-- [svgo ★893](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
+- [svgo ★898](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation.
 
 
 ## iOS tools
-- [BEMSimpleLineGraph ★2610](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
+- [BEMSimpleLineGraph ★2615](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
 - [Charts ★15377](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
-- [JBChartView ★3699](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
-- [PNChart ★8694](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
+- [JBChartView ★3704](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
+- [PNChart ★8719](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
 
 ## Python tools
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-lite.
@@ -125,7 +125,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [ggplot2](http://ggplot2.org/) - A plotting system based on the grammar of graphics.
 - [ggvis](http://ggvis.rstudio.com/) - A data visualization package with a syntax similar to ggplot2 which allows you to create rich interactive graphics.
 - [lattice](http://lattice.r-forge.r-project.org) - trellis graphics for R
-- [plotly ★985](https://github.com/ropensci/plotly) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
+- [plotly ★988](https://github.com/ropensci/plotly) - Interactive charts (including adding interactivity to ggplot2 output), cartograms and simple network diagrams
 - [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to Bokeh.
 - [rgl](https://cran.r-project.org/web/packages/rgl/index.html) - 3D Visualization Using OpenGL
 - [shiny](http://shiny.rstudio.com) - Framework for creating interactive applications/visualisations
@@ -138,7 +138,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 Tools that are not tied to a particular platform or language.
 - [Charted ★2660](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
 - [Circos](http://circos.ca) - Visualizes data in a circular layout, ideal for exploring relationships between objects or positions. [Mirror on github ★1](https://github.com/node/circos).
-- [Gephi ★2153](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
+- [Gephi ★2168](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 - [Lightning](http://lightning-viz.org/) - A data-visualization server providing API-based access to reproducible, web-based, interactive visualizations.
 - [RAW](http://rawgraphs.io) - Create web visualizations from CSV or Excel files.
 - [Spark ★4851](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).

@@ -7,7 +7,7 @@ title: Awesome Rank for BubuAnabelas/awesome-markdown
 	This list is a copy of <a href="https://github.com/BubuAnabelas/awesome-markdown">BubuAnabelas/awesome-markdown</a> with ranks
 </p>
 ---
-# Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" align="right" width="208">
@@ -77,7 +77,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 ### JavaScript
 
 - [marked ★13555](https://github.com/chjj/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed.
-- [markdown-it ★3829](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
+- [markdown-it ★3860](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
 - [markdown-js ★6069](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript.
 - [Showdown ★5169](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber.
 - [Snarkdown ★532](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
@@ -88,8 +88,8 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 ### PHP
 
-- [parsedown ★4508](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP.
-- [php-markdown ★2465](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
+- [parsedown ★4521](https://github.com/erusev/parsedown) - Better Markdown Parser in PHP.
+- [php-markdown ★2467](https://github.com/michelf/php-markdown) - Parser for Markdown and Markdown Extra derived from the original Markdown.pl by John Gruber.
 
 ### Python
 
@@ -99,8 +99,8 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 ### Ruby
 
-- [kramdown ★1106](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
-- [Redcarpet ★4000](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn.
+- [kramdown ★1110](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
+- [Redcarpet ★4005](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn.
 
 ## Tools
 
@@ -109,7 +109,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 > Convert Markdown to other formats and vice versa.
 
 - [csvtomd ★353](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
-- [HTML To Markdown for PHP ★603](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
+- [HTML To Markdown for PHP ★605](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
 - [to-markdown ★2429](https://github.com/domchristie/to-markdown) - HTML to Markdown converter written in JavaScript.
 - [markdown-pdf ★1050](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 - [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">

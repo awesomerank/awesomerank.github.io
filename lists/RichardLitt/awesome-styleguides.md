@@ -7,7 +7,7 @@ title: Awesome Rank for RichardLitt/awesome-styleguides
 	This list is a copy of <a href="https://github.com/RichardLitt/awesome-styleguides">RichardLitt/awesome-styleguides</a> with ranks
 </p>
 ---
-awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 ===================
 
 _:clipboard: A list of styleguides_
@@ -181,11 +181,11 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Ruby
 * [AirBnB ★1855](https://github.com/airbnb/ruby)
-* [bbatsov ★12742](https://github.com/bbatsov/ruby-style-guide)
+* [bbatsov ★12782](https://github.com/bbatsov/ruby-style-guide)
 * [Github](https://github.com/styleguide/ruby) Based on bbatsov style guide
 
 ### Ruby on Rails
-* [bbastov's Ruby on Rails 4 styleguide ★5162](https://github.com/bbatsov/rails-style-guide)
+* [bbastov's Ruby on Rails 4 styleguide ★5174](https://github.com/bbatsov/rails-style-guide)
 
 ## Rust
 * [aturon](https://aturon.github.io)

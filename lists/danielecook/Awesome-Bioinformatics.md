@@ -7,7 +7,7 @@ title: Awesome Rank for danielecook/Awesome-Bioinformatics
 	This list is a copy of <a href="https://github.com/danielecook/Awesome-Bioinformatics">danielecook/Awesome-Bioinformatics</a> with ranks
 </p>
 ---
-Awesome Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+Awesome Bioinformatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 ======================
 
 > Bioinformatics is an interdisciplinary field that develops methods and software tools for understanding biological data. — [Wikipedia](https://en.wikipedia.org/wiki/Bioinformatics)

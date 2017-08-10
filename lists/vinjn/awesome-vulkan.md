@@ -7,7 +7,7 @@ title: Awesome Rank for vinjn/awesome-vulkan
 	This list is a copy of <a href="https://github.com/vinjn/awesome-vulkan">vinjn/awesome-vulkan</a> with ranks
 </p>
 ---
-# Awesome Vulkan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Vulkan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 <img src="https://raw.githubusercontent.com/SaschaWillems/Vulkan/master/images/vulkanlogoscene.png" alt="Vulkan demo scene" height="256px">
 
@@ -152,11 +152,11 @@ drm/kms.
 *  [Cinder ★3184](https://github.com/cinder/Cinder) and [the story](https://libcinder.org/notes/vulkan) [behind](https://forum.libcinder.org/#Topic/23286000002614007). [BSD]
 *  [DemoFramework ★6](https://github.com/NXPmicro/gtec-demo-framework) - NXP GTEC C++11 cross-platform demo framework including lots of samples for Vulkan, OpenGL ES, OpenVX, OpenCL, OpenVG and OpenCV. [[BSD-3-clause](https://github.com/NXPmicro/gtec-demo-framework/blob/master/License.md)]
 *  [openFrameworks ★35](https://github.com/openframeworks-vk/openFrameworks) - the most famouse C++ creative coding framework. [MIT]
-*  [bgfx ★3279](https://github.com/bkaradzic/bgfx) - Cross-platform rendering library, bgfx backend is WIP. [[LICENSE](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
+*  [bgfx ★3306](https://github.com/bkaradzic/bgfx) - Cross-platform rendering library, bgfx backend is WIP. [[LICENSE](https://github.com/bkaradzic/bgfx/blob/master/LICENSE)]
 *  [PowerVR SDK ★214](https://github.com/powervr-graphics/Native_SDK) - C++ cross-platform 3D graphics SDK to speed up development of Vulkan and GLES. [[LICENSE](https://github.com/powervr-graphics/Native_SDK/blob/4.1/LICENSE_POWERVR_SDK.txt)]
-*  [glfw ★2859](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE](https://github.com/glfw/glfw/blob/master/COPYING.txt)]
+*  [glfw ★2875](https://github.com/glfw/glfw) and [the guide](http://www.glfw.org/docs/3.2/vulkan.html).  [[LICENSE](https://github.com/glfw/glfw/blob/master/COPYING.txt)]
 *  [MoltenVK](https://moltengl.com/moltenvk/) - run Vulkan on iOS and macOS. [Non-free]
-*  [imgui ★7547](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
+*  [imgui ★7593](https://github.com/ocornut/imgui) - Immediate Mode Graphical User interface. [MIT]
 *  [libvc ★59 ⏳1Y](https://github.com/alexhultman/libvc) - Vulkan Compute for C++.  [[LICENSE](https://github.com/alexhultman/libvc/blob/master/LICENSE)]
 *  [AMD's Anvil ★274](https://github.com/GPUOpen-LibrariesAndSDKs/Anvil) - cross-platform framework for Vulkan. [[LICENSE](https://github.com/GPUOpen-LibrariesAndSDKs/OutOfOrderRasterization/blob/master/LICENSE.txt)]
     * [Introductory Vulkan sample ★45](https://github.com/GPUOpen-LibrariesAndSDKs/HelloVulkan). [MIT]
@@ -181,7 +181,7 @@ drm/kms.
 *  [Haskell bindings for Vulkan ★38 ⏳1Y](https://github.com/expipiplus1/vulkan) - [[LICENSE](https://github.com/expipiplus1/vulkan/blob/master/LICENSE)]
 *  [Vulkan-hpp ★822](https://github.com/KhronosGroup/Vulkan-Hpp) Open-Source Vulkan C++ API originated from NVIDIA and [the blog](https://developer.nvidia.com/open-source-vulkan-c-api) about it.
 *  [VulkanSharp ★173](https://github.com/mono/VulkanSharp) - C# bindings for Vulkan. [MIT]
-*  [Vulkano ★894](https://github.com/tomaka/vulkano) - Safe and rich Rust wrapper around the Vulkan API. [MIT]
+*  [Vulkano ★1](https://github.com/tomaka/vulkano) - Safe and rich Rust wrapper around the Vulkan API. [MIT]
 *  [LWJGL](https://www.lwjgl.org/) - Lightweight Java Game Library 3 has Vulkan bindings. [BSD]
 *  [SharpVk ★35](https://github.com/FacticiusVir/SharpVk) - C# bindings for Vulkan with Linq-to-SPIR-V & [NuGet package](https://www.nuget.org/packages/SharpVk). [MIT]
 *  [vulkan ★27](https://github.com/realitix/vulkan) - Ultimate Python bindings for Vulkan generated with CFFI. [Apache Licence 2.0]
@@ -212,7 +212,7 @@ drm/kms.
 *  [Stack Overflow](http://stackoverflow.com/questions/tagged/vulkan)
 
 ## Related lists
-*  [awesome ★62884](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*  [awesome ★63395](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *  [awesome-opengl ★576](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *  [gamedev ★4071](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *  [graphics-resources ★1023](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.

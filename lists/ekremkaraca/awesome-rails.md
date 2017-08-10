@@ -9,7 +9,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 ---
 # AwesomeRails
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome things related to Ruby on Rails (recent changes were inspired by [awesome-vue ★19206](https://github.com/vuejs/awesome-vue))
 
@@ -93,8 +93,8 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [cyberdojo ★221](https://github.com/JonJagger/cyber-dojo) -  Free in-browser coding-dojo [Live](http://cyber-dojo.org)
 - [danbooru ★491](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3 [Live](http://testbooru.donmai.us)
 - [dgi-db ★28](https://github.com/griffithlab/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database
-- [diaspora ★11330](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [Live](https://diasporafoundation.org)
-- [discourse ★22285](https://github.com/discourse/discourse) -A platform for community discussion  [Live](https://try.discourse.org/)
+- [diaspora ★11336](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [Live](https://diasporafoundation.org)
+- [discourse ★22338](https://github.com/discourse/discourse) -A platform for community discussion  [Live](https://try.discourse.org/)
 - [ekylibre ★121](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP [Live](http://ekylibre.org)
 - [encrypt.to ★83](https://github.com/encrypt-to/encrypt.to) - Send encrypted messages by one click  [Live](https://encrypt.to)
 - [eol ★53](https://github.com/EOL/eol) - Encyclopedia of Life  [Live](http://eol.org)
@@ -152,7 +152,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [sharetribe ★1136](https://github.com/sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online [Live](https://www.sharetribe.com)
 - [socify ★234](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails
 - [spokenvote ★42 ⏳1Y](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
-- [Spree ★8595](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
+- [Spree ★8617](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
 - [teambox ★1917 ⏳4Y](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com)
 - [theodinproject ★534](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](https://www.theodinproject.com/)
 - [tracks ★842](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [Live](http://www.getontracks.org)
@@ -206,7 +206,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 
 #### Platforms
 
-- [Nanobox ★983](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io).
+- [Nanobox ★987](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io).
 
 #### Generators
 

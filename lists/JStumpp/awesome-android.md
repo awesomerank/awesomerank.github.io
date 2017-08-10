@@ -7,7 +7,7 @@ title: Awesome Rank for JStumpp/awesome-android
 	This list is a copy of <a href="https://github.com/JStumpp/awesome-android">JStumpp/awesome-android</a> with ranks
 </p>
 ---
-﻿# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+﻿# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 # [<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png"> ★4249](https://github.com/jstumpp/awesome-android)
 
@@ -79,7 +79,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [EazeGraph ★1251](https://github.com/blackfizz/EazeGraph) - Chart and graph library.
 - [WilliamChart ★3339](https://github.com/diogobernardino/WilliamChart) - Chart library with good motion capabilities.
 - [HelloCharts ★4665](https://github.com/lecho/hellocharts-android) - Chart and graph library with support for scaling, scrolling and animations.
-- [MPAndroidChart ★17215](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
+- [MPAndroidChart ★17378](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
 
 ### Cloud Services
 

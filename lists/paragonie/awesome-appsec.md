@@ -7,7 +7,7 @@ title: Awesome Rank for paragonie/awesome-appsec
 	This list is a copy of <a href="https://github.com/paragonie/awesome-appsec">paragonie/awesome-appsec</a> with ranks
 </p>
 ---
-# Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about application security. Contains books,
 websites, blog posts, and self-assessment quizzes.
@@ -506,7 +506,7 @@ If you're confused about cryptography terms, start here.
 
 **Released**: August 2, 2015
 
-Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library ★1243](https://github.com/defuse/php-encryption), or OpenSSL.
+Discusses the importance of end-to-end network-layer encryption (HTTPS) as well as secure encryption for data at rest, then introduces the specific cryptography tools that developers should use for specific use cases, whether they use [libsodium](https://pecl.php.net/package/libsodium), [Defuse Security's secure PHP encryption library ★1251](https://github.com/defuse/php-encryption), or OpenSSL.
 
 ## Books and ebooks
 
@@ -520,15 +520,15 @@ You shouldn't need a Ph.D in Applied Cryptography to build a secure web applicat
 
 ## Useful libraries
 
-### [defuse/php-encryption ★1243](https://github.com/defuse/php-encryption)
+### [defuse/php-encryption ★1251](https://github.com/defuse/php-encryption)
 
 Symmetric-key encryption library for PHP applications. (**Recommended** over rolling your own!)
 
-### [ircmaxell/password_compat ★1871](https://github.com/ircmaxell/password_compat)
+### [ircmaxell/password_compat ★1876](https://github.com/ircmaxell/password_compat)
 
 If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
 
-### [ircmaxell/RandomLib ★612](https://github.com/ircmaxell/RandomLib)
+### [ircmaxell/RandomLib ★615](https://github.com/ircmaxell/RandomLib)
 
 Useful for generating random strings or numbers
 
@@ -536,7 +536,7 @@ Useful for generating random strings or numbers
 
 A secure OAuth2 server implementation
 
-### [paragonie/random_compat ★480](https://github.com/paragonie/random_compat)
+### [paragonie/random_compat ★483](https://github.com/paragonie/random_compat)
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
 

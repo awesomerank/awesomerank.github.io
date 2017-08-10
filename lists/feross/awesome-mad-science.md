@@ -7,7 +7,7 @@ title: Awesome Rank for feross/awesome-mad-science
 	This list is a copy of <a href="https://github.com/feross/awesome-mad-science">feross/awesome-mad-science</a> with ranks
 </p>
 ---
-# Awesome Mad Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Mad Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 Delightful npm packages that make you say "wow, didn't know that was possible!" PRs welcome!
 
@@ -67,8 +67,8 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [minimist](https://www.npmjs.com/package/minimist) - simple argument parser
 - [progress](https://www.npmjs.com/package/progress) - create a simple terminal progress bar
 - [terminal-menu](https://www.npmjs.com/package/terminal-menu) - create retro terminal menus
-- [vantage.js ★3320](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node
-- [cash ★7285](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6
+- [vantage.js ★3327](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node
+- [cash ★7312](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6
 
 ## virtual machines
 - [jsemu ★807](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript

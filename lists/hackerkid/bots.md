@@ -13,7 +13,7 @@ title: Awesome Rank for hackerkid/bots
 <br>
 <br>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hackerkid/bots.svg?branch=master)](https://travis-ci.org/hackerkid/bots) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/bots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hackerkid/bots.svg?branch=master)](https://travis-ci.org/hackerkid/bots) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/bots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Table of Contents
 -----------------
@@ -93,7 +93,7 @@ Table of Contents
 * [PHP ★816](https://github.com/irazasyed/telegram-bot-sdk)
 * [Python ★2753](https://github.com/python-telegram-bot/python-telegram-bot)
 * [C#](https://github.com/MrRoundRobin/telegram.bot)
-* [Go ★310](https://github.com/tucnak/telebot)
+* [Go ★313](https://github.com/tucnak/telebot)
 
 ## Bot Stores
 * [ChatBottle](https://chatbottle.co/) - Chatbots Search Engine

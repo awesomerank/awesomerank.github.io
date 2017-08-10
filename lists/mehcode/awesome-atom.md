@@ -7,9 +7,9 @@ title: Awesome Rank for mehcode/awesome-atom
 	This list is a copy of <a href="https://github.com/mehcode/awesome-atom">mehcode/awesome-atom</a> with ranks
 </p>
 ---
-# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome ★62884](https://github.com/sindresorhus/awesome).
+A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome ★63395](https://github.com/sindresorhus/awesome).
 
 ## Table of Content
 

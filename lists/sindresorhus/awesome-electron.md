@@ -7,13 +7,13 @@ title: Awesome Rank for sindresorhus/awesome-electron
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-electron">sindresorhus/awesome-electron</a> with ranks
 </p>
 ---
-# Awesome Electron [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Electron [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](http://electron.atom.io)
 
 > Useful resources for creating apps with [Electron](http://electron.atom.io)
 
-You might also like [awesome-nodejs ★18195](https://github.com/sindresorhus/awesome-nodejs).
+You might also like [awesome-nodejs ★18295](https://github.com/sindresorhus/awesome-nodejs).
 
 
 ## Contents
@@ -277,7 +277,7 @@ Made with Electron.
 - [electron-store ★494](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 - [electron-context-menu ★323](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 - [electron-require ★14 ⏳1Y](https://github.com/brrd/electron-require) - Simplified require.
-- [NeDB ★6858](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
+- [NeDB ★6888](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 - [electron-log ★141](https://github.com/megahertz/electron-log) - Simple logging.
 - [electron-redux ★118](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.
@@ -289,7 +289,7 @@ Made with Electron.
 - [electron-router ★19](https://github.com/m0n0l0c0/electron-router) - Router tidying up IPC message passing.
 - [electron-lets-move ★136](https://github.com/tommoor/electron-lets-move) - Automatically move your app to `/Applications` on macOS.
 - [electron-settings ★243](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
-- [got ★1834](https://github.com/sindresorhus/got) - Simplified HTTP requests.
+- [got ★1844](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled ★69](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 - [electron-process-manager ★29](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux ★1](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.

@@ -79,7 +79,7 @@ Disassembler & Debuggers
 * *[Radare2](http://rada.re)*
 >An open-source complete framework for reverse-engineering and analyzing binaries; composed of a set of small utilities that can be used together or independently from the command line.
 
-* *[Plasma ★2323](https://github.com/plasma-disassembler/plasma)*
+* *[Plasma ★2341](https://github.com/plasma-disassembler/plasma)*
 >Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 
 IDE

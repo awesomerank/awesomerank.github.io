@@ -7,7 +7,7 @@ title: Awesome Rank for eug/awesome-opengl
 	This list is a copy of <a href="https://github.com/eug/awesome-opengl">eug/awesome-opengl</a> with ranks
 </p>
 ---
-# awesome-opengl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# awesome-opengl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 [<img src="https://rawgit.com/eug/awesome-opengl/master/opengl-logo.svg" align="right" width="140">](https://www.opengl.org)
 
 A curated list of awesome OpenGL libraries, debuggers and resources.
@@ -84,7 +84,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 * [GLFW](http://www.glfw.org) - Modern library for creating/interact windows with OpenGL contexts.
 * [GLFM ★104](https://github.com/brackeen/glfm) - Supplies an OpenGL ES context and input events for mobile devices and the web.
 * [glm](http://glm.g-truc.net/0.9.6/index.html) - Mathematics library for graphics software based on the GLSL specifications.
-* [Magnum ★1395](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL.
+* [Magnum ★1396](https://github.com/mosra/magnum) - It is a 2D/3D graphics engine for modern OpenGL.
 * [MathFu](http://google.github.io/mathfu/) - C++ math library developed primarily for games focused on simplicity and efficiency.
 * [Newton](http://newtondynamics.com/forum/newton.php) - It is a cross-platform life-like physics.
 * [OGLplus](http://oglplus.org) - Collection of libraries which implement an object-oriented facade over OpenGL.
@@ -156,7 +156,7 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 ## Related lists
 
 *Similar awesome lists*
-* [awesome ★62884](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+* [awesome ★63395](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
 * [awesome-computer-vision ★2873](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
 * [awesome-webgl ★106](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
 * [awesome-vulkan ★581](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.

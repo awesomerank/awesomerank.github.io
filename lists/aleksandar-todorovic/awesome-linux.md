@@ -371,7 +371,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 * [ranger ★2527](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
 * [screenFetch ★1745](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
 * [shellcheck ★8394](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
-* [speed-test ★1908](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
+* [speed-test ★1917](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.

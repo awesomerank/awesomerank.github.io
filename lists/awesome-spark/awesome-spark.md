@@ -9,7 +9,7 @@ title: Awesome Rank for awesome-spark/awesome-spark
 ---
 [<img src="https://cdn.rawgit.com/awesome-spark/awesome-spark/f78a16db/spark-logo-trademark.svg" align="right">](https://spark.apache.org/)
 
-# Awesome Spark [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Spark [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [Apache Spark](https://spark.apache.org/) packages and resources.
 
@@ -53,7 +53,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Language Bindings
 
 * [Flambo ★518](https://github.com/yieldbot/flambo) - Clojure DSL.
-* [Mobius ★631](https://github.com/Microsoft/Mobius) - C# bindings.
+* [Mobius ★637](https://github.com/Microsoft/Mobius) - C# bindings.
 * [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr).
 
 ### Notebooks and IDEs
@@ -171,7 +171,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 
 ### Projects Using Spark
 
-* [Oryx 2 ★1192](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning.
+* [Oryx 2 ★1199](https://github.com/OryxProject/oryx) - [Lambda architecture](http://lambda-architecture.net/) platform built on Apache Spark and [Apache Kafka](http://kafka.apache.org/) with specialization for real-time large scale machine learning.
 * [Photon ML ★451](https://github.com/linkedin/photon-ml) - A machine learning library supporting classical Generalized Mixed Model and Generalized Additive Mixed Effect Model.
 * [PredictionIO](https://prediction.io/) - Machine Learning server for developers and data scientists to build and deploy predictive applications in a fraction of the time.
 * [Crossdata ★150](https://github.com/Stratio/Crossdata) - Data integration platform with extended DataSource API and multi-user environment.
@@ -209,7 +209,7 @@ Apache Spark, Spark, Apache, and the Spark logo are <a href="https://www.apache.
   <a href="http://www.apache.org">The Apache Software Foundation</a>. This compilation is not endorsed by The Apache Software Foundation.
   
   
-Inspired by [sindresorhus/awesome ★62884](https://github.com/sindresorhus/awesome).
+Inspired by [sindresorhus/awesome ★63395](https://github.com/sindresorhus/awesome).
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/awesome-spark/awesome-spark">awesome-spark/awesome-spark</a> with ranks

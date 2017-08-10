@@ -7,7 +7,7 @@ title: Awesome Rank for deephacks/awesome-jvm
 	This list is a copy of <a href="https://github.com/deephacks/awesome-jvm">deephacks/awesome-jvm</a> with ranks
 </p>
 ---
-# Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome JVM low level and performance related stuff.
 

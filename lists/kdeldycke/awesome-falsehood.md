@@ -7,7 +7,7 @@ title: Awesome Rank for kdeldycke/awesome-falsehood
 	This list is a copy of <a href="https://github.com/kdeldycke/awesome-falsehood">kdeldycke/awesome-falsehood</a> with ranks
 </p>
 ---
-# Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
+# Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
 
 A curated list of awesome falsehoods programmers believe in.
 
@@ -209,10 +209,10 @@ Covers phone numbers, their representation and meaning.
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C# ★166 ⏳1Y](https://github.com/erezak/libphonenumber-csharp),
-[Objective-C ★1672](https://github.com/iziz/libPhoneNumber-iOS),
+[Objective-C ★1674](https://github.com/iziz/libPhoneNumber-iOS),
 [Python ★1579](https://github.com/daviddrysdale/python-phonenumbers),
-[Ruby ★513](https://github.com/sstephenson/global_phone) and
-[PHP ★1923](https://github.com/giggsey/libphonenumber-for-php).
+[Ruby ★515](https://github.com/sstephenson/global_phone) and
+[PHP ★1934](https://github.com/giggsey/libphonenumber-for-php).
 
 
 ## Postal Addresses

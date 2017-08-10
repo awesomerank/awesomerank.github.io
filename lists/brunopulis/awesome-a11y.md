@@ -11,7 +11,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 
 [![Build Status](https://api.travis-ci.org/brunopulis/awesome-a11y.svg?branch=master)](https://travis-ci.org/brunopulis/awesome-a11y)
 [![Join the chat at https://gitter.im/brunopulis/awesome-a11y](https://badges.gitter.im/brunopulis/awesome-a11y.svg)](https://gitter.im/brunopulis/awesome-a11y?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 <img src="a11y.png" />
 
@@ -34,12 +34,23 @@ title: Awesome Rank for brunopulis/awesome-a11y
   - [Contributing](#contributing)
   - [License](#license)
 
+## Levels
+
+| Level | Description |
+| --- | --- |
+|:green_heart:| Basic Level |
+|:large_orange_diamond:| Intermediary Level |
+|:red_circle:| Advanced Level |
+
 
 ## W3C Specification
 
-* [Accessible Rich Internet Applications (WAI-ARIA) 1.0](https://www.w3.org/TR/wai-aria/)
-* [Using ARIA in HTML](https://www.w3.org/TR/aria-in-html/)
-* [Web Content Accessibility Guidelines - WCAG 2.0](https://www.w3.org/TR/WCAG20/)
+| Level | Name | Description |
+| --- | --- | --- |
+|:large_orange_diamond:| [WCAG 2.0](https://www.w3.org/TR/WCAG20/) | Recommendations for making Web content more accessible|
+|:large_orange_diamond:| [WAI ARIA 1.0](https://www.w3.org/TR/wai-aria/) | Framework to improve the accessibility and interoperability of web content and applications |
+|:large_orange_diamond:| [WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/) | Framework to improve the accessibility and interoperability of web content and applications |
+|:green_heart:| [Using ARIA](https://www.w3.org/TR/aria-in-html/) | Practical guide for developers on how to add accessibility infos to HTML |
 
 ----
 
@@ -245,25 +256,30 @@ This is a list, in no particular order, of people to follow that contribute grea
 * Steve Faulkner     [@stevefaulkner](https://twitter.com/stevefaulkner)
 * Ted Drake	[@ted_drake](https://twitter.com/ted_drake)
 
-----
+## :office:  Companies & Organizations
 
-## Companies & Organizations
+| Name | Link |
+| --- | --- |
+| 3play Media	| [@3playmedia](https://twitter.com/3playmedia) |
+| A11Y | [@a11y](https://twitter.com/a11y) |
+| AccessibilityOz | [@AcessibilityOz](https://twitter.com/accessibilityoz) |
+| Acesso para Todos | [Acesso para Todos](https://www.acessoparatodos.com.br/index.php)|
+| A11YProject | [@A11YProject](https://twitter.com/A11YProject) |
+| Deque Systems | [@dequesystems](http://www.deque.com/) |
+| IBMAccess | [@IBMAccess](https://twitter.com/IBMAccess) |
+| Microsoft Access | [@MSFTaccess](https://twitter.com/MSFTaccess) |
+| Paciello Group | [@paciellogroup](https://twitter.com/paciellogroup) |
+| Simply Accessible | [@sateaches](https://twitter.com/sateaches) |
+| WebAxe | [@webaxe](https://twitter.com/webaxe) |
 
-* 3play Media	[@3playmedia](https://twitter.com/3playmedia)
-* A11Y [@a11y](https://twitter.com/a11y)
-* AccessibilityOz [@AcessibilityOz](https://twitter.com/accessibilityoz)
-* A11YProject     [@A11YProject](https://twitter.com/A11YProject)
-* Deque Systems  [@dequesystems](http://www.deque.com/)
-* IBMAccess [@IBMAccess](https://twitter.com/IBMAccess)
-* Microsoft Access	[@MSFTaccess](https://twitter.com/MSFTaccess)
-* Paciello Group [@paciellogroup](https://twitter.com/paciellogroup)
-* Simply Accessible	[@sateaches](https://twitter.com/sateaches)
-* WebAxe [@webaxe](https://twitter.com/webaxe)
 
-----
+## :newspaper: Newsletters 
 
-## Newsletters
-- [Accessibility Weekly](http://a11yweekly.com/)
+
+| Name | Link |
+| --- | --- |
+| Accessibility Weekly | [Accessibility Weekly](http://a11yweekly.com/) |
+ 
 
 ----
 

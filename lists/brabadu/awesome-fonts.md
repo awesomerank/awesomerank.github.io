@@ -7,7 +7,7 @@ title: Awesome Rank for brabadu/awesome-fonts
 	This list is a copy of <a href="https://github.com/brabadu/awesome-fonts">brabadu/awesome-fonts</a> with ranks
 </p>
 ---
-# Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome fonts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 A curated list of fonts and typography resources.
 
 ## Contents
@@ -67,7 +67,7 @@ A curated list of fonts and typography resources.
 * [emojify ★876](https://github.com/mrowa44/emojify) - Emoji on the command line
 * [emojilib ★644](https://github.com/muan/emojilib) - Emoji keyword library
 * [emojillate ★216](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
-* [emojione ★3567](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
+* [emojione ★3574](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
 * [emojistatic ★86 ⏳3Y](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
 * [emojitracker ★534](https://github.com/mroth/emojitracker) - Track ALL the emoji
 * [emojize ★115 ⏳1Y](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
@@ -88,7 +88,7 @@ A curated list of fonts and typography resources.
 * [Font Custom ★3087](https://github.com/FontCustom/fontcustom) - Icon font generator
 * [Font-Awesome](http://fontawesome.io) - The iconic font and CSS toolkit
 * [font-mfizz ★400](https://github.com/fizzed/font-mfizz) - Vector Icons for Technology and Software Geeks
-* [FontAwesomeKit ★2486](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
+* [FontAwesomeKit ★2490](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 * [fontello](http://fontello.com) - Iconic fonts scissors
   * [brandico.font](http://fontello.github.io/brandico.font/demo.html) - Font with logos of social services & messagers
   * [fontelico.font](http://fontello.github.io/fontelico.font/demo.html) - Open Source iconic font from Fontello project

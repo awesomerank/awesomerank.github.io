@@ -7,7 +7,7 @@ title: Awesome Rank for numetriclabz/awesome-db
 	This list is a copy of <a href="https://github.com/numetriclabz/awesome-db">numetriclabz/awesome-db</a> with ranks
 </p>
 ---
-﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 =========
 A curated list of amazingly awesome database libraries, resources and shiny things by [Numetric Technologies](https://www.numetriclabz.com/)
 
@@ -31,7 +31,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 * [Redis ★24612](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes [website](http://redis.io)
 * [redis-nds](https://github.com/mpalmer/redis/tree/nds-2.6) - This is a version of Redis patched to implement NDS (the Naive Disk Store). Documentation on this feature is contained within README.nds.
 * [rethinkdb ★19512](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com
-* [rocksdb ★8255](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
+* [rocksdb ★8303](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
 * [ssdb ★4609](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
 * [tokudb-engine](https://github.com/Tokutek/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
@@ -41,7 +41,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## dot-net
 
-* [RavenDB ★1707](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET http://ayende.com/Blog/
+* [RavenDB ★1709](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET http://ayende.com/Blog/
 * [OrigoDB](http://dev.origodb.com) - An in-memory embedded database engine for NET/Mono
 
 ## Erlang
@@ -51,16 +51,16 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Go-lang
 
-* [bolt ★6677](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
-* [diskv ★466 ⏳1Y](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
+* [bolt ★6693](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
+* [diskv ★467](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
 * [go-cache](https://github.com/pmylund/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 * [goleveldb ★1707](https://github.com/syndtr/goleveldb) - An implementation of the [LevelDB](https://code.google.com/p/leveldb/) key/value database in the Go.
-* [groupcache ★5625](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+* [groupcache ★5639](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-* [ledisdb ★2188](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
+* [ledisdb ★2197](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
 * [roshi ★1885 ⏳1Y](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
 * [skydb.io](https://github.com/skydb/sky) - Sky is an open source database used for flexible, high performance analysis of behavioral data.
-* [tiedot ★1876](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
+* [tiedot ★1883](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
 
 
 

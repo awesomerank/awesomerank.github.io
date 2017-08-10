@@ -7,7 +7,7 @@ title: Awesome Rank for jondot/awesome-devenv
 	This list is a copy of <a href="https://github.com/jondot/awesome-devenv">jondot/awesome-devenv</a> with ranks
 </p>
 ---
-# Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
@@ -68,7 +68,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [phantomas ★2011](https://github.com/macbre/phantomas) - website perf evaluation tool
 * [siege](http://www.joedog.org/siege-home/)
-* [Vegeta ★6064](https://github.com/tsenart/vegeta)
+* [Vegeta ★6111](https://github.com/tsenart/vegeta)
 * [wrk ★13013](https://github.com/wg/wrk)
 * [redis-faina](https://github.com/Instagram/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
 
@@ -156,7 +156,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [git-it-on ★41](https://github.com/peterhurford/git-it-on.zsh) - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch
 * [git-semver ★115](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 * [git-sweep ★1614](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
-* [git-up ★2732 ⏳1Y](https://github.com/aanand/git-up) - a better 'git pull'
+* [git-up ★2735 ⏳1Y](https://github.com/aanand/git-up) - a better 'git pull'
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
 * [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
@@ -170,7 +170,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for orchestrating awesome development environments*
 
 * [azk ★809](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
-* [Nanobox ★983](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
+* [Nanobox ★987](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ## Presentation
 *Tools for presenting your work*
@@ -201,7 +201,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [ack](https://github.com/petdance/ack2) - the Perl based
   better-than-grep tool.
 * [ag ★12896](https://github.com/ggreer/the_silver_searcher) - A C based code-searching tool similar to ack, but faster
-* [peco ★4000](https://github.com/peco/peco) - interactive filtering, like interactive Grep
+* [peco ★4020](https://github.com/peco/peco) - interactive filtering, like interactive Grep
 
 
 ## Terminal
@@ -227,7 +227,7 @@ to `/home/Users/yourself/projects`.
 * [fswatch](https://github.com/alandipert/fswatch) - a watch tool which
   will emit FS events and you can run commands on demand with. Note -
 `fswatch-run` too.
-* [guard ★5393](https://github.com/guard/guard) - FS watch tool with a huge ecosystem of plugins
+* [guard ★5399](https://github.com/guard/guard) - FS watch tool with a huge ecosystem of plugins
 * [LiveReload](http://livereload.com/) - FS watch and preprocessor as a desktop app for `/OSX/` and `/WIN/` with complementary browser extensions
   * [guard-livereload ★1910 ⏳1Y](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
 * [watchman ★5709](https://github.com/facebook/watchman) - Facebook's better

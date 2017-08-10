@@ -7,7 +7,7 @@ title: Awesome Rank for sachin1092/awesome-material
 	This list is a copy of <a href="https://github.com/sachin1092/awesome-material">sachin1092/awesome-material</a> with ranks
 </p>
 ---
-# Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Material Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of Google's [material design](http://www.google.com/design/spec) based libraries, resources and awesome things.
 

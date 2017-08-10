@@ -7,7 +7,7 @@ title: Awesome Rank for vert-x3/vertx-awesome
 	This list is a copy of <a href="https://github.com/vert-x3/vertx-awesome">vert-x3/vertx-awesome</a> with ranks
 </p>
 ---
-# Awesome Vert.x [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Vert.x [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 [<img src="logo-sm.png" align="right" width="250">](http://vertx.io)
 
@@ -61,7 +61,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Vert.x Web ★295](https://github.com/vert-x3/vertx-web)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Full featured web toolkit for Vert.x.
 * [Vert.x Jersey](https://github.com/englishtown/vertx-jersey) - Create JAX-RS [Jersey](https://jersey.java.net/) resources in Vert.x.
 * [Vert.x Nubes](https://github.com/aesteve/vertx-nubes) - Provides an annotation layer on top of Vert.x Web.
-* [Kovert ★73](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
+* [Kovert ★75](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 * [Handlers ★2 ⏳1Y](https://github.com/spriet2000/vertx-handlers-http) - Open web framework for Vert.x.
 * [QBit ★580](https://github.com/advantageous/qbit) - REST and WebSocket method call marshaling and reactive library.
 * [vertx-rest-storage ★12](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database.
@@ -141,7 +141,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [Bosun Monitoring ★3 ⏳1Y](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x.
 
 * Netflix - Hystrix
-  * [Hystrix Metrics Stream](https://github.com/kennedyoliveira/hystrix-vertx-metrics-stream.git) - Emits metrics for Hystrix Dashboard from a Vertx application with [Hystrix ★10534](https://github.com/Netflix/Hystrix).
+  * [Hystrix Metrics Stream](https://github.com/kennedyoliveira/hystrix-vertx-metrics-stream.git) - Emits metrics for Hystrix Dashboard from a Vertx application with [Hystrix ★10608](https://github.com/Netflix/Hystrix).
 
 * Dart
   * [Vert.x Dart SockJS ★1](https://github.com/wem/vertx-dart-sockjs) - [Dart](https://www.dartlang.org/) integration for [Vert.x SockJS bridge](http://vertx.io/docs/vertx-web/java/#_sockjs_event_bus_bridge) and plain SockJS with use of dart:js.

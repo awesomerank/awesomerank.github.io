@@ -10,7 +10,7 @@ title: Awesome Rank for igorbarinov/awesome-bitcoin
 Awesome Bitcoin
 ===============
 A curated list of bitcoin services and tools for software developers
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 List of content
 
@@ -91,7 +91,7 @@ List of content
 * [XChange ★1113](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
 # .Net Libraries
-* [NBitcoin ★443](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
+* [NBitcoin ★450](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
 * [BitcoinLib ★168](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 * [QBitNinja ★16](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
 
@@ -125,7 +125,7 @@ List of content
 * [Bitcoin Stackexchange](http://bitcoin.stackexchange.com)
 * [Elliptic Curve Cryptography A Gentle Introduction](http://andrea.corbellini.name/2015/05/17/elliptic-curve-cryptography-a-gentle-introduction/)
 
-Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list thing.
 Created by [BlockchainU](http://blockchainu.co/) fellows.
 
 ## License

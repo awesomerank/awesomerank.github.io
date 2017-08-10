@@ -7,7 +7,7 @@ title: Awesome Rank for davisonio/awesome-gif
 	This list is a copy of <a href="https://github.com/davisonio/awesome-gif">davisonio/awesome-gif</a> with ranks
 </p>
 ---
-# [Awesome GIF](https://davison.io/awesome-gif/) :sunglasses: [![](https://img.shields.io/travis/davisonio/awesome-gif.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-gif) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# [Awesome GIF](https://davison.io/awesome-gif/) :sunglasses: [![](https://img.shields.io/travis/davisonio/awesome-gif.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-gif) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome [GIF](https://en.wikipedia.org/wiki/GIF) resources
 
@@ -144,17 +144,17 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### PHP
 
-- [GifCreator ★229](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images
+- [GifCreator ★231](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images
 - [Spacer.gif ★16 ⏳1Y](https://github.com/msng/spacer.gif) - PHP script offering spacer.gif 1x1
 - [GifFrameExtractor ★96 ⏳1Y](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF
 
 #### Objective-C
 
-- [AnimatedGIFImageSerialization ★1018](https://github.com/mattt/AnimatedGIFImageSerialization) - decodes an UIImage from Animated GIFs image data
+- [AnimatedGIFImageSerialization ★1019](https://github.com/mattt/AnimatedGIFImageSerialization) - decodes an UIImage from Animated GIFs image data
 - [UIimage from GIF ★796 ⏳1Y](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs
 - [GIFRefreshControl ★305 ⏳2Y](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control
 - [UIImageView-PlayGIF ★408](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF
-- [FLAnimatedImage ★5916](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard
+- [FLAnimatedImage ★5943](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard
 - [Animated-GIF-iPhone ★133 ⏳2Y](https://github.com/arturogutierrez/Animated-GIF-iPhone) - Support for Animated GIF on iOS
 - [UzysAnimatedGifPullToRefresh ★1397 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView
 - [SvGifView ★85 ⏳3Y](https://github.com/smileEvday/SvGifView) - iOS load and display GIF
@@ -165,8 +165,8 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Swift
 
-- [Gifu ★1760](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift
-- [SwiftGif ★655](https://github.com/bahlo/SwiftGif) - UIImage extension with GIF support
+- [Gifu ★1765](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift
+- [SwiftGif ★661](https://github.com/bahlo/SwiftGif) - UIImage extension with GIF support
 
 ### GUI
 

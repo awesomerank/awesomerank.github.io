@@ -341,7 +341,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Escape of the cat ★8 ⏳1Y](https://github.com/gl00my/catesc) - Hardcore oldschool platformer on [INSTEAD](http://github.com/instead-hub/instead).
 * [Frogatto ★336](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
 * [Gish ★231](https://github.com/blinry/gish) - Award-winning physics platformer.
-* [Journey to the Center of Hawkthorne ★771 ⏳1Y](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
+* [Journey to the Center of Hawkthorne ★773 ⏳1Y](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
 * [Mario-Level-1 ★1135](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
 * [HFT Mario Party ★17 ⏳1Y](https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
 * [Sky Engine ★0](https://github.com/ilenburg/game-engine) - Custom engine 2D platform game made with OpenGL.
@@ -500,7 +500,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Crafty ★2420](https://github.com/craftyjs/Crafty) - JavaScript game library that can help you create games in a structured way.
 * [CutJS](https://github.com/piqnt/cutjs) - Lightweight and fast 2D HTML5 rendering engine for cross-platform game development.
 * [Dash ★354 ⏳1Y](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
-* [Duality ★767](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
+* [Duality ★770](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 * [EaselJS ★6247](https://github.com/CreateJS/EaselJS) - Library to make working with the Canvas element easier.
 * [EntityJS ★184 ⏳1Y](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
 * [Evennia MUD/MU* Creation System ★496](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
@@ -508,7 +508,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel ★1152 ⏳1Y](https://github.com/AdamAtomic/flixel) - Game-making library written entirely in ActionScript 3.
 * [GameJS ★416 ⏳1Y](https://github.com/gamejs/gamejs) - GameJs is a JavaScript library for writing 2D games or other interactive graphic applications for the HTML Canvas inspired by PyGame.
-* [GamePlay ★2171](https://github.com/gameplay3d/GamePlay) - Cross-platform, C++ game framework/engine for creating 2D/3D mobile and desktop games.
+* [GamePlay ★2170](https://github.com/gameplay3d/GamePlay) - Cross-platform, C++ game framework/engine for creating 2D/3D mobile and desktop games.
 * [GemRB ★305](https://github.com/gemrb/gemrb) - Cross-platform implementation of Bioware's Infinity Engine.
 * [GenesisEngine ★26](https://github.com/SaintGimp/GenesisEngine) - GenesisEngine allows you to create and explore procedurally-generated planetary systems, from ground level all the way out into space. Experiments with procedurally-generated worlds, XNA, and design patterns.
 * [Gladiator 3D ★14 ⏳3Y](https://github.com/krotik/gladiator_3d) - Canvas based JavaScript ray casting engine for pseudo 3D games.
@@ -544,10 +544,10 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Tesseract ★159](https://github.com/lsalzman/tesseract) - Make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [three.js ★34521](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
 * [tiled ★4851](https://github.com/bjorn/tiled) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
-* [Torque 2D ★1258](https://github.com/GarageGames/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
-* [Torque 3D ★2633](https://github.com/GarageGames/Torque3D) - MIT Licensed version of Torque 3D from GarageGames.
+* [Torque 2D ★1262](https://github.com/GarageGames/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
+* [Torque 3D ★2640](https://github.com/GarageGames/Torque3D) - MIT Licensed version of Torque 3D from GarageGames.
 * [Turbulenz Engine ★2734 ⏳1Y](https://github.com/turbulenz/turbulenz_engine) - HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
-* [Urho3D ★1810](https://github.com/urho3d/Urho3D) - Urho3D is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
+* [Urho3D ★1820](https://github.com/urho3d/Urho3D) - Urho3D is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
 * [Wurfel Engine ★21](https://github.com/BSVogler/WurfelEngineSDK) An isometric game engine for games with an open world made of blocks or voxels.
 * [XLE ★264](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
 
@@ -581,7 +581,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/leereilly/games">leereilly/games</a> with ranks

@@ -13,7 +13,7 @@ Awesome Public Datasets
    :alt: Awesome
    :target: https://github.com/sindresorhus/awesome
 
-`This list of public data sources <https://github.com/caesar0301/awesome-public-datasets>`_
+`This list of a topic-centric public data sources <https://github.com/caesar0301/awesome-public-datasets>`_ in high quality. They
 are collected and tidied from blogs, answers, and user responses.
 Most of the data sets listed below are free, however, some are not.
 Other amazingly awesome lists can be found in the
@@ -278,6 +278,8 @@ Healthcare
 
 * `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
 * `Gapminder World demographic databases <http://www.gapminder.org/data/>`_
+* `GDC supports several cancer genome programs for CCG, TCGA, TARGET etc. <https://gdc.cancer.gov/>`_
+* `PhysioBank Databases - a large and growing archive of physiological data <https://www.physionet.org/physiobank/database/>`_
 * `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_
 * `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
 * `Medicare Data File <http://go.cms.gov/19xxPN4>`_
@@ -285,7 +287,7 @@ Healthcare
 * `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.hdx.rwlabs.org/dataset/ebola-cases-2014>`_
 * `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
 * `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
-* `The Cancer Genome Atlas project (TCGA) <https://tcga-data.nci.nih.gov/tcga/tcgaDownload.jsp>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_
+* The Cancer Genome Atlas project (TCGA) (refer to `GDC <https://portal.gdc.cancer.gov/>`_ and `BigQuery table <http://google-genomics.readthedocs.org/en/latest/use_cases/discover_public_data/isb_cgc_data.html>`_)
 * `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
 
 
@@ -357,7 +359,7 @@ Museums
 Natural Language
 ----------------
 
-* `Automatic Keyphrase Extracttion <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
+* `Automatic Keyphrase Extraction <https://github.com/snkim/AutomaticKeyphraseExtraction/>`_
 * `Blogger Corpus <http://u.cs.biu.ac.il/~koppel/BlogCorpus.htm>`_
 * `CLiPS Stylometry Investigation Corpus <http://www.clips.uantwerpen.be/datasets/csi-corpus>`_
 * `ClueWeb09 FACC <http://lemurproject.org/clueweb09/FACC1/>`_

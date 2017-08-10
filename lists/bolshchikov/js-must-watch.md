@@ -7,7 +7,7 @@ title: Awesome Rank for bolshchikov/js-must-watch
 	This list is a copy of <a href="https://github.com/bolshchikov/js-must-watch">bolshchikov/js-must-watch</a> with ranks
 </p>
 ---
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 > This is a list of must-watch videos devoted to JavaScript 
 
 ## 2017

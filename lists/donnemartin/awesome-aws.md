@@ -13,11 +13,11 @@ title: Awesome Rank for donnemartin/awesome-aws
 </p>
 <br/>
 
-# Awesome AWS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome AWS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources.
 
-Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list.
+Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list.
 
 ## The Fiery Meter of AWSome
 
@@ -191,7 +191,7 @@ Related Repos:
 
 ### iOS SDK
 
-* [Repo :fire::fire::fire: ★856](https://github.com/aws/aws-sdk-ios)
+* [Repo :fire::fire::fire: ★862](https://github.com/aws/aws-sdk-ios)
 * [Repo with Samples :fire::fire::fire: ★571](https://github.com/awslabs/aws-sdk-ios-samples)
 * [Install](http://sdk-for-ios.amazonwebservices.com/latest/aws-ios-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-ios/)
@@ -985,7 +985,7 @@ Community Repos:
 * [donnemartin/dev-setup :fire::fire::fire::fire: ★2934](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
 * [dtan4/terraforming :fire::fire::fire::fire: ★1249](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
 * [segmentio/stack :fire::fire::fire::fire: ★1271](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
-* [j2labs/microarmy  ★0](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
+* [j2labs/microarmy  ★0 ⏳1Y](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
 * [jpillora/grunt-aws :fire: ★176](https://github.com/jpillora/grunt-aws) - Grunt interface into the Node.JS SDK.
 * [jvehent/haproxy-aws :fire::fire: ★231 ⏳1Y](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
 * [localstack/localstack  ★14](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!

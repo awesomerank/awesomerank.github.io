@@ -7,7 +7,7 @@ title: Awesome Rank for onurakpolat/awesome-analytics
 	This list is a copy of <a href="https://github.com/onurakpolat/awesome-analytics">onurakpolat/awesome-analytics</a> with ranks
 </p>
 ---
-# Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata ★4971](https://github.com/onurakpolat/awesome-bigdata).
 
@@ -132,9 +132,9 @@ Often there is no clear differentiation between social media management and anal
 
 # Other Awesome Lists
 - Other awesome lists [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness).
-- Even more lists [awesome ★62884](https://github.com/sindresorhus/awesome).
+- Even more lists [awesome ★63395](https://github.com/sindresorhus/awesome).
 - Another list? [list ★4417](https://github.com/jnv/lists).
-- WTF! [awesome-awesome-awesome ★919](https://github.com/t3chnoboy/awesome-awesome-awesome).
+- WTF! [awesome-awesome-awesome ★920](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-bigdata ★4971](https://github.com/onurakpolat/awesome-bigdata).
 ---
 <p align="center">

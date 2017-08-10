@@ -11,11 +11,11 @@ title: Awesome Rank for wbinnssmith/awesome-promises
     <img src="https://promisesaplus.com/assets/logo-small.png" alt="Promises/A+ logo" align="right" />
 </a>
 
-# Awesome Promises [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Promises [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of useful resources for JavaScript Promises
 
-Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
+Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list thing. Not to be confused with other awesome promises like "I promise you a million dollars" or "I promise you'll stay fit and never have to go to the gym again".
 
 **Table of Contents**
 
@@ -61,7 +61,7 @@ Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list
 ### Strict Implementations
 These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.
 
-* [pinkie](https://github.com/floatdrop/pinkie) - Ponyfill. Node-oriented, but [browserifyable ★11219](https://github.com/substack/node-browserify). *Extremely* small implementation.
+* [pinkie](https://github.com/floatdrop/pinkie) - Ponyfill. Node-oriented, but [browserifyable ★11239](https://github.com/substack/node-browserify). *Extremely* small implementation.
 * [native-promise-only ★564](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible.
 * [es6-promise ★4793](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js.
 * [lie ★568](https://github.com/calvinmetcalf/lie) - Small, browserifyable with an opt-in polyfill.
@@ -69,7 +69,7 @@ These implement no more or less than the es6 spec. They make great polyfills and
 ### Implementations with extras
 All of these provide more features than the language yet remain compatible. Node + Browsers for all.
 
-* [bluebird ★15134](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
+* [bluebird ★15192](https://github.com/petkaantonov/bluebird) - Fully featured, extremely performant. Long stack traces & generator/coroutine support.
 * [creed ★178](https://github.com/briancavalier/creed) - Hyper performant & full featured like Bluebird, but FP-oriented. Coroutines, generators, promises, ES2015 iterables, & fantasy-land spec.
 * [rsvp.js ★3334](https://github.com/tildeio/rsvp.js) - Lightweight with a few extras. Compatible down to IE6!
 * [Q ★13517](https://github.com/kriskowal/q) - One of the original implementations. Long stack traces and other goodies.
@@ -86,8 +86,8 @@ All of these provide more features than the language yet remain compatible. Node
 Native and strictly spec-compliant promises are awesome for compatibility, future-proofness, library authors, and browsers. However, libraries like bluebird patch goodies onto the `Promise` constructor and prototype. Solution? tiny modules of course!
 
 ### sindresorhus's many Promise utilities ([see notes ★998](https://github.com/sindresorhus/promise-fun))
-* [delay ★133](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
-* [pify ★648](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function.
+* [delay ★134](https://github.com/sindresorhus/delay) - Delay a promise a specified amount of time.
+* [pify ★652](https://github.com/sindresorhus/pify) - Promisify ("denodify") a callback-style function.
 * [loud-rejection ★166](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
 * [hard-rejection ★54](https://github.com/sindresorhus/hard-rejection) - Make unhandled promise rejections fail hard right away instead of the default silent fail
 * [p-queue ★109](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
@@ -96,7 +96,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-defer ★14](https://github.com/sindresorhus/p-defer) - Create a deferred promise
 * [p-if ★29](https://github.com/sindresorhus/p-if) - Conditional promise chains
 * [p-tap ★30](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
-* [p-map ★116](https://github.com/sindresorhus/p-map) - Map over promises concurrently
+* [p-map ★117](https://github.com/sindresorhus/p-map) - Map over promises concurrently
 * [p-all ★30](https://github.com/sindresorhus/p-all) - Run promise-returning & async functions concurrently with optional limited concurrency
 * [p-limit ★33](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
 * [p-times ★13](https://github.com/sindresorhus/p-times) - Run promise-returning & async functions a specific number of times concurrently
@@ -128,7 +128,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [is-promise ★42 ⏳1Y](https://github.com/then/is-promise) - Determine if something looks like a Promise.
 * [sprom ★12 ⏳1Y](https://github.com/then/sprom) - Resolve when a stream ends. Optional buffering (be careful with this!)
 * [task.js ★1606 ⏳1Y](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.
-* [co ★8538](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
+* [co ★8588](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
 * [promise-do-until ★0 ⏳1Y](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
 * [promise-do-whilst ★2 ⏳1Y](https://github.com/busterc/promise-do-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise.

@@ -7,7 +7,7 @@ title: Awesome Rank for melvin0008/awesome-projects-boilerplates
 	This list is a copy of <a href="https://github.com/melvin0008/awesome-projects-boilerplates">melvin0008/awesome-projects-boilerplates</a> with ranks
 </p>
 ---
-# Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome boilerplates[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 Curated list of boilerplates and templates to enhance productivity.
 
@@ -62,7 +62,7 @@ Curated list of boilerplates and templates to enhance productivity.
 - [Mega Boilerplate ★3507](https://github.com/sahat/megaboilerplate) Fullstack boilerplate generator with support for Node.js, a static site, or an Electron app. 
 - [NodeJS](#node-js)
     - [Yeoman Node Generator ★436](https://github.com/yeoman/generator-node) Yeomans node generator   
-    - [Node Module boilerplate ★369](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
+    - [Node Module boilerplate ★370](https://github.com/sindresorhus/node-module-boilerplate) Boilerplate to kickstart creating a node module
     - [Express Boilerplate ★727](https://github.com/expressjs/generator) Boilerplate generator for Express.js Projects
     - [Hackathon Starter ★20534](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
     - [Node/Backbone Web App Boilerplate ★22 ⏳4Y](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
@@ -139,7 +139,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for C#.NET and ASP.NET*
 
-- [ASP.NET Boilerplate ★3043](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
+- [ASP.NET Boilerplate ★3098](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
 
 
 

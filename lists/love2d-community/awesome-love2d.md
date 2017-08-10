@@ -7,7 +7,7 @@ title: Awesome Rank for love2d-community/awesome-love2d
 	This list is a copy of <a href="https://github.com/love2d-community/awesome-love2d">love2d-community/awesome-love2d</a> with ranks
 </p>
 ---
-# ![Awesome Löve](https://github.com/love2d-community/awesome-love2d/blob/master/logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# ![Awesome Löve](https://github.com/love2d-community/awesome-love2d/blob/master/logo.png) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 A categorized community-driven collection of high-quality, awesome [LÖVE](http://love2d.org) libraries, projects, and resources.
 
 ## Table of contents
@@ -110,7 +110,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [lovely-windows ★2](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [love-state-switcher ★2](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine
 * [lue ★26](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
-* [lume ★203](https://github.com/rxi/lume) - Collection of functions for Lua, geared towards game development
+* [lume ★204](https://github.com/rxi/lume) - Collection of functions for Lua, geared towards game development
 * [rotLove ★103](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 * [ScreenManager ★12](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework
 * [shack ★24 ⏳1Y](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation
@@ -151,7 +151,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Networking & Online-Play Libraries*
 
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)
-* [NoobHub ★161](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging
+* [NoobHub ★162](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging
 * [Sock.lua ★49](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games
 
 ## <a name="object"></a>Object Orientation
@@ -161,7 +161,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [classic ★143 ⏳1Y](https://github.com/rxi/classic) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
 * [hump.class](http://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
-* [middleclass ★844](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
+* [middleclass ★848](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
 
 ## Performance
 *Performance measurement tools*
@@ -173,7 +173,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Physics
 *Collision Detection & Physics Wrappers*
 
-* [Bump ★332](https://github.com/kikito/bump.lua) - Collision detection library for Lua
+* [Bump ★335](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](http://vrld.github.io/HardonCollider/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [Windfield ★57](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE
 
@@ -200,7 +200,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [cdata ★24 ⏳2Y](https://github.com/excessive/cdata) - Serialize between Lua data and C data using LuaJIT's FFI
 * [knife.serialize](https://github.com/airstruck/knife/blob/master/readme/serialize.md) - Serialize data as a Lua script
 * [Lady ★28 ⏳1Y](https://github.com/gvx/Lady) - Saving and loading savegames; based on Ser
-* [Ser ★51 ⏳1Y](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua
+* [Ser ★52 ⏳1Y](https://github.com/gvx/Ser) - Fast, robust, richly-featured table serialization library for Lua
 * [Smallfolk ★11 ⏳1Y](https://github.com/gvx/Smallfolk) - A fast, robust, secure, richly-featured table serialization library for Lua
 * [trickle ★14 ⏳1Y](https://github.com/bjornbytes/trickle) - A bitstream library focused on high compression for use in networking
 
@@ -226,10 +226,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tweening
 *Smoothing & Timer Libraries*
 
-* [Flux ★115 ⏳1Y](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
+* [Flux ★116 ⏳1Y](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
 * [hump.timer](http://hump.readthedocs.io/en/latest/timer.html) - Timer and tweening library with flexible tweening methods
 * [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
-* [tween.lua ★254 ⏳1Y](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
+* [tween.lua ★256 ⏳1Y](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
 
 ## UI
 *User Interface Libraries*
@@ -308,7 +308,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 # Other Awesome Lists
 
-* [awesome-lua ★1423](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
+* [awesome-lua ★1434](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
 * [awesome-love-shaders ★31 ⏳1Y](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE
 * [awesome-pico8 ★610](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
 

@@ -7,11 +7,11 @@ title: Awesome Rank for stoeffel/awesome-ama-answers
 	This list is a copy of <a href="https://github.com/stoeffel/awesome-ama-answers">stoeffel/awesome-ama-answers</a> with ranks
 </p>
 ---
-# awesome-ama-answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# awesome-ama-answers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome AMA answers
 
-Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list thing.
 
 Check out [awesome AMAs ★799](https://github.com/sindresorhus/amas) to find AMAs of your favorite dev.
 

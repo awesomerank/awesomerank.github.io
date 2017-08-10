@@ -14,7 +14,7 @@ title: Awesome Rank for arbox/nlp-with-ruby
  [RubyInterop ★3](https://github.com/arbox/ruby-interoperability)]
 
 
-# Awesome NLP with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome RubyNLP](https://img.shields.io/badge/Awesome-RubyNLP-brightgreen.svg) ★611](https://github.com/arbox/nlp-with-ruby)
+# Awesome NLP with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Awesome RubyNLP](https://img.shields.io/badge/Awesome-RubyNLP-brightgreen.svg) ★616](https://github.com/arbox/nlp-with-ruby)
 
 [<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
 
@@ -111,7 +111,7 @@ An NLP Pipeline starts with a plain text.
   Spark bindings with an easy to understand DSL.
 - [phobos ★57](https://github.com/klarna/phobos) -
   Simplified Ruby Client for [Apache Kafka](https://kafka.apache.org/).
-- [parallel ★2597](https://github.com/grosser/parallel) -
+- [parallel ★2606](https://github.com/grosser/parallel) -
   Supervisor for parallel execution on multiple CPUs or in many threads.
 - [pwrake ★51](https://github.com/masa16/pwrake) -
   Rake extensions to run local and remote tasks in parallel.
@@ -122,7 +122,7 @@ An NLP Pipeline starts with a plain text.
   Ruby Bindings for the [OpenNLP](https://opennlp.apache.org/) Toolkit.
 - [stanford-core-nlp ★381](https://github.com/louismullie/stanford-core-nlp) -
   Ruby Bindings for the Stanford [CoreNLP ★3556](https://github.com/stanfordnlp/CoreNLP) tools.
-- [treat ★1278](https://github.com/louismullie/treat) -
+- [treat ★1279](https://github.com/louismullie/treat) -
   Natural Language Processing framework for Ruby (like [NLTK](http://www.nltk.org/) for Python).
 - [nlp_toolz ★2 ⏳2Y](https://github.com/LeFnord/nlp_toolz) -
   Wrapper over some [OpenNLP](https://opennlp.apache.org/) classes and
@@ -164,7 +164,7 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
   Natural language processing algorithms implemented in pure Ruby with minimal dependencies.
 - [textoken ★28](https://github.com/manorie/textoken) -
   Simple and customizable text tokenization library.
-- [pragmatic_segmenter ★205](https://github.com/diasks2/pragmatic_segmenter) -
+- [pragmatic_segmenter ★206](https://github.com/diasks2/pragmatic_segmenter) -
   Word Boundary Disambiguation with many cookies.
 - [punkt-segmenter ★81 ⏳3Y](https://github.com/lfcipriani/punkt-segmenter) -
   Pure Ruby implementation of the Punkt Segmenter.
@@ -228,7 +228,7 @@ are often collected in dictionaries.
   Pure Ruby implementation of the [Earley](https://en.wikipedia.org/wiki/Earley_parser)
   Parsing Algorithm for Context-Free Constituency Grammars.
 - [rsyntaxtree ★34](https://github.com/yohasebe/rsyntaxtree) -
-  Visualization for syntactic trees in Ruby based on [RMagick ★331](https://github.com/rmagick/rmagick).
+  Visualization for syntactic trees in Ruby based on [RMagick ★333](https://github.com/rmagick/rmagick).
   <sup>[dep: [ImageMagick](#imagemagick)]</sup>
 
 ### Semantic Analysis
@@ -287,7 +287,7 @@ are often collected in dictionaries.
 
 ### Numbers, Dates, and Time Parsing
 
-- [chronic ★2720](https://github.com/mojombo/chronic) -
+- [chronic ★2727](https://github.com/mojombo/chronic) -
   Pure Ruby natural language date parser.
 - [chronic_between ★24](https://github.com/jrobertson/chronic_between) -
   Simple Ruby natural language parser for date and time ranges.
@@ -317,7 +317,7 @@ are often collected in dictionaries.
   Text-to-Speech conversion using the Google translate service.
 - [att_speech ★21 ⏳3Y](https://github.com/adhearsion/att_speech) -
   Ruby wrapper over the AT&T Speech API for speech to text.
-- [pocketsphinx-ruby ★218](https://github.com/watsonbox/pocketsphinx-ruby) -
+- [pocketsphinx-ruby ★219](https://github.com/watsonbox/pocketsphinx-ruby) -
   Pocketsphinx bindings.
 
 ## Dialog Agents, Assistants, and Chatbots
@@ -344,14 +344,14 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
 
 - [rb-libsvm ★250 ⏳1Y](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby.
-- [weka ★46](https://github.com/paulgoetze/weka-jruby) -
+- [weka ★47](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.
-- [decisiontree ★313](https://github.com/igrigorik/decisiontree) -
+- [decisiontree ★316](https://github.com/igrigorik/decisiontree) -
   Decision Tree ID3 Algorithm in pure Ruby
   <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>.
 - [rtimbl ★6 ⏳7Y](https://github.com/maspwr/rtimbl) -
   Memory based learners from the Timbl framework.
-- [classifier-reborn ★350](https://github.com/jekyll/classifier-reborn) -
+- [classifier-reborn ★354](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
 - [lda-ruby ★119 ⏳2Y](https://github.com/ealdent/lda-ruby) -
   Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
@@ -370,7 +370,7 @@ For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby]
   Generalized rack framework for text classifications.
 - [omnicat-bayes ★20 ⏳3Y](https://github.com/mustafaturan/omnicat-bayes) -
   Naive Bayes text classification implementation as an OmniCat classifier strategy.
-- [ruby-fann ★333 ⏳1Y](https://github.com/tangledpath/ruby-fann) -
+- [ruby-fann ★335 ⏳1Y](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
 - [rblearn](- https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 
@@ -396,7 +396,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
   Ruby and Rails client library for [Apache Solr](http://lucene.apache.org/solr/).
 - [sunspot ★2759](https://github.com/sunspot/sunspot) -
   Rails centric client for [Apache Solr](http://lucene.apache.org/solr/).
-- [thinking-sphinx ★1524](https://github.com/pat/thinking-sphinx) -
+- [thinking-sphinx ★1525](https://github.com/pat/thinking-sphinx) -
   [Active Record](http://guides.rubyonrails.org/active_record_basics.html#what-is-active-record-questionmark)
   plugin for using [Sphinx](http://sphinxsearch.com/) in (not only) Rails based projects.
 - [elasticsearch](https://github.com/elastic/elasticsearch-ruby/tree/master/elasticsearch) -
@@ -574,7 +574,7 @@ on the code here.
 - [Neural Machine Translation Implementations ★157](https://github.com/jonsafari/nmt-list)
 - [Awesome Ruby ★7484](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
-- [Ruby NLP ★947](https://github.com/diasks2/ruby-nlp) -
+- [Ruby NLP ★953](https://github.com/diasks2/ruby-nlp) -
   State-of-Art collection of Ruby libraries for NLP.
 - [Speech and Natural Language Processing ★1525](https://github.com/edobashira/speech-language-processing) -
   General List of NLP related resources (mostly not for Ruby programmers).

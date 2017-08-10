@@ -7,7 +7,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 	This list is a copy of <a href="https://github.com/ChromeDevTools/awesome-chrome-devtools">ChromeDevTools/awesome-chrome-devtools</a> with ranks
 </p>
 ---
-# Awesome chrome-devtools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome chrome-devtools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
 
@@ -61,7 +61,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - Java: [cdp4j ★44](https://github.com/webfolderio/cdp4j) - Java library for CDP
 - Python: [chromote ★247](https://github.com/iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
 - Python: [PyChromeDevTools ★10](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
-- Go: [chromedp ★1363](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
+- Go: [chromedp ★1371](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
 - Go: [cdp ★29](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd ★115](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet ★149](https://github.com/raff/godet) - Also different, also Go.
@@ -95,7 +95,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [Mare ★188](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools
 
 #### iOS
-- [PonyDebugger ★5428](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
+- [PonyDebugger ★5430](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
 
 ##### Go
 - [go-debugger-devtools](https://github.com/allada/go-debugger-devtools)

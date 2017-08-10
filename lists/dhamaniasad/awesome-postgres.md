@@ -7,7 +7,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 	This list is a copy of <a href="https://github.com/dhamaniasad/awesome-postgres">dhamaniasad/awesome-postgres</a> with ranks
 </p>
 ---
-# Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Postgres [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 [<img src="https://wiki.postgresql.org/images/a/a4/PostgreSQL_logo.3colors.svg" align="right"  width="100">](https://www.postgresql.org/)
 
@@ -63,8 +63,8 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [Metabase](http://www.metabase.com) - Simple dashboards, charts and query tool for PostgreSQL.
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgModeler](https://www.pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler.
-* [pgweb ★4378](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
-* [phpPgAdmin ★241](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
+* [pgweb ★4396](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
+* [phpPgAdmin ★240](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
 * [Postbird ★168](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
 * [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
 * [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
@@ -108,7 +108,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [zomboDB ★1157](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
 
 ### Optimization
-* [PgHero ★3124](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
+* [PgHero ★3179](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
 * [pgtune ★755](https://github.com/gregs1104/pgtune) - PostgreSQL configuration wizard.
 * [pgtune](http://pgtune.leopard.in.ua/) - Online version of PostgreSQL configuration wizard.
 * [pgconfig.org](https://www.pgconfig.org/) - PostgreSQL Online Configuration Tool (also based on pgtune).
@@ -127,7 +127,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [pgclimb ★233 ⏳1Y](https://github.com/lukasmartinelli/pgclimb) - Export data from PostgreSQL into different data formats.
 * [pgfutter ★570](https://github.com/lukasmartinelli/pgfutter) - Import CSV and JSON into PostgreSQL the easy way.
 * [PGInsight](http://pginsight.io/) - CLI tool to easily dig deep inside your PostgreSQL database.
-* [pgloader ★1122](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
+* [pgloader ★1130](https://github.com/dimitri/pgloader) - Loads data into PostgreSQL using the COPY streaming protocol, and does so with separate threads for reading and writing data.
 * [pgpool-II](http://www.pgpool.net/mediawiki/index.php/Main_Page) - Middleware that provides connection pooling, replication, load balancing and limiting exceeding connections.
 * [pgsync ★369](https://github.com/ankane/pgsync) - Tool to sync PostgreSQL data to your local machine.
 * [PGXN client ★30](https://github.com/dvarrazzo/pgxnclient) - Command line tool to interact with the PostgreSQL Extension Network
@@ -140,16 +140,16 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 
 ### Language bindings
 * Common Lisp: [Postmodern ★109](https://github.com/marijnh/Postmodern)
-* Elixir: [postgrex ★448](https://github.com/elixir-ecto/postgrex)
-* Go: [pgx ★1067](https://github.com/jackc/pgx)
+* Elixir: [postgrex ★449](https://github.com/elixir-ecto/postgrex)
+* Go: [pgx ★1071](https://github.com/jackc/pgx)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
-* .Net/.Net Core: [Npgsql ★1015](https://github.com/npgsql/npgsql)
-* Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise ★1380](https://github.com/vitaly-t/pg-promise)
+* .Net/.Net Core: [Npgsql ★1018](https://github.com/npgsql/npgsql)
+* Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise ★1391](https://github.com/vitaly-t/pg-promise)
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq ★15](https://github.com/m6w6/ext-pq)
 * Python: [psycopg2](https://pypi.python.org/pypi/psycopg2)
 * Ruby: [pg](https://bitbucket.org/ged/ruby-pg/wiki/Home)
-* Rust: [rust-postgresql ★775](https://github.com/sfackler/rust-postgres)
+* Rust: [rust-postgresql ★779](https://github.com/sfackler/rust-postgres)
 
 ### Tutorials
 * [Backup and recover a PostgreSQL DB using wal-e](https://coderwall.com/p/cwe2_a/backup-and-recover-a-postgres-db-using-wal-e) - Tutorial about setting up continuous archiving in PostgreSQL using wal-e.

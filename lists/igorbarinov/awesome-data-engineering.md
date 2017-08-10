@@ -10,7 +10,7 @@ title: Awesome Rank for igorbarinov/awesome-data-engineering
 Awesome Data Engineering
 ==========================
 
-A curated list of data engineering tools for software developers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+A curated list of data engineering tools for software developers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 List of content
 
@@ -30,7 +30,7 @@ List of content
 - Relational
 	* [RQLite](https://github.com/otoolep/rqlite) Replicated SQLite using the Raft consensus protocol
 	* [MySQL](http://www.mysql.com/) The world's most popular open source database.
-		* [TiDB ★9061](https://github.com/pingcap/tidb) TiDB is a distributed NewSQL database compatible with MySQL protocol 	
+		* [TiDB ★9162](https://github.com/pingcap/tidb) TiDB is a distributed NewSQL database compatible with MySQL protocol 	
 		* [Percona XtraBackup](https://www.percona.com/software/mysql-database/percona-xtrabackup) Percona XtraBackup is a free, open source, complete online backup solution for all versions of Percona Server, MySQL® and MariaDB®
 		* [mysql_utils ★763](https://github.com/pinterest/mysql_utils) Pinterest MySQL Management Tools
 	* [MariaDB](https://mariadb.org/) An enhanced, drop-in replacement for MySQL.
@@ -97,7 +97,7 @@ List of content
 	* [kafkat ★281](https://github.com/airbnb/kafkat) Simplified command-line administration for Kafka brokers
 	* [kafkacat ★731](https://github.com/edenhill/kafkacat) Generic command line non-JVM Apache Kafka producer and consumer
 	* [pg-kafka ★70 ⏳2Y](https://github.com/xstevens/pg_kafka) A PostgreSQL extension to produce messages to Apache Kafka
-	* [librdkafka ★1197](https://github.com/edenhill/librdkafka) The Apache Kafka C/C++ library
+	* [librdkafka ★1211](https://github.com/edenhill/librdkafka) The Apache Kafka C/C++ library
 	* [kafka-docker ★1023](https://github.com/wurstmeister/kafka-docker) Kafka in Docker
 	* [kafka-manager ★3956](https://github.com/yahoo/kafka-manager) A tool for managing Apache Kafka
 	* [kafka-node ★894](https://github.com/SOHU-Co/kafka-node) Node.js client for Apache Kafka 0.8
@@ -122,21 +122,21 @@ List of content
 * [SnackFS ★13 ⏳2Y](https://github.com/tuplejump/snackfs-release) SnackFS is our bite-sized, lightweight HDFS compatible FileSystem built over Cassandra
 * [GlusterFS](http://www.gluster.org/) Gluster Filesystem
 * [XtreemFS](http://www.xtreemfs.org/) fault-tolerant distributed file system for all storage needs
-* [SeaweedFS ★4505](https://github.com/chrislusf/seaweedfs) Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
+* [SeaweedFS ★4521](https://github.com/chrislusf/seaweedfs) Seaweed-FS is a simple and highly scalable distributed file system. There are two objectives: to store billions of files! to serve the files fast! Instead of supporting full POSIX file system semantics, Seaweed-FS choose to implement only a key~file mapping. Similar to the word "NoSQL", you can call it as "NoFS".
 * [S3QL](https://bitbucket.org/nikratio/s3ql) S3QL is a file system that stores all its data online using storage services like Google Storage, Amazon S3, or OpenStack.
 * [LizardFS](https://lizardfs.com/) LizardFS Software Defined Storage is a distributed, parallel, scalable, fault-tolerant, Geo-Redundant and highly available file system.
 
 # Serialization format
 * [Apache Avro](https://avro.apache.org) Apache Avro™ is a data serialization system
 * [Apache Parquet](https://parquet.apache.org) Apache Parquet is a columnar storage format available to any project in the Hadoop ecosystem, regardless of the choice of data processing framework, data model or programming language.
-	* [Snappy ★2097](https://github.com/google/snappy) A fast compressor/decompressor. Used with Parquet
+	* [Snappy ★2119](https://github.com/google/snappy) A fast compressor/decompressor. Used with Parquet
 	* [PigZ](http://zlib.net/pigz/) A parallel implementation of gzip for modern
 multi-processor, multi-core machines
 * [Apache ORC](https://orc.apache.org/) The smallest, fastest columnar storage for Hadoop workloads 
 * [Apache Thrift](https://thrift.apache.org) The Apache Thrift software framework, for scalable cross-language services development
-* [ProtoBuf ★19093](https://github.com/google/protobuf) Protocol Buffers - Google's data interchange format
+* [ProtoBuf ★19265](https://github.com/google/protobuf) Protocol Buffers - Google's data interchange format
 * [SequenceFile](http://wiki.apache.org/hadoop/SequenceFile) SequenceFile is a flat file consisting of binary key/value pairs. It is extensively used in MapReduce as input/output formats
-* [Kryo ★2775](https://github.com/EsotericSoftware/kryo) Kryo is a fast and efficient object graph serialization framework for Java
+* [Kryo ★2783](https://github.com/EsotericSoftware/kryo) Kryo is a fast and efficient object graph serialization framework for Java
 
 
 # Stream Processing
@@ -230,7 +230,7 @@ multi-processor, multi-core machines
 # Monitoring
 
 ## Prometheus
-* [Prometheus.io ★10809](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
+* [Prometheus.io ★10985](https://github.com/prometheus/prometheus) An open-source service monitoring system and time series database
 * [HAProxy Exporter ★109](https://github.com/prometheus/haproxy_exporter) Simple server that scrapes HAProxy stats and exports them via HTTP for Prometheus consumption
 
 # Community
@@ -244,7 +244,7 @@ multi-processor, multi-core machines
 
 Cheers to [The Data Engineering Ecosystem: An Interactive Map](http://xyz.insightdataengineering.com/blog/pipeline_map.html)
 
-Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list. Created by [Insight Data Engineering](http://insightdataengineering.com) fellows.
+Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list. Created by [Insight Data Engineering](http://insightdataengineering.com) fellows.
 
 ## License
 

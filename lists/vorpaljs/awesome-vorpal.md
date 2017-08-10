@@ -7,13 +7,13 @@ title: Awesome Rank for vorpaljs/awesome-vorpal
 	This list is a copy of <a href="https://github.com/vorpaljs/awesome-vorpal">vorpaljs/awesome-vorpal</a> with ranks
 </p>
 ---
-# Awesome Vorpal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Vorpal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful [Vorpal ★4069](https://github.com/dthree/vorpal)-based projects and extensions.
+A curated list of delightful [Vorpal ★4094](https://github.com/dthree/vorpal)-based projects and extensions.
 
-[Vorpal is Node's first framework for building immersive CLI applications. ★4069](https://github.com/dthree/vorpal)
+[Vorpal is Node's first framework for building immersive CLI applications. ★4094](https://github.com/dthree/vorpal)
 
-Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -44,9 +44,9 @@ Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list
 
 *Awesome projects and applications built using Vorpal.*
 
-- [Cash ★7285](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
+- [Cash ★7312](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
-- [iTunes-remote ★263](https://github.com/mischah/itunes-remote) - Control iTunes on the CLI.
+- [iTunes-remote ★264](https://github.com/mischah/itunes-remote) - Control iTunes on the CLI.
 - [phunt ★97](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
 - [trelew ★66 ⏳1Y](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
 - [wat ★366](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
@@ -54,7 +54,7 @@ Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list
 - [fastack ★27 ⏳1Y](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy.
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
 - [quotr ★56 ⏳1Y](https://github.com/andrerpena/quotr) - View stock exchange quotes.
-- [Vantage ★3320](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
+- [Vantage ★3327](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
 - [birdknife ★21](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI.
 - [tv-remote-cli ★14 ⏳1Y](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV.
 - [launch ★26](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more

@@ -7,11 +7,11 @@ title: Awesome Rank for sindresorhus/awesome-npm
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-npm">sindresorhus/awesome-npm</a> with ranks
 </p>
 ---
-# awesome npm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
+# awesome npm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
-You might also like [awesome-nodejs ★18195](https://github.com/sindresorhus/awesome-nodejs).
+You might also like [awesome-nodejs ★18295](https://github.com/sindresorhus/awesome-nodejs).
 
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-npm/blob/master/contributing.md) before contributing.*
 
@@ -81,7 +81,7 @@ You might also like [awesome-nodejs ★18195](https://github.com/sindresorhus/aw
 
 ### Publishing
 
-- [np ★2291](https://github.com/sindresorhus/np) - A better `npm publish`.
+- [np ★2310](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [publish-please ★706](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 - [pkgfiles ★49](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
@@ -107,12 +107,12 @@ You might also like [awesome-nodejs ★18195](https://github.com/sindresorhus/aw
 
 - [npm-home ★53](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [gh-home ★79](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
-- [david ★757](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
+- [david ★760](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
 - [npm-check ★3529](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
 - [npm-upgrade ★77](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 - [npm-shrinkwrap ★777](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 - [npm-windows-upgrade ★1190](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-- [generator-nm ★474](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+- [generator-nm ★476](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 - [pkg-up ★29](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
 - [read-pkg-up ★44](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
 - [normalize-package-data ★70](https://github.com/npm/normalize-package-data) - Normalize package metadata.

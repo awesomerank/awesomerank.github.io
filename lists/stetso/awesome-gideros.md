@@ -7,7 +7,7 @@ title: Awesome Rank for stetso/awesome-gideros
 	This list is a copy of <a href="https://github.com/stetso/awesome-gideros">stetso/awesome-gideros</a> with ranks
 </p>
 ---
-# Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
 	<a href="http://giderosmobile.com"><img width="200" src="gideros_logo.png" alt="Awesome Gideros"></a>
@@ -134,15 +134,15 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 ## Useful Lua-Libraries
 *General Lua libraries that are useful in gamedev but are not Gideros specific*
 
-- [lume ★203](https://github.com/rxi/lume) - Great collection of functions that are useful for game development.
+- [lume ★204](https://github.com/rxi/lume) - Great collection of functions that are useful for game development.
 - [inspect ★425](https://github.com/kikito/inspect.lua) - Easily pretty-print your tables to the console in a readable way.
 - [jumper](http://yonaba.github.io/Jumper/) - Super-fast grid-based pathfinding for Lua.
-- [bump ★332](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes.
+- [bump ★335](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes.
 - [Bresenham ★2](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm, implemented in Lua.
 
 ## Related Awesome Lists
-- [awesome-lua ★1423](https://github.com/LewisJEllis/awesome-lua)
-- [awesome-love2d ★674](https://github.com/love2d-community/awesome-love2d)
+- [awesome-lua ★1434](https://github.com/LewisJEllis/awesome-lua)
+- [awesome-love2d ★682](https://github.com/love2d-community/awesome-love2d)
 - [awesome-gamedev ★141](https://github.com/mbrukman/awesome-gamedev)
 
 

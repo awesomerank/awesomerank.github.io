@@ -9,7 +9,7 @@ title: Awesome Rank for neueda/awesome-neo4j
 ---
 Awesome Neo4j
 ==============
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/neueda/awesome-neo4j.svg?branch=master )](https://travis-ci.org/neueda/awesome-neo4j)
 
 A curated list of awesome [Neo4j](https://neo4j.com/) resources.  
@@ -117,7 +117,7 @@ Created by [gh-md-toc ★126](https://github.com/ekalinin/github-markdown-toc.go
 
 - [node-neo4j ★908](https://github.com/thingdom/node-neo4j) - REST API client for Node.
 - [Neo4jClient ★208](https://github.com/Readify/Neo4jClient) - .NET client binding.
-- [neoism ★301](https://github.com/jmcvetta/neoism) - Client for Golang.
+- [neoism ★302](https://github.com/jmcvetta/neoism) - Client for Golang.
 - [neocons ★157](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API.
 - [RNeo4j ★195](https://github.com/nicolewhite/RNeo4j) - Driver for R.
 - [AnormCypher ★122](https://github.com/AnormCypher/AnormCypher) - Scala library based on Anorm in the Play Framework.
@@ -198,7 +198,7 @@ Neo4j graph database.
 # Visualization
 
 - [neoclipse ★179](https://github.com/neo4j-contrib/neoclipse) - Neoclipse is a tool to view, edit and explore Neo4j databases.
-- [Gephi ★2153](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
+- [Gephi ★2168](https://github.com/gephi/gephi) - Gephi is an award-winning open-source platform for visualizing and manipulating large graphs.
 - [Linkurious](http://linkurio.us/) - Linkurious helps search and visualize your graph data through a simple web-based interface.
 
 # Tools

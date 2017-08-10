@@ -7,7 +7,7 @@ title: Awesome Rank for davidsonfellipe/awesome-wpo
 	This list is a copy of <a href="https://github.com/davidsonfellipe/awesome-wpo">davidsonfellipe/awesome-wpo</a> with ranks
 </p>
 ---
-# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
 
 A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -267,10 +267,10 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-smushit ★92 ⏳1Y](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
 * [Gulp-smushit ★19 ⏳1Y](https://github.com/heldr/gulp-smushit) - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
 * [Smush.it](http://www.smushit.com/ysmush.it/) - Smush.it uses optimization techniques specific to image format to remove unnecessary bytes from image files. It is a "lossless" tool, which means it optimizes the images without changing their look or visual quality.
-* [Imagemin ★1397](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
-* [Sharp ★5803](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
-* [Gm ★4265](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
-* [Exexif ★6778](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
+* [Imagemin ★1412](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
+* [Sharp ★5861](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
+* [Gm ★4277](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
+* [Exexif ★6830](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
 * [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 * [Grunt-contrib-imagemin ★1180](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 * [Gulp-imagemin ★1270](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
@@ -284,7 +284,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
 * [mozjpeg ★2646](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 * [Jpegoptim ★576](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
-* [ZopfliPNG ★1876](https://github.com/google/zopfli) - A command line program to optimize PNG images.
+* [ZopfliPNG ★1879](https://github.com/google/zopfli) - A command line program to optimize PNG images.
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress png files to get the smallest possible size.
 * [Leanify ★402](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
@@ -355,10 +355,10 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [CSSmin.js](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - cssmin.js is a JavaScript port of YUICompressor's CSS minifier.
 * [Grunt-contrib-concat ★803](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 * [Grunt-contrib-uglify ★1387](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files.
-* [Clean-css ★2530](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
+* [Clean-css ★2536](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
 * [Django-compressor ★1895](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [Django-pipeline](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
-* [JShrink ★472](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
+* [JShrink ★475](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
 * [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.
 * [CSSshrink ★1079 ⏳3Y](https://github.com/stoyan/cssshrink) - Because CSS is ospon the critical path to rendering pages. It must be small! Or else!
 * [Grunt-cssshrink ★27 ⏳1Y](https://github.com/JohnCashmore/grunt-cssshrink) - This is just a grunt wrapper for CSS Shrink.
@@ -461,7 +461,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 # Other Awesome Lists
 
 * [bayandin/awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness).
-* [sindresorhus/awesome ★62884](https://github.com/sindresorhus/awesome).
+* [sindresorhus/awesome ★63395](https://github.com/sindresorhus/awesome).
 
 
 # Contributing

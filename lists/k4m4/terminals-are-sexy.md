@@ -9,7 +9,7 @@ title: Awesome Rank for k4m4/terminals-are-sexy
 ---
 [![Terminals_Are_Sexy_Logo](http://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)](http://terminalsare.sexy/)
 
-# Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
@@ -166,7 +166,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [jed](http://www.jedsoft.org/jed/) - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 * [kakoune](http://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
 * [vis ★2485](https://github.com/martanne/vis) - Highly efficient text editor.
-* [slap ★4627](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
+* [slap ★4640](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 
 ## Tools and Plugins
 
@@ -195,14 +195,14 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [tig ★4653](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
 * [autojump ★5723](https://github.com/wting/autojump) - cd command that learns
-* [fzf ★9711](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+* [fzf ★9760](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
 * [wttr.in ★3756](https://github.com/chubin/wttr.in) - The right way to check the weather.
 * [nycurl ★22](https://github.com/omgimanerd/nycurl) - Checking the latest news headlines.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
 * [exa ★2997](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
-* [homebrew-cask ★11338](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
+* [homebrew-cask ★11371](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
 * [mps-youtube ★2726](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
-* [colorls ★1058](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
+* [colorls ★1069](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
 
 ## Communication
 

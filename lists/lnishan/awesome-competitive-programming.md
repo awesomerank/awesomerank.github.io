@@ -7,7 +7,7 @@ title: Awesome Rank for lnishan/awesome-competitive-programming
 	This list is a copy of <a href="https://github.com/lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
 </p>
 ---
-# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
 
@@ -384,7 +384,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | C++ Books | [The Definitive C++ Book Guide and List - Stack Overflow](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 | Java Books | [What are the best books to learn Java? - Quora](https://www.quora.com/What-are-the-best-books-to-learn-Java) |
 | Advanced Java Books | [What is the best book for advanced Java programming? - Quora](https://www.quora.com/What-is-the-best-book-for-advanced-Java-programming) |
-| Algorithms | [tayllan/awesome-algorithms ★2768](https://github.com/tayllan/awesome-algorithms) |
+| Algorithms | [tayllan/awesome-algorithms ★2785](https://github.com/tayllan/awesome-algorithms) |
 | Algorithm Visualization | [enjalot/algovis ★715](https://github.com/enjalot/algovis) |
 | Math | [rossant/awesome-math ★805](https://github.com/rossant/awesome-math) |
 | C++ | [fffaraz/awesome-cpp ★9070](https://github.com/fffaraz/awesome-cpp) |

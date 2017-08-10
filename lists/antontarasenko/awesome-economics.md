@@ -7,9 +7,9 @@ title: Awesome Rank for antontarasenko/awesome-economics
 	This list is a copy of <a href="https://github.com/antontarasenko/awesome-economics">antontarasenko/awesome-economics</a> with ranks
 </p>
 ---
-# Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Economics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
-*A curated collection of links for economists. Part of the ["Awesome X" series ★62884](https://github.com/sindresorhus/awesome).*
+*A curated collection of links for economists. Part of the ["Awesome X" series ★63395](https://github.com/sindresorhus/awesome).*
 
 The list is periodically updated with new links. Click "Watch" in the right top corner to follow.
 

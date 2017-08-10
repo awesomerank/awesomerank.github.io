@@ -7,7 +7,7 @@ title: Awesome Rank for therebelrobot/awesome-workshopper
 	This list is a copy of <a href="https://github.com/therebelrobot/awesome-workshopper">therebelrobot/awesome-workshopper</a> with ranks
 </p>
 ---
-# awesome-workshopper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# awesome-workshopper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 *alternatively, awesome-adventure*
 
 A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode ★4774](https://github.com/workshopper/learnyounode):
@@ -33,7 +33,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [bug-clinic ★101](https://github.com/othiym23/bug-clinic) | Learn how to debug Node.js apps |
 | [bytewiser ★165](https://github.com/maxogden/bytewiser) | Teaches the fundamentals of working with binary data in node.js and HTML5 browsers |
 | [count-to-6 ★309](https://github.com/domenic/count-to-6) | An intro to some ES6 features |
-| [data-plumber ★32 ⏳1Y](https://github.com/maxogden/data-plumber) | Munging data on the command line |
+| [data-plumber ★32 ⏳2Y](https://github.com/maxogden/data-plumber) | Munging data on the command line |
 | [es5-workshop ★2 ⏳3Y](https://github.com/timoxley/es5-workshop) | Introduction to ES5 methods |
 | [expressworks ★528](https://github.com/azat-co/expressworks) | an automated Express.js workshop |
 | [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop) | A step by step guide to building your own footballbot (robotics) |

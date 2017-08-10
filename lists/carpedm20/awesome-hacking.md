@@ -7,9 +7,9 @@ title: Awesome Rank for carpedm20/awesome-hacking
 	This list is a copy of <a href="https://github.com/carpedm20/awesome-hacking">carpedm20/awesome-hacking</a> with ranks
 </p>
 ---
-# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Hacking. Inspired by [awesome-machine-learning ★24671](https://github.com/josephmisiti/awesome-machine-learning)
+A curated list of awesome Hacking. Inspired by [awesome-machine-learning ★24883](https://github.com/josephmisiti/awesome-machine-learning)
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@carpedm20](https://twitter.com/carpedm20)
 
@@ -64,7 +64,7 @@ For a list of free hacking books available for download, go [here ★841](https:
  * [Exploit Writing Tutorials for Pentesters](http://www.punter-infosec.com/exploit-writing-tutorials-for-pentesters/)
 
 ## Tools
- * [Metasploit ★9227](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
+ * [Metasploit ★9310](https://github.com/rapid7/metasploit-framework) A computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
  * [mimikatz ★4064](https://github.com/gentilkiwi/mimikatz) - A little tool to play with Windows security
 
 ### Docker Images for Penetration Testing & Security
@@ -107,7 +107,7 @@ For a list of free hacking books available for download, go [here ★841](https:
  * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
  * [ILSpy ★3687](https://github.com/icsharpcode/ILSpy) - an open-source .NET assembly browser and decompiler
- * [dnSpy ★2553](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger 
+ * [dnSpy ★2584](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger 
  * [de4dot ★1608](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker. 
  * [antinet ★95 ⏳3Y](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code 
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables

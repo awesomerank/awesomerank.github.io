@@ -7,7 +7,7 @@ title: Awesome Rank for exAspArk/awesome-chatops
 	This list is a copy of <a href="https://github.com/exAspArk/awesome-chatops">exAspArk/awesome-chatops</a> with ranks
 </p>
 ---
-# Awesome ChatOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome ChatOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things about [ChatOps](https://www.pagerduty.com/blog/what-is-chatops/).
 
@@ -227,7 +227,7 @@ These open source projects will help you to build a bot in order to automate you
 
 * [Botkit ★6767](https://github.com/howdyai/botkit) (JavaScript, Node.js)
 * [Cog](https://operable.io/) (Any language)
-* [Elixir-Slack ★354](https://github.com/BlakeWilliams/Elixir-Slack) (Elixir)
+* [Elixir-Slack ★357](https://github.com/BlakeWilliams/Elixir-Slack) (Elixir)
 * [Errbot](http://errbot.io/) (Python)
 * [Hal](https://hal.readthedocs.io/) + [adapter](https://hal.readthedocs.io/en/latest/adapters/slack.html) (Go)
 * [Hubot](https://hubot.github.com/) + [adapter](https://github.com/slackhq/hubot-slack) (CoffeeScript, Node.js)
@@ -237,7 +237,7 @@ These open source projects will help you to build a bot in order to automate you
 * [PagerBot ★216](https://github.com/stripe-contrib/pagerbot) (Ruby)
 * [Slack-Ruby-Bot ★31](https://github.com/dblock/slack-ruby-bot) (Ruby)
 * [Slackbotsy ★78](https://github.com/rlister/slackbotsy) (Ruby)
-* [Slacker ★73 ⏳1Y](https://github.com/koudelka/slacker) (Elixir)
+* [Slacker ★74 ⏳1Y](https://github.com/koudelka/slacker) (Elixir)
 
 ### Talker
 

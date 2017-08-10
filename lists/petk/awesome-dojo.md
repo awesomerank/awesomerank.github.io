@@ -119,7 +119,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * ASP.NET
     * [Dojo & ASP.NET](https://www.codeproject.com/Articles/650443/DataGrid-View-with-Sorting-and) - DataGrid View with Sorting and Paging using Dojo EnhancedGrid, JsonRest Store, Entity Framework, SQL Server, ASP.NET MVC Web API
     * [Dojo.NET ★3 ⏳5Y](https://github.com/lstratman/Dojo.NET) - .NET class library that provides WebControl bindings to ASP.NET websites (both WebForms and MVC, including Razor) using the Dojo toolkit.
-    * [Reactive Extensions ★9 ⏳2Y](https://github.com/Reactive-Extensions/RxJS-Dojo) - Reactive Extensions bindings for the Dojo Toolkit
+    * [Reactive Extensions ★9 ⏳3Y](https://github.com/Reactive-Extensions/RxJS-Dojo) - Reactive Extensions bindings for the Dojo Toolkit
 * Java
     * [Dojofaces](http://www.dojofaces.org) - project that assists JSF developers in connecting Dojo widgets with JSF backign beans
     * [DWR](http://directwebremoting.org/dwr/index.html) - library that enables Java on the server and JavaScript in a browser
@@ -210,12 +210,12 @@ Inspired by the `awesome-*` trend on GitHub.
 * [awesome-javascript ★11806](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list
 * [awesome-javascript-books ★80 ⏳2Y](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books
 * awesome lists:
-    * [awesome ★62884](https://github.com/sindresorhus/awesome) - awesome list
+    * [awesome ★63395](https://github.com/sindresorhus/awesome) - awesome list
     * [awesome-awesome ★866](https://github.com/emijrp/awesome-awesome) - awesome list
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
     * [lists ★4417](https://github.com/jnv/lists) - awesome lists
     * [awesome-all ★91](https://github.com/bradoyler/awesome-all) - awesome lists
-    * [awesome-awesome ★117](https://github.com/erichs/awesome-awesome) - awesome lists
+    * [awesome-awesome ★120](https://github.com/erichs/awesome-awesome) - awesome lists
 
 [Back to top](#awesome-dojo)
 

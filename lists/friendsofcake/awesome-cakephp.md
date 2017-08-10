@@ -7,7 +7,7 @@ title: Awesome Rank for friendsofcake/awesome-cakephp
 	This list is a copy of <a href="https://github.com/friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
 </p>
 ---
-# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome **CakePHP 3.x** plugins, resources and shiny things.
 
 If you are looking for CakePHP 2.x resources please visit:
@@ -110,7 +110,7 @@ Additional lists you might find useful:
 - [ADmad/JwtAuth plugin ★101](https://github.com/ADmad/cakephp-jwt-auth) - A plugin for authenticating using JSON Web Tokens.
 - [CookieAuth plugin ★14](https://github.com/Xety/Cake3-CookieAuth) - A simple Cake 3 plugin to automatically authenticate users with Cookies.
 - [HierAuth plugin ★4 ⏳1Y](https://github.com/btaens/cakephp-hier-auth) - A CakePHP plugin for hierarchical, role based, simple authorization.
-- [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client` ★1665](https://github.com/thephpleague/oauth2-client).
+- [Muffin/OAuth2 plugin](https://github.com/usemuffin/oauth2) - OAuth2 authentication using the [`league/oauth2-client` ★1671](https://github.com/thephpleague/oauth2-client).
 - [Muffin/Tokenize plugin ★3](https://github.com/UseMuffin/Tokenize) - Event driven behavior for easily generating single-use security tokens.
 - [MultiTenant plugin ★27](https://github.com/pronique/multitenant) - Easily build SaaS enabled web applications.
 - [TinyAuth plugin ★62](https://github.com/dereuromark/cakephp-tinyauth) - Authentication and role based (single/multi) authorization as very light-weight approach.
@@ -136,7 +136,7 @@ Additional lists you might find useful:
 - [DebugKit plugin ★856](https://github.com/cakephp/debug_kit) - The de-facto standard for debugging.
 - [ErrorEmail plugin ★4](https://github.com/ebrigham1/cakephp-error-email) - A plugin to email exception/error information to your dev team.
 - [Execution order ★11 ⏳2Y](https://github.com/dereuromark/executionorder) - A demo app to display the execution order of files, methods and callbacks.
-- [Gourmet/Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops ★4260](https://github.com/filp/whoops).
+- [Gourmet/Whoops plugin](https://github.com/gourmet/whoops) - PHP error for cool kids with [filp/whoops ★4275](https://github.com/filp/whoops).
 - [Psa/FixtureCheck plugin ★2](https://github.com/World-Architects/cakephp-fixture-check) - A plugin to help detect mismatches in live DB and fixtures in order to make fixture based tests more reliable and deployments safer.
 - [Setup plugin ★28](https://github.com/dereuromark/cakephp-setup) - A lightweight setup plugin containing debugging and maintenance tools.
 
@@ -205,19 +205,19 @@ Additional lists you might find useful:
 
 - [ADmad/Glide plugin ★24](https://github.com/ADmad/cakephp-glide) - A plugin for using [Glide](http://glide.thephpleague.com/) image manipulation library.
 - [Imagine plugin](https://github.com/burzum/cakephp-imagine-plugin) - An image manipulation plugin and wrapper around [Imagine ★3062](https://github.com/avalanche123/Imagine).
-- [Thumber plugin](https://github.com/mirko-pagliai/cakephp-thumber) - A plugin to create thumbnails using [intervention/image ★5419](https://github.com/Intervention/image).
+- [Thumber plugin](https://github.com/mirko-pagliai/cakephp-thumber) - A plugin to create thumbnails using [intervention/image ★5443](https://github.com/Intervention/image).
 
 ## Libs
 *Useful libraries or tools that don't fit in any of the other categories.*
 
 - [Aura.Intl ★64](https://github.com/auraphp/Aura.Intl) - A powerful I18n library - used in CakePHP 3.x core.
 - [Capcake ★117 ⏳1Y](https://github.com/jadb/capcake) - Deploy CakePHP applications using Capistrano.
-- [Chronos ★346](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
-- [Composer Installers ★693](https://github.com/composer/installers) - A multi framework Composer library installer.
+- [Chronos ★349](https://github.com/cakephp/chronos) - A simple standalone DateTime API extension (successor of Carbon).
+- [Composer Installers ★696](https://github.com/composer/installers) - A multi framework Composer library installer.
 - [Composer](https://getcomposer.org/)/[Packagist](https://packagist.org/) - A package and dependency manager.
 - [Graphviz ★42](https://github.com/alexandresalome/graphviz) - A Graphviz library.
 - [Jenkins](http://jenkins-ci.org/) - The free alternative for private (GitHub) repos.
-- [Rocketeer ★2461](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
+- [Rocketeer ★2466](https://github.com/rocketeers/rocketeer) - PHP task runner and deployment package.
 - [Travis CI](https://travis-ci.org/) - A continuous integration platform - de-facto standard for testing (GitHub) repos.
 - [YamlRoute ★5 ⏳1Y](https://github.com/makallio85/yaml-route) - Configure routes with simple YAML files.
 
@@ -262,7 +262,7 @@ Additional lists you might find useful:
 ## Navigation
 *Tools for building navigation structures.*
 
-- [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu ★455](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
+- [Icings/Menu plugin](https://github.com/icings/menu) - A [KnpMenu ★457](https://github.com/KnpLabs/KnpMenu) seasoned menu plugin for CakePHP.
 
 ## NoSQL
 *Plugins for working with "NoSQL" backends.*
@@ -387,7 +387,7 @@ Additional lists you might find useful:
 - [CakePHP CodeSniffer rules ★179](https://github.com/cakephp/cakephp-codesniffer) - The official CakePHP CS rules.
 - [CodeSniffer plugin ★14 ⏳1Y](https://github.com/dereuromark/cakephp-codesniffer) - Auto-find code issues/smells and auto-fix CS errors.
 - [CodeSniffer plugin sniffs ★0 ⏳2Y](https://github.com/dereuromark/codesniffer-standards) - Sniff packages/rules compatible with phpcs-fixer branch and the CodeSniffer plugin.
-- [Faker plugin](https://github.com/gourmet/faker) - [Faker ★11389](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
+- [Faker plugin](https://github.com/gourmet/faker) - [Faker ★11417](https://github.com/fzaninotto/Faker) support for CakePHP fixtures.
 - [Fixtures plugin ★1](https://github.com/LubosRemplik/CakePHP-Fixtures) - Fixtures plugin to read existing fixtures and create table/insert data for quick start with app.
 - [FriendsOfCake/fixturize ★12](https://github.com/FriendsOfCake/fixturize) - More efficient inserting fixtures when running test suites by decreasing amount of inserts (mysql only).
 - [Gourmet/Muffin plugin](https://github.com/gourmet/muffin) - [FactoryMuffin ★413](https://github.com/thephpleague/factory-muffin) support for CakePHP fixture records.

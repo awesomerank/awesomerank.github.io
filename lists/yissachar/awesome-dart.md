@@ -7,10 +7,10 @@ title: Awesome Rank for yissachar/awesome-dart
 	This list is a copy of <a href="https://github.com/yissachar/awesome-dart">yissachar/awesome-dart</a> with ranks
 </p>
 ---
-Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 ============
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) lists.
 
 ### Contributing
 
@@ -52,7 +52,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 * [Jaguar ★26](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensiblity.
 * [Angel ★123](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve.
-* [Aqueduct ★182](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support.
+* [Aqueduct ★186](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support.
 * [Redstone ★269](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart.
 * [Start ★389](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Express ★104 ⏳2Y](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
@@ -93,7 +93,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 ## Utilities
 
-* [Flutter ★1000](https://github.com/flutter/engine) - Flutter is a new way to build high-performance, cross-platform mobile apps, allowing you to write applications for Android and iOS.
+* [Flutter ★1001](https://github.com/flutter/engine) - Flutter is a new way to build high-performance, cross-platform mobile apps, allowing you to write applications for Android and iOS.
 * [Quiver ★146](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 * [route_hierarchical ★30](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
@@ -107,7 +107,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 * [html](https://pub.dartlang.org/packages/html) - A library for working with HTML documents. Previously known as html5lib.
 * [markdown ★63](https://github.com/dart-lang/markdown) - Parse markdown into HTML on both the client and server.
-* [PetitParser ★80](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
+* [PetitParser ★81](https://github.com/petitparser/dart-petitparser) - PetitParser combines ideas from scannerless parsing, parser combinators, parsing expression grammars and packrat parsers to model grammars and parsers as objects that can be reconfigured dynamically.
 * [XML](https://pub.dartlang.org/packages/xml) - A lightweight library for parsing, traversing, querying and building XML documents.
 * [xmlstream](https://pub.dartlang.org/packages/xml) - A streaming event-based XML Parser.
 * [YAML](https://pub.dartlang.org/packages/yaml) - A parser for YAML.
@@ -139,7 +139,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory is a tool for profiling and debugging your Dart applications.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
 * [js2dart ★16 ⏳2Y](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
-* [Stagehand ★200](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
+* [Stagehand ★202](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [Crossdart](http://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
 * [gulp-dart ★3 ⏳1Y](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
@@ -153,7 +153,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 ## IDEs, Editors, and Plugins
 
 * [IntelliJ Plugin](https://www.dartlang.org/tools/webstorm/) - Dart plugin from JetBrains for WebStorm, IntelliJ IDEA, PhpStorm, PyCharm, and RubyMine.
-* [Sublime Text Package ★202](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package
+* [Sublime Text Package ★203](https://github.com/guillermooo/dart-sublime-bundle) - Sublime Text 3 Dart Package
 * [Emacs Plugin ★54](https://github.com/nex3/dart-mode) - An Emacs mode for the Dart language
 * [Vim Plugin ★167](https://github.com/dart-lang/dart-vim-plugin) - Syntax highlighting for Dart in Vim
 * [Atom Plugin](https://atom.io/packages/atom-dart) - Dart support for Atom.

@@ -7,7 +7,7 @@ title: Awesome Rank for bfred-it/Awesome-WebExtensions
 	This list is a copy of <a href="https://github.com/bfred-it/Awesome-WebExtensions">bfred-it/Awesome-WebExtensions</a> with ranks
 </p>
 ---
-# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
 

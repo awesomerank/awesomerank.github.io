@@ -7,7 +7,7 @@ title: Awesome Rank for dok/awesome-text-editing
 	This list is a copy of <a href="https://github.com/dok/awesome-text-editing">dok/awesome-text-editing</a> with ranks
 </p>
 ---
-# Awesome text editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome text editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 A curated collection of text editing libraries, services, and resources for the web.
 
 ## Rich-text editors using contenteditable

@@ -7,7 +7,7 @@ title: Awesome Rank for fcambus/nginx-resources
 	This list is a copy of <a href="https://github.com/fcambus/nginx-resources">fcambus/nginx-resources</a> with ranks
 </p>
 ---
-# Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
 
@@ -116,7 +116,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx image processing server with OpenResty and Lua](http://leafo.net/posts/creating_an_image_server.html)
 - [A small router for Openresty](https://docs.apitools.com/blog/2014/04/24/a-small-router-for-openresty.html)
 - [Building an OpenResty events server ★65 ⏳3Y](https://github.com/cagerton/dropthat)
-- [SysAdvent 2014 - OpenResty, Nginx and Lua](http://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source ★9 ⏳1Y](https://github.com/lusis/sysadvent-2014))
+- [SysAdvent 2014 - OpenResty, Nginx and Lua](http://sysadvent.blogspot.com/2014/12/day-22-largely-unappreciated.html) ([Source ★9 ⏳2Y](https://github.com/lusis/sysadvent-2014))
 - [OpenResty (Nginx) with dynamically generated certificates](http://blog.dutchcoders.io/openresty-with-dynamic-generated-certificates/)
 - [Ceryx - A dynamic reverse proxy](https://www.sourcelair.com/blog/articles/75/ceryx-dynamic-nginx)
 - [An Introduction To OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)

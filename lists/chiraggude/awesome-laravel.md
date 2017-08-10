@@ -7,7 +7,7 @@ title: Awesome Rank for chiraggude/awesome-laravel
 	This list is a copy of <a href="https://github.com/chiraggude/awesome-laravel">chiraggude/awesome-laravel</a> with ranks
 </p>
 ---
-# Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
+# Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
@@ -118,7 +118,7 @@ Inspired by [ziadoz/awesome-php ★16135](https://github.com/ziadoz/awesome-php)
 * [HTML ★1031](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
 * [Hyn/multi-tenant ★346](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of a.o. routes, assets and databases
 * [Laravel 5 form builder ★691](https://github.com/kristijanhusak/laravel-form-builder) - Form builder for Laravel 5 inspired by Symfony's form builder.
-* [Intervention Image ★5419](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
+* [Intervention Image ★5443](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
 * [Laravel Activitylog ★918](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app
 * [Laravel Auditing ★475](https://github.com/owen-it/laravel-auditing) - Audit for Eloquent models
 * [Laravel Blade Javascript ★222](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
@@ -211,12 +211,12 @@ Inspired by [ziadoz/awesome-php ★16135](https://github.com/ziadoz/awesome-php)
 * [Dispatcher ★1007](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 * [Elixir ★1089](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Mix ★1167](https://github.com/JeffreyWay/laravel-mix) - Laravel Mix provides a clean, fluent API for defining basic webpack build steps for your Laravel application. Mix supports several common CSS and JavaScript pre-processors.
-* [Envoy ★931](https://github.com/laravel/envoy) - SSH Task Runner
+* [Envoy ★933](https://github.com/laravel/envoy) - SSH Task Runner
 
 ##### Payments
 
 * [Cashier ★1091](https://github.com/laravel/cashier) - Subscription billing with Stripe
-* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay ★3645](https://github.com/thephpleague/omnipay) PHP library
+* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay ★3663](https://github.com/thephpleague/omnipay) PHP library
 
 ##### Optimization
 
@@ -284,7 +284,7 @@ Inspired by [ziadoz/awesome-php ★16135](https://github.com/ziadoz/awesome-php)
 
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
  * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
-* [Rocketeer ★2461](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
+* [Rocketeer ★2466](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
 ## Articles, Tutorials, Blogs etc.
 

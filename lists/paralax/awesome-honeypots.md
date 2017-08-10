@@ -9,13 +9,13 @@ title: Awesome Rank for paralax/awesome-honeypots
 ---
 # Awesome Honeypots  
 
-[![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+[![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome honeypots, tools, components and much more. The list is divided into categories such as web, services, and others, focusing on open source projects.
 
 There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/paralax/awesome-honeypots/blob/master/CONTRIBUTING.md).
 
-Discover more awesome lists at [sindresorhus/awesome ★62884](https://github.com/sindresorhus/awesome).
+Discover more awesome lists at [sindresorhus/awesome ★63395](https://github.com/sindresorhus/awesome).
 
 ### Sections
 
@@ -271,7 +271,8 @@ Discover more awesome lists at [sindresorhus/awesome ★62884](https://github.co
     - [sshhipot ★106](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
     - [DShield docker ★3 ⏳1Y](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
     - [hornet ★17](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot that supports multiple virtual hosts
-    - [ssh-honeypot ★106](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords.    
+    - [ssh-honeypot ★106](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords.
+    - [Kippo_JunOS ★10 ⏳1Y](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
@@ -423,8 +424,8 @@ the honeyd daemon and generate configuration files
     - [ovizart ★43 ⏳4Y](https://github.com/oguzy/ovizart) - visual analysis for network traffic. 
     - [HpfeedsHoneyGraph ★9 ⏳4Y](https://github.com/yuchincheng/HpfeedsHoneyGraph) - a visualization app to visualize hpfeeds logs.
     - [Acapulco ★8 ⏳1Y](https://github.com/hgascon/acapulco) - Automated Attack Community Graph Construction.
-    - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) - Sebek data visualization
-    
+    - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) - Sebek data visualization.
+    - [The Intelligent HoneyNet ★32 ⏳1Y](https://github.com/jpyorre/IntelligentHoneyNet) - The Intelligent Honey Net Project attempts to create actionable information from honeypots.
 
 ## <a name="guides"></a>Guides
 

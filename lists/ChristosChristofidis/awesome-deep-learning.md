@@ -7,7 +7,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 	This list is a copy of <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">ChristosChristofidis/awesome-deep-learning</a> with ranks
 </p>
 ---
-# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 
@@ -444,7 +444,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 24.  [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
 25.  [char-rnn ★6342](https://github.com/karpathy/char-rnn)
 26.  [MatConvNet: CNNs for MATLAB ★803](https://github.com/vlfeat/matconvnet)
-27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU ★610 ⏳1Y](https://github.com/dmlc/minerva)
+27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU ★613 ⏳1Y](https://github.com/dmlc/minerva)
 28.  [Brainstorm - Fast, flexible and fun neural networks. ★1264](https://github.com/IDSIA/brainstorm)
 29.  [Tensorflow - Open source software library for numerical computation using data flow graphs ★66317](https://github.com/tensorflow/tensorflow)
 30.  [DMTK - Microsoft Distributed Machine Learning Tookit ★2192](https://github.com/Microsoft/DMTK)

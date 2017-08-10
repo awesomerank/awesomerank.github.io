@@ -7,7 +7,7 @@ title: Awesome Rank for meitar/awesome-lockpicking
 	This list is a copy of <a href="https://github.com/meitar/awesome-lockpicking">meitar/awesome-lockpicking</a> with ranks
 </p>
 ---
-# Awesome Lockpicking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Lockpicking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome guides, tools, and other resources relating to the security and compromise of locks, safes, and keys.
 
@@ -18,7 +18,7 @@ title: Awesome Rank for meitar/awesome-lockpicking
 * [Books](#books)
 * [Contests, conferences, and events](#contests-conferences-and-events)
 * [Hobby projects](#hobby-projects)
-* [How-to guides](#how-to-guides)
+* [How-to lockpicking guides](#how-to-lockpicking-guides)
 * [Locksport associations and organizations](#locksport-associations-and-organizations)
 * [Online communities](#online-communities)
 * [Vendors](#vendors)
@@ -38,8 +38,12 @@ title: Awesome Rank for meitar/awesome-lockpicking
 # Hobby projects
 
 * [3D Printed Lock Picks](http://blog.shop.23b.org/2014/11/3d-printed-lock-picks.html) - Print lock picks made of plastic materials that, while weak, will survive at least several uses. ([Find more digital models](https://www.yeggi.com/q/lockpick/).)
+* [DIY Lock Pick Set from a Windshield Wiper](http://www.itstactical.com/skillcom/lock-picking/how-to-make-a-diy-lock-pick-set-from-a-windshield-wiper/) - Illustrated guide to building a custom lock pick and tension wrench from windshield wipers.
+* [How to Make a Set of Lockpicks! (using street sweeper bristles)](https://www.instructables.com/id/How-to-Make-a-set-of-Lockpicks/) - Instructions for using discarded street sweeper bristles as material for dual-sided turning tools and picks.
+* [Making Tension Wrenches/Turning Tools From Old Windshield Wiper Blades](https://www.instructables.com/id/Making-Tension-WrenchesTurning-Tools-From-Old-Wind/) - Instructions for turning old windshield wipers into any of a variety of lock pick types and turning tool styles.
+* [Under Door Tool Kit Instructions](http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
 
-# How-to guides
+# How-to lockpicking guides
 
 * [Art of Lockpicking](https://art-of-lockpicking.com/) - Educational website with animations detailing the process of picking locks.
 * [Beginner's Guide to Security Pins](http://www.ninjacache.com/secpins_intro) - Short article guiding beginners comfortable with picking padlocks towards an understanding of more complex locks.
@@ -51,7 +55,6 @@ title: Awesome Rank for meitar/awesome-lockpicking
 * [Lock Picking: Detail Overkill](http://ninjacache.com/data/uploads/lockpicking-detail-overkill.pdf) - Exceptionally thorough guide "for those who want more than just the basics."
 * [LockLab's Lock Picking Course](http://lock-lab.com/locklab-university/lock-picking-course-2/) - Complete start-to-finish course from basic tensioning to speciality lock techniques.
 * [Locksport International Guide to Lock Picking](https://web.archive.org/web/20070222144748/http://locksport.com:80/LSIGuide/lsiguide.pdf) - Locksport primer in the style of a comic book, with photographs and speech bubbles.
-* [Under Door Tool Kit Instructions](http://enterthecore.net/files/CORE_Instructions-Under_Door.pdf) - Short guide to constructing an under-door ("lever opening"/"Mule") tool using material available at a typical hardware store.
 
 # Locksport associations and organizations
 
@@ -76,6 +79,8 @@ title: Awesome Rank for meitar/awesome-lockpicking
 
 * [Learn Lockpicking](https://learnlockpicking.com/) - Retailer of speciality practice locks, lock stands, and more.
 * [Lock Pick Canada](https://www.lockpickcanada.com/) - Canadian retailer carrying a wide range of manufacturers, including [Souber dimple lock picks](https://www.lockpickcanada.com/category_s/4.htm), a manufacturer that only sells to other businesses.
+* [Lockpick Extreme](https://lockpickextreme.com/) - Retailer notable for their [lockpicking accessories](https://lockpickextreme.com/product-category/accessories/) featuring earrings and other jewelry that also function as sturdy tools.
+* [Mad Bob Picks](https://www.madbobpicks.co.uk/) - UK-based manufacturer of lock pick accessories, notable for their [Jackknifes](https://www.madbobpicks.co.uk/Jackknifes-s/116.htm) and lifetime warranty.
 * [Peterson Locksmith Tools / Peterson Manufacturing, Inc.](https://www.thinkpeterson.com/) - Manufacturer of precision lock picking tools and accessories; their [top-of-keyway turning tools](https://www.thinkpeterson.com/cgi-bin/commerce.cgi?preadd=action&key=PPB) are famous but overpriced (you can make your own).
 * [Safe Ventures, Inc.](http://safeventures.com/) - Retailer for safe-opening tools who also offer paid training courses.
 * [Security Snobs](https://securitysnobs.com/) - Retailer of numerous high-security, collector, and cutaway locks who also maintain some informational pages about locksmithing.

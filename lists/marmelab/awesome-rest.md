@@ -7,7 +7,7 @@ title: Awesome Rank for marmelab/awesome-rest
 	This list is a copy of <a href="https://github.com/marmelab/awesome-rest">marmelab/awesome-rest</a> with ranks
 </p>
 ---
-# Awesome REST [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome REST [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A collaborative list of great resources about RESTful API architecture, development, test, and performance. Feel free to contribute to this on-going list.
 
@@ -86,17 +86,17 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Ruby Clients
 
-* [RESTClient ★4028](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
-* [Spyke ★493](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
-* [excon ★826](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
-* [httparty ★4194](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
+* [RESTClient ★4049](https://github.com/rest-client/rest-client) - Simple HTTP and REST client for Ruby, inspired by microframework syntax for specifying actions.
+* [Spyke ★494](https://github.com/balvig/spyke) - Interact with REST services in an ActiveRecord-like manner.
+* [excon ★828](https://github.com/excon/excon) - Usable, fast, simple Ruby HTTP 1.1. It works great as a general HTTP(s) client and is particularly well suited to usage in API clients.
+* [httparty ★4199](https://github.com/jnunemaker/httparty) - Makes HTTP fun again!
 * [Net::HTTP](http://ruby-doc.org/stdlib/libdoc/net/http/rdoc/Net/HTTP.html) - Net::HTTP provides a rich library which can be used to build HTTP user-agents.
 * [raml-ruby-client-generator ★2 ⏳1Y](https://github.com/zlx/raml-ruby-client-generator) - Auto generate API client from a RAML file.
 
 ### Go Clients
 
 * [gopencils ★390](https://github.com/bndr/gopencils) - Small and simple package to easily consume REST APIs.
-* [resty ★546](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
+* [resty ★550](https://github.com/go-resty/resty) - Simple HTTP and REST client for Go inspired by Ruby rest-client.
 
 ## Servers
 
@@ -121,11 +121,11 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Microrest ★188 ⏳1Y](https://github.com/marmelab/microrest.php) - Micro-web application providing a REST API on top of any relational database.
 * [Negotiation ★400](https://github.com/willdurand/Negotiation) - Content negotiation library.
 * [Drest ★81](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints.
-* [Restler ★1204](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
+* [Restler ★1206](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
 * [HAL ★185](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
 * [Apigility ★458](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
 * [phprest ★311](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
-* [Hateoas ★758](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
+* [Hateoas ★759](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
 * [Fusio ★140](https://github.com/apioo/fusio) - Open source API management platform.
 
 #### Symfony2
@@ -134,7 +134,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [FOSRestBundle ★1524](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
 * [stanlemon/rest-bundle ★131](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 * [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
-* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas ★758](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
+* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas ★759](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
 * [Symfony REST Edition ★603](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 * [NgAdminGeneratorBundle ★75 ⏳2Y](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
@@ -162,11 +162,11 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Go
 
 * [gocrud ★278 ⏳1Y](https://github.com/manishrjain/gocrud): Go library to simplify creating, updating and deleting arbitrary depth structured data — to make building REST services fast and easy.
-* [go-json-rest ★2848](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily.
+* [go-json-rest ★2858](https://github.com/ant0ine/go-json-rest) - Thin layer on top of `net/http` that helps building RESTful APIs easily.
 * [sleepy ★657 ⏳3Y](https://github.com/dougblack/sleepy) - RESTful micro-framework written in Go.
 * [restit](https://github.com/yookoala/restit) - Go micro framework to help writing RESTful API integration test.
 * [go-relax ★142](https://github.com/codehack/go-relax) - Framework of pluggable components to build RESTful API's.
-* [go-rest ★102](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
+* [go-rest ★103](https://github.com/ungerik/go-rest) - Small and evil REST framework for Go.
 * [go-restful ★2240](https://github.com/emicklei/go-restful) - A declarative highly readable framework for building restful API's.
 * [Goat ★137](https://github.com/bahlo/goat) - Minimalistic REST API server in Go.
 * [Resoursea ★28 ⏳2Y](https://github.com/resoursea/api) - REST framework for quickly writing resource based services.
@@ -174,7 +174,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 
 ### Java
 
-* [RestExpress ★762](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
+* [RestExpress ★763](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
 * [Vertx-Web ★295](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 
 ### Haskell

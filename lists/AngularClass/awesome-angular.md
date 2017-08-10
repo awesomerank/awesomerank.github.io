@@ -13,7 +13,7 @@ title: Awesome Rank for AngularClass/awesome-angular
   </a>
 </p>
 
-# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
+# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
 
 Awesome list of [Angular 2 and Angular 4](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://angularclass.github.io/awesome-angular/)
 
@@ -112,7 +112,7 @@ Table of contents:
 * [Documentation](https://angular.io/docs/js/latest/)
 * [Cheatsheet](https://angular.io/guide/cheatsheet)
 * [Getting Started Guide](https://angular.io/guide/quickstart)
-* [GitHub Repo ★26499](https://github.com/angular/angular)
+* [GitHub Repo ★26776](https://github.com/angular/angular)
 
 #### Community
 * `#angular2` channel on Freenode IRC Server
@@ -308,6 +308,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular typed Store](https://www.youtube.com/watch?v=bEkPEnudm7s&feature=youtu.be)
 * [Angular advanced tips and tricks](https://www.youtube.com/watch?v=vyiyJCLlGwo&feature=youtu.be)
 * [Angular Fullstack JavaScript Channel](https://www.youtube.com/channel/UCRefxaAA-7PfezH3CY87fzw)
+* [Angular 4 Master Class: Beginner to Advanced](https://www.udemy.com/angular-crash-course-for-beginners)
 
 #### Style Guides
 
@@ -498,7 +499,7 @@ Http is available as an injectable class, with methods to perform http requests.
     * [ngx-rocket/core ★2](https://github.com/ngx-rocket/core)
 * Dart
   * Stagehand
-    * [google/stagehand ★200](https://github.com/google/stagehand)
+    * [google/stagehand ★202](https://github.com/google/stagehand)
 
 #### Documentation tools
 
@@ -532,8 +533,8 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 #### TypeScript General Resources
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/play/) Official TypeScript REPL that runs entirely in your browser
-* [TypeScript Repository (GitHub) ★24497](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub) ★11695](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub) ★24775](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub) ★11776](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 
 
 #### TypeScript Seed Projects
@@ -752,7 +753,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 > Bit is an open source virtual repository (code base) built to make components easily manageable and usable across applications. You can quickly export any Angular component from any context while working on any project to a bit distributed Scope. Bit's reusbale component environment cuts the overhead of configuring build and test environments for exporting every new component. The Scope is a virtual component repository which stores, organizes, manages and tests your components. Once modeled on a Scope, your components can be easily found and used in any Angular application. Components can be organized together and still modified and used individually without pulling in entire libraries.
 
 ##### Bit Resources
-* [Bit ★667](https://github.com/teambit/bit)
+* [Bit ★670](https://github.com/teambit/bit)
 * [Bit-Javascript ★11](https://github.com/teambit/bit-javascript)
 * [bitsrc](https://bitsrc.io/) - Free community hub for sharing, managing and finding open source components. 
 

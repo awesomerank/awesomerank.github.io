@@ -7,7 +7,7 @@ title: Awesome Rank for Siilwyn/awesome-pixel-art
 	This list is a copy of <a href="https://github.com/Siilwyn/awesome-pixel-art">Siilwyn/awesome-pixel-art</a> with ranks
 </p>
 ---
-# Awesome Pixel Art [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Pixel Art [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/Siilwyn/awesome-pixel-art/1d81c507/sheep-timelapse.gif" align="right" width="118">](https://twitter.com/mnrART)
 

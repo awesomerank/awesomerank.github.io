@@ -7,7 +7,7 @@ title: Awesome Rank for humiaozuzu/awesome-flask
 	This list is a copy of <a href="https://github.com/humiaozuzu/awesome-flask">humiaozuzu/awesome-flask</a> with ranks
 </p>
 ---
-Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+Awesome Flask [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 =============
 
 > A curated list of awesome Flask resources and plugins
@@ -120,7 +120,7 @@ Plugins
     - [Flask-HTTPAuth ★358](https://github.com/miguelgrinberg/Flask-HTTPAuth) - Simple extension that provides Basic and Digest HTTP authentication for Flask routes
     - [Flask-User ★511](https://github.com/lingthio/Flask-User) - Customizable user account management for Flask
 - Authorization
-    - [Flask-Pundit](https://github.com/anurag90x/flask-pundit) - Extension based on Rails' [Pundit ★5312](https://github.com/elabs/pundit) gem that provides easy way to organize access control for your models
+    - [Flask-Pundit](https://github.com/anurag90x/flask-pundit) - Extension based on Rails' [Pundit ★5327](https://github.com/elabs/pundit) gem that provides easy way to organize access control for your models
 - Database/ORM/ODM
     - [Flask-MongoEngine ★448](https://github.com/MongoEngine/flask-mongoengine) - MongoEngine flask extension with WTF model forms support
     - [Flask-PyMongo ★338](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications

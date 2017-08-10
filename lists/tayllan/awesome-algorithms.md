@@ -76,14 +76,14 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
-* [C ★887](https://github.com/fragglet/c-algorithms)
+* [C ★904](https://github.com/fragglet/c-algorithms)
 * [CoffeeScript ★35](https://github.com/BrunoRB/algorithms.coffee)
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
-    * [by @aalhour ★1211](https://github.com/aalhour/C-Sharp-Algorithms)
+    * [by @aalhour ★1219](https://github.com/aalhour/C-Sharp-Algorithms)
     * [by @justcoding121 ★6](https://github.com/justcoding121/Advanced-Algorithms)
 * C++
-    * [by @xtaci ★1652](https://github.com/xtaci/algorithms)
+    * [by @xtaci ★1660](https://github.com/xtaci/algorithms)
     * [by @PetarV- ★102](https://github.com/PetarV-/Algorithms)
     * [by @faheel ★67](https://github.com/faheel/Algos)
 * [Erlang ★79](https://github.com/aggelgian/erlang-algorithms)
@@ -102,20 +102,20 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @duereg ★549](https://github.com/duereg/js-algorithms)
     * [by @mgechev ★2994](https://github.com/mgechev/javascript-algorithms)
 * Objective-C
-    * [by @ EvgenyKarkan ★2235](https://github.com/EvgenyKarkan/EKAlgorithms)
+    * [by @ EvgenyKarkan ★2236](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
     * [by @nryoung ★2353](https://github.com/nryoung/algorithms)
     * [by @prakhar1989 ★1859](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce ★204](https://github.com/laurentluce/python-algorithms)
     * [by @nelson-brochado](https://github.com/nelson-brochado/ands)
 * Ruby
-    * [by @kanwei ★2140](https://github.com/kanwei/algorithms)
+    * [by @kanwei ★2143](https://github.com/kanwei/algorithms)
     * [by @sagivo ★2838](https://github.com/sagivo/algorithms)
     * [by @kumar91gopi ★46](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 * [Scala ★870](https://github.com/vkostyukov/scalacaster)
 * Swift
     * [by @kingreza ★26](https://github.com/kingreza/Swift-Algorithms-Strings-)
-    * [by @waynewbishop ★1715](https://github.com/waynewbishop/SwiftStructures)
+    * [by @waynewbishop ★1716](https://github.com/waynewbishop/SwiftStructures)
     * [by @hollance](https://github.com/hollance/swift-algorithm-club)
 * Language agnostic
     * [by @kennyledet ★1936](https://github.com/kennyledet/Algorithm-Implementations)

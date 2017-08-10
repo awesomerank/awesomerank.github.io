@@ -7,13 +7,13 @@ title: Awesome Rank for jwaterfaucett/awesome-foss-apps
 	This list is a copy of <a href="https://github.com/jwaterfaucett/awesome-foss-apps">jwaterfaucett/awesome-foss-apps</a> with ranks
 </p>
 ---
-# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome production grade free and open source software organized by category.
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome ★62884](https://github.com/sindresorhus/awesome).*
+*Inspired by Sindre Sorhus's [awesome ★63395](https://github.com/sindresorhus/awesome).*
 
 ## TOC
 
@@ -65,7 +65,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse ★22285](https://github.com/discourse/discourse)
+### [Discourse ★22338](https://github.com/discourse/discourse)
 
 * ruby, rails, ember
 * GPLv2 License

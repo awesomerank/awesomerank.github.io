@@ -7,7 +7,7 @@ title: Awesome Rank for mark-rushakoff/awesome-influxdb
 	This list is a copy of <a href="https://github.com/mark-rushakoff/awesome-influxdb">mark-rushakoff/awesome-influxdb</a> with ranks
 </p>
 ---
-# awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome projects, libraries, tools, etc. related to [InfluxDB](https://www.influxdata.com/).
 This list focuses on libraries, tools, etc. supporting InfluxDB version 1.0 and up.
@@ -92,7 +92,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [heapster ★1346](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](https://kubernetes.io/) cluster
 * [heka ★3273](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
 * [internet_data_usage ★1 ⏳1Y](https://github.com/precurse/internet_data_usage) - Python based application to pull data plan usage for different carriers such as Telus and Koodo
-* [jmxtrans ★1197](https://github.com/jmxtrans/jmxtrans) - Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.
+* [jmxtrans ★1204](https://github.com/jmxtrans/jmxtrans) - Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.
 * [logary ★287](https://github.com/logary/logary) - High performance, multi-target logging, metric and health-check library for mono and .Net
 * [metrics.sh ★46](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
 * [OpenHAB](http://www.openhab.org/) - a universal integration platform for all things around home automation
@@ -108,7 +108,7 @@ Libraries to collect data and feed into InfluxDB.
 * [django-influxdb-metrics ★47](https://github.com/bitlabstudio/django-influxdb-metrics) - A reusable Django app that sends metrics about your project to InfluxDB
 * [go-runtime-metrics ★140](https://github.com/tevjef/go-runtime-metrics) - Collect golang runtime Metrics, outputting to InfluxDB or through Telegraf
 * [lua-resty-influx ★4](https://github.com/p0pr0ck5/lua-resty-influx) - [OpenResty](https://openresty.org/en/) client for InfluxDB
-* [metrics ★204](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
+* [metrics ★205](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
 * [pyVsphereInflux ★3 ⏳1Y](https://github.com/fennm/pyVsphereInflux) - A library and supporting script for pulling data from [vSphere](http://www.vmware.com/products/vsphere.html) and inserting it into InfluxDB
 * [telemetry ★76 ⏳2Y](https://github.com/arussellsaw/telemetry) - metric reporting for Go applications
 
@@ -116,8 +116,8 @@ Libraries to collect data and feed into InfluxDB.
 
 Hooks for other logging libraries to output to InfluxDB.
 
-* [go-metrics-influxdb](https://github.com/vrischmann/go-metrics-influxdb) - A reporter for the [go-metrics library ★1632](https://github.com/rcrowley/go-metrics) which will post the metrics to InfluxDB
-* [logrus_influxdb](https://github.com/Abramovic/logrus_influxdb) - InfluxDB Hook for [Logrus ★5226](https://github.com/Sirupsen/logrus)
+* [go-metrics-influxdb](https://github.com/vrischmann/go-metrics-influxdb) - A reporter for the [go-metrics library ★1637](https://github.com/rcrowley/go-metrics) which will post the metrics to InfluxDB
+* [logrus_influxdb](https://github.com/Abramovic/logrus_influxdb) - InfluxDB Hook for [Logrus ★5272](https://github.com/Sirupsen/logrus)
 
 ### Plugins
 
@@ -192,12 +192,12 @@ Projects that don't seem to fit in any other category.
 * [awesome-dashboard ★423](https://github.com/obazoud/awesome-dashboard)
 * [awesome-data-engineering ★1038](https://github.com/igorbarinov/awesome-data-engineering)
 * [awesome-db ★458](https://github.com/numetriclabz/awesome-db)
-* [awesome-go ★22467](https://github.com/avelino/awesome-go)
+* [awesome-go ★22639](https://github.com/avelino/awesome-go)
 * [awesome-sysadmin ★15682](https://github.com/kahun/awesome-sysadmin)
 
 ### Lists of awesome lists that include awesome-influxdb
 
-* [awesome ★62884](https://github.com/sindresorhus/awesome)
+* [awesome ★63395](https://github.com/sindresorhus/awesome)
 * [lists ★4417](https://github.com/jnv/lists)
 
 ## License

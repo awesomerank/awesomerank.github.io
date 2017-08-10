@@ -215,7 +215,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-querycount ★95](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 * [django-silk](https://github.com/django-silk/silk) - Silky smooth profiling for Django
 * [nplusone ★281](https://github.com/jmcarp/nplusone) - Auto-detecting the n+1 queries problem in Django (and other ORMs)
-* [sentry ★13390](https://github.com/getsentry/sentry) - A modern error logging and aggregation platform.
+* [sentry ★13463](https://github.com/getsentry/sentry) - A modern error logging and aggregation platform.
 
 ## Email
 

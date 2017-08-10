@@ -63,7 +63,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bashhub ★363](https://github.com/rcaloras/bashhub-client) - :cloud: Bash history in the cloud. Indexed and searchable.
 * [bashmarks ★1101](https://github.com/huyng/bashmarks) - Directory bookmarks for the shell
 * [bd ★691](https://github.com/vigneshwaranr/bd) - Quickly go back to a parent directory
-* [boilr ★517](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
+* [boilr ★520](https://github.com/tmrts/boilr) - A blazingly fast CLI tool for creating projects from boilerplate templates.
 * [boom ★1062](https://github.com/holman/boom) - Store links and snippets in the commandline
 * [borg ★1264](https://github.com/ok-borg/borg) - A terminal based search engine for bash commands
 * [Buku ★1471](https://github.com/jarun/Buku) - Powerful command-line bookmark manager
@@ -75,7 +75,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fasd ★3201](https://github.com/clvv/fasd) - Command-line productivity booster, offers quick access to files and directories
 * [foxy ★6](https://github.com/s-p-k/foxy) - Plain text bookmarks for firefox and surf browsers.
 * [fz ★103](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
-* [fzf ★9711](https://github.com/junegunn/fzf) - A command-line fuzzy finder
+* [fzf ★9760](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 * [googler ★1723](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
 * [hhighlighter ★217](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr ★1011](https://github.com/LuRsT/hr) - `<hr />` for your terminal
@@ -145,13 +145,13 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [git-open ★1049](https://github.com/paulirish/git-open) - Type `git open` to open the GitHub page or website for a repository in your browser
 * [git-semver ★115](https://github.com/markchalloner/git-semver) - Git plugin for easing semantic versioning and changelog validation
 * [git-sh ★675](https://github.com/rtomayko/git-sh) - A customized Bash environment suitable for Git work
-* [git-up ★2732 ⏳1Y](https://github.com/aanand/git-up) - Automatically rebase incoming changes instead of merging. Be polite!
-* [hub ★11078](https://github.com/github/hub) - hub helps you win at git.
+* [git-up ★2735 ⏳1Y](https://github.com/aanand/git-up) - Automatically rebase incoming changes instead of merging. Be polite!
+* [hub ★11115](https://github.com/github/hub) - hub helps you win at git.
 * [mr ★1](https://github.com/joeyh/myrepos) - Multiple Repository management tool
-* [overcommit ★2041](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
+* [overcommit ★2049](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](http://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [repren ★141 ⏳1Y](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
-* [slap ★4627](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
+* [slap ★4640](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit ★338 ⏳1Y](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring ★98](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 * [tag ★437](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
@@ -222,7 +222,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [geeknote ★1799](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [haxor-news ★2306](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 * [hn-cli ★384](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
-* [iponmap ★117](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
+* [iponmap ★118](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup ★21 ⏳1Y](https://github.com/lord63/isitup) - Check whether a website is up or down
 * [jrnl ★2433](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger ★2096](https://github.com/ledger/ledger) - Command line accounting

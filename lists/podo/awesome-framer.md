@@ -7,7 +7,7 @@ title: Awesome Rank for podo/awesome-framer
 	This list is a copy of <a href="https://github.com/podo/awesome-framer">podo/awesome-framer</a> with ranks
 </p>
 ---
-# Awesome Framer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Framer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 [<img src="logo.png" align="right" width="75">](https://framer.com/)
 

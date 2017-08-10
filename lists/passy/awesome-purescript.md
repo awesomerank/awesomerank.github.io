@@ -7,7 +7,7 @@ title: Awesome Rank for passy/awesome-purescript
 	This list is a copy of <a href="https://github.com/passy/awesome-purescript">passy/awesome-purescript</a> with ranks
 </p>
 ---
-# awesome-purescript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# awesome-purescript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of delightful libraries, tools and other shiny things for PureScript.
 
@@ -18,7 +18,7 @@ title: Awesome Rank for passy/awesome-purescript
 - [purescript-psa ★35](https://github.com/natefaubion/purescript-psa) - A pretty, flexible error/warning reporting frontend for `psc`
 - [grunt-purescript ★10 ⏳1Y](https://github.com/purescript-contrib/grunt-purescript)
 - [gulp-purescript ★34](https://github.com/purescript-contrib/gulp-purescript)
-- [purs-loader ★96](https://github.com/ethul/purs-loader) for webpack
+- [purs-loader ★97](https://github.com/ethul/purs-loader) for webpack
 
 ## Preludes
 
@@ -28,21 +28,21 @@ title: Awesome Rank for passy/awesome-purescript
 
 ## UI Libraries
 
-- [purescript-thermite ★249](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
-- [purescript-halogen ★584](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
+- [purescript-thermite ★250](https://github.com/paf31/purescript-thermite) - A simple wrapper for ReactJS inspired by `react-blaze`.
+- [purescript-halogen ★586](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
 - [purescript-react-simple ★3 ⏳2Y](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react.
-- [purescript-css ★43](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS.
-- [purescript-optic-ui ★88](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
-- [purescript-flare ★178](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal.
+- [purescript-css ★44](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS.
+- [purescript-optic-ui ★89](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
+- [purescript-flare ★179](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal.
 
 ## Asynchronicity and Parallelism
 
-- [purescript-aff ★129](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
-- [purescript-affjax ★129](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
+- [purescript-aff ★130](https://github.com/slamdata/purescript-aff) - An asynchronous effect monad for PureScript.
+- [purescript-affjax ★130](https://github.com/slamdata/purescript-aff) - An asynchronous AJAX library built using Aff.
 
 ## Testing
 
-- [purescript-test-unit ★42](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript.
+- [purescript-test-unit ★43](https://github.com/bodil/purescript-test-unit) - An asynchronous unit test runner for PureScript.
 - [purescript-quickcheck ★44](https://github.com/purescript/purescript-quickcheck) - An implementation of QuickCheck in PureScript.
 - [purescript-quickcheck-laws ★6](https://github.com/garyb/purescript-quickcheck-laws) - Law tests for core classes.
 - [purescript-benchotron ★14](https://github.com/hdgarrood/purescript-benchotron) - Straightforward benchmarking for PureScript/JavaScript.

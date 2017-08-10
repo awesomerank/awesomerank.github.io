@@ -7,7 +7,7 @@ title: Awesome Rank for MaximAbramchuck/awesome-interview-questions
 	This list is a copy of <a href="https://github.com/MaximAbramchuck/awesome-interview-questions">MaximAbramchuck/awesome-interview-questions</a> with ranks
 </p>
 ---
-# Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Interviews [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of lists of technical interview questions.
 
@@ -428,7 +428,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 
 * [A great list of Java interview questions](http://java2novice.com/java-interview-programs/)
 * [Algorithms playground for common interview questions written in Ruby ★2838](https://github.com/sagivo/algorithms)
-* [EKAlgorithms contains some well known CS algorithms & data structures ★2235](https://github.com/EvgenyKarkan/EKAlgorithms)
+* [EKAlgorithms contains some well known CS algorithms & data structures ★2236](https://github.com/EvgenyKarkan/EKAlgorithms)
 * [Five programming problems every Software Engineer should be able to solve in less than 1 hour](http://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour)
 * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
 * [Top 15 Data Structures and Algorithm Interview Questions for Java programmer](http://javarevisited.blogspot.com.by/2013/03/top-15-data-structures-algorithm-interview-questions-answers-java-programming.html)
@@ -449,7 +449,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 ## Design Patterns
 * [Design Pattern Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Design Pattern](http://www.tutorialspoint.com/design_pattern/design_pattern_interview_questions.htm)
 * [Design Patterns for Humans™ - An ultra-simplified explanation](https://github.com/kamranahmedse/design-patterns-for-humans)
-* [Design patterns implemented in Java ★20677](https://github.com/iluwatar/java-design-patterns)
+* [Design patterns implemented in Java ★20877](https://github.com/iluwatar/java-design-patterns)
 
 ## Data structures
 

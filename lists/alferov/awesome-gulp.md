@@ -7,11 +7,11 @@ title: Awesome Rank for alferov/awesome-gulp
 	This list is a copy of <a href="https://github.com/alferov/awesome-gulp">alferov/awesome-gulp</a> with ranks
 </p>
 ---
-# Awesome Gulp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Gulp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome [gulp ★27019](https://github.com/gulpjs/gulp) resources, plugins, and boilerplates for a better development workflow automation.
 
-*Looking for something else? Take a look at other [awesome lists ★62884](https://github.com/sindresorhus/awesome).*
+*Looking for something else? Take a look at other [awesome lists ★63395](https://github.com/sindresorhus/awesome).*
 
 ## Contribution
 :octocat: All contributions welcome. Feel free to contribute ([guidelines](https://github.com/alferov/awesome-gulp/blob/master/contributing.md)).
@@ -125,16 +125,16 @@ title: Awesome Rank for alferov/awesome-gulp
 
 ## Plugins
 ### Compilation
-* [gulp-sass](https://github.com/dlmanning/gulp-sass) - Sass → CSS with [libsass ★3546](https://github.com/sass/libsass).
+* [gulp-sass](https://github.com/dlmanning/gulp-sass) - Sass → CSS with [libsass ★3550](https://github.com/sass/libsass).
 * [gulp-ruby-sass ★478](https://github.com/sindresorhus/gulp-ruby-sass) - Sass → CSS with Ruby Sass.
 * [gulp-compass ★174](https://github.com/appleboy/gulp-compass) - Sass → CSS with Ruby Sass & Compass.
 * [gulp-less](https://github.com/plus3network/gulp-less) - [Less ★14952](https://github.com/less/less.js) → CSS.
 * [gulp-stylus](https://github.com/stevelacy/gulp-stylus) - [Stylus ★8335](https://github.com/stylus/stylus) → CSS.
-* [gulp-postcss](https://github.com/postcss/gulp-postcss) - Pipe CSS through [PostCSS ★15573](https://github.com/postcss/postcss) processors with a single parse.
+* [gulp-postcss](https://github.com/postcss/gulp-postcss) - Pipe CSS through [PostCSS ★15648](https://github.com/postcss/postcss) processors with a single parse.
 * [gulp-coffee](https://github.com/contra/gulp-coffee) - [Coffeescript ★14130](https://github.com/jashkenas/coffeescript) → JavaScript.
-* [gulp-typescript](https://github.com/ivogabe/gulp-typescript) - [TypeScript ★24497](https://github.com/Microsoft/TypeScript) → JavaScript.
+* [gulp-typescript](https://github.com/ivogabe/gulp-typescript) - [TypeScript ★24775](https://github.com/Microsoft/TypeScript) → JavaScript.
 * [gulp-react](https://github.com/sindresorhus/gulp-react) - Facebook [React ★72742](https://github.com/facebook/react) JSX templates → JavaScript.
-* [webpack-stream](https://github.com/shama/webpack-stream) - Run [webpack ★30679](https://github.com/webpack/webpack) as a stream to conveniently integrate with gulp.
+* [webpack-stream](https://github.com/shama/webpack-stream) - Run [webpack ★30925](https://github.com/webpack/webpack) as a stream to conveniently integrate with gulp.
 
 ### Transpilation
 * [gulp-babel](https://github.com/babel/gulp-babel) - ES6 → ES5 with [babel ★22045](https://github.com/babel/babel).
@@ -148,12 +148,12 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-concat ★671](https://github.com/contra/gulp-concat) - Concatenate files.
 
 ### Minification
-* [gulp-clean-css](https://github.com/scniro/gulp-clean-css) - Minify CSS with [clean-css ★2530](https://github.com/jakubpawlowicz/clean-css).
+* [gulp-clean-css](https://github.com/scniro/gulp-clean-css) - Minify CSS with [clean-css ★2536](https://github.com/jakubpawlowicz/clean-css).
 * [gulp-csso](https://github.com/ben-eb/gulp-csso) - Minify CSS with [CSSO ★2319](https://github.com/css/csso).
 * [gulp-uglify](https://github.com/terinjokes/gulp-uglify) - Minify JavaScript with [UglifyJS2 ★7033](https://github.com/mishoo/UglifyJS2).
 * [gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin) - Minify HTML with [html-minifier ★2531](https://github.com/kangax/html-minifier).
 * [gulp-htmlmin ★499](https://github.com/jonschlinkert/gulp-htmlmin) - Minify HTML.
-* [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with [imagemin ★1397](https://github.com/imagemin/imagemin).
+* [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with [imagemin ★1412](https://github.com/imagemin/imagemin).
 * [gulp-svgmin ★273](https://github.com/ben-eb/gulp-svgmin) - Minify SVG files with gulp.
 
 ### Optimization
@@ -172,15 +172,15 @@ title: Awesome Rank for alferov/awesome-gulp
 ### Templating
 * [gulp-angular-templatecache ★514](https://github.com/miickel/gulp-angular-templatecache) - Concatenate and register AngularJS templates in the $templateCache.
 * [gulp-jade](https://github.com/phated/gulp-jade) - [Jade](https://github.com/pugjs/jade) → HTML.
-* [gulp-handlebars](https://github.com/lazd/gulp-handlebars) - [Handlebars ★12245](https://github.com/wycats/handlebars.js) templates → JavaScript.
-* [gulp-hb](https://github.com/shannonmoeller/gulp-hb) - [Handlebars ★12245](https://github.com/wycats/handlebars.js) templates → HTML.
-* [gulp-nunjucks](https://github.com/sindresorhus/gulp-nunjucks) - [Nunjucks ★4420](https://github.com/mozilla/nunjucks) templates → JavaScript.
+* [gulp-handlebars](https://github.com/lazd/gulp-handlebars) - [Handlebars ★12275](https://github.com/wycats/handlebars.js) templates → JavaScript.
+* [gulp-hb](https://github.com/shannonmoeller/gulp-hb) - [Handlebars ★12275](https://github.com/wycats/handlebars.js) templates → HTML.
+* [gulp-nunjucks](https://github.com/sindresorhus/gulp-nunjucks) - [Nunjucks ★4444](https://github.com/mozilla/nunjucks) templates → JavaScript.
 * [gulp-dustjs](https://github.com/sindresorhus/gulp-dust) - [Dust ★2622](https://github.com/linkedin/dustjs) templates → JavaScript.
 * [gulp-riot](https://github.com/e-jigsaw/gulp-riot) - [Riot ★12214](https://github.com/riot/riot) templates → JavaScript.
 * [gulp-markdown ★128 ⏳1Y](https://github.com/sindresorhus/gulp-markdown) - Markdown → HTML.
 * [gulp-template](https://github.com/sindresorhus/gulp-template) - [Lodash  ★25406](https://github.com/lodash/lodash) templates → JavaScript.
 * [gulp-swig](https://github.com/colynb/gulp-swig) - [Swig ★2935](https://github.com/paularmstrong/swig) templates → HTML.
-* [gulp-remark](https://github.com/denysdovhan/gulp-remark) - Gulp plugin for [remark ★1007](https://github.com/wooorm/remark) - markdown processor powered by plugins
+* [gulp-remark](https://github.com/denysdovhan/gulp-remark) - Gulp plugin for [remark ★1019](https://github.com/wooorm/remark) - markdown processor powered by plugins
 
 ### Linting
 * [gulp-csslint](https://www.npmjs.com/package/gulp-csslint) - Automated linting of CSS with [CSSLint ★3847](https://github.com/CSSLint/csslint).
@@ -188,7 +188,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-jshint](https://github.com/spalger/gulp-jshint) - Detect errors and potential problems in JavaScript with [JSHint ★7350](https://github.com/jshint/jshint).
 * [gulp-jscs](https://github.com/jscs-dev/gulp-jscs) - Check JavaScript code style with [jscs ★5151](https://github.com/jscs-dev/node-jscs).
 * [gulp-coffeelint](https://github.com/janraasch/gulp-coffeelint) - A style checker that helps keep [CoffeeScript ★14130](https://github.com/jashkenas/coffeescript) code clean.
-* [gulp-tslint](https://github.com/panuhorsmalahti/gulp-tslint) - [TypeScript ★24497](https://github.com/Microsoft/TypeScript) linter plugin for gulp.
+* [gulp-tslint](https://github.com/panuhorsmalahti/gulp-tslint) - [TypeScript ★24775](https://github.com/Microsoft/TypeScript) linter plugin for gulp.
 * [gulp-eslint ★471](https://github.com/adametry/gulp-eslint) - Identify and report on patterns found in ECMAScript/JavaScript code.
 * [gulp-w3cjs](https://github.com/callumacrae/gulp-w3cjs) - Validate HTML with [w3cjs ★131](https://github.com/thomasdavis/w3cjs).
 * [gulp-lesshint](https://github.com/lesshint/gulp-lesshint) - Lint less files with [lesshint ★91](https://github.com/lesshint/lesshint).
@@ -233,7 +233,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-replace ★361](https://github.com/lazd/gulp-replace) - A string replace plugin for gulp.
 * [gulp-rename ★540](https://github.com/hparra/gulp-rename) - Rename files easily.
 * [gulp-rev ★1251](https://github.com/sindresorhus/gulp-rev) - Static asset revisioning by appending content hash to filenames: unicorn.css → unicorn-d41d8cd98f.css.
-* [del ★660](https://github.com/sindresorhus/del) - Delete files/folders using globs.
+* [del ★663](https://github.com/sindresorhus/del) - Delete files/folders using globs.
 * [gulp-exec ★118](https://github.com/robrich/gulp-exec) - Run a shell command.
 * [gulp-strip-debug ★194](https://github.com/sindresorhus/gulp-strip-debug) - Strip console, alert, and debugger statements from JavaScript code.
 * [gulp-cssimport ★25](https://github.com/unlight/gulp-cssimport) - Parses a CSS file, finds imports, grabs the content of the linked file and replaces the import statement with it.

@@ -7,11 +7,11 @@ title: Awesome Rank for PerfectCarl/awesome-play1
 	This list is a copy of <a href="https://github.com/PerfectCarl/awesome-play1">PerfectCarl/awesome-play1</a> with ranks
 </p>
 ---
-# Awesome Play1 [![play-isthe1!](http://img.shields.io/badge/play-isthe1-red.svg?style=flat)](https://github.com/markets/awesome-ruby) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Play1 [![play-isthe1!](http://img.shields.io/badge/play-isthe1-red.svg?style=flat)](https://github.com/markets/awesome-ruby) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A collection of awesome Play 1.x [modules](#modules), [tools](#tools), and [resources](#resources).
 
->Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [awesome-ruby ★7477](https://github.com/markets/awesome-ruby).
+>Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [awesome-ruby ★7501](https://github.com/markets/awesome-ruby).
 
 [Contributions](https://github.com/PerfectCarl/awesome-play1/blob/master/CONTRIBUTING.md) are always welcome! 
 
@@ -110,7 +110,7 @@ If you want to contribute information about a module, please refer to the [guide
 * **[[playerrors] ](http://www.playframework.com/modules/playerrors) [Playerrors](https://github.com/marius0/playerrors)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/playerrors) Playerrors gathers and informs you about the errors in your production webapps, so you can fix them before your visitors get a chance to complain 
 * **[profiler]  [Mini-profiler](https://github.com/PerfectCarl/play-profiler)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-no-red.svg?style=flat) ★5 ⏳3Y](https://github.com/PerfectCarl/play-profiler) Displays a mini profiler in your application 
 * **[[recordtracking] ](http://www.playframework.com/modules/recordtracking) [RecordTracking ★4 ⏳5Y](https://github.com/omaroman/recordtracking)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/recordtracking) RecordTracking unobtrusively tracks the creation, updating and elimination events regarding to records. 
-* **[[statsd] ](http://www.playframework.com/modules/statsd) [Statsd](https://github.com/rkroll/play-statsd/)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/statsd) The module is a wrapper over [StatsD ★11744](https://github.com/etsy/statsd) which allow for dead simple statistic aggregation from within play. 
+* **[[statsd] ](http://www.playframework.com/modules/statsd) [Statsd](https://github.com/rkroll/play-statsd/)** [![registered on playframework.com/modules](http://img.shields.io/badge/registered-yes-green.svg?style=flat)](http://www.playframework.com/modules/statsd) The module is a wrapper over [StatsD ★11785](https://github.com/etsy/statsd) which allow for dead simple statistic aggregation from within play. 
 
 ### Persistence 
 

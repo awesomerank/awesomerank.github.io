@@ -7,7 +7,7 @@ title: Awesome Rank for mislavcimpersak/awesome-dev-fun
 	This list is a copy of <a href="https://github.com/mislavcimpersak/awesome-dev-fun">mislavcimpersak/awesome-dev-fun</a> with ranks
 </p>
 ---
-# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 
@@ -38,7 +38,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 
 
 ## Elixir
-- [OOP ★114](https://github.com/wojtekmach/oop) - OOP in Elixir!
+- [OOP ★115](https://github.com/wojtekmach/oop) - OOP in Elixir!
 
 
 ## Haskell
@@ -76,7 +76,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 
 ## Ruby
 
-- [Nyan Cat RSpec Formatter ★641](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
+- [Nyan Cat RSpec Formatter ★642](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
 - [Base ★377 ⏳3Y](https://github.com/garybernhardt/base) - The universal Base class you've always wanted.
 
 

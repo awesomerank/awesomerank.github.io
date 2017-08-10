@@ -11,11 +11,11 @@ title: Awesome Rank for d3viant0ne/awesome-rethinkdb
 	<img width="120" src="https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/media/rethinkdb.jpg" alt="RethinkDB">
 	<br>
 </h3>
-## Awesome RethinkDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+## Awesome RethinkDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome RethinkDB resources, libraries, tools and applications
 
-Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/CONTRIBUTING.md)!
+Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/d3viant0ne/awesome-rethinkdb/blob/master/CONTRIBUTING.md)!
 
 ### Table of Contents
  - [Resources](#resources)
@@ -168,11 +168,11 @@ Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list
 
 #### Community Supported Drivers
 
-- [C# ★210](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
+- [C# ★209](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
 - [C++ ★62](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++.
 - [Clojure ★173](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure.
 - [Dart ★20](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3.
-- [Elixir ★463](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir.
+- [Elixir ★464](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir.
 - [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB. 
 - [Haskell ★86](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell.
 - [Lisp ★41 ⏳1Y](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB driver for Common Lisp.

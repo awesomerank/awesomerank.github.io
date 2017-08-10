@@ -9,7 +9,7 @@ title: Awesome Rank for gamontalvo/awesome-katas
 ---
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
-# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 > A curated list of code katas
 
 ## Table of Contents
@@ -48,7 +48,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Kata20: Klondike](http://codekata.com/kata/kata20-klondike/)
   - [Kata21: Simple Lists](http://codekata.com/kata/kata21-simple-lists/)
 
-## [Wonderland Clojure Katas ★521](https://github.com/gigasquid/wonderland-clojure-katas)
+## [Wonderland Clojure Katas ★522](https://github.com/gigasquid/wonderland-clojure-katas)
   - [Alphabet Cipher](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
   - [Card game War](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
   - [Doublets](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets)

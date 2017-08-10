@@ -7,7 +7,7 @@ title: Awesome Rank for seancoyne/awesome-coldfusion
 	This list is a copy of <a href="https://github.com/seancoyne/awesome-coldfusion">seancoyne/awesome-coldfusion</a> with ranks
 </p>
 ---
-# Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome ColdFusion [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript ★11806](https://github.com/sorrycc/awesome-javascript).
 
@@ -63,14 +63,14 @@ Pull requests very welcome.
 * [ContentBox ★66](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS ★7](https://github.com/farcrycore/plugin-farcrycms)
 * [Mura ★232](https://github.com/blueriver/MuraCMS)
-* [Preside CMS ★34](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
+* [Preside CMS ★33](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
 * [Slatwall ★114](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform
 
 ## NoSQL
 
 * [CFArango ★4](https://github.com/dajester2013/CFArango) - ArangoDB client for ColdFusion
 * [CFCouchbase ★12](https://github.com/Ortus-Solutions/cfcouchbase-sdk) - Couchbase NoSQL and caching client wrapper for ColdFusion
-* [cfmongodb ★91 ⏳1Y](https://github.com/marcesher/cfmongodb) - MongoDB client wrapper for ColdFusion
+* [cfmongodb ★92 ⏳1Y](https://github.com/marcesher/cfmongodb) - MongoDB client wrapper for ColdFusion
 
 ## REST
 
@@ -114,7 +114,7 @@ Pull requests very welcome.
 * [CF411](http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (in over 150 categories) by Charlie Arehart
 * [CFLib](http://cflib.org/) - Common Function Library Project
 * [ColdFusion Koans ★61 ⏳1Y](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
-* [ColdFusion UI the Right Way ★85](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
+* [ColdFusion UI the Right Way ★86](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
 * [Learn CF in a Week](http://www.learncfinaweek.com) - community driven training program that teaches all the basics you need to be a ColdFusion Developer in one week.
 * [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
 

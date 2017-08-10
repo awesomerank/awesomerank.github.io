@@ -13,7 +13,7 @@ title: Awesome Rank for behzad888/awesome-aurelia
   </a>
 </p>
 
-# Aurelia Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/aurelia/discuss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aurelia/discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/behzad888/awesome-aurelia.svg?branch=master)](https://travis-ci.org/behzad888/awesome-aurelia)
+# Aurelia Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/aurelia/discuss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aurelia/discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/behzad888/awesome-aurelia.svg?branch=master)](https://travis-ci.org/behzad888/awesome-aurelia)
 
 A curated list of amazingly awesome Aurelia libraries, resources and shiny things.
 
@@ -194,7 +194,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-sails-socket-client ★21](https://github.com/Mordred/aurelia-sails-socket-client) * A simple, restful, message-based wrapper around sails.io client
 * [aurelia-switch](https://github.com/Itprosolutions/aurelia-switch) * An aurelia optimised switchButton
 * [aurelia-yt-player ★3](https://github.com/genadis/aurelia-yt-player) * Aurelia plugin for Youtube player API
-* [abalmus/aurelia-ace-editor ★5](https://github.com/abalmus/aurelia-ace-editor) * Aurelia ace editor plugin
+* [abalmus/aurelia-ace-editor ★5 ⏳1Y](https://github.com/abalmus/aurelia-ace-editor) * Aurelia ace editor plugin
 * [Tseberechts/aurelia-place-picker ★2 ⏳1Y](https://github.com/Tseberechts/aurelia-place-picker) * A place picker inspired by the Autocomplete places with Aurelia
 * [treacherous-aurelia ★2](https://github.com/grofit/treacherous-aurelia) * An Aurelia plugin for the treacherous validation system
 * [aurelia-filter ★8](https://github.com/SpoonX/aurelia-filter) * A plugin for aurelia to populate search/filter criteria. Works well with aurelia-orm
@@ -253,8 +253,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
-* [TypeScript Repository (GitHub) ★24497](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub) ★11695](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub) ★24775](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub) ★11776](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
 
 #### Typescript Seed Projects

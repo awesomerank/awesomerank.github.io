@@ -7,13 +7,13 @@ title: Awesome Rank for JustServerless/awesome-serverless
 	This list is a copy of <a href="https://github.com/JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
 </p>
 ---
-# Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/justserverless/awesome-serverless/master/logo_serverless.png" align="right" width="100">](http://serverless.com)
 
 > A curated list of resources regarding the [Serverless Framework](https://serverless.com) (formerly JAWS) and the serverless architecture.
 
-*Inspired by the [awesome ★62884](https://github.com/sindresorhus/awesome) list project.*
+*Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list project.*
 
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 
@@ -686,6 +686,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless web apps w/o client side JavaScript](https://adrianhesketh.com/2017/07/27/serverless-web-apps-without-client-side-javascript/) - Using the Serverless Framework for HTTP form-post handling and HTML rendering.
 - [AWS X-Ray - The good, the bad, the ugly](https://read.acloud.guru/im-here-to-tell-you-the-truth-the-good-the-bad-and-the-ugly-of-aws-x-ray-and-lambda-f212b5f332e9) - In-depth analysis of the AWS X-Ray tooling.
 - [Exploring Serverless with Python, AWS Step Functions, and web frontend](https://medium.com/@dzimine/exploring-serverless-with-python-stepfunctions-and-web-front-end-8e0bf7203d4b) - Post about the journey of getting started with the Serverless Framework.
+- [Event driven influencers - Microsoft Azure](https://serverless.com/blog/event-driven-influencers-microsoft-azure/) - Brief post about the mission and history of Microsoft Azure.
+- [Creating a video frame analysis and alerting app](https://aws.amazon.com/de/blogs/ai/create-a-serverless-solution-for-video-frame-analysis-and-alerting) - How to create a serverless solution for video frame analysis and alerting on AWS.
 
 ## Screencasts
 
@@ -728,6 +730,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [What's new in Serverless v1.18](https://www.youtube.com/watch?v=0DHT1evCtls) - Video walkthrough about all the new features in Serverless v1.18.
 - [Serverless event driven application architectures](https://www.youtube.com/watch?v=2JJMH-nwCQI) - Crater Conf JS 2017 screencast talk by David Wells on Serverless applications.
 - [Using TypeScript with the Serverless Framework](https://www.youtube.com/watch?v=FEoQlAVwvVE) - How to use the Serverless Framework with TypeScript.
+- [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc) - Walkthrough of the Microsoft Azure Functions serverless offering.
 
 ## Talks
 
@@ -1099,6 +1102,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Chromeless ★8546](https://github.com/graphcool/chromeless) - Runs Chrome automation locally or headless on AWS Lambda.
 - [Slack invite ★3](https://github.com/serverless-london/serverless-slack-invite) - Serverless Slack invite service.
 - [Slack sign-up ★5](https://github.com/dzimine/slack-signup-serverless) - Serverless sign-up to Slack (and other services).
+- [Image resizer ★5](https://github.com/nicholasgubbins/Serverless-Image-Resizer) - Image resizer like imgix on API Gateway & Lambda.
 
 ## Related projects
 
@@ -1179,6 +1183,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Spotinst Functions](https://spotinst.com/products/spotinst-functions/) - Multi-cloud Function as a Service at spot prices.
 - [Function Router](https://www.functionrouter.com) - Distribute, manage and execute your forward-deployed serverless functions.
 - [Ansible Docs](http://docs.ansible.com/ansible/latest/serverless_module.html) - Ansible documentation for managing a Serverless project.
+- [AWS Chalice ★3046](https://github.com/aws/chalice) - Python serverless microframework for AWS.
 
 ## Plugins
 

@@ -7,7 +7,7 @@ title: Awesome Rank for phillipadsmith/awesome-github
 	This list is a copy of <a href="https://github.com/phillipadsmith/awesome-github">phillipadsmith/awesome-github</a> with ranks
 </p>
 ---
-# Awesome GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/phillipadsmith/awesome-github.svg)](https://travis-ci.org/phillipadsmith/awesome-github)
+# Awesome GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/phillipadsmith/awesome-github.svg)](https://travis-ci.org/phillipadsmith/awesome-github)
 
 
 > A curated list of GitHub's awesomeness
@@ -81,7 +81,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Redliner ★19 ⏳2Y](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
 - [Gatekeeper ★526](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
 - [github-secret-keeper ★49 ⏳1Y](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
-- [Hub ★11078](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
+- [Hub ★11115](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
 - [Ghizmo ★40](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
 - [cli-github ★170](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line.
 - [GitHub Dark ★1930](https://github.com/StylishThemes/Github-Dark) - A sophisticated dark theme for GitHub.

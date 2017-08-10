@@ -7,7 +7,7 @@ title: Awesome Rank for TalAter/awesome-progressive-web-apps
 	This list is a copy of <a href="https://github.com/TalAter/awesome-progressive-web-apps">TalAter/awesome-progressive-web-apps</a> with ranks
 </p>
 ---
-# Awesome Progressive Web Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★62884](https://github.com/sindresorhus/awesome)
+# Awesome Progressive Web Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
 
 A curated collection of Progressive Web Apps resources.
 
