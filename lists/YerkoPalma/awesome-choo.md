@@ -7,7 +7,7 @@ title: Awesome Rank for YerkoPalma/awesome-choo
 	This list is a copy of <a href="https://github.com/YerkoPalma/awesome-choo">YerkoPalma/awesome-choo</a> with ranks
 </p>
 ---
-# Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
+# Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
 
 > [choo](https://choo.io/) is a `5kb` framework for creating
 > sturdy frontend applications
@@ -36,18 +36,18 @@ title: Awesome Rank for YerkoPalma/awesome-choo
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [yo-yo ★1120](https://github.com/maxogden/yo-yo) - Modular UI library using DOM
+- [yo-yo ★1124](https://github.com/maxogden/yo-yo) - Modular UI library using DOM
   diffing and ES6 template strings.
-- [bel ★341](https://github.com/shama/bel) - Create composable DOM elements using
+- [bel ★343](https://github.com/shama/bel) - Create composable DOM elements using
   template strings.
-- [hyperx ★735](https://github.com/substack/hyperx) - Convert template strings to
+- [hyperx ★740](https://github.com/substack/hyperx) - Convert template strings to
   library backends.
-- [morphdom ★1340](https://github.com/patrick-steele-idem/morphdom) - Fast and
+- [morphdom ★1344](https://github.com/patrick-steele-idem/morphdom) - Fast and
   lightweight DOM diffing/patching (without the virtual part).
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed.
-- [barracks ★173](https://github.com/yoshuawuyts/barracks) - Action dispatcher for
+- [barracks ★174](https://github.com/yoshuawuyts/barracks) - Action dispatcher for
   unidirectional data flows.
-- [sheet-router ★191](https://github.com/yoshuawuyts/sheet-router) - Fast, modular
+- [sheet-router ★192](https://github.com/yoshuawuyts/sheet-router) - Fast, modular
   client-side router.
 
 ### Demos
@@ -55,7 +55,7 @@ under the hood:
 - [Input example](http://requirebin.com/?gist=e589473373b3100a6ace29f7bbee3186) - ([repo](https://github.com/yoshuawuyts/choo/tree/master/examples/title))
 - [HTTP effects](https://hyperdev.com/#!/project/fork-fang)
 - [Mailbox routing](https://github.com/yoshuawuyts/choo/tree/master/examples/mailbox)
-- [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo ★35](https://github.com/shuhei/todomvc-choo))
+- [TodoMVC](http://shuheikagawa.com/todomvc-choo) - ([repo ★37](https://github.com/shuhei/todomvc-choo))
 - [choo-firebase](https://choo-firebase-2ec21.firebaseapp.com) - ([repo](https://github.com/mw222rs/choo-firebase))
 - [Grow](https://grow.static.land) - ([repo ★15 ⏳1Y](https://github.com/sethvincent/grow))
 - [Chatbot](http://chootbot.herokuapp.com) - ([repo ★1 ⏳1Y](https://github.com/plaey/chatbot))
@@ -80,10 +80,10 @@ under the hood:
 
 ### Elements
 
-- [dom-notifications ★101](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component.
+- [dom-notifications ★102](https://github.com/finnp/dom-notifications) - Atom-inspired notifications component.
 - [choodown ★14](https://github.com/trainyard/choodown) - A simple markdown component for choo.
 - [choo-md-editor ★3](https://github.com/dbtek/choo-md-editor) - Lightweight markdown editor that can be used inside Choo app or as a standalone library.
-- [choo-chartist ★7](https://github.com/rexmortus/choo-chartist) - A little component for using [Chartist](https://gionkunz.github.io/chartist-js/) with the choo framework.
+- [choo-chartist ★7 ⏳1Y](https://github.com/rexmortus/choo-chartist) - A little component for using [Chartist](https://gionkunz.github.io/chartist-js/) with the choo framework.
 
 ### CLI Templates
 
@@ -112,10 +112,10 @@ Templates for [choo-cli ★54](https://github.com/trainyard/choo-cli)
 - [minidocs ★117](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.
 - [dataface ★15](https://github.com/timwis/dataface) - Desktop application to manage databases.
 - [BlankUp ★30](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
-- [hackernews-choo ★27](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo.
+- [hackernews-choo ★27 ⏳1Y](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo.
 - [tic-tac-choo ★5](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo.
 - [enviar ★29](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.
-- [kaktus ★340](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
+- [kaktus ★341](https://github.com/kaktus/kaktus) - A new minimalistic web browser, built on `choo` and IndexedDB.
 - [civicdr.org ★2](https://github.com/CiviCDR/civicdr.org) - Website for [CiviCDR](https://civicdr.org/).
 - [nekocafe ★13](https://github.com/notenoughneon/nekocafe) - Web chat room :cat: :speech_balloon:.
 

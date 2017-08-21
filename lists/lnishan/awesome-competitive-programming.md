@@ -7,7 +7,7 @@ title: Awesome Rank for lnishan/awesome-competitive-programming
 	This list is a copy of <a href="https://github.com/lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
 </p>
 ---
-# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
 
@@ -109,7 +109,7 @@ Share the list with your classmates, your friends and everyone :)
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [prakhar1989/awesome-courses#algorithms ★20252](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
+| ★★★ | [prakhar1989/awesome-courses#algorithms ★20362](https://github.com/prakhar1989/awesome-courses#algorithms) | A fantastic list of open courses offered by notable institutions (MIT, Stanford, UC Berkeley ... etc.). |
 | ★★★ | [MIT SMA 5503: Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/) | Lectured by Prof. Charles Leiserson (one of the coauthors of Introduction to Algorithms) and Prof. Erik Demaine (a brilliant professor who has made remarkable breakthroughs in data science), the course offers great materials, accompanied by intuitive and comprehensive analyses. |
 
 
@@ -217,12 +217,12 @@ Paste your codes at [ideone](http://ideone.com), [pastebin](http://pastebin.com)
 
 | ☆ | Name | Description |
 | --- | --- | --- |
-| ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository ★619](https://github.com/indy256/codelibrary). |
-| ★★★ | [spaghetti-source/algorithm ★152](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara) | High-quality implementations of many hard algorithms and data structures. |
-| ★★☆ | [jaehyunp/stanfordacm ★599](https://github.com/jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
-| ★★☆ | [ngthanhtrung23/ACM_Notebook_new ★99](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
-| ★★☆ | [bobogei81123/bcw_codebook ★53](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
-| ★☆☆ | [foreverbell/acm-icpc-cheat-sheet ★64](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
+| ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository ★622](https://github.com/indy256/codelibrary). |
+| ★★★ | [spaghetti-source/algorithm ★154](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara) | High-quality implementations of many hard algorithms and data structures. |
+| ★★☆ | [jaehyunp/stanfordacm ★603](https://github.com/jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
+| ★★☆ | [ngthanhtrung23/ACM_Notebook_new ★101](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
+| ★★☆ | [bobogei81123/bcw_codebook ★54](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
+| ★☆☆ | [foreverbell/acm-icpc-cheat-sheet ★65](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
 | ★☆☆ | [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk (Abednego) | A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team. |
 
 
@@ -384,12 +384,12 @@ Learn helpful tips, tutorials and insights from these people :)
 | C++ Books | [The Definitive C++ Book Guide and List - Stack Overflow](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 | Java Books | [What are the best books to learn Java? - Quora](https://www.quora.com/What-are-the-best-books-to-learn-Java) |
 | Advanced Java Books | [What is the best book for advanced Java programming? - Quora](https://www.quora.com/What-is-the-best-book-for-advanced-Java-programming) |
-| Algorithms | [tayllan/awesome-algorithms ★2785](https://github.com/tayllan/awesome-algorithms) |
-| Algorithm Visualization | [enjalot/algovis ★715](https://github.com/enjalot/algovis) |
-| Math | [rossant/awesome-math ★805](https://github.com/rossant/awesome-math) |
-| C++ | [fffaraz/awesome-cpp ★9070](https://github.com/fffaraz/awesome-cpp) |
-| Java | [akullpp/awesome-java ★13524](https://github.com/akullpp/awesome-java) |
-| Courses | [prakhar1989/awesome-courses ★20246](https://github.com/prakhar1989/awesome-courses) |
+| Algorithms | [tayllan/awesome-algorithms ★2814](https://github.com/tayllan/awesome-algorithms) |
+| Algorithm Visualization | [enjalot/algovis ★717](https://github.com/enjalot/algovis) |
+| Math | [rossant/awesome-math ★815](https://github.com/rossant/awesome-math) |
+| C++ | [fffaraz/awesome-cpp ★9155](https://github.com/fffaraz/awesome-cpp) |
+| Java | [akullpp/awesome-java ★13616](https://github.com/akullpp/awesome-java) |
+| Courses | [prakhar1989/awesome-courses ★20351](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/vhf/free-programming-books) |
 
 ### Interview Questions
@@ -397,7 +397,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | --- | --- |
 | [CareerCup](https://www.careercup.com) | The most popular website for software engineering interview preparation. | 
 | [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-play designs which are designed to invoke one's interest in practicing. |
-| [Awesome Interviews ★15687](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
+| [Awesome Interviews ★15781](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
 
 
 ## License

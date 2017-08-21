@@ -7,7 +7,7 @@ title: Awesome Rank for rizo/awesome-ocaml
 	This list is a copy of <a href="https://github.com/rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks
 </p>
 ---
-Awesome OCaml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+Awesome OCaml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 =============
 
 <img src="colour-logo.png" width="70%" />
@@ -117,9 +117,9 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Mascot](http://mascot.x9c.fr/) - Mascot is a style-checker for OCaml sources
 - [pfff ★2049](https://github.com/facebook/pfff) – pfff is a set of tools and APIs to perform some static analysis, dynamic analysis, code visualizations, code navigations, or style-preserving source-to-source transformations such as refactorings on source code.
-- [infer ★7033](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C
+- [infer ★7061](https://github.com/facebook/infer) - infer is a static analyzer for Java, C and Objective-C
 - [flow ★12936](https://github.com/facebook/flow) - flow is a static type checker for JavaScript
-- [Ocamllint ★55](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
+- [Ocamllint ★55 ⏳1Y](https://github.com/cryptosense/ocamllint) - Ocamllint detects common errors in OCaml code
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
 - [SLAyer ★293 ⏳1Y](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
 
@@ -262,7 +262,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
 - **GUI**
   - [lablgtk](http://lablgtk.forge.ocamlcore.org/) — GTK2 bindings for OCaml with various higher-level facilities to define GUIs.
-  - [lablqml ★70](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
+  - [lablqml ★71](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
   - [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01. 
   - [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
 
@@ -333,7 +333,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [ocaml-cohttp ★263](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
   - [ocurl ★22](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
 - [ocaml-dns ★40](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
-- [fluent-logger ★3 ⏳2Y](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
+- [fluent-logger ★3 ⏳3Y](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 - [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
 
 
@@ -488,7 +488,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 * * *
 
-_Inspired by awesome projects line. Discover [more awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
+_Inspired by awesome projects line. Discover [more awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness) :sparkles:._
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks

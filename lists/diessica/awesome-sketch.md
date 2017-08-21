@@ -7,7 +7,7 @@ title: Awesome Rank for diessica/awesome-sketch
 	This list is a copy of <a href="https://github.com/diessica/awesome-sketch">diessica/awesome-sketch</a> with ranks
 </p>
 ---
-# awesome Sketch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# awesome Sketch [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 > [**Sketch 3**](http://bohemiancoding.com/sketch/) has become very popular in the Design community. How much do you know about it?
 
@@ -77,24 +77,24 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
 ###### Must-have :heart:
-- [Content Generator ★3947](https://github.com/timuric/Content-generator-sketch-plugin)
-- [RenameIt ★797](https://github.com/rodi01/RenameIt)
-- [Sketch Measure ★4871](https://github.com/utom/sketch-measure)
-- [Style Inventory ★1721](https://github.com/getflourish/Sketch-Style-Inventory)
-- [Dynamic Button ★1067](https://github.com/ddwht/sketch-dynamic-button)
+- [Content Generator ★3966](https://github.com/timuric/Content-generator-sketch-plugin)
+- [RenameIt ★827](https://github.com/rodi01/RenameIt)
+- [Sketch Measure ★4911](https://github.com/utom/sketch-measure)
+- [Style Inventory ★1725](https://github.com/getflourish/Sketch-Style-Inventory)
+- [Dynamic Button ★1070](https://github.com/ddwht/sketch-dynamic-button)
 - [Page Switch ★66 ⏳3Y](https://github.com/mauehara/sketch-page-switch)
-- [Sketch Flex Layout ★1714](https://github.com/hrescak/Sketch-Flex-Layout)
+- [Sketch Flex Layout ★1720](https://github.com/hrescak/Sketch-Flex-Layout)
 
 ###### Nice-to-have :thumbsup:
 - [Handy Tools ★122](https://github.com/webpatch/Handy-Tools)
 - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
-- [User Flow ★1102](https://github.com/abynim/UserFlows)
+- [User Flow ★1118](https://github.com/abynim/UserFlows)
 - [Sketch Runner](http://sketchrunner.com)
 - [Efficiency ★107](https://github.com/x-raizor/Efficiency)
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory ★2696](https://github.com/sketchplugins/plugin-directory)
+- [Sketch Plugin Directory ★2713](https://github.com/sketchplugins/plugin-directory)
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).
@@ -102,8 +102,8 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 
 ## Templates & UI Kits
 - [Responsive Web Design Template ★22 ⏳1Y](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
-- [Sketch iOS Templates ★858 ⏳3Y](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
-- [Teracy Wireframe Kit ★1213 ⏳2Y](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
+- [Sketch iOS Templates ★860 ⏳3Y](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
+- [Teracy Wireframe Kit ★1216 ⏳2Y](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
 
 ## Services
 - [Zeplin](https://zeplin.io) – design, prototyping and collaboration

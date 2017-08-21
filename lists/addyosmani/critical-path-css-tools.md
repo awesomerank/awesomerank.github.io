@@ -7,7 +7,7 @@ title: Awesome Rank for addyosmani/critical-path-css-tools
 	This list is a copy of <a href="https://github.com/addyosmani/critical-path-css-tools">addyosmani/critical-path-css-tools</a> with ranks
 </p>
 ---
-Critical-path (Above-the-fold) CSS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+Critical-path (Above-the-fold) CSS Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 ==========================================
 
 > Tools to help prioritize above-the-fold CSS
@@ -24,21 +24,21 @@ The following is a list of tools to help generate, inline and report on critical
 ## Node modules
 
 
-* [Penthouse ★1443](https://github.com/pocketjoso/penthouse) - by Jonas Ohlsson generates critical-path CSS
+* [Penthouse ★1450](https://github.com/pocketjoso/penthouse) - by Jonas Ohlsson generates critical-path CSS
 * [Critical](https://github.com/addyosmani/critical) - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust ★118](https://github.com/addyosmani/oust) and inline-styles)
-* [CriticalCSS ★951](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS
+* [CriticalCSS ★955](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS
 
 
 ## Server-side modules
 
-* [mod_pagespeed ★403](https://github.com/pagespeed/mod_pagespeed) - Apache module for automatic PageSpeed optimization
-* [ngx_pagespeed ★3516](https://github.com/pagespeed/ngx_pagespeed) - Nginx module for automatic PageSpeed optimization
+* [mod_pagespeed ★406](https://github.com/pagespeed/mod_pagespeed) - Apache module for automatic PageSpeed optimization
+* [ngx_pagespeed ★3531](https://github.com/pagespeed/ngx_pagespeed) - Nginx module for automatic PageSpeed optimization
 
 ## Grunt tasks
 
 * [grunt-penthouse ★71](https://github.com/fatso83/grunt-penthouse)
 * [grunt-critical-css ★544](https://github.com/filamentgroup/grunt-criticalcss)
-* [grunt-critical ★107](https://github.com/bezoerb/grunt-critical)
+* [grunt-critical ★108](https://github.com/bezoerb/grunt-critical)
 
 ## CasperJS
 
@@ -51,15 +51,15 @@ The following is a list of tools to help generate, inline and report on critical
 ## Inline sources (styles, scripts)
 
 * [inline-styles ★23 ⏳3Y](https://github.com/maxogden/inline-styles) - by Max Ogden, replaces `<link>` tags with inline `<style>` tags + inlines CSS url() calls with data URIs
-* [gulp-inline-source ★161](https://github.com/fmal/gulp-inline-source) - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="">` tags with their inline content
-* [inline-critical ★50](https://github.com/bezoerb/inline-critical) - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS`
-* [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/) for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit ★14900](https://github.com/kriasoft/react-starter-kit) as an example.
+* [gulp-inline-source ★162](https://github.com/fmal/gulp-inline-source) - by Filip Malinowski, replaces `<link>` tags with inline `<style>` tags, and replaces `<script src="">` tags with their inline content
+* [inline-critical ★51](https://github.com/bezoerb/inline-critical) - by Ben Zörb, inline critical path CSS and load existing stylesheets with `loadCSS`
+* [isomorphic-style-loader](https://github.com/kriasoft/isomorphic-style-loader/) for Webpack - allows to extract critical CSS for any given page/screen in React apps and inline it into HTML during server-side rendering (SSR). See [React Starter Kit ★15002](https://github.com/kriasoft/react-starter-kit) as an example.
 
 ## Async load CSS
 
 Async loading should be used to fetch the rest of your site-wide styles after you've inlined your critical-path CSS.
 
-* [loadCSS ★4443](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS. [Research](https://gist.github.com/scottjehl/87176715419617ae6994) that led to this is also available.
+* [loadCSS ★4461](https://github.com/filamentgroup/loadCSS) - loads CSS asynchronously using JS. [Research](https://gist.github.com/scottjehl/87176715419617ae6994) that led to this is also available.
 * [async & conditional loading](https://gist.github.com/matt-bailey/602b40c77a5d3381ff26) - POC script for loading CSS files asynchronously and conditionally based on body tag classes
 * [asyncLoader ★0 ⏳2Y](https://github.com/n0mad01/asyncLoader) - async script/stylesheet loader
 * [basket.js](http://addyosmani.github.io/basket.js/) - async script/resource loader with support for localStorage caching. Can be [extended ★21 ⏳3Y](https://github.com/andrewwakeling/basket-css-example) to load stylesheets.
@@ -85,7 +85,7 @@ Note: The Guardian currently also cache their global styles into localStorage fo
 
 ## Supplementary tools
 
-* [UnCSS](https://github.com/giakki/uncss) removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss), [Gulp ★960](https://github.com/ben-eb/gulp-uncss) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
+* [UnCSS](https://github.com/giakki/uncss) removes unused CSS from pages, allowing you to reduce the global CSS you may need to load in for your site. Tasks are available for [Grunt](https://github.com/addyosmani/grunt-uncss), [Gulp ★961](https://github.com/ben-eb/gulp-uncss) and [other](https://addyosmani.com/blog/removing-unused-css/) build tools.
 
 ---
 <p align="center">

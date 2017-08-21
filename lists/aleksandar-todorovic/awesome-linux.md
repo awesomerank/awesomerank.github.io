@@ -124,7 +124,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 > The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian GNU/Linux, or simply Debian for short. Debian systems currently use the Linux kernel. [...] Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together.
 
-**Latest version:** Debian Jessie (8.8)
+**Latest version:** Debian Stretch (9.1)
 
 **Default Desktop Environment:** GNOME
 
@@ -213,6 +213,10 @@ Good book that teaches you the basics of Debian GNU/Linux administration. - [@el
 
 > It covers all the topics that a competent Linux administrator should master, from the installation, update of the system, up to the creation of packages and the compilation of the kernel, but also monitoring, backup and migration. Plus advanced topics to secure services, automated installations, or virtualization.
 
+#### Bash Shell Scripting [[FREE](https://en.wikibooks.org/wiki/Bash_Shell_Scripting)]
+
+> Currently this book provides an introduction level knowledge of Bash.
+
 ### Courses
 
 #### [Introduction to Linux (LFS101x.2)](https://courses.edx.org/courses/course-v1:LinuxFoundationX+LFS101x.2+1T2015/info) [Free]
@@ -222,6 +226,13 @@ Organized by the Linux Foundation, it's a great free course to learn basics abou
 #### [Linux Alternatives to Windows Applications](https://www.udemy.com/linux-alternatives-for-windows-applications/?dtcode=nEiIHId38AHS) [Free]
 
 If you used Windows and decided to switch to Linux, this course should help you to find their alternatives. It's pretty short and you can finish it in a day. - [@aleksandar-todorovic](https://github.com/aleksandar-todorovic)
+
+### Bash Learning Resources
+
+* [Beautiful Bash: Let's make reading and writing bash scripts fun again!](https://www.slideshare.net/a_z_e_t/inpresentation)
+* [Best Practices for Writing Bash Scripts](http://kvz.io/blog/2013/11/21/bash-best-practices/)
+* [Shell Style Guide](https://google.github.io/styleguide/shell.xml)
+* [Linux Fu: Better Bash Scripting](https://hackaday.com/2017/07/21/linux-fu-better-bash-scripting/)
 
 ## X Desktop Environments
 
@@ -267,7 +278,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [9wm](http://unauthorised.org/dhog/9wm.html) - X window manager which attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
 * [awesome](https://awesomewm.org/) - Highly configurable window manager for X. Fast and extensible.
 * [Blackbox](http://blackboxwm.sourceforge.net/) - Fast, lightweight window manager for the X Window System, without annoying library dependencies. Built with C++.
-* [bspwm ★1760](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree.
+* [bspwm ★1768](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree.
 * [Compiz](https://launchpad.net/compiz) - OpenGL compositing window manager. It has a plug-in system to be changed at runtime.
 * [dwm](http://dwm.suckless.org/) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application in use and the task performed.
 * [Enlightenment](http://www.enlightenment.org/) - Not just a window manager for X11 and others, but also a whole suite of libraries to help you create beautiful user interfaces with much less work than doing it the old fashioned way and fighting with traditional toolkits.
@@ -288,7 +299,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 The list of awesome Linux applications that you should be using.
 
-If you're looking for some pro-tips for your favorite text editor, you might be interested in [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs), or [awesome-vscode ★2625](https://github.com/viatsko/awesome-vscode).
+If you're looking for some pro-tips for your favorite text editor, you might be interested in [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs), or [awesome-vscode ★2690](https://github.com/viatsko/awesome-vscode).
 
 ### GUI-based Applications
 
@@ -307,7 +318,7 @@ For more GNOME-based apps, visit: https://wiki.gnome.org/Apps
 * [FeedReader](https://jangernert.github.io/FeedReader/) - RSS desktop client able to integrate with multiple online services.
 * [Go For It!](http://manuel-kehl.de/projects/go-for-it/) - To-do list with built-in productivity timer.
 * [NaSC](http://parnold-x.github.io/nasc/) - Intelligent calculator app.
-* [Spice-Up ★164](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app.
+* [Spice-Up ★165](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app.
 * [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
 
 For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/elementary-apps/).
@@ -335,11 +346,11 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 
 * [Corebird](http://corebird.baedert.org/) - Twitter client.
 * [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
-* [Caprine ★2427](https://github.com/sindresorhus/caprine) - Facebook's Messenger client with some added privacy features.
-* [PB for Desktop ★163](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
-* [ramme ★2147](https://github.com/terkelg/ramme) - Instagram client.
-* [ScudCloud ★1168](https://github.com/raelgc/scudcloud) - Slack client with additional features (compared to the original Slack client).
-* [Whatever ★152](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
+* [Caprine ★2441](https://github.com/sindresorhus/caprine) - Facebook's Messenger client with some added privacy features.
+* [PB for Desktop ★165](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
+* [ramme ★2156](https://github.com/terkelg/ramme) - Instagram client.
+* [ScudCloud ★1171](https://github.com/raelgc/scudcloud) - Slack client with additional features (compared to the original Slack client).
+* [Whatever ★158](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
 
 #### Package management and creation tools
 
@@ -359,25 +370,25 @@ Distro-independent:
 
 ### Console-based Applications and Tools
 
-You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish ★476](https://github.com/jbucaran/awesome-fish).
+You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish ★481](https://github.com/jbucaran/awesome-fish).
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
-* [fuck ★29456](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
+* [fuck ★29595](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
 * [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
 * [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
 * [nano](http://www.nano-editor.org) - Simple to use text editor.
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
-* [ranger ★2527](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
-* [screenFetch ★1745](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
-* [shellcheck ★8394](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
-* [speed-test ★1917](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
+* [ranger ★2544](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
+* [screenFetch ★1764](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+* [shellcheck ★8507](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
+* [speed-test ★1919](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Easily-extendable activity monitor.
-* [wavemon ★130](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
-* [youtube-dl ★28062](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
+* [wavemon ★132](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
+* [youtube-dl ★28275](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
 
 ## Useful Websites
 

@@ -7,7 +7,7 @@ title: Awesome Rank for RichardLitt/awesome-conferences
 	This list is a copy of <a href="https://github.com/RichardLitt/awesome-conferences">RichardLitt/awesome-conferences</a> with ranks
 </p>
 ---
-# Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 > :ticket: A list of awesome conferences
 
@@ -114,7 +114,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
 * [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
-* [Papers We Love ★24046](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
+* [Papers We Love ★24191](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
 * [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
 * [Symfony Live](http://live.symfony.com/) // [@symfony_live](https://twitter.com/symfony_live)
 * [React.js Conf](http://conf.reactjs.org/) // [@vjeux](https://twitter.com/vjeux)
@@ -352,8 +352,8 @@ _If you see any conferences here that you like // have attended // will attend, 
 
 ### Help with Speaking
 
-* [awesome-speaking ★506](https://github.com/matteofigus/awesome-speaking)
-* [gitpitch ★3349](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com.
+* [awesome-speaking ★509](https://github.com/matteofigus/awesome-speaking)
+* [gitpitch ★3383](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com.
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
@@ -374,12 +374,12 @@ How to host stuff.
 
 ### Other Lists
 
-* [AndroidStudyGroup ★1029](https://github.com/AndroidStudyGroup/conferences)
-* [awesome-django#conferences ★5878](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
-* [awesome-software-craftsmanship conferences ★311](https://github.com/benas/awesome-software-craftsmanship#school-conferences)
+* [AndroidStudyGroup ★1039](https://github.com/AndroidStudyGroup/conferences)
+* [awesome-django#conferences ★5926](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
+* [awesome-software-craftsmanship conferences ★313](https://github.com/benas/awesome-software-craftsmanship#school-conferences)
 * [Big Conference List](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0) from @joshsimmons.
 * [Cocoa Conferences ★669](https://github.com/Lascorbe/CocoaConferences) List of cocoa conferences for iOS & OSX developers.
-* [watson/conferences ★174](https://github.com/watson/conferences) List of awesome conferences from @watson.
+* [watson/conferences ★175](https://github.com/watson/conferences) List of awesome conferences from @watson.
 * [Interdisciplinary Open Source Community Conferences](https://gist.github.com/maxogden/322a649ff84fe1c2a680) by [@maxogden](https://github.com/maxogden).
 * [Conferences list](https://twitter.com/jakerella/lists/conferences/members) by [@jakarella](https://twitter.com/jakerella) on Twitter.
 * [php conferences in fall 2015](https://gist.github.com/DragonBe/51002bd40a6fa99a5123)

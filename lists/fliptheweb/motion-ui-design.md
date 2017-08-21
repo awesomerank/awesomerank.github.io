@@ -7,7 +7,7 @@ title: Awesome Rank for fliptheweb/motion-ui-design
 	This list is a copy of <a href="https://github.com/fliptheweb/motion-ui-design">fliptheweb/motion-ui-design</a> with ranks
 </p>
 ---
-# Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 What is motion design? It's a magic that's alive your interfaces, makes a user feel comfortable with UI changes.
 It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
 Feel free to [add something interesting](https://github.com/fliptheweb/motion-ui-design/blob/master/contributing.md) (todo inside) by pull request!
@@ -80,7 +80,7 @@ List of all possible software that can produce UI animations separated by using 
   * [MtMograph summits](http://mtmograph.com/summits/) (:movie_camera: video).
   * [30 days of AE](http://schoolofmotion.com/project/30dae_01_writeon/) (:movie_camera: video).
   * [After Effects CC Essential Training on Lynda](http://www.lynda.com/After-Effects-tutorials/After-Effects-CC-Essential-Training/122431-2.html) (:movie_camera: video).
-  * [BodyMovin ★6918](https://github.com/bodymovin/bodymovin) – Converter from AE to SVG/canvas.
+  * [BodyMovin ★7035](https://github.com/bodymovin/bodymovin) – Converter from AE to SVG/canvas.
   * [Squall](http://www.marcuseckert.com/squall/) – Converter from AE to iOS.
 * [Apple Motion](https://www.apple.com/sg/final-cut-pro/motion/) – MacOS app for create and edit motion graphics, titling for video production and film production, and 2D and 3D compositing for visual effects.
 * [Adobe Photoshop](http://www.adobe.com/sea/products/photoshop.html) – Raster graphics editor that can also produce gif UI animations:
@@ -145,11 +145,11 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Snabbt.js](http://daniel-lundin.github.io/snabbt.js/) – Minimalistic animation library in JavaScript.
 * [Famo.us](http://famous.org/) – High-performance JavaScript library for animations & interfaces.
 * [Processing.js](http://processingjs.org/) – JavaScript library for Processing visual programming language.
-* [Framer.js ★4817](https://github.com/koenbok/Framer) – Prototyping tool for designing UI, interaction and animation.
+* [Framer.js ★4828](https://github.com/koenbok/Framer) – Prototyping tool for designing UI, interaction and animation.
 * [Dynamics.js](http://dynamicsjs.com/) – JavaScript library to create physics-based animations.
-* [Mo.js ★11878](https://github.com/legomushroom/mojs) – Motion graphics toolbelt for the web.
+* [Mo.js ★11908](https://github.com/legomushroom/mojs) – Motion graphics toolbelt for the web.
 * [AnimateTransition](http://rapid-application-development-js.github.io/AnimateTransition/) – Library for transition of blocks and popups.
-* [Animate Plus ★2465 ⏳1Y](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
+* [Animate Plus ★2470 ⏳1Y](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
 * [Gravitas.js ★121 ⏳2Y](https://github.com/iamralpht/gravitas.js) – Super fast physics simulations for JavaScript.
 * [Popmotion](https://popmotion.io/guides/basics/get-started/) – JavaScript motion engine that makes creating engaging user interactions quick and simple.
 

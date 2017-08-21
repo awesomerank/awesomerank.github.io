@@ -7,7 +7,7 @@ title: Awesome Rank for dav009/awesome-spanish-nlp
 	This list is a copy of <a href="https://github.com/dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
 </p>
 ---
-# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 
 Curated list of Linguistic Resources for doing Spanish NLP & CL.
@@ -54,8 +54,8 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Lemmas Dictionary](http://sfn.uab.es:8080/SFN/dictionary/dictionary-information-lemmas-and-expanded-forms)
 - [esTenten Spanish (POSTagged) ](http://www.sketchengine.co.uk/documentation/wiki/Corpora/TenTen/esTenTen)
 - [Europarl Corpus (Parallel Corpus English-Spanish)](http://www.statmt.org/europarl/)
-- [Colombian Political Speeches ★1 ⏳4Y](https://github.com/dav009/LatinamericanTextResources)
-- [South American Slang Expressions/MTWE ★1 ⏳4Y](https://github.com/dav009/LatinamericanTextResources)
+- [Colombian Political Speeches ★2 ⏳4Y](https://github.com/dav009/LatinamericanTextResources)
+- [South American Slang Expressions/MTWE ★2 ⏳4Y](https://github.com/dav009/LatinamericanTextResources)
 - [Syntax and Semantic Annotations (Subset Ancora Corpus)](http://ufal.mff.cuni.cz/conll2009-st/trial/CoNLL2009-ST-Spanish-trial.zip)
 - [Plurilingual Specific Corpus on Economics, Medicine, Computer Science](http://www.iula.upf.edu/corpus/corpusuk.htm)
 - [Copenhagen  Treebank (Dependency Parsing)](http://code.google.com/p/copenhagen-dependency-treebank/)
@@ -78,7 +78,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-- [Word2Vec vectors for Wikipedia Spanish Articles ★386](https://github.com/idio/wiki2vec)
+- [Word2Vec vectors for Wikipedia Spanish Articles ★390](https://github.com/idio/wiki2vec)
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)

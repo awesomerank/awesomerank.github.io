@@ -7,7 +7,7 @@ title: Awesome Rank for vinkla/awesome-fuse
 	This list is a copy of <a href="https://github.com/vinkla/awesome-fuse">vinkla/awesome-fuse</a> with ranks
 </p>
 ---
-# Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cloud.githubusercontent.com/assets/499192/24413317/5cb57f14-13db-11e7-9d53-2389641d81a8.jpg" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
 
@@ -90,21 +90,21 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Features Status](https://www.fusetools.com/docs/features) - List of current and upcoming Fuse features.
 - [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
 - [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
-- [Samples ★143](https://github.com/fusetools/fuse-samples) - Samples demonstrating the use of various Fuse and FuseJS APIs.
+- [Samples ★144](https://github.com/fusetools/fuse-samples) - Samples demonstrating the use of various Fuse and FuseJS APIs.
 - [Tour De Fuse ★7](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse.
 
 ## Open Source
 
-- [11t ★63](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon
+- [11t ★64](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon
 - [500px Gallery Demo ★24 ⏳1Y](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
 - [Firebase ★43](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
 - [FormulaFuse ★0](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation ★1](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components
 - [Fuse PM ★28](https://github.com/bolav/fusepm) - A Fusetools package manager.
 - [Fuse Pokedex ★3](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
-- [Fuse Samples ★143](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
+- [Fuse Samples ★144](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 - [fuse.QrScanner ★1](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode.
-- [Fuse Tags with Firebase ★15 ⏳1Y](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
+- [Fuse Tags with Firebase ★16 ⏳1Y](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Haxe ★29 ⏳1Y](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
 - [Hikr ★35](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).

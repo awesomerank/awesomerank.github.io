@@ -9,13 +9,13 @@ title: Awesome Rank for quozd/awesome-dotnet
 ---
 # Awesome .NET!
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) 
 [![Build Status](https://api.travis-ci.org/quozd/awesome-dotnet.svg)](https://travis-ci.org/quozd/awesome-dotnet)
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
-Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks ★1300](https://github.com/dreikanter/ruby-bookmarks).
+Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks ★1303](https://github.com/dreikanter/ruby-bookmarks).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first. We accept proprietary and commercial software too.
 
@@ -272,7 +272,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [FunScript](http://funscript.info/) - F# to JavaScript compiler with JQuery etc. mappings through a TypeScript type provider.
 * [IronScheme ★143](https://github.com/leppie/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
 * [JSIL ★1373](https://github.com/sq/JSIL) - CIL to Javascript Compiler http://jsil.org/
-* [Mono-basic ★50](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
+* [Mono-basic ★50 ⏳1Y](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
 * [Nemerle ★413](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system. http://nemerle.org/About
 * [Netjs ★660](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
 * [P ★1619](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
@@ -469,7 +469,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [FastColoredTextBox ★470](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox is text editor component for .NET. Allows you to create custom text editor with syntax highlighting. It works well with small, medium, large and very-very large files.
 * [Avalonia ★2359](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 * [Modern UI for WPF - MUI ★1229](https://github.com/firstfloorsoftware/mui) - Set of controls and styles to convert WPF applications into a great looking Modern UI apps.
-* [WinApi ★42](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+* [WinApi ★48](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ## HTML and CSS
 
@@ -532,7 +532,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CppSharp ★815](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 * [Sharpen ★243 ⏳1Y](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 * [CXXI ★171 ⏳5Y](https://github.com/mono/cxxi) - C++ interop framework
-* [pythonnet ★797](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
+* [pythonnet ★804](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
 
 ## IoC
 
@@ -758,7 +758,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## SDK and API Clients
 
-* [AWS SDK ★671](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
+* [AWS SDK ★677](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
 * [Azure PowerShell ★781](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 * [Octokit.NET ★1323](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * [DropNet ★417 ⏳1Y](https://github.com/DropNet/DropNet) - Client Library for the Dropbox API
@@ -778,7 +778,7 @@ metadata in media files, including video, audio, and photo formats
 * [ServiceStack.Text ★844](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers used in servicestack.net
 * [Msgpack-Cli ★473](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure
 * [Jil ★1569](https://github.com/kevin-montrose/Jil) - Fast .NET JSON Serializer, built on Sigil (used by StackOverflow)
-* [ProtoBuf ★172](https://github.com/hultqvist/ProtoBuf) - Generate C# code for protocol buffer serialization from a .proto specification.
+* [ProtoBuf ★172 ⏳1Y](https://github.com/hultqvist/ProtoBuf) - Generate C# code for protocol buffer serialization from a .proto specification.
 * [F# Data](http://fsharp.github.io/FSharp.Data/) - F# type providers for accessing XML, JSON, CSV and HTML files (based on sample documents) and for accessing WorldBank data
 * [Bond ★1593](https://github.com/Microsoft/bond) - cross-platform framework for working with schematized data. It supports cross-language de/serialization and powerful generic mechanisms for efficiently manipulating data.
 * [Hyperion ★82](https://github.com/akkadotnet/Hyperion) - A high performance polymorphic serializer for the .NET framework.
@@ -795,7 +795,7 @@ metadata in media files, including video, audio, and photo formats
 * [Stateless ★1698](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 * [Automatonymous ★232](https://github.com/MassTransit/Automatonymous) - A state machine library for .Net - allows you to write fluent style state machines
 * [Appccelerate - State Machine](http://www.appccelerate.com/statemachine.html) - A powerful state machine library - configured with a fluent api and synchrounous and asynchronous state transition support
-* [LiquidState ★69](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+* [LiquidState ★74](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## Static Site Generators
 * [FsBlog ★96 ⏳1Y](https://github.com/fsprojects/FsBlog) - Blog aware, static site generation using F#
@@ -846,7 +846,7 @@ metadata in media files, including video, audio, and photo formats
 * [Fiddler](http://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform
 * [Open Live Writer ★2027](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog. For more information see http://openlivewriter.org .
 * [CodeHub ★10336](https://github.com/thedillonb/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
-* [ShareX ★6127](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+* [ShareX ★6191](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 * [Myrtille ★242](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 * [Opserver ★3124](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 * [CatLight](https://catlight.io) - Build status notifications for TFS/Jenkins/Travis/Appveyor. Cross-platform desktop app based on .Net Core and Electron. **[Free][Proprietary]**
@@ -861,7 +861,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## UI Automation
 
-* [Atata ★39](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+* [Atata ★41](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 * [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
 
 ## Visual Studio Plugins
@@ -931,7 +931,7 @@ metadata in media files, including video, audio, and photo formats
 * [Awesome .NET Performance ★703](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 * [awesome-ddd ★1952](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 * [Awesome Unity ★1364](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
-* [Awesome Xamarin ★547](https://github.com/benoitjadinon/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
+* [Awesome Xamarin ★555](https://github.com/benoitjadinon/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 
 # Resources
 

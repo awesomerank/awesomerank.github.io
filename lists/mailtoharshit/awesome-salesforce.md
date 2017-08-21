@@ -10,7 +10,7 @@ title: Awesome Rank for mailtoharshit/awesome-salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/spring17.jpg" align="center" width="1200">
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 [![Join the chat at https://gitter.im/mailtoharshit/awesome-salesforce](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mailtoharshit/awesome-salesforce?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -18,7 +18,7 @@ title: Awesome Rank for mailtoharshit/awesome-salesforce
 
 > Useful resources for creating apps with [Salesforce](https://login.salesforce.com/)
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list ★63395](https://github.com/sindresorhus/awesome).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like to read complete [awesome-list ★63835](https://github.com/sindresorhus/awesome).*
 
 
 ## What is Awesome Salesforce ?
@@ -29,7 +29,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
   Read Related Awesome Pages :
    * [Awesome Lighting ★19 ⏳1Y](https://github.com/mailtoharshit/awesome-lighting)
-   * [Awesome Articles ★4 ⏳1Y](https://github.com/mailtoharshit/awesome-salesforce-articles)
+   * [Awesome Articles ★4 ⏳2Y](https://github.com/mailtoharshit/awesome-salesforce-articles)
    * [Awesome Browser Extensions](https://github.com/mailtoharshit/awesome-browser-extensions-for-salesforce/blob/master/README.md)
    * [Awesome Heroku ★1](https://github.com/mailtoharshit/awesome-heroku)
 
@@ -75,7 +75,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 * [Mavensmate Plugin for Sublime](https://mavensmate.com/Plugins/Sublime_Text/Installation) - Widely popular, 3rd party plugin package for Sublime Text Editor
 * [Atom Plugin ★141](https://github.com/joeferraro/MavensMate-Atom)- MavensMate plugin for building Salesforce.com/Force.com/Salesforce1 applications inside GitHub's Atom text editor
 * Visual Studio Code
-  * [ForceCode ★62](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
+  * [ForceCode ★66](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
   * [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate) Mavensmate extension for VS code.  Very close in feature parity to Sublime version.
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
 * [ApexMate ★22](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
@@ -100,7 +100,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
     <img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
     </a>
 
-* [Apex Commons ★187](https://github.com/financialforcedev/fflib-apex-common)- Common Apex Library supporting Apex Enterprise Patterns and much more!
+* [Apex Commons ★189](https://github.com/financialforcedev/fflib-apex-common)- Common Apex Library supporting Apex Enterprise Patterns and much more!
     Must deploy [ApexMocks ★85](https://github.com/financialforcedev/fflib-apex-mocks) before deploying this library.Also see [MavensMate Templates](http://andyinthecloud.com/2014/05/23/mavensmate-templates-and-apex-enterprise-patterns/)<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
@@ -108,11 +108,11 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 
 * [Apex Commons Sample Code ★45](https://github.com/financialforcedev/fflib-apex-common-samplecode)- Samples application illustrating the Apex Enterprise Patterns library
-    Must deploy [Apex Common  ★187](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
+    Must deploy [Apex Common  ★189](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
-* [Apex Metadata API ★286](https://github.com/financialforcedev/apex-mdapi)-Apex Wrapper for the Salesforce Metadata API <br/>
+* [Apex Metadata API ★287](https://github.com/financialforcedev/apex-mdapi)-Apex Wrapper for the Salesforce Metadata API <br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=apex-mdapi"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
 
@@ -140,7 +140,7 @@ This library has been extended by five libraries <br/>
 * [Apex UML Digram Maker ★36 ⏳2Y](https://github.com/afawcett/apex-umlcanvas) - Create UML diagrams from Apex code using the Tooling API <br/>
 * [SfApexDoc](http://force-code.com/category/sfapexdoc/) - A full-featured Apex documentation generator, similar to JavaDoc.
 
-* [Visualforce TableGrid ★98](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br>
+* [Visualforce TableGrid ★100](https://github.com/Up2Go/visualforce-table-grid) - TableGrid is a free, open-source Force.com library, that provides users and developers a highly customizable, native-looking, sortable, filterable, editable Grid Visualforce component. This component can be used as an advanced, highly configurable (by developer and user) replacement of apex:pageBlockTables and Standard Related Lists </br>
 [![Button](https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png)](https://githubsfdeploy.herokuapp.com?owner=Up2Go&repo=visualforce-table-grid)
 
 ### Developer Utilities
@@ -158,9 +158,9 @@ This library has been extended by five libraries <br/>
 
 * [Salesforce1-Dev-Guide-Setup-Package ★37 ⏳2Y](https://github.com/forcedotcom/Salesforce1-Dev-Guide-Setup-Package)-Salesforce1-Dev-Guide-Setup-Package
 
-* [Analytics-Cloud-Dataset-Utils ★76](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)- Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
+* [Analytics-Cloud-Dataset-Utils ★77](https://github.com/forcedotcom/Analytics-Cloud-Dataset-Utils)- Utility to load external data into Analytics Cloud datasets, and transform existing datasets.
 
-* [Workbench ★136](https://github.com/ryanbrainard/forceworkbench)- Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.
+* [Workbench ★162](https://github.com/ryanbrainard/forceworkbench)- Workbench is a powerful, web-based suite of tools designed for administrators and developers to interact with Salesforce.com organizations via the Force.com APIs.
 
 * [Playground](https://www.adminbooster.com/tool)- Adminbooster Playground is an online tool to run SOQL/SOSL queries or Apex code, providing high level features for analysis and admin productivity.
 
@@ -180,7 +180,7 @@ This library has been extended by five libraries <br/>
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/gitignore.png" align="right" width="120">
 
-* [GitIgnore for Salesforce  ★18](https://github.com/mailtoharshit/gitignore)- Reusable .gitIgnore file for Salesforce or Force.com Projects
+* [GitIgnore for Salesforce  ★19](https://github.com/mailtoharshit/gitignore)- Reusable .gitIgnore file for Salesforce or Force.com Projects
 
 ### Open Source Projects Repositories from Salesforce
 
@@ -189,7 +189,7 @@ This library has been extended by five libraries <br/>
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/open%20source.png" align="right" width="90">
 
-* [Salesforce Mobile UI - Polymer Elements for Salesforce ★242 ⏳1Y](https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
+* [Salesforce Mobile UI - Polymer Elements for Salesforce ★243 ⏳1Y](https://github.com/forcedotcom/mobile-ui-elements) - Mobile UI Elements is a free, open-source Force.com (unsupported) library to simplify the development of mobile apps. The library, based on the Google’s Polymer framework, provides the fundamental building blocks for creating HTML5 apps that run well on smartphones and tablets
 * [ForceServer ★30](https://github.com/ccoenraets/force-server) - It supportes a proxy and web server, ForceServer is a simple development server aimed at providing a simple and integrated developer experience when building applications that use Salesforce OAuth and REST services.
 
 ## Javascript Libraries for Salesforce
@@ -201,7 +201,7 @@ This library has been extended by five libraries <br/>
 * [ForceSniffer - Device Detection Library for Salesforce ★7 ⏳1Y](https://github.com/mailtoharshit/ForceSniffer.Js) - Simplified Library that detect Mobile Devices, Salesforce1 App and other Saleforce Context.
 * [ForceJS](https://github.com/ccoenraets/forcejs/tree/es6) - With ES6 support now, this micro library designed to use the Salesforce REST APIs in JavaScript Apps
 * [nForce ★275](https://github.com/kevinohara80/nforce) - nforce is a node.js salesforce REST API wrapper for force.com, database.com, and salesforce.com
-* [ngForce ★144](https://github.com/noeticpenguin/ngForce) -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
+* [ngForce ★145](https://github.com/noeticpenguin/ngForce) -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
 * [ForceTK ★287](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)- ForceTK - a minimal Force.com REST API for JavaScript apps
 * [ForceEng ★48](https://github.com/ccoenraets/forceng) - Micro-Library to use Salesforce REST API in AngularJS apps
 * [Formulon ★12](https://github.com/leifg/formulon) - Formula parser completely implemented in ES6. [See Demo](http://formulon.io)
@@ -230,7 +230,7 @@ to showcase, usage of [Google Material Design on](http://www.getmdl.io) Salesfor
 * [Jitterbit](http://www.jitterbit.com/) - Commercial software integration product that facilitates transport between legacy, enterprise, and on-demand computing applications.
 * [Pentaho Kettle](http://community.pentaho.com/projects/data-integration/) - The most popular open-source graphical ETL tool.
 * [Talend](https://www.talend.com/products/talend-open-studio) - An open source application for data integration job design with a graphical development environment.
-* Some other solutions from [awesome-etl list ★561](https://github.com/pawl/awesome-etl).
+* Some other solutions from [awesome-etl list ★574](https://github.com/pawl/awesome-etl).
 
 ## Salesforce Lighting
 * [Awesome Lighting ★19 ⏳1Y](https://github.com/mailtoharshit/awesome-lighting): Awesome Contents for Salesforce Lightning Framework

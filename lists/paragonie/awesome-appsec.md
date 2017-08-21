@@ -7,7 +7,7 @@ title: Awesome Rank for paragonie/awesome-appsec
 	This list is a copy of <a href="https://github.com/paragonie/awesome-appsec">paragonie/awesome-appsec</a> with ranks
 </p>
 ---
-# Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about application security. Contains books,
 websites, blog posts, and self-assessment quizzes.
@@ -292,7 +292,7 @@ A vulnerability research and exploit development class by Owen Redwood of Florid
 
 **Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
 
-### [Hack Night ★623](https://github.com/isislab/Hack-Night)
+### [Hack Night ★634](https://github.com/isislab/Hack-Night)
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 
@@ -532,7 +532,7 @@ If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
 
 Useful for generating random strings or numbers
 
-### [thephpleague/oauth2-server ★3023](https://github.com/thephpleague/oauth2-server)
+### [thephpleague/oauth2-server ★3052](https://github.com/thephpleague/oauth2-server)
 
 A secure OAuth2 server implementation
 
@@ -540,7 +540,7 @@ A secure OAuth2 server implementation
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
 
-### [psecio/gatekeeper ★326](https://github.com/psecio/gatekeeper)
+### [psecio/gatekeeper ★327](https://github.com/psecio/gatekeeper)
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 

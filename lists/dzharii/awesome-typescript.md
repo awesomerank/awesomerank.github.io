@@ -11,7 +11,7 @@ title: Awesome Rank for dzharii/awesome-typescript
 
 #### -= Awesome TypeScript =- [Awesome Elasticsearch ★1003](https://github.com/dzharii/awesome-elasticsearch) →
 
-> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) lists.
+> A collection of awesome TypeScript resources for client-side and server-side development. Write your awesome JavaScript in TypeScript. Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) lists.
 
 ## Contributing
 
@@ -67,7 +67,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ##### Chrome Extension
 * [TypeScript Editey](https://chrome.google.com/webstore/detail/typescript-editey/liedfkjkedgcgpddoijfeeeeoikcbmaf)
-* [OctoLinker ★2262](https://github.com/OctoLinker/browser-extension)
+* [OctoLinker ★2266](https://github.com/OctoLinker/browser-extension)
 
 ### Awesome TypeScript Videos
 
@@ -104,7 +104,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 
 ## Built with TypeScript
 ### Mobile
-* :octocat: [NativeScript ★10829](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
+* :octocat: [NativeScript ★10876](https://github.com/NativeScript/NativeScript) - Open Source framework for building cross-platform truly native iOS, Android and Windows mobile apps using JavaScript
 * [Monaco Editor](https://microsoft.github.io/monaco-editor/index.html)
 
 ### Web
@@ -113,11 +113,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 * :octocat: [palantir/plottable ★2171](https://github.com/palantir/plottable) - A library of modular chart components, built on `D3` (see also: http://plottablejs.org)
 * :octocat: [APIs-guru/graphql-voyager ★2188](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph 🛰️
 * :octocat: [Rebilly/ReDoc ★1244](https://github.com/Rebilly/Redoc) - OpenAPI/Swagger-generated API Reference Documentation
-* :octocat: [excaliburjs/Excalibur ★181](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
-* :octocat: [Bobril ★257](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: http://bobril.com/)
+* :octocat: [excaliburjs/Excalibur ★186](https://github.com/excaliburjs/Excalibur) - Free open source JavaScript game engine
+* :octocat: [Bobril ★258](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: http://bobril.com/)
 
 ### Standalone apps
-* :octocat: [Visual Studio Code ★31594](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+* :octocat: [Visual Studio Code ★31952](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 * :octocat: [alm - A next generation IDE just for TypeScript written in TypeScript + React ★1696](https://github.com/alm-tools/alm)
 
 ### Design patterns

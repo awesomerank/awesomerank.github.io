@@ -9,7 +9,7 @@ title: Awesome Rank for gamontalvo/awesome-katas
 ---
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
-# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 > A curated list of code katas
 
 ## Table of Contents
@@ -64,22 +64,22 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Kata 4: (Form) File Upload](https://github.com/devdrops/Katas/tree/kata-upload-file)
   - [Kata 5: (Translation) Manage translations](https://github.com/devdrops/Katas/tree/kata-translation)
 
-## [Gaurav Arora's TDD Katas Collection ★507](https://github.com/garora/TDD-Katas)
-  - [String Sum Kata ★507](https://github.com/garora/TDD-Katas#string-sum-kata)
-  - [String Calculator Kata ★507](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
-  - [The Bowling Game Kata ★507](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
-  - [The FizzBuzz Kata ★507](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
-  - [The OddEven Kata ★507](https://github.com/garora/TDD-Katas#the-oddeven-kata)
-  - [The PrimeFactor Kata ★507](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
-  - [Game of Life ★507](https://github.com/garora/TDD-Katas#game-of-life-)
-  - [Harry Potter ★507](https://github.com/garora/TDD-Katas#harry-potter-)
-  - [LCD Digits ★507](https://github.com/garora/TDD-Katas#lcd-digits-)
-  - [Leap Year ★507](https://github.com/garora/TDD-Katas#leap-year-)
-  - [Mine Fields ★507](https://github.com/garora/TDD-Katas#mine-fields-)
-  - [Poker Hands ★507](https://github.com/garora/TDD-Katas#poker-hands)
-  - [Recently Used List ★507](https://github.com/garora/TDD-Katas#recently-used-list-)
-  - [Reversi ★507](https://github.com/garora/TDD-Katas#reversi-)
-  - [Yehtzee ★507](https://github.com/garora/TDD-Katas#yehtzee-)
+## [Gaurav Arora's TDD Katas Collection ★510](https://github.com/garora/TDD-Katas)
+  - [String Sum Kata ★510](https://github.com/garora/TDD-Katas#string-sum-kata)
+  - [String Calculator Kata ★510](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
+  - [The Bowling Game Kata ★510](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
+  - [The FizzBuzz Kata ★510](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
+  - [The OddEven Kata ★510](https://github.com/garora/TDD-Katas#the-oddeven-kata)
+  - [The PrimeFactor Kata ★510](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
+  - [Game of Life ★510](https://github.com/garora/TDD-Katas#game-of-life-)
+  - [Harry Potter ★510](https://github.com/garora/TDD-Katas#harry-potter-)
+  - [LCD Digits ★510](https://github.com/garora/TDD-Katas#lcd-digits-)
+  - [Leap Year ★510](https://github.com/garora/TDD-Katas#leap-year-)
+  - [Mine Fields ★510](https://github.com/garora/TDD-Katas#mine-fields-)
+  - [Poker Hands ★510](https://github.com/garora/TDD-Katas#poker-hands)
+  - [Recently Used List ★510](https://github.com/garora/TDD-Katas#recently-used-list-)
+  - [Reversi ★510](https://github.com/garora/TDD-Katas#reversi-)
+  - [Yehtzee ★510](https://github.com/garora/TDD-Katas#yehtzee-)
   - [The Word Wrap Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap)
 
 ## Others

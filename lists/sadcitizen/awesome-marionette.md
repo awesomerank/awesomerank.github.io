@@ -7,7 +7,7 @@ title: Awesome Rank for sadcitizen/awesome-marionette
 	This list is a copy of <a href="https://github.com/sadcitizen/awesome-marionette">sadcitizen/awesome-marionette</a> with ranks
 </p>
 ---
-# Awesome Marionette.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Marionette.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 > A list of resources for marionette.js
 
@@ -97,15 +97,15 @@ title: Awesome Rank for sadcitizen/awesome-marionette
 - [Marionette Require Boilerplate ★259 ⏳1Y](https://github.com/BoilerplateMVC/Marionette-Require-Boilerplate)
 - [Marionette Contact Manager ★22 ⏳3Y](https://github.com/dmytroyarmak/marionette-contact-manager) - Continuation of development "Backbone Contact Manager" but using Marionette.js
 - [Marionette, Require, and Gulp.js Boilerplate ★18 ⏳2Y](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js
-- [MarionetteJS + RequireJS + Twitter Bootstrap ★66 ⏳3Y](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
+- [MarionetteJS + RequireJS + Twitter Bootstrap ★67 ⏳3Y](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
 - [Marionette Gentle Introduction ★356 ⏳1Y](https://github.com/davidsulc/marionette-gentle-introduction)
 - [Marionette Wires ★337](https://github.com/thejameskyle/marionette-wires)
 - [Marionette Cookbook ★105 ⏳2Y](https://github.com/MarionetteLabs/marionette-cookbook)
 - [MarionetteJS + Brunch + Babel/ES6 ★16](https://github.com/denar90/brunch-with-marionettejs)
 - [A Place to Write About Technical Subjects on the Web ★97 ⏳2Y](https://github.com/jmeas/gistbook)
 - [The Front End App for edit.sx ★32 ⏳2Y](https://github.com/samccone/edit.sx-frontend)
-- [Streamus ★1109](https://github.com/MeoMix/StreamusChromeExtension)
-- [Marionette-Integrations ★100](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools
+- [Streamus ★1108](https://github.com/MeoMix/StreamusChromeExtension)
+- [Marionette-Integrations ★101](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools
 - [ES6 Marionette Project ★66](https://github.com/abiee/es6-marionette)
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
 - [Webpack-Marionette ★13](https://github.com/alexpsi/webpack-marionette) A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.

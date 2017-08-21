@@ -9,7 +9,7 @@ title: Awesome Rank for k4m4/terminals-are-sexy
 ---
 [![Terminals_Are_Sexy_Logo](http://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)](http://terminalsare.sexy/)
 
-# Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 > A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
@@ -43,79 +43,79 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [zsh](http://www.zsh.org/) - Powerful shell with scripting language.
     * [fish](https://fishshell.com/) - Smart and user-friendly command line shell.
     * [xonsh](https://xonsh.org/) - Python-ish, BASHwards-looking shell language and command prompt.
-    * [PowerShell ★7506](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.
+    * [PowerShell ★7612](https://github.com/PowerShell/PowerShell) - Automation and configuration tool/framework that is optimized for dealing with structured data.
 * ZSH
-    * [oh-my-zsh ★57192](https://github.com/robbyrussell/oh-my-zsh) - Delightful community-driven framework for managing your zsh configuration.
-    * [prezto ★7855](https://github.com/sorin-ionescu/prezto) - Configuration framework for Zsh.
-    * [zsh-syntax-highlighting ★3837](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
-    * [antigen ★3326](https://github.com/zsh-users/antigen) - Plugin manager for zsh, inspired by oh-my-zsh and vundle.
-    * [slimzsh ★119](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH.
-    * [antibody ★403](https://github.com/getantibody/antibody) - Faster and simpler antigen written in Golang.
-    * [pure ★3668](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
-    * [powerlevel9k ★2455](https://github.com/bhilburn/powerlevel9k) - Super flexible awesome powerline ZSH theme.
-    * [liquidprompt ★3148](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
+    * [oh-my-zsh ★57655](https://github.com/robbyrussell/oh-my-zsh) - Delightful community-driven framework for managing your zsh configuration.
+    * [prezto ★7888](https://github.com/sorin-ionescu/prezto) - Configuration framework for Zsh.
+    * [zsh-syntax-highlighting ★3857](https://github.com/zsh-users/zsh-syntax-highlighting) - Fish shell like syntax highlighting for Zsh.
+    * [antigen ★3348](https://github.com/zsh-users/antigen) - Plugin manager for zsh, inspired by oh-my-zsh and vundle.
+    * [slimzsh ★121](https://github.com/changs/slimzsh) - Small, usable configuration for ZSH.
+    * [antibody ★417](https://github.com/getantibody/antibody) - Faster and simpler antigen written in Golang.
+    * [pure ★3705](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt.
+    * [powerlevel9k ★2527](https://github.com/bhilburn/powerlevel9k) - Super flexible awesome powerline ZSH theme.
+    * [liquidprompt ★3154](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
     * [dotzsh ★132](https://github.com/dotphiles/dotzsh) - Community driven framework for zsh.
-    * [zgen ★773](https://github.com/tarjoilija/zgen) - Lightweight and simple plugin manager for ZSH.
-    * [zplug ★1684](https://github.com/zplug/zplug) - Next-generation plugin manager for zsh.
+    * [zgen ★777](https://github.com/tarjoilija/zgen) - Lightweight and simple plugin manager for ZSH.
+    * [zplug ★1717](https://github.com/zplug/zplug) - Next-generation plugin manager for zsh.
     * [zunit](https://github.com/molovo/zunit) - Powerful unit testing framework for ZSH.
     * [zshdb ★111](https://github.com/rocky/zshdb) - ZSH debugger.
-    * [zsh-quickstart-kit ★111](https://github.com/unixorn/zsh-quickstart-kit) - Simple zsh quickstart for using zsh and zgen.
-    * [zsh-autosuggestions ★3171](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
+    * [zsh-quickstart-kit ★114](https://github.com/unixorn/zsh-quickstart-kit) - Simple zsh quickstart for using zsh and zgen.
+    * [zsh-autosuggestions ★3203](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh.
     * [alf ★34 ⏳1Y](https://github.com/psyrendust/alf) - Out of this world super fast and configurable framework for zsh.
     * [ant-zsh ★9](https://github.com/anthraxx/ant-zsh) - Tiny and lightweight ZSH configuration environment for special customization needs.
     * [pumice ★3 ⏳2Y](https://github.com/ryutamaki/pumice) - Lightweight plugin manager for zsh.
     * [zeesh ★28](https://github.com/zeekay/zeesh) - Cross-platform Zsh framework.
     * [zilsh ★23 ⏳2Y](https://github.com/zilsh/zilsh) - Zsh config system that aims to appeal more to power-users and follow the simplistic approach of vim-pathogen.
-    * [zim ★880](https://github.com/Eriner/zim) - Zsh configuration framework with blazing speed and modular extensions.
+    * [zim ★888](https://github.com/Eriner/zim) - Zsh configuration framework with blazing speed and modular extensions.
     * [zoppo ★25](https://github.com/zoppo/zoppo) - Crippled configuration framework for Zsh.
     * [zpm ★24](https://github.com/zpm-zsh/zpm) - Plugin manager for zsh similar to vim-plug.
-    * [ztanesh ★238](https://github.com/miohtama/ztanesh) - Aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project.
+    * [ztanesh ★240](https://github.com/miohtama/ztanesh) - Aims to improve your UNIX command line experience and productivity with the the configuration provided by the ztanesh project.
     * [zulu ★49](https://github.com/zulu-zsh/zulu) - Total environment manager for ZSH 5+.
     * [zsh-pony ★83 ⏳6Y](https://github.com/mika/zsh-pony) - Covers customizing ZSH without a framework.
 * Bash
-    * [bash-sensible ★1421](https://github.com/mrzool/bash-sensible) - Attempt at saner Bash defaults.
-    * [bash-powerline ★452](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
-    * [bashtrap ★1446](https://github.com/barryclark/bashstrap) - Quick way to spruce up OSX terminal.
-    * [liquidprompt ★3148](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
-    * [hstr ★723](https://github.com/dvorka/hstr) - Bash History Suggest Box.
-    * [aliases ★76](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
-    * [bash-it ★6531](https://github.com/Bash-it/bash-it) - Collection of community Bash commands and scripts.
+    * [bash-sensible ★1428](https://github.com/mrzool/bash-sensible) - Attempt at saner Bash defaults.
+    * [bash-powerline ★456](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
+    * [bashtrap ★1448](https://github.com/barryclark/bashstrap) - Quick way to spruce up OSX terminal.
+    * [liquidprompt ★3154](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
+    * [hstr ★730](https://github.com/dvorka/hstr) - Bash History Suggest Box.
+    * [aliases ★78](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.
+    * [bash-it ★6575](https://github.com/Bash-it/bash-it) - Collection of community Bash commands and scripts.
 * Git
     * [git-prompt ★317 ⏳1Y](https://github.com/lvv/git-prompt) - Bash prompt with Git, SVN and HG modules.
     * [gittify ★21](https://github.com/momeni/gittify) - Colorful Bash prompt + customized Git aliases.
-    * [oh-my-git ★2554](https://github.com/arialdomartini/oh-my-git) - Opinionated git prompt for bash and zsh.
-    * [bash-git-prompt ★3203](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy Bash prompt for Git users.
-    * [sexy-bash-prompt ★766](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
-    * [git-sh ★675](https://github.com/rtomayko/git-sh) - Customized Bash environment suitable for Git work.
-    * [git-radar ★2525](https://github.com/michaeldfallen/git-radar) - Heads up display for git
+    * [oh-my-git ★2567](https://github.com/arialdomartini/oh-my-git) - Opinionated git prompt for bash and zsh.
+    * [bash-git-prompt ★3236](https://github.com/magicmonty/bash-git-prompt) - Informative and fancy Bash prompt for Git users.
+    * [sexy-bash-prompt ★769](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches.
+    * [git-sh ★676](https://github.com/rtomayko/git-sh) - Customized Bash environment suitable for Git work.
+    * [git-radar ★2527](https://github.com/michaeldfallen/git-radar) - Heads up display for git
     * [git-extra-commands ★172](https://github.com/unixorn/git-extra-commands) - Collection of useful extra commands for git
 * Fish
-    * [Fisherman ★2423](https://github.com/fisherman/fisherman) - Concurrent plugin manager for fish.
-    * [oh-my-fish ★2486](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
+    * [Fisherman ★2432](https://github.com/fisherman/fisherman) - Concurrent plugin manager for fish.
+    * [oh-my-fish ★2507](https://github.com/oh-my-fish/oh-my-fish) - The Fishshell Framework.
 
 ## Terminal Emulation Applications
 
 *Sexy 3rd party terminal emulation applications.*
 
-* [iTerm2 ★6005](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.
-* [ConEmu ★3760](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
+* [iTerm2 ★6036](https://github.com/gnachman/iTerm2) - Terminal emulator for macOS that does amazing things.
+* [ConEmu ★3783](https://github.com/Maximus5/ConEmu) - Customizable Windows terminal with tabs, splits, quake-style and more.
 * [PuTTY](http://www.putty.org/) - SSH and telnet client, developed originally by Simon Tatham for the Windows platform.
 * [KiTTY](http://kitty.9bis.net/) - Fork from version 0.67 of PuTTY, the best telnet / SSH client in the world.
 * [Terminator](https://gnometerminator.blogspot.com/p/introduction.html) - The robot future of terminals.
 * [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [xterm](http://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
-* [Hyper ★18258](https://github.com/zeit/hyper) - Terminal built on web technologies.
+* [Hyper ★18354](https://github.com/zeit/hyper) - Terminal built on web technologies.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
 * [Black Screen](https://github.com/vshatskyi/black-screen) - Terminal emulator for the 21st century.
 * [TotalTerminal](https://totalterminal.binaryage.com/) - System-wide terminal available on a hot-key.
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Cathode](http://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.
-* [Alacritty ★6612](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
-* [Termite ★1256](https://github.com/thestinger/termite) - Keyboard-centric terminal, aimed at use within a tiling window manager.
-* [Cmder ★11109](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
-* [ConsoleZ ★2173](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project. 
-* [Mosh ★6602](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
+* [Alacritty ★6703](https://github.com/jwilm/alacritty) - Cross-platform, GPU-accelerated terminal emulator.
+* [Termite ★1272](https://github.com/thestinger/termite) - Keyboard-centric terminal, aimed at use within a tiling window manager.
+* [Cmder ★11196](https://github.com/cmderdev/cmder) - Lovely console emulator package for Windows.
+* [ConsoleZ ★2184](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project. 
+* [Mosh ★6632](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
 
 ## Package Managers
@@ -127,7 +127,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [pip](https://pip.pypa.io/) - Package management system used to install and manage software packages written in Python.
     * [npmjs](https://www.npmjs.com/) - Package manager for JavaScript.
     * [bower](https://bower.io/) - Package manager for the web.
-    * [duo ★3566](https://github.com/duojs/duo) - Next-generation package manager for the front-end.
+    * [duo ★3564](https://github.com/duojs/duo) - Next-generation package manager for the front-end.
     * [basher ★284](https://github.com/basherpm/basher) - Package manager for shell scripts.
     * [bpkg](http://www.bpkg.io/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
     * [rubygems](https://rubygems.org/) - The Ruby community’s gem hosting service.
@@ -141,9 +141,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [linuxbrew](http://linuxbrew.sh/) - The Homebrew package manager for Linux.
     * [pkgin](http://pkgin.net/) - Aimed at being an apt / yum like tool for managing pkgsrc binary packages.
 * FreeBSD
-    * [pkg ★510](https://github.com/freebsd/pkg) - Package management tool for FreeBSD.
+    * [pkg ★509](https://github.com/freebsd/pkg) - Package management tool for FreeBSD.
 * Windows
-    * [oneget ★1610](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows.
+    * [oneget ★1618](https://github.com/OneGet/oneget) - PackageManagement (aka OneGet) is a package manager for Windows.
     * [chocolatey](https://chocolatey.org/) - Package manager for Windows.
     * [cygwin](https://cygwin.com/) - Linux-like environment for Windows making it possible to port software running on POSIX systems to Windows.
     * [ninite](https://ninite.com/) - Install and Update All Your Programs at Once.
@@ -162,47 +162,47 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [emacs](https://www.gnu.org/software/emacs/) - Cross-platform text-editor that has both command-line and graphical user interface.
     * [spacemacs](http://spacemacs.org) - Community-driven emacs distribution.
 * [nano](https://www.nano-editor.org/) - Text editor for Unix-like computing systems or operating environments using a command line interface.
-* [micro ★5645](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
+* [micro ★5736](https://github.com/zyedidia/micro) - Modern and intuitive terminal-based text editor.
 * [jed](http://www.jedsoft.org/jed/) - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 * [kakoune](http://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
-* [vis ★2485](https://github.com/martanne/vis) - Highly efficient text editor.
-* [slap ★4640](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
+* [vis ★2505](https://github.com/martanne/vis) - Highly efficient text editor.
+* [slap ★4646](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 
 ## Tools and Plugins
 
 *Sexy Applications for your Command Line Interface.*
 
-* [haxor-news ★2306](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
-* [reddit terminal viewer ★1432](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
+* [haxor-news ★2315](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor.
+* [reddit terminal viewer ★1443](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal.
 * [taskwarrior](https://taskwarrior.org/) - Command-line TODO list manager.
 * [transfer.sh](https://transfer.sh/) - Quickly upload and share files from your shell.
-* [whereami ★46](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
-* [howdoi ★5549](https://github.com/gleitz/howdoi) - Instant code answers and examples from the command line
+* [whereami ★47](https://github.com/rafaelrinaldi/whereami) - Get your geolocation information from the CLI.
+* [howdoi ★5574](https://github.com/gleitz/howdoi) - Instant code answers and examples from the command line
 * [htop](http://hisham.hm/htop/) - Cool looking and interactive process viewer 'replacement' for the top command.
-* [lolcat ★2299](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+* [lolcat ★2328](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
 * [ack](https://beyondgrep.com/) - Tool like grep, optimized for programmers.
-* [the_silver_searcher ★12896](https://github.com/ggreer/the_silver_searcher) - Code-searching tool similar to ack, but faster.
-* [lunchy ★2493](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
+* [the_silver_searcher ★12974](https://github.com/ggreer/the_silver_searcher) - Code-searching tool similar to ack, but faster.
+* [lunchy ★2499](https://github.com/eddiezane/lunchy) - Friendly wrapper for launchctl.
 * [bro](http://bropages.org/) - Examples for command line programs.
-* [tldr ★9774](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
+* [tldr ★9848](https://github.com/tldr-pages/tldr) - Simplified and community-driven man pages.
 * [tmux](https://tmux.github.io/) - Terminal multiplexer.
 * [ranger](http://ranger.nongnu.org/) - Console file manager with vi key bindings.
-* [googler ★1723](https://github.com/jarun/googler) - Search Google from your terminal.
+* [googler ★1739](https://github.com/jarun/googler) - Search Google from your terminal.
 * [jq.node ★172](https://github.com/FGRibreau/jq.node) - Command-line JSON/string processor, JavaScript and Lodash in your shell.
-* [screenfetch ★1745](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
-* [neofetch ★2003](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
-* [jrnl ★2433](https://github.com/maebert/jrnl) - Simple command line journal application that stores your journal in a plain text file.
-* [tig ★4653](https://github.com/jonas/tig) - Text mode interface for git.
+* [screenfetch ★1764](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal for Linux desktop screenshots.
+* [neofetch ★2081](https://github.com/dylanaraps/neofetch) - Fetches system/theme information in terminal for Linux desktop screenshots. Alternative to screenfetch.
+* [jrnl ★2436](https://github.com/maebert/jrnl) - Simple command line journal application that stores your journal in a plain text file.
+* [tig ★4705](https://github.com/jonas/tig) - Text mode interface for git.
 * [vifm](http://vifm.info/) - Console file manager with vi key bindings and some ideas from mutt.
-* [autojump ★5723](https://github.com/wting/autojump) - cd command that learns
-* [fzf ★9760](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
-* [wttr.in ★3756](https://github.com/chubin/wttr.in) - The right way to check the weather.
-* [nycurl ★22](https://github.com/omgimanerd/nycurl) - Checking the latest news headlines.
+* [autojump ★5753](https://github.com/wting/autojump) - cd command that learns
+* [fzf ★9839](https://github.com/junegunn/fzf) - Command-line fuzzy finder.
+* [wttr.in ★3802](https://github.com/chubin/wttr.in) - The right way to check the weather.
+* [getnews.tech ★2](https://github.com/omgimanerd/getnews.tech) - Checking the latest news headlines from various news outlets on the web.
 * [hub](https://hub.github.com/) - Command-line wrapper for git that makes working with GitHub easy.
-* [exa ★2997](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
-* [homebrew-cask ★11371](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
-* [mps-youtube ★2726](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
-* [colorls ★1069](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
+* [exa ★3133](https://github.com/ogham/exa) - Replacement for 'ls' written in Rust.
+* [homebrew-cask ★11415](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
+* [mps-youtube ★2776](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
+* [colorls ★1075](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
 
 ## Communication
 
@@ -213,8 +213,8 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [centerim](http://www.centerim.org/index.php/Main_Page) - Terminal based, multi-protocol Instant Messaging client with support for IRC.
 * [weechat](http://weechat.org/) - Fast, light and extensible chat client.
 * [epic](http://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
-* [slacker ★549 ⏳1Y](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI.
-* [go-jira ★493](https://github.com/Netflix-Skunkworks/go-jira) - Simple jira command line client in Go.
+* [slacker ★552 ⏳1Y](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI.
+* [go-jira ★505](https://github.com/Netflix-Skunkworks/go-jira) - Simple jira command line client in Go.
 
 # Community
 
@@ -232,12 +232,12 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 *Here are some more sexy lists.*
 
 * Awesome
-    * [awesome-devenv ★841](https://github.com/jondot/awesome-devenv) - Curated list of delightful Bash scripts and resources.
-    * [awesome-sysadmin ★15682](https://github.com/kahun/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
-    * [awesome-zsh-plugins ★3008](https://github.com/unixorn/awesome-zsh-plugins) - Collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
+    * [awesome-devenv ★850](https://github.com/jondot/awesome-devenv) - Curated list of delightful Bash scripts and resources.
+    * [awesome-sysadmin ★15733](https://github.com/kahun/awesome-sysadmin) - Curated list of amazingly awesome open source sysadmin resources.
+    * [awesome-zsh-plugins ★3057](https://github.com/unixorn/awesome-zsh-plugins) - Collection of ZSH frameworks, plugins & themes inspired by the various awesome list collections out there.
 * Misc
-    * [the-art-of-command-line ★31363](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
-    * [bash-guide ★7918](https://github.com/Idnan/bash-guide) - Guide to learn bash.
+    * [the-art-of-command-line ★31428](https://github.com/jlevy/the-art-of-command-line) - Master the command line, in one page.
+    * [bash-guide ★7940](https://github.com/Idnan/bash-guide) - Guide to learn bash.
 
 # Contributing
 

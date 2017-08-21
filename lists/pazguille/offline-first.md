@@ -7,7 +7,7 @@ title: Awesome Rank for pazguille/offline-first
 	This list is a copy of <a href="https://github.com/pazguille/offline-first">pazguille/offline-first</a> with ranks
 </p>
 ---
-# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
+# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
 
 > Useful resources for creating Offline-First web apps
 
@@ -15,7 +15,7 @@ title: Awesome Rank for pazguille/offline-first
 
 > via https://www.html5rocks.com/en/features/offline
 
-Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 - [W3C Specification](#w3c-specification)
@@ -804,19 +804,19 @@ Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list
 
 ## Tools
 
-[offline-plugin ★2215](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
+[offline-plugin ★2233](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
 
 [Pinterest Service Workers ★832](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
 
 [Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
 
-[bottle-service ★284 ⏳1Y](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
+[bottle-service ★286 ⏳1Y](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
 
 [react-boilerplate](https://github.com/mxstbr/react-boilerplate): Quick setup for performance orientated, offline-first React.js applications.
 
 [Haywire ★19 ⏳2Y](https://github.com/omnia-salud/haywire): A minimal javascript library for network issues detection.
 
-[sw-toolbox ★2663](https://github.com/GoogleChrome/sw-toolbox): A collection of tools for service workers.
+[sw-toolbox ★2686](https://github.com/GoogleChrome/sw-toolbox): A collection of tools for service workers.
 
 [UpUp](https://www.talater.com/upup/): An Offline First library designed to be the easiest way to add offline capabilities to a site.
 
@@ -833,7 +833,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
-[localForage ★9673](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+[localForage ★9730](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 [remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 

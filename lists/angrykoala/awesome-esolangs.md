@@ -7,7 +7,7 @@ title: Awesome Rank for angrykoala/awesome-esolangs
 	This list is a copy of <a href="https://github.com/angrykoala/awesome-esolangs">angrykoala/awesome-esolangs</a> with ranks
 </p>
 ---
-# Awesome Esolangs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Esolangs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 <img src="logo_piet.png" align="right">
 
@@ -34,7 +34,7 @@ Curated list of awesome esoteric programming languages and resources.
 * [DNA#](https://esolangs.org/wiki/DNA-Sharp) - Language based on the structure of the DNA.
 * [Dots ★2 ⏳1Y](https://github.com/josconno/dots) - A turing-complete language with only one symbol: ".".
 * [False](http://strlen.com/false-language) - Heavily offuscated language with a minimal implementation.
-* [JSFuck ★2805](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript.
+* [JSFuck ★2850](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript.
 * [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) - Brainfuck-based language, where the commands are orangutan words.
@@ -51,7 +51,7 @@ Curated list of awesome esoteric programming languages and resources.
 ## Resources
 
 * [DM's Esoteric Programming Languages](http://www.dangermouse.net/esoteric) - List of esoteric languages and algorithms written by dangermouse. 
-* [Esofiles ★18 ⏳1Y](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
+* [Esofiles ★19](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
 * [Esolang](https://esolangs.org) - Wiki of esoteric programming languages and related Resources.
 * [Progopedia](http://progopedia.com/paradigm/esoteric) - List of esoteric languages.
 * [Rosettacode](http://rosettacode.org/wiki/Rosetta_Code) - Provides examples in different languages, including esoteric languages.

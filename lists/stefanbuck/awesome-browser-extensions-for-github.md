@@ -7,13 +7,14 @@ title: Awesome Rank for stefanbuck/awesome-browser-extensions-for-github
 	This list is a copy of <a href="https://github.com/stefanbuck/awesome-browser-extensions-for-github">stefanbuck/awesome-browser-extensions-for-github</a> with ranks
 </p>
 ---
-# Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome browser extensions for GitHub.
 
 
 ## Table of Content
 
+- [Advanced GitHub Notifier](#advanced-github-notifier)
 - [Builds Tab for Github](#builds-tab-for-github)
 - [Codecov: Code Coverage Overlay](#codecov-code-coverage-overlay)
 - [CoderStats link for GitHub](#coderstats-link-for-github)
@@ -25,6 +26,7 @@ title: Awesome Rank for stefanbuck/awesome-browser-extensions-for-github
 - [GitHub Awesome Autocomplete](#github-awesome-autocomplete)
 - [GitHub Categoric](#github-categoric)
 - [GitHub Custom Tab Size](#github-custom-tab-size)
+- [GitHub Diffs](#github-diffs)
 - [GitHub Email Extractor](#github-email-extractor)
 - [GitHub Extended](#github-extended)
 - [GitHub Clean Feed](#github-clean-feed)
@@ -43,6 +45,7 @@ title: Awesome Rank for stefanbuck/awesome-browser-extensions-for-github
 - [Hide files on GitHub](#hide-files-on-github)
 - [Infinite Commits](#infinite-commits)
 - [Isometric Contributions](#isometric-contributions)
+- [Like On Github](#like-on-github)
 - [Lovely forks](#lovely-forks)
 - [MiniGitHub](#minigithub)
 - [My Git Repo News](#my-git-repo-news)
@@ -70,13 +73,23 @@ title: Awesome Rank for stefanbuck/awesome-browser-extensions-for-github
 - [ZenHub](#zenhub)
 
 
-## [Builds Tab for Github ★8](https://github.com/duxet/builds-tab)
+## [Advanced GitHub Notifier ★1](https://github.com/freaktechnik/advanced-github-notifier)
+<a href="https://addons.mozilla.org/en-US/firefox/addon/advanced-github-notifier/?src=external-awesome"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
+
+<details><summary>Screenshots</summary>
+![Advanced GitHub Notifier](http://i.imgur.com/Qy2fbRC.png)
+</details>
+
+## [Builds Tab for Github ★9](https://github.com/duxet/builds-tab)
 <a href="https://chrome.google.com/webstore/detail/builds-tab-for-github/jnmdkbflmkjehkkdbjdfpmhgdafpcdkh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/builds-tab-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
 This extension will add "builds" tab to Github in your browser.
 
 <details><summary>Screenshots</summary>
+
 ![Builds Tab for Github](https://i.imgur.com/r85028r.png)
 </details>
 
@@ -108,7 +121,7 @@ The CoderStats link for Github Chrome extension displays a link to the CoderStat
 </details>
 
 
-## [Contributors on GitHub ★185](https://github.com/hzoo/contributors-on-github)
+## [Contributors on GitHub ★184](https://github.com/hzoo/contributors-on-github)
 <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
@@ -161,7 +174,7 @@ View the abstract syntax tree (AST) of code on GitHub.
 </details>
 
 
-## [GitHub Awesome Autocomplete ★612](https://github.com/algolia/github-awesome-autocomplete)
+## [GitHub Awesome Autocomplete ★620](https://github.com/algolia/github-awesome-autocomplete)
 <a href="https://chrome.google.com/webstore/detail/awesome-autocomplete-for/djkfdjpoelphhdclfjhnffmnlnoknfnd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/firefox/addon/github-awesome-autocomplete/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -184,7 +197,7 @@ Categorize your mixed GitHub notifications
 </details>
 
 
-## [GitHub Custom Tab Size ★15](https://github.com/lukechilds/github-custom-tab-size)
+## [GitHub Custom Tab Size ★16](https://github.com/lukechilds/github-custom-tab-size)
 <a href="https://chrome.google.com/webstore/detail/github-custom-tab-size/jcjfkmdkcaopkioccnpbhiemfcmpnghe"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Set custom tab size for code view on GitHub.com
@@ -194,8 +207,17 @@ Set custom tab size for code view on GitHub.com
  ![GitHub Custom Tab Size](https://i.imgur.com/Y3Rf9SF.gif)
 </details>
 
+## [GitHub Diffs ★19](https://github.com/kamranahmedse/github-diffs)
+<a href="https://chrome.google.com/webstore/detail/github-diffs/dhcpmhfjmlgjfhpeeloohoffbmpjfmgh"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-## [GitHub Email Extractor ★24](https://github.com/prabhakar267/github-email-extractor)
+Expand and collapse file diffs on GitHub.com
+
+<details><summary>Screenshots</summary>
+
+ ![GitHub Diffs](https://lh3.googleusercontent.com/AWUu9P702CPbmnOHf5ouw4t8-qf29eA00wdRUmsbXF79-NPbJyDaTNLMZzTCLOQneB-kBtCUBx0=w640-h400-e365)
+</details>
+
+## [GitHub Email Extractor ★25](https://github.com/prabhakar267/github-email-extractor)
 <a href="https://chrome.google.com/webstore/detail/github-show-email/pndebicblkfcinlcedagfhjfkkkecibn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Chrome extension to fetch the email ID of a user even if they haven't made it public on their GitHub profile
@@ -226,7 +248,7 @@ Group stars, forks, and other events in your dashboard/news feed.
 </details>
 
 
-## [GitHub Highlight Selected ★103 ⏳1Y](https://github.com/Nuclides/github-highlight-selected)
+## [GitHub Highlight Selected ★105 ⏳1Y](https://github.com/Nuclides/github-highlight-selected)
 <a href="https://chrome.google.com/webstore/detail/github-highlight-selected/lhiklbgjcblimmjjflobpncgihagcmbj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://github.com/Nuclides/github-highlight-selected/blob/master/README.md"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
@@ -238,7 +260,7 @@ Highlight selected word in GitHub source view like Sublime Text.
 </details>
 
 
-## [GitHub Hovercard ★922](https://github.com/Justineo/github-hovercard)
+## [GitHub Hovercard ★932](https://github.com/Justineo/github-hovercard)
 <a href="https://chrome.google.com/webstore/detail/github-hovercard/mmoahbbnojgkclgceahhakhnccimnplk"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/firefox/addon/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 <a href="https://addons.opera.com/extensions/details/github-hovercard/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
@@ -286,7 +308,7 @@ Omnibar for GitHub just like [bitbucket's](https://developer.atlassian.com/blog/
 </details>
 
 
-## [Github Plus ★169](https://github.com/softvar/github-plus)
+## [Github Plus ★170](https://github.com/softvar/github-plus)
 <a href="https://chrome.google.com/webstore/detail/github-plus/anlikcnbgdeidpacdbdljnabclhahhmd"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Displays size of each file, download link and an option of copying file contents directly to clipboard
@@ -309,7 +331,7 @@ Add ability to filter files in pull requests.
 </details>
 
 
-## [Github Repo Size ★255](https://github.com/harshjv/github-repo-size)
+## [Github Repo Size ★261](https://github.com/harshjv/github-repo-size)
 <a href="https://chrome.google.com/webstore/detail/github-repository-size/apnjnioapinblneaedefcnopcjepgkci"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 Automatically adds repository size to GitHub's repository summary.
 
@@ -340,7 +362,7 @@ Add breakpoints at 1400px, 1600px and 1800px for full GitHub experience on large
  ![github.expandinizr](https://dl.dropboxusercontent.com/s/7e9g9g0l445j90m/github-expandinizr.jpg)
 </details>
 
-## [GitSense ★45](https://github.com/gitsense/insight)
+## [GitSense ★46](https://github.com/gitsense/insight)
 <a href="https://chrome.google.com/webstore/detail/gitsense-insight/fgnjcebdincofoebkahonlphjoiinglo"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Makes searching in GitHub better. With GitHub, you can only search one branch per non-forked repository. With [GitSense](https://gitsense.com), you search any branch, from any repository, and much more.
@@ -362,7 +384,7 @@ Makes it easy to see if a GitHub project has a [Gitter](https://gitter.im) room.
 </details>
 
 
-## [Hide files on GitHub ★173](https://github.com/sindresorhus/hide-files-on-github)
+## [Hide files on GitHub ★174](https://github.com/sindresorhus/hide-files-on-github)
 <a href="https://chrome.google.com/webstore/detail/hide-files-on-github/lpnakhpaodhdkleejaehlapdhbgjbddp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.opera.com/extensions/details/github-hide-files/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
 
@@ -374,7 +396,7 @@ Hide dotfiles from the GitHub file browser.
 </details>
 
 
-## [Isometric Contributions ★1381](https://github.com/jasonlong/isometric-contributions)
+## [Isometric Contributions ★1388](https://github.com/jasonlong/isometric-contributions)
 <a href="https://chrome.google.com/webstore/detail/isometric-contributions/mjoedlfflcchnleknnceiplgaeoegien"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://github.com/jasonlong/isometric-contributions#safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
@@ -391,8 +413,17 @@ Allows you to toggle between the normal GitHub contribution chart and an isometr
 
 A Chrome extension for infinite scrolling on GitHub's commit pages.
 
+## [Like On Github ★141](https://github.com/Idnan/like-on-github)
+<a href="https://chrome.google.com/webstore/detail/like-on-github/fbkngleiiccokoifohhjhlagkejlphkj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
-## [Lovely forks ★149](https://github.com/musically-ut/lovely-forks)
+Chrome extension that adds a button in browser and links this button to a Github repository that you will configure, then on any webpage just click this extension button and it will add the given link with the title of the page in that repository.
+
+<details><summary>Screenshots</summary>
+
+ ![Like On Github](http://i.imgur.com/hUC9ed8r.png)
+</details>
+
+## [Lovely forks ★151](https://github.com/musically-ut/lovely-forks)
 <a href="https://chrome.google.com/webstore/detail/lovely-forks/ialbpcipalajnakfondkflpkagbkdoib"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/firefox/addon/lovely-forks/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -453,7 +484,7 @@ Displays your GitHub notifications unread count. Supports GitHub Enterprise and 
 </details>
 
 
-## [npm-hub ★267](https://github.com/npmhub/npmhub)
+## [npm-hub ★280](https://github.com/npmhub/npmhub)
 <a href="https://chrome.google.com/webstore/detail/npmhub/kbbbjimdjbjclaebffknlabpogocablj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/firefox/addon/npm-hub/?src=search"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -465,7 +496,7 @@ When viewing a repository on github.com that has a package.json file, this exten
 </details>
 
 
-## [Octo Mate ★233](https://github.com/camsong/chrome-github-mate)
+## [Octo Mate ★235](https://github.com/camsong/chrome-github-mate)
 <a href="https://chrome.google.com/webstore/detail/octo-mate/baggcehellihkglakjnmnhpnjmkbmpkf?utm_source=chrome-ntp-icon"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Adds various useful features to GitHub:
@@ -493,7 +524,7 @@ OctoEdit is a Browser Extension which adds a new tab to the comment edit area in
 </details>
 
 
-## [OctoLinker ★2262](https://github.com/OctoLinker/browser-extension)
+## [OctoLinker ★2266](https://github.com/OctoLinker/browser-extension)
 <a href="https://chrome.google.com/webstore/detail/octolinker/jlmafbaeoofdegohdhinkhilhclaklkp"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/firefox/addon/octolinker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 <a href="https://addons.opera.com/extensions/details/octolinker/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/opera/opera_48x48.png" width="24" /></a>
@@ -552,7 +583,7 @@ Displays live previews of Markdown comments while you type. Works with Issues + 
 </details>
 
 
-## [Octotree ★9690](https://github.com/buunguyen/octotree)
+## [Octotree ★9838](https://github.com/buunguyen/octotree)
 <a href="https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/firefox/addon/octotree/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 <a href="https://github.com/buunguyen/octotree/#install-on-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
@@ -586,7 +617,7 @@ Jump to a variable's definition when viewing JavaScript code on Github. Also hig
 </details>
 
 
-## [Package Hub ★15](https://github.com/BrainMaestro/packagehub)
+## [Package Hub ★17](https://github.com/BrainMaestro/packagehub)
 <a href="https://chrome.google.com/webstore/detail/package-hub/hnnjnbmjanpeoeapjllonejjgoonilal"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 This package lists the dependencies in the package files of the various packages you encounter while browsing github.
@@ -618,7 +649,7 @@ This Chrome extension extends the file search of a pull request to allow for act
 </details>
 
 
-## [Refined GitHub ★2435](https://github.com/sindresorhus/refined-github)
+## [Refined GitHub ★2459](https://github.com/sindresorhus/refined-github)
 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://github.com/fantattitude/refined-github-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 

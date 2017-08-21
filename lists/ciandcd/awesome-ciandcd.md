@@ -7,7 +7,7 @@ title: Awesome Rank for ciandcd/awesome-ciandcd
 	This list is a copy of <a href="https://github.com/ciandcd/awesome-ciandcd">ciandcd/awesome-ciandcd</a> with ranks
 </p>
 ---
-# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
 
@@ -78,7 +78,7 @@ and developer-friendly build server out of the box
 * [rexify](http://www.rexify.org//)  perl Deployment & Configuration Management  
 * [SimpleCI ★47](https://github.com/simpleci/simpleci) Docker-based self-hosted ci system. Supports distributed build cache, external providers (GCE), real-time build log, etc.  
 * [pulse](http://zutubi.com) no free version.  
-* [PHP Censor ★197](https://github.com/corpsee/php-censor) PHP Censor is a open source self-hosted continuous integration server for PHP projects (Fork of [PHPCI](https://www.phptesting.org))
+* [PHP Censor ★198](https://github.com/corpsee/php-censor) PHP Censor is a open source self-hosted continuous integration server for PHP projects (Fork of [PHPCI](https://www.phptesting.org))
 * [rundeck](http://rundeck.org) Rundeck features fine-grain access controls, a built-in job scheduler, and the ability to define workflows that dispatch commands and scripts to your nodes.  
 
 ## Online Build System
@@ -125,7 +125,7 @@ The hardware,virtual machines, fram management, docker
 ## Dev env
 * [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.  
 * [vagrantup](https://www.vagrantup.com/)  Create and configure lightweight, reproducible, and portable development environments.  
-* [veewee ★4096](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
+* [veewee ★4100](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
 
 ## Source Code Management
 Version control and source code management tools  
@@ -206,7 +206,7 @@ The tools for software package and installation
 * [NSIS](http://nsis.sourceforge.net/Main_Page)  NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution  
 * [rpm](http://rpm.org)  The RPM Package Manager (RPM) is a powerful command line driven package management system capable of installing, uninstalling, verifying, querying, and updating computer software packages  
 * [yum](http://yum.baseurl.org)  Yum is an automatic updater and package installer/remover for rpm systems  
-* [fpm ★7940](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
+* [fpm ★7953](https://github.com/jordansissel/fpm) Effing package management! Build packages for multiple platforms (deb, rpm, etc) with great ease and sanity.  
 * [wix](http://wixtoolset.org/) The most powerful set of tools available to create your Windows installation experience.  
 * [packer](https://www.packer.io/)  Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.  
 
@@ -224,8 +224,8 @@ The tools for software delivery
 * [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind  
 * [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.  
-* [herd ★398](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
-* [murder ★2400](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
+* [herd ★399](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
+* [murder ★2405](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
 
 ## Provisioning Tools 
 Provision tools
@@ -246,9 +246,9 @@ Jetty provides a Web server and javax.servlet container, plus support for SPDY, 
 ## OS And Shell
 Linux shell, perl, python  
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
-* [awesome-python ★37202](https://github.com/vinta/awesome-python)  
-* [awesome-perl ★350](https://github.com/hachiojipm/awesome-perl)  
-* [awesome-sysadmin ★15682](https://github.com/kahun/awesome-sysadmin)  
+* [awesome-python ★37548](https://github.com/vinta/awesome-python)  
+* [awesome-perl ★353](https://github.com/hachiojipm/awesome-perl)  
+* [awesome-sysadmin ★15733](https://github.com/kahun/awesome-sysadmin)  
 
 ## Applications And Container
 VM application and container  
@@ -277,14 +277,14 @@ Conference and submit
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
-* [awesome ★63395](https://github.com/sindresorhus/awesome)  
-* [awesome-awesome ★866](https://github.com/emijrp/awesome-awesome)  
-* [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness)  
+* [awesome ★63835](https://github.com/sindresorhus/awesome)  
+* [awesome-awesome ★871](https://github.com/emijrp/awesome-awesome)  
+* [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin ★5](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
-* [ci tools compare 3 ★375](https://github.com/ligurio/Continuous-Integration-services)
-* [awesome-docker ★7713](https://github.com/veggiemonk/awesome-docker)  
+* [ci tools compare 3 ★389](https://github.com/ligurio/Continuous-Integration-services)
+* [awesome-docker ★7775](https://github.com/veggiemonk/awesome-docker)  
 
 ## Contact
 Welcome To add new items about continuous integration and continuous delivery.  

@@ -7,11 +7,11 @@ title: Awesome Rank for RichardLitt/awesome-fantasy
 	This list is a copy of <a href="https://github.com/RichardLitt/awesome-fantasy">RichardLitt/awesome-fantasy</a> with ranks
 </p>
 ---
-# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 > Fantasy literature worth reading
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi ★1406](https://github.com/sindresorhus/awesome-scifi).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi ★1421](https://github.com/sindresorhus/awesome-scifi).*
 
 *Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/contributing.md) before contributing.*
 

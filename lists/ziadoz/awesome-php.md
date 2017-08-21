@@ -349,7 +349,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
-* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★4475](https://github.com/jedisct1/libsodium).
+* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★4513](https://github.com/jedisct1/libsodium).
 * [HTML Purifier ★971](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [IniScan ★1211](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [Optimus ★669](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
@@ -386,7 +386,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Dissect ★181](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [Exakat ★74](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 * [GrumPHP ★1838](https://github.com/phpro/grumphp) - A composer plugin to defend code quality.
-* [Mondrian ★331 ⏳1Y](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
+* [Mondrian ★331 ⏳2Y](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
 * [PHP Analyser ★446 ⏳1Y](https://github.com/scrutinizer-ci/php-analyzer) - A library for analysing PHP code to find bugs and errors.
 * [PHP Code Sniffer ★3758](https://github.com/squizlabs/PHP_CodeSniffer) - A library that detects PHP, CSS and JS coding standard violations.
 * [PHP CS Fixer ★4719](https://github.com/FriendsOfPHP/PHP-CS-Fixer) - A coding standards fixer library.
@@ -728,7 +728,7 @@ Libraries to help manage database schemas and migrations.
 * [Porter ★342](https://github.com/ScriptFUSION/Porter) - Data import abstraction framework.
 * [Serializer ★618](https://github.com/schmittjoh/serializer) - A library for serialising and de-serialising data.
 * [Totem ★71](https://github.com/Wisembly/Totem) - A library to manage and create data changesets.
-* [YaLinqo ★264](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
+* [YaLinqo ★264 ⏳1Y](https://github.com/Athari/YaLinqo) - Yet Another LINQ to Objects for PHP.
 * [Zend Serializer ★9](https://github.com/zendframework/zend-serializer) - Another library for serialising and de-serialising data (ZF2).
 
 ## Notifications
@@ -759,7 +759,7 @@ Libraries to help manage database schemas and migrations.
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
-* [Amazon Web Service SDK ★2563](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+* [Amazon Web Service SDK ★2572](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [Campaign Monitor](http://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 * [Digital Ocean ★156 ⏳2Y](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
 * [Dropbox SDK ★216](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
@@ -802,7 +802,7 @@ Libraries to help manage database schemas and migrations.
 * [Nmap ★79](https://github.com/willdurand/nmap) - A PHP wrapper around [Nmap](https://nmap.org/).
 * [Opengraph ★78 ⏳1Y](https://github.com/euskadi31/Opengraph) - An opengraph library.
 * [Pagerfanta ★685](https://github.com/whiteoctober/Pagerfanta) - A pagination library.
-* [PHP Expression ★32 ⏳3Y](https://github.com/Kitano/php-expression) - A PHP expression language.
+* [PHP Expression ★32 ⏳4Y](https://github.com/Kitano/php-expression) - A PHP expression language.
 * [PHP PassBook ★187](https://github.com/eymengunay/php-passbook) - A PHP library for iOS PassBook.
 * [PHP-GPIO ★207 ⏳1Y](https://github.com/ronanguilloux/php-gpio) - A library for playing with the Raspberry PI's GPIO pins.
 * [PHP-ML ★4063](https://github.com/php-ai/php-ml) - A library for Machine Learning in PHP.
@@ -833,7 +833,7 @@ Libraries to help manage database schemas and migrations.
 * [PHP Build ★705](https://github.com/php-build/php-build) - Another PHP version installer.
 * [PHP Env ★528](https://github.com/CHH/phpenv) - Another PHP version manager.
 * [PHP OSX](https://php-osx.liip.ch/) - A PHP installer for OSX.
-* [PHP Switch ★90 ⏳2Y](https://github.com/jubianchi/phpswitch) - Another version manager.
+* [PHP Switch ★90 ⏳3Y](https://github.com/jubianchi/phpswitch) - Another version manager.
 * [VirtPHP](http://virtphp.org/) - A tool for creating and managing isolated PHP environments.
 
 ## Development Environment

@@ -7,7 +7,7 @@ title: Awesome Rank for PhantomYdn/awesome-wicket
 	This list is a copy of <a href="https://github.com/PhantomYdn/awesome-wicket">PhantomYdn/awesome-wicket</a> with ranks
 </p>
 ---
-# Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 [<img src="https://upload.wikimedia.org/wikipedia/ru/5/5d/Apache_Wicket_logo.png" align="right" width="100">](http://wicket.apache.org/)
 
 A curated list of awesome projects powered by [Apache Wicket](http://wicket.apache.org)
@@ -28,7 +28,7 @@ Your contributions are always welcome!
 ## Generic Info
 
 - [Apache Wicket](http://wicket.apache.org/) - Wicket official site.
-- [Wicket on Github ★379](https://github.com/apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com).
+- [Wicket on Github ★381](https://github.com/apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com).
 - [Wicket on Twitter](https://twitter.com/apache_wicket) - Official account of Wicket.
 - [Wicket wiki](https://cwiki.apache.org/confluence/display/WICKET/Index) - Official knowledge base on Wiki about Wicket.
 - [Build With Wicket](https://builtwithwicket.tumblr.com/) - Official [Tumblr](https://www.tumblr.com/) account of Wicket.
@@ -60,7 +60,7 @@ List of libraries and components which can be used in your application
 - [wicked-charts ★52](https://github.com/thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications.
 
 ### WicketStuff
-[WicketStuff ★300](https://github.com/wicketstuff/core) based libraries
+[WicketStuff ★301](https://github.com/wicketstuff/core) based libraries
 
 - [Annotation](https://github.com/wicketstuff/core/wiki/Annotation) - Mount your pages declarativly by java annotations.
 - [Annotation Event Dispatcher](https://github.com/wicketstuff/core/tree/master/annotationeventdispatcher-parent) - Improves events handling in Wicket by annotations.
@@ -132,8 +132,8 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
-- [Estatio ★133](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket.
-- [GeoServer ★861](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data.
+- [Estatio ★135](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket.
+- [GeoServer ★871](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data.
 - [NextReports](http://www.next-reports.com/) - Smart business reportins.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.

@@ -7,7 +7,7 @@ title: Awesome Rank for Granze/awesome-polymer
 	This list is a copy of <a href="https://github.com/Granze/awesome-polymer">Granze/awesome-polymer</a> with ranks
 </p>
 ---
-# Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 <a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="64" width="92"></a>
 > A collection of awesome Polymer resources
 
@@ -81,7 +81,7 @@ title: Awesome Rank for Granze/awesome-polymer
 * [Meteor-Polymer Starter Kit Including Auth ★7](https://github.com/aruntk/kickstart-meteor-polymer-with-auth)
 
 ## Generators
-* [Generator Polymer ★987](https://github.com/yeoman/generator-polymer) Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
+* [Generator Polymer ★988](https://github.com/yeoman/generator-polymer) Yeoman generator for Polymer projects, based on the official [Starter kit](https://developers.google.com/web/tools/polymer-starter-kit/).
 * [Generator element](https://www.npmjs.com/package/generator-element) Yeoman generator to create Custom Elements using Polymer, X-Tag or VanillaJS.
 
 ## Official Elements
@@ -105,24 +105,24 @@ title: Awesome Rank for Granze/awesome-polymer
 
 ## Tools
 * [Polyserve](https://github.com/polymerlabs/polyserve) A simple web server for using bower components locally.
-* [Polybuild ★78](https://github.com/PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
+* [Polybuild ★79](https://github.com/PolymerLabs/polybuild) An all-in-one build tool for Polymer apps.
 * [Polyup ★39 ⏳1Y](https://github.com/PolymerLabs/polyup) A helpful assistant for migrating from Polymer v0.5 to 1.0.
 * [Polylint ★132](https://github.com/PolymerLabs/polylint) Detect errors in your code.
 * [Polygit](http://polygit.org/) The Magic Server serves files directly from github (via ```cdn.rawgit.com```) in a manner that is compatible with HTML Imports natural deduplication feature.
 * [Polydev ★105](https://github.com/PolymerLabs/polydev) DevTool extension.
 * [Polymer Ready](https://chrome.google.com/webstore/detail/polymer-ready/aaifiopbmiecbpladpjaoemohhfjcbdk) Show an icon in the address bar when it detects some Polymer and Custom components.
 * [Vulcanize](https://github.com/Polymer/vulcanize) Build tool for HTMLimports and web components.
-* [Crisper ★94](https://github.com/PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
+* [Crisper ★95](https://github.com/PolymerLabs/crisper) Split inline scripts from an HTML file for CSP compliance.
 * [Snippets for Atom editor](https://atom.io/packages/polymer-snippets)
 * [Snippets for Sublime Text editor](https://packagecontrol.io/packages/Polymer%20%26%20Web%20Component%20Snippets)
 * [Synthesis ★31](https://github.com/meteorwebcomponents/synthesis) Use Polymer as the view Layer of Meteor.js
 * [MWC-Layout ★5](https://github.com/meteorwebcomponents/layout) Control rendering of polymer components.
 * [WC-Loader ★81](https://github.com/aruntk/wc-loader). Webcomponents webpack loader
-* [Polymer Webpack Loader ★60](https://github.com/webpack-contrib/polymer-webpack-loader). Polymer webpack loader.
+* [Polymer Webpack Loader ★66](https://github.com/webpack-contrib/polymer-webpack-loader). Polymer webpack loader.
 * [Polymer CDN ★50](https://github.com/download/polymer-cdn). Unofficial CDN for polymer components.
 
 ## Testing
-* [Web components tester ★484](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
+* [Web components tester ★485](https://github.com/Polymer/web-component-tester) Makes testing your web components a breeze!
 * [Web components tester istambul ★26](https://github.com/thedeeno/web-component-tester-istanbul) Istanbul coverage plugin for web-component-tester.
 * [test-fixture ★16](https://github.com/PolymerElements/test-fixture) Element that can simplify the exercise of consistently resetting a test suite's DOM.
 * [iron-test-helpers ★19](https://github.com/PolymerElements/iron-test-helpers) Utility classes to make testing easier.
@@ -131,7 +131,7 @@ title: Awesome Rank for Granze/awesome-polymer
 * [Polymer-Apollo ★41](https://github.com/aruntk/polymer-apollo) Polymer Apollo GraphQL Integration.
 * [MWC-Mixin ★18](https://github.com/meteorwebcomponents/mixin) Reactive meteor data source for polymer elements
 * [MWC-Router ★5 ⏳1Y](https://github.com/meteorwebcomponents/router) Two way bind polymer with Meteor Flowrouter.
-* [Polymer-Redux ★303](https://github.com/tur-nr/polymer-redux) Polymer bindings for Redux.
+* [Polymer-Redux ★307](https://github.com/tur-nr/polymer-redux) Polymer bindings for Redux.
 
 ## Theming/Styling
 * [Polymer Themes](https://polymerthemes.com/) Free Polymer themes and templates
@@ -139,11 +139,11 @@ title: Awesome Rank for Granze/awesome-polymer
 * [Polystyle](https://poly-style.appspot.com/demo/) Wrap existing stylesheets with Polymer's style module system.
 
 ## Notable projects
-[Polymer Projects ★50](https://github.com/abdonrd/PolymerProjects) A list of websites and apps built with Polymer
+[Polymer Projects ★54](https://github.com/abdonrd/PolymerProjects) A list of websites and apps built with Polymer
 
 
 ## Other awesome resources
-**If you want more awesome resources, check the [awesome ★63395](https://github.com/sindresorhus/awesome) list!**
+**If you want more awesome resources, check the [awesome ★63835](https://github.com/sindresorhus/awesome) list!**
 
 ---
 

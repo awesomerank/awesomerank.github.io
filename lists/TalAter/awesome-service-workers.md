@@ -7,7 +7,7 @@ title: Awesome Rank for TalAter/awesome-service-workers
 	This list is a copy of <a href="https://github.com/TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks
 </p>
 ---
-# Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 A curated collection of service worker resources.
 
@@ -59,9 +59,9 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Libraries and Tools
 
 - [UpUp](http://upup.rocks/) - A popular service worker library providing complete offline functionality for your site in 1 line of code.
-- [sw-toolbox ★2663](https://github.com/GoogleChrome/sw-toolbox) - A collection of simple helpers to simplify implementing common runtime caching patterns.
+- [sw-toolbox ★2686](https://github.com/GoogleChrome/sw-toolbox) - A collection of simple helpers to simplify implementing common runtime caching patterns.
 - [Manifest Generator](https://brucelawson.github.io/manifest/) - Generate a web app manifest, required for push notifications and installable web apps.
-- [sw-precache ★3421](https://github.com/GoogleChrome/sw-precache) - Generates a service worker to cache your local App Shell resources.
+- [sw-precache ★3450](https://github.com/GoogleChrome/sw-precache) - Generates a service worker to cache your local App Shell resources.
 - [sw-offline-google-analytics](https://github.com/GoogleChrome/sw-helpers/tree/master/packages/sw-offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.
 
 ## Videos
@@ -77,11 +77,11 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ## Related Technologies
 
-- [App Install Banners ★905](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps)
-- [Background Sync ★905](https://github.com/TalAter/awesome-progressive-web-apps#background-sync)
-- [CacheStorage API ★905](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
-- [IndexedDB ★905](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
-- [Push Notifications ★905](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
+- [App Install Banners ★919](https://github.com/TalAter/awesome-progressive-web-apps#installable-web-apps)
+- [Background Sync ★919](https://github.com/TalAter/awesome-progressive-web-apps#background-sync)
+- [CacheStorage API ★919](https://github.com/TalAter/awesome-progressive-web-apps#cachestorage-api)
+- [IndexedDB ★919](https://github.com/TalAter/awesome-progressive-web-apps#indexeddb)
+- [Push Notifications ★919](https://github.com/TalAter/awesome-progressive-web-apps#push-notifications)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks

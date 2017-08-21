@@ -8,10 +8,10 @@ title: Awesome Rank for veelenga/awesome-crystal
 </p>
 ---
 # Awesome Crystal
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
 
-A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness).
 The goal is to have projects mostly stable and useful for the community.
 
 Search [Crystal Shards](https://crystalshards.xyz) or follow announcements [Crystal [ANN]](https://crystal-ann.com) for more.
@@ -34,6 +34,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
   * [Email](#email)
   * [Environment Management](#environment-management)
   * [Examples and funny stuff](#examples-and-funny-stuff)
+  * [Feature Flipping](#feature-flipping)
   * [Framework Components](#framework-components)
   * [Game Development](#game-development)
   * [HTML/XML parsing](#htmlxml-parsing)
@@ -98,18 +99,18 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crt.cr ★8](https://github.com/maiha/crt.cr) - Bindings for libncursesw and crt
  * [crystal-gsl ★9](https://github.com/ruivieira/crystal-gsl) - GNU Scientific Library bindings
  * [curl-crystal ★4](https://github.com/blocknotes/curl-crystal) - Bindings for [libcurl](https://curl.haxx.se/libcurl/)
- * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape ★2818](https://github.com/svaarala/duktape) javascript engine
+ * [duktape.cr](https://github.com/jessedoyle/duktape.cr) - Bindings for the [Duktape ★2826](https://github.com/svaarala/duktape) javascript engine
  * [glfw ★1](https://github.com/lirith-engine/glfw) - GLFW bindings
  * [gphoto2.cr ★7](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
  * [icu.cr ★2](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
  * [java.cr ★8](https://github.com/ysbaddaden/java.cr) - Java Native Interface (JNI) bindings (and generator)
  * [libnotify.cr ★9](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
- * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui ★4544](https://github.com/andlabs/libui)
+ * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui ★4552](https://github.com/andlabs/libui)
  * [pcap.cr ★9](https://github.com/maiha/pcap.cr) - Bindings for libpcap
  * [posix ★17](https://github.com/ysbaddaden/posix) - POSIX/C bindings
  * [soundfile ★0](https://github.com/mjago/soundfile) - Bindings for [libsndfile](http://www.mega-nerd.com/libsndfile/) library
  * [ssh2.cr ★22](https://github.com/datanoise/ssh2.cr) - Bindings for libssh2 library
- * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox ★1087](https://github.com/nsf/termbox) (terminal UI library)
+ * [termbox-crystal](https://github.com/andrewsuzuki/termbox-crystal) - Bindings and extension library for [termbox ★1097](https://github.com/nsf/termbox) (terminal UI library)
  * [x11-cr ★1](https://github.com/TamasSzekeres/x11-cr) - X11 bindings
 
 ## Caching
@@ -127,6 +128,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [optarg ★9](https://github.com/mosop/optarg) - Yet another library for parsing command-line options and arguments
 
 ## Cli Utils
+ * [dl ★0](https://github.com/creadone/dl) - Simple utility for download files by URLs from list
  * [progress ★90](https://github.com/askn/progress) - [==..] Progress bar
  * [progress_bar.cr ★1](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner ★36](https://github.com/askn/spinner) - Terminal Spinner
@@ -140,7 +142,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [zq ★2](https://github.com/colstrom/zq) - Command-line ZPL processor
 
 ## Converters
- * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney ★1805](https://github.com/RubyMoney/money))
+ * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney ★1807](https://github.com/RubyMoney/money))
  * [ms ★12](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
  * [sass.cr](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass ★3550](https://github.com/sass/libsass) binding)
  * [turkish-number ★6](https://github.com/izniburak/turkish-number) - Turn integers into the Turkish words
@@ -211,7 +213,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-ws-pg-todo-app ★1 ⏳1Y](https://github.com/Angarsk8/kemal-ws-pg-todo-app) - Realtime Todo application developed with Kemal, Websockets, jQuery, ES2015 and PostgreSQL
  * [kemal-ws-react-pg-todo-app](https://github.com/Angarsk8/kemal-ws-react-pg-todo-app) - Realtime Todo application developed with Kemal, Websockets, React, ES2015 and PostgreSQL
  * [kemal-ws-todo-app ★5 ⏳1Y](https://github.com/Angarsk8/kemal-ws-todo-app) - Realtime Todo application developed with Kemal and Websockets
- * [kemal_elm_chat ★12](https://github.com/kofno/kemal_elm_chat) - Simple chat server written with Kemal and Elm
+ * [kemal_elm_chat ★12 ⏳1Y](https://github.com/kofno/kemal_elm_chat) - Simple chat server written with Kemal and Elm
  * [lattice-core-card-game ★141](https://github.com/jasonl99/card_game) - A demo web app for (WebSocket-based) lattice-core
  * [medley ★7](https://github.com/jwoertink/medley) - A mixture of music related methods
  * [os-crystal ★30](https://github.com/lbguilherme/os-crystal) - x86 Kernel implemented in Crystal
@@ -219,9 +221,13 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [try.cr ★13](https://github.com/maiha/try.cr) - Try monad
  * [xcrystal](https://github.com/exercism/xcrystal) - Exercism exercises
 
+## Feature Flipping
+ * [flipper ★1](https://github.com/metaware/flipper) - Feature flipping/flags/rollouts. Supports multiple backends
+
 ## Framework Components
  * [artanis ★34](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
  * [cr-melon ★5](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
+ * [Crystal-DI ★5](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [crystal-mime ★16](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [kave ★14](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token ★15](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
@@ -260,7 +266,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [http-protection ★11](https://github.com/rogeriozambon/http-protection) - Protection against typical web attacks
  * [http2 ★36](https://github.com/ysbaddaden/http2) - HTTP/2 Protocol Implementation
  * [http_distributor ★0](https://github.com/Nephos/http_distributor) - HTTP server which allows sneaky http requests
- * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib ★3433](https://github.com/nodejs/http-parser)
+ * [http_parser.cr](https://github.com/kostya/http_parser.cr) - Wrapper for [Http Parser lib ★3451](https://github.com/nodejs/http-parser)
  * [keyer_cr ★0](https://github.com/danielpclark/keyer_cr) - Adds HTTP GET/POST parameter parsing as a Hash-like object
  * [multipart.cr ★9](https://github.com/RX14/multipart.cr) - Adds multipart and multipart/form-data support to the crystal standard library
  * [resp-crystal ★4](https://github.com/soveran/resp-crystal) - Lightweight RESP client
@@ -294,7 +300,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-learn ★26](https://github.com/pbrusco/crystal-learn) - Sklearn-like machine-learning library
  * [grey_matter ★5](https://github.com/dorkrawk/grey_matter) - A basic artificial neural network library
  * [machine ★18](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm
- * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow ★66317](https://github.com/tensorflow/tensorflow)
+ * [tensorflow.cr](https://github.com/fazibear/tensorflow.cr) - Bindings for [TensorFlow ★67089](https://github.com/tensorflow/tensorflow)
 
 ## Markdown/Text Processors
  * [html-pipeline ★3](https://github.com/huacnlee/html-pipeline) - HTML processing filters and utilities
@@ -368,7 +374,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Queue
  * [dispatch ★6](https://github.com/bmulvihill/dispatch) - In memory asynchronous job processing
- * [disque-cr](https://github.com/foca/disque-cr) - Client for [Disque ★6304](https://github.com/antirez/disque) queueing system
+ * [disque-cr](https://github.com/foca/disque-cr) - Client for [Disque ★6313](https://github.com/antirez/disque) queueing system
  * [sidekiq.cr ★372](https://github.com/mperham/sidekiq.cr) - Simple, efficient job processing
 
 ## Routing
@@ -399,7 +405,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [sam ★13](https://github.com/imdrasil/sam.cr) - Another one Rake-like task manager with namespacing and arguments system
 
 ## Template Engine
- * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup ★1596](https://github.com/weavejester/hiccup)
+ * [crikey](https://github.com/domgetter/crikey) - Templating engine inspired by [Hiccup ★1599](https://github.com/weavejester/hiccup)
  * [crinja ★7](https://github.com/straight-shoota/crinja) - An implementation of the [Jinja2 template engine](http://jinja.pocoo.org/)
  * [crustache ★32](https://github.com/MakeNowJust/crustache) - [{{Mustache}}](https://mustache.github.io) for Crystal
  * [Kilt ★55](https://github.com/jeromegn/kilt) - Abstraction layer for template engines
@@ -409,11 +415,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Testing
  * [crotest ★15 ⏳1Y](https://github.com/emancu/crotest) - A tiny and simple test framework
+ * [microtest ★8](https://github.com/Ragmaanir/microtest) - Small opinionated testing library focusing on power asserts
  * [minitest.cr ★52](https://github.com/ysbaddaden/minitest.cr) - Library for unit tests and assertions
  * [mocks.cr ★18](https://github.com/waterlink/mocks.cr) - Mocking library for Crystal
  * [spec2-mocks ★7](https://github.com/waterlink/spec2-mocks.cr) - An adapter of mocks.cr for spec2.cr
  * [spec2.cr ★64](https://github.com/waterlink/spec2.cr) - Enhanced testing library
- * [timecop.cr](https://github.com/waterlink/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem ★2427](https://github.com/travisjeffery/timecop)
+ * [timecop.cr](https://github.com/waterlink/timecop.cr) - Library for mocking with `Time.now`. Inspired by [timecop ruby gem ★2432](https://github.com/travisjeffery/timecop)
  * [webmock.cr ★36](https://github.com/manastech/webmock.cr) - Library for stubbing `HTTP::Client` requests
 
 ## Third-party APIs
@@ -448,11 +455,10 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [amber ★162](https://github.com/Amber-Crystal/amber) - Open source efficient and cohesive web application framework
  * [amethyst ★523](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework
  * [kemal](https://github.com/sdogruyol/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
- * [kemalyst](https://github.com/drujensen/kemalyst) - A Rails like framework inspired by Kemal but includes the kitchen sink
  * [lattice-core ★37](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [luckyframework](https://github.com/luckyframework) - Fast, maintainable and confidence boosting web framework
  * [mustafa ★29](https://github.com/guvencenanguvenal/mustafa) - Simple MVC framework
- * [raze ★3](https://github.com/samueleaton/raze) - Modular, light web framework
+ * [raze ★18](https://github.com/samueleaton/raze) - Modular, light web framework
 
 ## Web Servers
  * [fast-http-server ★102](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server

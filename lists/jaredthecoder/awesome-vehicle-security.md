@@ -7,7 +7,7 @@ title: Awesome Rank for jaredthecoder/awesome-vehicle-security
 	This list is a copy of <a href="https://github.com/jaredthecoder/awesome-vehicle-security">jaredthecoder/awesome-vehicle-security</a> with ranks
 </p>
 ---
-# Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Vehicle Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 
 *A curated list of awesome resources, books, hardware, software, applications, people to follow, and more cool stuff about vehicle security, car hacking, and tinkering with the functionality of your car.*
@@ -54,7 +54,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [Go](#go)
     - [JavaScript](#javascript)
 - [Companies and Jobs](#companies-and-jobs)
-    - [Responsible Disclosure](#responsible-disclosure)
+    - [Coordinated Disclosure](#coordinated-disclosure)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -84,6 +84,11 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [A Platform base on Visualization for Protecting CAN Bus Security](https://www.syscan360.org/slides/2016_SH_Jianhao_Liu_A_platform_base_on_visualization_for_protecting_CAN_bus_security.pdf) - Syscan360 2016 SH talk by Jianhao Liu
 - [Gateway Internals of Tesla Motors](https://2016.zeronights.ru/wp-content/uploads/2016/12/Gateway_Internals_of_Tesla_Motors_v6.pdf) - Zeronights 2016 talk by Nie Seng and Liu Ling
 - [Car Hacking 101](https://www.youtube.com/watch?v=P-mzo2X47sg) - Bugcrowd LevelUp 2017 by Alan Mond
+- [State of Automotive Cyber Safety, 2015](https://www.youtube.com/watch?v=g-a20ORka-A) - State of automotive hacking, policy, industry changes, etc. from I Am The Cavalry track at BSides Las Vegas, 2015.
+- [State of Automotive Cyber Safety, 2016](https://www.youtube.com/watch?v=WcObDVy2-1I) - State of automotive hacking, policy, industry changes, etc. from I Am The Cavalry track at BSides Las Vegas, 2016.
+- [How to Hack a Tesla Model S](https://www.youtube.com/watch?v=KX_0c9R4Fng) - DEF CON 23 talk by Marc Rogers and Kevin Mahaffey on hacking a Tesla. Tesla Co-Founder and CTO, JB Straubel, joins them to thank them and present a challenge coin.
+
+
 
 ## Books
 
@@ -103,11 +108,12 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
   - [A Survey of Remote Automotive Attack Surfaces, 2014](http://illmatics.com/remote%20attack%20surfaces.pdf)
   - [Remote Compromise of an Unaltered Passenger Vehicle (aka The Jeep Hack), 2015](http://illmatics.com/Remote%20Car%20Hacking.pdf)
   - [Advanced CAN Message Injection, 2016](http://illmatics.com/can%20message%20injection.pdf)
+- [5-Star Automotive Cyber Safety Framework, 2015](https://iamthecavalry.org/5star)
 
 
 ## Courses
 
-- [Udacity's Self Driving Car Engineer Course ★2918](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
+- [Udacity's Self Driving Car Engineer Course ★2981](https://github.com/udacity/self-driving-car) - The content for Udacity's self driving car software engineer course. The actual course on Udacity's website is [here](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013).
 
 ## Blogs
 
@@ -120,7 +126,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [DEFCON Car Hacking Village](http://www.carhackingvillage.com/) - Car Hacking exercises from DEFCON 24.
 - [canbushack: Hack Your Car](http://www.canbushack.com/blog/index.php) - course on Vehicle Hacking methodology.
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
-- [IAmTheCavalry](https://www.iamthecavalry.org/) - Global organization backed by major internet companies pushing standards to secure IoT devices.
+- [I Am The Cavalry](https://www.iamthecavalry.org/) - Global grassroots (eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars. Participation from security researchers, OEMs, Tier 1s, and many others. Published [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) - Community of people interested in car hacking and connecting vehicles to the cloud.
 
 
@@ -131,8 +137,9 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Conferences
 
-- [The Cyber Security Automotve Summit](http://www.automotivecybersecurity.com/) - A conference dedicated to automotive cyber security involving most of the big players on this aspect.
-- [escar conference](https://www.escar.info/) - Embedded security in cars.
+- [U.S. Automotve Cyber Security Summit](http://www.automotivecybersecurity.com/) [European Automotive Cyber Security Summit](https://automotive-cyber-security.iqpc.de/) - Conference series dedicated to automotive cyber security involving many OEMs, Tier 1s, academics, consultants, etc.
+- [escar conference](https://www.escar.info/) - Embedded security in cars. European event has run for over 10 years, and they now have US and Asia events.
+- [IT Security for Vehicles](https://www.vdi-wissensforum.de/en/event/it-security-for-vehicles/) - Conference run by the Association of German Engineers (VDI), with participation from US and European OEMs, Tier 1s, and others.
 
 
 ## Who to Follow
@@ -144,6 +151,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [Twitter](https://twitter.com/0xcharlie)
 - 🌟 Samy Kamkar: Created MySpace Worm, RollJam, OwnStar.
     - [Twitter](https://twitter.com/samykamkar)
+    - [Website](https://samy.pl)
 - 🌟 Justin Seitz: Author of Black Hat Python (No Starch Press).
     - [Twitter](https://twitter.com/jms_dot_py)
 - 🌟 Troy Hunt: Pluralsight author. Microsoft Regional Director and MVP for Developer Security. Creator of [haveibeenpwned](https://haveibeenpwned.com/).
@@ -159,6 +167,10 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - Pen Test Partners: British penetration testing firm; several posts concern their disclosed car security vulns
     - [Twitter](https://twitter.com/pentestpartners)
     - [Website](https://www.pentestpartners.com/blog)
+- I Am The Cavalry: Global grassroots (eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars.
+    - [Twitter](https://twitter.com/iamthecavalry)
+    - [Website](https://iamthecavalry.org)
+    - [Discussion Group](https://groups.google.com/forum/#!forum/iamthecavalry)
     
 ## Podcasts and Episodes
 
@@ -178,8 +190,8 @@ Podcasts and podcast episodes, that either directly focus on vehicle security or
 
 # Projects
 
-- [Open Vehicle Monitoring System ★127](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
-- [Open Source Car Control Project ★510](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
+- [Open Vehicle Monitoring System ★131](https://github.com/openvehicles/Open-Vehicle-Monitoring-System) - A community project building a hardware module for your car, a server to talk to it, and a mobile app to talk to the server, in order to allow developers and enthusiasts to add more functionality to their car and control it remotely.
+- [Open Source Car Control Project ★518](https://github.com/PolySync/OSCC) - The Open Source Car Control Project is a hardware and software project detailing the conversion of a late model vehicle into an autonomous driving research and development vehicle.
 
 # Hardware 💰
 
@@ -217,35 +229,35 @@ Software applications that will help you hack your car, investigate it's signals
 
 - 🌟 [Wireshark](https://www.wireshark.org/) - WireShark can be used for reversing CAN communications.
 - [Kayak](http://kayak.2codeornot2code.org/) - Java application for CAN bus diagnosis and monitoring.
-- [UDSim ★59](https://github.com/zombieCraig/UDSim) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
+- [UDSim ★60](https://github.com/zombieCraig/UDSim) - GUI tool that can monitor a CAN bus and automatically learn the devices attached to it by watching communications.
 - [RomRaider](http://www.romraider.com/) - An open source tuning suite for the Subaru engine control unit that lets you view and log data and tune the ECU.
 - 💰 [Intrepid Tools](http://store.intrepidcs.com/) - Expensive, but extremely versatile tools specifically designed for reversing CAN and other vehicle communication protocols.
 - [O2OO](https://www.vanheusden.com/O2OO/) - Works with the ELM327 to record data to a SQLite database for graphing purposes. It also supports reading GPS data. You can connect this to your car and have it map out using Google Maps KML data where you drive.
-- [CANToolz ★258](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
+- [CANToolz ★264](https://github.com/eik00d/CANToolz) - CANToolz is a framework for analysing CAN networks and devices. It is based on several modules which can be assembled in a pipeline.
 - [BUSMASTER](https://rbei-etas.github.io/busmaster/) -An Open Source tool to simulate, analyze and test data bus systems such as CAN, LIN, FlexRay.
 - 🌟 [OpenXC](http://openxcplatform.com/getting-started/index.html) - Currently, OpenXC works with `Python` and `Android`, with libraries provided to get started.
-- 🌟 [openpilot ★6059](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.
-- [openalpr ★4480](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.
+- 🌟 [openpilot ★6137](https://github.com/commaai/openpilot) - openpilot is an open source driving agent that performs the functions of Adaptive Cruise Control (ACC) and Lane Keeping Assist System (LKAS) for Hondas and Acuras.
+- [openalpr ★4525](https://github.com/openalpr/openalpr) - An open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python.
 - [metasploit](https://community.rapid7.com/community/transpo-security/blog/2017/02/02/exiting-the-matrix) - The popular metasploit framework now supports Hardware Bridge sessions, that extend the framework's capabilites onto hardware devices such as socketcan and SDR radios.
 - [Mazda AIO Tweaks](https://mazdatweaks.com/) - All-in-one installer/uninstaller for many available Mazda MZD Infotainment System tweaks.
-- [mazda_getInfo ★84](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
+- [mazda_getInfo ★88](https://github.com/shipcod3/mazda_getInfo) - A PoC that the USB port is an attack surface for a Mazda car's infotainment system and how Mazda hacks are made (known bug in the CMU).
 
 ## Libraries and Tools
 
 Libraries and tools that don't fall under the larger class of applications above.
 
-[Custom Applications SDK for Mazda Connect Infotainment System ★92](https://github.com/flyandi/mazda-custom-application-sdk) - A micro framework that allows you to write and deploy custom applications for the Mazda Infotainment System.
+[Custom Applications SDK for Mazda Connect Infotainment System ★93](https://github.com/flyandi/mazda-custom-application-sdk) - A micro framework that allows you to write and deploy custom applications for the Mazda Infotainment System.
 
 ### C
 
-- [SocketCAN Utils ★340](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
+- [SocketCAN Utils ★347](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 - [vircar](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
 
 ### Python
 
 - 🌟 [CANard](https://github.com/ericevenchick/canard) - A Python framework for Controller Area Network applications.
-- [Caring Caribou ★66](https://github.com/CaringCaribou/caringcaribou) - Intended to be the *nmap of vehicle security*.
-- [c0f ★28 ⏳1Y](https://github.com/zombieCraig/c0f) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
+- [Caring Caribou ★69](https://github.com/CaringCaribou/caringcaribou) - Intended to be the *nmap of vehicle security*.
+- [c0f ★29 ⏳1Y](https://github.com/zombieCraig/c0f) - A fingerprinting tool for CAN communications that can be used to find a specific signal on a CAN network when testing interactions with a vehicle.
 - [Python-CAN](http://python-can.readthedocs.io/en/latest/index.html) - Python interface to various CAN implementations, including SocketCAN. Allows you to use Python 2.7.x or 3.3.x+ to communicate over CAN networks.
 
 ### Go
@@ -255,7 +267,7 @@ Libraries and tools that don't fall under the larger class of applications above
 
 ### JavaScript
 
-- [NodeJS extension to SocketCAN ★61](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
+- [NodeJS extension to SocketCAN ★64](https://github.com/sebi2k1/node-can) - Allows you to communicate over CAN networks with simple JavaScript functions.
 
 # Companies and Jobs
 
@@ -267,11 +279,11 @@ Companies and job opportunities in the vehicle security field.
 - [Rapid7](https://www.rapid7.com/company/careers.jsp) - Rapid7 does work in information, computer, and embedded security.
 - [IOActive](http://www.ioactive.com/) - Security consulting firm that does work on pentesting hardware and embedded systems.
 
-## Responsible disclosure
+## Coordinated disclosure
 
-- [General Motors](https://hackerone.com/gm) on HackerOne - responsible disclosure submissions accepted
-- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - responsible disclosure submissions accepted
-- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - submissions accepted, paid bounties offered
+- [General Motors](https://hackerone.com/gm) on HackerOne - Coordinated disclosure submissions accepted
+- [Fiat Chrysler Automobiles](https://bugcrowd.com/fca) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
+- [Tesla Motors](https://bugcrowd.com/tesla) on Bugcrowd - Coordinated disclosure submissions accepted, paid bounties offered
 
 
 # Other Awesome Lists
@@ -279,17 +291,17 @@ Companies and job opportunities in the vehicle security field.
 List of lists.
 
 - Security
-  - 🌟 [Application Security ★2494](https://github.com/paragonie/awesome-appsec)
-  - [Security ★1856](https://github.com/sbilly/awesome-security)
-  - [Capture the Flag ★1243](https://github.com/apsdehal/awesome-ctf)
-  - [Malware Analysis ★2406](https://github.com/rshipp/awesome-malware-analysis)
-  - [Android Security ★2128](https://github.com/ashishb/android-security-awesome)
-  - [Hacking ★2588](https://github.com/carpedm20/awesome-hacking)
-  - [Honeypots ★1614](https://github.com/paralax/awesome-honeypots)
-  - [Incident Response ★1300](https://github.com/meirwah/awesome-incident-response)
+  - 🌟 [Application Security ★2569](https://github.com/paragonie/awesome-appsec)
+  - [Security ★1927](https://github.com/sbilly/awesome-security)
+  - [Capture the Flag ★1314](https://github.com/apsdehal/awesome-ctf)
+  - [Malware Analysis ★2495](https://github.com/rshipp/awesome-malware-analysis)
+  - [Android Security ★2295](https://github.com/ashishb/android-security-awesome)
+  - [Hacking ★2804](https://github.com/carpedm20/awesome-hacking)
+  - [Honeypots ★1684](https://github.com/paralax/awesome-honeypots)
+  - [Incident Response ★1358](https://github.com/meirwah/awesome-incident-response)
 - Meta
-  - 🌟 [awesome ★63395](https://github.com/sindresorhus/awesome)
-  - [lists ★4417](https://github.com/jnv/lists)
+  - 🌟 [awesome ★63835](https://github.com/sindresorhus/awesome)
+  - [lists ★4428](https://github.com/jnv/lists)
 
 # Contributing
 

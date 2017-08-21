@@ -9,7 +9,7 @@ title: Awesome Rank for yenchenlin/awesome-watchos
 ---
 <img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png" width="500">
 =========================
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/yenchenlin1994/awesome-watchos.svg?branch=master)](https://travis-ci.org/yenchenlin1994/awesome-watchos)
 
 A curated list of awesome watchOS frameworks, libraries, sample apps.
@@ -43,11 +43,11 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
   <space><space><img src="https://github.com/Instagram/IGInterfaceDataTable/blob/master/images/example.jpg" width="500") alt="Example App"/>
 
- * [JBWatchActivityIndicator ★485 ⏳1Y](https://github.com/mikeswanson/JBWatchActivityIndicator) - An easy way to generate activity indicator images for Apple Watch.
+ * [JBWatchActivityIndicator ★484 ⏳1Y](https://github.com/mikeswanson/JBWatchActivityIndicator) - An easy way to generate activity indicator images for Apple Watch.
 
   <space><space><img src="https://camo.githubusercontent.com/3bc9d761836a40e088f45285ac52dd5fef89df1b/687474703a2f2f7777772e6d696b657377616e736f6e2e636f6d2f66696c65732f4a4257617463684163746976697479496e64696361746f722f4a4257617463684163746976697479496e64696361746f722e676966" width="300") alt="Example App"/>
 ### Charts
- * [YOChartImageKit ★350](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS.
+ * [YOChartImageKit ★351](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS.
 
   <space><space><img src="https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png") alt="Example App" width="760"/>
 
@@ -82,7 +82,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
    <space><space><img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png") alt="Example App" width="260"/>
 
  * [WatchKit Catalog](https://developer.apple.com/library/ios/samplecode/WKInterfaceCatalog/Introduction/Intro.html) - An official sample app demonstrates how to use UI elements available in the WatchKit framework.
- * [Cherry ★364 ⏳2Y](https://github.com/kenshin03/Cherry) - A mini pomodoro timer app designed for the  Watch.
+ * [Cherry ★365 ⏳2Y](https://github.com/kenshin03/Cherry) - A mini pomodoro timer app designed for the  Watch.
 
    <space><space><img src="https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif") alt="Example App" width="250"/>
 
@@ -94,8 +94,8 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
    <space><space><img src="https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png") alt="Example App" width="230"/>
 
- * [SwiftHN ★1441](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift.
- * [BaiduFM-Swift ★568](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM.
+ * [SwiftHN ★1440](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift.
+ * [BaiduFM-Swift ★569](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM.
 
     <space><space><img src="https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png") alt="Example App" width="250"/>
 
@@ -119,10 +119,10 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
     <space><space><img src="https://camo.githubusercontent.com/544c66f439b1328155ca4463c2fa73e514f80800/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7761746368706963732e6a7067") alt="Example App" width="500"/>
 
- * [WatchKit-Apps ★1060](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit.
+ * [WatchKit-Apps ★1062](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit.
  * [watchOS-2-Sampler ★1011](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2.
 
- * [soon ★67 ⏳1Y](https://github.com/sandofsky/soon) - A countdown app.
+ * [soon ★66 ⏳1Y](https://github.com/sandofsky/soon) - A countdown app.
 
     <space><space><img src="https://github.com/sandofsky/soon/blob/master/screenshot.png") alt="Example App" width="230"/>
 
@@ -162,17 +162,17 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the
- * [awesome-awesomeness ★19400](https://github.com/bayandin/awesome-awesomeness) list.
- * [Open Source apps ★13950](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
+ * [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness) list.
+ * [Open Source apps ★13989](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
  * Awesome-swift
-   * [@matteocrippa ★12560](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
-   * [@Wolg ★4101](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
+   * [@matteocrippa ★12595](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
+   * [@Wolg ★4121](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
  * [awesome watchkit apps ★192 ⏳2Y](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.
- * [iOS Learning Resources ★233](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
+ * [iOS Learning Resources ★236](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
  * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
  * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
- * [awesome-gists ★157](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
- * [awesome-ios-ui ★9605](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
+ * [awesome-gists ★158](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
+ * [awesome-ios-ui ★9630](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
  * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
 # Contributing

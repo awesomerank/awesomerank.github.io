@@ -7,7 +7,7 @@ title: Awesome Rank for davidtheclark/scalable-css-reading-list
 	This list is a copy of <a href="https://github.com/davidtheclark/scalable-css-reading-list">davidtheclark/scalable-css-reading-list</a> with ranks
 </p>
 ---
-# A Scalable CSS Reading List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# A Scalable CSS Reading List [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 A list of things to read or watch that address these two questions: **What is scalable CSS?** and **How do we create scalable CSS?**
 

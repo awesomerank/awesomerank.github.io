@@ -7,7 +7,7 @@ title: Awesome Rank for numetriclabz/awesome-db
 	This list is a copy of <a href="https://github.com/numetriclabz/awesome-db">numetriclabz/awesome-db</a> with ranks
 </p>
 ---
-﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 =========
 A curated list of amazingly awesome database libraries, resources and shiny things by [Numetric Technologies](https://www.numetriclabz.com/)
 
@@ -18,25 +18,25 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
  * [cravendb ★50 ⏳3Y](https://github.com/robashton/cravendb)
 
 ## C / CPP
-* [Aerospike ★1448](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
-* [Alchemy-Database ★175 ⏳5Y](https://github.com/JakSprats/Alchemy-Database) - AlchemyDB is now Aerospike
-* [cstore_fdw ★864](https://github.com/citusdata/cstore_fdw) - Fast columnar store for analytics with PostgreSQL [website](http://citusdata.github.io/cstore_fdw/)
+* [Aerospike ★1454](https://github.com/aerospike/aerospike-server) - Aerospike Database Server – flash-optimized, in-memory, nosql database
+* [Alchemy-Database ★176 ⏳5Y](https://github.com/JakSprats/Alchemy-Database) - AlchemyDB is now Aerospike
+* [cstore_fdw ★873](https://github.com/citusdata/cstore_fdw) - Fast columnar store for analytics with PostgreSQL [website](http://citusdata.github.io/cstore_fdw/)
 * [LMDB](http://symas.com/mdb/) - Very fast embedded key/value store with full ACID semantics.
-* [memcache ★6573](https://github.com/memcached/memcached) - Free & open source, high-performance, distributed memory object caching system
-* [monetdb ★3 ⏳3Y](https://github.com/snaga/monetdb) - [website](https://www.monetdb.org/)
-* [mongo ★11961](https://github.com/mongodb/mongo) - The Mongo Database http://www.mongodb.org/
-* [facebook/mysql-5.6 ★996](https://github.com/facebook/mysql-5.6) - Facebook's branch of the Oracle MySQL v5.6 database
-* [twitter/mysql ★1582](https://github.com/twitter/mysql) - MySQL fork maintained and used at Twitter https://github.com/twitter/mysql/wiki
-* [postgres ★2965](https://github.com/postgres/postgres)
-* [Redis ★24612](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes [website](http://redis.io)
+* [memcache ★6627](https://github.com/memcached/memcached) - Free & open source, high-performance, distributed memory object caching system
+* [monetdb ★3 ⏳4Y](https://github.com/snaga/monetdb) - [website](https://www.monetdb.org/)
+* [mongo ★12079](https://github.com/mongodb/mongo) - The Mongo Database http://www.mongodb.org/
+* [facebook/mysql-5.6 ★1008](https://github.com/facebook/mysql-5.6) - Facebook's branch of the Oracle MySQL v5.6 database
+* [twitter/mysql ★1585](https://github.com/twitter/mysql) - MySQL fork maintained and used at Twitter https://github.com/twitter/mysql/wiki
+* [postgres ★3014](https://github.com/postgres/postgres)
+* [Redis ★24862](https://github.com/antirez/redis) - Redis is an in-memory database that persists on disk. The data model is key-value, but many different kind of values are supported: Strings, Lists, Sets, Sorted Sets, Hashes [website](http://redis.io)
 * [redis-nds](https://github.com/mpalmer/redis/tree/nds-2.6) - This is a version of Redis patched to implement NDS (the Naive Disk Store). Documentation on this feature is contained within README.nds.
-* [rethinkdb ★19512](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com
-* [rocksdb ★8303](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
-* [ssdb ★4609](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
+* [rethinkdb ★19623](https://github.com/rethinkdb/rethinkdb) - An open-source distributed JSON document database with a pleasant and powerful query language. http://www.rethinkdb.com
+* [rocksdb ★8369](https://github.com/facebook/rocksdb) - Embedded key-value store for fast storage http://rocksdb.org
+* [ssdb ★4648](https://github.com/ideawu/ssdb) - SSDB - A fast NoSQL database, an alternative to Redis http://ssdb.io
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
 * [tokudb-engine](https://github.com/Tokutek/tokudb-engine)- TokuDB is a high-performance, write optimized, compressing, transactional storage engine for MySQL and MariaDB
-* [TokuMX ★662 ⏳1Y](https://github.com/Tokutek/mongo)- TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
-* [VoltDB ★1011](https://github.com/VoltDB/voltdb) - VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.
+* [TokuMX ★665 ⏳1Y](https://github.com/Tokutek/mongo)- TokuMX is a high-performance, concurrent, compressing, drop-in replacement engine for MongoDB
+* [VoltDB ★1020](https://github.com/VoltDB/voltdb) - VoltDB is a horizontally-scalable, in-memory SQL RDBMS designed for applications that have extremely high read and write throughput requirements.
 
 
 ## dot-net
@@ -46,46 +46,46 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Erlang
 
-* [riak ★2802](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
+* [riak ★2809](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 * [Pulsedb](http://pulsedb.io) - Pulsedb is a time series database server and library.
 
 ## Go-lang
 
-* [bolt ★6693](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
-* [diskv ★467](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
+* [bolt ★6735](https://github.com/boltdb/bolt) - A low-level key/value database for Go.
+* [diskv ★471](https://github.com/peterbourgon/diskv) - A home-grown disk-backed key-value store.
 * [go-cache](https://github.com/pmylund/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
-* [goleveldb ★1707](https://github.com/syndtr/goleveldb) - An implementation of the [LevelDB](https://code.google.com/p/leveldb/) key/value database in the Go.
-* [groupcache ★5639](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
+* [goleveldb ★1723](https://github.com/syndtr/goleveldb) - An implementation of the [LevelDB](https://code.google.com/p/leveldb/) key/value database in the Go.
+* [groupcache ★5655](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-* [ledisdb ★2197](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
-* [roshi ★1885 ⏳1Y](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
+* [ledisdb ★2205](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
+* [roshi ★1890 ⏳1Y](https://github.com/soundcloud/roshi) - Roshi is a large-scale CRDT set implementation for timestamped events.
 * [skydb.io](https://github.com/skydb/sky) - Sky is an open source database used for flexible, high performance analysis of behavioral data.
-* [tiedot ★1883](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
+* [tiedot ★1887](https://github.com/HouzuoGuo/tiedot) - Your NoSQL database powered by Golang.
 
 
 
 ## JAVA
-* [cassandra ★3729](https://github.com/apache/cassandra) - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
+* [cassandra ★3754](https://github.com/apache/cassandra) - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
 * [elasticsearch](https://github.com/elasticsearch/elasticsearch) - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
 * [lmdbjni ★163](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
-* [mapdb ★2720](https://github.com/jankotek/MapDB) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org
-* [neo4j ★4053](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
-* [orientdb ★3107](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
-* [voldemort ★1932](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
-- [Titan ★4471](https://github.com/thinkaurelius/titan) - Distributed Graph Database http://titandb.io
+* [mapdb ★2740](https://github.com/jankotek/MapDB) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org
+* [neo4j ★4095](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
+* [orientdb ★3128](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.
+* [voldemort ★1939](https://github.com/voldemort/voldemort) - An open source clone of Amazon's Dynamo. [website](http://project-voldemort.com)
+- [Titan ★4489](https://github.com/thinkaurelius/titan) - Distributed Graph Database http://titandb.io
 
 
 ## Javascript
-* [couchdb ★3139](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)
-* [mongodb ★11961](https://github.com/mongodb/mongo) - MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier. [website] (https://www.mongodb.org/)
+* [couchdb ★3166](https://github.com/apache/couchdb) - Apache CouchDB™ is a database that uses JSON for documents,JavaScript for MapReduce indexes, and regular HTTP for its API [website] (http://couchdb.apache.org/)
+* [mongodb ★12079](https://github.com/mongodb/mongo) - MongoDB is a document database that provides high performance, high availability, and easy scalability. Documents (objects) map nicely to programming language data types. Embedded documents and arrays reduce need for joins. Dynamic schema makes polymorphism easier. [website] (https://www.mongodb.org/)
 
 
 
 ## Scala
-* [BlinkDB ★551 ⏳3Y](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.cs.berkeley.edu/)
+* [BlinkDB ★552 ⏳3Y](https://github.com/sameeragarwal/blinkdb) - BlinkDB: Sub-Second Approximate Queries on Very Large Data [website]	(http://blinkdb.cs.berkeley.edu/)
 
 ## Research Papers
-* [db-readings ★4554](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
+* [db-readings ★4616](https://github.com/rxin/db-readings) - A list of papers essential to understanding databases and building new data systems
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/numetriclabz/awesome-db">numetriclabz/awesome-db</a> with ranks

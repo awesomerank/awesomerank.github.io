@@ -7,7 +7,7 @@ title: Awesome Rank for roaldnefs/awesome-prometheus
 	This list is a copy of <a href="https://github.com/roaldnefs/awesome-prometheus">roaldnefs/awesome-prometheus</a> with ranks
 </p>
 ---
-# Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Prometheus resources, projects and tools.
 
@@ -30,7 +30,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 ## Official resources
 
 * [Website](https://prometheus.io/) - Official Prometheus project website.
-* [GitHub repository ★10985](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
+* [GitHub repository ★11106](https://github.com/prometheus/prometheus) - Prometheus' source code, issues discussion and collaboration.
 * [Documentation](https://prometheus.io/docs/introduction/overview/) - Official Prometheus documentation.
 * [Blog](https://prometheus.io/blog/) - Official Prometheus blog.
 
@@ -43,7 +43,7 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 * [How To Query Prometheus on Ubuntu 14.04 Part 1](https://www.digitalocean.com/community/tutorials/how-to-query-prometheus-on-ubuntu-14-04-part-1) - Part 1 of 2 in the series _How To Query Prometheus on Ubuntu 14.04_.
 * [How To Query Prometheus on Ubuntu 14.04 Part 2](https://www.digitalocean.com/community/tutorials/how-to-query-prometheus-on-ubuntu-14-04-part-2) - Part 2 in the series _How To Query Prometheus on Ubuntu 14.04_.
 * [How To Add a Prometheus Dashboard to Grafana ](https://www.digitalocean.com/community/tutorials/how-to-add-a-prometheus-dashboard-to-grafana) - Walkthrough on how to add a Prometheus dashboard to Grafana.
-* [Instructions and example code for a Prometheus workshop ★40 ⏳1Y](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz.
+* [Instructions and example code for a Prometheus workshop ★43 ⏳1Y](https://github.com/juliusv/prometheus_workshop) - Instructions and example code for a Prometheus workshop by Julius Volz.
 * [Checking if SSH is responding with Prometheus](https://www.robustperception.io/checking-if-ssh-is-responding-with-prometheus/) - Walkthrough on how to use the Blackbox Exporter to check if SSH is responding by Brian Brazil.
 * [Monitor your GitHub Repos with Docker and Prometheus](https://www.brianchristner.io/monitor-your-github-repos-with-docker/) - Monitor your GitHub Repos with Docker and Prometheus.
 * [Docker daemon metrics in Prometheus](https://medium.com/lucjuggery/docker-daemon-metrics-in-prometheus-7c359c7ff550) - Docker daemon metrics in Prometheus by Luc Juggery.
@@ -88,11 +88,11 @@ Prometheus is an open-source systems monitoring and alerting toolkit.
 * [PromDash](https://prometheus.io/docs/visualization/promdash/) - Browser-based dashboard builder for Prometheus _tutorial by Prometheus_.
 
 ## Exporters
-* [Blackbox exporter ★221](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**.
-* [HAProxy exporter ★109](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**.
+* [Blackbox exporter ★235](https://github.com/prometheus/blackbox_exporter) - The Blackbox exporter allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP and ICMP **(official exporter)**.
+* [HAProxy exporter ★113](https://github.com/prometheus/haproxy_exporter) - The HAProxy exporter periodically scrapes HAProxy stats **(official exporter)**.
 * [Memcached exporter ★12](https://github.com/prometheus/memcached_exporter) - The Memcached exporter periodically scrapes Memcached stats **(official exporter)**.
-* [MySQL Server exporter ★148](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**.
-* [Node exporter ★765](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**.
+* [MySQL Server exporter ★154](https://github.com/prometheus/mysqld_exporter) - The MySQL server exporter periodically scrapes MySQL stats **(official exporter)**.
+* [Node exporter ★790](https://github.com/prometheus/node_exporter) - The Node exporter periodically scrapes system stats **(official exporter)**.
 
 ## Proxies
 * [Multi-prometheus proxy ★10](https://github.com/matt-deboer/mpp) - forwards incoming requests to one of a set of multiple prometheus instances deployed as HA duplicates of each other using a selector strategy.

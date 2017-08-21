@@ -7,7 +7,7 @@ title: Awesome Rank for BubuAnabelas/awesome-markdown
 	This list is a copy of <a href="https://github.com/BubuAnabelas/awesome-markdown">BubuAnabelas/awesome-markdown</a> with ranks
 </p>
 ---
-# Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Markdown [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" align="right" width="208">
@@ -64,23 +64,23 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 ### C
 
-- [Hoedown ★681](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork).
-- [peg-markdown ★542](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
-- [Sundown ★1521](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C.
+- [Hoedown ★684](https://github.com/hoedown/hoedown) - Standards compliant, fast, secure Markdown processing library in C (Sundown fork).
+- [peg-markdown ★547](https://github.com/jgm/peg-markdown) - An implementation of Markdown in C, using a PEG grammar.
+- [Sundown ★1529](https://github.com/vmg/sundown) - Standards compliant, fast, secure Markdown processing library in C.
 
 ### Java
 
-- [commonmark-java ★463](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format.
-- [flexmark-java ★266](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST.
-- [pegdown ★1159](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions.
+- [commonmark-java ★530](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format.
+- [flexmark-java ★282](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST.
+- [pegdown ★1160](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions.
 
 ### JavaScript
 
-- [marked ★13555](https://github.com/chjj/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed.
-- [markdown-it ★3860](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
-- [markdown-js ★6069](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript.
-- [Showdown ★5169](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber.
-- [Snarkdown ★532](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
+- [marked ★13702](https://github.com/chjj/marked) - Full-featured Markdown parser and compiler, written in JavaScript. Built for speed.
+- [markdown-it ★3899](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed.
+- [markdown-js ★6084](https://github.com/evilstreak/markdown-js) - Yet another Markdown parser, this time for JavaScript.
+- [Showdown ★5248](https://github.com/showdownjs/showdown) - Showdown is a JavaScript Markdown to HTML converter, based on the original works by John Gruber.
+- [Snarkdown ★590](https://github.com/developit/snarkdown) - Snarkdown is a dead simple 1kb Markdown parser.
 
 ### Perl
 
@@ -93,14 +93,14 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 ### Python
 
-- [markdown2 ★1360](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python.
-- [Mistune ★970](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature.
-- [Python-Markdown ★1089](https://github.com/waylan/Python-Markdown) - Python implementation of John Gruber's Markdown.
+- [markdown2 ★1372](https://github.com/trentm/python-markdown2) - Fast and complete implementation of Markdown in Python.
+- [Mistune ★977](https://github.com/lepture/mistune) - The fastest Markdown parser in pure Python with renderer feature.
+- [Python-Markdown ★1092](https://github.com/waylan/Python-Markdown) - Python implementation of John Gruber's Markdown.
 
 ### Ruby
 
-- [kramdown ★1110](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
-- [Redcarpet ★4005](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn.
+- [kramdown ★1111](https://github.com/gettalong/kramdown) - kramdown is a fast, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions.
+- [Redcarpet ★4011](https://github.com/vmg/redcarpet) - Redcarpet is a Ruby library for Markdown processing that smells like butterflies and popcorn.
 
 ## Tools
 
@@ -108,13 +108,13 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 > Convert Markdown to other formats and vice versa.
 
-- [csvtomd ★353](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [csvtomd ★354](https://github.com/mplewis/csvtomd) - Convert your CSV files into Markdown tables. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [HTML To Markdown for PHP ★605](https://github.com/thephpleague/html-to-markdown) - Convert HTML to Markdown with PHP.
-- [to-markdown ★2429](https://github.com/domchristie/to-markdown) - HTML to Markdown converter written in JavaScript.
-- [markdown-pdf ★1050](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
+- [to-markdown ★2455](https://github.com/domchristie/to-markdown) - HTML to Markdown converter written in JavaScript.
+- [markdown-pdf ★1064](https://github.com/alanshaw/markdown-pdf) - Markdown to PDF converter.
 - [Markdown to PDF](http://www.markdowntopdf.com/) - Simple and useful website for converting Markdown to PDF. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 - [Pandoc](http://pandoc.org/) - Universal document converter. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
-- [Torsimany ★5](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [Torsimany ★8](https://github.com/PolBaladas/torsimany) - Translate format-independent JSON to stylish, human-readable Markdown. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [yamp ★17](https://github.com/angrykoala/yamp) - Wasy-to-use cli toolbox for markdown-related task. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 
 ### Editors
@@ -124,7 +124,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [Abricotine](http://abricotine.brrd.fr/) - Lightweight markdown editor built with Electron with built-in realtime preview. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [Caret](https://caret.io/) - Markdown Editor for Mac and PC. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [iA Writer](https://ia.net/writer/) - iA Writer is designed to provide the best writing experience on Mac OS, iOS and Android. :gem: _Really simple editor!_ <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/android_os_copyrighted-24.png" title="Android OS" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Logos/ios_logo-24.png" title="iOS Logo" width="24"> <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24">
-- [MarkRight ★876](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
+- [MarkRight ★878](https://github.com/dvcrn/markright) - Minimalistic github flavored Markdown editor. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 
 - [PileMd](https://pilemd.com/) - Markdown Note App. <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
 - [StackEdit](https://stackedit.io/) - In-browser markdown editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
@@ -143,7 +143,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 - [Classeur](http://classeur.io/) - Classeur is a new platform to write simple notes as well as technical documents and blogs. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 - [Dillinger](http://dillinger.io/) - Dillinger is a cloud-enabled, mobile-ready, offline-storage, AngularJS powered HTML5 Markdown editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
-- [GitDown ★351](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
+- [GitDown ★352](https://github.com/gajus/gitdown) – GitHub's Markdown preprocessor. :octocat:
 - [HackMD](https://hackmd.io) - HackMD lets you create realtime collaborative Markdown notes on all platforms. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 - [Markable.in](https://markable.in/) - Remarkable Markdown Editor. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 - [Markdown Tables Generator](http://www.tablesgenerator.com/markdown_tables) - Visual Markdown table builder with CSV importing support. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
@@ -155,7 +155,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 > Create and edit your slides presentations with Markdown.
 
 - [Marp](https://yhatt.github.io/marp/) - Markdown Presentation Writer. :gem: _Like PowerPoint but with Markdown!_ <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/windows8_copyrighted-24.png" title="Windows8" width="24">
-- [mdp ★2745](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24">
+- [mdp ★2780](https://github.com/visit1985/mdp) - Command-line based Markdown presentation tool. :gem: _Like PowerPoint and Vim but with Markdown!_ <img src="https://maxcdn.icons8.com/Android_L/PNG/24/Operating_Systems/mac_os-24.png" title="Apple" width="24"> <img src="https://maxcdn.icons8.com/Color/PNG/24/Operating_Systems/linux-24.png" title="Linux" width="24">
 - [remark](https://remarkjs.com) - A simple, in-browser, Markdown-driven slideshow tool targeted at people who know their way around HTML and CSS. <img src="https://maxcdn.icons8.com/Color/PNG/24/Maps/globe-24.png" title="Globe" width="24">
 
 ## Services
@@ -190,6 +190,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 - [Interactive Markdown Tutorial](http://www.markdowntutorial.com/)
 - [GitHub's Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) :gem: _Where to look when you don't remember the syntax!_
+- [Markdown Guide](https://www.markdownguide.org) - A concise, barebones guide to Markdown. 
 
 ---
 

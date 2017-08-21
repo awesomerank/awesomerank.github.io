@@ -11,9 +11,9 @@ title: Awesome Rank for Siddharth11/Colorful
 	<img src="color-palette.gif" alt="header image">
 </p>
 
-# Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 __A curated list of awesome resources to choose your next color scheme.__  
-Inspired by the __[awesome ★63395](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
+Inspired by the __[awesome ★63835](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
 
 ## Table of Contents
 - [Tools](#tools)
@@ -26,15 +26,15 @@ Inspired by the __[awesome ★63395](https://github.com/sindresorhus/awesome)__ 
 
 #### Libraries
 - [Chroma.js](http://gka.github.io/chroma.js/) - JavaScript library for dealing with colors.
-- [GradStop.js ★83](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
+- [GradStop.js ★85](https://github.com/Siddharth11/gradStop.js) - Generate gradient color stops.
 - [Colorable](http://jxnblk.com/colorable/) - Color palette combination contrast tester.
 - [Adaptive Backgrounds](https://briangonzalez.github.io/jquery.adaptive-backgrounds.js/) - Extract dominant colors from images and apply to its parent (jQuery Plugin).
 - [Coloor ★334 ⏳1Y](https://github.com/krasimir/coloor) - Image preloading utility.
-- [Color Thief ★5830](https://github.com/lokesh/color-thief) - Grab color palette from an image.
-- [Colorify.js ★724](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
-- [Colofilter.css ★564 ⏳1Y](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
+- [Color Thief ★5866](https://github.com/lokesh/color-thief) - Grab color palette from an image.
+- [Colorify.js ★728](https://github.com/LukyVj/Colorify.js) - Simple, customizable, tiny JavaScript color extractor.
+- [Colofilter.css ★568 ⏳1Y](https://github.com/LukyVj/colofilter.css) - Duotone filters made with CSS.
 - [Polychrome ★252](https://github.com/cdonohue/polychrome) - A small library for parsing and manipulating colors.
-- [Palettable ★258](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
+- [Palettable ★266](https://github.com/jiffyclub/palettable) - Palettable (formerly brewer2mpl) is a library of color palettes for Python
 - [picocli](http://picocli.info/) - Small library for creating Java command line applications with ANSI colors and styles.
 
 #### Web App

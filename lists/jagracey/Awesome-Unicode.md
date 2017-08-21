@@ -10,7 +10,7 @@ title: Awesome Rank for jagracey/Awesome-Unicode
 ![](https://raw.githubusercontent.com/jagracey/Awesome-Unicode/58f28d08aef7f36eb6cdca22d25e7654cd8de5ae/resources/banner.jpg)
 
 
-# Awesome Unicode [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Unicode [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 
 
@@ -366,7 +366,7 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 - **String length is typically determined by counting codepoints.** This means that surrogate pairs would count as two characters. Combining multiple diacritics may be stacked over the same character. `a + ̈  == ̈a   `, increasing length, while only producing a single character.
 
-- **Similarily, reversing strings often is a non-trivial task.** Again, surrogate pairs and diacritics must be reversed together. [ES Reverser ★482](https://github.com/mathiasbynens/esrever) provides a pretty good solution.
+- **Similarily, reversing strings often is a non-trivial task.** Again, surrogate pairs and diacritics must be reversed together. [ES Reverser ★484](https://github.com/mathiasbynens/esrever) provides a pretty good solution.
 
 - **Upper and lower case mappings are not always one-to-one.** They can also be:
   - One-to-many: (ß → SS )
@@ -495,10 +495,10 @@ The zero-width non-joiner (ZWNJ) is a non-printing character used in the compute
 
 # Awesome Packages & Libraries
 - [PhantomScript ★25 ⏳1Y](https://github.com/jagracey/PhantomScript) - :ghost: :flashlight: Invisible JavaScript code execution & social engineering
-- [ESReverser ★482](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
-- [mimic ★3272](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
-- [python-ftfy ★1748](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
-- [vim-troll-stopper ★140](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
+- [ESReverser ★484](https://github.com/mathiasbynens/esrever) - A Unicode-aware string reverser written in JavaScript.
+- [mimic ★3281](https://github.com/reinderien/mimic) - [ab]using Unicode to create tragedy
+- [python-ftfy ★1756](https://github.com/LuminosoInsight/python-ftfy) - Given Unicode text, make its representation consistent and possibly less broken.
+- [vim-troll-stopper ★141](https://github.com/vim-utils/vim-troll-stopper) - Stop Unicode trolls from messing with your code.
 
 
 # Emojis

@@ -11,16 +11,18 @@ title: Awesome Rank for brunopulis/awesome-a11y
 
 [![Build Status](https://api.travis-ci.org/brunopulis/awesome-a11y.svg?branch=master)](https://travis-ci.org/brunopulis/awesome-a11y)
 [![Join the chat at https://gitter.im/brunopulis/awesome-a11y](https://badges.gitter.im/brunopulis/awesome-a11y.svg)](https://gitter.im/brunopulis/awesome-a11y?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 <img src="a11y.png" />
 
-> A curated list of awesome Accessibility tools, articles and resources.
+> A curated list of awesome Accessibility tools, articles and resources. 
+> Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox ★696](https://github.com/afonsopacifer/awesome-flexbox).
 
 **Table of Contents**
 
 - [Awesome Accessibility](##awesome-accessibility)
   - [W3C Specification](#w3c-specification)
+  - [Accessibility Weekly](#newsletters)
   - [Guides](#guides)
   - [Articles and Videos](#articles-and-videos)
   - [Courses](#courses)
@@ -30,7 +32,6 @@ title: Awesome Rank for brunopulis/awesome-a11y
   - [Other Resources](#other-resources)
   - [Talks](#talks)
   - [People to Follow in Web Accessibility](#people-to-follow-in-web-accessibility)
-  - [Accessibility Weekly](#newsletters)
   - [Contributing](#contributing)
   - [License](#license)
 
@@ -52,26 +53,31 @@ title: Awesome Rank for brunopulis/awesome-a11y
 |:large_orange_diamond:| [WAI-ARIA 1.1](https://www.w3.org/TR/wai-aria-1.1/) | Framework to improve the accessibility and interoperability of web content and applications |
 |:green_heart:| [Using ARIA](https://www.w3.org/TR/aria-in-html/) | Practical guide for developers on how to add accessibility infos to HTML |
 
-----
+## Newsletters :newspaper: 
+
+
+| Name | Link |
+| --- | --- |
+| Accessibility Weekly | [Accessibility Weekly](http://a11yweekly.com/) |
+
 
 ## Guides
 
-* [Accessibility Guidelines](http://accessibility.voxmedia.com/)
-* [Acessibilidade for Devs - pt-br ★9](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io)
-* [Accessible Mega Menu ★471](https://github.com/adobe-accessibility/Accessible-Mega-Menu)
-* [a11yweekly](http://a11yweekly.com/)
-* [ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html)
-* [BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y)
-* [Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html)
-* [Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course)
-* [Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799)
-* [Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/)
-* [Web Accesible](http://webaccesible.xyz/) (Spanish)
-* [Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/)
+| Name | Language |
+| --- | --- |
+|[Accessibility Guidelines](http://accessibility.voxmedia.com/) | EN
+|[Acessibilidade for Devs ★9](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io) | PT-BR
+|[Accessible Mega Menu ★473](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN 
+|[ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html) | EN
+|[BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y) | EN
+|[Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html) | EN
+|[Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) | EN
+|[Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799) | EN
+|[Understanding WCAG 2.0](https://www.w3.org/TR/UNDERSTANDING-WCAG20/) | EN
+|[Web Accesible](http://webaccesible.xyz/) | ED
+|[Web Accessibility Tutorials](http://www.w3.org/WAI/tutorials/) | EN
 
-----
-
-## :mortar_board: Courses
+## Courses :mortar_board:
 
 | Level | Name | Language | Price |
 | --- | --- | --- | --- |
@@ -84,7 +90,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 * [Advice for creating content that works well with screen readers](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers/)
 * [10 rules for efficient form design](http://babich.biz/10-rules-for-efficient-form-design/)
 * [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY)
-* [A11Y Dialog ★671](https://github.com/edenspiekermann/a11y-dialog)
+* [A11Y Dialog ★684](https://github.com/edenspiekermann/a11y-dialog)
 * [Automated Accessibility Checking with aXe](https://www.sitepoint.com/automated-accessibility-checking-with-axe/)
 * [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
@@ -123,12 +129,12 @@ title: Awesome Rank for brunopulis/awesome-a11y
 ## Development Testing and Validators
 
 * [508 Checker](http://www.508checker.com/)
-* [A11Y.css ★449](https://github.com/ffoodd/a11y.css)
+* [A11Y.css ★452](https://github.com/ffoodd/a11y.css)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
 * [a11y-checker ★14](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue. 
 * [Access Lint](http://accesslint.com/)
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
-* [Accessibility Developer Tools ★1360](https://github.com/GoogleChrome/accessibility-developer-tools)
+* [Accessibility Developer Tools ★1370](https://github.com/GoogleChrome/accessibility-developer-tools)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [aslint.org](https://www.aslint.org/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
@@ -143,7 +149,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 * [HTML5 Acessibility](http://www.html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 * [I want to see like the colour blind - Chrome Extension (Mac/Win)](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)
 * [pa11y](http://www.pa11y.org/)
-* [React A11y ★1336](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
+* [React A11y ★1346](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - A color blindness simulator for Mac and iOS
 * [Tenon.io](https://tenon.io/)
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
@@ -169,9 +175,9 @@ title: Awesome Rank for brunopulis/awesome-a11y
 
 ## Other Resources
 
-* [A11Y Style Guide ★178](https://github.com/cehfisher/a11y-style-guide)
+* [A11Y Style Guide ★185](https://github.com/cehfisher/a11y-style-guide)
 * [AIIY.js](http://allyjs.io/)
-* [A11yProject ★1586](https://github.com/a11yproject/a11yproject.com)
+* [A11yProject ★1600](https://github.com/a11yproject/a11yproject.com)
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
 * [Alix ★279](https://github.com/ireade/alix) - a browser extension for a11y.css
 * [Accessibility section - jQuery Plugins using ARIA](http://a11y.nicolas-hoffmann.net/) - Plugins and demos by [@Nico3333fr](https://twitter.com/Nico3333fr)
@@ -216,47 +222,49 @@ This is a list, in no particular order, of people to follow that contribute grea
 
 ## People
 
-* Alice Boxhall	[@sundress](https://twitter.com/sundress)
-* Cory Klatik [@cklatik](https://twitter.com/cklatik)
-* Dale Cruse [@dalecruse](https://twitter.com/dalecruse)
-* Dave Rupert [@davatron5000](https://twitter.com/davatron5000)
-* David A. Kennedy [@davidakennedy](https://twitter.com/davidakennedy)
-* Debra Ruh	[@debraruh](https://twitter.com/debraruh)
-* Denis Boudreau	[@dboudreau](https://twitter.com/dboudreau)
-* Dennis Gaebel [@gryghostvisuals](https://twitter.com/gryghostvisuals)
-* Dennis Lembrée	[@dennisl](https://twitter.com/dennisl)
-* Derek Featherstone [@feather](https://twitter.com/feather)
-* Dylan Barrell	[@dylanbarrell](https://twitter.com/dylanbarrell)
-* Eliza Greenwood [@E_lizaG](https://twitter.com/E_lizaG)
-* Eric Eggert [@yatil](https://twitter.com/yatil)
-* Eric Wright [@ewaccess](https://twitter.com/ewaccess)
-* Greg Tarnoff [@gregtarnoff](https://twitter.com/gregtarnoff)
-* Heydon Works [@heydonworks](http://twitter.com/heydonworks)
-* Jeffrey Zeldman	[@zeldman](https://twitter.com/zeldman)
-* Jen Simmons	[@jensimmons](https://twitter.com/jensimmons)
-* Joe Dolson   [@joedolson](https://twitter.com/joedolson)
-* John Foliot [@johnfoliot](https://twitter.com/johnfoliot)
-* Jonathan Hassell	[@jonhassell](https://twitter.com/jonhassell)
-* Joseph Karr O'Connor [@AccessibleJoe](https://twitter.com/AccessibleJoe)
-* Karl Groves  [@karlgroves](https://twitter.com/karlgroves)
-* Lainey Feingold [@LFLegal](https://twitter.com/LFLegal)
-* Léonie Watson [@LeonieWatson](http://twitter.com/LeonieWatson)
-* Luke McGrath [@lukejmcgrath](https://twitter.com/lukejmcgrath)
-* Lucy Greco [@accessaces](https://twitter.com/accessaces)
-* Marco Zehe [@MarcoZehe](https://twitter.com/MarcoZehe)
-* Marcy Sutton  [@marcysutton](http://twitter.com/marcysutton)
-* Mike Paciello [@mpaciello](https://twitter.com/mpaciello)
-* Monika Piotrowicz [@monsika](https://twitter.com/monsika)
-* Neil Milliken	[@NeilMilliken](https://twitter.com/NeilMilliken)
-* Patrick Fox	[@patrickfox](https://twitter.com/patrickfox)
-* Reinaldo Ferraz [@reinaldoferraz](https://twitter.com/reinaldoferraz)
-* Scott Vinkle [@svinkle](https://twitter.com/svinkle)
-* Shawn Lawton Henry [@shawn_slh](https://twitter.com/shawn_slh)
-* Sina Bahram	[@SinaBahram](https://twitter.com/SinaBahram)
-* Steve Faulkner     [@stevefaulkner](https://twitter.com/stevefaulkner)
-* Ted Drake	[@ted_drake](https://twitter.com/ted_drake)
+| Name | Twitter |
+| --- | --- | 
+| Alice Boxhall | [@sundress](https://twitter.com/sundress) |
+| Cory Klatik | [@cklatik](https://twitter.com/cklatik) |
+| Dale Cruse | [@dalecruse](https://twitter.com/dalecruse) |
+| Dave Rupert | [@davatron5000](https://twitter.com/davatron5000) |
+| David A. Kennedy | [@davidakennedy](https://twitter.com/davidakennedy) |
+| Debra Ruh |	[@debraruh](https://twitter.com/debraruh) |
+| Denis Boudreau |	[@dboudreau](https://twitter.com/dboudreau) |
+| Dennis Gaebel | [@gryghostvisuals](https://twitter.com/gryghostvisuals) |
+| Dennis Lembrée |	[@dennisl](https://twitter.com/dennisl) |
+| Derek Featherstone | [@feather](https://twitter.com/feather) |
+| Dylan Barrell |	[@dylanbarrell](https://twitter.com/dylanbarrell) |
+| Eliza Greenwood | [@E_lizaG](https://twitter.com/E_lizaG) |
+| Eric Eggert | [@yatil](https://twitter.com/yatil) |
+| Eric Wright | [@ewaccess](https://twitter.com/ewaccess) |
+| Greg Tarnoff | [@gregtarnoff](https://twitter.com/gregtarnoff) |
+| Heydon Works | [@heydonworks](http://twitter.com/heydonworks) |
+| Jeffrey Zeldman |	[@zeldman](https://twitter.com/zeldman) |
+| Jen Simmons |	[@jensimmons](https://twitter.com/jensimmons) |
+| Joe Dolson   | [@joedolson](https://twitter.com/joedolson) |
+| John Foliot | [@johnfoliot](https://twitter.com/johnfoliot) |
+| Jonathan Hassell |	[@jonhassell](https://twitter.com/jonhassell) |
+| Joseph Karr O'Connor | [@AccessibleJoe](https://twitter.com/AccessibleJoe) |
+| Karl Groves  | [@karlgroves](https://twitter.com/karlgroves) |
+| Lainey Feingold | [@LFLegal](https://twitter.com/LFLegal) |
+| Léonie Watson | [@LeonieWatson](http://twitter.com/LeonieWatson) |
+| Luke McGrath | [@lukejmcgrath](https://twitter.com/lukejmcgrath) |
+| Lucy Greco | [@accessaces](https://twitter.com/accessaces) |
+| Marco Zehe | [@MarcoZehe](https://twitter.com/MarcoZehe) |
+| Marcy Sutton  | [@marcysutton](http://twitter.com/marcysutton) |
+| Mike Paciello | [@mpaciello](https://twitter.com/mpaciello) |
+| Monika Piotrowicz | [@monsika](https://twitter.com/monsika) |
+| Neil Milliken |	[@NeilMilliken](https://twitter.com/NeilMilliken) |
+| Patrick Fox |	[@patrickfox](https://twitter.com/patrickfox) |
+| Reinaldo Ferraz | [@reinaldoferraz](https://twitter.com/reinaldoferraz) |
+| Scott Vinkle | [@svinkle](https://twitter.com/svinkle) |
+| Shawn Lawton Henry | [@shawn_slh](https://twitter.com/shawn_slh) |
+| Sina Bahram |	[@SinaBahram](https://twitter.com/SinaBahram) |
+| Steve Faulkner     | [@stevefaulkner](https://twitter.com/stevefaulkner) |
+| Ted Drake |	[@ted_drake](https://twitter.com/ted_drake) |
 
-## :office:  Companies & Organizations
+## Companies & Organizations :office:
 
 | Name | Link |
 | --- | --- |
@@ -273,31 +281,19 @@ This is a list, in no particular order, of people to follow that contribute grea
 | WebAxe | [@webaxe](https://twitter.com/webaxe) |
 
 
-## :newspaper: Newsletters 
 
-
-| Name | Link |
-| --- | --- |
-| Accessibility Weekly | [Accessibility Weekly](http://a11yweekly.com/) |
  
 
-----
+## CONTRIBUTING
 
-## Contributing
-
-You want to contribute to this project? [Please follow these recommendations](https://github.com/brunopulis/awesome-a11y/blob/master/CONTRIBUTING.md).
+[Please follow these recommendations](https://github.com/brunopulis/awesome-a11y/blob/master/CONTRIBUTING.md).
 
 ----
 
-## Open source licensing info
+## LICENSE
 
-[![CC0](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+This project is licensed under the MIT license - see the [LICENSE](https://github.com/brunopulis/awesome-a11y/blob/master/LICENSE.md) for details.
 
-----
-
-## Credits and references
-
-1. Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox ★693](https://github.com/afonsopacifer/awesome-flexbox).
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/brunopulis/awesome-a11y">brunopulis/awesome-a11y</a> with ranks

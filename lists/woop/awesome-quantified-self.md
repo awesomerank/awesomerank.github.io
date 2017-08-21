@@ -7,7 +7,7 @@ title: Awesome Rank for woop/awesome-quantified-self
 	This list is a copy of <a href="https://github.com/woop/awesome-quantified-self">woop/awesome-quantified-self</a> with ranks
 </p>
 ---
-# Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 
 # [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://github.com/willempienaar/awesome-quantified-self)
@@ -155,7 +155,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 - [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 - [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-- [Ledger ★2096](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+- [Ledger ★2101](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 
 ## Devices and Wearables
@@ -196,7 +196,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Connector DB ★72](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
 - [Quantifier ★15](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
 - [Fluxtream ★128 ⏳1Y](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
-- [Flow Dashboard ★887](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
+- [Flow Dashboard ★893](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 
 ## License
 

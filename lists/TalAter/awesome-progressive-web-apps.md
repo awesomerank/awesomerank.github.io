@@ -7,7 +7,7 @@ title: Awesome Rank for TalAter/awesome-progressive-web-apps
 	This list is a copy of <a href="https://github.com/TalAter/awesome-progressive-web-apps">TalAter/awesome-progressive-web-apps</a> with ranks
 </p>
 ---
-# Awesome Progressive Web Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Progressive Web Apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 A curated collection of Progressive Web Apps resources.
 
@@ -45,7 +45,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Learning Resources
 
 - [Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en) - A step-by-step guide to building a progressive web apps using the app shell pattern.
-- [Awesome Service Workers ★1106](https://github.com/TalAter/awesome-service-workers) - A collection of awesome resources for learning service workers.
+- [Awesome Service Workers ★1110](https://github.com/TalAter/awesome-service-workers) - A collection of awesome resources for learning service workers.
 - [Service Workers W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
 
 ## Browser Support
@@ -81,7 +81,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ### Service Workers
 
-- [Awesome Service Workers ★1106](https://github.com/TalAter/awesome-service-workers) - A curated collection of the finest service worker resources.
+- [Awesome Service Workers ★1110](https://github.com/TalAter/awesome-service-workers) - A curated collection of the finest service worker resources.
 
 ### CacheStorage API
 

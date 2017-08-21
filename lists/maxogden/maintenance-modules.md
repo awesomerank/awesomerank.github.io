@@ -7,7 +7,7 @@ title: Awesome Rank for maxogden/maintenance-modules
 	This list is a copy of <a href="https://github.com/maxogden/maintenance-modules">maxogden/maintenance-modules</a> with ranks
 </p>
 ---
-# maintenance-modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# maintenance-modules [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 [![NPM](https://nodei.co/npm/maintenance-modules.png)](https://www.npmjs.com/package/maintenance-modules)
 
@@ -31,7 +31,7 @@ JavaScript standard style checker/linter. No options allowed! Uses non-configura
 npm i standard --save-dev
 ```
 
-### [dependency-check ★314](https://github.com/maxogden/dependency-check) by [maxogden](https://www.npmjs.com/~maxogden)
+### [dependency-check ★317](https://github.com/maxogden/dependency-check) by [maxogden](https://www.npmjs.com/~maxogden)
 
 Checks which modules you have used in your code and then makes sure they are listed as dependencies in your package.json (or vice versa).
 
@@ -71,7 +71,7 @@ Tiny tool for releasing npm modules. Bumps, commits, tags, pushes and publishes.
 npm i npm-release --save-dev
 ```
 
-### [npm-check-updates ★3069](https://github.com/tjunnone/npm-check-updates) by [tjunnone](https://www.npmjs.com/~tjunnone)
+### [npm-check-updates ★3101](https://github.com/tjunnone/npm-check-updates) by [tjunnone](https://www.npmjs.com/~tjunnone)
 
 Find newer versions of dependencies than what your package.json allows.
 
@@ -87,7 +87,7 @@ Node Package Editor: a CLI for one-off inspection and editing of properties in p
 npm i npe -g
 ```
 
-### [package-json-to-readme ★195](https://github.com/zeke/package-json-to-readme) by [zeke](https://npmjs.org/~zeke)
+### [package-json-to-readme ★194](https://github.com/zeke/package-json-to-readme) by [zeke](https://npmjs.org/~zeke)
 
 Generate a README.md from package.json contents. With npm modules, lots of info can be gleaned from properties in the package.json file: name, description, scripts.test, preferGlobal, etc. That's why package-json-to-readme exists. Use it to generate a decent boilerplate README, then iterate from there. 
 
@@ -111,7 +111,7 @@ Release manager for npm, bower, component, PyPI, git tags, and any plugin you ca
 npm i foundry --save-dev
 ```
 
-### [semantic-release ★2772](https://github.com/semantic-release/semantic-release) by [boennemann](https://www.npmjs.com/~boennemann)
+### [semantic-release ★2790](https://github.com/semantic-release/semantic-release) by [boennemann](https://www.npmjs.com/~boennemann)
 
 Fully automate your package's releases. This will determine not only which version to release, but also when – all without you having to care about it ever again. The goal of this package is to remove humans from version numbers and releases. Check out the readme for more info!
 
@@ -151,7 +151,7 @@ Create a release for a node package on GitHub. Uses the Github Releases API to c
 npm i gh-release -g
 ```
 
-### [XO ★2828](https://github.com/sindresorhus/xo) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+### [XO ★2841](https://github.com/sindresorhus/xo) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
 JavaScript happiness style linter. Enforce strict code style. No decision-making. No config. It just works!
 
@@ -159,7 +159,7 @@ JavaScript happiness style linter. Enforce strict code style. No decision-making
 npm i xo -g
 ```
 
-### [np ★2310](https://github.com/sindresorhus/np) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
+### [np ★2402](https://github.com/sindresorhus/np) by [sindresorhus](https://www.npmjs.com/~sindresorhus)
 
 A better `npm publish`. Runs your tests before publishing, bumps version, pushes git commits/tags, and more.
 

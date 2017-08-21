@@ -7,9 +7,9 @@ title: Awesome Rank for watson/awesome-computer-history
 	This list is a copy of <a href="https://github.com/watson/awesome-computer-history">watson/awesome-computer-history</a> with ranks
 </p>
 ---
-# Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
+# Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
 
-A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing ★63395](https://github.com/sindresorhus/awesome).
+A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing ★63835](https://github.com/sindresorhus/awesome).
 
 [Pull Requests](https://github.com/watson/awesome-computer-history/edit/master/README.md) are welcome.
 
@@ -140,7 +140,7 @@ _Dramatized versions of real events_
 
 ## Source Code
 
-- [C compiler](https://www.bell-labs.com/usr/dmr/www/primevalC.html) (1972) - The earliest known versions of Dennis Ritchie's first C compiler ([GitHub code mirror ★1894](https://github.com/mortdeus/legacy-cc))
+- [C compiler](https://www.bell-labs.com/usr/dmr/www/primevalC.html) (1972) - The earliest known versions of Dennis Ritchie's first C compiler ([GitHub code mirror ★1902](https://github.com/mortdeus/legacy-cc))
 - [UNIX](https://github.com/dspinellis/unix-history-repo/tree/Research-Release) (1972) - Continuous Unix commit history from 1972 until today
 
 ## Websites

@@ -7,13 +7,13 @@ title: Awesome Rank for ooade/awesome-preact
 	This list is a copy of <a href="https://github.com/ooade/awesome-preact">ooade/awesome-preact</a> with ranks
 </p>
 ---
-# Awesome Preact [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Preact [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/ooade/awesome-preact/master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
 
-> A curated list of amazingly awesome things regarding [Preact ★11686](https://github.com/developit/preact) ecosystem :star2:
+> A curated list of amazingly awesome things regarding [Preact ★11810](https://github.com/developit/preact) ecosystem :star2:
 
-[Preact ★11686](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+[Preact ★11810](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## Contents
 - [Community](#community)
@@ -30,41 +30,41 @@ title: Awesome Rank for ooade/awesome-preact
 ### Community
 - [Slack](https://preact-slack.now.sh) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-- [Github ★11686](https://github.com/developit/preact)
+- [Github ★11810](https://github.com/developit/preact)
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
-- [Preact CLI ★1940](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds.
-- [nwb ★2404](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact.
+- [Preact CLI ★1984](https://github.com/developit/preact-cli) - Build a Preact Progressive Web App in seconds.
+- [nwb ★2443](https://github.com/insin/nwb) - Quick Development with React, Inferno or Preact.
 - [React App Rewire Preact](https://github.com/timarney/react-app-rewired/tree/master/packages/react-app-rewire-preact) - Use Preact with create-react-app without ejecting.
 - [Preact CLI PostCSS ★1](https://github.com/SaraVieira/preact-cli-postcss) - It removes the default postcss config on Preact CLI, so you can use postcss.config.js.
 
 ### Boilerplates
-- [Official Boilerplate ★551](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
-- [Preact Simple Starter ★41](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
-- [Preact Offline Starter ★291](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact.
+- [Official Boilerplate ★558](https://github.com/developit/preact-boilerplate) - Ready-to-rock Preact starter project, powered by Webpack.
+- [Preact Simple Starter ★42](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
+- [Preact Offline Starter ★295](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact.
 - [TypeScript Preact Starter ★13](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript.
 - [Preact Redux SSR Example ★12](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example.
-- [Preact PWA ★382](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
+- [Preact PWA ★387](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 
 ### Routing
-- [Preact Router ★239](https://github.com/developit/preact-router) - URL router for Preact.
+- [Preact Router ★248](https://github.com/developit/preact-router) - URL router for Preact.
 
 ### Components
-- [Preact Material Components ★150](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
+- [Preact Material Components ★152](https://github.com/prateekbh/preact-material-components) - Preact wrapper for "Material Components for the web".
 - [Preact Scroll Header ★26](https://github.com/lukeed/preact-scroll-header) - A (800b gzip) header that will show/hide while scrolling for Preact.
-- [Preact Progress ★35](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact.
+- [Preact Progress ★36](https://github.com/lukeed/preact-progress) - Simple and lightweight (~590 bytes gzip) progress bar component for Preact.
 - [Preact Compat](https://git.io/preact-compat) - Use any React library with Preact *([full example](http://git.io/preact-compat-example))*.
 - [Preact Render To String](https://git.io/preact-render-to-string) - Universal rendering.
 - [Preact Markup](https://git.io/preact-markup) - Render HTML & Custom Elements as JSX & Components.
 - [Preact Portal](https://git.io/preact-portal) - Render Preact components into (a) SPACE.
 - [Preact Richtextarea](https://git.io/preact-richtextarea) - Simple HTML editor component.
 - [Preact Token Input ★18](https://github.com/developit/preact-token-input) - Text field that tokenizes input, for things like tags.
-- [Preact Virtual List ★80](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
+- [Preact Virtual List ★82](https://github.com/developit/preact-virtual-list) - Easily render lists with millions of rows ([demo](https://jsfiddle.net/developit/qqan9pdo/)).
 - [Preact Cycle](https://git.io/preact-cycle) - Functional-reactive paradigm for Preact.
 - [Preact Layout](https://download.github.io/preact-layout/) - Small and simple layout library.
 - [Preact Socrates ★13 ⏳1Y](https://github.com/matthewmueller/preact-socrates) - Preact plugin for [Socrates](http://github.com/matthewmueller/socrates).
-- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - Use [flyd ★1072](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
+- [Preact Flyd](https://github.com/xialvjun/preact-flyd) - Use [flyd ★1078](https://github.com/paldepind/flyd) FRP streams in Preact + JSX.
 - [Preact I18nline](https://github.com/download/preact-i18nline) - Integrates the ecosystem around [i18n-js](https://github.com/everydayhero/i18n-js) with Preact via [i18nline ★7](https://github.com/download/i18nline).
 - [Preact MUI](https://git.io/v1aVO) - The MUI CSS Preact library.
 - [Preact MDL](https://git.io/preact-mdl) - Use [MDL](https://getmdl.io) as Preact components.
@@ -74,7 +74,7 @@ title: Awesome Rank for ooade/awesome-preact
 - [Shallow Compare ★17](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
 - [Preact Photon](https://git.io/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
 - [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
-- [Preact Codemod ★20](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
+- [Preact Codemod ★22](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
 - [Preact Helmet ★20](https://github.com/download/preact-helmet) - A document head manager for Preact.
 - [Preact Delegate ★13](https://github.com/NekR/preact-delegate) - Delegate DOM events.
 - [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - Skip Server Side Rendering of Components.
@@ -82,7 +82,7 @@ title: Awesome Rank for ooade/awesome-preact
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.
-- [Preact Render Spy ★56](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
+- [Preact Render Spy ★63](https://github.com/mzgoddard/preact-render-spy) - Render Preact components with access to the produced virtual dom for testing.
 
 ### Articles
 - [WTF is JSX](https://jasonformat.com/wtf-is-jsx/)
@@ -94,15 +94,15 @@ title: Awesome Rank for ooade/awesome-preact
 - [Authentication with Auth0](https://auth0.com/blog/preact-authentication-tutorial)
 
 ### Example Apps
-- [Preact HN ★216](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
-- [TodoMVC ★34](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
+- [Preact HN ★221](https://github.com/kristoferbaxter/preact-hn) - Demonstration of Preact used to build Hacker News as a PWA.
+- [TodoMVC ★35](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
 - [Colors App ★71](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
 - [Tracks ★5](https://github.com/jordic/tracks_preact) - PWA for tracking things in general. Gdrive Sync.
 
 ### Related Libraries
-- [React ★72742](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
-- [Inferno ★10721](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
-- [Rax ★3161](https://github.com/alibaba/rax) - A universal React-compatible render engine.
+- [React ★73305](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [Inferno ★10764](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
+- [Rax ★3189](https://github.com/alibaba/rax) - A universal React-compatible render engine.
 
 ### Tips
 Contribute some ;)

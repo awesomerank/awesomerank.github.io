@@ -9,9 +9,9 @@ title: Awesome Rank for dylanrees/citizen-science
 ---
 # Digital Tools for Citizen Science
 
-Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository ★478](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
+Below is a curated list of awesome software and other resources to enable those who want to use scientific tools to empower communities and/or practice various forms of non-institutional science.  It is largely inspired by [this repository ★492](https://github.com/drewrwilson/toolsforactivism) listing digital tools for activists.  Feel free to share suggestions. If you add software to the list, free and open-source software is strongly encouraged over proprietary software.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 ## Contents
 
@@ -53,7 +53,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Zotero](https://www.zotero.org/) - Open-source citation management software.
  * [TiddlyWiki](http://tiddlywiki.com/) - Easily create your own wikis to organize information.
  * [Evergreen ILS](http://evergreen-ils.org/) - Software for managing a library of books (and the loaning process).
- * [ISLE ★201](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
+ * [ISLE ★203](https://github.com/nasa/isle) - Open-source laboratory equipment inventory management system developed by NASA.
  * [GanttProject](http://www.ganttproject.biz/) - Productivity tool for scheduling tasks and making Gantt charts.
  * [Open Science Framework](https://osf.io/) - Open-source collaborative project manager for scientific research.
  * [Calibre](http://calibre-ebook.com/) - eBook management software.

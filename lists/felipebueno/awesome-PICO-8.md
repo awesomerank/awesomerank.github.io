@@ -7,7 +7,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 	This list is a copy of <a href="https://github.com/felipebueno/awesome-PICO-8">felipebueno/awesome-PICO-8</a> with ranks
 </p>
 ---
-# Awesome PICO-8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome PICO-8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 
 ![PICO-8](http://www.lexaloffle.com/gfx/p8_jelpi.gif)
@@ -80,7 +80,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 - [Color Palette](http://www.romanzolotarev.com/pico-8-color-palette/) - Hex and RGB colors codes for web.
 - [PICO-8 font](https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view) - by [RhythmLynx](http://www.lexaloffle.com/bbs/?uid=11704).
 - [pico-test ★10 ⏳1Y](https://github.com/jozanza/pico-test) - PICO-8 testing framework.
-- [Lib-Pico8 ★55](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
+- [Lib-Pico8 ★56](https://github.com/clowerweb/Lib-Pico8) - A Pico-8 library of useful common functions.
 - [pico8-missing-builtins ★8 ⏳1Y](https://github.com/adamscott/pico8-missing-builtins) - Provides Lua built-in functions to pico8.
 - [P8Coder ★23](https://github.com/movAX13h/P8Coder) - A programming tool that replaces the lua code in pico-8 cartridges (p8) with the code you write in P8Coder.
 
@@ -123,8 +123,8 @@ How to install the font(s):
 ## Clones
 - [TIC-80 by Nesbox](https://nesbox.itch.io/tic) - Tiny Computer, available on HTML 5, Windows, Linux 32/64bit, Android & MacOSX         
 - [PicoLove ★44](https://github.com/gamax92/picolove) - Pico-8 Reimplementation in LÖVE.
-- [LIKO-12 ★219](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
-- [PX8 ★601](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
+- [LIKO-12 ★225](https://github.com/RamiLego4Game/LIKO-12) - An open source fantasy computer made using LÖVE with 96kb RAM.
+- [PX8 ★606](https://github.com/Gigoteur/PX8) - Open Source Fantasy Console (128x128 pixels) in Rust (with Python/LUA code support).
 
 ## I Want to Contribute!
 

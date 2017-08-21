@@ -7,20 +7,20 @@ title: Awesome Rank for refinerycms-contrib/awesome-refinerycms
 	This list is a copy of <a href="https://github.com/refinerycms-contrib/awesome-refinerycms">refinerycms-contrib/awesome-refinerycms</a> with ranks
 </p>
 ---
-# Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, resources and shiny things.
 
 ## Frontoffice extensions
 * [refinerycms-copywriting ★54 ⏳1Y](https://github.com/unixcharles/refinerycms-copywriting) - Write once, display at the infinite
-* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch ★1244](https://github.com/elastic/elasticsearch-ruby)
+* [refinerycms-elasticsearch](https://github.com/refinerycms-contrib/refinerycms-elasticsearch) - Fulltext search with [Elasticsearch ★1247](https://github.com/elastic/elasticsearch-ruby)
 * [refinerycms-image-slideshows](https://github.com/bisscomm/refinerycms-image-slideshows) - Display slideshows
 * [refinerycms-jobs](https://github.com/bisscomm/refinerycms-jobs) - Job Posting and Job Applications
 * [refinerycms-products ★6](https://github.com/bisscomm/refinerycms-products) - Display products
 * [refinerycms-retailers ★3 ⏳1Y](https://github.com/bisscomm/refinerycms-retailers) - Display retailers
 * [refinerycms-teams ★3 ⏳1Y](https://github.com/bisscomm/refinerycms-teams) - Display teams
 * [refinerycms-testimonials ★2](https://github.com/anitagraham/refinerycms-testimonials) - Manage and display testimonials
-* [refinerycms-videos ★2 ⏳1Y](https://github.com/bisscomm/refinerycms-videos) - Basic display of Youtube videos
+* [refinerycms-videos ★2](https://github.com/bisscomm/refinerycms-videos) - Basic display of Youtube videos
 
 ## Backoffice extensions
 * [refinerycms-dynamicfields ★14 ⏳1Y](https://github.com/jfalameda/refinerycms-dynamicfields) - Create models dynamically and attach them to pages
@@ -31,10 +31,10 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [refinerycms-tinymce ★3](https://github.com/ghoppe/refinerycms-tinymce) - TinyMCE Visual Editing
 
 
-## [Solidus e-commerce ★1487](https://github.com/solidusio/solidus) + Refinery extensions
+## [Solidus e-commerce ★1494](https://github.com/solidusio/solidus) + Refinery extensions
 * [solidus-refinery-authentication ★6 ⏳1Y](https://github.com/refinerycms-contrib/solidus-refinery-authentication) - Shared auth between Solidus and Refinery
 
-## [Spree e-commerce ★8617](https://github.com/spree/spree) + Refinery extensions
+## [Spree e-commerce ★8640](https://github.com/spree/spree) + Refinery extensions
 * [spree_refinery_resources ★1 ⏳1Y](https://github.com/bisscomm/spree_refinery_resources) - Attach resources (files) to a Spree::Product
 * [spree-refinery-authentication ★8 ⏳1Y](https://github.com/refinerycms-contrib/spree-refinery-authentication) - Shared auth between Spree and Refinery
 

@@ -7,10 +7,10 @@ title: Awesome Rank for yissachar/awesome-dart
 	This list is a copy of <a href="https://github.com/yissachar/awesome-dart">yissachar/awesome-dart</a> with ranks
 </p>
 ---
-Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 ============
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) lists.
 
 ### Contributing
 
@@ -18,47 +18,49 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 ### Contents
 
-* [Client Web App Frameworks](#client-web-app-frameworks)
-* [Server Frameworks](#server-frameworks)
-* [Game Development](#game-development)
-* [Animation](#animation)
-* [Template](#template)
-* [Database](#database)
-* [Package Managers](#package-managers)
-* [Utilities](#utilities)
-* [Dependency Injection](#dependency-injection)
-* [Parsers](#parsers)
-* [Validation](#validation)
-* [ORM](#orm)
-* [Image](#image)
-* [Algorithms](#algorithms)
-* [Testing](#testing)
+* Libraries
+  * [Client Web App Frameworks](#client-web-app-frameworks)
+  * [Server Frameworks](#server-frameworks)
+  * [Game Development](#game-development)
+  * [Animation](#animation)
+  * [Template](#template)
+  * [Database](#database)
+  * [Package Managers](#package-managers)
+  * [Utilities](#utilities)
+  * [Dependency Injection](#dependency-injection)
+  * [Parsers](#parsers)
+  * [Validation](#validation)
+  * [ORM](#orm)
+  * [Image](#image)
+  * [Algorithms](#algorithms)
+  * [Testing](#testing)
 * [Tools](#tools)
 * [IDEs, Editors, and Plugins](#ides-editors-and-plugins)
 * [Tutorials](#tutorials)
+* [Community](#community)
 * [Everything Else](#everything-else)
 
 ----
 
 ## Client Web App Frameworks
 
-* [Angular](https://angulardart.org/) - Angular is a framework for building client web-apps.
-* [Angular2](https://angular.io/) - Angular is a development platform for building mobile and desktop web applications.
+* [AngularDart](https://angulardart.org/) - AngularDart is a development platform for building mobile and desktop web applications
+* [Flutter](https://flutter.io/) - Flutter is a development platform for building mobile applications.
 * [Polymer](https://www.dartlang.org/polymer/) - Use polymer to build structured, encapsulated, client-side web apps with web components.
-* [uix ★73](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
+* [uix ★74](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
 * [MDL/Dart](http://www.material-design-lite.pub/) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
 
 ## Server Frameworks
 
-* [Jaguar ★26](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensiblity.
-* [Angel ★123](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve.
-* [Aqueduct ★186](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support.
+* [Jaguar ★27](https://github.com/Jaguar-dart/jaguar) - A server framework built for speed, simplicity and extensiblity.
+* [Angel ★125](https://github.com/angel-dart/angel) - Angel is a server-side framework designed for full-stack development, with an emphasis on code sharing, scalability, and a low learning curve.
+* [Aqueduct ★187](https://github.com/stablekernel/aqueduct) - Aqueduct is a fully-featured server-side framework, with an ORM, database migration tools, OAuth 2.0 implementation, automatic OpenAPI specification generation and multi-threading support.
 * [Redstone ★269](https://github.com/redstone-dart/redstone) - Redstone is a server-side, metadata driven micro-framework for Dart.
 * [Start ★389](https://github.com/lvivski/start) - Sinatra inspired web framework to serve static files, handle dynamic requests, websockets and create JSON responses.
 * [Express ★104 ⏳2Y](https://github.com/dartist/express) - A simple, thin expressjs inspired layer around Dart's primitive HttpServer APIs.
 * [Shelf](https://pub.dartlang.org/packages/shelf) - Shelf makes it easy to create and compose web servers and parts of web servers.
     * There are many packages written for Shelf. By convention they start with [shelf_](https://pub.dartlang.org/search?q=shelf_)
-* [Force ★82 ⏳1Y](https://github.com/ForceUniverse/dart-force) - A real time web framework, embracing websockets, making communication even better
+* [Force ★83 ⏳1Y](https://github.com/ForceUniverse/dart-force) - A real time web framework, embracing websockets, making communication even better
 * [Vane ★24](https://github.com/Scorpiion/Vane) - Framework with built-in server runtime environment and middleware system
 * [Rikulo Stream ★143](https://github.com/rikulo/stream) - Lightweight web server with request routing, filtering, template engine, WebSocket, MVC design pattern, and file-based static resources
 
@@ -76,8 +78,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 ## Template
 
-* [mustache4dart ★36](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache.
-* [jaded ★32 ⏳3Y](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
+* [mustache4dart ★37](https://github.com/valotas/mustache4dart) - A simple implementation of Mustache.
+* [jaded ★31 ⏳3Y](https://github.com/dartist/jaded) - Port of the excellent Jade view engine.
 
 ## Database
 
@@ -93,7 +95,6 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 ## Utilities
 
-* [Flutter ★1001](https://github.com/flutter/engine) - Flutter is a new way to build high-performance, cross-platform mobile apps, allowing you to write applications for Android and iOS.
 * [Quiver ★146](https://github.com/google/quiver-dart) - A set of utility libraries that makes using many libraries easier and more convenient, or adds additional functionality.
 * [route_hierarchical ★30](https://github.com/angular/route.dart) - Route is a client routing library for Dart that helps make building single-page web apps.
 * [Archive](https://pub.dartlang.org/packages/archive) - A library to encode and decode various archive and compression formats.
@@ -139,7 +140,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory is a tool for profiling and debugging your Dart applications.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
 * [js2dart ★16 ⏳2Y](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
-* [Stagehand ★202](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
+* [Stagehand ★204](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [Crossdart](http://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).
 * [gulp-dart ★3 ⏳1Y](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.
@@ -149,6 +150,13 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 * [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
 * [Darrrt](https://www.dartlang.org/codelabs/darrrt/) - Web app code lab.
+
+## Community
+
+* [Dartlang SubReddit](https://www.reddit.com/r/dartlang/)
+* [Gitter Chat Channel](https://gitter.im/dart-lang/home)
+* [Google Group](https://groups.google.com/a/dartlang.org/d/forum/misc)
+* [Stack Overflow](http://stackoverflow.com/tags/dart)
 
 ## IDEs, Editors, and Plugins
 

@@ -7,7 +7,7 @@ title: Awesome Rank for passy/awesome-recursion-schemes
 	This list is a copy of <a href="https://github.com/passy/awesome-recursion-schemes">passy/awesome-recursion-schemes</a> with ranks
 </p>
 ---
-# Awesome Recursion Schemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Recursion Schemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 > A curation of useful resources for learning about and using recursion schemes.
 
@@ -75,7 +75,7 @@ title: Awesome Rank for passy/awesome-recursion-schemes
   Presented by Anthony Burzillo at the NYC Haskell User's Group.
 - [A Gentle Introduction to Recursion Schemes](https://www.youtube.com/watch?v=i5A2Amfcir8) -
   Presented by Jean Remi Desjardins at Lambdaconf 2016.
-- [resion-scheme-talk ★81](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes.
+- [resion-scheme-talk ★82](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes.
 - [Bracer: Transforming Real-World Languages with Coproducts and Recursion Schemes](https://www.youtube.com/watch?v=5Kr7IykGMzU) - High-level talk about structuring programs with coproducts and recursion schemes by Patrick Thomson.
 - [Recursion: Where Functional Programming Hits Bottom](https://www.youtube.com/watch?v=24UoRaoKLjM) - Introduction to recursive fix point data structures and recursion schemes in Haskell and Scala by Greg Pfeil.
 - [Programming with algebras](https://www.youtube.com/watch?v=-98fR9VmLbQ) - Bartosz Milewski's article in talk form, presented at LambdaCon.
@@ -91,9 +91,9 @@ title: Awesome Rank for passy/awesome-recursion-schemes
 
 - [recursion-schemes ★61](https://github.com/ekmett/recursion-schemes) for
   Haskell - The canonical implementation by Edward Kmett.
-- [Matryoshka ★396](https://github.com/slamdata/matryoshka) for Scala -
+- [Matryoshka ★402](https://github.com/slamdata/matryoshka) for Scala -
   Generalized folds, unfolds, and traversals for fixed point data structures.
-- [purescript-matryoshka ★26](https://github.com/slamdata/purescript-matryoshka) for PureScript -
+- [purescript-matryoshka ★27](https://github.com/slamdata/purescript-matryoshka) for PureScript -
   Work-in-process port of matryoshka.
 
 ## License

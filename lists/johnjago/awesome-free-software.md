@@ -7,13 +7,13 @@ title: Awesome Rank for johnjago/awesome-free-software
 	This list is a copy of <a href="https://github.com/johnjago/awesome-free-software">johnjago/awesome-free-software</a> with ranks
 </p>
 ---
-# Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
-[<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="115">](https://www.gnu.org/)
+[<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="205">](https://www.gnu.org/)
 
 > A curated list of free as in freedom software.
 
-[What is free software?](https://www.gnu.org/philosophy/free-sw.html)
+Free software is distributed under terms that allow users to run the program for any purpose, study the source code, modify it, and distribute the software. These programs respect users' freedom and build community. [Learn more about free software](https://www.gnu.org/philosophy/free-sw.html).
 
 ## Contents
 
@@ -216,7 +216,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Backbone.js](http://backbonejs.org/) - Provides a minimal structure for JavaScript in web applications. ([MIT](https://github.com/jashkenas/backbone/blob/master/LICENSE))
 - [HyperApp](https://hyperapp.glitch.me/) - One kilobyte JavaScript library with virtual DOM. ([MIT](https://github.com/hyperapp/hyperapp/blob/master/LICENSE.md))
-- [Nano ★117 ⏳1Y](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
+- [Nano ★118 ⏳1Y](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
 
 ## Hardware
 > Libre-friendly.

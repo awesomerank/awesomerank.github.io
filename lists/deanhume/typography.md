@@ -7,7 +7,7 @@ title: Awesome Rank for deanhume/typography
 	This list is a copy of <a href="https://github.com/deanhume/typography">deanhume/typography</a> with ranks
 </p>
 ---
-# Awesome Web Typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)  [![Build Status](https://api.travis-ci.org/deanhume/typography.svg?branch=master)](https://travis-ci.org/deanhume/typography)
+# Awesome Web Typography [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)  [![Build Status](https://api.travis-ci.org/deanhume/typography.svg?branch=master)](https://travis-ci.org/deanhume/typography)
 
 
 A curated collection of awesome web typography articles.
@@ -69,10 +69,10 @@ A curated collection of awesome web typography articles.
 - [Font Face and Performance](http://www.stevesouders.com/blog/2009/10/13/font-face-and-performance/)
 - [Normalize-Opentype.css - Adds OpenType features—ligatures, kerning, and more—to Normalize.css.](https://github.com/kennethormandy/normalize-opentype.css)
 - [Type­set.js - A typographic pre-processor for your html which uses zero client-side JavaScript](https://blot.im/typeset/)
-- [brick.im ★2847](https://github.com/alfredxing/brick)
+- [brick.im ★2849](https://github.com/alfredxing/brick)
 - [Typebase.css](http://devinhunt.github.io/typebase.css/)
 - [Google WebFonts Helper](https://google-webfonts-helper.herokuapp.com/fonts/aguafina-script?subsets=latin)
-- [Using Custom Fonts in Emails ★32](https://github.com/crocodilejs/custom-fonts-in-emails)
+- [Using Custom Fonts in Emails ★33](https://github.com/crocodilejs/custom-fonts-in-emails)
 
 ## Books
 - [On Web Typography](https://abookapart.com/products/on-web-typography)

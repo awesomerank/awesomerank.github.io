@@ -7,13 +7,13 @@ title: Awesome Rank for nirgn975/awesome-drupal
 	This list is a copy of <a href="https://github.com/nirgn975/awesome-drupal">nirgn975/awesome-drupal</a> with ranks
 </p>
 ---
-# Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Drupal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 [<img src="https://raw.githubusercontent.com/nirgn975/awesome-drupal/master/icon-drupal.png" align="right" width="90">](https://www.drupal.org)
 
 > [Drupal](https://www.drupal.org) is a free and open source CMS written in PHP and distributed under the GNU General Public License, provides a back-end for Web sites worldwide – ranging from personal blogs to corporate, political, and government sites.
 
-You might also like [awesome-php ★16135](https://github.com/ziadoz/awesome-php).
+You might also like [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
 
 
 ## Contents
@@ -32,7 +32,7 @@ You might also like [awesome-php ★16135](https://github.com/ziadoz/awesome-php
 
 ## Tools
 
-- [Yo Hedley! ★105](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
+- [Yo Hedley! ★106](https://github.com/Gizra/generator-hedley) - Scaffold a headless Drupal backend, Angular app client, and Behat tests.
 
 
 ## Modules

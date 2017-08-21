@@ -7,7 +7,7 @@ title: Awesome Rank for dariubs/GoBooks
 	This list is a copy of <a href="https://github.com/dariubs/GoBooks">dariubs/GoBooks</a> with ranks
 </p>
 ---
-Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
@@ -46,7 +46,7 @@ This companion book contains material initially written specifically for this ev
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github ★194](https://github.com/miekg/learninggo).
+The [markdown source is available on Github ★195](https://github.com/miekg/learninggo).
 
 ### [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers) *Free*
 
@@ -207,7 +207,7 @@ At each step, you’ll get advice for better coding in Go. You’ll see how to s
 
 Go Web Programming teaches you how to build web applications in Go using modern design principles. You'll work through numerous examples that introduce core concepts like processing requests and sending responses, template engines, and data persistence. You'll also dive into more advanced topics, such as concurrency, web application testing and deployment both to barebones servers and PaaS providers.
 
-### [Webapps in Go the anti textbook ★1743](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
+### [Webapps in Go the anti textbook ★1749](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) *Free*
 
 <img src="https://github.com/thewhitetulip/web-dev-golang-anti-textbook/raw/master/cover.jpg" width="120px"/>
 

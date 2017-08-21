@@ -7,7 +7,7 @@ title: Awesome Rank for beaconinside/awesome-beacon
 	This list is a copy of <a href="https://github.com/beaconinside/awesome-beacon">beaconinside/awesome-beacon</a> with ranks
 </p>
 ---
-# Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open source projects, libraries, tools and tutorials. This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.com) project.
 
@@ -17,7 +17,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 > **Eddystone** A platform for marking up the world to make your apps and devices work smarter by providing timely, contextual information.
 
 * [Google Developers Beacons Portal](https://developers.google.com/beacons/)
-* [Eddystone Protocol Specification & Tools ★2475](https://github.com/google/eddystone)
+* [Eddystone Protocol Specification & Tools ★2489](https://github.com/google/eddystone)
 * Advertising frame types
   * [Eddystone-UID](https://github.com/google/eddystone/tree/master/eddystone-uid)
   * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm)
@@ -78,7 +78,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Empowering vision impaired people to navigate the world independently](https://www.wayfindr.net) (an open standard)
 * [Google Glass & Beacons ★4 ⏳2Y](https://github.com/tmwagency/Glasstimote)
 * [10 awesome things you can do today with iBeacons](http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons) (by Twocanoes)
-* [PunchClock ★1705 ⏳1Y](https://github.com/panicinc/PunchClock) An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
+* [PunchClock ★1706 ⏳1Y](https://github.com/panicinc/PunchClock) An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
 * [The Geofancy iOS app](https://github.com/LocativeHQ/ios-app) Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.
 * [LaunchHere for iOS - iBeacon based app shortcuts](http://launchhere.awwapps.com/)
 
@@ -106,15 +106,15 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [iOS Eddystone Scanner Sample Application ](https://github.com/google/eddystone/tree/master/tools/ios-eddystone-scanner-sample)
 * [Swift based iBeacon App Development with CoreLocation on Apple iOS 7/8](http://ibeaconmodules.us/blogs/news/14702963-getting-started-developing-ibeacon-apps-with-swift-on-apple-ios-7-8)
 * [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
-* [HiBeacons ★1086](https://github.com/nicktoumpelis/HiBeacons) A nice iBeacon demo app in Swift.
+* [HiBeacons ★1087](https://github.com/nicktoumpelis/HiBeacons) A nice iBeacon demo app in Swift.
 * [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/)
-* [iOS & OSX Bluetooth library for RxSwift ★587](https://github.com/Polidea/RxBluetoothKit)
+* [iOS & OSX Bluetooth library for RxSwift ★589](https://github.com/Polidea/RxBluetoothKit)
 * [JMCiBeaconManager ★132 ⏳1Y](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby.
 
 ## Objective-C
 
 * [Generic iBeacon Management and Utilities by KinveyLabs](https://github.com/KinveyLabs/KCSIBeacon/)
-* [Replicates detecting and broadcasting iBeacons in the background ★362](https://github.com/Instrument/Vicinity)
+* [Replicates detecting and broadcasting iBeacons in the background ★362 ⏳1Y](https://github.com/Instrument/Vicinity)
 
 
 ## Stackoverflow Q&A
@@ -142,18 +142,18 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [Android Lolipop Bluetooth Low Energy Enhancements.](https://developer.android.com/about/versions/android-5.0.html) Support OS-level scan filter & peripheral mode.
 * [iBeacon Scanner for Android ★21](https://github.com/inthepocket/ibeacon-scanner-android), [Docs](https://github.com/inthepocket/ibeacon-scanner-android/wiki) & [Blog post](http://developer.inthepocket.mobi/2016/11/24/ibeacon-scanner-android/)
-* [Android beacon library based on AltBeacon. ★1639](https://github.com/AltBeacon/android-beacon-library) Use a custom beacon parser for iBeacon device compatibility.
-* [BeaconKeeper ★137](https://github.com/m039/beacon-keeper) The simple library for locating iBeacons in background
+* [Android beacon library based on AltBeacon. ★1660](https://github.com/AltBeacon/android-beacon-library) Use a custom beacon parser for iBeacon device compatibility.
+* [BeaconKeeper ★138](https://github.com/m039/beacon-keeper) The simple library for locating iBeacons in background
 * [Android iBeacon Patterns](http://blog.surecase.eu/androidbeaconpatterns/)
 * [Android & BLE](https://developer.android.com/guide/topics/connectivity/bluetooth-le.html)
 * [DevBytes: Bluetooth Low Energy API in Android 4.3](https://www.youtube.com/watch?v=vUbFB1Qypg8)
 * [BLE SDK for Android ★153](https://github.com/RedBearLab/Android)
-* [Bluetooth LE Library for Android ★643](https://github.com/alt236/Bluetooth-LE-Library---Android)
+* [Bluetooth LE Library for Android ★645](https://github.com/alt236/Bluetooth-LE-Library---Android)
 
 ## Beacon Scanner Apps
 
 * [iBeacon Scanner](https://play.google.com/store/apps/details?id=be.createweb.beaconscanner) & [code ★1](https://github.com/eliaslecomte/ibeacon-scanner-app)
-* [Beacon Scanner & Logger ★36](https://github.com/justinodwyer/Beacon-Scanner-and-Logger) Android app that scans for BLE Beacons/iBeacons and logs the results to a file
+* [Beacon Scanner & Logger ★37](https://github.com/justinodwyer/Beacon-Scanner-and-Logger) Android app that scans for BLE Beacons/iBeacons and logs the results to a file
 * [iBeacon Detector](https://play.google.com/store/apps/details?id=youten.redo.ble.ibeacondetector&hl=de)
 * [Bluetooth 4.0 Scanner](https://play.google.com/store/apps/details?id=com.bluemotionlabs.bluescan&hl=de)
 * [Beacon Keeper](https://play.google.com/store/apps/details?id=com.m039.beacon.keeper.app)
@@ -170,15 +170,15 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Cordova, Phonegap, Xamarin, Titanium
 
-* [Cordova iBeacon Plugin ★618](https://github.com/petermetz/cordova-plugin-ibeacon)
+* [Cordova iBeacon Plugin ★620](https://github.com/petermetz/cordova-plugin-ibeacon)
 * [Using iBeacon with Xamarin.iOS and Xamarin.Android](http://de.slideshare.net/glennthomasstephens/ibeacon-support)
-* [iBeacon advertising and scanning in a Titanium module ★144](https://github.com/jbeuckm/TiBeacons)
+* [iBeacon advertising and scanning in a Titanium module ★145](https://github.com/jbeuckm/TiBeacons)
 
 
 
 # OS X
 
-* [iBeacon Scanning Utility App for OSX ★387](https://github.com/mlwelles/BeaconScanner)
+* [iBeacon Scanning Utility App for OSX ★393](https://github.com/mlwelles/BeaconScanner)
 * [iBeacon Scanner - Scan for nearby iBeacons regardless of their UUID ★136 ⏳2Y](https://github.com/liamnichols/iBeaconScanner)
 * [Beacon OSX ★860 ⏳2Y](https://github.com/mttrb/BeaconOSX) - Mavericks as an iBeacon
 * [Electron Physical Web Scan](https://github.com/dermike/electron-physical-web-scan) - Mac OSX desktop app to scan for Physical Web (Eddystone) bluetooth beacons
@@ -186,14 +186,14 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Linux
 
-* [Python script for scanning and advertising urls over Eddystone-URL ★25](https://github.com/nirmankarta/PyBeacon)
+* [Python script for scanning and advertising urls over Eddystone-URL ★26](https://github.com/nirmankarta/PyBeacon)
 * [Dependency-free Eddystone-URL advertisement for embedded linux ★1](https://github.com/superscale/bacon)
 
 # Node.js
 
 * [Node-RED nodes to interact with the Physical Web](http://flows.nodered.org/node/node-red-node-physical-web)
-* [A node.js BLE (Bluetooth low energy) central module ★1667](https://github.com/sandeepmistry/noble)
-* [A node.js module for implementing BLE (Bluetooth low energy) peripherals ★1090](https://github.com/sandeepmistry/bleno)
+* [A node.js BLE (Bluetooth low energy) central module ★1689](https://github.com/sandeepmistry/noble)
+* [A node.js module for implementing BLE (Bluetooth low energy) peripherals ★1104](https://github.com/sandeepmistry/bleno)
 
 
 # Bluetooth Low Energy
@@ -214,7 +214,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 ## Web Bluetooth API
 
 * [Web Bluetooth Intro](https://dev.opera.com/articles/web-bluetooth-intro/) by Opera
-* [Web Bluetooth Demos ★220](https://github.com/WebBluetoothCG/demos)
+* [Web Bluetooth Demos ★222](https://github.com/WebBluetoothCG/demos)
 
 # Beacon Developer Kits & BLE Chips
 

@@ -7,7 +7,7 @@ title: Awesome Rank for feross/awesome-mad-science
 	This list is a copy of <a href="https://github.com/feross/awesome-mad-science">feross/awesome-mad-science</a> with ranks
 </p>
 ---
-# Awesome Mad Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Mad Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 Delightful npm packages that make you say "wow, didn't know that was possible!" PRs welcome!
 
@@ -22,7 +22,7 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [brfs](https://www.npmjs.com/package/brfs) - turn `fs.readFileSync()` calls into inlined static assets
 - [browser field spec](https://gist.github.com/defunctzombie/4339901) - replace certain files/modules when a module is bundled for the browser
 - [browserify](https://npmjs.org/package/browserify) - use `require()` in the browser
-- [glslify ★716](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders
+- [glslify ★718](https://github.com/stackgl/glslify) - npm modules compiled into WebGL shaders
 - [webworkify](https://www.npmjs.com/package/webworkify) - composable web workers for browserify
 
 ## files
@@ -67,14 +67,14 @@ Delightful npm packages that make you say "wow, didn't know that was possible!" 
 - [minimist](https://www.npmjs.com/package/minimist) - simple argument parser
 - [progress](https://www.npmjs.com/package/progress) - create a simple terminal progress bar
 - [terminal-menu](https://www.npmjs.com/package/terminal-menu) - create retro terminal menus
-- [vantage.js ★3327](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node
-- [cash ★7312](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6
+- [vantage.js ★3331](https://github.com/dthree/vantage) - CLI + SSH + REPL for Node
+- [cash ★7320](https://github.com/dthree/cash) - Cross-platform Linux commands in pure ES6
 
 ## virtual machines
-- [jsemu ★807](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript
+- [jsemu ★810](https://github.com/fcambus/jsemu) - A list of emulators written in the JavaScript
 - [jslinux](https://www.npmjs.com/package/jslinux) - x86 emulator for running Linux, written in JavaScript
 - [jvm](https://www.npmjs.com/package/node-jvm) - java virtual machine in pure node.js
-- [doppio ★1665](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript
+- [doppio ★1670](https://github.com/plasma-umass/doppio) - actively updated jvm in node.js, written in TypeScript
 
 ## misc
 - [bell.js](https://www.npmjs.com/package/bell.js) - real-time anomalies detection for periodic time series.

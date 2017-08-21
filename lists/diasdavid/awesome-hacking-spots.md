@@ -7,10 +7,10 @@ title: Awesome Rank for diasdavid/awesome-hacking-spots
 	This list is a copy of <a href="https://github.com/diasdavid/awesome-hacking-spots">diasdavid/awesome-hacking-spots</a> with ranks
 </p>
 ---
-Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 ===============================
 
-> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★63395](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★63835](https://github.com/sindresorhus/awesome) thing.
 
 ## Index
 
@@ -70,9 +70,11 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
 - [Spain 🇪🇸](#spain-)
   - [Barcelona](#barcelona)
   - [Oviedo](#oviedo)
+- [Sweden 🇸🇪](#sweden-)
+  - [Stockholm](#stockholm)
 - [Turkey 🇹🇷](#turkey-)
   - [Istanbul](#istanbul)
-- [United Kingdom 🇺🇰](#united-kingdom-)
+- [United Kingdom 🇬🇧](#united-kingdom-)
   - [Scotland](#scotland)
     - [Edinburgh](#edinburgh)
 - [United States 🇺🇸](#united-states-)
@@ -401,6 +403,17 @@ Wifi | Power | Address | Open Hours
 # Germany 🇩🇪
 
 ## Berlin
+
+#### c-base
+
+> A weird old hackspace that masquerades as an alien ship, or vice versa. Good for hacking in dark corners with lots of Club Mate. Non-smoker not friendly. You may need a member to let you in, or to stay for a longer period of time.
+
+Webpage: https://www.c-base.org/  
+Wikipedia: https://en.wikipedia.org/wiki/C-base
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Rungestraße 20, 10179 Berlin, Germany](https://goo.gl/maps/KuJq77w99Tn) | Variable
 
 #### Schiller Bar
 
@@ -1006,6 +1019,35 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Calle Rosal, 13, 33009 Oviedo, Asturias](hhttps://goo.gl/maps/btPUB2EHodR2) |
 
 ![](http://www.speedtest.net/result/5453643373.png)
+
+---------------------------------------------------------------
+---------------------------------------------------------------
+
+# Sweden 🇸🇪
+
+> In general, you can go to any Wayne's Coffee or Espresso House to get wifi and a power point. Wayne's Coffee wifi is usually a bit spotty compared with the Espresso Houses that I tried, and Espresso House often caters for laptop users with power points under chairs or near tables.
+
+## Stockholm
+
+#### Café Fåtöljen
+
+> Coffee is okay. Open access point, ~7mbit down on average, 1mbit up. Ample power. Very quiet and very close to the metro.
+
+Webpage: http://cafefatoljen.com
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔    | ✔     | Götgatan 14, 118 46 Stockholm, Sweden | 9–23 
+
+#### Café Pascal
+
+> The shared wifi at the time was 200mbit down, 40mbit up. Excellent food, excellent coffee. Not a good long term working spot, but great to upload an iOS app while eating and drinking brilliant food.
+
+Webpage: https://cafepascal.se
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔    | Some  | Norrtullsgatan 4, 113 29 Stockholm, Sweden | 7–19 
 
 ---------------------------------------------------------------
 ---------------------------------------------------------------

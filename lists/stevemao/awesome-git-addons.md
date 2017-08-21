@@ -7,7 +7,7 @@ title: Awesome Rank for stevemao/awesome-git-addons
 	This list is a copy of <a href="https://github.com/stevemao/awesome-git-addons">stevemao/awesome-git-addons</a> with ranks
 </p>
 ---
-# Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome git addons [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 A curated list of add-ons that extend/enhance the git CLI.
 
@@ -18,7 +18,7 @@ Something awesome happens!
 
 > _“You don’t have to know everything. You simply need to know where to find it when necessary.” (John Brunner)_
 
-Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list thing.
 
 **Note**: Some of the commands may not work out of the box. You might need to run a post install script to add aliases or add them manually.
 
@@ -64,7 +64,7 @@ Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list
 - [Commitizen](#commitizen)
 
 
-## [git-extras ★10298](https://github.com/tj/git-extras)
+## [git-extras ★10329](https://github.com/tj/git-extras)
 
 ### squash
 
@@ -516,7 +516,7 @@ $ git psykorebase master feature
 ```
 
 
-## [gitflow (AVH Edition) ★2156](https://github.com/petervanderdoes/gitflow-avh)
+## [gitflow (AVH Edition) ★2189](https://github.com/petervanderdoes/gitflow-avh)
 
 ### flow init
 
@@ -571,7 +571,7 @@ $ git flow support
 ```
 
 
-## [git-up ★2735 ⏳1Y](https://github.com/aanand/git-up)
+## [git-up ★2734 ⏳1Y](https://github.com/aanand/git-up)
 
 ```
 $ git up
@@ -583,7 +583,7 @@ returning to 4.0
 ```
 
 
-## [hub ★11115](https://github.com/github/hub)
+## [hub ★11143](https://github.com/github/hub)
 
 ### clone
 
@@ -756,12 +756,12 @@ $ git push production master
 ```
 
 
-## [git-cal ★972](https://github.com/k4rthik/git-cal)
+## [git-cal ★971](https://github.com/k4rthik/git-cal)
 
 ![68747470733a2f2f7261772e6769746875622e636f6d2f6b34727468696b2f6769742d63616c2f6d61737465722f73637265656e73686f74732f696d67322e706e67](https://cloud.githubusercontent.com/assets/6316590/12465623/17d828ea-c023-11e5-8077-2e9a284defd6.png)
 
 
-## [git-hooks ★787](https://github.com/icefox/git-hooks)
+## [git-hooks ★793](https://github.com/icefox/git-hooks)
 
 ```
 $ git hooks --install
@@ -780,7 +780,7 @@ pre-commit/bsd 	- Check for the BSD license.
 ```
 
 
-## [git-imerge ★1733](https://github.com/mhagger/git-imerge)
+## [git-imerge ★1749](https://github.com/mhagger/git-imerge)
 
 ### imerge start
 
@@ -1011,7 +1011,7 @@ iter commit  tree    result
 ```
 
 
-## [legit ★4451](https://github.com/kennethreitz/legit)
+## [legit ★4456](https://github.com/kennethreitz/legit)
 
 ### branches
 
@@ -1163,7 +1163,7 @@ $ git branch-status
 ```
 
 
-## [git-open ★1049](https://github.com/paulirish/git-open)
+## [git-open ★1057](https://github.com/paulirish/git-open)
 
 ```
 $ git open
@@ -1177,7 +1177,7 @@ $ git open upstream master
 ```
 
 
-## [git-my ★15](https://github.com/davidosomething/git-my)
+## [git-my ★16](https://github.com/davidosomething/git-my)
 
 ```
 $ git my
@@ -1195,7 +1195,7 @@ $ git my
 ```
 
 
-## [git-ink ★10](https://github.com/davidosomething/git-ink)
+## [git-ink ★10 ⏳1Y](https://github.com/davidosomething/git-ink)
 
 ```
 $ git ink
@@ -1259,7 +1259,7 @@ Match:  1 of 1
 ```
 
 
-## [git-fire ★1719](https://github.com/qw3rtman/git-fire)
+## [git-fire ★1721](https://github.com/qw3rtman/git-fire)
 
 ```
 $ git fire
@@ -1278,12 +1278,12 @@ Leave building!
 ```
 
 
-## [git-town ★1405](https://github.com/Originate/git-town)
+## [git-town ★1413](https://github.com/Originate/git-town)
 
 TBD
 
 
-## [git-blame-someone-else ★4191 ⏳1Y](https://github.com/jayphelps/git-blame-someone-else)
+## [git-blame-someone-else ★4223 ⏳1Y](https://github.com/jayphelps/git-blame-someone-else)
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
@@ -1291,7 +1291,7 @@ Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
 
-## [diff-so-fancy ★8416](https://github.com/so-fancy/diff-so-fancy)
+## [diff-so-fancy ★8505](https://github.com/so-fancy/diff-so-fancy)
 
 ```
 $ git dsf
@@ -1300,12 +1300,12 @@ $ git dsf
 ![diff-so-fancy](https://cloud.githubusercontent.com/assets/39191/13622719/7cc7c54c-e555-11e5-86c4-7045d91af041.png)
 
 
-## [git-stats ★4372](https://github.com/IonicaBizau/git-stats)
+## [git-stats ★4385](https://github.com/IonicaBizau/git-stats)
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
 
-## [git-secret ★573](https://github.com/sobolevn/git-secret)
+## [git-secret ★577](https://github.com/sobolevn/git-secret)
 
 ### git secret init
 
@@ -1454,17 +1454,17 @@ Saved Profiles:
 ![git-cleanup-branch](https://raw.githubusercontent.com/ne-sachirou/git-cleanup-branch/master/demo.gif)
 
 
-## [gitsome ★5181](https://github.com/donnemartin/gitsome)
+## [gitsome ★5225](https://github.com/donnemartin/gitsome)
 
 TBD
 
 
-## [git-hound ★93](https://github.com/ezekg/git-hound)
+## [git-hound ★94](https://github.com/ezekg/git-hound)
 
 TBD
 
 
-## [git-recall ★1893](https://github.com/Fakerr/git-recall)
+## [git-recall ★1894](https://github.com/Fakerr/git-recall)
 
 ![](https://camo.githubusercontent.com/eb306717b95724c33dd0de91faa535a4818cc7d0/687474703a2f2f696d6775722e636f6d2f7a7577324c71572e676966)
 
@@ -1484,7 +1484,7 @@ $ git recall -f
 ```
 
 
-## [git-standup ★4262](https://github.com/kamranahmedse/git-standup)
+## [git-standup ★4272](https://github.com/kamranahmedse/git-standup)
 
 ```
 $ git standup
@@ -1500,7 +1500,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 ```
 
 
-## [commitizen ★1772](https://github.com/commitizen/cz-cli)
+## [commitizen ★1822](https://github.com/commitizen/cz-cli)
 
 ```
 $ git cz

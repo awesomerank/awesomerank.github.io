@@ -7,13 +7,13 @@ title: Awesome Rank for sindresorhus/awesome-scifi
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-scifi">sindresorhus/awesome-scifi</a> with ranks
 </p>
 ---
-# Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome)
+# Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
 > Sci-Fi worth consuming
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*For fantasy books, see [awesome-fantasy ★235](https://github.com/RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy ★238](https://github.com/RichardLitt/awesome-fantasy).*
 
 *Please read the [Contributing Guidelines](https://github.com/sindresorhus/awesome-scifi/blob/master/contributing.md) before contributing.*
 
@@ -475,6 +475,8 @@ I think of this book often, even though initially I had consigned it as a cheap 
 
 #### [The Diamond Age: Or, A Young Lady’s Illustrated Primer](https://www.goodreads.com/book/show/827.The_Diamond_Age) (1995) *by [Neal Stephenson](https://en.wikipedia.org/wiki/Neal_Stephenson)* [4.2]
 
+This book had me looking up more words than any book had me do for a long time. A mildly interesting story, with cunning turns and twists, in a very interesting world. What suprised me most was that the book already foresaw cryptocurrencies, 3d-printers and fleets of UAV's while already being 20+ years old. - [@fritzvd](https://github.com/fritzvd)
+
 > _The Diamond Age: Or, A Young Lady’s Illustrated Primer_ is a postcyberpunk novel by Neal Stephenson. It is to some extent a science fiction coming-of-age story, focused on a young girl named Nell, and set in a future world in which nanotechnology affects all aspects of life. The novel deals with themes of education, social class, ethnicity, and the nature of artificial intelligence.
 
 #### [The Stars My Destination](https://www.goodreads.com/book/show/333867.The_Stars_My_Destination) (1955) *by [Alfred Bester](https://en.wikipedia.org/wiki/Alfred_Bester)* [4.2]
@@ -525,6 +527,8 @@ A classic, beautiful book. A short read that does a good job of making the reade
 > Bradbury’s powerful and poetic prose combines with uncanny insight into the potential of technology to create a novel which, decades on from first publication, still has the power to dazzle and shock.
 
 #### [Oryx and Crake](https://www.goodreads.com/series/55674-maddaddam) (2003, 2009, 2013) *by [Margaret Atwood](https://en.wikipedia.org/wiki/Margaret_Atwood)* [4.0] 🔥
+
+This book is a wonderfully constructed tale that can be seen as warning for an age where genetic engineering is up and coming and we haven't the faintest clue where this might lead us. I loved it to bits and only found out there was a sequel by reading about the final episode coming out when I was well done with the first part and devoured the other two as eagerly as the first. That said, I find the first the best of the three books. - [@fritzvd](https://github.com/fritzvd)
 
 > _Oryx and Crake_ is at once an unforgettable love story and a compelling vision of the future. Snowman, known as Jimmy before mankind was overwhelmed by a plague, is struggling to survive in a world where he may be the last human, and mourning the loss of his best friend, Crake, and the beautiful and elusive Oryx whom they both loved. In search of answers, Snowman embarks on a journey–with the help of the green-eyed Children of Crake–through the lush wilderness that was so recently a great city, until powerful corporations took mankind on an uncontrolled genetic engineering ride. Margaret Atwood projects us into a near future that is both all too familiar and beyond our imagining.
 
@@ -799,7 +803,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### Fantasy
 
-_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list ★235](https://github.com/RichardLitt/awesome-fantasy)._
+_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list ★238](https://github.com/RichardLitt/awesome-fantasy)._
 
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.0]
 
@@ -1083,6 +1087,15 @@ Absolutely beautiful film. The cinematography is fantastic; Michael Caine has a 
 #### [Coherence](http://www.imdb.com/title/tt2866360/) (2013) [7.1]
 
 > Strange things begin to happen when a group of friends gather for a dinner party on an evening when a comet is passing overhead.
+
+#### [Contact](http://www.imdb.com/title/tt0118884/) (1997) [7.4]
+
+Categories: `aliens` `space` `drama` `mystery` `thriller`<br>
+Director: _Robert Zemeckis_<br>
+
+Based on a novel by the fantastic Carl Sagan, this is a painstakingly realistic piece of sci-fi art. - [@abhineet97](https://github.com/abhineet97)
+
+> Dr. Ellie Arroway, after years of searching, finds conclusive radio proof of extraterrestrial intelligence, sending plans for a mysterious machine.
 
 #### [District 9](http://www.imdb.com/title/tt1136608/) (2009) [8.0]
 

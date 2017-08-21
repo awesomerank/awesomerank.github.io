@@ -7,7 +7,7 @@ title: Awesome Rank for SrinivasanTarget/awesome-appium
 	This list is a copy of <a href="https://github.com/SrinivasanTarget/awesome-appium">SrinivasanTarget/awesome-appium</a> with ranks
 </p>
 ---
-# Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63395](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
+# Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
 
 [<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
 
@@ -15,14 +15,13 @@ title: Awesome Rank for SrinivasanTarget/awesome-appium
 
 Feel free to add links via PRs and file issues to start discussions.
 
-Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contents
 
 - [Server](#server)
 - [Clients](#clients)
 - [Inspectors](#inspectors)
-- [Issues and Solutions](#issues-and-solutions)
 - [Tutorials](#tutorials)
 - [Blogs](#blogs)
 - [Workshops](#workshops)
@@ -32,30 +31,24 @@ Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list
 - [Tips](#tips)
 
 ## Server
-- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web apps, tested on simulators (iOS, FirefoxOS), emulators (Android), and real devices (iOS, Android, Windows, FirefoxOS).
+- [Appium](https://github.com/appium/appium/blob/master/docs/en/about-appium/intro.md) - Appium is an open source, cross-platform test automation tool for native, hybrid and mobile web and desktop apps, tested on simulators (iOS), emulators (Android), and real devices (iOS, Android, Windows, Mac).
 
 ## Clients
-- [Ruby ★119](https://github.com/appium/ruby_lib)
-- [Python ★359](https://github.com/appium/python-client)
-- [Java ★377](https://github.com/appium/java-client)
+- [Ruby ★121](https://github.com/appium/ruby_lib)
+- [Python ★368](https://github.com/appium/python-client)
+- [Java ★383](https://github.com/appium/java-client)
 - [JavaScript](http://webdriver.io/)
 - [Objective C ★56 ⏳1Y](https://github.com/appium/selenium-objective-c)
-- [PHP ★28](https://github.com/appium/php-client)
-- [C# (.NET) ★80](https://github.com/appium/appium-dotnet-driver)
+- [PHP ★29](https://github.com/appium/php-client)
+- [C# (.NET) ★81](https://github.com/appium/appium-dotnet-driver)
 - [RobotFramework](https://github.com/jollychang/robotframework-appiumlibrary)
 
 ## Inspectors
-- [Appium Desktop ★319](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux.
-- [Appium dot app](https://bitbucket.org/appium/appium.app/downloads/) - The Mac GUI for Appium.
-- [Appium dot exe](https://bitbucket.org/appium/appium.app/downloads/) - The Windows GUI for Appium.
+- [Appium Desktop ★344](https://github.com/appium/appium-desktop) - Appium Server and Inspector in Desktop GUIs for Mac, Windows, and Linux.
 - [WebDriverAgent Inspector](https://github.com/facebook/WebDriverAgent/wiki/Starting-WebDriverAgent) - A WebDriver server for iOS that runs inside the Simulator.
 - [Selendroid Inspector](http://selendroid.io/inspector.html) - The web app which is embedded inside your selendroid test server.
-- [Appium iOS Inspector ★57](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector.
-- [app-inspector ★110](https://github.com/macacajs/app-inspector) - Macacajs App Inspector.
-
-## Issues and Solutions
-- [Java-client Swipe Issue](https://github.com/appium/java-client/issues/350) - [Solution is available here.](https://github.com/appium/java-client/pull/357)
-- [Appium Docker Enhancement](https://github.com/appium/tutorial/issues/11) - Docker Image issue thread.
+- [Appium iOS Inspector ★58](https://github.com/mykola-mokhnach/Appium-iOS-Inspector) - The tool for iOS elements location based on the original source of Selendroid Inspector.
+- [app-inspector ★114](https://github.com/macacajs/app-inspector) - Macacajs App Inspector.
 
 ## Tutorials
 - [TOOLSQA](http://toolsqa.com/mobile-automation/appium/appium-tutorial/) - Appium tutorial for beginners (Android & iOS).
@@ -63,13 +56,14 @@ Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list
 - [QTPSELENIUM](http://qtpselenium.com/home/course/training/mobile-automation-appium-tutorial) - Appium tutorials.
 - [Testing Diaries](http://www.testingdiaries.com/appium-tutorial/) - Appium Tutorial for Complete Beginners.
 - [Appium Bootcamp](https://saucelabs.com/resources/articles/appium-bootcamp-chapter-1) - Appium Bootcamp by Sauce.
-- [PageObject Pattern Framework ★55](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
-- [Appium Cucumber Test ★18 ⏳1Y](https://github.com/priyankshah217/AppiumCucumberTest) - Sample Appium Cucumber Project.
-- [Parallel Framework Java-Client ★263](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
+- [PageObject Pattern Framework ★56](https://github.com/saikrishna321/PageObjectPatternAppium) - Sample Page Object Pattern Framework to use directly.
+- [Appium Cucumber Test ★19 ⏳1Y](https://github.com/priyankshah217/AppiumCucumberTest) - Sample Appium Cucumber Project.
+- [Parallel Framework Java-Client ★267](https://github.com/saikrishna321/AppiumTestDistribution) - Run appium tests in parallel across iOS and Android devices.
 - [Appium Mobile Grid Setup](http://www.slideshare.net/justinison75/mobile-selenium-grid-setup) - The Mobile Grid – Getting Started for Android & iOS.
 - [Selenium Camp 2016](http://www.slideshare.net/justinison75/selenium-camp-2016) - Selenium Camp 2016.
 
 ## Blogs
+ - [Appium Architecture & Appium Desktop](https://www.zaizi.com/blog/appium-mobile-apps-automation-tool) - Appium Architecture, settings, etc (Updated)
  - [Appium Architecture](http://www.3pillarglobal.com/insights/appium-a-cross-browser-mobile-automation-tool) - Architecture of Appium.
  - [All about Appium](https://en.wordpress.com/tag/appium/) - All about Appium in Wordpress.
  - [Appium 1.5 TouchActions Example](https://medium.com/@scottdixon/appium-touch-examples-w-nodejs-ios-wd-ee2b9956aab1#.ve06j03ic) - Appium 1.5 touch example w/ NodeJS & WD - Scott Dixon.
@@ -96,11 +90,10 @@ Inspired by the [awesome ★63395](https://github.com/sindresorhus/awesome) list
 ## Cloud Solutions & DevOps
 - [Appium Tests in AWS Device Farm ★38](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
 - [Appium Tests in OpenSTF Device Farm ★43](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm.
-- [Appium Docker Demo ★54](https://github.com/vbanthia/appium-docker-demo) - Appium sample test running on real devices inside docker container.
+- [Official Appium Docker Images ★57](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
+- [Appium Docker Images ★43](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android.
 - [Appium Docker File ★5 ⏳2Y](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
-- [Appium Docker File ★5 ⏳1Y](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
-- [Dockerising Appium](http://shashikantjagtap.net/dockerising-appium-talk-at-appium-london-meetup/) - Dockerising Appium.
-- [Docker Appium with multiple SDK's](https://github.com/SrinivasanTarget/docker-appium) - DockerFile for Appium Android
+- [Appium Docker File ★5 ⏳2Y](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
 
 ## Git Books
 - [Appium Essentials](https://www.packtpub.com/application-development/appium-essentials/?utm_source=POD&utm_medium=referral&utm_campaign=1784392480) - Explore mobile automation with Appium and discover new ways to test native, web, and hybrid applications - Manoj Hans.
