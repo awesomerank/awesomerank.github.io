@@ -60,7 +60,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [cellist/Lilypond-Sheet-Music ★44](https://github.com/cellist/Lilypond-Sheet-Music) - a collection of music typeset with lilypond (mostly chamber music and music for cello).
 * [ciconia/music ★10](https://github.com/ciconia/music) - a collection of mostly baroque music, lots of sacred works by J. S. Bach, coded in lilypond/ripple.
 * [CPDL](http://www.cpdl.org/) - the choral public domain library contains more than 20K free scores of vocal music.
-* [Éditions Nicolas Sceaux ★22](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
+* [Éditions Nicolas Sceaux ★22 ⏳1Y](https://github.com/nsceaux/nenuvar) - baroque music scores (mainly French music), typeset using lilypond.
 * [IMSLP](http://imslp.org/) - the International Music Score Library Project is the largest collection of public domain scores and parts on the web.
 * [Mutopia ★97](https://github.com/MutopiaProject/MutopiaProject) - sheet music based on editions in the public domain.
 * [wbsoft/lilymusic ★21](https://github.com/wbsoft/lilymusic) - beautiful LilyPond scores under free licenses.

@@ -601,7 +601,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [shepherd ★5100](https://github.com/HubSpot/shepherd) - Guide your users through a tour of your app.
 * [bootstrap-tour ★3900](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
 * [tourist ★1195 ⏳1Y](https://github.com/easelinc/tourist) - Simple, flexible tours for your app.
-* [chardin.js ★4598](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
+* [chardin.js ★4598 ⏳1Y](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
 * [pageguide ★865](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3.
 * [hopscotch ★3762](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
 * [joyride ★1349](https://github.com/zurb/joyride) - jQuery feature tour plugin.
