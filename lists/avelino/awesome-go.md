@@ -588,7 +588,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [gg ★1014](https://github.com/fogleman/gg) - 2D rendering in pure Go.
 * [gift ★930](https://github.com/disintegration/gift) - Package of image processing filters.
 * [go-cairo ★61 ⏳1Y](https://github.com/ungerik/go-cairo) - Go binding for the cairo graphics library.
-* [go-gd ★40 ⏳1Y](https://github.com/bolknote/go-gd) - Go binding for GD library.
+* [go-gd ★40 ⏳2Y](https://github.com/bolknote/go-gd) - Go binding for GD library.
 * [go-nude ★227 ⏳2Y](https://github.com/koyachi/go-nude) - Nudity detection with Go.
 * [go-opencv](https://github.com/lazywei/go-opencv) - Go bindings for OpenCV.
 * [go-webcolors ★21 ⏳2Y](https://github.com/jyotiska/go-webcolors) - Port of webcolors library from Python to Go.

@@ -76,6 +76,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [PyChallFactory ★4](https://github.com/pdautry/py_chall_factory) - Small framework to create/manage/package jeopardy CTF challenges
 - [RootTheBox ★216](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager
 - [Scorebot ★33](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
+- [SecGen ★957](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines
 
 
 ## Steganography

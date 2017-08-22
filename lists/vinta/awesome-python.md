@@ -879,7 +879,7 @@ Inspired by [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
 
 *Libraries that allow or deny users access to data or functionality.*
 
-* [Carteblanche ★31 ⏳1Y](https://github.com/neuman/python-carteblanche) - Module to align code with thoughts of users and designers. Also magically handles navigation and permissions.
+* [Carteblanche ★31 ⏳2Y](https://github.com/neuman/python-carteblanche) - Module to align code with thoughts of users and designers. Also magically handles navigation and permissions.
 * [django-guardian ★1531](https://github.com/django-guardian/django-guardian) - Implementation of per object permissions for Django 1.2+
 * [django-rules ★484](https://github.com/dfunckt/django-rules) - A tiny but powerful app providing object-level permissions to Django, without requiring a database.
 

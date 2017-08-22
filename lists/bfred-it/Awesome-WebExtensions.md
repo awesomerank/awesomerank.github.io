@@ -69,7 +69,7 @@ Apps that help you manage your extensions.
 - [chromepet ★11 ⏳2Y](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 - [inline-install ★3](https://github.com/alykoshin/inline-install) - Simplify the installation of the extension directly from your website.
 - [wemf ★10](https://github.com/pastak/wemf) - Format and validate `manifest.json`.
-- [maniver ★1 ⏳1Y](https://github.com/ragingwind/maniver) - Bump the extension version via cli.
+- [maniver ★1 ⏳2Y](https://github.com/ragingwind/maniver) - Bump the extension version via cli.
 - [chrome-ext-downloader ★17 ⏳2Y](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 - [unzip-crx ★7 ⏳1Y](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
 - [chrome-store-api ★6](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.

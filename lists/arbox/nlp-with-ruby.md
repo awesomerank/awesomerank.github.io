@@ -239,7 +239,7 @@ are often collected in dictionaries.
   Calculates edit distance using the Damerau-Levenshtein algorithm.
 - [hotwater ★76 ⏳4Y](https://github.com/colinsurprenant/hotwater) -
   Fast Ruby FFI string edit distance algorithms.
-- [levenshtein-ffi ★131 ⏳1Y](https://github.com/dbalatero/levenshtein-ffi) -
+- [levenshtein-ffi ★131 ⏳2Y](https://github.com/dbalatero/levenshtein-ffi) -
   Fast string edit distance computation, using the Damerau-Levenshtein algorithm.
 - [tf_idf ★32 ⏳5Y](https://github.com/reddavis/TF-IDF) -
   Term Frequency / Inverse Document Frequency in pure Ruby.

@@ -201,7 +201,7 @@ Name | License | Demo
 [android-autofittextview ★2930](https://github.com/grantland/android-autofittextview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/android-autofittextview.gif)
 [SecretTextView ★538 ⏳2Y](https://github.com/matthewrkula/SecretTextView) | UnKnown | ![](/art/SecretTextView.gif)
 [TextJustify-Android ★1522](https://github.com/bluejamesbond/TextJustify-Android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TextJustify-Android.png" width="100%"> <img src="/art/TextJustify-Android2.jpeg" width="100%">
-[RoundedLetterView ★583](https://github.com/pavlospt/RoundedLetterView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RoundedLetterView.png" width="49%">
+[RoundedLetterView ★583 ⏳1Y](https://github.com/pavlospt/RoundedLetterView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RoundedLetterView.png" width="49%">
 [TextDrawable ★2417](https://github.com/amulyakhare/TextDrawable) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TextDrawable.png" width="49%"> <img src="/art/TextDrawable2.png" width="49%">
 [BabushkaText ★666 ⏳1Y](https://github.com/quiqueqs/BabushkaText) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/BabushkaText.png" width="49%">
 [ExpandableTextView ★2443](https://github.com/Manabu-GT/ExpandableTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExpandableTextView.gif" width="49%">
@@ -284,7 +284,7 @@ ActionBar
 Name | License | Demo
 --- | --- | ---
 [FadingActionBar ★2873 ⏳3Y](https://github.com/ManuelPeinado/FadingActionBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FadingActionBar.png" width="100%">
-[GlassActionBar ★1227 ⏳1Y](https://github.com/ManuelPeinado/GlassActionBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/GlassActionBar.png" width="100%">
+[GlassActionBar ★1227 ⏳2Y](https://github.com/ManuelPeinado/GlassActionBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/GlassActionBar.png" width="100%">
 [NotBoringActionBar ★1709 ⏳1Y](https://github.com/flavienlaurent/NotBoringActionBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/NotBoringActionBar.gif" width="49%">
 
 Dialog

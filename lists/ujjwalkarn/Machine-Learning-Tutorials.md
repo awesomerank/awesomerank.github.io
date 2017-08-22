@@ -508,7 +508,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
     - [Torch](http://torch.ch/)
     
-        - [Torch ML Tutorial](http://code.madbits.com/wiki/doku.php), [Code ★573](https://github.com/torch/tutorials)
+        - [Torch ML Tutorial](http://code.madbits.com/wiki/doku.php), [Code ★573 ⏳1Y](https://github.com/torch/tutorials)
         
         - [Intro to Torch](http://ml.informatik.uni-freiburg.de/_media/teaching/ws1415/presentation_dl_lect3.pdf)
         

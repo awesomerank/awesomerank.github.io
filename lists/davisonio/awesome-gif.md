@@ -97,7 +97,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### ActionScript
 
-- [Flash Animated GIF Library ★53 ⏳1Y](https://github.com/theturtle32/Flash-Animated-GIF-Library) - AS3 library for playing Animated GIFs in Flash
+- [Flash Animated GIF Library ★53 ⏳2Y](https://github.com/theturtle32/Flash-Animated-GIF-Library) - AS3 library for playing Animated GIFs in Flash
 
 #### C++
 

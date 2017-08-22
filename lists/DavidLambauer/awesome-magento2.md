@@ -59,7 +59,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [Developer Toolbar ★125](https://github.com/mgtcommerce/Mgt_Developertoolbar) - Magento 2 Developer Toolbar.
 - [Advanced Template Hints ★69](https://github.com/ho-nl/magento2-Ho_Templatehints) - Magento 2 Template Hints Helper.
 - [Magento2 PHPStorm Templates ★64](https://github.com/staempfli/magento2-phpstorm-templates) - Live templates for Magento2
-- [Technical Dept Collector ★15](https://github.com/Vinai/m2-tech-debt) - Console Command to aggregates technical debt information on Magento 2 modules into a CSV format by [Vinai Kopp](https://commercehero.io/vinai).
+- [Technical Dept Collector ★15 ⏳1Y](https://github.com/Vinai/m2-tech-debt) - Console Command to aggregates technical debt information on Magento 2 modules into a CSV format by [Vinai Kopp](https://commercehero.io/vinai).
 - [Magento 2 Dockerize ★62](https://github.com/arvatoSCM/dockerize-magento2) - A composer package for dockerizing Magento 2.
 - [Mage2 Vagrant ★246](https://github.com/rgranadino/mage2_vagrant) - Simple Magento 2 Vagrant Box.
 - [frontools ★222](https://github.com/SnowdogApps/magento2-frontools) - Set of front-end tools for Magento 2, based on Gulp.js.

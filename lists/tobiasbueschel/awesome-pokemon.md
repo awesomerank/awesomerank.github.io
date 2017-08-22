@@ -61,7 +61,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 #### Apps
 - [Pokemon-Showdown ★1202](https://github.com/Zarel/Pokemon-Showdown) - Pokémon battle simulator.
 - [pokemongo-webspoof ★2106](https://github.com/iam4x/pokemongo-webspoof) - Play Pokémon GO from your Mac.
-- [iPokeMon ★414](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
+- [iPokeMon ★414 ⏳1Y](https://github.com/Kjuly/iPokeMon) - Pokémon like game on iOS with Location Based Service.
 - [pokemon-online ★223](https://github.com/po-devs/pokemon-online) - Online Pokémon Battle Simulator.
 - [Shuffle-Move ★73](https://github.com/Loreinator/Shuffle-Move) - A program to identify and display the best next move for the game Pokémon Shuffle.
 

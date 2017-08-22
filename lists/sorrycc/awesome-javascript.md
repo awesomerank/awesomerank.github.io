@@ -832,7 +832,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [bounce.js ★5165 ⏳2Y](https://github.com/tictail/bounce.js) - Create tasty CSS3 powered animations in no time.
 * [GreenSock-JS ★6445](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 * [TransitionEnd ★87 ⏳1Y](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitionend event.
-* [Dynamic.js ★6471](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations.
+* [Dynamic.js ★6471 ⏳1Y](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations.
 * [the-cube ★6 ⏳4Y](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
 * [Effeckt.css ★11058 ⏳1Y](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library
 * [animate.css ★44243](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.

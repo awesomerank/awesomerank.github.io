@@ -720,6 +720,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Introducing Azure Event Grid](https://azure.microsoft.com/en-us/blog/introducing-azure-event-grid-an-event-service-for-modern-applications/) - Microsofts announcement blog post about Azure Event Grid.
 - [Event Gateway - The missing piece of serverless architectures](https://serverless.com/blog/introducing-serverless-event-gateway/) - Announcement blog post of Serverless Inc. introducing then [Event Gateway ★364](https://github.com/serverless/event-gateway) product.
 - [Serverless launches open source Event Gateway](https://venturebeat.com/2017/08/17/serverless-launches-open-source-event-gateway-to-tie-cloud-functions-together/) - Post about the recently launched [Event Gateway ★364](https://github.com/serverless/event-gateway) Open Source project.
+- [Fast container provisioning with Microsoft’s ACI](https://thenewstack.io/lightning-fast-container-provisioning-with-microsofts-azure-container-instances/) - Post about the recent changes introduced to Microsoft's Azure Container Instances.
+- [Serverless adoption on par with containers](https://thenewstack.io/week-numbers-serverless-adoption-par-containers/) - Post about the adoption rate of serverless computing.
+- [Achieving serverless success with Dynamic Cloud and DevOps](https://newrelic.com/serverless-dynamic-cloud-survey) - New Relic's survey results on serverless architectures, Dynamic Cloud and DevOps.
 
 ## Screencasts
 
@@ -1375,6 +1378,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Patch ★1](https://github.com/vinodsr/serverless-patch) - Patch Serverless with custom stack and API naming configuration.
 - [PureSec CLI ★3](https://github.com/puresec/serverless-puresec-cli) - Plugin for least privileges.
 - [CF vars](https://gitlab.com/kabo/serverless-cf-vars) - Enables use of AWS pseudo functions and `Fn::Sub` string substitution.
+- [Custom packaging ★1](https://github.com/hypoport/serverless-custom-packaging-plugin) - Package your source code using a custom target path inside the `.zip`.
 
 ## Literature / Education
 

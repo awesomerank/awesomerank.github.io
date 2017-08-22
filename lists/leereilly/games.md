@@ -555,7 +555,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 # Maps/Hacks/Plugins/Utilities/All of the Things™
 
-* [Bfxr ★484 ⏳1Y](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
+* [Bfxr ★484 ⏳2Y](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
 * [Brood War API ★920](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
 * [FlxCollisions ★1 ⏳6Y](https://github.com/gamebytes/FlxCollisions) - Simple set of 2d physics + collision demos for flixel v2.0. [Play it now!](http://flixel.org/flxcollisions/)
 * [Gamertag ★18 ⏳3Y](https://github.com/barisbalic/gamertag) - Gem for retrieving Xbox Live Gamertag information from various sources.

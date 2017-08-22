@@ -1376,7 +1376,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exfacebook ★13](https://github.com/oivoodoo/exfacebook) - Facebook API, written in Elixir using similar methods like Ruby koala gem.
 * [exgenius ★1 ⏳1Y](https://github.com/jeffweiss/exgenius) - Elixir library for the (undocumented) Rap Genius API.
 * [exgravatar ★12 ⏳1Y](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
-* [exgrid ★7](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
+* [exgrid ★7 ⏳1Y](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 * [exjira ★5 ⏳2Y](https://github.com/mattweldon/exjira) - JIRA client library for Elixir.
 * [exlingr ★1 ⏳2Y](https://github.com/mtwtkman/exlingr) - A Lingr client module.
 * [exstagram ★9 ⏳1Y](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
@@ -1419,7 +1419,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pusher ★9](https://github.com/edgurgel/pusher) - Elixir library to access the Pusher REST API.
 * [qiita_ex ★6 ⏳2Y](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 * [qiniu ★51](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.
-* [random_user ★7](https://github.com/katgironpe/random_user) - An Elixir client for randomuser.me API.
+* [random_user ★7 ⏳1Y](https://github.com/katgironpe/random_user) - An Elixir client for randomuser.me API.
 * [reap ★3 ⏳2Y](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [reddhl ★4 ⏳1Y](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 * [redtube ★6 ⏳2Y](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
@@ -1439,7 +1439,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [tentacat ★208](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 * [tg_client ★10](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
 * [traitify_elixir ★1 ⏳2Y](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
-* [ui_faces ★1](https://github.com/katgironpe/ui_faces) - UIFaces API client for Elixir applications.
+* [ui_faces ★1 ⏳1Y](https://github.com/katgironpe/ui_faces) - UIFaces API client for Elixir applications.
 * [unsplash-elixir ★5](https://github.com/waynehoover/unsplash-elixir) - An Elixir library for Unsplash.
 * [vultr ★0](https://github.com/avitex/elixir-vultr) - Simple wrapper for the Vultr API.
 * [xe ★18 ⏳1Y](https://github.com/paulodiniz/xe) - Real time conversion for currencies.

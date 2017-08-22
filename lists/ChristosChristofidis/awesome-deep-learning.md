@@ -432,7 +432,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 12.  [JavaNN ★1110](https://github.com/ivan-vasilev/neuralnetworks)
 13.  [hebel ★1157 ⏳2Y](https://github.com/hannes-brt/hebel)
 14.  [Mocha.jl ★935](https://github.com/pluskid/Mocha.jl)
-15.  [OpenDL ★211 ⏳1Y](https://github.com/guoding83128/OpenDL)
+15.  [OpenDL ★211 ⏳2Y](https://github.com/guoding83128/OpenDL)
 16.  [cuDNN](https://developer.nvidia.com/cuDNN)
 17.  [MGL](http://melisgl.github.io/mgl-pax-world/mgl-manual.html)
 18.  [Knet.jl ★332](https://github.com/denizyuret/Knet.jl)

@@ -57,6 +57,7 @@ title: Awesome Rank for passy/awesome-purescript
 
 ## Discovery
 
+- [Module Linker](https://fiatjaf.alhur.es/module-linker/#/purescript) - Extension that lets you browse docs by just clicking on `import` declarations on GitHub.
 - [Pursuit](https://pursuit.purescript.org/)
 
 ## Editor and IDE Plugins

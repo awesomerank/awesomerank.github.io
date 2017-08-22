@@ -658,7 +658,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Babel Plugins
 * [babel-preset-angular2 ★17 ⏳1Y](https://github.com/shuhei/babel-preset-angular2) Babel presets for Angular2
-* [babel-plugin-type-assertion ★0 ⏳1Y](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts_assert
+* [babel-plugin-type-assertion ★0 ⏳2Y](https://github.com/shuhei/babel-plugin-type-assertion) An experimental babel transformer plugin for rtts_assert
 
 ---
 

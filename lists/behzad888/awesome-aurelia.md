@@ -240,7 +240,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [jdanyow/aurelia-breeze-northwind ★96](https://github.com/jdanyow/aurelia-breeze-northwind) * A Northwind demo using Aurelia and Breeze by @jdanyow.
 * [jdanyow/aurelia-solitaire ★70 ⏳1Y](https://github.com/jdanyow/aurelia-solitaire) * Klondike solitaire built with Aurelia and dragula.
 * [discosultan/aurelia-minesweeper ★8 ⏳1Y](https://github.com/discosultan/aurelia-minesweeper) * Classic Minesweeper game built with Aurelia by @discosultan.
-* [electron-aurelia-example ★31](https://github.com/jimschubert/electron-aurelia-example) * An example desktop application written with Electron and Aurelia.
+* [electron-aurelia-example ★31 ⏳1Y](https://github.com/jimschubert/electron-aurelia-example) * An example desktop application written with Electron and Aurelia.
 * [aurelia-webapi-example ★3 ⏳1Y](https://github.com/jimschubert/aurelia-webapi-example) * An example WebAPI written with C# and Aurelia
 * [michaelbull/aurelia-hacker-news ★41](https://github.com/michaelbull/aurelia-hacker-news#aurelia-hacker-news-clone) * A recreation of the Hacker News website written in TypeScript and built using Aurelia, with webpack as a module bundler.
 * [Built with Aurelia](http://builtwithaurelia.com/) * Showcase of examples created by the Aurelia community.

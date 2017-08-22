@@ -137,7 +137,7 @@ A curated list of tools and resources for security incident response, aimed to h
 
 ### OSX Evidence Collection
 
-* [Knockknock ★803](https://github.com/synack/knockknock) - Displays persistent items(scripts, commands, binaries, etc.) that are set to execute automatically on OSX
+* [Knockknock ★803 ⏳1Y](https://github.com/synack/knockknock) - Displays persistent items(scripts, commands, binaries, etc.) that are set to execute automatically on OSX
 * [OSX Auditor ★2944](https://github.com/jipegit/OSXAuditor) - OSX Auditor is a free Mac OS X computer forensics tool
 * [OSX Collector ★1345](https://github.com/yelp/osxcollector) - An OSX Auditor offshoot for live response
 

@@ -69,7 +69,7 @@ A curated list of fonts and typography resources.
 * [emojillate ★218](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
 * [emojione ★3590](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
 * [emojistatic ★86 ⏳3Y](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
-* [emojitracker ★537](https://github.com/mroth/emojitracker) - Track ALL the emoji
+* [emojitracker ★537 ⏳1Y](https://github.com/mroth/emojitracker) - Track ALL the emoji
 * [emojize ★115 ⏳1Y](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
 * [gemoji ★2809](https://github.com/github/gemoji) - Emoji images and names
 * [gh-emoji ★138](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
