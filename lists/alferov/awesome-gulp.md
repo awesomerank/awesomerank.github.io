@@ -120,7 +120,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [Advanced WordPress Development Using Gulp](https://premium.wpmudev.org/blog/advanced-wordpress-development-using-gulp/)
 
 ### Miscellaneous Resources
-* [Gulp Cheatsheet ★1360](https://github.com/osscafe/gulp-cheatsheet)
+* [Gulp Cheatsheet ★1360 ⏳1Y](https://github.com/osscafe/gulp-cheatsheet)
 * [Playground for Gulp Recipes ★522 ⏳1Y](https://github.com/johnpapa/gulp-patterns)
 
 ## Plugins

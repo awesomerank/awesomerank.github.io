@@ -230,7 +230,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-currency ★16 ⏳2Y](https://github.com/matiassingers/slack-currency) - Slash command for converting currency
 - [slack-dnd ★29 ⏳3Y](https://github.com/toddself/slack-dnd) - D&D slash commands for Slack
 - [slack-emoji-randomizer ★6 ⏳1Y](https://github.com/jasisk/slack-emoji-randomizer) - replace emoji in your messages with random emoji
-- [slack-github ★13 ⏳1Y](https://github.com/sdslabs/slack-github) - Post github commits to Slack
+- [slack-github ★13 ⏳2Y](https://github.com/sdslabs/slack-github) - Post github commits to Slack
 - [slack-harvest ★118](https://github.com/Neverbland/slack-harvest) - Send a daily Slack message with a list of tracked time from Harvest
 - [slack-integrations ★1 ⏳2Y](https://github.com/CollectiveDS/slack-integrations) - The Collective Digital Studio Slack integration server
 - [slack-integrator ★0 ⏳2Y](https://github.com/way2-technology/slack-integrator) - Easily integrate Slack with your apps!

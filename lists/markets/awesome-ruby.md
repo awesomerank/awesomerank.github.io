@@ -265,7 +265,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Code Analysis and Metrics
 
-* [Barkeep ★1449](https://github.com/ooyala/barkeep) - Barkeep is a fast, fun way to review code. Engineering organizations can use it to keep the bar high.
+* [Barkeep ★1449 ⏳1Y](https://github.com/ooyala/barkeep) - Barkeep is a fast, fun way to review code. Engineering organizations can use it to keep the bar high.
 * [Brakeman ★4327](https://github.com/presidentbeef/brakeman) - A static analysis security vulnerability scanner for Ruby on Rails applications.
 * [Cane ★1311 ⏳1Y](https://github.com/square/cane) - Code quality threshold checking as part of your build.
 * [Coverband ★1040](https://github.com/danmayer/coverband) - Rack middleware to help measure production code coverage.

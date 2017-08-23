@@ -1365,7 +1365,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 [Offline ★610](https://github.com/dherault/serverless-offline) - Emulate AWS λ and API Gateway locally when developing on Serverless projects.
 - [Stack output ★3](https://github.com/sbstjn/serverless-stack-output) - Store output from your AWS CloudFormation Stack in JSON/YAML/TOML files, or to pass it to a JavaScript function for further processing.
 - [OpenAPI documentation ★8](https://github.com/temando/serverless-openapi-documentation) - Generate OpenAPI V3 documentation from a Serverless configuration.
-- [Build substitute ★1](https://github.com/zyrorl/serverless-build-substitute-plugin) - Build plugin to substitute files into a build (eg. AWS binaries into node_modules).
+- [Build substitute ★1 ⏳1Y](https://github.com/zyrorl/serverless-build-substitute-plugin) - Build plugin to substitute files into a build (eg. AWS binaries into node_modules).
 - [Sentry ★20](https://github.com/arabold/serverless-sentry-plugin) - Sentry integration for Serverless v1.
 - [Finch ★2](https://github.com/fernando-mc/serverless-finch) - Plugin for static site deployments.
 - [Env generator ★7](https://github.com/DieProduktMacher/serverless-env-generator) - Manage environment variables with YAML and turn them into a .env file on deployment.

@@ -644,7 +644,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [mixed](https://github.com/dnavtoparts/mixed-zsh-theme) - Optimized for Dark Background.
 * [molokai-powerline-zsh ★7 ⏳1Y](https://github.com/prikhi/molokai-powerline-zsh) - Based on [agnoster](https://gist.github.com/agnoster/3712874).
 * [multi-shell-repo-prompt ★12 ⏳2Y](https://github.com/dotcode/multi-shell-repo-prompt) - Provides useful information (in your prompt) about the repository that you are in. It currently works for [Git](http://git-scm.com/) and [Mercurial](https://www.mercurial-scm.org/), under [ZSH](http://en.wikipedia.org/wiki/Zsh) as well as [bash](http://en.wikipedia.org/wiki/Bash_%28Unix_shell%29).
-* [muslim ★2](https://github.com/nksoff/muslim) - A simple minimal ZSH prompt theme.
+* [muslim ★2 ⏳1Y](https://github.com/nksoff/muslim) - A simple minimal ZSH prompt theme.
 * [nanofish ★2 ⏳1Y](https://github.com/tweekmonster/nanofish) - Adds fish-style directory prompt to nanotech theme.
 * [neat](https://github.com/andrepolischuk/neat) - Minimalistic prompt inspired by [odin](https://github.com/tylerreckart/Odin) and [pure ★3705](https://github.com/sindresorhus/pure).
 * [nextbike ★0](https://github.com/meierjan/nextbike-zsh-theme) - A very basic theme which just features an osx bike icon.

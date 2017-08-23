@@ -600,7 +600,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [PDF ★1](https://github.com/myflashlab/PDF-ANE) - Lets you open PDF files from your AIR mobile apps. Supported on Android and iOS.
 * [VideoPlayer ★26](https://github.com/myflashlab/videoPlayer-ANE) - Play video files in Android or iOS native video player.
 * [SurfaceVideoPlayer ★7](https://github.com/myflashlab/surfaceVideoPlayer-ANE) - SurfacePlayer ANE helps you play video files inside your air mobile projects.
-* [Speech ★11 ⏳1Y](https://github.com/myflashlab/speech-ANE) - Convert strings to voice files and vice versa fully in the background.
+* [Speech ★11 ⏳2Y](https://github.com/myflashlab/speech-ANE) - Convert strings to voice files and vice versa fully in the background.
 * [MyAR ★29](https://github.com/myflashlab/AR-ANE-Samples) - AR ANE supporting Android and iOS 64-bit based on Metaio's SDK.
 * [QR-zbar ★88](https://github.com/saumitrabhave/qr-zbar-ane) - ANE for QR Code Reader.
 * [Barcode ★10](https://github.com/myflashlab/barcode-ANE) - Scan almost any barcode type with this super fast barcode scanner ANE.
