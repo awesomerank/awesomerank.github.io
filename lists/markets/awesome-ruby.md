@@ -85,7 +85,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
   * [Presentation Programs](#presentation-programs)
   * [Process Monitoring](#process-monitoring)
   * [Processes and Threads](#processes-and-threads)
-  * [Profiler](#profiler)
+  * [Profiler and Optimization](#profiler-and-optimization)
   * [Queue](#queue)
   * [Rails Application Generators](#rails-application-generators)
   * [Robotics](#robotics)
@@ -166,18 +166,18 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Assets
 
-* [Compass ★6932](https://github.com/Compass/compass) - Compass is a Stylesheet Authoring Environment that makes your website design simpler to implement and easier to maintain.
+* [Asset Sync ★1634](https://github.com/AssetSync/asset_sync) - Synchronises Assets between Rails and S3.
+* [Autoprefixer ★1023](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
+* [Bourbon ★8293](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set.
+* [bower-rails ★1522](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
 * [Emoji ★409 ⏳1Y](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 * [Less Rails ★346](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Less ★117](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.
+* [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
-* Management:
-  * [Asset Sync ★1634](https://github.com/AssetSync/asset_sync) - Synchronises Assets between Rails and S3.
-  * [Autoprefixer ★1023](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
-  * [bower-rails ★1522](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
-  * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
-  * [Sprockets ★2698 ⏳1Y](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
-  * [Torba ★166](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
+* [Sprockets ★2698 ⏳1Y](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
+* [Torba ★166](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
+* [Webpacker ★1978](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ## Authentication and OAuth
 
@@ -859,8 +859,9 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [posix-spawn ★399](https://github.com/rtomayko/posix-spawn) - Fast Process::spawn for Rubys >= 1.8.7 based on the posix_spawn() system interfaces.
 
-## Profiler
+## Profiler and Optimization
 
+* [batch-loader ★10](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 * [benchmark-ips ★996](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 * [bullet ★4757](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 * [Derailed Benchmarks ★1727](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.

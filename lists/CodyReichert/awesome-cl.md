@@ -111,7 +111,7 @@ Database
 * [cl-memcached ★16 ⏳2Y](https://github.com/quasi/cl-memcached) - Fast, thread-safe interface to the Memcached object caching system. [Expat][14].
 * [cl-mongo ★109](https://github.com/fons/cl-mongo) - MongoDB client. [Expat][14].
 * [cl-redis ★110 ⏳1Y](https://github.com/vseloved/cl-redis) - Redis client. [Expat][14].
-* [cl-disque ★8 ⏳1Y](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD][15].
+* [cl-disque ★8 ⏳2Y](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD][15].
 * [cl-rethinkdb ★41 ⏳1Y](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat][14].
 * [cl-sqlite ★29 ⏳6Y](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
 * [clsql](http://www.cliki.net/CLSQL) - An SQL database with a Common Lisp interface. [LLGPL][8].

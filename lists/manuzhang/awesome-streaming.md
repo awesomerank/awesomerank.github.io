@@ -68,7 +68,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 
 ### DSL
 * [summingbird ★1879](https://github.com/twitter/summingbird) [Scala] - library that lets you write MapReduce programs that look like native Scala or Java collection transformations and execute them on a number of well-known distributed MapReduce platforms, including Storm and Scalding.
-* [coast ★59](https://github.com/bkirwi/coast) [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
+* [coast ★59 ⏳1Y](https://github.com/bkirwi/coast) [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
 * [Apache Beam](https://github.com/apache/incubator-beam) [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 * [Esper ★283](https://github.com/espertechinc/esper) [Java] - component for complex event processing (CEP) and event series analysis.
 

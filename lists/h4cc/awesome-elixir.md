@@ -363,7 +363,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [erlcloud ★505](https://github.com/erlcloud/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB).
 * [ex_aws ★466](https://github.com/CargoSense/ex_aws) - AWS client, supporting Dynamo, Kinesis, Lambda, SQS, and S3.
 * [ex_riak_cs ★4](https://github.com/ayrat555/ex_riak_cs) - Riak CS API client.
-* [fleet_api ★7 ⏳1Y](https://github.com/jordan0day/fleet-api) - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
+* [fleet_api ★7 ⏳2Y](https://github.com/jordan0day/fleet-api) - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
 * [Gandi ★0](https://github.com/Ahamtech/elixir-Gandi) - Gandi Wrapper for Leaseweb infrastructure.
 * [IElixir ★124](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.
 * [Kubex ★27 ⏳2Y](https://github.com/ingerslevio/kubex) - Kubernetes client and integration for Elixir, written in pure Elixir.
@@ -703,7 +703,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [placid ★140](https://github.com/slogsdon/placid) - A REST toolkit for building highly-scalable and fault-tolerant HTTP APIs with Elixir.
 * [rackla ★196](https://github.com/AntonFagerberg/rackla) - API Gateways in Elixir.
 * [relax ★126 ⏳1Y](https://github.com/AgilionApps/relax) - Simple Elixir implementation of a [jsonapi.org](http://jsonapi.org) server.
-* [rest ★45 ⏳1Y](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
+* [rest ★45 ⏳2Y](https://github.com/synrc/rest) - Micro-REST framework with typed JSON.
 * [sugar ★331](https://github.com/sugar-framework/sugar) - Modular web framework for Elixir.
 * [trot ★221](https://github.com/hexedpackets/trot) - An Elixir web micro-framework.
 

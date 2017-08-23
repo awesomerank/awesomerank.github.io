@@ -145,7 +145,7 @@ Made with Electron.
 - [Crypter ★210](https://github.com/HR/Crypter) - Secure encryption client.
 - [YakYak ★2849](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
 - [Museeks ★465](https://github.com/KeitIG/museeks) - Music player.
-- [VOX ★140](https://github.com/fresk-nc/VOX) - Unofficial VOX music player.
+- [VOX ★140 ⏳1Y](https://github.com/fresk-nc/VOX) - Unofficial VOX music player.
 - [Sabaki](http://sabaki.yichuanshen.de) - Go/Baduk/Weiqi board.
 - [Marky ★283 ⏳1Y](https://github.com/vesparny/marky) - Markdown editor.
 - [Deco ★5242](https://github.com/decosoftware/deco-ide) - React Native IDE.

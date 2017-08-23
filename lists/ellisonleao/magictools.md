@@ -459,7 +459,7 @@ Must see
 
 ### Complete Game Sources
 
-* [Doom 3 ★1495 ⏳1Y](https://github.com/id-Software/DOOM-3) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [Doom 3 ★1495 ⏳2Y](https://github.com/id-Software/DOOM-3) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Doom ★2363 ⏳2Y](https://github.com/id-Software/DOOM) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/) ![free](https://github.com/ellisonleao/magictools/blob/master//img/free.png)
 * [Prince of Persia ★4344](https://github.com/jmechner/Prince-of-Persia-Apple-II) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)

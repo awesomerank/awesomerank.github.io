@@ -1169,7 +1169,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 
 *General utilities and tools to make your life easier.*
 
-* [abutil ★31 ⏳1Y](https://github.com/bahlo/abutil) - Collection of often-used Golang helpers.
+* [abutil ★31 ⏳2Y](https://github.com/bahlo/abutil) - Collection of often-used Golang helpers.
 * [apm ★90](https://github.com/topfreegames/apm) - Process manager for Golang applications with an HTTP API.
 * [boilr ★524](https://github.com/tmrts/boilr) - Blazingly fast CLI tool for creating projects from boilerplate templates.
 * [circuitbreaker ★481](https://github.com/rubyist/circuitbreaker) - Circuit Breakers in Go.

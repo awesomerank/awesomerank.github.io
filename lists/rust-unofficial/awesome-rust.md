@@ -175,6 +175,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [frewsxcv/crate-deps ★15](https://github.com/frewsxcv/crate-deps) — generates images of dependency graphs for crates hosted on crates.io
 * [git-journal ★205](https://github.com/saschagrunert/git-journal) — The Git Commit Message and Changelog Generation Framework [<img src="https://api.travis-ci.org/saschagrunert/git-journal.svg?branch=master">](https://travis-ci.org/saschagrunert/git-journal)
 * [killercup/rustfix ★107](https://github.com/killercup/rustfix)  — automatically applies the suggestions made by rustc [<img src="https://api.travis-ci.org/killercup/rustfix.svg?branch=master">](https://travis-ci.org/killercup/rustfix)
+* [Module Linker](http://fiatjaf.alhur.es/module-linker/#/rust) — Extension that adds `<a>` links to references in `mod`, `use` and `extern crate` statements at GitHub.
 * [Racer ★2185](https://github.com/racer-rust/racer) — code completion for Rust [<img src="https://api.travis-ci.org/phildawes/racer.svg?branch=master">](https://travis-ci.org/phildawes/racer)
 * [rustfmt ★1209](https://github.com/rust-lang-nursery/rustfmt) — a Rust code formatter [<img src="https://api.travis-ci.org/rust-lang-nursery/rustfmt.svg?branch=master">](https://travis-ci.org/rust-lang-nursery/rustfmt)
 * [Rustup ★1319](https://github.com/rust-lang-nursery/rustup.rs) — the Rust toolchain installer [<img src="https://api.travis-ci.org/rust-lang-nursery/rustup.rs.svg?branch=master">](https://travis-ci.org/rust-lang-nursery/rustup.rs)
@@ -689,7 +690,7 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [tomaka/glutin ★712](https://github.com/tomaka/glutin) — Rust alternative to [GLFW](http://www.glfw.org/) [<img src="https://api.travis-ci.org/tomaka/glutin.svg?branch=master">](https://travis-ci.org/tomaka/glutin)
 * PDF
   * [kaj/rust-pdf ★28](https://github.com/kaj/rust-pdf) — [<img src="https://api.travis-ci.org/kaj/rust-pdf.svg?branch=master">](https://travis-ci.org/kaj/rust-pdf)
-  * [sharazam/printpdf ★42](https://github.com/sharazam/printpdf) — PDF writing library [<img src="https://api.travis-ci.org/sharazam/printpdf.svg?branch=master">](https://travis-ci.org/sharazam/printpdf)
+  * [fschutt/printpdf ★43](https://github.com/fschutt/printpdf) — PDF writing library [<img src="https://api.travis-ci.org/fschutt/printpdf.svg?branch=master">](https://travis-ci.org/fschutt/printpdf)
 * [Vulkan](https://www.khronos.org/vulkan/) [[vulkan](https://crates.io/keywords/vulkan)]
   * [tomaka/vulkano ★1](https://github.com/tomaka/vulkano) [[vulkano](https://crates.io/crates/vulkano)] — [<img src="https://api.travis-ci.org/tomaka/vulkano.svg?branch=master">](https://travis-ci.org/tomaka/vulkano)
 
@@ -739,6 +740,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [chyh1990/imageproc ★63 ⏳1Y](https://github.com/chyh1990/imageproc) — An advanced image processing library for Rust. [![Build Status](https://api.travis-ci.org/chyh1990/imageproc.svg?branch=master)](https://travis-ci.org/chyh1990/imageproc)
 * [PistonDevelopers/image ★523](https://github.com/PistonDevelopers/image) — Basic imaging processing functions and methods for converting to and from image formats [<img src="https://api.travis-ci.org/PistonDevelopers/image.svg?branch=master">](https://travis-ci.org/PistonDevelopers/image)
 * [kali/opencv-rust ★86](https://github.com/kali/opencv-rust) — Rust bindings for OpenCV [<img src="https://api.travis-ci.org/kali/opencv-rust.svg?branch=cv2">](https://travis-ci.org/kali/opencv-rust)
+* [teovoinea/steganography ★11](https://github.com/teovoinea/steganography) [[steganography](https://crates.io/crates/steganography)] — A simple steganography library [<img src="https://api.travis-ci.org/teovoinea/steganography.svg?branch=master">](https://travis-ci.org/teovoinea/steganography)
 
 
 ### Logging

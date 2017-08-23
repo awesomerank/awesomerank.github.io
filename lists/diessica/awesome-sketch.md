@@ -81,7 +81,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 - [RenameIt ★827](https://github.com/rodi01/RenameIt)
 - [Sketch Measure ★4911](https://github.com/utom/sketch-measure)
 - [Style Inventory ★1725](https://github.com/getflourish/Sketch-Style-Inventory)
-- [Dynamic Button ★1070](https://github.com/ddwht/sketch-dynamic-button)
+- [Dynamic Button ★1070 ⏳1Y](https://github.com/ddwht/sketch-dynamic-button)
 - [Page Switch ★66 ⏳3Y](https://github.com/mauehara/sketch-page-switch)
 - [Sketch Flex Layout ★1720](https://github.com/hrescak/Sketch-Flex-Layout)
 

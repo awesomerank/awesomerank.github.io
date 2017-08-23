@@ -502,7 +502,7 @@ A collection of awesome things regarding React ecosystem.
 * [sprockets-coffee-react - Sprockets preprocessor for CJSX ★86](https://github.com/jsdf/sprockets-coffee-react)
 * [react-kup -  A simple, non-intrusive alternative to jsx for coffeescript ★21 ⏳1Y](https://github.com/snd/react-kup)
 * [turbo-react - Combine Turbolinks and React to apply DOM diffs ★241](https://github.com/ssorallen/turbo-react)
-* [react-bacon - A little module for using React with Bacon.js ★117 ⏳1Y](https://github.com/jamesmacaulay/react-bacon)
+* [react-bacon - A little module for using React with Bacon.js ★117 ⏳2Y](https://github.com/jamesmacaulay/react-bacon)
 * [msx - React's JSX Transformer, tweaked to output calls to Mithril ★373](https://github.com/insin/msx)
 * [Backbone React Component ★828](https://github.com/magalhas/backbone-react-component)
 * [react-backbone - Backbone-aware mixins for react ★130 ⏳2Y](https://github.com/jhudson8/react-backbone)

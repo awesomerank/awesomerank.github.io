@@ -37,6 +37,7 @@ Online Analyzers
 * [Virustotal](https://www.virustotal.com/)-max 128MB
 * [Fraunhofer App-ray](http://app-ray.co/) - not free
 * [AppCritique](https://appcritique.boozallen.com) - Upload your Android APKs and receive comprehensive free security assessments.
+* [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes. Not free
 * ~~[CopperDroid](http://copperdroid.isg.rhul.ac.uk/copperdroid/)~~
 * ~~[SandDroid](http://sanddroid.xjtu.edu.cn/)~~
 * ~~[Stowaway](http://www.android-permissions.org/)~~
@@ -111,7 +112,6 @@ Dynamic Analysis Tools
 * [DroidAnalytics ★19 ⏳2Y](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 * [Vezir Project ★50 ⏳1Y](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 * [MARA ★178](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework
-* [NowSecure Lab Automated](https://www.nowsecure.com/blog/2016/09/19/announcing-nowsecure-lab-automated/) - Enterprise tool for mobile app security testing both Android and iOS mobile apps. Lab Automated features dynamic and static analysis on real devices in the cloud to return results in minutes.
 * ~~[Taintdroid](https://appanalysis.org/download.html)~~ - requires AOSP compilation
 
 Reverse Engineering
@@ -207,6 +207,7 @@ Others
 * [Android Reverse Engineering 101 by Daniele Altomare](http://www.fasteque.com/android-reverse-engineering-101-part-1/)
 * [doridori/Android-Security-Reference ★382](https://github.com/doridori/Android-Security-Reference)
 * [android app security checklist ★258](https://github.com/b-mueller/android_app_security_checklist)
+* [Mobile App Pentest Cheat Sheet ★856](https://github.com/tanprathan/MobileApp-Pentest-Cheatsheet)
 
 ----
 

@@ -723,6 +723,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Fast container provisioning with Microsoft’s ACI](https://thenewstack.io/lightning-fast-container-provisioning-with-microsofts-azure-container-instances/) - Post about the recent changes introduced to Microsoft's Azure Container Instances.
 - [Serverless adoption on par with containers](https://thenewstack.io/week-numbers-serverless-adoption-par-containers/) - Post about the adoption rate of serverless computing.
 - [Achieving serverless success with Dynamic Cloud and DevOps](https://newrelic.com/serverless-dynamic-cloud-survey) - New Relic's survey results on serverless architectures, Dynamic Cloud and DevOps.
+- [Migrating Node.js app to serverless](https://www.raymondcamden.com/2017/08/14/migrating-from-a-node-app-to-serverless) - How to migrate an existing Node.js app to a serverless architecture.
+- [Serverless autocomplete with OpenWhisk](https://medium.com/openwhisk/serverless-autocomplete-with-openwhisk-49b9fec1eaab) - How to write a serverless autocomplete service and deploy it to OpenWhisk.
+- [Create complex workflows with AWS Step Functions](https://agilevision.io/blog/serverless%20architecture/2017/02/12/easily-create-complex-workflows-with-aws-step-functions.html) - How to create complex workflows using AWS Step Functions and the Serverless Framework.
 
 ## Screencasts
 
@@ -1229,6 +1232,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWS Lambdas bootstrap ★1](https://github.com/Wolox/aws-lambdas-bootstrap) - Toolkit to bootstrap AWS Lambda functions.
 - [Containerless](https://containerless.cool) - Simple Docker deployments for AWS using the Serverless Framework.
 - [PureSec](https://www.puresec.io) - Security, built for serverless architectures.
+- [Pwned passwords ★82](https://github.com/jthomas/serverless-pwned-passwords) - Checking passwords against an enormous corpus of passwords leaked from security breaches.
 
 ## Plugins
 
@@ -1379,6 +1383,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [PureSec CLI ★3](https://github.com/puresec/serverless-puresec-cli) - Plugin for least privileges.
 - [CF vars](https://gitlab.com/kabo/serverless-cf-vars) - Enables use of AWS pseudo functions and `Fn::Sub` string substitution.
 - [Custom packaging ★1](https://github.com/hypoport/serverless-custom-packaging-plugin) - Package your source code using a custom target path inside the `.zip`.
+- [AWS Step Functions demo ★7](https://github.com/AgileVisionCompany/step-functions-demo) - AWS Step Functions demo service.
 
 ## Literature / Education
 

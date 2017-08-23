@@ -189,7 +189,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Lex ★92 ⏳3Y](https://github.com/pyrocms/lex) - A lightweight template parser.
 * [MtHaml ★333](https://github.com/arnaud-lb/MtHaml) - A PHP implementation of the HAML template language.
 * [Mustache ★2564](https://github.com/bobthecow/mustache.php) - A PHP implementation of the Mustache template language.
-* [Phly Mustache ★126 ⏳1Y](https://github.com/phly/phly_mustache) - Another PHP implementation of the Mustache template language.
+* [Phly Mustache ★126 ⏳2Y](https://github.com/phly/phly_mustache) - Another PHP implementation of the Mustache template language.
 * [PHPTAL](http://phptal.org/) - A PHP implementation of the [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) templating language.
 * [Plates](http://platesphp.com/) - A native PHP templating library.
 * [Smarty](https://www.smarty.net/) - A template engine to complement PHP.

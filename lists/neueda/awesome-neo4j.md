@@ -119,7 +119,7 @@ Created by [gh-md-toc ★130](https://github.com/ekalinin/github-markdown-toc.go
 - [Neo4jClient ★211](https://github.com/Readify/Neo4jClient) - .NET client binding.
 - [neoism ★302](https://github.com/jmcvetta/neoism) - Client for Golang.
 - [neocons ★158](https://github.com/michaelklishin/neocons) - A feature rich idiomatic Clojure client for the REST API.
-- [RNeo4j ★196](https://github.com/nicolewhite/RNeo4j) - Driver for R.
+- [RNeo4j ★196 ⏳1Y](https://github.com/nicolewhite/RNeo4j) - Driver for R.
 - [AnormCypher ★122](https://github.com/AnormCypher/AnormCypher) - Scala library based on Anorm in the Play Framework.
 
 # Cloud

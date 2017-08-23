@@ -291,7 +291,7 @@ are often collected in dictionaries.
   Pure Ruby natural language date parser.
 - [chronic_between ★24](https://github.com/jrobertson/chronic_between) -
   Simple Ruby natural language parser for date and time ranges.
-- [chronic_duration ★305 ⏳1Y](https://github.com/henrypoydar/chronic_duration) -
+- [chronic_duration ★305 ⏳2Y](https://github.com/henrypoydar/chronic_duration) -
   Pure Ruby parser for elapsed time.
 - [kronic ★153 ⏳3Y](https://github.com/xaviershay/kronic) -
   Methods for parsing and formatting human readable dates.

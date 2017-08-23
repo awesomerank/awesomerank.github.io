@@ -203,6 +203,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Countly](https://count.ly) - Open source, mobile & web analytics, crash reports and push notifications platform for iOS & Android.
 * [Abbi ★2](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
 * [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
+* [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting/) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
 
 ## Apple TV
 * [Voucher ★485](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
@@ -432,6 +433,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Nora ★192](https://github.com/SD10/Nora) - Nora is a Firebase abstraction layer for working with FirebaseDatabase and FirebaseStorage. :large_orange_diamond:
 * [PersistentStorageSerializable ★159](https://github.com/IvanRublev/PersistentStorageSerializable) - Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk. :large_orange_diamond:
 * [WCDB ★3604](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
+* [StorageKit ★97](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
 
 
 ## Data Structures / Algorithms
@@ -1377,6 +1379,7 @@ Most of these are paid services, some have free tiers.
 * [Down ★469](https://github.com/iwasrobbed/Down) - Blazing fast Markdown rendering in Swift, built upon cmark. 🔶
 * [Marky Mark ★46](https://github.com/m2mobi/Marky-Mark) - Highly customizable Markdown parsing and native rendering in Swift. 🔶
 * [MarkdownView ★954](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS. 🔶
+* [Highlighter ★599](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class. :large_orange_diamond:
 
 ## Testing
 
@@ -1662,7 +1665,7 @@ Most of these are paid services, some have free tiers.
 * [RZTransitions ★1712](https://github.com/Raizlabs/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
 * [DCAnimationKit ★720 ⏳1Y](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
 * [Spring ★11144](https://github.com/MengTo/Spring) - A library to simplify iOS animations in Swift. :large_orange_diamond:
-* [Canvas ★5215 ⏳1Y](https://github.com/CanvasPod/Canvas) - Animate in Xcode without code http://canvaspod.io
+* [Canvas ★5215 ⏳2Y](https://github.com/CanvasPod/Canvas) - Animate in Xcode without code http://canvaspod.io
 * [Fluent ★298](https://github.com/matthewcheok/Fluent) - Swift animation made easy :large_orange_diamond:
 * [Cheetah ★548](https://github.com/suguru/Cheetah) - Easy animation library on iOS with Swift2. :large_orange_diamond:
 * [RadialLayer ★50 ⏳1Y](https://github.com/soheil/RadialLayer) - Animation for clickable elements (similar to Youtube Music). :large_orange_diamond:

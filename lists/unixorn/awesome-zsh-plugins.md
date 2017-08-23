@@ -681,6 +681,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [purity](https://github.com/pmbenjamin/purity) - Inspired by robbyrussell theme + pure prompt.
 * [racotecnic ★5](https://github.com/elboletaire/zsh-theme-racotecnic) - Based on af-magic and posh-git.
 * [radium ★1](https://github.com/dimitardimitrov/radium) - Designed for dark terminals, (works best with Solarized iTerm2 theme) (prezto).
+* [rafiki ★31](https://github.com/akabiru/rafiki-zsh) - Adds emojis to your zsh terminal.
 * [raincoat](https://github.com/ginfuru/RainCoat) - A simple omz-compatible theme with a corresponding iTerm2 color scheme.
 * [random-emoji](https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0) - Random emoji.
 * [refined ★0](https://github.com/octarect/refined.zsh) - A ZSH theme focused on simpleness and usefulness.

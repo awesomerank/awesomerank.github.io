@@ -249,7 +249,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [rredis](http://cran.r-project.org/web/packages/rredis/) - Redis client for R.
 * [RCassandra](http://cran.r-project.org/web/packages/RCassandra/index.html) - Direct interface (not Java) to the most basic functionality of Apache Cassanda.
 * [RHive ★123](https://github.com/nexr/RHive) - R extension facilitating distributed computing via Apache Hive.
-* [RNeo4j ★196](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
+* [RNeo4j ★196 ⏳1Y](https://github.com/nicolewhite/Rneo4j) - Neo4j graph database driver.
 * [rpostgis ★23](https://github.com/mablab/rpostgis) - R interface to PostGIS database and get spatial objects in R.
 
 ## Machine Learning

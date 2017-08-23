@@ -477,7 +477,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [camelcase ★140](https://github.com/sindresorhus/camelcase) - Convert a dash/dot/underscore/space separated string to camelCase: foo-bar → fooBar.
 - [escape-string-regexp ★160](https://github.com/sindresorhus/escape-string-regexp) - Escape RegExp special characters.
 - [execall ★58](https://github.com/sindresorhus/execall) - Find multiple RegExp matches in a string.
-- [splice-string ★11](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
+- [splice-string ★11 ⏳1Y](https://github.com/sindresorhus/splice-string) - Remove or replace part of a string like `Array#splice`.
 - [indent-string ★41](https://github.com/sindresorhus/indent-string) - Indent each line in a string.
 - [strip-indent ★51](https://github.com/sindresorhus/strip-indent) - Strip leading whitespace from every line in a string.
 - [detect-indent ★90](https://github.com/sindresorhus/detect-indent) - Detect the indentation of code.
