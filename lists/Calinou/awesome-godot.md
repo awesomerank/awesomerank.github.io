@@ -51,7 +51,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing Cellular Automata Method
 - [FPS Test ★32 ⏳1Y](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
 - [HTTP Server ★7 ⏳1Y](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server.
-- [Pathfinding 2d ★29](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
+- [Pathfinding 2d ★29 ⏳1Y](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
 - [UDP Snapshot interpolation](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
 - [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
 - [Voxel Game ★25 ⏳1Y](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - MineCraft like voxel terrain
@@ -61,7 +61,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Themes for your Godot games or user interface.*
 
 - [Arc/Arc Dark ★20](https://github.com/Geequlim/godot-themes)
-- [Iso Dark Theme ★26 ⏳1Y](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme.
+- [Iso Dark Theme ★26 ⏳2Y](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme.
 
 ## Modules
 

@@ -1020,7 +1020,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ecto_paging ★8](https://github.com/Nebo15/ecto_paging) - Cursor-based pagination for Ecto.
 * [ecto_rut ★59](https://github.com/sheharyarn/ecto_rut) - Simple and Powerful Ecto Shortcuts to simplify and speed up development.
 * [ecto_shortcuts ★20](https://github.com/MishaConway/ecto_shortcuts) - Shortcuts for common operations in ecto.
-* [ecto_validation_case ★7 ⏳1Y](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
+* [ecto_validation_case ★7 ⏳2Y](https://github.com/danielberkompas/ecto_validation_case) - Simplify your Ecto model validation tests. Loosely inspired by shoulda matchers, but simpler.
 * [ectophile ★30 ⏳1Y](https://github.com/gjaldon/ectophile) - Ecto extension to instantly support file uploads in models.
 * [elastic ★19](https://github.com/radar/elastic) - A thin-veneer over HTTPotion to help you talk to Elastic Search.
 * [elastix ★94](https://github.com/werbitzky/elastix) - A simple Elastic REST client written in Elixir.

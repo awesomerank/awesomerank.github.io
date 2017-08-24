@@ -494,6 +494,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [MailCatcher](http://mailcatcher.me) - Catches mail and serves it through a dream.
 * [MailForm ★734](https://github.com/plataformatec/mail_form) - Send e-mail straight from forms in Rails with I18n, validations, attachments and request information.
 * [Mailman ★908](https://github.com/mailman/mailman) - An incoming mail processing microframework in Ruby.
+* [Maily ★231](https://github.com/markets/maily) - A Rails Engine to manage, test and navigate through all your email templates of your app, being able to preview them directly in your browser.
 * [Markerb ★199 ⏳1Y](https://github.com/plataformatec/markerb) - Allows you to render multipart e-mails from a single template written in Markdown.
 * [Pony ★1053 ⏳1Y](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 * [premailer-rails ★1008](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
@@ -550,13 +551,11 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Form Builder
 
 * [Abracadabra ★242 ⏳2Y](https://github.com/TrevorHinesley/abracadabra) - The gem that swaps out text with a fully-compliant Rails form in one click.
+* [Cocoon ★2417](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
 * [Formtastic ★4986](https://github.com/justinfrench/formtastic) - A Rails form builder plugin with semantically rich and accessible markup.
 * [Rails Bootstrap Forms ★1143](https://github.com/bootstrap-ruby/rails-bootstrap-forms) - Rails form builder that makes it super easy to create beautiful-looking forms with Twitter Bootstrap 3+.
+* [Reform](https://github.com/apotonick/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
 * [Simple Form ★6741](https://github.com/plataformatec/simple_form) - Rails forms made easy.
-* Nested Forms:
-  * [ActiveForm ★300](https://github.com/railsgsoc/actionform) - Provides an object-oriented approach to represent your forms by building a Form Object which deals with create/update actions of nested objects in a more seamless way.
-  * [Cocoon ★2417](https://github.com/nathanvda/cocoon) - Dynamic nested forms using jQuery made easy; works with formtastic, simple_form or default forms.
-  * [Reform](https://github.com/apotonick/reform) - Gives you a form object with validations and nested setup of models. It is completely framework-agnostic and doesn't care about your database.
 
 ## Game Development
 

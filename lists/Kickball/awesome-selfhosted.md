@@ -9,7 +9,7 @@ title: Awesome Rank for Kickball/awesome-selfhosted
 ---
 # Awesome-Selfhosted
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![](https://camo.githubusercontent.com/3d659054abd6ce21c0e47cf3b83a51bda69ca282/68747470733a2f2f64656d6f2e726f636b65742e636861742f696d616765732f6a6f696e2d636861742e737667)](https://chat.awesome-selfhosted.com)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![](https://camo.githubusercontent.com/3d659054abd6ce21c0e47cf3b83a51bda69ca282/68747470733a2f2f64656d6f2e726f636b65742e636861742f696d616765732f6a6f696e2d636861742e737667)](https://chat.awesh.unknownplus.com/channel/awesome-selfhosted)
 
 Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers.
 
@@ -536,6 +536,10 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code ★7267](https://github.com/odoo/odoo)) `LGPLv3` `Python`
 * [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python`
 
+_Agriculture Resource Planning__
+
+  * [farmOS](http://farmos.org/) - A web-based farm record keeping application. ([Source Code ★94](https://github.com/farmOS/farmOS)) `GPLv2` `PHP`
+  * [tania ★409](https://github.com/Tanibox/tania) - A PHP based, free, and open source farming management system. `Apache` `PHP`
 
 ## Federated Identity/Authentication
 
@@ -607,6 +611,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
 #### Peer-to-peer filesharing
 
   * [bittorrent-tracker](https://webtorrent.io/) - Simple, robust, BitTorrent tracker (client & server) implementation. ([Source Code](https://github.com/feross/bittorrent-tracker)) `MIT` `Nodejs`
+  * [cloud-torrent ★1191](https://github.com/jpillora/cloud-torrent) - A torrent Web Client with HTTP retrievable or streamable downloaded files. `AGPLv3` `Go`
   * [Dat Project](https://datproject.org) - Powerful decentralized file sharing applications built from a large ecosystem of modules. ([Source Code](https://github.com/datproject)) `MIT` `Nodejs`
   * [FilePizza](http://file.pizza/) - Peer-to-peer file transfers in your browser. ([Source Code ★1649](https://github.com/kern/filepizza)) `BSD` `Nodejs`
   * [instant.io](https://github.com/feross/instant.io) - Streaming file transfer over WebTorrent. ([Demo](https://instant.io)) `MIT` `Nodejs`
@@ -930,7 +935,9 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
   * [Habitica](http://habitica.com/) - A habit tracker app which treats your goals like a Role Playing Game. Previously called HabitRPG. ([Source Code](https://github.com/HabitRPG/habitrpg)) `GPLv3/Other` `Nodejs`
   * [Homepage ★46](https://github.com/thetomester13/homepage) - A simple, standalone, self-hosted PHP page that is your window to your server and the web. `MIT` `PHP`
   * [iDashboard-PHP ★91](https://github.com/causefx/iDashboard-PHP) - HTPC Dashboard to load website services. `MIT` `PHP`
+  * [Iotdashboard](http://iotdashboard.pythonanywhere.com/en/) - Fast Django server for IOT Devices. ([Source Code ★21](https://github.com/electrocoder/iotdashboard)) `Apache` `JavaScript`
   * [Phant](http://phant.io/) - Phant is a modular data logging tool for collecting data from the Internet of Things. ([Demo](https://data.sparkfun.com/), [Source Code ★696](https://github.com/sparkfun/phant)) `GPLv3` `Nodejs`
+  * [Thingsboard](https://thingsboard.io/) - Open-source IoT Platform - Device management, data collection, processing and visualization. ([Demo](https://demo.thingsboard.io/signup), [Source Code ★736](https://github.com/thingsboard/thingsboard)) `Apache` `Java`
   * [Thingspeak](https://thingspeak.com/) - An open source “Internet of Things” application and API to store and retrieve data from things using HTTP. ([Demo](https://thingspeak.com/channels/public), [Source Code ★823 ⏳1Y](https://github.com/iobridge/thingspeak)) `GPL` `Ruby`
   * [Tipboard](http://allegro.tech/tipboard/) - In-house, tasty, local dashboarding system. ([Source Code ★608](https://github.com/allegro/tipboard)) `Apache` `Python`
   * [wger](https://wger.de/) - A web-based personal workout, fitness and weight logger/tracker. It can also be used as a simple gym management utility and offers a full REST API as well. ([Demo](https://wger.de), [Source Code](https://github.com/rolandgeider/wger)) `AGPLv3` `Python`

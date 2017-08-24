@@ -59,7 +59,6 @@ Please note * indicates that the package is commercial or may require a license 
 * [Multi Url Picker](https://our.umbraco.org/projects/backoffice-extensions/multi-url-picker/) - Allows editors to pick and sort multiple urls, it uses Umbraco's link picker which supports internal and external links and media.
 * [nuPickers](https://our.umbraco.org/projects/backoffice-extensions/nupickers) - Lots of Picker type property-editors.
 * [Nested Content](https://our.umbraco.org/projects/backoffice-extensions/nested-content/) - list editing property-editor, uses doc types to define the list item blue prints.
-* [Sir Trevor](https://our.umbraco.org/projects/backoffice-extensions/sir-trevor) - An intuitive property-editor for web content.
 * [Skybrud.LinkPicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudlinkpicker/) - a configurable link picker that can be used as either a property editor or grid editor. Supports selecting content, media or specify external URLs.
 * [Skybrud.ImagePicker](https://our.umbraco.org/projects/backoffice-extensions/skybrudimagepicker/) - a configurable image picker that can be used as either a property editor or grid editor. Each image can be supplemented with a title, description and/or link.
 * [Styled Textbox](https://our.umbraco.org/projects/backoffice-extensions/styled-textbox/) - A configural property editor to "replace" the generic textbox & textarea properties. It allows for inline CSS as well as adding classes and having placeholder text.
@@ -68,6 +67,7 @@ Please note * indicates that the package is commercial or may require a license 
 * [Vorto](https://our.umbraco.org/projects/backoffice-extensions/vorto) - Property-editor wrapper for multilingual content entry.
 * [Meganav](https://our.umbraco.org/projects/website-utilities/meganav/) - A flexible, draggable link picker for constructing site navigation menus, big or small.
 * [OEmbed Picker Property Editor](https://our.umbraco.org/projects/backoffice-extensions/oembed-picker-property-editor/) - Property editor to allow embedding 3rd party media like Youtube, Vimeo, ... outside of the rich text editor.
+* [uEditorNotes](https://our.umbraco.org/projects/backoffice-extensions/ueditornotes/) - Provides a way to display instructional messages for content editors, at the point of content entry.
 
 ### SEO Tools
 
@@ -113,8 +113,6 @@ Please note * indicates that the package is commercial or may require a license 
 ## Code Libraries
 
 * [Ditto](https://our.umbraco.org/projects/developer-tools/ditto/) - a lightweight model mapper for `IPublishedContent`.
-* [Zbu Models Builder ★76](https://github.com/zpqrtbnk/Zbu.ModelsBuilder) - generate strongly-typed `IPublishedContent` models automagically.
-* [Umbraco Core Property Value Converters](https://our.umbraco.org/projects/developer-tools/umbraco-core-property-value-converters) - implements converters for the Umbraco Core property-editors.
 * [Skybrud.Umbraco.GridData](https://our.umbraco.org/projects/developer-tools/skybrudumbracogriddata/) - a package for making the Umbraco grid strongly typed.
 
 

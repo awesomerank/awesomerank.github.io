@@ -471,7 +471,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [LDA.js ★159](https://github.com/primaryobjects/lda) - LDA topic modeling for Node.js
 * [Learning.js ★46](https://github.com/yandongliu/learningjs) - Javascript implementation of logistic regression/c4.5 decision tree
 * [Machine Learning](http://joonku.com/project/machine_learning) - Machine learning library for Node.js
-* [machineJS ★337](https://github.com/ClimbsRocks/machineJS) - Automated machine learning, data formatting, ensembling, and hyperparameter optimization for competitions and exploration- just give it a .csv file!
+* [machineJS ★337 ⏳1Y](https://github.com/ClimbsRocks/machineJS) - Automated machine learning, data formatting, ensembling, and hyperparameter optimization for competitions and exploration- just give it a .csv file!
 * [mil-tokyo](https://github.com/mil-tokyo) - List of several machine learning libraries
 * [Node-SVM ★235 ⏳1Y](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 * [Brain ★7794](https://github.com/harthur/brain) - Neural networks in JavaScript **[Deprecated]**
@@ -1030,7 +1030,7 @@ be
 * [Kaggle Merck ★5 ⏳3Y](https://github.com/zygmuntz/kaggle-merck) - Merck challenge at Kaggle
 * [Kaggle Stackoverflow ★38 ⏳3Y](https://github.com/zygmuntz/kaggle-stackoverflow) - Predicting closed questions on Stack Overflow
 * [kaggle_acquire-valued-shoppers-challenge ★51 ⏳3Y](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
-* [wine-quality ★11 ⏳1Y](https://github.com/zygmuntz/wine-quality) - Predicting wine quality
+* [wine-quality ★11 ⏳2Y](https://github.com/zygmuntz/wine-quality) - Predicting wine quality
 
 <a name="python-reinforcement-learning"></a>
 #### Reinforcement Learning

@@ -29,6 +29,7 @@ You might also like [awesome-haskell ★1179](https://github.com/krispo/awesome-
   - [Comparisons](#comparisons)
   - [Official Resources](#official-resources)
 - [Community](#community)
+- [Twitter](#twitter)
 - [Information](#information)
   - [Articles](#articles)
   - [Blogs](#blogs)
@@ -63,6 +64,7 @@ You might also like [awesome-haskell ★1179](https://github.com/krispo/awesome-
 
 - [Documentation](http://eta-lang.org/docs/html/) - Eta documentation.
 - [FAQ](http://eta-lang.org/docs/html/faq.html) - Frequently asked questions.
+- [Tour of Eta](https://tour.eta-lang.org/) - Introduction to Eta.
 - [Eta Blog](https://blog.eta-lang.org/https-medium-com-jyothsnasrinivas-the-best-of-both-the-worlds-eta-and-java-part-1-336d181de89d) - Using Eta with Java, part I.
 - [Eta Blog](https://blog.eta-lang.org/the-best-of-both-the-worlds-eta-and-java-part-2-d7cf27acdef7) - Using Eta with Java, part II.
 - [Eta Blog](https://blog.eta-lang.org/eta-in-practice-working-with-haskell-packages-5dfa3dc0c98a) - Using Haskell packages in Eta code.
@@ -73,11 +75,15 @@ You might also like [awesome-haskell ★1179](https://github.com/krispo/awesome-
 
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/eta) - Eta tag on Stack Overflow.
 - [Google Group](https://groups.google.com/forum/#!forum/eta-discuss) - Eta Google Group.
-- [Twitter](https://twitter.com/eta_lang) - Official Twitter account.
 - [Gitter](https://gitter.im/typelead/eta) - Gitter channel.
 - [Slack](https://slack.eta-lang.org/) - Slack channel.
 - [IRC](https://kiwiirc.com/client/irc.freenode.net/#eta-lang) - IRC channel.
 - [Bangalore](https://www.meetup.com/Bangalore-Eta-Meetup/) - Bangalore Eta Meetup.
+
+## Twitter
+- [Eta](https://twitter.com/eta_lang) - Official Twitter account.
+- [TypeLead](https://twitter.com/typelead) - Company behind Eta.
+- [Rahul Muttineni](https://twitter.com/rahulmutt) - Creator of Eta and CTO of TypeLead.
 
 ## Information
 

@@ -726,6 +726,11 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Migrating Node.js app to serverless](https://www.raymondcamden.com/2017/08/14/migrating-from-a-node-app-to-serverless) - How to migrate an existing Node.js app to a serverless architecture.
 - [Serverless autocomplete with OpenWhisk](https://medium.com/openwhisk/serverless-autocomplete-with-openwhisk-49b9fec1eaab) - How to write a serverless autocomplete service and deploy it to OpenWhisk.
 - [Create complex workflows with AWS Step Functions](https://agilevision.io/blog/serverless%20architecture/2017/02/12/easily-create-complex-workflows-with-aws-step-functions.html) - How to create complex workflows using AWS Step Functions and the Serverless Framework.
+- [AWS Lamdba deployment using Terraform](https://medium.com/build-acl/aws-lambda-deployment-with-terraform-24d36cc86533) - How to deploy AWS Lamdba functions using only Terraform.
+- [Why serverless was made for mobile development](http://www.infoworld.com/article/3214467/node-js/why-serverless-was-made-for-mobile-development.html) - How serverless technologies can aid when developing mobile applications.
+- [A data pipeline for 400 mio. podcast listens](https://medium.com/bytes-by-pippa/how-pippa-built-a-data-pipeline-for-400-million-podcast-listens-f7af6b43f26e) - How a serverless data pipeline helped Pippa to scale and cut their AWS bill in half.
+- [Building a serverless analytics service](https://sbstjn.com/serverless-analytics-with-kinesis-stream-lambda.html) - Post about the [Serverless Analytics ★3](https://github.com/sbstjn/serverless-analytics) project.
+- [Exploring Azure Event Grid](https://blog.tomkerkhove.be/2017/08/22/exploring-azure-event-grid/) - Post which shows how the new Azure Event Grid works and in which scenarios it can be useful.
 
 ## Screencasts
 
@@ -1146,6 +1151,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Image resizer ★5](https://github.com/nicholasgubbins/Serverless-Image-Resizer) - Image resizer like imgix on API Gateway & Lambda.
 - [2791 ★1](https://github.com/brendo/issue-2791) - Reproduction service of [serverless/serverless#2791](https://github.com/serverless/serverless/issues/2791).
 - [Serverless sample ★1](https://github.com/MatiasComercio/serverless-sample) - Sample project for blog post introduction to Serverless Framework.
+- [Analytics ★3](https://github.com/sbstjn/serverless-analytics) - Track website visitors with serverless analytics.
 
 ## Related projects
 
@@ -1384,6 +1390,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [CF vars](https://gitlab.com/kabo/serverless-cf-vars) - Enables use of AWS pseudo functions and `Fn::Sub` string substitution.
 - [Custom packaging ★1](https://github.com/hypoport/serverless-custom-packaging-plugin) - Package your source code using a custom target path inside the `.zip`.
 - [AWS Step Functions demo ★7](https://github.com/AgileVisionCompany/step-functions-demo) - AWS Step Functions demo service.
+- [Reducer ★2](https://github.com/medikoo/serverless-plugin-reducer) - Reduce Lambda package so it hosts only Lambda dependencies.
+- [Transpiler ★2](https://github.com/medikoo/serverless-plugin-transpiler) - Transpile Lambda files when packaging Lambda.
+- [Log streaming ★4](https://github.com/rifflock/serverless-logstreaming-plugin) - Stream logs to a handler function.
 
 ## Literature / Education
 

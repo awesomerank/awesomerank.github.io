@@ -95,7 +95,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [jspm ★3597](https://github.com/jspm/jspm-cli) - Frictionless browser package management.
 * [Ender ★1819 ⏳2Y](https://github.com/ender-js/Ender) - The no-library library.
 * [volo ★1382 ⏳1Y](https://github.com/volojs/volo) - Create front end projects from templates, add dependencies, and automate the resulting projects.
-* [Duo ★3564](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
+* [Duo ★3564 ⏳1Y](https://github.com/duojs/duo) - Next-generation package manager that blends the best ideas from Component, Browserify and Go to make organizing and writing front-end code quick and painless.
 * [yarn](https://yarnpkg.com/) - Fast, reliable, and secure dependency management.
 
 
@@ -833,7 +833,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [GreenSock-JS ★6445](https://github.com/greensock/GreenSock-JS) - High-performance HTML5 animations that work in all major browsers.
 * [TransitionEnd ★87 ⏳1Y](https://github.com/EvandroLG/transitionEnd) - TransitionEnd is an agnostic and cross-browser library to work with transitionend event.
 * [Dynamic.js ★6471 ⏳1Y](https://github.com/michaelvillar/dynamics.js) - Javascript library to create physics-based CSS animations.
-* [the-cube ★6 ⏳4Y](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
+* [the-cube ★6 ⏳5Y](https://github.com/pstadler/the-cube) - The Cube is an experiment with CSS3 transitions.
 * [Effeckt.css ★11058 ⏳1Y](https://github.com/h5bp/Effeckt.css) - A Performant Transitions and Animations Library
 * [animate.css ★44243](https://github.com/daneden/animate.css) - A cross-browser library of CSS animations. As easy to use as an easy thing.
 * [textillate ★3034](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations

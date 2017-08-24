@@ -263,7 +263,7 @@ Libraries and tools that don't fall under the larger class of applications above
 ### Go
 
 - [CANNiBUS ★42 ⏳3Y](https://github.com/Hive13/CANiBUS) - A Go server that allows a room full of researchers to simultaneously work on the same vehicle, whether for instructional purposes or team reversing sessions.
-- [CAN Simulator](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board ★49](https://github.com/carloop/simulator)
+- [CAN Simulator](https://github.com/carloop/simulator-program) - A Go based CAN simulator for the Raspberry Pi to be used with PiCAN2 or the open source [CAN Simulator board ★49 ⏳1Y](https://github.com/carloop/simulator)
 
 ### JavaScript
 

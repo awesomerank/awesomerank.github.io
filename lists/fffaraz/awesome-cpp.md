@@ -462,7 +462,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Restbed ★547](https://github.com/corvusoft/restbed) - C++11 Asynchronous RESTful framework. [AGPL]
 * [cpp-netlib](http://cpp-netlib.org/) - A collection of open-source libraries for high level network programming. [Boost]
 * [cpr ★1214](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. [MIT] [website](https://whoshuu.github.io/cpr/)
-* [Dyad.c ★873](https://github.com/rxi/dyad) - Asynchronous networking for C. [MIT]
+* [Dyad.c ★873 ⏳1Y](https://github.com/rxi/dyad) - Asynchronous networking for C. [MIT]
 * [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. [MIT/X derivate license]
 * [libjingle](https://code.google.com/p/libjingle/) - Google talk voice and P2P interoperability library. [BSD]
 * [Mongoose ★3902](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. [GPL2]

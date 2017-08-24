@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-888-orange.svg) | August 22, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-890-orange.svg) | August 23, 2017
 
 ### Contributing
 
@@ -420,7 +420,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftCLI ★177](https://github.com/jakeheis/SwiftCLI) :penguin: - A powerful framework that can be used to develop a CLI.
 * [Swiftline ★964](https://github.com/nsomar/Swiftline) - A set of tools to help you create command line applications.
 * [SwiftyTextTable ★96](https://github.com/scottrhoyt/SwiftyTextTable) :penguin: - A lightweight library to generate text tables.
-* [TextTable ★38](https://github.com/cfilipov/TextTable) - Easily print textual tables. Inspired by the Python tabulate library.
+* [TextTable ★38 ⏳1Y](https://github.com/cfilipov/TextTable) - Easily print textual tables. Inspired by the Python tabulate library.
 
 ### Concurrency
 *Easier ways to work with concurrency.* [back to top](#readme) 
@@ -635,6 +635,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Katana ★1587](https://github.com/BendingSpoons/katana-swift) - Write apps a la React and Redux.
 * [NoticeObserveKit ★106](https://github.com/marty-suzuki/NoticeObserveKit) - NoticeObserveKit is type-safe NotificationCenter wrapper that associates notice type with info type.
 * [Notificationz ★52](https://github.com/SwiftKitz/Notificationz) - Helping you own `NSNotificationCenter` by providing a simple, customizable adapter.
+* [Observable ★48](https://github.com/roberthein/Observable) - The easiest way to observe values.
 * [PromiseKit ★8076](https://github.com/mxcl/PromiseKit) - Async promise programming lib.
 * [ReactiveCocoa ★17704](https://github.com/ReactiveCocoa/ReactiveCocoa) - ReactiveCocoa (RAC) is a Cocoa framework inspired by Functional Reactive Programming. It provides APIs for composing and transforming streams of values over time.
 * [Reactor ★177](https://github.com/MailOnline/Reactor) - Powering your RAC architecture.
@@ -782,6 +783,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [WDImagePicker ★71](https://github.com/justwudi/WDImagePicker) - Image picker with customizable crop rectangle (getting update).
 * [XAnimatedImage ★575 ⏳1Y](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS based on FLAnimatedImage.
 * [YapImageManager ★45](https://github.com/yapstudios/YapImageManager) - A high-performance image downloader — powered by YapDatabase.
+* [ZImageCropper ★17](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ### Key Value Coding
 *Libraries for key-value coding in Swift* [back to top](#readme) 

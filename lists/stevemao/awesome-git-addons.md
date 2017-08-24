@@ -1135,7 +1135,7 @@ Unpublishing master.
 ```
 
 
-## [git-when-merged ★195](https://github.com/mhagger/git-when-merged)
+## [git-when-merged ★195 ⏳1Y](https://github.com/mhagger/git-when-merged)
 
 ```
 $ git when-merged a2c9e695ecf3600f21fa731e705fd1a0503632d9

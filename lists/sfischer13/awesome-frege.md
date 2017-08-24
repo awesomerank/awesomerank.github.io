@@ -164,7 +164,7 @@ You might also like [awesome-haskell ★1179](https://github.com/krispo/awesome-
 ### Databases
 
 - [Sirocco ★15 ⏳1Y](https://github.com/fregelab/sirocco) - Frege library for relational databases.
-- [frege-dbc ★2 ⏳1Y](https://github.com/DellCliff/frege-dbc) - JDBC with Frege.
+- [frege-dbc ★2 ⏳2Y](https://github.com/DellCliff/frege-dbc) - JDBC with Frege.
 
 ### Email
 

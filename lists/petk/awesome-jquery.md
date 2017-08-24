@@ -170,7 +170,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [Bootstrap Multiselect ★2670](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
 * [File Upload ★27303](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
-* [Ideal Forms ★754 ⏳1Y](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
+* [Ideal Forms ★754 ⏳2Y](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
 * [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX.
 * [jquery-minicolors ★839](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
 * [Justified Gallery ★994](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.

@@ -290,6 +290,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Logging and monitoring
  * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
  * [crystal-logreader ★0](https://github.com/arcage/crystal-logreader) - Tailing log file
+ * [fluent-logger-crystal ★2](https://github.com/TobiasGSmollett/fluent-logger-crystal) - A structured logger for [Fluentd](https://www.fluentd.org/)
  * [katip ★18](https://github.com/guvencenanguvenal/katip) - JSONbase logger
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd ★11785](https://github.com/etsy/statsd) client library
  * [syslog.cr ★4](https://github.com/comandeo/syslog.cr) - Implementation of Syslog client

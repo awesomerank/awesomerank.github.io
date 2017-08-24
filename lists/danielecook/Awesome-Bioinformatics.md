@@ -138,7 +138,7 @@ __DNA Resequencing__
 
 ### Variant Simulation
 
-* __[wgsim ★102 ⏳1Y](https://github.com/lh3/wgsim)__ - __Comes with samtools!__ - Reads simulator.
+* __[wgsim ★102 ⏳2Y](https://github.com/lh3/wgsim)__ - __Comes with samtools!__ - Reads simulator.
 * __[Bam Surgeon ★81](https://github.com/adamewing/bamsurgeon)__ - Tools for adding mutations to existing `.bam` files, used for testing mutation callers.
 
 ### Variant Filtering / Quality Control

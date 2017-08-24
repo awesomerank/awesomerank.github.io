@@ -90,7 +90,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqtt-wall ★14](https://github.com/bastlirna/mqtt-wall) - Subscription only web-based client – like Twitter wall for MQTT.
 * [mqtt-wildcard ★5](https://github.com/hobbyquaker/mqtt-wildcard) - Node.js Module to match a MQTT Topic against Wildcards.
 * [Python MQTT Client Shell ★12 ⏳1Y](https://github.com/bapowell/python-mqtt-client-shell) - a text console-based, interactive shell for exercising various tasks associated with MQTT client communications.
-* [Wireshark-MQTT ★55 ⏳1Y](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissector for Wireshark.
+* [Wireshark-MQTT ★55 ⏳2Y](https://github.com/menudoproblema/Wireshark-MQTT) - MQTT dissector for Wireshark.
 
 ### Clients
 

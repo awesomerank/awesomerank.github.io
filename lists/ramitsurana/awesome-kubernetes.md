@@ -106,7 +106,7 @@ Menu
 * [Big Data](#big-data)
 * [Service Discovery](#service-discovery)
 * [Operating System](#operating-system)
-* [YAML/JSON Config](#yaml/json-config)
+* [YAML/JSON Config](#yamljson-config)
 * [Tuning](#tuning)
 * [Raspberry Pi](#raspberry-pi)
 * [Books](#books) :books:
@@ -392,7 +392,7 @@ Projects
 * [Kontinuous ★66 ⏳1Y](https://github.com/AcalephStorage/kontinuous)
 * [Kit](https://invisionapp.github.io/kit/)
 * [Spinnaker](http://www.spinnaker.io/blog/deploy-to-kubernetes-using-spinnaker)
-
+* [CircleCI](https://www.alexecollins.com/continuous-delivery-with-kubernetes-and-circleci/)
 
 ## Serverless Implementations
 
@@ -402,6 +402,7 @@ Projects
 * [OpenWhisk](https://github.com/openwhisk)
 * [Iron.io](http://iron.io)
 * [FaaS ★2776](https://github.com/alexellis/faas)
+* [FaaS-netes ★130](https://github.com/alexellis/faas-netes)
 
 ## Operators
 
@@ -580,6 +581,8 @@ Projects
 ## YAML/JSON Config
 
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
+* [kompose ★1493](https://github.com/kubernetes/kompose)
+* [kubeval ★210](https://github.com/garethr/kubeval)
 
 ## Tuning
 

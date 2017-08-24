@@ -317,7 +317,7 @@ These frameworks make customizing your zsh setup easier.
 * [mylocation ★4](https://github.com/KasperChristensen/mylocation) - A plugin to show your current location based on your IP address.
 * [mysql-colorize](https://github.com/horosgrisa/mysql-colorize) - Colors for mysql tables.
 * [mysql.plugin.zsh ★9 ⏳2Y](https://github.com/voronkovich/mysql.plugin.zsh) - Adds some functions for dealing with mysql.
-* [nice-exit-code ★16 ⏳2Y](https://github.com/bric3/nice-exit-code) - Maps exit status code to human readable string.
+* [nice-exit-code ★16 ⏳3Y](https://github.com/bric3/nice-exit-code) - Maps exit status code to human readable string.
 * [node.plugin.zsh ★6 ⏳2Y](https://github.com/srijanshetty/node.plugin.zsh) - Srijan Shetty's nodejs plugin for zsh with caching of nvm completions and autoloading of nvm if present.
 * [nodenv.plugin.zsh ★0](https://github.com/jsahlen/nodenv.plugin.zsh) - Auto-load nodenv and its completions into the shell.
 * [nohup ★0](https://github.com/micrenda/zsh-nohup) - Add `nohup` to the current command pressing `Ctrl-H`.

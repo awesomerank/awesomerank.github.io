@@ -101,7 +101,6 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Duplicity](http://duplicity.nongnu.org/) - Encrypted bandwidth-efficient backup using the rsync algorithm.
   * [Elkarbackup ★92](https://github.com/elkarbackup/elkarbackup) - Backup solution based on RSnapshot with a simple web interface
   * [Lsyncd ★2335](https://github.com/axkibe/lsyncd) - File Monitor which spawns a process to synchronize the changes (rsync by default).
-  * [Obnam](http://obnam.org/) - An easy, secure, snapshots-based backup program with data de-duplication.
   * [Rdiff-backup](http://www.nongnu.org/rdiff-backup/) - An easy A remote incremental backup of all your files.
   * [Rsnapshot](http://rsnapshot.org/) - Filesystem Snapshotting Utility.
   * [Shield ★137](https://github.com/starkandwayne/shield) - A pluggable architecture for backup and restore of database systems.

@@ -170,7 +170,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-cycle ★7 ⏳1Y](https://github.com/niieani/aurelia-cycle) * An Aurelia plugin that enables the use of Cycle.js inside of Aurelia
 * [aurelia-kendoui-bridge ★107](https://github.com/aurelia-ui-toolkits/aurelia-kendoui-bridge) * Aurelia and KendoUI integration
 * [aurelia-react-loader ★19 ⏳1Y](https://github.com/bryanrsmith/aurelia-react-loader) * Load React components directly from Aurelia views
-* [aurelia-validatejs ★21](https://github.com/aurelia/validatejs) {official} * Enables expressive validation using decorators and/or a fluent API.
+* [aurelia-validatejs ★21 ⏳1Y](https://github.com/aurelia/validatejs) {official} * Enables expressive validation using decorators and/or a fluent API.
 * [aurelia-view-pipeline ★1 ⏳1Y](https://github.com/behzad888/aurelia-view-pipeline) * A plugin for loading any Markdown into custom element
 * [aurelia-routed-footer ★3](https://github.com/drivesoftware/aurelia-routed-footer) * An Aurelia plugin which adds the ability to control footer content via the router
 * [aurelia-api ★69](https://github.com/SpoonX/aurelia-api) {ES6/TS/Webpack} * A wrapper around aurelia-fetch-client for multiple endpoints

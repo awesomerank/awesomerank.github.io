@@ -126,7 +126,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 24.  [Speech Recognition with Deep Recurrent Neural Networks](http://www.cs.toronto.edu/~fritz/absps/RNN13.pdf)
 25.  [Reinforcement Learning Neural Turing Machines](http://arxiv.org/pdf/1505.00521v1)
 26.  [Learning Phrase Representations using RNN Encoder-Decoder for Statistical Machine Translation](http://arxiv.org/pdf/1406.1078v3.pdf)
-27. [Google - Sequence to Sequence  Learning with Nneural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
+27. [Google - Sequence to Sequence  Learning with Neural Networks](http://papers.nips.cc/paper/5346-sequence-to-sequence-learning-with-neural-networks.pdf)
 28. [Memory Networks](http://arxiv.org/pdf/1410.3916v10)
 29. [Policy Learning with Continuous Memory States for Partially Observed Robotic Control](http://arxiv.org/pdf/1507.01273v1)
 30. [Microsoft - Jointly Modeling Embedding and Translation to Bridge Video and Language](http://arxiv.org/pdf/1505.01861v1.pdf)
@@ -463,7 +463,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 43.  [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne ★832](https://github.com/dnouri/nolearn)
 44.  [Sonnet - a library for constructing neural networks by Google's DeepMind ★5196](https://github.com/deepmind/sonnet)
 45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration ★6656](https://github.com/pytorch/pytorch)
-
+46.  [CNTK - Microsoft Cognitive Toolkit ★12124](https://github.com/Microsoft/CNTK)
 
 ### Miscellaneous
 
@@ -497,6 +497,8 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 29. [Machine Learning for Software Engineers ★16073](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 30. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
 31. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+32. [Dockerface ★11](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
+33. [Awesome Deep Learning Music ★7](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
 
 -----
 ### Contributing
