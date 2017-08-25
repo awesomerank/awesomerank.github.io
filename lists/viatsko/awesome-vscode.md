@@ -185,7 +185,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### JavaScript
 
-- [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](http://eslint.org/).
+- [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2841](https://github.com/sindresorhus/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★11100](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier ★317](https://github.com/prettier/prettier-vscode).
@@ -265,11 +265,11 @@ Features full workbench theming
 
 ## Productivity
 
-### [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=formulahendry.azure-iot-toolkit)
+### [Azure IoT Toolkit](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit)
 
-> Everything you need for the Azure IoT development: Interact with Azure IoT Hub; IoT Device Management; Discover Ethernet, USB serial, WiFi connected devices
+> Everything you need for the Azure IoT development: Interact with Azure IoT Hub, manage devices connected to Azure IoT Hub, and develop with code snippets for Azure IoT Hub
 
-![](https://raw.githubusercontent.com/formulahendry/vscode-azure-iot-toolkit/master/images/monitor.gif)
+![](https://raw.githubusercontent.com/formulahendry/vscode-azure-iot-toolkit/master/images/device-explorer.png)
 
 ### [Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks)
 

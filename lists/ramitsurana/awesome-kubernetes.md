@@ -401,7 +401,7 @@ Projects
 * [Kubeless](https://github.com/skippbox/kubeless)
 * [OpenWhisk](https://github.com/openwhisk)
 * [Iron.io](http://iron.io)
-* [FaaS ★2776](https://github.com/alexellis/faas)
+* [OpenFaaS ★2776](https://github.com/alexellis/faas)
 * [FaaS-netes ★130](https://github.com/alexellis/faas-netes)
 
 ## Operators

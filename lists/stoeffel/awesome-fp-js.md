@@ -119,6 +119,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [LiveScript](http://gkz.github.io/LiveScript/) – LiveScript has a straightforward mapping to JavaScript and allows you to write expressive code devoid of repetitive boilerplate.
 * [Quack ★174](https://github.com/quack/quack) - A multi-paradigm programming language with gradual and duck typing that targets PHP and JS.
 * [ion ★16](https://github.com/ion-lang/ion) - no BS JS
+* [RamdaScript ★71](https://github.com/yosbelms/ramdascript) - A Lisp that compiles to opinionated JavaScript on top of RamdaJS
 
 ## Programming Tools
 
