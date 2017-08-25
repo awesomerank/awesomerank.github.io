@@ -156,7 +156,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [CSS flexbox please](http://demo.agektmr.com/flexbox/)
 * [CSS Flexbox snippets for Atom ★5 ⏳1Y](https://github.com/brenopolanski/css-flexbox-atom-snippets)
 * [CSS Flexbox snippets for Sublime Text 2/3 ★13](https://github.com/brenopolanski/css-flexbox-sublime-snippets)
-* [Fibonacci ★423 ⏳2Y](https://github.com/maxsteenbergen/Fibonacci)
+* [Fibonacci ★423 ⏳3Y](https://github.com/maxsteenbergen/Fibonacci)
 * [Flexbox in 5 minutes](https://cvan.io/flexboxin5/)
 * [Flexbox playground](https://web.archive.org/web/20151207135410/http://flexiejs.com/playground/)
 * [Flexbox property manipulator](http://codepen.io/enxaneta/full/adLPwv/)

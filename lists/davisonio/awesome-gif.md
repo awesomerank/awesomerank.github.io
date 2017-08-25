@@ -72,7 +72,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Gifsicle ★446](https://github.com/pornel/giflossy) - lossy GIF compressor
 - [Gifs ★1526](https://github.com/jglovier/gifs) - storage place for GIFs - [demo](http://gifs.joelglovier.com)
 - [Gifshot ★2838](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo - [demo](http://yahoo.github.io/gifshot/)
-- [Gifsockets ★1586 ⏳4Y](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
+- [Gifsockets ★1586 ⏳5Y](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
 - [X-gif ★1888](https://github.com/geelen/x-gif) - a web component for flexible GIF playback
 - [gifme ★324 ⏳3Y](https://github.com/holman/gifme) - generate animated GIFs
 - [GifW00t ★681 ⏳2Y](https://github.com/yaronn/GifW00t) - javascript web recorder

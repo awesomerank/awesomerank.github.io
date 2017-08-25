@@ -636,7 +636,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [jcSlider ★36 ⏳1Y](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
 * [basic-jquery-slider ★572 ⏳1Y](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
 * [jQuery.adaptive-slider ★50 ⏳3Y](https://github.com/creative-punch/jQuery.adaptive-slider) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
-* [slidr ★1495 ⏳1Y](https://github.com/bchanx/slidr) - add some slide effects.
+* [slidr ★1495 ⏳2Y](https://github.com/bchanx/slidr) - add some slide effects.
 * [Flickity ★3931](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
 * [Glide.js ★1656](https://github.com/jedrzejchalubek/glidejs) - Responsive and touch-friendly jQuery slider. It's simple, lightweight and fast.
 * [jQuery.adaptive-slider ★50 ⏳3Y](https://github.com/creative-punch/jQuery.adaptive-slider) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
@@ -797,7 +797,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Video/Audio
 
- * [prettyembed.js ★1060](https://github.com/mike-zarandona/prettyembed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
+ * [prettyembed.js ★1060 ⏳1Y](https://github.com/mike-zarandona/prettyembed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
  * [html5media ★975](https://github.com/etianen/html5media) -  Enables <video> and <audio> tags in all major browsers. <https://html5media.info/>
  * [Play-em JS ★43](https://github.com/adrienjoly/playemjs) -  Play'em is a javascript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
  * [polyplayer ★33 ⏳2Y](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API

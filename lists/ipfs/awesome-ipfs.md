@@ -94,6 +94,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipfs-chrome-station ★41](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-chrome-extension ★57 ⏳1Y](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-companion ★97](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway
+* [ipfs-gui ★8](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
 * [ipfs-linux-service ★31 ⏳2Y](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 * [ipfs-paste ★16 ⏳1Y](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 * [ipfs-screencap ★25](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.

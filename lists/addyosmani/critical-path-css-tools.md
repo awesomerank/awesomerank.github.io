@@ -46,7 +46,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 ## PhantomJS
 
-* [dr-css-inliner ★73 ⏳2Y](https://github.com/drdk/dr-css-inliner) - PhantomJS script to inline above-the-fold CSS on a page.
+* [dr-css-inliner ★73 ⏳3Y](https://github.com/drdk/dr-css-inliner) - PhantomJS script to inline above-the-fold CSS on a page.
 
 ## Inline sources (styles, scripts)
 

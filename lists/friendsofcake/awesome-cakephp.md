@@ -300,7 +300,7 @@ Additional lists you might find useful:
 ## Queue
 *Plugins for working with event and task queues.*
 
-- [CakeResque plugin ★159 ⏳1Y](https://github.com/wa0x6e/Cake-Resque) - A plugin for Resque, a library for creating background jobs.
+- [CakeResque plugin ★159 ⏳2Y](https://github.com/wa0x6e/Cake-Resque) - A plugin for Resque, a library for creating background jobs.
 - [CakeQueuesadilla plugin ★17](https://github.com/josegonzalez/cakephp-queuesadilla) - A plugin that provides queueing integration with a variety of backends (BeanstalkD, MySQL, Redis, etc.).
 - [Gearman plugin ★10](https://github.com/cvo-technologies/cakephp-gearman) - A plugin for offloading CakePHP tasks to a Gearman Job Server.
 - [Queue plugin ★151](https://github.com/dereuromark/cakephp-queue) - A minimal and dependency-free queue solution.

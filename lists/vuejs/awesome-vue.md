@@ -533,6 +533,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [PingBreak](https://pingbreak.com) A free and simple website monitoring service using vuejs for real-time dashboard
   - [Todoist Tribute ★14](https://github.com/rohitpaulk/todoist-tribute) - Todoist clone, written in Rails + Vue
   - [JSON Editor](https://json-editor.tangramjs.com) - A schema-aware JSON editor built with Vue2 and firebase.
+  - [Develteam](https://www.develteam.com) - A social network for indie game dievelopers.
+  - [Mixsii](https://www.mixsii.com) - A free video chat room site for teens, adults, family, and friends.
 
 ### Interactive Experiences
 
@@ -738,6 +740,7 @@ Tooltips / popovers
  - [vue-audio ★42](https://github.com/shershen08/vuejs-sound-player) - audio-tag wrapper; sound player component for Vue 2.x
  - [vue-dplayer](https://github.com/sinchang/vue-dplayer) - A Vue 2.x video player component based on DPlayer.
  - [vue-canvasvideo ★2](https://github.com/chrishurlburt/vue-canvasvideo) - A Vue 2.x component for video backgrounds and autoplay video on iOS/Safari.
+ - [vue-music ★3](https://github.com/petsgre/music) - A Vue component base on html5 <audio>.
 
 ### Infinite Scroll
 
@@ -1264,6 +1267,7 @@ Tooltips / popovers
  - [vuex-cache ★9](https://github.com/superwf/vuex-cache) - A Vuex plugin utility to cache action those will make remote request.
  - [vuex-persist ★16](https://github.com/championswimmer/vuex-persist) - A Typescript-ready Vuex plugin to help save the store to localStorage or any custom Storage (that you can configure).
   - [vuex-local-state ★4](https://github.com/biluochun/vuex-localState) - Add 'localState/sessionState' options to vuex. Keep the Vuex state with localStorage.
+  - [vuex-cli-scaffold ★1](https://github.com/ndabAP/vuex-cli-scaffold) - Scaffold vuex actions, mutations, getters and the state.
 
 ###### Sync Between Tabs
 

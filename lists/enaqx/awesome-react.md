@@ -471,7 +471,7 @@ A collection of awesome things regarding React ecosystem.
 * [StateTrooper - Centrally manage state for React applications with CSP ★10](https://github.com/swipely/state-trooper)
 * [Preact: Fast 3kb React alternative with the same ES6 API.](https://git.io/preact)
 * [riotjs - A React- like, 3.5KB user interface library](https://github.com/muut/riotjs)
-* [Maple.js - Bringing the concept of web-components to React ★428 ⏳1Y](https://github.com/Wildhoney/Maple.js)
+* [Maple.js - Bringing the concept of web-components to React ★428 ⏳2Y](https://github.com/Wildhoney/Maple.js)
 * [react-i13n - A performant, scalable and pluggable approach to instrumenting your React application ★270](https://github.com/yahoo/react-i13n)
 * [react-icons - svg react icons of popular icon packs ★1111](https://github.com/gorangajic/react-icons)
 * [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc... ★209](https://github.com/Wildhoney/Keo)

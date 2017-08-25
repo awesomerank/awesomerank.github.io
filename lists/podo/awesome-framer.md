@@ -123,7 +123,7 @@ title: Awesome Rank for podo/awesome-framer
 * [Comment-for-Framer ★16 ⏳2Y](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes.
 * [framer-viewNavigationController ★221](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
 * [Layers-for-Framer ★33 ⏳1Y](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project.
-* [Framer-Highlightr ★27 ⏳1Y](https://github.com/jonahvsweb/Framer-Highlightr) - Custom Framer module that shows hotspots over clickable layers in your prototype.
+* [Framer-Highlightr ★27 ⏳2Y](https://github.com/jonahvsweb/Framer-Highlightr) - Custom Framer module that shows hotspots over clickable layers in your prototype.
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.
 * [VRComponent ★156](https://github.com/jonastreub/VRComponent) - Virtual reality component for Framer.
 * [3D Touch Module](http://jrdn.io/dO4r) - Module for iOS 3D Touch support by [Jordan Dobson](https://twitter.com/jordandobson).
@@ -135,7 +135,7 @@ title: Awesome Rank for podo/awesome-framer
 * [Material Kit for FramerJS ★255](https://github.com/k-vyn/framer-material-kit) - Make prototyping with Material Design fast and easy without compromising the quality or customization.
 * [iOS Kit for FramerJS ★531](https://github.com/k-vyn/framer-ios-kit) - Make prototyping for iOS fast and easy without compromising the quality or customization.
 * [framer-Firebase ★187](https://github.com/marckrenn/framer-Firebase) - The Firebase module allows your Framer prototype to load, save and sync data effortlessly between multiple sessions and devices.
-* [spotifyApiFramer ★8](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API.
+* [spotifyApiFramer ★8 ⏳1Y](https://github.com/mamezito/spotifyApiFramer) - Framer module that allows to get JSON objects when querying with Spotify API.
 * [ViewController-for-Framer ★403](https://github.com/awt2542/ViewController-for-Framer) - Module for Framer helps you create multi step user flows with pre-made transitions like "fade in", "zoom in" and "slide in".
 * [Gridddle ★43](https://github.com/Volorf/Gridddle) - Grid module for FramerJS.
 * [SliderLibrary ★18](https://github.com/floludwig/SliderLibrary) - Framer library for creating sliders.

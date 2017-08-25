@@ -126,7 +126,7 @@ A curated list of fonts and typography resources.
 * [Hack](https://github.com/chrissimpkins/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
-* [Meslo-Font ★1760 ⏳1Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
+* [Meslo-Font ★1760 ⏳2Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts ★5063](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 

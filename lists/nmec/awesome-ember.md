@@ -37,7 +37,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [Ember Inspector ★830](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
 - [gulp-ember-handlebars ★12 ⏳2Y](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
 - [Ember Data Sails Adapter ★90 ⏳2Y](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
-- [Ember Data WordPress Adapter ★39 ⏳2Y](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
+- [Ember Data WordPress Adapter ★39 ⏳3Y](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.
 - [Ember Twiddle](https://ember-twiddle.com/) - An Ember Twiddle for multiples files which lets you save your work in Github.
 - [Ember Perf ★65](https://github.com/mike-north/ember-perf) - Measure user-percieved performance data in your ember.js app

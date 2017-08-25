@@ -126,7 +126,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [eslint-rule-documentation ★15](https://github.com/jfmengels/eslint-rule-documentation) - Find the url for the documentation of an ESLint rule
 - [eslint-watch ★81](https://github.com/rizowski/eslint-watch) - Run ESLint with watch mode
 - [codacy-eslint ★7](https://github.com/codacy/codacy-eslint) - Docker used at [Codacy](https://www.codacy.com) to run ESLint
-- [esprint ★241](https://github.com/pinterest/esprint) - Rund ESLint across multiple threads
+- [esprint ★241](https://github.com/pinterest/esprint) - Run ESLint across multiple threads
 
 ## Tutorials
 

@@ -175,7 +175,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ratio ★7](https://github.com/Qqwy/elixir-rational) - Adds Rational Numbers and allows them to be used in common arithmatic operations. Also supports conversion between Floats and Rational Numbers.
 * [red_black_tree ★22](https://github.com/SenecaSystems/red_black_tree) - Red-Black tree implementation in Elixir.
 * [remodel ★97](https://github.com/stavro/remodel) - An Elixir presenter package used to transform map structures.
-* [rendezvous ★3 ⏳1Y](https://github.com/timdeputter/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
+* [rendezvous ★3 ⏳2Y](https://github.com/timdeputter/Rendezvous) - Implementation of the Rendezvous or Highest Random Weight (HRW) hashing algorithm in Elixir.
 * [rock ★1](https://github.com/ayrat555/rock) - Elixir implementation of ROCK: A Robust Clustering Algorithm for Categorical Attributes.
 * [sfmt ★60](https://github.com/jj1bdx/sfmt-erlang) - SIMD-oriented Fast Mersenne Twister (SFMT) for Erlang.
 * [simhash ★9 ⏳1Y](https://github.com/UniversalAvenue/simhash-ex) - Simhash implementation using Siphash and N-grams.
@@ -1468,7 +1468,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [erlsh ★48](https://github.com/proger/erlsh) - Family of functions and ports involving interacting with the system shell, paths and external programs.
 * [erlware_commons ★156](https://github.com/erlware/erlware_commons) - Additional standard library for Erlang.
 * [exjprop ★0](https://github.com/stocks29/exjprop) - Elixir library for reading Java properties files from various sources.
-* [fitex ★1 ⏳1Y](https://github.com/timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
+* [fitex ★1 ⏳2Y](https://github.com/timdeputter/FitEx) - FitEx is a Macro-Module which provides a bit of sugar for function definitions.
 * [global ★2 ⏳2Y](https://github.com/mgwidmann/global) - Wrapper of the Erlang `:global` module.
 * [mandrake ★6 ⏳1Y](https://github.com/mbasso/mandrake) - Mandrake is a functional programming library that bring something else magic in elixir.
 * [mnemonix ★19](https://github.com/christhekeele/mnemonix) - A unified interface to key/value stores.

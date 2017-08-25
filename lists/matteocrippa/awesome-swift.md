@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-890-orange.svg) | August 23, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-894-orange.svg) | August 24, 2017
 
 ### Contributing
 
@@ -268,6 +268,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Libs for AI based projects (Machine Learning, Neural Networks etc).* [back to top](#readme) 
 
 * [BrainCore ★326](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework.
+* [CoreML-Models ★34](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
 * [MLKit ★79](https://github.com/Somnibyte/MLKit) - A simple machine learning framework.
 * [Swift-AI ★4881](https://github.com/Swift-AI/Swift-AI) - The machine learning library.
 
@@ -427,6 +428,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AsyncNinja ★53](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives.
 * [Hydra ★1114](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
+* [Kommander ★82](https://github.com/intelygenz/Kommander-iOS) - Manage the task execution in different threads through Kommands.
 * [Overdrive ★805](https://github.com/arikis/Overdrive) - Fast async task based API with focus on type safety, concurrency and multi threading.
 * [Queuer ★571](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 * [Safe ★400](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization.
@@ -907,6 +909,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Malibu ★271](https://github.com/hyperoslo/Malibu) - A networking library built on promises.
 * [Moya ★6733](https://github.com/Moya/Moya) - Network abstraction layer.
 * [NEKit ★1431](https://github.com/zhuhaow/NEKit) - A toolkit for Network Extension Framework.
+* [NetClient ★34](https://github.com/intelygenz/NetClient-iOS) - Versatile HTTP networking library.
 * [Netfox ★1971](https://github.com/kasketis/netfox) - A lightweight, one line setup, network debugging library.
 * [OAuth2 ★577](https://github.com/p2/OAuth2) - oauth2 auth lib.
 * [OAuthSwift ★1755](https://github.com/OAuthSwift/OAuthSwift) - OAuth library for iOS.
@@ -1429,6 +1432,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### UITableView
 [back to top](#readme) 
 
+* [AZTableViewController ★27](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
 * [CollapsibleTable ★8](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views.
 * [DTTableViewManager ★305](https://github.com/DenHeadless/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 * [ExpandableCell ★116](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate

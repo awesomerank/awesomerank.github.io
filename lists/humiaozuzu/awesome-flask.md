@@ -63,7 +63,7 @@ Resources
     - [cleanblog ★81](https://github.com/defshine/cleanblog) - a clean blog system based on flask and mongoengine
     - [Quokka CMS ★1687](https://github.com/quokkaproject/quokka) - CMS made with Flask and MongoDB
     - [chat ★274 ⏳5Y](https://github.com/lzyy/chat) - a live chat built with python (flask + gevent + apscheduler) + redis
-    - [chatapp ★150 ⏳1Y](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
+    - [chatapp ★150 ⏳2Y](https://github.com/vinceprignano/chatapp) - Flask and Angular.js Chat Application using Socket.io
     - [Frozen-Flask ★475](https://github.com/Frozen-Flask/Frozen-Flask) - Freezes a Flask application into a set of static files
     - [mcflyin ★64 ⏳3Y](https://github.com/wrobstory/mcflyin) - A small timeseries transformation API built on Flask and Pandas
     - [Skylines ★127](https://github.com/skylines-project/skylines) - Live tracking, flight database and competition framework

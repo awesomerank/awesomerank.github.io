@@ -540,13 +540,13 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## File Upload
 
+* [attache ★198](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns.
 * [CarrierWave ★7624](https://github.com/carrierwaveuploader/carrierwave) - Classier solution for file uploads for Rails, Sinatra and other Ruby web frameworks.
 * [DragonFly ★2019](https://github.com/markevans/dragonfly) - A Ruby gem for on-the-fly processing - suitable for image uploading in Rails, Sinatra and much more!.
 * [PaperClip ★8665](https://github.com/thoughtbot/paperclip) - Easy file attachment management for ActiveRecord.
 * [rack-secure-upload ★71 ⏳1Y](https://github.com/dtaniwaki/rack-secure-upload) - Upload files securely.
 * [Refile ★2374](https://github.com/refile/refile) - A modern file upload library for Ruby applications, Refile is an attempt by CarrierWave's original author to fix the design mistakes and overengineering in CarrierWave.
 * [Shrine ★1440](https://github.com/janko-m/shrine) - Toolkit for handling file uploads in Ruby
-* [attache ★198](https://github.com/choonkeat/attache) - Standalone image and file server to decouple your app from file management concerns: https://attache-demo.herokuapp.com.
 
 ## Form Builder
 

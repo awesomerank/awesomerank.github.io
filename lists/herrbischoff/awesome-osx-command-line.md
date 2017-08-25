@@ -1734,7 +1734,7 @@ chsh -s $(brew --prefix)/bin/zsh
 - [Hack](http://sourcefoundry.org/hack/) - Hack is hand groomed and optically balanced to be your go-to code face.
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html) -  A monospace font, designed for code listings and the like.
 - [Input](http://input.fontbureau.com) - A flexible system of fonts designed specifically for code.
-- [Meslo ★1760 ⏳1Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font.
+- [Meslo ★1760 ⏳2Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font.
 - [Operator Mono](https://www.typography.com/fonts/operator/overview/) - A surprisingly usable alternative take on a monospace font (commercial).
 - [Powerline Fonts ★9011](https://github.com/powerline/fonts) - Repo of patched fonts for the Powerline plugin.
 - [Source Code Pro](https://adobe-fonts.github.io/source-code-pro/) - A monospaced font family for user interfaces and coding environments.

@@ -39,7 +39,7 @@ Checks which modules you have used in your code and then makes sure they are lis
 npm i dependency-check --save-dev
 ```
 
-### [create-module ★31 ⏳1Y](https://github.com/finnp/create-module) by [finnp](https://www.npmjs.com/~finnpauls)
+### [create-module ★31 ⏳2Y](https://github.com/finnp/create-module) by [finnp](https://www.npmjs.com/~finnpauls)
 
 Helper tool for the usual steps to create a module. Creates empty github repo, generates module boilerplate, runs npm init, does first commit + push, etc.
 

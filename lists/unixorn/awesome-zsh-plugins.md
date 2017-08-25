@@ -242,7 +242,7 @@ These frameworks make customizing your zsh setup easier.
 * [cdr ★5 ⏳1Y](https://github.com/willghatch/zsh-cdr) - Easy setup of cdr for zsh.
 * [clean-project ★1](https://github.com/wwilsman/zsh-clean-project) - Remove files from projects (automatically by default). Useful for keeping `.DS_Store` and `Thumbs.db` files from cluttering your directories.
 * [colored-man-pages-mod ★1](https://github.com/zuxfoucault/colored-man-pages_mod) - Forked from [robbyrussell/oh-my-zsh/plugins/colored-man-pages](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/colored-man-pages/colored-man-pages.plugin.zsh). Colorizes `man` output.
-* [command-not-found ★10](https://github.com/Tarrasch/zsh-command-not-found) - mirror of the oh-my-zsh command-not-found plugin so you don't have to include all of omz.
+* [command-not-found ★10 ⏳1Y](https://github.com/Tarrasch/zsh-command-not-found) - mirror of the oh-my-zsh command-not-found plugin so you don't have to include all of omz.
 * [copyzshell ★12](https://github.com/rutchkiwi/copyzshell) - A ZSH plugin to copy your shell configuration to another machine over ssh.
 * [crash ★9](https://github.com/molovo/crash) - Adds proper error handling, exceptions and try/catch for ZSH.
 * [crayon-syntax-zsh ★0 ⏳3Y](https://github.com/Stibbons/crayon-syntax-zsh) - ZSH syntax highlighting for the Crayon Plugin for Wordpress.
@@ -625,8 +625,8 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [klendathu ★0 ⏳2Y](https://github.com/kegonomics/klendathu) - Uses Powerline iconsolas.
 * [lagune ★0 ⏳1Y](https://github.com/noplay/lagune) - a minimal ZSH theme.
 * [lambda-pure ★30](https://github.com/marszall87/lambda-pure) - A minimal ZSH theme, based on Pure, with added NodeJS version.
-* [lambdav ★0](https://github.com/vkaracic/lambdav-zsh-theme) - A combination of the Lambda and Fishy themes.
 * [lambda ★266](https://github.com/halfo/lambda-mod-zsh-theme) - A ZSH theme optimized for git users who use unicode-compatible fonts and terminal applications.
+* [lambdav ★0](https://github.com/vkaracic/lambdav-zsh-theme) - A combination of the Lambda and Fishy themes.
 * [lazyprodigy ★0 ⏳4Y](https://github.com/drewlustro/lazyprodigy-zsh-theme) - Optimized for dark terminals, has variants for local and remote systems.
 * [lime ★10 ⏳1Y](https://github.com/yous/lime) - Simple standalone ZSH theme.
 * [linuxer ★0](https://github.com/patrick330602/linuxer) - Inspired by Yaris Alex Gutierrez's classyTouch, Yad Smood's ys, and Bureau theme.
@@ -668,8 +668,9 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [powerless ★9](https://github.com/martinrotter/powerless) - Tiny & simple pure ZSH prompt inspired by powerline.
 * [powerlevel9k ★2527](https://github.com/bhilburn/powerlevel9k) - A very flexible theme based on the well-known agnoster-theme with support for various VCS, AWS, rbenv, virtualenv, etc. Works with vanilla ZSH as well as the various ZSH frameworks.
 * [powerline-cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - Based on [bullet-train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme).
-* [powerline ★0](https://github.com/syui/powerline.zsh) - A git aware powerline theme.
+* [powerline-go ★290](https://github.com/justjanne/powerline-go) - A beautiful and useful low-latency prompt, written in go.
 * [powerline-shell](https://github.com/banga/powerline-shell) - A [powerline ★2818 ⏳4Y](https://github.com/Lokaltog/vim-powerline)-like prompt for Bash, ZSH and Fish. Shows important details about git/svn/hg/fossil branch and is easy to customize/extend.
+* [powerline ★0](https://github.com/syui/powerline.zsh) - A git aware powerline theme.
 * [powerzeesh](https://github.com/sevaho/Powerzeesh) - A Powerline based ZSH theme. It aims for simplicity, showing information only when it's relevant, optimized for speed and look. Inspired by [Agnoster](https://github.com/agnoster/agnoster-zsh-theme) and [Powerline ★842](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme)
 * [pre-theme ★30](https://github.com/leandromatos/pre-theme) - A collection of themes for Sublime Text, Terminal, iTerm2 and ZSH.
 * [predawn-shell ★25](https://github.com/jamiewilson/predawn-shell) - Theme for dark terminal themes.

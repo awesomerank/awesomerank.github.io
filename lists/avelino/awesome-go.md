@@ -152,6 +152,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [complete ★190](https://github.com/posener/complete) - Write bash completions in Go + Go command bash completion.
 * [docopt.go ★847](https://github.com/docopt/docopt.go) - Command-line arguments parser that will make you smile.
 * [drive ★3417](https://github.com/odeke-em/drive) - Google Drive client for the commandline.
+* [env ★5](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs.
 * [flag ★69](https://github.com/cosiner/flag) - Simple but powerful command line option parsing library for Go support subcommand.
 * [go-arg ★422](https://github.com/alexflint/go-arg) - Struct-based argument parsing in Go.
 * [go-flags ★856](https://github.com/jessevdk/go-flags) - go command line option parser.
@@ -399,6 +400,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 *Packages that help with building Distributed Systems.*
 
 * [celeriac ★26](https://github.com/svcavallar/celeriac.v1) - Library for adding support for interacting and monitoring Celery workers, tasks and events in Go.
+* [digota ★120](https://github.com/digota/digota) - grpc ecommerce microservice.
 * [drmaa ★18](https://github.com/dgruber/drmaa) - Job submission library for cluster schedulers based on the DRMAA standard.
 * [flowgraph ★31](https://github.com/vectaport/flowgraph) - MPI-style ready-send coordination layer.
 * [gleam ★820](https://github.com/chrislusf/gleam) - Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luajit's high performance, runs standalone or distributed.
@@ -1304,6 +1306,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-astisub ★24](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 * [goav ★341](https://github.com/giorgisio/goav) - Comphrensive Go bindings for FFmpeg.
 * [gst ★131 ⏳1Y](https://github.com/ziutek/gst) - Go bindings for GStreamer.
+* [libgosubs ★1](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass. 
 * [v4l ★11](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 
 ## Web Frameworks

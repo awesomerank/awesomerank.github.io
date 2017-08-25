@@ -101,7 +101,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * JavaScript
     * [by @jiayihu ★975](https://github.com/jiayihu/pretty-algorithms)
     * [by @felipernb ★2507](https://github.com/felipernb/algorithms.js)
-    * [by @nzakas ★4819](https://github.com/nzakas/computer-science-in-javascript)
+    * [by @nzakas ★4819 ⏳1Y](https://github.com/nzakas/computer-science-in-javascript)
     * [by @duereg ★553](https://github.com/duereg/js-algorithms)
     * [by @mgechev ★3107](https://github.com/mgechev/javascript-algorithms)
 * Objective-C

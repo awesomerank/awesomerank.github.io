@@ -479,7 +479,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Synaptic ★4520](https://github.com/cazala/synaptic) - Architecture-free neural network library for Node.js and the browser
 * [kNear ★35 ⏳2Y](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
 * [NeuralN ★272 ⏳2Y](https://github.com/totemstech/neuraln) - C++ Neural Network library for Node.js. It has advantage on large dataset and multi-threaded training.
-* [kalman ★82 ⏳1Y](https://github.com/itamarwe/kalman) - Kalman filter for Javascript.
+* [kalman ★82 ⏳2Y](https://github.com/itamarwe/kalman) - Kalman filter for Javascript.
 * [shaman ★81 ⏳1Y](https://github.com/luccastera/shaman) - Node.js library with support for both simple and multiple linear regression.
 * [ml.js ★389](https://github.com/mljs/ml) - Machine learning and numerical analysis tools for Node.js and the Browser!
 * [Pavlov.js ★475](https://github.com/NathanEpstein/Pavlov.js) - Reinforcement learning using Markov Decision Processes

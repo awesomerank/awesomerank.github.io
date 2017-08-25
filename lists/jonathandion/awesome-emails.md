@@ -40,7 +40,7 @@ title: Awesome Rank for jonathandion/awesome-emails
 ## Templates
 - [Campaign ★615](https://github.com/bevacqua/campaign) - Compose responsive email templates easily, fill them with models, and send them out.
 - [Sendwithus](https://www.sendwithus.com/resources/templates) - Open Source Email Templates
-- [Mailchimp Email Blueprints ★6128 ⏳1Y](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
+- [Mailchimp Email Blueprints ★6128 ⏳2Y](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
 - [Responsive Transactional HTML Email Templates ★5503 ⏳1Y](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
 - [Cerberus ★2394](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.

@@ -273,7 +273,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [IronScheme ★143](https://github.com/leppie/IronScheme) - R6RS Scheme compiler, runtime and many standard libraries
 * [JSIL ★1373](https://github.com/sq/JSIL) - CIL to Javascript Compiler http://jsil.org/
 * [Mono-basic ★50 ⏳1Y](https://github.com/mono/mono-basic) - Visual Basic Compiler and Runtime
-* [Nemerle ★413](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system. http://nemerle.org/About
+* [Nemerle ★413](https://github.com/rsdn/nemerle) - Nemerle is a high-level statically-typed programming language for the .NET platform. It offers functional, object-oriented and imperative features. It has a simple C#-like syntax and a powerful meta-programming system. 
 * [Netjs ★660](https://github.com/praeclarum/Netjs) - .NET to TypeScript and JavaScript compiler. Portable Class Libraries work great for this. You can even pass EXEs.
 * [P ★1619](https://github.com/p-org/P) - P is a language for asynchronous event-driven programming.
 * [Roslyn ★7912](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs. It enables building code analysis tools with the same APIs that are used by Visual Studio.
@@ -317,6 +317,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Streamstone ★148](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 * [Ignite ★1101](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 * [Yessql ★307](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
+* [JsonFlatFileDataStore ★10](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ## Database Drivers
 
@@ -474,7 +475,6 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## HTML and CSS
 
 * [AngleSharp ★1500](https://github.com/AngleSharp/AngleSharp) - Complete HTML5 DOM and CSS3 OM construction
-* [CsQuery ★980](https://github.com/jamietre/CsQuery) - HTML5 parser with jQuery style DOM interaction
 * [dotless ★658](https://github.com/dotless/dotless) - .NET Port of the ruby Less CSS lib http://www.dotlesscss.org
 * [ExCSS ★125](https://github.com/TylerBrinks/ExCSS) - CSS3 parser Library for C#
 * [FluentBootstrap](http://fluentbootstrap.com) - Makes the Bootstrap CSS framework easier to use from ASP.NET MVC or WebPages.
@@ -680,7 +680,8 @@ metadata in media files, including video, audio, and photo formats
 
 ## ORM
 
-* [Entity Framework ★4821](https://github.com/aspnet/EntityFramework) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
+* [Entity Framework 6 ★451](https://github.com/aspnet/EntityFramework6) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
+* [Entity Framework Core ★4912](https://github.com/aspnet/EntityFrameworkCore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [BL Toolkit ★245](https://github.com/igor-tkachev/bltoolkit) - Business Logic Toolkit for .NET
 * [Dapper ★6891](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 * [Dapper Extensions ★761](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs

@@ -234,7 +234,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-templated-email ★316](https://github.com/vintasoftware/django-templated-email) - Django module to easily send templated emails using django templates, or using a transactional mail provider (mailchimp, silverpop, etc.)
 * [django-yubin ★24](https://github.com/APSL/django-yubin) - django-mailer2 + django-mailviews with some extras.
 * [djmail ★59](https://github.com/bameda/djmail) - A simple and nonobstructive django email middleware.
-* [djrill ★352](https://github.com/brack3t/Djrill) - Email backend and new message class for Mandrill transactional email service from MailChimp.
+* [djrill ★352 ⏳1Y](https://github.com/brack3t/Djrill) - Email backend and new message class for Mandrill transactional email service from MailChimp.
 
 ## Fields
 

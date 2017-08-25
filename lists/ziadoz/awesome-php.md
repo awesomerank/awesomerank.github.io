@@ -354,7 +354,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [IniScan ★1211](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [Optimus ★669](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
 * [PHP Encryption ★1251](https://github.com/defuse/php-encryption) - Secure PHP Encryption Library.
-* [PHP IDS ★549 ⏳1Y](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
+* [PHP IDS ★549 ⏳2Y](https://github.com/PHPIDS/PHPIDS) - A structured PHP security layer.
 * [PHP SSH ★281](https://github.com/Herzult/php-ssh) - An experimental object orientated SSH wrapper library.
 * [PHPSecLib](http://phpseclib.sourceforge.net/) - A pure PHP secure communications library.
 * [random_compat ★483](https://github.com/paragonie/random_compat) - PHP 5.x support for `random_bytes()` and `random_int()`

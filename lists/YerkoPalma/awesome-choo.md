@@ -9,7 +9,7 @@ title: Awesome Rank for YerkoPalma/awesome-choo
 ---
 # Awesome choo [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) <div align="right">:steam_locomotive::train::train::train::train::train:</div>
 
-> [choo](https://choo.io/) is a `5kb` framework for creating
+> [choo](https://choo.io/) is a `4kb` framework for creating
 > sturdy frontend applications
 
 ## Contents
@@ -36,19 +36,18 @@ title: Awesome Rank for YerkoPalma/awesome-choo
 `choo` is a modular framework. These are the dependencies it glues together
 under the hood:
 
-- [yo-yo ★1124](https://github.com/maxogden/yo-yo) - Modular UI library using DOM
-  diffing and ES6 template strings.
 - [bel ★343](https://github.com/shama/bel) - Create composable DOM elements using
   template strings.
 - [hyperx ★740](https://github.com/substack/hyperx) - Convert template strings to
   library backends.
-- [morphdom ★1344](https://github.com/patrick-steele-idem/morphdom) - Fast and
-  lightweight DOM diffing/patching (without the virtual part).
+- [nanomorph ★287](https://github.com/choojs/nanomorph) - Hyper fast diffing algorithm for real DOM nodes.
 - [nanoraf](https://github.com/yoshuawuyts/nanoraf) - Only call RAF when needed.
-- [barracks ★174](https://github.com/yoshuawuyts/barracks) - Action dispatcher for
-  unidirectional data flows.
-- [sheet-router ★192](https://github.com/yoshuawuyts/sheet-router) - Fast, modular
-  client-side router.
+- [nanorouter ★57](https://github.com/choojs/nanorouter) - Smol frontend router.
+- [nanobus ★59](https://github.com/choojs/nanobus) - Tiny message bus.
+- [nanolocation ★7](https://github.com/choojs/nanolocation) - Small window.location library.
+- [nanohref ★15](https://github.com/choojs/nanohref) - Tiny href click handler library.
+- [nanoquery ★5](https://github.com/choojs/nanoquery) - Tiny querystring module.
+- [nanotiming ★12](https://github.com/choojs/nanotiming) - Small timing library.
 
 ### Demos
 
