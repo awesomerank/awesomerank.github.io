@@ -110,7 +110,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Color Quest ★35 ⏳2Y](https://github.com/redbluegames/game-off-2013) - Infinite runner following a black and white pixel's quest to change into a color pixel. [Play it now!](http://redbluegames.com/game-off-2013/)
 * [Core Commiter ★13 ⏳4Y](https://github.com/vladikoff/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://committer.meteor.com/)
 * [Crappy Bird ★16](https://github.com/varunpant/CrappyBird) - Flappy Bird clone in JavaScript and Canvas2D API. [Play it now!](http://www.varunpant.com/static/resources/CrappyBird/index.html)
-* [Custom Tetris ★72 ⏳1Y](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it. [Play it now!](http://ondras.github.io/custom-tetris/)
+* [Custom Tetris ★72 ⏳2Y](https://github.com/ondras/custom-tetris) - Play the classic Tetris game the way you like it. [Play it now!](http://ondras.github.io/custom-tetris/)
 * [d3shooter ★4 ⏳2Y](https://github.com/nsmirn0v/d3shooter) - Asteroids style game in HTML5 as a demo of the d3 library. [Play it now!](http://d3shooter.herokuapp.com)
 * [Digger ★25](https://github.com/lutzroeder/digger) - HTML5 version of a Boulderdash game. [Play it now!](http://www.lutzroeder.com/html5/digger/)
 * [Drakonas ★8 ⏳3Y](https://github.com/Casmo/Drakonas) - Classic shoot 'em up game build with the Three.js library. [Play it now!](http://www.fellicht.nl/games/drakonas/)
@@ -502,7 +502,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Dash ★354 ⏳1Y](https://github.com/Circular-Studios/Dash) - Free and open 3D game engine written in D.
 * [Duality ★770](https://github.com/AdamsLair/duality) - 2D Game Development Framework.
 * [EaselJS ★6263](https://github.com/CreateJS/EaselJS) - Library to make working with the Canvas element easier.
-* [EntityJS ★185 ⏳1Y](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
+* [EntityJS ★185 ⏳2Y](https://github.com/bendangelo/entityjs) - HTML5 JavaScript game engine utlizing the entity-component design.
 * [Evennia MUD/MU* Creation System ★505](https://github.com/evennia/evennia) - Library for creating online multiplayer text games (MUD, MUSH, MUX, MUCK, MOO etc) in pure Python.
 * [Flare ★418](https://github.com/clintbellanger/flare-engine) - Free/Libre Action Roleplaying Engine.
 * [Flashpunk](https://github.com/Draknek/FlashPunk) - Free ActionScript 3 library designed for developing 2D Flash games.

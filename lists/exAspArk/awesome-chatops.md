@@ -267,7 +267,7 @@ These open source projects will help you to build a bot in order to automate you
 
 * [Chatterbot](https://muffinista.github.io/chatterbot/) (Ruby)
 * [Hubot](https://hubot.github.com/) + [adapter ★87 ⏳2Y](https://github.com/MathildeLemee/hubot-twitter) (CoffeeScript, Node.js)
-* [Lita](https://www.lita.io/) + [adapter ★11 ⏳1Y](https://github.com/fukayatsu/lita-twitter) (Ruby)
+* [Lita](https://www.lita.io/) + [adapter ★11 ⏳2Y](https://github.com/fukayatsu/lita-twitter) (Ruby)
 
 ### Typetalk
 

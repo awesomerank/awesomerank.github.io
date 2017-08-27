@@ -129,7 +129,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 ### Open-source emulators
 - [Mooneye-gb ★172](https://github.com/Gekkio/mooneye-gb) -  A Game Boy research project and emulator written in Rust.
 - [jsGB ★428 ⏳7Y](https://github.com/Two9A/jsGB) - Javascript.
-- [php-terminal-Game Boy-emulator ★1178](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - PHP Terminal
+- [php-terminal-Game Boy-emulator ★1178 ⏳1Y](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - PHP Terminal
 - [gameboy-Online ★179 ⏳1Y](https://github.com/taisel/gameboy-Online) - Javascript, HTML5 canvas and JavaScript audio APIs.
 - [cboy ★15](https://github.com/jkbenaim/cboy) - C. Mac OS X and Linux.
 - [weplay ★500](https://github.com/rauchg/weplay) - Collaborative Game Boy emulation powered by JavaScript.

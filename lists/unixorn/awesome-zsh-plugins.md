@@ -606,6 +606,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [hackersaurus](https://github.com/bhilburn/hackersaurus) - A theme with git status and exit code of last command run embedded in the prompt. Related to [powerlevel9k ★2527](https://github.com/bhilburn/powerlevel9k).
 * [haribo ★4 ⏳1Y](https://github.com/haribo/omz-haribo-theme) - Simple git status + timestamp in prompt.
 * [hedgehog](https://gist.github.com/hedgehog1029/dfbb7e66511e2c399157) - Simple, no-nonsense and clean, with support for git and return codes.
+* [himself ★0](https://github.com/mwamodojnr/himself) - Optimized for people using git, solarized and unicode-compatible fonts.
 * [honukai-iterm-zsh ★811](https://github.com/oskarkrawczyk/honukai-iterm-zsh) - Honukai theme and colors for oh-my-zsh and iTerm.
 * [horizontal ★0](https://github.com/nuimk/horizontal) - Two line prompt with a horizontal separator.
 * [horse-sh ★0 ⏳2Y](https://github.com/emileswarts/horse-sh) - A very minimal brown/red ZSH theme.
@@ -614,7 +615,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [iggy ★11 ⏳2Y](https://github.com/eugenk/zsh-prompt-iggy) - A super happy awesome Powerline-style, Git-aware **prezto only** theme.
 * [igorsilva ★3 ⏳1Y](https://github.com/igor9silva/zsh-theme) - Shows current directory, customizable delimiter, current branch, git status.
 * [infoline ★1](https://github.com/hevi9/infoline-zsh-theme) - Clean theme that shows git status, background jobs, remote host, and other information.
-* [intheloop-powerline ★0 ⏳2Y](https://github.com/zyphrus/intheloop-powerline) - An extension of the intheloop theme to use powerline fonts.
+* [intheloop-powerline ★0 ⏳3Y](https://github.com/zyphrus/intheloop-powerline) - An extension of the intheloop theme to use powerline fonts.
 * [itg ★28 ⏳1Y](https://github.com/itsthatguy/itg.zsh-theme) - itsthatguy's theme.
 * [jcl-zsh-theme ★2 ⏳4Y](https://github.com/jasonlewis/jcl-zsh-theme) - Loosely based on the ys theme.
 * [judgedim ★0 ⏳2Y](https://github.com/judgedim/oh-my-zsh-judgedim-theme) - Minimalist prompt.

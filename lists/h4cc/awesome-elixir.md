@@ -1271,7 +1271,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [colorful ★2 ⏳2Y](https://github.com/Joe-noh/colorful) - Elixir macros to decorate characters on CUI.
 * [colors ★5](https://github.com/lidashuang/colors) - Colors util written in Elixir.
 * [convertat ★10 ⏳1Y](https://github.com/whatyouhide/convertat) - An Elixir library for converting from and to arbitrary bases.
-* [curtail ★20](https://github.com/seankay/curtail) - HTML tag-safe string truncation.
+* [curtail ★20 ⏳1Y](https://github.com/seankay/curtail) - HTML tag-safe string truncation.
 * [custom_base ★7](https://github.com/igas/custom_base) - Allow you to make custom base conversion in Elixir.
 * [decimal ★136](https://github.com/ericmj/decimal) - Arbitrary precision decimal arithmetic for Elixir.
 * [dicer ★3 ⏳2Y](https://github.com/olhado/dicer) - A dice roller expression evaluator.
@@ -1357,7 +1357,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dockerex ★12](https://github.com/hisea/dockerex) - Lightweight Docker Remote API Client with SSL/TLS login/connection support.
 * [dogstatsd ★13](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
 * [dpd_client ★1 ⏳1Y](https://github.com/knewter/dpd_client) - An API client for the DPD service.
-* [dropbox ★13 ⏳2Y](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
+* [dropbox ★13 ⏳3Y](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
 * [dublin_bus_api ★0](https://github.com/carlo-colombo/dublin-bus-api) - Access to the Real Time Passenger Information (RTPI) for Dublin Bus services.
 * [edgarex ★0 ⏳2Y](https://github.com/rozap/edgarex) - Elixir interface for fetching SEC filings from EDGAR.
 * [elixir_authorizenet ★5](https://github.com/marcelog/elixir_authorizenet) - Unofficial client for the Authorize.Net merchant API.

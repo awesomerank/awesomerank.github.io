@@ -504,7 +504,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Forbind ★43](https://github.com/ulrikdamm/Forbind) - Functional chaining and promises in Swift. :large_orange_diamond:
 * [Funky ★12 ⏳1Y](https://github.com/brynbellomy/Funky) - Functional programming tools and experiments in Swift. :large_orange_diamond:
 * [LlamaKit ★635 ⏳2Y](https://github.com/LlamaKit/LlamaKit) - Collection of must-have functional Swift tools. :large_orange_diamond:
-* [Oriole ★11 ⏳1Y](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions. :large_orange_diamond:[e]
+* [Oriole ★11 ⏳2Y](https://github.com/tptee/Oriole) - A functional utility belt implemented as Swift 2.0 protocol extensions. :large_orange_diamond:[e]
 * [Prelude ★308](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools. :large_orange_diamond:
 * [Swiftx ★176](https://github.com/typelift/Swiftx) - Functional data types and functions for any project. :large_orange_diamond:
 * [Swiftz ★2973](https://github.com/typelift/Swiftz) -  Functional programming in Swift. :large_orange_diamond:
@@ -851,6 +851,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AZImagePreview ★9](https://github.com/Minitour/AZImagePreview) - A framework that makes image viewing easy. :large_orange_diamond:
 * [FaceCropper ★357](https://github.com/KimDarren/FaceCropper) - Crop faces, inside of your image, with iOS 11 Vision api :large_orange_diamond:
 * [Paparazzo ★454](https://github.com/avito-tech/Paparazzo) - Custom iOS camera and photo picker with editing capabilities :large_orange_diamond:
+* [InitialsImageView ★68](https://github.com/bachonk/InitialsImageView) - An UIImageView extension that generates letter initials as a placeholder for user profile images, with a randomized background color. :large_orange_diamond:
 
 #### Media Processing
 * [SwiftOCR ★2619](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift :large_orange_diamond:
@@ -938,7 +939,7 @@ Also see [push notifications](#push-notifications)
 * [Moya ★6733](https://github.com/Moya/Moya) - Network abstraction layer written in Swift. :large_orange_diamond:
 * [TWRDownloadManager ★322](https://github.com/chasseurmic/TWRDownloadManager) - A modern download manager based on NSURLSession to deal with asynchronous downloading, management and persistence of multiple files.
 * [HappyDns ★302](https://github.com/qiniu/happy-dns-objc) - A Dns library, support custom dns server, dnspod httpdns. Only support A record.
-* [Bridge ★93](https://github.com/BridgeNetworking/Bridge) - A simple extensible typed networking library. Intercept and process/alter requests and responses easily. :large_orange_diamond:
+* [Bridge ★93 ⏳1Y](https://github.com/BridgeNetworking/Bridge) - A simple extensible typed networking library. Intercept and process/alter requests and responses easily. :large_orange_diamond:
 * [TRON ★371](https://github.com/MLSDev/TRON) - Lightweight network abstraction layer, written on top of Alamofire :large_orange_diamond:
 * [EVCloudKitDao ★495](https://github.com/evermeer/EVCloudKitDao) - Simplified access to Apple's CloudKit :large_orange_diamond:
 * [EVURLCache ★245](https://github.com/evermeer/EVURLCache) - a NSURLCache subclass for handling all web requests that use NSURLRequest :large_orange_diamond:
@@ -965,7 +966,7 @@ Also see [push notifications](#push-notifications)
 * [YTKNetwork ★4609](https://github.com/yuantiku/YTKNetwork) - YTKNetwork is a high level request util based on AFNetworking.
 * [UnboxedAlamofire ★52](https://github.com/serejahh/UnboxedAlamofire) - Alamofire + Unbox: the easiest way to download and decode JSON into swift objects. :large_orange_diamond:
 * [MMLanScan ★188](https://github.com/mavris/MMLanScan) - An iOS LAN Network Scanner library
-* [Domainer ★5](https://github.com/FelixLinBH/Domainer) - Manage multi-domain url auto mapping ip address table
+* [Domainer ★5 ⏳1Y](https://github.com/FelixLinBH/Domainer) - Manage multi-domain url auto mapping ip address table
 * [Restofire ★141](https://github.com/Restofire/Restofire) - Restofire is a protocol oriented network abstraction layer in swift that is built on top of Alamofire to use services in a declartive way :large_orange_diamond:
 * [AFNetworking+RetryPolicy ★148](https://github.com/kubatruhlar/AFNetworking-RetryPolicy) - An objective-c category that adds the ability to set the retry logic for requests made with AFNetworking.
 * [SwiftyZeroMQ ★23](https://github.com/azawawi/SwiftyZeroMQ) - ZeroMQ Swift Bindings for iOS, macOS, tvOS and watchOS. :large_orange_diamond: ⌚
@@ -1121,6 +1122,7 @@ Most of these are paid services, some have free tiers.
 * [RMStore ★1996](https://github.com/robotmedia/RMStore) - A lightweight iOS library for In-App Purchases
 * [MFCard ★254](https://github.com/mobilefirstinc/MFCard) - Easily integrate Credit Card payments in iOS App / Customisable Card UI
 * [TPInAppReceipt ★26](https://github.com/tikhop/TPInAppReceipt) - Reading and Validating In App Store Receipt :large_orange_diamond:
+* [iCard ★121](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL :large_orange_diamond:
 
 ## Permissions
 * [Proposer ★734](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location). :large_orange_diamond:
@@ -2270,7 +2272,7 @@ Most of these are paid services, some have free tiers.
  * [Underscore.m ★1510 ⏳1Y](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
  * [XExtensionItem ★81 ⏳1Y](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
  * [ReflectableEnum ★329](https://github.com/fastred/ReflectableEnum) - Reflection for enumerations in Objective-C.
- * [ObjectiveSugar ★2201](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
+ * [ObjectiveSugar ★2201 ⏳1Y](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
  * [OpinionatedC ★44 ⏳1Y](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.
  * [SwiftRandom ★453](https://github.com/thellimist/SwiftRandom) - Generator for random data. :large_orange_diamond:
  * [RandomKit ★1179](https://github.com/nvzqz/RandomKit) - Random data generation in Swift. :large_orange_diamond:

@@ -798,7 +798,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Video/Audio
 
  * [prettyembed.js ★1060 ⏳1Y](https://github.com/mike-zarandona/prettyembed.js) - Prettier embeds for your YouTubes - with nice options like high-res preview images, advanced customization of embed options, and optional FitVids support.
- * [html5media ★975](https://github.com/etianen/html5media) -  Enables <video> and <audio> tags in all major browsers. <https://html5media.info/>
+ * [html5media ★975 ⏳1Y](https://github.com/etianen/html5media) -  Enables <video> and <audio> tags in all major browsers. <https://html5media.info/>
  * [Play-em JS ★43](https://github.com/adrienjoly/playemjs) -  Play'em is a javascript component that manages a music/video track queue and plays a sequence of songs by embedding several players in a HTML DIV including Youtube, Soundcloud and Vimeo.
  * [polyplayer ★33 ⏳2Y](https://github.com/Acconut/polyplayer) - Rule YouTube, Soundcloud and Vimeo player with one API
  * [flowplayer ★1487](https://github.com/flowplayer/flowplayer) -  The HTML5 video player for the web

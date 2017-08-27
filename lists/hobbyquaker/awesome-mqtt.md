@@ -138,7 +138,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [nodemcu-gpiomqtt ★1](https://github.com/hobbyquaker/nodemcu-gpiomqtt) - Lua script to connect ESP8266 GPIOs to MQTT.
 * [pubsubclient ★1284](https://github.com/knolleary/pubsubclient) - A client library for the Arduino Ethernet Shield that provides support for MQTT.
 * [RFM69-MQTT-client ★76](https://github.com/computourist/RFM69-MQTT-client) - Arduino RFM69 based sensors and MQTT gateway.
-* [rpi2mqtt ★8](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT.
+* [rpi2mqtt ★8 ⏳1Y](https://github.com/hobbyquaker/rpi2mqtt) - Connect a RaspberryPis GPIOs and 1-Wire Temperature Sensors to MQTT.
 * [xbee2mqtt ★16 ⏳1Y](https://github.com/xoseperez/xbee2mqtt) - XBee to MQTT gateway.
 
 

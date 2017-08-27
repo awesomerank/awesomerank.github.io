@@ -448,7 +448,7 @@ Community Repos:
 * [beaknit/cform ★83](https://github.com/beaknit/cform) - SublimeText plugin.
 * [cloudreach/sceptre] :fire::fire: ★266](https://github.com/cloudreach/sceptre) - A CLI tool for automating CloudFormation.
 * [cloudtools/troposphere :fire::fire::fire::fire::fire: ★2138](https://github.com/cloudtools/troposphere) - Python library to create descriptions.
-* [peterkh/cumulus :fire: ★200](https://github.com/peterkh/cumulus) - Manages stacks.
+* [peterkh/cumulus :fire::fire: ★200](https://github.com/peterkh/cumulus) - Manages stacks.
 * [envato/stack_master :fire: ★132](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
 * [sparkleformation/sfn ★40](https://github.com/sparkleformation/sfn) - CLI for stack management.
 * [sparkleformation/sparkle_formation :fire: ★158](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation.
@@ -480,7 +480,7 @@ AWS Repos:
 
 * [cloudwatch-logs-subscription-consumer :fire::fire: ★301](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
 * [ecs-cloudwatch-logs ★51 ⏳2Y](https://github.com/awslabs/ecs-cloudwatch-logs) - Assets in the blog post on using Amazon ECS and Amazon CloudWatch logs.
-* [logstash-output-cloudwatchlogs ★25](https://github.com/awslabs/logstash-output-cloudwatchlogs) - A logstash plugin that sends logs to CloudWatch.
+* [logstash-output-cloudwatchlogs ★25 ⏳1Y](https://github.com/awslabs/logstash-output-cloudwatchlogs) - A logstash plugin that sends logs to CloudWatch.
 * [opsworks-cloudwatch-logs-cookbooks ★7 ⏳1Y](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - OpsWorks sample cookbook.
 
 Community Repos:
@@ -529,7 +529,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [capeless/warrant ★57](https://github.com/capless/warrant) - Python library for using Cognito. 
 
 ### Data Pipeline
 

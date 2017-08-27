@@ -194,7 +194,7 @@ Table of contents:
 #### Cheatsheet
 * [Official Angular 2 Cheatsheet](https://angular.io/guide/cheatsheet)
 * [Dart API Cheatsheet](https://docs.google.com/document/d/1FYyA-b9rc2UtlYyQXjW7lx4Y08MSpuWcbbuqVCxHga0/edit#heading=h.34sus6g4zss3)
-* [Angular2 Dart cheatsheet ★9 ⏳1Y](https://github.com/andresaraujo/angular2_cheatsheet_dart)
+* [Angular2 Dart cheatsheet ★9 ⏳2Y](https://github.com/andresaraujo/angular2_cheatsheet_dart)
 * [Angular Performance Checklist ★890](https://github.com/mgechev/angular-performance-checklist)
 
 #### Features

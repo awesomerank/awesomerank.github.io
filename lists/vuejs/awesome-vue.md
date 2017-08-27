@@ -182,6 +182,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
 - [VueJS Viet Nam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
 - [VueJS Spanish - Slack Group](http://vuejs-es.herokuapp.com/)
+- [VueJS Korean - Slack Group](https://vuejs-korea.signup.team/)
 
 ### Podcasts
 
@@ -299,7 +300,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [Vue Mini Shop ★132 ⏳1Y](https://github.com/BosNaufal/vue-mini-shop) by [BosNaufal](https://github.com/BosNaufal)
   - [Vue SoundCloud ★29](https://github.com/mul14/vue-soundcloud) by [mul14](https://github.com/mul14)
   - [Feature Requests (Laravel + Vue Combo) ★13 ⏳1Y](https://github.com/haydenbbickerton/feature-requests-app) by [haydenbbickerton](https://github.com/haydenbbickerton)
-  - [Vue Cookbook (Vue1.0 + express) ★260](https://github.com/yjj5855/node-vue-server-webpack) by [@yjj5855](https://github.com/yjj5855): A demo first screen rendering of a service
+  - [Vue Cookbook (Vue1.0 + express) ★260 ⏳1Y](https://github.com/yjj5855/node-vue-server-webpack) by [@yjj5855](https://github.com/yjj5855): A demo first screen rendering of a service
   - [Strong Together ★68 ⏳1Y](https://github.com/websemantics/strong-together) - A starter project to build single page Vue.js apps as stand-alone or for Laravel / Laravel Spark projects, based on Browserify and Semantic-ui) by [WebSemantics](https://github.com/websemantics)
   - [vuetest: an ad admin web with user auth, bootstrap ui, uploader, WYSIWYG editor in iframe ★15 ⏳1Y](https://github.com/sjerrys/vuetest)
   - [**vue-shopping** ★430](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18)
@@ -662,6 +663,7 @@ Tooltips / popovers
 - [vue-dialog-drag ★15](https://github.com/emiliorizzo/vue-dialog-drag) - Draggable dialog
 - [vue-ya-semantic-modal ★4](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
 - [vue-pure-lightbox ★2](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
+- [v-viewer](https://github.com/mirari/v-viewer) - Image viewer component for vue, supports rotation, scale, zoom and so on, based on [viewer.js ★2230](https://github.com/fengyuanchen/viewerjs)
 
 ### Parallax
 
@@ -1091,6 +1093,7 @@ Tooltips / popovers
 
  - [VBar ★112](https://github.com/luiguild/v-bar) - The virtual responsive cross-browser scrollbar component for Vue.js 2x.
  - [Vuebar](http://serafin.io/vuebar/) - Vue 2 directive for custom scrollbar that uses native scroll behavior. Lightweight, performant, customizable and without dependencies.
+ - [vue-detached-scrollbar ★0](https://github.com/ozangulle/vue-detached-scrollbar) - A simple scrollbar that can be detached from the container it is scrolling.
 
 *Detect when components enter viewport*
 
@@ -1199,6 +1202,7 @@ Tooltips / popovers
  - [v-model ★27](https://github.com/huanleguang/v-model) - V-Model is a model plugin for Vue.js, like ng-resource.
  - [vue-resource-mock ★15](https://github.com/noru/vue-resource-mock) - A helper to mock your http response, based on vue-resource's interceptor.
  - [vue-async-data-2 ★19](https://github.com/kamijin-fanta/vue-async-data) - Async data loading plugin for Vue.js.
+ - [vue-api-request ★69](https://github.com/ftgibran/vue-api-request) - A plugin that provides full control on your APIs, making your request simple, fast and easy to implement.
 
 ### i18n
 

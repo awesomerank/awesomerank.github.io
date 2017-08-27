@@ -43,7 +43,7 @@ title: Awesome Rank for sindresorhus/awesome-tap
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
 - [tap-summary ★24](https://github.com/zoubin/tap-summary) - Summarized output.
 - [tap-pessimist ★13 ⏳1Y](https://github.com/clux/tap-pessimist) - Only shows failed tests.
-- [tap-prettify ★29 ⏳3Y](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
+- [tap-prettify ★29 ⏳4Y](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
 - [tap-colorize ★27 ⏳2Y](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability.
 - [tap-bail ★19](https://github.com/juliangruber/tap-bail) - Bail out when the first test fails.
 - [tap-notify ★46](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows.

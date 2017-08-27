@@ -143,7 +143,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Groovy ★385](lists/kdabir/awesome-groovy.md)
 - [Dart ★252](lists/yissachar/awesome-dart.md)
 - [Java ★13616](lists/akullpp/awesome-java.md)
-	- [RxJava ★135](lists/eleventigers/awesome-rxjava.md)
+	- [RxJava ★135 ⏳1Y](lists/eleventigers/awesome-rxjava.md)
 - [Kotlin ★2654](lists/KotlinBy/awesome-kotlin.md)
 - [OCaml ★1008](lists/rizo/awesome-ocaml.md)
 - [ColdFusion ★44](lists/seancoyne/awesome-coldfusion.md)

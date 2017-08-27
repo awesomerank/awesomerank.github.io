@@ -171,7 +171,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [raix:push ★450](https://github.com/raix/push) - Push notifications for cordova (ios, android) browser (Chrome, Safari, Firefox).
 * [martijnwalraven:meteor-ios ★758 ⏳1Y](https://github.com/martijnwalraven/meteor-ios) - Integrates native iOS apps with the Meteor platform through DDP.
 * [delight-im/Android-DDP ★250](https://github.com/delight-im/Android-DDP) - DDP for clients on Android.
-* [okland:accounts-phone ★106](https://github.com/okland/accounts-phone) - A login service based on mobile phone number for Meteor.
+* [okland:accounts-phone ★106 ⏳1Y](https://github.com/okland/accounts-phone) - A login service based on mobile phone number for Meteor.
 * [okland:camera-ui ★26 ⏳2Y](https://github.com/okland/camera-ui) - Meteor package for taking photos with user interface, one function call on desktop and mobile. Allows to choose between camera to photoLibrary on mobile.
 * [percolatestudio/cordova-plugin-safe-reload ★14 ⏳1Y](https://github.com/percolatestudio/cordova-plugin-safe-reload) - Cordova plugin to watch and recover after a broken Meteor Hot Code Push.
 

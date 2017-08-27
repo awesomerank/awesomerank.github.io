@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-894-orange.svg) | August 24, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-896-orange.svg) | August 26, 2017
 
 ### Contributing
 
@@ -398,6 +398,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Chameleon ★9735](https://github.com/ViccAlexander/Chameleon) - Chameleon is a lightweight, yet powerful, color framework for iOS.
 * [ChromaColorPicker ★45](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
+* [Colorify ★16](https://github.com/czater/Colorify) - Colorify - simple, yet powerful color library.
 * [Colors ★24](https://github.com/icodeforlove/Colors) - Library for using ANSI codes.
 * [CSS3ColorsSwift ★49](https://github.com/WorldDownTown/CSS3ColorsSwift) - A UIColor extension with CSS3 Colors name.
 * [DynamicColor ★1669](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
@@ -485,7 +486,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [JSONFeed ★26](https://github.com/wesbillman/JSONFeed) - JSONFeed parser with built in reader for jsonfeed.org.
 * [JSONHelper ★799](https://github.com/isair/JSONHelper) - Lightning fast JSON deserialization and value conversion library for iOS & OS X.
 * [JSONNeverDie ★464](https://github.com/johnlui/JSONNeverDie) - Auto reflection tool from JSON to Model, user friendly JSON encoder / decoder, aims to never die.
-* [ModelRocket ★470](https://github.com/ovenbits/ModelRocket) - An iOS framework for creating JSON-based models.
+* [ModelRocket ★470 ⏳1Y](https://github.com/ovenbits/ModelRocket) - An iOS framework for creating JSON-based models.
 * [ObjectMapper ★6109](https://github.com/Hearst-DD/ObjectMapper) - JSON object mapper.
 * [Pistachio ★172 ⏳1Y](https://github.com/felixjendrusch/Pistachio) - Generic model framework.
 * [SwiftyJSON ★15226](https://github.com/SwiftyJSON/SwiftyJSON) :penguin: - A lib for JSON with error handling.
@@ -812,7 +813,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [LayoutKit ★2121](https://github.com/linkedin/LayoutKit) - LayoutKit is a fast view layout library for iOS, macOS, and tvOS. http://layoutkit.org
 * [ManualLayout ★270](https://github.com/isair/ManualLayout) - Easy to use and flexible AutoLayout alternative for iOS 8+. Supports AsyncDisplayKit.
 * [Neon ★4015](https://github.com/mamaral/Neon) - A powerful programmatic UI layout framework.
-* [PinLayout](https://mirego.github.io/PinLayout/) - Manual views layouting without auto layout, no magic, pure code, full control. Concise syntax, readable & chainable.
+* [PinLayout ★644](https://github.com/mirego/PinLayout) - Fast views layouting without auto layout. No magic, pure code, full control and blazing fast. Concise, intuitive, readable & chainable syntax. Works nicely with FlexLayout.
 * [Static ★922](https://github.com/venmo/Static) - A simple static table views for iOS.
 * [Stevia ★2092](https://github.com/freshOS/Stevia) - Elegant view layout for iOS.
 * [SwiftBox ★797](https://github.com/joshaber/SwiftBox) - Inspired by Flexbox, uses Facebook's css-layout.
@@ -1440,6 +1441,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [folding-cell ★6260](https://github.com/Ramotion/folding-cell) - Folding cell transition.
 * [GridView ★490](https://github.com/KyoheiG3/GridView) - Reusable GridView with excellent performance and customization that can be time table, spreadsheet, paging and more.
 * [Hakuba ★485](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
+* [HGPlaceholders ★364](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
 * [Persei ★2742](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView.
 * [PullToRefreshSwift ★477](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 * [ReverseExtension ★1103](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enables the insertion of cells the from bottom of a table view.

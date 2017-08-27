@@ -164,6 +164,7 @@ Installers
 * [Archon ★108](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubeup/archon/blob/master/LICENSE)
 * [KubeNow ★103](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostique - [Apache-2.0](https://github.com/kubenow/KubeNow/blob/master/LICENSE)
 * [Kubicorn ★525](https://github.com/kris-nova/kubicorn) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kris-nova/kubicorn/blob/master/LICENSE)
+* [Simplekube ★29](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
 
 Main Resources
 =======================================================================
@@ -236,6 +237,8 @@ Useful Articles
 * [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 * [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
+* [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
+* [Kubernetes tips & tricks](https://opsnotice.xyz/kubernetes-tips-tricks/)
 
 
 
@@ -333,6 +336,7 @@ Projects
 
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
 
+* [Argo ★18](https://github.com/argoproj/argo) The Workflow Engine for Kubernetes
 * [Hypernetes ★448](https://github.com/hyperhq/hypernetes)
 * [Ubernetes](https://github.com/kubernetes/community/blob/master/contributors/design-proposals/federation.md)
 * [kmachine ★170](https://github.com/skippbox/kmachine)

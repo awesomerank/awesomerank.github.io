@@ -118,7 +118,7 @@ title: Awesome Rank for addyosmani/es6-tools
 ## Code generation
 
 * [generator-node-esnext ★4 ⏳2Y](https://github.com/briandipalma/generator-node-esnext) - Yeoman generator for Traceur apps
-* [generator-es6-babel ★10 ⏳1Y](https://github.com/HenriqueLimas/generator-es6-babel) - Yeoman generator for Babel apps
+* [generator-es6-babel ★10 ⏳2Y](https://github.com/HenriqueLimas/generator-es6-babel) - Yeoman generator for Babel apps
 * [generator-gulp-babelify ★2 ⏳1Y](https://github.com/HenriqueLimas/generator-gulp-babelify) - Yeoman generator for [Babel](https://babeljs.io/), [Browserify](http://browserify.org/) and [Gulp](http://gulpjs.com/)
 * [grunt-init-es6](https://www.npmjs.com/package/grunt-init-es6) - scaffold node modules with unit tests, authored in ES6
 * [Loom generators with ES6 ember modules ★15 ⏳3Y](https://github.com/ryanflorence/loom-generators-ember)

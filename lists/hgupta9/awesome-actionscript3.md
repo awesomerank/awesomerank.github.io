@@ -54,7 +54,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [irrFuscator](http://www.ambiera.com/irrfuscator/) - Commercial AS3 obfuscator for Flash and Flex SWF files.
 
 #### SWF Inspectors
-* [SWFWire ★228 ⏳1Y](https://github.com/magicalhobo/SWFWire) - Advanced SWF Decompiler, Inspector and Debugger Tools ([website](http://www.swfwire.com/)).
+* [SWFWire ★228 ⏳2Y](https://github.com/magicalhobo/SWFWire) - Advanced SWF Decompiler, Inspector and Debugger Tools ([website](http://www.swfwire.com/)).
 * [Velocity9 ★22 ⏳3Y](https://github.com/velocity9/Inspector) - Basic SWF Inspector.
 
 #### SWF Decompilers
@@ -330,7 +330,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AsCollada](https://github.com/timknip/ascollada) - Parse COLLADA 3D model files ([fork ★1 ⏳6Y](https://github.com/david-gregory/ascollada)).
 * [AsBlender ★38 ⏳7Y](https://github.com/timknip/asblender) - Parse Blender .BLEND files.
-* [AS3-bvh-parser ★5 ⏳4Y](https://github.com/rkn14/as3-bvh-parser) - Parse BVH files.
+* [AS3-bvh-parser ★5 ⏳5Y](https://github.com/rkn14/as3-bvh-parser) - Parse BVH files.
 * [EasyAGAL ★118 ⏳2Y](https://github.com/Barliesque/EasyAGAL) - Simplifies development of AGAL shaders with code completion, code hinting,  macros, etc.
 
 #### CSV
@@ -407,7 +407,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AS3swf ★521 ⏳3Y](https://github.com/claus/as3swf) - Low level library to parse, create, modify and publish SWF files.
 * [AS3abc ★1 ⏳5Y](https://github.com/imcj/as3abc) - Low level library to parse, create, modify and publish ABC (Actionscript Block Code) files.
-* [SWFWire ★228 ⏳1Y](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools.
+* [SWFWire ★228 ⏳2Y](https://github.com/magicalhobo/SWFWire) - SWF Decompiler and Inspector Tools.
 * [Abc-abstraction ★14 ⏳2Y](https://github.com/krilnon/abc-abstraction) - Allows ABC to be analyzed, manipulated, packaged back into an SWF, and run.
 
 #### SVG
@@ -556,7 +556,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3LinAlg ★13 ⏳4Y](https://github.com/inspirit/AS3LinAlg) - Linear Algebra library (Jacobi SVD, Eigen Vectors/Values, Cholesky LU, etc).
 * [Performance Primitives ★22 ⏳5Y](https://github.com/martinkallman/performance-as3) - High-performance math modeled on the Intel Performance Primitives.
 * [Zexpression ★9 ⏳3Y](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables.
-* [FlexibleMatrix ★2 ⏳6Y](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class.
+* [FlexibleMatrix ★2 ⏳7Y](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class.
 * [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. ([alternate ★11 ⏳5Y](https://github.com/SimonRichardson/as3-eval)).
 * [FlashFormulaEditor ★15 ⏳4Y](https://github.com/zasdfgbnm/FlashFormulaEditor) - Formula editor made in Adobe Flex.
 

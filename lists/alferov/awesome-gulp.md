@@ -152,7 +152,6 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-csso](https://github.com/ben-eb/gulp-csso) - Minify CSS with [CSSO ★2331](https://github.com/css/csso).
 * [gulp-uglify](https://github.com/terinjokes/gulp-uglify) - Minify JavaScript with [UglifyJS2 ★7081](https://github.com/mishoo/UglifyJS2).
 * [gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin) - Minify HTML with [html-minifier ★2547](https://github.com/kangax/html-minifier).
-* [gulp-htmlmin ★501](https://github.com/jonschlinkert/gulp-htmlmin) - Minify HTML.
 * [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with [imagemin ★1425](https://github.com/imagemin/imagemin).
 * [gulp-svgmin ★276](https://github.com/ben-eb/gulp-svgmin) - Minify SVG files with gulp.
 

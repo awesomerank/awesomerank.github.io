@@ -73,7 +73,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Spark CSV ★784](https://github.com/databricks/spark-csv) - CSV reader and writer (obsolete since Spark 2.0 [[SPARK-12833]](https://issues.apache.org/jira/browse/SPARK-12833)).
 * [Spark Avro ★365](https://github.com/databricks/spark-avro) - [Apache Avro](https://avro.apache.org/) reader and writer.
 * [Spark XML ★127](https://github.com/databricks/spark-xml) - XML parser and writer.
-* [Spark-Mongodb ★282](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer.
+* [Spark-Mongodb ★282 ⏳1Y](https://github.com/Stratio/Spark-MongoDB) - MongoDB reader and writer.
 * [Spark Cassandra Connector ★1244](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries.
 * [Spark Riak Connector ★34](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector.
 * [Mongo-Spark ★284](https://github.com/mongodb/mongo-spark) - Official MongoDB connector.

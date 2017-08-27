@@ -592,7 +592,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   -   [LightGraphsExtras.jl ★5](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other functionalities for the LightGraphs.jl package.
   -   [NetworkLayout.jl ★17](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
   -   [Networks.jl ★5](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.
-  -   [GraphCentrality.jl ★5](https://github.com/JuliaGraphs/GraphCentrality.jl) - Adds network measures to the Graphs.jl package.
+  -   [GraphCentrality.jl ★5 ⏳1Y](https://github.com/JuliaGraphs/GraphCentrality.jl) - Adds network measures to the Graphs.jl package.
 -   [MatrixNetworks.jl ★22](https://github.com/nassarhuda/MatrixNetworks.jl) - A method to handle graph/matrix/network structures.
 -   [NetworkFlows.jl ★2](https://github.com/Azzaare/NetworkFlows.jl) - Package of network flows algorithms.
 -   [NetworkViz.jl](https://github.com/abhijithanilkumar/NetworkViz.jl) - Package to visualize graphs produced with LightGraphs.jl, using [ThreeJS.jl ★26](https://github.com/rohitvarkey/ThreeJS.jl).

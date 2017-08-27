@@ -107,7 +107,7 @@ A list of UI components built with Ant Design.
 
 - [react-lz-editor ★228](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 - [React Grid ★9](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
-- [Antd Kit ★19](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
+- [Antd Kit ★19 ⏳1Y](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
 - [antd-data-table ★4](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
 
 ## Applications

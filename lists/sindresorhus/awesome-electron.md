@@ -269,7 +269,7 @@ Made with Electron.
 - [electron-osx-sign ★193](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
 - [electron-detach ★47 ⏳1Y](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [ember-electron ★665](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
-- [electrify ★227](https://github.com/arboleya/electrify) - Package Meteor apps.
+- [electrify ★227 ⏳1Y](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [spectron ★702](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver.
 - [babel-preset-electron ★31](https://github.com/emorikawa/babel-preset-electron) - Babel preset that only compiles what's necessary for a particular Electron version.
 - [electron-is ★76](https://github.com/delvedor/electron-is) - Utility functions.

@@ -64,7 +64,7 @@ Inspired by the lists [awesome](https://github.com/sindresorhus/awesome), [aweso
 - [Lua](http://www.lua.org/download.html) - Lua's original ANSI C interpreter.
 - [LuaJIT](http://luajit.org/luajit.html) - High-performance Just-In-Time compiler for Lua.
 - [LLVM-Lua ★29 ⏳1Y](https://github.com/neopallium/llvm-lua) - Compiles Lua to LLVM.
-- [lua.vm.js ★712](https://github.com/daurnimator/lua.vm.js) - Lua VM on the web; a direct port of the C interpreter via LLVM, emscripten, and asm.js.
+- [lua.vm.js ★712 ⏳1Y](https://github.com/daurnimator/lua.vm.js) - Lua VM on the web; a direct port of the C interpreter via LLVM, emscripten, and asm.js.
 - [Moonshine ★390](https://github.com/gamesys/moonshine) - A Lua VM implemented in JavaScript. Slower than lua.vm.js, but with better docs, examples, and JS interfacing.
 - [Fengari ★123](https://github.com/fengari-lua/fengari) - The Lua VM rewritten in Javascript with seamless JS interoperability.
 - [MoonSharp ★425](https://github.com/xanathar/moonsharp) - A Lua interpreter written entirely in C# for the .NET, Mono and Unity platforms.

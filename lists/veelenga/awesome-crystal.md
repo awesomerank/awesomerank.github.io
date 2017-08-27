@@ -116,6 +116,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Caching
  * [bloom_filter ★16](https://github.com/crystal-community/bloom_filter) - Implementation of Bloom filter
  * [bojack ★53](https://github.com/marceloboeira/bojack) - A non-reliable in-memory key-value store
+ * [cache-hash ★5](https://github.com/samueleaton/cache-hash) - A key/value store where entries expire after a specified interval
  * [crystal-memcached ★21](https://github.com/comandeo/crystal-memcached) - Implementation of a memcached client
  * [Nuummite ★8](https://github.com/CodeSteak/Nuummite) - A tiny persistent embedded key-value store
 

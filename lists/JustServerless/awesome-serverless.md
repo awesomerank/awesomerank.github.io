@@ -731,6 +731,10 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [A data pipeline for 400 mio. podcast listens](https://medium.com/bytes-by-pippa/how-pippa-built-a-data-pipeline-for-400-million-podcast-listens-f7af6b43f26e) - How a serverless data pipeline helped Pippa to scale and cut their AWS bill in half.
 - [Building a serverless analytics service](https://sbstjn.com/serverless-analytics-with-kinesis-stream-lambda.html) - Post about the [Serverless Analytics ★3](https://github.com/sbstjn/serverless-analytics) project.
 - [Exploring Azure Event Grid](https://blog.tomkerkhove.be/2017/08/22/exploring-azure-event-grid/) - Post which shows how the new Azure Event Grid works and in which scenarios it can be useful.
+- [How Serverless defined its team culture](https://serverless.com/blog/how-serverless-defined-its-team-culture/) - Overview of the process Serverless used to define its team values and culture.
+- [Definitive guide to serverless architectures](https://serverless.com/blog/definitive-guide-to-serverless-architectures/) - Announcement post about the new [Serverless Guide ★80](https://github.com/serverless/guide) project.
+- [Emit - Key takeaways](https://serverless.com/blog/key-takeaways-for-the-future-of-serverless-emit-2017/) - Key takeaways for the future of serverless - Emit 2017 recap.
+- [Serverless - Beyond functions](https://medium.com/cloud-academy-inc/serverless-beyond-functions-cd81ee4c6b8d) - Post about the broader picture and all the different possibilities of serverless architectures.
 
 ## Screencasts
 
@@ -775,6 +779,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Using TypeScript with the Serverless Framework](https://www.youtube.com/watch?v=FEoQlAVwvVE) - How to use the Serverless Framework with TypeScript.
 - [Build apps faster with Azure Serverless](https://www.youtube.com/watch?v=OnJt4qfsfOc) - Walkthrough of the Microsoft Azure Functions serverless offering.
 - [FaaS performance comparison](https://www.youtube.com/watch?v=JS2h8pmqsww) - Comparing serverless function performance.
+- [Introduction to Kubeless](https://www.youtube.com/watch?v=ROA7Ig7tD5s) - Video which introduces the Kubeless project and their Serverless Framework integration.
 
 ## Talks
 
@@ -902,6 +907,10 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Real world serverless use-cases](https://www.youtube.com/watch?v=ZD1bmvwyj-g) - David Wells on real world serverless use-cases.
 - [Serverless operations](https://www.youtube.com/watch?v=RHFjov7GSmU) - Chris Swan on serverless operations.
 - [No-Side JavaScript and the serverless revolution](https://speakerdeck.com/ryanmurakami/no-side-javascript-and-the-serverless-revolution) - Ryan Lewis slide deck about the talk on JavaScript and the serverless revolution.
+- [Chatbots with AWS Lambda & Amazon Lex](https://www.youtube.com/watch?v=TlKtGGoMpF0) - Chris Munns talk about serverless chatbots built with AWS Lambda and Amazon Lex.
+- [Kubeless in Google Container Engine (GKE)](https://www.youtube.com/watch?v=zNyHGs_R98o) - How to go serverless with the help of Kubeless in Google Container Engine (GKE).
+- [Unikernels and event-driven serverless platforms](https://s3-us-west-2.amazonaws.com/emit-website/2017-slides/Unikernels+and+Event-driven+Serverless+Platforms.pdf) - Slide deck from Madhuri Yechuris talk about unikernels in the serverless computing space.
+- [AWS & Serverless technology](https://www.youtube.com/watch?v=7sPb0EQKKO4) - Ryan Kroonenburgs talk about AWS, A Cloud Guru and their serverless architecture.
 
 ## Amazon AWS resources
 
@@ -1239,6 +1248,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Containerless](https://containerless.cool) - Simple Docker deployments for AWS using the Serverless Framework.
 - [PureSec](https://www.puresec.io) - Security, built for serverless architectures.
 - [Pwned passwords ★82](https://github.com/jthomas/serverless-pwned-passwords) - Checking passwords against an enormous corpus of passwords leaked from security breaches.
+- [Zappa ★4611](https://github.com/Miserlou/Zappa) - Serverless Python web services.
 
 ## Plugins
 
@@ -1393,6 +1403,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Reducer ★2](https://github.com/medikoo/serverless-plugin-reducer) - Reduce Lambda package so it hosts only Lambda dependencies.
 - [Transpiler ★2](https://github.com/medikoo/serverless-plugin-transpiler) - Transpile Lambda files when packaging Lambda.
 - [Log streaming ★4](https://github.com/rifflock/serverless-logstreaming-plugin) - Stream logs to a handler function.
+- [Lambda@Edge ★4](https://github.com/silvermine/serverless-plugin-cloudfront-lambda-edge) - Adds Lambda@Edge support to Serverless.
 
 ## Literature / Education
 

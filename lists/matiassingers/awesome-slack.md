@@ -269,7 +269,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slackin](http://rauchg.com/slackin/) - Public Slack organizations made easy
 - [slacklink ★20](https://github.com/robjmills/slacklink) - Post links to Slack from Chrome
 - [slackr-bot ★13 ⏳1Y](https://github.com/tal/slackr-bot) - A node module for making bots that use the Slack RTM API
-- [slacktappd ★13](https://github.com/nicksergeant/slacktappd) - A tiny little app to post Untappd checkins to Slack
+- [slacktappd ★13 ⏳1Y](https://github.com/nicksergeant/slacktappd) - A tiny little app to post Untappd checkins to Slack
 - [slacktocracy ★5 ⏳2Y](https://github.com/nicksergeant/slacktocracy) - A tiny little app to post Fitocracy workouts to Slack
 - [SlackToggle ★0 ⏳2Y](https://github.com/keirua/SlackToggle) - Chrome extension to collapse/expand a Slack discussion section
 - [slackus ★19](https://github.com/jonathanwiesel/slackus) - New Disqus comment notifier for Slack
@@ -426,7 +426,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [fastlane ★17489](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
 - [gifbot ★38 ⏳3Y](https://github.com/schuyler/gifbot) - Integrated animated GIF search for Slack
 - [hatebu-hooker ★4 ⏳3Y](https://github.com/kmrshntr/hatebu-hooker) - Post Hatena::Bookmark to Slack
-- [kickslacker ★5 ⏳2Y](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack
+- [kickslacker ★5 ⏳3Y](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack
 - [lita-slack](https://github.com/kenjij/lita-slack) - Lita adapter for Slack
 - [lita-slack-handler ★7 ⏳2Y](https://github.com/kenjij/lita-slack-handler) - Lita handler for Slack
 - [mina\_slack ★9 ⏳2Y](https://github.com/mbajur/mina_slack) - Slack notifications for Mina

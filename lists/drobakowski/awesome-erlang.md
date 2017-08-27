@@ -93,7 +93,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## HTTP
 *Libraries for working with HTTP and scraping websites.*
 
-* [bullet ★278](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy.
+* [bullet ★278 ⏳1Y](https://github.com/ninenines/bullet) - Simple, reliable, efficient streaming for Cowboy.
 * [gun ★346](https://github.com/ninenines/gun) - Erlang HTTP client with support for HTTP/1.1, SPDY and Websocket.
 * [hackney ★712](https://github.com/benoitc/hackney) - Simple HTTP client in Erlang.
 * [ibrowse ★461](https://github.com/cmullaparthi/ibrowse) - Erlang HTTP client.

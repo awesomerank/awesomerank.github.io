@@ -176,7 +176,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 ### Scala
  - [mongo-scala-driver ★167](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
  - [ReactiveMongo ★721](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
- - [Spark-MongoDB ★282](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+ - [Spark-MongoDB ★282 ⏳1Y](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ## Tools
 ### Administration

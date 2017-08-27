@@ -116,7 +116,7 @@ title: Awesome Rank for brillout/awesome-redux
  - [redux-tiny-router ★138 ⏳1Y](https://github.com/Agamennon/redux-tiny-router) - Router made for Redux and made for universal apps. Stop using the router as a controller, it's just state.
  - [redux-router ★2199](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
  - [react-router-redux ★6418](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and Redux in sync.
- - [ground-control ★272](https://github.com/raisemarketplace/ground-control) - Scalable reducer management &amp; powerful data fetching for React Router &amp; Redux.
+ - [ground-control ★272 ⏳1Y](https://github.com/raisemarketplace/ground-control) - Scalable reducer management &amp; powerful data fetching for React Router &amp; Redux.
 
 
 ### Forms

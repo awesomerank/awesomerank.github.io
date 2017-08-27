@@ -811,7 +811,6 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [dotenv ★3669](https://github.com/motdotla/dotenv) - Load environment variables from .env file.
 - [remote-git-tags ★26](https://github.com/sindresorhus/remote-git-tags) - Get tags from a remote git repo.
 - [semver ★1857](https://github.com/npm/node-semver) - [semver](http://semver.org) parser.
-- [nar ★411](https://github.com/h2non/nar) - Create self-contained executable binaries.
 - [Faker.js ★11033](https://github.com/Marak/Faker.js) - Generate massive amounts of fake data.
 - [nodegit ★2881](https://github.com/nodegit/nodegit) - Native bindings to Git.
 - [json-strictify ★1](https://github.com/pigulla/json-strictify) - Safely serialize a value to JSON without data loss or going into an infinite loop.

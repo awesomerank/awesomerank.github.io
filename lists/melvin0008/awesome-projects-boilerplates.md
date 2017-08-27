@@ -107,7 +107,7 @@ Curated list of boilerplates and templates to enhance productivity.
 *Boilerplates and templates for Python*
 - [Django Hackathon Starter ★1077](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
 - [CookieCutter ★5565](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
-- [bootstrapy ★272 ⏳3Y](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
+- [bootstrapy ★272 ⏳4Y](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
 - [Fbone ★1418](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 - [Flask-Bootstrap ★162](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
 - [Flask Boilerplate ★5 ⏳2Y](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
