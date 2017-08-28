@@ -610,7 +610,7 @@ Libraries to help manage database schemas and migrations.
 * [GetOptionKit ★107](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 * [Hoa Console ★236](https://github.com/hoaproject/Console) - Another command line library.
 * [OptParse ★15](https://github.com/CHH/optparse) - Another command line opt parser.
-* [Pecan ★42 ⏳2Y](https://github.com/mcrumm/pecan) - An event-driven, non-blocking shell.
+* [Pecan ★42 ⏳3Y](https://github.com/mcrumm/pecan) - An event-driven, non-blocking shell.
 * [PsySH ★2030](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [ShellWrap ★666](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
 

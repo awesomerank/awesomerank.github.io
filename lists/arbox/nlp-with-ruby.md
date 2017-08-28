@@ -299,7 +299,7 @@ are often collected in dictionaries.
   Extracts date, time, and message information from naturally worded text.
 - [tickle ★61](https://github.com/yb66/tickle) -
   Parser for recurring and repeating events.
-- [numerizer ★20 ⏳1Y](https://github.com/jduff/numerizer) -
+- [numerizer ★20 ⏳2Y](https://github.com/jduff/numerizer) -
   Ruby parser for English number expressions.
 
 ### Named Entity Recognition

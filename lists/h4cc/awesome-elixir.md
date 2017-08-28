@@ -671,7 +671,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [plug_rails_cookie_session_store ★64](https://github.com/cconstantin/plug_rails_cookie_session_store) - Rails compatible Plug session store.
 * [plug_redirect_https ★4](https://github.com/stocks29/plug_redirect_https) - Plug to redirect http requests to https requests behind a reverse proxy.
 * [plug_require_header ★19 ⏳1Y](https://github.com/DevL/plug_require_header) - Require and extract HTTP headers and handle missing ones.
-* [plug_response_header ★9 ⏳1Y](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
+* [plug_response_header ★9 ⏳2Y](https://github.com/c-rack/plug_response_header) - easy manipulation of HTTP response headers.
 * [plug_ribbon ★19 ⏳2Y](https://github.com/stnly/plug_ribbon) - Injects a ribbon to your web application in the development environment.
 * [plug_secex ★5](https://github.com/techgaun/plug_secex) - Plug that adds various HTTP Headers to make Phoenix/Elixir app more secure.
 * [plug_session_memcached ★8](https://github.com/gutschilla/plug-session-memcached) - A very simple memcached session store for Elixir's plug.

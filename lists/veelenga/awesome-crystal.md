@@ -162,7 +162,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-redis ★171](https://github.com/stefanwille/crystal-redis) - Full featured Redis client
  * [crystal-sqlite3 ★39](https://github.com/crystal-lang/crystal-sqlite3) - SQLite3 bindings
  * [eventql-crystal ★6](https://github.com/measurechina/eventql-crystal) - EventQL driver
- * [influxdb.cr ★12](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
+ * [influxdb.cr ★12 ⏳1Y](https://github.com/jeromegn/influxdb.cr) - InfluxDB driver
  * [leveldb ★17](https://github.com/crystal-community/leveldb) - Crystal bindings for LevelDB
  * [mongo.cr ★56](https://github.com/datanoise/mongo.cr) - Binding for MongoDB C driver
  * [rethinkdb.cr ★23](https://github.com/CubosTecnologia/rethinkdb.cr) - RethinkDB Driver
@@ -327,7 +327,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kreal ★42](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
  * [lirith ★4](https://github.com/lirith-engine/lirith) - Graphics engine
  * [manual-generator ★0](https://github.com/blocknotes/manual-generator) - Tool to generate PDF manuals from documentation sites
- * [ramlrenderer ★4](https://github.com/beno/ramlrenderer) - HTML doc builder for RAML 1.0
+ * [ramlrenderer ★4 ⏳1Y](https://github.com/beno/ramlrenderer) - HTML doc builder for RAML 1.0
  * [raytracer ★24](https://github.com/l3kn/raytracer) - CPU Raytracer with examples
  * [shell.cr ★7](https://github.com/dmytro/shell.cr) - Small simplistic helper class for executing shell commands
  * [syscall.cr ★11](https://github.com/kubo39/syscall.cr) - Raw syscall interface
@@ -446,6 +446,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry ★13463](https://github.com/getsentry/sentry)
  * [slack.cr ★6](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
  * [spotify.cr ★27](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
+ * [tele.cr ★4](https://github.com/vladfaust/tele.cr) - A *convenient* wrapper for the Telegram Bot API
  * [telegram_bot ★40](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API
 
 ## Virtualization

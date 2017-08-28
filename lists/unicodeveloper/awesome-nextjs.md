@@ -76,6 +76,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 ## Videos
 
 * [Create your first ReactJS application with NextJS _[Spanish]_](https://www.youtube.com/watch?v=-7Ft5LxPeWs)
+* [React Server Side Rendering with NextJS](https://www.youtube.com/watch?v=JEBkh_vleTs&t)
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](https://github.com/unicodeveloper/awesome-nextjs/blob/master//CONTRIBUTING.md). Thank you!

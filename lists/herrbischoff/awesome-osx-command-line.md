@@ -36,6 +36,7 @@ For more terminal shell goodness, please also see this list's sister list [Aweso
     - [Skim](#skim)
     - [Terminal](#terminal)
     - [TextEdit](#textedit)
+    - [Virtual Studio Code](#visual-studio-code)
 - [Backup](#backup)
     - [Time Machine](#time-machine)
 - [Developer](#developer)
@@ -322,6 +323,13 @@ defaults write com.apple.Terminal FocusFollowsMouse -string NO
 #### Use Plain Text Mode as Default
 ```bash
 defaults write com.apple.TextEdit RichText -int 0
+```
+
+### Visual Studio Code
+
+#### Fix VSCodeVim Key Repeat
+```bash
+defaults write com.microsoft.VSCode ApplePressAndHoldEnabled -bool false
 ```
 
 

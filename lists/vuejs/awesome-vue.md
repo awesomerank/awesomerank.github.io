@@ -1055,6 +1055,7 @@ Tooltips / popovers
  - [vue-outside-events ★8](https://github.com/nchutchind/vue-outside-events) - Vue 2.x directive to help a specified element listen for specific events occurring outside of itself.
  - [vue-selectable ★11](https://github.com/JSmith01/vue-selectable) - Vue 1.x/2.x directive to make items selectable by mouse.
  - [vue-click-helper ★0](https://github.com/huangshuwei/vue-click-helper) - Vue2.x directive to handle click event and dblclick event on same element.
+ - [v-hotkey ★46](https://github.com/Dafrok/v-hotkey) - Vue 2.x directive for binding hotkeys to components.
 
 ### Responsive Design
 

@@ -293,7 +293,7 @@ These open source projects will help you to build a bot in order to automate you
 ### XMPP / Jabber
 
 * [Errbot](http://errbot.io/) (Python)
-* [Hubot](https://hubot.github.com/) + [adapter ★172](https://github.com/markstory/hubot-xmpp) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★172 ⏳1Y](https://github.com/markstory/hubot-xmpp) (CoffeeScript, Node.js)
 * [Jabberjay ★34 ⏳2Y](https://github.com/vbauer/jabberjay) (Clojure)
 
 ### Yammer

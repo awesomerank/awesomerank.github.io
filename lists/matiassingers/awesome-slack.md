@@ -209,7 +209,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [node-slack-cli ★23 ⏳2Y](https://github.com/juanpabloaj/node-slack-cli) - Send messages to Slack from the command line with nodejs
 - [node-slack-irc ★14 ⏳1Y](https://github.com/IgorAntun/node-slack-irc) - Node.js solution to integrate IRC chats to Slack
 - [node-slackbot ★24](https://github.com/rmcdaniel/node-slackbot) - Slackbot for node.js using RTM API
-- [node-slackhook ★20 ⏳1Y](https://github.com/joezo/node-slackhook) - A node module for Slack custom hooks
+- [node-slackhook ★20 ⏳2Y](https://github.com/joezo/node-slackhook) - A node module for Slack custom hooks
 - [node-slackr ★63](https://github.com/chenka/node-slackr) - A node.js library for sending messages to Slack
 - [nodebot-slack ★3 ⏳3Y](https://github.com/Nodejs-ar/nodebot-slack) - A Node.js bot for Slack teams
 - [Notifications for Fluid](https://gist.github.com/banderson623/81889e7764da84f32112) - Use native notification center for Slack in fluid.app
@@ -412,7 +412,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 ### Ruby
 
 - [addon-slack ★2 ⏳3Y](https://github.com/magnumci/addon-slack) - Send MagnumCI build notifications to Slack
-- [adventure-bot ★14 ⏳2Y](https://github.com/wstrinz/adventure-bot) - Text adventures in Slack!
+- [adventure-bot ★14 ⏳3Y](https://github.com/wstrinz/adventure-bot) - Text adventures in Slack!
 - [airbrake2slack ★2 ⏳3Y](https://github.com/releu/airbrake2slack) - Airbrake to Slack integration (through Heroku)
 - [Alfred-Slack-Channels ★25 ⏳2Y](https://github.com/akira-hamada/Alfred-Slack-Channels) - Alfred WorkFlow to Switch Slack Channels
 - [beach ★13 ⏳2Y](https://github.com/willrax/beach) - Small Sinatra app to host web hooks for Slack

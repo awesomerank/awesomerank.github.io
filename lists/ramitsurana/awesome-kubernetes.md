@@ -180,7 +180,7 @@ Useful Articles
 =======================================================================
 
 *A piece of writing included with others in a newspaper, magazine, or other publication*
- 
+
 * [Installation on Centos 7](http://severalnines.com/blog/installing-kubernetes-cluster-minions-centos7-manage-pods-services)
 *  [Packaging Multiple Resources together](http://blog.arungupta.me/kubernetes-application-package-multiple-resources-together/)
 *  [An Introduction to Kubernetes](https://www.digitalocean.com/community/tutorials/an-introduction-to-kubernetes) by [Justin Ellingwood](https://twitter.com/jmellingwood)
@@ -371,6 +371,7 @@ Projects
 * [Sysdig Monitoring](https://www.sysdig.com/)
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [Weave Scope](https://www.weave.works/products/weave-scope/)
+* [Searchlight ★54](https://github.com/appscode/searchlight)
 
 ## Testing
 
@@ -476,6 +477,10 @@ Projects
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [Cilium ★728](https://github.com/cilium/cilium)
 * [Linen ★11](https://github.com/John-Lin/linen-cni)
+* [Multu ★61](https://github.com/Intel-Corp/multus-cni)
+* [CNI-Genie ★49](https://github.com/Huawei-PaaS/CNI-Genie)
+* [Romana](http://romana.io/)
+* [Infoblox ★2](https://github.com/infobloxopen/cni-infoblox)
 
 ## Service mesh
 
@@ -528,7 +533,7 @@ Projects
 * [Broadway ★11](https://github.com/namely/broadway)
 * [Kb8or ★42 ⏳1Y](https://github.com/UKHomeOffice/kb8or)
 * [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
-* [Nulecule ★220](https://github.com/projectatomic/nulecule)
+* [Nulecule ★220 ⏳1Y](https://github.com/projectatomic/nulecule)
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
 * [Psykube ★18](https://github.com/commercialtribe/psykube)
 

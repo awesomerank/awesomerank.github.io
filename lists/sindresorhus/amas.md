@@ -75,7 +75,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Yitzchok Willroth ★0 ⏳2Y](https://github.com/coderabbi/ama) - Coder & Rabbi (though seldom at the same time!); Engineering Practice Manager, Grovo; Organizer, ShorePHP & NYPHP; Conference Speaker; Mentor.
 - [Graham Daniels ★5 ⏳1Y](https://github.com/greydnls/ama) - Sr Software Engineer at [Refinery29](http://refinery29.com), US Lead for PHPWomen, Host of #NoCapes, Single dad. Brooklyn, NY.
 - [Jeff Carouth ★0 ⏳2Y](https://github.com/jcarouth/ama) - Lead Platform Engineer at [Liftopia](http://www.liftopia.com), Co-host of the [Loosely Coupled Podcast](http://looselycoupled.info), mentor, and conference speaker.
-- [Matthew Turland ★1 ⏳1Y](https://github.com/elazar/amas) - Full Stack Engineer at [When I Work](http://wheniwork.com), author, mentor, and conference speaker.
+- [Matthew Turland ★1 ⏳2Y](https://github.com/elazar/amas) - Full Stack Engineer at [When I Work](http://wheniwork.com), author, mentor, and conference speaker.
 - [Christopher Pitt](https://github.com/assertchris/amas) - [Writer and coder](http://assertchris.io), working at [SilverStripe](http://www.silverstripe.org).
 - [Joe Ferguson ★0 ⏳2Y](https://github.com/svpernova09/ama) - PHP Dev, Sys Admin, Community Builder, Conf Organizer & Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.
 - [Hamish Friedlander ★0 ⏳1Y](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
@@ -155,7 +155,7 @@ title: Awesome Rank for sindresorhus/amas
 #### Ask these organizations anything!
 
 - [Edenspiekermann ★12 ⏳2Y](https://github.com/edenspiekermann/ama) - Design agency based in Berlin and around the world.
-- [Code Monkey Health ★0 ⏳1Y](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
+- [Code Monkey Health ★0 ⏳2Y](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
 - [Ruby Taiwan ★109 ⏳1Y](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese.
 - [DevOps Taiwan ★41 ⏳1Y](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.
 - [Vim Taiwan ★7 ⏳1Y](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions.

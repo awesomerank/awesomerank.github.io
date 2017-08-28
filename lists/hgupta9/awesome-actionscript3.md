@@ -185,7 +185,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Game Controllers
 
-* [AS3dpad ★12 ⏳3Y](https://github.com/duckleg/as3dpad) - A virtual touchscreen gamepad designed for Adobe AIR Mobile (Android/iOS).
+* [AS3dpad ★12 ⏳4Y](https://github.com/duckleg/as3dpad) - A virtual touchscreen gamepad designed for Adobe AIR Mobile (Android/iOS).
 * [Gamepad ★54](https://github.com/iainlobb/Gamepad) - Simulates an analog joystick input using the keyboard.
 * [Advanced_Joystick ★22 ⏳2Y](https://github.com/justjoeyuk/Advanced_Joystick) - Joystick for the Starling Framework, designed for Adobe AIR Mobile.
 * [AS3-Controller-Input ★28 ⏳3Y](https://github.com/arkeus/as3-controller-input) - Interact with Ouya and Xbox360 game controllers from Adobe AIR.

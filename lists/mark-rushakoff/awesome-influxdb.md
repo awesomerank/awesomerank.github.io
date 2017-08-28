@@ -48,7 +48,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [influxdbr ★34](https://github.com/dleutnant/influxdbr) - R library for InfluxDB
 * [instream ★83](https://github.com/mneudert/instream) - InfluxDB driver for Elixir
 * [node-influx ★434](https://github.com/node-influx/node-influx) - InfluxDB Node.js Client
-* [node-influx-udp ★13](https://github.com/mediocre/node-influx-udp) - Write to InfluxDB using its UDP interface
+* [node-influx-udp ★13 ⏳1Y](https://github.com/mediocre/node-influx-udp) - Write to InfluxDB using its UDP interface
 * [scala-influxdb-client ★61](https://github.com/paulgoldbaum/scala-influxdb-client) - Asynchronous InfluxDB client for Scala
 
 ## Collecting data into InfluxDB

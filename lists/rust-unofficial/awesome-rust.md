@@ -97,7 +97,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [qmx/limonite ★25](https://github.com/qmx/limonite) — static blog/website generator [<img src="https://api.travis-ci.org/qmx/limonite.svg?branch=master">](https://travis-ci.org/qmx/limonite)
 * [Sandstorm Collections App ★11](https://github.com/sandstorm-io/collections-app)
 * [Servo ★9856](https://github.com/servo/servo) — a prototype web browser engine
-* [Weld ★23](https://github.com/serayuzgur/weld) - Full fake REST API generator [<img src="https://api.travis-ci.org/serayuzgur/weld.svg">](https://travis-ci.org/serayuzgur/weld)
+* [Weld ★23](https://github.com/serayuzgur/weld) — Full fake REST API generator [<img src="https://api.travis-ci.org/serayuzgur/weld.svg">](https://travis-ci.org/serayuzgur/weld)
 
 * **Audio**
   * [indiscipline/zrtstr ★2 ⏳1Y](https://github.com/indiscipline/zrtstr) — a command line utility for checking if stereo wav files are faux-stereo (i.e. have identical channels) and converting such files to mono. [<img src="https://api.travis-ci.org/indiscipline/zrtstr.svg?branch=master">](https://travis-ci.org/indiscipline/zrtstr)
@@ -853,7 +853,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [djc/askama ★221](https://github.com/djc/askama) — template rendering engine based on Jinja [<img src="https://api.travis-ci.org/djc/askama.svg?branch=master">](https://travis-ci.org/djc/askama)
 * Mustache
   * [rustache/rustache ★177](https://github.com/rustache/rustache) — [<img src="https://api.travis-ci.org/rustache/rustache.svg?branch=master">](https://travis-ci.org/rustache/rustache)
-* [tailhook/marafet ★8 ⏳1Y](https://github.com/tailhook/marafet) — Compiler for Jade-like template language to cito.js-based virtual dom
+* [tailhook/marafet ★8 ⏳2Y](https://github.com/tailhook/marafet) — Compiler for Jade-like template language to cito.js-based virtual dom
 
 
 ### Text processing

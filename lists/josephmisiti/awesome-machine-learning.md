@@ -586,7 +586,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
   * [nnx ★92](https://github.com/clementfarabet/lua---nnx) - A completely unstable and experimental package that extends Torch's builtin nn library
   * [rnn ★846](https://github.com/Element-Research/rnn) - A Recurrent Neural Network library that extends Torch's nn. RNNs, LSTMs, GRUs, BRNNs, BLSTMs, etc.
   * [dpnn ★187](https://github.com/Element-Research/dpnn) - Many useful features that aren't part of the main nn package.
-  * [dp ★352](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns.
+  * [dp ★352 ⏳1Y](https://github.com/nicholas-leonard/dp) - A deep learning library designed for streamlining research and development using the Torch7 distribution. It emphasizes flexibility through the elegant use of object-oriented design patterns.
   * [optim ★175](https://github.com/torch/optim) - An optimization library for Torch. SGD, Adagrad, Conjugate-Gradient, LBFGS, RProp and more.
   * [unsup ★87](https://github.com/koraykv/unsup) - A package for unsupervised learning in Torch. Provides modules that are compatible with nn (LinearPsd, ConvPsd, AutoEncoder, ...), and self-contained algorithms (k-means, PCA).
   * [manifold ★99](https://github.com/clementfarabet/manifold) - A package to manipulate manifolds
@@ -884,7 +884,7 @@ be
 * [Shogun ★1515](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox
 * [Pyevolve ★255](https://github.com/perone/Pyevolve) - Genetic algorithm framework.
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
-* [breze ★92](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks
+* [breze ★92 ⏳1Y](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks
 * [pyhsmm ★301](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.
 * [mrjob](https://pythonhosted.org/mrjob/) - A library to let Python program run on Hadoop.
 * [SKLL ★389](https://github.com/EducationalTestingService/skll) - A wrapper around scikit-learn that makes it simpler to conduct experiments.

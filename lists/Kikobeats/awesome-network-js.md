@@ -21,7 +21,8 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [dhtkv ★47 ⏳1Y](https://github.com/maxogden/dhtkv) – CLI for storing arbitrary key/value data in the bittorrent mainline DHT.
 * [gun ★6334](https://github.com/amark/gun) – A realtime, decentralized, offline-first, graph database engine.
 * [hyperpipe ★97](https://github.com/mafintosh/hyperpipe) – Distributed input/output pipe.
-* [instant.io](https://github.com/feross/instant.io) – Streaming file transfer over WebTorrent.
+* [hypervision ★260](https://github.com/mafintosh/hypervision) – P2P Television.
+* [instant.io ★1607](https://github.com/webtorrent/instant.io) – Streaming file transfer over WebTorrent.
 * [ipp-printer ★280 ⏳1Y](https://github.com/watson/ipp-printer) – Create a printer on your network.
 * [peercast ★337 ⏳2Y](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
 * [peerflix ★4383](https://github.com/mafintosh/peerflix) – Streaming torrent client.
@@ -32,18 +33,41 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [torrent-mount ★1082 ⏳2Y](https://github.com/mafintosh/torrent-mount) – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.
 * [webcat ★347](https://github.com/mafintosh/webcat) – pipe across the web using WebRTC.
 * [websocketd ★8395](https://github.com/joewalnes/websocketd) – Turn any program that uses stdin/stdout into a WebSocket server.
-* [webtorrent](https://github.com/feross/webtorrent) – BitTorrent over WebRTC.
+* [webtorrent ★14255](https://github.com/webtorrent/webtorrent) – BitTorrent over WebRTC.
 * [wifi-triangulate ★47 ⏳1Y](https://github.com/watson/wifi-triangulate) – Finds your current position on planet earth using the wifi access point.
+
+## Modules
+
+> Do one thing well.
+
+* [airplay-server ★189](https://github.com/watson/airplay-server) – A low level AirPlay server.
+* [castnow ★75](https://github.com/xat/chromecast-player) – simple chromecast player.
+* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm ★164](https://github.com/mafintosh/webrtc-swarm).
+* [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket ★55](https://github.com/mafintosh/dns-socket).
+* [etcdjs ★52](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
+* [geocode-wifi ★24 ⏳2Y](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.
+* [hash-to-port ★22 ⏳1Y](https://github.com/mafintosh/hash-to-port) – Hash a value to a valid port.
+* [hyperdb ★97](https://github.com/mafintosh/hyperdb) – Distributed scalable database.
+* [ip-packet ★25 ⏳2Y](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
+* [magnet-uri ★100](https://github.com/webtorrent/magnet-uri) – Parse a magnet URI and return an object of keys/values.
+* [network-address ★51](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
+* [network-simulator ★39 ⏳1Y](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
+* [rtsp-stream ★34 ⏳1Y](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
+* [simple-peer ★1213](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
+* [simple-websocket ★62](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
+* [torrent-discovery ★85](https://github.com/webtorrent/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
+* [torrent-stream ★1405](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
+* [udp-packet ★32 ⏳1Y](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
 
 ## Protocols
 
 > Implementation of protocols specs in pure javascript.
 
 * [airswarm ★104 ⏳1Y](https://github.com/mafintosh/airswarm) – Network swarm that automagically discovers other peers on the network using multicast dns.
-* [bittorrent-dht](https://github.com/feross/bittorrent-dht) – BitTorrent DHT protocol implementation.
-* [bittorrent-protocol](https://github.com/feross/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
+* [bittorrent-dht ★583](https://github.com/webtorrent/bittorrent-dht) – BitTorrent DHT protocol implementation.
+* [bittorrent-protocol ★151](https://github.com/webtorrent/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
 * [bittorrent-swarm](https://github.com/feross/bittorrent-swarm) – BitTorrent "swarm" implementation.
-* [bittorrent-tracker](https://github.com/feross/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
+* [bittorrent-tracker ★489](https://github.com/webtorrent/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
 * [bonjour ★200](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 * [castv2 ★349 ⏳1Y](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.
 * [dht-rpc ★46](https://github.com/mafintosh/dht-rpc) – Make RPC calls over a [Kademlia](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf) based DHT.
@@ -58,28 +82,6 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [polo ★192 ⏳2Y](https://github.com/mafintosh/polo) – A zero configuration service discovery module.
 * [rtsp-server ★17 ⏳1Y](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
 * [utp-native ★53](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
-
-## Modules
-
-> Do one thing well.
-
-* [airplay-server ★189](https://github.com/watson/airplay-server) – A low level AirPlay server.
-* [castnow ★75](https://github.com/xat/chromecast-player) – simple chromecast player.
-* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm ★164](https://github.com/mafintosh/webrtc-swarm).
-* [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket ★55](https://github.com/mafintosh/dns-socket).
-* [etcdjs ★52](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
-* [geocode-wifi ★24 ⏳2Y](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.
-* [hash-to-port ★22 ⏳1Y](https://github.com/mafintosh/hash-to-port) – Hash a value to a valid port.
-* [ip-packet ★25 ⏳2Y](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
-* [magnet-uri](https://github.com/feross/magnet-uri) – Parse a magnet URI and return an object of keys/values.
-* [network-address ★51](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
-* [network-simulator ★39 ⏳1Y](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
-* [rtsp-stream ★34 ⏳1Y](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
-* [simple-peer ★1213](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
-* [simple-websocket ★62](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
-* [torrent-discovery](https://github.com/feross/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
-* [torrent-stream ★1405](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
-* [udp-packet ★32 ⏳1Y](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/Kikobeats/awesome-network-js">Kikobeats/awesome-network-js</a> with ranks

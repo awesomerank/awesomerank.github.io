@@ -62,6 +62,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Spotify Mapper ★25](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
 * [Elm Hangman ★12](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
 * [Pokelmon ★6](https://github.com/brenopanzolini/pokelmon) - Elm project consuming PokéAPI.
+* [JWT auth with Django + Elm ★0](https://github.com/apirobot/django-elm-auth-with-jwt) - JSON Web Token (JWT) authentication using Django (backend) and Elm (frontend).
 
 **[:arrow_up: back to top](#table-of-contents)**
 

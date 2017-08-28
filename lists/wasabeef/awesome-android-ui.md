@@ -61,7 +61,7 @@ Name | License | Demo
 [MaterialNavigationDrawer ★1585 ⏳1Y](https://github.com/neokree/MaterialNavigationDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialNavigationDrawer.png" width="49%">
 [MaterialDialog ★1913](https://github.com/drakeet/MaterialDialog) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MaterialDialog.png" width="49%"> <img src="/art/MaterialDialog2.png" width="49%">
 [materialish-progress ★2163 ⏳1Y](https://github.com/pnikosis/materialish-progress) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/materialish-progress.gif" width="49%"> <img src="/art/materialish-progress2.gif" width="49%">
-[FloatingActionButton ★3830](https://github.com/makovkastar/FloatingActionButton) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/FloatingActionButton.gif" width="49%">
+[FloatingActionButton ★3830 ⏳1Y](https://github.com/makovkastar/FloatingActionButton) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/FloatingActionButton.gif" width="49%">
 [android-floating-action-button ★4910](https://github.com/futuresimple/android-floating-action-button) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-floating-action-button.gif" width="49%"> <img src="/art/android-floating-action-button.png" width="49%">
 [MaterialSheetFab ★1295 ⏳1Y](https://github.com/gowong/material-sheet-fab) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/MaterialSheetFab.gif" width="49%">
 [snackbar ★1533 ⏳1Y](https://github.com/nispok/snackbar) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/snackbar.png" width="49%">

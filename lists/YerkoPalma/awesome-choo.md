@@ -110,7 +110,7 @@ Templates for [choo-cli ★54](https://github.com/trainyard/choo-cli)
 - [footprint-rechoo](https://github.com/npeihl/footprint-rechoo) - A choo rewrite of [footprint-review](http://github.com/sjcgis/footprint-review).
 - [minidocs ★117](https://github.com/freeman-lab/minidocs) – A documentation site generator built with choo.
 - [dataface ★15](https://github.com/timwis/dataface) - Desktop application to manage databases.
-- [BlankUp ★30](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
+- [BlankUp ★30 ⏳1Y](https://github.com/HoverBaum/BlankUp-Electron) - Multiplatform markdown editor.
 - [hackernews-choo ★27 ⏳1Y](https://github.com/kvnneff/hackernews-choo) - A Hacker News reader built with choo.
 - [tic-tac-choo ★5](https://github.com/YerkoPalma/tic-tac-toe) - Progressive tic tac toe game, made with choo.
 - [enviar ★29](https://github.com/timwis/enviar) - Chat interface for SMS / text messages.

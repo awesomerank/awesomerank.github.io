@@ -521,6 +521,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-mixpanel ★123](https://github.com/davodesign84/react-native-mixpanel) - A React Native wrapper for Mixpanel tracking
 - [react-native-segment-io-analytics ★44](https://github.com/smore-inc/react-native-segment-io-analytics) - A React Native Segment wrapper!
 - [react-native-google-analytics-bridge ★389](https://github.com/idehub/react-native-google-analytics-bridge) - A native Google Analytics bridge for React Native. Uses the official libraries on both iOS and Android.
+- [react-native-ux-cam ★11](https://github.com/negativetwelve/react-native-ux-cam) - React Native wrapper for uxcam.com.
 
 ### Utils & Infra
 
@@ -700,6 +701,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-audio-player ★11](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
 - [react-native-audioplayer ★82](https://github.com/andreaskeller/react-native-audioplayer) - Small audio player library for react native
 - [react-native-audio ★246](https://github.com/jsierles/react-native-audio) - Record and play back audio in your iOS or Android React Native apps.
+- [react-native-camera-kit ★283](https://github.com/wix/react-native-camera-kit) - Advanced native camera and gallery components and device photos API.
 - [react-native-camera ★2519](https://github.com/lwansbrough/react-native-camera) - Camera component
 - [react-native-color-grabber ★31](https://github.com/bsudekum/react-native-color-grabber) - React native component for finding dominant colors in an image
 - [react-native-incall-manager ★97](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat like webrtc
@@ -861,6 +863,7 @@ Useful React Native tooling.
 - [generact](http://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
 - [react-native-rename ★330](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
+- [Makeicon ★24](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
 
 ## Seeds
 
@@ -896,6 +899,7 @@ Libraries / SDK type additions for React Native development.
 - [Panza ★155](https://github.com/bmcmahen/panza) - a collection of stateless, functional, cross-platform ui components for react-native
 - [React Native Elements ★4303](https://github.com/dabit3/React-Native-Elements) - a collection of React Native UI Elements and components.
 - [Shoutem UI ★1693](https://github.com/shoutem/ui) - a complete UI toolkit for React Native from Shoutem
+- [BlankApp UI ★6](https://github.com/blankapp/ui) - Highly customizable and theming components for React Native
 
 ## Open Source Apps
 
@@ -1065,6 +1069,8 @@ Assortment of conference and training videos.
 - Handlebarlabs.com: [Learn React Native + Meteor](http://reactnativemeteor.com) - Comprehensive course & community on building an application with React Native and Meteor.
 - [React Native Basics: Build a Currency Converter](http://learn.handlebarlabs.com/p/react-native-basics-build-a-currency-converter?ref=awesome-react-native) - (Free) A multi-hour in-depth video course showing you how to build apps with React Native.
 - [React Native in Arabic: Build a newspaper app](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS) - (Free) A simple to follow video series in Arabic showing you how to build a newspaper app with React Native.
+- Udemy.com: [Automate Your React Native Releases with Fastlane & Bitrise](https://www.udemy.com/automate-your-react-native-releases-with-fastlane-and-bitrise/?couponCode=AWESOME-REACT-NATIVE&utm_source=gh_arn&utm_medium=link) - Learn step-by-step how to release your React Native applications into Stores automatically by using Fastlane & Bitrise.
+
 ## Blogs
 
 - [Official React Native Blog](http://facebook.github.io/react-native/blog/)

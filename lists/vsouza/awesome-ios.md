@@ -255,6 +255,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [RocketData ★508](https://github.com/linkedin/RocketData) - A caching and consistency solution for immutable models. :large_orange_diamond:
 * [PINCache ★1715](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS
 * [Johnny ★26](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift :large_orange_diamond:
+* [Disk ★1269](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data. 🔶
 
 ## Charts
 * [Charts](https://github.com/danielgindi/Charts) - A powerful chart / graph framework, the iOS equivalent to [MPAndroidChart ★17562](https://github.com/PhilJay/MPAndroidChart). :large_orange_diamond:

@@ -632,7 +632,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-log ★14 ⏳3Y](https://github.com/siddontang/go-log) - Log lib supports level and multi handlers.
 * [go-log ★24](https://github.com/ian-kent/go-log) - Log4j implementation in Go.
 * [go-logger ★162](https://github.com/apsdehal/go-logger) - Simple logger of Go Programs, with level handlers.
-* [gologger ★25](https://github.com/sadlil/gologger) - Simple easy to use log lib for go, logs in Colored Cosole, Simple Console, File or Elasticsearch.
+* [gologger ★25](https://github.com/sadlil/gologger) - Simple easy to use log lib for go, logs in Colored Console, Simple Console, File or Elasticsearch.
 * [gomol ★6](https://github.com/aphistic/gomol) - Multiple-output, structured logging for Go with extensible logging outputs.
 * [gone/log](https://github.com/One-com/gone/tree/master/log#readme) - Fast, extendable, full-featured, std-lib source compatible log library.
 * [log ★423](https://github.com/apex/log) - Structured logging package for Go.
@@ -1059,6 +1059,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 *Libraries for parsing and manipulating texts.*
 
 * Specific Formats
+    * [align ★26](https://github.com/Guitarbum722/align) - A general purpose application that aligns text.
     * [allot ★19](https://github.com/sbstjn/allot) - Placeholder and wildcard text parsing for CLI tools and bots.
     * [bbConvert ★2](https://github.com/CalebQ42/bbConvert) - Converts bbCode to HTML that allows you to add support for custom bbCode tags.
     * [blackfriday ★2565](https://github.com/russross/blackfriday) - Markdown processor in Go.
@@ -1543,6 +1544,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [naclpipe ★11](https://github.com/unix4fun/naclpipe) - Simple NaCL EC25519 based crypto pipe tool written in Go.
 * [nes ★2781](https://github.com/fogleman/nes) - Nintendo Entertainment System (NES) emulator written in Go.
 * [orange-cat ★153 ⏳1Y](https://github.com/noraesae/orange-cat) - Markdown previewer written in Go.
+* [Orbit ★41](https://github.com/gulien/orbit) - A simple tool for running commands and generating files from templates.
 * [peg ★418](https://github.com/pointlander/peg) - Peg, Parsing Expression Grammar, is an implementation of a Packrat parser generator.
 * [Postman ★682](https://github.com/zachlatta/postman) - Command-line utility for batch-sending email.
 * [restic ★2216](https://github.com/restic/restic) - De-duplicating backup program.

@@ -361,7 +361,7 @@ Others
 * [cl-closure-template ★64 ⏳2Y](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates. [LLGPL][8].
 * [cl-irc](https://www.common-lisp.net/project/cl-irc/) - An IRC client library. [Expat][14].
 * [cl-openid](https://common-lisp.net/project/cl-openid/darcs/cl-openid/) - An implementation of OpenID. [LLGPL][8].
-* [cl-ses ★10 ⏳1Y](https://github.com/CodyReichert/cl-ses) - Library for AWS SES. [Expat][14].
+* [cl-ses ★10 ⏳2Y](https://github.com/CodyReichert/cl-ses) - Library for AWS SES. [Expat][14].
 * [colleen ★26](https://github.com/Shinmera/colleen) - IRC bot with a modular framework. [Artistic License 2.0][51].
 * [css-lite ★52 ⏳5Y](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat][14].
 * [humbler ★8](https://github.com/Shinmera/humbler) - A Tumblr API interface. [Artistic License 2.0][51].
