@@ -259,7 +259,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 #### Misc
 
 * [AlexaMqttBridge ★5](https://github.com/mhdawson/AlexaMqttBridge) - Bridge between Amazon Alexa and Mqtt.
-* [dashbutton2mqtt ★6](https://github.com/hobbyquaker/dashbutton2mqtt) - Publish Amazon Dash Button presses to MQTT.
+* [dashbutton2mqtt ★6 ⏳1Y](https://github.com/hobbyquaker/dashbutton2mqtt) - Publish Amazon Dash Button presses to MQTT.
 * [flowerpower2mqtt ★4 ⏳1Y](https://github.com/hobbyquaker/flowerpower2mqtt) - Publish measurements from Parrot Flower Power plant sensors to MQTT.
 * [haiku2mqtt ★0](https://github.com/forty2/haiku2mqtt) - A bridge between Haiku smart fans and MQTT.
 * [homely ★6](https://github.com/baol/homely) - collection of Go daemons for connecting Domoticz and other stuff.
