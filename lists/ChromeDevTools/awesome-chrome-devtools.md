@@ -59,13 +59,15 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - JavaScript/Node.js: [chrome-remote-interface ★1773](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol
 - TypeScript/Node.js: [chrome-debugging-client ★29](https://github.com/krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
 - Java: [cdp4j ★51](https://github.com/webfolderio/cdp4j) - Java library for CDP
-- Python: [chromote ★248](https://github.com/iiSeymour/chromote) - Simple wrapper to drive Google Chrome from Python
 - Python: [PyChromeDevTools ★11](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
+- Python: [chromewhip ★7](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
+- Python: [pychrome ★59](https://github.com/fate0/pychrome) - A Python Package for the Google Chrome Dev Protocol
 - Go: [chromedp ★1385](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
 - Go: [cdp ★33](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd ★115](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet ★150](https://github.com/raff/godet) - Also different, also Go.
 - C#/dotnet: [chrome-dev-tools ★12](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
+- Ruby: [ChromeRemote ★5](https://github.com/cavalle/chrome_remote) - A client implementation of the Chrome DevTools Protocol in Ruby
 
 #### Developing with the protocol
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes
@@ -129,6 +131,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [Three.js](https://chrome.google.com/webstore/detail/threejs-editor-extension/fbgbekpggeldiacgjkacbkkcbjhmakea/) - Edit any three.js project.
 - [Insight ★685 ⏳1Y](https://github.com/3Dparallax/insight) - A WebGL debugging toolkit which enables more productive WebGL development and more efficient WebGL applications.
 - [BEM devtools ★36 ⏳1Y](https://github.com/escaton/bem-chrome-devtools) - Inspect BEM entities expressed in `i-bem` framework.
+- [Metal.js Developer Tools](https://chrome.google.com/webstore/detail/metaljs-developer-tools/fagnjmppkokolnbloalifcmcooldhiik) - Inspect the Metal component hierarchies.
 
 #### UX
 - [DevTools Author](https://chrome.google.com/webstore/detail/devtools-author/egfhcfdfnajldliefpdoaojgahefjhhi) - A selection of themes to modify parts of DevTools related to authoring web applications.

@@ -117,6 +117,7 @@ _Web Analytics_
   * [Rakam](https://rakam.io/) - Custom analytics platform that allows you to create your own analytics services. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code ★547](https://github.com/rakam-io/rakam)) `Apache` `Java`
   * [Serposcope](https://serposcope.serphacker.com/) - Serposcope is a free and open-source rank tracker to monitor websites ranking in Google and improve your SEO performances. ([Source Code ★294](https://github.com/serphacker/serposcope)) `MIT` `Java`
   * [Snowplow](http://snowplowanalytics.com/) - Have every single event, from your websites, mobile apps, desktop applications and server-side systems, stored in your own data warehouse and available to action in real-time. ([Source Code](https://github.com/snowplow/)) `Apache` `Scala`
+  * [Suet](https://suet.co/) `⚠` - Detailed analytics and reporting for your Mailgun transactional emails. ([Source Code ★30](https://github.com/kehers/suet)) `GPLv3` `Nodejs`
 
 _Business Intelligence_
 
@@ -982,7 +983,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
   * [Framadate](https://framadate.org/) - An online service for planning an appointment or make a decision quickly and easily: Make a poll, Define dates or subjects to choose, Send the poll link to your friends or colleagues, Discuss and make a decision. ([Demo](https://framadate.org/aqg259dth55iuhwm), [Source Code](https://git.framasoft.org/framasoft/framadate)) `CeCILL-B` `PHP`
   * [Kyélà](http://kyela.net/) - Participation polls for group events. ([Demo](http://kyela.net/55232734237c8/), [Source Code ★15](https://github.com/abienvenu/Kyela)) `AGPLv3` `PHP`
   * [LimeSurvey](https://www.limesurvey.org) - Feature-rich Open Source web based polling software. Supports extensive survey logic. ([Demo](https://demo.limesurvey.org)) `GPLv2` `PHP`
-  * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - An opensource strawpoll.me clone for creating random polls. ([Demo](http://materialpoll.tk), [Source Code ★38](https://github.com/nearbycoder/materialpoll)) `MIT` `Nodejs`
+  * [MaterialPoll](https://github.com/nearbycoder/materialpoll) - An opensource strawpoll.me clone for creating random polls. ([Demo](http://materialpoll.tk), [Source Code ★38 ⏳1Y](https://github.com/nearbycoder/materialpoll)) `MIT` `Nodejs`
   * [Nuages](https://nuages.domainepublic.net/) - Collaborative meeting poll system, similar to doodle or rdvz. ([Source Code](http://git.domainepublic.net/?p=nuages.git;a=tree)) `GPLv3` `Python`
   * [PHPBack](http://www.phpback.org) - The open source feedback system. ([Demo](http://www.phpback.org/demo/), [Source Code ★215](https://github.com/ivandiazwm/phpback)) `GPLv3` `PHP`
   * [TellForm](https://tellform.com) - A beautiful online form and survey creator. ([Demo](https://tellform.com/examples), [Source Code](https://github.com/whitef0x0/tellform)) `MIT` `Nodejs`
@@ -1071,6 +1072,7 @@ See **[Ticketing](#ticketing)**
   * [Eclipse Che](http://www.eclipse.org/che/) - Open source workspace server and cloud IDE. ([Source Code ★4263](https://github.com/eclipse/che)) `EPLv1` `Docker/Java`
   * [ICEcoder](https://icecoder.net/) - ICEcoder is a web IDE / browser based code editor, which allows you to develop websites directly within the web browser. ([Demo](http://demo.icecoder.net/ICEcoder/), [Source Code ★896](https://github.com/mattpass/ICEcoder)) `MIT` `PHP`
   * [JS Bin](http://jsbin.com/) - Open source collaborative web development debugging tool. ([Source Code ★3418](https://github.com/jsbin/jsbin)) `MIT` `Nodejs`
+  * [Judge0 API](https://api.judge0.com) - Open source API to compile and run source code. ([Source Code ★21](https://github.com/judge0/api)) `GPLv3` `Ruby`
   * [Koding](http://www.koding.com/) - The simplest way to manage your entire Dev Infrastructure. ([Source Code ★632](https://github.com/koding/koding)) `Apache` `Nodejs`
   * [Microglark](http://micro.glark.io) - A hacky minimalistic remote pair programming editor. ([Demo](http://micro.glark.io), [Source Code ★72 ⏳1Y](https://github.com/Bluefinch/microglark)) `AGPLv3` `Nodejs`
   * [Regexr](http://regexr.com/) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source Code ★3879](https://github.com/gskinner/regexr)) `MIT` `Nodejs`

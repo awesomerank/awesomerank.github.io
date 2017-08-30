@@ -172,6 +172,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Physics + Vive Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/misc) - `grab` and `sphere-collider` components for combining the HTC Vive's controllers with the [`aframe-physics-system` ★74](https://github.com/donmccurdy/aframe-physics-system) component
 - [Physics ★74](https://github.com/donmccurdy/aframe-physics-system) - Rigid-body physics using [Cannon.js](http://www.cannonjs.org/)
 - [Pipe ★0](https://github.com/jellix79/aframe-pipe-component) - A pipe with inner and outer radii
+- [Plot ★2](https://github.com/mikebolt/aframe-plot-component) - Render 3D plots using mathematical functions or data.
 - [PLY Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.PLY` models, wrapping [`THREE.PLYLoader`](https://threejs.org/examples/webgl_loader_ply.html)
 - [Polygon ★3 ⏳1Y](https://github.com/andreasplesch/aframe-polygon-primitive) - `n`-sided polygons
 - [Proxy Controls](https://proxy-controls.donmccurdy.com/) - Connect input devices from your desktop to your mobile phone with [WebRTC data channels](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Using_data_channels)

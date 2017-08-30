@@ -46,6 +46,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
     - [Runtime Application Self-Protection](#runtime-application-self-protection)
     - [Development](#development)    
   - [Big Data](#big-data)
+  - [Datastores](#datastores)
   - [DevOps](#devops)
   - [Operating Systems](#operating-systems)
     - [Online resources](#online-resources)
@@ -238,6 +239,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [sqlmap](http://sqlmap.org/) - sqlmap is an open source penetration testing tool that automates the process of detecting and exploiting SQL injection flaws and taking over of database servers. It comes with a powerful detection engine, many niche features for the ultimate penetration tester and a broad range of switches lasting from database fingerprinting, over data fetching from the database, to accessing the underlying file system and executing commands on the operating system via out-of-band connections.
 - [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications. It is designed to be used by people with a wide range of security experience and as such is ideal for developers and functional testers who are new to penetration testing. ZAP provides automated scanners as well as a set of tools that allow you to find security vulnerabilities manually.
+- [OWASP Testing Checklist v4](https://www.owasp.org/index.php/Testing_Checklist) -  List of some controls to test during a web vulnerability assessment. Markdown version may be found [here](https://github.com/amocrenco/owasp-testing-checklist-v4-markdown/blob/master/README.md).
 - [w3af](http://w3af.org/) - w3af is a Web Application Attack and Audit Framework. The project’s goal is to create a framework to help you secure your web applications by finding and exploiting all web application vulnerabilities.
 - [Recon-ng](https://bitbucket.org/LaNMaSteR53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python. Recon-ng has a look and feel similar to the Metasploit Framework.
 - [PTF ★1218](https://github.com/trustedsec/ptf) - The Penetration Testers Framework (PTF) is a way for modular support for up-to-date tools.
@@ -276,13 +278,19 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ## Datastores
 
+- [blackbox ★3613](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
+- [confidant ★1124](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
+- [dotgpg ★116](https://github.com/ConradIrwin/dotgpg) - A tool for backing up and versioning your production secrets or shared passwords securely and easily.
+- [redoctober ★1060](https://github.com/cloudflare/redoctober) - Server for two-man rule style file encryption and decryption.
+- [aws-vault ★536](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
 - [blackbox ★3613](https://github.com/StackExchange/blackbox) Safely store secrets in a VCS repo using GPG
+- [credstash ★1253](https://github.com/fugue/credstash) - Store secrets using AWS KMS and DynamoDB
+- [chamber ★167](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
 - [dotgpg ★116](https://github.com/ConradIrwin/dotgpg) A tool for backing up and versioning your production secrets or shared passwords securely and easily.
-- [redoctober ★1060](https://github.com/cloudflare/redoctober) Server for two-man rule style file encryption and decryption.
 - [Safe ★127](https://github.com/starkandwayne/safe) - A Vault CLI that makes reading from and writing to the Vault easier to do.
 - [Sops ★576](https://github.com/mozilla/sops) - An editor of encrypted files that supports YAML, JSON and BINARY formats and encrypts with AWS KMS and PGP.
 - [passbolt](https://www.passbolt.com/) - The password manager your team was waiting for. Free, open source, extensible, based on OpenPGP.
-- [passpie ★814](https://github.com/marcwebbie/passpie) Multiplatform command-line password manager
+- [passpie ★814](https://github.com/marcwebbie/passpie) - Multiplatform command-line password manager
 - [Vault](https://www.vaultproject.io/) - An encrypted datastore secure enough to hold environment and application secrets.
 
 ## Other Awesome Lists

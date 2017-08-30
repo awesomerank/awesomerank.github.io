@@ -200,7 +200,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [envcfg ★79](https://github.com/tomazk/envcfg) - Un-marshaling environment variables to Go structs.
 * [envconf ★5 ⏳2Y](https://github.com/ian-kent/envconf) - Configuration from environment.
 * [envconfig ★108](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables.
-* [gcfg ★63](https://github.com/go-gcfg/gcfg) - read INI-style configuration files into Go structs; supports user-defined types and subsections.
+* [gcfg ★63 ⏳1Y](https://github.com/go-gcfg/gcfg) - read INI-style configuration files into Go structs; supports user-defined types and subsections.
 * [goConfig ★43](https://github.com/crgimenes/goConfig) - Parse a struct as input and populates the fields of this struct with parameters fom command line, environment variables and configuration file.
 * [godotenv ★645](https://github.com/joho/godotenv) - Go port of Ruby's dotenv library (Loads environment variables from `.env`).
 * [gofigure ★42](https://github.com/ian-kent/gofigure) - Go application configuration made easy.
@@ -250,7 +250,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go-rquad ★69](https://github.com/aurelien-rainone/go-rquad) - Region quadtrees with efficient point location and neighbour finding.
 * [gods ★3069](https://github.com/emirpasic/gods) - Go Data Structures. Containers, Sets, Lists, Stacks, Maps, BidiMaps, Trees, HashSet etc.
 * [golang-set ★578](https://github.com/deckarep/golang-set) - Thread-Safe and Non-Thread-Safe high-performance sets for Go.
-* [goset ★4](https://github.com/zoumo/goset) - A useful Set collection implementation for Go. 
+* [goset ★4](https://github.com/zoumo/goset) - A useful Set collection implementation for Go.
 * [goskiplist ★134](https://github.com/ryszard/goskiplist) - Skip list implementation in Go.
 * [gota ★307](https://github.com/kniren/gota) - Implementation of dataframes, series, and data wrangling methods for Go.
 * [hilbert ★93](https://github.com/google/hilbert) - Go package for mapping values to and from space-filling curves, such as Hilbert and Peano curves.
@@ -345,7 +345,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     * [go-oci8 ★226](https://github.com/mattn/go-oci8) - Oracle driver for go that using database/sql.
     * [go-sql-driver/mysql ★3986](https://github.com/go-sql-driver/mysql) - MySQL driver for Go.
     * [go-sqlite3 ★1933](https://github.com/mattn/go-sqlite3) - SQLite3 driver for go that using database/sql.
-    * [gofreetds ★49](https://github.com/minus5/gofreetds) Microsoft MSSQL driver. Go wrapper over [FreeTDS](http://www.freetds.org).
+    * [gofreetds ★49](https://github.com/minus5/gofreetds) - Microsoft MSSQL driver. Go wrapper over [FreeTDS](http://www.freetds.org).
     * [pgx ★1076](https://github.com/jackc/pgx) - PostgreSQL driver supporting features beyond those exposed by database/sql.
     * [pq ★3085](https://github.com/lib/pq) - Pure Go Postgres driver for database/sql.
 
@@ -628,7 +628,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [glg ★1](https://github.com/kpango/glg) - glg is simple and fast leveled logging library for Go.
 * [glog ★1465](https://github.com/golang/glog) - Leveled execution logs for Go.
-* [go-cronowriter ★1](https://github.com/utahta/go-cronowriter) Simple writer that rotate log files automatically based on current date and time, like cronolog.
+* [go-cronowriter ★1](https://github.com/utahta/go-cronowriter) - Simple writer that rotate log files automatically based on current date and time, like cronolog.
 * [go-log ★14 ⏳3Y](https://github.com/siddontang/go-log) - Log lib supports level and multi handlers.
 * [go-log ★24](https://github.com/ian-kent/go-log) - Log4j implementation in Go.
 * [go-logger ★162](https://github.com/apsdehal/go-logger) - Simple logger of Go Programs, with level handlers.
@@ -940,7 +940,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 
 *Libraries that are used to help make your application more secure.*
 
-* [acmetool ★1293](https://github.com/hlandau/acme) — ACME (Let's Encrypt) client tool with automatic renewal.
+* [acmetool ★1293](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
 * [BadActor ★209](https://github.com/jaredfolkins/badactor) - In-memory, application-driven jailer built in the spirit of fail2ban.
 * [go-yara](https://github.com/hillu/go-yara) - Go Bindings for [YARA ★43 ⏳1Y](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
 * [lego ★2035](https://github.com/xenolf/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
@@ -988,7 +988,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [fasttemplate ★143](https://github.com/valyala/fasttemplate) - Simple and fast template engine. Substitutes template placeholders up to 10x faster than [text/template](http://golang.org/pkg/text/template/).
 * [gofpdf ★696](https://github.com/jung-kurt/gofpdf) - PDF document generator with high level support for text, drawing and images.
 * [grender ★58](https://github.com/dannyvankooten/grender) - small wrapper around html/template for file-based templates that support extending other template files.
-* [hero ★776](https://github.com/shiyanhui/hero) Hero is a handy, fast and powerful go template engine.
+* [hero ★776](https://github.com/shiyanhui/hero) - Hero is a handy, fast and powerful go template engine.
 * [jet ★396](https://github.com/CloudyKit/jet) - Jet template engine.
 * [kasia.go ★70 ⏳2Y](https://github.com/ziutek/kasia.go) - Templating system for HTML and other text documents - go implementation.
 * [liquid ★25](https://github.com/osteele/liquid) - Go implementation of Shopify Liquid templates.
@@ -1308,7 +1308,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-astisub ★24](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 * [goav ★341](https://github.com/giorgisio/goav) - Comphrensive Go bindings for FFmpeg.
 * [gst ★131 ⏳1Y](https://github.com/ziutek/gst) - Go bindings for GStreamer.
-* [libgosubs ★1](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass. 
+* [libgosubs ★1](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass.
 * [v4l ★11](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 
 ## Web Frameworks

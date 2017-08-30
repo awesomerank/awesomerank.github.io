@@ -98,6 +98,7 @@ This is a collection of static analysis tools and code quality checkers.
 
 * [credo ★2026](https://github.com/rrrene/credo) - A static code analysis tool with a focus on code consistency and teaching.
 * [Dogma ★411](https://github.com/lpil/dogma) - A code style enforcer for Elixir
+* [sobelow ★313](https://github.com/nccgroup/sobelow) - Security-focused static analysis for the Phoenix Framework
 
 ## Erlang
 
@@ -298,6 +299,7 @@ Wrappers:
 * [coala](https://coala.io/) - Language independent framework for creating code analysis - supports [over 60 languages](https://coala.io/languages) by default
 * [codeburner ★60](https://github.com/groupon/codeburner) - Provides a unified interface to sort and act on the issues it finds
 * [Coverity Save](http://www.coverity.com/products/coverity-save/) :copyright: - Static analysis for  C/C++, Java and C#
+* [DevSkim ★117](https://github.com/microsoft/devskim) - Regex-based static analysis tool for Visual Studio, VS Code, and Sublime Text - C/C++, C#, PHP, ASP, Python, Ruby, Java, and others.
 * [graudit ★187](https://github.com/wireghoul/graudit) - Grep rough audit - source code auditing tool - C/C++, PHP, ASP, C#, Java, Perl, Python, Ruby
 * [Hound CI](https://houndci.com/) - Comments on style violations in GitHub pull requests. Supports Coffeescript, Go, HAML, JavaScript, Ruby, SCSS and Swift.
 * [imhotep ★200](https://github.com/justinabrahms/imhotep) - Comment on commits coming into your repository and check for syntactic errors and general lint warnings.

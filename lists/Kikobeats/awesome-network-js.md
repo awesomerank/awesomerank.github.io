@@ -66,7 +66,6 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [airswarm ★104 ⏳1Y](https://github.com/mafintosh/airswarm) – Network swarm that automagically discovers other peers on the network using multicast dns.
 * [bittorrent-dht ★583](https://github.com/webtorrent/bittorrent-dht) – BitTorrent DHT protocol implementation.
 * [bittorrent-protocol ★151](https://github.com/webtorrent/bittorrent-protocol) – BitTorrent peer wire protocol implementation.
-* [bittorrent-swarm](https://github.com/feross/bittorrent-swarm) – BitTorrent "swarm" implementation.
 * [bittorrent-tracker ★489](https://github.com/webtorrent/bittorrent-tracker) – BitTorrent tracker (client & server) implementation
 * [bonjour ★200](https://github.com/watson/bonjour) – A Bonjour/Zeroconf protocol implementation.
 * [castv2 ★349 ⏳1Y](https://github.com/thibauts/node-castv2) – An implementation of the Chromecast CASTV2 protocol.

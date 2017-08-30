@@ -602,7 +602,7 @@ AWS Repos:
 
 Community Repos:
 
-* [alienfast/elastic-beanstalk :fire: ★189](https://github.com/alienfast/elastic-beanstalk) - Gem with rake configuration and deployment for rails apps.
+* [alienfast/elastic-beanstalk :fire: ★189 ⏳1Y](https://github.com/alienfast/elastic-beanstalk) - Gem with rake configuration and deployment for rails apps.
 * [ThoughtWorksStudios/eb_deployer :fire::fire: ★342](https://github.com/ThoughtWorksStudios/eb_deployer) - Blue-green deployment automation.
 
 ### Elastic Compute Cloud
@@ -657,7 +657,7 @@ Community Repos:
 AWS Repos:
 
 * [emr-bootstrap-actions :fire::fire: ★456](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
-* [emr-sample-apps ★44 ⏳1Y](https://github.com/awslabs/emr-sample-apps) - Sample apps.
+* [emr-sample-apps ★44 ⏳2Y](https://github.com/awslabs/emr-sample-apps) - Sample apps.
 
 Community Repos:
 

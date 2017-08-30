@@ -447,6 +447,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [ChuckNorris ★5](https://github.com/mazipan/chucknorris) - Chuck Norris Jokes Generator built with VueJS + api.chucknorris.io
 - [LeafPlayer ★2](https://github.com/paulschwoerer/leafplayer) - A simple and fast, privately hosted music streaming server.
 - [JSON Editor ★6](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
+- [Voten ★421](https://github.com/voten-co/voten) - A Reddit-like platform built with Vue2 and Laravel.
 
 ### Commercial Products
 
@@ -664,6 +665,7 @@ Tooltips / popovers
 - [vue-ya-semantic-modal ★4](https://github.com/qgp9/vue-ya-semantic-modal) - Yet another semantic-ui modal component for Vue2 without Jquery but with Vue transition
 - [vue-pure-lightbox ★2](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
 - [v-viewer](https://github.com/mirari/v-viewer) - Image viewer component for vue, supports rotation, scale, zoom and so on, based on [viewer.js ★2230](https://github.com/fengyuanchen/viewerjs)
+- [vue-messagebox ★1](https://github.com/zhangxiang958/vue-messageBox) - Easy and made-to-order messagebox component on Vue.
 
 ### Parallax
 
@@ -1129,6 +1131,7 @@ Tooltips / popovers
  - [vuejs-uib-pagination ★26](https://github.com/sant123/vuejs-uib-pagination) - Best and complete pagination plugin for Vue.js. Inspired in Angular Bootstrap Pagination.
  - [vuejs-paginate ★120](https://github.com/lokyoung/vuejs-paginate) - A Vue.js(v2.x+) component for creating pagination.
  - [vue-pagination-bootstrap ★5](https://github.com/brunoseco/vue-pagination-bootstrap) - A Vue.js (1.x & 2.x) server-side paging component with a template based on Bootstrap
+ - [laravel-vue-semantic-ui-pagination ★2](https://github.com/vinayakkulkarni/laravel-vue-semantic-ui-pagination) - A Vue.js 2.x pagination used with Laravel & Semantic-UI.
 
 ### Animation
 
@@ -1149,6 +1152,7 @@ Tooltips / popovers
 *Move a DOM node to a target DOM node*
 
  - [vue-dom-portal ★51](https://github.com/calebroseland/vue-dom-portal) - An escape hatch for DOM Elements in Vue.js components.
+ - [portal-vue](https://linusborg.github.io/portal-vue) - A Vue Plugin to render your component's template anywhere in the DOM (Works on the virtualDOM level, doesn't move nodes within the DOM)
 
 ### Filters
 

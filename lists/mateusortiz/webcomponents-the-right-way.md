@@ -135,7 +135,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 
 ## Style Guides
 
-* [Google Web Components Style Guide ★305 ⏳2Y](https://github.com/GoogleWebComponents/style-guide) This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
+* [Google Web Components Style Guide ★305 ⏳3Y](https://github.com/GoogleWebComponents/style-guide) This guide serves as an extension to the Google JavaScript Style Guide with additional style guidance around authoring Web Components, particuarly those in this element collection. It is targeted at Google engineers, but may be useful for others too.
 * [Polymer Elements Style Guide](http://polymerelements.github.io/style-guide/)
 
 

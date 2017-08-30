@@ -522,7 +522,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Clustering ★80](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 * [SVM ★29 ⏳1Y](https://github.com/JuliaStats/SVM.jl) - SVM's for Julia
 * [Kernel Density ★29](https://github.com/JuliaStats/KernelDensity.jl) - Kernel density estimators for julia
-* [Dimensionality Reduction ★21 ⏳2Y](https://github.com/JuliaStats/DimensionalityReduction.jl) - Methods for dimensionality reduction
+* [Dimensionality Reduction ★21 ⏳3Y](https://github.com/JuliaStats/DimensionalityReduction.jl) - Methods for dimensionality reduction
 * [NMF ★35](https://github.com/JuliaStats/NMF.jl) - A Julia package for non-negative matrix factorization
 * [ANN ★53 ⏳2Y](https://github.com/EricChiang/ANN.jl) - Julia artificial neural networks
 * [Mocha ★935](https://github.com/pluskid/Mocha.jl) - Deep Learning framework for Julia inspired by Caffe

@@ -35,13 +35,15 @@ title: Awesome Rank for brunopulis/awesome-a11y
   - [Contributing](#contributing)
   - [License](#license)
 
-## Levels
+## Legends
 
 | Level | Description |
 | --- | --- |
 |:green_heart:| Basic Level |
 |:large_orange_diamond:| Intermediary Level |
 |:red_circle:| Advanced Level |
+|:memo:| Text |
+|:movie_camera:| Video |
 
 
 ## W3C Specification
@@ -131,8 +133,8 @@ title: Awesome Rank for brunopulis/awesome-a11y
 * [508 Checker](http://www.508checker.com/)
 * [A11Y.css ★452](https://github.com/ffoodd/a11y.css)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
-* [a11y-checker ★14](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue. 
-* [Access Lint](http://accesslint.com/)
+* [a11y-checker ★14](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue.
+* [AccessLint](https://www.accesslint.com/) - A GitHub App that finds accessibility issues in your pull requests.
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
 * [Accessibility Developer Tools ★1370](https://github.com/GoogleChrome/accessibility-developer-tools)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)

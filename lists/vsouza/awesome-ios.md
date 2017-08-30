@@ -435,6 +435,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [PersistentStorageSerializable ★159](https://github.com/IvanRublev/PersistentStorageSerializable) - Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk. :large_orange_diamond:
 * [WCDB ★3604](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
 * [StorageKit ★97](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
+* [UserDefaults ★422](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS :large_orange_diamond:
 
 
 ## Data Structures / Algorithms
@@ -1424,7 +1425,7 @@ Most of these are paid services, some have free tiers.
 * [Flawless App](https://flawlessapp.io/) - tool for visual quality check of mobile app in a real-time. It compares initial design with the actual implementation right inside iOS simulator.
 
 #### Other Testing
-* [NaughtyKeyboard ★576 ⏳1Y](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
+* [NaughtyKeyboard ★576 ⏳2Y](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
 * [PonyDebugger ★5432](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools
 * [ios-snapshot-test-case ★2523](https://github.com/facebook/ios-snapshot-test-case) - Snapshot view unit tests for iOS.
 * [Fakery ★722](https://github.com/vadymmarkov/Fakery) - Swift fake data generator. :large_orange_diamond:

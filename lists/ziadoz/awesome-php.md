@@ -419,7 +419,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Functional PHP ★1011](https://github.com/lstrojny/functional-php) - A functional programming library.
 * [Galapagos ★11 ⏳2Y](https://github.com/endel/galapagos) - Evolutionary language transformation.
 * [Iter ★590](https://github.com/nikic/iter) - A library that provides iteration primitives using generators.
-* [Monad PHP ★209 ⏳1Y](https://github.com/ircmaxell/monad-php) - A simple Monad library.
+* [Monad PHP ★209 ⏳2Y](https://github.com/ircmaxell/monad-php) - A simple Monad library.
 * [Patchwork](http://patchwork2.org/) - A library for redefining userland functions.
 * [PHP Option ★519](https://github.com/schmittjoh/php-option) - An option type library.
 * [Pipeline ★391](https://github.com/thephpleague/pipeline) - A pipeline pattern implementation.

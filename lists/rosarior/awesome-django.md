@@ -539,7 +539,7 @@ phone numbers.
 * [django-ipware ★343](https://github.com/un33k/django-ipware) - A Django application to retrieve user's IP address.
 * [django-macros-url ★66](https://github.com/phpdude/django-macros-url) - Django Macros URL. Routing must be simple as possible.
 * [django-magic-embed ★18 ⏳1Y](https://github.com/kronoscode/django-magicembed) - an easy and simple Django template tag and tool to embed video and get thumbnails from video providers.
-* [django-markitup ★42](https://github.com/zsiciarz/django-markitup) - A Django reusable application for end-to-end markup handling.
+* [django-markitup ★42 ⏳1Y](https://github.com/zsiciarz/django-markitup) - A Django reusable application for end-to-end markup handling.
 * [django-mmc ★34](https://github.com/LPgenerator/django-mmc) - App for monitoring management commands on Django..
 * [django-overextends ★92](https://github.com/stephenmcd/django-overextends) - Circular template inheritance for Django.
 * [django-pagination ★506](https://github.com/ericflo/django-pagination) - https://github.com/ericflo/django-pagination.

@@ -60,7 +60,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 * [agento ★13](https://github.com/abrander/agento) - Client/server collecting near realtime metrics from Linux hosts
-* [aggregateD ★16](https://github.com/ccpgames/aggregateD) - A [dogstatsD](http://docs.datadoghq.com/guides/dogstatsd/) inspired metrics and event aggregation daemon for InfluxDB
+* [aggregateD ★16 ⏳1Y](https://github.com/ccpgames/aggregateD) - A [dogstatsD](http://docs.datadoghq.com/guides/dogstatsd/) inspired metrics and event aggregation daemon for InfluxDB
 * [Charmander ★58 ⏳1Y](https://github.com/att-innovate/charmander) - Charmander is a lab environment for measuring and analyzing resource-scheduling algorithms
 * [gopherwx ★4](https://github.com/chrissnell/gopherwx) - a service that pulls live weather data from a Davis Instruments Vantage Pro2 station and stores it in InfluxDB
 * [Influx-Capacitor ★36](https://github.com/poxet/Influx-Capacitor) - Influx-Capacitor collects metrics from windows machines using Performance Counters. Data is sent to influxDB to be viewable by grafana

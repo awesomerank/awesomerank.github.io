@@ -167,7 +167,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [monadex ★232](https://github.com/rob-brown/MonadEx) - Upgrade your Elixir pipelines with monads.
 * [murmur ★11](https://github.com/gmcabrita/murmur) - A pure Elixir implementation of the non-cryptographic hash Murmur3.
 * [natural_sort ★5 ⏳2Y](https://github.com/DanCouper/natural_sort) - Elixir natural sort implementation for lists of strings.
-* [navigation_tree ★1 ⏳1Y](https://github.com/gutschilla/elixir-navigation-tree) - A navigation tree representation with helpers to generate HTML out of it.
+* [navigation_tree ★1 ⏳2Y](https://github.com/gutschilla/elixir-navigation-tree) - A navigation tree representation with helpers to generate HTML out of it.
 * [parallel_stream ★44](https://github.com/beatrichartz/parallel_stream) - A parallel stream implementation for Elixir.
 * [paratize ★19](https://github.com/seantanly/elixir-paratize) - Elixir library providing some handy parallel processing (execution) facilities that support configuring number of workers and timeout.
 * [parex ★60 ⏳2Y](https://github.com/StevenJL/parex) - Parallel Execute (Parex) is an Elixir module for executing multiple (slow) processes in parallel.
@@ -181,7 +181,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [simhash ★9 ⏳1Y](https://github.com/UniversalAvenue/simhash-ex) - Simhash implementation using Siphash and N-grams.
 * [sorted_set ★14](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
 * [spacesaving ★2 ⏳1Y](https://github.com/rozap/spacesaving) - stream count distinct element estimation using the "space saving" algorithm.
-* [structurez ★11 ⏳1Y](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
+* [structurez ★11 ⏳2Y](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
 * [supermemo ★5 ⏳2Y](https://github.com/edubkendo/supermemo) - An Elixir implementation of the [Supermemo 2 algorithm](https://www.supermemo.com/english/ol/sm2.htm).
 * [tfidf ★11 ⏳2Y](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
 * [the_fuzz ★31](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string-matching algorithm implementations.
@@ -370,7 +370,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Leaseweb ★0](https://github.com/Ahamtech/elixir-leaseweb) - Elixir Wrapper for Leaseweb infrastructure.
 * [libcluster ★271](https://github.com/bitwalker/libcluster) - Automatic cluster formation/healing for Elixir applications.
 * [nodefinder ★33](https://github.com/okeuday/nodefinder) - Strategies for automatic node discovery in Erlang.
-* [nomad ★52](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere!
+* [nomad ★52 ⏳1Y](https://github.com/sashaafm/nomad) - Create cloud portable Elixir and Phoenix apps. Write once, use everywhere!
 * [oceanex ★10](https://github.com/mustafaturan/oceanex) - Digital Ocean API client.
 * [sidejob ★80](https://github.com/basho/sidejob) - Parallel worker and capacity limiting library for Erlang.
 * [sidetask ★60](https://github.com/PSPDFKit-labs/sidetask) - SideTask is an alternative to Task.Supervisor using Basho's sidejob library with parallelism and capacity limiting.
@@ -1031,7 +1031,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ets_map ★6 ⏳1Y](https://github.com/antipax/ets_map) - An Elixir package that provides a Map-like interface (Map/Access/Enumerable/Collectable) backed by an ETS table.
 * [eventstore ★237](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 * [ex_bitcask ★9 ⏳2Y](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
-* [ex_sider ★5](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
+* [ex_sider ★5 ⏳1Y](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
 * [exleveldb ★29](https://github.com/skovsgaard/exleveldb) - Elixir wrapper around Basho's eleveldb module for LevelDB.
 * [exnumerator ★30](https://github.com/KamilLelonek/exnumerator) - Elixir enumerable type definition in a simple way to be used with any database.
 * [exredis ★297](https://github.com/artemeff/exredis) - Redis client for Elixir.
@@ -1078,7 +1078,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## OTP
 *Libraries for working with OTP related things.*
 
-* [core ★30 ⏳2Y](https://github.com/fishcakez/core) - Library for selective receive OTP processes.
+* [core ★30 ⏳3Y](https://github.com/fishcakez/core) - Library for selective receive OTP processes.
 * [erlexec ★267](https://github.com/saleyn/erlexec) - Execute and control OS processes from Erlang/OTP.
 * [immortal ★103](https://github.com/danielberkompas/immortal) - Immortal is a small collection of helper modules intended to make it easier to build a fault-tolerant OTP application.
 * [libex_config ★1 ⏳3Y](https://github.com/reset/libex-config) - Helpers for accessing OTP application configuration.

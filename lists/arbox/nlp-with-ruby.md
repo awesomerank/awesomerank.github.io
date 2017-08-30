@@ -535,7 +535,7 @@ the underlying language.
 - [Words Counted](http://rubywordcount.com/) -
   examples of customizable word statistics powered by
   [words_counted ★104](https://github.com/abitdodgy/words_counted).
-- [RSyntaxTree](http://yohasebe.com/rsyntaxtree) -
+- [RSyntaxTree](https://yohasebe.com/rsyntaxtree/) -
   Web based demonstration of the syntactic tree visualization.
 
 ## Books
@@ -606,7 +606,7 @@ work. If not, see <https://creativecommons.org/publicdomain/zero/1.0/>.
 [faq]: https://github.com/arbox/nlp-with-ruby/blob/master/FAQ.md
 [ds-with-ruby]: https://github.com/arbox/data-science-with-ruby
 [ml-with-ruby]: https://github.com/arbox/machine-learning-with-ruby
-[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/amending-a-commit-guide.md
+[change-pr]: https://github.com/RichardLitt/knowledge/blob/master/github/amending-a-commit-guide.md
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/arbox/nlp-with-ruby">arbox/nlp-with-ruby</a> with ranks

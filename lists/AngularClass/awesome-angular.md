@@ -412,7 +412,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-file-upload ★883](https://github.com/valor-software/ng2-file-upload) Easy to use file upload directives
 * [ng2-handsontable ★183](https://github.com/valor-software/ng2-handsontable) Excel-like data grid / spreadsheet
 * [ng2-select ★479](https://github.com/valor-software/ng2-select) Angular2 based replacement for select boxes
-* [ng2-safe-img ★4](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
+* [ng2-safe-img ★4 ⏳1Y](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
 * [ng2-table ★401](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
 * [ng2-smart-table ★562](https://github.com/akveo/ng2-smart-table) Smart data table library with sorting, filtering, pagination & add/edit/delete functions.
 * [ng2-bs ★11 ⏳1Y](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
@@ -476,6 +476,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-avatar ★24](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 * [ngx-qrcode2 ★19](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes 
 * [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission` ★1073](https://github.com/Narzerus/angular-permission).
+* [ng-s-resource ★2](https://github.com/hiyali/ng-s-resource) - Simplify RESTful http resource generator for Angular 4+.
 
 #### Site Templates
 * [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light ★26](https://github.com/YagoLopez/material-light). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](http://yagolopez.js.org/ng-dashboard/dist/)
@@ -568,6 +569,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular NPM Module Seed ★32](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
 * [Angular2 D3v4 Seed ★10](https://github.com/gp187/angular2-d3v4-graph) - Angular2 D3v4 implementation of charts, graphs, area and view porting seed project
 * [ng-seed/spa ★6](https://github.com/ng-seed/spa) - Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
+* [Reboard ★4](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 

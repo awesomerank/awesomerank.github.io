@@ -89,7 +89,7 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 
 * [aiopyramid ★63](https://github.com/housleyjk/aiopyramid) - Run pyramid using
   asyncio.
-* [gevent-socketio ★1128](https://github.com/abourget/gevent-socketio) -
+* [gevent-socketio ★1128 ⏳1Y](https://github.com/abourget/gevent-socketio) -
   gevent-socketio is a Python implementation of the Socket.IO protocol,
   developed originally for Node.js by LearnBoost and then ported to other
   languages.
@@ -148,7 +148,7 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
   multiple authentication policies with Pyramid.
 * [horus ★12 ⏳3Y](https://github.com/Pylons/horus) - User registration and login system
   for the Pyramid Web Framework.
-* [pyramid_yosai ★3](https://github.com/YosaiProject/pyramid_yosai) - Pyramid integration with security Framework for Python applications featuring Authorization (rbac permissions and roles), Authentication (2fa totp), Session Management and an extensive Audit Trail https://yosaiproject.github.io/yosai/
+* [pyramid_yosai ★3 ⏳1Y](https://github.com/YosaiProject/pyramid_yosai) - Pyramid integration with security Framework for Python applications featuring Authorization (rbac permissions and roles), Authentication (2fa totp), Session Management and an extensive Audit Trail https://yosaiproject.github.io/yosai/
 
 ## Caching & Session
 
@@ -219,7 +219,7 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 
 * [pyramid_elfinder ★1 ⏳2Y](https://github.com/uralbash/pyramid_elfinder) - This is
   conector for elfinder file manager, written for pyramid framework.
-* [pyramid_storage ★10](https://github.com/danjac/pyramid_storage) - This is a package for handling file uploads in your Pyramid framework application.
+* [pyramid_storage ★10 ⏳1Y](https://github.com/danjac/pyramid_storage) - This is a package for handling file uploads in your Pyramid framework application.
 
 ## RESTful API
 

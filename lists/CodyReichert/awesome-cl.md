@@ -326,7 +326,7 @@ HTML generators and templates
 -----------------------------
 * [cl-who](http://weitz.de/cl-who/) - An HTML generator. [FreeBSD][39].
 * [spinneret ★49](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat][14].
-* [cl-markup ★44 ⏳1Y](https://github.com/arielnetworks/cl-markup) - Modern markup generation library. [LLGPL][8].
+* [cl-markup ★44 ⏳2Y](https://github.com/arielnetworks/cl-markup) - Modern markup generation library. [LLGPL][8].
 * [Djula ★56](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat][14].
 * [eco ★13](https://github.com/eudoxia0/eco) - Fast, flexible, designer-friendly template engine. [Expat][14].
 
@@ -383,7 +383,7 @@ Parallelism and Concurrency
 ===========================
 
 * [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/) - Portable, shared-state concurrency. [Expat][14].
-* [chanl ★96](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat][14], with parts under [3-clause BSD][15].
+* [chanl ★96 ⏳1Y](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat][14], with parts under [3-clause BSD][15].
 * [cl-async ★151 ⏳1Y](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat][14].
 * [lesque ★14 ⏳3Y](https://github.com/fukamachi/lesque) - A clone of Resque. Not available on Quicklisp. [Expat][14].
 * [lparallel ★115](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
@@ -468,7 +468,7 @@ Language extensions
 * [FSet](http://quickdocs.org/fset/) - A functional, set-theoretic collections data structure library. [LLGPL][8].
 * [iterate](https://common-lisp.net/project/iterate/) - An iteration construct for Common Lisp which is extensible and Lispier. No license specified.
 * [series](https://github.com/tokenrove/series/wiki) - Functional style without any runtime penalty at all. [MIT][200].
-* [optima ★195](https://github.com/m2ym/optima) - Optimized pattern-matching library. [LLGPL][8].
+* [optima ★195 ⏳1Y](https://github.com/m2ym/optima) - Optimized pattern-matching library. [LLGPL][8].
 * [trivial-types ★25 ⏳5Y](https://github.com/m2ym/trivial-types) - Trivial type definitions. [LLGPL][8].
 * [interface](https://bitbucket.org/tarballs_are_good/interface) - A protocol library. [3-clause BSD][15].
 

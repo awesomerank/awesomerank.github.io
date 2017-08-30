@@ -735,6 +735,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Definitive guide to serverless architectures](https://serverless.com/blog/definitive-guide-to-serverless-architectures/) - Announcement post about the new [Serverless Guide ★80](https://github.com/serverless/guide) project.
 - [Emit - Key takeaways](https://serverless.com/blog/key-takeaways-for-the-future-of-serverless-emit-2017/) - Key takeaways for the future of serverless - Emit 2017 recap.
 - [Serverless - Beyond functions](https://medium.com/cloud-academy-inc/serverless-beyond-functions-cd81ee4c6b8d) - Post about the broader picture and all the different possibilities of serverless architectures.
+- [It’s all going to be serverless](https://medium.com/statuscode/its-all-going-to-be-serverless-9e16fe721f36) - Post about the future and adoption rate of serverless architectures and serverless computing.
+- [Serverless computing may kill Google Cloud Platform](https://www.infoworld.com/article/3218086/cloud-computing/serverless-computing-may-kill-google-cloud-platform.html) - Why serverless computing might be a threat for the Google Cloud Platform.
+- [Evaluating TensorFlow models in AWS Lambda](https://iplayer.engineering/evaluating-tensorflow-models-in-aws-lambda-c0e06cf23d87) - How AWS Lambda can be used to evaluate TensorFlow models in a serverless fashion.
 
 ## Screencasts
 
@@ -1161,6 +1164,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [2791 ★1](https://github.com/brendo/issue-2791) - Reproduction service of [serverless/serverless#2791](https://github.com/serverless/serverless/issues/2791).
 - [Serverless sample ★1](https://github.com/MatiasComercio/serverless-sample) - Sample project for blog post introduction to Serverless Framework.
 - [Analytics ★3](https://github.com/sbstjn/serverless-analytics) - Track website visitors with serverless analytics.
+- [Medium TTS ★22](https://github.com/RafalWilinski/serverless-medium-text-to-speech) - Serverless-based, text-to-speech service for Medium articles.
 
 ## Related projects
 
@@ -1249,6 +1253,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [PureSec](https://www.puresec.io) - Security, built for serverless architectures.
 - [Pwned passwords ★82](https://github.com/jthomas/serverless-pwned-passwords) - Checking passwords against an enormous corpus of passwords leaked from security breaches.
 - [Zappa ★4611](https://github.com/Miserlou/Zappa) - Serverless Python web services.
+- [Serverless guide ★80](https://github.com/serverless/guide) - The "definitive guide" to serverless architectures.
+- [Seed](https://seed.run) - CI / CD solution for serverless applications.
 
 ## Plugins
 

@@ -62,7 +62,7 @@ capabilities such as MPLS and SDN
 
 # Network Virtualization
 
-- [FlowVisor ★113 ⏳3Y](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
+- [FlowVisor ★113 ⏳4Y](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
 - [OpenVirtex ★46 ⏳2Y](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
 
 # Protocol

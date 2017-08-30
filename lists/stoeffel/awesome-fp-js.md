@@ -88,7 +88,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Sanctuary](https://github.com/plaid/sanctuary) – Sanctuary makes it possible to write safe code without null checks.
 * [monet.js](http://cwmyers.github.io/monet.js/) – A library that assists functional programming by providing a rich set of Monads and other useful functions.
 * [union-type ★334](https://github.com/paldepind/union-type) – A small JavaScript library for defining and using union types.
-* [freeky ★103](https://github.com/DrBoolean/freeky) – A collection of Free monads.
+* [freeky ★103 ⏳1Y](https://github.com/DrBoolean/freeky) – A collection of Free monads.
 * [Fluture](https://github.com/Avaq/Fluture) – A Future library with included control utilities, high performance and great error messages.
 * [fantasy-combinators ★43 ⏳1Y](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
 * [fantasy-birds ★44](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.

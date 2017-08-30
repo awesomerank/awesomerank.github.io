@@ -276,7 +276,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [SlackVote ★40 ⏳2Y](https://github.com/azharb/SlackVote) - Slack integration that allows team members to vote
 - [slackWeather.js](https://gist.github.com/cmaneu/932e4628712ec9bbcaea) - Slack slackbot send weather forecast
 - [slackWeatherBot.js](https://gist.github.com/franciskim/13a52debd47ffb7929f5) - A world weather bot using the Yahoo Weather API and Node.js
-- [Slotify ★2 ⏳2Y](https://github.com/dangitdang/Slotify) - Slack plugin that returns top 5 tracks of an artist
+- [Slotify ★2 ⏳3Y](https://github.com/dangitdang/Slotify) - Slack plugin that returns top 5 tracks of an artist
 - [SnooBot ★0 ⏳2Y](https://github.com/nobe4/SnooBot) - Look up information about Reddit subs
 - [spotify-playlist-2-slack ★14 ⏳1Y](https://github.com/petterl/spotify-playlist-2-slack) - Share updates to a Spotify playlist in Slack
 - [step-slack-notify ★2 ⏳2Y](https://github.com/dimoreira/step-slack-notify) - Send a message to Slack after a build or deploy

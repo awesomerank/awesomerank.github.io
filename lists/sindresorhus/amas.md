@@ -78,7 +78,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Matthew Turland ★1 ⏳2Y](https://github.com/elazar/amas) - Full Stack Engineer at [When I Work](http://wheniwork.com), author, mentor, and conference speaker.
 - [Christopher Pitt](https://github.com/assertchris/amas) - [Writer and coder](http://assertchris.io), working at [SilverStripe](http://www.silverstripe.org).
 - [Joe Ferguson ★0 ⏳2Y](https://github.com/svpernova09/ama) - PHP Dev, Sys Admin, Community Builder, Conf Organizer & Speaker, Maker, Hacker, Tinkerer, Space Geek, Husband. Enjoys craft beers and whiskey. Owned by cats.
-- [Hamish Friedlander ★0 ⏳1Y](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
+- [Hamish Friedlander ★0 ⏳2Y](https://github.com/hafriedlander/ama) - Developer, CTO at [SilverStripe](http://www.silverstripe.org), human (presumed).
 - [Chris Tankersley ★0 ⏳2Y](https://github.com/dragonmantank/ama) - PHP developer, system admin, speaker, teacher, sometimes writer, and I play video games on YouTube.
 - [Deepak Verma ★1 ⏳2Y](https://github.com/deepaknverma/ama) - Full stack developer at [Hometrack Australia](http://hometrack.com), AWS Solution Architect, and passionate about [photography](https://www.flickr.com/photos/deepak-verma).
 - [Dan Abramov](https://github.com/gaearon/ama) - JavaScript and React hobbyist, creator of [React Hot Loader](https://github.com/gaearon/react-hot-loader) and [Redux ★24](https://github.com/rackt/redux).
@@ -151,6 +151,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Mordechai Zuber](https://M-ZUBER/AMA) - Developer, Maintainer, Open Sourcer. Passionate about development.
 - [Krzysztof Cieslak ★1](https://github.com/Krzysztof-Cieslak/AMA) - Software developer, consultant, founder of [Lambda Factory](http://lambdafactory.io), author of [Ionide](http://ionide.io), [Forge](http://forge.run), [Fornax](https://gitlab.com/Krzysztof-Cieslak/Fornax), project owner and maintainer of [VSCode-Elm](https://marketplace.visualstudio.com/items?itemName=sbrink.elm), contributor to many OSS projects, international speaker. 
 - [Benjamin Reitzammer ★4](https://github.com/benjmin-r/ama) - Developer, ex-CTO, Engineering Manager, Communities.
+- [Jiri Cincura ★0](https://github.com/cincuranet/ama) - Developer, speaker, blogger, runner and yogi.
 
 #### Ask these organizations anything!
 

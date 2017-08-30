@@ -7,7 +7,16 @@ title: Awesome Rank for markets/awesome-ruby
 	This list is a copy of <a href="https://github.com/markets/awesome-ruby">markets/awesome-ruby</a> with ranks
 </p>
 ---
-# <img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo.png" align="absmiddle"/> <a href="http://awesome-ruby.com">Awesome Ruby</a> [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+<div>
+  <p align="center">
+    <a href="http://awesome-ruby.com"><img src="https://raw.githubusercontent.com/markets/awesome-ruby/gh-pages/images/logo_m.png"></a>
+  </p>
+  <h3 align="center"><a href="http://awesome-ruby.com">Awesome Ruby</a></h3>
+  <p align="center">
+    <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg"></a>
+  </p>
+  <hr>
+</div>
 
 A categorized community-driven collection of awesome Ruby libraries, tools, frameworks and software. The essential Ruby to build modern Apps and Web Apps.
 
@@ -128,6 +137,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Admin Interface
 
 * [ActiveAdmin](http://activeadmin.info) - A Ruby on Rails framework for creating elegant backends for website administration.
+* [ActiveScaffold ★929](https://github.com/activescaffold/active_scaffold) - ActiveScaffold provides quick and powerful user interfaces for CRUD (create, read, update, delete) operations for Rails applications. It's excellent for generating admin interfaces, managing Data-Heavy Applications, creating Widgets or for quick prototyping. ActiveScaffold is completly customizable and offers a bunch of additonal features including searching, pagination, layout control and overrides of fields, forms and templates.
 * [Administrate ★3502](https://github.com/thoughtbot/administrate) - A Rails engine that helps you put together a super-flexible admin dashboard, by Thoughtbot.
 * [bhf](http://antpaw.github.io/bhf/) - A simple to use Rails-Engine-Gem that offers an admin interface for trusted user.
 * [Faalis](http://faalis.io) - A Rails engine which provides a robust platform to develop web applications. It contains a very simple yet powerful admin/dashboard interface too.
@@ -650,7 +660,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Logging
 
-* [Cabin ★146](https://github.com/jordansissel/ruby-cabin) - Structured+contextual logging experiments in Ruby.
+* [Cabin ★146 ⏳1Y](https://github.com/jordansissel/ruby-cabin) - Structured+contextual logging experiments in Ruby.
 * [Fluentd ★5531](https://github.com/fluent/fluentd) - Fluentd collects events from various data sources and writes them to files, database or other types of storages.
 * [HttpLog ★220](https://github.com/trusche/httplog) - Log outgoing HTTP requests.
 * [Log4r ★212 ⏳1Y](https://github.com/colbygk/log4r) - Log4r is a comprehensive and flexible logging library for use in Ruby programs.

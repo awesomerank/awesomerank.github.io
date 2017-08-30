@@ -82,7 +82,7 @@ Resources
     - [cookiecutter-flask-pythonic ★18](https://github.com/tony/cookiecutter-flask-pythonic)
     - [Flask-Foundation ★1049](https://github.com/JackStouffer/Flask-Foundation)
     - [Flask-Empty ★284](https://github.com/italomaia/flask-empty)
-    - [flask-rest-template ★49](https://github.com/alexandre/flask-rest-template)
+    - [flask-rest-template ★49 ⏳1Y](https://github.com/alexandre/flask-rest-template)
     - [gae-init](https://gae-init.appspot.com) - Flask boilerplate running on Google App Engine
     - [GAE Starter Kit ★40](https://github.com/kkinder/GAEStarterKit) - Flask, Flask-Login, WTForms, UIKit, and more, running on Google App Engine
 
@@ -157,7 +157,7 @@ Plugins
 - Rate Limiting
     - [Flask-Limiter ★225](https://github.com/alisaifee/flask-limiter) - Flask-Limiter provides rate limiting features to flask routes
 - Queue
-    - [Flask-RQ ★147](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
+    - [Flask-RQ ★147 ⏳1Y](https://github.com/mattupstate/flask-rq) - RQ (Redis Queue) integration for Flask applications
     - [celery ★7394](https://github.com/celery/celery) - Distributed Task Queue
 - Payment
     - [PagSeguro - Brazil](https://github.com/rochacbruno/python-pagseguro/tree/master/examples) - Example to integrate Flask to PagSeguro Brazilian payment gateway
@@ -220,7 +220,7 @@ Plugins
     - [Flask-Principal ★353](https://github.com/mattupstate/flask-principal) - Identity management for Flask applications
     - [Flask-ShortUrl ★23 ⏳1Y](https://github.com/lepture/flask-shorturl) - Short URL generator for Flask
     - [Flask-FeatureFlags ★85](https://github.com/trustrachel/Flask-FeatureFlags) - A Flask extension that enables or disables features based on configuration
-    - [Flask-UUID ★24 ⏳3Y](https://github.com/wbolster/flask-uuid) - UUID url converter for Flask routes
+    - [Flask-UUID ★24 ⏳4Y](https://github.com/wbolster/flask-uuid) - UUID url converter for Flask routes
     - [Flask-Reggie ★38 ⏳4Y](https://github.com/rhyselsmore/flask-reggie) - Regex Converter for Flask URL Routes
     - [Flask-SocketIO ★1743](https://github.com/miguelgrinberg/Flask-SocketIO) - Socket.IO integration for Flask applications
     - [Flask-Moment ★148](https://github.com/miguelgrinberg/Flask-Moment) - Formatting of dates and times in Flask templates using moment.js

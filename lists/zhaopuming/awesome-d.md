@@ -296,7 +296,8 @@ title: Awesome Rank for zhaopuming/awesome-d
 *Operating Systems written in D*
 
 * [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D 
-* [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D 
+* [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D
+* [XOmB ★294 ⏳4Y](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## Game Bindings
 
@@ -362,7 +363,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 ## Text Processing
 
-* [tvs-utils ★101](https://github.com/eBay/tsv-utils-dlang) Command line utilities for tab-separated value files written in the D programming language. Very fast.
+* [eBay's TSV utilities](https://ebay.github.io/tsv-utils-dlang/) - Command line tools for large delimited data files. Filtering, statistics, sampling, joins and more. Very fast.
 
 ## Logging
 *Print with care.*
