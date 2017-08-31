@@ -179,7 +179,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [gh-home ★80](https://github.com/sindresorhus/gh-home) - Open the GitHub page of the repo in the current directory.
 - [npm-home ★53](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
 - [trymodule ★976](https://github.com/VictorBjelkholm/trymodule) - Try out npm packages in the terminal.
-- [terminal-recorder ★68](https://github.com/cortezcristian/terminal-recorder) - Record your terminal usage and export it to interactive HTML.
+- [terminal-recorder ★68 ⏳1Y](https://github.com/cortezcristian/terminal-recorder) - Record your terminal usage and export it to interactive HTML.
 - [jscpd ★500](https://github.com/kucherenko/jscpd) - Copy/paste detector for source code.
 - [atmo ★451](https://github.com/Raathigesh/Atmo) - Server-side API mocking.
 - [auto-install ★735](https://github.com/siddharthkp/auto-install) - Auto installs dependencies as you code.
@@ -294,6 +294,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [yargs ★3304](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [DraftLog ★801](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 - [Bit ★672](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
+- [gradient-string ★191](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 
 ### Build tools

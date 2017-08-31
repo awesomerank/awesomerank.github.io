@@ -98,7 +98,7 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Isabelle/HOL](https://www.cl.cam.ac.uk/research/hvg/Isabelle/) - Generic proof assistant based on Higher Order Logic	
 
 ### Repos
-- [Idris Koans ★114 ⏳1Y](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
+- [Idris Koans ★114 ⏳2Y](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 - [Functional Javascript Workshop ★1498](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
 - [J-Bob ★242 ⏳1Y](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 - [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.

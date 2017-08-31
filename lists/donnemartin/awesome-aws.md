@@ -529,7 +529,7 @@ AWS Repos:
 
 Community Repos:
 
-* [capeless/warrant ★57](https://github.com/capless/warrant) - Python library for using Cognito. 
+* [capeless/warrant ★57](https://github.com/capless/warrant) - Python library for using Cognito.
 
 ### Data Pipeline
 
@@ -701,7 +701,7 @@ AWS Repos:
 * [amazon-kinesis-client-net ★23](https://github.com/awslabs/amazon-kinesis-client-net) - Client Library for .NET.
 * [amazon-kinesis-client-nodejs :fire: ★121](https://github.com/awslabs/amazon-kinesis-client-nodejs) - Client Library for Node.js.
 * [amazon-kinesis-client-python :fire: ★175](https://github.com/awslabs/amazon-kinesis-client-python) - Client Library for Python.
-* [amazon-kinesis-client-ruby ★99](https://github.com/awslabs/amazon-kinesis-client-ruby) - Client Library for Ruby.
+* [amazon-kinesis-client-ruby :fire: ★99](https://github.com/awslabs/amazon-kinesis-client-ruby) - Client Library for Ruby.
 * [amazon-kinesis-client :fire::fire: ★286](https://github.com/awslabs/amazon-kinesis-client) Client library for Amazon Kinesis.
 * [amazon-kinesis-connectors :fire::fire: ★257](https://github.com/awslabs/amazon-kinesis-connectors) - Libary to integrate with other AWS and non-AWS services.
 * [amazon-kinesis-data-visualization-sample :fire: ★116 ⏳2Y](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app.

@@ -80,9 +80,9 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystalline ★71](https://github.com/jtomschroeder/crystalline) - A collection of containers and algorithms
  * [delimiter_tree ★6](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
  * [edits.cr ★4](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
- * [miller_rabin ★0](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
+ * [miller_rabin ★0 ⏳1Y](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
  * [multiset.cr ★1](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
- * [murmur3 ★2](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
+ * [murmur3 ★2 ⏳1Y](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
  * [radix ★26](https://github.com/luislavena/radix) - Radix Tree implementation
  * [ranger ★2 ⏳1Y](https://github.com/akwiatkowski/ranger) - Range object operation library
  * [ternary_search_tree ★1](https://github.com/johnjansen/ternary_search_tree) - Ternary Search Tree

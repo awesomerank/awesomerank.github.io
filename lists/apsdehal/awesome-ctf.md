@@ -287,7 +287,7 @@ Check solve section for steganography.
 *Collections of installer scripts, useful tools*
 
 - [CTF Tools ★1987](https://github.com/zardus/ctf-tools) - Collection of setup scripts to install various security research tools.
-- [LazyKali ★11](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
+- [LazyKali ★11 ⏳1Y](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
 
 ## Tutorials
 
@@ -342,6 +342,7 @@ Check solve section for steganography.
 
 - [Captf](http://captf.com/) - Dumped CTF challenges and materials by psifertex
 - [CTF write-ups (community)](https://github.com/ctfs/) - CTF challenges + write-ups archive maintained by the community
+- [CTFTime Scrapper ★6](https://github.com/abdilahrf/CTFWriteupScrapper) - Scraps all writeup from ctf time and organize which to read first
 - [pwntools writeups ★205](https://github.com/Gallopsled/pwntools-write-ups) - A collection of CTF write-ups all using pwntools
 - [Shell Storm](shell-storm.org/repo/CTF/) - CTF challenge archive maintained by Jonathan Salwan
 - [Smoke Leet Everyday ★118 ⏳1Y](https://github.com/smokeleeteveryday/CTF_WRITEUPS) - CTF write-ups repo maintained by SmokeLeetEveryday team.

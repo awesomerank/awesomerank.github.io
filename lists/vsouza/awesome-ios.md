@@ -370,6 +370,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Threadly ★36](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift :large_orange_diamond:
 * [Flow-iOS ★7](https://github.com/roytornado/Flow-iOS) - Make your logic flow and data flow clean and human readable :large_orange_diamond:
 * [Queuer ★571](https://github.com/FabrizioBrancati/Queuer) - A queue manager, built on top of OperationQueue and Dispatch (aka GCD). :large_orange_diamond:
+* [SwiftQueue ★2](https://github.com/lucas34/SwiftQueue) - Job Scheduler with Concurrent run, failure/retry, persistence, repeat, delay and more. :large_orange_diamond:
 
 ## Core Data
 * [CWCoreData ★72 ⏳2Y](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
@@ -1566,7 +1567,6 @@ Most of these are paid services, some have free tiers.
 * [VENTokenField ★734](https://github.com/venmo/VENTokenField) - Easy-to-use token field that is used in the Venmo app.
 * [SwiftVideoBackground ★74](https://github.com/dingwilson/SwiftVideoBackground) - Easy to Use UIView subclass for implementing a video background in Swift 3 :large_orange_diamond:
 * [MRArticleViewController ★100](https://github.com/mrigdon/MRArticleViewController) - Easily create UIViewControllers for news articles similar to those in the News app. :large_orange_diamond:
-* [iCheckbox ★34](https://github.com/mancunianetz/iCheckbox) - A checkbox like component for iOS apps. :large_orange_diamond:
 * [Macaw ★2952](https://github.com/exyte/macaw) - Powerful and easy-to-use vector graphics library with SVG support written in Swift. :large_orange_diamond:
 * [HubFramework ★1722](https://github.com/spotify/HubFramework) - Spotify’s component-driven UI framework for iOS.
 * [ConfettiView ★210](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app :large_orange_diamond:
@@ -2200,6 +2200,7 @@ Most of these are paid services, some have free tiers.
 * [CollapsibleTable ★8](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views. 🔶
 * [ExpandableCell ★116](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Awesome expandable, collapsible tableview cell for iOS written in Swift 3 🔶
 * [DataSources ★61](https://github.com/muukii/DataSources) - Type-safe data-driven List-UI Framework. (We can also use ASCollectionNode) 🔶
+* [KDDragAndDropCollectionView ★237](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging & Dropping data across multiple UICollectionViews. 🔶
 
 #### Tag
 * [PARTagPicker ★259](https://github.com/paulrolfe/PARTagPicker) - This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.
@@ -2272,7 +2273,7 @@ Most of these are paid services, some have free tiers.
 
 ## Utility
  * [Underscore.m ★1510 ⏳1Y](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
- * [XExtensionItem ★81 ⏳1Y](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
+ * [XExtensionItem ★81 ⏳2Y](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
  * [ReflectableEnum ★329](https://github.com/fastred/ReflectableEnum) - Reflection for enumerations in Objective-C.
  * [ObjectiveSugar ★2201 ⏳1Y](https://github.com/supermarin/ObjectiveSugar) - ObjectiveC additions for humans. Ruby style.
  * [OpinionatedC ★44 ⏳1Y](https://github.com/leoschweizer/OpinionatedC) - Because Objective-C should have inherited more from Smalltalk.

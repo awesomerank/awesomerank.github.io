@@ -151,7 +151,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [selfstarter ★3081 ⏳1Y](https://github.com/lockitron/selfstarter) - Roll your own crowdfunding  [Live](http://www.selfstarter.us)
 - [sharetribe ★1150](https://github.com/sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online [Live](https://www.sharetribe.com)
 - [socify ★240](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails
-- [spokenvote ★42 ⏳1Y](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
+- [spokenvote ★42 ⏳2Y](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
 - [Spree ★8640](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
 - [teambox ★1918 ⏳4Y](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com)
 - [theodinproject ★539](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](https://www.theodinproject.com/)

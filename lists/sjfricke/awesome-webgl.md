@@ -236,8 +236,10 @@ Processing Unit (GPU).
 
 > WebVR references
 
-* [WebVR Spec](https://w3c.github.io/webvr/) - The offical W3C WebVR specs.
+* [Browser Support](https://webvr.rocks/) - Shows support by browser, headset, and OS.
 * [Mozilla VR](https://mozvr.com/) - Mozilla's offical WebVR page.
+* [UX of VR](https://www.uxofvr.com/) - Curated list of resources to help create good UX in WebVR.
+* [WebVR Spec](https://w3c.github.io/webvr/) - The offical W3C WebVR specs.
 
 ## Libraries
 
@@ -253,11 +255,15 @@ Processing Unit (GPU).
 * [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
 
 ### WebGL 2
+* [Luma.gl](https://uber.github.io/luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
 * [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
 ### WebVR
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
   * [Awesome-AFrame ★1100](https://github.com/aframevr/awesome-aframe)
+* [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
+* [LÖVR](http://lovr.org/) - Simple framework for creating VR with Lua.
+* [ReactVR](https://facebook.github.io/react-vr/) - Build VR websites and interactive 360 experiences with React.
 * [Primrose](https://www.primrosevr.com/) - Rapidly prototype VR applications in your browser.
 
 ### Others
@@ -267,7 +273,6 @@ Processing Unit (GPU).
 * [Cesium](http://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
 * [Deck.gl](https://uber.github.io/deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
-* [LumaGL](https://uber.github.io/luma.gl/) - WebGL building blocks enabling high-performance browser-based data visualizations.
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
 * [Pocket.gl](http://pocket.gl/) - Fully customizable webgl shader sandbox to embed in your pages.

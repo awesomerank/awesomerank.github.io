@@ -240,7 +240,7 @@ These frameworks make customizing your zsh setup easier.
 * [caniuse.plugin.zsh ★11](https://github.com/walesmd/caniuse.plugin.zsh) - Add [Can I Use...](https://caniuse.com) support to ZSH.
 * [cd-gitroot ★25 ⏳1Y](https://github.com/mollifier/cd-gitroot) - A zsh plugin to cd to the git repository root directory.
 * [cdbk ★6](https://github.com/MikeDacre/cdbk) - A ZSH plugin to allow easy named directory creation - shortcuts to any directory you want.
-* [cdr ★5 ⏳1Y](https://github.com/willghatch/zsh-cdr) - Easy setup of cdr for zsh.
+* [cdr ★5 ⏳2Y](https://github.com/willghatch/zsh-cdr) - Easy setup of cdr for zsh.
 * [clean-project ★1](https://github.com/wwilsman/zsh-clean-project) - Remove files from projects (automatically by default). Useful for keeping `.DS_Store` and `Thumbs.db` files from cluttering your directories.
 * [colored-man-pages-mod ★1](https://github.com/zuxfoucault/colored-man-pages_mod) - Forked from [robbyrussell/oh-my-zsh/plugins/colored-man-pages](https://github.com/robbyrussell/oh-my-zsh/blob/master/plugins/colored-man-pages/colored-man-pages.plugin.zsh). Colorizes `man` output.
 * [command-not-found ★10 ⏳1Y](https://github.com/Tarrasch/zsh-command-not-found) - mirror of the oh-my-zsh command-not-found plugin so you don't have to include all of omz.
@@ -353,7 +353,7 @@ These frameworks make customizing your zsh setup easier.
 * [ruby-switch ★0](https://github.com/LockonS/ruby-switch) - Switch ruby versions and manage the PATH variable at the same time.
 * [rvm-zsh ★1 ⏳4Y](https://github.com/johnhamelink/rvm-zsh) - Initiates RVM and adds rubygem binaries (like compass) accessible in the user's `$PATH`.
 * [safe-paste ★6 ⏳2Y](https://github.com/oz/safe-paste) - A safe-paste plugin. See Conrad Irwin's [bracketed-paste](https://cirw.in/blog/bracketed-paste) blog post.
-* [saneopt ★7 ⏳1Y](https://github.com/willghatch/zsh-saneopt) - Sane defaults for zsh options, in the spirit of vim-sensible.
+* [saneopt ★7 ⏳2Y](https://github.com/willghatch/zsh-saneopt) - Sane defaults for zsh options, in the spirit of vim-sensible.
 * [schroot ★0](https://github.com/fshp/schroot.plugin.zsh) - Show current chroot name in your prompt.
 * [send.zsh ★7 ⏳1Y](https://github.com/robertzk/send.zsh) - Single command to git add, git commit, and git push for much faster git workflow.
 * [sensei-git ★0](https://github.com/aswitalski/oh-my-zsh-sensei-git-plugin) - Adds many git aliases and helper shell functions.

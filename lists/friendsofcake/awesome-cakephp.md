@@ -309,7 +309,7 @@ Additional lists you might find useful:
 *Plugins and web tools for developing REST-ful APIs.*
 
 - [Alt3/Swagger plugin ★26](https://github.com/alt3/cakephp-swagger) - Swagger 2.0 documentation for your CakePHP APIs using swagger-php and swagger-ui.
-- [Alt3/ValidationExposer plugin ★9](https://github.com/alt3/cakephp-validation-exposer) - Easily expose your application's validation rules.
+- [Alt3/ValidationExposer plugin ★9 ⏳1Y](https://github.com/alt3/cakephp-validation-exposer) - Easily expose your application's validation rules.
 - [ApiPagination plugin ★23 ⏳1Y](https://github.com/bcrowe/cakephp-api-pagination) - Injects pagination information from CakePHP's Paginator into serialized JsonView and XmlView responses.
 - [Cors plugin ★14](https://github.com/ozee31/cakephp-cors) - Activate CORS with Middleware.
 - [Cors plugin ★19](https://github.com/snelg/cakephp-cors) - A lightweight plugin for adding CORS headers to specified endpoints.

@@ -38,16 +38,17 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Python](#python)
   - [Rust](#rust)
 - [Themes](#themes)
- - [An Old Hope Theme](#an-old-hope-theme)
- - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
- - [Atom One Dark Theme](#atom-one-dark-theme)
- - [Atom One Light Theme](#atom-one-light-theme)
- - [Base16 Ocean Kit](#base16-ocean-kit)
- - [Dracula](#dracula)
- - [Material-theme](#material-theme)
- - [Nord](#nord)
- - [Plastic](#plastic)
- - [Seti](#seti)
+  - [An Old Hope Theme](#an-old-hope-theme)
+  - [Atom One Dark Syntax Theme](#atom-one-dark-syntax-theme)
+  - [Atom One Dark Theme](#atom-one-dark-theme)
+  - [Atom One Light Theme](#atom-one-light-theme)
+  - [Ayu](#ayu)
+  - [Base16 Ocean Kit](#base16-ocean-kit)
+  - [Dracula](#dracula)
+  - [Material-theme](#material-theme)
+  - [Nord](#nord)
+  - [Plastic](#plastic)
+  - [Seti](#seti)
 - [Productivity](#productivity)
   - [Azure IoT Toolkit](#azure-iot-toolkit)
   - [Bookmarks](#bookmarks)
@@ -186,6 +187,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### JavaScript
 
+- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`). 
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2841](https://github.com/sindresorhus/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★11100](https://github.com/avajs/ava).
@@ -243,6 +245,12 @@ Features full workbench theming
 Features full workbench theming
 
 ![](https://raw.githubusercontent.com/akamud/vscode-theme-onelight/master/screenshots/preview.png)
+
+#### [Ayu](https://marketplace.visualstudio.com/items?itemName=teabyii.ayu)
+
+![dark theme](https://user-images.githubusercontent.com/353888/28989654-114a64b6-7977-11e7-9e4e-9190bc2fae5b.png)
+
+![mirage theme](https://user-images.githubusercontent.com/353888/28989655-114d577a-7977-11e7-8646-757b1e8541a2.png)
 
 #### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
 

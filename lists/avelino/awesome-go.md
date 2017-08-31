@@ -486,7 +486,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for working with forms.*
 
-* [bind ★13 ⏳3Y](https://github.com/robfig/bind)  - Bind form data to any Go values.
+* [bind ★13 ⏳3Y](https://github.com/robfig/bind) - Bind form data to any Go values.
 * [binding ★600](https://github.com/mholt/binding) - Binds form and JSON data from net/http Request to struct.
 * [conform ★83](https://github.com/leebenson/conform) - Keeps user input in check. Trims, sanitizes & scrubs data based on struct tags.
 * [form ★191](https://github.com/go-playground/form) - Decodes url.Values into Go value(s) and Encodes Go value(s) into url.Values. Dual Array and Full map support.
@@ -649,7 +649,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [lumberjack ★553](https://github.com/natefinch/lumberjack) - Simple rolling logger, implements io.WriteCloser.
 * [mlog ★11 ⏳1Y](https://github.com/jbrodriguez/mlog) - Simple logging module for go, with 5 levels, an optional rotating logfile feature and stdout/stderr output.
 * [ozzo-log ★73 ⏳1Y](https://github.com/go-ozzo/ozzo-log) - High performance logging supporting log severity, categorization, and filtering. Can send filtered log messages to various targets (e.g. console, network, mail).
-* [seelog ★945](https://github.com/cihub/seelog) -   logging functionality with flexible dispatching, filtering, and formatting.
+* [seelog ★945](https://github.com/cihub/seelog) - Logging functionality with flexible dispatching, filtering, and formatting.
 * [slf ★33 ⏳1Y](https://github.com/ventu-io/slf) - The Structured Logging Facade (SLF) for Go (like SLF4J but structured and for Go).
 * [slog ★22 ⏳1Y](https://github.com/ventu-io/slog) - The reference implementation of the Structured Logging Facade (SLF) for Go.
 * [spew ★1522](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
@@ -879,6 +879,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [godep ★4836](https://github.com/tools/godep) - dependency tool for go, godep helps build packages reproducibly by fixing their dependencies.
 * [gom ★1274](https://github.com/mattn/gom) - Go Manager - bundle for go.
 * [goop](https://github.com/nitrous-io/goop) - Simple dependency manager for Go (golang), inspired by Bundler.
+* [gop ★28](https://github.com/lunny/gop) - Build and manage your Go applications out of GOPATH
 * [gopm ★1491](https://github.com/gpmgo/gopm) - Go Package Manager.
 * [govendor ★2314](https://github.com/kardianos/govendor) - Go Package Manager. Go vendor tool that works with the standard vendor file.
 * [gpm ★1151](https://github.com/pote/gpm) - Barebones dependency manager for Go.
@@ -1039,7 +1040,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
     * [go-txdb ★33](https://github.com/DATA-DOG/go-txdb) - Single transaction based database driver mainly for testing purposes.
     * [gock ★335](https://github.com/h2non/gock) - Versatile HTTP mocking made easy.
     * [gomock ★755](https://github.com/golang/mock) - Mocking framework for the Go programming language.
-    * [govcr ★26](https://github.com/seborama/govcr) -  HTTP mock for Golang: record and replay HTTP interactions for offline testing.
+    * [govcr ★26](https://github.com/seborama/govcr) - HTTP mock for Golang: record and replay HTTP interactions for offline testing.
     * [minimock ★72](https://github.com/gojuno/minimock) - Mock generator for Go interfaces.
     * [mockhttp ★18 ⏳2Y](https://github.com/tv42/mockhttp) - Mock object for Go http.ResponseWriter.
 
@@ -1109,7 +1110,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [cachet ★33 ⏳1Y](https://github.com/andygrunwald/cachet) - Go client library for [Cachet (open source status page system)](https://cachethq.io/).
 * [circleci ★13](https://github.com/jszwedko/go-circleci) - Go client library for interacting with CircleCI's API.
 * [clarifai](https://github.com/samuelcouch/clarifai) - Go client library for interfacing with the Clarifai API.
-* [discordgo ★355](https://github.com/bwmarrin/discordgo) -  Go bindings for the Discord Chat API.
+* [discordgo ★355](https://github.com/bwmarrin/discordgo) - Go bindings for the Discord Chat API.
 * [facebook ★484](https://github.com/huandu/facebook) - Go Library that supports the Facebook Graph API.
 * [fcm ★16](https://github.com/maddevsio/fcm) - Go library for Firebase Cloud Messaging.
 * [gads ★25](https://github.com/emiddleton/gads) - Google Adwords Unofficial API.
@@ -1209,7 +1210,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-trigger ★95](https://github.com/sadlil/go-trigger) - Go-lang global event triggerer, Register Events with an id and trigger the event from anywhere from your project.
 * [go-underscore ★909 ⏳2Y](https://github.com/tobyhede/go-underscore) - Useful collection of helpfully functional Go collection utilities.
 * [goback ★30 ⏳2Y](https://github.com/carlescere/goback) - Go simple exponential backoff package.
-* [godaemon ★315 ⏳1Y](https://github.com/VividCortex/godaemon) - Utility to write daemons.
+* [godaemon ★315 ⏳2Y](https://github.com/VividCortex/godaemon) - Utility to write daemons.
 * [godropbox ★3351](https://github.com/dropbox/godropbox) - Common libraries for writing Go services/applications from Dropbox.
 * [gohper ★222](https://github.com/cosiner/gohper) - Various tools/modules help for development.
 * [gojq ★77 ⏳1Y](https://github.com/elgs/gojq) - JSON query in Golang.
@@ -1425,7 +1426,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [errcheck ★859](https://github.com/kisielk/errcheck) - Errcheck is a program for checking for unchecked errors in Go programs.
 * [gcvis ★709 ⏳1Y](https://github.com/davecheney/gcvis) - Visualise Go program GC trace data in real time.
 * [Go Metalinter ★1828](https://github.com/alecthomas/gometalinter) - Metalinter is a tool to automatically apply all static analysis tool and report their output in normalized form.
-* [go-checkstyle ★46 ⏳1Y](https://github.com/qiniu/checkstyle) checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style refered to some points in Go Code Review Comments.
+* [go-checkstyle ★46 ⏳1Y](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style refered to some points in Go Code Review Comments.
 * [go-cleanarch ★162](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
 * [go-outdated ★34 ⏳1Y](https://github.com/firstrow/go-outdated) - Console application that displays outdated packages.
 * [goast-viewer ★175](https://github.com/yuroyoro/goast-viewer) - Web based Golang AST visualizer.
@@ -1496,7 +1497,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [govvv](https://github.com/ahmetalpbalkan/govvv) - “go build” wrapper to easily add version information into Go binaries.
 * [gox ★2268](https://github.com/mitchellh/gox) - Dead simple, no frills Go cross compile tool.
 * [goxc ★1448](https://github.com/laher/goxc) - build tool for Go, with a focus on cross-compiling and packaging.
-* [grapes ★46](https://github.com/yaronsumel/grapes) -  lightweight tool designed to distribute commands over ssh with ease.
+* [grapes ★46](https://github.com/yaronsumel/grapes) - Lightweight tool designed to distribute commands over ssh with ease.
 * [GVM ★2953](https://github.com/moovweb/gvm) - GVM provides an interface to manage Go versions.
 * [Hey ★1828](https://github.com/rakyll/hey) - Hey is a tiny program that sends some load to a web application.
 * [kala ★1047](https://github.com/ajvb/kala) - Simplistic, modern, and performant job scheduler.
@@ -1537,9 +1538,9 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [JayDiff ★7](https://github.com/yazgazan/jaydiff) - JSON diff utility written in Go.
 * [Juju](https://jujucharms.com/) - Cloud-agnostic service deployment and orchestration - supports EC2, Azure, Openstack, MAAS and more.
 * [Leaps ★500](https://github.com/jeffail/leaps) - Pair programming service using Operational Transforms.
-* [limetext](http://limetext.org/) Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
-* [LiteIDE ★3876](https://github.com/visualfc/liteide) LiteIDE is a simple, open source, cross-platform Go IDE.
-* [mockingjay ★329](https://github.com/quii/mockingjay-server) Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic performance tests.
+* [limetext](http://limetext.org/) - Lime Text is a powerful and elegant text editor primarily developed in Go that aims to be a Free and open-source software successor to Sublime Text.
+* [LiteIDE ★3876](https://github.com/visualfc/liteide) - LiteIDE is a simple, open source, cross-platform Go IDE.
+* [mockingjay ★329](https://github.com/quii/mockingjay-server) - Fake HTTP servers and consumer driven contracts from one configuration file. You can also make the server randomly misbehave to help do more realistic performance tests.
 * [myLG ★1823](https://github.com/mehrdadrad/mylg) - Command Line Network Diagnostic tool written in Go.
 * [naclpipe ★11](https://github.com/unix4fun/naclpipe) - Simple NaCL EC25519 based crypto pipe tool written in Go.
 * [nes ★2781](https://github.com/fogleman/nes) - Nintendo Entertainment System (NES) emulator written in Go.

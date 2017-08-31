@@ -77,7 +77,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
-- [Add Primitives ★49](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
+- [Add Primitives ★49 ⏳1Y](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
 - [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - The plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh/attila) and [Kenney Assets](https://github.com/Calinou/kenney)
 - [Auto Tile Layer ★10](https://github.com/leezh/autotile) -  addon that allows automatic 2D tiling using RPG Maker's Autotile format
 - [Camera2D Screen Shake](http://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.

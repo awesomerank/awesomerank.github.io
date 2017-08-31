@@ -177,7 +177,7 @@ Inspired by [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
 *Libraries for implementing authentications schemes.*
 
 * OAuth
-    * [Authomatic](http://peterhudec.github.io/authomatic/) - Simple but powerful framework agnostic authentication/authorization client.
+    * [Authomatic ★808](https://github.com/authomatic/authomatic) - Simple but powerful framework agnostic authentication/authorization client.
     * [django-allauth ★3181](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
     * [django-oauth-toolkit ★1037](https://github.com/evonove/django-oauth-toolkit) - OAuth 2 goodies for Django.
     * [Flask-OAuthlib ★1038](https://github.com/lepture/flask-oauthlib) - OAuth 1.0/a, 2.0 implementation of client and provider for Flask.

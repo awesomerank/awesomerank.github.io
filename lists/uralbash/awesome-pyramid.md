@@ -104,6 +104,8 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 
 * [pyramid_ldap ★8](https://github.com/Pylons/pyramid_ldap) - an LDAP
   authentication policy for Pyramid.
+* [pyramid_ldap3 ★9](https://github.com/Cito/pyramid_ldap3) - Provides LDAP authentication
+  services for your Pyramid application based on the ldap3 package.
 * [pyramid_who ★10 ⏳5Y](https://github.com/Pylons/pyramid_who) - Authentication policy
   for pyramid using repoze.who 2.0 API.
 * [velruse ★254](https://github.com/bbangert/velruse) - Simplifying third-party
