@@ -884,7 +884,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [govendor ★2314](https://github.com/kardianos/govendor) - Go Package Manager. Go vendor tool that works with the standard vendor file.
 * [gpm ★1151](https://github.com/pote/gpm) - Barebones dependency manager for Go.
 * [gvt ★673](https://github.com/FiloSottile/gvt) - `gvt` is a simple vendoring tool made for Go native vendoring (aka GO15VENDOREXPERIMENT), based on gb-vendor.
-* [johnny-deps ★214 ⏳2Y](https://github.com/VividCortex/johnny-deps) - Minimal dependency version using Git.
+* [johnny-deps ★214 ⏳3Y](https://github.com/VividCortex/johnny-deps) - Minimal dependency version using Git.
 * [nut ★248 ⏳2Y](https://github.com/jingweno/nut) - Vendor Go dependencies.
 * [VenGO ★98 ⏳1Y](https://github.com/DamnWidget/VenGO) - create and manage exportable isolated go virtual environments.
 

@@ -393,7 +393,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [timezone-js ★788](https://github.com/mde/timezone-js) - Timezone-enabled JavaScript Date object. Uses Olson zoneinfo files for timezone data.
 * [date ★1252](https://github.com/MatthewMueller/date) - Date() for humans.
 * [ms.js](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
-* [countdown.js ★377 ⏳3Y](https://github.com/gumroad/countdown.js) - Super simple countdowns.
+* [countdown.js ★377 ⏳4Y](https://github.com/gumroad/countdown.js) - Super simple countdowns.
 * [timeago.js ★2757](https://github.com/hustcc/timeago.js) - Simple library (less then 2kb) used to format date with `*** time ago` statement.
 * [fecha ★1113](https://github.com/taylorhakes/fecha) - Lightweight date formatting and parsing (~2KB). Meant to replace parsing and formatting functionality of moment.js.
 

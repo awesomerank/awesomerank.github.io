@@ -538,6 +538,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [JSON Editor](https://json-editor.tangramjs.com) - A schema-aware JSON editor built with Vue2 and firebase.
   - [Develteam](https://www.develteam.com) - A social network for indie game dievelopers.
   - [Mixsii](https://www.mixsii.com) - A free video chat room site for teens, adults, family, and friends.
+  - [PipQuest](http://pipquest.gregorterrill.com) - A retro-style puzzle game built in Vue
 
 ### Interactive Experiences
 
@@ -721,6 +722,7 @@ Tooltips / popovers
 
  - [vue-timeago ★260](https://github.com/egoist/vue-timeago) - A tiny timeago component for Vue.
  - [vue-moment-jalaali ★30](https://github.com/saman/vue-moment-jalaali) - Jalaali Moment.js filters for your Vue.js project.
+ - [vue-countdown-timer ★0](https://github.com/sagarkbhatt/vuejs-countdown-timer) - Added timezone conversion support.
 
 ### Calendar
 
@@ -1545,6 +1547,7 @@ Tooltips / popovers
 
  - [vue-generator ★42](https://github.com/hjeti/vue-generator) - A CLI generator for Vue components, views and store modules.
  - [vue-component-generator ★5](https://github.com/lakb248/vue-component-generator) - A generator for vue component, supports Vue1.X and Vue2.X.
+ - [rapydml_cmp ★2](https://github.com/valq7711/rapydml_cmp) - Vue-component pythonic generator, built on top of RapydML & RapydScript.
 
 ## Runtime
 

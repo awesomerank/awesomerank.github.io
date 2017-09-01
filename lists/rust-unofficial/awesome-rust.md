@@ -131,6 +131,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [Zone of Control ★253](https://github.com/ozkriff/zoc) — a turn-based hexagonal strategy game [<img src="https://api.travis-ci.org/ozkriff/zoc.svg?branch=master">](https://travis-ci.org/ozkriff/zoc)
   * [rhex ★69](https://github.com/dpc/rhex) — hexagonal ascii roguelike
   * [citybound ★707](https://github.com/citybound/citybound) — The city sim you deserve
+  * [ozkriff/zemeroth ★47](https://github.com/ozkriff/zemeroth) — a small 2D turn-based hexagonal strategy game [<img src="https://api.travis-ci.org/ozkriff/zemeroth.svg?branch=master">](https://travis-ci.org/ozkriff/zemeroth)
 * **Graphics**
   * [ivanceras/svgbobrus ★394](https://github.com/ivanceras/svgbobrus) — converts ASCII diagrams into SVG graphics [<img src="https://api.travis-ci.org/ivanceras/svgbobrus.svg">](https://travis-ci.org/ivanceras/svgbobrus)
   * [RazrFalcon/svgcleaner ★426](https://github.com/RazrFalcon/svgcleaner) — tidies SVG graphics
@@ -302,7 +303,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
     * [JustSid/AfterglowIntelliJ ★63](https://github.com/JustSid/AfterglowIntelliJ) — custom icons
   * [Ride ★126 ⏳1Y](https://github.com/madeso/ride) — [<img src="https://api.travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride)
   * [SolidOak](https://github.com/oakes/SolidOak) — a simple IDE for Rust, based on GTK+ and [Neovim ★23692](https://github.com/neovim/neovim)
-  * [Vim](http://www.vim.org/) — the ubiquitous text editor
+  * [Vim](https://vim.sourceforge.io/) — the ubiquitous text editor
 	* [rust.vim ★798](https://github.com/rust-lang/rust.vim) — provides file detection, syntax highlighting, formatting, Syntastic integration, and more.
 	* [vim-cargo ★18](https://github.com/timonv/vim-cargo) — command bindings to quickly run cargo stuff from vim.
 	* [vim-racer](https://github.com/racer-rust/vim-racer) — allows vim to use [Racer ★2185](https://github.com/racer-rust/racer) for Rust code completion and navigation.
@@ -615,7 +616,6 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
 * Jsonnet
   * [Qihoo360/rust-jsonnet ★21 ⏳2Y](https://github.com/Qihoo360/rust-jsonnet) —  [<img src="https://api.travis-ci.org/Qihoo360/rust-jsonnet.svg?branch=master">](https://travis-ci.org/Qihoo360/rust-jsonnet)
 * MsgPack
-  * [mneumann/rust-msgpack ★118 ⏳1Y](https://github.com/mneumann/rust-msgpack) — [<img src="https://api.travis-ci.org/mneumann/rust-msgpack.svg?branch=master">](https://travis-ci.org/mneumann/rust-msgpack)
   * [3Hren/msgpack-rust ★210](https://github.com/3Hren/msgpack-rust) — a pure Rust low/high level MessagePack implementation [<img src="https://api.travis-ci.org/3Hren/msgpack-rust.svg?branch=master">](https://travis-ci.org/3Hren/msgpack-rust)
 * ProtocolBuffers
   * [danburkert/prost ★196](https://github.com/danburkert/prost) — [<img src="https://api.travis-ci.org/danburkert/prost.svg?branch=master">](https://travis-ci.org/danburkert/prost)

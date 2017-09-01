@@ -142,7 +142,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Debug & profiling tools.*
 
 * [dd ★7](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application
-* [PDW ★91 ⏳1Y](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
+* [PDW ★91 ⏳2Y](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
 * [Phalcon Console ★15 ⏳1Y](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
 * [Phalcon Debugbar ★108](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework
 * [Phalcon Whoops ★7 ⏳1Y](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon

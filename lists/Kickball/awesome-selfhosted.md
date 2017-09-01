@@ -132,7 +132,6 @@ _Business Intelligence_
 
   * [Alltube](http://www.alltubedownload.net) - A web interface for [youtube-dl](https://github.com/rg3/youtube-dl), a program to download videos and audio from [more than 100 websites](https://rg3.github.io/youtube-dl/supportedsites.html). ([Demo](http://www.alltubedownload.net), [Source Code ★400](https://github.com/Rudloff/alltube)) `GPL` `PHP`
   * [AmIUnique](https://amiunique.org/) - Learn how identifiable you are on the Internet (browser fingerprinting tool). ([Source Code ★253](https://github.com/DIVERSIFY-project/amiunique)) `MIT` `Java`
-  * [bip.io](https://bip.io/) - Web Automation For People And Robots - Drag, Drop, and Connect The Services You Love. ([Source Code ★835](https://github.com/bipio-server/bipio)) `GPLv3` `Nodejs`
   * [Beehive ★2561](https://github.com/muesli/beehive) - A flexible event and agent system, which allows you to create your own agents that perform automated tasks triggered by events and filters. `AGPLv3` `Go`
   * [CouchPotato](https://couchpota.to/) - CouchPotato is an automatic Video Library Manager for Movies. Automatic torrent/nzb searching, downloading, and processing at the qualities you want. ([Source Code ★3085](https://github.com/CouchPotato/CouchPotatoServer)) `GPLv3` `Python`
   * [Episodes ★63](https://github.com/guptachetan1997/Episodes) - `⚠` Self Hosted TV show Episode tracker and recommender built using django, bootstrap4. `MIT` `Python`
@@ -238,7 +237,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Hubl.in](https://hubl.in/) - WebRTC powered video conference, chat and collaborative editor. ([Source Code ★1299](https://github.com/linagora/hublin)) `AGPLv3` `Nodejs`
   * [Jitsi Meet](https://jitsi.org/Projects/JitsiMeet) - Jitsi Meet is an OpenSource (MIT) WebRTC Javascript application that uses Jitsi Videobridge to provide high quality, scalable video conferences. ([Source Code ★1341](https://github.com/jitsi/jitsi-meet)) `MIT` `Javascript`
   * [Jitsi Video Bridge](https://jitsi.org/Projects/JitsiVideobridge) - WebRTC compatible Selective Forwarding Unit (SFU) that allows for multiuser video communication. ([Source Code ★411](https://github.com/jitsi/jitsi-videobridge)) `Apache` `Java`
-  * [Kandan](http://getkandan.com/) - Kandan is an Open Source Alternative to HipChat. ([Source Code ★2797](https://github.com/kandanapp/kandan)) `AGPLv3` `Ruby`
+  * [Kandan](http://getkandan.com/) - Kandan is an Open Source Alternative to HipChat. ([Source Code ★2797 ⏳1Y](https://github.com/kandanapp/kandan)) `AGPLv3` `Ruby`
   * [Lets-Chat](http://sdelements.github.io/lets-chat/) - A self hosted chat suite written in Node. ([Source Code ★8713](https://github.com/sdelements/lets-chat)) `MIT` `Nodejs`
   * [Live Helper Chat](http://livehelperchat.com/) - Live Support chat for your website. ([Source Code ★879](https://github.com/LiveHelperChat/livehelperchat)) `Apache` `PHP`
   * [Mattermost](http://www.mattermost.org/) - Open-source, on-prem Slack-alternative. It can be integrated with [Gitlab](https://about.gitlab.com/). ([Source Code ★10892](https://github.com/mattermost/platform)) `AGPLv3/Apache` `Go`
@@ -451,6 +450,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
 
   * [APIQ CMS](https://www.apiq.io/) - Simple and powerful Ruby on Rails CMS for developers. ([Demo](http://demo.apiq.io/), [Source Code ★275](https://github.com/apiqcms/kms)) `MIT` `Ruby`
   * [Apostrophe 2](http://apostrophenow.org/) - A node.js CMS with a focus on extensible in-context editing tools. ([Demo](http://demo.apostrophenow.com/), [Source Code ★1600](https://github.com/punkave/apostrophe)) `MIT` `Nodejs`
+  * [Backdrop CMS](https://backdropcms.org/) - The comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code ★623](https://github.com/backdrop/backdrop)) `GPLv2` `PHP`
   * [Baun](https://bauncms.com/) - A modern, lightweight, extensible CMS for PHP. ([Source Code ★259](https://github.com/BaunCMS/Baun)) `MIT` `PHP`
   * [BigTree CMS](https://www.bigtreecms.org/) - Straightforward, well documented, and capable written with PHP and MySQL. ([Source Code ★155](https://github.com/bigtreecms/BigTree-CMS)) `LGPLv2` `PHP`
   * [CMS Made Simple](http://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL` `PHP`

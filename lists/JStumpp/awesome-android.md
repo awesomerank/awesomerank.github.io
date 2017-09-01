@@ -108,6 +108,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
 - [Rajawali ★1454](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 - [Cocos2d-x](http://www.cocos2d-x.org) - Cross-platform 2d game framework.
+- [JustWeEngine ★677](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
 
 ### Security
 
@@ -126,6 +127,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AndroidFillableLoaders ★1625 ⏳1Y](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
 - [NexusDialog ★152](https://github.com/dkharrat/NexusDialog) - Allows you to easily and quickly create forms in Android with little code.
 - [Snap RecyclerView Utils ★73](https://github.com/prashantsolanki3/Snap-RecyclerView-Utils) - Populate Single or multiple Layout RecyclerView without creating an Adapter.
+- [MultiSnapRecyclerView ★773](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
 - [SwipeableCard ★616](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView!!
 - [ElasticProgressBar ★270](https://github.com/michelelacorte/ElasticProgressBar) - Beautiful loading bar.
 - [EntryScreenManager ★29 ⏳1Y](https://github.com/kunall17/EntryScreenManager) - Intro/Entry/Walkthrough/Starting Screens.
@@ -147,6 +149,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MultiViewAdapter ★239](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
 - [LGSnackbar ★18](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
 - [ShimmerLayout ★886](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications.
+- [CircleProgressBar ★6](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
@@ -185,6 +188,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MaterialEditText ★4467](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
 - [Emojicon ★2904](https://github.com/rockerhieu/emojicon) - Adds emoticons to your app
 - [MaterialSearchBar ★1100](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
+- [InputMask ★425](https://github.com/RedMadRobot/input-mask-android) - Pattern-based user input formatter, parser and validator.
 
 #### Loading Images
 
@@ -198,6 +202,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 #### Video
 
 - [ijkplayer ★14739](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
+- [Exoplayer ★7695](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet. 
+   Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
 
 #### Camera
 
@@ -213,7 +219,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Fabric Crashlytics](https://get.fabric.io/) - Easy crash reporting solution.
 - [HockeyApp](https://www.hockeyapp.net/) - Distribution, Crash Reports, Feedback and Analytics
 - [Splunk MINT](https://mint.splunk.com/) - Monitoring, Crash Reports, Real time data, Statistic.
-- [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring.
+- [Bugsnag](https://www.bugsnag.com/) - Cross platform error monitoring. Free tier. Support for SDK & NDK. Error reports include data on device, release, user, and allows arbitrary data.
 - [Catcho ★19](https://github.com/alhazmy13/Catcho) - No Force Close any more.
 - [Apteligent](https://www.apteligent.com/) - Cross platform crash reporting/analytics solution. Supports NDK log.
 - [Instabug](https://instabug.com/) - Bug reporting, Crash Reporting, In-app Feedback.
@@ -418,7 +424,6 @@ My personal recommendation is (for now) to use the android api to build a native
 - [React Native ★52159](https://github.com/facebook/react-native) - A framework for building native apps with React by Facebook.
 - [Ionic Framework](http://ionicframework.com) - A framework to build hybrid apps with mobile-optimized HTML, CSS and JS with AngularJS.
 - [Apache Cordova ★1999](https://github.com/apache/cordova-android) - Cordova based applications are, at the core, applications written with web technology: HTML, CSS and JavaScript.
-- [Reapp.io](http://reapp.io/) - Cordova based framework to build hybrid apps with mobile-optimized HTML, CSS and JS with ReactJS.
 
 ### Lua
 - [Corona SDK](https://coronalabs.com/product/) - Framework to create native iOS and Android Apps (especially Games).

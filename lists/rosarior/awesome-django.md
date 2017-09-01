@@ -526,7 +526,7 @@ phone numbers.
 * [django-adminactions ★173](https://github.com/saxix/django-adminactions) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
 * [django-autoadmin ★33 ⏳1Y](https://github.com/rosarior/django-autoadmin) - Automatic admin users for Django projects.
 * [django-braces ★1240](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django.
-* [django-calendarium ★175](https://github.com/bitlabstudio/django-calendarium) - A reusable app to manage and display a calendar in your templates.
+* [django-calendarium ★175 ⏳1Y](https://github.com/bitlabstudio/django-calendarium) - A reusable app to manage and display a calendar in your templates.
 * [django-changuito ★48](https://github.com/angvp/django-changuito) - A cart app for your django site, an updated fork of django-cart
 * [django-cors-headers ★1594](https://github.com/ottoyiu/django-cors-headers) - Django app for handling the server headers required for Cross-Origin Resource Sharing (CORS).
 * [django-dfp ★4 ⏳1Y](https://github.com/praekelt/django-dfp) - App that provides tags to fetch Google DFP ads.
@@ -591,7 +591,7 @@ phone numbers.
 * [Django-QA ★40](https://github.com/swappsco/django-qa) - A simple Q&A App.
 * [django-salted ★327 ⏳3Y](https://github.com/wunki/django-salted) - Full stack SaltStack configuration for Django with the help of Vagrant.
 * [Drum ★334](https://github.com/stephenmcd/drum) - Reddit / Hacker News clone for Django/Mezzanine.
-* [koalixcrm ★66](https://github.com/tfroehlich82/koalixcrm) - Beautiful CRM/ERP for small business.
+* [koalixcrm ★66 ⏳1Y](https://github.com/tfroehlich82/koalixcrm) - Beautiful CRM/ERP for small business.
 * [OmniDB ★692](https://github.com/OmniDB/OmniDB) - Web tool for database management and conversion, built with Django.
 
 ## Project Management

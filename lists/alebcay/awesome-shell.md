@@ -77,6 +77,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [fz ★104](https://github.com/changyuheng/fz) - Seamless fuzzy tab completion for z
 * [fzf ★9839](https://github.com/junegunn/fzf) - A command-line fuzzy finder
 * [googler ★1739](https://github.com/jarun/googler) - Google Search, Google Site Search, Google News from the terminal
+* [has ★14](https://github.com/kdabir/has) - `has` helps you check presence of various command line tools and their versions on path
 * [hhighlighter ★220](https://github.com/paoloantinori/hhighlighter) - Colorize words in a command output
 * [hr ★1013](https://github.com/LuRsT/hr) - `<hr />` for your terminal
 * [hstr ★730](https://github.com/dvorka/hstr) - Bash History Suggest Box

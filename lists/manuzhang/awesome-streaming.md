@@ -71,6 +71,8 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [coast ★59 ⏳1Y](https://github.com/bkirwi/coast) [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
 * [Apache Beam](https://github.com/apache/incubator-beam) [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 * [Esper ★283](https://github.com/espertechinc/esper) [Java] - component for complex event processing (CEP) and event series analysis.
+* [Streamparse ★1180](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
+* [KSQL ★652](https://github.com/confluentinc/ksql) [Java] - a Streaming SQL Engine for Apache Kafka.
 
 ### Data Pipeline
 

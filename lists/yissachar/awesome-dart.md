@@ -139,7 +139,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 * [Observatory](https://www.dartlang.org/tools/observatory/) - Observatory is a tool for profiling and debugging your Dart applications.
 * [dart2js](https://www.dartlang.org/tools/dart2js/) - compiles Dart code to JavaScript
-* [js2dart ★16 ⏳2Y](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
+* [js2dart ★16 ⏳3Y](https://github.com/vojtajina/js2dart) - compiles Javascript code to Dart
 * [Stagehand ★204](https://github.com/google/stagehand) - A project scaffolding generator, inspired by tools like Web Starter Kit and Yeoman.
 * [Crossdart](http://crossdart.info) - Cross-referenced source code of the packages from Pub.
 * [Crossdart Github Chrome Extension](https://chrome.google.com/webstore/detail/crossdart-chrome-extensio/jmdjoliiaibifkklhipgmnciiealomhd) - Adds "Go to declaration" and "Find Usages" functionality to your Dart projects on Github (both in tree views and pull requests).

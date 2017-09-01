@@ -143,6 +143,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [zq ★2](https://github.com/colstrom/zq) - Command-line ZPL processor
 
 ## Converters
+ * [human_file_size.cr ★0](https://github.com/johnjansen/human_file_size.cr) - JSON & YAML mapping converter for human file sizes in serialized data
  * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney ★1807](https://github.com/RubyMoney/money))
  * [ms ★12](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
  * [sass.cr](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass ★3550](https://github.com/sass/libsass) binding)

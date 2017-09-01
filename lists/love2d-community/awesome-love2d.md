@@ -254,7 +254,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [i18n ★8 ⏳2Y](https://github.com/excessive/i18n) - Internationalization library designed to help localize your game
 * [log.lua ★88 ⏳1Y](https://github.com/rxi/log.lua) - Library for configurable log output
 * [love-loader ★76](https://github.com/kikito/love-loader) - Threaded resource loading
-* [love2d-assets-loader ★24 ⏳1Y](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
+* [love2d-assets-loader ★24 ⏳2Y](https://github.com/Yonaba/love2d-assets-loader) - Assets Loader
 * [Luvent ★38 ⏳2Y](https://github.com/ejmr/Luvent) - Simple event-driven programming
 * [splashy ★10](https://github.com/videah/splashy) - Splash Screen Library
 * [Talkback ★10](https://github.com/tesselode/talkback) - Observer pattern library with two-way communication

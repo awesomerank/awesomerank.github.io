@@ -740,6 +740,11 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Evaluating TensorFlow models in AWS Lambda](https://iplayer.engineering/evaluating-tensorflow-models-in-aws-lambda-c0e06cf23d87) - How AWS Lambda can be used to evaluate TensorFlow models in a serverless fashion.
 - [Your serverless Raspberry Pi cluster with Docker](https://blog.alexellis.io/your-serverless-raspberry-pi-cluster/) - How to setup and operate a serverless Raspberry Pi cluster with the help of Docker and [OpenFaaS ★2776](https://github.com/alexellis/faas).
 - [4 reasons serverless FaaS on the IBM cloud is better than ever](https://www.ibm.com/blogs/bluemix/2017/08/four-reasons-serverless-faas-ibm-cloud-better-ever) - Post about the recent changes done to the IBM Bluemix FaaS offering.
+- [How to build a scalable crawler](https://medium.com/@marcello.lins/how-to-build-a-scalable-crawler-on-the-cloud-that-can-mine-thousands-of-data-points-costing-less-a9825331eef5) - Post on how to build a serverless web crawler.
+- [Deploying a TypeScript Lambda function with Serverless](https://blog.shovonhasan.com/deploying-a-typescript-node-aws-lambda-function-with-serverless/) - How to use TypeScript on AWS Lambda with the Serverless Framework.
+- [Rapidly deploy Azure functions using PowerShell](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/08/15/serverless-azure-functions) - How to use the Windows PowerShell to deploy Azure Functions.
+- [3 questions about serverless technology](https://thenewstack.io/3-questions-serverless-technology/) - 3 important questions about serverless computing and serverless architectures.
+- [Serverless Framework with SAM for local dev & testing](https://read.iopipe.com/go-serverless-with-sam-for-local-dev-test-f6f23eb6a2bf) - How one can use the Serverless Framework in combination with SAM to develop and test locally.
 
 ## Screencasts
 
@@ -1167,6 +1172,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless sample ★1](https://github.com/MatiasComercio/serverless-sample) - Sample project for blog post introduction to Serverless Framework.
 - [Analytics ★3](https://github.com/sbstjn/serverless-analytics) - Track website visitors with serverless analytics.
 - [Medium TTS ★22](https://github.com/RafalWilinski/serverless-medium-text-to-speech) - Serverless-based, text-to-speech service for Medium articles.
+- [Alain Twitterbot ★1](https://github.com/sergile/alain-twitterbot-serverless) - Serverless Twitterbot implementation.
 
 ## Related projects
 
@@ -1257,6 +1263,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Zappa ★4611](https://github.com/Miserlou/Zappa) - Serverless Python web services.
 - [Serverless guide ★80](https://github.com/serverless/guide) - The "definitive guide" to serverless architectures.
 - [Seed](https://seed.run) - CI / CD solution for serverless applications.
+- [Slspress ★7](https://github.com/withreason/slspress) - Library for rapidly developing serverless applications.
+- [Arguments against / in favor of serverless](https://docs.google.com/spreadsheets/d/1leLOtHpYuewtu2aw5QOnqBJahY96bnlVb_HCrVfxvhI/edit#gid=0) - Google Spreadsheet which collects all the arguments for and against serverless computing.
 
 ## Plugins
 

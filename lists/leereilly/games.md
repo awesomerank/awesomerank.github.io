@@ -203,7 +203,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [0hh1 ★615](https://github.com/Q42/0hh1) - Lovely little logic game by Q42. [Play it now!](http://0hh1.com)
 * [2048 ★8968](https://github.com/gabrielecirulli/2048) - Sliding addition game [Play it now!](http://gabrielecirulli.github.io/2048/)
 * [A Dark Room ★3596](https://github.com/doublespeakgames/adarkroom) - Minimalist Text Adventure game written in JavaScript. [Play it now!](http://adarkroom.doublespeakgames.com/)
-* [Anagramica ★3 ⏳1Y](https://github.com/binarymax/anagramica) - A word game and API for anagrams. [Play it now!](http://www.anagramica.com/)
+* [Anagramica ★3 ⏳2Y](https://github.com/binarymax/anagramica) - A word game and API for anagrams. [Play it now!](http://www.anagramica.com/)
 * [Astry ★178](https://github.com/wwwtyro/Astray) - WebGL maze game built with Three.js and Box2dWeb. [Play it now!](http://wwwtyro.github.io/Astray/)
 * [Beatrix ★7 ⏳3Y](https://github.com/cxong/Beatrix) - Music game where you arrange the drums to catch the beats and play the right rhythm. [Play it now!](http://gamejolt.com/games/puzzle/beatrix/27454/)
 * [BitBot](https://github.com/recardona/BitBot) - HTML/JS game where you control a bot, which must sense, plan, and act. [Play it now!](http://recardona.github.io/BitBot/)
@@ -280,7 +280,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Duckmarines ★51 ⏳1Y](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
 * [Epic Inventor ★69](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
 * [Falling Time ★14 ⏳1Y](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
-* [Kroniax ★8 ⏳1Y](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
+* [Kroniax ★8 ⏳2Y](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
 * [Missile Command ★3](https://github.com/chadpaulson/missile-command) - Missile Command clone in Lua with LÖVE.
 * [Mystic Mine ★43 ⏳1Y](https://github.com/koonsolo/MysticMine) - Single and multiplayer action game with mining carts.
 * [OpenLieroX ★95](https://github.com/albertz/openlierox) - Liero clone, like realtime Worms, or a 2D Quake.

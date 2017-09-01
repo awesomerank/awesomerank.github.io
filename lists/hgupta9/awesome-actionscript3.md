@@ -335,7 +335,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### CSV
 
-* [CSV4AS3 ★4 ⏳3Y](https://github.com/lizardon/CSV4AS3) - CSV library ported from Apache Commons CSV.
+* [CSV4AS3 ★4 ⏳4Y](https://github.com/lizardon/CSV4AS3) - CSV library ported from Apache Commons CSV.
 * [Csvlib ★6 ⏳5Y](https://github.com/51systems/csvlib) - CSV parser.
 
 #### CSS
@@ -588,7 +588,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 ## AIR Native Extensions
 
 #### Audio ANE
-* [SongPicker ★29 ⏳1Y](https://github.com/richpixel/SongPickerANE) - A song picker/player ANE for iOS and Android.
+* [SongPicker ★29 ⏳2Y](https://github.com/richpixel/SongPickerANE) - A song picker/player ANE for iOS and Android.
 * [SilentSwitch ★38](https://github.com/StickSports/ANE-Silent-Switch) - ANE for iOS to mute sounds if the hardware silent switch is on.
 * [VolumePro ★2](https://github.com/myflashlab/VolumePro-ANE) - Control native music stream volume and you can listen to the volume changes.
 * [SystemVolume ★59 ⏳5Y](https://github.com/nweber/SystemVolumeNativeExtension) - Interact with the system volume for iOS and Android devices.

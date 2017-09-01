@@ -190,7 +190,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 ### Database
 * [Motion-firebase ★44](https://github.com/colinta/motion-firebase) - RubyMotion wrapper for the Firebase SDK.
 * [Yapper ★30 ⏳1Y](https://github.com/kareemk/yapper) - ORM for YapDatabase which is schemaless, very fast (thanks to YapDatabase's architecture), has chainable criteria, one-many relationships, on-the-fly reindexing and is thread-safe.
-* [Couchmotion ★17 ⏳1Y](https://github.com/jannishuebl/couchmotion) - API for using Couchbase(CouchDB) a schemaless database with Rubymotion for Android and iOS.
+* [Couchmotion ★17 ⏳2Y](https://github.com/jannishuebl/couchmotion) - API for using Couchbase(CouchDB) a schemaless database with Rubymotion for Android and iOS.
 * [Motion-sqlite3 ★32 ⏳1Y](https://github.com/mattgreen/motion-sqlite3) - Minimal wrapper over the SQLite 3 C API for RubyMotion.
 
 
