@@ -78,7 +78,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [PokeBuddy ★482](https://github.com/finndev/PokeBuddy) - A Pokémon GO bot.
 
 #### Miscellaneous
-- [alfred-pokedex ★19](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
+- [alfred-pokedex ★19 ⏳1Y](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
 - [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) - Wondrous, tailor-made Pokémon themes for your Hyper terminal.
 - [Pokemon-Go-Controller ★2472](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area.
 - [pokecrystal ★873](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.

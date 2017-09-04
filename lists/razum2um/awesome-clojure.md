@@ -240,7 +240,7 @@ title: Awesome Rank for razum2um/awesome-clojure
 
   * [core.async ★1397](https://github.com/clojure/core.async)
   * [pulsar ★776](https://github.com/puniverse/pulsar)
-  * [lamina ★735 ⏳1Y](https://github.com/ztellman/lamina)
+  * [lamina ★735 ⏳2Y](https://github.com/ztellman/lamina)
   * [aleph ★1858](https://github.com/ztellman/aleph)
 
 ## Monads
