@@ -703,7 +703,7 @@ Infers or tries to find GitHub users' Twitter handles and present them to you in
 </details>
 
 
-## [Where is it? ★13 ⏳1Y](https://github.com/WhereIsItDev/whereisit)
+## [Where is it? ★13 ⏳2Y](https://github.com/WhereIsItDev/whereisit)
 <a href="https://chrome.google.com/webstore/detail/where-is-it/cdgnplmebagbialenimejpokfcodlkdm"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Whereisit makes code navigation on GitHub easier. Look up and jump around class/method definitions with a single click.

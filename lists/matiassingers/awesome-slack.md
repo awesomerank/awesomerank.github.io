@@ -114,7 +114,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [jinora ★74](https://github.com/sdslabs/jinora) - Slack webhook app to create anonymous public channels
 - [pr2slack ★8 ⏳2Y](https://github.com/ohwillie/pr2slack) - Non-spammy pull request messages
 - [slack-api-client ★12 ⏳1Y](https://github.com/germanrcuriel/slack-api-client) - A Slack API client for node.js
-- [slack-node-sdk ★133](https://github.com/clonn/slack-node-sdk) - Slack Node SDK with Webhook and API support
+- [slack-node-sdk ★133 ⏳1Y](https://github.com/clonn/slack-node-sdk) - Slack Node SDK with Webhook and API support
 - [slacker](https://github.com/cmalven/slacker) - Meteor-based API for Slack commands
 
 ### Dart
@@ -207,7 +207,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [LOUDBOT-SLACK ★31](https://github.com/ceejbot/LOUDBOT-SLACK) - LOUDBOT FOR SLACK
 - [nasa-slack](https://github.com/seanrose/nasa-slack) - a slack integration to post the nasa photo of the day
 - [node-slack-cli ★23 ⏳2Y](https://github.com/juanpabloaj/node-slack-cli) - Send messages to Slack from the command line with nodejs
-- [node-slack-irc ★14 ⏳1Y](https://github.com/IgorAntun/node-slack-irc) - Node.js solution to integrate IRC chats to Slack
+- [node-slack-irc ★14 ⏳2Y](https://github.com/IgorAntun/node-slack-irc) - Node.js solution to integrate IRC chats to Slack
 - [node-slackbot ★24](https://github.com/rmcdaniel/node-slackbot) - Slackbot for node.js using RTM API
 - [node-slackhook ★20 ⏳2Y](https://github.com/joezo/node-slackhook) - A node module for Slack custom hooks
 - [node-slackr ★63](https://github.com/chenka/node-slackr) - A node.js library for sending messages to Slack
@@ -464,7 +464,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [SlackCI ★3 ⏳3Y](https://github.com/grubernaut/SlackCI) - Command-Line Interface and RubyGem for Slack
 - [SlackEco ★7 ⏳2Y](https://github.com/riencroonenborghs/slackeco) - Generate memes within your Slack channels
 - [slacker ★24 ⏳2Y](https://github.com/ttaylorr/slacker) - A collection of scripts for making Slack a little better
-- [slackfire ★6 ⏳2Y](https://github.com/RokkinCat/slackfire) - Send real time events from Firebase to Slack
+- [slackfire ★6 ⏳3Y](https://github.com/RokkinCat/slackfire) - Send real time events from Firebase to Slack
 - [slackistrano ★292](https://github.com/phallstrom/slackistrano) - Send Capistrano deployment messages to Slack
 - [slackr](https://github.com/risk-io/slackr) - Talk to Slack from Ruby
 - [slackr-gif-bot ★6 ⏳3Y](https://github.com/brianjriddle/slackr-gif-bot) - Listens for requests and posts GIFs back to a Slack channel
@@ -474,7 +474,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [spoilerbot ★1](https://github.com/austra/spoilerbot) - Displays a random card from the latest Magic: The Gathering set
 - [squirt](https://gist.github.com/foozmeat/82f177d60d5dfc7fc518) - Upload a file to a Slack channel from the cli
 - [tarumi ★8](https://github.com/IcaliaLabs/tarumi) - A simple library to interact with Slack webhooks
-- [tickbot ★10 ⏳1Y](https://github.com/barryf/tickbot) - Simple team time tracking reminder
+- [tickbot ★10 ⏳2Y](https://github.com/barryf/tickbot) - Simple team time tracking reminder
 - [trebekbot ★133](https://github.com/gesteves/trebekbot) - A Jeopardy! bot for Slack
 - [vip-notify ★5 ⏳2Y](https://github.com/doejo/vip-notify) - Send VIP deployment notifications to Slack
 - [slack-webistrano ★4 ⏳3Y](https://github.com/caiosba/slack-webistrano) - Send Webistrano deploys to Slack
@@ -499,7 +499,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-rails-ci ★0 ⏳3Y](https://github.com/caiosba/slack-rails-ci) - Run a command; post it and its standard input, output, and error to Slack
 - [slacktee ★456](https://github.com/course-hero/slacktee) - A bash script that works like _tee_ command
 - [stash\_slack](https://gist.github.com/linjer/2ee6146d3b320cbe9225) - Atlassian Stash integration with Slack through external web hooks
-- [wercker-step-slack-notify ★23 ⏳2Y](https://github.com/sherzberg/wercker-step-slack-notify) - Send a message to Slack
+- [wercker-step-slack-notify ★23 ⏳3Y](https://github.com/sherzberg/wercker-step-slack-notify) - Send a message to Slack
 - [wercker-step-slack-post ★4 ⏳2Y](https://github.com/kobim/wercker-step-slack-post) - Post wercker deploy status to Slack
 - [zabbix-slack-alertscript ★247](https://github.com/ericoc/zabbix-slack-alertscript) - Custom Zabbix AlertScript for Slack
 

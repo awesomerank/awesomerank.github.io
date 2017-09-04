@@ -185,7 +185,7 @@ Plugins
 - Frontend (Asset Pipeline/CDN)
     - [Flask-Mustache ★24 ⏳4Y](https://github.com/bradwright/flask-mustachejs) - Mustache template integration with Flask
     - [Flask-Genshi ★18 ⏳5Y](https://github.com/dag/flask-genshi) - Genshi templating for Flask
-    - [flask-mako ★34](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask
+    - [flask-mako ★34 ⏳1Y](https://github.com/benselme/flask-mako) - Provides support for Mako Templates in Flask
     - [Flask-Markdown ★104 ⏳2Y](https://github.com/dcolish/flask-markdown) - Markdown jinja2 extension for Flask
     - [Flask-Sijax ★85 ⏳2Y](https://github.com/spantaleev/flask-sijax) - An extension for the Flask microframework that adds Sijax support
     - [flask-apispec ★185](https://github.com/jmcarp/flask-apispec) - simple self-documenting APIs with flask

@@ -72,7 +72,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * TypeScript: [duo-typescript ★0 ⏳2Y](https://github.com/frankwallis/duo-typescript)
 
 ## Connect plugins
-* Babel: [babel-connect ★23](https://github.com/babel/babel-connect)
+* Babel: [babel-connect ★23 ⏳1Y](https://github.com/babel/babel-connect)
 * TypeScript: [typescript-middleware ★8](https://github.com/brn/typescript-middleware)
 
 ## Gobble plugins
@@ -132,8 +132,8 @@ title: Awesome Rank for addyosmani/es6-tools
 * Polymer's [WeakMap shim ★41 ⏳2Y](https://github.com/Polymer/WeakMap)
 * [`String.prototype.startsWith` ★77](https://github.com/mathiasbynens/String.prototype.startsWith)
 * [`String.prototype.endsWith` ★22 ⏳2Y](https://github.com/mathiasbynens/String.prototype.endsWith)
-* [`String.prototype.at` ★36 ⏳2Y](https://github.com/mathiasbynens/String.prototype.at)
-* [`String.prototype.repeat` ★25 ⏳1Y](https://github.com/mathiasbynens/String.prototype.repeat)
+* [`String.prototype.at` ★36 ⏳3Y](https://github.com/mathiasbynens/String.prototype.at)
+* [`String.prototype.repeat` ★25 ⏳2Y](https://github.com/mathiasbynens/String.prototype.repeat)
 * [`String.prototype.includes` ★55 ⏳2Y](https://github.com/mathiasbynens/String.prototype.includes)
 * [`String.prototype.codePointAt` ★33 ⏳2Y](https://github.com/mathiasbynens/String.prototype.codePointAt)
 * [`String.fromCodePoint` ★40 ⏳2Y](https://github.com/mathiasbynens/String.fromCodePoint)

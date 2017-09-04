@@ -186,7 +186,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Rails Assets](https://rails-assets.org) - Bundler to Bower proxy.
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
 * [Sprockets ★2698 ⏳1Y](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
-* [Torba ★166](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
+* [Torba ★166 ⏳1Y](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
 * [Webpacker ★1978](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ## Authentication and OAuth

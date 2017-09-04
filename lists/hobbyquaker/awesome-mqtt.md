@@ -228,7 +228,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Home Entertainment
 
-* [airtunes2mqtt ★8 ⏳1Y](https://github.com/hobbyquaker/airtunes2mqtt) - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.
+* [airtunes2mqtt ★8 ⏳2Y](https://github.com/hobbyquaker/airtunes2mqtt) - MQTT controlled Multi-Room Audio with Airplay/Airtunes Devices.
 * [bravia2mqtt ★0](https://github.com/forty2/bravia2mqtt) - Control your Sony Bravia TV with MQTT.
 * [broadlink-mqtt ★35](https://github.com/eschava/broadlink-mqtt) - MQTT client to control BroadLink RM devices.
 * [chromecast-mqtt-connector ★8](https://github.com/nohum/chromecast-mqtt-connector) - Control your Google Chromecast devices using MQTT.

@@ -166,6 +166,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 
 ## QA Tools
 
+* [prettier ★13915](https://github.com/prettier/prettier) - Prettier is an opinionated code formatter.
 * [JSHint ★7362](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 * [jscs ★5154](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt ★1707](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
@@ -233,7 +234,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [eco ★1772 ⏳2Y](https://github.com/sstephenson/eco) - Embedded CoffeeScript templates.
 * [JavaScript-Templates ★1214](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js ★766](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
-* [Jade ★15012](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs.
+* [Pug ★15012](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs. (formerly known as Jade)
 * [EJS ★1655](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate ★357](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
 * [marko ★3205](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
@@ -332,6 +333,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Ronn ★960 ⏳1Y](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
 * [dox ★2000](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
 * [jsdox ★196 ⏳1Y](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
+* [ESDoc ★1620](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
 * [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 * [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
 * [sphinx](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation

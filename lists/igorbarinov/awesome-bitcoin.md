@@ -32,7 +32,7 @@ List of content
 * [Pycoin ★470](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library.
 * [sx](https://github.com/spesmilo/sx/) sx - command line Bitcoin to empower the sysadmin
 * [bx ★107](https://github.com/libbitcoin/libbitcoin-explorer) Bitcoin Command Line Tool
-* [txwatcher ★22 ⏳1Y](https://github.com/tsileo/txwatcher)A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
+* [txwatcher ★22 ⏳2Y](https://github.com/tsileo/txwatcher)A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
 * [hellobitcoin ★174](https://github.com/prettymuchbryce/hellobitcoin) A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 * [Mining visualization](http://www.yogh.io/#mine:last)
 

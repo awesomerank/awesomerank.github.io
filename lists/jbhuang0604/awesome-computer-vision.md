@@ -488,7 +488,7 @@ Non-uniform Deblurring
  * [PatchMatch](http://gfx.cs.princeton.edu/gfx/pubs/Barnes_2009_PAR/index.php)
  * [Generalized PatchMatch](http://gfx.cs.princeton.edu/pubs/Barnes_2010_TGP/index.php)
  * [Coherency Sensitive Hashing](http://www.eng.tau.ac.il/~simonk/CSH/)
- * [PMBP: PatchMatch Belief Propagation ★7 ⏳2Y](https://github.com/fbesse/pmbp)
+ * [PMBP: PatchMatch Belief Propagation ★7 ⏳3Y](https://github.com/fbesse/pmbp)
  * [TreeCANN](http://www.eng.tau.ac.il/~avidan/papers/TreeCANN_code_20121022.rar)
 
 #### Visual Tracking

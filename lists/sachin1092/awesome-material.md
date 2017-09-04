@@ -37,7 +37,7 @@ Components
   - [Material-Design-ColorPicker ★11 ⏳2Y](https://github.com/Fraina/Material-Design-ColorPicker) — A Material Design Color Picker.
   - [material-design-color-palette ★144 ⏳1Y](https://github.com/zavoloklom/material-design-color-palette) — Material Design Color Palette: LESS/CSS toolkit.
   - [md-timepicker ★12 ⏳1Y](https://github.com/dotlouis/md-timepicker) — A Polymer Timepicker element in Material Design.
-  - [md-date-time ★185 ⏳1Y](https://github.com/SimeonC/md-date-time) — A Date-Time picker based on Googles Material Design Spec.
+  - [md-date-time ★185 ⏳2Y](https://github.com/SimeonC/md-date-time) — A Date-Time picker based on Googles Material Design Spec.
   - [ng-material-floating-button ★446](https://github.com/nobitagit/ng-material-floating-button) — Material design floating menu with action buttons implemented as an Angularjs directive.
 
 

@@ -131,7 +131,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [SwipeableCard ★616](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView!!
 - [ElasticProgressBar ★270](https://github.com/michelelacorte/ElasticProgressBar) - Beautiful loading bar.
 - [EntryScreenManager ★29 ⏳1Y](https://github.com/kunall17/EntryScreenManager) - Intro/Entry/Walkthrough/Starting Screens.
-- [EasyIntro ★67](https://github.com/meNESS/EasyIntro) - The flexible, easy to use, all in one app intro library for your Android project.
+- [EasyIntro ★67 ⏳1Y](https://github.com/meNESS/EasyIntro) - The flexible, easy to use, all in one app intro library for your Android project.
 - [Material-Calendar-View ★289](https://github.com/BlackBoxVision/material-calendar-view) - Material Design Calendar compatible with API 8+
 - [SectionedRecyclerViewAdapter ★605](https://github.com/luizgrp/SectionedRecyclerViewAdapter) - An Adapter that allows a RecyclerView to be split into Sections with headers and/or footers.
 - [DragListView ★290](https://github.com/woxblom/DragListView) - Drag and drop to reorder items in a list, grid or board.

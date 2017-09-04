@@ -745,6 +745,11 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Rapidly deploy Azure functions using PowerShell](https://blogs.msdn.microsoft.com/mvpawardprogram/2017/08/15/serverless-azure-functions) - How to use the Windows PowerShell to deploy Azure Functions.
 - [3 questions about serverless technology](https://thenewstack.io/3-questions-serverless-technology/) - 3 important questions about serverless computing and serverless architectures.
 - [Serverless Framework with SAM for local dev & testing](https://read.iopipe.com/go-serverless-with-sam-for-local-dev-test-f6f23eb6a2bf) - How one can use the Serverless Framework in combination with SAM to develop and test locally.
+- [Binary API Gateway image generation](https://www.kcoleman.me/2017/03/11/serverless-image-generation.html) - Generate images using binary configuration of API Gateway on AWS Lambda.
+- [Serverless Framework Kubeless provider integration](https://serverless.com/blog/serverless-and-kubernetes-via-kubeless/) - Announcement post about the Kubeless provider integration into the Serverless Framework.
+- [Serverless v1.21.0](https://serverless.com/blog/serverless-v1.21.0/) - Announcement blog post for Serverless Framework v1.21.0.
+- [Bitnami Partners with Serverless.com on Kubernetes-Native Functions as a Service offering](http://www.prweb.com/releases/2017/08/prweb14639837.htm) - Press release about the Kubeless provider integration for the Serverless Framework.
+- [Serverless Framework Gains Kubernetes-Native Support](https://www.sdxcentral.com/articles/news/serverless-kubeless-framework-gains-kubernetes-native-support/2017/08/) - Post about the recent Kubeless provider integration into the Serverless Framework.
 
 ## Screencasts
 
@@ -1173,6 +1178,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Analytics ★3](https://github.com/sbstjn/serverless-analytics) - Track website visitors with serverless analytics.
 - [Medium TTS ★22](https://github.com/RafalWilinski/serverless-medium-text-to-speech) - Serverless-based, text-to-speech service for Medium articles.
 - [Alain Twitterbot ★1](https://github.com/sergile/alain-twitterbot-serverless) - Serverless Twitterbot implementation.
+- [Letter Avatar ★2](https://github.com/KevinColemanInc/letter-avatar-serverless) - Generates Google-like binary avatar images.
 
 ## Related projects
 
@@ -1265,6 +1271,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Seed](https://seed.run) - CI / CD solution for serverless applications.
 - [Slspress ★7](https://github.com/withreason/slspress) - Library for rapidly developing serverless applications.
 - [Arguments against / in favor of serverless](https://docs.google.com/spreadsheets/d/1leLOtHpYuewtu2aw5QOnqBJahY96bnlVb_HCrVfxvhI/edit#gid=0) - Google Spreadsheet which collects all the arguments for and against serverless computing.
+- [AWS Lambda Launcher](https://www.backand.com/aws-lambda-launcher-test-run/) - Free tool to test and run AWS Lambda functions without AWS credentials.
+- [Lambda SES forwarder ★382](https://github.com/arithmetric/aws-lambda-ses-forwarder) - Serverless E-Mail forwarding using AWS Lambda and SES.
 
 ## Plugins
 
@@ -1487,7 +1495,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 
 - [Plugin boilerplate ★22](https://github.com/serverless/serverless-plugin-boilerplate) - Boilerplate code if you want to develop your own plugin.
 - [Serverless resources validation ★12 ⏳1Y](https://github.com/tmilewski/serverless-resources-validation-plugin) - Plugin which validates your CloudFormation template.
-- [Alerting ★27](https://github.com/martinlindenberg/serverless-plugin-alerting) - Add Cloudwatch Alarms with SNS notifications.
+- [Alerting ★27 ⏳1Y](https://github.com/martinlindenberg/serverless-plugin-alerting) - Add Cloudwatch Alarms with SNS notifications.
 - [Lambda prune ★19 ⏳1Y](https://github.com/Nopik/serverless-lambda-prune-plugin) - Automatically remove unused Lambda functions.
 - [Autoprune ★4 ⏳1Y](https://github.com/kennu/serverless-plugin-autoprune) - Automatically remove unused Lambda functions.
 - [Swagger](https://github.com/marklawlor/serverless-swagger) - Swagger.io plugin.

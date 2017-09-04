@@ -315,7 +315,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [IBAnalyzer ★818](https://github.com/fastred/IBAnalyzer) - Find common xib and storyboard-related problems without running your app or writing unit tests. :large_orange_diamond:
 * [Dotzu ★1130](https://github.com/remirobert/Dotzu) - iOS app debugger while using the app. Crash report, logs, network.
 * [CleanArchitectureRxSwift ★729](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift. :large_orange_diamond:
-* [PIDOR ★303](https://github.com/applepride/pidor) - Simple design pattern with the best iOS dev experience.
 * [DecouplingKit ★111](https://github.com/coderyi/DecouplingKit) - decoupling between modules in your iOS Project.
 * [Clue ★237](https://github.com/Geek-1001/Clue) - Flexible bug report framework for iOS with screencast, networking, interactions and view structure.
 * [Viperit ★174](https://github.com/ferranabello/Viperit) - Viper Framework for iOS. Develop an app following VIPER architecture in an easy way. Written and tested in Swift. :large_orange_diamond:
@@ -420,7 +419,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [realm-cocoa-converter ★131](https://github.com/realm/realm-cocoa-converter) - A library that provides the ability to import/export Realm files from a variety of data container formats. :large_orange_diamond:
 * [YapDatabaseExtensions ★81](https://github.com/danthorpe/YapDatabaseExtensions) - YapDatabase extensions for use with Swift :large_orange_diamond:
 * [RealmGeoQueries ★90](https://github.com/mhergon/RealmGeoQueries) - RealmGeoQueries simplifies spatial queries with Realm Cocoa. In the absence of and official functions, this library provide the possibility to do proximity search.  :large_orange_diamond:[e]
-* [SwiftMongoDB ★266](https://github.com/Danappelxx/SwiftMongoDB) - A MongoDB interface for Swift :large_orange_diamond:
+* [SwiftMongoDB ★266 ⏳1Y](https://github.com/Danappelxx/SwiftMongoDB) - A MongoDB interface for Swift :large_orange_diamond:
 * [ObjectiveRocks ★37](https://github.com/iabudiab/ObjectiveRocks) - An Objective-C wrapper of Facebook's RocksDB - A Persistent Key-Value Store for Flash and RAM Storage.
 * [OHMySQL ★26](https://github.com/oleghnidets/OHMySQL) - An Objective-C wrapper of MySQL C API.
 * [SwiftStore ★54](https://github.com/hemantasapkota/SwiftStore) - Key-Value store for Swift backed by LevelDB :large_orange_diamond:
@@ -1204,6 +1203,7 @@ Most of these are paid services, some have free tiers.
 #### Official
 
 * [Spotify ★755](https://github.com/spotify/ios-sdk) Spotify iOS SDK.
+* [SpotifyLogin ★142](https://github.com/spotify/SpotifyLogin) Spotify SDK Login in Swift. :large_orange_diamond:
 * [Facebook ★5781](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK.
 * [Facebook Swift ★1170](https://github.com/facebook/facebook-sdk-swift) Integrate your iOS apps in Swift with Facebook Platform.
 * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
@@ -1405,7 +1405,7 @@ Most of these are paid services, some have free tiers.
 #### A/B Testing
 * [Switchboard ★260 ⏳1Y](https://github.com/KeepSafe/Switchboard) - Switchboard - easy and super light weight A/B testing for your mobile iPhone or android app. This mobile A/B testing framework allows you with minimal servers to run large amounts of mobile users.
 * [SkyLab ★681 ⏳3Y](https://github.com/mattt/SkyLab) - Multivariate & A/B Testing for iOS and Mac
-* [MSActiveConfig ★81 ⏳3Y](https://github.com/mindsnacks/MSActiveConfig) - Remote configuration and A/B Testing framework for iOS
+* [MSActiveConfig ★81 ⏳4Y](https://github.com/mindsnacks/MSActiveConfig) - Remote configuration and A/B Testing framework for iOS
 * [ABKit ★95](https://github.com/recruit-mp/ABKit) - AB testing framework for iOS :large_orange_diamond:
 
 #### UI Testing
@@ -2053,7 +2053,7 @@ Most of these are paid services, some have free tiers.
 * [MMSegmentSlider ★26](https://github.com/MedvedevMax/MMSegmentSlider) - Customizable animated slider for iOS.
 * [StepSlider ★118](https://github.com/spromicky/StepSlider) - StepSlider its custom implementation of slider such as UISlider for preset integer values.
 * [JDSlider ★68](https://github.com/JellyDevelopment/JDSlider) - An iOS Slider written in Swift. :large_orange_diamond:
-* [SnappingSlider ★520](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift :large_orange_diamond:
+* [SnappingSlider ★520 ⏳1Y](https://github.com/rehatkathuria/SnappingSlider) - A beautiful slider control for iOS built purely upon Swift :large_orange_diamond:
 * [MTCircularSlider ★15](https://github.com/EranBoudjnah/MTCircularSlider) - A feature-rich circular slider control. :large_orange_diamond:
 * [VerticalSlider ★24](https://github.com/jonkykong/VerticalSlider) - VerticalSlider is a vertical implementation of the UISlider slider control. :large_orange_diamond:
 * [CircularSlider ★146](https://github.com/taglia3/CircularSlider) - A powerful Circular Slider. It's written in Swift, it's 100% IBDesignable and all parameters are IBInspectable. :large_orange_diamond:
@@ -2334,7 +2334,7 @@ Most of these are paid services, some have free tiers.
 
 ## VR
 * [VR Toolkit iOS ★73 ⏳1Y](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS :large_orange_diamond:
-* [360 VR Player ★1653](https://github.com/hanton/HTY360Player) - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
+* [360 VR Player ★1653 ⏳1Y](https://github.com/hanton/HTY360Player) - A open source, ad-free, native and universal 360 degree panorama video player for iOS.
 * [simple360player ★123 ⏳1Y](https://github.com/Aralekk/simple360player_iOS) - Free & ad-free 360 VR Video Player. Flat or Stereoscopic. In Swift 2. :large_orange_diamond:
 
 ## Walkthrough / Intro / Tutorial
@@ -2528,7 +2528,7 @@ Most of these are paid services, some have free tiers.
 * [SCXcodeSwitchExpander ★665](https://github.com/stefanceriu/SCXcodeSwitchExpander) - SCXcodeSwitchExpander is a small Xcode plugin that expands switch statements by inserting missing cases.
 * [VVDocumenter-Xcode ★8407](https://github.com/onevcat/VVDocumenter-Xcode) - Xcode plug-in which helps you write Javadoc style documents easier.
 * [XAlign ★2685](https://github.com/qfish/XAlign) - An amazing Xcode plugin to align regular code. It can align anything by using custom alignment patterns.
-* [CocoaPods Xcode Plugin ★2388](https://github.com/kattrali/cocoapods-xcode-plugin) - Dependency management helper for your CocoaPods, right in Xcode.
+* [CocoaPods Xcode Plugin ★2388 ⏳1Y](https://github.com/kattrali/cocoapods-xcode-plugin) - Dependency management helper for your CocoaPods, right in Xcode.
 * [KSImageNamed-Xcode ★4284](https://github.com/ksuther/KSImageNamed-Xcode) - Xcode plug-in that provides autocomplete for imageNamed: calls.
 * [ColorSense-for-Xcode ★2907 ⏳1Y](https://github.com/omz/ColorSense-for-Xcode) - Plugin for Xcode to make working with colors more visual.
 * [Backlight-for-XCode ★438 ⏳1Y](https://github.com/limejelly/Backlight-for-XCode) - Highlights the current editing line in Xcode
@@ -2587,7 +2587,7 @@ Most of these are paid services, some have free tiers.
 
 #### Themes
 * [Dracula Theme ★12 ⏳1Y](https://github.com/zenorocha/dracula-theme) - A dark theme for Xcode.
-* [Xcode themes list ★1665](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
+* [Xcode themes list ★1665 ⏳1Y](https://github.com/hdoria/xcode-themes) - Color themes for Xcode.
 * [Solarized-Dark-for-Xcode ★265](https://github.com/ArtSabintsev/Solarized-Dark-for-Xcode) - Solarized Dark Theme for Xcode 5.
 * [WWDC2016 Xcode Color Scheme ★349 ⏳1Y](https://github.com/cargath/WWDC2016-Xcode-Color-Scheme) - A color scheme for Xcode based on the WWDC 2016 invitation.
 

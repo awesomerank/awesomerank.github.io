@@ -20,7 +20,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 - [DSL](#dsl)
 - [Data Pipeline](#data-pipeline)
 - [Online Machine Learning](#online-machine-learning)
-- [Stream SQL](#stream-sql)
+- [Streaming SQL](#streaming-sql)
 - [Toolkit](#toolkit)
 - [Benchmark](#benchmark)
 - [Readings](#readings)
@@ -54,7 +54,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [Akka Streams](http://doc.akka.io/docs/akka/2.4.16/scala/stream/stream-introduction.html) [Scala] - stream processing library on Akka Actors. 
 * [Swave](http://swave.cc/) [Scala] - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
 * [FS2(prev. 'Scalaz-Stream') ★867](https://github.com/functional-streams-for-scala/fs2) [Scala] - Compositional, streaming I/O library for Scala.
-* [monifu](https://github.com/monifu/monifu) [Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
+* [monix ★864](https://github.com/monix/monix) [Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
 
 ### Streaming Application
 
@@ -72,7 +72,6 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [Apache Beam](https://github.com/apache/incubator-beam) [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 * [Esper ★283](https://github.com/espertechinc/esper) [Java] - component for complex event processing (CEP) and event series analysis.
 * [Streamparse ★1180](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
-* [KSQL ★652](https://github.com/confluentinc/ksql) [Java] - a Streaming SQL Engine for Apache Kafka.
 
 ### Data Pipeline
 
@@ -97,11 +96,13 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [DataSketches ★447](https://github.com/DataSketches/sketches-core) [Java] - sketches library from Yahoo!.
 * [StreamingBandit](https://github.com/MKaptein/streamingbandit) [Python] - Provides a webserver to quickly setup and evaluate possible solutions to contextual multi-armed bandit (cMAB) problems.
 
-### Stream SQL
+### Streaming SQL
 
 * [pipelinedb ★1370](https://github.com/pipelinedb/pipelinedb) [C] - An open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
 * [squall ★258](https://github.com/epfldata/squall) [Java] - Squall executes SQL queries on top of Storm for doing online processing.
 * [StreamCQL ★308](https://github.com/HuaweiBigData/StreamCQL) [Java] - Continuous Query Language on RealTime Computation System.
+* [KSQL ★652](https://github.com/confluentinc/ksql) [Java] - a Streaming SQL Engine for Apache Kafka.
+
 
 ### Benchmark
 

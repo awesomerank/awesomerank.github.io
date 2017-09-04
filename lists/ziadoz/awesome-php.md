@@ -370,7 +370,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [GenPhrase ★67](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
 * [Password Compat ★1876](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
-* [Password Policy ★53](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
+* [Password Policy ★53 ⏳1Y](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
 * [Password Validator ★133](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 * [Password-Generator ★78](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
 * [PHP Password Lib ★354 ⏳2Y](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.

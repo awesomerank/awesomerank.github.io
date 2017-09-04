@@ -230,6 +230,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [cr-melon ★5](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
  * [Crystal-DI ★5](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [crystal-mime ★16](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
+ * [graphql-crystal ★39](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
  * [kave ★14](https://github.com/jwoertink/kave) - Kemal API Version Extension
  * [kemal-auth-token ★15](https://github.com/akwiatkowski/kemal-auth-token) - Kemal middleware to authentication via HTTP header token using JWT
  * [kemal-flash ★5](https://github.com/neovintage/kemal-flash) - Temporary storage between actions in Kemal
@@ -239,6 +240,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemalyst-i18n ★1](https://github.com/TechMagister/kemalyst-i18n) - i18n support for Kemalyst
  * [mime-types.cr ★6](https://github.com/jwaldrip/mime-types.cr) - A port of the Ruby MIME-types library
  * [multi-auth ★17](https://github.com/msa7/multi_auth) - Standardized multi-provider OAuth2 authentication (inspired by omniauth)
+ * [phoenix.cr ★11](https://github.com/dtcristo/phoenix.cr) - Phoenix Channels client
  * [request_id ★0](https://github.com/SuperPaintman/request-id) - Middleware for generates / pick up a unique request ID for Crystal servers
  * [response_time ★6](https://github.com/SuperPaintman/response-time) - Response time for Crystal servers (pure http server, kemal, etc.)
  * [spec-kemal ★28](https://github.com/kemalcr/spec-kemal) - Easy testing for Kemal

@@ -360,7 +360,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
 - [Math snippets ★22](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
-- [Learning Maths again ★122 ⏳1Y](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
+- [Learning Maths again ★122 ⏳2Y](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 - [Eases ★176](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
 - [Math for Motion](https://soulwire.co.uk/math-for-motion/) - Visualization of different motion equations.
 - [Matrix Multiplication](http://matrixmultiplication.xyz) - Matrix multiplication visualized.

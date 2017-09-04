@@ -822,7 +822,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [jsonapi ★208](https://github.com/jeregrine/jsonapi) - A project that will render your data models into [JSONAPI Documents](http://jsonapi.org/format/).
 * [jsx ★526](https://github.com/talentdeficit/jsx) - An Erlang application for consuming, producing, and manipulating json.
 * [jsxn ★30 ⏳1Y](https://github.com/talentdeficit/jsxn) - jsx but with maps.
-* [jwalk ★6](https://github.com/jr0senblum/jwalk) - Helper module for working with Erlang representations of JSON.
+* [jwalk ★6 ⏳1Y](https://github.com/jr0senblum/jwalk) - Helper module for working with Erlang representations of JSON.
 * [jwtex ★4 ⏳2Y](https://github.com/mschae/jwtex) - A library to encode and decode [JWT tokens](http://jwt.io/).
 * [poison ★1164](https://github.com/devinus/poison) - Poison is a new JSON library for Elixir focusing on wicked-fast speed without sacrificing simplicity, completeness, or correctness.
 * [tiny](https://github.com/zackehh/tiny) - Tiny, fast and fully compliant JSON parser for Elixir.
@@ -935,7 +935,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mixstar ★13 ⏳1Y](https://github.com/ma2gedev/mix-star) - MixStar starred GitHub repository that depends on your project.
 * [netrc ★4 ⏳1Y](https://github.com/ma2gedev/netrcex) - Reads netrc files implemented in Elixir.
 * [notifier](https://hex.pm/packages/notifier) - A pluggable architecture for desktop notifications.
-* [onetime ★4](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
+* [onetime ★4 ⏳1Y](https://github.com/ryo33/onetime-elixir) - An onetime key-value store for Elixir.
 * [pact ★40](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
 * [phone ★43](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 * [porcelain ★514](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
@@ -1296,7 +1296,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [inet_cidr ★10](https://github.com/cobenian/inet_cidr) - Classless Inter-Domain Routing (CIDR) for Elixir that is compatible with :inet and supports both IPv4 and IPv6.
 * [inflex ★106](https://github.com/nurugger07/inflex) - An Inflector library for Elixir.
 * [kitsune ★9 ⏳2Y](https://github.com/edubkendo/kitsune) - An Elixir library for transforming the representation of data.
-* [ltsvex ★9 ⏳1Y](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
+* [ltsvex ★9 ⏳2Y](https://github.com/ma2gedev/ltsvex) - LTSV parser implementation in Elixir.
 * [mbcs ★13](https://github.com/woxtu/elixir-mbcs) - Wrapper for erlang-mbcs. This module provides functions for character encoding conversion.
 * [mimetype_parser ★2](https://github.com/camshaft/mimetype_parser) - parse mimetypes.
 * [monetized ★30](https://github.com/theocodes/monetized) - A lightweight solution for handling and storing money.

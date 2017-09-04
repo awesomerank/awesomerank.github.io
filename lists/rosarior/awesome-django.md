@@ -204,7 +204,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 * [dj-database-url ★594](https://github.com/kennethreitz/dj-database-url) - Use Database URLs in your Django Application.
 * [django-mysql ★140](https://github.com/adamchainz/django-mysql) - Extensions to Django for use with MySQL/MariaDB.
-* [django-postgres-fuzzycount ★57](https://github.com/stephenmcd/django-postgres-fuzzycount) - Fast / fuzzy PostgreSQL counts for Django.
+* [django-postgres-fuzzycount ★57 ⏳1Y](https://github.com/stephenmcd/django-postgres-fuzzycount) - Fast / fuzzy PostgreSQL counts for Django.
 * [django-postgrespool ★264](https://github.com/kennethreitz/django-postgrespool) - Postgres Connection Pooling for Django, powered by SQLAlchemy.
 
 ## Debugging

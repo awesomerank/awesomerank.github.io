@@ -23,6 +23,7 @@ title: Awesome Rank for vuejs/awesome-vue
     - [External Resources](#external-resources)
     - [Job Portal](#job-portal)
     - [Community](#community)
+    - [Conferences](#conferences)
     - [Podcasts](#podcasts)
     - [Official Examples](#official-examples)
     - [Tutorials](#tutorials)
@@ -184,6 +185,11 @@ title: Awesome Rank for vuejs/awesome-vue
 - [VueJS Spanish - Slack Group](http://vuejs-es.herokuapp.com/)
 - [VueJS Korean - Slack Group](https://vuejs-korea.signup.team/)
 
+### Conferences
+
+- [VueConf](http://conf.vuejs.org)
+- [Vue.js London](http://vuejs.london)
+
 ### Podcasts
 
 - [Full Stack Radio #30 (11-23-2015)](http://www.fullstackradio.com/30)
@@ -221,7 +227,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Dynamic Components in Vue.js](https://coligo.io/dynamic-components-in-vuejs/) on Coligo.io
 - [Develop a Reactive Invoice App using Vue.js](http://craigmckenna.com/develop-a-reactive-invoice-app-using-vue-js/) on craigmckenna.com
 - [Understanding Filters in Vue.js](http://coligo.io/vuejs-filters/) on Coligo.io
-- [Hybrid App Example with Laravel and Vue.js in portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by @vedovelli
+- [Hybrid App Example with Laravel and Vue.js in Portuguese](https://www.youtube.com/watch?v=TGSJjDahlrQ) by @vedovelli
 - [Creating a Markdown Editor with VueJs and GitHub's API](http://coligo.io/markdown-editor-vuejs/) on Coligo.io
 - [Building a Real-Time Web Analytics Dashboard with NodeJs, Socket.io, and VueJs](http://coligo.io/real-time-analytics-with-nodejs-socketio-vuejs/) on Coligo.io
 - [Vue.js Introduction Turkish Language](http://oguzhan.in/vue-js-ile-uygulama-gelistirme/) on oguzhan.in
@@ -369,6 +375,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vue-minesweeper ★0](https://github.com/rhapsodyn/vue-minesweeper) - A deadly simple minesweeper game with vuejs by [rhapsodyn](https://github.com/rhapsodyn)
   - [X-Flowchart-Vue ★5](https://github.com/OXOYO/X-Flowchart-Vue) - A flowchart editor with SVG and Vue by [OXOYO](https://github.com/OXOYO)
   - [koa-vue-notes-web ★0](https://github.com/johndatserakis/koa-vue-notes-web) - A fleshed-out SPA using Koa 2.3 on the backend and Vue 2.4 on the frontend. Includes fully featured user-authentication components, CRUD actions for the user's notes, and Vuex store modules.
+  - [Vuejs Shopping Cart ★43](https://github.com/ittus/vuejs-firebase-shopping-cart) - Shopping cart example using Vuejs and Firebase
 
 ### Books
 
@@ -454,6 +461,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 
  - [Wijmo](http://wijmo.com/products/wijmo-5/) - A collection of UI controls with VueJS support.
  - [Collate Notes](http://www.collatenotes.com/)
+ - [Formester](https://www.formester.com/) - Form, email marketing automation made easy
 
 
 ### Apps/Websites
@@ -480,7 +488,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [cloudradioo](http://cloudradioo.com) - Web app that plays randomly all top 50 songs from the soundcloud charts
   - [vNotes](https://halfeld.github.io/v-notes/#!/) - Simple and beautiful notepad to Markdown with Vue.js and Local Storage API.
   - [Open Function Computers](http://www.openfunctioncomputers.com/#!/home)
-  - [Dermail ★18](https://github.com/zllovesuki/dermail-webmail) - A webmail client written in Vue.js for Dermail, a mail systemn written in node.js.
+  - [Dermail ★18](https://github.com/zllovesuki/dermail-webmail) - A webmail client written in Vue.js for Dermail, a mail system written in node.js.
   - [octimine](https://www.octimine.com/) - A patent search engine.
   - [Draxed](https://www.draxed.com/) - A web based MySQL and PostgreSQL data browser and dashboard manager.
   - [Leapspotleap](http://www.leapspotleap.com) - A simple way to look up wikipedia articles near you. Or simply navigate to a place and find interesting wikipedia information. Responsive web app.
@@ -539,6 +547,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Develteam](https://www.develteam.com) - A social network for indie game dievelopers.
   - [Mixsii](https://www.mixsii.com) - A free video chat room site for teens, adults, family, and friends.
   - [PipQuest](http://pipquest.gregorterrill.com) - A retro-style puzzle game built in Vue
+  - [Matryx](https://matryx.ai/) - A decentralized collaboration platform.
 
 ### Interactive Experiences
 
@@ -623,6 +632,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-notifyjs ★58](https://github.com/cristijora/vue-notifyjs) - Minimalist, 3kb themable notification plugin
  - [vueup ★25](https://github.com/chryb/vueup) - Simple, lightweight and elegant global notification popup for Vue.js
  - [vuex-flash ★4](https://github.com/ahmed-dinar/vuex-flash) - Flash message component for VueJS 2.x within Vuex 2.x.
+ - [vue-snotify ★29](https://github.com/artemsky/vue-snotify) - Vue.js 2 Notification Center
 
 ### Loader
 
@@ -815,6 +825,7 @@ Tooltips / popovers
  - [vue-affix ★49](https://github.com/eddiemf/vue-affix) - A Vue.js 2.x plugin that affixes an element in the window while you scroll, similar to Bootstrap Affix but much simpler and smarter
  - [X-Browser-Update-Vue ★2](https://github.com/OXOYO/X-Browser-Update-Vue) - A Vue.js browser-update plugin.
  - [vue-query-builder ★117](https://github.com/dabernathy89/vue-query-builder) - A UI component for building complex queries with nested conditionals.
+ - [vue-info-card ★14](https://github.com/karakanb/vue-info-card) - A simple and beautiful card component with an elegant spark line and CSS3 flip animation.
 
 ### Tabs
 
@@ -841,6 +852,7 @@ Tooltips / popovers
 - [vue-bootstrap-datetimepicker](https://github.com/ankurk91/vue-bootstrap-datetimepicker) Vue.js component for [eonasdan-bootstrap-datetimepicker ★5714](https://github.com/Eonasdan/bootstrap-datetimepicker)
 - [vue-jalaali-datepicker ★2](https://github.com/pepour/vue-jalaali-datepicker) - Jalaali calendar and datepicker for vue.js 2.
 - [vue-date-picker ★4](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
+- [vue-monthly-picker ★3](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
 
 #### Select
 
@@ -998,7 +1010,7 @@ Tooltips / popovers
  - [vulma](https://vulma.org) - Vue + Bulma = Vulma.
  - [vue-bulma-components ★29](https://github.com/vouill/vue-bulma-components) - Easily use bulma class syntax with vue components.
  - [iview-ui](https://www.iviewui.com) - A Vue.js 2.0 UI Framework for web.
-
+ - [AT-UI](https://at.aotu.io) - A fresh and flat UI-Kit specially for desktop application, made with ♥ by Vue.js 2.0
 ### Mobile
 
 *UI frameworks for mobile*
@@ -1006,6 +1018,7 @@ Tooltips / popovers
  - [Framework7-Vue ★313](https://github.com/nolimits4web/Framework7-Vue) - Build full featured iOS & Android apps using Framework7 & Vue.
  - [vux ★8926](https://github.com/airyland/vux) - [Chinese] Vue UI Components based on WeUI.
  - [vue-onsenui ★5185](https://github.com/OnsenUI/OnsenUI) - Mobile app development framework and SDK using HTML5 and JavaScript. Create beautiful and performant cross-platform mobile apps. Based on Web Components, and provides bindings for Angular 1, 2, React and Vue.js.
+ - [Weex](https://weex.incubator.apache.org/) - Weex provides the ability to publish cross platform, so web, Android, and IOS apps can use the same API development functions.
 
 ### Component Collections
 
@@ -1069,6 +1082,7 @@ Tooltips / popovers
  - [vue-responsive ★11](https://github.com/reinerBa/Vue-Responsive): Vue.js(2.x) directive to hide/show HTML-elements with the Bootstrap 4, 3 or self defined breakpoints.
  - [vue-match-media ★7](https://github.com/drenglish/vue-match-media) - Vue 2.x-compatible plugin that offers a consistent, semantic approach to making components media query-aware.
  - [vue-media-query-mixin ★2](https://github.com/jofftiquez/vue-media-query-mixin) - Vue 2 media query mixin that can be used in both component js and component template. Compatible with bootstrap and vuetify viewports. `wXS` returns if screen width is xs, `wSM` returns true if screen width is sm, etc...
+ - [vue-breakpoints ★10](https://github.com/apertureless/vue-breakpoints) - Vue 2 minimal components to show and hide elements based on breakpoints. Inspired by Airbnb.
 
 ### Form
 
@@ -1179,14 +1193,11 @@ Tooltips / popovers
 ### WebGL
 
 - [vue-3d-model ★156](https://github.com/hujiulong/vue-3d-model) - A 3D model viewer in Vue component.
+- [vue-pano ★122](https://github.com/ChiChou/vue-pano) - A panorama viewer in Vue component.
 
 ### Fullscreen
 
 - [vue-fullscreen ★2](https://github.com/mirari/vue-fullscreen) - A simple Vue component for fullscreen.
-
-
-
-
 
 ## Utilities
 
@@ -1243,7 +1254,7 @@ Tooltips / popovers
  - [vue-localstorage ★128](https://github.com/pinguinjkeke/vue-local-storage) - Vue.js localStorage plugin with types support.
  - [vue-ls ★69](https://github.com/RobinCK/vue-ls) - Vue plugin for work with LocalStorage from Vue context.
  - [vue-pouch](https://github.com/qurateinc/vue-pouch) - Live and reactive bindings for PouchDB. Persist data in IndexedDB and sync with CouchDB.
- - [vue-idb ★6](https://github.com/ddgll/vue-idb) - Lists and huge lists managment with IndexedDB (Dexie.js) only or automaticly created and extendible vuex modules
+ - [vue-idb ★6](https://github.com/ddgll/vue-idb) - Lists and huge lists management with IndexedDB (Dexie.js) only or automatically created and extendible vuex modules
 
 ### State Management
 
@@ -1351,7 +1362,7 @@ Tooltips / popovers
  - [vue-backbone ★16](https://github.com/mikeapr4/vue-backbone) - Vue.js Plugin to facilitate Backbone integration.
 
 ### Web Sockets
- - [vue-socket.io ★623](https://github.com/MetinSeylan/Vue-Socket.io) - Socket.io implemantation for vuejs.
+ - [vue-socket.io ★623](https://github.com/MetinSeylan/Vue-Socket.io) - Socket.io implementation for vuejs.
  - [vue-websocket ★122](https://github.com/icebob/vue-websocket) - Simple websocket (socket.io) plugin for Vue.js.
  - [vue-echo ★117](https://github.com/happyDemon/vue-echo) - Integrates Laravel Echo into Vue, allows for easy registration of socket events.
  - [vue-socket-cluster ★1](https://github.com/nigeltiany/vue-socket-cluster) - Web Sockets for vue with uws(Micro web sockets) through socket cluster
@@ -1409,7 +1420,7 @@ Tooltips / popovers
  - [vue-clicky ★53](https://github.com/Herteby/vue-clicky) - Right click any component to show info about it in the console.
  - [vuejs-logger ★8](https://github.com/justinkames/vuejs-logger) - Provides customizable logging functionality for Vue.js.
  - [vue-bugsnag ★1](https://github.com/ankurk91/vue-bugsnag) - Vue.js plugin for [bugsnag](https://www.bugsnag.com/) error reporting
- 
+
 ### Docs
 
 *Create documentation*

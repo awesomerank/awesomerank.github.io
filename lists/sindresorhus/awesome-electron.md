@@ -92,7 +92,7 @@ Made with Electron.
 - [Yeoman ★946](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
 - [Markn ★120 ⏳1Y](https://github.com/minodisk/markn) - Markdown viewer.
 - [Shiba ★532](https://github.com/rhysd/Shiba) - Live Markdown preview with linting.
-- [Yays ★55](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
+- [Yays ★55 ⏳1Y](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
 - [TimoFM ★226 ⏳1Y](https://github.com/sapjax/TimoFM) - DoubanFM music player.
 - [Monu ★1069 ⏳1Y](https://github.com/maxogden/monu) - Process monitoring.
 - [Tèsèvè](https://teseve.github.io) - Static webserver.

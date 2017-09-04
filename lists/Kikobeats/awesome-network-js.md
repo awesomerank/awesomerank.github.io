@@ -42,7 +42,7 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 
 * [airplay-server ★189](https://github.com/watson/airplay-server) – A low level AirPlay server.
 * [castnow ★75](https://github.com/xat/chromecast-player) – simple chromecast player.
-* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm ★164](https://github.com/mafintosh/webrtc-swarm).
+* [discovery-swarm](https://github.com/mafintosh/discovery-swarm) – A network swarm that uses [discovery-channel](https://github.com/maxogden/discovery-channel) to find peers. Also check [webrtc-swarm ★164 ⏳1Y](https://github.com/mafintosh/webrtc-swarm).
 * [dns-packet](https://github.com/mafintosh/dns-packet) – Abstract-encoding compliant module for encoding / decoding DNS packets. Also see [dns-socket ★55](https://github.com/mafintosh/dns-socket).
 * [etcdjs ★52](https://github.com/mafintosh/etcdjs) – Low level etcd v2 client written in Javascript with failover support.
 * [geocode-wifi ★24 ⏳2Y](https://github.com/watson/geocode-wifi) – Get yours latitude/longitude based on your wifi access point.

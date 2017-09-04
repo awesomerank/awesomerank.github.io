@@ -310,12 +310,14 @@ Persistent Volume Providers
 
 * [GCE](https://cloud.google.com/compute/)
 * [AWS](aws.amazon.com)
+* [Rook](https://rook.io/)
 * [Glusterfs](https://www.gluster.org/)
 * [OpenStack Cinder](https://wiki.openstack.org/cinder)
 * [CephRBD](http://ceph.com/ceph-storage/block-storage/)
 * [QuoByte](https://www.quobyte.com/)
 * [Kube-Aliyun ★46](https://github.com/kubeup/kube-aliyun)
 * [Portworx](https://portworx.com/)
+* [OpenEBS ★1820](https://github.com/openebs/openebs)
 
 Developer Libraries
 =======================================================================
@@ -579,7 +581,7 @@ Projects
 
 * [Consul](http://consul.io)
   * [Kelsey Hightower Consul ★177](https://github.com/kelseyhightower/consul-on-kubernetes)
-  * [Bridge between Kubernetes and Consul ★41](https://github.com/Beldur/kube2consul)
+  * [Bridge between Kubernetes and Consul ★41 ⏳1Y](https://github.com/Beldur/kube2consul)
 
 ## Operating System
 

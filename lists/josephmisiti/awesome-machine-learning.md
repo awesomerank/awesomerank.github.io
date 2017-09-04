@@ -9,7 +9,7 @@ title: Awesome Rank for josephmisiti/awesome-machine-learning
 ---
 # Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by awesome-php.
+A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
 If you want to contribute to this list (please do), send me a pull request or contact me [@josephmisiti](https://twitter.com/josephmisiti)
 Also, a listed repository should be deprecated if:
@@ -17,9 +17,15 @@ Also, a listed repository should be deprecated if:
 * Repository's owner explicitly say that "this library is not maintained".
 * Not committed for long time (2~3 years).
 
-For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
+Further resources:
 
-For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
+* For a list of free machine learning books available for download, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/books.md).
+
+* For a list of (mostly) free machine learning courses available online, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/courses.md).
+
+* For a list of blogs on data science and  machine learning, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/blogs.md).
+
+* For a list of free-to-attend meetups and local events, go [here](https://github.com/josephmisiti/awesome-machine-learning/blob/master/meetups.md).
 
 ## Table of Contents
 
@@ -196,6 +202,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [Vowpal Wabbit (VW)](https://github.com/JohnLangford/vowpal_wabbit/wiki) - A fast out-of-core learning system.
 * [Warp-CTC ★2903](https://github.com/baidu-research/warp-ctc) - A fast parallel implementation of Connectionist Temporal Classification (CTC), on both CPU and GPU.
 * [XGBoost ★8376](https://github.com/dmlc/xgboost) - A parallelized optimized general purpose gradient boosting library.
+* [LKYDeepNN ★6](https://github.com/mosdeo/LKYDeepNN) -  A header-only C++11 Neural Network library. Low dependency, native traditional chinese document.
 
 <a name="cpp-nlp"></a>
 #### Natural Language Processing
@@ -347,6 +354,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 <a name="java-nlp"></a>
 #### Natural Language Processing
 * [Cortical.io](http://www.cortical.io/) - Retina: an API performing complex NLP operations (disambiguation, classification, streaming text filtering, etc...) as quickly and intuitively as the brain.
+* [IRIS](https://github.com/cortical-io/Public/tree/master/iris) - [Cortical.io's](http://cortical.io) FREE NLP, Retina API Analysis Tool (written in JavaFX!) - [See the Tutorial Video](https://www.youtube.com/watch?v=CsF4pd7fGF0)
 * [CoreNLP](http://nlp.stanford.edu/software/corenlp.shtml) - Stanford CoreNLP provides a set of natural language analysis tools which can take raw English language text input and give the base forms of words
 * [Stanford Parser](http://nlp.stanford.edu/software/lex-parser.shtml) - A natural language parser is a program that works out the grammatical structure of sentences
 * [Stanford POS Tagger](http://nlp.stanford.edu/software/tagger.shtml) - A Part-Of-Speech Tagger (POS Tagger
@@ -475,6 +483,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 * [mil-tokyo](https://github.com/mil-tokyo) - List of several machine learning libraries
 * [Node-SVM ★235 ⏳1Y](https://github.com/nicolaspanel/node-svm) - Support Vector Machine for Node.js
 * [Brain ★7794](https://github.com/harthur/brain) - Neural networks in JavaScript **[Deprecated]**
+* [Brain.js](https://github.com/harthur-org/brain.js) - Neural networks in JavaScript - continued community fork of [Brain ★7794](https://github.com/harthur/brain)
 * [Bayesian-Bandit ★35](https://github.com/omphalos/bayesian-bandit.js) - Bayesian bandit implementation for Node and the browser.
 * [Synaptic ★4520](https://github.com/cazala/synaptic) - Architecture-free neural network library for Node.js and the browser
 * [kNear ★35 ⏳2Y](https://github.com/NathanEpstein/kNear) - JavaScript implementation of the k nearest neighbors algorithm for supervised learning
@@ -501,7 +510,7 @@ For a list of free-to-attend meetups and local events, go [here](https://github.
 <a name="julia-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [MachineLearning ★75 ⏳1Y](https://github.com/benhamner/MachineLearning.jl) - Julia Machine Learning library
+* [MachineLearning ★75 ⏳2Y](https://github.com/benhamner/MachineLearning.jl) - Julia Machine Learning library
 * [MLBase ★96](https://github.com/JuliaStats/MLBase.jl) - A set of functions to support the development of machine learning algorithms
 * [PGM ★39 ⏳3Y](https://github.com/JuliaStats/PGM.jl) - A Julia framework for probabilistic graphical models.
 * [DA ★5](https://github.com/trthatcher/DiscriminantAnalysis.jl) - Julia package for Regularized Discriminant Analysis
@@ -808,6 +817,7 @@ be
 * [OpenFace](https://cmusatyalab.github.io/openface/) - Free and open source face recognition with deep neural networks.
 * [PCV ★1139](https://github.com/jesolem/PCV) - Open source Python module for computer vision
 * [face_recognition ★5570](https://github.com/ageitgey/face_recognition) - Face recognition library that recognize and manipulate faces from Python or from the command line
+* [dockerface ★11](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
 
 <a name="python-nlp"></a>
 #### Natural Language Processing
@@ -877,7 +887,7 @@ be
 * [thinking bayes ★693](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis
 * [Image-to-Image Translation with Conditional Adversarial Networks ★11](https://github.com/williamFalcon/pix2pix-keras) - Implementation of image to image (pix2pix) translation from the paper by [isola et al](https://arxiv.org/pdf/1611.07004.pdf).[DEEP LEARNING]
 * [Restricted Boltzmann Machines ★569](https://github.com/echen/restricted-boltzmann-machines) -Restricted Boltzmann Machines in Python. [DEEP LEARNING]
-* [Bolt ★75 ⏳5Y](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox
+* [Bolt ★75 ⏳6Y](https://github.com/pprett/bolt) - Bolt Online Learning Toolbox
 * [CoverTree ★20 ⏳5Y](https://github.com/patvarilly/CoverTree) - Python implementation of cover trees, near-drop-in replacement for scipy.spatial.kdtree
 * [nilearn ★285](https://github.com/nilearn/nilearn) - Machine learning for NeuroImaging in Python
 * [imbalanced-learn](http://contrib.scikit-learn.org/imbalanced-learn/) - Python module to perform under sampling and over sampling with various techniques.
@@ -1071,7 +1081,7 @@ be
 * [rsruby ★316](https://github.com/alexgutteridge/rsruby) - Ruby - R bridge
 * [data-visualization-ruby ★68 ⏳7Y](https://github.com/chrislo/data_visualisation_ruby) - Source code and supporting content for my Ruby Manor presentation on Data Visualisation with Ruby
 * [ruby-plot](https://www.ruby-toolbox.com/projects/ruby-plot) - gnuplot wrapper for ruby, especially for plotting roc curves into svg files
-* [plot-rb ★37 ⏳3Y](https://github.com/zuhao/plotrb) - A plotting library in Ruby built on top of Vega and D3.
+* [plot-rb ★37 ⏳4Y](https://github.com/zuhao/plotrb) - A plotting library in Ruby built on top of Vega and D3.
 * [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html) - A beautiful graphing toolkit for Ruby
 * [SciRuby](http://sciruby.com/)
 * [Glean ★116](https://github.com/glean/glean) - A data management tool for humans

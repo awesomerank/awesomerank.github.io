@@ -107,7 +107,7 @@ An NLP Pipeline starts with a plain text.
 
 - [composable_operations ★34](https://github.com/t6d/composable_operations) -
   Definition framework for operation pipelines.
-- [ruby-spark ★174](https://github.com/ondra-m/ruby-spark) -
+- [ruby-spark ★174 ⏳1Y](https://github.com/ondra-m/ruby-spark) -
   Spark bindings with an easy to understand DSL.
 - [phobos ★58](https://github.com/klarna/phobos) -
   Simplified Ruby Client for [Apache Kafka](https://kafka.apache.org/).
@@ -528,7 +528,7 @@ the underlying language.
 
 ## Projects and Code Examples
 
-- [Going the Distance ★55](https://github.com/schneems/going_the_distance) -
+- [Going the Distance ★55 ⏳1Y](https://github.com/schneems/going_the_distance) -
   Implementations of various distance algorithms with example calculations.
 - [Named entity recognition with Stanford NER and Ruby ★14 ⏳5Y](https://github.com/mblongii/ruby-ner) -
   NER Examples in Ruby and Java with some [explanations](https://web.archive.org/web/20120722225402/http://mblongii.com/2012/04/15/named-entity-recognition-with-stanford-ner-and-ruby/).

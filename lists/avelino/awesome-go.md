@@ -204,7 +204,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [goConfig ★43](https://github.com/crgimenes/goConfig) - Parse a struct as input and populates the fields of this struct with parameters fom command line, environment variables and configuration file.
 * [godotenv ★645](https://github.com/joho/godotenv) - Go port of Ruby's dotenv library (Loads environment variables from `.env`).
 * [gofigure ★42](https://github.com/ian-kent/gofigure) - Go application configuration made easy.
-* [gone/jconf](https://github.com/One-com/gone/tree/master/jconf#readme) - Modular JSON configuration. Keep you config structs along the code they configure and delegate parsing to submodules without sacrificing full config serialization.
+* [gone/jconf](https://github.com/One-com/gone/tree/master/jconf) - Modular JSON configuration. Keep you config structs along the code they configure and delegate parsing to submodules without sacrificing full config serialization.
 * [hjson ★87](https://github.com/hjson/hjson-go) - Human JSON, a configuration file format for humans. Relaxed syntax, fewer mistakes, more comments.
 * [ingo ★13](https://github.com/schachmat/ingo) - Flags persisted in an ini-like config file.
 * [ini ★640](https://github.com/go-ini/ini) - Go package for read and write INI files.
@@ -417,7 +417,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [micro ★3444](https://github.com/micro/micro) - Pluggable microservice toolkit and distributed systems platform.
 * [NATS ★3294](https://github.com/nats-io/gnatsd) - Lightweight, high performance messaging system for microservices, IoT, and cloud native systems.
 * [raft ★1290](https://github.com/hashicorp/raft) - Golang implementation of the Raft consensus protocol, by HashiCorp.
-* [raft](https://github.com/coreos/etcd/tree/master/raft#readme) - Go implementation of the Raft consensus protocol, by CoreOS.
+* [raft](https://github.com/coreos/etcd/tree/master/raft) - Go implementation of the Raft consensus protocol, by CoreOS.
 * [ringpop-go ★355](https://github.com/uber/ringpop-go) - Scalable, fault-tolerant application-layer sharding for Go applications.
 * [rpcx ★1337](https://github.com/smallnest/rpcx) - Distributed pluggable RPC service framework like alibaba Dubbo.
 * [sleuth](https://github.com/ursiform/sleuth) - Library for master-less p2p auto-discovery and RPC between HTTP services (using [ZeroMQ ★3600](https://github.com/zeromq/libzmq)).
@@ -634,7 +634,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-logger ★162](https://github.com/apsdehal/go-logger) - Simple logger of Go Programs, with level handlers.
 * [gologger ★25](https://github.com/sadlil/gologger) - Simple easy to use log lib for go, logs in Colored Console, Simple Console, File or Elasticsearch.
 * [gomol ★6](https://github.com/aphistic/gomol) - Multiple-output, structured logging for Go with extensible logging outputs.
-* [gone/log](https://github.com/One-com/gone/tree/master/log#readme) - Fast, extendable, full-featured, std-lib source compatible log library.
+* [gone/log](https://github.com/One-com/gone/tree/master/log) - Fast, extendable, full-featured, std-lib source compatible log library.
 * [log ★423](https://github.com/apex/log) - Structured logging package for Go.
 * [log ★216](https://github.com/go-playground/log) - Simple, configurable and scalable Structured Logging for Go.
 * [log-voyage ★70](https://github.com/firstrow/logvoyage) - Full-featured logging saas written in golang.
@@ -682,7 +682,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [mlgo ★3 ⏳1Y](https://github.com/NullHypothesis/mlgo) - This project aims to provide minimalistic machine learning algorithms in Go.
 * [neat ★27](https://github.com/jinyeom/neat) - Plug-and-play, parallel Go framework for NeuroEvolution of Augmenting Topologies (NEAT).
 * [neural-go ★54 ⏳3Y](https://github.com/schuyler/neural-go) - Multilayer perceptron network implemented in Go, with training via backpropagation.
-* [probab ★6 ⏳1Y](https://github.com/ThePaw/probab) - Probability distribution functions. Bayesian inference. Written in pure Go.
+* [probab ★6 ⏳2Y](https://github.com/ThePaw/probab) - Probability distribution functions. Bayesian inference. Written in pure Go.
 * [regommend ★162](https://github.com/muesli/regommend) - Recommendation & collaborative filtering engine.
 * [shield ★104 ⏳1Y](https://github.com/eaigner/shield) - Bayesian text classifier with flexible tokenizers and storage backends for Go.
 
@@ -757,7 +757,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [margelet ★46](https://github.com/zhulik/margelet) - Framework for building Telegram bots.
 * [secdl ★5](https://github.com/xor-gate/secdl) - Lighttpd ModSecDownload algorithm ported to go to secure download urls.
 * [slacker ★102](https://github.com/shomali11/slacker) - Easy to use framework to create Slack bots.
-* [stats ★71](https://github.com/go-playground/stats) - Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc...
+* [stats ★71 ⏳1Y](https://github.com/go-playground/stats) - Monitors Go MemStats + System stats such as Memory, Swap and CPU and sends via UDP anywhere you want for logging etc...
 * [uuid ★2](https://github.com/agext/uuid) - Generate, encode, and decode UUIDs v1 with fast or cryptographic-quality random node identifier.
 * [VarHandler](https://github.com/azr/generators/tree/master/varhandler) - Generate boilerplate http input and ouput handling.
 * [werr ★5 ⏳1Y](https://github.com/txgruppi/werr) - Error Wrapper creates an wrapper for the error type in Go which captures the File, Line and Stack of where it was called.
@@ -769,7 +769,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 *Libraries for working with human languages.*
 
 * [dpar ★18 ⏳1Y](https://github.com/danieldk/dpar) - Transition-based statistical dependency parser.
-* [go-eco ★2 ⏳1Y](https://github.com/ThePaw/go-eco) - Similarity, dissimilarity and distance matrices; diversity, equitability and inequality measures; species richness estimators; coenocline models.
+* [go-eco ★2 ⏳2Y](https://github.com/ThePaw/go-eco) - Similarity, dissimilarity and distance matrices; diversity, equitability and inequality measures; species richness estimators; coenocline models.
 * [go-i18n ★462](https://github.com/nicksnyder/go-i18n) - Package and an accompanying tool to work with localized text.
 * [go-mystem ★7](https://github.com/dveselov/mystem) - CGo bindings to Yandex.Mystem - russian morphology analyzer.
 * [go-nlp ★67 ⏳5Y](https://github.com/nuance/go-nlp) - Utilities for working with discrete probability distributions and other tools useful for doing NLP work.
@@ -783,6 +783,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [libtextcat ★7 ⏳4Y](https://github.com/goodsign/libtextcat) - Cgo binding for libtextcat C library. Guaranteed compatibility with version 2.2.
 * [MMSEGO ★52 ⏳5Y](https://github.com/awsong/MMSEGO) - This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm.
 * [nlp ★276](https://github.com/Shixzie/nlp) - Extract values from strings and fill your structs with nlp.
+* [nlp ★52](https://github.com/james-bowman/nlp) - Go Natural Language Processing library supporting LSA (Latent Semantic Analysis).
 * [paicehusk ★17 ⏳3Y](https://github.com/rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
 * [porter ★5 ⏳3Y](https://github.com/a2800276/porter) - This is a fairly straightforward port of Martin Porter's C implementation of the Porter stemming algorithm.
 * [porter2](https://github.com/zhenjl/porter2) - Really fast Porter 2 stemmer.
@@ -914,13 +915,13 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 *Libraries for scientific computing and data analyzing.*
 
 * [blas ★109 ⏳3Y](https://github.com/ziutek/blas) - Implementation of BLAS (Basic Linear Algebra Subprograms).
-* [chart ★422 ⏳1Y](https://github.com/vdobler/chart) - Simple Chart Plotting library for Go. Supports many graphs types.
+* [chart ★422 ⏳2Y](https://github.com/vdobler/chart) - Simple Chart Plotting library for Go. Supports many graphs types.
 * [evaler ★30](https://github.com/soniah/evaler) - Simple floating point arithmetic expression evaluator.
 * [ewma ★184](https://github.com/VividCortex/ewma) - Exponentially-weighted moving averages.
 * [geom ★33 ⏳4Y](https://github.com/skelterjohn/geom) - 2D geometry for golang.
 * [go-dsp ★473](https://github.com/mjibson/go-dsp) - Digital Signal Processing for Go.
 * [go-fn ★6 ⏳2Y](https://github.com/ematvey/go-fn) - Mathematical functions written in Go language, that are not covered by math pkg.
-* [go-gt ★3 ⏳1Y](https://github.com/ThePaw/go-gt) - Graph theory algorithms written in "Go" language.
+* [go-gt ★3 ⏳2Y](https://github.com/ThePaw/go-gt) - Graph theory algorithms written in "Go" language.
 * [go.matrix ★297 ⏳1Y](https://github.com/skelterjohn/go.matrix) - linear algebra for go (has been stalled).
 * [gocomplex ★3 ⏳2Y](https://github.com/varver/gocomplex) - Complex number library for the Go programming language.
 * [gofrac ★6 ⏳2Y](https://github.com/anschelsc/gofrac) - (goinstallable) fractions library for go with support for basic arithmetic.
@@ -933,6 +934,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [ode ★2](https://github.com/ChristopherRabotin/ode) - Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions.
 * [pagerank ★30 ⏳1Y](https://github.com/alixaxel/pagerank) - Weighted PageRank algorithm implemented in Go.
 * [PiHex ★5](https://github.com/claygod/PiHex) - Implementation of the "Bailey-Borwein-Plouffe" algorithm for the hexadecimal number Pi.
+* [sparse ★10](https://github.com/james-bowman/sparse) - Go Sparse matrix formats for linear algebra supporting scientific and machine learning applications, compatible with gonum matrix libraries.
 * [stats ★746](https://github.com/montanaflynn/stats) - Statistics package with common functions missing from the Golang standard library.
 * [streamtools ★1294 ⏳2Y](https://github.com/nytlabs/streamtools) - general purpose, graphical tool for dealing with streams of data.
 * [vectormath ★57 ⏳4Y](https://github.com/spate/vectormath) - Vectormath for Go, an adaptation of the scalar C functions from Sony's Vector Math library, as found in the Bullet-2.79 source code (currently inactive).
@@ -956,9 +958,9 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 *Libraries and tools for binary serialization.*
 
 * [asn1](https://github.com/PromonLogicalis/asn1) - Asn.1 BER and DER encoding library for golang.
+* [bambam ★57](https://github.com/glycerine/bambam) - generator for Cap'n Proto schemas from go.
 * [colfer ★253](https://github.com/pascaldekloe/colfer) - Code generation for the Colfer binary format.
 * [go-capnproto ★254](https://github.com/glycerine/go-capnproto) - Cap'n Proto library and parser for go.
-    * [bambam ★57](https://github.com/glycerine/bambam) - generator for Cap'n Proto schemas from go.
 * [go-codec ★809](https://github.com/ugorji/go) - High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support.
 * [gogoprotobuf ★1102](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets.
 * [goprotobuf ★2017](https://github.com/golang/protobuf) - Go support, in the form of a library and protocol compiler plugin, for Google's protocol buffers.
@@ -1152,7 +1154,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [paypal](https://github.com/logpacker/paypalsdk) - Wrapper for PayPal payment API.
 * [playlyfe ★0 ⏳1Y](https://github.com/playlyfe/playlyfe-go-sdk) - The Playlyfe Rest API Go SDK.
 * [pushover ★28](https://github.com/gregdel/pushover) - Go wrapper for the Pushover API.
-* [rrdaclient ★4 ⏳2Y](https://github.com/Omie/rrdaclient) - Go Library to access statdns.com API, which is in turn RRDA API. DNS Queries over HTTP.
+* [rrdaclient ★4 ⏳3Y](https://github.com/Omie/rrdaclient) - Go Library to access statdns.com API, which is in turn RRDA API. DNS Queries over HTTP.
 * [shopify ★13 ⏳1Y](https://github.com/rapito/go-shopify) - Go Library to make CRUD request to the Shopify API.
 * [slack ★1179](https://github.com/nlopes/slack) - Slack API in Go.
 * [smite ★8 ⏳3Y](https://github.com/sergiotapia/smitego) - Go package to wraps access to the Smite game API.
@@ -1351,21 +1353,6 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [YARF ★38](https://github.com/yarf-framework/yarf) - Fast micro-framework designed to build REST APIs and web services in a fast and simple way.
 * [Zerver ★139 ⏳1Y](https://github.com/cosiner/zerver) - Zerver is an expressive, modular, feature completed RESTful framework.
 
-## Windows
-
-* [d3d9 ★54](https://github.com/gonutz/d3d9) - Go bindings for Direct3D9.
-* [go-ole ★315](https://github.com/go-ole/go-ole) - Win32 OLE implementation for golang.
-
-## XML
-
-*Libraries and tools for manipulating XML.*
-
-* [go-pkg-xmlx ★122 ⏳1Y](https://github.com/jteeuwen/go-pkg-xmlx) - Extension to the standard Go XML package. Maintains a node tree that allows forward/backwards browsing and exposes some simple single/multi-node search functions.
-* [XML-Comp ★6](https://github.com/xml-comp/xml-comp) - Simple command line XML comparer that generates diffs of folders, files and tags.
-* [xmlwriter ★0](https://github.com/shabbyrobe/xmlwriter) - Procedural XML generation API based on libxml2's xmlwriter module.
-* [xpath ★23](https://github.com/antchfx/xpath) - XPath package for Go.
-* [xquery ★68](https://github.com/antchfx/xquery) - XQuery lets you extract data from HTML/XML documents using XPath expression.
-
 ### Middlewares
 
 #### Actual middlewares
@@ -1414,6 +1401,21 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [vestigo ★165](https://github.com/husobee/vestigo) - Performant, stand-alone, HTTP compliant URL Router for go web applications.
 * [xmux ★72](https://github.com/rs/xmux) - High performance muxer based on `httprouter` with `net/context` support.
 * [zeus ★108](https://github.com/daryl/zeus) - Very simple and fast HTTP router for Go.
+
+## Windows
+
+* [d3d9 ★54](https://github.com/gonutz/d3d9) - Go bindings for Direct3D9.
+* [go-ole ★315](https://github.com/go-ole/go-ole) - Win32 OLE implementation for golang.
+
+## XML
+
+*Libraries and tools for manipulating XML.*
+
+* [go-pkg-xmlx ★122 ⏳1Y](https://github.com/jteeuwen/go-pkg-xmlx) - Extension to the standard Go XML package. Maintains a node tree that allows forward/backwards browsing and exposes some simple single/multi-node search functions.
+* [XML-Comp ★6](https://github.com/xml-comp/xml-comp) - Simple command line XML comparer that generates diffs of folders, files and tags.
+* [xmlwriter ★0](https://github.com/shabbyrobe/xmlwriter) - Procedural XML generation API based on libxml2's xmlwriter module.
+* [xpath ★23](https://github.com/antchfx/xpath) - XPath package for Go.
+* [xquery ★68](https://github.com/antchfx/xquery) - XQuery lets you extract data from HTML/XML documents using XPath expression.
 
 # Tools
 
@@ -1528,7 +1530,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [Docker](http://www.docker.com/) - Open platform for distributed applications for developers and sysadmins.
 * [Documize ★190](https://github.com/documize/community) - Modern wiki software that integrates data from SaaS tools.
 * [fleet ★2396](https://github.com/coreos/fleet) - Distributed init System.
-* [Go Package Store ★763](https://github.com/shurcooL/Go-Package-Store#go-package-store-) - App that displays updates for the Go packages in your GOPATH.
+* [Go Package Store ★779](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.
 * [gocc ★119](https://github.com/goccmack/gocc) - Gocc is a compiler kit for Go written in Go.
 * [GoDocTooltip ★10 ⏳1Y](https://github.com/diankong/GoDocTooltip) - Chrome extension for Go Doc sites, which shows function description as tooltip at funciton list.
 * [Gogland](https://jetbrains.com/go) - Full featured cross-platform Go IDE.

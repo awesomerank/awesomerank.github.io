@@ -19,6 +19,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 - [Specification](#spec)
 - [Community](#community)
+- [GraphQL Meetups](#meetups)
 - [Libraries](#lib)
 	- [Javascript](#lib-js)
 	- [Ruby](#lib-rb)
@@ -90,6 +91,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [San Francisco](https://www.meetup.com/GraphQL-SF/)
 * [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
 * [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
+* [Munich](https://www.meetup.com/GraphQL-Munich/)
 
 <a name="lib" />
 
@@ -439,7 +441,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Reindex Examples ★140 ⏳1Y](https://github.com/reindexio/reindex-examples) - Example projects for Reindex with using React Native and React.js for web.
 * [Modelizr Documentation](https://julienvincent.github.io/modelizr/) - Documentation and Usage Examples for modelizr
 * [Vue Apollo Example ★61](https://github.com/Akryum/frontpage-vue-app) - Apollo example project for Vue 2.0.
-* [angular2-graphql-rest ★26](https://github.com/kamilkisiela/angular2-graphql-rest) - An example app with REST Api working side by side with GraphQL using Apollo Client with angular2-apollo. Includes step-by-step tutorial how to migrate from REST to GraphQL.
+* [angular2-graphql-rest ★26 ⏳1Y](https://github.com/kamilkisiela/angular2-graphql-rest) - An example app with REST Api working side by side with GraphQL using Apollo Client with angular2-apollo. Includes step-by-step tutorial how to migrate from REST to GraphQL.
 * [GraphQL-DataLoader-Boilerplate ★166](https://github.com/entria/graphql-dataloader-boilerplate) - Boilerplate to start your GraphQL with DataLoader server
 * [GraphQL-CEP ★11](https://github.com/sibelius/graphql-cep) - Query address by CEP
 * [Apollo React example for Github GraphQL API ★52](https://github.com/katopz/react-apollo-graphql-github-example) - Usage Examples Apollo React for Github GraphQL API with create-react-app

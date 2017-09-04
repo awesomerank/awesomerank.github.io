@@ -509,7 +509,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ChaiScript ★965](https://github.com/ChaiScript/ChaiScript) - An easy to use embedded scripting language for C++. [BSD] [website](http://chaiscript.com/)
 * [Duktape ★2826](https://github.com/svaarala/duktape) - An embeddable Javascript engine with compact footprint. [MIT] [website](http://duktape.org)
 * [Lua](http://www.lua.org/) - A minimal and fast scripting engine for configuration files and basic application scripting. [MIT]
-* [luacxx ★88 ⏳2Y](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
+* [luacxx ★88 ⏳3Y](https://github.com/dafrito/luacxx) - C++11 API for creating Lua bindings. [MIT]
 * [SWIG](http://www.swig.org/) - A wrapper/interface Generator that let you link your c++ code to Javascript, Perl, PHP, Python, Tcl and Ruby. [GPL/Output not licensed]
 * [V7 ★1045](https://github.com/cesanta/v7) - An embedded JavaScript engine. [GPL2]
 * [V8](http://code.google.com/p/v8/) - A fast JavaScript engine by Google that can be embedded into any C++ application. [BSD]
@@ -681,6 +681,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 
 ## Build Systems
 
+* [Bazel](https:/bazel.build) - A multi-language, fast and scalable build system from Google. [Apache]
 * [Bear ★500](https://github.com/rizsotto/Bear) - A tool to generate compilation database for clang tooling.
 * [CMake](https://cmake.org/) - Cross-platform free and open-source software for managing the build process of software using a compiler-independent method. [BSD]
 * [C++ Archive Network](https://cppan.org/) - Cross-platform C++ Dependency Manager with a lot of packages available.

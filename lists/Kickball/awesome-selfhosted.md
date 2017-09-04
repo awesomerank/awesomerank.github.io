@@ -345,6 +345,7 @@ _[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software
 
 ### SIP
 
+**[`^        back to top        ^`](#)**
 
 _[SIP](https://en.wikipedia.org/wiki/Session_Initiation_Protocol) telephony software_
 

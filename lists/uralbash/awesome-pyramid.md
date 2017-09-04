@@ -162,7 +162,7 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
       dogpile.cache](http://techspot.zzzeek.org/2012/04/19/using-beaker-for-caching-why-you-ll-want-to-switch-to-dogpile.cache/)
 * [pyramid_redis_sessions ★37](https://github.com/ericrasmussen/pyramid_redis_sessions) -
   Pyramid web framework session factory backed by Redis.
-* [pyramid_dogpile_cache ★5 ⏳2Y](https://github.com/moriyoshi/pyramid_dogpile_cache) -
+* [pyramid_dogpile_cache ★5 ⏳3Y](https://github.com/moriyoshi/pyramid_dogpile_cache) -
   dogpile.cache configuration package for Pyramid
 * [pyramid_sessions ★0 ⏳2Y](https://github.com/joulez/pyramid_sessions) - Multiple
   session support for the Pyramid Web Framework
@@ -262,7 +262,7 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 
 ## Services
 
-* [pyramid_sms ★4](https://github.com/websauna/pyramid_sms) -
+* [pyramid_sms ★4 ⏳1Y](https://github.com/websauna/pyramid_sms) -
    SMS services for Pyramid web framework.
 
 ## Settings

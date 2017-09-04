@@ -113,7 +113,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [giada-www ★6](https://github.com/monocasual/giada-www) - Official website of [Giada Loop Machine](https://www.giadamusic.com/)
 * [phalconBlog ★20 ⏳3Y](https://github.com/eristoddle/phalconBlog) - A blog using the Phalcon PHP Framework
 * [PhalconEye ★434](https://github.com/PhalconEye/phalconeye) - PhalconEye CMS
-* [Skopy Blog Engine ★6](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
+* [Skopy Blog Engine ★6 ⏳1Y](https://github.com/yuriygr/skopy) - A simple blog engine for those who want to start learning Phalcon
 * [Talon ★9 ⏳2Y](https://github.com/adamdama/Talon) - CMS built on Phalcon PHP Framework
 * [Vegas CMF](https://github.com/vegas-cmf) - Vegas CMF for Phalcon PHP Framework
 * [Yona CMS ★329](https://github.com/oleksandr-torosh/yona-cms) - CMS based on Phalcon PHP Framework with modular structure
@@ -297,7 +297,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Shopping carts and online store services.*
 
 * [phalcon_cart ★17 ⏳2Y](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon PHP Framework
-* [phasty ★15 ⏳1Y](https://github.com/chaban/phasty) - Shopping Cart on Phalcon PHP Framework
+* [phasty ★15 ⏳2Y](https://github.com/chaban/phasty) - Shopping Cart on Phalcon PHP Framework
 * [Cashier ★15](https://github.com/duythien/cashier) - Phalcon cashier
 * [Yona E-commerce ★11 ⏳1Y](https://github.com/oleksandr-torosh/yona-ecommerce) - E-commerce CMF based on Phalcon PHP Framework
 

@@ -19,7 +19,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 - [ANSiTURE ★3 ⏳1Y](https://github.com/w84death/ansiture) -  Adventure platformer using only text based (DOS ANSi) characters.
 - [Blipshift ★7 ⏳2Y](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
-- [BlockPop ★11 ⏳1Y](https://github.com/vnen/blockpop) - A simple Breakout clone.
+- [BlockPop ★11 ⏳2Y](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs ★11](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
 - [Drone Commander ★3](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM
 - [Captain Holetooth ★28](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.

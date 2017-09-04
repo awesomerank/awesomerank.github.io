@@ -155,7 +155,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [browser-run ★274](https://github.com/juliangruber/browser-run) - Easily run code in a browser environment.
 - [tmpin ★103 ⏳2Y](https://github.com/sindresorhus/tmpin) - Adds stdin support to any CLI app that accepts file input.
 - [modhelp ★19 ⏳1Y](https://github.com/runvnc/modhelp) - Syntax-highlighted module READMEs in terminal with ANSI-friendly pager.
-- [wifi-password ★69](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
+- [wifi-password ★69 ⏳1Y](https://github.com/kevva/wifi-password-cli) - Get the current wifi password.
 - [wallpaper ★408](https://github.com/sindresorhus/wallpaper) - Change the desktop wallpaper.
 - [brightness ★92](https://github.com/kevva/brightness-cli) - Change the screen brightness.
 - [torrent ★475 ⏳1Y](https://github.com/maxogden/torrent) - Download torrents.
@@ -305,7 +305,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [browserify ★11261](https://github.com/substack/node-browserify) - Browser-side require() the Node.js way.
 - [Broccoli ★3046](https://github.com/broccolijs/broccoli) - Fast, reliable asset pipeline, supporting constant-time rebuilds and compact build definitions.
 - [Brunch ★6041](https://github.com/brunch/brunch) - Front-end web app build tool with simple declarative config, fast incremental compilation, and an opinionated workflow.
-- [strong-build ★40](https://github.com/strongloop/strong-build) - Build a node app package and prepare to deploy it as a package to production or use git to commit to a deploy branch.
+- [strong-build ★40 ⏳1Y](https://github.com/strongloop/strong-build) - Build a node app package and prepare to deploy it as a package to production or use git to commit to a deploy branch.
 - [start ★202](https://github.com/start-runner/start) - Simple tasks runner powered by composable functions and promise chaining.
 - [ygor ★35](https://github.com/shannonmoeller/ygor) - Promising task runner for when `npm run` isn't enough and everything else is too much.
 - [grunt](http://gruntjs.com) - Task runner that can perform repetitive tasks like minification, compilation, unit testing, linting, etc.

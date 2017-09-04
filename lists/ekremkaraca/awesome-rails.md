@@ -104,7 +104,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [follow-all ★86](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click
 - [fromthepage ★83](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [Live](https://www.fromthepage.com/)
 - [gitlabhq ★19698](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) -
-- [graff_mags ★15 ⏳2Y](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com)
+- [graff_mags ★15 ⏳3Y](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com)
 - [growstuff ★236](https://github.com/Growstuff/growstuff) -  An open source/open data project to create a website for food gardeners  [Live](http://www.growstuff.org/)
 - [Hashrobot ★43 ⏳1Y](https://github.com/rysmith/hashrobot) - A social media assistant  [Live](http://www.hashrobot.com)
 - [Helpy ★21](https://github.com/scott/helpy) - Rails 4 Helpdesk. Includes Multilingual Knowledgebase, Email Tickets, Community [Live](https://helpy.io/)

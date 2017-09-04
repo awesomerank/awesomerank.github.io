@@ -281,7 +281,7 @@ anylysis and visualization.*
   * [flambo ★518](https://github.com/yieldbot/flambo)
   * [Neanderthal ★384](https://github.com/uncomplicate/neanderthal)
   * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
-  * [Streaming Histograms ★129](https://github.com/bigmlcom/histogram)
+  * [Streaming Histograms ★129 ⏳1Y](https://github.com/bigmlcom/histogram)
   * [Gorilla REPL](http://gorilla-repl.org/)  
 
 ## Machine Learning

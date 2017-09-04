@@ -408,7 +408,7 @@ These frameworks make customizing your zsh setup easier.
 * [zsh-colors ★26](https://github.com/Tarrasch/zsh-colors) - Makes it easier to colorize text from the CLI. `red foo` just works.
 * [zsh-command-time ★10](https://github.com/popstas/zsh-command-time) - Show execution time for long commands in zsh and powerlevel9k.
 * [zsh-completion-generator ★63](https://github.com/RobSis/zsh-completion-generator) - This plugin tries to read the list of options from the help text of programs and generate a completion function automatically. Note that this doesn't do it automatically, you have to explicitly call the generator.
-* [zsh-dircolors-solarized ★25](https://github.com/joel-porquet/zsh-dircolors-solarized) - Solarized dircolors plugin.
+* [zsh-dircolors-solarized ★25 ⏳1Y](https://github.com/joel-porquet/zsh-dircolors-solarized) - Solarized dircolors plugin.
 * [zsh-dircycle ★0](https://github.com/michaelxmcbride/zsh-dircycle) - Cycle through the directory stack.
 * [zsh-directory-history ★78](https://github.com/tymm/zsh-directory-history) - A per directory history for ZSH.
 * [zsh-dwim ★66 ⏳2Y](https://github.com/oknowton/zsh-dwim) - zsh-dwim attempts to predict what you will want to do next. It provides a key binding (control-u) that will replace the current (or previous) command line with the command you will want to run next.
@@ -509,7 +509,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [parallels-zsh-plugin ★6 ⏳4Y](https://github.com/benclark/parallels-zsh-plugin) - Add completions for Parallels desktop.
 * [pebble-zsh-completion ★11 ⏳2Y](https://github.com/Neal/pebble-zsh-completion) - completion script for [pebble](https://developer.getpebble.com/guides/publishing-tools/pebble-tool).
 * [racket completion ★2](https://github.com/racket/shell-completion) - Completion for [Racket](http://racket-lang.org).
-* [rake-completion.zshplugin ★7](https://github.com/unixorn/rake-completion.zshplugin) - Add fast tab completion for rakefile targets.
+* [rake-completion.zshplugin ★7 ⏳1Y](https://github.com/unixorn/rake-completion.zshplugin) - Add fast tab completion for rakefile targets.
 * [rancher-zsh-completion ★3](https://github.com/go/rancher-zsh-completion) - Add completions for the Rancher CLI.
 * [snappy ★0](https://github.com/Arlon1/Snappy_zsh_autocompletion) - Add completions for snappy.
 * [ssh-agent ★1](https://github.com/hkupty/ssh-agent) - Automatically starts `ssh-agent` to set up and load whichever credentials you want for ssh connections.
@@ -594,7 +594,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [frisk-arrow ★0 ⏳4Y](https://github.com/BakeRolls/frisk-arrow) - A theme based on the [frisk](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/frisk.zsh-theme) oh-my-zsh-theme.
 * [frisk-red](https://github.com/aishsingh/zsh/tree/master/frisk-red) - Red version of the frisk theme from oh-my-zsh.
 * [frlo ★1 ⏳4Y](https://github.com/fiorillo/frlo) - Uses your computer's hostname to come up with a (hopefully) unique three-color theme to display in your prompt, so you know at a glance which machine you're logged into.
-* [furio ★16 ⏳2Y](https://github.com/hectorpalmatellez/furio-theme) - Fork of the Cloud oh-my-zsh theme. with different colors and emojis.
+* [furio ★16 ⏳3Y](https://github.com/hectorpalmatellez/furio-theme) - Fork of the Cloud oh-my-zsh theme. with different colors and emojis.
 * [garrett ★94](https://github.com/chauncey-garrett/zsh-prompt-garrett) - Prezto prompt with the information you need the moment you need it.
 * [gawaine ★3 ⏳5Y](https://github.com/nicolaracco/gawaine.zsh-theme) - Nicola Racco's theme. Requires rvm & git plugins.
 * [geometry](https://github.com/frmendes/geometry) - A minimal ZSH theme based on Avit and Pure that displays a lot of git information.
@@ -739,7 +739,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [zsh-prompt-powerline ★48 ⏳1Y](https://github.com/Valodim/zsh-prompt-powerline) - A fairly heavyweight ZSH prompt, based on the powerline font from the popular eponymous vim plugin, which works well for a dark background.
 * [zsh-theme-nerdish ★2 ⏳1Y](https://github.com/nyarla/zsh-theme-nerdish) - A prompt theme for ZSH with Nerd Fonts.
 * [zsh2000](https://github.com/maverick2000/zsh2000) - Powerline looking ZSH theme with rvm prompt, git status and branch, current time, user, hostname, pwd, exit status, root and background job status.
-* [zshcomrade ★4 ⏳4Y](https://github.com/landongn/zshcomrade) - A ZSH theme, comrade!
+* [zshcomrade ★4 ⏳5Y](https://github.com/landongn/zshcomrade) - A ZSH theme, comrade!
 * [zwsh ★0](https://github.com/naens/zwsh) - A Zpm3/Wordstar mode/theme for ZSH
 
 ### Fonts

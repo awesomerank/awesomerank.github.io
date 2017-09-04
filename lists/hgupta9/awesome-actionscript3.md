@@ -384,7 +384,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Showdown.as](https://gist.github.com/cstrahan/648771) - Port of showdown.js.
 * [Actiondown ★2 ⏳7Y](https://github.com/bbeaumont/Actiondown) - Port of Javascript Showdown.
-* [Markdownlib ★2 ⏳1Y](https://github.com/Corsaair/markdownlib) - Implementation of Markdown.
+* [Markdownlib ★2 ⏳2Y](https://github.com/Corsaair/markdownlib) - Implementation of Markdown.
 
 #### MP3
 
@@ -521,7 +521,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [EasyAS-Worker ★37](https://github.com/myflashlab/easyAS-Worker) - Simplified wrapper for AIR Workers.
 * [Worker-from-class ★77 ⏳5Y](https://github.com/bortsen/worker-from-class) - Create Workers from Class definitions.
-* [AS3Futures ★11 ⏳5Y](https://github.com/brianheylin/AS3Futures) - Simplifies making a series of async function calls.
+* [AS3Futures ★11 ⏳6Y](https://github.com/brianheylin/AS3Futures) - Simplifies making a series of async function calls.
 
 #### Crypto
 

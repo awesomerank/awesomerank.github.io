@@ -226,7 +226,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-util ★781](https://github.com/gulpjs/gulp-util) - Set of useful utilities.
 * [gulp-plumber ★718](https://github.com/floatdrop/gulp-plumber) - Prevent pipe breaking caused by errors.
 * [gulp-load-plugins ★707](https://github.com/jackfranklin/gulp-load-plugins) - Automatically load in gulp plugins.
-* [main-bower-files ★589](https://github.com/ck86/main-bower-files) - Simplify build process setup by dynamically getting the library files.
+* [main-bower-files ★589 ⏳1Y](https://github.com/ck86/main-bower-files) - Simplify build process setup by dynamically getting the library files.
 * [autoprefixer ★13393](https://github.com/postcss/autoprefixer) - Parse CSS and add vendor prefixes to rules by Can I Use.
 * [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps) - Provide source map support.
 * [gulp-replace ★363](https://github.com/lazd/gulp-replace) - A string replace plugin for gulp.

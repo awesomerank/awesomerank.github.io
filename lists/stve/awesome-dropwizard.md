@@ -32,7 +32,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 
 * [dropwizard-swagger ★90](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints.
 * [dropwizard-jaxws ★41](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API.
-* [dropwizard-redirect-bundle ★13](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects.
+* [dropwizard-redirect-bundle ★13 ⏳1Y](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects.
 * [dropwizard-template-config ★39](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template.
 * [dropwizard-caching-bundle ★8 ⏳1Y](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses.
 * [dropwizard-xml ★25 ⏳1Y](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs
@@ -59,7 +59,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 
 ### Assets
 
-* [dropwizard-configurable-assets-bundle ★59](https://github.com/bazaarvoice/dropwizard-configurable-assets-bundle) - An implementation of an AssetBundle for use in Dropwizard that allows user configuration.
+* [dropwizard-configurable-assets-bundle ★59 ⏳1Y](https://github.com/bazaarvoice/dropwizard-configurable-assets-bundle) - An implementation of an AssetBundle for use in Dropwizard that allows user configuration.
 * [dropwizard-markdown-assets-bundle ★2](https://github.com/rnorth/dropwizard-markdown-assets-bundle) - renders Markdown files as pretty HTML
 
 ### Data Stores

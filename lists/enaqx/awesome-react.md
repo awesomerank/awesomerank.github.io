@@ -331,7 +331,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-chosen - React wrapper for Chosen jQuery ★85 ⏳1Y](https://github.com/chenglou/react-chosen)
 * [react-inlinesvg - An SVG loader component for React ★357](https://github.com/matthewwithanm/react-inlinesvg)
 * [react-imageloader - A React component for wrangling image loading ★313](https://github.com/hzdg/react-imageloader)
-* [expose - A React mixin for lazy loading ★3 ⏳1Y](https://github.com/dok/expose)
+* [expose - A React mixin for lazy loading ★3 ⏳2Y](https://github.com/dok/expose)
 * [react-loadqueueloader - A React component for managing loads with a load queue ★8 ⏳3Y](https://github.com/hzdg/react-loadqueueloader)
 * [react-loadermixin - A React mixin for giving components loading behavior ★10 ⏳2Y](https://github.com/hzdg/react-loadermixin)
 * [react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events ★17 ⏳2Y](https://github.com/hzdg/react-pressable)

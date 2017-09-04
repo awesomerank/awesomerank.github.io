@@ -265,7 +265,7 @@ Here awesome badge for your project:
 * [seratch/kotliquery ★42](https://github.com/seratch/kotliquery) - A handy database access library in Kotlin.
 * [andrewoma/kwery ★129](https://github.com/andrewoma/kwery) - Kwery is an SQL library for Kotlin.
 * [square/sqldelight ★1485](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
-* [x2bool/kuery ★69](https://github.com/x2bool/kuery) - Typesafe SQL with Kotlin.
+* [x2bool/kuery ★69 ⏳1Y](https://github.com/x2bool/kuery) - Typesafe SQL with Kotlin.
 * [Litote/kmongo ★39](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
 * [requery/requery ★2083](https://github.com/requery/requery) - Modern SQL based query & persistence for Java/Kotlin/Android.
 * [consoleau/kotlin-jpa-specification-dsl ★63](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
