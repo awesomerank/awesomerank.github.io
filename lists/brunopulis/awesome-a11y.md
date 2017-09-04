@@ -71,7 +71,6 @@ title: Awesome Rank for brunopulis/awesome-a11y
 |[Acessibilidade for Devs ★9](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io) | PT-BR
 |[Accessible Mega Menu ★473](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN
 |[ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html) | EN
-|[BBC Accessibility Standards Checker](https://github.com/bbc/bbc-a11y) | EN
 |[Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html) | EN
 |[Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) | EN
 |[Tuts+ Web Accessibility learning guide for Wordpress](http://code.tutsplus.com/series/accessibility--cms-799) | EN
@@ -92,12 +91,13 @@ title: Awesome Rank for brunopulis/awesome-a11y
 
 ## Articles and Videos
 
-* [Advice for creating content that works well with screen readers](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers/)
 * [10 rules for efficient form design](http://babich.biz/10-rules-for-efficient-form-design/)
+* [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
+* [Advice for creating content that works well with screen readers](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers/)
 * [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY)
 * [A11Y Dialog ★684](https://github.com/edenspiekermann/a11y-dialog)
 * [Automated Accessibility Checking with aXe](https://www.sitepoint.com/automated-accessibility-checking-with-axe/)
-* [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
+* [Basic screen reader commands for accessibility testing](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
 * [Design like we give a damn!](https://www.vimeo.com/110965713)
 * [Design for Web Accessibility from the Beginning](https://getflywheel.com/layout/design-web-accessibility-beginning/)
@@ -173,15 +173,15 @@ title: Awesome Rank for brunopulis/awesome-a11y
 
 ## Screen Readers
 
+| Name | Operation System |
+| --- | --- |
+| [ChromeVox](http://www.chromevox.com/) | OSX, Windows, Linux 
+| [JAWS - Desktop App - Windows Only](http://www.freedomscientific.com/Products/Blindness/JAWS) | Windows 
+| [NVDA - Desktop App - Windows Only](https://www.nvaccess.org/) | Windows 
+| [Orca Screen Reader Desktop App - Linux](https://wiki.gnome.org/Projects/Orca) | Linux  
+| [VoiceOver iPhone App (iOS)](http://www.apple.com/accessibility/iphone/vision/) | OSX  
+| [VoiceOver Desktop App (Mac)](http://www.apple.com/accessibility/iphone/vision/) | OSX |
 * [ChromeVox](http://www.chromevox.com/)
-* [JAWS - Desktop App - Windows Only](http://www.freedomscientific.com/Products/Blindness/JAWS)
-* [NVDA - Desktop App - Windows Only](https://www.nvaccess.org/)
-* [Orca Screen Reader Desktop App - Linux](https://wiki.gnome.org/Projects/Orca)
-* [Basic screen reader commands for accessibility testing - By Paciello Group](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
-* [VoiceOver - By Apple, iPhone App (iOS)](http://www.apple.com/accessibility/iphone/vision/)
-* [VoiceOver - By Apple, Desktop App (Mac)](http://www.apple.com/accessibility/iphone/vision/)
-
-----
 
 ## Other Resources
 
@@ -214,22 +214,20 @@ title: Awesome Rank for brunopulis/awesome-a11y
 
 ## Talks
 
-* [JQuerySF - Victor Tsaran - The Modern Web and Accessibility](https://www.youtube.com/watch?v=KIruVNEi6mI)
-* [WCAG is not scary anymore - A progressive approach to Website Accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles)
-* [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/)
 * [10 Simples Rules for Making My Site Accessible](http://pt.slideshare.net/HelenaZubkow/10-simple-rules-for-making-my-site-accessible) by [Helena Zubkow](https://twitter.com/misshelenasue)
+* [30 Minutes or Less: The Magic of Automated Accessibility Testing](http://marcysutton.github.io/a11y-automated-testing/)
 * [A Saga dos 12 Tópicos de Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=RFg6XP6oluE) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
 * [Acessibilidade na Web modo Jedi Master - (pt-br)](https://www.youtube.com/watch?v=MMLQioPwbik) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
-* [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) by [Marcy Sutton](https://twitter.com/marcysutton)
-* [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) by [Léonie Watson](https://twitter.com/LeonieWatson)
-* [Frontend com Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=UzTVq7we84w) by [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini)
-* [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
-* [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
 * [Accessibility Debt](https://www.youtube.com/watch?v=BViy4ToaJZs) by [Robert DeLuca](github.com/Robdel12)
 * [Acessibilidade na Web: Levando nosso conteúdo a todas as pessoas - (pt-br)](http://slides.com/yanmagale/acessibilidade-web/) by [Yan Magalhães](https://github.com/yanmagale)
+* [Angular Accessibility](http://marcysutton.com/slides/angular-a11y-ng-europe/) by [Marcy Sutton](https://twitter.com/marcysutton)
+* [ARIA Accessibility, APIS coding like you give a damn ](http://www.slideshare.net/LeonieWatson/aria-accessibility-apis-coding-like-you-give-a-damn-2015) by [Léonie Watson](https://twitter.com/LeonieWatson)
 * [Designing for visual accessibility - Jordan Dunn SXSW](https://www.youtube.com/watch?v=BYh6658PCXc)
-
-----
+* [Frontend com Acessibilidade - (pt-br)](https://www.youtube.com/watch?v=UzTVq7we84w) by [Horácio Soares](https://twitter.com/horaciosoares) and [Clécio Bachini](https://twitter.com/cbachini)
+* [HTML Acessível](http://www.slideshare.net/reinaldoferraz/html-acessvel) by [Reinaldo Ferraz](https://twitter.com/reinaldoferraz)
+* [JQuerySF - Victor Tsaran - The Modern Web and Accessibility](https://www.youtube.com/watch?v=KIruVNEi6mI)
+* [Trabalhando com WCAG e WAI-ARIA de forma correta - (pt-br)](http://slides.com/talitapagani/wcag-aria-webbr2015#/16) by [Talita Pagani](https://github.com/talitapagani)
+* [WCAG is not scary anymore - A progressive approach to Website Accessibility](https://www.linkedin.com/pulse/wcag-scary-anymore-progressive-approach-website-herin-hentry?trk=pulse_spock-articles)
 
 ## People to Follow in Web Accessibility
 
@@ -241,7 +239,6 @@ This is a list, in no particular order, of people to follow that contribute grea
 | --- | --- |
 | Alice Boxhall | [@sundress](https://twitter.com/sundress) |
 | Cory Klatik | [@cklatik](https://twitter.com/cklatik) |
-| Dale Cruse | [@dalecruse](https://twitter.com/dalecruse) |
 | Dave Rupert | [@davatron5000](https://twitter.com/davatron5000) |
 | David A. Kennedy | [@davidakennedy](https://twitter.com/davidakennedy) |
 | Debra Ruh |	[@debraruh](https://twitter.com/debraruh) |

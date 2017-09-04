@@ -99,7 +99,7 @@ title: Awesome Rank for sadcitizen/awesome-marionette
 - [Marionette, Require, and Gulp.js Boilerplate ★18 ⏳2Y](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js
 - [MarionetteJS + RequireJS + Twitter Bootstrap ★67 ⏳3Y](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
 - [Marionette Gentle Introduction ★356 ⏳1Y](https://github.com/davidsulc/marionette-gentle-introduction)
-- [Marionette Wires ★337](https://github.com/thejameskyle/marionette-wires)
+- [Marionette Wires ★337 ⏳1Y](https://github.com/thejameskyle/marionette-wires)
 - [Marionette Cookbook ★105 ⏳2Y](https://github.com/MarionetteLabs/marionette-cookbook)
 - [MarionetteJS + Brunch + Babel/ES6 ★16](https://github.com/denar90/brunch-with-marionettejs)
 - [A Place to Write About Technical Subjects on the Web ★97 ⏳2Y](https://github.com/jmeas/gistbook)

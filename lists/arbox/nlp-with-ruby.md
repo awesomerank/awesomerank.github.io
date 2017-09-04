@@ -162,7 +162,7 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
   Multilingual tokenizer to split a string into tokens.
 - [nlp-pure ★16](https://github.com/parhamr/nlp-pure) -
   Natural language processing algorithms implemented in pure Ruby with minimal dependencies.
-- [textoken ★28](https://github.com/manorie/textoken) -
+- [textoken ★28 ⏳1Y](https://github.com/manorie/textoken) -
   Simple and customizable text tokenization library.
 - [pragmatic_segmenter ★206](https://github.com/diasks2/pragmatic_segmenter) -
   Word Boundary Disambiguation with many cookies.
