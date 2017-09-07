@@ -391,6 +391,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 
 #### U companies
 * Uber http://eng.uber.com/
+* Universe https://engineering.universe.com
 * Upday https://upday.github.io/
 
 #### V companies
@@ -677,6 +678,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Robin Ward https://eviltrout.com/
 * Robin Wilson http://blog.rtwilson.com/
 * Rudy Huyn http://www.rudyhuyn.com/blog/
+* Rudolf Olah https://neverfriday.com/blog/
 * Ruslan Spivak https://ruslanspivak.com/
 
 #### S individuals

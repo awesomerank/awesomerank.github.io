@@ -182,7 +182,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Vue Land - Discord chat server](https://vue-land.js.org/)
 - [VueJS Russia - Telegram Group [Russian]](https://t.me/vuejs_ru)
 - [VueJS Viet Nam - Facebook group](https://www.facebook.com/groups/vuejsvietnam/)
-- [VueJS Spanish - Slack Group](http://vuejs-es.herokuapp.com/)
+- [VueJS Spanish - Slack Group](https://vue-es.herokuapp.com/)
 - [VueJS Korean - Slack Group](https://vuejs-korea.signup.team/)
 
 ### Conferences
@@ -203,6 +203,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [MW S04E08 - Vue.js with Evan You and Sarah Drasner (04-27-2017)](https://modernweb.podbean.com/e/mw-s04e09-evan-yu-sarah-drasner/)
 - [Request For Commits #12 - Crowdfunding Open Source (Vue.js) (06-15-2017)](https://changelog.com/rfc/12)
 - [The Web Platform Podcast 132: Vue.js (07-27-2017)](http://thewebplatformpodcast.com/132-vuejs)
+- [JavaScript Jabber #276 with Maximilian Schwarzmüller (08-29-2017)](https://devchat.tv/js-jabber/jsj-276-vue-js-maximilian-schwarzmuller)
 
 ### Official Examples
 
@@ -210,6 +211,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
   - [CoffeeScript Version ★14 ⏳1Y](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
 - [**Vue.js HackerNews Clone** ★2244](https://github.com/vuejs/vue-hackernews)
+- [**Vue.js 2.0 HackerNews Clone** ★5634](https://github.com/vuejs/vue-hackernews-2.0) 
 
 ### Tutorials
 
@@ -294,6 +296,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Vue.js 预览](https://ninghao.net/course/4256) on ninghao.net
 - [Vue.js: Development Machine Setup](https://www.ecofic.com/about/blog/vue-dev-machine-setup/) by [@chadcampbell](https://twitter.com/chadcampbell)
 - [Building a Vue v2 JS app using Vue-router](https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/) by [@mikestreety](https://twitter.com/mikestreety)
+- [Build your own carousel with Vue](https://medium.com/@davidatomhernandez/how-to-a-simple-carousel-with-vue-138715d615d7) by [@Atom_Hernandez](https://twitter.com/Atom_Hernandez)
 
 ### Examples
 
@@ -369,7 +372,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue Weather Notifier ★113](https://github.com/sdras/vue-weather-notifier) A small sample animation app with SVG and Vuex
   - [Nuxt Type ★120](https://github.com/sdras/nuxt-type) An example Vue project with Nuxt for routing/SSR to demo page transitions
   - [VueBlog ★218](https://github.com/wmui/vueblog) A blog system supporting service side rendering by [wmui](https://github.com/wmui)
-  - [Cinemateka ★2](https://github.com/Piterden/cinemateka) - An example of SPA made with Vue v1 & Laravel 5. Film & events schedule. Russian comments.
+  - [Cinemateka ★2 ⏳1Y](https://github.com/Piterden/cinemateka) - An example of SPA made with Vue v1 & Laravel 5. Film & events schedule. Russian comments.
   - [vue-pwa-vision ★3](https://github.com/aofdev/vue-pwa-vision) - Vue + Vuetify + Google Cloud Vision Face Detection With Progressive Web App by [aofdev](https://github.com/aofdev)
   - [vue-pwa-rekognition ★4](https://github.com/aofdev/vue-pwa-rekognition) - Vue + Vuetify + Amazon Rekognition Face Detection with Progressive Web App by [aofdev](https://github.com/aofdev)
   - [vue-2.x-boilerplate ★9](https://github.com/the6thm0nth/vue-2.x-boilerplate) - A simple and small startker kit for a Vue project Vuex + vue-router
@@ -457,6 +460,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [JSON Editor ★6](https://github.com/tangram-js/json-editor) - A schema-aware JSON editor. Develop with Vue2.
 - [Voten ★421](https://github.com/voten-co/voten) - A Reddit-like platform built with Vue2 and Laravel.
 - [News Weaver ★0](https://github.com/Rud156/News-Weaver) - A web based RSS Reader/Aggregator made using VueJS and VuetifyJS
+- [Wake Up Billie Joe!](https://wakeupbilliejoe.com) - A web site countdown to October, based on Green Day's song Wake me up when September Ends. Created using Vue and Firebase.
 
 ### Commercial Products
 
@@ -680,6 +684,7 @@ Tooltips / popovers
 - [vue-pure-lightbox ★2](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
 - [v-viewer](https://github.com/mirari/v-viewer) - Image viewer component for vue, supports rotation, scale, zoom and so on, based on [viewer.js ★2230](https://github.com/fengyuanchen/viewerjs)
 - [vue-messagebox ★1](https://github.com/zhangxiang958/vue-messageBox) - Easy and made-to-order messagebox component on Vue.
+- [vuejs-dialog ★3](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 
 ### Parallax
 
@@ -874,6 +879,7 @@ Tooltips / popovers
  - [awe-dnd ★184](https://github.com/hilongjw/vue-dragging) - A sortable list directive with Vue.
  - [vue-draggable-resizable ★95](https://github.com/mauricius/vue-draggable-resizable) - Vue2 component for draggable and resizable elements.
  - [vddl ★18](https://github.com/hejianxian/vddl) - Vue components for modifying lists with the HTML5 drag & drop API, supports VueJs versions 1 and 2.
+ - [vue-drag-drop ★4](https://github.com/cameronhimself/vue-drag-drop) - A minimal and lightweight wrapper for the HTML5 Drag and Drop API.
 
 #### Autocomplete
 
@@ -1122,6 +1128,7 @@ Tooltips / popovers
 - [vue-scrollview ★19](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
 - [vue-scrollactive ★29](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 - [vue-intersect ★2](https://github.com/heavyy/vue-intersect) - A Vue component to add intersection-observer to a Vue component or HTML element.
+- [vue-scrollmonitor ★0](https://github.com/AlexandreBonaventure/vue-scrollmonitor) - A Vue plugin to watch visibility state of elements inside viewport with a wide range of browsers supported (use provide/inject so compat vue@2.2.x)
 
 *Customize the scroll behavior*
 
@@ -1293,6 +1300,7 @@ Tooltips / popovers
  - [vuex-persist ★16](https://github.com/championswimmer/vuex-persist) - A Typescript-ready Vuex plugin to help save the store to localStorage or any custom Storage (that you can configure).
   - [vuex-local-state ★4](https://github.com/biluochun/vuex-localState) - Add 'localState/sessionState' options to vuex. Keep the Vuex state with localStorage.
   - [vuex-cli-scaffold ★1](https://github.com/ndabAP/vuex-cli-scaffold) - Scaffold vuex actions, mutations, getters and the state.
+ - [vuex-action-reload ★0](https://github.com/chlab/vuex-action-reload) - A vuex plugin that reloads actions when a condition is met.
 
 ###### Sync Between Tabs
 
@@ -1478,7 +1486,7 @@ Tooltips / popovers
 
 #### Visual Studio
 
- - [VuePack ★46](https://github.com/madskristensen/VuePack) - Contains HTML Intellisense and code snippets for the Vue.js JavaScript library.
+ - [VuePack ★46 ⏳1Y](https://github.com/madskristensen/VuePack) - Contains HTML Intellisense and code snippets for the Vue.js JavaScript library.
 
 #### Brackets
 

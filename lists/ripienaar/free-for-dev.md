@@ -123,7 +123,6 @@ Table of Contents
   * [websitetest.com](http://websitetest.com/) — Yotta's tool to optimize web sites, free limited version online
   * [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
   * [browserling.com](https://www.browserling.com/) — Live interactive cross-browser testing, free only 3 minutes sessions with MS IE 9 under Vista at 1024 x 768 resolution
-  * [loadfocus.com](https://loadfocus.com/) — Load and speed tests for websites, mobile apps and APIs, monitoring,... Free 5 tests/month, 120 clients/test, 1 monitor, 1 location
   * [versioneye.com](https://www.versioneye.com/) — Monitor your source code and notify about outdated dependencies. Free for Open Source and public repos
   * [beanstalkapp.com](http://beanstalkapp.com/) — A complete workflow to write, review and deploy code), free account for 1 user and 1 repository with 100 MB of storage
   * [testanywhere.co](https://testanywhere.co/) — Automatic test website or web app continuously and catch bugs in the early stages, free 1,000 tests/month
@@ -259,6 +258,7 @@ Table of Contents
   * [dnsspy.io](https://dnsspy.io) — Monitor your DNS and get alerts for changes, RFC-violating DNS configs, ... Free for 1 domain, open source maintainers may apply for a free premium account.
   * [monique.io](https://monique.io) — Create dashboards directly from SQL results, JSON data, API respones, Unix commands' output. Define alarms in Javascript. Free for 25000 submissions per month.
   * [assertible.com](https://assertible.com) - Automated API testing and monitoring. Free plans for teams and individuals.
+  * [letsmonitor.org](http://letsmonitor.org/) - TLS certificate expiration and connectivity monitoring with email and SMS alerts.
 
 ## Crash and Exception Handling
 
@@ -460,7 +460,6 @@ Table of Contents
    * [gliffy.com](http://gliffy.com/) — Online diagrams: flowchart, UML, wireframe,... Also plugins for Jira and Confluence. 5 diagrams and 2 MB free
    * [cacoo.com](https://cacoo.com/) — Online diagrams in real-time: flowchart, UML, network. Free max. 15 users/diagram, 25 sheets
    * [draw.io](https://www.draw.io/) — Online diagrams stored locally, in Google Drive, OneDrive or Dropbox. Free for all features and storage levels
-   * [hub.jazz.net](https://hub.jazz.net/) — IBM Bluemix's project management services. Free for public projects, free for up to 3 users for private projects
    * [leankit.com](http://leankit.com/) — Kanban board, that visualizes your workflow. Free up to 10 users
    * [visualstudio.com](https://www.visualstudio.com//products/what-is-visual-studio-online-vs) — Unlimited free private code repositories; Tracks bugs, work items, feedback and more
    * [testlio.com](https://testlio.com/) — Issue tracking, test management and beta testing platform. Free for private use
@@ -494,6 +493,7 @@ Table of Contents
    * [filestack.com](https://filestack.com/) — File picker, transform and deliver, free for 250 files, 500 transformations and 3 GB bandwidth
    * [packagecloud.io](https://packagecloud.io/) — Hosted Package Repositories for YUM, APT, RubyGem and PyPI.  Limited free plans, open source plans available via request
    * [image-charts.com](https://image-charts.com/) - Unlimited image chart generation with a watermark
+   * [jsonbin.io](https://jsonbin.io/) - Free JSON data storage service, ideal for small scale web apps, website, mobile apps.
 
 ## Design and UI
 
@@ -530,7 +530,7 @@ Table of Contents
    * [codeanywhere.com](https://codeanywhere.com/) — Full IDE in the browser and mobile apps. Access FTP, SFTP, Dropbox, Google Drive, GitHub and BitBucket. Hosted virtual machines with terminal access. Collaboration features like share links, live editing, permissions and version tracking
    * [codenvy.com](https://codenvy.com/) — IDE and automated developer workspaces in a browser, collaborative, Git/SVN integration, build and run your app in customizable Docker-based runners (free tier includes: 4 GB RAM, always-on machines, ability to run multiple machines simultaneously), pre-integrated deploy to Google Apps
    * [visualstudio.com](http://visualstudio.com/community) — Fully-featured IDE with thousands of extensions, cross-platform app development (Microsoft extensions available for download for iOS and Android), desktop, web and cloud development, multi-language support (C#, C++, JavaScript, Python, PHP and more)
-   * [cloud.sagemath.com](https://cloud.sagemath.com/) — Collaborative mathematics-oriented IDE in a browser, with support for Python, LaTeX, IPython Notebooks, etc
+   * [cocalc.com](https://cocalc.com/) (formerly SageMathCloud at cloud.sagemath.com) — Collaborative calculation in the cloud. Browser access to full Ubuntu with built-in collaboration and lots of free software for mathematics, science, data science, preinstalled: Python, LaTeX, Jupyter Notebooks, SageMath, scikitlearn, etc
    * [wakatime.com](https://wakatime.com/) — Quantified self metrics about your coding activity, using text editor plugins, limited plan for free
    * [apiary.io](https://apiary.io/) — Collaborative design API with instant API mock and generated documentation (Free for unlimited API blueprints and unlimited user with one admin account and hosted documentation)
    * [mockable.io](https://www.mockable.io/) — Mockable is a simple configurable service to mock out RESTful API or SOAP web-services. This online service allows you to quickly define REST API or SOAP endpoints and have them return JSON or XML data
@@ -608,6 +608,7 @@ Table of Contents
   * [screenshotmachine.com](https://screenshotmachine.com/) — Capture 100 snapshots/month, png, gif and jpg, including full-length captures, not only home page
   * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
   * [formaholic.com](https://formaholic.com) — Simple form endpoint. Perfect for static sites
+  * [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
 
 ## APIs, Data and ML
 

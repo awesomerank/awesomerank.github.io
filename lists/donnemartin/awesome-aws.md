@@ -681,7 +681,7 @@ AWS Repos:
 * [aws-elasticache-cluster-client-libmemcached ★13](https://github.com/awslabs/aws-elasticache-cluster-client-libmemcached) - Libmemcached library support.
 * [aws-elasticache-cluster-client-memcached-for-java ★52](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java) - Client for Java.
 * [aws-elasticache-cluster-client-memcached-for-php ★30](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-php) - Enhanced PHP library connecting to ElastiCache.
-* [elasticache-cluster-config-net ★14](https://github.com/awslabs/elasticache-cluster-config-net) - Config object for Enyim's MemcachedClient to enable auto discovery.
+* [elasticache-cluster-config-net ★14 ⏳1Y](https://github.com/awslabs/elasticache-cluster-config-net) - Config object for Enyim's MemcachedClient to enable auto discovery.
 
 Community Repos:
 
@@ -791,7 +791,7 @@ AWS Repos:
 * [opsworks-example-cookbooks ★85](https://github.com/awslabs/opsworks-example-cookbooks) - Cookbooks used with the sample apps.
 * [opsworks-first-cookbook ★9 ⏳2Y](https://github.com/awslabs/opsworks-first-cookbook) - Cookbook used to demonstrate simple recipes.
 * [opsworks-windows-demo- ★12](https://github.com/awslabs/opsworks-windows-demo-nodejs) - A sample Node.JS app.
-* [opsworks-windows-demo-cookbooks ★6 ⏳1Y](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - Cookbooks for Windows.
+* [opsworks-windows-demo-cookbooks ★6 ⏳2Y](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - Cookbooks for Windows.
 * [todo-sample-app-cookbooks ★5 ⏳2Y](https://github.com/awslabs/todo-sample-app-cookbooks) - Custom cookbooks associated with the todo-sample-app.
 
 Community Repos:
@@ -861,7 +861,7 @@ Community Repos:
 Community Repos:
 
 * [drewblas/aws-ses :fire::fire::fire: ★502](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
-* [microapps/MoonMail :fire::fire::fire: ★998](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda.
+* [microapps/MoonMail :fire::fire::fire::fire: ★998](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda.
 
 ### Simple Workflow
 

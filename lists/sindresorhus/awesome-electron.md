@@ -141,7 +141,7 @@ Made with Electron.
 - [Mattermost ★529](https://github.com/mattermost/desktop) - Mattermost client.
 - [PupaFM ★241](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
-- [Lightgallery ★771](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer.
+- [Lightgallery ★771 ⏳1Y](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer.
 - [Crypter ★210](https://github.com/HR/Crypter) - Secure encryption client.
 - [YakYak ★2849](https://github.com/yakyak/yakyak) - Unofficial Google Hangouts app.
 - [Museeks ★465](https://github.com/KeitIG/museeks) - Music player.

@@ -322,7 +322,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [rebar3_neotoma_plugin](https://github.com/zamotivator/rebar3_neotoma_plugin) - Rebar3 neotoma (Parser Expression Grammar) compiler.
 * [rebar3_protobuffs ★9 ⏳1Y](https://github.com/benoitc/rebar3_protobuffs) - rebar3 protobuffs provider using protobuffs from Basho.
 * [rebar3_run ★14 ⏳1Y](https://github.com/tsloughter/rebar3_run) - Run a release with one simple command.
-* [rebar3_yang_plugin ★0 ⏳1Y](https://github.com/surik/rebar3_yang_plugin) - Rebar3 yang compiler.
+* [rebar3_yang_plugin ★0 ⏳2Y](https://github.com/surik/rebar3_yang_plugin) - Rebar3 yang compiler.
 * [reltool_util ★14](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 * [relx ★457](https://github.com/erlware/relx) - A release assembler for Erlang.
 * [remix ★67](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
@@ -344,7 +344,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Chatting via IRC, Slack, HipChat and other systems using Elixir.*
 
 * [alice ★19](https://github.com/alice-bot/alice) - A Slack bot framework for Elixir.
-* [chatty ★31](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
+* [chatty ★31 ⏳1Y](https://github.com/alco/chatty) - A basic IRC client that is most useful for writing a bot.
 * [cog ★757](https://github.com/operable/cog) - Cog is an open chatops platform that gives you a secure, collaborative command line right in your chat window.
 * [ExIrc ★87](https://github.com/bitwalker/exirc) - IRC client adapter for Elixir projects.
 * [ExMustang ★37](https://github.com/techgaun/ex_mustang) - A simple, clueless slackbot and collection of responders.
@@ -1405,7 +1405,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mixpanel_data_client ★3 ⏳2Y](https://github.com/jeregrine/mixpanel_data_client) - Client for interacting with the Mixpanel Data Export API.
 * [mmExchangeRate ★0 ⏳2Y](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 * [nadia ★122](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.
-* [omise ★4](https://github.com/teerawat1992/omise-elixir) - Omise client library for Elixir.
+* [omise ★4 ⏳1Y](https://github.com/teerawat1992/omise-elixir) - Omise client library for Elixir.
 * [opbeat ★8](https://github.com/teodor-pripoae/opbeat) - Elixir client for Opbeat.
 * [pagexduty](https://github.com/ride/pagexduty) - A Pagerduty client for Elixir.
 * [parse_client ★4 ⏳2Y](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.

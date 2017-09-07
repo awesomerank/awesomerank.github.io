@@ -315,7 +315,7 @@ Additional lists you might find useful:
 - [Cors plugin ★19](https://github.com/snelg/cakephp-cors) - A lightweight plugin for adding CORS headers to specified endpoints.
 - [CrudJsonApi plugin ★7](https://github.com/FriendsOfCake/crud-json-api) - Crud listener for building [JSON API](http://jsonapi.org/) compliant APIs.
 - [FractalTransformerView plugin ★11 ⏳1Y](https://github.com/andrej-griniuk/cakephp-fractal-transformer-view) - A plugin which allows using [Fractal transformers](http://fractal.thephpleague.com/transformers/) for your API output.
-- [JsonApi plugin ★24](https://github.com/josbeir/cakephp-json-api) - Implements the [JSON API](http://jsonapi.org/) format.
+- [JsonApi plugin ★24 ⏳1Y](https://github.com/josbeir/cakephp-json-api) - Implements the [JSON API](http://jsonapi.org/) format.
 - [RestApi plugin ★42](https://github.com/multidots/cakephp-rest-api) - Provides basic support for building REST API services.
 
 ## Search
@@ -443,6 +443,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 
 - [cakephpbrasil.com.br](http://cakephpbrasil.com.br/) - The brazilian community website.
 - [CakePHP-FR.org](http://cakephp-fr.org) - The french community website.
+- [CakePHP.ir](http://forum.cakephp.ir/) - discussion with other devs and generic questions for Persian community.
 - [Google Group](https://groups.google.com/forum/#!forum/cake-php) - This is for generic questions and alike.
 - [IRC Channel](http://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
 - [stackoverflow.com/questions/tagged/cakephp](http://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.

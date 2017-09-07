@@ -212,7 +212,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 
 ### C
 - [8-Bit Wonderland](http://belial.blarzwurst.de/gbpaper/paper.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
-- [Grooves Game Boy Programming ★26 ⏳2Y](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
+- [Grooves Game Boy Programming ★26 ⏳3Y](https://github.com/gbdk-salvage/grooves-game-boy-programming) - A complete set of lessons about implementing various game mechanics in a Game Boy game.
 - [How to Write a Simple Side Scrolling Game](http://pastebin.com/F3tHLj68) - Old (but still relevant) tutorial.
 - [Just another simple tutorial](http://pastebin.com/gzT47MPJ)
 - [GBDK Tutorial](https://refreshgames.co.uk/2016/04/18/gameboy-tutorial-rom/) - Fairly minimal game demo for getting started with GBDK.
@@ -230,7 +230,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 
 ### ASM
 - [RedPlusPlus ★71](https://github.com/TheFakeMateo/RedPlusPlus) - An upgrade to Pokémon Red. Fixes several bugs and adds a lot of new features.
-- [Tuff ★266](https://github.com/BonsaiDen/Tuff.gb)
+- [Tuff ★266 ⏳1Y](https://github.com/BonsaiDen/Tuff.gb)
 - [2048-gb ★63 ⏳2Y](https://github.com/Sanqui/2048-gb)
 - [Snake](https://bitbucket.org/Sanqui/snake/src/?at=master)
 - [PlantBoy](https://github.com/siObyte/PlantBoy)
@@ -274,7 +274,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 ## Related sites, posts and projects
 - [papiGB ★0](https://github.com/diegovalverde/papiGB) - 
 Game Boy Classic fully functional FPGA implementation from scratch
-- [fpgaboy ★43](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
+- [fpgaboy ★43 ⏳1Y](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.
 - [Piglet ★31 ⏳2Y](https://github.com/danShumway/Piglet) - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development.
 - [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - Provides a study on the hardware and detailed constructional information for the realisation of three 8-bit bidirectional parallel ports.
 - [gbdk-n](https://github.com/rotmoset/gbdk-n) - Aims to update the gbdk libraries to be compatible with new versions of SDCC and provide helpers for building roms.

@@ -89,7 +89,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 ### Example Android Apps
 * [Android RubyMotionSamples](https://github.com/HipByte/RubyMotionSamples/tree/master/android) - Collection of RubyMotion applications for code samples by HipByte the creators of RubyMotion.
-* [Rubymotion-android-cookbook ★27 ⏳2Y](https://github.com/IconoclastLabs/rubymotion-android-cookbook) - Awesome rm cookbook examples for android.
+* [Rubymotion-android-cookbook ★27 ⏳3Y](https://github.com/IconoclastLabs/rubymotion-android-cookbook) - Awesome rm cookbook examples for android.
 
 
 ### Example iOS Apps

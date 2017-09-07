@@ -564,7 +564,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular 2 quickstart seed ★84](https://github.com/valor-software/angular2-quickstart)
 * [Angular 2 full code coverage ★16](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit testing and full code coverage
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
-* [ng2-boiler ★0](https://github.com/amcdnl/ng2-boiler) - A bare-bones simple starter with Angular2, TypeScript and Webpack configured.
+* [ng2-boiler ★0 ⏳1Y](https://github.com/amcdnl/ng2-boiler) - A bare-bones simple starter with Angular2, TypeScript and Webpack configured.
 * [Angular Webpack Starter ★85](https://github.com/antonybudianto/angular-webpack-starter) - Angular Webpack Starter with AoT compilation, Lazy-loading, and Tree-shaking
 * [Reaper ★6](https://github.com/Xamber/Reaper) - Angular 2 Webpack Starter Boilerplate w/o 2269 dependencies
 * [famn ★25](https://github.com/implustech/famn) - Angular 2 + FeathersJS application framework for both client and server side

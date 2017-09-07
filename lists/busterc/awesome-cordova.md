@@ -71,7 +71,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
       - [cordova-splash ★307](https://github.com/AlexDisler/cordova-splash)
       - [cordova-splash-gm ★7 ⏳2Y](https://github.com/disusered/cordova-splash-gm)
     - Plugin
-      - [generator-cordova-plugin ★12](https://github.com/lholmquist/generator-cordova-plugin)
+      - [generator-cordova-plugin ★12 ⏳1Y](https://github.com/lholmquist/generator-cordova-plugin)
       - [generator-cordova-plugin-bb10 ★0 ⏳1Y](https://github.com/blackberry/generator-cordova-plugin-bb10)
       - [generator-cordova-plugin-devbed ★14 ⏳1Y](https://github.com/sony/generator-cordova-plugin-devbed)
   - Testing

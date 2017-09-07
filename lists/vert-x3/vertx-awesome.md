@@ -143,7 +143,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [Hawkular metrics ★5 ⏳1Y](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI.
   * [DropWizard metrics ★18](https://github.com/vert-x3/vertx-dropwizard-metrics) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using DropWizard metrics.
   * [OpenTsDb Metrics ★8 ⏳1Y](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for Vert.x.
-  * [Bosun Monitoring ★3 ⏳1Y](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x.
+  * [Bosun Monitoring ★3 ⏳2Y](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x.
 
 * Netflix - Hystrix
   * [Hystrix Metrics Stream](https://github.com/kennedyoliveira/hystrix-vertx-metrics-stream.git) - Emits metrics for Hystrix Dashboard from a Vertx application with [Hystrix ★10719](https://github.com/Netflix/Hystrix).
@@ -314,6 +314,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Vert.x Dataloader ★30](https://github.com/engagingspaces/vertx-dataloader) - Java port of Facebook Dataloader for Vert.x. Efficient batching and caching for your data layer. 
 * [Vert.x Util ★1](https://github.com/juanavelez/vertx-util) - A collection of Vert.x utility methods.
 * [Vert.x Web Accesslog ★5](https://github.com/romanpierson/vertx-web-accesslog) - Just a simple handler to be used in Vert.x Web to generate access logs.
+* [Vert.x GraphQL Utils](http://github.com/tibor-kocsis/vertx-graphql-utils) - A route handler and Vert.x compatible interfaces to handle GraphQL queries in Vert.x and Vert.x Web.
 
 ## Community
 

@@ -501,7 +501,7 @@ Further resources:
 * [sylvester ★944 ⏳2Y](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
 * [simple-statistics ★1533](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
 * [regression-js ★358](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
-* [Lyric ★41 ⏳3Y](https://github.com/flurry/Lyric) - Linear Regression library.
+* [Lyric ★41 ⏳4Y](https://github.com/flurry/Lyric) - Linear Regression library.
 * [GreatCircle ★51](https://github.com/mwgg/GreatCircle) - Library for calculating great circle distance.
 
 <a name="julia"></a>

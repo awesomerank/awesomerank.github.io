@@ -488,7 +488,7 @@ Angle Regression
 *Handy Data Packages*
 
 * [engsoccerdata ★265](https://github.com/jalapic/engsoccerdata) - English and European soccer results 1871-2016.
-* [gapminder](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries throught the paste 50 years).
+* [gapminder](http://github.com/jennybc/gapminder) - Excerpt from the Gapminder dataset (data about countries throught the past 50 years).
 
 ## Other Tools
 *Handy Tools for R*

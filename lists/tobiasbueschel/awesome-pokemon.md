@@ -82,7 +82,7 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) - Wondrous, tailor-made Pokémon themes for your Hyper terminal.
 - [Pokemon-Go-Controller ★2472](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area.
 - [pokecrystal ★873](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
-- [x-pokemon ★90 ⏳1Y](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
+- [x-pokemon ★90 ⏳2Y](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
 - [pokered ★1225](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
 - [pokemon-reverse-engineering-tools ★129](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.

@@ -769,7 +769,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Kingfisher ★9354](https://github.com/onevcat/Kingfisher) - Image download and caching.
 * [Lightbox ★138](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
 * [MapleBacon ★188](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
-* [Misen ★119](https://github.com/tasanobu/Misen) - A script to support using Xcode Asset Catalog.
+* [Misen ★119 ⏳1Y](https://github.com/tasanobu/Misen) - A script to support using Xcode Asset Catalog.
 * [Moa ★260](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS.
 * [Nuke ★2312](https://github.com/kean/Nuke) - Advanced framework for loading, caching, processing, displaying and preheating images.
 * [PASImageView ★166](https://github.com/abiaad/PASImageView) - Async remote download your image and round them, automatically.
@@ -1220,7 +1220,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Libs to display alert, action sheet, notification, popup.* [back to top](#readme) 
 
 * [Alertift ★55](https://github.com/sgr-ksmt/Alertift) - Modern, easy UIAlertController wrapper.
-* [AlertKit ★18](https://github.com/thii/AlertKit) - Alert with a single line of code.
+* [AlertKit ★18 ⏳1Y](https://github.com/thii/AlertKit) - Alert with a single line of code.
 * [CDAlertView ★703](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
 * [EZAlertController ★272](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
 * [GoogleWearAlert ★444](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
@@ -1470,7 +1470,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Alexandria ★8](https://github.com/ovenbits/Alexandria) - A large set of convenience extensions for UIKit and Foundation.
 * [AlexaSkillsKit ★107](https://github.com/choefele/AlexaSkillsKit) - Develop custom Alexa Skills.
 * [ArrayDiff ★84](https://github.com/Adlai-Holler/ArrayDiff) - A fast, UITableView/UICollectionView-compatible array diffing microframework.
-* [Basis ★302](https://github.com/typelift/Basis) - Pure Declarative Programming.
+* [Basis ★302 ⏳1Y](https://github.com/typelift/Basis) - Pure Declarative Programming.
 * [Butterfly ★406 ⏳1Y](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [CallbackURLKit ★187](https://github.com/phimage/CallbackURLKit) - Implementation of x-callback-url (Inter app communication).
 * [Cormorant ★129](https://github.com/austinzheng/Cormorant) - Clojure(ish) interpreter.

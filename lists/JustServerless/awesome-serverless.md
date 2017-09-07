@@ -750,6 +750,13 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless v1.21.0](https://serverless.com/blog/serverless-v1.21.0/) - Announcement blog post for Serverless Framework v1.21.0.
 - [Bitnami Partners with Serverless.com on Kubernetes-Native Functions as a Service offering](http://www.prweb.com/releases/2017/08/prweb14639837.htm) - Press release about the Kubeless provider integration for the Serverless Framework.
 - [Serverless Framework Gains Kubernetes-Native Support](https://www.sdxcentral.com/articles/news/serverless-kubeless-framework-gains-kubernetes-native-support/2017/08/) - Post about the recent Kubeless provider integration into the Serverless Framework.
+- [JeffConf Milan 2017 - Final announcements](https://serverless.zone/jeffconf-milan-2017-announcing-final-location-date-speakers-and-agenda-17a8141d5743) - Final location, date, speakers, and agenda announcements for JeffConf Milan 2017.
+- [Exploring AWS Lambda deployment limits](https://hackernoon.com/exploring-the-aws-lambda-deployment-limits-9a8384b0bec3) - How to beat the AWS Lambda deployment limits.
+- [StackPointCloud partners with Bitnami for serverless computing](https://www.geekwire.com/2017/seattles-stackpointcloud-partners-bitnami-serverless-computing-top-kubernetes/) - Post about the partnership between Seattle’s StackPointCloud and Bitnami to do serverless computing on top of Kubernetes.
+- [Hot to run serverless functions at half the cost](https://serverless.com/blog/running-multi-cloud-functions-at-spot-instance-prices/) - Announcement post about the Spotinst Functions provider integration for the Serverless Framework.
+- [Unified logging for serverelss functions](https://fly.io/articles/unified-logging/) - How to unify the logging process for serverless functions.
+- [Using Ansible for deploying serverless applications](https://opensource.com/article/17/8/ansible-serverless-applications) - How to use Ansible and the Serverless Framework to deploy serverless applications.
+- [OpenFaaS presentes to CNCF serverless workgroup](https://blog.alexellis.io/openfaas-cncf-workgroup/) - Post about the presentation OpenFaaS gave at the CNCF serverless workgroup meeting.
 
 ## Screencasts
 
@@ -926,6 +933,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Kubeless in Google Container Engine (GKE)](https://www.youtube.com/watch?v=zNyHGs_R98o) - How to go serverless with the help of Kubeless in Google Container Engine (GKE).
 - [Unikernels and event-driven serverless platforms](https://s3-us-west-2.amazonaws.com/emit-website/2017-slides/Unikernels+and+Event-driven+Serverless+Platforms.pdf) - Slide deck from Madhuri Yechuris talk about unikernels in the serverless computing space.
 - [AWS & Serverless technology](https://www.youtube.com/watch?v=7sPb0EQKKO4) - Ryan Kroonenburgs talk about AWS, A Cloud Guru and their serverless architecture.
+- [Kubeless demo @ CNCF WG-Serverless meeting](https://speakerdeck.com/arapulido/kubeless-demo-at-cncf-wg-serverless-meeting) - Slide deck from the Kubeless team about Kubeless and their integration with the Serverless Framework.
 
 ## Amazon AWS resources
 
@@ -1273,6 +1281,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Arguments against / in favor of serverless](https://docs.google.com/spreadsheets/d/1leLOtHpYuewtu2aw5QOnqBJahY96bnlVb_HCrVfxvhI/edit#gid=0) - Google Spreadsheet which collects all the arguments for and against serverless computing.
 - [AWS Lambda Launcher](https://www.backand.com/aws-lambda-launcher-test-run/) - Free tool to test and run AWS Lambda functions without AWS credentials.
 - [Lambda SES forwarder ★382](https://github.com/arithmetric/aws-lambda-ses-forwarder) - Serverless E-Mail forwarding using AWS Lambda and SES.
+- [Sublime AWS Lambda ★5](https://github.com/revmischa/sublime-awslambda) - Sublime Text 3 plugin for editing AWS Lambda function sources easily.
+- [Nuclio ★97](https://github.com/nuclio/nuclio) - High-Performance serverless event and data processing framework.
+- [OpenFaaS](https://www.openfaas.com) - Open source implementation to run serverless functions in containers (formerly known as FaaS).
 
 ## Plugins
 
@@ -1428,6 +1439,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Transpiler ★2](https://github.com/medikoo/serverless-plugin-transpiler) - Transpile Lambda files when packaging Lambda.
 - [Log streaming ★4](https://github.com/rifflock/serverless-logstreaming-plugin) - Stream logs to a handler function.
 - [Lambda@Edge ★4](https://github.com/silvermine/serverless-plugin-cloudfront-lambda-edge) - Adds Lambda@Edge support to Serverless.
+- [API Gateway ★2](https://github.com/GFG/serverless-apigateway-plugin) - Configure the AWS API Gateway: Binary support, Headers and Body template mappings.
+- [Spotinst Functions ★6](https://github.com/spotinst/serverless-spotinst-functions) - Spotinst Functions provider plugin for the Serverless Framework.
 
 ## Literature / Education
 

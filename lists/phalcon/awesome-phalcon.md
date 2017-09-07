@@ -89,7 +89,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Jumpstart ★6](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator
 * [Phalcon Module Skeleton ★130 ⏳1Y](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon PHP Framework
 * [phalcon.angular.bootstrap ★10 ⏳1Y](https://github.com/zhegwood/phalcon.angular.bootstrap) - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap
-* [PhalconPHP-Setup-Example ★14 ⏳2Y](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower
+* [PhalconPHP-Setup-Example ★14 ⏳3Y](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower
 * [Solid Layer ★65](https://github.com/solid-layer/solid-layer) - A framework/large wrapper built under Phalcon PHP Framework
 * [Vökuró ★289](https://github.com/phalcon/vokuro) - Sample application for Phalcon PHP Framework (Acl, Auth, Security)
 * [Webird ★78](https://github.com/perchlayer/webird) - Webird was created to merge the latest PHP and Node.js innovations into a single application stack

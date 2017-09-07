@@ -188,7 +188,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-grid ★16](https://github.com/corneliutusnea/aurelia-grid) * A fresh Aurelia Grid written in TypeScript based charlespockert's Aurelia BS Grid
 * [aurelia-google-analytics ★15](https://github.com/miguelzakharia/aurelia-google-analytics) * An Aurelia.io plugin that adds Google Analytics page tracking to your project.
 * [aurelia-knockout ★12](https://github.com/code-chris/aurelia-knockout) * A Knockout plugin for Aurelia
-* [aurelia-leaflet ★4 ⏳1Y](https://github.com/ceoaliongroo/aurelia-leaflet) * Leaflet Plugin for Aurelia
+* [aurelia-leaflet ★4 ⏳2Y](https://github.com/ceoaliongroo/aurelia-leaflet) * Leaflet Plugin for Aurelia
 * [aurelia-notify ★14](https://github.com/MarcScheib/aurelia-notify) * A notification plugin for Aurelia
 * [aurelia-rethink-bindtable ★16](https://github.com/kristianmandrup/aurelia-rethink-bindtable) * Aurelia bind table integration for RethinkDB via Socket.io
 * [aurelia-sails-socket-client ★21](https://github.com/Mordred/aurelia-sails-socket-client) * A simple, restful, message-based wrapper around sails.io client

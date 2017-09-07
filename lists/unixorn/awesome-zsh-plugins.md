@@ -293,7 +293,7 @@ These frameworks make customizing your zsh setup easier.
 * [history-sync ★20](https://github.com/wulfgarpro/history-sync) - An Oh My Zsh plugin for GPG encrypted, Internet synchronized Zsh history using Git.
 * [hooks ★14 ⏳1Y](https://github.com/willghatch/zsh-hooks) - Add missing hooks - for plugins and personal use.
 * [host-switch ★1 ⏳1Y](https://github.com/LockonS/host-switch) - Make it easier to switch in different `/etc/hosts` files during development.
-* [hub-ci-zsh-plugin ★0 ⏳1Y](https://github.com/raymondjcox/hub-ci-zsh-plugin) - A simple plugin for adding hub ci-status to your zsh theme.
+* [hub-ci-zsh-plugin ★0 ⏳2Y](https://github.com/raymondjcox/hub-ci-zsh-plugin) - A simple plugin for adding hub ci-status to your zsh theme.
 * [iosctl ★1](https://github.com/obayer/iosctl) - Quickly access App, Data, and Log of the running simulator.
 * [iterm-tab-colors ★7](https://github.com/tysonwolker/iterm-tab-colors) - Automatically changes iTerm tab color based on the current working directory
 * [java-zsh-plugin ★0 ⏳1Y](https://github.com/Xetius/java-zsh-plugin) - Adds a setjdk command so you can switch easily between different versions of the jdk.
@@ -642,7 +642,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [megaprompt](https://github.com/willghatch/zsh-megaprompt) - A maximalist prompt including keyboard mode, ownership info, and other contextual info, with λ as the prompt character. Requires the [hooks ★14 ⏳1Y](https://github.com/willghatch/zsh-hooks) plugin.
 * [min ★5](https://github.com/andrepolischuk/min) - A minimalistic ZSH prompt.
 * [mindful-space ★2 ⏳2Y](https://github.com/syndbg/mindful-space-zsh-theme) - ZSH theme with space in mind.
-* [minimal ★47](https://github.com/S1cK94/minimal) - S1ck94's minimal theme.
+* [minimal ★47 ⏳1Y](https://github.com/S1cK94/minimal) - S1ck94's minimal theme.
 * [misa ★1 ⏳3Y](https://github.com/misalabs/misa.zsh-theme) - Misalabs' ZSH theme.
 * [mixed](https://github.com/dnavtoparts/mixed-zsh-theme) - Optimized for Dark Background.
 * [molokai-powerline-zsh ★7 ⏳1Y](https://github.com/prikhi/molokai-powerline-zsh) - Based on [agnoster](https://gist.github.com/agnoster/3712874).
@@ -677,7 +677,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [powerzeesh](https://github.com/sevaho/Powerzeesh) - A Powerline based ZSH theme. It aims for simplicity, showing information only when it's relevant, optimized for speed and look. Inspired by [Agnoster](https://github.com/agnoster/agnoster-zsh-theme) and [Powerline ★842](https://github.com/jeremyFreeAgent/oh-my-zsh-powerline-theme)
 * [pre-theme ★30](https://github.com/leandromatos/pre-theme) - A collection of themes for Sublime Text, Terminal, iTerm2 and ZSH.
 * [predawn-shell ★25](https://github.com/jamiewilson/predawn-shell) - Theme for dark terminal themes.
-* [prezto-cloud-prompt ★0 ⏳2Y](https://github.com/klaude/prezto-cloud-prompt) - Prezto port of oh-my-zsh's cloud prompt.
+* [prezto-cloud-prompt ★0 ⏳3Y](https://github.com/klaude/prezto-cloud-prompt) - Prezto port of oh-my-zsh's cloud prompt.
 * [prezto-lambda ★0 ⏳2Y](https://github.com/nixolas1/prezto-lambda) - Lambda theme (for prezto).
 * [prezto_powerline ★98](https://github.com/davidjrice/prezto_powerline) - Powerline for prezto. Shows git information, RVM version.
 * [punctual](https://github.com/dannynimmo/punctual-zsh-theme) - Easily customizable, influenced by [spaceship ★1377](https://github.com/denysdovhan/spaceship-zsh-theme).
@@ -720,7 +720,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [trajan ★1 ⏳5Y](https://github.com/denisinla/trajan-zsh-theme) - A dark theme for ZSH.
 * [trinity](https://github.com/de-luca/Trinity) - A simple theme based on [geometry](https://github.com/frmendes/geometry).
 * [tvline ★2 ⏳2Y](https://github.com/thvitt/tvline) - Derived from [agnoster's theme](https://gist.github.com/agnoster/3712874), adds powerline font enhancements.
-* [ultimate](https://github.com/b4b4r07/ultimate) - Minimalist theme forked from [S1cK94/minimal ★47](https://github.com/S1cK94/minimal).
+* [ultimate](https://github.com/b4b4r07/ultimate) - Minimalist theme forked from [S1cK94/minimal ★47 ⏳1Y](https://github.com/S1cK94/minimal).
 * [vinhnx ★7 ⏳3Y](https://github.com/vinhnx/vinhnx.zsh-theme) - Modified from themes/mgutz.zsh-theme.Looks great when using with Solarized color scheme.
 * [wang-iterm-zsh ★5 ⏳1Y](https://github.com/0532/wang-iterm-zsh) - Based on the 0532 theme.
 * [wild-cherry ★287](https://github.com/mashaal/wild-cherry) - A fairy-tale inspired theme for ZSH, iTerm, Sublime, Atom, & Mou.

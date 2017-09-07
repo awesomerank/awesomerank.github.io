@@ -27,7 +27,7 @@ It is specifically focused on _GitHub_, and not on [Git](https://git-scm.com/). 
 
 All that to say, this list -- [Awesome GitHub ★297](https://github.com/phillipadsmith/awesome-github) -- is an attempt to document that aspect of what is awesome: everything that GitHub has become -- far beyond what Git is today, and beyond where GitHub started just eight years ago.
 
-The inspiration for this list came from [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) for the [2015 Mozilla Festival](https://2015.mozillafestival.org/). I later learned, serendiptiously, that the Mozilla Festival itself was using [GitHub issues to manage the program ★41 ⏳1Y](https://github.com/mozilla/mozfest-program) -- reviewing proposals, assign sessions to tracks and themes, and much more. Just one more example of how GitHub is being used to make awesome.
+The inspiration for this list came from [a session proposal](http://phillipadsmith.com/2015/09/github-gitdown.html) for the [2015 Mozilla Festival](https://2015.mozillafestival.org/). I later learned, serendiptiously, that the Mozilla Festival itself was using [GitHub issues to manage the program ★41 ⏳2Y](https://github.com/mozilla/mozfest-program) -- reviewing proposals, assign sessions to tracks and themes, and much more. Just one more example of how GitHub is being used to make awesome.
 
 ------
 
@@ -80,7 +80,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [Prose](http://prose.io/#about) - Prose provides a beautifully simple content authoring environment for [CMS-free websites](https://developmentseed.org/blog/2012/07/27/build-cms-free-websites/). It's a web-based interface for managing content on GitHub. 
 - [Redliner ★19 ⏳2Y](https://github.com/benbalter/redliner) - A tool for facilitating the redlining of documents with the GitHub uninitiated. 
 - [Gatekeeper ★526](https://github.com/prose/gatekeeper) - Enables client-side applications to dance OAuth with GitHub.
-- [github-secret-keeper ★49 ⏳1Y](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
+- [github-secret-keeper ★49 ⏳2Y](https://github.com/HenrikJoreteg/github-secret-keeper) - Microservice to enable GitHub login for multiple server-less applications.
 - [Hub ★11143](https://github.com/github/hub) - A command line tool that wraps git in order to extend it with extra features and commands that make working with GitHub easier.
 - [Ghizmo ★40](https://github.com/jlevy/ghizmo) - A command line for GitHub, allowing access to all APIs.
 - [cli-github ★170](https://github.com/harshasrinivas/cli-github) - Github made pretty, within the command line.
@@ -99,7 +99,7 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 
 ## Novel uses of GitHub
 
-- [Mozilla Festival ★41 ⏳1Y](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
+- [Mozilla Festival ★41 ⏳2Y](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
 - [Open Source Society University ★23403](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
 - [Clef's Handbook ★2493](https://github.com/clef/handbook) - An employee handbook built for inclusion.
 - [The United States Code ★643](https://github.com/divegeek/uscode) - The complete United States Code.

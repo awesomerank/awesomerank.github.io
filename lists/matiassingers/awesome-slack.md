@@ -163,7 +163,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ### Haskell
 
-- [hi5bot ★17 ⏳1Y](https://github.com/hlian/hi5bot) - Get and give high-fives on Slack
+- [hi5bot ★17 ⏳2Y](https://github.com/hlian/hi5bot) - Get and give high-fives on Slack
 - [jpgtobot ★17 ⏳2Y](https://github.com/hlian/jpegbot) - jpg.to bot for Slack
 - [slack ★34](https://github.com/owainlewis/slack) - A Haskell client for the Slack web API
 
@@ -341,7 +341,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [SlackBundle ★35](https://github.com/DZunke/SlackBundle) - SlackBundle for Symfony2
 - [slackcamp ★64 ⏳1Y](https://github.com/jamescarlos/slackcamp) - Post Basecamp events to Slack
 - [Slacker ★552 ⏳1Y](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI
-- [SlackGoogle ★15 ⏳1Y](https://github.com/dommerq/SlackGoogle) - Slash command that returns a Google search URL, like LMGTFY
+- [SlackGoogle ★15 ⏳2Y](https://github.com/dommerq/SlackGoogle) - Slash command that returns a Google search URL, like LMGTFY
 - [SlackHelper ★5 ⏳2Y](https://github.com/leoetlino/SlackHelper) - Object-oriented classes for sending data to Slack via incoming webhooks
 - [SlackHolidayBot ★11 ⏳3Y](https://github.com/bradslavin/SlackHolidayBot) - Posts today's holiday to a channel in Slack
 - [slackuntappd ★16 ⏳2Y](https://github.com/gregavola/slackuntappd) - A webhook that allows you to search for beer information within Slack via Untappd

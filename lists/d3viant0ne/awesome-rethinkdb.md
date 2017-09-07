@@ -171,7 +171,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 - [C# ★209](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
 - [C++ ★62](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++.
 - [Clojure ★173](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure.
-- [Dart ★20](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3.
+- [Dart ★20 ⏳1Y](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3.
 - [Elixir ★465](https://github.com/hamiltop/rethinkdb-elixir) - Multiplexed RethinkDB client in pure Elixir.
 - [Go](https://github.com/dancannon/gorethink) - Go language driver for RethinkDB. 
 - [Haskell ★87](https://github.com/AtnNn/haskell-rethinkdb) - RethinkDB client library for Haskell.
@@ -247,7 +247,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 #### Deployment
 
 - [Vagrant ★47 ⏳1Y](https://github.com/RyanAmos/rethinkdb-vagrant) - Install RethinkDB using Vagrant.
-- [Puppet ★5 ⏳2Y](https://github.com/tmont/puppet-rethinkdb) - Puppet module for RethinkDB.
+- [Puppet ★5 ⏳3Y](https://github.com/tmont/puppet-rethinkdb) - Puppet module for RethinkDB.
 - [Chef ★16 ⏳3Y](https://github.com/AVVSDevelopment/chef-rethinkdb) - Chef RethinkDB cookbook.
 - [Wrecker ★10 ⏳2Y](https://github.com/mies/box-rethinkdb) - Wercker box for RethinkDB.
 - [Docker](https://github.com/crosbymichael/Dockerfiles/blob/master/rethinkdb/Dockerfile) - Single node Dockerfile.

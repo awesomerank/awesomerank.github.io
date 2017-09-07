@@ -90,7 +90,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [flatten-obj ★11](https://github.com/watson/flatten-obj) - Converts an object literal with deeply nested nodes to a simple key/value object.
 * [is-empty-object ★10 ⏳1Y](https://github.com/gummesson/is-empty-object) - Check if an object is empty.
 * [stringify-object ★131](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
-* [sorted-object ★19](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
+* [sorted-object ★19 ⏳1Y](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
 * [static-props ★1](https://github.com/fibo/static-props) - Defines static object attributes using `Object.defineProperties`
 * [missing-deep-keys ★0 ⏳1Y](https://github.com/vladgolubev/missing-deep-keys) - Returns an array of keys from first object that are missing in second.
 * [has-own-property ★2](https://github.com/LinusU/has-own-property) - Check if an object has a local property. 
@@ -106,7 +106,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 ### Math
 
-* [is-number ★24](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
+* [is-number ★24 ⏳1Y](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
 
 ### Stream
 * [through2 ★1164](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.

@@ -69,7 +69,7 @@ More info [here](http://tensorflow.org).
 * [Generative Handwriting Demo using TensorFlow ★398](https://github.com/hardmaru/write-rnn-tensorflow) - An attempt to implement the random handwriting generation portion of Alex Graves' paper
 * [Neural Turing Machine in TensorFlow ★686](https://github.com/carpedm20/NTM-tensorflow) - implementation of Neural Turing Machine
 * [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting ★270 ⏳1Y](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
-* [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow ★175](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vis-versa.
+* [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow ★175](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
 * [Chatbot ★964](https://github.com/Conchylicultor/DeepQA) - Implementation of ["A neural conversational model"](http://arxiv.org/abs/1506.05869)
 * [Colornet - Neural Network to colorize grayscale images ★3136](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 * [Neural Caption Generator ★284](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
@@ -93,7 +93,7 @@ More info [here](http://tensorflow.org).
 
 
 * [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow ★206](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
-
+* [Attentive Object Tracking ★41](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
 <a name="github-powered-by" />
 
 ## Powered by TensorFlow

@@ -505,7 +505,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [GarageEngine ★280 ⏳4Y](https://github.com/vova616/GarageEngine) - 2d game engine written in Go working on OpenGL.
 * [glop ★77 ⏳1Y](https://github.com/runningwild/glop) - Glop (Game Library Of Power) is a fairly simple cross-platform game library.
 * [go-astar ★203](https://github.com/beefsack/go-astar) - Go implementation of the A\* path finding algorithm.
-* [go-collada ★11 ⏳3Y](https://github.com/GlenKelley/go-collada) - Go package for working with the Collada file format.
+* [go-collada ★11 ⏳4Y](https://github.com/GlenKelley/go-collada) - Go package for working with the Collada file format.
 * [go-sdl2 ★647](https://github.com/veandco/go-sdl2) - Go bindings for the [Simple DirectMedia Layer](https://www.libsdl.org/).
 * [go3d ★124 ⏳2Y](https://github.com/ungerik/go3d) - Performance oriented 2D/3D math package for Go.
 * [gonet ★842](https://github.com/xtaci/gonet) - Game server skeleton implemented with golang.
@@ -525,6 +525,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [gen ★823](https://github.com/clipperhouse/gen) - Code generation tool for ‘generics’-like functionality.
 * [go-enum ★11](https://github.com/abice/go-enum) - Code generation for enums from code comments.
 * [go-linq](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go.
+* [goderive ★412](https://github.com/awalterschulze/goderive) - Derives functions from input types.
 * [interfaces ★111](https://github.com/rjeczalik/interfaces) - Command line tool for generating interface definitions.
 * [jennifer ★502](https://github.com/dave/jennifer) - Generate arbitrary Go code without templates.
 * [pkgreflect ★56](https://github.com/ungerik/pkgreflect) - Go preprocessor for package scoped reflection.
@@ -653,7 +654,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [slf ★33 ⏳1Y](https://github.com/ventu-io/slf) - The Structured Logging Facade (SLF) for Go (like SLF4J but structured and for Go).
 * [slog ★22 ⏳1Y](https://github.com/ventu-io/slog) - The reference implementation of the Structured Logging Facade (SLF) for Go.
 * [spew ★1522](https://github.com/davecgh/go-spew) - Implements a deep pretty printer for Go data structures to aid in debugging.
-* [stdlog ★40 ⏳1Y](https://github.com/alexcesaro/log) - Stdlog is an object-oriented library providing leveled logging. It is very useful for cron jobs.
+* [stdlog ★40 ⏳2Y](https://github.com/alexcesaro/log) - Stdlog is an object-oriented library providing leveled logging. It is very useful for cron jobs.
 * [tail ★806](https://github.com/hpcloud/tail) - Go package striving to emulate the features of the BSD tail program.
 * [xlog ★1](https://github.com/xfxdev/xlog) - Plugin architecture and flexible log system for Go, with level ctrl, multiple log target and custom log format.
 * [xlog ★105](https://github.com/rs/xlog) - Structured logger for `net/context` aware HTTP handlers with flexible dispatching.
@@ -732,7 +733,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [banner ★136](https://github.com/dimiro1/banner) - Add beautiful banners into your Go applications.
 * [battery ★70](https://github.com/distatus/battery) - Cross-platform, normalized battery information library.
 * [bitio ★29](https://github.com/icza/bitio) - Highly optimized bit-level Reader and Writer for Go.
-* [browscap_go ★24](https://github.com/digitalcrab/browscap_go) - GoLang Library for [Browser Capabilities Project](http://browscap.org/).
+* [browscap_go ★24 ⏳1Y](https://github.com/digitalcrab/browscap_go) - GoLang Library for [Browser Capabilities Project](http://browscap.org/).
 * [conv ★304](https://github.com/cstockton/go-conv) - Package conv provides fast and intuitive conversions across Go types.
 * [datacounter ★17](https://github.com/miolini/datacounter) - Go counters for readers/writer/http.ResponseWriter.
 * [errors ★2135](https://github.com/pkg/errors) - Package that provides simple error handling primitives.
@@ -1189,7 +1190,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [Deepcopier ★116](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
 * [delve ★6196](https://github.com/derekparker/delve) - Go debugger.
 * [dlog ★6](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
-* [excelize](https://github.com/Luxurioust/excelize) - Golang library for reading and writing Microsoft Excel (XLSX) files.
+* [excelize ★1404](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 * [fastlz ★6 ⏳2Y](https://github.com/digitalcrab/fastlz) - Wrap over [FastLz](http://fastlz.org/) (free, open-source, portable real-time compression library) for GoLang.
 * [filetype ★157](https://github.com/h2non/filetype) - Small package to infer the file type checking the magic numbers signature.
 * [filler ★8](https://github.com/yaronsumel/filler) - small utility to fill structs using "fill" tag.
@@ -1361,11 +1362,11 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 * [formjson ★25 ⏳1Y](https://github.com/rs/formjson) - Transparently handle JSON input as a standard form POST.
 * [Limiter ★263](https://github.com/ulule/limiter) - Dead simple rate limit middleware for Go.
 * [Tollbooth ★578](https://github.com/didip/tollbooth) - Rate limit HTTP request handler.
-* [XFF ★60](https://github.com/sebest/xff) - Handle `X-Forwarded-For` header and friends.
+* [XFF ★60 ⏳1Y](https://github.com/sebest/xff) - Handle `X-Forwarded-For` header and friends.
 
 #### Libraries for creating HTTP middlewares
 
-* [alice ★1313](https://github.com/justinas/alice) - Painless middleware chaining for Go.
+* [alice ★1313 ⏳1Y](https://github.com/justinas/alice) - Painless middleware chaining for Go.
 * [catena ★6](https://github.com/codemodus/catena) - http.Handler wrapper catenation (same API as "chain").
 * [chain ★63](https://github.com/codemodus/chain) - Handler wrapper chaining with scoped data (net/context-based "middleware").
 * [go-wrap ★52 ⏳2Y](https://github.com/go-on/wrap) - Small middlewares package for net/http.
@@ -1479,7 +1480,7 @@ See [go-hardware ★546](https://github.com/rakyll/go-hardware) for a comprehens
 ### DevOps Tools
 
 * [aptly ★1386](https://github.com/smira/aptly) - aptly is a Debian repository management tool.
-* [aurora](https://github.com/Luxurioust/aurora) - Cross-platform web-based Beanstalkd queue server console.
+* [aurora ★206](https://github.com/xuri/aurora) - Cross-platform web-based Beanstalkd queue server console.
 * [awsenv ★11](https://github.com/soniah/awsenv) - Small binary that loads Amazon (AWS) environment variables for a profile.
 * [Banshee ★826](https://github.com/eleme/banshee) - Anomalies detection system for periodic metrics.
 * [bombardier ★586](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool.

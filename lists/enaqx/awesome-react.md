@@ -577,7 +577,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Graphics
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
 * [react-canvas - High performance <canvas> rendering for React components ★10337](https://github.com/Flipboard/react-canvas)
-* [react-famous - Complex 3D animations UI at 60 FPS with Famo.us ★161 ⏳1Y](https://github.com/pilwon/react-famous)
+* [react-famous - Complex 3D animations UI at 60 FPS with Famo.us ★161 ⏳2Y](https://github.com/pilwon/react-famous)
 * [react-kinetic - HTML5 Canvas via KineticJS using React ★65 ⏳2Y](https://github.com/freiksenet/react-kinetic)
 * [react-svg-morph - morph your svg components one into another ★392](https://github.com/gorangajic/react-svg-morph)
 

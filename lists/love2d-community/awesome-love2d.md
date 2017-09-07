@@ -78,7 +78,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [FPSGraph ★12 ⏳3Y](https://github.com/icrawler/FPSGraph) - Small FPS graphing utility
 * [debugGraph ★14 ⏳1Y](https://github.com/Mechazawa/Love-Debug-Graph) - Small OO FPS graphing utillity based on FPSGraph
 * [Lovebird ★139](https://github.com/rxi/lovebird) - Browser-based debug console
-* [Lovecat ★16 ⏳1Y](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
+* [Lovecat ★16 ⏳2Y](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
 * [LoveDebug ★56](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
 * [lurker ★100 ⏳2Y](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API ★82](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
@@ -242,7 +242,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Löve-Nuklear ★80](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games
 * [Patchy ★16 ⏳1Y](https://github.com/excessive/patchy) - 9patch library
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
-* [SafeWord ★1 ⏳1Y](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
+* [SafeWord ★1 ⏳2Y](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [SUIT ★217](https://github.com/vrld/SUIT) - small immediate mode GUI library
 
 ## Utilities

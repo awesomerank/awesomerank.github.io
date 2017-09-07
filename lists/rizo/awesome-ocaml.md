@@ -478,7 +478,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [Goji ★29 ⏳3Y](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
   - [Syndic ★21](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
   - [ocaml-mustache ★27](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
-  - [atdjs ★10 ⏳3Y](https://github.com/barko/atdjs) – atd code generator for OCaml/js_of_ocaml.
+  - [atdjs ★10 ⏳4Y](https://github.com/barko/atdjs) – atd code generator for OCaml/js_of_ocaml.
   - [jingoo ★50](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
   - [dispatch ★18](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
   - [Lambda Soup ★137](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.

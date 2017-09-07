@@ -52,9 +52,11 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [DevTools Protocol API Docs](https://chromedevtools.github.io/devtools-protocol/) - Easy browsable UI for exploring the protocol's domains, methods and events
 - [ChromeDevTools/devtools-protocol ★77](https://github.com/chromedevtools/devtools-protocol) - Issue tracker for protocol bugs
 - [Remote Debug Gateway ★54 ⏳1Y](https://github.com/RemoteDebug/remotedebug-gateway) - Allows you to connect a client to multiple browsers at once.
+- [DevTools Backend ★10](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments. 
 - [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) - The official Selenium/WebDriver implementation for Chrome is implemented on top of the DevTools Protocol.
 - [Chrome Protocol Proxy ★25](https://github.com/wendigo/chrome-protocol-proxy) - tool for debugging clients using devtools protocol
+- [Puppeteer ★12807](https://github.com/GoogleChrome/puppeteer) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol
 
 #### Protocol driver libraries (in various languages)
 - JavaScript/Node.js: [chrome-remote-interface ★1773](https://github.com/cyrus-and/chrome-remote-interface) - The most-used JavaScript API for the protocol

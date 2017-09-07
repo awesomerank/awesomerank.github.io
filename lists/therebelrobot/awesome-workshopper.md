@@ -66,7 +66,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [planetproto ★197](https://github.com/sporto/planetproto) | Understanding JavaScript Prototypes |
 | [promise-it-wont-hurt ★486](https://github.com/stevekane/promise-it-wont-hurt) | A Workshopper module that teaches you to use promises in javascript |
 | [secureyournode ★19 ⏳2Y](https://github.com/someoneweird/secureyournode) | Security workshop |
-| [security-adventure ★299 ⏳3Y](https://github.com/toolness/security-adventure) | Go on an educational Web security adventure! |
+| [security-adventure ★299 ⏳4Y](https://github.com/toolness/security-adventure) | Go on an educational Web security adventure! |
 | [stream-adventure](https://github.com/substack/stream-adventure) | go on an educational stream adventure! |
 | [stylist-workshop ★40 ⏳2Y](https://github.com/alanshaw/stylist) | Introduction to CSS |
 | [swirl ★641](https://github.com/swirldev/swirl) | Learn the statistical computing and graphics programming language R, in R |

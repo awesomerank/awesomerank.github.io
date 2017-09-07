@@ -285,7 +285,6 @@ Most of the following packages are available in [[https://github.com/milkypostma
 
 *** Python
 
-    - [[https://github.com/tkf/emacs-jedi][Jedi]] - A Python auto-completion package.
     - [[https://github.com/jorgenschaefer/elpy][Elpy]] - An Emacs Python development environment.
     - [[https://github.com/proofit404/anaconda-mode][anaconda-mode]] - Code navigation, documentation lookup and completion for Python.
     - [[https://github.com/porterjamesj/virtualenvwrapper.el][virtualenvwrapper.el]] - Manage virtualenv from inside Emacs.
@@ -473,7 +472,7 @@ External Guides:
 *** Stan
 
     - [[https://github.com/stan-dev/stan-mode][stan-mode]] - An Emacs major mode for editing Stan code.
-    
+
 *** MIPS Assembly
 
     - [[https://github.com/hlissner/emacs-mips-mode][mips-mode]] - An emacs major mode for editing MIPS assembly
@@ -763,9 +762,10 @@ External Guides:
    - [[https://github.com/rdallasgray/graphene][Graphene]] - A set of defaults for Emacs, for refugees from GUI text editors.
    - [[https://github.com/bodil/ohai-emacs][Ohai Emacs]] - The finest hand crafted artisanal emacs.d for your editing pleasure.
    - [[http://emacs-bootstrap.com/][Emacs-Bootstrap]] - Your on-the-fly Emacs development environment!
+   - [[https://github.com/jkitchin/scimax][Scimax]] - An Emacs starter kit for scientists and engineers with a focus on Org-Mode.
 
 ** Noteworthy Configurations
- 
+
   - [[https://github.com/emacsmirror/emacswiki.org/blob/master/emacs-init.el][init.el]] - Drew Adams : Icicles, bookmark+ to name a few
   - [[https://github.com/jwiegley/dot-emacs][dot-emacs]] - John Wiegley (@jwiegley): Lead maintainer of Emacs, use-package
   - [[https://github.com/howardabrams/dot-files/blob/master/emacs.org][emacs.org]] - Howard Abrams (@howardabrams)

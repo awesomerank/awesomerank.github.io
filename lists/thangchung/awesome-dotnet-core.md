@@ -32,6 +32,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [CMS](#cms)  
   * [Code Analysis and Metrics](#code-analysis-and-metrics)
   * [Compilers, Transpilers and Languages](#compilers-transpilers-and-languages)
+  * [Database](#database)
   * [Database Drivers](#database-drivers)
   * [E-Commerce and Payments](#e-commerce-and-payments)
   * [Functional Programming](#functional-programming)
@@ -110,11 +111,12 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Steeltoe OSS](https://github.com/SteelToeOSS) - .NET toolkit for common microservice patterns.
 
 ### Application Templates
-* [ASP.NET MVC Boilerplate](https://github.com/RehanSaeed/ASP.NET-MVC-Boilerplate) - A professional ASP.NET MVC template for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.
+* [ASP.NET Core Boilerplate ★966](https://github.com/ASP-NET-Core-Boilerplate/Templates) - A professional ASP.NET MVC template for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default MVC template provided by Microsoft.
 * [kendo-ui-core ★1739](https://github.com/telerik/kendo-ui-core) - An HTML5, jQuery-based widget library for building modern web apps. [http://www.telerik.com/kendo-ui](http://www.telerik.com/kendo-ui).
 * [JavaScriptServices ★2302](https://github.com/aspnet/JavaScriptServices) - Microsoft ASP.NET Core JavaScript Services.
 * [QuickApp ★162](https://github.com/emonney/QuickApp) - ASP.NET Core / Angular4 startup project template with complete login, user and role management.
 * [Scaffolder ★77](https://github.com/dncuug/scaffolder) - Lets you create extensible data-driven Web applications by automatically generated UI for each table in the database and  lets create a applications for viewing and editing data based on the schema of the data. 
+* [Toucan ★23](https://github.com/mrellipse/toucan) - Boilerplate for building single page apps. Server is multi-project .Net Core solution designed around SOLID principles. Client is TypeScript 2, Vuejs 2, Vuex 2.
 
 ### Authentication and Authorization
 * [AspNet.Security.OpenIdConnect.Server ★306](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
@@ -171,6 +173,12 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### Compilers, Transpilers and Languages
 * [roslyn ★7912](https://github.com/dotnet/roslyn) - The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
 * [Sprache ★869](https://github.com/sprache/Sprache) - Tiny C# Monadic Parser Framework.
+
+### Database
+* [DBreeze ★134](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL (key value store embedded) ACID multi-paradigm database management system.
+* [NoDb ★89](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
+* [marten ★566](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications [http://jasperfx.github.io/marten](http://jasperfx.github.io/marten).
+* [yessql ★307](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
 
 ### Database Drivers
 * [cassandra-csharp-driver ★251](https://github.com/datastax/csharp-driver) - DataStax C# Driver for Apache Cassandra.
@@ -287,17 +295,13 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Dapper ★6891](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
   * [Dapper-FluentMap ★102](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
   * [Dommel ★66](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
-* [DBreeze ★134](https://github.com/hhblaze/DBreeze) - C# .NET MONO NOSQL ( key value store embedded ) ACID multi-paradigm database management system.
 * [EntityFramework-Plus ★420](https://github.com/zzzprojects/EntityFramework-Plus) - Entity Framework Utilities | Bulk Operations | Batch Delete | Batch Update | Query Cache | Query Filter | Query Future | Query Include | Audit
 * [Limebean](https://nick-lucas.github.io/LimeBean/) - Hybrid-ORM, designed to be simple to use and not totally hide SQL, while having all the nice things you expect from an ORM. Inspired by RedBeanPHP.
-* [marten ★566](https://github.com/JasperFx/marten) - Postgresql as a Document Database and Event Store for .NET Applications [http://jasperfx.github.io/marten](http://jasperfx.github.io/marten).
 * [NEventStore](https://github.com/NEventStore/NEventStore/tree/feature/dotnetcore) - Persistence library used to abstract different storage implementations when using event sourcing as storage mechanism. This library is developed with a specific focus on DDD/CQRS applications.
-* [NoDb ★89](https://github.com/joeaudette/NoDb) - "no database" file system storage for .NET Core/ASP.NET Core because not every project needs a database.
 * [NPoco ★486](https://github.com/schotime/NPoco) - Simple microORM that maps the results of a query onto a POCO object. Project based on Schotime's branch of PetaPoco.
 * [NReco.Data ★45](https://github.com/nreco/data) - Lightweight provider-independent DAL for SQL commands generation, CRUD operations and simple POCO mapping.
 * [ServiceStack.OrmLite ★965](https://github.com/ServiceStack/ServiceStack.OrmLite) - Light, simple and fast convention-based POCO ORM.
 * [SqlFu ★194](https://github.com/sapiens/SqlFu) - Fast and versatile Micro-ORM.
-* [yessql ★307](https://github.com/sebastienros/yessql) - .NET document database working on any RDBMS.
 
 ### Profiling
 * [Glimpse](http://getglimpse.com) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET. 

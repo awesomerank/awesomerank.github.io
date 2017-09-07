@@ -76,7 +76,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 # Hacks & Cool Apps
 
 * [Empowering vision impaired people to navigate the world independently](https://www.wayfindr.net) (an open standard)
-* [Google Glass & Beacons ★4 ⏳2Y](https://github.com/tmwagency/Glasstimote)
+* [Google Glass & Beacons ★4 ⏳3Y](https://github.com/tmwagency/Glasstimote)
 * [10 awesome things you can do today with iBeacons](http://blog.twocanoes.com/post/68861362715/10-awesome-things-you-can-do-today-with-ibeacons) (by Twocanoes)
 * [PunchClock ★1706 ⏳1Y](https://github.com/panicinc/PunchClock) An in/out tracking app for iOS 7+ that uses iBeacon and Geofencing.
 * [The Geofancy iOS app](https://github.com/LocativeHQ/ios-app) Helping you to get the best out of your automated home, geofencing, iBeacons at your hand.

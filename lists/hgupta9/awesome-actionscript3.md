@@ -208,7 +208,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Open Flash Charts](https://sourceforge.net/projects/openflashchart/) - Line charts, Area charts, Bar charts, Pie charts, Scatter charts.
 * [Flare ★298 ⏳5Y](https://github.com/prefuse/Flare) - charts and graphs, supports data management, visual encoding, animation, and interaction techniques.
 * [clearmaps ★63 ⏳7Y](https://github.com/sunlightlabs/clearmaps) - Mapping framework for data visualization.
-* [redada ★3 ⏳5Y](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files.
+* [redada ★3 ⏳6Y](https://github.com/geraldo/redada) - Interactive visualization of weighted graphs using GraphML files.
 * [Flextreemap ★21 ⏳2Y](https://github.com/joshtynjala/flextreemap) - TreeMap data visualization component for Adobe Flex.
 * [GraphVisualizer ★2 ⏳8Y](https://github.com/armisael/GraphVisualizer) - A Flex 3 + ActionScript 3 web software to draw dynamic graphcs.
 * [Weave ★355](https://github.com/WeaveTeam/Weave) - Web-based Analysis and Visualization Environment.
@@ -239,7 +239,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Firetype ★107 ⏳1Y](https://github.com/MaxDidIt/firetype) - Parse OpenType fonts and render them using Stage3D.
 * [BMFontRenderer ★33 ⏳6Y](https://github.com/bengarney/BMFontRenderer) - AS3 renderer for bitmap font data in the BMFont format.
 * [HanFont ★14 ⏳6Y](https://github.com/kyoji2/HanFont) - AIR app for Chinese Font Embeding in ActionScript.
-* [Ficon.as ★4 ⏳4Y](https://github.com/dv/Ficon.as) - Library to easily include icon fonts.
+* [Ficon.as ★4 ⏳5Y](https://github.com/dv/Ficon.as) - Library to easily include icon fonts.
 
 #### Particle
 
@@ -454,7 +454,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Actionscript-oauth2 ★109 ⏳2Y](https://github.com/charlesbihis/actionscript-oauth2) - Interfacing with OAuth 2.0 services.
 * [oauth-flex ★7 ⏳3Y](https://github.com/oauth-io/oauth-flex) - OAuth.io plugin for Apache Flex/ActionScript.
-* [oauth-as3 ★4 ⏳6Y](https://github.com/mlepicki/oauth-as3) - Mavenized, RSL version of oauth-as3 library - OAuth for ActionScript 3.
+* [oauth-as3 ★4 ⏳7Y](https://github.com/mlepicki/oauth-as3) - Mavenized, RSL version of oauth-as3 library - OAuth for ActionScript 3.
 
 #### HTTP
 
