@@ -591,7 +591,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [feder](https://github.com/samfeder/feder.zsh-theme/blob/master/feder.zsh-theme) - Clean, simple, compatible and meaningful. Tested on Linux, Unix and Windows under ANSI colors.
 * [filthy ★12](https://github.com/molovo/filthy) - A disgustingly clean ZSH prompt
 * [fishy ★1](https://github.com/akinjide/fishy2) - ZSH theme inspired by [original fishy](https://github.com/robbyrussell/oh-my-zsh/wiki/themes#fishy)
-* [friendly-fiesta ★0](https://github.com/bruino/friendly-fiesta) - Fork of terminal-party theme.
+* [friendly-fiesta ★0 ⏳1Y](https://github.com/bruino/friendly-fiesta) - Fork of terminal-party theme.
 * [frisk-arrow ★0 ⏳4Y](https://github.com/BakeRolls/frisk-arrow) - A theme based on the [frisk](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/frisk.zsh-theme) oh-my-zsh-theme.
 * [frisk-red](https://github.com/aishsingh/zsh/tree/master/frisk-red) - Red version of the frisk theme from oh-my-zsh.
 * [frlo ★1 ⏳4Y](https://github.com/fiorillo/frlo) - Uses your computer's hostname to come up with a (hopefully) unique three-color theme to display in your prompt, so you know at a glance which machine you're logged into.

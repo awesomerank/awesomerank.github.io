@@ -60,7 +60,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 * [aioodbc ★57](https://github.com/aio-libs/aioodbc) - Library for accessing a ODBC databases.
 * [motor ★822](https://github.com/mongodb/motor) - The async Python driver for MongoDB.
 * [asyncio-redis ★370](https://github.com/jonathanslenders/asyncio-redis) - Redis client for Python asyncio (PEP 3156).
-* [aiocouchdb ★38](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
+* [aiocouchdb ★38 ⏳1Y](https://github.com/aio-libs/aiocouchdb) - CouchDB client built on top of aiohttp (asyncio).
 * [aioes ★83](https://github.com/aio-libs/aioes) - Asyncio compatible driver for elasticsearch.
 * [peewee-async](https://github.com/05bit/peewee-async) - ORM implementation based on [peewee ★4308](https://github.com/coleifer/peewee) and aiopg.
 

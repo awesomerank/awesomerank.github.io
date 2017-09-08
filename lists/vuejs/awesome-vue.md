@@ -1521,6 +1521,7 @@ Tooltips / popovers
  - [vue-seed ★12](https://github.com/dulin666/vue-seed) - vue-seed is minimal seed for those looking to get up-and-running with Vue
  - [nuxt-seed ★4](https://github.com/dulin666/nuxt-seed) - nuxt-seed is minimal seed for those looking to get up-and-running with Vue and Nuxt
  - [rails_vue_melt ★0](https://github.com/midnightSuyama/rails_vue_melt) - Rails view with webpack=vue optimizer.
+ - [vue-starter ★24](https://github.com/rohitkrai03/vue-starter) - A Vue.js starter kit that lets you focus on more programming and less configuration. 
 
 ### Client
 

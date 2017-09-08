@@ -137,12 +137,12 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [hipchat-notifications-to-slack ★17 ⏳1Y](https://github.com/agerlic/hipchat-notifications-to-slack) - forward notifications from HipChat to Slack
 - [marvin ★21 ⏳1Y](https://github.com/RobotsAndPencils/marvin) - Slack bot written in Go
 - [phoenix ★19 ⏳3Y](https://github.com/ehazlett/phoenix) - Pluggable bot for Slack
-- [rmslack ★4](https://github.com/mephux/rmslack) - Purge a slack channel of all messages
+- [rmslack ★4 ⏳1Y](https://github.com/mephux/rmslack) - Purge a slack channel of all messages
 - [slack ★1179](https://github.com/nlopes/slack) - Slack API in Go
 - [slack\_auth\_proxy ★12 ⏳2Y](https://github.com/tappleby/slack_auth_proxy) - A reverse proxy providing authentication via a slack.com team
 - [slack-cli ★13 ⏳2Y](https://github.com/siddontang/slack-cli) - A command tool to communicate with Slack
 - [slack-fingerbumpbot ★4 ⏳3Y](https://github.com/grantmd/slack-fingerbumpbot) - A bot for Slack that never leaves a finger bump hanging
-- [slack-markov ★47 ⏳1Y](https://github.com/grantmd/slack-markov) - A markov chain bot for your Slack channel
+- [slack-markov ★47 ⏳2Y](https://github.com/grantmd/slack-markov) - A markov chain bot for your Slack channel
 - [slack-oldbot ★14 ⏳3Y](https://github.com/grantmd/slack-oldbot) - A bot for Slack that politely reports when a link has been used before in the channel
 - [slack-upvote ★16 ⏳2Y](https://github.com/tampajohn/slack-upvote) - Slack voting integration
 - [slackbot ★4 ⏳3Y](https://github.com/collinvandyck/slackbot) - A silly little slackhq robot
@@ -196,7 +196,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [ExceptionalIO2Slack ★0 ⏳3Y](https://github.com/Dorian/ExceptionalIO2Slack) - Send exceptions from Exceptional.io to Slack
 - [generator-slack-command ★7 ⏳2Y](https://github.com/matiassingers/generator-slack-command) - [Yeoman](http://yeoman.io/) generator to create a simple Slack slash command server
 - [gif-bot ★5 ⏳3Y](https://github.com/ms-digital-labs/gif-bot) - A Gif Bot for Slack
-- [giphyslack ★4 ⏳2Y](https://github.com/dotfury/giphyslack) - Giphy integration for Slack built in node.js
+- [giphyslack ★4 ⏳3Y](https://github.com/dotfury/giphyslack) - Giphy integration for Slack built in node.js
 - [good-slack](https://github.com/dmacosta/good-slack) - Slack Webhook message posting for Good process monitor
 - [grunt-alert ★5](https://github.com/mmarcon/grunt-alert) - Sends alerts about failing builds using different channels
 - [grunt-slack-hook ★26](https://github.com/pwalczyszyn/grunt-slack-hook) - Grunt plugin to send messages to Slack
@@ -397,7 +397,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slackfred ★198](https://github.com/fspinillo/slackfred) - Interact with Slack via Alfred
 - [slackotron ★12 ⏳1Y](https://github.com/lettier/slackotron) - A Slack bot customizable via plugins
 - [slackpy ★18](https://github.com/iktakahiro/slackpy) - Slack client library for specific logging
-- [slacksocket ★58](https://github.com/vektorlab/slacksocket) - Python interface to the Slack RTM API
+- [slacksocket ★58 ⏳1Y](https://github.com/vektorlab/slacksocket) - Python interface to the Slack RTM API
 - [slouch ★61](https://github.com/venmo/slouch) - Lightweight Python framework for building cli-inspired Slack bots
 - [StackStorm Slack Pack](https://github.com/StackStorm/st2contrib/tree/master/packs/slack) - Pack which allows integration with Slack service.
 - [sublime-slack-integration ★71](https://github.com/simion/sublime-slack-integration) - Post to Slack from Sublime Text 3
@@ -446,7 +446,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-portals ★7 ⏳3Y](https://github.com/atomic-app/slack-portals) - Link two different companies' Slacks together through a common channel
 - [slack-post ★30](https://github.com/CozyCo/slack-post) - Post messages to Slack
 - [slack-poster ★42 ⏳1Y](https://github.com/rikas/slack-poster) - Simple gem to post messages on Slack using webhooks
-- [slack-repeater ★1 ⏳2Y](https://github.com/hekk/slack-repeater) - Repeater bot
+- [slack-repeater ★1 ⏳3Y](https://github.com/hekk/slack-repeater) - Repeater bot
 - [slack-rtmapi ★14 ⏳2Y](https://github.com/mackwic/slack-rtmapi) - All you need to use the RTM API of Slack
 - [slack-ruby-bot ★31](https://github.com/dblock/slack-ruby-bot) - The easiest way to write a Slack bot in Ruby
 - [slack-ruby-client ★10](https://github.com/dblock/slack-ruby-client) - A Ruby client for the Slack Web and RealTime Messaging APIs

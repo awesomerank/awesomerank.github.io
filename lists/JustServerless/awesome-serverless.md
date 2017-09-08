@@ -757,6 +757,11 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Unified logging for serverelss functions](https://fly.io/articles/unified-logging/) - How to unify the logging process for serverless functions.
 - [Using Ansible for deploying serverless applications](https://opensource.com/article/17/8/ansible-serverless-applications) - How to use Ansible and the Serverless Framework to deploy serverless applications.
 - [OpenFaaS presentes to CNCF serverless workgroup](https://blog.alexellis.io/openfaas-cncf-workgroup/) - Post about the presentation OpenFaaS gave at the CNCF serverless workgroup meeting.
+- [Event sourcing: What it is and why it's awesome](https://dev.to/barryosull/event-sourcing-what-it-is-and-why-its-awesome) - Post about the fundamentals of event sourcing.
+- [Building a serverless E-Commerce app](https://medium.com/@patrickmichelberger/building-a-serverless-e-commerce-app-with-aws-lambda-stripe-and-react-4663e241710b) - Tutorial on how to build a serverless E-Commerce application.
+- [How to build Alexa skills with Kotlin](https://www.twilio.com/blog/2017/08/how-i-built-a-bin-colour-reminder-alexa-skill-using-aws-lambda-and-kotlin.html) - Tutorial which shows how one can build an Alexa skill with Kotlin on AWS Lambda.
+- [10 advantages of serverless architectures](https://da-14.com/blog/ten-advantages-serverless-architecture-app-development) - Post which outlines the advantages and disadvantages of serverless computing.
+- [A zero-maintenance donations platform with Serverless and AWS](https://serverless.com/blog/scaling-the-resistance-zero-maintenance-donations-platform/) - How [movementvote.org](http://movementvote.org) built a serverless donations platform.
 
 ## Screencasts
 
@@ -934,6 +939,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Unikernels and event-driven serverless platforms](https://s3-us-west-2.amazonaws.com/emit-website/2017-slides/Unikernels+and+Event-driven+Serverless+Platforms.pdf) - Slide deck from Madhuri Yechuris talk about unikernels in the serverless computing space.
 - [AWS & Serverless technology](https://www.youtube.com/watch?v=7sPb0EQKKO4) - Ryan Kroonenburgs talk about AWS, A Cloud Guru and their serverless architecture.
 - [Kubeless demo @ CNCF WG-Serverless meeting](https://speakerdeck.com/arapulido/kubeless-demo-at-cncf-wg-serverless-meeting) - Slide deck from the Kubeless team about Kubeless and their integration with the Serverless Framework.
+- [Kubernetes and the rise of serverless](https://www.youtube.com/watch?v=YNy2QzTxOl8) - Angus Lees about the relationship between Kubernetes and serverless computing.
 
 ## Amazon AWS resources
 
@@ -1187,6 +1193,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Medium TTS ★22](https://github.com/RafalWilinski/serverless-medium-text-to-speech) - Serverless-based, text-to-speech service for Medium articles.
 - [Alain Twitterbot ★1](https://github.com/sergile/alain-twitterbot-serverless) - Serverless Twitterbot implementation.
 - [Letter Avatar ★2](https://github.com/KevinColemanInc/letter-avatar-serverless) - Generates Google-like binary avatar images.
+- [Serverless shop ★52](https://github.com/patrick-michelberger/serverless-shop) - Serverless E-Commerce app powered by AWS Lambda, Stripe and React.
+- [Bellman ★1](https://github.com/Movement-2016/bellman) - Umbrella project for server side APIs used by Gamechanger Labs properties ([movementvote.org](http://movementvote.org)).
 
 ## Related projects
 

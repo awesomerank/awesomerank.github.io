@@ -133,7 +133,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Kernel methods
 
-- [rb-libsvm ★250 ⏳1Y](https://github.com/febeling/rb-libsvm) -
+- [rb-libsvm ★250 ⏳2Y](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby and the [LIBSVM](http://www.csie.ntu.edu.tw/~cjlin/libsvm/) library.
   <sup>[[dep: bundled](#bundled)]</sup>
 

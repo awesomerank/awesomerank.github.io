@@ -84,8 +84,6 @@ All the links are monitored and tested with [awesome_bot ★372](https://github.
 - Abandoned 💀
 - Beta 🤕
 - Monetized 💲
-- Terminal 🤓
-- Web Based 😎
 - Website 🖥
 
 # What is Docker?

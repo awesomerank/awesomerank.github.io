@@ -213,7 +213,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Libraries for manipulating images & other media.*
 
 * [nova ★7 ⏳2Y](https://github.com/nohatssir/nova) - A media manager project in PHP and Phalcon PHP Framework
-* [Phalcon File Uploader ★56 ⏳1Y](https://github.com/stanislav-web/phalcon-uploader) - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc
+* [Phalcon File Uploader ★56 ⏳2Y](https://github.com/stanislav-web/phalcon-uploader) - Handling and downloading files for Phalcon projects. Allowed multiple files, filters etc
 
 
 ## Miscellaneous

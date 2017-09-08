@@ -342,7 +342,7 @@ for Ruby.
 
 For more up-to-date list please look at the [Awesome ML with Ruby][ml-with-ruby] list.
 
-- [rb-libsvm ★250 ⏳1Y](https://github.com/febeling/rb-libsvm) -
+- [rb-libsvm ★250 ⏳2Y](https://github.com/febeling/rb-libsvm) -
   Support Vector Machines with Ruby.
 - [weka ★47](https://github.com/paulgoetze/weka-jruby) -
   JRuby bindings for Weka, different ML algorithms implemented through Weka.

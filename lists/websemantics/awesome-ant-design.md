@@ -139,7 +139,7 @@ A list of starter projects and boilerplates built with Ant Design.
 - [React Redux Intro ★29 ⏳1Y](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
 - [React Start Kit ★91](https://github.com/jovey-zheng/react-start-kit) - SPA Boilerplate built with React, Webpack, ES6+, Redux, Router, Babel, Express, Ant Design.
 - [CL React ★57](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
-- [TODO MVC ★8](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
+- [TODO MVC ★8 ⏳1Y](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 - [React Boilerplate ★21 ⏳1Y](https://github.com/huhulab/react-frontend-boilerplate) - React Admin front-end boilerplate built with Ant Design.
 - [Dva Antd Starter ★8](https://github.com/xlsdg/dva-antd-starter) - Get started with Dva.js and Ant Design.
 - [Dva Antd Mobile Starter ★29](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.

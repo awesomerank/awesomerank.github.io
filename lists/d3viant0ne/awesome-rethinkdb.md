@@ -153,7 +153,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 
 ##### ORM
 
-- [RethinkDB Java ORM ★1](https://github.com/PeterKnego/rethinkdb-java-orm) - A custom POJO converter for RethinkDB Java driver.
+- [RethinkDB Java ORM ★1 ⏳1Y](https://github.com/PeterKnego/rethinkdb-java-orm) - A custom POJO converter for RethinkDB Java driver.
  - Maintainer: `Peter Knego`  [![Github](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/github.png)](https://github.com/PeterKnego) [![Twitter](https://github.com/encharm/Font-Awesome-SVG-PNG/blob/master/black/png/16/twitter.png)](https://twitter.com/peterknego)
 
 ##### Technology Integrations

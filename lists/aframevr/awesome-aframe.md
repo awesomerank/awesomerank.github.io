@@ -268,7 +268,7 @@ Integration with existing tools, frameworks, and libraries.
 - [Shopify - City Shoes](https://shopifyvr.myshopify.com/) - Shop in VR! Pick up some trainers and see if they match your swagger
 - [Vrogger](https://carbonfive.github.io/vrogger) - Frogger in VR. Hop and get across the road!
 - [Design Portfolio](http://eddiebarkman.com/VR-Design-Portfolio/) - About pages in 3D space with neat transitions
-- [Stand at the Edge of Geologic Time](https://apps.npr.org/rockymountain-vr/) - A virtual-reality tour from [NPR](http://www.npr.org/) of Rocky Mountain National Park. [[Code] ★4](https://github.com/nprapps/rockymountain)
+- [Stand at the Edge of Geologic Time](https://apps.npr.org/rockymountain-vr/) - A virtual-reality tour from [NPR](http://www.npr.org/) of Rocky Mountain National Park. [[Code] ★4 ⏳1Y](https://github.com/nprapps/rockymountain)
 - [Earth Rover](https://www.hackster.io/RONDAGDAG/control-your-earth-rover-in-virtual-reality-15a9fe) - Controlling a physical robot from outer space using the [Intel Edison](https://software.intel.com/iot/hardware/edison) and Leap Motion
 - [Imagined Reality](https://bryik.github.io/aframe-metaverse-contest/examples/imagined-reality.html) - Stereoscopic cubemaps, taken from winners of [OTOY’s Render the Metaverse](https://home.otoy.com/vr-competition/) contest
 - [Star Crossed](http://vrweb.io/p/starCrossed) - Piano and stars

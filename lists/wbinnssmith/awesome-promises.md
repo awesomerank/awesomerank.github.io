@@ -124,7 +124,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-props ★37](https://github.com/sindresorhus/p-props) - Like `Promise.all()` but for `Map` and `Object`
 
 ### Others
-* [promise-method ★2 ⏳1Y](https://github.com/wbinnssmith/promise-method) - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one.
+* [promise-method ★2 ⏳2Y](https://github.com/wbinnssmith/promise-method) - Standalone `bluebird.method`. Turn a synchronously-returning method into a promise-returning one.
 * [is-promise ★41 ⏳1Y](https://github.com/then/is-promise) - Determine if something looks like a Promise.
 * [sprom ★12 ⏳1Y](https://github.com/then/sprom) - Resolve when a stream ends. Optional buffering (be careful with this!)
 * [task.js ★1607 ⏳1Y](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.

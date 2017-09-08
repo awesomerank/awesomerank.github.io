@@ -81,7 +81,7 @@ Pull requests very welcome.
 ## Other Libraries
 
 * [CacheBox](http://wiki.coldbox.org/wiki/CacheBox.cfm) - The Enterprise ColdFusion Caching Engine, Aggregator and API
-* [cfbackport ★26 ⏳2Y](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion.
+* [cfbackport ★26 ⏳3Y](https://github.com/misterdai/cfbackport) - Back porting features contained in newer versions of ColdFusion.
 * [cfpayment ★75](https://github.com/ghidinelli/cfpayment) - ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant.
 * [Hoth ★127 ⏳1Y](https://github.com/aarongreenlee/Hoth) - Exception Tracking
 * [BugLogHQ ★136](https://github.com/oarevalo/BugLogHQ) - Exception Tracking
@@ -90,7 +90,7 @@ Pull requests very welcome.
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
 * [Moment.cfc ★31](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
 * [Mustache.cfc ★41 ⏳1Y](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion
-* [UnderscoreCF ★75](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library.
+* [UnderscoreCF ★75 ⏳1Y](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library.
 * [ValidateThis](http://validatethis.org) - A Validation Framework for ColdFusion Objects
 
 ## Editors

@@ -76,7 +76,7 @@ Made with Electron.
 - [Gulp ★966](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from your menubar.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
-- [Kart ★364 ⏳1Y](https://github.com/maddox/kart) - Front-end for RetroArch.
+- [Kart ★364 ⏳2Y](https://github.com/maddox/kart) - Front-end for RetroArch.
 - [Vmd ★636](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku ★70](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
@@ -311,7 +311,7 @@ Made with Electron.
 ## Components
 
 - [Photon](http://photonkit.com) - UI toolkit for building beautiful apps.
-- [React PhotonKit ★266](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
+- [React PhotonKit ★266 ⏳1Y](https://github.com/react-photonkit/react-photonkit) - Photon components built with React.
 - [menubar ★4055](https://github.com/maxogden/menubar) - Menubar app framework.
 - [cookies ★98 ⏳1Y](https://github.com/hstove/electron-cookies) - Adds support for `document.cookie`.
 - [window ★187](https://github.com/jprichardson/electron-window) - Create and manage windows.

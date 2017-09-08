@@ -71,7 +71,7 @@ A curated list of fonts and typography resources.
 * [emojione ★3590](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
 * [emojistatic ★86 ⏳3Y](https://github.com/mroth/emojistatic) - CDN static asset generation for emoji
 * [emojitracker ★537 ⏳1Y](https://github.com/mroth/emojitracker) - Track ALL the emoji
-* [emojize ★115 ⏳1Y](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
+* [emojize ★115 ⏳2Y](https://github.com/ded/emojize) - High resolution, unicode (emoji) to html conversion utility.
 * [gemoji ★2809](https://github.com/github/gemoji) - Emoji images and names
 * [gh-emoji ★138](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
 * [node-emoji ★331](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js

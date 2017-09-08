@@ -490,7 +490,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [DOMPurify ★1597](https://github.com/cure53/DOMPurify) - A DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG.
 * [js-xss ★1572](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist.
-* [xss-filters ★645](https://github.com/yahoo/xss-filters) - Secure XSS Filters by Yahoo
+* [xss-filters ★645 ⏳1Y](https://github.com/yahoo/xss-filters) - Secure XSS Filters by Yahoo
 
 
 ## Log

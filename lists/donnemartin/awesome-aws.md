@@ -546,10 +546,10 @@ Community Repos:
 AWS Repos:
 
 * [aws-device-farm-appium-tests-for-sample-app ★38](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Appium TestNG Android tests.
-* [aws-device-farm-calabash-tests-for-sample-app ★9](https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app) - Calabash Android tests.
+* [aws-device-farm-calabash-tests-for-sample-app ★9 ⏳1Y](https://github.com/awslabs/aws-device-farm-calabash-tests-for-sample-app) - Calabash Android tests.
 * [aws-device-farm-gradle-plugin ★27](https://github.com/awslabs/aws-device-farm-gradle-plugin) - Gradle plugin.
 * [aws-device-farm-jenkins-plugin ★52](https://github.com/awslabs/aws-device-farm-jenkins-plugin) - Jenkins plugin.
-* [aws-device-farm-sample-app-for-android ★84](https://github.com/awslabs/aws-device-farm-sample-app-for-android) - Sample Android app.
+* [aws-device-farm-sample-app-for-android ★84 ⏳1Y](https://github.com/awslabs/aws-device-farm-sample-app-for-android) - Sample Android app.
 
 Community Repos:
 
