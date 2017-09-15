@@ -41,12 +41,12 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## dot-net
 
-* [RavenDB ★1709](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET http://ayende.com/Blog/
+* [RavenDB ★1716](https://github.com/ravendb/ravendb) - A linq enabled document database for .NET http://ayende.com/Blog/
 * [OrigoDB](http://dev.origodb.com) - An in-memory embedded database engine for NET/Mono
 
 ## Erlang
 
-* [riak ★2809](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
+* [riak ★2845](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 * [Pulsedb](http://pulsedb.io) - Pulsedb is a time series database server and library.
 
 ## Go-lang

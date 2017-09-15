@@ -215,8 +215,8 @@ drm/kms.
 ## Related lists
 *  [awesome ★63835](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *  [awesome-opengl ★583](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-*  [gamedev ★4095](https://github.com/ellisonleao/magictools) - Awesome list about game development.
-*  [graphics-resources ★1026](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+*  [gamedev ★4152](https://github.com/ellisonleao/magictools) - Awesome list about game development.
+*  [graphics-resources ★1032](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 *  [awesome-d3d12 ★16](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## License

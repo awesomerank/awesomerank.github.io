@@ -79,7 +79,7 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [Hexchat](https://hexchat.github.io/) - IRC client based on XChat [![Open-Source Software][OSS Icon]](https://hexchat.github.io/) ![Freeware][Freeware Icon]
 - [Waow](http://dedg3.com/wao/) - Awesome WhatsApp Web Client to deliver you the best WhatsApp experience. ![Freeware][Freeware Icon]
 - [LimeChat](http://limechat.net) - Instant messaging application. ![Freeware][Freeware Icon]
-- [Messenger for Desktop](http://messengerfordesktop.com/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
+- [Messenger for Desktop](http://messengerfordesktop.org/) - An app for Facebook messenger. [![Open-Source Software][OSS Icon]](https://github.com/Aluxian/Facebook-Messenger-Desktop) ![Freeware][Freeware Icon]
 - [mIRC](http://www.mirc.com/) - An Internet Relay Chat (IRC) client.
 - [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free. [![Open-Source Software][OSS Icon]](https://telegram.org/apps)  ![Freeware][Freeware Icon]
 - [Quassel](http://quassel-irc.org/) - Quassel IRC is a modern, cross-platform, distributed IRC client. [![Open-Source Software][OSS Icon]](http://quassel-irc.org/) ![Freeware][Freeware Icon]
@@ -118,7 +118,7 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
 - [FileZilla](https://filezilla-project.org/) - FTP, FTPS and SFTP client. ![Freeware][Freeware Icon]
-- [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][OSS Icon] ★2247](https://github.com/gitextensions/gitextensions) ![Freeware][Freeware Icon]
+- [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][OSS Icon] ★2286](https://github.com/gitextensions/gitextensions) ![Freeware][Freeware Icon]
 - [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][Freeware Icon]
 - [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon] ★106](https://github.com/swensensoftware/im-only-resting) ![Freeware][Freeware Icon]
@@ -171,7 +171,7 @@ title: Awesome Rank for Awesome-Windows/Awesome
 
 ### Games
 
-- [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][OSS Icon] ★964](https://github.com/0ad/0ad) ![Freeware][Freeware Icon]
+- [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][OSS Icon] ★977](https://github.com/0ad/0ad) ![Freeware][Freeware Icon]
 - [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
 - [Awesome Games ★9442](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon]
 - [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization.  [![Open-Source Software][OSS Icon]](https://github.com/freeciv/) ![Freeware][Freeware Icon]

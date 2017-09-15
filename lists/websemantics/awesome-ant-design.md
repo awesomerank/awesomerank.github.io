@@ -66,8 +66,8 @@ Official projects and resources of Ant Design,
 
 These are tools and utilities to help build apps using Ant Design,
 
-- [Antd Init ★550](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
-- [Dva Cli](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js ★4947](https://github.com/dvajs/dva), a
+- [Antd Init ★573](https://github.com/ant-design/antd-init) - Ant Design boilerplate generator (for demo only, use dva-cli).
+- [Dva Cli](https://github.com/dvajs/dva-cli) - Create Ant Design projects based on [Dva.js ★5542](https://github.com/dvajs/dva), a
 lightweight front-end framework based on Redux and React and inspired by [Elm](http://elm-lang.org) and [Choo](https://github.com/yoshuawuyts/choo).
 - [Antd Tools](https://github.com/ant-tool) - Very useful list of tools for Ant Design to create documentation, create new components, build tools and many more.
 - [Antd Tools Docs](http://ant-tool.github.io/) - Documentations for Ant Tools.
@@ -78,8 +78,8 @@ lightweight front-end framework based on Redux and React and inspired by [Elm](h
 
 Ant Design family of projects.
 
-- [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more ★73](https://github.com/antvis/feedback)).
-- [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more ★73](https://github.com/antvis/feedback)).
+- [Grammar of Graphics](https://g2.alipay.com/) - Pure javascript, powerful semantic graph generation tool for big data which provides a set of graphical syntax that lets users build with simple syntax a myriad of charts and integrates a large number of statistical tools, ([Read more ★74](https://github.com/antvis/feedback)).
+- [Ant Visualization](https://antv.alipay.com/) - Professional data visualization specification that aims to put several years of valuable data pattern group work in the process of exploring data visualization to share with all people who need data visualization theory. AntV consists of few parts, data, design specifications and rules for use of the chart, ([Read more ★74](https://github.com/antvis/feedback)).
 - [Ant Motion](http://motion.ant.design/) - Efficient motion design solutions that complies with Ant Design Visual specification with React implementation. Create your own template with this awesome tool provided by the folks at Ant Design [here](http://motion.ant.design/cases/splicing).
 - [Ant UX](http://ux.ant.design/) - Make a sitemap template for UX design using [Omnigraffle](https://www.omnigroup.com/omnigraffle), [Sketch](https://www.sketchapp.com/) or [Axure](http://www.axure.com/). This is a library which assists designers to define, refine and finalize the inter-page logic of their products.
 - [Scaffold Market](http://scaffold.ant.design/) - scaffolds and boilerplates using Ant Design
@@ -94,58 +94,59 @@ Projects that are built with Angular and Ant Design.
 
 Projects that are built with Vue.js and Ant Design.
 
-- [iView ★8234](https://github.com/iview/iview) - High quality UI Components Library with Vue.js
+- [iView ★8854](https://github.com/iview/iview) - High quality UI Components Library with Vue.js
 - [atui]( https://github.com/aliqin/atui) - A Vue.js 2.0 UI Toolkit for Web based on Ant Design
 - [Ant Design of Vue.js](http://okoala.github.io/vue-antd/#!/components) - Vue.js UI components for Ant Design.
-- [Vue.js Beauty ★856](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design.
-- [Vue.js Ant UI ★24](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js.
+- [Vue.js Beauty ★901](https://github.com/FE-Driver/vue-beauty) - Beautiful UI components build with Vue.js and Ant Design.
+- [Vue.js Ant UI ★25](https://github.com/kokoroX/vue-ant-ui) - Ant Design UI components built in Vue.js.
 - [Ant Design Vue ★8](https://github.com/lileilei/Ant-design-vue) - Vue.js version of Ant Design.
 
 ## Components
 
 A list of UI components built with Ant Design.
 
-- [react-lz-editor ★228](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
-- [React Grid ★9](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
-- [Antd Kit ★19 ⏳1Y](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
+- [react-lz-editor ★268](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
+- [React Grid ★10](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
+- [Antd Kit ★20 ⏳1Y](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
 - [antd-data-table ★4](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
 
 ## Applications
 
 A list of mature apps built with Ant Design.
 
-- [Eevee ★106 ⏳1Y](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
-- [Productivity Application ★91](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
+- [Eevee ★108 ⏳1Y](https://github.com/pizn/eevee) - Based on Github page online editing blog platform. The project is based React, Ant Design and GitHub API.
+- [Productivity Application ★100](https://github.com/dhruv-kumar-jha/productivity-frontend) - Kanban style, Trello inspired Productivity application built using React, Ant Design and other fantastic modules.
 
 ## Frameworks
 
 A list of frameworks using Ant Design.
 
-- [R2 ★58](https://github.com/dog-days/r2) - Framework to scaffold apps based on [Ant Design React Components](http://ant.design/#/docs/react/introduce) that is built with React and Redux. R2 comes with a page builder, layout manager and many other features that will speed up the development process. Check out the [demo app](https://console.topvdn.com). You will need to register and validate email to view the admin panel.
+- [R2 ★59](https://github.com/dog-days/r2) - Framework to scaffold apps based on [Ant Design React Components](http://ant.design/#/docs/react/introduce) that is built with React and Redux. R2 comes with a page builder, layout manager and many other features that will speed up the development process. Check out the [demo app](https://console.topvdn.com). You will need to register and validate email to view the admin panel.
 
 ## Boilerplates
 
 A list of starter projects and boilerplates built with Ant Design.
 
-- [Antd Admin ★1708](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
-- [React SPA ★431](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
-- [React Admin ★354](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
-- [React Redux ★242](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
-- [React Antd Starter ★69 ⏳1Y](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
-- [Webbf ★194](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
-- [React Redux Antd Starter ★54](https://github.com/BetaRabbit/react-redux-antd-starter) - Front-end boilerplate built with React, Redux and Ant Design.
-- [Koa ★45 ⏳1Y](https://github.com/yukrain/koa-antd-admin) - Example app to build Admin UI built with React, Ant Design and Koa.
-- [Star Admin ★67](https://github.com/pookpal/star-initReact-example) - Demo app built with React, Ant Design, Redux, React-router, Webpack and Babel.
-- [React Redux Intro ★29 ⏳1Y](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
-- [React Start Kit ★91](https://github.com/jovey-zheng/react-start-kit) - SPA Boilerplate built with React, Webpack, ES6+, Redux, Router, Babel, Express, Ant Design.
-- [CL React ★57](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
+- [Meteor Antd Boilerplate ★4](https://github.com/elmarti/meteor-antd-boilerplate) - A basic social network built using Antd and Meteor. [Example](https://antdmeteor.herokuapp.com/login)
+- [Antd Admin ★2031](https://github.com/zuiidea/antd-admin) - A admin dashboard application demo built upon Ant Design and Dva.js.
+- [React SPA ★443](https://github.com/JasonBai007/reactSPA) - Building SPA with React, Router, ES6, Fetch, Babel, Webpack, Npm, MockJs, FontAwesome, AnimateCSS, Ant Design, LESS and jQuery.
+- [React Admin ★384](https://github.com/fireyy/react-antd-admin) - React Admin UI built on Ant Design (username: admin, password: 123456).
+- [React Redux ★258](https://github.com/Justin-lu/react-redux-antd) - React Redux for CMS/Enterprise class apps (ERP/Admin) built with Ant Design.
+- [React Antd Starter ★73 ⏳1Y](https://github.com/yuzhouisme/react-antd-redux-router-starter) - This project is designed to develop website/web apps using Ant Design and Redux.
+- [Webbf ★217](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
+- [React Redux Antd Starter ★57](https://github.com/BetaRabbit/react-redux-antd-starter) - Front-end boilerplate built with React, Redux and Ant Design.
+- [Koa ★47 ⏳1Y](https://github.com/yukrain/koa-antd-admin) - Example app to build Admin UI built with React, Ant Design and Koa.
+- [Star Admin ★69](https://github.com/pookpal/star-initReact-example) - Demo app built with React, Ant Design, Redux, React-router, Webpack and Babel.
+- [React Redux Intro ★31 ⏳1Y](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
+- [React Start Kit ★96](https://github.com/jovey-zheng/react-start-kit) - SPA Boilerplate built with React, Webpack, ES6+, Redux, Router, Babel, Express, Ant Design.
+- [CL React ★65](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
 - [TODO MVC ★8 ⏳1Y](https://github.com/cupools/todoMVC-react) - Todo list built with React and Ant Design.
 - [React Boilerplate ★21 ⏳1Y](https://github.com/huhulab/react-frontend-boilerplate) - React Admin front-end boilerplate built with Ant Design.
-- [Dva Antd Starter ★8](https://github.com/xlsdg/dva-antd-starter) - Get started with Dva.js and Ant Design.
-- [Dva Antd Mobile Starter ★29](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.
+- [Dva Antd Starter ★10](https://github.com/xlsdg/dva-antd-starter) - Get started with Dva.js and Ant Design.
+- [Dva Antd Mobile Starter ★33](https://github.com/xlsdg/dva-antd-mobile-starter) - Get started with Dva.js and Ant Design mobile.
 - [Dva Ant Admin ★2](https://github.com/jiangbo2015/learn-dva) - A front-end boilerplate built with Dva, Ant-Design
 - [Aspnet Core Antd Boilerplate ★6](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
-- [React Redux Universal ★10](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
+- [React Redux Universal ★13](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
 - [CRA-TS-Antd ★6](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
 - [Ng-Alain ★13](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 
@@ -153,7 +154,7 @@ A list of starter projects and boilerplates built with Ant Design.
 
 A list of libraries that are written for non-JavaScript languages.
 
-- [Antizer ★76](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
+- [Antizer ★82](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
 
 ## Contributing
 

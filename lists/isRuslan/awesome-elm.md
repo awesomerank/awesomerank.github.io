@@ -25,6 +25,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
     - [Articles](#articles)
     - [Videos](#videos)
     - [Podcasts](#podcasts)
+    - [Languages](#languages)
     - [Libraries](#libraries)
     - [Tools](#tools)
     - [Editor plugins](#editor-plugins)
@@ -44,7 +45,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Official list](http://elm-lang.org/examples) - Examples from _basic_ to _big-project_ in official website.
 * [Builtwithelm](http://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
 * [Elm Joust ★19](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
-* [Tetris](http://people.cs.umass.edu/~jcollard/elmtris/) — A Tetris game for the web browser written in Elm.
+* [Elmtris](http://people.cs.umass.edu/~jcollard/elmtris/) — A Tetris game for the web browser written in Elm.
 * [Vessel ★92 ⏳2Y](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
 * [Sliding Puzzle ★48 ⏳1Y](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
 * [TodoMVC ★832](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
@@ -166,6 +167,10 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [InfoQ Podcast 2017-04-27](https://www.infoq.com/podcasts/richard-feldman) - Richard Feldman discusses how Elm compares to React.js
 
 **[:arrow_up: back to top](#table-of-contents)**
+
+## Languages
+
+* [QML](https://doc.qt.io/qt-5/qmlapplications.html) You can use .js files to create native desktop and phone applications for all platforms with GPU acceleration and easy to code animations.
 
 ## Libraries
 

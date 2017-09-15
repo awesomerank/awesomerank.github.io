@@ -64,7 +64,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 - [Commitizen](#commitizen)
 
 
-## [git-extras ★10329](https://github.com/tj/git-extras)
+## [git-extras ★10436](https://github.com/tj/git-extras)
 
 ### squash
 
@@ -1163,7 +1163,7 @@ $ git branch-status
 ```
 
 
-## [git-open ★1057](https://github.com/paulirish/git-open)
+## [git-open ★1092](https://github.com/paulirish/git-open)
 
 ```
 $ git open
@@ -1305,7 +1305,7 @@ $ git dsf
 ![](http://i.imgur.com/PpM0i3v.png)
 
 
-## [git-secret ★577](https://github.com/sobolevn/git-secret)
+## [git-secret ★618](https://github.com/sobolevn/git-secret)
 
 ### git secret init
 

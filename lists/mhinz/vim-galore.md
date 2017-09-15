@@ -308,7 +308,7 @@ Help:
 - http://michael.peopleofhonoronly.com/vim/vim_cheat_sheet_for_programmers_screen.png
 - http://www.rosipov.com/images/posts/vim-movement-commands-cheatsheet.png
 
-Or quickly open a cheatsheet from within Vim: [vim-cheat40 ★55](https://github.com/lifepillar/vim-cheat40).
+Or quickly open a cheatsheet from within Vim: [vim-cheat40 ★58](https://github.com/lifepillar/vim-cheat40).
 
 # Basics
 
@@ -898,7 +898,7 @@ files](#handling-backup-swap-undo-and-viminfo-files) for how to enable
 persistent undo.
 
 If you're confused by the undo tree,
-[undotree ★707](https://github.com/mbbill/undotree) does a great job at visualizing
+[undotree ★719](https://github.com/mbbill/undotree) does a great job at visualizing
 it.
 
 Help:
@@ -1077,7 +1077,7 @@ Vim distinguishes between several types of fold methods:
 
 **NOTE**: Folding can be computationally intensive! If you experience any
 performance drawbacks (small delays when typing), have a look at
-[FastFold ★250](https://github.com/Konfekt/FastFold), which prevents Vim from
+[FastFold ★258](https://github.com/Konfekt/FastFold), which prevents Vim from
 updating folds when it's not needed.
 
 Help:
@@ -1450,7 +1450,7 @@ happens to be at major version 11 since 1987, hence X is also often called X11.
 Prior, in X10, [cut
 buffers](http://www.x.org/releases/X11R7.7/doc/xorg-docs/icccm/icccm.html#Peer_to_Peer_Communication_by_Means_of_Cut_Buffers)
 were introduced that kind of worked like a _clipboard_ as in copied text was
-actually held by X and it was accessible by all ofter applications. This
+actually held by X and it was accessible by all other applications. This
 mechanism still exists in X, but its use is deprecated now and most software
 doesn't use it anymore.
 
@@ -1696,7 +1696,7 @@ mount a remote filesystem into your local filesystem.
 
 ## Managing plugins
 
-[Pathogen ★9333](https://github.com/tpope/vim-pathogen) was the first popular tool for
+[Pathogen ★9430](https://github.com/tpope/vim-pathogen) was the first popular tool for
 managing plugins. Actually it just adjusts the _runtimepath_ (`:h 'rtp'`) to
 include all the things put under a certain directory. You have to clone the
 repositories of the plugins there yourself.
@@ -1737,7 +1737,7 @@ See `:h blockwise-examples` for more info. It might seem complicated at first,
 but quickly becomes second nature.
 
 If you want to get real fancy, have a look at
-[multiple-cursors ★5484](https://github.com/terryma/vim-multiple-cursors).
+[multiple-cursors ★5557](https://github.com/terryma/vim-multiple-cursors).
 
 ## Running external programs and using filters
 
@@ -2455,8 +2455,8 @@ looking at a few distributions:
 
 - [cream](http://cream.sourceforge.net)
 - [janus](https://github.com/carlhuda/janus.git)
-- [spacevim ★3547](https://github.com/SpaceVim/SpaceVim)
-- [spf13 ★10858](https://github.com/spf13/spf13-vim)
+- [spacevim ★3787](https://github.com/SpaceVim/SpaceVim)
+- [spf13 ★11022](https://github.com/spf13/spf13-vim)
 
 ## Standard plugins
 
@@ -2508,8 +2508,8 @@ To change the keys in X, put this in your `~/.xmodmap`:
 
 Afterwards source it via `$ xmodmap ~/.xmodmap`.
 
-An alternative would be using [caps2esc ★81](https://github.com/oblitum/caps2esc) or
-[xcape ★1086](https://github.com/alols/xcape).
+An alternative would be using [caps2esc ★83](https://github.com/oblitum/caps2esc) or
+[xcape ★1095](https://github.com/alols/xcape).
 
 **Windows**:
 
@@ -2556,7 +2556,7 @@ There are two things which can have a huge impact on performance:
 | `:set cursorline`        | Causes all lines to redraw. | `:set nocursorline` |
 | `:set cursorcolumn`      | Causes all lines to redraw. | `:set nocursorcolumn` |
 | `:set relativenumber`    | Causes all lines to redraw. | `:set norelativenumber` |
-| `:set foldmethod=syntax` | If the syntax file is slow already, this makes it even worse. | `:set foldmethod=manual`, `:set foldmethod=marker` or [FastFold ★250](https://github.com/Konfekt/FastFold) |
+| `:set foldmethod=syntax` | If the syntax file is slow already, this makes it even worse. | `:set foldmethod=manual`, `:set foldmethod=marker` or [FastFold ★258](https://github.com/Konfekt/FastFold) |
 | `:set synmaxcol=3000`    | Due to internal representation, Vim has problems with long lines in general. Highlights columns till column 3000. | `:set synmaxcol=200` |
 | matchparen.vim           | Loaded by default. Uses regular expressions to find the accompanying parenthesis. | Disable plugin: `:h matchparen` |
 
@@ -2609,7 +2609,7 @@ To workaround this, you have to `:set paste`, so it gets pasted as-is. See `:h
 
 If you're fed up with toggling `'paste'` all the time, have a look at this fine
 plugin that does it for you:
-[bracketed-paste ★297](https://github.com/ConradIrwin/vim-bracketed-paste).
+[bracketed-paste ★300](https://github.com/ConradIrwin/vim-bracketed-paste).
 
 Additional read from the same author as the plugin:
 [here](http://cirw.in/blog/bracketed-paste).

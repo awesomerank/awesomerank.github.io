@@ -22,6 +22,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 - [Books](#books)
 - [Comics](#comics)
 - [Job boards](#job-boards)
+- [Job boards aggregators](#job-boards-aggregators)
 - [Housing](#housing)
 - [Interviewing](#interviewing)
 - [Events](#events)
@@ -81,7 +82,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Why I work remotely ( hint: it has nothing to do with productivity)](https://m.signalvnoise.com/why-i-work-remotely-hint-it-has-nothing-to-do-with-productivity-34ace30f74fc?gi=39b26e8f40a1)
   1. [Why Coworking Is a Hit for Telecommuters and Entrepreneurs](http://www.cio.com/article/2369058/telecommuting/why-coworking-is-a-hit-for-telecommuters-and-entrepreneurs.html)
   1. [Why Marissa Mayer’s ban on remote working at Yahoo could backfire badly](https://gigaom.com/2013/02/25/why-marissa-mayers-ban-on-remote-working-at-yahoo-could-backfire-badly/)
-  1. [Why moonlighting will change your career](http://blog.landing.jobs/why-moonlighting-will-change-your-career/)
+  1. [Why moonlighting will change your career](https://blog.landing.jobs/why-moonlighting-will-change-your-career-7e8aac3dc25f)
   1. [Why Remote Workers Are More (Yes, More) Engaged](https://hbr.org/2012/08/are-you-taking-your-people-for)
   1. [Why Small Businesses Are Building Remote Workforces](http://www.businessinsider.com/why-small-businesses-are-building-remote-workforces-2013-10)
   1. [Why We (Still) Believe in Working Remotely](https://stackoverflow.blog/2013/02/why-we-still-believe-in-working-remotely/)
@@ -110,6 +111,9 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
   1. [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
   1. [How to Get a Remote Job](https://goodroot.ca/post/2017/02/24/how-to-get-a-remote-job/)
+  1. [How to Handle Client Work Remotely: Our Communication Stack](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack/)
+  1. [How a Week of Remote Work Boosts my Productivity Enormously](http://www.alexrodba.com/2016/07/24/How-a-week-of-remote-work-boosts-my-productivity-enormously/)
+  1. [How to Keep Your Remote Workers Productive](http://www.alexrodba.com/2016/03/22/How-To-Keep-Your-Remote-Workers-Productive/)
 
 ## Videos
   1. [Jason Fried: Why work doesn't happen at work](https://www.youtube.com/watch?v=5XD2kNopsUs)
@@ -136,10 +140,8 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Find Bacon](https://findbacon.com/jobs/remote)
   1. [Flexjobs](https://www.flexjobs.com/) – Telecommuting Jobs & Professional Part-Time Jobs.
   1. [Front-end Developer Jobs](http://frontenddeveloperjob.com/) - View as table, then sort by `performed`
-  1. [FrontHAT](https://fronthat.com/) - Aggragated and curated collection of 100% remote frontend development and design jobs.
   1. [Github Jobs](https://jobs.github.com/) - Location filter -> "*Anywhere/Remote*"
   1. [Golangprojects](http://www.golangprojects.com/golang-remote-jobs.html) filter -> Remote only
-  1. [GoRemote.io](https://goremote.io/)
   1. [Guru](http://www.guru.com/) - (has MANY different categories outside software)
   1. [Hasjob](https://hasjob.co/) – Location filter -> "*Anywhere/Remote*"
   1. [Honestlance](https://www.honestlance.com/)
@@ -153,18 +155,23 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [No Fluff Jobs](https://nofluffjobs.com/#criteria=remote) – Filter -> “*remote*”
   1. [Remote.co Jobs](https://remote.co/remote-jobs/)
   1. [RemoteBase](https://remotebase.io/) - a searchable collection of remote companies and hiring info
-  1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
-  1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
   1. [remote-jobs ★5283](https://github.com/jessicard/remote-jobs) - A list of semi to fully remote-friendly companies in tech
-  1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
   1. [Remotive Jobs](http://jobs.remotive.io/)
   1. [Skip the Drive](http://www.skipthedrive.com/)
   1. [Virtual Vocations](https://www.virtualvocations.com/)
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [WFH.io](https://www.wfh.io/)
-  1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   1. [Working Nomads](http://www.workingnomads.co/jobs)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+
+## Job boards aggregators
+  1. [Alfred](https://alfred.serafin.io/) - Remote jobs aggregator.
+  1. [FrontHAT](https://fronthat.com/) - Aggregated and curated collection of 100% remote frontend development and design jobs.
+  1. [GoRemote.io](https://goremote.io/)
+  1. [Remote OK](https://remoteok.io/) - Scrapes many job board feeds for remote positions.
+  1. [Remote Python](https://www.remotepython.com/) - Job board and aggregator specifically for remote Python jobs.
+  1. [Remotely Awesome Jobs](https://www.remotelyawesomejobs.com/) - Crawls multiple job boards for remote job postings.
+  1. [whoishiring.io](https://whoishiring.io/#!/search/19.41/-43.14/2/?remote=true)
   1. [Work Remotely](https://workremotely.io/) - Crawls and curates many job board feeds for remote positions
 
 ## Housing
@@ -312,6 +319,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [LivingSocial](https://jobs.groupon.com/) - Company-wide support for teams of experienced, remote developers. Lots of autonomy.
   1. [Lullabot](https://www.lullabot.com/jobs) - Strategy, design and development using Drupal.
   1. [Maintainer Mountaineer](https://maintainer.io) - Open source community management as a service.
+  1. [MarsBased](https://marsbased.com) - Design & development consultancy from Barcelona, providing hieh-end Ruby on Rails & Javascript mobile and web applications.
   1. [Mapbox](https://www.mapbox.com/jobs/) - Map integration tools for various platforms.
   1. [MCFTech](https://www.mcftech.com/careers/) - Applications to help you run your business succesfully.
   1. [MeetEdgar](https://meetedgar.com/careers/) - Automated social sharing. US remote.
@@ -434,6 +442,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 #### Others
   1. [Coffitivity](https://coffitivity.com/) - Coffitivity recreates the ambient sounds of a cafe to boost your creativity and help you work better.
+  1. [Funretro](https://funretro.github.io/distributed) - Funretro is a retrospective online board for distributed teams.
   1. [Noisli](https://www.noisli.com/) - Noisli has a list of diferent ambient sounds that can be combined to boost creativity and focus.
   1. [Qbserve](https://qotoqot.com/qbserve/) - Time tracking automation: freelance project tracking, timesheets, invoicing & real-time productivity feedback (Mac).
   1. [Teleport Sundial](https://sundial.teleport.org) - Manage the locations and timezones of your distributed team.

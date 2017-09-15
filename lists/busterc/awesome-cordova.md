@@ -83,7 +83,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     - [Bugfender ★1](https://github.com/bugfender/cordova-plugin-bugfender)
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 Your contributions are always welcome!

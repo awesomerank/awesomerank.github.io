@@ -57,7 +57,7 @@ Discover more awesome lists at [sindresorhus/awesome ★63835](https://github.co
     - [stack-honeypot ★16 ⏳3Y](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses.
     - [EoHoneypotBundle ★22](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
     - [shockpot ★40 ⏳1Y](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
-    - [django-admin-honeypot ★383](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
+    - [django-admin-honeypot ★390](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
     - WordPress honeypots
         - [HonnyPotter ★19 ⏳1Y](https://github.com/MartinIngesen/HonnyPotter) - A WordPress login honeypot for collection and analysis of failed login attempts.
         - [HoneyPress ★50](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container.
@@ -426,7 +426,7 @@ the honeyd daemon and generate configuration files
     - [HpfeedsHoneyGraph ★9 ⏳4Y](https://github.com/yuchincheng/HpfeedsHoneyGraph) - a visualization app to visualize hpfeeds logs.
     - [Acapulco ★8 ⏳1Y](https://github.com/hgascon/acapulco) - Automated Attack Community Graph Construction.
     - [Sebek Dataviz](http://www.honeynet.org/gsoc/project4) - Sebek data visualization.
-    - [The Intelligent HoneyNet ★32 ⏳1Y](https://github.com/jpyorre/IntelligentHoneyNet) - The Intelligent Honey Net Project attempts to create actionable information from honeypots.
+    - [The Intelligent HoneyNet ★34 ⏳1Y](https://github.com/jpyorre/IntelligentHoneyNet) - The Intelligent Honey Net Project attempts to create actionable information from honeypots.
 
 ## <a name="guides"></a>Guides
 

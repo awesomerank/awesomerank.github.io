@@ -9,7 +9,7 @@ title: Awesome Rank for sfischer13/awesome-eta
 ---
 # Awesome Eta [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/typelead/eta/blob/master/eta_logo.png" align="right" width="100" alt="Eta"> ★1380](https://github.com/typelead/eta)
+[<img src="https://github.com/typelead/eta/blob/master/eta_logo.png" align="right" width="100" alt="Eta"> ★1469](https://github.com/typelead/eta)
 
 > Useful resources for the [Eta](http://eta-lang.org/) programming language
 
@@ -27,6 +27,7 @@ You might also like [awesome-haskell ★1179](https://github.com/krispo/awesome-
   - [Overview](#overview)
   - [First Steps](#first-steps)
   - [Comparisons](#comparisons)
+  - [Compatibility](#compatibility)
   - [Official Resources](#official-resources)
 - [Community](#community)
 - [Twitter](#twitter)
@@ -48,7 +49,7 @@ You might also like [awesome-haskell ★1179](https://github.com/krispo/awesome-
 ### Overview
 
 - [Eta](http://eta-lang.org/) - Official website.
-- [GitHub ★1380](https://github.com/typelead/eta) - Eta @ GitHub.
+- [GitHub ★1469](https://github.com/typelead/eta) - Eta @ GitHub.
 
 ### First Steps
 
@@ -59,6 +60,12 @@ You might also like [awesome-haskell ★1179](https://github.com/krispo/awesome-
 
 - [Eta vs. Haskell](http://eta-lang.org/docs/html/faq.html#why-eta-and-not-haskell) - Differences between Eta and Haskell.
 - [Eta vs. Frege](http://eta-lang.org/docs/html/faq.html#how-is-eta-different-from-frege) - Differences between Eta and Frege.
+
+### Compatibility
+
+- [Etlas Packages ★29](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta.
+- [Template Haskell](http://eta-lang.org/docs/html/faq.html#will-eta-have-an-interpreter-and-support-templatehaskell-in-the-future) - Status of Template Haskell.
+- [GHC 8](http://eta-lang.org/docs/html/faq.html#will-eta-be-compatible-with-ghc-8) - Compatibility with GHC 8.
 
 ### Official Resources
 
@@ -120,8 +127,8 @@ You might also like [awesome-haskell ★1179](https://github.com/krispo/awesome-
 
 ### Miscellaneous
 
-- [eta-examples ★25](https://github.com/typelead/eta-examples) - Examples of Eta code.
-- [eta-2048 ★22](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta.
+- [eta-examples ★26](https://github.com/typelead/eta-examples) - Examples of Eta code.
+- [eta-2048 ★23](https://github.com/rahulmutt/eta-2048) - The 2048 game written in Eta.
 
 ## License
 

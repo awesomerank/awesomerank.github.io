@@ -505,7 +505,7 @@ We also recommend these lists.
 
 Other amazingly awesome lists can be found in:
 
-* [bayandin/awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness)
+* [bayandin/awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness)
 * [emijrp/awesome-awesome ★871](https://github.com/emijrp/awesome-awesome)
 * [fleveque/awesome-awesomes ★479](https://github.com/fleveque/awesome-awesomes)
 * [sindresorhus/awesome ★63835](https://github.com/sindresorhus/awesome)

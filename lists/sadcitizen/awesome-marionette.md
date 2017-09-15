@@ -20,8 +20,8 @@ title: Awesome Rank for sadcitizen/awesome-marionette
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions
 - [Gitter chat](https://gitter.im/marionettejs/backbone.marionette)
 - [Marionette Inspector ★167](https://github.com/marionettejs/marionette.inspector)
-- [Yeoman generator for Marionette.js ★347](https://github.com/mrichard/generator-marionette)
-- [Marionette CLI ★21 ⏳1Y](https://github.com/denar90/marionette-cli)
+- [Yeoman generator for Marionette.js ★346](https://github.com/mrichard/generator-marionette)
+- [Marionette CLI ★22 ⏳1Y](https://github.com/denar90/marionette-cli)
 - [MarionetteJS CLI package for atom](https://atom.io/packages/atom-marionettejs-cli)
 
 ## Tutorials and articles
@@ -98,14 +98,14 @@ title: Awesome Rank for sadcitizen/awesome-marionette
 - [Marionette Contact Manager ★22 ⏳3Y](https://github.com/dmytroyarmak/marionette-contact-manager) - Continuation of development "Backbone Contact Manager" but using Marionette.js
 - [Marionette, Require, and Gulp.js Boilerplate ★18 ⏳2Y](https://github.com/jroeckle/Marionette-Require-Gulpjs-Boilerplate) - A Lightweight boilerplate originally project based off "Marionette Require Boilerplate", with Gulp.js integration instead of Grunt.js
 - [MarionetteJS + RequireJS + Twitter Bootstrap ★67 ⏳3Y](https://github.com/ajaxray/marionette-boilerplate) - Let's start the dance! This boilerplate is a ready setup for starting your next awesome javascript app in minutes
-- [Marionette Gentle Introduction ★356 ⏳1Y](https://github.com/davidsulc/marionette-gentle-introduction)
-- [Marionette Wires ★337 ⏳1Y](https://github.com/thejameskyle/marionette-wires)
+- [Marionette Gentle Introduction ★355 ⏳1Y](https://github.com/davidsulc/marionette-gentle-introduction)
+- [Marionette Wires ★336 ⏳1Y](https://github.com/thejameskyle/marionette-wires)
 - [Marionette Cookbook ★105 ⏳2Y](https://github.com/MarionetteLabs/marionette-cookbook)
 - [MarionetteJS + Brunch + Babel/ES6 ★16](https://github.com/denar90/brunch-with-marionettejs)
-- [A Place to Write About Technical Subjects on the Web ★97 ⏳2Y](https://github.com/jmeas/gistbook)
+- [A Place to Write About Technical Subjects on the Web ★96 ⏳2Y](https://github.com/jmeas/gistbook)
 - [The Front End App for edit.sx ★32 ⏳2Y](https://github.com/samccone/edit.sx-frontend)
-- [Streamus ★1108](https://github.com/MeoMix/StreamusChromeExtension)
-- [Marionette-Integrations ★101](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools
+- [Streamus ★1106](https://github.com/MeoMix/StreamusChromeExtension)
+- [Marionette-Integrations ★102](https://github.com/marionettejs/marionette-integrations) - example marionette apps using several different asset management tools
 - [ES6 Marionette Project ★66](https://github.com/abiee/es6-marionette)
 - [Todo List](https://github.com/tastejs/todomvc/tree/master/examples/backbone_marionette) - TodoMVC example
 - [Webpack-Marionette ★13](https://github.com/alexpsi/webpack-marionette) A small boilerplate introducing webpack and es6 features to a Marionette/Backbone application, contains a sample CRUD application of an editable Cookbook.
@@ -113,11 +113,11 @@ title: Awesome Rank for sadcitizen/awesome-marionette
 
 ## Libraries
 
-- [Marionette State ★115 ⏳1Y](https://github.com/Squareknot/marionette.state)
+- [Marionette State ★114 ⏳1Y](https://github.com/Squareknot/marionette.state)
 - [Marionette Virtual Dom ★135](https://github.com/tiagorg/marionette-vdom)
 - [Marionette Form View ★81 ⏳2Y](https://github.com/viverae/marionette.formview)
 - [A Better Router for Backbone and Marionette Applications ★69 ⏳2Y](https://github.com/Betterment/backbone.blazer)
-- [Marionette.Toolkit ★66](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
+- [Marionette.Toolkit ★67](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.
 - [Orchestra ★26](https://github.com/BedeGaming/orchestra) - Client-side app orchestration framework
 ---
 <p align="center">

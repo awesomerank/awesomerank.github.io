@@ -17,50 +17,50 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 ### 2D
 
-- [ANSiTURE ★3 ⏳1Y](https://github.com/w84death/ansiture) -  Adventure platformer using only text based (DOS ANSi) characters.
-- [Blipshift ★7 ⏳2Y](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
-- [BlockPop ★11 ⏳2Y](https://github.com/vnen/blockpop) - A simple Breakout clone.
-- [Bombs ★11](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
+- [ANSiTURE ★4 ⏳1Y](https://github.com/w84death/ansiture) -  Adventure platformer using only text based (DOS ANSi) characters.
+- [Blipshift ★8 ⏳2Y](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
+- [BlockPop ★12 ⏳2Y](https://github.com/vnen/blockpop) - A simple Breakout clone.
+- [Bombs ★12](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
 - [Drone Commander ★3](https://github.com/securas/Drone_Commander) - Command swarms of drones against aliens. Made for CGA JAM
-- [Captain Holetooth ★28](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
-- [Dolphin Island 2 ★79](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam
-- [DynaDungeons ★71](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
+- [Captain Holetooth ★29](https://github.com/Hirnbix/captain-holetooth) - Explorative platformer in a detailed world. Geared towards younger players.
+- [Dolphin Island 2 ★83](https://github.com/janmarcano/Dolphin-Island-2) - Platformer game made for the A Game By It's Cover 2015 Game Jam
+- [DynaDungeons ★72](https://github.com/akien-mga/dynadungeons) - Bomberman clone in a fantasy universe.
 - [Kraken-Rampage ★0 ⏳2Y](https://github.com/randyyaj/Kraken-Rampage) - Ludum Dare 33 entry made in 48 hours.
-- [Libre Pinball ★12 ⏳1Y](https://github.com/Calinou/libre-pinball) - A pinball game.
+- [Libre Pinball ★13 ⏳1Y](https://github.com/Calinou/libre-pinball) - A pinball game.
 - [Minehunter ★4 ⏳1Y](https://github.com/genete/Minehunter) - A Minesweeper clone
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
 - [Mountain of Hope ★4 ⏳1Y](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
-- [Ninja-Training ★23](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
+- [Ninja-Training ★25](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 - [No hope ★3 ⏳2Y](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
-- [Planet Rider ★13 ⏳1Y](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
-- [Platshoot ★17](https://github.com/Calinou/platshoot) - A 2D shooter game.
+- [Planet Rider ★15 ⏳1Y](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
+- [Platshoot ★18](https://github.com/Calinou/platshoot) - A 2D shooter game.
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects.
-- [Tanks of Freedom ★353](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
+- [Tanks of Freedom ★363](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 - [Three Hungry Mice ★0 ⏳1Y](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam 03/2016
 
 ### 3D
 
-- [Cheese Hunter ★5 ⏳1Y](https://github.com/khairul169/cheese-hunter) - A Game for Godot Engine Jam 03/2016
-- [MouseBoat ★21 ⏳1Y](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish.
-- [Veraball ★24 ⏳1Y](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level.
+- [Cheese Hunter ★6 ⏳1Y](https://github.com/khairul169/cheese-hunter) - A Game for Godot Engine Jam 03/2016
+- [MouseBoat ★24 ⏳1Y](https://github.com/CowThing/MouseBoat) - Play as a mouse and sail around a pond. Cast your rod and try to catch some fish.
+- [Veraball ★25 ⏳1Y](https://github.com/Veraball/veraball) - Free "roll the ball" game. Collect coins and reach the finish, without falling out of the level.
 
 ## Demos
 
 *Demos to learn GDScript, its concepts, and various game features.*
 
 - [Cave generator](https://gitlab.com/TeddyDD/Godot-Cave-Generato) - Simple cave generator utilizing Cellular Automata Method
-- [FPS Test ★32 ⏳1Y](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
+- [FPS Test ★33 ⏳2Y](https://github.com/Calinou/fps-test) - A singleplayer FPS test. Physics work, but there are no enemies and no proper shooting.
 - [HTTP Server ★7 ⏳1Y](https://github.com/KOBUGE-Games/godot-httpd) - A HTTP 1.0 file server.
-- [Pathfinding 2d ★29 ⏳1Y](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
+- [Pathfinding 2d ★31 ⏳1Y](https://github.com/FEDE0D/godot-pathfinding2d-demo) - A demo project demonstrating pathfinding using a tilemap.
 - [UDP Snapshot interpolation](https://github.com/jrimclean/godot-snapshot-interpolation-demo) - Lets you connect to a server and view networked physics.
 - [UDP State synchronization](https://github.com/jrimclean/godot-state-sync-demo) - A more efficient networking demo than the snapshot interpolation one.
-- [Voxel Game ★25 ⏳1Y](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - MineCraft like voxel terrain
+- [Voxel Game ★26 ⏳1Y](https://github.com/toger5/Godot-Voxel-Game-MineCraftClone) - MineCraft like voxel terrain
 
 ## Themes
 
 *Themes for your Godot games or user interface.*
 
-- [Arc/Arc Dark ★20](https://github.com/Geequlim/godot-themes)
+- [Arc/Arc Dark ★25](https://github.com/Geequlim/godot-themes)
 - [Iso Dark Theme ★26 ⏳2Y](https://github.com/GalanCM/Iso-Themes) - A clean, modern dark theme.
 
 ## Modules
@@ -68,35 +68,35 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Stuff integrated into Godot core (C++).*
 
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot.
-- [Head tracking using OpenCV ★3 ⏳2Y](https://github.com/antarktikali/godot-opencv-gpu-perspective)
-- [Open Adaptive Music Library ★13](https://github.com/oamldev/oamlGodotModule)
+- [Head tracking using OpenCV ★4 ⏳2Y](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+- [Open Adaptive Music Library ★14](https://github.com/oamldev/oamlGodotModule)
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray.
-- [WaterSplash 2D node ★17](https://github.com/laverneth/WaterSplash)
+- [WaterSplash 2D node ★18](https://github.com/laverneth/WaterSplash)
 
 ## Plugins and scripts
 
 *Scripts that let you do new stuff, or enhance Godot functionality.*
 
-- [Add Primitives ★49 ⏳1Y](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
+- [Add Primitives ★50](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
 - [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - The plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila](https://github.com/r-lyeh/attila) and [Kenney Assets](https://github.com/Calinou/kenney)
-- [Auto Tile Layer ★10](https://github.com/leezh/autotile) -  addon that allows automatic 2D tiling using RPG Maker's Autotile format
+- [Auto Tile Layer ★11](https://github.com/leezh/autotile) -  addon that allows automatic 2D tiling using RPG Maker's Autotile format
 - [Camera2D Screen Shake](http://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
-- [Create Tileset ★38 ⏳1Y](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
-- [CRT Shader ★35 ⏳1Y](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays.
+- [Create Tileset ★41 ⏳1Y](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
+- [CRT Shader ★36 ⏳1Y](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays.
 - [Easing Script ★2 ⏳1Y](https://github.com/impmja/godot-easing) - A port of the Robert Penner's equations for easing
-- [Escoria ★92](https://github.com/godotengine/escoria) - Point & click adventure game framework
+- [Escoria ★96](https://github.com/godotengine/escoria) - Point & click adventure game framework
 - [Example Model Importer ★4 ⏳2Y](https://github.com/TheHX/godot_examples) - A script that imports models with inverted normals (proof of concept).
 - [GodotNotificationCenter ★6 ⏳1Y](https://github.com/didier-v/GodotNotificationCenter) - A notification center for Godot.
-- [GodotTIE ★53](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
+- [GodotTIE ★56](https://github.com/henriquelalves/GodotTIE) - Text Interface Engine to control text output (like in a RPG dialogue)
 - [Grass Plugin ★17 ⏳1Y](https://github.com/marcosbitetti/grass_plugin_4_godot) - A plugin to handle huge amount of grass, foliages and other vegetations
-- [gterm ★12](https://github.com/TeddyDD/gterm) - GUI Control that draws something similar to \*nix terminal emulators
-- [GUT ★34](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
+- [gterm ★13](https://github.com/TeddyDD/gterm) - GUI Control that draws something similar to \*nix terminal emulators
+- [GUT ★39](https://github.com/bitwes/Gut) - Utility for writing unit tests in GDScript.
 - [Heightmap](https://gist.github.com/TheHX/94a83dea1a0f932d5805) - Make an heightmap into terrain.
 - [OpenClipArt Store](https://github.com/vinod8990/godot_plugins/tree/master/OpenClipArt_Store) - Lets you integrate OpenClipArt assets easily, with a browser.
 - [Polygon Merge ★2 ⏳2Y](https://github.com/ScyDev/Godot-Scripts) - Merge polygons.
-- [Resolution Switcher ★38 ⏳1Y](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
-- [Simplex 2D/3D ★10 ⏳1Y](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
-- [SMRT-Godot ★24](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games.
+- [Resolution Switcher ★41 ⏳1Y](https://github.com/vinod8990/godot_plugins) - Switch resolutions easily, for testing.
+- [Simplex 2D/3D ★11 ⏳1Y](https://github.com/OvermindDL1/Godot-Helpers) - Simplex deterministic noise functions.
+- [SMRT-Godot ★25](https://github.com/brunosxs/SMRT-Godot) - A dialog system and editor fairly customizable, a nice fit for story-driven games.
 - [SUTjoystick](https://gitlab.com/shine-upon-thee/joystick) - Easy gamepad support for GNU/Linux and Windows.
 - [Tiled importer ★53](https://github.com/MrGreenTea/GodotTiledImporter) - Import maps from [Tiled](http://mapeditor.org).
 - [Tiled importer](https://github.com/Geequlim/godot-code/tree/master/addons/tiled_importer) - The plugin to import tile maps from [Tiled](http://www.mapeditor.org/) for godot 2.1.
@@ -110,7 +110,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Atom](https://atom.io/packages/lang-gdscript)
 - [Geany ★7 ⏳3Y](https://github.com/haimat/GDScript-Geany)
 - [Gedit ★12 ⏳3Y](https://github.com/haimat/GDScript-gedit)
-- [Sublime Text ★23](https://github.com/beefsack/GDScript-sublime)
+- [Sublime Text ★24](https://github.com/beefsack/GDScript-sublime)
 - [Vim ★30](https://github.com/quabug/vim-gdscript)
 - [Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=geequlim.godot-tools) - Comes with a wealth of features to make your programming experience as comfortable as possible.
 
@@ -119,7 +119,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Alternative themes for built-in text editor.*
 
 - [Syntax themes by Geequlim](https://github.com/Geequlim/godot-themes/tree/master/syntax) - Chester, Google code light and Monokai
-- [Syntax themes by Calinou ★16](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark
+- [Syntax themes by Calinou ★18](https://github.com/Calinou/godot-syntax-themes) - Atom Dark, Gruvbox Dark, Metro, Monokai, One Dark, Solarized Dark
 
 
 ## Unofficial builds of Godot
@@ -136,7 +136,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 - [godot.sh](https://github.com/adolson/godot-stuff/blob/master/godot.sh) - Script that automatically downloads and launches latest version of Godot, or compiles and launches git master branch.
 - [godot-wrapper](https://github.com/nsrosenqvist/godot-wrapper.git) - Script that helps Debian and Ubuntu users install and use Godot.
-- [joystick-mapping ★7](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms.
+- [joystick-mapping ★8](https://github.com/Hinsbart/joystick-mapping) - Tool to generate gamepad mappings for all supported platforms.
 - [replicate-file.sh](https://github.com/adolson/godot-stuff/blob/master/replicate-file.sh) - Script to update copies of a file with one master file.
 - [strip-to-frames.pl](https://github.com/adolson/godot-stuff/blob/master/strip-to-frames.pl) - Perl script to split a grid spritesheet image into numbered individual frame files.
 ---

@@ -58,7 +58,7 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 
 * [Awesome ★63835](https://github.com/sindresorhus/awesome)
 * [Awesome-awesome ★871](https://github.com/emijrp/awesome-awesome)
-* [Awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness)
+* [Awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness)
 
 ## License
 

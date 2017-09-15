@@ -138,7 +138,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [RoaringBitmap ★619](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
 * [rollinghashjava ★41 ⏳1Y](https://github.com/lemire/rollinghashjava) - Rolling hash functions in Java.
 * [Reactor](http://projectreactor.io/) - Reactive data applications on the JVM for Java, Groovy, Clojure and other.
-* [RxJava ★26491](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences.
+* [RxJava ★27262](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences.
 * [SmoothieMap ★121 ⏳1Y](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
 * [Simple Binary Encoding ★1149](https://github.com/real-logic/simple-binary-encoding) - High Performance Message Codec.
 * [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
@@ -201,7 +201,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [K3PO ★28](https://github.com/k3po/k3po) - Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.
 * [muxy ★561](https://github.com/mefellows/muxy) - Simulating real-world distributed system failures.
 * [Netty](http://netty.io/) - Async event-driven network library for high performance protocol servers & clients.
-* [okhttp ★21745](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
+* [okhttp ★22380](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
 * [RSocket](http://rsocket.io/) - RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron.
 * [SimianArmy ★5703](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
 * [pcap4j ★355](https://github.com/kaitoy/pcap4j) - Java library for capturing, crafting, and sending packets using libpcap.
@@ -257,13 +257,13 @@ A curated list of awesome JVM low level and performance related stuff.
 * [jitwatch-intellij ★139](https://github.com/yole/jitwatch-intellij) - JITWatch plugin for IntelliJ IDEA.
 * [jHiccup](http://www.azul.com/jhiccup/) - jHiccup is an open source tool designed to measure the pauses and stalls associated with an application’s underlying Java runtime platform.
 * [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
-* [jmh-compare-gui ★46](https://github.com/akarnokd/jmh-compare-gui) - GUI for comparing JMH results.
+* [jmh-compare-gui ★46 ⏳1Y](https://github.com/akarnokd/jmh-compare-gui) - GUI for comparing JMH results.
 * [JOL](http://openjdk.java.net/projects/code-tools/jol/) - Analyze actual object layout schemes, footprint, and references in JVMs.
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - Helps resolve performance bottlenecks, pin down memory leaks and understand threading issues.
 * [JVMTI](https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/) - Provide a native API to inspect the state and to control the execution of applications running in the JVM.
 * [jvmtop ★567](https://github.com/patric-r/jvmtop) - Lightweight console application to monitor running jvms on a machine in top-like manner.
 * [MAT](https://eclipse.org/mat/) - Java heap analyzer that help find memory leaks and reduce memory consumption.
-* [leakcanary ★16344](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
+* [leakcanary ★16785](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
 * [metrics](http://metrics.dropwizard.io/) - Measure the behavior of critical components in production environment.
 * [Overseer](http://www.peternier.com/projects/overseer/overseer.php) - Low-Level Hardware Monitoring and Management for Java.
 * [perf-map-agent](https://github.com/jrudolph/perf-map-agent) - Generate method mappings to use with the linux `perf` tool.

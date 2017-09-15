@@ -66,7 +66,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 ### Utilities
 
-- [Gifgen ★151](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
+- [Gifgen ★160](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 - [Gifify ★3724](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF
 - [Gifify (not the same) ★847](https://github.com/jclem/gifify) - convert screen recording into GIF
 - [Gifsicle ★446](https://github.com/pornel/giflossy) - lossy GIF compressor
@@ -121,7 +121,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [gifanimateddrawable ★217 ⏳3Y](https://github.com/Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable
 - [GifView ★79 ⏳4Y](https://github.com/RoiSoleil/GifView) - android library to deal with GIF
 - [Gif Movie View ★438 ⏳1Y](https://github.com/sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations
-- [GifImageView ★870](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images
+- [GifImageView ★883](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images
 - [Gif-animation ★99](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF
 - [Android-gif-encoder ★196 ⏳5Y](https://github.com/nbadal/android-gif-encoder) - animated GIF encoder for Android
 - [GIFDroid ★89 ⏳2Y](https://github.com/quackware/GIFDroid) - Android video to GIF converter
@@ -144,7 +144,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### PHP
 
-- [GifCreator ★231](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images
+- [GifCreator ★234](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images
 - [Spacer.gif ★16 ⏳1Y](https://github.com/msng/spacer.gif) - PHP script offering spacer.gif 1x1
 - [GifFrameExtractor ★96 ⏳1Y](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF
 
@@ -156,7 +156,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [UIImageView-PlayGIF ★411](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF
 - [FLAnimatedImage ★5968](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard
 - [Animated-GIF-iPhone ★133 ⏳2Y](https://github.com/arturogutierrez/Animated-GIF-iPhone) - Support for Animated GIF on iOS
-- [UzysAnimatedGifPullToRefresh ★1397 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView
+- [UzysAnimatedGifPullToRefresh ★1404 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView
 - [SvGifView ★85 ⏳3Y](https://github.com/smileEvday/SvGifView) - iOS load and display GIF
 - [GifHUD ★156 ⏳2Y](https://github.com/cemolcay/GiFHUD) - iOS progress hud for displaying only animated GIF images
 - [Video-Background GIF ★150](https://github.com/ElvinJin/Video-Background-GIF) - iOS Video Background GIF
@@ -172,7 +172,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 - [Glyph](http://www.glyph.video/) - tool for generating seamlessly looping GIFs and cinemagraphs from videos
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
-- [GIFs ★585](https://github.com/orta/GIFs) - Mac App for finding GIFs
+- [GIFs ★585 ⏳1Y](https://github.com/orta/GIFs) - Mac App for finding GIFs
 - [VineGifR ★87 ⏳4Y](https://github.com/esten/VineGifR) - Mac app to turn Vine videos into GIFs
 - [GifPro ★42 ⏳5Y](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
 - [Gif Maker](https://gifmaker.movielala.com) - High quailty GIF maker with filters for Mac

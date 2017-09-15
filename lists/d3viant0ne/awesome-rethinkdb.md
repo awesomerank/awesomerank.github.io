@@ -168,7 +168,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 
 #### Community Supported Drivers
 
-- [C# ★209](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
+- [C# ★218](https://github.com/bchavez/RethinkDb.Driver) - A C#/.NET RethinkDB driver striving for 100% ReQL API coverage.
 - [C++ ★62](https://github.com/AtnNn/librethinkdbxx) - RethinkDB driver for C++.
 - [Clojure ★173](https://github.com/apa512/clj-rethinkdb) - A RethinkDB client for Clojure.
 - [Dart ★20 ⏳1Y](https://github.com/billysometimes/rethinkdb) - A Dart driver for RethinkDB v2.0.3.

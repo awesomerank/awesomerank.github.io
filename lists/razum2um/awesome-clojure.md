@@ -277,8 +277,8 @@ anylysis and visualization.*
   * [Incanter ★1918](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
   * [Onyx ★1554](https://github.com/onyx-platform/onyx)
-  * [sparklling ★303](https://github.com/gorillalabs/sparkling)
-  * [flambo ★518](https://github.com/yieldbot/flambo)
+  * [sparklling ★306](https://github.com/gorillalabs/sparkling)
+  * [flambo ★520](https://github.com/yieldbot/flambo)
   * [Neanderthal ★384](https://github.com/uncomplicate/neanderthal)
   * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
   * [Streaming Histograms ★129 ⏳1Y](https://github.com/bigmlcom/histogram)
@@ -287,7 +287,7 @@ anylysis and visualization.*
 ## Machine Learning
 
   * [clj-ml ★138 ⏳1Y](https://github.com/antoniogarrote/clj-ml)
-  * [cortex ★748](https://github.com/thinktopic/cortex)
+  * [cortex ★786](https://github.com/thinktopic/cortex)
   * [clj-bigml ★48](https://github.com/bigmlcom/clj-bigml)
   * [Clatern ★66 ⏳2Y](https://github.com/rinuboney/clatern)
   * [Deeplearning4j ★7004](https://github.com/deeplearning4j/deeplearning4j)

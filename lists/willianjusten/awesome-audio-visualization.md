@@ -181,7 +181,7 @@ title: Awesome Rank for willianjusten/awesome-audio-visualization
 ## Libraries Visualization
 
 - [p5.js](http://p5js.org/) - A JavaScript library for creating graphic and interactive experiences, based on the core principles of Processing.
-- [Pixi.js ★15416](https://github.com/pixijs/pixi.js) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
+- [Pixi.js ★15697](https://github.com/pixijs/pixi.js) - A fast lightweight 2D library that works across all devices. The Pixi renderer allows everyone to enjoy the power of hardware acceleration without prior knowledge of WebGL.
 - [sketch.js](http://soulwire.github.io/sketch.js/) - Let's you get straight to the fun parts of creative coding, without ever having to worry about shims or boilerplate code.
 - [three.js](http://threejs.org/) - Three.js is a library that makes WebGL easy to use.
 - [Two.js](https://jonobr1.github.io/two.js/) - A two-dimensional drawing API geared towards modern web browsers. It is renderer agnostic enabling the same API to draw in multiple contexts: SVG, Canvas, and WebGL.

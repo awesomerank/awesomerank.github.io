@@ -214,7 +214,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 - [Jumpshare](https://itunes.apple.com/us/app/jumpshare/id889922906) - Real-time file sharing app with support for instantly sharing code / Markdown, annotating screenshots, screen recording, and voice recording. ![Freeware][Freeware Icon]
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - Upload images and screenshots to Imgur. [![Open-Source Software][OSS Icon] ★685](https://github.com/mileswd/mac2imgur) ![Freeware][Freeware Icon]
 - [Monosnap](https://monosnap.com) - Annotate and upload images and screenshots, supports many backends like S3, SFTP, WebDAV, Dropbox, etc. ![Freeware][Freeware Icon]
-- [Transmission](https://www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon] ★977](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
+- [Transmission](https://www.transmissionbt.com/) - Simple, lightweight, multi-platform torrent client. [![Open-Source Software][OSS Icon] ★1070](https://github.com/transmission/transmission) ![Freeware][Freeware Icon]
 
 
 ### Terminal
@@ -375,7 +375,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 * [GPG Suite](https://gpgtools.org/) - Full GPG toolkit with easy to understand GUI applications and Mail.app plugin. ![Freeware][Freeware Icon]
 * [macchanger by acrogenesis](https://acrogenesis.com/macchanger/) - Easily change your MAC Address [![Open-Source Software][OSS Icon] ★89 ⏳1Y](https://github.com/acrogenesis/macchanger) ![Freeware][Freeware Icon]
 * [macchanger by shilch](https://github.com/shilch/macchanger/) - Change / spoof MAC address (random, custom and restore). [![Open-Source Software][OSS Icon] ★30 ⏳1Y](https://github.com/shilch/macchanger)
-* [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon] ★828 ⏳1Y](https://github.com/etsy/MIDAS)
+* [MIDAS](https://github.com/etsy/MIDAS) - Intrusion Detection Analysis System. [![Open-Source Software][OSS Icon] ★828 ⏳2Y](https://github.com/etsy/MIDAS)
 * [OS-X-Security-and-Privacy-Guide](https://github.com/drduh/OS-X-Security-and-Privacy-Guide) [![Open-Source Software][OSS Icon]](https://github.com/drduh/OS-X-Security-and-Privacy-Guide)
 * [OSXCollector](https://github.com/Yelp/osxcollector) - Forensic evidence collection & analysis toolkit. [![Open-Source Software][OSS Icon] ★1342](https://github.com/Yelp/osxcollector) ![Freeware][Freeware Icon]
 * [santa](https://github.com/google/santa) - A binary whitelisting/blacklisting system. [![Open-Source Software][OSS Icon] ★1655](https://github.com/google/santa) ![Freeware][Freeware Icon]

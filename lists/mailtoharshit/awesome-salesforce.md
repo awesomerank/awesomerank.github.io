@@ -78,7 +78,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
   * [ForceCode ★66](https://github.com/celador/ForceCode) is a Visual Studio Code extension for Salesforce development
   * [Mavensmate](https://marketplace.visualstudio.com/items?itemName=DavidHelmer.mavensmate) Mavensmate extension for VS code.  Very close in feature parity to Sublime version.
   * [Auto-complete +](https://marketplace.visualstudio.com/items?itemName=chuckjonas.apex-autocomplete) Provides auto-completions for Apex & Visualforce, Go-To & Peek Definition and Realtime Syntax Checking
-* [ApexMate ★22](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
+* [ApexMate ★22 ⏳1Y](https://github.com/superfell/ApexMate)- Apex Plugin for TextMate.
 * [VimAwesome](http://vimawesome.com/plugin/vim-force-com)- VIM Plugin for Force.com.
 * [Force.com CLI](https://force-cli.heroku.com/)- Command-line interface to Force.com.
 * [HaoIDE ★126](https://github.com/xjsender/haoide) - Sublime Plugin for Force.com

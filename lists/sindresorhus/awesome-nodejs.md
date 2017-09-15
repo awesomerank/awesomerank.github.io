@@ -103,7 +103,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [peerflix ★4383](https://github.com/mafintosh/peerflix) - Streaming torrent client.
 - [dat](http://dat-data.com) - Real-time replication and versioning for data sets.
 - [ipfs ★1078](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
-- [GitTorrent ★3686 ⏳1Y](https://github.com/cjb/GitTorrent) - Peer-to-peer network of Git repositories being shared over BitTorrent.
+- [GitTorrent ★3686 ⏳2Y](https://github.com/cjb/GitTorrent) - Peer-to-peer network of Git repositories being shared over BitTorrent.
 - [stackgl](http://stack.gl) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [peerwiki ★255 ⏳2Y](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast ★337 ⏳2Y](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
@@ -732,7 +732,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [forever ★10002](https://github.com/foreverjs/forever) - Ensures that a given script runs continuously.
 - [supervisor ★3173](https://github.com/petruisfan/node-supervisor) - Restart scripts when they crash or restart when a `*.js` file changes.
 - [Phusion Passenger](https://www.phusionpassenger.com) - Friendly process manager that integrates directly into Nginx.
-- [naught ★689](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
+- [naught ★689 ⏳1Y](https://github.com/andrewrk/naught) - Process manager with zero downtime deployment.
 
 
 ### Automation

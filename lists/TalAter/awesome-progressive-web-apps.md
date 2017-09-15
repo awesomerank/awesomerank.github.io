@@ -45,7 +45,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Learning Resources
 
 - [Google Developers - Your First Progressive Web App](https://developers.google.com/web/fundamentals/getting-started/your-first-progressive-web-app/?hl=en) - A step-by-step guide to building a progressive web apps using the app shell pattern.
-- [Awesome Service Workers ★1110](https://github.com/TalAter/awesome-service-workers) - A collection of awesome resources for learning service workers.
+- [Awesome Service Workers ★1126](https://github.com/TalAter/awesome-service-workers) - A collection of awesome resources for learning service workers.
 - [Service Workers W3C Specification](https://www.w3.org/TR/service-workers/) - The official service workers spec.
 
 ## Browser Support
@@ -81,7 +81,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ### Service Workers
 
-- [Awesome Service Workers ★1110](https://github.com/TalAter/awesome-service-workers) - A curated collection of the finest service worker resources.
+- [Awesome Service Workers ★1126](https://github.com/TalAter/awesome-service-workers) - A curated collection of the finest service worker resources.
 
 ### CacheStorage API
 
@@ -120,7 +120,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 - [Introducing the Web Share API](https://developers.google.com/web/updates/2016/10/navigator-share) - High level introduction to the Web Share API.
 - [Web Share API explainer](https://github.com/WICG/web-share/blob/master/docs/explainer.md) - An explanation of the API, along with some examples. Part of the proposal doc.
-- [Web Share Target API ★34](https://github.com/WICG/web-share-target) - The proposal for the Web Share Target API, as well as a high level [explainer](https://github.com/WICG/web-share-target/blob/master/docs/explainer.md).
+- [Web Share Target API ★37](https://github.com/WICG/web-share-target) - The proposal for the Web Share Target API, as well as a high level [explainer](https://github.com/WICG/web-share-target/blob/master/docs/explainer.md).
 
 ## Awesome Performance
 

@@ -11,7 +11,7 @@ title: Awesome Rank for passy/awesome-recursion-schemes
 
 > A curation of useful resources for learning about and using recursion schemes.
 
-[Recursion schemes](http://blog.sumtypeofway.com/an-introduction-to-recursion-schemes/) are simple, composable combinators, that automate the process of traversing and recursing through nested data structures.
+Recursion schemes are simple, composable combinators, that automate the process of traversing and recursing through nested data structures.
 
 
 ## Contents
@@ -35,6 +35,9 @@ title: Awesome Rank for passy/awesome-recursion-schemes
 - [Understanding Algebras](https://www.schoolofhaskell.com/user/bartosz/understanding-algebras) -
   Bartosz Milewski explains F-algebras and shows how to use them in the context of
   catamorphisms.
+- [Recursion Schemes in JavaScript and Flow](https://medium.com/@JosephJnk/recursion-schemes-in-javascript-and-flow-with-static-land-recursision-schemes-97cf10599fb7) -
+  Series introducing recursion schemes and related concepts in JavaScript,
+  aimed at developers with a minimal functional programming background.
 
 ## Articles
 
@@ -75,7 +78,7 @@ title: Awesome Rank for passy/awesome-recursion-schemes
   Presented by Anthony Burzillo at the NYC Haskell User's Group.
 - [A Gentle Introduction to Recursion Schemes](https://www.youtube.com/watch?v=i5A2Amfcir8) -
   Presented by Jean Remi Desjardins at Lambdaconf 2016.
-- [recursion-scheme-talk ★82](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes.
+- [recursion-scheme-talk ★88](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes.
 - [Bracer: Transforming Real-World Languages with Coproducts and Recursion Schemes](https://www.youtube.com/watch?v=5Kr7IykGMzU) - High-level talk about structuring programs with coproducts and recursion schemes by Patrick Thomson.
 - [Recursion: Where Functional Programming Hits Bottom](https://www.youtube.com/watch?v=24UoRaoKLjM) - Introduction to recursive fix point data structures and recursion schemes in Haskell and Scala by Greg Pfeil.
 - [Programming with algebras](https://www.youtube.com/watch?v=-98fR9VmLbQ) - Bartosz Milewski's article in talk form, presented at LambdaCon.
@@ -89,12 +92,14 @@ title: Awesome Rank for passy/awesome-recursion-schemes
 
 ## Implementations
 
-- [recursion-schemes ★61](https://github.com/ekmett/recursion-schemes) for
+- [recursion-schemes ★67](https://github.com/ekmett/recursion-schemes) for
   Haskell - The canonical implementation by Edward Kmett.
-- [Matryoshka ★402](https://github.com/slamdata/matryoshka) for Scala -
+- [Matryoshka ★416](https://github.com/slamdata/matryoshka) for Scala -
   Generalized folds, unfolds, and traversals for fixed point data structures.
-- [purescript-matryoshka ★27](https://github.com/slamdata/purescript-matryoshka) for PureScript -
+- [purescript-matryoshka ★29](https://github.com/slamdata/purescript-matryoshka) for PureScript -
   Work-in-process port of matryoshka.
+- [static-land-recursion-schemes ★7](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
+  Schemes for data structures written in the style of [flow-static-land ★356](https://github.com/gcanti/flow-static-land).
 
 ## License
 

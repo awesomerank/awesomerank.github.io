@@ -121,7 +121,7 @@ The CoderStats link for Github Chrome extension displays a link to the CoderStat
 </details>
 
 
-## [Contributors on GitHub ★184](https://github.com/hzoo/contributors-on-github)
+## [Contributors on GitHub ★184 ⏳1Y](https://github.com/hzoo/contributors-on-github)
 <a href="https://chrome.google.com/webstore/detail/contributors-on-github/cjbacdldhllelehomkmlniifaojgaeph"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Show the # of PRs and other contributors stats in the Issues/PRs tab. Can be helpful for maintainers that want to know if it's a contributor's first PR.
@@ -217,7 +217,7 @@ Expand and collapse file diffs on GitHub.com
  ![GitHub Diffs](https://lh3.googleusercontent.com/AWUu9P702CPbmnOHf5ouw4t8-qf29eA00wdRUmsbXF79-NPbJyDaTNLMZzTCLOQneB-kBtCUBx0=w640-h400-e365)
 </details>
 
-## [GitHub Email Extractor ★25](https://github.com/prabhakar267/github-email-extractor)
+## [GitHub Email Extractor ★25 ⏳1Y](https://github.com/prabhakar267/github-email-extractor)
 <a href="https://chrome.google.com/webstore/detail/github-show-email/pndebicblkfcinlcedagfhjfkkkecibn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Chrome extension to fetch the email ID of a user even if they haven't made it public on their GitHub profile
@@ -230,7 +230,7 @@ Chrome extension to fetch the email ID of a user even if they haven't made it pu
 </details>
 
 
-## [GitHub Extended ★24](https://github.com/onmyway133/github-extended)
+## [GitHub Extended ★24 ⏳1Y](https://github.com/onmyway133/github-extended)
 
 <a href="https://chrome.google.com/webstore/detail/github-extended/doidfnmbfadacpcjkekkgofkmnkljnhi/related"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 

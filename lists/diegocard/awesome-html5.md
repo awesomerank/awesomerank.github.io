@@ -327,14 +327,14 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 * [Info, news and tutorials](http://html5gamedevelopment.com/)
 * [Over 380 resources on HTML5 game development](https://html5-game-development.zeef.com/andre.antonio.schmitz)
 * Opensource JavaScript game engines
-  - [Pixi.js ★15416](https://github.com/pixijs/pixi.js)
-  - [phaser ★15956](https://github.com/photonstorm/phaser)
-  - [MelonJS ★1904](https://github.com/melonjs/melonJS)
-  - [kiwi.js ★910](https://github.com/gamelab/kiwi.js)
-  - [Crafty ★2422](https://github.com/craftyjs/Crafty)
-  - [PhysicsJS ★3025](https://github.com/wellcaffeinated/PhysicsJS)
-  - [Stage.js ★1131](https://github.com/shakiba/stage.js)
-  - [cocos2d ★2229](https://github.com/cocos2d/cocos2d-html5)
+  - [Pixi.js ★15697](https://github.com/pixijs/pixi.js)
+  - [phaser ★16221](https://github.com/photonstorm/phaser)
+  - [MelonJS ★1934](https://github.com/melonjs/melonJS)
+  - [kiwi.js ★916](https://github.com/gamelab/kiwi.js)
+  - [Crafty ★2438](https://github.com/craftyjs/Crafty)
+  - [PhysicsJS ★3040](https://github.com/wellcaffeinated/PhysicsJS)
+  - [Stage.js ★1138](https://github.com/shakiba/stage.js)
+  - [cocos2d ★2246](https://github.com/cocos2d/cocos2d-html5)
 
 ## Videos and Keynotes
 
@@ -374,7 +374,7 @@ A curated list of awesome HTML5 resources. Inspired by [awesome-php](https://git
 
 ## Other awesome lists
 
-* [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness)
+* [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness)
 * [lists ★4428](https://github.com/jnv/lists)
 
 ## Contributing

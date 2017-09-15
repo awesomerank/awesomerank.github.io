@@ -126,25 +126,25 @@ A curated list of cryptography resources and links.
 ### Standalone
 
 - [Bcrypt](http://bcrypt.sourceforge.net/) - Cross-platform file encryption utility.
-- [blackbox ★3613](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
-- [certbot ★19275](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
+- [blackbox ★3668](https://github.com/StackExchange/blackbox) - safely store secrets in Git/Mercurial/Subversion.
+- [certbot ★19557](https://github.com/certbot/certbot) - Previously the Let's Encrypt Client, is EFF's tool to obtain certs from Let's Encrypt, and (optionally) auto-enable HTTPS on your server. It can also act as a client for any other CA that uses the ACME protocol.
 - [cryptomator ★1541](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
 - [gpg](https://www.gnupg.org/) - Complete and free implementation of the OpenPGP standard. It allows to encrypt and sign your data and communication, features a versatile key management system. GnuPG is a command line tool with features for easy integration with other applications.
 - [ironssh](https://ironcorelabs.com/products/ironsftp) - End-to-end encrypt transferred files using sftp/scp and selectively share with others. Automatic key management works with any SSH server. Encrypted files are gpg compatible.
-- [Nipe ★218](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
+- [Nipe ★229](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 
 ### Plugins
 
 #### Git
 
-- [git-crypt ★2353](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
+- [git-crypt ★2426](https://github.com/AGWA/git-crypt) - Transparent file encryption in git.
 - [git-secret](https://sobolevn.github.io/git-secret/) - Bash-tool to store your private data inside a git repository.
 
 ## Frameworks and Libs
 
 ### C
 
-- [crypto-algorithms ★382](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
+- [crypto-algorithms ★411](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
 - [libsodium ★4513](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
 - [libtomcrypt ★542](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
@@ -152,32 +152,32 @@ A curated list of cryptography resources and links.
 - [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
 - [OpenSSL ★5218](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 - [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
-- [RHash ★121](https://github.com/rhash/RHash) - Great utility for computing hash sums.
+- [RHash ★130](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 - [tiny-AES128-C](https://github.com/kokke/tiny-AES128-C) - Small portable AES128 in C.
-- [wolfSSL ★256](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
-- [xxHash ★1445](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
+- [wolfSSL ★265](https://github.com/wolfSSL/wolfssl) - Small, fast, portable implementation of TLS/SSL for embedded devices to the cloud.
+- [xxHash ★1529](https://github.com/Cyan4973/xxHash) - Extremely fast hash algorithm.
 
 ### C++
 
 - [Botan](https://botan.randombit.net/) - Cryptography library written in `C++11`.
-- [cryptopp ★709](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
-- [HElib ★1327](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
+- [cryptopp ★753](https://github.com/weidai11/cryptopp) - Crypto++ Library is a free C++ class library of cryptographic schemes.
+- [HElib ★1342](https://github.com/shaih/HElib) - Software library that implements homomorphic encryption (HE).
 - [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - Low-level cryptographic library.
 - [s2n ★2842](https://github.com/awslabs/s2n) - Implementation of the TLS/SSL protocols.
 
 ### C-sharp
 
 - [Bouncy Castle](https://bouncycastle.org/csharp/index.html) - All-purpose cryptographic library.
-- [libsodium-net ★217](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
-- [PCLCrypto ★159](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
-- [SecurityDriven.Inferno ★307](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
-- [StreamCryptor ★54](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
+- [libsodium-net ★222](https://github.com/adamcaudill/libsodium-net) - Secure cryptographic library, port of libsodium for .NET.
+- [PCLCrypto ★161](https://github.com/AArnott/PCLCrypto) - Provides cryptographic APIs over algorithms implemented by the platform, including exposing them to portable libraries.
+- [SecurityDriven.Inferno ★316](https://github.com/sdrapkin/SecurityDriven.Inferno) - .NET crypto done right.
+- [StreamCryptor ★55](https://github.com/bitbeans/StreamCryptor) - Stream encryption & decryption with libsodium and protobuf.
 
 ### Clojure
 
 - [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
 - [clj-crypto ★22](https://github.com/macourtney/clj-crypto) - Wrapper for Bouncy Castle.
-- [pandect ★174](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
+- [pandect ★175](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
 
 ### Common Lisp
 
@@ -214,17 +214,17 @@ A curated list of cryptography resources and links.
 - [crypto](https://golang.org/pkg/crypto/) - Official Website Resources.
 - [cryptoballot ★108](https://github.com/cryptoballot/cryptoballot) - Cryptographically secure online voting.
 - [dedis/crypto](https://github.com/dedis/crypto) - Advanced crypto library for the Go language.
-- [dkeyczar ★101](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
+- [dkeyczar ★102](https://github.com/dgryski/dkeyczar) - Port of Google's Keyczar cryptography library to Go.
 - [gocrypto ★85 ⏳2Y](https://github.com/kisom/gocrypto) - Example source code for the Practical Crypto with Go book.
 
 ### Haskell
 
 - [Cryptography](http://hackage.haskell.org/packages/#cat:Cryptography) - Collaborative Hackage list.
 - [Cryptography & Hashing](https://wiki.haskell.org/Applications_and_libraries/Cryptography) - Official Website of Haskell.
-- [cryptol ★621](https://github.com/GaloisInc/cryptol) - The Language of Cryptography.
+- [cryptol ★624](https://github.com/GaloisInc/cryptol) - The Language of Cryptography.
 - [Cryptonite](https://hackage.haskell.org/package/cryptonite) - Haskell repository of cryptographic primitives.
 - [HsOpenSSL](https://github.com/phonohawk/HsOpenSSL) - OpenSSL binding for Haskel.
-- [scrypt ★12 ⏳1Y](https://github.com/informatikr/scrypt) - Haskell bindings to Colin Percival's scrypt implementation.
+- [scrypt ★12 ⏳2Y](https://github.com/informatikr/scrypt) - Haskell bindings to Colin Percival's scrypt implementation.
 
 ### Haxe
 
@@ -232,26 +232,26 @@ A curated list of cryptography resources and links.
 
 ### JavaScript
 
-- [asmCrypto ★349](https://github.com/vibornoff/asmcrypto.js) - JavaScript implementation of popular cryptographic utilities with performance in mind.
-- [bcrypt-nodejs ★488](https://github.com/shaneGirish/bcrypt-nodejs) - Native implementation of bcrypt for NodeJS.
+- [asmCrypto ★357](https://github.com/vibornoff/asmcrypto.js) - JavaScript implementation of popular cryptographic utilities with performance in mind.
+- [bcrypt-nodejs ★501](https://github.com/shaneGirish/bcrypt-nodejs) - Native implementation of bcrypt for NodeJS.
 - [cifre](https://github.com/openpeer/cifre) - Fast crypto toolkit for modern client-side JavaScript.
 - [closure-library](https://github.com/google/closure-library/tree/master/closure/goog/crypt) - Google's common JavaScript library.
-- [cryptico ★722](https://github.com/wwwtyro/cryptico) - Easy-to-use encryption system utilizing RSA and AES for javascript.
-- [crypto-js ★2582](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
-- [cryptojs ★217 ⏳5Y](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
-- [forge ★2017](https://github.com/digitalbazaar/forge) - Native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps.
-- [javascript-crypto-library ★232 ⏳1Y](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
-- [js-nacl ★378](https://github.com/tonyg/js-nacl) - Pure-Javascript High-level API to Emscripten-compiled libsodium routines.
-- [jsencrypt ★1579](https://github.com/travist/jsencrypt) - Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
-- [JShashes ★346](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
-- [jsrsasign ★1189](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
-- [libsodium.js ★259](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
+- [cryptico ★739](https://github.com/wwwtyro/cryptico) - Easy-to-use encryption system utilizing RSA and AES for javascript.
+- [crypto-js ★2748](https://github.com/brix/crypto-js) - JavaScript library of crypto standards.
+- [cryptojs ★218 ⏳5Y](https://github.com/gwjjeff/cryptojs) - Provide standard and secure cryptographic algorithms for NodeJS.
+- [forge ★2068](https://github.com/digitalbazaar/forge) - Native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps.
+- [javascript-crypto-library ★233 ⏳1Y](https://github.com/clipperz/javascript-crypto-library) - JavaScript Crypto Library provides web developers with an extensive and efficient set of cryptographic functions.
+- [js-nacl ★380](https://github.com/tonyg/js-nacl) - Pure-Javascript High-level API to Emscripten-compiled libsodium routines.
+- [jsencrypt ★1639](https://github.com/travist/jsencrypt) - Javascript library to perform OpenSSL RSA Encryption, Decryption, and Key Generation.
+- [JShashes ★350](https://github.com/h2non/jshashes) - Fast and dependency-free cryptographic hashing library for node.js and browsers (supports MD5, SHA1, SHA256, SHA512, RIPEMD, HMAC).
+- [jsrsasign ★1219](https://github.com/kjur/jsrsasign) - The 'jsrsasign' (RSA-Sign JavaScript Library) is an opensource free cryptography library supporting RSA/RSAPSS/ECDSA/DSA signing/validation.
+- [libsodium.js ★267](https://github.com/jedisct1/libsodium.js) - libsodium compiled to pure JavaScript, with convenient wrappers.
 - [node.bcrypt.js](https://github.com/ncb000gt/node.bcrypt.js) - bcrypt for NodeJS.
-- [OpenPGP.js ★2644](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
-- [PolyCrypt ★259 ⏳2Y](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
-- [rusha ★206](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
-- [sjcl ★4539](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library.
-- [URSA ★480](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
+- [OpenPGP.js ★2679](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript.
+- [PolyCrypt ★258 ⏳2Y](https://github.com/polycrypt/polycrypt) - Pure JS implementation of the WebCrypto API.
+- [rusha ★210](https://github.com/srijs/rusha) - High-performance pure-javascript SHA1 implementation suitable for large binary data, reaching up to half the native speed.
+- [sjcl ★4589](https://github.com/bitwiseshiftleft/sjcl) - Stanford Javascript Crypto Library.
+- [URSA](https://github.com/quartzjer/ursa) - RSA public/private key OpenSSL bindings for Node.
 
 ### Java
 
@@ -259,10 +259,10 @@ A curated list of cryptography resources and links.
 - [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.
 - [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
 - [Google Keyczar ★896](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
-- [Google Tink ★700](https://github.com/google/tink) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
-- [keywhiz ★1775](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
+- [Google Tink ★739](https://github.com/google/tink) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
+- [keywhiz ★1798](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
 - [pac4j ★974](https://github.com/pac4j/pac4j) - Security engine.
-- [scrypt ★295 ⏳1Y](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
+- [scrypt ★301 ⏳1Y](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 
 ### Julia
 
@@ -279,36 +279,36 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 
 ### Objective-C
 
-- [CocoaSecurity ★860](https://github.com/kelp404/CocoaSecurity) - AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.
-- [RNCryptor ★2601](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac.
+- [CocoaSecurity ★875 ⏳1Y](https://github.com/kelp404/CocoaSecurity) - AES, MD5, SHA1, SHA224, SHA256, SHA384, SHA512, Base64, Hex.
+- [RNCryptor ★2645](https://github.com/RNCryptor/RNCryptor) - CCCryptor (AES encryption) wrappers for iOS and Mac.
 - [Themis ★402](https://github.com/cossacklabs/themis) - Crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms..
 
 ### PHP
 
 - [halite](https://paragonie.com/project/halite) - Simple library for encryption using `libsodium`.
 - [libsodium-laravel ★15 ⏳1Y](https://github.com/scrothers/libsodium-laravel) - Laravel Package Abstraction using `libsodium`.
-- [PHP Encryption ★1251](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
+- [PHP Encryption ★1278](https://github.com/defuse/php-encryption) - Library for encrypting data with a key or password in PHP.
 - [TCrypto ★50 ⏳1Y](https://github.com/timoh6/TCrypto) - TCrypto is a simple and flexible PHP 5.3+ in-memory key-value storage library.
 
 ### Python
 
-- [bcrypt ★320](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
-- [charm ★179](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
+- [bcrypt ★336](https://github.com/pyca/bcrypt) - Modern password hashing for your software and your servers.
+- [charm ★184](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 - [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implmentation of cryptographic algorithms and applications.
 - [hashids ★629](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
 - [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
-- [pycryptodome ★199](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
-- [PyElliptic ★92](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
+- [pycryptodome ★262](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
+- [PyElliptic ★94](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
 - [pynacl ★378](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 
 ### R
 
-- [rscrypt ★15](https://github.com/rstudio/rscrypt) - Package for a collection of scrypt cryptographic functions.
+- [rscrypt ★16](https://github.com/rstudio/rscrypt) - Package for a collection of scrypt cryptographic functions.
 
 ### Ruby
 
-- [bcrypt-ruby ★1186](https://github.com/codahale/bcrypt-ruby) - Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
+- [bcrypt-ruby ★1201](https://github.com/codahale/bcrypt-ruby) - Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
 - [RbNaCl ★659](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 
 ### Rust
@@ -318,13 +318,13 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [rust-crypto ★601](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
 - [rust-openssl ★292](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
 - [rustls ★542](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
-- [sodiumoxide ★229](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
+- [sodiumoxide ★234](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
 - [suruga ★126 ⏳1Y](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
 - [webpki ★93](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Scala
 
-- [scrypto ★62](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
+- [scrypto ★66](https://github.com/input-output-hk/scrypto) - Cryptographic primitives for Scala.
 
 ### Swift
 

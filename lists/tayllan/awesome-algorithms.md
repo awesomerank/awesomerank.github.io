@@ -10,7 +10,7 @@ title: Awesome Rank for tayllan/awesome-algorithms
 # Awesome Algorithms
 
 A curated list of awesome places to learn and/or practice algorithms.
-Inspired by [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
+Inspired by [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) and all the other awesome Awesome libraries.
 
 If you want to contribute, please read the [contribution guidelines](https://github.com/tayllan/awesome-algorithms/blob/master/CONTRIBUTING.md).
 
@@ -66,7 +66,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [Algorithm Design](https://www.pearsonhighered.com/program/Kleinberg-Algorithm-Design/PGM319216.html) - Pretty straight-forward.
 * [Algorithms](http://algs4.cs.princeton.edu/home/) - Problems explained with Java, OO good practices, visualizations, and free online resources.
 * [Data Structures Using C](http://www.amazon.com/Data-Structures-Using-Aaron-Tenenbaum/dp/0131997467) - The basic concepts and usages of data structures.
-* [Elementary Algorithms ★3072](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
+* [Elementary Algorithms ★3121](https://github.com/liuxinyu95/AlgoXY) - An awesome book about algorithms and data structures.
 * [Grokking Algorithms](http://www.manning.com/bhargava) - An illustrated book on algorithms with practical examples.
 * [Introduction to Algorithms](http://mitpress.mit.edu/books/introduction-algorithms) - Essential!
 * [Swift Algorithms & Data Structures](http://shop.waynewbishop.com/) - A practical guide to concepts, theory and code.
@@ -81,50 +81,50 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [CoffeeScript ★35](https://github.com/BrunoRB/algorithms.coffee)
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
-    * [by @aalhour ★1219](https://github.com/aalhour/C-Sharp-Algorithms)
-    * [by @justcoding121 ★7](https://github.com/justcoding121/Advanced-Algorithms)
+    * [by @aalhour ★1247](https://github.com/aalhour/C-Sharp-Algorithms)
+    * [by @justcoding121 ★8](https://github.com/justcoding121/Advanced-Algorithms)
 * C++
     * [by @xtaci ★1676](https://github.com/xtaci/algorithms)
-    * [by @PetarV- ★103](https://github.com/PetarV-/Algorithms)
-    * [by @faheel ★68](https://github.com/faheel/Algos)
+    * [by @PetarV- ★105](https://github.com/PetarV-/Algorithms)
+    * [by @faheel ★78](https://github.com/faheel/Algos)
 * [Erlang ★79](https://github.com/aggelgian/erlang-algorithms)
-* [Go ★1184 ⏳2Y](https://github.com/arnauddri/algorithms)
+* [Go ★1195 ⏳2Y](https://github.com/arnauddri/algorithms)
 * Java
     * [by @jpa99 ★1](https://github.com/jpa99/Algorithms)
-    * [by @phishman3579 ★1434](https://github.com/phishman3579/java-algorithms-implementation)
+    * [by @phishman3579 ★1497](https://github.com/phishman3579/java-algorithms-implementation)
     * [by @asmolich ★7 ⏳3Y](https://github.com/asmolich/algorithms)
     * [by @psjava ★35 ⏳1Y](https://github.com/psjava/psjava)
-    * [by @jeandersonbc ★12 ⏳2Y](https://github.com/jeandersonbc/algorithms-and-ds)
-    * [by @pedrovgs ★2124](https://github.com/pedrovgs/Algorithms)
+    * [by @jeandersonbc ★12](https://github.com/jeandersonbc/algorithms-and-ds)
+    * [by @pedrovgs ★2154](https://github.com/pedrovgs/Algorithms)
     * [by @Erdos-Graph-Framework ★64](https://github.com/Erdos-Graph-Framework/Erdos)
     * [by @deepak-malik ★4](https://github.com/deepak-malik/Data-Structures-In-Java)
 * JavaScript
     * [by @jiayihu ★975](https://github.com/jiayihu/pretty-algorithms)
-    * [by @felipernb ★2507](https://github.com/felipernb/algorithms.js)
-    * [by @nzakas ★4819 ⏳1Y](https://github.com/nzakas/computer-science-in-javascript)
-    * [by @duereg ★553](https://github.com/duereg/js-algorithms)
-    * [by @mgechev ★3107](https://github.com/mgechev/javascript-algorithms)
+    * [by @felipernb ★2626](https://github.com/felipernb/algorithms.js)
+    * [by @nzakas ★4871 ⏳1Y](https://github.com/nzakas/computer-science-in-javascript)
+    * [by @duereg ★563](https://github.com/duereg/js-algorithms)
+    * [by @mgechev ★3207](https://github.com/mgechev/javascript-algorithms)
 * Objective-C
     * [by @ EvgenyKarkan ★2238](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
     * [by @nryoung ★2394](https://github.com/nryoung/algorithms)
-    * [by @prakhar1989 ★1867](https://github.com/prakhar1989/Algorithms)
-    * [by @laurentluce ★204](https://github.com/laurentluce/python-algorithms)
-    * [by @nelson-brochado](https://github.com/nelson-brochado/ands)
+    * [by @prakhar1989 ★1888](https://github.com/prakhar1989/Algorithms)
+    * [by @laurentluce ★208](https://github.com/laurentluce/python-algorithms)
+    * [by @nbro ★15](https://github.com/nbro/ands)
 * Ruby
     * [by @kanwei ★2149](https://github.com/kanwei/algorithms)
-    * [by @sagivo ★2845](https://github.com/sagivo/algorithms)
-    * [by @kumar91gopi ★48](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
-* [Scala ★875](https://github.com/vkostyukov/scalacaster)
+    * [by @sagivo ★2858](https://github.com/sagivo/algorithms)
+    * [by @kumar91gopi ★52](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
+* [Scala ★885](https://github.com/vkostyukov/scalacaster)
 * Swift
     * [by @kingreza ★26](https://github.com/kingreza/Swift-Algorithms-Strings-)
     * [by @waynewbishop ★1722](https://github.com/waynewbishop/SwiftStructures)
     * [by @hollance](https://github.com/hollance/swift-algorithm-club)
 * Language agnostic
-    * [by @kennyledet ★1942](https://github.com/kennyledet/Algorithm-Implementations)
-    * [by @indy256 ★622](https://github.com/indy256/codelibrary)
-    * [by @sagivo ★2845](https://github.com/sagivo/algorithms)
-    * [by @patmorin ★534](https://github.com/patmorin/ods)
+    * [by @kennyledet ★1950](https://github.com/kennyledet/Algorithm-Implementations)
+    * [by @indy256 ★636](https://github.com/indy256/codelibrary)
+    * [by @sagivo ★2858](https://github.com/sagivo/algorithms)
+    * [by @patmorin ★549](https://github.com/patmorin/ods)
 
 ## Online Judges
 
@@ -160,7 +160,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Some tools that can help you in the learning of algorithms*
 
-* [interactive-coding-challenges ★10839](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
+* [interactive-coding-challenges ★10981](https://github.com/donnemartin/interactive-coding-challenges) - Interactive, test-driven coding challenges (algorithms and data structures).
 
 ## License
 

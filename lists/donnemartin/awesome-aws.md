@@ -520,7 +520,7 @@ Community Repos:
 AWS Repos:
 
 * [amazon-cognito-android ★31 ⏳1Y](https://github.com/aws/amazon-cognito-android) - Sync SDK for Android.
-* [amazon-cognito-developer-authentication-sample ★64 ⏳1Y](https://github.com/awslabs/amazon-cognito-developer-authentication-sample) - Authentication sample.
+* [amazon-cognito-developer-authentication-sample ★64 ⏳2Y](https://github.com/awslabs/amazon-cognito-developer-authentication-sample) - Authentication sample.
 * [amazon-cognito-dotnet ★4 ⏳1Y](https://github.com/aws/amazon-cognito-dotnet) - Sync SDK for .NET.
 * [amazon-cognito-ios ★33](https://github.com/aws/amazon-cognito-ios) - Sync SDK for iOS.
 * [amazon-cognito-js :fire: ★141](https://github.com/aws/amazon-cognito-js) - Sync SDK for JavaScript.
@@ -566,7 +566,7 @@ AWS Repos:
 * [aws-dynamodb-mars-json-demo ★46 ⏳2Y](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images.
 * [aws-dynamodb-session-tomcat ★83](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
 * [aws-sessionstore-dynamodb-ruby ★41](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
-* [dynamodb-cross-region-library :fire: ★195](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication.
+* [dynamodb-cross-region-library :fire::fire: ★195](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication.
 * [dynamodb-geo :fire: ★192](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
 * [dynamodb-import-export-tool ★47](https://github.com/awslabs/dynamodb-import-export-tool) - Import and export examples.
 * [dynamodb-online-index-violation-detector ★4 ⏳2Y](https://github.com/awslabs/dynamodb-online-index-violation-detector) - Finds violations on an online GSI's hash key and range key.
@@ -667,7 +667,7 @@ Community Repos:
 
 AWS Repos:
 
-* [logstash-output-amazon_es :fire: ★196](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events.
+* [logstash-output-amazon_es :fire::fire: ★196](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events.
 * [opsworks-elasticsearch-cookbook ★35 ⏳3Y](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - OpsWorks Elasticsearch sample cookbook.
 
 Community Repos:
@@ -745,7 +745,7 @@ Community Repos:
 * [eawsy/aws-lambda-go :fire::fire::fire: ★602](https://github.com/eawsy/aws-lambda-go) - A fast and clean way to execute Go on Lambda.
 * [garnaat/kappa :fire::fire::fire: ★866](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
 * [goadapp/goad :fire::fire:fire::fire::fire: ★1328](https://github.com/goadapp/goad) - Lambda powered, highly distributed, load testing tool.
-* [jimpick/lambda-comments :fire::fire::fire: ★563](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
+* [jimpick/lambda-comments :fire::fire::fire: ★563 ⏳1Y](https://github.com/jimpick/lambda-comments) - Blog commenting system built with Lambda.
 * [jorgebastida/gordon :fire::fire::fire::fire: ★1888](https://github.com/jorgebastida/gordon) - λ Gordon is a tool to create, wire and deploy AWS Lambdas using CloudFormation.
 * [ks888/LambStatus :fire::fire: ★450](https://github.com/ks888/LambStatus) - A status page system inspired by StatusPage.io, built on AWS Lambda.
 * [kubek2k/lambdoku :fire::fire::fire: ★567](https://github.com/kubek2k/lambdoku) - Heroku-like experience when using Lambda.
@@ -820,7 +820,7 @@ AWS Repos:
 
 Community Repos:
 
-* [barnybug/cli53 :fire::fire::fire: ★1000](https://github.com/barnybug/cli53) - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
+* [barnybug/cli53 :fire::fire::fire::fire: ★1000](https://github.com/barnybug/cli53) - cli53 is a command line tool for Amazon Route 53 which provides import and export from BIND format and simple command line management of Route 53 domains.
 * [winebarrel/roadworker :fire::fire:](https://github.com/winebarrel/roadworker) - Roadworker is a tool to manage Route53. It defines the state of Route53 using DSL, and updates Route53 according to DSL.
 
 ### S3
@@ -842,7 +842,7 @@ Community Repos:
 * [minio/minio :fire::fire::fire::fire::fire: ★7944](https://github.com/minio/minio) - Object storage server compatible with S3.
 * [mumrah/s3-multipart :fire: ★130 ⏳1Y](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 * [ncw/rclone :fire::fire::fire::fire::fire: ★6748](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
-* [owocki/s3_disk_util :fire: ★159](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
+* [owocki/s3_disk_util :fire: ★159 ⏳1Y](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
 * [pgherveou/gulp-awspublish :fire::fire: ★349](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
 * [rlmcpherson/s3gof3r :fire::fire::fire: ★839](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI.
 * [s3git/s3git :fire::fire::fire: ★862 ⏳1Y](https://github.com/s3git/s3git) - CLI tool that allows you to create a distributed, decentralized and versioned repository.
@@ -1430,7 +1430,7 @@ Check out the [Credits page](https://github.com/donnemartin/awesome-aws/blob/mas
 
 ## Other Awesome Lists
 
-Other awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness).
+Other awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness).
 
 ## Contact Info
 

@@ -68,7 +68,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [m2install ★27](https://github.com/yvoronoy/m2install) - Magento 2 Bash Install/Restore Script
 - [Magento 2 Configurator ★53](https://github.com/ctidigital/magento2-configurator) - A Magento module initially created by CTI Digital to create and maintain database variables using files.
 - [Magento Collect ★11](https://github.com/bobvanluijt/magento-collect) - A Polymer e-commerce element for Magento 2.
-- [Auto Cache Flush ★4](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
+- [Auto Cache Flush ★5](https://github.com/yireo/Yireo_AutoFlushCache) - Magento 2 module to automatically flush the cache.
 
 ### Deployment
 

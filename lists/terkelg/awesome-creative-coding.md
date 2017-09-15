@@ -452,17 +452,17 @@ Creative coding is a different discipline than programming systems in which the 
 ## Related
 
 - [Awesome opengl ★583](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-- [Awesome webgl ★111](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
-- [Awesome canvas ★254](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+- [Awesome webgl ★126](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
+- [Awesome canvas ★266](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 - [Awesome audio visualization ★1321](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
-- [Awesome computer vision ★2904](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+- [Awesome computer vision ★3058](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 - [Awesome visualization research ★210](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
 - [Awesome livecoding ★279](https://github.com/lvm/awesome-livecoding) - Curated list of livecoding languages and tools.
 - [Awesome graphics ★303](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
-- [Graphics resources ★1026](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
-- [Magic tools ★4095](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
+- [Graphics resources ★1032](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
+- [Magic tools ★4152](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-- [Awesome public datasets ★19933](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
+- [Awesome public datasets ★20304](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
 

@@ -145,7 +145,7 @@ List of software with DTrace support.
 
 #### Lua
 
-- [lua-usdt ★5 ⏳3Y](https://github.com/chrisa/lua-usdt) - Libusdt bindings for Lua.
+- [lua-usdt ★5 ⏳4Y](https://github.com/chrisa/lua-usdt) - Libusdt bindings for Lua.
 
 #### Node.js
 

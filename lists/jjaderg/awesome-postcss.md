@@ -133,16 +133,16 @@ Your contributions are always welcome. But, please take a quick gander at the co
 ### Plugins
 
 - [postcss parts](http://postcss.parts/) - A searchable catalog of PostCSS plugins
-- [atom-language-postcss ★54](https://github.com/azat-io/atom-language-postcss) - Atom language support for PostCSS
-- [poststylus ★233](https://github.com/seaneking/poststylus) - PostCSS adapter for Stylus
-- [postcss-instagram ★90](https://github.com/azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
+- [atom-language-postcss ★55](https://github.com/azat-io/atom-language-postcss) - Atom language support for PostCSS
+- [poststylus ★240](https://github.com/seaneking/poststylus) - PostCSS adapter for Stylus
+- [postcss-instagram ★91](https://github.com/azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
 - [postcss-normalize](https://github.com/seaneking/postcss-normalize) - Simple normalize.css wrapper for PostCSS
-- [postcss-font-magician ★674](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
-- [postcss-loader ★1389](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
+- [postcss-font-magician ★687](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
+- [postcss-loader ★1463](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
 - [css-declaration-sorter ★57](https://github.com/Siilwyn/css-declaration-sorter) - A Node.js module and PostCSS plugin to sort the CSS declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn)
-- [postcss-pxtorem ★280](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
-- [postcss-selector-parser ★52](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings
-- [postcss-html ★8](https://github.com/gucong3000/postcss-html) - PostCSS Syntax for parsing HTML / Markdown / Vue component
+- [postcss-pxtorem ★308](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
+- [postcss-selector-parser ★53](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings
+- [postcss-html ★9](https://github.com/gucong3000/postcss-html) - PostCSS Syntax for parsing HTML / Markdown / Vue component
 
 ## Presentations
 

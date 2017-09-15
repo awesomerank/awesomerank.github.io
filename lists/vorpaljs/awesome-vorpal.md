@@ -49,7 +49,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 - [iTunes-remote ★265](https://github.com/mischah/itunes-remote) - Control iTunes on the CLI.
 - [phunt ★97](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
 - [trelew ★66 ⏳1Y](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
-- [wat ★371](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
+- [wat ★371 ⏳1Y](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
 - [metronome ★5 ⏳1Y](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.
 - [fastack ★27 ⏳1Y](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy.
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.

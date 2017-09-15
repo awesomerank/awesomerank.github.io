@@ -181,7 +181,7 @@ If you are lazy to download the repo, an easy way is:
 
 # Credits
 
-To all the awesome-* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) and [this ★19452](https://github.com/bayandin/awesome-awesomeness).
+To all the awesome-* repos out there and their aggreators like [this](https://github.com/erichs/awesome-awesome) and [this ★19617](https://github.com/bayandin/awesome-awesomeness).
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/kdabir/awesome-groovy">kdabir/awesome-groovy</a> with ranks

@@ -232,7 +232,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 - [ModSecurity](http://www.modsecurity.org/) - ModSecurity is a toolkit for real-time web application monitoring, logging, and access control.
 - [NAXSI ★2137](https://github.com/nbs-system/naxsi) - NAXSI is an open-source, high performance, low rules maintenance WAF for NGINX, NAXSI means Nginx Anti Xss & Sql Injection.
-- [sql_firewall ★147 ⏳1Y](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
+- [sql_firewall ★147 ⏳2Y](https://github.com/uptimejp/sql_firewall) SQL Firewall Extension for PostgreSQL
 - [ironbee ★247 ⏳1Y](https://github.com/ironbee/ironbee) - IronBee is an open source project to build a universal web application security sensor. IronBee as a framework for developing a system for securing web applications - a framework for building a web application firewall (WAF).
 
 ### Scanning / Pentesting
@@ -278,12 +278,12 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 ## Datastores
 
-- [blackbox ★3613](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
+- [blackbox ★3668](https://github.com/StackExchange/blackbox) - Safely store secrets in a VCS repo using GPG
 - [confidant ★1124](https://github.com/lyft/confidant) - Stores secrets in AWS DynamoDB, encrypted at rest and integrates with IAM
 - [dotgpg ★116](https://github.com/ConradIrwin/dotgpg) - A tool for backing up and versioning your production secrets or shared passwords securely and easily.
 - [redoctober ★1060](https://github.com/cloudflare/redoctober) - Server for two-man rule style file encryption and decryption.
 - [aws-vault ★536](https://github.com/99designs/aws-vault) - Store AWS credentials in the OSX Keychain or an encrypted file
-- [blackbox ★3613](https://github.com/StackExchange/blackbox) Safely store secrets in a VCS repo using GPG
+- [blackbox ★3668](https://github.com/StackExchange/blackbox) Safely store secrets in a VCS repo using GPG
 - [credstash ★1253](https://github.com/fugue/credstash) - Store secrets using AWS KMS and DynamoDB
 - [chamber ★167](https://github.com/segmentio/chamber) - Store secrets using AWS KMS and SSM Parameter Store
 - [dotgpg ★116](https://github.com/ConradIrwin/dotgpg) A tool for backing up and versioning your production secrets or shared passwords securely and easily.
@@ -316,7 +316,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 Other amazingly awesome lists:
 
-- [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness) - awesome-* or *-awesome lists.
+- [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) - awesome-* or *-awesome lists.
 - [lists ★4428](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
 - [Movies For Hacker ★5456](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 

@@ -388,7 +388,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
 * [ranger ★2544](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
 * [screenFetch ★1764](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
-* [shellcheck ★8507](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
+* [shellcheck ★8791](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
 * [speed-test ★1919](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.

@@ -16,7 +16,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 <img src="a11y.png" />
 
 > A curated list of awesome Accessibility tools, articles and resources.
-> Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox ★696](https://github.com/afonsopacifer/awesome-flexbox).
+> Inspired by [awesome-svg](https://github.com/willianjusten/awesome-svg), [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-flexbox ★708](https://github.com/afonsopacifer/awesome-flexbox).
 
 **Table of Contents**
 
@@ -69,7 +69,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 | --- | --- |
 |[Accessibility Guidelines](http://accessibility.voxmedia.com/) | EN
 |[Acessibilidade for Devs ★9](https://github.com/acessibilidade-for-devs/acessibilidade-for-devs.github.io) | PT-BR
-|[Accessible Mega Menu ★473](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN
+|[Accessible Mega Menu ★477](https://github.com/adobe-accessibility/Accessible-Mega-Menu) | EN
 |[ARIA Cheatsheet](http://karlgroves-sandbox.com/CheatSheets/ARIA-Cheatsheet.html) | EN
 |[Easy Checks - A First Review of Web Accessibility](http://www.w3.org/WAI/eval/preliminary.html) | EN
 |[Introduction to Web Accessibility](https://webaccessibility.withgoogle.com/course) | EN
@@ -95,7 +95,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 * [15 Rules to Making Accessible Links](http://www.sitepoint.com/15-rules-making-accessible-links/)
 * [Advice for creating content that works well with screen readers](https://accessibility.blog.gov.uk/2017/02/08/advice-for-creating-content-that-works-well-with-screen-readers/)
 * [A11ycasts](https://www.youtube.com/watch?v=HtTyRajRuyY)
-* [A11Y Dialog ★684](https://github.com/edenspiekermann/a11y-dialog)
+* [A11Y Dialog ★693](https://github.com/edenspiekermann/a11y-dialog)
 * [Automated Accessibility Checking with aXe](https://www.sitepoint.com/automated-accessibility-checking-with-axe/)
 * [Basic screen reader commands for accessibility testing](https://www.paciellogroup.com/blog/2015/01/basic-screen-reader-commands-for-accessibility-testing/)
 * [CAPTCHA - Inaccessible to everyone](http://www.sitepoint.com/captcha-inaccessible-to-everyone/)
@@ -138,12 +138,12 @@ title: Awesome Rank for brunopulis/awesome-a11y
 ## Development Testing and Validators
 
 * [508 Checker](http://www.508checker.com/)
-* [A11Y.css ★452](https://github.com/ffoodd/a11y.css)
+* [A11Y.css ★453](https://github.com/ffoodd/a11y.css)
 * [A11y Command-line Tools](https://addyosmani.github.io/a11y/)
-* [a11y-checker ★14](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue.
+* [a11y-checker ★15](https://github.com/Muhnad/a11y-checker) - Warn about HTML Markup code accessibility issue.
 * [AccessLint](https://www.accesslint.com/) - A GitHub App that finds accessibility issues in your pull requests.
 * [Access Monitor - (pt) ](http://www.acessibilidade.gov.pt/accessmonitor/)
-* [Accessibility Developer Tools ★1370](https://github.com/GoogleChrome/accessibility-developer-tools)
+* [Accessibility Developer Tools ★1398](https://github.com/GoogleChrome/accessibility-developer-tools)
 * [Accessibility Developer Tools for Chrome](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
 * [aslint.org](https://www.aslint.org/)
 * [Check My Colours - Validator of Color Constrast](http://www.checkmycolours.com/)
@@ -158,7 +158,7 @@ title: Awesome Rank for brunopulis/awesome-a11y
 * [HTML5 Acessibility](http://www.html5accessibility.com/) - Get the current accessibility support status of HTML5 features across major browsers.
 * [I want to see like the colour blind - Chrome Extension (Mac/Win)](https://chrome.google.com/webstore/detail/i-want-to-see-like-the-co/jebeedfnielkcjlcokhiobodkjjpbjia)
 * [pa11y](http://www.pa11y.org/)
-* [React A11y ★1346](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
+* [React A11y ★1395](https://github.com/reactjs/react-a11y) - Identifies accessibility issues in your React.js elements
 * [Sim Daltonism](https://michelf.ca/projects/sim-daltonism/) - A color blindness simulator for Mac and iOS
 * [Tenon.io](https://tenon.io/)
 * [tota11y - Accessibility Visualization Toolkit](http://khan.github.io/tota11y/)
@@ -185,24 +185,24 @@ title: Awesome Rank for brunopulis/awesome-a11y
 
 ## Other Resources
 
-* [A11Y Style Guide ★185](https://github.com/cehfisher/a11y-style-guide)
+* [A11Y Style Guide ★196](https://github.com/cehfisher/a11y-style-guide)
 * [AIIY.js](http://allyjs.io/)
-* [A11yProject ★1600](https://github.com/a11yproject/a11yproject.com)
+* [A11yProject ★1661](https://github.com/a11yproject/a11yproject.com)
 * [A11y Wins](http://a11ywins.tumblr.com/) - Examples when accessibility wins by [@marcysutton](https://twitter.com/marcysutton)
-* [Alix ★279](https://github.com/ireade/alix) - a browser extension for a11y.css
+* [Alix ★284](https://github.com/ireade/alix) - a browser extension for a11y.css
 * [Accessibility section - jQuery Plugins using ARIA](http://a11y.nicolas-hoffmann.net/) - Plugins and demos by [@Nico3333fr](https://twitter.com/Nico3333fr)
 * [Color Safe](http://colorsafe.co/)
 * [Color Tool - Material Design](https://material.io/color/#!/?view.left=0&view.right=0)
 * [Inclusive Components](http://inclusive-components.club/) - A blog trying to be a pattern library. Each post explores the design of a robust, accessible interface component.
 * [Léonie Watson Blog](http://tink.uk/) - Posts about a11y in general.
-* [Middleman Aria_Current ★2](https://github.com/thoughtbot/middleman-aria_current) - A Middleman extension for indicating a current (active) link using `aria-current`.
+* [Middleman Aria_Current ★3](https://github.com/thoughtbot/middleman-aria_current) - A Middleman extension for indicating a current (active) link using `aria-current`.
 * [Not so Super Mario](https://www.youtube.com/watch?v=DvaPRlZtfyc) - A parody video showing accessibility problems using Mario Bros. games
 * [Practical ARIA Examples](http://heydonworks.com/practical_aria_examples/) - Example code and demos by [@heydonworks](https://twitter.com/heydonworks)
 * [Open Color](https://yeun.github.io/open-color) - Open color is a color scheme for UI design. You can use it for font, background, border, etc. It contains a gray and twelve colors. Open color is provided as CSS, SCSS, LESS, Stylus, Adobe library, Photoshop/Illustrator swatches and Sketch palette.
 * [Tota11y](http://khan.github.io/tota11y/) - An accessibility visualization toolkit
 * [van11y](https://van11y.net/) - A collection of accessible scripts
 * [Vox accessibility guidelines](http://accessibility.voxmedia.com/) - Vox accessibility checklist for every team member
-* [Semantic Web Autocomplete for Atom ★37 ⏳1Y](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
+* [Semantic Web Autocomplete for Atom ★38 ⏳1Y](https://github.com/obetomuniz/autocomplete-semantic-web) - A plugin that offers suggestions for Schema.org, RDFa and WAI-ARIA.
 * [Trello accessibility cards generator ★0](https://github.com/luarmr/trello-a11y-cards) - A node.js script to create a Trello card for every point in WCAG2 guidelines.
 * [UK Government's accessibility blog](https://accessibility.blog.gov.uk/)
 * [Co-op design manual](https://coop-design-manual.herokuapp.com/accessibility.html) - a good overview of how to make a site accessible, including content writing guidelines and technical examples.

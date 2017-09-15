@@ -79,7 +79,7 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [multicast-dns ★183](https://github.com/mafintosh/multicast-dns) – Low level multicast-dns implementation.
 * [peervision ★87 ⏳1Y](https://github.com/mafintosh/peervision) – Live p2p streaming protocol.
 * [polo ★192 ⏳2Y](https://github.com/mafintosh/polo) – A zero configuration service discovery module.
-* [rtsp-server ★17 ⏳1Y](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
+* [rtsp-server ★17 ⏳2Y](https://github.com/watson/rtsp-server) – A low level module for creating RTSP servers.
 * [utp-native ★53](https://github.com/mafintosh/utp-native) – micro transport protocol, a network protocol similar to tcp that runs on top of udp.
 ---
 <p align="center">

@@ -46,12 +46,12 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [dc.js ★5785](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
 - [Dimple](http://dimplejs.org/) - An object-oriented API for business analytics.
 - [Dygraphs](http://dygraphs.com/) - Interactive line charts library that works with huge datasets.
-- [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper ★684](https://github.com/hustcc/echarts-for-react)
+- [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper ★734](https://github.com/hustcc/echarts-for-react)
 - [Epoch ★4863](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Optimized for time-series data.
 - [NVD3 ★6121](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
 - [Peity ★3859](https://github.com/benpickles/peity) - Create small inline svg charts.
-- [Plotly.js ★6685](https://github.com/plotly/plotly.js) - Powerful declarative library with support for 20 chart types.
+- [Plotly.js ★6798](https://github.com/plotly/plotly.js) - Powerful declarative library with support for 20 chart types.
 - [TechanJS](http://techanjs.org/) - Stock and financial charts.
 
 ### Charting libraries for graphs
@@ -61,16 +61,16 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [VivaGraph ★2348](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript.
 
 ### Maps
-- [CARTO ★1528](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
+- [CARTO ★1552](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
 - [Cesium ★2386](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
 - [DataMaps ★2433](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js.
 - [Leaflet](http://leafletjs.com) - JavaScript library for mobile-friendly interactive maps.
 - [Leaflet Data Visualization Framework ★493](https://github.com/humangeo/leaflet-dvf)  - A framework designed to simplify data visualization and thematic mapping using Leaflet.
-- [Mapael ★817](https://github.com/neveldo/jQuery-Mapael) - jQuery plugin based on the.js to display vector maps.
+- [Mapael ★820](https://github.com/neveldo/jQuery-Mapael) - jQuery plugin based on the.js to display vector maps.
 
 
 ### d3
-- See [Awesome D3 ★3323](https://github.com/wbkd/awesome-d3)
+- See [Awesome D3 ★3369](https://github.com/wbkd/awesome-d3)
 
 ### React
 - [React-vis ★2181](https://github.com/uber/react-vis) - React components to build data visualizations.
@@ -88,7 +88,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 ## Android tools
 - [DecoView ★808 ⏳1Y](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
 - [MPAndroidChart ★17562](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
-- [WilliamChart ★3359](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
+- [WilliamChart ★3417](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
 
 ## C++ tools
 - [LargeVis ★316](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
@@ -114,7 +114,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [holoviews](http://holoviews.org/) - Complex and declarative visualizations from annotated data.
 - [matplotlib](http://matplotlib.org/) - 2D plotting library.
 - [missingno ★568](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
-- [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js ★6685](https://github.com/plotly/plotly.js)
+- [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js ★6798](https://github.com/plotly/plotly.js)
 - [pygal](http://www.pygal.org/en/latest/) - A dynamic SVG charting library.
 - [PyQtGraph](http://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 - [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
@@ -132,7 +132,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [visNetwork](http://dataknowledge.github.io/visNetwork/) - Interactive network visualisations
 
 ## Ruby tools
-- [Chartkick ★4406](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
+- [Chartkick ★4468](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
 
 ## Other tools
 Tools that are not tied to a particular platform or language.
@@ -141,7 +141,7 @@ Tools that are not tied to a particular platform or language.
 - [Gephi ★2184](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 - [Lightning](http://lightning-viz.org/) - A data-visualization server providing API-based access to reproducible, web-based, interactive visualizations.
 - [RAW](http://rawgraphs.io) - Create web visualizations from CSV or Excel files.
-- [Spark ★4860](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
+- [Spark ★4888](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
 - [Superset](https://github.com/airbnb/superset) - A data exploration platform designed to be visual, intuitive, and interactive
 
 # Resources

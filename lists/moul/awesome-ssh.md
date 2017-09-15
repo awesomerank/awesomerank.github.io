@@ -97,7 +97,7 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 
 * [authy-ssh](https://github.com/authy/authy-ssh) [![stars](https://img.shields.io/github/stars/authy/authy-ssh.svg?style=social&label=stars) ★732 ⏳1Y](https://github.com/authy/authy-ssh) - Easy *two-factor* authentication for *SSH* servers.
 * [github-auth](https://github.com/chrishunt/github-auth) [![stars](https://img.shields.io/github/stars/chrishunt/github-auth.svg?style=social&label=stars) ★358](https://github.com/chrishunt/github-auth) - *SSH* key management for GitHub users.
-* [cipherhub](https://github.com/substack/cipherhub) [![stars](https://img.shields.io/github/stars/substack/cipherhub.svg?style=social&label=stars) ★407 ⏳2Y](https://github.com/substack/cipherhub) - Encrypt messages based on *SSH* public keys with easy import from GitHub.
+* [cipherhub](https://github.com/substack/cipherhub) [![stars](https://img.shields.io/github/stars/substack/cipherhub.svg?style=social&label=stars) ★407 ⏳3Y](https://github.com/substack/cipherhub) - Encrypt messages based on *SSH* public keys with easy import from GitHub.
 * [Slack notifications](http://www.ryanbrink.com/slack-ssh-session-notifications/) - Guide to setup Slack notifications (can be modified for other services).
 * [totp-ssh-fluxer](https://github.com/benjojo/totp-ssh-fluxer) [![stars](https://img.shields.io/github/stars/benjojo/totp-ssh-fluxer.svg?style=social&label=stars) ★673 ⏳1Y](https://github.com/benjojo/totp-ssh-fluxer) - A way to make sure your `sshd` port changes every 30 seconds.
 * [github-keygen](https://github.com/dolmen/github-keygen) [![stars](https://img.shields.io/github/stars/dolmen/github-keygen.svg?style=social&label=stars) ★132](https://github.com/dolmen/github-keygen) - Easy creation of secure *SSH* configuration for your GitHub account(s).
@@ -106,11 +106,11 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 ### *SSH* agent
 
 * [ssh-ident](https://github.com/ccontavalli/ssh-ident) [![stars](https://img.shields.io/github/stars/ccontavalli/ssh-ident.svg?style=social&label=stars) ★500](https://github.com/ccontavalli/ssh-ident) - Different agents and different keys for different projects, with `ssh`.
-* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social&label=stars) ★57655](https://github.com/robbyrussell/oh-my-zsh) - `ssh-agent` plugin for `zsh`.
+* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social&label=stars) ★59063](https://github.com/robbyrussell/oh-my-zsh) - `ssh-agent` plugin for `zsh`.
 
 ### Tools
 
-* [sshrc](https://github.com/Russell91/sshrc) [![stars](https://img.shields.io/github/stars/Russell91/sshrc.svg?style=social&label=stars) ★3762](https://github.com/Russell91/sshrc) - Bring your `.bashrc`, `.vimrc`, etc. with you when you `ssh`.
+* [sshrc](https://github.com/Russell91/sshrc) [![stars](https://img.shields.io/github/stars/Russell91/sshrc.svg?style=social&label=stars) ★3794](https://github.com/Russell91/sshrc) - Bring your `.bashrc`, `.vimrc`, etc. with you when you `ssh`.
 * [kyrat](https://github.com/fsquillace/kyrat) [![stars](https://img.shields.io/github/stars/fsquillace/kyrat.svg?style=social&label=stars) ★19](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX.
 * [ssh-ping](https://github.com/vaporup/ssh-tools) [![stars](https://img.shields.io/github/stars/vaporup/ssh-tools.svg?style=social&label=stars) ★0](https://github.com/vaporup/ssh-tools) - check if host is reachable using ssh_config
 

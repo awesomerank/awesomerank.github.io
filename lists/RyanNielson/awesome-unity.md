@@ -46,10 +46,10 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 * [2D Rope System (Paid)](https://www.assetstore.unity3d.com/en/#!/content/17722) - Scripts for creating any type of 2D ropes in the editor or during runtime.
 * [2D Toolkit (Paid)](https://www.assetstore.unity3d.com/en/#!/content/908) - An efficient & flexible 2D sprite, collider set-up, text, tilemap and UI system.
 * [Ferr2D Terrain Tool (Paid)](https://www.assetstore.unity3d.com/en/#!/content/11653) - Quickly create handcrafted 2D landscapes and levels.
-* [Pixel Camera 2D ★210 ⏳1Y](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
+* [Pixel Camera 2D ★219 ⏳1Y](https://github.com/RyanNielson/PixelCamera2D) - A simple pixel perfect camera with scaling options for 2D Games.
 * [Spine (Paid)](http://esotericsoftware.com) - A skeletal animation editor with a Unity library.
 * [Tiled2Unity](http://www.seanba.com/tiled2unity) - Takes your [Tiled](http://www.mapeditor.org) files and creates Unity prefabs from them that are easily placed into your Unity scene. Complex collision is supported through Unity’s PolygonCollider2D class.
-* [UnityTiled ★48 ⏳1Y](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
+* [UnityTiled ★51 ⏳1Y](https://github.com/nickgravelyn/UnityTiled) - An importer for [Tiled](http://www.mapeditor.org) maps.
 
 ## AI
 
@@ -71,20 +71,20 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Character Controllers
 
-* [CharacterController2D ★485 ⏳1Y](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
+* [CharacterController2D ★490 ⏳1Y](https://github.com/prime31/CharacterController2D) - A 2D controller that behaves very similarly to Unity's CharacterController component.
 
 ## Frameworks
 
-* [Fungus ★284](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
+* [Fungus ★291](https://github.com/snozbot/fungus) - An easy to use Unity 3D library for creating illustrated Interactive Fiction games.
 * [StrangeIoC](http://strangeioc.github.io/strangeioc/) - Strange is a super-lightweight and highly extensible Inversion-of-Control (IoC) framework, written specifically for C# and Unity.
 * [uFrame (Paid)](https://www.assetstore.unity3d.com/en/#!/content/14381) - Create maintainable games faster, better, more stable, and consistent than ever before.
 
 ## Input
 
-* [InControl ★538](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
-* [InputBinder ★32 ⏳2Y](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
-* [TouchKit ★480](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
-* [TouchScript ★847](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
+* [InControl ★543](https://github.com/pbhogan/InControl) - An input manager that tames makes handler cross-platform. controller input easy.
+* [InputBinder ★34 ⏳2Y](https://github.com/RyanNielson/InputBinder) - Bind game inputs to methods via code or using the inspector to add event driven input handling to your project.
+* [TouchKit ★487](https://github.com/prime31/TouchKit) - Makes it easy to recognize gestures and other touch input.
+* [TouchScript ★869](https://github.com/TouchScript/TouchScript) - Makes handling complex gesture interactions on any touch surface much easier.
 
 ## Modeling
 * [Prototype](https://www.assetstore.unity3d.com/en/#!/content/11919) - Uses the core of ProBuilder, enabling you to build entire game levels (or objects) with speed and simplicity.
@@ -95,7 +95,7 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Networking
 
-* [Nakama](https://www.assetstore.unity3d.com/en/#!/content/81338) - Build social and realtime games with an open-source [distributed server ★615](https://github.com/heroiclabs/nakama).
+* [Nakama](https://www.assetstore.unity3d.com/en/#!/content/81338) - Build social and realtime games with an open-source [distributed server ★710](https://github.com/heroiclabs/nakama).
 * [Photon Bolt (Paid)](https://www.assetstore.unity3d.com/en/#!/content/41330) - Build networked games without having to know the details of networking or write any complex networking code.
 * [Photon Unity Networking](https://www.assetstore.unity3d.com/en/#!/content/1786) - Plug and play cloud networking that also works for local hosting. Free for up to 20 concurrent users.
 
@@ -128,12 +128,13 @@ Thanks to all the [contributors](https://github.com/ryannielson/awesome-unity/gr
 
 ## Utilities
 
-* [Consolation ★91](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
+* [Consolation ★99](https://github.com/mminer/consolation) - In-game debug console that displays output from `Debug.Log`.
 * [CSharpatron (Paid)](https://www.assetstore.unity3d.com/en/#!/content/20232) - Automatically convert scripts from UnityScript to C# without breaking existing game objects.
+* [GitHub for Unity](https://unity.github.com/) - The new GitHub for Unity extension brings the GitHub workflow and more to Unity, providing support for large files with Git LFS and file locking.
 * [SnazzyGrid (Paid)](https://www.assetstore.unity3d.com/en/#!/content/19245) - Makes it easy to manage positions of assets in the scene with easy to use snapping tools and many more features to improve the scene creation workflow.
 * [UniMerge (Paid)](https://www.assetstore.unity3d.com/en/#!/content/9733) - Editor extension for merging scenes and prefabs, also integrates with VCS.
-* [UniRx ★1708](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
-* [UnityToolbag ★906](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
+* [UniRx ★1772](https://github.com/neuecc/UniRx) - UniRx (Reactive Extensions for Unity) is a reimplementation of the .NET Reactive Extensions. Rx cures the "asynchronous blues" without async/await.
+* [UnityToolbag ★922](https://github.com/nickgravelyn/unitytoolbag) - Collection of miscellaneous open source scripts and helpers for Unity 5.0.
 
 ## Visual Scripting
 

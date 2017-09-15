@@ -9,12 +9,12 @@ title: Awesome Rank for ahkscript/awesome-AutoHotkey
 ---
 # Awesome AutoHotkey [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey-yellowgreen.svg)](https://autohotkey.com/) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists ★19452](https://github.com/bayandin/awesome-awesomeness). Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
+A curated list of awesome [AutoHotkey](https://autohotkey.com/) libraries, library distributions, scripts, tools and resources. Inspired by the other [awesome lists ★19617](https://github.com/bayandin/awesome-awesomeness). Please read [CONTRIBUTING.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/.github/CONTRIBUTING.md) before contributing.
 
 Out-of-date or discontinued, but nonetheless historically relevant items can be found on [Historical.md](https://github.com/ahkscript/awesome-AutoHotkey/blob/master/Historical.md)
 
 Development state: 
-[![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg) ★372](https://github.com/dkhamsing/awesome_bot)
+[![Build Status](https://travis-ci.org/ahkscript/awesome-AutoHotkey.svg)](https://travis-ci.org/ahkscript/awesome-AutoHotkey) [![awesome_bot](https://img.shields.io/badge/PoweredBy-awesome_bot-yellow.svg) ★379](https://github.com/dkhamsing/awesome_bot)
 
 <!-- Note: be sure to use unique anchor tags for each item in the table of contents -->
 * [Awesome AutoHotkey](#awesome-autohotkey)
@@ -86,14 +86,14 @@ Development state:
 * [XA ★1](https://github.com/hi5/XA) - by trueski/hi5 - Serialize/deserialize array to/from xml. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=34849).
 
 ### Database
-* [ahkDBA ★29](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](https://autohotkey.com/board/topic/71179).
+* [ahkDBA ★31](https://github.com/IsNull/ahkDBA) - by IsNull - An OOP-SQL database access framework. Forum thread: [link](https://autohotkey.com/board/topic/71179).
 * [Class_SQLiteDB ★11 ⏳1Y](https://github.com/AHK-just-me/Class_SQLiteDB) - by just Me - AHK SQLite API wrapper class. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=1064).
 
 ### Filesystem
 * [FileGetProperties](https://autohotkey.com/boards/viewtopic.php?f=6&t=3806) - by kon - Functions for retrieving extended file properties.
 
 ### <a name="libraries-graphics"></a>Graphics
-* [GDIp ★31](https://github.com/tariqporter/Gdip) - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517).
+* [GDIp ★32](https://github.com/tariqporter/Gdip) - by tic - Full featured library that helps in interaction with Microsoft's gdiplus.dll - Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6517).
 * [GDIp_ImageSearch](https://autohotkey.com/board/topic/71100-) - by tic - Library using gdiplus.dll for searching image instances on the screen. See the end of that thread for MasterFocus' improved version, or see his [GitHub repo here](https://github.com/MasterFocus/AutoHotkey/tree/master/Functions/Gdip_ImageSearch)
 * [Simple GDI class](https://autohotkey.com/boards/viewtopic.php?f=6&t=5820) - by GeekDude - A class aiming to make using low-level GDI functions simple.
 * [Particle System ★6](https://github.com/acorns/Particle-System) - by tidbit - A simple class to add particles to your GUI or onto your screen, using GDI+. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26485).
@@ -104,15 +104,15 @@ Development state:
 * [CbAutoComplete ★3 ⏳1Y](https://github.com/pulover/cbautocomplete) - by Pulover - Auto-completes typed values in an AHK ComboBox. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=15002)
 
 #### Custom Controls
-* [Rebar ★4 ⏳1Y](https://github.com/Pulover/Class_Rebar) - by Pulover - AHK class for AutoHotkey Rebar custom controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=139)
-* [Toolbar ★5 ⏳1Y](https://github.com/Pulover/Class_Toolbar) - by Pulover - AHK Class for AutoHotkey Toolbar custom controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=138)
+* [Rebar ★5 ⏳1Y](https://github.com/Pulover/Class_Rebar) - by Pulover - AHK class for AutoHotkey Rebar custom controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=139)
+* [Toolbar ★6 ⏳1Y](https://github.com/Pulover/Class_Toolbar) - by Pulover - AHK Class for AutoHotkey Toolbar custom controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=138)
 
 #### Edit
 * [Edit v2.0](https://autohotkey.com/boards/viewtopic.php?f=6&t=5063) - by jballi - Library for the lightweight and surprisingly powerful default Edit control for displaying and editing text. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5063)
 
 #### General
 * [AutoXYWH](https://autohotkey.com/boards/viewtopic.php?f=6&t=1079) - by tmplinshi - Move and resize controls automatically when a GUI is resized.
-* [TaskDialog ★2 ⏳2Y](https://github.com/AHK-just-me/TaskDialog) - by just Me - enhanced MsgBox for Win Vista+ - [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4635)
+* [TaskDialog ★2 ⏳3Y](https://github.com/AHK-just-me/TaskDialog) - by just Me - enhanced MsgBox for Win Vista+ - [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4635)
 * [OnWin](https://github.com/cocobelgica/AutoHotkey-Util/blob/master/OnWin.ahk) - by cocobelgica - Call function on window event (WinWaitXXX async). Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6463)
 * [CGUI ★0](https://github.com/lipkau/CGUI) - by ChrisS85 - An object-oriented GUI library for AutoHotkey. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=26990)
 * [Class_ScrollGUI ★3 ⏳2Y](https://github.com/AHK-just-me/Class_ScrollGUI) - by just me - Creates a scrollable GUI as a parent for AHK GUI windows. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=6316)
@@ -120,13 +120,13 @@ Development state:
 
 #### ListBox
 * [LBEX ★3 ⏳1Y](https://github.com/AHK-just-me/LBEX) - by [just me](https://github.com/AHK-just-me) - a collection of utility functions for ListBoxes.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4755)
-* [TransparentListBox ★3 ⏳2Y](https://github.com/AHK-just-me/Class_TransparentListBox) - by just Me - Provides transparent listbox controls for AHK GUIs.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=108)
+* [TransparentListBox ★4 ⏳2Y](https://github.com/AHK-just-me/Class_TransparentListBox) - by just Me - Provides transparent listbox controls for AHK GUIs.. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=108)
 
 #### ListView
 * [LV_Colors ★9](https://github.com/AHK-just-me/Class_LV_Colors) - by just Me - Individual background and/or text colours for a GUI ListView's cells or rows. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1081)
 * [LV_EX ★2 ⏳1Y](https://github.com/AHK-just-me/LV_EX) - by just me - Some additional functions for AHK GUI ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=1256)
 * [LV_InCellEdit ★5 ⏳1Y](https://github.com/AHK-just-me/Class_LV_InCellEdit) - by just Me - In-cell editing for ListView controls. Forum thread: [link](http://https://autohotkey.com/boards/viewtopic.php?f=6&t=1076)
-* [LV_Rows ★1 ⏳1Y](https://github.com/Pulover/Class_LV_Rows) - by Pulover - Additional functions for AHK ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=137)
+* [LV_Rows ★2 ⏳1Y](https://github.com/Pulover/Class_LV_Rows) - by Pulover - Additional functions for AHK ListView controls. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=137)
 
 #### Menu
 * [[Lib] Menu](https://autohotkey.com/boards/viewtopic.php?t=3068) - by just me - Some functions related to AHK menus. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?t=3068)
@@ -146,15 +146,15 @@ Development state:
 ### Maths
 * [calc()](https://autohotkey.com/board/topic/59087-func-calc-math-expression-evaluation-incl-brackets/?p=655135) - math expression evaluation incl brackets.
 * [Eval ★5 ⏳1Y](https://github.com/pulover/eval) - by Pulover - Evaluate expressions in strings. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=13565)
-* [LibCrypt ★19](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions.
+* [LibCrypt ★20](https://github.com/ahkscript/LibCrypt.ahk) - by different authors - A collection of crypting and encoding functions.
 * [Scientific Maths](https://autohotkey.com/board/topic/93516-) - by Avi - Library facilitating high precision mathematics.
 * [Time()](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/) - by HotkeyIt - Count Days, hours, minutes, seconds between dates. Forum thread: [link](https://autohotkey.com/board/topic/42668-time-count-days-hours-minutes-seconds-between-dates/)
 
 ### Networking
 * [AHKhttp ★23](https://github.com/Skiouros/AHKhttp) - Basic HTTP Server. Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=4890)
-* [AHKsock ★21](https://github.com/jleb/AHKsock) - by TheGood - Function based sockets library. Supports TCP. Forum [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
+* [AHKsock ★20](https://github.com/jleb/AHKsock) - by TheGood - Function based sockets library. Supports TCP. Forum [link](https://autohotkey.com/board/topic/53827-ahksock-a-simple-ahk-implementation-of-winsock-tcpip/)
 * [Socket Class (überarbeitet)](https://autohotkey.com/board/topic/94376-) - by Bentschi - Class based sockets library. Supports TCP and UDP.
-* [Socket.ahk ★7](https://github.com/G33kDude/Socket.ahk) - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35120)
+* [Socket.ahk ★8](https://github.com/G33kDude/Socket.ahk) - by GeekDude - Socket library based on Bentschi's - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35120)
 * [WebSocket.ahk ★2](https://github.com/G33kDude/WebSocket.ahk) - by GeekDude - Class based WebSocket library - Forum [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=35117)
 * [WinSCP.ahk ★4](https://github.com/lipkau/WinSCP.ahk) - by Lipkau - Lib allows the use of WinSCP in AHK
 
@@ -174,18 +174,18 @@ Development state:
 ## Library Distributions
 *List of useful AutoHotkey library distributions. Library Distribution is a system that is made for distributing libraries.*
 
-* [ahk-libs ★78 ⏳1Y](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
-* [ASPDM ★27](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
+* [ahk-libs ★79 ⏳1Y](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
+* [ASPDM ★28](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
 * [pAHKlight ★14 ⏳1Y](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
 
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*
 
 ### <a name="scripts-clipboard"></a>Clipboard
-* [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [GitHub ★173 ⏳1Y](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](https://autohotkey.com/boards/viewtopic.php?f=6&t=401), [link 2](https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
+* [Clipjump](http://clipjump.sourceforge.net/) - is a Multiple-Clipboard management utility for Windows. Source code: [GitHub ★179 ⏳1Y](https://github.com/aviaryan/Clipjump). Forum threads: [link 1](https://autohotkey.com/boards/viewtopic.php?f=6&t=401), [link 2](https://autohotkey.com/board/topic/91488-clipjump-the-ultimate-clipboard-manager-updated-0708/).
 
 ### <a name="scripts-filesystem"></a>Filesystem
-* [Belvedere ★113 ⏳3Y](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
+* [Belvedere ★114 ⏳3Y](https://github.com/adampash/belvedere) - sets up rules for taking actions on files (move, copy, delete, etc) based on the name of a file, its extension, size, age, and more. More info [link](http://lifehacker.com/341950/belvedere-automates-your-self-cleaning-pc).
 
 ### <a name="scripts-graphics"></a>Graphics
 * [Fun with GDIPlus](https://autohotkey.com/boards/viewtopic.php?f=6&t=6071) - Interesting GDI+ examples.
@@ -204,20 +204,20 @@ Development state:
 * [Radial Menu](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/) - Powerful hotkey, launcher, mouse gestures system, and much more (skinable) - Forum thread: [link](https://autohotkey.com/board/topic/46856-radial-menu-scripts-updated-07122014/)
 
 ### Typing
-* [AutoComplete ★58](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/board/topic/60998-autocomplete/).
+* [AutoComplete ★57](https://github.com/Uberi/Autocomplete) - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/board/topic/60998-autocomplete/).
 * [Half-QWERTY](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/page-6#entry216183) - One-handed Typing. Using the space bar as a modifier, the user can generate the characters of either side of a full-sized keyboard using only one hand. More information via Forum thread: [link](https://autohotkey.com/board/topic/1257-half-qwerty-one-handed-typing/)
 * [Lintalist](http://lintalist.github.io/) - Searchable interactive lists to copy & paste text with plugins. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=3378).
 * [Portable Keyboard Layout](http://pkl.sourceforge.net/) - helps people to learn better, more efficient keyboard layouts such as Dvorak, Colemak or Asset. Forum thread: [link](https://autohotkey.com/board/topic/25991-portable-keyboard-layout/).
 * [Thumbscript](https://autohotkey.com/board/topic/27198-beta-thumbscript-ahk/) - Allows you to type using the number pad, with only 2 number presses for every letter. Documentation: [link](http://thumbscript.com/howitworks.html)
-* [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5644) GitHub [link ★37 ⏳1Y](https://github.com/ManiacDC/TypingAid).
+* [TypingAid](https://github.com/ManiacDC/TypingAid/releases) - Suggests and completes words as you type. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=5644) GitHub [link ★38](https://github.com/ManiacDC/TypingAid).
 
 ### Window Management
-* [bug.n ★889](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager. Forum thread: [link](https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
+* [bug.n ★923](https://github.com/fuhsjr00/bug.n) - Tiling Window Manager. Forum thread: [link](https://autohotkey.com/board/topic/30332-bugn-tiling-window-manager/)
 * [Min2Tray](http://junyx.breadfan.de/Min2Tray/) - Minimize window to tray & more. Forum thread: [link](https://autohotkey.com/board/topic/4173-min2tray-v179-minimize-window-to-tray-much-more/)
 * [NiftyWindows](http://www.enovatic.org/products/niftywindows/introduction/) - control of all basic window interactions such as dragging, resizing, maximizing, minimizing, closing, snap-to-grid, "keep window aspect ratio", rolling up a window to its title bar, transparency control.
 * [SnapX](https://github.com/benallred/SnapX/releases) - Enhances Windows/Aero Snap by taking over its hotkeys (Win+Left/Right, etc) and providing more fine-grained control over snap location and size. Works with multiple monitors, resolutions, and DPI levels.
-* [WindowPadX ★145](https://github.com/hoppfrosch/WindowPadX) - tool which provides some useful functionality within multi monitor environments. _WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
-* [WindowSaver ★9 ⏳1Y](https://github.com/KroniK907/WindowSaver) - Save and restore window layouts in Windows10 with support for virtual desktops and changing monitor setups. _WindowSaver is an enhancement of [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano_
+* [WindowPadX ★147](https://github.com/hoppfrosch/WindowPadX) - tool which provides some useful functionality within multi monitor environments. _WindowPadX is an enhancement of WindowPad, originally released by Lexikos, see original forum thread: [link](https://autohotkey.com/board/topic/19990-windowpad-window-moving-tool/)_ 
+* [WindowSaver ★10 ⏳1Y](https://github.com/KroniK907/WindowSaver) - Save and restore window layouts in Windows10 with support for virtual desktops and changing monitor setups. _WindowSaver is an enhancement of [DockWin v0.3](https://autohotkey.com/board/topic/112113-dockwin-storerecall-window-positions/) by Paul Troiano_
 
 ## <a name="tools"></a>Tools
 *List of useful AutoHotkey tools. Tools made for AutoHotkey*
@@ -243,10 +243,10 @@ Development state:
 * [DRAKON Editor](https://autohotkey.com/boards/viewtopic.php?f=6&t=3108) - Visual programming (with DRAKON diagrams) for AutoHotkey.
 * [Notepad++ for AutoHotkey](https://autohotkey.com/boards/viewtopic.php?f=7&t=50) - Setup for popular code editor Notepad++ for AutoHotkey.
 * [SciTE4AutoHotkey](http://fincs.ahk4.net/scite4ahk/) - SciTE-based IDE for AutoHotkey.
-* [SublimeAutoHotkey ★118](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
+* [SublimeAutoHotkey ★121](https://github.com/ahkscript/SublimeAutoHotkey) - AutoHotkey AHK language package for SublimeText including syntax highlighting, comments toggling, auto-completions, build system definitions, commands for ahkrun, ahkcompile, ahkrunpiped.
 * [Sublime 4 AutoHotkey](https://autohotkey.com/board/topic/91066-sublime-4-autohotkey-updated-1311/) - Sublime 4 AutoHotkey is a patch for Sublime Text text editor which adds support for AutoHotkey. - (discontinued)
 * [vim-AHKcomplete ★3](https://github.com/huleiak47/vim-AHKcomplete) - Vim plugin to add auto-completion. (omni-completion)
-* [Vim autohotkey-ahk ★7 ⏳6Y](https://github.com/vim-scripts/autohotkey-ahk) - Vim plugin to add syntax highlighting for AutoHotkey.
+* [Vim autohotkey-ahk ★7 ⏳7Y](https://github.com/vim-scripts/autohotkey-ahk) - Vim plugin to add syntax highlighting for AutoHotkey.
 
 ### GUI WYSIWYG Builders
 * [AutoGUI](https://autohotkey.com/boards/viewtopic.php?f=6&t=10157) - by alguimist - WYSIWIG GUI Designer and Script Editor
@@ -254,12 +254,12 @@ Development state:
 * [MagicBox](https://autohotkey.com/boards/viewtopic.php?p=100953#p100953) - by [Alguimist](https://autohotkey.com/boards/memberlist.php?mode=viewprofile&u=64723) - MagicBox is a development tool to assist in the creation of message boxes. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?p=100953#p100953).
 
 ### Script Recorders and Writers
-* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=143). GitHub [link ★248](https://github.com/Pulover/PuloversMacroCreator).
+* [Pulover’s Macro Creator](http://www.macrocreator.com/) - a Free Automation Tool and Script Generator. Recommended for beginners. Forum thread: [link](https://autohotkey.com/boards/viewtopic.php?f=6&t=143). GitHub [link ★254](https://github.com/Pulover/PuloversMacroCreator).
 
 ### Web Syntax Highlighters
 * [highlight.js](https://highlightjs.org/) - A syntax highlighter written in JavaScript supporting more than 130 languages (including AutoHotkey).
 * [PrismJs](https://autohotkey.com/boards/viewtopic.php?f=22&t=3942) - Lightweight minimal AutoHotkey syntax highlighting.
-* [Syntax Highlighter ★3 ⏳3Y](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
+* [Syntax Highlighter ★4 ⏳3Y](https://github.com/aviaryan/highlighter-ahk-zenburn) - Legacy syntax highlighter for AutoHotkey with default support for line numbers.
 
 ### <a name="tools-others"></a>Others
 * [GoTo](https://autohotkey.com/board/topic/95009-) - Addon for any text editor that helps you jump to labels, hotkeys, hotstrings and functions in the active file.

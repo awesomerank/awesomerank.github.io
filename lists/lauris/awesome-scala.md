@@ -10,7 +10,7 @@ title: Awesome Rank for lauris/awesome-scala
 Awesome Scala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 =============
 
-A community driven list of useful Scala libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. Inspired by [awesome-python](https://github.com/vinta/awesome-python). Other amazingly awesome lists can be found in the [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness) list.
+A community driven list of useful Scala libraries, frameworks and software. This is not a catalog of all the libraries, just a starting point for your explorations. Inspired by [awesome-python](https://github.com/vinta/awesome-python). Other amazingly awesome lists can be found in the [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) list.
 
 Also awesome is [Scaladex](https://index.scala-lang.org/), the searchable, tagged, and centralized index of Scala libraries.
 
@@ -512,7 +512,7 @@ Projects with over 500 stargazers are in bold.
 *JavaScript generation and interop libraries.*
 
 * [js-scala ★ 155 ⧗ 9](https://github.com/js-scala/js-scala) - JavaScript as an embedded DSL in Scala
-* [scala-js-fiddle](http://www.scala-js-fiddle.com/) ([repo ★83](https://github.com/lihaoyi/scala-js-fiddle)) - Browser-based Scala.js playground
+* [scala-js-fiddle](http://www.scala-js-fiddle.com/) ([repo ★83 ⏳1Y](https://github.com/lihaoyi/scala-js-fiddle)) - Browser-based Scala.js playground
 * [Scala.js](http://www.scala-js.org/) ([repo ★3067](https://github.com/scala-js/scala-js)) - Scala to JavaScript compiler
 
 ## Templating

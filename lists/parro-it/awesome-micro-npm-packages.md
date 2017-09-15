@@ -43,13 +43,14 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [in-array ★14 ⏳1Y](https://github.com/jonschlinkert/in-array) - Return true if any of passed values exists in array - faster than using indexOf.
 * [unordered-array-remove ★103](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
 * [array-swap ★1 ⏳1Y](https://github.com/michaelzoidl/swap-array) - Swap position of two items in an array.
+* [mirrarray ★1](https://github.com/johnwquarles/mirrarray) - Creates a keymirror object from an array of valid keys.
 
 
 ### String
 
 * [decamelize ★59 ⏳1Y](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow.
 * [pad-left ★29](https://github.com/jonschlinkert/pad-left) - Left pad a string with zeros or a specified string.
-* [to-camel-case ★19](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case.
+* [to-camel-case ★19 ⏳1Y](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case.
 * [to-capital-case ★4 ⏳1Y](https://github.com/ianstormtaylor/to-capital-case) - Convert a string to a capital case.
 * [to-constant-case ★1 ⏳1Y](https://github.com/ianstormtaylor/to-constant-case) - Convert a string to a constant case.
 * [to-dot-case ★2 ⏳1Y](https://github.com/ianstormtaylor/to-dot-case) - Convert a string to a dot case.
@@ -88,7 +89,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [has-key-deep ★1](https://github.com/ryanaghdam/has-key-deep) - Deep-search objects for keys. Keys can be searched by providing an array of keys, or using a dot-notiation.
 * [flatkeys ★3 ⏳4Y](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator.
 * [flatten-obj ★11](https://github.com/watson/flatten-obj) - Converts an object literal with deeply nested nodes to a simple key/value object.
-* [is-empty-object ★10 ⏳1Y](https://github.com/gummesson/is-empty-object) - Check if an object is empty.
+* [is-empty-object ★10 ⏳2Y](https://github.com/gummesson/is-empty-object) - Check if an object is empty.
 * [stringify-object ★131](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 * [sorted-object ★19 ⏳1Y](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
 * [static-props ★1](https://github.com/fibo/static-props) - Defines static object attributes using `Object.defineProperties`

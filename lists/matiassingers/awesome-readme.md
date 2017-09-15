@@ -29,7 +29,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [NSRare/NSGIF ★729](https://github.com/NSRare/NSGIF) - Project logo. GIF Demo. Usage artwork. Usage code samples.
 - [petkaantonov/bluebird ★15222](https://github.com/petkaantonov/bluebird) - Build badges. Clear description of what the project does. TOC for easy navigation. Project logo. Extensive explanations and examples.
 - [rstacruz/hicat ★326 ⏳2Y](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
-- [ryanoasis/nerd-fonts ★5063](https://github.com/ryanoasis/nerd-fonts) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
+- [ryanoasis/nerd-fonts ★5390](https://github.com/ryanoasis/nerd-fonts) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
 - [sebyddd/SDVersion ★1195](https://github.com/sebyddd/SDVersion) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
 - [shama/gaze ★969](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
 - [sindresorhus/pageres ★8082](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.

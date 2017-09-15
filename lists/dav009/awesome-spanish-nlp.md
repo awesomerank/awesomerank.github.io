@@ -32,7 +32,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Name Entity Recognition (NER)
 - [OpenNLP - Person/Place/Organization models](http://opennlp.sourceforge.net/models-1.5/)
-- [DBPedia Spotlight ★591](https://github.com/dbpedia-spotlight/dbpedia-spotlight)
+- [DBPedia Spotlight ★599](https://github.com/dbpedia-spotlight/dbpedia-spotlight)
 - [CitiusTagger - Spanish NER and  POSTagger](http://gramatica.usc.es/pln/tools/CitiusTools.html)
 
 ## Corpora
@@ -78,7 +78,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-- [Word2Vec vectors for Wikipedia Spanish Articles ★390](https://github.com/idio/wiki2vec)
+- [Word2Vec vectors for Wikipedia Spanish Articles ★399](https://github.com/idio/wiki2vec)
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)

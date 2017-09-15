@@ -33,6 +33,7 @@ The purpose of this document is to provide a quick overview over existing packag
   - [Posts](#posts)
   - [Standalone Tools](#standalone-tools)
   - [Discussion Boards](#discussion-boards)
+  - [Third-Party Services](#third-party-services)
 
 ## Packages
 
@@ -85,7 +86,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steamstore ★24](https://github.com/DoctorMcKay/node-steamstore) - Interact with store.steampowered.com.
 - [steam-weblogon ★23 ⏳1Y](https://github.com/Alex7Kom/node-steam-weblogon) - Retrieve SteamCommunity cookies if you are running Steam network client.
 - [steam-web-api-key ★16 ⏳1Y](https://github.com/Alex7Kom/node-steam-web-api-key) - Automatically registers and retrieves Steam API key.
-- [steam-parental ★3 ⏳1Y](https://github.com/Alex7Kom/node-steam-parental) - Disable parental lock.
+- [steam-parental ★3 ⏳2Y](https://github.com/Alex7Kom/node-steam-parental) - Disable parental lock.
 
 #### Authentication
 
@@ -112,7 +113,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [SteamAuthOOP ★17](https://github.com/BlackCetha/SteamAuthOOP) - An object-oriented alternative to SteamAuthentication.
 - [steam-api ★60](https://github.com/DaMitchell/steam-api-php) - A PHP wrapper for the Steam API.
 - [steamid ★3 ⏳1Y](https://github.com/DoctorMcKay/php-steamid) - SteamID class for PHP.
-- [steam-totp ★9](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
+- [steam-totp ★9 ⏳1Y](https://github.com/DoctorMcKay/php-steam-totp) - PHP library to deal with Steam's proprietary TOTP algorithm.
 - [steam-auth ★1](https://github.com/vikas5914/steam-auth) - An alternative Steam authentication library with Composer support.
 
 ### Go
@@ -191,6 +192,16 @@ The purpose of this document is to provide a quick overview over existing packag
 - [/r/nodesteam](https://www.reddit.com/r/nodesteam)
 - [DoctorMcKay's Dev Forum](https://dev.doctormckay.com/)
 - [node-steam-forum ★43 ⏳1Y](https://github.com/steam-forward/node-steam-forum)
+
+### Third-Party Services
+
+Websites listed below may provide free and/or paid services and are listed alphabetically according to their domain name.
+
+- [backpack.tf](https://backpack.tf/developer) - Provides TF2 prices and Steam market/inventory related services.
+- [steamanalyst.com](https://steamanalyst.com/) - Provides CS:GO prices.
+- [steamapi.io](https://steamapi.io/) - Provides prices for several games and Steam market/inventory related services.
+- [steamapis.com](https://steamapis.com/) - Provides prices for several games and Steam market/inventory related services.
+- [steamlytics.xyz](https://steamlytics.xyz/) - Provides CS:GO prices and Steam market/inventory related services.
 
 ## License
 

@@ -70,11 +70,13 @@ Static Analysis Tools
 * [ConDroid ★17 ⏳1Y](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
 * [DroidRA ★11](https://github.com/serval-snt-uni-lu/DroidRA)
 * [RiskInDroid ★4](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with online demo available.
+* [SUPER ★123](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
+* [ClassyShark ★4052](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important infos.
 
 App Vulnerability Scanners
 ----
 
-1. [QARK ★1372](https://github.com/linkedin/qark) - QARK by LinkedIn is for app developers to scan app for security issues
+1. [QARK ★1406](https://github.com/linkedin/qark) - QARK by LinkedIn is for app developers to scan app for security issues
 * [AndroBugs ★429](https://github.com/AndroBugs/AndroBugs_Framework)
 * [Nogotofail ★2155](https://github.com/google/nogotofail)
 * [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
@@ -84,13 +86,13 @@ Dynamic Analysis Tools
 ----
 
 1. [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
-2. [Androl4b ★424](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
+2. [Androl4b ★435](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 * [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)
 * [Mobile-Security-Framework MobSF ★2024](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 * [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
 * [Cobradroid](https://thecobraden.com/projects/cobradroid/) – custom image for malware analysis
 * ~~[ViaLab Community Edition](https://www.nowsecure.com/blog/2014/09/09/introducing-vialab-community-edition/)~~
-* [Droidbox ★299 ⏳1Y](https://github.com/pjlantz/droidbox)
+* [Droidbox ★299 ⏳2Y](https://github.com/pjlantz/droidbox)
 * ~~[Mercury](https://labs.mwrinfosecurity.com/tools/2012/03/16/mercury/)~~
 * [Drozer ★1115](https://github.com/mwrlabs/drozer)
 * [Xposed](https://forum.xda-developers.com/xposed/xposed-installer-versions-changelog-t2714053) - equivalent of doing Stub based code injection but without any modifications to the binary
@@ -250,7 +252,7 @@ How to report
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the
-[awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness) list.
+[awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 Your contributions are always welcome!

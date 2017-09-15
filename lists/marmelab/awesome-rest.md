@@ -119,13 +119,13 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### PHP
 
 * [Microrest ★189 ⏳1Y](https://github.com/marmelab/microrest.php) - Micro-web application providing a REST API on top of any relational database.
-* [Negotiation ★400](https://github.com/willdurand/Negotiation) - Content negotiation library.
+* [Negotiation ★404](https://github.com/willdurand/Negotiation) - Content negotiation library.
 * [Drest ★81](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints.
-* [Restler ★1206](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
+* [Restler ★1211](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
 * [HAL ★185](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
-* [Apigility ★458](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
+* [Apigility ★460](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
 * [phprest ★310](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
-* [Hateoas ★759](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
+* [Hateoas ★760](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
 * [Fusio ★140](https://github.com/apioo/fusio) - Open source API management platform.
 
 #### Symfony2
@@ -134,7 +134,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [FOSRestBundle ★1528](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
 * [stanlemon/rest-bundle ★131](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 * [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
-* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas ★759](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
+* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas ★760](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
 * [Symfony REST Edition ★605](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 * [NgAdminGeneratorBundle ★75 ⏳2Y](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.
@@ -152,7 +152,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [savory-pie](https://github.com/RueLaLa/savory-pie/) - REST API building library (django, and others).
 * [Python Eve](http://python-eve.org/) - Eve is an open source Python REST API framework designed for human beings. It allows to effortlessly build and deploy highly customizable, fully featured RESTful Web Services.
 * [Ramses](https://ramses.readthedocs.org/en/stable/) - Makes RAML files executable by generating production-ready APIs from them at runtime.
-* [Flask-Potion ★393](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
+* [Flask-Potion ★395](https://github.com/biosustain/potion) - Flask-Potion is a powerful Flask extension for building RESTful JSON APIs. It also provides several Clients for easier access to the API.
 
 ### Ruby
 
@@ -175,7 +175,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### Java
 
 * [RestExpress ★766](https://github.com/RestExpress/RestExpress) - Netty-based, highly performant, lightweight, container-less, plugin-extensible, framework that is ideal for microservice architectures.
-* [Vertx-Web ★307](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
+* [Vertx-Web ★318](https://github.com/vert-x3/vertx-web) - Vert.x-Web is a set of building blocks for building web applications with Vert.x, a toolkit for building reactive applications on the JVM.
 
 ### Haskell
 * [Rest for Haskell ★365](https://github.com/silkapp/rest) - This package allows you to create REST APIs in Haskell. These APIs can be run in different web frameworks. They can also be used to automatically generate documentation as well as client libraries.
@@ -187,8 +187,8 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Hurl.it](https://www.hurl.it/) - Make HTTP requests with a simple web-based HTTP client -- like `curl` in the cloud.
 * [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - Chrome extension essential to test manually REST API.
-* [resty ★2162](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-* [jq ★9461](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [resty ★2174](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
+* [jq ★9638](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
 * [Http-console ★1287](https://github.com/cloudhead/http-console) - Command line interface for HTTP that let you *speak HTTP like a local*
 * [rest-assured ★2292](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.

@@ -37,8 +37,8 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 ## Audio Related Packages
 
-- Total number of packages: 61
-- Python version compatibility:  ![59](http://progressed.io/bar/97?title=python%202) ![49](http://progressed.io/bar/80?title=python%203)
+- Total number of packages: 62
+- Python version compatibility:  ![60](http://progressed.io/bar/97?title=python%202) ![50](http://progressed.io/bar/80?title=python%203)
 
 #### Read-Write
 
@@ -62,7 +62,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) [:octocat: ★11](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
 * [PyWavelets](http://www.pybytes.com/pywavelets/)² [:octocat: ★0 ⏳5Y](https://github.com/scikit-signal/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
 * [Resampy](http://resampy.readthedocs.io) [:octocat: ★48](https://github.com/bmcfee/resampy) [:package:](https://pypi.python.org/pypi/resampy) - Sample rate conversion.
-* [STFT](http://stft.readthedocs.io) [:octocat: ★16](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) - Standalone package for Short-Time Fourier Transform.
+* [STFT](http://stft.readthedocs.io) [:octocat: ★16 ⏳1Y](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) - Standalone package for Short-Time Fourier Transform.
 
 #### Feature extraction
 
@@ -72,6 +72,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [muda](https://muda.readthedocs.io/en/latest/) [:octocat: ★40](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
 * [python_speech_features](https://github.com/jameslyons/python_speech_features) [:octocat: ★498](https://github.com/jameslyons/python_speech_features) [:package:](https://pypi.python.org/pypi/python_speech_features) - Common speech features for ASR.
 * [pyYAAFE](http://yaafe.sourceforge.net) [:octocat: ★105](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE.
+* [speechpy](https://github.com/astorfi/speechpy) [:octocat: ★245](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
 
 #### Speech Processing
 

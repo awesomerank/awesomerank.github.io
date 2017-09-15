@@ -378,7 +378,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
   * [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
   * [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
-  * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code ★5655](https://github.com/allinurl/goaccess)) `MIT` `C`
+  * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code ★5778](https://github.com/allinurl/goaccess)) `MIT` `C`
   * [Graylog](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
   * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
   * [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
@@ -406,7 +406,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code ★2331](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
   * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
   * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
-  * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code ★6036](https://github.com/google/cadvisor)) `Apache` `Go`
+  * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code ★6154](https://github.com/google/cadvisor)) `Apache` `Go`
   * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
   * [Dash ★7793](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
   * [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
@@ -450,7 +450,7 @@ ils and flask.
   * [Collectd](http://collectd.org/) - System statistic collection daemon.
   * [Collectl](http://collectl.sourceforge.net/) - High precision system performance metrics collecting tool.
   * [PGObserver ★241](https://github.com/zalando/PGObserver) - Monitoring solution for PostgreSQL databases that also works with AWS RDS.
-  * [Statsd ★11785](https://github.com/etsy/statsd) - Application statistic listener.
+  * [Statsd ★11883](https://github.com/etsy/statsd) - Application statistic listener.
   * [tcollector](http://opentsdb.net/docs/build/html/user_guide/utilities/tcollector.html) - System statistic collection daemon written in Python for OpenTSDB
 
 * Dashboards
@@ -459,12 +459,12 @@ ils and flask.
   * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
   * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
   * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
-  * [Freeboard ★4616](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
+  * [Freeboard ★4680](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
   * [Netdata](http://netdata.firehol.org/) - Real-time performance monitoring for Linux systems with plugin support.
 
 * Storage
   * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-  * [KairosDB ★1099](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
+  * [KairosDB ★1110](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
   * [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
 
 * Packages

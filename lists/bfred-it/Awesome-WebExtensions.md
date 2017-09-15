@@ -74,7 +74,7 @@ Apps that help you manage your extensions.
 - [unzip-crx ★7 ⏳1Y](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
 - [chrome-store-api ★6](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
 - [crx2ff ★44 ⏳1Y](https://github.com/abarreir/crx2ff) - Check the compatibility of a Chrome extension with the Firefox WebExtensions API.
-- [chromereload ★4](https://github.com/HaNdTriX/chromereload) - Auto-reload your extension during development.
+- [chromereload ★4 ⏳1Y](https://github.com/HaNdTriX/chromereload) - Auto-reload your extension during development.
 
 ## Testing
 

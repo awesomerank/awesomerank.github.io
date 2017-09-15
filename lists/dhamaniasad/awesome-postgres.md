@@ -65,7 +65,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgModeler](https://www.pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler.
 * [pgweb ★4415](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
-* [phpPgAdmin ★240](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
+* [phpPgAdmin ★244](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
 * [Postbird ★170](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
 * [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
 * [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
@@ -106,7 +106,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [plpgsql\_check ★76](https://github.com/okbob/plpgsql_check) - Extension that allows to check plpgsql source code.
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 * [PG\_Themis ★18](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
-* [zomboDB ★1162](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
+* [zomboDB ★1187](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
 
 ### Optimization
 * [PgHero ★3340](https://github.com/ankane/pghero) - PostgreSQL insights made easy.
@@ -144,7 +144,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * Elixir: [postgrex ★450](https://github.com/elixir-ecto/postgrex)
 * Go: [pgx ★1076](https://github.com/jackc/pgx)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
-* .Net/.Net Core: [Npgsql ★1018](https://github.com/npgsql/npgsql)
+* .Net/.Net Core: [Npgsql ★1038](https://github.com/npgsql/npgsql)
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise ★1405](https://github.com/vitaly-t/pg-promise)
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq ★14](https://github.com/m6w6/ext-pq)

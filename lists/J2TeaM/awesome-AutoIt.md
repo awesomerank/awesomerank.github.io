@@ -309,7 +309,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Gmail (by PhoenixXL)](https://www.autoitscript.com/forum/index.php?showtopic=141340) - Remote Gmail (UDF).
 - [Google Functions (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=98504) - Google Functions (Suggestions, Definitions, Translate, Convert).
 - [Google Maps (by seangriffin)](https://www.autoitscript.com/forum/index.php?showtopic=115437) - Google Maps UDF.
-- [Imgur ★4 ⏳2Y](https://github.com/J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API.
+- [Imgur ★5 ⏳2Y](https://github.com/J2TeaM/AutoIt-Imgur-UDF) - An AutoIt UDF to help you upload images using Imgur API.
 - [iTunes (by torels)](https://www.autoitscript.com/forum/index.php?showtopic=70675) - iTunes UDF.
 - [iTunes (by Beege)](https://www.autoitscript.com/forum/index.php?showtopic=101802) - Another iTunes UDF.
 - [No-IP (by Nessie)](https://www.autoitscript.com/forum/index.php?showtopic=150985) - With this UDF you can simply update your no-ip hostname(s) and retrive the ip address of an no-ip address.
@@ -438,7 +438,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 - [WP Syntax](https://wordpress.org/plugins/wp-syntax/) (WordPress Plugin) - based on GeSHi.
 - [PrismJS](http://prismjs.com/) - Added AutoIt since version 1.1.0
-- [AutoIt - Visual Studio ★7](https://github.com/loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
+- [AutoIt - Visual Studio ★11](https://github.com/loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
 
 ## License
 
@@ -451,13 +451,13 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Other Awesome Lists
 
 - [awesome ★63835](https://github.com/sindresorhus/awesome) by @sindresorhus
-- [awesome-all ★91](https://github.com/bradoyler/awesome-all) by @bradoyler
+- [awesome-all ★93](https://github.com/bradoyler/awesome-all) by @bradoyler
 - [awesome-awesome ★871](https://github.com/emijrp/awesome-awesome) by @emijrp
-- [awesome-awesome ★120](https://github.com/erichs/awesome-awesome) by @erichs
+- [awesome-awesome ★124](https://github.com/erichs/awesome-awesome) by @erichs
 - [awesome-awesome ★61](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
-- [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness) by @bayandin
+- [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) by @bayandin
 - [awesome-awesomes ★479](https://github.com/fleveque/awesome-awesomes) by @fleveque
-- [awesome-collection ★97](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
+- [awesome-collection ★98](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
 - [lists ★4428](https://github.com/jnv/lists) by @jnv
 
 [[Back to Top](#awesome-autoit)]

@@ -62,7 +62,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 # Other Styleguide Lists
 * [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@SaijoGeorge](https://twitter.com/SaijoGeorge).
 * [Narkoz ★1327](https://github.com/narkoz/guides)
-* [paulmillr ★163 ⏳3Y](https://github.com/paulmillr/code-style-guides)
+* [paulmillr ★163 ⏳4Y](https://github.com/paulmillr/code-style-guides)
 * [SalGnt ★1447](https://github.com/SalGnt/cscs)
 * [Styleguides.io ★533](https://github.com/maban/styleguides)
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides)
@@ -78,8 +78,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [CSSWizardry](http://cssguidelin.es/) This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
 * [GitHub](http://primercss.io)
 * [Google](https://google.github.io/styleguide/htmlcssguide.xml)
-* [Idiomatic-CSS ★5292](https://github.com/necolas/idiomatic-css)
-* [rscss ★3371](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
+* [Idiomatic-CSS ★5305](https://github.com/necolas/idiomatic-css)
+* [rscss ★3394](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/)
 * [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 * [Wordpress.org](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)
@@ -159,15 +159,15 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Objective-C
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0)
-* [Futurice iOS Good Practices ★6412](https://github.com/futurice/ios-good-practices) iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
-* [Github - Style guide & coding conventions for Swift projects ★4237](https://github.com/github/swift-style-guide) A guide to our Swift style and conventions by @github.
-* [Github Objective-C Style Guide ★1654 ⏳1Y](https://github.com/github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
+* [Futurice iOS Good Practices ★6536](https://github.com/futurice/ios-good-practices) iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
+* [Github - Style guide & coding conventions for Swift projects ★4292](https://github.com/github/swift-style-guide) A guide to our Swift style and conventions by @github.
+* [Github Objective-C Style Guide ★1661 ⏳1Y](https://github.com/github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
 * [Khan ★15 ⏳2Y](https://github.com/Khan/objective-c-style-guide)
-* [NY Times - Objective C Style Guide ★4455](https://github.com/NYTimes/objective-c-style-guide) The Objective-C Style Guide used by The New York Times.
+* [NY Times - Objective C Style Guide ★4473](https://github.com/NYTimes/objective-c-style-guide) The Objective-C Style Guide used by The New York Times.
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) Gist with coding conventions.
-* [raywenderlich Style Guide ★2624](https://github.com/raywenderlich/objective-c-style-guide) A style guide that outlines the coding conventions for raywenderlich.com.
-* [Spotify Objective-C Coding Style ★197](https://github.com/spotify/ios-style) Guidelines for iOS development in use at Spotify.
-* [Swift Style Guide by @raywenderlich ★7522](https://github.com/raywenderlich/swift-style-guide) The official Swift style guide for raywenderlich.com.
+* [raywenderlich Style Guide ★2650](https://github.com/raywenderlich/objective-c-style-guide) A style guide that outlines the coding conventions for raywenderlich.com.
+* [Spotify Objective-C Coding Style ★199](https://github.com/spotify/ios-style) Guidelines for iOS development in use at Spotify.
+* [Swift Style Guide by @raywenderlich ★7657](https://github.com/raywenderlich/swift-style-guide) The official Swift style guide for raywenderlich.com.
 
 ## PHP
 * [PSR-1: Basic Coding Standard](http://www.php-fig.org/psr/psr-1/)
@@ -191,8 +191,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [aturon](https://aturon.github.io)
 
 ## Swift
-* [GitHub ★4237](https://github.com/github/swift-style-guide)
-* [raywenderlich ★7522](https://github.com/raywenderlich/swift-style-guide)
+* [GitHub ★4292](https://github.com/github/swift-style-guide)
+* [raywenderlich ★7657](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc ★91 ⏳1Y](https://github.com/SlideShareInc/swift-style-guide)
 
 # Non-Code

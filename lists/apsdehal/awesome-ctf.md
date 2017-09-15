@@ -179,7 +179,7 @@ Check solve section for steganography.
 *Tools used for solving Networking challenges*
 
 - [Masscan ★6664](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner
-- [Nipe ★218](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
+- [Nipe ★229](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [Nmap](https://nmap.org/) - open source utility for network discovery and security auditing
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
   - `apt-get install wireshark`

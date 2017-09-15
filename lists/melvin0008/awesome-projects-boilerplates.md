@@ -51,7 +51,7 @@ Curated list of boilerplates and templates to enhance productivity.
 *Boilerplates and templates for IOS*
 
 - [iOS Boilerplate ★2906 ⏳5Y](https://github.com/gimenete/iOS-boilerplate) Boilerplate by Gimeno.
-- [Amaro ★374](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
+- [Amaro ★377](https://github.com/crushlovely/Amaro) Featureful iOS Boilerplate.
 - [Boilerplate-iOS ★8 ⏳4Y](https://github.com/openaphid/Boilerplate-iOS) Boilerplate by openaphid.
 
 ## JavaScript
@@ -82,18 +82,18 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Flask React Boilerplate ★272](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
     - [Boilerplate Webpack React ★46 ⏳1Y](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
-    - [React Redux Universal Hot Example ★10190](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
+    - [React Redux Universal Hot Example ★10338](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
 - [Backbone](#backbone)
-    - [Backbone Boilerplates ★506 ⏳4Y](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
-    - [Yeoman Backbone Generator ★663](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
+    - [Backbone Boilerplates ★505 ⏳4Y](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
+    - [Yeoman Backbone Generator ★662](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
     - [benm ★180](https://github.com/shorttompkins/benm) Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB.
 - [Jquery](#jquery)
     - [Generator Jquery Boilerplate ★149 ⏳1Y](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
 - [Polymer](#polymer)
     - [Polymer Starter Kit ★2431](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
-    - [Polymer Seed Element ★290](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
-    - [Yeoman Polymer Generator ★988](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
+    - [Polymer Seed Element ★291](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
+    - [Yeoman Polymer Generator ★986](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
 - [Electron](#electron)
     - [Electron Boilerplate ★502](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
 
@@ -105,14 +105,14 @@ Curated list of boilerplates and templates to enhance productivity.
 ## Python
 
 *Boilerplates and templates for Python*
-- [Django Hackathon Starter ★1077](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
+- [Django Hackathon Starter ★1094](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
 - [CookieCutter ★5565](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
 - [bootstrapy ★272 ⏳4Y](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
-- [Fbone ★1418](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
+- [Fbone ★1434](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 - [Flask-Bootstrap ★162](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
 - [Flask Boilerplate ★5 ⏳2Y](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
-- [Flask Foundation ★1049](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
-- [GoogleAppEngine Webapp2 Boilerplate ★709](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
+- [Flask Foundation ★1058](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
+- [GoogleAppEngine Webapp2 Boilerplate ★709 ⏳1Y](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
 - [Flask Appengine Template ★1007](https://github.com/kamalgill/flask-appengine-template) Flask App engine Template
 - [Django Starter Template ★73](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.
 - [gae-init](http://gae-init.appspot.com) Google App Engine based on Flask, RESTful, Bootstrap and tons of other cool features.
@@ -139,7 +139,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for C#.NET and ASP.NET*
 
-- [ASP.NET Boilerplate ★3098](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
+- [ASP.NET Boilerplate ★3265](https://github.com/aspnetboilerplate/aspnetboilerplate) ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools.
 
 
 
@@ -159,7 +159,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Websites*
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
-- [Meteor boilerplate ★922 ⏳1Y](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
+- [Meteor boilerplate ★919 ⏳1Y](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
 - [Web Starter Kit ★17483](https://github.com/google/web-starter-kit) Web starter kit by Google.
 - [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
 - [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates

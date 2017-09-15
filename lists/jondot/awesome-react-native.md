@@ -164,7 +164,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### UI
 
 - [rn-placeholder★164](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
-- [react-native-scrollview-smart★36](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
+- [react-native-scrollview-smart★41](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
 - [react-native-fast-image★265](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
 - [react-native-pagination ★5](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
 - [react-native-search-box★87](https://github.com/crabstudio/react-native-search-box) - A simple search box with animation, inspired from ios search bar.
@@ -413,6 +413,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-stylesheet-xg ★5](https://github.com/xgfe/react-native-stylesheet-xg) - extension stylesheet for cross platforms and responsive
 - [react-native-svg ★941](https://github.com/magicismight/react-native-svg) - SVG library that works on both iOS & Android
 - [react-native-swipeout ★891](https://github.com/dancormier/react-native-swipeout) - iOS-style swipeout buttons behind component
+- [react-native-swipeview ★3](https://github.com/rishabhbhatia/react-native-swipeview) - SwipeView component used to perform actions like swipe to delete, works on iOS and Android
 - [react-native-swipe-a-lot ★51](https://github.com/nickjanssen/react-native-swipe-a-lot) - A swipe component for React Native that works on iOS and Android.
 - [react-native-swiper2 ★77](https://github.com/sunnylqm/react-native-swiper2) - Swiper component for React Native. Supersede react-native-swiper
 - [react-native-swiper ★3000](https://github.com/leecade/react-native-swiper) - The best Swiper component for React Native.
@@ -604,6 +605,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-responsive ★145](https://github.com/ayoubdev/react-native-responsive) - The power of Media Queries now in your React Native project (ios and android) ! Responsive Design can now be easily managed !
 - [react-native-theme ★40](https://github.com/apentle/react-native-theme) - Theme manager for react native project!
 - [react-native-style-tachyons ★221](https://github.com/tachyons-css/react-native-style-tachyons) - functional, maintainable design for everyone based on tachyons.css.
+- [rn-less ★6](https://github.com/blackmiaool/rn-less) - Style react-native with less (with VS Code extension support)
 
 
 ### System
@@ -863,12 +865,14 @@ Useful React Native tooling.
 - [haul ★1029](https://github.com/callstack-io/haul) - command line tool for developing React Native apps
 - [rn-nodeify ★64](https://github.com/mvayngrib/rn-nodeify) - hack to allow react-native projects to use node core modules
 - [Deco IDE](https://www.decosoftware.com/) - React Native IDE with components manager
+- [react-native-bundle-visualizer ★32](https://github.com/IjzerenHein/react-native-bundle-visualizer) - See what's inside your RN bundle; useful for optimizing the bundle size
 - [react-native-debugger ★638](https://github.com/jhen0409/react-native-debugger) - The standalone app for React Native Debugger, with React DevTools / Redux DevTools
 - [react-native-exception-handler ★84](https://github.com/master-atul/react-native-exception-handler) – Avoid silent crash and errors on the production build of your app
 - [generact](http://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
 - [react-native-rename ★330](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
 - [Makeicon ★24](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
+- [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc. 
 
 ## Seeds
 
@@ -896,6 +900,7 @@ Get a head start on development with an existing seed.
 - [react-native-boilerplate ★20](https://github.com/pcofilada/react-native-boilerplate) - Simple boilerplate for mobile development using React Native and Redux
 - [react-native-web-workspace ★16](https://github.com/agrcrobles/react-native-web-workspace) - A cross platform app with react in a monorepo
 - [react-native-web-boilerplate ★27](https://github.com/agrcrobles/react-native-web-boilerplate) - A react-native-web stateless hmr boilerplate
+- [native-starter-kit ★1097](https://github.com/start-react/native-starter-kit) - A Starter Kit for React Native + NativeBase + React Navigation + Redux + CodePush Apps (iOS & Android)
 
 ## Libraries
 
@@ -980,6 +985,7 @@ Open source React Native apps and other examples.
 - [live translator ★4](https://github.com/agrcrobles/react-native-live-translator) - An app that translates in real time what you see from your mobile.
 - [GitPoint ★1785](https://github.com/gitpoint/git-point) - A mobile GitHub client for both iOS and Android.
 - [PxView ★42](https://github.com/alphasp/pxview) - An unofficial Pixiv app client for Android and iOS
+- [Todo List ★2](https://github.com/rishabhbhatia/react-native-todo) - Todo-List app using SwipeView with ES6 standards for iOS and Android.
 
 ## Frameworks
 

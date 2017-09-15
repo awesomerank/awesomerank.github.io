@@ -93,7 +93,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
  - [mongo-cxx-driver ★396](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
 
 ### C#/.NET ###
- - [mongo-csharp-driver ★1633](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
+ - [mongo-csharp-driver ★1665](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
  - [mongo-queue-csharp ★23 ⏳1Y](https://github.com/dominionenterprises/mongo-queue-csharp) - C# message queue backed by MongoDB
  - [MongoDB Messaging ★36](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
  - [MongoRepository ★185](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver
@@ -148,12 +148,12 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 ### PHP
  - [Doctrine MongoDB ★293](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
  - [eloquent-mongodb-repository](https://github.com/PHPRepository/php-eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
- - [laravel-mongodb ★2719](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
+ - [laravel-mongodb ★2801](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
  - [mongodb-repository](https://github.com/PHPRepository/php-mongodb-repository) - Repository implementation
  - [pecl/mongodb ★390](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Python
- - [Flask-PyMongo ★338](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
+ - [Flask-PyMongo ★347](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
  - [MongoEngine ★1840](https://github.com/MongoEngine/mongoengine) - Python ODM on top of PyMongo
  - [MongoLog ★100 ⏳4Y](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
  - [Mongo-Thingy ★5](https://github.com/numberly/mongo-thingy) - The most Pythonic and friendly-yet-powerful way to use MongoDB
@@ -176,7 +176,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 ### Scala
  - [mongo-scala-driver ★167](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
  - [ReactiveMongo ★721](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
- - [Spark-MongoDB ★282 ⏳1Y](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+ - [Spark-MongoDB ★284 ⏳1Y](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ## Tools
 ### Administration
@@ -234,7 +234,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 
 ## Applications
  - [Leanote ★5762](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
- - [Quokka ★1687](https://github.com/quokkaproject/quokka) - Python CMS built on top of Flask and MongoDB
+ - [Quokka ★1709](https://github.com/quokkaproject/quokka) - Python CMS built on top of Flask and MongoDB
  - [uptime ★3329](https://github.com/fzaninotto/uptime) - Remote monitoring application using Node.js, MongoDB, and Bootstrap
 
 ## License

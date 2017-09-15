@@ -177,7 +177,7 @@ Inspired by [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
 *Libraries for implementing authentications schemes.*
 
 * OAuth
-    * [Authomatic ★808](https://github.com/authomatic/authomatic) - Simple but powerful framework agnostic authentication/authorization client.
+    * [Authomatic ★814](https://github.com/authomatic/authomatic) - Simple but powerful framework agnostic authentication/authorization client.
     * [django-allauth ★3181](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
     * [django-oauth-toolkit ★1037](https://github.com/evonove/django-oauth-toolkit) - OAuth 2 goodies for Django.
     * [Flask-OAuthlib ★1038](https://github.com/lepture/flask-oauthlib) - OAuth 1.0/a, 2.0 implementation of client and provider for Flask.
@@ -245,7 +245,6 @@ Inspired by [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
     * [coala](http://coala.io/) - Language independent and easily extendable code analysis application.
     * [code2flow ★396](https://github.com/scottrogowski/code2flow) - Turn your Python and JavaScript code into DOT flowcharts.
     * [pycallgraph ★885](https://github.com/gak/pycallgraph) - A library that visualises the flow (call graph) of your Python application.
-    * [pysonar2](https://github.com/yinwang0/pysonar2) - A type inferencer and indexer for Python.
 * Linter
     * [Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
     * [pylama ★344](https://github.com/klen/pylama) - Code audit tool for Python and JavaScript.
@@ -699,7 +698,8 @@ Inspired by [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
 *Implementations of Python.*
 
 * [CLPython ★226](https://github.com/metawilm/cl-python) - Implementation of the Python programming language written in Common Lisp.
-* [CPython ★12353](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.** Optimizing Static Compiler for Python. Uses type mixins to compile Python into C or C++ modules resulting in large performance gains.
+* [CPython ★12353](https://github.com/python/cpython) - **Default, most widely used implementation of the Python programming language written in C.**
+* [Cython](http://cython.org/) - Optimizing Static Compiler for Python. Uses type mixins to compile Python into C or C++ modules resulting in large performance gains
 * [Grumpy](http://grump.io) - More compiler than interpreter as more powerful CPython2.7 replacement (alpha).
 * [IronPython ★366](https://github.com/IronLanguages/ironpython3) - Implementation of the Python programming language written in C# targeting the .NET Framework and Mono.
 * [Jython](https://hg.python.org/jython) - Implementation of Python programming language written in Java for the Java virtual machine (JVM).
@@ -784,6 +784,7 @@ Inspired by [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
 
 *Useful libraries or tools that don't fit in the categories above.*
 
+* [attrs ★1005](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
 * [blinker ★584](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
 * [itsdangerous ★1227](https://github.com/pallets/itsdangerous) - Various helpers to pass trusted data to untrusted environments.
 * [pluginbase ★584](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python.
@@ -799,6 +800,7 @@ Inspired by [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
 * [langid.py ★852](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
 * [NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python.
+* [polyglot ★595](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
 * [SnowNLP ★2173](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 * [spaCy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
 * [TextBlob ★4154](https://github.com/sloria/TextBlob) - Providing a consistent API for diving into common NLP tasks.
@@ -903,7 +905,7 @@ Inspired by [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
 
 ## Recommender Systems
 
-*Libraries for building recommender systems*
+*Libraries for building recommender systems.*
 
 * [annoy ★2410](https://github.com/spotify/annoy) - Approximate Nearest Neighbors in C++/Python optimized for memory usage.
 * [fastFM ★422](https://github.com/ibayer/fastFM) - A library for Factorization Machines.
@@ -1101,7 +1103,7 @@ Inspired by [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
     * [Levenshtein ★347](https://github.com/ztane/python-Levenshtein) - Fast computation of Levenshtein distance and string similarity.
     * [pangu.py ★60 ⏳1Y](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
     * [pyfiglet ★228](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
-    * [pypinyin ★632](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi to pinyin.
+    * [pypinyin ★663](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi to pinyin.
     * [shortuuid ★788](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
     * [unidecode](https://pypi.python.org/pypi/Unidecode) - ASCII transliterations of Unicode text.
     * [uniout ★129](https://github.com/moskytw/uniout) - Print readable chars instead of the escaped string.

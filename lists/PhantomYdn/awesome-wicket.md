@@ -28,7 +28,7 @@ Your contributions are always welcome!
 ## Generic Info
 
 - [Apache Wicket](http://wicket.apache.org/) - Wicket official site.
-- [Wicket on Github ★381](https://github.com/apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com).
+- [Wicket on Github ★389](https://github.com/apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com).
 - [Wicket on Twitter](https://twitter.com/apache_wicket) - Official account of Wicket.
 - [Wicket wiki](https://cwiki.apache.org/confluence/display/WICKET/Index) - Official knowledge base on Wiki about Wicket.
 - [Build With Wicket](https://builtwithwicket.tumblr.com/) - Official [Tumblr](https://www.tumblr.com/) account of Wicket.
@@ -41,7 +41,7 @@ List of libraries and components which can be used in your application
 
 - [wicket-akka ★3 ⏳3Y](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket.
 - [wicket-autowire ★11 ⏳1Y](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation.
-- [wicket-bootstrap ★273](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket.
+- [wicket-bootstrap ★272](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket.
 - [wicket-clientside-logging ★16](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - Helper library that allows javascript logging on client side, all log messages will be stored on server side too.
 - [wicket-console ★7](https://github.com/PhantomYdn/wicket-console) - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.
 - [wicket-dnd ★16 ⏳1Y](https://github.com/svenmeier/wicket-dnd) - Generic Drag&Drop framework for Wicket.
@@ -53,14 +53,14 @@ List of libraries and components which can be used in your application
 - [wicket-mustache ★8 ⏳1Y](https://github.com/l0rdn1kk0n/wicket-mustache) - Provides a specialized panel and some related utilities that enables users to work with Mustache and Wicket.
 - [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) - Integration of Wicket with [OrientDB](http://orientdb.com/).
 - [wicket-requirejs ★7 ⏳1Y](https://github.com/l0rdn1kk0n/wicket-requirejs) - Helper to use require.js in your Wicket application.
-- [wicket-shieldui ★19](https://github.com/shieldui/wicket-shieldui) - Components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library.
+- [wicket-shieldui ★20](https://github.com/shieldui/wicket-shieldui) - Components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library.
 - [wicket-source ★36 ⏳3Y](https://github.com/42Lines/wicket-source) - Speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source.
-- [wicket-spring-boot ★63](https://github.com/MarcGiffing/wicket-spring-boot) - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot.
+- [wicket-spring-boot ★65](https://github.com/MarcGiffing/wicket-spring-boot) - Makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot.
 - [wicket-webjars ★25](https://github.com/l0rdn1kk0n/wicket-webjars) - Integration of webjars for Wicket.
-- [wicked-charts ★52](https://github.com/thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications.
+- [wicked-charts ★53](https://github.com/thombergs/wicked-charts) - Beautiful and interactive javascript charts for Java-based web applications.
 
 ### WicketStuff
-[WicketStuff ★301](https://github.com/wicketstuff/core) based libraries
+[WicketStuff ★303](https://github.com/wicketstuff/core) based libraries
 
 - [Annotation](https://github.com/wicketstuff/core/wiki/Annotation) - Mount your pages declarativly by java annotations.
 - [Annotation Event Dispatcher](https://github.com/wicketstuff/core/tree/master/annotationeventdispatcher-parent) - Improves events handling in Wicket by annotations.
@@ -132,12 +132,12 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 - [eFaps](http://www.efaps.org/) - A list od modules and applications that together form the base of a configurable ERP implementation.
 - [eHour](https://ehour.nl/index.phtml) - Open source time tracking tool.
-- [Estatio ★135](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket.
-- [GeoServer ★871](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data.
+- [Estatio ★139](https://github.com/estatio/estatio) - Open source estate management built on Apache Isis and wicket.
+- [GeoServer ★903](https://github.com/geoserver/geoserver) - Open source software server written in Java that allows users to share and edit geospatial data.
 - [NextReports](http://www.next-reports.com/) - Smart business reportins.
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.
-- [Yes Cart ★53](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform.
+- [Yes Cart ★55](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform.
 
 ## IDE Plugins and Tools
 

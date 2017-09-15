@@ -93,7 +93,7 @@ Graphics
 
 #### Spritesheet Tools
 
-* [Cheetah-Texture-Packer ★122](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [Cheetah-Texture-Packer ★127](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use. ![commercial](https://github.com/ellisonleao/magictools/blob/master//img/commercial.png)
 * [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Littera](http://kvazars.com/littera) - Bitmap font generator ![free](https://github.com/ellisonleao/magictools/blob/master//img/free.png)
@@ -154,7 +154,7 @@ Graphics
 * [Pickle](http://www.pickleeditor.com/) - Another Pixel art Editor. ![commercial](https://github.com/ellisonleao/magictools/blob/master//img/commercial.png)
 * [PiskelApp](http://www.piskelapp.com/) - Free Online Pixel Art and Animated Sprite Tool. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Pixelmator](http://www.pixelmator.com) - Full-featured image editing app for the Mac
-* [Pixen ★942](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
+* [Pixen ★941 ⏳1Y](https://github.com/Pixen/Pixen) - Pixel Art Editor for OSX
 * [project one](http://p1.untergrund.net) - A picture converter and editor for the Commodore 64 covering different graphics mode of this computer. Windows only
 * [PXL8](http://www.pxl8.it) - A cross platform (Windows, Mac, Linux) pixel art editor in development which aims to be distraction free ![commercial](https://github.com/ellisonleao/magictools/blob/master//img/commercial.png)
 * [PyxelEdit](http://pyxeledit.com/) - Pixel art editor designed to make it fun and easy to make tilesets, levels and animations. ![commercial](https://github.com/ellisonleao/magictools/blob/master//img/commercial.png)
@@ -179,7 +179,7 @@ Graphics
 
 #### Voxel Editors
 
-* [goxel ★934](https://github.com/guillaumechereau/goxel)
+* [goxel ★950](https://github.com/guillaumechereau/goxel)
 * [MagicaVoxel](http://voxel.codeplex.com/)
 * [Q-Block](http://kyucon.com/qblock/)
 * [Sproxel](http://sproxel.blogspot.com.br/)
@@ -197,7 +197,7 @@ Code
 * [AndEngine](http://www.andengine.org) - 2D Android Game Engine
 * [Azul3D](http://azul3d.org/) - A 3D engine written in Go.
 * [Bacon2D](http://bacon2d.com/) - A framework to ease 2D game development, providing ready-to-use QML elements representing basic game entities needed by most of games.
-* [Bladecoder ★127](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
+* [Bladecoder ★128](https://github.com/bladecoder/bladecoder-adventure-engine) - Classic point and click adventure game engine and editor.
 * [Blend4Web](http://www.blend4web.com/) - A Javascript framework for creating and displaying interactive 3D computer graphics in web browsers. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Blitz3D](http://www.blitzbasic.com/Products/blitz3d.php) 3D basic-like programming language for fast 3D desktop games.
 * [Box2D](http://box2d.org/) - A 2D Physics Engine for Games.
@@ -207,7 +207,7 @@ Code
 * [Chipmunk2D](https://chipmunk-physics.net/) - A fast and lightweight 2D game physics library.
 * [Cinder](https://libcinder.org/) - Cinder is a community-developed, free and open source library for professional-quality creative coding in C++. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Cocos Creator](http://cocos2d-x.org/docs/editors_and_tools/creator/index.html) - Cocos Creator, a free cross-platform game development editor supporting Cocos2d-js, helps developers build 2D and 3D game scenes, edit game UI and other game resources quickly and efficiency.
-* [Cocos2D ★373](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
+* [Cocos2D ★381](https://github.com/los-cocos/cocos) - graphic library for games and multimedia, for python language
 * [Cocos2d-x](http://cocos2d-x.org/) - a C++ OpenGL 2D and 3D game engine. Uses C++ but has JS and Lua bindings. Target all the major mobile platforms and operating systems. Additional tools CocoStudio and Cocos Code IDE.
 * [Construct 2](https://www.scirra.com/) - an HTML5 game maker, meaning you are not actually writing JavaScript. Instead, you use actions, events and conditions to do the heavy lifting.
 * [CopperCube3D](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
@@ -216,7 +216,7 @@ Code
 * [Dash ★354 ⏳1Y](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing ![free](https://github.com/ellisonleao/magictools/blob/master//img/free.png)
 * [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
-* [ENGi ★371 ⏳1Y](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
+* [ENGi ★373 ⏳1Y](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 * [Ebiten](https://hajimehoshi.github.io/ebiten/) - A simple 2D game library in Go. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
@@ -240,7 +240,7 @@ Code
 * [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [JPCT](http://www.jpct.net/) - jPCT is a 3D engine for desktop Java and Google's Android.
 * [Jitter](https://code.google.com/p/jitterphysics/) - a fast and lightweight physics engine written in C#.
-* [Juno ★65 ⏳1Y](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
+* [Juno ★66 ⏳1Y](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 * [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 * [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
 * [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
@@ -248,7 +248,7 @@ Code
 * [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
 * [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
-* [LumixEngine ★1121](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++.
+* [LumixEngine ★1147](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++.
 * [Lums ★18 ⏳1Y](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
 * [LÖVE](http://love2d.org) - Lua 2D Game Engine. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [MINX ★8 ⏳2Y](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA)
@@ -278,7 +278,7 @@ Code
 * [PyGame](http://pygame.org/hifi.html) - a 2D game engine in Python.
 * [QICI](http://www.qiciengine.com/) -  Efficient web-based tool for creating HTML5 games.
 * [RPGMaker](http://www.rpgmakerweb.com/) - series of programs for the development of role-playing games.
-* [Rajawali ★1454](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
+* [Rajawali ★1501](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 * [Ren'Py](http://www.renpy.org/) - An open-source visual novel engine using the Python language in simplified form. It supports Windows, Mac OS X, Linux, Android and iOS.
 * [Rpgboss](http://rpgboss.com) - A 2d rpg game engine and editor based on scala and libgdx. Ease of use, with no programming knowledge.
 * [SDL](http://libsdl.org/) - SDL is a cross-platform library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
@@ -312,8 +312,8 @@ No programming needed.
 with AWS and Twitch – with full source.
 ### AI
 
-* [Fluent Behaviour Tree ★119](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
-* [SimpleAI ★94](https://github.com/mgerhardy/simpleai) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
+* [Fluent Behaviour Tree ★121](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
+* [SimpleAI ★95](https://github.com/mgerhardy/simpleai) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 
 
 Audio
@@ -341,7 +341,7 @@ Audio
 * [iNudge](http://tonematrix.audiotool.com) - Create sound patterns online.
 * [jfxr](http://jfxr.frozenfractal.com) - A JavaScript port of the Bfxr sound effect generator.
 * [MadTracker](http://www.madtracker.org/main.php) - a powerful and efficient approach to making music. Versatility and compatibility are guaranteed due to full VST™, ASIO™ and ReWire™ support.
-* [MilkyTracker ★394](https://github.com/milkytracker/MilkyTracker) - open source tracker for Mac/Linux/Windows platforms. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [MilkyTracker ★410](https://github.com/milkytracker/MilkyTracker) - open source tracker for Mac/Linux/Windows platforms. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [musagi](http://www.drpetter.se/project_musagi.html) - open source, fairly large and sophisticated music editor and synthesizer ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) - Open Source MIDI sequencer. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Soundation](https://soundation.com/) - Online Professional music studio.
@@ -431,7 +431,7 @@ Must see
 
 ### Videos/Podcasts
 
-* [awesome-gametalks ★466](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
+* [awesome-gametalks ★472](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams
@@ -453,15 +453,15 @@ Must see
 
 ### Complete Game Sources
 
-* [Doom 3 ★1495 ⏳2Y](https://github.com/id-Software/DOOM-3) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
-* [Doom ★2363 ⏳2Y](https://github.com/id-Software/DOOM) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [Doom 3 ★1513 ⏳2Y](https://github.com/id-Software/DOOM-3) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [Doom ★2423 ⏳2Y](https://github.com/id-Software/DOOM) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Duke Nukem 3D: Atomic Edition](http://legacy.3drealms.com/duke3d/) ![free](https://github.com/ellisonleao/magictools/blob/master//img/free.png)
-* [Prince of Persia ★4344](https://github.com/jmechner/Prince-of-Persia-Apple-II) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
-* [Quake 2 ★828 ⏳1Y](https://github.com/id-Software/Quake-2) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
-* [Quake III Arena ★2246 ⏳1Y](https://github.com/id-Software/Quake-III-Arena) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
-* [Quake ★1680](https://github.com/id-Software/Quake) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
-* [SimCity ★307 ⏳1Y](https://github.com/simhacker/micropolis) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
-* [Wolfenstein 3D ★702 ⏳5Y](https://github.com/id-Software/wolf3d) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [Prince of Persia ★4361](https://github.com/jmechner/Prince-of-Persia-Apple-II) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [Quake 2 ★839 ⏳1Y](https://github.com/id-Software/Quake-2) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [Quake III Arena ★2279 ⏳1Y](https://github.com/id-Software/Quake-III-Arena) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [Quake ★1729](https://github.com/id-Software/Quake) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [SimCity ★312 ⏳1Y](https://github.com/simhacker/micropolis) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [Wolfenstein 3D ★740 ⏳5Y](https://github.com/id-Software/wolf3d) ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 
 Ads
 ---
@@ -486,7 +486,7 @@ Learn
 * [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 * [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 * [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
-* [miloyip/game-programmer ★4362](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
+* [miloyip/game-programmer ★4611](https://github.com/miloyip/game-programmer) A Study Path for Game Programmer :octocat:
 * [TheChernoProject](https://www.youtube.com/user/TheChernoProject)
 * [Udacity: HTML5 Game Development](https://www.udacity.com/course/html5-game-development--cs255)
 

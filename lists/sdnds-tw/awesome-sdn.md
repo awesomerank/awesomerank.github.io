@@ -27,6 +27,8 @@ An awesome list about Software Defined Networks (SDN)
   - [Overlay Network](#overlay-network)
   - [Router](#router)
   - [Misc](#misc)
+  - [High Performacne Network](#high-performance-network)
+  - [Userspace Network Stack](#userspace-network-stack)
 - [Resources](#resources)
   - [Books](#books)
   - [Paper](#paper)
@@ -38,7 +40,7 @@ An awesome list about Software Defined Networks (SDN)
 # Network Operating System
 - [PicOS](http://www.pica8.com/products/picos) - A SDN OS for white box switches Layer-2/3 feature set with support for OpenFlow, OVSDB, and other protocols.
 - [Open Network Linux, ONL](https://opennetlinux.org) - A Linux distribution for "bare metal" switches, that is, network forwarding devices built from commodity components.
-- [OpenSwitch](http://www.openswitch.net) - A linux network oerating system from Dell EMC.
+- [OpenSwitch](http://www.openswitch.net) - A linux network operating system from Dell EMC.
 - [Cumulus Linux](https://cumulusnetworks.com) - Cumulus Linux is a powerful open network operating system that allows you to automate, customize and scale using web-scale principles like the world's largest data centers.
 - [OcNOS](https://www.ipinfusion.com/) - Extensive switching and routing protocol support with advanced
 capabilities such as MPLS and SDN
@@ -59,6 +61,7 @@ capabilities such as MPLS and SDN
 - [ZeroTier ★1618](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
 - [PISCES](http://pisces.cs.princeton.edu/) - A Programmable, Protocol-Independent Software Switch.
 - [BESS ★66](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
+- [FD.IO](https://fd.io/) - Relentlessly focused on data IO speed and efficiency for more flexible and scalable networks and storage
 
 # Network Virtualization
 
@@ -99,6 +102,7 @@ capabilities such as MPLS and SDN
 - [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
 - [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports OpenFlow environment.
 - [Containernet ★19](https://github.com/containernet/containernet) - Mininet fork that allows to use Docker containers as hosts in emulated networks
+- [Tinynet ★8](https://github.com/John-Lin/tinynet) - A lightweight instant virtual network for rapid prototyping SDN
 
 # Language
 
@@ -111,7 +115,7 @@ capabilities such as MPLS and SDN
 # Library
 
 - [loxigen ★67](https://github.com/floodlight/loxigen) - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
-- [openfaucet ★28 ⏳4Y](https://github.com/rlenglet/openfaucet) - openfaucet is a pure Python implementation of the OpenFlow 1.0.0
+- [openfaucet ★28 ⏳5Y](https://github.com/rlenglet/openfaucet) - openfaucet is a pure Python implementation of the OpenFlow 1.0.0
 protocol, based on Twisted.
 - [oflib-node ★14 ⏳5Y](https://github.com/TrafficLab/oflib-node) - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
 - [OpenFlowJ](https://bitbucket.org/openflowj/openflowj) - A Java implementation of low-level OpenFlow packet marshalling/unmarshalling and IO operations.
@@ -138,10 +142,10 @@ protocol, based on Twisted.
 
 # Router
 
-- [FreeRouter](http://freerouter.nop.hu/) - Python-based vRouter
+- [FreeRouter](http://freerouter.nop.hu/) - Java-based vRouter
 - [Bird](http://bird.network.cz/)
 - [Quagga](http://www.quagga.net/)
-- [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP, IS-IS, LDP, OSPF, PIM, and RIP.
+- [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP4, BGP4+, OSPFv2, OSPFv3, RIPv1, RIPv2, RIPng, PIM-SM/MSDP and LDP as well as very early support for IS-IS, EIGRP and NHRP.
 - [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
 - [bgp4r ★21](https://github.com/jesnault/bgp4r)
 - [gobgp ★1009](https://github.com/osrg/gobgp)
@@ -154,6 +158,19 @@ protocol, based on Twisted.
 - [Open Source MANO Community, OSM](https://osm.etsi.org/welcome/)
 - [Enhanced Controller Orchestration Management Policy, ECOMP](http://att.com/ecomp) - Operations management framework.
 - [Open Network Automation Platform, ONAP](https://www.onap.org/) - Alignment of the two projects creates a harmonized and comprehensive framework for real-time, policy-driven software automation of virtual network functions that will enable software, network, IT and cloud providers and developers to rapidly create new services.
+
+# High Performance Network
+- [DPDK](http://dpdk.org/) - DPDK is a set of libraries and drivers for fast packet processing.
+It is designed to run on any processors. The first supported CPU was Intel x86 and it is now extended to IBM POWER and ARM.
+- [RDMA](https://en.wikipedia.org/wiki/Remote_direct_memory_access) - Remote direct memory access (RDMA) is a direct memory access from the memory of one computer into that of another without involving either one's operating system. This permits high-throughput, low-latency networking
+- [XDP](https://www.iovisor.org/technology/xdp) - XDP or eXpress Data Path provides a high performance, programmable network data path in the Linux kernel as part of the IO Visor Project.
+
+# Userspace Network Stack
+- [mTCP ★770](https://github.com/eunyoung14/mtcp) - mTCP is a highly scalable user-level TCP stack for multicore systems. mTCP source code is distributed under the Modified BSD License. For more detail, please refer to the LICENSE. The license term of io_engine driver and ported applications may differ from the mTCP’s.
+- [net-next-nuse ★184 ⏳1Y](https://github.com/libos-nuse/net-next-nuse) - Network Stack in Userspace (NUSE) NUSE allows us to use Linux network stack as a library which any applications can directory use by linking the library. Each application has its own network stack so, it provides an instant virtualized environment apart from a host operating system.
+- [drv-netif-dpdk ★168 ⏳1Y](https://github.com/rumpkernel/drv-netif-dpdk) - drv-netif-dpdk is a DPDK network interface for rump kernels. The combined result is a userspace TCP/IP stack doing packet I/O via DPDK.
+- [f-stack ★1002](https://github.com/F-Stack/f-stack) - F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
+- [yanff ★137](https://github.com/intel-go/yanff) - YANFF is a set of libraries for creating and deploying cloud-native Network Functions (NFs). It simplifies the creation of network functions without sacrificing performance.
 
 
 # Resources
@@ -173,6 +190,7 @@ protocol, based on Twisted.
 - [SDN A Comprehensive Survey](https://pdfs.semanticscholar.org/d8bd/4c1e92420200bd29cb1a233bd81eb3c28bba.pdf)
 - [A Guided Tour of Data-Center Networking](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40404.pdf)
 - [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
+- [Re-architecting datacenter networks and stacks for low latency and high performance](http://dl.acm.org/citation.cfm?id=3098825)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/sdnds-tw/awesome-sdn">sdnds-tw/awesome-sdn</a> with ranks

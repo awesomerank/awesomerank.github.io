@@ -105,7 +105,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 ## Extensions
 
 #### [Nuclide](https://nuclide.io/)
-> An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook ★6951](https://github.com/facebook/nuclide).
+> An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook ★7057](https://github.com/facebook/nuclide).
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
 
@@ -139,7 +139,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 ![](https://camo.githubusercontent.com/53350e9c6d303f60101e1644605fe62f529e45f2/687474703a2f2f672e7265636f726469742e636f2f643576695542385859372e676966)
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
-> [Beautify ★4880](https://github.com/beautify-web/js-beautify)
+> [Beautify ★4947](https://github.com/beautify-web/js-beautify)
 HTML (including [Handlebars](http://handlebarsjs.com/)),
 CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.

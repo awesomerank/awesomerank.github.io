@@ -181,7 +181,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [angular.js ★56775](https://github.com/angular/angular.js) - HTML enhanced for web apps.
 * [aurelia](http://aurelia.io) - A Javascript client framework for mobile, desktop and web.
 * [backbone ★26601](https://github.com/jashkenas/backbone) - Give your JS App some Backbone with Models, Views, Collections, and Events.
-* [batman.js](http://batmanjs.org/) - The best JavaScript framework for Rails developers.
 * [ember.js ★18152](https://github.com/emberjs/ember.js) - A JavaScript framework for creating ambitious web applications.
 * [meteor ★38057](https://github.com/meteor/meteor) - An ultra-simple, database-everywhere, data-on-the-wire, pure-Javascript web framework.
 * [ractive ★5330](https://github.com/ractivejs/ractive) - Next-generation DOM manipulation.
@@ -194,7 +193,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [hyperapp ★5485](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications. 
 * [preact ★11810](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 * [nativescript ★10876](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript
-* [react-native ★52159](https://github.com/facebook/react-native) - A framework for building native apps with React.
+* [react-native ★53406](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [riot ★12229](https://github.com/riot/riot) - React-like library, but with very small size.
 * [thorax ★1369 ⏳2Y](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
 * [chaplin ★2972](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
@@ -402,6 +401,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## String
 *String Libraries.*
 
+* [voca ★1798](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 * [selecting ★56 ⏳1Y](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
 * [underscore.string ★3206](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js ★1498](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
@@ -611,6 +611,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 
 ## Notifications
 
+* [iziToast ★992](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
 * [messenger ★3951](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app.
 * [noty ★5420](https://github.com/needim/noty) - jQuery notification plugin.
 * [pnotify ★3012](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft.
@@ -820,7 +821,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [circletype ★315](https://github.com/peterhry/circletype) - A jQuery plugin that lets you curve type on the web
  * [slabText ★1323](https://github.com/freqDec/slabText) - A jQuery plugin for producing big, bold & responsive headlines
  * [simple-text-rotator ★663](https://github.com/peachananr/simple-text-rotator) - Add a super simple rotating text to your website with little to no markup
- * [novacancy.js ★140](https://github.com/chuckyglitch/novacancy.js) - Text Neon Golden effect jQuery plug-in.
+ * [novacancy.js ★140 ⏳1Y](https://github.com/chuckyglitch/novacancy.js) - Text Neon Golden effect jQuery plug-in.
  * [jquery-responsive-text ★122 ⏳2Y](https://github.com/ghepting/jquery-responsive-text) - Make your text sizing responsive!
  * [FitText.js ★6376](https://github.com/davatron5000/FitText.js) - A jQuery plugin for inflating web type
  * [Lettering.js ★4868](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript `<span>` injector for radical Web Typography
@@ -858,7 +859,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [es6-cheatsheet ★9823](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets.
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 * [Babel (Formerly 6to5) ★22144](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
-* [Traceur compiler ★7381](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
+* [Traceur compiler ★7381 ⏳1Y](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 
 
 ## SDK
@@ -900,7 +901,7 @@ http://www.listjs.com
 # Other Awesome Lists
 * [sotayamashita/awesome-css ★1094](https://github.com/sotayamashita/awesome-css)
 * [emijrp/awesome-awesome ★871](https://github.com/emijrp/awesome-awesome)
-* [bayandin/awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness)
+* [bayandin/awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness)
 * [sindresorhus/awesome ★63835](https://github.com/sindresorhus/awesome)
 * [jnv/list ★4428](https://github.com/jnv/lists)
 * [gianarb/angularjs ★2200](https://github.com/gianarb/awesome-angularjs)

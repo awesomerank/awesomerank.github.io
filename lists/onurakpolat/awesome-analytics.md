@@ -9,7 +9,7 @@ title: Awesome Rank for onurakpolat/awesome-analytics
 ---
 # Awesome Analytics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata ★4998](https://github.com/onurakpolat/awesome-bigdata).
+A curated list of awesome analytics platforms, resources and other awesomeness. Inspired by [awesome-bigdata ★5118](https://github.com/onurakpolat/awesome-bigdata).
 
 Your feedback and contributions are always welcome!
 
@@ -126,16 +126,16 @@ Often there is no clear differentiation between social media management and anal
 
 ## Analytics dashboards
 
-* [Freeboard ★4616](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
+* [Freeboard ★4680](https://github.com/Freeboard/freeboard) - open source real-time dashboard builder for IOT and other web mashups.
 * [Geckboard](https://www.geckoboard.com/) - dashboard for key metrics in one place.
 * [Ducksboard](https://ducksboard.com/) - visualize and share the data that matters most to you and your team.
 
 # Other Awesome Lists
-- Other awesome lists [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness).
+- Other awesome lists [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness).
 - Even more lists [awesome ★63835](https://github.com/sindresorhus/awesome).
 - Another list? [list ★4428](https://github.com/jnv/lists).
 - WTF! [awesome-awesome-awesome ★925](https://github.com/t3chnoboy/awesome-awesome-awesome).
-- Analytics [awesome-bigdata ★4998](https://github.com/onurakpolat/awesome-bigdata).
+- Analytics [awesome-bigdata ★5118](https://github.com/onurakpolat/awesome-bigdata).
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/onurakpolat/awesome-analytics">onurakpolat/awesome-analytics</a> with ranks

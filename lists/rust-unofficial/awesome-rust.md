@@ -198,7 +198,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [imp/cargo-info](https://gitlab.com/imp/cargo-info) [[cargo-info](https://crates.io/crates/cargo-info)] — queries crates.io for crates details from command line [<img src="https://api.travis-ci.org/imp/cargo-info.svg?branch=master">](https://travis-ci.org/imp/cargo-info)
   * [sagiegurari/cargo-make ★61](https://github.com/sagiegurari/cargo-make) [[cargo-make](https://crates.io/crates/cargo-make)] — Rust task runner and build tool. [<img src="https://api.travis-ci.org/sagiegurari/cargo-make.svg?branch=master">](https://travis-ci.org/sagiegurari/cargo-make)
   * [regexident/cargo-modules ★92](https://github.com/regexident/cargo-modules) [[cargo-modules](https://crates.io/crates/cargo-modules)] — A cargo plugin for showing a tree-like overview of a crate's modules. [<img src="https://api.travis-ci.org/regexident/cargo-modules.svg?branch=master">](https://travis-ci.org/regexident/cargo-modules)
-  * [imp/cargo-multi ★1](https://github.com/imp/cargo-multi) [[cargo-multi](https://crates.io/crates/cargo-multi)] — runs specified cargo command on multiple crates [<img src="https://api.travis-ci.org/imp/cargo-multi.svg?branch=master">](https://travis-ci.org/imp/cargo-multi)
+  * [imp/cargo-multi](https://gitlab.com/imp/cargo-multi) [[cargo-multi](https://crates.io/crates/cargo-multi)] — runs specified cargo command on multiple crates [<img src="https://api.travis-ci.org/imp/cargo-multi.svg?branch=master">](https://travis-ci.org/imp/cargo-multi)
   * [kbknapp/cargo-outdated ★105](https://github.com/kbknapp/cargo-outdated) [[cargo-outdated](https://crates.io/crates/cargo-outdated)] — displays when newer versions of Rust dependencies are available, or out of date [<img src="https://api.travis-ci.org/kbknapp/cargo-outdated.svg?branch=master">](https://travis-ci.org/kbknapp/cargo-outdated)
   * [sunng87/cargo-release ★71](https://github.com/sunng87/cargo-release) [[cargo-release](https://crates.io/crates/cargo-release)] — tool for releasing git-managed cargo project, build, tag, publish, doc and push [<img src="https://api.travis-ci.org/sunng87/cargo-release.svg?branch=master">](https://travis-ci.org/sunng87/cargo-release)
   * [DanielKeep/cargo-script ★179](https://github.com/DanielKeep/cargo-script) [[cargo-script](https://crates.io/crates/cargo-script)] — lets people quickly and easily run Rust "scripts" which can make use of Cargo's package ecosystem [<img src="https://api.travis-ci.org/DanielKeep/cargo-script.svg?branch=master">](https://travis-ci.org/DanielKeep/cargo-script)
@@ -223,7 +223,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * Docker
   * [emk/rust-musl-builder ★209](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
   * [kpcyrd/mini-docker-rust ★51](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images [<img src="https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master">](https://travis-ci.org/kpcyrd/mini-docker-rust)
-  * [rust-lang-nursery/docker-rust ★6](https://github.com/rust-lang-nursery/docker-rust) — the official Rust Docker image
+  * [rust-lang-nursery/docker-rust ★12](https://github.com/rust-lang-nursery/docker-rust) — the official Rust Docker image
 * Google App Engine
   * [DenisKolodin/rust-app-engine ★15 ⏳1Y](https://github.com/DenisKolodin/rust-app-engine) — App Engine Rust boilerplate
 * Heroku
@@ -234,7 +234,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 [Rust Embedded](http://www.rust-embedded.org)
 
 * Cross compiling
-  * [japaric/rust-cross ★611](https://github.com/japaric/rust-cross) — everything you need to know about cross compiling Rust programs [<img src="https://api.travis-ci.org/japaric/rust-cross.svg?branch=master">](https://travis-ci.org/japaric/rust-cross)
+  * [japaric/rust-cross ★611 ⏳1Y](https://github.com/japaric/rust-cross) — everything you need to know about cross compiling Rust programs [<img src="https://api.travis-ci.org/japaric/rust-cross.svg?branch=master">](https://travis-ci.org/japaric/rust-cross)
   * [japaric/xargo ★344](https://github.com/japaric/xargo) — effortless cross compilation of Rust programs to custom bare-metal targets like ARM Cortex-M [<img src="https://api.travis-ci.org/japaric/xargo.svg?branch=master">](https://travis-ci.org/japaric/xargo)
 * Raspberry Pi
   * [Ogeon/rust-on-raspberry-pi ★238](https://github.com/Ogeon/rust-on-raspberry-pi) — instructions for how to cross compile Rust projects for the Raspberry Pi .
@@ -419,6 +419,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
 
 ### Command-line interface
 
+* [imp/pager-rs](https://gitlab.com/imp/pager-rs) — helps pipe your output through an external pager [![Build Status](https://gitlab.com/imp/pager-rs/badges/master/build.svg)](https://gitlab.com/imp/pager-rs/pipelines)
 * [kkawakam/rustyline ★107](https://github.com/kkawakam/rustyline) — Readline Implementation in Rust [![Build Status](https://api.travis-ci.org/kkawakam/rustyline.svg?branch=master)](https://travis-ci.org/kkawakam/rustyline)
 * [srijs/rust-copperline ★22 ⏳1Y](https://github.com/srijs/rust-copperline) — pure-Rust Command Line Editing Library
 
@@ -729,13 +730,15 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [Qt](http://doc.qt.io)
   * [cyndis/qmlrs ★367 ⏳1Y](https://github.com/cyndis/qmlrs) — QtQuick bindings [<img src="https://api.travis-ci.org/cyndis/qmlrs.svg?branch=master">](https://travis-ci.org/cyndis/qmlrs)
   * [kitech/qt.rs ★22 ⏳1Y](https://github.com/kitech/qt.rs) — Qt5 bindings [<img src="https://api.travis-ci.org/kitech/qt.rs.svg?branch=master">](https://travis-ci.org/kitech/qt.rs)
+  * [Rust Qt Binding Generator](https://phabricator.kde.org/source/rust-qt-binding-generator/) — Binding generator hosted by KDE.
   * [rust-qt](https://github.com/rust-qt) —
   * [White-Oak/qml-rust ★106](https://github.com/White-Oak/qml-rust) — QML bindings. [<img src="https://api.travis-ci.org/White-Oak/qml-rust.svg?branch=master">](https://travis-ci.org/White-Oak/qml-rust)
 * [saurvs/nfd-rs](https://github.com/saurvs/nfd-rs) — [nativefiledialog ★426](https://github.com/mlabbe/nativefiledialog) bindings
 * [Sciter](https://sciter.com/)
-  * [sciter-sdk/rust-sciter ★96](https://github.com/sciter-sdk/rust-sciter) — Sciter bindings [<img src="https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true">](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
+  * [sciter-sdk/rust-sciter ★99](https://github.com/sciter-sdk/rust-sciter) — Sciter bindings [<img src="https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true">](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
 * [Termbox ★1097](https://github.com/nsf/termbox)
   * [gchp/rustbox ★283](https://github.com/gchp/rustbox) — a Rust implementation of Termbox [<img src="https://api.travis-ci.org/gchp/rustbox.svg?branch=master">](https://travis-ci.org/gchp/rustbox)
+  * [ticki/termion ★542](https://github.com/ticki/termion) - A bindless library for controlling terminals/TTY - provides a full-featured alternative to Termbox [<img src="https://travis-ci.org/ticki/termion.svg?branch=master">](https://travis-ci.org/ticki/termion)
 
 
 ### Image processing
@@ -829,7 +832,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Platform specific
 
 * Linux
-  * [hannobraun/inotify-rs ★54](https://github.com/hannobraun/inotify-rs) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [<img src="https://api.travis-ci.org/hannobraun/inotify-rs.svg?branch=master">](https://travis-ci.org/hannobraun/inotify-rs)
+  * [inotify-rs/inotify ★57](https://github.com/inotify-rs/inotify) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [<img src="https://api.travis-ci.org/inotify-rs/inotify.svg?branch=master">](https://travis-ci.org/inotify-rs/inotify)
   * [yaa110/rust-iptables ★10](https://github.com/yaa110/rust-iptables) — [iptables](https://www.netfilter.org/projects/iptables/index.html) bindings [<img src="https://api.travis-ci.org/yaa110/rust-iptables.svg?branch=master">](https://travis-ci.org/yaa110/rust-iptables)
 * Unix-like
   * [nix-rust/nix ★521](https://github.com/nix-rust/nix) — Unix-like API bindings [<img src="https://api.travis-ci.org/nix-rust/nix.svg?branch=master">](https://travis-ci.org/nix-rust/nix)
@@ -892,8 +895,7 @@ See also [Rust web framework comparison ★488](https://github.com/flosse/rust-w
   * [hyperium/hyper ★2736](https://github.com/hyperium/hyper) — an HTTP implementation [<img src="https://api.travis-ci.org/hyperium/hyper.svg?branch=master">](https://travis-ci.org/hyperium/hyper)
   * [seanmonstar/reqwest ★320](https://github.com/seanmonstar/reqwest) — an ergonomic HTTP Client for Rust. [<img src="https://api.travis-ci.org/seanmonstar/reqwest.svg?branch=master">](https://travis-ci.org/seanmonstar/reqwest)
 * HTTP Server
-  * [fengsp/pencil ★826](https://github.com/fengsp/pencil) — [<img src="https://api.travis-ci.org/fengsp/pencil.svg?branch=master">](https://travis-ci.org/fengsp/pencil)
-  * [Gotham ★155](https://github.com/gotham-rs/gotham) — A flexible web framework that does not sacrifice safety, security or speed. [<img src="https://api.travis-ci.org/gotham-rs/gotham.svg?branch=master">](https://travis-ci.org/gotham-rs/gotham)
+  * [Gotham ★372](https://github.com/gotham-rs/gotham) — A flexible web framework that does not sacrifice safety, security or speed. [<img src="https://api.travis-ci.org/gotham-rs/gotham.svg?branch=master">](https://travis-ci.org/gotham-rs/gotham)
   * [hyperium/hyper ★2736](https://github.com/hyperium/hyper) — an HTTP implementation [<img src="https://api.travis-ci.org/hyperium/hyper.svg?branch=master">](https://travis-ci.org/hyperium/hyper)
   * [GildedHonour/frank_jwt ★80](https://github.com/GildedHonour/frank_jwt) — JSON Web Token implementation in Rust. [<img src="https://api.travis-ci.org/iron/iron.svg?branch=master">](https://travis-ci.org/iron/iron)
   * [Iron ★4384](https://github.com/iron/iron) — a middleware-based server framework [<img src="https://api.travis-ci.org/GildedHonour/frank_jwt.svg?branch=master">](https://travis-ci.org/GildedHonour/frank_jwt)
@@ -904,7 +906,7 @@ See also [Rust web framework comparison ★488](https://github.com/flosse/rust-w
   * [Rustless](https://github.com/rustless/rustless) — a REST-like API micro-framework inspired by [Grape](https://github.com/ruby-grape/grape) and [Hyper ★2736](https://github.com/hyperium/hyper) [<img src="https://api.travis-ci.org/rustless/rustless.svg?branch=master">](https://travis-ci.org/rustless/rustless)
   * [sappworks/sapper ★381](https://github.com/sappworks/sapper) — A lightweight web framework built on async hyper, implemented in Rust language. [<img src="https://api.travis-ci.org/sappworks/sapper.svg?branch=master">](https://travis-ci.org/sappworks/sapper)
   * [tiny-http ★232](https://github.com/tiny-http/tiny-http) — Low level HTTP server library [<img src="https://api.travis-ci.org/frewsxcv/tiny-http.svg?branch=master">](https://travis-ci.org/frewsxcv/tiny-http)
-  * [tomaka/rouille ★212](https://github.com/tomaka/rouille) — Web framework in Rust[<img src="https://api.travis-ci.org/tomaka/rouille.svg?branch=master">](https://travis-ci.org/tomaka/rouille)
+  * [tomaka/rouille ★212](https://github.com/tomaka/rouille) — Web framework in Rust [<img src="https://api.travis-ci.org/tomaka/rouille.svg?branch=master">](https://travis-ci.org/tomaka/rouille)
 * [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
   * [cyderize/rust-websocket ★379](https://github.com/cyderize/rust-websocket) — a framework for dealing with WebSocket connections (both clients and servers) [<img src="https://api.travis-ci.org/cyderize/rust-websocket.svg?branch=master">](https://travis-ci.org/cyderize/rust-websocket)
   * [housleyjk/ws-rs ★393](https://github.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets for Rust [<img src="https://api.travis-ci.org/housleyjk/ws-rs.svg?branch=stable">](https://travis-ci.org/housleyjk/ws-rs)

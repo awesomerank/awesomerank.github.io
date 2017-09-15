@@ -93,14 +93,14 @@ great software, presented by GitHub. October 1 & 2, 2015, SF.
 - [TinyPress](https://tinypress.co/) - TinyPress is the easiest way to publish a blog on GitHub.
 - [Issue and Pull Request Template Generator](https://www.talater.com/open-source-templates/) - Generate templates customized to your project, with the help of Cthulhu and Lewis Carroll
 - [Noteit ★9](https://github.com/Krukov/noteit) - Manage your notes at CLI with GitHub Gists.
-- [Zappr ★287](https://github.com/zalando/zappr) - A free/open-source GitHub integration that removes bottlenecks around pull request approval and helps dev teams to painlessly abide by compliance requirements.
+- [Zappr ★302](https://github.com/zalando/zappr) - A free/open-source GitHub integration that removes bottlenecks around pull request approval and helps dev teams to painlessly abide by compliance requirements.
 - [Migrating to Git LFS](http://vooban.com/en/tips-articles-geek-stuff/migrating-to-git-lfs-for-developing-deep-learning-applications-with-large-files/) - Easily manage huge files in your Git projects, useful for Data Science projects
 
 
 ## Novel uses of GitHub
 
 - [Mozilla Festival ★41 ⏳2Y](https://github.com/mozilla/mozfest-program) - Mozfest 2015 Program on GitHub.
-- [Open Source Society University ★23403](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
+- [Open Source Society University](https://github.com/open-source-society/computer-science) - Path to a free self-taught education in Computer Science.
 - [Clef's Handbook ★2493](https://github.com/clef/handbook) - An employee handbook built for inclusion.
 - [The United States Code ★643](https://github.com/divegeek/uscode) - The complete United States Code.
 - [Le code civil français sous git ★2557 ⏳2Y](https://github.com/steeve/france.code-civil) - French Civil Code on GitHub.

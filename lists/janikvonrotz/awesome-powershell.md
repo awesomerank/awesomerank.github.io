@@ -45,7 +45,7 @@ It includes a command-line shell and an associated scripting language.
 - [PSGitHub ★36](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API. 
 - [Posh-Github ★51 ⏳1Y](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
 - [Posh-Gist ★18 ⏳1Y](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
-- [PSGist ★13](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists. http://dotps1.github.io/PSGist.
+- [PSGist ★13 ⏳1Y](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists. http://dotps1.github.io/PSGist.
 - [PSAppVeyor ★7](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
 - [PSSlack ★66](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration http://ramblingcookiemonster.github.io/PSSlack/
 
@@ -61,8 +61,8 @@ It includes a command-line shell and an associated scripting language.
 
 ## Build Tools
 
-* [psake ★974](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
-* [Invoke-Build ★188](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
+* [psake ★986](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
+* [Invoke-Build ★195](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
 * [PSDeploy ★129](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
 * [BuildHelpers ★49](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
 * [YDeliver ★31 ⏳2Y](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
@@ -76,11 +76,11 @@ It includes a command-line shell and an associated scripting language.
 
 ## Commandline Productivity
 
-- [posh-git ★2366](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
+- [posh-git ★2419](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
 - [PSReadLine ★889](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
 - [TabExpansionPlusPlus ★104](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
-- [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump ★5753](https://github.com/wting/autojump) implementation for powershell.
-- [Zlocation](https://github.com/vors/ZLocation) - [z.sh ★7044](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
+- [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump ★5862](https://github.com/wting/autojump) implementation for powershell.
+- [Zlocation](https://github.com/vors/ZLocation) - [z.sh ★7174](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
 - [thefuck ★29595](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
 - [pslinq ★25 ⏳3Y](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell.
 - [posh-with ★4 ⏳1Y](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.

@@ -37,7 +37,7 @@ Pull requests very welcome.
 
 ## Application Frameworks
 
-* [cfwheels ★173](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails.
+* [cfwheels ★175](https://github.com/cfwheels/cfwheels) - An open source ColdFusion framework inspired by Ruby on Rails.
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
 * [FW/1 - Framework One ★354](https://github.com/framework-one/fw1) - a lightweight, convention over configuration, MVC application framework
@@ -45,7 +45,7 @@ Pull requests very welcome.
 
 ## Testing
 
-* [CFSelenium ★72](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
+* [CFSelenium ★71](https://github.com/teamcfadvance/CFSelenium) - A native Selenium RC binding for ColdFusion
 * [MockBox](http://wiki.coldbox.org/wiki/MockBox.cfm) - The ColdFusion Mocking/Stubbing Framework
 * [MXUnit ★82](https://github.com/mxunit/mxunit) - xUnit style unit testing framework
 * [mxunit-watch ★13 ⏳1Y](https://github.com/atuttle/mxunit-watch) - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
@@ -60,10 +60,10 @@ Pull requests very welcome.
 ## CMS
 
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
-* [ContentBox ★66](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
+* [ContentBox ★67](https://github.com/Ortus-Solutions/ContentBox) - A powerful modular content management engine
 * [FarCry CMS ★7](https://github.com/farcrycore/plugin-farcrycms)
-* [Mura ★232](https://github.com/blueriver/MuraCMS)
-* [Preside CMS ★33](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
+* [Mura ★233](https://github.com/blueriver/MuraCMS)
+* [Preside CMS ★34](https://github.com/pixl8/Preside-CMS) - an open source CMS for the Railo language
 * [Slatwall ★114](https://github.com/ten24/Slatwall) - An Open Source Commerce Platform
 
 ## NoSQL
@@ -89,7 +89,7 @@ Pull requests very welcome.
 * [JavaLoader ★45](https://github.com/markmandel/JavaLoader) - JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.
 * [LogBox](http://wiki.coldbox.org/wiki/LogBox.cfm) - The Enterprise ColdFusion Logging Library
 * [Moment.cfc ★31](https://github.com/AlumnIQ/momentcfc) - Moment.js inspired date/time manipulation library for CFML (not a direct port)
-* [Mustache.cfc ★41 ⏳1Y](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion
+* [Mustache.cfc ★42 ⏳1Y](https://github.com/rip747/Mustache.cfc) - [{{ mustache }}](http://mustache.github.io) for ColdFusion
 * [UnderscoreCF ★75 ⏳1Y](https://github.com/russplaysguitar/UnderscoreCF) - An UnderscoreJS port for Coldfusion. Functional programming library.
 * [ValidateThis](http://validatethis.org) - A Validation Framework for ColdFusion Objects
 
@@ -99,13 +99,13 @@ Pull requests very welcome.
 * [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML)
 * [cfbrackets](http://cfbrackets.org) - adds support for ColdFusion Markup Language (CFML) to [Brackets Code Editor](http://brackets.io/)
 * [CFEclipse](http://cfeclipse.org) - CFML Plugin for [Eclipse](http://www.eclipse.org/)
-* [CFML Language for Atom ★39](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
-* [CFML Package for Sublime Text 3 ★89](https://github.com/jcberquist/sublimetext-cfml) - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
+* [CFML Language for Atom ★40](https://github.com/atuttle/atom-language-cfml) - CFML Language plugin for [Atom](https://atom.io/)
+* [CFML Package for Sublime Text 3 ★91](https://github.com/jcberquist/sublimetext-cfml) - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
 * [TextMate ★11](https://github.com/textmate/coldfusion.tmbundle) - [TextMate](http://macromates.com) support for ColdFusion
 
 ## Tools
 
-* [CommandBox ★36](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more
+* [CommandBox ★37](https://github.com/Ortus-Solutions/commandbox) - ColdFusion (CFML) CLI, Package Manager, REPL and more
 * [Unofficial Updater](http://www.uu-2.info/) - A utility that helps install ColdFusion hotfixes
 
 ## References
@@ -114,7 +114,7 @@ Pull requests very welcome.
 * [CF411](http://carehart.org/cf411/) - CF411: 1,800+ Tools and Resources for CFers, (in over 150 categories) by Charlie Arehart
 * [CFLib](http://cflib.org/) - Common Function Library Project
 * [ColdFusion Koans ★61 ⏳1Y](https://github.com/nodoherty/ColdFusion-Koans) - The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values
-* [ColdFusion UI the Right Way ★86 ⏳1Y](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
+* [ColdFusion UI the Right Way ★87 ⏳1Y](https://github.com/cfjedimaster/ColdFusion-UI-the-Right-Way) - A list of articles demonstrating how to do UI with ColdFusion on the back end.
 * [Learn CF in a Week](http://www.learncfinaweek.com) - community driven training program that teaches all the basics you need to be a ColdFusion Developer in one week.
 * [Try ColdFusion](http://trycf.com/) - Realtime interactive learning tool for CFML
 

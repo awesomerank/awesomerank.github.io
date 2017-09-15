@@ -433,7 +433,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 ## Algorithms
 
 * [A great list of Java interview questions](http://java2novice.com/java-interview-programs/)
-* [Algorithms playground for common interview questions written in Ruby ★2845](https://github.com/sagivo/algorithms)
+* [Algorithms playground for common interview questions written in Ruby ★2858](https://github.com/sagivo/algorithms)
 * [EKAlgorithms contains some well known CS algorithms & data structures ★2238](https://github.com/EvgenyKarkan/EKAlgorithms)
 * [Five programming problems every Software Engineer should be able to solve in less than 1 hour](http://www.shiftedup.com/2015/05/07/five-programming-problems-every-software-engineer-should-be-able-to-solve-in-less-than-1-hour)
 * [Top 10 Algorithms for Coding Interview](http://www.programcreek.com/2012/11/top-10-algorithms-for-coding-interview/)
@@ -442,7 +442,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 ## Coding exercises
 
 * [Common interview questions and puzzles solved in a number of languages ★261](https://github.com/mre/the-coding-interview)
-* [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions ★10839](https://github.com/donnemartin/interactive-coding-challenges)
+* [Interactive, test-driven Python coding challenges (algorithms and data structures) typically found in coding interviews or coding competitions ★10981](https://github.com/donnemartin/interactive-coding-challenges)
 * [Interview questions solved in python ★67 ⏳1Y](https://github.com/roseperrone/interview-questions)
 
 ## Comprehensive lists

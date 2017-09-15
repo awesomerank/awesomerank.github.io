@@ -125,7 +125,7 @@ The hardware,virtual machines, fram management, docker
 ## Dev env
 * [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.  
 * [vagrantup](https://www.vagrantup.com/)  Create and configure lightweight, reproducible, and portable development environments.  
-* [veewee ★4100](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
+* [veewee ★4117](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
 
 ## Source Code Management
 Version control and source code management tools  
@@ -248,7 +248,7 @@ Linux shell, perl, python
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
 * [awesome-python ★37548](https://github.com/vinta/awesome-python)  
 * [awesome-perl ★353](https://github.com/hachiojipm/awesome-perl)  
-* [awesome-sysadmin ★15733](https://github.com/kahun/awesome-sysadmin)  
+* [awesome-sysadmin ★15880](https://github.com/kahun/awesome-sysadmin)  
 
 ## Applications And Container
 VM application and container  
@@ -279,12 +279,12 @@ Conference and submit
 Other amazingly awesome lists can be found in  
 * [awesome ★63835](https://github.com/sindresorhus/awesome)  
 * [awesome-awesome ★871](https://github.com/emijrp/awesome-awesome)  
-* [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness)  
+* [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin ★5](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 * [ci tools compare 3 ★389](https://github.com/ligurio/Continuous-Integration-services)
-* [awesome-docker ★7775](https://github.com/veggiemonk/awesome-docker)  
+* [awesome-docker ★8039](https://github.com/veggiemonk/awesome-docker)  
 
 ## Contact
 Welcome To add new items about continuous integration and continuous delivery.  

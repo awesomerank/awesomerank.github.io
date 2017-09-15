@@ -61,17 +61,17 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 
 * [pyramid_formalchemy ★48 ⏳4Y](https://github.com/FormAlchemy/pyramid_formalchemy) -
   provides a CRUD interface for pyramid based on FormAlchemy.
-* [pyramid_sacrud ★42](https://github.com/sacrud/pyramid_sacrud) -    Pyramid CRUD interface.
+* [pyramid_sacrud ★43](https://github.com/sacrud/pyramid_sacrud) -    Pyramid CRUD interface.
   Provides an administration web interface for Pyramid.
   Unlike classic CRUD, pyramid_sacrud allows overrides and flexibility to
   customize your interface, similar to django.contrib.admin but uses a
   different backend to provide resources. [New Architecture](
   <http://pyramid-sacrud.readthedocs.io/pages/contribute/architecture.html>)
   built on the resources and mechanism traversal, allows to use it in various cases.
-    * [ps_alchemy ★5](https://github.com/sacrud/ps_alchemy) - extension for pyramid_sacrud
+    * [ps_alchemy ★6](https://github.com/sacrud/ps_alchemy) - extension for pyramid_sacrud
       which provides SQLAlchemy models.
     * [ps_tree ★2 ⏳2Y](https://github.com/sacrud/ps_tree) - extension for
-      [pyramid_sacrud ★42](https://github.com/sacrud/pyramid_sacrud) which displays
+      [pyramid_sacrud ★43](https://github.com/sacrud/pyramid_sacrud) which displays
       a list of records as tree. This works fine with models from
       [sqlalchemy_mptt ★100](https://github.com/uralbash/sqlalchemy_mptt).
 * [Websauna](https://websauna.org/docs/) - a full stack application framework for Pyramid
@@ -87,13 +87,13 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 
 ## Async
 
-* [aiopyramid ★63](https://github.com/housleyjk/aiopyramid) - Run pyramid using
+* [aiopyramid ★64](https://github.com/housleyjk/aiopyramid) - Run pyramid using
   asyncio.
-* [gevent-socketio ★1128 ⏳1Y](https://github.com/abourget/gevent-socketio) -
+* [gevent-socketio ★1136 ⏳1Y](https://github.com/abourget/gevent-socketio) -
   gevent-socketio is a Python implementation of the Socket.IO protocol,
   developed originally for Node.js by LearnBoost and then ported to other
   languages.
-* [Stargate ★39 ⏳5Y](https://github.com/boothead/stargate) - Stargate is a package for
+* [Stargate ★38 ⏳5Y](https://github.com/boothead/stargate) - Stargate is a package for
   adding WebSockets support to pyramid applications using the excellent
   eventlet library for long running connections.
 * [channelstream ★15](https://github.com/AppEnlight/channelstream) - websocket communication server (gevent).
@@ -108,17 +108,17 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
   services for your Pyramid application based on the ldap3 package.
 * [pyramid_who ★10 ⏳5Y](https://github.com/Pylons/pyramid_who) - Authentication policy
   for pyramid using repoze.who 2.0 API.
-* [velruse ★254](https://github.com/bbangert/velruse) - Simplifying third-party
+* [velruse ★253](https://github.com/bbangert/velruse) - Simplifying third-party
   authentication for web applications. it supports most of auth
   [providers](https://github.com/bbangert/velruse/tree/master/velruse/providers).
-* [pyramid_simpleauth ★29 ⏳1Y](https://github.com/thruflo/pyramid_simpleauth) - session
+* [pyramid_simpleauth ★30 ⏳1Y](https://github.com/thruflo/pyramid_simpleauth) - session
   based authentication and role based security for Pyramid application
 * [Python Social Auth ★2685](https://github.com/omab/python-social-auth) - Social
   authentication/registration mechanism with support for a large number of
-  [providers ★2682](https://github.com/omab/python-social-auth#auth-providers).
-* [Authomatic ★808](https://github.com/authomatic/authomatic) -  Simple yet powerful
+  [providers ★2693](https://github.com/omab/python-social-auth#auth-providers).
+* [Authomatic ★814](https://github.com/authomatic/authomatic) -  Simple yet powerful
   authorization / authentication client library for Python web applications.
-* [apex ★90 ⏳2Y](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project,
+* [apex ★91 ⏳2Y](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project,
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
   database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.
 * [pyramid_authsanity ★10](https://github.com/usingnamespace/pyramid_authsanity) -
@@ -143,7 +143,7 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 * [ziggurat_foundations ★40](https://github.com/ergo/ziggurat_foundations) -
   Framework agnostic set of sqlalchemy classes that make building applications
   that require permissions an easy task.
-* [pyramid_multiauth ★36](https://github.com/mozilla-services/pyramid_multiauth) -
+* [pyramid_multiauth ★37](https://github.com/mozilla-services/pyramid_multiauth) -
   An authentication policy for Pyramid that proxies to a stack of other
   authentication policies.
 * [pyramid_authstack ★10 ⏳4Y](https://github.com/wichert/pyramid_authstack) -  Use
@@ -192,7 +192,7 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 
 *Packages that help manage email sending.*
 
-* [pyramid_mailer ★47](https://github.com/Pylons/pyramid_mailer) - A package for
+* [pyramid_mailer ★48](https://github.com/Pylons/pyramid_mailer) - A package for
   sending email from your Pyramid application.
 * [pyramid_marrowmailer ★4 ⏳2Y](https://github.com/domenkozar/pyramid_marrowmailer) -
   Pyramid integration package for marrow.mailer, formerly known as TurboMail
@@ -205,7 +205,7 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 
 * [deform ★275](https://github.com/Pylons/deform) - is a Python HTML form generation
   library.
-* [colander ★298](https://github.com/Pylons/colander) - A
+* [colander ★303](https://github.com/Pylons/colander) - A
   serialization/deserialization/validation library for strings, mappings and
   lists.
 * [WTForms ★707](https://github.com/wtforms/wtforms) - is a flexible forms
@@ -221,7 +221,7 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 
 * [pyramid_elfinder ★1 ⏳2Y](https://github.com/uralbash/pyramid_elfinder) - This is
   conector for elfinder file manager, written for pyramid framework.
-* [pyramid_storage ★10 ⏳1Y](https://github.com/danjac/pyramid_storage) - This is a package for handling file uploads in your Pyramid framework application.
+* [pyramid_storage ★9 ⏳1Y](https://github.com/danjac/pyramid_storage) - This is a package for handling file uploads in your Pyramid framework application.
 
 ## RESTful API
 
@@ -242,11 +242,11 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
   APIs.
 * [webargs ★480](https://github.com/sloria/webargs) - A friendly library for parsing
   HTTP request arguments, with built-in support for popular web frameworks.
-* [ramses ★276](https://github.com/ramses-tech/ramses) - Generate a RESTful API using
+* [ramses ★278](https://github.com/ramses-tech/ramses) - Generate a RESTful API using
   RAML. It uses Nefertari which provides ElasticSearch-powered views.
-* [nefertari ★49](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST
+* [nefertari ★50](https://github.com/ramses-tech/nefertari) -  Nefertari is a REST
   API framework sitting on top of Pyramid and ElasticSearch
-* [pyramid_swagger ★47](https://github.com/striglia/pyramid_swagger) - Convenient
+* [pyramid_swagger ★48](https://github.com/striglia/pyramid_swagger) - Convenient
   tools for using Swagger to define and validate your interfaces in a Pyramid webapp.
 
 ## Search
@@ -274,7 +274,7 @@ based on [awesome-python ★37548](https://github.com/vinta/awesome-python).
 * [pyramid_services ★57](https://github.com/mmerickel/pyramid_services) - defines a
   pattern and helper methods for accessing a pluggable service layer from
   within your Pyramid apps.
-* [hupper ★34](https://github.com/Pylons/hupper) - A process monitor/reloader for developers
+* [hupper ★36](https://github.com/Pylons/hupper) - A process monitor/reloader for developers
     that can watch files for changes and restart the process.
 
 ## Storage
@@ -313,7 +313,7 @@ provide new storage backends.*
 
 * [pyramid_mako ★19](https://github.com/Pylons/pyramid_mako) - Mako templating
   system bindings for the Pyramid web framework.
-* [pyramid_chameleon ★8](https://github.com/Pylons/pyramid_chameleon) - Chameleon
+* [pyramid_chameleon ★9](https://github.com/Pylons/pyramid_chameleon) - Chameleon
   template compiler for pyramid.
 * [pyramid_jinja2 ★68](https://github.com/Pylons/pyramid_jinja2) - Jinja2
   templating system bindings for the Pyramid web framework.
@@ -351,7 +351,7 @@ provide new storage backends.*
   for managing UI layouts.
 * [pyramid_skins ★0](https://github.com/Pylons/pyramid_skins) - This package
   provides a simple framework to integrate code with templates and resources.
-* [waitress ★345](https://github.com/Pylons/waitress) - Waitress is meant to be a
+* [waitress ★350](https://github.com/Pylons/waitress) - Waitress is meant to be a
   production-quality pure-Python WSGI server with very acceptable performance.
   It has no dependencies except ones which live in the Python standard library.
 * [pyramid_handlers ★9 ⏳4Y](https://github.com/Pylons/pyramid_handlers) - analogue of
@@ -394,7 +394,7 @@ provide new storage backends.*
   built upon the Pyramid web framework. It provides a user interface for
   managing content as well as libraries and utilities which make it easy to
   create applications.
-* [Kotti ★314](https://github.com/Kotti/Kotti) - A user-friendly, light-weight and
+* [Kotti ★317](https://github.com/Kotti/Kotti) - A user-friendly, light-weight and
   extensible web content management system. Based on Pyramid and SQLAlchemy.
 * [KARL](https://karlproject.readthedocs.io/en/latest/) - A moderately-sized
   application (roughly 80K lines of Python code) built on top of Pyramid. It is
@@ -424,7 +424,7 @@ provide new storage backends.*
 * [cluegun ★23 ⏳5Y](https://github.com/Pylons/cluegun) - A simple pastebin application
   based on Rocky Burt’s ClueBin. It demonstrates form processing, security, and
   the use of ZODB within a Pyramid application.
-* [shootout ★100 ⏳3Y](https://github.com/Pylons/shootout) - An example “idea
+* [shootout ★100 ⏳4Y](https://github.com/Pylons/shootout) - An example “idea
   competition” application by Carlos de la Guardia and Lukasz Fidosz. It
   demonstrates URL dispatch, simple authentication, integration with SQLAlchemy
   and pyramid_simpleform.

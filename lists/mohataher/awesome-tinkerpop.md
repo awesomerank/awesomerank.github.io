@@ -70,6 +70,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [gremlin-driver](http://tinkerpop.apache.org/docs/current/reference/#connecting-via-java) (java) - A Gremlin Server driver for Java.
 * [neo4j-tinkerpop-api ★4 ⏳2Y](https://github.com/neo4j-contrib/neo4j-tinkerpop-api) - Apache Licensed Neo4j API for TinkerPop3.
 * [neo4j-gremlin-bolt ★23](https://github.com/SteelBridgeLabs/neo4j-gremlin-bolt) - Allows use of the Apache Tinkerpop Java API with the neo4j server using the BOLT protocol.
+* [Ferma ★51](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack.
 
 ##### Javascript
 * [ts-tinkerpop ★26 ⏳1Y](https://github.com/RedSeal-co/ts-tinkerpop) - Utilities for using TinkerPop3 via the node-java API in Typescript.
@@ -92,6 +93,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 ##### Scala
 * [Gremlin Scala ★327](https://github.com/mpollmeier/gremlin-scala) - Scala wrapper for Apache TinkerPop3 Graph DSL.
+* [blueprints-scala ★81 ⏳1Y](https://github.com/anvie/blueprints-scala) - Tinkerpop Blueprints Scala.
 
 #### <A NAME="qlang"></A>Query Languages
 * [gremlin-py ★31](https://github.com/emehrkay/gremlinpy) - Write pure Python Gremlin that can be sent to Gremlin Server.
@@ -104,7 +106,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [sql-gremlin ★34](https://github.com/twilmes/sql-gremlin) - A SQL to Gremlin traversal compiler.
 
 ### <A NAME="tinkerpop2"></A>TinkerPop 2 Libraries
-* [Ferma ★51](https://github.com/Syncleus/Ferma) - An active reworking of TinkerPop frames.
+* [Ferma ★51](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack.
 * [Frames ★137](https://github.com/tinkerpop/frames) - An Object to Graph Framework.
 * [Archimedes ★35 ⏳1Y](https://github.com/clojurewerkz/archimedes) - Clojure library for Blueprints (part of the TinkerPop graph stack).
 * [AccumuloGraph ★28 ⏳1Y](https://github.com/JHUAPL/AccumuloGraph) - An implementation of TinkerPop Blueprints using Accumulo.
@@ -138,9 +140,9 @@ A curated list of only awesome TinkerPop libraries on Github.
 
 
 ## <A NAME="contributing"></A>How to Contribute
-Please follow the [guideliness here](https://github.com/mohataher/awesome-tinkerpop/blob/master/contributing.md). Please, make sure your contribution and PR are awesome!
 ![alt tag](https://github.com/mohataher/awesome-tinkerpop/blob/master/awesome-tinkerpop.jpg)
 
+Please follow the [guideliness here](https://github.com/mohataher/awesome-tinkerpop/blob/master/contributing.md). Please, make sure your contribution and PR are awesome!
 
 ## <A NAME="license"></A>License
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)

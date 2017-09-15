@@ -187,7 +187,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
 * [Sprockets ★2698 ⏳1Y](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * [Torba ★166 ⏳1Y](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
-* [Webpacker ★1978](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
+* [Webpacker ★2152](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ## Authentication and OAuth
 
@@ -448,7 +448,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Logstash ★7856](https://github.com/elastic/logstash) - Logs/event transport, processing, management, search.
 * [Mina ★3605](https://github.com/mina-deploy/mina) - Really fast deployer and server automation tool.
 * [Puppet ★4595](https://github.com/puppetlabs/puppet) - An automated administrative engine for your Linux, Unix, and Windows systems, performs administrative tasks (such as adding users, installing packages, and updating server configurations) based on a centralized specification.
-* [Request-log-analyzer ★2132](https://github.com/wvanbergen/request-log-analyzer) - Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.
+* [Request-log-analyzer ★2132 ⏳1Y](https://github.com/wvanbergen/request-log-analyzer) - Create reports based on your log files. Supports Rails, Apache, MySQL, Delayed::Job, and other formats.
 * [Rubber ★1496](https://github.com/rubber/rubber) - The rubber plugin enables relatively complex multi-instance deployments of RubyOnRails applications to Amazon's Elastic Compute Cloud (EC2).
 * [SSHKey ★194](https://github.com/bensie/sshkey) - SSH private and public key generator in pure Ruby (RSA & DSA).
 * [Ruby-LXC ★96](https://github.com/lxc/ruby-lxc) - Native ruby binding for Linux containers.
@@ -492,7 +492,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Eeepub ★212 ⏳4Y](https://github.com/jugyo/eeepub) - EeePub is a Ruby ePub generator.
 * [Gepub ★144](https://github.com/skoji/gepub) - A generic EPUB library for Ruby : supports EPUB 3.
 * [Git Scribe ★1310 ⏳2Y](https://github.com/schacon/git-scribe) - Basically the best way to write an ebook.
-* [Mobi ★31 ⏳1Y](https://github.com/jkongie/mobi) - A Ruby way to read MOBI format metadata.
+* [Mobi ★31 ⏳2Y](https://github.com/jkongie/mobi) - A Ruby way to read MOBI format metadata.
 * [Review ★540](https://github.com/kmuto/review) - Re:VIEW is flexible document format/conversion system.
 
 ## Email
@@ -707,7 +707,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 ## Mobile Development
 
 * [dryrun ★2743](https://github.com/cesarferreira/dryrun) - Try any Android library on your smartphone directly from the command line.
-* [fastlane ★17489](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
+* [fastlane ★18074](https://github.com/fastlane/fastlane) - Connect all iOS deployment tools into one streamlined workflow.
 * [Ruboto ★1978](https://github.com/ruboto/ruboto) - A platform for developing full stand-alone apps for Android using the Ruby language and libraries.
 * [RubyMotion](http://www.rubymotion.com) - A revolutionary toolchain that lets you quickly develop and test full-fledged native iOS and OS X applications for iPhone, iPad, Mac and Android.
 * [Ruby Push Notifications ★347](https://github.com/calonso/ruby-push-notifications) - iOS, Android and Windows Phone Push notifications made easy.
@@ -733,7 +733,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Text ★530 ⏳2Y](https://github.com/threedaymonk/text) - A collection of text algorithms including Levenshtein distance, Metaphone, Soundex 2, Porter stemming & White similarity.
 * [Treat ★1278](https://github.com/louismullie/treat) - Treat is a toolkit for natural language processing and computational linguistics in Ruby.
 * [Treetop ★92 ⏳1Y](https://github.com/cjheath/treetop) - PEG (Parsing Expression Grammar) parser.
-* [Words Counted ★104](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
+* [Words Counted ★104 ⏳1Y](https://github.com/abitdodgy/words_counted) - A highly customisable Ruby text analyser and word counter.
 
 ## Navigation
 
@@ -870,7 +870,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Profiler and Optimization
 
-* [batch-loader ★10](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+* [batch-loader ★238](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 * [benchmark-ips ★996](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 * [bullet ★4757](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 * [Derailed Benchmarks ★1727](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.

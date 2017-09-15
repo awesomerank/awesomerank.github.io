@@ -71,7 +71,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - RabbitMQ offers a MQTT Adapter.
 * [SurgeMQ](http://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 * [VerneMQ](https://vernemq.com/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
-* [Vert.x MQTT ★33](https://github.com/vert-x3/vertx-mqtt) - Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.
+* [Vert.x MQTT ★40](https://github.com/vert-x3/vertx-mqtt) - Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.
 
 
 ### Tools
@@ -106,7 +106,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqtt-elements ★20](https://github.com/mqttjs/mqtt-elements) - Polymer elements for MQTT.
 * [mqttex ★40 ⏳2Y](https://github.com/alfert/mqttex) - MQTT implementation in Elixir.
 * [MQTTKit ★368 ⏳1Y](https://github.com/mobile-web-messaging/MQTTKit) - MQTT Objective-C client for iOS.
-* [mqtt_client_cpp ★18](https://github.com/redboltz/mqtt_client_cpp) - MQTT client for C++14 based on Boost.Asio.
+* [mqtt_cpp ★19](https://github.com/redboltz/mqtt_cpp) - MQTT client for C++14 based on Boost.Asio.
 * [mqtt_lua](http://geekscape.github.io/mqtt_lua/) - MQTT Client library for the Lua language.
 * [MQTT.js](https://github.com/mqttjs) - MQTT client for Node.js.
 * [mqtt-rs ★23](https://github.com/zonyitoo/mqtt-rs) - MQTT protocol library for Rust.
@@ -116,7 +116,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [ruby-mqtt ★283](https://github.com/njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol.
 * [tcl-mqtt ★2 ⏳3Y](https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a matt broker. Very, very basic.
 * [TMQTTClient](http://jamiei.com/blog/code/mqtt-client-library-for-delphi/) - MQTT Client Library for Delphi.
-* [Vert.x MQTT ★33](https://github.com/vert-x3/vertx-mqtt) - Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics.
+* [Vert.x MQTT ★40](https://github.com/vert-x3/vertx-mqtt) - Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics.
 * [wolfMQTT](https://wolfssl.com/wolfSSL/Products-wolfmqtt.html) - a client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.
 
 
@@ -142,7 +142,6 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [xbee2mqtt ★16 ⏳1Y](https://github.com/xoseperez/xbee2mqtt) - XBee to MQTT gateway.
 
 
-
 #### Industry
 
 * [modbus2mqtt ★29](https://github.com/owagner/modbus2mqtt) - Modbus master which publishes register values via MQTT.
@@ -162,6 +161,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqttpc ★1 ⏳1Y](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.
 * [mqttwatchdir ★16 ⏳2Y](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker.
 * [psmqtt ★10](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT.
+* [WinThing ★9](https://github.com/msiedlarek/winthing) - Remotely control Windows through MQTT.
 
 
 #### Monitoring
@@ -172,7 +172,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Location tracking
 
-* [Owntracks](http://owntracks.org/) - Location tracking and geofencing for MQTT.
+* [OwnTracks](http://owntracks.org/) - Location tracking and geofencing for MQTT.
 
 
 #### Logging
@@ -194,7 +194,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [hm2mqtt.js ★7](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between EQ-3's Homematic line of smarthome devices and MQTT. Supports Homematic IP.
 * [knx2mqtt ★10 ⏳2Y](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT.
 * [mqtt2homekit](https://github.com/forty2/mqtt2homekit) - Roughly the opposite of [homekit2mqtt ★90](https://github.com/hobbyquaker/homekit2mqtt): Control your HomeKit-enabled devices with MQTT and without Siri or iPhone.
-* [mqtt-dss-bridge ★3 ⏳1Y](https://github.com/cgHome/mqtt-dss-bridge) - MQTT digitalSTROM-Server Bridge.
+* [mqtt-dss-bridge ★3 ⏳2Y](https://github.com/cgHome/mqtt-dss-bridge) - MQTT digitalSTROM-Server Bridge.
 * [node-lox-mqtt-gateway ★8](https://github.com/alladdin/node-lox-mqtt-gateway) - Gateway for Loxone™ miniserver to communicate with mqtt broker.
 * [xiaomi2mqtt ★3](https://github.com/svrooij/node-xiaomi2mqtt) - bridge between the Xiaomi Smart Home Gateway Aquara and a mqtt server.
 * [smartthings-mqtt-bridge ★123](https://github.com/stjohnjohnson/smartthings-mqtt-bridge) - Bridge between [SmartThings](https://www.smartthings.com/) and MQTT.
@@ -279,7 +279,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [HOMR-REACT ★5](https://github.com/klauserber/homr-react) - A configurable MQTT Visualization.
 * [Linear MQTT Dashboard ★22](https://github.com/ravendmaster/linear-mqtt-dashboard) - Easy, customizable control panel - MQTT-client.
 * [node-red-dashboard ★256](https://github.com/node-red/node-red-dashboard) - A dashboard UI for Node-RED.
-* [mqtt2highcharts ★39](https://github.com/matbor/mqtt2highcharts) - plotting live numbered data from a subscribed mqtt topic using highcharts.
+* [mqtt2highcharts ★39 ⏳1Y](https://github.com/matbor/mqtt2highcharts) - plotting live numbered data from a subscribed mqtt topic using highcharts.
 * [MQTT Dash](https://play.google.com/store/apps/details?id=net.routix.mqttdash&hl=de) - Android App: With the app you can create dashboards for your MQTT enabled IoT Smart Home devices and applications.
 * [mqtt-panel ★154](https://github.com/fabaff/mqtt-panel) - A web interface for MQTT.
 * [mqtt-svg-dash ★30 ⏳4Y](https://github.com/jpmens/mqtt-svg-dash) - Subscribe to MQTT, extract JSON from a message and make lights blink on an SVG page.

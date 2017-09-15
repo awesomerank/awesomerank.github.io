@@ -12,15 +12,15 @@ title: Awesome Rank for Siddharth11/Colorful
 </p>
 
 # Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
-__A curated list of awesome resources to choose your next color scheme.__  
+__A curated list of awesome resources to choose your next color scheme.__
 Inspired by the __[awesome ★63835](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
 
 ## Table of Contents
 - [Tools](#tools)
-  - [Libraries](#libraries) 
+  - [Libraries](#libraries)
   - [Web App](#web-app)
 - [Color Palettes](#color-palettes)
-- [Articles](#articles)  
+- [Articles](#articles)
 
 ## Tools
 
@@ -90,6 +90,7 @@ Inspired by the __[awesome ★63835](https://github.com/sindresorhus/awesome)__ 
 - [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
 - [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 - [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
+- [Color Name List ★139](https://github.com/meodai/color-names) - Huge curated list of unique color names.
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)
@@ -127,8 +128,8 @@ Inspired by the __[awesome ★63835](https://github.com/sindresorhus/awesome)__ 
 - [A colour scheme for the display of astronomical intensity images](http://adsabs.harvard.edu/abs/2011BASI...39..289G)
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)  
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).  
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
 Image credits - [Aleksandar Savić](https://dribbble.com/almigor) and [Nenad Zivanovic](https://dribbble.com/nenadzivanovic).
 ---
 <p align="center">

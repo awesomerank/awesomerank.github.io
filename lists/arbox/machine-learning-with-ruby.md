@@ -10,7 +10,7 @@ title: Awesome Rank for arbox/machine-learning-with-ruby
 <img src="header.png" align="center">
 
 [[RubyNLP ★620](https://github.com/arbox/nlp-with-ruby) |
- [RubyDataScience ★274](https://github.com/arbox/data-science-with-ruby) |
+ [RubyDataScience ★290](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop ★3](https://github.com/arbox/ruby-interoperability)]
 
 # Awesome Machine Learning with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
@@ -102,7 +102,7 @@ programming languages with appropriate bindings for Ruby.
 - [classifier-reborn ★355](https://github.com/jekyll/classifier-reborn) -
   General classifier module to allow Bayesian and other types of classifications.
   <sup>[[dep: GLS](#gls)]</sup>
-- [scoruby ★20](https://github.com/asafschers/scoruby) -
+- [scoruby ★21](https://github.com/asafschers/scoruby) -
   Ruby scoring API for [PMML](http://dmg.org/pmml/v4-3/GeneralStructure.html) (Predictive Model Markup Language).
 - [rblearn ★0 ⏳1Y](https://github.com/himkt/rblearn) - Feature Extraction and Crossvalidation library.
 - [data_modeler ★0](https://github.com/giuse/data_modeler) -
@@ -112,17 +112,17 @@ programming languages with appropriate bindings for Ruby.
   and enormous [documentation](http://www.shogun-toolbox.org/examples/latest/examples/regression/random_forest_regression.html).
 - [aws-sdk-machinelearning ★2396](https://github.com/aws/aws-sdk-ruby) -
   Machine Learning API of the Amazon Web Services.
-- [azure_mgmt_machine_learning ★175](https://github.com/Azure/azure-sdk-for-ruby) -
+- [azure_mgmt_machine_learning ★180](https://github.com/Azure/azure-sdk-for-ruby) -
   Machine Learning API of the Microsoft Azure.
 
 ### Neural networks
-- [neural-net-ruby ★64](https://github.com/gbuesing/neural-net-ruby) -
+- [neural-net-ruby ★68](https://github.com/gbuesing/neural-net-ruby) -
   Neural network written in Ruby.
 - [ruby-fann ★337 ⏳1Y](https://github.com/tangledpath/ruby-fann) -
   Ruby bindings to the [Fast Artificial Neural Network Library (FANN)](http://leenissen.dk/fann/wp/).
-- [cerebrum ★23 ⏳1Y](https://github.com/irfansharif/cerebrum) -
+- [cerebrum ★27 ⏳1Y](https://github.com/irfansharif/cerebrum) -
   Experimental implementation for Artificial Neural Networks in Ruby.
-- [tlearn-rb ★91 ⏳1Y](https://github.com/josephwilk/tlearn-rb) -
+- [tlearn-rb ★92 ⏳1Y](https://github.com/josephwilk/tlearn-rb) -
   Recurrent Neural Network library for Ruby.
 - [brains ★57](https://github.com/jedld/brains-jruby) -
   Feed-forward neural networks for JRuby based on
@@ -146,11 +146,11 @@ programming languages with appropriate bindings for Ruby.
   Simplest Genetic Algorithms implementation in Ruby.
 
 ### Bayesian methods
-- [linnaeus ★27 ⏳1Y](https://github.com/djcp/linnaeus) -
+- [linnaeus ★28 ⏳1Y](https://github.com/djcp/linnaeus) -
   Redis-backed Bayesian classifier.
-- [naive_bayes ★34 ⏳5Y](https://github.com/reddavis/Naive-Bayes) -
+- [naive_bayes ★35 ⏳5Y](https://github.com/reddavis/Naive-Bayes) -
   Simple Naive Bayes classifier.
-- [nbayes ★112](https://github.com/oasic/nbayes) -
+- [nbayes ★111](https://github.com/oasic/nbayes) -
   Full-featured, Ruby implementation of Naive Bayes.
 
 ### Decision trees
@@ -162,12 +162,12 @@ programming languages with appropriate bindings for Ruby.
 
 ### Clustering
 
-- [flann ★714](https://github.com/mariusmuja/flann) -
+- [flann ★731](https://github.com/mariusmuja/flann) -
   Fast Library for Approximate Nearest Neighbors.
   <sup>[[flann](#flann)]</sup>
-- [kmeans-clusterer ★36 ⏳2Y](https://github.com/gbuesing/kmeans-clusterer) -
+- [kmeans-clusterer ★37 ⏳2Y](https://github.com/gbuesing/kmeans-clusterer) -
   k-means clustering in Ruby.
-- [k_means ★107 ⏳1Y](https://github.com/reddavis/K-Means) -
+- [k_means ★108 ⏳1Y](https://github.com/reddavis/K-Means) -
   Attempting to build a fast, memory efficient K-Means program.
 - [knn ★28 ⏳1Y](https://github.com/reddavis/knn) -
   Simple K Nearest Neighbour Algorithm.
@@ -181,7 +181,7 @@ programming languages with appropriate bindings for Ruby.
 
 ### Statistical models
 
-- [rtimbl ★6 ⏳7Y](https://github.com/maspwr/rtimbl) -
+- [rtimbl ★6 ⏳8Y](https://github.com/maspwr/rtimbl) -
   Memory based learners from the Timbl framework.
 - [lda-ruby ★119 ⏳2Y](https://github.com/ealdent/lda-ruby) -
   Ruby implementation of the [LDA](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
@@ -204,12 +204,12 @@ programming languages with appropriate bindings for Ruby.
 
 If you're going to implement your own ML algorithms you're probably interested
 in storing your feature sets efficiently. Look for appropriate
-[data structures ★274](https://github.com/arbox/data-science-with-ruby#data-structures)
+[data structures ★290](https://github.com/arbox/data-science-with-ruby#data-structures)
 in our [Data Science with Ruby][ds-with-ruby] list.
 
 ## Data visualization
 
-Please refer to the [Data Visualization ★274](https://github.com/arbox/data-science-with-ruby#visualization)
+Please refer to the [Data Visualization ★290](https://github.com/arbox/data-science-with-ruby#visualization)
 section on the [Data Science with Ruby][ds-with-ruby] list.
 
 ## Articles, Posts, Talks, and Presentations
@@ -312,7 +312,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 -  [Kirk, Matthew](https://twitter.com/mjkirk).
    _Thoughtful Machine Learning: A Test-Driven Approach_. O'Reilly, 2014.
    <sup>[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |
-         [code ★110 ⏳2Y](https://github.com/thoughtfulml/examples)]</sup>
+         [code ★111 ⏳2Y](https://github.com/thoughtfulml/examples)]</sup>
 - [Practical Artificial Intelligence](http://www.practicalai.io/) -
   Blog about Artificial Intelligence and Machine Learning with tutorials and code samples in Ruby.
 
@@ -358,20 +358,20 @@ on the code here.
   [Octave](https://www.gnu.org/software/octave/)
 ```brew tap homebrew/science && brew install octave --without-docs```
 - [scikit-learn algorithm cheatsheet](http://scikit-learn.org/stable/tutorial/machine_learning_map/)
-- [Awesome Ruby ★7516](https://github.com/markets/awesome-ruby#natural-language-processing) -
+- [Awesome Ruby ★7594](https://github.com/markets/awesome-ruby#natural-language-processing) -
   Among other awesome items a short list of NLP related projects.
 - [Ruby NLP ★955](https://github.com/diasks2/ruby-nlp) -
   State-of-Art collection of Ruby libraries for NLP.
-- [Speech and Natural Language Processing ★1536](https://github.com/edobashira/speech-language-processing) -
+- [Speech and Natural Language Processing ★1557](https://github.com/edobashira/speech-language-processing) -
   General List of NLP related resources (mostly not for Ruby programmers).
 - [Scientific Ruby](http://sciruby.com/) -
   Linear Algebra, Visualization and Scientific Computing for Ruby.
-- [iRuby ★289](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
-- [Kiba ★852](https://github.com/thbar/kiba) -
+- [iRuby ★300](https://github.com/SciRuby/iruby) - IRuby kernel for Jupyter (formelly IPython).
+- [Kiba ★871](https://github.com/thbar/kiba) -
   Lightweight [ETL](https://en.wikipedia.org/wiki/Extract,_transform,_load) (Extract, Transform, Load) pipeline.
-- [Awesome OCR ★155](https://github.com/kba/awesome-ocr) -
+- [Awesome OCR ★183](https://github.com/kba/awesome-ocr) -
   Multitude of OCR (Optical Character Recognition) resources.
-- [Awesome TensorFlow ★8392](https://github.com/jtoy/awesome-tensorflow) -
+- [Awesome TensorFlow ★8651](https://github.com/jtoy/awesome-tensorflow) -
   Machine Learning with TensorFlow libraries.
 - [rb-gsl ★67](https://github.com/SciRuby/rb-gsl) -
   Ruby interface to the [GNU Scientific Library](https://www.gnu.org/software/gsl/).

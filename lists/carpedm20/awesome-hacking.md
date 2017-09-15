@@ -107,7 +107,7 @@ For a list of free hacking books available for download, go [here ★918](https:
  * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
  * [ILSpy ★3725](https://github.com/icsharpcode/ILSpy) - an open-source .NET assembly browser and decompiler
- * [dnSpy ★2584](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger 
+ * [dnSpy ★2809](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger 
  * [de4dot ★1650](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker. 
  * [antinet ★96 ⏳3Y](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code 
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables
@@ -143,7 +143,7 @@ For a list of free hacking books available for download, go [here ★918](https:
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
- * [Nipe ★218](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
+ * [Nipe ★229](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
 
 
 # Forensic

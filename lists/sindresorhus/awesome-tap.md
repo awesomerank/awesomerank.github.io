@@ -70,11 +70,11 @@ Things that produce TAP output.
 
 ### Fish
 
-- [Fishtape ★208](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
+- [Fishtape ★210](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
 
 ### Bash
 
-- [bats ★3839](https://github.com/sstephenson/bats) - Bash Automated Testing System.
+- [bats ★3981](https://github.com/sstephenson/bats) - Bash Automated Testing System.
 
 [More...](https://testanything.org/producers.html)
 
@@ -98,8 +98,8 @@ Things that consume TAP output.
 
 - [tap-dev-tool ★26 ⏳2Y](https://github.com/Jam3/tap-dev-tool) - Prettify TAP in the browser console.
 - [tap-merge ★4](https://github.com/anko/tap-merge) - Merge multiple TAP streams.
-- [smokestack ★220 ⏳1Y](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`.
-- [chutney](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack ★220 ⏳1Y](https://github.com/hughsk/smokestack) alternative.
+- [smokestack ★220 ⏳2Y](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`.
+- [chutney](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack ★220 ⏳2Y](https://github.com/hughsk/smokestack) alternative.
 
 ### Python
 

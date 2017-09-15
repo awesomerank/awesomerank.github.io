@@ -46,7 +46,7 @@ This companion book contains material initially written specifically for this ev
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github ★195](https://github.com/miekg/learninggo).
+The [markdown source is available on Github ★196](https://github.com/miekg/learninggo).
 
 ### [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers) *Free*
 

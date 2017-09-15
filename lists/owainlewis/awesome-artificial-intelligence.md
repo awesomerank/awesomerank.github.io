@@ -114,7 +114,7 @@ Contributions most welcome.
 * [Deep Learning.net](http://deeplearning.net/) - Aggregation site for DL resources
 * [Awesome Machine Learning ★25153](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 * [FastML](http://fastml.com/)
-* [Awesome Deep Learning Resources ★328](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
+* [Awesome Deep Learning Resources ★436](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
 
 
 ## Organizations

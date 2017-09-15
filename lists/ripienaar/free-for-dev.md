@@ -22,6 +22,7 @@ Table of Contents
 =================
 
    * [Source Code Repos](#source-code-repos)
+   * [Artifact Repos](#artifact-repos)
    * [Tools for Teams and Collaboration](#tools-for-teams-and-collaboration)
    * [Code Quality](#code-quality)
    * [Code Search and Browsing](#code-search-and-browsing)
@@ -73,6 +74,10 @@ Table of Contents
   * [NotABug](https://notabug.org) - NotABug.org is a free-software code collaboration platform for freely licensed projects, Git based
   * [Deveo](https://deveo.com/) - [free](https://deveo.com/pricing/) cloud and  Git, Mercurial, or SVN repositories.
 
+## Artifact Repos
+
+ * [central.sonatype.org](http://central.sonatype.org) - The default artifact repository for Apache Maven, SBT and other build systems.
+
 ## Tools for Teams and Collaboration
 
   * [scinote.net](http://scinote.net) — Scientific data management and team collaboration. One Team with unlimited number of users, backup and 1 GB storage space
@@ -80,7 +85,7 @@ Table of Contents
   * [meet.jit.si](https://meet.jit.si/) — One click video conversations, screen sharing, for free
   * [flowdock.com](https://www.flowdock.com/) — Chat and inbox, free for teams up to 5
   * [slack.com](https://slack.com/) — Free for unlimited users with some feature limitations
-  * [hipchat.com](https://hipchat.com/) — Free for unlimited users with some feature limitations
+  * [stride.com](https://www.stride.com/) — Free for unlimited users with some feature limitations
   * [gitter.im](https://gitter.im/) — Chat, for GitHub. Unlimited public and private rooms, free for teams up to 25
   * [hangouts.google.com](https://hangouts.google.com/) — One place for all your conversations, for free, need a Google account
   * [seafile.com](https://www.seafile.com/) — Private or cloud storage, file sharing, sync, discussions. Private version is full. Cloud version has just 1 GB
@@ -124,6 +129,7 @@ Table of Contents
   * [gtmetrix.com](https://gtmetrix.com/) — Reports and thorough recommendations to optimize websites
   * [browserling.com](https://www.browserling.com/) — Live interactive cross-browser testing, free only 3 minutes sessions with MS IE 9 under Vista at 1024 x 768 resolution
   * [versioneye.com](https://www.versioneye.com/) — Monitor your source code and notify about outdated dependencies. Free for Open Source and public repos
+  * [shields.io](https://shields.io) — Quality metadata badges for open source projects
   * [beanstalkapp.com](http://beanstalkapp.com/) — A complete workflow to write, review and deploy code), free account for 1 user and 1 repository with 100 MB of storage
   * [testanywhere.co](https://testanywhere.co/) — Automatic test website or web app continuously and catch bugs in the early stages, free 1,000 tests/month
   * [srcclr.com](https://srcclr.com/) — SourceClear to scan source code for vulnerabilities, multi-languages and OS
@@ -147,7 +153,7 @@ Table of Contents
   * [stackahoy.io](https://stackahoy.io) — 100% free. Unlimited deployments, branches and builds
   * [travis-ci.org](https://travis-ci.org/) — Free for public GitHub repositories
   * [wercker.com](http://wercker.com/) — Free for public and private repositories
-  * [semaphoreci.com](https://semaphoreci.com/) — 100 private builds/month, unlimited for Open Source
+  * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source
   * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
   * [appveyor.com](http://www.appveyor.com/) — CD service for Windows, free for Open Source
   * [github.com ★389](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
@@ -277,7 +283,7 @@ Table of Contents
 ## Email
 
   * [mailinator.com](https://www.mailinator.com/) — Free, public, email system where you can use any inbox you want
-  * [sparkpost.com](https://www.sparkpost.com/) — First 100,000 emails/month free
+  * [sparkpost.com](https://www.sparkpost.com/) — First 15,000 emails/month free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month free
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
   * [mailchimp.com](http://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
@@ -484,7 +490,6 @@ Table of Contents
    * [kraken.io](https://kraken.io/) — Image optimization for website performance as a service, free plan up to 1 MB file size
    * [placehold.it](https://placehold.it/) — A quick and simple image placeholder service
    * [placekitten.com](https://placekitten.com/) — A quick and simple service for getting pictures of kittens for use as placeholders
-   * [placepenguin.com](http://placepenguin.com/) — A quick and simple service for placeholder images of penguins
    * [embed.ly](http://embed.ly/) — Provides APIs for embedding media in a webpage, responsive image scaling, extracting elements from a webpage. Free for up to 5,000 URLs/month at 15 requests/second
    * [backhub.co](https://backhub.co/) — Backup and archive your GitHub repositories. Free for public repos
    * [otixo.com](http://otixo.com/) — Encrypt, share, copy and move all your cloud storage files from one place. Basic plan provides unlimited files transfer with 250 MB max. file size and allows 5 encrypted files
@@ -581,7 +586,7 @@ Table of Contents
   * [currencylayer.com](https://currencylayer.com/) — Reliable Exchange Rates and Currency Conversion for your Business, 1,000 API requests/month free
   * [vatlayer.com](https://vatlayer.com/) — Instant VAT number validation and EU VAT rates API, free 100 API requests/month
   * [fraudlabspro.com] (https://www.fraudlabspro.com) - Help merchants to prevent payment fraud and chargebacks. Free Micro Plan available with 500 queries/month.
-  
+
 ## Docker Related
 
   * [Arukas Cloud](https://arukas.io/) — Free docker container hosting, 10 during beta period, 3 afterwards (Japanese)
@@ -589,7 +594,7 @@ Table of Contents
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
-  * [Whales ★65](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free.
+  * [Whales ★73](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free.
 
 ## Vagrant Related
 

@@ -204,7 +204,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ja-micro ★554](https://github.com/Sixt/ja-micro) - Lightweight Java framework for building microservices (compatible with go-micro).
 - [Jersey](https://jersey.github.io/) - RESTful services in Java. JAX-RS reference implementation.
 - [MSF4J ★230](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
-- [QBit ★582](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
+- [QBit ★585](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
 - [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 - [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
@@ -306,7 +306,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Doozer ★2900 ⏳1Y](https://github.com/ha/doozerd) - Highly-available, completely consistent store for small amounts of data. When the data changes, it can notify connected clients immediately.
 - [Etcd ★14528](https://github.com/coreos/etcd) - Highly-available key-value store for shared configuration and service discovery.
 - [Eureka](https://github.com/Netflix/eureka/wiki/Eureka-at-a-glance) - REST based service that is primarily used in the AWS cloud for locating services for the purpose of load balancing and failover of middle-tier servers.
-- [Microphone ★388](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
+- [Microphone ★395](https://github.com/rogeralsing/Microphone) - Lightweight .NET framework to run self hosting REST services using Web Api or NancyFx on top of a Consul or Etcd cluster.
 - [Registrator ★3175](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
 - [Shaman ★67](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
 - [SkyDNS ★1621](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
@@ -436,7 +436,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Fastjson ★10291](https://github.com/alibaba/fastjson) - Fast JSON Processor.
 - [Ffjson ★1933](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
 - [FST ★806](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacemen.
-- [Jackson ★3131](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
+- [Jackson ★3223](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 - [Jackson Afterburner ★88 ⏳1Y](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
 - [Kryo ★2812](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 - [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
@@ -461,7 +461,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 - [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
-- [InfluxDB ★11275](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+- [InfluxDB ★11497](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 - [Manta](https://www.joyent.com/manta) - Highly scalable, distributed object storage service with integrated compute.
 - [MemSQL ![c]](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
 - [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.

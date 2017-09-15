@@ -34,10 +34,10 @@ Straight from the horse's mouth.
 - [Documentation and Guides](https://aframe.io/docs/)
 - [Blog](https://aframe.io/blog/)
 - [Examples](https://aframe.io/examples/)
-- [Inspector ★211](https://github.com/aframevr/aframe-inspector)
-- [Registry ★45](https://github.com/aframevr/aframe-registry)
+- [Inspector ★223](https://github.com/aframevr/aframe-inspector)
+- [Registry ★47](https://github.com/aframevr/aframe-registry)
 - [Presentation Kit ★50](https://github.com/aframevr/aframe-presentation-kit)
-- [School ★33](https://github.com/aframevr/aframe-school)
+- [School ★37](https://github.com/aframevr/aframe-school)
 - [Command Line Interface](https://github.com/aframevr/angle)
 - [Twitter](https://twitter.com/aframevr)
 
@@ -113,100 +113,101 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 
 - [Along Path ★19](https://github.com/protyze/aframe-alongpath-component) - Interpolating an entity's position along a path
 - [Always Fullscreen ★10](https://github.com/protyze/aframe-always-fullscreen-component) - Provide ways to enable Fullscreen on iOS (Scroll to Minimal-UI) and Android/Desktop (Fullscreen API)
-- [Ammo Physics Component](https://github.com/jeromeetienne/threex.ammo) - Library integrating [three.js](https://threejs.org/) and [ammo.js ★1158](https://github.com/kripken/ammo.js) to enable physics in objects
+- [Ammo Physics Component](https://github.com/jeromeetienne/threex.ammo) - Library integrating [three.js](https://threejs.org/) and [ammo.js ★1182](https://github.com/kripken/ammo.js) to enable physics in objects
 - [Animation](https://ngokevin.github.io/aframe-animation-component) - New and improved animation system using components. [[Code] ★15](https://github.com/ngokevin/aframe-animation-component)
 - [Asset Lazy Load ★12 ⏳1Y](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 - [Asset On-Demand ★10](https://github.com/protyze/aframe-asset-on-demand-component) - Load Assets dynamically when needed (and properly clean them up if not)
 - [Audio Visualizer ★17](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using WebAudio API
-- [Broadcast ★15 ⏳1Y](https://github.com/ngokevin/aframe-broadcast-component) - Multiuser with WebSockets
+- [Broadcast ★16 ⏳1Y](https://github.com/ngokevin/aframe-broadcast-component) - Multiuser with WebSockets
 - [ChartBuilder ★3](https://github.com/impronunciable/aframe-chartbuilder-component) - Use [ChartBuilder](http://quartz.github.io/Chartbuilder) charts
 - [Checkpoint Controls](https://github.com/donmccurdy/aframe-extras/blob/master/src/controls/checkpoint-controls.js) - Eased linear locomotion between designated hotspots
 - [Collider, Explode, Spawner](https://github.com/dmarcos/a-invaders/tree/master/js/components) - Collection of components for collision, geometry explosions, and entity spawning
 - [Crawling Cursor ★21](https://github.com/jujunjun110/aframe-crawling-cursor) - Cursor projected onto surfaces
 - [Crease ★4 ⏳1Y](https://github.com/andreasplesch/aframe-crease-component) - Creased shading
-- [Chromakey Material ★7](https://github.com/nikolaiwarner/aframe-chromakey-material) - Chromakey material for green screen effects
-- [Cubemap ★23](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
+- [Chromakey Material ★8](https://github.com/nikolaiwarner/aframe-chromakey-material) - Chromakey material for green screen effects
+- [Cubemap ★24](https://github.com/bryik/aframe-cubemap-component) - Create a skybox from a cubemap
 - [Daydream Controller ★21](https://github.com/ryanbetts/aframe-daydream-controller-component) - Daydream controls
 - [Drag Look ★7](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
 - [Draw ★42](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
 - [Entity Generator ★4](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
 - [Event Set ★8 ⏳1Y](https://github.com/ngokevin/aframe-event-set-component) - Set properties in response to events, replacement for declarative events
-- [Extras ★242](https://github.com/donmccurdy/aframe-extras) - Don's collection of A-Frame components
+- [Extras ★255](https://github.com/donmccurdy/aframe-extras) - Don's collection of A-Frame components
 - [Extrude and Lathe ★11](https://github.com/JosePedroDias/aframe-extrude-and-lathe) - Extrude and lathe geometries
 - [Faceset ★3](https://github.com/andreasplesch/aframe-faceset-component) - Geometry from vertices and faces
 - [Fence ★4](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
 - [Firebase ★31](https://github.com/ngokevin/aframe-firebase-component) - Multiuser with Firebase
 - [Fit Texture ★10](https://github.com/nylki/aframe-fit-texture-component) - Automatically scale entities relative to their texture, so you don't need to set width/height manually
-- [Force-directed Graph](https://github.com/vasturiano/aframe-forcegraph-component) - Represent a graph data structure in a 3D force-directed iterative layout, using [d3-force-3d ★32](https://github.com/vasturiano/d3-force-3d) for the physics simulation engine.
+- [Force-directed Graph](https://github.com/vasturiano/aframe-forcegraph-component) - Represent a graph data structure in a 3D force-directed iterative layout, using [d3-force-3d ★35](https://github.com/vasturiano/d3-force-3d) for the physics simulation engine.
 - [FPS Look ★7 ⏳1Y](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse
-- [Gamepad Controls ★40](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
+- [Gamepad Controls ★42](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
 - [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
-- [Gradient Sky ★11](https://github.com/zcanter/aframe-gradient-sky) - Use two colors to create a gradient shader for colorful skies
+- [Google Blocks ★19](https://github.com/archilogic-com/aframe-gblock) - Display content from Google Blocks
+- [Gradient Sky ★14](https://github.com/zcanter/aframe-gradient-sky) - Use two colors to create a gradient shader for colorful skies
 - [Grid Helper ★10](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
-- [Heatmap3d ★9](https://github.com/morandd/aframe-heatmap3d) - Yet another heatmap/heightmap component
+- [Heatmap3d ★10](https://github.com/morandd/aframe-heatmap3d) - Yet another heatmap/heightmap component
 - [Height Grid ★10 ⏳1Y](https://github.com/andreasplesch/aframe-heightgrid-component) - Terrain
-- [Hexmap ★5](https://github.com/morandd/aframe-hexgraph-hexmap) - A hex grid/map for data viz (inspired by deck.gl's hexmap layer)
-- [href ★37 ⏳1Y](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
+- [Hexmap ★6](https://github.com/morandd/aframe-hexgraph-hexmap) - A hex grid/map for data viz (inspired by deck.gl's hexmap layer)
+- [href ★38 ⏳1Y](https://github.com/gasolin/aframe-href-component) - Link to other pages using cursor component
 - [HTML Texture ★40](https://github.com/scenevr/htmltexture-component) - Using HTML as a texture, powered by html2canvas
-- [Interpolation ★6 ⏳1Y](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
+- [Interpolation ★7 ⏳1Y](https://github.com/scenevr/interpolation-component) - Interpolate positional and rotational updates for entities, useful for fetching from server for multiplayer
 - [k-frame](https://github.com/ngokevin/k-frame) - Kevin's collection of A-Frame components
 - [Keyboard ★5 ⏳1Y](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
-- [L-System ★22](https://github.com/nylki/aframe-lsystem-component) - Render [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems
+- [L-System ★25](https://github.com/nylki/aframe-lsystem-component) - Render [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems
 - [Layout ★29](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
-- [Leap Hands ★92](https://github.com/openleap/aframe-leap-hands) - [Leap Motion](https://www.leapmotion.com/) controller support
-- [Lens Flare ★5](https://github.com/mokargas/aframe-lensflare-component) - Lens flare
+- [Leap Hands ★93](https://github.com/openleap/aframe-leap-hands) - [Leap Motion](https://www.leapmotion.com/) controller support
+- [Lens Flare ★6](https://github.com/mokargas/aframe-lensflare-component) - Lens flare
 - [Look-At and Billboard ★7](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera
 - [Mario Star Texture ★1](https://github.com/casonclagg/aframe-mario-star-component) - Texture that cycles colors like stars in Mario using canvas
 - [Mesh Line ★9](https://github.com/andreasplesch/aframe-meshline-component) - Draw thick lines
 - [Minecraft Avatar Components](https://jeromeetienne.github.io/threex.minecraft/a-frame/build/aframe-minecraft.js) - Allows the creation, control, and custom skins on Minecraft-like characters
-- [Motion Capture ★27](https://github.com/dmarcos/aframe-motion-capture-components) - Record and replay headset and controller pose and events
-- [Mouse Cursor Component ★56](https://github.com/mayognaise/aframe-mouse-cursor-component) - Add interaction to the hardware mouse, by raycasting from `XY` position on canvas
+- [Motion Capture ★34](https://github.com/dmarcos/aframe-motion-capture-components) - Record and replay headset and controller pose and events
+- [Mouse Cursor Component ★58](https://github.com/mayognaise/aframe-mouse-cursor-component) - Add interaction to the hardware mouse, by raycasting from `XY` position on canvas
 - [Multitouch-look-controls ★2](https://github.com/morandd/aframe-multitouch-look-controls) - Touch-driven freelook camera; drop-in replacement for look-controls
 - [No-click Look Controls ★41](https://github.com/alexrkass/aframe-no-click-look-controls) - Intuitive desktop view controls without requiring mouse click + drag
 - [Ocean](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-ocean.js) - Flat-shaded ocean primitive and component, with animated waves
 - [Orbit Controls](https://github.com/subsumo/aframe-orbit-controls) - Orbit camera around an entity
-- [Orbit Controls Component ★24](https://github.com/tizzle/aframe-orbit-controls-component) - Allow desktop users to rotate the camera around an object
+- [Orbit Controls Component ★26](https://github.com/tizzle/aframe-orbit-controls-component) - Allow desktop users to rotate the camera around an object
 - [Particle System ★44](https://github.com/IdeaSpaceVR/aframe-particle-system-component) - Particle systems (e.g., rain, dust, snow, fire)
-- [Passthrough ★14](https://github.com/flysonic10/aframe-passthrough) - Show a video feed from the device's camera
-- [Persist Component ★8](https://github.com/Utopiah/aframe-persist-component) - Use localStorage to make data persist over experiences
-- [Physics + Vive Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/misc) - `grab` and `sphere-collider` components for combining the HTC Vive's controllers with the [`aframe-physics-system` ★74](https://github.com/donmccurdy/aframe-physics-system) component
-- [Physics ★74](https://github.com/donmccurdy/aframe-physics-system) - Rigid-body physics using [Cannon.js](http://www.cannonjs.org/)
+- [Passthrough ★15](https://github.com/flysonic10/aframe-passthrough) - Show a video feed from the device's camera
+- [Persist Component ★9](https://github.com/Utopiah/aframe-persist-component) - Use localStorage to make data persist over experiences
+- [Physics + Vive Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/misc) - `grab` and `sphere-collider` components for combining the HTC Vive's controllers with the [`aframe-physics-system` ★80](https://github.com/donmccurdy/aframe-physics-system) component
+- [Physics ★80](https://github.com/donmccurdy/aframe-physics-system) - Rigid-body physics using [Cannon.js](http://www.cannonjs.org/)
 - [Pipe ★0](https://github.com/jellix79/aframe-pipe-component) - A pipe with inner and outer radii
 - [Plot ★2](https://github.com/mikebolt/aframe-plot-component) - Render 3D plots using mathematical functions or data.
 - [PLY Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.PLY` models, wrapping [`THREE.PLYLoader`](https://threejs.org/examples/webgl_loader_ply.html)
 - [Polygon ★3 ⏳1Y](https://github.com/andreasplesch/aframe-polygon-primitive) - `n`-sided polygons
 - [Proxy Controls](https://proxy-controls.donmccurdy.com/) - Connect input devices from your desktop to your mobile phone with [WebRTC data channels](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Using_data_channels)
 - [Randomizer ★5](https://github.com/ngokevin/aframe-randomizer-components) - Set random values
-- [Scatterplot ★8](https://github.com/zcanter/aframe-scatterplot) - Scatterplot data visualization
+- [Scatterplot ★9](https://github.com/zcanter/aframe-scatterplot) - Scatterplot data visualization
 - [Selectable ★9 ⏳1Y](https://github.com/scenevr/selectable-component) by [@scenevr](https://twitter.com/scenevr) - Click on an entity to select it (handy for editors)
 - [Shake-to-Show ★5](https://github.com/rdub80/aframe-shake2show-component) - Using shake.js to toggle UI
 - [Slice9 ★6](https://github.com/fernandojsg/aframe-slice9-component) - 9-Slice for creating sharp panels and tooltips for UI
-- [Sprite ★7](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera
+- [Sprite ★9](https://github.com/tizzle/aframe-sprite-component) - Creates bitmap images that always face the camera
 - [Star ★5 ⏳1Y](https://github.com/andreasplesch/aframe-star-component) - 2D stars
 - [Stereo ★61](https://github.com/oscarmarinmiro/aframe-stereo-component) - Enable rendering different entities for each eye, using three.js layers so you can render 3D stereoscopic videos (full and half-dome)
-- [Stereo Cube ★12 ⏳1Y](https://github.com/wallabyway/aframe-stereocube) - Use stereoscopic cube-map textures (i.e., left and right eye textures)
-- [SVG File ★6](https://github.com/7dir/aframe-svgfile-component) - Load basic SVG files as 3d geometry
-- [Teleport Controls ★34](https://github.com/fernandojsg/aframe-teleport-controls) - Teleportation with tracked controllers
+- [Stereo Cube ★11 ⏳1Y](https://github.com/wallabyway/aframe-stereocube) - Use stereoscopic cube-map textures (i.e., left and right eye textures)
+- [SVG File ★7](https://github.com/7dir/aframe-svgfile-component) - Load basic SVG files as 3d geometry
+- [Teleport Controls ★36](https://github.com/fernandojsg/aframe-teleport-controls) - Teleportation with tracked controllers
 - [Template](https://github.com/ngokevin/kframe/tree/master/components/template) - Integration with Handlebars, Jade, mustache, Nunjucks JS template engines
-- [Terrain Model ★13](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
+- [Terrain Model ★14](https://github.com/bryik/aframe-terrain-model-component) - Generating terrains using TerrainLoader
 - [Text Wrap ★28 ⏳1Y](https://github.com/maxkrieger/aframe-textwrap-component) - Wrapping text dynamically rendered onto the `draw` component
 - [Text Geometry](https://github.com/ngokevin/kframe/tree/master/components/text-geometry) - Polygonal text
 - [THREE Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.json` models, wrapping THREE.JSONLoader and THREE.ObjectLoader
 - [Trigger Box ★5](https://github.com/Utopiah/aframe-triggerbox-component) - A component that emits an event when it enters or leaves a predefined area
 - [Tube](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-tube.js) - Cylindrical primitive that shapes itself to a given path
-- [UI Components ★18](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI
+- [UI Components ★19](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI
 - [UI Modal ★17](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
-- [UI Widgets ★44](https://github.com/caseyyee/aframe-ui-widgets) - Another set of UI components, including buttons, switchs, sliders, and knobs
-- [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse + pointerlock, touch-to-move, with [physics ★74](https://github.com/donmccurdy/aframe-physics-system) compatibility
-- [Video Controls ★30](https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
+- [UI Widgets ★45](https://github.com/caseyyee/aframe-ui-widgets) - Another set of UI components, including buttons, switchs, sliders, and knobs
+- [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse + pointerlock, touch-to-move, with [physics ★80](https://github.com/donmccurdy/aframe-physics-system) compatibility
+- [Video Controls ★34](https://github.com/oscarmarinmiro/aframe-video-controls) - Video controls (play/pause/jump) for A-Frame video assets
 - [Vive Cursor](https://github.com/bryik/aframe-vive-cursor-component) - A cursor for the HTC Vive's controllers
-- [WebVR Controller ★27 ⏳1Y](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
+- [WebVR Controller ★26 ⏳1Y](https://github.com/richardanaya/aframe-webvr-controller) - HTC Vive controllers
 - [WebVR-UI](https://googlevr.github.io/webvr-ui/examples/aframe.html) - "Enter VR" Button by Google VR [[Code]](https://github.com/googlevr/webvr-ui/blob/master/examples/aframe.html)
 
 ### Materials
 
 - [Draw ★7 ⏳1Y](https://github.com/mayognaise/aframe-draw-shader) - Render from canvas
-- [HTML ★81](https://github.com/mayognaise/aframe-html-shader) - Render from HTML
+- [HTML ★84](https://github.com/mayognaise/aframe-html-shader) - Render from HTML
 - [Video ★20 ⏳1Y](https://github.com/mayognaise/aframe-video-shader) - iOS-compatible video material
 - [GIF ★28](https://github.com/mayognaise/aframe-gif-shader) - Render animated GIFs
 
@@ -214,7 +215,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 
 Integration with existing tools, frameworks, and libraries.
 
-- [aframe-react ★612](https://github.com/ngokevin/aframe-react) - Thin and performant React layer on top of A-Frame
+- [aframe-react ★647](https://github.com/ngokevin/aframe-react) - Thin and performant React layer on top of A-Frame
 - [D3.js](http://blockbuilder.org/search#text=aframe) - A-Frame data visualizations with D3.js
 - [Vue.js + TweenMax demo](http://codepen.io/cheapsteak/pen/dGXZjx?editors=101) - Example of A-Frame with Vue.js for reactive components
 - [aframe-templating-examples ★1 ⏳1Y](https://github.com/ngokevin/aframe-templating-examples) - A-Frame with templating engines such as Handlebars, mustache, Nunjucks
@@ -222,10 +223,10 @@ Integration with existing tools, frameworks, and libraries.
 - [Meteor ★12 ⏳1Y](https://github.com/vladbalan/meteor-aframe) - A-Frame with [Meteor](https://www.meteor.com/), a JavaScript app framework
 - [Altspace ★30](https://github.com/AltspaceVR/aframe-altspace-component) - Integration with AltspaceVR
 - [Drupal](https://www.drupal.org/project/aframe) - Drupal module for integration with A-Frame
-- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) - CSS-like stylesheets for A-Frame for declaring mixins [[Code] ★20 ⏳1Y](https://github.com/ngokevin/aframe-mss)
+- [Mixin Style Sheets](https://github.com/ngokevin/aframe-mss) - CSS-like stylesheets for A-Frame for declaring mixins [[Code] ★22 ⏳1Y](https://github.com/ngokevin/aframe-mss)
 - [aframe-d3-3d-graph-example](http://cjroth.com/aframe-d3-3d-graph-example/) - An example of a 3D weighted graph using D3 and Aframe.
 - [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and Aframe.
-- [aframe-phantomjs-continuous-streaming ★28](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into A-Frame using PhantomJS and ffmpeg
+- [aframe-phantomjs-continuous-streaming ★29](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into A-Frame using PhantomJS and ffmpeg
 - [aframe-keyboard ★11](https://github.com/cjroth/aframe-keyboard) - A virtual-reality keyboard and text editor in A-Frame
 - [Virtual World Framework](https://github.com/NikolaySuslov/livecodingspace) - A-Frame with [Virtual World Framework ★125](https://github.com/virtual-world-framework/vwf), a JavaScript app framework for building collaborative, immersive applications with live coding support
 
@@ -233,9 +234,9 @@ Integration with existing tools, frameworks, and libraries.
 
 - [a-invaders](http://swimminglessonsformodernlife.com/a-invaders) - Space invaders game. [[Code] ★21](https://github.com/dmarcos/a-invaders)
 - [DrawVR](http://drawvr.com/) - DrawVR's portal leading to many A-Frame experiences including stores, games, rides, theaters, and scenes
-- [Cardboard Dungeon](https://chrismwaite.github.io/cardboard-dungeon) - A first-person dungeon crawler designed for mobile. [[Code] ★28 ⏳1Y](https://github.com/chrismwaite/cardboard-dungeon)
-- [Don McCurdy's Sandbox](https://sandbox.donmccurdy.com/vr/) - Don McCurdy's A-Frame scenes including [MagicaVoxel](https://ephtracy.github.io/) models, physics playgrounds, and controls [[Code] ★242](https://github.com/donmccurdy/aframe-extras)
-- [Kevin Ngo's Scenes](https://ngokevin.github.io/kframe/) - Kevin Ngo's A-Frame scenes including MagicaVoxel models, audio visualizations, and a Minecraft demo [[Code] ★341](https://github.com/ngokevin/kframe)
+- [Cardboard Dungeon](https://chrismwaite.github.io/cardboard-dungeon) - A first-person dungeon crawler designed for mobile. [[Code] ★31 ⏳1Y](https://github.com/chrismwaite/cardboard-dungeon)
+- [Don McCurdy's Sandbox](https://sandbox.donmccurdy.com/vr/) - Don McCurdy's A-Frame scenes including [MagicaVoxel](https://ephtracy.github.io/) models, physics playgrounds, and controls [[Code] ★255](https://github.com/donmccurdy/aframe-extras)
+- [Kevin Ngo's Scenes](https://ngokevin.github.io/kframe/) - Kevin Ngo's A-Frame scenes including MagicaVoxel models, audio visualizations, and a Minecraft demo [[Code] ★370](https://github.com/ngokevin/kframe)
 - [Aztec Pong](http://meta-meta.github.io/aztec-pong) - Play Pong floating atop an Aztec monument. [[Code] ★1 ⏳1Y](https://github.com/meta-meta/aztec-pong)
 - [Hello, Pizza!](http://carpedmt.github.io) - If a pizza spins in a forest and no one is around to eat it, does it make a sound? [[Code] ★1](https://github.com/carpedmt/carpedmt.github.io)
 - [Alien Abduction](http://vedm.xyz/abductionvr) - Alien Abduction demo
@@ -272,7 +273,7 @@ Integration with existing tools, frameworks, and libraries.
 - [Earth Rover](https://www.hackster.io/RONDAGDAG/control-your-earth-rover-in-virtual-reality-15a9fe) - Controlling a physical robot from outer space using the [Intel Edison](https://software.intel.com/iot/hardware/edison) and Leap Motion
 - [Imagined Reality](https://bryik.github.io/aframe-metaverse-contest/examples/imagined-reality.html) - Stereoscopic cubemaps, taken from winners of [OTOY’s Render the Metaverse](https://home.otoy.com/vr-competition/) contest
 - [Star Crossed](http://vrweb.io/p/starCrossed) - Piano and stars
-- [Procedural Forest](https://nylki.github.io/aframe-lsystem-component/forrest/) - A procedural forest with procedural trees using the [L-System Component ★22](https://github.com/nylki/aframe-lsystem-component)
+- [Procedural Forest](https://nylki.github.io/aframe-lsystem-component/forrest/) - A procedural forest with procedural trees using the [L-System Component ★25](https://github.com/nylki/aframe-lsystem-component)
 - [iStaging LiveTour](http://vrviewer.istaging.co/#!/684173) - 360&deg; real estate tours with a neat mini-map
 - [Choose Your Own VR ★0 ⏳1Y](https://github.com/dannielle/tinier-house) - Which cup will you choose?
 - [Cat Garden](http://dirosa.me/cat-garden/) - Float through a space of cats and balloons
@@ -280,7 +281,7 @@ Integration with existing tools, frameworks, and libraries.
 - [Brexit in Berlin](https://popathon.github.io/Gexit/hq.html) - Listen to Europeans talk and react to Brexit
 - [Virtual Symphony II](https://musicpua.firebaseapp.com/) - Fly through particles, eagles, and horses while listening to *Chainsmokers - Inside Out (Remix)*
 - [VRVisitors](https://georational.github.io/VRVisitors/VRVisitors.html) - Multi-user gallery of photogrammetric museum artifacts
-- [Head-Tracked Transformations](https://armthethinker.github.io/webVR-experiments/6--head-tracked-transformations.html) - VR UX prototype of transforming objects’ orientations with your head to enhance VR experiences that don’t have positional tracking. Read the instructions listed at [#6](https://armthethinker.github.io/webVR-experiments/). [[Code] ★17](https://github.com/armthethinker/webVR-experiments)
+- [Head-Tracked Transformations](https://armthethinker.github.io/webVR-experiments/6--head-tracked-transformations.html) - VR UX prototype of transforming objects’ orientations with your head to enhance VR experiences that don’t have positional tracking. Read the instructions listed at [#6](https://armthethinker.github.io/webVR-experiments/). [[Code] ★18](https://github.com/armthethinker/webVR-experiments)
 - [Weather Room](https://weatherroom.herokuapp.com/) - What’s the forecast for WebVR? Sunny with no chance of rain. [[Code] ★1 ⏳1Y](https://github.com/sebscholl/weatherroom)
 - [CinemVR Design Prototype](http://valentin.design/vr) - Design prototype of a VR cinema
 - [JM Visual Creativity](http://vr.jmvisualcreativity.es) - Web designer and motion-graphics artist Jose Manuel Serna’s portfolio
@@ -293,16 +294,16 @@ Integration with existing tools, frameworks, and libraries.
 - [WebVR Soccer Stadium Complex](https://s3.amazonaws.com/cassell-webvr/webvr-soccer-stadium-multiplex/index.html) - Watch several video feeds at once in a soccer stadium. [[Code] ★6 ⏳1Y](https://github.com/cassell/webvr-soccer-stadium-multiplex)
 - [Trident](https://codepen.io/bryik/pen/XKWgvK) - Code experiment with cursor events in d3.js
 - [VR Inception School](https://output.jsbin.com/pisaje) - Learn a bit about WebVR in WebVR
-- [GuriVR](https://gurivr.com/) - Create sharable VR scenes using natural language and zero code. [[Code] ★123](https://github.com/opennewslabs/guri-vr)
+- [GuriVR](https://gurivr.com/) - Create sharable VR scenes using natural language and zero code. [[Code] ★131](https://github.com/opennewslabs/guri-vr)
 - [VR Space Builder](http://vr.greenbushlabs.com/) - Simple VR builder for kids using a form to import models and images
 - [WebVR API Simulation Extension](https://chrome.google.com/webstore/detail/webvr-api-emulation/gbdnpaebafagioggnhkacnaaahpiefil) - Run WebVR 1.0 content without a supported headset or even a compatible browser/platform. Great for development
 - [WebVR Solar System](http://vrspace.jmvisualcreativity.es) - Solar System using A-Frame
 - [Track](https://samsunginter.net/a-frame-demos/racer) - Zooming on the track with the ocean water reflecting the sunset sky. [[Code]](https://github.com/SamsungInternet/a-frame-demos/blob/gh-pages/racer/index.html)
 - [AaMAZE Music Festival](http://vr.aamaze.dk/) - Fully responsive official VR website for the AaMAZE music festival in Denmark
 - [Heart](https://s3.amazonaws.com/vr-asset-repo/heart_demo_slack.html) - An educating and interactive tour of the heart. But a life is at stake
-- [Miradas 360](https://miradas360.github.io/miradas360-01) - 360&deg; experiences created by media-production teams. [[Code] ★1 ⏳1Y](https://github.com/Miradas360/miradas360-01)
+- [Miradas 360](https://miradas360.github.io/miradas360-01) - 360&deg; experiences created by media-production teams. [[Code] ★1](https://github.com/Miradas360/miradas360-01)
 - [Interactive 360&deg; Videos](https://s3.amazonaws.com/hapyak_demos/interactive360video/edit.html) - Upload and edit 360&deg;-interactive videos by overlaying DOM elements
-- [Unity Exporter to A-Frame ★49](https://github.com/if1live/unity-scene-web-exporter) - Export Unity scenes to three.js or A-Frame with lightmapping
+- [Unity Exporter to A-Frame ★53](https://github.com/if1live/unity-scene-web-exporter) - Export Unity scenes to three.js or A-Frame with lightmapping
 - [WordPress Template](https://www.construktiv.de/imagine/?p=557) - WordPress template that displays the four most recent posts in VR
 - [Web Speech API Test](https://codepen.io/bryik/pen/mErOOR?editors=0010) - A demo of the Speech Recognition API to change object colors
 - [Apollo 11 Scan](http://math.nist.gov/~SRessler/aframe/ebd/projects/apollo/) - View the inside of the Apollo 11 Command Module, thanks to the [National Air and Space Museum](https://airandspace.si.edu/)
@@ -330,7 +331,7 @@ Integration with existing tools, frameworks, and libraries.
 Tools built with or for A-Frame.
 
 - [WebVR Studio](http://webvrstudio.com/)
-- [Fader Editor](https://fader.vragments.com/)
+- [Fader Editor](https://getfader.com/)
 - [IdeaSpace VR](https://www.ideaspacevr.org/)
 - [Hologram](https://hologram.cool/)
 

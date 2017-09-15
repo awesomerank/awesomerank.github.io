@@ -164,7 +164,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 * [data.json ★299](https://github.com/clojure/data.json) - parser/generator to/from Clojure data structures.
 
 **Fortran**
-* [JSON-Fortran ★82](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
+* [JSON-Fortran ★85](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
 
 **Haskell**
 * [aeson-qq ★39](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
@@ -172,9 +172,9 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 **Java**
 * [JSON-java ★2528](https://github.com/stleary/JSON-java) - A reference implementation.
 * [Fast JSON Processor ★10291](https://github.com/alibaba/fastjson)
-* [Gson ★9746](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
+* [Gson ★10098](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
 * [Jackson](http://wiki.fasterxml.com/JacksonHome) - A multi-purpose Java library for processing JSON data format.
-* [moshi ★2976](https://github.com/square/moshi) - A modern JSON library for Android and Java.
+* [moshi ★3061](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
 **Javascript**
 * [JSON-js ★7007](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
@@ -219,7 +219,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 
 ## Linters
 * [jsonlint ★1099](https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (Javascript)
-* [JSON Lint ★242](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
+* [JSON Lint ★243](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
 
 ## Online tools
 * [JSON Data Ninja](http://www.jsondata.ninja) - The most productive way to visualize and explore tabular JSON data.
@@ -302,7 +302,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 * [osmtogeojson ★253](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
 * [x2js ★499](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 * [JSONC ★385](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
-* [JsonMapper ★669](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
+* [JsonMapper ★680](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 * [SassyJSON ★171](https://github.com/HugoGiraudel/SassyJSON) - Sass-powered API. (Sass)
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
 * [JSONtoFoundation ★42 ⏳2Y](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
@@ -311,7 +311,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 * [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
 * [jsontl ★5 ⏳2Y](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
 * [json-transforms ★22 ⏳1Y](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
-* [normalizr ★9479](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (Javascript)
+* [normalizr ★9888](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (Javascript)
 * [JSON-populate ★3](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 * [CircularJSON ★230](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 

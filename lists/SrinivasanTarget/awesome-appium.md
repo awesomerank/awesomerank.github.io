@@ -92,7 +92,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 - [Appium Tests in OpenSTF Device Farm ★43](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm.
 - [Official Appium Docker Images ★57](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
 - [Appium Docker Images ★43](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android.
-- [Appium Docker File ★5 ⏳2Y](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
+- [Appium Docker File ★5 ⏳3Y](https://github.com/aluedeke/appium-android) - DockerFile for Appium Android.
 - [Appium Docker File ★5 ⏳2Y](https://github.com/softsam/docker-appium) - DockerFile for Appium Android.
 
 ## Git Books

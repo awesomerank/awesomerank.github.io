@@ -72,7 +72,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 
 ### Database
 - [Datascript ★2650](https://github.com/tonsky/datascript) – An immutable in-memory database and Datalog query engine in ClojureScript.
-- [Jaki ★12 ⏳4Y](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
+- [Jaki ★12 ⏳5Y](https://github.com/pandeiro/jaki) – A simple ClojureScript CouchDB client.
 - [Konserve ★60](https://github.com/replikativ/konserve) – A clojuresque key-value/document store protocol with core.async.
 
 

@@ -90,6 +90,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [JASP](https://jasp-stats.org/) - A complete package for both Bayesian and Frequentist methods, that is familiar to users of SPSS.
 * [Bio7](http://www.bio7.org/) - A IDE contains tools for model creation, scientific image analysis and statistical analysis for ecological modelling.
 * [RTVS](http://microsoft.github.io/RTVS-docs/) - R Tools for Visual Studio.
+* [Rice ★55](https://github.com/randy3k/Rice) - A modern R console with syntax highlighting.
 
 ## Syntax
 *Packages change the way you use R.*
@@ -503,7 +504,7 @@ Angle Regression
 * [pqR](http://www.pqr-project.org/) - a "pretty quick" implementation of R
 * [renjin](http://www.renjin.org/) - a JVM-based interpreter for R.
 * [rho ★126](https://github.com/rho-devel/rho) - Refactor the interpreter of the R language into a fully-compatible, efficient, VM for R.
-* [riposte ★74 ⏳1Y](https://github.com/jtalbot/riposte) - a fast interpreter and JIT for R.
+* [riposte ★74 ⏳2Y](https://github.com/jtalbot/riposte) - a fast interpreter and JIT for R.
 * [TERR](http://spotfire.tibco.com/discover-spotfire/what-does-spotfire-do/predictive-analytics/tibco-enterprise-runtime-for-r-terr) - TIBCO Enterprise Runtime for R.
 
 
@@ -603,7 +604,7 @@ Where to discover new R-esources.
 
 # Other Awesome Lists
 
-* [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness)
+* [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness)
 * [lists ★4428](https://github.com/jnv/lists)
 
 # Contributing

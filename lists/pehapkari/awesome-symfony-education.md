@@ -13,7 +13,7 @@ title: Awesome Rank for pehapkari/awesome-symfony-education
 
 A curated list of amazingly awesome Symfony **articles, series and books**.
 
-*For bundles selection, check [sitepoint-editors/awesome-symfony ★1075](https://github.com/sitepoint-editors/awesome-symfony).*
+*For bundles selection, check [sitepoint-editors/awesome-symfony ★1094](https://github.com/sitepoint-editors/awesome-symfony).*
 
 
 ## Single Action Controller
@@ -77,7 +77,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Decoupling
 
-* [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository ★199 ⏳3Y](https://github.com/MarcelloDuarte/hexagonal-symfony)
+* [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository ★205 ⏳3Y](https://github.com/MarcelloDuarte/hexagonal-symfony)
 * [Symfony2: How to create framework independent controllers](https://php-and-symfony.matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) [2014]
 
 

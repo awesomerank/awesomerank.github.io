@@ -100,7 +100,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [clj-slack ★79](https://github.com/julienXX/clj-slack) - Use Slack REST API from Clojure
 - [clj-slack-client ★3 ⏳1Y](https://github.com/tonyvanriet/clj-slack-client) - A Clojure client for the Slack RTM and Web APIs
 - [lunch-bot ★23 ⏳1Y](https://github.com/tonyvanriet/lunch-bot) - A Slack bot that manages group lunch activities
-- [markov-chainz ★1 ⏳1Y](https://github.com/sorenmacbeth/markov-chainz) - A Markov chain bot written in Clojure
+- [markov-chainz ★1 ⏳2Y](https://github.com/sorenmacbeth/markov-chainz) - A Markov chain bot written in Clojure
 - [slack-hooks ★18](https://github.com/papertrail/slack-hooks) - Papertrail's collection of webhook receivers for Slack
 - [slack.clj](https://gist.github.com/mikebroberts/9604828) - Example of sending a message to Slack from Clojure
 - [slacks ★0 ⏳2Y](https://github.com/pnf/slacks) - Deliver quotes to a Slack channel
@@ -155,7 +155,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slackrus ★52](https://github.com/johntdyer/slackrus) - Slack hook for Logrus
 - [slacktogo ★27 ⏳3Y](https://github.com/oderwat/slacktogo) - Slack Integration Server for distributing channels between different Slack teams
 - [webhook ★1876](https://github.com/adnanh/webhook) - Easily run commands in response to HTTP webhook requests from Slack
-- [worktile-events-to-slack ★11 ⏳1Y](https://github.com/cybertk/worktile-events-to-slack) - Forward Worktile events to Slack
+- [worktile-events-to-slack ★11 ⏳2Y](https://github.com/cybertk/worktile-events-to-slack) - Forward Worktile events to Slack
 
 ### Groovy
 
@@ -299,7 +299,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ### OCaml
 
-- [slacko ★42](https://github.com/Leonidas-from-XIV/slacko) - A neat interface for Slack
+- [slacko ★43](https://github.com/Leonidas-from-XIV/slacko) - A neat interface for Slack
 
 ### Perl
 
@@ -319,7 +319,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [make-it-rain ★304 ⏳1Y](https://github.com/fitztrev/make-it-rain) - Animated gif notifications whenever you get paid through Stripe
 - [MantisBT-Slack ★39](https://github.com/infojunkie/MantisBT-Slack) - MantisBT plugin to send bug updates to Slack
 - [mediawiki-slack ★36 ⏳1Y](https://github.com/grundleborg/mediawiki-slack) - Mediawiki integration for Slack
-- [monolog ★6350](https://github.com/Seldaek/monolog) - Sends your logs to Slack
+- [monolog ★6449](https://github.com/Seldaek/monolog) - Sends your logs to Slack
 - [notifyme ★176](https://github.com/notifymehq/notifyme) - Provides a common interface for notification services
 - [opauth-slack ★1 ⏳2Y](https://github.com/t1mmen/opauth-slack) - Slack authentication strategy for Opauth
 - [phlack ★53 ⏳1Y](https://github.com/mcrumm/phlack) - PHP API Wrapper
@@ -332,7 +332,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [Shooker ★21 ⏳1Y](https://github.com/jwenzler/Shooker) - Slack WebHooks PHP Class
 - [Slack ★893](https://github.com/maknz/slack) - Laravel 4 package for sending messages to Slack
 - [slack-api ★26 ⏳3Y](https://github.com/10w042/slack-api) - A super simple wrapper for the Slack API
-- [slack-notifier ★59 ⏳1Y](https://github.com/polem/slack-notifier) - Simple PHP wrapper for Slack notifications
+- [slack-notifier ★59 ⏳2Y](https://github.com/polem/slack-notifier) - Simple PHP wrapper for Slack notifications
 - [slack-sdk](https://packagist.org/packages/threadmeup/slack-sdk) - PHP SDK
 - [slack-tea ★8](https://github.com/liquidlight/slack-tea) - Decide who makes the tea using Slack
 - [slack-webhooks](https://github.com/Xeonys/slack-webhooks) - Easily add service with webhooks integration in Slack
@@ -423,7 +423,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [chef-slack\_handler ★11 ⏳1Y](https://github.com/dcm-ops/chef-slack_handler) - Chef handler for Slack
 - [dogetip-slack ★9 ⏳1Y](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack
 - [doorbell-server ★16](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell
-- [fastlane ★17489](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
+- [fastlane ★18074](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
 - [gifbot ★38 ⏳3Y](https://github.com/schuyler/gifbot) - Integrated animated GIF search for Slack
 - [hatebu-hooker ★4 ⏳3Y](https://github.com/kmrshntr/hatebu-hooker) - Post Hatena::Bookmark to Slack
 - [kickslacker ★5 ⏳3Y](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack

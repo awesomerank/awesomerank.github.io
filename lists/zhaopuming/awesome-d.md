@@ -389,7 +389,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 - [unit-threaded ★67](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness) projects.
+Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) projects.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/zhaopuming/awesome-d">zhaopuming/awesome-d</a> with ranks

@@ -91,7 +91,7 @@ title: Awesome Rank for podo/awesome-framer
 * [tabBarModule ★90 ⏳1Y](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar.
 * [framer-animation-collections ★55 ⏳1Y](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations.
 * [framer.iosnotification ★22 ⏳2Y](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification.
-* [Framer-Grid ★21](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process.
+* [Framer-Grid ★21 ⏳1Y](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process.
 * [shortcuts-for-framer ★417 ⏳2Y](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier.
 * [framer.placehold ★10 ⏳2Y](https://github.com/cupofjoakim/framer.placehold) - This is a module for framer that provides a library of different image placeholder services.
 * [FramerNavigationComponent ★27 ⏳2Y](https://github.com/jchavarri/FramerNavigationComponent) - Reusable and customizable navigation component for Framer, based on iOS.

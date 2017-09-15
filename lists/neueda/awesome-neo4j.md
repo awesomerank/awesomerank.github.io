@@ -81,7 +81,7 @@ Created by [gh-md-toc ★130](https://github.com/ekalinin/github-markdown-toc.go
 - [neo4j-dotnet-driver ★44](https://github.com/neo4j/neo4j-dotnet-driver) - .Net driver for Neo4j (Bolt).
 - [neo4j-bolt-php ★16](https://github.com/graphaware/neo4j-bolt-php) - PHP driver for Neo4j binary protocol.
 - [libneo4j-client ★35](https://github.com/cleishm/libneo4j-client) - libneo4j-client is a client library written in C for Neo4j. It is not intended as a complete driver, but rather as a foundation on which basic tools and drivers for various languages may be built. libneo4j-client takes care of all the detail of establishing a session with a Neo4j server, sending statements for evaluation, and retrieving results.
-- [neo4j-spark-connector ★77](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
+- [neo4j-spark-connector ★81](https://github.com/neo4j-contrib/neo4j-spark-connector) - Neo4j-Spark-Connector based on Neo4j 3.0's Bolt protocol
 - [neo4j-elixir-driver ★19](https://github.com/mschae/boltex) - Elixir driver for the neo4j bolt protocol
 - [neo4j-elixir-wrapper ★59](https://github.com/florinpatrascu/bolt_sips) - Neo4j driver for Elixir, wrapped around the Bolt protocol. Fork of the Boltex.
 

@@ -119,7 +119,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 - [Google Service integration](http://giderosmobile.com/forum/discussion/5806/tuto-video-tutorial-how-to-add-google-services-to-your-app) - Second part of the Admob tutorial showing Google Play Service integration.
 
 ### GUI
-- [Layout ★6](https://github.com/Nlcke/layout) - Comprehensive Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
+- [Layout ★7](https://github.com/Nlcke/layout) - Comprehensive Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
 - [Button class](http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class) - Simple class for creating clickable buttons.
 - [AceSlide class](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile) - Sliding UI-Element that can be used for example for level selection.
 
@@ -143,7 +143,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 ## Related Awesome Lists
 - [awesome-lua ★1446](https://github.com/LewisJEllis/awesome-lua)
 - [awesome-love2d ★692](https://github.com/love2d-community/awesome-love2d)
-- [awesome-gamedev ★147](https://github.com/mbrukman/awesome-gamedev)
+- [awesome-gamedev ★156](https://github.com/mbrukman/awesome-gamedev)
 
 
 ## License and Contributing

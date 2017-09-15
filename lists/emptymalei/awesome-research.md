@@ -142,7 +142,7 @@ someday) and projects. [Here](https://hamberg.no/gtd/) we have a good pragmatic 
 
 ## Cloud Services
 
-*For self-hosted services, check out [awesome-selfhosted ★17075](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
+*For self-hosted services, check out [awesome-selfhosted ★18239](https://github.com/Kickball/awesome-selfhosted) on GitHub.*
 
 
 ### Math and Programming
@@ -336,7 +336,7 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 * [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
 * [ReText ★624](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 * [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
-* [eme ★1567](https://github.com/egoist/eme) (`Win`,`Mac`,`Linux`): Math support.
+* [eme ★1582](https://github.com/egoist/eme) (`Win`,`Mac`,`Linux`): Math support.
 * [Moeditor](https://moeditor.org/) (`Win`,`Mac`,`Linux`): All purpose markdown editor.
 
 Notebook softwares that you can write in Markdown:
@@ -467,7 +467,7 @@ Use [colors ★7528](https://github.com/mrmrs/colors) to make your HTML feels be
 * [Beckpoke.js ★4198](https://github.com/bespokejs/bespoke)
 * [CSSS ★1482](https://github.com/LeaVerou/CSSS)
 * [Scrolldeck ★689 ⏳1Y](https://github.com/johnpolacek/scrolldeck.js)
-* [Deck.js ★5181](https://github.com/imakewebthings/deck.js)
+* [Deck.js ★5189](https://github.com/imakewebthings/deck.js)
 * [Shower ★3691](https://github.com/shower/shower)
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js ★1194](https://github.com/marcolago/flowtime.js)

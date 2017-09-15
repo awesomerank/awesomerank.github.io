@@ -160,7 +160,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Checkstyle ★2225](https://github.com/checkstyle/checkstyle) - Static analysis of coding conventions and standards.
 * [Error Prone ★2864](https://github.com/google/error-prone) - Catches common programming mistakes as compile-time errors.
 * [FindBugs](http://findbugs.sourceforge.net/) - Static analysis of bytecode to find potential bugs.
-* [Infer ★7061](https://github.com/facebook/infer) - Modern static analysis tool for verifying the correctness of code.
+* [Infer ★7248](https://github.com/facebook/infer) - Modern static analysis tool for verifying the correctness of code.
 * [jQAssistant](http://jqassistant.org/) - Static code analysis with Neo4J-based query language.
 * [PMD ★1094](https://github.com/pmd/pmd) - Source code analysis for finding bad coding practices.
 * [Sourcetrail ![c]](https://www.sourcetrail.com) - Visual source code navigator.
@@ -254,9 +254,9 @@ A curated list of awesome Java frameworks, libraries and software.
 * [OrientDB](https://orientdb.com/orientdb/) - Embeddable distributed database written on top of Hazelcast.
 * [Presto ★6379](https://github.com/prestodb/presto) - Distributed SQL query engine for big data.
 * [Querydsl](http://www.querydsl.com/) - Typesafe unified queries.
-* [Realm ★8249](https://github.com/realm/realm-java) - Mobile database to run directly inside phones, tablets or wearables.
+* [Realm ★8407](https://github.com/realm/realm-java) - Mobile database to run directly inside phones, tablets or wearables.
 * [Redisson](https://github.com/mrniko/redisson) - Allows for distributed and scalable data structures on top of a Redis server.
-* [requery ★2083](https://github.com/requery/requery) - A modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
+* [requery ★2139](https://github.com/requery/requery) - A modern, lightweight but powerful object mapping and SQL generator. Easily map to or create databases, or perform queries and updates from any Java-using platform.
 * [Speedment ★1060](https://github.com/speedment/speedment) - Database access library that utilizes Java 8's Stream API for querying.
 * [sql2o](http://sql2o.org/) - Thin JDBC wrapper that simplifies database access and provides simple mapping of ResultSets to POJOs.
 * [Vibur DBCP](http://www.vibur.org/) - JDBC connection pool library with advanced performance monitoring capabilities.
@@ -274,7 +274,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Persistent Collection](http://pcollections.org/) - Persistent and immutable analogue of the Java Collections Framework.
 * [Protobuf ★19431](https://github.com/google/protobuf) - Google's data interchange format.
 * [SBE ★1149](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
-* [Tape ★1897](https://github.com/square/tape) - A lightning-fast, transactional, file-based FIFO.
+* [Tape ★1917](https://github.com/square/tape) - A lightning-fast, transactional, file-based FIFO.
 * [Wire ★2083](https://github.com/square/wire) - Clean, lightweight protocol buffers.
 
 ## Date and Time
@@ -467,21 +467,21 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Tess4J ★257](https://github.com/nguyenq/tess4j) - A JNA wrapper for Tesseract OCR API.
 * [Thumbnailator ★888](https://github.com/coobird/thumbnailator) - High-quality thumbnail generation library.
 * [TwelveMonkeys ★585](https://github.com/haraldk/TwelveMonkeys) - Collection of plugins that extend the number of supported image file formats.
-* [ZXing ★14806](https://github.com/zxing/zxing) - Multi-format 1D/2D barcode image processing library.
+* [ZXing ★15341](https://github.com/zxing/zxing) - Multi-format 1D/2D barcode image processing library.
 
 ## JSON
 
 *Libraries for serializing and deserializing JSON to and from Java objects.*
 
 * [Genson](http://owlike.github.io/genson/) - Powerful and easy-to-use Java-to-JSON conversion library.
-* [Gson ★9746](https://github.com/google/gson) - Serializes objects to JSON and vice versa. Good performance with on-the-fly usage.
+* [Gson ★10098](https://github.com/google/gson) - Serializes objects to JSON and vice versa. Good performance with on-the-fly usage.
 * [HikariJSON ★92](https://github.com/brettwooldridge/HikariJSON) - High-performance JSON parser, 2x faster than Jackson.
 * [Jackson-datatype-money ★56](https://github.com/zalando/jackson-datatype-money) - Open-source Jackson module to support JSON serialization and deserialization of JavaMoney data types.
-* [Jackson ★3131](https://github.com/FasterXML/jackson) - Similar to GSON, but offers performance gains if you need to instantiate the library more often.
+* [Jackson ★3223](https://github.com/FasterXML/jackson) - Similar to GSON, but offers performance gains if you need to instantiate the library more often.
 * [JSON-io ★204](https://github.com/jdereg/json-io) - Convert Java to JSON. Convert JSON to Java. Pretty print JSON. Java JSON serializer.
 * [jsoniter](http://jsoniter.com) - Fast and flexible library with iterator and lazy parsing API.
 * [LoganSquare ★2962](https://github.com/bluelinelabs/LoganSquare) - JSON parsing and serializing library based on Jackson's streaming API. Outperforms GSON & Jackson's library.
-* [Moshi ★2976](https://github.com/square/moshi) - Modern JSON library, less opinionated and uses built-in types like List and Map.
+* [Moshi ★3061](https://github.com/square/moshi) - Modern JSON library, less opinionated and uses built-in types like List and Map.
 
 ## JSON Processing
 
@@ -700,7 +700,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Akka](http://akka.io) - Toolkit and runtime for building concurrent, distributed, fault-tolerant and event-driven applications.
 * [Reactive Streams ★1823](https://github.com/reactive-streams/reactive-streams-jvm) - Provides a standard for asynchronous stream processing with non-blocking backpressure.
 * [Reactor](http://projectreactor.io/) - Library for building reactive fast-data applications.
-* [RxJava ★26491](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences from the JVM.
+* [RxJava ★27262](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences from the JVM.
 * [vert.x](http://vertx.io/) - Polyglot event-driven application framework.
 
 ## REST Frameworks
@@ -834,7 +834,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Dex ★786](https://github.com/PatMartin/Dex) - Java/JavaFX tool capable of powerful ETL and data visualization.
 * [Embulk](http://www.embulk.org/) - Bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services.
 * [Gephi ★2184](https://github.com/gephi/gephi) - Cross-platform for visualizing and manipulating large graph networks.
-* [Guava ★18198](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and more.
+* [Guava ★18918](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and more.
 * [JADE](http://jade.tilab.com/) - Framework and environment for building and debugging multi-agent systems.
 * [JavaVerbalExpressions ★1424](https://github.com/VerbalExpressions/JavaVerbalExpressions) - Library that helps with constructing difficult regular expressions.
 * [JGit](https://eclipse.org/jgit/) - A lightweight, pure Java library implementing the Git version control system.

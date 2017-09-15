@@ -43,7 +43,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [preludejs ★55 ⏳1Y](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 * [1-liners ★456](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
 * [fn-curry ★5 ⏳3Y](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
-* [curry ★71](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
+* [curry ★71 ⏳1Y](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
 * [compose-function ★26 ⏳1Y](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
 * [functionize ★42 ⏳2Y](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
 * [lambdajs ★123 ⏳3Y](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
@@ -74,7 +74,7 @@ Write performant functional code by using the right data structures for the task
 * [Lazy.js ★4333](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 * [DerivableJS ★418](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related.
 * [imlazy ★45](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
-* [collectable ★38](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. 
+* [collectable ★43](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. 
 
 
 ### Algebraic Data Types

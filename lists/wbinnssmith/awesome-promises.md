@@ -132,7 +132,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
 * [promise-do-until ★0 ⏳1Y](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
 * [promise-do-whilst ★2 ⏳1Y](https://github.com/busterc/promise-do-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise.
-* [promise-semaphore ★27](https://github.com/samccone/promise-semaphore) - Push a set of work to be done in a configurable serial fashion
+* [promise-semaphore ★27 ⏳1Y](https://github.com/samccone/promise-semaphore) - Push a set of work to be done in a configurable serial fashion
 * [promise-nodeify ★0](https://github.com/kevinoid/promise-nodeify) - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.
 
 ## License

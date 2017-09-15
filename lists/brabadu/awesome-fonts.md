@@ -65,7 +65,7 @@ A curated list of fonts and typography resources.
 * [emoji ★409 ⏳1Y](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
 * [emojidex ★3](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
 * [emojify.js ★1683](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
-* [emojify ★882](https://github.com/mrowa44/emojify) - Emoji on the command line
+* [emojify ★897](https://github.com/mrowa44/emojify) - Emoji on the command line
 * [emojilib ★651](https://github.com/muan/emojilib) - Emoji keyword library
 * [emojillate ★218](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
 * [emojione ★3590](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
@@ -99,7 +99,7 @@ A curated list of fonts and typography resources.
 * [icono](https://saeedalipoor.github.io/icono/) - One tag One icon, no font or svg, Pure CSS
 * [ionicons](http://ionicons.com/) - The premium icon font for Ionic
 * [Map Icons ★839](https://github.com/scottdejonge/map-icons) - Font for use with Google Maps API and Google Places API using SVG markers and icon labels
-* [Material design icons ★30868](https://github.com/google/material-design-icons) - Official icon set from Google
+* [Material design icons ★31302](https://github.com/google/material-design-icons) - Official icon set from Google
 * [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) - Awesome web font icon by MFG Labs
 * [Micon ★123](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit
 * [octicons](https://octicons.github.com/) - GitHub's icon font
@@ -129,7 +129,7 @@ A curated list of fonts and typography resources.
 * [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
 * [Meslo-Font ★1760 ⏳2Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Mononoki](http://madmalik.github.io/mononoki/)
-* [Nerd Fonts ★5063](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+* [Nerd Fonts ★5390](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 
 #### Programming fonts with ligatures
 * [FiraCode ★16415](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures

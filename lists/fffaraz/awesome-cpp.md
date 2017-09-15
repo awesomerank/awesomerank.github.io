@@ -115,6 +115,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CNTK ★12124](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. [Boost]
 * [tiny-dnn ★3191](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. [BSD]
 * [Veles ★832](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. [Apache]
+* [Kaldi ★2460](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. [Apache] 
 
 ## Asynchronous Event Loop
 
@@ -613,7 +614,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [value-category-cheatsheet ★306](https://github.com/jeaye/value-category-cheatsheet) A PDF cheatsheet for lvalues, rvalues, and the like. [Jank copyleft]
 * [VarTypes](https://code.google.com/p/vartypes/) - A feature-rich, object-oriented framework for managing variables in C++ / Qt4. [LGPL]
 * [ZBar](http://zbar.sourceforge.net/) - A barcode scanner library, which allows to scan photos/images/video streams for barcodes and return their value. [LGPL2]
-* [ZXing ★14806](https://github.com/zxing/zxing) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
+* [ZXing ★15341](https://github.com/zxing/zxing) - An open-source, multi-format 1D/2D barcode image processing library implemented in Java, with ports to other languages. [Apache]
 
 # Software
 *Software for creating a development environment.*
@@ -704,7 +705,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Cppcheck](http://cppcheck.sourceforge.net/) - A tool for static C/C++ code analysis. - [source ★1337](https://github.com/danmar/cppcheck)
 * [PVS-Studio](http://www.viva64.com/en/pvs-studio/) - A tool for bug detection in the source code of programs, written in C, C++ and C#.
 * [include-what-you-use](https://code.google.com/p/include-what-you-use/) - A tool for use with clang to analyze includes in C and C++ source files.
-* [Infer ★7061](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. [BSD]
+* [Infer ★7248](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C. [BSD]
 * [OCLint](http://oclint.org/) - A static source code analysis tool to improve quality and reduce defects for C, C++ and Objective-C. - [source ★1899](https://github.com/oclint/oclint)
 * [Clang Static Analyzer](http://clang-analyzer.llvm.org/index.html) - A source code analysis tool that finds bugs in C, C++, and Objective-C programs.
 * [Linticator](http://linticator.com) - Eclipse CDT integration of Pc-/FlexeLint.
@@ -810,7 +811,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Other amazingly awesome lists*
 
 * [lists ★4428](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
-* [awesome-awesomeness ★19452](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
+* [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 * [awesome ★63835](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 * [C++ links ★386](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 * [Awesome C/C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.

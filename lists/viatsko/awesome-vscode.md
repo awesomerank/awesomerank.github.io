@@ -104,7 +104,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 ## Official
 
 - [Official website](https://code.visualstudio.com/)
-- [Source code ★31628](https://github.com/microsoft/vscode) on GitHub
+- [Source code ★33246](https://github.com/microsoft/vscode) on GitHub
 - [Releases (stable channel)](https://code.visualstudio.com/download)
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
 - [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
@@ -164,7 +164,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [C/C++](https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools) - Preview C/C++ extension by [Microsoft](https://www.microsoft.com), read [official blog post](https://blogs.msdn.microsoft.com/vcblog/2016/03/31/cc-extension-for-visual-studio-code/) for the details
 - [gnu-global-tags](https://marketplace.visualstudio.com/items?itemName=austin.code-gnu-global) - Provide Intellisense for C/C++ with the help of the GNU Global tool.
 - [YouCompleteMe](https://marketplace.visualstudio.com/items?itemName=RichardHe.you-complete-me) - Provides semantic completions for C/C++ (and TypeScript, JavaScript, Objective-C, Golang, Rust) using [YouCompleteMe](http://valloric.github.io/YouCompleteMe/).
-- [C/C++ Clang Command Adapter ★63](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
+- [C/C++ Clang Command Adapter ★64](https://github.com/mitaki28/vscode-clang) - Completion and Diagnostic for C/C++/Objective-C using Clang command.
 
 ### CSS
 
@@ -191,7 +191,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2841](https://github.com/sindresorhus/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★11100](https://github.com/avajs/ava).
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier ★317](https://github.com/prettier/prettier-vscode).
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier ★371](https://github.com/prettier/prettier-vscode).
 
 ### TypeScript
 
@@ -199,7 +199,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### Markdown
 
-- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint ★230](https://github.com/DavidAnson/markdownlint).
+- [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint) - Linter for [markdownlint ★253](https://github.com/DavidAnson/markdownlint).
 
 ### PHP
 
@@ -221,8 +221,8 @@ Unfortunately, VS Code doesn't support custom UI themes yet https://github.com/M
 
 If you're feeling brave, there are at least two custom UIs for VS Code:
 
-- [Essence ★39](https://github.com/flagello/Essence)
-- [Pragmatic Essence ★42](https://github.com/orta/Essence)
+- [Essence ★43](https://github.com/flagello/Essence)
+- [Pragmatic Essence ★46](https://github.com/orta/Essence)
 
 ### Syntax
 
@@ -525,7 +525,7 @@ Features full workbench theming
 
 - [Online TextMate Themes Editor](http://tmtheme-editor.herokuapp.com/) - since VS Code supports TextMate themes, you can create them in this online editor and then create a new VS Code package using [Yo Code](https://code.visualstudio.com/docs/extensions/yocode) tool
 - [Yo Code - Extension Generator](https://code.visualstudio.com/docs/extensions/yocode)
-- [Open in Code ★59](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
+- [Open in Code ★74](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code
 ![](https://camo.githubusercontent.com/edbae5fe27d6c7af23218e60cb07e3a5061bbbab/687474703a2f2f692e696d6775722e636f6d2f4c6d56484978572e676966)
 
 ## Contribute

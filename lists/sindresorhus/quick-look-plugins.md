@@ -34,31 +34,31 @@ brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch 
 ## Plugins
 
 
-### [QLColorCode ★152](https://github.com/anthonygelibert/QLColorCode)
+### [QLColorCode ★155](https://github.com/anthonygelibert/QLColorCode)
 
 > Preview source code files with syntax highlighting
 
 Run `brew cask install qlcolorcode` or [download manually](https://github.com/anthonygelibert/QLColorCode/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLColorCode.png) ★152](https://github.com/anthonygelibert/QLColorCode)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLColorCode.png) ★155](https://github.com/anthonygelibert/QLColorCode)
 
 
-### [QLStephen ★1512](https://github.com/whomwah/qlstephen)
+### [QLStephen ★1532](https://github.com/whomwah/qlstephen)
 
 > Preview plain text files without or with unknown file extension. Example: README, CHANGELOG, index.styl, etc.
 
 Run `brew cask install qlstephen` or [download manually](https://github.com/whomwah/qlstephen/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLStephen.png) ★1512](https://github.com/whomwah/qlstephen)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLStephen.png) ★1532](https://github.com/whomwah/qlstephen)
 
 
-### [QLMarkdown ★2350](https://github.com/toland/qlmarkdown)
+### [QLMarkdown ★2374](https://github.com/toland/qlmarkdown)
 
 > Preview Markdown files
 
 Run `brew cask install qlmarkdown` or [download manually](https://github.com/downloads/toland/qlmarkdown/QLMarkdown-1.3.zip)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLMarkdown.png) ★2350](https://github.com/toland/qlmarkdown)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLMarkdown.png) ★2374](https://github.com/toland/qlmarkdown)
 
 
 ### [QuickLookJSON](http://www.sagtau.com/quicklookjson.html)
@@ -70,22 +70,22 @@ Run `brew cask install quicklook-json` or [download manually](http://www.sagtau.
 [![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QuickLookJSON.png)](http://www.sagtau.com/quicklookjson.html)
 
 
-### [QLPrettyPatch ★72 ⏳1Y](https://github.com/atnan/QLPrettyPatch)
+### [QLPrettyPatch ★73 ⏳1Y](https://github.com/atnan/QLPrettyPatch)
 
 > Preview .patch files
 
 Run `brew cask install qlprettypatch` or [download manually](https://github.com/atnan/QLPrettyPatch/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLPrettyPatch.png) ★72 ⏳1Y](https://github.com/atnan/QLPrettyPatch)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLPrettyPatch.png) ★73 ⏳1Y](https://github.com/atnan/QLPrettyPatch)
 
 
-### [QuickLookCSV ★139](https://github.com/p2/quicklook-csv)
+### [QuickLookCSV ★138](https://github.com/p2/quicklook-csv)
 
 > Preview CSV files
 
 Run `brew cask install quicklook-csv` or [download manually](http://quicklook-csv.googlecode.com/files/QuickLookCSV.dmg)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QuickLookCSV.png) ★139](https://github.com/p2/quicklook-csv)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QuickLookCSV.png) ★138](https://github.com/p2/quicklook-csv)
 
 
 ### [BetterZipQL](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
@@ -97,22 +97,22 @@ Run `brew cask install betterzipql` or [download manually](http://macitbetter.co
 [![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/BetterZipQL.png)](http://macitbetter.com/BetterZip-Quick-Look-Generator/)
 
 
-### [qlImageSize ★602](https://github.com/Nyx0uf/qlImageSize)
+### [qlImageSize ★607](https://github.com/Nyx0uf/qlImageSize)
 
 > Display image size and resolution
 
-Run `brew cask install qlimagesize` or [download manually ★602](https://github.com/Nyx0uf/qlImageSize#installation)
+Run `brew cask install qlimagesize` or [download manually ★607](https://github.com/Nyx0uf/qlImageSize#installation)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/qlImageSize.png) ★602](https://github.com/Nyx0uf/qlImageSize)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/qlImageSize.png) ★607](https://github.com/Nyx0uf/qlImageSize)
 
 
-### [WebP ★121 ⏳2Y](https://github.com/dchest/webp-quicklook)
+### [WebP ★123 ⏳2Y](https://github.com/dchest/webp-quicklook)
 
 > Preview WebP images
 
 Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/WebP.png) ★121 ⏳2Y](https://github.com/dchest/webp-quicklook)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/WebP.png) ★123 ⏳2Y](https://github.com/dchest/webp-quicklook)
 
 
 ### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)
@@ -133,26 +133,26 @@ Run `brew cask install quicklookase` or [download manually](https://github.com/r
 [![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QuickLookASE.png) ★4](https://github.com/rsodre/QuickLookASE)
 
 
-### [QLVideo ★811](https://github.com/Marginal/QLVideo)
+### [QLVideo ★828](https://github.com/Marginal/QLVideo)
 
 > Preview most types of video files, as well as their thumbnails, cover art and metadata
 
 Run `brew cask install qlvideo` or [download manually](https://github.com/Marginal/QLVideo/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLVideo.png) ★811](https://github.com/Marginal/QLVideo)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/QLVideo.png) ★828](https://github.com/Marginal/QLVideo)
 
 
 ## More
 
 *These are not included in [Install all](#install-all).*
 
-### [ProvisionQL ★399](https://github.com/ealeksandrov/ProvisionQL)
+### [ProvisionQL ★412](https://github.com/ealeksandrov/ProvisionQL)
 
 > Preview iOS / macOS app and provision information
 
 Run `brew cask install provisionql` or [download manually](https://github.com/ealeksandrov/ProvisionQL/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/ProvisionQL.png) ★399](https://github.com/ealeksandrov/ProvisionQL)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/ProvisionQL.png) ★412](https://github.com/ealeksandrov/ProvisionQL)
 
 
 ### [QuickLookAPK ★52](https://github.com/hezi/QuickLookAPK)

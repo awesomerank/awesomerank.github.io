@@ -428,9 +428,9 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Help Wanted ★42](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 * [JSON ★511](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 * [WPO ★5969](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-* [Shell ★10064](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+* [Shell ★10318](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 * [Public APIs ★26395](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
-* [Public Datasets ★19933](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
+* [Public Datasets ★20304](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 * [Style Guides ★713](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
 ## Contributing

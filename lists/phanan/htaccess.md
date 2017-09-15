@@ -17,7 +17,7 @@ A collection of useful .htaccess snippets, all in one place.
 **IMPORTANT**: Apache 2.4 introduces a few breaking changes, most notably in access control configuration. For more information, check the [upgrading document](https://httpd.apache.org/docs/2.4/upgrading.html) as well as [this issue](https://github.com/phanan/htaccess/issues/2).
 
 ## Credits
-What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from [Apache Server Configs ★1975](https://github.com/h5bp/server-configs-apache)) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.
+What we are doing here is mostly collecting useful snippets from all over the interwebs (for example, a good chunk is from [Apache Server Configs ★2003](https://github.com/h5bp/server-configs-apache)) into one place. While we’ve been trying to credit where due, things might be missing. If you believe anything here is your work and credits should be given, let us know, or just send a PR.
 
 ## Table of Contents
 - [Rewrite and Redirection](#rewrite-and-redirection)
@@ -258,7 +258,7 @@ These files may be left by some text/HTML editors (like Vi/Vim) and pose a great
     # Require all denied
 </FilesMatch>
 ```
-[Source ★1975](https://github.com/h5bp/server-configs-apache)
+[Source ★2003](https://github.com/h5bp/server-configs-apache)
 
 ### Disable Directory Browsing
 ``` apacheconf
@@ -379,13 +379,13 @@ Header set X-Frame-Options SAMEORIGIN env=!allow_framing
 
 </IfModule>
 ```
-[Source ★1975](https://github.com/h5bp/server-configs-apache)
+[Source ★2003](https://github.com/h5bp/server-configs-apache)
 
 
 ### Set Expires Headers
 _Expires headers_ tell the browser whether they should request a specific file from the server or just grab it from the cache. It is advisable to set static content's expires headers to something far in the future.
 
-If you don’t control versioning with filename-based cache busting, consider lowering the cache time for resources like CSS and JS to something like 1 week. [Source ★1975](https://github.com/h5bp/server-configs-apache)
+If you don’t control versioning with filename-based cache busting, consider lowering the cache time for resources like CSS and JS to something like 1 week. [Source ★2003](https://github.com/h5bp/server-configs-apache)
 ``` apacheconf
 <IfModule mod_expires.c>
     ExpiresActive on
@@ -504,7 +504,7 @@ AddDefaultCharset utf-8
 # Force UTF-8 for a number of file formats
 AddCharset utf-8 .atom .css .js .json .rss .vtt .xml
 ```
-[Source ★1975](https://github.com/h5bp/server-configs-apache)
+[Source ★2003](https://github.com/h5bp/server-configs-apache)
 
 ### Switch to Another PHP Version
 If you’re on a shared host, chances are there are more than one version of PHP installed, and sometimes you want a specific version for your website. The following snippet should switch the PHP version for you.
@@ -535,7 +535,7 @@ RewriteCond %{HTTP_ACCEPT} image/webp
 RewriteCond %{DOCUMENT_ROOT}/$1.webp -f
 RewriteRule (.+)\.(jpe?g|png)$ $1.webp [T=image/webp,E=accept:1]
 ```
-[Source ★52 ⏳1Y](https://github.com/vincentorback/WebP-images-with-htaccess)
+[Source ★53 ⏳1Y](https://github.com/vincentorback/WebP-images-with-htaccess)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/phanan/htaccess">phanan/htaccess</a> with ranks

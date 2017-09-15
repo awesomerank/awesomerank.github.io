@@ -51,7 +51,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## General resources
 
 - [Official site](https://wagtail.io/)
-- [GitHub repository ★4591](https://github.com/wagtail/wagtail)
+- [GitHub repository ★4714](https://github.com/wagtail/wagtail)
 - [Twitter account](https://twitter.com/wagtailcms)
 - [Roadmap](https://github.com/wagtail/wagtail/projects/1)
 
@@ -132,14 +132,14 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Translations
 
-- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation ★519](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
+- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation ★527](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 - [wagtailtrans ★26](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
 
 ### Forms
 
 - [wagtailpolls ★18](https://github.com/takeflight/wagtailpolls) - A plugin for adding polling capabilities to the Wagtail CMS.
 - [Wagtailsurveys ★16 ⏳1Y](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys.
-- [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha ★425](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
+- [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha ★438](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
 
 ### Testing
 
@@ -156,6 +156,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Sharing ★14](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
 - [Wagtail Postgres Search Backend ★4](https://github.com/leukeleu/wagtail-pg-search-backend) - PostgreSQL full text search backend for Wagtail CMS.
 - [Wagtail Gridder ★10](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
+- [Wagtail Condensed Inline Panel ★21](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
 
 ## Tools
 

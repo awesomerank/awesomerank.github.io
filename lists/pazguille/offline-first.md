@@ -804,27 +804,27 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 
 ## Tools
 
-[offline-plugin ★2233](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
+[offline-plugin ★2354](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
 
-[Pinterest Service Workers ★832](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
+[Pinterest Service Workers ★873](https://github.com/pinterest/service-workers):A collection of utilities for creating/testing/experimenting with service workers.
 
 [Kinto](http://www.kinto-storage.org/): Add synchronisation and sharing abilities to your Web application in seconds.
 
-[bottle-service ★286 ⏳1Y](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
+[bottle-service ★288 ⏳1Y](https://github.com/bahmutov/bottle-service): Instant web applications restored from ServiceWorker cache.
 
 [react-boilerplate](https://github.com/mxstbr/react-boilerplate): Quick setup for performance orientated, offline-first React.js applications.
 
 [Haywire ★19 ⏳2Y](https://github.com/omnia-salud/haywire): A minimal javascript library for network issues detection.
 
-[sw-toolbox ★2686](https://github.com/GoogleChrome/sw-toolbox): A collection of tools for service workers.
+[sw-toolbox ★2753](https://github.com/GoogleChrome/sw-toolbox): A collection of tools for service workers.
 
 [UpUp](https://www.talater.com/upup/): An Offline First library designed to be the easiest way to add offline capabilities to a site.
 
-[simple-serviceworker-tutorial ★281](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
+[simple-serviceworker-tutorial ★290](https://github.com/jakearchibald/simple-serviceworker-tutorial): A really simple ServiceWorker example, designed to be an interactive introduction to ServiceWorker.
 
 [Hyperboot ★382 ⏳1Y](https://github.com/substack/hyperboot): Offline webapp bootloader.
 
-[MakeDrive ★357 ⏳2Y](https://github.com/mozilla/makedrive): A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
+[MakeDrive ★358 ⏳2Y](https://github.com/mozilla/makedrive): A cloud-based Dropbox® equivalent for browser filesystems. Designed for use with Mozilla Webmaker tools and services.
 See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDrive) for background info.
 
 [ApplicationCache](https://developer.mozilla.org/en-US/docs/Web/HTML/Using_the_application_cache): HTML5 provides an application caching mechanism that lets web-based applications run offline.
@@ -833,7 +833,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [ServiceWorkers](https://developer.mozilla.org/en-US/docs/Web/API/Service_Worker_API): A Service Worker acts like a proxy on the client. For page requests and requests made by pages, you get a fetch event that you can respond to yourself, creating offline experiences.
 
-[localForage ★9730](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+[localForage ★9938](https://github.com/localForage/localForage): Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 
 [remoteStorage](https://remotestorage.io/): remoteStorage enabled apps automatically sync your data across all of your devices, from desktop to tablet to smartphone, and even your TV.
 
@@ -845,9 +845,9 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Offline States](http://offlinestat.es/): What show applications when we have not internet connection.
 
-[appCache Nanny ★203](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
+[appCache Nanny ★205](https://github.com/gr2m/appcache-nanny):  JavaScript APIs for appCache
 
-[bro-fs ★7](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
+[bro-fs ★9](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
 
 ## Books
 

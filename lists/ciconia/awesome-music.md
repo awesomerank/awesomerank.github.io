@@ -49,7 +49,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 ## Audio Tools
 
 * [Beets](http://beets.radbox.org/) - a powerful command-line music organizer and manipulator.
-* [Koel ★8003](https://github.com/phanan/koel) - an open-source personal audio streaming server.
+* [Koel ★8141](https://github.com/phanan/koel) - an open-source personal audio streaming server.
 * [Lame](http://lame.sourceforge.net/) - a high quality, free and open-source MP3 encoder.
 * [lltag](http://home.gna.org/lltag/) - automatic command-line mp3/ogg/flac file tagger and renamer.
 * [Musikernel ★48](https://github.com/j3ffhubb/musikernel) - a futuristic audio production platform (hardware support, APIs, hosts, plugins and more)
@@ -136,8 +136,8 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 
 ## Related lists
 
-* [Awesome Music Production ★32](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
-* [Awesome Web Audio ★243](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
+* [Awesome Music Production ★32 ⏳1Y](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
+* [Awesome Web Audio ★254](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
 Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) list.
 

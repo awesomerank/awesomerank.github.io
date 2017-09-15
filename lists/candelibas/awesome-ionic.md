@@ -122,17 +122,17 @@ An "awesome" list of the Ionic resources
 
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
-* [IonicRealty ★263](https://github.com/ccoenraets/ionic2-realty)
-* [Ionic Firebase Chat App ★28](https://github.com/ionic2blueprints/firebase-chat)
-* [Ionic Ecommerce App ★16 ⏳1Y](https://github.com/ionic2blueprints/ionic2-marketcloud)
+* [IonicRealty ★266](https://github.com/ccoenraets/ionic2-realty)
+* [Ionic Firebase Chat App ★29](https://github.com/ionic2blueprints/firebase-chat)
+* [Ionic Ecommerce App ★18 ⏳1Y](https://github.com/ionic2blueprints/ionic2-marketcloud)
 * [Ionic Conference App based on Lanyrd API ★5 ⏳1Y](https://github.com/ionic2blueprints/conference-app)
 * [Ionic Stock Tracking App ★10 ⏳1Y](https://github.com/ionic2blueprints/ionic2-stockmarket)
-* [Ionic Wordpress Client ★13 ⏳1Y](https://github.com/ionic2blueprints/ionic2-wp-client)
+* [Ionic Wordpress Client ★14 ⏳1Y](https://github.com/ionic2blueprints/ionic2-wp-client)
 * [Ionic Media Player ★25](https://github.com/ionic2blueprints/media-player)
-* [Ionic Social App ★17](https://github.com/ionic2blueprints/social-app)
+* [Ionic Social App ★19](https://github.com/ionic2blueprints/social-app)
 * [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum)
-* [Ionic Reddit Reader ★109](https://github.com/smartapant/ionic2-reddit-reader)
+* [Ionic Reddit Reader ★113](https://github.com/smartapant/ionic2-reddit-reader)
 * [Ionic Advanced Components](https://github.com/yannbf/ionic2-components)
 
 #### Contribute

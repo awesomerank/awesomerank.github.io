@@ -38,7 +38,7 @@ Assembler List
 * *[FLASM](http://www.nowrap.de/flasm)*
 >Flasm is a free command line assembler/disassembler of Flash ActionScript bytecode. It lets you make changes to any SWF. Flasm fully supports SWFs produced by Macromedia Flash 8 and earlier.
 
-* *[XEDParse ★36 ⏳1Y](https://github.com/x64dbg/XEDParse)*
+* *[XEDParse ★37 ⏳1Y](https://github.com/x64dbg/XEDParse)*
 >XEDParse is an open source (LGPLv3) library for assembling single x86(-x64) instructions from text to bytes. Useful to integrate in reverse engineering frameworks to quickly assemble instructions.
 
 * *[HLA](http://www.plantation-productions.com/Webster/HighLevelAsm/index.html)*
@@ -79,7 +79,7 @@ Disassembler & Debuggers
 * *[Radare2](http://rada.re)*
 >An open-source complete framework for reverse-engineering and analyzing binaries; composed of a set of small utilities that can be used together or independently from the command line.
 
-* *[Plasma ★2341](https://github.com/plasma-disassembler/plasma)*
+* *[Plasma ★2484](https://github.com/plasma-disassembler/plasma)*
 >Plasma is an interactive disassembler for x86/ARM/MIPS. It can generates indented pseudo-code with colored syntax.
 
 IDE
