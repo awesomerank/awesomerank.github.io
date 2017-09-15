@@ -432,7 +432,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Hydra ★1114](https://github.com/malcommac/Hydra) - Promises & Await - Write better async code.
 * [Kommander ★82](https://github.com/intelygenz/Kommander-iOS) - Manage the task execution in different threads through Kommands.
 * [Overdrive ★805](https://github.com/arikis/Overdrive) - Fast async task based API with focus on type safety, concurrency and multi threading.
-* [Queuer ★571](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
+* [Queuer ★636](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
 * [Safe ★400](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization.
 * [Threadly ★36](https://github.com/nvzqz/Threadly) :penguin: - Type-safe thread-local storage.
 * [Venice ★1293](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP), Linux ready.
@@ -1445,7 +1445,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [folding-cell ★6402](https://github.com/Ramotion/folding-cell) - Folding cell transition.
 * [GridView ★490](https://github.com/KyoheiG3/GridView) - Reusable GridView with excellent performance and customization that can be time table, spreadsheet, paging and more.
 * [Hakuba ★485](https://github.com/nghialv/Hakuba) - A new way to manage UITableView without the code of UITableViewDelegate and UITableViewDataSource.
-* [HGPlaceholders ★364](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
+* [HGPlaceholders ★741](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show placeholders and Empty States for any UITableView/UICollectionView in your project.
 * [Persei ★2780](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView.
 * [PullToRefreshSwift ★485](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 * [ReverseExtension ★1126](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enables the insertion of cells the from bottom of a table view.

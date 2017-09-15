@@ -95,7 +95,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Polymer Seed Element ★291](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
     - [Yeoman Polymer Generator ★986](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
 - [Electron](#electron)
-    - [Electron Boilerplate ★502](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
+    - [Electron Boilerplate ★513](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
 
 ## Hybrid Mobile App Frameworks
 

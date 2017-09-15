@@ -15,7 +15,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [Dev Tips](https://umaar.com/dev-tips/) - Large collection of tips as animated gifs.
 
 #### DevTools as an IDE
-- [Chrome DevTools App ★1415 ⏳1Y](https://github.com/auchenberg/chrome-devtools-app) - Standalone app which can inspect various targets.
+- [Chrome DevTools App ★1419 ⏳1Y](https://github.com/auchenberg/chrome-devtools-app) - Standalone app which can inspect various targets.
 - [DevTools Remote ★535](https://github.com/auchenberg/devtools-remote) - Remotely debug someone else's browser.
 - [DevTools Snippets ★1253](https://github.com/bahmutov/code-snippets) - Collection of snippets.
 

@@ -316,7 +316,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [**vue-shopping** ★446](https://github.com/andylei18/vue-shopping) by [andylei18](https://github.com/andylei18)
   - [**Vue-cnodejs,060** ★2640](https://github.com/shinygang/Vue-cnodejs) by [@shinygang](https://github.com/shinygang)
   - [**vue-zhihu-daily** ★1085](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
-  - [jwt-example ★28](https://github.com/PetervMeijgaard/jwt-example) by [@petervmeijgaard](https://github.com/petervmeijgaard)
+  - [jwt-example ★28 ⏳1Y](https://github.com/PetervMeijgaard/jwt-example) by [@petervmeijgaard](https://github.com/petervmeijgaard)
   - [**VueChess** ★132](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game  by [gustaYo](https://github.com/gustaYo)
   - [Ngexplorer-vuejs-client](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer ★2](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)
   - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
@@ -406,7 +406,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [npmcharts.com ★45](https://github.com/cheapsteak/npmcharts.com) - Compare npm packages and spot download trends.
  - [Koel ★8141](https://github.com/phanan/koel) - A personal music streaming server that works.
  - [RSS Reader ★418](https://github.com/mrgodhani/rss-reader) - Simple RSS Reader made using atom electron and vue.js.
- - [Gokotta ★392](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
+ - [Gokotta ★402](https://github.com/Zhangdroid/Gokotta) - A simple music player built by electron and vue.
  - [CoPilot ★1439](https://github.com/misterGF/CoPilot) - An admin portal based on AdminLTE with vue.js integration.
  - [Retrospectify ★20](https://github.com/pepf/retrospectify) - A simple tool for doing collaborative retrospectives in agile teams.
  - [jade-press ★25](https://github.com/jade-press/jade-press) - Cms based on mongodb, nodejs, koa, vue and more.
@@ -431,9 +431,9 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Lulumi-browser ★68](https://github.com/qazbnm456/lulumi-browser) - Lulumi-browser is a light weight browser coded with Vue.js 2 and Electron.
  - [vue-wordpress-pwa ★201](https://github.com/bstavroulakis/vue-wordpress-pwa)
  - [OpenAPI 3 viewer ★23](https://github.com/koumoul-dev/openapi-viewer) - Browse and test a REST API described with the OpenAPI 3.0 Specification
-  - [Stacer ★2299](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
+  - [Stacer ★2507](https://github.com/oguzhaninan/Stacer) - Linux System Optimizer and Monitoring
   - [Distrochooser.de](https://github.com/cmllr/distrochooser) - An orientation guide for Linux beginners
-  - [Buka ★213](https://github.com/oguzhaninan/Buka) - EBook Management
+  - [Buka ★242](https://github.com/oguzhaninan/Buka) - EBook Management
   - [Docute ★1208](https://github.com/egoist/docute) - A framework for writing documentation without build process
   - [pm86 ★85](https://github.com/ericjjj/pm86) - Production process manager for Node.js apps Websites
   - [vms ★715](https://github.com/ericjjj/vms) - A Vue.js 2.0 Management System
@@ -1576,7 +1576,7 @@ Tooltips / popovers
 
 ### Electron
 
- - [Electron Vue ★2706](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
+ - [Electron Vue ★2969](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
  - [VuePack ★1831](https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron).
 
 ### Parts

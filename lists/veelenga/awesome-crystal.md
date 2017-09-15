@@ -322,12 +322,12 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [clamd.cr ★1](https://github.com/RX14/clamd.cr) - Client for the clamd antivirus server
  * [crystal-binary_parser ★1](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-futures ★39](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
- * [crystal-i18n ★8](https://github.com/whity/crystal-i18n) - Internationalization library
  * [crz ★17](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [denetmen ★19](https://github.com/izniburak/denetmen) - Useful micro validator / check library
  * [emoji.cr ★13](https://github.com/veelenga/emoji.cr) - Emoji library
  * [hoop ★161](https://github.com/0x73/hoop) - Building native OSX apps
  * [html_builder ★26](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
+ * [i18n.cr ★1](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [immutable ★112](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [inflector.cr ★22](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
  * [kreal ★42](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
@@ -354,7 +354,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## ORM/ODM Extensions
  * [active_record.cr ★162](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [crecto ★137](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
- * [granite-orm ★39](https://github.com/amber-crystal/granite-orm) - ORM for Postgres, Mysql, Sqlite
+ * [granite-orm ★43](https://github.com/amberframework/granite-orm) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr ★70](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal ★40](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr ★4](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
@@ -460,7 +460,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcpu ★29](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks
- * [amber](https://github.com/Amber-Crystal/amber) - Open source efficient and cohesive web application framework
+ * [amber ★212](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
  * [amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework
  * [kemal ★1770](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core ★39](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)

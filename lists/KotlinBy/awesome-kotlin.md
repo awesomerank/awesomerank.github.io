@@ -445,12 +445,12 @@ Here awesome badge for your project:
 ## <a name="android"></a>Android <sup>[Back ⇈](#android-category)</sup>
 ### <a name="android-libraries"></a>Libraries <sup>[Back ⇈](#android-libraries-subcategory)</sup>
 * [Kotlin/anko ★7685](https://github.com/Kotlin/anko) - Pleasant Android application development.
-* [JakeWharton/kotterknife ★1499](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
+* [JakeWharton/kotterknife ★1595](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
 * [MarcinMoskala/ActivityStarter ★215](https://github.com/MarcinMoskala/ActivityStarter) - Activity starter generator and arguments injection library for Android.
 * [MarcinMoskala/KotlinPreferences ★20](https://github.com/MarcinMoskala/KotlinPreferences) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun.
 * [MarcinMoskala/PreferenceHolder ★63](https://github.com/MarcinMoskala/PreferenceHolder) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun using object with fields binded to SharedPreferences.
 * [nsk-mironov/kotlin-jetpack ★136 ⏳1Y](https://github.com/nsk-mironov/kotlin-jetpack) - A collection of useful extension methods for Android.
-* [pawegio/KAndroid ★581](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code.
+* [pawegio/KAndroid ★602](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code.
 * [chibatching/Kotpref ★164](https://github.com/chibatching/Kotpref) - Android SharedPreference delegation for Kotlin.
 * [TouK/bubble ★59 ⏳1Y](https://github.com/TouK/bubble) - Library for obtaining screen orientation when orientation is blocked in AndroidManifest.
 * [ragunathjawahar/kaffeine ★121](https://github.com/ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development.

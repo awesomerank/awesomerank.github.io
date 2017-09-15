@@ -76,7 +76,7 @@ A curated list of fonts and typography resources.
 * [gh-emoji ★138](https://github.com/zzarcon/gh-emoji) - Github emoji parsing done right
 * [node-emoji ★331](https://github.com/omnidan/node-emoji) - Simple emoji support for Node.js
 * [megamoji ★150](https://github.com/muan/megamoji) - Making megamojis like a pro
-* [mojibar ★1730](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
+* [mojibar ★1749](https://github.com/muan/mojibar) - Emoji searcher but as a menubar app
 * [mojime ★30](https://github.com/JuanitoFatas/mojime) - Outputs random emojis
 * [php-emoji ★961](https://github.com/iamcal/php-emoji) - A PHP Emoji conversion library
 * [twemoji ★6839](https://github.com/twitter/twemoji) - Twitter Emoji for Everyone

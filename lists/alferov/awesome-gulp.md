@@ -273,7 +273,7 @@ title: Awesome Rank for alferov/awesome-gulp
 
 ## Miscellaneous
 * [elixir ★1088](https://github.com/laravel/elixir) - A clean, fluent API for defining basic gulp tasks for your Laravel applications.
-* [gulp-app ★966](https://github.com/sindresorhus/gulp-app) - Gulp as an app (OS X).
+* [gulp-app ★969](https://github.com/sindresorhus/gulp-app) - Gulp as an app (OS X).
 * [lmn-gulp-tasks ★21](https://github.com/Lostmyname/lmn-gulp-tasks) - Example of gulp tasks unit testing.
 * [gulp-chef](http://gulp-cookery.github.io/gulp-chef/) - An elegant, intuitive way to reuse gulp tasks.
 

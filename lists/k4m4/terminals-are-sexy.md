@@ -105,9 +105,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [xterm](http://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
-* [Hyper ★18354](https://github.com/zeit/hyper) - Terminal built on web technologies.
+* [Hyper ★18786](https://github.com/zeit/hyper) - Terminal built on web technologies.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
-* [Upterm ★16529](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
+* [Upterm ★16742](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
 * [TotalTerminal](https://totalterminal.binaryage.com/) - System-wide terminal available on a hot-key.
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Cathode](http://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.

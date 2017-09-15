@@ -78,7 +78,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
 
 ### Apps
-- [LoopDrop App ★581](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
+- [LoopDrop App ★599](https://github.com/mmckegg/loop-drop-app) - MIDI looper, modular synth and sampler app built using Web Audio and Web MIDI APIs.
 - [X Sound](https://korilakkuma.github.io/X-Sound/) - Multi Sound Application that uses XSound.js.
 - [Molgav ★1 ⏳1Y](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange.
 - [Code Player ★18](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.

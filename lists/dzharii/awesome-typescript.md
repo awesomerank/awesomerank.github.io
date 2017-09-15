@@ -117,7 +117,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/dzh
 * :octocat: [Bobril ★258](https://github.com/Bobris/Bobril) - Component oriented framework inspired by Mithril and ReactJs. (see also: http://bobril.com/)
 
 ### Standalone apps
-* :octocat: [Visual Studio Code ★31952](https://github.com/Microsoft/vscode) - Multiplatform IDE.
+* :octocat: [Visual Studio Code ★33529](https://github.com/Microsoft/vscode) - Multiplatform IDE.
 * :octocat: [alm - A next generation IDE just for TypeScript written in TypeScript + React ★1740](https://github.com/alm-tools/alm)
 
 ### Design patterns

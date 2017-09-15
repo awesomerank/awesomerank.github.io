@@ -888,7 +888,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [MobilePlayer ★2214](https://github.com/mobileplayer/mobileplayer-ios) - A powerful and completely customizable media player for iOS.
 * [XCDYouTubeKit ★2154](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and macOS
 * [AVAnimator](http://www.modejong.com/AVAnimator/) - An open source iOS native library that makes it easy to implement non-trivial video/audio enabled apps.
-* [Periscope VideoViewController ★465](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control :large_orange_diamond:
+* [Periscope VideoViewController ★465 ⏳1Y](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control :large_orange_diamond:
 * [SSVideoPlayer ★180](https://github.com/immrss/Mango) - A video player that support both local and network resource.
 * [MHVideoPhotoGallery ★1934](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery
 * [PlayerView ★88](https://github.com/davidlondono/PlayerView) - Player View is a delegated view using AVPlayer of Swift :large_orange_diamond:

@@ -230,7 +230,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Centrifugo](https://github.com/centrifugal/centrifugo) - Language-agnostic real-time messaging (Websocket or SockJS) server. ([Demo ★2033](https://github.com/centrifugal/centrifugo#demo)) `MIT` `Go`
   * [Cherry ★129](https://github.com/rafael-santiago/cherry) - A tiny webchat server. `GPLv2` `Go`
   * [Freenet](https://freenetproject.org/index.html) - Anonymously share files, browse and publish "freesites" (web sites accessible only through Freenet) and chat on forums. ([Source Code ★368](https://github.com/freenet/fred)) `GPLv2` `Java`
-  * [Friends](http://moose-team.github.io/friends/) - P2P chat powered by the web. ([Source Code ★2787](https://github.com/moose-team/friends)) `MIT` `Nodejs`
+  * [Friends](http://moose-team.github.io/friends/) - P2P chat powered by the web. ([Source Code ★2803](https://github.com/moose-team/friends)) `MIT` `Nodejs`
   * [GNUnet](https://gnunet.org/) - Free software framework for decentralized, peer-to-peer networking. ([Source Code](https://gnunet.org/git/)) `GPLv3` `C`
   * [hack.chat](https://hack.chat/) - A minimal, distraction-free chat application. ([Source Code ★1914](https://github.com/AndrewBelt/hack.chat)) `GPLv3` `Nodejs`
   * [Hawkpost](https://hawkpost.co) - HawkPost is a web app that lets you create unique links that you can share with a person that desires to send you important information but doesn't know how to encrypt it. The message is encrypted in their browser and sent to your email address. ([Source Code ★728](https://github.com/whitesmith/hawkpost)) `MIT` `Python`
@@ -899,7 +899,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 **[`^        back to top        ^`](#)**
 
  * [Bitwarden](https://bitwarden.com/) - Password manager with webapp, browser extension, and mobile app. ([Source Code ★563](https://github.com/bitwarden/core)) `AGPLv3` `C#`
- * [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code ★5259](https://github.com/keeweb/keeweb)) `MIT` `HTML5`
+ * [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code ★5405](https://github.com/keeweb/keeweb)) `MIT` `HTML5`
  * [sysPass](http://www.syspass.org/) - Multiuser password management system. ([Demo](http://demo.syspass.org/), [Source Code ★212](https://github.com/nuxsmin/sysPass)) `GPLv3` `PHP`
  * [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source Code ★691](https://github.com/nilsteampassnet/TeamPass)) `GPLv3` `PHP`
 
