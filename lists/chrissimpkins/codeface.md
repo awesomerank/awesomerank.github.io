@@ -11,7 +11,7 @@ title: Awesome Rank for chrissimpkins/codeface
 
 
 ## Typefaces for Source Code Beautification
-[![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667) ★63835](https://github.com/sindresorhus/awesome)
+[![Awesome](https://camo.githubusercontent.com/13c4e50d88df7178ae1882a203ed57b641674f94/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f643733303566333864323966656437386661383536353265336136336531353464643865383832392f6d656469612f62616467652e737667) ★65640](https://github.com/sindresorhus/awesome)
 
 * [About](https://github.com/chrissimpkins/codeface/blob/master/ABOUT.md)
 * [Main Font Gallery](#the-gallery)
@@ -24,7 +24,7 @@ title: Awesome Rank for chrissimpkins/codeface
 
 ## New!
 
-Each typeface directory in the repository now includes a vertical metrics table (`vertical_metrics.txt`).  Combine the data in these reference tables with the new [`font-line` tool ★32](https://github.com/source-foundry/font-line) to modify any font to the line spacing that suits your needs.  Tighten up or keep it loose.
+Each typeface directory in the repository now includes a vertical metrics table (`vertical_metrics.txt`).  Combine the data in these reference tables with the new [`font-line` tool ★35](https://github.com/source-foundry/font-line) to modify any font to the line spacing that suits your needs.  Tighten up or keep it loose.
 
 ## Fun Little Rant About Font Customization
 

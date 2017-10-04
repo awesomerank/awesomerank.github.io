@@ -7,7 +7,7 @@ title: Awesome Rank for fliptheweb/motion-ui-design
 	This list is a copy of <a href="https://github.com/fliptheweb/motion-ui-design">fliptheweb/motion-ui-design</a> with ranks
 </p>
 ---
-# Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Motion UI Design [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 What is motion design? It's a magic that's alive your interfaces, makes a user feel comfortable with UI changes.
 It’s curated collection of resources, software, libraries, videos and articles related to motion UI design, UI animations and transitions.
 Feel free to [add something interesting](https://github.com/fliptheweb/motion-ui-design/blob/master/contributing.md) (todo inside) by pull request!
@@ -152,6 +152,7 @@ http://www.awwwards.com/web-animation-infographics-a-map-of-the-best-animation-l
 * [Animate Plus ★2493 ⏳1Y](https://github.com/bendc/animateplus) – CSS and SVG animation library for modern browsers, performant and lightweight (3KB gzipped), making it particularly well-suited for mobile.
 * [Gravitas.js ★122 ⏳2Y](https://github.com/iamralpht/gravitas.js) – Super fast physics simulations for JavaScript.
 * [Popmotion](https://popmotion.io/guides/basics/get-started/) – JavaScript motion engine that makes creating engaging user interactions quick and simple.
+* [anime.js](http://animejs.com/) - Lightweight JavaScript animation library.
 
 ### SVG
 * [SnapSVG](http://snapsvg.io/) — JavaScript library makes working with your SVG assets as easy as jQuery makes working with the DOM.

@@ -213,14 +213,14 @@ Code
 * [CopperCube3D](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 * [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 * [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
-* [Dash ★354 ⏳1Y](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+* [Dash ★360 ⏳1Y](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing ![free](https://github.com/ellisonleao/magictools/blob/master//img/free.png)
 * [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * [ENGi ★373 ⏳1Y](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 * [Ebiten](https://hajimehoshi.github.io/ebiten/) - A simple 2D game library in Go. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
-* [FXGL ★358](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux. ![open source](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* [FXGL ★387](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux. ![open source](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Farseer](http://farseerphysics.codeplex.com) - a collision detection system with realistic physics responses.
 * [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
 * [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
@@ -249,7 +249,7 @@ Code
 * [Loom SDK](http://loomsdk.com/) - 2D mobile app and game framework with live reload of code and assets, AS3/JS/C#-like scripting language, and powerful 2D rendering and UI framework. Open source with paid "Turbo" service. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [Lumberyard](https://aws.amazon.com/pt/lumberyard/) - Amazon Lumberyard is a free AAA game engine deeply integrated
 * [LumixEngine ★1147](https://github.com/nem0/LumixEngine) - 3D Game engine built on C++.
-* [Lums ★18 ⏳1Y](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
+* [Lums ★18 ⏳2Y](https://github.com/lums-proj/Lums) - A 2D / 3D framework written in C++11. Very efficient and modern. Still under heavy development.
 * [LÖVE](http://love2d.org) - Lua 2D Game Engine. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * [MINX ★8 ⏳2Y](https://github.com/GearChicken/MINX) - Open Source 2D game framework written in C++ (to the style of XNA)
 * [MOAI](http://getmoai.com/) - Cross-Platform framework designed for pro game developers to create iOS, Android, Windows, Linux, Chrome and OSX games using C++, OpenGL and Lua scripting.
@@ -301,7 +301,7 @@ Code
 * [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
 * [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 * [Xenko](http://xenko.com/) - Open Source C# Game Engine. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
-* [bgfx ★3332](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+* [bgfx ★3488](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 * [ggez](http://ggez.rs/) - A Rust library to create Good Games Easily.
 * [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications

@@ -7,7 +7,7 @@ title: Awesome Rank for rizo/awesome-ocaml
 	This list is a copy of <a href="https://github.com/rizo/awesome-ocaml">rizo/awesome-ocaml</a> with ranks
 </p>
 ---
-Awesome OCaml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+Awesome OCaml [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 =============
 
 <img src="colour-logo.png" width="70%" />
@@ -41,6 +41,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [Formal Software Verification](#formal-software-verification)
 - [General](#general)
 - [Graphics](#graphics)
+- [User Interface](#user-interface)
 - [Language-related](#language-related)
 - [Logging](#logging)
 - [Messaging](#messaging)
@@ -84,14 +85,14 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 - [Batteries Included ★287](https://github.com/ocaml-batteries-team/batteries-included) – A community-maintained foundation library for your OCaml projects.
 - [Cmdliner ★69](https://github.com/dbuenzli/cmdliner) – Declarative definition of command line interfaces for OCaml.
-- [Minicli ★5](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
-- [Core ★542](https://github.com/janestreet/core) – Jane Street Capital's standard library overlay.
+- [Core](https://github.com/janestreet/core) – Jane Street Capital's full-fledged standard library overlay. A portable subset of Core is also available: [Core_kernel ★110](https://github.com/janestreet/core_kernel).
+- [Base ★128](https://github.com/janestreet/base) - Jane Street Capital's dependency-free, quick-compiling, fully-portable across any environment that can run OCaml code standard library.
 - [React](http://erratique.ch/software/react) – React is an OCaml module for functional reactive programming (FRP). It provides support to program with time varying values: declarative events and signals.
+- [Minicli ★5](https://github.com/UnixJunkie/minicli) – Minimalist library for command line parsing.
 - [ctypes ★171](https://github.com/ocamllabs/ocaml-ctypes) – Library for binding to C libraries using pure OCaml.
 - [easy-format ★17](https://github.com/mjambon/easy-format) – Pretty-printing library for OCaml.
 - [ocaml-rpc ★34](https://github.com/mirage/ocaml-rpc) – Light library to deal with RPCs in OCaml.
 - [ocaml-containers ★141](https://github.com/c-cube/ocaml-containers) – A small standard library extension, string library, and (in "misc") a bunch of random things of lower quality. BSD license.
-- [Notty ★113](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
 
 
 ## Blogs
@@ -124,7 +125,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - [BetterErrors](https://github.com/npm-ml/BetterErrors) - BetterErrors improves error messages of the OCaml compiler (Make OCaml Errors Great Again.)
 - [SLAyer ★293 ⏳1Y](https://github.com/Microsoft/SLAyer) - SLAyer is an automatic formal verification tool that uses separation logic to verify memory safety of C programs.
 - [MemCAD ★9](https://github.com/Antique-team/memcad) - MemCAD is an abstract interpreter for shape analysis. MemCAD can verify C programs manipulating complex data structures.
-- [BAP ★424](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs. 
+- [BAP ★478](https://github.com/BinaryAnalysisPlatform/bap) - BAP is a reverse engineering and program analysis platform that targets binary programs.
 
 
 ## Compilers and Compiler Tools
@@ -157,9 +158,15 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 
 ## Concurrency
 
-- [Async](http://janestreet.github.io/) — A monadic concurrence library to go with the Core library.
-- [Cooperative Concurrency in OCaml: A Core.Std.Async Example](http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/).
-- [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
+Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very similar functionality but make radically different decisions with regards to error handling and internal implementation details (see the links below for more details). [Real World OCaml](https://realworldocaml.org/) uses Async but a version of the [code examples translated to Lwt ★41](https://github.com/dkim/rwo-lwt) is also available.
+
+- **Libraries**:
+  - [Lwt](http://ocsigen.org/lwt/) — A cooperative threads library for OCaml.
+  - [Async](http://janestreet.github.io/) — A monadic concurrence library to go with the Core library.
+- **Articles**:
+  - [The blog post that introduced Async](https://blog.janestreet.com/announcing-async/)
+  - [A user gives up on Async](http://rgrinberg.com/posts/abandoning-async/)
+  - [Cooperative Concurrency in OCaml: A Core.Std.Async Example](http://philtomson.github.io/blog/2014/07/09/core-dot-async-example/).
 
 
 ## Databases
@@ -167,7 +174,9 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 - **Bindings**
   - [Dbm](https://forge.ocamlcore.org/projects/camldbm/) — A binding to the NDBM/GDBM Unix "databases".
   - [Mongo.ml](http://massd.github.io/mongo/) – An OCaml driver for Mongodb
-  - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — PG'OCaml provides an interface to PostgreSQL databases for OCaml applications.
+  - [PG'OCaml](http://pgocaml.forge.ocamlcore.org/) — A type-safe interface to PostgreSQL in pure OCaml.
+    - [ppx_pgsql ★15](https://github.com/tizoc/ppx_pgsql) – A syntax extension for embedded SQL queries using PG'OCaml.
+  - [PostgreSQL-OCaml](https://mmottl.github.io/postgresql-ocaml/) — An interface to PostgreSQL through the C API (`libpq`).
   - [SQLite3 ★33](https://github.com/mmottl/sqlite3-ocaml) — OCaml bindings to the SQLite3 database.
   - [Sqlite3EZ](https://mlin.github.io/ocaml-sqlite3EZ/) — Thin wrapper for SQLite3 with a simplified interface.
   - [ocaml-redis ★28](https://github.com/0xffea/ocaml-redis) – Redis bindings for OCaml.
@@ -263,11 +272,16 @@ If you are beginner and want to learn the basics of OCaml programming here is th
   - [glMLite](http://www.linux-nantes.org/~fmonnier/OCaml/GL/) — OpenGL bindings for OCaml. Provides an (experimental) functional API.
   - [lablgl](https://forge.ocamlcore.org/projects/lablgl/) — Interface to OpenGL. Integrates well with lablgtk.
   - [tgls](http://erratique.ch/software/tgls) — Thin bindings OpenGL 3.{2,3},4.{0,1,2,3,4} and OpenGL ES {2,3}.
-- **GUI**
-  - [lablgtk](http://lablgtk.forge.ocamlcore.org/) — GTK2 bindings for OCaml with various higher-level facilities to define GUIs.
-  - [lablqml ★72](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
-  - [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01. 
-  - [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
+
+
+## User Interface
+
+- [lablgtk](http://lablgtk.forge.ocamlcore.org/) — GTK2 bindings for OCaml with various higher-level facilities to define GUIs.
+- [lablqml ★72](https://github.com/Kakadu/lablqml) – QML Qt5 bindings for OCaml.
+- [labltk](https://forge.ocamlcore.org/projects/labltk/) — Interface to the Tcl/Tk GUI framework. In the standard distribution for ocaml <= 4.01.
+- [TSDL](http://erratique.ch/software/tsdl) – Tsdl is an OCaml module providing thin bindings to the cross-platform SDL library.
+- [Lambda-Term ★66](https://github.com/diml/lambda-term) – Lambda-Term is a cross-platform library for manipulating the terminal. It provides an abstraction for keys, mouse events, colors, as well as a set of widgets to write curses-like applications.
+- [Notty ★113](https://github.com/pqwy/notty) - Notty is a declarative terminal library for OCaml, structured around a notion of composable images.
 
 
 ## Language-related
@@ -415,7 +429,7 @@ If you are beginner and want to learn the basics of OCaml programming here is th
 ## Security
 
 - [ocaml-tls ★184](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
-- [cryptokit ★18](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications. 
+- [cryptokit ★18](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 - [nocrypto ★53](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
 
 > Note: The differences between `nocrypto` and `cryptokit` cryptographic libraries are described in the following blog post: [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).

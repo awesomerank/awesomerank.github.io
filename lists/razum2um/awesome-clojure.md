@@ -7,21 +7,21 @@ title: Awesome Rank for razum2um/awesome-clojure
 	This list is a copy of <a href="https://github.com/razum2um/awesome-clojure">razum2um/awesome-clojure</a> with ranks
 </p>
 ---
-# Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [LightTable (IDE)](http://lighttable.com/)
   - [Nightcode (IDE)](https://sekao.net/nightcode/)
   - [Riemann (Monitoring)](http://riemann.io/)
   - [Puppet Server](https://github.com/puppetlabs/puppet-server)
-  - [PuppetDB ★219](https://github.com/puppetlabs/puppetdb)
-  - [Metabase ★6503](https://github.com/metabase/metabase)
-  - [Avi (vim rewrite) ★187](https://github.com/maitria/avi)
+  - [PuppetDB ★220](https://github.com/puppetlabs/puppetdb)
+  - [Metabase ★6887](https://github.com/metabase/metabase)
+  - [Avi (vim rewrite) ★191](https://github.com/maitria/avi)
 - [Languages written with Clojure](#languages-written-with-clojure)
-  - [jank ★54](https://github.com/jeaye/jank)
-  - [lux ★754](https://github.com/LuxLang/lux)
+  - [jank ★55](https://github.com/jeaye/jank)
+  - [lux ★826](https://github.com/LuxLang/lux)
   - [mal](https://github.com/kanaka/mal/tree/master/clojure)
-  - [scheje ★62](https://github.com/turbopape/scheje)
+  - [scheje](https://github.com/turbopape/scheje)
 - [Awesome tools in Clojure](#awesome-tools-in-clojure)
   - [Web Framework](#web-framework)
   - [Dependency injection](#dependency-injection)
@@ -81,25 +81,25 @@ title: Awesome Rank for razum2um/awesome-clojure
   * [Joodo ★3 ⏳3Y](https://github.com/slagyr/joodoweb)
   * [Coils](https://github.com/zubairq/AppShare)
   * [Duct](https://github.com/weavejester/duct)
-  * [Pedestal ★1802](https://github.com/pedestal/pedestal)
-  * [Datsys ★145](https://github.com/metasoarous/datsys)
-  * [yada ★475](https://github.com/juxt/yada)
+  * [Pedestal ★1817](https://github.com/pedestal/pedestal)
+  * [Datsys ★153](https://github.com/metasoarous/datsys)
+  * [yada ★489](https://github.com/juxt/yada)
   * [Hoplon](http://hoplon.io/)
 
 ## Dependency injection
 
 *Managed lifecycle of stateful objects*
 
-  * [Component ★1420](https://github.com/stuartsierra/component)
-  * [System ★484](https://github.com/danielsz/system)
-  * [mount ★647](https://github.com/tolitius/mount)
+  * [Component ★1438](https://github.com/stuartsierra/component)
+  * [System ★488](https://github.com/danielsz/system)
+  * [mount ★661](https://github.com/tolitius/mount)
 
 ## Build Automation and Package management
 
 *Libraries for project build automation and package/dependency management.*
 
-  * [Leiningen ★5550](https://github.com/technomancy/leiningen)
-  * [Boot ★1286](https://github.com/boot-clj/boot)
+  * [Leiningen ★5604](https://github.com/technomancy/leiningen)
+  * [Boot ★1322](https://github.com/boot-clj/boot)
   * [lucid.distribute](http://docs.caudate.me/lucidity/lucid-distribute.html)
   * [lucid.package](http://docs.caudate.me/lucidity/lucid-package.html)
 
@@ -113,25 +113,25 @@ title: Awesome Rank for razum2um/awesome-clojure
 
 *Libraries for working with dates and times.*
 
-  * [clj-time ★576](https://github.com/clj-time/clj-time)
+  * [clj-time ★586](https://github.com/clj-time/clj-time)
 
 ## GUI
 
-  * [fx-clj ★83 ⏳1Y](https://github.com/aaronc/fx-clj)
-  * [seesaw ★1131](https://github.com/daveray/seesaw)
+  * [fx-clj ★84 ⏳1Y](https://github.com/aaronc/fx-clj)
+  * [seesaw ★1143](https://github.com/daveray/seesaw)
 
 ## Audio
 
   * [Overtone](http://overtone.github.io/)
-  * [Alda ★2710](https://github.com/alda-lang/alda)
+  * [Alda ★2733](https://github.com/alda-lang/alda)
 
 ## HTTP
 
 *Libraries for working with HTTP.*
 
-  * [clj-http ★1095](https://github.com/dakrone/clj-http)
+  * [clj-http ★1113](https://github.com/dakrone/clj-http)
   * [http-kit](http://www.http-kit.org/)
-  * [ring ★2299](https://github.com/ring-clojure/ring)
+  * [ring ★2342](https://github.com/ring-clojure/ring)
   * [kvlt ★45](https://github.com/nervous-systems/kvlt)
 
 ## Database
@@ -139,10 +139,10 @@ title: Awesome Rank for razum2um/awesome-clojure
 *Databases and database client libraries*
 
   * [Datomic](http://www.datomic.com/)
-  * [clojure.jdbc ★86](https://github.com/funcool/clojure.jdbc)
-  * [cravendb ★50 ⏳3Y](https://github.com/robashton/cravendb)
+  * [clojure.jdbc ★87](https://github.com/funcool/clojure.jdbc)
+  * [cravendb ★51 ⏳3Y](https://github.com/robashton/cravendb)
   * [Mongo](http://clojuremongodb.info/)
-  * [RethinkDB ★173](https://github.com/apa512/clj-rethinkdb)
+  * [RethinkDB ★174](https://github.com/apa512/clj-rethinkdb)
   * [ElasticSearch](http://clojureelasticsearch.info/)
   * [Neo4j](http://clojureneo4j.info/)
 
@@ -150,25 +150,25 @@ title: Awesome Rank for razum2um/awesome-clojure
 
 *Database connection pools*
 
-  * [hikari-cp ★177](https://github.com/tomekw/hikari-cp)
+  * [hikari-cp ★183](https://github.com/tomekw/hikari-cp)
 
 ## Structural Migrations
 
 *Keeps database and others in sync*
 
-  * [Lobos ★262](https://github.com/budu/lobos)
-  * [Ragtime ★368](https://github.com/weavejester/ragtime)
+  * [Lobos ★264](https://github.com/budu/lobos)
+  * [Ragtime ★370](https://github.com/weavejester/ragtime)
   * [Joplin ★253](https://github.com/juxt/joplin)
-  * [Migratus ★235](https://github.com/yogthos/migratus)
-  * [Drift ★112](https://github.com/macourtney/drift)
+  * [Migratus ★241](https://github.com/yogthos/migratus)
+  * [Drift ★113](https://github.com/macourtney/drift)
 
 ## Redis
 
-  * [carmine ★730](https://github.com/ptaoussanis/carmine)
+  * [carmine ★737](https://github.com/ptaoussanis/carmine)
 
 ## JSON
 
-  * [cheshire ★952](https://github.com/dakrone/cheshire)
+  * [cheshire ★970](https://github.com/dakrone/cheshire)
 
 ## Database Cli
 
@@ -178,16 +178,16 @@ title: Awesome Rank for razum2um/awesome-clojure
 
   * [Korma](http://sqlkorma.com/)
   * [stch-library/sql ★23 ⏳1Y](https://github.com/stch-library/sql)
-  * [sqlingvo ★145](https://github.com/r0man/sqlingvo)
-  * [honeysql ★591](https://github.com/jkk/honeysql)
-  * [Toucan ★126](https://github.com/metabase/toucan)
+  * [sqlingvo ★147](https://github.com/r0man/sqlingvo)
+  * [honeysql ★730](https://github.com/jkk/honeysql)
+  * [Toucan ★136](https://github.com/metabase/toucan)
 
 ## Security
 
 *Authentication, authorization and other security related libraries.*
 
-  * [Buddy ★546](https://github.com/funcool/buddy)
-  * [Friend ★1089](https://github.com/cemerick/friend)
+  * [Buddy ★562](https://github.com/funcool/buddy)
+  * [Friend ★1093](https://github.com/cemerick/friend)
   * [bolt ★125 ⏳2Y](https://github.com/juxt/bolt)
 
 ## RESTful API
@@ -195,93 +195,97 @@ title: Awesome Rank for razum2um/awesome-clojure
 *Libraries for developing RESTful APIs.*
 
   * [Liberator](http://clojure-liberator.github.io/liberator/)
-  * [compojure-api ★693](https://github.com/metosin/compojure-api)
-  * [Friboo ★105](https://github.com/zalando/friboo)
-  * [yada ★475](https://github.com/juxt/yada)
+  * [compojure-api ★712](https://github.com/metosin/compojure-api)
+  * [Friboo ★107](https://github.com/zalando/friboo)
+  * [yada ★489](https://github.com/juxt/yada)
   * [router ★73](https://github.com/darkleaf/router)
 
 ## Emails
 
-  * [postal ★394](https://github.com/drewr/postal)
+  * [postal ★399](https://github.com/drewr/postal)
 
 ## HTML Manipulation
 
 *Libraries for working with HTML.*
 
   * [Enlive](https://github.com/cgrand/enlive/wiki)
-  * [hiccup ★1599](https://github.com/weavejester/hiccup)
-  * [clostache ★270](https://github.com/fhd/clostache)
+  * [hiccup ★1623](https://github.com/weavejester/hiccup)
+  * [clostache ★268 ⏳1Y](https://github.com/fhd/clostache)
 
 ## Data Validation
 
 *Libraries for validating data.*
 
   * [Validateur](http://clojurevalidations.info/)
-  * [Prismatic's schema ★1770](https://github.com/plumatic/schema)
+  * [Prismatic's schema ★1780](https://github.com/plumatic/schema)
   * [domaintypes ★5 ⏳2Y](https://github.com/friemen/domaintypes)
   * [Bouncer ★309](https://github.com/leonardoborges/bouncer)
-  * [clova ★9](https://github.com/markwoodhall/clova)
-  * [Orchestra ★126](https://github.com/jeaye/orchestra)
+  * [clova ★9 ⏳1Y](https://github.com/markwoodhall/clova)
+  * [Orchestra ★139](https://github.com/jeaye/orchestra)
 
 ## Type System
 *Optional type system for Clojure*
 
-  * [core.typed ★944](https://github.com/clojure/core.typed)
+  * [core.typed ★950](https://github.com/clojure/core.typed)
 
 ## Pattern Matching
 
-  * [core.match ★779](https://github.com/clojure/core.match)
+  * [core.match ★790](https://github.com/clojure/core.match)
   * [Verbal-Exprejon ★90 ⏳1Y](https://github.com/GuillaumeBadi/Verbal-Exprejon)
-  * [defun ★333](https://github.com/killme2008/defun)
-  * [cats.match ★26](https://github.com/zalando/cats.match)
+  * [defun ★336](https://github.com/killme2008/defun)
+  * [cats.match ★30](https://github.com/zalando/cats.match)
   * [Akar ★152](https://github.com/missingfaktor/akar)
 
 ## Async processing
 
-  * [core.async ★1397](https://github.com/clojure/core.async)
-  * [pulsar ★776](https://github.com/puniverse/pulsar)
+  * [core.async ★1421](https://github.com/clojure/core.async)
+  * [pulsar ★777](https://github.com/puniverse/pulsar)
   * [lamina ★735 ⏳2Y](https://github.com/ztellman/lamina)
-  * [aleph ★1858](https://github.com/ztellman/aleph)
+  * [aleph ★1880](https://github.com/ztellman/aleph)
 
 ## Monads
 
-  * [cats ★573](https://github.com/funcool/cats)
-  * [algo.monads ★340](https://github.com/clojure/algo.monads)
+  * [cats ★583](https://github.com/funcool/cats)
+  * [algo.monads ★341](https://github.com/clojure/algo.monads)
 
 ## WebSocket
 
-  * [Sente ★1231](https://github.com/ptaoussanis/sente)
+  * [Sente ★1248](https://github.com/ptaoussanis/sente)
 
 ## Testing
 
   * [Expectations](http://jayfields.com/expectations/)
-  * [Midje ★1306](https://github.com/marick/Midje)
+  * [Midje ★1311](https://github.com/marick/Midje)
   * [lucid.unit](http://docs.caudate.me/lucidity/lucid-unit.html)
 
 ## Webdriver automation
 
-  * [Etaoin ★50](https://github.com/igrishaev/etaoin)
+  * [Etaoin ★54](https://github.com/igrishaev/etaoin)
 
 ## Code Analysis and Linter
 
   * [Slamhound ★366](https://github.com/technomancy/slamhound)
-  * [eastwood ★709](https://github.com/jonase/eastwood)
-  * [kibit ★1288](https://github.com/jonase/kibit)
+  * [eastwood ★720](https://github.com/jonase/eastwood)
+  * [kibit ★1312](https://github.com/jonase/kibit)
   * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
+  * [yagni ★149 ⏳1Y](https://github.com/venantius/yagni)
+  * [lein-bikeshed ★130](https://github.com/dakrone/lein-bikeshed)
+  * [spectrum ★334](https://github.com/arohner/spectrum)
+  * [cloverage ★266](https://github.com/cloverage/cloverage)
 
 ## Science and Data Analysis
 
 *Libraries, extended REPLs, and other tools for scientific and statistical data
 anylysis and visualization.*
 
-  * [Incanter ★1918](https://github.com/incanter/incanter)
+  * [Incanter ★1922](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
-  * [Onyx ★1554](https://github.com/onyx-platform/onyx)
+  * [Onyx ★1578](https://github.com/onyx-platform/onyx)
   * [sparklling ★306](https://github.com/gorillalabs/sparkling)
   * [flambo ★520](https://github.com/yieldbot/flambo)
-  * [Neanderthal ★384](https://github.com/uncomplicate/neanderthal)
+  * [Neanderthal ★417](https://github.com/uncomplicate/neanderthal)
   * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
-  * [Streaming Histograms ★129 ⏳1Y](https://github.com/bigmlcom/histogram)
+  * [Streaming Histograms ★131 ⏳1Y](https://github.com/bigmlcom/histogram)
   * [Gorilla REPL](http://gorilla-repl.org/)  
 
 ## Machine Learning
@@ -290,32 +294,32 @@ anylysis and visualization.*
   * [cortex ★786](https://github.com/thinktopic/cortex)
   * [clj-bigml ★48](https://github.com/bigmlcom/clj-bigml)
   * [Clatern ★66 ⏳2Y](https://github.com/rinuboney/clatern)
-  * [Deeplearning4j ★7004](https://github.com/deeplearning4j/deeplearning4j)
+  * [Deeplearning4j ★7294](https://github.com/deeplearning4j/deeplearning4j)
   * [Enclog ★136 ⏳1Y](https://github.com/jimpil/enclog)
-  * [Infer ★162 ⏳1Y](https://github.com/aria42/infer)
-  * [k9 ★90 ⏳2Y](https://github.com/gigasquid/k9)
-  * [lambda-ml ★23](https://github.com/cloudkj/lambda-ml)
-  * [Statistiker ★51 ⏳2Y](https://github.com/clojurewerkz/statistiker)
+  * [Infer ★161 ⏳1Y](https://github.com/aria42/infer)
+  * [k9 ★92 ⏳2Y](https://github.com/gigasquid/k9)
+  * [lambda-ml ★24](https://github.com/cloudkj/lambda-ml)
+  * [Statistiker ★52 ⏳2Y](https://github.com/clojurewerkz/statistiker)
   * [Synaptic ★87 ⏳1Y](https://github.com/japonophile/synaptic)
 
 ## Computer Vision
 
-  * [clj-tesseract ★41 ⏳1Y](https://github.com/antoniogarrote/clj-tesseract)
+  * [clj-tesseract ★44 ⏳1Y](https://github.com/antoniogarrote/clj-tesseract)
   * [vision](http://nakkaya.com/vision.html)
 
 ## Natural Language Processing
 
-  * [clojure-opennlp ★627](https://github.com/dakrone/clojure-opennlp)
+  * [clojure-opennlp ★632](https://github.com/dakrone/clojure-opennlp)
   * [postagga](https://github.com/turbopape/postagga)
 
 ## Parsing
 
-  * [Instaparse ★1806](https://github.com/Engelberg/instaparse)
+  * [Instaparse ★1833](https://github.com/Engelberg/instaparse)
   * [duckling](https://github.com/wit-ai/duckling)
   
 ## Exceptions and Error Handling
   * [Perseverance ★84](https://github.com/grammarly/perseverance)
-  * [Dire ★468 ⏳1Y](https://github.com/MichaelDrogalis/dire)
+  * [Dire ★472 ⏳1Y](https://github.com/MichaelDrogalis/dire)
   
 ## Reflection
 *Libraries for improved code reflection and object introspection
@@ -326,14 +330,14 @@ anylysis and visualization.*
 
 ## Editor Plugins
 
-  * [CIDER (Emacs) ★2175](https://github.com/clojure-emacs/cider)
-  * [smartparens (Emacs) ★868](https://github.com/Fuco1/smartparens)
-  * [rainbow-delimiters (Emacs) ★197 ⏳1Y](https://github.com/Fanael/rainbow-delimiters)
-  * [aggressive-indent (Emacs) ★340](https://github.com/Malabarba/aggressive-indent-mode)
-  * [vim-fireplace (Vim) ★1245](https://github.com/tpope/vim-fireplace)
+  * [CIDER (Emacs) ★2210](https://github.com/clojure-emacs/cider)
+  * [smartparens (Emacs) ★888](https://github.com/Fuco1/smartparens)
+  * [rainbow-delimiters (Emacs) ★202](https://github.com/Fanael/rainbow-delimiters)
+  * [aggressive-indent (Emacs) ★350](https://github.com/Malabarba/aggressive-indent-mode)
+  * [vim-fireplace (Vim) ★1269](https://github.com/tpope/vim-fireplace)
   * [vim-redl (Vim) ★106 ⏳2Y](https://github.com/dgrnbrg/vim-redl)
   * [vim-leiningen (Vim) ★135](https://github.com/tpope/vim-salve)
-  * [rainbow_parentheses.vim (Vim) ★155](https://github.com/junegunn/rainbow_parentheses.vim)
+  * [rainbow_parentheses.vim (Vim) ★159](https://github.com/junegunn/rainbow_parentheses.vim)
   * [Cursive (IntelliJ)](https://cursive-ide.com/)
   * [Parinfer (multiple editors)](http://shaunlebron.github.io/parinfer/)
 
@@ -346,7 +350,7 @@ anylysis and visualization.*
 ## Literate Programming
 
   * [marginalia ★628](https://github.com/gdeer81/marginalia)
-  * [klipse ★1245](https://github.com/viebel/klipse)
+  * [klipse ★1363](https://github.com/viebel/klipse)
 
 ## Archives and Compression
 
@@ -354,32 +358,32 @@ anylysis and visualization.*
 
 ## Miscellaneous
 
- * [clj-tuple ★171 ⏳2Y](https://github.com/ztellman/clj-tuple)
- * [slingshot ★484 ⏳1Y](https://github.com/scgilardi/slingshot)
+ * [clj-tuple ★172 ⏳2Y](https://github.com/ztellman/clj-tuple)
+ * [slingshot ★488 ⏳1Y](https://github.com/scgilardi/slingshot)
  * [lucid.system](http://docs.caudate.me/lucidity/lucid-system.html)
 
 ## Debugging
 
-  * [debugger ★191 ⏳1Y](https://github.com/razum2um/clj-debugger)
+  * [debugger ★192 ⏳1Y](https://github.com/razum2um/clj-debugger)
   * [debug-repl ★138 ⏳4Y](https://github.com/GeorgeJahad/debug-repl)
   * [ritz ★329 ⏳4Y](https://github.com/pallet/ritz)
   * [redl ★30 ⏳3Y](https://github.com/dgrnbrg/redl)
   * [limit-break ★16 ⏳5Y](https://github.com/technomancy/limit-break)
-  * [spyscope ★383](https://github.com/dgrnbrg/spyscope)
-  * [aprint ★108 ⏳1Y](https://github.com/razum2um/aprint)
-  * [pretty ★349](https://github.com/AvisoNovate/pretty)
-  * [prone ★442](https://github.com/magnars/prone)
-  * [figwheel ★2217](https://github.com/bhauman/lein-figwheel)
+  * [spyscope ★385](https://github.com/dgrnbrg/spyscope)
+  * [aprint ★111 ⏳1Y](https://github.com/razum2um/aprint)
+  * [pretty ★355](https://github.com/AvisoNovate/pretty)
+  * [prone ★446](https://github.com/magnars/prone)
+  * [figwheel ★2260](https://github.com/bhauman/lein-figwheel)
 
 ## CI
 
-  * [lambdacd ★481](https://github.com/flosell/lambdacd)
+  * [lambdacd ★490](https://github.com/flosell/lambdacd)
 
 ## Guides
 
-  * [The Clojure Style Guide ★2603](https://github.com/bbatsov/clojure-style-guide)
+  * [The Clojure Style Guide ★2636](https://github.com/bbatsov/clojure-style-guide)
   * [Clojure Distilled](http://yogthos.github.io/ClojureDistilled.html)
-  * [clojure-cookbook ★1820](https://github.com/clojure-cookbook/clojure-cookbook)
+  * [clojure-cookbook ★1835](https://github.com/clojure-cookbook/clojure-cookbook)
   * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
   * [Clojure for the Brave and True](http://www.braveclojure.com/)
   * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
@@ -404,7 +408,7 @@ anylysis and visualization.*
 ## Exercises
 
   * [Clojure Koans](http://clojurekoans.com)
-  * [Wonderland Clojure Katas ★522](https://github.com/gigasquid/wonderland-clojure-katas)
+  * [Wonderland Clojure Katas ★536](https://github.com/gigasquid/wonderland-clojure-katas)
   * [Clojure Katas](http://clojurekatas.org)
   * [4clojure](http://www.4clojure.com/)
   * [exercism.io](http://exercism.io/languages/clojure)

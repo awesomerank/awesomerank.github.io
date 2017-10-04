@@ -7,11 +7,11 @@ title: Awesome Rank for chiraggude/awesome-laravel
 	This list is a copy of <a href="https://github.com/chiraggude/awesome-laravel">chiraggude/awesome-laravel</a> with ranks
 </p>
 ---
-# Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
+# Awesome Laravel [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/chiraggude/awesome-laravel/master.svg?style=flat)](https://travis-ci.org/chiraggude/awesome-laravel)
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
-Inspired by [ziadoz/awesome-php ★16252](https://github.com/ziadoz/awesome-php)
+Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
 
@@ -205,11 +205,11 @@ Inspired by [ziadoz/awesome-php ★16252](https://github.com/ziadoz/awesome-php)
 * [Dingo API ★6445](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs
 * [Laravel CORS ★1836](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 * [Laravel Fractal ★782](https://github.com/spatie/laravel-fractal) - Output complex, flexible, AJAX/RESTful data structures with Fractal in Laravel and Lumen
-* [Laravel GraphQL ★689](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5. It supports Relay, eloquent models, validation and GraphiQL.
+* [Laravel GraphQL ★776](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5. It supports Relay, eloquent models, validation and GraphiQL.
 
 ##### Tasks, Commands and Scheduling
 
-* [Dispatcher ★1014](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
+* [Dispatcher ★1014 ⏳1Y](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 * [Elixir ★1088](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Mix ★1296](https://github.com/JeffreyWay/laravel-mix) - Laravel Mix provides a clean, fluent API for defining basic webpack build steps for your Laravel application. Mix supports several common CSS and JavaScript pre-processors.
 * [Envoy ★940](https://github.com/laravel/envoy) - SSH Task Runner

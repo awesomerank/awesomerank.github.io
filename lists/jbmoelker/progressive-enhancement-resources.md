@@ -7,7 +7,7 @@ title: Awesome Rank for jbmoelker/progressive-enhancement-resources
 	This list is a copy of <a href="https://github.com/jbmoelker/progressive-enhancement-resources">jbmoelker/progressive-enhancement-resources</a> with ranks
 </p>
 ---
-# Progressive Enhancement Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Progressive Enhancement Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A comprehensive collection of resources on Progressive Enhancement. From concept and strategies to feature detection and testing methods. Complete with a list of (code) examples.
 
@@ -143,7 +143,7 @@ With progressive enhancement you support different experiences in different envi
 Asynchronously fetch and transition between static pages using ajax and `history.pushState`:
 
 * [Barba.js](http://barbajs.org/) - Add page transitions with event hooks, cache and prefetch support.
-* [SmoothState.js ★4068](https://github.com/miguel-perez/smoothState.js) - Add page transitions with event hooks, cache and prefetch support. (requires jQuery).
+* [SmoothState.js ★4084](https://github.com/miguel-perez/smoothState.js) - Add page transitions with event hooks, cache and prefetch support. (requires jQuery).
 * [jquery-pjax ★15285](https://github.com/defunkt/jquery-pjax) - Add page transitions with support for multiple containers / content slots (requires jQuery).
 * [MoOx/pjax ★444](https://github.com/MoOx/pjax) - Similar tot jquery-pjax, but without the jQuery dependency.
 * [Turbolinks ★4179](https://github.com/turbolinks/turbolinks) - Add page transitions with event hooks and cache support. Has adapters to bind to native navigation controls on iOS and Android.

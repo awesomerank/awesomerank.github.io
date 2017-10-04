@@ -7,7 +7,7 @@ title: Awesome Rank for micromata/awesome-javascript-learning
 	This list is a copy of <a href="https://github.com/micromata/awesome-javascript-learning">micromata/awesome-javascript-learning</a> with ranks
 </p>
 ---
-# Awesome JavaScript Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
+# Awesome JavaScript Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) <img src="https://cdn.rawgit.com/voodootikigod/logo.js/master/js.svg" width="125" align="right" alt="JS Logo">
 
 > An awesome list limited to the best JavaScript learning resources
 
@@ -35,6 +35,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [MDN](https://developer.mozilla.org/docs/Web/JavaScript/Reference) - Simply the best language reference.
 - [DevDocs](http://devdocs.io/javascript) - Search MDN comfortably. Even offline.
 - [Simplified JavaScript Jargon](http://jargon.js.org) – Glossary which explains all the buzzwords from the JavaScript eco system.
+- [Modern JavaScript Cheatsheet ★10681](https://github.com/mbeaudru/modern-js-cheatsheet) – Helps developers with basic knowledge to get familiar with modern codebases.
 - [ECMAScript® Language Specification](http://ecma-international.org/publications/standards/Ecma-262.htm) - The standard JavaScript is based on. Only for very advanced learners.
 
 ## Tutorials
@@ -52,7 +53,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 ## Free eBooks
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) – Covering the language and runtime specifics.
-- [You Don't Know JS (book series) ★65727](https://github.com/getify/You-Dont-Know-JS) – Series of books diving deep into language.
+- [You Don't Know JS (book series) ★68217](https://github.com/getify/You-Dont-Know-JS) – Series of books diving deep into language.
 - [Speaking JavaScript](http://speakingjs.com) - In-depth guide beginning with the basics.
 - [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns.
 
@@ -101,7 +102,7 @@ Thin books which you can get through in a few days.
 
 ## Node.js
 
-- [The Art of Node ★6752](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics. 
+- [The Art of Node ★6849](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics. 
 - [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
 - [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 - [Learn Node](https://learnnode.com) - A premium training course to learn to build apps with Node.js, Express, MongoDB.

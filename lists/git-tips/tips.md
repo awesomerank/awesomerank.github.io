@@ -10,11 +10,11 @@ title: Awesome Rank for git-tips/tips
 ## git-tips
 > Collection of `git-tips`, want to add your tips? Checkout [contributing.md](./contributing.md)
 
-[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어 ★383](https://github.com/mingrammer/git-tips)
+[English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [한국어 ★401](https://github.com/mingrammer/git-tips)
 
 ### __Tools:__
 
-* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container ★0](https://github.com/djoudi5/docker-git-tip))
+* [git-tip](https://www.npmjs.com/package/git-tip) - A handy CLI to make optimum use of these tips. ([Here in Docker container ★2](https://github.com/djoudi5/docker-git-tip))
 
 P.S: All these commands are tested on `git version 2.7.4 (Apple Git-66)`.
 

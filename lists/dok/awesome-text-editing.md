@@ -7,14 +7,14 @@ title: Awesome Rank for dok/awesome-text-editing
 	This list is a copy of <a href="https://github.com/dok/awesome-text-editing">dok/awesome-text-editing</a> with ranks
 </p>
 ---
-# Awesome text editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome text editing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 A curated collection of text editing libraries, services, and resources for the web.
 
 ## Rich-text editors using contenteditable
 
-* [Trix ★7887](https://github.com/basecamp/trix) - Basecamp's rich text editor
+* [Trix ★7951](https://github.com/basecamp/trix) - Basecamp's rich text editor
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
-* [Squire ★3669](https://github.com/neilj/Squire) - HTML5 rich text editor
+* [Squire ★3702](https://github.com/neilj/Squire) - HTML5 rich text editor
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
 * [Scribe ★3537](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team
 * [Quill](http://quilljs.com/) - Quill is a free, open source WYSIWYG editor built for the modern web

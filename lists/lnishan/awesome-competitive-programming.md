@@ -7,7 +7,7 @@ title: Awesome Rank for lnishan/awesome-competitive-programming
 	This list is a copy of <a href="https://github.com/lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
 </p>
 ---
-# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
 
@@ -172,6 +172,7 @@ Share the list with your classmates, your friends and everyone :)
 | ★☆☆ | [Caribbean Online Judge](http://coj.uci.cu/index.xhtml) | COJ is hosted by University of Informatics Sciences (UCI, by its acronym in Spanish), located in Cuba. Feature ACM ICPC and Progresive constest styles, mostly from Caribbean and Latin American problem setters, also has problem classifier and contest calendar. |
 | ★★☆ | [CS Academy](https://csacademy.com) | New in the competitive programming scene, CS Academy is a growing online judge that hosts competitions once every two weeks. It supports live chat, interactive lessons and an integrated online editor (that actually works). |
 | ★★☆ | [Russian Code Cup](http://www.russiancodecup.ru/en/) | Programming competitions powered by Mail.Ru Group. Competition consists of 3 qualification, 1 elimination and 1 final rounds. For each round contestants are given 4-8 problems which must be solved in a fixed amount of time. |
+| ★★☆ | [CodeFights](https://codefights.com/) | CodeFights is a website for competitive programming practice and interview preparation. It features daily challenges of varying difficulty, an archive of problems and regular (every 15 minutes) mini-tournaments. Good for beginners. |
 
 ### Problem Classifiers
 > Sites classifying programming problems.  
@@ -220,7 +221,7 @@ Paste your codes at [ideone](http://ideone.com), [pastebin](http://pastebin.com)
 | --- | --- | --- |
 | ★★★ | [CodeLibrary](http://code-library.herokuapp.com/), by Andrey Naumenko (indy256) | CodeLibrary contains a large collection of implementations for algorithms and data structures in Java and C++. You may also visit his [GitHub Repository ★636](https://github.com/indy256/codelibrary). |
 | ★★★ | [spaghetti-source/algorithm ★164](https://github.com/spaghetti-source/algorithm), by Takanori MAEHARA (@tmaehara) | High-quality implementations of many hard algorithms and data structures. |
-| ★★★ | [kth-competitive-programming/kactl ★39](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al. | A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen. | 
+| ★★★ | [kth-competitive-programming/kactl ★53](https://github.com/kth-competitive-programming/kactl), by Simon Lindholm (simonlindholm) et al. | A phenomenally organized, documented and tested team notebook from KTH Royal Institute of Technology. One of the most well-crafted team notebooks (contest libraries) I've ever seen. | 
 | ★★☆ | [jaehyunp/stanfordacm ★624](https://github.com/jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
 | ★★☆ | [ngthanhtrung23/ACM_Notebook_new ★103](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
 | ★★☆ | [bobogei81123/bcw_codebook ★53](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
@@ -386,10 +387,10 @@ Learn helpful tips, tutorials and insights from these people :)
 | C++ Books | [The Definitive C++ Book Guide and List - Stack Overflow](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 | Java Books | [What are the best books to learn Java? - Quora](https://www.quora.com/What-are-the-best-books-to-learn-Java) |
 | Advanced Java Books | [What is the best book for advanced Java programming? - Quora](https://www.quora.com/What-is-the-best-book-for-advanced-Java-programming) |
-| Algorithms | [tayllan/awesome-algorithms ★2814](https://github.com/tayllan/awesome-algorithms) |
+| Algorithms | [tayllan/awesome-algorithms ★2949](https://github.com/tayllan/awesome-algorithms) |
 | Algorithm Visualization | [enjalot/algovis ★725](https://github.com/enjalot/algovis) |
 | Math | [rossant/awesome-math ★859](https://github.com/rossant/awesome-math) |
-| C++ | [fffaraz/awesome-cpp ★9155](https://github.com/fffaraz/awesome-cpp) |
+| C++ | [fffaraz/awesome-cpp ★9472](https://github.com/fffaraz/awesome-cpp) |
 | Java | [akullpp/awesome-java ★13988](https://github.com/akullpp/awesome-java) |
 | Courses | [prakhar1989/awesome-courses ★20734](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/vhf/free-programming-books) |
@@ -399,7 +400,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | --- | --- |
 | [CareerCup](https://www.careercup.com) | The most popular website for software engineering interview preparation. | 
 | [InterviewBit](https://www.interviewbit.com) | Features intriguing and refreshing game-play designs which are designed to invoke one's interest in practicing. |
-| [Awesome Interviews ★15781](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
+| [Awesome Interviews ★16100](https://github.com/MaximAbramchuck/awesome-interview-questions) | A curated list of awesome interview questions |
 
 
 ## License

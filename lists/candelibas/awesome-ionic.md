@@ -7,7 +7,7 @@ title: Awesome Rank for candelibas/awesome-ionic
 	This list is a copy of <a href="https://github.com/candelibas/awesome-ionic">candelibas/awesome-ionic</a> with ranks
 </p>
 ---
-# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 An "awesome" list of the Ionic resources 
 
@@ -129,7 +129,7 @@ An "awesome" list of the Ionic resources
 * [Ionic Stock Tracking App ★10 ⏳1Y](https://github.com/ionic2blueprints/ionic2-stockmarket)
 * [Ionic Wordpress Client ★14 ⏳1Y](https://github.com/ionic2blueprints/ionic2-wp-client)
 * [Ionic Media Player ★25](https://github.com/ionic2blueprints/media-player)
-* [Ionic Social App ★19](https://github.com/ionic2blueprints/social-app)
+* [Ionic Social App ★19 ⏳1Y](https://github.com/ionic2blueprints/social-app)
 * [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum)
 * [Ionic Reddit Reader ★113](https://github.com/smartapant/ionic2-reddit-reader)

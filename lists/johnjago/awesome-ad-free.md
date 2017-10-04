@@ -7,7 +7,7 @@ title: Awesome Rank for johnjago/awesome-ad-free
 	This list is a copy of <a href="https://github.com/johnjago/awesome-ad-free">johnjago/awesome-ad-free</a> with ranks
 </p>
 ---
-# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://s1.postimg.org/dg1oazt7z/nomoreads-logo-sm.png" width="60" height="24"></a>
+# Awesome Ad-Free [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) <a href="https://nomoreads.org"><img src="https://s1.postimg.org/dg1oazt7z/nomoreads-logo-sm.png" width="60" height="24"></a>
 
 > A curated list of ad-free alternatives to popular services on the Internet.
 
@@ -100,7 +100,7 @@ title: Awesome Rank for johnjago/awesome-ad-free
 
 ### Ad Blocker
 
-- [uBlock Origin ★9583](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
+- [uBlock Origin ★10058](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
 
 ### Articles
 

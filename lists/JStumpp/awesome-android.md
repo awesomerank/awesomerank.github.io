@@ -7,7 +7,7 @@ title: Awesome Rank for JStumpp/awesome-android
 	This list is a copy of <a href="https://github.com/JStumpp/awesome-android">JStumpp/awesome-android</a> with ranks
 </p>
 ---
-﻿# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+﻿# Awesome Android [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 # [<img src="https://raw.githubusercontent.com/jstumpp/awesome-android/master/awesome-android.png"> ★4390](https://github.com/jstumpp/awesome-android)
 
@@ -65,7 +65,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AMIDuOS](https://www.amiduos.com)
 - [AndY](https://andyroid.net)
 - [ARChon](https://archon-runtime.github.io)
-- [BlueStacks](http://www.bluestacks.com)
+- [BlueStacks](https://www.bluestacks.com)
 - [Genymotion](https://www.genymotion.com)
 - [nox](https://www.bignox.com)
 - [Xamarin](https://www.xamarin.com)
@@ -79,7 +79,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [EazeGraph ★1271](https://github.com/blackfizz/EazeGraph) - Chart and graph library.
 - [WilliamChart ★3417](https://github.com/diogobernardino/WilliamChart) - Chart library with good motion capabilities.
 - [HelloCharts ★4852](https://github.com/lecho/hellocharts-android) - Chart and graph library with support for scaling, scrolling and animations.
-- [MPAndroidChart ★17562](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
+- [MPAndroidChart ★18167](https://github.com/PhilJay/MPAndroidChart) - An Android chart and graph library supporting scaling and dragging by gesture.
 
 ### Cloud Services
 
@@ -99,6 +99,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Butter Knife](http://jakewharton.github.io/butterknife/) - View "injection" library for Android.
 - [ActivityStarter ★215](https://github.com/MarcinMoskala/ActivityStarter) - Android Library that provide simpler way to start the Activities with multiple arguments.
 - [AndroidAnnotations ★9688](https://github.com/androidannotations/androidannotations) - Java annotations with dependency injection at compile time.
+- [Toothpick ★490](https://github.com/stephanenicolas/toothpick) - A scope tree based Dependency Injection (DI) library for Java.
 
 ### Game Development
 
@@ -108,7 +109,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Unity](https://unity3d.com/unity/features/multiplatform) - Cross-platform game creation system.
 - [Rajawali ★1501](https://github.com/Rajawali/Rajawali) - Android OpenGL ES 2.0/3.0 Engine
 - [Cocos2d-x](http://www.cocos2d-x.org) - Cross-platform 2d game framework.
-- [JustWeEngine ★677](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
+- [JustWeEngine ★682](https://github.com/lfkdsk/JustWeEngine) - An easy open source Android Native Game FrameWork.
 
 ### Security
 
@@ -121,13 +122,13 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [AndroidStaggeredGrid ★4585](https://github.com/etsy/AndroidStaggeredGrid) - Grid view which supports multiple columns with rows of varying sizes.
 - [AndroidQuery ★2020 ⏳1Y](https://github.com/androidquery/androidquery) - Android-Query (AQuery) is a light-weight library for doing asynchronous tasks and manipulating UI elements in Android.
 - [Flow ★2346](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
-- [Crouton ★3026 ⏳1Y](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
+- [Crouton ★3026 ⏳2Y](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
 - [DragSortListView ★3140 ⏳1Y](https://github.com/bauerca/drag-sort-listview) - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
 - [MaterialProgressBar ★1326](https://github.com/DreaminginCodeZH/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
 - [AndroidFillableLoaders ★1641 ⏳1Y](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
 - [NexusDialog ★155](https://github.com/dkharrat/NexusDialog) - Allows you to easily and quickly create forms in Android with little code.
 - [Snap RecyclerView Utils ★72](https://github.com/prashantsolanki3/Snap-RecyclerView-Utils) - Populate Single or multiple Layout RecyclerView without creating an Adapter.
-- [MultiSnapRecyclerView ★773](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
+- [MultiSnapRecyclerView ★950](https://github.com/TakuSemba/MultiSnapRecyclerView) - Android library for multiple snapping of RecyclerView
 - [SwipeableCard ★631](https://github.com/michelelacorte/SwipeableCard) - Implementation of swipe card like StreetView!!
 - [ElasticProgressBar ★272](https://github.com/michelelacorte/ElasticProgressBar) - Beautiful loading bar.
 - [EntryScreenManager ★29 ⏳1Y](https://github.com/kunall17/EntryScreenManager) - Intro/Entry/Walkthrough/Starting Screens.
@@ -149,7 +150,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MultiViewAdapter ★264](https://github.com/DevAhamed/MultiViewAdapter) - Recyclerview Adapter library to create composable view holders.
 - [LGSnackbar ★22](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
 - [ShimmerLayout ★961](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications.
-- [CircleProgressBar ★6](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
+- [CircleProgressBar ★8](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
@@ -188,7 +189,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [MaterialEditText ★4555](https://github.com/rengwuxian/MaterialEditText) - Supporting Floating Labels, Single Line Ellipsis, Max/Min Characters, Helper Text and Error Text with Custom Colors.
 - [Emojicon ★2954](https://github.com/rockerhieu/emojicon) - Adds emoticons to your app
 - [MaterialSearchBar ★1123](https://github.com/mancj/MaterialSearchBar) - Material Design Search Bar for Android
-- [InputMask ★425](https://github.com/RedMadRobot/input-mask-android) - Pattern-based user input formatter, parser and validator.
+- [InputMask ★438](https://github.com/RedMadRobot/input-mask-android) - Pattern-based user input formatter, parser and validator.
 
 #### Loading Images
 
@@ -202,7 +203,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 #### Video
 
 - [ijkplayer ★15308](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
-- [Exoplayer ★7695](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet. 
+- [Exoplayer ★7940](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet. 
    Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
 
 #### Camera
@@ -278,7 +279,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 ### Testing
 
-- [Robotium ★2234](https://github.com/robotiumtech/robotium) - Test automation framework for black-box UI tests.
+- [Robotium ★2234 ⏳1Y](https://github.com/robotiumtech/robotium) - Test automation framework for black-box UI tests.
 - [Roboletric](http://robolectric.org/) - Unit test framework to run tests inside the JVM on your workstation, not in the emulator.
 - [AssertJ Android ★1514](https://github.com/square/assertj-android) - AssertJ assertions geared towards Android.
 - [Green Coffee ★161](https://github.com/mauriciotogneri/green-coffee) - Run your Cucumber tests in your Android instrumentation tests.
@@ -320,6 +321,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Scalpel ★2296](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
 - [Stetho ★8447](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
 - [Android Debug Database ★2921](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
+- [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - a command-line tool to assist in debugging Android-powered devices 
 
 ### Wireless
 
@@ -368,7 +370,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [andle ★44](https://github.com/Jintin/andle) - command line tool help you sync dependencies, sdk or build tool version.
 - [Typography ★40 ⏳1Y](https://github.com/workarounds/typography) - An Android library that makes it easy to use custom fonts in views.
 - [Calligraphy ★6815](https://github.com/chrisjenx/Calligraphy) - Custom fonts in Android an OK way.
-- [transai ★43](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
+- [transai ★44](https://github.com/Jintin/transai) - command line tool help you manage localization string files.
 - [Android-Link-Preview ★238](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 - [Sensey ★2045](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
 - [UserAwareVideoView ★44](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
@@ -439,13 +441,13 @@ My personal recommendation is (for now) to use the android api to build a native
 
 ### Kotlin
 - [Anko ★7685](https://github.com/Kotlin/anko) - DSL for Android written in Kotlin by JetBrains.
-- [Kotterknife ★1499](https://github.com/JakeWharton/kotterknife) - Android view injection written in Kotlin based on ButterKnife
-- [Android Kotlin Samples ★194](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples written in Kotlin.
-- [KAndroid ★581](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
+- [Kotterknife ★1595](https://github.com/JakeWharton/kotterknife) - Android view injection written in Kotlin based on ButterKnife
+- [Android Kotlin Samples ★199](https://github.com/irontec/android-kotlin-samples) - Some basic Android code samples written in Kotlin.
+- [KAndroid ★602](https://github.com/pawegio/KAndroid) - Lightweight library providing useful extensions to eliminate boilerplate code in Android SDK.
 - [RxKotlin/Pocket ★15 ⏳1Y](https://github.com/RxKotlin/Pocket) - This app help user to save links easily, and can export to Evernote as weekly.
 
 # Performance
-- [awesome-android-performance ★2179](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
+- [awesome-android-performance ★2200](https://github.com/Juude/awesome-android-performance) - A list of awesome Android tutorials, videos and tools for performance optimization.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) list.

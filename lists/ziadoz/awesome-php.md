@@ -113,7 +113,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Extras related to dependency management.*
 
 * [Composed ★25](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
-* [Composer Checker ★12 ⏳2Y](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
+* [Composer Checker ★12 ⏳3Y](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
 * [Composer Merge Plugin ★302](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
 * [Composition ★103 ⏳1Y](https://github.com/bamarni/composition) - A library to check your Composer environment at runtime.
 * [NameSpacer ★59 ⏳4Y](https://github.com/ralphschindler/Namespacer) - A library to convert from underscores to namespaces.
@@ -159,7 +159,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [Bullet PHP](http://bulletphp.com/) - A micro framework for building REST APIs.
 * [Lumen](https://lumen.laravel.com) - A micro-framework by Laravel.
-* [Proton ★263](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework.
+* [Proton ★263 ⏳1Y](https://github.com/alexbilbie/Proton) - A StackPHP compatible micro framework.
 * [Radar ★42](https://github.com/radarphp/Radar.Adr) - An Action-Domain-Responder implementation for PHP.
 * [Silex](https://silex.symfony.com/) - A micro framework built around Symfony components.
 * [Slim](https://www.slimframework.com/) - Another simple micro framework.
@@ -321,7 +321,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Prophecy ★963](https://github.com/phpspec/prophecy) - A highly opinionated mocking framework.
 * [Samsui ★29 ⏳3Y](https://github.com/mauris/samsui) - Another fake data generator library.
 * [VFS Stream ★787](https://github.com/mikey179/vfsStream) - A virtual filesystem stream wrapper for testing.
-* [VFS ★292](https://github.com/adlawson/php-vfs) - Another virtual filesystem for testing.
+* [VFS ★292 ⏳1Y](https://github.com/adlawson/php-vfs) - Another virtual filesystem for testing.
 
 ## Continuous Integration
 *Libraries and applications for continuous integration.*
@@ -349,7 +349,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
-* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★4513](https://github.com/jedisct1/libsodium).
+* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★4681](https://github.com/jedisct1/libsodium).
 * [HTML Purifier ★996](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [IniScan ★1220](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [Optimus ★679](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
@@ -562,7 +562,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 Libraries to help manage database schemas and migrations.
 
 * [Doctrine Migrations](http://docs.doctrine-project.org/projects/doctrine-migrations/en/latest/toc.html) - A migration library for Doctrine.
-* [Migrations ★36](https://github.com/icomefromthenet/Migrations) - A migration management library.
+* [Migrations ★36 ⏳1Y](https://github.com/icomefromthenet/Migrations) - A migration management library.
 * [Phinx ★3153](https://github.com/cakephp/phinx) - Another database migration library.
 * [PHPMig ★445](https://github.com/davedevelopment/phpmig) - Another migration management library.
 * [Ruckusing ★477](https://github.com/ruckus/ruckusing-migrations) - Database migrations for PHP ala ActiveRecord Migrations with support for MySQL, Postgres, SQLite.
@@ -608,7 +608,7 @@ Libraries to help manage database schemas and migrations.
 * [GetOpt ★143](https://github.com/getopt-php/getopt-php) - A command line opt parser.
 * [GetOptionKit ★107](https://github.com/c9s/GetOptionKit) - Another command line opt parser.
 * [Hoa Console ★240](https://github.com/hoaproject/Console) - Another command line library.
-* [OptParse ★15](https://github.com/CHH/optparse) - Another command line opt parser.
+* [OptParse ★15 ⏳1Y](https://github.com/CHH/optparse) - Another command line opt parser.
 * [Pecan ★42 ⏳3Y](https://github.com/mcrumm/pecan) - An event-driven, non-blocking shell.
 * [PsySH ★2086](https://github.com/bobthecow/psysh) - Another PHP REPL.
 * [ShellWrap ★671](https://github.com/MrRio/shellwrap) - A simple command line wrapper library.
@@ -693,7 +693,7 @@ Libraries to help manage database schemas and migrations.
 * [API Platform](https://api-platform.com ) - Expose in minutes an hypermedia REST API that embraces JSON-LD, Hydra format.
 * [Apigility ★460](https://github.com/zfcampus/zf-apigility-skeleton) - An API builder built with Zend Framework 2.
 * [Drest ★81](https://github.com/leedavis81/drest) - A library for exposing Doctrine entities as REST resource endpoints.
-* [HAL ★185](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
+* [HAL ★185 ⏳1Y](https://github.com/blongden/hal) - A Hypertext Application Language (HAL) builder library.
 * [Hateoas ★760](https://github.com/willdurand/Hateoas) - A HATEOAS REST web service library.
 * [Negotiation ★404](https://github.com/willdurand/Negotiation) - A content negotiation library.
 * [Restler ★1211](https://github.com/Luracast/Restler) - A lightweight framework to expose PHP methods as RESTful web API.
@@ -757,7 +757,7 @@ Libraries to help manage database schemas and migrations.
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
-* [Amazon Web Service SDK ★2572](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+* [Amazon Web Service SDK ★2610](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [Campaign Monitor](http://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 * [Digital Ocean ★157 ⏳2Y](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
 * [Dropbox SDK ★216](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.

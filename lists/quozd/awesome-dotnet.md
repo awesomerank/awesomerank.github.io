@@ -9,13 +9,13 @@ title: Awesome Rank for quozd/awesome-dotnet
 ---
 # Awesome .NET!
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) 
 [![Build Status](https://api.travis-ci.org/quozd/awesome-dotnet.svg)](https://travis-ci.org/quozd/awesome-dotnet)
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
-Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks ★1303](https://github.com/dreikanter/ruby-bookmarks).
+Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks ★1322](https://github.com/dreikanter/ruby-bookmarks).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first. We accept proprietary and commercial software too.
 
@@ -174,7 +174,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Assets
 
-* [Cassette ★523 ⏳1Y](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
+* [Cassette ★523 ⏳2Y](https://github.com/andrewdavey/cassette) - Manages .NET web application assets (scripts, css and templates)
 * [NodeAssets ★19 ⏳1Y](https://github.com/ajorkowski/NodeAssets) - Asset Manager for .net that has live css updates using SignalR and can optionally leverage NodeJS compilers
 * [Bundle Transformer ★9](https://github.com/Taritsyn/BundleTransformer) - Modular extension for [Microsoft ASP.NET Web Optimization Framework](http://aspnetoptimization.codeplex.com/). Its modules supports LESS, Sass, CoffeeScript, TypeScript, Mustache, Handlebars, Autoprefixer along with a bunch of different JS and CSS minifiers.
 * [Bundler ★257](https://github.com/ServiceStack/Bundler) - Compile & Minify Less/Sass/Stylus/Css/JS/CoffeeScript/LiveScript files. Integrates with MVC and ServiceStack
@@ -318,7 +318,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Streamstone ★156](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 * [Ignite ★1170](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 * [Yessql ★311](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
-* [JsonFlatFileDataStore ★10](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+* [JsonFlatFileDataStore ★18](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ## Database Drivers
 
@@ -446,6 +446,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [LibGit2Sharp ★1264](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .Net and Mono.
 * [NGit ★236](https://github.com/mono/ngit) - NGit is a port of JGit to C#
 * [posh-git ★2419](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
+* [RepoZ ★2](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 * [Git Credential Manager for Windows ★1058](https://github.com/Microsoft/Git-Credential-Manager-for-Windows) - Helps solving issues of credentials, made by Microsoft
 
 ## Graphics
@@ -480,7 +481,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [FastColoredTextBox ★480](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox is text editor component for .NET. Allows you to create custom text editor with syntax highlighting. It works well with small, medium, large and very-very large files.
 * [Avalonia ★2464](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 * [Modern UI for WPF - MUI ★1255](https://github.com/firstfloorsoftware/mui) - Set of controls and styles to convert WPF applications into a great looking Modern UI apps.
-* [WinApi ★48](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+* [WinApi ★64](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ## HTML and CSS
 
@@ -543,7 +544,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CppSharp ★845](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 * [Sharpen ★249 ⏳1Y](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 * [CXXI ★174 ⏳5Y](https://github.com/mono/cxxi) - C++ interop framework
-* [pythonnet ★804](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
+* [pythonnet ★863](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
 * [LegacyWrapper ★5](https://github.com/CodefoundryDE/LegacyWrapper) - LegacyWrapper uses a wrapper process to call DLLs from a process of the opposing architecture (X86 or AMD64).
 
 ## IoC
@@ -692,11 +693,12 @@ metadata in media files, including video, audio, and photo formats
 * [EPPlus](http://epplus.codeplex.com/) - EPPlus is a .net library that reads and writes Excel 2007/2010 files using the Open Office Xml format (xlsx).
 * [Open XML SDK ★1351](https://github.com/officedev/open-xml-sdk) - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
 * [DocX ★394](https://github.com/WordDocX/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
+* [ExcelDataReader ★771](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 
 ## ORM
 
-* [Entity Framework 6 ★451](https://github.com/aspnet/EntityFramework6) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
-* [Entity Framework Core ★4912](https://github.com/aspnet/EntityFrameworkCore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
+* [Entity Framework 6 ★495](https://github.com/aspnet/EntityFramework6) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
+* [Entity Framework Core ★5054](https://github.com/aspnet/EntityFrameworkCore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [Dapper ★7087](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 * [Dapper Extensions ★790](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 * [Dapper.FastCRUD ★158](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-orm extension for Dapper
@@ -734,7 +736,7 @@ metadata in media files, including video, audio, and photo formats
 ## Protocols
 
 * [SSH.NET ★687](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
-* [FluentFTP ★263](https://github.com/hgupta9/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
+* [FluentFTP ★288](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 * [SharpSnmpLib](https://docs.sharpsnmp.com/en/latest/) - An open source SNMP implementation for .NET/Mono/Xamarin. Versioin 1, 2c, and 3 are supported.
 
 ## Push Notifications
@@ -778,7 +780,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## SDK and API Clients
 
-* [AWS SDK ★677](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
+* [AWS SDK ★703](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
 * [Azure PowerShell ★805](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 * [Octokit.NET ★1335](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * [DropNet ★420 ⏳1Y](https://github.com/DropNet/DropNet) - Client Library for the Dropbox API
@@ -866,7 +868,7 @@ metadata in media files, including video, audio, and photo formats
 * [Fiddler](http://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform
 * [Open Live Writer ★2041](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog. For more information see http://openlivewriter.org .
 * [CodeHub ★10675](https://github.com/CodeHubApp/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
-* [ShareX ★6191](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+* [ShareX ★6342](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 * [Myrtille ★297](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 * [Opserver ★3151](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 * [CatLight](https://catlight.io) - Build status notifications for TFS/Jenkins/Travis/Appveyor. Cross-platform desktop app based on .Net Core and Electron. **[Free][Proprietary]**
@@ -918,7 +920,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Kestrel ★1778](https://github.com/aspnet/KestrelHttpServer) -  A web server for ASP.NET Core based on libuv
 * [EmbedIO ★245](https://github.com/unosquare/embedio) - Web server built on Mono and cross-platform
-* [XSP ★153](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
+* [XSP ★153 ⏳1Y](https://github.com/mono/xsp) - Mono's ASP.NET hosting server. This module includes an Apache Module, a FastCGI module that can be hooked to other web servers as well as a standalone server used for testing (similar to Microsoft's Cassini)
 
 ## WebSocket
 
@@ -951,7 +953,7 @@ metadata in media files, including video, audio, and photo formats
 * [Awesome .NET Performance ★717](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 * [awesome-ddd ★2055](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 * [Awesome Unity ★1421](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
-* [Awesome Xamarin ★555](https://github.com/benoitjadinon/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
+* [Awesome Xamarin ★583](https://github.com/benoitjadinon/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 
 # Resources
 

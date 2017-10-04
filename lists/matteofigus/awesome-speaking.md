@@ -7,7 +7,7 @@ title: Awesome Rank for matteofigus/awesome-speaking
 	This list is a copy of <a href="https://github.com/matteofigus/awesome-speaking">matteofigus/awesome-speaking</a> with ranks
 </p>
 ---
-awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 ================
 
 A collection of awesome resources about public speaking. Please read the [contributing guideline](https://github.com/matteofigus/awesome-speaking/blob/master/contributing.md) if you wish to contribute.
@@ -37,7 +37,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
 
 ## Miscellaneous
-* [Awesome ★63835](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
+* [Awesome ★65640](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
 * [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
 
 ## Videos
@@ -46,10 +46,11 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [How to Talk to Developers](https://www.youtube.com/watch?v=l9JXH7JPjR4) - by **Ben Orenstein** [47:37]
 * [How to Stay Calm When You Know You'll Be Stressed](https://www.ted.com/talks/daniel_levitin_how_to_stay_calm_when_you_know_you_ll_be_stressed) - by **Daniel Levitin** [12:20]
 * [The surprising secret to speaking with confidence](https://www.youtube.com/watch?v=a2MR5XbJtXU) - by **Caroline Goyder** [18:55]
+* [Bringing Your Full Voice to Life](https://www.youtube.com/watch?v=Ze763kgrWGg) -  by **Barbara McAfee** [19:07]
 
 ## Websites
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-* [awesome-talks ★1870](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
+* [awesome-talks ★1931](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 * [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 

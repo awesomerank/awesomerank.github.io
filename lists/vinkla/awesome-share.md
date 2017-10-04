@@ -7,7 +7,7 @@ title: Awesome Rank for vinkla/awesome-share
 	This list is a copy of <a href="https://github.com/vinkla/awesome-share">vinkla/awesome-share</a> with ranks
 </p>
 ---
-# Awesome Share Links [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Share Links [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 <img src="https://cloud.githubusercontent.com/assets/499192/18660063/c6497820-7f0e-11e6-9d3f-c728227516cb.png" align="right" alt="awesome share links" width="280">
 
@@ -93,12 +93,12 @@ mailto:david.hasselhoff@example.com?subject=This+is+the+subject&body=This+is+the
 ```
 
 ## Facebook
-- URL: https://facebook.com/sharer.php
-- Documentation: https://developers.facebook.com/docs/sharing/reference/share-dialog
-- Parameters: `app_id`, `link`, `u`
+- URL : https://facebook.com/sharer/sharer.php
+- Documentation: https://developers.facebook.com/docs/plugins/share-button/
+- Parameters: `u`
 
 ```
-https://facebook.com/sharer.php?app_id=123456789&u=https://example.com
+https://www.facebook.com/sharer/sharer.php?u=https://example.com
 ```
 
 ## Flattr

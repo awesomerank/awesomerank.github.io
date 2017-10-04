@@ -7,11 +7,11 @@ title: Awesome Rank for leekelleher/awesome-umbraco
 	This list is a copy of <a href="https://github.com/leekelleher/awesome-umbraco">leekelleher/awesome-umbraco</a> with ranks
 </p>
 ---
-# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Umbraco! [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A collection of awesome [Umbraco 7](http://umbraco.com/) packages, resources and shiny things.
 
-Inspired by [awesome lists](https://github.com/sindresorhus/awesome). For general C#/.NET please see the [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet) collection!
+Inspired by [awesome lists](https://github.com/sindresorhus/awesome). For general C#/.NET please see the [awesome-dotnet ★5149](https://github.com/quozd/awesome-dotnet) collection!
 
 **Contributions are always welcome!** Please read the [contribution guidelines and quality standard](https://github.com/leekelleher/awesome-umbraco/blob/master/CONTRIBUTING.md) page before making a pull-request.
 
@@ -46,7 +46,7 @@ Please note * indicates that the package is commercial or may require a license 
 ### Form Builders
 
 * [Umbraco Forms*](http://umbraco.com/forms) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
-* [Form Editor ★60](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
+* [Form Editor ★66](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
 * [Formulate](https://our.umbraco.org/projects/backoffice-extensions/formulate/) - Build website forms (contact forms, newsletter sign ups, surveys, job applications) with no coding.
 
 ### Grid Editors

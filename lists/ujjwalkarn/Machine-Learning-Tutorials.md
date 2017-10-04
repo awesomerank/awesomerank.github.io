@@ -7,13 +7,13 @@ title: Awesome Rank for ujjwalkarn/Machine-Learning-Tutorials
 	This list is a copy of <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">ujjwalkarn/Machine-Learning-Tutorials</a> with ranks
 </p>
 ---
-# Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Machine Learning & Deep Learning Tutorials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
-- This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list ★63835](https://github.com/sindresorhus/awesome).
+- This repository contains a topic-wise curated list of Machine Learning and Deep Learning tutorials, articles and other resources. Other awesome lists can be found in this [list ★65640](https://github.com/sindresorhus/awesome).
 
 - If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
 
-- [Curated list of R tutorials for Data Science, NLP and Machine Learning ★762](https://github.com/ujjwalkarn/DataScienceR).
+- [Curated list of R tutorials for Data Science, NLP and Machine Learning ★822](https://github.com/ujjwalkarn/DataScienceR).
 
 - [Curated list of Python tutorials for Data Science, NLP and Machine Learning ★2702](https://github.com/ujjwalkarn/DataSciencePython).
 
@@ -66,7 +66,7 @@ title: Awesome Rank for ujjwalkarn/Machine-Learning-Tutorials
 
 - [Dive into Machine Learning ★7145](https://github.com/hangtwenty/dive-into-machine-learning)
 
-- [A curated list of awesome Machine Learning frameworks, libraries and software ★25153](https://github.com/josephmisiti/awesome-machine-learning)
+- [A curated list of awesome Machine Learning frameworks, libraries and software ★26231](https://github.com/josephmisiti/awesome-machine-learning)
 
 - [A curated list of awesome data visualization libraries and resources. ★1149](https://github.com/fasouto/awesome-dataviz)
 
@@ -405,7 +405,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 ## Deep Learning
 
-- [A curated list of awesome Deep Learning tutorials, projects and communities ★5266](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [A curated list of awesome Deep Learning tutorials, projects and communities ★5614](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 - [Lots of Deep Learning Resources](http://deeplearning4j.org/documentation.html)
 
@@ -512,7 +512,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         
         - [Intro to Torch](http://ml.informatik.uni-freiburg.de/_media/teaching/ws1415/presentation_dl_lect3.pdf)
         
-        - [Learning Torch GitHub Repo ★27 ⏳1Y](https://github.com/chetannaik/learning_torch)
+        - [Learning Torch GitHub Repo ★27 ⏳2Y](https://github.com/chetannaik/learning_torch)
         
         - [Awesome-Torch (Repository on GitHub) ★456](https://github.com/carpedm20/awesome-torch)
         
@@ -664,7 +664,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
     
     - [Hinton's Guide to Training RBMs](https://www.cs.toronto.edu/~hinton/absps/guideTR.pdf)
     
-    - [RBMs in R ★39 ⏳1Y](https://github.com/zachmayer/rbm)
+    - [RBMs in R ★39 ⏳2Y](https://github.com/zachmayer/rbm)
     
     - [Deep Belief Networks Tutorial](http://deeplearning4j.org/deepbeliefnetwork.html)
     
@@ -712,7 +712,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 ## Natural Language Processing
 
-- [A curated list of speech and natural language processing resources ★1557](https://github.com/edobashira/speech-language-processing)
+- [A curated list of speech and natural language processing resources ★1557 ⏳1Y](https://github.com/edobashira/speech-language-processing)
 
 - [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/)
 
@@ -1152,7 +1152,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 ## Other Tutorials
 
-- For a collection of Data Science Tutorials using R, please refer to [this list ★762](https://github.com/ujjwalkarn/DataScienceR).
+- For a collection of Data Science Tutorials using R, please refer to [this list ★822](https://github.com/ujjwalkarn/DataScienceR).
 
 - For a collection of Data Science Tutorials using Python, please refer to [this list ★2702](https://github.com/ujjwalkarn/DataSciencePython).
 ---

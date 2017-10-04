@@ -27,7 +27,7 @@ title: Awesome Rank for websemantics/awesome-ant-design
 ```
 > A curated list of [Ant Design](http://ant.design/) resources and related projects. The main idea is that everyone can contribute here, so we can have a central repository of informations about Ant Design that we keep up-to-date.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 [<img src="https://t.alipayobjects.com/images/rmsweb/T1B9hfXcdvXXXXXXXX.svg" align="right" width="200">](https://ant.design/)
 
 Ant Design, a design language for middleware, is refined by Experience Technology Department of Ant Financial, aims to uniform the user interface specs for middleware projects, reduce the unnecessary cost of design differences and implementation and liberate the resources of design and front-end development.
@@ -88,7 +88,7 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-- [NG-ZORRO ★1031](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
+- [NG-ZORRO ★1520](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 
 ## Vue.js
 
@@ -108,7 +108,7 @@ A list of UI components built with Ant Design.
 - [react-lz-editor ★268](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 - [React Grid ★10](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
 - [Antd Kit ★20 ⏳1Y](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
-- [antd-data-table ★4](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
+- [antd-data-table ★10](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
 
 ## Applications
 
@@ -147,8 +147,8 @@ A list of starter projects and boilerplates built with Ant Design.
 - [Dva Ant Admin ★2](https://github.com/jiangbo2015/learn-dva) - A front-end boilerplate built with Dva, Ant-Design
 - [Aspnet Core Antd Boilerplate ★6](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
 - [React Redux Universal ★13](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
-- [CRA-TS-Antd ★6](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
-- [Ng-Alain ★13](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
+- [CRA-TS-Antd ★20](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
+- [Ng-Alain ★189](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 
 ## Non-JavaScript Libraries
 

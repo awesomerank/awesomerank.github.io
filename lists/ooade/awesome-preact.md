@@ -7,13 +7,13 @@ title: Awesome Rank for ooade/awesome-preact
 	This list is a copy of <a href="https://github.com/ooade/awesome-preact">ooade/awesome-preact</a> with ranks
 </p>
 ---
-# Awesome Preact [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Preact [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/ooade/awesome-preact/master/preact-logo.svg" align="right" width="100">](https://preactjs.com)
 
-> A curated list of amazingly awesome things regarding [Preact ★11810](https://github.com/developit/preact) ecosystem :star2:
+> A curated list of amazingly awesome things regarding [Preact ★14143](https://github.com/developit/preact) ecosystem :star2:
 
-[Preact ★11810](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
+[Preact ★14143](https://github.com/developit/preact) is a fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 
 ## Contents
 - [Community](#community)
@@ -30,7 +30,7 @@ title: Awesome Rank for ooade/awesome-preact
 ### Community
 - [Slack](https://preact-slack.now.sh) (Discussion Forum)
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/preact)
-- [Github ★11810](https://github.com/developit/preact)
+- [Github ★14143](https://github.com/developit/preact)
 - [Twitter](https://twitter.com/preactjs)
 
 ### Toolkits
@@ -44,7 +44,7 @@ title: Awesome Rank for ooade/awesome-preact
 - [Preact Simple Starter ★47](https://github.com/ooade/PreactSimpleStarter) - PWA Simple Starter with Preact, Preact-mdl and Webpack2.
 - [Preact Offline Starter ★307](https://github.com/lukeed/preact-starter) - Webpack2 boilerplate for building SPA / PWA / offline front-end apps with Preact.
 - [TypeScript Preact Starter ★13](https://github.com/nickytonline/ts-preact-starter) - Barebones starter project for Preact with TypeScript.
-- [Preact Redux SSR Example ★16](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example.
+- [Preact Redux SSR Example ★16 ⏳1Y](https://github.com/csbun/preact-redux-ssr-example) - Server-side Rendering with Redux Example.
 - [Preact PWA ★404](https://github.com/ezekielchentnik/preact-pwa) - PWA focused on raw performance, server side rendering, prerendering, redux, express, rollup.
 
 ### Routing
@@ -79,6 +79,8 @@ title: Awesome Rank for ooade/awesome-preact
 - [Preact Delegate ★14](https://github.com/NekR/preact-delegate) - Delegate DOM events.
 - [Preact No SSR](https://github.com/gufsky/preact-no-ssr) - Skip Server Side Rendering of Components.
 - [Preact Head ★20](https://github.com/matthewmueller/preact-head) - Standalone, declarative \<Head /\> for Preact.
+- [Preact Side Effect ★6](https://github.com/ooade/preact-side-effect) - Create components whose nested prop changes map to a global side effect.
+- [Preact Tiny Atom](https://github.com/KwanMan/preact-tiny-atom) - Preact Integration with [Tiny Atom ★11](https://github.com/qubitproducts/tiny-atom).
 
 ### Testing Utils
 - [Preact JSX Chai](https://git.io/preact-jsx-chai) - JSX assertion testing _(no DOM, right in Node)_.

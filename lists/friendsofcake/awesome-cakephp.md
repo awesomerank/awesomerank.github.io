@@ -7,7 +7,7 @@ title: Awesome Rank for friendsofcake/awesome-cakephp
 	This list is a copy of <a href="https://github.com/friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
 </p>
 ---
-# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome **CakePHP 3.x** plugins, resources and shiny things.
 
 If you are looking for CakePHP 2.x resources please visit:
@@ -16,7 +16,7 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP ★16252](https://github.com/ziadoz/awesome-php)
+- [Awesome PHP ★16697](https://github.com/ziadoz/awesome-php)
 - [Awesome Awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -342,7 +342,7 @@ Additional lists you might find useful:
 *Search Engine Optimization.*
 
 - [Muffin/Slug plugin ★24](https://github.com/UseMuffin/Slug) - A plugin for generating slugs and finding records by slug. Uses a pluggable architecture which allows using your own slug generator class.
-- [Seo plugin ★8](https://github.com/orgasmicnightmare/cakephp-seo) - Auto-creates and manages your SEO tags.
+- [Seo plugin ★8 ⏳1Y](https://github.com/orgasmicnightmare/cakephp-seo) - Auto-creates and manages your SEO tags.
 - [Sluggable plugin ★6 ⏳1Y](https://github.com/Xety/Cake3-Sluggable) - A simple Cake3 plugin to slug fields and find records by slug.
 - [Tools:Slugged ★275](https://github.com/dereuromark/cakephp-tools) - Containing Slugged behavior to auto-generate URL-compatible slugs from titles.
 

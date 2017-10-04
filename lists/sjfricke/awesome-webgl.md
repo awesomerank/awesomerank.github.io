@@ -7,7 +7,7 @@ title: Awesome Rank for sjfricke/awesome-webgl
 	This list is a copy of <a href="https://github.com/sjfricke/awesome-webgl">sjfricke/awesome-webgl</a> with ranks
 </p>
 ---
-# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome WebGL [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 [<img src="webgl_logo.png" align="right" width="175">](https://www.khronos.org/webgl/)
 
@@ -89,9 +89,9 @@ Processing Unit (GPU).
 
 * [Fractal Lab](http://hirnsohle.de/test/fractalLab/) - Online fractal explorer allowing you to explore 2D and 2D fractal.
 * [GLSL Sandbox](http://glslsandbox.com) - Online live editor for fragment shaders.
-* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify ★718](https://github.com/stackgl/glslify).
+* [GLSLbin](http://glslb.in) - Fragment shader sandbox supporting [glslify ★744](https://github.com/glslify/glslify).
 * [Shader Toy](https://www.shadertoy.com) - Most popular live editor for fragment shaders.
-* [ShaderFrog](http://shaderfrog.com/) - WebGL Shader Editor and Composer.
+* [ShaderFrog](https://shaderfrog.com/) - WebGL Shader Editor and Composer.
 * [SHDR Editor](http://shdr.bkcore.com) - Live GLSL shader editor, viewer and validator.
 
 ### References
@@ -249,6 +249,14 @@ Processing Unit (GPU).
 ### 2D
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
+* [Planck.js ★2718](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
+* [Stage.js ★1138](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
+
+### Maps and Visualizations
+* [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
+* [Deck.gl](https://uber.github.io/deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
+* [Luma.gl](https://uber.github.io/luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
+* [xeogl](http://xeogl.org/) - Data-driven 3D visualization engine on WebGL.
 
 ### Math
 * [glMatrix](http://glmatrix.net/) - Javascript matrix and vector library for high performance WebGL apps.
@@ -256,7 +264,6 @@ Processing Unit (GPU).
 * [TWGL](http://twgljs.org/) - Sole purpose is to make using the WebGL API less verbose.
 
 ### WebGL 2
-* [Luma.gl](https://uber.github.io/luma.gl/) - WebGL2 powered framework for GPU-powered data visualization and computation.
 * [PicoGL.js](https://tsherif.github.io/picogl.js/) - Minimal WebGL 2-only rendering library.
 
 ### WebVR
@@ -270,17 +277,16 @@ Processing Unit (GPU).
 ### Others
 * [Ammo.js ★1182](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
+* [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 * [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
-* [Cesium](http://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
-* [Deck.gl](https://uber.github.io/deck.gl/) - WebGL overlay suite for React providing a set of highly performant data visualization overlays.
 * [GLGE](http://www.glge.org/) - Javascript library intended to ease the use of WebGL.
 * [OSG.js](http://osgjs.org/) - WebGL framework based on OpenSceneGraph concepts to interact with WebGL.
 * [Pex-gl](http://vorg.github.io/pex/) - JavaScript libraries for computational thinking in Plask/Node.js and WebGL.
+* [PlayCanvas](https://playcanvas.com/) - Game engine platform to build interactive experiences.
 * [Pocket.gl](http://pocket.gl/) - Fully customizable webgl shader sandbox to embed in your pages.
 * [Regl](http://regl.party/) - Light declarative and stateless library, functional abstraction for WebGL.
 * [Scene.js](http://scenejs.org/) - Extensible WebGL-based engine for high-detail 3D visualisation.
 * [Three.js](https://threejs.org/) - Aimed to create an easy to use, lightweight, 3D library.
-* [xeogl](http://xeogl.org/) - Data-driven 3D visualization engine on WebGL.
 * [Whitestorm.js](https://whsjs.io/) - Framework for developing 3D web apps with physics.
 
 ## Community
@@ -300,9 +306,9 @@ Processing Unit (GPU).
 
 > Similar awesome lists
 
-* [awesome ★63835](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+* [awesome ★65640](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 * [awesome-computer-vision ★3058](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
-* [awesome-opengl ★583](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
+* [awesome-opengl ★594](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [awesome-vulkan ★603](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
 * [gamedev ★4152](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 * [graphics-resources ★1032](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.

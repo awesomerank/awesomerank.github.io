@@ -7,7 +7,7 @@ title: Awesome Rank for bulutyazilim/awesome-datascience
 	This list is a copy of <a href="https://github.com/bulutyazilim/awesome-datascience">bulutyazilim/awesome-datascience</a> with ranks
 </p>
 ---
-# Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 
 *An open source Data Science repository to learn and apply towards solving real world problems.*
@@ -117,7 +117,7 @@ Preview | Description
 * [data.gov](https://catalog.data.gov/dataset) - The home of the U.S. Government's open data
 * [United States Census Bureau](http://www.census.gov/)
 * [usgovxml.com](http://usgovxml.com/)
-* [enigma.io](http://enigma.io/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
+* [enigma.com](http://enigma.com/) - Navigate the world of public data - Quickly search and analyze billions of public records published  by governments, companies and organizations.
 * [datahub.io](https://datahub.io/)
 * [aws.amazon.com/datasets](https://aws.amazon.com/datasets/)
 * [databib.org](http://databib.org/)
@@ -397,7 +397,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
  * [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
  * [Nervana's python based Deep Learning Framework ★3212](https://github.com/NervanaSystems/neon)
- * [Skale ★150](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS
+ * [Skale ★161](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
  * [Intel framework ★321 ⏳1Y](https://github.com/01org/idlf) - Intel® Deep Learning Framework
  * [Datawrapper](https://www.datawrapper.de/) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com ★841](https://github.com/datawrapper/datawrapper)
@@ -491,12 +491,12 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 ## Other Awesome Lists
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) list.
- - [Awesome Machine Learning ★25153](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
- - [lists ★4428](https://github.com/jnv/lists)
+ - [Awesome Machine Learning ★26231](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
+ - [lists ★4466](https://github.com/jnv/lists)
  - [awesome-dataviz ★1149](https://github.com/fasouto/awesome-dataviz)
- - [awesome-python ★37548](https://github.com/vinta/awesome-python)
- - [Data Science IPython Notebooks. ★9894](https://github.com/donnemartin/data-science-ipython-notebooks)
- - [awesome-r ★2309](https://github.com/qinwf/awesome-R)
+ - [awesome-python ★39191](https://github.com/vinta/awesome-python)
+ - [Data Science IPython Notebooks. ★10131](https://github.com/donnemartin/data-science-ipython-notebooks)
+ - [awesome-r ★2392](https://github.com/qinwf/awesome-R)
  - [awesome-datasets ★20304](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas ★323](https://github.com/JosPolfliet/awesome-datascience-ideas)

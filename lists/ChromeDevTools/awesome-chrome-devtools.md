@@ -7,7 +7,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 	This list is a copy of <a href="https://github.com/ChromeDevTools/awesome-chrome-devtools">ChromeDevTools/awesome-chrome-devtools</a> with ranks
 </p>
 ---
-# Awesome chrome-devtools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome chrome-devtools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
 
@@ -55,7 +55,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [DevTools Backend ★10](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments. 
 - [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) - The official Selenium/WebDriver implementation for Chrome is implemented on top of the DevTools Protocol.
-- [Chrome Protocol Proxy ★25](https://github.com/wendigo/chrome-protocol-proxy) - tool for debugging clients using devtools protocol
+- [Chrome Protocol Proxy ★29](https://github.com/wendigo/chrome-protocol-proxy) - tool for debugging clients using devtools protocol
 - [Puppeteer ★12807](https://github.com/GoogleChrome/puppeteer) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol
 
 #### Protocol driver libraries (in various languages)
@@ -63,15 +63,15 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - TypeScript/Node.js: [chrome-debugging-client ★34](https://github.com/krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
 - Java: [cdp4j ★68](https://github.com/webfolderio/cdp4j) - Java library for CDP
 - Python: [PyChromeDevTools ★20](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
-- Python: [chromewhip ★7](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
-- Python: [pychrome ★59](https://github.com/fate0/pychrome) - A Python Package for the Google Chrome Dev Protocol
-- Go: [chromedp ★1385](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
-- Go: [cdp ★33](https://github.com/mafredri/cdp) - A Golang library for the protocol
+- Python: [chromewhip ★12](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
+- Python: [pychrome ★72](https://github.com/fate0/pychrome) - A Python Package for the Google Chrome Dev Protocol
+- Go: [chromedp ★1454](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
+- Go: [cdp ★49](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd ★119](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet ★156](https://github.com/raff/godet) - Also different, also Go.
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
-- Ruby: [ChromeRemote ★5](https://github.com/cavalle/chrome_remote) - A client implementation of the Chrome DevTools Protocol in Ruby
-- Kotlin: [chrome-reactive-kotlin ★13](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
+- Ruby: [ChromeRemote ★11](https://github.com/cavalle/chrome_remote) - A client implementation of the Chrome DevTools Protocol in Ruby
+- Kotlin: [chrome-reactive-kotlin ★15](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
 
 #### Developing with the protocol
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes
@@ -101,14 +101,14 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [Mare ★192](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools
 
 #### iOS
-- [PonyDebugger ★5432](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
+- [PonyDebugger ★5451](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
 
 ##### Go
 - [go-debugger-devtools](https://github.com/allada/go-debugger-devtools)
 
 ##### Node.js
 - [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - Guide on using the full debugging and profiling support in Node v6.3+
-- [devtool ★3726](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
+- [devtool ★3748](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
 - [buggerJS ★149](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
 
 

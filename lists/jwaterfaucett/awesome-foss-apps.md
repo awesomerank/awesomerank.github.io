@@ -7,13 +7,13 @@ title: Awesome Rank for jwaterfaucett/awesome-foss-apps
 	This list is a copy of <a href="https://github.com/jwaterfaucett/awesome-foss-apps">jwaterfaucett/awesome-foss-apps</a> with ranks
 </p>
 ---
-# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome production grade free and open source software organized by category.
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome ★63835](https://github.com/sindresorhus/awesome).*
+*Inspired by Sindre Sorhus's [awesome ★65640](https://github.com/sindresorhus/awesome).*
 
 ## TOC
 
@@ -27,21 +27,21 @@ This list is for developers who are looking for non-trivial quality applications
 ## Web Apps (frontend only)
 ----
 
-### [CircleCI ★850](https://github.com/circleci/frontend)
+### [CircleCI ★863](https://github.com/circleci/frontend)
 
 * clojurescript, om, react
 * Eclipse Public License
 
 > CircleCI provides a continuous integration and deployment platform. The frontend is an impressive example of a large application built with the immutable data structures of clojurescript. The frontend integrates with pusher, intercom, d3, and google analytics and has a great example of navigation routing and communication via real-time events, websockets, and backend API servers. Its test suite is not that extensive but does provide a good example of how to test clojurescript/om apps using karma.
 
-### [Precursor App ★463](https://github.com/PrecursorApp/precursor)
+### [Precursor App ★468](https://github.com/PrecursorApp/precursor)
 
 * clojurescript, om, react
 * Eclipse Public License
 
 > Precursor is a highly interactive prototyping webapp. Its frontend is built from the ground up with clojurescript. The project has a simple enough routing and event passing system such that newer clojurescript developers could easily understand how routing in clojurescript applications can work. It is also full of many examples of how to build a component based frontend architecture that is part of an interactive graphics application i.e. where many components manipulate the HTML5 canvas or work with HTML5 APIs. 
 
-### [The Guardian ★3622](https://github.com/guardian/frontend)
+### [The Guardian ★3642](https://github.com/guardian/frontend)
 
 * play2, scala, node
 * Apache 2.0 License
@@ -51,7 +51,7 @@ This list is for developers who are looking for non-trivial quality applications
 ### Web Apps (fullstack)
 ----
 
-### [Ghost ★23629](https://github.com/TryGhost/Ghost)
+### [Ghost ★24011](https://github.com/TryGhost/Ghost)
 
 * node, express, ember
 * MIT License
@@ -65,7 +65,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse ★22399](https://github.com/discourse/discourse)
+### [Discourse ★22816](https://github.com/discourse/discourse)
 
 * ruby, rails, ember
 * GPLv2 License

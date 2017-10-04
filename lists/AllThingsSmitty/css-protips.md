@@ -11,11 +11,11 @@ title: Awesome Rank for AllThingsSmitty/css-protips
   <img src="https://rawgit.com/AllThingsSmitty/css-protips/master/media/logo.svg" alt="light bulb icon">
 </p>
 
-# CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# CSS Protips [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A collection of tips to help take your CSS skills pro.
 
-> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★63835](https://github.com/sindresorhus/awesome).
+> For other great lists check out [@sindresorhus](https://github.com/sindresorhus/)'s curated list of [awesome lists ★65640](https://github.com/sindresorhus/awesome).
 
 
 ## Table of Contents
@@ -53,7 +53,7 @@ A collection of tips to help take your CSS skills pro.
 
 ### Use a CSS Reset
 
-CSS resets help enforce style consistency across different browsers with a clean slate for styling elements. You can use CSS reset library like [Normalize](http://necolas.github.io/normalize.css/), _et al._, or you can use a more simplified reset approach:
+CSS resets help enforce style consistency across different browsers with a clean slate for styling elements. You can use a CSS reset library like [Normalize](http://necolas.github.io/normalize.css/), _et al._, or you can use a more simplified reset approach:
 
 ```css
 * {
@@ -206,7 +206,7 @@ li:nth-child(-n+3) {
 Or, since you've already learned a little about [using `:not()`](#use-not-to-applyunapply-borders-on-navigation), try:
 
 ```css
-/* select items 1 through 3 and display them */
+/* select all items except the first 3 and display them */
 li:not(:nth-child(-n+3)) {
   display: none;
 }

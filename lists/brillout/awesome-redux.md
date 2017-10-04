@@ -7,7 +7,7 @@ title: Awesome Rank for brillout/awesome-redux
 	This list is a copy of <a href="https://github.com/brillout/awesome-redux">brillout/awesome-redux</a> with ranks
 </p>
 ---
-# Redux Libraries & Learning Material [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Redux Libraries & Learning Material [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/brillout/awesome-redux/master/redux-logo.svg" align="right" width="110">](http://redux.js.org/)
 
@@ -53,7 +53,7 @@ title: Awesome Rank for brillout/awesome-redux
  - [redux-logger ★2549](https://github.com/evgenyrodionov/redux-logger) - Logger middleware for Redux.
  - [redux-immutable ★1213](https://github.com/gajus/redux-immutable) - Redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
  - [reselect ★8463](https://github.com/reactjs/reselect) - Selector library for Redux.
- - [redux-requests ★234 ⏳1Y](https://github.com/idolize/redux-requests) - Manages in-flight requests with a Redux reducer to avoid issuing duplicate requests.
+ - [redux-requests ★234 ⏳2Y](https://github.com/idolize/redux-requests) - Manages in-flight requests with a Redux reducer to avoid issuing duplicate requests.
  - [redux-undo ★1544](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers.
  - [redux-bug-reporter ★504](https://github.com/dtschust/redux-bug-reporter) - Bug reporter and bug playback tool for Redux.
  - [redux-transducers ★117 ⏳1Y](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
@@ -104,7 +104,7 @@ title: Awesome Rank for brillout/awesome-redux
 
 ## React Integration
 
- - [redux-test-recorder ★401](https://github.com/conorhastings/redux-test-recorder) - Redux middleware to automatically generate tests for reducers through ui interaction.
+ - [redux-test-recorder ★408](https://github.com/conorhastings/redux-test-recorder) - Redux middleware to automatically generate tests for reducers through ui interaction.
  - [react-redux ★9145](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
  - [react-easy-universal ★210 ⏳1Y](https://github.com/keystonejs/react-easy-universal) - Universal Routing &amp; Rendering with React &amp; Redux was too hard. Now it&#39;s easy.
  - [redux-form-material-ui ★443](https://github.com/erikras/redux-form-material-ui) - Set of wrapper components to facilitate using Material UI with Redux Form.
@@ -180,8 +180,8 @@ title: Awesome Rank for brillout/awesome-redux
 
  - [redux-cli ★805](https://github.com/SpencerCDixon/redux-cli) - Opinionated CLI for building Redux/React apps quicker.
  - [reactuate ★496 ⏳1Y](https://github.com/reactuate/reactuate) - React/Redux stack (not a boilerplate kit).
- - [react-chrome-extension-boilerplate ★707](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project.
- - [universal-redux ★474](https://github.com/bdefore/universal-redux) - Npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
+ - [react-chrome-extension-boilerplate ★735](https://github.com/jhen0409/react-chrome-extension-boilerplate) - Boilerplate for Chrome Extension React.js project.
+ - [universal-redux ★474 ⏳1Y](https://github.com/bdefore/universal-redux) - Npm package that lets you jump right into coding React and Redux with universal (isomorphic) rendering. Only manage Express setups or Webpack configurations if you want to.
  - [generator-react-aspnet-boilerplate ★249](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
  - [generator-redux ★248 ⏳1Y](https://github.com/banderson/generator-redux) - CLI tools for Redux: next-gen functional Flux/React with devtools.
  - [generator-react-webpack-redux ★525](https://github.com/stylesuxx/generator-react-webpack-redux) - React Webpack Generator including Redux support.

@@ -7,7 +7,7 @@ title: Awesome Rank for dreikanter/sublime-bookmarks
 	This list is a copy of <a href="https://github.com/dreikanter/sublime-bookmarks">dreikanter/sublime-bookmarks</a> with ranks
 </p>
 ---
-# Sublime Text Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Sublime Text Bookmarks [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > [Sublime Text](http://www.sublimetext.com/) is a cross-platform text and source code editor, with a Python application programming interface. Its functionality is extendable with plugins. Most of the extending packages have free-software licenses and are community-built and maintained. — [Wikipedia](https://en.wikipedia.org/wiki/Sublime_Text)
 
@@ -101,13 +101,13 @@ Notes:
 
 Plugins:
 
-- [MagicPython ★885](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
+- [MagicPython ★895](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 - [Rope ★404](https://github.com/python-rope/rope) — a Python refactoring library.
 - [SublimeLinter PEP 257](https://github.com/SublimeLinter/SublimeLinter-pep257) — an interface to [PEP 257](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) (docstring style checker).
 - [Djaneiro ★799](https://github.com/squ1b3r/Djaneiro) — Django support.
 - [SublimePythonTidy ★42 ⏳4Y](https://github.com/witsch/SublimePythonTidy) — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
-- [Anaconda ★1556](https://github.com/DamnWidget/anaconda) — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
-- [SublimeJEDI ★742](https://github.com/srusskih/SublimeJEDI) — Python autocompletion.
+- [Anaconda ★1609](https://github.com/DamnWidget/anaconda) — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
+- [SublimeJEDI ★751](https://github.com/srusskih/SublimeJEDI) — Python autocompletion.
 
 ### JavaScript Profile
 
@@ -136,7 +136,7 @@ Plugins:
 
 - [GotoDocumentation ★126](https://github.com/kemayo/sublime-text-2-goto-documentation) — a plugin to jump to documentation for the current word.
 - [DashDoc ★1175](https://github.com/farcaller/DashDoc) — [Dash](https://kapeli.com/dash) integration for Sublime Text.
-- [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool ★5574](https://github.com/gleitz/howdoi).
+- [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool ★5828](https://github.com/gleitz/howdoi).
 
 ## Integration
 
@@ -194,6 +194,7 @@ There is a LOT of unofficial icon alternatives for Sublime Text. Here are a litt
 - [Consolas](http://www.fonts.com/font/microsoft-corporation/consolas) (goes with Microsoft Office)
 - [Droid Sans Mono](http://damieng.com/blog/2007/11/14/droid-font-family-courtesy-of-google-ascender)
 - [Deja Vu Sans Mono](http://dejavu-fonts.org)
+- [Fira Mono](https://fonts.google.com/specimen/Fira+Mono)
 - [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 - [Monaco](https://en.wikipedia.org/wiki/Monaco_%28typeface%29)
 - [Bitstream Vera Sans Mono](http://www.dafont.com/bitstream-vera-mono.font)

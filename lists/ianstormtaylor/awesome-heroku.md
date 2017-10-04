@@ -127,8 +127,8 @@ How to secure you Heroku applications...
 Helpful resources for the [Heroku Toolbelt](https://toolbelt.heroku.com/)...
 
 - `official` [Toolbelt Download](https://toolbelt.heroku.com/) — where to download the Heroku toolbelt.
-- `plugin` [heroku-accounts ★1287 ⏳1Y](https://github.com/ddollar/heroku-accounts) — makes it easy to work with multiple accounts at once from the command line.
-- `plugin` [heroku-pg-extras ★789](https://github.com/heroku/heroku-pg-extras) — a toolbelt plugin that adds extra useful plugins for working with Postgres. Things like analyzing cache hit rates, outlier queries, unused indexes, table sizes, etc.
+- `plugin` [heroku-accounts ★1285 ⏳1Y](https://github.com/ddollar/heroku-accounts) — makes it easy to work with multiple accounts at once from the command line.
+- `plugin` [heroku-pg-extras ★802](https://github.com/heroku/heroku-pg-extras) — a toolbelt plugin that adds extra useful plugins for working with Postgres. Things like analyzing cache hit rates, outlier queries, unused indexes, table sizes, etc.
 
 
 ## <img width="21" height="21" src="images/goodbye.png" /> Goodbye...

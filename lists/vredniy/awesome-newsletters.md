@@ -7,7 +7,7 @@ title: Awesome Rank for vredniy/awesome-newsletters
 	This list is a copy of <a href="https://github.com/vredniy/awesome-newsletters">vredniy/awesome-newsletters</a> with ranks
 </p>
 ---
-# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
+# Awesome Newsletter [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/vredniy/awesome-newsletters.svg)](https://travis-ci.org/vredniy/awesome-newsletters)
 
 A curated list of awesome newsletters.
 
@@ -26,6 +26,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
 * [Front End Newsletter](http://frontendnewsletter.com/). The free, weekly newsletter of the best Front End related news, articles, projects, and more. JavaScript, React, Angular, Ember, Polymer, Meteor, RxJS, Elm, and more. [Archive](http://frontendnewsletter.com/issues).
 * [Dev Tips](https://umaar.com/dev-tips/). A developer tip, in the form of a gif, in your inbox each week.
+* [Friday Front-end](https://zendev.com/friday-frontend.html). 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff. [Archive](https://zendev.com/category/friday-frontend.html)
 
 ### General Web Development
 * [Weekend Reading](http://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
@@ -51,6 +52,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Fullstack React](http://newsletter.fullstackreact.com/). Newsletter about the React ecosystem with an emphasis on useful libraries, tutorials and code. [Archive](http://newsletter.fullstackreact.com/issues).
 * [React Digest](https://www.getrevue.co/profile/the-react-digest). A hand-picked weekly selection of the best React JS resources.
 * [React Digest 2](https://reactdigest.net/). 5 links; Flux, Redux, MobX, React and React Native we are watching everything so sign up and get your portion of javascript awesomeness every week.
+* [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe). A weekly newsletter about React and ecosystem.
 
 #### AngularJS
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
@@ -132,7 +134,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Awesome Go Newsletter](https://go.libhunt.com/newsletter). A weekly overview of the most popular Go news, articles and libraries.
 
 ### R
-* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub ★111](https://github.com/rweekly/rweekly.org).
+* [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub ★116](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
 * [Ruby Weekly](http://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
@@ -271,6 +273,7 @@ every Sunday in the form of the DevOps newsletter.
 * [Handwritten newsletter](http://www.thnkclrly.com/newsletter/). The Think Clearly newsletter gives you little reflection exercises to help you in your daily life. It is created with love and admiration. [Archive](http://www.thnkclrly.com/category/thinking-clearly/).
 * [Better Dev Link](https://betterdev.link). A weekly newsletter, collects links that aim to improve programming knowledge general. The purpose is not include the links that reader can search instantly from google such as how to do x, y, z but more about problem solving in programming.
 * [DevCraft Weekly](https://devcraftweekly.com/). A Weekly Newsletter on the Art, Craft and Lifestyle of Software Engineering.
+* [Exponential View](http://www.exponentialview.co/newsletter). A weekly newsletter on what’s new in the world of artificial intelligence, biotech, and the near future.
 
 
 ## Etc.

@@ -7,7 +7,7 @@ title: Awesome Rank for nmec/awesome-ember
 	This list is a copy of <a href="https://github.com/nmec/awesome-ember">nmec/awesome-ember</a> with ranks
 </p>
 ---
-# Awesome Ember [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Ember [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Ember.js things.
 

@@ -7,7 +7,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 	This list is a copy of <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">ChristosChristofidis/awesome-deep-learning</a> with ranks
 </p>
 ---
-# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Deep Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 ## Table of Contents
 
@@ -421,11 +421,11 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 2.  [Torch7](http://torch.ch/)
 3.  [Theano](http://deeplearning.net/software/theano/)
 4.  [cuda-convnet](https://code.google.com/p/cuda-convnet2/)
-5.  [convetjs ★7755](https://github.com/karpathy/convnetjs)
+5.  [convetjs ★7946](https://github.com/karpathy/convnetjs)
 5.  [Ccv](http://libccv.org/doc/doc-convnet/)
 6.  [NuPIC](http://numenta.org/nupic.html)
 7.  [DeepLearning4J](http://deeplearning4j.org/)
-8.  [Brain ★7794](https://github.com/harthur/brain)
+8.  [Brain ★7836](https://github.com/harthur/brain)
 9.  [DeepLearnToolbox ★2644](https://github.com/rasmusbergpalm/DeepLearnToolbox)
 10.  [Deepnet ★772 ⏳3Y](https://github.com/nitishsrivastava/deepnet)
 11.  [Deeppy ★1152 ⏳1Y](https://github.com/andersbll/deeppy)
@@ -446,11 +446,11 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 26.  [MatConvNet: CNNs for MATLAB ★828](https://github.com/vlfeat/matconvnet)
 27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU ★613 ⏳1Y](https://github.com/dmlc/minerva)
 28.  [Brainstorm - Fast, flexible and fun neural networks. ★1265](https://github.com/IDSIA/brainstorm)
-29.  [Tensorflow - Open source software library for numerical computation using data flow graphs ★67089](https://github.com/tensorflow/tensorflow)
+29.  [Tensorflow - Open source software library for numerical computation using data flow graphs ★71496](https://github.com/tensorflow/tensorflow)
 30.  [DMTK - Microsoft Distributed Machine Learning Tookit ★2245](https://github.com/Microsoft/DMTK)
 31.  [Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/google/skflow)
 32.  [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/dmlc/mxnet/)
-33.  [Veles - Samsung Distributed machine learning platform ★832](https://github.com/Samsung/veles)
+33.  [Veles - Samsung Distributed machine learning platform ★839](https://github.com/Samsung/veles)
 34.  [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework ★371](https://github.com/PrincetonVision/marvin)
 35.  [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
 36.  [DSSTNE - Amazon's library for building Deep Learning models](https://github.com/amznlabs/amazon-dsstne)
@@ -463,7 +463,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 43.  [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne ★838](https://github.com/dnouri/nolearn)
 44.  [Sonnet - a library for constructing neural networks by Google's DeepMind ★5292](https://github.com/deepmind/sonnet)
 45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration ★7382](https://github.com/pytorch/pytorch)
-46.  [CNTK - Microsoft Cognitive Toolkit ★12124](https://github.com/Microsoft/CNTK)
+46.  [CNTK - Microsoft Cognitive Toolkit ★12560](https://github.com/Microsoft/CNTK)
 
 ### Miscellaneous
 
@@ -482,9 +482,9 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 14. [Implementing a Distributed Deep Learning Network over Spark](http://www.datasciencecentral.com/profiles/blogs/implementing-a-distributed-deep-learning-network-over-spark)
 15. [A chess AI that learns to play chess using deep learning. ★542](https://github.com/erikbern/deep-pink)
 16. [Reproducing the results of "Playing Atari with Deep Reinforcement Learning" by DeepMind ★620 ⏳2Y](https://github.com/kristjankorjus/Replicating-DeepMind)
-17. [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps ★399](https://github.com/idio/wiki2vec)
+17. [Wiki2Vec. Getting Word2vec vectors for entities and word from Wikipedia Dumps ★399 ⏳1Y](https://github.com/idio/wiki2vec)
 18. [The original code from the DeepMind article + tweaks ★1484](https://github.com/kuz/DeepMind-Atari-Deep-Q-Learner)
-19. [Google deepdream - Neural Network art ★10525 ⏳1Y](https://github.com/google/deepdream)
+19. [Google deepdream - Neural Network art ★10525 ⏳2Y](https://github.com/google/deepdream)
 20. [An efficient, batched LSTM.](https://gist.github.com/karpathy/587454dc0146a6ae21fc)
 21. [A recurrent neural network designed to generate classical music. ★1358](https://github.com/hexahedria/biaxial-rnn-music-composition)
 22. [Memory Networks Implementations - Facebook ★1186](https://github.com/facebook/MemNN)
@@ -497,8 +497,8 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 29. [Machine Learning for Software Engineers ★16357](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 30. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
 31. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-32. [Dockerface ★11](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
-33. [Awesome Deep Learning Music ★7](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
+32. [Dockerface ★62](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
+33. [Awesome Deep Learning Music ★27](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
 
 -----
 ### Contributing

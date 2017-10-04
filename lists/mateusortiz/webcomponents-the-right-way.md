@@ -9,7 +9,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 ---
 # Web Components the Right Way
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > This is a guide intended to introduce to Web Components. Everyone can contribute here!
 
@@ -71,12 +71,14 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 * [The Case for Custom Elements: Part 2](https://medium.com/dev-channel/the-case-for-custom-elements-part-2-2efe42ce9133) A post describing some of the features that make Custom Elements compelling if you’re considering building your own component library.
 * [All about HTML Custom Elements ★86](https://github.com/shawnbot/custom-elements) A detailed overview including the differences between Custom Elements v0 and v1.
 * [Custom Elements](https://developer.mozilla.org/en-US/docs/Web/Web_Components/Custom_Elements) at Mozilla Developer Network
+* [Introducing Custom Elements](https://webkit.org/blog/7027/introducing-custom-elements/) The Custom Elements API has been implemented and enabled by default in the Safari Technology Preview 18.
 
 ### Shadow DOM
 
 * [Shadow DOM v1: self-contained web components](https://developers.google.com/web/fundamentals/getting-started/primers/shadowdom) With Shadow DOM, you can bundle CSS with markup, hide implementation details, and author self-contained components in vanilla JavaScript.
 * [What's New in Shadow DOM v1 (by examples)](http://hayato.io/2016/shadowdomv1/) This document is an attempt to track the difference between Shadow DOM v0 and v1.
 * [Accessibility and the Shadow DOM](http://substantial.com/blog/2014/02/05/accessibility-and-the-shadow-dom) A lesson on rendering trees, emerging technologies and tacos
+* [Introducing Slot-Based Shadow DOM API](https://webkit.org/blog/4096/introducing-shadow-dom-api/) Version 1 of the Shadow DOM standard was shipped in Safari 10.0.
 
 ### Templates
 
@@ -87,7 +89,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 * [Exploring HTML Imports](http://robdodson.me/exploring-html-imports/) Web Components have come a long way in the past few months. HTML Imports allow you to load additional documents into your page without having to write a bunch of ajax. This is great for Custom Elements where you might want to import a suite of new tags.
 
 ### Frameworks
-
+* [Aurelia](http://aurelia.io/) - Aurelia is a JavaScript client framework for mobile, desktop and web leveraging simple conventions and empowering creativity. 
 * [Polymer vs Angular 2](http://mikaturunen.github.io/polymer-meetup-tampere-presentation/) Which one should I choose?
 * [Polymer vs. X-Tag](http://pascalprecht.github.io/2014/07/21/polymer-vs-x-tag-here-is-the-difference/) Polymer vs. X-Tag - Here's the difference
 * [Polymer vs Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/) Here’s the difference between Polymer and Angular
@@ -151,6 +153,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 * [Bosonic](http://bosonic.github.io/) Bosonic is a set of tools that enable you to build Web Components as the spec currently describes, and supporting not-so-modern browsers like IE9.
 * [Polymer Dart](https://www.dartlang.org/polymer/) Polymer.dart is a Dart port of Polymer. Build Web Components with Dart, and interoperate with Web Components built with JavaScript.
 * [Skate ★2218](https://github.com/skatejs/skatejs) Skate is a web component library that is focused on being a tiny, performant, syntactic-sugar for binding behaviour to custom and existing elements without ever having to worry about when your element is inserted into the DOM.
+* [Bit](https://www.bitsrc.io) Bit lets you easily [create reusable web components ★693](https://github.com/teambit/bit) from any context. You can store and organize your components together and still find, modify, test and use them individually in any application. 
 
 
 ## Screencasts

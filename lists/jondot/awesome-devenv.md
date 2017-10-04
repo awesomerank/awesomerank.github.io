@@ -7,11 +7,11 @@ title: Awesome Rank for jondot/awesome-devenv
 	This list is a copy of <a href="https://github.com/jondot/awesome-devenv">jondot/awesome-devenv</a> with ranks
 </p>
 ---
-# Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Dev Env [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome tools, resources and workflow tips making an awesome development environment.
 
-Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in turn inspired by [awesome-python ★37548](https://github.com/vinta/awesome-python).
+Inspired by [awesome-go](https://github.com/avelino/awesome-go), which was in turn inspired by [awesome-python ★39191](https://github.com/vinta/awesome-python).
 
 ### Contributing
 
@@ -68,7 +68,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [httperf](http://www.hpl.hp.com/research/linux/httperf/)
 * [phantomas ★2018](https://github.com/macbre/phantomas) - website perf evaluation tool
 * [siege](http://www.joedog.org/siege-home/)
-* [Vegeta ★6145](https://github.com/tsenart/vegeta)
+* [Vegeta ★6371](https://github.com/tsenart/vegeta)
 * [wrk ★13384](https://github.com/wg/wrk)
 * [redis-faina](https://github.com/Instagram/redis-faina) Instagram's Redis counter/timing stats based on the MONITOR command
 
@@ -76,13 +76,13 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Data
 *Tools for handling online and offline data*
 
-* [s3cmd ★2327](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
+* [s3cmd ★2372](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
 
 
 ## Diagnostics
 *Tools for checking diagnosing your system while you work*
 
-* [glances ★7808](https://github.com/nicolargo/glances)
+* [glances ★8039](https://github.com/nicolargo/glances)
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
 
 
@@ -92,7 +92,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [Alfred](http://www.alfredapp.com/) - OSX productivity app `/OSX/`
 * [hydra ★1](https://github.com/sdegutis/hydra) - script your desktop
   `/OSX/`
-* [Keycastr ★204](https://github.com/sdeken/keycastr) - show your keys while
+* [Keycastr ★204 ⏳1Y](https://github.com/sdeken/keycastr) - show your keys while
   presenting/casting `/OSX/`
 
 
@@ -156,7 +156,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [git-it-on ★43](https://github.com/peterhurford/git-it-on.zsh) - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch
 * [git-semver ★119](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 * [git-sweep ★1632](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
-* [git-up ★2734 ⏳1Y](https://github.com/aanand/git-up) - a better 'git pull'
+* [git-up ★2735](https://github.com/aanand/git-up) - a better 'git pull'
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
 * [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
@@ -170,15 +170,15 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for orchestrating awesome development environments*
 
 * [azk ★815](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
-* [Nanobox ★1003](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
+* [Nanobox ★1037](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ## Presentation
 *Tools for presenting your work*
 
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
-* [impress.js ★32079](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
+* [impress.js ★32264](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
 * [remark ★6644](https://github.com/gnab/remark) - markdown based presentation on your browser
-* [reveal.js ★35999](https://github.com/hakimel/reveal.js) - markdown based presentation on your browser
+* [reveal.js ★36507](https://github.com/hakimel/reveal.js) - markdown based presentation on your browser
 * [deck.js ★5189](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser
 * [vimdeck ★1075](https://github.com/tybenz/vimdeck) - present inside your Vim
 * [WebSlides](https://github.com/jlantunez/webslides) - Making HTML presentations easy
@@ -188,9 +188,9 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) and other [oh-my-zsh ★59063](https://github.com/robbyrussell/oh-my-zsh) compatible zsh frameworks
 * [fish-shell ★8134](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
-* [oh-my-fish ★2507](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh.
+* [oh-my-fish ★2618](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh.
 * [oh-my-zsh ★59063](https://github.com/robbyrussell/oh-my-zsh) - A community driven framework for managing zsh configuration.
-* [zgen ★777](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
+* [zgen ★787](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
 * [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
 * [shellcheck ★8791](https://github.com/koalaman/shellcheck) - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts
 * [zsh quickstart kit ★115](https://github.com/unixorn/zsh-quickstart-kit) - Quick intro for getting set up with zsh and zgen
@@ -201,7 +201,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [ack](https://github.com/petdance/ack2) - the Perl based
   better-than-grep tool.
 * [ag ★13221](https://github.com/ggreer/the_silver_searcher) - A C based code-searching tool similar to ack, but faster
-* [peco ★4030](https://github.com/peco/peco) - interactive filtering, like interactive Grep
+* [peco ★4105](https://github.com/peco/peco) - interactive filtering, like interactive Grep
 
 
 ## Terminal
@@ -227,7 +227,7 @@ to `/home/Users/yourself/projects`.
 * [fswatch](https://github.com/alandipert/fswatch) - a watch tool which
   will emit FS events and you can run commands on demand with. Note -
 `fswatch-run` too.
-* [guard ★5403](https://github.com/guard/guard) - FS watch tool with a huge ecosystem of plugins
+* [guard ★5430](https://github.com/guard/guard) - FS watch tool with a huge ecosystem of plugins
 * [LiveReload](http://livereload.com/) - FS watch and preprocessor as a desktop app for `/OSX/` and `/WIN/` with complementary browser extensions
   * [guard-livereload ★1921 ⏳1Y](https://github.com/guard/guard-livereload) - Guard plugin compatible with LiveReload's browser extensions
 * [watchman ★5844](https://github.com/facebook/watchman) - Facebook's better

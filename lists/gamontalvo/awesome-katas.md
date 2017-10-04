@@ -9,7 +9,7 @@ title: Awesome Rank for gamontalvo/awesome-katas
 ---
 ![banner](https://github.com/gmontalvoriv/katas/blob/master/images/kata_guruma.png)
 
-# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Katas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 > A curated list of code katas
 
 ## Table of Contents
@@ -48,7 +48,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Kata20: Klondike](http://codekata.com/kata/kata20-klondike/)
   - [Kata21: Simple Lists](http://codekata.com/kata/kata21-simple-lists/)
 
-## [Wonderland Clojure Katas ★522](https://github.com/gigasquid/wonderland-clojure-katas)
+## [Wonderland Clojure Katas ★536](https://github.com/gigasquid/wonderland-clojure-katas)
   - [Alphabet Cipher](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/alphabet-cipher)
   - [Card game War](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/card-game-war)
   - [Doublets](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/doublets)
@@ -64,22 +64,22 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Kata 4: (Form) File Upload](https://github.com/devdrops/Katas/tree/kata-upload-file)
   - [Kata 5: (Translation) Manage translations](https://github.com/devdrops/Katas/tree/kata-translation)
 
-## [Gaurav Arora's TDD Katas Collection ★510](https://github.com/garora/TDD-Katas)
-  - [String Sum Kata ★510](https://github.com/garora/TDD-Katas#string-sum-kata)
-  - [String Calculator Kata ★510](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
-  - [The Bowling Game Kata ★510](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
-  - [The FizzBuzz Kata ★510](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
-  - [The OddEven Kata ★510](https://github.com/garora/TDD-Katas#the-oddeven-kata)
-  - [The PrimeFactor Kata ★510](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
-  - [Game of Life ★510](https://github.com/garora/TDD-Katas#game-of-life-)
-  - [Harry Potter ★510](https://github.com/garora/TDD-Katas#harry-potter-)
-  - [LCD Digits ★510](https://github.com/garora/TDD-Katas#lcd-digits-)
-  - [Leap Year ★510](https://github.com/garora/TDD-Katas#leap-year-)
-  - [Mine Fields ★510](https://github.com/garora/TDD-Katas#mine-fields-)
-  - [Poker Hands ★510](https://github.com/garora/TDD-Katas#poker-hands)
-  - [Recently Used List ★510](https://github.com/garora/TDD-Katas#recently-used-list-)
-  - [Reversi ★510](https://github.com/garora/TDD-Katas#reversi-)
-  - [Yehtzee ★510](https://github.com/garora/TDD-Katas#yehtzee-)
+## [Gaurav Arora's TDD Katas Collection ★512](https://github.com/garora/TDD-Katas)
+  - [String Sum Kata ★512](https://github.com/garora/TDD-Katas#string-sum-kata)
+  - [String Calculator Kata ★512](https://github.com/garora/TDD-Katas#string-calculator-kata-via-roy-osherove)
+  - [The Bowling Game Kata ★512](https://github.com/garora/TDD-Katas#the-bowling-game-kata-via-uncle-bob)
+  - [The FizzBuzz Kata ★512](https://github.com/garora/TDD-Katas#the-fizzbuzz-kata)
+  - [The OddEven Kata ★512](https://github.com/garora/TDD-Katas#the-oddeven-kata)
+  - [The PrimeFactor Kata ★512](https://github.com/garora/TDD-Katas#the-primefactor-kata-via-uncle-bob)
+  - [Game of Life ★512](https://github.com/garora/TDD-Katas#game-of-life-)
+  - [Harry Potter ★512](https://github.com/garora/TDD-Katas#harry-potter-)
+  - [LCD Digits ★512](https://github.com/garora/TDD-Katas#lcd-digits-)
+  - [Leap Year ★512](https://github.com/garora/TDD-Katas#leap-year-)
+  - [Mine Fields ★512](https://github.com/garora/TDD-Katas#mine-fields-)
+  - [Poker Hands ★512](https://github.com/garora/TDD-Katas#poker-hands)
+  - [Recently Used List ★512](https://github.com/garora/TDD-Katas#recently-used-list-)
+  - [Reversi ★512](https://github.com/garora/TDD-Katas#reversi-)
+  - [Yehtzee ★512](https://github.com/garora/TDD-Katas#yehtzee-)
   - [The Word Wrap Kata](http://codingdojo.org/cgi-bin/wiki.pl?KataWordWrap)
 
 ## Others

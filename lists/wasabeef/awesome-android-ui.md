@@ -143,7 +143,7 @@ Name | License | Demo
 [FlabbyListView ★719 ⏳3Y](https://github.com/jpardogo/FlabbyListView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlabbyListView.gif" width="49%"> <img src="/art/FlabbyListView2.gif" width="49%">
 [recyclerview-stickyheaders ★967 ⏳1Y](https://github.com/eowise/recyclerview-stickyheaders) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/recyclerview-stickyheaders.gif" width="49%">
 [ParallaxListView ★669 ⏳1Y](https://github.com/Gnod/ParallaxListView) | UnKnown | <img src="/art/ParallaxListView.gif" width="49%">
-[PullZoomView ★2030 ⏳1Y](https://github.com/Frank-Zhu/PullZoomView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PullZoomView.gif" width="49%">
+[PullZoomView ★2030 ⏳2Y](https://github.com/Frank-Zhu/PullZoomView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PullZoomView.gif" width="49%">
 [SwipeMenuListView ★3071](https://github.com/baoyongzhang/SwipeMenuListView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/SwipeMenuListView.gif" width="49%">
 [discrollview ★1331](https://github.com/flavienlaurent/discrollview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/discrollview.gif" width="49%">
 [StickyListHeaders ★5013](https://github.com/emilsjolander/StickyListHeaders) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StickyListHeaders.gif" width="49%">
@@ -253,7 +253,7 @@ Name | License | Demo
 [GoogleProgressBar ★1157 ⏳2Y](https://github.com/jpardogo/GoogleProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/GoogleProgressBar.gif" width="32%"> <img src="/art/GoogleProgressBar2.gif" width="32%"> <img src="/art/GoogleProgressBar3.gif" width="32%">
 [Android-RoundCornerProgressBar ★1330](https://github.com/akexorcist/Android-RoundCornerProgressBar) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Android-RoundCornerProgressBar.png" width="100%"> <img src="/art/Android-RoundCornerProgressBar2.png" width="100%">
 [ElasticDownload ★1473 ⏳1Y](https://github.com/Tibolte/ElasticDownload) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ElasticDownload.gif" width="49%"> <img src="/art/ElasticDownload2.gif" width="49%">
-[FABProgressCircle ★992](https://github.com/JorgeCastilloPrz/FABProgressCircle) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FABProgressCircle.gif" width="49%">
+[FABProgressCircle ★992 ⏳1Y](https://github.com/JorgeCastilloPrz/FABProgressCircle) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FABProgressCircle.gif" width="49%">
 [Loading ★955](https://github.com/yankai-victor/Loading) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Loading.gif" width="49%"> <img src="/art/Loading2.gif" width="49%"> <img src="/art/Loading3.gif" width="49%">
 [Animated Circle Loading View ★966](https://github.com/jlmd/AnimatedCircleLoadingView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AnimatedCircleLoadingView.gif" width="49%">
 [AndroidFillableLoaders ★1641 ⏳1Y](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/AndroidFillableLoaders.gif" width="49%"> <img src="/art/AndroidFillableLoaders2.gif" width="49%">
@@ -316,7 +316,7 @@ Name | License | Demo
 [EazeGraph ★1271](https://github.com/blackfizz/EazeGraph) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/EazeGraph.png" width="49%"> <img src="/art/EazeGraph2.png" width="49%"> <img src="/art/EazeGraph3.png" width="49%"> <img src="/art/EazeGraph4.png" width="49%">
 [GraphView](https://github.com/jjoe64/GraphView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/graphview-zooming.gif" width="65%"> <img src="/art/graphview-anim.gif" width="65%">
 [hellocharts-android ★4852](https://github.com/lecho/hellocharts-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/hellocharts-android.gif" width="49%"> <img src="/art/hellocharts-android2.png" width="49%"> <img src="/art/hellocharts-android3.png" width="49%">
-[MPAndroidChart ★17562](https://github.com/PhilJay/MPAndroidChart) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/MPAndroidChart.png" width="49%"> <img src="/art/MPAndroidChart2.png" width="49%"> <img src="/art/MPAndroidChart3.png" width="49%"> <img src="/art/MPAndroidChart4.png" width="49%">
+[MPAndroidChart ★18167](https://github.com/PhilJay/MPAndroidChart) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/MPAndroidChart.png" width="49%"> <img src="/art/MPAndroidChart2.png" width="49%"> <img src="/art/MPAndroidChart3.png" width="49%"> <img src="/art/MPAndroidChart4.png" width="49%">
 [WilliamChart ★3417](https://github.com/diogobernardino/WilliamChart) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/williamchart_line.png" width="65%"> <img src="/art/williamchart_bar.png" width="65%">
 
 Animation

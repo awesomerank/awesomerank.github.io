@@ -7,10 +7,10 @@ title: Awesome Rank for diasdavid/awesome-hacking-spots
 	This list is a copy of <a href="https://github.com/diasdavid/awesome-hacking-spots">diasdavid/awesome-hacking-spots</a> with ranks
 </p>
 ---
-Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 ===============================
 
-> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★63835](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★65640](https://github.com/sindresorhus/awesome) thing.
 
 ## Index
 
@@ -118,9 +118,9 @@ A place where you would go and take your friends to go hacking with, power and w
 
 Webpage: PLACE WEBPAGE (IF NOT AVAILABLE, USE FOURSQUARE SHORT URL)
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✘ | [ADDRESS](GOOGLE MAPS SHORT URL) | OPEN HOURS
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✘ | ❄️/♨️ | [ADDRESS](GOOGLE MAPS SHORT URL) | OPEN HOURS
 ```
 
 ## Hackerspaces
@@ -869,11 +869,11 @@ Wifi | Power | Address | Open Hours
 
 Webpage: http://tartine.pt/
 
-Wifi | Power | Address | Open Hours
----- | ----- | ------- | ----------
-✔ | ✔ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
+Wifi | Power | Climatization | Address | Open Hours
+---- | ----- | ------------- | ------- | ----------
+✔ | ✔ | ❄️/♨️ | [R. Serpa Pinto 15A, 1200-026 Lisboa](https://goo.gl/maps/NNnXK6LkzFJ2) |
 
-![](http://www.speedtest.net/result/5118860858.png)
+![](http://beta.speedtest.net/result/6628785269.png)
 
 #### Velocité Cafe
 

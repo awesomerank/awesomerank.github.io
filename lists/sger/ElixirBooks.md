@@ -7,7 +7,7 @@ title: Awesome Rank for sger/ElixirBooks
 	This list is a copy of <a href="https://github.com/sger/ElixirBooks">sger/ElixirBooks</a> with ranks
 </p>
 ---
-# Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Elixir Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 Contents
 ====
 * [Books](#books)
@@ -175,7 +175,7 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)
-* [Awesome Elixir ★6874](https://github.com/h4cc/awesome-elixir)
+* [Awesome Elixir ★7112](https://github.com/h4cc/awesome-elixir)
 * [Discover Elixir & Phoenix](https://www.ludu.co/course/discover-elixir-phoenix)
 * [Elixir School](http://elixirschool.com/)
 * [Elixir for Programmers](https://codestool.coding-gnome.com/courses/elixir-for-programmers)

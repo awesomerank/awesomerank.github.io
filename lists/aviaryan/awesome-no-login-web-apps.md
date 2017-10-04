@@ -9,7 +9,7 @@ title: Awesome Rank for aviaryan/awesome-no-login-web-apps
 ---
 # Awesome Web Apps (that work without login)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 [![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/CONTRIBUTING.md)
 [![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -166,6 +166,7 @@ To save the world from creating user accounts and installing software applicatio
 * [Burner Bonanza](https://burner.bonanza.com/) `[Account]` - Tool to remove the background of an image and instantly share on Facebook or Twitter, login to download the edited image as PNG or JPEG.
 * [BG patterns](http://bgpatterns.com/) - Pattern creator tool that allows you to choose from a variety of shapes and then customize size, rotation, placement, color, texture, and more.
 * [IcoMoon](https://icomoon.io/app/) - A platform that helps you in finding vector icon packs, hosting icons as SVGs or fonts and to generate SVG + PNG + icon fonts of selected icons.
+* [Flaming Text](http://flamingtext.com/) - An online logo or name generator/creator, modify your logo according to your wish and get in many formats including PNG and JPEG.
 
 
 ### Internet Downloaders
@@ -192,7 +193,7 @@ To save the world from creating user accounts and installing software applicatio
 * [MusicPleer](http://musicpleer.audio/) - Stream or download your favorite songs without any hassle.
 * [Anime Openings](http://openings.moe/) - Free anime radio, listen or download anime opening and ending videos.
 * [NoteFlight](https://www.noteflight.com/login) `[Account]` - Print music sheets, write your own music online (review).
-* [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port ★4](https://github.com/Anshuman-Verma/ongaku-desktop).
+* [ongaku](https://ongaku.js.org/) - Online anime music radio, with [desktop port](https://github.com/Anshuman-Verma/ongaku-desktop).
 
 
 ### Notepads and Notebooks

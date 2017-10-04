@@ -7,7 +7,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 	This list is a copy of <a href="https://github.com/felipebueno/awesome-PICO-8">felipebueno/awesome-PICO-8</a> with ranks
 </p>
 ---
-# Awesome PICO-8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome PICO-8 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 
 ![PICO-8](http://www.lexaloffle.com/gfx/p8_jelpi.gif)

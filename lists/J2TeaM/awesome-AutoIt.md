@@ -9,14 +9,14 @@ title: Awesome Rank for J2TeaM/awesome-AutoIt
 ---
 # Awesome AutoIt
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/J2TeaM/awesome-AutoIt.svg)](https://travis-ci.org/J2TeaM/awesome-AutoIt)
 [![Creator](https://img.shields.io/badge/Creator-Juno__okyo-blue.svg)](https://junookyo.blogspot.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/juno_okyo.svg?label=Follow&maxAge=2592000)](https://twitter.com/juno_okyo)
 
 > A curated list of awesome UDFs, example scripts, tools and useful resources for [AutoIt](https://www.autoitscript.com/).
 
-Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list thing.
+Created by [Juno_okyo](https://twitter.com/juno_okyo). Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table Of Contents
 
@@ -450,15 +450,15 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Other Awesome Lists
 
-- [awesome ★63835](https://github.com/sindresorhus/awesome) by @sindresorhus
+- [awesome ★65640](https://github.com/sindresorhus/awesome) by @sindresorhus
 - [awesome-all ★93](https://github.com/bradoyler/awesome-all) by @bradoyler
-- [awesome-awesome ★871](https://github.com/emijrp/awesome-awesome) by @emijrp
+- [awesome-awesome ★896](https://github.com/emijrp/awesome-awesome) by @emijrp
 - [awesome-awesome ★124](https://github.com/erichs/awesome-awesome) by @erichs
 - [awesome-awesome ★61](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
 - [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) by @bayandin
-- [awesome-awesomes ★479](https://github.com/fleveque/awesome-awesomes) by @fleveque
+- [awesome-awesomes ★476](https://github.com/fleveque/awesome-awesomes) by @fleveque
 - [awesome-collection ★98](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
-- [lists ★4428](https://github.com/jnv/lists) by @jnv
+- [lists ★4466](https://github.com/jnv/lists) by @jnv
 
 [[Back to Top](#awesome-autoit)]
 ---

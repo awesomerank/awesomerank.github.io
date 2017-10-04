@@ -7,19 +7,19 @@ title: Awesome Rank for addyosmani/es6-tools
 	This list is a copy of <a href="https://github.com/addyosmani/es6-tools">addyosmani/es6-tools</a> with ranks
 </p>
 ---
-# <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# <img src="http://i.imgur.com/yy1sACZ.png" width="100px"/> ECMAScript 6 Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 ## Transpilers
 
-* [Babel ★22144](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime
-* [Traceur compiler ★7381 ⏳1Y](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
+* [Babel ★22528](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime
+* [Traceur compiler ★7422 ⏳1Y](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [es6ify ★606](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * [babelify ★1435](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
 * [es6-transpiler ★221 ⏳2Y](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
 * Square's [es6-module-transpiler ★1230 ⏳1Y](https://github.com/esnext/es6-module-transpiler) - ES6 modules to AMD or CJS
 * Facebook's [regenerator ★2041](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
 * Facebook's [jstransform ★449 ⏳1Y](https://github.com/facebookarchive/jstransform) - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
-* [defs ★118 ⏳1Y](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
+* [defs ★118 ⏳2Y](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
 * [es6_module_transpiler-rails ★87 ⏳2Y](https://github.com/DavyJonesLocker/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
 * [Some Sweet.js macros ★226 ⏳3Y](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 * Bitovi's [transpile ★19](https://github.com/stealjs/transpile) - Converts ES6 to AMD, CJS, and StealJS.
@@ -93,7 +93,7 @@ title: Awesome Rank for addyosmani/es6-tools
 
 ## Sprockets plugins
 * Babel: [sprockets-es6](https://github.com/josh/sprockets-es6)
-* Traceur: [sprockets-traceur ★25 ⏳1Y](https://github.com/gunpowderlabs/sprockets-traceur)
+* Traceur: [sprockets-traceur ★25 ⏳2Y](https://github.com/gunpowderlabs/sprockets-traceur)
 * TypeScript: [typescript-rails ★213](https://github.com/typescript-ruby/typescript-rails)
 
 ## Browser plugins
@@ -126,10 +126,10 @@ title: Awesome Rank for addyosmani/es6-tools
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel ★22144](https://github.com/babel/babel).
-* [es6-shim ★2302](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
+* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel ★22528](https://github.com/babel/babel).
+* [es6-shim ★2329](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
-* Polymer's [WeakMap shim ★41 ⏳2Y](https://github.com/Polymer/WeakMap)
+* Polymer's [WeakMap shim ★41 ⏳3Y](https://github.com/Polymer/WeakMap)
 * [`String.prototype.startsWith` ★78](https://github.com/mathiasbynens/String.prototype.startsWith)
 * [`String.prototype.endsWith` ★22 ⏳2Y](https://github.com/mathiasbynens/String.prototype.endsWith)
 * [`String.prototype.at` ★36 ⏳3Y](https://github.com/mathiasbynens/String.prototype.at)
@@ -142,17 +142,17 @@ title: Awesome Rank for addyosmani/es6-tools
 * [`Array.from` ★48](https://github.com/mathiasbynens/Array.from)
 * [`Array.of` ★11 ⏳1Y](https://github.com/mathiasbynens/Array.of)
 * [`Object.assign` ★672](https://github.com/sindresorhus/object-assign)
-* [`Number.isFinite` ★7](https://github.com/sindresorhus/is-finite)
-* [`Math.sign` ★6](https://github.com/sindresorhus/math-sign)
+* [`Number.isFinite` ★7 ⏳1Y](https://github.com/sindresorhus/is-finite)
+* [`Math.sign` ★6 ⏳1Y](https://github.com/sindresorhus/math-sign)
 * [`RegExp.prototype.match` ★8 ⏳3Y](https://github.com/mathiasbynens/RegExp.prototype.match)
 * [`RegExp.prototype.search` ★5 ⏳3Y](https://github.com/mathiasbynens/RegExp.prototype.search)
 * [es6-promise](https://github.com/jakearchibald/es6-promise) - polyfill for Promises matching the ES6 API
-* [ES6 Map Shim ★20 ⏳2Y](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
+* [ES6 Map Shim ★20 ⏳3Y](https://github.com/eriwen/es6-map-shim) - destructive shim that follows the latest specification as closely as possible.
 * [`Function.create` ★8 ⏳4Y](https://github.com/walling/Function.create.js)
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md)
 * [ES6 Symbol polyfill ★97](https://github.com/medikoo/es6-symbol)
 * [ES6 Map, Set, WeakMap ★4 ⏳1Y](https://github.com/EliSnow/Blitz-Collections)
-* [harmony-reflect ★342](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
+* [harmony-reflect ★344](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
 * [ES5 based shims in pure CJS style](https://gist.github.com/medikoo/102b7d0e697627133788#list-of-ecmascript-6-shims) -  Array, Object, Number, Math and String functions/methods, plus Map, Set, Symbol and WeakMap objects
 
 ## Editors
@@ -166,14 +166,14 @@ title: Awesome Rank for addyosmani/es6-tools
 ## Parsers
 
 * [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format ★1281](https://github.com/estree/estree)
-* [Acorn ★2695](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
+* [Acorn ★2769](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
 * [esparse ★99](https://github.com/zenparsing/esparse) - ES6 parser written in ES6.
-* [Traceur compiler ★7381 ⏳1Y](https://github.com/google/traceur-compiler) also has built-in parser available under `traceur.syntax.Parser`.
+* [Traceur compiler ★7422 ⏳1Y](https://github.com/google/traceur-compiler) also has built-in parser available under `traceur.syntax.Parser`.
 
 ## Other
 
 * [ES.next showcase ★311](https://github.com/sindresorhus/esnext-showcase) - real-world usage examples of ES6 features
-* [looper ★16 ⏳3Y](https://github.com/wycats/looper) - static analysis tools for ES6
+* [looper ★16 ⏳4Y](https://github.com/wycats/looper) - static analysis tools for ES6
 * [es6-module-packager](https://www.npmjs.com/package/es6-module-packager)
 * [es-dependency-graph](https://github.com/yahoo/es-dependency-graph) and [grunt-es-dependency-graph ★3 ⏳3Y](https://github.com/yahoo/grunt-es-dependency-graph) - Generate a list of imports and exports from ES6 module files, useful for preloading, bundling, etc.
 * [es6-import-validate](https://github.com/sproutsocial/es6-import-validate) and [grunt-es6-import-validate ★3 ⏳1Y](https://github.com/sproutsocial/grunt-es6-import-validate) - validate matching named/default import statements in ES6 modules.

@@ -7,7 +7,7 @@ title: Awesome Rank for kdeldycke/awesome-falsehood
 	This list is a copy of <a href="https://github.com/kdeldycke/awesome-falsehood">kdeldycke/awesome-falsehood</a> with ranks
 </p>
 ---
-# Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
+# Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
 
 A curated list of awesome falsehoods programmers believe in.
 
@@ -18,6 +18,7 @@ A curated list of awesome falsehoods programmers believe in.
 ## Contents
 
 - [Foreword](#foreword)
+---
 - [Meta](#meta)
 - [Arts](#arts)
 - [Business](#business)
@@ -25,14 +26,16 @@ A curated list of awesome falsehoods programmers believe in.
 - [Emails](#emails)
 - [Geography](#geography)
 - [Human Identity](#human-identity)
+- [Internationalization](#internationalization)
 - [Multimedia](#multimedia)
 - [Networks](#networks)
 - [Phone Numbers](#phone-numbers)
 - [Postal Addresses](#postal-addresses)
 - [Science](#science)
 - [Society](#society)
-- [Internationalization](#internationalization)
 - [Software Engineering](#software-engineering)
+- [Typography](#typography)
+---
 - [Contributing](#contributing)
 - [Good Candidates](#good-candidates)
     - [*Falsehood* Articles](#falsehood-articles)
@@ -96,7 +99,7 @@ Economics are not simple or rational.
 definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
 Currency validity date ranges overlap due to revolts, invasions, new
 constitutions, and slow planned adoption.
-- [`tax` ★188](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
+- [`tax` ★190](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
 library.
 
 
@@ -129,7 +132,11 @@ not work. This article tells you why.
 timezones may sound like a good idea, but there are quite a few complications
 that make it not quite so.
 - [The Problem with Time & Timezones](https://www.youtube.com/watch?v=-5wpm-gesOY) -
-A video about why you should never, ever deal with timezones if you can help it.
+A video about why you should never, ever deal with timezones if you can help
+it.
+- [$26,000 Overcollection by Labor
+Department](http://digital.vpr.net/post/rounding-error-computer-code-leads-26000-overcollection-labor-department) -
+The consequence of wrong calendar accounting.
 
 
 ## Emails
@@ -182,6 +189,19 @@ A flexible data model for representing human names.
 Localized representations of the components of a person’s name.
 
 
+## Internationalization
+
+- [Falsehoods About
+Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language/) -
+Translating a software from English is not as straightforward as it seems to
+be.
+- [i18n Testing Data ★26 ⏳1Y](https://github.com/patch/i18n-testing) - Real-word
+international and diverse name data for unit testing and QA.
+- [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
+A video about things you need to keep in mind when internationalizing your
+code.
+
+
 ## Multimedia
 
 - [Falsehoods About
@@ -205,13 +225,13 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber` ★5563](https://github.com/googlei18n/libphonenumber) - Google's
+- [`libphonenumber` ★5796](https://github.com/googlei18n/libphonenumber) - Google's
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
-[C# ★166 ⏳1Y](https://github.com/erezak/libphonenumber-csharp),
-[Objective-C ★1679](https://github.com/iziz/libPhoneNumber-iOS),
-[Python ★1586](https://github.com/daviddrysdale/python-phonenumbers),
-[Ruby ★515](https://github.com/sstephenson/global_phone) and
+[C# ★170](https://github.com/erezak/libphonenumber-csharp),
+[Objective-C ★1698](https://github.com/iziz/libPhoneNumber-iOS),
+[Python ★1631](https://github.com/daviddrysdale/python-phonenumbers),
+[Ruby ★518](https://github.com/sstephenson/global_phone) and
 [PHP ★1957](https://github.com/giggsey/libphonenumber-for-php).
 
 
@@ -223,12 +243,12 @@ Covers streets, postal codes, buildings, cities and countries.
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
-- [`libaddressinput` ★256](https://github.com/googlei18n/libaddressinput) - Google's
+- [`libaddressinput` ★276](https://github.com/googlei18n/libaddressinput) - Google's
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
-- [`addressing` ★504](https://github.com/commerceguys/addressing) - A PHP 5.4+
+- [`addressing` ★519](https://github.com/commerceguys/addressing) - A PHP 5.4+
 addressing library, powered by Google's dataset.
-- [`postal-address` ★59](https://github.com/scaleway/postal-address) - Python
+- [`postal-address` ★61](https://github.com/scaleway/postal-address) - Python
 module to parse, normalize and render postal addresses.
 
 
@@ -247,14 +267,6 @@ Designing election systems has its own tricks.
 - [Falsehoods About Women In
 Tech](https://gist.github.com/Su-Shee/5d1a417fa9de19c15477) - Myth about women
 in STEM (Science, Technology, Engineering, Math) industries.
-
-
-## Internationalization
-
-- [i18n Testing Data ★23 ⏳1Y](https://github.com/patch/i18n-testing) - Real-word
-international and diverse name data for unit testing and QA.
-- [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
-A video about things you need to keep in mind when internationalizing your code.
 
 
 ## Software Engineering
@@ -281,6 +293,12 @@ Covers package and their managers.
 - [Big List of Naughty
 Strings](https://github.com/minimaxir/big-list-of-naughty-strings) - Challenge
 your assumptions about strings.
+
+
+## Typography
+
+- [Falsehoods About Fonts ★55](https://github.com/RoelN/Font-Falsehoods) -
+Assumptions about typography on the web and in desktop applications.
 
 
 ## Contributing

@@ -15,7 +15,7 @@ title: Awesome Rank for jonathandion/awesome-emails
 	<br>
 </h1>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome frameworks, templates, tools, workflows and many more to build better emails.
 
@@ -43,7 +43,7 @@ title: Awesome Rank for jonathandion/awesome-emails
 - [Mailchimp Email Blueprints ★6173](https://github.com/mailchimp/Email-Blueprints) - Email Blueprints is a collection of HTML email templates that can serve as a solid foundation and starting point for the design of emails.
 - [Campaign Monitor Templates](https://www.campaignmonitor.com/email-templates/) - Easily create beautiful, branded email marketing campaigns.
 - [Responsive Transactional HTML Email Templates ★5539 ⏳1Y](https://github.com/mailgun/transactional-email-templates) (Each template is responsive and each has been tested in all the popular email clients.)
-- [Cerberus ★2394](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
+- [Cerberus ★2446](https://github.com/TedGoas/Cerberus) - Few responsive email patterns.
 - [Antwort ★3243](https://github.com/internations/antwort) - Antwort offers responsive layouts for Email that both fits and adapts to client widths.
 - [Responsive HTML Template ★523](https://github.com/charlesmudy/responsive-html-email-template) - This template is designed to work on all major email platforms and it is built with media query, making it responsive for smartphones that supports media query.
 - [Free Responsive template : Slate](https://litmus.com/resources/free-responsive-email-templates/) - Five pre-tested templates that work with any mailing service

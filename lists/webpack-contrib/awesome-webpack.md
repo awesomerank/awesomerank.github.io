@@ -12,15 +12,15 @@ title: Awesome Rank for webpack-contrib/awesome-webpack
 	<br>
 </h3>
 
-**[webpack ★31156](https://github.com/webpack/webpack)** is a **module bundler**.
+**[webpack ★31962](https://github.com/webpack/webpack)** is a **module bundler**.
 
 webpack takes modules with dependencies and generates static assets representing those modules.
 <br>
-## Awesome Webpack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/webpack-contrib/awesome-webpack.svg?branch=master)](https://travis-ci.org/webpack-contrib/awesome-webpack)
+## Awesome Webpack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/webpack-contrib/awesome-webpack.svg?branch=master)](https://travis-ci.org/webpack-contrib/awesome-webpack)
 
 > A curated list of awesome Webpack resources, libraries, tools and applications
 
-Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/webpack-contrib/awesome-webpack/blob/master/contributing.md)!
+Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/webpack-contrib/awesome-webpack/blob/master/contributing.md)!
 <!--lint disable list-item-indent-->
 
 ### Contents
@@ -77,7 +77,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 
 *People passionate about Webpack (In no particular order)*
 
-- [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn) UX for [Mutual of Omaha](https://github.com/mutualofomaha). Developer Advocate and webpack core team member.
+- [Sean T. Larkin - @TheLarkInn](https://twitter.com/TheLarkInn) TPM at [Microsoft](https://twitter.com/MSEdgeDev). Developer Advocate and webpack core team member.
 - [Juho Vepsäläinen - @bebraw](https://twitter.com/bebraw) from [SurviveJS](https://twitter.com/survivejs) and webpack core team member.
 - [Eric Clemmons - @ericclemmons](https://twitter.com/ericclemmons) VP of Software Development at [HigherEdHQ](https://twitter.com/HigherEdHQ). Webpack member.
 - [Patrick Stapleton - @gdi2290](https://twitter.com/gdi2290) from [AngularClass](https://angularclass.com), [AngularAir](https://angularair.com) and [Angular Universal ★2461](https://github.com/angular/universal). Webpack member.
@@ -207,7 +207,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 - [NPM Install Webpack](https://github.com/ericclemmons/npm-install-webpack-plugin) - Automatically install & save deps with Webpack.  -- *Maintainer*: `Eric Clemmons` [![Github][githubicon]](https://github.com/ericclemmons) [![Twitter][twittericon]](https://twitter.com/ericclemmons)
 - [Webpack Validator ★297](https://github.com/js-dxtools/webpack-validator) - Validates your webpack config with Joi.  -- *Maintainer*: `js-dxtools Team` [![Github][githubicon]](https://github.com/js-dxtools)
 - [Webpack Config Utils ★162](https://github.com/kentcdodds/webpack-config-utils) - Util. to make your webpack config easier to read.  -- *Maintainer*: `Kent C. Dodds` [![Github][githubicon]](https://github.com/kentcdodds) [![Twitter][twittericon]](https://twitter.com/kentcdodds)
-- [Angular2 Webpack Toolkit ★17](https://github.com/AngularClass/webpack-toolkit) - Webpack tools and helpers for Angular 2.  -- *Maintainer*: `AngularClass` [![Github][githubicon]](https://github.com/AngularClass) [![Twitter][twittericon]](https://twitter.com/AngularClass)
+- [Angular2 Webpack Toolkit ★17 ⏳1Y](https://github.com/AngularClass/webpack-toolkit) - Webpack tools and helpers for Angular 2.  -- *Maintainer*: `AngularClass` [![Github][githubicon]](https://github.com/AngularClass) [![Twitter][twittericon]](https://twitter.com/AngularClass)
 - [Webpack Bundle Analyzer ★3919](https://github.com/th0r/webpack-bundle-analyzer) - Represents bundles as an interactive treemap.  -- *Maintainer*: `Yuriy Grunin` [![Github][githubicon]](https://github.com/th0r) [![Twitter][twittericon]](https://twitter.com/grunin_ya)
 - [HJS Webpack ★1809](https://github.com/HenrikJoreteg/hjs-webpack): Helpers/presets for setting up webpack with hotloading. -- *Maintainer*: `Henrik Joreteg` [![Github][githubicon]](https://github.com/HenrikJoreteg)
 - [Webpack Dashboard ★9744](https://github.com/FormidableLabs/webpack-dashboard): A CLI dashboard for webpack dev server. -- *Maintainer*: `Formidable Labs` [![Github][githubicon]](https://github.com/FormidableLabs)
@@ -301,7 +301,7 @@ Inspired by the [awesome ★63835](https://github.com/sindresorhus/awesome) list
 ### Other
 
 - [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com) podcast
-- [Webpack interview questions ★0](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
+- [Webpack interview questions ★35](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
 
 [Back to top](#table-of-contents)
 

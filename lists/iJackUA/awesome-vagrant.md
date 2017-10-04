@@ -8,7 +8,7 @@ title: Awesome Rank for iJackUA/awesome-vagrant
 </p>
 ---
 # Awesome Vagrant
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iJackUA/awesome-vagrant?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![Build Status](https://api.travis-ci.org/iJackUA/awesome-vagrant.svg?branch=master)](https://travis-ci.org/iJackUA/awesome-vagrant)
 
 A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.
 
@@ -16,7 +16,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 ## Official resources
 
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
-* [GitHub repo ★15109](https://github.com/mitchellh/vagrant) - source code, issues discussion and collaboration.
+* [GitHub repo ★15399](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration.
 
 
 ## Boxes
@@ -24,7 +24,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 *Where to find OS boxes ?*
 
 * [Vagrantbox.es](http://www.vagrantbox.es/) - the biggest list of all available boxes, maintained by community via GitHub pull requests.
-* [Vagrant Cloud](https://atlas.hashicorp.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
+* [Vagrant Cloud](https://app.vagrantup.com/boxes/search) - config share, boxes distribution and discovery (also premium features of private collaboration and sharing).
 * [Cloud Images Ubuntu.com](https://cloud-images.ubuntu.com/vagrant/) - "clean" official Ubuntu cloud images.
 * [Baseboxes from Opscode ★2536](https://github.com/chef/bento#current-baseboxes) - CentOS, Fedora, Debian, FreeBSD, Ubuntu.
 * [Puppet Labs Vagrant Boxes](http://puppet-vagrant-boxes.puppetlabs.com/) - these boxes are provided to be used by various Puppet projects.
@@ -40,14 +40,15 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 
 *You can install these modules by this command `vagrant plugin install MODULE-NAME`*
 
-* [List of available Vagrant plugins from GitHub wiki](https://github.com/mitchellh/vagrant/wiki/Available-Vagrant-Plugins).
+* [List of available Vagrant plugins from GitHub wiki](https://github.com/hashicorp/vagrant/wiki/Available-Vagrant-Plugins).
 * [vagrant-vbguest ★2204](https://github.com/dotless-de/vagrant-vbguest) - autoupdate VirtualBox guest additions (according to VB version).
 * [vagrant-hostsupdater ★949](https://github.com/cogitatio/vagrant-hostsupdater) - adds an entry to your /etc/hosts file on the host system.
 * [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier/) - share a common package (apt-get, npm, etc.) cache among similar VM instances.
 * [vagrant-host-shell ★104](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots.
 * [vagrant-ansible-local ★62 ⏳2Y](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
 * [sahara ★703 ⏳1Y](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
-
+* [vagrant-registration ★31](https://github.com/projectatomic/adb-vagrant-registration) - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux).
+* [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB) ★77](https://github.com/projectatomic/adb-atomic-developer-bundle).
 
 ## Helpers / Tools
 
@@ -89,7 +90,7 @@ for any IP address.
 
 ## Books
 
-* [Vagrant: Up and Running](https://www.amazon.com/Vagrant-Up-Running-Mitchell-Hashimoto/dp/1449335837) by Mitchell Hashimoto.
+* [Vagrant: Up and Running](https://www.amazon.com/Vagrant-Running-Virtualized-Development-Environments/dp/1449335837) by Mitchell Hashimoto.
 * [Vagrant CookBook](https://leanpub.com/vagrantcookbook) by Erika Heidi.
 
 ## Popular readymade environments

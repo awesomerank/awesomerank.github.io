@@ -7,7 +7,7 @@ title: Awesome Rank for angrykoala/awesome-esolangs
 	This list is a copy of <a href="https://github.com/angrykoala/awesome-esolangs">angrykoala/awesome-esolangs</a> with ranks
 </p>
 ---
-# Awesome Esolangs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Esolangs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 <img src="logo_piet.png" align="right">
 
@@ -30,18 +30,18 @@ Curated list of awesome esoteric programming languages and resources.
 * [Brainfuck](https://esolangs.org/wiki/Brainfuck) - Minimalist language using only 8 single-character commands.
 * [Chef](http://www.dangermouse.net/esoteric/chef.html) - Programs that look like cooking recipes.
 * [Chicken](http://torso.me/chicken) - Only 1 valid symbol: 'chicken'.
-* [ChuckScript ★16 ⏳1Y](https://github.com/angrykoala/chuckscript) - Unary-based language, where the code is a single number.
+* [ChuckScript ★18 ⏳1Y](https://github.com/angrykoala/chuckscript) - Unary-based language, where the code is a single number.
 * [DNA#](https://esolangs.org/wiki/DNA-Sharp) - Language based on the structure of the DNA.
 * [Dots ★2 ⏳1Y](https://github.com/josconno/dots) - A turing-complete language with only one symbol: ".".
 * [False](http://strlen.com/false-language) - Heavily offuscated language with a minimal implementation.
-* [JSFuck ★2850](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript.
+* [JSFuck ★3021](https://github.com/aemkei/jsfuck) - Esoteric programming style based on the atomic parts of JavaScript.
 * [LolCode](http://lolcode.org) - Language with keywords based on the lolcat meme expressions.
 * [Malbolge](http://www.lscheffer.com/malbolge.shtml) - Named after the 8th level of hell, is designed to be as difficult as possible to program.
 * [Ook!](http://www.dangermouse.net/esoteric/ook.html) - Brainfuck-based language, where the commands are orangutan words.
 * [reMorse](http://esolangs.org/wiki/reMorse) - Morse-styled language.
 * [Piet](http://www.dangermouse.net/esoteric/piet.html) -  Language in which programs look like abstract paintings using colors as code. Named after Piet Mondrian.
 * [Shakespeare](http://shakespearelang.sourceforge.net) - Language where the code appear to be Shakespearean plays.
-* [Suzy ★2 ⏳7Y](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
+* [Suzy ★2 ⏳8Y](https://github.com/gvx/suzy) - 3D language inspired in Befunge.
 * [Thue ★1 ⏳3Y](https://github.com/jcolag/Thue) - _Matrioshka_ language based on nondeterministic string rewriting of a semi-Thue grammar.
 * [Unary](https://esolangs.org/wiki/Unary) - Brainfuck-based language where all the commands are 0.
 * [Velato](http://velato.net) - Language that uses MIDI files as source, programs are defined by the pitch and order of notes.
@@ -52,7 +52,7 @@ Curated list of awesome esoteric programming languages and resources.
 ## Resources
 
 * [DM's Esoteric Programming Languages](http://www.dangermouse.net/esoteric) - List of esoteric languages and algorithms written by dangermouse. 
-* [Esofiles ★19](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
+* [Esofiles ★21](https://github.com/graue/esofiles) - The Esoteric Files Archive, an archive of implementations of esoteric programming languages and examples.
 * [Esolang](https://esolangs.org) - Wiki of esoteric programming languages and related Resources.
 * [Progopedia](http://progopedia.com/paradigm/esoteric) - List of esoteric languages.
 * [Rosettacode](http://rosettacode.org/wiki/Rosetta_Code) - Provides examples in different languages, including esoteric languages.

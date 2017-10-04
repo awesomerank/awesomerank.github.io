@@ -62,7 +62,7 @@ Table of Contents
 
 ## Source Code Repos
 
-  * [bitbucket.org](https://bitbucket.org/) — Unlimited public and private repos (Git and Mercurial) for up to 5 users
+  * [bitbucket.org](https://bitbucket.org/) — Unlimited public and private repos (Git and Mercurial) for up to 5 users with Pipelines for CI/CD
   * [chiselapp.com](http://chiselapp.com/) — Unlimited public and private Fossil repositories
   * [github.com](https://github.com/) — Unlimited number of public repositories
   * [about.gitlab.com](https://about.gitlab.com/) — Unlimited public and private Git repos with unlimited collaborators
@@ -77,6 +77,7 @@ Table of Contents
 ## Artifact Repos
 
  * [central.sonatype.org](http://central.sonatype.org) - The default artifact repository for Apache Maven, SBT and other build systems.
+ * [packagecloud.io](https://packagecloud.io) - Easy to use repository hosting for: Maven, RPM, DEB, PyPi and RubyGem packages (has free tier).
 
 ## Tools for Teams and Collaboration
 
@@ -156,7 +157,7 @@ Table of Contents
   * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source
   * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
   * [appveyor.com](http://www.appveyor.com/) — CD service for Windows, free for Open Source
-  * [github.com ★389](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
+  * [github.com ★411](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
   * [ftploy.com](http://ftploy.com/) — 1 project with unlimited deployments
   * [deployhq.com](http://www.deployhq.com/) — 1 project with 10 daily deployments
   * [hub.jazz.net](https://hub.jazz.net/) — 60 minutes of free build time/month
@@ -261,7 +262,6 @@ Table of Contents
   * [opsdash.com](https://www.opsdash.com/) — Self-hoster server, clusters and services monitoring, free for 5 servers and 5 services
   * [healthchecks.io](https://healthchecks.io) — Monitor your cron jobs and background tasks. Unlimited free checks
   * [appbeat.io](https://appbeat.io) — Website monitoring, 3 monitors free. They offer very reliable and affordable monitor service.
-  * [dnsspy.io](https://dnsspy.io) — Monitor your DNS and get alerts for changes, RFC-violating DNS configs, ... Free for 1 domain, open source maintainers may apply for a free premium account.
   * [monique.io](https://monique.io) — Create dashboards directly from SQL results, JSON data, API respones, Unix commands' output. Define alarms in Javascript. Free for 25000 submissions per month.
   * [assertible.com](https://assertible.com) - Automated API testing and monitoring. Free plans for teams and individuals.
   * [letsmonitor.org](http://letsmonitor.org/) - TLS certificate expiration and connectivity monitoring with email and SMS alerts.
@@ -357,6 +357,7 @@ Table of Contents
   * [blockspring.com](https://www.blockspring.com/) — Cloud functions. Free for 5 million runs/month
   * [kinvey.com](http://www.kinvey.com/) — Mobile backend, starter plan has unlimited requests/second, with 2 GB of data storage, as well as push notifications for up 5 million unique recipients. Enterprise application support
   * [backendless.com](https://backendless.com/) — Mobile and Web Baas, with 1 GB file storage free, push notifications 50000 month, and 1000 data objects in table.
+  * [pusher.com](https://pusher.com/push-notifications/) - Free, unlimited push notifications at scale. A single API for iOS and Android devices
   * [konacloud.io](http://konacloud.io/) — Web and Mobile Backend as a Service, with 5 GB free account
   * [layer.com](https://layer.com/) — The full-stack building block for communications
   * [quickblox.com](http://quickblox.com/) — A communication backend for instant messaging, video and voice calling and push notifications
@@ -436,7 +437,7 @@ Table of Contents
 ## STUN, WebRTC, Web Socket Servers and Other Routers
 
    * [scaledrone.com](https://www.scaledrone.com/) — Push messaging service. Free for up to 20 simultaneous connections and 100,000 messages/day
-   * [pusher.com](https://pusher.com/) — Hosted Web Sockets broker. Free for up to 20 simultaneous connections and 100,000 messages/day
+   * [pusher.com](https://pusher.com/) — Realtime messaging service. Free for up to 100 simultaneous connections and 200,000 messages/day
    * [stun:stun.l.google.com:19302](stun:stun.l.google.com:19302) — Google STUN
    * [stun:global.stun.twilio.com:3478?transport=udp](stun:global.stun.twilio.com:3478?transport=udp) — Twilio STUN
    * [segment.com](https://segment.com/) — Hub to translate and route events to other third party services. 100,000 events/month free
@@ -635,7 +636,7 @@ Table of Contents
 
 ## Other Free Resources
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
-  * [github.com - Free for nonprofit ★50](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
+  * [github.com - Free for nonprofit ★56](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
 ---

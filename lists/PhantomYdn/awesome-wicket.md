@@ -7,7 +7,7 @@ title: Awesome Rank for PhantomYdn/awesome-wicket
 	This list is a copy of <a href="https://github.com/PhantomYdn/awesome-wicket">PhantomYdn/awesome-wicket</a> with ranks
 </p>
 ---
-# Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 [<img src="https://upload.wikimedia.org/wikipedia/ru/5/5d/Apache_Wicket_logo.png" align="right" width="100">](http://wicket.apache.org/)
 
 A curated list of awesome projects powered by [Apache Wicket](http://wicket.apache.org)

@@ -7,9 +7,9 @@ title: Awesome Rank for watson/awesome-computer-history
 	This list is a copy of <a href="https://github.com/watson/awesome-computer-history">watson/awesome-computer-history</a> with ranks
 </p>
 ---
-# Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
+# Awesome Computer History [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build status](https://api.travis-ci.org/watson/awesome-computer-history.svg?branch=master)](https://travis-ci.org/watson/awesome-computer-history)
 
-A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing ★63835](https://github.com/sindresorhus/awesome).
+A curated list of computer history videos, documentaries and related folklore maintained by [Thomas Watson](https://twitter.com/wa7son). Inspired by the [awesome list thing ★65640](https://github.com/sindresorhus/awesome).
 
 [Pull Requests](https://github.com/watson/awesome-computer-history/edit/master/README.md) are welcome.
 
@@ -39,6 +39,10 @@ A curated list of computer history videos, documentaries and related folklore ma
 - [Timesharing: A Solution to Computer Bottlenecks](https://www.youtube.com/watch?v=Q07PhW5sCEk) (1963)
 - [The Mother of All Demos](https://www.youtube.com/watch?v=yJDv-zdhzMY) (1968)
 - [Xerox Parc - Office Alto Commercial](https://www.youtube.com/watch?v=M0zgj2p7Ww4) (1972)
+- Computer Networks - ARPANET (1972) - The developers of the ARPANET talk about their new network:
+  - [Part 1](https://youtu.be/fVhwOaCwkb0)
+  - [Part 2](https://youtu.be/RmO4TxDCMjI)
+- [A Computer Animated Hand](https://www.youtube.com/watch?v=Jjbax5HYHLQ) (1972) - One of the earliest examples of computer animation
 - [KRON San Francisco: Primitive Internet report](https://www.youtube.com/watch?v=5WCTn4FljUQ) (1981) - KRON San Francisco news segment on how early home computer users could read their morning newspapers online
 - [The UNIX System: Making Computers More Productive](https://www.youtube.com/watch?v=tc4ROCJYbm0) (1982)
 - [The UNIX System: Making Computers Easier to Use](https://www.youtube.com/watch?v=XvDZLjaCJuw) (1982)
@@ -140,7 +144,7 @@ _Dramatized versions of real events_
 
 ## Source Code
 
-- [C compiler](https://www.bell-labs.com/usr/dmr/www/primevalC.html) (1972) - The earliest known versions of Dennis Ritchie's first C compiler ([GitHub code mirror ★1902](https://github.com/mortdeus/legacy-cc))
+- [C compiler](https://www.bell-labs.com/usr/dmr/www/primevalC.html) (1972) - The earliest known versions of Dennis Ritchie's first C compiler ([GitHub code mirror ★1914](https://github.com/mortdeus/legacy-cc))
 - [UNIX](https://github.com/dspinellis/unix-history-repo/tree/Research-Release) (1972) - Continuous Unix commit history from 1972 until today
 
 ## Websites

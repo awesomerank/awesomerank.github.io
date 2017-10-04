@@ -7,7 +7,7 @@ title: Awesome Rank for fcambus/nginx-resources
 	This list is a copy of <a href="https://github.com/fcambus/nginx-resources">fcambus/nginx-resources</a> with ranks
 </p>
 ---
-# Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Nginx Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A collection of resources covering Nginx, Nginx + Lua, OpenResty and Tengine.
 
@@ -87,7 +87,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Log rotation directly within Nginx configuration file](https://www.cambus.net/log-rotation-directly-within-nginx-configuration-file/)
 - [Realtime pixel tracking with Nginx, syslog-ng, and Redis](https://benwilber.github.io/nginx/redis/syslog/pixel-tracking/2013/09/13/realtime-pixel-tracking-with-nginx-syslog-ng-and-redis.html)
 - [Dynamic log formats in Nginx](https://benwilber.github.io/nginx/syslog/logging/2015/08/26/dynamic-log-formats-in-nginx.html)
-- [Capture and delay unwanted requests ★17](https://github.com/p0pr0ck5/lua-resty-tarpit)
+- [Capture and delay unwanted requests ★17 ⏳1Y](https://github.com/p0pr0ck5/lua-resty-tarpit)
 - [Nginx: a caching, thumbnailing, reverse proxying image server?](http://charlesleifer.com/blog/nginx-a-caching-thumbnailing-reverse-proxying-image-server-/)
 
 ## Tips

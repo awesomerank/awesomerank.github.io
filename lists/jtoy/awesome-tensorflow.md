@@ -7,7 +7,7 @@ title: Awesome Rank for jtoy/awesome-tensorflow
 	This list is a copy of <a href="https://github.com/jtoy/awesome-tensorflow">jtoy/awesome-tensorflow</a> with ranks
 </p>
 ---
-# Awesome TensorFlow  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★98](https://github.com/jtoy/awesome)
+# Awesome TensorFlow  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★98 ⏳1Y](https://github.com/jtoy/awesome)
 
 A curated list of awesome TensorFlow experiments, libraries, and projects. Inspired by awesome-machine-learning.
 
@@ -94,6 +94,9 @@ More info [here](http://tensorflow.org).
 
 * [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow ★212](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
 * [Attentive Object Tracking ★41](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
+* [Holographic Embeddings for Graph Completion and Link Prediction ★45](https://github.com/laxatives/TensorFlow-TransX) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)
+* [Unsupervised Object Counting ★9](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
+
 <a name="github-powered-by" />
 
 ## Powered by TensorFlow
@@ -220,7 +223,7 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta ★37548](https://github.com/vinta/awesome-python)
+* Some of the python libraries were cut-and-pasted from [vinta ★39191](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 ---
 <p align="center">

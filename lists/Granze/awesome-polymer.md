@@ -7,7 +7,7 @@ title: Awesome Rank for Granze/awesome-polymer
 	This list is a copy of <a href="https://github.com/Granze/awesome-polymer">Granze/awesome-polymer</a> with ranks
 </p>
 ---
-# Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 <a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="64" width="92"></a>
 > A collection of awesome Polymer resources
 
@@ -18,7 +18,7 @@ title: Awesome Rank for Granze/awesome-polymer
 * [Blog](https://blog.polymer-project.org/)
 * [Google+ Profile](https://plus.google.com/+PolymerProject/)
 * [Github](https://github.com/polymer)
-* [Project ★136](https://github.com/polymer/project) All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
+* [Project ★136 ⏳1Y](https://github.com/polymer/project) All things related to the Polymer project - Roadmap, Code of Conduct, How to Contribute, and more.
 
 ## Polymer Communities
 * [StackOverflow](http://stackoverflow.com/questions/tagged/polymer)
@@ -144,7 +144,7 @@ title: Awesome Rank for Granze/awesome-polymer
 
 
 ## Other awesome resources
-**If you want more awesome resources, check the [awesome ★63835](https://github.com/sindresorhus/awesome) list!**
+**If you want more awesome resources, check the [awesome ★65640](https://github.com/sindresorhus/awesome) list!**
 
 ---
 

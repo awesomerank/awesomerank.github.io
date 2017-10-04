@@ -7,7 +7,7 @@ title: Awesome Rank for davidsonfellipe/awesome-wpo
 	This list is a copy of <a href="https://github.com/davidsonfellipe/awesome-wpo">davidsonfellipe/awesome-wpo</a> with ranks
 </p>
 ---
-# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
 
 A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -169,7 +169,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Confess ★879 ⏳1Y](https://github.com/jamesgpearce/confess) - Uses PhantomJS to headlessly analyze web pages and generate manifests. [![Maintenance](https://img.shields.io/maintenance/no/2017.svg?style=flat-square)]()
 * [Page Speed](https://developers.google.com/speed/pagespeed/) - The PageSpeed family of tools is designed to help you optimize the performance of your website. PageSpeed Insights products will help you identify performance best practices that can be applied to your site, and PageSpeed optimization tools can help you automate the process.
 * [Lighthouse ★10437](https://github.com/GoogleChrome/lighthouse) - Auditing and performance metrics tool for Progressive Web Applications.
-* [YSlow ★1927 ⏳1Y](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
+* [YSlow ★1927 ⏳2Y](https://github.com/marcelduran/yslow) - YSlow analyzes web pages and suggests ways to improve their performance based on a set of rules for high performance web pages.
 * [YSlow for PhantomJS](http://yslow.org/phantomjs/) - YSlow for PhantomJS also introduces new output formats for automated test frameworks: TAP (Test Anything Protocol) and JUnit.
 * [Grunt-WebPageTest ★36 ⏳1Y](https://github.com/sideroad/grunt-wpt) - Grunt plugin for continuously measurement of WebPageTest. ([Demo](http://sideroad.github.io/sample-wpt-page/))
 * [Grunt-yslow ★93](https://github.com/andyshora/grunt-yslow) - Grunt task for testing page performance using PhantomJS, a headless WebKit browser.
@@ -200,7 +200,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [JSPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
 * [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 * [JSlitmus ★163 ⏳7Y](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
-* [Matcha ★451](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
+* [Matcha ★456](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
 * [Timing.js ★1296](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
 * [Stats.js ★4390](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
 * [PerfTests ★1 ⏳2Y](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
@@ -267,10 +267,10 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-smushit ★92 ⏳1Y](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
 * [Gulp-smushit ★20 ⏳1Y](https://github.com/heldr/gulp-smushit) - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
 * [Smush.it](http://www.smushit.com/ysmush.it/) - Smush.it uses optimization techniques specific to image format to remove unnecessary bytes from image files. It is a "lossless" tool, which means it optimizes the images without changing their look or visual quality.
-* [Imagemin ★1425](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
-* [Sharp ★5920](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
-* [Gm ★4292](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
-* [Exexif ★6874](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
+* [Imagemin ★1473](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
+* [Sharp ★6129](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
+* [Gm ★4381](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
+* [Exexif ★7112](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
 * [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 * [Grunt-contrib-imagemin ★1179](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 * [Gulp-imagemin ★1292](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
@@ -284,7 +284,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
 * [mozjpeg ★2678](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 * [Jpegoptim ★590](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
-* [ZopfliPNG ★1892](https://github.com/google/zopfli) - A command line program to optimize PNG images.
+* [ZopfliPNG ★1944](https://github.com/google/zopfli) - A command line program to optimize PNG images.
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress png files to get the smallest possible size.
 * [Leanify ★410](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
@@ -298,7 +298,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Loaders
 
-* [HeadJS ★4127](https://github.com/headjs/headjs)- The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
+* [HeadJS ★4143](https://github.com/headjs/headjs)- The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
 * [Labjs](http://labjs.com/) - is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 * [Defer.js ★64 ⏳4Y](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
@@ -319,7 +319,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [WebPageTest](http://www.webpagetest.org/) - Run a free website speed test from multiple locations around the globe using real browsers (IE and Chrome) and at real consumer connection speeds. You can run simple tests or perform advanced testing including multi-step transactions, video capture, content blocking and much more. Your results will provide rich diagnostic information including resource loading waterfall charts, Page Speed optimization checks and suggestions for improvements.
 * [Sitespeed.io](https://www.sitespeed.io/documentation/) - Sitespeed.io is an open source tool that will check your site against web performance best practice rules and use the Navigation Timing API to collect metrics. It will create XML & HTML output of the result.
 * [Grunt-phantomas ★294](https://github.com/stefanjudis/grunt-phantomas) - Grunt plugin wrapping phantomas to measure frontend performance.
-* [Perfjankie](https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite ([Demo ★0 ⏳2Y](https://github.com/asciidisco/perfjankie-test)).
+* [Perfjankie](https://www.npmjs.com/package/perfjankie) - Runtime Browser Performance regression suite ([Demo ★0 ⏳3Y](https://github.com/asciidisco/perfjankie-test)).
 * [BrowserView Monitoring](https://www.dotcom-monitor.com/website-monitor/website-speed-monitoring/) - Continually checks web page load times in Internet Explorer, Chrome and Firefox from multiple points around the world.
 * [PerfBar](http://wpotools.github.io/perfBar/) - Simple way to collect and look at your website performance metrics quickly, that supports budgeting and adding custom metrics.
 * [New Relic Browser Monitoring](http://newrelic.com/browser-monitoring) - Monitor your browser-side applications in real time, with a focus on real end users’ experiences.
@@ -343,7 +343,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HTML_press ★33 ⏳1Y](https://github.com/stereobooster/html_press) - Ruby gem for compressing html, that removes all whitespace junk, and leaves only HTML.
 * [Koa HTML Minifier ★20](https://github.com/koajs/html-minifier) - Middleware that minifies your HTML responses using html-minifier. It uses html-minifier's default options which are all turned off by default, so you have to set the options otherwise it's not going to do anything.
 * [HTML Minifier Online](http://kangax.github.io/html-minifier/) - A HTML min tool by kangax (HTMLMinifier Creator).
-* [Minimize ★130](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usuable server side. Client side minification will be added in a future release.
+* [Minimize ★129](https://github.com/Swaagie/minimize) - Minimize is a HTML minifier based on the node-htmlparser,currently, HTML minifier is only usuable server side. Client side minification will be added in a future release.
 * [Html-minifier ★78](https://github.com/deanhume/html-minifier) - A simple Windows command line tool to minify your HTML, Razor views & Web Forms views
 
 
@@ -355,8 +355,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [CSSmin.js](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - cssmin.js is a JavaScript port of YUICompressor's CSS minifier.
 * [Grunt-contrib-concat ★809](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 * [Grunt-contrib-uglify ★1393](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files.
-* [Clean-css ★2552](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
-* [Django-compressor ★1900](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+* [Clean-css ★2593](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
+* [Django-compressor ★1928](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [Django-pipeline](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
 * [JShrink ★480](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
 * [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.
@@ -386,7 +386,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 ## Generators
 
 * [Glue ★2551](https://github.com/jorgebastida/glue) - Glue is a simple command line tool to generate sprites:
-* [Pitomba-spriter ★20 ⏳2Y](https://github.com/pitomba/spriter) - Spriter is a simple and flexible dynamic sprite generator for CSS, using Python. It can process CSS both synchronous and asynchronous as it provides classes to be used in your python code and also a watcher that listens to your filesystem and changes CSS and sprite as soon as a static is changed.
+* [Pitomba-spriter ★20 ⏳3Y](https://github.com/pitomba/spriter) - Spriter is a simple and flexible dynamic sprite generator for CSS, using Python. It can process CSS both synchronous and asynchronous as it provides classes to be used in your python code and also a watcher that listens to your filesystem and changes CSS and sprite as soon as a static is changed.
 * [Grunt-spritesmith ★1165](https://github.com/Ensighten/grunt-spritesmith) - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.
 * [Grunt-sprite-css-replace](https://www.npmjs.com/package/grunt-sprite-css-replace) - Grunt task that generates a sprite from images referenced in a stylesheet and then updates the references with the new sprite image and positions.
 * [Grunt-svg-sprite](https://www.npmjs.com/package/grunt-svg-sprite) - SVG sprites & stacks galore — Grunt plugin wrapping around svg-sprite that reads in a bunch of SVG files, optimizes them and creates SVG sprites and CSS resources in various flavours.
@@ -424,7 +424,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HTTPerf ★437](https://github.com/httperf/httperf) - httperf is a tool for measuring web server performance. It provides a flexible facility for generating various HTTP workloads and for measuring server performance.
 * [Apache JMeter](http://jmeter.apache.org/download_jmeter.cgi) - Open source load testing tool: It is a Java platform application.
 * [Locust](http://locust.io) - An open source load testing tool. Define user behaviour with Python code, and swarm your     system with millions of simultaneous users.
-* [Autoperf ★182 ⏳2Y](https://github.com/igrigorik/autoperf) - Autoperf is a ruby driver for httperf, designed to help you automate load and performance testing of any web application - for a single end point, or through log replay.
+* [Autoperf ★182 ⏳3Y](https://github.com/igrigorik/autoperf) - Autoperf is a ruby driver for httperf, designed to help you automate load and performance testing of any web application - for a single end point, or through log replay.
 * [HTTPerf.rb ★13 ⏳2Y](https://github.com/jmervine/httperfrb) - Simple Ruby interface for httperf, written in Ruby.
 * [PHP-httperf ★5 ⏳3Y](https://github.com/jmervine/php-httperf) - PHP Port of HTTPerf.rb.
 * [HTTPerf.js ★23 ⏳3Y](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb.
@@ -461,7 +461,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 # Other Awesome Lists
 
 * [bayandin/awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness).
-* [sindresorhus/awesome ★63835](https://github.com/sindresorhus/awesome).
+* [sindresorhus/awesome ★65640](https://github.com/sindresorhus/awesome).
 
 
 # Contributing

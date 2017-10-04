@@ -7,7 +7,7 @@ title: Awesome Rank for Calinou/awesome-godot
 	This list is a copy of <a href="https://github.com/Calinou/awesome-godot">Calinou/awesome-godot</a> with ranks
 </p>
 ---
-# Awesome Godot [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Godot [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, plugins, add-ons and scripts for [Godot](https://godotengine.org).
 
@@ -17,7 +17,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 ### 2D
 
-- [ANSiTURE ★4 ⏳1Y](https://github.com/w84death/ansiture) -  Adventure platformer using only text based (DOS ANSi) characters.
+- [ANSiTURE ★4 ⏳2Y](https://github.com/w84death/ansiture) -  Adventure platformer using only text based (DOS ANSi) characters.
 - [Blipshift ★8 ⏳2Y](https://github.com/wardsky/blipshift) - Simple top-down moving platforms game.
 - [BlockPop ★12 ⏳2Y](https://github.com/vnen/blockpop) - A simple Breakout clone.
 - [Bombs ★12](https://github.com/randyyaj/Bombs) - Simple mobile game. You need to touch bombs to defuse them.
@@ -33,7 +33,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Ninja-Training ★25](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 - [No hope ★3 ⏳2Y](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
 - [Planet Rider ★15 ⏳1Y](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.
-- [Platshoot ★18](https://github.com/Calinou/platshoot) - A 2D shooter game.
+- [Platshoot ★18 ⏳1Y](https://github.com/Calinou/platshoot) - A 2D shooter game.
 - [Ringed](https://github.com/KOBUGE-Games/ringed) - Top-down shooter with extensive usage of light effects.
 - [Tanks of Freedom ★363](https://github.com/w84death/Tanks-of-Freedom) - Free turn-based isometric strategy game.
 - [Three Hungry Mice ★0 ⏳1Y](https://github.com/delstuff/threeHungryMice) - Breakout game with mice made for the Godot Engine Jam 03/2016

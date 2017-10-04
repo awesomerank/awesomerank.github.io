@@ -7,7 +7,7 @@ title: Awesome Rank for dav009/awesome-spanish-nlp
 	This list is a copy of <a href="https://github.com/dav009/awesome-spanish-nlp">dav009/awesome-spanish-nlp</a> with ranks
 </p>
 ---
-# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Linguistics Resources for Spanish [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 
 Curated list of Linguistic Resources for doing Spanish NLP & CL.
@@ -78,7 +78,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 
 ## Misc
 
-- [Word2Vec vectors for Wikipedia Spanish Articles ★399](https://github.com/idio/wiki2vec)
+- [Word2Vec vectors for Wikipedia Spanish Articles ★399 ⏳1Y](https://github.com/idio/wiki2vec)
 - [DBpedia Spanish Entities Titles](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/labels_es.nt.bz2)
 - [DBpedia Spanish Abstracts](http://data.dws.informatik.uni-mannheim.de/dbpedia/2014/es/short_abstracts_es.nt.bz2)
 - [Conshuga - Galician Verb conjugator](http://gramatica.usc.es/pln/tools/conjugador/download.html)

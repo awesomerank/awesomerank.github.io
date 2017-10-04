@@ -9,7 +9,7 @@ title: Awesome Rank for Famolus/awesome-sass
 ---
 ![Awesome Sass](https://raw.githubusercontent.com/Famolus/awesome-sass/master/awesome-sass-logo-github.png)
 
-# Awesome Sass [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Sass [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > Curated list of awesome [Sass](http://sass-lang.com/) and [SCSS](http://sass-lang.com/) frameworks, libraries, style guides, articles, and resources.
 
@@ -83,6 +83,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Toast](http://daneden.github.io/Toast/) - Flexible and lightweight grid framework from the creator of [animate.css](https://daneden.github.io/animate.css/).
 - [Jeet ★3031](https://github.com/mojotech/jeet) - Simple fractional grid system for Sass and Stylus.
 - [Griddle](http://necolas.github.io/griddle/) - Extremely flexable CSS grid constructor.
+- [Waffle Grid](https://lucasgruwez.github.io/waffle-grid/) - Easy to use flexbox grid system.
 
 ### Media Queries
 - [include-media](http://include-media.com/) - Simple, elegant and maintainable media queries.
@@ -131,7 +132,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Dropbox (S)CSS Style Guide ★567 ⏳1Y](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
 
 ## Articles
-- [Hugo Giraudel Personal Awesome Sass List ★647](https://github.com/HugoGiraudel/awesome-sass) - Records of Hugo Giraudel's works on Sass.
+- [Hugo Giraudel Personal Awesome Sass List ★647 ⏳1Y](https://github.com/HugoGiraudel/awesome-sass) - Records of Hugo Giraudel's works on Sass.
 - [Cubic Bézier Representation in Sass](http://thesassway.com/advanced/cubic-bezier-representation-in-sass)
 - [Faster Sass builds with Webpack](http://eng.localytics.com/faster-sass-builds-with-webpack/)
 - [Transitioning to SCSS at Scale](https://codeascraft.com/2015/02/02/transitioning-to-scss-at-scale/)
@@ -155,7 +156,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Scout-App](http://scout-app.io/) - Process your Sass and SCSS files into CSS without needing any knowledge of the command line.
 - [sass-rails ★730](https://github.com/rails/sass-rails) - Ruby on Rails stylesheet engine for Sass.
 - [scss-lint](https://github.com/brigade/scss-lint) - Configurable tool for writing clean and consistent SCSS. [(deprecated) ★2842](https://github.com/brigade/scss-lint#notice-consider-other-tools-before-adopting-scss-lint)
-- [OctoLinker ★2266](https://github.com/OctoLinker/browser-extension) - Navigate through *.scss and *.sass files efficiently with the OctoLinker browser extension for GitHub.
+- [OctoLinker ★2316](https://github.com/OctoLinker/browser-extension) - Navigate through *.scss and *.sass files efficiently with the OctoLinker browser extension for GitHub.
 - [stylelint](https://stylelint.io/) - A mighty, modern CSS linter that helps you enforce consistent conventions and avoid errors in your stylesheets. Supports CSS-like syntaxes, including SCSS.
 - [diamond](https://diamond.js.org) - Dependency management built for Sass, Less, and CSS.
 - [node-sass-magic-importer ★50](https://github.com/maoberlehner/node-sass-magic-importer) - Custom node-sass importer for selector specific imports, node importing, module importing, globbing support and importing files only once.

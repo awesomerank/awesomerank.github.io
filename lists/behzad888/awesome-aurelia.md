@@ -13,7 +13,7 @@ title: Awesome Rank for behzad888/awesome-aurelia
   </a>
 </p>
 
-# Aurelia Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/aurelia/discuss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aurelia/discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/behzad888/awesome-aurelia.svg?branch=master)](https://travis-ci.org/behzad888/awesome-aurelia)
+# Aurelia Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/aurelia/discuss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aurelia/discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/behzad888/awesome-aurelia.svg?branch=master)](https://travis-ci.org/behzad888/awesome-aurelia)
 
 A curated list of amazingly awesome Aurelia libraries, resources and shiny things.
 
@@ -224,7 +224,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Auth
 
-* [sentry ★50 ⏳1Y](https://github.com/Foursails/sentry) * An Aurelia template with a built in authentication shell
+* [sentry ★50 ⏳2Y](https://github.com/Foursails/sentry) * An Aurelia template with a built in authentication shell
 * [aurelia-authentication-loopback-sample ★8 ⏳1Y](https://github.com/doktordirk/aurelia-authentication-loopback-sample) * Aurelia client sample with aurelia-authentication and loopback server (ES6/TS+jspm, ES6+webpack)
 * [aurelia-identityserver-aspnetcore ★35](https://github.com/paulvanbladel/aurelia-identityserver-aspnetcore) * Sample integrating aurelia with identityserver 4 and docker
 

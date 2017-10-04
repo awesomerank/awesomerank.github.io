@@ -7,7 +7,7 @@ title: Awesome Rank for qazbnm456/awesome-web-security
 	This list is a copy of <a href="https://github.com/qazbnm456/awesome-web-security">qazbnm456/awesome-web-security</a> with ranks
 </p>
 ---
-# Awesome Web Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Web Security [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 [<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" align="right" width="70">](https://www.w3.org/TR/html5/)
 
@@ -29,54 +29,58 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 - [Forums](#forums)
 - [Resources](#resources)
-    - [Introductions](#introductions)
-        - [XSS](#introductions-xss)
-        - [SQL Injection](#introductions-sql-injection)
-        - [XML](#introductions-xml)
-        - [XXE](introductions-xxe)
-        - [CSRF](#introductions-csrf)
-        - [SSRF](#introductions-ssrf)
-        - [Rails](#introductions-rails)
-        - [AngularJS](#introductions-angularjs)
-        - [SSL/TLS](#introductions-ssl-tls)
-        - [Webmail](#introductions-webmail)
-        - [AWS](#introductions-aws)
-        - [Fingerprint](#introductions-fingerprint)
-    - [Books](#books)
+  - [XSS](#xss)
+  - [SQL Injection](#sql-injection)
+  - [ORM Injection](#orm-injection)
+  - [XML](#xml)
+  - [XXE](xxe)
+  - [CSRF](#csrf)
+  - [SSRF](#ssrf)
+  - [Rails](#rails)
+  - [AngularJS](#angularjs)
+  - [SSL/TLS](#ssl-tls)
+  - [Webmail](#webmail)
+  - [NFS](#nfs)
+  - [AWS](#aws)
+  - [Fingerprint](#fingerprint)
+  - [Crypto](#crypto)
+  - [Books](#books)
 - [Evasions](#evasions)
-    - [CSP](#evasions-csp)
-    - [WAF](#evasions-waf)
-    - [JSMVC](#evasions-jsmvc)
-    - [Authentication](#evasions-authentication)
+  - [CSP](#evasions-csp)
+  - [WAF](#evasions-waf)
+  - [JSMVC](#evasions-jsmvc)
+  - [Authentication](#evasions-authentication)
 - [Tricks](#tricks)
-    - [Remote Code Execution](#tricks-rce)
-    - [XSS](#tricks-xss)
-    - [SQL Injection](#tricks-sql-injection)
-    - [NoSQL Injection](#tricks-nosql-injection)
-    - [SSRF](#tricks-ssrf)
-    - [Header Injection](#tricks-header-injection)
-    - [URL](#tricks-url)
-    - [Others](#tricks-others)
+  - [Remote Code Execution](#tricks-rce)
+  - [XSS](#tricks-xss)
+  - [SQL Injection](#tricks-sql-injection)
+  - [NoSQL Injection](#tricks-nosql-injection)
+  - [SSRF](#tricks-ssrf)
+  - [Header Injection](#tricks-header-injection)
+  - [URL](#tricks-url)
+  - [Others](#tricks-others)
 - [Browser Exploitation](#browser-exploitation)
 - [PoCs](#pocs)
-    - [JavaScript](#pocs-javascript)
+  - [JavaScript](#pocs-javascript)
 - [Tools](#tools)
-    - [Reconnaissance](#tools-reconnaissance)
-    - [Code Generating](#tools-code-generating)
-    - [Fuzzing](#tools-fuzzing)
-    - [Penetrating](#tools-penetrating)
-    - [Leaking](#tools-leaking)
-    - [Detecting](#tools-detecting)
-    - [Preventing](#tools-preventing)
-    - [Webshell](#tools-webshell)
-    - [Disassembler](#tools-disassembler)
-    - [Others](#tools-others)
+  - [Reconnaissance](#tools-reconnaissance)
+  - [Code Generating](#tools-code-generating)
+  - [Fuzzing](#tools-fuzzing)
+  - [Penetrating](#tools-penetrating)
+  - [Leaking](#tools-leaking)
+  - [Offensive](#tools-offensive)
+    - [Template Injection](#tools-template-injection)
+  - [Detecting](#tools-detecting)
+  - [Preventing](#tools-preventing)
+  - [Webshell](#tools-webshell)
+  - [Disassembler](#tools-disassembler)
+  - [Others](#tools-others)
 - [Social Engineering Database](#social-engineering-database)
 - [Blogs](#blogs)
 - [Twitter Users](#twitter-users)
 - [Practices](#practices)
-    - [AWS](#practices-aws)
-    - [XSS](#practices-xss)
+  - [AWS](#practices-aws)
+  - [XSS](#practices-xss)
 - [Community](#community)
 - [Miscellaneous](#miscellaneous)
 
@@ -91,71 +95,87 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 ## Resources
 
-### Introductions
-
-<a name="introductions-xss"></a>
+<a name="xss"></a>
 ### XSS
 
-* [H5SC ★1636](https://github.com/cure53/H5SC) - HTML5 Security Cheatsheet - Collection of HTML5 related XSS attack vectors by [@cure53](https://github.com/cure53).
-* [XSS.png ★243 ⏳1Y](https://github.com/jackmasa/XSS.png) - XSS mind map by [@jackmasa](https://github.com/jackmasa).
+* [H5SC ★1678](https://github.com/cure53/H5SC) - HTML5 Security Cheatsheet - Collection of HTML5 related XSS attack vectors by [@cure53](https://github.com/cure53).
+* [XSS.png ★268 ⏳1Y](https://github.com/jackmasa/XSS.png) - XSS mind map by [@jackmasa](https://github.com/jackmasa).
 * [C.XSS Guide](https://excess-xss.com/) - Comprehensive tutorial on cross-site scripting by [@JakobKallin](https://github.com/JakobKallin) and [Irene Lobo Valbuena](https://www.linkedin.com/in/irenelobovalbuena/).
 
-<a name="introductions-sql-injection"></a>
+<a name="sql-injection"></a>
 ### SQL Injection
 
-* [HQL for pentesters](http://blog.h3xstream.com/2014/02/hql-for-pentesters.html) - Written by [@h3xstream](https://twitter.com/h3xstream/).
+* [SQL Injection Cheat Sheet](https://www.netsparker.com/blog/web-security/sql-injection-cheat-sheet/) - Written by [@netsparker](https://twitter.com/netsparker).
 
-<a name="introductions-xml"></a>
+<a name="orm-injection"></a>
+### ORM Injection
+
+* [HQL for pentesters](http://blog.h3xstream.com/2014/02/hql-for-pentesters.html) - Written by [@h3xstream](https://twitter.com/h3xstream/).
+* [HQL : Hyperinsane Query Language (or how to access the whole SQL API within a HQL injection ?)](https://www.synacktiv.com/ressources/hql2sql_sstic_2015_en.pdf) - Written by [@_m0bius](https://twitter.com/_m0bius).
+* [ORM2Pwn: Exploiting injections in Hibernate ORM](https://www.slideshare.net/0ang3el/orm2pwn-exploiting-injections-in-hibernate-orm) - Written by [Mikhail Egorov](https://0ang3el.blogspot.tw/).
+* [ORM Injection](https://www.slideshare.net/simone.onofri/orm-injection) - Written by [Simone Onofri](https://onofri.org/).
+
+<a name="xml"></a>
 ### XML
 
 * [XML实体攻击 - 从内网探测到命令执行步步惊心](http://www.freebuf.com/video/49961.html) - Written by 张天琪.
 
-<a name="introductions-xxe"></a>
+<a name="xxe"></a>
 ### XXE
 
 * [XXE](https://phonexicum.github.io/infosec/xxe.html) - Written by [@phonexicum](https://twitter.com/phonexicum).
 
-<a name="introductions-csrf"></a>
+<a name="csrf"></a>
 ### CSRF
 
 * [讓我們來談談 CSRF](http://blog.techbridge.cc/2017/02/25/csrf-introduction/) - Written by [TechBridge](http://blog.techbridge.cc/).
 
-<a name="introductions-ssrf"></a>
+<a name="ssrf"></a>
 ### SSRF
 
 * [SSRF bible. Cheatsheet](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit) - Written by [@Wallarm](https://twitter.com/wallarm).
 
-<a name="introductions-rails"></a>
+<a name="rails"></a>
 ### Rails
 
 * [Rails 動態樣板路徑的風險](http://devco.re/blog/2015/07/24/the-vulnerability-of-dynamic-render-paths-in-rails/) - Written by [Shaolin](http://devco.re/blog/author/shaolin/).
 * [Rails Security - First part](https://hackmd.io/s/SkuTVw5O-) - Written by [@qazbnm456](https://github.com/qazbnm456).
 
-<a name="introductions-angularjs"></a>
+<a name="angularjs"></a>
 ### AngularJS
 
 * [XSS without HTML: Client-Side Template Injection with AngularJS](http://blog.portswigger.net/2016/01/xss-without-html-client-side-template.html) - Written by [Gareth Heyes](https://www.blogger.com/profile/10856178524811553475).
 * [DOM based Angular sandbox escapes](http://blog.portswigger.net/2017/05/dom-based-angularjs-sandbox-escapes.html) - Written by [@garethheyes](https://twitter.com/garethheyes)
 
-<a name="introductions-ssl-tls"></a>
+<a name="ssl-tls"></a>
 ### SSL/TLS
 
 * [SSL & TLS Penetration Testing](https://www.aptive.co.uk/blog/tls-ssl-security-testing/) - Written by [APTIVE](https://www.aptive.co.uk/).
 
-<a name="introductions-webmail"></a>
+<a name="webmail"></a>
 ### Webmail
 
 * [Webmail-Hacking](https://github.com/mottoin/SecPaper/blob/master/Webmail-Hacking.pdf) - Written by [千域千寻](http://blog.csdn.net/f1n4lly/).
 
-<a name="introductions-aws"></a>
+<a name="nfs"></a>
+### NFS
+
+* [NFS | PENETRATION TESTING ACADEMY](https://pentestacademy.wordpress.com/2017/09/20/nfs/?t=1&cn=ZmxleGlibGVfcmVjc18y&refsrc=email&iid=b34422ce15164e99a193fea0ccc7a02f&uid=1959680352&nid=244+289476616) - Written by [PENETRATION ACADEMY](https://pentestacademy.wordpress.com/).
+
+<a name="aws"></a>
 ### AWS
 
 * [PENETRATION TESTING AWS STORAGE: KICKING THE S3 BUCKET](https://rhinosecuritylabs.com/penetration-testing/penetration-testing-aws-storage/) - Written by Dwight Hohnstein from [Rhino Security Labs](https://rhinosecuritylabs.com/).
 
-<a name="introductions-fingerprint"></a>
+<a name="fingerprint"></a>
 ### Fingerprint
 
 * [浅谈Web客户端追踪](http://www.freebuf.com/articles/web/127266.html) - Written by [arkteam](http://www.freebuf.com/author/arkteam).
+
+<a name="crypto"></a>
+### Crypto
+
+* [Applied Crypto Hardening](https://bettercrypto.org/static/applied-crypto-hardening.pdf) - Written by [The bettercrypto.org Team](https://bettercrypto.org/).
 
 ### Books
 
@@ -271,15 +291,16 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [Three roads lead to Rome](http://blogs.360.cn/360safe/2016/11/29/three-roads-lead-to-rome-2/) - Written by [Luke Viruswalker](http://blogs.360.cn/360safe/author/xsecure/).
 * [Exploiting a V8 OOB write.](https://halbecaf.com/2017/05/24/exploiting-a-v8-oob-write/) - Written by [@halbecaf](https://twitter.com/halbecaf).
 * [FROM CRASH TO EXPLOIT: CVE-2015-6086 – OUT OF BOUND READ/ASLR BYPASS](http://payatu.com/from-crash-to-exploit/) - Written by [payatu](http://payatu.com/).
+* [SSD Advisory – Chrome Turbofan Remote Code Execution](https://blogs.securiteam.com/index.php/archives/3379) - Written by [SecuriTeam Secure Disclosure (SSD)](https://blogs.securiteam.com/).
 
 ## PoCs
 
 <a name="pocs-javascript"></a>
 ### JavaScript
 
-* [js-vuln-db ★961](https://github.com/tunz/js-vuln-db) - Collection of JavaScript engine CVEs with PoCs by [@tunz](https://github.com/tunz).
-* [awesome-cve-poc ★508](https://github.com/qazbnm456/awesome-cve-poc) - Curated list of CVE PoCs by [@qazbnm456](https://github.com/qazbnm456).
-* [Some-PoC-oR-ExP ★428](https://github.com/coffeehb/Some-PoC-oR-ExP) - 各种漏洞poc、Exp的收集或编写 by [@coffeehb](https://github.com/coffeehb).
+* [js-vuln-db ★1007](https://github.com/tunz/js-vuln-db) - Collection of JavaScript engine CVEs with PoCs by [@tunz](https://github.com/tunz).
+* [awesome-cve-poc ★613](https://github.com/qazbnm456/awesome-cve-poc) - Curated list of CVE PoCs by [@qazbnm456](https://github.com/qazbnm456).
+* [Some-PoC-oR-ExP ★460](https://github.com/coffeehb/Some-PoC-oR-ExP) - 各种漏洞poc、Exp的收集或编写 by [@coffeehb](https://github.com/coffeehb).
 
 ## Tools
 
@@ -294,62 +315,70 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [FOFA](https://fofa.so/) - 网络空间资产搜索引擎 by [白帽汇](http://baimaohui.net/).
 * [NSFOCUS](https://nti.nsfocus.com/) - THREAT INTELLIGENCE PORTAL by NSFOCUS GLOBAL.
 * [傻蛋联网设备搜索](https://www.oshadan.com/) - 监测互联网基础设施安全威胁 by [@傻蛋搜索](http://weibo.com/shadansou).
-* [gitrob ★1796](https://github.com/michenriksen/Gitrob) - Reconnaissance tool for GitHub organizations by [@michenriksen](https://github.com/michenriksen).
+* [gitrob ★1847](https://github.com/michenriksen/Gitrob) - Reconnaissance tool for GitHub organizations by [@michenriksen](https://github.com/michenriksen).
 * [raven ★275](https://github.com/0x09AL/raven) - raven is a Linkedin information gathering tool that can be used by pentesters to gather information about an organization employees using Linkedin by [@0x09AL](https://github.com/0x09AL).
 * [ReconDog ★116](https://github.com/UltimateHackers/ReconDog) - Recon Dog is an all in one tool for all your basic information gathering needs by [@UltimateHackers](https://github.com/UltimateHackers).
-* [AQUATONE ★572](https://github.com/michenriksen/aquatone) - Tool for Domain Flyovers by [@michenriksen](https://github.com/michenriksen).
+* [AQUATONE ★688](https://github.com/michenriksen/aquatone) - Tool for Domain Flyovers by [@michenriksen](https://github.com/michenriksen).
 * [domain_analyzer ★717](https://github.com/eldraco/domain_analyzer) - Analyze the security of any domain by finding all the information possible by [@eldraco](https://github.com/eldraco).
 * [VirusTotal domain information](https://www.virustotal.com/en/documentation/searching/#getting-domain-information) - Searching for domain information by [VirusTotal](https://www.virustotal.com/).
-* [Certificate Transparency ★447](https://github.com/google/certificate-transparency) - Google's Certificate Transparency project fixes several structural flaws in the SSL certificate system by [@google](https://github.com/google).
+* [Certificate Transparency ★457](https://github.com/google/certificate-transparency) - Google's Certificate Transparency project fixes several structural flaws in the SSL certificate system by [@google](https://github.com/google).
 * [Certificate Search](https://crt.sh/) - Enter an Identity (Domain Name, Organization Name, etc), a Certificate Fingerprint (SHA-1 or SHA-256) or a crt.sh ID to search certificate(s) by [@crtsh](https://github.com/crtsh).
 
 <a name="tools-code-generating"></a>
 ### Code Generating
 
-* [VWGen ★46](https://github.com/qazbnm456/VWGen) - Vulnerable Web applications Generator by [@qazbnm456](https://github.com/qazbnm456).
+* [VWGen ★48](https://github.com/qazbnm456/VWGen) - Vulnerable Web applications Generator by [@qazbnm456](https://github.com/qazbnm456).
 
 <a name="tools-fuzzing"></a>
 ### Fuzzing
 
-* [wfuzz ★783](https://github.com/xmendez/wfuzz) - Web application bruteforcer by [@xmendez](https://github.com/xmendez).
+* [wfuzz ★829](https://github.com/xmendez/wfuzz) - Web application bruteforcer by [@xmendez](https://github.com/xmendez).
 * [charsetinspect ★16 ⏳1Y](https://github.com/hack-all-the-things/charsetinspect) - Script that inspects multi-byte character sets looking for characters with specific user-defined properties by [@hack-all-the-things](https://github.com/hack-all-the-things).
-* [IPObfuscator ★57 ⏳1Y](https://github.com/OsandaMalith/IPObfuscator) - Simple too to convert the IP to a DWORD IP by [@OsandaMalith](https://github.com/OsandaMalith).
-* [wpscan ★2705](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner by [@wpscanteam](https://github.com/wpscanteam).
-* [JoomlaScan ★61](https://github.com/drego85/JoomlaScan) - Free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan by [@drego85](https://github.com/drego85).
-* [XSStrike ★344](https://github.com/UltimateHackers/XSStrike) - XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs by [@UltimateHackers](https://github.com/UltimateHackers).
-* [xssor2 ★979](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript by [@evilcos](https://github.com/evilcos).
+* [IPObfuscator ★59 ⏳1Y](https://github.com/OsandaMalith/IPObfuscator) - Simple too to convert the IP to a DWORD IP by [@OsandaMalith](https://github.com/OsandaMalith).
+* [wpscan ★2810](https://github.com/wpscanteam/wpscan) - WPScan is a black box WordPress vulnerability scanner by [@wpscanteam](https://github.com/wpscanteam).
+* [JoomlaScan ★77](https://github.com/drego85/JoomlaScan) - Free software to find the components installed in Joomla CMS, built out of the ashes of Joomscan by [@drego85](https://github.com/drego85).
+* [XSStrike ★412](https://github.com/UltimateHackers/XSStrike) - XSStrike is a program which can fuzz and bruteforce parameters for XSS. It can also detect and bypass WAFs by [@UltimateHackers](https://github.com/UltimateHackers).
+* [xssor2 ★1058](https://github.com/evilcos/xssor2) - XSS'OR - Hack with JavaScript by [@evilcos](https://github.com/evilcos).
 
 <a name="tools-penetrating"></a>
 ### Penetrating
 
 * [Burp Suite](https://portswigger.net/burp/) - Burp Suite is an integrated platform for performing security testing of web applications by [portswigger](https://portswigger.net/).
-* [mitmproxy ★8264](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers by [@mitmproxy](https://github.com/mitmproxy).
+* [mitmproxy ★8443](https://github.com/mitmproxy/mitmproxy) - Interactive TLS-capable intercepting HTTP proxy for penetration testers and software developers by [@mitmproxy](https://github.com/mitmproxy).
+
+<a name="tools-offensive"></a>
+### Offensive
+
+<a name="introductions-template-injection"></a>
+#### Template Injection
+
+* [tqlmap ★537](https://github.com/epinna/tplmap) - Code and Server-Side Template Injection Detection and Exploitation Tool by [@epinna](https://github.com/epinna).
 
 <a name="tools-leaking"></a>
 ### Leaking
 
-* [HTTPLeaks ★645](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests by [@cure53](https://github.com/cure53).
-* [dvcs-ripper ★563](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG... by [@kost](https://github.com/kost).
-* [DVCS-Pillage ★184](https://github.com/evilpacket/DVCS-Pillage) - Pillage web accessible GIT, HG and BZR repositories by [@evilpacket](https://github.com/evilpacket).
+* [HTTPLeaks ★727](https://github.com/cure53/HTTPLeaks) - All possible ways, a website can leak HTTP requests by [@cure53](https://github.com/cure53).
+* [dvcs-ripper ★583](https://github.com/kost/dvcs-ripper) - Rip web accessible (distributed) version control systems: SVN/GIT/HG... by [@kost](https://github.com/kost).
+* [DVCS-Pillage ★186](https://github.com/evilpacket/DVCS-Pillage) - Pillage web accessible GIT, HG and BZR repositories by [@evilpacket](https://github.com/evilpacket).
 * [GitMiner ★582](https://github.com/UnkL4b/GitMiner) - Tool for advanced mining for content on Github by [@UnkL4b](https://github.com/UnkL4b).
 
 <a name="tools-detecting"></a>
 ### Detecting
 
-* [sqlchop ★207](https://github.com/chaitin/sqlchop) - [DEPRECATED] Novel SQL injection detection engine built on top of SQL tokenizing and syntax analysis by [chaitin](http://chaitin.com).
-* [retire.js ★1257](https://github.com/RetireJS/retire.js) - Scanner detecting the use of JavaScript libraries with known vulnerabilities by [@RetireJS](https://github.com/RetireJS).
-* [malware-jail ★185](https://github.com/HynekPetrak/malware-jail) - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction by [@HynekPetrak](https://github.com/HynekPetrak).
-* [repo-supervisor ★56](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets.
+* [sqlchop ★214](https://github.com/chaitin/sqlchop) - [DEPRECATED] Novel SQL injection detection engine built on top of SQL tokenizing and syntax analysis by [chaitin](http://chaitin.com).
+* [retire.js ★1337](https://github.com/RetireJS/retire.js) - Scanner detecting the use of JavaScript libraries with known vulnerabilities by [@RetireJS](https://github.com/RetireJS).
+* [malware-jail ★202](https://github.com/HynekPetrak/malware-jail) - Sandbox for semi-automatic Javascript malware analysis, deobfuscation and payload extraction by [@HynekPetrak](https://github.com/HynekPetrak).
+* [repo-supervisor ★72](https://github.com/auth0/repo-supervisor) - Scan your code for security misconfiguration, search for passwords and secrets.
 
 <a name="tools-preventing"></a>
 ### Preventing
 
-* [js-xss ★1572](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist by [@leizongmin](https://github.com/leizongmin).
+* [js-xss ★1632](https://github.com/leizongmin/js-xss) - Sanitize untrusted HTML (to prevent XSS) with a configuration specified by a Whitelist by [@leizongmin](https://github.com/leizongmin).
 
 <a name="tools-webshell"></a>
 ### Webshell
 
-* [webshell ★2265](https://github.com/tennc/webshell) - This is a webshell open source project by [@tennc](https://github.com/tennc).
+* [webshell ★2416](https://github.com/tennc/webshell) - This is a webshell open source project by [@tennc](https://github.com/tennc).
 * [Weevely ★997](https://github.com/epinna/weevely3) - Weaponized web shell by [@epinna](https://github.com/epinna).
 * [Webshell-Sniper ★56](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
 
@@ -357,14 +386,14 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 ### Disassembler
 
 * [plasma ★2484](https://github.com/plasma-disassembler/plasma) - Plasma is an interactive disassembler for x86/ARM/MIPS by [@plasma-disassembler](https://github.com/plasma-disassembler).
-* [radare2 ★5192](https://github.com/radare/radare2) - Unix-like reverse engineering framework and commandline tools by [@radare](https://github.com/radare).
-* [Iaitō ★1576](https://github.com/hteso/iaito) - Qt and C++ GUI for radare2 reverse engineering framework by [@hteso](https://github.com/hteso).
+* [radare2 ★5530](https://github.com/radare/radare2) - Unix-like reverse engineering framework and commandline tools by [@radare](https://github.com/radare).
+* [Iaitō ★1640](https://github.com/hteso/iaito) - Qt and C++ GUI for radare2 reverse engineering framework by [@hteso](https://github.com/hteso).
 
 <a name="tools-others"></a>
 ### Others
 
 * [Dnslogger](https://wiki.skullsecurity.org/index.php?title=Dnslogger) - DNS Logger by [@iagox86](https://github.com/iagox86).
-* [CyberChef ★2861](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis - by [@GCHQ](https://github.com/gchq).
+* [CyberChef ★2928](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis - by [@GCHQ](https://github.com/gchq).
 
 ## Social Engineering Database
 
@@ -382,6 +411,9 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [Blog of Osanda](https://osandamalith.com/) - Security Researching and Reverse Engineering.
 * [BRETT BUERHAUS](https://buer.haus/) - Vulnerability disclosures and rambles on application security.
 * [n0tr00t](https://www.n0tr00t.com/) - ~# n0tr00t Security Team.
+* [OpnSec](https://opnsec.com/) - Open Mind Security!
+* [LoRexxar](https://lorexxar.cn/) - 带着对技术的敬畏之心成长，不安于一隅...
+* [Wfox](http://sec2hack.com/) - 技术宅，热衷各种方面。
 
 ## Twitter Users
 
@@ -413,19 +445,19 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 ## Miscellaneous
 
-* [awesome-bug-bounty ★436](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
-* [bug-bounty-reference ★388](https://github.com/ngalongc/bug-bounty-reference) - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc).
+* [awesome-bug-bounty ★496](https://github.com/djadmin/awesome-bug-bounty) - Comprehensive curated list of available Bug Bounty & Disclosure Programs and write-ups by [@djadmin](https://github.com/djadmin).
+* [bug-bounty-reference ★435](https://github.com/ngalongc/bug-bounty-reference) - List of bug bounty write-up that is categorized by the bug nature by [@ngalongc](https://github.com/ngalongc).
 * [Google VRP and Unicorns](https://sites.google.com/site/bughunteruniversity/behind-the-scenes/presentations/google-vrp-and-unicorns) - Written by [Daniel Stelter-Gliese](https://www.linkedin.com/in/daniel-stelter-gliese-170a70a2/).
 * [如何正確的取得使用者 IP ？](http://devco.re/blog/2014/06/19/client-ip-detection/) - Written by [Allen Own](http://devco.re/blog/author/allenown).
-* [1000php ★277 ⏳1Y](https://github.com/Xyntax/1000php) - 1000个PHP代码审计案例(2016.7以前乌云公开漏洞) by [@Xyntax](https://github.com/Xyntax).
+* [1000php ★289 ⏳1Y](https://github.com/Xyntax/1000php) - 1000个PHP代码审计案例(2016.7以前乌云公开漏洞) by [@Xyntax](https://github.com/Xyntax).
 * [Brute Forcing Your Facebook Email and Phone Number](http://pwndizzle.blogspot.jp/2014/02/brute-forcing-your-facebook-email-and.html) - Written by [PwnDizzle](http://pwndizzle.blogspot.jp/).
 * [GITLEAKS](https://gitleaks.com/) - Search engine for exposed secrets on lots of places.
 * [Pentest + Exploit dev Cheatsheet wallpaper](http://i.imgur.com/Mr9pvq9.jpg) - Penetration Testing and Exploit Dev CheatSheet.
 * [Hunting for Web Shells](https://www.tenable.com/blog/hunting-for-web-shells) - Written by [Jacob Baines](https://www.tenable.com/profile/jacob-baines).
 * [The Definitive Security Data Science and Machine Learning Guide](http://www.covert.io/the-definitive-security-datascience-and-machinelearning-guide/) - Written by JASON TROS.
-* [EQGRP ★3248](https://github.com/x0rz/EQGRP) - Decrypted content of eqgrp-auction-file.tar.xz by [@x0rz](https://github.com/x0rz).
+* [EQGRP ★3286](https://github.com/x0rz/EQGRP) - Decrypted content of eqgrp-auction-file.tar.xz by [@x0rz](https://github.com/x0rz).
 * [Browser Extension and Login-Leak Experiment](https://extensions.inrialpes.fr/) - Browser Extension and Login-Leak Experiment.
-* [notes ★1086](https://github.com/ChALkeR/notes) - Some public notes by [@ChALkeR](https://github.com/ChALkeR).
+* [notes ★1098](https://github.com/ChALkeR/notes) - Some public notes by [@ChALkeR](https://github.com/ChALkeR).
 * [The Art of Subdomain Enumeration](https://blog.sweepatic.com/art-of-subdomain-enumeration/) - Written by [Patrik Hudak](https://blog.sweepatic.com/author/patrik/).
 
 ## Code of Conduct

@@ -7,7 +7,7 @@ title: Awesome Rank for wbkd/awesome-d3
 	This list is a copy of <a href="https://github.com/wbkd/awesome-d3">wbkd/awesome-d3</a> with ranks
 </p>
 ---
-# Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities.
 <br />We decided not to list tutorials, resources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials)** out there you can check out and contribute to.
@@ -30,10 +30,10 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
 - [d3.chart.sankey ★66](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
 - [d3-bar ★138](https://github.com/tj/d3-bar) - Bar chart
-- [d3-beeswarm ★13](https://github.com/Kcnarf/d3-beeswarm) - Plugin which computes a beeswarm arrangement
+- [d3-beeswarm ★14](https://github.com/Kcnarf/d3-beeswarm) - Plugin which computes a beeswarm arrangement
 - [d3-bumps-chart ★1](https://github.com/johnwalley/d3-bumps-chart) - Plugin for visualizing bumps charts
 - [d3-circle ★112](https://github.com/tj/d3-circle) - Circle chart
-- [d3-dot ★113](https://github.com/tj/d3-dot) - Dot chart
+- [d3-dot ★113 ⏳1Y](https://github.com/tj/d3-dot) - Dot chart
 - [d3-heatmap ★193 ⏳1Y](https://github.com/tj/d3-heatmap) - Heatmap
 - [d3-line ★105](https://github.com/tj/d3-line) - Line chart
 - [d3-flame-graph ★221](https://github.com/spiermar/d3-flame-graph) - Flame graphs from hierarchical data
@@ -58,22 +58,22 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [micropolar](http://micropolar.org/) - A polar chart library
 - [mpld3](http://mpld3.github.io/) - Export matplotlib graphics to work in the Browser
-- [neo4jd3 ★59](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
+- [neo4jd3 ★83](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components
 - [peek](http://mtmacdonald.github.io/peek) - Object-oriented chart library
 - [plotly ★6798](https://github.com/plotly/plotly.js) - High level charting library
 - [plottablejs](http://plottablejs.org/) - Flexible, interactive charts for the web
 - [pykcharts](https://pykih.com/products/pykCharts) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart ★298](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
-- [rickshaw ★6080](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
+- [rickshaw ★6101](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](https://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [techanjs](http://techanjs.org/) - A visual, stock charting and technical analysis
 - [uvCharts](http://imaginea.github.io/uvCharts/index.html)  - Supports lots of different chart types
 - [vega](http://trifacta.github.io/vega/) - A visualization grammar
 - [vega-lite](https://vega.github.io/vega-lite/) - A high-level grammar of interactive graphics
-- [venn.js ★513](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
-- [visavail ★72](https://github.com/flrs/visavail) - Time data availability visualization
+- [venn.js ★525](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
+- [visavail ★78](https://github.com/flrs/visavail) - Time data availability visualization
 - [vizabi](https://github.com/Gapminder/vizabi) - A framework for building visual data exploration tools
 - [xkcdgraphs ★300 ⏳2Y](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs
 
@@ -84,7 +84,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 simplecharts](https://wordpress.org/plugins/d3-simplecharts/) - A d3 wordpress plugin
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
 - [n3-charts](http://n3-charts.github.io/line-chart/#/) - Charts for Angular
-- [nivo ★1386](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability
+- [nivo ★1697](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability
 - [numberpicture](http://numberpicture.com/library) - Collection of React components for composing visualizations
 - [react-d3 ★1653 ⏳1Y](https://github.com/esbullington/react-d3) - Charts for React
 - [react-d3-components ★1264](https://github.com/codesuki/react-d3-components) - D3 Components
@@ -92,7 +92,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [react-stockcharts](http://rrag.github.io/react-stockcharts) - Highly customizable stock charts
 - [react-vis](https://github.com/uber-common/react-vis) - A collection of react components to render common data visualization charts
 - [recharts](http://recharts.org/) - Re-designed charting library built with React
-- [semiotic ★442](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3
+- [semiotic ★817](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3
 - [victory ★4941](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [vx ★2751](https://github.com/hshoff/vx) - Visualization components for React
 
@@ -138,7 +138,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-iconarray ★54 ⏳1Y](https://github.com/tomgp/d3-iconarray) - A plug-in for aligning elements in grids
 - [d3-kit ★331](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development
 - [d3-Labeler ★144 ⏳1Y](https://github.com/tinker10/D3-Labeler) - Plug-in for automatic label placement
-- [d3-lasso ★51](https://github.com/skokenes/d3-lasso) - tag elements on a page by drawing a line over or around objects
+- [d3-lasso ★51 ⏳1Y](https://github.com/skokenes/d3-lasso) - tag elements on a page by drawing a line over or around objects
 - [d3-legend](http://d3-legend.susielu.com/) - Legend helper
 - [d3-loom ★47](https://github.com/nbremer/d3-loom) - Plugin to create a "loom" visualization
 - [d3-nelson-rules](https://github.com/kiernanmcgowan/d3-nelson-rules) - Utility to apply nelsons rules of process control to a set of data
@@ -169,7 +169,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [comic.js ★107 ⏳1Y](https://github.com/balint42/comic.js) - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
 - [dragit ★151 ⏳1Y](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
 - [d3moji ★100](https://github.com/mathisonian/d3moji) - First class emoji support
-- [d3-cloud ★2181](https://github.com/jasondavies/d3-cloud) - Word clouds
+- [d3-cloud ★2210](https://github.com/jasondavies/d3-cloud) - Word clouds
 - [d3-context-menu ★63](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 - [d3-force-gravity ★17 ⏳1Y](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion) using d3-force
 - [d3-resume ★24 ⏳2Y](https://github.com/glena/d3-resume) - Resume visualizer
@@ -187,6 +187,28 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 ## Code Editors
 - [Snippets for Atom ★30](https://github.com/martgnz/d3-snippets)
 - [Snippets for Sublime Text 2 ★12 ⏳3Y](https://github.com/fabriciotav/d3-snippets-for-sublime-text-2)
+
+## Bl.ocks.org Profiles
+
+ * [Adam Pearce - 1wheel](https://bl.ocks.org/1wheel)
+ * [Colin Eberhardt - ColinEberhardt](https://bl.ocks.org/ColinEberhardt)
+ * [Harry Stevens - HarryStevens](https://bl.ocks.org/HarryStevens)
+ * [Luis Sevillano - LuisSevillano](https://bl.ocks.org/LuisSevillano)
+ * [Peter Cook - d3indepth](https://bl.ocks.org/d3indepth)
+ * [Elijah Meeks - emeeks](https://bl.ocks.org/emeeks)
+ * [Ian Johnson - enjalot](https://bl.ocks.org/enjalot)
+ * [Philippe Rivière - fil](https://bl.ocks.org/fil)
+ * [Mike Bostock - mbostock](https://bl.ocks.org/mbostock)
+ * [Micah Stubbs - micahstubbs](https://bl.ocks.org/micahstubbs)
+ * [Nadieh Bremer - nbremer](https://bl.ocks.org/nbremer)
+ * [Matteo Abrate - nitaku](https://bl.ocks.org/nitaku)
+ * [Susie Lu - susielu](https://bl.ocks.org/susielu)
+ * [Shirley Wu - sxywu](https://bl.ocks.org/sxywu)
+ * [Kai Chang - syntagmatic](https://bl.ocks.org/syntagmatic)
+ * [Tom Shanley - tomshanley](https://bl.ocks.org/tomshanley)
+ * [Vasco Asturiano - vasturiano](https://bl.ocks.org/vasturiano)
+ * [Noah Veltman - veltman](https://bl.ocks.org/veltman)
+ * [Zan Armstrong - zanarmstrong](https://bl.ocks.org/zanarmstrong)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/wbkd/awesome-d3">wbkd/awesome-d3</a> with ranks

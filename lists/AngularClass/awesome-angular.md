@@ -13,7 +13,7 @@ title: Awesome Rank for AngularClass/awesome-angular
   </a>
 </p>
 
-# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
+# Awesome Angular [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/AngularClass/awesome-angular.svg?branch=gh-pages)](https://travis-ci.org/AngularClass/awesome-angular)
 
 Awesome list of [Angular 2 and Angular 4](https://angular.io/) seed repos, starters, boilerplates, examples, tutorials, components, modules, videos, and anything else in the Angular ecosystem. [View as github page.](https://angularclass.github.io/awesome-angular/)
 
@@ -460,7 +460,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Cloudinary](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
 * [angular2-simple-countdown ★18](https://github.com/previousdeveloper/angular2-simple-countdown) - a simple countdown angular2 directive with multiple language
 * [ng-http-cache ★17](https://github.com/davguij/angular-http-cache) - Speed up your remote requests by automatically caching them on client.
-* [ng-animate ★64](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
+* [ng-animate ★96](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
 * [lottie-angular2 ★78](https://github.com/chenqingspring/ng-lottie) - Render After Effects animations on Angular2 based on Bodymovin.
 * [ngx-restangular ★460](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
 * [ngfb-sortable-table ★15](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
@@ -479,10 +479,12 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-qrcode2 ★23](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes 
 * [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission` ★1089](https://github.com/Narzerus/angular-permission).
 * [ng-s-resource ★2](https://github.com/hiyali/ng-s-resource) - Simplify RESTful http resource generator for Angular 4+.
-* [ngx-siema ★29](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.
+* [ngx-siema ★35](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team
 * [ng-snotify ★93](https://github.com/artemsky/ng-snotify) - Angular 4 Notification Center
-
+* [ngx-permissions ★64](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
+* [nebular ★430](https://github.com/akveo/nebular) - Full-featured framework based on Angular
+                                                                        
 #### Site Templates
 * [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light ★26](https://github.com/YagoLopez/material-light). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](http://yagolopez.js.org/ng-dashboard/dist/)
 
@@ -507,7 +509,7 @@ Http is available as an injectable class, with methods to perform http requests.
     * [ngx-rocket/core ★2](https://github.com/ngx-rocket/core)
 * Dart
   * Stagehand
-    * [google/stagehand ★204](https://github.com/google/stagehand)
+    * [google/stagehand](https://github.com/google/stagehand)
 
 #### Documentation tools
 
@@ -563,7 +565,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [ng-skeleton ★30](https://github.com/born2net/ng-skeleton) - The ultimate Angular seed with ngrx, bootstrap and two factor auth
 * [angular2-demo ★89 ⏳1Y](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 * [Angular 2 Dashboard Starter ★103](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
-* [ng2-admin ★7599](https://github.com/akveo/ng2-admin) - Beautiful admin panel framework based on Angular 2, Bootstrap 4 and Webpack
+* [ngx-admin ★8048](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
 * [Angular 2 quickstart seed ★85](https://github.com/valor-software/angular2-quickstart)
 * [Angular 2 full code coverage ★16](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit testing and full code coverage
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
@@ -574,7 +576,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular NPM Module Seed ★34](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
 * [Angular2 D3v4 Seed ★10](https://github.com/gp187/angular2-d3v4-graph) - Angular2 D3v4 implementation of charts, graphs, area and view porting seed project
 * [ng-seed/spa](https://github.com/ng-seed/spa) - Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
-* [Reboard ★4](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
+* [Reboard ★9](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 
@@ -631,7 +633,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 
 #### Traceur General Resources
 
-* [Traceur Repository (GitHub) ★7381 ⏳1Y](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
+* [Traceur Repository (GitHub) ★7422 ⏳1Y](https://github.com/google/traceur-compiler) Official GitHub Repo for Traceur
 
 #### Traceur Seed Projects
 
@@ -646,7 +648,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 #### Babel General Resources
 * [Babel](https://babeljs.io/) Official Website for Babel
 * [REPL](https://babeljs.io/repl/) Official Babel REPL that runs entirely in your browser
-* [Babel Repository (GitHub) ★22144](https://github.com/babel/babel) Official GitHub Repo for Babel
+* [Babel Repository (GitHub) ★22528](https://github.com/babel/babel) Official GitHub Repo for Babel
 
 #### Babel Angular 2 Online Playground
 * [Plunker: Angular 2 + Babel](http://plnkr.co/edit/PxCzCu?p=preview)
@@ -762,7 +764,7 @@ Apache Cordova is a popular mobile application development framework using CSS3,
 > Bit is an open source virtual repository (code base) built to make components easily manageable and usable across applications. You can quickly export any Angular component from any context while working on any project to a bit distributed Scope. Bit's reusbale component environment cuts the overhead of configuring build and test environments for exporting every new component. The Scope is a virtual component repository which stores, organizes, manages and tests your components. Once modeled on a Scope, your components can be easily found and used in any Angular application. Components can be organized together and still modified and used individually without pulling in entire libraries.
 
 ##### Bit Resources
-* [Bit ★672](https://github.com/teambit/bit)
+* [Bit ★693](https://github.com/teambit/bit)
 * [Bit-Javascript ★11](https://github.com/teambit/bit-javascript)
 * [bitsrc](https://bitsrc.io/) - Free community hub for sharing, managing and finding open source components. 
 

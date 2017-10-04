@@ -7,7 +7,7 @@ title: Awesome Rank for LucasBassetti/awesome-less
 	This list is a copy of <a href="https://github.com/LucasBassetti/awesome-less">LucasBassetti/awesome-less</a> with ranks
 </p>
 ---
-# Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Less [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 [<img src="https://cdn.rawgit.com/LucasBassetti/awesome-less/14437854/less-logo.svg" align="right" height="80">](http://lesscss.org/)
 
@@ -70,7 +70,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [CSSHórus ★74 ⏳3Y](https://github.com/firminoweb/csshorus) - 	Library for development of responsive and mobile websites.
 - [Flat UI Free](http://designmodo.github.io/Flat-UI/) - Theme and framework for Bootstrap.
 - [JBST](http://jbst.eu/) - Theme framework that can be used as a standalone website builder or to create WordPress themes.
-- [Less Rails ★346](https://github.com/metaskills/less-rails) - Less for Rails.
+- [Less Rails ★347](https://github.com/metaskills/less-rails) - Less for Rails.
 - [Material Design for Bootstrap ★18625](https://github.com/FezVrasta/bootstrap-material-design) - Material Design for Bootstrap is a Bootstrap V3 compatible theme; it is an easy way to use the new Material Design guidelines by Google in your Bootstrap 3 based application.
 - [Metro UI CSS](http://metroui.org.ua/) - Set of styles to create a site with an interface similar to Windows 8.
 - [Schema](http://danmalarkey.github.io/schema/) - 	Light, responsive, and lean frontend UI framework.
@@ -88,7 +88,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Framework ★729](https://github.com/jonikorpi/Less-Framework) - Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.
 - [Flexible Grid System](http://flexible.gs/) - This framework will let you create your web applications in a flexible way that you've never experienced before.
 - [Fluidable](http://fluidable.com/) - Fluidable is a mobile first, responsive grid system. It is standalone, lightweight & built using Less.
-- [Grid System ★5 ⏳1Y](https://github.com/goodpixels/less-grid-system) - Super-easy to use, markup-independent grid system.
+- [Grid System ★5 ⏳2Y](https://github.com/goodpixels/less-grid-system) - Super-easy to use, markup-independent grid system.
 - [Less Zen Grid](https://github.com/bassjobsen/LESS-Zen-Grid) - Implementation of [Zen Grids ★247](https://github.com/JohnAlbin/zen-grids) in Less.
 - [Order.Less ★20](https://github.com/chromice/order.less) - Baseline alignment, column grids and modular scales.
 
@@ -140,7 +140,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [Oban](http://oban.io/) - 	Collection of mixins.
 - [Preboot ★1741 ⏳1Y](https://github.com/mdo/preboot) - Collection of mixins and variables for writing better CSS.
 - [Retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
-- [Shape ★34 ⏳3Y](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes.
+- [Shape ★34 ⏳4Y](https://github.com/fahad19/shape.less) - Collection of mixins for various shapes.
 - [TRRtoolbelt ★2 ⏳3Y](https://github.com/therebelrobot/tRRtoolbelt.less) - Mixins and functions for common actions.
 
 **[Back to top](#contents)**
@@ -220,7 +220,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 - [LiveReload](http://livereload.com/) - CSS edits and image changes apply live. CoffeeScript, SASS, Less and others just work.
 - [SimpleLess](https://wearekiss.com/simpless) - SimpleLess is a minimalistic Less compiler. Just drag, drop and compile.
 - [Sublime Less2CSS ★205](https://github.com/timdouglas/sublime-less2css) - Sublime Text 2 Plugin to compile Less files to css on save.
-- [SublimeOnSaveBuild ★225](https://github.com/alexnj/SublimeOnSaveBuild) - Trigger a build the moment you save a file in Sublime Text 2. Works best with web projects that make use of Less, Compass and any other pre-processor or a makefile.
+- [SublimeOnSaveBuild ★225 ⏳1Y](https://github.com/alexnj/SublimeOnSaveBuild) - Trigger a build the moment you save a file in Sublime Text 2. Works best with web projects that make use of Less, Compass and any other pre-processor or a makefile.
 - [Vim Less ★593 ⏳1Y](https://github.com/groenewege/vim-less) - This vim bundle adds syntax highlighting, indenting and autocompletion.
 - [Visual Studio Web Essentials](http://vswebessentials.com/) - If you ever write CSS, HTML, JavaScript, TypeScript, CoffeeScript or Less, then you will find many useful features that make your life as a developer easier.
 - [Winless](http://lesscss.org/usage/#editors-and-plugins) - WinLess started out as a clone of Less.app, it takes a more feature-complete approach and has several settings. It also supports starting with command line arguments.

@@ -7,7 +7,7 @@ title: Awesome Rank for johnjago/awesome-free-software
 	This list is a copy of <a href="https://github.com/johnjago/awesome-free-software">johnjago/awesome-free-software</a> with ranks
 </p>
 ---
-# Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Free Software [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 [<img src="https://static.fsf.org/nosvn/stickers/gnu.svg" alt="GNU" align="right" width="205">](https://www.gnu.org/)
 
@@ -223,6 +223,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 > Libre-friendly.
 
 - [Libiquity](http://www.libiquity.com/) - Company that designs and develops embedded software and firmware systems.
+- [Raptor Computing Systems](https://raptorcs.com/) - Desktops, motherboards, and other parts utilizing the IBM POWER9 processor and OpenBMC firmware.
 - [Technoethical](https://tehnoetic.com/) - Laptops, adapters, and mobile devices compatible with free operating systems.
 - [ThinkPenguin](https://www.thinkpenguin.com/) - Provider of modern laptops, desktops, and printers that contain no proprietary software.
 - [Vikings](https://vikings.net/) - Hosting company powered by Libreboot firmware, libre software, and green energy.

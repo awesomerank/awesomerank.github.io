@@ -7,7 +7,7 @@ title: Awesome Rank for aframevr/awesome-aframe
 	This list is a copy of <a href="https://github.com/aframevr/awesome-aframe">aframevr/awesome-aframe</a> with ranks
 </p>
 ---
-# awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A collection of awesome resources for the [A-Frame](https://aframe.io) WebVR
 framework.
@@ -114,7 +114,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Along Path ★19](https://github.com/protyze/aframe-alongpath-component) - Interpolating an entity's position along a path
 - [Always Fullscreen ★10](https://github.com/protyze/aframe-always-fullscreen-component) - Provide ways to enable Fullscreen on iOS (Scroll to Minimal-UI) and Android/Desktop (Fullscreen API)
 - [Ammo Physics Component](https://github.com/jeromeetienne/threex.ammo) - Library integrating [three.js](https://threejs.org/) and [ammo.js ★1182](https://github.com/kripken/ammo.js) to enable physics in objects
-- [Animation](https://ngokevin.github.io/aframe-animation-component) - New and improved animation system using components. [[Code] ★15](https://github.com/ngokevin/aframe-animation-component)
+- [Animation](https://ngokevin.github.io/aframe-animation-component) - New and improved animation system using components. [[Code] ★15 ⏳1Y](https://github.com/ngokevin/aframe-animation-component)
 - [Asset Lazy Load ★12 ⏳1Y](https://github.com/youmustfight/aframe-asset-lazy-load) - Assign asset loading order and delays
 - [Asset On-Demand ★10](https://github.com/protyze/aframe-asset-on-demand-component) - Load Assets dynamically when needed (and properly clean them up if not)
 - [Audio Visualizer ★17](https://github.com/ngokevin/aframe-audio-visualizer-components) - Audio visualizations using WebAudio API
@@ -129,12 +129,12 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Daydream Controller ★21](https://github.com/ryanbetts/aframe-daydream-controller-component) - Daydream controls
 - [Drag Look ★7](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
 - [Draw ★42](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
-- [Entity Generator ★4](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
+- [Entity Generator ★4 ⏳1Y](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
 - [Event Set ★8 ⏳1Y](https://github.com/ngokevin/aframe-event-set-component) - Set properties in response to events, replacement for declarative events
 - [Extras ★255](https://github.com/donmccurdy/aframe-extras) - Don's collection of A-Frame components
 - [Extrude and Lathe ★11](https://github.com/JosePedroDias/aframe-extrude-and-lathe) - Extrude and lathe geometries
 - [Faceset ★3](https://github.com/andreasplesch/aframe-faceset-component) - Geometry from vertices and faces
-- [Fence ★4](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
+- [Fence ★4 ⏳1Y](https://github.com/atomicguy/aframe-fence-component) - Set boundaries on entity position
 - [Firebase ★31](https://github.com/ngokevin/aframe-firebase-component) - Multiuser with Firebase
 - [Fit Texture ★10](https://github.com/nylki/aframe-fit-texture-component) - Automatically scale entities relative to their texture, so you don't need to set width/height manually
 - [Force-directed Graph](https://github.com/vasturiano/aframe-forcegraph-component) - Represent a graph data structure in a 3D force-directed iterative layout, using [d3-force-3d ★35](https://github.com/vasturiano/d3-force-3d) for the physics simulation engine.
@@ -153,7 +153,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [k-frame](https://github.com/ngokevin/k-frame) - Kevin's collection of A-Frame components
 - [Keyboard ★5 ⏳1Y](https://github.com/richardanaya/aframe-keyboard) - Full VR keyboard for use with WebVR controllers
 - [L-System ★25](https://github.com/nylki/aframe-lsystem-component) - Render [Lindenmayer](https://en.wikipedia.org/wiki/L-system) systems
-- [Layout ★29](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
+- [Layout ★29 ⏳1Y](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
 - [Leap Hands ★93](https://github.com/openleap/aframe-leap-hands) - [Leap Motion](https://www.leapmotion.com/) controller support
 - [Lens Flare ★6](https://github.com/mokargas/aframe-lensflare-component) - Lens flare
 - [Look-At and Billboard ★7](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera
@@ -177,7 +177,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [PLY Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.PLY` models, wrapping [`THREE.PLYLoader`](https://threejs.org/examples/webgl_loader_ply.html)
 - [Polygon ★3 ⏳1Y](https://github.com/andreasplesch/aframe-polygon-primitive) - `n`-sided polygons
 - [Proxy Controls](https://proxy-controls.donmccurdy.com/) - Connect input devices from your desktop to your mobile phone with [WebRTC data channels](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Using_data_channels)
-- [Randomizer ★5](https://github.com/ngokevin/aframe-randomizer-components) - Set random values
+- [Randomizer ★5 ⏳1Y](https://github.com/ngokevin/aframe-randomizer-components) - Set random values
 - [Scatterplot ★9](https://github.com/zcanter/aframe-scatterplot) - Scatterplot data visualization
 - [Selectable ★9 ⏳1Y](https://github.com/scenevr/selectable-component) by [@scenevr](https://twitter.com/scenevr) - Click on an entity to select it (handy for editors)
 - [Shake-to-Show ★5](https://github.com/rdub80/aframe-shake2show-component) - Using shake.js to toggle UI
@@ -195,7 +195,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [THREE Loader](https://github.com/donmccurdy/aframe-extras/tree/master/src/loaders) - Model loader for `.json` models, wrapping THREE.JSONLoader and THREE.ObjectLoader
 - [Trigger Box ★5](https://github.com/Utopiah/aframe-triggerbox-component) - A component that emits an event when it enters or leaves a predefined area
 - [Tube](https://github.com/donmccurdy/aframe-extras/blob/master/src/primitives/a-tube.js) - Cylindrical primitive that shapes itself to a given path
-- [UI Components ★19](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI
+- [UI Components ★19 ⏳1Y](https://github.com/gmarty/aframe-ui-components) - A collection of components related to UI
 - [UI Modal ★17](https://github.com/IdeaSpaceVR/aframe-ui-modal-component) - Show dialog box or a menu in front of the camera
 - [UI Widgets ★45](https://github.com/caseyyee/aframe-ui-widgets) - Another set of UI components, including buttons, switchs, sliders, and knobs
 - [Universal Controls](https://github.com/donmccurdy/aframe-extras/tree/master/src/controls) - Refactored A-Frame controls that supports gamepad, HMD, keyboard, mouse + pointerlock, touch-to-move, with [physics ★80](https://github.com/donmccurdy/aframe-physics-system) compatibility
@@ -228,7 +228,7 @@ Integration with existing tools, frameworks, and libraries.
 - [aframe-d3-3d-bars-example](http://cjroth.com/aframe-d3-3d-bars-example/) - An example of a 3D bar chart using D3 and Aframe.
 - [aframe-phantomjs-continuous-streaming ★29](https://github.com/cjroth/aframe-phantomjs-continuous-streaming) - Browse the web in VR by live streaming a web page into A-Frame using PhantomJS and ffmpeg
 - [aframe-keyboard ★11](https://github.com/cjroth/aframe-keyboard) - A virtual-reality keyboard and text editor in A-Frame
-- [Virtual World Framework](https://github.com/NikolaySuslov/livecodingspace) - A-Frame with [Virtual World Framework ★125](https://github.com/virtual-world-framework/vwf), a JavaScript app framework for building collaborative, immersive applications with live coding support
+- [Virtual World Framework](https://github.com/NikolaySuslov/livecodingspace) - A-Frame with [Virtual World Framework ★126](https://github.com/virtual-world-framework/vwf), a JavaScript app framework for building collaborative, immersive applications with live coding support
 
 ### Scenes
 

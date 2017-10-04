@@ -9,7 +9,7 @@ title: Awesome Rank for filipelinhares/awesome-slack
 ---
 ![Awesome Slack](https://github.com/filipelinhares/awesome-slack/blob/master/images/logo.jpg)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/filipelinhares/awesome-slack.svg)](https://travis-ci.org/filipelinhares/awesome-slack)
 
 A list of communities about web development and design that are powered by [Slack](https://slack.com/).
@@ -20,7 +20,6 @@ A list of communities about web development and design that are powered by [Slac
 
 ## Development
 - [Ember](https://ember-community-slackin.herokuapp.com/)
-- [NodeJS](http://nodeslackers.io/)
 - [Laravel](https://larachat.co/)
 - [Ruby](https://rubydevelopers.typeform.com/to/l7WVWl)
 - [Front end](http://frontenddevelopers.org/)
@@ -28,15 +27,12 @@ A list of communities about web development and design that are powered by [Slac
 - [GO](https://docs.google.com/forms/d/e/1FAIpQLScNsNXbz2SCLH5hVNoZS0C70nPAXv730SW9F3K1g6iVvlcUTg/viewform?fbzx=4754263898376949596)
 - [PHP Chat](https://phpchat.co)
 - [Polymer](http://polymer-slack.herokuapp.com/)
-- [Phalcon](http://slack.phalconphp.com)
 - [Clojure](http://clojurians.net/)
 - [iOS Developers](http://ios-developers.io/)
 - [Elixir](https://elixir-slackin.herokuapp.com/)
 - [DevOps](https://devopschat.co/)
-- [slashrocket](https://slashrocket.io/)
 - [Cordova](http://slack.cordova.io/)
 - [Atom](http://atom-slack.herokuapp.com/)
-- [Quokka CMS](https://quokkaslack.herokuapp.com/)
 - [#ruby, #python, #nodejs, #php, #go, #fed](http://www.hashtagdevelopers.com/)
 
 
@@ -46,11 +42,10 @@ A list of communities about web development and design that are powered by [Slac
 - [Chicago Tech Slack](http://www.chicagotechslack.com/)
 - [Python Brazilian Community](http://slack-pythonbrasil.herokuapp.com/)
 - [Python São Paulo Community](http://grupysp.herokuapp.com/)
-- [Python Curitiba Community](http://grupypr.herokuapp.com/)
 - [Russian-speaking developers community](https://rusdevs.herokuapp.com/)
 - [Kazan Developers](https://devkzn.slack.com/)
 - [Polish developers](http://slackin.devstyle.pl/)
-- [Spanish-speaking developer communities list ★45](https://github.com/esebastian/awesome-spanish-slack-dev-groups)
+- [Spanish-speaking developer communities list ★46](https://github.com/esebastian/awesome-spanish-slack-dev-groups)
 
 ## Design
 - [Sketch](http://teamsketch.io/)
@@ -75,7 +70,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
 
 ## Looking for more lists like that?
-- [Awesome ★63835](https://github.com/sindresorhus/awesome)
+- [Awesome ★65640](https://github.com/sindresorhus/awesome)
 - [Awesome Community](https://github.com/peterkokot/awesome-community)
 
 ## Contribute

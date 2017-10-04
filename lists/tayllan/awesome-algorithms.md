@@ -77,48 +77,48 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
-* [C ★916](https://github.com/fragglet/c-algorithms)
+* [C ★953](https://github.com/fragglet/c-algorithms)
 * [CoffeeScript ★35](https://github.com/BrunoRB/algorithms.coffee)
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
     * [by @aalhour ★1247](https://github.com/aalhour/C-Sharp-Algorithms)
     * [by @justcoding121 ★8](https://github.com/justcoding121/Advanced-Algorithms)
 * C++
-    * [by @xtaci ★1676](https://github.com/xtaci/algorithms)
+    * [by @xtaci ★1761](https://github.com/xtaci/algorithms)
     * [by @PetarV- ★105](https://github.com/PetarV-/Algorithms)
     * [by @faheel ★78](https://github.com/faheel/Algos)
-* [Erlang ★79](https://github.com/aggelgian/erlang-algorithms)
+* [Erlang ★83](https://github.com/aggelgian/erlang-algorithms)
 * [Go ★1195 ⏳2Y](https://github.com/arnauddri/algorithms)
 * Java
-    * [by @jpa99 ★1](https://github.com/jpa99/Algorithms)
+    * [by @jpa99 ★5](https://github.com/jpa99/Algorithms)
     * [by @phishman3579 ★1497](https://github.com/phishman3579/java-algorithms-implementation)
     * [by @asmolich ★7 ⏳3Y](https://github.com/asmolich/algorithms)
     * [by @psjava ★35 ⏳1Y](https://github.com/psjava/psjava)
     * [by @jeandersonbc ★12](https://github.com/jeandersonbc/algorithms-and-ds)
     * [by @pedrovgs ★2154](https://github.com/pedrovgs/Algorithms)
-    * [by @Erdos-Graph-Framework ★64](https://github.com/Erdos-Graph-Framework/Erdos)
+    * [by @Erdos-Graph-Framework ★63](https://github.com/Erdos-Graph-Framework/Erdos)
     * [by @deepak-malik ★4](https://github.com/deepak-malik/Data-Structures-In-Java)
 * JavaScript
-    * [by @jiayihu ★975](https://github.com/jiayihu/pretty-algorithms)
+    * [by @jiayihu ★1884](https://github.com/jiayihu/pretty-algorithms)
     * [by @felipernb ★2626](https://github.com/felipernb/algorithms.js)
     * [by @nzakas ★4871 ⏳1Y](https://github.com/nzakas/computer-science-in-javascript)
     * [by @duereg ★563](https://github.com/duereg/js-algorithms)
     * [by @mgechev ★3207](https://github.com/mgechev/javascript-algorithms)
 * Objective-C
-    * [by @ EvgenyKarkan ★2238](https://github.com/EvgenyKarkan/EKAlgorithms)
+    * [by @ EvgenyKarkan ★2252](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
-    * [by @nryoung ★2394](https://github.com/nryoung/algorithms)
+    * [by @nryoung ★2463](https://github.com/nryoung/algorithms)
     * [by @prakhar1989 ★1888](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce ★208](https://github.com/laurentluce/python-algorithms)
     * [by @nbro ★15](https://github.com/nbro/ands)
 * Ruby
-    * [by @kanwei ★2149](https://github.com/kanwei/algorithms)
+    * [by @kanwei ★2180](https://github.com/kanwei/algorithms)
     * [by @sagivo ★2858](https://github.com/sagivo/algorithms)
     * [by @kumar91gopi ★52](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 * [Scala ★885](https://github.com/vkostyukov/scalacaster)
 * Swift
     * [by @kingreza ★26](https://github.com/kingreza/Swift-Algorithms-Strings-)
-    * [by @waynewbishop ★1722](https://github.com/waynewbishop/SwiftStructures)
+    * [by @waynewbishop ★1735](https://github.com/waynewbishop/SwiftStructures)
     * [by @hollance](https://github.com/hollance/swift-algorithm-club)
 * Language agnostic
     * [by @kennyledet ★1950](https://github.com/kennyledet/Algorithm-Implementations)

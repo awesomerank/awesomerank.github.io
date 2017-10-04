@@ -13,7 +13,7 @@ title: Awesome Rank for quangv/awesome-couchdb
   <br>
 </p>
 
-# Awesome CouchDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome CouchDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > A curated meta resources & best practices list for CouchDB.
 
@@ -49,7 +49,7 @@ Pull-Requests are welcomed.
 - [Best Practices](http://ehealthafrica.github.io/couchdb-best-practices/) - Best Practices, eHealth Africa.
 - [Pagination strategies with PouchDB ](https://pouchdb.com/2014/04/14/pagination-strategies-with-pouchdb.html)
 - [12 pro tips for better code with PouchDB](https://pouchdb.com/2014/06/17/12-pro-tips-for-better-code-with-pouchdb.html)
-- [Linux tuning for better CouchDB performance ★4](https://github.com/assafmo/couchdb-linux-performance)
+- [Linux tuning for better CouchDB performance ★5](https://github.com/assafmo/couchdb-linux-performance)
 
 
 ### Map/Reduce
@@ -123,7 +123,7 @@ Pull-Requests are welcomed.
 ### Companies
 
 - [Couchbase](https://www.couchbase.com/) - NoSQL database.
-- [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices ★120 ⏳1Y](https://github.com/eHealthAfrica/couchdb-best-practices).
+- [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices ★123 ⏳1Y](https://github.com/eHealthAfrica/couchdb-best-practices).
 
 
 #### Hosting

@@ -7,7 +7,7 @@ title: Awesome Rank for monostable/awesome-electronics
 	This list is a copy of <a href="https://github.com/monostable/awesome-electronics">monostable/awesome-electronics</a> with ranks
 </p>
 ---
-# Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Electronics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for electronic engineers and hobbyists
 
@@ -80,18 +80,18 @@ This list is for websites, services, software, tools and more: everything that y
 ## CAD Specific 
 
 ### KiCAD
-- [Xesscorp's list of KiCAD 3rd part tools ★67](https://github.com/xesscorp/kicad-3rd-party-tools)
+- [Xesscorp's list of KiCAD 3rd part tools ★74](https://github.com/xesscorp/kicad-3rd-party-tools)
 - [Contextual Electronics' Shine on You Crazy KiCad](https://contextualelectronics.com/courses/shine-on-you-crazy-kicad/) - Beginner video tutorial that gets you to a manufactured board as quickly as possible. 
 - [Contextual Electronics' Getting to Blinky Tutorial](https://www.youtube.com/playlist?list=PLy2022BX6Eso532xqrUxDT1u2p4VVsg-q) - A more comprehensive beginner to intermediate video tutorial. 
 - [KiCAD.info Forums](https://forum.kicad.info) - User discussion and help forum.
-- [Keyboard PCB Guide ★654](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
+- [Keyboard PCB Guide ★682](https://github.com/ruiqimao/keyboard-pcb-guide) -  Comprehensive written tutorial that takes you through creating a keyboard PCB.
 - [Cheatsheet](https://silica.io/static/downloads/kicad-cheatsheet.pdf) (also [in landscape](https://silica.io/static/downloads/kicad-cheatsheet-landscape.pdf)) - Short PDF that goes over the menus and keyboard shortcuts for the most common operations.
-- [Footprint Collection ★64](https://github.com/monostable/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them.
+- [Footprint Collection ★67](https://github.com/monostable/kicad_footprints) - Collection of all the KiCAD footprints available online and some scripts to manage them.
 
 ### Eagle
 - [List of ULPs everyone should know](https://www.element14.com/community/community/cadsoft_eagle/blog/2015/01/19/eagle-ulps-every-user-should-know)
-- [Adafruit Eagle Library ★770](https://github.com/adafruit/Adafruit-Eagle-Library)
-- [SparkFun Electronics Eagle Libraries ★1088](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
+- [Adafruit Eagle Library ★776](https://github.com/adafruit/Adafruit-Eagle-Library)
+- [SparkFun Electronics Eagle Libraries ★1092](https://github.com/sparkfun/SparkFun-Eagle-Libraries)
 
 ## PCB Batching Services
 - [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services.
@@ -175,7 +175,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## Other Lists
 
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available. 
-- [intajay/open-electronics ★32](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers
+- [intajay/open-electronics ★38](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/monostable/awesome-electronics">monostable/awesome-electronics</a> with ranks

@@ -10,7 +10,7 @@ title: Awesome Rank for Kiloreux/awesome-robotics
 Awesome Robotics
 ================
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -92,13 +92,13 @@ Webots is a development environment used to model, program and simulate mobile r
 [**Drake**](http://drake.mit.edu/)
 A planning, control and analysis toolbox for nonlinear dynamical systems.
 
-[**Neurorobotics Platform (NRP)**](http://131.159.60.234/fileadmin/platform/)
+[**Neurorobotics Platform (NRP)**](https://neurorobotics.net/)
 An Internet-accessible simulation system that allows the simulation of robots controlled by spiking neural networks.
 
 [**The Player Project**](http://playerstage.sourceforge.net/)
 Free Software tools for robot and sensor applications 
 
-[**Open AI's Roboschool** ★713](https://github.com/openai/roboschool)
+[**Open AI's Roboschool** ★777](https://github.com/openai/roboschool)
 Open-source software for robot simulation, integrated with OpenAI Gym.
 
 ### Papers ###
@@ -180,12 +180,12 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 ### Related awesome lists ###
 * [Awesome Artificial Intelligence ★2877](https://github.com/owainlewis/awesome-artificial-intelligence)
 * [Awesome Computer Vision ★3058](https://github.com/jbhuang0604/awesome-computer-vision)
-* [Awesome Machine Learning ★25153](https://github.com/josephmisiti/awesome-machine-learning)
-* [Awesome Deep Learning ★5266](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [Awesome Machine Learning ★26231](https://github.com/josephmisiti/awesome-machine-learning)
+* [Awesome Deep Learning ★5614](https://github.com/ChristosChristofidis/awesome-deep-learning)
 * [Awesome Deep Vision ★5075](https://github.com/kjw0612/awesome-deep-vision)
 * [Awesome Reinforcement Learning ★1709](https://github.com/aikorea/awesome-rl)
-* [Awesome Robotics ★10](https://github.com/ahundt/awesome-robotics)
-* [Awesome Robotics Libraries ★91](https://github.com/jslee02/awesome-robotics-libraries)
+* [Awesome Robotics ★23](https://github.com/ahundt/awesome-robotics)
+* [Awesome Robotics Libraries ★99](https://github.com/jslee02/awesome-robotics-libraries)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/Kiloreux/awesome-robotics">Kiloreux/awesome-robotics</a> with ranks

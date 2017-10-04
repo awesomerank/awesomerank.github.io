@@ -8,15 +8,15 @@ title: Awesome Rank for benoitjadinon/awesome-xamarin
 </p>
 ---
 # awesome-xamarin
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/benoitjadinon/awesome-xamarin.svg?branch=master)](https://travis-ci.org/benoitjadinon/awesome-xamarin)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/benoitjadinon/awesome-xamarin.svg?branch=master)](https://travis-ci.org/benoitjadinon/awesome-xamarin)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 
-A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for Xamarin Android/iOS/WP libraries.
+A hand-picked bookmark collection of subjectively modern/interesting libraries/tools for Xamarin Android/iOS/Windows/OSX
 
-Inspired by [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet)
-  
   * [General](#general)
   * [Architecture](#architecture)
   * [Async](#async)
+  * [Charts](#charts)
   * [Cloud](#cloud)
   * [Database](#database)
   * [Framework](#frameworks)
@@ -25,6 +25,7 @@ Inspired by [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet)
   * [IO/Storage](#iostorage)
   * [IOC/DI](#iocdi)
   * [Internationalization](#internationalization)
+  * [Layout](#layout)
   * [Media](#media)
   * [MVVM](#mvvm)
   * [Network](#network)
@@ -55,6 +56,10 @@ Inspired by [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet)
 * [AsyncEx ★638](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await
 * [LinqToAwait ★86](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await
 
+## Charts
+* [OxyPlot ★1045](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET
+* [MicroCharts ★254](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
+
 ## Cloud
 * [Azure](https://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
 * [FireSharp ★319](https://github.com/ziyasal/FireSharp) - Firebase REST API wrapper
@@ -73,7 +78,7 @@ Inspired by [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet)
 ## Fody
 * [Fody ★1,325](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
 * [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - Automatically generates DependencyProperty boilerplate from simple C# properties
-* [PropertyChanged.Fody ★565](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
+* [PropertyChanged.Fody ★579](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
 * [ReactiveUI.Fody ★60](https://github.com/kswoll/ReactiveUI.Fody) - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
 
 ## Framework
@@ -106,6 +111,10 @@ Inspired by [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet)
 * [Resxible ★6](https://github.com/apcurium/resxible) - tool to generate automatically several platform-dependent resource files from a single RESX file
 * [Vernacular ★161](https://github.com/rdio/vernacular) - Cross Platform Localisation, tools to convert standard strings formats
 * [I18NPortable ★14](https://github.com/xleon/I18N-Portable) - Simple and cross platform internationalization/translations for Xamarin and .NET
+
+## Layout
+* [Flex ★80](https://github.com/xamarin/flex) - Flexible box layout system.
+
 ## Media
 * [EZ-Compress ★6](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin
 * [Fast & Furious Image Loading ★338](https://github.com/luberda-molinet/FFImageLoading) - Xamarin library to load images quickly & easily
@@ -114,7 +123,7 @@ Inspired by [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet)
 * [NGraphics ★334](https://github.com/praeclarum/NGraphics) - Cross platform library for rendering vector graphics
 * [PDFReader ★44](https://github.com/AlexanderMac/mTouch-PDFReader) -  iOS (-only) library to display PDF documents on iPad and iPhone
 * [SkiaSharp](https://developer.xamarin.com/guides/cross-platform/drawing/) - Powerful C# API for doing 2D graphics. It is powered by Google’s Skia library
-* [Splat ★487](https://github.com/paulcbetts/splat) - Cross platform image loading, colors and stuff
+* [Splat ★487](https://github.com/reactiveui/splat) - Cross platform image loading, colors and stuff
 
 ## MVVM
 * Frameworks
@@ -129,7 +138,7 @@ Inspired by [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet)
   * [MvvmNano ★26](https://github.com/aspnetde/MvvmNano) - Small and smart MVVM framework made with ❤ for Xamarin.Forms
   * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
 * [Bind ★125](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
-* [Wires ★20](https://github.com/aloisdeniel/Wires) - Wires is a simple binding library.
+* [Wires ★22](https://github.com/aloisdeniel/Wires) - Wires is a simple binding library.
 
 ## Network
 * [Flurl ★470](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
@@ -146,7 +155,7 @@ Inspired by [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet)
 ## Reactive
 * [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
 * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework 
-* [Sensors ★12](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
+* [Sensors ★13](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
 * [Refit ★1,092](https://github.com/paulcbetts/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface
 * [RxFlow ★16](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
 
@@ -170,9 +179,10 @@ Inspired by [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet)
 * [Twin Tools Add-In ★15](https://github.com/twintechs/TwinToolsForXamarin) - Productivity plugin for Xamarin Studio
 * [Xamaridea ★34](https://github.com/EgorBo/Xamaridea) - Visual Studio extension, opens *.axml files in Android Studio 
 * [Cheeseknife ★33](https://github.com/MarcelBraghetto/Cheeseknife) -  a view injection library for Xamarin.Android
+* [XamFormsMvxTemplate ★8](https://github.com/JTOne123/XamFormsMvxTemplate) [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=PaulDatsiuk.XamarinFormswithMvvmCross5SolutionTemplate) - MVVMCross.Forms Visual Studio 2017 project template (iOS, Android, UWP)
 
 ## UI
-* [NControl ★186](https://github.com/chrfalch/NControl) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
+* [NControl ★196](https://github.com/chrfalch/NControl) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
 * [Passcode ★10](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
 
 ## Wearable
@@ -183,7 +193,7 @@ Inspired by [awesome-dotnet ★5004](https://github.com/quozd/awesome-dotnet)
 * [AdvancedTimer ★18](https://github.com/ufuf/AdvancedTimer) - Timer object and its methods are implemented for extended support for timers.
 * [Android AppCompat ★29](https://github.com/nativecode-dev/oss-xamarin) - Provide Material Design themes now for Xamarin.Forms apps natively without hacks
 * [Circle Image Control](https://github.com/jamesmontemagno/Xamarin.Plugins/tree/master/ImageCircle) - Simple but elegant way of display circle images in your Xamarin.Forms projects
-* [Compass](https://github.com/JarleySoft/Xamarin.Plugins/tree/master/Compass) - Provides and simple way to access the compass on Windows Phone, iOS and Android from you Xamarin.Forms projects
+* [Compass ★13](https://github.com/JarleySoft/CompassPlugin) - Provides and simple way to access the compass on Windows Phone, iOS and Android from you Xamarin.Forms projects
 * [Device Orientation](https://github.com/aliozgur/Xamarin.Plugins/tree/master/DeviceOrientation) - Simple way to get device orientation or be notified of orientation changes in your Xamarin.Forms projects
 * [NControl ★143](https://github.com/chrfalch/NControl) - Xamarin.Forms control for NGraphics
 * [MvxForms ★6](https://github.com/MobiliTips/MvxPlugins) - MVVMCross plugin for using Xamarin.Forms
@@ -227,6 +237,15 @@ Most of them support Android and iOS, some do Windows Phone 8
 
 * [Weekly Xamarin](http://weeklyxamarin.com) - Hand-picked round up of the best Xamarin development links every week. Curated by Geoffrey Huntley and published every Friday. Free.
 * [Planet Xamarin](https://www.planetxamarin.com) - An aggregator of content from Xamarin Community members. Why subscribe individually when you can subscribe to one convenient RSS feed? If RSS isn't your thing, follow the [Twitter](https://twitter.com/PlanetXamarin) or [Facebook](https://www.facebook.com/planetxamarin/) accounts which are automatically updated with the latest content from the community.
+
+## Contributors
+[<img alt="benoitjadinon" src="https://avatars3.githubusercontent.com/u/205116?v=4&s=117" width="117">](https://github.com/benoitjadinon) |[<img alt="interisti" src="https://avatars2.githubusercontent.com/u/4171351?v=4&s=117" width="117">](https://github.com/interisti) |[<img alt="JTOne123" src="https://avatars0.githubusercontent.com/u/3457140?v=4&s=117" width="117">](https://github.com/JTOne123) |[<img alt="alexsorokoletov" src="https://avatars1.githubusercontent.com/u/1788581?v=4&s=117" width="117">](https://github.com/alexsorokoletov) |[<img alt="andmos" src="https://avatars1.githubusercontent.com/u/1283556?v=4&s=117" width="117">](https://github.com/andmos) |[<img alt="andreinitescu" src="https://avatars2.githubusercontent.com/u/743918?v=4&s=117" width="117">](https://github.com/andreinitescu) |
+:---: |:---: |:---: |:---: |:---: |:---: |
+[benoitjadinon](https://github.com/benoitjadinon) |[interisti](https://github.com/interisti) |[JTOne123](https://github.com/JTOne123) |[alexsorokoletov](https://github.com/alexsorokoletov) |[andmos](https://github.com/andmos) |[andreinitescu](https://github.com/andreinitescu) |
+
+[<img alt="ghuntley" src="https://avatars0.githubusercontent.com/u/127353?v=4&s=117" width="117">](https://github.com/ghuntley) |[<img alt="jgimenez" src="https://avatars1.githubusercontent.com/u/864706?v=4&s=117" width="117">](https://github.com/jgimenez) |[<img alt="SamuelDebruyn" src="https://avatars2.githubusercontent.com/u/963413?v=4&s=117" width="117">](https://github.com/SamuelDebruyn) |[<img alt="wcoder" src="https://avatars3.githubusercontent.com/u/766193?v=4&s=117" width="101">](https://github.com/wcoder) |[<img alt="amay077" src="https://avatars2.githubusercontent.com/u/401369?v=4&s=117" width="117">](https://github.com/amay077) |[<img alt="xleon" src="https://avatars0.githubusercontent.com/u/145087?v=4&s=117" width="117">](https://github.com/xleon) |
+:---: |:---: |:---: |:---: |:---: |:---: |
+[ghuntley](https://github.com/ghuntley) |[jgimenez](https://github.com/jgimenez) |[SamuelDebruyn](https://github.com/SamuelDebruyn) |[wcoder](https://github.com/wcoder) |[amay077](https://github.com/amay077) |[xleon](https://github.com/xleon) |
 
 
 ## License

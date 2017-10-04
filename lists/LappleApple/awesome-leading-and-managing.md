@@ -7,19 +7,25 @@ title: Awesome Rank for LappleApple/awesome-leading-and-managing
 	This list is a copy of <a href="https://github.com/LappleApple/awesome-leading-and-managing">LappleApple/awesome-leading-and-managing</a> with ranks
 </p>
 ---
-# Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Leadership and Management [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 ## What This Is, and Where It Comes From
 Since 2013-ish, [Joe Goldberg](https://twitter.com/bostonsteamer), who created the original document inspiring this list, read a crap-ton of books and articles about "leadership" and "management" and took notes along the way. He shared it with friends who were transitioning to management roles and eventually decided to open-source it. [Here you'll find Joe's still-public document](https://docs.google.com/document/d/1R1O0OEsQpZcBcLheRlomDrmR2tyEpdRNFnjbLALmbH4/edit#heading=h.loq53mbwc6ut), which provides meatier summaries of the articles you'll find listed here as well as lots of supplementary notes.
 
-"An awesome collection of resources!" —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178), Twitter
+In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about Joe's docs via [Software Lead Weekly](http://softwareleadweekly.com/) and asked Joe about posting the contents to GitHub. He gave the greenlight. Lauri changed up the format (very brief blurbs), turned the doc into an [Awesome List ★65640](https://github.com/sindresorhus/awesome), and has continued adding new entries ever since. Helping out with the initial upload were a team of Lauri's colleagues at [Zalando](https://jobs.zalando.com/tech/). These days the list receives [contributions](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) from people around the world.
+
+- "An awesome collection of resources!" —[Angie Jones](https://twitter.com/techgirl1908/status/888771075294642178), Twitter
+- "Thanks again for putting together this tremendous resource!"—[Dave Golden](https://twitter.com/xdg), MongoDB and contributor
 
 ## Contents
+- [Abilities, Qualities and Values](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Abilities-Qualities-Values.md)
+- [Building Products and Startups, and OKRs](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Building-Products-and-Startups-OKRs.md)
 - [Conflict Resolution, Postmortems and Retrospectives](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Conflict-Resolution-Postmortems-Retrospectives.md)
 - [Culture](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Culture.md)
 - [Diversity and Gender](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Diversity-and-Gender.md)
 - [Giving Feedback, Praise, and Advice](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Giving-Feedback-Praise-and-Advice.md)
 - [Firing, Hiring and Interviewing Candidates](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Hiring-and-Firing.md)
+- [For Developers: Software Craftspersonship, Teamwork, Technical Debt](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/For-Developers-Teamwork-TechDebt.md)
 - [Influence, Delegation, and Decision-Making](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Influence-Delegation-and-Decision-Making.md)
 - [Leader List](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leader-List.md)
 - [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
@@ -29,7 +35,6 @@ Since 2013-ish, [Joe Goldberg](https://twitter.com/bostonsteamer), who created t
 - [One-on-Ones](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/One-on-Ones.md)
 - [People Ops, Performance Reviews, and Goal-setting](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/People-Ops-Perf-Reviews-and-Goal-setting.md)
 - [Transitioning to Management (and Managing Managers)](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Transitioning%20to%20Management.md)
-- [When You're Not a "Manager": Leadership for Developers](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-for-Developers.md)
 
 *"If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
 "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>

@@ -9,11 +9,11 @@ title: Awesome Rank for phalcon/awesome-phalcon
 ---
 # Awesome Phalcon
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/phalcon/awesome-phalcon.svg?branch=master)](https://travis-ci.org/phalcon/awesome-phalcon)
 
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go ★22815](https://github.com/avelino/awesome-go).
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go ★23880](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
@@ -44,6 +44,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
     - [Miscellaneous](#miscellaneous)
     - [Networking](#networking)
     - [ORM](#orm)
+    - [ODM](#odm)
     - [RESTful](#restful)
     - [Routing](#routing)
     - [Scaffolding](#scaffolding)
@@ -76,7 +77,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Various application skeletons.*
 
-* [Album O'Rama ★86](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework
+* [Album O'Rama ★86 ⏳1Y](https://github.com/phalcon/album-o-rama) - Sample modular application for the Phalcon PHP Framework
 * [Base App ★66 ⏳1Y](https://github.com/mruz/base-app) - The base application in Phalcon PHP Framework
 * [INVO Application ★292](https://github.com/phalcon/invo) - Sample application for the Phalcon PHP Framework
 * [Lightning ★27 ⏳1Y](https://github.com/zxz054321/lightning) - Lightning is a high performance framework with elegant syntax that sits on top of Phalcon.
@@ -101,7 +102,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Libraries for implementing authentications schemes.*
 
-* [phalcon-authmiddleware ★12](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
+* [phalcon-authmiddleware ★12 ⏳1Y](https://github.com/SidRoberts/phalcon-authmiddleware) - Add middleware events to the dispatcher. Generic design that's compatible with ACL or a custom auth library.
 * [phalcon-oauth2-server](https://github.com/nueko/phalcon-oauth2-server) - Phalcon wrapper for oAuth2 [thephpleague/oauth2-server ★3115](https://github.com/thephpleague/oauth2-server)
 
 
@@ -135,6 +136,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Admin Panels & Dashboards.*
 
 * [dasshy ★26 ⏳2Y](https://github.com/phalcon/dasshy) - Statistics dashboard with Mongo/Phalcon
+* [PhalconTime ★1](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton
 
 
 ## Debug
@@ -155,7 +157,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon-autoload-services ★16 ⏳2Y](https://github.com/JimmDiGrizli/phalcon-autoload-services) - Components for automatic registration services in Dependency Injection
 * [phalcon-service-loader ★19 ⏳2Y](https://github.com/serebro/phalcon-service-loader) - Service loader for Phalcon PHP Framework
-* [pidic ★3 ⏳1Y](https://github.com/phalette/pidic) - Nette Dependency Injection/Container for Phalcon
+* [pidic ★3 ⏳2Y](https://github.com/phalette/pidic) - Nette Dependency Injection/Container for Phalcon
 
 
 ## Docs
@@ -247,6 +249,11 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phalcon-mssql ★17 ⏳2Y](https://github.com/fishjerky/phalcon-mssql) - A Phalcon PHP Framework MSSQL PDO db adapter
 * [phalcon-seeder ★9 ⏳1Y](https://github.com/SidRoberts/phalcon-seeder) - Database seeder component for Phalcon
 
+## ODM
+
+*Libraries that implement Object-Document Mapper techniques.*
+
+[phalcon-collection-paginator ★1](https://github.com/angelxmoreno/phalcon-collection-paginator) - A [pagination adapter](https://olddocs.phalconphp.com/en/3.0.0/reference/pagination.html#data-adapters) for classes that extend `Phalcon\Mvc\Collection`
 
 ## RESTful
 
@@ -298,7 +305,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [phalcon_cart ★18 ⏳2Y](https://github.com/uno-de-piera/phalcon_cart) - Complete cart system for Phalcon PHP Framework
 * [phasty ★16 ⏳2Y](https://github.com/chaban/phasty) - Shopping Cart on Phalcon PHP Framework
-* [Cashier ★14](https://github.com/duythien/cashier) - Phalcon cashier
+* [Cashier ★14 ⏳1Y](https://github.com/duythien/cashier) - Phalcon cashier
 * [Yona E-commerce ★11 ⏳1Y](https://github.com/oleksandr-torosh/yona-ecommerce) - E-commerce CMF based on Phalcon PHP Framework
 
 

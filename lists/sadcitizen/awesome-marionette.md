@@ -7,14 +7,14 @@ title: Awesome Rank for sadcitizen/awesome-marionette
 	This list is a copy of <a href="https://github.com/sadcitizen/awesome-marionette">sadcitizen/awesome-marionette</a> with ranks
 </p>
 ---
-# Awesome Marionette.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Marionette.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > A list of resources for marionette.js
 
 ## General
 
 - [Official site](http://marionettejs.com/)
-- [Github repository ★7144](https://github.com/marionettejs/backbone.marionette)
+- [Github repository ★7154](https://github.com/marionettejs/backbone.marionette)
 - [Annotated source](http://marionettejs.com/annotated-src/backbone.marionette)
 - [Marionette.js Blog](http://blog.marionettejs.com/)
 - [StackOverflow](http://stackoverflow.com/questions/tagged/marionette) - Tagged questions

@@ -71,7 +71,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [elementary OS](http://elementary.io/)
 
-> elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Midori web browser and Geary mail.
+> elementary OS is an Ubuntu-based desktop distribution. Some of its more interesting features include a custom desktop environment called Pantheon and many custom apps including Photos, Music, Videos, Calendar, Terminal, Files, and more. It also comes with some familiar apps like the Epiphany web browser and a fork of Geary mail. 
 
 **Latest version:** elementary OS Loki (0.4.1)
 
@@ -91,7 +91,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Linux Mint](http://linuxmint.com/)
 
-> Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, media codecs, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
+> Linux Mint is an Ubuntu-based distribution whose goal is to provide a more complete out-of-the-box experience by including browser plugins, support for DVD playback, Java and other components. It also adds a custom desktop and menus, several unique configuration tools, and a web-based package installation interface. Linux Mint is compatible with Ubuntu software repositories.
 
 **Latest version:** Linux Mint Sonya (18.2)
 
@@ -101,7 +101,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Ubuntu](http://www.ubuntu.com/)
 
-> Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world.
+> Ubuntu is a complete desktop Linux operating system, freely available with both community and professional support. The Ubuntu community is built on the ideas enshrined in the Ubuntu Manifesto: that software should be available free of charge, that software tools should be usable by people in their local language and despite any disabilities, and that people should have the freedom to customise and alter their software in whatever way they see fit. "Ubuntu" is an ancient African word, meaning "humanity to others". The Ubuntu distribution brings the spirit of Ubuntu to the software world. 
 
 **Latest version:** Ubuntu 17.04
 
@@ -123,7 +123,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [Debian GNU/Linux](https://www.debian.org/)
 
-> The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian GNU/Linux, or simply Debian for short. Debian systems currently use the Linux kernel. [...] Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together.
+> The Debian Project is an association of individuals who have made common cause to create a free operating system. This operating system is called Debian. Debian systems currently use the Linux kernel. Linux is a completely free piece of software started by Linus Torvalds and supported by thousands of programmers worldwide. Of course, the thing that people want is application software: programs to help them get what they want to do done, from editing documents to running a business to playing games to writing more software. Debian comes with over 50,000 packages (precompiled software that is bundled up in a nice format for easy installation on your machine) - all of it free. It's a bit like a tower. At the base is the kernel. On top of that are all the basic tools. Next is all the software that you run on the computer. At the top of the tower is Debian -- carefully organizing and fitting everything so it all works together. 
 
 **Latest version:** Debian Stretch (9.1)
 
@@ -153,8 +153,7 @@ Distributions are organized into three different categories: for **beginners**, 
 
 #### [openSUSE](http://www.opensuse.org/)
 
-> The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors.
-It also offers a rolling release version called Tumbleweed for experienced users.
+> The openSUSE project is a community program sponsored by SUSE Linux and other companies. Promoting the use of Linux everywhere, this program provides free, easy access to openSUSE, a complete Linux distribution. The openSUSE project has three main goals: make openSUSE the easiest Linux for anyone to obtain and the most widely used Linux distribution; leverage open source collaboration to make openSUSE the world's most usable Linux distribution and desktop environment for new and experienced Linux users; dramatically simplify and open the development and packaging processes to make openSUSE the platform of choice for Linux developers and software vendors. 
 
 **Latest version:** openSUSE Leap 42.3 and openSUSE Tumbleweed (Rolling Release system)
 
@@ -285,7 +284,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 * [9wm](http://unauthorised.org/dhog/9wm.html) - X window manager which attempts to emulate the Plan 9 window manager 8-1/2 as far as possible within the constraints imposed by X.
 * [awesome](https://awesomewm.org/) - Highly configurable window manager for X. Fast and extensible.
 * [Blackbox](http://blackboxwm.sourceforge.net/) - Fast, lightweight window manager for the X Window System, without annoying library dependencies. Built with C++.
-* [bspwm ★1768](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree.
+* [bspwm ★1804](https://github.com/baskerville/bspwm) - Tiling window manager that represents windows as the leaves of a full binary tree.
 * [Compiz](https://launchpad.net/compiz) - OpenGL compositing window manager. It has a plug-in system to be changed at runtime.
 * [dwm](http://dwm.suckless.org/) - Dynamic window manager for X. It manages windows in tiled, monocle and floating layouts. All of the layouts can be applied dynamically, optimising the environment for the application in use and the task performed.
 * [Enlightenment](http://www.enlightenment.org/) - Not just a window manager for X11 and others, but also a whole suite of libraries to help you create beautiful user interfaces with much less work than doing it the old fashioned way and fighting with traditional toolkits.
@@ -306,7 +305,7 @@ If you used Windows and decided to switch to Linux, this course should help you 
 
 The list of awesome Linux applications that you should be using.
 
-If you're looking for some pro-tips for your favorite text editor, you might be interested in [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs), or [awesome-vscode ★2690](https://github.com/viatsko/awesome-vscode).
+If you're looking for some pro-tips for your favorite text editor, you might be interested in [awesome-atom](https://github.com/mehcode/awesome-atom), [sublime-bookmarks](https://github.com/dreikanter/sublime-bookmarks), [vim-galore](https://github.com/mhinz/vim-galore), [awesome-emacs](https://github.com/emacs-tw/awesome-emacs), or [awesome-vscode ★3031](https://github.com/viatsko/awesome-vscode).
 
 ### GUI-based Applications
 
@@ -325,7 +324,7 @@ For more GNOME-based apps, visit: https://wiki.gnome.org/Apps
 * [FeedReader](https://jangernert.github.io/FeedReader/) - RSS desktop client able to integrate with multiple online services.
 * [Go For It!](http://manuel-kehl.de/projects/go-for-it/) - To-do list with built-in productivity timer.
 * [NaSC](http://parnold-x.github.io/nasc/) - Intelligent calculator app.
-* [Spice-Up ★165](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app.
+* [Spice-Up ★180](https://github.com/Philip-Scott/Spice-up) - Desktop presentation app.
 * [Vocal](http://vocalproject.net/) - Podcast client for the modern desktop.
 
 For more Pantheon-based apps, visit [elementary-apps](https://quassy.github.io/elementary-apps/).
@@ -353,11 +352,11 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 
 * [Corebird](http://corebird.baedert.org/) - Twitter client.
 * [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
-* [Caprine ★2441](https://github.com/sindresorhus/caprine) - Facebook's Messenger client with some added privacy features.
-* [PB for Desktop ★165](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
-* [ramme ★2156](https://github.com/terkelg/ramme) - Instagram client.
-* [ScudCloud ★1171](https://github.com/raelgc/scudcloud) - Slack client with additional features (compared to the original Slack client).
-* [Whatever ★158](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
+* [Caprine ★2507](https://github.com/sindresorhus/caprine) - Facebook's Messenger client with some added privacy features.
+* [PB for Desktop ★175](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
+* [ramme ★2247](https://github.com/terkelg/ramme) - Instagram client.
+* [ScudCloud ★1179](https://github.com/raelgc/scudcloud) - Slack client with additional features (compared to the original Slack client).
+* [Whatever ★185](https://github.com/CellarD0-0r/whatever) - Evernote client based on the web version.
 
 #### Package management and creation tools
 
@@ -369,7 +368,7 @@ Distro-oriented:
 * [YaST](https://en.opensuse.org/YaST_Software_Management) (openSUSE) - Main package management tool on openSUSE.
 * [YumEx](https://fedorahosted.org/yumex/) (Fedora) - A GUI for the `dnf` package manager.
 * [Yaourt](https://wiki.archlinux.org/index.php/Yaourt) (Arch) - A wrapper for `pacman` which adds automated access to the AUR using the same syntax as pacman.
-* [Aura ★579](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
+* [Aura ★582](https://github.com/aurapm/aura) (Arch) - Secure, multilingual package manager.
 
 Distro-independent:
 
@@ -377,25 +376,25 @@ Distro-independent:
 
 ### Console-based Applications and Tools
 
-You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish ★481](https://github.com/jbucaran/awesome-fish).
+You might also be interested in checking out [awesome-shell](https://github.com/alebcay/awesome-shell), [awesome-bash](https://github.com/awesome-lists/awesome-bash), [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) or [awesome-fish ★506](https://github.com/jbucaran/awesome-fish).
 
 * [cmus](https://cmus.github.io/) - Small, fast and powerful console music player.
-* [fuck ★29595](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
+* [fuck ★30864](https://github.com/nvbn/thefuck) - Command line tool which corrects your previously mistyped command.
 * [git](https://git-scm.com/) - Distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
 * [glances](https://nicolargo.github.io/glances/) - Cross-platform system monitoring tool.
 * [htop](http://hisham.hm/htop/) - Nice looking, customizable task manager.
 * [nano](http://www.nano-editor.org) - Simple to use text editor.
 * [photorec](http://www.cgsecurity.org/wiki/PhotoRec) - Useful tool for restoring deleted files.
-* [ranger ★2544](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
-* [screenFetch ★1764](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
+* [ranger ★2630](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
+* [screenFetch ★1821](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
 * [shellcheck ★8791](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
-* [speed-test ★1919](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
+* [speed-test ★1939](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.
 * [vtop](https://parall.ax/vtop) - Easily-extendable activity monitor.
-* [wavemon ★132](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
-* [youtube-dl ★28275](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
+* [wavemon ★139](https://github.com/uoaerg/wavemon) - Monitoring application for wireless network devices.
+* [youtube-dl ★29212](https://github.com/rg3/youtube-dl) - A tool to download videos from YouTube and other video sites.
 
 ## Useful Websites
 

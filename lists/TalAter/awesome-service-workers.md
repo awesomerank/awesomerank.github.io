@@ -7,7 +7,7 @@ title: Awesome Rank for TalAter/awesome-service-workers
 	This list is a copy of <a href="https://github.com/TalAter/awesome-service-workers">TalAter/awesome-service-workers</a> with ranks
 </p>
 ---
-# Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Service Workers [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A curated collection of service worker resources.
 

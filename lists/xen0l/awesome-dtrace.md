@@ -7,7 +7,7 @@ title: Awesome Rank for xen0l/awesome-dtrace
 	This list is a copy of <a href="https://github.com/xen0l/awesome-dtrace">xen0l/awesome-dtrace</a> with ranks
 </p>
 ---
-# Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome DTrace [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome DTrace books, articles, videos, tools and resources.
 
@@ -40,7 +40,7 @@ Recommended reading for learning DTrace.
 - [DTrace one-liners](http://www.brendangregg.com/DTrace/dtrace_oneliners.txt) - DTrace one liners. Handy commands.
 - [DTrace one-liners (FreeBSD)](https://wiki.freebsd.org/DTrace/One-Liners) - DTrace one liners from FreeBSD.
 - [DTrace QuickStart](http://www.tablespace.net/quicksheet/dtrace-quickstart.html) - DTrace quick starting guide.
-- [Using DTrace stories ★19](https://github.com/NanXiao/using-dtrace-stories) - A collection of using DTrace to debug system stories.
+- [Using DTrace stories ★20](https://github.com/NanXiao/using-dtrace-stories) - A collection of using DTrace to debug system stories.
 - [Advanced DTrace Tips, Tricks and Gotchas](http://dtrace.org/resources/bmc/dtrace_tips.pdf) - A collection of advanced tips for using DTrace.
 
 ## Articles
@@ -149,7 +149,7 @@ List of software with DTrace support.
 
 #### Node.js
 
-- [node-dtrace-provider ★282](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps.
+- [node-dtrace-provider ★287](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps.
 
 #### Perl
 
@@ -180,16 +180,16 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph ★4411](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
-- [node-stackvis ★321](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
+- [FlameGraph ★4780](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
+- [node-stackvis ★324](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
 
 ## Tools
 
 - [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
-- [dtrace-cloud-tools ★151 ⏳3Y](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
+- [dtrace-cloud-tools ★153 ⏳3Y](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
 - [pgsql tools ★109 ⏳2Y](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
 - [portsnoop ★3 ⏳3Y](https://github.com/davepacheco/portsnoop) - Trace event port activity.
-- [storage tools ★23 ⏳1Y](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.
+- [storage tools ★24 ⏳1Y](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.
 
 ## Community
 

@@ -37,7 +37,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 * [dropwizard-caching-bundle ★8 ⏳1Y](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses.
 * [dropwizard-xml ★25 ⏳1Y](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs
 * [dropwizard-crypto ★13](https://github.com/meltmedia/dropwizard-crypto) - A Cryptographic Bundle for Dropwizard
-* [dropwizard-circuitbreaker ★21](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard
+* [dropwizard-circuitbreaker ★22](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard
 * [dropwizard-maxmind-bundle ★3](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 support for dropwizard
 * [dropwizard-protobuf ★35](https://github.com/dropwizard/dropwizard-protobuf) - Support for reading and writing Google Protocol Buffer objects within Dropwizard
 * [dropwizard-activemq-bundle ★29](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application
@@ -60,7 +60,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 ### Assets
 
 * [dropwizard-configurable-assets-bundle ★59 ⏳1Y](https://github.com/bazaarvoice/dropwizard-configurable-assets-bundle) - An implementation of an AssetBundle for use in Dropwizard that allows user configuration.
-* [dropwizard-markdown-assets-bundle ★2](https://github.com/rnorth/dropwizard-markdown-assets-bundle) - renders Markdown files as pretty HTML
+* [dropwizard-markdown-assets-bundle ★2 ⏳1Y](https://github.com/rnorth/dropwizard-markdown-assets-bundle) - renders Markdown files as pretty HTML
 
 ### Data Stores
 
@@ -141,7 +141,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/stv
 
 ## Awesome!
 
-Check out more [awesome projects ★63835](https://github.com/sindresorhus/awesome).
+Check out more [awesome projects ★65640](https://github.com/sindresorhus/awesome).
 
 ## License
 

@@ -7,7 +7,7 @@ title: Awesome Rank for stetso/awesome-gideros
 	This list is a copy of <a href="https://github.com/stetso/awesome-gideros">stetso/awesome-gideros</a> with ranks
 </p>
 ---
-# Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
 	<a href="http://giderosmobile.com"><img width="200" src="gideros_logo.png" alt="Awesome Gideros"></a>
@@ -98,7 +98,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 ### Animation and Tweens
 - [GTween](http://appcodingeasy.com/Gideros-Mobile/Gideros-GTween-with-easing) - Tween sprite variables with this library (comes with all the easing functions you need).
 - [Animation using MovieClip](http://bluebilby.com/2013/05/12/gideros-mobile-tutorial-animated-movieclips/) - Tutorial on how to animate sprites using the MovieClip class.
-- [Spriteheet animation class ★2 ⏳4Y](https://github.com/nascode/gideros_animsheet) - Class that helps with creating and playing animations from spritesheets.
+- [Spriteheet animation class ★2 ⏳5Y](https://github.com/nascode/gideros_animsheet) - Class that helps with creating and playing animations from spritesheets.
 
 ### Tilemaps
  - [Collision with Tilemaps](http://giderosmobile.com/forum/discussion/6353/collision-with-any-object/p1) - Examples and suggestions on how to make stuff collide with the tiles in your tilemap.
@@ -134,15 +134,15 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 ## Useful Lua-Libraries
 *General Lua libraries that are useful in gamedev but are not Gideros specific*
 
-- [lume ★205](https://github.com/rxi/lume) - Great collection of functions that are useful for game development.
-- [inspect ★428](https://github.com/kikito/inspect.lua) - Easily pretty-print your tables to the console in a readable way.
+- [lume ★215](https://github.com/rxi/lume) - Great collection of functions that are useful for game development.
+- [inspect ★439](https://github.com/kikito/inspect.lua) - Easily pretty-print your tables to the console in a readable way.
 - [jumper](http://yonaba.github.io/Jumper/) - Super-fast grid-based pathfinding for Lua.
-- [bump ★335](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes.
+- [bump ★349](https://github.com/kikito/bump.lua) - Simple, flexible and fast library for collision detection using axis-aligned bounding boxes.
 - [Bresenham ★2](https://github.com/rm-code/Bresenham) - Bresenham's line algorithm, implemented in Lua.
 
 ## Related Awesome Lists
-- [awesome-lua ★1446](https://github.com/LewisJEllis/awesome-lua)
-- [awesome-love2d ★692](https://github.com/love2d-community/awesome-love2d)
+- [awesome-lua ★1489](https://github.com/LewisJEllis/awesome-lua)
+- [awesome-love2d ★738](https://github.com/love2d-community/awesome-love2d)
 - [awesome-gamedev ★156](https://github.com/mbrukman/awesome-gamedev)
 
 

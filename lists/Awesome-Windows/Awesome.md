@@ -10,7 +10,7 @@ title: Awesome Rank for Awesome-Windows/Awesome
 # <img src="https://raw.githubusercontent.com/Awesome-Windows/Awesome/master/media/main-awesomeWindows.png" width="400" alt="awesome windows">
 
 [![Join the chat at https://gitter.im/Awesome-Windows/Awesome](https://badges.gitter.im/Awesome-Windows/Awesome.svg)](https://gitter.im/Awesome-Windows/Awesome?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![ghit.me](https://ghit.me/badge.svg?repo=Awesome-Windows/Awesome)](https://ghit.me/repo/Awesome-Windows/Awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](https://github.com/Awesome-Windows/Awesome/blob/master/README-cn.md)
 
 > An awesome & curated list of best applications and tools for Windows.
 
@@ -58,16 +58,16 @@ title: Awesome Rank for Awesome-Windows/Awesome
 ### Audio
 
 - [AIMP](http://www.aimp.ru/) - 32 bit audio processing and multi-format playback. ![Freeware][Freeware Icon]
-- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon] ★862](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
+- [Audacity](http://audacityteam.org/) - Free, open source, cross-platform software for recording and editing sounds. [![Open-Source Software][OSS Icon] ★908](https://github.com/audacity/audacity) ![Freeware][Freeware Icon]
 - [CDex](http://www.cdex.fr/) - CD Ripper (French site, English program). ![Freeware][Freeware Icon]
 - [Dopamine](http://www.digimezzo.com/software/dopamine/) - An audio player which tries to make organizing and listening to music as simple and pretty as possible. ![Freeware][Freeware Icon]
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools. ![Freeware][Freeware Icon]
 - [Qtractor](http://qtractor.sourceforge.net/qtractor-index.html#Downloads) - An Audio/MIDI multi-track sequencer. [![Open-Source Software][OSS Icon]](http://qtractor.sourceforge.net/qtractor-downloads.html#Git) ![Freeware][Freeware Icon]
 - [Reaper](http://www.reaper.fm/download.php) - Lightweight application with deep feature set and $60 for individual, non-profit, or small business use.
 - [Winamp](http://www.winamp.com/) - Music player capable of playing MP3s, MP2s, WAVs, VOCs and MIDI files. ![Freeware][Freeware Icon]
-- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.[![Open-Source Software][OSS Icon] ★791](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
+- [Mixxx](http://mixxx.org/) - Free DJ software that gives you everything you need to perform live mixes, veritable alternative to Traktor.[![Open-Source Software][OSS Icon] ★807](https://github.com/mixxxdj/mixxx) ![Freeware][Freeware Icon]
 - [Musicbee](http://getmusicbee.com/) - Like iTunes but better than iTunes.
-- [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][OSS Icon] ★1087](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
+- [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger that looks up and rewrite metadata tags. [![Open-Source Software][OSS Icon] ★1111](https://github.com/metabrainz/picard) ![Freeware][Freeware Icon]
 - [VLC](http://www.videolan.org/vlc/index.html) - Free media player, works pretty well.
 - [Foobar2000](http://www.foobar2000.org/) - Free audio player for Windows, supports a wide range of audio formats and has a lot of cool features.
 - [Exact Audio Copy](http://www.exactaudiocopy.de/) - Transfer files from your CDs to your PC in almost every format.Comes with some pretty nifty features too.
@@ -95,9 +95,12 @@ title: Awesome Rank for Awesome-Windows/Awesome
 
 ### Customization
 
+- [7+ Taskbar Tweaker](http://rammichael.com/7-taskbar-tweaker) - Allows to customize and extend Windows taskbar functionality with various productivity enhancements. ![Freeware][Freeware Icon]
 - [Classic Shell](http://www.classicshell.net/) - Use Start Menu and Explorer like it's 2000.
-- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][OSS Icon] ★706](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
-- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background.  [![Open-Source Software][OSS Icon] ★634](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon]
+- [Clover](http://en.ejie.me/) - Add multi-tab functionality to Windows Explorer. ![Freeware][Freeware Icon]
+- [TranslucentTB](https://github.com/TranslucentTB/TranslucentTB) - Make your Windows task bar transparent. [![Open-Source Software][OSS Icon] ★824](https://github.com/TranslucentTB/TranslucentTB) ![Freeware][Freeware Icon]
+- [QTTabBar](http://qttabbar.wikidot.com/) - Extends Explorer by tabs and extra folder views. ![Freeware][Freeware Icon]
+- [Windows 10 Login Background Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) - Lets you change the Windows 10 login screen background.  [![Open-Source Software][OSS Icon] ★632](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer) ![Freeware][Freeware Icon]
 - [ZBar](http://www.zhornsoftware.co.uk/zbar/) - If you use multiple monitors, it lets you display a separate taskbar on each monitor.
 
 
@@ -108,12 +111,11 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [Stellar Phoenix Windows Data Recovery](http://www.stellarinfo.com/windows-data-recovery.php) - Remote recovery option to recover data from another computer over a network.
 - [PartitionGuru｜Eassos Recovery](http://www.eassos.com/) - Data recovery with partition recovery. ![Freeware][Freeware Icon]
 - [Recuva](https://www.piriform.com/recuva) - Recover your deleted files quickly and easily.
-- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again. 
+- [TestDisk](http://www.cgsecurity.org/wiki/TestDisk) -  Powerful free data recovery software primarily designed to help recover lost partitions and/or make non-booting disks bootable again.
 
 ### Developer Tools
 
-- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator. [![Open-Source Software][OSS Icon] ★6703](https://github.com/jwilm/alacritty) ![Freeware][Freeware Icon]
-- [Addict ★1264](https://github.com/dthree/addict) - Drop-in REST API for Active Directory.
+- [Addict ★1345](https://github.com/dthree/addict) - Drop-in REST API for Active Directory.
 - [DB Browser for SQLite](http://sqlitebrowser.org/) - High quality, visual, open source tool to create, design, and edit database files compatible with SQLite [![Open-Source Software][OSS Icon]](http://sqlitebrowser.org/)
 - [HeidiSQL](http://www.heidisql.com/) - Powerful and easy client for MySQL, MariaDB, Microsoft SQL Server and PostgreSQL.
 - [Fiddler](http://www.telerik.com/fiddler) - Web debugging proxy.
@@ -121,9 +123,11 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [Git Extensions](https://gitextensions.github.io/) - A powerful and easy to use UI for Git. [![Open-Source Software][OSS Icon] ★2286](https://github.com/gitextensions/gitextensions) ![Freeware][Freeware Icon]
 - [GitHub Desktop](https://windows.github.com/) - A GUI for using GitHub.
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][Freeware Icon]
-- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon] ★106](https://github.com/swensensoftware/im-only-resting) ![Freeware][Freeware Icon]
-- [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface.
+- [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon] ★114 ⏳1Y](https://github.com/swensensoftware/im-only-resting) ![Freeware][Freeware Icon]
+- [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
+- [Mamp](https://www.mamp.info/en/) - Local server environment. ![Freeware][Freeware Icon]
+- [Open Server](https://ospanel.io/) - Portable server platform and software environment (like MAMP, XAMPP, WAMP and very user friendly). ![Freeware][Freeware Icon]
 - [Pixie](http://www.nattyware.com/pixie.php) - A simple color picker for developers.
 - [pngquant](https://pngquant.org/) - Apply lossy compression on PNG files with or wi
 - [PostgreSQL Database](http://wiki.postgresql.org/wiki/Community_Guide_to_PostgreSQL_GUI_Tools) - A comprehensive list of tools.
@@ -136,9 +140,9 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [SourceTree](https://www.sourcetreeapp.com/) - A free Git & Mercurial client.
 - [Sql Wave](http://www.valentina-db.com/en/sqlwave) - A MySQL database manager.
 - [SSLyog](https://www.webyog.com/) - A powerful MySQL administration tool
-- [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][OSS Icon] ★552](https://github.com/tortoisegit/tortoisegit) ![Freeware][Freeware Icon]
+- [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][OSS Icon] ★556](https://github.com/tortoisegit/tortoisegit) ![Freeware][Freeware Icon]
 - [TortoiseSVN](https://tortoisesvn.net/) - Subversion client with full shell integration. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/tortoisesvn/) ![Freeware][Freeware Icon]
-- [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][OSS Icon] ★15109](https://github.com/mitchellh/vagrant)
+- [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant)
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
@@ -152,9 +156,11 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [FreeOffice](http://www.freeoffice.com/en/) - FreeOffice is a complete office suite with a word processor, a spreadsheet application and a presentation program – all compatible with their counterparts in Microsoft Office. ![Freeware][Freeware Icon]
 - [LibreOffice](https://www.libreoffice.org/) - Open source office suite. [![Open-Source Software][OSS Icon]](https://www.libreoffice.org/about-us/source-code/) ![Freeware][Freeware Icon]
 - [Microsoft Office](http://www.office.com) - Microsoft's own productivity suite.
+- [OnlyOffice](https://www.onlyoffice.com/) - The most complete and feature-rich office and productivity suite ![Freeware][Freeware Icon]
 - [OpenOffice](https://www.openoffice.org/) - Software suite for word processing, spreadsheets, presentations, graphics, databases and more. [![Open-Source Software][OSS Icon]](http://openoffice.apache.org/source.html) ![Freeware][Freeware Icon]
 - [NitroPDF](https://www.gonitro.com/pdf-reader) - The best PDF Reader you'll ever get.
 - [Sumatra PDF](http://www.sumatrapdfreader.org/free-pdf-reader.html) - PDF, ePub, MOBI, CHM, XPS, DjVu, CBZ, CBR reader. ![Freeware][Freeware Icon]
+- [WPS Office](https://www.wps.com/office-free) - The perfect free office software ![Freeware][Freeware Icon]
 
 ### E-Book Utilities
 
@@ -173,14 +179,14 @@ title: Awesome Rank for Awesome-Windows/Awesome
 
 - [0 A.D.](https://play0ad.com/) - A free, open-source real-time strategy game of ancient warfare. [![Open-Source Software][OSS Icon] ★977](https://github.com/0ad/0ad) ![Freeware][Freeware Icon]
 - [Warsow](https://www.warsow.net/) - Free & fast-paced FPS game for Windows. ![Freeware][Freeware Icon]
-- [Awesome Games ★9442](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon]
+- [Awesome Games ★9625](https://github.com/leereilly/games) - List of games hosted on Github. ![Freeware][Freeware Icon]
 - [Freeciv](http://www.freeciv.org/) - A Free and Open Source empire-building strategy game inspired by the history of human civilization.  [![Open-Source Software][OSS Icon]](https://github.com/freeciv/) ![Freeware][Freeware Icon]
 - [GOG Galaxy](https://www.gog.com/galaxy) - Steam-like DRM-free game platform.
 - [Unity](https://unity3d.com/) - Free game engine. Easy to pick up and use with a number of tutorials.
 - [Unreal Engine](https://www.unrealengine.com/what-is-unreal-engine-4) - Another free game engine. Lots of documentation and easier to pick up, but you pay 5% royalties to Unreal when you make money from UE-based games.
 - [Steam](http://store.steampowered.com/) -  Largest online video game retailer. Desktop app allows you to organise your library of games and play them at any time. But you already knew that.
 - [Origin](https://www.origin.com/en-in/store/) - Like Steam, but for EA.
-- [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][OSS Icon] ★665](https://github.com/itchio/itch) ![Freeware][Freeware Icon]
+- [Itch.io](https://itch.io/app/) - Install, update and play indie games. [![Open-Source Software][OSS Icon] ★679](https://github.com/itchio/itch) ![Freeware][Freeware Icon]
 
 ### Graphics
 
@@ -192,14 +198,15 @@ title: Awesome Rank for Awesome-Windows/Awesome
 
 ### Text Editors
 
-- [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon] ★39178](https://github.com/atom/atom) ![Freeware][Freeware Icon]
-- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon] ★27914](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
-- [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][OSS Icon] ★9788](https://github.com/vim/vim) ![Freeware][Freeware Icon]
-- [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][OSS Icon] ★9726](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
-- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][OSS Icon] ★4480](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
+- [Atom](https://atom.io/) - A hackable text editor for the 21st Century. [![Open-Source Software][OSS Icon] ★40037](https://github.com/atom/atom) ![Freeware][Freeware Icon]
+- [Brackets](http://brackets.io/) - A modern, open source text editor that understands web design. [![Open-Source Software][OSS Icon] ★28088](https://github.com/adobe/brackets) ![Freeware][Freeware Icon]
+- [GVim](http://www.vim.org/download.php#pc) - (G)Vim is a highly configurable text editor built to enable efficient text editing. [![Open-Source Software][OSS Icon] ★10050](https://github.com/vim/vim) ![Freeware][Freeware Icon]
+- [Light Table](http://lighttable.com/) - A customizable editor with instant feedback and showing data values flow through your code. [![Open-Source Software][OSS Icon] ★9776](https://github.com/LightTable/LightTable) ![Freeware][Freeware Icon]
+- [Neovim](https://neovim.io/) - literally the future of vim
+- [Notepad++](https://notepad-plus-plus.org/) - A source code editor which supports several programming languages. [![Open-Source Software][OSS Icon] ★4601](https://github.com/notepad-plus-plus/notepad-plus-plus) ![Freeware][Freeware Icon]
 - [Notepad2](http://www.flos-freeware.ch/notepad2.html) - Tiny and fast Notepad replacement with many useful features. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
 - [Sublime Text 3](http://www.sublimetext.com/3) - The sophisticated text editor.
-- [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][OSS Icon] ★31952](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
+- [Visual Studio Code](https://code.visualstudio.com/) - Build and debug modern web and cloud applications. [![Open-Source Software][OSS Icon] ★33529](https://github.com/Microsoft/vscode) ![Freeware][Freeware Icon]
 
 ### IDEs
 
@@ -219,7 +226,10 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [Box](https://app.box.com/services/browse/43/box_sync_for_windows) - Ability to sync more than 100,000 files and supporting both special characters in file names and file paths longer than 256 characters.
 
 ### Backup
-- [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux.[![Open-Source Software][OSS Icon] ★1987](https://github.com/duplicati/duplicati) ![Freeware][Freeware Icon]
+
+- [Arq](https://www.arqbackup.com/) - Backs up your files to your own cloud account (Amazon Cloud Drive, AWS, Dropbox, Google Drive, Google Cloud Storage, OneDrive, and SFTP).
+- [Bvckup 2](https://bvckup2.com/) - Light, versatile data replication software.
+- [Duplicati](https://www.duplicati.com/) - Free backup software to store encrypted backups online For Windows, macOS and Linux.[![Open-Source Software][OSS Icon] ★2135](https://github.com/duplicati/duplicati) ![Freeware][Freeware Icon]
 
 ### Productivity
 
@@ -231,15 +241,16 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [Everything](http://www.voidtools.com/) - The fastest file/folder search tool by name.
 - [f.lux](http://stereopsis.com/flux/) - Automatically adjust your computer screen to match lighting. ![Freeware][Freeware Icon]
 - [Inkdrop](https://www.inkdrop.info/) - The note-taking app for Markdown lovers.
-- [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][OSS Icon] ★37](https://github.com/OpenNingia/Launchy) ![Freeware][Freeware Icon]
+- [Launchy](http://www.launchy.net/) - The Open Source Keystroke Launcher. [![Open-Source Software][OSS Icon] ★39](https://github.com/OpenNingia/Launchy) ![Freeware][Freeware Icon]
 - [Listary](http://www.listary.com/) - Keep files at your fingertips. An unique search utility.
 - [MultiCommander](http://multicommander.com/) - File Manager for Professionals. ![Freeware][Freeware Icon]
 - [Ninite](https://ninite.com/) - The easiest, fastest way to update or install software. ![Freeware][Freeware Icon]
-- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][OSS Icon] ★2494](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
+- [One Commander](http://onecommander.com/) - File manager featuring miller columns and dual-pane views. ![Freeware][Freeware Icon]
+- [Scoop](https://github.com/lukesampson/scoop) - A command-line installer for Windows. [![Open-Source Software][OSS Icon] ★2663](https://github.com/lukesampson/scoop) ![Freeware][Freeware Icon]
 - [Total Commander](https://www.ghisler.com/) - The best file manager for Windows.
 - [Simplenote](https://simplenote.com/) - Simple cross-platform note taking app with cloud-based syncing. ![Freeware][Freeware Icon]
 - [WordWeb](http://wordweb.info/) - A very good English dictionary for windows. ![Freeware][Freeware Icon]
-- [Wox](http://www.getwox.com/) - An effective launcher for windows. [![Open-Source Software][OSS Icon] ★6236](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
+- [Wox](http://www.getwox.com/) - An effective launcher for windows. [![Open-Source Software][OSS Icon] ★6442](https://github.com/Wox-launcher/Wox) ![Freeware][Freeware Icon]
 - [KatMouse](http://www.ehiti.de/katmouse/) - Utility that enables "universal scrolling" in Windows: scrolling does not need the window to be active/clicked first (i.e. how it works in macOS and Linux) ![Freeware][Freeware Icon]
 - [Keypirinha](http://keypirinha.com/) - A fast launcher for keyboard ninjas on Windows. You can think of Keypirinha as an alternative to *Launchy* and a cousin of *Alfred*. ![Freeware][Freeware Icon]
 
@@ -247,16 +258,16 @@ title: Awesome Rank for Awesome-Windows/Awesome
 ### Terminal
 
 - [Babun](http://babun.github.io/) - Alternative Windows shell based on Cygwin.
-- [Cmder ★11196](https://github.com/cmderdev/cmder) - Console emulator package.
-- [ConEmu ★3783](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
-- [ConsoleZ ★2184](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
-- [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][OSS Icon] ★18354](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
+- [Cmder ★11461](https://github.com/cmderdev/cmder) - Console emulator package.
+- [ConEmu ★3894](https://github.com/Maximus5/ConEmu) - Customizable terminal with tabs, splits, quake-style and more.
+- [ConsoleZ ★2218](https://github.com/cbucher/console) - Modified version of Console 2 for a better experience and a better visual rendering.
+- [Hyper](https://hyper.is) - A terminal built on web technologies. [![Open-Source Software][OSS Icon] ★18786](https://github.com/zeit/hyper) ![Freeware][Freeware Icon]
 - [MobaXterm](http://mobaxterm.mobatek.net/) - Xserver and tabbed SSH client.
 - [mRemoteNG](https://mremoteng.org/) - The next generation of mRemote, open source, tabbed, multi-protocol, remote connections manager. [![Open-Source Software][OSS Icon]](https://mremoteng.org/) ![Freeware][Freeware Icon]
 - [MTPuTTY](http://ttyplus.com/multi-tabbed-putty/) - Multi-Tabbed PuTTY.
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Kitty](http://www.9bis.net/kitty/) - advanced Putty (SSH and telnet client).
-- [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][OSS Icon] ★1699](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
+- [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][OSS Icon] ★1794](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
 
 
 ### Utilities
@@ -270,7 +281,7 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [Fraps](http://www.fraps.com/)- Video game capture screen recorder that can be used with all games using DirectX or OpenGL technology.
 - [FreeFileSync](http://www.freefilesync.org/) - An easy backup solution for files and folders, It supports mirroring/two way sync/update between source and destination.
 - [Glary Utilities](http://www.glarysoft.com/) - Provides many more advanced features which are non existent in ccleaner.
-- [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][OSS Icon] ★593](https://github.com/greenshot/greenshot)
+- [Greenshot](https://github.com/greenshot/greenshot) - Take and crop screenshots directly on the screen. [![Open-Source Software][OSS Icon] ★636](https://github.com/greenshot/greenshot)
 - [GPU-Z](http://www.techpowerup.com/gpuz/) - A free all-in-one GPU monitoring tool. ![Freeware][Freeware Icon]
 - [HTTrack](https://www.httrack.com/page/2/en/index.html)- Offline browser utility, allowing you to download a website from the Internet to a local directory. [![Open-Source Software][OSS Icon]](https://github.com/xroche/httrack/tree/master)
 - [HWMonitor](http://www.cpuid.com/softwares/hwmonitor.html) - A hardware monitoring program that reads PC systems main health sensors : voltages, temperatures, fans speed.
@@ -278,29 +289,30 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [Link Shell Extension](http://schinagl.priv.at/nt/hardlinkshellext/hardlinkshellext.html) - Create symlinks from Explorer.
 - [rimraf](https://www.npmjs.com/package/rimraf) - A deep deletion module for node. Help to delete files and folders with very long paths
 - [PowerPlanSwitcher](https://www.microsoft.com/en-us/store/p/powerplanswitcher/9nblggh556l3) - Provides a quick UI for switching power schemas & automatic switch on AC-plug-in on Windows10. [![Open-Source Software][OSS Icon] ★16](https://github.com/petrroll/PowerSwitcher)
+- [qBittorrent](https://qbittorrent.org/) - Free and reliable P2P Bittorrent client.
 - [Rufus](https://rufus.akeo.ie/) - Create bootable USB drives the easy way.
 - [SDelete](https://technet.microsoft.com/en-us/sysinternals/sdelete.aspx) -  A command line utility that can securely delete a file, or clean the slack space.
 - [SpaceMonger](https://spacemonger.en.softonic.com/download) - A graphical utility to display folders and files in blocks relative to their disk usage.
 - [Speccy](https://www.piriform.com/speccy) -Detailed statistics on every piece of hardware in your computer.
-- [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon] ★6191](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
+- [ShareX](https://getsharex.com/)- Lets you take screenshots or screencasts of any selected area with a single key. [![Open-Source Software][OSS Icon] ★6342](https://github.com/ShareX/ShareX) ![Freeware][Freeware Icon]
 - [Sysinternals Suite](https://technet.microsoft.com/en-us/sysinternals/bb842062) - Tool suite by Mark Russinovich that provides access to Windows internals for troubleshooting: processes, physical ports, disk activity etc.
 - [Unlocker](http://www.softpedia.com/get/System/System-Miscellaneous/Unlocker.shtml) - Unlock files Windows won't let you delete
 - [Waltr](http://softorino.com/waltr/) - Transfer any movie or music file to your iPhone w/o iTunes.
 - [WinDirStat](https://windirstat.info/) - It is a disk usage statistics viewer and cleanup too.
-- [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][OSS Icon] ★634](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
+- [Windows 10 Login Screen Changer](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer/releases/) - Changes the Windows 10 Login Screen Background. [![Open-Source Software][OSS Icon] ★632](https://github.com/PFCKrutonium/Windows-10-Login-Background-Changer)
 - [ZoomIt](https://technet.microsoft.com/en-us/sysinternals/zoomit.aspx) - It is a screen zoom and annotation tool for technical presentations. It runs unobtrusively in the tray and activates with customizable hotkeys to zoom in on an area of the screen, move around while zoomed, and draw on the zoomed image.
 
 
 ### Video
 
 - [K-Lite Codecs](http://www.codecguide.com/download_kl.htm) - Collection of DirectShow filters, VFW/ACM codecs, and tools.
-- [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon] ★6081](https://github.com/mpv-player/mpv)
-- [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon] ★2233](https://github.com/HandBrake/HandBrake)
+- [mpv](http://mpv.io/) - Media player. [![Open-Source Software][OSS Icon] ★6260](https://github.com/mpv-player/mpv)
+- [HandBrake](http://handbrake.fr/) - High performance video encoding and conversion tools with a nice GUI. [![Open-Source Software][OSS Icon] ★2303](https://github.com/HandBrake/HandBrake)
 - [VLC](http://www.videolan.org/vlc/index.html) - Multimedia player and framework that plays DVDs, Audio CDs, VCDs, and various streaming protocols.
-- [ScreenToGif](http://www.screentogif.com/) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video. [![Open-Source Software][OSS Icon] ★1724](https://github.com/NickeManarin/ScreenToGif) ![Freeware][Freeware Icon]
+- [ScreenToGif](http://www.screentogif.com/) - ScreenToGif allows you to record a selected area of your screen and save it as a gif or video. [![Open-Source Software][OSS Icon] ★1940](https://github.com/NickeManarin/ScreenToGif) ![Freeware][Freeware Icon]
 - [PotPlayer](http://potplayer.daum.net/) - Multimedia player with a wide collection of codecs which also offers extensive configuration options for users.
 - [SMPlayer](https://sourceforge.net/projects/smplayer/) - Multimedia player that can save different preferences for any single video. [![Open-Source Software][OSS Icon]](https://sourceforge.net/p/smplayer/code/HEAD/tree/) ![Freeware][Freeware Icon]
-- [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][OSS Icon] ★2758](https://github.com/jp9000/OBS)
+- [Open Broadcaster Software](https://obsproject.com/) - Free and open source software for video recording and live streaming. [![Open-Source Software][OSS Icon] ★2778](https://github.com/jp9000/OBS)
 
 ## Setup
 
@@ -308,7 +320,7 @@ title: Awesome Rank for Awesome-Windows/Awesome
 
 * http://www.theverge.com/2015/7/31/9077997/microsoft-windows-10-clean-install-how-to-guide
 * http://www.howtogeek.com/224342/how-to-clean-install-windows-10/
-* [Win10-Initial-Setup-Script ★323](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows
+* [Win10-Initial-Setup-Script ★412](https://github.com/Disassembler0/Win10-Initial-Setup-Script) - Powershell script to turn off or on various defaults in Windows
 
 ### Windows 8.1 Setup
 
@@ -320,7 +332,7 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [AdwCleaner](https://toolslib.net/downloads/viewdownload/1-adwcleaner/) - Free removal tool for adware, PUP/LPI, Toolbars and Hijacker. ![Freeware][Freeware Icon]
 - [Bitdefender](http://www.bitdefender.com/) - Best outright protection against malware.
 - [CCleaner](https://www.piriform.com/ccleaner) - For PC Optimization and cleaning computer.
-- [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][OSS Icon] ★1541](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
+- [Cryptomator](https://cryptomator.org/) - Free client-side encryption for your cloud files. [![Open-Source Software][OSS Icon] ★1620](https://github.com/cryptomator/cryptomator) ![Freeware][Freeware Icon]
 - [ENCRYPTO](http://macpaw.com/encrypto) - Encrypt your files in an elegant way. ![Freeware][Freeware Icon]
 - [GlassWire](https://www.glasswire.com/) - Network security monitoring tool and analyzer that visualizes your network activity.
 - [IIS Crypto](https://www.nartac.com/Products/IISCrypto) - A utility for configuring encryption protocols, cyphers, hashing methods, and key exchanges for Windows components (eg TLS/AES/SHA for Remote Desktop)

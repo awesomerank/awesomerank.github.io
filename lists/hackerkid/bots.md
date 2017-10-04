@@ -13,7 +13,7 @@ title: Awesome Rank for hackerkid/bots
 <br>
 <br>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/hackerkid/bots.svg?branch=master)](https://travis-ci.org/hackerkid/bots) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/bots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Join the chat at https://gitter.im/hackerkid/bots](https://badges.gitter.im/hackerkid/bots.svg)](https://gitter.im/hackerkid/bots?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 Table of Contents
 -----------------
@@ -55,7 +55,8 @@ Table of Contents
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot ★4002](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python
+* [ChatterBot ★4296](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python
+* [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 
 ## Tools For Bot Analytics
 * [ChatMetrics](https://chatmetrics.io/) - Engagement platform for bots. ChatMetrics allows to reactivate inactive users and improve retention by sending "smart" notifications to users.
@@ -73,30 +74,58 @@ Table of Contents
 ## Libraries
 
 ### General
-* [Qtypes ★124](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
-* [BotKit ★6854](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
-* [Claudia Bot Builder ★1196](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
+* [Qtypes ★128](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
+* [BotKit ★7103](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
+* [Claudia Bot Builder ★1240](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
 
 ### Facebook Messenger
-* [Go ★218](https://github.com/paked/messenger)
+* [Go ★220](https://github.com/paked/messenger)
 
 ### Slack
 * [Node.js (Official)](https://github.com/slackhq/node-slack-sdk)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
-* [Relax (scalable RTM library to scale to 1000's of teams) ★146](https://github.com/zerobotlabs/relax)
+* [Relax (scalable RTM library to scale to 1000's of teams) ★147](https://github.com/zerobotlabs/relax)
 
 ### Telegram
-* [Node.js ★1890](https://github.com/yagop/node-telegram-bot-api)
-* [Node.js ★442](https://github.com/telegraf/telegraf)
-* [PHP ★838](https://github.com/irazasyed/telegram-bot-sdk)
-* [Python ★2849](https://github.com/python-telegram-bot/python-telegram-bot)
+* [Node.js ★2011](https://github.com/yagop/node-telegram-bot-api)
+* [Node.js ★527](https://github.com/telegraf/telegraf)
+* [PHP ★875](https://github.com/irazasyed/telegram-bot-sdk)
+* [Python ★3138](https://github.com/python-telegram-bot/python-telegram-bot)
 * [C#](https://github.com/MrRoundRobin/telegram.bot)
-* [Go ★319](https://github.com/tucnak/telebot)
+* [Go ★333](https://github.com/tucnak/telebot)
+
+### Discord
+###### Node.js
+* [Eris ★256](https://github.com/abalabahaha/eris)
+* [Discord.js ★1555](https://github.com/hydrabolt/discord.js)
+* [Discordie ★167](https://github.com/qeled/discordie)
+* [Discord.io ★359](https://github.com/izy521/discord.io)
+
+###### C#
+* [Discord.Net ★530](https://github.com/RogueException/Discord.Net)
+
+###### Python
+* [discord.py ★1443](https://github.com/Rapptz/discord.py)
+
+###### Java
+* [JDA ★350](https://github.com/DV8FromTheWorld/JDA)
+
+###### Rust
+* [Serenity ★130](https://github.com/zeyla/serenity)
+
+###### Lua
+* [Discordia ★77](https://github.com/SinisterRectus/Discordia)
+
+### Kik
+* [Python ★37](https://github.com/kikinteractive/kik-python)
+* [Node.JS ★75](https://github.com/kikinteractive/kik-node)
+
 
 ## Bot Stores
-* [ChatBottle](https://chatbottle.co/) - Chatbots Search Engine
+* [There is a bot for that](https://thereisabotforthat.com) - Search engine for bots
+* [ChatBottle](https://chatbottle.co/) - Chatbots search engine
 * [botlist](https://botlist.co/) - An App Store For Bots.
 * [Slack Store](https://decentralizedweb.slack.com/apps) - The official Slack bot store.
 * [Telegram Store](https://storebot.me/) - The official Telegram bot store.
@@ -104,6 +133,7 @@ Table of Contents
 * [Dashbot](http://www.dashbot.io/bots) - Dashbot bot directory.
 * [Skype Bot Directory](https://bots.botframework.com/) - The official list of skype bots by Microsoft Bot Framework
 * [Teamchat](http://www.teamchat.com/en/bot-store/) - Bot store by teamchat.
+* [Discord Bots](https://bots.discord.pw/) - An unofficial list of discord bots.
 
 ## Tutorials
 * [The Complete Beginner’s Guide To Chatbots.](https://chatbotsmagazine.com/the-complete-beginner-s-guide-to-chatbots-8280b7b906ca).
@@ -114,7 +144,7 @@ Table of Contents
 * [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.rreq2dp6r)
 * [Pair Programming a Facebook Messenger Bot.](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.b1rilkua8) 
-* [Facebook Chatbot Tutorial ★8](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
+* [Facebook Chatbot Tutorial ★9](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 
 ## Communities
 * [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.
@@ -123,6 +153,7 @@ Table of Contents
 * [HH Bots](https://www.facebook.com/groups/hhbots/) - Facebook group.
 * [Messenger Platform Developer Community](https://www.facebook.com/groups/242384196138564/) - Official Facebook group.
 * [Chatbots and Conversational Agents](https://www.quora.com/topic/Chatbots-and-Conversational-Agents) - Quora Topic
+* [Bot Developer Hangouts](http://dev4slack.xoxco.com/) - Community on Slack for all bot platforms.
 
 ## Conferences
 * [ChatbotConf](https://chatbotconf.com/)
@@ -130,6 +161,7 @@ Table of Contents
 
 ## Developers
 * [BotMakers](https://botmakers.net/) - The best place to hire chatbot developers
+* [Botgig](http://www.botgig.com/) - Hire a top chatbot dev from a vetted talent pool.
 
 ## License
 

@@ -10,10 +10,10 @@ title: Awesome Rank for afonsopacifer/awesome-flexbox
 [![awesome flexbox](https://github.com/afonsopacifer/awesome-flexbox/blob/master/awesome-flexbox.jpg) ★708](https://github.com/afonsopacifer/awesome-flexbox)
 
 [![Build Status](https://travis-ci.org/afonsopacifer/awesome-flexbox.svg?branch=master)](https://travis-ci.org/afonsopacifer/awesome-flexbox)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > A curated list of CSS Flexible Box Layout Module or only Flexbox.
-Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-svg ★3290](https://github.com/willianjusten/awesome-svg).
+Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcomponents) and [awesome-svg ★3329](https://github.com/willianjusten/awesome-svg).
 
 ## Table of Contents
 * [W3C Specification](#w3c-specification)
@@ -168,7 +168,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 ## Libraries and Frameworks
 *A list of incredible libraries based on flexbox.*
 * [Bem grid](https://github.com/bem-incubator/bem-grid)
-* [Flexboxgrid ★6388](https://github.com/kristoferjoseph/flexboxgrid):metal:
+* [Flexboxgrid ★6522](https://github.com/kristoferjoseph/flexboxgrid):metal:
 * [Flex Grid Framework](https://afonsopacifer.github.io/flex-grid-framework/):metal:
 * [Flexbox Grid for Stylus](http://stylusgrid.com)
 * [Fuux ★4](https://github.com/henriquecustodia/fuux) - Fuux is a Flexbox library that uses the same flexbox interface like classes.
@@ -188,6 +188,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexbox Defense](http://www.flexboxdefense.com/) - Tower Defense with a twist: all towers must be positioned with CSS Flexbox.
 * [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - Understand how to calculate the width of flex items.
 * [Flexbox layout ★9284](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
+* [FlexLayout for iOS ★67](https://github.com/lucdion/FlexLayout) - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax.
 * [iron-flex-layout](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout) - Style mixins for cross-platform flex-box layouts
 * [Post Apocalypse Flexbox ★25 ⏳1Y](https://github.com/afonsopacifer/post-apocalypse-flexbox)
 * [React-flexbox ★150](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles.

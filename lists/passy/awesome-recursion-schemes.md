@@ -7,7 +7,7 @@ title: Awesome Rank for passy/awesome-recursion-schemes
 	This list is a copy of <a href="https://github.com/passy/awesome-recursion-schemes">passy/awesome-recursion-schemes</a> with ranks
 </p>
 ---
-# Awesome Recursion Schemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Recursion Schemes [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > A curation of useful resources for learning about and using recursion schemes.
 

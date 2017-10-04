@@ -7,14 +7,14 @@ title: Awesome Rank for sadcitizen/awesome-backbone
 	This list is a copy of <a href="https://github.com/sadcitizen/awesome-backbone">sadcitizen/awesome-backbone</a> with ranks
 </p>
 ---
-# Awesome Backbone.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Backbone.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > A list of resources for backbone.js
 
 ## General
 
 - [Backbone.js](http://backbonejs.org/)
-- [Github repository ★26601](https://github.com/jashkenas/backbone)
+- [Github repository ★26693](https://github.com/jashkenas/backbone)
 - [Annotated source](http://backbonejs.org/docs/backbone.html)
 - [Backbone plugins](http://backplug.io/)
 - [Backbone Index](https://backboneindex.com/) - Discover new Backbone plugins and resources
@@ -132,7 +132,7 @@ title: Awesome Rank for sadcitizen/awesome-backbone
 - [Backbone-forms ★2240](https://github.com/powmedia/backbone-forms)
 - [Backgrid.js](https://github.com/wyuenho/backgrid)
 - [Backbone.localStorage ★1965](https://github.com/jeromegn/Backbone.localStorage)
-- [Backbone.stickit ★1697](https://github.com/NYTimes/backbone.stickit)
+- [Backbone.stickit ★1697 ⏳1Y](https://github.com/NYTimes/backbone.stickit)
 - [Backbone.paginator ★1471](https://github.com/backbone-paginator/backbone.paginator)
 - [Backbone.validation ★1381](https://github.com/thedersen/backbone.validation)
 - [Exoskeleton ★919 ⏳1Y](https://github.com/paulmillr/exoskeleton)

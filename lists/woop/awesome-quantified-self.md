@@ -7,7 +7,7 @@ title: Awesome Rank for woop/awesome-quantified-self
 	This list is a copy of <a href="https://github.com/woop/awesome-quantified-self">woop/awesome-quantified-self</a> with ranks
 </p>
 ---
-# Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 
 # [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://github.com/willempienaar/awesome-quantified-self)
@@ -193,10 +193,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Open Source Projects
 
 - [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-- [Connector DB ★72](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
+- [Connector DB ★75](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
 - [Quantifier ★15](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-- [Fluxtream ★128 ⏳1Y](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
-- [Flow Dashboard ★893](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
+- [Fluxtream ★129 ⏳1Y](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+- [Flow Dashboard ★901](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 
 ## License
 

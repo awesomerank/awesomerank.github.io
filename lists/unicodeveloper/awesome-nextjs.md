@@ -7,7 +7,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 	This list is a copy of <a href="https://github.com/unicodeveloper/awesome-nextjs">unicodeveloper/awesome-nextjs</a> with ranks
 </p>
 ---
-# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 [<img src="https://rawgit.com/ooade/awesome-nextjs/master/nextjs-logo.svg" align="right" width="250"> ★17004](https://github.com/zeit/next.js)
 
@@ -50,6 +50,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [RAN! ★805](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 * [Next Simple Blog ★263](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 * [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
+* [phox ★1](https://github.com/herschel666/phox) - Create a static photo blog.
 
 ## Extensions
 * [Next Routes ★347](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
@@ -72,6 +73,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Dashboard ★234](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 * [Snape ★50](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. 
 * [Trello Resume ★3](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
+* [Server Authentication with JWT ★4](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation
 
 ## Videos
 

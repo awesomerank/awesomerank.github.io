@@ -13,9 +13,9 @@ title: Awesome Rank for viatsko/awesome-vscode
 </p>
 <br/>
 
-# Awesome VS Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome VS Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome ★63835](https://github.com/sindresorhus/awesome).
+A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome ★65640](https://github.com/sindresorhus/awesome).
 
 [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
 
@@ -44,6 +44,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Atom One Light Theme](#atom-one-light-theme)
   - [Ayu](#ayu)
   - [Base16 Ocean Kit](#base16-ocean-kit)
+  - [Cobalt2 by Wes Bos](#cobalt2-theme-official-by-wes-bos)
   - [Dracula](#dracula)
   - [Material-theme](#material-theme)
   - [Nord](#nord)
@@ -59,6 +60,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Git Project Manager](#git-project-manager)
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
+  - [GitHub](#github)
   - [Icon Fonts](#icon-fonts)
   - [Multiple clipboards](#multiple-clipboards)
   - [npm Intellisense](#npm-intellisense)
@@ -152,6 +154,10 @@ The VSCode team provides keymaps from popular editors, making the transition to 
 
 > Popular Visual Studio keybindings for VS Code.
 
+### [Migrating from Intellij IDEA](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings)
+
+> Popular Intellij IDEA keybindings for VS Code.
+
 ## Lint and IntelliSense
 
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
@@ -189,8 +195,8 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 - [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`). 
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
-- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2841](https://github.com/sindresorhus/xo).
-- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★11100](https://github.com/avajs/ava).
+- [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2918](https://github.com/sindresorhus/xo).
+- [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★11383](https://github.com/avajs/ava).
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) - Linter, Formatter and Pretty printer for [Prettier ★371](https://github.com/prettier/prettier-vscode).
 
 ### TypeScript
@@ -255,6 +261,10 @@ Features full workbench theming
 #### [Base16 Ocean Kit](https://marketplace.visualstudio.com/items?itemName=chipcollier.Theme-OceanKit)
 
 ![](https://cloud.githubusercontent.com/assets/376065/12876166/98575186-cdfb-11e5-953d-2691ccad3472.png)
+
+#### [Cobalt2 Theme Official by Wes Bos](https://marketplace.visualstudio.com/items?itemName=wesbos.theme-cobalt2)
+
+![Cobalt 2](https://raw.githubusercontent.com/wesbos/cobalt2-vscode/cobalt2-updates/images/ss.png)
 
 #### [Dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
 
@@ -330,6 +340,12 @@ Features full workbench theming
 > Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file and blame history explorers, and commands to compare changes with the working tree or previous versions.
 
 ![](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/gitlens-preview1.gif)
+
+### [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
+
+> Provides GitHub workflow support. For example browse project, issues, file (the current line), create and manage pull request. Support for other providers (e.g. gitlab or bitbucket) is planned.
+
+> Have a look at the [README.md](https://github.com/KnisterPeter/vscode-github/blob/master/README.md) on how to get started with the setup for this extension.
 
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 

@@ -65,7 +65,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## Bootstraps and boilerplates
 
 * [dboostrap ★149 ⏳2Y](https://github.com/atoha/dbootstrap) - Bootstrap theme for Dojo
-* [Dojo Boilerplate ★392 ⏳1Y](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit
+* [Dojo Boilerplate ★392 ⏳2Y](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit
 * [Dojo Twitter bootstrap ★183](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo
 * [dojo.js ★16 ⏳1Y](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
 * [dojo-node-boilerplate ★19 ⏳2Y](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS
@@ -85,7 +85,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [dgrid](http://dgrid.io/) - next-generation grid component that takes full advantage of modern browsers and object stores.
     * [gridx](http://oria.github.io/gridx/) - A fast rendering, well modularized and plugin architecture based Grid.
     * [xgrid ★0](https://github.com/xblox/xgrid) - dgrid extensions.
-* [grunt-dojo ★35](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task
+* [grunt-dojo ★35 ⏳1Y](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task
 * [grunt-dojo2 ★4](https://github.com/dojo/grunt-dojo2) - Build Dojo2 inside a Grunt task
 * [karma-dojo ★1 ⏳3Y](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit.
 * [Leadfoot ★151](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API
@@ -134,7 +134,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * PHP
     * [Dojo & Composer ★4 ⏳4Y](https://github.com/zoopcommerce/pixie) - custom Composer installers for zoop packages including Dojo
     * [Dojo & Symfony PHP framework](https://www.sitepen.com/blog/2011/09/06/what-is-the-best-way-to-use-dojo-with-a-symfony-backend/) - integrating Dojo Toolkit with Symfony PHP framework
-    * [Dojo & Zend PHP framework ★10 ⏳4Y](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule
+    * [Dojo & Zend PHP framework ★10 ⏳5Y](https://github.com/superdweebie/DojoModule) - integrating Dojo Toolkit with Zend Framework through DojoModule
 
 [Back to top](#awesome-dojo)
 
@@ -180,7 +180,7 @@ Inspired by the `awesome-*` trend on GitHub.
 ## TypeScript
 
 * [Definitive TypeScript Guide](https://www.sitepen.com/blog/2013/12/31/definitive-guide-to-typescript/) - A guide about features and functionalities of TypeScript
-* [Dojo to Typescript Converter ★10 ⏳4Y](https://github.com/stopyoukid/DojoToTypescriptConverter) - A typescript script which creates typescript compatible declarations from a dojo api.json file.
+* [Dojo to Typescript Converter ★10 ⏳5Y](https://github.com/stopyoukid/DojoToTypescriptConverter) - A typescript script which creates typescript compatible declarations from a dojo api.json file.
 * [Dojo-TypeScript ★13 ⏳1Y](https://github.com/schungx/Dojo-TypeScript) - Using Dojo 1.9 AMD-style with Microsoft TypeScript 0.9.5
 * [Dojo Typings ★16](https://github.com/dojo/typings) - A repository of Dojo 1 TypeScript Typings (including Dijit and DojoX)
 
@@ -207,13 +207,13 @@ Inspired by the `awesome-*` trend on GitHub.
 
 ## Other Awesome Lists
 
-* [awesome-javascript ★11880](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list
+* [awesome-javascript ★12141](https://github.com/sorrycc/awesome-javascript) - awesome JavaScript list
 * [awesome-javascript-books ★78 ⏳2Y](https://github.com/heatroom/awesome-javascript-books) - awesome JavaScript books
 * awesome lists:
-    * [awesome ★63835](https://github.com/sindresorhus/awesome) - awesome list
-    * [awesome-awesome ★871](https://github.com/emijrp/awesome-awesome) - awesome list
+    * [awesome ★65640](https://github.com/sindresorhus/awesome) - awesome list
+    * [awesome-awesome ★896](https://github.com/emijrp/awesome-awesome) - awesome list
     * [GetAwesomeness](https://getawesomeness.herokuapp.com/) - awesome lists
-    * [lists ★4428](https://github.com/jnv/lists) - awesome lists
+    * [lists ★4466](https://github.com/jnv/lists) - awesome lists
     * [awesome-all ★93](https://github.com/bradoyler/awesome-all) - awesome lists
     * [awesome-awesome ★124](https://github.com/erichs/awesome-awesome) - awesome lists
 

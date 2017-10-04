@@ -7,7 +7,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 	This list is a copy of <a href="https://github.com/kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks
 </p>
 ---
-# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Software Engineering Blogs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 ### [Companies](#companies-1)
 |     |     |     |     |     |     |     |     |     |
@@ -46,8 +46,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Airbnb https://medium.com/airbnb-engineering
 * Airtame https://airtame.engineering
 * Algolia https://blog.algolia.com/
-* Allegro.tech http://allegro.tech
-* AlphaSights http://engineering-blog.alphasights.com/
+* Allegro.tech https://allegro.tech
 * Appnexus https://techblog.appnexus.com/
 * Arkency http://blog.arkency.com/
 * Artsy http://artsy.github.io/
@@ -62,13 +61,14 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Azavea https://www.azavea.com/blog/category/software-development/
 
 #### B companies
+* Babbel https://bytes.babbel.com/en/
 * Backtrace https://backtrace.io/blog/
 * Badoo https://techblog.badoo.com/
 * Baidu Research http://research.baidu.com/category/baidutechblog/baidu-research-technology/
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
-* Benchling http://benchling.engineering/
+* Benchling https://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Bigcommerce http://www.bigeng.io/
 * Binary Studio https://binary-studio.com/blog/
@@ -101,7 +101,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Code Better http://codebetter.com/
 * Code School https://www.codeschool.com/blog/categories/development/
 * Codelitt https://www.codelitt.com/blog/
-* Codemancers http://crypt.codemancers.com/
+* Codemancers https://crypt.codemancers.com/
 * Codementor https://www.codementor.io/tutorial
 * CodeName One http://www.codenameone.com/blog.html
 * Codeship https://blog.codeship.com/
@@ -154,10 +154,10 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Firmafon https://dev.firmafon.dk/blog/
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
-* Flipkart http://tech-blog.flipkart.net/
 * Foursquare https://engineering.foursquare.com/
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
+* Fynd http://gofynd.io/blog
 
 #### G companies
 * Galois https://galois.com/blog/
@@ -183,7 +183,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 
 #### H companies
 * HackerEarth http://engineering.hackerearth.com/
-* Haptik http://haptik.ai/tech/
+* Haptik https://haptik.ai/tech/
 * Harry's http://engineering.harrys.com/
 * Hashrocket https://hashrocket.com/blog
 * Haus https://engineering.haus.com
@@ -205,7 +205,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * IFTTT http://engineering.ifttt.com/
 * IMVU https://engineering.imvu.com/
 * Imaginea https://blog.imaginea.com/
-* Imgur http://blog.imgur.com/category/eng/
+* Imgur https://blog.imgur.com/category/eng/
 * Inaka http://inaka.net/blog/
 * Indeed http://engineering.indeedblog.com/blog/
 * Instacart https://tech.instacart.com/
@@ -218,6 +218,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 
 #### J companies
 * Jane Street https://blogs.janestreet.com/category/ocaml/
+* Jobandtalent https://jobandtalent.engineering/
 * JobTeaser https://medium.com/jobteaser-dev-team/
 * Jolly Good Code https://jollygoodcode.github.io/
 * Just Eat https://tech.just-eat.com/
@@ -234,12 +235,10 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Laterooms http://engineering.laterooms.com/
 * LendingHome https://tech.lendinghome.com/
 * LINE https://engineering.linecorp.com/en/blog
-* Linkedcare http://blog.linkedcare.com/
 * LinkedIn https://engineering.linkedin.com/blog
 * Linode https://engineering.linode.com/
 * LiveChat https://developers.livechatinc.com/blog/
 * LiveRamp https://liveramp.com/engineering/
-* LivingSocial https://techblog.livingsocial.com/
 * Localytics http://eng.localytics.com/
 * Lookout http://hackers.lookout.com/
 * Lyft https://eng.lyft.com/
@@ -270,7 +269,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Netflix https://medium.com/netflix-techblog
 * New York Times https://open.blogs.nytimes.com
 * Nextdoor https://engblog.nextdoor.com/
-* Nordic APIs http://nordicapis.com/blog/
+* Nordic APIs https://nordicapis.com/blog/
 * Novoda https://www.novoda.com/blog/
 * NPR Apps http://blog.apps.npr.org/
 
@@ -279,7 +278,6 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Okta https://developer.okta.com/blog/
 * OmniTI https://omniti.com/seeds/stop-collaborate-and-listen-notify
 * OpenDNS https://engineering.opendns.com/
-* Opendoor https://labs.opendoor.com/
 * OpenTable http://tech.opentable.com/
 * OpenTable UK http://tech.opentable.co.uk/
 * Oursky https://code.oursky.com/
@@ -303,6 +301,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Prolific Interactive http://blog.prolificinteractive.com/category/development/
 * PubNub: https://www.pubnub.com/blog/
 * PullReview http://blog.8thcolor.com/
+* Pusher https://making.pusher.com/
 
 #### Q companies
 * Quora https://engineering.quora.com/
@@ -326,6 +325,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
 * Schibsted Tech Polska http://www.schibsted.pl/blog/
+* Scrapinghub https://blog.scrapinghub.com/
 * Scrunch https://tech.scrunch.com/blog/
 * Secret Escapes http://tech.secretescapes.com/
 * Segment https://segment.com/blog/categories/engineering/
@@ -349,6 +349,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Small Improvements https://tech.small-improvements.com/
 * SmartRecruiters https://up.smartrecruiters.com
 * Snapdeal http://engineering.snapdeal.com/category/code/
+* Snyk https://snyk.io/blog
 * Socialcast http://blog.socialcast.com/engineering/
 * Songkick https://devblog.songkick.com/
 * Soundcloud https://developers.soundcloud.com/blog/
@@ -464,7 +465,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Andrew Brampton https://blog.bramp.net/
-* Andrew Ray http://blog.andrewray.me/
+* Andrew Ray https://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/en/blog/content/
 * Antirez http://antirez.com/latest/0
 * Ariejan de Vroom https://ariejan.net/
@@ -516,6 +517,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Dmitri Pavlutin https://rainsoft.io
 * Domenico Luciani https://domenicoluciani.com
 * Dot Dev (.dev) https://dotdev.co
+* Dragan Djuric http://dragan.rocks
 * Dragan Gaic http://www.gajotres.net/
 * Drew DeVault https://drewdevault.com/
 * Ducode.org https://ducode.org/tag/tutorial
@@ -576,7 +578,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Jerry Gamblin https://jerrygamblin.com/
 * Jessie Frazelle https://blog.jessfraz.com/
 * Jesus Castello http://www.blackbytes.info/
-* Joe Armstrong http://joearms.github.io/
+* Joe Armstrong https://joearms.github.io/
 * Joel Spolsky https://www.joelonsoftware.com/
 * John Resig https://johnresig.com/category/blog/
 * John Wittenauer http://www.johnwittenauer.net/
@@ -615,7 +617,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
 * Matt Warren http://mattwarren.org/
-* Michael Crump http://michaelcrump.net/
+* Michael Crump https://michaelcrump.net/
 * Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
 * Miguel Quinones https://www.miqu.me/
@@ -641,7 +643,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Nate Berkopec http://www.nateberkopec.com/
 
 #### O individuals
-* Ofer Zelig http://fullstack.info
+* Ofer Zelig https://fullstack.info
 * Ole Begemann https://oleb.net/blog/
 * Oona Räisänen http://www.windytan.com/
 
@@ -663,7 +665,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 #### R individuals
 * Rachel Kroll https://rachelbythebay.com/w/
 * Radek Pazdera http://radek.io
-* Radim Řehůřek http://radimrehurek.com/blog/
+* Radim Řehůřek https://radimrehurek.com/blog/
 * Ramon Fried https://nativeguru.wordpress.com/
 * Ray Wenderlich https://www.raywenderlich.com/
 * Raymond Chen https://blogs.msdn.microsoft.com/oldnewthing/
@@ -687,7 +689,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Scott Hanselman http://www.hanselman.com/blog/
 * Scott Johnson http://www.fuzzyblog.io/blog/
 * Simon Reimler https://devdactic.com/devblog/
-* Srinivas Tamada http://www.9lessons.info/
+* Srinivas Tamada https://www.9lessons.info/
 * Stack Abuse http://www.stackabuse.com/
 * Stefan Parker http://codebeforethehorse.tumblr.com/
 * Stephen Colebourne http://blog.joda.org/
@@ -780,7 +782,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/kil
 
 # License
 
-Licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
+Licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/kilimchoi/engineering-blogs">kilimchoi/engineering-blogs</a> with ranks

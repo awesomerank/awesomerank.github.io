@@ -7,7 +7,7 @@ title: Awesome Rank for hbokh/awesome-saltstack
 	This list is a copy of <a href="https://github.com/hbokh/awesome-saltstack">hbokh/awesome-saltstack</a> with ranks
 </p>
 ---
-# Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome SaltStack  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 [<img src="https://yt3.ggpht.com/-u0bhYCAc9tQ/AAAAAAAAAAI/AAAAAAAAAAA/VzeLz4xM-AM/s900-c-k-no-mo-rj-c0xffffff/photo.jpg" align="right" width="100">](https://SaltStack.com)
 
@@ -38,11 +38,12 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 * [SaltStack site](https://saltstack.com/) - Company website.
-* [GitHub repo ★7987](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
+* [GitHub repo ★8145](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 * [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 * [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
 * [Training and certification](https://saltstack.com/training/) - Official training.
+* [Jinja2 documentation](http://jinja.pocoo.org/docs/latest/) - This official documentation covers the used templating language in Salt.
 
 ## Tutorials
 
@@ -72,6 +73,8 @@ A :gem: means **really _awesome / useful_**.
 * [Getting Started with Saltstack and salt-workspace](https://blog.badgerops.net/2017/04/10/getting-started-with-salt-workspace/) - Learning SaltStack by setting up a salt-workspace.
 * [Getting started with Salt Structure](https://blog.badgerops.net/2017/04/22/getting-started-with-salt-structure-2/) - Learn how to setup a structured SaltStack workspace.
 * [Writing a custom Salt Grain](https://blog.badgerops.net/2017/05/23/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
+* [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
+* [Introduction to SaltStack ★12](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
 
 ## Code
 
@@ -99,8 +102,8 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tools
 
-* [SaltPad ★585](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
-* [SaltShaker ★115 ⏳1Y](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
+* [SaltPad ★595](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
+* [SaltShaker ★125 ⏳1Y](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
 * [SaltGUI ★30 ⏳1Y](https://github.com/oliverdunk/SaltGUI) - A web interface for managing SaltStack based infrastructure.
 * [Pepperboard ★9](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 
@@ -136,7 +139,7 @@ A :gem: means **really _awesome / useful_**.
 * [Mailing list](https://groups.google.com/forum/#!forum/salt-users) - Salt-users mailinglist on Google Groups.
 * [SaltStack Meetups](https://www.meetup.com/pro/saltstack/) - Worldwide Meetup groups.
 * [SaltConf](http://saltconf.com/) - Annual user conference for SaltStack customers, users, partners, developers and community members.
-
+* [Facebook](https://www.facebook.com/SaltStack/) - Official Facebook account.
 
 ## Formulas
 * [SaltStack Formulas](https://github.com/saltstack-formulas/) - A central collection of formula repositories for SaltStack.

@@ -7,7 +7,7 @@ title: Awesome Rank for NoahBuscher/Inspire
 	This list is a copy of <a href="https://github.com/NoahBuscher/Inspire">NoahBuscher/Inspire</a> with ranks
 </p>
 ---
-Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+Inspire [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 ===
 
 Designing and building a modern frontend in any web project can be a long and arduous process. Here's a collction of links to help you. Enjoy!

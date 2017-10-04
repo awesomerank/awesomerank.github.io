@@ -7,7 +7,7 @@ title: Awesome Rank for cjbarber/ToolsOfTheTrade
 	This list is a copy of <a href="https://github.com/cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
 </p>
 ---
-# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
 
@@ -419,7 +419,7 @@ inside Gmail | Streak lets you keep track of all your deals right from your inbo
 * Pipedrive | https://www.pipedrive.com | | $9/ mo | Pipeline software that gets you organized. | Pipedrive is built for salespeople who need to put in serious effort to turn leads into sales. It helps to organize the work and spend less time on admin.
 * Contactually | https://www.contactually.com | [@Contactually](https://twitter.com/contactually) | $17.99/mo - $99.99/mo | Maximize your network ROI. More referrals. More repeat business | Contactually helps businesses follow up with the right people, at the right time, to maximize relationship ROI.
 
-[Best CRM Software for Startups ★40 ⏳3Y](https://github.com/cjbarber/best-crm-for-startups)
+[Best CRM Software for Startups ★41 ⏳3Y](https://github.com/cjbarber/best-crm-for-startups)
 
 ### Social Media Marketing
 
@@ -625,7 +625,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Convo | https://www.convo.com/
 * Zoom | https://www.zoom.us/
 
-[HipChat Alternatives ★234](https://github.com/cjbarber/hipchat-alternatives)
+[HipChat Alternatives ★237](https://github.com/cjbarber/hipchat-alternatives)
 
 ### Remote Collaboration
 

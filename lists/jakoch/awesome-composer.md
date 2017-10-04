@@ -7,13 +7,13 @@ title: Awesome Rank for jakoch/awesome-composer
 	This list is a copy of <a href="https://github.com/jakoch/awesome-composer">jakoch/awesome-composer</a> with ranks
 </p>
 ---
-## Awesome Composer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/jakoch/awesome-composer.svg?branch=master)](https://travis-ci.org/jakoch/awesome-composer) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
+## Awesome Composer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/jakoch/awesome-composer.svg?branch=master)](https://travis-ci.org/jakoch/awesome-composer) [![license](https://img.shields.io/github/license/jakoch/awesome-composer.svg?maxAge=2592000)]()
 
 [<img src="https://raw.githubusercontent.com/jakoch/awesome-composer/master/logo-composer-transparent.png" align="right" width="150">](https://getcomposer.org/)
 
 > A curated list of resources for Composer, Packagist, Satis, Plugins, Scripts, Videos, Tutorials.
 
-You might also like [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
+You might also like [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 
 *Please read the [contribution guidelines](https://github.com/jakoch/awesome-composer/blob/master/contributing.md) before contributing.*
 
@@ -79,7 +79,7 @@ You might also like [awesome-php ★16252](https://github.com/ziadoz/awesome-php
 - [Composer SemVer Checker](https://semver.mwl.be) - Enables you identify constraint to version resolution issues, by doing a semantic version check for Packagist hosted packages.
 - [Composer-Yaml ★46](https://github.com/igorw/composer-yaml) - This tool converts composer.yml to composer.json.
 - [Studio ★623](https://github.com/franzliedke/studio) - A workbench for developing Composer packages. Its an alternative to editing dependencies in the vendor folder or using [PathRepositories](https://getcomposer.org/doc/05-repositories.md#path) to load a local clone of your dependency into your project.
-- [OctoLinker Browser Extension ★2266](https://github.com/OctoLinker/browser-extension) - Enables you to navigate Composer/NPM dependencies on Github.
+- [OctoLinker Browser Extension ★2316](https://github.com/OctoLinker/browser-extension) - Enables you to navigate Composer/NPM dependencies on Github.
 - [ComposerRequireChecker ★26](https://github.com/maglnet/ComposerRequireChecker) - A CLI tool to analyze dependencies and verify that no unknown imported symbols are used in the sources of a package.
 
 ## Scripts
@@ -97,7 +97,7 @@ You might also like [awesome-php ★16252](https://github.com/ziadoz/awesome-php
 - [Asset Packagist](https://asset-packagist.org/) - Enables installation of Bower and NPM packages as native Composer packages.
 - [Firegento](http://packages.firegento.com/) - A Composer Repository providing Magento Modules.
 - [Drupal Packagist](https://www.drupal.org/node/2822344) - Composer repositories for Drupal 7 and 8 core, modules, and themes.
-- [Satis Server ★1](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
+- [Satis Server ★3](https://github.com/lukaszlach/satis-server) - This docker container provides a Satis Server and enables you to run a private, self-hosted Composer repository with support for Git, Mercurial, and Subversion, HTTP API, HTTPs support, webhook handler and scheduled builds.
 
 ## GUI 
 

@@ -7,7 +7,7 @@ title: Awesome Rank for sdnds-tw/awesome-sdn
 	This list is a copy of <a href="https://github.com/sdnds-tw/awesome-sdn">sdnds-tw/awesome-sdn</a> with ranks
 </p>
 ---
-# Awesome SDN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sdnds-tw/awesome-sdn.svg?branch=master)](https://travis-ci.org/sdnds-tw/awesome-sdn)
+# Awesome SDN [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/sdnds-tw/awesome-sdn.svg?branch=master)](https://travis-ci.org/sdnds-tw/awesome-sdn)
 
 An awesome list about Software Defined Networks (SDN)
 
@@ -22,13 +22,14 @@ An awesome list about Software Defined Networks (SDN)
   - [Simulator/Emulator](#simulatoremulator)
   - [Language](#language)
   - [Library](#library)
-  - [Test](#lest)
+  - [Test](#test)
   - [NFV](#nfv)
   - [Overlay Network](#overlay-network)
   - [Router](#router)
   - [Misc](#misc)
   - [High Performacne Network](#high-performance-network)
   - [Userspace Network Stack](#userspace-network-stack)
+  - [Analytics](#analytics)
 - [Resources](#resources)
   - [Books](#books)
   - [Paper](#paper)
@@ -54,18 +55,18 @@ capabilities such as MPLS and SDN
 
 - [OpenvSwtich](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
 - [Indigo ★53](https://github.com/floodlight/indigo) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
-- [CPqD ★176](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
+- [CPqD ★179](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
 - [Lagopus](https://lagopus.github.io) - A high-performance software OpenFlow 1.3 switch.
 - [LINC-Switch ★195 ⏳2Y](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang
 - [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack.
-- [ZeroTier ★1618](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
+- [ZeroTier ★1693](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
 - [PISCES](http://pisces.cs.princeton.edu/) - A Programmable, Protocol-Independent Software Switch.
-- [BESS ★66](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
+- [BESS ★73](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
 - [FD.IO](https://fd.io/) - Relentlessly focused on data IO speed and efficiency for more flexible and scalable networks and storage
 
 # Network Virtualization
 
-- [FlowVisor ★113 ⏳4Y](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
+- [FlowVisor ★114 ⏳4Y](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
 - [OpenVirtex ★46 ⏳2Y](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
 
 # Protocol
@@ -81,19 +82,20 @@ capabilities such as MPLS and SDN
 # Controller
 
 - [NOX](http://www.noxrepo.org) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
-- [NodeFlow ★51 ⏳5Y](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
+- [NodeFlow ★52 ⏳5Y](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
 - [ONOS](http://onosproject.org) - Open Network Operating System.
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
-- [Floodlight ★455](https://github.com/floodlight/floodlight) - A java-based OpenFlow controller.
-- [Vyatta ★39 ⏳1Y](https://github.com/BRCDcomm/BVC) - The first commercial Controller built directly from OpenDaylight.
+- [Floodlight ★465](https://github.com/floodlight/floodlight) - A java-based OpenFlow controller.
+- [Vyatta ★40 ⏳1Y](https://github.com/BRCDcomm/BVC) - The first commercial Controller built directly from OpenDaylight.
 - [OpenContrail](http://www.opencontrail.org/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
 - [IRIS](http://openiris.etri.re.kr/) - A Resursive SDN Openflow Controller created by SDN Research Section, ETRI.
 - [Open MUL](http://www.openmul.org/openmul-controller.html) - A lightweight SDN/Openflow controller written almost entirely in C from scratch.
 - [OESS ★13](https://github.com/globalnoc/oess) - The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.
-- [Beehive Network Controller ★29 ⏳1Y](https://github.com/kandoo/beehive-netctrl) - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
+- [Beehive Network Controller ★31 ⏳1Y](https://github.com/kandoo/beehive-netctrl) - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
 - [Ravel ★3](https://github.com/ravel-net/ravel) - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
 - [Trema](https://trema.github.io/trema/) - A full-stack, easy-to-use framework for developing OpenFlow controllers in Ruby and C.
+- [Open Security Controller](https://www.opensecuritycontroller.org/) - Software-defined security orchestration solution that automates deployment of virtualized network security functions, like next-generation firewall, intrusion prevention systems and application data controllers
 
 # Simulator/Emulator
 
@@ -101,7 +103,7 @@ capabilities such as MPLS and SDN
 - [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
 - [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
 - [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports OpenFlow environment.
-- [Containernet ★19](https://github.com/containernet/containernet) - Mininet fork that allows to use Docker containers as hosts in emulated networks
+- [Containernet ★21](https://github.com/containernet/containernet) - Mininet fork that allows to use Docker containers as hosts in emulated networks
 - [Tinynet ★8](https://github.com/John-Lin/tinynet) - A lightweight instant virtual network for rapid prototyping SDN
 
 # Language
@@ -114,10 +116,10 @@ capabilities such as MPLS and SDN
 
 # Library
 
-- [loxigen ★67](https://github.com/floodlight/loxigen) - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
+- [loxigen ★68](https://github.com/floodlight/loxigen) - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
 - [openfaucet ★28 ⏳5Y](https://github.com/rlenglet/openfaucet) - openfaucet is a pure Python implementation of the OpenFlow 1.0.0
 protocol, based on Twisted.
-- [oflib-node ★14 ⏳5Y](https://github.com/TrafficLab/oflib-node) - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
+- [oflib-node ★15 ⏳5Y](https://github.com/TrafficLab/oflib-node) - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
 - [OpenFlowJ](https://bitbucket.org/openflowj/openflowj) - A Java implementation of low-level OpenFlow packet marshalling/unmarshalling and IO operations.
 - [nettle](http://haskell.cs.yale.edu/other-projects/nettle/) - A Haskell library for working with the OpenFlow protocol.
 - [OCaml OpenFlow ★9 ⏳2Y](https://github.com/frenetic-lang/ocaml-openflow) - A serialization and protocol library for OpenFlow.
@@ -125,7 +127,7 @@ protocol, based on Twisted.
 
 # Test
 
-- [oftest ★63](https://github.com/floodlight/oftest) - OpenFlow Testing Framework
+- [oftest ★66](https://github.com/floodlight/oftest) - OpenFlow Testing Framework
 - [STS](https://ucb-sts.github.com/sts/) - SDN Troubleshooting System, simulates network devices, allowing programmatically test cases generation.
 - [nice-of](https://code.google.com/archive/p/nice-of/) - A tool to test OpenFlow controller application for the NOX controller platform.
 - [OpenSDNCore](http://www.opensdncore.org/) - Virtualisation Testbed for NFV/SDN Environment.
@@ -147,9 +149,9 @@ protocol, based on Twisted.
 - [Quagga](http://www.quagga.net/)
 - [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP4, BGP4+, OSPFv2, OSPFv3, RIPv1, RIPv2, RIPng, PIM-SM/MSDP and LDP as well as very early support for IS-IS, EIGRP and NHRP.
 - [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
-- [bgp4r ★21](https://github.com/jesnault/bgp4r)
-- [gobgp ★1009](https://github.com/osrg/gobgp)
-- [yabgp ★81](https://github.com/smartbgp/yabgp)
+- [bgp4r ★21 ⏳1Y](https://github.com/jesnault/bgp4r)
+- [gobgp ★1048](https://github.com/osrg/gobgp)
+- [yabgp ★83](https://github.com/smartbgp/yabgp)
 
 # Misc
 
@@ -164,6 +166,8 @@ protocol, based on Twisted.
 It is designed to run on any processors. The first supported CPU was Intel x86 and it is now extended to IBM POWER and ARM.
 - [RDMA](https://en.wikipedia.org/wiki/Remote_direct_memory_access) - Remote direct memory access (RDMA) is a direct memory access from the memory of one computer into that of another without involving either one's operating system. This permits high-throughput, low-latency networking
 - [XDP](https://www.iovisor.org/technology/xdp) - XDP or eXpress Data Path provides a high performance, programmable network data path in the Linux kernel as part of the IO Visor Project.
+- [ASAP2](http://www.mellanox.com/blog/2016/12/three-ways-asap2-beats-dpdk-for-cloud-and-nfv/) - The ASAP2 accelerator is built on top of eSwitch NIC hardware, and allows either the entire virtual switch, or significant portions of virtual switch or distributed virtual router (DVR) operations to be offloaded to the Mellanox NIC
+
 
 # Userspace Network Stack
 - [mTCP ★770](https://github.com/eunyoung14/mtcp) - mTCP is a highly scalable user-level TCP stack for multicore systems. mTCP source code is distributed under the Modified BSD License. For more detail, please refer to the LICENSE. The license term of io_engine driver and ported applications may differ from the mTCP’s.
@@ -172,6 +176,10 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [f-stack ★1002](https://github.com/F-Stack/f-stack) - F-Stack is an user space network development kit with high performance based on DPDK, FreeBSD TCP/IP stack and coroutine API.
 - [yanff ★137](https://github.com/intel-go/yanff) - YANFF is a set of libraries for creating and deploying cloud-native Network Functions (NFs). It simplifies the creation of network functions without sacrificing performance.
 
+# Analytics
+- [PNDA](http://pnda.io/) - The scalable, open source big data analytics platform for networks and services.
+- [SNAS](http://www.snas.io/) - Streaming Network Analytics System (project SNAS) is a framework to collect, track and access tens of millions of routing objects (routers, peers, prefixes) in real time.
+- [Apache Spot](http://spot.incubator.apache.org/) - Community-driven cybersecurity project, built from the ground up, to bring advanced analytics to all IT Telemetry data on an open, scalable platform
 
 # Resources
 ## Books
@@ -185,12 +193,19 @@ It is designed to run on any processors. The first supported CPU was Intel x86 a
 - [Network Algorithmics：An Interdisciplinary Approach to Designing Fast Networked Devices](https://doc.lagout.org/network/Network%20Algorithmics%20An%20Interdisciplinary%20Approach%20to%20Designing%20Fast%20Networked%20Devices.pdf)
 - [Network Programmability and Automation Skills for the Next-Generation Network Engineer](http://shop.oreilly.com/product/0636920042082.do)
 - [SDN网络指南](https://feisky.gitbooks.io/sdn/)(OpenSource Book in Chinese by Pengfei Ni)
+- [DevOps for Networking](https://www.packtpub.com/networking-and-servers/devops-networking)
 
 ## Paper
 - [SDN A Comprehensive Survey](https://pdfs.semanticscholar.org/d8bd/4c1e92420200bd29cb1a233bd81eb3c28bba.pdf)
 - [A Guided Tour of Data-Center Networking](http://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/40404.pdf)
 - [High Performance Datacenter Networks: Architectures, Algorithms, and Opportunities](https://static.googleusercontent.com/media/research.google.com/zh-TW//pubs/archive/37069.pdf)
 - [Re-architecting datacenter networks and stacks for low latency and high performance](http://dl.acm.org/citation.cfm?id=3098825)
+
+## Awesome Posts
+- [VXLAN L3应用EVPN，呈现完整overlay网络](http://www.sdnlab.com/19879.html)
+
+## Awesome Slide
+- [Open Source Networking & ONAP - The Linux Foundation](https://actionweek.tmforum.org/wp-content/uploads/2017/09/TMF-Keynote-LF-Networking-ONAP-Sept-2017-vfinal.pdf)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/sdnds-tw/awesome-sdn">sdnds-tw/awesome-sdn</a> with ranks

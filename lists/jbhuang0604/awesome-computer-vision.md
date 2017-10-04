@@ -8,8 +8,8 @@ title: Awesome Rank for jbhuang0604/awesome-computer-vision
 </p>
 ---
 
-# Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
-A curated list of awesome computer vision resources, inspired by [awesome-php ★16252](https://github.com/ziadoz/awesome-php).
+# Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+A curated list of awesome computer vision resources, inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
@@ -236,7 +236,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [mexopencv](http://kyamagu.github.io/mexopencv/)
 * [SimpleCV](http://simplecv.org/)
 * [Open source Python module for computer vision ★1159](https://github.com/jesolem/PCV)
-* [ccv: A Modern Computer Vision Library ★5910](https://github.com/liuliu/ccv)
+* [ccv: A Modern Computer Vision Library ★5958](https://github.com/liuliu/ccv)
 * [VLFeat](http://www.vlfeat.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
@@ -444,7 +444,7 @@ Non-uniform Deblurring
  * [VoxelHashing: Large-scale KinectFusion](https://github.com/nachtmar/VoxelHashing)
  * [SLAMBench: Multiple-implementation of KinectFusion](http://apt.cs.manchester.ac.uk/projects/PAMELA/tools/SLAMBench/)
  * [SVO: Semi-direct visual odometry ★769](https://github.com/uzh-rpg/rpg_svo)
- * [DVO: dense visual odometry ★235](https://github.com/tum-vision/dvo_slam)
+ * [DVO: dense visual odometry ★235 ⏳1Y](https://github.com/tum-vision/dvo_slam)
  * [FOVIS: RGB-D visual odometry](https://code.google.com/p/fovis/)
 
 ###### Graph Optimization:
@@ -532,7 +532,7 @@ Non-uniform Deblurring
  * [Awesome Deep Vision ★5075](https://github.com/kjw0612/awesome-deep-vision)
 
 #### Machine Learning
- * [Awesome Machine Learning ★25153](https://github.com/josephmisiti/awesome-machine-learning)
+ * [Awesome Machine Learning ★26231](https://github.com/josephmisiti/awesome-machine-learning)
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
  * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
@@ -721,8 +721,8 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning ★5266](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [awesome-machine-learning ★25153](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-deep-learning ★5614](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [awesome-machine-learning ★26231](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *

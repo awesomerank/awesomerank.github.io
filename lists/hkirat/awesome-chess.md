@@ -7,11 +7,11 @@ title: Awesome Rank for hkirat/awesome-chess
 	This list is a copy of <a href="https://github.com/hkirat/awesome-chess">hkirat/awesome-chess</a> with ranks
 </p>
 ---
-# Awesome Chess [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★63835](https://github.com/sindresorhus/awesome)
+# Awesome Chess [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
 A curated list of assets availible on the Internet related to chess.
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might want to read the complete [awesome ★63835](https://github.com/sindresorhus/awesome) list.*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might want to read the complete [awesome ★65640](https://github.com/sindresorhus/awesome) list.*
 
 ### Contributing
 Kindly go through [Contribution Guidelines](https://github.com/hkirat/awesome-chess/blob/master/CONTRIBUTING.md#contribution-guidelines) first.
@@ -78,7 +78,7 @@ Boards
 *Boards are tools for encapsulating the process of rendering a board.*
 
  - [Chessboard.js ★937](https://github.com/oakmac/chessboardjs) - chessboard.js is a standalone JavaScript chess board.
- - [chess-board ★17](https://github.com/laat/chess-board) - A web component for displaying chess positions. It takes FEN string as input and renders the board as output.
+ - [chess-board ★17 ⏳1Y](https://github.com/laat/chess-board) - A web component for displaying chess positions. It takes FEN string as input and renders the board as output.
  - [jchess ★83 ⏳2Y](https://github.com/bmarini/jchess) - A jQuery based JavaScript library for parsing and displaying chess games. Currently takes FEN and PGN as inputs.
  - [Chessboard-js ★11 ⏳3Y](https://github.com/caustique/chessboard-js) - A responsive mobile-first JavaScript chessboard library.
 
