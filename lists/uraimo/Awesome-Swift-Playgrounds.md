@@ -176,7 +176,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *A list of playgrounds that demostrate various aspect of UIKit and other graphical frameworks*
 
 * [UIStackView Playground ★292 ⏳1Y](https://github.com/dasdom/UIStackViewPlayground) - Interesting examples of use of UIStackViews.🌟
-* [Bezier Path Playgrounds ★20](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
+* [Bezier Path Playgrounds ★20 ⏳1Y](https://github.com/DigitalLeaves/BezierPathPlaygrounds) - Some playgrounds to better understand UIBezierPaths.
 * [UIKit playground ★28 ⏳1Y](https://github.com/ralfebert/uikit-playground) - Playgrounds to experiment interactively with UIKit views.
 * [Checkmark Button ★6](https://github.com/BilalReffas/CheckmarkButton) - Animated check mark button.
 * [Window Manager Playground ★32](https://github.com/steventroughtonsmith/windowmanager-playgroundbook) - Playground for an experimental window manager. 📱

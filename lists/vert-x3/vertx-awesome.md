@@ -59,7 +59,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 ## Build tools
 
-* [Vert.x Maven plugin ★10](https://github.com/fabric8io/vertx-maven-plugin)
+* [Vert.x Maven plugin ★12](https://github.com/fabric8io/vertx-maven-plugin)
 * [Vert.x Gradle plugin](https://plugins.gradle.org/plugin/io.vertx.vertx-plugin)
 
 ## Web Frameworks

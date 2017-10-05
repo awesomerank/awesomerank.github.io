@@ -499,7 +499,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Cake Event ★10](https://github.com/cakephp/event) - An event dispatcher library (CP).
 * [Elephant.io ★939](https://github.com/Wisembly/Elephant.io) - Yet another web socket library.
 * [Evenement ★568](https://github.com/igorw/evenement) - An event dispatcher library.
-* [Event ★253](https://github.com/thephpleague/event) - An event library with a focus on domain events.
+* [Event ★253 ⏳1Y](https://github.com/thephpleague/event) - An event library with a focus on domain events.
 * [Hoa EventSource ★70](https://github.com/hoaproject/Eventsource) - An event source library.
 * [Hoa WebSocket ★366](https://github.com/hoaproject/Websocket) - Another web socket library.
 * [Prooph Event Store ★242](https://github.com/prooph/event-store) - An event source component to persist event messages

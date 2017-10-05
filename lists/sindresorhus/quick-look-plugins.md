@@ -106,13 +106,13 @@ Run `brew cask install qlimagesize` or [download manually ★607](https://github
 [![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/qlImageSize.png) ★607](https://github.com/Nyx0uf/qlImageSize)
 
 
-### [WebP ★123 ⏳2Y](https://github.com/dchest/webp-quicklook)
+### [WebP ★123 ⏳3Y](https://github.com/dchest/webp-quicklook)
 
 > Preview WebP images
 
 Run `brew cask install webpquicklook` or [download manually](https://github.com/dchest/webp-quicklook/releases/latest)
 
-[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/WebP.png) ★123 ⏳2Y](https://github.com/dchest/webp-quicklook)
+[![](https://github.com/sindresorhus/quick-look-plugins/blob/master/screenshots/WebP.png) ★123 ⏳3Y](https://github.com/dchest/webp-quicklook)
 
 
 ### [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/)

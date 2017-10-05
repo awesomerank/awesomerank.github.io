@@ -50,7 +50,7 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
 - [phunt ★97](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
 - [trelew ★67 ⏳1Y](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
 - [wat ★375 ⏳1Y](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
-- [metronome ★6 ⏳1Y](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.
+- [metronome ★6 ⏳2Y](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.
 - [fastack ★27 ⏳1Y](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy.
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
 - [quotr ★59 ⏳1Y](https://github.com/andrerpena/quotr) - View stock exchange quotes.

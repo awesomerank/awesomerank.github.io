@@ -159,6 +159,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [glob ★3834](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 * [username ★70](https://github.com/sindresorhus/username) - Get the username of the current user.
 * [minimist ★2444](https://github.com/substack/minimist) - Parse argument options.
+* [png-to-ico ★23](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 
 ### Module management
 

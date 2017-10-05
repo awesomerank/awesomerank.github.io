@@ -101,7 +101,7 @@ title: Awesome Rank for ooade/awesome-preact
 - [TodoMVC ★37](https://github.com/developit/preact-todomvc) - TodoMVC done in Preact. Under 6kb and fast.
 - [Colors App ★75](https://github.com/lukeed/colors-app) - PWA for copying values from popular color palettes. Supports HEX, RGB, and HSL formats.
 - [Tracks ★6](https://github.com/jordic/tracks_preact) - PWA for tracking things in general. Gdrive Sync.
-- [Hueify ★34](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
+- [Hueify ★46](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
 
 ### Related Libraries
 - [React ★75443](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.

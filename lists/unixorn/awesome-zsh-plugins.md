@@ -489,7 +489,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [berkshelf-zsh-plugin ★16 ⏳1Y](https://github.com/berkshelf/berkshelf-zsh-plugin) - Adds tab completion for berkshelf.
 * [bosh-zsh-autocompletion ★2 ⏳2Y](https://github.com/krujos/bosh-zsh-autocompletion) - Adds BOSH autocompletion.
 * [brew-services ★13 ⏳2Y](https://github.com/vasyharan/zsh-brew-services) - Completion plugin for homebrew services.
-* [cabal ★0 ⏳2Y](https://github.com/d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
+* [cabal ★0 ⏳3Y](https://github.com/d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
 * [cf-zsh-autocomplete-plugin](https://github.com/frodenas/cf-zsh-autocomplete-plugin) - Adds autocomplete for all [Cloud Foundry CLI](https://docs.cloudfoundry.org/devguide/installcf/) commands.
 * [codeception-zsh-plugin ★10 ⏳2Y](https://github.com/shengyou/codeception-zsh-plugin) - Adds command completion for the Codeception Testing Framework.
 * [codemachine ★3 ⏳3Y](https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine) - Displays git info, whether you're logged in via ssh, return code of last command.
@@ -600,7 +600,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [dmx ★1](https://github.com/domix/dmx.zsh-theme) - Optimized for dark terminal windows.
 * [dracula ★16](https://github.com/dracula/zsh) - A dark theme for Atom, Alfred, Chrome DevTools, iTerm, Sublime Text, Textmate, Terminal.app, Vim, Xcode, ZSH.
 * [dragon ★4](https://github.com/sabertazimi/dragon-zsh-theme) - Minimalistic, includes git status information.
-* [eggshausted ★0](https://github.com/inutano/eggshausted) - A git theme for people who are tired of getting errors.
+* [eggshausted ★1](https://github.com/inutano/eggshausted) - A git theme for people who are tired of getting errors.
 * [endless-dog ★0](https://github.com/qwelyt/endless-dog) - OMZ theme that mimics grml-zsh-config.
 * [enkel ★0](https://github.com/SShrike/enkel) - A simple and minimalistic theme for ZSH and the Solarised colour scheme featuring Git support and a few other semi-useful features such as displaying exit codes, the current system time, whether or not you have write permissions to the current directory, etc.
 * [excess ★1 ⏳2Y](https://github.com/davydovanton/excess.zsh-theme) - Simple ZSH color theme.

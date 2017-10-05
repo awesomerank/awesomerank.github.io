@@ -406,7 +406,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-select - Rich Select Component ★8344](https://github.com/JedWatson/react-select)
 * [react-video - React component to load video from Vimeo or Youtube ★205 ⏳1Y](https://github.com/pedronauck/react-video)
 * [react-captcha - A react.js reCAPTCHA for Google ★179](https://github.com/appleboy/react-recaptcha)
-* [react-cassette-player - Vector-based HTML5 Audio Player ★88](https://github.com/chadpaulson/react-cassette-player)
+* [react-cassette-player - Vector-based HTML5 Audio Player ★88 ⏳1Y](https://github.com/chadpaulson/react-cassette-player)
 * [react-tagsinput - A simple react component for inputing tags. ★745](https://github.com/olahol/react-tagsinput)
 * [react-autolink - An autolink mixin for React ★39 ⏳1Y](https://github.com/banyan/react-autolink)
 * [react-emoji - An emoji mixin for React ★174](https://github.com/banyan/react-emoji)

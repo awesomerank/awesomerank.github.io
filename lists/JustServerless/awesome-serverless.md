@@ -817,6 +817,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Stackery releases management console for serverless developers](https://www.geekwire.com/2017/portlands-stackery-releases-management-console-aspiring-serverless-developers/) - Post about the [Stackery.io](http://stackery.io) developer console for serverless applications.
 - [What's new for Serverless plugins](https://serverless.com/blog/plugin-system-extensions/) - Post about the recent enhancements of the Serverless Frameworks plugin system.
 - [Monitoring, and the “No Ops” myth](https://read.acloud.guru/serverless-superheroes-adam-johnson-monitoring-and-the-no-ops-myth-117e468416a2) - Post about monitoring serverless applications.
+- [Developing serverless toolings](https://serverless.com/blog/things-i-learned-designing-developer-tools/) - 3 things Felix Desroches learned designing developer-centric tools at Serverless, inc.
+- [Why Stackery launces at ServerlessConf](https://www.stackery.io/blog/why-stackery-is-launching-at-serverlessconf/) - Why [Stackery](https://stackery.io) decided to launch at ServerlessConf NY 2017.
 
 ## Screencasts
 
@@ -1354,7 +1356,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Slspress ★9](https://github.com/withreason/slspress) - Library for rapidly developing serverless applications.
 - [Arguments against / in favor of serverless](https://docs.google.com/spreadsheets/d/1leLOtHpYuewtu2aw5QOnqBJahY96bnlVb_HCrVfxvhI/edit#gid=0) - Google Spreadsheet which collects all the arguments for and against serverless computing.
 - [AWS Lambda Launcher](https://www.backand.com/aws-lambda-launcher-test-run/) - Free tool to test and run AWS Lambda functions without AWS credentials.
-- [Lambda SES forwarder ★382](https://github.com/arithmetric/aws-lambda-ses-forwarder) - Serverless E-Mail forwarding using AWS Lambda and SES.
+- [Lambda SES forwarder ★403](https://github.com/arithmetric/aws-lambda-ses-forwarder) - Serverless E-Mail forwarding using AWS Lambda and SES.
 - [Sublime AWS Lambda ★5](https://github.com/revmischa/sublime-awslambda) - Sublime Text 3 plugin for editing AWS Lambda function sources easily.
 - [Nuclio ★97](https://github.com/nuclio/nuclio) - High-Performance serverless event and data processing framework.
 - [OpenFaaS](https://www.openfaas.com) - Open source implementation to run serverless functions in containers (formerly known as FaaS).

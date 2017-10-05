@@ -163,7 +163,7 @@ Plugins
     - [PagSeguro - Brazil](https://github.com/rochacbruno/python-pagseguro/tree/master/examples) - Example to integrate Flask to PagSeguro Brazilian payment gateway
     - [alipay_python ★548 ⏳1Y](https://github.com/fengli/alipay_python) - not a flask plugin now but you can integrate easily
     - [flask-paypal ★42 ⏳4Y](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
-    - [Flask-WePay ★7 ⏳5Y](https://github.com/maxcountryman/flask-wepay) - A Flask wrapper for WePay's Python API
+    - [Flask-WePay ★7 ⏳6Y](https://github.com/maxcountryman/flask-wepay) - A Flask wrapper for WePay's Python API
 - Exception tracking
     - [Raven ★1217](https://github.com/getsentry/raven-python) - Raven is a Python client for [Sentry](https://sentry.io/welcome/).
 - Metrics Tracking

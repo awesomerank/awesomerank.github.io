@@ -94,6 +94,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Quokka](#quokka)
   - [Runner](#runner)
   - [Slack](#slack)
+  - [Spotify](#spotify)
   - [SVG Viewer](#svg-viewer)
   - [Vim Mode](#vim-mode)
 - [Resources for extension developers](#resources-for-extension-developers)
@@ -115,7 +116,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 
 Language packages extend the editor with syntax highlighting and/or snippets for a specific language or file format.
 
-- [Arduino](https://marketplace.visualstudio.com/items?itemName=moozzyk.Arduino)
+- [Arduino](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.vscode-arduino)
 - [CMake](https://marketplace.visualstudio.com/items?itemName=twxs.cmake)
 - [Dart](https://marketplace.visualstudio.com/items?itemName=DanTup.dart-code)
 - [Dockerfile](https://marketplace.visualstudio.com/items?itemName=PeterJausovec.vscode-docker)
@@ -515,6 +516,12 @@ Features full workbench theming
 > Send messages and code snippets, upload files to Slack
 
 ![](https://raw.githubusercontent.com/sozercan/vscode-slack/master/slack-upload.gif)
+
+#### [Spotify](https://marketplace.visualstudio.com/items?itemName=shyykoserhiy.vscode-spotify)
+> Provides integration with Spotify Desktop client. Shows the currently playing song in status bar, search lyrics and provides commands for controlling Spotify with buttons and hotkeys.
+
+![vscode-spotify](https://media.giphy.com/media/3ohhwMgeIj1MhEdBJe/giphy.gif)
+
 
 ### [SVG Viewer](https://marketplace.visualstudio.com/items?itemName=cssho.vscode-svgviewer)
 

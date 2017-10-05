@@ -345,7 +345,7 @@ Persistent Volume Providers
 * [QuoByte](https://www.quobyte.com/)
 * [Kube-Aliyun ★49](https://github.com/kubeup/kube-aliyun)
 * [Portworx](https://portworx.com/)
-* [OpenEBS ★1820](https://github.com/openebs/openebs)
+* [OpenEBS ★2270](https://github.com/openebs/openebs)
 
 Developer Libraries
 =======================================================================
@@ -480,12 +480,12 @@ Projects
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
-  * [rktlet ★54](https://github.com/kubernetes-incubator/rktlet) - The rkt implementation of a Kubernetes Container Runtime
+  * [rktlet ★57](https://github.com/kubernetes-incubator/rktlet) - The rkt implementation of a Kubernetes Container Runtime
 * [containerd ★1710](https://github.com/containerd/containerd)
 * [CRI-O (OCI) ★616](https://github.com/kubernetes-incubator/cri-o)
 * [Hyper.sh/frakti ★180](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
-* [virtlet ★92](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads
-* [infranetes ★10](https://github.com/apporbit/infranetes)
+* [virtlet ★95](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads
+* [infranetes ★13](https://github.com/apporbit/infranetes)
 
 ## Database
 
@@ -514,7 +514,7 @@ Projects
 * [CNI-Genie ★58](https://github.com/Huawei-PaaS/CNI-Genie)
 * [Romana](http://romana.io/)
 * [Infoblox ★2](https://github.com/infobloxopen/cni-infoblox)
-* [External DNS ★374](https://github.com/kubernetes-incubator/external-dns) - allows you to control DNS records dynamically via Kube resources in a DNS provider-agnostic way
+* [External DNS ★431](https://github.com/kubernetes-incubator/external-dns) - allows you to control DNS records dynamically via Kube resources in a DNS provider-agnostic way
 
 ## Service mesh
 

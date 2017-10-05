@@ -337,7 +337,7 @@ Here awesome badge for your project:
 * [moshbit/Kotlift ★279 ⏳1Y](https://github.com/moshbit/Kotlift) - Kotlift is the first source-to-source language transpiler from Kotlin to Swift.
 * [consoleau/kassava ★28](https://github.com/consoleau/kassava) - This library provides some useful kotlin extension functions for implementing toString() and equals() without all of the boilerplate.
 * [moove-it/fakeit ★244](https://github.com/moove-it/fakeit) - Generates realistic fake data — like names, emails, dates, countries — to be used in your Android development environment.
-* [czyzby/kotlin-times ★25](https://github.com/czyzby/kotlin-times) - A simple utility library for readable loops.
+* [czyzby/kotlin-times ★25 ⏳1Y](https://github.com/czyzby/kotlin-times) - A simple utility library for readable loops.
 * [phxql/aleksa ★25](https://github.com/phxql/aleksa) - Aleksa is a small framework for writing Alexa Skills in Kotlin.
 * [TicketmasterMobileStudio/actions-on-google-kotlin ★26](https://github.com/TicketmasterMobileStudio/actions-on-google-kotlin) - Port of official Node.js SDK to Kotlin. Complete with all features and tests and nearly identical API.
 * [cretz/asmble ★74](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.

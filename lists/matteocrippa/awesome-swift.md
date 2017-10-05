@@ -768,7 +768,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ImageScout ★854](https://github.com/kaishin/ImageScout) - Implementation of [fastimage](https://pypi.python.org/pypi/fastimage/0.2.1) - supports PNG, GIF, and JPEG.
 * [ImageViewer ★1472](https://github.com/MailOnline/ImageViewer) - An image viewer à la Twitter
 * [JLStickerTextView ★342](https://github.com/luiyezheng/JLStickerTextView) - A UIImageView allow you to add multiple Label (multiple line text support) on it, you can edit, rotate, resize the Label as you want with one finger ,then render the text on Image.
-* [KFSwiftImageLoader ★338](https://github.com/kiavashfaisali/KFSwiftImageLoader) - An extremely high-performance, lightweight, and energy-efficient async web image loader with memory and disk caching for iOS and  Watch.
+* [KFSwiftImageLoader ★338 ⏳1Y](https://github.com/kiavashfaisali/KFSwiftImageLoader) - An extremely high-performance, lightweight, and energy-efficient async web image loader with memory and disk caching for iOS and  Watch.
 * [Kingfisher ★9647](https://github.com/onevcat/Kingfisher) - Image download and caching.
 * [Lightbox ★155](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app.
 * [MapleBacon ★189](https://github.com/JanGorman/MapleBacon) - Image download and caching library.
@@ -1495,7 +1495,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ObjectiveKit ★682](https://github.com/marmelroy/ObjectiveKit) - API for Objective C runtime functions.
 * [OpenSourceController ★26](https://github.com/terflogag/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
 * [Popsicle ★1131](https://github.com/DavdRoman/Popsicle) - Delightful, extensible value interpolation framework.
-* [Prelude ★309](https://github.com/robrix/Prelude) - Framework of simple functional programming tools.
+* [Prelude ★309 ⏳1Y](https://github.com/robrix/Prelude) - Framework of simple functional programming tools.
 * [protobuf-swift ★773](https://github.com/alexeyxo/protobuf-swift) - ProtocolBuffers.
 * [Prototope](http://khan.github.io/Prototope/) - Library of lightweight interfaces for prototyping, bridged to JS.
 * [Pythonic.swift ★514 ⏳1Y](https://github.com/practicalswift/Pythonic.swift) - Selected parts of Python standard library.

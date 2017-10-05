@@ -328,7 +328,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [Vue Simple PWA ★120](https://github.com/BosNaufal/vue-simple-pwa) by [BosNaufal](https://github.com/BosNaufal)
   - [Tour of Heroes (Vue 2.0)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue](https://github.com/revue/revue) (redux bindings for Vue), [vue-router ★6891](https://github.com/vuejs/vue-router), [Airbnb eslint](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
   - [vue-table-pagination ★2](https://github.com/echoVic/vue-table-pagination) A table with pagination by [echovic](https://github.com/echovic)
-  - [Feathers and Vue 2.0 Blog Admin Demo ★50](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay)
+  - [Feathers and Vue 2.0 Blog Admin Demo ★50 ⏳1Y](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay)
   - [vue-zhihudaily-2.0 ★102](https://github.com/cs1707/vue-zhihudaily-2.0) Zhihudaily demo built with Vue 2.0, vue-router & vuex, with server-side rendering. by [cs1707](https://github.com/cs1707)
   - [vue-demo-todolist ★42](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
   - [**vue-AdminLte** ★281](https://github.com/liujians/vue-adminLte-vue-router) by [liujians](https://github.com/liujians)
@@ -388,7 +388,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [vuefire-realtimedatabase ★12](https://github.com/aofdev/vuefire-realtimedatabase) A Vuefire Vue2-RealtimeDatabaseCRUD with Firebase
   - [vuefire-storage ★10](https://github.com/aofdev/vuefire-storage) A Vuefire Vue2-Storage with Firebase
   - [Vue2-PWA-Blog ★3](https://github.com/deepak-singh/vue-blog-pwa) by @deepak-singh
-  - [vue-firebase-auth-vuex ★1](https://github.com/aofdev/vue-firebase-auth-vuex) A Vue2 Firebase Authentication with Vuex and support Progressive Web Apps 
+  - [vue-firebase-auth-vuex ★1](https://github.com/aofdev/vue-firebase-auth-vuex) A Vue2 Firebase Authentication with Vuex and support Progressive Web Apps
 
 ### Books
 
@@ -474,7 +474,10 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [vue2-pwa-vision ★4](https://github.com/aofdev/vue-pwa-vision) - A Face Detection Google Cloud Vision with Vue2 + Vuetify + Progressive Web App
 - [vue2-pwa-rekognition ★4](https://github.com/aofdev/vue-pwa-rekognition) - A Face Detection Amazon Rekognition with Vue2 + Vuetify + Progressive Web App
   - [AmmoBin.ca ★4](https://github.com/ammobinDOTca/ammobin-client) - meta search site for online ammo prices across canada
-
+- [SPA-asp.net-api-vuejs- ★23](https://github.com/mubaidr/SPA-asp.net-api-vuejs-) - A Vue.js single page application for basic task Management & messaging using ASP .NET Webapi 2 and SQL server
+- [Book-Trading-Club ★0](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
+- [vuejs-extension-pack vscode ★4](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
+- [vue2-text-swimlane ★0](https://github.com/mubaidr/vue-swimlane) - A Text Swimlane plugin for Vue.js
 
 ### Commercial Products
 
@@ -482,7 +485,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Collate Notes](http://www.collatenotes.com/)
  - [Formester](https://www.formester.com/) - Form, email marketing automation made easy
  - [ChatWoot](https://www.chatwoot.com/) - Livechat and agent collaboration over facebook messenger.
- 
+
 
 ### Apps/Websites
 
@@ -661,6 +664,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vueup ★41](https://github.com/chryb/vueup) - Simple, lightweight and elegant global notification popup for Vue.js
  - [vuex-flash ★7](https://github.com/ahmed-dinar/vuex-flash) - Flash message component for VueJS 2.x within Vuex 2.x.
  - [vue-snotify ★70](https://github.com/artemsky/vue-snotify) - Vue.js 2 Notification Center
+ - [vue-notify-me ★48](https://github.com/PygmySlowLoris/vue-notify-me) - Stackable notification Alert for Vue
 
 ### Loader
 
@@ -682,6 +686,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-top-progress ★74](https://github.com/dalphyx/vue-top-progress) - Yet another top progress loading bar component for Vue.js.
  - [vue-nprogress ★75](https://github.com/vue-bulma/nprogress) - Progress bars is based on nprogress for Vue.
  - [vue-progress-button ★12](https://github.com/websmurf/vue-progress-button) - Vue.js 2.x animated button component.
+ - [vue-simple-progress ★1](https://github.com/dzwillia/vue-simple-progress) - A simple, flexible progress bar for Vue.js
 
 ### Tooltip
 
@@ -1020,10 +1025,13 @@ Tooltips / popovers
  - [vue-submit](https://github.com/NxtChg/pieces/tree/master/js/vue/vue-submit) - Simple implementation of Ladda ([1](http://lab.hakim.se/ladda/), [2](https://msurguy.github.io/ladda-bootstrap/)) in less than 90 lines of code with no dependencies.
  - [vue-rate ★89](https://github.com/SinanMtl/vue-rate) - Rate component for Vue
  - [vuetify-google-autocomplete ★12](https://github.com/MadimetjaShika/vuetify-google-autocomplete) - A Vuetify ready Vue.js (2.x) autosuggest component for the Google Maps Places API.
+ - [vue-ripple-directive ★81](https://github.com/PygmySlowLoris/vue-ripple-directive) - Material Ripple Effect as Vue Directive.
+ - [vue-fab ★35](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button.
 
 #### Wizard
 
  - [vue-form-wizard ★207](https://github.com/cristijora/vue-form-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards
+  - [vue-stepper ★1](https://github.com/PygmySlowLoris/vue-stepper) - A simple stepper with simple actions such as next, back and end to perform simple forms.
 
 
 
@@ -1612,8 +1620,8 @@ Payment utilities.
  - [MMF-FE/vue-typescript ★25](https://github.com/MMF-FE/vue-typescript) - A vue2.x typescript template.
  - [Friendly Vue Starter ★22](https://github.com/mcongy/friendly-vue-starter) - A full featured Vue.js starter project with GraphQL support via Apollo-client (Vuex, Vue-router, Vue-i18n, Webpack 3, Eslint, Prettier, ...)
  - [vue-webpack-typescript ★280](https://github.com/ducksoupdev/vue-webpack-typescript) - A Vue 2.2 Webpack 2 and Typescript 2 setup with hot reload, unit testing, code coverage, sass and bundling/minification.
- - [vue-ts-amd ★4](https://github.com/Micene09/vue-ts-amd) - A full-featured Vue.js 2 boilerplate using AMD pattern (RequireJS) and Typescript.
- - [**vue-2-boilerplate** ★423](https://github.com/petervmeijgaard/vue-2-boilerplate) - Vue 2 boilerplate for developing medium to large single page applications by [petervmeijgaard](https://github.com/petervmeijgaard/)
+ - [vue-ts-amd ★7](https://github.com/Micene09/vue-ts-amd) - A full-featured Vue.js 2 boilerplate using AMD pattern (RequireJS) and Typescript.
+ - [**vue-2-boilerplate** ★470](https://github.com/petervmeijgaard/vue-2-boilerplate) - Vue 2 boilerplate for developing medium to large single page applications by [petervmeijgaard](https://github.com/petervmeijgaard/)
  - [layout ★3](https://github.com/ktquez/layout) - A full-featured Webpack + Vue Extend layout
  - [layout-simple ★3](https://github.com/ktquez/layout-simple) - A simple Webpack + Vue Extend layout
 

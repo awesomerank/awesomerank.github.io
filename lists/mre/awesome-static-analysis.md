@@ -354,7 +354,7 @@ Wrappers:
 * [CSS Stats ★1946](https://github.com/cssstats/cssstats) - Potentially interesting stats on stylesheets
 * [CSScomb ★2172](https://github.com/csscomb/csscomb.js) - a coding style formatter for CSS. Supports own configurations to make style sheets beautiful and consistent
 * [CSSLint ★3903](https://github.com/CSSLint/csslint) - Does basic syntax checking and finds problematic patterns or signs of inefficiency
-* [Parker ★2287](https://github.com/katiefenn/parker) - Stylesheet analysis tool
+* [Parker ★2287 ⏳1Y](https://github.com/katiefenn/parker) - Stylesheet analysis tool
 * [sass-lint ★1236](https://github.com/sasstools/sass-lint) - A Node-only Sass linter for both sass and scss syntax.
 * [scsslint ★2841](https://github.com/brigade/scss-lint) - Linter for SCSS files
 * [Specificity Graph ★580 ⏳1Y](https://github.com/pocketjoso/specificity-graph) - CSS Specificity Graph Generator

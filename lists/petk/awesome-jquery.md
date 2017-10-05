@@ -58,7 +58,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [API documentation](http://api.jquery.com/) - Official jQuery documentation.
 * [Code School](https://www.codeschool.com/courses/try-jquery) - Learn the basic building blocks of jQuery 2.0 and enjoy new video tutorials for beginners with related programming challenges.
-* [Codecademy jQuery track](https://www.codecademy.com/learn/jquery) - Beginners track for learning jQuery.
+* [Codecademy jQuery track](https://www.codecademy.com/en/tracks/jquery) - Beginners track for learning jQuery.
 * [Learning jQuery](http://www.learningjquery.com/) - Tips, techniques, and tutorials for the jQuery JavaScript library.
 * [Style guides](https://contribute.jquery.org/style-guide/) - jQuery's code style guides when contributing to jQuery projects.
 * [Tuts+](https://code.tutsplus.com/categories/jquery) - Useful and indepth articles about jQuery.
@@ -74,7 +74,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Learn jQuery](http://learn.jquery.com/) - jQuery learning center.
 * [Snoopcode](http://www.snoopcode.com/jquery/) - jQuery tutorials.
 * [Try jQuery](http://try.jquery.com/) - Learn basic building blocks of jQuery.
-* [Extending jQuery](http://james.padolsey.com/javascript/extending-jquerys-selector-capabilities/) - Extending jQuery’s selector capabilities.
+* [Extending jQuery](https://j11y.io/javascript/extending-jquerys-selector-capabilities/) - Extending jQuery’s selector capabilities.
 
 [Back to top](#awesome-jquery)
 
@@ -93,7 +93,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 #### Paid Books
 
 * [jQuery in Action, Third Edition](https://www.manning.com/books/jquery-in-action-third-edition) - Fast-paced and complete guide to jQuery, *by Bear Bibeault, Yehuda Katz, and Aurelio De Rosa*.
-* [jQuery: Novice to Ninja: New Kicks And Tricks](https://www.sitepoint.com/store/jquery-novice-to-ninja-new-kicks-and-tricks/) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*.
+* [jQuery: Novice to Ninja: New Kicks And Tricks](https://www.sitepoint.com/premium/books/jquery-novice-to-ninja-new-kicks-and-tricks) - fast track to mastering jQuery, *by Earle Castledine & Craig Sharkie*.
 * [Learning jQuery - Fourth Edition](https://www.packtpub.com/web-development/learning-jquery-fourth-edition) - Guide to jQuery, *by Jonathan Chaffer and Karl Swedberg*.
 
 [Back to top](#awesome-jquery)
@@ -116,7 +116,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 *Various types of resources.*
 
 * [jQuery Foundation](https://jquery.org/) - Providing jQuery and many other projects home and support.
-* [jQuery Source Viewer](http://james.padolsey.com/jquery/) - Browser of jQuery method implementations.
+* [jQuery Source Viewer](https://j11y.io/jquery/) - Browser of jQuery method implementations.
 * [Alternative jQuery Documentation Browser](http://jqapi.com/) - Faster way to browse the jQuery documentation.
 * [TodoMVC ★22017](https://github.com/tastejs/todomvc) - Helps you select JavaScript framework. Same Todo application created in multiple popular JavaScript MV* frameworks including [jQuery](http://todomvc.com/examples/jquery/).
 * [jQuery CheatSheet](http://lab.abhinayrathore.com/jquery-cheatsheet/)
@@ -171,7 +171,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Bootstrap Multiselect ★2712](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
 * [File Upload ★27487](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
 * [Ideal Forms ★752 ⏳2Y](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
-* [jQuery Form Plugin](https://github.com/malsup/form/) - Easy and unobtrusive HTML forms upgrade to use AJAX.
+* [jQuery Form Plugin ★4290](https://github.com/jquery-form/form) - Easy and unobtrusive HTML forms upgrade to use AJAX.
 * [jquery-minicolors ★846](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
 * [Justified Gallery ★1010](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
 * [Labelauty ★885](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
@@ -203,7 +203,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Peity ★3876](https://github.com/benpickles/peity) - Progressive \<svg\> pie, donut, bar and line charts.
 * [Unite Gallery ★353](https://github.com/vvvmax/unitegallery) - Responsive jQuery image and video gallery plugin.
 * [Viewer ★490](https://github.com/fengyuanchen/viewer) - A simple jQuery image viewing plugin.
-* [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
+* [JQuery-linechart ★44](https://github.com/kis/jquery-linechart) - Simple and lightweight library for creating line charts
 
 [Back to top](#awesome-jquery)
 
@@ -252,8 +252,9 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Bootgrid ★893](https://github.com/rstaib/jquery-bootgrid) - A grid control especially designed for bootstrap.
 * [Bootstrap table](http://bootstrap-table.wenzhixin.net.cn/) - A powerful table control designed for bootstrap.
 * [DataTables](https://www.datatables.net/) - Advanced interaction controls for HTML tables.
-* [FancyGrid](http://fancygrid.com) - JavaScript grid library with charts integration and server communication.
+* [FancyGrid](https://fancygrid.com/) - JavaScript grid library with charts integration and server communication.
 * [Filter Table ★147](https://github.com/sunnywalker/jQuery.FilterTable) - Live searching/filtering for HTML tables.
+* [FloatThead ★893](https://github.com/mkoryak/floatThead) - Sticky headers. Supports responsive, window and overflow scrolling.
 * [FooTable ★1908](https://github.com/fooplugins/FooTable) - Make HTML tables responsive.
 * [Isotope ★8481](https://github.com/metafizzy/isotope) - Filter & sort magical layouts.
 * [HighchartTable ★246](https://github.com/highchartTable/jquery-highchartTable-plugin) - Simple way to convert HTML data tables to Highcharts graphs.
@@ -295,7 +296,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [FormValidation ★2718](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.
 * [h5Validate ★585 ⏳1Y](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery.
 * [jQuery Form Validator ★825](https://github.com/victorjonsson/jQuery-Form-Validator) - Validate user input while keeping your HTML markup clean from JavaScript code.
-* [jquery-validation](https://github.com/jzaefferer/jquery-validation/) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
+* [jquery-validation ★8112](https://github.com/jquery-validation/jquery-validation) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
 * [jQuery.validationEngine ★2462](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
 
 [Back to top](#awesome-jquery)
@@ -311,7 +312,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Slugify ★84 ⏳1Y](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
 * [Readmore.js ★1162](https://github.com/jedfoster/Readmore.js) - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
 * [Yahoo! Emoticons](http://michael-designs.com/yahoo-emoticons-jquery-plugin/) - Yahoo! Emoticons JQuery Plugin.
-* [autoNumberic](https://github.com/BobKnothe/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
+* [autoNumberic ★646](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
 
 [Back to top](#awesome-jquery)
 
@@ -364,7 +365,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [django-static-jquery](https://pypi.python.org/pypi/django-static-jquery/) - jQuery packaged in an handy Django app to speed up new applications and deployment.
 * Ruby:
     * [jquery-rails ★719](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
-    * [jquery-ui-rails](https://github.com/joliss/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
+    * [jquery-ui-rails ★1080](https://github.com/jquery-ui-rails/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
 
 [Back to top](#awesome-jquery)
 
@@ -375,7 +376,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [Forum](https://forum.jquery.com/) - Official forum.
 * [Freenode](http://irc.lc/freenode/jquery) - Support IRC channel for users of jQuery, jQuery UI, and jQuery Mobile.
-* [Stack Overflow](http://stackoverflow.com/tags/jquery) - Support on Stack Overflow.
+* [Stack Overflow](https://stackoverflow.com/tags/jquery) - Support on Stack Overflow.
 * [Facebook](https://www.facebook.com/groups/jquerycode/) - Large and active group on Facebook.
 * [Linked.in](https://www.linkedin.com/groups/100943) - Large and active group on Linked.in.
 * [Reddit](https://www.reddit.com/r/jquery) - Discussion and sharing news, articles, plugins and tutorials, covering jQuery Core, jQuery UI, jQuery Mobile, and other related projects.

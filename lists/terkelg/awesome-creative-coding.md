@@ -213,6 +213,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Syphon](http://syphon.v002.info/) [Mac] - Allows applications to share frames with one another in realtime.
 - [KodeLife](https://hexler.net/software/kodelife) - Real-time GPU shader editor, live-code performance tool and graphics prototyping sketchpad.
 - [ISF](https://www.interactiveshaderformat.com/) - GLSL shaders for use in interactive applications.
+- [glslViewer](http://patriciogonzalezvivo.com/2015/glslViewer/) - Live-coding console tool that renders GLSL Shaders.
 
 ## Learning Resources
 
@@ -325,6 +326,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [OpenGL 4.3 Reference Card](https://www.khronos.org/files/opengl43-quick-reference-card.pdf) - PDF Reference Card for the OpenGL 4.3 API.
 - [Easings](http://easings.net/) - Interactive easing functions cheatsheet.
 - [The newbie's PBR Cheat Sheet](https://www.artstation.com/artwork/YeBr3) - Short and sweet visual overview on PBR.
+- [PixelSpirit](http://pixelspiritdeck.com/) - GLSL library on the back of tarot cards, for learning and reference.
 
 ## Communities
 
@@ -393,6 +395,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Machine Learning ★393](https://github.com/CodingTrain/Machine-Learning) - Coding Train repo with links to machine learning resources.
 - [CreativeAi.net](http://www.creativeai.net/) - Space to share creative Ai projects.
 - [AI Playbook](http://aiplaybook.a16z.com/) - Ai microsite intended to help newcomers get started.
+- [Teachable Machine ★580](https://github.com/googlecreativelab/teachable-machine) - Explore how machine learning works, live in the browser.
 
 
 ## Inspiration

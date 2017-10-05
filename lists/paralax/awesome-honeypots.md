@@ -40,12 +40,11 @@ Discover more awesome lists at [sindresorhus/awesome ★65640](https://github.co
     - [Delilah ★26 ⏳2Y](https://github.com/Novetta/delilah) - An Elasticsearch Honeypot written in Python.
 
 - Web honeypots
-    - [Glastopf ★294](https://github.com/mushorg/glastopf) - Web Application Honeypot.
+    - [Glastopf ★294 ⏳1Y](https://github.com/mushorg/glastopf) - Web Application Honeypot.
     - Snare/Tanner - successors to Glastopf
       - [Snare ★59](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot
       - [Tanner ★35](https://github.com/mushorg/tanner) - Evaluating SNARE events
     - [phpmyadmin_honeypot ★33 ⏳2Y](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpMyAdmin honeypot.
-    - [servlet ★5 ⏳4Y](https://github.com/schmalle/Servletpot) - Web application Honeypot.
     - [Nodepot ★18 ⏳2Y](https://github.com/schmalle/Nodepot)  - A nodejs web application honeypot.
     - [basic-auth-pot ★10 ⏳2Y](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot.
     - [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps.
@@ -149,7 +148,6 @@ Discover more awesome lists at [sindresorhus/awesome ★65640](https://github.co
     - [pnaf ★14](https://github.com/jusafing/pnaf) - Passive Network Audit Framework.
 
 - VM monitoring and tools
-    - [VIX virtual machine introspection toolkit](http://assert.uaf.edu/research/vmi.html) - VMI toolkit for Xen, called Virtual Introspection for Xen (VIX).
     - [vmscope](http://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - Monitoring of VM-based.
     - [vmitools](http://libvmi.com/) - C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
     - [Antivmdetect ★198](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder.

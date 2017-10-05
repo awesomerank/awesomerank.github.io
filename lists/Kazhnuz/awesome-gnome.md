@@ -185,7 +185,7 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 
 ### Material
 
-- [Flat-Plat ★1158](https://github.com/nana-4/Flat-Plat) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
+- [Materia ★1161](https://github.com/nana-4/materia-theme) - Material Design-like theme for GNOME/GTK+ based desktop environments. (GTK, Shell)
 - [Adapta ★1979](https://github.com/adapta-project/adapta-gtk-theme) - Adaptive GTK+ theme based on Material Design Guidelines. (GTK, Shell)
 
 ### Flat

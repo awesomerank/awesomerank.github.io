@@ -552,7 +552,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Math
 
-* [AS3Units ★1 ⏳4Y](https://github.com/erussell/AS3Units) - Port of NGUnits. Parsing, formatting, and converting between units of measure.
+* [AS3Units ★1 ⏳5Y](https://github.com/erussell/AS3Units) - Port of NGUnits. Parsing, formatting, and converting between units of measure.
 * [AS3LinAlg ★13 ⏳5Y](https://github.com/inspirit/AS3LinAlg) - Linear Algebra library (Jacobi SVD, Eigen Vectors/Values, Cholesky LU, etc).
 * [Performance Primitives ★23 ⏳5Y](https://github.com/martinkallman/performance-as3) - High-performance math modeled on the Intel Performance Primitives.
 * [Zexpression ★9 ⏳3Y](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables.

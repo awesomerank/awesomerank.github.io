@@ -524,7 +524,7 @@ phone numbers.
 * [django-activeurl ★101](https://github.com/hellysmile/django-activeurl) - Easy to use active URL highlighting for django
 * [django-activity-stream ★1244](https://github.com/justquick/django-activity-stream) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
 * [django-adminactions ★176](https://github.com/saxix/django-adminactions) - Collection of useful actions to use with django.contrib.admin.ModelAdmin and/or django.contrib.admin.AdminSite
-* [django-autoadmin ★27 ⏳1Y](https://github.com/rosarior/django-autoadmin) - Automatic admin users for Django projects.
+* [django-autoadmin ★27 ⏳2Y](https://github.com/rosarior/django-autoadmin) - Automatic admin users for Django projects.
 * [django-braces ★1254](https://github.com/brack3t/django-braces) - Reusable, generic mixins for Django.
 * [django-calendarium ★177 ⏳1Y](https://github.com/bitlabstudio/django-calendarium) - A reusable app to manage and display a calendar in your templates.
 * [django-changuito ★48](https://github.com/angvp/django-changuito) - A cart app for your django site, an updated fork of django-cart

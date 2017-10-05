@@ -211,6 +211,7 @@ title: Awesome Rank for razum2um/awesome-clojure
   * [Enlive](https://github.com/cgrand/enlive/wiki)
   * [hiccup ★1623](https://github.com/weavejester/hiccup)
   * [clostache ★268 ⏳1Y](https://github.com/fhd/clostache)
+  * [selmer ★541](https://github.com/yogthos/Selmer)
 
 ## Data Validation
 
@@ -412,6 +413,7 @@ anylysis and visualization.*
   * [Clojure Katas](http://clojurekatas.org)
   * [4clojure](http://www.4clojure.com/)
   * [exercism.io](http://exercism.io/languages/clojure)
+  * [Clojurecademy](https://clojurecademy.com)
 
 ## Project Management
   

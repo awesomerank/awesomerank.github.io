@@ -74,7 +74,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 ### Images Generator
  * [RadialChartImageGenerator ★409 ⏳1Y](https://github.com/hmaidasani/RadialChartImageGenerator) - A radial bar chart generator for apple watch.
- * [KFWatchKitAnimations ★352](https://github.com/kiavashfaisali/KFWatchKitAnimations) - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.
+ * [KFWatchKitAnimations ★352 ⏳1Y](https://github.com/kiavashfaisali/KFWatchKitAnimations) - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.
 
 # Sample Apps
  * [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.

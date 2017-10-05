@@ -29,7 +29,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 - [Libre Pinball ★13 ⏳1Y](https://github.com/Calinou/libre-pinball) - A pinball game.
 - [Minehunter ★4 ⏳1Y](https://github.com/genete/Minehunter) - A Minesweeper clone
 - [Minilens](http://kobuge-games.github.io/minilens/) - Free puzzle platform game.
-- [Mountain of Hope ★4 ⏳1Y](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
+- [Mountain of Hope ★4 ⏳2Y](https://github.com/w84death/mountain-of-hope) - Game made on Theater Game Jam (PGA 2015)
 - [Ninja-Training ★25](https://github.com/KOBUGE-Games/Ninja-Training) - Small running game done as 1 hour challenge.
 - [No hope ★3 ⏳2Y](https://github.com/sergicollado/no_hope_LD33) - Ludum Dare 33 entry made in 48 hours.
 - [Planet Rider ★15 ⏳1Y](https://github.com/FEDE0D/Planet-Rider) - 2D physics parkour game in an alien environment.

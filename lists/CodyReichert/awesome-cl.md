@@ -576,7 +576,7 @@ This contains anything which doesn't fit into another category.
 * [chipz ★11](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD][15].
 * [cl-cuda ★115](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL][8].
 * [envy ★27](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD][39].
-* [esrap ★74](https://github.com/nikodemus/esrap) - Packrat parser. [Expat][14].
+* [esrap ★74 ⏳1Y](https://github.com/nikodemus/esrap) - Packrat parser. [Expat][14].
 * [fast-io ★88](https://github.com/rpav/fast-io) - Fast octet-vector/stream I/O. [3-clause BSD][15].
 * [glyphs ★16 ⏳2Y](https://github.com/ahungry/glyphs) - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3][2].
 * [iolib ★101](https://github.com/sionescu/iolib) - I/O library. [Expat][14].
