@@ -263,7 +263,7 @@ title: Awesome Rank for alferov/awesome-gulp
 ### Yeoman Generators
 * [generator-gulp-webapp](https://github.com/yeoman/generator-gulp-webapp) - A gulp generator for modern webapps.
 * [generator-gulp-angular ★3909](https://github.com/Swiip/generator-gulp-angular) - Yeoman generator for AngularJS with gulp.
-* [generator-react-gulp-browserify ★428](https://github.com/randylien/generator-react-gulp-browserify) - A Yeoman Generator for React library. It includes gulp, Browserify, Browsersync and Bootstrap.
+* [generator-react-gulp-browserify ★428 ⏳1Y](https://github.com/randylien/generator-react-gulp-browserify) - A Yeoman Generator for React library. It includes gulp, Browserify, Browsersync and Bootstrap.
 * [generator-node-gulp ★37 ⏳1Y](https://github.com/youngmountain/generator-node-gulp) - A Node.js module generator including gulp and Mocha.
 * [generator-gulp-bootstrap ★71 ⏳2Y](https://github.com/niallobrien/generator-gulp-bootstrap) - Yeoman generator for Bootstrap, gulp & libsass.
 * [generator-angulpify ★149 ⏳2Y](https://github.com/jgoux/generator-angulpify) - Yeoman generator involving AngularJS, gulp and Browserify.

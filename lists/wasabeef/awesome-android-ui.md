@@ -194,9 +194,9 @@ Label / Form
 ======================
 Name | License | Demo
 --- | --- | ---
-[Shimmer-android ★1730](https://github.com/RomainPiel/Shimmer-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/Shimmer-android.gif)
+[Shimmer-android ★1730 ⏳1Y](https://github.com/RomainPiel/Shimmer-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/Shimmer-android.gif)
 [Shimmer for Android ★2261](https://github.com/facebook/shimmer-android) | [BSD 2 License](http://opensource.org/licenses/BSD-2-Clause) | <img src="/art/shimmer-android-fb.gif" width="100%">
-[Titanic ★1502](https://github.com/RomainPiel/Titanic) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Titanic.gif" width="100%">
+[Titanic ★1502 ⏳1Y](https://github.com/RomainPiel/Titanic) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Titanic.gif" width="100%">
 [MatchView ★771 ⏳1Y](https://github.com/Rogero0o/MatchView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/MatchView.gif" width="49%">
 [android-autofittextview ★3023](https://github.com/grantland/android-autofittextview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/android-autofittextview.gif)
 [SecretTextView ★539 ⏳2Y](https://github.com/matthewrkula/SecretTextView) | UnKnown | ![](/art/SecretTextView.gif)

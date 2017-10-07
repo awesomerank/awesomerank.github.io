@@ -50,7 +50,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     - App
       - [generator-angularjs-cordova ★101](https://github.com/keshavos/generator-angularjs-cordova)
       - [generator-cordova](https://github.com/dangeross/generator-cordova)
-      - [generator-cordova-react ★1 ⏳1Y](https://github.com/jackong/generator-cordova-react)
+      - [generator-cordova-react ★1 ⏳2Y](https://github.com/jackong/generator-cordova-react)
       - [generator-cordova-ripple ★0 ⏳2Y](https://github.com/keunlee/generator-cordova-ripple)
       - [generator-cordova-www ★1](https://github.com/busterc/generator-cordova-www)
       - [generator-m-ionic ★681](https://github.com/mwaylabs/generator-m-ionic)

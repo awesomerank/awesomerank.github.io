@@ -233,7 +233,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [aeacus ★31 ⏳1Y](https://github.com/zmoshansky/aeacus) - A simple configurable identity/password authentication module (Compatible with Ecto/Phoenix).
 * [apache_passwd_md5](https://github.com/kevinmontuori/Apache.PasswdMD5) - Apache/APR Style Password Hashing.
 * [aws_auth ★47](https://github.com/bryanjos/aws_auth) - AWS Signature Version 4 Signing Library for Elixir.
-* [blackbook ★28 ⏳1Y](https://github.com/bigmachine-io/blackbook) - All-in-one membership/authentication system for Elixir.
+* [blackbook ★28 ⏳2Y](https://github.com/bigmachine-io/blackbook) - All-in-one membership/authentication system for Elixir.
 * [coherence ★650](https://github.com/smpallen99/coherence) - Coherence is a full featured, configurable authentication system for Phoenix.
 * [doorman ★67](https://github.com/BlakeWilliams/doorman) - Tools to make Elixir authentication simple and flexible.
 * [github_oauth ★4 ⏳2Y](https://github.com/lidashuang/github_oauth) - A simple github oauth library.
@@ -926,7 +926,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [funnel ★31 ⏳1Y](https://github.com/chatgris/funnel) - Streaming Elixir API built upon ElasticSearch's percolation.
 * [gen_task ★13](https://github.com/Nebo15/gen_task) - Generic Task behavior that helps to encapsulate worker errors and recover from them in classic GenStage's.
 * [gimei_ex ★6 ⏳1Y](https://github.com/ma2gedev/gimei_ex) - Elixir port of gimei library.
-* [growl ★1 ⏳1Y](https://github.com/zachallett/growl) - Simple wrapper for growl, the notification system for OSX.
+* [growl ★1 ⏳2Y](https://github.com/zachallett/growl) - Simple wrapper for growl, the notification system for OSX.
 * [html_entities ★30](https://github.com/martinsvalin/html_entities) - Elixir module for decoding HTML entities in a string.
 * [huex ★28](https://github.com/xavier/huex) - Elixir client for Philips Hue connected light bulbs.
 * [japan_municipality_key ★1](https://github.com/hykw/japan_municipality_key) - Elixir Library for Japan municipality key converting.
@@ -1367,7 +1367,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ethereumex ★20](https://github.com/exthereum/ethereumex) - Elixir JSON-RPC client for the Ethereum blockchain.
 * [everex ★8 ⏳2Y](https://github.com/jwarlander/everex) - Evernote API client for Elixir.
 * [everyoneapi ★1 ⏳2Y](https://github.com/knewter/everyoneapi) - API Client for EveryoneAPI.com.
-* [ex_codeship ★0](https://github.com/securingsincity/ex_codeship) - API Client for Codeship.
+* [ex_codeship ★0 ⏳1Y](https://github.com/securingsincity/ex_codeship) - API Client for Codeship.
 * [ex_gecko](https://github.com/Brightergy/ex_gecko) - Elixir SDK to communicate with Geckoboard's API.
 * [ex_statsd ★84](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
 * [ex_twilio ★130](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
@@ -1450,8 +1450,8 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries providing translations or internationalizations.*
 
 * [ecto_gettext](https://github.com/exbugs-elixir/ecto_gettext) - Library for localization Ecto validation errors with using Gettext.
-* [exkanji ★10](https://github.com/ikeikeikeike/exkanji) - A Elixir library for translating between hiragana, katakana, romaji and kanji. It uses Mecab.
-* [exromaji ★5](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
+* [exkanji ★10 ⏳1Y](https://github.com/ikeikeikeike/exkanji) - A Elixir library for translating between hiragana, katakana, romaji and kanji. It uses Mecab.
+* [exromaji ★5 ⏳1Y](https://github.com/ikeikeikeike/exromaji) - A Elixir library for translating between hiragana, katakana and romaji.
 * [linguist ★122 ⏳1Y](https://github.com/chrismccord/linguist) - Elixir Internationalization library.
 * [parabaikElixirConverter ★1 ⏳2Y](https://github.com/Arkar-Aung/ParabaikElixirConverter) - ParabaikElixirConverter is just a Elixir version of Parabaik converter. It can convert from Unicode to Zawgyi-One and Zawgyi-One to Unicode vice versa.
 * [trans ★73](https://github.com/belaustegui/trans) - A Elixir library to manage embedded translations into models leveraging PostgreSQL JSONB datatype.

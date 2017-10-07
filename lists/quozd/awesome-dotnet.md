@@ -347,7 +347,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Deployment
 
-* [Unfold ★118](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
+* [Unfold ★118 ⏳1Y](https://github.com/thomasvm/unfold) - Powershell-based deployment solution for .net web applications
 * [DbUp ★541](https://github.com/DbUp/DbUp) - .NET library that helps you to deploy changes to SQL Server databases. It tracks which SQL scripts have been run already, and runs the change scripts that are needed to get your database up to date
 * [Octo Pack ★159](https://github.com/OctopusDeploy/OctoPack) - Used to build nuget packages of your application for deployment using tools such as Octopus Deploy
 
@@ -436,6 +436,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
  * [SharpMap](https://github.com/SharpMap) An easy-to-use mapping library for use in web and desktop applications
  * [OsmSharp](http://www.osmsharp.com/) - C# library to work with OpenStreetMap (OSM) data. Provides reading, writing and route-planning for OSM data.
  * [GeoJSON4EntityFramework ★8](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
+ * [GeoJSON.NET ★148](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
 
 ## Git Tools
 
@@ -672,7 +673,7 @@ metadata in media files, including video, audio, and photo formats
 * [ReactiveUI ★3249](https://github.com/reactiveui/reactiveui) - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
 * [Okra App Framework](http://okraframework.github.io) - An app centric MVVM framework for Windows 8.1 built with dependency injection in mind, including a full set of Visual Studio MVVM templates.
 * [Prism ★1696](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
-* [WPF Application Framework (WAF)](http://waf.codeplex.com) - A lightweight Framework that helps you to create well structured WPF Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
+* [Win Application Framework (WAF) ★163](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
 * [MVVMCross ★2187](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
 * [Stylet ★82](https://github.com/canton7/stylet) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 * [Gemini ★444](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
@@ -807,6 +808,7 @@ metadata in media files, including video, audio, and photo formats
 * [FileHelpers ★493](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
 * [FsPickler ★202](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
 * [Migrant ★41](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
+* [Utf8Json ★541](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 
 ## SMS and Phone calls
 
@@ -833,7 +835,7 @@ metadata in media files, including video, audio, and photo formats
 ## Template Engine
 
 * [RazorEngine ★1433](https://github.com/Antaris/RazorEngine) - Open source templating engine based on Microsoft's Razor parsing engine
-* [Nustache ★452](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
+* [Nustache ★452 ⏳1Y](https://github.com/jdiamond/Nustache) - Open source library for logic-less templates
 * [Stubble ★17](https://github.com/stubbleorg/stubble) - Trimmed down {{mustache}} templates in .NET. Successor of Nustache.
 * [DotLiquid ★422](https://github.com/dotliquid/dotliquid) - C# port of the Ruby Liquid templating language
 * [Mustache Sharp ★201](https://github.com/jehugaleahsa/mustache-sharp) - An extension of the mustache text template engine for .NET.
@@ -867,7 +869,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Fiddler](http://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform
 * [Open Live Writer ★2041](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog. For more information see http://openlivewriter.org .
-* [CodeHub ★10675](https://github.com/CodeHubApp/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
+* [CodeHub ★10687](https://github.com/CodeHubApp/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
 * [ShareX ★6342](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 * [Myrtille ★297](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 * [Opserver ★3151](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System

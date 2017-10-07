@@ -522,7 +522,7 @@ AWS Repos:
 * [amazon-cognito-android ★31 ⏳1Y](https://github.com/aws/amazon-cognito-android) - Sync SDK for Android.
 * [amazon-cognito-developer-authentication-sample ★64 ⏳2Y](https://github.com/awslabs/amazon-cognito-developer-authentication-sample) - Authentication sample.
 * [amazon-cognito-dotnet ★4 ⏳1Y](https://github.com/aws/amazon-cognito-dotnet) - Sync SDK for .NET.
-* [amazon-cognito-ios ★33](https://github.com/aws/amazon-cognito-ios) - Sync SDK for iOS.
+* [amazon-cognito-ios ★33 ⏳1Y](https://github.com/aws/amazon-cognito-ios) - Sync SDK for iOS.
 * [amazon-cognito-js :fire: ★143](https://github.com/aws/amazon-cognito-js) - Sync SDK for JavaScript.
 * [amazon-cognito-streams-sample ★5 ⏳2Y](https://github.com/awslabs/amazon-cognito-streams-sample) - Consuming Streams sample.
 * [cognito-sample-nodejs ★65 ⏳3Y](https://github.com/awslabs/cognito-sample-nodejs) - Sample App for Node.js.
@@ -861,7 +861,7 @@ Community Repos:
 
 Community Repos:
 
-* [drewblas/aws-ses :fire::fire::fire: ★504](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
+* [drewblas/aws-ses :fire::fire::fire: ★504 ⏳1Y](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
 * [microapps/MoonMail :fire::fire::fire::fire: ★1010](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda.
 
 ### Simple Workflow
@@ -917,7 +917,7 @@ Community Repos:
 
 * [chef-cookbooks/aws :fire::fire: ★325](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire: ★1059](https://github.com/colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53.
-* [k1LoW/awspec :fire::fire: ★489](https://github.com/k1LoW/awspec) - RSpec tests your resources.
+* [k1LoW/awspec :fire::fire::fire: ★489](https://github.com/k1LoW/awspec) - RSpec tests your resources.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire: ★2347](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 * [NixOS/nixops :fire::fire: ★345](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
 

@@ -87,7 +87,7 @@ capabilities such as MPLS and SDN
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
 - [Floodlight ★465](https://github.com/floodlight/floodlight) - A java-based OpenFlow controller.
-- [Vyatta ★40 ⏳1Y](https://github.com/BRCDcomm/BVC) - The first commercial Controller built directly from OpenDaylight.
+- [Vyatta ★40 ⏳2Y](https://github.com/BRCDcomm/BVC) - The first commercial Controller built directly from OpenDaylight.
 - [OpenContrail](http://www.opencontrail.org/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
 - [IRIS](http://openiris.etri.re.kr/) - A Resursive SDN Openflow Controller created by SDN Research Section, ETRI.
 - [Open MUL](http://www.openmul.org/openmul-controller.html) - A lightweight SDN/Openflow controller written almost entirely in C from scratch.

@@ -156,7 +156,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## CLI
 *Console/Terminal User Interface, Command Line Interface*
 
- * [Argh! ★64](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. [BSD]
+ * [Argh! ★149](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. [BSD]
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
  * [docopt.cpp ★521](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
@@ -194,7 +194,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Bolt ★271 ⏳1Y](https://github.com/HSA-Libraries/Bolt) - A C++ template library optimized for GPUs. [Apache2]
 * [ck ★1178](https://github.com/concurrencykit/ck) - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [BSD]
 * [CUB ★331](https://github.com/NVlabs/cub) - CUB provides state-of-the-art, reusable software components for every layer of the CUDA programming mode. [New BSD]
-* [C++React ★664 ⏳1Y](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. [Boost]
+* [C++React ★664 ⏳2Y](https://github.com/schlangster/cpp.react) - A reactive programming library for C++11. [Boost]
 * [Intel TBB](https://www.threadingbuildingblocks.org/) - Intel® Threading Building Blocks. [Apache2]
 * [junction ★689](https://github.com/preshing/junction) - A library of concurrent data structures in C++. [BSD]
 * [libcds ★763](https://github.com/khizmax/libcds) - A C++ library of Concurrent Data Structures. [BSD]

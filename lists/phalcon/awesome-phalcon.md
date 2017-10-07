@@ -145,7 +145,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [dd ★7](https://github.com/phalcon/dd) - This package will add the `dd` and `dump` helpers to your Phalcon application
 * [PDW ★91 ⏳2Y](https://github.com/jymboche/phalcon-debug-widget) - Frontend Debugger for Phalcon Applications
-* [Phalcon Console ★15 ⏳1Y](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
+* [Phalcon Console ★15 ⏳2Y](https://github.com/vanchelo/phalcon-console) - AJAX console to execute PHP code in the browser with light, the ability to save the last code execution
 * [Phalcon Debugbar ★112](https://github.com/snowair/phalcon-debugbar) - Integrates [PHP Debug Bar](http://phpdebugbar.com) with Phalcon PHP Framework
 * [Phalcon Whoops ★7 ⏳1Y](https://github.com/whoops-php/phalcon) - Integrating [Whoops](https://filp.github.io/whoops/) with Phalcon
 * [Prophiler ★416](https://github.com/fabfuel/prophiler) - PHP Profiler & Developer Toolbar (built for Phalcon)
@@ -321,7 +321,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Conferences, Chats, Forums, etc..*
 
 * [phalcon-chat ★6 ⏳3Y](https://github.com/sintsov/phalcon-chat) - Sample classic chat development using Phalcon PHP Framework
-* [phalcon-tip ★21](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website
+* [phalcon-tip ★21 ⏳1Y](https://github.com/duythien/phalcon-tip) - The source for code Phalcon Tip website
 * [phanbook ★278](https://github.com/phanbook/phanbook) - The source for code phanbook.com website
 * [Phosphorum ★295](https://github.com/phalcon/forum) - The source for official Phalcon Forum
 

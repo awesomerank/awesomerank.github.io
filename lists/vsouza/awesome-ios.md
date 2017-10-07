@@ -696,7 +696,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Willow ★989](https://github.com/Nike-Inc/Willow) - Willow is a powerful, yet lightweight logging library written in Swift. :large_orange_diamond:
 * [Bugfender ★35](https://github.com/bugfender/BugfenderSDK-iOS) - Cloud storage for your app logs. Track user behaviour to find problems in your mobile apps.
 * [LxDBAnything ★417](https://github.com/DeveloperLx/LxDBAnything) - Automate box any value! Print log without any format control symbol! Change debug habit thoroughly!
-* [XLTestLog ★58](https://github.com/xareelee/XLTestLog) - Styling and coloring your XCTest logs on Xcode Console
+* [XLTestLog ★58 ⏳1Y](https://github.com/xareelee/XLTestLog) - Styling and coloring your XCTest logs on Xcode Console
 * [XLFacility ★259](https://github.com/swisspol/XLFacility) - Elegant and extensive logging facility for macOS & iOS (includes database, Telnet and HTTP servers)
 * [Atlantis ★200](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability. :large_orange_diamond:
 * [StoryTeller ★8](https://github.com/drekka/StoryTeller) - Taking a completely different approach to logging, Story Teller replacing fixed logging levels in It then uses dynamic expressions to control the logging so you only see what is important.
@@ -905,7 +905,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ZFPlayer ★3505](https://github.com/renzifeng/ZFPlayer) - Based on AVPlayer, support for the horizontal screen, vertical screen (full screen playback can also lock the screen direction), the upper and lower slide to adjust the volume, the screen brightness, or so slide to adjust the playback progress.
 * [Player ★870](https://github.com/piemonte/Player) - ▶️ video player in Swift, simple way to play and stream media in your iOS or tvOS app :large_orange_diamond:
 * [BMPlayer ★732](https://github.com/BrikerMan/BMPlayer) - video player in swift3 and swift2 for iOS, based on AVPlayer, support the horizontal, vertical screen. support adjust volume, brigtness and seek by slide. :large_orange_diamond:
-* [VideoPager ★32](https://github.com/entotsu/VideoPager) - Paging Video UI, and some control components is available. :large_orange_diamond:
+* [VideoPager ★32 ⏳1Y](https://github.com/entotsu/VideoPager) - Paging Video UI, and some control components is available. :large_orange_diamond:
 * [ios-360-videos ★182](https://github.com/NYTimes/ios-360-videos) - NYT360Video plays 360-degree video streamed from an AVPlayer.
 * [swift-360-videos ★47](https://github.com/team-pie/DDDKit) - Pure swift (no SceneKit) 3D library with focus on video and 360.
 * [ABMediaView ★28](https://github.com/andrewboryk/ABMediaView) - UIImageView subclass for drop-in image, video, GIF, and audio display, with functionality for fullscreen and minimization to the bottom-right corner.
@@ -1536,13 +1536,13 @@ Most of these are paid services, some have free tiers.
 * [PeekPop ★1852](https://github.com/marmelroy/PeekPop) - Backwards-compatible Peek and Pop.
 * [MKGradientView ★67](https://github.com/maxkonovalov/MKGradientView) - Core Graphics based gradient view capable of producing Linear (Axial), Radial (Circular), Conical (Angular), Bilinear (Four Point) gradients, written in Swift. 🔶
 * [EPSignature ★625](https://github.com/ipraba/EPSignature) - Signature component for iOS in Swift :large_orange_diamond:
-* [CoreDragon ★716](https://github.com/nevyn/CoreDragon)  - [iOS] Stop using context menus. Drag and drop instead, even between apps!
+* [CoreDragon ★716 ⏳1Y](https://github.com/nevyn/CoreDragon)  - [iOS] Stop using context menus. Drag and drop instead, even between apps!
 * [AEConicalGradient ★38](https://github.com/tadija/AEConicalGradient) - Conical (angular) gradient layer written in Swift. :large_orange_diamond:
 * [EVFaceTracker ★216](https://github.com/evermeer/EVFaceTracker) - Calculate the distance and angle of your device with regards to your face.
 * [Fashion ★73](https://github.com/vadymmarkov/Fashion) - Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way. :large_orange_diamond:
 * [LeeGo ★895](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks. :large_orange_diamond:
 * [MEVHorizontalContacts ★293 ⏳1Y](https://github.com/manuelescrig/MEVHorizontalContacts) - An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable menu items.
-* [Ripple ★49](https://github.com/RamonGilabert/Ripple) - Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end. :large_orange_diamond:
+* [Ripple ★49 ⏳1Y](https://github.com/RamonGilabert/Ripple) - Remember there's no such thing as a small act of kindness. Every act creates a ripple with no logical end. :large_orange_diamond:
 * [ScalePicker ★138](https://github.com/kronik/ScalePicker) - Generic scale and a handy float-value picker for any iOS app.
 * [VisualEffectView ★424](https://github.com/efremidze/VisualEffectView) - UIVisualEffectView subclass with tint color. :large_orange_diamond:
 * [NumPad ★43](https://github.com/efremidze/NumPad) - Number Pad (inspired by Square's design). :large_orange_diamond:
@@ -1707,7 +1707,7 @@ Most of these are paid services, some have free tiers.
 * [Advance ★4000](https://github.com/storehouse/Advance) - A powerful animation framework for iOS. :large_orange_diamond:
 * [UIView-Shake ★454](https://github.com/andreamazz/UIView-Shake) - UIView category that adds shake animation
 * [Walker ★129](https://github.com/RamonGilabert/Walker) - A new animation engine for your app. :large_orange_diamond:
-* [Morgan ★90](https://github.com/RamonGilabert/Morgan) - An animation set for your app. :large_orange_diamond:
+* [Morgan ★90 ⏳1Y](https://github.com/RamonGilabert/Morgan) - An animation set for your app. :large_orange_diamond:
 * [MagicMove ★10 ⏳1Y](https://github.com/patrickreynolds/MagicMove) - Keynote-style Magic Move transition animations :large_orange_diamond:
 * [Shimmer ★8103](https://github.com/facebook/Shimmer) - An easy way to add a simple, shimmering effect to any view in an iOS app.
 * [SAConfettiView ★999](https://github.com/sudeepag/SAConfettiView) - Confetti! Who doesn't like confetti? :large_orange_diamond:
@@ -1808,7 +1808,7 @@ Most of these are paid services, some have free tiers.
 * [CuckooAlert ★5 ⏳1Y](https://github.com/singcodes/CuckooAlert) - Multiple use of presentViewController for UIAlertController. 🔶
 * [KRAlertController ★32 ⏳1Y](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS. :large_orange_diamond:
 * [Dodo ★756](https://github.com/evgenyneu/Dodo) - A message bar for iOS written in Swift. :large_orange_diamond:
-* [MaterialActionSheetController ★81](https://github.com/ntnhon/MaterialActionSheetController) - A Google like action sheet for iOS written in Swift. :large_orange_diamond:
+* [MaterialActionSheetController ★81 ⏳1Y](https://github.com/ntnhon/MaterialActionSheetController) - A Google like action sheet for iOS written in Swift. :large_orange_diamond:
 * [SwiftMessages ★2438](https://github.com/SwiftKickMobile/SwiftMessages) - A very flexible message bar for iOS written in Swift. :large_orange_diamond:
 * [FCAlertView ★73](https://github.com/krispenney/FCAlertView) - A Flat Customizable AlertView for iOS. (Swift) :large_orange_diamond:
 * [FCAlertView ★625](https://github.com/nimati/FCAlertView) - A Flat Customizable AlertView for iOS. (Objective-C)
@@ -2065,6 +2065,7 @@ Most of these are paid services, some have free tiers.
 * [PullToDismiss ★177](https://github.com/sgr-ksmt/PullToDismiss) - You can dismiss modal viewcontroller by pulling scrollview or navigationbar in Swift. :large_orange_diamond:
 * [SpreadsheetView ★1840](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel. :large_orange_diamond:
 *  [VegaScroll ★1248](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9 :large_orange_diamond:
+*  [ShelfView-iOS ★86](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf :large_orange_diamond:
 
 #### Slider
 * [VolumeControl ★58](https://github.com/12Rockets/VolumeControl) - Custom volume control for iPhone featuring a well-designed round slider.
@@ -2409,7 +2410,7 @@ Most of these are paid services, some have free tiers.
  * [YYDispatchQueuePool ★275](https://github.com/ibireme/YYDispatchQueuePool) - iOS utility class to manage global dispatch queue.
  * [AlecrimAsyncKit ★67](https://github.com/Alecrim/AlecrimAsyncKit) - Bringing async and await to Swift world with some flavouring. :large_orange_diamond:
  * [GrandSugarDispatch ★31 ⏳1Y](https://github.com/jessesquires/GrandSugarDispatch) - Syntactic sugar for Grand Central Dispatch (GCD) :large_orange_diamond:
- * [Threader ★40](https://github.com/mitchtreece/Threader) - Pretty GCD calls and easier code execution.
+ * [Threader ★40 ⏳1Y](https://github.com/mitchtreece/Threader) - Pretty GCD calls and easier code execution.
  * [Dispatch ★170](https://github.com/JARMourato/Dispatch) - Just a tiny library to make using GCD easier and intuitive :large_orange_diamond:
  * [GCDTimer ★164](https://github.com/hemantasapkota/GCDTimer) - Well tested Grand Central Dispatch (GCD) Timer in Swift. :large_orange_diamond:
  * [Chronos-Swift ★248](https://github.com/comyar/Chronos-Swift) - :hourglass: Grand Central Dispatch Utilities :large_orange_diamond:
@@ -2599,7 +2600,7 @@ Most of these are paid services, some have free tiers.
 * [Luft ★183](https://github.com/k0nserv/luft) - The Xcode Plugin that helps you write lighter view controllers
 * [You-Can-Do-It ★233 ⏳1Y](https://github.com/orta/You-Can-Do-It) - Is learning a new language getting you down? Worry not, this Xcode plugin will keep you motivated.
 * [PreciseCoverage ★171 ⏳1Y](https://github.com/zats/PreciseCoverage) - Make Xcode code coverage more informative
-* [AutoIndentWithSave ★54](https://github.com/ThilinaHewagama/AutoIndentWithSave) Xcode plugin which indent the source code when save
+* [AutoIndentWithSave ★54 ⏳1Y](https://github.com/ThilinaHewagama/AutoIndentWithSave) Xcode plugin which indent the source code when save
 * [Refactorator ★983](https://github.com/johnno1962/Refactorator) - Xcode Plugin that Refactors Swift & Objective-C :large_orange_diamond:
 * [VWInstantRun ★1065](https://github.com/wangshengjia/VWInstantRun) - An Xcode plugin let you build & run your selected lines of code in Xcode without running the whole project, you'll have the output instantly in your Xcode console. :large_orange_diamond:
 * [TTPasteHistory ★31 ⏳1Y](https://github.com/tutumagi/TTPasteHistory) - A Xcode plugin. Recording you copy-and-paste history easily to write the code

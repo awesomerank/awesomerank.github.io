@@ -24,7 +24,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Neovim](https://github.com/neovim/neovim/labels/entry-level) _(label: entry-level)_ <br> Vim-fork focused on extensibility and agility.
 
 ## C++
- 
+
 - [electron](https://github.com/electron/electron/labels/help%2Fbeginner) _(label: help/beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [tensorflow](https://github.com/tensorflow/tensorflow/labels/stat%3Acontributions%20welcome) _(label: stat:contributions welcome)_ Computation using data flow graphs for scalable machine learning
 
@@ -47,6 +47,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## Go
 
+- [captain](https://github.com/davfoundation/missioncontrol/labels/first-timers-only) _(label: first-timers-only)_ <br> The Captain is a free open source framework for controlling autonomous vehicles (e.g., drones) and interacting with other autonomous vehicles and services.
 - [Moby](https://github.com/moby/moby/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> Open-source application container engine
 - [Apex](https://github.com/apex/apex/labels/contrib%20(easy)) _(label: contrib (easy))_ <br> Build, Deploy, and Manage AWS Lambda functions with ease
 - [Hugo](https://github.com/spf13/hugo/labels/exp%2Fbeginner) _(label: exp/beginner)_ <br> A Fast and Flexible Static Site Generator built with love in GoLang
@@ -62,6 +63,8 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 
 ## JavaScript
 
+- [missioncontrol](https://github.com/davfoundation/captain/labels/first-timers-only) _(label: first-timers-only)_ <br> Mission Control is a free and open marketplace connecting autonomous vehicles (e.g., drones) with users looking for services such as package deliveries.
+- [missions](https://github.com/davfoundation/missions/labels/first-timers-only) _(label: first-timers-only)_ <br> Missions is a mobile web app connecting DAV users looking to ship packages with autonomous drones looking for work in an open and free marketplace.
 - [annyang](https://github.com/TalAter/annyang/labels/first-timers-only) _(label: first-timers-only)_ <br> A popular Speech Recognition library used to communicate with everything from websites to smart mirrors to flying drones.
 - [Clementine.js Boilerplate](https://github.com/johnstonbl01/clementinejs/labels/beginner) _(label: beginner)_ <br> The elegant and lightweight full stack JavaScript boilerplate.
 - [PouchDB](https://github.com/pouchdb/pouchdb/labels/first%20timers%20only) _(label: first time only)_ <br> PouchDB is a pocket-sized database.
@@ -93,12 +96,12 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Next.js](https://github.com/zeit/next.js/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> A minimalistic framework for universal server-rendered React applications
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task) _(label: good first task)_ <br> The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20contribution) _(label: good first contribution)_ <br> The official React integration for Semantic UI.
+- [electron](https://github.com/electron/electron/labels/help%2Fbeginner) _(label: help/beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
 - [Botpress](https://github.com/botpress/botpress/labels/for-new-contributors) _(label: for-new-contributors)_ <br> The only sane way to build great bots.
 - [Atom](https://github.com/atom/atom/labels/beginner) _(label: beginner)_ <br> The hackable text editor
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER) _(label: BEGINNER)_ <br> The best FOSS web front-end resource CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only) _(label: first-timers-only)_ <br> The player framework
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly) _(label: beginner friendly)_ <br> The JavaScript mutation testing framework
-
 
 ## Julia
 
@@ -111,6 +114,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [Deployer](https://github.com/deployphp/deployer/labels/good%20for%20beginner) _(label: good for beginner)_ <br> A deployment tool written in PHP with support for popular frameworks out of the box.
 - [Piwik](https://github.com/piwik/piwik/labels/Easy%20pick) _(label: Easy Pick)_ <br> Piwik is the leading Free/Libre open analytics platform.
 - [OrgManager](https://github.com/orgmanager/orgmanager/labels/beginners-only) _(label: beginners-only)_ <br> Supercharge your GitHub organizations!
+- [PHP Censor](https://github.com/php-censor/php-censor/labels/good-for-beginner) _(label: good-for-beginner)_ <br> Open source self-hosted continuous integration server for PHP projects.
 
 ## Python
 

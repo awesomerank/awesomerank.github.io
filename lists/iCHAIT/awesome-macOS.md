@@ -117,7 +117,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 - [Touch Bar Simulator](https://github.com/sindresorhus/touch-bar-simulator) - The macOS Touch Bar Simulator as a standalone app. [![Open-Source Software][OSS Icon] ★571](https://github.com/sindresorhus/touch-bar-simulator) ![Freeware][Freeware Icon]
 - [Tower](https://www.git-tower.com/) - The most powerful Git client.
 - [Unused](https://jeffhodnett.github.io/Unused/) - An app for checking Xcode projects for unused resources. [![Open-Source Software][OSS Icon] ★1277 ⏳1Y](https://github.com/jeffhodnett/Unused) ![Freeware][Freeware Icon]
-- [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place with Vagrant Manager for macOS. [![Open-Source Software][OSS Icon] ★1587](https://github.com/lanayotech/vagrant-manager) ![Freeware][Freeware Icon]
+- [Vagrant Manager](http://vagrantmanager.com) - Manage your vagrant machines in one place with Vagrant Manager for macOS. [![Open-Source Software][OSS Icon] ★1587 ⏳1Y](https://github.com/lanayotech/vagrant-manager) ![Freeware][Freeware Icon]
 - [Versions](http://versionsapp.com/) - SVN GUI client for Mac.
 - [WWDC](https://github.com/insidegui/WWDC) - The WWDC app. [![Open-Source Software][OSS Icon] ★5943](https://github.com/insidegui/WWDC)
 

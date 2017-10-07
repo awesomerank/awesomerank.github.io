@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-912-orange.svg) | October 04, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-916-orange.svg) | October 06, 2017
 
 ### Contributing
 
@@ -198,11 +198,12 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftIntro ★51](https://github.com/Sajjon/SwiftIntro) - Memory game implementation that also teaches Swift.
 * [Swifty](https://itunes.apple.com/us/app/swifty-learn-to-code-in-swift!/id886315617) - App to learn to code.
 * [The Swift Web Developer](https://theswiftwebdeveloper.com) - A publication for Swift Web Developers.
+* [whats-new-in-swift-4 ★1702](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0.
 
 ## Boilerplates
 
-* [Swift 3 Module Template ★121](https://github.com/fulldecent/swift3-module-template) - An opinionated starting point for awesome, reusable modules.
 * [Swift 3 VIPER Module Template ★198](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for VIPER Architecture.
+* [Swift 4 Module Template ★120](https://github.com/fulldecent/swift4-module-template) - An opinionated starting point for awesome, reusable modules.
 * [Webview Boilerplate ★796 ⏳1Y](https://github.com/nabilfreeman/ios-universal-webview-boilerplate) - Starting point for webview app.
 
 ## REPL
@@ -301,7 +302,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [IBAnimatable ★6622](https://github.com/IBAnimatable/IBAnimatable) - Design and prototype UI, interaction, navigation, transition and animation for App Store ready Apps in Interface Builder with IBAnimatable.
 * [Interpolate ★1512](https://github.com/marmelroy/Interpolate) - Interpolation framework for creating interactive gesture-driven animations.
 * [JDAnimationKit ★525](https://github.com/JellyDevelopment/JDAnimationKit) - Animate easy and with less code.
-* [Morgan ★90](https://github.com/RamonGilabert/Morgan) - An always growing animation set.
+* [Morgan ★90 ⏳1Y](https://github.com/RamonGilabert/Morgan) - An always growing animation set.
 * [Pastel ★2199](https://github.com/cruisediary/Pastel) - Gradient animation effect like Instagram.
 * [Presentation ★2246](https://github.com/hyperoslo/Presentation) - A library to help you to make tutorials, release notes and animated pages.
 * [Pulsator ★788](https://github.com/shu223/pulsator) - Pulse animation for iOS.
@@ -356,6 +357,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [ARCharts ★527](https://github.com/Boris-Em/ARCharts) - Lovely Augmented Reality Charts for iOS - Built with ARKit
 * [ARKit-CoreLocation ★2609](https://github.com/ProjectDent/ARKit-CoreLocation) - Combines the high accuracy of AR with the scale of GPS data.
+* [ARKit-Navigation ★40](https://github.com/chriswebb09/ARKitNavigationDemo) - Navigation in augmented reality with MapKit.
 
 ### Authentication
 *Easy way to manage auth in your apps.* [back to top](#readme) 
@@ -676,7 +678,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Inkwell ★123](https://github.com/ninjaprox/Inkwell) - An inkwell to use custom fonts on the fly.
 * [IoniconsKit ★292](https://github.com/keitaoouchi/IoniconsKit) - Use ionicons as UIImage / UIFont in your projects.
 * [OcticonsKit ★33](https://github.com/keitaoouchi/OcticonsKit) - Use Octicons as UIImage / UIFont in your projects.
-* [OpenSansSwift ★39](https://github.com/hemantasapkota/OpenSansSwift) - OpenSans.
+* [OpenSansSwift ★39 ⏳1Y](https://github.com/hemantasapkota/OpenSansSwift) - OpenSans.
 * [Swicon ★33](https://github.com/UglyTroLL/Swicon) - Use 1600+ icons from FontAwesome and Google Material Icons (and even your own customized icons) in your project.
 * [SwiftFontName ★90 ⏳1Y](https://github.com/morizotter/SwiftFontName) - OS font complements library. Localized font supported.
 * [SwiftIconFont ★777](https://github.com/0x73/SwiftIconFont) - Fontawesome, Iconic, Ionicons, Octicon ports.
@@ -1240,7 +1242,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Jelly ★1389](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code.
 * [Kamagari ★76](https://github.com/tasanobu/Kamagari) - Simple UIAlertController builder class.
 * [KRAlertController ★32 ⏳1Y](https://github.com/krimpedance/KRAlertController) - A beautiful alert controller for your iOS.
-* [MaterialActionSheetController ★81](https://github.com/ntnhon/MaterialActionSheetController) - A Google like action sheet, easy to use and customizable.
+* [MaterialActionSheetController ★81 ⏳1Y](https://github.com/ntnhon/MaterialActionSheetController) - A Google like action sheet, easy to use and customizable.
 * [Notie ★79](https://github.com/thii/Notie) - In-app notification, with customizable buttons and input text field.
 * [NotificationBanner ★1356](https://github.com/Daltron/NotificationBanner) - The easiest way to display highly customizable in app notification banners in iOS.
 * [PMAlertController ★1632](https://github.com/Codeido/PMAlertController) - PMAlertController is a great and customizable substitute to UIAlertController.
@@ -1441,6 +1443,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [RAReorderableLayout ★772](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout which can move an item with drag and drop.
 * [ReplaceAnimation ★802 ⏳1Y](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in UICollectionView with a sticky header flow layout.
 * [Sapporo ★228](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager.
+* [ShelfView-iOS ★86](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf
 * [SwiftSpreadsheet ★403](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout ★105](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.
 
@@ -1492,6 +1495,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Focus ★134](https://github.com/typelift/Focus) - Optics library (includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Highlighter ★623](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class.
 * [Hookah ★56 ⏳1Y](https://github.com/HookahSwift/Hookah) - Functional library.
+* [LifetimeTracker ★978](https://github.com/krzysztofzablocki/LifetimeTracker) - LifetimeTracker can surface retain cycle / memory issues right as you develop your application, and it will surface them to you immediately, so you can find them with more ease.
 * [ObjectiveKit ★682](https://github.com/marmelroy/ObjectiveKit) - API for Objective C runtime functions.
 * [OpenSourceController ★26](https://github.com/terflogag/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
 * [Popsicle ★1131](https://github.com/DavdRoman/Popsicle) - Delightful, extensible value interpolation framework.

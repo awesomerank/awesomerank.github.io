@@ -15,6 +15,10 @@ title: Awesome Rank for sindresorhus/awesome-electron
 
 You might also like [awesome-nodejs ★18802](https://github.com/sindresorhus/awesome-nodejs).
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome-electron'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome-electron.svg' />
+</a>
+
 
 ## Contents
 
@@ -212,6 +216,7 @@ Made with Electron.
 - [Headset](http://headsetapp.co) - Discover, collect, and listen to music from YouTube.
 - [ScreenSquid](http://screensquid.com) - Record and playback website visitor sessions.
 - [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
+- [Mockoon](https://mockoon.com) - Mock servers in seconds.
 
 ### Samples
 
@@ -233,6 +238,7 @@ Made with Electron.
 - [bozon ★511](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue ★2969](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
 - [electron-next-skeleton ★58](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
+- [electron-sandbox ★5](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
 
 
 ## Tools

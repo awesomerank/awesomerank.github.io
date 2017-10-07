@@ -294,7 +294,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Example using event bus and service proxies to connect vertx and node ★26 ⏳1Y](https://github.com/advantageous/vertx-node-ec2-eventbus-example) - Step by step example with wiki description showing how to connect Vert.x and Node using event bus and service proxies.
 * [Vert.x Todo-Backend implementation ★0 ⏳1Y](https://github.com/aesteve/todo-backend-vertx) - Pure Java 8 implementation of the Todo MVC backend. Uses a Vert.x LocalMap for storage.
 * [Kotlin Todo-Backend implementation ★3 ⏳1Y](https://github.com/aesteve/vertx-kotlin-todomvc) - Kotlin implementation of the Todo MVC backend.
-* [Scala Todo-Backend implementation ★0](https://github.com/aesteve/vertx-scala-todomvc) - Scala implementation of the Todo MVC backend.
+* [Scala Todo-Backend implementation ★0 ⏳1Y](https://github.com/aesteve/vertx-scala-todomvc) - Scala implementation of the Todo MVC backend.
 * [Grooveex Todo-Backend implementation ★0 ⏳1Y](https://github.com/aesteve/todo-backend-grooveex) - Todo MVC backend implementation with Vert.x + Groovy + some syntactic sugar + DSL routing facilities.
 * [Vert.x Gradle Starter ★4](https://github.com/yyunikov/vertx-gradle-starter) - Java 8 starter application with example of using Vert.x with Gradle build system, profiles configuration and SLF4J.
 * [Vert.x Gentics Mesh Example ★8](https://github.com/gentics/mesh-vertx-example) - Example on how to build a template-based web server with Gentics Mesh and handlebars.

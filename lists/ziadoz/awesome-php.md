@@ -397,7 +397,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Parser ★3020](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Refactoring Browser ★547](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [PHP Semantic Versioning Checker ★370](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-* [phan ★2349](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+* [phan ★2404](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 * [PHPCheckstyle ★95](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHPCPD ★1288](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 * [PhpDependencyAnalysis ★279](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.

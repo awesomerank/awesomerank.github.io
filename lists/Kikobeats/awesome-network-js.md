@@ -57,7 +57,7 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [simple-websocket ★64](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.
 * [torrent-discovery ★88](https://github.com/webtorrent/torrent-discovery) – Discover BitTorrent and WebTorrent peers.
 * [torrent-stream ★1413](https://github.com/mafintosh/torrent-stream) – The low level streaming torrent engine that peerflix uses.
-* [udp-packet ★33 ⏳1Y](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
+* [udp-packet ★33 ⏳2Y](https://github.com/substack/udp-packet) – Encode/decode raw udp packets.
 
 ## Protocols
 

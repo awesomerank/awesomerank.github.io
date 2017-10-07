@@ -359,6 +359,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Yubl’s road to serverless - Part 2](https://medium.com/@theburningmonk/yubls-road-to-serverless-part-2-testing-and-ci-cd-72b2e583fe64) - Part 2 of a blog post series about getting into serverless architectures.
 - [Yubl’s road to serverless - Part 3](https://hackernoon.com/yubls-road-to-serverless-part-3-ops-6c82139bb7ee) - Part 3 of a blog post series about getting into serverless architectures.
 - [Yubl’s road to serverless - Part 4](https://hackernoon.com/yubls-road-to-serverless-part-4-building-a-scalable-push-notification-system-62b38924ed61) - Part 4 of a blog post series about getting into serverless architectures.
+- [Yubl’s road to serverless - Part 5](https://hackernoon.com/yubls-road-to-serverless-part-5-building-better-recommendations-with-lambda-bigquery-and-1d74407f3b3a) - Part 5 of a blog post series about getting into serverless architectures.
 - [Session storage with DynamoDB streams](https://www.linkedin.com/pulse/introduction-yuriy-sannikov) - How to build a serverless session storage with DynamoDB streams.
 - [How I built a serverless function without knowing it](https://hackernoon.com/how-i-built-a-serverless-function-without-knowing-it-58b1e65b4422) - How one guy "accidentally" built a serverless function without noticing it.
 - [Join a serverless meetup](https://www.linkedin.com/pulse/join-serverless-meetup-today-alex-casalboni) - Post on why you should join a serverless meetup.
@@ -819,6 +820,13 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Monitoring, and the “No Ops” myth](https://read.acloud.guru/serverless-superheroes-adam-johnson-monitoring-and-the-no-ops-myth-117e468416a2) - Post about monitoring serverless applications.
 - [Developing serverless toolings](https://serverless.com/blog/things-i-learned-designing-developer-tools/) - 3 things Felix Desroches learned designing developer-centric tools at Serverless, inc.
 - [Why Stackery launces at ServerlessConf](https://www.stackery.io/blog/why-stackery-is-launching-at-serverlessconf/) - Why [Stackery](https://stackery.io) decided to launch at ServerlessConf NY 2017.
+- [JeffConf Milan 2017 recap](https://serverless.zone/jeffconf-milan-2017-good-things-comes-in-threes-at-least-663df79763ee) - Recap blog post about JeffConf Milan 2017.
+- [Deploying a serverless Express.js REST API](https://serverless.com/blog/serverless-express-rest-api/) - How to deploy a serverless Express.js REST API using the Serverless Framework.
+- [Definitive guide to ServerlessConf NY 2017](https://serverless.com/blog/definitive-guide-serverlessconf-2017-nyc/) - Guide about the ServerlessConf 2017 in New York.
+- [A crash course on serverless](https://hackernoon.com/a-crash-course-on-serverless-with-node-js-632b37d58b44) - Step-by-step guide on how to create, deploy and operate a serverless application written in Node.js.
+- [Serverless (FaaS) vs. containers](https://serverless.com/blog/serverless-faas-vs-containers/) - Post which discusses when to pick which technology when working on cloud-based applications.
+- [Oracle OpenWorld 2017 recap](https://thenewstack.io/openworld-oracle-sets-sites-aws-new-serverless-cloud-offerings/) - Recap post about the Oracle OpenWorld 2017.
+- [Oracle emulates Google and AWS on its cloud](https://www.nextplatform.com/2017/10/04/oracle-emulates-google-aws-cloud/) - Post about the recent product announcements at Oracle OpenWorld 2017.
 
 ## Screencasts
 
@@ -1002,6 +1010,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Open Source Summit Pancake podcast](https://thenewstack.io/open-source-summit-pancake-podcast-celluloid-heroes-edition/) - Open Source Summit podcast which features a panel discussion about Open Source trends (including FaaS and serverless computing).
 - [Serverless Swift with OpenWhisk](https://www.youtube.com/watch?v=VkpVJ3pNYEM) - James Thomas talk about serverless Swift functions on Apache OpenWhisk.
 - [ServerlessConf NYC 2017 to address DevOps in a serverless world](https://thenewstack.io/serverlessconf-nyc-address-devops-serverless-world/) - Podcast about the upcoming ServerlessConf NYC 2017.
+- [Building reactive systems with AWS Lambda](https://vimeo.com/189519556) - Yan Cuis talk on how to build serverless applications on AWS.
 
 ## Amazon AWS resources
 
@@ -1073,22 +1082,22 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless Zwiftalizer ★2](https://github.com/mhanney/serverless-zwiftalizer) - Serverless project which includes Lambda functions to support the Zwiftalizer frontend.
 - [React boilerplate ★129](https://github.com/99xt/serverless-react-boilerplate) - React boilerplate for applications which are powered by Serverless and React.
 - [Serverless screenshot ★112](https://github.com/svdgraaf/serverless-screenshot) - Code for a screenshot service build with Serverless.
-- [Serverless minimal ★0](https://github.com/mthenw/serverless-minimal) - The smallest possible Serverless service.
-- [Serverless authorizer ★26](https://github.com/eahefnawy/serverless-authorizer) - Example of a service that uses API Gateway custom authorizer feature to authorize your endpoints.
+- [Serverless minimal ★0 ⏳1Y](https://github.com/mthenw/serverless-minimal) - The smallest possible Serverless service.
+- [Serverless authorizer ★26 ⏳1Y](https://github.com/eahefnawy/serverless-authorizer) - Example of a service that uses API Gateway custom authorizer feature to authorize your endpoints.
 - [Serverless artillery ★81](https://github.com/Nordstrom/serverless-artillery) - Instant and cheap performance testing at scale (combines [Serverless](http://serverless.com) and [Artillery](http://artillery.io)).
 - [Delivery Framework ★29](https://github.com/99xt/serverless-delivery-framework) - Boilerplate for version release pipeline with the Serverless Framework.
 - [Serverless Beer ★4](https://github.com/cassiozen/serverless-beer) - Example application which uses DynamoDB.
 - [CRUD ★69](https://github.com/pmuens/serverless-crud) - CRUD service.
 - [Mailer ★88](https://github.com/eahefnawy/serverless-mailer) - Service for sending E-Mails.
-- [Kinesis streams ★12](https://github.com/pmuens/serverless-kinesis-streams) - Service to showcase Kinesis stream support.
-- [DynamoDB streams ★14](https://github.com/pmuens/serverless-dynamodb-streams) - Service to showcase DynamoDB stream support.
-- [Landingpage backend ★15](https://github.com/pmuens/serverless-landingpage-backend) - Landingpage backend service to store E-Mail addresses.
-- [Facebook Messenger Chatbot ★22](https://github.com/pmuens/serverless-facebook-messenger-bot) - Chatbot for the Facebook Messenger platform.
+- [Kinesis streams ★12 ⏳1Y](https://github.com/pmuens/serverless-kinesis-streams) - Service to showcase Kinesis stream support.
+- [DynamoDB streams ★14 ⏳1Y](https://github.com/pmuens/serverless-dynamodb-streams) - Service to showcase DynamoDB stream support.
+- [Landingpage backend ★15 ⏳1Y](https://github.com/pmuens/serverless-landingpage-backend) - Landingpage backend service to store E-Mail addresses.
+- [Facebook Messenger Chatbot ★22 ⏳1Y](https://github.com/pmuens/serverless-facebook-messenger-bot) - Chatbot for the Facebook Messenger platform.
 - [Lambda chaining ★26](https://github.com/pmuens/serverless-lambda-chaining) - Service which chains Lambdas through SNS.
-- [Secured API ★10](https://github.com/pmuens/serverless-secured-api) - Service which exposes an API key accessible API.
-- [Authorizer ★26](https://github.com/eahefnawy/serverless-authorizer) - Service that uses API Gateway custom authorizers.
+- [Secured API ★10 ⏳1Y](https://github.com/pmuens/serverless-secured-api) - Service which exposes an API key accessible API.
+- [Authorizer ★26 ⏳1Y](https://github.com/eahefnawy/serverless-authorizer) - Service that uses API Gateway custom authorizers.
 - [Thumbnails ★22](https://github.com/eahefnawy/serverless-thumbnails) - Service that takes an image url and returns a 100x100 thumbnail.
-- [Boilerplate ★8](https://github.com/eahefnawy/serverless-boilerplate) - Opinionated boilerplate.
+- [Boilerplate ★8 ⏳1Y](https://github.com/eahefnawy/serverless-boilerplate) - Opinionated boilerplate.
 - [Serverless Sharp Image ★60](https://github.com/adieuadieu/serverless-sharp-image) - function triggered by S3 events to resize images with the awesome Sharp library
 - [Serverles Artillery workshop ★44](https://github.com/Nordstrom/serverless-artillery-workshop) - Step by step workshop to create a load testing service which combines [Serverless](http://serverless.com) and [Artillery](http://artillery.io).
 - [ServerlessConf workshop](https://github.com/ServerlessInc/serverlessconf-workshop) - Project code for the ServerlessConf London 2016 workshop.
@@ -1268,7 +1277,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 
 - [Dashbird](https://dashbird.io) - Service to analyse and debug lambda executions.
 - [DataFire ★101](https://github.com/DataFire/DataFire) - Open Integration Framework.
-- [AWS log parser ★6](https://github.com/rotemtam/serverless-aws-logs-parser) - Make sense of Lambda and API Gateway CloudWatch log files.
+- [AWS log parser ★6 ⏳1Y](https://github.com/rotemtam/serverless-aws-logs-parser) - Make sense of Lambda and API Gateway CloudWatch log files.
 - [IronFunctions ★1739](https://github.com/iron-io/functions) - The Serverless Microservices Platform.
 - [Dromedary Serverless ★28](https://github.com/stelligent/dromedary-serverless) - Project which deploys dromedary in AWS Lambda and also demonstrates the use of CodePipeline.
 - [Building Scikit-Learn For AWS Lambda](https://serverlesscode.com/post/scikitlearn-with-amazon-linux-container) - Using The Amazon Linux Image To Build Lambda Packages.
@@ -1671,7 +1680,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 
 ### Literature
 
-- [Learn Serverless - By Philipp Müns ★5](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Deprecated.
+- [Learn Serverless - By Philipp Müns ★5 ⏳1Y](https://github.com/JustServerless/learnserverless-book) - Book focused on the serverless.com framework. **Note:** Deprecated.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks

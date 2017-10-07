@@ -130,7 +130,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AS3FP ★9 ⏳5Y](https://github.com/jadbox/AS3FP) - Collection of functional idioms based on Haskell and Coffeescript.
 * [Raix ★93 ⏳4Y](https://github.com/richardszalay/raix) - Reactive And Interactive eXtensions simplifies working with interactive data (arrays) or reactive data (events).
-* [Fxp-as3 ★3](https://github.com/j3k0/fxp-as3) - Functional library inspired by the "mostly adequate guide".
+* [Fxp-as3 ★3 ⏳1Y](https://github.com/j3k0/fxp-as3) - Functional library inspired by the "mostly adequate guide".
 
 #### Unit Testing
 

@@ -18,7 +18,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 * [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
-* [Module best practices ★933 ⏳1Y](https://github.com/mattdesl/module-best-practices)
+* [Module best practices ★933 ⏳2Y](https://github.com/mattdesl/module-best-practices)
 * [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/) 
 * [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
 * [Small modules: it’s not quite that simple](https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4)
@@ -163,7 +163,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 ### Module management
 
-* [pkg-conf ★61](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+* [pkg-conf ★61 ⏳1Y](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 * [normalize-pkg ★11](https://github.com/jonschlinkert/normalize-pkg) - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
 ### Generators

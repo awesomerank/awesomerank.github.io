@@ -516,7 +516,7 @@ the underlying language.
     <sup>[[post](https://www.igvita.com/2008/01/07/support-vector-machines-svm-in-ruby/)]</sup>
   - _Practical text classification with Ruby_ by [Gleicon Moraes](https://twitter.com/gleicon)
     <sup>[[post](https://zenmachine.wordpress.com/practical-text-classification-with-ruby/) |
-    [code ★9 ⏳7Y](https://github.com/gleicon/zenmachine)]</sup>
+    [code ★9 ⏳8Y](https://github.com/gleicon/zenmachine)]</sup>
 - 2007
   - _Decision Tree Learning in Ruby_ by [Ilya Grigorik](https://twitter.com/igrigorik)
     <sup>[[post](https://www.igvita.com/2007/04/16/decision-tree-learning-in-ruby/)]</sup>

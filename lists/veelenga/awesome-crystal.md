@@ -81,6 +81,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [delimiter_tree ★7](https://github.com/drujensen/delimiter_tree) - A tree structure that is built using a delimiter
  * [edits.cr ★4](https://github.com/tcrouch/edits.cr) - Collection of edit distance algorithms
  * [hash_ring ★0](https://github.com/TobiasGSmollett/hash_ring) - An Implementation of Consistent Hash Ring
+ * [markov ★6](https://github.com/mccallofthewild/markov) - Build Markov Chains and run Markov Processes
  * [miller_rabin ★0 ⏳1Y](https://github.com/kuende/miller_rabin) - Implements [Miller-Rabin](https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Primality_Testing) algorithm to check if a number is prime
  * [multiset.cr ★1](https://github.com/tcrouch/multiset.cr) - Implementation of a multiset
  * [murmur3 ★2 ⏳1Y](https://github.com/kuende/murmur3) - Implementation of Murmur3 hash algorithm used by Cassandra
@@ -393,6 +394,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Routing
  * [beryl ★18 ⏳1Y](https://github.com/luislavena/beryl) - Action-focused HTTP routing library
  * [crouter ★41](https://github.com/jreinert/crouter) - A standalone router
+ * [orion ★3](https://github.com/obsidian/orion) - A minimal, rails'esk routing library.
  * [router.cr ★60](https://github.com/tbrand/router.cr) - Minimum but powerful http router for HTTP::Server
  * [toro ★56](https://github.com/soveran/toro) - Tree Oriented Routing
 
@@ -452,7 +454,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [google_maps_api ★7](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [hncr ★1](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
  * [nexmo-crystal ★1 ⏳1Y](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://developer.nexmo.com/) client
- * [ocean_kit ★3](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2) client
+ * [ocean_kit ★3](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2/) client
  * [open_exchange_rates ★8](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
  * [pinboard.cr ★2](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry ★13800](https://github.com/getsentry/sentry)
@@ -467,7 +469,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Web Frameworks
  * [amber ★212](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
- * [amethyst](https://github.com/Codcore/Amethyst) - A Rails inspired web-framework
+ * [amethyst ★562](https://github.com/crystal-community/Amethyst) - A Rails inspired web-framework
  * [kemal ★1852](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core ★39](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [luckyframework](https://github.com/luckyframework) - Fast, maintainable and confidence boosting web framework
@@ -487,7 +489,6 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [IRC](http://irc.lc/freenode/crystal-lang) - #crystal-lang on Freenode
  * [Metaruby](https://metaruby.com/c/crystal-forum) - Crystal Forum on Metaruby
  * [Reddit](https://www.reddit.com/r/crystal_programming/)
- * [Slack Group](http://crystal.pine.moe/en/)
  * [Stackoverflow](https://stackoverflow.com/tags/crystal-lang/info)
 
 # Resources
@@ -532,7 +533,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
    * [emacs-crystal-mode ★15](https://github.com/dotmilk/emacs-crystal-mode) - Crystal language support for Emacs
    * [play-crystal.el ★3](https://github.com/veelenga/play-crystal.el) - [play.crystal-lang.org](https://play.crystal-lang.org/#/cr) integration in Emacs
  * Spacemacs
-   * [crystal-spacemacs-layer ★9](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
+   * [crystal-spacemacs-layer ★9 ⏳1Y](https://github.com/juanedi/crystal-spacemacs-layer) - Spacemacs contribution layer for Crystal
  * Sublime
    * [sublime-crystal ★41](https://github.com/crystal-lang-tools/sublime-crystal) - Crystal syntax highlighting for sublime Text
  * TextMate

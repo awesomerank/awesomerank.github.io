@@ -543,7 +543,7 @@ Further resources:
 * [ManifoldLearning ★20](https://github.com/wildart/ManifoldLearning.jl) - A Julia package for manifold learning and nonlinear dimensionality reduction
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [Merlin ★91](https://github.com/hshindo/Merlin.jl) - Flexible Deep Learning Framework in Julia
-* [ROCAnalysis ★10](https://github.com/davidavdav/ROCAnalysis.jl) - Receiver Operating Characteristics and functions for evaluation probabilistic binary classifiers
+* [ROCAnalysis ★10 ⏳1Y](https://github.com/davidavdav/ROCAnalysis.jl) - Receiver Operating Characteristics and functions for evaluation probabilistic binary classifiers
 * [GaussianMixtures ★17](https://github.com/davidavdav/GaussianMixtures.jl) - Large scale Gaussian Mixture Models
 * [ScikitLearn ★126](https://github.com/cstjean/ScikitLearn.jl) - Julia implementation of the scikit-learn API
 * [Knet ★353](https://github.com/denizyuret/Knet.jl) - Koç University Deep Learning Framework

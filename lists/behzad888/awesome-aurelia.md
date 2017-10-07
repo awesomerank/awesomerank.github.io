@@ -185,7 +185,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [aurelia-environment ★4](https://github.com/MarcScheib/aurelia-environment) * aurelia-environment provides simple .env parsing and loading
 * [aurelia-firebase ★23 ⏳1Y](https://github.com/pulsarblow/aurelia-firebase) * [A Firebase plugin for Aurelia](https://aureliaonfire.azurewebsites.net)
 * [aurelia-flux ★74 ⏳1Y](https://github.com/tfrydrychewicz/aurelia-flux) * Flux dispatcher plugin for Aurelia
-* [aurelia-grid ★16](https://github.com/corneliutusnea/aurelia-grid) * A fresh Aurelia Grid written in TypeScript based charlespockert's Aurelia BS Grid
+* [aurelia-grid ★16 ⏳1Y](https://github.com/corneliutusnea/aurelia-grid) * A fresh Aurelia Grid written in TypeScript based charlespockert's Aurelia BS Grid
 * [aurelia-google-analytics ★15](https://github.com/miguelzakharia/aurelia-google-analytics) * An Aurelia.io plugin that adds Google Analytics page tracking to your project.
 * [aurelia-knockout ★12](https://github.com/code-chris/aurelia-knockout) * A Knockout plugin for Aurelia
 * [aurelia-leaflet ★4 ⏳2Y](https://github.com/ceoaliongroo/aurelia-leaflet) * Leaflet Plugin for Aurelia

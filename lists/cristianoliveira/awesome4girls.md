@@ -91,7 +91,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [League of Women Coders](http://lwc.tech/)
 
-    League of Women Coders (formerly Ladies Who Code, est. June 2011) is a grassroots collective that focuses on coding, hacking, and learning together. We’re like a book club for superhero women coders. You’ll find us championing free software, debating the best uses for ternary operators, defending against trolls, sharing what we know, and supporting each other in every way we can.
+    League of Women Coders (formerly Ladies Who Code, est. June 2011) is a meetup that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. The meetups focus on talks, technical questions and ideation, and sometimes also bring female speakers.
 
   - [Technovation](http://www.technovationchallenge.org/)
 
@@ -129,7 +129,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
   - [DigiGirlz Day](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx)
 
-    Microsoft is proud to offer technology programs that target youth. This one-day event, held at multiple Microsoft locations worldwide, is designed to provide high school girls with a better understanding of what a career in technology is all about.
+    DigiGirlz Day is a Microsoft-sponsored, one-day event designed to provide middle and high school girls with a better understanding of career opportunities. This opportunity offers attendees career planning assistance, exercises, and Microsoft product demonstrations -- all while interacting with real Microsoft employees and managers. Previously, this event has taken place across the globe at Microsoft locations like Nashville, TN; San Diego, CA; and Cairo, Egypt, with future sites listed [here](https://www.microsoft.com/en-us/diversity/programs/digigirlz/digigirlzday.aspx).
 
   - [DIY Girls](http://www.diygirls.org/)
 
@@ -209,7 +209,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     The *unConference* for women geeks of all kinds to share, connect, network, learn, inspire and have lots of fun.
 
-  - [SheSharp](http://www.shesharp.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
+  - [SheSharp](http://www.shesharp.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
 
     A Greek community of people dedicated to promoting women's engagement with technology & science. Its main activities consist of free workshops, meetups open to anyone interested, as well as partnerships with other tech communities and local chapters of Thessaloniki.
 
@@ -280,7 +280,7 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
 ### Content
 
-  - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Greece.svg/30px-Flag_of_Greece.svg.png" alt="Greece" width="30">
+  - [Code it Like a Girl](http://www.codeitlikeagirl.com/?lang=en) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg" alt="Greece" width="30">
 
     Code it Like a Girl is a digital media collective that creates content intended to inspire people who self-identify as female to follow their dreams. From technology news and how-to’s to remarkable stories of people all around the world, articles on feminism or just whatever we feel like talking-writing-filming about, we’ll be sharing our POV on anything that can be proven empowering, valuable, informative or entertaining to our audience.
 
@@ -299,6 +299,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Womoz](http://www.womoz.org/blog/)
 
     The Womoz Blog. Program updates and news from the women and Mozilla project.
+
+  - [InspirAda na Computação](https://inspiradanacomputacao.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+   
+    The blog aims to share content in order to inspire women to become interested in the tech area. It promotes the access to the tech knowledge and brings, as a result, the equality of opportunities.
 
 ### Documentaries/Movies
   - [Code Girls](http://www.codegirlmovie.com/)

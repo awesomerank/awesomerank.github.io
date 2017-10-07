@@ -81,7 +81,7 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 * [sslh](https://github.com/yrutschle/sslh) [![stars](https://img.shields.io/github/stars/yrutschle/sslh.svg?style=social&label=stars) ★1386](https://github.com/yrutschle/sslh) - Applicative Protocol Multiplexer (i.e: *SSH* + *HTTPS*).
 * [tund](https://github.com/aphyr/tund) [![stars](https://img.shields.io/github/stars/aphyr/tund.svg?style=social&label=stars) ★339 ⏳1Y](https://github.com/aphyr/tund) - *SSH* reverse tunnel daemon.
 * [autossh](http://www.harding.motd.ca/autossh/) - Automatically respawn *SSH* session after network interruption.
-* [wssh](https://github.com/aluzzardi/wssh) [![stars](https://img.shields.io/github/stars/aluzzardi/wssh.svg?style=social&label=stars) ★1034](https://github.com/aluzzardi/wssh) - *SSH* to WebSockets Bridge.
+* [wssh](https://github.com/aluzzardi/wssh) [![stars](https://img.shields.io/github/stars/aluzzardi/wssh.svg?style=social&label=stars) ★1034 ⏳1Y](https://github.com/aluzzardi/wssh) - *SSH* to WebSockets Bridge.
 * [docker-volume-sshfs](https://github.com/vieux/docker-volume-sshfs) [![stars](https://img.shields.io/github/stars/vieux/docker-volume-sshfs.svg?style=social&label=stars) ★155](https://github.com/vieux/docker-volume-sshfs) - `sshfs` docker volume plugin.
 
 ### Multiplexers
@@ -114,6 +114,7 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 * [kyrat](https://github.com/fsquillace/kyrat) [![stars](https://img.shields.io/github/stars/fsquillace/kyrat.svg?style=social&label=stars) ★20](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX.
 * [ssh-vault](https://github.com/ssh-vault/ssh-vault) [![stars](https://img.shields.io/github/stars/ssh-vault/ssh-vault.svg?style=social&label=stars) ★76](https://github.com/ssh-vault/ssh-vault) - encrypt/decrypt files using ssh keys
 * [ssh-ping](https://github.com/vaporup/ssh-tools) [![stars](https://img.shields.io/github/stars/vaporup/ssh-tools.svg?style=social&label=stars) ★2](https://github.com/vaporup/ssh-tools) - check if host is reachable using ssh_config
+* [SSHPry v2](https://github.com/nopernik/SSHPry2.0) [![stars](https://img.shields.io/github/stars/nopernik/SSHPry2.0.svg?style=social&label=stars) ★31](https://github.com/nopernik/SSHPry2.0) - Spy & Control os SSH Connected client's TTY
 
 ### Automation
 

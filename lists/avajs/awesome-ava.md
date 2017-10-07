@@ -48,7 +48,7 @@ title: Awesome Rank for avajs/awesome-ava
 - [vim-ava-snippets ★15 ⏳1Y](https://github.com/ahmedelgabri/vim-ava-snippets) - Snippets for Vim.
 - [ava-spec ★140](https://github.com/sheerun/ava-spec) - Drop-in BDD helpers.
 - [redux-ava ★175](https://github.com/sotojuan/redux-ava) - Test helpers for Redux.
-- [redux-test-recorder ★408](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
+- [redux-test-recorder ★408 ⏳1Y](https://github.com/conorhastings/redux-test-recorder) - Generate AVA tests for Redux reducers in a React app.
 - [gulp-ava ★52](https://github.com/avajs/gulp-ava) - Run tests with Gulp.
 - [grunt-ava ★7](https://github.com/avajs/grunt-ava) - Run tests with Grunt.
 - [fly-ava](https://github.com/pine/fly-ava) - Run tests with Fly.

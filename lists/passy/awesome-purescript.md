@@ -32,7 +32,7 @@ title: Awesome Rank for passy/awesome-purescript
 - [purescript-halogen ★621](https://github.com/slamdata/purescript-halogen) - A declarative, type-safe UI library.
 - [purescript-react-simple ★3 ⏳2Y](https://github.com/joneshf/purescript-react-simple) - A simplified wrapper around react.
 - [purescript-css ★48](https://github.com/slamdata/purescript-css) - A clean, type-safe library for describing, manipulating and rendering CSS.
-- [purescript-optic-ui ★95](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
+- [purescript-optic-ui ★95 ⏳1Y](https://github.com/zrho/purescript-optic-ui) - Write single page web user interfaces declaratively and concisely with the help of lenses and traversals.
 - [purescript-flare ★191](https://github.com/sharkdp/purescript-flare) - Applicative-style reactive user interfaces built on top of purescript-signal.
 
 ## Asynchronicity and Parallelism

@@ -41,6 +41,7 @@ A curated list of podcasts we like to listen to.
 * [CodePen Radio](https://blog.codepen.io/radio/) - Co-founders of CodePen talk about the ins and outs of running a web software business.
 * [Coding Blocks](http://www.codingblocks.net) - Software and Web Programming, security, best practices, Microsoft .NET and more.
 * [Complete Developer Podcast](http://completedeveloperpodcast.com/) - There are plenty of podcasts out there about languages and coding. What we are doing with the Complete Developer Podcast is to cover the other areas of life. For example, our first episode is about talking with customers, bosses, and others that developers interact with who are not fellow developers.
+* [Cortex](https://www.relay.fm/cortex) - Content creators CGP Grey and Myke Hurley discuss their processes, productivity hacks, workflows, and general working lives.
 * [CppCast](http://cppcast.com/) - The first podcast by C++ developers for C++ developers.
 * [Creative Coding Podcast](http://creativecodingpodcast.com/) - about programming for visual and creative applications.
 * [CTRL+Click Cast](http://ctrlclickcast.com/) - They "inspect the web for you". Interviews with developers and designers, about design, code, and content management systems. Hosted by Lea Alcantara and Emily Lewis.
@@ -60,6 +61,8 @@ A curated list of podcasts we like to listen to.
 * [Digital Human](http://www.bbc.co.uk/programmes/b01n7094) - BBC series explores the digital world presented by Aleks Krotoski.
 * [Eat Sleep Code Podcast](https://soundcloud.com/esc-podcast) - On the show we’ll be talking to passionate people about a wide range of developer related topics.
 * [Elixir Foundation](http://feed.elixirfountain.com/) - Your weekly podcast for news & interviews from around the Elixirlang Community
+* [Embedded.fm](http://embedded.fm/) - Talk about the how, why, and what of engineering, usually devices.
+* [Elm Town](https://elmtown.github.io/) - A podcast about the people making and using the Elm language, and the things that they do.
 * [Entreprogrammers](http://entreprogrammers.com/) - Get a fly-on-the-wall perspective from 4 developers turned entrepreneurs, as they struggle with the business and learn lessons the hard way. This is the weekly mastermind group of the entreprogrammers.
 * [FiveJS](https://fivejs.codeschool.com) - The latest news in the JavaScript community.
 * [FLOSS Weekly](https://twit.tv/shows/floss-weekly) - Interviews with prominent guests from the free software/open source community.
@@ -102,6 +105,7 @@ A curated list of podcasts we like to listen to.
 * [React Podcast](http://reactpodcast.com/) - Podcast about React.js
 * [Reasonably Sound](http://www.infiniteguest.org/reasonably-sound/) - Context, explanation and a little celebration of the complexities and awesomeness of audio, and the various cultures which surround and have grown around it.
 * [Reply All](https://gimletmedia.com/show/reply-all/) - Reply All is a show about the internet.
+* [Rocket Talk](http://www.tor.com/features/series/rocket-talk-podcast/) - Rocket Talk is Tor.com’s sci-fi/fantasy podcast, blending discussion style talk-radio with audio narrations of Tor.com’s award winning short fiction.
 * [Risky Business](http://risky.biz/netcasts/risky-business) - Risky Business was established in February, 2007. It take a lighthearted look at information security news and features.
 * [Roots Radio](https://roots.io/radio0) - Roots Radio is a new podcast about the Roots tools, a chance for the Roots team to talk with some folks doing cool things with their own Roots related projects, and general banter about modern web development.
 * [Ruby5](https://ruby5.codeschool.com) - The latest news in the Ruby and Rails community.
@@ -115,16 +119,22 @@ A curated list of podcasts we like to listen to.
 * [Soft Skills Engineering](https://softskills.audio/) - Weekly advice podcast for software developers. It takes more than great code to be a great developer.
 * [Sound Of Symfony](http://www.soundofsymfony.com/) - The unofficial Symfony podcast.
 * [StarTalk Radio](http://www.startalkradio.net/shows-archive/) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
+* [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (S&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt. 
 * [Start Here FM](http://dain.io/startherefm/) - An informative and up-to-date podcast on creating a business with Web Development.
+* [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
 * [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
 * [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
+* [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more hosted by Hadi Hariri.
 * [Talking Machines](http://www.thetalkingmachines.com/) - Talking Machines is your window into the world of machine learning.
+* [Talking Kotlin](http://talkingkotlin.com/) - A Podcast on Kotlin and more.
 * [Talk Python to Me](http://talkpython.fm/) - Weekly podcast (30 minutes) that covers a wide array of Python topics.
 * [TechStuff](http://shows.howstuffworks.com/techstuff-podcast.htm) - TechStuff tackles topics ranging from basic electronics to the Large Hadron Collider and everything in between. TechStuff is dedicated to demystifying technology and its role in our society and culture.
 * [Test and Code Podcast](http://pythontesting.net/test-podcast/) - A podcast about Software Development, Software Testing, and Python.
 * [Testing In The Pub](http://testinginthepub.co.uk/testinginthepub/) - British podcast about Software Testing practices
 * [That Podcast](https://thatpodcast.io/) - Beau and Dave talking about life as dads, programmers, and entrepreneurs.
+* [The Accidental Engineer](http://theaccidentalengineer.com) - Interviews with engineers about how they started their career
 * [The Agile Coffee Podcast](http://agilecoffee.com/) - AgileCoffee brings together an engaged group of practitioners passionate about Agile methodologies and Lean practices.
+* [The Amp Hour](http://theamphour.com/) - Discussing the world of electronics design in an hour long(ish) weekly show.
 * [The Back to Front Show](http://backtofrontshow.com/) - The Back to Front show was started in 2013 by web industry veterans Keir Whitaker and Kieran Masterton. Over the first 40 episodes they have discussed everything from web design and development to startups and dog related tech.
 * [The Big Web Show](http://5by5.tv/bigwebshow) - It's everything web that matters.
 * [The Bike Shed](http://bikeshed.fm/) - On The Bike Shed, hosts Derek Prior, Sean Griffin, Laila Winner, and guests discuss their development experience and challenges with Ruby, Rails, JavaScript, and whatever else is drawing their attention, admiration, or ire this week.
@@ -135,10 +145,12 @@ A curated list of podcasts we like to listen to.
 * [The Hanselminutes podcast](http://hanselminutes.com) - Fresh Air for Developers.
 * [The Laravel Podcast](http://www.laravelpodcast.com) - The Laravel Podcast brings you Laravel and PHP development news and discussion.
 * [The Life Scientific](http://www.bbc.co.uk/programmes/b015sqc7) - Professor Jim Al-Khalili talks to leading scientists about their life and work, finding out what inspires and motivates them and asking what their discoveries might do for mankind.
-* [The Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source.
+* [The Linux Action Show](http://www.jupiterbroadcasting.com/tag/linux-action-show/) - Podcast about Linux and Open Source. (discontinued)
 * [The Loosely Coupled Podcast](http://looselycoupled.info/) - Jeff Carouth and Matt Frost combine their decades of experience as web developers to talk about developer life.
+* [The Manifest](https://manifest.fm) - A podcast all about package management.
 * [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
 * [The Path to Performance](https://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
+* [The Stack Overflow Podcast](https://stackoverflow.blog/podcasts/) - A weekly podcast about developers and the Stack Overflow community.
 * [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/) - A weekly show that dives deep into all things web from the developers building the platform today.
 * [This Developer's Life](http://thisdeveloperslife.com/) - A podcast about developers and their lives.
@@ -208,17 +220,19 @@ A curated list of podcasts we like to listen to.
 
 ## In Persian
 * [RadioGeek](http://jadi.net/podcast/) - Yet another podcast for wandering geeks in the intersection of society and technology.
+* [Shir Ya Khat](http://shiryakhat.net/) - The first Blockchain Podcast dedicated to Iranians and Farsi speaking communities. We talk about Bitcoin, Blockchain assets and decentralization ideaology.
 
 ## In Swedish
 * [Kodsnack](http://kodsnack.se) - Weekly Swedish podcast about all things code, for coders. Hosted by Fredrik Björeman, Tobias Hieta and Kristoffer Grönlund, with occasional guests.
 
 ## In French
 * [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
-* [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
+* [La Dev Team](http://www.radiokawa.com/jeux-video/la-dev-team/) - Monthly podcast hosted by developers and talking about the video game industry.
 * [Le comptoir sécu](http://www.comptoirsecu.fr) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
+* [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 
 ## In German
-* [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple. 
+* [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple.
 * [Freak Show](http://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
 * [GeekWeek](http://geek-week.de/) - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.
 * [Logbuch:Netzpolitik](https://logbuch-netzpolitik.de/) - Weekly podcast about netpolitics.

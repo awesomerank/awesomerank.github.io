@@ -83,7 +83,7 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 | Zero to One | Peter Thiel, Blake Masters | [3.75](https://www.goodreads.com/book/show/18050143-zero-to-one) |  |  
 | One Click: Jeff Bezos and the Rise of Amazon.com | Richard Brandt | [3.75](https://www.goodreads.com/book/show/11223478-one-click) |  |  
 | Big Data: A Revolution That Will Transform How We Live, Work, and Think | Kenneth Cukier | [3.70](https://www.goodreads.com/book/show/15815598-big-data) | 2013 |  
-| The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Thomas Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
+| The 4-Hour Work Week: Escape the 9-5, Live Anywhere and Join the New Rich | Timothy Ferriss | [3.61](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) | 2012 |  
 | The Accidental Billionaires : The Founding of Facebook, a Tale of Sex, Money, Genius and Betrayal | Ben Mezrich | [3.50](https://www.goodreads.com/book/show/6326920-the-accidental-billionaires) | 2009 |  
 
 ## Philosophy And Psychology
@@ -125,6 +125,7 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 | The Upside of Irrationality: The Unexpected Benefits of Defying Logic | Dan Ariely | [4.00](https://www.goodreads.com/book/show/7815744-the-upside-of-irrationality) |  |  
 | Outsmarting IQ: The Emerging Science of Learnable Intelligence | David Perkins | [4.00](https://www.goodreads.com/book/show/1008488.Outsmarting_Iq) | 1995 |  
 | The Art of War | Sun Tzu | [3.95](https://www.goodreads.com/book/show/10534.The_Art_of_War) | 2005 |  
+| Willpower: Rediscovering the Greatest Human Strength | Ron P. Baumeister, John Tierney | [3.95](https://www.goodreads.com/book/show/11104933-willpower) | 2011 |  
 | A Whole New Mind: Why Right-Brainers Will Rule the Future | Daniel H. Pink | [3.95](https://www.goodreads.com/book/show/99315.A_Whole_New_Mind) |  |  
 | Vagabonding: An Uncommon Guide to the Art of Long-Term World Travel | Rolf Potts | [3.92](https://www.goodreads.com/book/show/100247.Vagabonding) |  |  
 | Supernormal: Science, Yoga, and the Evidence for Extraordinary Psychic Abilities | Dean Radin | [3.91](https://www.goodreads.com/book/show/8694125-alone-together) | 2013 |  

@@ -246,7 +246,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 * [fast.json ★72](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [painlessjson ★16](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
-* [std.data.json ★23](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
+* [std.data.json ★23 ⏳1Y](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
 * [asdf ★32](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisatoin.
 
 ### XML

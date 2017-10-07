@@ -116,7 +116,7 @@ You might also like [awesome-nodejs ★18802](https://github.com/sindresorhus/aw
 - [pkg-up ★33](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
 - [read-pkg-up ★48](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
 - [normalize-package-data ★73](https://github.com/npm/normalize-package-data) - Normalize package metadata.
-- [pkg-conf ★61](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+- [pkg-conf ★61 ⏳1Y](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 - [npm-run-path ★38 ⏳1Y](https://github.com/sindresorhus/npm-run-path) - Run locally installed binaries in the terminal by name like with global ones.
 - [local-npm](https://github.com/nolanlawson/local-npm) - Use npm [offline](https://addyosmani.com/blog/using-npm-offline/).
 - [npe ★35](https://github.com/zeke/npe) - CLI for inspecting and editing properties in package.json.

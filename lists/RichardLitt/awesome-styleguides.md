@@ -142,7 +142,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Pragmatic jQuery ★121 ⏳3Y](https://github.com/yuanyan/pragmatic-jquery)
 
 ### Modules
-* [mattdesl ★933 ⏳1Y](https://github.com/mattdesl/module-best-practices)
+* [mattdesl ★933 ⏳2Y](https://github.com/mattdesl/module-best-practices)
 
 ### npm
 * [npm Style Guide ★39 ⏳1Y](https://github.com/voorhoede/npm-style-guide#readme) An opinionated collection of best practices for teams by [@deVoorhoede](https://twitter.com/devoorhoede).

@@ -109,7 +109,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [PortAudio ★156](https://github.com/gordonklaus/portaudio) - Go bindings for the PortAudio audio I/O library.
 * [portmidi ★143](https://github.com/rakyll/portmidi) - Go bindings for PortMidi.
 * [taglib ★52 ⏳1Y](https://github.com/wtolson/go-taglib) - Go bindings for taglib.
-* [vorbis ★17 ⏳1Y](https://github.com/mccoyst/vorbis) - "Native" Go Vorbis decoder (uses CGO, but has no dependencies).
+* [vorbis ★17 ⏳2Y](https://github.com/mccoyst/vorbis) - "Native" Go Vorbis decoder (uses CGO, but has no dependencies).
 * [waveform ★190 ⏳1Y](https://github.com/mdlayher/waveform) - Go package capable of generating waveform images from audio streams.
 
 ## Authentication and OAuth
@@ -530,7 +530,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [gen ★830](https://github.com/clipperhouse/gen) - Code generation tool for ‘generics’-like functionality.
 * [go-enum ★18](https://github.com/abice/go-enum) - Code generation for enums from code comments.
 * [go-linq](https://github.com/ahmetalpbalkan/go-linq) - .NET LINQ-like query methods for Go.
-* [goderive ★412](https://github.com/awalterschulze/goderive) - Derives functions from input types.
+* [goderive ★451](https://github.com/awalterschulze/goderive) - Derives functions from input types.
 * [interfaces ★116](https://github.com/rjeczalik/interfaces) - Command line tool for generating interface definitions.
 * [jennifer ★517](https://github.com/dave/jennifer) - Generate arbitrary Go code without templates.
 * [pkgreflect ★57](https://github.com/ungerik/pkgreflect) - Go preprocessor for package scoped reflection.

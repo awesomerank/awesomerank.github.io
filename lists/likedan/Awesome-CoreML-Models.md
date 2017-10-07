@@ -95,10 +95,18 @@ If you've converted a Core ML model, feel free to submit an [issue](https://gith
 * [MXNet Model Zoo](https://mxnet.incubator.apache.org/model_zoo/) - Collection of MXNet models.
 
 *Individual machine learning models that could be converted to Core ML. We'll keep adjusting the list as they become converted.*
-* [Colorization ★1238](https://github.com/richzhang/colorization)
-* [OCR ★185](https://github.com/pannous/caffe-ocr)
-* [Illustration2Vec ★242](https://github.com/rezoo/illustration2vec)
-* [CTPN ★258](https://github.com/tianzhi0549/CTPN) 
+* [LaMem ★4 ⏳1Y](https://github.com/MiyainNYC/Visual-Memorability-through-Caffe) Score the memorability of pictures.
+* [ILGnet ★17](https://github.com/BestiVictory/ILGnet) The aesthetic evaluation of images.
+* [Colorization ★1238](https://github.com/richzhang/colorization) Automatic colorization using deep neural networks.
+* [Illustration2Vec ★242](https://github.com/rezoo/illustration2vec) Estimating a set of tags and extracting semantic feature vectors from given illustrations.
+* [CTPN ★258](https://github.com/tianzhi0549/CTPN) Detecting text in natural image.
+* [Image Analogy ★646](https://github.com/msracver/Deep-Image-Analogy) Find semantically-meaningful dense correspondences between two input images.
+* [iLID ★11](https://github.com/twerkmeister/iLID) Automatic spoken language identification.
+* [Fashion Detection ★90](https://github.com/liuziwei7/fashion-detection) Cloth detection from images.
+* [Saliency ★109](https://github.com/imatge-upc/saliency-2016-cvpr) The prediction of salient areas in images has been traditionally addressed with hand-crafted features.
+* [Face Detection ★11](https://github.com/DolotovEvgeniy/DeepPyramid) Detect face from image.
+* [mtcnn ★149](https://github.com/CongWeilin/mtcnn-caffe) Joint Face Detection and Alignment.
+* [deephorizon ★3](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
 
 # Contributing and License
 * [See the guide](https://github.com/likedan/Awesome-CoreML-Models/blob/master/.github/CONTRIBUTING.md)

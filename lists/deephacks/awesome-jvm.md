@@ -145,6 +145,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
 * [stormpot ★112 ⏳1Y](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [stream-lib ★1661](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
+* [streamvbyte ★92](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
 * [transducers-java ★97 ⏳2Y](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 * [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
@@ -338,7 +339,7 @@ Machine Specification Java SE 8 Edition.
 * [hotspot-gc-dev](http://mail.openjdk.java.net/mailman/listinfo/hotspot-gc-dev) - Technical discussion about the development of the HotSpot garbage collectors.
 * [mechanical-sympathy](https://groups.google.com/forum/#!forum/mechanical-sympathy) - Discussing how to code sympathetically to and measure the underlying stack/platform so good performance can be extracted.
 * [Performance Java User's Group](https://plus.google.com/u/0/communities/107178245817384004088/) - For expert Java *developers* who want to push their systems to the next level
-* [Virtual Machine Meetup](http://vmmeetup.github.io/2015/) - Venue for discussing the latest research and developments in the area of managed language execution. 
+* [Virtual Machine Meetup 2017](http://vmmeetup.github.io/2017/) - Venue for discussing the latest research and developments in the area of managed language execution. 
 
 ## Media
 
@@ -363,7 +364,19 @@ Machine Specification Java SE 8 Edition.
 * [With GC Solved, What Else Makes a JVM Pause?](https://www.youtube.com/watch?v=Y39kllzX1P8) - John Cuthbertson.
 * [JVM Mechanics](https://vimeo.com/120533011) - Douglas Hawkins.
 * [Give me 15 minutes and I'll change your view of Linux tracing](https://www.youtube.com/watch?v=GsMs3n8CB6g) - Brendan Gregg.
+* [Kernel Recipes 2017: Performance Analysis with BPF](https://www.slideshare.net/brendangregg/kernel-recipes-2017-performance-analysis-with-bpf) - Brendan Gregg.
+* [Shenandoah deep talk](https://shipilev.net/talks/vmm-Sep2017-shenandoah.pdf) - Aleksey Shipilëv slightly-deeper-than-usual Shenandoah talk from Virtual Machine Meetup 2017.
 * [Analyzing and Debugging the Java HotSpot VM at the OS Level](https://www.youtube.com/watch?v=k7IX_diKCEo) - Volker Simonis.
+* [Cliff Click podcast pt.1](http://www.cliffc.org/blog/2017/09/16/programming-and-performance-intro/) - Programming and Performance Intro.
+* [Cliff Click podcast pt.2](http://www.cliffc.org/blog/2017/09/16/of-bugs-and-coding-styles/) - Bugs and Coding Styles.
+* [Cliff Click podcast pt.3](http://www.cliffc.org/blog/2017/09/18/java-vs-cc-the-podcast/) - Java vs C/C++.
+* [Cliff Click podcast pt.4](http://www.cliffc.org/blog/2017/09/21/debugging-data-races/) - Debugging Data Races.
+* [Cliff Click podcast pt.5](http://www.cliffc.org/blog/2017/09/24/fast-bytecodes-for-funny-languages/) - Fast Bytecodes for Funny Languages.
+* [Cliff Click podcast pt.6](http://www.cliffc.org/blog/2017/09/28/struct-of-arrays-vs-array-of-structs/) - Struct of Arrays vs Array of Structs.
+* [Cliff Click podcast pt.7](http://www.cliffc.org/blog/2017/10/04/the-3-hardest-problems-in-programming/) - The 3 Hardest Problems in Programming.
+* [Everything about Stack Traces and Heap Dumps](https://vimeo.com/233820012) - Andrei Pangin.
+* [Fast and safe production monitoring of JVM with BPF tools](http://s.sashag.net/velny17-jvm) - Sasha Goldshtein.
+* [The Future of the Linux Page Cache](https://www.youtube.com/watch?time_continue=1&v=xxWaa-lPR-8) - Matthew Wilcox.
 
 ## People
 

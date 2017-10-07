@@ -272,7 +272,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 
 ## Application Hosting
 
-* [Forge](https://forge.laravel.com/) - Provision optimized PHP servers on Linode, DigitalOcean etc.
+* [Forge](https://forge.laravel.com/)
   * [Server Management with Forge](https://laracasts.com/series/server-management-with-forge) (Laracasts)
   * [Getting your first site up and running in Laravel Forge](https://mattstauffer.co/blog/getting-your-first-site-up-and-running-in-laravel-forge) (Matt Stauffer)
   * [ForgeRecipes](http://forgerecipes.com/)
@@ -281,6 +281,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 * [Heroku](https://www.heroku.com/) ([Tutorial](https://mattstauffer.co/blog/installing-a-laravel-app-on-heroku))
 * [IBM BlueMix](https://console.ng.bluemix.net/) ([Tutorial](https://developer.ibm.com/bluemix/2014/06/17/getting-started-laravel-bluemix/))
 * [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) ([Tutorial](http://docs.aws.amazon.com/elasticbeanstalk/latest/dg/php-laravel-tutorial.html#php-laravel-tutorial-deploy))
+* [Cloudways](https://www.cloudways.com/en/laravel-hosting.php)
 
 ## Application Deployment
 
@@ -304,6 +305,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 * [Matt Stauffer](https://mattstauffer.co/tags/laravel)
 * [Creative Punch](http://creative-punch.net/articles/php-articles/laravel-tutorials/)
 * [Ryan Tablada](http://ryantablada.com/tag/Laravel)
+* [Mohamed Said](https://themsaid.com/)
 * [Mohammad Gufran](http://www.gufran.me/tag/Laravel/)
 * [Adam Engebretson](http://blog.enge.me/4)
 * [CodeHeaps](http://www.codeheaps.com/)
@@ -339,6 +341,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 * [ForLaravel](https://forlaravel.com/)
 * [Good Heads](http://goodheads.io/category/laravel/)
 * [Ryan Stelmat](http://ryanstelmat.com/tag/laravel/)
+* [Cloudways Laravel Blog](http://cloudways.com/blog/laravel)
 
 ## Videos
 
@@ -364,6 +367,8 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 
 ##### Videos
 
+* [Laracon EU 2017](https://www.youtube.com/watch?v=JPxhnRh1Rr8&list=PLMdXHJK-lGoBFZgG2juDXF6LiikpQeLx2)
+* [Larcaon US 2017](https://streamacon.com/video/laracon-us-2017)
 * [Laracon EU 2016](https://www.youtube.com/playlist?list=PLMdXHJK-lGoCMkOxqe82hOC8tgthqhHCN)
 * [Laracon US 2016](https://streamacon.com/video/laracon-us)
 * [Laracon EU 2015](https://www.youtube.com/playlist?list=PLMdXHJK-lGoA9SIsuFy0UWL8PZD1G3YFZ)
@@ -485,6 +490,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 
 ## Community
 
+* [Laracasts Forum](https://laracasts.com/discuss)
 * [Laracasts Forum](https://laracasts.com/discuss)
 * [Laravel.io Forum](http://laravel.io/forum)
 * [Larachat Slack](https://larachat.slack.com/) ([Signup](https://larachat.co/slack))

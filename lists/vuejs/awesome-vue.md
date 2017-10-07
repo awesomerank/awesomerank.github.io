@@ -82,6 +82,7 @@ title: Awesome Rank for vuejs/awesome-vue
     - [Responsive](#responsive)
     - [Mobile](#mobile)
     - [Component Collections](#component-collections)
+    - [Admin Template](#admin-template)
     - [Other](#other)
   - [UI Utilities](#ui-utilities)
     - [Event Handling](#event-handling)
@@ -302,6 +303,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Building a Vue v2 JS app using Vue-router](https://www.liquidlight.co.uk/blog/article/building-a-vue-v2-js-app-using-vue-router/) by [@mikestreety](https://twitter.com/mikestreety)
 - [Build your own carousel with Vue](https://medium.com/@davidatomhernandez/how-to-a-simple-carousel-with-vue-138715d615d7) by [@Atom_Hernandez](https://twitter.com/Atom_Hernandez)
 - [Unit Testing Vue.js Components with the Official Vue Testing Tools and Jest](https://alexjoverm.github.io/series/Unit-Testing-Vue-js-Components-with-the-Official-Vue-Testing-Tools-and-Jest/) by [@alexjoverm](https://twitter.com/alexjoverm)
+- [Creating Vue.js Transitions & Animation: Live Examples](https://snipcart.com/blog/vuejs-transitions-animations) by [@udyuxdev](https://twitter.com/UdyUXDev)
 
 ### Examples
 
@@ -327,7 +329,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
   - [Vue Simple PWA ★120](https://github.com/BosNaufal/vue-simple-pwa) by [BosNaufal](https://github.com/BosNaufal)
   - [Tour of Heroes (Vue 2.0)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue](https://github.com/revue/revue) (redux bindings for Vue), [vue-router ★6891](https://github.com/vuejs/vue-router), [Airbnb eslint](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
-  - [vue-table-pagination ★2](https://github.com/echoVic/vue-table-pagination) A table with pagination by [echovic](https://github.com/echovic)
+  - [vue-table-pagination ★2 ⏳1Y](https://github.com/echoVic/vue-table-pagination) A table with pagination by [echovic](https://github.com/echovic)
   - [Feathers and Vue 2.0 Blog Admin Demo ★50 ⏳1Y](https://github.com/delay/feathers-vue-blog-admin-demo) Demo for using Feathers with Vue 2.0. It includes authentication, vue-router, vue-infinite-loading and roles by [delay](https://github.com/delay)
   - [vue-zhihudaily-2.0 ★102](https://github.com/cs1707/vue-zhihudaily-2.0) Zhihudaily demo built with Vue 2.0, vue-router & vuex, with server-side rendering. by [cs1707](https://github.com/cs1707)
   - [vue-demo-todolist ★42](https://github.com/fishenal/Todos_Vuejs) a simply vue2.0 demo built with Vue 2.0, vue-cli. by [fishenal](https://github.com/fishenal)
@@ -478,6 +480,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Book-Trading-Club ★0](https://github.com/mubaidr/Book-Trading-Club) - Trade or loan books with other book readers in your area. Built using nodejs and vuejs2
 - [vuejs-extension-pack vscode ★4](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
 - [vue2-text-swimlane ★0](https://github.com/mubaidr/vue-swimlane) - A Text Swimlane plugin for Vue.js
+- [Wiki.js ★539](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown 
 
 ### Commercial Products
 
@@ -575,6 +578,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Item Manager](https://itemmanager.uk) - An application to transfer items for Destiny 2 game.
   - [Frontend Masters Intro to Vue](https://frontendmasters.com/courses/vue/) - Frontend Masters full day course
   - [TR-101](https://inverted3.gitlab.io/drum-machine/) - A drum synth / sequencer.
+  - [Boardbang](https://boardbang.com) - Media sharing platform.
 
 ### Interactive Experiences
 
@@ -718,6 +722,7 @@ Tooltips / popovers
 - [vuejs-dialog ★3](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 - [@hscmap/vue-window ★2](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
 - [vue-gallery ★5](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
+- [vue-swal ★5](https://github.com/anteriovieira/vue-swal) - A small wrapper for integrating SweetAlert to Vuejs.
 
 ### Parallax
 
@@ -1109,7 +1114,13 @@ Tooltips / popovers
 
  - [mint-ui ★7599](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.
  - [vant ★225](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
+ 
+### Admin Template
 
+*Set of admin template*
+
+  - [iView Vue Admin ★1](https://github.com/TonyLuo/iview-vue-admin) - iView vue Admin / An admin management system template
+  
 ### Other
 
  - [nuxt ★6405](https://github.com/nuxt/nuxt.js) - Framework for server-rendered Vue.js applications.

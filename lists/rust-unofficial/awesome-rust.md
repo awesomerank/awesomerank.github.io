@@ -79,6 +79,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [azerupi/mdBook ★671](https://github.com/azerupi/mdBook) — a command line utility to create books from markdown files [<img src="https://api.travis-ci.org/azerupi/mdBook.svg?branch=master">](https://travis-ci.org/azerupi/mdBook)
 * [bluejekyll/trust-dns ★583](https://github.com/bluejekyll/trust-dns) — a DNS-server [<img src="https://api.travis-ci.org/bluejekyll/trust-dns.svg?branch=master">](https://travis-ci.org/bluejekyll/trust-dns)
 * [ivanceras/curtain ★138](https://github.com/ivanceras/curtain) — a database administration tool for postgresql [<img src="https://api.travis-ci.org/ivanceras/curtain.svg">](https://travis-ci.org/ivanceras/curtain)
+* [danielrangel/rsign](https://bitbucket.org/danielrangel/rsign) [[rsign](https://crates.io/crates/rsign)] — A simple command-line tool used to generate/sign/verify digital signatures designed to be compatible with Minisign  [![Codeship Status for danielrangel/rsign](https://app.codeship.com/projects/60b28d80-7645-0135-4402-1639b58199d0/status?branch=master)](https://app.codeship.com/projects/244452)
 * [darrint/device-blocker ★10](https://github.com/darrint/device-blocker) — Limit screen time to children's various mobile devices by blocking internet access on the family Wifi router.
 * [dlecan/generic-dns-update ★2](https://github.com/dlecan/generic-dns-update) — a tool to update DNS zonefiles with your IP address [<img src="https://api.travis-ci.org/dlecan/generic-dns-update.svg?branch=master">](https://travis-ci.org/dlecan/generic-dns-update)
 * [Factotum ★84](https://github.com/snowplow/factotum) — [A system to programmatically run data pipelines](https://snowplowanalytics.com/blog/2016/04/09/introducing-factotum-data-pipeline-runner/) [<img src="https://api.travis-ci.org/snowplow/factotum.svg?branch=master">](https://travis-ci.org/snowplow/factotum)
@@ -94,6 +95,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [notty ★1538](https://github.com/withoutboats/notty) — A new kind of terminal
 * [Parity ★2168](https://github.com/paritytech/parity) — Fast, light, and robust Ethereum implementation [![build status](https://gitlab.ethcore.io/parity/parity/badges/master/build.svg)](https://gitlab.ethcore.io/parity/parity/commits/master)
 * [parity-bitcoin ★246](https://github.com/paritytech/parity-bitcoin) — The Parity Bitcoin client [<img src="https://api.travis-ci.org/paritytech/parity-bitcoin.svg?branch=master">](https://travis-ci.com/paritytech/parity-bitcoin)
+* [Pijul](https://pijul.org) — a patch-based distributed version control system
 * [qmx/limonite ★25](https://github.com/qmx/limonite) — static blog/website generator [<img src="https://api.travis-ci.org/qmx/limonite.svg?branch=master">](https://travis-ci.org/qmx/limonite)
 * [Sandstorm Collections App ★11](https://github.com/sandstorm-io/collections-app)
 * [Servo ★10119](https://github.com/servo/servo) — a prototype web browser engine
@@ -146,7 +148,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [buster/rrun ★57](https://github.com/buster/rrun) — a command launcher for Linux, similar to gmrun  [<img src="https://api.travis-ci.org/buster/rrun.svg?branch=master">](https://travis-ci.org/buster/rrun)
   * [cristianoliveira/funzzy ★54](https://github.com/cristianoliveira/funzzy) — a configurable filesystem watcher inspired by [entr](http://entrproject.org/) [<img src="https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master">](https://travis-ci.org/cristianoliveira/funzzy)
   * [derniercri/snatch ★596](https://github.com/derniercri/snatch) — a download accelerator [<img src="https://api.travis-ci.org/derniercri/snatch.svg?branch=master">](https://travis-ci.org/derniercri/snatch)
-  * [lotabout/skim ★251](https://github.com/lotabout/skim) — A fuzzy finder in pure rust [<img src="https://travis-ci.org/lotabout/skim.svg?branch=master">](https://api.travis-ci.org/lotabout/skim)
+  * [lotabout/skim ★251](https://github.com/lotabout/skim) — A fuzzy finder in pure rust [<img src="https://api.travis-ci.org/lotabout/skim.svg?branch=master">](https://travis-ci.org/lotabout/skim)
   * [mmstick/parallel ★808](https://github.com/mmstick/parallel) — a command-line CPU load balancer
   * [mmstick/systemd-manager ★385](https://github.com/mmstick/systemd-manager) — a systemd service manager written in Rust using GTK-rs.
   * [mmstick/tv-renamer ★77](https://github.com/mmstick/tv-renamer) — a tv series renaming application with an optional GTK3 frontend. [<img src="https://api.travis-ci.org/mmstick/tv-renamer.svg?branch=master">](https://travis-ci.org/mmstick/tv-renamer)
@@ -259,7 +261,7 @@ See also [Foreign Function Interface](https://doc.rust-lang.org/book/first-editi
   * [mgattozzi/haskellrs ★6 ⏳1Y](https://github.com/mgattozzi/haskellrs) — Rust in Haskell FFI Example
   * [mgattozzi/rushs ★0](https://github.com/mgattozzi/rushs) — Haskell in Rust FFI Example
 * Java
-  * [bennettanderson/rjni](https://github.com/bennettanderson/rjni) — use Java from Rust [<img src="https://api.travis-ci.org/bennettanderson/rjni.svg?branch=master">](https://travis-ci.org/GravityScore/RustJNI)
+  * [bennettanderson/rjni ★21](https://github.com/benanders/rjni) — use Java from Rust [<img src="https://api.travis-ci.org/bennettanderson/rjni.svg?branch=master">](https://travis-ci.org/GravityScore/RustJNI)
   * [drrb/java-rust-example ★175](https://github.com/drrb/java-rust-example) — use Rust from Java [<img src="https://api.travis-ci.org/drrb/java-rust-example.svg?branch=master">](https://travis-ci.org/drrb/java-rust-example)
   * [kud1ing/rucaja ★10](https://github.com/kud1ing/rucaja) [[rucaja](https://crates.io/crates/rucaja)] — use Java from Rust [<img src="https://api.travis-ci.org/kud1ing/rucaja.svg?branch=master">](https://travis-ci.org/kud1ing/rucaja)
   * [prevoty/jni-rs ★52](https://github.com/prevoty/jni-rs) [[jni](https://crates.io/crates/jni)] — use Rust from Java [<img src="https://api.travis-ci.org/prevoty/jni-rs.svg?branch=master">](https://travis-ci.org/prevoty/jni-rs)
@@ -540,7 +542,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
   * Microsoft SQL
     * [steffengy/tiberius ★43](https://github.com/steffengy/tiberius) — [<img src="https://api.travis-ci.org/steffengy/tiberius.svg?branch=master">](https://travis-ci.org/steffengy/tiberius)
   * MySql [[mysql](https://crates.io/keywords/mysql)]
-    * [AgilData/mysql-proxy-rs ★99](https://github.com/AgilData/mysql-proxy-rs) — a MySQL Proxy [<img src="https://api.travis-ci.org/AgilData/mysql-proxy-rs.svg?branch=master">](https://travis-ci.org/AgilData/mysql-proxy-rs)
+    * [AgilData/mysql-proxy-rs ★99 ⏳1Y](https://github.com/AgilData/mysql-proxy-rs) — a MySQL Proxy [<img src="https://api.travis-ci.org/AgilData/mysql-proxy-rs.svg?branch=master">](https://travis-ci.org/AgilData/mysql-proxy-rs)
     * [blackbeam/mysql_async ★34](https://github.com/blackbeam/mysql_async) [[mysql_async](https://crates.io/crates/mysql_async)] — asyncronous Rust Mysql driver based on Tokio. [<img src="https://api.travis-ci.org/blackbeam/mysql_async.svg?branch=master">](https://travis-ci.org/blackbeam/mysql_async)
     * [blackbeam/rust-mysql-simple ★172](https://github.com/blackbeam/rust-mysql-simple) [[mysql](https://crates.io/crates/mysql)] — a native MySql client [<img src="https://api.travis-ci.org/blackbeam/rust-mysql-simple.svg?branch=master">](https://travis-ci.org/blackbeam/rust-mysql-simple)
   * PostgreSql [[postgres](https://crates.io/keywords/postgres), [postgresql](https://crates.io/keywords/postgresql)]
@@ -810,7 +812,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
   * [mattnenterprise/rust-pop3 ★10](https://github.com/mattnenterprise/rust-pop3) — a [POP3](https://en.wikipedia.org/wiki/Post_Office_Protocol) client for Rust [<img src="https://api.travis-ci.org/mattnenterprise/rust-pop3.svg?branch=master">](https://travis-ci.org/mattnenterprise/rust-pop3)
 * SSH
   * [alexcrichton/ssh2-rs ★83](https://github.com/alexcrichton/ssh2-rs) — [libssh2](https://www.libssh2.org/) bindings [<img src="https://api.travis-ci.org/alexcrichton/ssh2-rs.svg?branch=master">](https://travis-ci.org/alexcrichton/ssh2-rs)
-  * [Thrussh](https://pijul.org/thrussh/) — an SSH library written from scratch in Rust, backed by [libsodium](https://download.libsodium.org/doc/)
+  * [Thrussh ★3](https://github.com/pijul-scm/thrussh) — an SSH library written from scratch in Rust, backed by [libsodium](https://download.libsodium.org/doc/)
 * Stomp
   * [zslayton/stomp-rs ★49 ⏳1Y](https://github.com/zslayton/stomp-rs) — a [STOMP 1.2](http://stomp.github.io/stomp-specification-1.2.html) client implementation in Rust [<img src="https://api.travis-ci.org/zslayton/stomp-rs.svg?branch=master">](https://travis-ci.org/zslayton/stomp-rs)
 * uTP
@@ -911,6 +913,7 @@ See also [Rust web framework comparison ★524](https://github.com/flosse/rust-w
   * [sappworks/sapper ★391](https://github.com/sappworks/sapper) — A lightweight web framework built on async hyper, implemented in Rust language. [<img src="https://api.travis-ci.org/sappworks/sapper.svg?branch=master">](https://travis-ci.org/sappworks/sapper)
   * [tiny-http ★240](https://github.com/tiny-http/tiny-http) — Low level HTTP server library [<img src="https://api.travis-ci.org/frewsxcv/tiny-http.svg?branch=master">](https://travis-ci.org/frewsxcv/tiny-http)
   * [tomaka/rouille ★216](https://github.com/tomaka/rouille) — Web framework in Rust [<img src="https://api.travis-ci.org/tomaka/rouille.svg?branch=master">](https://travis-ci.org/tomaka/rouille)
+  * [oldaniel/zap ★9](https://github.com/oldaniel/zap) - A lightning fast http framework for Rust [<img src="https://api.travis-ci.org/oldaniel/zap.svg?branch=master">](https://travis-ci.org/oldaniel/zap)
 * [WebSocket](https://datatracker.ietf.org/doc/rfc6455/)
   * [cyderize/rust-websocket ★387](https://github.com/cyderize/rust-websocket) — a framework for dealing with WebSocket connections (both clients and servers) [<img src="https://api.travis-ci.org/cyderize/rust-websocket.svg?branch=master">](https://travis-ci.org/cyderize/rust-websocket)
   * [housleyjk/ws-rs ★415](https://github.com/housleyjk/ws-rs) — lightweight, event-driven WebSockets for Rust [<img src="https://api.travis-ci.org/housleyjk/ws-rs.svg?branch=stable">](https://travis-ci.org/housleyjk/ws-rs)

@@ -281,6 +281,7 @@ Wrappers:
 ## SQL
 
 * [sqlint ★137](https://github.com/purcell/sqlint) - Simple SQL linter
+* [sqlcheck ★1318](https://github.com/jarulraj/sqlcheck) - Automatically identify anti-patterns in SQL queries
 
 ## Swift
 
@@ -410,6 +411,7 @@ Wrappers:
 
 ## Writing
 
+* [misspell fixer ★66 ⏳1Y](https://github.com/vlajos/misspell_fixer) - Quick tool for fixing common misspellings, typos in source code
 * [proselint ★2465](https://github.com/amperser/proselint) - a linter for English prose with a focus on writing style instead of grammar.
 * [vale ★99](https://github.com/ValeLint/vale) - A customizable, syntax-aware linter for prose.
 

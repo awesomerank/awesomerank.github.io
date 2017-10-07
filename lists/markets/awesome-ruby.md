@@ -593,7 +593,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [ginatra ★501 ⏳1Y](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 * [git-auto-bisect ★78 ⏳2Y](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
 * [git_reflow ★1384](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
-* [git-spelunk ★38](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
+* [git-spelunk ★38 ⏳1Y](https://github.com/osheroff/git-spelunk) - Dig through git blame history.
 * [git-up ★2735](https://github.com/aanand/git-up) - Fetch and rebase all locally-tracked remote branches.
 * [git-whence ★17 ⏳2Y](https://github.com/grosser/git-whence) - Find which merge a commit came from.
 * [Git Cop ★215](https://github.com/bkuhlmann/git-cop) - Enforces consistent Git commits.
@@ -954,7 +954,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
   * [distribution ★26 ⏳1Y](https://github.com/sciruby/distribution) - Statistical Distributions multi library wrapper.
   * [integration ★9 ⏳2Y](https://github.com/sciruby/integration) - Numerical integration methods, based on original work by Beng.
   * [minimization ★16 ⏳2Y](https://github.com/sciruby/minimization) - Minimization algorithms on pure Ruby.
-  * [publisci ★4 ⏳3Y](https://github.com/sciruby/publisci) - A toolkit for publishing scientific results to the semantic web.
+  * [publisci ★4 ⏳4Y](https://github.com/sciruby/publisci) - A toolkit for publishing scientific results to the semantic web.
   * [plotrb ★21 ⏳2Y](https://github.com/sciruby/plotrb) - A plotting library in Ruby built on top of Vega and D3.
   * [rb-gsl ★69](https://github.com/SciRuby/rb-gsl) - A ruby interface to GNU Scientific library, with NMatrix support.
 * Specific

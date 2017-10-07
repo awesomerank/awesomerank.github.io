@@ -147,7 +147,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ## Style Guides
 
-- [Handshake Style Guide ★3](https://github.com/handshake/less-style-guide) - This guide presents a collection of best-practices and coding conventions.
+- [Handshake Style Guide ★3 ⏳1Y](https://github.com/handshake/less-style-guide) - This guide presents a collection of best-practices and coding conventions.
 - [WebMD Health Services Style Guide ★1 ⏳3Y](https://github.com/bitmap/less-styleguide) - This document outlines CSS/Less best practices at WebMD Health Services.
 
 **[Back to top](#contents)**

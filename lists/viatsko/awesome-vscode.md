@@ -29,6 +29,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Migrating from Visual Studio](#migrating-from-visual-studio)
   - [Migrating from Vim](#migrating-from-vim)
 - [Lint and IntelliSense](#lint-and-intellisense)
+  - [1C](#1c)
   - [C++](#c)
   - [CSS](#css)
   - [Go](#go)
@@ -165,6 +166,11 @@ In case the awesome nirvana that is linting has not yet been unleashed upon you:
 > lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
 
 Unlike some other editors, VS Code supports IntelliSense, linting, outline out-of-the-box and doesn't require any separate extension to run linter packages. Some linters are already integrated in VS Code, you can find the full list in the official documentation, [Languages](https://code.visualstudio.com/Docs/languages/overview) section.
+
+#### 1C
+
+- [1C/OScript](https://marketplace.visualstudio.com/items?itemName=xDrivenDevelopment.language-1c-bsl) - rich 1С:Enterprise 8 (BSL) language support in VSC - add syntax highlighting to *.bsl и *.os files in VSC, add IntelliSense and syntax helper for 1С lang
+![1C-Syntax](https://cloud.githubusercontent.com/assets/1132840/13007621/9e730984-d1a2-11e5-8ff5-8f7945421184.PNG)
 
 ### C++
 

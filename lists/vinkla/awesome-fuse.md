@@ -122,7 +122,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Bash Completion ★3 ⏳1Y](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 - [Emacs ★4](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse.
 - [Sublime ★21](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.
-- [Visual Studio Code ★42 ⏳1Y](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
+- [Visual Studio Code ★42 ⏳2Y](https://github.com/Hazealign/vscode-fuse) - Fuse Helper for Visual Studio Code.
 - [Fuse Language](https://marketplace.visualstudio.com/items?itemName=naumovs.vscode-fuse-syntax) - Syntax Highlighting for \*.uno and \*.ux files in VS Code.
 - [Fuse-Log ★1](https://github.com/bstrr/vscode-fuse-log) - Get Fuse log messages into Visual Studio Code's output panel.
 

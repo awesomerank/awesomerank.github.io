@@ -20,6 +20,7 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [anfederico/Clairvoyant ★1116](https://github.com/anfederico/Clairvoyant) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
 - [angular-medellin/meetup ★109](https://github.com/angular-medellin/meetup) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
 - [athityakumar/colorls ★1121](https://github.com/athityakumar/colorls) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
+- [choojs/choo ★4563](https://github.com/choojs/choo) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
 - [Day8/re-frame ★2740](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
 - [iharsh234/WebApp ★16](https://github.com/iharsh234/WebApp) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
 - [jakubroztocil/httpie ★31698](https://github.com/jakubroztocil/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
@@ -34,8 +35,9 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 - [shama/gaze ★980](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
 - [sindresorhus/pageres ★8098](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
 - [skywinder/github-changelog-generator ★3975](https://github.com/skywinder/github-changelog-generator) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
-- [choojs/choo ★4563](https://github.com/choojs/choo) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
 - [teles/array-mixer ★6](https://github.com/teles/array-mixer) - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
+- [vhesener/Closures ★3](https://github.com/vhesener/Closures) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
+- [webpro/release-it ★576](https://github.com/webpro/release-it) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
 
 ## Articles
 - ["Art of Readme - Learn the art of writing quality READMEs." ★4509](https://github.com/noffle/art-of-readme) - *Stephen Whitmore*

@@ -832,7 +832,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [The Art of Node](https://github.com/maxogden/art-of-node/#the-art-of-node) - An introduction to Node.js.
 - [stream-handbook ★10683](https://github.com/substack/stream-handbook) - How to write Node.js programs with streams.
 - [browserify-handbook](https://github.com/substack/browserify-handbook) - The definitive guide for browserify.
-- [module-best-practices ★933 ⏳1Y](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
+- [module-best-practices ★933 ⏳2Y](https://github.com/mattdesl/module-best-practices) - Some good practices when writing new npm modules.
 - [The Node Way](http://thenodeway.io) - An entire philosophy of Node.js best practices and guiding principles exists for writing maintainable modules, scalable applications, and code that is actually pleasant to read.
 - [You Don't Know Node.js ★683](https://github.com/azat-co/you-dont-know-node) - Introduction to Node.js core features and asynchronous JavaScript.
 

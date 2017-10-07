@@ -188,7 +188,7 @@ Traffic Analysis/Inspection<a name="analysis"></a>
 
 * [yaraPcap ★47 ⏳4Y](https://github.com/kevthehermit/YaraPcap): Process HTTP Pcaps With YARA
 
-* [yaraprocessor ★71 ⏳2Y](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
+* [yaraprocessor ★71 ⏳3Y](https://github.com/MITRECND/yaraprocessor): With yaraprocessor YARA can be run against individual packet payloads as well as a concatenation of some or all of the payloads. It was originally written for use in Chopshop, but can also be used without it.
 
 
 DNS Utilities <a name="dnstools"></a>

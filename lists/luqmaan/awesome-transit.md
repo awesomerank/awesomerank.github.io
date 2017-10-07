@@ -201,10 +201,11 @@ Converters from various static schedule formats to GTFS.
  
 #### GTFS Validators
 
-- [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - Google supported Python-based GTFS validator. 
-- [gtfs-validator ★16](https://github.com/conveyal/gtfs-validator) - - A GTFS validator based on the OneBusAway GTFS Modules, runs in Java and is faster than the Google provided one. 
-- [GFTS Data Package Specification ★8](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
-- [GTFS Meta-Validator](http://gtfsvalidator.omnimodal.io) - A web-based GTFS validator that runs both [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) and [gtfs-validator ★16](https://github.com/conveyal/gtfs-validator) on uploaded GTFS files.
+- [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) - Google supported Python-based GTFS validator.
+- [gtfs-validator ★16](https://github.com/conveyal/gtfs-validator) - A GTFS validator based on the OneBusAway GTFS Modules, runs in Java and is faster than the Google provided one. 
+- [gtfs-lib ★10](https://github.com/conveyal/gtfs-lib) - Conveyal's successor to gtfs-validator, a library for loading and saving GTFS feeds of arbitrary size with disk-backed storage.
+- [GTFS Data Package Specification ★8](https://github.com/Stephen-Gates/GTFS) - A [Data Package specification](http://specs.frictionlessdata.io/data-packages/) with validation accomplished with [Good Tables](http://goodtables.okfnlabs.org/). Includes a data package, schemas, tests, and uses South East Queensland GTFS data as an example.
+- [Web GTFS Meta-Validator (hosted by Omni)](http://gtfsvalidator.omnimodal.io) - A web-based GTFS validator that runs both [feedValidator](https://github.com/google/transitfeed/wiki/FeedValidator) and [gtfs-validator ★16](https://github.com/conveyal/gtfs-validator) on uploaded GTFS files.
 
 ### GTFS Realtime
 - [GTFS-realtime documentation](https://github.com/google/transit/tree/master/gtfs-realtime)
@@ -222,6 +223,7 @@ Converters from various static schedule formats to GTFS.
 #### GTFS Realtime Validators
 
 - [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - A GTFS-realtime validation tool developed by the Center for Urban Transportation Research at the University of South Florida.  Also includes an integrated version of the [gtfs-validator ★16](https://github.com/conveyal/gtfs-validator) tool.
+- [Web gtfs-realtime-validator (hosted by TransitScreen)](http://gtfsrealtimevalidator.transitscreen.com/) - A web-based interface to [gtfs-realtime-validator ★21](https://github.com/CUTR-at-USF/gtfs-realtime-validator).
 
 #### GTFS Realtime Archival Tools
 
