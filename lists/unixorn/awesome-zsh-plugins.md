@@ -304,7 +304,7 @@ These frameworks make customizing your zsh setup easier.
 * [hooks ★14 ⏳2Y](https://github.com/willghatch/zsh-hooks) - Add missing hooks - for plugins and personal use.
 * [host-switch ★1 ⏳1Y](https://github.com/LockonS/host-switch) - Make it easier to switch in different `/etc/hosts` files during development.
 * [hub-ci-zsh-plugin ★0 ⏳2Y](https://github.com/raymondjcox/hub-ci-zsh-plugin) - A simple plugin for adding hub ci-status to your zsh theme.
-* [iosctl ★1](https://github.com/obayer/iosctl) - Quickly access App, Data, and Log of the running simulator.
+* [iosctl ★1 ⏳1Y](https://github.com/obayer/iosctl) - Quickly access App, Data, and Log of the running simulator.
 * [iterm-tab-colors ★8](https://github.com/tysonwolker/iterm-tab-colors) - Automatically changes iTerm tab color based on the current working directory
 * [java-zsh-plugin ★0 ⏳1Y](https://github.com/Xetius/java-zsh-plugin) - Adds a setjdk command so you can switch easily between different versions of the jdk.
 * [jenkins-zsh ★1](https://github.com/tomplex/jenkins-zsh) - A jenkins plugin for ZSH, heavily inspired by the excellent jira plugin.
