@@ -104,7 +104,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-suit ★1333](https://github.com/darklow/django-suit) - Modern theme for Django admin interface.
 * [django-wpadmin ★214 ⏳1Y](https://github.com/barszczmm/django-wpadmin) - WordPress look and feel for Django administration panel.
 * [django-xadmin ★2299](https://github.com/sshwsfc/xadmin) - Drop-in replacement of Django admin comes with lots of goodies, fully extensible with plugin support, pretty UI based on Twitter Bootstrap
-* [yawd-admin ★131](https://github.com/yawd/yawd-admin) - An administration website for Django
+* [yawd-admin ★131 ⏳1Y](https://github.com/yawd/yawd-admin) - An administration website for Django
 
 ## Analytics
 

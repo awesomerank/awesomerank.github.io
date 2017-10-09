@@ -172,7 +172,7 @@ Plugins
     - [Flask-StatHat ★8 ⏳3Y](https://github.com/marksteve/flask-stathat) - StatHat extension for Flask
     - [scales ★910 ⏳1Y](https://github.com/Cue/scales) - Metrics for Python
     - [flask-tracking ★32 ⏳1Y](https://github.com/closeio/flask-tracking) - Tracking app for Flask that logs HTTP request and response information in a capped MongoDB collection
-    - [Flask-Analytics ★40](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework.
+    - [Flask-Analytics ★40 ⏳1Y](https://github.com/citruspi/Flask-Analytics) - Analytics snippets generator extension for the Flask framework.
 - Other SDK
     - [Flask-GoogleMaps ★321](https://github.com/rochacbruno/Flask-GoogleMaps) - Build and embed google maps in our Flask templates
     - [Flask-Dropbox ★59 ⏳4Y](https://github.com/playpauseandstop/Flask-Dropbox) - Dropbox Python SDK support for Flask applications

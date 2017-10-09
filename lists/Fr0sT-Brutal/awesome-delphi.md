@@ -277,7 +277,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [TTreeListView](http://github.com/benibela/treelistview). This component is a mix between TTreeView and TListView and can paint a tree whose nodes have additional information sorted in columns.
 
-* [neTabControl ★14](https://github.com/jkour/neTabControl). FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
+* [neTabControl ★14 ⏳1Y](https://github.com/jkour/neTabControl). FireMonkey control for Delphi. It builds on the native TabControl and adds a number of features.
 
 
 ## Editors

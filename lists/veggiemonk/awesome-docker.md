@@ -257,6 +257,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [Docker Grand Ambassador ★192 ⏳2Y](https://github.com/cpuguy83/docker-grand-ambassador) :skull: - This is a fully dynamic docker link ambassador. + [Article](https://docs.docker.com/engine/admin/ambassador_pattern_linking/) by [@cpuguy83][cpuguy83]
 * [docker-consul ★996](https://github.com/gliderlabs/docker-consul) by [@progrium][progrium]
 * [etcd ★15043](https://github.com/coreos/etcd) - A highly-available key value store for shared configuration and service discovery by [@coreOS][coreos]
+* [istio ★3012](https://github.com/istio/istio) - An open platform to connect, manage, and secure microservices by [@IstioMesh](istio)
 * [proxy ★47 ⏳2Y](https://github.com/factorish/proxy) :skull: - lightweight nginx based load balancer self using service discovery provided by registrator. by [@factorish](https://github.com/factorish)
 * [registrator ★3260](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker by [@gliderlabs][gliderlabs] and [@progrium][progrium]
 

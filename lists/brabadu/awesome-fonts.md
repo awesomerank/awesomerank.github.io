@@ -50,7 +50,7 @@ A curated list of fonts and typography resources.
 * [AtF Spark](http://aftertheflood.co/projects/atf-spark) - Font designed to create sparklines
 * [Inter ★3308](https://github.com/rsms/inter) - A typeface specially designed for user interfaces.
 * [Open Baskerville](http://klepas.org/openbaskerville/)
-* [Redacted ★4513](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
+* [Redacted ★4513 ⏳1Y](https://github.com/christiannaths/Redacted-Font) - Keep your wireframes free of distracting Lorem Ipsum
 * [SansBullshitSans ★211](https://github.com/RoelN/SansBullshitSans)
 * [WorkSans ★752](https://github.com/weiweihuanghuang/Work-Sans)
 
@@ -114,7 +114,7 @@ A curated list of fonts and typography resources.
 * [typicons.font](http://s-ings.com/typicons) - 336 pixel perfect, all-purpose vector icons in a web-font kit
 * [weather-icons](http://erikflowers.github.io/weather-icons/) - 189 weather themed icons inspired by Font Awesome and ready for Bootstrap
 * [WebHostingHub Glyphs ★277 ⏳4Y](https://github.com/whhglyphs/webhostinghub-glyphs)
-* [Zocial ★200 ⏳5Y](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework
+* [Zocial ★200 ⏳6Y](https://github.com/adamstac/zocial) - Sass and Compass CSS3 social buttons framework
   * [CSS social buttons ★1655](https://github.com/smcllns/css-social-buttons) - Entirely vector-based social buttons
 
 ## Programming fonts

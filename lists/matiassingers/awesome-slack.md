@@ -189,7 +189,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [browser-node-slack ★2](https://github.com/RichardLitt/browser-node-slack) - Slack integration for node and browserify
 - [bunyan-slack ★62](https://github.com/qualitybath/bunyan-slack) - Bunyan stream for Slack chat integration
 - [camayak-to-slack ★1 ⏳3Y](https://github.com/tcu360/camayak-to-slack) - Node.js app that allows Slack to work as a Camayak publishing destination
-- [chivebot ★8 ⏳2Y](https://github.com/totherik/chivebot) - A pluggable Slack bot based on Outgoing Webhooks
+- [chivebot ★8 ⏳3Y](https://github.com/totherik/chivebot) - A pluggable Slack bot based on Outgoing Webhooks
 - [CircleCI2Slack](https://github.com/modestinc/CircleCI2Slack) - Node app that proxies build notifications from CircleCI to Slack
 - [crispyfi ★121 ⏳1Y](https://github.com/crispymtn/crispyfi) - A local pseudo-bot that controls Spotify through Slack
 - [cylebot-slack ★2 ⏳2Y](https://github.com/cyle/cylebot-slack) - Cylebot, but for Slack

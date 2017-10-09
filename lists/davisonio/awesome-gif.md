@@ -131,7 +131,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 - [Gif.js ★2321](https://github.com/jnordberg/gif.js) - Javascript - create GIF from the DOM
 - [Omggif ★372](https://github.com/deanm/omggif) - Javascript - GIF 89a encoder and decoder
-- [Animated_GIF ★154](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs
+- [Animated_GIF ★154 ⏳1Y](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs
 - [Gifffer ★565](https://github.com/krasimir/gifffer) JavaScript library that prevents the autoplaying of the animated GIFs
 - [Gifplayer ★335](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs
 - [Jsgif ★382 ⏳1Y](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player
@@ -153,7 +153,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [AnimatedGIFImageSerialization ★1024](https://github.com/mattt/AnimatedGIFImageSerialization) - decodes an UIImage from Animated GIFs image data
 - [UIimage from GIF ★809 ⏳1Y](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs
 - [GIFRefreshControl ★302 ⏳3Y](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control
-- [UIImageView-PlayGIF ★417](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF
+- [UIImageView-PlayGIF ★417 ⏳1Y](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF
 - [FLAnimatedImage ★6047](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard
 - [Animated-GIF-iPhone ★133 ⏳2Y](https://github.com/arturogutierrez/Animated-GIF-iPhone) - Support for Animated GIF on iOS
 - [UzysAnimatedGifPullToRefresh ★1404 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView

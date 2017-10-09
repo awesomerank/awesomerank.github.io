@@ -143,7 +143,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [Spoon ★387](https://github.com/INRIA/spoon) - Library to write your own static analyses and architectural rule checkers for Java. Can be integrated in Maven and Gradle.
 * [SpotBugs](https://spotbugs.github.io/) - SpotBugs is FindBugs' successor. A tool for static analysis to look for bugs in Java code.
 * [OWASP Dependency Check](https://www.owasp.org/index.php/OWASP_Dependency_Check) - Checks dependencies for known, publicly disclosed, vulnerabilities.
-* [Hopper ★32 ⏳1Y](https://github.com/cuplv/hopper) - A static analysis tool written in scala for languages that run on JVM
+* [Hopper ★33 ⏳1Y](https://github.com/cuplv/hopper) - A static analysis tool written in scala for languages that run on JVM
 
 ## JavaScript
 
@@ -391,7 +391,7 @@ Wrappers:
 * [FlowDroid ★180](https://github.com/secure-software-engineering/soot-infoflow-android) - static taint analysis tool for Android applications
 * [paprika ★32](https://github.com/GeoffreyHecht/paprika) - A toolkit to detect some code smells in analyzed Android applications.
 * [qark ★1406](https://github.com/linkedin/qark) - Tool to look for several security related Android application vulnerabilities
-* [android-lint-summary ★164 ⏳1Y](https://github.com/passy/android-lint-summary) - Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.
+* [android-lint-summary ★165 ⏳1Y](https://github.com/passy/android-lint-summary) - Combines lint errors of multiple projects into one output, check lint results of multiple sub-projects at once.
 
 ## Packages
 

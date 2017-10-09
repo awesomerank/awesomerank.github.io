@@ -157,7 +157,7 @@ _Business Intelligence_
   * [TriggerHappy](http://trigger-happy.eu/) - An opensource clone of IFTTT, a bridge between your internet services. ([Source Code ★969](https://github.com/foxmask/django-th)) `BSD` `Python`
   * [WebUI-aria2 ★3679](https://github.com/ziahamza/webui-aria2) - Interface to interact with the aria2 downloader. Very simple to use, just download and open index.html in any web browser. ([Demo](http://ziahamza.github.io/webui-aria2/)) `MIT` `HTML5`
   * [WTFDYUM](https://github.com/jchampemont/WTFDYUM) `⚠` - Why The Fuck Did You Unfollow Me - Find out who stops following you on Twitter. ([Demo](https://www.wtfdyu.me/), [Source Code ★43 ⏳1Y](https://github.com/jchampemont/WTFDYUM)) `Apache` `Java`
-  * [Zenbot 3](https://s8f.org/zenbot.html) - Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more. ([Demo](https://zenbot.s8f.org/), [Source Code ★1763](https://github.com/carlos8f/zenbot)) `MIT` `Node.js`
+  * [Zenbot 3 ★1763](https://github.com/carlos8f/zenbot) - Zenbot is a lightweight, extendable, artificially intelligent trading bot for Bitcoin, Ether, Litecoin, and more. `MIT` `Node.js`
 
 
 ## Blogging Platforms
@@ -202,7 +202,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
   * [saveto](https://save.duyet.net/) - An open source, home for the best links on the web. ([Source Code ★36](https://github.com/saveto-co/saveto)) `MIT` `Nodejs`
   * [SemanticScuttle](http://semanticscuttle.sourceforge.net/) - SemanticScuttle is a social bookmarking tool experimenting with features like structured tags and collaborative tag descriptions. ([Source Code](https://sourceforge.net/p/semanticscuttle/code/ci/master/tree/)) `GPLv2` `PHP`
   * [Shaarli ★963](https://github.com/shaarli/Shaarli) - Personal, minimalist, super-fast, no-database bookmarking and link sharing platform. ([Demo](https://demo.shaarli.org)) `Zlib` `PHP`
-  * [unmark](https://unmark.it/) - An open source to do app for links. ([Source Code](https://github.com/plainmade/unmark)) `MIT` `PHP`
+  * [unmark](https://github.com/plainmade/unmark) - An open source to do app for links. `MIT` `PHP`
 
 ## Calendar and Address Books
 
@@ -213,7 +213,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code](https://github.com/adobo/agendav)) `GPLv3` `PHP`
   * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server. ([Source Code ★1411](https://github.com/fruux/Baikal)) `GPLv3` `PHP`
   * [CalendarServer](http://trac.calendarserver.org/) - A standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
-  * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server. ([Source Code](http://keithp.com/cgi-bin/gitweb.cgi?p=calypso.git;a=tree)) `GPLv3` `Python`
+  * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server. ([Source Code](https://keithp.com/git/calypso.git)) `GPLv3` `Python`
   * [DAViCal](http://www.davical.org/) - A server for calendar sharing (CalDAV). ([Source Code](https://gitlab.com/davical-project/davical)) `MIT` `PHP`
   * [Radicale](http://radicale.org/) - A Simple Calendar and Contact Server. ([Source Code ★1145](https://github.com/Kozea/Radicale)) `GPLv3` `Python`
   * [sabre/dav](http://sabre.io/) - A open source CardDAV, CalDAV and WebDAV server. ([Source Code ★772](https://github.com/fruux/sabre-dav)) `MIT` `PHP`
@@ -341,7 +341,7 @@ _[IRC](https://en.wikipedia.org/wiki/Internet_Relay_Chat) communication software
   * [IRCAnywhere](http://ircanywhere.com/) - Open-source self-hosted alternative to IRCCloud. ([Source Code ★764 ⏳1Y](https://github.com/ircanywhere/ircanywhere)) `GPLv2` `Nodejs`
   * [Quassel IRC](http://quassel-irc.org/) - distributed IRC client, meaning that one (or multiple) client(s) can attach to and detach from a central core. ([Source Code ★395](https://github.com/quassel/quassel)) `GPLv2` `C++`
   * [Robust IRC](https://robustirc.net/) - RobustIRC is IRC without netsplits. Distributed IRC server, based on RobustSession protocol. ([Source Code ★91](https://github.com/robustirc/robustirc)) `BSD` `Go`
-  * [The Lounge](https://thelounge.github.io/) - The self-hosted web IRC client. ([Demo](https://avatar.playat.ch:1000/), [Source Code ★1344](https://github.com/thelounge/lounge)) `MIT` `Nodejs`
+  * [The Lounge](https://thelounge.github.io/) - The self-hosted web IRC client. ([Demo](https://demo.thelounge.chat/), [Source Code ★1344](https://github.com/thelounge/lounge)) `MIT` `Nodejs`
   * [Weechat](https://weechat.org/) - A fast, light and extensible chat client. `GPLv3` `C`
   * [ZNC](http://wiki.znc.in/ZNC) - An advanced IRC bouncer. ([Source Code ★1419](https://github.com/znc/znc)) `Apache` `C++`
 
@@ -390,7 +390,7 @@ _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
   * [Isso](http://posativ.org/isso/) - A lightweight commenting server written in Python and Javascript. It aims to be a drop-in replacement for Disqus. ([Source Code ★2425](https://github.com/posativ/isso)) `MIT` `Python`
   * [Jappix](https://jappix.com/) - Jappix is an open social platform, that let's you easily get or keep in touch with everyone. ([Source Code ★426](https://github.com/jappix/jappix)) `AGPLv3` `PHP`
   * [Loomio](https://www.loomio.org/) - Loomio is a collaborative decision-making tool that makes it easy for anyone to participate in decisions which affect them. ([Source Code ★1475](https://github.com/loomio/loomio)) `AGPLv3` `Ruby`
-  * [Mastodon](https://mastodon.social) - Federated microblogging server, an alternative to GNU social. ([Source Code ★10389](https://github.com/tootsuite/mastodon)) `AGPLv3` `Ruby`
+  * [Mastodon](https://joinmastodon.org/) - Federated microblogging server, an alternative to GNU social. ([Source Code ★10389](https://github.com/tootsuite/mastodon)) `AGPLv3` `Ruby`
   * [MyBB](http://www.mybb.com/) - Free, extensible forum software package. ([Source Code ★429](https://github.com/mybb/mybb)) `LGPLv3` `PHP`
   * [Newebe](http://newebe.org/) - A Distributed Social Network. ([Source Code ★101 ⏳1Y](https://github.com/gelnior/newebe)) `AGPLv3` `Python`
   * [NodeBB](https://nodebb.org/) - Node.js based forum software built for the modern web. ([Source Code ★7748](https://github.com/NodeBB/NodeBB)) `GPLv3` `Nodejs`
@@ -478,7 +478,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Plone](https://plone.org/) - Powerful open-source CMS system. ([Source Code](https://github.com/plone)) `Zope` `Python`
   * [ProcessWire](https://processwire.com/) - ProcessWire is an open source content management system (CMS) and web application framework aimed at the needs of designers, developers and their clients. ([Source Code ★756](https://github.com/ryancramerdesign/ProcessWire)) `MPLv2` `PHP`
   * [PropertyWebBuilder](http://propertywebbuilder.com) - The ultimate Ruby on Rails engine for creating real estate websites. ([Demo](https://propertywebbuilder.herokuapp.com), [Source Code ★184](https://github.com/etewiah/property_web_builder)) `MIT` `Ruby`
-  * [Publify](http://publify.co/) - A simple but full featured web publishing software. ([Demo](http://demo.publify.co/), [Source Code ★1704](https://github.com/publify/publify)) `MIT` `Ruby`
+  * [Publify](http://publify.co/) - A simple but full featured web publishing software. ([Source Code ★1704](https://github.com/publify/publify)) `MIT` `Ruby`
   * [REDAXO](https://www.redaxo.org) - A simple, flexible and useful content management system (documentation only available in German). ([Source Code ★148](https://github.com/redaxo/redaxo)) `MIT` `PHP`
   * [Redaxscript](https://redaxscript.com) - Ultra lightweight CMS for MySQL, SQLite and PostgreSQL. ([Demo](https://demo.redaxscript.com/demo/login), [Source Code ★210](https://github.com/redaxmedia/redaxscript)) `GPLv3` `PHP`
   * [Roadiz](https://www.roadiz.io/) -  Modern CMS based on a node system which can handle many types of services. ([Source Code ★297](https://github.com/roadiz/roadiz)) `MIT` `PHP`
@@ -531,7 +531,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 **[`^        back to top        ^`](#)**
 
   * [CUPS](https://www.cups.org/) - The Common Unix Print System uses Internet Printing Protocol (IPP) to support printing to local and network printers. ([Source Code](https://www.cups.org/software.php)) `GPLv2` `C`
-  * [EdPaper](https://paper.edra.ovh) - PDF organizer with users management. ([Source Code ★3](https://github.com/Edraens/EdPaper)) `MIT` `PHP`
+  * [EdPaper ★3](https://github.com/Edraens/EdPaper) - PDF organizer with users management. `MIT` `PHP`
   * [Paperless ★3731](https://github.com/danielquinn/paperless) - Scan, index, and archive all of your paper documents. `GPLv3` `Python`
   * [SANE Network Scanning](http://sane-project.org/) - allow remote clients to access image acquisition devices (scanners) available on the local host. ([Source Code](http://www.sane-project.org/cvs.html)) `GPLv2` `C`
 
@@ -641,7 +641,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [FileShelter ★30](https://github.com/epoupon/fileshelter) - FileShelter is a self-hosted software that allows you to easily share files over the Internet. ([Demo](http://fileshelter.suroot.com/)) `GPLv3` `C++`
   * [Files Sharing ★2](https://github.com/axeloz/filesharing) - Open Source and self-hosted files sharing application based on unique and temporary links. `GPLv3` `PHP`
   * [img.bi ★186 ⏳1Y](https://github.com/imgbi/img.bi) - img.bi is a secure image hosting. Images are encrypted using AES-256 with random key in browser before upload. `GPLv3` `Nodejs`
-  * [ipfs.pics](https://ipfs.pics/) - ipfs.pics is a o distributed image hosting website. ([Source Code](https://github.com/ipfspics/server)) `AGPLv3` `PHP`
+  * [ipfs.pics](https://github.com/ipfspics/server) - ipfs.pics is a o distributed image hosting website. `AGPLv3` `PHP`
   * [Jirafeau](https://gitlab.com/mojo42/Jirafeau) - Jirafeau is a web site permitting to upload a file in a simple way and give an unique link to it. ([Demo](http://jirafeau.net/)) `AGPLv3` `PHP`
   * [linx ★322](https://github.com/andreimarcu/linx-server) - File sharing application and pastebin with API, auto-expiry, deletion keys, and web seed support. ([Demo](https://linx.li/)) `GPLv3` `Go`
   * [lufi](https://git.framasoft.org/luc/lufi) - Let's Upload that FIle, client-side encrypted. ([Demo](https://demo.lufi.io), [Source Code](https://git.framasoft.org/luc/lufi/tree/master)) `AGPLv3` `Perl`
@@ -650,16 +650,20 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [Nimbus ★162](https://github.com/ethanal/nimbus) - A drag-and-drop shortlink file sharer for OS X. `MIT` `Python`
   * [OnionShare ★2041](https://github.com/micahflee/onionshare) - Securely and anonymously share a file of any size. `GPLv2` `Python`
   * [PictShare](https://www.pictshare.net/) - PictShare is a multi lingual, open source image hosting service with a simple resizing and upload API. ([Demo](https://www.pictshare.net/), [Source Code ★245](https://github.com/chrisiaut/pictshare)) `Apache` `PHP`
-  * [Plik ★153](https://github.com/root-gg/plik) - Plik is a scalable & friendly temporary file upload system ( wetransfer like ). ([Demo](https://plik.root.gg/)) `MIT` `Go`
+  * [Plik ★153](https://github.com/root-gg/plik) - Plik is a scalable & friendly temporary file upload system. ([Demo](https://plik.root.gg/)) `MIT` `Go`
   * [Pomf ★205](https://github.com/Pomf/Pomf) - Simple file uploading and sharing, source for the now shut down site Pomf.se. `MIT` `PHP`
   * [ProjectSend](http://www.projectsend.org/) - Upload files and assign them to specific clients you create. Give access to those files to your clients. ([Source Code ★211](https://github.com/ignacionelson/ProjectSend)) `GPLv2` `PHP`
   * [PsiTransfer ★312](https://github.com/psi-4ward/psitransfer) - Simple open source self-hosted file sharing solution with robust up-/download-resume and password protection. ([Demo](https://transfer.psi.cx/)) `BSD` `Nodejs`
   * [Sharry ★15](https://github.com/eikek/sharry) - Share files easily over the internet between authenticated and anonymous users (both ways) with resumable up- and downloads. ([Demo](https://sharrydemo.eknet.org)) `GPLv3` `Scala/Java`
-  * [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Demo](https://transfer.sh), [Source Code ★4475](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
   * [Uguu](https://uguu.se/) - Stores files and deletes after X amount of time. ([Source Code ★174](https://github.com/nokonoko/uguu)) `MIT` `PHP`
-  * [Up1 ★524](https://github.com/Upload/Up1) - A Client-side Encrypted Image Host. ([Demo](https://up1.ca/)) `MIT` `Nodejs`
+  * [Up1 ★524](https://github.com/Upload/Up1) - A Client-side Encrypted Image Host. `MIT` `Nodejs`
   * [uPste](https://u.pste.pw) - A private file hosting application with an emphasis on serving technology communities. ([Source Code ★33](https://github.com/TheReverend403/uPste)) `AGPLv3` `PHP`
   * [YouTransfer](http://www.youtransfer.io) - YouTransfer is a simple but elegant self-hosted file transfer & sharing solution. ([Demo](http://demo.youtransfer.io/), [Source Code](https://github.com/remie/YouTransfer)) `Apache` `Nodejs`
+
+_Command-line file upload_
+
+  * [Beauties ★1](https://github.com/dsx/beauties) - Minimalist file sharing written in Go, to be used primarily from Unix shell (e.g. with curl). Can be built as a Debian package for easy install. `MIT` `Go`
+  * [transfer.sh](https://transfer.sh) - Easy file sharing from the command line. ([Source Code ★4475](https://github.com/dutchcoders/transfer.sh)) `MIT` `Go`
 
 #### Web based file managers
 
@@ -699,7 +703,7 @@ See https://github.com/n1trux/awesome-sysadmin#distributed-filesystems
   * [GateOne](http://liftoffsoftware.com/Products/GateOne) - Gate One is an HTML5 web-based terminal emulator and SSH client. ([Source Code ★4607](https://github.com/liftoff/GateOne)) `AGPLv3` `Python`
   * [Guacamole](http://guac-dev.org/) - Guacamole is a clientless remote desktop gateway. It supports standard protocols like VNC and RDP. ([Source Code](https://github.com/glyptodon/)) `Apache` `Java/C`
   * [oneye](https://oneye-project.org/) - Cloud software to access your data from everywhere with any browser. ([Demo](https://wiki.oneye-project.org/0.9:demo), [Source Code ★66](https://github.com/oneye/oneye)) `AGPLv3` `PHP`
-  * [OS.js](https://os.js.org/) - A desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. ([Demo](https://osjsv2.0o.no/), [Source Code ★3970](https://github.com/os-js/OS.js)) `BSD` `Nodejs`
+  * [OS.js](https://os.js.org/) - A desktop implementation for your browser with a fully-fledged window manager, Application APIs, GUI toolkits and filesystem abstraction. ([Demo](https://demo.os-js.org/), [Source Code ★3970](https://github.com/os-js/OS.js)) `BSD` `Nodejs`
 
 
 ## Groupware
@@ -894,7 +898,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 **[`^        back to top        ^`](#)**
 
   * [EtherCalc](https://ethercalc.org/) - Web spreadsheet. ([Source Code ★1701](https://github.com/audreyt/ethercalc)) `CPALv1/Other` `Nodejs`
-  * [EtherDraw ★359](https://github.com/JohnMcLear/draw) - An intuitive collaborative drawing web based tool. ([Demo](http://draw.etherpad.org/)) `Apache` `Nodejs`
+  * [EtherDraw ★359](https://github.com/JohnMcLear/draw) - An intuitive collaborative drawing web based tool. `Apache` `Nodejs`
   * [Etherpad](http://etherpad.org/) - Etherpad is a highly customizable Open Source online editor providing collaborative editing in really real-time. ([Demo](https://demo.sandstorm.io/appdemo/h37dm17aa89yrd8zuqpdn36p6zntumtv08fjpu8a8zrte7q1cn60), [Source Code ★6501](https://github.com/ether/etherpad-lite)) `Apache` `Nodejs`
   * [Infinoted](https://github.com/gobby/gobby/wiki/Dedicated%20Server) - A server for [Gobby](https://github.com/gobby/gobby/wiki), a multi-platform collaborative text editor. ([Source Code ★334](https://github.com/gobby/gobby)) `MIT` `C++`
   * [ONLYOFFICE](http://onlyoffice.org/) - An office suite that enables you to manage documents, projects, team and customer relations in one place. ([Source Code ★606](https://github.com/ONLYOFFICE/DocumentServer)) `AGPLv3` `Nodejs`
@@ -920,7 +924,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [CoderVault](https://github.com/codervault) - An Open Source, Self-Hosted, Snippet Manager. ([Source Code ★296](https://github.com/codervault/codervault)) `MIT` `Ruby`
   * [cryptonote](https://cryptonote.me/) - A simple open source web application that lets users encrypt and share messages that can only be read once. ([Source Code ★111](https://github.com/alainmeier/cryptonote)) `BSD` `Ruby`
   * [CryptPad](https://cryptpad.fr/) - CryptPad is the zero knowledge realtime collaborative editor. ([Source Code ★608](https://github.com/xwiki-labs/cryptpad)) `AGPLv3` `Nodejs`
-  * [EdPaste ★5](https://github.com/Edraens/EdPaste) - Self-hosted pastebin written in Laravel (PHP Framework). ([Demo](https://paste.edra.ovh/)) `MIT` `PHP`
+  * [EdPaste ★5](https://github.com/Edraens/EdPaste) - Self-hosted pastebin written in Laravel (PHP Framework). `MIT` `PHP`
   * [gist](https://gitnet.fr/deblan/gist) - GIST is an open-source application to share code. `GPLv3` `PHP`
   * [hastebin](http://hastebin.com/about.md) - Open source pastebin written in node.js. ([Demo](http://hastebin.com/), [Source Code ★1238](https://github.com/seejohnrun/haste-server)) `MIT` `Nodejs`
   * [localpaste ★13 ⏳2Y](https://github.com/petermaloney/localpaste) - Simple python based pastebin you can run locally, with curl for input. Supports RAW text by default and binary data such as images (no extensions on returned url). `GPLv2` `Python`
@@ -929,7 +933,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [NoteHub](https://notehub.org) - Free and Hassle-free Pastebin for Markdown Pages. Simple, clean, password provided, generated-short link. ([Demo](https://notehub.org), [Source Code ★217](https://github.com/chmllr/NoteHub)) `MIT` `Nodejs`
   * [Paste](http://phpaste.sourceforge.io/) - Paste is forked from the original source pastebin.com used before it was bought. ([Demo](http://phpaste.sourceforge.net/demo), [Source Code ★58](https://github.com/jordansamuel/PASTE)) `GPLv3` `PHP`
   * [pastebin ★2](https://github.com/prologic/pastebin) - A simple pastebin service with convenient api and CLI. ([Demo](https://paste.mills.io)) `MIT` `Go`
-  * [Pastebin](https://p.pantsu.cat) - Modern self-hosted pastebin service with a restful API. ([Demo](https://p.pantsu.cat), [Source Code ★66](https://github.com/ewhal/Pastebin)) `MIT` `Go`
+  * [Pastebin ★66](https://github.com/ewhal/Pastebin) - Modern self-hosted pastebin service with a restful API. `MIT` `Go`
   * [pb ★244](https://github.com/ptpb/pb) - Lightweight pastebin (and url shortener) built using flask. ([Demo](https://ptpb.pw/)) `GPLv3` `Python`
   * [pbnh ★6](https://github.com/bhanderson/pbnh) - Pastebin inspired from project pb and hastebin, with an API and a SQL-based backend. `MIT` `Python`
   * [Phaste](https://pste.pw) - A Phalcon-based, MySQL pastebin application with privacy-respecting Piwik integration and syntax highlighting. ([Source Code ★6 ⏳1Y](https://github.com/FoxDev/Phaste)) `AGPLv3` `PHP`
@@ -1014,7 +1018,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
   * [Pound](http://www.apsis.ch/pound/) - Light-weight reverse proxy and load balancer for HTTP/HTTPS. ([Source Code](http://www.apsis.ch/pound/)) `GPLv2` `C`
   * [Privoxy](http://www.privoxy.org) - A non-caching web proxy with advanced filtering capabilities for enhancing privacy, modifying web page data and HTTP headers, controlling access, and removing ads and other obnoxious Internet junk. `GPLv2` `C`
   * [Squid](http://www.squid-cache.org/) - Caching proxy for the Web supporting HTTP, HTTPS, FTP, and more. It reduces bandwidth and improves response times by caching and reusing frequently-requested web pages. ([Source Code](https://code.launchpad.net/squid)) `GPLv2` `C`
-  * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Demo](http://proxy.donttrustrobots.nl/), [Source Code ★258](https://github.com/swiperproxy/swiperproxy)) `MIT` `Python`
+  * [Swiperproxy](https://swiperproxy.github.io/) - A lightning-fast, open source web proxy that is easy for you to run and customize. ([Source Code ★258](https://github.com/swiperproxy/swiperproxy)) `MIT` `Python`
   * [Tinyproxy](https://banu.com/tinyproxy/) - Light-weight HTTP/HTTPS proxy daemon. ([Source Code ★705](https://github.com/tinyproxy/tinyproxy)) `GPLv2` `C`
   * [Traefik](https://traefik.io/) - Træfɪk is a modern HTTP reverse proxy and load balancer made to deploy microservices with ease. It supports several backends (Docker, Swarm, Mesos/Marathon, …) to manage its configuration automatically and dynamically. ([Source Code ★10134](https://github.com/containous/traefik)) `MIT` `Go`
 
@@ -1058,7 +1062,7 @@ _See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managemen
   * [Git WebUI ★496](https://github.com/alberthier/git-webui) - A standalone web based user interface for git repositories. `Apache` `Python`
   * [Gogs](https://gogs.io/) - A painless self-hosted Git Service written in Go. ([Demo](https://try.gogs.io/), [Source Code ★21080](https://github.com/gogits/gogs)) `MIT` `Go`
   * [Kallithea](https://kallithea-scm.org/) - Source code management system that supports two leading version control systems, Mercurial and Git, with a web interface. ([Source Code](https://kallithea-scm.org/repos/kallithea)) `GPLv3` `Python`
-  * [Klaus ★445](https://github.com/jonashaag/klaus) - A simple, easy-to-set-up Git web viewer that Just Works. ([Demo](http://klausdemo.lophus.org/)) `ISC` `Python`
+  * [Klaus ★445](https://github.com/jonashaag/klaus) - A simple, easy-to-set-up Git web viewer that Just Works. `ISC` `Python`
   * [Lavagna](http://lavagna.io) - Lavagna is an open-source issue/project management tool designed for small teams. Lightweight, pure Java, easy to install, easy to use. ([Source Code ★344](https://github.com/digitalfondue/lavagna)) `GPLv3` `Java`
   * [Octobox](https://octobox.io/) `⚠` - Take back control of your GitHub Notifications. ([Source Code ★1874](https://github.com/octobox/octobox)) `AGPLv3` `Ruby`
   * [OpenProject](https://www.openproject.org) - OpenProject is a web-based project management system. `GPLv3` `Ruby`
@@ -1242,7 +1246,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [Tiki](https://tiki.org) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Demo), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPLv2` `PHP`
   * [TWiki](http://twiki.org/) - TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal. ([Demo](http://twiki.org/cgi-bin/view/Sandbox/WebHome), [Source Code](http://svn.twiki.org/svn/twiki/)) `GPL` `Perl`
   * [wiki ★10](https://github.com/prologic/wiki) - Simple Markdown based wiki engine. ([Demo](https://wiki.mills.io)) `MIT` `Go`
-  * [Wikifeat](https://www.wikifeat.org/app/wikis/wikifeat/pages/welcome) - Wikifeat is an open source collaboration platform built around the ever-popular Wiki concept. ([Source Code ★92 ⏳1Y](https://github.com/rhinoman/wikifeat)) `BSD` `GO`
+  * [Wikifeat ★92 ⏳1Y](https://github.com/rhinoman/wikifeat) - Wikifeat is an open source collaboration platform built around the ever-popular Wiki concept. `BSD` `GO`
   * [WiKiss](http://wikiss.tuxfamily.org/) - A Wiki, simple to use and install. ([Source Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0)) `GPLv2` `PHP`
   * [XWiki](http://www.xwiki.org) - A second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](http://playground.xwiki.org), [Source Code ★258](https://github.com/xwiki/xwiki-platform)) `LGPLv2` `Java`
 

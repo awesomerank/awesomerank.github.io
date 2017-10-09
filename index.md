@@ -333,7 +333,7 @@ title: Awesome Rank for sindresorhus/awesome
 ## Gaming
 
 - [Game Development ★4152](lists/ellisonleao/magictools.md)
-- [Game Talks ★472](lists/hzoo/awesome-gametalks.md)
+- [Game Talks ★472 ⏳1Y](lists/hzoo/awesome-gametalks.md)
 - [Godot ★455](lists/Calinou/awesome-godot.md) - Game engine.
 - [Open Source Games ★9625](lists/leereilly/games.md)
 - [Unity ★1421](lists/RyanNielson/awesome-unity.md) - Game engine.

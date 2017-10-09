@@ -1206,7 +1206,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [Deepcopier ★120](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
 * [delve ★6441](https://github.com/derekparker/delve) - Go debugger.
 * [dlog ★6](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
-* [excelize ★1404](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
+* [excelize ★1478](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 * [fastlz ★6 ⏳2Y](https://github.com/digitalcrab/fastlz) - Wrap over [FastLz](http://fastlz.org/) (free, open-source, portable real-time compression library) for GoLang.
 * [filetype ★182](https://github.com/h2non/filetype) - Small package to infer the file type checking the magic numbers signature.
 * [filler ★8](https://github.com/yaronsumel/filler) - small utility to fill structs using "fill" tag.
@@ -1449,7 +1449,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-checkstyle ★58 ⏳1Y](https://github.com/qiniu/checkstyle) - checkstyle is a style check tool like java checkstyle. This tool inspired by java checkstyle, golint. The style refered to some points in Go Code Review Comments.
 * [go-cleanarch ★165](https://github.com/roblaszczak/go-cleanarch) - go-cleanarch was created to validate Clean Architecture rules, like a The Dependency Rule and interaction between packages in your Go projects.
 * [go-outdated ★34 ⏳1Y](https://github.com/firstrow/go-outdated) - Console application that displays outdated packages.
-* [goast-viewer ★188](https://github.com/yuroyoro/goast-viewer) - Web based Golang AST visualizer.
+* [goast-viewer ★188 ⏳1Y](https://github.com/yuroyoro/goast-viewer) - Web based Golang AST visualizer.
 * [GoCover.io](http://gocover.io/) - GoCover.io offers the code coverage of any golang package as a service.
 * [goimports](https://godoc.org/golang.org/x/tools/cmd/goimports) - Tool to fix (add, remove) your Go imports automatically.
 * [GoLint ★2004](https://github.com/golang/lint) - Golint is a linter for Go source code.
@@ -1496,7 +1496,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 ### DevOps Tools
 
 * [aptly ★1411](https://github.com/smira/aptly) - aptly is a Debian repository management tool.
-* [aurora ★206](https://github.com/xuri/aurora) - Cross-platform web-based Beanstalkd queue server console.
+* [aurora ★212](https://github.com/xuri/aurora) - Cross-platform web-based Beanstalkd queue server console.
 * [awsenv ★12](https://github.com/soniah/awsenv) - Small binary that loads Amazon (AWS) environment variables for a profile.
 * [Banshee ★836](https://github.com/eleme/banshee) - Anomalies detection system for periodic metrics.
 * [bombardier ★688](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool.

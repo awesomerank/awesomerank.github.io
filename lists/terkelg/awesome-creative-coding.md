@@ -462,7 +462,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Awesome visualization research ★213](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
 - [Awesome livecoding ★309](https://github.com/lvm/awesome-livecoding) - Curated list of livecoding languages and tools.
 - [Awesome graphics ★320](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
-- [Graphics resources ★1032](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
+- [Graphics resources ★1032 ⏳1Y](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
 - [Magic tools ★4152](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
 - [Awesome public datasets ★20304](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.

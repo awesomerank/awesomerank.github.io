@@ -299,7 +299,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Freedoom ★201](https://github.com/freedoom/freedoom) - Free software FPS based on the classic Doom engine.
 * [GlPortal ★159](https://github.com/GlPortal/glPortal) - A modern 3D game and engine with portals written in C++.
 * [ioquake3 ★796](https://github.com/ioquake/ioq3) - The free software FPS engine that can be used to play Quake 3, or make your own game.
-* [LWJake2 ★23 ⏳1Y](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
+* [LWJake2 ★23 ⏳2Y](https://github.com/flibitijibibo/LWJake2) - LWJGL port of Quake 2.
 * [OpenLara ★1669](https://github.com/XProger/OpenLara) - Tomb Raider open-source engine [Play it now!](http://xproger.info/projects/OpenLara/)
 * [openspades ★340](https://github.com/yvt/openspades) - Compatible client of Ace of Spades 0.75.
 * [Red Eclipse](https://github.com/red-eclipse) - Free, casual arena shooter featuring parkour.
@@ -475,7 +475,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Jedi Academy ★80 ⏳4Y](https://github.com/grayj/Jedi-Academy) - Jedi Academy source only, mirror of SourceForge from Raven Software.
 * [Jedi Outcast ★56 ⏳4Y](https://github.com/grayj/Jedi-Outcast) - Jedi Outcast source only, mirror of SourceForge from Raven Software.
 * [MaNGOS ★2276](https://github.com/mangos/mangos) - Full featured World of Warcraft server.
-* [Miner Wars 2081 ★167 ⏳3Y](https://github.com/KeenSoftwareHouse/Miner-Wars-2081) - For modders of Miner Wars 2081, a 6DOF action-survival space-shooter simulation-game set in the year 2081.
+* [Miner Wars 2081 ★167 ⏳4Y](https://github.com/KeenSoftwareHouse/Miner-Wars-2081) - For modders of Miner Wars 2081, a 6DOF action-survival space-shooter simulation-game set in the year 2081.
 * [OpenJK ★1068](https://github.com/JACoders/OpenJK) - Community maintained fork of Jedi Academy and Jedi Outcast development.
 * [Prince of Persia ★4361](https://github.com/jmechner/Prince-of-Persia-Apple-II) - Source code for the original Prince of Persia game that was written on the Apple II, in 6502 assembly language, between 1985-89.
 * [UFO RUN ★61 ⏳2Y](https://github.com/Nextpeer/Nextpeer-UFORUN) - Real time multiplayer with Nextpeer.

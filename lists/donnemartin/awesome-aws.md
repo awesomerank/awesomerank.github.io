@@ -925,7 +925,7 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-sha256-agentcs ★4 ⏳1Y](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 Agent Compatibility Ccanner.
+* [aws-sha256-agentcs ★4 ⏳2Y](https://github.com/awslabs/aws-sha256-agentcs) - SHA256 Agent Compatibility Ccanner.
 * [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - Token Vending Machine for Anonymous Registration.
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - Token Vending Machine for Identity Registration.
 * [s2n :fire::fire::fire::fire::fire: ★2868](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols.

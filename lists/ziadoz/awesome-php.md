@@ -487,7 +487,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CalendR](http://yohan.giarel.li/CalendR/) - A calendar management library.
 * [Carbon ★5903](https://github.com/briannesbitt/Carbon) - A simple DateTime API extension.
 * [Chronos ★369](https://github.com/cakephp/chronos) - A DateTime API extension supporting both mutable and immutable date/time.
-* [ExpressiveDate ★246](https://github.com/jasonlewis/expressive-date) - Another DateTime API extension.
+* [ExpressiveDate ★246 ⏳1Y](https://github.com/jasonlewis/expressive-date) - Another DateTime API extension.
 * [Moment.php ★620](https://github.com/fightbulc/moment.php) - Moment.js inspired PHP DateTime handler with i18n support.
 * [Yasumi ★373](https://github.com/azuyalabs/yasumi) - An library to help you calculate the dates and names of holidays.
 

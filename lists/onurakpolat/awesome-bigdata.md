@@ -336,7 +336,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Kestrel ★4](https://github.com/papertrail/kestrel) - distributed message queue system.
 * [LinkedIn Databus](https://engineering.linkedin.com/data) - stream of change capture events for a database.
 * [LinkedIn Kamikaze ★21 ⏳3Y](https://github.com/linkedin/kamikaze) - utility package for compressing sorted integer arrays.
-* [LinkedIn White Elephant ★184 ⏳3Y](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
+* [LinkedIn White Elephant ★184 ⏳4Y](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
 * [Logstash](https://www.elastic.co/products/logstash) - a tool for managing events and logs.
 * [Netflix Suro ★628 ⏳1Y](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
 * [Pinterest Secor ★1015](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.

@@ -149,7 +149,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 -   _Network Analysis with R/igraph_, by Gabor Csárdi, Thomas Nepusz and Eduardo M. Airoldi (in preparation).
 -   _Network Analysis with Python/igraph_, by Thomas Nepusz, Gabor Csárdi and Eduardo M. Airoldi (in preparation).
 -   _[Network Graph Analysis and Visualization with Gephi](https://www.packtpub.com/big-data-and-business-intelligence/network-graph-analysis-and-visualization-gephi)_, by Ken Cherven (2013).
--   _[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)_ (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code ★155 ⏳4Y](https://github.com/maksim2042/SNABook); 2011).
+-   _[Social Network Analysis for Startups. Finding Connections on the Social Web](http://shop.oreilly.com/product/0636920020424.do)_ (using Python), by Maksim Tsvetovat and Alexander Kouznetsov ([code ★155 ⏳5Y](https://github.com/maksim2042/SNABook); 2011).
 -   _[Statistical Analysis of Network Data with R](http://www.springer.com/us/book/9781493909827)_, by Eric D. Kolaczyk and Gabor Csárdi ([R package ★112](https://github.com/kolaczyk/sand); 2014).
 
 ### Topic-specific

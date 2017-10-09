@@ -47,6 +47,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
     - [Custom Dialog](#custom-dialog)
     - [Version Checking](#version-checking)
     - [Date & Time](#date--time)
+    - [Runtime Permissions](#runtime-permissions)
     - [Other](#other)
 - [Resources](#resources)
     - [More lists of libraries](#more-lists-of-libraries)
@@ -203,8 +204,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 #### Video
 
 - [ijkplayer ★15308](https://github.com/Bilibili/ijkplayer) - Android/iOS video player based on FFmpeg n3.2, with MediaCodec, VideoToolbox support.
-- [Exoplayer ★7940](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet. 
+- [Exoplayer ★7940](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
    Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
+- [Easy-Video-Player ★995](https://github.com/afollestad/easy-video-player) - Easy Video Player is very simple and easy to use in our app. 
 
 #### Camera
 
@@ -321,7 +323,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Scalpel ★2296](https://github.com/JakeWharton/scalpel) - View the entire hierarchy in 3d in the phone.
 - [Stetho ★8447](https://github.com/facebook/stetho) - Debug hierarchy and network from chrome.
 - [Android Debug Database ★2921](https://github.com/amitshekhariitbhu/Android-Debug-Database) - Android Debug Database is a powerful library for debugging databases and shared preferences in Android applications.
-- [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - a command-line tool to assist in debugging Android-powered devices 
+- [Android Debug Bridge - ADB](https://github.com/mzlogin/awesome-adb/blob/master/README.en.md) - a command-line tool to assist in debugging Android-powered devices
 
 ### Wireless
 
@@ -350,6 +352,11 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [ThreeTen Android Backport ★1666](https://github.com/JakeWharton/ThreeTenABP) - An adaptation of the JSR-310 backport for Android.
 - [Joda-Time Android ★2018](https://github.com/dlew/joda-time-android) - Joda-Time library with Android specialization.
 - [True Time ★509](https://github.com/instacart/truetime-android) - Android NTP time library. Get the true current time impervious to device clock time changes.
+
+### Runtime Permissions
+
+- [Permission Dispatcher ★5721](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
+- [RxPermissions ★4644](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
 
 ### Other
 

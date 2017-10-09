@@ -104,7 +104,7 @@ If you've converted a Core ML model, feel free to submit an [issue](https://gith
 * [iLID ★11](https://github.com/twerkmeister/iLID) Automatic spoken language identification.
 * [Fashion Detection ★90](https://github.com/liuziwei7/fashion-detection) Cloth detection from images.
 * [Saliency ★109](https://github.com/imatge-upc/saliency-2016-cvpr) The prediction of salient areas in images has been traditionally addressed with hand-crafted features.
-* [Face Detection ★11](https://github.com/DolotovEvgeniy/DeepPyramid) Detect face from image.
+* [Face Detection ★11 ⏳1Y](https://github.com/DolotovEvgeniy/DeepPyramid) Detect face from image.
 * [mtcnn ★149](https://github.com/CongWeilin/mtcnn-caffe) Joint Face Detection and Alignment.
 * [deephorizon ★3](https://github.com/scottworkman/deephorizon) Single image horizon line estimation.
 

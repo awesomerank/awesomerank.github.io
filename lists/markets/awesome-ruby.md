@@ -1182,6 +1182,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## WebSocket
 
+* [AnyCable](http://anycable.io) – Polyglot replacement for Ruby WebSocket servers with Action Cable protocol.
 * [Faye](http://faye.jcoglan.com/ruby.html) - A set of tools for simple publish-subscribe messaging between web clients.
 * [Firehose ★680](https://github.com/firehoseio/firehose) - Build realtime Ruby web applications.
 * [Slanger ★1538](https://github.com/stevegraham/slanger) - Open Pusher implementation compatible with Pusher libraries.

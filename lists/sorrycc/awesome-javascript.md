@@ -637,7 +637,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Strut ★1432](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 * [PhotoSwipe ★14856](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
 * [jcSlider ★37 ⏳1Y](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
-* [basic-jquery-slider ★572 ⏳1Y](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
+* [basic-jquery-slider ★572 ⏳2Y](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
 * [jQuery.adaptive-slider ★50 ⏳3Y](https://github.com/creative-punch/jQuery.adaptive-slider) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 * [slidr ★1494 ⏳2Y](https://github.com/bchanx/slidr) - add some slide effects.
 * [Flickity ★4004](https://github.com/metafizzy/flickity) - Touch, responsive, flickable galleries.
@@ -792,7 +792,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [Leaflet ★19444](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps.
 * [Cesium ★2462](https://github.com/AnalyticalGraphicsInc/cesium) - Open Source WebGL virtual globe and map engine.
 * [gmaps ★6782](https://github.com/HPNeo/gmaps) - The easiest way to use Google Maps.
-* [polymaps ★1457 ⏳2Y](https://github.com/simplegeo/polymaps) - A free JavaScript library for making dynamic, interactive maps in modern web browsers.
+* [polymaps ★1457 ⏳3Y](https://github.com/simplegeo/polymaps) - A free JavaScript library for making dynamic, interactive maps in modern web browsers.
 * [kartograph.js ★1502](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps.
 * [mapbox.js ★1466](https://github.com/mapbox/mapbox.js) - Mapbox JavaScript API, a Leaflet Plugin.
 * [jqvmap ★1497](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.

@@ -49,7 +49,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [mrjob ★2089](https://github.com/Yelp/mrjob) - mrjob is a Python 2.5+ package that helps you write and run Hadoop Streaming jobs.
 * [pydoop](http://pydoop.sourceforge.net/) - Pydoop is a package that provides a Python API for Hadoop.
 * [hdfs-du ★169](https://github.com/twitter/hdfs-du) - HDFS-DU is an interactive visualization of the Hadoop distributed file system. 
-* [White Elephant ★184 ⏳3Y](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
+* [White Elephant ★184 ⏳4Y](https://github.com/linkedin/white-elephant) - Hadoop log aggregator and dashboard
 * [Kiji Project](http://www.kiji.org/)
 * [Genie ★758](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
 * [Apache Kylin](http://kylin.incubator.apache.org/) - Apache Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets

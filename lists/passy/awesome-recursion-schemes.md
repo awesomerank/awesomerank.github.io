@@ -96,10 +96,13 @@ Recursion schemes are simple, composable combinators, that automate the process 
   Haskell - The canonical implementation by Edward Kmett.
 - [Matryoshka ★416](https://github.com/slamdata/matryoshka) for Scala -
   Generalized folds, unfolds, and traversals for fixed point data structures.
+- [recursion\_schemes ★17](https://github.com/vmchale/recursion_schemes) for
+  Idris, based off Edward Kmett's Haskell library.
 - [purescript-matryoshka ★29](https://github.com/slamdata/purescript-matryoshka) for PureScript -
   Work-in-process port of matryoshka.
 - [static-land-recursion-schemes ★7](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
   Schemes for data structures written in the style of [flow-static-land ★356](https://github.com/gcanti/flow-static-land).
+- [Kategory-recursion](https://github.com/kategory/kategory/tree/master/kategory-recursion) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
 
 ## License
 

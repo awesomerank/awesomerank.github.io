@@ -16,9 +16,9 @@ title: Awesome Rank for k4m4/terminals-are-sexy
 Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://twitter.com/nikolaskama).
 
 <!-- [![Build Status](https://travis-ci.org/k4m4/terminals-are-sexy.svg?branch=master)](https://travis-ci.org/k4m4/terminals-are-sexy) -->
+[![Donations Badge](https://yourdonation.rocks/images/badge.svg)](https://yourdonation.rocks)
 [![Say Thanks](https://img.shields.io/badge/say-thanks-ff69b4.svg)](https://saythanks.io/to/k4m4)
-[![Made With Love](https://img.shields.io/badge/made%20with-%3C3-red.svg)](https://github.com/k4m4)
-[![GitHub stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy.svg)](https://github.com/k4m4/terminals-are-sexy/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/k4m4/terminals-are-sexy.svg)](https://github.com/k4m4/terminals-are-sexy/stargazers)
 
 ## Contents
 
@@ -243,7 +243,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 
 # Contributing
 
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/k4m4/terminals-are-sexy/blob/master/CONTRIBUTING.md) first.
+Your contributions are always welcome! Please take a look at our [contribution guidelines](https://github.com/k4m4/terminals-are-sexy/blob/master/contributing.md) and [code of conduct](https://github.com/k4m4/movies-for-hackers/blob/master/code-of-conduct.md) first.
 
 Pull requests might be kept open if I haven't decided whether additions are *sexy* enough.
 ---

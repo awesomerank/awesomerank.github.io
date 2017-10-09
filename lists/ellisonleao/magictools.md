@@ -487,7 +487,7 @@ Must see
 
 ### Videos/Podcasts
 
-* [awesome-gametalks ★472](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
+* [awesome-gametalks ★472 ⏳1Y](https://github.com/hzoo/awesome-gametalks) - A curated list of game talks (GDC, youtube, etc).
 * [Twitch GameDev](http://www.twitch.tv/directory/game/Game%20Development) - Twitch GameDev Streams
 
 ### Game Jams

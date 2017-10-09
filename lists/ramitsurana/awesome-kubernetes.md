@@ -380,6 +380,7 @@ Projects
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](https://www.telepresence.io) Locally develop/debug services against a remote Kubernetes cluster
 * [Fission Workflows ★27](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition on Kubernetes.
+* [Ambassador](https://www.getambassador.io) Kubernetes-native API Gateway built on the Envoy Proxy
 
 ## Package Managers
 

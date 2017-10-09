@@ -103,7 +103,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Promise ★202](https://github.com/xjamundx/eslint-plugin-promise) - Best practices when working with promises
 - [Security ★519](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security
 - [this ★3](https://github.com/matijs/eslint-plugin-this) - Write pure functions, don't allow `this`
-- [XSS ★7](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production
+- [XSS ★7 ⏳1Y](https://github.com/Rantanen/eslint-plugin-xss) - Tries to detect XSS issues in codebase before they end up in production
 
 ### Style
 

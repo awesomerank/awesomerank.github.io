@@ -106,7 +106,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [fuse.QrScanner ★1](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode.
 - [Fuse Tags with Firebase ★14 ⏳1Y](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
-- [Haxe ★29 ⏳1Y](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
+- [Haxe ★29 ⏳2Y](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
 - [Hikr ★35](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
 - [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
 - [Motion ★11](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.

@@ -799,7 +799,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [onetime ★65](https://github.com/sindresorhus/onetime) - Only run a function once.
 - [mem ★296](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 - [import-fresh ★91](https://github.com/sindresorhus/import-fresh) - Import a module while bypassing the cache.
-- [strip-bom ★49](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
+- [strip-bom ★49 ⏳1Y](https://github.com/sindresorhus/strip-bom) - Strip UTF-8 byte order mark (BOM) from a string/buffer/stream.
 - [os-locale ★98](https://github.com/sindresorhus/os-locale) - Get the system locale.
 - [nan ★1950](https://github.com/nodejs/nan) - Makes native add-on development for across Node.js versions easier.
 - [ssh2 ★2677](https://github.com/mscdex/ssh2) - SSH2 client and server module.

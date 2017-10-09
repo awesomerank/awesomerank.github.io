@@ -42,7 +42,7 @@ List of libraries and components which can be used in your application
 - [wicket-akka ★3 ⏳3Y](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket.
 - [wicket-autowire ★11 ⏳1Y](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation.
 - [wicket-bootstrap ★272](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket.
-- [wicket-clientside-logging ★16](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - Helper library that allows javascript logging on client side, all log messages will be stored on server side too.
+- [wicket-clientside-logging ★16 ⏳1Y](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - Helper library that allows javascript logging on client side, all log messages will be stored on server side too.
 - [wicket-console ★7](https://github.com/PhantomYdn/wicket-console) - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.
 - [wicket-dnd ★16 ⏳1Y](https://github.com/svenmeier/wicket-dnd) - Generic Drag&Drop framework for Wicket.
 - [wicket-extjs-integration ★0](https://github.com/onehippo/wicket-extjs-integration) - Integration of Wicket with ExtJS with event handling and a focus on making the Java-API as close to the JS-API as possible.

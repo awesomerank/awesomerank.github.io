@@ -222,7 +222,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 
 #### DevTools
 
-- [rails-dashboard ★30](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
+- [rails-dashboard ★35](https://github.com/y-takey/rails-dashboard) - A dev-tool to improve your rails log.
 
 
 ### Notable Awesome Stuffs

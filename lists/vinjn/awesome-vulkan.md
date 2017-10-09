@@ -176,6 +176,8 @@ drm/kms.
 *  [Vulkan-WSIWindow ★20](https://github.com/renelindsay/Vulkan-WSIWindow) - Multi-platform library to create a Vulkan window, and handle input events. [Apache License 2.0]
 *  [Falcor ★196](https://github.com/NVIDIAGameWorks/Falcor) - Real-time rendering framework from NVIDIA, supporting DX12 and Vulkan. [BSD 3-clause]
 *  [The-Forge ★1](https://github.com/ConfettiFX/The-Forge) - DirectX 12, Vulkan, macOS Metal 2 rendering framework. [Apache License 2.0]
+*  [Marble-CORE ★3](https://github.com/AwokenGraphics/marble-encore) - Vulkan API (only) interactive ray tracing engine 
+*  [VK9 ★411](https://github.com/disks86/VK9) - Direct3D 9 compatibility layer using Vulkan
 
 ## Bindings
 *  [libvulkan.lua](https://github.com/CapsAdmin/ffibuild/blob/master/examples/vulkan/libvulkan.lua) - Lua bindings for Vulkan.
@@ -218,7 +220,7 @@ drm/kms.
 *  [awesome ★65640](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *  [awesome-opengl ★594](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *  [gamedev ★4152](https://github.com/ellisonleao/magictools) - Awesome list about game development.
-*  [graphics-resources ★1032](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+*  [graphics-resources ★1032 ⏳1Y](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 *  [awesome-d3d12 ★20](https://github.com/vinjn/awesome-d3d12) - Curated list of awesome D3D12 libraries, debuggers and resources.
 
 ## License

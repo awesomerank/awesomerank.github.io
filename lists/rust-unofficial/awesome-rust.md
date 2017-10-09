@@ -306,7 +306,6 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
   * [IntelliJ](https://www.jetbrains.com/idea/)
     * [intellij-rust/intellij-rust ★1463](https://github.com/intellij-rust/intellij-rust) — [<img src="https://api.travis-ci.org/intellij-rust/intellij-rust.svg?branch=master">](https://travis-ci.org/intellij-rust/intellij-rust)
     * [intellij-rust/intellij-toml ★20](https://github.com/intellij-rust/intellij-toml) — basic Toml support
-    * [JustSid/AfterglowIntelliJ ★65](https://github.com/JustSid/AfterglowIntelliJ) — custom icons
   * [Ride ★128](https://github.com/madeso/ride) — [<img src="https://api.travis-ci.org/madeso/ride.svg?branch=master">](https://travis-ci.org/madeso/ride)
   * [SolidOak](https://github.com/oakes/SolidOak) — a simple IDE for Rust, based on GTK+ and [Neovim ★24229](https://github.com/neovim/neovim)
   * [Sublime Text](https://www.sublimetext.com/)
@@ -677,7 +676,7 @@ See also [Are we game yet?](http://arewegameyet.com)
 * SFML
   * [jeremyletang/rust-sfml ★258](https://github.com/jeremyletang/rust-sfml) — [SFML](https://www.sfml-dev.org/) bindings [<img src="https://api.travis-ci.org/jeremyletang/rust-sfml.svg?branch=master">](https://travis-ci.org/jeremyletang/rust-sfml)
 * Voxlap
-  * [bbodi/rust-voxlap ★10 ⏳2Y](https://github.com/bbodi/rust-voxlap) — [Voxlap](http://advsys.net/ken/voxlap.htm) bindings
+  * [bbodi/rust-voxlap ★10 ⏳3Y](https://github.com/bbodi/rust-voxlap) — [Voxlap](http://advsys.net/ken/voxlap.htm) bindings
 
 ### Geospatial
 

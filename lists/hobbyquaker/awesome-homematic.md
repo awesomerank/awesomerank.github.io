@@ -46,6 +46,7 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 ## Mobile Apps
 
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - **$** Android 
+* [HomeControl](http://www.ksquare.de/myhomecontrol/) - **$** iOS
 * [Homedroid](http://www.homedroid.de/) - **$** Android
 * [HomeNOW](http://homenow.at) - **$** Android
 * [Orbylon](https://www.orbylon.de/orbylon) - **$** iOS, Android, Windows Phone
@@ -94,6 +95,7 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 ## Misc Software
 
 * [CCU Historian](http://www.ccu-historian.de/) - Long term archive and graphing solution.
+* [Check_homematic ★0](https://github.com/hobbyquaker/check_homematic) - Nagios/Icinga Plugin for checking Homematic CCU.
 * [Hm-simulator ★0](https://github.com/hobbyquaker/hm-simulator) - Simulates (partly) a Homematic CCU.
 * [HMXMLBIN ★4 ⏳5Y](https://github.com/leonsio/HMXMLBIN) - Converter between BINRPC and XMLRPC.
 * [Homematic-manager ★43](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear).
@@ -103,6 +105,7 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 
 * [Binrpc ★7](https://github.com/hobbyquaker/binrpc) - Xmlrpc_bin protocol client and server Node.js module.
 * [Hmcfgusb](https://git.zerfleddert.de/cgi-bin/gitweb.cgi/hmcfgusb) - Utilities to use the HM-CFG-USB(2) on Linux/Unix.
+* [Homematic-rega ★0](https://github.com/hobbyquaker/homematic-rega) - Node.js Homematic CCU ReGaHSS Remote Script Interface.
 * [Homematicip-rest-api ★13](https://github.com/coreGreenberet/homematicip-rest-api) - Python wrapper for the homematicIP REST API (Cloud / Access Point Based).
 * [Homematic-xmlrpc ★1 ⏳1Y](https://github.com/hobbyquaker/homematic-xmlrpc) - Xmlrpc client and server Node.js module.
 * [Pmatic ★19](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use.

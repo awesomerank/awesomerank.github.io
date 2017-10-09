@@ -1031,7 +1031,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [CryptoSwift ★4330](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 * [IDZSwiftCommonCrypto ★334](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
-* [Siphash ★189](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
+* [Siphash ★191](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 * [SweetHMAC ★31](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use class to encrypt strings using HMAC algorithms.
 * [Swift-Sodium ★176](https://github.com/jedisct1/swift-sodium) - Interface to the Sodium library for common crypto operations for iOS and OS X.
 * [SwiftSSL ★183 ⏳1Y](https://github.com/SwiftP2P/SwiftSSL) - Crypto toolkit.

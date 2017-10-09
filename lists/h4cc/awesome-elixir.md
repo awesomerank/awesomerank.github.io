@@ -845,7 +845,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Logging infos and messages.*
 
 * [exlager ★57](https://github.com/khia/exlager) - Elixir binding for lager.
-* [exsentry ★24](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
+* [exsentry ★24 ⏳1Y](https://github.com/appcues/exsentry) - Error logging to [Sentry](https://getsentry.com/).
 * [gelf_logger ★12](https://github.com/jschniper/gelf_logger) - A Logger backend that will generate Graylog Extended Log Format (GELF) messages.
 * [honeybadger ★50](https://github.com/honeybadger-io/honeybadger-elixir) - Error logging to [Honeybadger](https://www.honeybadger.io/).
 * [json_logger ★16 ⏳1Y](https://github.com/LeeroyDing/json_logger) - JSON Logger is a logger backend that outputs elixir logs in JSON format.
@@ -952,7 +952,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Tools and libraries working with Erlang NIF.*
 
 * [hsnif ★15 ⏳4Y](https://github.com/urbanserj/hsnif) - Tool that allows to write Erlang NIF libraries in Haskell.
-* [nifty ★24 ⏳1Y](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
+* [nifty ★24 ⏳2Y](https://github.com/rossjones/nifty) - Helper script for setting up the boilerplate required when writing a NIF.
 * [Rustler ★701](https://github.com/hansihe/Rustler) - Library for writing NIFs for Erlang or Elixir safely in Rust. No segfaults.
 
 ## Natural Language Processing (NLP)
@@ -1391,7 +1391,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [gcmex ★7 ⏳2Y](https://github.com/dukex/gcmex) - Google Cloud Messaging client library for elixir.
 * [google_sheets ★30](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
 * [govtrack ★2](https://github.com/walterbm/govtrack-elixir) - A simple Elixir wrapper for the [govtrack.us](https://www.govtrack.us/developers) API.
-* [hexoku ★7 ⏳2Y](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
+* [hexoku ★7 ⏳3Y](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 * [honeywell ★0 ⏳1Y](https://github.com/jeffutter/honeywell-elixir) - A client for the Honeywell Lyric, Round and Water Leak & Freeze Detector APIs.
 * [kane ★39](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
 * [keenex ★20](https://github.com/bryanjos/keenex) - A Keen.io API Client.

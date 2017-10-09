@@ -311,7 +311,7 @@ Processing Unit (GPU).
 * [awesome-opengl ★594](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources. Inspired by awesome-... stuff.
 * [awesome-vulkan ★603](https://github.com/vinjn/awesome-vulkan) - Curated list of awesome Vulkan projects and ecosystem.
 * [gamedev ★4152](https://github.com/ellisonleao/magictools) - Awesome list about game development.
-* [graphics-resources ★1032](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
+* [graphics-resources ★1032 ⏳1Y](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.
 
 ## Contributing
 Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) for details.

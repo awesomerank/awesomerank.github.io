@@ -16,7 +16,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * [es6ify ★606](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * [babelify ★1435](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
 * [es6-transpiler ★221 ⏳2Y](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
-* Square's [es6-module-transpiler ★1230 ⏳1Y](https://github.com/esnext/es6-module-transpiler) - ES6 modules to AMD or CJS
+* Square's [es6-module-transpiler ★1230 ⏳2Y](https://github.com/esnext/es6-module-transpiler) - ES6 modules to AMD or CJS
 * Facebook's [regenerator ★2041](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
 * Facebook's [jstransform ★449 ⏳1Y](https://github.com/facebookarchive/jstransform) - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
 * [defs ★118 ⏳2Y](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
