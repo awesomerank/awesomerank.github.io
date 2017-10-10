@@ -166,7 +166,7 @@ Tools for Tokenization, Word and Sentence Boundary Detection and Disambiguation.
   Simple and customizable text tokenization library.
 - [pragmatic_segmenter ★213](https://github.com/diasks2/pragmatic_segmenter) -
   Word Boundary Disambiguation with many cookies.
-- [punkt-segmenter ★81 ⏳3Y](https://github.com/lfcipriani/punkt-segmenter) -
+- [punkt-segmenter ★81 ⏳4Y](https://github.com/lfcipriani/punkt-segmenter) -
   Pure Ruby implementation of the Punkt Segmenter.
 - [tactful_tokenizer ★71 ⏳3Y](https://github.com/zencephalon/Tactful_Tokenizer) -
   RegExp based tokenizer for different languages.
