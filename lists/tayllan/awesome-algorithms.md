@@ -77,7 +77,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
-* [C ★953](https://github.com/fragglet/c-algorithms)
+* [C ★953 ⏳1Y](https://github.com/fragglet/c-algorithms)
 * [CoffeeScript ★35](https://github.com/BrunoRB/algorithms.coffee)
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)

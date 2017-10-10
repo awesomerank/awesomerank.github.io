@@ -204,7 +204,7 @@ Name | License | Demo
 [RoundedLetterView ★590](https://github.com/pavlospt/RoundedLetterView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/RoundedLetterView.png" width="49%">
 [TextDrawable ★2463](https://github.com/amulyakhare/TextDrawable) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TextDrawable.png" width="49%"> <img src="/art/TextDrawable2.png" width="49%">
 [BabushkaText ★676 ⏳1Y](https://github.com/quiqueqs/BabushkaText) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/BabushkaText.png" width="49%">
-[ExpandableTextView ★2508](https://github.com/Manabu-GT/ExpandableTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExpandableTextView.gif" width="49%">
+[ExpandableTextView ★2508 ⏳1Y](https://github.com/Manabu-GT/ExpandableTextView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExpandableTextView.gif" width="49%">
 [Float Labeled EditText](https://github.com/wrapp/floatlabelededittext) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/floatlabelededittext.gif" width="49%">
 [SizeAdjustingTextView ★258 ⏳2Y](https://github.com/erchenger/SizeAdjustingTextView) | [GNU License](http://www.gnu.org/licenses/gpl-3.0.en.html) | NONE
 [ParkedTextView ★229](https://github.com/gotokatsuya/ParkedTextView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ParkedTextView.gif" width="60%">

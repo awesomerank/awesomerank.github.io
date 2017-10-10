@@ -247,7 +247,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Blaze](http://blazejs.org/guide/introduction.html)
 * [React](http://react-in-meteor.readthedocs.org/en/latest/) - Working with React and Meteor
 * [Angular ★2223](https://github.com/Urigo/angular-meteor) - Working with Angular and Meteor
-* [Angular 2 ★327](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor
+* [Angular 2 ★327 ⏳1Y](https://github.com/Urigo/angular2-meteor) - Working with Angular 2 and Meteor
 * [Famo.us ★348 ⏳1Y](https://github.com/gadicc/meteor-famous-views) - Famo.us and Meteor
 * [Vue](https://github.com/Akryum/meteor-vue-component) - Working with Vue and Meteor (plus single-file components & apollo support)
 

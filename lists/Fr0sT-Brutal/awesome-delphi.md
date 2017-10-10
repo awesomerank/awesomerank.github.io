@@ -630,7 +630,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [DUnit2](http://dunit2.sourceforge.net). Fork of the DUnit Project that adds several new features.
 // *Seems abandoned, lacks some features from last DUnit version.*
 
-* [DelphiSpec ★51](https://github.com/RomanYankovsky/DelphiSpec). Library for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
+* [DelphiSpec ★51 ⏳1Y](https://github.com/RomanYankovsky/DelphiSpec). Library for running automated tests written in plain language. Because they're written in plain language, they can be read by anyone on your team. Because they can be read by anyone, you can use them to help improve communication, collaboration and trust on your team.
 
 * [Delphi-Mocks ★131](https://github.com/VSoftTechnologies/Delphi-Mocks). Simple mocking framework for Delphi XE2 or later. Allow you to mock both classes and interfaces for testing. 
 

@@ -326,7 +326,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [reltool_util ★14](https://github.com/okeuday/reltool_util) - Erlang reltool utility functionality application.
 * [relx ★465](https://github.com/erlware/relx) - A release assembler for Erlang.
 * [remix ★77](https://github.com/AgilionApps/remix) - Automatic recompilation of Mix code on file change.
-* [rotor ★82 ⏳2Y](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
+* [rotor ★82 ⏳3Y](https://github.com/HashNuke/rotor) - Super-simple build system for Elixir.
 * [sass_elixir ★0 ⏳3Y](https://github.com/zamith/sass_elixir) - A sass plugin for Elixir projects.
 
 ## Caching
@@ -480,7 +480,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Deployment
 *Installing and running your code automatically on other machines.*
 
-* [ansible-elixir-stack ★252](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
+* [ansible-elixir-stack ★252 ⏳1Y](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
 * [bootleg ★145](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
 * [bottler ★25](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 * [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.

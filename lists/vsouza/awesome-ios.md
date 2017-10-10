@@ -1129,7 +1129,7 @@ Most of these are paid services, some have free tiers.
 * [InAppFramework ★37 ⏳1Y](https://github.com/sandorgyulai/InAppFramework) - In App Purchase Manager framework for iOS :large_orange_diamond:
 * [SwiftInAppPurchase ★17 ⏳1Y](https://github.com/rpzzzzzz/SwiftInAppPurchase) - Simply code In App Purchases with this Swift Framework :large_orange_diamond:
 * [monza ★88](https://github.com/gabrielgarza/monza) - Ruby Gem for Rails - Easy iTunes In-App Purchase Receipt validation, including auto-renewable subscriptions
-* [EasyIAPs ★5](https://github.com/aaalveee/EasyIAPs) - An easy way to manage In App Purchases
+* [EasyIAPs ★5 ⏳1Y](https://github.com/aaalveee/EasyIAPs) - An easy way to manage In App Purchases
 * [PayPal ★865](https://github.com/paypal/PayPal-iOS-SDK) - Accept payments in your iOS app via PayPal.
 * [card.io-iOS-SDK ★1858](https://github.com/card-io/card.io-iOS-SDK) - card.io provides fast, easy credit card scanning in mobile apps
 * [SwiftLuhn ★101](https://github.com/MaxKramer/SwiftLuhn) - Debit/Credit card validation port of the Luhn Algorithm in Swift :large_orange_diamond:

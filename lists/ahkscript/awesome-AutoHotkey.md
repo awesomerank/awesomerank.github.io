@@ -176,7 +176,7 @@ Development state:
 
 * [ahk-libs ★79 ⏳1Y](https://github.com/rshipp/ahk-libs) - Ryan Shipp's collection of libraries.
 * [ASPDM ★28](https://github.com/ahkscript/ASPDM) - package/stdlib distribution and management from the [ahkscript](https://github.com/ahkscript) folks. Trello [link](https://trello.com/b/XVP4M76d/package-stdlib-distribution-and-management).
-* [pAHKlight ★14 ⏳1Y](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
+* [pAHKlight ★14 ⏳2Y](https://github.com/hi5/pAHKlight) - Your Lightweight Guide to AutoHotkey libraries, classes, functions and tools.
 
 ## Scripts
 *List of useful AutoHotkey scripts. Script is code that is intended to be used as standalone programs, and is not meant to be integrated with other code.*

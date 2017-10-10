@@ -72,7 +72,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Standard Template Library](https://en.wikipedia.org/wiki/Standard_Template_Library) - The Standard Template Library (STL).
 * [C POSIX library](https://en.wikipedia.org/wiki/C_POSIX_library) - A specification of a C standard library for POSIX systems.
 * [ISO C++ Standards Committee](https://github.com/cplusplus) - ISO/IEC JTC1/SC22/WG21 - The C++ Standards Committee. [website](http://www.open-std.org/JTC1/SC22/WG21/)
-* [The GNU C Library](http://elmerland.com/gnu_manual.html) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
+* [The GNU C Library](https://www.gnu.org/software/libc/manual) - The purpose of this manual is to tell you how to use the facilities of the GNU C Library.
 
 ## Frameworks
 *C++ generic frameworks and libraries.*
@@ -811,7 +811,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Collection of useful codes, snippets, ...*
 
 * [algorithms ★1761](https://github.com/xtaci/algorithms) - Algorithms & Data Structures in C++.
-* [c-algorithms ★953](https://github.com/fragglet/c-algorithms) - C algorithms library.
+* [c-algorithms ★953 ⏳1Y](https://github.com/fragglet/c-algorithms) - C algorithms library.
 * [C/C++ Awesome Pack ★102 ⏳4Y](https://github.com/JunianNet/CppAwesomePack) - Contains some awesome c++ codes, packed in one.
 
 # Other Awesome Lists

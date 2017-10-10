@@ -37,7 +37,7 @@ title: Awesome Rank for eleventigers/awesome-rxjava
 * [RxJavaMath ★85 ⏳1Y](https://github.com/ReactiveX/RxJavaMath) - Math operators for RxJava.
 * [RxJavaString ★108](https://github.com/ReactiveX/RxJavaString) - 
 String and Byte operators for RxJava.
-* [RxJavaComputationExpressions ★53 ⏳1Y](https://github.com/ReactiveX/RxJavaComputationExpressions) - Computation expressions for RxJava.
+* [RxJavaComputationExpressions ★53 ⏳2Y](https://github.com/ReactiveX/RxJavaComputationExpressions) - Computation expressions for RxJava.
 * [rxjava-extras ★225](https://github.com/davidmoten/rxjava-extras) - Utilities for use with RxJava.
 * [RxActions ★34](https://github.com/pakoito/RxActions) - Simple ActionN composition to use with RxJava.
 * [RxRelay ★1439](https://github.com/JakeWharton/RxRelay) - RxJava types that are both an Observable and an Action1.

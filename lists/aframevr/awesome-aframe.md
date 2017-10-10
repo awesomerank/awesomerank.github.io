@@ -129,6 +129,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Daydream Controller ★21](https://github.com/ryanbetts/aframe-daydream-controller-component) - Daydream controls
 - [Drag Look ★7](https://github.com/mayognaise/aframe-drag-look-controls-component) - Look controls in the opposite direction with changing cursor style
 - [Draw ★42](https://github.com/maxkrieger/aframe-draw-component) - HTML5 `<canvas>` as a material texture, with support for extension components
+- [Effects System ★53](https://github.com/wizgrav/aframe-effects) - A VR-ready post-processing framework for A-Frame
 - [Entity Generator ★4 ⏳1Y](https://github.com/ngokevin/aframe-entity-generator-component) - Generate entities
 - [Event Set ★8 ⏳1Y](https://github.com/ngokevin/aframe-event-set-component) - Set properties in response to events, replacement for declarative events
 - [Extras ★255](https://github.com/donmccurdy/aframe-extras) - Don's collection of A-Frame components
@@ -156,7 +157,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [Layout ★29 ⏳1Y](https://github.com/ngokevin/aframe-layout-component) - 3D layout of child entities
 - [Leap Hands ★93](https://github.com/openleap/aframe-leap-hands) - [Leap Motion](https://www.leapmotion.com/) controller support
 - [Lens Flare ★6](https://github.com/mokargas/aframe-lensflare-component) - Lens flare
-- [Look-At and Billboard ★7](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera
+- [Look-At and Billboard ★7 ⏳1Y](https://github.com/blairmacintyre/aframe-look-at-billboard-component) - Component to tell an entity to face another entity, or to face the camera
 - [Mario Star Texture ★1](https://github.com/casonclagg/aframe-mario-star-component) - Texture that cycles colors like stars in Mario using canvas
 - [Mesh Line ★9](https://github.com/andreasplesch/aframe-meshline-component) - Draw thick lines
 - [Minecraft Avatar Components](https://jeromeetienne.github.io/threex.minecraft/a-frame/build/aframe-minecraft.js) - Allows the creation, control, and custom skins on Minecraft-like characters
@@ -326,6 +327,7 @@ Integration with existing tools, frameworks, and libraries.
 - [2017](http://2017.ronikdesign.com/) - Holiday snow globe in New York City
 - [Temples of Cambodia](http://interactive.aljazeera.com/aje/2017/cambodia-temples/) - Tour of the most popular temples of Cambodia, from [Al Jazeera](http://www.aljazeera.com/)
 - [React Imago3D ★7](https://github.com/kenta88/react-imago3d) - Make WebVR easily creating your own scene with built-in 3d object and use your browser or vr headset to see what you built in real time.
+- [Have fun with nature](https://polideaplayground.github.io/WebVRExperience/) - Play with different environmental effects using your desktop browser or mobile VR headsets, like Daydream, Gear VR or Cardboard. [[Code] ★0](https://github.com/PolideaPlayground/WebVRExperience)
 
 ### Tools
 

@@ -829,6 +829,10 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Oracle emulates Google and AWS on its cloud](https://www.nextplatform.com/2017/10/04/oracle-emulates-google-aws-cloud/) - Post about the recent product announcements at Oracle OpenWorld 2017.
 - [Things go better with Step Functions](https://aws.amazon.com/de/blogs/aws/things-go-better-with-step-functions/) - Post about the usage of AWS Step Functions in a serverless context.
 - [The serverless revolution will make us all developers](https://www.nextplatform.com/2017/09/25/serverless-revolution-will-make-us-developers/) - Post which takes a look at the future of serverless edge computing and the possibilities this introduces.
+- [Announcing Fn](https://blogs.oracle.com/developers/announcing-fn) - "Announcing Fn" - An Open Source serverless functions platform.
+- [Meet the new application development stack](https://blogs.oracle.com/developers/meet-the-new-application-development-stack-kubernetes-serverless-registry-cicd-java) - Post which announces serverless related products from the Oracle OpenWorld 2017.
+- [Serverless ETL on AWS Lambda](https://engblog.nextdoor.com/bender-ff65a6edee92) - How to do serverless ETL on AWS Lambda with the help of the "Bender" framework.
+- [A closer look at Microsoft’s Azure Event Grid](https://thenewstack.io/closer-look-azure-event-grid/) - Post on what the Azure Event Grid is and how it can be used.
 
 ## Screencasts
 
@@ -1386,6 +1390,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Stackery](https://www.stackery.io) - Serverless operations console.
 - [Serverless chat ★38](https://github.com/danilop/serverless-chat) - Web chat built using AWS Lambda, AWS IoT (for WebSockets) and Amazon DynamoDB.
 - [Fn Project](http://fnproject.io) - The container native serverless framework ([GitHub repository ★536](https://github.com/fnproject/fn)).
+- [Bender ★82](https://github.com/nextdoor/bender) - Serverless ETL framework.
 
 ## Plugins
 

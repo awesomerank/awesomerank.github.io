@@ -119,7 +119,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ### Dart
 
-- [dart-slack ★10 ⏳1Y](https://github.com/ChildrenOfUr/dart-slack) - Dart interface to the Webhook API
+- [dart-slack ★10 ⏳2Y](https://github.com/ChildrenOfUr/dart-slack) - Dart interface to the Webhook API
 
 ### Erlang
 

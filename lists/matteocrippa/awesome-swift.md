@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-916-orange.svg) | October 06, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-919-orange.svg) | October 09, 2017
 
 ### Contributing
 
@@ -378,6 +378,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AwesomeCache ★1069](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
 * [Cache ★765](https://github.com/hyperoslo/Cache) - Nothing but Cache.
+* [Cachyr ★92](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
 * [Carlos ★443](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
 * [EVURLCache ★247](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
 * [SwiftMemCache ★49 ⏳1Y](https://github.com/ctews/SwiftMemCache) - Memory Cache with namespace & TTL support.
@@ -832,6 +833,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Bored of using storyboard? Give a try to declarative auto layout libs.* [back to top](#readme) 
 
 * [AutoLayoutPlus ★25](https://github.com/ruipfcosta/AutoLayoutPlus) - A bit of steroids for AutoLayout.
+* [Bamboo ★34](https://github.com/wordlessj/Bamboo) - Auto Layout (and manual layout) in one line.
 * [Cartography ★5864](https://github.com/robb/Cartography) - Declarative auto layout lib for your project.
 * [Cassowary ★86](https://github.com/tribalworldwidelondon/CassowarySwift) - A linear constraint solving library using the same algorithm as AutoLayout.
 * [Cupcake ★156](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS.
@@ -1462,6 +1464,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Persei ★2780](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView.
 * [PullToRefreshSwift ★485](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 * [ReverseExtension ★1126](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enables the insertion of cells the from bottom of a table view.
+* [SectionScrubber ★126](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
 * [Shoyu ★263](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
 * [SwipeCellKit ★2379](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 * [YNExpandableCell ★308](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS.

@@ -105,6 +105,7 @@ capabilities such as MPLS and SDN
 - [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports OpenFlow environment.
 - [Containernet ★21](https://github.com/containernet/containernet) - Mininet fork that allows to use Docker containers as hosts in emulated networks
 - [Tinynet ★8](https://github.com/John-Lin/tinynet) - A lightweight instant virtual network for rapid prototyping SDN
+- [MaxiNet](http://maxinet.github.io) - MaxiNet extends the famous Mininet emulation environment to span the emulation across several physical machines. This allows to emulate very large software-defined networks. 
 
 # Language
 
@@ -160,6 +161,7 @@ protocol, based on Twisted.
 - [Open Source MANO Community, OSM](https://osm.etsi.org/welcome/)
 - [Enhanced Controller Orchestration Management Policy, ECOMP](http://att.com/ecomp) - Operations management framework.
 - [Open Network Automation Platform, ONAP](https://www.onap.org/) - Alignment of the two projects creates a harmonized and comprehensive framework for real-time, policy-driven software automation of virtual network functions that will enable software, network, IT and cloud providers and developers to rapidly create new services.
+- [Mininet Spear Narmox](http://mininet.spear.narmox.com) - A online web service provides a visualization of Mininet Topology
 
 # High Performance Network
 - [DPDK](http://dpdk.org/) - DPDK is a set of libraries and drivers for fast packet processing.

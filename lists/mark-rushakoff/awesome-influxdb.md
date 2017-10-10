@@ -128,7 +128,7 @@ Plugins to allow other standalone tools to send their data into InfluxDB.
 * [embulk-output-influxdb](https://github.com/joker1007/embulk-output-influxdb) - InfluxDB output plugin for [Embulk ★948](https://github.com/embulk/embulk)
 * [exometer_influxdb](https://github.com/travelping/exometer_influxdb) - [Exometer ★405](https://github.com/Feuerlabs/exometer) reporter for InfluxDB
 * [fluent-plugin-influxdb ★81](https://github.com/fangli/fluent-plugin-influxdb) - A buffered output plugin for [fluentd](https://www.fluentd.org/) and InfluxDB
-* [influx-nagios-plugin ★28 ⏳1Y](https://github.com/shaharke/influx-nagios-plugin) - [Nagios](https://www.nagios.org/) plugin for querying monitoring stats from InfluxDB
+* [influx-nagios-plugin ★28 ⏳2Y](https://github.com/shaharke/influx-nagios-plugin) - [Nagios](https://www.nagios.org/) plugin for querying monitoring stats from InfluxDB
 * [jenkinsci/influxdb-plugin ★7](https://github.com/jenkinsci/influxdb-plugin) - [Jenkins](https://jenkins.io/index.html) plugin to send build metrics into InfluxDB
 * [kafka-influxdb ★114](https://github.com/mre/kafka-influxdb) - A [Kafka](https://kafka.apache.org/) consumer for InfluxDB written in Python
 * [logstash-output-influxdb ★29](https://github.com/logstash-plugins/logstash-output-influxdb) - Community-maintained [Logstash](https://www.elastic.co/products/logstash) plugin to output metrics to InfluxDB

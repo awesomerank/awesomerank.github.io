@@ -530,7 +530,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3corelib ★1520 ⏳2Y](https://github.com/mikechambers/as3corelib) -  MD5 and SHA1 hashing, Image encoders, and JSON serialization.
 * [ASCrypt ★46 ⏳2Y](https://github.com/Meychi/ASCrypt) - Crypto library with a similar API for multiple languages.
 * [Nexuslib ★8 ⏳1Y](https://github.com/nexussays/nexuslib-as3) - Reflection, serialization, seeded random number generation, cryptography, networking, and more.
-* [Hashlib ★1 ⏳1Y](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions.
+* [Hashlib ★1 ⏳2Y](https://github.com/Corsaair/hashlib) - Over 30 different hashing functions.
 * [XXTEA-AS3 ★5 ⏳1Y](https://github.com/xxtea/xxtea-as3) - XXTEA encryption algorithm library for ActionScript 3.
 * [Gibberish-AES ★2 ⏳4Y](https://github.com/NordMike/gibberish-aes-as3) - A fully OpenSSL compliant ActionScript 3 library for AES encryption.
 

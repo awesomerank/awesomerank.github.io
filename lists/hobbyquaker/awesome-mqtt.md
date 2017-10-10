@@ -192,7 +192,9 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [domiqtt ★1](https://github.com/etobi/domiqtt) - Connects to a Domiq Base (LCN) and translate from and to MQTT.
 * [eno2mqtt ★5 ⏳1Y](https://github.com/owagner/eno2mqtt) - Interface between an Enocean USB300 (TCM310) adapter and MQTT.
 * [Evohome2mqtt ★0](https://github.com/svrooij/evohome2mqtt) - MQTT Interface for the Honeywell Evohome system.
+* [helios2mqtt ★0](https://github.com/mreschka/helios2mqtt) - A deamon for syncing a helios easy controls system like my KWL EC 220D to mqtt.
 * [hm2mqtt.js ★8](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between EQ-3's Homematic line of smarthome devices and MQTT. Supports Homematic IP.
+* [HS100toMQTT ★0](https://github.com/dersimn/HS100toMQTT) - Gateway between TPLink HS100/HS110 and MQTT.
 * [knx2mqtt ★10 ⏳2Y](https://github.com/owagner/knx2mqtt) - Interface between the KNX home automation standard and MQTT.
 * [mqtt2homekit](https://github.com/forty2/mqtt2homekit) - Roughly the opposite of [homekit2mqtt ★98](https://github.com/hobbyquaker/homekit2mqtt): Control your HomeKit-enabled devices with MQTT and without Siri or iPhone.
 * [mqtt-dss-bridge ★3 ⏳2Y](https://github.com/cgHome/mqtt-dss-bridge) - MQTT digitalSTROM-Server Bridge.
@@ -235,6 +237,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [chromecast-mqtt-connector ★10](https://github.com/nohum/chromecast-mqtt-connector) - Control your Google Chromecast devices using MQTT.
 * [kodi2mqtt ★43](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi mediacenter instance and MQTT.
 * [harmony-api ★156](https://github.com/maddox/harmony-api) - A simple server allowing you to query/control multiple local Harmony Home Hubs over HTTP or MQTT.
+* [htd2mqtt ★0](https://github.com/TheOriginalAndrobot/htd2mqtt) - Bridge between an HTD Lync audio system and MQTT.
 * [lgtv2mqtt ★15](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT.
 * [lirc2mqtt ★9](https://github.com/hobbyquaker/lirc2mqtt) - Send and receive infrared via [LIRC](www.lirc.org).
 * [mqtt2atlonamatrix ★0](https://github.com/forty2/mqtt2atlonamatrix) - Control Atlona HDMI matrix switches with MQTT.
@@ -267,6 +270,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [leaf-python-mqtt ★11](https://github.com/glynhudson/leaf-python-mqtt) - Extract data from Nissan Leaf API and post to mqtt.
 * [miflora-mqtt-daemon ★13](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker.
 * [mqtt2ble ★7](https://github.com/hardillb/mqtt2ble) - A way to bridge MQTT topics to BLE Gatt characteristics.
+* [mqttclpro ★18](https://github.com/dc297/mqttclpro) - MQTT Client with tasker integration Android app.
 * [mqttDB ★3](https://github.com/hobbyquaker/mqttDB) - A JSON store with MQTT interface.
 * [node-mqtt-for-anki-overdrive ★36 ⏳1Y](https://github.com/IBM-Bluemix/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
 * [parrot-sample ★17](https://github.com/IBM-Bluemix/parrot-sample) - Sample code which uses MQTT to control a Parrot AR Drone.

@@ -62,7 +62,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 
 
 ### Data Serialization
-- [Cljson ★65 ⏳1Y](https://github.com/tailrecursion/cljson) – Clojure/ClojureScript library for accelerated browser data deserialization.
+- [Cljson ★65 ⏳2Y](https://github.com/tailrecursion/cljson) – Clojure/ClojureScript library for accelerated browser data deserialization.
 - [Transit ★211](https://github.com/cognitect/transit-cljs) – A data interchange format and set of libraries for conveying values between applications written in different programming languages.
 
 
