@@ -164,7 +164,7 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
 * [data.json ★297](https://github.com/clojure/data.json) - parser/generator to/from Clojure data structures.
 
 **Fortran**
-* [JSON-Fortran ★85](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
+* [JSON-Fortran ★86](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
 
 **Haskell**
 * [aeson-qq ★40](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.

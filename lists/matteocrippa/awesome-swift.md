@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-919-orange.svg) | October 09, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-920-orange.svg) | October 11, 2017
 
 ### Contributing
 
@@ -378,7 +378,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AwesomeCache ★1069](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
 * [Cache ★765](https://github.com/hyperoslo/Cache) - Nothing but Cache.
-* [Cachyr ★92](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift.
+* [Cachyr ★92](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS.
 * [Carlos ★443](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
 * [EVURLCache ★247](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
 * [SwiftMemCache ★49 ⏳1Y](https://github.com/ctews/SwiftMemCache) - Memory Cache with namespace & TTL support.
@@ -797,7 +797,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ZImageCropper ★22](https://github.com/ZaidPathan/ZImageCropper) - Crop image in any shape.
 
 ### Key Value Coding
-*Libraries for key-value coding in Swift* [back to top](#readme) 
+*Libraries for key-value coding* [back to top](#readme) 
 
 
 ### Keyboard
@@ -1029,7 +1029,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 
 #### Cryptography
-*Deal with cryptography method easily in Swift* [back to top](#readme) 
+*Deal with cryptography method easily* [back to top](#readme) 
 
 * [CryptoSwift ★4330](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 * [IDZSwiftCommonCrypto ★334](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
@@ -1225,7 +1225,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [UIPheonix ★23](https://github.com/MKGitHub/UIPheonix) - Easy, flexible, dynamic and highly scalable UI framework + concept for reusable component/control-driven apps.
 * [URLEmbeddedView ★409](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card.
 * [URWeatherView ★320](https://github.com/jegumhon/URWeatherView) - Show weather effects onto a view.
-* [VegaScroll ★1248](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.
+* [VegaScroll ★1248](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4.
 * [Wallet ★230](https://github.com/rshevchuk/Wallet) - A replica of the Apple's Wallet interface. Add, delete or present your cards and passes.
 * [WSTagsField ★620](https://github.com/whitesmith/WSTagsField) - An iOS text field that represents different Tags.
 * [YNSearch ★653](https://github.com/younatics/YNSearch) - Awesome fully customizable search view like Pinterest.
@@ -1285,7 +1285,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NFDownloadButton ★255](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.
 * [PMSuperButton ★353](https://github.com/Codeido/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 * [SwiftShareBubbles ★150](https://github.com/takecian/SwiftShareBubbles) - Animated social share buttons control for iOS.
-* [TransitionButton ★298](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
+* [TransitionButton ★322](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
 * [TVButton ★921](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
 * [ZFRippleButton ★1283](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 
@@ -1393,6 +1393,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Adaptive Tab Bar ★1757](https://github.com/Ramotion/adaptive-tab-bar) - Adaptive tab bar.
 * [Animated Tab Bar ★7948](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tab bar items.
 * [ColorMatchTabs ★942](https://github.com/Yalantis/ColorMatchTabs) - Interesting way to display tabs.
+* [DTPagerController ★34](https://github.com/tungvoduc/DTPagerController) - Container view controller to display a set of ViewControllers in a horizontal scroll view
 * [HHTabBarView ★36](https://github.com/hemangshah/HHTabBarView) - A lightweight customized tab bar view.
 * [Tabman ★527](https://github.com/uias/Tabman) - A powerful paging view controller with indicator bar.
 * [TabPageViewController ★692](https://github.com/EndouMari/TabPageViewController) - Paging view controller and scroll tab view.

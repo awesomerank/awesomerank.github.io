@@ -69,6 +69,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless Summit](http://inserverless.com) - Conference about serverless technologies / computing.
 - [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 - [Serverless Stack](https://serverless-stack.com) - Building and deploying full-stack apps using the Serverless Framework and React on AWS ([GitHub repo ★420](https://github.com/AnomalyInnovations/serverless-stack-com)).
+- [Serverless Nomad](https://www.serverlessnomad.com) - Blog about serverless technologies.
 
 ## Blogs
 
@@ -833,6 +834,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Meet the new application development stack](https://blogs.oracle.com/developers/meet-the-new-application-development-stack-kubernetes-serverless-registry-cicd-java) - Post which announces serverless related products from the Oracle OpenWorld 2017.
 - [Serverless ETL on AWS Lambda](https://engblog.nextdoor.com/bender-ff65a6edee92) - How to do serverless ETL on AWS Lambda with the help of the "Bender" framework.
 - [A closer look at Microsoft’s Azure Event Grid](https://thenewstack.io/closer-look-azure-event-grid/) - Post on what the Azure Event Grid is and how it can be used.
+- [Run any containerized CLI app as a serverless function](https://thenewstack.io/openfaas-put-serverless-function-container/) - Post which explains and discusses the OpenFaaS project.
+- [How to plan a team retreat](https://serverless.com/blog/how-to-plan-a-team-retreat/) - Insights how Serverless, Inc. plans and executes team retreats.
 
 ## Screencasts
 
@@ -1017,6 +1020,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless Swift with OpenWhisk](https://www.youtube.com/watch?v=VkpVJ3pNYEM) - James Thomas talk about serverless Swift functions on Apache OpenWhisk.
 - [ServerlessConf NYC 2017 to address DevOps in a serverless world](https://thenewstack.io/serverlessconf-nyc-address-devops-serverless-world/) - Podcast about the upcoming ServerlessConf NYC 2017.
 - [Building reactive systems with AWS Lambda](https://vimeo.com/189519556) - Yan Cuis talk on how to build serverless applications on AWS.
+- [Microservices without servers](https://www.youtube.com/watch?v=znCBbrYeUA4) - Glynn Birds introduction talk about serverless computing.
 
 ## Amazon AWS resources
 

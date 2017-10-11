@@ -30,12 +30,14 @@ title: Awesome Rank for avajs/awesome-ava
 - [Recipes](https://github.com/avajs/ava/tree/master/docs/recipes)
 - [Testing React Native apps with AVA](https://shift.infinite.red/testing-the-bejeezus-out-of-react-native-apps-with-ava-330f51f8f6c3)
 - [Getting Started with Create React App and AVA](https://semaphoreci.com/community/tutorials/getting-started-with-create-react-app-and-ava)
+- [Effortless unit testing with AVA](https://wecodetheweb.com/2016/04/19/effortless-unit-testing-with-ava/)
 
 
 ## Videos
 
 - [JavaScript Air episode with the AVA team](http://jsair.io/ava)
 - [AVA Casts](http://avacasts.com) - Short screencasts about AVA.
+- [Testing React components with AVA](https://www.youtube.com/watch?v=RxLW6-3dk5A)
 
 
 ## Packages

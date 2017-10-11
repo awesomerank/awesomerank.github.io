@@ -51,7 +51,7 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [ip-packet ★25 ⏳2Y](https://github.com/mafintosh/ip-packet) – Encode/decode raw ip packets.
 * [magnet-uri ★101](https://github.com/webtorrent/magnet-uri) – Parse a magnet URI and return an object of keys/values.
 * [network-address ★51](https://github.com/mafintosh/network-address) – Get the local network address of your machine.
-* [network-simulator ★39 ⏳1Y](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
+* [network-simulator ★39 ⏳2Y](https://github.com/substack/network-simulator) – Simulate a low-level computer network.
 * [rtsp-stream ★37 ⏳1Y](https://github.com/watson/rtsp-stream) - A transport agnostic RTSP serial multiplexer module for Node.
 * [simple-peer ★1261](https://github.com/feross/simple-peer) – Simple WebRTC video/voice and data channels.
 * [simple-websocket ★64](https://github.com/feross/simple-websocket) – Simple, EventEmitter API for WebSockets.

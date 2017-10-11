@@ -968,7 +968,7 @@ Also see [push notifications](#push-notifications)
 * [NetKit ★4](https://github.com/azizuysal/NetKit) - A Concise HTTP Framework in Swift. :large_orange_diamond:
 * [RealReachability ★2391](https://github.com/dustturtle/RealReachability) - We need to observe the REAL reachability of network. That's what RealReachability do.
 * [MonkeyKing ★1837](https://github.com/nixzhu/MonkeyKing) - MonkeyKing helps you post messages to Chinese Social Networks. :large_orange_diamond:
-* [NetworkKit ★27](https://github.com/imex94/NetworkKit) - Lightweight Networking and Parsing framework made for iOS, Mac, WatchOS and tvOS. :large_orange_diamond:
+* [NetworkKit ★27 ⏳1Y](https://github.com/imex94/NetworkKit) - Lightweight Networking and Parsing framework made for iOS, Mac, WatchOS and tvOS. :large_orange_diamond:
 * [APIKit ★1258](https://github.com/ishkawa/APIKit) - A networking library for building type safe web API client in Swift. :large_orange_diamond:
 * [ws ☁️](https://github.com/freshOS/ws) - Elegant JSON WebService in Swift.:large_orange_diamond:
 * [SPTDataLoader ★580](https://github.com/spotify/SPTDataLoader) - The HTTP library used by the Spotify iOS client.
@@ -2363,6 +2363,7 @@ Most of these are paid services, some have free tiers.
  * [DefaultStringConvertible ★128](https://github.com/jessesquires/DefaultStringConvertible) - A default CustomStringConvertible implementation for Swift types 🔶[e]
  * [FluxCapacitor ★78](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias. 🔶
  * [VTAcknowledgementsViewController ★772](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+ * [Closures ★3](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation. 🔶
 
 ## VR
 * [VR Toolkit iOS ★74 ⏳1Y](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS :large_orange_diamond:
@@ -2478,7 +2479,7 @@ Most of these are paid services, some have free tiers.
 * [infer ★7248](https://github.com/facebook/infer) - A static analyzer for Java, C and Objective-C.
 * [PlayNow ★92 ⏳1Y](https://github.com/marcboquet/PlayNow) - Small app that creates empty Swift playground files and opens them with Xcode. :large_orange_diamond:
 * [Xtrace ★1671](https://github.com/johnno1962/Xtrace) - Trace Objective-C method calls by class or instance
-* [xcenv ★206](https://github.com/xcenv/xcenv) - Groom your Xcode environment.
+* [xcenv ★206 ⏳1Y](https://github.com/xcenv/xcenv) - Groom your Xcode environment.
 * [playgroundbook ★207](https://github.com/playgroundbooks/playgroundbook) - Tool for Swift Playground books
 * [Ecno ★57](https://github.com/xmartlabs/Ecno) - Ecno is a task state manager built on top of UserDefaults in pure Swift 3. :large_orange_diamond:
 * [ipanema ★3](https://github.com/toshi0383/ipanema) - ipanema analyzes and prints useful information from *.ipa file.
@@ -2614,7 +2615,7 @@ Most of these are paid services, some have free tiers.
 * [SYXcodeIconVersion ★95](https://github.com/dvkch/SYXcodeIconVersion) - This Xcode plugin shows Xcode app version in the Dock and App Switcher icon.
 * [Gradle ★361](https://github.com/openbakery/gradle-xcodePlugin) - gradle xcodePlugin to build iOS and Mac projects.
 * [HOStringSense-for-Xcode ★725 ⏳1Y](https://github.com/holtwick/HOStringSense-for-Xcode) - Plugin for Xcode to make perfect editing regular expressions, multi line texts, inline HTML and many more use cases. Also provides quick feedback on string length.
-* [FastStub-Xcode ★489](https://github.com/music4kid/FastStub-Xcode) - Xcode Plugin helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.
+* [FastStub-Xcode ★489 ⏳1Y](https://github.com/music4kid/FastStub-Xcode) - Xcode Plugin helps you find missing methods in your class header, protocols, and super class, also makes fast inserting.
 * [JSPatchX ★737](https://github.com/bang590/JSPatchX) - JSPatch bridge Objective-C and Javascript using the Objective-C runtime. You can call any Objective-C class and method in JavaScript by just including a small engine. JSPatch is generally use for hotfix iOS App.
 * [Dash](https://kapeli.com/dash) - Dash is a great documentation browser which integrates closely into Xcode with its plugin.
 * [SFJumpToLine ★10 ⏳2Y](https://github.com/sferrini/SFJumpToLine) - Xcode plugin that moves the instruction pointer to the selected line

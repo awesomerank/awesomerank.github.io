@@ -87,7 +87,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Chris Biscardi](https://github.com/ChristopherBiscardi/ama) - UI lead at [Docker](https://www.docker.com/). [JavaScript](https://github.com/future-ui/future-ui). [Haskell ★18 ⏳2Y](https://github.com/ChristopherBiscardi/snap-for-beginners). Builder of products and tooling.
 - [Vladimir Agafonkin](https://github.com/mourner/ama) - Engineer at [Mapbox](https://www.mapbox.com/), creator of [Leaflet](http://leafletjs.com/) and a bunch of [other open source libraries ★68](https://github.com/mourner/projects). Building the future of interactive maps.
 - [Claudio Procida ★0 ⏳2Y](https://github.com/claudiopro/ama) - Full stack web developer, mentor, evangelist and speaker. Passionate about painting and photography.
-- [Zeno Rocha ★72 ⏳1Y](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
+- [Zeno Rocha ★72 ⏳2Y](https://github.com/zenorocha/ama) - Developer Advocate at [Liferay](http://www.liferay.com/).
 - [Kahlil Lechelt ★0](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the [Descriptive Podcast](http://descriptive.audio) and the [Reactive Podcast](http://reactive.audio), vocalist.
 - [Vadim Demedes](https://github.com/vdemedes/ama) - Node.js addict.
 - [Jan-Hendrik Heuing](https://github.com/jan-hendrik/ama) - Webdeveloper, Scrum Professional, Agile Coach. Blogging about [Agile and Scrum](https://heuing.io).
@@ -154,6 +154,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Jiri Cincura ★0](https://github.com/cincuranet/ama) - Developer, speaker, blogger, runner and yogi.
 - [Clark Weckmann ★0](https://github.com/clarkhacks/ama) - Web Developer, Designer, and Programmer. Specializing in small business websites and blogs.
 - [Kevin Jalbert ★0](https://github.com/kevinjalbert/ama) - Software Engineer coding with React/Rails at [theScore](http://mobile.thescore.com/careers/). 
+- [Sean Killeen ★0](https://github.com/SeanKilleen/ama) - Senior consultant, speaker, tech lead, and .NET Xpert @excellaco. Would love to talk .NET, modernization, distributed systems, public speaking, musical theatre, and really pretty much anything else.
 
 #### Ask these organizations anything!
 

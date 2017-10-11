@@ -199,7 +199,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [configure ★28](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables.
 * [env ★315](https://github.com/caarlos0/env) - Parse environment variables to Go structs (with defaults).
 * [envcfg ★82](https://github.com/tomazk/envcfg) - Un-marshaling environment variables to Go structs.
-* [envconf ★5 ⏳2Y](https://github.com/ian-kent/envconf) - Configuration from environment.
+* [envconf ★5 ⏳3Y](https://github.com/ian-kent/envconf) - Configuration from environment.
 * [envconfig ★109](https://github.com/vrischmann/envconfig) - Read your configuration from environment variables.
 * [gcfg ★70 ⏳1Y](https://github.com/go-gcfg/gcfg) - read INI-style configuration files into Go structs; supports user-defined types and subsections.
 * [goConfig ★43](https://github.com/crgimenes/goConfig) - Parse a struct as input and populates the fields of this struct with parameters fom command line, environment variables and configuration file.
@@ -1389,7 +1389,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-wrap ★52 ⏳2Y](https://github.com/go-on/wrap) - Small middlewares package for net/http.
 * [gores ★57](https://github.com/alioygur/gores) - Go package that handles HTML, JSON, XML and etc. responses. Useful for RESTful APIs.
 * [interpose ★274](https://github.com/carbocation/interpose) - Minimalist net/http middleware for golang.
-* [muxchain ★199 ⏳2Y](https://github.com/stephens2424/muxchain) - Lightweight middleware for net/http.
+* [muxchain ★199 ⏳3Y](https://github.com/stephens2424/muxchain) - Lightweight middleware for net/http.
 * [negroni ★4988](https://github.com/urfave/negroni) - Idiomatic HTTP middleware for Golang.
 * [render ★954](https://github.com/unrolled/render) - Go package for easily rendering JSON, XML, and HTML template responses.
 * [rye ★58](https://github.com/InVisionApp/rye) - Tiny Go middleware library (with canned Middlewares) that supports JWT, CORS, Statsd, and Go 1.7 context.

@@ -739,7 +739,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [plax ★2334](https://github.com/cameronmcefee/plax) - jQuery powered parallaxing.
 * [jparallax ★1137 ⏳1Y](https://github.com/stephband/jparallax) - jQuery plugin for creating interactive parallax effect.
 * [fullPage ★20673](https://github.com/alvarotrigo/fullPage.js) - A simple and easy to use plugin to create fullscreen scrolling websites (also known as single page websites).
-* [ScrollMenu ★173](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
+* [ScrollMenu ★173 ⏳1Y](https://github.com/s-yadav/ScrollMenu) - A new interface to replace old boring scrollbar.
 * [Clusterize.js ★5324](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily.
 
 

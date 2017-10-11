@@ -16,7 +16,6 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Block Your Talk](http://eleganthack.com/block-your-talk/) - by **Christina Wodtke**
 * [Presenting is Performance](http://eleganthack.com/presenting-is-performance/) - by **Christina Wodtke**
 * [Speaker Style Bingo: 10 Presentation Anti-Patterns](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html) - by **Troy Hunt**
-* [Speaking Tips from a Grizzled Speaker](http://www.joshholmes.com/blog/2014/01/17/speaking-tips-grizzled-speaker/) - by **Josh Holmes**
 * [Some Thoughts On Doing Conference Sessions](http://derickbailey.com/2015/11/11/some-thoughts-on-doing-conference-sessions/) - by **Derick Bailey**
 
 ## Books
@@ -31,9 +30,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 
 * [Call to Speakers](http://calltospeakers.com/) - A list of open applications for conference talks. Get notified of new opportunities via a weekly newsletter, Twitter account, or RSS feed.
 * [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
-* [Lanyrd Calls for Participations](http://lanyrd.com/calls/) - A list of open CFP.
 * [PaperCall](https://papercall.io/) - Place to manage your talks and submissions.
-* [WikiCFP](http://wikicfp.com/cfp/) aggregates academic science and technology CFPs
 
 ## Clubs/Organizations
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.

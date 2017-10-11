@@ -177,7 +177,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-parser ★39 ⏳1Y](https://github.com/Shopify/graphql-parser) - A small ruby gem wrapping the libgraphqlparser C library for parsing GraphQL.
 * [graphql-client ★441](https://github.com/github/graphql-client) - A Ruby library for declaring, composing and executing GraphQL queries.
 * [graphql-batch ★377](https://github.com/Shopify/graphql-batch) - A query batching executor for the graphql gem.
-* [batch-loader ★238](https://github.com/exaspark/batch-loader) – A powerful tool to avoid N+1 queries without extra dependencies or primitives.
+* [batch-loader ★262](https://github.com/exaspark/batch-loader) – A powerful tool to avoid N+1 queries without extra dependencies or primitives.
 * [graphql-guard ★155](https://github.com/exAspArk/graphql-guard) - A simple field-level authorization for the graphql gem.
 
 <a name="lib-php" />

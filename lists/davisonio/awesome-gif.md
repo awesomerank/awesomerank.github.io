@@ -161,7 +161,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [GifHUD ★158 ⏳2Y](https://github.com/cemolcay/GiFHUD) - iOS progress hud for displaying only animated GIF images
 - [Video-Background GIF ★152](https://github.com/ElvinJin/Video-Background-GIF) - iOS Video Background GIF
 - [AnimatedGifExample ★40 ⏳7Y](https://github.com/kasatani/AnimatedGifExample) - iOS animated and transparent GIFs
-- [OLImageView ★869 ⏳1Y](https://github.com/dtorres/OLImageView) - iOS OLImage and OLImageView support for animated GIFs
+- [OLImageView ★869 ⏳2Y](https://github.com/dtorres/OLImageView) - iOS OLImage and OLImageView support for animated GIFs
 
 #### Swift
 

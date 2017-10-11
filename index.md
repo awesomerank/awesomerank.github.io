@@ -267,6 +267,7 @@ title: Awesome Rank for sindresorhus/awesome
 
 - [University Courses ★20734](lists/prakhar1989/awesome-courses.md)
 - [Data Science ★4482](lists/bulutyazilim/awesome-datascience.md)
+	- [Tutorials ★57](lists/siboehm/awesome-learn-datascience.md)
 - [Machine Learning ★26231](lists/josephmisiti/awesome-machine-learning.md)
 	- [Tutorials ★4798](lists/ujjwalkarn/Machine-Learning-Tutorials.md)
 	- [ML with Ruby ★616](lists/arbox/machine-learning-with-ruby.md) - Learning, implementing, and applying Machine Learning using Ruby.
@@ -280,6 +281,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Deep Learning ★5614](lists/ChristosChristofidis/awesome-deep-learning.md) - Neural networks.
 	- [TensorFlow ★8651](lists/jtoy/awesome-tensorflow.md) - Library for machine intelligence.
 	- [Papers ★11823](lists/terryum/awesome-deep-learning-papers.md) - The most cited deep learning papers.
+	- [Education ★436](lists/guillaume-chevalier/awesome-deep-learning-resources.md)
 - [Deep Vision ★5075](lists/kjw0612/awesome-deep-vision.md)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
 - [Functional Programming ★290](lists/lucasviola/awesome-functional-programming.md)
@@ -389,6 +391,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [TinkerPop ★52](lists/mohataher/awesome-tinkerpop.md) - Graph computing framework.
 - [PostgreSQL ★3589](lists/dhamaniasad/awesome-postgres.md) - Object-relational database.
 - [CouchDB ★41](lists/quangv/awesome-couchdb.md) - Document-oriented NoSQL database.
+- [HBase ★26](lists/rayokota/awesome-hbase.md) - Distributed, scalable, big data store.
 
 
 ## Media
@@ -482,6 +485,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Bitcoin ★276](lists/igorbarinov/awesome-bitcoin.md) - Bitcoin services and tools for software developers.
 - [Ripple ★59](lists/vhpoet/awesome-ripple.md) - Open source distributed settlement network.
 - [Non-Financial Blockchain ★145](lists/machinomy/awesome-non-financial-blockchain.md) - Non-financial blockchain applications.
+- [Mastodon ★27](lists/tleb/awesome-mastodon.md) - Open source decentralized microblogging network.
 
 ## Miscellaneous
 
@@ -572,6 +576,8 @@ title: Awesome Rank for sindresorhus/awesome
 - [Ledger ★4](lists/sfischer13/awesome-ledger.md) - Double-entry accounting on the command-line.
 - [Uncopyright ★148](lists/johnjago/awesome-uncopyright.md) - Public domain works.
 - [Crypto Currency Tools & Algorithms ★1911](lists/kennethreitz/awesome-coins.md) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
+- [Open Source Supporters ★63](lists/zachflower/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
+- [Design Principles ★11](lists/robinstickel/awesome-design-principles.md) - Create better and more consistent designs and experiences.
 
 
 ## License

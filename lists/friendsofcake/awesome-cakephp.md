@@ -322,7 +322,7 @@ Additional lists you might find useful:
 *Plugins and software for indexing and performing search queries on data.*
 
 - [ElasticSearch plugin ★57](https://github.com/cakephp/elastic-search) - Alternative ORM using Elastic Search as its backend.
-- [Muffin/Tags plugin ★14](https://github.com/usemuffin/tags) - For tagging and finding tagged records.
+- [Muffin/Tags plugin ★14 ⏳1Y](https://github.com/usemuffin/tags) - For tagging and finding tagged records.
 - [PlumSearch plugin ★18](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [FriendsOfCake/Search plugin ★82](https://github.com/FriendsOfCake/search) - Search provides a searching/filter module for CakePHP applications.
 - [Search plugin ★349](https://github.com/CakeDC/search) - Search plugin built on PRG pattern.

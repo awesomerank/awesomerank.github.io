@@ -8,16 +8,17 @@ title: Awesome Rank for viatsko/awesome-vscode
 </p>
 ---
 <br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/logo.ico">
-</p>
+<div align="center">
+  <img width="380px" src="https://raw.githubusercontent.com/viatsko/awesome-vscode/master/awesome-vscode-logo.png">
+</div>
 <br/>
-
-# Awesome VS Code [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+<div align="center">
 
 A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/) packages and resources. For more awesomeness, check out [awesome ★65640](https://github.com/sindresorhus/awesome).
 
-[![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/viatsko/awesome-vscode.svg)](https://travis-ci.org/viatsko/awesome-vscode)
+</div>
+<br/>
 
 # Table of Content
 
@@ -61,6 +62,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Git Project Manager](#git-project-manager)
   - [GitLink](#gitlink)
   - [GitLens](#gitlens)
+  - [Git Indicators](#gitindicators)
   - [GitHub](#github)
   - [Icon Fonts](#icon-fonts)
   - [Multiple clipboards](#multiple-clipboards)
@@ -108,7 +110,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
 ## Official
 
 - [Official website](https://code.visualstudio.com/)
-- [Source code ★33246](https://github.com/microsoft/vscode) on GitHub
+- [Source code ★34979](https://github.com/microsoft/vscode) on GitHub
 - [Releases (stable channel)](https://code.visualstudio.com/download)
 - [Releases (insiders channel)](https://code.visualstudio.com/insiders)
 - [Monthly iteration plans](https://github.com/Microsoft/vscode/issues?utf8=%E2%9C%93&q=label%3Aiteration-plan+)
@@ -347,6 +349,15 @@ Features full workbench theming
 > Provides Git CodeLens information (most recent commit, # of authors), on-demand inline blame annotations, status bar blame information, file and blame history explorers, and commands to compare changes with the working tree or previous versions.
 
 ![](https://raw.githubusercontent.com/eamodio/vscode-git-codelens/master/images/gitlens-preview1.gif)
+
+### [Git Indicators](https://marketplace.visualstudio.com/items?itemName=lamartire.git-indicators)
+
+> Atom like git indicators on active panel
+
+![](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/added.png)
+![](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/removed.png)
+![](https://raw.githubusercontent.com/lamartire/vscode-git-indicators/master/preview/modified.png)
+
 
 ### [GitHub](https://marketplace.visualstudio.com/items?itemName=KnisterPeter.vscode-github)
 

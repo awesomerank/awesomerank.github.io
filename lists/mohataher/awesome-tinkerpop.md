@@ -44,7 +44,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [TinkerGraph](http://tinkerpop.apache.org/docs/current/reference/#tinkergraph-gremlin) - In-memory OLTP and OLAP reference implementation.
 * [Titan](http://thinkaurelius.github.io/titan/) - Distributed OLTP and OLAP graph database with BerkeleyDB, Cassandra and HBase support.
 * [Titan (Amazon)](https://github.com/awslabs/dynamodb-titan-storage-backend) - The Amazon DynamoDB storage backend for Titan.
-* [Titan (Tupl) ★30](https://github.com/classmethod/tupl-titan-storage-backend) - The Tupl storage backend for Titan.
+* [Titan (Tupl) ★30 ⏳1Y](https://github.com/classmethod/tupl-titan-storage-backend) - The Tupl storage backend for Titan.
 * [Unipop](https://github.com/rmagen/unipop) - OLTP Elasticsearch and JDBC backed graph.
 * [DuctileDB ★14](https://github.com/PureSolTechnologies/DuctileDB) - Ductile DB is a graph database based on Hadoop/HBase which provides a vast set of features.
 * [hgraphdb ★78](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop Graph Database.
