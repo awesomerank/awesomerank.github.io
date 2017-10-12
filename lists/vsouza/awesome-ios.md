@@ -222,7 +222,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## ARKit
 * [ARKit-CoreLocation ★2609](https://github.com/ProjectDent/ARKit-CoreLocation) -Combines the high accuracy of AR with the scale of GPS data. :large_orange_diamond:
-* [Virtual Objects ★64](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
+* [Virtual Objects ★109](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
 
 ## Authentication
 * [Heimdallr.swift ★256](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift. :large_orange_diamond:
@@ -239,7 +239,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [InstagramSimpleOAuth ★82](https://github.com/rbaumbach/InstagramSimpleOAuth) - A quick and simple way to authenticate an Instagram user in your iPhone or iPad app.
 * [DropboxSimpleOAuth ★42](https://github.com/rbaumbach/DropboxSimpleOAuth) - A quick and simple way to authenticate a Dropbox user in your iPhone or iPad app.
 * [BoxSimpleOAuth ★15](https://github.com/rbaumbach/BoxSimpleOAuth) - A quick and simple way to authenticate a Box user in your iPhone or iPad app.
-* [IGAuth ★6](https://github.com/AnderGoig/IGAuth) - A simple way to authenticate Instagram accounts on iOS. :large_orange_diamond:
+* [IGAuth ★13](https://github.com/AnderGoig/IGAuth) - A simple way to authenticate Instagram accounts on iOS. :large_orange_diamond:
 
 ## Bridging
 * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and macOS applications for iPhone, iPad and Mac, all using the Ruby language.
@@ -516,7 +516,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Prelude ★309 ⏳1Y](https://github.com/robrix/Prelude) - Swift µframework of simple functional programming tools. :large_orange_diamond:
 * [Swiftx ★177](https://github.com/typelift/Swiftx) - Functional data types and functions for any project. :large_orange_diamond:
 * [Swiftz ★2991](https://github.com/typelift/Swiftz) -  Functional programming in Swift. :large_orange_diamond:
-* [OptionalExtensions ★168](https://github.com/RuiAAPeres/OptionalExtensions) - Swift µframework with extensions for the  Optional Type. :large_orange_diamond:[e]
+* [OptionalExtensions ★168 ⏳1Y](https://github.com/RuiAAPeres/OptionalExtensions) - Swift µframework with extensions for the  Optional Type. :large_orange_diamond:[e]
 * [Hookah ★56 ⏳1Y](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift. It's inspired by LoDash, Underscore project. :large_orange_diamond:
 * [Argo ★3170](https://github.com/thoughtbot/Argo) - Functional JSON parsing library for Swift :large_orange_diamond:
 * [Runes ★647](https://github.com/thoughtbot/Runes) - Infix operators for monadic functions in Swift. :large_orange_diamond:
@@ -526,7 +526,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Sage ★326](https://github.com/nvzqz/Sage) - A cross-platform chess library for Swift. :large_orange_diamond:
 * [ShogibanKit ★50](https://github.com/codelynx/ShogibanKit) - ShogibanKit is a framework for implementing complex Japanese Chess (Shogii) in Swift. No UI, nor AI. :large_orange_diamond:
 * [SKTiled ★89](https://github.com/mfessenden/SKTiled) - Swift framework for working with Tiled assets in SpriteKit :large_orange_diamond:
-* [BWCollectionView ★13](https://github.com/bwide/BWCollectionView) - A swift framework for a collectionView in SpriteKit :large_orange_diamond:
+* [BWCollectionView](https://github.com/bwide/BWCollectionView) - A swift framework for a collectionView in SpriteKit :large_orange_diamond:
 
 ## Gesture
 * [Tactile ★613 ⏳1Y](https://github.com/delba/Tactile) - A better way to handle gestures on iOS :large_orange_diamond:
@@ -1622,7 +1622,7 @@ Most of these are paid services, some have free tiers.
 * [BatteryView ★8](https://github.com/yonat/BatteryView) - Simple battery shaped UIView. 🔶
 * [ShadowView ★199](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView :large_orange_diamond:
 * [Pulley ★571](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI :large_orange_diamond:
-* [N8iveKit ★17](https://github.com/n8iveapps/N8iveKit) - A set of frameworks making iOS development more fun. :large_orange_diamond:
+* [N8iveKit ★18](https://github.com/n8iveapps/N8iveKit) - A set of frameworks making iOS development more fun. :large_orange_diamond:
 * [NotchKit ★1619](https://github.com/HarshilShah/NotchKit) - A simple way to hide the notch on the iPhone X :large_orange_diamond:
 
 #### Activity Indicator
@@ -1865,7 +1865,7 @@ Most of these are paid services, some have free tiers.
 * [MultiToggleButton ★25](https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (Like the camera flash and timer buttons). :large_orange_diamond:
 * [PMSuperButton ★353](https://github.com/Codeido/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard! 🔶
 * [JSButton ★0](https://github.com/imjog/JSButton) - A fully customisable swift subclass on UIButton which allows you to create beautiful buttons without writing any line of code. 🔶
-* [TransitionButton ★298](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation :large_orange_diamond:
+* [TransitionButton ★322](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation :large_orange_diamond:
 * [ButtonProgressBar-iOS ★179](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible UIButton subclass with animated loading progress, and completion animation. :large_orange_diamond:
 
 #### Calendar
@@ -2129,7 +2129,7 @@ Most of these are paid services, some have free tiers.
 * [MultiSelectSegmentedControl ★74](https://github.com/yonat/MultiSelectSegmentedControl) - adds Multiple-Selection to the standard `UISegmentedControl`.
 
 #### Tab Bar
-* [ESTabBarController ★99](https://github.com/ezescaruli/ESTabBarController) - A tab bar controller for iOS that allows highlighting buttons and setting custom actions to them.
+* [ESTabBarController ★99 ⏳1Y](https://github.com/ezescaruli/ESTabBarController) - A tab bar controller for iOS that allows highlighting buttons and setting custom actions to them.
 * [GooeyTabbar ★685](https://github.com/KittenYang/GooeyTabbar) -A gooey effect tabbar :large_orange_diamond:
 * [animated-tab-bar ★7948](https://github.com/Ramotion/animated-tab-bar) - RAMAnimatedTabBarController is a Swift module for adding animation to tabbar items. :large_orange_diamond:
 * [FoldingTabBar.iOS ★3317](https://github.com/Yalantis/FoldingTabBar.iOS) - Folding Tab Bar and Tab Bar Controller
@@ -2496,7 +2496,7 @@ Most of these are paid services, some have free tiers.
 * [Struct](https://www.get-struct.tools) - A tool for iOS and Mac developers to automate the creation and management of Xcode projects.
 * [Nori ★287](https://github.com/yukiasai/Nori) - Easier to apply code based style guide to storyboard. :large_orange_diamond:
 * [DBDebugToolkit ★556](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
-* [Attabench ★559](https://github.com/attaswift/Attabench) - Microbenchmarking app for Swift with nice log-log plots :large_orange_diamond:
+* [Attabench ★573](https://github.com/attaswift/Attabench) - Microbenchmarking app for Swift with nice log-log plots :large_orange_diamond:
 * [Gluten ★7](https://github.com/wilbertliu/Gluten) - Nano library to unify XIB and it's code. :large_orange_diamond:
 * [LicensePlist ★946](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications. :large_orange_diamond:
 * [Swizzlean ★80](https://github.com/rbaumbach/Swizzlean) - An Objective-C Swizzle Helper Class
@@ -2815,7 +2815,7 @@ Other amazingly awesome lists can be found in the
 * [awesome-interview-questions ★16072](https://github.com/MaximAbramchuck/awesome-interview-questions#ios) - A curated awesome list of lists of interview questions including iOS.
 * [Awesome-iOS-Companies](https://ioscompanies.info/about/welcome) - A curated geographical directory of companies doing iOS development.
 * [iOS-Playbook ★69](https://github.com/bakkenbaeck/iOS-handbook) - Guidelines and best practices for excellent iOS apps
-* [iOS-Learning-Materials ★45](https://github.com/jVirus/iOS-Learning-Materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
+* [iOS-Learning-Materials ★53](https://github.com/jVirus/iOS-Learning-Materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
 * [Awesome-iOS-Twitter ★136](https://github.com/carolanitz/Awesome-iOS-Twitter) - A curated list of awesome iOS Twitter accounts
 * [Marketing for Engineers ★1840](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 * [Awesome-ARKit ★2661](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.

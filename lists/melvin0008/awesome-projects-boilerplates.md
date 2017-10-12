@@ -82,17 +82,17 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Flask React Boilerplate ★281](https://github.com/alexkuz/flask-react-boilerplate) Flask and react Boilerplate
     - [Boilerplate Webpack React ★46 ⏳1Y](https://github.com/tcoopman/boilerplate-webpack-react) Boilerplate project for Reactjs with webpack, gulp and stylus
     - [React JS Hot loader Boilerplates](https://github.com/gaearon/react-hot-loader/tree/master/docs#starter-kits) React hot loader starter kits
-    - [React Redux Universal Hot Example ★10338](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
+    - [React Redux Universal Hot Example ★10472](https://github.com/erikras/react-redux-universal-hot-example) A starter boilerplate for a universal webapp using express, react, redux, webpack, and react-transform
     - [post3ree-boilerplate](https://github.com/hex22a/post3ree-boilerplate) Boilerplate for a universal application using 3REE stack (React, Redux, RethinkDB, Express) + PostCSS
 - [Backbone](#backbone)
-    - [Backbone Boilerplates ★505 ⏳4Y](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
+    - [Backbone Boilerplates ★503 ⏳4Y](https://github.com/addyosmani/backbone-boilerplates) Backbone Boilerplates by Addy Osmani.
     - [Yeoman Backbone Generator ★662](https://github.com/yeoman/generator-backbone) Yeoman generator for Backbone.
     - [benm ★180](https://github.com/shorttompkins/benm) Boilerplate web app using Backbone.js, ExpressJS, node.js, MongoDB.
 - [Jquery](#jquery)
     - [Generator Jquery Boilerplate ★149 ⏳1Y](https://github.com/jquery-boilerplate/generator-jquery-boilerplate) Yeoman Generator for jQuery Boilerplate.
 - [Polymer](#polymer)
     - [Polymer Starter Kit ★2431](https://github.com/PolymerElements/polymer-starter-kit) A starting point for Polymer 1.0 apps.
-    - [Polymer Seed Element ★291](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
+    - [Polymer Seed Element ★290](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
     - [Yeoman Polymer Generator ★986](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
 - [Electron](#electron)
     - [Electron Boilerplate ★513](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
@@ -159,7 +159,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Websites*
 - [HTML5 Boilerplate](https://html5boilerplate.com/) Web's most popular front-end template
-- [Meteor boilerplate ★919 ⏳1Y](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
+- [Meteor boilerplate ★918 ⏳1Y](https://github.com/Differential/meteor-boilerplate) Boilerplate for meteor framework.
 - [Web Starter Kit ★17649](https://github.com/google/web-starter-kit) Web starter kit by Google.
 - [Open Designs](http://www.opendesigns.org/) Open Source WebDesign Templates
 - [Open Web Design](http://www.openwebdesign.org/) Community of designers and site owners sharing free web design templates

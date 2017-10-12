@@ -563,7 +563,7 @@ AWS Repos:
 * [aws-dotnet-trace-listener ★8 ⏳1Y](https://github.com/aws/aws-dotnet-trace-listener) - A trace listener for System.Diagnostics that can be used to log events.
 * [aws-dynamodb-encryption-java ★76](https://github.com/awslabs/aws-dynamodb-encryption-java) - Encryption Client for Java.
 * [aws-dynamodb-examples ★87](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
-* [aws-dynamodb-mars-json-demo ★46 ⏳2Y](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images.
+* [aws-dynamodb-mars-json-demo ★46 ⏳3Y](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images.
 * [aws-dynamodb-session-tomcat ★85](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
 * [aws-sessionstore-dynamodb-ruby ★42](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
 * [dynamodb-cross-region-library :fire::fire: ★202](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication.

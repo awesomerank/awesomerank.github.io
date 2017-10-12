@@ -382,7 +382,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android-Link-Preview ★238](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 - [Sensey ★2045](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
 - [UserAwareVideoView ★44](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
-- [Flexbox Layout ★9284](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
+- [Flexbox Layout ★9508](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
 ## Resources
 
 - [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.

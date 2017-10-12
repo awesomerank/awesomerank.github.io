@@ -176,7 +176,7 @@ You might also like [awesome-haskell ★1224](https://github.com/krispo/awesome-
 
 ### GUI
 
-- [FregeFX ★28](https://github.com/Frege/FregeFX) - Frege bindings for JavaFX.
+- [FregeFX ★29](https://github.com/Frege/FregeFX) - Frege bindings for JavaFX.
 
 ### Web Frameworks
 
@@ -223,7 +223,7 @@ You might also like [awesome-haskell ★1224](https://github.com/krispo/awesome-
 
 ### Unit Testing
 
-- [FrUnit ★1 ⏳3Y](https://github.com/melrief/FrUnit) - JUnit for Frege.
+- [FrUnit ★2 ⏳3Y](https://github.com/melrief/FrUnit) - JUnit for Frege.
 
 ## License
 

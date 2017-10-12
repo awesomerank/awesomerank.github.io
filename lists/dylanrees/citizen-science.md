@@ -59,6 +59,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [Calibre](http://calibre-ebook.com/) - eBook management software.
  * [LibraryThing](https://www.librarything.com/) - an online platform for organizing your library.
  * [PECE](http://www.worldpece.org/) - The Platform for Experimental and Collaborative Ethnography.  This project provides an online platform for academic collaboration that helps keep track of complex attribution of credit.  It is geared toward anthropologists but is expanding to become more broad.
+ * [RapidPro ★471](https://github.com/rapidpro/rapidpro) - An open-source platform for building scalable applications that users can interact with via SMS.
  
 ## Educational
 
@@ -145,6 +146,7 @@ Below is a curated list of awesome software and other resources to enable those 
  * [How to Run a Feminist Science Lab Meeting](https://civiclaboratory.nl/2017/03/31/how-to-run-a-feminist-science-lab-meeting/) - A guide by the Civic Laboratory in St. John's, Newfoundland
  * [From the March for Science to an Abolitionist Science](https://www.fromthesquare.org/march-science-abolitionist-science/#.WPpQv2nyuUl) - An article that offers several historical and current critiques of science that propose alternative ways of doing scientific work.
  * [Whole Earth Catalog](http://www.wholeearth.com/index.php) - A site that contains the remnants of a famous late 1960s and early 1970s maker/ecology magazine.
+ * [Spectrophotometric Determination of Lead](http://www.pharmtech.com/spectrophotometric-determination-lead) - Another simple DIY lead testing procedure.
  
 ## Citizen Science Spaces and Projects
 

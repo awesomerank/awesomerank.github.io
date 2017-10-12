@@ -402,7 +402,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 *String Libraries.*
 
 * [voca ★1798](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
-* [selecting ★59 ⏳1Y](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
+* [selecting ★59 ⏳2Y](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
 * [underscore.string ★3224](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js ★1515](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
 * [he ★1188](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.

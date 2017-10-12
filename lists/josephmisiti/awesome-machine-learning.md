@@ -279,8 +279,8 @@ Further resources:
 <a name="crystal-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [machine ★19](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
-* [crystal-fann ★19](https://github.com/bararchy/crystal-fann) - FANN (Fast Artifical Neural Network) binding.
+* [machine ★21](https://github.com/mathieulaporte/machine) - Simple machine learning algorithm.
+* [crystal-fann](https://github.com/bararchy/crystal-fann) - FANN (Fast Artifical Neural Network) binding.
 
 <a name="elixir"></a>
 ## Elixir
@@ -748,10 +748,10 @@ on MNIST digits[DEEP LEARNING]
 <a name="ocaml-general-purpose"></a>
 ### General-Purpose Machine Learning
 
-* [Oml ★99](https://github.com/hammerlab/oml) - A general statistics and machine learning library.
+* [Oml ★101](https://github.com/hammerlab/oml) - A general statistics and machine learning library.
 * [GPR](http://mmottl.github.io/gpr/) - Efficient Gaussian Process Regression in OCaml.
 * [Libra-Tk](http://libra.cs.uoregon.edu) - Algorithms for learning and inference with discrete probabilistic models.
-* [TensorFlow ★114](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
+* [TensorFlow ★116](https://github.com/LaurentMazare/tensorflow-ocaml) - OCaml bindings for TensorFlow.
 
 <a name="perl"></a>
 ## Perl
@@ -801,12 +801,12 @@ be
 <a name="php-nlp"></a>
 ### Natural Language Processing
 
-* [jieba-php ★404](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
+* [jieba-php ★425](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
 
 <a name="php-general-purpose"></a>
 ### General-Purpose Machine Learning
 
-* [PHP-ML ★4230](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
+* [PHP-ML ★4347](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 * [PredictionBuilder ★71](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
 <a name="python"></a>

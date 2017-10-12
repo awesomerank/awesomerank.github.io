@@ -256,7 +256,7 @@ Code
 * :free: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing ![free](https://github.com/ellisonleao/magictools/blob/master//img/free.png)
 * :tada: [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * :tada: [ENGi ★373 ⏳1Y](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
-* :taga: [Ebiten](https://hajimehoshi.github.io/ebiten/) - A simple 2D game library in Go. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
+* :tada: [Ebiten](https://hajimehoshi.github.io/ebiten/) - A simple 2D game library in Go. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
 * :tada: [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
 * :tada: [FXGL ★387](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux. ![open source](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
@@ -273,7 +273,7 @@ Code
 * :tada: [Haxor](http://www.haxor.xyz/) - Combine the power of HaXe language and HTML5+WebGL to easily develop powerful applications that can run in any modern browser.
 * [Hive3D](http://www.eyelead.com/hive/) - Real Time Collaboration 3D engine.
 * :tada: [Horde3D](http://www.horde3d.org/) - small open source 3D rendering engine. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
-* :money: [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
+* :moneybag: [ImpactJS](http://impactjs.com/) - Impact is a JavaScript Game Engine that allows you to develop stunning HTML5 Games for desktop and mobile browsers.
 * :free: [Inform7](http://inform7.com/) - A design system for interactive fiction based on natural language.
 * :tada: [Ink](http://www.inklestudios.com/ink/) - Scripting language for writing interactive narrative.
 * :tada: [Irrlicht](http://irrlicht.sourceforge.net/) -  open source high performance realtime 3D engine written in C++. ![open soucce](https://github.com/ellisonleao/magictools/blob/master//img/opensource.png)
@@ -537,8 +537,8 @@ Learn
 
 ### General Game Development
 
-* :money: [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
-* :money: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
+* :moneybag: [Coursera: Beginning Game Programming with C#](https://www.coursera.org/course/gameprogramming)
+* :moneybag: [Coursera: Introduction to interactive Python programming](https://www.coursera.org/course/interactivepython1)
 * :free: [HandmadeHero: making 2D game from scratch](https://handmadehero.org/)
 * :free: [Khan Academy: Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 * :free: [Simple HTML5 Canvas Game](http://www.lostdecadegames.com/how-to-make-a-simple-html5-canvas-game/)
@@ -549,7 +549,7 @@ Learn
 ### Computer Graphics
 
 * :free: [Interactive 3D Graphics](https://www.udacity.com/course/interactive-3d-graphics--cs291)
-* :money: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
+* :moneybag: [Interactive Computer Graphics](https://www.coursera.org/learn/interactive-computer-graphics)
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/ellisonleao/magictools">ellisonleao/magictools</a> with ranks

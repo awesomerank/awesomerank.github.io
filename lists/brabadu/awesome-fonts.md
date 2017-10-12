@@ -102,7 +102,7 @@ A curated list of fonts and typography resources.
 * [icono](https://saeedalipoor.github.io/icono/) - One tag One icon, no font or svg, Pure CSS
 * [ionicons](http://ionicons.com/) - The premium icon font for Ionic
 * [Map Icons ★847](https://github.com/scottdejonge/map-icons) - Font for use with Google Maps API and Google Places API using SVG markers and icon labels
-* [Material design icons ★31302](https://github.com/google/material-design-icons) - Official icon set from Google
+* [Material design icons ★31672](https://github.com/google/material-design-icons) - Official icon set from Google
 * [mfglabs-iconset](http://mfglabs.github.io/mfglabs-iconset/) - Awesome web font icon by MFG Labs
 * [Micon ★125](https://github.com/xtoolkit/Micon) - Iconic Windows 10 font and CSS toolkit
 * [octicons](https://octicons.github.com/) - GitHub's icon font

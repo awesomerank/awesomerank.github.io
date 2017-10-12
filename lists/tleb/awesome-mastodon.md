@@ -63,6 +63,7 @@ title: Awesome Rank for tleb/awesome-mastodon
 * [Toot scheduler](https://scheduler.mastodon.tools/) - Schedule now, toot later.
 * [Mastodon Network Monitoring (MNM)](https://dashboards.mnm.social/) - Track and display browsable stats about the Mastodon network.
 * [Radar](http://radar.amberstone.digital/) - Project to map out the Fediverse.
+* [Last](https://framagit.org/luc/last) - Aggregate toots on a web page providing Atom feed and an epub (Perl).
 
 ## User styles
 

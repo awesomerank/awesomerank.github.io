@@ -191,7 +191,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
 * [Sprockets ★2693 ⏳1Y](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * [Torba ★166 ⏳1Y](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
-* [Webpacker ★2152](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
+* [Webpacker ★2276](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ## Authentication and OAuth
 
@@ -396,6 +396,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Database Tools
 
+* [connection_pool ★942](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
 * [Database Cleaner ★2136](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner is a set of strategies for cleaning your database in Ruby.
 * [Foreigner ★1351](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
 * [Large Hadron Migrator ★1434](https://github.com/soundcloud/lhm) - Online MySQL schema migrations without locking the table.
@@ -876,7 +877,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Profiler and Optimization
 
-* [batch-loader ★238](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+* [batch-loader ★262](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 * [benchmark-ips ★1001](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 * [bullet ★4810](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 * [Derailed Benchmarks ★1762](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.

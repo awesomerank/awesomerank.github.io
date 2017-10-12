@@ -253,8 +253,8 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 * [TypeScript](http://www.typescriptlang.org/) Official Website for TypeScript
 * [REPL](http://www.typescriptlang.org/Playground) Official TypeScript REPL that runs entirely in your browser
-* [TypeScript Repository (GitHub) ★25725](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
-* [DefinitelyTyped Repository (GitHub) ★12141](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
+* [TypeScript Repository (GitHub) ★26559](https://github.com/Microsoft/TypeScript) Official GitHub Repo for TypeScript
+* [DefinitelyTyped Repository (GitHub) ★12510](https://github.com/DefinitelyTyped/DefinitelyTyped) The repository for high quality TypeScript type definitions.
 * [TSD](http://definitelytyped.org/tsd) TypeScript Definition manager for DefinitelyTyped
 
 #### Typescript Seed Projects

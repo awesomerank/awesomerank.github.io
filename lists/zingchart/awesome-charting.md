@@ -43,8 +43,8 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [EJSChart ★25 ⏳1Y](https://github.com/EmpriseCorporation/EJSCharts) - enterprise ready charting library.
 * [Graphosaurus ★260](https://github.com/frewsxcv/graphosaurus) - 3D graph viewer powered by WebGL (three.js)
 * [Morris.js](http://morrisjs.github.io/morris.js) - Simple API to render line, bar, area, and donut charts
-* [Plotly ★6798](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
-* [Plottable ★2188](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
+* [Plotly ★6919](https://github.com/plotly/plotly.js) - Built on top of d3 and stack.gl, allowing users to create basic charts and SVG maps.
+* [Plottable ★2203](https://github.com/palantir/plottable) - Library with OOP style syntax to build charts.
 * [rgraph](http://www.rgraph.net/) - 2D/3D javascript charts with google sheets import capabilites.
 * [sigma.js ★7474](https://github.com/jacomyal/sigma.js) - Graphs / Network diagram library built with canvas.
 * [Smoothie Charts ★1670](https://github.com/joewalnes/smoothie) - JavaScript charts for realtime streaming data.
@@ -71,8 +71,8 @@ A curated list of chart and dataviz resources that developers may find useful. F
 * [JQuery-linechart](https://github.com/kirillstepkin/jquery-linechart) - Simple and lightweight library for creating line charts
 
 ### React
-* [Formiddable ★4941](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
-* [react-d3 ★1653 ⏳1Y](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
+* [Formiddable ★5097](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
+* [react-d3 ★1664 ⏳1Y](https://github.com/esbullington/react-d3) - Charting library that relies on React for generating SVG markup and d3 to calculate path values.
 * [react-vis](https://github.com/uber-common/react-vis) - A collection of React components to render common data visualization charts
 * [recharts](http://recharts.org) - Redefined chart library built with React and D3
 

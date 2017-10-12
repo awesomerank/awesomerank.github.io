@@ -59,7 +59,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 ## Libraries and Tools
 
 - [UpUp](http://upup.rocks/) - A popular service worker library providing complete offline functionality for your site in 1 line of code.
-- [sw-toolbox ★2753](https://github.com/GoogleChrome/sw-toolbox) - A collection of simple helpers to simplify implementing common runtime caching patterns.
+- [sw-toolbox](https://github.com/GoogleChrome/sw-toolbox/) - A collection of simple helpers to simplify implementing common runtime caching patterns.
 - [Manifest Generator](https://brucelawson.github.io/manifest/) - Generate a web app manifest, required for push notifications and installable web apps.
 - [sw-precache ★3620](https://github.com/GoogleChrome/sw-precache) - Generates a service worker to cache your local App Shell resources.
 - [sw-offline-google-analytics](https://github.com/GoogleChrome/sw-helpers/tree/master/packages/sw-offline-google-analytics) - A service worker helper library to retry offline Google Analytics requests when a connection is available.

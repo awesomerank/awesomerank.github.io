@@ -344,7 +344,7 @@ These frameworks make customizing your zsh setup easier.
 * [osx-dev-zsh-plugin ★7 ⏳1Y](https://github.com/marshallmick007/osx-dev-zsh-plugin) - This plugin adds some commands for maintaining various server programs on my OSX install.
 * [pantheon-terminal-notify-zsh-plugin ★9 ⏳2Y](https://github.com/deyvisonrocha/pantheon-terminal-notify-zsh-plugin) - Background notifications for long running commands. Supports Elementary OS Freya.
 * [pctl ★5](https://github.com/ytet5uy4/pctl) - Toggle the environment variables for proxying.
-* [phpcs.plugin.zsh](https://github.com/voronkovich/phpcs.plugin.zsh) - Plugin for [PHP code sniffer ★3876](https://github.com/squizlabs/PHP_CodeSniffer).
+* [phpcs.plugin.zsh](https://github.com/voronkovich/phpcs.plugin.zsh) - Plugin for [PHP code sniffer ★3973](https://github.com/squizlabs/PHP_CodeSniffer).
 * [phpunit.plugin.zsh ★1](https://github.com/voronkovich/phpunit.plugin.zsh) - Plugin for [PHPUnit](https://phpunit.de/).
 * [pip-app ★24](https://github.com/sharat87/pip-app) - Makes it easy to install python applications into distinct virtualenvs so they don't conflict with any other python requirements on your system.
 * [plugin](https://github.com/hellodarren/plugin) - Creates custom oh-my-zsh plugins from a boilerplate template. Very oh-my-zsh centric, the generated plugins will need editing to work with other frameworks.
@@ -564,7 +564,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [asciigit ★0](https://github.com/cemsbr/asciigit) - An ASCII-only theme for git users who don't want to use fonts with extra glyphs.
 * [astro](https://github.com/iplaces/astro-zsh-theme/blob/master/README.md) - Based on [`ys`](http://blog.ysmood.org/my-ys-terminal-theme/) theme and `robbyrushell` (default theme) theme.
 * [avit-d2k ★7 ⏳1Y](https://github.com/fdaciuk/avit-da2k) - Based on Avit, with small changes.
-* [bandit ★0](https://github.com/Holger-Will/zsh_bandit) - Another Powerline variant.
+* [bandit ★0 ⏳1Y](https://github.com/Holger-Will/zsh_bandit) - Another Powerline variant.
 * [bashi](https://github.com/eli-oat/bashi) - Optimized for Ahmet Sülek's [Flat UI Terminal Theme](https://github.com/ahmetsulek/flat-terminal) and Pasquale D'Silva's [Saturn Terminal Theme ★73 ⏳1Y](https://github.com/psql/saturn-colors).
 * [bilibili ★5](https://github.com/jingjinghack/bilibili-zshtheme) - BiliBili Theme
 * [bklyn](https://github.com/gporrata/bklyn-zsh) - Variant of [Powerlevel9k ★2737](https://github.com/bhilburn/powerlevel9k) with customizations applied.
@@ -683,6 +683,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [planet](https://github.com/aphlor/planet-zsh) - A slimmed down version of [steef](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/steeef.zsh-theme) from [oh-my-zsh ★59063](https://github.com/robbyrussell/oh-my-zsh).
 * [platypus ★0 ⏳3Y](https://github.com/fdv/platypus) - Platypus is a simple and convenient theme for oh-my-zsh used by Frédéric de Villamil.
 * [poncho ★4 ⏳1Y](https://github.com/RainyDayMedia/oh-my-zsh-poncho) - RDM's basic oh-my-zsh custom theme.
+* [poor-programmer ★0](https://github.com/vishaltelangre/poor-programmer.zsh-theme) - Programmer's theme with git status, ruby version and project path.
 * [powerless ★38](https://github.com/martinrotter/powerless) - Tiny & simple pure ZSH prompt inspired by powerline.
 * [powerlevel9k ★2737](https://github.com/bhilburn/powerlevel9k) - A very flexible theme based on the well-known agnoster-theme with support for various VCS, AWS, rbenv, virtualenv, etc. Works with vanilla ZSH as well as the various ZSH frameworks.
 * [powerline-cute](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - Based on [bullet-train](https://github.com/caiogondim/bullet-train-oh-my-zsh-theme).

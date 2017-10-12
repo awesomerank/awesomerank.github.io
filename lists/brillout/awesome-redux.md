@@ -51,10 +51,10 @@ title: Awesome Rank for brillout/awesome-redux
  - [rereduce ★164 ⏳1Y](https://github.com/slorber/rereduce) - Reducer library for Redux.
  - [redux-search](https://github.com/treasure-data/redux-search) - Redux bindings for client-side search.
  - [redux-logger ★2549](https://github.com/evgenyrodionov/redux-logger) - Logger middleware for Redux.
- - [redux-immutable ★1213](https://github.com/gajus/redux-immutable) - Redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
- - [reselect ★8463](https://github.com/reactjs/reselect) - Selector library for Redux.
+ - [redux-immutable ★1250](https://github.com/gajus/redux-immutable) - Redux-immutable is used to create an equivalent function of Redux combineReducers that works with Immutable.js state.
+ - [reselect ★8823](https://github.com/reactjs/reselect) - Selector library for Redux.
  - [redux-requests ★234 ⏳2Y](https://github.com/idolize/redux-requests) - Manages in-flight requests with a Redux reducer to avoid issuing duplicate requests.
- - [redux-undo ★1544](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers.
+ - [redux-undo ★1573](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers.
  - [redux-bug-reporter ★504](https://github.com/dtschust/redux-bug-reporter) - Bug reporter and bug playback tool for Redux.
  - [redux-transducers ★117 ⏳1Y](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
 
@@ -72,12 +72,12 @@ title: Awesome Rank for brillout/awesome-redux
  - [redux-saga](https://github.com/yelouafi/redux-saga) - Alternative side effect model for Redux apps.
  - [redux-promise-middleware ★1091](https://github.com/pburtchaell/redux-promise-middleware) - Redux middleware for resolving and rejecting promises with conditional optimistic updates.
  - [redux-effects ★461](https://github.com/redux-effects/redux-effects) - You write pure functions, redux-effects handles the rest.
- - [redux-thunk ★6336](https://github.com/gaearon/redux-thunk) - Thunk middleware for Redux.
+ - [redux-thunk ★6601](https://github.com/gaearon/redux-thunk) - Thunk middleware for Redux.
  - [redux-connect ★442](https://github.com/makeomatic/redux-connect) - Provides decorator for resolving async props in react-router, extremely useful for handling server-side rendering in React.
  - [redux-loop ★1355](https://github.com/redux-loop/redux-loop) - Port of elm-effects and the Elm Architecture to Redux that allows you to sequence your effects naturally and purely by returning them from your reducers.
  - [redux-side-effects ★167 ⏳1Y](https://github.com/salsita/redux-side-effects) - Redux toolset for keeping all the side effects inside your reducers while maintaining their purity.
  - [redux-logic ★851](https://github.com/jeffbski/redux-logic) - Redux middleware for organizing business logic and action side effects.
- - [redux-observable ★3574](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;.
+ - [redux-observable ★3763](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;.
  - [redux-ship ★597](https://github.com/clarus/redux-ship) - Composable, testable and typable side effects.
 
 
@@ -94,7 +94,7 @@ title: Awesome Rank for brillout/awesome-redux
  - [redux-devtools-inspector ★228](https://github.com/alexkuz/redux-devtools-inspector) - Another Redux DevTools Monitor.
  - [redux-diff-logger](https://github.com/fcomb/redux-diff-logger) - Diff logger between states for Redux.
  - [redux-devtools-chart-monitor ★241](https://github.com/romseguy/redux-devtools-chart-monitor) - Chart monitor for Redux DevTools.
- - [redux-devtools ★8365](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
+ - [redux-devtools ★8530](https://github.com/gaearon/redux-devtools) - DevTools for Redux with hot reloading, action replay, and customizable UI.
  - [redux-devtools-dispatch ★137](https://github.com/YoruNoHikage/redux-devtools-dispatch) - Dispatch your actions manually to test if your app Reacts well.
  - [redux-devtools-dock-monitor ★320](https://github.com/gaearon/redux-devtools-dock-monitor) - Resizable and movable dock for Redux DevTools monitors.
  - [redux-devtools-filterable-log-monitor ★131](https://github.com/bvaughn/redux-devtools-filterable-log-monitor) - Filterable tree view monitor for Redux DevTools.
@@ -105,7 +105,7 @@ title: Awesome Rank for brillout/awesome-redux
 ## React Integration
 
  - [redux-test-recorder ★408 ⏳1Y](https://github.com/conorhastings/redux-test-recorder) - Redux middleware to automatically generate tests for reducers through ui interaction.
- - [react-redux ★9145](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
+ - [react-redux ★9470](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
  - [react-easy-universal ★210 ⏳1Y](https://github.com/keystonejs/react-easy-universal) - Universal Routing &amp; Rendering with React &amp; Redux was too hard. Now it&#39;s easy.
  - [redux-form-material-ui ★443](https://github.com/erikras/redux-form-material-ui) - Set of wrapper components to facilitate using Material UI with Redux Form.
 
@@ -115,13 +115,13 @@ title: Awesome Rank for brillout/awesome-redux
  - [redux-async-connect ★596](https://github.com/Rezonans/redux-async-connect) - It allows you to request async data, store them in Redux state and connect them to your React component.
  - [redux-tiny-router ★138 ⏳1Y](https://github.com/Agamennon/redux-tiny-router) - Router made for Redux and made for universal apps. Stop using the router as a controller, it's just state.
  - [redux-router ★2218](https://github.com/acdlite/redux-router) - Redux bindings for React Router &ndash; keep your router state inside your Redux store.
- - [react-router-redux ★6548](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and Redux in sync.
+ - [react-router-redux ★6667](https://github.com/reactjs/react-router-redux) - Ruthlessly simple bindings to keep react-router and Redux in sync.
  - [ground-control ★272 ⏳1Y](https://github.com/raisemarketplace/ground-control) - Scalable reducer management &amp; powerful data fetching for React Router &amp; Redux.
 
 
 ### Forms
 
- - [redux-form ★7455](https://github.com/erikras/redux-form) - Higher Order Component using react-redux to keep form state in a Redux store.
+ - [redux-form ★7714](https://github.com/erikras/redux-form) - Higher Order Component using react-redux to keep form state in a Redux store.
  - [react-redux-form ★1505](https://github.com/davidkpiano/react-redux-form) - Create forms easily in React with Redux.
 
 
@@ -147,12 +147,12 @@ title: Awesome Rank for brillout/awesome-redux
 
 ### Falcor
 
- - [redux-falcor ★383](https://github.com/ekosz/redux-falcor) - Connect your Redux front-end to your falcor back-end.
+ - [redux-falcor ★383 ⏳1Y](https://github.com/ekosz/redux-falcor) - Connect your Redux front-end to your falcor back-end.
 
 
 ### RxJS
 
- - [redux-observable ★3574](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;.
+ - [redux-observable ★3763](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;.
  - [rx-redux ★285 ⏳2Y](https://github.com/jas-chen/rx-redux) - Reimplementation of Redux using RxJS.
  - [redux-rx ★917 ⏳1Y](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
  - [redurx ★94](https://github.com/shiftyp/redurx) - Redux&#39;ish Functional State Management using RxJS.

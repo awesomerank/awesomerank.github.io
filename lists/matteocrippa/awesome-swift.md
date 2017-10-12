@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-920-orange.svg) | October 11, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-922-orange.svg) | October 12, 2017
 
 ### Contributing
 
@@ -596,6 +596,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Dependency injection libs* [back to top](#readme) 
 
 * [Cleanse ★924](https://github.com/square/Cleanse) - A Lightweight Dependency Injection Framework by Square.
+* [Corridor ★19](https://github.com/symentis/Corridor) - A Coreader-like Dependency Injection μFramework.
 * [Dip ★537](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 * [Swinject ★1844](https://github.com/Swinject/Swinject) - A dependency injection framework.
 * [Typhoon ★2240](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit.
@@ -1163,7 +1164,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [GMStepper ★554](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [GRMustache ★401](https://github.com/groue/GRMustache.swift) - Flexible Mustache templates.
 * [GrowingTextView ★148](https://github.com/KennethTsang/GrowingTextView) - UITextView that supports auto growing, placeholder and length limit.
-* [Hexacon ★242](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
+* [Hexacon ★242 ⏳1Y](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard.
 * [HGCircularSlider ★915](https://github.com/HamzaGhazouani/HGCircularSlider) - A custom reusable circular slider control for iOS application.
 * [HoneycombView ★190 ⏳1Y](https://github.com/suzuki-0000/HoneycombView) - HoneycombView is the iOS UIView for displaying like Honyecomb layout.
 * [HorizontalDial ★93](https://github.com/kciter/HorizontalDial) - A horizontal scroll dial like Instagram.
@@ -1237,7 +1238,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AlertKit ★18 ⏳1Y](https://github.com/thii/AlertKit) - Alert with a single line of code.
 * [CDAlertView ★714](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
 * [EZAlertController ★273](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
-* [GoogleWearAlert ★445](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
+* [GoogleWearAlert ★445 ⏳1Y](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [GSMessage ★240](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.
 * [Hokusai ★376](https://github.com/ytakzk/Hokusai) - A library for a cool bouncy action sheet.
 * [HYAlertController ★51](https://github.com/castial/HYAlertController) - A simple and minimalist iOS AlertController.
@@ -1490,6 +1491,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Basis ★306 ⏳1Y](https://github.com/typelift/Basis) - Pure Declarative Programming.
 * [Butterfly ★404 ⏳1Y](https://github.com/wongzigii/Butterfly) - A lightweight library for integrating bug-report and feedback features with shake-motion event.
 * [CallbackURLKit ★192](https://github.com/phimage/CallbackURLKit) - Implementation of x-callback-url (Inter app communication).
+* [Closures ★3](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation.
 * [Cormorant ★129](https://github.com/austinzheng/Cormorant) - Clojure(ish) interpreter.
 * [Curry ★361](https://github.com/thoughtbot/Curry) - Function currying.
 * [Dollar ★3715](https://github.com/ankurp/Dollar) - Similar to Lo-Dash or Underscore in Javascript.

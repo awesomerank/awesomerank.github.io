@@ -186,29 +186,29 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [dephpend ★212](https://github.com/mihaeu/dephpend) - Dependency analysis tool
 * [deptrac ★534](https://github.com/sensiolabs-de/deptrac) - Enforce rules for dependencies between software layers.
 * [DesignPatternDetector ★72](https://github.com/Halleck45/DesignPatternDetector) - detection of design patterns in PHP code
-* [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - combine [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ★4812](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-* [exakat ★77](https://github.com/exakat/exakat) - An automated code reviewing engine for PHP
-* [GrumPHP ★1887](https://github.com/phpro/grumphp) - checks code on every commit
-* [Mondrian ★333 ⏳2Y](https://github.com/Trismegiste/Mondrian) - a set of static analysis and refactoring tools which use graph theory
+* [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - combine [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ★4903](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+* [exakat ★84](https://github.com/exakat/exakat) - An automated code reviewing engine for PHP
+* [GrumPHP ★1919](https://github.com/phpro/grumphp) - checks code on every commit
+* [Mondrian ★335 ⏳2Y](https://github.com/Trismegiste/Mondrian) - a set of static analysis and refactoring tools which use graph theory
 * [Parse ★160](https://github.com/psecio/parse) - A Static Security Scanner
 * [phan](https://github.com/etsy/phan) - a modern static analyzer from etsy
 * [Php Inspections (EA Extended) ★362](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP.
-* [PHP Refactoring Browser ★547](https://github.com/QafooLabs/php-refactoring-browser) - Refactoring helper
-* [PHP-Parser ★3020](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
+* [PHP Refactoring Browser ★549](https://github.com/QafooLabs/php-refactoring-browser) - Refactoring helper
+* [PHP-Parser ★3068](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 * [PHP-Token-Reflection ★186](https://github.com/Andrewsville/PHP-Token-Reflection) - Library emulating the PHP internal reflection
 * [php7cc ★1142](https://github.com/sstalle/php7cc) - PHP 7 Compatibility Checker
 * [php7mar ★484](https://github.com/Alexia/php7mar) - assist developers in porting their code quickly to PHP 7
-* [PHP_CodeSniffer ★3876](https://github.com/squizlabs/PHP_CodeSniffer) - detects violations of a defined set of coding standards
-* [phpcpd ★1288](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
+* [PHP_CodeSniffer ★3973](https://github.com/squizlabs/PHP_CodeSniffer) - detects violations of a defined set of coding standards
+* [phpcpd ★1308](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
 * [phpdcd ★342 ⏳2Y](https://github.com/sebastianbergmann/phpdcd) - Dead Code Detector (DCD) for PHP code.
-* [PhpDependencyAnalysis ★279](https://github.com/mamuz/PhpDependencyAnalysis) - builds a dependency graph for a project
+* [PhpDependencyAnalysis ★280](https://github.com/mamuz/PhpDependencyAnalysis) - builds a dependency graph for a project
 * [phpdoc-to-typehint ★202](https://github.com/dunglas/phpdoc-to-typehint) - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations
 * [PHPMD](https://phpmd.org/) - finds possible bugs in your code
 * [PhpMetrics](https://github.com/Halleck45/PhpMetrics) - calculates code complexity metrics
-* [PHPQA ★156](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics)
+* [PHPQA ★161](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics)
 * [phpqa ★319](https://github.com/jmolivas/phpqa) - PHPQA all-in-one Analyzer CLI tool
 * [phpsa ★615](https://github.com/ovr/phpsa) - Static analysis tool for PHP.
-* [PHPStan ★2193](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
+* [PHPStan ★2263](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 * [Psalm ★400](https://github.com/vimeo/psalm) - Static analysis tool for finding errors in PHP applications
 * [RIPS ★146 ⏳1Y](https://github.com/ripsscanner/rips) - A static source code analyser for vulnerabilities in PHP scripts
 * [Tuli ★161 ⏳1Y](https://github.com/ircmaxell/Tuli) - A static analysis engine
@@ -291,7 +291,7 @@ Wrappers:
 ## TypeScript
 
 * [Codelyzer ★1310](https://github.com/mgechev/codelyzer) - A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
-* [TSLint ★2298](https://github.com/palantir/tslint) - An extensible linter for the TypeScript language.
+* [TSLint ★2400](https://github.com/palantir/tslint) - An extensible linter for the TypeScript language.
 * [tslint-microsoft-contrib ★212](https://github.com/Microsoft/tslint-microsoft-contrib) - A set of tslint rules for static code analysis of TypeScript projects maintained by Microsoft.
 
 # Multiple languages

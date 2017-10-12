@@ -89,6 +89,7 @@ Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7
     - [Oakland, CA <a id="oakland-ca"></a>](#oakland-ca-)
     - [Palo Alto, CA <a id="palo-alto-ca"></a>](#palo-alto-ca-)
     - [San Jose, CA](#san-jose-ca)
+    - [Santa Monica, CA <a id="santa-monica-ca"></a>](#santa-monica-ca-)
   - [Illinois](#illinois)
     - [Chicago, IL <a id="chicago-il"></a>](#chicago-il-)
   - [Massachusetts <a id="massachusetts"></a>](#massachusetts-)
@@ -799,6 +800,17 @@ Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) |
 
+
+#### Confeitaria Lisboa
+
+> Well lit, great croissants.
+
+Webpage: http://4sq.com/1JRQG4q
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ❄️/♨️ | [Av. Joao XXI Lisboa](https://goo.gl/AadA8A) | Mon-Sat 7:30AM:8PM
+
 #### Copenhagen Coffee Lab, Lisboa
 
 > Pour over, aeropress, espressoo - this place has got it all.
@@ -854,6 +866,16 @@ Webpage: http://www.poiscafe.com/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Rua S. João da Praça, 93-95 Lisboa](https://goo.gl/maps/Wj6aHXwyWYU2) |
+
+#### Royale Café
+
+> Quiet and friendly staff. A bit on the pricey $$ side though.
+
+Webpage: http://www.royalecafe.com
+
+Wifi | Power | Climatization  | Address | Open Hours
+---- | ----- | -------------- | ------- | ----------
+✔ | ✔ | ❄️/♨️ | [Largo Rafael Bordalo Pinheiro 29 R/C Lisboa](https://goo.gl/maps/Eho6a8ufqRQ2) | Mon-Wed 12-11pm & Thu-Sun 12pm-12am
 
 #### Strudel
 
@@ -1237,6 +1259,18 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 ask | ✔ | ✔ | [315 S 1st St, San Jose, CA 95113](https://goo.gl/maps/VRUZDfDBakM2) | Mon-Thu 7:30-22:00, Fri-Sat 8:00-00:00, Sun 8:00-21:00
 
+### Santa Monica, CA
+
+#### Refinery
+
+> Greate coffee and usually has available seating. Wifi is *shit*.
+
+Webpage: http://the-refinery.cafes-city.com/
+
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | ------ | ------- | ----------
+(✔) | ✔ | ✔ | [413 Santa Monica Blvd, Santa Monica, CA 90401](https://goo.gl/maps/uBJQacVNWd62) | Mon-Fri 7:30-18:00, Sat 8:00-18:00, Sun *closed*
+
 ## Illinois
 
 ### Chicago, IL <a id="chicago-il"></a>
@@ -1331,7 +1365,10 @@ Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | ------ | ------- | ----------
 paying | ✔ | ✔ | [257 Elm St, Somerville, MA 02144](https://goo.gl/maps/a8i57bKwvDz) | Mon-Fri 06:00-23:00, Sat-Sun 07:00-23:00
 
-Note: Contact [@richlitt](https://twitter.com/richlitt) for wifi password if needed.
+Notes:
+* Contact [@richlitt](https://twitter.com/richlitt) for wifi password if needed.
+* You get 45m of free wifi per day. More if you know what you're doing ;) (but $14/mo for wifi is worth it if you hack there often)
+* Using IPFS will get you kicked off their network in ~2hr (FYI).
 
 #### Forge Baking Company
 

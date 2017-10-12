@@ -57,7 +57,7 @@ A kata, or code kata, is defined as an exercise in programming which helps hone 
   - [Tiny Maze](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/tiny-maze)
   - [Wonderland Number](https://github.com/gigasquid/wonderland-clojure-katas/tree/master/wonderland-number)
 
-## [SensioLabs PoleDev Katas ★0 ⏳1Y](https://github.com/devdrops/Katas)
+## [SensioLabs PoleDev Katas ★0 ⏳2Y](https://github.com/devdrops/Katas)
   - [Kata 1: (Form) DataTransformer](https://github.com/devdrops/Katas/tree/kata-data-transformers)
   - [Kata 2: (EventDispatcher) Event Listener / Event Dispatcher](https://github.com/devdrops/Katas/tree/kata-event-listener)
   - [Kata 3: (Form) Inherit data / Virtual Form](https://github.com/devdrops/Katas/tree/kata-inherit-data)

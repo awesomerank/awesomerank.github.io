@@ -292,7 +292,7 @@ anylysis and visualization.*
 ## Machine Learning
 
   * [clj-ml ★138 ⏳1Y](https://github.com/antoniogarrote/clj-ml)
-  * [cortex ★786](https://github.com/thinktopic/cortex)
+  * [cortex ★810](https://github.com/thinktopic/cortex)
   * [clj-bigml ★48](https://github.com/bigmlcom/clj-bigml)
   * [Clatern ★66 ⏳2Y](https://github.com/rinuboney/clatern)
   * [Deeplearning4j ★7294](https://github.com/deeplearning4j/deeplearning4j)

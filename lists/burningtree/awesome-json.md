@@ -219,7 +219,7 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
 
 ## Linters
 * [jsonlint ★1122](https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (Javascript)
-* [JSON Lint ★243](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
+* [JSON Lint ★245](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
 
 ## Online tools
 * [JSON Data Ninja](http://www.jsondata.ninja) - The most productive way to visualize and explore tabular JSON data.
@@ -302,7 +302,7 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
 * [osmtogeojson ★256](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
 * [x2js ★533](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
 * [JSONC ★396](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
-* [JsonMapper ★680](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
+* [JsonMapper ★686](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 * [SassyJSON ★172](https://github.com/HugoGiraudel/SassyJSON) - Sass-powered API. (Sass)
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
 * [JSONtoFoundation ★42 ⏳2Y](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
@@ -311,7 +311,7 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
 * [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
 * [jsontl ★5 ⏳2Y](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
 * [json-transforms ★25 ⏳1Y](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
-* [normalizr ★9888](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (Javascript)
+* [normalizr ★10249](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (Javascript)
 * [JSON-populate ★3](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
 * [CircularJSON ★239](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 

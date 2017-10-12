@@ -836,6 +836,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [A closer look at Microsoft’s Azure Event Grid](https://thenewstack.io/closer-look-azure-event-grid/) - Post on what the Azure Event Grid is and how it can be used.
 - [Run any containerized CLI app as a serverless function](https://thenewstack.io/openfaas-put-serverless-function-container/) - Post which explains and discusses the OpenFaaS project.
 - [How to plan a team retreat](https://serverless.com/blog/how-to-plan-a-team-retreat/) - Insights how Serverless, Inc. plans and executes team retreats.
+- [ServerlessConf NY 2017 recap](https://serverless.com/blog/serverless-conf-2017-nyc-recap/) - Recap post about ServerlessConf NY 2017.
+- [Monitoring serverless performance to manage cost](https://thenewstack.io/serverlessconf-new-york-monitoring-serverless-performance-manage-cost/) - How the monitoring of serverless applications also uncovers potential performance optimizations.
 
 ## Screencasts
 
@@ -1395,6 +1397,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless chat ★38](https://github.com/danilop/serverless-chat) - Web chat built using AWS Lambda, AWS IoT (for WebSockets) and Amazon DynamoDB.
 - [Fn Project](http://fnproject.io) - The container native serverless framework ([GitHub repository ★536](https://github.com/fnproject/fn)).
 - [Bender ★82](https://github.com/nextdoor/bender) - Serverless ETL framework.
+- [Serverless design patterns](http://serverlessdesignpatterns.com) - Initiative to work on and establish serverless design patterns.
 
 ## Plugins
 
@@ -1569,6 +1572,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework).
 - [Serverless Architectures on AWS - By Peter Sbarski & Sam Kroonenburg](http://book.acloud.guru) - Book focused on covering serverless architectures using AWS.
 - [Agile development for serverless platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) - How to apply agile practices in fully serverless architectures.
+- [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) - An example-driven tutorial that teaches you how to build applications that use an event-driven approach on the back end.
 - [Introduction to serverless computing with AWS Lambda](https://www.contino.io/files/Contino-Introduction-to-Serverless-Computing-with-AWS-Lambda.pdf) - Guide about serverless computing on AWS Lambda.
 - [Going serverless](https://leanpub.com/going-serverless) - Building scalable applications with the Serverless Framework and AWS Lambda.
 - [AWS Lambda, Kinesis & Serverless Framework](https://www.udemy.com/code-along-aws-lambda-kinesis-serverless-framework/) - Udemy Course on the Serverless Framework.
@@ -1674,7 +1678,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 ### Modules
 
 - [npm registry ★9 ⏳1Y](https://github.com/Inbot/awsm-npm-registry) - npm registry.
-- [Users ★23 ⏳1Y](https://github.com/dekz/awsm-users) - AWSM module for authentication.
+- [Users ★23 ⏳2Y](https://github.com/dekz/awsm-users) - AWSM module for authentication.
 - [Test AWS users library ★0 ⏳2Y](https://github.com/oren/test-awsm-users) - Test AWSM users.
 - [Stripe webhook ★18 ⏳1Y](https://github.com/eahefnawy/serverless-stripe-webhook) - Webhook for Stripe payments.
 - [Slack webhook ★7 ⏳1Y](https://github.com/eahefnawy/serverless-slack-webhook) - Webhook for Slack.

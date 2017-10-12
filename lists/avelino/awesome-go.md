@@ -713,7 +713,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-nsq ★878](https://github.com/nsqio/go-nsq) - the official Go package for NSQ.
 * [go-socket.io ★1858](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework.
 * [go-vitotrol ★2](https://github.com/maxatome/go-vitotrol) - Client library to Viessmann Vitotrol web service.
-* [Gollum ★558](https://github.com/trivago/gollum) - A n:m multiplexer that gathers messages from different sources and broadcasts them to a set of destinations.
+* [Gollum ★561](https://github.com/trivago/gollum) - A n:m multiplexer that gathers messages from different sources and broadcasts them to a set of destinations.
 * [golongpoll ★346 ⏳1Y](https://github.com/jcuga/golongpoll) - HTTP longpoll server library that makes web pub-sub simple.
 * [goose ★29 ⏳2Y](https://github.com/ian-kent/goose) - Server Sent Events in Go.
 * [gopush-cluster ★1574](https://github.com/Terry-Mao/gopush-cluster) - gopush-cluster is a go push server cluster.
@@ -743,6 +743,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [battery ★72](https://github.com/distatus/battery) - Cross-platform, normalized battery information library.
 * [bitio ★32](https://github.com/icza/bitio) - Highly optimized bit-level Reader and Writer for Go.
 * [browscap_go ★24 ⏳1Y](https://github.com/digitalcrab/browscap_go) - GoLang Library for [Browser Capabilities Project](http://browscap.org/).
+* [captcha ★1](https://github.com/steambap/captcha) - Package captcha provides an easy to use, unopinionated API for captcha generation.
 * [conv ★303](https://github.com/cstockton/go-conv) - Package conv provides fast and intuitive conversions across Go types.
 * [datacounter ★19](https://github.com/miolini/datacounter) - Go counters for readers/writer/http.ResponseWriter.
 * [errors ★2268](https://github.com/pkg/errors) - Package that provides simple error handling primitives.
@@ -793,7 +794,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [icu ★14](https://github.com/goodsign/icu) - Cgo binding for icu4c C library detection and conversion functions. Guaranteed compatibility with version 50.1.
 * [libtextcat ★8 ⏳4Y](https://github.com/goodsign/libtextcat) - Cgo binding for libtextcat C library. Guaranteed compatibility with version 2.2.
 * [MMSEGO ★53 ⏳5Y](https://github.com/awsong/MMSEGO) - This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm.
-* [nlp ★288](https://github.com/Shixzie/nlp) - Extract values from strings and fill your structs with nlp.
+* [nlp ★293](https://github.com/Shixzie/nlp) - Extract values from strings and fill your structs with nlp.
 * [nlp ★64](https://github.com/james-bowman/nlp) - Go Natural Language Processing library supporting LSA (Latent Semantic Analysis).
 * [paicehusk ★18 ⏳3Y](https://github.com/rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
 * [porter ★5 ⏳4Y](https://github.com/a2800276/porter) - This is a fairly straightforward port of Martin Porter's C implementation of the Porter stemming algorithm.
@@ -816,7 +817,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [arp ★98](https://github.com/mdlayher/arp) - Package arp implements the ARP protocol, as described in RFC 826.
 * [buffstreams ★176](https://github.com/stabbycutyou/buffstreams) - Streaming protocolbuffer data over TCP made easy.
 * [canopus ★84](https://github.com/zubairhamed/canopus) - CoAP Client/Server implementation (RFC 7252).
-* [cidranger ★175](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup for Go.
+* [cidranger ★196](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup for Go.
 * [dhcp6 ★27](https://github.com/mdlayher/dhcp6) - Package dhcp6 implements a DHCPv6 server, as described in RFC 3315.
 * [dns ★2337](https://github.com/miekg/dns) - Go library for working with DNS.
 * [ether ★44 ⏳1Y](https://github.com/songgao/ether) - Cross-platform Go package for sending and receiving ethernet frames.
@@ -871,7 +872,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [beego orm](https://github.com/astaxie/beego/tree/master/orm) - Powerful orm framework for go. Support: pq/mysql/sqlite3.
 * [go-pg ★1149](https://github.com/go-pg/pg) - PostgreSQL ORM with focus on PostgreSQL specific features and performance.
-* [go-queryset ★108](https://github.com/jirfag/go-queryset) - 100% type-safe ORM with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support based on GORM.
+* [go-queryset ★212](https://github.com/jirfag/go-queryset) - 100% type-safe ORM with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support based on GORM.
 * [go-store ★84](https://github.com/gosuri/go-store) - Simple and fast Redis backed key-value store library for Go.
 * [gomodel ★55](https://github.com/cosiner/gomodel) - Lightweight, fast, orm-like library helps interactive with database.
 * [GORM ★6712](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly.
@@ -962,7 +963,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [BadActor ★206](https://github.com/jaredfolkins/badactor) - In-memory, application-driven jailer built in the spirit of fail2ban.
 * [go-yara](https://github.com/hillu/go-yara) - Go Bindings for [YARA ★49 ⏳1Y](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
 * [lego ★2099](https://github.com/xenolf/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
-* [memguard ★615](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
+* [memguard ★639](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
 * [passlib ★165 ⏳1Y](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 * [secure ★769](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 * [simple-scrypt ★118](https://github.com/elithrar/simple-scrypt) - Scrypt package with a simple, obvious API and automatic cost calibration built-in.

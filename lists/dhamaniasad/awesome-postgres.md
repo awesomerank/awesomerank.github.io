@@ -65,7 +65,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [pgAdmin](https://www.pgadmin.org/) - PostgreSQL Administration and Management GUI.
 * [pgModeler](https://www.pgmodeler.com.br/) - pgModeler is an open-source PostgreSQL Database Modeler.
 * [pgweb ★4532](https://github.com/sosedoff/pgweb) - Web-based PostgreSQL database browser written in Go.
-* [phpPgAdmin ★244](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
+* [phpPgAdmin ★246](https://github.com/phppgadmin/phppgadmin) - The Premier Web Based Administration Tool for PostgreSQL.
 * [Postbird ★180](https://github.com/Paxa/postbird) - PostgreSQL Client for macOS.
 * [Postico](https://eggerapps.at/postico/) - Modern PostgreSQL Client for macOS (Commercial Software).
 * [PSequel](http://www.psequel.com/) - Clean and simple interface to perform common PostgreSQL tasks quickly (Commercial Software).
@@ -144,7 +144,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * Elixir: [postgrex ★468](https://github.com/elixir-ecto/postgrex)
 * Go: [pgx ★1116](https://github.com/jackc/pgx)
 * Java: [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/)
-* .Net/.Net Core: [Npgsql ★1038](https://github.com/npgsql/npgsql)
+* .Net/.Net Core: [Npgsql ★1053](https://github.com/npgsql/npgsql)
 * Node: [node-postgres](https://github.com/brianc/node-postgres), [pg-promise ★1435](https://github.com/vitaly-t/pg-promise)
 * Perl: [DBD-Pg](http://search.cpan.org/~turnstep/DBD-Pg/Pg.pm)
 * PHP: [Pomm](http://www.pomm-project.org), [pecl/pq ★14](https://github.com/m6w6/ext-pq)

@@ -336,7 +336,7 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 * [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
 * [ReText ★658](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 * [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
-* [eme ★1582](https://github.com/egoist/eme) (`Win`,`Mac`,`Linux`): Math support.
+* [eme ★1608](https://github.com/egoist/eme) (`Win`,`Mac`,`Linux`): Math support.
 * [Moeditor](https://moeditor.org/) (`Win`,`Mac`,`Linux`): All purpose markdown editor.
 
 Notebook softwares that you can write in Markdown:

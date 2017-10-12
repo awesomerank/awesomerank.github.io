@@ -81,7 +81,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * [CoffeeScript ★35](https://github.com/BrunoRB/algorithms.coffee)
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
-    * [by @aalhour ★1247](https://github.com/aalhour/C-Sharp-Algorithms)
+    * [by @aalhour ★1274](https://github.com/aalhour/C-Sharp-Algorithms)
     * [by @justcoding121 ★8](https://github.com/justcoding121/Advanced-Algorithms)
 * C++
     * [by @xtaci ★1761](https://github.com/xtaci/algorithms)

@@ -1099,7 +1099,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Protocols
 *Special protocol and format libraries.*
 
-* [elixir_radius ★8 ⏳1Y](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
+* [elixir_radius ★8 ⏳2Y](https://github.com/bearice/elixir-radius) - RADIUS Protocol on Elixir.
 * [ex_hl7 ★16](https://github.com/jcomellas/ex_hl7) - Health Level 7 (HL7) is a protocol designed to model and transfer health-related data electronically.
 * [ex_marshal ★28](https://github.com/gaynetdinov/ex_marshal) - Ruby Marshal format implemented in Elixir.
 * [exprotobuf ★284](https://github.com/bitwalker/exprotobuf) - Protocol Buffers in Elixir, made easy.
@@ -1206,7 +1206,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries for testing codebases and generating test data.*
 
 * [amrita ★205](https://github.com/josephwilk/amrita) - A polite, well mannered and thoroughly upstanding testing framework for Elixir.
-* [apocryphal ★12](https://github.com/coryodaniel/apocryphal) - Swagger based document driven development for ExUnit.
+* [apocryphal ★12 ⏳1Y](https://github.com/coryodaniel/apocryphal) - Swagger based document driven development for ExUnit.
 * [blacksmith ★145 ⏳1Y](https://github.com/batate/blacksmith) - Data generation framework for Elixir.
 * [blitzy ★67](https://github.com/benjamintanweihao/blitzy) - A simple HTTP load tester in Elixir.
 * [bypass ★328](https://github.com/pspdfkit-labs/bypass) - Bypass provides a quick way to create a mock HTTP server with a custom plug.
@@ -1420,7 +1420,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [qiita_ex ★6 ⏳2Y](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 * [qiniu ★51](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.
 * [random_user ★7 ⏳1Y](https://github.com/katgironpe/random_user) - An Elixir client for randomuser.me API.
-* [reap ★3 ⏳2Y](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
+* [reap ★3 ⏳3Y](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [reddhl ★4 ⏳1Y](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 * [redtube ★6 ⏳2Y](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
 * [reporter ★4](https://github.com/KazuCocoa/simple_app_reporter_ex) - Reporter is simple reporting App reviews library. Support AppStore and GooglePlay.
@@ -1438,7 +1438,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [telephonist ★27 ⏳1Y](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
 * [tentacat ★221](https://github.com/edgurgel/tentacat) - Simple Elixir wrapper for the GitHub API.
 * [tg_client ★10 ⏳1Y](https://github.com/ccsteam/ex-telegram-client) - An Elixir wrapper which communicates with the Telegram-CLI.
-* [traitify_elixir ★1 ⏳2Y](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
+* [traitify_elixir ★1 ⏳3Y](https://github.com/traitify/traitify_elixir) - An Elixir client library for the Traitify Developer's API.
 * [ui_faces ★1 ⏳1Y](https://github.com/katgironpe/ui_faces) - UIFaces API client for Elixir applications.
 * [unsplash-elixir ★5](https://github.com/waynehoover/unsplash-elixir) - An Elixir library for Unsplash.
 * [vultr ★1](https://github.com/avitex/elixir-vultr) - Simple wrapper for the Vultr API.

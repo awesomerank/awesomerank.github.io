@@ -11,7 +11,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 
 [![Join the chat at https://gitter.im/awesome-rails/Lobby](https://badges.gitter.im/awesome-rails/Lobby.svg)](https://gitter.im/awesome-rails/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
 
-> A curated list of awesome things related to Ruby on Rails (recent changes were inspired by [awesome-vue ★22096](https://github.com/vuejs/awesome-vue))
+> A curated list of awesome things related to Ruby on Rails (recent changes were inspired by [awesome-vue ★23597](https://github.com/vuejs/awesome-vue))
 
 ## Table of Contents
 <!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
@@ -117,7 +117,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [hummingbird ★1877](https://github.com/hummingbird-me/hummingbird) - A modern anime discovery platform that helps you track the anime you're watching, discover new anime and socialize with other fans
 - [inaturalist ★144](https://github.com/inaturalist/inaturalist) -  Open source Rails app behind iNaturalist.org [Live](http://www.inaturalist.org)
 - [intercityup.com ★36](https://github.com/intercity/intercity-next) -  Control Panel for hosting Ruby on Rails
-- [kanban ★531 ⏳1Y](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com)
+- [kanban ★531 ⏳2Y](https://github.com/somlor/kanban) - A Trello clone in Rails and Backbone.js  [Live](http://kanban.seanomlor.com)
 - [lavish ★708](https://github.com/mquan/lavish) - a rails app that generates Bootstrap color scheme from an image  [Live](http://www.lavishbootstrap.com)
 - [leihs ★49](https://github.com/leihs/leihs) - An easy inventory handling system  
 - [listenup ★19 ⏳3Y](https://github.com/ooofinooo/listenup) -  An application that allows users to search for songs and add them to friends playlist  [Live](http://listenup-songshare.herokuapp.com)

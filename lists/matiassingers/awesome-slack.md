@@ -319,7 +319,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [make-it-rain ★304 ⏳1Y](https://github.com/fitztrev/make-it-rain) - Animated gif notifications whenever you get paid through Stripe
 - [MantisBT-Slack ★40](https://github.com/infojunkie/MantisBT-Slack) - MantisBT plugin to send bug updates to Slack
 - [mediawiki-slack ★36 ⏳1Y](https://github.com/grundleborg/mediawiki-slack) - Mediawiki integration for Slack
-- [monolog ★6449](https://github.com/Seldaek/monolog) - Sends your logs to Slack
+- [monolog ★6553](https://github.com/Seldaek/monolog) - Sends your logs to Slack
 - [notifyme ★175](https://github.com/notifymehq/notifyme) - Provides a common interface for notification services
 - [opauth-slack ★1 ⏳2Y](https://github.com/t1mmen/opauth-slack) - Slack authentication strategy for Opauth
 - [phlack ★53 ⏳1Y](https://github.com/mcrumm/phlack) - PHP API Wrapper

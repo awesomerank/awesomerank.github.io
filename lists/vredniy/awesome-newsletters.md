@@ -29,7 +29,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Friday Front-end](https://zendev.com/friday-frontend.html). 15 great Front-end articles, tutorials, and announcements every Friday. Sections for CSS/SCSS, JavaScript, and other awesome stuff. [Archive](https://zendev.com/category/friday-frontend.html)
 
 ### General Web Development
-* [Weekend Reading](http://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
+* [Weekend Reading](https://tinyletter.com/assaf). A weekly email about Web development, design and the startup life.
 * [Web Development Reading List](https://wdrl.info). This Newsletter shares the latest articles in web development.
 * [Fullweb Weekly](http://fullweb.io/). A weekly newsletter for fullstack web developers. It sends you the top 5 link every week about web frontend and backend, devops and user experience.
 * [Pony Foo Weekly](https://ponyfoo.com/weekly). A weekly newsletter discussing interesting and trending topics around the web platform.
@@ -58,7 +58,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
 
 #### EmberJS
-* [EmberJS Weekly](http://emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
+* [EmberJS Weekly](http://www.emberweekly.com/). The latest Ember.js news, tips & code delivered directly to your inbox.
 
 #### VueJS
 * [Vue.js Newsletter](http://vue-newsletter.com/). Weekly dose of handpicked Vue.js news.
@@ -66,12 +66,13 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 ### Data Visualization
 * [Data Visualization & D3.js Weekly Newsletter](https://www.dashingd3js.com/data-visualization-and-d3-newsletter). Get D3.js and Data Visualization news, articles, jobs and more delivered to your inbox every Tuesday.
 * [Vizually Newsletter](https://vizually.io). Data Vizualization and Business Intelligence industry insights, news, and examples delivered bi-weekly.
+* [Best in Visual Storytelling](http://tinyletter.us16.list-manage1.com/subscribe?u=5c12dabe1e59a9fbde1174b8c&id=e27a48af53). Monday roundup of the best in data journalism from the past week. Paid version also includes data visualization job postings.
 
 ### CSS
 * [CSS Weekly](http://css-weekly.com/). Weekly e-mail roundup of css articles, tutorials, experiments and tools curated by Zoran Jambor.
 * [CSS-Tricks](https://css-tricks.com). signup is at the bottom of the page right under the **Get the newsletter** header!.
 * [CSS Layout News](http://csslayout.news/). A weekly collection of tutorials, news and information on all things CSS Layout.
-* [Sass News](http://sassnews.com/). Get the latest and greatest news, tutorials, and code examples on all Sass-y greatness. [Archive](http://sassnews.com/sassnews).
+* [Sass News](http://sass.news). Get the latest and greatest news, tutorials, and code examples on all Sass-y greatness. [Archive](http://sass.news/issues).
 
 ### Design
 * [Web Design Weekly](https://web-design-weekly.com/). Just pure awesome links to the best news and articles to hit the interweb during the week.
@@ -137,7 +138,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [R Weekly](https://rweekly.org). Weekly updates about R and Data Science. R Weekly is [openly developed on GitHub ★116](https://github.com/rweekly/rweekly.org).
 
 ### Ruby
-* [Ruby Weekly](http://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
+* [Ruby Weekly](https://rubyweekly.com/). A free, once–weekly e-mail round-up of Ruby news and articles.
 * [Ruby posts by Thoughtbot](https://robots.thoughtbot.com/tags/ruby)
 * [Rails Weekly](https://rails-weekly.ongoodbits.com/). Weekly inside scoop of interesting commits, pull requests and more from Rails, delivered to your inbox every Friday.
 * [RubyIssue(s)](https://rubyissues.ongoodbits.com/). A curated list of ruby related issues collected from GitHub. Bi-monthly email delivery. The ambition is to provide an entry point to the open source space for developers of all levels and from various backgrounds.
@@ -231,9 +232,6 @@ every Sunday in the form of the DevOps newsletter.
 ### Cloud Development
 * [Cloud Development Weekly](http://clouddevweekly.co/). News, links and resources for developers working with cloud services, cloud APIs, and cloud-based tools.
 * [Your weekly Azure news fix](http://azureweekly.info/). Azure Weekly is a summary of the week's top news in the Microsoft Azure ecosystem, as well as interesting historic content that's well worth reading.
-
-### Configuration Management
-* [Briefs On Ansible](https://valdhaus.co/newsletters/ansible/). "Briefs on Ansible" is an unofficial newsletter that sends you updates on the top news in the Ansible community.
 
 ## Mobile
 * [Mobile Web Weekly](https://mobilewebweekly.com). A weekly round-up of the releases, articles, and links that affect Web developers working on the mobile-facing Web.

@@ -104,7 +104,7 @@ title: Awesome Rank for ooade/awesome-preact
 - [Hueify ★46](https://github.com/kvartborg/hueify) - Simple controller for your Philips Hue lights.
 
 ### Related Libraries
-- [React ★75443](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+- [React ★78120](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [Inferno ★11145](https://github.com/infernojs/inferno) - An extremely fast, React-like JavaScript library for building modern user interfaces.
 - [Rax ★3276](https://github.com/alibaba/rax) - A universal React-compatible render engine.
 

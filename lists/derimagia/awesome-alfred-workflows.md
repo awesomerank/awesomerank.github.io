@@ -44,7 +44,7 @@ A curated list of Awesome Alfred Workflows.
 - [Github ★1102](https://github.com/gharlan/alfred-github-workflow) - GitHub command bar, similiar to the command bar in Github.
 - [JetBrains ★110](https://github.com/bchatard/jetbrains-alfred-workflow) - Open project with one of JetBrains' products.
 - [Laravel Forge ★36](https://github.com/vmitchell85/alforge) - alForge, Open and run commands on Laravel Forge.
-- [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons ★31302](https://github.com/google/material-design-icons).
+- [mdi](https://github.com/importre/alfred-mdi) - Find [Material Design Icons ★31672](https://github.com/google/material-design-icons).
 - [npms ★184](https://github.com/sindresorhus/alfred-npms) - Search for npm packages with [npms.io](https://npms.io).
 - [ng ★33](https://github.com/SamVerschueren/alfred-ng) - Search through the [angular.io](https://angular.io) documentation.
 - [Package Managers ★390](https://github.com/willfarrell/alfred-pkgman-workflow) - Package Repo Search.
@@ -89,7 +89,7 @@ A curated list of Awesome Alfred Workflows.
 - [SSH ★20](https://github.com/isometry/alfred-ssh) - Autocompletes SSH sessions based on `~/.ssh/known_hosts`, `~/.ssh/config` and `/etc/hosts`
 - [Swift Windows Switcher ★38](https://github.com/mandrigin/AlfredSwitchWindows) - Switches between open windows and a browser (Safari/Chrome) tabs.
 - [TemporaryMute](http://www.packal.org/workflow/temporary-mute) - Mutes the volume of their computer for a specified duration of time.
-- [TerminalFinder ★467](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
+- [TerminalFinder ★467 ⏳1Y](https://github.com/LeEnno/alfred-terminalfinder) - Alfred workflow to open current Finder window in Terminal/iTerm and vice versa.
 
 ## Web
 - [BugNot](https://github.com/vitorgalvao/alfred-workflows/tree/master/BugNot) - Get logins from bugmenot.
