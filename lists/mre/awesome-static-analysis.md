@@ -211,7 +211,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [PHPStan ★2263](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 * [Psalm ★400](https://github.com/vimeo/psalm) - Static analysis tool for finding errors in PHP applications
 * [RIPS ★146 ⏳1Y](https://github.com/ripsscanner/rips) - A static source code analyser for vulnerabilities in PHP scripts
-* [Tuli ★161 ⏳1Y](https://github.com/ircmaxell/Tuli) - A static analysis engine
+* [Tuli ★161 ⏳2Y](https://github.com/ircmaxell/Tuli) - A static analysis engine
 * [twig-lint ★69](https://github.com/asm89/twig-lint) - twig-lint is a lint tool for your twig files.
 * [WAP](https://www.owasp.org/index.php/OWASP_WAP-Web_Application_Protection) - Tool to detect and correct input validation vulnerabilities in PHP (4.0 or higher) web applications and predicts false positives. It combines source code static analysis and data mining to detect vulnerabilities and predict false positives. 
 

@@ -1010,7 +1010,7 @@ Also see [push notifications](#push-notifications)
 ## Notifications
 
 #### Push Notifications
-* [Orbiter ★700](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
+* [Orbiter ★700 ⏳1Y](https://github.com/mattt/Orbiter) - Push Notification Registration for iOS.
 * [PEM](https://github.com/fastlane/fastlane/tree/master/pem) - Automatically generate and renew your push notification profiles.
 * [Knuff ★3841](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNS).
 * [FBNotifications ★458](https://github.com/facebook/FBNotifications) - Facebook Analytics In-App Notifications Framework.
@@ -1315,7 +1315,7 @@ Most of these are paid services, some have free tiers.
 * [Locksmith ★2323](https://github.com/matthewpalmer/Locksmith) - A powerful, protocol-oriented library for working with the keychain in Swift. :large_orange_diamond:
 * [KeychainAccess ★3183](https://github.com/kishikawakatsumi/KeychainAccess) - Simple Swift wrapper for Keychain that works on iOS and macOS :large_orange_diamond:
 * [Keychains ★51](https://github.com/hyperoslo/Keychains) - Because you should care... about the security... of your shit. :large_orange_diamond:
-* [Lockbox ★840](https://github.com/granoff/Lockbox) - Objective-C utility class for storing data securely in the key chain.
+* [Lockbox ★840 ⏳1Y](https://github.com/granoff/Lockbox) - Objective-C utility class for storing data securely in the key chain.
 * [SAMKeychain ★4536](https://github.com/soffes/SAMKeychain) - Simple Objective-C wrapper for the keychain that works on Mac and iOS.
 * [SwiftKeychainWrapper ★603](https://github.com/jrendel/SwiftKeychainWrapper) - A simple wrapper for the iOS Keychain to allow you to use it in a similar fashion to User Defaults. Written in Swift. :large_orange_diamond:
 
@@ -1654,7 +1654,7 @@ Most of these are paid services, some have free tiers.
 * [GearRefreshControl ★545](https://github.com/andreamazz/GearRefreshControl) - A custom animation for the UIRefreshControl :large_orange_diamond:
 * [NJKWebViewProgress ★3718](https://github.com/ninjinkun/NJKWebViewProgress) - A progress interface library for UIWebView. You can implement progress bar for your in-app browser using this module.
 * [MKRingProgressView ★624](https://github.com/maxkonovalov/MKRingProgressView) - A beautiful ring/circular progress view similar to Activity app on Apple Watch, written in Swift. 🔶
-* [Hexacon ★242](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard, written in Swift. 🔶
+* [Hexacon ★242 ⏳1Y](https://github.com/gautier-gdx/Hexacon) - A new way to display content in your app like the Apple Watch SpringBoard, written in Swift. 🔶
 * [StackViewController ★611](https://github.com/seedco/StackViewController) - A controller that uses a UIStackView and view controller composition to display content in a list :large_orange_diamond:
 * [ParticlesLoadingView ★759](https://github.com/BalestraPatrick/ParticlesLoadingView) - A customizable SpriteKit particles animation on the border of a view. :large_orange_diamond:
 * [RPCircularProgress ★101](https://github.com/iwasrobbed/RPCircularProgress) - (Swift) Circular progress UIView subclass with UIProgressView properties :large_orange_diamond:

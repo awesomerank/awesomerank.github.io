@@ -213,7 +213,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 ### SpriteKit
 
-* [SpriteKit Swift 3 ★6](https://github.com/MacMeDan/SpriteKitCollisions) - Playground for exploring Sprite Kit.
+* [SpriteKit Swift 3 ★6 ⏳1Y](https://github.com/MacMeDan/SpriteKitCollisions) - Playground for exploring Sprite Kit.
 * [SpriteKit Collisions ★25](https://github.com/jaredmpayne/Sprite-Kit-Collisions-Playground) - Demonstrates how to perform physics collision detection using Swift and SpriteKit. ⏳
 * [SceneKit Examples ★12 ⏳2Y](https://github.com/UCh/swift-scene-kit-playgrounds) - Experiment with SceneKit and Swift. ⏳
 * [SceneKit ARKit Demo ★19](https://github.com/mhanlon/ARKitDemoPlayground) - The Xcode 9 ARKit SpriteKit demo as a playground.📱🍁

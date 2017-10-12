@@ -60,6 +60,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 
 ### Free Online Courses
 + [Free Online Courses](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-en.md)
++ [Free Online Courses - Russian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-en.md)
 
 
 ### Interactive Programming Resources

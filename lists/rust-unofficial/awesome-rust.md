@@ -897,7 +897,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 
 ### Web programming
 
-See also [Rust web framework comparison ★524](https://github.com/flosse/rust-web-framework-comparison).
+See also [Are we web yet?](http://www.arewewebyet.org) and [Rust web framework comparison ★524](https://github.com/flosse/rust-web-framework-comparison).
 
 * HTTP Client
   * [alexcrichton/curl-rust ★347](https://github.com/alexcrichton/curl-rust) — [libcurl](https://curl.haxx.se/libcurl/) bindings [<img src="https://api.travis-ci.org/alexcrichton/curl-rust.svg?branch=master">](https://travis-ci.org/alexcrichton/curl-rust)

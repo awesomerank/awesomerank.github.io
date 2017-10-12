@@ -439,7 +439,6 @@ Further resources:
 * [natural ★6852](https://github.com/NaturalNode/natural) - General natural language facilities for node
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS
 * [Retext ★1326](https://github.com/wooorm/retext) - Extensible system for analyzing and manipulating natural language
-* [TextProcessing](https://market.mashape.com/japerk/text-processing/support) - Sentiment analysis, stemming and lemmatization, part-of-speech tagging and chunking, phrase extraction and named entity recognition.
 * [NLP Compromise ★6894](https://github.com/nlp-compromise/compromise) - Natural Language processing in the browser
 
 
@@ -886,6 +885,7 @@ be
 * [topik ★82 ⏳1Y](https://github.com/ContinuumIO/topik) - Topic modelling toolkit
 * [PyBrain ★2367](https://github.com/pybrain/pybrain) - Another Python Machine Learning Library.
 * [Brainstorm ★1265](https://github.com/IDSIA/brainstorm) - Fast, flexible and fun neural networks. This is the successor of PyBrain.
+* [Surprise](http://surpriselib.com) - A scikit for building and analyzing recommender systems.
 * [Crab ★857 ⏳1Y](https://github.com/muricoca/crab) - A flexible, fast recommender engine.
 * [python-recsys ★913](https://github.com/ocelma/python-recsys) - A Python library for implementing a Recommender System.
 * [thinking bayes ★707](https://github.com/AllenDowney/ThinkBayes) - Book on Bayesian Analysis
@@ -932,6 +932,7 @@ be
 * [Xcessiv ★900](https://github.com/reiinakano/xcessiv) - A web-based application for quick, scalable, and automated hyperparameter tuning and stacked ensembling
 * [PyTorch ★7382](https://github.com/pytorch/pytorch) - Tensors and Dynamic neural networks in Python with strong GPU acceleration
 * [ML-From-Scratch ★7159](https://github.com/eriklindernoren/ML-From-Scratch) - Implementations of Machine Learning models from scratch in Python with a focus on transparency. Aims to showcase the nuts and bolts of ML in an accessible way.
+* [Edward](http://edwardlib.org/) - A library for probabilistic modeling, inference, and criticism. Built on top of TensorFlow.
 
 <a name="python-data-analysis"></a>
 #### Data Analysis / Data Visualization
