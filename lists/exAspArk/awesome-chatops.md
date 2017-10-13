@@ -288,7 +288,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### WeChat
 
-* [Hubot](https://hubot.github.com/) + [adapter ★258](https://github.com/KasperDeng/Hubot-WeChat) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★258 ⏳1Y](https://github.com/KasperDeng/Hubot-WeChat) (CoffeeScript, Node.js)
 
 ### XMPP / Jabber
 

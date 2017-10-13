@@ -942,7 +942,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [presentex ★9 ⏳1Y](https://github.com/Cobenian/Presentex) - Elixir to HTML/JavaScript based presentation framework.
 * [ratx ★17 ⏳1Y](https://github.com/liveforeverx/ratx) - Rate limiter and overload protection for erlang application.
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
-* [spawndir ★3 ⏳2Y](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
+* [spawndir ★3 ⏳3Y](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
 * [spotify_ex ★38](https://github.com/jsncmgs1/spotify_ex) - An Elixir wrapper for the Spotify Web API.
 * [std_json_io ★20](https://github.com/hassox/std_json_io) - Application for managing and communicating with IO servers via JSON.
 * [url_unroller ★4](https://github.com/semanticart/url_unroller) - Simple URL unroller (un-shortener) in Elixir.

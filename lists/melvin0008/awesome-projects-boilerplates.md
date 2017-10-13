@@ -67,6 +67,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Hackathon Starter ★21072](https://github.com/sahat/hackathon-starter) A boilerplate for Node.js web applications.
     - [Node/Backbone Web App Boilerplate ★22 ⏳4Y](https://github.com/skaapgif/webapp-boilerplate) Boilerplate for web applications with a Node, Express, MongoDB backend and Backbone Marionette, Jade, Require.js frontend.
     - [Nodebootstrap](http://nodebootstrap.io/) Unobtrusive skeleton project for Node/Express.js with pre-configured best-practices.
+    - [Vue-Express-Mongo Boilerplate ★592](https://github.com/icebob/vue-express-mongo-boilerplate) - Full stack JS web app boilerplate with Express, Mongo and VueJS.
 - [AngularJS](#angular-js)
     - [ng-boilerplate ★4145](https://github.com/ngbp/ngbp) An opinionated kickstarter for AngularJS projects.
     - [Yeoman Angular Generator ★5926](https://github.com/yeoman/generator-angular)
@@ -96,6 +97,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Yeoman Polymer Generator ★986](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
 - [Electron](#electron)
     - [Electron Boilerplate ★513](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
+    - [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate ★260](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) A starter kit for crafting 3D applications using modern technologies
 
 ## Hybrid Mobile App Frameworks
 

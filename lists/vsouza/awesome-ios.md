@@ -461,6 +461,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Pencil ★69](https://github.com/naru-jpn/pencil) - Write values to file and read it more easily. :large_orange_diamond:
 * [HeckelDiff ★29](https://github.com/mcudich/HeckelDiff) - A fast Swift diffing library. :large_orange_diamond:
 * [Dekoter ★20](https://github.com/artemstepanenko/Dekoter) - `NSCoding`'s counterpart for Swift structs. :large_orange_diamond:
+* [swift-algorithm-club ★14160](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations! :large_orange_diamond:
 
 ## Date & Time
 
@@ -1451,7 +1452,7 @@ Most of these are paid services, some have free tiers.
 * [Parallel iOS Tests ★0](https://github.com/plu/parallel_ios_tests) - Run iOS tests on multiple simulators in parallel at the same time :large_orange_diamond:
 * [Vinyl ★204](https://github.com/Velhotes/Vinyl) - Network testing à la VCR in Swift :large_orange_diamond:
 * [Mockit ★57](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework for Swift, inspired by the famous Mockito for Java :large_orange_diamond:
-* [Cribble ★272](https://github.com/maxsokolov/Cribble) - Swifty tool for visual testing iPhone and iPad apps :large_orange_diamond:
+* [Cribble ★272 ⏳1Y](https://github.com/maxsokolov/Cribble) - Swifty tool for visual testing iPhone and iPad apps :large_orange_diamond:
 * [second_curtain ★111 ⏳1Y](https://github.com/ashfurrow/second_curtain) - Upload failing iOS snapshot tests cases to S3
 * [trainer ★92](https://github.com/KrauseFx/trainer) - Convert xcodebuild plist files to JUnit reports
 * [Buildasaur ★712](https://github.com/buildasaurs/Buildasaur) - Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur :large_orange_diamond:
@@ -2170,7 +2171,7 @@ Most of these are paid services, some have free tiers.
 * [AEAccordion ★156](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells). :large_orange_diamond:
 * [SWTableViewCell ★6886](https://github.com/CEWendel/SWTableViewCell) - An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 * [ZYThumbnailTableView ★879](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy :large_orange_diamond:
-* [BWSwipeRevealCell ★44](https://github.com/bitwit/BWSwipeRevealCell) - A Swift library for swipeable table cells :large_orange_diamond:
+* [BWSwipeRevealCell ★44 ⏳1Y](https://github.com/bitwit/BWSwipeRevealCell) - A Swift library for swipeable table cells :large_orange_diamond:
 * [preview-transition ★1556](https://github.com/Ramotion/preview-transition) - PreviewTransition is a simple preview gallery controller :large_orange_diamond:
 * [QuickTableViewController ★86](https://github.com/bcylin/QuickTableViewController) - A simple way to create a UITableView for settings in Swift. :large_orange_diamond:
 * [TableKit ★246](https://github.com/maxsokolov/TableKit) - Type-safe declarative table views with Swift :large_orange_diamond:
@@ -2329,7 +2330,6 @@ Most of these are paid services, some have free tiers.
  * [libextobjc ★3672](https://github.com/jspahrsummers/libextobjc) - A Cocoa library to extend the Objective-C programming language.
  * [VersionTrackerSwift ★50](https://github.com/tbaranes/VersionTrackerSwift) - Track which versions of your app a user has previously installed. :large_orange_diamond:
  * [DeviceGuru ★196](https://github.com/InderKumarRathore/DeviceGuru) - DeviceGuru is a simple lib (Swift) to know the exact type of the device, e.g. iPhone 6 or iPhone 6s. :large_orange_diamond:
- * [swift-algorithm-club ★14160](https://github.com/raywenderlich/swift-algorithm-club) - Algorithms and data structures in Swift, with explanations! :large_orange_diamond:
  * [AEAppVersion ★7](https://github.com/tadija/AEAppVersion) - Simple and Lightweight App Version Tracking for iOS written in Swift :large_orange_diamond:
  * [BlocksKit ★6317](https://github.com/BlocksKit/BlocksKit) - The Objective-C block utilities you always wish you had.
  * [SwiftyUtils ★152](https://github.com/tbaranes/swiftyutils) - All the reusable code that we need in each project. :large_orange_diamond:[e]

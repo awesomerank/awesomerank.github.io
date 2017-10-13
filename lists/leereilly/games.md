@@ -251,7 +251,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Others
 
-* [Beast ★8](https://github.com/dominikwilkowski/beast.js) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
+* [Beast ★8 ⏳1Y](https://github.com/dominikwilkowski/beast.js) - An homage to the 1984 ASCII game "BEAST" from Dan Baker, Alan Brown, Mark Hamilton and Derrick Shadel written in node. You have to squash little ASCII beasts between pushable blocks but watch you to not be eaten by them.
 * [binb ★117](https://github.com/lpinca/binb) - Competitive, multiplayer, realtime, guess the song game. [Play it now!](https://binb.co)
 * [Dental Defender: Saga of the Candy Horde ★17 ⏳2Y](https://github.com/cshepp/candyjam) - HTML5 shooter/tower defense game for the #CandyJam. [Play it now!](http://cas002.itch.io/dental-defenders-saga-of-the-candy-horde)
 * [Descensus 2 ★1](https://github.com/TomWHall/Descensus2) - A TypeScript 2D physics game. [Play it now!](http://booleanoperations.com/descensus2/)

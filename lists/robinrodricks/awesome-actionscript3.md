@@ -316,7 +316,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AWS-dynamodb ★1 ⏳3Y](https://github.com/ferf/aws-dynamodb-actionscript) - Driver for accessing Amazon's AWS DynamoDB.
 
 #### Redis
-* [AS3redis ★3 ⏳7Y](https://github.com/zhangq0355/as3redis) - Driver for Redis.
+* [AS3redis ★3 ⏳8Y](https://github.com/zhangq0355/as3redis) - Driver for Redis.
 
 ## File Formats
 

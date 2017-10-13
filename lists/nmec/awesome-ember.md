@@ -35,7 +35,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 
 - [Ember-cli](http://ember-cli.com/) - 'The command line interface for ambitious web applications' - Officially maintained.
 - [Ember Inspector ★837](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
-- [gulp-ember-handlebars ★12 ⏳2Y](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
+- [gulp-ember-handlebars ★12 ⏳3Y](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
 - [Ember Data Sails Adapter ★90 ⏳2Y](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
 - [Ember Data WordPress Adapter ★39 ⏳3Y](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
 - [Ember Gist](http://ember-gist.joostdvrs.com/) - Demo Ember CLI'eque apps using Github Gist.

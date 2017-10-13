@@ -158,7 +158,7 @@ title: Awesome Rank for ujjwalkarn/Machine-Learning-Tutorials
 
 - [Stat Trek Website](http://stattrek.com/) - A dedicated website to teach yourselves Statistics
 
-- [Learn Statistics Using Python ★456 ⏳1Y](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach
+- [Learn Statistics Using Python ★456 ⏳2Y](https://github.com/rouseguy/intro2stats) - Learn Statistics using an application-centric programming approach
 
 - [Statistics for Hackers | Slides | @jakevdp](https://speakerdeck.com/jakevdp/statistics-for-hackers) - Slides by Jake VanderPlas
 

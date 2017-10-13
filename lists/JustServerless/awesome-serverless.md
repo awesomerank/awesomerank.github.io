@@ -70,6 +70,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless Plugin Directory](https://www.serverlessconsultants.com/plugins/) - A directory of Serverless Framework plugins.
 - [Serverless Stack](https://serverless-stack.com) - Building and deploying full-stack apps using the Serverless Framework and React on AWS ([GitHub repo ★420](https://github.com/AnomalyInnovations/serverless-stack-com)).
 - [Serverless Nomad](https://www.serverlessnomad.com) - Blog about serverless technologies.
+- [The Serverless Way](https://theserverlessway.com) - Guides an toolings to go "the serverless way".
 
 ## Blogs
 
@@ -1565,6 +1566,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Offline SNS ★4](https://github.com/mj1618/serverless-offline-sns) - Run an SNS server and call Lambdas with events notifications.
 - [Alibaba Cloud Function Compute ★8](https://github.com/aliyun/serverless-aliyun-function-compute) - Alibaba Cloud Function Compute Plugin – Add Alibaba Cloud Function Compute support to the Serverless Framework.
 - [Bootstrap ★3](https://github.com/dougmoscrop/serverless-plugin-bootstrap) - Checks that the environment around your Serverless service has been set up and is up-to-date.
+- [API docs ★1](https://github.com/8select/serverless-plugin-api-docs) - Automatically create a Lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.
 
 ## Literature / Education
 
@@ -1572,7 +1574,10 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless - By Obie Fernandez](https://leanpub.com/serverless) - Book about Serverless development (also covers usage of the Serverless framework).
 - [Serverless Architectures on AWS - By Peter Sbarski & Sam Kroonenburg](http://book.acloud.guru) - Book focused on covering serverless architectures using AWS.
 - [Agile development for serverless platforms](https://www.manning.com/books/agile-development-for-serverless-platforms) - How to apply agile practices in fully serverless architectures.
+- [Cloud Native Applications](https://www.manning.com/books/cloud-native-applications) - An intro into cloud computing with insights into automating cloud infrastructures and possibilities with cloud services.
+- [Exploring Cloud Computing](https://www.manning.com/books/exploring-cloud-computing) - An intro into getting started with the biggest cloud providers and exploring how to go serverless.
 - [AWS Lambda in Action](https://www.manning.com/books/aws-lambda-in-action) - An example-driven tutorial that teaches you how to build applications that use an event-driven approach on the back end.
+- [Serverless Apps with Node and Claudia.js](https://www.manning.com/books/serverless-apps-with-node-and-claudiajs) - A guide to building serverless apps on AWS using JavaScript. 
 - [Introduction to serverless computing with AWS Lambda](https://www.contino.io/files/Contino-Introduction-to-Serverless-Computing-with-AWS-Lambda.pdf) - Guide about serverless computing on AWS Lambda.
 - [Going serverless](https://leanpub.com/going-serverless) - Building scalable applications with the Serverless Framework and AWS Lambda.
 - [AWS Lambda, Kinesis & Serverless Framework](https://www.udemy.com/code-along-aws-lambda-kinesis-serverless-framework/) - Udemy Course on the Serverless Framework.
