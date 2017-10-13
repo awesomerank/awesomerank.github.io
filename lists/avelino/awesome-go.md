@@ -77,6 +77,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 - [Tools](#tools)
     - [Code Analysis](#code-analysis)
     - [Editor Plugins](#editor-plugins)
+	- [Go Generate Tools](#go-generate-tools)
     - [Go Tools](#go-tools)
     - [Software Packages](#software-packages)
         - [DevOps Tools](#devops-tools)
@@ -604,6 +605,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-nude ★231 ⏳2Y](https://github.com/koyachi/go-nude) - Nudity detection with Go.
 * [go-opencv](https://github.com/lazywei/go-opencv) - Go bindings for OpenCV.
 * [go-webcolors ★21 ⏳2Y](https://github.com/jyotiska/go-webcolors) - Port of webcolors library from Python to Go.
+* [govatar ★203](https://github.com/o1egl/govatar) - Library and CMD tool for generating funny avatars.
 * [imagick ★622](https://github.com/gographics/imagick) - Go binding to ImageMagick's MagickWand C API.
 * [imaginary ★1350](https://github.com/h2non/imaginary) - Fast and simple HTTP microservice for image resizing.
 * [imaging ★1274](https://github.com/disintegration/imaging) - Simple Go image processing package.
@@ -676,6 +678,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [bayesian ★485](https://github.com/jbrukh/bayesian) - Naive Bayesian Classification for Golang.
 * [CloudForest ★549](https://github.com/ryanbressler/CloudForest) - Fast, flexible, multi-threaded ensembles of decision trees for machine learning in pure Go.
+* [fonet ★0](https://github.com/Fontinalis/fonet) - A Deep Neural Network library written in Go.
 * [gago ★366](https://github.com/MaxHalford/gago) - Multi-population, flexible, parallel genetic algorithm.
 * [go-cluster ★5](https://github.com/e-XpertSolutions/go-cluster) - Go implementation of the k-modes and k-prototypes clustering algorithms.
 * [go-fann ★90 ⏳2Y](https://github.com/white-pony/go-fann) - Go bindings for Fast Artificial Neural Networks(FANN) library.
@@ -1090,6 +1093,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
     * [bbConvert ★2 ⏳1Y](https://github.com/CalebQ42/bbConvert) - Converts bbCode to HTML that allows you to add support for custom bbCode tags.
     * [blackfriday ★2639](https://github.com/russross/blackfriday) - Markdown processor in Go.
     * [bluemonday ★741](https://github.com/microcosm-cc/bluemonday) - HTML Sanitizer.
+    * [colly ★1843](https://github.com/asciimoo/colly) - Fast and Elegant Scraping Framework for Gophers
     * [doi ★0](https://github.com/hscells/doi) - Document object identifier (doi) parser in Go.
     * [editorconfig-core-go ★16 ⏳1Y](https://github.com/editorconfig/editorconfig-core-go) - Editorconfig file parser and manipulator for Go.
     * [enca ★3 ⏳1Y](https://github.com/endeveit/enca) - Minimal cgo bindings for [libenca](http://cihar.com/software/enca/).
@@ -1485,6 +1489,14 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [vim-go ★7233](https://github.com/fatih/vim-go) - Go development plugin for Vim.
 * [vscode-go ★2862](https://github.com/Microsoft/vscode-go) - Extension for Visual Studio Code (VS Code) which provides support for the Go language.
 * [Watch ★138 ⏳1Y](https://github.com/eaburns/Watch) - Runs a command in an acme win on file changes.
+
+## Go Generate Tools
+
+* [generic ★4](https://github.com/usk81/generic) - flexible data type for Go.
+* [genny ★478](https://github.com/cheekybits/genny) - Elegant generics for Go.
+* [gonerics](http://github.com/bouk/gonerics) - Idiomatic Generics in Go.
+* [gotests ★807](https://github.com/cweill/gotests) - Generate Go tests from your source code.
+* [re2dfa ★118](https://github.com/opennota/re2dfa) - Transform regular expressions into finite state machines and output Go source code.
 
 ## Go Tools
 

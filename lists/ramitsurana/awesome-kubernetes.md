@@ -631,7 +631,7 @@ Projects
 
 ## Tuning
 
-* [Ktune ★17](https://github.com/skippbox/ktune)
+* [Ktune ★17 ⏳1Y](https://github.com/skippbox/ktune)
 
 Raspberry Pi
 =======================================================================

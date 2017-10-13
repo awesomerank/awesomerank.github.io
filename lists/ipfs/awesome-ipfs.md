@@ -52,7 +52,7 @@ place to ask about it might be in [ipfs/apps ★41](https://github.com/ipfs/apps
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
 * [HydrusNetwork ★239](https://github.com/hydrusnetwork/hydrus) - A booru-style media tagging application with a multitude of features, recently added basic ipfs support.
 * [InterPlanetary Wayback ★94](https://github.com/oduwsdl/ipwb) - Web Archive (WARC) indexing and replay using IPFS.
-* [Interplanetary Wiki ★49 ⏳1Y](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
+* [Interplanetary Wiki ★49 ⏳2Y](https://github.com/jamescarlyle/ipfs-wiki) - Wiki built on top of IPFS
 * [IPFS Event Drop ★5 ⏳2Y](https://github.com/travisperson/ipfs-event-drops) - An app that allows for improved visualization of ipfs events.
 * [ipfs.ink](https://ipfs.ink) - Publish and render markdown essays to and from ipfs. [GitHub ★18](https://github.com/kpcyrd/ipfs.ink)
 * [ipfs-search](http://ipfs-search.com) - Search engine for files and directories on IPFS.
