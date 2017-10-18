@@ -7,7 +7,7 @@ title: Awesome Rank for eug/awesome-opengl
 	This list is a copy of <a href="https://github.com/eug/awesome-opengl">eug/awesome-opengl</a> with ranks
 </p>
 ---
-# awesome-opengl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# awesome-opengl [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 [<img src="https://rawgit.com/eug/awesome-opengl/master/opengl-logo.svg" align="right" width="140">](https://www.opengl.org)
 
 A curated list of awesome OpenGL libraries, debuggers and resources.
@@ -156,12 +156,12 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 ## Related lists
 
 *Similar awesome lists*
-* [awesome ★65640](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
-* [awesome-computer-vision ★3058](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
-* [awesome-webgl ★126](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
-* [awesome-vulkan ★603](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
-* [gamedev ★4152](https://github.com/ellisonleao/magictools) - A awesome list about game development.
-* [graphics-resources ★1032 ⏳1Y](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
+* [awesome ★67308](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
+* [awesome-computer-vision ★3338](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
+* [awesome-webgl ★142](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
+* [awesome-vulkan ★622](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
+* [gamedev ★4245](https://github.com/ellisonleao/magictools) - A awesome list about game development.
+* [graphics-resources ★1042 ⏳1Y](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
 
 
 ## License

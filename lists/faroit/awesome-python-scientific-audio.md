@@ -7,7 +7,7 @@ title: Awesome Rank for faroit/awesome-python-scientific-audio
 	This list is a copy of <a href="https://github.com/faroit/awesome-python-scientific-audio">faroit/awesome-python-scientific-audio</a> with ranks
 </p>
 ---
-# Python for Scientific Audio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Python for Scientific Audio [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/faroit/awesome-python-scientific-audio.svg?branch=master)](https://travis-ci.org/faroit/awesome-python-scientific-audio)
 
 The aim of this repository is to create a comprehensive, curated list of python software/tools related and used for scientific research in audio/music applications.
@@ -75,7 +75,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [muda](https://muda.readthedocs.io/en/latest/) [:octocat: ★43](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
 * [python_speech_features](https://github.com/jameslyons/python_speech_features) [:octocat: ★529](https://github.com/jameslyons/python_speech_features) [:package:](https://pypi.python.org/pypi/python_speech_features) - Common speech features for ASR.
 * [pyYAAFE](http://yaafe.sourceforge.net) [:octocat: ★109](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE.
-* [speechpy](https://github.com/astorfi/speechpy) [:octocat: ★245](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
+* [speechpy](https://github.com/astorfi/speechpy) [:octocat: ★368](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
 
 #### Speech Processing
 
@@ -99,7 +99,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [beta_ntf](https://code.google.com/archive/p/beta-ntf/)² [:octocat: ★4 ⏳3Y](https://github.com/nils-werner/beta_ntf) - Non-Negative Tensor factorisation using PARAFAC.
 * [commonfate ★9 ⏳1Y](https://github.com/aliutkus/commonfate) [:octocat:]() [:package:](https://pypi.python.org/pypi/commonfate) - Common Fate Model and Transform.
 * [NUSSL](https://interactiveaudiolab.github.io/nussl/)² [:octocat: ★28](https://github.com/interactiveaudiolab/nussl) [:package:](https://pypi.python.org/pypi/nussl) - Various source separation algorithms + framework.
-* [NTFLib](https://github.com/stitchfix/NTFLib) [:octocat: ★25 ⏳1Y](https://github.com/stitchfix/NTFLib) - Sparse Beta-Divergence Tensor Factorization.
+* [NTFLib](https://github.com/stitchfix/NTFLib) [:octocat: ★25 ⏳2Y](https://github.com/stitchfix/NTFLib) - Sparse Beta-Divergence Tensor Factorization.
 * [NIMFA](http://nimfa.biolab.si) [:octocat: ★224](https://github.com/marinkaz/nimfa) [:package:](https://pypi.python.org/pypi/nimfa) - Several NMF flavors.
 * [pyFASST](https://github.com/wslihgt/pyfasst)² [:octocat: ★52 ⏳1Y](https://github.com/wslihgt/pyfasst) [:package:](https://pypi.python.org/pypi/pyFASST) - Wrapper for Flexible Audio Source Separation Toolbox.
 
@@ -130,11 +130,11 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 #### Audio related APIs and Datasets
 
-* [beets](http://beets.io/) [:octocat: ★6152](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
+* [beets](http://beets.io/) [:octocat: ★6241](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 * [dsdtools](http://dsdtools.readthedocs.io) [:octocat: ★12](https://github.com/faroit/dsdtools) [:package:](https://pypi.python.org/pypi/dsdtools) - Parse and process the [demixing secrets dataset](http://sisec17.audiolabs-erlangen.de/#/dataset).
 * [medleydb](http://medleydb.readthedocs.io) [:octocat: ★38](https://github.com/marl/medleydb) - Parse [medleydb](http://medleydb.weebly.com/) audio + annotations.
 * [Soundcloud API](https://github.com/soundcloud/soundcloud-python) [:octocat: ★443](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) - Wrapper for [Soundcloud API](https://developers.soundcloud.com/).
-* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: ★29212](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
+* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: ★30150](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
 
 #### Wrappers for Audio Plugins
 

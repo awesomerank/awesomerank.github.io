@@ -7,7 +7,7 @@ title: Awesome Rank for refinerycms-contrib/awesome-refinerycms
 	This list is a copy of <a href="https://github.com/refinerycms-contrib/awesome-refinerycms">refinerycms-contrib/awesome-refinerycms</a> with ranks
 </p>
 ---
-# Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Refinery CMS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, resources and shiny things.
 
@@ -52,7 +52,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [refinerycms-inquiries ★106](https://github.com/refinery/refinerycms-inquiries) - Send contact forms
 * [refinerycms-news ★124 ⏳1Y](https://github.com/refinery/refinerycms-news) - Basic display of news
 * [refinerycms-porfolio ★132](https://github.com/refinery/refinerycms-portfolio) - Display portfolio images
-* [refinerycms-search](https://github.com/refinery/refinerycms-search) - Fulltext search with [ActAsIndexed ★216 ⏳1Y](https://github.com/dougal/acts_as_indexed)
+* [refinerycms-search](https://github.com/refinery/refinerycms-search) - Fulltext search with [ActAsIndexed ★216 ⏳2Y](https://github.com/dougal/acts_as_indexed)
 
 ### Backoffice extensions
 * [refinerycms-page-images ★111](https://github.com/refinery/refinerycms-page-images) - Attach images to a Page

@@ -7,7 +7,7 @@ title: Awesome Rank for sindresorhus/awesome-scifi
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-scifi">sindresorhus/awesome-scifi</a> with ranks
 </p>
 ---
-# Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Sci-Fi [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > Sci-Fi worth consuming
 

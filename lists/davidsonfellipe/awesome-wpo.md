@@ -7,7 +7,7 @@ title: Awesome Rank for davidsonfellipe/awesome-wpo
 	This list is a copy of <a href="https://github.com/davidsonfellipe/awesome-wpo">davidsonfellipe/awesome-wpo</a> with ranks
 </p>
 ---
-# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome WPO [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 [![GitHub contributors](https://img.shields.io/github/contributors/davidsonfellipe/awesome-wpo.svg)](https://github.com/davidsonfellipe/awesome-wpo/graphs/contributors)
 
 A curated list of Web Performance Optimization. Everyone can contribute here!
@@ -200,7 +200,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [JSPerf](http://jsperf.com/) - jsPerf aims to provide an easy way to create and share test cases, comparing the performance of different JavaScript snippets by running benchmarks.
 * [Benchmark.js](http://benchmarkjs.com/) - A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.
 * [JSlitmus ★165 ⏳7Y](https://github.com/broofa/jslitmus) - JSLitmus is a lightweight tool for creating ad-hoc JavaScript benchmark tests.
-* [Matcha ★456](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
+* [Matcha ★455](https://github.com/logicalparadox/matcha) - Matcha allow you to design experiments that will measure the performance of your code. It is recommended that each bench focus on a specific point of impact in your application.
 * [Timing.js ★1314](https://github.com/addyosmani/timing.js) - Timing.js is a small set of helpers for working with the Navigation Timing API to identify where your application is spending its time. Useful as a standalone script, DevTools Snippet or bookmarklet.
 * [Stats.js ★4454](https://github.com/mrdoob/stats.js) - This class provides a simple info box that will help you monitor your code performance.
 * [PerfTests ★1 ⏳2Y](https://github.com/kogarashisan/PerfTests) - Performance tests of JavaScript inheritance models.
@@ -267,9 +267,9 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-smushit ★92 ⏳1Y](https://github.com/heldr/grunt-smushit) - Grunt plugin to remove unnecessary bytes of PNG and JPG using Yahoo Smushit.
 * [Gulp-smushit ★21 ⏳1Y](https://github.com/heldr/gulp-smushit) - Gulp plugin to optimize PNG and JPG using Yahoo Smushit. Made on top of smosh.
 * [Smush.it](http://www.smushit.com/ysmush.it/) - Smush.it uses optimization techniques specific to image format to remove unnecessary bytes from image files. It is a "lossless" tool, which means it optimizes the images without changing their look or visual quality.
-* [Imagemin ★1473](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
-* [Sharp ★6129](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
-* [Gm ★4381](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
+* [Imagemin ★1611](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
+* [Sharp ★6378](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
+* [Gm ★4454](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
 * [Exexif ★7112](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
 * [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 * [Grunt-contrib-imagemin ★1184](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
@@ -298,7 +298,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 ## Loaders
 
-* [HeadJS ★4143](https://github.com/headjs/headjs)- The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
+* [HeadJS ★4144](https://github.com/headjs/headjs)- The only script in your HEAD. for Responsive Design, Feature Detections, and Resource Loading.
 * [RequireJS](http://requirejs.org/) - RequireJS is a JavaScript file and module loader. It is optimized for in-browser use, but it can be used in other JavaScript environments, like Rhino and Node.
 * [Labjs](http://labjs.com/) - is an open-source (MIT license) project supported by Getify Solutions. The core purpose of LABjs is to be an all-purpose, on-demand JavaScript loader, capable of loading any JavaScript resource, from any location, into any page, at any time.
 * [Defer.js ★66 ⏳4Y](https://github.com/wessman/defer.js) - Async Everything: Make the meat of your pages load faster with this JS morsel.
@@ -355,7 +355,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [CSSmin.js](https://github.com/stoyan/yuicompressor/blob/master/ports/js/cssmin.js) - cssmin.js is a JavaScript port of YUICompressor's CSS minifier.
 * [Grunt-contrib-concat ★810](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 * [Grunt-contrib-uglify ★1396](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files.
-* [Clean-css ★2593](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
+* [Clean-css ★2631](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
 * [Django-compressor ★1928](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [Django-pipeline](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
 * [JShrink ★481](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
@@ -460,8 +460,8 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 
 # Other Awesome Lists
 
-* [bayandin/awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness).
-* [sindresorhus/awesome ★65640](https://github.com/sindresorhus/awesome).
+* [bayandin/awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness).
+* [sindresorhus/awesome ★67308](https://github.com/sindresorhus/awesome).
 
 
 # Contributing

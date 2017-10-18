@@ -7,7 +7,7 @@ title: Awesome Rank for sfischer13/awesome-ledger
 	This list is a copy of <a href="https://github.com/sfischer13/awesome-ledger">sfischer13/awesome-ledger</a> with ranks
 </p>
 ---
-# Awesome Ledger [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Ledger [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > Useful resources for the [Ledger](http://ledger-cli.org/) command-line accounting system
 
@@ -76,7 +76,7 @@ You might also like [awesome-beancount ★60 ⏳1Y](https://github.com/wzyboy/aw
 
 ## Miscellaneous
 
-- [Code ★2124](https://github.com/ledger/ledger) - Code on GitHub.
+- [Code ★2148](https://github.com/ledger/ledger) - Code on GitHub.
 - [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
 
 ## License

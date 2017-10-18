@@ -7,7 +7,7 @@ title: Awesome Rank for podo/awesome-framer
 	This list is a copy of <a href="https://github.com/podo/awesome-framer">podo/awesome-framer</a> with ranks
 </p>
 ---
-# Awesome Framer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Framer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 [<img src="logo.png" align="right" width="75">](https://framer.com/)
 
@@ -118,7 +118,7 @@ title: Awesome Rank for podo/awesome-framer
 * [framer-colour-transition ★9 ⏳2Y](https://github.com/nickmangos/framer-colour-transition) - Framer module that transitions the background colour of a layer.
 * [framer-webview ★17 ⏳2Y](https://github.com/peteschaffner/framer-webview) - Web view module for Framer.
 * [framer-uistatusbar ★2 ⏳2Y](https://github.com/peteschaffner/framer-uistatusbar) - iOS status bar module for Framer.
-* [framer.module.ajax ★21 ⏳1Y](https://github.com/karlerikjonatan/framer.module.ajax) - Ajax module for Framer.
+* [framer.module.ajax ★21 ⏳2Y](https://github.com/karlerikjonatan/framer.module.ajax) - Ajax module for Framer.
 * [framer.module.fill ★6 ⏳2Y](https://github.com/karlerikjonatan/framer.module.fill) - Fill module for Framer.
 * [SpeechSynth ★9 ⏳2Y](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis.
 * [Comment-for-Framer ★16 ⏳2Y](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes.
@@ -141,7 +141,7 @@ title: Awesome Rank for podo/awesome-framer
 * [Gridddle ★44](https://github.com/Volorf/Gridddle) - Grid module for FramerJS.
 * [SliderLibrary ★18](https://github.com/floludwig/SliderLibrary) - Framer library for creating sliders.
 * [StickyHeaders-for-Framer ★89](https://github.com/72/StickyHeaders-for-Framer) - Module to enable sticky headers within Framer's Scroll Components.
-* [framer-view-stack ★20](https://github.com/alandickinson/framer-view-stack) - Framer module for creating views that stack on top of each other.
+* [framer-view-stack ★20 ⏳1Y](https://github.com/alandickinson/framer-view-stack) - Framer module for creating views that stack on top of each other.
 * [RemoteLayer ★22](https://github.com/bpxl-labs/RemoteLayer) - The RemoteLayer module allows you to instantly generate an interactive Apple TV remote for your tvOS app prototypes.
 * [distribute-layers ★79](https://github.com/martenbjork/distribute-layers) - This package helps you position multiple Framer layers with ease.
 * [Framer-ValueLayer ★59 ⏳1Y](https://github.com/tjphilli/Framer-ValueLayer) - ValueLayer is a Layer subclass dedicated to helping you manage numbers in your prototypes, and animate between them.
@@ -165,6 +165,8 @@ title: Awesome Rank for podo/awesome-framer
 * [Framer Snippets ★445](https://github.com/robotdestroy/Framer-Snippets-Library) - Library of Framer snippets to help speed up workflow.
 * [Stitch ★146 ⏳1Y](https://github.com/mattsjohnston/stitch) - Lightweight framework for adding interaction to your Framer prototypes directly from your Sketch designs.
 * [framer-bootstrap ★25](https://github.com/alexchantastic/framer-bootstrap) - Use Framer Library in your preferred editor and environment.
+* [Fiber](https://framer.com/fiber/) - A free interactive UI kit with 15 screens.
+* [Voyage](https://framer.com/voyage/) - A free travel-themed UI kit that’s fully interactive and made for Framer.
 
 ---
 

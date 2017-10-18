@@ -7,13 +7,13 @@ title: Awesome Rank for RyanZim/awesome-npm-scripts
 	This list is a copy of <a href="https://github.com/RyanZim/awesome-npm-scripts">RyanZim/awesome-npm-scripts</a> with ranks
 </p>
 ---
-# Awesome npm scripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome npm scripts [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 [<img src="npm-logo.png" align="right" width="150">](https://www.npmjs.com)
 
 > Everything awesome for using npm as a build tool.
 
-You might also like [awesome-npm ★2553](https://github.com/sindresorhus/awesome-npm).
+You might also like [awesome-npm ★2614](https://github.com/sindresorhus/awesome-npm).
 
 **Notice: I'm currently too busy to actively expand this list; therefore, I've decided to make this an [OPEN Open Source Project](http://openopensource.org). Individuals making significant and valuable contributions are given commit-access to the project to contribute as they see fit.**
 
@@ -67,22 +67,22 @@ Tools to watch your source files and run a build command whenever any of the fil
 
 ## Dev Servers
 
-- [http-server ★5605](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server.
-- [live-server ★1579](https://github.com/tapio/live-server) - Simple development http server with live reload capability.
+- [http-server ★5733](https://github.com/indexzero/http-server) - Simple zero-configuration command-line http server.
+- [live-server ★1648](https://github.com/tapio/live-server) - Simple development http server with live reload capability.
 
 ## Cross-platform Utilities
 
 Utilities to perform common command-line tasks without worrying about cross-platform compatibility.
 
-- [rimraf ★1917](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
+- [rimraf ★1978](https://github.com/isaacs/rimraf) - Delete files or directories; like `rm -rf`.
 - [del-cli ★72](https://github.com/sindresorhus/del-cli) - Safer file and folder deletion.
-- [mkdirp ★1484](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
+- [mkdirp ★1523](https://github.com/substack/node-mkdirp) - Create a directory, creating parent directories if needed; like `mkdir -p`.
 - [cpy-cli ★58 ⏳1Y](https://github.com/sindresorhus/cpy-cli) - File/directory copying/renaming.
 - [copyfiles ★57](https://github.com/calvinmetcalf/copyfiles) - Copy a list of files into a directory.
 - [sync-files ★17](https://github.com/byteclubfr/node-sync-files) - `rsync`-like directory syncing with watch mode.
 - [echo-cli ★3 ⏳1Y](https://github.com/iamakulov/echo-cli) - Cross-platform `echo` with JS escape sequence support.
 - [clear-cli ★32 ⏳1Y](https://github.com/sindresorhus/clear-cli) - Clear the terminal.
-- [cross-env ★1670](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
+- [cross-env ★1750](https://github.com/kentcdodds/cross-env) - Set environment variables for scripts, unix-style.
 - [cross-os ★3](https://github.com/milewski/cross-os) - Run platform-specific npm scripts.
 - [ntee ★16](https://github.com/stefanmaric/ntee) - Utility that reads from standard input and writes to standard output and files; like Unix `tee`.
 - [catw ★107 ⏳2Y](https://github.com/substack/catw) - Print a file to stdout, with optional watch mode; sorta like Unix `cat`.

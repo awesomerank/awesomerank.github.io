@@ -7,7 +7,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 	This list is a copy of <a href="https://github.com/matiassingers/awesome-slack">matiassingers/awesome-slack</a> with ranks
 </p>
 ---
-# awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 > A curated list of awesome Slack related things
 
 ## Table of Contents
@@ -44,7 +44,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ## Unofficial clients
 - Linux - [PlaidChat ★514](https://github.com/plaidchat/plaidchat)
-- Linux - [ScudCloud ★1179](https://github.com/raelgc/scudcloud)
+- Linux - [ScudCloud ★1184](https://github.com/raelgc/scudcloud)
 - Windows - [SlackUI ★91](https://github.com/rfgamaral/SlackUI)
 
 ## Lists
@@ -267,7 +267,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slackey ★17](https://github.com/FredKSchott/slackey) - A JavaScript SDK for the Slack API
 - [slackihook ★5 ⏳2Y](https://github.com/kfatehi/slackihook) - Send incoming webhooks to Slack with Node.js
 - [slackin](http://rauchg.com/slackin/) - Public Slack organizations made easy
-- [slacklink ★20](https://github.com/robjmills/slacklink) - Post links to Slack from Chrome
+- [slacklink ★20 ⏳1Y](https://github.com/robjmills/slacklink) - Post links to Slack from Chrome
 - [slackr-bot ★13 ⏳1Y](https://github.com/tal/slackr-bot) - A node module for making bots that use the Slack RTM API
 - [slacktappd ★13 ⏳1Y](https://github.com/nicksergeant/slacktappd) - A tiny little app to post Untappd checkins to Slack
 - [slacktocracy ★5 ⏳2Y](https://github.com/nicksergeant/slacktocracy) - A tiny little app to post Fitocracy workouts to Slack
@@ -348,7 +348,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [SlackWamp ★5](https://github.com/voryx/SlackWamp) - A WAMP wrapper for the Slack API
 - [Sqwack ★14 ⏳2Y](https://github.com/heyupdate/Sqwack) - Semi-realtime profile photos in Slack
 - [tourdefrance-slack-bot ★16 ⏳1Y](https://github.com/j0k3r/tourdefrance-slack-bot) - Notifies a Slack channel/group for every stage during the Tour de France 2014
-- [versioneye-slack ★6 ⏳2Y](https://github.com/heyupdate/versioneye-slack) - Post VersionEye notifications to Slack
+- [versioneye-slack ★6 ⏳3Y](https://github.com/heyupdate/versioneye-slack) - Post VersionEye notifications to Slack
 - [VoiceChatAPI slack command](https://gist.github.com/elsassph/49582cdc8c64823833bb) - Create a VoiceChatAPI room from Slack
 - [wordpress-slack-notifier-plugin](https://bitbucket.org/simes/wordpress-slack-notifier-plugin) - Sends post published notifications to Slack
 - [worldcup-slack-bot ★7 ⏳1Y](https://github.com/j0k3r/worldcup-slack-bot) - Notify a Slack channel for every match during the 2014 World Cup
@@ -375,7 +375,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [python-slackclient](https://github.com/slackhq/python-slackclient) ([pypi](https://pypi.python.org/pypi/slackclient/0.13)) - A basic client for Slack, which can optionally connect to the RTM API
 - [reach-slack-rtm ★16 ⏳1Y](https://github.com/izdi/react-slack-rtm) - Simple Slack RTM chat built with ReactJS and Django
 - [relay ★10 ⏳2Y](https://github.com/matsengrp/relay) - Bare-bones continuous integration using Docker Hub and Slack
-- [scudcloud ★1179](https://github.com/raelgc/scudcloud) - Ubuntu client for Slack
+- [scudcloud ★1184](https://github.com/raelgc/scudcloud) - Ubuntu client for Slack
 - [sscaas ★41](https://github.com/danielsamuels/sscaas) - Slack Slash Commands as a Service
 - [slack ★91 ⏳2Y](https://github.com/kn/slack) - A simple and comprehensive Slack API client
 - [slack-echo-chamber ★7 ⏳3Y](https://github.com/balloon-studios/slack-echo-chamber) - Crosspost messages from one channel into another
@@ -398,7 +398,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slackotron ★11 ⏳1Y](https://github.com/lettier/slackotron) - A Slack bot customizable via plugins
 - [slackpy ★18](https://github.com/iktakahiro/slackpy) - Slack client library for specific logging
 - [slacksocket ★58](https://github.com/vektorlab/slacksocket) - Python interface to the Slack RTM API
-- [slouch ★61](https://github.com/venmo/slouch) - Lightweight Python framework for building cli-inspired Slack bots
+- [slouch ★61 ⏳1Y](https://github.com/venmo/slouch) - Lightweight Python framework for building cli-inspired Slack bots
 - [StackStorm Slack Pack](https://github.com/StackStorm/st2contrib/tree/master/packs/slack) - Pack which allows integration with Slack service.
 - [sublime-slack-integration ★71](https://github.com/simion/sublime-slack-integration) - Post to Slack from Sublime Text 3
 - [tracslack](https://github.com/grexi/snippets/tree/master/tracslack) - Trac notifications for Slack
@@ -423,7 +423,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [chef-slack\_handler ★11 ⏳1Y](https://github.com/dcm-ops/chef-slack_handler) - Chef handler for Slack
 - [dogetip-slack ★9 ⏳1Y](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack
 - [doorbell-server ★17](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell
-- [fastlane ★18074](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
+- [fastlane ★18650](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
 - [gifbot ★38 ⏳3Y](https://github.com/schuyler/gifbot) - Integrated animated GIF search for Slack
 - [hatebu-hooker ★4 ⏳3Y](https://github.com/kmrshntr/hatebu-hooker) - Post Hatena::Bookmark to Slack
 - [kickslacker ★5 ⏳3Y](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack
@@ -487,7 +487,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 ### Scala
 
 - [scala-slack ★10 ⏳1Y](https://github.com/flyberry-capital/scala-slack) - A Slack client for Scala
-- [sslack ★32 ⏳2Y](https://github.com/webpay/sslack) - Search Slack by ElasticSearch
+- [sslack ★32 ⏳3Y](https://github.com/webpay/sslack) - Search Slack by ElasticSearch
 - [slack-scala-client ★99](https://github.com/gilbertw1/slack-scala-client) - A Scala Slack client for the Web and RTM API
 
 ### Shell
@@ -495,7 +495,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [git-slack-hook ★271](https://github.com/chriseldredge/git-slack-hook) - Git receive hook to notify Slack channels
 - [Sholat-Prayer-Times-Slack ★10 ⏳2Y](https://github.com/ainunnajib/Sholat-Prayer-Times-Slack) - Salat Prayer Times bot for Slack integration
 - [slack ★97 ⏳1Y](https://github.com/rcrowley/slack) - Runs the test suite of a Ruby On Rails application and post the results to Slack
-- [slack-hack ★1 ⏳2Y](https://github.com/steinn/slack-hack) - Random bot
+- [slack-hack ★1 ⏳3Y](https://github.com/steinn/slack-hack) - Random bot
 - [slack-rails-ci ★0 ⏳3Y](https://github.com/caiosba/slack-rails-ci) - Run a command; post it and its standard input, output, and error to Slack
 - [slacktee ★477](https://github.com/course-hero/slacktee) - A bash script that works like _tee_ command
 - [stash\_slack](https://gist.github.com/linjer/2ee6146d3b320cbe9225) - Atlassian Stash integration with Slack through external web hooks

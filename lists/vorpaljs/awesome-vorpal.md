@@ -7,13 +7,13 @@ title: Awesome Rank for vorpaljs/awesome-vorpal
 	This list is a copy of <a href="https://github.com/vorpaljs/awesome-vorpal">vorpaljs/awesome-vorpal</a> with ranks
 </p>
 ---
-# Awesome Vorpal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Vorpal [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
-A curated list of delightful [Vorpal ★4196](https://github.com/dthree/vorpal)-based projects and extensions.
+A curated list of delightful [Vorpal ★4243](https://github.com/dthree/vorpal)-based projects and extensions.
 
-[Vorpal is Node's first framework for building immersive CLI applications. ★4196](https://github.com/dthree/vorpal)
+[Vorpal is Node's first framework for building immersive CLI applications. ★4243](https://github.com/dthree/vorpal)
 
-Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 
@@ -44,9 +44,9 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
 
 *Awesome projects and applications built using Vorpal.*
 
-- [Cash ★7339](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
+- [Cash ★7348](https://github.com/dthree/cash) - Cross-platform Linux commands without the suck.
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
-- [iTunes-remote ★268](https://github.com/mischah/itunes-remote) - Control iTunes on the CLI.
+- [iTunes-remote ★271](https://github.com/mischah/itunes-remote) - Control iTunes on the CLI.
 - [phunt ★97](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
 - [trelew ★67 ⏳1Y](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
 - [wat ★375 ⏳1Y](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.

@@ -7,7 +7,7 @@ title: Awesome Rank for springload/awesome-wagtail
 	This list is a copy of <a href="https://github.com/springload/awesome-wagtail">springload/awesome-wagtail</a> with ranks
 </p>
 ---
-Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
+Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [<img src="https://cdn.rawgit.com/springload/awesome-wagtail/ac912cc661a7099813f90545adffa6bb3e75216c/logo.svg" width="104" align="right" alt="Wagtail">](https://wagtail.io/)
 ===============
 
 > A curated list of awesome packages, articles, and other cool resources from the Wagtail community.
@@ -51,7 +51,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## General resources
 
 - [Official site](https://wagtail.io/)
-- [GitHub repository ★4714](https://github.com/wagtail/wagtail)
+- [GitHub repository ★4797](https://github.com/wagtail/wagtail)
 - [Twitter account](https://twitter.com/wagtailcms)
 - [Roadmap](https://github.com/wagtail/wagtail/projects/1)
 
@@ -100,7 +100,6 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### E-commerce
 
 - [wagtailinvoices ★23](https://github.com/SableWalnut/wagtailinvoices) - A Wagtail module for creating invoices.
-- [wagtail-saleor ★21 ⏳3Y](https://github.com/mirumee/wagtail-saleor) - An e-commerce application based on Wagtail and Satchless.
 - [longclaw ★64](https://github.com/JamesRamm/longclaw) - A shop template for Wagtail CMS.
 - [django-oscar-wagtail ★33](https://github.com/LabD/django-oscar-wagtail) - Wagtail integration for Oscar Commerce (or Oscar Commerce integration for Wagtail?)
 
@@ -133,14 +132,14 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Translations
 
-- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation ★527](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
+- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation ★535](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 - [wagtailtrans ★29](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
 
 ### Forms
 
 - [wagtailpolls ★18](https://github.com/takeflight/wagtailpolls) - A plugin for adding polling capabilities to the Wagtail CMS.
 - [Wagtailsurveys ★15 ⏳1Y](https://github.com/torchbox/wagtailsurveys) - A module for Wagtail which provides the ability to build polls and surveys.
-- [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha ★438](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
+- [Wagtail ReCaptcha](https://github.com/springload/wagtail-django-recaptcha) - wagtail-django-captcha provides an easy way to integrate the [django-recaptcha ★449](https://github.com/praekelt/django-recaptcha) field when using the Wagtail formbuilder.
 
 ### Testing
 
@@ -157,7 +156,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail Sharing ★14](https://github.com/cfpb/wagtail-sharing) – Easier sharing of Wagtail drafts.
 - [Wagtail Postgres Search Backend ★4](https://github.com/leukeleu/wagtail-pg-search-backend) - PostgreSQL full text search backend for Wagtail CMS.
 - [Wagtail Gridder ★11](https://github.com/wharton/wagtailgridder) - Grid card layout similar to Google image search results, with an expanded area for card details.
-- [Wagtail Condensed Inline Panel ★21](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
+- [Wagtail Condensed Inline Panel ★22](https://github.com/wagtail/wagtail-condensedinlinepanel) - Drop-in replacement for Wagtail's InlinePanel suited for large number of inlines (collapsible with drag and drop support).
 
 ## Tools
 

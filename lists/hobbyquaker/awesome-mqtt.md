@@ -9,7 +9,7 @@ title: Awesome Rank for hobbyquaker/awesome-mqtt
 ---
 # Awesome MQTT 
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > A curated list of MQTT related stuff.
 
@@ -71,7 +71,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - RabbitMQ offers a MQTT Adapter.
 * [SurgeMQ](http://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 * [VerneMQ](https://vernemq.com/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
-* [Vert.x MQTT ★40](https://github.com/vert-x3/vertx-mqtt) - Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.
+* [Vert.x MQTT ★44](https://github.com/vert-x3/vertx-mqtt) - Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.
 
 
 ### Tools
@@ -106,7 +106,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqtt-elements ★20](https://github.com/mqttjs/mqtt-elements) - Polymer elements for MQTT.
 * [mqttex ★41 ⏳2Y](https://github.com/alfert/mqttex) - MQTT implementation in Elixir.
 * [MQTTKit ★372 ⏳1Y](https://github.com/mobile-web-messaging/MQTTKit) - MQTT Objective-C client for iOS.
-* [mqtt_cpp ★19](https://github.com/redboltz/mqtt_cpp) - MQTT client for C++14 based on Boost.Asio.
+* [mqtt_cpp ★20](https://github.com/redboltz/mqtt_cpp) - MQTT client for C++14 based on Boost.Asio.
 * [mqtt_lua](http://geekscape.github.io/mqtt_lua/) - MQTT Client library for the Lua language.
 * [MQTT.js](https://github.com/mqttjs) - MQTT client for Node.js.
 * [mqtt-rs ★26](https://github.com/zonyitoo/mqtt-rs) - MQTT protocol library for Rust.
@@ -116,7 +116,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [ruby-mqtt ★289](https://github.com/njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol.
 * [tcl-mqtt ★2 ⏳3Y](https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a matt broker. Very, very basic.
 * [TMQTTClient](http://jamiei.com/blog/code/mqtt-client-library-for-delphi/) - MQTT Client Library for Delphi.
-* [Vert.x MQTT ★40](https://github.com/vert-x3/vertx-mqtt) - Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics.
+* [Vert.x MQTT ★44](https://github.com/vert-x3/vertx-mqtt) - Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics.
 * [wolfMQTT](https://wolfssl.com/wolfSSL/Products-wolfmqtt.html) - a client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.
 
 
@@ -161,7 +161,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [mqttpc ★2 ⏳1Y](https://github.com/hobbyquaker/mqttpc) - Control processes via MQTT. Ability to send signals via MQTT and to publish stdout/stderr or pipe MQTT payloads into stdin.
 * [mqttwatchdir ★16 ⏳2Y](https://github.com/jpmens/mqtt-watchdir) - Recursively watch a directory for modifications and publish file content to an MQTT broker.
 * [psmqtt ★12](https://github.com/eschava/psmqtt) - Utility reporting system health and status via MQTT.
-* [WinThing ★9](https://github.com/msiedlarek/winthing) - Remotely control Windows through MQTT.
+* [WinThing ★10](https://github.com/msiedlarek/winthing) - Remotely control Windows through MQTT.
 
 
 #### Monitoring
@@ -264,7 +264,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [AlexaMqttBridge ★7](https://github.com/mhdawson/AlexaMqttBridge) - Bridge between Amazon Alexa and Mqtt.
 * [dashbutton2mqtt ★6 ⏳1Y](https://github.com/hobbyquaker/dashbutton2mqtt) - Publish Amazon Dash Button presses to MQTT.
-* [flowerpower2mqtt ★4 ⏳1Y](https://github.com/hobbyquaker/flowerpower2mqtt) - Publish measurements from Parrot Flower Power plant sensors to MQTT.
+* [flowerpower2mqtt ★4 ⏳2Y](https://github.com/hobbyquaker/flowerpower2mqtt) - Publish measurements from Parrot Flower Power plant sensors to MQTT.
 * [haiku2mqtt ★0](https://github.com/forty2/haiku2mqtt) - A bridge between Haiku smart fans and MQTT.
 * [homely ★7](https://github.com/baol/homely) - collection of Go daemons for connecting Domoticz and other stuff.
 * [leaf-python-mqtt ★11](https://github.com/glynhudson/leaf-python-mqtt) - Extract data from Nissan Leaf API and post to mqtt.

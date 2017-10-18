@@ -7,7 +7,7 @@ title: Awesome Rank for domenicosolazzo/awesome-okr
 	This list is a copy of <a href="https://github.com/domenicosolazzo/awesome-okr">domenicosolazzo/awesome-okr</a> with ranks
 </p>
 ---
-# Awesome OKR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome OKR [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 A curated list of resources about OKRs
 
 OKR are the best practice of setting and communicating company, team and employee objectives and measuring their progress based on achieved results.

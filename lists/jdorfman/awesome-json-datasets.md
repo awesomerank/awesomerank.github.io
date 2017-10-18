@@ -7,7 +7,7 @@ title: Awesome Rank for jdorfman/awesome-json-datasets
 	This list is a copy of <a href="https://github.com/jdorfman/awesome-json-datasets">jdorfman/awesome-json-datasets</a> with ranks
 </p>
 ---
-# Awesome JSON Datasets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome JSON Datasets [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 [<img src="https://www.justindorfman.com/assets/images/json.svg" align="right" width="100">](http://www.json.org/)
 
@@ -424,13 +424,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: generate URLs for any location at [Yahoo Weather API](https://developer.yahoo.com/weather/)
 
 ## More Awesome Lists
-* [Awesome ★65640](https://github.com/sindresorhus/awesome) *(The OG List)*
+* [Awesome ★67308](https://github.com/sindresorhus/awesome) *(The OG List)*
 * [Help Wanted ★41](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 * [JSON ★530](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
-* [WPO ★5999](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-* [Shell ★10318](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+* [WPO ★6022](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
+* [Shell ★10528](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 * [Public APIs ★27983](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
-* [Public Datasets ★20304](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
+* [Public Datasets ★20772](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 * [Style Guides ★720](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
 ## Contributing

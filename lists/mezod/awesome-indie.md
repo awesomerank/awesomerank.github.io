@@ -7,7 +7,7 @@ title: Awesome Rank for mezod/awesome-indie
 	This list is a copy of <a href="https://github.com/mezod/awesome-indie">mezod/awesome-indie</a> with ranks
 </p>
 ---
-# Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Indie [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 Resources to help independent developers make money.
 
 Making money from your own code has never been easier, but it's still hard. Here, I try to curate a list of resources to help everyone interested in making money from their digital products get inspired and give it a try. Be it monetizing side-projects, bootstrapping business ideas, etc.
@@ -51,7 +51,7 @@ by [@mezod](https://twitter.com/mezood)
 
 - **[Barnacl.es](https://barnacl.es/)**
 
-  News for bootstrappers, not VC hackers. Hacker-News like forum. [Peter Bhat Harkins](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software ★1468](https://github.com/jcs/lobsters), which is always a thing to appreciate!
+  News for bootstrappers, not VC hackers. Hacker-News like forum. [Peter Bhat Harkins](https://twitter.com/pushcx) started it in early 2016 and I've found it of great value ever since. Also, it runs on [great software](https://github.com/jcs/lobsters), which is always a thing to appreciate!
 
 - **[bootstrapped.fm Forum](http://discuss.bootstrapped.fm/)**
 
@@ -350,11 +350,11 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 
-- **[Tools Of The Trade ★6880](https://github.com/cjbarber/ToolsOfTheTrade)**
+- **[Tools Of The Trade ★6916](https://github.com/cjbarber/ToolsOfTheTrade)**
 
   Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
 
-- **[awesome-selfhosted ★18239](https://github.com/Kickball/awesome-selfhosted)**
+- **[awesome-selfhosted ★18764](https://github.com/Kickball/awesome-selfhosted)**
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 

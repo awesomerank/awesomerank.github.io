@@ -7,7 +7,7 @@ title: Awesome Rank for cristianoliveira/awesome4girls
 	This list is a copy of <a href="https://github.com/cristianoliveira/awesome4girls">cristianoliveira/awesome4girls</a> with ranks
 </p>
 ---
-# awesome4girls [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
+# awesome4girls [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![CodeOfConduct](https://img.shields.io/badge/code%20of%20conduct-1.3.0-ff69b4.svg)](http://contributor-covenant.org/version/1/3/0/)
 A curated list of awesome inclusive events/projects/initiatives for women in the tech area.
 
 ----
@@ -85,6 +85,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The first XX+UX event was held at Google HQ in October 2013, where attendees created “story cards” that represented themselves or their journey into UX.
 
 ### General
+  - [Ada Lovelace Day](https://findingada.com/)
+
+    Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
+
   - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     Byte Girl is a nonprofit, open event organized by volunteers focused on females who like tech. Its goal is to empower women via talks from professionals who share valuable knowledge and experiences in technology.
@@ -97,6 +101,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     League of Women Coders (formerly Ladies Who Code, est. June 2011) is a meetup that focuses on coding, hacking, and learning collaboratively. The group meets up at least once a month in New York City and Boston. The meetups focus on talks, technical questions and ideation, and occasionally feature female speakers.
 
+  - [RodAda Hacker](http://rodadahacker.org/)  - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    The RodAda Hacker is a Brazilian network that provides collaborative workshops of programming specially designed for girls and women. It is a space for those who want to dream, build awesome projects and rethink about existing technology.
+
   - [Technovation](http://www.technovationchallenge.org/)
 
     The global technology entrepreneurship program for girls. Students work in teams to develop mobile app startups to solve real problems in their communities.
@@ -104,9 +112,9 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Women Who Code](https://www.womenwhocode.com) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
 
     Women Who Code (WWCode) is a U.S. based 501(c)(3) nonprofit dedicated to inspiring women to excel in technology careers. We connect amazing women with other like minded amazing women around the globe who unite under one simple notion – the world of technology is much better with women in it.
-    
-    - [Bay Area Girls](http://girlgeek.io/about/)
-    
+
+  - [Bay Area Girls](http://girlgeek.io/about/)
+
     Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
 ## Initiatives/Programs
@@ -238,11 +246,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
 
   - [Women Who Tech](http://womenwhotech.com/)
-  
+
     Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
-    
+
   - [Write/Speak/Code](http://www.writespeakcode.com/)
-  
+
      Write/Speak/Code is on a mission to empower women software developers to become thought leaders, conference speakers, and open source contributors. They run conferences and events across the US.
 
 ### Communities/Groups
@@ -260,7 +268,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Women Hack for Non-Profits (WHFNP) is a volunteer community that enhances the skills of women in technology, supports their development and provides opportunities to explore open source. The group matches skilled women to open source projects that are being developed for non-profits, charities and individuals to create a positive social impact.
     
-
 ### Mentorship
   Projects with mentoring opportunities.
 
@@ -317,11 +324,11 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Womoz Blog. Program updates and news from the women and Mozilla project.
 
   - [InspirAda na Computação](https://inspiradanacomputacao.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
-   
+
     The blog aims to share content in order to inspire women to become interested in the tech area. It promotes the access to the tech knowledge and brings, as a result, the equality of opportunities.
-    
+
   - [WomenTechmakers](https://www.womentechmakers.com/)
-    
+
     Google's global program providing visibility, community, & resources for women in technology. Provides resources to women starting their career and women with an established career in tech to further their success.
 
 ### Documentaries/Movies

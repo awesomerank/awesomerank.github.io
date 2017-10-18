@@ -7,13 +7,13 @@ title: Awesome Rank for tmcw/awesome-geojson
 	This list is a copy of <a href="https://github.com/tmcw/awesome-geojson">tmcw/awesome-geojson</a> with ranks
 </p>
 ---
-# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# awesome geojson [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 GeoJSON utilities that will make your life easier.
 
 ### operations
 
-* [CoGran ★79](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
+* [CoGran ★80](https://github.com/berlinermorgenpost/cogran): Resample statistics from one set of GeoJSON polygons to another
 * [geo_assigner ★0](https://github.com/stadt-karlsruhe/geo_assigner): Copy a property to all intersecting features
 * [geojson-coords ★12](https://github.com/mapbox/geojson-coords): Extract coordinates from GeoJSON
 * [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
@@ -29,7 +29,7 @@ GeoJSON utilities that will make your life easier.
 * [point-grouper ★26 ⏳3Y](https://github.com/substack/point-grouper): group geojson points into containing polygons
 * [geojson-join](https://github.com/tmcw/geojson-join): join geojson against json, dbf, and csv files
 * [simplify-geojson ★80 ⏳1Y](https://github.com/maxogden/simplify-geojson): apply the ramer-douglas-peucker line simplification to geojson features or feature collections in JS or on the CLI
-* [turf ★2943](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
+* [turf ★3010](https://github.com/Turfjs/turf): collection of functions for spatial operations and analysis
 * [winnow](https://github.com/dmfenton/winnow): run sql queries against geojson with javascript
 
 ### editors & viewers
@@ -92,7 +92,7 @@ GeoJSON utilities that will make your life easier.
 * [whereonearth-airport ★13 ⏳4Y](https://github.com/straup/whereonearth-airport): outlines of every airport
 * [whereonearth-building ★5 ⏳6Y](https://github.com/straup/whereonearth-building): building outlines
 * [whereonearth repos](https://github.com/search?q=user%3Astraup+whereonearth): other features output from GeoPlanet by Aaron Straup Cope
-* [tgn-geojson ★13 ⏳1Y](https://github.com/straup/tgn-geojson): The Getty Thesaurus of Geographic Names (TGN) As GeoJSON.
+* [tgn-geojson ★13 ⏳2Y](https://github.com/straup/tgn-geojson): The Getty Thesaurus of Geographic Names (TGN) As GeoJSON.
 * [strava-to-geojsonio ★5 ⏳3Y](https://github.com/taketime/strava-to-geojsonio): export runs & rides from Strava to GeoJSON
 * [strava-geojson](https://github.com/tmcw/strava-geojson): export _all_ strava data to geojson, in node & [on the web](http://www.macwright.org/strava-geojson/)
 
@@ -102,7 +102,7 @@ GeoJSON utilities that will make your life easier.
 * [rgeo-geojson ★117](https://github.com/rgeo/rgeo-geojson): serialize geojson to/from ruby RGeo datatypes
 * [rust-geojson ★44](https://github.com/georust/rust-geojson): serialize geojson to/from rust datatypes
 * [geojson-jackson ★103](https://github.com/opendatalab-de/geojson-jackson): serialize GeoJSON to and from Java datatypes (based on [Jackson](http://wiki.fasterxml.com/JacksonHome))
-* [mapbox-java](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson ★10098](https://github.com/google/gson))
+* [mapbox-java](https://github.com/mapbox/mapbox-java): serialize GeoJSON to and from Java datatypes (based on [Gson ★10442](https://github.com/google/gson))
 
 ### resources
 

@@ -7,7 +7,7 @@ title: Awesome Rank for wbkd/awesome-d3
 	This list is a copy of <a href="https://github.com/wbkd/awesome-d3">wbkd/awesome-d3</a> with ranks
 </p>
 ---
-# Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome D3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 This list keeps track of interesting [D3js](http://d3js.org) libraries, plugins and utilities.
 <br />We decided not to list tutorials, resources or concepts here, because there is already a **[very good list of readings](https://github.com/mbostock/d3/wiki/Tutorials)** out there you can check out and contribute to.
@@ -65,7 +65,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [plottablejs](http://plottablejs.org/) - Flexible, interactive charts for the web
 - [pykcharts](https://pykih.com/products/pykCharts) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart ★301](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
-- [rickshaw ★6101](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
+- [rickshaw ★6118](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](https://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [techanjs](http://techanjs.org/) - A visual, stock charting and technical analysis
@@ -111,7 +111,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 geo projection ★555](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [d3 geomap](http://d3-geomap.github.io/) - Library for creating geographic maps
 - [d3.geo2rect ★146](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
-- [earthjs.js ★9](https://github.com/earthjs/earthjs) - Easy building orthographic globe, using D3v4 with SVG, Canvas & WebGL(Threejs) 
+- [earthjs.js ★34](https://github.com/earthjs/earthjs) - Easy building orthographic globe, using D3v4 with SVG, Canvas & WebGL(Threejs) 
 - [mapmap.js ★78](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js ★82 ⏳2Y](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 - [maptable ★48](https://github.com/Packet-Clearing-House/maptable) - Convert any dataset to a customizable set of visual components (Map, Filters, Table)
@@ -169,7 +169,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [comic.js ★111 ⏳1Y](https://github.com/balint42/comic.js) - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
 - [dragit ★152 ⏳1Y](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
 - [d3moji ★100](https://github.com/mathisonian/d3moji) - First class emoji support
-- [d3-cloud ★2210](https://github.com/jasondavies/d3-cloud) - Word clouds
+- [d3-cloud ★2241](https://github.com/jasondavies/d3-cloud) - Word clouds
 - [d3-context-menu ★63](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 - [d3-force-gravity ★17 ⏳1Y](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion) using d3-force
 - [d3-resume ★24 ⏳2Y](https://github.com/glena/d3-resume) - Resume visualizer
@@ -177,7 +177,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3plus](http://d3plus.org/) - An extension to D3 that allows fast and easy creation of data visualizations
 - [d3plus-text ★29](https://github.com/d3plus/d3plus-text) - Smart SVG text box with line wrapping and automatic font scaling
 - [graph-scroll](http://1wheel.github.io/graph-scroll/) - Simple scrolling events
-- [jsdocs2diagram ★30 ⏳1Y](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
+- [jsdocs2diagram ★30 ⏳2Y](https://github.com/amcmillan01/jsdoc2diagram) - Create tree diagram from jsdoc
 - [mermaid](http://knsv.github.io/mermaid/) - Generation of diagrams and flowcharts from text in a similar manner as markdown
 - [netvis ★10 ⏳2Y](https://github.com/dborzov/netvis) - Tool to visualize network communication for arbitrary protocols
 

@@ -7,7 +7,7 @@ title: Awesome Rank for dustinspecker/awesome-eslint
 	This list is a copy of <a href="https://github.com/dustinspecker/awesome-eslint">dustinspecker/awesome-eslint</a> with ranks
 </p>
 ---
-# Awesome ESLint [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome ESLint [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 [<img src="http://eslint.org/img/logo.svg" width="160" align="right" alt="eslint">](http://eslint.org)
 
@@ -39,7 +39,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Shopify](https://github.com/Shopify/eslint-plugin-shopify) - Shareable config for [Shopify's style guide ★128](https://github.com/Shopify/javascript)
 - [Standard](https://github.com/feross/eslint-config-standard) - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard)
 - [Supermind ★1](https://github.com/supermind/eslint-config-supermind) - Shareable config for Supermind style
-- [XO](https://github.com/sindresorhus/eslint-config-xo) - Shareable config for [XO ★2918](https://github.com/sindresorhus/xo)
+- [XO](https://github.com/sindresorhus/eslint-config-xo) - Shareable config for [XO ★2969](https://github.com/sindresorhus/xo)
 
 ## Parsers
 
@@ -115,7 +115,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [prettier-standard ★202](https://github.com/sheerun/prettier-standard) - Prettier formatter with custom eslint rules allowed
 - [Standard](https://github.com/feross/standard) - JavaScript Standard Style
 - [Superlint ★0](https://github.com/supermind/superlint) - JavaScript Supermind Style
-- [XO ★2918](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️
+- [XO ★2969](https://github.com/sindresorhus/xo) - JavaScript happiness style linter ❤️
 
 ## Tools
 

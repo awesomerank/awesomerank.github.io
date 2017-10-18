@@ -7,7 +7,7 @@ title: Awesome Rank for sfischer13/awesome-eta
 	This list is a copy of <a href="https://github.com/sfischer13/awesome-eta">sfischer13/awesome-eta</a> with ranks
 </p>
 ---
-# Awesome Eta [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Eta [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/typelead/eta/blob/master/eta_logo.png" align="right" width="100" alt="Eta"> ★1524](https://github.com/typelead/eta)
 
@@ -63,7 +63,7 @@ You might also like [awesome-haskell ★1224](https://github.com/krispo/awesome-
 
 ### Compatibility
 
-- [Etlas Packages ★29](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta.
+- [Etlas Packages ★33](https://github.com/typelead/eta-hackage#supported-packages) - Hackage packages that work with Eta.
 - [Template Haskell](http://eta-lang.org/docs/html/faq.html#will-eta-have-an-interpreter-and-support-templatehaskell-in-the-future) - Status of Template Haskell.
 - [GHC 8](http://eta-lang.org/docs/html/faq.html#will-eta-be-compatible-with-ghc-8) - Compatibility with GHC 8.
 

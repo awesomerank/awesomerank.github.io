@@ -7,7 +7,7 @@ title: Awesome Rank for SrinivasanTarget/awesome-appium
 	This list is a copy of <a href="https://github.com/SrinivasanTarget/awesome-appium">SrinivasanTarget/awesome-appium</a> with ranks
 </p>
 ---
-# Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
+# Awesome Appium [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/SrinivasanTarget/awesome-appium.svg?branch=master)](https://travis-ci.org/SrinivasanTarget/awesome-appium)
 
 [<img src="https://avatars3.githubusercontent.com/u/3221291?v=3&s=200" align="right" width="100">](http://appium.io)
 
@@ -15,7 +15,7 @@ title: Awesome Rank for SrinivasanTarget/awesome-appium
 
 Feel free to add links via PRs and file issues to start discussions.
 
-Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list thing.
 
 ## Contents
 
@@ -88,7 +88,7 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
 - [Appium Workshop Selnium Conf 2016 ★7](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison.
 
 ## Cloud Solutions & DevOps
-- [Appium Tests in AWS Device Farm ★40](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
+- [Appium Tests in AWS Device Farm ★43](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
 - [Appium Tests in OpenSTF Device Farm ★45](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm.
 - [Official Appium Docker Images ★67](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
 - [Appium Docker Images ★69](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android.

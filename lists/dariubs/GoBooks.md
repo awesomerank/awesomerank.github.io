@@ -7,7 +7,7 @@ title: Awesome Rank for dariubs/GoBooks
 	This list is a copy of <a href="https://github.com/dariubs/GoBooks">dariubs/GoBooks</a> with ranks
 </p>
 ---
-Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)
@@ -46,7 +46,7 @@ This companion book contains material initially written specifically for this ev
 
 A online book to start learning Golang. It features numerous exercises (and answers).
 
-The [markdown source is available on Github ★196](https://github.com/miekg/learninggo).
+The [markdown source is available on Github ★200](https://github.com/miekg/learninggo).
 
 ### [Go for Javascript Developers](https://github.com/bulim/go-for-javascript-developers) *Free*
 

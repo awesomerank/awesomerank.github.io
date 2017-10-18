@@ -7,7 +7,7 @@ title: Awesome Rank for vinta/awesome-python
 	This list is a copy of <a href="https://github.com/vinta/awesome-python">vinta/awesome-python</a> with ranks
 </p>
 ---
-# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
@@ -177,7 +177,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 *Libraries for implementing authentications schemes.*
 
 * OAuth
-    * [Authomatic ★814](https://github.com/authomatic/authomatic) - Simple but powerful framework agnostic authentication/authorization client.
+    * [Authomatic ★821](https://github.com/authomatic/authomatic) - Simple but powerful framework agnostic authentication/authorization client.
     * [django-allauth ★3271](https://github.com/pennersr/django-allauth) - Authentication app for Django that "just works."
     * [django-oauth-toolkit ★1075](https://github.com/evonove/django-oauth-toolkit) - OAuth 2 goodies for Django.
     * [Flask-OAuthlib ★1075](https://github.com/lepture/flask-oauthlib) - OAuth 1.0/a, 2.0 implementation of client and provider for Flask.
@@ -228,7 +228,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 * [django-viewlet ★57](https://github.com/5monkeys/django-viewlet) - Render template parts with extended cache control.
 * [dogpile.cache](http://dogpilecache.readthedocs.io/en/latest/) - dogpile.cache is next generation replacement for Beaker made by same authors.
 * [HermesCache](https://pypi.python.org/pypi/HermesCache) - Python caching library with tag-based invalidation and dogpile effect prevention.
-* [johnny-cache ★271 ⏳1Y](https://github.com/jmoiron/johnny-cache) - A caching framework for django applications.
+* [johnny-cache ★271 ⏳2Y](https://github.com/jmoiron/johnny-cache) - A caching framework for django applications.
 * [pylibmc ★362](https://github.com/lericson/pylibmc) - A Python wrapper around the [libmemcached](http://libmemcached.org/libMemcached.html) interface.
 
 ## ChatOps Tools
@@ -249,6 +249,8 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
     * [Flake8](https://pypi.python.org/pypi/flake8) - The modular source code checker: pep8, pyflakes and co.
     * [pylama ★366](https://github.com/klen/pylama) - Code audit tool for Python and JavaScript.
     * [Pylint](https://www.pylint.org/) - A Fully customizable source code analyzer.
+* Static Type Checker
+    * [mypy](http://mypy-lang.org/) - Check variable types during compile time.
 
 ## Command-line Tools
 
@@ -266,7 +268,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
     * [Python-Fire ★6832](https://github.com/google/python-fire) - A library for creating command line interfaces (CLIs) from absolutely any Python object.
     * [python-prompt-toolkit ★3879](https://github.com/jonathanslenders/python-prompt-toolkit) - A Library for building powerful interactive command lines.
 * Productivity Tools
-    * [aws-cli ★5365](https://github.com/aws/aws-cli) - A universal command-line interface for Amazon Web Services.
+    * [aws-cli ★5488](https://github.com/aws/aws-cli) - A universal command-line interface for Amazon Web Services.
     * [bashplotlib ★733](https://github.com/glamp/bashplotlib) - Making basic plots in the terminal.
     * [caniusepython3 ★297](https://github.com/brettcannon/caniusepython3) - Determine what projects are blocking you from porting to Python 3.
     * [cookiecutter ★5733](https://github.com/audreyr/cookiecutter) - A command-line utility that creates projects from cookiecutters (project templates).
@@ -277,8 +279,8 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
     * [PathPicker ★3518](https://github.com/facebook/PathPicker) - Select files out of bash output.
     * [percol ★2400](https://github.com/mooz/percol) - Adds flavor of interactive selection to the traditional pipe concept on UNIX.
     * [pgcli ★5939](https://github.com/dbcli/pgcli) - Postgres CLI with autocompletion and syntax highlighting.
-    * [SAWS ★3362](https://github.com/donnemartin/saws) - A Supercharged AWS CLI.
-    * [thefuck ★30864](https://github.com/nvbn/thefuck) - Correcting your previous console command.
+    * [SAWS ★3386](https://github.com/donnemartin/saws) - A Supercharged AWS CLI.
+    * [thefuck ★31499](https://github.com/nvbn/thefuck) - Correcting your previous console command.
     * [try ★390](https://github.com/timofurrer/try) - A dead simple CLI to try out python packages - It's never been easier.
 
 ## Compatibility
@@ -493,8 +495,8 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 
 *Libraries for downloading.*
 
-* [s3cmd ★2372](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
-* [s4cmd ★644](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
+* [s3cmd ★2418](https://github.com/s3tools/s3cmd) - A command line tool for managing Amazon S3 and CloudFront.
+* [s4cmd ★648](https://github.com/bloomreach/s4cmd) - Super S3 command line tool, good for higher performance.
 * [you-get](http://you-get.org/) - A YouTube/Youku/Niconico video downloader written in Python 3.
 * [youtube-dl](http://rg3.github.io/youtube-dl/) - A small command-line program to download videos from YouTube.
 
@@ -769,7 +771,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 
 * [PySpark](https://pypi.python.org/pypi/pyspark/) - Apache Spark Python API.
 * [luigi ★7778](https://github.com/spotify/luigi) - A module that helps you build complex pipelines of batch jobs.
-* [mrjob ★2089](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
+* [mrjob ★2109](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or Amazon Web Services.
 * [streamparse ★1199](https://github.com/Parsely/streamparse) - Run Python code against real-time streams of data. Integrates with [Apache Storm](http://storm.apache.org/).
 * [dask](https://dask.pydata.org/en/latest/) - A flexible parallel computing library for analytic computing.
 
@@ -787,7 +789,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 
 *Useful libraries or tools that don't fit in the categories above.*
 
-* [attrs ★1005](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
+* [attrs ★1048](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
 * [blinker ★599](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
 * [itsdangerous ★1252](https://github.com/pallets/itsdangerous) - Various helpers to pass trusted data to untrusted environments.
 * [pluginbase ★595](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python.
@@ -803,7 +805,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 * [langid.py ★882](https://github.com/saffsd/langid.py) - Stand-alone language identification system.
 * [NLTK](http://www.nltk.org/) - A leading platform for building Python programs to work with human language data.
 * [Pattern](http://www.clips.ua.ac.be/pattern) - A web mining module for the Python.
-* [polyglot ★595](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
+* [polyglot ★629](https://github.com/aboSamoor/polyglot) - Natural language pipeline supporting hundreds of languages.
 * [SnowNLP ★2302](https://github.com/isnowfy/snownlp) - A library for processing Chinese text.
 * [spaCy](https://spacy.io/) - A library for industrial-strength natural language processing in Python and Cython.
 * [TextBlob ★4276](https://github.com/sloria/TextBlob) - Providing a consistent API for diving into common NLP tasks.
@@ -993,9 +995,9 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 
 *Frameworks for developing serverless Python code.*
 
-* [apex ★6093](https://github.com/apex/apex) - Build, deploy, and manage [AWS Lambda](https://aws.amazon.com/lambda/) functions with ease.
-* [python-lambda ★490](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying Python code in AWS Lambda.
-* [Zappa ★4864](https://github.com/Miserlou/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
+* [apex ★6218](https://github.com/apex/apex) - Build, deploy, and manage [AWS Lambda](https://aws.amazon.com/lambda/) functions with ease.
+* [python-lambda ★521](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying Python code in AWS Lambda.
+* [Zappa ★5152](https://github.com/Miserlou/Zappa) - A tool for deploying WSGI applications on AWS Lambda and API Gateway.
 
 ## Specific Formats Processing
 
@@ -1104,10 +1106,10 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
     * [difflib](https://docs.python.org/2/library/difflib.html) - (Python standard library) Helpers for computing deltas.
     * [ftfy ★1780](https://github.com/LuminosoInsight/python-ftfy) - Makes Unicode text less broken and more consistent automagically.
     * [fuzzywuzzy ★3613](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching.
-    * [Levenshtein ★357](https://github.com/ztane/python-Levenshtein) - Fast computation of Levenshtein distance and string similarity.
+    * [Levenshtein ★357 ⏳1Y](https://github.com/ztane/python-Levenshtein) - Fast computation of Levenshtein distance and string similarity.
     * [pangu.py ★61 ⏳1Y](https://github.com/vinta/pangu.py) - Spacing texts for CJK and alphanumerics.
     * [pyfiglet ★239](https://github.com/pwaller/pyfiglet) - An implementation of figlet written in Python.
-    * [pypinyin ★663](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi to pinyin.
+    * [pypinyin ★693](https://github.com/mozillazg/python-pinyin) - Convert Chinese hanzi to pinyin.
     * [shortuuid ★811](https://github.com/skorokithakis/shortuuid) - A generator library for concise, unambiguous and URL-safe UUIDs.
     * [unidecode](https://pypi.python.org/pypi/Unidecode) - ASCII transliterations of Unicode text.
     * [uniout ★131](https://github.com/moskytw/uniout) - Print readable chars instead of the escaped string.
@@ -1130,7 +1132,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 *Libraries for accessing third party services APIs. See: [List of Python API Wrappers and Libraries ★982](https://github.com/realpython/list-of-python-api-wrappers).*
 
 * [apache-libcloud](https://libcloud.apache.org/) - One Python library for all clouds.
-* [boto3 ★2498](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
+* [boto3 ★2594](https://github.com/boto/boto3) - Python interface to Amazon Web Services.
 * [django-wordpress ★251](https://github.com/istrategylabs/django-wordpress) - WordPress models and views for Django.
 * [facebook-sdk ★2087](https://github.com/mobolic/facebook-sdk) - Facebook Platform Python SDK.
 * [facepy ★668](https://github.com/jgorset/facepy) - Facepy makes it really easy to interact with Facebook's Graph API
@@ -1297,8 +1299,8 @@ Where to discover new Python libraries.
 List of lists.
 
 * Monty
-    * [awesome ★65640](https://github.com/sindresorhus/awesome)
-    * [lists ★4466](https://github.com/jnv/lists)
+    * [awesome ★67308](https://github.com/sindresorhus/awesome)
+    * [lists ★4518](https://github.com/jnv/lists)
 * Python
     * [pycrumbs ★2604](https://github.com/kirang89/pycrumbs)
     * [python-github-projects ★411](https://github.com/checkcheckzz/python-github-projects)

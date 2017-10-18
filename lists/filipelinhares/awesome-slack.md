@@ -9,7 +9,7 @@ title: Awesome Rank for filipelinhares/awesome-slack
 ---
 ![Awesome Slack](https://github.com/filipelinhares/awesome-slack/blob/master/images/logo.jpg)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/filipelinhares/awesome-slack.svg)](https://travis-ci.org/filipelinhares/awesome-slack)
 
 A list of communities about web development and design that are powered by [Slack](https://slack.com/).
@@ -70,7 +70,7 @@ A list of communities about web development and design that are powered by [Slac
 - [Google Cloud Platform](http://bit.ly/gcp-slack)
 
 ## Looking for more lists like that?
-- [Awesome ★65640](https://github.com/sindresorhus/awesome)
+- [Awesome ★67308](https://github.com/sindresorhus/awesome)
 - [Awesome Community](https://github.com/peterkokot/awesome-community)
 
 ## Contribute

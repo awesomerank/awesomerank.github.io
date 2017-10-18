@@ -7,7 +7,7 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 	This list is a copy of <a href="https://github.com/hobbyquaker/awesome-homematic">hobbyquaker/awesome-homematic</a> with ranks
 </p>
 ---
-# Awesome Homematic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Homematic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > A curated list of Homematic related links
 
@@ -32,6 +32,7 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 ## Community 
 
 * [Homematic Forum](https://homematic-forum.de/) - Discussion Forums.
+* [Homematic Forum Link/Skript-Sammlung](https://homematic-forum.de/forum/viewtopic.php?f=26&t=27907) - Curated link list by AndiN.
 * [Homematic Inside](https://www.homematic-inside.de/) - News, Blog and more.
 * [Wikimatic](http://www.wikimatic.de/wiki/Hauptseite) - Community Wiki.
 
@@ -85,7 +86,7 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 
 ## Interfacing Software
 
-* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge ★6324](https://github.com/nfarina/homebridge) Platform.
+* [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge ★6598](https://github.com/nfarina/homebridge) Platform.
 * [Homematic-Virtual-Interface ★11](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue).
 * [Hm2mqtt.js ★8](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT.
 * [Hmcompanion ★11 ⏳1Y](https://github.com/owagner/hmcompanion) - Generic telnet based interface.

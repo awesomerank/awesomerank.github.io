@@ -7,7 +7,7 @@ title: Awesome Rank for numetriclabz/awesome-db
 	This list is a copy of <a href="https://github.com/numetriclabz/awesome-db">numetriclabz/awesome-db</a> with ranks
 </p>
 ---
-﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+﻿awesome - db [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 =========
 A curated list of amazingly awesome database libraries, resources and shiny things by [Numetric Technologies](https://www.numetriclabz.com/)
 
@@ -46,7 +46,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Erlang
 
-* [riak ★2845](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
+* [riak ★2871](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 * [Pulsedb](http://pulsedb.io) - Pulsedb is a time series database server and library.
 
 ## Go-lang
@@ -67,7 +67,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 ## JAVA
 * [cassandra ★3854](https://github.com/apache/cassandra) - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
 * [elasticsearch](https://github.com/elasticsearch/elasticsearch) - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
-* [lmdbjni ★164](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
+* [lmdbjni ★165](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
 * [mapdb ★2814](https://github.com/jankotek/MapDB) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org
 * [neo4j ★4229](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
 * [orientdb ★3186](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.

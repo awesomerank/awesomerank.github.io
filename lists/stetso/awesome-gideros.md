@@ -7,7 +7,7 @@ title: Awesome Rank for stetso/awesome-gideros
 	This list is a copy of <a href="https://github.com/stetso/awesome-gideros">stetso/awesome-gideros</a> with ranks
 </p>
 ---
-# Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
 	<a href="http://giderosmobile.com"><img width="200" src="gideros_logo.png" alt="Awesome Gideros"></a>
@@ -119,7 +119,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 - [Google Service integration](http://giderosmobile.com/forum/discussion/5806/tuto-video-tutorial-how-to-add-google-services-to-your-app) - Second part of the Admob tutorial showing Google Play Service integration.
 
 ### GUI
-- [Layout ★7](https://github.com/Nlcke/layout) - Comprehensive Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
+- [Layout ★6](https://github.com/Nlcke/layout) - Comprehensive Gideors GUI framework ([forum entry](http://giderosmobile.com/forum/discussion/6651/layout-gideros-gui-framework#Item_23)).
 - [Button class](http://appcodingeasy.com/Gideros-Mobile/Gideros-mobile-button-class) - Simple class for creating clickable buttons.
 - [AceSlide class](http://appcodingeasy.com/Gideros-Mobile/Easy-input-for-choosing-packages-or-levels-in-Gideros-Mobile) - Sliding UI-Element that can be used for example for level selection.
 
@@ -143,7 +143,7 @@ A curated list of awesome resources for the [Gideros Game Development Framework]
 ## Related Awesome Lists
 - [awesome-lua ★1489](https://github.com/LewisJEllis/awesome-lua)
 - [awesome-love2d ★738](https://github.com/love2d-community/awesome-love2d)
-- [awesome-gamedev ★156](https://github.com/mbrukman/awesome-gamedev)
+- [awesome-gamedev ★173](https://github.com/mbrukman/awesome-gamedev)
 
 
 ## License and Contributing

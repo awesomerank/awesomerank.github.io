@@ -7,13 +7,13 @@ title: Awesome Rank for bnb/awesome-hyper
 	This list is a copy of <a href="https://github.com/bnb/awesome-hyper">bnb/awesome-hyper</a> with ranks
 </p>
 ---
-# Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
+# Awesome Hyper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Awesome](https://img.shields.io/travis/bnb/awesome-hyper.svg)](https://travis-ci.org/bnb/awesome-hyper)
 
 [<img src="https://raw.githubusercontent.com/bnb/awesome-hyper/master/Hyper-Mark-Large.png" align="right" width="240">](https://hyper.is)
 
 > A curated list of sweet Hyper [packages](#packages), [themes](#themes), and [resources](#resources).
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm ★2553](https://github.com/sindresorhus/awesome-npm), which both have CLI stuff you can use with Hyper!*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. You might also like [awesome-node](https://github.com/sindresorhus/awesome-nodejs) and [awesome-npm ★2614](https://github.com/sindresorhus/awesome-npm), which both have CLI stuff you can use with Hyper!*
 
 *Please read the [contribution guidelines](https://github.com/bnb/awesome-hyper/blob/master/CONTRIBUTING.md) before contributing.*
 
@@ -73,6 +73,7 @@ Name and description | Downloads
 [hypergoogle](https://www.npmjs.com/package/hypergoogle) - Search Google from your terminal. | [![npm](https://img.shields.io/npm/dm/hypergoogle.svg?label=DL)](https://www.npmjs.com/package/hypergoogle)
 [hyper-quit](https://www.npmjs.com/package/hyper-quit) - Quit Hyper on macOS when last window closes. | [![npm](https://img.shields.io/npm/dm/hyper-quit.svg?label=DL)](https://www.npmjs.com/package/hyper-quit)
 [hyper-confirm](https://www.npmjs.com/package/hyper-confirm) - Displays a confirmation dialog before quitting Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-confirm.svg?label=DL)](https://www.npmjs.com/package/hyper-confirm)
+[hyper-match](https://www.npmjs.com/package/hyper-match) - Links patterns such as urls, emails and file paths to configured commands. | [![npm](https://img.shields.io/npm/dm/hyper-match.svg?label=DL)](https://www.npmjs.com/package/hyper-match)
 
 [⬆ Back to top](#contents)
 
@@ -116,6 +117,7 @@ Name and description | Downloads
 [hyper-spotify](https://www.npmjs.com/package/hyper-spotify) - Displays currently playing song on Spotify at the bottom of the terminal and allows you to control your favourite music. | [![npm](https://img.shields.io/npm/dm/hyper-spotify.svg?label=DL)](https://www.npmjs.com/package/hyper-spotify)
 [hyper-background](https://www.npmjs.com/package/hyper-background) - Change the background of your Hyper terminal! | [![npm](https://img.shields.io/npm/dm/hyper-background.svg?label=DL)](https://www.npmjs.com/package/hyper-background)
 [hyper-vertical-tabs](https://www.npmjs.com/package/hyper-vertical-tabs) - Put the tabs on a sidebar to the left, as is possible in iTerm2 and ROXTerm. | [![npm](https://img.shields.io/npm/dm/hyper-vertical-tabs.svg?label=DL)](https://www.npmjs.com/package/hyper-vertical-tabs)
+[themer](https://www.npmjs.com/package/themer) - Generate themes for Hyper and all your other development tools | [![npm](https://img.shields.io/npm/dm/themer.svg?label=DL)](https://www.npmjs.com/package/themer)
 
 [⬆ Back to top](#contents)
 
@@ -188,6 +190,7 @@ Name and description | Downloads
 [hyper-solarized-dark](https://www.npmjs.com/package/hyper-solarized-dark) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-dark.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-dark)
 [hyper-solarized-light](https://www.npmjs.com/package/hyper-solarized-light) - Pleasant and carefully chosen colors based on the popular [solarized](http://ethanschoonover.com/solarized) palette. | [![npm](https://img.shields.io/npm/dm/hyper-solarized-light.svg?label=DL)](https://www.npmjs.com/package/hyper-solarized-light)
 [hyper-star-wars](https://www.npmjs.com/package/hyper-star-wars) - Super awesome, your Hyper terminal shall look. | [![npm](https://img.shields.io/npm/dm/hyper-star-wars.svg?label=DL)](https://www.npmjs.com/package/hyper-star-wars)
+[hyper-theme](https://www.npmjs.com/package/hyper-theme) - Hyper colors theme for Hyper terminal. | [![npm](https://img.shields.io/npm/dm/hyper-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-theme) 
 [hyper-thirtyone](https://www.npmjs.com/package/hyper-thirtyone) - A slightly modified classic linux terminal theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-thirtyone.svg?label=DL)](https://www.npmjs.com/package/hyper-thirtyone)
 [hyper-white-theme](https://www.npmjs.com/package/hyper-white-theme) - White & Purple theme for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-white-theme.svg?label=DL)](https://www.npmjs.com/package/hyper-white-theme)
 [hyper-zenburn](https://www.npmjs.com/package/hyper-zenburn) - A classic low-contrast theme originally made for vim adapted for Hyper. | [![npm](https://img.shields.io/npm/dm/hyper-zenburn.svg?label=DL)](https://www.npmjs.com/package/hyper-zenburn)
@@ -204,6 +207,7 @@ Name and description | Downloads
 [hypersolar-dark](https://www.npmjs.com/package/hypersolar-dark) - A dark theme based loosely on Solarized Dark, with a fix for the usual solarized dark colours with blacks that actually show up in your terminal! | [![npm](https://img.shields.io/npm/dm/hypersolar-dark.svg?label=DL)](https://www.npmjs.com/package/hypersolar-dark)
 [hyperterm-adventurous](https://www.npmjs.com/package/hyperterm-adventurous) - An adventure time inspired theme based on the Adventurous Atom theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-adventurous.svg?label=DL)](https://www.npmjs.com/package/hyperterm-adventurous)
 [hyperterm-atom-dark](https://www.npmjs.com/package/hyperterm-atom-dark) - Dark - Really beautiful import of Atom One Dark theme from the [official Atom theme ★213](https://github.com/atom/one-dark-syntax). | [![npm](https://img.shields.io/npm/dm/hyperterm-atom-dark.svg?label=DL)](https://www.npmjs.com/package/hyperterm-atom-dark)
+[hyperterm-base-16-ocean](https://www.npmjs.com/package/hyperterm-base-16-ocean) - Simple Base 16 Ocean theme for hyperterm | [![npm](https://img.shields.io/npm/dm/hyperterm-base-16-ocean.svg?label=DL)](https://www.npmjs.com/package/hyperterm-base-16-ocean)
 [hyperterm-base16-tomorrow-dark](https://www.npmjs.com/package/hyperterm-base16-tomorrow-dark) - Dark - Hyper port of Atom's `Base16 Tomorrow Dark` Theme, with a pretty muted pastel pallette. | [![npm](https://img.shields.io/npm/dm/hyperterm-base16-tomorrow-dark.svg?label=DL)](https://www.npmjs.com/package/hyperterm-base16-tomorrow-dark)
 [hyperterm-bold-tab](https://www.npmjs.com/package/hyperterm-bold-tab) - Bold's your active tab text. Makes keeping track of your current tab painless. | [![npm](https://img.shields.io/npm/dm/hyperterm-bold-tab.svg?label=DL)](https://www.npmjs.com/package/hyperterm-bold-tab)
 [hyperterm-cobalt2-theme](https://www.npmjs.com/package/hyperterm-cobalt2-theme) - Dusty Blue, dark with vibrant pops of colour for the important stuff. Goes well with Cobalt2 ZSH theme. | [![npm](https://img.shields.io/npm/dm/hyperterm-cobalt2-theme.svg?label=DL)](https://www.npmjs.com/package/hyperterm-cobalt2-theme)

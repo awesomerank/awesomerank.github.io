@@ -81,16 +81,16 @@ Please check the <a href="https://github.com/tobiasbueschel/awesome-pokemon/blob
 - [alfred-pokedex ★19 ⏳1Y](https://github.com/vutran/alfred-pokedex) - Alfred 3 workflow to lookup information about Pokémon.
 - [hyper-pokemon](https://github.com/hyper-pokemon/hyper-pokemon) - Wondrous, tailor-made Pokémon themes for your Hyper terminal.
 - [Pokemon-Go-Controller ★2465](https://github.com/kahopoon/Pokemon-Go-Controller) - Play Pokémon GO safely or at unavailable area.
-- [pokecrystal ★883](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
+- [pokecrystal ★902](https://github.com/pret/pokecrystal) - Disassembly of Pokémon Crystal.
 - [x-pokemon ★90 ⏳2Y](https://github.com/passy/x-pokemon) - A web component to display Pokémon.
-- [pokered ★1282](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
-- [pokemon-reverse-engineering-tools ★131](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
+- [pokered ★1349](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue.
+- [pokemon-reverse-engineering-tools ★137](https://github.com/pret/pokemon-reverse-engineering-tools) - Tools for compiling and disassembling Pokémon Red and Pokémon Crystal.
 - [pokemon-go-mitm-node](https://github.com/rastapasta/pokemon-go-mitm-node) - Pokémon GO MITM Proxy.
 - [PokeMMO ★598](https://github.com/maierfelix/PokeMMO) - WebGL Pokémon MMO Engine with Realtime Editor.
 - [pogo-optimizer ★530 ⏳1Y](https://github.com/justinleewells/pogo-optimizer) - Shows you the IVs and information necessary to determine which Pokémon get ground into candy.
 - [PoGoTools ★4](https://github.com/nelsyeung/PoGoTools) - A set of CLI tools for getting IVs, transferring Pokémon, evolving Pokémon, and trashing items.
 - [is-pokemon-go-up](https://github.com/sotojuan/is-pokemon-go-up) - Node.js app to check the responsiveness of the Pokémon GO servers.
-- [slack-pokemon-emoji ★22](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the Pokémon to Slack emoji.
+- [slack-pokemon-emoji ★22 ⏳1Y](https://github.com/fraserxu/slack-pokemon-emoji) - A tool to upload all the Pokémon to Slack emoji.
 - [PokemonGO-IV-Renamer ★92](https://github.com/Boren/PokemonGO-IV-Renamer) - Automatically renames your Pokémon to their IV stats.
 - [pokemongo-genymotion ★15](https://github.com/jlobos/pokemongo-genymotion) - Play Pokémon GO from your Genymotion device.
 - [pokemongo-game-master ★28](https://github.com/BrunnerLivio/pokemongo-game-master) - Collection of Pokémon GO Game Master versions.

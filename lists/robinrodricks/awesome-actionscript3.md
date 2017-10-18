@@ -9,7 +9,7 @@ title: Awesome Rank for robinrodricks/awesome-actionscript3
 ---
 [<img src="https://rawgit.com/hgupta9/awesome-actionscript3/master/AS3_AIR.png" align="right" width="150">](https://www.adobe.com/products/air.html)
 
-# Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 
@@ -303,7 +303,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [ActionMongo ★2 ⏳7Y](https://github.com/RIAlizer/ActionMongo) - MongoDB driver.
 
 #### CouchDB
-* [AS3couchdb ★41 ⏳6Y](https://github.com/bustardcelly/as3couchdb) - Client-side API for interacting with a CouchDB instance.
+* [AS3couchdb ★41 ⏳7Y](https://github.com/bustardcelly/as3couchdb) - Client-side API for interacting with a CouchDB instance.
 * [Soup ★23 ⏳8Y](https://github.com/dima/soup) - Mixing CouchDB, Sinatra, AIR and RestfulX to create an offline/online ready app with undo/redo capabilities.
 
 #### MySQL
@@ -471,7 +471,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [GogduNet ★24 ⏳4Y](https://github.com/Siyania/GogduNet) - Communication Library for TCP and UDP and P2P.
 * [NetGrouper ★25 ⏳4Y](https://github.com/walpolea/NetGrouper) - Wrapper for NetGroup and RTMFP Multicasting abilities to create quick P2P multiplayer games over local networks or Adobe Cirrus.
 * [HydraP2P ★100 ⏳6Y](https://github.com/devboy/HydraP2P) - Simplifies the peer-to-peer API introduced in Flash Player 10.1.
-* [GroupP2P ★2 ⏳6Y](https://github.com/oohazard/GroupP2P) - P2P-based netgroup.
+* [GroupP2P ★2 ⏳7Y](https://github.com/oohazard/GroupP2P) - P2P-based netgroup.
 * [HLS-P2P ★66 ⏳1Y](https://github.com/lava-tech/hls-p2p) - Flash OSMF based hybrid cdn&p2p hls solution.
 * [P2Pmessaging ★1 ⏳5Y](https://github.com/dreamsocket/actionscript-p2p_messaging) - Simple messaging framework for doing P2P in Flash.
 * [ArcusNode ★177](https://github.com/OpenRTMFP/ArcusNode) - RTMFP Rendevouz Service For Peer Assisted Networking With Adobe Flash on Node JS.

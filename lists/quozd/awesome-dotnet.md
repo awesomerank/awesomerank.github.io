@@ -9,7 +9,7 @@ title: Awesome Rank for quozd/awesome-dotnet
 ---
 # Awesome .NET!
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) 
 [![Build Status](https://api.travis-ci.org/quozd/awesome-dotnet.svg)](https://travis-ci.org/quozd/awesome-dotnet)
 [![Join the chat at https://gitter.im/quozd/awesome-dotnet](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/quozd/awesome-dotnet?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -207,7 +207,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [MSBuild ★3173](https://github.com/Microsoft/msbuild) - The Microsoft Build Engine (MSBuild) is the build platform for .NET and Visual Studio
 * [Cake ★1384](https://github.com/cake-build/cake) - Cake (C# Make) is a cross-platform build automation system with a C# DSL.
 * [Nake ★133](https://github.com/yevhen/Nake) - Magic script-based C# task runner
-* [Nuke ★84](https://github.com/nuke-build/nuke) - Cross-platform build automation system
+* [Nuke ★94](https://github.com/nuke-build/nuke) - Cross-platform build automation system
 
 ## Caching
 
@@ -229,7 +229,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [EntryPoint ★88](https://github.com/Nick-Lucas/EntryPoint) - Composable CLI Argument Parser for .NET Core & .NET Framework 4.5+.
 * [clipr ★48](https://github.com/nemec/clipr) - A CLI library inspired by Python's argparse that transforms a command line into a strongly-typed object. It supports custom argument types, automated (and localized) help generation, and a variety of ways to store parsed arguments.
 * [ReadLine ★406](https://github.com/tonerdo/readline) - A GNU-Readline like library for .NET/.NET Core.
-* [SharpNetSH ★26](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
+* [SharpNetSH ★27](https://github.com/rpetz/SharpNetSH) - A simple netsh library for C#.
 
 ## CLR
 
@@ -405,7 +405,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Mediator.Net ★74](https://github.com/mayuanyang/Mediator.Net) - A simple mediator for .NET for sending command, publishing event and request response with pipelines supported
 * [MediatR ★1334](https://github.com/jbogard/MediatR) - Simple, unambitious mediator implementation in .NET 
 * [Rx Event Aggregator](https://mikebridge.github.io/articles/csharp-domain-event-aggregator/) - Super-simple Reactive-Extension code from Reactive.EventAggregator
-* [TinyMessenger ★135 ⏳2Y](https://github.com/grumpydev/TinyMessenger) - A lightweight event aggregator/messenger for loosely coupled communication.
+* [TinyMessenger ★137](https://github.com/grumpydev/TinyMessenger) - A lightweight event aggregator/messenger for loosely coupled communication.
 
 
 ## Exceptions
@@ -525,7 +525,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Emgu CV](http://www.emgu.com/wiki/index.php/Main_Page) - Cross-platform .NET wrapper for the OpenCV library.
 * [DotImaging ★213](https://github.com/dajuric/dot-imaging) - Minimalistic .NET imaging portable platform
 * [Magick.NET ★246](https://github.com/dlemstra/Magick.NET) - .NET wrapper for the ImageMagick library.
-* [OpenCvSharp ★729](https://github.com/shimat/opencvsharp) - Cross platform wrapper of OpenCV for .NET Framework.
+* [OpenCvSharp ★766](https://github.com/shimat/opencvsharp) - Cross platform wrapper of OpenCV for .NET Framework.
 
 ## Install tools
 
@@ -561,7 +561,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Microsoft.Extensions.DependencyInjection ★582](https://github.com/aspnet/DependencyInjection) - The default IoC container for ASP.NET Core applications.
 * [Scrutor ★174](https://github.com/khellang/Scrutor) - Assembly scanning extensions for Microsoft.Extensions.DependencyInjection.
 * [VS MEF ★82](https://github.com/Microsoft/vs-mef) - Managed Extensibility Framework (MEF) implementation used by Visual Studio.
-* [TinyIoC ★519](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
+* [TinyIoC ★527](https://github.com/grumpydev/TinyIoC) - An easy to use, hassle free, Inversion of Control Container for small projects, libraries and beginners alike.
 
 ## JavaScript Engines
 
@@ -591,7 +591,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Machine Learning and Data Science
 * [Infer.NET](http://infernet.azurewebsites.net/default.aspx) - A framework for running Bayesian inference in graphical models. It can also be used for probabilistic programming. **[[Proprietary](http://infernet.azurewebsites.net/docs/Frequently%20Asked%20Questions.aspx)]** **[Free]** **[Research]**
 * [Accord.NET](http://accord-framework.net/) - Machine learning framework combined with audio and image processing libraries (computer vision, computer audition, signal processing and statistics).
-* [Accord.NET Extensions ★222 ⏳1Y](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
+* [Accord.NET Extensions ★222 ⏳2Y](https://github.com/dajuric/accord-net-extensions) - Advanced image processing and computer vision algorithms made as fluent extensions.
 * [AForge.NET](http://www.aforgenet.com/) - Framework for developers and researchers in the fields of Computer Vision and Artificial Intelligence (image processing, neural networks, genetic algorithms, machine learning, robotics).
 * [Deedle](http://bluemountaincapital.github.io/Deedle/) - Data frame and (time) series library for exploratory data manipulation with C# and F# support
 * [FsLab](https://fslab.org/) - A collection of data science and machine learning libraries for F# and .NET
@@ -662,7 +662,9 @@ metadata in media files, including video, audio, and photo formats
 * [ByteSize ★110](https://github.com/omar/ByteSize) - ByteSize is a utility class that makes byte size representation in code easier by removing ambiguity of the value being represented. ByteSize is to bytes what System.TimeSpan is to time.
 * [Jot ★207](https://github.com/anakic/jot) - a library for persisting and restoring application state (a better alternative to .settings files).
 * [Enums.NET ★409](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
-* [HidLibrary ★202](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with HID-compatible USB devices in .NET.
+* [HidLibrary ★206](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with Hid compatible USB devices in .NET.
+* [SystemWrapper ★50](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
+* [Sprache ★904](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
 
 ## MVVM
 
@@ -678,7 +680,7 @@ metadata in media files, including video, audio, and photo formats
 * [Stylet ★88](https://github.com/canton7/stylet) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 * [Gemini ★458](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
 * [Toms Toolbox ★11](https://github.com/tom-englert/TomsToolbox) - Visual Composition framework to easily build modularized MVVM applications based on the [Managed Extensibility Framework (MEF)](https://docs.microsoft.com/en-us/dotnet/framework/mef/index).
-* [MVVM Dialogs ★70](https://github.com/FantasticFiasco/mvvm-dialogs) - Framework simplifying the concept of opening dialogs from a view model when using MVVM in WPF or UWP.
+* [MVVM Dialogs ★74](https://github.com/FantasticFiasco/mvvm-dialogs) - Framework simplifying the concept of opening dialogs from a view model when using MVVM in WPF or UWP.
 
 ## Object to object mapping
 
@@ -693,7 +695,7 @@ metadata in media files, including video, audio, and photo formats
 * [NPOI](http://npoi.codeplex.com/) - This project is the .NET version of POI Java project at http://poi.apache.org/.
 * [EPPlus](http://epplus.codeplex.com/) - EPPlus is a .NET library that reads and writes Excel 2007/2010 files using the Open Office XML format (xlsx).
 * [Open XML SDK ★1374](https://github.com/officedev/open-xml-sdk) - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
-* [DocX ★394](https://github.com/WordDocX/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
+* [DocX](https://github.com/WordDocX/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
 * [ExcelDataReader ★771](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 
 ## ORM
@@ -727,7 +729,7 @@ metadata in media files, including video, audio, and photo formats
 ## PDF
 
 * [ITextSharp ★472](https://github.com/itext/itextsharp) - iText is a PDF library that allows you to CREATE, ADAPT, INSPECT and MAINTAIN documents in the Portable Document Format (PDF)**[$]****[Free for OSS]**
-* [PdfiumViewer ★265](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
+* [PdfiumViewer ★273](https://github.com/pvginkel/PdfiumViewer) - PdfiumViewer is a PDF viewer based on the PDFium project.
 
 ## Profiler
 
@@ -781,7 +783,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## SDK and API Clients
 
-* [AWS SDK ★703](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
+* [AWS SDK ★719](https://github.com/aws/aws-sdk-net) - The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services
 * [Azure PowerShell ★830](https://github.com/Azure/azure-powershell) - A set of PowerShell cmdlets for developers and administrators to develop, deploy and manage Microsoft Azure applications
 * [Octokit.NET ★1346](https://github.com/octokit/octokit.net) - A GitHub API client library for .NET
 * [DropNet ★419](https://github.com/DropNet/DropNet) - Client library for the Dropbox API
@@ -819,7 +821,7 @@ metadata in media files, including video, audio, and photo formats
 * [Stateless ★1799](https://github.com/dotnet-state-machine/stateless) - Create state machines and lightweight state machine-based workflows directly in .NET code
 * [Automatonymous ★247](https://github.com/MassTransit/Automatonymous) - A state machine library for .NET - allows you to write fluent style state machines
 * [Appccelerate - State Machine](http://www.appccelerate.com/statemachine.html) - A powerful state machine library - configured with a fluent API and synchrounous and asynchronous state transition support
-* [LiquidState ★78](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+* [LiquidState ★82](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 
 ## Static Site Generators
 * [FsBlog ★99 ⏳1Y](https://github.com/fsprojects/FsBlog) - Blog aware, static site generation using F#
@@ -870,13 +872,14 @@ metadata in media files, including video, audio, and photo formats
 * [Fiddler](http://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform
 * [Open Live Writer ★2053](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog. For more information see http://openlivewriter.org .
 * [CodeHub ★10687](https://github.com/CodeHubApp/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
-* [ShareX ★6342](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
+* [ShareX ★6503](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 * [Myrtille ★308](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 * [Opserver ★3175](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System
 * [CatLight](https://catlight.io) - Build status notifications for TFS/Jenkins/Travis/Appveyor. Cross-platform desktop app based on .NET Core and Electron. **[Free][Proprietary]**
 * [Netling ★756 ⏳1Y](https://github.com/hallatore/Netling) - A load tester client for easy web testing. It is extremely fast while using little CPU or memory.
 * [Papercut ★635](https://github.com/ChangemakerStudios/Papercut) - Papercut is an open source (.NET based) test email viewer that runs locally with a built-in SMTP server designed to receive and notify of test email messages.
 * [Visual Studio Uninstaller ★2002](https://github.com/Microsoft/VisualStudioUninstaller) - Uninstall and clean up all components of Visual Studio.
+* [Fake JSON Server ★13](https://github.com/ttu/dotnet-fake-json-server) - Fake REST API for prototyping or as a CRUD Back End. No need to define types, uses dynamic typing. Data is stored to a single JSON file. Has authentication, WebSocket notifications, async long running operations, random generation for errors/delays and experimental GraphQL support.
 
 ## Trading
 
@@ -885,7 +888,7 @@ metadata in media files, including video, audio, and photo formats
 
 ## UI Automation
 
-* [Atata ★45](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+* [Atata ★60](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 * [Managed Windows API](http://mwinapi.sourceforge.net/) - Introspect and automate third-party Windows / VC++ applications without needing its source code.
 
 ## Visual Studio Plugins
@@ -955,7 +958,7 @@ metadata in media files, including video, audio, and photo formats
 * [Awesome .NET Performance ★727](https://github.com/adamsitnik/awesome-dot-net-performance) - A curated list of awesome .NET Performance books, courses, trainings, conference talks, blogs and most inspiring open source contributors.
 * [awesome-ddd ★2130](https://github.com/heynickc/awesome-ddd) - A curated list of Domain-Driven Design (DDD), Command Query Responsibility Segregation (CQRS), Event Sourcing, and Event Storming resources
 * [Awesome Unity ★1478](https://github.com/RyanNielson/awesome-unity) - A categorized community-driven collection of high-quality awesome Unity assets, projects, and resources.
-* [Awesome Xamarin ★583](https://github.com/benoitjadinon/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
+* [Awesome Xamarin ★610](https://github.com/benoitjadinon/awesome-xamarin) - A collection of interesting libraries/tools for Xamarin mobile projects.
 
 # Resources
 

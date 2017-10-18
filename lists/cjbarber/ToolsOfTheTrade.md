@@ -7,7 +7,7 @@ title: Awesome Rank for cjbarber/ToolsOfTheTrade
 	This list is a copy of <a href="https://github.com/cjbarber/ToolsOfTheTrade">cjbarber/ToolsOfTheTrade</a> with ranks
 </p>
 ---
-# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Hacker News Tools of the Trade :sunglasses: [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > Tools of The Trade, from [Hacker News](https://news.ycombinator.com).
 
@@ -625,7 +625,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Convo | https://www.convo.com/
 * Zoom | https://www.zoom.us/
 
-[HipChat Alternatives ★237](https://github.com/cjbarber/hipchat-alternatives)
+[HipChat Alternatives ★237 ⏳1Y](https://github.com/cjbarber/hipchat-alternatives)
 
 ### Remote Collaboration
 

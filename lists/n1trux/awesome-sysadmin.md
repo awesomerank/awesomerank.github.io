@@ -13,7 +13,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   Author: n1trux
   -->
 
-# Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Sysadmin [![certified awesome!](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 **A curated list of amazingly awesome open source sysadmin resources.** Please read [CONTRIBUTING](./CONTRIBUTING.md) if you wish to add software and consider [donating ★9 ⏳2Y](https://github.com/n1trux/awesome-donations) to the FLOSS projects you use regularly.
 
@@ -332,7 +332,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Light Table](http://lighttable.com/) - The next generation code editor.
   * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
   * [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
-  * [TextMate ★11415](https://github.com/textmate/textmate) - A graphical text editor for OS X.
+  * [TextMate ★11457](https://github.com/textmate/textmate) - A graphical text editor for OS X.
   * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
   * [Visual Studio Code](https://code.visualstudio.com/) - An open source cross-platform extensible code editor from Microsoft
   * [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
@@ -378,7 +378,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Elasticsearch](https://www.elastic.co/) - A Lucene Based Document store mainly used for log indexing, storage and analysis.
   * [Fluentd](http://www.fluentd.org/) - Log Collector and Shipper.
   * [Flume](https://flume.apache.org/) - Distributed log collection and aggregation system.
-  * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code ★5778](https://github.com/allinurl/goaccess)) `MIT` `C`
+  * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal or through the browser. ([Source Code ★5897](https://github.com/allinurl/goaccess)) `MIT` `C`
   * [Graylog](https://www.graylog.org/) - Pluggable Log and Event Analysis Server with Alerting options.
   * [Heka](http://hekad.readthedocs.org/en/latest/) - Stream processing system which may be used for log aggregation.
   * [Kibana](https://www.elastic.co/products/kibana) - Visualize logs and time-stamped data.
@@ -391,7 +391,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Claws Mail](http://www.claws-mail.org/) - Old school email client (and news reader), based on GTK+.
   * [ImapSync](http://imapsync.lamiral.info/) – Simple IMAP migration tool for copying mailboxes to other servers.
   * [Mutt](http://www.mutt.org/) - Small but very powerful text-based mail client.
-  * [N1](https://nylas.com/N1) - Extensible mail client.
+  * [Nylas Mail](https://www.nylas.com/nylas-mail/) - Extensible mail client.
   * [Sylpheed](http://sylpheed.sraoss.jp/en/) – Still developed predecessor to Claws Mail, lightweight mail client.
   * [Thunderbird](https://www.mozilla.org/de/thunderbird/) - Free email application that's easy to set up and customize.
 
@@ -406,7 +406,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code ★2362](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
   * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
   * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
-  * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code ★6154](https://github.com/google/cadvisor)) `Apache` `Go`
+  * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code ★6296](https://github.com/google/cadvisor)) `Apache` `Go`
   * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
   * [Dash ★7853](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
   * [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
@@ -459,12 +459,12 @@ ils and flask.
   * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
   * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
   * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
-  * [Freeboard ★4680](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
+  * [Freeboard ★4728](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
   * [Netdata](http://netdata.firehol.org/) - Real-time performance monitoring for Linux systems with plugin support.
 
 * Storage
   * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-  * [KairosDB ★1110](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
+  * [KairosDB ★1119](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
   * [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
 
 * Packages
@@ -590,7 +590,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
   + [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
   * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
-  * [perf-tools ★3576](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
+  * [perf-tools ★3678](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
   * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
   * [Dripcap ★1517](https://github.com/dripcap/dripcap) - Caffeinated Packet Analyzer.
   * [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.
@@ -611,7 +611,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 
   * [Archipel](http://archipelproject.org/) - XMPP based virtualization management platform.
   * [ConVirt](http://www.convirture.com/products_opensource.php) - Provides the core functionality for centrally managing your KVM or Xen virtualized environment.
-  * [Ganeti](https://code.google.com/p/ganeti/) - Cluster virtual server management software tool built on top of KVM and Xen.
+  * [Ganeti](http://www.ganeti.org/) - Cluster virtual server management software tool built on top of KVM and Xen.
   * [KVM](http://www.linux-kvm.org) - Linux kernel virtualization infrastructure.
   * [OpenNebula](http://opennebula.org/) - Flexible enterprise cloud made simple.
   * [OpenNode](http://opennodecloud.com) - Builds open-source infrastructure management software and implements cloud systems.
@@ -670,7 +670,7 @@ Various resources, such as books, websites and articles, for improving your skil
 ## Books
 *Sysadmin related books.*
 
-  * [Codex](https://www.gitbook.com/book/starkandwayne/codex/details) - How to deploy Cloud Foundry PaaS on infrastructures like AWS, OpenStack, Azure by Stark & Wayne, LLC.
+  * [Codex](http://www.starkandwayne.com/codex/) - How to deploy Cloud Foundry PaaS on infrastructures like AWS, OpenStack, Azure by Stark & Wayne, LLC.
   * [The Linux Command Line](http://linuxcommand.org/tlcl.php) - A book about the Linux command line by William Shotts.
   * [The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win](http://itrevolution.com/books/phoenix-project-devops-book/) - How DevOps techniques can fix the problems that happen in IT organizations.
   * [The Practice of System and Network Administration](http://everythingsysadmin.com/books.html) - The first and second editions describes the best practices of system and network administration, independent of specific platforms or technologies.

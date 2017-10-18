@@ -11,7 +11,7 @@ title: Awesome Rank for CodyReichert/awesome-cl
   <img src="http://i.imgur.com/jLVXhpc.png">
 </div>
 
-# Awesome Common Lisp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Assertible status](https://assertible.com/apis/102e334d-f9a8-4565-9353-7572de775cae/status?api_token=8b55a286830323effb)](https://assertible.com/docs/guide/deployments)
+# Awesome Common Lisp [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Assertible status](https://assertible.com/apis/102e334d-f9a8-4565-9353-7572de775cae/status?api_token=8b55a286830323effb)](https://assertible.com/docs/guide/deployments)
 
 A curated list of _awesome_ Common Lisp stuff.
 
@@ -30,7 +30,7 @@ sellers who aren't evil for physical resources.
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 **Table of Contents**
 
-- [Awesome Common Lisp ★65640](https://github.com/sindresorhus/awesome)
+- [Awesome Common Lisp ★67308](https://github.com/sindresorhus/awesome)
 - [Build Systems](#build-systems)
 - [Crypto](#crypto)
 - [Database](#database)
@@ -177,7 +177,7 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 * [Varjo ★100](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. Not available on Quicklisp. [LLGPL][8].
 * [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
 * [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD][39].
-* [Sketch ★646](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200].
+* [Sketch ★659](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200].
 
 GUI
 ===
@@ -373,7 +373,7 @@ See more [on cliki](http://www.cliki.net/site/search?query=websockets).
 Static site generators
 ----------------------
 
-* [coleslaw ★240](https://github.com/kingcons/coleslaw) and its
+* [coleslaw ★249](https://github.com/kingcons/coleslaw) and its
   [coleslaw-cli ★2](https://github.com/40ants/coleslaw-cli) - Flexible
   Lisp Blogware similar to Frog, Jekyll, or Hakyll. [BSD][15].
 
@@ -479,7 +479,7 @@ Unit Testing
 
 * [FiveAM ★85](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
 * [CLUnit ★15](https://github.com/tgutu/clunit) - A unit testing library. [Expat][14].
-* [Lift ★19 ⏳1Y](https://github.com/gwkkwg/lift) - Another testing framework. [A range of licenses, all free][176].
+* [Lift ★19 ⏳2Y](https://github.com/gwkkwg/lift) - Another testing framework. [A range of licenses, all free][176].
 * [Stefil](http://dwim.hu/project/hu.dwim.stefil?_x=BGZm&_f=SnpbobKv) - A test framework that aims to be transparent. Public domain.
 * [Prove ★140](https://github.com/fukamachi/prove) - Yet another unit testing framework [Expat][14].
 
@@ -552,7 +552,7 @@ Plotting
 * [vgplot ★18](https://github.com/volkers/vgplot) - an interface to the
   gnuplot plotting utility with the intention to resemble some of
   the plot commands of octave or matlab. [GPL3][2].
-* [eazy-gnuplot ★15](https://github.com/guicho271828/eazy-gnuplot) - a
+* [eazy-gnuplot ★17](https://github.com/guicho271828/eazy-gnuplot) - a
   lispy, structure-less Gnuplot library. With its
   [cookbook](http://guicho271828.github.io/eazy-gnuplot/). [LLGPL][8]
 
@@ -590,7 +590,7 @@ This contains anything which doesn't fit into another category.
 * [trivial-garbage ★18](https://github.com/trivial-garbage/trivial-garbage) - A portable finalizer, weak hash-table and weak pointer API. Public domain.
 * [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/) - A small library for doing UTF-8-based I/O. Not available on Quicklisp. No license specified.
 * [ubiquitous ★8](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [Artistic License 2.0][51].
-* [montezuma ★11](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
+* [montezuma ★12](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
 
 
 XML

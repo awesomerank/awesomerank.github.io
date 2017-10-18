@@ -9,13 +9,13 @@ title: Awesome Rank for paralax/awesome-honeypots
 ---
 # Awesome Honeypots  
 
-[![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+[![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome honeypots, tools, components and much more. The list is divided into categories such as web, services, and others, focusing on open source projects.
 
 There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/paralax/awesome-honeypots/blob/master/CONTRIBUTING.md).
 
-Discover more awesome lists at [sindresorhus/awesome ★65640](https://github.com/sindresorhus/awesome).
+Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.com/sindresorhus/awesome).
 
 ### Sections
 
@@ -56,7 +56,7 @@ Discover more awesome lists at [sindresorhus/awesome ★65640](https://github.co
     - [stack-honeypot ★16 ⏳3Y](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses.
     - [EoHoneypotBundle ★23](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
     - [shockpot ★40 ⏳1Y](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
-    - [django-admin-honeypot ★390](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
+    - [django-admin-honeypot ★400](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
     - WordPress honeypots
         - [HonnyPotter ★19 ⏳1Y](https://github.com/MartinIngesen/HonnyPotter) - A WordPress login honeypot for collection and analysis of failed login attempts.
         - [HoneyPress ★51 ⏳1Y](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container.
@@ -155,7 +155,7 @@ Discover more awesome lists at [sindresorhus/awesome ★65640](https://github.co
 
 - Binary debugger
     - [Hexgolems - Schem Debugger Frontend ★136 ⏳1Y](https://github.com/hexgolems/schem) - A debugger frontend.
-    - [Hexgolems - Pint Debugger Backend ★28 ⏳3Y](https://github.com/hexgolems/pint) - A debugger backend and LUA wrapper for PIN.
+    - [Hexgolems - Pint Debugger Backend ★28 ⏳4Y](https://github.com/hexgolems/pint) - A debugger backend and LUA wrapper for PIN.
 
 - Mobile Analysis Tool
     - [APKinspector ★525 ⏳4Y](https://github.com/honeynet/apkinspector) - APKinspector is a powerful GUI tool for analysts to analyze the Android applications.

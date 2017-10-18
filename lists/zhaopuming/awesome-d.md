@@ -7,7 +7,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 	This list is a copy of <a href="https://github.com/zhaopuming/awesome-d">zhaopuming/awesome-d</a> with ranks
 </p>
 ---
-# Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 =========
 
   A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python ★39191](https://github.com/vinta/awesome-python).
@@ -116,6 +116,8 @@ title: Awesome Rank for zhaopuming/awesome-d
 * [TDPL](http://www.amazon.com/The-Programming-Language-Andrei-Alexandrescu/dp/0321635361/) - *The D Programming Language* by Andrei Alexandrescu.
 * [Programming in D](http://ddili.org/ders/d.en/index.html) - A very detailed book about programming in D by Ali Çehreli  covering many areas of the language. Has a free online version and is suitable for beginners. 
 * [D Cookbook](http://www.packtpub.com/application-development/d-cookbook) - A recipe-packed reference guide filled with practical tasks that are concisely explained to develop and broaden the user's abilities with the D programming language. by Adam D. Ruppe. Here is an interesting [review of the book](http://www.bfilipek.com/2014/08/review-of-d-cookbook.html).
+* [Learning D](https://www.packtpub.com/application-development/learning-d) - This book is intended for those with some background in a C-family language who want to learn how to apply their knowledge and experience to D. (...) This book will help you get up to speed with the language and avoid common pitfalls that arise when translating C-family experience to D.
+* [D Web Development](https://www.packtpub.com/web-development/d-web-development) - Whether you are new to the world of D, or already have developed applications in D, or if you want to leverage the power of D for web development, then this book is ideal for you.
 
 ## Tutorials
 *D related tutorials.*
@@ -188,7 +190,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 * [Mono-D ★112](https://github.com/aBothe/Mono-D) - A D language addon for [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/). With dub support.
 * [Visual D ★176](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
-* [DDT](http://code.google.com/p/ddt/) - Eclipse plugin for the D programming language.
+* [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
 * [Coedit ★160](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries.
 * [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI ★363](https://github.com/buggins/dlangui). This is a pure D implementation.
@@ -385,11 +387,11 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 ## Testing
 
-- [dunit ★56](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
+- [dunit ★56 ⏳1Y](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
 - [unit-threaded ★69](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) projects.
+Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) projects.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/zhaopuming/awesome-d">zhaopuming/awesome-d</a> with ranks

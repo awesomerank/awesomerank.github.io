@@ -7,60 +7,49 @@ title: Awesome Rank for jjaderg/awesome-postcss
 	This list is a copy of <a href="https://github.com/jjaderg/awesome-postcss">jjaderg/awesome-postcss</a> with ranks
 </p>
 ---
-# Awesome PostCSS
+<p align="center">
+  <img src="logo.png" alt="Awesome PostCSS">
+</p>
 
-> A tool for transforming CSS with JavaScript
-
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/jjaderg/awesome-postcss.svg?branch=master)](https://travis-ci.org/jjaderg/awesome-postcss)
 
-*An awesome list of plugins, articles, resources and other things related to PostCSS.*
+> An selected list of PostCSS resources and other things related.
 
-### Contributing
+**PostCSS** is not a preprocessor; it doesn’t transform CSS. As a matter of fact, it doesn’t do much by itself at all. What it does is provide a CSS parser and a framework for creating plugins that can analyse, lint, handle assets, optimise, create fallbacks, and otherwise transform parsed CSS. PostCSS parses CSS into an _abstract syntax tree [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree)_, passes it through a series of plugins, and then concatenates back into a string.
 
 Your contributions are always welcome. But, please take a quick gander at the contribution [guidelines](https://github.com/jjaderg/awesome-postcss/blob/master/CONTRIBUTING.md) first.
 
-### Content
+## Contents
 
-- **__Awesome PostCSS__**
-
-	- [Official Resources](#official-resources)
-	- [Community](#community)
-	- [Podcast](#podcast)
-	- [Articles](#articles)
-	- [Task Runner](#task-runner)
-	- [Guides](#guides)
-	- [Plugins](#plugins)
-	- [Presentations](#presentations)
-	- [Who to Follow](#who-to-follow)
-	- [Contributing](#contributing)
-	- [Thanks to...](#thanks-to)
-	- [License](#license)
-
+- [Official Resources](#official-resources)
+- [Community](#community)
+- [Podcast](#podcast)
+- [Articles](#articles)
+- [Task Runner](#task-runner)
+- [Guides](#guides)
+- [Plugins](#plugins)
+- [Presentations](#presentations)
 
 ## Official Resources
 
-*Main resources available for consultation*
-
-- [**GitHub Repository ★13,425**](https://github.com/postcss/postcss) - Official postcss repository
-- [API Reference](http://api.postcss.org/index.html) - Detailed postcss API
+- [GitHub Repository **★ 16,246**](https://github.com/postcss/postcss) - Official postcss repository.
+- [API Reference](http://api.postcss.org/index.html) - Detailed postcss API.
 
 ## Community
 
-*Features to stay current*
-
-- [Twitter](https://twitter.com/PostCSS)
-- [Gitter](https://gitter.im/postcss/postcss)
-- [Stack Overflow](https://stackoverflow.com/questions/tagged/postcss)
-- [Vkontakte](https://m.vk.com/postcss)
+- [Twitter](https://twitter.com/PostCSS) - Official twitter of postcss.
+- [Gitter](https://gitter.im/postcss/postcss) - Open source instant messaging for postcss users and developers.
+- [Stack Overflow](https://stackoverflow.com/questions/tagged/postcss) - Where questions about postcss are answered.
+- [Vkontakte](https://m.vk.com/postcss) - A Russian-based online social networking service.
 
 ## Podcast
 
-- [	206 JavaScript Jabber - PostCSS](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs)
-- [Issue 24 radiojs - The most stylish minifier](https://radiojs.ru/2015/06/radiojs-24/) - *Russian*
+- [	206 JavaScript Jabber | PostCSS with Ben Briggs](https://devchat.tv/js-jabber/206-jsj-postcss-with-ben-briggs) - *English*
+- [Issue 24 radiojs | The most stylish minifier](https://radiojs.ru/2015/06/radiojs-24/) - *Russian*
 - [Issue №9 Web standards-ru](https://soundcloud.com/web-standards/episode-9) - *Russian*
-- [Podfanatic - Sass and PostCSS](https://podfanatic.com/podcast/non-breaking-space-show/episode/sam-richard-sass-and-postcss)
-- [Viewsources Podcast - post processing css](https://viewsourc.es/2015/06/15/episode-8-post-processing-css/)
+- [Podfanatic | Sam Richard — Sass, Front-end Development](https://podfanatic.com/podcast/non-breaking-space-show/episode/sam-richard-sass-and-postcss) - *English*
+- [Viewsources Podcast | post processing css](https://viewsourc.es/2015/06/15/episode-8-post-processing-css/) - *English*
 
 ## Articles
 
@@ -83,91 +72,88 @@ Your contributions are always welcome. But, please take a quick gander at the co
 
 ## Task Runner
 
-##### Grunt Plugins
+###### Grunt
 
-> *For those who use Grunt, some plugins to work with PostCSS.*
+- [grunt-australian-stylesheets ★1 ⏳2Y](https://github.com/stevemao/grunt-australian-stylesheets) - Compile Australian css with [postcss-australian-stylesheets
+](https://github.com/dp-lewis/postcss-australian-stylesheets).
 
-- [grunt-postcss](https://www.npmjs.com/package/grunt-postcss) - Apply several post-processors to your css using PostCSS.
-- [grunt-postcss-import](https://www.npmjs.com/package/grunt-postcss-import) - Inlining @import rules based on postcss-import.
-- [grunt-australian-stylesheets](https://www.npmjs.com/package/grunt-australian-stylesheets) - Compile Australian css.
+###### Gulp
 
-##### Gulp Plugins
-
-> *For those who use Gulp, some plugins to work with PostCSS.*
-
-- [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer/) - Prefix css
-- [gulp-postcss](https://www.npmjs.com/package/gulp-postcss/) - gulp plugin to pipe css through several plugins, but parse css only once.
-- [gulp-australian-stylesheets](https://www.npmjs.com/package/gulp-australian-stylesheets/) - Compile Australian css.
-- [gulp-rucksack](https://www.npmjs.com/package/gulp-rucksack/) - Gulp plugin for Rucksack - a little bag of css superpowers.
-- [gulp-pxtorem](https://www.npmjs.com/package/gulp-pxtorem/) - A gulp plugin for postcss-pxtorem.
-- [gulp-html-postcss](https://www.npmjs.com/package/gulp-html-postcss/) - Process inline css in HTML using PostCSS gulp plugin.
+- [gulp-autoprefixer ★563](https://github.com/sindresorhus/gulp-autoprefixer) - Prefix css with Autoprefixer.
+- [gulp-postcss ★527](https://github.com/postcss/gulp-postcss) -  Pipe css through postcss processors with a single parse.
+- [gulp-australian-stylesheets ★1 ⏳2Y](https://github.com/stevemao/gulp-australian-stylesheets) - Compile Australian css with [postcss-australian-stylesheets
+](https://github.com/dp-lewis/postcss-australian-stylesheets).
+- [gulp-rucksack ★8](https://github.com/seaneking/gulp-rucksack) - Plugin for rucksack - a little bag of css superpowers.
+- [gulp-pxtorem](https://github.com/cuth/gulp-pxtorem) - Plugin for [postcss-pxtorem ★322](https://github.com/cuth/postcss-pxtorem).
+- [gulp-html-postcss ★4](https://github.com/StartPolymer/gulp-html-postcss) - Process inline css in HTML using postcss gulp plugin.
 
 ## Guides
 
-*Guides for developers start their studies PostCSS.*
+###### PostCSS Deep Dive
 
-##### PostCSS Deep Dive:
+- `PostCSS Deep Dive:` [Create your own plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605).
+- `PostCSS Deep Dive:` [Miscellaneous goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603).
+- `PostCSS Deep Dive:` [Preprocessing with “PreCSS”](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583).
+- `PostCSS Deep Dive:` [Roll your own preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584).
+- `PostCSS Deep Dive:` [Shortcuts and shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602).
+- `PostCSS Deep Dive:` [What you need to know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535).
 
-- [Create your own plugin](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-create-your-own-plugin--cms-24605)
-- [Miscellaneous goodies](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-miscellaneous-goodies--cms-24603)
-- [Preprocessing with “PreCSS”](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-preprocessing-with-precss--cms-24583)
-- [Roll your own preprocessor](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-roll-your-own-preprocessor--cms-24584)
-- [Shortcuts and shorthand](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-shortcuts-and-shorthand--cms-24602)
-- [What you need to know](https://webdesign.tutsplus.com/tutorials/postcss-deep-dive-what-you-need-to-know--cms-24535)
+###### PostCSS Quickstart Guide
 
-##### PostCSS Quickstart Guide:
+- `PostCSS Quickstart Guide:` [Exploring plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566).
+- `PostCSS Quickstart Guide:` [Gulp setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543).
+- `PostCSS Quickstart Guide:` [Grunt setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545).
+- `PostCSS Quickstart Guide:` [Instant setup options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536).
 
-- [Exploring plugins](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-exploring-plugins--cms-24566)
-- [Gulp setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-gulp-setup--cms-24543)
-- [Grunt setup](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-grunt-setup--cms-24545)
-- [Instant setup options](https://webdesign.tutsplus.com/tutorials/postcss-quickstart-guide-instant-setup-options--cms-24536)
+###### Using PostCSS
 
-##### Using PostCSS:
+- `Using PostCSS:` [for minification and optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568).
+- `Using PostCSS:` [for cross browser compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567).
+- `Using PostCSS:` [Together with sass, stylus, or less](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591).
+- `Using PostCSS:` [with BEM and SUIT methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592).
 
-- [for minification and optimization](https://webdesign.tutsplus.com/tutorials/using-postcss-for-minification-and-optimization--cms-24568)
-- [for cross browser compatibility](https://webdesign.tutsplus.com/tutorials/using-postcss-for-cross-browser-compatibility--cms-24567)
-- [Together with sass, stylus, or LESS](https://webdesign.tutsplus.com/tutorials/using-postcss-together-with-sass-stylus-or-less--cms-24591)
-- [with BEM and SUIT methodologies](https://webdesign.tutsplus.com/tutorials/using-postcss-with-bem-and-suit-methodologies--cms-24592)
+## Plugins
 
-
-### Plugins
-
-- [postcss parts](https://www.postcss.parts) - A searchable catalog of PostCSS plugins
-- [atom-language-postcss ★55](https://github.com/azat-io/atom-language-postcss) - Atom language support for PostCSS
-- [poststylus ★240](https://github.com/seaneking/poststylus) - PostCSS adapter for Stylus
-- [postcss-instagram ★91](https://github.com/azat-io/postcss-instagram) - This is a PostCSS plugin for adding Instagram filters to your photos.
-- [postcss-normalize ★286](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for PostCSS
-- [postcss-font-magician ★687](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal)
-- [postcss-loader ★1463](https://github.com/postcss/postcss-loader) - PostCSS loader for webpack
-- [css-declaration-sorter ★57](https://github.com/Siilwyn/css-declaration-sorter) - A Node.js module and PostCSS plugin to sort the CSS declarations inside each selector based on their property names by [@Siilwyn](https://github.com/Siilwyn)
-- [postcss-pxtorem ★308](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using PostCSS
-- [postcss-selector-parser ★53](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings
-- [postcss-html ★9](https://github.com/gucong3000/postcss-html) - PostCSS Syntax for parsing HTML / Markdown / Vue component
+- [postcss parts](https://www.postcss.parts) - A searchable catalog of postcss plugins by [@mxstbr](https://github.com/mxstbr).
+- [atom-language-postcss ★56](https://github.com/azat-io/atom-language-postcss) - Atom language support for postcss by [@azat-io](https://github.com/azat-io).
+- [poststylus ★241](https://github.com/seaneking/poststylus) - Postcss adapter for stylus by [@seaneking](https://github.com/seaneking).
+- [postcss-instagram ★92](https://github.com/azat-io/postcss-instagram) - This is a postcss plugin for adding instagram filters to your photos by [@azat-io](https://github.com/azat-io).
+- [postcss-normalize ★286](https://github.com/jonathantneal/postcss-normalize) - Simple normalize.css wrapper for postcss by [@jonathantneal](https://github.com/jonathantneal).
+- [postcss-font-magician ★692](https://github.com/jonathantneal/postcss-font-magician) - Magically generate all the @font-face rules by [@jonathantneal](https://github.com/jonathantneal).
+- [postcss-loader ★1509](https://github.com/postcss/postcss-loader) - Postcss loader for webpack by [PostCSS Team](https://github.com/postcss).
+- [css-declaration-sorter ★59](https://github.com/Siilwyn/css-declaration-sorter) - Sort css declarations fast and automatically in a certain order by [@siilwyn](https://github.com/Siilwyn).
+- [postcss-pxtorem ★322](https://github.com/cuth/postcss-pxtorem) - Convert pixel units to rem (root em) units using postcss by [@cuth](https://github.com/cuth).
+- [postcss-selector-parser ★54](https://github.com/postcss/postcss-selector-parser) - Selector parser with built in methods for working with selector strings by [PostCSS Team](https://github.com/postcss).
+- [postcss-html ★10](https://github.com/gucong3000/postcss-html) - Postcss Syntax for parsing HTML / Markdown / Vue component by [@gucong3000](https://github.com/gucong3000).
 
 ## Presentations
 
-##### Videos
+###### Videos
 
-- [PostCSS - First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html)
-- [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) by [@ai](https://github.com/ai)
-- [Fix global CSS with PostCSS](https://www.dotconferences.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) by [@ai](https://github.com/ai)
-- [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) by [@MoOx](https://github.com/MoOx)
-- [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) by [@mxstbr](https://github.com/mxstbr)
+- [PostCSS - First Look](https://www.lynda.com/CSS-tutorials/PostCSS-First-Look/442850-2.html) - A quick first look at postcss, an engine for processing css with javascript by [@planetoftheweb](https://github.com/planetoftheweb).
+- [PostCSS the Future after Sass and Less](https://www.youtube.com/watch?v=73dl5dk9z4Q) - Andrey will talk about ideas behind the postcss by [@ai](https://github.com/ai).
+- [Fix global CSS with PostCSS](https://www.dotconferences.com/2015/12/andrey-sitnik-fix-global-css-with-postcss) - Andrey explains how to use the power of postcss to make isolated components without a global reset and avoid conflicts between them by [@ai](https://github.com/ai).
+- [PostCSS, cssnext and the future of CSS](https://vimeo.com/159185299) - Maxime explains how the postcss and its ecosystem will help you to avoid to write some legacy code, to lint you code or to write and enjoy today tomorrow’s CSS syntax, today, using cssnext by [@MoOx](https://github.com/MoOx).
+- [Kick your CSS up a notch with PostCSS](https://www.youtube.com/watch?v=-_gIKdHYP3E) - Learn how to bring your CSS to the next level with PostCSS. Explore the endless possibilities and master writing a CSS transformation plugin by [@mxstbr](https://github.com/mxstbr).
 
 ## Who to Follow
 
 - Andrey Sitnik [@andreysitnik](https://twitter.com/andreysitnik)
 - Evil Martians [@evilmartians](https://twitter.com/evilmartians)
+- Ray Villalobos [@planetoftheweb](https://twitter.com/planetoftheweb)
+- Max Stoiber [@mxstbr](https://twitter.com/mxstbr)
+- Maxime Thirouin [@MoOx](https://twitter.com/MoOx)
+- Azat S. [@azat_io](https://twitter.com/azat_io)
+- Sean King [@seaneking](https://twitter.com/seaneking)
 
-## Thanks to...
+### Thanks to...
 
-- In particular [Afonso Pacifer](https://github.com/afonsopacifer) for helping me with CC License. :+1:
-- My friends [Marcus Silva](https://github.com/mvfsillva) and [Willian Justen](https://github.com/willianjusten) by motivating me. :v:
-- [Daniel Schmidt](https://github.com/danielmschmidt/) for your important contribution to this list.
+[Afonso Pacifer](https://github.com/afonsopacifer), [Marcus Silva](https://github.com/mvfsillva), [Willian Justen](https://github.com/willianjusten) and [Daniel Schmidt](https://github.com/danielmschmidt/) by motivation, help and contribution.
 
 ## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/) © [Jader Gomes](https://github.com/jjaderg)
----
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [Jader Gomes](https://github.com/jjaderg) has waived all copyright and related or neighboring rights to this work.---
 <p align="center">
 	This list is a copy of <a href="https://github.com/jjaderg/awesome-postcss">jjaderg/awesome-postcss</a> with ranks
 </p>

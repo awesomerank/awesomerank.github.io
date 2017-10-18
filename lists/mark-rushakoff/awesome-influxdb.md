@@ -7,7 +7,7 @@ title: Awesome Rank for mark-rushakoff/awesome-influxdb
 	This list is a copy of <a href="https://github.com/mark-rushakoff/awesome-influxdb">mark-rushakoff/awesome-influxdb</a> with ranks
 </p>
 ---
-# awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome projects, libraries, tools, etc. related to [InfluxDB](https://www.influxdata.com/).
 This list focuses on libraries, tools, etc. supporting InfluxDB version 1.0 and up.
@@ -83,23 +83,23 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 Tools that generate data that feed into multiple backends, InfluxDB included.
 
-* [cAdvisor ★6154](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers
+* [cAdvisor ★6296](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers
 * [cernan ★160](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
 * [cloudwatch-sender ★52 ⏳1Y](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
-* [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine ★572](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
+* [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine ★582](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
 * [Domoticz](https://www.domoticz.com) - Open source Home Automation System
 * [gatling ★3206](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
-* [Glances ★8039](https://github.com/nicolargo/glances) - Glances an Eye on your system
+* [Glances ★8384](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [Graphios ★264](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
-* [heapster ★1415](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](https://kubernetes.io/) cluster
-* [heka ★3279 ⏳1Y](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
+* [heapster ★1500](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](https://kubernetes.io/) cluster
+* [heka ★3284 ⏳1Y](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
 * [internet_data_usage ★1 ⏳1Y](https://github.com/precurse/internet_data_usage) - Python based application to pull data plan usage for different carriers such as Telus and Koodo
 * [jmxtrans ★1238](https://github.com/jmxtrans/jmxtrans) - Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.
 * [logary ★299](https://github.com/logary/logary) - High performance, multi-target logging, metric and health-check library for mono and .Net
 * [metrics.sh ★49](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
 * [OpenHAB](http://www.openhab.org/) - a universal integration platform for all things around home automation
 * [Riemann ★3388](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure
-* [statsd-jvm-profiler ★243 ⏳1Y](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD
+* [statsd-jvm-profiler ★246 ⏳1Y](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD
 * [statsite ★1557](https://github.com/statsite/statsite) - C implementation of statsd
 
 ### Libraries
@@ -191,17 +191,17 @@ Projects that don't seem to fit in any other category.
 
 ### Awesome lists that include links to InfluxDB
 
-* [awesome-bigdata ★5118](https://github.com/onurakpolat/awesome-bigdata)
+* [awesome-bigdata ★5255](https://github.com/onurakpolat/awesome-bigdata)
 * [awesome-dashboard ★471](https://github.com/obazoud/awesome-dashboard)
-* [awesome-data-engineering ★1087](https://github.com/igorbarinov/awesome-data-engineering)
+* [awesome-data-engineering ★1132](https://github.com/igorbarinov/awesome-data-engineering)
 * [awesome-db ★488](https://github.com/numetriclabz/awesome-db)
 * [awesome-go ★23880](https://github.com/avelino/awesome-go)
-* [awesome-sysadmin ★15880](https://github.com/kahun/awesome-sysadmin)
+* [awesome-sysadmin ★16061](https://github.com/kahun/awesome-sysadmin)
 
 ### Lists of awesome lists that include awesome-influxdb
 
-* [awesome ★65640](https://github.com/sindresorhus/awesome)
-* [lists ★4466](https://github.com/jnv/lists)
+* [awesome ★67308](https://github.com/sindresorhus/awesome)
+* [lists ★4518](https://github.com/jnv/lists)
 
 ## License
 

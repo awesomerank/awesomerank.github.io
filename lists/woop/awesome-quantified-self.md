@@ -7,7 +7,7 @@ title: Awesome Rank for woop/awesome-quantified-self
 	This list is a copy of <a href="https://github.com/woop/awesome-quantified-self">woop/awesome-quantified-self</a> with ranks
 </p>
 ---
-# Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Quantified Self [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 
 # [<img src="https://cdn.rawgit.com/willempienaar/awesome-quantified-self/master/awesome-quantified-self.png">](https://github.com/willempienaar/awesome-quantified-self)
@@ -92,6 +92,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [MyFitnessPal](http://www.myfitnesspal.com/) - Food tracking and diet plan app (iOS & Android).
 - [Fat Secret](https://www.fatsecret.com/) - Calorie counter and diet tracker for weight loss (iOS & Android).
 - [Calorie Counter](https://www.caloriecount.com/) - Nutritional database and calorie counting app (iOS & Android).
+- [Zero](https://itunes.apple.com/us/app/zero-fasting-tracker/id1168348542?mt=8) - A simple fasting tracker used for intermittent, circadian rhythm, and custom fasting (iOS). 
 
 ### Goals
 - [GoalsOnTrack](http://www.goalsontrack.com/) - Web-based goal setting and tracking software (iOS & Android).
@@ -104,6 +105,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [HabitBull](http://www.habitbull.com/) - A simple mobile habit tracking app to build and track streaks (iOS & Android).
 - [Strides](http://www.stridesapp.com/) - App to track your goals, habits and projects with SMART goal setting (Web, iOS).
 - [Habit List](http://habitlist.com/) - Create good habits, break bad ones, build a better you (iOS).
+- [Streaks](https://streaksapp.com/) - The to-do list that helps you form good habits (iOS).
 
 ### Health
 - [CureTogether](http://curetogether.com/) - Health self tracking and collaborative network.
@@ -155,7 +157,7 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 - [Personal Capital](https://www.personalcapital.com/) - Financial software and wealth management.
 - [You Need A Budget (YNAB)](http://www.youneedabudget.com/) - Personal home budget software.
 - [GNU Cash](https://www.gnucash.org/) - Personal and small-business financial-accounting software.
-- [Ledger ★2124](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
+- [Ledger ★2148](https://github.com/ledger/ledger) - Simple but powerful command line accounting.
 - [Credit Karma](https://www.creditkarma.com/) - Lean and reputable credit score tracker.
 
 ## Devices and Wearables

@@ -7,7 +7,7 @@ title: Awesome Rank for onqtam/awesome-cmake
 	This list is a copy of <a href="https://github.com/onqtam/awesome-cmake">onqtam/awesome-cmake</a> with ranks
 </p>
 ---
-# Awesome CMake [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome CMake [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/onqtam/awesome-cmake/master/cmake-logo.svg" align="right" width="100">](https://cmake.org/)
 
@@ -143,7 +143,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [Arduino-CMake-Template ★3](https://github.com/maxbader/Arduino-CMake-Template) - Starting point for Arduino development using CMake. ```[NO LICENSE]```
 * [c-template ★25](https://github.com/fletcher/c-template) - Boilerplate to set up a c project, include CuTest, CMake build setup. [```[MIT]```][MIT]
 * [cpp_project_template ★20](https://github.com/duckie/cpp_project_template) - Simple template to start quickly a C++ project managed by CMake. ```[NO LICENSE]```
-* [cpp-boilerplate ★5](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI [```[MIT]```][MIT]
+* [cpp-boilerplate ★9](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI [```[MIT]```][MIT]
 
 ## Other
 

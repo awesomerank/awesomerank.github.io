@@ -7,7 +7,7 @@ title: Awesome Rank for RichardLitt/awesome-conferences
 	This list is a copy of <a href="https://github.com/RichardLitt/awesome-conferences">RichardLitt/awesome-conferences</a> with ranks
 </p>
 ---
-# Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > :ticket: A list of awesome conferences
 

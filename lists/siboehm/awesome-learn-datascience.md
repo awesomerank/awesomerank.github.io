@@ -7,7 +7,7 @@ title: Awesome Rank for siboehm/awesome-learn-datascience
 	This list is a copy of <a href="https://github.com/siboehm/awesome-learn-datascience">siboehm/awesome-learn-datascience</a> with ranks
 </p>
 ---
-# Data Science Tutorials & Resources for Beginners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Data Science Tutorials & Resources for Beginners [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 *If you want to know more about Data Science but don't know where to start this list is for you!* :chart_with_upwards_trend:
 
@@ -75,7 +75,7 @@ This list covers only Python, as many are already familiar with this language. [
 
 - [Template folder structure for organizing Data Science projects ★671](https://github.com/drivendata/cookiecutter-data-science)
 - [Anaconda Python distribution](https://www.continuum.io/downloads) - Contains most of the important Python packages for Data Science.
-- [LightGBM gradient boosting framework ★3734](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
+- [LightGBM gradient boosting framework ★3923](https://github.com/Microsoft/LightGBM) - Successfully used in many Kaggle challenges.
 - [Amazon AWS](https://aws.amazon.com/) - Rent cloud servers for more timeconsuming calculations (r4.xlarge server is a good place to start).
 
 
@@ -89,9 +89,9 @@ Sorted by increasing complexity.
 
 ## More advanced resources and lists
 
-- [Awesome Data Science ★4482](https://github.com/bulutyazilim/awesome-datascience)
-- [Data Science Python ★2702](https://github.com/ujjwalkarn/DataSciencePython)
-- [Machine Learning Tutorials ★4798](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
+- [Awesome Data Science ★4627](https://github.com/bulutyazilim/awesome-datascience)
+- [Data Science Python ★2756](https://github.com/ujjwalkarn/DataSciencePython)
+- [Machine Learning Tutorials ★5053](https://github.com/ujjwalkarn/Machine-Learning-Tutorials)
 
 ## Contribute
 

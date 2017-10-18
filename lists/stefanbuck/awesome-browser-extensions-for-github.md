@@ -7,7 +7,7 @@ title: Awesome Rank for stefanbuck/awesome-browser-extensions-for-github
 	This list is a copy of <a href="https://github.com/stefanbuck/awesome-browser-extensions-for-github">stefanbuck/awesome-browser-extensions-for-github</a> with ranks
 </p>
 ---
-# Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome browser extensions for GitHub [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > A collection of awesome browser extensions for GitHub.
 
@@ -51,6 +51,7 @@ title: Awesome Rank for stefanbuck/awesome-browser-extensions-for-github
 - [MiniGitHub](#minigithub)
 - [My Git Repo News](#my-git-repo-news)
 - [News Feed for GitHub](#news-feed-for-github)
+- [Notifications Preview for GitHub](#notifications-preview-for-github)
 - [Notifier for GitHub](#notifier-for-github)
 - [npm-hub](#npm-hub)
 - [Octo Mate](#octo-mate)
@@ -67,6 +68,7 @@ title: Awesome Rank for stefanbuck/awesome-browser-extensions-for-github
 - [Pages2Repo](#pages2repo)
 - [PR file filter for Github](#pr-file-filter-for-github)
 - [Refined GitHub](#refined-github)
+- [Render Whitespace on GitHub](#render-whitespace-on-github)
 - [Review on GitHub](#review-on-github)
 - [Show All GitHub Issues](#show-all-github-issues)
 - [Tab Size on GitHub](#tab-size-on-github)
@@ -482,6 +484,18 @@ A Chrome and Firefox extension that shows notifications when something happens i
 </details>
 
 
+## [Notifications Preview for GitHub ★16](https://github.com/tanmayrajani/notifications-preview-github)
+<a href="https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://addons.mozilla.org/en-US/firefox/addon/notifications-preview-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+A Chrome and Firefox extension to quickly see your notifications in a popup without leaving the current page.
+
+<details><summary>Screenshots</summary>
+
+<img src="https://raw.githubusercontent.com/tanmayrajani/notifications-preview-github/master/media/screenshot.png" width="640" height="400">
+</details>
+
+
 ## [Notifier for GitHub ★237](https://github.com/sindresorhus/notifier-for-github)
 <a href="https://chrome.google.com/webstore/detail/notifier-for-github/lmjdlojahmbbcodnpecnjnmlddbkjhnn"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/firefox/addon/notifier-for-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
@@ -671,7 +685,7 @@ This Chrome extension extends the file search of a pull request to allow for act
 </details>
 
 
-## [Refined GitHub ★2576](https://github.com/sindresorhus/refined-github)
+## [Refined GitHub ★2655](https://github.com/sindresorhus/refined-github)
 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://github.com/fantattitude/refined-github-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 
@@ -682,6 +696,18 @@ Extension that simplifies the GitHub interface and adds useful features.
  ![Refined GitHub](https://raw.githubusercontent.com/sindresorhus/refined-github/master/media/screenshot-dashboard.png)
 </details>
 
+
+## [Render Whitespace on GitHub ★9](https://github.com/glebm/render-whitespace-on-github)
+<a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
+<a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
+
+Are they tabs? Are they spaces? How many? Never wonder again!
+Renders spaces as `·` and tabs as `→` in all the code on GitHub.
+
+<details><summary>Screenshots</summary>
+
+ ![Render Whitespace on GitHub](https://raw.githubusercontent.com/glebm/render-whitespace-on-github/master/store-assets/screenshot-render.png)
+</details>
 
 ## [Review on Github ★2 ⏳1Y](https://github.com/bastilian/ReviewOnGitHub)
 

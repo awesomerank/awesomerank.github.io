@@ -7,11 +7,11 @@ title: Awesome Rank for sindresorhus/awesome-npm
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-npm">sindresorhus/awesome-npm</a> with ranks
 </p>
 ---
-# awesome npm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
+# awesome npm [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [<img src="https://github.com/npm/logos/blob/7fb0bc425e0dac1bab065217c4ed595594448db4/npm-transparent.png" width="200" align="right" alt="npm">](https://www.npmjs.com)
 
 > Awesome [npm](https://www.npmjs.com) resources and tips
 
-You might also like [awesome-nodejs ★18802](https://github.com/sindresorhus/awesome-nodejs).
+You might also like [awesome-nodejs ★19279](https://github.com/sindresorhus/awesome-nodejs).
 
 *Please read the [contribution guidelines](https://github.com/sindresorhus/awesome-npm/blob/master/contributing.md) before contributing.*
 
@@ -71,6 +71,7 @@ You might also like [awesome-nodejs ★18802](https://github.com/sindresorhus/aw
 
 - [Octo-Linker](https://chrome.google.com/webstore/detail/octo-linker/jlmafbaeoofdegohdhinkhilhclaklkp) - Chrome extension to navigate across npm packages on GitHub with ease.
 - [npm-hub](https://chrome.google.com/webstore/detail/npm-hub/kbbbjimdjbjclaebffknlabpogocablj) - Chrome extension to explore npm dependencies on GitHub repos.
+- [github-npm-stats](https://chrome.google.com/webstore/detail/github-npm-stats/oomfflokggoffaiagenekchfnpighcef) - View npm download stats on GitHub.
 
 ### CLI
 
@@ -81,7 +82,7 @@ You might also like [awesome-nodejs ★18802](https://github.com/sindresorhus/aw
 
 ### Publishing
 
-- [np ★2455](https://github.com/sindresorhus/np) - A better `npm publish`.
+- [np ★2518](https://github.com/sindresorhus/np) - A better `npm publish`.
 - [publish-please ★713](https://github.com/inikulin/publish-please) - Publish packages safely and gracefully.
 - [npm-release](https://github.com/phuu/npm-release) - Making releasing to npm so easy a kitten could probably do it™.
 - [pkgfiles ★53](https://github.com/timoxley/pkgfiles) - List all files which would be published in a package.
@@ -105,14 +106,14 @@ You might also like [awesome-nodejs ★18802](https://github.com/sindresorhus/aw
 
 ### Other
 
-- [npm-home ★76](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
-- [gh-home ★83](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
-- [david ★764](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
+- [npm-home ★83](https://github.com/sindresorhus/npm-home) - Open the npm page of a package.
+- [gh-home ★86](https://github.com/sindresorhus/gh-home) - Open the GitHub page of a package.
+- [david ★769](https://github.com/alanshaw/david) - Check if your package dependencies are out of date.
 - [npm-check ★3641](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies, as well as interactive update.
 - [npm-upgrade ★86](https://github.com/th0r/npm-upgrade) - Update outdated npm dependencies interactively.
 - [npm-shrinkwrap ★780](https://github.com/uber/npm-shrinkwrap) - A consistent shrinkwrap tool.
 - [npm-windows-upgrade ★1242](https://github.com/felixrieseberg/npm-windows-upgrade) - Upgrade npm on Windows.
-- [generator-nm ★483](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
+- [generator-nm ★487](https://github.com/sindresorhus/generator-nm) - Scaffold out an npm package.
 - [pkg-up ★33](https://github.com/sindresorhus/pkg-up) - Find the closest package.json file.
 - [read-pkg-up ★48](https://github.com/sindresorhus/read-pkg-up) - Read the closest package.json file.
 - [normalize-package-data ★73](https://github.com/npm/normalize-package-data) - Normalize package metadata.
@@ -254,7 +255,7 @@ Bentley
 
 ### Run commands with different Node.js versions
 
-With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n` ★7582](https://github.com/tj/n).
+With `npx` (Comes bundled with npm v5.2.0 or newer) and the [`node-bin`](https://www.npmjs.com/package/node-bin) package, you can easily try out code in different Node.js versions without having to use a version manager like [`nvm`](http://nvm.sh), [`nave`](https://github.com/isaacs/nave), or [`n` ★7756](https://github.com/tj/n).
 
 ```
 $ npx --package=node-bin@6.11.0 -- node --version

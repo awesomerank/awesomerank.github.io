@@ -8,7 +8,7 @@ title: Awesome Rank for fasouto/awesome-dataviz
 </p>
 ---
 # Awesome dataviz 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
 
 
 A curated list of awesome data visualizations frameworks, libraries and software. Inspired by [awesome-python ★39191](https://github.com/vinta/awesome-python).
@@ -43,14 +43,13 @@ A curated list of awesome data visualizations frameworks, libraries and software
 ### Charting libraries
 - [Chart.js](http://www.chartjs.org/) - Charts with the canvas tag.
 - [Chartist.js](http://gionkunz.github.io/chartist-js/) - Responsive charts with great browser compatibility.
-- [dc.js ★5836](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
+- [dc.js ★5914](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
 - [Dimple](http://dimplejs.org/) - An object-oriented API for business analytics.
 - [Dygraphs](http://dygraphs.com/) - Interactive line charts library that works with huge datasets.
 - [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper ★790](https://github.com/hustcc/echarts-for-react)
-- [Epoch ★4874](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
+- [Epoch ★4887](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Optimized for time-series data.
-- [NVD3 ★6160](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
-- [Peity ★3876](https://github.com/benpickles/peity) - Create small inline svg charts.
+- [NVD3 ★6207](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
 - [Plotly.js ★6919](https://github.com/plotly/plotly.js) - Powerful declarative library with support for 20 chart types.
 - [TechanJS](http://techanjs.org/) - Stock and financial charts.
 
@@ -61,12 +60,12 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [VivaGraph ★2383](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript.
 
 ### Maps
-- [CARTO ★1552](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
-- [Cesium ★2462](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
+- [CARTO ★1598](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
+- [Cesium ★2526](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
 - [DataMaps ★2488](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js.
 - [Leaflet](http://leafletjs.com) - JavaScript library for mobile-friendly interactive maps.
 - [Leaflet Data Visualization Framework ★500](https://github.com/humangeo/leaflet-dvf)  - A framework designed to simplify data visualization and thematic mapping using Leaflet.
-- [Mapael ★825](https://github.com/neveldo/jQuery-Mapael) - jQuery plugin based on the.js to display vector maps.
+- [Mapael ★825](https://github.com/neveldo/jQuery-Mapael) - jQuery plugin based on raphael.js to display vector maps.
 
 
 ### d3
@@ -74,7 +73,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ### React
 - [React-vis ★2373](https://github.com/uber/react-vis) - React components to build data visualizations.
-- [Recharts ★6629](https://github.com/recharts/recharts) - Declarative react components to render D3 charts.
+- [Recharts ★6892](https://github.com/recharts/recharts) - Declarative react components to render D3 charts.
 - [Victory](https://formidable.com/open-source/victory/) - Composable components for building interactive data visualizations
 - [nivo ★1697](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](http://nivo.rocks).
 
@@ -88,8 +87,8 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ## Android tools
 - [DecoView ★815 ⏳1Y](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
-- [MPAndroidChart ★18167](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
-- [WilliamChart ★3417](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
+- [MPAndroidChart ★18572](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
+- [WilliamChart ★3450](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
 
 ## C++ tools
 - [LargeVis ★326](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
@@ -101,10 +100,10 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 
 ## iOS tools
-- [BEMSimpleLineGraph ★2624](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
+- [BEMSimpleLineGraph ★2633](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
 - [Charts ★15950](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
-- [JBChartView ★3721](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
-- [PNChart ★8803](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
+- [JBChartView ★3722](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
+- [PNChart ★8847](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
 
 ## Python tools
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-lite.
@@ -133,7 +132,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [visNetwork](http://dataknowledge.github.io/visNetwork/) - Interactive network visualisations
 
 ## Ruby tools
-- [Chartkick ★4468](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
+- [Chartkick ★4516](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
 
 ## Other tools
 Tools that are not tied to a particular platform or language.
@@ -142,8 +141,7 @@ Tools that are not tied to a particular platform or language.
 - [Gephi ★2235](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 - [Lightning](http://lightning-viz.org/) - A data-visualization server providing API-based access to reproducible, web-based, interactive visualizations.
 - [RAW](http://rawgraphs.io) - Create web visualizations from CSV or Excel files.
-- [Spark ★4888](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
-- [Superset](https://github.com/airbnb/superset) - A data exploration platform designed to be visual, intuitive, and interactive
+- [Spark ★4912](https://github.com/holman/spark) - Sparklines for the shell. It have several [implementations in different languages](https://github.com/holman/spark/wiki/Alternative-Implementations).
 - [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.  Some data visualization examples are available in the [Composition Gallery](https://vuo.org/composition/?f%5B0%5D=im_field_vuo_feature_component%3A149).
 
 # Resources
@@ -170,6 +168,7 @@ Tools that are not tied to a particular platform or language.
 - [FlowingData](http://flowingdata.com/)
 - [Gnuplotting](http://www.gnuplotting.org/) - [Gnuplot](http://www.gnuplot.info/) tutorials
 - [Information is Beautiful](http://www.informationisbeautiful.net/)
+- [The Pudding](https://pudding.cool/)
 - [The Data Visualization Catalogue](http://www.datavizcatalogue.com/) - A collection of data visualization methods, with pros and cons.
 - [Visual Complexity](http://www.visualcomplexity.com/vc/) - A site about the visualization of complex networks.
 

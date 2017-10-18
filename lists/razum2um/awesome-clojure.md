@@ -7,7 +7,7 @@ title: Awesome Rank for razum2um/awesome-clojure
 	This list is a copy of <a href="https://github.com/razum2um/awesome-clojure">razum2um/awesome-clojure</a> with ranks
 </p>
 ---
-# Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Clojure [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 - [Awesome products in Clojure](#awesome-products-in-clojure)
   - [LightTable (IDE)](http://lighttable.com/)
@@ -17,6 +17,7 @@ title: Awesome Rank for razum2um/awesome-clojure
   - [PuppetDB ★220](https://github.com/puppetlabs/puppetdb)
   - [Metabase ★6887](https://github.com/metabase/metabase)
   - [Avi (vim rewrite) ★191](https://github.com/maitria/avi)
+  - [Liquid (Text Editor) ★130](https://github.com/mogenslund/liquid)
 - [Languages written with Clojure](#languages-written-with-clojure)
   - [jank ★55](https://github.com/jeaye/jank)
   - [lux ★826](https://github.com/LuxLang/lux)
@@ -142,6 +143,7 @@ title: Awesome Rank for razum2um/awesome-clojure
   * [clojure.jdbc ★87](https://github.com/funcool/clojure.jdbc)
   * [cravendb ★51 ⏳3Y](https://github.com/robashton/cravendb)
   * [Mongo](http://clojuremongodb.info/)
+  * [Monglorious](https://baumandm.github.io/monglorious/)
   * [RethinkDB ★174](https://github.com/apa512/clj-rethinkdb)
   * [ElasticSearch](http://clojureelasticsearch.info/)
   * [Neo4j](http://clojureneo4j.info/)
@@ -282,8 +284,8 @@ anylysis and visualization.*
   * [Incanter ★1922](https://github.com/incanter/incanter)
   * [Cascalog](http://cascalog.org/)
   * [Onyx ★1578](https://github.com/onyx-platform/onyx)
-  * [sparklling ★306](https://github.com/gorillalabs/sparkling)
-  * [flambo ★520](https://github.com/yieldbot/flambo)
+  * [sparklling ★308](https://github.com/gorillalabs/sparkling)
+  * [flambo ★522](https://github.com/yieldbot/flambo)
   * [Neanderthal ★417](https://github.com/uncomplicate/neanderthal)
   * [lucid.graph](http://docs.caudate.me/lucidity/lucid-graph.html)
   * [Streaming Histograms ★131 ⏳1Y](https://github.com/bigmlcom/histogram)
@@ -371,7 +373,7 @@ anylysis and visualization.*
   * [redl ★30 ⏳3Y](https://github.com/dgrnbrg/redl)
   * [limit-break ★16 ⏳5Y](https://github.com/technomancy/limit-break)
   * [spyscope ★385](https://github.com/dgrnbrg/spyscope)
-  * [aprint ★111 ⏳1Y](https://github.com/razum2um/aprint)
+  * [aprint ★111 ⏳2Y](https://github.com/razum2um/aprint)
   * [pretty ★355](https://github.com/AvisoNovate/pretty)
   * [prone ★446](https://github.com/magnars/prone)
   * [figwheel ★2260](https://github.com/bhauman/lein-figwheel)
@@ -388,6 +390,7 @@ anylysis and visualization.*
   * [A Brief Beginner's Guide To Clojure](http://www.unexpected-vortices.com/clojure/brief-beginners-guide/index.html)
   * [Clojure for the Brave and True](http://www.braveclojure.com/)
   * [Clojure from the ground up](https://aphyr.com/tags/Clojure-from-the-ground-up)
+  * [Clojure by Example](https://kimh.github.io/clojure-by-example/)
 
 ## Websites
 

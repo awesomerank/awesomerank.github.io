@@ -7,7 +7,7 @@ title: Awesome Rank for owainlewis/awesome-artificial-intelligence
 	This list is a copy of <a href="https://github.com/owainlewis/awesome-artificial-intelligence">owainlewis/awesome-artificial-intelligence</a> with ranks
 </p>
 ---
-# Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Artificial Intelligence (AI) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.
 
@@ -115,7 +115,7 @@ Contributions most welcome.
 * [Deep Learning.net](http://deeplearning.net/) - Aggregation site for DL resources
 * [Awesome Machine Learning ★26231](https://github.com/josephmisiti/awesome-machine-learning) - Like this Github, but ML-focused
 * [FastML](http://fastml.com/)
-* [Awesome Deep Learning Resources ★436](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
+* [Awesome Deep Learning Resources ★605](https://github.com/guillaume-chevalier/awesome-deep-learning-resources) - Rough list of learning resources for Deep Learning
 
 
 ## Organizations

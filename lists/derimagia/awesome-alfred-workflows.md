@@ -16,7 +16,7 @@ A curated list of Awesome Alfred Workflows.
 
 [Alfred](https://www.alfredapp.com/) is a productivity app for macOS that boosts your efficiency with hotkeys, keywords and text expansion.
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 ## Contents
 - [Communication](#communication)

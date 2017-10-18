@@ -7,7 +7,7 @@ title: Awesome Rank for h4cc/awesome-elixir
 	This list is a copy of <a href="https://github.com/h4cc/awesome-elixir">h4cc/awesome-elixir</a> with ranks
 </p>
 ---
-# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 
 If you think a package should be added, please add a :+1: (`:+1:`) at the according issue or create a new one.
@@ -136,7 +136,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [datastructures ★170](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
 * [dlist ★2 ⏳2Y](https://github.com/stocks29/dlist) - Deque implementations in Elixir.
 * [eastar](https://github.com/herenowcoder/eastar) - A* graph pathfinding in pure Elixir.
-* [ecto_materialized_path ★6](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
+* [ecto_materialized_path ★9](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
 * [ecto_state_machine ★46](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
 * [elistrix ★9 ⏳2Y](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
 * [erlang-algorithms ★83](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
@@ -409,7 +409,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dotenv ★133](https://github.com/avdi/dotenv_elixir) - A port of dotenv to Elixir.
 * [ex_conf ★28 ⏳3Y](https://github.com/phoenixframework/ex_conf) - Simple Elixir Configuration Management.
 * [figaro ★7 ⏳1Y](https://github.com/trestrantham/ex_figaro) - Simple Elixir project configuration.
-* [figaro_elixir ★9](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
+* [figaro_elixir ★9 ⏳1Y](https://github.com/KamilLelonek/figaro-elixir) - Environmental variables manager for Elixir.
 * [sweetconfig ★1 ⏳3Y](https://github.com/d0rc/sweetconfig) - Read YAML configuration files from any point at your app.
 * [weave ★60](https://github.com/GT8Online/weave) - JIT configuration loader that works with Kubernetes and Docker Swarm.
 
@@ -443,7 +443,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Date and Time
 *Libraries for working with dates and times.*
 
-* [block_timer ★8 ⏳2Y](https://github.com/adamkittelson/block_timer) - Macros to use :timer.apply_after and :timer.apply_interval with a block.
+* [block_timer ★8 ⏳3Y](https://github.com/adamkittelson/block_timer) - Macros to use :timer.apply_after and :timer.apply_interval with a block.
 * [calendar ★282](https://github.com/lau/calendar) - Calendar is a date and time library for Elixir.
 * [chronos ★83 ⏳1Y](https://github.com/nurugger07/chronos) - An Elixir date/time library.
 * [cronex ★16](https://github.com/jbernardo95/cronex) - Cron like system you can mount in your supervision tree.
@@ -471,7 +471,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [eh ★14 ⏳2Y](https://github.com/Frost/eh) - A tool to look up Elixir documentation from the command line.
 * [eper ★397](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 * [ether ★3 ⏳2Y](https://github.com/maarek/ether) - Ether provides functionality to hook Elixir into the Erlang debugger.
-* [ex_debug_toolbar ★230](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+* [ex_debug_toolbar ★277](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 * [exrun ★63](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 * [observer_cli ★341](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 * [quaff ★60 ⏳1Y](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
@@ -481,7 +481,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Installing and running your code automatically on other machines.*
 
 * [ansible-elixir-stack ★252 ⏳1Y](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
-* [bootleg ★145](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
+* [bootleg ★158](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
 * [bottler ★25](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 * [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 * [exdm ★11 ⏳1Y](https://github.com/joeyates/exdm) - Deploy Elixir applications via mix tasks.
@@ -555,7 +555,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Eventhandling
 *Sending/Emitting and receiving/handling Events in Elixir.*
 
-* [event_bus ★56](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+* [event_bus ★65](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 * [goldrush ★62](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
 * [reaxive ★143 ⏳1Y](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
 
@@ -888,7 +888,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pit ★14](https://github.com/vic/pit) - Transform values as they flow inside a pipe.
 * [rebind ★0 ⏳2Y](https://github.com/camshaft/rebind) - rebind parse transform for Erlang.
 * [rulex](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
-* [shorter_maps ★70](https://github.com/meyercm/shorter_maps) - ~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
+* [shorter_maps ★81](https://github.com/meyercm/shorter_maps) - ~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
 
 ## Markdown
 *Libraries and tools working with Markdown and such.*
@@ -905,7 +905,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [address_us ★8](https://github.com/smashedtoatoms/address_us) - Library for parsing US Addresses into their individual parts.
 * [Apex ★196](https://github.com/bjro/apex) - Awesome Print for Elixir.
 * [bupe ★35](https://github.com/milmazz/bupe) - EPUB Generator and Parser.
-* [charm ★4 ⏳2Y](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
+* [charm ★4 ⏳3Y](https://github.com/tomgco/elixir-charm) - Use ANSI terminal characters to write colors and cursor positions.
 * [Countries ★45](https://github.com/SebastianSzturo/countries) - Countries is a collection of all sorts of useful information for every country in the ISO 3166 standard.
 * [countriex ★6](https://github.com/navinpeiris/countriex) - A pure elixir country data provider containing various information for every country in ISO 3166.
 * [dye ★16 ⏳1Y](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
@@ -918,7 +918,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_rated ★135](https://github.com/grempe/ex_rated) - Simple and flexible rate-limiting for API's or anything.
 * [exfcm ★1 ⏳1Y](https://github.com/Hajto/ExFCM) - Simple wrapper for posting Firebase Cloud Messages.
 * [exldap ★25](https://github.com/jmerriweather/exldap) - A module for working with LDAP from Elixir.
-* [exlibris ★7 ⏳2Y](https://github.com/pragdave/exlibris) - A collection of random library functions.
+* [exlibris ★7 ⏳3Y](https://github.com/pragdave/exlibris) - A collection of random library functions.
 * [expool](https://github.com/zackehh/expool) - A small process pooling library for parallel tasks in Elixir.
 * [exprint ★23](https://github.com/parroty/exprintf) - A printf / sprintf library for Elixir, works as a wrapper for :io.format.
 * [exquisite ★52](https://github.com/meh/exquisite) - LINQ-like match_spec generation for Elixir.
@@ -1171,7 +1171,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Security
 *Libraries and tools regarding security.*
 
-* [safetybox ★14 ⏳1Y](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
+* [safetybox ★14 ⏳2Y](https://github.com/aforward/safetybox) - Security oriented helper functions for Elixir.
 * [ssl_verify_fun ★29](https://github.com/deadtrickster/ssl_verify_fun.erl) - Collection of ssl verification functions for Erlang.
 
 ## Static Page Generation
@@ -1427,7 +1427,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [riemann ★38](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.
 * [semver ★2 ⏳2Y](https://github.com/lee-dohm/semver) - Utilities for working with semver.org-compliant version strings.
 * [sendgrid ★30](https://github.com/alexgaribay/sendgrid_elixir) - Send composable, transactional emails with SendGrid.
-* [sift_ex ★13](https://github.com/C404/sift_ex) - A Siftscience API Library for Elixir.
+* [sift_ex ★13 ⏳1Y](https://github.com/C404/sift_ex) - A Siftscience API Library for Elixir.
 * [simplex ★3 ⏳1Y](https://github.com/adamkittelson/simplex) - An Elixir library for interacting with the Amazon SimpleDB API.
 * [slack ★365](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 * [sparkpost ★31](https://github.com/SparkPost/elixir-sparkpost) - An Elixir library for sending email using SparkPost.

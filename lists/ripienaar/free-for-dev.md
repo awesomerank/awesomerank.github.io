@@ -97,7 +97,6 @@ Table of Contents
   * [sourcetalk.net](http://sourcetalk.net/) — Code discussion tool, free for open code talks
   * [helplightning.com](https://www.helplightning.com/) — Help over video with augmented reality. Free without analytics, encryption, support
   * [evernote.com](https://evernote.com/) — Tool for organizing information. Share your notes and work together with others
-  * [wunderlist.com](https://www.wunderlist.com/) — Share your lists and work collaboratively on projects with your colleagues, free on iPhone, iPad, Mac, Android, Windows and the web
   * [doodle.com](http://doodle.com/) — The scheduling tool you'll actually use. Find a date for a meeting two times faster
   * [sendtoinc.com](https://sendtoinc.com/) — Share links, notes, files and have discussions. Free for 3 and 100 MB
   * [zoom.us](https://zoom.us/) — Secure Video and Web conferencing, add-ons available. Free limited to 40 minutes
@@ -105,6 +104,7 @@ Table of Contents
   * [filehero.io](https://filehero.io/) — Make it easy to access your company's file storage from a corporate download page. Free for 5 concurrent downloads
   * [wistia.com](http://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [cnverg.com](http://cnverg.com/) — Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
+  * [flock.com](https://flock.com) — A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
 
 ## Code Quality
 
@@ -241,7 +241,6 @@ Table of Contents
   * [newrelic.com](https://newrelic.com/) — Free with 24 hours data retention
   * [nodequery.com](https://nodequery.com/) — Free basic server monitor up to 10 servers
   * [watchsumo.com](http://www.watchsumo.com/) — Free website monitoring, 50 http(s), Ping or keywords, every 5+ minutes
-  * [runscope.com](https://www.runscope.com/) — Monitor and log API usage. Single user 25,000 requests/month free
   * [circonus.com](http://www.circonus.com/) — Free for 20 metrics
   * [uptimerobot.com](https://uptimerobot.com/) — Website monitoring, 50 monitors free
   * [statuscake.com](https://www.statuscake.com/) — Website monitoring, unlimited tests free with limitations
@@ -286,6 +285,7 @@ Table of Contents
   * [sparkpost.com](https://www.sparkpost.com/) — First 15,000 emails/month free
   * [mailgun.com](https://www.mailgun.com/) — First 10,000 emails/month free
   * [tinyletter.com](https://tinyletter.com/) — 5,000 subscribers/month free
+  * [sendloop.com](https://start.sendloop.com/) - 2,000 subscribers and unlimited emails/month free
   * [mailchimp.com](http://mailchimp.com/) — 2,000 subscribers and 12,000 emails/month free
   * [sendgrid.com](https://sendgrid.com/) — 100 emails/day and 2,000 contacts free
   * [phplist.com](https://phplist.com/) — Hosted version allow 300 emails/month free
@@ -596,7 +596,7 @@ Table of Contents
   * [Docker Hub](https://hub.docker.com) — One free private repository and unlimited public repositories to build and store Docker images
   * [quay.io](https://quay.io/) — Build and store container images with unlimited free public repositories
   * [canister.io](https://canister.io/) — 20 free private repositories for developers, 30 free private repositories for teams to build and store Docker images
-  * [Whales ★73](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free.
+  * [Whales ★74](https://github.com/Gueils/whales) - A tool to automatically dockerize your applications for free.
 
 ## Vagrant Related
 

@@ -30,36 +30,36 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 
 ## Open Source
 
-* [dropwizard-swagger ★99](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints.
+* [dropwizard-swagger ★103](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints.
 * [dropwizard-jaxws ★41](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API.
 * [dropwizard-redirect-bundle ★13 ⏳1Y](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects.
-* [dropwizard-template-config ★39](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template.
+* [dropwizard-template-config ★40](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template.
 * [dropwizard-caching-bundle ★8 ⏳1Y](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses.
-* [dropwizard-xml ★25 ⏳1Y](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs
+* [dropwizard-xml ★26 ⏳1Y](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs
 * [dropwizard-crypto ★13](https://github.com/meltmedia/dropwizard-crypto) - A Cryptographic Bundle for Dropwizard
 * [dropwizard-circuitbreaker ★22](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard
 * [dropwizard-maxmind-bundle ★3](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 support for dropwizard
 * [dropwizard-protobuf ★35](https://github.com/dropwizard/dropwizard-protobuf) - Support for reading and writing Google Protocol Buffer objects within Dropwizard
 * [dropwizard-activemq-bundle ★29](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application
-* [dropwizard-consul ★45](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard
-* [dropwizard-zipkin ★32](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard
-* [dropwizard-graphql ★12](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard
+* [dropwizard-consul ★46](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard
+* [dropwizard-zipkin ★33](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard
+* [dropwizard-graphql ★14](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard
 * [dropwizard-money ★1](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard
-* [breakerbox ★59](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius
-* [tenacity ★204](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard
+* [breakerbox ★60](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius
+* [tenacity ★205](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard
 * [dropwizard-grpc ★12](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service
-* [sqs-dropwizard ★9](https://github.com/bascan/sqs-dropwizard) - Amazon SQS integration
+* [sqs-dropwizard](https://github.com/bascan/sqs-dropwizard) - Amazon SQS integration
 * [dropwizard-simple-cors ★0](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
 * [dropwizard-version-info ★5](https://github.com/palantir/dropwizard-version-info) - A Dropwizard bundle which exposes a version endpoint
 
 ### Authentication
 
-* [dropwizard-auth-ldap ★33](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard
+* [dropwizard-auth-ldap ★32](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard
 * [dropwizard-jwt-cookie-authentication ★18](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) - Dropwizard bundle managing authentication through JWT cookies
 
 ### Assets
 
-* [dropwizard-configurable-assets-bundle ★59 ⏳1Y](https://github.com/bazaarvoice/dropwizard-configurable-assets-bundle) - An implementation of an AssetBundle for use in Dropwizard that allows user configuration.
+* [dropwizard-configurable-assets-bundle ★60 ⏳1Y](https://github.com/bazaarvoice/dropwizard-configurable-assets-bundle) - An implementation of an AssetBundle for use in Dropwizard that allows user configuration.
 * [dropwizard-markdown-assets-bundle ★2 ⏳1Y](https://github.com/rnorth/dropwizard-markdown-assets-bundle) - renders Markdown files as pretty HTML
 
 ### Data Stores
@@ -68,7 +68,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 * [dropwizard-mongo ★21 ⏳2Y](https://github.com/eeb/dropwizard-mongo) - Factories and health checks for connecting to mongoDB.
 * [dropwizard-elasticsearch ★49](https://github.com/dropwizard/dropwizard-elasticsearch) - A set of classes for using Elasticsearch in a Dropwizard service
 * [dropwizard-service-discovery ★4](https://github.com/santanusinha/dropwizard-service-discovery) - Zookeeper service discovery bundle and client for dropwizard.
-* [dropwizard-cassandra ★57](https://github.com/composable-systems/dropwizard-cassandra) - Dropwizard support for Cassandra
+* [dropwizard-cassandra ★58](https://github.com/composable-systems/dropwizard-cassandra) - Dropwizard support for Cassandra
 * [dropwizard-riak ★1](https://github.com/smoketurner/dropwizard-riak) - Dropwizard support for Riak
 * [dropwizard-orient-server ★12](https://github.com/xvik/dropwizard-orient-server) - Embedded OrientDB server for dropwizard
 
@@ -81,24 +81,24 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 
 * [dropwizard-gelf ★46](https://github.com/gini/dropwizard-gelf) - Addon bundle for Dropwizard to support logging to a GELF-enabled servers
 * [dropwizard-raven ★15](https://github.com/tradier/dropwizard-raven) - Dropwizard integration for error logging to Sentry
-* [dropwizard-logstash-encoder ★12](https://github.com/Wikia/dropwizard-logstash-encoder) - Dropwizard logging addon for sending logs using the logstash-logback-encoder
+* [dropwizard-logstash-encoder ★13](https://github.com/Wikia/dropwizard-logstash-encoder) - Dropwizard logging addon for sending logs using the logstash-logback-encoder
 
 ### Scheduled/Recurrence Jobs
 
 * [dropwizard-quartz ★54 ⏳2Y](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz.
-* [dropwizard-jobs ★93](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard
+* [dropwizard-jobs ★97](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard
 * [dropwizard-sundial ★26](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial
 
 ### Guice
 
-* [dropwizard-guice ★236](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice.
-* [dropwizard-guicey ★108](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration
+* [dropwizard-guice ★240](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice.
+* [dropwizard-guicey ★109](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration
 * [dropwizard-guicier ★15](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration.
 
 ### Deployment
 
 * [WizToWar ★41 ⏳2Y](https://github.com/twilio/wiztowar) - Build WARs from your Dropwizard apps
-* [wizard-in-a-box ★29](https://github.com/rvs-fluid-it/wizard-in-a-box) - deploy Dropwizard apps as a war
+* [wizard-in-a-box ★30](https://github.com/rvs-fluid-it/wizard-in-a-box) - deploy Dropwizard apps as a war
 
 ## Tutorials
 
@@ -141,7 +141,7 @@ Contributions welcome! Read the [contribution guidelines](https://github.com/stv
 
 ## Awesome!
 
-Check out more [awesome projects ★65640](https://github.com/sindresorhus/awesome).
+Check out more [awesome projects ★67308](https://github.com/sindresorhus/awesome).
 
 ## License
 

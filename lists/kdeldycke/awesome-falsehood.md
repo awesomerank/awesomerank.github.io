@@ -7,7 +7,7 @@ title: Awesome Rank for kdeldycke/awesome-falsehood
 	This list is a copy of <a href="https://github.com/kdeldycke/awesome-falsehood">kdeldycke/awesome-falsehood</a> with ranks
 </p>
 ---
-# Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
+# Awesome Falsehood [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/kdeldycke/awesome-falsehood.svg?branch=master)](https://travis-ci.org/kdeldycke/awesome-falsehood)
 
 A curated list of awesome falsehoods programmers believe in.
 
@@ -143,8 +143,8 @@ The consequence of wrong calendar accounting.
 
 - [I Knew How to Validate an Email Address Until I Read the
 RFC](https://haacked.com/archive/2007/08/21/i-knew-how-to-validate-an-email-address-until-i.aspx/) -
-Provides intricate examples that are unsuspected valid emails according the
-RFC-822.
+Provides intricate examples that are unsuspected valid email addresses
+according the RFC-822.
 
 
 ## Geography
@@ -229,7 +229,7 @@ Covers phone numbers, their representation and meaning.
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
 [C# ★170](https://github.com/erezak/libphonenumber-csharp),
-[Objective-C ★1698](https://github.com/iziz/libPhoneNumber-iOS),
+[Objective-C ★1713](https://github.com/iziz/libPhoneNumber-iOS),
 [Python ★1631](https://github.com/daviddrysdale/python-phonenumbers),
 [Ruby ★518](https://github.com/sstephenson/global_phone) and
 [PHP ★1987](https://github.com/giggsey/libphonenumber-for-php).

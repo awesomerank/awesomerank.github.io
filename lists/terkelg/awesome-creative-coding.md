@@ -7,7 +7,7 @@ title: Awesome Rank for terkelg/awesome-creative-coding
 	This list is a copy of <a href="https://github.com/terkelg/awesome-creative-coding">terkelg/awesome-creative-coding</a> with ranks
 </p>
 ---
-# Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Creative Coding [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 # [<img src="https://cdn.rawgit.com/terkelg/awesome-creative-coding/master/cover.png"> ★2457](https://github.com/terkelg/awesome-creative-coding)
 
@@ -15,7 +15,7 @@ title: Awesome Rank for terkelg/awesome-creative-coding
 
 Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. **Interaction design**, **information visualization** and **generative art** are all different types of creative coding – which has become a household term describing **artworks articulated as code**.
 
-*You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL ★594](https://github.com/eug/awesome-opengl).*
+*You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL ★615](https://github.com/eug/awesome-opengl).*
 
 *Please read the [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) before contributing.*
 
@@ -152,6 +152,7 @@ Creative coding is a different discipline than programming systems in which the 
 - [Pure Data](https://puredata.info/) [Cross-platform] - Open source visual programming language for multimedia.
 - [i-score](http://www.i-score.org) [Cross-platform] - Interactive sequencer to control creative coding libraries and toolkits.
 - [tooll](http://tooll.io/) [Win] - Open source tool for creating interactive 3d content and animations.
+- [XOD](https://xod.io/) [Cross-platform] - Open source visual programming language and environment for microcontroller-based projects.
 
 ### Sound Programming Languages
 
@@ -162,7 +163,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 ### Web Programming • Libraries
 
-- [three.js ★35252](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [three.js ★35925](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [regl ★1609](https://github.com/regl-project/regl) - Functional WebGL.
 - [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
@@ -454,18 +455,18 @@ Creative coding is a different discipline than programming systems in which the 
 
 ## Related
 
-- [Awesome opengl ★594](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-- [Awesome webgl ★126](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
+- [Awesome opengl ★615](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+- [Awesome webgl ★142](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
 - [Awesome canvas ★281](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 - [Awesome audio visualization ★1410](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
-- [Awesome computer vision ★3058](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+- [Awesome computer vision ★3338](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 - [Awesome visualization research ★213](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
 - [Awesome livecoding ★309](https://github.com/lvm/awesome-livecoding) - Curated list of livecoding languages and tools.
 - [Awesome graphics ★320](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
-- [Graphics resources ★1032 ⏳1Y](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
-- [Magic tools ★4152](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
+- [Graphics resources ★1042 ⏳1Y](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
+- [Magic tools ★4245](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-- [Awesome public datasets ★20304](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
+- [Awesome public datasets ★20772](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
 

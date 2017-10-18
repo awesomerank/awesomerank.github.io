@@ -193,7 +193,7 @@ Here awesome badge for your project:
 * [MarioAriasC/KotlinPrimavera ★65](https://github.com/MarioAriasC/KotlinPrimavera) - Spring support libraries for Kotlin.
 * [kohesive/kovert ★78](https://github.com/kohesive/kovert) - An invisible, super easy and powerful REST and Web framework over Vert.x or Undertow.
 * [sdeleuze/spring-kotlin](https://github.com/sdeleuze/spring-kotlin) - Kotlin extensions for Spring projects.
-* [pgutkowski/KGraphQL ★16](https://github.com/pgutkowski/KGraphQL) - A GraphQL implementation written in Kotlin
+* [pgutkowski/KGraphQL ★21](https://github.com/pgutkowski/KGraphQL) - A GraphQL implementation written in Kotlin
 * [taskworld/kraph](https://github.com/taskworld/kraph) - GraphQL request string builder written in Kotlin
 * [sepatel/tekniq ★12](https://github.com/sepatel/tekniq) - Full-feature HTTP DSL Framework, HTTP Client, JDBC DSL, Loading Cache and Configuration
 * [vert-x3/vertx-lang-kotlin ★35](https://github.com/vert-x3/vertx-lang-kotlin) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
@@ -267,11 +267,11 @@ Here awesome badge for your project:
 * [square/sqldelight ★1531](https://github.com/square/sqldelight) - Generates Java models from CREATE TABLE statements.
 * [x2bool/kuery ★70 ⏳1Y](https://github.com/x2bool/kuery) - Typesafe SQL with Kotlin.
 * [Litote/kmongo ★44](https://github.com/Litote/kmongo) - KMongo - Kotlin toolkit for Mongo
-* [requery/requery ★2139](https://github.com/requery/requery) - Modern SQL based query & persistence for Java/Kotlin/Android.
+* [requery/requery ★2181](https://github.com/requery/requery) - Modern SQL based query & persistence for Java/Kotlin/Android.
 * [consoleau/kotlin-jpa-specification-dsl ★67](https://github.com/consoleau/kotlin-jpa-specification-dsl) - This library provides a fluent DSL for querying spring data JPA repositories using spring data Specifications.
 * [s4kibs4mi/PultusORM ★67](https://github.com/s4kibs4mi/PultusORM) - PultusORM is a sqlite ORM library for kotlin on top of sqlite jdbc driver.
 * [Ganet/rxaerospike ★6](https://github.com/Ganet/rxaerospike) - RxJava2 wrapper for aerospike-client-java.
-* [Raizlabs/DBFlow ★3728](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
+* [Raizlabs/DBFlow ★3774](https://github.com/Raizlabs/DBFlow) - A blazing fast, powerful, and very simple ORM android database library that writes database code for you.
 * [KotlinPorts/kt-postgresql-async](https://github.com/KotlinPorts/kt-postgresql-async) - Kotlin/Gradle port of mauricio's async driver for postgres/mysql.
 * [shyiko/levelkt ★2](https://github.com/shyiko/levelkt) - LevelDB client for Kotlin and/or Java 8+.
 
@@ -304,7 +304,7 @@ Here awesome badge for your project:
 
 ### <a name="libraries-frameworks-syntax-highlighters"></a>Syntax Highlighters <sup>[Back ⇈](#libraries-frameworks-syntax-highlighters-subcategory)</sup>
 * [jneen/rouge ★2061](https://github.com/jneen/rouge) - A pure-ruby code highlighter that is compatible with pygments. (wip)
-* [isagalaev/highlight.js ★10700](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (out-of-date)
+* [isagalaev/highlight.js ★10872](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (out-of-date)
 * [github/linguist ★5103](https://github.com/github/linguist) - For Ruby/Github, uses Sublime package
 * [birkenfeld/pygments-main](https://bitbucket.org/birkenfeld/pygments-main) - Python syntax highlighter.
 * [cansik/kotlin-latex-listing ★8](https://github.com/cansik/kotlin-latex-listing) - A syntax highlighting template for the Kotlin language in LaTeX listings.
@@ -343,7 +343,7 @@ Here awesome badge for your project:
 * [cretz/asmble ★74](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
 * [h0tk3y/better-parse ★16](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
 * [Kotlin/kotlinx.atomicfu ★57](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
-* [vjames19/kotlin-futures ★22](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
+* [vjames19/kotlin-futures ★27](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 * [Kotlin/kotlinx.support ★44](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
@@ -364,11 +364,11 @@ Here awesome badge for your project:
 * [kotlin-graphics/uno-sdk ★4](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
 * [kotlin-graphics/ovr ★1](https://github.com/kotlin-graphics/ovr) - Oculus binding
 * [kotlin-graphics/openvr ★3](https://github.com/kotlin-graphics/openvr) - OpenVR binding
-* [kotlin-graphics/assimp ★10](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
+* [kotlin-graphics/assimp ★11](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
 * [GlimpseFramework/glimpse-framework ★8](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
 * [java-opengl-labs/modern-jogl-examples ★36](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 * [java-opengl-labs/learn-OpenGL ★7](https://github.com/java-opengl-labs/learn-OpenGL) - port of https://learnopengl.com/ tutorial (lwjgl)
-* [kotlin-graphics/imgui ★23](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
+* [kotlin-graphics/imgui ★27](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
 * [Jonatino/JOGL2D ★8](https://github.com/Jonatino/JOGL2D) - Zero-overhead 2D rendering library for JOGL using Kotlin.
 
 ### <a name="libraries-frameworks-data-science"></a>Data Science <sup>[Back ⇈](#libraries-frameworks-data-science-subcategory)</sup>
@@ -414,7 +414,7 @@ Here awesome badge for your project:
 * [lice-lang/lice ★48](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
 * [sureshg/InstallCerts ★2](https://github.com/sureshg/InstallCerts) - Create a PKCS12 TrustStore by retrieving server certificates.
 * [vicboma1/GameBoyEmulatorEnvironment ★8](https://github.com/vicboma1/GameBoyEmulatorEnvironment) - Front-End developed with Kotlin Experimental for my GameBoy Emulator (coroutines).
-* [borisf/classyshark-bytecode-viewer ★123](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
+* [borisf/classyshark-bytecode-viewer ★139](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
 
 ### <a name="projects-desktop"></a>Desktop <sup>[Back ⇈](#projects-desktop-subcategory)</sup>
 * [ice1000/Dekoder ★4](https://github.com/ice1000/Dekoder) -  A kotlin music player, materially designed.
@@ -444,13 +444,13 @@ Here awesome badge for your project:
 
 ## <a name="android"></a>Android <sup>[Back ⇈](#android-category)</sup>
 ### <a name="android-libraries"></a>Libraries <sup>[Back ⇈](#android-libraries-subcategory)</sup>
-* [Kotlin/anko ★7685](https://github.com/Kotlin/anko) - Pleasant Android application development.
-* [JakeWharton/kotterknife ★1595](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
-* [MarcinMoskala/ActivityStarter ★215](https://github.com/MarcinMoskala/ActivityStarter) - Activity starter generator and arguments injection library for Android.
+* [Kotlin/anko ★8137](https://github.com/Kotlin/anko) - Pleasant Android application development.
+* [JakeWharton/kotterknife ★1646](https://github.com/JakeWharton/kotterknife) - View injection library for Android.
+* [MarcinMoskala/ActivityStarter ★224](https://github.com/MarcinMoskala/ActivityStarter) - Activity starter generator and arguments injection library for Android.
 * [MarcinMoskala/KotlinPreferences ★20](https://github.com/MarcinMoskala/KotlinPreferences) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun.
 * [MarcinMoskala/PreferenceHolder ★66](https://github.com/MarcinMoskala/PreferenceHolder) - Kotlin Android Library, that makes preference usage in Kotlin simple and fun using object with fields binded to SharedPreferences.
 * [nsk-mironov/kotlin-jetpack ★138 ⏳1Y](https://github.com/nsk-mironov/kotlin-jetpack) - A collection of useful extension methods for Android.
-* [pawegio/KAndroid ★602](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code.
+* [pawegio/KAndroid ★614](https://github.com/pawegio/KAndroid) - Kotlin library for Android providing useful extensions to eliminate boilerplate code.
 * [chibatching/Kotpref ★174](https://github.com/chibatching/Kotpref) - Android SharedPreference delegation for Kotlin.
 * [TouK/bubble ★63 ⏳1Y](https://github.com/TouK/bubble) - Library for obtaining screen orientation when orientation is blocked in AndroidManifest.
 * [ragunathjawahar/kaffeine ★125](https://github.com/ragunathjawahar/kaffeine) - Kaffeine is a Kotlin-flavored Android library for accelerating development.
@@ -464,7 +464,7 @@ Here awesome badge for your project:
 * [denisidoro/krouter ★65 ⏳1Y](https://github.com/denisidoro/krouter) - A lightweight Android activity router.
 * [metalabdesign/AsyncAwait ★314](https://github.com/metalabdesign/AsyncAwait) - async/await for Android built upon coroutines introduced in Kotlin 1.1.
 * [jupf/staticlog ★17](https://github.com/jupf/staticlog) - StaticLog - super lightweight static logging for Kotlin, Java and Android.
-* [zserge/anvil ★1084](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
+* [zserge/anvil ★1110](https://github.com/zserge/anvil) - Minimal UI library for Android inspired by React.
 * [DanielMartinus/Stepper-Touch ★251](https://github.com/DanielMartinus/Stepper-Touch) - Fun playful Android stepper widget for counting, written in Kotlin.
 * [GlimpseFramework/glimpse-framework-android ★2](https://github.com/GlimpseFramework/glimpse-framework-android) - OpenGL made simple.
 * [infotech-group/android-drawable-dsl ★94](https://github.com/infotech-group/android-drawable-dsl) - DSL for constructing the drawables in Kotlin instead of in XML.
@@ -502,7 +502,7 @@ Here awesome badge for your project:
 * [SimpleMobileTools/Simple-Gallery ★233](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
 * [SimpleMobileTools/Simple-Notes ★57](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
 * [ahong222/happy21 ★2](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
-* [AllanWang/KAU ★22](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
+* [AllanWang/KAU ★30](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
 
 ### <a name="android-extensions"></a>Extensions <sup>[Back ⇈](#android-extensions-subcategory)</sup>
 * [ajalt/timberkt ★81](https://github.com/ajalt/timberkt) - Easy Android logging with Kotlin and Timber.
@@ -514,7 +514,7 @@ Here awesome badge for your project:
 ## <a name="kotlin-javascript"></a>Kotlin JavaScript <sup>[Back ⇈](#kotlin-javascript-category)</sup>
 ### <a name="kotlin-javascript-javascript"></a>JavaScript <sup>[Back ⇈](#kotlin-javascript-javascript-subcategory)</sup>
 * [andrewoma/reakt ★220](https://github.com/andrewoma/reakt) - Reakt is a Kotlin wrapper for facebook's React library.
-* [pixijs/pixi-native ★39](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
+* [pixijs/pixi-native ★39 ⏳1Y](https://github.com/pixijs/pixi-native) - The aim of this project is to provide a fast lightweight 2D library that works across all devices.
 * [shafirov/klogging ★14](https://github.com/shafirov/klogging) - Kotlin logging, both js and jvm.
 * [stangls/kotlin-js-jquery ★7](https://github.com/stangls/kotlin-js-jquery) - A small framework for writing client -side web -applications in Kotlin.
 * [Kotlin/kotlin-fullstack-sample ★504](https://github.com/Kotlin/kotlin-fullstack-sample) - Kotlin Full-stack Application Example.

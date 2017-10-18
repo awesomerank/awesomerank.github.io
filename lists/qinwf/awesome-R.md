@@ -9,7 +9,7 @@ title: Awesome Rank for qinwf/awesome-R
 ---
 # Awesome R
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning ★26231](https://github.com/josephmisiti/awesome-machine-learning).
 
@@ -158,7 +158,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 * [networkD3](http://christophergandrud.github.io/networkD3/) - D3 JavaScript Network Graphs from R.
 * [scatterD3 ★92](https://github.com/juba/scatterD3) - Interactive scatterplots with D3.
 * [plotly <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20"> ★1026](https://github.com/ropensci/plotly) - Interactive ggplot2 and Shiny plotting with [plot.ly](https://plot.ly).
-* [rCharts <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20"> ★1091](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
+* [rCharts <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20"> ★1091 ⏳1Y](https://github.com/ramnathv/rCharts) - Interactive JS Charts from R.
 * [rbokeh](http://hafen.github.io/rbokeh/) - R Interface to [Bokeh](http://bokeh.pydata.org/en/latest/).
 * [threejs ★172](https://github.com/bwlewis/rthreejs) - Interactive 3D scatter plots and globes.
 * [timevis ★186](https://github.com/daattali/timevis) - Create fully interactive timeline visualizations.
@@ -605,8 +605,8 @@ Where to discover new R-esources.
 
 # Other Awesome Lists
 
-* [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness)
-* [lists ★4466](https://github.com/jnv/lists)
+* [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness)
+* [lists ★4518](https://github.com/jnv/lists)
 * [awesome-rshiny ★63](https://github.com/grabear/awesome-rshiny)
 
 # Contributing

@@ -7,7 +7,7 @@ title: Awesome Rank for EbookFoundation/free-programming-books
 	This list is a copy of <a href="https://github.com/EbookFoundation/free-programming-books">EbookFoundation/free-programming-books</a> with ranks
 </p>
 ---
-# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# List of Free Learning Resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 [View the English list](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books.md)
 
@@ -30,37 +30,37 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 
 
 ### In Other Spoken Languages
-+ Arabic: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ar.md)
-+ Azerbaijani: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-az.md)
-+ Bulgarian: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-bg.md)
-+ Burmese: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-mm.md)
-+ Chinese: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-zh.md)
-+ Czech: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-cs.md)
-+ English: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books.md)
-+ French: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-fr.md)
-+ German: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-de.md)
-+ Greek: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-gr.md)
-+ Hungarian: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-hu.md)
-+ Indonesian: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-id.md)
-+ Italian: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-it.md)
-+ Japanese: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ja.md)
-+ Korean: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ko.md)
-+ Persian/Farsi (Iran): [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-fa_IR.md)
-+ Polish: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-pl.md)
-+ Portuguese (Brazil): [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-pt_BR.md)
-+ Portuguese (Portugal): [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-pt_PT.md)
-+ Romanian (Romania): [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ro.md)
-+ Russian: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ru.md)
-+ Slovak: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-sk.md)
-+ Spanish: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-es.md)
-+ Swedish: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-se.md)
-+ Turkish: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-tr.md)
-+ Ukrainian: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ua.md)
++ [Arabic](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ar.md)
++ [Azerbaijani](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-az.md)
++ [Bulgarian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-bg.md)
++ [Burmese](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-mm.md)
++ [Chinese](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-zh.md)
++ [Czech](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-cs.md)
++ [English](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books.md)
++ [French](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-fr.md)
++ [German](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-de.md)
++ [Greek](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-gr.md)
++ [Hungarian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-hu.md)
++ [Indonesian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-id.md)
++ [Italian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-it.md)
++ [Japanese](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ja.md)
++ [Korean](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ko.md)
++ [Persian/Farsi (Iran)](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-fa_IR.md)
++ [Polish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-pl.md)
++ [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-pt_BR.md)
++ [Portuguese (Portugal)](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-pt_PT.md)
++ [Romanian (Romania)](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ro.md)
++ [Russian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ru.md)
++ [Slovak](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-sk.md)
++ [Spanish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-es.md)
++ [Swedish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-se.md)
++ [Turkish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-tr.md)
++ [Ukrainian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-programming-books-ua.md)
 
 
 ### Free Online Courses
-+ [Free Online Courses](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-en.md)
-+ [Free Online Courses - Russian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-en.md)
++ [English](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-en.md)
++ [Russian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-ru.md)
 
 
 ### Interactive Programming Resources
@@ -68,8 +68,8 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 
 
 ### JavaScript Frameworks and Resources
-+ [Free JavaScript frameworks resources and tutorials - English](https://github.com/EbookFoundation/free-programming-books/blob/master//javascript-frameworks-resources.md)
-+ [Free JavaScript frameworks resources and tutorials - Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master//javascript-frameworks-resources-pt_BR.md)
++ [English](https://github.com/EbookFoundation/free-programming-books/blob/master//javascript-frameworks-resources.md)
++ [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master//javascript-frameworks-resources-pt_BR.md)
 
 
 ### Problem Sets and Competitive Programming
@@ -79,10 +79,10 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 ### Podcast - Screencast
 Free Podcasts and Screencasts:
 
-+ Czech: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-cs.md)
-+ English: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-en.md)
-+ Portuguese (Brazil): [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-pt_BR.md)
-+ Russian: [github](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-ru.md)
++ [Czech](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-cs.md)
++ [English](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-en.md)
++ [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-pt_BR.md)
++ [Russian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-ru.md)
 
 
 ### Programming Playgrounds

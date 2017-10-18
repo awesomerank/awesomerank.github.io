@@ -9,11 +9,11 @@ title: Awesome Rank for ramnes/awesome-mongodb
 ---
 ![Awesome MongoDB](https://github.com/ramnes/awesome-mongodb/blob/master/logo.png)
 
-# Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
-Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
+Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
 
 ## Table of Contents
  - [Resources](#resources)
@@ -129,7 +129,7 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
  - [Mongoose ★13495](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
  - [mongration](https://github.com/eberhara/mongration) - Node.js migration framework
  - [Moonridge ★55](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
- - [node-mongodb-native ★6002](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
+ - [node-mongodb-native ★6072](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
 
 ### Julia
  - [Mongo.jl ★27 ⏳1Y](https://github.com/Lytol/Mongo.jl) - Bindings on MongoDB official C driver
@@ -148,12 +148,12 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
 ### PHP
  - [Doctrine MongoDB ★298](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
  - [eloquent-mongodb-repository](https://github.com/PHPRepository/php-eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
- - [laravel-mongodb ★2801](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
+ - [laravel-mongodb ★2869](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
  - [mongodb-repository](https://github.com/PHPRepository/php-mongodb-repository) - Repository implementation
  - [pecl/mongodb ★411](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Python
- - [Flask-PyMongo ★347](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
+ - [Flask-PyMongo ★352](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
  - [MongoEngine ★1898](https://github.com/MongoEngine/mongoengine) - Python ODM on top of PyMongo
  - [MongoLog ★100 ⏳4Y](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
  - [Mongo-Thingy ★7](https://github.com/numberly/mongo-thingy) - The most Pythonic and friendly-yet-powerful way to use MongoDB
@@ -176,7 +176,7 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
 ### Scala
  - [mongo-scala-driver ★170](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
  - [ReactiveMongo ★726](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
- - [Spark-MongoDB ★284 ⏳1Y](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+ - [Spark-MongoDB ★287 ⏳1Y](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ## Tools
 ### Administration
@@ -234,7 +234,7 @@ Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list
 
 ## Applications
  - [Leanote ★6018](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
- - [Quokka ★1709](https://github.com/quokkaproject/quokka) - Python CMS built on top of Flask and MongoDB
+ - [Quokka ★1721](https://github.com/quokkaproject/quokka) - Python CMS built on top of Flask and MongoDB
  - [uptime ★3345](https://github.com/fzaninotto/uptime) - Remote monitoring application using Node.js, MongoDB, and Bootstrap
 
 ## License

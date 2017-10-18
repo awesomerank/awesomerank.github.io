@@ -7,7 +7,7 @@ title: Awesome Rank for pazguille/offline-first
 	This list is a copy of <a href="https://github.com/pazguille/offline-first">pazguille/offline-first</a> with ranks
 </p>
 ---
-# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
+# Offline-First [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Build Status](https://img.shields.io/travis/pazguille/offline-first.svg)](https://travis-ci.org/pazguille/offline-first)
 
 > Useful resources for creating Offline-First web apps
 
@@ -15,7 +15,7 @@ title: Awesome Rank for pazguille/offline-first
 
 > via https://www.html5rocks.com/en/features/offline
 
-Inspired by the [awesome ★65640](https://github.com/sindresorhus/awesome) list thing.
+Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list thing.
 
 ## Table of Contents
 - [W3C Specification](#w3c-specification)

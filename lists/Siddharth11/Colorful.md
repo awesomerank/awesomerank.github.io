@@ -11,9 +11,9 @@ title: Awesome Rank for Siddharth11/Colorful
 	<img src="color-palette.gif" alt="header image">
 </p>
 
-# Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Colorful [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 __A curated list of awesome resources to choose your next color scheme.__
-Inspired by the __[awesome ★65640](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
+Inspired by the __[awesome ★67308](https://github.com/sindresorhus/awesome)__ list. Please read the __[contribution guidelines](https://github.com/Siddharth11/Colorful/blob/master/contributing.md)__ before contributing.
 
 ## Table of Contents
 - [Tools](#tools)
@@ -90,7 +90,7 @@ Inspired by the __[awesome ★65640](https://github.com/sindresorhus/awesome)__ 
 - [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
 - [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 - [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
-- [Color Name List ★139](https://github.com/meodai/color-names) - Huge curated list of unique color names.
+- [Color Name List ★201](https://github.com/meodai/color-names) - Huge curated list of unique color names.
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)

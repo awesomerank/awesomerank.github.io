@@ -261,7 +261,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Flysystem ★3552](https://github.com/thephpleague/Flysystem) - Another filesystem abstraction layer.
 * [Gaufrette ★1839](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [Hoa Mime ★76](https://github.com/hoaproject/Mime) - Another MIME detection library.
-* [Lurker ★5 ⏳1Y](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
+* [Lurker ★5 ⏳2Y](https://github.com/henrikbjorn/Lurker) - A resource tracking library.
 * [PHP FFmpeg ★1770](https://github.com/PHP-FFmpeg/PHP-FFmpeg) - A wrapper for the [FFmpeg](http://www.ffmpeg.org/) video library.
 * [UnifiedArchive ★102](https://github.com/wapmorgan/UnifiedArchive) - A unified reader and writer of compressed archives.
 
@@ -757,7 +757,7 @@ Libraries to help manage database schemas and migrations.
 ## Third Party APIs
 *Libraries for accessing third party APIs.*
 
-* [Amazon Web Service SDK ★2610](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
+* [Amazon Web Service SDK ★2646](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [Campaign Monitor](http://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
 * [Digital Ocean ★158 ⏳2Y](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
 * [Dropbox SDK ★216](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.

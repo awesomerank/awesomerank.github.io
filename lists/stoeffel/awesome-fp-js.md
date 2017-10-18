@@ -7,7 +7,7 @@ title: Awesome Rank for stoeffel/awesome-fp-js
 	This list is a copy of <a href="https://github.com/stoeffel/awesome-fp-js">stoeffel/awesome-fp-js</a> with ranks
 </p>
 ---
-# Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome FP JS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 This is a curated list of awesome [functional programming](https://en.wikipedia.org/wiki/Functional_programming) code and learning resources for JavaScript. As a multi-paradigm programming language, JavaScript can be written in many styles. With these resources we want to help you to make better use of JavaScript’s support for writing programs in a _functional_ way.
 
@@ -33,18 +33,18 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 
 * [Ramda ★9563](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data.
 * [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript.
-* [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash ★26223](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods.
+* [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash ★26900](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods.
 * [functional.js](http://functionaljs.com) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 * [101 ★1503](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.
 * [fnuc ★15 ⏳1Y](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
 * [barely-functional ★55](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations.
 * [bluebird-promisell ★42](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
 * [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module.
-* [preludejs ★58 ⏳1Y](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
+* [preludejs ★59 ⏳1Y](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 * [1-liners ★466](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
 * [fn-curry ★5 ⏳3Y](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
 * [curry ★72 ⏳1Y](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
-* [compose-function ★27 ⏳1Y](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
+* [compose-function ★29 ⏳1Y](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
 * [functionize ★42 ⏳2Y](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
 * [lambdajs ★123 ⏳3Y](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
 * [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
@@ -57,7 +57,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [FPO.js ★258](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 * [Javascript Parser Combinator](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
 * [fun-task ★210](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
-* [most ★2273](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
+* [most ★2351](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 * [zen-signals ★6](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 * [funfix ★129](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.
 
@@ -66,12 +66,12 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 Write performant functional code by using the right data structures for the task.
 
 * [Icepick ★294](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
-* [Immutable.js ★20465](https://github.com/facebook/immutable-js) – Immutable persistent data collections.
-* [Mori ★2749](https://github.com/swannodette/mori) – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
+* [Immutable.js ★20940](https://github.com/facebook/immutable-js) – Immutable persistent data collections.
+* [Mori ★2772](https://github.com/swannodette/mori) – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [Baobab ★2674](https://github.com/Yomguithereal/baobab) – persistent and optionally immutable data tree with cursors.
 * [immutable-sequence.js](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees ★18](https://github.com/qiao/fingertree.js).
 * [Timm](http://guigrpa.github.io/timm/) – Immutability helpers with fast reads and acceptable writes.
-* [Lazy.js ★4395](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
+* [Lazy.js ★4420](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 * [DerivableJS ★427](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related.
 * [imlazy ★48](https://github.com/benji6/imlazy) – Library for creating and manipulating lazy iterables using the ES2015 iteration protocols.
 * [collectable ★54](https://github.com/frptools/collectable) – Super high-performance immutable data structures for modern JavaScript and TypeScript applications. 
@@ -83,7 +83,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 
 * [Fantasy Land ★4299](https://github.com/fantasyland/fantasy-land) – Not a library, but a specification of the Monad laws for libraries to follow.
 * [Static Land ★331](https://github.com/rpominov/static-land) – Specification similar to Fantasy Land but based on static methods rather than instance methods.
-* [immutable-ext](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js ★20465](https://github.com/facebook/immutable-js).
+* [immutable-ext](https://github.com/DrBoolean/immutable-ext) – FantasyLand extensions for [Immutable.js ★20940](https://github.com/facebook/immutable-js).
 * [daggy](https://github.com/puffnfresh/daggy) – Library for creating tagged constructors.
 * [Sanctuary](https://github.com/plaid/sanctuary) – Sanctuary makes it possible to write safe code without null checks.
 * [monet.js](http://cwmyers.github.io/monet.js/) – A library that assists functional programming by providing a rich set of Monads and other useful functions.
@@ -91,7 +91,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [freeky ★106 ⏳1Y](https://github.com/DrBoolean/freeky) – A collection of Free monads.
 * [Fluture](https://github.com/Avaq/Fluture) – A Future library with included control utilities, high performance and great error messages.
 * [fantasy-combinators ★47 ⏳1Y](https://github.com/fantasyland/fantasy-combinators) – Common combinators.
-* [fantasy-birds ★45](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
+* [fantasy-birds ★45 ⏳1Y](https://github.com/fantasyland/fantasy-birds) – Port of the Haskell package Data.Aviary.Birds. Everything for your combinatory needs.
 * [crocks ★121](https://github.com/evilsoft/crocks) – A collection of popular Algebraic Data Types with the main goal to curate and provide not only a common interface between each type, but also all of the helper functions needed to hit the ground running.
 
 ### Lenses
@@ -180,6 +180,7 @@ Use the laws of math instead of always reinventing your own thing. Algebraic!
 * [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) – Learn to apply techniques from the forefront of computer science research to solve practical problems in Javascript. Discover functional programming and see it demonstrated step-by-step with how to build an example web app using abstract interfaces like Monads, Functors, Monoids and Applicatives. (_commercial_)
 * [Escape from Callback Mountain ★171](https://github.com/justsml/escape-from-callback-mountain) - Design & refactoring tips for Promise-based Functional JavaScript. Key benefits include better readability, testability, and reusability. MIT.
 * [Functional Programming for Beginners](http://paqmind.com/courses/fp-beginner/) – Dozens of exercises with solutions and explanations. 
+* [Learn Rx](http://reactivex.io/learnrx/) – A series of interactive exercises introducing five basic ingredients of functional (reactive) programming: the `map`, `filter`, `concatAll`, `reduce`, and `zip` functions.
 
 ## Community
 

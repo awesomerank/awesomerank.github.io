@@ -7,7 +7,7 @@ title: Awesome Rank for standard/awesome-standard
 	This list is a copy of <a href="https://github.com/standard/awesome-standard">standard/awesome-standard</a> with ranks
 </p>
 ---
-# Awesome Standard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Standard [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
@@ -34,24 +34,24 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 ## automatic code formatters
 
 - `standard --fix` - automatic formatting is built-in to `standard`!
-- **[prettier-standard](https://www.npmjs.com/package/prettier-standard)** - format with [prettier ★14741](https://github.com/prettier/prettier) configured to standard rules
+- **[prettier-standard](https://www.npmjs.com/package/prettier-standard)** - format with [prettier ★15795](https://github.com/prettier/prettier) configured to standard rules
 - **["unix commands" gist](https://gist.github.com/watson/453fc63cace521fcdadc)** - A list of search and replace unix commands to help make a node repository 'standard' compliant
 
 ## editor plugins
-- Every major text editor has a plugin or built-in support for `standard`. See the [full list ★13410](https://github.com/standard/standard#are-there-text-editor-plugins) of supported editors.
+- Every major text editor has a plugin or built-in support for `standard`. See the [full list ★13825](https://github.com/standard/standard#are-there-text-editor-plugins) of supported editors.
 - Atom: **[linter-js-standard](https://atom.io/packages/linter-js-standard)** - linter
 - Atom: **[linter-js-standard-engine](https://atom.io/packages/linter-js-standard-engine)** - linter
 - Atom: **[standard-formatter](https://atom.io/packages/standard-formatter)** - auto-fixer
 - Atom: **[standardjs-snippets](https://atom.io/packages/standardjs-snippets)** - code snippets
 - Brackets: **[brackets-standard](https://github.com/ishamf/brackets-standard/)** - linter
-- Emacs: see [readme ★13410](https://github.com/standard/standard#emacs)
+- Emacs: see [readme ★13825](https://github.com/standard/standard#emacs)
 - Sublime Text: **[SublimeLinter-contrib-standard](https://packagecontrol.io/packages/SublimeLinter-contrib-standard)** - linter
 - Sublime Test: **[StandardFormat](https://packagecontrol.io/packages/StandardFormat)** - auto-fixer
 - Visual Studio Code: **[vscode-standardjs](https://marketplace.visualstudio.com/items?itemName=chenxsan.vscode-standardjs)** - linter & auto-fixer
-- Vim: see [readme ★13410](https://github.com/standard/standard#vim)
+- Vim: see [readme ★13825](https://github.com/standard/standard#vim)
 - Visual Studio Code: **[vscode-standardjs-snippets](https://marketplace.visualstudio.com/items?itemName=capaj.vscode-standardjs-snippets)** - code snippets
 - Visual Studio Code: **[vscode-react-standard](https://marketplace.visualstudio.com/items?itemName=TimonVS.ReactSnippetsStandard)** - code snippets
-- WebStorm (PhpStorm, IntelliJ, RubyMine, JetBrains, etc.): built-in support. see [readme ★13410](https://github.com/standard/standard#webstorm-phpstorm-intellij-rubymine-jetbrains-etc)
+- WebStorm (PhpStorm, IntelliJ, RubyMine, JetBrains, etc.): built-in support. see [readme ★13825](https://github.com/standard/standard#webstorm-phpstorm-intellij-rubymine-jetbrains-etc)
 
 ## pretty terminal output (reporters)
 
@@ -81,7 +81,7 @@ Documenting the explosion of packages in the [`standard`](https://github.com/fer
 
 - **[semistandard](https://www.npmjs.com/package/semistandard)** - standard, with semicolons
 - **[uber-standard](https://www.npmjs.com/package/uber-standard)** - fork by the [Uber](https://www.uber.com/) team
-- **[videojs-standard](https://www.npmjs.com/package/videojs-standard)** - fork by the [video.js ★17575](https://github.com/videojs/video.js) team
+- **[videojs-standard](https://www.npmjs.com/package/videojs-standard)** - fork by the [video.js ★17899](https://github.com/videojs/video.js) team
 - **[yodlr-standard](https://www.npmjs.com/package/yodlr-standard)** - fork by the [yodlr](https://getyodlr.com/home) team
 - **[happiness](https://www.npmjs.com/package/happiness)** - standard customized to make @JedWatson happy
 - **[doublestandard](https://www.npmjs.com/package/doublestandard)** - standard, with even more semicolons

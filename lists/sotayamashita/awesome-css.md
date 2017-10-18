@@ -16,7 +16,7 @@ title: Awesome Rank for sotayamashita/awesome-css
 [standard-readme-badge]:  https://img.shields.io/badge/readme%20style-standard-brightgreen.svg
 [standard-readme-link]:   https://github.com/RichardLitt/standard-readme
 
-# Awesome CSS 
+# Awesome CSS
 
 [![Awesome][awesome-badge]][awesome-link]
 [![Travis Build Status][travis-badge]][travis-link]
@@ -78,9 +78,9 @@ The CSS Working Group defines CSS specifications which move through the their pr
 * [Gonzales PE ★200](https://github.com/tonyganch/gonzales-pe) - CSS parser with support of preprocessors.
 * [mensch ★85](https://github.com/brettstimmerman/mensch) - A decent CSS parser.
 * [ParserLib ★257](https://github.com/CSSLint/parser-lib) - CSSLint/parser-lib.
-* [PostCSS ★16038](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
+* [PostCSS ★16258](https://github.com/postcss/postcss) - Transforming styles with JS plugins.
 * [Rework ★2739](https://github.com/reworkcss/rework) - Plugin framework for CSS preprocessing in Node.js.
-* [Stylecow ★116](https://github.com/stylecow/stylecow) - Modern CSS to all browsers.
+* [Stylecow ★117](https://github.com/stylecow/stylecow) - Modern CSS to all browsers.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -89,7 +89,7 @@ The CSS Working Group defines CSS specifications which move through the their pr
 *Build CSS faster*
 
 * [LESS ★15147](https://github.com/less/less.js) - Backwards compatible with CSS and the extra features it adds use existing CSS syntax.
-* [PostCSS ★16038](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
+* [PostCSS ★16258](https://github.com/postcss/postcss) - Transforming CSS with JS plugins.
 * [Sass ★10548](https://github.com/sass/sass) - Mature, stable, and powerful professional grade CSS extension language.
 * [Stylus](http://learnboost.github.io/stylus/) - Expressive, robust, feature-rich CSS language built for nodejs.
 
@@ -107,7 +107,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
 * [Material Design Lite](https://getmdl.io/started/) - Great framework to make cool Material Design websites.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
-* [Milligram](http://milligram.io) - A minimalist CSS framework. 
+* [Milligram](http://milligram.io) - A minimalist CSS framework.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
 * [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
@@ -363,6 +363,7 @@ Here is a [CSS in JS techniques comparison ★2708](https://github.com/MicheleBe
 * [CSS Diner](https://flukeout.github.io/) – Interactive gamified tutorial for learning selection with CSS.
 * [CSS 101](http://www.css-101.org/) – Detailed interactive tutorial with a lot of additional information (e.g. spec excerpts).
 * [CSS Grid PlayGround](https://mozilladevelopers.github.io/playground/) - Simple tutorial to learn CSS Grid from Mozilla.
+* [Work With Animations](https://developer.mozilla.org/en-US/docs/Tools/Page_Inspector/How_to/Work_with_animations) - Inspecting animations.
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -388,7 +389,7 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sota Yamashita](https://github.com/sotayamashita) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Awesome CSS  maintainers ★1208](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/sotayamashita/awesome-css">sotayamashita/awesome-css</a> with ranks

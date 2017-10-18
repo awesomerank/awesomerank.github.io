@@ -8,10 +8,10 @@ title: Awesome Rank for veelenga/awesome-crystal
 </p>
 ---
 # Awesome Crystal
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 [![Build Status](https://api.travis-ci.org/veelenga/awesome-crystal.svg)](https://travis-ci.org/veelenga/awesome-crystal)
 
-A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness).
+A curated list of awesome Crystal code and resources. Inspired by [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness).
 The goal is to have projects mostly stable and useful for the community.
 
 Search [Crystal Shards](https://crystalshards.xyz) or follow announcements [Crystal [ANN]](https://crystal-ann.com) for more.
@@ -221,14 +221,14 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [kemal-ws-pg-todo-app ★1 ⏳1Y](https://github.com/Angarsk8/kemal-ws-pg-todo-app) - Realtime Todo application developed with Kemal, Websockets, ES2015 and PostgreSQL
  * [kemal_elm_chat ★12 ⏳1Y](https://github.com/kofno/kemal_elm_chat) - Simple chat server written with Kemal and Elm
  * [lattice-core-card-game ★138](https://github.com/jasonl99/card_game) - A demo web app for (WebSocket-based) lattice-core
- * [medley ★8](https://github.com/jwoertink/medley) - A mixture of music related methods
+ * [medley ★8 ⏳1Y](https://github.com/jwoertink/medley) - A mixture of music related methods
  * [os-crystal ★32](https://github.com/lbguilherme/os-crystal) - x86 Kernel implemented in Crystal
  * [realtime-todo-app ★12](https://github.com/Angarsk8/realtime-todo-app) - Realtime Todo application developed with Kemal, Websockets, React, ES2015 and PostgreSQL
  * [rocky ★77](https://github.com/codingphasedotcom/rocky) - React Over Crystal Kemal and Yarn
  * [try.cr ★14](https://github.com/maiha/try.cr) - Try monad
 
 ## Feature Flipping
- * [flipper ★8](https://github.com/metaware/flipper) - Feature flipping/flags/rollouts. Supports multiple backends
+ * [flipper ★7](https://github.com/metaware/flipper) - Feature flipping/flags/rollouts. Supports multiple backends
 
 ## Framework Components
  * [artanis ★35](https://github.com/ysbaddaden/artanis) - Sinatra-like DSL (abusing macros)
@@ -334,7 +334,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [emoji.cr ★12](https://github.com/veelenga/emoji.cr) - Emoji library
  * [hoop ★167](https://github.com/0x73/hoop) - Building native OSX apps
  * [html_builder ★26](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
- * [i18n.cr ★1](https://github.com/vladfaust/i18n.cr) - Internationalization shard
+ * [i18n.cr ★2](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [immutable ★117](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [inflector.cr ★21](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
  * [kreal ★44](https://github.com/f/kreal) - Model sharing & RPC library built on and works with Kemal seamlessly
@@ -362,7 +362,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [active_record.cr ★165](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [core ★15](https://github.com/vladfaust/core.cr) - Pure, transparent and efficient ORM
  * [crecto ★145](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
- * [granite-orm ★43](https://github.com/amberframework/granite-orm) - ORM for Postgres, Mysql, Sqlite
+ * [granite-orm ★53](https://github.com/amberframework/granite-orm) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr ★83](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal ★40](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr ★4](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
@@ -454,13 +454,14 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [gitlab.cr ★9](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
  * [google_maps_api ★7](https://github.com/fridgerator/google_maps_api) - Google Maps API
  * [hncr ★1](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
+ * [mixpanel-crystal ★0](https://github.com/petoem/mixpanel-crystal) - A library for sending events to Mixpanel
  * [nexmo-crystal ★1 ⏳1Y](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://developer.nexmo.com/) client
  * [ocean_kit ★4](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2/) client
  * [open_exchange_rates ★9](https://github.com/osfx/open_exchange_rates) - A library to access [Open Exchange Rates](https://openexchangerates.org/) API
  * [pinboard.cr ★1](https://github.com/oz/pinboard.cr) - [Pinboard](https://pinboard.in) API
  * [raven.cr](https://github.com/sija/raven.cr) - Raven is a client for [Sentry ★14120](https://github.com/getsentry/sentry)
  * [slack.cr ★8](https://github.com/DougEverly/slack.cr) - A Slack [Real Time Messaging API](https://api.slack.com/rtm) WebSocket client library
- * [spotify.cr ★27](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
+ * [spotify.cr ★27 ⏳1Y](https://github.com/marceloboeira/spotify.cr) - A library to access the Spotify API
  * [tele.cr ★7](https://github.com/vladfaust/tele.cr) - A *convenient* wrapper for the Telegram Bot API
  * [telegram_bot ★42](https://github.com/hangyas/telegram_bot) - A wrapper for the Telegram Bot API
 
@@ -469,13 +470,13 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcpu ★29](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks
- * [amber ★212](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
+ * [amber ★275](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
  * [amethyst ★562](https://github.com/crystal-community/Amethyst) - A Rails inspired web-framework
  * [kemal ★1852](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core ★39](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [luckyframework](https://github.com/luckyframework) - Fast, maintainable and confidence boosting web framework
  * [mustafa ★30](https://github.com/guvencenanguvenal/mustafa) - Simple MVC framework
- * [raze ★37](https://github.com/samueleaton/raze) - Modular, light web framework
+ * [raze ★46](https://github.com/samueleaton/raze) - Modular, light web framework
 
 ## Web Servers
  * [fast-http-server ★107](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server

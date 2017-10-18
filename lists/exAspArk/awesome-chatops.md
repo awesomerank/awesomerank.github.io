@@ -7,7 +7,7 @@ title: Awesome Rank for exAspArk/awesome-chatops
 	This list is a copy of <a href="https://github.com/exAspArk/awesome-chatops">exAspArk/awesome-chatops</a> with ranks
 </p>
 ---
-# Awesome ChatOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome ChatOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things about [ChatOps](https://www.pagerduty.com/blog/what-is-chatops/).
 
@@ -217,7 +217,7 @@ These open source projects will help you to build a bot in order to automate you
 
 * [Errbot](http://errbot.io/) + [adapter ★3 ⏳1Y](https://github.com/errbotio/errbot-backend-skype) (Python)
 * [Hubot](https://hubot.github.com/) + [adapter ★138 ⏳3Y](https://github.com/netpro2k/hubot-skype) (CoffeeScript, Node.js)
-* [Hubot](https://hubot.github.com/) + [adapter ★47](https://github.com/sdimkov/hubot-skype-web) via Web (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★47 ⏳1Y](https://github.com/sdimkov/hubot-skype-web) via Web (CoffeeScript, Node.js)
 
 ### Skyweb
 
@@ -241,7 +241,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Talker
 
-* [Hubot](https://hubot.github.com/) + [adapter ★21 ⏳3Y](https://github.com/unixcharles/hubot-talker) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★21 ⏳4Y](https://github.com/unixcharles/hubot-talker) (CoffeeScript, Node.js)
 
 ### Telegram
 
@@ -284,7 +284,7 @@ These open source projects will help you to build a bot in order to automate you
 ### Vkontakte
 
 * [Errbot](http://errbot.io) + [adapter ★7](https://github.com/Ax3Effect/errbot-vk) (Python)
-* [Lita](https://www.lita.io/) + [adapter ★2 ⏳1Y](https://github.com/braiden-vasco/lita-vkontakte) (Ruby)
+* [Lita](https://www.lita.io/) + [adapter ★2 ⏳2Y](https://github.com/braiden-vasco/lita-vkontakte) (Ruby)
 
 ### WeChat
 

@@ -7,7 +7,7 @@ title: Awesome Rank for ciandcd/awesome-ciandcd
 	This list is a copy of <a href="https://github.com/ciandcd/awesome-ciandcd">ciandcd/awesome-ciandcd</a> with ranks
 </p>
 ---
-# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# ciandcd [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 **Continuous Integration and Continuous Delivery**
 
@@ -125,7 +125,7 @@ The hardware,virtual machines, fram management, docker
 ## Dev env
 * [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.  
 * [vagrantup](https://www.vagrantup.com/)  Create and configure lightweight, reproducible, and portable development environments.  
-* [veewee ★4117](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
+* [veewee ★4119](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
 
 ## Source Code Management
 Version control and source code management tools  
@@ -224,7 +224,7 @@ The tools for software delivery
 * [nexus](http://www.sonatype.com/nexus)  The use of repository managers (also known as component managers) is helping software development teams achieve simple gains in speed, efficiency, and quality of their operations  
 * [chocolatey](https://chocolatey.org/) Chocolatey NuGet is a Machine Package Manager, somewhat like apt-get, but built with Windows in mind  
 * [pulp](http://www.pulpproject.org/)  Pulp is a platform for managing repositories of content, such as software packages, and pushing that content out to large numbers of consumers.  
-* [herd ★400](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
+* [herd ★400 ⏳1Y](https://github.com/russss/Herd) A single-command bittorrent distribution system, based on Twitter's Murder     
 * [murder ★2415](https://github.com/lg/murder)  Large scale server deploys using BitTorrent and the BitTornado library from twitter.com  
 
 ## Provisioning Tools 
@@ -248,7 +248,7 @@ Linux shell, perl, python
 * [awesome-shell](https://github.com/itech001/awesome-shell/blob/master/README.md)  
 * [awesome-python ★39191](https://github.com/vinta/awesome-python)  
 * [awesome-perl ★363](https://github.com/hachiojipm/awesome-perl)  
-* [awesome-sysadmin ★15880](https://github.com/kahun/awesome-sysadmin)  
+* [awesome-sysadmin ★16061](https://github.com/kahun/awesome-sysadmin)  
 
 ## Applications And Container
 VM application and container  
@@ -277,14 +277,14 @@ Conference and submit
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
-* [awesome ★65640](https://github.com/sindresorhus/awesome)  
-* [awesome-awesome ★896](https://github.com/emijrp/awesome-awesome)  
-* [awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness)  
+* [awesome ★67308](https://github.com/sindresorhus/awesome)  
+* [awesome-awesome ★921](https://github.com/emijrp/awesome-awesome)  
+* [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin ★6](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 * [ci tools compare 3 ★411](https://github.com/ligurio/Continuous-Integration-services)
-* [awesome-docker ★8039](https://github.com/veggiemonk/awesome-docker)  
+* [awesome-docker ★8286](https://github.com/veggiemonk/awesome-docker)  
 
 ## Contact
 Welcome To add new items about continuous integration and continuous delivery.  

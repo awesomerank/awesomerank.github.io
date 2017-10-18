@@ -7,7 +7,7 @@ title: Awesome Rank for weblancaster/awesome-IoT-hybrid
 	This list is a copy of <a href="https://github.com/weblancaster/awesome-IoT-hybrid">weblancaster/awesome-IoT-hybrid</a> with ranks
 </p>
 ---
-# Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome IoT & Hybrid [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > The missing awesome list - collection of awesome IoT and Hybrid Apps frameworks, tools, resources, videos and shiny things.
 
@@ -44,7 +44,7 @@ title: Awesome Rank for weblancaster/awesome-IoT-hybrid
 - [Node Red](http://nodered.org/)
 - [IoT Eclipse](http://iot.eclipse.org)
 - [Gladys Project](http://gladysproject.com)
-- [Lelylan ★1062](https://github.com/lelylan/lelylan)
+- [Lelylan ★1086](https://github.com/lelylan/lelylan)
 
 #### Resources-websites-projects
 - [Hackday](https://hackaday.io/projects)
@@ -53,7 +53,7 @@ title: Awesome Rank for weblancaster/awesome-IoT-hybrid
 
 ## Hybrid Desktop
 
-- [nw.js ★32322](https://github.com/nwjs/nw.js)
+- [nw.js ★32502](https://github.com/nwjs/nw.js)
 - [Electron](https://github.com/atom/electron)
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
@@ -77,7 +77,7 @@ title: Awesome Rank for weblancaster/awesome-IoT-hybrid
 
 #### Tools-Plugins
 
-- [Cordova / Phonegap iBeacon plugin ★626](https://github.com/petermetz/cordova-plugin-ibeacon)
+- [Cordova / Phonegap iBeacon plugin ★629](https://github.com/petermetz/cordova-plugin-ibeacon)
 
 ## Miscellaneous
 

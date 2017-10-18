@@ -7,7 +7,7 @@ title: Awesome Rank for bfred-it/Awesome-WebExtensions
 	This list is a copy of <a href="https://github.com/bfred-it/Awesome-WebExtensions">bfred-it/Awesome-WebExtensions</a> with ranks
 </p>
 ---
-# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
 
@@ -57,45 +57,45 @@ Code meant become part of the extension.
 
 - [webext-options-sync ★14](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 - [webext-inject-on-install ★1](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
-- [chrome-promise ★69](https://github.com/tfoxy/chrome-promise) - Promised version of `chrome.*` callback-style functions.
-- [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★34093](https://github.com/reactjs/redux) for managing the state of your WebExtension
+- [chrome-promise ★75](https://github.com/tfoxy/chrome-promise) - Promised version of `chrome.*` callback-style functions.
+- [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★34851](https://github.com/reactjs/redux) for managing the state of your WebExtension
 
 ## Tools
 
 Apps that help you manage your extensions.
 
-- [Chrome Webstore Upload ★44](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
-- [mozilla/Web-ext ★237](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
-- [chromepet ★11 ⏳2Y](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
+- [Chrome Webstore Upload ★47](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
+- [mozilla/Web-ext ★253](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
+- [chromepet ★12 ⏳2Y](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 - [inline-install ★3](https://github.com/alykoshin/inline-install) - Simplify the installation of the extension directly from your website.
-- [wemf ★10](https://github.com/pastak/wemf) - Format and validate `manifest.json`.
-- [maniver ★1 ⏳2Y](https://github.com/ragingwind/maniver) - Bump the extension version via cli.
+- [wemf ★11](https://github.com/pastak/wemf) - Format and validate `manifest.json`.
+- [maniver ★2 ⏳2Y](https://github.com/ragingwind/maniver) - Bump the extension version via cli.
 - [chrome-ext-downloader ★17 ⏳2Y](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 - [unzip-crx ★8 ⏳1Y](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
-- [chrome-store-api ★8 ⏳1Y](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
-- [crx2ff ★44 ⏳1Y](https://github.com/abarreir/crx2ff) - Check the compatibility of a Chrome extension with the Firefox WebExtensions API.
+- [chrome-store-api ★9 ⏳1Y](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
+- [crx2ff ★45 ⏳1Y](https://github.com/abarreir/crx2ff) - Check the compatibility of a Chrome extension with the Firefox WebExtensions API.
 - [chromereload ★4 ⏳1Y](https://github.com/HaNdTriX/chromereload) - Auto-reload your extension during development.
 
 ## Testing
 
-- [sinon-chrome ★204](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
+- [sinon-chrome ★207](https://github.com/acvetkov/sinon-chrome) - Mocks the Chrome Extensions API for testing.
 - [addons-validator](https://github.com/mozilla/addons-validator) - Validate an extension against Mozilla's guidelines.
 
 ## Boilerplates
 
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
-- [generator-chrome-extension ★1698](https://github.com/yeoman/generator-chrome-extension) - Boilerplate based on gulp & babel.
-- [generator-chrome-extension-kickstart ★128](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
-- [react-chrome-extension-boilerplate ★735](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
+- [generator-chrome-extension ★1731](https://github.com/yeoman/generator-chrome-extension) - Boilerplate based on gulp & babel.
+- [generator-chrome-extension-kickstart ★142](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
+- [react-chrome-extension-boilerplate ★773](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
 
 ## Sample Extensions
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.
 
 - [npm-hub](https://github.com/zeke/npm-hub)
-- [Sticky Pinned Tabs ★3](https://github.com/bfred-it/sticky-pinned-tabs)
+- [Sticky Pinned Tabs ★4](https://github.com/bfred-it/sticky-pinned-tabs)
 - [Dim Files on GitHub ★3](https://github.com/bfred-it/dim-files-on-github)
-- [Refined GitHub ★2576](https://github.com/sindresorhus/refined-github)
+- [Refined GitHub ★2655](https://github.com/sindresorhus/refined-github)
 
 ## License
 

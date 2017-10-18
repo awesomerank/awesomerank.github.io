@@ -7,7 +7,7 @@ title: Awesome Rank for carpedm20/awesome-hacking
 	This list is a copy of <a href="https://github.com/carpedm20/awesome-hacking">carpedm20/awesome-hacking</a> with ranks
 </p>
 ---
-# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Hacking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Hacking. Inspired by [awesome-machine-learning ★26231](https://github.com/josephmisiti/awesome-machine-learning)
 
@@ -96,7 +96,7 @@ For a list of free hacking books available for download, go [here ★991](https:
 * [Malware Analysis Tutorials: a Reverse Engineering Approach](http://fumalwareanalysis.blogspot.kr/p/malware-analysis-tutorials-reverse.html)
 
 ## Tools
- * [nudge4j] (https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
+ * [nudge4j ★90](https://github.com/lorenzoongithub/nudge4j) - Java tool to let the browser talk to the JVM
  * [IDA](https://www.hex-rays.com/products/ida/) - IDA is a Windows, Linux or Mac OS X hosted multi-processor disassembler and debugger
  * [OllyDbg](http://www.ollydbg.de/) - A 32-bit assembler level analysing debugger for Windows
  * [x64dbg](http://x64dbg.com/) - An open-source x64/x32 debugger for Windows
@@ -136,14 +136,15 @@ For a list of free hacking books available for download, go [here ★991](https:
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
  * [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
  * [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
- * [pig ★291](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
+ * [pig ★294](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
  * [mitmproxy](https://mitmproxy.org/) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
  * [mitmsocks4j ★22 ⏳4Y](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
- * [Nipe ★229](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
+ * [Nipe ★239](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
+ * [Habu ★67](https://github.com/portantier/habu) - Python Network Hacking Toolkit
 
 
 # Forensic

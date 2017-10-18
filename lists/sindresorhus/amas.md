@@ -7,7 +7,7 @@ title: Awesome Rank for sindresorhus/amas
 	This list is a copy of <a href="https://github.com/sindresorhus/amas">sindresorhus/amas</a> with ranks
 </p>
 ---
-# Awesome & Marvelous Amas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome & Marvelous Amas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 > [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
 
@@ -105,7 +105,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Jon Moss ★1 ⏳2Y](https://github.com/maclover7/ama) - Rails developer. Average teen. Member of the Ruby on Rails Issues Team.
 - [Seth Mcleod](https://github.com/sethmcleod/ama) - Front-end engineer, JavaScript enthusiast and [Code Mentor](http://codementor.io/seth).
 - [Seth Alexander ★0 ⏳1Y](https://github.com/itzsaga/ama) - Free Code Camper, Burgeoning Dev, all things JavaScript.
-- [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima ★3965](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
+- [Ariya Hidayat](https://github.com/ariya/ama) - VP of Engineering [Shape Security](https://shapesecurity.com/), Author of [Esprima ★4035](https://github.com/jquery/esprima) and [PhantomJS](http://phantomjs.org).
 - [Rob Thomas ★0 ⏳1Y](https://github.com/xrobau/ama) - VoIP Developer, IPv6 and Security Evangelist, DevOps proponent. Currently at [Sangoma](https://www.sangoma.com).
 - [Amit Merchant ★1 ⏳2Y](https://github.com/amitmerchant1990/ama) - Full-stack developer working with JavaScript, PHP and Java.
 - [William Oliveira ★0 ⏳1Y](https://github.com/woliveiras/ama) - Front-end developer (Brazilian) working with JavaScript, Angular, Stylus, Gulp, Git, etc. Read more about me on [my blog](http://woliveiras.com.br).
@@ -165,7 +165,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Vim Taiwan ★7 ⏳1Y](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions.
 - [From the Front ★0 ⏳1Y](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 - [HackCU ★4 ⏳2Y](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.
-- [Ansible Taiwan ★6](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
+- [Ansible Taiwan ★6 ⏳1Y](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.
 - [IIIT Vadodara ★14](https://github.com/iiitv/aua) - Open-source organization maintained by college students.
 
 

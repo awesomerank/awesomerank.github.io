@@ -10,7 +10,7 @@ title: Awesome Rank for Kiloreux/awesome-robotics
 Awesome Robotics
 ================
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 This is a list of various books, courses and other resources for robotics. It's an attempt to gather useful material in one place for everybody who wants to learn more about the field.
 
@@ -178,12 +178,12 @@ Atlas Robot in the DARPA Robotics Challenge Finals](https://www.cs.cmu.edu/~cga/
 * [47 Programmable robotic kits](http://www.intorobotics.com/47-programmable-robotic-kits/)
 
 ### Related awesome lists ###
-* [Awesome Artificial Intelligence ★2877](https://github.com/owainlewis/awesome-artificial-intelligence)
-* [Awesome Computer Vision ★3058](https://github.com/jbhuang0604/awesome-computer-vision)
+* [Awesome Artificial Intelligence ★2966](https://github.com/owainlewis/awesome-artificial-intelligence)
+* [Awesome Computer Vision ★3338](https://github.com/jbhuang0604/awesome-computer-vision)
 * [Awesome Machine Learning ★26231](https://github.com/josephmisiti/awesome-machine-learning)
 * [Awesome Deep Learning ★5614](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [Awesome Deep Vision ★5075](https://github.com/kjw0612/awesome-deep-vision)
-* [Awesome Reinforcement Learning ★1709](https://github.com/aikorea/awesome-rl)
+* [Awesome Deep Vision ★5253](https://github.com/kjw0612/awesome-deep-vision)
+* [Awesome Reinforcement Learning ★1917](https://github.com/aikorea/awesome-rl)
 * [Awesome Robotics ★23](https://github.com/ahundt/awesome-robotics)
 * [Awesome Robotics Libraries ★99](https://github.com/jslee02/awesome-robotics-libraries)
 ---

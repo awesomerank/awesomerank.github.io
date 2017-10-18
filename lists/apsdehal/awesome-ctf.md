@@ -7,7 +7,7 @@ title: Awesome Rank for apsdehal/awesome-ctf
 	This list is a copy of <a href="https://github.com/apsdehal/awesome-ctf">apsdehal/awesome-ctf</a> with ranks
 </p>
 ---
-# Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome CTF [![Build Status](https://travis-ci.org/apsdehal/awesome-ctf.svg?branch=master)](https://travis-ci.org/apsdehal/awesome-ctf) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A curated list of [Capture The Flag](https://en.wikipedia.org/wiki/Capture_the_flag#Computer_security) (CTF) frameworks, libraries, resources, softwares and tutorials. This list aims to help starters as well as seasoned CTF players to find everything related to CTFs at one place.
 
@@ -180,7 +180,7 @@ Check solve section for steganography.
 *Tools used for solving Networking challenges*
 
 - [Masscan ★6864](https://github.com/robertdavidgraham/masscan) - Mass IP port scanner, TCP port scanner
-- [Nipe ★229](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
+- [Nipe ★239](https://github.com/GouveaHeitor/nipe) - Nipe is a script to make Tor Network your default gateway.
 - [Nmap](https://nmap.org/) - open source utility for network discovery and security auditing
 - [Wireshark](https://www.wireshark.org/) - Analyze the network dumps
   - `apt-get install wireshark`

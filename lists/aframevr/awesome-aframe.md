@@ -7,7 +7,7 @@ title: Awesome Rank for aframevr/awesome-aframe
 	This list is a copy of <a href="https://github.com/aframevr/awesome-aframe">aframevr/awesome-aframe</a> with ranks
 </p>
 ---
-# awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# awesome-aframe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A collection of awesome resources for the [A-Frame](https://aframe.io) WebVR
 framework.
@@ -93,7 +93,7 @@ Videos and podcasts.
 
 ##### Talks
 
-- [A-Frame &mdash; Kevin Ngo](https://www.youtube.com/watch?list=PLo3w8EB99pqIj_XNvNEMAaBtL_jyxSLmz&v=FWqgP3-9mOw) - 5-minute A-Frame talk at the [W3C Workshop on Web & Virtual Reality](https://www.w3.org/2016/06/vr-workshop/) [[Slides] ★2](https://github.com/ngokevin/w3c-webvr-presentation)
+- [A-Frame &mdash; Kevin Ngo](https://www.youtube.com/watch?list=PLo3w8EB99pqIj_XNvNEMAaBtL_jyxSLmz&v=FWqgP3-9mOw) - 5-minute A-Frame talk at the [W3C Workshop on Web & Virtual Reality](https://www.w3.org/2016/06/vr-workshop/) [[Slides] ★2 ⏳1Y](https://github.com/ngokevin/w3c-webvr-presentation)
 - [Getting Started with Virtual Reality on the Web &mdash; Ada Rose Edwards](https://www.youtube.com/watch?v=-GkvYD6dNI8) - Talk at [London Web Perf 2017](https://ldnwebperf.org/events/?mth=1&yr=2017) with a live multiuser demo
 - [How to Build Pokemon Go in 100% JS &mdash; Jess Telford](https://www.youtube.com/embed/kGXpgAb3Sbk?start=3970&end=5735) - Talk at [JSConf AU 2016](http://2016.jsconfau.com/) [[Slides]](https://jesstelford.github.io/js-go-presentation/#/0/0)
 - [A-Frame: VR for Developers &mdash; Diego Marcos & Kevin Ngo](https://www.youtube.com/watch?v=wRqoSdPZQBY) - Talk on A-Frame at the [SFHTML5 "WebVR Ecosystem and API Update" meetup](https://www.meetup.com/sfhtml5/events/230072340/) [[Slides] ★6 ⏳1Y](https://github.com/ngokevin/aframe-sfhtml5-presentation)
@@ -142,7 +142,7 @@ components, see the [A-Frame Registry](https://aframe.io/aframe-registry/).
 - [FPS Look ★7 ⏳1Y](https://github.com/cemkod/aframe-fps-look-component) - Facilitates controlling entity rotation directly with captured mouse
 - [Gamepad Controls ★45](https://github.com/donmccurdy/aframe-gamepad-controls) - Gamepad controls using HTML5 Gamepad API
 - [GIF](https://github.com/gtk2k/gtk2k.github.io/tree/master/animation_gif) - Display GIF as a texture by using a Canvas
-- [Google Blocks ★19](https://github.com/archilogic-com/aframe-gblock) - Display content from Google Blocks
+- [Google Blocks ★32](https://github.com/archilogic-com/aframe-gblock) - Display content from Google Blocks
 - [Gradient Sky ★16](https://github.com/zcanter/aframe-gradient-sky) - Use two colors to create a gradient shader for colorful skies
 - [Grid Helper ★10](https://github.com/dbradleyfl/aframe-gridhelper) - Create customizable grids
 - [Heatmap3d ★12](https://github.com/morandd/aframe-heatmap3d) - Yet another heatmap/heightmap component

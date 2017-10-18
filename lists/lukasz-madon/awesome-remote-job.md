@@ -7,7 +7,7 @@ title: Awesome Rank for lukasz-madon/awesome-remote-job
 	This list is a copy of <a href="https://github.com/lukasz-madon/awesome-remote-job">lukasz-madon/awesome-remote-job</a> with ranks
 </p>
 ---
-# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Remote Job [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecommuting) resources.
 
@@ -201,7 +201,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Interviewing
   1. [andreis/interview ★5590](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
-  2. [awesome-interviews ★16100](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+  2. [awesome-interviews ★16432](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
   3. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
   4. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
   5. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies

@@ -7,7 +7,7 @@ title: Awesome Rank for paragonie/awesome-appsec
 	This list is a copy of <a href="https://github.com/paragonie/awesome-appsec">paragonie/awesome-appsec</a> with ranks
 </p>
 ---
-# Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome AppSec [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 A curated list of resources for learning about application security. Contains books,
 websites, blog posts, and self-assessment quizzes.
@@ -532,7 +532,7 @@ If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
 
 Useful for generating random strings or numbers
 
-### [thephpleague/oauth2-server ★3115](https://github.com/thephpleague/oauth2-server)
+### [thephpleague/oauth2-server ★3158](https://github.com/thephpleague/oauth2-server)
 
 A secure OAuth2 server implementation
 

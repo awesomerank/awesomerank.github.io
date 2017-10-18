@@ -7,7 +7,7 @@ title: Awesome Rank for ashishb/android-security-awesome
 	This list is a copy of <a href="https://github.com/ashishb/android-security-awesome">ashishb/android-security-awesome</a> with ranks
 </p>
 ---
-android-security-awesome [![Backers on Open Collective](https://opencollective.com/android-security-awesome/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/android-security-awesome/sponsors/badge.svg)](#sponsors) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+android-security-awesome [![Backers on Open Collective](https://opencollective.com/android-security-awesome/backers/badge.svg)](#backers) [![Sponsors on Open Collective](https://opencollective.com/android-security-awesome/sponsors/badge.svg)](#sponsors) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 ========================
 
 A collection of android security related resources.
@@ -70,13 +70,13 @@ Static Analysis Tools
 16. [ConDroid ★21 ⏳1Y](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
 17. [DroidRA ★11](https://github.com/serval-snt-uni-lu/DroidRA)
 18. [RiskInDroid ★9](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with online demo available.
-19. [SUPER ★123](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
-20. [ClassyShark ★4052](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important infos.
+19. [SUPER ★128](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
+20. [ClassyShark ★4158](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important infos.
 
 App Vulnerability Scanners
 ----
 
-1. [QARK ★1406](https://github.com/linkedin/qark) - QARK by LinkedIn is for app developers to scan app for security issues
+1. [QARK ★1425](https://github.com/linkedin/qark) - QARK by LinkedIn is for app developers to scan app for security issues
 2. [AndroBugs ★441](https://github.com/AndroBugs/AndroBugs_Framework)
 3. [Nogotofail ★2175](https://github.com/google/nogotofail)
 4. [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE
@@ -86,7 +86,7 @@ Dynamic Analysis Tools
 ----
 
 1.  [Android DBI frameowork](http://www.mulliner.org/blog/blosxom.cgi/security/androiddbiv02.html)
-2.  [Androl4b ★435](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
+2.  [Androl4b ★484](https://github.com/sh4hin/Androl4b)- A Virtual Machine For Assessing Android applications, Reverse Engineering and Malware Analysis
 3. [Android Malware Analysis Toolkit](http://www.mobilemalware.com.br/amat/download.html) - (linux distro) Earlier it use to be an [online analyzer](http://dunkelheit.com.br/amat/analysis/index_en.php)
 4. [Mobile-Security-Framework MobSF ★2116](https://github.com/MobSF/Mobile-Security-Framework-MobSF) - Mobile Security Framework is an intelligent, all-in-one open source mobile application (Android/iOS) automated pen-testing framework capable of performing static, dynamic analysis and web API testing.
 5. [AppUse](https://appsec-labs.com/AppUse/) – custom build for pentesting
@@ -252,7 +252,7 @@ How to report
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the
-[awesome-awesomeness ★19617](https://github.com/bayandin/awesome-awesomeness) list.
+[awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 Your contributions are always welcome!

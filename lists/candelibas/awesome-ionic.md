@@ -7,7 +7,7 @@ title: Awesome Rank for candelibas/awesome-ionic
 	This list is a copy of <a href="https://github.com/candelibas/awesome-ionic">candelibas/awesome-ionic</a> with ranks
 </p>
 ---
-# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Ionic [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 An "awesome" list of the Ionic resources 
 
@@ -122,17 +122,17 @@ An "awesome" list of the Ionic resources
 
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
-* [IonicRealty ★266](https://github.com/ccoenraets/ionic2-realty)
-* [Ionic Firebase Chat App ★29](https://github.com/ionic2blueprints/firebase-chat)
-* [Ionic Ecommerce App ★18 ⏳1Y](https://github.com/ionic2blueprints/ionic2-marketcloud)
-* [Ionic Conference App based on Lanyrd API ★5 ⏳1Y](https://github.com/ionic2blueprints/conference-app)
-* [Ionic Stock Tracking App ★10 ⏳1Y](https://github.com/ionic2blueprints/ionic2-stockmarket)
-* [Ionic Wordpress Client ★14 ⏳1Y](https://github.com/ionic2blueprints/ionic2-wp-client)
-* [Ionic Media Player ★25](https://github.com/ionic2blueprints/media-player)
-* [Ionic Social App ★19 ⏳1Y](https://github.com/ionic2blueprints/social-app)
+* [IonicRealty ★270](https://github.com/ccoenraets/ionic2-realty)
+* [Ionic Firebase Chat App ★32](https://github.com/ionic2blueprints/firebase-chat)
+* [Ionic Ecommerce App ★20 ⏳1Y](https://github.com/ionic2blueprints/ionic2-marketcloud)
+* [Ionic Conference App based on Lanyrd API ★6 ⏳1Y](https://github.com/ionic2blueprints/conference-app)
+* [Ionic Stock Tracking App ★11 ⏳1Y](https://github.com/ionic2blueprints/ionic2-stockmarket)
+* [Ionic Wordpress Client ★15 ⏳1Y](https://github.com/ionic2blueprints/ionic2-wp-client)
+* [Ionic Media Player ★26](https://github.com/ionic2blueprints/media-player)
+* [Ionic Social App ★22 ⏳1Y](https://github.com/ionic2blueprints/social-app)
 * [Ionic Push Notification](https://github.com/aggarwalankush/ionic2-push-base)
 * [Ionic Weather app](https://github.com/aggarwalankush/ionic2-mosum)
-* [Ionic Reddit Reader ★113](https://github.com/smartapant/ionic2-reddit-reader)
+* [Ionic Reddit Reader ★115](https://github.com/smartapant/ionic2-reddit-reader)
 * [Ionic Advanced Components](https://github.com/yannbf/ionic2-components)
 * [Ionic aiEyes - Azure Computer Vision API ★3](https://github.com/brenopolanski/aiEyes)
 

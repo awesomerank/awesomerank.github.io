@@ -7,7 +7,7 @@ title: Awesome Rank for HollyAdele/awesome-programming-for-kids
 	This list is a copy of <a href="https://github.com/HollyAdele/awesome-programming-for-kids">HollyAdele/awesome-programming-for-kids</a> with ranks
 </p>
 ---
-# Awesome Programming for Kids [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome Programming for Kids [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 A curated list of awesome resources for teaching kids programming. 
 
 ## Contents

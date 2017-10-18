@@ -192,7 +192,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [atw-om ★40 ⏳2Y](https://github.com/zaiste/atw-om) – A web application template with Clojure/Compojure, ClojureScript/Om & core.async.
 - [Chestnut ★1106](https://github.com/plexus/chestnut) – An Application template for ClojureScript/Om with live reloading.
 - [Clops ★135](https://github.com/sveri/closp) – An opinionated, full stack and easy to use web framework.
-- [descjop ★323](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
+- [descjop ★326](https://github.com/karad/lein_template_descjop) – A template for Web based desktop application with Electron.
 - [electron-template ★95 ⏳1Y](https://github.com/ducky427/electron-template) – A template for creating web based desktop applications with Electron, ClojureScript and Reagent.
 - [Hoplon](http://hoplon.io) – Write everything in Clojure and ClojureScript, clientside and serverside.
 - [Keechma](http://keechma.com) – Micro frontend framework for ClojureScript and Reagent.

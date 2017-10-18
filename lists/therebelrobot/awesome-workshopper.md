@@ -7,7 +7,7 @@ title: Awesome Rank for therebelrobot/awesome-workshopper
 	This list is a copy of <a href="https://github.com/therebelrobot/awesome-workshopper">therebelrobot/awesome-workshopper</a> with ranks
 </p>
 ---
-# awesome-workshopper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# awesome-workshopper [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 *alternatively, awesome-adventure*
 
 A list of workshopper/adventure-based tutorials for various things. Inspired by awesome. These are terminal-based guides to learning a new programming concept. Here's an example screenshot from rvagg's [learnyounode ★4916](https://github.com/workshopper/learnyounode):
@@ -43,7 +43,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [how-to-npm](https://github.com/npm/how-to-npm) | A module to teach you how to module. |
 | [http-adventure ★7 ⏳2Y](https://github.com/yoshuawuyts/http-adventure) | [wip] Learn node's http module. |
 | [http-works ★24 ⏳3Y](https://github.com/Raynos/http-works) | http framework |
-| [intro-to-node ★6 ⏳2Y](https://github.com/sherodtaylor/intro-to-node) | An intro to Node.js  |
+| [intro-to-node ★6 ⏳3Y](https://github.com/sherodtaylor/intro-to-node) | An intro to Node.js  |
 | [introtowebgl ★112](https://github.com/alexmackey/IntroToWebGLWithThreeJS) | Intro to WebGL with three.js |
 | [javascripting](https://github.com/sethvincent/javascripting) | Learn JavaScript by adventuring around in the terminal |
 | [jsadventure](https://github.com/mk30/jsadventure) | Introduction to Javascript. No programming experience needed. |
@@ -64,7 +64,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [npm-tutor ★22 ⏳2Y](https://github.com/timoxley/npm-tutor) | npm tutor for nodeconf 2014 |
 | [oobootcamp ★6 ⏳3Y](https://github.com/winsonwq/OOBootcamp.js) | Object-Oriented JavaScript Bootcamp |
 | [planetproto ★200](https://github.com/sporto/planetproto) | Understanding JavaScript Prototypes |
-| [promise-it-wont-hurt ★494](https://github.com/stevekane/promise-it-wont-hurt) | A Workshopper module that teaches you to use promises in javascript |
+| [promise-it-wont-hurt ★498](https://github.com/stevekane/promise-it-wont-hurt) | A Workshopper module that teaches you to use promises in javascript |
 | [secureyournode ★19 ⏳2Y](https://github.com/someoneweird/secureyournode) | Security workshop |
 | [security-adventure ★300 ⏳4Y](https://github.com/toolness/security-adventure) | Go on an educational Web security adventure! |
 | [stream-adventure](https://github.com/substack/stream-adventure) | go on an educational stream adventure! |

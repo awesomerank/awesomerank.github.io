@@ -7,10 +7,10 @@ title: Awesome Rank for diasdavid/awesome-hacking-spots
 	This list is a copy of <a href="https://github.com/diasdavid/awesome-hacking-spots">diasdavid/awesome-hacking-spots</a> with ranks
 </p>
 ---
-Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 ===============================
 
-> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★65640](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★67308](https://github.com/sindresorhus/awesome) thing.
 
 ## Index
 
@@ -146,7 +146,7 @@ CoWorking offices are awesome, but typically require a long term commitement, if
 > Coffe, Club Mate
 > All kind of activities and talks
 
-Webpage: Rathausstraße 6, 1010 Wien
+Webpage: https://metalab.at
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
@@ -333,6 +333,17 @@ Webpage: http://www.bevars.dk
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ✔ | [Ravnsborggade 10B, 2200 København](https://goo.gl/maps/9x8KcbPzN7B2) | Mon 9:30—23:00, Tue-Wed 9:30—24:00, Thu 9:30—2:00, Fri 9:30—3:00, Sat 10:00—3:00, Sun 10:00—21:30
+
+#### Cafe Nutid
+
+> It's a café ran by volunteers - all staff is young guys and girls, mostly students, super smiley and friendly. A lot of ppl go there to study usually. If you go to the basement, there are long, narrow tables where you can sit with your hack-buddies next to each other. Also some very comfy couches.
+
+Webpage: http://cafenutid.dk
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Sankt Peders Stræde 1, 1453 København](https://goo.gl/maps/iR2ffyCTRzw) | Mon (open sometimes only), Tue-Fri 9:00—20:00, Sat 13:00—22:00, Sun 13:00—18:00
+
 
 # France 🇫🇷
 

@@ -7,7 +7,7 @@ title: Awesome Rank for janikvonrotz/awesome-powershell
 	This list is a copy of <a href="https://github.com/janikvonrotz/awesome-powershell">janikvonrotz/awesome-powershell</a> with ranks
 </p>
 ---
-# Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★65640](https://github.com/sindresorhus/awesome)
+# Awesome PowerShell [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 [<img src="https://github.com/PowerShell/PowerShell/raw/master/assets/Powershell_256.png" align="right" width="80">](https://msdn.microsoft.com/en-us/powershell/)
 
@@ -46,10 +46,9 @@ It includes a command-line shell and an associated scripting language.
 - [PSGitHub ★37](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API. 
 - [Posh-Github ★51 ⏳1Y](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
 - [Posh-Gist ★19 ⏳1Y](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
-- [PSGist ★13 ⏳1Y](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists. http://dotps1.github.io/PSGist.
+- [PSGist ★13 ⏳1Y](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
 - [PSAppVeyor ★8](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
-- [PSSlack ★73](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration http://ramblingcookiemonster.github.io/PSSlack/
-
+- [PSSlack ★73](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration.
 
 ## Blogs
 
@@ -79,7 +78,6 @@ It includes a command-line shell and an associated scripting language.
 ## Code and Package Repositories
 
 - [GitHub](https://github.com/search?l=powershell&q=stars%3A%3E1&s=stars&type=Repositories) - Looking for an Open Source PowerShell project? It's probably here.
-- [PowerShell Code Repository](http://poshcode.org/) - Wide variety of PowerShell code from snippets to modules.
 - [PowerShell Gallery](https://www.powershellgallery.com/) - Offical PowerShell package repository, used by PowerShellGet.
 - [TechNet Gallery](https://gallery.technet.microsoft.com/) - Wide variety of PowerShell code from snippets to modules.
 
@@ -88,9 +86,9 @@ It includes a command-line shell and an associated scripting language.
 - [posh-git ★2476](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
 - [PSReadLine ★915](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
 - [TabExpansionPlusPlus ★105](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
-- [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump ★5862](https://github.com/wting/autojump) implementation for powershell.
-- [Zlocation](https://github.com/vors/ZLocation) - [z.sh ★7174](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
-- [thefuck ★30864](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
+- [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump ★5993](https://github.com/wting/autojump) implementation for powershell.
+- [Zlocation](https://github.com/vors/ZLocation) - [z.sh ★7348](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
+- [thefuck ★31499](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
 - [pslinq ★26 ⏳3Y](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell.
 - [posh-with ★4 ⏳1Y](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.
 - [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco ★4105](https://github.com/peco/peco) implementation. Interactive filtering tool.
@@ -106,7 +104,8 @@ It includes a command-line shell and an associated scripting language.
 ## Documentation Helper
 
 - [platyPS ★172](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
-- [Invoke-CreateModuleHelpFile ★14 ⏳3Y](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands. 
+- [Invoke-CreateModuleHelpFile ★14 ⏳3Y](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands.
+- [PScribo ★78](https://github.com/iainbrighton/PScribo) - PowerShell documentation framework what can create HTML, Word, text files based on PowerShell-based DSL (domain specific language).
 
 ## Editors and IDEs
 
@@ -124,11 +123,10 @@ It includes a command-line shell and an associated scripting language.
 - [Carbon](http://get-carbon.org/) - DevOps for automating the configuration of Windows computers.
 - [PowerShell PowerUp ★29 ⏳1Y](https://github.com/janikvonrotz/PowerShell-PowerUp) - Powerfull server management framework.
 - [PSCX](https://pscx.codeplex.com/) - Useful set of additional cmdlets.
-- [PlatyPS ★172](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
 
 ## Package Managers
 
-- [PowershellGet ★105](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell https://www.PowerShellGallery.com 
+- [PowershellGet ★105](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. Packages are available on [PowerShellGallery](https://www.PowerShellGallery.com).
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 - [GitLab ★10](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
@@ -150,12 +148,12 @@ It includes a command-line shell and an associated scripting language.
 - [PowerForensics ★614](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows.
 - [PowerSploit ★3057](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework.
 - [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent.
-- [PSReflect ★64](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell.
-  Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
+- [PSReflect ★64](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell. Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
 
 ## Testing
 
 - [Pester ★1165](https://github.com/pester/Pester) - Powershell BDD style testing framework.
+- [Format-Pester](https://github.com/equelin/format-pester) - Powershell module for documenting Pester's results - exports Pester results to HTML, Word, text files using [PScribo ★78](https://github.com/iainbrighton/PScribo) .
 
 ## Themes
 
@@ -191,6 +189,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Misc
 
+- [DbgShell ★133](https://github.com/Microsoft/DbgShell) - A PowerShell front-end for the Windows debugger engine.
 - [poke ★28 ⏳1Y](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.
