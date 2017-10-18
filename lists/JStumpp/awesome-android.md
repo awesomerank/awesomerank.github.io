@@ -388,6 +388,8 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Sensey ★2078](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
 - [UserAwareVideoView ★44](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
 - [Flexbox Layout ★9508](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
+- [Agile Boiler Plate ★39](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
+
 ## Resources
 
 - [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - Very good tutorials by Lars Vogel.

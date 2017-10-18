@@ -492,6 +492,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [My Animation List ★3](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
 - [vue-input-streaming ★3](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
 - [TidyTab ★24](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
+- [peregrine-cms ★7](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
 
 ### Commercial Products
 
@@ -593,6 +594,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [WynnStats](https://maple3142.github.io/wynn/) - A unofficial WynnCraft statistics.
   - [Save Coins](https://savecoins.me) - Save Coins helps Nintendo Switch owners to save money on Nintendo eShop.
   - [Vectr](https://vectr.com/new) - A free vector graphics software
+  - [brain bits ★38](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
+  - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
 
 ### Interactive Experiences
 
@@ -905,6 +908,7 @@ Tooltips / popovers
  - [vue-flat-surface-shader](https://github.com/grzhan/vue-flat-surface-shader) - A Vue component for [flat surface shader ★2095 ⏳1Y](https://github.com/wagerfield/flat-surface-shader)
  - [vue-easteregg ★0](https://github.com/ddgll/vue-easteregg) - Easey add an easteregg to your vue app (default with konami code)
  - [vue-barcode-scanner ★14](https://github.com/noomerzx/vue-barcode-scanner)
+ - [vue-heatmapjs ★2](https://github.com/BrockReece/vue-heatmapjs) - A Vue directive for tracking and visualising mouse activity
 
 ### Tabs
 
@@ -1032,6 +1036,7 @@ Tooltips / popovers
  - [vue-dropzone ★488](https://github.com/rowanwins/vue-dropzone) - A Vue.js (vue2) component for Dropzone.js - a drag’n’drop file uploads utility with image previews.
  - [vue-transmit ★84](https://github.com/alexsasharegan/vue-transmit) - A purely Vue.js drag & drop uploader component based on Dropzone.js for Vue 2.0
  - [vue-upload-component ★420](https://github.com/lian-yue/vue-upload-component) - Vue upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory. Supports  Vue >= 2.0
+ - [vue-uploader ★162](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
 
 #### Context Menu
 
