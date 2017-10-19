@@ -85,7 +85,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Swiftly Typed Resources ★73](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with. ⏳
 * [Swift KVO Closures ★10 ⏳3Y](https://github.com/rectalogic/KVOPlayground) - Swift KVO playground. ⏳ 
 * [Swift Date Tutorial ★7 ⏳1Y](https://github.com/liuyubobobo/Swift-NSDate-Tutorial) - Learn everythig about NSDate. ⏳ 
-* [Swift And C ★4 ⏳1Y](https://github.com/MacMark/SwiftAndC) - Examples about using C with Swift. ⏳ 
+* [Swift And C ★4 ⏳2Y](https://github.com/MacMark/SwiftAndC) - Examples about using C with Swift. ⏳ 
 * [Swift Memory Management ★2 ⏳1Y](https://github.com/ndethore/swift-memory-management) - How to avoid retain cycles, from [this post](http://detho.re/2016/01/21/writing-memory-efficient-swift-code/). ⏳
 
 ### Design Patterns

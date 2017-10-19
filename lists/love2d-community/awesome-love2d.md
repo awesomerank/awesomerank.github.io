@@ -223,7 +223,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Luassert ★50](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests
 * [lua-TestMore](http://fperrad.github.io/lua-TestMore/) - Port of Perl's `Test::More` package
 * [Lunatest ★61 ⏳2Y](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
-* [lust ★24](https://github.com/bjornbytes/lust) - Minimal test framework
+* [lust ★24 ⏳1Y](https://github.com/bjornbytes/lust) - Minimal test framework
 * [Specl](http://gvvaughan.github.io/specl/) - Behavior Driven Development (BDD) tool
 * [Telescope](http://norman.github.io/telescope/) - Highly-customizable BDD-style testing library
 

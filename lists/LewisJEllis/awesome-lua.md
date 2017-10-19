@@ -274,7 +274,7 @@ For more on the differences (particularly between `lanes` and `luaproc`), see th
 - [busted](http://olivinelabs.com/busted/) - BDD-style unit testing framework with great docs and Moonscript support.
 - [telescope ★124](https://github.com/norman/telescope) - Flexible and highly customizable testing library.
 - [luassert ★50](https://github.com/Olivine-Labs/luassert) - Assertion library extending Lua's built-in assertions.
-- [lust ★24](https://github.com/bjornbytes/lust) - Minimal test framework.
+- [lust ★24 ⏳1Y](https://github.com/bjornbytes/lust) - Minimal test framework.
 
 
 ### Foreign Function Interfaces

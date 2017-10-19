@@ -845,6 +845,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Lessons operating a serverless-like platform - Part 1](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-a8bbd5b899a0) - Part 1 of the blog post series about Netflix on developer experience and lessons learned while operating a serverless-like platform.
 - [Lessons operating a serverless-like platform - Part 2](https://medium.com/netflix-techblog/developer-experience-lessons-operating-a-serverless-like-platform-at-netflix-part-ii-63a376c28228) - Part 2 of the blog post series about Netflix on developer experience and lessons learned while operating a serverless-like platform.
 - [IBMs new programming model for building serverless apps](http://www.zdnet.com/article/ibm-unveils-new-programming-model-for-building-serverless-applications/) - Post about the "Composer" project developed by IBM.
+- [Capgemini cites biz model, pricing as hurdles to serverless adoption](https://www.sdxcentral.com/articles/news/capgemini-cites-biz-model-pricing-as-hurdles-to-serverless-adoption/2017/10/) - Post about the analysis by Capgemini regarding serverless adoption.
+- [Google Cloud vs. AWS](https://kinsta.com/blog/google-cloud-vs-aws/) - In-depth comparison between Google Cloud and Amazon AWS.
 
 ## Screencasts
 
@@ -1578,6 +1580,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Bootstrap ★3](https://github.com/dougmoscrop/serverless-plugin-bootstrap) - Checks that the environment around your Serverless service has been set up and is up-to-date.
 - [API docs ★1](https://github.com/8select/serverless-plugin-api-docs) - Automatically create a Lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.
 - [SSM fetch ★3](https://github.com/gozup/serverless-ssm-fetch) - Sets SSM parameters into function environment variables.
+- [Secrets ★26](https://github.com/serverless/serverless-secrets-plugin) - Plugin to manage Secrets.
 
 ## Literature / Education
 
