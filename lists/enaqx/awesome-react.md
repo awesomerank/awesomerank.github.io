@@ -228,7 +228,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt ★9788](https://github.com/petehunt/webpack-howto)
 * [React Webpack Cookbook ★170 ⏳1Y](https://github.com/christianalfoni/react-webpack-cookbook)
-* [AMD and CommonJS examples with Webpack ★5 ⏳2Y](https://github.com/simonsmith/webpack-example)
+* [AMD and CommonJS examples with Webpack ★5 ⏳3Y](https://github.com/simonsmith/webpack-example)
 * [Integrating JSX live reload into your React workflow](http://gaearon.github.io/react-hot-loader/)
 * [React JS and a browserify workflow, part1](http://christianalfoni.github.io/javascript/2014/08/15/react-js-workflow.html)
 * [React JS and a browserify workflow, part2](http://christianalfoni.github.io/javascript/2014/10/30/react-js-workflow-part2.html)

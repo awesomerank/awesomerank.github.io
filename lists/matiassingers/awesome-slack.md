@@ -311,7 +311,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [AlfredSlackSearch ★34 ⏳3Y](https://github.com/tylerhall/AlfredSlackSearch) - Alfred.app workflow that searches your team's Slack history
 - [Archibald](https://github.com/lgaechter/Archibald) - A Slack integration to post GIF replies from replygif.net
 - [beanstalk-slack ★5 ⏳3Y](https://github.com/percipioglobal/beanstalk-slack) - Integrates your deploy commits from Beanstalk directly into Slack
-- [CLSlackBundle ★39](https://github.com/cleentfaar/CLSlackBundle) - Symfony bundle that lets you interact with the Slack API and webhooks
+- [CLSlackBundle ★39 ⏳1Y](https://github.com/cleentfaar/CLSlackBundle) - Symfony bundle that lets you interact with the Slack API and webhooks
 - [ExceptionHandler ★14 ⏳1Y](https://github.com/hexa2k9/ExceptionHandler) - PHP Exception Handler to post exceptions to a Slack channel
 - [Gifbot ★21 ⏳3Y](https://github.com/josephschmitt/gifbot) - GIFs for your Slack channel
 - [GifBot ★74 ⏳2Y](https://github.com/gstjohn/GifBot) - Random GIF generator for your Slack channels

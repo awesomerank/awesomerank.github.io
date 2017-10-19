@@ -85,6 +85,7 @@ Everyone loves a bit of BEM in their development. Here's just the starts of hope
 - [WordPress BEM Menu ★94](https://github.com/roikles/Wordpress-Bem-Menu)
 - [BEM Grid](https://github.com/bem-incubator/bem-grid)
 - [Flexible Grid System with BEM ★13 ⏳1Y](https://github.com/flexiblegs/flexiblegs-bem)
+- [BEM.js ★4](https://github.com/maykinmedia/bem.js)
 
 ## Slides &amp; Videos
 
