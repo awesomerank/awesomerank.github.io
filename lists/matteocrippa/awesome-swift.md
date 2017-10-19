@@ -1280,7 +1280,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [DOFavoriteButton ★2895](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button.
 * [Floaty ★557](https://github.com/kciter/Floaty) - Floating Action Button for iOS.
 * [Hamburger button transition ★2200](https://github.com/robb/hamburger-button) - Hamburger button transition.
-* [HamburgerButton ★182](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
+* [HamburgerButton ★182 ⏳1Y](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
 * [LGButton ★1475](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [LTHRadioButton ★190](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
 * [MIBadgeButton ★285](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons.

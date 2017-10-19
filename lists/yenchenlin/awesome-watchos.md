@@ -111,7 +111,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
     <space><space><img src="https://camo.githubusercontent.com/3d2f8f30ae9ce705cc5467d3736baac2253c6dc2/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7362626170706c65322e6a7067") alt="Example App" width="500"/>
 
- * [WatchNotes ★80 ⏳1Y](https://github.com/azamsharp/WatchNotes) - An apple watch app to display notes on your wrist.
+ * [WatchNotes ★80 ⏳2Y](https://github.com/azamsharp/WatchNotes) - An apple watch app to display notes on your wrist.
 
     <space><space><img src="https://camo.githubusercontent.com/689a09260a6427ede9580b298c141320132796df/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32303131363433342f57617463684e6f7465732e676966") alt="Example App" width="500"/>
 

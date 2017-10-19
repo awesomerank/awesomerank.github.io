@@ -315,7 +315,7 @@ title: Awesome Rank for vuejs/awesome-vue
 
   - [Starter Application with JWT Auth + sample backend API in Laravel](http://forum.vuejs.org/topic/39/starter-application-with-jwt-auth-sample-backend-api)
   - [Node Webkit + Vue example ★42](https://github.com/brandonjpierce/node-webkit-boilerplate) by @brandonjpierce
-  - [Vue Samples ★31 ⏳1Y](https://github.com/superlloyd/VueSamples) by @superlloyd
+  - [Vue Samples ★31 ⏳2Y](https://github.com/superlloyd/VueSamples) by @superlloyd
   - [HackerNews clone with vue.js + vue-router ★16 ⏳2Y](https://github.com/kazupon/vue-router-hackernews) by @kazupon
   - [**Electron + Vue example** ★617](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
   - [Single page application example (Vue + Voie) ★54 ⏳1Y](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
@@ -493,6 +493,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [vue-input-streaming ★3](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
 - [TidyTab ★24](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
 - [peregrine-cms ★7](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
+- [concept-to-clinic ★226](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
 
 ### Commercial Products
 
@@ -909,6 +910,7 @@ Tooltips / popovers
  - [vue-easteregg ★0](https://github.com/ddgll/vue-easteregg) - Easey add an easteregg to your vue app (default with konami code)
  - [vue-barcode-scanner ★14](https://github.com/noomerzx/vue-barcode-scanner)
  - [vue-heatmapjs ★2](https://github.com/BrockReece/vue-heatmapjs) - A Vue directive for tracking and visualising mouse activity
+ - [vue-maze ★3](https://github.com/meganetaaan/vue-maze) - An itty-bitty maze game made as Vue.js component
 
 ### Tabs
 
@@ -1656,6 +1658,7 @@ Payment utilities.
  - [rails_vue_melt ★1](https://github.com/midnightSuyama/rails_vue_melt) - Rails view with webpack=vue optimizer.
  - [vue-starter ★29](https://github.com/rohitkrai03/vue-starter) - A Vue.js starter kit that lets you focus on more programming and less configuration.
  - [vue-standalone-component ★10](https://github.com/InCuca/vue-standalone-component) - A standalone component generator with documentation support using jsdoc and vue-styleguidist
+ - [vuejs-wordpress-theme-starter ★51](https://github.com/EvanAgee/vuejs-wordpress-theme-starter) - A WordPress theme with the guts ripped out and replaced with Vue
 
 ### Client
 

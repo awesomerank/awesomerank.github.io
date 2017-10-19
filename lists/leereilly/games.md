@@ -356,7 +356,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Castles of Dr. Creep ★8](https://github.com/segrax/DrCreep) - The Castles of Dr. Creep
 * [Dominion ★38 ⏳6Y](https://github.com/paulbatum/Dominion) - C# implementation of Dominion, a board/card game.
 * [EbbeFlut ★1](https://github.com/karussell/ebbeflut) - Really nice board game implemented in a bad way a VERY long time ago.
-* [IRMINGARD ★4 ⏳4Y](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
+* [IRMINGARD ★4 ⏳5Y](https://github.com/gamebytes/irmingard-backbone) - Patience card game written in Ruby.
 * [Minilens ★72](https://github.com/KOBUGE-Games/minilens) - Cute puzzle platformer starring a cleaning robot on post-apocalyptic Earth.
 * [PuzzleDash](https://github.com/zeDoctor/PuzzleDash) - Match-3 puzzle game built in the [Dash engine ★360 ⏳1Y](https://github.com/Circular-Studios/Dash).
 * [tictactoe ★5 ⏳2Y](https://github.com/cout-hello-world/tictactoe) - Graphical tic-tac-toe AI which never loses
@@ -573,7 +573,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [OpenEmu ★8040](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
 * [Mudlet ★124](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 * [stats.js ★4454](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
-* [Tassadar ★46 ⏳1Y](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
+* [Tassadar ★46 ⏳2Y](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
 * [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.
 * [World of Warcraft API Docs ★474 ⏳2Y](https://github.com/Blizzard/api-wow-docs) - Public documentation for the RESTful web service provided as part of the World of Warcraft community site.
 

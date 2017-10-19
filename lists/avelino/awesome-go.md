@@ -1287,7 +1287,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [mssqlx ★20](https://github.com/linxGnu/mssqlx) - Database client library, proxy for any master slave, master master structures. Lightweight and auto balancing in mind.
 * [multitick ★48 ⏳1Y](https://github.com/VividCortex/multitick) - Multiplexor for aligned tickers.
 * [myhttp ★2](https://github.com/inancgumus/myhttp) - Simple API to make HTTP GET requests with timeout support.
-* [netbug ★51 ⏳1Y](https://github.com/e-dard/netbug) - Easy remote profiling of your services.
+* [netbug ★51 ⏳2Y](https://github.com/e-dard/netbug) - Easy remote profiling of your services.
 * [ngrok ★11403](https://github.com/inconshreveable/ngrok) - Introspected tunnels to localhost.
 * [okrun ★11 ⏳3Y](https://github.com/xta/okrun) - go run error steamroller.
 * [onecache ★56](https://github.com/adelowo/onecache) - Caching library with support for multiple backend stores (Redis, Memcached, filesystem etc).

@@ -9,7 +9,7 @@ title: Awesome Rank for vinkla/awesome-fuse
 ---
 # Awesome Fuse [![awesome](https://cdn.rawgit.com/sindresorhus/awesome/master/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
-[<img src="https://cloud.githubusercontent.com/assets/499192/24413317/5cb57f14-13db-11e7-9d53-2389641d81a8.jpg" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
+[<img src="https://user-images.githubusercontent.com/499192/31740578-13ed7990-b452-11e7-96ca-e7fb898edff0.png" align="right" alt="Fuse" width="340">](https://www.fusetools.com/)
 
 > A curated list of awesome [Fuse](https://www.fusetools.com/) applications, articles, and plugins.
 
@@ -33,7 +33,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Beer Week](http://gbgbeerweek.se/) - The official app for Gothenburg beer festival [(​iOS)](https://itunes.apple.com/se/app/beer-week/id1094707718) [(Android)](https://play.google.com/store/apps/details?id=com.gbgbeerweek).
 - [BPMTap](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649) - A BPM tapper that works [(​iOS)](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1072222649).
 - [CityU Minerals](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals) - A mobile virtual museum [(Android)](https://play.google.com/store/apps/details?id=hk.edu.cityu.minerals).
-- [Conrad Wise](http://www.conradwise.com) - The all-knowing Conrad Wise [(​iOS)](https://itunes.apple.com/us/app/conrad-wise/id1090322679) [(Android)](https://play.google.com/store/apps/details?id=com.ConradWise).
+- [Conrad Wise](https://itunes.apple.com/us/app/conrad-wise/id1090322679) - The all-knowing Conrad Wise [(​iOS)](https://itunes.apple.com/us/app/conrad-wise/id1090322679) [(Android)](https://play.google.com/store/apps/details?id=com.ConradWise).
 - [Countinental](https://itunes.apple.com/us/app/countinental/id1065815345) - An app for counting things [(​iOS)](https://itunes.apple.com/us/app/countinental/id1065815345) [(Android)](https://play.google.com/store/apps/details?id=com.Countinental).
 - [Criminal Mind](https://livingabook.com) - Interactive story book [(​iOS)](https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal).
 - [Dark Forest](https://livingabook.com) - Interactive book [(​iOS)](https://itunes.apple.com/mx/app/dark-forest-living-a-book/id695442145) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.darkforest).
@@ -47,10 +47,10 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Klickle](https://itunes.apple.com/us/app/klickle/id873427610) - Find stuff that’s happening now from local businesses [(​iOS)](https://itunes.apple.com/us/app/klickle/id873427610).
 - [Opportunity](https://myopportunity.com/) - A lead generation tool built inside of a business network [(​iOS)](https://itunes.apple.com/us/app/opportunity-business-opportunities/id1120189533) [(Android)](https://play.google.com/store/apps/details?id=com.opprtunity.opprtunityapp).
 - [Quotis](https://play.google.com/store/apps/details?id=com.qubatetech.quotis) - Streamlined inspirational quote app that let's you browse and copy/paste great quotes [(Android)](https://play.google.com/store/apps/details?id=com.qubatetech.quotis).
-- [Sanntidsappen](https://sanntidsappen.9u.no/) - Great-looking overview of bus routes in Trondheim [(​iOS)](https://itunes.apple.com/no/app/sanntidsappen/id1106042398) [(Android)](https://play.google.com/store/apps/details?id=io.tmn.sanntidsappen).
+- [Sanntidsappen](https://sanntidsappen.9u.no/) - Great-looking overview of bus routes in Trondheim [(​iOS)](https://itunes.apple.com/no/app/sanntidsappen/id1106042398).
 - [Snapptime](https://snapptime.de/) - Enjoy the food offers in your city (in German) [(​iOS)](https://itunes.apple.com/de/app/snapptime/id1162387536) [(Android)](https://play.google.com/store/apps/details?id=de.snapptime).
 - [SpinDice3D](https://itunes.apple.com/us/app/spindice3d/id1082656455) - Select and spin a dice from collection of 4, 6, 8, 12 and 20 sides [(​iOS)](https://itunes.apple.com/us/app/spindice3d/id1082656455) [(Android)](https://play.google.com/store/apps/details?id=com.SpinDice).
-- [Tasty](http://www.tastyapp.net/) - The local food curation chatbot app [(Android)](https://play.google.com/store/apps/details?id=net.tastyapp.tasty&hl=en).
+- [Tasty](https://play.google.com/store/apps/details?id=net.tastyapp.tasty&hl=en) - The local food curation chatbot app [(Android)](https://play.google.com/store/apps/details?id=net.tastyapp.tasty&hl=en).
 - [Tesla CTRL](https://itunes.apple.com/no/app/teslactrls/id1120560798) - This app will give you better control of your Tesla [(​iOS)](https://itunes.apple.com/no/app/teslactrls/id1120560798).
 - [The Monster and the Cat](https://livingabook.com) - Interactive book [(​iOS)](https://itunes.apple.com/mx/app/the-monster-and-the-cat/id726779970) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.monsterandcat).
 - [Tiffinity](https://itunes.apple.com/us/app/tiffinity/id1191434201) - Order delicious home made food from around you [(​iOS)](https://itunes.apple.com/us/app/tiffinity/id1191434201). [(Android)](https://play.google.com/store/apps/details?id=com.apps.tiffinityapp)
@@ -102,7 +102,9 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Fuse Input Validation ★1](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components
 - [Fuse PM ★30](https://github.com/bolav/fusepm) - A Fusetools package manager.
 - [Fuse Pokedex ★4](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
+- [Fuse Review ★0](https://github.com/LuisRodriguezLD/Fuse-RequestReview) - Get reviews from your users without making them leave the app.
 - [Fuse Samples ★155](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
+- [Fuse Taptic-Feedback ★0](https://github.com/LuisRodriguezLD/Fuse-TapticFeedback) - Get access to the iPhone 7's taptic engine.
 - [fuse.QrScanner ★1](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode.
 - [Fuse Tags with Firebase ★14 ⏳1Y](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.

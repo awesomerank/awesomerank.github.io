@@ -367,7 +367,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Concurrent ★142](https://github.com/typelift/Concurrent) - Functional Concurrency Primitives :large_orange_diamond:
 * [Flow ★193](https://github.com/JohnSundell/Flow) - Operation Oriented Programming in Swift :large_orange_diamond:
 * [Brisk ★21](https://github.com/jmfieldman/Brisk) - A Swift DSL that allows concise and effective concurrency manipulation. :large_orange_diamond:
-* [Aojet ★20](https://github.com/aojet/Aojet) - An actor model library for swift.
+* [Aojet ★20 ⏳1Y](https://github.com/aojet/Aojet) - An actor model library for swift.
 * [Overdrive ★811](https://github.com/arikis/Overdrive) - Fast async task based Swift framework with focus on type safety, concurrency and multi threading. :large_orange_diamond:
 * [NSLock+Synchronized ★2](https://github.com/Jon-Schneider/NSLock-Synchronized) - Do you miss @synchronized in Swift? NSLock+Synchronized gives you back @synchronized in Swift via a global function and NSLock class and instance methods, conveniently usable via CocoaPods and Carthage Framework. :large_orange_diamond:[e]
 * [AsyncNinja ★58](https://github.com/AsyncNinja/AsyncNinja) - A complete set of concurrency and reactive programming primitives. :large_orange_diamond:
@@ -561,6 +561,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Apple Family ★30](https://github.com/kirankunigiri/Apple-Family) - Quickly connect Apple devices together with Bluetooth, wifi, and USB.  :large_orange_diamond:
 * [Bleu ★436](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U  :large_orange_diamond:
 * [Bluejay ★592](https://github.com/steamclock/bluejay) - A simple Swift framework for building reliable Bluetooth LE apps. :large_orange_diamond:
+* [BabyBluetooth ★3178](https://github.com/coolnameismy/BabyBluetooth) - The easiest way to use Bluetooth (BLE) in iOS/MacOS.
 
 #### Camera
 * [TGCameraViewController ★1394](https://github.com/tdginternet/TGCameraViewController) - Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.
@@ -834,7 +835,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [ImageButter ★382 ⏳1Y](https://github.com/dollarshaveclub/ImageButter) - Makes dealing with images buttery smooth
 * [SKPhotoBrowser ★1344](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by Facebook, Twitter photo browsers written by swift :large_orange_diamond:
 * [YUCIHighPassSkinSmoothing ★737 ⏳1Y](https://github.com/YuAo/YUCIHighPassSkinSmoothing) - An implementation of High Pass Skin Smoothing using Apple's Core Image Framework
-* [CLImageViewPopup ★20](https://github.com/vinbhai4u/CLImageViewPopup) - A simple Image full screen pop up :large_orange_diamond:
+* [CLImageViewPopup ★20 ⏳1Y](https://github.com/vinbhai4u/CLImageViewPopup) - A simple Image full screen pop up :large_orange_diamond:
 * [APKenBurnsView ★48 ⏳1Y](https://github.com/Alterplay/APKenBurnsView) - Ken Burns effect with face recognition! :large_orange_diamond:
 * [Moa ★262](https://github.com/evgenyneu/moa) - An image download extension of the image view for iOS, tvOS and macOS. :large_orange_diamond:[e]
 * [JMCMarchingAnts ★125 ⏳1Y](https://github.com/izotx/JMCMarchingAnts) - Library that lets you add marching ants (animated) selection to the edges of the images. :large_orange_diamond:
@@ -1724,7 +1725,7 @@ Most of these are paid services, some have free tiers.
 * [Stellar ★2438](https://github.com/AugustRush/Stellar) - A fantastic Physical animation library for swift :large_orange_diamond:
 * [MotionMachine ★331](https://github.com/poetmountain/MotionMachine) - A powerful, elegant, and modular animation library for Swift. :large_orange_diamond:
 * [JRMFloatingAnimation ★168](https://github.com/carleihar/JRMFloatingAnimation) - An Objective-C animation library used to create floating image views.
-* [AHKBendableView ★594](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position changes. :large_orange_diamond:
+* [AHKBendableView ★594 ⏳1Y](https://github.com/fastred/AHKBendableView) - UIView subclass that bends its edges when its position changes. :large_orange_diamond:
 * [FlightAnimator ★555](https://github.com/AntonTheDev/FlightAnimator) - Advanced Natural Motion Animations, Simple Blocks Based Syntax :large_orange_diamond:
 * [ZoomTransitioning ★540](https://github.com/WorldDownTown/ZoomTransitioning) - A custom transition with image zooming animation. :large_orange_diamond:
 * [Ubergang ★44](https://github.com/RobinFalko/Ubergang) - A tweening engine for iOS written in Swift. :large_orange_diamond:
@@ -2163,7 +2164,7 @@ Most of these are paid services, some have free tiers.
 * [ParallaxTableViewHeader ★1249 ⏳1Y](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
 * [YXTPageView ★61](https://github.com/hanton/YXTPageView) - A PageView, which supporting scrolling to transition between a UIView and a UITableView.
 * [DZNEmptyDataSet ★9281](https://github.com/dzenbot/DZNEmptyDataSet) - A drop-in UITableView/UICollectionView superclass category for showing empty datasets whenever the view has no content to display.
-* [ConfigurableTableViewController ★241](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller http://holko.pl/2016/01/05/typed-table-view-controller/ :large_orange_diamond:
+* [ConfigurableTableViewController ★241 ⏳1Y](https://github.com/fastred/ConfigurableTableViewController) - Typed, yet Flexible Table View Controller http://holko.pl/2016/01/05/typed-table-view-controller/ :large_orange_diamond:
 * [CSStickyHeaderFlowLayout ★4779](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout) - UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. :large_orange_diamond:
 * [folding-cell ★6493](https://github.com/Ramotion/folding-cell) - FoldingCell is an expanding content cell inspired by folding paper material :large_orange_diamond:
 * [Lightning-Table ★21 ⏳2Y](https://github.com/electrickangaroo/Lightning-Table) - A declarative api for working with UITableView.
@@ -2272,7 +2273,7 @@ Most of these are paid services, some have free tiers.
 * [CurrencyTextField ★21](https://github.com/richa008/CurrencyTextField) - UITextField that automatically formats text to display in the currency format. :large_orange_diamond:
 * [UITextField-Navigation ★334](https://github.com/T-Pham/UITextField-Navigation) - UITextField-Navigation adds next, previous and done buttons to the keyboard for your UITextFields.🔶[e]
 * [AutoCompleteTextField ★22](https://github.com/nferocious76/AutoCompleteTextField) - Auto complete with suggestion textfield :large_orange_diamond:
-* [EmojiTextView ★346](https://github.com/fastred/EmojiTextView) - Tap to swap out words with emojis. Inspired by Messages.app on iOS 10. :large_orange_diamond:
+* [EmojiTextView ★346 ⏳1Y](https://github.com/fastred/EmojiTextView) - Tap to swap out words with emojis. Inspired by Messages.app on iOS 10. :large_orange_diamond:
 * [PLCurrencyTextField ★81 ⏳1Y](https://github.com/nonameplum/PLCurrencyTextField) - UITextField that support currency in the right way. :large_orange_diamond:
 * [PasswordTextField ★135](https://github.com/PiXeL16/PasswordTextField) - A custom TextField with a switchable icon which shows or hides the password and enforce good password policies :large_orange_diamond:
 * [AnimatedTextInput ★488](https://github.com/jobandtalent/AnimatedTextInput) - Animated UITextField and UITextView replacement for iOS :large_orange_diamond:
@@ -2598,7 +2599,7 @@ Most of these are paid services, some have free tiers.
 * [MCLog ★609](https://github.com/yuhua-chen/MCLog) - Xcode plugin for filtering the console area.
 * [XToDo ★1591 ⏳1Y](https://github.com/trawor/XToDo) - Dialog with list of all TODO, FIXME, ??? and !!! in the project.
 * [CopyIssue ★180 ⏳1Y](https://github.com/hanton/CopyIssue-Xcode-Plugin) - Makes Copy Xcode Issue Description Easy.
-* [RTImageAssets ★2398](https://github.com/rickytan/RTImageAssets) - A Xcode plugin to automatically generate all the App icons needed.
+* [RTImageAssets ★2398 ⏳1Y](https://github.com/rickytan/RTImageAssets) - A Xcode plugin to automatically generate all the App icons needed.
 * [BBUncrustifyPlugin-Xcode ★1208](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) - Xcode plugin to format source code using ClangFormat or Uncrustify.
 * [Aviator ★31](https://github.com/marksands/Aviator) - Xcode plugin that brings ⇧⌘T (source/test toggle) from AppCode over to Xcode.
 * [JumpMarks ★53](https://github.com/merrickp/JumpMarks) - Navigate your code files with numbered bookmarks.
@@ -2777,7 +2778,7 @@ Most of these are paid services, some have free tiers.
 * [Mobile Couch](http://mobilecouch.co/)
 * [iPhreaks](https://devchat.tv/iphreaks)
 * [Under the Radar](https://www.relay.fm/radar)
-* [Core Intuition](http://www.coreint.org/)
+* [Core Intuition](http://coreint.org/)
 * [Swift Playhouse](http://www.swiftplayhouse.com/)
 * [Release Notes](https://releasenotes.tv/)
 * [More Than Just Code](http://mtjc.fm/)

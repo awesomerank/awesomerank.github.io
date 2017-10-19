@@ -76,7 +76,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 - [picotool ★109](https://github.com/dansanderson/picotool) -  Tools and Python libraries for manipulating Pico-8 game files.
 - [p8dl - Carts Downloader - Python ★4](https://github.com/franciscod/p8dl) - Downloads cartridges into the correct folder (https://github.com/felipebueno/awesome-PICO-8/blob/master/looks at your config.txt).
 - [Pico-8 Carts Downloader - Bash  ★3](https://github.com/kikookoubis/pico-8-carts-bash-downloader) - Downloads cartridge from the BBS (single cart, whole index or dump your favourited entries) & rename them according to their metadata.
-- [p8 responsive webplayer transform ★6](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
+- [p8 responsive webplayer transform ★6 ⏳1Y](https://github.com/benwiley4000/pico8-responsive-webplayer-transform) - Python script that makes your HTML export page responsive.
 - [Color Palette](http://www.romanzolotarev.com/pico-8-color-palette/) - Hex and RGB colors codes for web.
 - [PICO-8 font](https://drive.google.com/file/d/0B97Um39fHXlcWUFRZlBqUndhbXM/view) - by [RhythmLynx](http://www.lexaloffle.com/bbs/?uid=11704).
 - [pico-test ★10 ⏳1Y](https://github.com/jozanza/pico-test) - PICO-8 testing framework.

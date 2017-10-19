@@ -73,7 +73,6 @@ title: Awesome Rank for ooade/awesome-preact
 - [Preact Hyperscript ★9](https://github.com/queckezz/preact-hyperscript) - Hyperscript-like syntax for creating elements.
 - [Shallow Compare ★21](https://github.com/tkh44/shallow-compare) - Simplified `shouldComponentUpdate` helper.
 - [Preact Photon](https://git.io/preact-photon) - Build beautiful desktop UI with [photon](http://photonkit.com).
-- [Preact Classless Component](https://github.com/ld0rman/preact-classless-component) - Create preact components without the class keyword.
 - [Preact Codemod ★25](https://github.com/vutran/preact-codemod) - Transform your React code to Preact.
 - [Preact Helmet ★26](https://github.com/download/preact-helmet) - A document head manager for Preact.
 - [Preact Delegate ★14](https://github.com/NekR/preact-delegate) - Delegate DOM events.

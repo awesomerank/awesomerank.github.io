@@ -193,7 +193,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Roam](https://www.roam.co/) - Global network of coliving spaces
   1. [Sende](http://sende.co) - Coliving & coworking space in northern Spain
   1. [Sun Desk](http://sun-desk.com) - Coliving & coworking space in Taghazout, Morocco
-  1. [The Blue House](http://www.thebluehouse.io) - Startup house & coliving space in Morocco
   1. [The Surf Office](https://www.thesurfoffice.com/) - Coworking & vacation space in Portugal, Canaries and California
   1. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   1. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
@@ -237,6 +236,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [AT&T](https://att.jobs) - Nearly [20% of the eligible workforce](https://www.att.com/Common/about_us/files/csr_2012/worklife_balance.pdf) works remotely.
   1. [Auth0](https://auth0.com/jobs) - Zero-friction authentication and authorization for developers.
   1. [Authentic F & F](http://authenticff.com/) - Independent design and technology studio based in Denver and Minnesota
+  1. [Aurity](https://www.aurity.co/) - 100% remote company, specializing in React and React Native.
   1. [Automattic](https://automattic.com/work-with-us/) - Makers of WordPress.com and Gravatar
   1. [Avallain](https://www.avallain.com/) - Education Technology and Digital Publishing. We have the tools and processes to achieve the positive impact on human potential that technology enhanced education can provide
   1. [Axelerant](https://www.axelerant.com/careers)
@@ -244,7 +244,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [BaseCamp](http://basecamp.com/about/team) - Project management software.
   1. [Basho](http://bashojobs.theresumator.com) - Creators of Riak, an open source platform and k/v database. We code in Erlang and hang out on clouds. Everyone works remote and gets together a few times a year at HQ in Seattle.
   1. [BeBanjo](http://bebanjo.com/careers/) - Software as a service for managing video on-demand. Ruby / Rails, Elasticsearch, Sidekiq.
-  1. [Big Universe](https://www.biguniverse.com/careers) - K-12 digital literacy solution with a 100% virtual workforce.
   1. [Bluespark Labs](http://www.bluespark.com/work-at-bluespark) - WebDev Consulting and makers of Roomify. Remote team with HQs in Raleigh, NC and Italy. Drupal.
   1. [Buffer](https://buffer.com/journey/) - Tools to help manage social media. PHP, CodeIgniter, MongoDB, Memcache, Backbone.js, React.js, Grunt.js, LESS, and Python.
   1. [Bugfender](https://bugfender.com/) - Bugfender is a remote logger for multiple platforms including iOS and Android. It stores logs created by your application and sends them to our server, creating a remote console where you can see logs in real time. Remote company based in Barcelona.
@@ -327,6 +326,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [MeetEdgar](https://meetedgar.com/careers/) - Automated social sharing. US remote.
   1. [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona.
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
+  1. [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, Javascript.
   1. [Mokriya](http://mokriya.com/careers) - Crafting smart, beautiful software for mobile, IoT, and beyond.
   1. [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar

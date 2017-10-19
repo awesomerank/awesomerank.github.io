@@ -103,7 +103,7 @@ Awesome resources for [Relay](https://github.com/facebook/relay), based on the [
 - [Simple Relay Starter](https://github.com/mhart/simple-relay-starter) - A Browserify version of the [Relay Starter Kit ★1047](https://github.com/relayjs/relay-starter-kit).
 - [UniversalRelayBoilerplate ★505](https://github.com/codefoundries/UniversalRelayBoilerplate)
 Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra.
-- [Relay on Rails Starter Kit ★39 ⏳1Y](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
+- [Relay on Rails Starter Kit ★39 ⏳2Y](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
 - [Relay Fullstack ★836](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit integrated with Relay, Express, Webpack, Babel, Material Design Lite, and PostCSS.
 
 # Relay-Specific Server Support
@@ -123,7 +123,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Rails
 - [GraphQL and Relay on Rails — First relay powered react component](https://medium.com/@gauravtiwari/graphql-and-relay-on-rails-first-relay-powered-react-component-cb3f9ee95eca#.c88zcoftn) - Full walk through of a simple Relay setup, including clonable code.
 - [Relay/GraphQL On Rails](https://medium.com/@khor/relay-facebook-on-rails-8b4af2057152#.5hjih9wms) - A brief example of Relay with Rails, complete with several diagrams to aid in comprehension.
-- [Relay on Rails Starter Kit ★39 ⏳1Y](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
+- [Relay on Rails Starter Kit ★39 ⏳2Y](https://github.com/nethsix/relay-on-rails) - A barebones starter kit for Relay application on Rails server. Just clone and tweak!
 
 ## Scala
 - [`sangria-relay` ★58](https://github.com/sangria-graphql/sangria-relay) - Relay support for [Sangria](http://sangria-graphql.org).

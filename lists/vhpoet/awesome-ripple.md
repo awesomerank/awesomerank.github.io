@@ -87,7 +87,7 @@ Pull requests are more then welcome.
 - [rippled-historical-database ★29](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
 - [ripple-data-api ★44 ⏳1Y](https://github.com/ripple/ripple-data-api)
 - [ripple-vault-client](ripple-vault-client)
-- [federation-php ★9 ⏳3Y](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
+- [federation-php ★9 ⏳4Y](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
 - [federation-python ★2 ⏳3Y](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
 - [Ripple Rails ★3 ⏳4Y](https://github.com/singpolyma/ripple-rails)
 - [Ripple Gen ★19 ⏳4Y](https://github.com/CodeShark/RippleGen)

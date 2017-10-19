@@ -337,6 +337,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### Profiling
 * [Glimpse](http://getglimpse.com) - Lightweight, open-source, real-time diagnostics and insights profiler for .NET.
 * [MiniProfiler ★1005](https://github.com/MiniProfiler/dotnet) - A simple but effective mini-profiler for ASP.NET websites.
+* [roslyn-analyzers ★251](https://github.com/dotnet/roslyn-analyzers) - Number of Roslyn diagnostic analyzers initially developed to help flesh out the design and implementation of the static analysis APIs.
 
 ### Queue and Messaging
 * [emitter](https://emitter.io/) - Free open source real-time messaging service that connects all devices. This publish-subscribe messaging API is built for speed and security.
@@ -354,7 +355,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [Tossit ★21](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ### Scheduler and Job
-* [Chroniton.NetCore ★95](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.
+* [Chroniton.NetCore ★95 ⏳1Y](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.
 * [FluentScheduler ★1043](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
 * [HangfireIO ★3034](https://github.com/HangfireIO/Hangfire) - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
 * [LiquidState ★82](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET

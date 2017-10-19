@@ -80,7 +80,7 @@ List of content
 	* [Druid ★5558](https://github.com/druid-io/druid) Column oriented distributed data store ideal for powering interactive applications
 	* [Riak-TS](http://basho.com/products/riak-ts/) Riak TS is the only enterprise-grade NoSQL time series database optimized specifically for IoT and Time Series data
 	* [Akumuli ★301](https://github.com/akumuli/Akumuli) Akumuli is a numeric time-series database. It can be used to capture, store and process time-series data in real-time. The word "akumuli" can be translated from esperanto as "accumulate".
-	* [Rhombus ★121 ⏳2Y](https://github.com/Pardot/Rhombus) A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
+	* [Rhombus ★121 ⏳3Y](https://github.com/Pardot/Rhombus) A time-series object store for Cassandra that handles all the complexity of building wide row indexes.
 	* [Dalmatiner DB ★515](https://github.com/dalmatinerdb/dalmatinerdb) Fast distributed metrics database
 	* [Blueflood ★545](https://github.com/rackerlabs/blueflood) A distributed system designed to ingest and process time series data
 	* [Timely ★203](https://github.com/NationalSecurityAgency/timely) Timely is a time series database application that provides secure access to time series data based on Accumulo and Grafana.

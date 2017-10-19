@@ -653,7 +653,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [phoenix_linguist ★13 ⏳1Y](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
 * [phoenix_live_reload ★86](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 * [phoenix_pubsub_postgres ★23 ⏳2Y](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
-* [phoenix_pubsub_rabbitmq ★32 ⏳1Y](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
+* [phoenix_pubsub_rabbitmq ★32 ⏳2Y](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
 * [phoenix_pubsub_redis ★67](https://github.com/phoenixframework/phoenix_pubsub_redis) - The Redis PubSub adapter for the Phoenix framework.
 * [phoenix_pubsub_vernemq ★22 ⏳2Y](https://github.com/larshesel/phoenix_pubsub_vernemq) - The VerneMQ MQTT pubsub adapter for the Phoenix framework.
 * [phoenix_slime ★162](https://github.com/slime-lang/phoenix_slime) - Slim template support for Phoenix.
