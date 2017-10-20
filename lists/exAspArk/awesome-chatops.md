@@ -221,7 +221,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Skyweb
 
-* [Hubot](https://hubot.github.com/) + [adapter ★8](https://github.com/EllisV/hubot-skyweb) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★8 ⏳1Y](https://github.com/EllisV/hubot-skyweb) (CoffeeScript, Node.js)
 
 ### Slack
 

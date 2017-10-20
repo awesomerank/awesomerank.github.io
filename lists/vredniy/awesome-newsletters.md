@@ -20,6 +20,57 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/graphs/contributors).
 
 
+- [Frontend](#frontend)
+  - [General Web Development](#general-web-development)
+  - [JavaScript](#javascript)
+    - [React](#react)
+    - [AngularJS](#angularjs)
+    - [EmberJS](#emberjs)
+    - [VueJS](#vuejs)
+  - [Data Visualization](#data-visualization)
+  - [CSS](#css)
+  - [Design](#design)
+  - [HTML5](#html5)
+  - [SVG](#svg)
+- [Programming](#programming)
+  - [Common Section](#common-section)
+  - [ObjectiveC](#objectivec)
+  - [C](#c)
+  - [Node.js](#nodejs)
+  - [Swift](#swift)
+  - [Go](#go)
+  - [R](#r)
+  - [Ruby](#ruby)
+  - [PHP](#php)
+  - [Python](#python)
+  - [Groovy](#groovy)
+  - [Perl](#perl)
+  - [Elixir](#elixir)
+  - [Clojure](#clojure)
+  - [Haskell](#haskell)
+  - [Elm](#elm)
+  - [Rust](#rust)
+  - [C++](#c)
+  - [Scala](#scala)
+  - [Java](#java)
+- [Editors](#editors)
+  - [Vim](#vim)
+- [Databases](#databases)
+  - [PostgreSQL](#postgresql)
+  - [MySQL](#mysql)
+  - [Redis](#redis)
+  - [NoSQL](#nosql)
+- [Backend Development](#backend-development)
+  - [Docker](#docker)
+  - [Devops](#devops)
+  - [Cloud Development](#cloud-development)
+- [Mobile](#mobile)
+- [Artificial Intelligence / Machine Learning / Big Data](#artificial-intelligence--machine-learning--big-data)
+- [Technology in General](#technology-in-general)
+- [Business/Finance](#businessfinance)
+- [Awesome news](#awesome-news)
+- [Etc.](#etc)
+- [License](#license)
 
 ## Frontend
 * [SitePoint](https://www.sitepoint.com/newsletter/). [Archive](https://www.sitepoint.com/newsletter-archive/).
@@ -95,6 +146,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [Web Animation Weekly](http://webanimationweekly.com/). A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
 * [Design Systems News](https://designsystems.curated.co/). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide. [Archive](https://designsystems.curated.co/issues).
 * [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
+* [Design Systems Weekly](https://designsystems.email/). Get the latest on how others are building, scaling and preventing entropy in their design systems delivered to your inbox.
 
 ### HTML5
 * [FrontEnd Focus](https://frontendfoc.us). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.

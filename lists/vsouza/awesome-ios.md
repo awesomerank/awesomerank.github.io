@@ -966,7 +966,7 @@ Also see [push notifications](#push-notifications)
 * [Reach ★418](https://github.com/Isuru-Nanayakkara/Reach) - A simple class to check for internet connection availability in Swift. :large_orange_diamond:
 * [SwiftHTTP ★1694](https://github.com/daltoniam/SwiftHTTP) - Thin wrapper around NSURLSession in swift. Simplifies HTTP requests. :large_orange_diamond:
 * [Netdiag ★61](https://github.com/qiniu/iOS-netdiag) - A network diagnosis library. Support Ping/TcpPing/Rtmp/TraceRoute/DNS/external IP/external DNS.
-* [AFNetworkingHelper ★17 ⏳2Y](https://github.com/betacraft/AFNetworkingHelper) - A custom wrapper over AFNetworking library that we use inside RC extensively
+* [AFNetworkingHelper ★17 ⏳3Y](https://github.com/betacraft/AFNetworkingHelper) - A custom wrapper over AFNetworking library that we use inside RC extensively
 * [NetKit ★4](https://github.com/azizuysal/NetKit) - A Concise HTTP Framework in Swift. :large_orange_diamond:
 * [RealReachability ★2410](https://github.com/dustturtle/RealReachability) - We need to observe the REAL reachability of network. That's what RealReachability do.
 * [MonkeyKing ★1860](https://github.com/nixzhu/MonkeyKing) - MonkeyKing helps you post messages to Chinese Social Networks. :large_orange_diamond:
@@ -1770,7 +1770,7 @@ Most of these are paid services, some have free tiers.
 * [JTMaterialTransition ★882](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design.
 * [AnimatedTransitionGallery ★2220](https://github.com/shu223/AnimatedTransitionGallery) - Collection of iOS 7 custom animated transitions using UIViewControllerAnimatedTransitioning protocol.
 * [TransitionTreasury ★1896](https://github.com/DianQK/TransitionTreasury) - Easier way to push your viewController. :large_orange_diamond:
-* [Presenter ★9](https://github.com/muukii/Presenter) - Screen transition with safe and clean code.  :large_orange_diamond:
+* [Presenter ★9 ⏳1Y](https://github.com/muukii/Presenter) - Screen transition with safe and clean code.  :large_orange_diamond:
 * [Kaeru ★414](https://github.com/bannzai/Kaeru) - Switch viewcontroller like iOS task manager :large_orange_diamond:
 * [View2ViewTransition ★770](https://github.com/naru-jpn/View2ViewTransition) - Custom interactive view controller transition from one view to another view. :large_orange_diamond:
 * [AZTransitions ★363](https://github.com/azimin/AZTransitions) - API to make great custom transitions in one method. :large_orange_diamond:
@@ -2256,7 +2256,7 @@ Most of these are paid services, some have free tiers.
 * [IQDropDownTextField ★234](https://github.com/hackiftekhar/IQDropDownTextField) - TextField with DropDown support using UIPickerView
 * [UITextField-Shake](https://github.com/andreamazz/UITextField-Shake) - UITextField category that adds shake animation. [Also with Swift version ★13](https://github.com/King-Wizard/UITextField-Shake-Swift) :large_orange_diamond:
 * [HTYTextField ★223](https://github.com/hanton/HTYTextField) - A UITextField with bouncy placeholder. :large_orange_diamond:
-* [MVAutocompletePlaceSearchTextField ★66 ⏳1Y](https://github.com/TheMrugraj/MVAutocompletePlaceSearchTextField) - A drop-in Autocompletion control for Place Search like Google Places, Uber, etc.
+* [MVAutocompletePlaceSearchTextField ★66 ⏳2Y](https://github.com/TheMrugraj/MVAutocompletePlaceSearchTextField) - A drop-in Autocompletion control for Place Search like Google Places, Uber, etc.
 * [AutocompleteField ★652](https://github.com/filipstefansson/AutocompleteField) - Add word completion to your UITextFields. :large_orange_diamond:
 * [RSKGrowingTextView ★507](https://github.com/ruslanskorb/RSKGrowingTextView) - A light-weight UITextView subclass that automatically grows and shrinks. :large_orange_diamond:
 * [RSKPlaceholderTextView ★53](https://github.com/ruslanskorb/RSKPlaceholderTextView) - A light-weight UITextView subclass that adds support for placeholder. :large_orange_diamond:

@@ -174,7 +174,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
 - [GIFs ★586 ⏳1Y](https://github.com/orta/GIFs) - Mac App for finding GIFs
 - [VineGifR ★87 ⏳4Y](https://github.com/esten/VineGifR) - Mac app to turn Vine videos into GIFs
-- [GifPro ★42 ⏳5Y](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
+- [GifPro ★42 ⏳6Y](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
 - [Gif Maker](https://gifmaker.movielala.com) - High quailty GIF maker with filters for Mac
 - [AnimatedGif ★39](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
 

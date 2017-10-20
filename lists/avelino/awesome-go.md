@@ -1093,7 +1093,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 
 * Specific Formats
     * [align ★29](https://github.com/Guitarbum722/align) - A general purpose application that aligns text.
-    * [allot ★21](https://github.com/sbstjn/allot) - Placeholder and wildcard text parsing for CLI tools and bots.
+    * [allot ★21 ⏳1Y](https://github.com/sbstjn/allot) - Placeholder and wildcard text parsing for CLI tools and bots.
     * [bbConvert ★2 ⏳1Y](https://github.com/CalebQ42/bbConvert) - Converts bbCode to HTML that allows you to add support for custom bbCode tags.
     * [blackfriday ★2639](https://github.com/russross/blackfriday) - Markdown processor in Go.
     * [bluemonday ★741](https://github.com/microcosm-cc/bluemonday) - HTML Sanitizer.

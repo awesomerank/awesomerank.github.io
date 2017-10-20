@@ -508,7 +508,7 @@ AWS Repos:
 * [aws-codepipeline-jenkins-aws-codedeploy_linux ★12](https://github.com/awslabs/aws-codepipeline-jenkins-aws-codedeploy_linux) - Four-stage pipeline for Linux.
 * [aws-codepipeline-plugin-for-jenkins ★51](https://github.com/awslabs/aws-codepipeline-plugin-for-jenkins) - Jenkins plugin.
 * [aws-codepipeline-s3-aws-codedeploy_linux ★12](https://github.com/awslabs/aws-codepipeline-s3-aws-codedeploy_linux) - Simple pipeline for Linux.
-* [AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows ★4 ⏳1Y](https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows) - Four-stage pipeline for Windows.
+* [AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows ★4 ⏳2Y](https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows) - Four-stage pipeline for Windows.
 * [AWSCodePipeline-S3-AWSCodeDeploy_Windows ★5 ⏳2Y](https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows) - Simple pipeline for Windows.
 
 Community Repos:

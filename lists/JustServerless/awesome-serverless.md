@@ -1581,6 +1581,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [API docs ★1](https://github.com/8select/serverless-plugin-api-docs) - Automatically create a Lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.
 - [SSM fetch ★3](https://github.com/gozup/serverless-ssm-fetch) - Sets SSM parameters into function environment variables.
 - [Secrets ★26](https://github.com/serverless/serverless-secrets-plugin) - Plugin to manage Secrets.
+- [State manager ★3](https://github.com/jeremydaly/serverless-stage-manager) - Super simple plugin for validating stage names before deployment.
 
 ## Literature / Education
 

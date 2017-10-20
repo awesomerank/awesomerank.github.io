@@ -16,6 +16,29 @@ layout: default
 
 A curated list of podcasts we like to listen to.
 
+# Table of Contents
+
+## Podcasts by language
+
+- [English](#in-english)
+- [Portuguese](#in-portuguese)
+- [Spanish](#in-spanish)
+- [Russian](#in-russian)
+- [Persian](#in-persian)
+- [Swedish](#in-swedish)
+- [French](#in-french)
+- [German](#in-german)
+- [Chinese](#in-chinese)
+- [Polish](#in-polish)
+- [Turkish](#in-turkish)
+- [Finnish](#in-finnish)
+- [Japanese](#in-japanese)
+
+## Other information
+
+- [Tooling](#tooling)
+- [More](#more)
+
 ## In English
 
 * [.NET Rocks!](http://www.dotnetrocks.com/) - The internet audio talk show for .NET developer with Carl Franklin and Richard Campbell.
@@ -81,7 +104,10 @@ A curated list of podcasts we like to listen to.
 * [HaskellCast](http://www.haskellcast.com/) — A podcast for Haskell developers working in industry.
 * [Hello Internet](http://www.hellointernet.fm/) - Science youtubers CGP Grey and Brady Haran discuss everything from flag design to Star Wars.
 * [HTTP 203](https://developers.google.com/web/shows/http203/) -  In each show Jake and Paul pick a hot topic in the world of web development and discuss the various aspects of it, meanwhile dropping in lifehacks, lessons and some rather honest truths.
+* [Iron Sysadmin](https://www.undrground.org/ironsysadmin) - A Podcast by real world sysadmins, for real world sysadmins.
+* [IRL: Because Online Life Is Real Life](https://irlpodcast.org/) - Host Veronica Belmont shares real stories of life online and real talk about the future of the Web. IRL is an original podcast from Mozilla.
 * [JavaScript Air](https://javascriptair.com/) - The live broadcast podcast all about JavaScript.
+* [Javascript to Elm](http://jstoelm.com/) - A podcast about using Elm coming from Javascript and other languages.
 * [Laravel News Podcast](http://podcast.laravel-news.com/) - The Laravel News Podcast brings you all the latest news and events related to Laravel.
 * [Linear Digressions](http://www.lineardigressions.com) - Explores topics of data science and machine learning in an accessible way through real-world stories and examples.
 * [Linux Outlaws](http://sixgun.org/linuxoutlaws) - About anything that runs on Linux, about open source software on other platforms and many other things.
@@ -96,6 +122,7 @@ A curated list of podcasts we like to listen to.
 * [Note To Self](http://www.wnyc.org/shows/notetoself/) - Host Manoush Zomorodi talks with everyone from big name techies to elementary school teachers about the effects of technology on our lives, in a quest for the smart choices that will help you think and live better.
 * [Office 365 Developer Podcast](http://blogs.office.com/) - The only show focused on Office 365 development where we talk to the experts from all over the globe coding on the Office 365 platform.
 * [Open Source System Podcast](http://opensourcesystempodcast.vf.io/) - Latest open source projects and news!
+* [Packet Pushers](http://packetpushers.net/) - About data networking by network architects. Deeply technical & unabashedly nerdy.
 * [Partially Derivative](http://www.partiallyderivative.com/) - A podcast about Data, Nerdiness, and Beer.
 * [PHP Round Table](https://www.phproundtable.com/) - The PHP Roundtable is a casual gathering of developers discussing topics that PHP nerds care about.
 * [PHP Town Hall](http://phptownhall.com/) - Town Hall a way for PHP developers to raise questions about current events (or upcoming things) in the PHP community, with different guests each week.
@@ -122,7 +149,9 @@ A curated list of podcasts we like to listen to.
 * [StarTalk Radio](http://www.startalkradio.net/shows-archive/) - Program devoted to all things space and is hosted by renowned astrophysicist Neil deGrasse Tyson.
 * [Sword & Laser](http://swordandlaser.com/) - The Sword and Laser (S&L) is a science fiction and fantasy-themed book club, video show and podcast, started by Veronica Belmont and Tom Merritt.
 * [Start Here FM](http://dain.io/startherefm/) - An informative and up-to-date podcast on creating a business with Web Development.
+* [SYFY25 Origin Stories](http://www.syfy.com/syfywire/podcast-episodes/) - Adam Savage sits down with creators, thought-leaders, and celebrity fans to discuss the moments, people, and milestones that have changed the genre universe forever; a nostalgic celebration of all things science fiction.
 * [Syntax FM](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers.
+* [Sysadministrivia](https://sysadministrivia.com/) - Linux, Lagers, and Late Nights.
 * [Syscast Podcast](http://podcast.sysca.st/) - Talking Linux, open source, web development and system administration (DevOps).
 * [Talking Code](http://www.talkingcode.com/) - Short expert interviews that help you _decode_ what developers are saying.
 * [Talking Kotlin](http://talkingkotlin.com/) - A bimonthly podcast on Kotlin and more hosted by Hadi Hariri.
@@ -151,6 +180,7 @@ A curated list of podcasts we like to listen to.
 * [The Manifest](https://manifest.fm) - A podcast all about package management.
 * [The Music Makers](http://musicmakers.fm) - The best articles from around the web, curated and read to you.
 * [The Path to Performance](https://pathtoperf.com/) - A podcast for everyone dedicated to making websites faster.
+* [The Ship Show](http://theshipshow.com/) - Build engineering, DevOps, release management & everything in between!
 * [The Stack Overflow Podcast](https://stackoverflow.blog/podcasts/) - A weekly podcast about developers and the Stack Overflow community.
 * [The Web Ahead](http://5by5.tv/webahead) - Conversations with world experts on changing technologies and future of the web. The Web Ahead is your shortcut to keeping up.
 * [The Web Platform Podcast](http://thewebplatform.libsyn.com/) - A weekly show that dives deep into all things web from the developers building the platform today.
@@ -208,6 +238,7 @@ A curated list of podcasts we like to listen to.
 * [WeDevelopers](http://wedevelopers.com/) - Podcast de developers (algunos episodios en inglés / some podcasts in English).
 
 ## In Russian
+
 * [DevZen Podcast](http://devzen.ru/) - Podcast about programming, IT and related topics.
 * [How to make games](http://galyonkin.com/podcast/) - Podcast about video games and video games industry.
 * [RWPod](http://www.rwpod.com/) - Podcast about world of Ruby and Web technologies.
@@ -220,19 +251,23 @@ A curated list of podcasts we like to listen to.
 * [GoLang Show](https://golangshow.com/) - Podcast about Go language.
 
 ## In Persian
+
 * [RadioGeek](http://jadi.net/podcast/) - Yet another podcast for wandering geeks in the intersection of society and technology.
 * [Shir Ya Khat](http://shiryakhat.net/) - The first Blockchain Podcast dedicated to Iranians and Farsi speaking communities. We talk about Bitcoin, Blockchain assets and decentralization ideaology.
 
 ## In Swedish
+
 * [Kodsnack](http://kodsnack.se) - Weekly Swedish podcast about all things code, for coders. Hosted by Fredrik Björeman, Tobias Hieta and Kristoffer Grönlund, with occasional guests.
 
 ## In French
+
 * [Blogue Linux](http://www.bloguelinux.ca/) - French (Quebec) podcast talking about Linux technologies.
 * [La Dev Team](http://www.radiokawa.com/jeux-video/la-dev-team/) - Monthly podcast hosted by developers and talking about the video game industry.
 * [Le comptoir sécu](http://www.comptoirsecu.fr) — Bimensual podcasts about security, welcoming an expert for each subject. Hosted by Justin Ganivet, Morgan Hotonnier, Youenn Piolet, Loïs Samain.
 * [Visual Studio Talk Show](http://visualstudiotalkshow.libsyn.com/) - French podcast talking about development with Microsoft technologies. Hosted by Mario Cardinal and Guy Barrette.
 
 ## In German
+
 * [Apfelfunk](http://apfelfunk.com/) - Weekly podcast about everything that's related to Apple.
 * [Freak Show](http://freakshow.fm/) - Tech podcast, normally published every two weeks. Mostly Apple, Bitcoin and podcasting.
 * [GeekWeek](http://geek-week.de/) - Weekly tech podcast hosted by Frederic Lardinois in the USA, Jean-Claude Frick in Switzerland und Marcus Schuler in Germany. Main topics are 'web' and 'mobile' news.

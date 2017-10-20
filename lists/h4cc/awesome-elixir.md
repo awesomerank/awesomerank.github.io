@@ -1233,7 +1233,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [hypermock ★23 ⏳1Y](https://github.com/stevegraham/hypermock) - HTTP request stubbing and expectation Elixir library.
 * [ignorant ★9 ⏳1Y](https://github.com/campezzi/ignorant) - Partial `Map` comparison that ensures fields are present while ignoring their values.
 * [katt ★41](https://github.com/for-GET/katt) - KATT (Klarna API Testing Tool) is an HTTP-based API testing tool for Erlang.
-* [kovacs ★5 ⏳2Y](https://github.com/antp/kovacs) - A simple ExUnit test runner.
+* [kovacs ★5 ⏳3Y](https://github.com/antp/kovacs) - A simple ExUnit test runner.
 * [meck ★522](https://github.com/eproxus/meck) - A mocking library for Erlang.
 * [mix_erlang_tasks ★9](https://github.com/alco/mix-erlang-tasks) - Common tasks for Erlang projects that use Mix.
 * [mix_eunit ★6](https://github.com/dantswain/mix_eunit) - A Mix task to execute eunit tests.

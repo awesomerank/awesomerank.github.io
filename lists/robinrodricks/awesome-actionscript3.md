@@ -256,7 +256,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [SaladoPlayer ★93 ⏳2Y](https://github.com/mstandio/SaladoPlayer) - Panorama viewer.
 * [PanoramicViewer ★1 ⏳5Y](https://github.com/BrianMehrman/PanoramicViewer) - 3D Panoramic Viewer.
 * [Sphere_panorama ★1 ⏳5Y](https://github.com/suzumura-ss/flash_sphere_panorama) - Panorama player with equirectangular texture written in AS3 (Alternativa3D).
-* [CuTy ★10 ⏳2Y](https://github.com/fieldOfView/CuTy) - QTVR Panorama viewer based on Flash 10.
+* [CuTy ★10 ⏳3Y](https://github.com/fieldOfView/CuTy) - QTVR Panorama viewer based on Flash 10.
 
 #### QR Code
 

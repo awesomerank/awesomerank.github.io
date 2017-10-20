@@ -597,7 +597,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vectr](https://vectr.com/new) - A free vector graphics software
   - [brain bits ★38](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
   - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
-
+  - [Habitaca](https://habitica.com/) - online task management application in  the form of a role-playing game.
+  
 ### Interactive Experiences
 
  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/)
@@ -1020,6 +1021,7 @@ Tooltips / popovers
  - [vue-at ★129](https://github.com/fritx/vue-at) - At.js for Vue.
  - [vue-wysiwyg ★61](https://github.com/chmln/vue-wysiwyg) Lightweight, fast & extensible WYSIWYG editor
  - [vue-trumbowyg ★16](https://github.com/ankurk91/vue-trumbowyg) Vue.js component for [Trumbowyg](http://alex-d.github.io/Trumbowyg/) WYSIWYG editor
+ - [vue-pell-editor ★1](https://github.com/CinKon/vue-pell-editor) Vue.js component for [Pell](https://jaredreich.com/pell) WYSIWYG editor
 
 #### Image Manipulation
 
@@ -1065,7 +1067,8 @@ Tooltips / popovers
  - [vue-ripple-directive ★81](https://github.com/PygmySlowLoris/vue-ripple-directive) - Material Ripple Effect as Vue Directive.
  - [vue-fab ★35](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button.
  - [vue-complexify ★2](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js.
-
+ - [vue-mc ★56](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
+ 
 #### Wizard
 
  - [vue-form-wizard ★243](https://github.com/cristijora/vue-form-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards
@@ -1391,7 +1394,7 @@ the amazing Vue.js.
  - [vue-ya-stash ★16](https://github.com/qgp9/vue-ya-stash) - Yet Another stash storage with update/patch event emitters simillar with v-bind.sync
  - [vue-assign-model ★1](https://github.com/midnightSuyama/vue-assign-model) - Automatically assign elements value to model for Vue.js.
  - [vue-stash ★244](https://github.com/cklmercer/vue-stash) - Easily share reactive data between your Vue components.
-
+ - [vue-mc ★56](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
 
 #### Redux
 
@@ -1587,7 +1590,7 @@ Payment utilities.
 
 *Load Vue components without browser*
 
- - [vuegister ★11](https://github.com/iatsiuk/vuegister) - Vuegister (an acronym for vue-register) is a require hook for loading of the Vue.js single-file components (or .vue files).
+ - [vuegister ★11](https://github.com/iatsiuk/vuegister) - Vuegister (a portmanteau of vue & register) is a require hook for loading of the Vue.js single-file components (or .vue files).
  - [vue-node ★54](https://github.com/knpwrs/vue-node) - Load vue components in node.
 
 ### Source Code Editing
@@ -1659,6 +1662,7 @@ Payment utilities.
  - [vue-starter ★29](https://github.com/rohitkrai03/vue-starter) - A Vue.js starter kit that lets you focus on more programming and less configuration.
  - [vue-standalone-component ★10](https://github.com/InCuca/vue-standalone-component) - A standalone component generator with documentation support using jsdoc and vue-styleguidist
  - [vuejs-wordpress-theme-starter ★51](https://github.com/EvanAgee/vuejs-wordpress-theme-starter) - A WordPress theme with the guts ripped out and replaced with Vue
+ - [Cordovue ★36](https://github.com/TheMushrr00m/cordovue) - A sample Apache Cordova application using Vue. 
 
 ### Client
 

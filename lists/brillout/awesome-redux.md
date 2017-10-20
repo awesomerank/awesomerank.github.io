@@ -56,7 +56,7 @@ title: Awesome Rank for brillout/awesome-redux
  - [redux-requests ★232 ⏳2Y](https://github.com/idolize/redux-requests) - Manages in-flight requests with a Redux reducer to avoid issuing duplicate requests.
  - [redux-undo ★1573](https://github.com/omnidan/redux-undo) - Higher order reducer to add undo/redo functionality to Redux state containers.
  - [redux-bug-reporter ★509](https://github.com/dtschust/redux-bug-reporter) - Bug reporter and bug playback tool for Redux.
- - [redux-transducers ★118 ⏳1Y](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
+ - [redux-transducers ★118 ⏳2Y](https://github.com/acdlite/redux-transducers) - Transducer utilities for Redux.
 
 
 ### Store Persistence

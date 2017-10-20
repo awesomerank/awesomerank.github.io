@@ -149,7 +149,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 * [Vim tab completion for RubyMotion](http://crypt.codemancers.com/posts/2013-05-01-vim-tabcompletion-for-rubymotion/) - a quick rundown on setting up tab completion in vim for RubyMotion.
 * [Atom-objc-2-rubymotion ★4 ⏳2Y](https://github.com/ahmetabdi/atom-objc-2-rubymotion) - Objective-C to RubyMotion converter for atom.
 * [Emacs motion-mode.el ★40 ⏳3Y](https://github.com/ainame/motion-mode) - a package to provide emacs' major mode for RubyMotion enviroment.
-* [SublimeRubyMotionBuilder ★159](https://github.com/RubyMotionJP/SublimeRubyMotionBuilder) - Sublime Text 2 and 3 plugin to simplify RubyMotion developing.
+* [SublimeRubyMotionBuilder ★159 ⏳1Y](https://github.com/RubyMotionJP/SublimeRubyMotionBuilder) - Sublime Text 2 and 3 plugin to simplify RubyMotion developing.
 * [RubyMine & RubyMotion](https://www.jetbrains.com/ruby/help/rubymotion.html) - RubyMine integrates with RubyMotion and helps create applications for iOS.
 
 

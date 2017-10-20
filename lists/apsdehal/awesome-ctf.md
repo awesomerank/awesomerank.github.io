@@ -114,6 +114,7 @@ Check solve section for steganography.
 - [FeatherDuster ★519](https://github.com/nccgroup/featherduster) - An automated, modular cryptanalysis tool
 - [Hash Extender ★323](https://github.com/iagox86/hash_extender) - A utility tool for performing hash length extension attacks
 - [PkCrack](https://www.unix-ag.uni-kl.de/~conrad/krypto/pkcrack.html) - A tool for Breaking PkZip-encryption
+- [RSACTFTool ★184](https://github.com/Ganapati/RsaCtfTool) - A tool for recovering RSA private key with various attack
 - [RSATool ★182](https://github.com/ius/rsatool) - Generate private key with knowledge of p and q
 - [XORTool ★483](https://github.com/hellman/xortool) - A tool to analyze multi-byte xor cipher
 

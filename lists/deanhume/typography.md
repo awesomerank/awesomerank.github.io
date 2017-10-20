@@ -46,6 +46,7 @@ A curated collection of awesome web typography articles.
 - [Animated Typographic Cheat Sheet](https://www.supremo.tv/typeterms/)
 - [Typography for User Interfaces](https://viljamis.com/2016/typography-for-user-interfaces/)
 - [Loading Web Fonts Asynchronously](https://calendar.perfplanet.com/2016/loading-web-fonts-asynchronously/)
+- [Font-size: An Unexpectedly Complex CSS Property](https://manishearth.github.io/blog/2017/08/10/font-size-an-unexpectedly-complex-css-property/)
 
 ## Web Fonts & Web Performance
 - [Controlling Font Performance with font-display](https://developers.google.com/web/updates/2016/02/font-display)
@@ -86,7 +87,7 @@ A curated collection of awesome web typography articles.
 - [Mixfont](https://www.mixfont.com/)
 - [Font Combinations](https://www.canva.com/font-combinations/)
 - [Google web fonts in action](http://femmebot.github.io/google-type/)
-- [Beautiful Web Type](http://chad.is/beautiful-web-type/)
+- [Beautiful Web Type](http://beautifulwebtype.com/)
 - [Google Font Combinations](https://briangardner.com/google-font-combinations/)
 - [Top 5 Google Fonts](http://techdissected.com/web-and-computing/design/top-5-google-font-combinations/)
 - [100 Days of Fonts](http://100daysoffonts.com/)

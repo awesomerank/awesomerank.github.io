@@ -173,7 +173,7 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 * [CLinch ★201](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39].
 * [donuts ★12](https://github.com/tkych/donuts) - Graph drawing DSL for Common Lisp. [Expat][14].
 * [lispbuilder-sdl ★88](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat][14].
-* [okra ★20 ⏳2Y](https://github.com/aerique/okra) - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD][15].
+* [okra ★20 ⏳3Y](https://github.com/aerique/okra) - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD][15].
 * [Varjo ★100](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. Not available on Quicklisp. [LLGPL][8].
 * [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
 * [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD][39].

@@ -230,6 +230,7 @@ These frameworks make customizing your zsh setup easier.
 * [apache2.plugin.zsh ★3 ⏳1Y](https://github.com/voronkovich/apache2.plugin.zsh) - Adds aliases and functions for managing Apache2.
 * [asciidoctor ★1](https://github.com/sparsick/asciidoctor-zsh) - A plugin for AsciiDoctor.
 * [atom_plugin.zsh ★1 ⏳1Y](https://github.com/kingsj/atom_plugin.zsh) - A plugin for the Atom editor on macOS.
+* [atom-plugin ★0](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) - A plugin for Oh My Zsh that lets you launch a file or folder in Atom from iTerm2. It's based on the Sublime plugin. Only supports macOS.
 * [auto-fu.zsh ★337](https://github.com/hchbaw/auto-fu.zsh) - Automatic complete-word and list-choices. Originally incr-0.2.zsh by y.fujii <y-fujii at mimosa-pudica.net>.
 * [auto-ls ★8](https://github.com/desyncr/auto-ls) - Automatically `ls` when cding to a new directory.
 * [autoenv](https://github.com/horosgrisa/autoenv) - Extended version of the zsh-autoenv plugin.
@@ -589,7 +590,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [ciacho ★1 ⏳1Y](https://github.com/Ciacho/ciacho-ohmyzsh-theme) - Based on Agnoster.
 * [clarity ★0](https://github.com/octarect/clarity.zsh) - Designed for for simpleness and extensibility.
 * [classyTouch ★20](https://github.com/yarisgutierrez/classyTouch_oh-my-zsh) - Minimal, clean theme with git support.
-* [clean ★0](https://github.com/akz92/clean) - Minimalist ZSH theme.
+* [clean ★0 ⏳1Y](https://github.com/akz92/clean) - Minimalist ZSH theme.
 * [cloudy ★23](https://github.com/Huvik/Cloudy) - Minimal cloudy ZSH theme.
 * [cmder ★5](https://github.com/potasiyam/cmder-zsh-theme) - A ZSH theme that matches the theme of Cmder, a popular terminal emulator for windows.
 * [cobalt2 ★610](https://github.com/wesbos/Cobalt2-iterm) - Wes Bos' Cobalt 2 theme for ZSH and iTerm 2.
@@ -744,7 +745,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [ultimate ★6](https://github.com/b4b4r07/ultimate) - Minimalist theme with git indicator, vim mode indicator and shortened path.
 * [vanan ★0](https://github.com/avano/vanan-zsh-theme) - Minimalist theme with git information for dark terminals.
 * [vinhnx ★7 ⏳3Y](https://github.com/vinhnx/vinhnx.zsh-theme) - Modified from themes/mgutz.zsh-theme.Looks great when using with Solarized color scheme.
-* [vira ★0](https://github.com/FernandoTorres/omz-vira) - An update of the bira theme that shows the vim bindkey -v status.
+* [vira ★0 ⏳1Y](https://github.com/FernandoTorres/omz-vira) - An update of the bira theme that shows the vim bindkey -v status.
 * [wang-iterm-zsh ★5 ⏳1Y](https://github.com/0532/wang-iterm-zsh) - Based on the 0532 theme.
 * [wild-cherry ★301](https://github.com/mashaal/wild-cherry) - A fairy-tale inspired theme for ZSH, iTerm, Sublime, Atom, & Mou.
 * [work-line ★5](https://github.com/afnizarnur/work-line) - Theme with nice emojis.

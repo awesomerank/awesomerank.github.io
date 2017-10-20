@@ -105,6 +105,7 @@ Table of Contents
   * [wistia.com](http://wistia.com/) — Video hosting with viewer analytics, HD video delivery and marketing tools to help understand your visitors, 25 videos and Wistia branded player
   * [cnverg.com](http://cnverg.com/) — Real-time shared visual workspace, whiteboard, GitHub integration. Free 5 GB, 5 spaces and 5 collaborators, no GitHub repos
   * [flock.com](https://flock.com) — A faster way for your team to communicate. Free Unlimited Messages, Channels, Users, Apps & Integrations
+  * [Igloo](https://www.igloosoftware.com/) — Internal portal for sharing documents, blogs and calendars etc. Free for up to 10 users.
 
 ## Code Quality
 
@@ -616,6 +617,7 @@ Table of Contents
   * [readme.io](https://readme.io/) — Beautiful documentations made easy, free for Open Source
   * [formaholic.com](https://formaholic.com) — Simple form endpoint. Perfect for static sites
   * [http2.pro](https://http2.pro) — HTTP/2 protocol readiness test and client HTTP/2 support detection API.
+  * [Formspree.io](https://formspree.io/) — Send email using an HTTP POST request. Free tier limits to 1000 submissions per month and must expose email address in the API call. 
   * [Typeform.com](https://www.typeform.com/) — Include a beautifully designed forms on websites.  Free plan allows only 10 fields per form and 100 responses per month.
   * [SurveyMonkey.com](https://www.surveymonkey.com) — Create online surveys. Analyze the results online.  Free plan allows only 10 questions and 100 responses per survey.
 

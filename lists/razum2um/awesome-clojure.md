@@ -235,7 +235,7 @@ title: Awesome Rank for razum2um/awesome-clojure
 
   * [core.match ★790](https://github.com/clojure/core.match)
   * [Verbal-Exprejon ★90 ⏳1Y](https://github.com/GuillaumeBadi/Verbal-Exprejon)
-  * [defun ★336](https://github.com/killme2008/defun)
+  * [defun ★336 ⏳1Y](https://github.com/killme2008/defun)
   * [cats.match ★30](https://github.com/zalando/cats.match)
   * [Akar ★152](https://github.com/missingfaktor/akar)
 
