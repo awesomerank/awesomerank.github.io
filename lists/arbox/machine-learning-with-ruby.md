@@ -149,7 +149,7 @@ programming languages with appropriate bindings for Ruby.
   Pure Ruby implementation of Natural Evolution Strategy algorithms
   (black-box optimization), specifically Exponential NES (XNES) and
   Separable NES (sNES). Application to neural network training (neuroevolution).
-- [simple_ga ★0](https://github.com/giuse/simple_ga) -
+- [simple_ga ★0 ⏳1Y](https://github.com/giuse/simple_ga) -
   Simplest Genetic Algorithms implementation in Ruby.
 
 ### Bayesian methods
@@ -305,7 +305,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 
 - [Wine Clustering ★0 ⏳3Y](https://github.com/hexgnu/wine_clustering) -
   Wine quality estimations clustered with different algorithms.
-- [simple_ga ★0](https://github.com/giuse/simple_ga) -
+- [simple_ga ★0 ⏳1Y](https://github.com/giuse/simple_ga) -
   Basic (working) demo of Genetic Algorithms in Ruby.
 
 ## Heroku buildpacks

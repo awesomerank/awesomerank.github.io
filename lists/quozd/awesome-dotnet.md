@@ -283,7 +283,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [VisualFSharp ★1136](https://github.com/Microsoft/visualfsharp) - The Visual F# compiler and tools
 * [Fable ★1050](https://github.com/fable-compiler/Fable) - F# to JavaScript Compiler
 * [LinqOptimizer ★313](https://github.com/nessos/LinqOptimizer) - An automatic query optimizer-compiler for Sequential and Parallel LINQ
-* [Roslyn-linq-rewrite ★487](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
+* [Roslyn-linq-rewrite ★487 ⏳1Y](https://github.com/antiufo/roslyn-linq-rewrite) - Compiles C# code by first rewriting the syntax trees of LINQ expressions using plain procedural code, minimizing allocations and dynamic dispatch.
 
 ## Compression
 

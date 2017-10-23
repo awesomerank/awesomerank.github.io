@@ -131,7 +131,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [pageres ★8127](https://github.com/sindresorhus/pageres) - Capture website screenshots.
 - [cpy ★140](https://github.com/sindresorhus/cpy) - Copy files.
 - [vtop ★2420](https://github.com/MrRio/vtop) - More better top, with nice charts.
-- [empty-trash ★81](https://github.com/sindresorhus/empty-trash) - Empty the trash.
+- [empty-trash ★81 ⏳1Y](https://github.com/sindresorhus/empty-trash) - Empty the trash.
 - [is-up ★261 ⏳1Y](https://github.com/sindresorhus/is-up) - Check whether a website is up or down.
 - [is-online ★318](https://github.com/sindresorhus/is-online) - Check if the internet connection is up.
 - [public-ip ★252](https://github.com/sindresorhus/public-ip) - Get your public IP address.
@@ -283,7 +283,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [columnify ★246 ⏳1Y](https://github.com/timoxley/columnify) - Create text-based columns suitable for console output. Supports cell wrapping.
 - [cli-columns ★8](https://github.com/shannonmoeller/cli-columns) - Columnated unicode and ansi-safe text lists.
 - [cfonts ★194](https://github.com/dominikwilkowski/cfonts) - Sexy ASCII fonts for the console.
-- [multispinner ★191](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
+- [multispinner ★191 ⏳1Y](https://github.com/codekirei/node-multispinner) - Multiple, simultaneous, individually controllable CLI spinners.
 - [omelette ★665](https://github.com/f/omelette) - Shell autocompletion helper.
 - [cross-env ★1750](https://github.com/kentcdodds/cross-env) - Set environment variables cross-platform.
 - [shelljs ★6636](https://github.com/shelljs/shelljs) - Portable Unix shell commands.
@@ -410,7 +410,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 	- [More…](https://github.com/sindresorhus/awesome-observables)
 - Generators
 	- [co ★8864](https://github.com/tj/co) - The ultimate generator based flow-control goodness.
-	- [bluebird-co ★80](https://github.com/novacrazy/bluebird-co) - High performance yield handlers for Bluebird coroutines.
+	- [bluebird-co ★80 ⏳1Y](https://github.com/novacrazy/bluebird-co) - High performance yield handlers for Bluebird coroutines.
 	- [iterum ★16](https://github.com/xgbuils/iterum) - Build generator pipelines using Array-like methods.
 - Streams
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
@@ -576,7 +576,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 ### Compression
 
-- [yazl ★114](https://github.com/thejoshwolfe/yazl) - Zip.
+- [yazl ★114 ⏳1Y](https://github.com/thejoshwolfe/yazl) - Zip.
 - [yauzl ★231](https://github.com/thejoshwolfe/yauzl) - Unzip.
 - [Archiver ★948](https://github.com/archiverjs/node-archiver) - Streaming interface for archive generation, supporting ZIP and TAR.
 - [pako ★1263](https://github.com/nodeca/pako) - High speed zlib port to pure js (deflate, inflate, gzip).
@@ -676,7 +676,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [Passport](http://passportjs.org) - Simple, unobtrusive authentication.
 - [everyauth ★3406 ⏳1Y](https://github.com/bnoguchi/everyauth) - Authentication and authorization (password, Facebook, etc) for your Connect and Express apps.
 - [passwordless](https://passwordless.net) - Token-based authentication middleware for Express allowing authentication without passwords.
-- [Lockit ★439 ⏳1Y](https://github.com/zemirco/lockit) - Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.
+- [Lockit ★439 ⏳2Y](https://github.com/zemirco/lockit) - Full featured authentication solution for Express. Supports a variety of databases, predefined routes, email and two-factor authentication.
 - [Grant ★1336](https://github.com/simov/grant) - OAuth middleware for Express, Koa, and Hapi.
 - [CloudRail ★220](https://github.com/CloudRail/cloudrail-si-node-sdk) - Unified API for social authentication (Facebook, Twitter, Slack, Instagram, …).
 

@@ -93,6 +93,7 @@ _Source:_ [What is Docker](https://www.docker.com/what-docker)
 
 # Where to start?
 * [Basics – Docker, Containers, Hypervisors, CoreOS](http://etherealmind.com/basics-docker-containers-hypervisors-coreos/)
+* [Dive Into Docker: From "What is Docker?" to "Hello World"](https://www.youtube.com/watch?v=XeSD17YRijk&list=PL-v3vdeWVEsXT-u0JDQZnM90feU3NE3v8) (60:25) by [@nickjanetakis][nickjanetakis]
 * [Docker Caveats](http://docker-saigon.github.io/post/Docker-Caveats/) What You Should Know About Running Docker In Production (written 11 APRIL 2016) __MUST SEE__
 * [Docker Cheat Sheet][docker-cheat-sheet] by [@wsargent][wsargent] __MUST SEE__
 * [Docker Containers on the Desktop][jessblog] - The **funniest way** to learn about docker by [@jessfraz][jessfraz] who also gave a [presentation][jessvid] about it @ DockerCon 2015 (Tips: checkout her [dotfiles][jessfrazdotfiles] and her [dockerfiles][jessfrazdockerfiles])
@@ -173,6 +174,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [Axibase Collector](https://github.com/axibase/atsd-use-cases/tree/master/Solutions/docker) - Axibase Collector streams performance counters, configuration changes and lifecycle events from the Docker engine(s) into Axibase Time Series Database for roll-up dashboards and integration with upstream monitoring systems.
 * [cAdvisor ★6296](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers. Created by [@Google](https://github.com/google)
 * [Docker-Alertd ★46](https://github.com/deltaskelta/docker-alertd) - Monitor and send alerts based on docker container resource usage/statistics
+* [Docker-Flow-Monitor ★18](https://github.com/vfarcic/docker-flow-monitor) - Reconfigures Prometheus when a new service is updated or deployed automatically by [@vfarcic][vfarcic]
 * [Docker-Fluentd][fluentd] - Docker container to Log Other Containers' Logs. One can aggregate the logs of Docker containers running on the same host using Fluentd by [@kiyoto][kiyoto]
 * [Dockerana ★188 ⏳2Y](https://github.com/dockerana/dockerana) :skull: - packaged version of Graphite and Grafana, specifically targeted at metrics from Docker.
 * [Dynatrace](https://www.dynatrace.com/technologies/cloud-and-microservices/docker-monitoring/) - Monitor containerized applications without installing agents or modifying your Run commands
@@ -202,6 +204,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [clusterdock ★10](https://github.com/clusterdock/clusterdock) - Docker container orchestration to enable the testing of long-running cluster deployments
 * [ContainerShip ★186](https://github.com/containership/containership) A simple container management platform
 * [Crane ★687](https://github.com/Dataman-Cloud/crane) - Control plane based on docker built-in swarm [@Dataman-Cloud](https://github.com/Dataman-Cloud)
+* [Docker Flow Swarm Listener ★66](https://github.com/vfarcic/docker-flow-swarm-listener) :construction: - Docker Flow Swarm Listener project is to listen to Docker Swarm events and send requests when a change occurs.. By [@vfarcic][vfarcic]
 * [gantryd ★277 ⏳1Y](https://github.com/DevTable/gantryd) :skull: - A framework for easy management of docker-based components across machines by [@DevTable](https://github.com/DevTable)
 * [Haven ★125](https://github.com/codeabovelab/haven-platform) - Haven is a simplified container management platform that integrates container, application, cluster, image, and registry managements. By [@codeabovelab](https://github.com/codeabovelab)
 * [Helios ★1845](https://github.com/spotify/helios) - A simple platform for deploying and managing containers across an entire fleet of servers by [@spotify](spotify)
@@ -233,6 +236,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 ### Reverse Proxy
 
+* [docker-flow-proxy ★489](https://github.com/vfarcic/docker-flow-proxy) - Reconfigures proxy every time a new service is deployed, or when a service is scaled. By [@vfarcic][vfarcic]
 * [docker-proxy ★169](https://github.com/silarsis/docker-proxy) :skull: - Transparent proxy for docker containers, run in a docker container. By [@silarsis](https://github.com/silarsis)
 * [fabio ★4124](https://github.com/fabiolb/fabio) - A fast, modern, zero-conf load balancing HTTP(S) router for deploying microservices managed by consul. By [@magiconair](https://github.com/magiconair) (Frank Schroeder)
 * [h2o-proxy ★36 ⏳1Y](https://github.com/zchee/h2o-proxy) :skull: - Automated H2O reverse proxy for Docker containers. An alternative to [jwilder/nginx-proxy][nginxproxy] by [@zchee](https://github.com/zchee)
@@ -329,7 +333,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [dockerize ★1397](https://github.com/jwilder/dockerize) - Utility to simplify running applications in docker containers by [@jwilder][jwilder]
 * [docker-gen ★2446](https://github.com/jwilder/docker-gen) - Generate files from docker container meta-data by [@jwilder][jwilder]
 * [GoSu ★1719](https://github.com/tianon/gosu) - Run this specific application as this specific user and get out of the pipeline (entrypoint script tool) by [@tianon](https://github.com/tianon)
-* [is-docker ★39](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container by [@sindresorhus][sindresorhus]
+* [is-docker ★39 ⏳1Y](https://github.com/sindresorhus/is-docker) - Check if the process is running inside a Docker container by [@sindresorhus][sindresorhus]
 [supercronic ★150](https://github.com/aptible/supercronic) - crontab-compatible job runner, designed specifically to run in containers by [@aptible](https://github.com/aptible/)
 * [TrivialRC ★21](https://github.com/vorakl/TrivialRC) - A minimalistic Runtime Configuration system and process manager for containers [@vorakl](https://github.com/vorakl)
 
@@ -571,6 +575,7 @@ Services to securely store your Docker images.
 
 ## Good Tips
 
+* [50+ Docker related tips, tricks and tutorials](https://nickjanetakis.com/blog/tag/docker) by [@nickjanetakis][nickjanetakis]
 * [10 Things Not To Forget Before Deploying Docker In Production](https://www.slideshare.net/rightscale/docker-meetup-40826948)
 * [24 random docker tips](https://csabapalfi.github.io/random-docker-tips/) by [@csabapalfi](https://github.com/csabapalfi)
 * [6 Million Ways To Log In Docker](https://www.slideshare.net/raychaser/6-million-ways-to-log-in-docker-nyc-docker-meetup-12172014) by [@raychaser](https://twitter.com/raychaser)
@@ -697,6 +702,7 @@ Services to securely store your Docker images.
 [loggingDocker]: https://vimeo.com/123341629
 [microbadger]: https://microbadger.com
 [nginxproxy]: https://github.com/jwilder/nginx-proxy
+[nickjanetakis]: https://twitter.com/nickjanetakis
 [noteed]: https://github.com/noteed
 [ondrejmo]: https://github.com/ondrejmo
 [openshift]: https://www.openshift.org/
@@ -713,6 +719,7 @@ Services to securely store your Docker images.
 [spotify]: https://github.com/spotify
 [spm]: https://github.com/sematext/sematext-agent-docker
 [vegasbrianc]: https://github.com/vegasbrianc
+[vfarcic]: https://github.com/vfarcic
 [vimagick]: https://github.com/vimagick
 [weave]: https://github.com/weaveworks/weave
 [wsargent]: https://github.com/wsargent

@@ -135,7 +135,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React General Tutorials
 * [React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [React.js Fundamentals](http://courses.reactjsprogram.com/courses/reactjsfundamentals)
-* [React Primer ★3700](https://github.com/mikechau/react-primer-draft)
+* [React Primer ★3700 ⏳1Y](https://github.com/mikechau/react-primer-draft)
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one ★2920](https://github.com/arkency/reactjs_koans)
 * [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
@@ -246,7 +246,7 @@ A collection of awesome things regarding React ecosystem.
 * [Direct uploads to S3 with React, Rails, and Paperclip](http://blog.littleblimp.com/post/119230396893/direct-uploads-to-s3-with-react-rails-and)
 
 ##### API Integration
-* [react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API ★39 ⏳1Y](https://github.com/tonyspiro/react-flux-cosmicjs)
+* [react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API ★39 ⏳2Y](https://github.com/tonyspiro/react-flux-cosmicjs)
 
 
 #### React Tools

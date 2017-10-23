@@ -92,6 +92,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [draft ★17 ⏳2Y](https://github.com/pelevesque/draft) - A module for drawing complex shapes
 * [Artal ★20](https://github.com/unXedDani/Artal) - A .PSD parsing library for LÖVE
 * [Autobatch ★35](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
+* [HSLUV ★15](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL)
 * [Maid64 ★16](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
 * [Möan.lua ★28](https://github.com/twentytwoo/Moan.lua) - Multiple-choice VN-esque messagebox library for LÖVE
 * [renderplanet ★8](https://github.com/meric/renderplanet) - realistic orthographic planet rendering
@@ -213,7 +214,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [LoveShaderConverter ★32 ⏳1Y](https://github.com/tsteinholz/LoveShaderConverter) - Convert Shadertoy Shader files to LÖVE GLSL Files with handy utilities for infinite purposes
 * [Shadertoy viewer](http://love2d.org/forums/viewtopic.php?f=5&t=80885) - Run code copied from shadertoy directly or output the converted code to a LÖVE shader
-* [shine ★177](https://github.com/vrld/shine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
+* [Moonshine ★178](https://github.com/vrld/moonshine) - Repository of common post-processing effects like blur, vignette, color-grading, etc.
 
 ## Testing
 *Libraries and Tools for Unit Testing*

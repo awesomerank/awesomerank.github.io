@@ -318,7 +318,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [PSTModernizer ★213](https://github.com/PSPDFKit-labs/PSTModernizer) - Makes it easier to support older versions of iOS by fixing things and adding missing methods.
 * [SwiftyVIPER ★47](https://github.com/codytwinton/SwiftyVIPER) - Makes implementing VIPER architecture much easier and cleaner.  :large_orange_diamond:
 * [Bugsee](https://www.bugsee.com) - In-app bug and crash reporting with video, logs, network traffic and traces.
-* [Fallback ★33](https://github.com/devxoul/Fallback) - Syntactic sugar for nested do-try-catch. :large_orange_diamond:
+* [Fallback ★33 ⏳1Y](https://github.com/devxoul/Fallback) - Syntactic sugar for nested do-try-catch. :large_orange_diamond:
 * [ODUIThreadGuard ★698](https://github.com/olddonkey/ODUIThreadGuard) - A guard to help you check if you make UI changes not in main thread. :large_orange_diamond:
 * [IBAnalyzer ★832](https://github.com/fastred/IBAnalyzer) - Find common xib and storyboard-related problems without running your app or writing unit tests. :large_orange_diamond:
 * [Dotzu ★1173](https://github.com/remirobert/Dotzu) - iOS app debugger while using the app. Crash report, logs, network.
@@ -440,6 +440,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [WCDB ★4217](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
 * [StorageKit ★142](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
 * [UserDefaults ★723](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS :large_orange_diamond:
+* [Default ★34](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support :large_orange_diamond:
 
 
 ## Data Structures / Algorithms
@@ -641,6 +642,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FlexLayout](https://github.com/lucdion/FlexLayout) - FlexLayout gently wraps the highly optimized [facebook/yoga ★8426](https://github.com/facebook/yoga) flexbox implementation in a concise, intuitive & chainable syntax. 🔶
 * [Layout ★1031](https://github.com/schibsted/layout) - A declarative UI framework for iOS :large_orange_diamond:
 * [CGLayout ★16](https://github.com/k-o-d-e-n/CGLayout) - Powerful autolayout framework based on constraints, that can manage UIView(NSView), CALayer and not rendered views. Not Apple Autolayout wrapper. 🔶
+* [YogaKit](https://github.com/facebook/yoga/tree/master/YogaKit) - Powerful layout engine which implements Flexbox. Developed and maintained by Facebook.
 
 #### Location
 * [IngeoSDK ★91](https://github.com/IngeoSDK/ingeo-ios-sdk) - Always-On Location monitoring framework for iOS.
@@ -1330,7 +1332,7 @@ Most of these are paid services, some have free tiers.
 * [Vapor ★11346](https://github.com/vapor/vapor) - Elegant web framework for Swift that works on iOS, macOS, and Ubuntu. :large_orange_diamond:
 * [swiftra ★273 ⏳1Y](https://github.com/takebayashi/swiftra) - Sinatra-like DSL for developing web apps in Swift :large_orange_diamond:
 * [blackfire ★947](https://github.com/elliottminns/blackfire) - A fast HTTP web server based on Node.js and Express written in Swift :large_orange_diamond:
-* [swift-http ★462](https://github.com/huytd/swift-http) - HTTP Implementation for Swift on Linux and macOS :large_orange_diamond:
+* [swift-http ★462 ⏳1Y](https://github.com/huytd/swift-http) - HTTP Implementation for Swift on Linux and macOS :large_orange_diamond:
 * [Trevi ★47 ⏳1Y](https://github.com/Yoseob/Trevi) - libuv base Swift web HTTP server framework :large_orange_diamond:
 * [Express ★847](https://github.com/crossroadlabs/Express) - Swift Express is a simple, yet unopinionated web application server written in Swift :large_orange_diamond:
 * [Taylor ★921 ⏳1Y](https://github.com/izqui/Taylor) - A lightweight library for writing HTTP web servers with Swift :large_orange_diamond:
@@ -1532,7 +1534,7 @@ Most of these are paid services, some have free tiers.
 * [APAddressBook ★1378](https://github.com/Alterplay/APAddressBook) - Easy access to iOS address book
 * [AZExpandableIconListView ★187](https://github.com/Azuritul/AZExpandableIconListView) - An expandable/collapsible view component written in Swift. :large_orange_diamond:
 * [greedo-layout-for-ios ★802](https://github.com/500px/greedo-layout-for-ios) - Full aspect ratio grid layout for iOS
-* [FlourishUI ★203](https://github.com/thinkclay/FlourishUI) - A highly configurable and out-of-the-box-pretty UI library :large_orange_diamond:
+* [FlourishUI ★203 ⏳1Y](https://github.com/thinkclay/FlourishUI) - A highly configurable and out-of-the-box-pretty UI library :large_orange_diamond:
 * [GranadaLayout ★41](https://github.com/gskbyte/GranadaLayout) - Alternative layout system for iOS, inspired on the Android layout system, that includes linear and relative layouts, as well as an extensible JSON-based layout inflater.
 * [Navigation Stack ★1880](https://github.com/Ramotion/navigation-stack) - Navigation Stack is a stack-modeled navigation controller. :large_orange_diamond:
 * [UIView-draggable ★381](https://github.com/andreamazz/UIView-draggable) - UIView category that adds dragging capabilities.
@@ -1540,7 +1542,7 @@ Most of these are paid services, some have free tiers.
 * [MKGradientView ★72](https://github.com/maxkonovalov/MKGradientView) - Core Graphics based gradient view capable of producing Linear (Axial), Radial (Circular), Conical (Angular), Bilinear (Four Point) gradients, written in Swift. 🔶
 * [EPSignature ★633](https://github.com/ipraba/EPSignature) - Signature component for iOS in Swift :large_orange_diamond:
 * [CoreDragon ★716 ⏳1Y](https://github.com/nevyn/CoreDragon)  - [iOS] Stop using context menus. Drag and drop instead, even between apps!
-* [AEConicalGradient ★38](https://github.com/tadija/AEConicalGradient) - Conical (angular) gradient layer written in Swift. :large_orange_diamond:
+* [AEConicalGradient ★38 ⏳1Y](https://github.com/tadija/AEConicalGradient) - Conical (angular) gradient layer written in Swift. :large_orange_diamond:
 * [EVFaceTracker ★217](https://github.com/evermeer/EVFaceTracker) - Calculate the distance and angle of your device with regards to your face.
 * [Fashion ★72](https://github.com/vadymmarkov/Fashion) - Fashion accessories and beauty tools to share and reuse UI styles in a Swifty way. :large_orange_diamond:
 * [LeeGo ★896](https://github.com/wangshengjia/LeeGo) - Declarative, configurable & highly reusable UI development as making Lego bricks. :large_orange_diamond:
@@ -2079,7 +2081,7 @@ Most of these are paid services, some have free tiers.
 #### Slider
 * [VolumeControl ★59](https://github.com/12Rockets/VolumeControl) - Custom volume control for iPhone featuring a well-designed round slider.
 * [WESlider ★79 ⏳1Y](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management
-* [IntervalSlider ★50](https://github.com/shushutochako/IntervalSlider) - IntervalSlider is a slider library like ReutersTV app. written in pure swift. :large_orange_diamond:
+* [IntervalSlider ★50 ⏳1Y](https://github.com/shushutochako/IntervalSlider) - IntervalSlider is a slider library like ReutersTV app. written in pure swift. :large_orange_diamond:
 * [RangeSlider ★160](https://github.com/warchimede/RangeSlider) - A simple range slider made in Swift :large_orange_diamond:
 * [CircleSlider ★104](https://github.com/shushutochako/CircleSlider) - CircleSlider is a Circular slider library. written in pure Swift. :large_orange_diamond:
 * [MARKRangeSlider ★135](https://github.com/vadymmarkov/MARKRangeSlider) - A custom reusable slider control with 2 thumbs (range slider).
@@ -2304,7 +2306,7 @@ Most of these are paid services, some have free tiers.
 * [DeepLinkKit ★2981](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
 * [IntentKit ★1804](https://github.com/intentkit/IntentKit) - An easier way to handle third-party URL schemes in iOS apps.
 * [JLRoutes ★3796](https://github.com/joeldev/JLRoutes) - URL routing library for iOS with a simple block-based API.
-* [IKRouter ★91 ⏳1Y](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks :large_orange_diamond:
+* [IKRouter ★91 ⏳2Y](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks :large_orange_diamond:
 * [Compass ★542](https://github.com/hyperoslo/Compass) - :earth_africa: Compass helps you setup a central navigation system for your application :large_orange_diamond:
 * [Appz ★856](https://github.com/SwiftKitz/Appz) - Easily launch and deeplink into external applications, falling back to web if not installed. :large_orange_diamond:
 * [URLNavigator ★1308](https://github.com/devxoul/URLNavigator) - ⛵️ Elegant URL Routing for Swift :large_orange_diamond:
@@ -2422,7 +2424,7 @@ Most of these are paid services, some have free tiers.
  * [AlecrimAsyncKit ★66](https://github.com/Alecrim/AlecrimAsyncKit) - Bringing async and await to Swift world with some flavouring. :large_orange_diamond:
  * [GrandSugarDispatch ★31 ⏳1Y](https://github.com/jessesquires/GrandSugarDispatch) - Syntactic sugar for Grand Central Dispatch (GCD) :large_orange_diamond:
  * [Threader ★39 ⏳1Y](https://github.com/mitchtreece/Threader) - Pretty GCD calls and easier code execution.
- * [Dispatch ★170](https://github.com/JARMourato/Dispatch) - Just a tiny library to make using GCD easier and intuitive :large_orange_diamond:
+ * [Dispatch ★170 ⏳1Y](https://github.com/JARMourato/Dispatch) - Just a tiny library to make using GCD easier and intuitive :large_orange_diamond:
  * [GCDTimer ★163](https://github.com/hemantasapkota/GCDTimer) - Well tested Grand Central Dispatch (GCD) Timer in Swift. :large_orange_diamond:
  * [Chronos-Swift ★249](https://github.com/comyar/Chronos-Swift) - :hourglass: Grand Central Dispatch Utilities :large_orange_diamond:
  * [Me ★193](https://github.com/pascalbros/Me) - A super slim solution to the nested asynchronous computations. :large_orange_diamond:

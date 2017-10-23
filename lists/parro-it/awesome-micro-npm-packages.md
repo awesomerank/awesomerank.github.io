@@ -54,7 +54,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [to-capital-case ★4 ⏳1Y](https://github.com/ianstormtaylor/to-capital-case) - Convert a string to a capital case.
 * [to-constant-case ★1 ⏳1Y](https://github.com/ianstormtaylor/to-constant-case) - Convert a string to a constant case.
 * [to-dot-case ★2 ⏳1Y](https://github.com/ianstormtaylor/to-dot-case) - Convert a string to a dot case.
-* [to-no-case ★6](https://github.com/ianstormtaylor/to-no-case) - Remove an existing case from a string.
+* [to-no-case ★6 ⏳1Y](https://github.com/ianstormtaylor/to-no-case) - Remove an existing case from a string.
 * [to-pascal-case ★2 ⏳1Y](https://github.com/ianstormtaylor/to-pascal-case) - Convert a string to a pascal case.
 * [to-sentence-case ★1 ⏳1Y](https://github.com/ianstormtaylor/to-sentence-case) - Convert a string to a sentence case.
 * [to-snake-case ★12 ⏳1Y](https://github.com/ianstormtaylor/to-snake-case) - Convert a string to a snake case.

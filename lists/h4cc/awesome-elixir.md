@@ -205,7 +205,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [medusa_server ★2](https://github.com/IcaliaLabs/medusa_server) - A simple cowboy web server written in Elixir to stack images.
 * [n2o ★1060](https://github.com/synrc/n2o) - WebSocket Application Server.
 * [Nvjorn ★7 ⏳1Y](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
-* [Phoenix Battleship ★402](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
+* [Phoenix Battleship ★402 ⏳1Y](https://github.com/bigardone/phoenix-battleship) - The Good Old game built with Elixir, Phoenix Framework, React and Redux.
 * [Phoenix Toggl ★163 ⏳1Y](https://github.com/bigardone/phoenix-toggl) - Toggl tribute done in Elixir, Phoenix Framework, React and Redux.
 * [Phoenix Trello ★1963](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
 * [poxa ★609](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
@@ -633,7 +633,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cors_plug ★150](https://github.com/mschae/cors_plug) - An Elixir plug that adds CORS headers to requests and responds to preflight requests (OPTIONS).
 * [corsica ★204](https://github.com/whatyouhide/corsica) - Elixir library for dealing with CORS requests.
 * [crudex ★15 ⏳2Y](https://github.com/bitgamma/crudex) - CRUD utilities for Phoenix and Ecto.
-* [dayron ★128](https://github.com/inaka/Dayron) - A repository _similar_ to `Ecto.Repo` that works with REST API requests instead of a database.
+* [dayron ★128 ⏳1Y](https://github.com/inaka/Dayron) - A repository _similar_ to `Ecto.Repo` that works with REST API requests instead of a database.
 * [ex_admin ★835](https://github.com/smpallen99/ex_admin) - ExAdmin is an auto administration package for Elixir and the Phoenix Framework.
 * [exdjango ★10](https://github.com/nicksanders/exdjango) - A few elixir libraries for working with django.
 * [exrecaptcha ★8 ⏳2Y](https://github.com/adanselm/exrecaptcha) - Simple reCaptcha display/verify code for Elixir applications.
@@ -961,7 +961,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [gibran](https://github.com/abitdodgy/gibran) - Gibran is an Elixir port of [WordsCounted ★107 ⏳1Y](https://github.com/abitdodgy/words_counted), a natural language processor that extracts useful statistics from text.
 * [Paasaa ★36](https://github.com/minibikini/paasaa) - Natural language detection for Elixir.
 * [Petrovich ★12](https://github.com/petrovich/petrovich_elixir) - Elixir library to inflect Russian first, last, and middle names.
-* [Woolly ★28](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
+* [Woolly ★28 ⏳1Y](https://github.com/pjhampton/woolly) - Woolly is an ambitious Text Mining and Natural Language Processing API for Elixir.
 
 ## Networking
 *Libraries and tools for using network related stuff.*
@@ -1356,7 +1356,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [docker ★11](https://github.com/hexedpackets/docker-elixir) - Elixir client for the Docker Remote API.
 * [dockerex ★13](https://github.com/hisea/dockerex) - Lightweight Docker Remote API Client with SSL/TLS login/connection support.
 * [dogstatsd ★14](https://github.com/adamkittelson/dogstatsd-elixir) - An Elixir client for [DogStatsd](https://www.datadoghq.com/).
-* [dpd_client ★1 ⏳1Y](https://github.com/knewter/dpd_client) - An API client for the DPD service.
+* [dpd_client ★1 ⏳2Y](https://github.com/knewter/dpd_client) - An API client for the DPD service.
 * [dropbox ★13 ⏳3Y](https://github.com/ammmir/elixir-dropbox) - Dropbox Core API client for Elixir.
 * [dublin_bus_api ★0](https://github.com/carlo-colombo/dublin-bus-api) - Access to the Real Time Passenger Information (RTPI) for Dublin Bus services.
 * [edgarex ★0 ⏳2Y](https://github.com/rozap/edgarex) - Elixir interface for fetching SEC filings from EDGAR.
@@ -1411,7 +1411,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [parse_client ★4 ⏳2Y](https://github.com/elixircnx/parse_elixir_client) - Elixir client for the parse.com REST API.
 * [parsex ★1 ⏳3Y](https://github.com/maarek/ParsEx) - ParsEx is an Elixir HTTP Client for communicating with Parse.com's Restful API.
 * [particle ★1](https://github.com/jeffutter/particle-elixir) - An Elixir client for the Particle IoT platform's HTTP API.
-* [pathway ★3 ⏳2Y](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
+* [pathway ★3 ⏳3Y](https://github.com/novabyte/pathway) - An Erlang/Elixir client for the [Trak.io](http://trak.io/) REST API.
 * [pay ★14](https://github.com/era/pay) - An Elixir Lib to deal with Paypal and other payment solutions.
 * [peatio_client ★4 ⏳1Y](https://github.com/peatio/peatio-client-elixir) - Peatio exchange project compatible API for Elixir.
 * [pigeon ★176](https://github.com/codedge-llc/pigeon) - HTTP2-compliant wrapper for sending iOS and Android push notifications.

@@ -209,6 +209,7 @@ Check solve section for steganography.
 - [Java Decompilers](http://www.javadecompilers.com) - An online decompiler for Java and Android APKs
 - [Krakatau ★761](https://github.com/Storyyeller/Krakatau) - Java decompiler and disassembler
 - [PEDA ★2072](https://github.com/longld/peda) - GDB plugin (only python2.7)
+- [Pin](https://software.intel.com/en-us/articles/pin-a-dynamic-binary-instrumentation-tool) A dynamic binary instrumentaion tool by Intel
 - [Plasma](https://github.com/joelpx/plasma) - An interactive disassembler for x86/ARM/MIPS which can generate indented pseudo-code with colored syntax.
 - [Pwndbg ★879](https://github.com/pwndbg/pwndbg) - A GDB plugin that provides a suite of utilities to hack around GDB easily. 
 - [radare2 ★5530](https://github.com/radare/radare2) - A portable reversing framework

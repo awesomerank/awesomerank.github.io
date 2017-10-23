@@ -272,9 +272,11 @@ These frameworks make customizing your zsh setup easier.
 * [elixir-oh-my-zsh ★81](https://github.com/gusaiani/elixir-oh-my-zsh) - Adds shortcuts for Elixir, IEX, Mix and Phoenix.
 * [emoji-cli ★150](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line.
 * [enhancd ★732](https://github.com/b4b4r07/enhancd) - A simple tool that provides enhanced `cd` command.
+* [escape-backtick ★0](https://github.com/bezhermoso/zsh-escape-backtick) - Quickly insert escaped backticks when double-tapping "`".
 * [exercism ★4 ⏳2Y](https://github.com/fabiokiatkowski/exercism.plugin.zsh) - A plugin for [exercism.io](http://exercism.io/).
 * [expand-ealias ★5](https://github.com/zigius/expand-ealias.plugin.zsh) - Expand specific aliases with space.
 * [fast-syntax-highlighting ★114](https://github.com/zdharma/fast-syntax-highlighting) - Optimized an improved `zsh-users/zsh-syntax-highlighting` – better response times, `zed/vared` can edit `10 kB` functions.
+* [firebase-zsh ★1](https://github.com/rmrs/firebase-zsh) - Add an indicator in the prompt that you're in a directory with a `firebase.json` file (aka "firebase project").
 * [fixnumpad-osx.plugin.zsh](https://github.com/zsmizzle/fixnumpad-osx.plugin.zsh/blob/master/fixnumpad-osx.plugin.zsh) - Enables numpad keys of Apple keyboards to be recognized in ZSH.
 * [flow-plugin ★31](https://github.com/sandstorm/oh-my-zsh-flow-plugin) - This plugin makes the flow command available inside every subdirectory of the TYPO3 Flow distribution.
 * [fzf-marks](https://github.com/uvaes/fzf-marks) - Little script to create, navigate and delete bookmarks in Bash and Zsh, using the fuzzy finder [fzf ★10323](https://github.com/junegunn/fzf).
@@ -346,6 +348,7 @@ These frameworks make customizing your zsh setup easier.
 * [operator ★0](https://github.com/nivv/operator-theme) - Clean and simple theme, works best with Menlo for Powerline.
 * [opp.zsh ★223 ⏳2Y](https://github.com/hchbaw/opp.zsh) - Vim's text-objects-ish for zsh.
 * [osx-dev-zsh-plugin ★7 ⏳1Y](https://github.com/marshallmick007/osx-dev-zsh-plugin) - This plugin adds some commands for maintaining various server programs on my macOS install.
+* [paci ★0](https://github.com/iloginow/zsh-paci) - Plugin for archlinux package managers
 * [pantheon-terminal-notify-zsh-plugin ★9 ⏳2Y](https://github.com/deyvisonrocha/pantheon-terminal-notify-zsh-plugin) - Background notifications for long running commands. Supports Elementary OS Freya.
 * [pctl ★5](https://github.com/ytet5uy4/pctl) - Toggle the environment variables for proxying.
 * [phpcs.plugin.zsh](https://github.com/voronkovich/phpcs.plugin.zsh) - Plugin for [PHP code sniffer ★3973](https://github.com/squizlabs/PHP_CodeSniffer).
@@ -356,6 +359,7 @@ These frameworks make customizing your zsh setup easier.
 * [project.plugin.zsh ★0](https://github.com/voronkovich/project.plugin.zsh) - Plugin for managing projects.
 * [project ★3](https://github.com/gko/project) - Create node/python/ruby project both locally and on github(private or public repository).
 * [proxy-plugin ★0](https://github.com/escalate/oh-my-zsh-proxy-plugin) - Aliases to manage proxy shell environment settings.
+* [pyenv-lazy ★0](https://github.com/davidparsson/zsh-pyenv-lazy) - Lazy load pyenv. The initial `eval "$(pyenv init -)"`` is executed the first time pyenv is called.
 * [randeme ★1](https://github.com/ex-surreal/randeme) - Chooses a random theme for each session. If you not like the chosen theme you can run `randeme_rm` to never show that theme again.
 * [reminder ★11](https://github.com/AlexisBRENON/oh-my-zsh-reminder) - A plugin which displays reminders above every prompt.
 * [revolver ★40](https://github.com/molovo/revolver) - A progress spinner for ZSH scripts.
@@ -456,7 +460,7 @@ These frameworks make customizing your zsh setup easier.
 * [zsh-notify ★202](https://github.com/marzocchi/zsh-notify) - A plugin for the Z shell (on macOS and Linux) that posts desktop notifications when a command terminates with a non-zero exit status or when it took more than 30 seconds to complete, if the terminal application is in the background (or the command's terminal tab is inactive).
 * [zsh-nvm ★315](https://github.com/lukechilds/zsh-nvm) - ZSH plugin for installing, updating and loading nvm.
 * [zsh-open-pr ★28](https://github.com/caarlos0/zsh-open-pr) - A ZSH plugin to open pull requests from command line.
-* [zsh-opt-path ★3 ⏳1Y](https://github.com/jreese/zsh-opt-path) - Automatically add `~/opt` subpaths to your `$PATH`.
+* [zsh-opt-path ★3 ⏳2Y](https://github.com/jreese/zsh-opt-path) - Automatically add `~/opt` subpaths to your `$PATH`.
 * [zsh-osx ★8 ⏳1Y](https://github.com/mwilliammyers/plugin-osx) - Add some common macOS related aliases and functions.
 * [zsh-peco-history ★16](https://github.com/jimeh/zsh-peco-history) - Search shell history with Peco when pressing ctrl+r.
 * [zsh-pg](https://github.com/caarlos0/zsh-pg) - Adds utility functions to work with PosgreSQL.

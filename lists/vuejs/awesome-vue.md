@@ -829,6 +829,7 @@ Tooltips / popovers
  - [vue-choropleth ★17](https://github.com/voluntadpear/vue-choropleth) - Vue 2.x component to display a choropleth map.
  - [vuelayers ★25](https://github.com/ghettovoice/vuelayers) - Vue 2 components to work with OpenLayers.
  - [vue-googlemaps ★45](https://github.com/Akryum/vue-googlemaps) - Vue 2.x components to integrate Google Maps.
+ - [vue-static-map ★0](https://github.com/eperedo/vue-static-map) - Vue 2.x simple component to generate an static google map
 
 ### Audio / Video
 
@@ -875,6 +876,7 @@ Tooltips / popovers
 
  - [vue-qriously ★57](https://github.com/theomessin/vue-qriously) - A Vue.js 2 component to draw QR codes on an HTML Canvas using qrious.
  - [vue-qart ★136](https://github.com/superman66/vue-qart) - The directive of vue 2.x for qart.js.
+ - [vue-qrcode-reader ★5](https://github.com/gruhn/vue-qrcode-reader) - A Vue.js 2 component which detects and decodes QR codes from a camera stream.
 
 ### Search
  - [vue-fuse ★63](https://github.com/shayneo/vue-fuse) - A lightweight pluggin for fuzzy search library, Fuse.js
@@ -912,7 +914,8 @@ Tooltips / popovers
  - [vue-barcode-scanner ★14](https://github.com/noomerzx/vue-barcode-scanner)
  - [vue-heatmapjs ★2](https://github.com/BrockReece/vue-heatmapjs) - A Vue directive for tracking and visualising mouse activity
  - [vue-maze ★3](https://github.com/meganetaaan/vue-maze) - An itty-bitty maze game made as Vue.js component
-
+ - [vue-drag-verify ★1](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up. 
+ 
 ### Tabs
 
  - [vue-tabs ★70](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
@@ -1095,6 +1098,7 @@ Tooltips / popovers
  - [vue-inview ★15](https://github.com/rachmanzz/vue-inview) - [Vue 2.x] Viewport, get notification when DOM element is entered or leave.
  - [dnd-grid ★62](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes
  - [vue-extend-layout ★19](https://github.com/ktquez/vue-extend-layout) - Extend the default layout or create custom layouts for the pages of your Vue.js SPA
+ - [vue-masonry-css ★3](https://github.com/paulcollett/vue-masonry-css) - Vue.js Masonry layout component powered by CSS, dependancy free
 
 
 
@@ -1478,6 +1482,7 @@ the amazing Vue.js.
 - [vue-inject ★61](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
 - [vue-deepset ★16](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
 - [vue-gaspard ★1](https://github.com/lucaperret/vue-gaspard) - DOM helpers plugin for Vue.js
+- [vue-configuration ★2](https://github.com/alex-oleshkevich/vue-config) - A static configuration object for Vue.js
 
 ### Web Workers
 - [vue-worker ★103](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.

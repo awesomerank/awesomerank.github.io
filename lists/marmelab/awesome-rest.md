@@ -124,7 +124,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Restler ★1214](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
 * [HAL ★185 ⏳1Y](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
 * [Apigility ★462](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
-* [phprest ★313](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
+* [phprest ★313 ⏳1Y](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
 * [Hateoas ★770](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
 * [Fusio ★154](https://github.com/apioo/fusio) - Open source API management platform.
 

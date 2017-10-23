@@ -261,7 +261,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### iOS
-* [Geomotion ★96 ⏳2Y](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion.
+* [Geomotion ★96 ⏳3Y](https://github.com/clayallsopp/geomotion) - Better iOS Geometry with RubyMotion.
 * [Walt ★150 ⏳4Y](https://github.com/clayallsopp/Walt) - Frictionless, hash-based iOS animations.
 * [AccordionView ★15 ⏳4Y](https://github.com/toamitkumar/AccordionView) - Create and add Accordions to your UIViews.
 * [Motion-wizard ★37](https://github.com/ijpiantanida/motion-wizard) - Gem to create wizard like view controllers in iOS.
@@ -281,7 +281,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [MenuMotion ★45 ⏳2Y](https://github.com/codelation/menu-motion) - RubyMotion wrapper for creating macOS menus.
 * [Better_toolbar ★7 ⏳3Y](https://github.com/FluffyJack/better_toolbars) - Better way to work with toolbars.
 * [EverydayMenu ★11](https://github.com/henderea/everyday-menu) - Easy way to define menu items and visually lay out menus for your macOS apps.
-* [StatusBar ★16 ⏳3Y](https://github.com/holgersindbaek/status_bar) - Notifications for the statusbar.
+* [StatusBar ★16 ⏳4Y](https://github.com/holgersindbaek/status_bar) - Notifications for the statusbar.
 
 
 #### Icons

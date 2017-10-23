@@ -75,7 +75,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 - [tour ★10 ⏳2Y](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [watch ★2 ⏳2Y](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
 - [log ★8 ⏳1Y](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
-- [set-or-print ★3 ⏳1Y](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
+- [set-or-print ★3 ⏳2Y](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.
 
 #### Realtime
 

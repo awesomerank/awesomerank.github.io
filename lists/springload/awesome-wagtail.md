@@ -44,6 +44,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
   - [Podcasts](#podcasts)
   - [Videos](#videos)
   - [Showcases](#showcases)
+  - [Lists](#lists)
 - [Community](#community)
   - [Meetups](#meetups)
 - [Open-source sites](#open-source-sites)
@@ -54,6 +55,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [GitHub repository ★4797](https://github.com/wagtail/wagtail)
 - [Twitter account](https://twitter.com/wagtailcms)
 - [Roadmap](https://github.com/wagtail/wagtail/projects/1)
+- [Other resources](#resources)
 
 ## Apps
 
@@ -72,6 +74,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail TinyMCE ★23](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail.
 - [Wagtail Froala ★8](https://github.com/jaydensmith/wagtailfroala) - Extends Wagtail to use the Froala WYSIWYG editor in RichTextField/RichTextBlock.
 - [Wagtail Medium Editor ★9](https://github.com/dperetti/Django-wagtailmedium) - A customizable Medium Editor for Wagtail, with link anchors support.
+- [WagtailDraftail](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail](https://github.com/springload/draftail) and [draftjs_exporter ★16](https://github.com/springload/draftjs_exporter).
 
 ### Widgets
 
@@ -212,6 +215,11 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Made with Wagtail](http://madewithwagtail.org/) - A showcase of sites and apps made with Wagtail CMS.
 - [Contributed apps and website code](https://github.com/torchbox/wagtail/wiki/Contributed-apps-and-website-code) - A provisional directory of third-party contributed Wagtail websites and apps.
 
+### Lists
+
+- [PyPI - Python Package Index](https://pypi.python.org/pypi?%3Aaction=search&term=Wagtail&submit=search) - Wagtail packages on the Python Package Index.
+- [Django Packages](https://djangopackages.org/grids/g/wagtail-cms/) - Wagtail projects and packages on Django Packages.
+
 ## Community
 
 - [Wagtail Space](http://www.wagtail.space/) - Wagtail training sessions, Wagtail (lightning) talks and a Wagtail sprint. From March 21st until 25th, Wagtail Space takes place in Arnhem, The Netherlands.
@@ -224,7 +232,8 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ## Open-source sites
 
-- [wagtaildemo](https://github.com/torchbox/wagtaildemo) – An example site implemented with Wagtail.
+- [bakerydemo ★33](https://github.com/wagtail/bakerydemo) – Next generation Wagtail demo, born in Reykjavík.
+- [wagtaildemo ★270](https://github.com/wagtail/wagtaildemo) – An example site implemented with Wagtail.
 - [Torchbox ★24](https://github.com/torchbox/wagtail-torchbox) – Wagtail build of Torchbox.com.
 - [Made with Wagtail ★32](https://github.com/springload/madewithwagtail) - A showcase of sites and apps made with Wagtail CMS.
 - [OpenCanada.org ★5](https://github.com/OpenCanada/website) – The opencanada.org website source.

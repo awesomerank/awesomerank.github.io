@@ -114,7 +114,7 @@ title: Awesome Rank for sadcitizen/awesome-marionette
 ## Libraries
 
 - [Marionette State ★114 ⏳1Y](https://github.com/Squareknot/marionette.state)
-- [Marionette Virtual Dom ★135](https://github.com/tiagorg/marionette-vdom)
+- [Marionette Virtual Dom ★135 ⏳1Y](https://github.com/tiagorg/marionette-vdom)
 - [Marionette Form View ★81 ⏳2Y](https://github.com/viverae/marionette.formview)
 - [A Better Router for Backbone and Marionette Applications ★69 ⏳2Y](https://github.com/Betterment/backbone.blazer)
 - [Marionette.Toolkit ★68](https://github.com/RoundingWellOS/marionette.toolkit) - A collection of opinionated Backbone.Marionette extensions for large scale application architecture.

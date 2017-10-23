@@ -135,7 +135,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [IdentityServer ★1889](https://github.com/IdentityServer/IdentityServer4) - IdentityServer for ASP.NET Core 1.0
   * [IdentityServer4.EntityFramework ★78](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer
   * [IdentityServer4.MongoDB ★20](https://github.com/diogodamiani/IdentityServer4.MongoDB) - MongoDB persistence layer
-  * [IdentityServer4.EntityFrameworkCore ★42](https://github.com/2020IP/TwentyTwenty.IdentityServer4.EntityFrameworkCore) - Entity Framework Core persistence layer
+  * [IdentityServer4.EntityFrameworkCore ★42 ⏳1Y](https://github.com/2020IP/TwentyTwenty.IdentityServer4.EntityFrameworkCore) - Entity Framework Core persistence layer
 * [openiddict ★517](https://github.com/openiddict/openiddict-core) - Easy-to-use OpenID Connect server for ASP.NET Core.
 * [stormpath-sdk](https://github.com/stormpath/stormpath-sdk-dotnet) - Build [simple, secure web applications ★19](https://github.com/stormpath/stormpath-aspnetcore) with Stormpath and ASP.NET Core.
 * [stuntman ★189](https://github.com/ritterim/stuntman) - Library for impersonating users during development leveraging ASP.NET Identity.

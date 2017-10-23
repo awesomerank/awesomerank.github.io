@@ -218,7 +218,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Follow me! A Simon Clone ★2 ⏳2Y](https://github.com/gamedolphin/follow_me_javascript_simon_clone) - Fully commented version of the famous game - [*Simon*](http://en.wikipedia.org/wiki/Simon_%28game%29) - in JavaScript, built using Phaser game engine.
 * [For King ★31 ⏳4Y](https://github.com/AD1337/ForKingGame) - Puzzle platformer game about a king in search for his lost crown. [Play it now!](http://www.newgrounds.com/dump/item/1cc54f046fa51768d8169e65121b0af0)
 * [Genetic Drift ★14 ⏳4Y](https://github.com/DancingBanana/genetic-drift) - Victor, an annoyed janitor dealing with a lot of annoyed clones and the problems that inevitably arise from genetic duplication. Will he make it home to feed his faithful pet companion?. [Play it now!](http://www.genetic-drift.com/)
-* [Hexahedral ★3](https://github.com/mminer/hexahedral) - Push down all the blocks in the minimum number of moves. [Play it now!](http://matthewminer.com/hexahedral)
+* [Hexahedral ★3 ⏳1Y](https://github.com/mminer/hexahedral) - Push down all the blocks in the minimum number of moves. [Play it now!](http://matthewminer.com/hexahedral)
 * [Hextris ★1327](https://github.com/Hextris/hextris) - Addictive puzzle game inspired by Tetris. [Play it now!](http://hextris.io/)
 * [Infectors ★7](https://github.com/satanas/infectors) - Sokoban-like puzzle game developed with Phaser. [Play it now!](http://satanas.github.io/infectors/)
 * [Lost! Beneath the Surface ★0 ⏳2Y](https://github.com/gamedolphin/Lost-Beneath-The-Surface) - You're a firefly lost in the dark, beneath the surface and must find a way out of the mazes created by the horrors in the dark. [Play it now!](http://gamedolph.in/sample-page/lost-beneath-the-surface/)
@@ -343,7 +343,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Gish ★235](https://github.com/blinry/gish) - Award-winning physics platformer.
 * [Journey to the Center of Hawkthorne ★779 ⏳1Y](https://github.com/hawkthorne/hawkthorne-journey) - This 2d platformer is based on Community's Digital Estate Planning episodebuilt using the LÖVE game engine.
 * [Mario-Level-1 ★1186](https://github.com/justinmeister/Mario-Level-1) - First level of Super Mario Bros made with Python and Pygame.
-* [HFT Mario Party ★18 ⏳1Y](https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
+* [HFT Mario Party ★18 ⏳2Y](https://github.com/amiruqdah/mario-party) - a remixed local multiplayer reimagining of the original Mario      Bros.
 * [Sky Engine ★0](https://github.com/ilenburg/game-engine) - Custom engine 2D platform game made with OpenGL.
 * [The Legend of Edgar ★38](https://github.com/riksweeney/edgar) - 2D platform game with a persistent world.
 * [The Secret Chronicles of Dr. M. ★81](https://github.com/Secretchronicles/TSC) - A 2D platform game in classic style.

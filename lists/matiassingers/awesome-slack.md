@@ -112,7 +112,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [hubot-basecamp ★14 ⏳2Y](https://github.com/hubot-scripts/hubot-basecamp) - Expands Basecamp URLs in chat with more useful information
 - [humors ★5 ⏳3Y](https://github.com/AugustMiller/humors) - Custom Hubot
 - [jinora ★74](https://github.com/sdslabs/jinora) - Slack webhook app to create anonymous public channels
-- [pr2slack ★8 ⏳2Y](https://github.com/ohwillie/pr2slack) - Non-spammy pull request messages
+- [pr2slack ★8 ⏳3Y](https://github.com/ohwillie/pr2slack) - Non-spammy pull request messages
 - [slack-api-client ★12 ⏳1Y](https://github.com/germanrcuriel/slack-api-client) - A Slack API client for node.js
 - [slack-node-sdk ★133 ⏳1Y](https://github.com/clonn/slack-node-sdk) - Slack Node SDK with Webhook and API support
 - [slacker](https://github.com/cmalven/slacker) - Meteor-based API for Slack commands
@@ -355,7 +355,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ### Python
 
-- [asterisk-slack ★11 ⏳2Y](https://github.com/firehooper/asterisk-slack) - Publishes Asterisk call information to Slack
+- [asterisk-slack ★11 ⏳3Y](https://github.com/firehooper/asterisk-slack) - Publishes Asterisk call information to Slack
 - [butterfield ★3 ⏳2Y](https://github.com/sunlightlabs/butterfield) - Python Slack bot framework using asyncio and Slack's RTM API
 - [changetip-slack ★29](https://github.com/changecoin/changetip-slack) - ChangeTip Slack Tip bot
 - [django-slack ★134](https://github.com/lamby/django-slack) - Slack integration for Django, using the templating engine to generate messages

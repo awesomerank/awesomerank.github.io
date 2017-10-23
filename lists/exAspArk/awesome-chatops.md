@@ -145,7 +145,7 @@ These open source projects will help you to build a bot in order to automate you
 ### Flowdock
 
 * [Hubot](https://hubot.github.com/) + [adapter ★87](https://github.com/flowdock/hubot-flowdock) (CoffeeScript, Node.js)
-* [Lita](https://www.lita.io/) + [adapter ★8](https://github.com/bhouse/lita-flowdock) (Ruby)
+* [Lita](https://www.lita.io/) + [adapter ★8 ⏳1Y](https://github.com/bhouse/lita-flowdock) (Ruby)
 
 ### Gitter
 

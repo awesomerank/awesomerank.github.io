@@ -44,7 +44,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Ryan Christiani ★0 ⏳2Y](https://github.com/Rchristiani/ama) - Lead Instructor and Developer at [HackerYou](http://hackeryou.com) in Toronto.
 - [Ahmad Nassri ★1 ⏳2Y](https://github.com/ahmadnassri/ama) - Head of Engineering at [Mashape](https://www.mashape.com). Technology Entrepreneur & Dog Lover. Toronto ✈ San Francisco.
 - [Patty Delgado ★0 ⏳2Y](https://github.com/partydelgado/ama) - Engineering lead at [Refinery29](http://www.refinery29.com). Avid mentor and developer evangelist, especially for women and minorities.
-- [Nicholas C. Zakas ★14 ⏳1Y](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint.
+- [Nicholas C. Zakas ★14 ⏳2Y](https://github.com/nzakas/ama) - Architect at Box, author, creator of ESLint.
 - [Lance He ★0 ⏳2Y](https://github.com/indigofeather/ama) - Full stack developer and speaker.
 - [Derick Bailey ★1 ⏳2Y](https://github.com/derickbailey/ama) - Developer and entrepreneur, [author](http://derickbailey.com/publications) and [screencaster](http://watchmecode.com).
 - [Andy Jiang ★0 ⏳2Y](https://github.com/lambtron/ama) - Customer Acquisition and Evangelist at [Segment](https://segment.com), maker of [things](http://blog.andyjiang.com).

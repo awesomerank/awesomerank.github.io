@@ -290,7 +290,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 
 ## Text Editor Plugins
 **Emacs**
-* [JSON Reformat ★120](https://github.com/gongo/json-reformat) - Reformat tool.
+* [JSON Reformat ★120 ⏳1Y](https://github.com/gongo/json-reformat) - Reformat tool.
 
 **Vim**
 * [vim-json ★856](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.

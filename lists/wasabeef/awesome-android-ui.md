@@ -358,7 +358,7 @@ Name | License | Demo
 [BlurDialogFragment ★1653](https://github.com/tvbarthel/BlurDialogFragment) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/BlurDialogFragment.png" width="49%"> <img src="/art/BlurDialogFragment2.png" width="49%">
 [BlurBehind ★474 ⏳1Y](https://github.com/faradaj/BlurBehind) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BlurBehind.png" width="49%"> <img src="/art/BlurBehind2.png" width="49%">
 [Android StackBlur ★2929](https://github.com/kikoso/android-stackblur) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/android-stackblur.png" width="100%">
-[EdgeEffectOverride ★658 ⏳2Y](https://github.com/AndroidAlliance/EdgeEffectOverride) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EdgeEffectOverride.jpeg" width="100%">
+[EdgeEffectOverride ★658 ⏳3Y](https://github.com/AndroidAlliance/EdgeEffectOverride) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/EdgeEffectOverride.jpeg" width="100%">
 [ExplosionField ★2945](https://github.com/tyrantgit/ExplosionField) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ExplosionField.gif" width="49%">
 [BrokenView ★747 ⏳1Y](https://github.com/zhanyongsheng/BrokenView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/BrokenView.gif" width="49%">
 [Trianglify ★410](https://github.com/manolovn/trianglify) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Trianglify.png" width="49%">

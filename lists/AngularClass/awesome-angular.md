@@ -406,6 +406,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Components
 * [Material 2 ★11237](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
+* [Element Angular ★175](https://github.com/eleme/element-angular) - Element Design components built on top of Angular 2
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [ng2-bootstrap ★3231](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
 * [ng2-charts ★942](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
@@ -416,7 +417,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-safe-img ★4 ⏳1Y](https://github.com/hyzhak/ng2-safe-img) Very tiny and safe img for Angular 2
 * [ng2-table ★428](https://github.com/valor-software/ng2-table) Simple table extension with sorting, filtering, paging... for Angular2 apps
 * [ng2-smart-table ★670](https://github.com/akveo/ng2-smart-table) Smart data table library with sorting, filtering, pagination & add/edit/delete functions.
-* [ng2-bs ★12 ⏳1Y](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
+* [ng2-bs ★12 ⏳2Y](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
 * [ng-lightning ★544](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 * [ag-grid](https://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
 * [angular2-grid ★288](https://github.com/BTMorton/angular2-grid) A drag/drop/resize grid-based plugin directive for angular2.
@@ -428,6 +429,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular-cesium ★31](https://github.com/TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
 * [ng2-radio-group ★39](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
 * [ng2-dropdown ★67](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
+* [angular2-multiselect-dropdown ★26](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
 * [ng2-progress-bar ★19](https://github.com/pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
 * [ng2-tabs ★30](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
 * [ng2-modal ★105](https://github.com/pleerock/ngx-modal) Modal window for angular2 and bootstrap 3

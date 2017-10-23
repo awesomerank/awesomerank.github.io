@@ -200,7 +200,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [Tarantool ★1662](https://github.com/tarantool/tarantool) - an efficient NoSQL database and a Lua application server.
 * [TiKV ★2251](https://github.com/pingcap/tikv) - a distributed key-value database powered by Rust and inspired by Google Spanner and HBase.
 * [Tile38 ★3364](https://github.com/tidwall/tile38) - a geolocation data store, spatial index, and realtime geofence, supporting a variety of object types including latitude/longitude points, bounding boxes, XYZ tiles, Geohashes, and GeoJSON
-* [TreodeDB ★172 ⏳1Y](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
+* [TreodeDB ★172 ⏳2Y](https://github.com/Treode/store) - key-value store that's replicated and sharded and provides atomic multirow writes.
 
 
 ## Graph Data Model

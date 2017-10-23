@@ -13,6 +13,7 @@ awesome-speaking [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f3
 A collection of awesome resources about public speaking. Please read the [contributing guideline](https://github.com/matteofigus/awesome-speaking/blob/master/contributing.md) if you wish to contribute.
 
 ## Blog Posts
+* [8 Classic Storytelling Techniques for Engaging Presentations](https://www.sparkol.com/en/Blog/8-Classic-storytelling-techniques-for-engaging-presentations) - by **Ffion Lindsay**
 * [Block Your Talk](http://eleganthack.com/block-your-talk/) - by **Christina Wodtke**
 * [How To Get Speaking Engagements](https://www.samjarman.co.nz/blog/speaking-gigs) - by **Sam Jarman**
 * [Nine Secrets to Powerful Public Speaking](http://www.gq-magazine.co.uk/article/public-speaking-tips) - by **Julian Treasure**
@@ -40,6 +41,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 ## Miscellaneous
 * [Awesome ★67308](https://github.com/sindresorhus/awesome) - A collection of awesome things curated by **Sindre Sorhus**
 * [Awesome Community](https://github.com/peterkokot/awesome-community) - A collection of awesome communities curated by **Peter Kokot**
+* [Public Speaking ★395](https://github.com/vmbrasseur/Public_Speaking) - A collection of resources on presenting at technical conferences by **VM Brasseur**
 
 ## Videos
 * [The Talk on Talks](http://devslovebacon.com/conferences/bacon-2014/talks/the-talk-on-talks) - by **Zach Holman** [36:26]

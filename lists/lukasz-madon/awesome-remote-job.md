@@ -406,7 +406,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Communities
 1. [/r/telecommuting](https://www.reddit.com/r/telecommuting/) - Subreddit.
-1. [##remotes ★9 ⏳2Y](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
+1. [##remotes ★9 ⏳3Y](https://github.com/remotesclub/remotes) - IRC channel ([web access](http://webchat.freenode.net/?channels=##remotes))
 1. [Hacker Paradise](http://www.hackerparadise.org/) - Traveling remote workers.
 1. [Remote Year](http://www.remoteyear.com/) - Traveling techies for 1 year.
 

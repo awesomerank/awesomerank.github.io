@@ -876,7 +876,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [json3 ★959](https://github.com/bestiejs/json3) - A modern JSON implementation compatible with nearly all JavaScript platforms.
 * [Logical Or Not](http://gabinaureche.com/logicalornot/) - A game about JavaScript specificities.
 * [BitSet.js ★123](https://github.com/infusion/BitSet.js) - A JavaScript Bit-Vector implementation
-* [spoiler-alert ★476](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
+* [spoiler-alert ★476 ⏳1Y](https://github.com/joshbuddy/spoiler-alert) - SPOILER ALERT! A happy little jquery plugin to hide spoilers on your site.
 * [jquery.vibrate.js ★133 ⏳1Y](https://github.com/illyism/jquery.vibrate.js) - Vibration API Wrappers
 * [list.js ★8343](https://github.com/javve/list.js) -  Adds search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
 http://www.listjs.com
@@ -915,7 +915,7 @@ http://www.listjs.com
 * [enaqx/awesome-react ★21705](https://github.com/enaqx/awesome-react)
 * [bolshchikov/js-must-watch ★11354](https://github.com/bolshchikov/js-must-watch)
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)
-* [dinbror/you-might-not-need-jquery-plugins ★10 ⏳1Y](https://github.com/dinbror/you-might-not-need-jquery-plugins)
+* [dinbror/you-might-not-need-jquery-plugins ★10 ⏳2Y](https://github.com/dinbror/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews ★16432](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
 

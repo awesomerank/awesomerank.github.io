@@ -34,8 +34,8 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
   - [CSV Injection](#csv-injection)
   - [SQL Injection](#sql-injection)
   - [ORM Injection](#orm-injection)
-  - [XML](#xml)
-  - [XXE](xxe)
+  - [FTP Injection](#ftp-injection)
+  - [XXE](#xxe)
   - [CSRF](#csrf)
   - [SSRF](#ssrf)
   - [Rails](#rails)
@@ -58,6 +58,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
   - [XSS](#tricks-xss)
   - [SQL Injection](#tricks-sql-injection)
   - [NoSQL Injection](#tricks-nosql-injection)
+  - [FTP Injection](#tricks-ftp-injection)
   - [SSRF](#tricks-ssrf)
   - [Header Injection](#tricks-header-injection)
   - [URL](#tricks-url)
@@ -105,7 +106,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [Got Your PW](https://gotyour.pw/) - Written by [@s3131212](https://github.com/s3131212).
 
 <a name="xss"></a>
-### XSS
+### XSS - Cross-Site Scripting
 
 * [H5SC ★1678](https://github.com/cure53/H5SC) - HTML5 Security Cheatsheet - Collection of HTML5 related XSS attack vectors by [@cure53](https://github.com/cure53).
 * [XSS.png ★268 ⏳1Y](https://github.com/jackmasa/XSS.png) - XSS mind map by [@jackmasa](https://github.com/jackmasa).
@@ -130,23 +131,27 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [ORM2Pwn: Exploiting injections in Hibernate ORM](https://www.slideshare.net/0ang3el/orm2pwn-exploiting-injections-in-hibernate-orm) - Written by [Mikhail Egorov](https://0ang3el.blogspot.tw/).
 * [ORM Injection](https://www.slideshare.net/simone.onofri/orm-injection) - Written by [Simone Onofri](https://onofri.org/).
 
-<a name="xml"></a>
-### XML
+<a name="ftp-injection"></a>
+### FTP Injection
 
-* [XML实体攻击 - 从内网探测到命令执行步步惊心](http://www.freebuf.com/video/49961.html) - Written by 张天琪.
+* [Advisory: Java/Python FTP Injections Allow for Firewall Bypass](http://blog.blindspotsecurity.com/2017/02/advisory-javapython-ftp-injections.html) - Written by [Timothy Morgan](https://plus.google.com/105917618099766831589).
+* [SMTP over XXE − how to send emails using Java's XML parser](https://shiftordie.de/blog/2017/02/18/smtp-over-xxe/) - Written by [Alexander Klink](https://shiftordie.de/).
 
 <a name="xxe"></a>
-### XXE
+### XXE - XML eXternal Entity
 
 * [XXE](https://phonexicum.github.io/infosec/xxe.html) - Written by [@phonexicum](https://twitter.com/phonexicum).
+* [XML实体攻击 - 从内网探测到命令执行步步惊心](http://www.freebuf.com/video/49961.html) - Written by 张天琪.
+* [XXE漏洞的简单理解和测试](https://b1ngz.github.io/XXE-learning-note/) - Written by [@b1ngz](https://b1ngz.github.io/).
 
 <a name="csrf"></a>
-### CSRF
+### CSRF - Cross-Site Request Forgery
 
+* [Wiping Out CSRF](https://medium.com/@jrozner/wiping-out-csrf-ded97ae7e83f) - Written by [Joe Rozner](https://medium.com/@jrozner).
 * [讓我們來談談 CSRF](http://blog.techbridge.cc/2017/02/25/csrf-introduction/) - Written by [TechBridge](http://blog.techbridge.cc/).
 
 <a name="ssrf"></a>
-### SSRF
+### SSRF - Server-Side Request Forgery
 
 * [SSRF bible. Cheatsheet](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit) - Written by [@Wallarm](https://twitter.com/wallarm).
 
@@ -267,6 +272,12 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 * [GraphQL NoSQL Injection Through JSON Types](https://medium.com/@east5th/graphql-nosql-injection-through-json-types-a1a0a310c759) - Written by [@east5th](https://medium.com/@east5th).
 
+<a name="tricks-ftp-injection"></a>
+### FTP Injection
+
+* [XML Out-Of-Band Data Retrieval](https://media.blackhat.com/eu-13/briefings/Osipov/bh-eu-13-XML-data-osipov-slides.pdf) - Written by [@a66at](https://twitter.com/a66at) and Alexey Osipov.
+* [XXE OOB exploitation at Java 1.7+](http://lab.onsec.ru/2014/06/xxe-oob-exploitation-at-java-17.html) - Written by [Ivan Novikov](http://lab.onsec.ru/).
+
 <a name="tricks-ssrf"></a>
 ### SSRF
 
@@ -299,6 +310,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 ### Frontend (like CSP bypass, URL spoofing, and something like that)
 
+* [Browser UI Security 技术白皮书](http://xlab.tencent.com/cn/wp-content/uploads/2017/10/browser-ui-security-whitepaper.pdf) - Written by [腾讯玄武实验室](http://xlab.tencent.com/).
 * [JSON hijacking for the modern web](http://blog.portswigger.net/2016/11/json-hijacking-for-modern-web.html) - Written by [portswigger](https://portswigger.net/).
 * [IE11 Information disclosure - local file detection](https://www.facebook.com/ExploitWareLabs/photos/a.361854183878462.84544.338832389513975/1378579648872572/?type=3&theater) - Written by James Lee.
 * [SOP bypass / UXSS – Stealing Credentials Pretty Fast (Edge)](https://www.brokenbrowser.com/sop-bypass-uxss-stealing-credentials-pretty-fast/) - Written by [Manuel](https://twitter.com/magicmac2000).
@@ -480,6 +492,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [Browser Extension and Login-Leak Experiment](https://extensions.inrialpes.fr/) - Browser Extension and Login-Leak Experiment.
 * [notes ★1098](https://github.com/ChALkeR/notes) - Some public notes by [@ChALkeR](https://github.com/ChALkeR).
 * [The Art of Subdomain Enumeration](https://blog.sweepatic.com/art-of-subdomain-enumeration/) - Written by [Patrik Hudak](https://blog.sweepatic.com/author/patrik/).
+* [A glimpse into GitHub's Bug Bounty workflow](https://githubengineering.com/githubs-bug-bounty-workflow/) - Written by [@gregose](https://github.com/gregose).
 
 ## Code of Conduct
 

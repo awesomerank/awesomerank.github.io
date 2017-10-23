@@ -122,7 +122,7 @@ title: Awesome Rank for podo/awesome-framer
 * [framer.module.fill ★6 ⏳2Y](https://github.com/karlerikjonatan/framer.module.fill) - Fill module for Framer.
 * [SpeechSynth ★9 ⏳2Y](https://github.com/joshmtucker/SpeechSynth) - Framer module for Web SpeechSynthesis.
 * [Comment-for-Framer ★16 ⏳2Y](https://github.com/awt2542/Comment-for-Framer) - Framer module for making comments in your prototypes.
-* [framer-viewNavigationController ★221](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
+* [framer-viewNavigationController ★221 ⏳1Y](https://github.com/chriscamargo/framer-viewNavigationController) - Simple controller for FramerJS that allows you to transition between views with just a couple lines of code.
 * [Layers-for-Framer ★34 ⏳1Y](https://github.com/awt2542/Layers-for-Framer) - Framer module that makes it easier to find layers in your project.
 * [Framer-Highlightr ★26 ⏳2Y](https://github.com/jonahvsweb/Framer-Highlightr) - Custom Framer module that shows hotspots over clickable layers in your prototype.
 * [SVGLayer](https://github.com/joshpuckett/FramerModules/tree/master/SVGLayer) - Module and corresponding Sketch plugin that make it trivial to work with SVG Paths in Framer.

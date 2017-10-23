@@ -847,6 +847,12 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [IBMs new programming model for building serverless apps](http://www.zdnet.com/article/ibm-unveils-new-programming-model-for-building-serverless-applications/) - Post about the "Composer" project developed by IBM.
 - [Capgemini cites biz model, pricing as hurdles to serverless adoption](https://www.sdxcentral.com/articles/news/capgemini-cites-biz-model-pricing-as-hurdles-to-serverless-adoption/2017/10/) - Post about the analysis by Capgemini regarding serverless adoption.
 - [Google Cloud vs. AWS](https://kinsta.com/blog/google-cloud-vs-aws/) - In-depth comparison between Google Cloud and Amazon AWS.
+- [Event-Driven architecture](https://herbertograca.com/2017/10/05/event-driven-architecture/) - Post about the Event-Driven software architecture pattern.
+- [Managing secrets, API keys and more](https://serverless.com/blog/serverless-secrets-api-keys/) - How to manage secrets, API keys and other sensitive information with the Serverless Framework.
+- [The (futile) resistance to serverless](https://medium.com/@nicksrockwell/the-futile-resistance-to-serverless-9f0303ba2b24) - Why serverless computing revolutionizes the way cloud software is being built.
+- [What would it take to bring AZ to serverless?](https://read.acloud.guru/serverless-availability-zones-are-the-missing-level-of-resiliency-for-aws-f5067ab1b688) - Why serverless availability zones are the missing level of resiliency for AWS.
+- [Turning serverless monitoring instruments into debugging tools](https://thenewstack.io/dashbird-turning-serverless-monitoring-instruments-debugging-tools/) - How [Dashbird.io](https://www.dashbird.io) can be used to monitor and debug serverless applications.
+- [Introducing StdLib Sourcecode](https://medium.com/stdlibhq/introducing-stdlib-sourcecode-share-your-node-js-serverless-code-with-developers-worldwide-b8fd5714e430) - Post about the new [StdLib Sourcecode](https://stdlib.com/sourcecode) product.
 
 ## Screencasts
 
@@ -1032,6 +1038,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [ServerlessConf NYC 2017 to address DevOps in a serverless world](https://thenewstack.io/serverlessconf-nyc-address-devops-serverless-world/) - Podcast about the upcoming ServerlessConf NYC 2017.
 - [Building reactive systems with AWS Lambda](https://vimeo.com/189519556) - Yan Cuis talk on how to build serverless applications on AWS.
 - [Microservices without servers](https://www.youtube.com/watch?v=znCBbrYeUA4) - Glynn Birds introduction talk about serverless computing.
+- [No-Side JavaScript and the serverless revolution (SeattleJS)](https://www.youtube.com/watch?v=g_tvdALkTXk) - Talk by Ryan H. Lewis about the serverless revolution at SeattleJS conference 2017.
+- [No-Side JavaScript and the serverless revolution (UtahJS)](https://www.youtube.com/watch?v=LIGpu7Bbfr8) - Talk by Ryan H. Lewis about the serverless revolution at UtahJS conference 2017.
 
 ## Amazon AWS resources
 
@@ -1095,7 +1103,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Wolfram Lambda](https://bitbucket.org/pstreule/wolfram-lambda) - HipChat Chatbot which integrates with WolframAlpha.
 - [Yith](https://github.com/craftship/yith) - Serverless private npm registry.
 - [Trevorbot ★12](https://github.com/conveyal/trevorbot) - Slackbot which will say you where Trevor is.
-- [Quotebot ★23](https://github.com/pmuens/quotebot) - Facebook Messenger chatbot which will return a random quote on message retrieval.
+- [Quotebot ★23 ⏳1Y](https://github.com/pmuens/quotebot) - Facebook Messenger chatbot which will return a random quote on message retrieval.
 - [Weekly2Pocket ★6 ⏳1Y](https://github.com/s0enke/weekly2pocket) - Saves weekly stories to the Pocket app.
 - [Pokégo serverless ★20 ⏳1Y](https://github.com/jch254/pokego-serverless) - Serverless-powered API to fetch nearby Pokemon Go data.
 - [Serverless Example ★14](https://github.com/andymac4182/serverless_example) - Different, feature rich examples for Serverless v1.
@@ -1424,7 +1432,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Stage variables](https://www.npmjs.com/package/serverless-plugin-stage-variables) - Add stage variables for Serverless 1.x to ApiGateway, so you can use variables in your Lambda's.
 - [DynamoDB local](https://github.com/99xt/serverless-dynamodb-local/tree/v1) - Allows to run dynamodb locally for Serverless.
 - [Stack outputs](https://www.npmjs.com/package/serverless-plugin-stack-outputs) - Plugin that outputs all stack outputs.
-- [Command line event args ★12](https://github.com/horike37/serverless-command-line-event-args) - Inline event.json for the invoke plugin.
+- [Command line event args ★12 ⏳1Y](https://github.com/horike37/serverless-command-line-event-args) - Inline event.json for the invoke plugin.
 - [WSGI ★80](https://github.com/logandk/serverless-wsgi) - Helps you to deploy Python WSGI applications (Flask/Django etc.).
 - [External SNS events ★15](https://github.com/silvermine/serverless-plugin-external-sns-events) - Let you use an already existent SNS topic as the event source.
 - [CloudWatch Sumologic ★3](https://github.com/ACloudGuru/serverless-plugin-cloudwatch-sumologic) - Plugin which auto-subscribes a log delivery Lambda function to lambda log groups created by Serverless.
@@ -1685,7 +1693,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Autoprune ★11 ⏳1Y](https://github.com/arabold/serverless-autoprune-plugin) - Delete old lambdas.
 - [Secrets ★76](https://github.com/trek10inc/serverless-secrets) - Secret management.
 - [Vandium ★7 ⏳1Y](https://github.com/vandium-io/vandium-serverless) - Vandium PlugIn for Serverless.
-- [Command line event args ★12](https://github.com/horike37/serverless-command-line-event-args) - Pass JSON to serverless via the command line.
+- [Command line event args ★12 ⏳1Y](https://github.com/horike37/serverless-command-line-event-args) - Pass JSON to serverless via the command line.
 - [Unit test boilerplate ★5 ⏳1Y](https://github.com/horike37/serverless-unittest-boilerplate) - Boilerplate for unit testing with Serverless.
 - [Dependency install ★5](https://github.com/99xt/serverless-dependency-install) - Serverless plugin for managing dependencies.
 - [DynamoDB local ★112](https://github.com/99xt/serverless-dynamodb-local) - Use DynamoDB locally with Serverless.

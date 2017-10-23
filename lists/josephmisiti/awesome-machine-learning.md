@@ -497,10 +497,12 @@ Further resources:
 * [Pavlov.js ★476](https://github.com/NathanEpstein/Pavlov.js) - Reinforcement learning using Markov Decision Processes
 * [MXNet](https://github.com/dmlc/mxnet) - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Go, Javascript and more.
 * [deeplearnjs ★4279](https://github.com/PAIR-code/deeplearnjs) - A hardware-accelerated machine intelligence library for the web
+* [JSMLT ★4](https://github.com/jsmlt/jsmlt) - Machine learning toolkit with classification and clustering for Node.js; supports visualization (see [visualml.io](https://visualml.io)).
 
 <a name="javascript-misc"></a>
 #### Misc
 
+* [stdlib ★536](https://github.com/stdlib-js/stdlib) - A standard library for JavaScript and Node.js, with an emphasis on numeric computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 * [sylvester ★957 ⏳2Y](https://github.com/jcoglan/sylvester) - Vector and Matrix math for JavaScript.
 * [simple-statistics ★1595](https://github.com/simple-statistics/simple-statistics) - A JavaScript implementation of descriptive, regression, and inference statistics. Implemented in literate JavaScript with no dependencies, designed to work in all modern browsers (including IE) as well as in Node.js.
 * [regression-js ★387](https://github.com/Tom-Alexander/regression-js) - A javascript library containing a collection of least squares fitting methods for finding a trend in a set of data.
@@ -860,6 +862,7 @@ be
 
 <a name="python-general-purpose"></a>
 #### General-Purpose Machine Learning
+* [CNTK ★12560](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. Documentation can be found [here](https://docs.microsoft.com/cognitive-toolkit/).
 * [auto_ml ★447](https://github.com/ClimbsRocks/auto_ml) - Automated machine learning for production and analytics. Lets you focus on the fun parts of ML, while outputting production-ready code, and detailed analytics of your dataset and results. Includes support for NLP, XGBoost, LightGBM, and soon, deep learning. 
 * [machine learning](https://github.com/jeff1evesque/machine-learning) - automated build consisting of a [web-interface](https://github.com/jeff1evesque/machine-learning#web-interface), and set of [programmatic-interface ★130](https://github.com/jeff1evesque/machine-learning#programmatic-interface) API, for support vector machines.  Corresponding dataset(s) are stored into a SQL database, then generated model(s) used for prediction(s), are stored into a NoSQL datastore.
 * [XGBoost ★8925](https://github.com/dmlc/xgboost) - Python bindings for eXtreme Gradient Boosting (Tree) Library
@@ -953,7 +956,7 @@ be
 * [matplotlib](http://matplotlib.org/) - A Python 2D plotting library.
 * [bokeh ★6533](https://github.com/bokeh/bokeh) - Interactive Web Plotting for Python.
 * [plotly](https://plot.ly/python/) - Collaborative web plotting for Python and matplotlib.
-* [vincent ★2023](https://github.com/wrobstory/vincent) - A Python to Vega translator.
+* [vincent ★2023 ⏳1Y](https://github.com/wrobstory/vincent) - A Python to Vega translator.
 * [d3py ★1236](https://github.com/mikedewar/d3py) - A plotting library for Python, based on [D3.js](https://d3js.org/).
 * [PyDexter ★31 ⏳1Y](https://github.com/D3xterjs/pydexter) - Simple plotting for Python. Wrapper for D3xterjs; easily render charts in-browser.
 * [ggplot ★3120](https://github.com/yhat/ggpy) - Same API as ggplot2 for R.
@@ -1030,7 +1033,7 @@ be
 
 <a name="python-kaggle"></a>
 #### Kaggle Competition Source Code
-* [wiki challenge ★8 ⏳5Y](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
+* [wiki challenge ★8 ⏳6Y](https://github.com/hammer/wikichallenge) - An implementation of Dell Zhang's solution to Wikipedia's Participation Challenge on Kaggle
 * [kaggle insults ★126 ⏳2Y](https://github.com/amueller/kaggle_insults) - Kaggle Submission for "Detecting Insults in Social Commentary"
 * [kaggle_acquire-valued-shoppers-challenge ★55 ⏳3Y](https://github.com/MLWave/kaggle_acquire-valued-shoppers-challenge) - Code for the Kaggle acquire valued shoppers challenge
 * [kaggle-cifar ★40 ⏳3Y](https://github.com/zygmuntz/kaggle-cifar) - Code for the CIFAR-10 competition at Kaggle, uses cuda-convnet
@@ -1052,6 +1055,7 @@ be
 #### Reinforcement Learning
 * [DeepMind Lab ★4189](https://github.com/deepmind/lab) - DeepMind Lab is a 3D learning environment based on id Software's Quake III Arena via ioquake3 and other open source software. Its primary purpose is to act as a testbed for research in artificial intelligence, especially deep reinforcement learning.
 * [Gym ★7595](https://github.com/openai/gym) - OpenAI Gym is a toolkit for developing and comparing reinforcement learning algorithms.
+* [Serpent.AI ★2842](https://github.com/SerpentAI/SerpentAI) - Serpent.AI is a game agent framework that allows you to turn any video game you own into a sandbox to develop AI and machine learning experiments. For both researchers and hobbyists. 
 * [Universe ★6109](https://github.com/openai/universe) - Universe is a software platform for measuring and training an AI's general intelligence across the world's supply of games, websites and other applications.
 * [ViZDoom ★498](https://github.com/mwydmuch/ViZDoom) - ViZDoom allows developing AI bots that play Doom using only the visual information (the screen buffer). It is primarily intended for research in machine visual learning, and deep reinforcement learning, in particular.
 

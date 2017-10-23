@@ -525,6 +525,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [helptransl8 ★5](https://github.com/papilip/helptransl8) - Tool for document translators
 
 ## DevOps
+ * [ansible-crystal ★0](https://github.com/CorbanR/ansible-crystal) - Ansible playbook for installing crystal
  * [crystal-cookbook ★4 ⏳1Y](https://github.com/vjdhama/crystal-cookbook) - Chef cookbook for installing crystal
 
 ## Editor Plugins

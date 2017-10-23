@@ -229,7 +229,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [pylint ★840](https://github.com/PyCQA/pylint) - looks for programming errors, helps enforcing a coding standard and sniffs for some code smells. It additionally includes `pyreverse` (an UML diagram generator) and `symilar` (a similarities checker). [Optional extensions](https://pylint.readthedocs.io/en/latest/reference_guide/extensions.html) are also included.
 * [pyroma ★20](https://github.com/regebro/pyroma) - rate how well a Python project complies with the best practices of the Python packaging ecosystem, and list issues that could be improved
 * [PyT - Python Taint ★578](https://github.com/python-security/pyt) - A static analysis tool for detecting security vulnerabilities in Python web applications.
-* [vulture](https://bitbucket.org/jendrikseipp/vulture) - find unused classes, functions and variables in Python code
+* [vulture ★130](https://github.com/jendrikseipp/vulture) - find unused classes, functions and variables in Python code
 * [xenon](https://github.com/rubik/xenon) - monitor code complexity using [`radon` ★748](https://github.com/rubik/radon)
 
 Wrappers:

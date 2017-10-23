@@ -278,7 +278,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [assert.sh ★314](https://github.com/lehmannro/assert.sh) - Bash unit testing framework
 * [bashful ★342 ⏳1Y](https://github.com/jmcantrell/bashful) - A collection of libraries to simplify writing Bash scripts
 * [bashmanager ★35 ⏳1Y](https://github.com/lingtalfi/bashmanager) - mini bash framework for creating command line tools
-* [bashwithnails ★3](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
+* [bashwithnails ★3 ⏳1Y](https://github.com/mindaugasbarysas/bashwithnails) - a Bash framework written just for fun with testing, dependency management & packaging
 * [bats ★4102](https://github.com/sstephenson/bats) - Bash Automated Testing System
 * [crash ★9](https://github.com/molovo/crash) - Proper error handling, exceptions and try/catch for ZSH
 * [Fishtape ★210](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish

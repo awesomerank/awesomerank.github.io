@@ -98,7 +98,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [IsoHill ★110 ⏳5Y](https://github.com/jadbox/IsoHill-Game-Engine) - GPU-based Isometric engine built on Starling, with TILED map parser, layers, etc ([website](http://www.isohill.com/)).
 * [YCanvas ★119 ⏳2Y](https://github.com/jozefchutka/YCanvas) - High-performance 2D tile renderer and world map renderer.
 * [ND2D](https://github.com/lrrrs/nd2d) - GPU-accelerated 2D game engine using Stage3D ([ND2Dx ★37 ⏳2Y](https://github.com/NoRabbit/ND2Dx)).
-* [Nexus ★14 ⏳2Y](https://github.com/tversteeg/Nexus) - GPU-accelerated 2D game engine using Stage3D.
+* [Nexus ★14 ⏳3Y](https://github.com/tversteeg/Nexus) - GPU-accelerated 2D game engine using Stage3D.
 
 #### 3D Frameworks
 
@@ -216,7 +216,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### Camera
 
-* [CameraDetection ★34 ⏳4Y](https://github.com/cataclysmicrewind/CameraDetection) - Camera detection.
+* [CameraDetection ★34 ⏳5Y](https://github.com/cataclysmicrewind/CameraDetection) - Camera detection.
 * [Fluocam ★11 ⏳3Y](https://github.com/Fluocode/Fluocam) - Virtual camera for Starling applications.
 * [WebcamRecorder ★21 ⏳5Y](https://github.com/Stupeflix/WebcamRecorder) - Chromeless video/audio/still image recording from webcams.
 * [FlashyWrappers ★13](https://github.com/rainbowcreatures/FlashyWrappers) - Recording video from AIR apps on Windows/Android/iOS/OSX.
@@ -275,7 +275,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3sfxr ★49 ⏳2Y](https://github.com/SFBTom/as3sfxr) - Port of sfxr from C++ to AS3, using the new sound and file capabilities of Flash Player 10.
 * [AS3-audio ★5 ⏳6Y](https://github.com/singuerinc/as3-audio) - Audio Management in Actionscript.
 * [SiON ★86 ⏳1Y](https://github.com/keim/SiON) - Flash Software Synthesizer.
-* [FlashWavRecorder ★212](https://github.com/michalstocki/FlashWavRecorder) - Recording audio and saving as a WAV.
+* [FlashWavRecorder ★212 ⏳1Y](https://github.com/michalstocki/FlashWavRecorder) - Recording audio and saving as a WAV.
 * [Local-recorder ★13 ⏳3Y](https://github.com/pauln/local-audio-recorder) - Local audio recorder (no streaming server required).  Currently requires Flash Player 10.1 or above.
 * [Jukebox ★1 ⏳5Y](https://github.com/AlwynW/Jukebox) - Music manager for Actionscript 3 projects.
 * [Flod ★45 ⏳5Y](https://github.com/photonstorm/Flod) - Amiga SoundTracker (MOD) and FastTracker (XM) Replay Library.
@@ -452,7 +452,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### OAuth
 
-* [Actionscript-oauth2 ★109 ⏳2Y](https://github.com/charlesbihis/actionscript-oauth2) - Interfacing with OAuth 2.0 services.
+* [Actionscript-oauth2 ★109 ⏳3Y](https://github.com/charlesbihis/actionscript-oauth2) - Interfacing with OAuth 2.0 services.
 * [oauth-flex ★7 ⏳3Y](https://github.com/oauth-io/oauth-flex) - OAuth.io plugin for Apache Flex/ActionScript.
 * [oauth-as3 ★4 ⏳7Y](https://github.com/mlepicki/oauth-as3) - Mavenized, RSL version of oauth-as3 library - OAuth for ActionScript 3.
 

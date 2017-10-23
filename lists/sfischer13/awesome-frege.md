@@ -181,7 +181,7 @@ You might also like [awesome-haskell ★1224](https://github.com/krispo/awesome-
 ### Web Frameworks
 
 - [Chinook ★27 ⏳1Y](https://github.com/fregelab/chinook) - Frege web framework based on SparkJava.
-- [Fregelet ★5](https://github.com/mmhelloworld/fregelet) - Frege web framework based on servlet.
+- [Fregelet ★5 ⏳1Y](https://github.com/mmhelloworld/fregelet) - Frege web framework based on servlet.
 - [Play ★17 ⏳1Y](https://github.com/mmhelloworld/hello-play-frege) - Play framework with Frege.
 
 ## Sample Applications

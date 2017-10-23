@@ -160,7 +160,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-css-base64 ★59 ⏳1Y](https://github.com/zckrs/gulp-css-base64) - Transform all resources found (those within a url() declaration) in CSS files into base64-encoded data URI strings.
 * [gulp-svg2png ★51](https://github.com/akoenig/gulp-svg2png) - Convert SVGs to PNGs.
 * [gulp-responsive ★379](https://github.com/mahnunchik/gulp-responsive) - Generate images at different sizes.
-* [gulp-svgstore ★575](https://github.com/w0rm/gulp-svgstore) - Combine svg files into one with <symbol> elements.
+* [gulp-svgstore ★575 ⏳1Y](https://github.com/w0rm/gulp-svgstore) - Combine svg files into one with <symbol> elements.
 * [gulp-iconfont ★667](https://github.com/nfroidure/gulp-iconfont) - Create icon fonts from several SVG icons.
 
 ### Injecting Assets

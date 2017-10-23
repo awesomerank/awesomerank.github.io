@@ -138,6 +138,9 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
     - 2013 @ Berlin; Aug/14+15 - #2
     - 2012 @ Berlin; Aug/17    - #1
 
+- **Ruby on Ice Conference - Ruby on Ice** (web: [rubyonice.com](http://rubyonice.com), t:  [rubyoniceconf](https://twitter.com/rubyoniceconf)) _since 2017_
+    - 2018 @ Tegernsee, Bavaria (near Munich); Jan/26-Jan/28
+
 <!-- new list; user groups -->
 
 - @ Berlin
@@ -587,6 +590,10 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 - **Mountain West Ruby Conference - MtnWestRubyConf - MWRC** (web: [mtnwestrubyconf.org](http://mtnwestrubyconf.org), t: [mwrc](https://twitter.com/mwrc))
    - @ Salt Lake City, Utah
 
+- **RubyHACK: High Altitude Coding Konference** (web: [rubyhack.com](http://rubyhack.com), t: [utrubyhack](https://twitter.com/utrubyhack))
+   - 2017 @ Salt Lake City, Utah; April/20-21 ($199.00)
+   - 2018 @ Salt Lake City, Utah; May/3-4 (CFP Open)
+      
 ##### Texas
 
 - **Keep Ruby Weird** (web: [keeprubyweird.com](http://keeprubyweird.com), t: [keeprubyweird](https://twitter.com/keeprubyweird))
@@ -895,7 +902,7 @@ NOTE: Follow [@rubycalendar](https://twitter.com/rubycalendar) on Twitter for ne
 NOTE: A [calendar page](http://planetruby.github.io/calendar)
 gets auto-generated from this page listing conferences sorted by
 date (that is, year and month)
-or better try the "live" version using the [whatson command line tool ★12 ⏳1Y](https://github.com/textkit/whatson).
+or better try the "live" version using the [whatson command line tool ★12 ⏳2Y](https://github.com/textkit/whatson).
 Type:
 
 ~~~

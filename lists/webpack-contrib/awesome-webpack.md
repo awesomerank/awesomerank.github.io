@@ -105,7 +105,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 - [SVG Url Loader ★85](https://github.com/bhovhannes/svg-url-loader): Loader which loads SVG file as utf-8 encoded Url. -- *Maintainer*: `Hovhannes Babayan` [![Github][githubicon]](https://github.com/bhovhannes)
 - [json5 Loader](https://github.com/webpack/json5-loader): json5 loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
 - [json Loader](https://github.com/webpack/json-loader): json loader module for Webpack. -- *Maintainer*: `Webpack Team` [![Github][githubicon]](https://github.com/webpack)
-- [mermaid Loader ★6](https://github.com/popul/mermaid-loader): [mermaid](http://knsv.github.io/mermaid/) loader module (diagrams) for Webpack. -- *Maintainer*: `Paul Musso` [![Github][githubicon]](https://github.com/popul)
+- [mermaid Loader ★6 ⏳1Y](https://github.com/popul/mermaid-loader): [mermaid](http://knsv.github.io/mermaid/) loader module (diagrams) for Webpack. -- *Maintainer*: `Paul Musso` [![Github][githubicon]](https://github.com/popul)
 - [wasm loader ★247](https://github.com/ballercat/wasm-loader): wasm binary loader module for Webpack. -- *Maintainer*: `Arthur Buldauskas` [![Github][githubicon]](https://github.com/wasm-loader)
 
 #### Component & Template

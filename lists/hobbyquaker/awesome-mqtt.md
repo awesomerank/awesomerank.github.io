@@ -99,12 +99,14 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [emqttc ★97](https://github.com/emqtt/emqttc) - Asynchronous Erlang MQTT Client.
 * [Moscapsule ★169](https://github.com/flightonary/Moscapsule) - MQTT Client for iOS written in Swift.
 * [hbmqtt ★216](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio.
+* [Hulaaki ★83](https://github.com/suvash/hulaaki) - An Elixir library for clients communicating with MQTT brokers.
+* [Machine Head ★47](https://github.com/clojurewerkz/machine_head) - A Clojure MQTT Client.
 * [M2Mqtt](https://m2mqtt.wordpress.com/) - a MQTT client available for all .Net platforms (.Net Framework, .Net Compact Framework and .Net Micro Framework) and WinRT platforms (Windows 8.1, Windows Phone 8.1 and Windows 10).
 * [Mosquitto-PHP ★211](https://github.com/mgdm/Mosquitto-PHP) - A wrapper for the Mosquitto MQTT client library for PHP.
 * [mqtt-client ★11 ⏳2Y](https://github.com/centamiv/mqtt-client) - A Polymer Web Component that implements a MQTT client (uses Paho mqttws31.js).
 * [MQTT-Client-Framework ★762](https://github.com/ckrey/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework.
 * [mqtt.dart ★11](https://github.com/jnguillerme/mqtt.dart) - dart mqtt client.
-* [mqtt-elements ★20](https://github.com/mqttjs/mqtt-elements) - Polymer elements for MQTT.
+* [mqtt-elements ★20 ⏳1Y](https://github.com/mqttjs/mqtt-elements) - Polymer elements for MQTT.
 * [mqttex ★41 ⏳2Y](https://github.com/alfert/mqttex) - MQTT implementation in Elixir.
 * [MQTTKit ★372 ⏳1Y](https://github.com/mobile-web-messaging/MQTTKit) - MQTT Objective-C client for iOS.
 * [mqtt_cpp ★20](https://github.com/redboltz/mqtt_cpp) - MQTT client for C++14 based on Boost.Asio.
@@ -256,7 +258,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Messaging
 
-* [mqtt-irc-bot ★13 ⏳1Y](https://github.com/dobermai/mqtt-irc-bot) - A MQTT to IRC / IRC to MQTT bridge or bot.
+* [mqtt-irc-bot ★13 ⏳2Y](https://github.com/dobermai/mqtt-irc-bot) - A MQTT to IRC / IRC to MQTT bridge or bot.
 * [mqttwarn ★587](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services.
 * [twitter-to-mqtt ★12 ⏳4Y](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
 

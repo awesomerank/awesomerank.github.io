@@ -444,7 +444,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 * [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management of the day-to-day. Git + Scrum = Team More Productive
 * [Invoice Ninja ★3132](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application
 * [Koel ★8235](https://github.com/phanan/koel) - Personal music streaming server
-* [Laravel Tricks ★917](https://github.com/CodepadME/laravel-tricks) - Source for the Laravel Tricks website
+* [Laravel Tricks ★917 ⏳1Y](https://github.com/CodepadME/laravel-tricks) - Source for the Laravel Tricks website
 * [Laravel.io](https://github.com/laravelio/laravel.io) - Source for the Laravel.io Community Portal
 * [Paperwork ★6114](https://github.com/twostairs/paperwork) - Note-taking & archiving application
 * [PHPHub ★1825](https://github.com/summerblue/phphub) - Forum and source for the PHP & Laravel China community

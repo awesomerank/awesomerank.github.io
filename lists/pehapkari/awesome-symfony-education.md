@@ -34,7 +34,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 ## Series for begginers
 
-* [Joyful Development with Symfony 3](http://knpuniversity.com/screencast/symfony) [2016] by KnpUniversity
+* [Joyful Development with Symfony 3](https://knpuniversity.com/screencast/symfony) [2016] by KnpUniversity
 * [Symfony po krůčkách na Zdroják.cz](https://www.zdrojak.cz/serialy/symfony-po-kruckach/) [2015/2016] [česky]
 
 
@@ -47,20 +47,27 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 
 * [Decouple your application with (Domain-)Events](https://www.youtube.com/watch?v=K9jub4JPpcc) by Benjamin Eberlei [2013]
 * [Re-thinking Event Listeners](http://mmoreram.com/blog/2015/08/20/re-thinking-event-listeners/) [2015]
-* [Journey to the Center of Symfony: HttpKernel Request-Response](http://knpuniversity.com/screencast/symfony-journey) by KnpUniversity [2015]
+* [Journey to the Center of Symfony: HttpKernel Request-Response](https://knpuniversity.com/screencast/symfony-journey) by KnpUniversity [2015]
 
 
 ## Security
 
 * [Symfony Security, Roles vs. Voters](https://stovepipe.systems/post/symfony-security-roles-vs-voters) [2015]
 * [Do not use FOSUserBundle](https://jolicode.com/blog/do-not-use-fosuserbundle) [2015]
-* [The new Voter Class](http://knpuniversity.com/screencast/new-in-symfony3/voter) [2016] by KnpUniversity
+* [The new Voter Class](https://knpuniversity.com/screencast/new-in-symfony3/voter) [2016] by KnpUniversity
 
 
 ## Forms
 
 - [Avoiding Entities in Forms](https://stovepipe.systems/post/avoiding-entities-in-forms) [2016]
 - [Rethinking Form Development](https://stovepipe.systems/post/rethinking-form-development) [2016]
+
+
+## Doctrine
+
+* [How to use Repository with Doctrine as Service in Symfony](https://www.tomasvotruba.cz/blog/2017/10/16/how-to-use-repository-with-doctrine-as-service-in-symfony/) [2017]
+* [Mastering Symfony2 Performance – Doctrine](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014]
+* [Rich domain model with Symfony 2.5 and Doctrine 2.5](https://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014]
 
 
 ## Translations
@@ -78,7 +85,7 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 ## Decoupling
 
 * [The Framework as an implementation](https://www.youtube.com/watch?v=0L_9NutiJlc) by Marcello Duarte & Konstantin Kudryashov [2013], [Github repository ★206 ⏳3Y](https://github.com/MarcelloDuarte/hexagonal-symfony)
-* [Symfony2: How to create framework independent controllers](https://php-and-symfony.matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) [2014]
+* [Symfony2: How to create framework independent controllers](https://matthiasnoback.nl/2014/06/how-to-create-framework-independent-controllers/) [2014]
 
 
 ## Legacy
@@ -91,13 +98,11 @@ A curated list of amazingly awesome Symfony **articles, series and books**.
 ## Performance
 
 * [Mastering Symfony2 Performance – Internals](http://labs.octivi.com/mastering-symfony2-performance-internals/) [2014]
-* [Mastering Symfony2 Performance – Doctrine](http://labs.octivi.com/mastering-symfony2-performance-doctrine/) [2014]
 * [5 Ways to optimize Symfony Baseline Performance](https://tideways.io/profiler/blog/5-ways-to-optimize-symfony-baseline-performance) [2015]
 
 
 ## DDD
 
-* [Rich domain model with Symfony 2.5 and Doctrine 2.5](https://www.slideshare.net/_leopro_/rich-domain-model-with-symfony-25-and-doctrine-25) [2014]
 * [DDD with Symfony2: Folder Structure And Code First](http://williamdurand.fr/2013/08/07/ddd-with-symfony2-folder-structure-and-code-first/) [2013]
 
 

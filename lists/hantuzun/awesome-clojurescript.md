@@ -90,7 +90,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 
 ### Document Object Model
 - [cljs-binding ★56 ⏳5Y](https://github.com/fluentsoftware/cljs-binding) – It binds html elements to ClojureScript functions.
-- [Crate ★206 ⏳1Y](https://github.com/ibdknox/crate) – A ClojureScript implementation of Hiccup.
+- [Crate ★206 ⏳2Y](https://github.com/ibdknox/crate) – A ClojureScript implementation of Hiccup.
 - [Dominator ★72 ⏳2Y](https://github.com/dubiousdavid/dominator) – Virtual-Dom in ClojureScript.
 - [Dommy ★738 ⏳1Y](https://github.com/plumatic/dommy) – A no-nonsense ClojureScript templating and DOM manipulation library.
 - [Enfocus](http://ckirkendall.github.io/enfocus-site/) – A DOM manipulation and templating library for ClojureScript inspired by Enlive.

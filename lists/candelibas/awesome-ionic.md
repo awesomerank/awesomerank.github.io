@@ -114,6 +114,7 @@ An "awesome" list of the Ionic resources
 * [Ionic in One Hour](http://courses.devdactic.com/courses/ionic-2-in-one-hour?product_id=104238)
 * [Build a Custom Flash Card Component in Ionic](https://www.youtube.com/watch?v=BKFQKywl_GM)
 * [Hacking CSS in Ionic](https://www.youtube.com/watch?v=sXFmkdhOEVc)
+* [Learn Ionic 3 From Scratch](https://www.youtube.com/watch?v=JcEGTektejA&list=PLYxzS__5yYQng-XnJhB21Jc7NW1OIaqct)
 
 #### Books
 * [Building Mobile Apps with Ionic](https://www.joshmorony.com/building-mobile-apps-with-ionic-2/)

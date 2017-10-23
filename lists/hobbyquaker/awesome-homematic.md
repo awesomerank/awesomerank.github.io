@@ -57,7 +57,8 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 ## CCU Alternatives
 
 * [Hmcon ★25](https://github.com/hobbyquaker/hmcon) - Homematic Interface and Configuration. 
-* [Homegear](https://www.homegear.eu/index.php/Main_Page) - Homegear is a free and open source program to interface your smart home devices with your home automation software or your own scripts.
+* [Homegear](https://www.homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
+* [piVCCU ★1](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU2 firmware inside a virtualized container (lxc) on a Raspberry Pi running Raspbian Jessie or Stretch.
 * [RaspberryMatic ★122](https://github.com/jens-maus/RaspberryMatic) - Lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
 * [YAHM ★80](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container.
 
