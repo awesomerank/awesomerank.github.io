@@ -108,7 +108,7 @@ title: Awesome Rank for mateusortiz/webcomponents-the-right-way
 * [Generator Elements](https://github.com/webcomponents/generator-element) A Yeoman Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
 * [Generator Polymer ★986](https://github.com/yeoman/generator-polymer) Yeoman generator for scaffolding Polymer apps
 * [Geneator X-Tag ★7 ⏳3Y](https://github.com/x-tag/yo-x-tag-generator) X-Tag generator for Yeoman
-* [Slush Element ★36](https://github.com/webcomponents/slush-element) A Slush Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
+* [Slush Element ★36 ⏳1Y](https://github.com/webcomponents/slush-element) A Slush Generator that provides a functional boilerplate to easily create Custom Elements using Polymer, X-Tag or VanillaJS.
 
 
 ## Tests

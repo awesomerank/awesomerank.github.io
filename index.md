@@ -129,7 +129,7 @@ title: Awesome Rank for sindresorhus/awesome
 	- [AVA ★218](lists/avajs/awesome-ava.md) - Test runner.
 	- [ESLint ★927](lists/dustinspecker/awesome-eslint.md) - Linter.
 	- [Functional Programming ★2063](lists/stoeffel/awesome-fp-js.md)
-	- [Observables ★203](lists/sindresorhus/awesome-observables.md)
+	- [Observables ★203 ⏳1Y](lists/sindresorhus/awesome-observables.md)
 	- [npm scripts ★317](lists/RyanZim/awesome-npm-scripts.md) - Task runner.
 - [Swift ★13015](lists/matteocrippa/awesome-swift.md)
 	- [Education ★5242](lists/hsavit1/Awesome-Swift-Education.md)

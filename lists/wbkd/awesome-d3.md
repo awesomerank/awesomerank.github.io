@@ -112,7 +112,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 geomap](http://d3-geomap.github.io/) - Library for creating geographic maps
 - [d3.geo2rect ★146](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
 - [earthjs.js ★34](https://github.com/earthjs/earthjs) - Easy building orthographic globe, using D3v4 with SVG, Canvas & WebGL(Threejs) 
-- [mapmap.js ★78](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
+- [mapmap.js ★78 ⏳1Y](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js ★82 ⏳2Y](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 - [maptable ★48](https://github.com/Packet-Clearing-House/maptable) - Convert any dataset to a customizable set of visual components (Map, Filters, Table)
 - [simple map](http://code.minnpost.com/simple-map-d3/) - Easy choropleth style maps

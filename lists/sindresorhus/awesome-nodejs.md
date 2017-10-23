@@ -406,7 +406,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - Observables
 	- [zen-observable ★269](https://github.com/zenparsing/zen-observable) - Implementation of Observables.
 	- [RxJS ★8563](https://github.com/ReactiveX/RxJS) - Reactive programming.
-	- [observable-to-promise ★203](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
+	- [observable-to-promise ★203 ⏳1Y](https://github.com/sindresorhus/awesome-observables) - Convert an Observable to a Promise.
 	- [More…](https://github.com/sindresorhus/awesome-observables)
 - Generators
 	- [co ★8864](https://github.com/tj/co) - The ultimate generator based flow-control goodness.

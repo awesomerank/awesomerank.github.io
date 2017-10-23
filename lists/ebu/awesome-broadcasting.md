@@ -131,7 +131,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [MXF Inspect](http://www.myriadbits.com/) - A Windows tool to display the internal structure of an MXF (Material eXchange Format) file.
 * [Photon ★91](https://github.com/Netflix/photon) - Implementation of the SMPTE Interoperable Master Format (IMF) standard.
 * [QCTools ★94](https://github.com/bavc/qctools) - Quality Control tools for video preservation to analyse digitized video files.
-* [Rotter ★23 ⏳1Y](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
+* [Rotter ★23 ⏳2Y](https://github.com/njh/rotter) - Recording of Transmissions / Audio Logger for JACK.
 * [silan ★20](https://github.com/x42/silan) -  Audiofile silence analyzer.
 * [Sonic Visualiser](http://www.sonicvisualiser.org/) - An application for viewing and analysing the contents of music audio files.
 * [VMAF ★384](https://github.com/Netflix/vmaf) - Perceptual video quality assessment based on multi-method fusion.

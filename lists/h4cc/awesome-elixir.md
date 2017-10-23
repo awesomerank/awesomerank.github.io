@@ -362,7 +362,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [discovery ★204](https://github.com/undeadlabs/discovery) - An OTP application for auto-discovering services with Consul.
 * [erlcloud ★511](https://github.com/erlcloud/erlcloud) - Cloud Computing library for Erlang (Amazon EC2, S3, SQS, SimpleDB, Mechanical Turk, ELB).
 * [ex_aws ★496](https://github.com/CargoSense/ex_aws) - AWS client, supporting Dynamo, Kinesis, Lambda, SQS, and S3.
-* [ex_riak_cs ★4](https://github.com/ayrat555/ex_riak_cs) - Riak CS API client.
+* [ex_riak_cs ★4 ⏳1Y](https://github.com/ayrat555/ex_riak_cs) - Riak CS API client.
 * [fleet_api ★7 ⏳2Y](https://github.com/jordan0day/fleet-api) - A simple wrapper for the Fleet (CoreOS) API. Can be used with etcd tokens or via direct node URLs.
 * [Gandi ★0](https://github.com/Ahamtech/elixir-Gandi) - Gandi Wrapper for Leaseweb infrastructure.
 * [IElixir ★130](https://github.com/pprzetacznik/IElixir) - Jupyter's kernel for Elixir programming language.

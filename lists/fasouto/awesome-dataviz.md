@@ -137,7 +137,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 ## Other tools
 Tools that are not tied to a particular platform or language.
 - [Charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file.
-- [Circos](http://circos.ca) - Visualizes data in a circular layout, ideal for exploring relationships between objects or positions. [Mirror on github ★1](https://github.com/node/circos).
+- [Circos](http://circos.ca) - Visualizes data in a circular layout, ideal for exploring relationships between objects or positions. [Mirror on github ★1 ⏳1Y](https://github.com/node/circos).
 - [Gephi ★2235](https://github.com/gephi/gephi) - An open-source platform for visualizing and manipulating large graphs
 - [Lightning](http://lightning-viz.org/) - A data-visualization server providing API-based access to reproducible, web-based, interactive visualizations.
 - [RAW](http://rawgraphs.io) - Create web visualizations from CSV or Excel files.

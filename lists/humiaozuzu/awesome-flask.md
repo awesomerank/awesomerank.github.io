@@ -161,7 +161,7 @@ Plugins
     - [celery ★7828](https://github.com/celery/celery) - Distributed Task Queue
 - Payment
     - [PagSeguro - Brazil](https://github.com/rochacbruno/python-pagseguro/tree/master/examples) - Example to integrate Flask to PagSeguro Brazilian payment gateway
-    - [alipay_python ★556 ⏳1Y](https://github.com/fengli/alipay_python) - not a flask plugin now but you can integrate easily
+    - [alipay_python ★556 ⏳2Y](https://github.com/fengli/alipay_python) - not a flask plugin now but you can integrate easily
     - [flask-paypal ★41 ⏳4Y](https://github.com/jdiez17/flask-paypal) - PayPal integration example with Flask
     - [Flask-WePay ★7 ⏳6Y](https://github.com/maxcountryman/flask-wepay) - A Flask wrapper for WePay's Python API
 - Exception tracking

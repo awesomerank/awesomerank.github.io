@@ -1202,7 +1202,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [telebot ★333](https://github.com/tucnak/telebot) - Telegram bot framework written in Go.
 * [telegram-bot-api](https://github.com/Syfaro/telegram-bot-api) - Simple and clean Telegram bot client.
 * [textbelt](https://github.com/dietsche/textbelt) - Go client for the textbelt.com txt messaging API.
-* [TheMovieDb ★10 ⏳1Y](https://github.com/jbrodriguez/go-tmdb) - Simple golang package to communicate with [themoviedb.org](https://themoviedb.org).
+* [TheMovieDb ★10 ⏳2Y](https://github.com/jbrodriguez/go-tmdb) - Simple golang package to communicate with [themoviedb.org](https://themoviedb.org).
 * [translate](https://github.com/poorny/translate) - Go online translation package.
 * [Trello ★20](https://github.com/adlio/trello) - Go wrapper for the Trello API.
 * [tumblr ★6](https://github.com/mattcunningham/gumblr) - Go wrapper for the Tumblr v2 API.

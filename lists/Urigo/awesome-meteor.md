@@ -92,6 +92,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [themeteorites:blaze-magic-events ★23 ⏳1Y](https://github.com/themeteorites/blaze-magic-events) - A new way of binding event handlers to html elements for Meteor's Blaze
 * [manuel:viewmodel ★203](https://github.com/ManuelDeLeon/viewmodel) - MVVM for Meteor
 * [webix:webix ★342 ⏳1Y](https://github.com/dandv/meteor-webix) - Meteor.js - Webix UI integration
+* [uniforms ★336](https://github.com/vazco/uniforms) - Bunch of React components and helpers to easily generate and validate forms. [Seamlessly integrate with `aldeed:simple-schema` and `simpl-schema`](https://github.com/vazco/uniforms/blob/master/INTRODUCTION.md#quick-start).
 
 ## Users and Authentication
 
