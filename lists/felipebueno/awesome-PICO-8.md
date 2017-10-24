@@ -86,7 +86,7 @@ title: Awesome Rank for felipebueno/awesome-PICO-8
 
 ## Text Editors Language Support
 
-- Visual Studio Code: [vscode-pico8 ★1](https://github.com/nathanchere/vscode-pico8)
+- Visual Studio Code: [vscode-pico8 ★1 ⏳1Y](https://github.com/nathanchere/vscode-pico8)
 - Atom: [language-pico8](https://atom.io/packages/language-pico8)
 - Sublime: [Sublime PICO-8](https://packagecontrol.io/packages/PICO-8) - PICO-8 plugin for the Sublime Text editor (color scheme, font, build system, code completion, snippets...).
 - Vim: [vim-pico8-syntax ★28](https://github.com/justinj/vim-pico8-syntax)

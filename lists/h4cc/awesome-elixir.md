@@ -305,7 +305,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [active ★49](https://github.com/synrc/active) - Recompilation and Reloading on FileSystem changes.
 * [coffee_rotor ★16 ⏳3Y](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 * [dismake ★3 ⏳2Y](https://github.com/jarednorman/dismake) - Mix compiler running make.
-* [etude ★10](https://github.com/exstruct/etude) - Parallel computation coordination compiler for Erlang/Elixir.
+* [etude ★10 ⏳1Y](https://github.com/exstruct/etude) - Parallel computation coordination compiler for Erlang/Elixir.
 * [ExMake ★16 ⏳2Y](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
 * [Exscript ★5](https://github.com/liveforeverx/exscript) - Elixir escript library.
 * [mad ★118](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
@@ -1308,7 +1308,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [palette ★1 ⏳2Y](https://github.com/lpil/palette) - A handy library for colouring strings in Elixir.
 * [pinyin ★14](https://github.com/lidashuang/pinyin) - Chinese Pinyin lib for Elixir.
 * [porterstemmer ★4 ⏳2Y](https://github.com/frpaulas/porterstemmer) - Porter Stemmer in Elixir.
-* [pretty_hex ★4 ⏳2Y](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
+* [pretty_hex ★4 ⏳3Y](https://github.com/polsab/pretty_hex) - A binary hex dumping library in Elixir.
 * [quickrand ★19](https://github.com/okeuday/quickrand) - Quick Random Number Generation.
 * [ref_inspector ★4](https://github.com/elixytics/ref_inspector) - Referer parser library in Elixir. Fetching info from URLs.
 * [secure_random ★64](https://github.com/patricksrobertson/secure_random.ex) - Convenience library for random base64 strings modeled after my love for Ruby's SecureRandom.

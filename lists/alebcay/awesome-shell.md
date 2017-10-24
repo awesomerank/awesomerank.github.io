@@ -129,7 +129,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [gittify ★22](https://github.com/momeni/gittify) - A colorful Bash prompt + customized Git aliases
 * [Gogh - Color Scheme ★1348](https://github.com/Mayccoll/Gogh) - Color Scheme for Gnome Terminal
 * [liquidprompt ★3250](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & Zsh
-* [mysql-colorize ★40](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
+* [mysql-colorize ★40 ⏳1Y](https://github.com/zpm-zsh/mysql-colorize) -  Colorization for mysql comand-line client
 * [oh-my-git ★2624](https://github.com/arialdomartini/oh-my-git) - An opinionated git prompt for bash and zsh
 * [sexy-bash-prompt ★791](https://github.com/twolfson/sexy-bash-prompt) - Bash prompt with colors, Git statuses, and Git branches
 

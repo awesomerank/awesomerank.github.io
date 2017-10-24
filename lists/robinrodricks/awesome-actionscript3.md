@@ -558,7 +558,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Zexpression ★9 ⏳3Y](https://github.com/Xorcerer/zexpression) - Parse and evalate math expressions with functions and variables.
 * [FlexibleMatrix ★2 ⏳7Y](https://github.com/Lukx/FlexibleMatrix) - A multi purpose Matrix class.
 * [AS3eval](http://eval.hurlant.com/) - Packages the Tamarin ESC compiler to work within Flash Player. ([alternate ★11 ⏳5Y](https://github.com/SimonRichardson/as3-eval)).
-* [FlashFormulaEditor ★15 ⏳4Y](https://github.com/zasdfgbnm/FlashFormulaEditor) - Formula editor made in Adobe Flex.
+* [FlashFormulaEditor ★15 ⏳5Y](https://github.com/zasdfgbnm/FlashFormulaEditor) - Formula editor made in Adobe Flex.
 
 #### Text
 

@@ -269,6 +269,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## HTTP
  * [cossack ★64](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
+ * [crest ★19](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
  * [crul ★92](https://github.com/porras/crul) - Command line HTTP client
  * [cryload ★107](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool
  * [halite ★19](https://github.com/icyleaf/halite) - Yet another simple HTTP and REST client with a chainable API, built-in sessions and timeouts
@@ -447,7 +448,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [crystal-darksky ★3](https://github.com/sb89/crystal-darksky) - Wrapper for the [Dark Sky](https://darksky.net) API
  * [crystal-github ★2](https://github.com/felipeelias/crystal-github) - Wrapper for the [Github](https://github.com/) API
  * [crystal-monzo ★0](https://github.com/barisbalic/crystal-monzo) - A client for the [Monzo API](https://monzo.com/docs/)
- * [crystal-ovh ★4](https://github.com/ovh/crystal-ovh) - Lightweight Crystal wrapper around [OVH](https://eu.api.ovh.com/)'s API
+ * [crystal-ovh ★4 ⏳1Y](https://github.com/ovh/crystal-ovh) - Lightweight Crystal wrapper around [OVH](https://eu.api.ovh.com/)'s API
  * [crystal-swapi ★1](https://github.com/sb89/crystal-swapi) - Star Wars API (SWAPI) wrapper
  * [crystal_slack ★9](https://github.com/manastech/crystal_slack) - A tool that parses Slack slash commands or send incoming web hooks
  * [dotacr ★7](https://github.com/azah/dotacr) - Wrapper for Valve's DotA API

@@ -363,7 +363,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [ellie-slack ★86 ⏳1Y](https://github.com/christinac/ellie-slack) - Eliza's younger, hipper, psychobabble-friendly successor as a Slackbot
 - [errbot ★1459](https://github.com/errbotio/errbot) - A plugin-based chatbot designed to be easily deployable, extensible and maintainable
 - [flask-slack ★76 ⏳1Y](https://github.com/VeryCB/flask-slack) - Flask extension which makes it easy to interact with Slack slash commands
-- [fs-slack ★8 ⏳1Y](https://github.com/slackhappy/fs-slack) - Silly slash command synthesis for Slack
+- [fs-slack ★8 ⏳2Y](https://github.com/slackhappy/fs-slack) - Silly slash command synthesis for Slack
 - [gmail2slack ★22](https://github.com/brooksc/gmail2slack) - Send a Slack notification whenever a new gmail arrives
 - [limbo ★291](https://github.com/llimllib/limbo) - A simple, clean, easy-to-modify Slack chatbot
 - [morgenbot ★208](https://github.com/eelzon/morgenbot) - A standup bot for Slack

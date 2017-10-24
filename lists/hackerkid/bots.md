@@ -74,7 +74,7 @@ Table of Contents
 ## Libraries
 
 ### General
-* [Qtypes ★128](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
+* [Qtypes ★128 ⏳1Y](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
 * [BotKit ★7103](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
 * [Claudia Bot Builder ★1240](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.

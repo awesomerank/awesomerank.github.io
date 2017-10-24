@@ -144,7 +144,7 @@ Name | License | Demo
 [recyclerview-stickyheaders ★970 ⏳1Y](https://github.com/eowise/recyclerview-stickyheaders) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/recyclerview-stickyheaders.gif" width="49%">
 [ParallaxListView ★673 ⏳1Y](https://github.com/Gnod/ParallaxListView) | UnKnown | <img src="/art/ParallaxListView.gif" width="49%">
 [PullZoomView ★2048 ⏳2Y](https://github.com/Frank-Zhu/PullZoomView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PullZoomView.gif" width="49%">
-[SwipeMenuListView ★3111](https://github.com/baoyongzhang/SwipeMenuListView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/SwipeMenuListView.gif" width="49%">
+[SwipeMenuListView ★3111 ⏳1Y](https://github.com/baoyongzhang/SwipeMenuListView) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/SwipeMenuListView.gif" width="49%">
 [discrollview ★1344](https://github.com/flavienlaurent/discrollview) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/discrollview.gif" width="49%">
 [StickyListHeaders ★5057](https://github.com/emilsjolander/StickyListHeaders) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/StickyListHeaders.gif" width="49%">
 [ListBuddies ★977 ⏳2Y](https://github.com/jpardogo/ListBuddies) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ListBuddies.png" width="49%"/ > <img src="/art/ListBuddies.gif" width="49%"/ >

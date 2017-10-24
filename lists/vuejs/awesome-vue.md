@@ -162,6 +162,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [API Reference](http://vuejs.org/api/)
 - [GitHub Repo ★70635](https://github.com/vuejs/vue)
 - [Release Notes](https://github.com/vuejs/vue/releases)
+- [Style Guide](https://vuejs.org/v2/style-guide/)
 
 ### External Resources
 
@@ -310,6 +311,11 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Creating Custom Vue.js Plugins] (https://alligator.io/vuejs/creating-custom-plugins/)
 - [Async in VueJS part 1](https://medium.com/js-dojo/async-in-vue-js-part-1-28d96f751a2e)
 - [Async in VueJS part 2](https://medium.com/js-dojo/async-in-vuejs-part-2-45e81c836e38)
+- [Using localStorage with Vuex store without a plugin](https://www.mikestreety.co.uk/blog/vue-js-using-localstorage-with-the-vuex-store) by [@mikestreety](https://twitter.com/mikestreety)
+- [Using props for accessing URL parameters within components with Vue Router](https://www.youtube.com/watch?v=ESg0k2zdME4) by [@mikestreety](https://twitter.com/mikestreety)
+- [Deploy Vue.js — SSR(Vuetify) on Production with Pm2 and Nginx](https://medium.com/@kamerk22/deploy-vue-js-ssr-vuetify-on-production-with-pm2-and-nginx-ec7b5c0748a3)
+- [Testing Vue Components](http://testingvue.com) on [laracast](https://laracasts.com/series/testing-vue)
+
 
 ### Examples
 
@@ -598,7 +604,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [brain bits ★38](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
   - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
   - [Habitaca](https://habitica.com/) - online task management application in  the form of a role-playing game.
-  
+
 ### Interactive Experiences
 
  - [Jean-Pierre Morin | 1700 LAPOSTE](http://1700laposte.com/jean-pierre-morin/)
@@ -749,7 +755,7 @@ Tooltips / popovers
 
 ### Parallax
 
- - [vue-parallax ★35](https://github.com/vue-comps/vue-parallax) - Scrolls an image slower than the window to create a neat optical effect.
+ - [vue-parallax ★35 ⏳1Y](https://github.com/vue-comps/vue-parallax) - Scrolls an image slower than the window to create a neat optical effect.
  - [vue-parallaxy ★137](https://github.com/apertureless/vue-parallax) - Vue.js component for parallax image scroll effects.
 
 ### Icons
@@ -796,7 +802,7 @@ Tooltips / popovers
  - [vuebars ★59](https://github.com/DeviaVir/vue-bar) - Simple, elegant spark bars for Vue.js.
  - [vue-d3-network ★55](https://github.com/emiliorizzo/vue-d3-network) - Vue component to graph networks using d3-force
  - [vue2vis ★19](https://github.com/alexcode/vue2vis) - Vue2 wrapper for [Visjs](http://visjs.org).
- - [vue-c3][https://github.com/chryb/vue-c3] - A reusable vue component for c3 charts
+ - [vue-c3 ★12](https://github.com/chryb/vue-c3) - A reusable vue component for c3 charts
 
 ### Time
 
@@ -914,8 +920,8 @@ Tooltips / popovers
  - [vue-barcode-scanner ★14](https://github.com/noomerzx/vue-barcode-scanner)
  - [vue-heatmapjs ★2](https://github.com/BrockReece/vue-heatmapjs) - A Vue directive for tracking and visualising mouse activity
  - [vue-maze ★3](https://github.com/meganetaaan/vue-maze) - An itty-bitty maze game made as Vue.js component
- - [vue-drag-verify ★1](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up. 
- 
+ - [vue-drag-verify ★1](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up.
+
 ### Tabs
 
  - [vue-tabs ★70](https://github.com/cristijora/vue-tabs) - Simple tabs and pills.
@@ -947,6 +953,7 @@ Tooltips / popovers
 - [vue-date-picker ★16](https://github.com/ridewn/vue-date-picker) - A vue date picker component inspired by material design
 - [vue-monthly-picker ★7](https://github.com/ittus/vue-monthly-picker) - Vue.js component for month and year picker only
 - [vue-hotel-datepicker ★88](https://github.com/krystalcampioni/vue-hotel-datepicker) - A responsive date range picker that displays the number of nights selected, allows custom check-in/check-out rules, blocking dates, localisation support and more.
+- [vue2-persian-datepicker ★15](https://github.com/dyonir/vue2-persian-datepicker) - An awesome persian datepicker component for vue. کامپوننت انتخاب تاریخ برای ویو.
 
 #### Select
 
@@ -1025,7 +1032,7 @@ Tooltips / popovers
  - [vue-wysiwyg ★61](https://github.com/chmln/vue-wysiwyg) Lightweight, fast & extensible WYSIWYG editor
  - [vue-trumbowyg ★16](https://github.com/ankurk91/vue-trumbowyg) Vue.js component for [Trumbowyg](http://alex-d.github.io/Trumbowyg/) WYSIWYG editor
  - [vue-pell-editor ★1](https://github.com/CinKon/vue-pell-editor) Vue.js component for [Pell](https://jaredreich.com/pell) WYSIWYG editor
-
+ - [vue-tinymce-editor ★22](https://github.com/dyonir/vue-tinymce-editor) Tinymce editor component for Vue2.
 #### Image Manipulation
 
 *Edit images*
@@ -1071,7 +1078,7 @@ Tooltips / popovers
  - [vue-fab ★35](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button.
  - [vue-complexify ★2](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js.
  - [vue-mc ★56](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
- 
+
 #### Wizard
 
  - [vue-form-wizard ★243](https://github.com/cristijora/vue-form-wizard) - Tab based component which can replace classic bootstrap & jQuery form wizards
@@ -1282,6 +1289,7 @@ Tooltips / popovers
  - [animated-vue ★117](https://github.com/radical-dreamers/animated-vue) - A Vue.js 2.x plugin to easily use Animate.css animations as transitions. As easy as <animated-tada>!
  - [vue-lottie ★79](https://github.com/chenqingspring/vue-lottie) - A Vue.js 2.x plugin to render after effects animations based on bodymovin
  - [Vueg ★362](https://github.com/jaweii/vueg) - Make vue-router have a transition effect / 为 webApp 提供转场特效的开源 Vue 插件
+ - [v-animate-css](https://jofftiquez.github.io/v-animate-css/) - The easiest to implement Vue 2 directive for Animate.css
 
 ### Meta Tags
 
@@ -1428,6 +1436,7 @@ the amazing Vue.js.
  - [vuex-action-reload ★1](https://github.com/chlab/vuex-action-reload) - A vuex plugin that reloads actions when a condition is met.
  - [vuejs-storage ★15](https://github.com/maple3142/vuejs-storage) - Vue.js and vuex plugin to persistence data with localStorage/sessionStorage.
  - [vuex-orm ★35](https://github.com/revolver-app/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
+ - [object-to-vuex-store ★1](https://github.com/Raiondesu/object-to-vuex-store) - Convert any JS object into a valid vuex-store object.
 
 ###### Sync Between Tabs
 
@@ -1667,7 +1676,7 @@ Payment utilities.
  - [vue-starter ★29](https://github.com/rohitkrai03/vue-starter) - A Vue.js starter kit that lets you focus on more programming and less configuration.
  - [vue-standalone-component ★10](https://github.com/InCuca/vue-standalone-component) - A standalone component generator with documentation support using jsdoc and vue-styleguidist
  - [vuejs-wordpress-theme-starter ★51](https://github.com/EvanAgee/vuejs-wordpress-theme-starter) - A WordPress theme with the guts ripped out and replaced with Vue
- - [Cordovue ★36](https://github.com/TheMushrr00m/cordovue) - A sample Apache Cordova application using Vue. 
+ - [Cordovue ★36](https://github.com/TheMushrr00m/cordovue) - A sample Apache Cordova application using Vue.
 
 ### Client
 

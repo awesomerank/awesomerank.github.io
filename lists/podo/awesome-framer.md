@@ -156,6 +156,8 @@ title: Awesome Rank for podo/awesome-framer
 * [GradientHelper ★16](https://github.com/bpxl-labs/GradientHelper) - Module that simplifies the process of applying gradients to Framer layers and even enables animated gradients.
 * [FocusEngine ★9](https://github.com/bpxl-labs/FocusEngine) - Module for simulating the grid focus behavior found on Apple TV and Roku.
 * [MapboxLayer ★11](https://github.com/bpxl-labs/MapboxLayer) - Module for creating powerful Mapbox maps in your prototypes.
+* [Framer Sheet ★11](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer.
+* [FramerAudio ★26](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.

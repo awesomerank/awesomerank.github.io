@@ -59,6 +59,7 @@ This is a curated list of awesome stuff for the (La)TeX typesetting system.
 
 ### LaTeX formulas on the web
 
+- [Auto-LaTeX Equations with Google Docs](https://sites.google.com/site/autolatexequations) - Render high-quality math equations directly in Google Docs.
 - [MathJaX](https://www.mathjax.org) - JavaScript engine to render mathematical formulas on the web. The outcome looks really slick. ![foss][foss]
 - [mimeTeX](http://www.forkosh.com/mimetex.html) - mimeTeX is a rather old tool to render LaTeX formulas to PNG figures for your web site, without actually needing a LaTeX installation on your server. ![foss][foss]
 - [mathTeX](http://www.forkosh.com/mathtex.html) - mathTeX is the successor of mimeTeX: it produces nicer-looking images but it requires LaTeX to be installed on your server. ![foss][foss]
@@ -101,7 +102,9 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 	- [LaTeXTools ★1531](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss]
 
 - [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome] ★3154](https://github.com/emacs-tw/awesome-emacs) ![foss][foss]
-	- [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss][foss]
+	- [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss][foss]	
+	- [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss][foss]
+
 
 - [Vim](http://www.vim.org) [![Vim][awesome] ★7459](https://github.com/mhinz/vim-galore) ![foss][foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss][foss]
@@ -186,7 +189,6 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 ## Templates
 
 - [LaTeX templates](http://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
-- [HowtoTeX: templates](http://www.howtotex.com/category/templates/) - Different templates for LaTeX under a CC-NC-SA license.
 - [Ultimate Beamer Theme List ★182 ⏳1Y](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 
 ## Symbols
@@ -203,9 +205,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [TeXample](http://www.texample.net) - Blog about LaTex, with a big collection of TikZ figures.
 - [LaTeX cookbook](http://latex-cookbook.net) - Sibling of TeXample, contains quite a bit of example code.
 - [Visual FAQ](http://mirrors.ctan.org/info/visualFAQ/visualFAQ.pdf) - Typesetting issues and a link to appropriate TeX FAQ answers.
-- [12 Great resources for getting started with LaTeX](http://www.howtotex.com/general/12-great-resources-for-getting-started-with-latex/) - Nice overview of useful resources for beginners.
 - [MartinThoma's LaTeX example ★328](https://github.com/MartinThoma/LaTeX-examples) - GitHub repository containing example LaTeX documents.
-- [HowtoTeX LaTeX](http://latex.howtotex.com) - Start page with useful resources for LaTeX users.
 - [MacTeX Wiki: TeX Extras](http://mactex-wiki.tug.org/wiki/index.php/TeX_Extras) - Overview of useful tools for LaTeX. Many of them are specific for Mac, but quite a bit are useful for other platforms as well.
 - [LaTeX community](http://latex-community.org/index.php) - Forum and blog about LaTeX.
 - German: [Neue TeX FAQ](http://texfragen.de/) - A modern and updated LaTeX FAQ in German.

@@ -61,7 +61,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [to-space-case ★1 ⏳1Y](https://github.com/ianstormtaylor/to-space-case) - Convert a string to a space case.
 * [to-title-case ★9 ⏳1Y](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case.
 * [node-slug ★833](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
-* [rtrim ★0](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
+* [rtrim ★0 ⏳1Y](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 * [slice.js ★18](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style.
 
 ### Date & Time
