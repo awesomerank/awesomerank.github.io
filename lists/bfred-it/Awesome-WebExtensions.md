@@ -32,6 +32,7 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 - [Microsoft Edge API support](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap) - Detailed WebExtensions support for Edge.
 - [Opera API support](https://dev.opera.com/extensions/apis/) - Detailed WebExtensions support for Opera.
 - [Porting Chrome Extensions to Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/) - Guide to prepare, install, and debug Chrome extensions to be ported in Firefox.
+- [Browser Extension Standard](https://browserext.github.io/browserext/) - Standard for the API, supported by Mozilla, Opera and Microsoft.
 
 ## Community
 
@@ -49,6 +50,7 @@ Code meant become part of the extension.
 - [webext-options-sync ★14](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 - [webext-inject-on-install ★1](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
 - [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★34851](https://github.com/reactjs/redux) for managing the state of your WebExtension
+- [mozilla/webextension-polyfill ★177](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
 
 ## Tools
 
@@ -69,6 +71,7 @@ Apps that help you manage your extensions.
 
 ## Boilerplates
 
+- [create-webextension ★5](https://github.com/rpl/create-webextension) - Yarn WebExtension generator.
 - [extensionizr.com](http://extensionizr.com) - Web UI that helps you create an initial configuration and files.
 - [generator-chrome-extension-kickstart ★142](https://github.com/handtrix/generator-chrome-extension-kickstart) - Flexible Boilerplate based on gulp, webpack & babel.
 - [react-chrome-extension-boilerplate ★773](https://github.com/jhen0409/react-chrome-extension-boilerplate) - React boilerplate with Hot reloading.
@@ -80,6 +83,7 @@ These are simple and modern WebExtensions repositories that could help you figur
 - [npmhub ★288](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub ★177](https://github.com/sindresorhus/hide-files-on-github)
 - [Refined GitHub ★2655](https://github.com/sindresorhus/refined-github)
+- [mdn/webextension-examples ★784](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 
 ## License
 

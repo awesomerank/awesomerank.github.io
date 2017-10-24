@@ -342,7 +342,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Configatron ★565](https://github.com/markbates/configatron) - Simple and feature rich configuration system for Ruby apps.
 * [Configus ★52](https://github.com/kaize/configus) - Helps you easily manage environment specific settings.
 * [dotenv ★4248](https://github.com/bkeepers/dotenv) - Loads environment variables from `.env`.
-* [Econfig ★64](https://github.com/elabs/econfig) - Flexible configuration for Rails applications.
+* [Econfig ★64 ⏳1Y](https://github.com/elabs/econfig) - Flexible configuration for Rails applications.
 * [ENVied ★244](https://github.com/eval/envied) - ensure presence and type of your app's ENV-variables
 * [Figaro ★3176](https://github.com/laserlemon/figaro) - Simple, Heroku-friendly Rails app configuration using `ENV` and a single YAML file.
 * [Global ★223](https://github.com/railsware/global) - Provides accessor methods for your configuration data.

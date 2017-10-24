@@ -853,6 +853,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [What would it take to bring AZ to serverless?](https://read.acloud.guru/serverless-availability-zones-are-the-missing-level-of-resiliency-for-aws-f5067ab1b688) - Why serverless availability zones are the missing level of resiliency for AWS.
 - [Turning serverless monitoring instruments into debugging tools](https://thenewstack.io/dashbird-turning-serverless-monitoring-instruments-debugging-tools/) - How [Dashbird.io](https://www.dashbird.io) can be used to monitor and debug serverless applications.
 - [Introducing StdLib Sourcecode](https://medium.com/stdlibhq/introducing-stdlib-sourcecode-share-your-node-js-serverless-code-with-developers-worldwide-b8fd5714e430) - Post about the new [StdLib Sourcecode](https://stdlib.com/sourcecode) product.
+- [Embrace the mini CEO](https://serverless.com/blog/avoid-startup-chaos-be-mini-ceo/) - Post about the different challenges one might face in a venture-backed startup startup (written by Serverless, Inc.).
+- [Image recognition with GCF and Serverless](https://serverless.com/blog/google-cloud-functions-application/) - How to build an image recognition endpoint with the Serverless Framework and Google Cloud Functions.
 
 ## Screencasts
 
@@ -1040,6 +1042,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Microservices without servers](https://www.youtube.com/watch?v=znCBbrYeUA4) - Glynn Birds introduction talk about serverless computing.
 - [No-Side JavaScript and the serverless revolution (SeattleJS)](https://www.youtube.com/watch?v=g_tvdALkTXk) - Talk by Ryan H. Lewis about the serverless revolution at SeattleJS conference 2017.
 - [No-Side JavaScript and the serverless revolution (UtahJS)](https://www.youtube.com/watch?v=LIGpu7Bbfr8) - Talk by Ryan H. Lewis about the serverless revolution at UtahJS conference 2017.
+- [Develop serverless apps with AWS Lambda and Azure Functions](https://vimeo.com/208056992) - Raj Wilkhus talk on how to use AWS Lambda and Azure Functions to develop serverless applications.
 
 ## Amazon AWS resources
 

@@ -1314,6 +1314,7 @@ Tooltips / popovers
 ### SVG
 
  - [vue-svgicon ★194](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x).
+ - [vue-content-loading ★1](https://github.com/LucasLeandro1204/vue-content-loading) - Vue component to easily build (or use presets) SVG loading cards Facebook like.
 
 ### Miscellaneous
 
