@@ -792,7 +792,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 * [attrs ★1048](https://github.com/python-attrs/attrs) - Replacement for `__init__`, `__eq__`, `__repr__`, etc. boilerplate in class definitions.
 * [blinker ★599](https://github.com/jek/blinker) - A fast Python in-process signal/event dispatching system.
 * [itsdangerous ★1252](https://github.com/pallets/itsdangerous) - Various helpers to pass trusted data to untrusted environments.
-* [pluginbase ★595](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python.
+* [pluginbase ★595 ⏳1Y](https://github.com/mitsuhiko/pluginbase) - A simple but flexible plugin system for Python.
 * [Pychievements ★85](https://github.com/PacketPerception/pychievements) - A framework for creating and tracking achievements.
 * [Tryton](http://www.tryton.org/) - A general purpose business framework.
 

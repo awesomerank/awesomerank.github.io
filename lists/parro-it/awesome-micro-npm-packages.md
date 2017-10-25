@@ -36,7 +36,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [array-last ★11](https://github.com/jonschlinkert/array-last) - Return the last element in an array.
 * [arr-flatten ★24](https://github.com/jonschlinkert/arr-flatten) - Recursively flatten an array or arrays.
 * [dedupe ★12](https://github.com/seriousManual/dedupe) - Remove duplicates from an array.
-* [array-range ★13 ⏳2Y](https://github.com/mattdesl/array-range) - Creates a new array with given range.
+* [array-range ★13 ⏳3Y](https://github.com/mattdesl/array-range) - Creates a new array with given range.
 * [arr-diff ★16](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
 * [filled-array ★25 ⏳1Y](https://github.com/sindresorhus/filled-array) - Returns an array filled with the specified input
 * [map-array ★3](https://github.com/parro-it/map-array) - Map object keys and values into an array.

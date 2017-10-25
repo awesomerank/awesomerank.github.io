@@ -596,7 +596,7 @@ phone numbers.
 
 ## Project Management
 
-* [ITSY ★76 ⏳2Y](https://github.com/yetkinozturk/ITSY) - Issue Tracking System
+* [ITSY ★76 ⏳3Y](https://github.com/yetkinozturk/ITSY) - Issue Tracking System
 * [taiga ★3755](https://github.com/taigaio/taiga-back) - Agile, Free and Open Source Project Management Tool
 
 # Resources

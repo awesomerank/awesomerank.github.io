@@ -129,7 +129,6 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
     * [nix](http://nixos.org/nix/) - Powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
     * [pip](https://pip.pypa.io/) - Package management system used to install and manage software packages written in Python.
     * [npmjs](https://www.npmjs.com/) - Package manager for JavaScript.
-    * [bower](https://bower.io/) - Package manager for the web.
     * [duo ★3558 ⏳1Y](https://github.com/duojs/duo) - Next-generation package manager for the front-end.
     * [basher ★292](https://github.com/basherpm/basher) - Package manager for shell scripts.
     * [bpkg](http://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg.
@@ -216,7 +215,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [centerim](http://www.centerim.org/index.php/Main_Page) - Terminal based, multi-protocol Instant Messaging client with support for IRC.
 * [weechat](http://weechat.org/) - Fast, light and extensible chat client.
 * [epic](http://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
-* [slacker ★556 ⏳1Y](https://github.com/TidalLabs/Slacker) - Simple Slack client for the CLI.
+* [Slackadaisical ★42](https://github.com/bkanber/Slackadaisical) - Simple Slack client for the CLI.
 * [go-jira ★563](https://github.com/Netflix-Skunkworks/go-jira) - Simple jira command line client in Go.
 
 # Community

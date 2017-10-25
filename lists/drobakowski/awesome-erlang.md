@@ -200,7 +200,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [jiffy ★619](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
 * [jsonrec ★13 ⏳3Y](https://github.com/EduardSergeev/jsonrec) - JSON encoder/decoder with the ability to map to records.
 * [jsx ★534](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
-* [qsp ★14](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang.
+* [qsp ★14 ⏳1Y](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang.
 
 ## REST and API
 *Libraries and web tools for developing REST-ful APIs.*

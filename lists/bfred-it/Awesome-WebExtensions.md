@@ -58,7 +58,7 @@ Apps that help you manage your extensions.
 
 - [Chrome Webstore Upload ★47](https://github.com/DrewML/chrome-webstore-upload-cli) - Upload the extension to the Chrome Web Store via cli (or on Travis, automatically).
 - [mozilla/web-ext ★253](https://github.com/mozilla/web-ext) Command line tool to help build, run, and test WebExtensions.
-- [chromepet ★12 ⏳2Y](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
+- [chromepet ★12 ⏳3Y](https://github.com/ZenHubIO/chromepet) - Get notified when your new version has been published.
 - [chrome-ext-downloader ★17 ⏳2Y](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 - [unzip-crx ★8 ⏳1Y](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
 - [chrome-store-api ★9 ⏳1Y](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.

@@ -855,6 +855,10 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Introducing StdLib Sourcecode](https://medium.com/stdlibhq/introducing-stdlib-sourcecode-share-your-node-js-serverless-code-with-developers-worldwide-b8fd5714e430) - Post about the new [StdLib Sourcecode](https://stdlib.com/sourcecode) product.
 - [Embrace the mini CEO](https://serverless.com/blog/avoid-startup-chaos-be-mini-ceo/) - Post about the different challenges one might face in a venture-backed startup startup (written by Serverless, Inc.).
 - [Image recognition with GCF and Serverless](https://serverless.com/blog/google-cloud-functions-application/) - How to build an image recognition endpoint with the Serverless Framework and Google Cloud Functions.
+- [Engaging your users with AWS Step Functions](https://cloudonaut.io/engaging-your-users-with-aws-step-functions/) - How to build a user-engagement setup with AWS Step Functions.
+- [Breaking down ServerlessConf NYC 2017](https://read.acloud.guru/what-you-missed-at-serverlessconf-nyc-3ab02398ebe6) - Key takeaways from the hottest conference in the cloud.
+- [Media processing with BuckleScript and AWS Lambda](https://medium.com/@romain.beauxis/scalable-and-serverless-media-processing-using-bucklescript-ocaml-and-aws-lambda-api-gateway-4efe39331f33) - How to build a scalable and serverless media processing using BuckleScript / OCaml and AWS Lambda / API Gateway.
+- [Serverless computing: economic and architectural impact](https://blog.acolyer.org/2017/10/19/serverless-computing-economic-and-architectural-impact/) - Analysis of economical and architectural impacts the serveless paradigm introduces.
 
 ## Screencasts
 
@@ -1109,7 +1113,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Quotebot ★23 ⏳1Y](https://github.com/pmuens/quotebot) - Facebook Messenger chatbot which will return a random quote on message retrieval.
 - [Weekly2Pocket ★6 ⏳1Y](https://github.com/s0enke/weekly2pocket) - Saves weekly stories to the Pocket app.
 - [Pokégo serverless ★20 ⏳1Y](https://github.com/jch254/pokego-serverless) - Serverless-powered API to fetch nearby Pokemon Go data.
-- [Serverless Example ★14](https://github.com/andymac4182/serverless_example) - Different, feature rich examples for Serverless v1.
+- [Serverless Example ★14 ⏳1Y](https://github.com/andymac4182/serverless_example) - Different, feature rich examples for Serverless v1.
 - [Serverless microservice architecture](https://gitlab.com/patoncrispy/serverless-sample-app) - Code which demonstrates a Serverless microservice architecture with decoupled Services.
 - [Serverless Zwiftalizer ★2](https://github.com/mhanney/serverless-zwiftalizer) - Serverless project which includes Lambda functions to support the Zwiftalizer frontend.
 - [React boilerplate ★131](https://github.com/99xt/serverless-react-boilerplate) - React boilerplate for applications which are powered by Serverless and React.

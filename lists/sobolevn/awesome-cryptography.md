@@ -201,7 +201,7 @@ A curated list of cryptography resources and links.
 - [elixir-rsa ★13 ⏳2Y](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
 - [elixir_tea ★1 ⏳2Y](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
 - [ex_crypto ★36](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
-- [exgpg ★8 ⏳1Y](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+- [exgpg ★8 ⏳2Y](https://github.com/rozap/exgpg) - Use gpg from Elixir.
 - [pot ★52](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 - [siphash-elixir](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 

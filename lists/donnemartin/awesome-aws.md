@@ -266,7 +266,7 @@ Related Repos:
 
 ### Python SDK
 
-* [Repo :fire::fire::fire::fire::fire: ★5973](https://github.com/boto/boto)
+* [Repo :fire::fire::fire::fire::fire: ★2594](https://github.com/boto/boto3)
 * [Repo with Samples ★81 ⏳1Y](https://github.com/awslabs/aws-python-sample)
 * [Install](http://github.com/boto/boto#installation)
 * [Docs](http://docs.pythonboto.org/en/latest/)
@@ -951,7 +951,7 @@ AWS Repos:
 * [aws-demo-php-simple-app ★7](https://github.com/awslabs/aws-demo-php-simple-app) - PHP apps from the AWS Blogs.
 * [aws-mobile-sample-wif ★2 ⏳2Y](https://github.com/awslabs/aws-mobile-sample-wif) - Samples from the AWS Mobile SDK blog.
 * [aws-mobile-self-paced-labs-samples ★11 ⏳2Y](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) - Android Snake Game from a self-paced lab.
-* [aws-quickstart ★83 ⏳1Y](https://github.com/awslabs/aws-quickstart) - Official repository for AWS Quick Start.
+* [aws-quickstart](https://github.com/aws-quickstart/) - Official repository for AWS Quick Start.
 * [aws-spot-labs :fire:](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
 * [aws-training-demo ★86](https://github.com/awslabs/aws-training-demo) - Demos from the Technical Trainers community.
 * [java-meme-generator-sample ★37 ⏳3Y](https://github.com/awslabs/java-meme-generator-sample) - Meme generation app from re:Invent 2012.
@@ -1250,7 +1250,7 @@ AWS Conferences:
 
 * [re:Invent](https://reinvent.awsevents.com/) - Annual user conference. The event features keynote announcements, training and certification opportunities, over 250 technical sessions, a partner expo, after hours activities, and more.
 * [Summits](https://aws.amazon.com/summits/) - Global one-day events that are designed to educate new customers about the AWS platform and offer existing customers deep technical content to be more successful with AWS.
-* [AWSome Day](https://aws.amazon.com/events/awsome-day-roadshow-mar-2015/) - Global one-day events are delivered by AWS Education's technical instructors and are ideal for IT pros, developers and technical managers who would like to learn about how to get started in the AWS Cloud.
+* [AWSome Day](https://aws.amazon.com/events/awsome-day/awsome-day-online/) - Global one-day events are delivered by AWS Education's technical instructors and are ideal for IT pros, developers and technical managers who would like to learn about how to get started in the AWS Cloud.
 
 Community Conferences:
 

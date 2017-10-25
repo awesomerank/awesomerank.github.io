@@ -1005,7 +1005,7 @@ be
 * [BayesPy ★49](https://github.com/maxsklar/BayesPy) - Bayesian Inference Tools in Python
 * [scikit-learn tutorials ★82 ⏳5Y](https://github.com/GaelVaroquaux/scikit-learn-tutorial) - Series of notebooks for learning scikit-learn
 * [sentiment-analyzer ★38 ⏳5Y](https://github.com/madhusudancs/sentiment-analyzer) - Tweets Sentiment Analyzer
-* [sentiment_classifier ★109](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
+* [sentiment_classifier ★109 ⏳1Y](https://github.com/kevincobain2000/sentiment_classifier) - Sentiment classifier using word sense disambiguation.
 * [group-lasso ★16 ⏳5Y](https://github.com/fabianp/group_lasso) - Some experiments with the coordinate descent algorithm used in the (Sparse) Group Lasso model
 * [jProcessing ★73 ⏳1Y](https://github.com/kevincobain2000/jProcessing) - Kanji / Hiragana / Katakana to Romaji Converter. Edict Dictionary & parallel sentences Search. Sentence Similarity between two JP Sentences. Sentiment Analysis of Japanese Text. Run Cabocha(ISO--8859-1 configured) in Python.
 * [mne-python-notebooks ★6 ⏳1Y](https://github.com/mne-tools/mne-python-notebooks) - IPython notebooks for EEG/MEG data processing using mne-python

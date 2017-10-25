@@ -93,6 +93,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ### Practices
 
+- [array-func ★0](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions.
 - [fp ★301](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 - [Immutable ★690](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript
 - [JSX a11y ★620](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements

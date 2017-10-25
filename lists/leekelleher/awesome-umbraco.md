@@ -26,7 +26,7 @@ The goal is to build a categorized community-driven collection of very well-know
   * [SEO Tools](#seo-tools)
 * [Developer tools](#developer-tools)
   * [Deployment](#deployment)
-* [eCommerce & CRM](#ecommerce-crm)
+* [eCommerce & CRM](#ecommerce--crm)
 * [Starter Kits](#starter-kits)
 * [Website utilities](#website-utilities)
 * [Code Libraries](#code-libraries)
@@ -45,7 +45,7 @@ Please note * indicates that the package is commercial or may require a license 
 
 ### Form Builders
 
-* [Umbraco Forms*](http://umbraco.com/forms) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
+* [Umbraco Forms*](https://umbraco.com/products/umbraco-forms/) - The new Contour, use this to add forms to your site. **(Developed by Umbraco HQ)**
 * [Form Editor ★66](https://github.com/kjac/FormEditor) - An editor friendly form builder for creating forms as part of the web content.
 * [Formulate](https://our.umbraco.org/projects/backoffice-extensions/formulate/) - Build website forms (contact forms, newsletter sign ups, surveys, job applications) with no coding.
 
