@@ -1022,7 +1022,7 @@ be
 * [Dive into Machine Learning  with Python Jupyter notebook and scikit-learn ★7298](https://github.com/hangtwenty/dive-into-machine-learning) - "I learned Python by hacking first, and getting serious *later.* I wanted to do this with Machine Learning. If this is your style, join me in getting a bit ahead of yourself."
 * [TDB ★1239](https://github.com/ericjang/tdb) - TensorDebugger (TDB) is a visual debugger for deep learning. It features interactive, node-by-node debugging and visualization for TensorFlow.
 * [Suiron ★701 ⏳1Y](https://github.com/kendricktan/suiron) - Machine Learning for RC Cars.
-* [Introduction to machine learning with scikit-learn ★1323](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
+* [Introduction to machine learning with scikit-learn ★1323 ⏳1Y](https://github.com/justmarkham/scikit-learn-videos) - IPython notebooks from Data School's video tutorials on scikit-learn.
 * [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python) - comprehensive online course about using XGBoost in Python
 
 <a name="python-neural-networks"></a>

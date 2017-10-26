@@ -175,7 +175,7 @@ title: Awesome Rank for willianjusten/awesome-audio-visualization
 - [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 - [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
-- [Octavian ★104 ⏳1Y](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
+- [Octavian ★104 ⏳2Y](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
 - [audiowaveform ★398](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 

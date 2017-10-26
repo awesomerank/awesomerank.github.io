@@ -481,7 +481,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3WebSocket ★223 ⏳1Y](https://github.com/theturtle32/AS3WebSocket) - WebSocket client implementation for the final WebSocket Draft RFC6455.
 * [SmartSocket ★14 ⏳5Y](https://github.com/XaeroDegreaz/SmartSocket) - SmartSocket is a Java and PHP socket server engine, to make creating multi-user applications quick and painless.
 * [FlashSocket.IO ★218 ⏳1Y](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients.
-* [Socket.io ★35 ⏳6Y](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client.
+* [Socket.io ★35 ⏳7Y](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client.
 * [AMFsocket ★10 ⏳2Y](https://github.com/chadrem/amf_socket) - Bi-directional RPC library for high performance network communication.
 * [Sockpuppet ★2 ⏳7Y](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF.
 * [Socket.io-flash ★45 ⏳4Y](https://github.com/sinnus/socket.io-flash) - Communication to Socket.IO v.0.8+ servers.

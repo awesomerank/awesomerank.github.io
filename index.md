@@ -195,7 +195,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Web Components ★953](lists/mateusortiz/webcomponents-the-right-way.md)
 - [Polymer ★322](lists/Granze/awesome-polymer.md)
 - [Angular ★4820](lists/AngularClass/awesome-angular.md) - App framework.
-- [Backbone ★368](lists/sadcitizen/awesome-backbone.md) - App framework.
+- [Backbone ★368 ⏳1Y](lists/sadcitizen/awesome-backbone.md) - App framework.
 - [HTML5 ★771](lists/diegocard/awesome-html5.md)
 - [SVG ★3367](lists/willianjusten/awesome-svg.md)
 - [Canvas ★281](lists/raphamorim/awesome-canvas.md)

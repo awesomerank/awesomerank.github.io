@@ -1164,7 +1164,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [FloatRatingView ★386](https://github.com/glenyi/FloatRatingView) - Floating rating system.
 * [GaugeKit ★896](https://github.com/skywinder/GaugeKit) - Customizable gauges. Easy reproduce Apple's style gauges.
 * [Geometry ★82](https://github.com/artman/Geometry) - extensions for UIView.
-* [GIFRefreshControl ★130](https://github.com/delannoyk/GIFRefreshControl) - A pull to refresh that supports GIF images as track animations.
+* [GIFRefreshControl ★130 ⏳1Y](https://github.com/delannoyk/GIFRefreshControl) - A pull to refresh that supports GIF images as track animations.
 * [GMStepper ★561](https://github.com/gmertk/GMStepper) - A stepper with a sliding label in the middle.
 * [GRMustache ★401](https://github.com/groue/GRMustache.swift) - Flexible Mustache templates.
 * [GrowingTextView ★163](https://github.com/KennethTsang/GrowingTextView) - UITextView that supports auto growing, placeholder and length limit.

@@ -245,7 +245,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 #### GUI Frameworks
 * [IB ★267 ⏳1Y](https://github.com/rubymotion/ib) - RubyMotion Interface Builder support, including outlets and actions.
 * [Teacup ★637 ⏳3Y](https://github.com/colinta/teacup) - Community-driven DSL for creating user interfaces on the iPhone.
-* [MotionKit ★324](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem.
+* [MotionKit ★324 ⏳1Y](https://github.com/motion-kit/motion-kit) - The RubyMotion layout and styling gem.
 * [Motion-stylez ★4 ⏳3Y](https://github.com/FluffyJack/motion-stylez) - RubyMotion stylesheet library based off RMQ.
 * [Purplish-frame ★2 ⏳1Y](https://github.com/hboon/purplish-frame) - Make working with rects, sizes and points more convenient with RubyMotion for iOS & macOS.
 

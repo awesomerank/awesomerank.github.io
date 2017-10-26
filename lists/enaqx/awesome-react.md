@@ -619,7 +619,7 @@ A collection of awesome things regarding React ecosystem.
 * [eslint-plugin-react - React specific linting rules for ESLint ★3117](https://github.com/yannickcr/eslint-plugin-react)
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
 * [generator-react-gulp-browserify - Yeoman generator for React ★428 ⏳1Y](https://github.com/randylien/generator-react-gulp-browserify)
-* [generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc. ★18](https://github.com/Jackong/generator-reactapp)
+* [generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc. ★18 ⏳1Y](https://github.com/Jackong/generator-reactapp)
 * [static-site-generator-webpack-plugin - Prerender isomorphic JavaScript apps to static HTML ★1105](https://github.com/markdalgleish/static-site-generator-webpack-plugin)
 * [React Storybook - UI Component Dev Environment for React](https://github.com/kadirahq/react-storybook)
 * [generator-sui-react - A yeoman generator for Schibsted User Interface (SUI) ReactJS components ★13 ⏳1Y](https://github.com/SUI-Components/generator-sui-react)

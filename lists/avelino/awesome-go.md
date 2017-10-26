@@ -692,7 +692,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [goga ★57](https://github.com/tomcraven/goga) - Genetic algorithm library for Go.
 * [GoLearn ★4565](https://github.com/sjwhitworth/golearn) - General Machine Learning library for Go.
 * [golinear ★33](https://github.com/danieldk/golinear) - liblinear bindings for Go.
-* [goml ★759](https://github.com/cdipaolo/goml) - On-line Machine Learning in Go.
+* [goml ★759 ⏳1Y](https://github.com/cdipaolo/goml) - On-line Machine Learning in Go.
 * [goRecommend ★82 ⏳3Y](https://github.com/timkaye11/goRecommend) - Recommendation Algorithms library written in Go.
 * [gorgonia ★1324](https://github.com/chewxy/gorgonia) - graph-based computational library like Theano for Go that provides primitives for building various machine learning and neural network algorithms.
 * [goscore ★3](https://github.com/asafschers/goscore) - Go Scoring API for PMML.
@@ -1205,7 +1205,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [TheMovieDb ★10 ⏳2Y](https://github.com/jbrodriguez/go-tmdb) - Simple golang package to communicate with [themoviedb.org](https://themoviedb.org).
 * [translate](https://github.com/poorny/translate) - Go online translation package.
 * [Trello ★20](https://github.com/adlio/trello) - Go wrapper for the Trello API.
-* [tumblr ★6](https://github.com/mattcunningham/gumblr) - Go wrapper for the Tumblr v2 API.
+* [tumblr ★6 ⏳1Y](https://github.com/mattcunningham/gumblr) - Go wrapper for the Tumblr v2 API.
 * [webhooks ★106](https://github.com/go-playground/webhooks) - Webhook receiver for GitHub and Bitbucket.
 * [zooz ★1](https://github.com/gojuno/go-zooz) - Go client for the Zooz API.
 
@@ -1608,7 +1608,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [Stack Up ★1538](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 * [syncthing](https://syncthing.net/) - Open, decentralized file synchronization tool and protocol.
 * [Tenyks ★164](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.
-* [toto ★19](https://github.com/blogcin/ToTo) - Simple proxy server written in Go language, can be used together with browser.
+* [toto ★19 ⏳1Y](https://github.com/blogcin/ToTo) - Simple proxy server written in Go language, can be used together with browser.
 * [toxiproxy ★2150](https://github.com/shopify/toxiproxy) - Proxy to simulate network and system conditions for automated tests.
 * [tsuru](https://tsuru.io/) - Extensible and open source Platform as a Service software.
 * [vFlow ★259](https://github.com/VerizonDigital/vflow) - High-performance, scalable and reliable IPFIX, sFlow and Netflow collector.

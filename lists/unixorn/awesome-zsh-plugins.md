@@ -270,7 +270,7 @@ These frameworks make customizing your zsh setup easier.
 * [dogesh ★3 ⏳3Y](https://github.com/keithhamilton/oh-my-dogesh) - Dogification plugin.
 * [dropbox](https://github.com/horosgrisa/zsh-dropbox) - A dropbox plugin for Zsh that provides `dropbox-cli` and `dropbox-uploader` commands.
 * [elixir-oh-my-zsh ★81](https://github.com/gusaiani/elixir-oh-my-zsh) - Adds shortcuts for Elixir, IEX, Mix and Phoenix.
-* [emoji-cli ★150](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line.
+* [emoji-cli ★150 ⏳1Y](https://github.com/b4b4r07/emoji-cli) - :scream: Emoji completion on the command line.
 * [enhancd ★732](https://github.com/b4b4r07/enhancd) - A simple tool that provides enhanced `cd` command.
 * [escape-backtick ★0](https://github.com/bezhermoso/zsh-escape-backtick) - Quickly insert escaped backticks when double-tapping "`".
 * [exercism ★4 ⏳2Y](https://github.com/fabiokiatkowski/exercism.plugin.zsh) - A plugin for [exercism.io](http://exercism.io/).

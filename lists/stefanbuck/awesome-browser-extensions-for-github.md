@@ -279,7 +279,7 @@ Neat hovercards for GitHub.
 </details>
 
 
-## [GitHub Markdown Outline Extension ★19](https://github.com/dbkaplun/github-markdown-outline-extension)
+## [GitHub Markdown Outline Extension ★19 ⏳1Y](https://github.com/dbkaplun/github-markdown-outline-extension)
 <a href="https://chrome.google.com/webstore/detail/github-markdown-outline-e/gccinjjdbfdkkkebfbeipopijjfohfgj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 
 Displays a clickable outline of all topic headers for markdown documents on GitHub

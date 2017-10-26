@@ -665,6 +665,7 @@ metadata in media files, including video, audio, and photo formats
 * [HidLibrary ★206](https://github.com/mikeobrien/HidLibrary) - This library enables you to enumerate and communicate with Hid compatible USB devices in .NET.
 * [SystemWrapper ★50](https://github.com/jozefizso/SystemWrapper) - SystemWrapper is .NET library for easier testing of system APIs.
 * [Sprache ★904](https://github.com/sprache/Sprache) - A simple, lightweight library for constructing parsers directly in C# code
+* [YoutubeExplode ★166](https://github.com/Tyrrrz/YoutubeExplode) - Ultimate library for extracting metadata and downloading Youtube videos and playlists.
 
 ## MVVM
 

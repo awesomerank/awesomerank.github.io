@@ -240,7 +240,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [chromecast-mqtt-connector ★10](https://github.com/nohum/chromecast-mqtt-connector) - Control your Google Chromecast devices using MQTT.
 * [kodi2mqtt ★43](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi media center instance and MQTT.
 * [harmony-api ★156](https://github.com/maddox/harmony-api) - A simple server allowing you to query/control multiple local Harmony Home Hubs over HTTP or MQTT.
-* [htd2mqtt ★0](https://github.com/TheOriginalAndrobot/htd2mqtt) - Bridge between an HTD Lync audio system and MQTT.
+* [htd2mqtt ★0 ⏳1Y](https://github.com/TheOriginalAndrobot/htd2mqtt) - Bridge between an HTD Lync audio system and MQTT.
 * [lgtv2mqtt ★15](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT.
 * [lirc2mqtt ★9](https://github.com/hobbyquaker/lirc2mqtt) - Send and receive infrared via [LIRC](www.lirc.org).
 * [mqtt2atlonamatrix ★0](https://github.com/forty2/mqtt2atlonamatrix) - Control Atlona HDMI matrix switches with MQTT.

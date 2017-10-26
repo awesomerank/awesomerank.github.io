@@ -378,9 +378,9 @@ Projects
 * [Archon ★125](https://github.com/kubeup/archon)
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
-* [Telepresence](https://www.telepresence.io) Locally develop/debug services against a remote Kubernetes cluster
-* [Fission Workflows ★27](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition on Kubernetes.
-* [Ambassador](https://www.getambassador.io) Kubernetes-native API Gateway built on the Envoy Proxy
+* [Telepresence](https://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
+* [Fission Workflows ★27](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
+* [Ambassador](https://www.getambassador.io) - API Gateway built on the Envoy Proxy
 
 ## Package Managers
 
@@ -467,12 +467,12 @@ Projects
 
 ## Custom Schedulers
 
-* [Scheduler ★69](https://github.com/kelseyhightower/scheduler) Example cost based scheduler by [Kelsey Hightower](https://twitter.com/kelseyhightower)
+* [Scheduler ★69](https://github.com/kelseyhightower/scheduler) - Cost based scheduler
 * [Sticky Node Scheduler ★6](https://github.com/philipn/kubernetes-sticky-node-scheduler)
-* [ksched ★13](https://github.com/coreos/ksched) Experimental flow based scheduler
-* [kronjob ★29](https://github.com/Eneco/kronjob) Scheduler for recurring jobs
-* [escheduler ★14 ⏳1Y](https://github.com/agonzalezro/escheduler) Example scheduler written in elixir
-* [bashScheduler ★33](https://github.com/rothgar/bashScheduler) Example scheduler written in bash
+* [ksched ★13](https://github.com/coreos/ksched) - Experimental flow based scheduler
+* [kronjob ★29](https://github.com/Eneco/kronjob) - Recurring jobs
+* [escheduler ★14 ⏳1Y](https://github.com/agonzalezro/escheduler) - Written in elixir
+* [bashScheduler ★33](https://github.com/rothgar/bashScheduler) - Written in bash
 
 ## Container Support
 
@@ -481,7 +481,7 @@ Projects
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
-  * [rktlet ★57](https://github.com/kubernetes-incubator/rktlet) - The rkt implementation of a Kubernetes Container Runtime
+  * [rktlet ★57](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes
 * [containerd ★1776](https://github.com/containerd/containerd)
 * [CRI-O (OCI) ★667](https://github.com/kubernetes-incubator/cri-o)
 * [Hyper.sh/frakti ★194](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
@@ -515,7 +515,7 @@ Projects
 * [CNI-Genie ★58](https://github.com/Huawei-PaaS/CNI-Genie)
 * [Romana](http://romana.io/)
 * [Infoblox ★2](https://github.com/infobloxopen/cni-infoblox)
-* [External DNS ★431](https://github.com/kubernetes-incubator/external-dns) - allows you to control DNS records dynamically via Kube resources in a DNS provider-agnostic way
+* [External DNS ★431](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
 
 ## Service mesh
 
@@ -551,8 +551,8 @@ Projects
 
 ## API/CLI adaptors
 
-* [kube-prompt ★367](https://github.com/c-bata/kube-prompt) An interactive kubernetes client featuring auto-complete using go-prompt.
-* [Kube-shell ★376](https://github.com/cloudnativelabs/kube-shell) An integrated shell for working with the Kubernetes CLI
+* [kube-prompt ★367](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
+* [Kube-shell ★376](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
 * [Kubebot ★61 ⏳1Y](https://github.com/harbur/kubebot)
 * [kubectx ★194](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
 * [kubens ★194](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl
@@ -572,6 +572,7 @@ Projects
 * [Nulecule ★225 ⏳1Y](https://github.com/projectatomic/nulecule)
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
 * [Psykube ★26](https://github.com/commercialtribe/psykube)
+* [Brigade ★186](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
 
 ## Configuration
 

@@ -245,7 +245,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-relay-go ★203](https://github.com/graphql-go/relay) - A Go/Golang library to help construct a server supporting react-relay.
 * [graphql-go ★760](https://github.com/neelance/graphql-go) - GraphQL server with a focus on ease of use.
 * [c-graphqlparser ★25 ⏳2Y](https://github.com/tecbot/c-graphqlparser) - Go-gettable version of the libgraphqlparser C library for parsing GraphQL.
-* [tallstreet-graphql ★14 ⏳1Y](https://github.com/tallstreet/graphql) - GraphQL parser and server for Go that leverages libgraphqlparser
+* [tallstreet-graphql ★14 ⏳2Y](https://github.com/tallstreet/graphql) - GraphQL parser and server for Go that leverages libgraphqlparser
 * [go-graphql ★152](https://github.com/playlyfe/go-graphql) - A powerful GraphQL server implementation for Golang
 
 <a name="lib-scala" />
@@ -487,7 +487,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### Go Examples
 
 * [golang-relay-starter-kit ★88 ⏳1Y](https://github.com/sogko/golang-relay-starter-kit) - Barebones starting point for a Relay application with Golang GraphQL server.
-* [golang-graphql-playground ★76 ⏳1Y](https://github.com/graphql-go/playground) - An example Golang GraphQL server written with graphql-go and graphql-relay-go. Try live demo at: http://golanggraphqlplayground-sogko.rhcloud.com
+* [golang-graphql-playground ★76 ⏳2Y](https://github.com/graphql-go/playground) - An example Golang GraphQL server written with graphql-go and graphql-relay-go. Try live demo at: http://golanggraphqlplayground-sogko.rhcloud.com
 * [todomvc-relay-go ★45 ⏳1Y](https://github.com/sogko/todomvc-relay-go) - Port of the React/Relay TodoMVC app, driven by a Golang GraphQL backend.
 
 <a name="example-scala" />

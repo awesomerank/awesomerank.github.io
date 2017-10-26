@@ -612,7 +612,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Notifications
 
 * [iziToast ★1056](https://github.com/dolce/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
-* [messenger ★3972](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app.
+* [messenger ★3972 ⏳1Y](https://github.com/HubSpot/messenger) - Growl-style alerts and messages for your app.
 * [noty ★5546](https://github.com/needim/noty) - jQuery notification plugin.
 * [pnotify ★3055](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft.
 * [toastr ★7372](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications.
@@ -911,7 +911,7 @@ http://www.listjs.com
 * [obetomuniz/awesome-webcomponents ★127](https://github.com/obetomuniz/awesome-webcomponents)
 * [willianjusten/awesome-svg ★3367](https://github.com/willianjusten/awesome-svg)
 * [davidsonfellipe/awesome-wpo ★6022](https://github.com/davidsonfellipe/awesome-wpo)
-* [instanceofpro/awesome-backbone ★368](https://github.com/sadcitizen/awesome-backbone)
+* [instanceofpro/awesome-backbone ★368 ⏳1Y](https://github.com/sadcitizen/awesome-backbone)
 * [enaqx/awesome-react ★21705](https://github.com/enaqx/awesome-react)
 * [bolshchikov/js-must-watch ★11354](https://github.com/bolshchikov/js-must-watch)
 * [peterkokot/awesome-jquery](https://github.com/peterkokot/awesome-jquery)

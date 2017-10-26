@@ -1139,7 +1139,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [ServerlessConf workshop](https://github.com/ServerlessInc/serverlessconf-workshop) - Project code for the ServerlessConf London 2016 workshop.
 - [Messenger boilerplate ★30](https://github.com/SC5/serverless-messenger-boilerplate) - Serverless messenger bot boilerplate.
 - [ES6 + Jest ★38](https://github.com/americansystems/serverless-es6-jest) - Serverless framework with ES6 via Webpack + Babel + Jest.
-- [CRUD Scala ★25](https://github.com/jahangirmohammed/serverless-crud-scala) - CRUD example which uses Scala and the Java runtime.
+- [CRUD Scala ★25 ⏳1Y](https://github.com/jahangirmohammed/serverless-crud-scala) - CRUD example which uses Scala and the Java runtime.
 - [Generator Serverless service ★17](https://github.com/ACloudGuru/generator-serverless-service) - A scaffold for a Node.js Serverless service.
 - [SlackNorris ★2](https://github.com/robertoestivill/slacknorris) - Slack command to retrieve great Chuck Norris quotes.
 - [Web API scaffold](https://github.com/jch254/serverless-es6-dynamodb-webapi) - Simple web API powered by Serverless (Node.js) and DynamoDB.

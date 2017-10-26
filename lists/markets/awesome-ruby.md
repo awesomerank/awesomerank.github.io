@@ -436,7 +436,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [local_time ★1280](https://github.com/basecamp/local_time) - Rails Engine for cache-friendly, client-side local time.
 * [montrose ★344](https://github.com/rossta/montrose) - a simple library for expressing, serializing, and enumerating recurring events in Ruby
 * [time-lord ★160](https://github.com/krainboltgreene/time-lord) - Adds extra functionality to the time class.
-* [time_diff ★120 ⏳3Y](https://github.com/abhidsm/time_diff) - Calculates the difference between two time.
+* [time_diff ★120 ⏳4Y](https://github.com/abhidsm/time_diff) - Calculates the difference between two time.
 * [TZinfo ★204](https://github.com/tzinfo/tzinfo) - Provides daylight savings aware transformations between times in different timezones.
 * [validates_timeliness ★1042](https://github.com/adzap/validates_timeliness) - Date and time validation plugin for ActiveModel and Rails.
 * [yymmdd ★71 ⏳3Y](https://github.com/sshaw/yymmdd) - Tiny DSL for idiomatic date parsing and formatting.
@@ -896,7 +896,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [bullet ★4810](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 * [Derailed Benchmarks ★1762](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.
 * [Peek ★2739](https://github.com/peek/peek) - Visual status bar showing Rails performance.
-* [perftools.rb ★1022](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code.
+* [perftools.rb ★1022 ⏳1Y](https://github.com/tmm1/perftools.rb) - gperftools (formerly known as google-perftools) for Ruby code.
 * [rack-mini-profiler ★2315](https://github.com/MiniProfiler/rack-mini-profiler) - Profiler for your development and production Ruby rack apps.
 * [Rbkit ★372](https://github.com/code-mancers/rbkit) - profiler for Ruby. With a GUI.
 * [ruby-prof ★1417](https://github.com/ruby-prof/ruby-prof) - A code profiler for MRI rubies.

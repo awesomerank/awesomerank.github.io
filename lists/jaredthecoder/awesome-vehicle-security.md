@@ -56,6 +56,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 ## Articles
 
+- [How to hack a car — a quick crash-course](https://medium.freecodecamp.org/hacking-cars-a-guide-tutorial-on-how-to-hack-a-car-5eafcfbbb7ec) - Car enthusiast Kenny Kuchera illustrates just enough information to get you up and running. An excellent resource for first timers!
 - [Stopping a Jeep Cherokee on the Highway Remotely](https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/) - Chris Valasek's and Charlie Miller's pivotal research on hacking into Jeep's presented at DEFCON in 2015.
 - [Troy Hunt on Controlling Nissans](https://www.troyhunt.com/controlling-vehicle-features-of-nissan/) - Troy Hunt goes into controlling Nissan vehicles.
 - [Tesla hackers explain how they did it at Defcon](http://www.cnet.com/roadshow/news/tesla-hackers-explain-how-they-did-it-at-def-con-23/) - Overview of DEFCON 23 presentation on hacking into Tesla cars.
@@ -99,7 +100,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 
 - [Koscher et al. Experimental Security Analysis of a Modern Automobile, 2010](http://www.autosec.org/pubs/cars-oakland2010.pdf)
 - [Comprehensive Experimental Analyses of Automotive Attack Surfaces, 2011](http://static.usenix.org/events/sec11/tech/full_papers/Checkoway.pdf)
-- [Miller and Valesek](http://illmatics.com/carhacking.html) - Self proclaimed "car hacking the definitve source".
+- [Miller and Valesek](http://illmatics.com/carhacking.html) - Self proclaimed "car hacking the definitive source".
   - [Adventures in Automotive Networks and Control Units (aka car hacking)](http://illmatics.com/car_hacking.pdf)
   - [Car Hacking for Poories](http://illmatics.com/car_hacking_poories.pdf)
   - [A Survey of Remote Automotive Attack Surfaces, 2014](http://illmatics.com/remote%20attack%20surfaces.pdf)
@@ -128,6 +129,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
 - [OWASP Internet of Things Project](https://www.owasp.org/index.php/OWASP_Internet_of_Things_Project#tab=Community) - OWASP's project to secure IoT, from cars to medical devices and beyond.
 - [I Am The Cavalry](https://www.iamthecavalry.org/) - Global grassroots (eg. volunteer) initiative focused on the intersection of security and human life/public safety issues, such as cars. Participation from security researchers, OEMs, Tier 1s, and many others. Published [Automotive 5-Star Cyber Safety Framework](https://iamthecavalry.org/5star).
 - [Carloop Community](https://community.carloop.io/) - Community of people interested in car hacking and connecting vehicles to the cloud.
+- [Python Security](http://www.pythoncarsecurity.com/) - A website for browsing and buying python-integrated cars having certain vehicular security features.
 
 
 ## Newsletters
@@ -171,7 +173,7 @@ Follow me on [Twitter](https://twitter.com/jaredthecoder) for more security good
     - [Twitter](https://twitter.com/iamthecavalry)
     - [Website](https://iamthecavalry.org)
     - [Discussion Group](https://groups.google.com/forum/#!forum/iamthecavalry)
-    
+
 ## Podcasts and Episodes
 
 Podcasts and podcast episodes, that either directly focus on vehicle security or have some episodes on it.
@@ -253,6 +255,10 @@ Libraries and tools that don't fall under the larger class of applications above
 
 - [SocketCAN Utils ★373](https://github.com/linux-can/can-utils) - Userspace utilites for SocketCAN on Linux.
 - [vircar](https://github.com/dn5/vircar) - a Virtual car userspace that sends CAN messages based on SocketCAN
+
+### C++
+
+- [High Level ViWi Service ★2](https://github.com/iotbzh/high-level-viwi-service) - High level Volkswagen CAN signaling protocol implementation.
 
 ### Python
 
