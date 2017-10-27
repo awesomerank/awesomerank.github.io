@@ -571,7 +571,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [NES Emulator ★402 ⏳2Y](https://github.com/nesbox/emulator) - Emulator of NES, Super Nintendo, Sega Mega Drive, GameBoy video consoles.
 * [Commodore 64 Emulator ★57 ⏳7Y](https://github.com/claus/fc64) - A low level Commodore 64 emulator written in Actionscript 3.
-* [8080 Emulator ★5 ⏳7Y](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor.
+* [8080 Emulator ★5 ⏳8Y](https://github.com/ozipi/As3_SpaceInvaders_Emulator) - An actionscript 3 space invaders emulator based on the intel 8080 processor.
 * [8-bit VM ★5 ⏳4Y](https://github.com/OutOfTheVoid/AS3-8-bit-VM) - An eight bit virtual machine written in actionscript.
 
 #### Interpreters

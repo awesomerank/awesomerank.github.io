@@ -414,6 +414,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [webshell ★2416](https://github.com/tennc/webshell) - This is a webshell open source project by [@tennc](https://github.com/tennc).
 * [Weevely ★1028](https://github.com/epinna/weevely3) - Weaponized web shell by [@epinna](https://github.com/epinna).
 * [Webshell-Sniper ★68](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
+* [Reverse-Shell-Manager ★48](https://github.com/WangYihang/Reverse-Shell-Manager) - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang).
 
 <a name="tools-disassembler"></a>
 ### Disassembler

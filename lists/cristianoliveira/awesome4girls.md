@@ -170,6 +170,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
+  - [Fortune Most Powerful Women Summit](http://www.fortuneconferences.com/most-powerful-women-summit-2016/)
+
+    The Women in Tech Summit inspires, educates and connects women in the technology industry.
+
 ## Initiatives/Programs 
 ([Go to top](#awesome4girls--))
 
@@ -313,10 +317,18 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [WITI](http://www.witi.com/)
 
     WITI is the premier global organization helping tech-savvy women attain their professional goals. WITI organizes events and summits for women.
+    
+  - [Women in Tech Summit](http://www.innotechconferences.com/dallas/about/women-in-tech-summit)
+
+  The Women in Tech Summit is a special event designed specifically for women in IT. This event includes a fireside chat, two panel presentations, lunch and networking.
 
   - [Women Who Tech](http://womenwhotech.com/)
 
     Organizers of the yearly Women Who Tech TeleSummit, with talks by women in technology, startups, and social media. Creators of the #Women2Follow hashtag on Twitter.
+    
+  - [Women of the Channel Leadership Summit WEST](http://www.thechannelco.com/events/wotcw17/about) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="United States" width="30">
+  
+  Female leaders from across the channel — management, sales, marketing, technology and operations — come together to learn from one another and build new relationships.
 
   - [Write/Speak/Code](http://www.writespeakcode.com/)
 
@@ -435,8 +447,8 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
     The Womoz Blog. Program updates and news from the women and Mozilla project.
 
   - [InspirAda na Computação](https://inspiradanacomputacao.com/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
-
-    The blog aims to share content in order to inspire women to become interested in the tech area. It promotes the access to the tech knowledge and brings, as a result, the equality of opportunities.
+  
+    Collaborative blog to give voice to women in computing, science and technology. The blog aims to share content in order to inspire women to become interested in the tech area. It promotes the access to the tech knowledge and brings, as a result, the equality of opportunities.
 
   - [WomenTechmakers](https://www.womentechmakers.com/)
 

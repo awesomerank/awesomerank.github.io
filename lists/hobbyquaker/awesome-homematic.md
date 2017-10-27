@@ -48,7 +48,7 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 
 * [Home-24](http://www.home-24.net/index.php?page=sites/home.php&app=home24) - **$** Android 
 * [HomeControl](http://www.ksquare.de/myhomecontrol/) - **$** iOS
-* [Homedroid](http://www.homedroid.de/) - **$** Android
+* [TinyMatic](http://tinymatic.de/) - **$** Android (formerly named HomeDroid)
 * [HomeNOW](http://homenow.at) - **$** Android
 * [Orbylon](https://www.orbylon.de/orbylon) - **$** iOS, Android, Windows Phone
 * [Pocket Control](https://www.penzler.de) - **$** iOS
@@ -78,8 +78,9 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 * [CUxD-Highcharts ★7 ⏳2Y](https://github.com/hobbyquaker/cuxd-highcharts) - Visualize CUxD Logs with Highcharts.
 * [Email ★12](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon for sending Emails.
 * [Hm-print ★5](https://github.com/litti/hm-print) - Print CCU Programs.
-* [Homeputer](https://www.contronics.de/shop/Zentralen-und-Software/homeputer-CL-Studio-4-0-Software.html) - **$**
+* [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - **$**
 * [Homematic-addon-hue ★6](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic addon to control Philips Hue Lighting.
+* [homematic_check_mk ★3](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.
 * [HQ-WebUI ★21](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU.
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI for the Homematic CCU.
 * [XML-API ★21](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML.

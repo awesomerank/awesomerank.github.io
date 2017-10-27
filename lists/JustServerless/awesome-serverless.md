@@ -859,6 +859,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Breaking down ServerlessConf NYC 2017](https://read.acloud.guru/what-you-missed-at-serverlessconf-nyc-3ab02398ebe6) - Key takeaways from the hottest conference in the cloud.
 - [Media processing with BuckleScript and AWS Lambda](https://medium.com/@romain.beauxis/scalable-and-serverless-media-processing-using-bucklescript-ocaml-and-aws-lambda-api-gateway-4efe39331f33) - How to build a scalable and serverless media processing using BuckleScript / OCaml and AWS Lambda / API Gateway.
 - [Serverless computing: economic and architectural impact](https://blog.acolyer.org/2017/10/19/serverless-computing-economic-and-architectural-impact/) - Analysis of economical and architectural impacts the serveless paradigm introduces.
+- [Make a Serverless GraphQL API using Lambda and DynamoDB](https://serverless.com/blog/make-serverless-graphql-api-using-lambda-dynamodb/) - Tutorial on how to build a GraphQL API with AWS Lambda, DynamoDB and the Serverless Framework.
+- [Creating a Serverless GraphQL gateway on top of a 3rd party REST API](https://serverless.com/blog/3rd-party-rest-api-to-graphql-serverless/) - How to create a Serverless GraphQL gateway on top of a 3rd party REST API.
+- [Nuclio - An open source serverless platform](https://jaxenter.com/nuclio-serverless-open-source-138302.html) - Post about the Nuclio project and its impact on the serverless infrastructure management burden.
 
 ## Screencasts
 
@@ -1310,6 +1313,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Start with React example ★1](https://github.com/anoora17/serverlessStartwithReactexample) - Serverless React example app.
 - ["Deploy with Serverless" ★13](https://github.com/RafalWilinski/deploy-with-serverless) - Infrastructure for processing Serverless projects and creating one-click deployments.
 - [Raffleapp ★3](https://github.com/serverless/raffleapp) - Simple raffle application with a backend serverless service.
+- [Architectures playground ★1](https://github.com/aletheia/sls-architectures-playground) - A palyground project showing different serverless architectures.
 
 ## Related projects
 
@@ -1426,6 +1430,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless design patterns](http://serverlessdesignpatterns.com) - Initiative to work on and establish serverless design patterns.
 - [Shell ★11](https://github.com/ibm-functions/shell) - An Electron-based development tool for IBM Cloud Functions and Composer.
 - [Composer ★46](https://github.com/ibm-functions/composer) - Programming model for composing IBM Cloud Functions, built on Apache OpenWhisk.
+- [Thundra](https://www.thundra.io) - Full observability for AWS Lambda.
 
 ## Plugins
 

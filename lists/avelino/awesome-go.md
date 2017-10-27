@@ -733,7 +733,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [messagebus ★2](https://github.com/vardius/message-bus) - messagebus is a Go simple async message bus, perfect for using as event bus when doing event sourcing, CQRS, DDD.
 * [NATS Go Client](https://github.com/nats-io/nats) - Lightweight and high performance publish-subscribe and distributed queueing messaging system - this is the Go library.
 * [nsq-event-bus ★18](https://github.com/rafaeljesus/nsq-event-bus) - A tiny wrapper around NSQ topic and channel.
-* [oplog ★83 ⏳1Y](https://github.com/dailymotion/oplog) - Generic oplog/replication system for REST APIs.
+* [oplog ★83 ⏳2Y](https://github.com/dailymotion/oplog) - Generic oplog/replication system for REST APIs.
 * [pubsub](https://github.com/tuxychandru/pubsub) - Simple pubsub package for go.
 * [RapidMQ ★28](https://github.com/sybrexsys/RapidMQ) - RapidMQ is a lightweight and reliable library for managing of the local messages queue.
 * [sarama ★2154](https://github.com/Shopify/sarama) - Go library for Apache Kafka.
@@ -1351,7 +1351,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [gmf ★303](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
 * [go-astisub ★28](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
 * [goav ★356 ⏳1Y](https://github.com/giorgisio/goav) - Comphrensive Go bindings for FFmpeg.
-* [gst ★132 ⏳1Y](https://github.com/ziutek/gst) - Go bindings for GStreamer.
+* [gst ★132 ⏳2Y](https://github.com/ziutek/gst) - Go bindings for GStreamer.
 * [libgosubs ★4](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass.
 * [v4l ★11](https://github.com/korandiz/v4l) - Video capture library for Linux, written in Go.
 

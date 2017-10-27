@@ -652,7 +652,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [snyk ★612](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
 - [nsp ★1070](https://github.com/nodesecurity/nsp) - CLI tool to identify known vulnerabilities in your project.
-- [RegEx-DoS ★56](https://github.com/jagracey/RegEx-DoS) - CLI tool to identify possible regex denial of service (ReDos) vulnerabilities in your project.
+- [RegEx-DoS ★56 ⏳1Y](https://github.com/jagracey/RegEx-DoS) - CLI tool to identify possible regex denial of service (ReDos) vulnerabilities in your project.
 - [credential-plus ★21](https://github.com/simonepri/credential-plus) - Password hashing and verification made easy.
 
 

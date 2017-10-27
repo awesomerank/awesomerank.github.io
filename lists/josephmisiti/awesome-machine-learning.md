@@ -240,6 +240,8 @@ Further resources:
 * [mgl ★139 ⏳1Y](https://github.com/melisgl/mgl) - Neural networks  (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes
 * [mgl-gpr ★35 ⏳2Y](https://github.com/melisgl/mgl-gpr) - Evolutionary algorithms
 * [cl-libsvm ★13 ⏳3Y](https://github.com/melisgl/cl-libsvm) - Wrapper for the libsvm support vector machine library
+* [cl-online-learning ★26](https://github.com/masatoi/cl-online-learning) - Online learning algorithms (Perceptron, AROW, SCW, Logistic Regression)
+* [cl-random-forest ★19](https://github.com/masatoi/cl-random-forest) - Implementation of Random Forest in Common Lisp
 
 <a name="clojure"></a>
 ## Clojure
@@ -335,10 +337,10 @@ Further resources:
 <a name="go-data-analysis"></a>
 #### Data Analysis / Data Visualization
 
-* [go-graph ★78 ⏳1Y](https://github.com/StepLg/go-graph) - Graph library for Go/Golang language.
+* [go-graph ★78 ⏳2Y](https://github.com/StepLg/go-graph) - Graph library for Go/Golang language.
 * [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation
 * [RF ★85 ⏳3Y](https://github.com/fxsjy/RF.go) - Random forests implementation in Go
-
+* [Glot ★151](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot. 
 
 <a name="haskell"></a>
 ## Haskell
@@ -474,7 +476,7 @@ Further resources:
 * [Clusterfck](http://harthur.github.io/clusterfck/) - Agglomerative hierarchical clustering implemented in Javascript for Node.js and the browser
 * [Clustering.js ★30 ⏳3Y](https://github.com/emilbayes/clustering.js) - Clustering algorithms implemented in Javascript for Node.js and the browser
 * [Decision Trees ★145](https://github.com/serendipious/nodejs-decision-tree-id3) - NodeJS Implementation of Decision Tree using ID3 Algorithm
-* [DN2A ★447](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture
+* [DN2A ★447 ⏳1Y](https://github.com/dn2a/dn2a-javascript) - Digital Neural Networks Architecture
 * [figue](https://code.google.com/archive/p/figue) - K-means, fuzzy c-means and agglomerative clustering
 * [Gaussian Mixture Model ★10](https://github.com/lukapopijac/gaussian-mixture-model) - Unsupervised machine learning with multivariate Gaussian mixture model
 * [Node-fann ★174](https://github.com/rlidwka/node-fann) - FANN (Fast Artificial Neural Network Library) bindings for Node.js
@@ -1094,7 +1096,7 @@ be
 * [plot-rb ★38 ⏳4Y](https://github.com/zuhao/plotrb) - A plotting library in Ruby built on top of Vega and D3.
 * [scruffy](http://www.rubyinside.com/scruffy-a-beautiful-graphing-toolkit-for-ruby-194.html) - A beautiful graphing toolkit for Ruby
 * [SciRuby](http://sciruby.com/)
-* [Glean ★116](https://github.com/glean/glean) - A data management tool for humans
+* [Glean ★116 ⏳1Y](https://github.com/glean/glean) - A data management tool for humans
 * [Bioruby ★305](https://github.com/bioruby/bioruby)
 * [Arel ★246 ⏳8Y](https://github.com/nkallen/arel)
 

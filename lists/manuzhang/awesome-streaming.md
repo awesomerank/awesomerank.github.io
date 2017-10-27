@@ -107,7 +107,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 
 ### Benchmark
 
-* [storm-benchmark ★34](https://github.com/intel-hadoop/storm-benchmark) [Java] - a set of benchmarks to test Storm performance.
+* [storm-benchmark ★34 ⏳1Y](https://github.com/intel-hadoop/storm-benchmark) [Java] - a set of benchmarks to test Storm performance.
 * [storm-perf-test ★69 ⏳1Y](https://github.com/yahoo/storm-perf-test) [Java] - a simple storm performance/stress test.
 * [streaming-benchmarks ★304](https://github.com/yahoo/streaming-benchmarks) [Java] - Benchmarks for Low Latency (Streaming) solutions including Apache Storm, Apache Spark, Apache Flink, etc.
 * [flotilla ★170 ⏳1Y](https://github.com/tylertreat/Flotilla) [Go] - Automated message queue orchestration for scaled-up benchmarking.

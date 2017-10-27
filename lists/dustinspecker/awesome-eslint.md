@@ -52,7 +52,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Angular](https://github.com/Gillespie59/eslint-plugin-angular) - Linting rules to adhere to the [John Papa's Angular Styleguide ★23277](https://github.com/johnpapa/angular-styleguide)
 - [AVA](https://github.com/sindresorhus/eslint-plugin-ava) - Linting rules for AVA
 - [Backbone ★91](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone
-- [Chai ★7](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai
+- [Chai ★7 ⏳1Y](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai
 - [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember
 - [Hapi ★16 ⏳1Y](https://github.com/continuationlabs/eslint-plugin-hapi) – Linting rules for hapi
 - [Jasmine ★42](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine

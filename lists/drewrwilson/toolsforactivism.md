@@ -57,7 +57,7 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 These are all projects that are works in process. Not finished, but worth checking out.
 
  * [Where@ ★25 ⏳2Y](https://github.com/the-learning-collective/whereat-macroid) - a mobile app to help protesters communicate with each other in realtime during marches
- * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code ★9 ⏳1Y](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
+ * [Stencil Validator](https://drewrwilson.com/stencilvalidator/) ([code ★9 ⏳2Y](https://github.com/drewrwilson/stencilvalidator)) - a design tool for determining if your artwork is a valid stencil
  * [Day of Action ★8 ⏳2Y](https://github.com/handsupwalkout/handsupwalkout.github.io) - very rough tool used to coordinate a day of action for high school students. the starting point for a more generalized tool to run a day of action campaign
 
 

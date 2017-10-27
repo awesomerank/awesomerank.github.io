@@ -104,7 +104,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [expertiza ★123](https://github.com/expertiza/expertiza) - web application where students can submit and peer-review learning objects (articles, code, web sites, etc).
 - [fairnopoly ★82](https://github.com/fairmondo/fairmondo) - A free market place in the hand of the users  [Live](https://www.fairmondo.de)
 - [feedbin ★1874](https://github.com/feedbin/feedbin) -  A simple, fast and nice looking RSS reader [Live](https://feedbin.com)
-- [follow-all ★86](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click
+- [follow-all ★86 ⏳1Y](https://github.com/codeforamerica/follow-all) - Follow all the members of a Twitter list with a single click
 - [fromthepage ★85](https://github.com/benwbrum/fromthepage) - A wiki-like application for crowdsourcing transcription of handwritten documents  [Live](https://www.fromthepage.com/)
 - [gitlabhq ★19958](https://github.com/gitlabhq/gitlabhq) -  Open source software to collaborate on code  [Live](https://gitlab.com/gitlab-org/gitlab-ce) -
 - [graff_mags ★15 ⏳3Y](https://github.com/dankleiman/graff_mags) - Upload and display collection of 2000+ graffiti magazines  [Live](http://graffmags.herokuapp.com)

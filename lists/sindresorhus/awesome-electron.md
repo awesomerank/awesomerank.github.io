@@ -179,6 +179,7 @@ Made with Electron.
 - [Buka ★264](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia ★4728](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 - [Tusk ★191](https://github.com/champloohq/tusk) - Unofficial Evernote app.
+- [ProtonMail Desktop ★134](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
 
 ### Closed Source
 

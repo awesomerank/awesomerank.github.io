@@ -326,7 +326,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-lorem-component - Renders lorem ipsum placeholder text ★44](https://github.com/martinandert/react-lorem-component)
 * [react-interpolate-component - Renders elements into a format string ★40](https://github.com/martinandert/react-interpolate-component)
 * [react-proxy-loader - Hot Module Replacement and Code Splitting](https://github.com/webpack/react-proxy-loader)
-* [RCSS - Turn your JavaScript objects into CSS classes ★287 ⏳1Y](https://github.com/chenglou/RCSS)
+* [RCSS - Turn your JavaScript objects into CSS classes ★287 ⏳2Y](https://github.com/chenglou/RCSS)
 * [ReactiveElements - Allows to use React.js component as HTML element ★599](https://github.com/PixelsCommander/ReactiveElements)
 * [react-chosen - React wrapper for Chosen jQuery ★87 ⏳1Y](https://github.com/chenglou/react-chosen)
 * [react-inlinesvg - An SVG loader component for React ★382](https://github.com/matthewwithanm/react-inlinesvg)

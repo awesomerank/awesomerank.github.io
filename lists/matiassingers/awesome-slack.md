@@ -245,7 +245,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-notify ★155](https://github.com/andrewchilds/slack-notify) - A Node.js wrapper around the Slack Webhook API
 - [slack-pokemon ★320](https://github.com/rvinluan/slack-pokemon) - A bot for having Pokemon battles in Slack
 - [slack-poker-bot ★1512](https://github.com/CharlieHess/slack-poker-bot) - A bot that deals Texas Hold'em games in Slack
-- [slack-polls ★10 ⏳1Y](https://github.com/dsifford/slack-polls) - Express.js app for native polling on Slack
+- [slack-polls ★10 ⏳2Y](https://github.com/dsifford/slack-polls) - Express.js app for native polling on Slack
 - [slack-pongbot ★80 ⏳1Y](https://github.com/andrewvy/slack-pongbot) - Slack bot for ping pong tracking
 - [slack-proxy ★9 ⏳3Y](https://github.com/phamann/slack-proxy) - Simple proxy between AWS SQS queue and Slack
 - [slack-reply-shortcut ★2](https://github.com/websharks/slack-reply-shortcut) - Use the "R" shortcut key w/ selected text to easily reply in the web app

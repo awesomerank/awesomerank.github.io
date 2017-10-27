@@ -1029,7 +1029,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 **[`^        back to top        ^`](#)**
 
-  * [Nunux Keeper](http://keeper.nunux.org/) - Your personal content curation service. ([Source Code ★50](https://github.com/ncarlier/nunux-keeper)) `GPLv3` `Nodejs`
+  * [Nunux Keeper](http://keeper.nunux.org/) - Your personal content curation service. ([Source Code ★50 ⏳1Y](https://github.com/ncarlier/nunux-keeper)) `GPLv3` `Nodejs`
   * [Wallabag](https://www.wallabag.org) - Wallabag, formerly Poche, is a web application allowing you to save articles to read them later with improved readability. ([Demo](http://demo.wallabag.org/), [Source Code ★3065](https://github.com/wallabag/wallabag)) `MIT` `PHP`
 
 

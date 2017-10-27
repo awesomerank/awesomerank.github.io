@@ -83,6 +83,7 @@ title: Awesome Rank for stefanbuck/awesome-browser-extensions-for-github
 Shows notifications when you get a new notification on GitHub and provides quick access to all notifications in a popup.
 
 <details><summary>Screenshots</summary>
+ 
 ![Advanced GitHub Notifier](http://i.imgur.com/Qy2fbRC.png)
 </details>
 
