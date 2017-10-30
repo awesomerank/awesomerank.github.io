@@ -324,7 +324,7 @@ Animation
 Name | License | Demo
 --- | --- | ---
 [AndroidViewAnimations ★8351](https://github.com/daimajia/AndroidViewAnimations) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/androidviewanimations.gif" width="49%">
-[ListViewAnimations ★5626](https://github.com/nhaarman/ListViewAnimations) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ListViewAnimations.gif" width="49%">
+[ListViewAnimations ★5626 ⏳1Y](https://github.com/nhaarman/ListViewAnimations) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/ListViewAnimations.gif" width="49%">
 [AndroidImageSlider ★4635](https://github.com/daimajia/AndroidImageSlider) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/AndroidImageSlider.gif" width="49%">
 [transitions-everywhere ★3247](https://github.com/andkulikov/transitions-everywhere) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | ![](/art/transitions-everywhere.gif)
 [Android Ripple Background ★1597](https://github.com/skyfishjy/android-ripple-background) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/android-ripple-background.gif" width="49%"> <img src="/art/android-ripple-background2.gif" width="49%">

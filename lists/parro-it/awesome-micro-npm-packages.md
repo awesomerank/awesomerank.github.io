@@ -95,6 +95,8 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [static-props ★2](https://github.com/fibo/static-props) - Defines static object attributes using `Object.defineProperties`
 * [missing-deep-keys ★0 ⏳1Y](https://github.com/vladgolubev/missing-deep-keys) - Returns an array of keys from first object that are missing in second.
 * [has-own-property ★2 ⏳1Y](https://github.com/LinusU/has-own-property) - Check if an object has a local property. 
+* [merge-objects ★2 ⏳2Y](https://github.com/shevaroller/node-merge-objects) - Deep-merge two objects. Arrays that are values of the same object key get concatenated.
+* [deep-object-diff ★84](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 
 ### Function
 

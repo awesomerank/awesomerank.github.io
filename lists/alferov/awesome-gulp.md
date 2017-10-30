@@ -126,7 +126,7 @@ title: Awesome Rank for alferov/awesome-gulp
 ## Plugins
 ### Compilation
 * [gulp-sass](https://github.com/dlmanning/gulp-sass) - Sass → CSS with [libsass ★3591](https://github.com/sass/libsass).
-* [gulp-ruby-sass ★478](https://github.com/sindresorhus/gulp-ruby-sass) - Sass → CSS with Ruby Sass.
+* [gulp-ruby-sass ★478 ⏳1Y](https://github.com/sindresorhus/gulp-ruby-sass) - Sass → CSS with Ruby Sass.
 * [gulp-compass ★176](https://github.com/appleboy/gulp-compass) - Sass → CSS with Ruby Sass & Compass.
 * [gulp-less](https://github.com/plus3network/gulp-less) - [Less ★15147](https://github.com/less/less.js) → CSS.
 * [gulp-stylus](https://github.com/stevelacy/gulp-stylus) - [Stylus ★8507](https://github.com/stylus/stylus) → CSS.
@@ -219,7 +219,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-jasmine](https://github.com/sindresorhus/gulp-jasmine) - Run [Jasmine 2 ★12927](https://github.com/jasmine/jasmine) tests in Node.js.
 * [gulp-protractor](https://github.com/mllrsohn/gulp-protractor) - Gulp wrapper for [Protractor ★6983](https://github.com/angular/protractor) tests.
 * [gulp-coverage ★60](https://github.com/dylanb/gulp-coverage) - Coverage reporting for Node.js that is independent of the test runner.
-* [gulp-karma ★311](https://github.com/karma-runner/gulp-karma) - Karma test runner for gulp.
+* [gulp-karma ★311 ⏳1Y](https://github.com/karma-runner/gulp-karma) - Karma test runner for gulp.
 * [gulp-ava](https://github.com/sindresorhus/gulp-ava)- Run [AVA](https://github.com/sindresorhus/ava) tests with gulp.
 
 ### Miscellaneous Plugins

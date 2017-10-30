@@ -193,6 +193,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [VueJS Brasil - Telegram Group [Portuguese]](https://t.me/vuejsbrasil)
 - [VueJS Brasil - Facebook Page [Portuguese]](https://www.facebook.com/vuejsbrasil/)
 - [VueJS Brasil - Facebook Group [Portuguese]](https://www.facebook.com/groups/vuejsbr/)
+- [VueJS en español - Facebook Group [Spanish]](https://www.facebook.com/groups/vue.es/)
 
 ### Conferences
 
@@ -503,6 +504,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [TidyTab ★24](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
 - [peregrine-cms ★7](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
 - [concept-to-clinic ★226](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
+- [grid-awesome ★0](https://github.com/louisbourque/grid-awesome) - Generate boilerplate css for grid layouts using the css display: grid; property. 
 
 ### Commercial Products
 
@@ -510,6 +512,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [Collate Notes](http://www.collatenotes.com/)
  - [Formester](https://www.formester.com/) - Form, email marketing automation made easy
  - [ChatWoot](https://www.chatwoot.com/) - Livechat and agent collaboration over Facebook messenger.
+ - [VueA](https://themeforest.net/item/vuejs-laravel-admin-template/20119122?ref=jyostna&utm_source=awesomevue) - VueJS Admin template with multiple layouts and laravel version.
 
 
 ### Apps/Websites
@@ -606,7 +609,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vectr](https://vectr.com/new) - A free vector graphics software
   - [brain bits ★38](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
   - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
-  - [Habitaca](https://habitica.com/) - online task management application in  the form of a role-playing game.
+  - [Habitica](https://habitica.com/) - online task management application in  the form of a role-playing game.
+  - [MadeWithVueJs](https://madewithvuejs.com/) - A Gallery of Projects made with Vue.js (also the Site itself uses Vue.js)
 
 ### Interactive Experiences
 
@@ -966,6 +970,7 @@ Tooltips / popovers
  - [vue-multiselect ★2162](https://github.com/monterail/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js.
   - [stf-vue-select ★34](https://github.com/stfalcon-studio/stf-vue-select) - most flexible and customized select Vue2
  - [vue-select-image ★12](https://github.com/mazipan/vue-select-image) - Vue 2 Component for selecting image from list
+ - [@riophae/vue-treeselect ★35](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options for Vue.js
 
 #### Slider
 
@@ -1045,7 +1050,6 @@ Tooltips / popovers
  - [vue-core-image-upload ★667](https://github.com/Vanthink-UED/vue-core-image-upload) - A vue plugin for image to crop and upload.
  - [vue-croppa ★132](https://github.com/zhanziyang/vue-croppa) - A simple straightforward customizable lightweight mobile-friendly image cropper for Vue 2.0.
  - [vue-cropper ★159](https://github.com/xyxiao001/vue-cropper) - A picture clipping plugin for vue2.0
- - [vue-croppie](https://jofftiquez.github.io/vue-croppie/) - A Vue2 wrapper for croppie image cropper
 
 #### File Upload
 
@@ -1160,6 +1164,8 @@ Tooltips / popovers
  - [N3-components ★779](https://github.com/N3-components/N3-components) - Beautiful Web Components built with Vue 2
  - [jsmod-vue-pc ★57](https://github.com/chaogao/jsmod-pc-vue) - Highly scalable web components for vue 2.0
  - [guilhermewaess/SemVue ★26](https://github.com/guilhermewaess/SemVue) - Semantic-ui Modules implemented with Vue 2
+ - [office-ui-fabric-vue ★6](https://github.com/aidewoode/office-ui-fabric-vue) - Office UI Fabric implementation for Vue.js
+ - [vuestic-admin ★2478](https://github.com/epicmaxco/vuestic-admin) - Vue Admin Dasboard with collection of custom components. Built with Vue 2 and Bootstrap 4
 
 ###### Mobile
 
@@ -1217,6 +1223,7 @@ Tooltips / popovers
  - [vue-match-media ★11](https://github.com/drenglish/vue-match-media) - Vue 2.x-compatible plugin that offers a consistent, semantic approach to making components media query-aware.
  - [vue-media-query-mixin ★6](https://github.com/jofftiquez/vue-media-query-mixin) - Vue 2 media query mixin that can be used in both component js and component template. Compatible with bootstrap and vuetify viewports. `wXS` returns if screen width is xs, `wSM` returns true if screen width is sm, etc...
  - [vue-breakpoints ★21](https://github.com/apertureless/vue-breakpoints) - Vue 2 minimal components to show and hide elements based on breakpoints. Inspired by Airbnb.
+  - [vue-mq ★1](https://github.com/AlexandreBonaventure/vue-mq) - Offer some useful tools to quickly setup responsive design with a semantic and mobile-first API (Vue 2.x)
 
 ### Form
 
@@ -1315,7 +1322,7 @@ Tooltips / popovers
  - [vue2-filters ★298](https://github.com/freearhey/vue2-filters) - A collection of standard filters Vue 1.* adapted for use in Vue 2.*.
  - [morphling ★10](https://github.com/jofftiquez/morphling) - A collection of standard and custom filters for Vue 2.
  - [vue-currency-filter ★10](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizeable Vue 2 Currency Filter.
-
+ - [vue-trans ★1](https://github.com/Trekels/vue-trans) - A simple filter to provide a similar way of translating to the Symfony trans.
 ### SVG
 
  - [vue-svgicon ★194](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x).
@@ -1418,6 +1425,7 @@ the amazing Vue.js.
 
  - [revue ★516](https://github.com/revue/revue) - Redux binding for Vue.
  - [vuedeux ★59](https://github.com/Vuedeux/vuedeux) - Binding Solutions for Vue & Redux.
+    - [redux-store-mixin ★0](https://github.com/kolesoffac/redux-store-mixin) - Mixin for integrate action creators in methods of vue-component
 
 #### Mobx
 
@@ -1553,6 +1561,7 @@ Payment utilities.
  - [vue-runkit ★1](https://github.com/maple3142/vue-runkit) - RunKit Embed for Vue.js
  - [vue-youtube ★4](https://github.com/anteriovieira/vue-youtube) - Provides a simple layer for you to use your imagination while over the [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference). (Compatible with SSR)
  - [vue-introjs ★4](https://github.com/alex-oleshkevich/vue-introjs) - Integrates intro.js step-by-step guide and feature introduction with Vue.js [http://introjs.com/](http://introjs.com/).
+ - [vue-loopback ★6](https://github.com/InCuca/vue-loopback) - Loopback and Vue application template
 
 ###### Google Analytics
 
@@ -1729,6 +1738,7 @@ Payment utilities.
 
  - [Electron Vue ★3245](https://github.com/SimulatedGREG/electron-vue) - An Electron & Vue.js quick start boilerplate with vue-cli scaffolding, common Vue plugins, electron-packager/electron-builder, unit/e2e testing, vue-devtools, and webpack.
  - [VuePack ★1919](https://github.com/egoist/vuepack) - A modern starter which uses Vue 2, Vuex, Vue-router and Webpack 2 (and even Electron).
+ - [vue-flexible-link ★5](https://github.com/saintplay/vue-flexible-link) - Tiny Vue component for Electron to open links in a browser. Ideal for cross environment apps (Web & Native)
 
 ### Parts
 

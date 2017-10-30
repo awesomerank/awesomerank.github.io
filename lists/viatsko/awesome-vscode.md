@@ -64,6 +64,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Git Indicators](#gitindicators)
   - [GitHub](#github)
   - [Icon Fonts](#icon-fonts)
+  - [Live Server](#live-server)
   - [Multiple clipboards](#multiple-clipboards)
   - [npm Intellisense](#npm-intellisense)
   - [Partial Diff](#partial-diff)
@@ -202,7 +203,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### JavaScript
 
-- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`). 
+- [tslint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint) - TSLint for Visual Studio Code (with `"tslint.jsEnable": true`).
 - [eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) - Linter for [eslint](https://eslint.org/).
 - [XO](https://marketplace.visualstudio.com/items?itemName=samverschueren.linter-xo) - Linter for [XO ★2969](https://github.com/sindresorhus/xo).
 - [AVA](https://marketplace.visualstudio.com/items?itemName=samverschueren.ava) - Snippets for [AVA ★11658](https://github.com/avajs/ava).
@@ -241,7 +242,7 @@ If you're feeling brave, there are at least two custom UIs for VS Code:
 
 #### [An Old Hope Theme](https://marketplace.visualstudio.com/items?itemName=dustinsanders.an-old-hope-theme-vscode)
 
-![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/master/dark.png)
+![](https://raw.githubusercontent.com/dustinsanders/an-old-hope-theme-vscode/0d6b1508a2fbf27c86d92da0040a2549b6150552/dark.png)
 
 #### [Atom One Dark Syntax Theme](https://marketplace.visualstudio.com/items?itemName=andischerer.theme-atom-one-dark)
 
@@ -366,6 +367,12 @@ Features full workbench theming
 ### [Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
 
 > Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
+
+### [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+
+> Launch a development local Server with live reload feature for static & dynamic pages.
+
+![live-server](https://raw.githubusercontent.com/ritwickdey/vscode-live-server/master/images/Screenshot/vscode-live-server-animated-demo.gif)
 
 ### [Multiple clipboards](https://marketplace.visualstudio.com/items?itemName=slevesque.vscode-multiclip)
 

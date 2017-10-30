@@ -13,14 +13,6 @@ title: Awesome Rank for sindresorhus/awesome
 	<br>
 </h1>
 
-<br>
-
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome.svg' />
-</a>
-
-<br>
-
 <!--
 <p align="center">
 	<b>✨ Prelaunching the <a href="https://awesomeweekly.co">Awesome Weekly</a> newsletter! ✨</b>
@@ -29,8 +21,6 @@ title: Awesome Rank for sindresorhus/awesome
 
 <br>
 -->
-
----
 
 <p align="center">
 	<a href="https://github.com/sindresorhus/awesome/blob/master/awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
@@ -52,6 +42,13 @@ title: Awesome Rank for sindresorhus/awesome
 
 <p align="center">
 	<sub>Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://blog.sindresorhus.com">blog</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.</sub>
+</p>
+<br>
+
+<p align="center">
+	<a target="_blank" rel="nofollow" href="https://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome">
+		<img alt="Awesome is proudly sponsored by Code Sponsor" width="255" height="56" src="https://app.codesponsor.io/c/tmkVF4Qm7RNE8e9RVwnim6gU/r/12110/banner.png">
+	</a>
 </p>
 
 
@@ -89,10 +86,10 @@ title: Awesome Rank for sindresorhus/awesome
 - [iOS ★22020](lists/vsouza/awesome-ios.md)
 - [Android ★4494](lists/JStumpp/awesome-android.md)
 - [IoT & Hybrid Apps ★274 ⏳1Y](lists/weblancaster/awesome-IoT-hybrid.md)
-- [Electron ★12442](lists/sindresorhus/awesome-electron.md)
-- [Cordova ★196](lists/busterc/awesome-cordova.md)
+- [Electron ★12442](lists/sindresorhus/awesome-electron.md) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+- [Cordova ★196](lists/busterc/awesome-cordova.md) - JavaScript API for hybrid apps.
 - [React Native ★15194](lists/jondot/awesome-react-native.md)
-- [Xamarin ★610](lists/benoitjadinon/awesome-xamarin.md)
+- [Xamarin ★610](lists/benoitjadinon/awesome-xamarin.md) - Mobile app development IDE, testing, and distribution.
 - [Linux ★895](lists/aleksandar-todorovic/awesome-linux.md)
 	- [Containers ★344](lists/Friz-zy/awesome-linux-containers.md)
 - [macOS ★6680](lists/iCHAIT/awesome-macOS.md)
@@ -103,9 +100,9 @@ title: Awesome Rank for sindresorhus/awesome
 - [Salesforce ★178](lists/mailtoharshit/awesome-salesforce.md)
 - [Amazon Web Services ★4851](lists/donnemartin/awesome-aws.md)
 - [Windows ★3019](lists/Awesome-Windows/Awesome.md)
-- [IPFS ★721](lists/ipfs/awesome-ipfs.md)
-- [Fuse ★255](lists/vinkla/awesome-fuse.md)
-- [Heroku ★91 ⏳1Y](lists/ianstormtaylor/awesome-heroku.md)
+- [IPFS ★721](lists/ipfs/awesome-ipfs.md) - P2P hypermedia protocol.
+- [Fuse ★255](lists/vinkla/awesome-fuse.md) - Mobile development tools.
+- [Heroku ★91 ⏳1Y](lists/ianstormtaylor/awesome-heroku.md) - Cloud platform as a service.
 - [Raspberry Pi ★2751](lists/thibmaek/awesome-raspberry-pi.md) - Credit card-sized computer aimed at teaching kids programming, but capable of a lot more.
 - [Qt ★99](lists/JesseTG/awesome-qt.md) - Cross-platform GUI app framework.
 - [WebExtensions ★165](lists/bfred-it/Awesome-WebExtensions.md) - Cross-browser extension system.
@@ -118,12 +115,12 @@ title: Awesome Rank for sindresorhus/awesome
 
 - [JavaScript ★12340](lists/sorrycc/awesome-javascript.md)
 	- [Promises ★993](lists/wbinnssmith/awesome-promises.md)
-	- [Standard Style ★188](lists/standard/awesome-standard.md)
+	- [Standard Style ★188](lists/standard/awesome-standard.md) - Style guide and linter.
 	- [Must Watch Talks ★11354](lists/bolshchikov/js-must-watch.md)
 	- [Tips ★10562](lists/loverajoel/jstips.md)
 	- [Network Layer ★340](lists/Kikobeats/awesome-network-js.md)
 	- [Micro npm Packages ★974](lists/parro-it/awesome-micro-npm-packages.md)
-	- [Mad Science npm Packages ★627](lists/feross/awesome-mad-science.md)
+	- [Mad Science npm Packages ★627](lists/feross/awesome-mad-science.md) - Impossible sounding projects that exist.
 	- [Maintenance Modules ★295 ⏳1Y](lists/maxogden/maintenance-modules.md) - For npm packages.
 	- [npm ★2614](lists/sindresorhus/awesome-npm.md) - Package manager.
 	- [AVA ★218](lists/avajs/awesome-ava.md) - Test runner.
@@ -178,6 +175,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [CMake ★866](lists/onqtam/awesome-cmake.md) - Build, test, and package software.
 - [ActionScript 3 ★33](lists/robinrodricks/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
 - [Eta ★25](lists/sfischer13/awesome-eta.md) - Functional programming language for the JVM.
+- [Idris ★41](lists/joaomilho/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
 
 ## Front-End Development
@@ -193,11 +191,11 @@ title: Awesome Rank for sindresorhus/awesome
 - [React ★21705](lists/enaqx/awesome-react.md) - App framework.
 	- [Relay ★176](lists/expede/awesome-relay.md) - Framework for building data-driven React apps.
 - [Web Components ★953](lists/mateusortiz/webcomponents-the-right-way.md)
-- [Polymer ★322](lists/Granze/awesome-polymer.md)
+- [Polymer ★322](lists/Granze/awesome-polymer.md) - JavaScript library to develop Web Components.
 - [Angular ★4820](lists/AngularClass/awesome-angular.md) - App framework.
 - [Backbone ★368 ⏳1Y](lists/sadcitizen/awesome-backbone.md) - App framework.
 - [HTML5 ★771](lists/diegocard/awesome-html5.md)
-- [SVG ★3367](lists/willianjusten/awesome-svg.md)
+- [SVG ★3367](lists/willianjusten/awesome-svg.md) - XML-based vector image format.
 - [Canvas ★281](lists/raphamorim/awesome-canvas.md)
 - [KnockoutJS ★63](lists/dnbard/awesome-knockout.md)
 - [Dojo Toolkit ★57](lists/petk/awesome-dojo.md)
@@ -218,7 +216,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Web Audio ★266](lists/notthetup/awesome-webaudio.md)
 - [Offline-First ★2189](lists/pazguille/offline-first.md)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
-- [A-Frame VR ★1214](lists/aframevr/awesome-aframe.md) - Virtual reality.
+- [A-Frame VR ★1214](lists/aframevr/awesome-aframe.md) - Virtual reality for web browsers.
 - [Cycle.js ★687](lists/cyclejs-community/awesome-cyclejs.md) - Functional and reactive JavaScript framework.
 - [Text Editing ★67 ⏳1Y](lists/dok/awesome-text-editing.md)
 - [Motion UI Design ★425](lists/fliptheweb/motion-ui-design.md)
@@ -587,6 +585,8 @@ title: Awesome Rank for sindresorhus/awesome
 - [Crypto Currency Tools & Algorithms ★1911](lists/kennethreitz/awesome-coins.md) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
 - [Open Source Supporters ★63](lists/zachflower/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles ★11](lists/robinstickel/awesome-design-principles.md) - Create better and more consistent designs and experiences.
+- [Visual Regression Testing ★136](lists/mojoaxel/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
+- [Theravada ★18](lists/johnjago/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
 
 
 ## License

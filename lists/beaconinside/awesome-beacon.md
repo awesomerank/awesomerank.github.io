@@ -23,7 +23,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
   * [Eddystone-TLM](https://github.com/google/eddystone/tree/master/eddystone-tlm)
   * [Eddystone-URL](https://github.com/google/eddystone/tree/master/eddystone-url)
 * [Eddystone Validator](https://github.com/google/eddystone/tree/master/tools/eddystone-validator)
-* [Eddystone GATT Configuration Service & Google Nearby API and Proximity API](* [ ★18](https://github.com/NordicSemiconductor/Android-nRF-Beacon-for-Eddystone)) (by Nordic Semiconductor)
+* [Eddystone GATT Configuration Service & Google Nearby API and Proximity API](* [ ★18 ⏳1Y](https://github.com/NordicSemiconductor/Android-nRF-Beacon-for-Eddystone)) (by Nordic Semiconductor)
 * [Web Bluetooth Eddystone Configurator](https://beaufortfrancois.github.io/sandbox/web-bluetooth/eddystone-url-config/)
 * [Eddystone Branding Guidelines](https://github.com/google/eddystone/tree/master/branding) & [Logos](https://github.com/google/eddystone/tree/master/branding/assets)
 

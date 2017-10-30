@@ -37,7 +37,7 @@ title: Awesome Rank for sindresorhus/awesome-tap
 - [tap-nyan ★102](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat.
 - [tap-min ★29](https://github.com/gummesson/tap-min) - Minimal output.
 - [tap-difflet ★40 ⏳1Y](https://github.com/namuol/tap-difflet) - Minimal output with diffing.
-- [tap-diff ★62](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
+- [tap-diff ★62 ⏳1Y](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
 - [tap-simple ★6 ⏳2Y](https://github.com/joeybaker/tap-simple) - Simple output.
 - [faucet ★474](https://github.com/substack/faucet) - Human-readable summarizer.
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).

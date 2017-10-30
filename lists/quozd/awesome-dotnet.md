@@ -483,6 +483,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Avalonia ★2862](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 * [Modern UI for WPF - MUI ★1277](https://github.com/firstfloorsoftware/mui) - Set of controls and styles to convert WPF applications into a great looking Modern UI apps.
 * [WinApi ★64](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+* [Neutronium ★159](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS, javascript and MVVM bindings such as with WPF.
 
 ## HTML and CSS
 
@@ -688,6 +689,7 @@ metadata in media files, including video, audio, and photo formats
 * [AutoMapper ★4904](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET. http://automapper.org
 * [TinyMapper ★317](https://github.com/TinyMapper/TinyMapper) - A tiny and quick object mapper for .NET.
 * [ExpressMapper ★228](https://github.com/fluentsprings/ExpressMapper) - A lightweight, lighting fast .NET mapper to map one type of object(s) to another in automated and easy way. ExpressMapper relies completely on the expression trees.
+* [AgileMapper ★73](https://github.com/agileobjects/AgileMapper) - A zero-configuration Object-Object mapper supporting .NET Standard 1.0
 
 ## Office
 

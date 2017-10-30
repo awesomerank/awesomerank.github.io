@@ -481,7 +481,7 @@ AWS Repos:
 * [cloudwatch-logs-subscription-consumer :fire::fire: ★315](https://github.com/awslabs/cloudwatch-logs-subscription-consumer) - Kinesis stream reader.
 * [ecs-cloudwatch-logs ★53 ⏳2Y](https://github.com/awslabs/ecs-cloudwatch-logs) - Assets in the blog post on using Amazon ECS and Amazon CloudWatch logs.
 * [logstash-output-cloudwatchlogs ★27 ⏳1Y](https://github.com/awslabs/logstash-output-cloudwatchlogs) - A logstash plugin that sends logs to CloudWatch.
-* [opsworks-cloudwatch-logs-cookbooks ★7 ⏳1Y](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - OpsWorks sample cookbook.
+* [opsworks-cloudwatch-logs-cookbooks ★7 ⏳2Y](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - OpsWorks sample cookbook.
 
 Community Repos:
 
@@ -783,7 +783,7 @@ AWS Repos:
 
 * [opsworks-attribute-customization ★4 ⏳3Y](https://github.com/awslabs/opsworks-attribute-customization) - Attribute customization example.
 * [opsworks-capistrano ★8 ⏳1Y](https://github.com/awslabs/opsworks-capistrano) - Capistrano with instances.
-* [opsworks-cloudwatch-logs-cookbooks ★7 ⏳1Y](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - CloudWatch sample cookbook.
+* [opsworks-cloudwatch-logs-cookbooks ★7 ⏳2Y](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - CloudWatch sample cookbook.
 * [opsworks-cookbooks :fire::fire::fire::fire: ★1004](https://github.com/aws/opsworks-cookbooks) - Chef Cookbooks.
 * [opsworks-demo-php-photo-share-app ★12 ⏳3Y](https://github.com/awslabs/opsworks-demo-php-photo-share-app) - Simple PHP photo share app.
 * [opsworks-demo-php-simple-app ★28](https://github.com/awslabs/opsworks-demo-php-simple-app) - Simple PHP app.
@@ -834,7 +834,7 @@ Community Repos:
 * [danilop/yas3fs :fire::fire: ★442](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 * [grippy/node-s3 ★96 ⏳6Y](https://github.com/grippy/node-s3) - Node.js app to manage buckets.
 * [jubos/fake-s3 :fire::fire::fire::fire::fire: ★2203](https://github.com/jubos/fake-s3) - Lightweight S3 clone that simulates most commands.
-* [kahing/goofys :fire::fire::fire: ★982](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
+* [kahing/goofys :fire::fire::fire::fire: ★982](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
 * [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (each, map, reduce, filter, join)
 * [marcel/aws-s3 :fire::fire::fire: ★796](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
 * [mardix/flask-cloudy :fire: ★170](https://github.com/mardix/flask-cloudy) - Flask extension.
@@ -939,6 +939,7 @@ Community Repos:
 * [Netflix/bless :fire::fire::fire::fire: ★1259](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
 * [Netflix/security_monkey :fire::fire::fire::fire: ★1734](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
 * [sebsto/AWSVPN :fire: ★162 ⏳1Y](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
+* [trailofbits/algo :fire::fire::fire::fire::fire: ★6256](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
 
 ### Accompanying Repos
 

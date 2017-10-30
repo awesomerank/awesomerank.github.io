@@ -98,7 +98,7 @@ A curated list of Awesome Alfred Workflows.
 - [TemporaryEmail](https://github.com/vitorgalvao/alfred-workflows/tree/master/TemporaryEmail) - Get a temporary email inbox from Teleosaurs Mail.
 
 ## Helpers
-- [Alfred-Workflow ★847](https://github.com/deanishe/alfred-workflow) - Python Library for for writing Alfred workflows.
+- [Alfred-Workflow ★847](https://github.com/deanishe/alfred-workflow) - Python Library for writing Alfred workflows.
 - [Alfy ★682](https://github.com/sindresorhus/alfy) - Node.js library to create Alfred workflows with ease.
 - [AwGo ★13](https://github.com/deanishe/awgo) - Full-featured library for Go to build lightning-fast workflows in a jiffy.
 - [Fuzzy Search ★7](https://github.com/deanishe/alfred-fuzzy) - Add fuzzy search to any Script Filter.

@@ -253,7 +253,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 * [Laravel Newsletter ★574](https://github.com/spatie/laravel-newsletter) - Send newsletters with Mailchimp
 * [Laravel Parse](https://github.com/GrahamCampbell/Laravel-Parse) - PHP Parse SDK bridge
 * [Laravel Pusher ★291](https://github.com/vinkla/laravel-pusher) - Pusher API bridge
-* [Laravel Pushwoosh ★29](https://github.com/hoymultimedia/Laravel-Pushwoosh) - Pushwoosh API bridge
+* [Laravel Pushwoosh ★29 ⏳1Y](https://github.com/hoymultimedia/Laravel-Pushwoosh) - Pushwoosh API bridge
 * [Laravel Vimeo ★168](https://github.com/vinkla/laravel-vimeo) - Vimeo API bridge
 
 

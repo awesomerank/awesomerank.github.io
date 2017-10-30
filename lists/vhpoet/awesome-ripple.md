@@ -72,7 +72,7 @@ Pull requests are more then welcome.
 
 ###### Clients / Apps
 - [ripple-client ★1274](https://github.com/ripple/ripple-client): Web client
-- [ripple-client-desktop ★61](https://github.com/ripple/ripple-client-desktop): Desktop client
+- [ripple-client-desktop ★61 ⏳1Y](https://github.com/ripple/ripple-client-desktop): Desktop client
 - [ripple-client-ios ★31 ⏳3Y](https://github.com/ripple-unmaintained/ripple-client-ios): iOS client
 - [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
 - [ripple-graph ★21 ⏳3Y](https://github.com/ripple-unmaintained/ripple-graph): Ripple graph

@@ -321,7 +321,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 * [JSONiq](http://www.jsoniq.org/) - The JSON Query Language.
 * [ObjectPath](http://objectpath.org/) - The agile query language for semi-structured data. (Python)
 * [DefiantJS](http://www.defiantjs.com/) - Lightning-fast searches using XPath expressions, and transform using XSL. (Javascript)
-* [JSONSelect ★1569](https://github.com/lloyd/JSONSelect) - CSS-like selectors. (Javascript)
+* [JSONSelect ★1569 ⏳1Y](https://github.com/lloyd/JSONSelect) - CSS-like selectors. (Javascript)
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath implementation. (Javascript/PHP)
 * [searchjs ★138](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
 * [json-rel ★7 ⏳1Y](https://github.com/slurmulon/json-where) - Transparent references in JSON.

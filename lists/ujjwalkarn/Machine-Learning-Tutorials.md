@@ -617,7 +617,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
         
         - [Beginner’s Guide to LSTM](http://deeplearning4j.org/lstm.html)
         
-        - [Implementing LSTM from scratch](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), [Python/Theano code ★303 ⏳1Y](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
+        - [Implementing LSTM from scratch](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/), [Python/Theano code ★303 ⏳2Y](https://github.com/dennybritz/rnn-tutorial-gru-lstm)
         
         - [Torch Code for character-level language models using LSTM ★6767](https://github.com/karpathy/char-rnn)
         

@@ -10,6 +10,7 @@ title: Awesome Rank for aviaryan/awesome-no-login-web-apps
 # Awesome Web Apps (that work without login)
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+[![Mentioned in Awesome](https://awesome.re/mentioned-badge.svg)](https://awesome.re)
 [![Contributors needed](https://img.shields.io/badge/contributors-needed-yellow.svg)](https://github.com/aviaryan/awesome-no-login-web-apps/blob/master/CONTRIBUTING.md)
 [![Join the chat at https://gitter.im/aviaryan/awesome-no-login-web-apps](https://badges.gitter.im/aviaryan/awesome-no-login-web-apps.svg)](https://gitter.im/aviaryan/awesome-no-login-web-apps?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -151,6 +152,8 @@ To save the world from creating user accounts and installing software applicatio
 
 * [Typeracer](http://play.typeracer.com/) - Evaluate your typing speed while racing against others.
 * [Spark Chess](https://www.sparkchess.com/) - Learn to play chess, play with users around the globe or play with AI depending on your skill level.
+* [Miniclip](https://www.miniclip.com) - Collection of a variety of free games that can be played without giving your email. Flash required.
+* [CrossCode](http://www.cross-code.com/en/start) - A retro-inspired 2D game set in the distant future. Comes with great game mechanics such as combos, puzzles, skill trees, quests, items and more.
 
 
 ### Graphics, Image and Design

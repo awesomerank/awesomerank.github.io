@@ -113,7 +113,7 @@ List of libraries and components which can be used in your application
 - [Whiteboard](https://github.com/wicketstuff/core/wiki/Whiteboard) - Provides a Whiteboard which can be integrated in any wicket application.
 - [wicket-foundation](https://github.com/wicketstuff/core/tree/master/wicket-foundation) - Integrates Wicket and [Zurb Foundation](http://foundation.zurb.com/).
 - [Wicket Rest Annotations](https://github.com/wicketstuff/core/tree/master/wicketstuff-restannotations-parent) - Provides a special resource class and a set of annotations to implement REST API/services in much the same way as we do it with Spring MVC or with the standard JAX-RS.
-- [WiQuery ★2 ⏳1Y](https://github.com/wicketstuff/wiquery) - Wicket integration with jQuery and jQuery UI.
+- [WiQuery ★2 ⏳2Y](https://github.com/wicketstuff/wiquery) - Wicket integration with jQuery and jQuery UI.
 - [WqPlot ★11 ⏳1Y](https://github.com/wicketstuff/wiquery-jqplot) - Provides WiQuery bindings for JqPlot.
 
 ## Web Frameworks

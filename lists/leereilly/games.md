@@ -81,7 +81,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 * [3D Hartwing Chess Set ★248 ⏳4Y](https://github.com/juliangarnier/3D-Hartwig-chess-set) - 3D chess game done in HTML/CSS/JS. [Play it now!](http://codepen.io/juliangarnier/full/BsIih)
 * [c4 ★66](https://github.com/kenrick95/c4) - Connect Four game, with AI, in HTML/CSS/JS. [Play it now!](https://kenrick95.github.io/c4/demo/)
-* [Desperate Gods ★272 ⏳4Y](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
+* [Desperate Gods ★272 ⏳5Y](https://github.com/David20321/FTJ) - Free online board game that was designed to be played just like a board game in real-life: no rules are enforced by the computer. [Play it now!](http://www.wolfire.com/desperate-gods)
 * [Green Mahjong ★37](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
 * [Kriegspiel ★10 ⏳3Y](https://github.com/binarymax/kriegspiel) - The game of imperfect information, the Kriegspiel chess variant. [Play it now!](http://krgspl.com/)
 * [Lichess ★3454](https://github.com/ornicar/lila) - Free chess game using HTML5 & websockets, built with Scala, Play 2.1, MongoDB and Elasticsearch. [Play it now!](http://lichess.org/)
@@ -138,7 +138,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Mode ★70 ⏳6Y](https://github.com/AdamAtomic/Mode) - Small(but sadly not that simple) demo game built on the Flixel framework. [Play it now!](http://www.adamatomic.com/mode/)
 * [Monster Wants Candy ★46 ⏳2Y](https://github.com/EnclaveGames/Monster-Wants-Candy-demo) - Simple HTML5 game created with Phaser 2.0.7. [Play it now!](http://candy-demo.enclavegames.com/)
 * [Newton Adventure ★7 ⏳3Y](https://github.com/devnewton/newton_adventure) - Play Newton, a very special hero who has the power to change gravity direction! [Play it now!](http://play.bci.im/newton_adventure/)
-* [Octocat Jump ★28 ⏳4Y](https://github.com/ogoshen/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://ogoshen.github.io/game-off-2012/)
+* [Octocat Jump ★28 ⏳5Y](https://github.com/ogoshen/game-off-2012) - GitHub Game Off 2012 Entry. [Play it now!](http://ogoshen.github.io/game-off-2012/)
 * [Onslaught Arena ★152](https://github.com/lostdecade/onslaught_arena) - Fight off hordes of classic medieval monsters in this fast paced arcade shooter! [Play it now!](http://arcade.lostdecadegames.com/onslaught_arena/)
 * [Pappu Pakia](https://github.com/mindd-it/pappu-pakia) - Addictive game where you guide little Pappu around obstacles while collecting coins, stars, and berries and avoiding enemies known as Pakias. [Play it now!](http://khele.in/pappu-pakia/)
 * [Phaser Snake ★4 ⏳2Y](https://github.com/gamedolphin/javascript_snake) - JavaScript version of the snake game, created using the Phaser Engine.
@@ -260,7 +260,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Psiral](https://github.com/petarov/game-off-2013) - JavaScript/HTML5 game, GitHub Game Off 2 winner. [Play it now!](http://psiral.herokuapp.com/)
 * [CyberPong ★1 ⏳1Y](https://github.com/dreamtocode/Cyber-Pong) - Unusual Ping Pong game, adaptable with Makey Makey Kit. [Play it now!](http://cyber-pong.bitballoon.com/)
 * [Squirts ★10 ⏳2Y](https://github.com/KrofDrakula/squirts) - Well-known indie game implemented in JavaScript. [Play it now!](http://is.gd/squirts)
-* [The Killer ★8 ⏳1Y](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
+* [The Killer ★8 ⏳2Y](https://github.com/JordanMagnuson/The-Killer) - Flash/ActionScript3-based "nongame". [Play it now!](http://www.gametrekking.com/the-games/cambodia/the-killer/play-now)
 * [Turkey Cooking Simulator ★17 ⏳2Y](https://github.com/fernjager/game-off-2013) - You have been invited to craft the centerpiece of the American thanksgiving dinner, the turkey. Woo your girlfriend / boyfriend and be judged by your future in-laws! Apply your culinary expertise to impress your family. [Play it now!](http://fernjager.github.io/game-off-2013/index.html)
 
 -------
@@ -370,7 +370,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 
 ## Programming
 
-* [CengBall ★4 ⏳1Y](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
+* [CengBall ★4 ⏳2Y](https://github.com/eckucukoglu/cengball) - Soccer programming game with 2D simulation.
 
 ## Sandbox
 

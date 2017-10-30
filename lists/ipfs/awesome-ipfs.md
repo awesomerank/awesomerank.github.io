@@ -90,7 +90,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [cachewarmer ★31](https://github.com/BrendanBenshoof/cachewarmer) - Donate ipfs gateways to cache other people's content
 * [git-remote-ipfs ★92](https://github.com/cryptix/git-remote-ipfs) - push/pull repositories from/to IPFS
 * [http2ipfs ★22](https://github.com/jbenet/http2ipfs-web) - This is a simple webtool to add URLs to an IPFS node.
-* [ipcat ★5 ⏳1Y](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
+* [ipcat ★5 ⏳2Y](https://github.com/noffle/ipcat) - :cat2: Retrieve IPFS object data and send it to stdout.
 * [ipfs-chrome-station ★43](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-chrome-extension ★57 ⏳1Y](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-companion ★112](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway

@@ -46,7 +46,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 * [vagrant-cachier](http://fgrehm.viewdocs.io/vagrant-cachier/) - share a common package (apt-get, npm, etc.) cache among similar VM instances.
 * [vagrant-host-shell ★104](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots.
 * [vagrant-ansible-local ★62 ⏳2Y](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
-* [sahara ★705 ⏳1Y](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
+* [sahara ★705 ⏳2Y](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
 * [vagrant-registration ★31](https://github.com/projectatomic/adb-vagrant-registration) - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux).
 * [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB) ★77](https://github.com/projectatomic/adb-atomic-developer-bundle).
 

@@ -941,6 +941,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
     * [restless ★638](https://github.com/toastdriven/restless) - Framework agnostic REST framework based on lessons learned from Tastypie.
     * [ripozo ★178 ⏳1Y](https://github.com/vertical-knowledge/ripozo) - Quickly creating REST/HATEOAS/Hypermedia APIs.
     * [sandman ★2282 ⏳1Y](https://github.com/jeffknupp/sandman) - Automated REST APIs for existing database-driven systems.
+    * [apistar ★2585](https://github.com/encode/apistar) - A smart Web API framework, designed for Python 3.
 
 ## RPC Servers
 

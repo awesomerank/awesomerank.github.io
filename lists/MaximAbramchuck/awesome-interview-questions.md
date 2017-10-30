@@ -155,6 +155,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [Development hiring managers and potential interviewees may find there sample CSS proficiency interview Q&As and code snippets useful](http://www.techrepublic.com/blog/software-engineer/css-interview-questions-and-answers/)
 * [Interview Questions and Exercises About CSS](https://css-tricks.com/interview-questions-css/)
 * [Top 50 CSS(Cascading Style Sheet) Interview Questions covering the most of tricky CSS moments](http://career.guru99.com/top-50-csscascading-style-sheet-interview-questions/)
+* [CSS Questions and Answers](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md#css-questions)
 
 ### Django
 
@@ -162,6 +163,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [Some Django basic interview questions to establish the basic level of the candidates](http://www.ilian.io/django-interview-questions/)
 * [Some Django/Python interview questions from Jaypal personal blog](http://blog.jayapal.in/2010/11/django-interview-question.html)
 * [Top 10 Django interview questions with their answers that you can encounter during the job interview for web developer](http://www.goodinterviewquestions.net/top-10-django-interview-questions-and-answers/)
+* [Django interview questions from f2finterview.com](http://www.f2finterview.com/web/Django/)
 * [Top 16 Django Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-16-django-interview-questions/)
 
 ### EmberJS
@@ -188,6 +190,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [HTML interview questions and answers for freshers and experienced candidates Also find HTML online practice tests to fight written tests and certification exams on HTML](http://www.careerride.com/Interview-Questions-HTML.aspx)
 * [Top 50 HTML Interview Questions for both freshers and experienced developers](http://career.guru99.com/top-50-html-interview-questions/)
 * [Common HTML interview questions for freshers](http://www.javatpoint.com/html-interview-questions)
+* [HTML Questions and Answers](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md#html-questions)
 
 ### Ionic
 
@@ -233,7 +236,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [5 More JavaScript Interview Exercises](http://www.sitepoint.com/5-javascript-interview-exercises/)
 * [5 Typical JavaScript Interview Exercises](http://www.sitepoint.com/5-typical-javascript-interview-exercises/)
 * [Development hiring managers and potential interviewees may find these sample JavaScript proficiency interview Q&As and code snippets useful](http://www.techrepublic.com/blog/software-engineer/javascript-interview-questions-and-answers/)
-* [JavaScript 101 interview Question](https://github.com/nishant8BITS/101-JavaScript-Interview-Question)
+* [123 Essential JavaScript Interview Question ★335](https://github.com/nishant8BITS/123-Essential-JavaScript-Interview-Question)
 * [JavaScript Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of JavaScript](http://www.tutorialspoint.com/javascript/javascript_interview_questions.htm)
 * [JS: Basics and Tricky Questions](http://www.thatjsdude.com/interview/js2.html)
 * [JS: Interview Algorithm](http://thatjsdude.com/interview/js1.html)
@@ -243,6 +246,8 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [Top 85 JavaScript Interview Questions](http://career.guru99.com/top-85-javascript-interview-questions/)
 * [Interview Cake JavaScript Interview Questions](https://www.interviewcake.com/javascript-interview-questions)
 * [The Best Frontend JavaScript Interview Questions (written by a Frontend Engineer)](https://performancejs.com/post/hde6d32/The-Best-Frontend-JavaScript-Interview-Questions-(written-by-a-Frontend-Engineer))
+* [JavaScript Questions and Answers](https://github.com/yangshun/tech-interview-handbook/blob/master/front-end/interview-questions.md#js-questions)
+* [10 JavaScript Concepts You Need to Know for Interviews](https://dev.to/arnavaggarwal/10-javascript-concepts-you-need-to-know-for-interviews)
 
 ### KnockoutJS
 
@@ -265,6 +270,7 @@ Please read the [contribution guidelines](https://github.com/MaximAbramchuck/awe
 * [Node.JS Interview Questions have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of Node.JS](http://www.tutorialspoint.com/nodejs/nodejs_interview_questions.htm)
 * [There are two sides of the table: you either want to hire Nodejs developers or you want to get hired as a Nodejs developer This list helps you navigate a bit in this space, giving you some questions to ask, and a list of questions you should know the answer to](https://blog.risingstack.com/node-js-interview-questions/)
 * [Top 25 Nodejs Interview Questions & Answers from Career Guru](http://career.guru99.com/top-25-interview-questions-on-node-js/)
+* [Top 30 Node.Js Interview Questions With Answers](http://www.techbeamers.com/top-30-node-js-interview-questions-answers/)
 
 ### Objective-C
 

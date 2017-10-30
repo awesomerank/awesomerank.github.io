@@ -892,7 +892,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [StreamingKit ★1651](https://github.com/tumtumtum/StreamingKit) - A fast and extensible gapless AudioPlayer/AudioStreamer for macOS and iOS.
 * [Jukebox ★409](https://github.com/teodorpatras/Jukebox) - Player for streaming local and remote audio files. Written in Swift. :large_orange_diamond:
 * [LFLiveKit ★2701](https://github.com/LaiFengiOS/LFLiveKit) - H264 and AAC Hard coding，support GPUImage Beauty， rtmp transmission，weak network lost frame，Dynamic switching rate
-* [Airstream ★322](https://github.com/qasim/Airstream) - A framework for streaming audio between Apple devices using AirPlay.
+* [Airstream ★322 ⏳1Y](https://github.com/qasim/Airstream) - A framework for streaming audio between Apple devices using AirPlay.
 * [OTAcceleratorCore ★18](https://github.com/opentok/accelerator-core-ios) - A painless way to integrate audio/video(screen sharing) to any iOS applications via Tokbox.
 
 #### Video
@@ -1768,7 +1768,7 @@ Most of these are paid services, some have free tiers.
 * [ElasticTransition-ObjC ★358 ⏳1Y](https://github.com/taglia3/ElasticTransition-ObjC) - A UIKit custom transition that simulates an elastic drag.This is the Objective-C Version of Elastic Transition written in Swift by lkzhao
 * [ZFDragableModalTransition ★2298](https://github.com/zoonooz/ZFDragableModalTransition) - Custom animation transition for present modal view controller
 * [ImageOpenTransition ★785](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift. :large_orange_diamond:
-* [ZOZolaZoomTransition ★872](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition) - Zoom transition that animates the entire view heirarchy. Used extensively in the Zola iOS application.
+* [ZOZolaZoomTransition ★872 ⏳1Y](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition) - Zoom transition that animates the entire view heirarchy. Used extensively in the Zola iOS application.
 * [JTMaterialTransition ★882](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design.
 * [AnimatedTransitionGallery ★2220](https://github.com/shu223/AnimatedTransitionGallery) - Collection of iOS 7 custom animated transitions using UIViewControllerAnimatedTransitioning protocol.
 * [TransitionTreasury ★1896](https://github.com/DianQK/TransitionTreasury) - Easier way to push your viewController. :large_orange_diamond:
@@ -2020,7 +2020,7 @@ Most of these are paid services, some have free tiers.
 * [ActionSheetPicker-3.0 ★2793](https://github.com/skywinder/ActionSheetPicker-3.0) - Quickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.
 * [PickerView ★274](https://github.com/filipealva/PickerView) - A customizable alternative to UIPickerView in Swift. :large_orange_diamond:
 * [DatePickerDialog ★297](https://github.com/squimer/DatePickerDialog-iOS-Swift) - Date picker dialog for iOS :large_orange_diamond:
-* [CZPicker ★476](https://github.com/chenzeyu/CZPicker) - A picker view shown as a popup for iOS.
+* [CZPicker ★476 ⏳1Y](https://github.com/chenzeyu/CZPicker) - A picker view shown as a popup for iOS.
 * [AIDatePickerController ★83](https://github.com/alikaragoz/AIDatePickerController) - :date: UIDatePicker modally presented with iOS 7 custom transitions.
 * [CountryPicker ★56](https://github.com/4taras4/CountryCode) - :date: UIPickerView with Country names flags and phoneCodes 🔶
 * [McPicker ★34](https://github.com/kmcgill88/McPicker-iOS) - A customizable, closure driven UIPickerView drop-in solution with animations that is rotation ready. :large_orange_diamond:
@@ -2045,7 +2045,7 @@ Most of these are paid services, some have free tiers.
 * [PullToBounce ★1643](https://github.com/entotsu/PullToBounce) - Animated "Pull To Refresh" Library for UIScrollView. :large_orange_diamond:
 * [SVPullToRefresh ★4809](https://github.com/samvermette/SVPullToRefresh) - Give pull-to-refresh & infinite scrolling to any UIScrollView with 1 line of code. http://samvermette.com/314
 * [UzysAnimatedGifPullToRefresh ★1403 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - Add PullToRefresh using animated GIF to any scrollView with just simple code
-* [PullToRefreshCoreText ★314](https://github.com/cemolcay/PullToRefreshCoreText) - PullToRefresh extension for all UIScrollView type classes with animated text drawing style
+* [PullToRefreshCoreText ★314 ⏳1Y](https://github.com/cemolcay/PullToRefreshCoreText) - PullToRefresh extension for all UIScrollView type classes with animated text drawing style
 * [BOZPongRefreshControl ★897 ⏳2Y](https://github.com/boztalay/BOZPongRefreshControl) - A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app
 * [CBStoreHouseRefreshControl ★3950](https://github.com/coolbeet/CBStoreHouseRefreshControl) - Fully customizable pull-to-refresh control inspired by Storehouse iOS app
 * [SurfingRefreshControl ★49 ⏳1Y](https://github.com/peiweichen/SurfingRefreshControl) - Inspired by CBStoreHouseRefreshControl.Customizable pull-to-refresh control,written in pure Swift :large_orange_diamond:

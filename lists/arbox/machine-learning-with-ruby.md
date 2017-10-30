@@ -319,7 +319,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 -  [Kirk, Matthew](https://twitter.com/mjkirk).
    _Thoughtful Machine Learning: A Test-Driven Approach_. O'Reilly, 2014.
    <sup>[[Amazon](https://www.amazon.com/Thoughtful-Machine-Learning-Test-Driven-Approach/dp/1449374069) |
-         [code ★112 ⏳2Y](https://github.com/thoughtfulml/examples)]</sup>
+         [code ★112 ⏳3Y](https://github.com/thoughtfulml/examples)]</sup>
 - [Practical Artificial Intelligence](https://www.practicalai.io/) -
   Blog about Artificial Intelligence and Machine Learning with tutorials and code samples in Ruby.
 

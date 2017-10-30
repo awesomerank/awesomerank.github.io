@@ -22,7 +22,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Kent C. Dodds ★161](https://github.com/kentcdodds/ama) - JavaScript dev, open source contributor, community builder, and speaker.
 - [Simon Boudrias ★2 ⏳2Y](https://github.com/SBoudrias/ama) - Yeoman, Inquirer.js and a bunch of other node modules. Software engineer at Yelp.
 - [Reza Akhavan ★3 ⏳2Y](https://github.com/jedireza/ama) - Engineer at Mozilla. Co-organizer at NodeSchoolSF. Creator of Drywall, Frame, Aqua.
-- [Wes Bos ★172](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
+- [Wes Bos ★172 ⏳1Y](https://github.com/wesbos/ama) - Full stack developer, independent author, speaker, teacher and JavaScripter.
 - [Anselm Hannemann ★7 ⏳2Y](https://github.com/anselmh/AMA) - Freelance front-end developer, author of WDRL, co-organizer of Nightlybuild.io.
 - [Blain Smith ★2 ⏳2Y](https://github.com/blainsmith/ama) - Partner/Engineer at MadGlory and Odd Networks. Rebel Geek.
 - [Lewis Cowper ★4 ⏳2Y](https://github.com/lewiscowper/ama) - Former forklift driver. Now web developer.
@@ -91,8 +91,8 @@ title: Awesome Rank for sindresorhus/amas
 - [Kahlil Lechelt ★0](https://github.com/kahlil/ama) - JavaScript developer, organizes KarlsruheJS, co-host of the [Descriptive Podcast](http://descriptive.audio) and the [Reactive Podcast](http://reactive.audio), vocalist.
 - [Vadim Demedes](https://github.com/vdemedes/ama) - Node.js addict.
 - [Jan-Hendrik Heuing](https://github.com/jan-hendrik/ama) - Webdeveloper, Scrum Professional, Agile Coach. Blogging about [Agile and Scrum](https://heuing.io).
-- [Raymond Clanan ★0 ⏳1Y](https://github.com/rclanan/ama) - Freelance full stack developer at [Utopian Concept LLC](http://utopianconcept.com/).
-- [MK Yuan ★2 ⏳1Y](https://github.com/fengmk2/ama) - Node.js developer at [Alipay](https://www.alipay.com).
+- [Raymond Clanan ★0 ⏳2Y](https://github.com/rclanan/ama) - Freelance full stack developer at [Utopian Concept LLC](http://utopianconcept.com/).
+- [MK Yuan ★2 ⏳2Y](https://github.com/fengmk2/ama) - Node.js developer at [Alipay](https://www.alipay.com).
 - [Hong Liu ★0 ⏳2Y](https://github.com/honglio/ama) - Freelance full stack web developer and founder of [PresentBook](http://www.niukj.com).
 - [Arnaud Benard ★0 ⏳2Y](https://github.com/arnaudbenard/ama) - Freelance JS developer and digital nomad.
 - [Anthony Ramella ★1 ⏳1Y](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.

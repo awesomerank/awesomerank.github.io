@@ -112,9 +112,10 @@ _Source:_ [What is Docker](https://www.docker.com/what-docker)
 * [Play With Moby](http://play-with-moby.com/) - PWM is a web based Moby playground which allows you to try different components of the platform in seconds. It gives you the experience of having a free Alpine Linux Virtual Machine in the cloud where you can build and run Moby projects and even create clusters to experiment.
 
 # Where to start? (Windows)
-* [Windows Containers Quick Start](https://docs.microsoft.com/en-us/virtualization/windowscontainers/quick-start/) Overview of Windows containers, drilling down to Quick Starts for Windows 10 and Windows Server 2016
+* [Windows Containers Quick Start](https://docs.microsoft.com/en-us/virtualization/windowscontainers/about/index) Overview of Windows containers, drilling down to Quick Starts for Windows 10 and Windows Server 2016
 * [Build And Run Your First Docker Windows Server Container](https://blog.docker.com/2016/09/build-your-first-docker-windows-server-container/) Walkthrough installing Docker on Windows 10, building a Docker image and running a Windows container
-* Video: [Windows Containers and Docker: The 101](https://www.youtube.com/watch?v=N7SG2wEyQtM) A 20-minute overview, using Docker to run  PowerShell, ASP.NET Core and ASP.NET apps
+* [Docker on Windows behind a firewall](https://toedter.com/2015/05/11/docker-on-windows-behind-a-firewall/) by [@kaitoedter](https://twitter.com/kaitoedter)
+* [Windows Containers and Docker: The 101](https://www.youtube.com/watch?v=N7SG2wEyQtM) :movie_camera: - A 20-minute overview, using Docker to run  PowerShell, ASP.NET Core and ASP.NET apps
 * [A Comparative Study of Docker Engine on Windows Server vs Linux Platform](http://collabnix.com/a-comparative-study-of-docker-engine-on-windows-server-vs-linux-platform/) Comparing the feature sets and implementations of Docker on Windows and Linux
 * [Docker with Microsoft SQL 2016 + ASP.NET](https://blog.alexellis.io/docker-does-sql2016-aspnet/) Demonstration running ASP.NET and SQL Server workloads in Docker
 * [Running a Legacy ASP.NET App in a Windows Container](https://blog.sixeyed.com/dockerizing-nerd-dinner-part-1-running-a-legacy-asp-net-app-in-a-windows-container/) Steps for Dockerizing a legacy ASP.NET app and runnning as a Windows container
@@ -169,6 +170,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [depcon ★7 ⏳1Y](https://github.com/gondor/depcon) - Depcon is written in Go and allows you to easily deploy Docker containers to Apache Mesos/Marathon, Amazon ECS and Kubernetes.  By [@gonodr][gondor]
 * [deploy ★43](https://github.com/ttiny/deploy) :skull: - Git and Docker deployment tool. A middle ground between simple Docker composition tools and full blown cluster orchestration by [@ttiny](https://github.com/ttiny)
 * [dockit ★105 ⏳3Y](https://github.com/humblec/dockit) :skull: - Do docker actions and Deploy gluster containers! By [@humblec](https://github.com/humblec)
+* [Grafeas ★322](https://github.com/Grafeas/Grafeas) - A common API for metadata about containers, from image and build details to security vulnerabilities. By [Grafeas](https://github.com/Grafeas)
 * [Longshoreman ★426 ⏳2Y](https://github.com/longshoreman/longshoreman) :skull: - Longshoreman automates application deployment using Docker. Just create a Docker repository (or use a service), configure the cluster using AWS or Digital Ocean (or whatever you like) and deploy applications using a Heroku-like CLI tool. By [longshoreman](https://github.com/longshoreman)
 
 ### Monitoring
@@ -250,12 +252,14 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 ### Security
 
+* [Anchor Engine ★254](https://github.com/anchore/anchore) - Analyze images for CVE vulnerabilities and against custom security policies by [@Anchor][anchore]
+* [Anchor Cloud](https://anchore.com/cloud/) :heavy_dollar_sign: - Hosted version of Anchor Engine by [@Anchor][anchore]
 * [Aqua Security](https://www.aquasec.com) :heavy_dollar_sign: - Securing container-based applications from Dev to Production on any platform
 * [bane ★448](https://github.com/jessfraz/bane) - AppArmor profile generator for Docker containers by [@jessfraz][jessfraz]
 * [CIS Docker Benchmark ★60](https://github.com/dev-sec/cis-docker-benchmark) - This [InSpec][inspec] compliance profile implement the CIS Docker 1.12.0 Benchmark in an automated way to provide security best-practice tests around Docker daemon and containers in a production environment. By [@dev-sec](https://github.com/dev-sec)
 * [Clair ★2671](https://github.com/coreos/clair) - Clair is an open source project for the static analysis of vulnerabilities in appc and docker containers. By [@coreos][CoreOS]
 * [docker-bench-security ★2713](https://github.com/docker/docker-bench-security) - script that checks for dozens of common best-practices around deploying Docker containers in production. By [@docker][docker]
-* [notary ★936](https://github.com/docker/notary) - a server and a client for running and interacting with trusted collections. By [@docker][docker]
+* [notary ★994](https://github.com/theupdateframework/notary) - a server and a client for running and interacting with trusted collections. By [@TUF](https://github.com/theupdateframework)
 * [oscap-docker ★229](https://github.com/OpenSCAP/openscap) - OpenSCAP provides oscap-docker tool which is used to scan Docker containers and images. By RedHat
 * [Twistlock](https://www.twistlock.com/) :heavy_dollar_sign: - Twistlock Security Suite detects vulnerabilities, hardens container images, and enforces security policies across the lifecycle of applications.
 
@@ -278,7 +282,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [Local Persist ★262](https://github.com/CWSpear/local-persist) Specify a mountpoint for your local volumes (created via `docker volume create`) so that files will always persist and so you can mount to different directories in different containers.
 * [Minio ★22](https://github.com/jelastic-jps/minio) - S3 compatible object storage server in Docker containers
 * [portworx](https://portworx.com) :heavy_dollar_sign: - Decentralized storage solution for persistent, shared and replicated volumes.
-* [REX-Ray ★867](https://github.com/codedellemc/rexray) Vendor agnostic storage orchestration engine to provide persistent storage for Docker containers as well as Mesos frameworks and tasks.
+* [REX-Ray ★886](https://github.com/thecodeteam/rexray) Vendor agnostic storage orchestration engine to provide persistent storage for Docker containers as well as Mesos frameworks and tasks. By[@Dell](https://github.com/thecodeteam)
 * [quobyte](https://www.quobyte.com/) :heavy_dollar_sign: - fully fault-tolerant distributed file system with a docker volume driver
 
 ### User Interface
@@ -287,6 +291,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 * [DockStation ★116](https://github.com/DockStation/dockstation) - A developer centric UI to configure, monitor, and manage services and containers [@dock_station](https://twitter.com/dock_station)
 * [Dockeron ★124](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop. [@fluency03](https://github.com/fluency03)
+* [Lifeboat ★7](https://github.com/jplhomer/lifeboat) - An easy way to launch Docker projects with a graphical interface on your Mac. [@jplhomer](https://github.com/jplhomer)
 
 #### Terminal
 
@@ -360,16 +365,18 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 ### Dockerfile
 
 * [chaperone-docker ★40 ⏳1Y](https://github.com/garywiz/chaperone-docker) - A set of images using the Chaperone process manager, including a lean Alpine image, LAMP, LEMP, and bare-bones base kits.
-* [Collection of Dockerfiles ★295](https://github.com/crosbymichael/Dockerfiles) by [@crosbymichael][crosbymichael]
-* [Collection of Dockerfiles 2 ★31](https://github.com/pandrew/dockerfiles) by [@pandrew][pandrew]
-* [Collection of Dockerfiles 3 ★559](https://github.com/vimagick/dockerfiles) by [@vimagick][vimagick]
-* [Collection of Dockerfiles 4 ★19](https://github.com/ondrejmo/Dockerfiles) by [@ondrejmo][ondrejmo]
-* [Collection of Dockerfiles 5 ★151](https://github.com/arun-gupta/docker-images) by [@arun-gupta][arun-gupta]
-* [Docker Compose Example ★39](https://github.com/llitfkitfk/docker-compose-demo) by [@llitfkitfk](https://github.com/llitfkitfk)
 * [Dockerfile Project](http://dockerfile.github.io/) : Trusted Automated Docker Builds. Dockerfile Project maintains a central repository of Dockerfile for various popular open source software services runnable on a Docker container.
-* [Dockerfile Example ★389 ⏳1Y](https://github.com/komljen/dockerfile-examples) by [@komljen](https://github.com/komljen)
-* [Dockerfile Example 2 ★565](https://github.com/kstaken/dockerfile-examples) :skull: by [@kstaken](https://github.com/kstaken)
+* [Dockerfile Generator](http://jrruethe.github.io/blog/2015/09/20/dockerfile-generator/)
 * [Vektorcloud](https://github.com/vektorcloud) - A collection of minimal, Alpine-based Docker images
+
+Examples by: [@crosbymichael ★295](https://github.com/crosbymichael/Dockerfiles)
+[@pandrew ★31](https://github.com/pandrew/dockerfiles)
+[@vimagick ★559](https://github.com/vimagick/dockerfiles)
+[@ondrejmo ★19](https://github.com/ondrejmo/Dockerfiles)
+[@arun-gupta ★151](https://github.com/arun-gupta/docker-images)
+[@llitfkitfk ★39](https://github.com/llitfkitfk/docker-compose-demo)
+[@komljen ★389 ⏳1Y](https://github.com/komljen/dockerfile-examples)
+[@kstaken ★565](https://github.com/kstaken/dockerfile-examples)
 
 ### Linter
 
@@ -444,6 +451,7 @@ Services to securely store your Docker images.
 * [Devstep ★201 ⏳1Y](https://github.com/fgrehm/devstep) :skull: - Development environments powered by Docker and buildpacks by [@fgrehm][fgrehm]
 * [Dinghy ★1627](https://github.com/codekitchen/dinghy) - An alternative way to use Docker on Mac OS X using Docker Machine with virtualbox, vmware, xhyve or parallels
 * [DLite ★2394](https://github.com/nlf/dlite) - Simplest way to use Docker on OSX, no VM needed. By [@nlf](https://github.com/nlf)
+* [Docker-Arch ★17](https://github.com/ph3nol/docker-arch) - Generate Web/CLI projects Dockerized development environments, from 1 simple YAML file. By [@Ph3nol](https://github.com/ph3nol)
 * [docker-vm ★33 ⏳1Y](https://github.com/shyiko/docker-vm) - Simple and transparent alternative to boot2docker (backed by Vagrant) by [@shyiko](https://github.com/shyiko)
 * [Docker osx dev ★1389](https://github.com/brikis98/docker-osx-dev) - A productive development environment with Docker on OS X by [@brikis98](https://github.com/brikis98)
 * [Docker-sync](http://docker-sync.io/) - Drastically improves performance ([50-70x](https://github.com/EugenMayer/docker-sync/wiki/4.-Performance)) when using Docker for development on Mac OS X/Windows and Linux while sharing code to the container. By [@EugenMayer](https://github.com/EugenMayer)
@@ -555,11 +563,10 @@ Services to securely store your Docker images.
 * [Blog](https://blog.jessfraz.com/) of [@jessfraz][jessfraz]
 * [Container solutions](http://container-solutions.com/blog/)
 * [Container42](http://container42.com/)
+* [Cloud Native Landscape ★1389](https://github.com/cncf/landscape)
 * [Docker Cheat Sheet](http://docker.jens-piegsa.com) by [@JensPiegsa][JensPiegsa] *(updated for Docker 1.13)*
 * [Docker Cheat Sheet ★1983](https://github.com/eon01/DockerCheatSheet) by [@eon01](https://github.com/eon01)
 * [Docker Cheat Sheet][docker-cheat-sheet] by [@wsargent][wsargent] __MUST SEE__
-* [Docker Ecosystem](http://comp.photo777.org/wp-content/uploads/2015/09/Docker-ecosystem-8.5.1.pdf) (PDF) __MUST SEE__    find it on [blog](http://comp.photo777.org/docker-ecosystem/) by Bryzgalov Peter.
-* [Docker Ecosystem](https://www.mindmeister.com/389671722/docker-ecosystem) (Mind Map) __MUST SEE__
 * [Docker Kubernetes Lab Handbook ★45](https://github.com/xiaopeng163/docker-k8s-lab)
 * [Docker Printable Refcard][docker-quick-ref] by [@dimonomid][dimonomid]
 * [Docker vs. VMs? Combining Both for Cloud Portability Nirvana](https://www.rightscale.com/blog/cloud-management-best-practices/docker-vs-vms-combining-both-cloud-portability-nirvana)
@@ -587,11 +594,9 @@ Services to securely store your Docker images.
 * [Container Best Practices](http://docs.projectatomic.io/container-best-practices/) - Red Hat's Project Atomic created a Container Best Practices guide which applies to everything and is updated regurlary.
 * [Dealing with linked containers dependency in docker-compose](http://brunorocha.org/python/dealing-with-linked-containers-dependency-in-docker-compose.html) by [@rochacbruno](https://github.com/rochacbruno)
 * [Docker CIFS – How to Mount CIFS as a Docker Volume](https://backdrift.org/docker-cifs-howto-mount-cifs-volume-docker-container)
-* [Docker on Windows behind a firewall](https://toedter.com/2015/05/11/docker-on-windows-behind-a-firewall/) by [@kaitoedter](https://twitter.com/kaitoedter)
 * [Docker Tips](http://www.mervine.net/notes/docker-tips) by [@jmervine](https://github.com/jmervine)
-* [Dockerfile Generator](http://jrruethe.github.io/blog/2015/09/20/dockerfile-generator/) (ruby script)
+* [Don't Repeat Yourself with Anchors, Aliases and Extensions in Docker Compose Files](https://medium.com/@kinghuang/docker-compose-anchors-aliases-extensions-a1e4105d70bd) by [@King Chung Huang](https://github.com/kinghuang)
 * [GUI Apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/) by [@fgrehm][fgrehm]
-* [Kubernetes Cheatsheet](http://k8s.info/cs.html) - A great resource for managing your Kubernetes installation
 * [Migration from VMs to Containers](https://blog.jelastic.com/2016/10/11/migration-from-vms-to-containers/) - Decomposition of legacy Java EE applications using containers
 * [Nginx Proxy for Docker](https://blog.danivovich.com/2015/07/09/nginx-proxy-for-docker-containers/) (written 9 JUL 2015)
 * [Production Meteor and Node Using Docker, Part I](https://projectricochet.com/blog/production-meteor-and-node-using-docker-part-i) by [@projectricochet](https://github.com/projectricochet)
@@ -660,6 +665,7 @@ Services to securely store your Docker images.
 
 [ahmetalpbalkan]: https://github.com/ahmetalpbalkan
 [alpine]: https://github.com/gliderlabs/docker-alpine
+[anchore]: https://github.com/anchore
 [arun-gupta]: https://github.com/arun-gupta
 [blockbridge]: https://github.com/blockbridge
 [brooklyn]: http://brooklyn.apache.org/

@@ -318,7 +318,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### API
 *Quick libs to get access to third party API services* [back to top](#readme) 
 
-* [Federal Data SDK ★63](https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK) - Eases access to multiple federal government OpenGov APIs.
+* [Federal Data SDK ★63 ⏳1Y](https://github.com/USDepartmentofLabor/Swift-Federal-Data-SDK) - Eases access to multiple federal government OpenGov APIs.
 * [GithubPilot ★48 ⏳1Y](https://github.com/jindulys/GithubPilot) - Github API V3 wrapper.
 * [GooglePlacesAutocomplete ★242](https://github.com/watsonbox/ios_google_places_autocomplete) - Simple Google Places address entry for iOS.
 * [PXGoogleDirections ★188](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper.
@@ -1089,7 +1089,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Kakapo ★729](https://github.com/devlucky/Kakapo) - Dynamically Mock server behaviors and responses. 
 * [Mockingjay ★881](https://github.com/kylef/Mockingjay) - An elegant library for stubbing HTTP requests with ease.
 * [Mockit ★59](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework, inspired by the famous Mockito for Java.
-* [SwiftMock ★218](https://github.com/mflint/SwiftMock) - A mocking framework.
+* [SwiftMock ★218 ⏳1Y](https://github.com/mflint/SwiftMock) - A mocking framework.
 
 ### Text
 *A collection of text projects.* [back to top](#readme) 

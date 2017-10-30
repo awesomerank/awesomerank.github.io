@@ -350,7 +350,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Validators ★3 ⏳3Y](https://github.com/renatoneto/phalcon-validators) - Extra validators for Phalcon PHP Framework
 * [phalswag ★2 ⏳1Y](https://github.com/tomi20v/phalswag) - Validate request input against swagger config in Phalcon PHP Framework
 * [PHP Request Validator ★21 ⏳1Y](https://github.com/progsmile/request-validator) - Easy PHP validation with the Phalcon support
-* [zvps-phalcon-validators ★2](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface
+* [zvps-phalcon-validators ★2 ⏳1Y](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface
 
 
 ## Web Tools

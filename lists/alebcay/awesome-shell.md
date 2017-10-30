@@ -55,6 +55,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Search, bookmarks, multiplexing, and other tools that make your terminal experience more productive.*
 
+* [AdvancedNewFile ★1](https://github.com/tanrax/terminal-AdvancedNewFile) - Fast creation of files and directories in a recursive way. Inspired by the Vim plugin.
 * [ag ★13481](https://github.com/ggreer/the_silver_searcher) - Super fast string search through a directory hierarchy
 * [aliases ★94](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for bash
 * [aliasme ★32](https://github.com/Jintin/aliasme) - alias helper to change directory quickly
@@ -121,7 +122,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [bash-full-of-colors ★20 ⏳1Y](https://github.com/slomkowski/bash-full-of-colors) - Powerful prompt with screen, tmux, git support and many more
 * [bash-git-prompt ★3400](https://github.com/magicmonty/bash-git-prompt) - An informative and fancy Bash prompt for Git users
 * [bash-powerline ★495](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script
-* [bashstrap ★1454](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
+* [bashstrap ★1454 ⏳1Y](https://github.com/barryclark/bashstrap) - A quick way to spruce up OSX terminal
 * [bullet-train-oh-my-zsh-theme ★1507](https://github.com/caiogondim/bullet-train.zsh) - :bullettrain_side: An oh-my-zsh shell theme based on the Powerline Vim plugin
 * [emojify ★912](https://github.com/mrowa44/emojify) Emoji on the command line :scream:
 * [flatui-terminal-theme](https://dribbble.com/shots/1021755-Flat-UI-Terminal-Theme) - Nicer colors for terminal
@@ -206,7 +207,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [image-scraper ★383](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
 * [imgp ★262](https://github.com/jarun/imgp) - Blazing fast batch image resizer and rotator
 * [jq ★9848](https://github.com/stedolan/jq) - Sed for json data. You can use it to slice and filter and map and transform structured data
-* [mplayer](http://www.mplayerhq.hu/design7/news.html) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
+* [mpv](https://mpv.io/) - Lets you play most audio and video formats (using ASCII characters) in the shell as well as in a GUI.
 * [nehm ★26](https://github.com/bogem/nehm) - Console tool, which downloads, sets IDv3 tags and adds to your iTunes (if you use it) your SoundCloud likes in convenient way
 * [PiCAST ★1392](https://github.com/lanceseidman/PiCAST) - PiCAST turns your $35 Raspberry Pi in to a Chromecast like Device
 * [sejda ★153](https://github.com/torakiki/sejda) - Command line manipulation of PDF documents (split, merge, rotate, convert to jpg, extract text, etc)
@@ -298,6 +299,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect
 * [sub ★1385](https://github.com/basecamp/sub) - A delicious way to organize programs
 * [ts ★34 ⏳1Y](https://github.com/thinkerbot/ts) - A shell test script
+* [urchin ★145](https://github.com/tlevine/urchin) - An idiomatic shell testing framework that uses only shell commands
 * [shunit2 ★331](https://github.com/kward/shunit2) - A unit test framework for Bash scripts with a flavour of JUnit/PyUnit.
 * [rebash ★25](https://github.com/jandob/rebash) - Scripting library/framework. Features: imports, exceptions, doc-tests ...
 * [zunit ★31](https://github.com/zunit-zsh/zunit) - A powerful unit testing framework for ZSH
@@ -328,7 +330,7 @@ Other amazingly awesome lists can be found in [awesome-awesome](https://github.c
 * [terminals-are-sexy ★5354](https://github.com/k4m4/terminals-are-sexy)
 
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
-[awesome-fish]: https://github.com/jbucaran/awesome-fish
+[awesome-fish]: https://github.com/JorgeBucaran/awesome-fish
 [awesome-link]: https://github.com/sindresorhus/awesome
 [awesome-zsh]: https://github.com/unixorn/awesome-zsh-plugins
 ---

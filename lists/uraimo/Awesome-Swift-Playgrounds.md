@@ -66,7 +66,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 *Some interesting playgrounds to learn Swift*
 
 * [The Swift Programming Language Playgrounds ★142](https://github.com/danielpi/Swift-Playgrounds) - 40+ playgrounds, one for each chapter of Apple's Swift book. 🌟
-* [Swift Hack Pack ★8](https://github.com/GuildSA/swift-hack-pack) - Collection of playgrounds that teaches Swift.
+* [Swift Hack Pack ★8 ⏳1Y](https://github.com/GuildSA/swift-hack-pack) - Collection of playgrounds that teaches Swift.
 * [The Swift Summary Book ★1638](https://github.com/jakarmy/swift-summary) - A summary of Apple's Swift language. 🌟
 * [Swifter Tips ★86 ⏳1Y](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language.
 * [About Swift ★23](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language.
@@ -188,7 +188,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [WWDC16 Typography ★5](https://github.com/tototti/wwdc16_typography_playground) 🇯🇵 - Draw a logo or any text with the WWDC16 ASCII texture.  
 * [Animated GIF Playground ★1](https://github.com/danielrhammond/GIF-Playground) - Swift playground for generating animated GIFs.
 * [RPClarity ★38 ⏳2Y](https://github.com/RobotsAndPencils/RPClarity) - Shows a technique for blurring an image behind the characters behind one or more UILabels. ⏳
-* [Swift Clock ★23 ⏳2Y](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground. ⏳
+* [Swift Clock ★23 ⏳3Y](https://github.com/nickoneill/swiftclock) - An animated clock in a swift playground. ⏳
 * [WatchKit Asset Playground ★4 ⏳2Y](https://github.com/cwimberger/WatchKitAssetPlayground) - A swift playground for creating awesome animations for your WatchKit Apps. ⏳
 * [Swift 2.0 Protocol Extension Example ★41 ⏳1Y](https://github.com/jhurray/Swift2-Protocol-Extension-Example) - Showing how to use Swift2 protocol extensions to render errors in UIViews and UIViewControllers without subclassing or creating classes. ⏳
 * [Tinting ★0 ⏳1Y](https://github.com/Jesse-calkin/tinting) - A small playground to demonstrate image tinting in UIKit. ⏳

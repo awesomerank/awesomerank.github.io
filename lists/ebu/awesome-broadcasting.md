@@ -103,7 +103,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [GPAC](http://gpac.wp.mines-telecom.fr/home/) - Multimedia player, packager and tools.
 * [IDJC](http://idjc.sourceforge.net/) - A GTK+ Shoutcast/Icecast client with two main media players.
 * [Kodi ★6328](https://github.com/xbmc/xbmc) - A software media player and entertainment hub for digital media.
-* [Media4DPlayer ★4](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
+* [Media4DPlayer ★4 ⏳1Y](https://github.com/ebu/media4Dplayer) - HTML5 player focused on accessibility.
 * [MPD](https://www.musicpd.org/) - A flexible, powerful, server-side application for playing music.
 * [mpg123](https://www.mpg123.de/) - A fast console MPEG Audio Player and decoder library.
 * [Mixxx](https://www.mixxx.org/) - A free, open source DJ software.
@@ -177,7 +177,7 @@ A curated list of amazingly awesome open source resources for broadcasters.
 * [AzuraCast](http://github.com/AzuraCast/AzuraCast) - A self-hosted web radio management suite.
 * [LibreTime](http://libretime.org/) - Radio broadcast & automation platform (fork of Airtime).
 * [Liquidsoap ★313](https://github.com/savonet/liquidsoap) - A Swiss army knife for multimedia streaming ([documentation](http://liquidsoap.fm/index.html)).
-* [OpenBroadcaster](https://github.com/openbroadcaster/observer) Open source broadcast automation server. [Player here ★6](https://github.com/openbroadcaster/obplayer).
+* [OpenBroadcaster](https://github.com/openbroadcaster/observer) Open source broadcast automation server. [Player here ★6 ⏳1Y](https://github.com/openbroadcaster/obplayer).
 * [Rivendell](http://www.rivendellaudio.org/) - Complete radio broadcast automation solution, translated to many languages and used worldwide.
 
 ## Software-defined radio

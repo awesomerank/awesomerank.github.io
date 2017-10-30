@@ -76,7 +76,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * Bash
     * [bash-sensible ★1437](https://github.com/mrzool/bash-sensible) - Attempt at saner Bash defaults.
     * [bash-powerline ★495](https://github.com/riobard/bash-powerline) - Powerline-style Bash prompt in pure Bash script.
-    * [bashtrap ★1454](https://github.com/barryclark/bashstrap) - Quick way to spruce up OSX terminal.
+    * [bashtrap ★1454 ⏳1Y](https://github.com/barryclark/bashstrap) - Quick way to spruce up OSX terminal.
     * [liquidprompt ★3250](https://github.com/nojhan/liquidprompt) - Full-featured & carefully designed adaptive prompt for Bash & Zsh.
     * [hstr ★770](https://github.com/dvorka/hstr) - Bash History Suggest Box.
     * [aliases ★94](https://github.com/sebglazebrook/aliases) - Contextual, dynamic, organized aliases for the bash shell.

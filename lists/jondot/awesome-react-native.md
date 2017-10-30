@@ -164,7 +164,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### UI
 
 - [react-native-toast-native★10](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
-- [rn-placeholder★164](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
+- [rn-placeholder★252](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
 - [react-native-scrollview-smart★41](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
 - [react-native-fast-image★265](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
 - [react-native-pagination ★5](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
@@ -187,6 +187,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-progress ★593](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
 - [react-native-accordion ★236](https://github.com/naoufal/react-native-accordion) - An Accordion Component for React Native
 - [react-native-action-button ★722](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
+- [react-native-custom-actionsheet ★0](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
 - [react-native-actionsheet-native ★11](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
 - [react-native-activity-view ★297](https://github.com/naoufal/react-native-activity-view) - iOS share and action sheets for React Native
 - [react-native-adbannerview ★40](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
@@ -239,6 +240,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-collapsible ★365](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
 - [react-native-collapsing-toolbar ★44](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 - [react-native-compress ★4](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.
+- [react-native-color-wheel ★14](https://github.com/netbeast/react-native-color-wheel) - A react native reusable color picker wheel
 - [react-native-countdown ★17](https://github.com/buhe/react-native-countdown) - react native countdown button
 - [react-native-country-picker ★5](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 - [react-native-country-picker-modal ★136](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.
@@ -286,7 +288,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-gifted-chat ★2332](https://github.com/FaridSafi/react-native-gifted-chat) - The most complete chat UI for React Native (formerly known as Gifted Messenger)
 - [react-native-gifted-listview ★889](https://github.com/FaridSafi/react-native-gifted-listview) - A ListView that embed some recurrent features like pull-to-refresh, infinite scrolling and more for Android and iOS React-Native apps
 - [react-native-gmaps ★85](https://github.com/teamrota/react-native-gmaps) - React Native Android Google Maps implementation.
-- [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
 - [react-native-grading ★14](https://github.com/Tinysymphony/react-native-grading) - RN Component for grading scores using ReactART.
 - [react-native-gravatar ★5](https://github.com/lwhiteley/react-native-gravatar) - react-native wrapper for gravatar-api
 - [react-native-super-grid ★54](https://github.com/saleel97/react-native-super-grid) - Responsive Grid View for React Native.
@@ -372,6 +373,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-progress-hud ★155](https://github.com/naoufal/react-native-progress-hud) - A clean and lightweight progress HUD for your React Native app
 - [react-native-pulse-loader ★43](https://github.com/mastermoo/react-native-pulse-loader) - Tinder like loader for your React Native app
 - [react-native-qrcode ★131](https://github.com/cssivision/react-native-qrcode) - react-native qrcode generator
+- [react-native-qrcode-svg ★97](https://github.com/awesomejerry/react-native-qrcode-svg) - A QR Code generator for React Native based on react-native-svg and node-qrcode.
 - [react-native-quiltview ★7](https://github.com/mmslate/react-native-quiltview) - Native iOS UICollectionView wrapper with RFQuiltLayout for React Native
 - [react-native-radial-menu ★67](https://github.com/omulet/react-native-radial-menu) - A Radial Menu optimized for touch interfaces
 - [react-native-radio-button-classic ★34](https://github.com/pressly/react-native-radio-button-classic) - Bring Classic Radio to React-Native
@@ -407,7 +409,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-slack-webhook ★24](https://github.com/xcarpentier/react-native-slack-webhook) - Follow some activities (new user, payment, ...) from your app via Slack and this webhook lib.
 - [react-native-slidable-tab-bar ★23](https://github.com/pwbrown/react-native-slidable-tab-bar) - Slidable tab bar for instant view rendering(react-native)
 - [react-native-slider ★328](https://github.com/jeanregisser/react-native-slider) - A pure JavaScript  component for react-native
-- [react-native-slot-machine ★12](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
+- [react-native-slot-machine ★31](https://github.com/atlanteh/react-native-slot-machine) - A text slot machine component for react-native
 - [react-native-sortable-list ★171](https://github.com/gitim/react-native-sortable-list) A sortable list for react native with both vertical and horizontal direction support.
 - [react-native-spinkit ★657](https://github.com/maxs15/react-native-spinkit) - A collection of animated loading indicators for React Native
 - [react-native-splashscreen ★244](https://github.com/remobile/react-native-splashscreen) - A splash screen for react-native
@@ -584,6 +586,15 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [foect ★4](https://github.com/unexge/foect) - Simple form validation library for React Native
 - [formik ★2270](https://github.com/jaredpalmer/formik) - Forms in React, without tears.
 
+### Geolocation
+
+- [react-native-background-geolocation ★770](https://github.com/transistorsoft/react-native-background-geolocation) - Sophisticated cross-platform background location-tracking & geofencing module with battery-conscious motion-detection intelligence (Android requires  paid license).
+- [react-native-android-geolocation ★17](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
+- [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
+- [react-native-geocoder ★152](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
+- [react-native-reverse-geo ★14](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
+- [react-native-geo-fencing ★40](https://github.com/surialabs/react-native-geo-fencing) - Native modules to determine if a location is within defined geographical boundaries using Google Geometry library
+
 ### Internationalization
 
 - [react-native-globalize ★61](https://github.com/joshswan/react-native-globalize) - Globalization helper for React Native
@@ -624,13 +635,13 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### System
 
 - [react-native-addressbook ★65](https://github.com/rt2zz/react-native-addressbook) - AddressBook module for react-native
-- [react-native-android-geolocation ★17](https://github.com/garysye/react-native-android-geolocation) - React Native Module to use Android Geolocation via Google Play API
 - [react-native-android-sms-listener ★66](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 - [react-native-android-sms ★34](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.
 - [react-native-android-speech ★27](https://github.com/mihirsoni/react-native-android-speech) - A text-to-speech library for Android React Native.
 - [react-native-android-sqlite ★28](https://github.com/jbrodriguez/react-native-android-sqlite) - A react native android wrapper for SQLite
 - [react-native-app-info ★33](https://github.com/Iragne/react-native-app-info) - React Native app info and version
 - [react-native-arkit ★38](https://github.com/HippoAR/react-native-arkit) - React Native binding for iOS ARKit
+- [react-native-background-fetch ★169](https://github.com/transistorsoft/react-native-background-fetch) - iOS BackgroundFetch API implementation.  Awakens a suspended iOS app in the background to execute a `callbackFn` about every 15 min.
 - [react-native-barcode-scanner ★50](https://github.com/lifuzu/ReactNativeBarcodeScanner) - Barcode scanner for React Native
 - [react-native-barcodescanner ★298](https://github.com/ideacreation/react-native-barcodescanner) - A barcode scanner component for react native - not maintained anymore - use react-native-camera.
 - [react-native-battery-status ★3](https://github.com/remobile/react-native-battery-status) - A battery-status for react-native
@@ -657,8 +668,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fs ★905](https://github.com/johanneslumpe/react-native-fs) - Native filesystem access for react-native
 - [react-native-onesignal ★255](https://github.com/geektimecoil/react-native-onesignal) - React Native Library for OneSignal Push Notifications Service (iOS + Android)
 - [react-native-gcm-android ★155](https://github.com/oney/react-native-gcm-android) - GCM for Android
-- [react-native-geocoder ★152](https://github.com/devfd/react-native-geocoder) - react native geocoding and reverse geocoding
-- [react-native-geolocation-android ★3](https://github.com/lxsameer/react-native-geolocation-android) - Geolocation module for react native android
 - [react-native-heading ★14](https://github.com/yonahforst/react-native-heading) - Get device heading (compass) information on iOS or Android
 - [react-native-ibeacon ★223](https://github.com/geniuxconsulting/react-native-ibeacon) - iBeacon support for React Native. The API is very similar to the CoreLocation Objective-C one with the only major difference that regions are plain JavaScript objects. Beacons don't work in the iOS simulator.
 - [react-native-icloud-sync ★24](https://github.com/chirag04/react-native-icloud-sync) - A react-native wrapper for syncing with icloud
@@ -682,7 +691,6 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-fcm ★445](https://github.com/evollu/react-native-fcm) - react native module for firebase cloud messaging and local notification
 - [react-native-push-with-gcm ★3](https://github.com/lilach/react-native-push-with-gcm) - Register device for GCM push notifications services (supported only for iOS)
 - [react-native-search-api ★13](https://github.com/ombori/react-native-search-api) - The SearchApi module gives you a general React Native interface to interact with the iOS Search API, Core Spotlight.
-- [react-native-reverse-geo ★14](https://github.com/aaronksaunders/react-native-reverse-geo) - React Native module bridge to convert address to geo coordinates.
 - [react-native-sensor-manager ★84](https://github.com/kprimice/react-native-sensor-manager) - Wrapper for react-native providing native sensors access. (Gyroscope, accelerometer, magnetometer, thermometer...)
 - [react-native-sms-android ★12](https://github.com/rhaker/react-native-sms-android) - A react-native module for sending a sms message to a phone number.
 - [react-native-social-share ★198](https://github.com/doefler/react-native-social-share) - Use the iOS native Twitter and Facebook share view from react native
@@ -737,6 +745,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-sound ★431](https://github.com/zmxv/react-native-sound) - React Native module for playing sound clips
 - [react-native-sound-demo ★6](https://github.com/zmxv/react-native-sound-demo) - react-native-sound demo project
 - [react-native-speech ★123](https://github.com/naoufal/react-native-speech) - A text-to-speech library for React Native.
+- [react-native-track-player ★23](https://github.com/react-native-kit/react-native-track-player) - A fully fledged audio module created for music apps. Provides audio playback, external media controls, chromecast support and background mode for Android, iOS and Windows.
 - [react-native-video ★1483](https://github.com/brentvatne/react-native-video) - A Video component for react-native
 - [react-native-fullscreen-video ★15](https://github.com/mostafa/react-native-fullscreen-video) - A full-screen video component on top of react-native-video
 - [react-native-volume-slider ★29](https://github.com/IFours/react-native-volume-slider) - React Native VolumeView component
@@ -795,7 +804,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-facebook-account-kit ★79](https://github.com/underscopeio/react-native-facebook-account-kit) - A Facebook Account Kit SDK wrapper for React Native.
 - [react-native-amap ★16](https://github.com/laoqiu/react-native-amap) - A React Native component for building maps with the AMap Android SDK
 - [react-native-android-vitamio ★59](https://github.com/sejoker/react-native-android-vitamio) - React-native component for android Vitamio video player
-- [react-native-api-ai ★19](https://github.com/innFactory/react-native-api-ai) - A React-Native bridge for Google's api.ai
+- [react-native-dialogflow ★26](https://github.com/innFactory/react-native-dialogflow) - A React-Native bridge for Google's Dialogflow (api.ai)
 - [react-native-braintree ★68](https://github.com/alawong/react-native-braintree) - A react native interface for integrating payments using Braintree's v.zero SDK (currently iOS only)
 - [react-native-braintree-android ★16](https://github.com/surialabs/react-native-braintree-android) - Braintree's native Drop-in Payment UI for Android
 - [react-native-braintree-xplat ★22](https://github.com/kraffslol/react-native-braintree-xplat) - Cross-platform Braintree v.zero module.
@@ -887,7 +896,7 @@ Useful React Native tooling.
 - [react-native-rename ★403](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
 - [Makeicon ★28](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
-- [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc. 
+- [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [React Native Actions ★18](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 
 ## Seeds

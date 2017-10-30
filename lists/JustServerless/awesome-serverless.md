@@ -862,6 +862,14 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Make a Serverless GraphQL API using Lambda and DynamoDB](https://serverless.com/blog/make-serverless-graphql-api-using-lambda-dynamodb/) - Tutorial on how to build a GraphQL API with AWS Lambda, DynamoDB and the Serverless Framework.
 - [Creating a Serverless GraphQL gateway on top of a 3rd party REST API](https://serverless.com/blog/3rd-party-rest-api-to-graphql-serverless/) - How to create a Serverless GraphQL gateway on top of a 3rd party REST API.
 - [Nuclio - An open source serverless platform](https://jaxenter.com/nuclio-serverless-open-source-138302.html) - Post about the Nuclio project and its impact on the serverless infrastructure management burden.
+- [Towards a serverless event-sourced Nordstrom](https://serverless.com/blog/rob-gruhl-serverless-event-sourced-nordstrom-emit-2017/) - How Nordstrom uses serverless computing (and the Serverless Framework) to create an event-sourced architecture.
+- [How Droplr scales to millions](https://serverless.com/blog/how-droplr-scales-to-millions-serverless-framework/) - How Droplr scales to millions with the Serverless Framework.
+- [Toward a functional programming analogy for microservices](https://serverless.com/blog/bobby-calderwood-functional-programming-microservices-emit-2017/) - How functional programming and thinking can help in a serverless microservice world.
+- [Microsoft launches Brigade -  An event-driven scripting tool for Kubernetes](https://thenewstack.io/microsoft-launches-brigade-event-driven-scripting-tool-kubernetes/) - Post about the recent [Brigade](http://brigade.sh) release by Microsoft.
+- [Introducing the Graphcool Framework](https://blog.graph.cool/introducing-the-graphcool-framework-d9edab2a7816) - Announcement blog post about the [Graphcool Framework ★2314](https://github.com/graphcool/framework).
+- [Unikernels and event-driven serverless platforms](https://serverless.com/blog/madhuri-yechuri-unikernels-event-driven-serverless-emit-2017/) - How unikernels can provide value in a serverless environment.
+- [Introducing Jazz - T-Mobile's serverless development platform](https://medium.com/@dev.satishm/introducing-jazz-t-mobiles-serverless-development-platform-da4c27aaf855) - Announcement blog post about T-Mobile's serverless development platform called [Jazz ★24](https://github.com/tmobile/jazz).
+- [AWS Lambda and Kinesis streams at busuu](https://tech.busuu.com/going-serverless-aws-lambda-and-kinesis-streams-at-busuu-1434afe62041) - How busuu started the transition to a serverless architecture.
 
 ## Screencasts
 
@@ -1081,7 +1089,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [func4 ★0 ⏳1Y](https://github.com/ac360/func4) - Show and create users.
 - [Boxify ★0 ⏳1Y](https://github.com/jankei/boxify) - Boxify API service.
 - [MIDAAS API ★1 ⏳1Y](https://github.com/presidential-innovation-fellows/midaas-api) - MIDAAS API.
-- [Zanon IO Demo ★20](https://github.com/zanon-io/aws-serverless-demo) - Demo project.
+- [Zanon IO Demo ★20 ⏳1Y](https://github.com/zanon-io/aws-serverless-demo) - Demo project.
 - [Cortex ★0 ⏳1Y](https://github.com/namastereid/cortex) - Cortex project.
 - [Protocol service ★0 ⏳1Y](https://github.com/Backfeed/protocol-service) - Protocol service.
 - [Cat facts ★8](https://github.com/ryansb/serverless-cat-facts) - Example how to use Serverless with Python.
@@ -1120,7 +1128,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless microservice architecture](https://gitlab.com/patoncrispy/serverless-sample-app) - Code which demonstrates a Serverless microservice architecture with decoupled Services.
 - [Serverless Zwiftalizer ★2](https://github.com/mhanney/serverless-zwiftalizer) - Serverless project which includes Lambda functions to support the Zwiftalizer frontend.
 - [React boilerplate ★131](https://github.com/99xt/serverless-react-boilerplate) - React boilerplate for applications which are powered by Serverless and React.
-- [Serverless screenshot ★116](https://github.com/svdgraaf/serverless-screenshot) - Code for a screenshot service build with Serverless.
+- [Serverless screenshot ★116 ⏳1Y](https://github.com/svdgraaf/serverless-screenshot) - Code for a screenshot service build with Serverless.
 - [Serverless minimal ★0 ⏳1Y](https://github.com/mthenw/serverless-minimal) - The smallest possible Serverless service.
 - [Serverless authorizer ★26 ⏳1Y](https://github.com/eahefnawy/serverless-authorizer) - Example of a service that uses API Gateway custom authorizer feature to authorize your endpoints.
 - [Serverless artillery ★92](https://github.com/Nordstrom/serverless-artillery) - Instant and cheap performance testing at scale (combines [Serverless](http://serverless.com) and [Artillery](http://artillery.io)).
@@ -1147,7 +1155,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [SlackNorris ★2](https://github.com/robertoestivill/slacknorris) - Slack command to retrieve great Chuck Norris quotes.
 - [Web API scaffold](https://github.com/jch254/serverless-es6-dynamodb-webapi) - Simple web API powered by Serverless (Node.js) and DynamoDB.
 - [Serverless Notifications ★60](https://github.com/zanon-io/serverless-notifications) - Project which uses the Serverless Framework and AWS IoT for notifications.
-- [Redirect example ★6](https://github.com/GorillaStack/serverless-redirect-example) - Example of how to implement redirects in the Serverless framework.
+- [Redirect example ★6 ⏳1Y](https://github.com/GorillaStack/serverless-redirect-example) - Example of how to implement redirects in the Serverless framework.
 - [Meetup event collector ★7](https://github.com/mavi888/meetup-event-collector-node) - Node project to collect events and create a calendar feed of meetup events.
 - [Yesterdaytabase ★16](https://github.com/ryansb/yesterdaytabase) - Cascade data from production to staging with AWS RDS and Lambda.
 - [Serverless dotenv WSGI ★2](https://github.com/braahyan/serverless-dotenv-wsgi) - Demonstrating the use of the `serverless-wsgi` plugin and the `serverless-plugin-dotenv` plugin.
@@ -1431,6 +1439,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Shell ★11](https://github.com/ibm-functions/shell) - An Electron-based development tool for IBM Cloud Functions and Composer.
 - [Composer ★46](https://github.com/ibm-functions/composer) - Programming model for composing IBM Cloud Functions, built on Apache OpenWhisk.
 - [Thundra](https://www.thundra.io) - Full observability for AWS Lambda.
+- [Brigade](http://brigade.sh) - Event-driven scripting for Kubernetes.
+- [Graphcool Framework ★2314](https://github.com/graphcool/framework) - Framework to develop & deploy serverless GraphQL backends.
+- [Jazz ★24](https://github.com/tmobile/jazz) - Jazz serverless development platform.
 
 ## Plugins
 
@@ -1451,12 +1462,12 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Browserify ★21](https://github.com/doapp-ryanp/serverless-plugin-browserify) - Add browserify to speedup Lambdas.
 - [Optimize ★47](https://github.com/FidelLimited/serverless-plugin-optimize) - Optimize plugin for Serverless.
 - [Include dependencies ★42](https://github.com/dougmoscrop/serverless-plugin-include-dependencies) - Explicitly include packages in your `node_modules` folder.
-- [Subscription filter ★4](https://github.com/blackevil245/serverless-subscription-filter) - Register subscription filter for Lambda logs.
+- [Subscription filter ★4 ⏳1Y](https://github.com/blackevil245/serverless-subscription-filter) - Register subscription filter for Lambda logs.
 - [Snyk plugin ★24](https://github.com/Snyk/serverless-snyk) - Plugin for securing your dependencies with Snyk.
 - [CloudWatch logging subscriptions ★1](https://github.com/TicketSolutionsPtyLtd/serverless-plugin-cloudwatch-logging-subscriptions) - Adds CloudWatch log subscriptions for each function in a Serverless service.
 - [Crypt ★43](https://github.com/marcy-terui/serverless-crypt) - Securing Serverless secrets by AWS KMS encryption.
 - [Diff ★12](https://github.com/nicka/serverless-plugin-diff) - Compares your local AWS CloudFormation templates against deployed ones.
-- [Rollback function ★4](https://github.com/marcy-terui/serverless-rollback-function) - Rollback a single function.
+- [Rollback function ★4 ⏳1Y](https://github.com/marcy-terui/serverless-rollback-function) - Rollback a single function.
 - [CloudFormation Authorizer ★16](https://github.com/SC5/serverless-plugin-cfauthorizer) - Define your own API Gateway Authorizers as the Serverless CloudFormation resources and apply them to HTTP endpoints.
 - [Babel ★21](https://github.com/serverless/serverless-babel-plugin) - Plugin to compile your JavaScript code with Babel before deployment.
 - [External S3 event ★49](https://github.com/matt-filion/serverless-external-s3-event) - Overcomes the CloudFormation limitation on attaching an event to an uncontrolled bucket.
@@ -1507,7 +1518,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [.env ★3](https://github.com/Jimdo/serverless-dotenv) - Plugin to fetch environment variables and write it to a .env file.
 - [Common excludes ★3](https://github.com/dougmoscrop/serverless-plugin-common-excludes) - Exclude common things from your Serverless package.
 - [Existing CloudWatch rule](https://github.com/AlexanderMS/serverless-plugin-existing-cloudwatch-rule) - Existing CloudWatch Rule plugin.
-- [Shared vars ★5](https://github.com/dittto/serverless-shared-vars) - Share variables between your serverless.yml config and your codebase.
+- [Shared vars ★5 ⏳1Y](https://github.com/dittto/serverless-shared-vars) - Share variables between your serverless.yml config and your codebase.
 - [Import swagger ★15](https://github.com/AKIRA-MIYAKE/serverless-import-swagger) - Import functions from swagger spec file to serverless.yml.
 - [RDS trigger](https://www.npmjs.com/package/serverless-plugin-rds-trigger) - Allows Lambda functions to be triggered by AWS RDS triggers.
 - [SQS alarms ★12](https://github.com/sbstjn/serverless-sqs-alarms-plugin) - Wrapper to setup CloudWatch Alarms on SQS queue length.
@@ -1640,6 +1651,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Red Badger](https://red-badger.com) - Agency.
 - [Langa](http://langa.io) - Agency.
 - [Emerging Technology Advisors](https://www.emergingtechnologyadvisors.com) - Consultancy.
+- [OneSpeed](https://onespeed.io) - Agency.
 
 ---
 

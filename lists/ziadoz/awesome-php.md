@@ -170,7 +170,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Silex Skeleton ★820](https://github.com/silexphp/Silex-Skeleton) - A project skeleton for Silex.
 * [Silex Web Profiler ★190](https://github.com/silexphp/Silex-WebProfiler) - A web debug toolbar for Silex.
 * [Slim Skeleton ★713](https://github.com/slimphp/Slim-Skeleton) - A skeleton for Slim.
-* [Slim View ★308 ⏳1Y](https://github.com/slimphp/Slim-Views) - A collection of custom views for Slim.
+* [Slim View ★308 ⏳2Y](https://github.com/slimphp/Slim-Views) - A collection of custom views for Slim.
 
 ## Routers
 *Libraries for handling application routing.*
@@ -257,7 +257,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Apache MIME Types ★43](https://github.com/dflydev/dflydev-apache-mime-types) - A library that parses Apache MIME types.
 * [Canal ★28 ⏳4Y](https://github.com/dflydev/dflydev-canal) - A library to determine internet media types.
 * [CSV ★1264](https://github.com/thephpleague/csv) - A CSV data manipulation library.
-* [Ferret ★19 ⏳2Y](https://github.com/versionable/Ferret) - A MIME detection library.
+* [Ferret ★19 ⏳3Y](https://github.com/versionable/Ferret) - A MIME detection library.
 * [Flysystem ★3552](https://github.com/thephpleague/Flysystem) - Another filesystem abstraction layer.
 * [Gaufrette ★1839](https://github.com/KnpLabs/Gaufrette) - A filesystem abstraction layer.
 * [Hoa Mime ★76](https://github.com/hoaproject/Mime) - Another MIME detection library.
@@ -291,7 +291,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Glide ★1134](https://github.com/thephpleague/glide) - An on-demand image manipulation library.
 * [Image Hash ★927](https://github.com/jenssegers/imagehash) - A library for generating perceptual image hashes.
 * [Image Optimizer ★401](https://github.com/psliwa/image-optimizer) - A library for optimizing images.
-* [Image With Text ★100 ⏳3Y](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
+* [Image With Text ★100 ⏳4Y](https://github.com/nmcteam/image-with-text) - A library for embedding text into images.
 * [Imagine](http://imagine.readthedocs.io/en/latest/index.html) - An image manipulation library.
 * [Intervention Image ★5713](https://github.com/Intervention/image) - Another image manipulation library.
 * [PHP Image Workshop ★768](https://github.com/Sybio/ImageWorkshop) - Another image manipulation library.

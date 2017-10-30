@@ -271,7 +271,7 @@ title: Awesome Rank for razum2um/awesome-clojure
   * [eastwood ★720](https://github.com/jonase/eastwood)
   * [kibit ★1312](https://github.com/jonase/kibit)
   * [lucid.query](http://docs.caudate.me/lucidity/lucid-query.html)
-  * [yagni ★149 ⏳1Y](https://github.com/venantius/yagni)
+  * [yagni ★149 ⏳2Y](https://github.com/venantius/yagni)
   * [lein-bikeshed ★130](https://github.com/dakrone/lein-bikeshed)
   * [spectrum ★334](https://github.com/arohner/spectrum)
   * [cloverage ★266](https://github.com/cloverage/cloverage)

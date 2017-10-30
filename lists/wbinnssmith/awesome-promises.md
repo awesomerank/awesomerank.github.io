@@ -94,8 +94,8 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-break ★6](https://github.com/sindresorhus/p-break) - Break out of a promise chain
 * [p-lazy ★45](https://github.com/sindresorhus/p-lazy) - Create a lazy promise that defers execution until `.then()` or `.catch()` is called
 * [p-defer ★14](https://github.com/sindresorhus/p-defer) - Create a deferred promise
-* [p-if ★33](https://github.com/sindresorhus/p-if) - Conditional promise chains
-* [p-tap ★30](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
+* [p-if ★33 ⏳1Y](https://github.com/sindresorhus/p-if) - Conditional promise chains
+* [p-tap ★30 ⏳1Y](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
 * [p-map ★126](https://github.com/sindresorhus/p-map) - Map over promises concurrently
 * [p-all ★37](https://github.com/sindresorhus/p-all) - Run promise-returning & async functions concurrently with optional limited concurrency
 * [p-limit ★37](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency

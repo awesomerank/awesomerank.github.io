@@ -37,7 +37,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 ### Frameworks
 - [Tone.js ★3404](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
 - [Gibberish ★239](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
-- [lissajous ★311 ⏳1Y](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance.
+- [lissajous ★311 ⏳2Y](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance.
 - [SSSynthesiser.js ★33 ⏳1Y](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects.
 - [Bap](http://bapjs.org/) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
 - [WAAX ★268](https://github.com/hoch/WAAX) - Build Music Apps for browsers.

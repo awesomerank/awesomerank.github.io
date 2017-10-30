@@ -56,6 +56,7 @@ title: Awesome Rank for nikgraf/awesome-draft-js
   - [Buttons ★38](https://github.com/vacenz/last-draft-js-plugins)
   - [Color Picker ★38](https://github.com/vacenz/last-draft-js-plugins)
   - [Counter](https://www.draft-js-plugins.com/plugin/counter) - Character, word & line counting.
+  - [Divider](https://github.com/simsim0709/draft-js-plugins/tree/master/draft-js-divider-plugin) 
   - [Drag and Drop](https://www.draft-js-plugins.com/plugin/drag-n-drop)
   - [Embed ★38](https://github.com/vacenz/last-draft-js-plugins)
   - [Emoji](https://www.draft-js-plugins.com/plugin/emoji) - Slack-like emoji support

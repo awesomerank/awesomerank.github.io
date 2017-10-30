@@ -89,6 +89,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     - [Benchmarks](#benchmarks)
     - [Conferences](#conferences)
     - [E-Books](#e-books)
+    - [Meetups](#meetups)
     - [Twitter](#twitter)
     - [Websites](#websites)
         - [Tutorials](#tutorials)
@@ -372,7 +373,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
     * [goriak ★18](https://github.com/zegl/goriak) - Go language driver for Riak KV.
     * [mgo](https://godoc.org/labix.org/v2/mgo) - MongoDB driver for the Go language that implements a rich and well tested selection of features under a very simple API following standard Go idioms.
     * [neo4j ★22 ⏳2Y](https://github.com/cihangir/neo4j) - Neo4j Rest API Bindings for Golang.
-    * [Neo4j-GO ★66 ⏳4Y](https://github.com/davemeehan/Neo4j-GO) - Neo4j REST Client in golang.
+    * [Neo4j-GO ★66 ⏳5Y](https://github.com/davemeehan/Neo4j-GO) - Neo4j REST Client in golang.
     * [neoism ★305](https://github.com/jmcvetta/neoism) - Neo4j client for Golang.
     * [redigo ★3565](https://github.com/garyburd/redigo) - Redigo is a Go client for the Redis database.
     * [redis ★2302](https://github.com/go-redis/redis) - Redis client for Golang.
@@ -703,6 +704,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [probab ★7 ⏳2Y](https://github.com/ThePaw/probab) - Probability distribution functions. Bayesian inference. Written in pure Go.
 * [regommend ★167](https://github.com/muesli/regommend) - Recommendation & collaborative filtering engine.
 * [shield ★106 ⏳1Y](https://github.com/eaigner/shield) - Bayesian text classifier with flexible tokenizers and storage backends for Go.
+* [tfgo ★563](https://github.com/galeone/tfgo) - Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python.
 
 ## Messaging
 
@@ -1483,6 +1485,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [interfacer ★663](https://github.com/mvdan/interfacer) - Linter that suggests interface types.
 * [lint ★53](https://github.com/surullabs/lint) - Run linters as part of go test.
 * [staticcheck](https://github.com/dominikh/go-tools/tree/master/cmd/staticcheck) - staticcheck is `go vet` on steroids, applying a ton of static analysis checks you might be used to from tools like ReSharper for C#.
+* [tarp ★5](https://github.com/verygoodsoftwarenotvirus/tarp) - tarp finds functions and methods without direct unit tests in Go source code.
 * [unconvert ★180 ⏳1Y](https://github.com/mdempsky/unconvert) - Remove unnecessary type conversions from Go source.
 * [unused](https://github.com/dominikh/go-tools/tree/master/cmd/unused) - unused checks Go code for unused constants, variables, functions and types.
 * [validate ★61 ⏳1Y](https://github.com/mccoyst/validate) - Automatically validates struct fields with tags.
@@ -1499,7 +1502,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [vim-compiler-go ★75 ⏳1Y](https://github.com/rjohnsondev/vim-compiler-go) - Vim plugin to highlight syntax errors on save.
 * [vim-go ★7233](https://github.com/fatih/vim-go) - Go development plugin for Vim.
 * [vscode-go ★2862](https://github.com/Microsoft/vscode-go) - Extension for Visual Studio Code (VS Code) which provides support for the Go language.
-* [Watch ★138 ⏳1Y](https://github.com/eaburns/Watch) - Runs a command in an acme win on file changes.
+* [Watch ★138 ⏳2Y](https://github.com/eaburns/Watch) - Runs a command in an acme win on file changes.
 
 ## Go Generate Tools
 
@@ -1533,7 +1536,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [Banshee ★836](https://github.com/eleme/banshee) - Anomalies detection system for periodic metrics.
 * [bombardier ★688](https://github.com/codesenberg/bombardier) - Fast cross-platform HTTP benchmarking tool.
 * [bosun ★2362](https://github.com/bosun-monitor/bosun) - Time Series Alerting Framework.
-* [dogo ★143](https://github.com/liudng/dogo) - Monitoring changes in the source file and automatically compile and run (restart).
+* [dogo ★143 ⏳1Y](https://github.com/liudng/dogo) - Monitoring changes in the source file and automatically compile and run (restart).
 * [drone-jenkins ★9](https://github.com/appleboy/drone-jenkins) - Trigger downstream Jenkins jobs using a binary, docker or Drone CI.
 * [drone-scp ★13](https://github.com/appleboy/drone-scp) - Copy files and artifacts via SSH using a binary, docker or Drone CI.
 * [Dropship ★36 ⏳1Y](https://github.com/chrismckenzie/dropship) - Tool for deploying code via cdn.
@@ -1581,6 +1584,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [fleet ★2405](https://github.com/coreos/fleet) - Distributed init System.
 * [Go Package Store ★788](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.
 * [gocc ★132](https://github.com/goccmack/gocc) - Gocc is a compiler kit for Go written in Go.
+* [GoDNS ★157](https://github.com/timothyye/godns) - A dynamic DNS client tool, supports DNSPod & HE.net, written in Go.
 * [GoDocTooltip ★11 ⏳1Y](https://github.com/diankong/GoDocTooltip) - Chrome extension for Go Doc sites, which shows function description as tooltip at funciton list.
 * [Gogland](https://jetbrains.com/go) - Full featured cross-platform Go IDE.
 * [Gor](https://github.com/buger/gor) - Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.
@@ -1663,6 +1667,42 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 * [The Go Programming Language](http://www.gopl.io/)
 * [Web Application with Go the Anti-Textbook ★1780](https://github.com/thewhitetulip/web-dev-golang-anti-textbook)
 
+## Meetups
+
+* [Go Language NYC](https://www.meetup.com/golanguagenewyork/)
+* [Go London User Group](https://www.meetup.com/Go-London-User-Group/)
+* [Go Toronto](https://www.meetup.com/go-toronto/)
+* [Go User Group Atlanta](https://www.meetup.com/Go-Users-Group-Atlanta/)
+* [GoBridge, San Francisco, CA](https://www.meetup.com/gobridge/)
+* [GoJakarta](https://www.meetup.com/GoJakarta/)
+* [Golang Amsterdam](https://www.meetup.com/golang-amsterdam/)
+* [Golang Argentina](https://www.meetup.com/Golang-Argentina/)
+* [Golang Bangalore](https://www.meetup.com/Golang-Bangalore/)
+* [Golang Belo Horizonte - Brazil](https://www.meetup.com/go-belo-horizonte/)
+* [Golang Boston](https://www.meetup.com/bostongo/)
+* [Golang DC, Arlington, VA](https://www.meetup.com/Golang-DC/)
+* [Golang Israel](https://www.meetup.com/Go-Israel/)
+* [Golang Lima - Peru](https://www.meetup.com/Golang-Peru/)
+* [Golang Lyon](https://www.meetup.com/Golang-Lyon/)
+* [Golang Melbourne](https://www.meetup.com/golang-mel/)
+* [Golang Mountain View](https://www.meetup.com/Golang-Mountain-View/)
+* [Golang New York](https://www.meetup.com/nycgolang/)
+* [Golang Paris](https://www.meetup.com/Golang-Paris/)
+* [Golang Pune](https://www.meetup.com/Golang-Pune/)
+* [Golang Singapore](https://www.meetup.com/golangsg/)
+* [Golang Stockholm](https://www.meetup.com/Go-Stockholm/)
+* [Golang São Paulo - Brazil](https://www.meetup.com/golangbr/)
+* [Golang Vancouver, BC](https://www.meetup.com/golangvan/)
+* [Golang Москва](https://www.meetup.com/Golang-Moscow/)
+* [Golang Питер](https://www.meetup.com/Golang-Peter/)
+* [Istanbul Golang](https://www.meetup.com/Istanbul-Golang/)
+* [Seattle Go Programmers](https://www.meetup.com/golang/)
+* [Ukrainian Golang User Groups](https://www.meetup.com/uagolang/)
+* [Utah Go User Group](https://www.meetup.com/utahgophers/)
+* [Women Who Go - San Francisco, CA](https://www.meetup.com/Women-Who-Go/)
+
+*Add the group of your city/country here (send **PR**)*
+
 ## Twitter
 
 * [@golang](https://twitter.com/golang)
@@ -1673,7 +1713,7 @@ See [go-hardware ★559](https://github.com/rakyll/go-hardware) for a comprehens
 ## Websites
 
 * [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
-* [Awesome Remote Job ★9955](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them is looking for Go hackers.
+* [Awesome Remote Job ★9955](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
 * [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 * [Flipboard - Go Magazine](https://flipboard.com/section/the-golang-magazine-bVP7nS) - Collection of Go articles and tutorials.
 * [Go Blog](http://blog.golang.org) - The official Go blog.

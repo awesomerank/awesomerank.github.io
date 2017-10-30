@@ -180,7 +180,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 * [reggae ★46](https://github.com/atilaneves/reggae) - meta build system in D
 * [Makefile ★17 ⏳1Y](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
 * [cmake-d ★28](https://github.com/dcarp/cmake-d) - CMake D Projects
-* [cook2 ★16 ⏳1Y](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
+* [cook2 ★16 ⏳2Y](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 * [button](http://jasonwhite.github.io/button/) - A universal build system to build your software at the push of a button.
 * [wild](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex](https://github.com/Vild/PowerNex) kernel
 

@@ -29,6 +29,7 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 * [Fiction](#fiction)
 * [Health](#health)
 * [Design](#design)
+* [Travel](#travel)
 
 # Books
 
@@ -43,6 +44,7 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 | The Hard Thing About Hard Things: Building a Business When There Are No Easy Answers | Ben Horowitz | [4.20](https://www.goodreads.com/book/show/18176747-the-hard-thing-about-hard-things) | 2014 |  
 | Outliers: Story of Success | Malcolm Gladwell | [4.11](https://www.goodreads.com/work/quotes/3364437-outliers-the-story-of-success) | 2008 |  
 | The Strategy and Tactics of Pricing : A Guide to Move More Profitable | Thomas Nagle, John Hogan, Joseph Zale | [4.09](https://www.goodreads.com/book/show/99919.The_Strategy_and_Tactics_of_Pricing) | 2005 |  
+| Start with Why: How Great Leaders Inspire Everyone to Take Action | Simon Sinek | [4.07](https://www.goodreads.com/book/show/7108725-start-with-why) | 2009 |  
 | Leaving Microsoft to Change the World: An Entrepreneur's Odyssey to Educate the World's Children | John Wood | [4.07](https://www.goodreads.com/book/show/95429.Leaving_Microsoft_to_Change_the_World) | 2006 |  
 | Hackers and Painters | Paul Graham | [4.06](https://www.goodreads.com/book/show/41793.Hackers_Painters) | 2004 |  
 | Good to Great: Why Some Companies Make the Leap And Others Don't | Jim Collins | [4.05](https://www.goodreads.com/book/show/76865.Good_to_Great) | 2001 |  
@@ -358,7 +360,8 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 | Père Goriot | Honoré de Balzac | [3.82](https://www.goodreads.com/book/show/59145.P_re_Goriot) | 1997 |  
 | Adventures of Huckleberry Finn | Mark Twain | [3.80](https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn) | 2002 |  
 | The Catcher in the Rye | J.D. Salinger | [3.79](https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye) | 2001 |  
-| Eugénie Grandet | Honoré de Balzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 2003 |  
+| Eugénie Grandet | Honoré de Balzac | [3.79](https://www.goodreads.com/book/show/59142.Eug_nie_Grandet) | 2003 |
+| Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values  | Robert M. Pirsig | [3.76](https://www.goodreads.com/book/show/629.Zen_and_the_Art_of_Motorcycle_Maintenance) | 1974 |
 | Candide | Voltaire | [3.76](https://www.goodreads.com/book/show/19380.Candide) | 1991 |  
 | Madame Bovary | Gustave Flaubert | [3.65](https://www.goodreads.com/book/show/2175.Madame_Bovary) | 2004 |  
 | Confessions | Jean-Jacques Rousseau | [3.61](https://www.goodreads.com/book/show/12649.Confessions) | 2003 |  
@@ -454,6 +457,11 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 | Pattern Language: Towns, Buildings, Construction | Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
 | Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability | Steve Krug | [4.24](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) | 2014 |  
 | The Design of Everyday Things | Donald Norman | [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |  
+
+## Travel
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| Atlas Obscura: An Explorer's Guide to the World's Hidden Wonders | Joshua Foer | [4.24](https://www.goodreads.com/book/show/28110891-atlas-obscura) | 2016 |  
 
 ## Credits
 * [@hackerkid](https://github.com/hackerkid) for starting the list.

@@ -273,7 +273,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [blessed ★6667](https://github.com/chjj/blessed) - Curses-like library.
 - [yn ★82](https://github.com/sindresorhus/yn) - Parse yes/no like values.
 - [cli-table ★1368](https://github.com/Automattic/cli-table) - Pretty unicode tables.
-- [drawille ★667](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
+- [drawille ★667 ⏳1Y](https://github.com/madbence/node-drawille) - Draw on the terminal with unicode braille characters.
 - [sudo-block ★49](https://github.com/sindresorhus/sudo-block) - Block users from running your app with root permissions.
 - [googleauth ★42 ⏳3Y](https://github.com/maxogden/googleauth) - Create and load persistent Google authentication tokens for command-line apps.
 - [ascii-charts ★215 ⏳1Y](https://github.com/jstrace/chart) - ASCII bar chart in the terminal.
@@ -415,7 +415,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - Streams
 	- [Highland.js](http://highlandjs.org) - Manages synchronous and asynchronous code easily, using nothing more than standard JavaScript and Node-like Streams.
 - Callbacks
-	- [each-async ★99](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
+	- [each-async ★99 ⏳1Y](https://github.com/sindresorhus/each-async) - Async concurrent iterator like forEach.
 	- [async ★22455](https://github.com/caolan/async) - Provides straight-forward, powerful functions for working with asynchronicity.
 - Channels
 	- [js-csp ★1975](https://github.com/ubolonton/js-csp) - Communicating sequential processes for JavaScript (like Clojurescript core.async, or Go).
@@ -440,7 +440,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [stream-combiner2 ★64 ⏳1Y](https://github.com/substack/stream-combiner2) - Turn a pipeline into a single stream.
 - [readable-stream ★550](https://github.com/nodejs/readable-stream) - Mirror of Streams2 and Streams3 implementations in core.
 - [through2-concurrent ★47 ⏳1Y](https://github.com/almost/through2-concurrent) - Transform object streams concurrently.
-- [graphicsmagick-stream ★58 ⏳1Y](https://github.com/e-conomic/graphicsmagick-stream) - Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.
+- [graphicsmagick-stream ★58 ⏳2Y](https://github.com/e-conomic/graphicsmagick-stream) - Fast conversion/scaling of images using a pool of long lived GraphicsMagick processes.
 
 
 ### Real-time

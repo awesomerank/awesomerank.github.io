@@ -387,7 +387,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 ## Data Visualization
 
 * [Chartkick](http://ankane.github.io/chartkick/) - Create beautiful Javascript charts with one line of Ruby. Works with Rails, Sinatra and most browsers (including IE 6).
-* [GeoPattern ★976](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
+* [GeoPattern ★976 ⏳1Y](https://github.com/jasonlong/geo_pattern) - Create beautiful generative geometric background images from a string.
 * [LazyHighCharts ★1017](https://github.com/michelson/lazy_high_charts) - A simple and extremely flexible way to use HighCharts from ruby code. Tested on Ruby on Rails, Sinatra and Nanoc, but it should work with others too.
 * [RailRoady ★1541](https://github.com/preston/railroady) - Ruby on Rails 3/4 model and controller UML class diagram generator.
 * [Rails Erd ★2314](https://github.com/voormedia/rails-erd) - Generate Entity-Relationship Diagrams for Rails applications.

@@ -151,7 +151,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * [`Function.create` ★8 ⏳4Y](https://github.com/walling/Function.create.js)
 * [ES6 shim](https://github.com/inexorabletash/polyfill/blob/master/es6.md)
 * [ES6 Symbol polyfill ★100](https://github.com/medikoo/es6-symbol)
-* [ES6 Map, Set, WeakMap ★4 ⏳1Y](https://github.com/EliSnow/Blitz-Collections)
+* [ES6 Map, Set, WeakMap ★4 ⏳2Y](https://github.com/EliSnow/Blitz-Collections)
 * [harmony-reflect ★348](https://github.com/tvcutsem/harmony-reflect) - ES6 [reflection module](http://wiki.ecmascript.org/doku.php?id=harmony:reflect_api) (contains the [Proxy API](http://soft.vub.ac.be/~tvcutsem/proxies/))
 * [ES5 based shims in pure CJS style](https://gist.github.com/medikoo/102b7d0e697627133788#list-of-ecmascript-6-shims) -  Array, Object, Number, Math and String functions/methods, plus Map, Set, Symbol and WeakMap objects
 

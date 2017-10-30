@@ -269,7 +269,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [dashbutton2mqtt ★6 ⏳1Y](https://github.com/hobbyquaker/dashbutton2mqtt) - Publish Amazon Dash Button presses to MQTT.
 * [flowerpower2mqtt ★4 ⏳2Y](https://github.com/hobbyquaker/flowerpower2mqtt) - Publish measurements from Parrot Flower Power plant sensors to MQTT.
 * [haiku2mqtt ★0](https://github.com/forty2/haiku2mqtt) - A bridge between Haiku smart fans and MQTT.
-* [homely ★7](https://github.com/baol/homely) - Collection of Go daemons for connecting Domoticz and other stuff.
+* [homely ★7 ⏳1Y](https://github.com/baol/homely) - Collection of Go daemons for connecting Domoticz and other stuff.
 * [leaf-python-mqtt ★11](https://github.com/glynhudson/leaf-python-mqtt) - Extract data from Nissan Leaf API and post to mqtt.
 * [miflora-mqtt-daemon ★13](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker.
 * [mqtt2ble ★7](https://github.com/hardillb/mqtt2ble) - A way to bridge MQTT topics to BLE Gatt characteristics.

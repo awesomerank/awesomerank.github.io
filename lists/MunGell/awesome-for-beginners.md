@@ -15,13 +15,15 @@ Inspired by [First Timers Only](https://medium.com/@kentcdodds/first-timers-only
 
 If you are an open source project maintainer, add the label `first-timers-only` (or similar) to your project and list it here so people can find it.
 
+If you are looking to contribute then explore this list, look at [`first-timers-only` labelled open issues on Github](https://github.com/search?utf8=%E2%9C%93&q=label%3Afirst-timers-only+is%3Aissue+is%3Aopen&type=), and follow [@first_tmrs_only](https://twitter.com/first_tmrs_only) on Twitter to be notified when a new `first-timers-only` issue is created.
+
 ## .NET
 
 - [Shouldly](https://github.com/shouldly/shouldly/labels/Jump-In) _(label: Jump-In)_ <br> Should testing for .net - the way Asserting *Should* be!
 
 ## C
 
-- [Neovim](https://github.com/neovim/neovim/labels/entry-level) _(label: entry-level)_ <br> Vim-fork focused on extensibility and agility.
+- [Neovim](https://github.com/neovim/neovim/labels/good%20first%20issue) _(label: good first issue)_ <br> Vim-fork focused on extensibility and agility.
 
 ## C++
 
@@ -44,6 +46,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## Elixir
 
 - [Elixir](https://github.com/elixir-lang/elixir/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Elixir is a dynamic, functional language designed for building scalable and maintainable applications
+- [Ecto](https://github.com/elixir-ecto/ecto/labels/Level%3AStarter) _(label: Level:Starter)_ <br> Ecto is a database wrapper and language integrated query for Elixir
 
 ## Go
 
@@ -85,7 +88,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [FreeCodeCamp](https://github.com/FreeCodeCamp/FreeCodeCamp/labels/first-timers-only) _(label: first-timers-only)_ <br> Open source codebase and curriculum. Learn to code and help nonprofits.
 - [Ghost](https://github.com/TryGhost/Ghost/labels/beginner) _(label: beginner)_ <br> Just a blogging platform
 - [eslint-plugin-unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn/labels/good%20for%20beginner) _(label: good for beginner)_ <br> Awesome ESLint rules.
-- [Hyper](https://github.com/zeit/hyper/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> JS/HTML/CSS Terminal
+- [Hyper](https://github.com/zeit/hyper/labels/good%20first%20issue) _(label: good first issue)_ <br> JS/HTML/CSS Terminal
 - [pdf.js](https://github.com/mozilla/pdf.js/labels/5-good-beginner-bug) _(label: 5-good-beginner-bug)_ <br> PDF Reader in JavaScript
 - [Moment.js](https://github.com/moment/moment/labels/Up-For-Grabs) _(label: Up-For-Grabs)_ <br> A lightweight JavaScript date library for parsing, validating, manipulating, and formatting dates.
 - [serverless](https://github.com/serverless/serverless/labels/help-wanted-easy) _(label: help-wanted-easy)_ <br> The Serverless Framework
@@ -93,7 +96,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [React server](https://github.com/redfin/react-server/labels/good%20first%20contribution) _(label: good-first-contribution)_ <br> React framework with server render for blazing fast page load and seamless transitions between pages in the browser.
 - [Yarn](https://github.com/yarnpkg/yarn/labels/good-first-contribution) _(label: good-first-contribution)_ <br> Fast, reliable, and secure dependency management.
 - [pixi.js](https://github.com/pixijs/pixi.js/labels/Difficulty%3A%20Easy) _(label: Difficulty: Easy)_ <br> A 2D JavaScript Renderer
-- [Next.js](https://github.com/zeit/next.js/labels/Good%20for%20beginners) _(label: Good for beginners)_ <br> A minimalistic framework for universal server-rendered React applications
+- [Next.js](https://github.com/zeit/next.js/labels/good%20first%20issue) _(label: good first issue)_ <br> A minimalistic framework for universal server-rendered React applications
 - [keystonejs](https://github.com/keystonejs/keystone/labels/good%20first%20task) _(label: good first task)_ <br> The open source framework for developing database-driven websites, applications and APIs in Node.js. Built on Express and MongoDB.
 - [Semantic-UI-React](https://github.com/Semantic-Org/Semantic-UI-React/labels/good%20first%20contribution) _(label: good first contribution)_ <br> The official React integration for Semantic UI.
 - [electron](https://github.com/electron/electron/labels/help%2Fbeginner) _(label: help/beginner)_ <br> Build cross platform desktop apps with JavaScript, HTML, and CSS
@@ -102,6 +105,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 - [cdnjs](https://github.com/cdnjs/cdnjs/labels/BEGINNER) _(label: BEGINNER)_ <br> The best FOSS web front-end resource CDN
 - [Video.js](https://github.com/videojs/video.js/labels/first-timers-only) _(label: first-timers-only)_ <br> The player framework
 - [stryker](https://github.com/stryker-mutator/stryker/labels/beginner%20friendly) _(label: beginner friendly)_ <br> The JavaScript mutation testing framework
+- [Kap](https://github.com/wulkano/kap/labels/good%20first%20issue) _(label: good first issue)_ <br> An open-source screen recorder built with web technology
 
 ## Julia
 
@@ -163,7 +167,7 @@ If you are an open source project maintainer, add the label `first-timers-only` 
 ## TypeScript
 
 - [TypeScript](https://github.com/Microsoft/TypeScript/labels/Effort%3A%20Easy) _(label: Effort: Easy)_ TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
-- [Visual Studio Code](https://github.com/Microsoft/vscode/labels/beginner) _(label: beginner)_ a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
+- [Visual Studio Code](https://github.com/Microsoft/vscode/labels/good%20first%20issue) _(label: good first issue)_ a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle.
 
 ## Contribute
 

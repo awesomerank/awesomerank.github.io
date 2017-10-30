@@ -127,7 +127,7 @@ Title | Description | Focus
 
 ## Archive/abandoned projects
 
-* [Bashstrap ★1454](https://github.com/barryclark/bashstrap)
+* [Bashstrap ★1454 ⏳1Y](https://github.com/barryclark/bashstrap)
 * [battleschool ★416 ⏳1Y](https://github.com/spencergibb/battleschool)
 * [Eduardo's dotfiles ★423](https://github.com/eduardolundgren/dotfiles)
 * [Kevin's dotfiles ★50](https://github.com/kdeldycke/dotfiles) 

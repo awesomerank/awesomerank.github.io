@@ -140,7 +140,7 @@ Repo | Demo
 [BOZPongRefreshControl ★897 ⏳2Y](https://github.com/boztalay/BOZPongRefreshControl) <br> [![](http://gh-btns.cjwirth.com/stars/boztalay/BOZPongRefreshControl)](https://github.com/boztalay/BOZPongRefreshControl/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/BOZPongRefreshControl1.gif">
 [mntpulltoreact ★781 ⏳2Y](https://github.com/mentionapp/mntpulltoreact) <br> [![](http://gh-btns.cjwirth.com/stars/mentionapp/mntpulltoreact)](https://github.com/mentionapp/mntpulltoreact/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/MNTPullToReact1.gif">
 [UzysCircularProgressPullToRefresh ★349 ⏳2Y](https://github.com/uzysjung/UzysCircularProgressPullToRefresh) <br> [![](http://gh-btns.cjwirth.com/stars/uzysjung/UzysCircularProgressPullToRefresh)](https://github.com/uzysjung/UzysCircularProgressPullToRefresh/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/UzysCircularProgressPullToRefresh1.gif">
-[PullToRefreshCoreText ★314](https://github.com/cemolcay/PullToRefreshCoreText) <br> [![](http://gh-btns.cjwirth.com/stars/cemolcay/PullToRefreshCoreText)](https://github.com/cemolcay/PullToRefreshCoreText/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PullToRefreshCoreText1.gif">
+[PullToRefreshCoreText ★314 ⏳1Y](https://github.com/cemolcay/PullToRefreshCoreText) <br> [![](http://gh-btns.cjwirth.com/stars/cemolcay/PullToRefreshCoreText)](https://github.com/cemolcay/PullToRefreshCoreText/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PullToRefreshCoreText1.gif">
 
 
 Side Menu
@@ -150,7 +150,7 @@ Repo | Demo
 [RESideMenu ★7040](https://github.com/romaonthego/RESideMenu) <br> [![](http://gh-btns.cjwirth.com/stars/romaonthego/RESideMenu)](https://github.com/romaonthego/RESideMenu/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/RESideMenu1.gif">
 [REFrostedViewController ★3017 ⏳1Y](https://github.com/romaonthego/REFrostedViewController) <br> [![](http://gh-btns.cjwirth.com/stars/romaonthego/REFrostedViewController)](https://github.com/romaonthego/REFrostedViewController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/REFrostedViewController1.gif" width="49%" >
 [TWTSideMenuViewController ★898 ⏳3Y](https://github.com/twotoasters/TWTSideMenuViewController) <br> [![](http://gh-btns.cjwirth.com/stars/twotoasters/TWTSideMenuViewController)](https://github.com/twotoasters/TWTSideMenuViewController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/TWTSideMenuViewController1.gif">
-[AMSlideMenu ★1219 ⏳1Y](https://github.com/SocialObjects-Software/AMSlideMenu) <br> [![](http://gh-btns.cjwirth.com/stars/SocialObjects-Software/AMSlideMenu)](https://github.com/SocialObjects-Software/AMSlideMenu/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/AMSlideMenu1.gif">
+[AMSlideMenu ★1219 ⏳2Y](https://github.com/SocialObjects-Software/AMSlideMenu) <br> [![](http://gh-btns.cjwirth.com/stars/SocialObjects-Software/AMSlideMenu)](https://github.com/SocialObjects-Software/AMSlideMenu/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/AMSlideMenu1.gif">
 [CariocaMenu ★568](https://github.com/arn00s/cariocamenu) <br> [![](http://gh-btns.cjwirth.com/stars/arn00s/CariocaMenu)](https://github.com/arn00s/CariocaMenu/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/cariocamenu.gif">
 
 

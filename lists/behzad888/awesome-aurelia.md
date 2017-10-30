@@ -109,7 +109,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Aurelia Generators
 
-* [zewa666/generator-aurelia ★78](https://github.com/zewa666/generator-aurelia) Yeoman generator for the JavaScript Framework Aurelia by @zewa666
+* [zewa666/generator-aurelia ★78 ⏳1Y](https://github.com/zewa666/generator-aurelia) Yeoman generator for the JavaScript Framework Aurelia by @zewa666
 * [kristianmandrup/generator-aurelia-ts ★17](https://github.com/kristianmandrup/generator-aurelia-ts) Turbo Start generator for Aurelia apps by @kristianmandrup
 
 #### Aurelia Cheatsheet

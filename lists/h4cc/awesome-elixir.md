@@ -1059,7 +1059,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [postgrex ★468](https://github.com/elixir-ecto/postgrex) - PostgreSQL driver for Elixir.
 * [red ★15](https://github.com/rodrigues/red) - Persist relationships between objects in Redis, in a graph-like way.
 * [redix ★337](https://github.com/whatyouhide/redix) - Superfast, pipelined, resilient Redis driver for Elixir.
-* [redo ★16](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
+* [redo ★16 ⏳1Y](https://github.com/heroku/redo) - Heroku's pipelining redis client for erlang.
 * [rethinkdb ★467](https://github.com/hamiltop/rethinkdb-elixir) - Rethinkdb client in pure Elixir using JSON protocol.
 * [riak ★163](https://github.com/drewkerrigan/riak-elixir-client) - A Riak client written in Elixir.
 * [riak_ecto ★26](https://github.com/pma/riak_ecto) - Riak adapter for Ecto.
@@ -1421,7 +1421,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [qiniu ★51](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.
 * [random_user ★7 ⏳1Y](https://github.com/katgironpe/random_user) - An Elixir client for randomuser.me API.
 * [reap ★3 ⏳3Y](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
-* [reddhl ★4 ⏳1Y](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
+* [reddhl ★4 ⏳2Y](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 * [redtube ★6 ⏳2Y](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.
 * [reporter ★4](https://github.com/KazuCocoa/simple_app_reporter_ex) - Reporter is simple reporting App reviews library. Support AppStore and GooglePlay.
 * [riemann ★38](https://github.com/koudelka/elixir-riemann) - A [Riemann](http://riemann.io/) client for Elixir.

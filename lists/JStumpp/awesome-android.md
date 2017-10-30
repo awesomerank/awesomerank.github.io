@@ -302,7 +302,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Google-Directions-Android ★694](https://github.com/jd-alexander/Google-Directions-Android) - Allows you to calculate the direction between two locations and display the route on a Google Map using the Google Directions API.
 - [Android Maps Extensions ★361](https://github.com/mg6maciej/android-maps-extensions) - Extending capabilities of Google Maps Android API v2, adding marker clustering among other things
-- [Clusterkraf ★265 ⏳2Y](https://github.com/twotoasters/clusterkraf) - Clustering library for the Google Maps Android API v2
+- [Clusterkraf ★265 ⏳3Y](https://github.com/twotoasters/clusterkraf) - Clustering library for the Google Maps Android API v2
 - [MapScaleView ★46](https://github.com/pengrad/MapScaleView) - Scale bar for Google Maps Android API
 
 ### Utility
@@ -370,7 +370,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Tape ★1926](https://github.com/square/tape) - A lightning fast, transactional, file-based FIFO for Android and Java.
 - [Guava: Google Core Libraries for Java ★19583](https://github.com/google/guava) - Collections, caching, primitives support, concurrency libraries, common annotations, string processing, I/O, and so forth.
 - [Android Scripting ★1432](https://github.com/damonkohler/sl4a) - Allows to run scripting languages on Android.
-- [Android Priority Job Queue ★2398 ⏳1Y](https://github.com/path/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
+- [Android Priority Job Queue ★2398 ⏳2Y](https://github.com/path/android-priority-jobqueue) - Implementation of a Job Queue to easily schedule jobs (tasks) that run in the background, improving UX and application stability.
 - [RateMeMaybe ★96 ⏳4Y](https://github.com/nspo/RateMeMaybe) - Asks the user if (s)he wants to open the Play Store to rate your application.
 - [Easy Rating Dialog ★95](https://github.com/fernandodev/easy-rating-dialog) - Lib provides a simple way to display an alert dialog for rating app.
 - [ZXing Android-Integration ★15784](https://github.com/zxing/zxing) - Integration with Barcode Scanner via Intent.

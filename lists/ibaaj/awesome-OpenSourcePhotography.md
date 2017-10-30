@@ -59,7 +59,7 @@ A list of awesome free open source software & libraries for photography. Also to
 ### Canon
 
 - [OfxCanon ★40 ⏳6Y](https://github.com/roxlu/ofxCanon) - *OpenFrameworks addon for the Canon EDSK.*
-- [Edsdk4j ★55](https://github.com/kritzikratzi/edsdk4j) - *Canon SDK for Java.*
+- [Edsdk4j ★55 ⏳1Y](https://github.com/kritzikratzi/edsdk4j) - *Canon SDK for Java.*
 
 ### GoPro
 - [GoPro ★127 ⏳4Y](https://github.com/kschzt/gopro) - *API for controlling GoPro Hero 3 Camera from Node.js.*

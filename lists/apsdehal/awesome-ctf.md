@@ -199,7 +199,7 @@ Check solve section for steganography.
 - [Binary Ninja](https://binary.ninja/) - Binary analysis framework
 - [BinUtils](http://www.gnu.org/software/binutils/binutils.html) - Collection of binary tools
 - [BinWalk ★2763](https://github.com/devttys0/binwalk) - Analyze, reverse engineer, and extract firmware images.
-- [Boomerang ★85](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
+- [Boomerang ★85 ⏳1Y](https://github.com/nemerle/boomerang) - Decompile x86 binaries to C
 - [ctf_import ★89](https://github.com/docileninja/ctf_import) – run basic functions from stripped binaries cross platform
 - [GDB](https://www.gnu.org/software/gdb/) - The GNU project debugger
 - [GEF ★1120](https://github.com/hugsy/gef) - GDB plugin

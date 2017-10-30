@@ -187,6 +187,8 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [GBZ80 to items](http://issotm.github.io/gbz80toitems3/) - 
 An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Source ★6](https://github.com/ISSOtm/gbz80-to-items))
 - [bmp2cgb ★5](https://github.com/gitendo/bmp2cgb) - 8bpp bitmap converter for Gameboy Color development.
+- [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
+- [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - Another Vim syntax highlighting file for RGBDS assembly.
 
 ## Programming Tutorials
 ### ASM
@@ -202,7 +204,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 
 #### Glitches and exploits
 - [DMA hijacking](https://github.com/avivace/awesome-gbdev/blob/master/articles/dma_hijacking.md) - A simple technique that allows you to run custom code in most GB/SGB/CGB games, provided you have an ACE exploit. [Demo video](http://gbdev.gg8.se/forums/viewtopic.php?id=430).
-- [Pokèmon Yellow ASM hack](http://pastebin.com/raw.php?i=WaFyrr21) - Debug menu. [Demo video](https://www.youtube.com/watch?v=BkIDPwkeGWs).
+- [Pokémon Yellow ASM hack](http://pastebin.com/raw.php?i=WaFyrr21) - Debug menu. [Demo video](https://www.youtube.com/watch?v=BkIDPwkeGWs).
 
 #### Timings
 - [Game Boy DMA transfer routines](http://exez.in/gameboy-dma) - Understanding and using DMA routines.
@@ -224,7 +226,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [GBDK Configuring and Programming Tutorial](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/) - Configuring GBDK, Using Tiles, Colliding Sprites, GBTD, GBMB, Memory Management and ROM Banking.
 
 #### Old articles
-[This](https://github.com/avivace/awesome-gbdev/tree/master/articles/salvaged) folder is an historical archive of old articles, FAQs and in general text documents about the game boy development. These may be wrong or obsolete - they are archived for historical reasons.
+[This](https://github.com/avivace/awesome-gbdev/tree/master/articles/salvage) folder is an historical archive of old articles, FAQs and in general text documents about Game Boy development. These may be wrong or obsolete - they are archived for historical reasons.
 
 ## Games
 - [Infinity ★388 ⏳1Y](https://github.com/infinity-gbc/infinity)
@@ -293,7 +295,6 @@ Game Boy Classic fully functional FPGA implementation from scratch
 - [mGB ★44 ⏳1Y](https://github.com/trash80/mGB) - A Gameboy cartridge program that enables the Gameboy to act as a full MIDI supported sound module.
 - [GBVisualizer ★12](https://github.com/LIJI32/GBVisualizer) - Demonstrating the use of two undocumented Gameboy Color registers, nicknamed PCM12 (FF76) and PCM34 (FF77), which can be used to read the current PCM amplitude of the 4 APU channels.
 - [GBVideoPlayer ★39](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Gameboy LCD controller can be hacked to make a Gameboy Color play a full motion video in color, together with music.
-- [rgbgfx ★8 ⏳1Y](https://github.com/stag019/rgbgfx) - A program which converts PNG images into the Game Boy's planar tile format, for eventual integration into RGBDS.
 - [ArduinoGameBoy ★49 ⏳2Y](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 - [gameboy-brainfuck ★4](https://github.com/bitnenfer/gameboy-brainfuck) - 
 Implementation of a brainfuck interpreter.

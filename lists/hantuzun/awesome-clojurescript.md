@@ -172,7 +172,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [hodgepodge](http://funcool.github.io/hodgepodge/) – A idiomatic ClojureScript interface to HTML5 Storage.
 - [mount ★661](https://github.com/tolitius/mount) – A beautifl idiomatic state management library.
 - [plato ★24 ⏳2Y](https://github.com/eneroth/plato) – Incrementally persists atom state to Local Storage in ClojureScript.
-- [storage-atom ★151](https://github.com/alandipert/storage-atom) – ClojureScript atoms backed by HTML5 web storage.
+- [storage-atom ★151 ⏳1Y](https://github.com/alandipert/storage-atom) – ClojureScript atoms backed by HTML5 web storage.
 - [Waltz ★93 ⏳5Y](https://github.com/ibdknox/waltz) – A ClojureScript library that helps manage state in client-side applications using non-deterministic finite state machines.
 
 

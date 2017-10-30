@@ -137,7 +137,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [progress ★91](https://github.com/askn/progress) - [==..] Progress bar
  * [progress_bar.cr ★1](https://github.com/TPei/progress_bar.cr) - A simple and customizable progress bar
  * [spinner ★37](https://github.com/askn/spinner) - Terminal Spinner
- * [terminal_table.cr ★14](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
+ * [terminal_table.cr ★14 ⏳1Y](https://github.com/benoist/terminal_table.cr) - Simple ASCII table generator
  * [todo ★2](https://github.com/Nephos/todo) - Todo list working in command line
 
 ## Configuration
