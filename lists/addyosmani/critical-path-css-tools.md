@@ -26,7 +26,7 @@ The following is a list of tools to help generate, inline and report on critical
 
 * [Penthouse ★1577](https://github.com/pocketjoso/penthouse) - by Jonas Ohlsson generates critical-path CSS
 * [Critical](https://github.com/addyosmani/critical) - by Addy Osmani generates & inlines critical-path CSS (uses Penthouse, [Oust ★119](https://github.com/addyosmani/oust) and inline-styles)
-* [CriticalCSS ★973](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS
+* [CriticalCSS ★973 ⏳1Y](https://github.com/filamentgroup/criticalcss) - by FilamentGroup finds & outputs critical CSS
 
 
 ## Server-side modules

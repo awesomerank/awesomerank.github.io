@@ -228,7 +228,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 
 * [AudioKit Playground Book ★48](https://github.com/audiokit/AudioKitPlaygroundBook) - A set of playgrounds using AudioKit designed for the iOS10 Playgrounds app. 📱
 * [Bach Playground ★2 ⏳1Y](https://github.com/dreamwieber/BachPlayground) - A Simple Swift Playground that plays a brief piece by Bach with AVAudioEngine and AVMIDIPlayer.
-* [PlayerNode Playground ★1](https://github.com/genedelisa/PlayerNodePlayground) - Playground using AVAudioEngine with a playernode and effects to play an audio file. 🌟
+* [PlayerNode Playground ★1 ⏳1Y](https://github.com/genedelisa/PlayerNodePlayground) - Playground using AVAudioEngine with a playernode and effects to play an audio file. 🌟
 
 ## Mathematics
 *Live math with playgrounds*

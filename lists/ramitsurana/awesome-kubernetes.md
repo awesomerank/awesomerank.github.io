@@ -502,7 +502,7 @@ Projects
 
 * [WeaveWorks](https://www.weave.works/)
 * [Canal](https://github.com/tigera/canal) by [Tigera](https://github.com/tigera)
-* [OpenContrail ★42](https://github.com/Juniper/contrail-kubernetes)
+* [OpenContrail ★42 ⏳1Y](https://github.com/Juniper/contrail-kubernetes)
 * [Nuage ★21](https://github.com/nuagenetworks/nuage-kubernetes)
 * [Kuryr ★50](https://github.com/openstack/kuryr-kubernetes)
 * [Contiv](http://contiv.github.io/)

@@ -651,7 +651,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 * [html5lib ★627](https://github.com/html5lib/html5lib-python) - A standards-compliant library for parsing and serializing HTML documents and fragments.
 * [lxml](http://lxml.de/) - A very fast, easy-to-use and versatile library for handling HTML and XML.
 * [MarkupSafe ★181](https://github.com/pallets/markupsafe) - Implements a XML/HTML/XHTML Markup safe string for Python.
-* [pyquery ★1285](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
+* [pyquery ★1285 ⏳1Y](https://github.com/gawel/pyquery) - A jQuery-like library for parsing HTML.
 * [untangle ★266](https://github.com/stchris/untangle) - Converts XML documents to Python objects for easy access.
 * [WeasyPrint](http://weasyprint.org) - A visual rendering engine for HTML and CSS that can export to PDF.
 * [xmldataset](https://xmldataset.readthedocs.io/en/latest/) - Simple XML Parsing.
@@ -919,6 +919,7 @@ Inspired by [awesome-php ★16697](https://github.com/ziadoz/awesome-php).
 * [libffm ★502](https://github.com/guestwalk/libffm) - A library for Field-aware Factorization Machine (FFM).
 * [LightFM ★1239](https://github.com/lyst/lightfm) - A Python implementation of a number of popular recommendation algorithms.
 * [surprise](http://surpriselib.com) - A scikit for building and analyzing recommender systems.
+* [TensorRec ★103](https://github.com/jfkirk/tensorrec) - A Recommendation Engine Framework in TensorFlow.
 
 ## RESTful API
 

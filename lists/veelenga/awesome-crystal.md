@@ -455,7 +455,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [GDAX ★0](https://github.com/mccallofthewild/gdax) - GDAX REST and WebSocket API Wrapper with request signing
  * [gitlab.cr ★9](https://github.com/icyleaf/gitlab.cr) - GitLab API wrapper
  * [google_maps_api ★7](https://github.com/fridgerator/google_maps_api) - Google Maps API
- * [hncr ★1](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
+ * [hncr ★1 ⏳1Y](https://github.com/Gangwolf/hncr) - A Hacker News API wrapper
  * [mixpanel-crystal ★0](https://github.com/petoem/mixpanel-crystal) - A library for sending events to Mixpanel
  * [nexmo-crystal ★1 ⏳1Y](https://github.com/timcraft/nexmo-crystal) - [Nexmo REST API](https://developer.nexmo.com/) client
  * [ocean_kit ★4](https://github.com/osfx/ocean_kit) - [Digital Ocean v2 API](https://developers.digitalocean.com/documentation/v2/) client

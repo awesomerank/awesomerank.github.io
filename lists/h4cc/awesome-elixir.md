@@ -601,7 +601,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [arc ★653](https://github.com/stavro/arc) - Flexible file upload and attachment library for Elixir.
 * [cassius ★7 ⏳1Y](https://github.com/jquadrin/cassius) - Monitor Linux file system events.
-* [dir_walker ★20](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
+* [dir_walker ★20 ⏳1Y](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 * [elixgrep ★27](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
 * [ex_guard ★52](https://github.com/slashmili/ex_guard) - ExGuard is a mix command to handle events on file system modifications.
 * [ex_minimatch ★8 ⏳2Y](https://github.com/gniquil/ex_minimatch) - Globbing paths without walking the tree!.

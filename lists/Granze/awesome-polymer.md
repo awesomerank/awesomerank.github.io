@@ -29,10 +29,10 @@ title: Awesome Rank for Granze/awesome-polymer
 
 ## Tutorials/Guides
 * [Official Codelabs](https://codelabs.developers.google.com/polymer-summit)
-* [Test your elements](https://www.polymer-project.org/1.0/tools/tests.html)
+* [Test your elements](https://www.polymer-project.org/2.0/docs/tools/tests)
 * [Testing Tips](https://medium.com/google-developer-experts/polymer-testing-tips-f217ba94a64)
 * [Unit Testing](https://medium.com/@granze/polymer-unit-testing-d6a69910dc31)
-* [Deploy with Firebase](https://www.polymer-project.org/1.0/docs/start/psk/deploy.html)
+* [Deploy with Firebase](https://www.polymer-project.org/2.0/start/toolbox/deploy)
 * [Migration guide](https://www.polymer-project.org/1.0/docs/migration.html)
 * [Using elements](https://elements.polymer-project.org/guides/using-elements)
 * [Flexbox layout with iron-flex-layout](https://elements.polymer-project.org/guides/flex-layout)
@@ -40,6 +40,7 @@ title: Awesome Rank for Granze/awesome-polymer
 * [Build a real-time to-do app](https://scotch.io/tutorials/build-a-real-time-polymer-to-do-app)
 * [Taming Polymer with SystemJS and TypeScript](http://blog.charto.net/typescript/Taming-Polymer-with-SystemJS-and-TypeScript-part-1/) Part 1
 * [Aurelia Integration](http://aurelia.io/hub.html#/doc/article/aurelia/framework/latest/integrating-with-polymer)
+* [Polymer 3.0 Preview — Building a mini card game](https://medium.com/@jecelynyeen/polymer-3-0-preview-building-a-mini-card-game-ce8948265fd6)
 
 ## Articles
 * [Encapsulated Routing with Elements](https://www.polymer-project.org/1.0/articles/routing.html)

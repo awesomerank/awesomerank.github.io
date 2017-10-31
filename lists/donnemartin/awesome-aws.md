@@ -853,7 +853,7 @@ Community Repos:
 * [sorentwo/carrierwave-aws :fire::fire: ★280](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
 * [spring-projects/aws-maven :fire: ★170](https://github.com/spring-projects/aws-maven) -  Maven Wagon for S3.
 * [tongwang/s3fs-c :fire: ★128 ⏳4Y](https://github.com/tongwang/s3fs-c) - Mounts buckets for use on a local file system.
-* [twpayne/s3-parallel-put :fire:](https://github.com/twpayne/s3-parallel-put) - CLI that supports parallel uploads.
+* [twpayne/s3-parallel-put :fire::fire:](https://github.com/twpayne/s3-parallel-put) - CLI that supports parallel uploads.
 * [waynehoover/s3_direct_upload :fire::fire::fire: ★618](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
 * [weavejester/clj-aws-s3 :fire: ★196](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
 
@@ -955,7 +955,7 @@ AWS Repos:
 * [aws-quickstart](https://github.com/aws-quickstart/) - Official repository for AWS Quick Start.
 * [aws-spot-labs :fire:](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
 * [aws-training-demo ★86](https://github.com/awslabs/aws-training-demo) - Demos from the Technical Trainers community.
-* [java-meme-generator-sample ★37 ⏳3Y](https://github.com/awslabs/java-meme-generator-sample) - Meme generation app from re:Invent 2012.
+* [java-meme-generator-sample ★37 ⏳4Y](https://github.com/awslabs/java-meme-generator-sample) - Meme generation app from re:Invent 2012.
 * [railsconf2013-tech-demo :fire: ★166 ⏳4Y](https://github.com/awslabs/railsconf2013-tech-demo) - Seahorse demo from RailsConf 2013.
 * [reinvent2013-js-blog-demo ★26 ⏳1Y](https://github.com/awslabs/reinvent2013-js-blog-demo) - Demo blogging app from re:Invent 2013.
 * [reinvent2013-mobile-photo-share ★20 ⏳1Y](https://github.com/awslabs/reinvent2013-mobile-photo-share) - Mobile photo share app from re:Invent 2014.

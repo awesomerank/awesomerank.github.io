@@ -196,7 +196,7 @@ Misc Tools
 Research Papers
 ----
 1. [Exploit Database](https://www.exploit-db.com/papers/) 
-2. [Android security related presentations ★77 ⏳2Y](https://github.com/jacobsoo/AndroidSlides)
+2. [Android security related presentations ★77 ⏳3Y](https://github.com/jacobsoo/AndroidSlides)
 3. [A good collection of static analysis papers](https://tthtlc.wordpress.com/2011/09/01/static-analysis-of-android-applications/)
 
 Books

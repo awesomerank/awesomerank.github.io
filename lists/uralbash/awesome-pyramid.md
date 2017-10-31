@@ -118,7 +118,7 @@ based on [awesome-python ★39191](https://github.com/vinta/awesome-python).
   [providers ★2700](https://github.com/omab/python-social-auth#auth-providers).
 * [Authomatic ★821](https://github.com/authomatic/authomatic) -  Simple yet powerful
   authorization / authentication client library for Python web applications.
-* [apex ★92 ⏳2Y](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project,
+* [apex ★92 ⏳3Y](https://github.com/cd34/apex) - Toolkit for Pyramid, a Pylons Project,
   to add Authentication and Authorization using Velruse (OAuth) and/or a local
   database, CSRF, ReCaptcha, Sessions, Flash messages and I18N.
 * [pyramid_authsanity ★10](https://github.com/usingnamespace/pyramid_authsanity) -
