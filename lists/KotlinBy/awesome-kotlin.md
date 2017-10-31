@@ -492,6 +492,7 @@ Here awesome badge for your project:
 * [rakshakhegde/ObservableFlow ★13](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
 * [programmerr47/ganalytics ★4](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
 * [line/clay ★56](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
+* [WindSekirun/RichUtilsKt ★30](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 * [nekocode/kotgo](https://github.com/nekocode/kotgo) - An android development framwork on kotlin using MVP architecture.

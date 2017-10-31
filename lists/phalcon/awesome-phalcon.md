@@ -205,7 +205,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *Mail services.*
 
-* [Phalcon Mailer ★42](https://github.com/vanchelo/phalcon-mailer) - Phalcon Mailer Service
+* [Phalcon Mailer ★42 ⏳1Y](https://github.com/vanchelo/phalcon-mailer) - Phalcon Mailer Service
 * [Phalcon Mailer ★27](https://github.com/phalcon-ext/mailer) - Mailer component wrapper over SwiftMailer for Phalcon Framework
 * [phalconphp-mandrill](https://bitbucket.org/tartan/phalconphp-mandrill) - Mandrill wrapper for Phalcon Framework
 * [sendmail ★7](https://github.com/duythien/sendmail) - Sending Confirmation Emails with Phalcon PHP Framework and Swift

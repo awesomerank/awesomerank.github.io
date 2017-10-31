@@ -871,6 +871,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Introducing Jazz - T-Mobile's serverless development platform](https://medium.com/@dev.satishm/introducing-jazz-t-mobiles-serverless-development-platform-da4c27aaf855) - Announcement blog post about T-Mobile's serverless development platform called [Jazz ★24](https://github.com/tmobile/jazz).
 - [AWS Lambda and Kinesis streams at busuu](https://tech.busuu.com/going-serverless-aws-lambda-and-kinesis-streams-at-busuu-1434afe62041) - How busuu started the transition to a serverless architecture.
 - [Amtrak rolls past containers into a serverless infrastructure](https://thenewstack.io/amtrak-rolls-past-containers-serverless/) - How Amtrak uses serverless technologies to power their business.
+- [Many-faced threats to serverless security](https://hackernoon.com/many-faced-threats-to-serverless-security-519e94d19dba) - Post about different security threats for serverless applications.
+- [Serverless is about automation, not functions](https://hackernoon.com/serverless-is-about-automation-not-functions-3f816c90ce61) - Post which shows how serverless makes automation easier.
 
 ## Screencasts
 
@@ -1465,7 +1467,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Include dependencies ★42](https://github.com/dougmoscrop/serverless-plugin-include-dependencies) - Explicitly include packages in your `node_modules` folder.
 - [Subscription filter ★4 ⏳1Y](https://github.com/blackevil245/serverless-subscription-filter) - Register subscription filter for Lambda logs.
 - [Snyk plugin ★24](https://github.com/Snyk/serverless-snyk) - Plugin for securing your dependencies with Snyk.
-- [CloudWatch logging subscriptions ★1](https://github.com/TicketSolutionsPtyLtd/serverless-plugin-cloudwatch-logging-subscriptions) - Adds CloudWatch log subscriptions for each function in a Serverless service.
+- [CloudWatch logging subscriptions ★1 ⏳1Y](https://github.com/TicketSolutionsPtyLtd/serverless-plugin-cloudwatch-logging-subscriptions) - Adds CloudWatch log subscriptions for each function in a Serverless service.
 - [Crypt ★43](https://github.com/marcy-terui/serverless-crypt) - Securing Serverless secrets by AWS KMS encryption.
 - [Diff ★12](https://github.com/nicka/serverless-plugin-diff) - Compares your local AWS CloudFormation templates against deployed ones.
 - [Rollback function ★4 ⏳1Y](https://github.com/marcy-terui/serverless-rollback-function) - Rollback a single function.

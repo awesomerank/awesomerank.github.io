@@ -1522,7 +1522,7 @@ Most of these are paid services, some have free tiers.
 * [ALTextInputBar ★182](https://github.com/AlexLittlejohn/ALTextInputBar) - An auto growing text input bar for messaging apps. :large_orange_diamond:
 * [APCustomBlurView ★151 ⏳1Y](https://github.com/collinhundley/APCustomBlurView) - A subclass of UIVisualEffectView with customizable blur radius. :large_orange_diamond:
 * [BAFluidView ★1268](https://github.com/antiguab/BAFluidView) - UIView that simulates a 2D view of a fluid in motion
-* [WZDraggableSwitchHeaderView ★510](https://github.com/wongzigii/WZDraggableSwitchHeaderView) - :hammer: Showing status for switching between viewControllers
+* [WZDraggableSwitchHeaderView ★510 ⏳1Y](https://github.com/wongzigii/WZDraggableSwitchHeaderView) - :hammer: Showing status for switching between viewControllers
 * [MICountryPicker ★74](https://github.com/mustafaibrahim989/MICountryPicker) - Swift country picker with search option. :large_orange_diamond:
 * [SCNavigationControlCenter ★393 ⏳1Y](https://github.com/SergioChan/SCNavigationControlCenter) - This is an advanced navigation control center on iOS that can allow you to navigate to whichever view controller you want
 * [SCTrelloNavigation ★780](https://github.com/SergioChan/SCTrelloNavigation) - :clipboard: An iOS native implementation of a Trello Animated Navagation.

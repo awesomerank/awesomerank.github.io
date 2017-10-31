@@ -92,7 +92,7 @@ Graphics
 
 #### Spritesheet Tools
 
-* :tada: [Cheetah-Texture-Packer ★127](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
+* :tada: [Cheetah-Texture-Packer ★127 ⏳1Y](https://github.com/scriptum/Cheetah-Texture-Packer) - High efficient and fast 2D bin packing tool
 * :free: [GraphicsGale](http://www.humanbalance.net/gale/us/) - Animation graphic editor easy to use.
 * :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 * :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
