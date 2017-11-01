@@ -77,7 +77,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [alonetone ★179](https://github.com/sudara/alonetone) - an independent music platform, allowing musicians to host and distribute their music in a non-commercial, easy-to-use environment. [Live](https://alonetone.com)
 - [AsakusaSatellite ★92](https://github.com/codefirst/AsakusaSatellite) - A realtime chat application for developers [Live](https://www.codefirst.org/AsakusaSatellite)
 - [askaway ★32](https://github.com/askaway/askaway) - Ask New Zealand's political parties your questions this election  [Live](https://nzelection.askaway.org.nz)
-- [Beatstream ★112](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere  
+- [Beatstream ★112 ⏳1Y](https://github.com/Darep/Beatstream) -  App for streaming music from any computer running Ruby on Rails to anywhere  
 - [bike_index ★130](https://github.com/bikeindex/bike_index) -  An online bike registry [Live](https://bikeindex.org)
 - [brimir ★1323](https://github.com/ivaldi/brimir) -  Email helpdesk built using Ruby on Rails and Zurb Foundation
 - [calagator ★345](https://github.com/calagator/calagator) - An event aggregator based in Portland, OR

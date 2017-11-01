@@ -277,7 +277,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Protobuf ★20445](https://github.com/google/protobuf) - Google's data interchange format.
 * [SBE ★1194](https://github.com/real-logic/simple-binary-encoding) - Simple Binary Encoding, one of the fastest message formats around.
 * [Tape ★1926](https://github.com/square/tape) - A lightning-fast, transactional, file-based FIFO.
-* [Wire ★2136](https://github.com/square/wire) - Clean, lightweight protocol buffers.
+* [Wire ★2168](https://github.com/square/wire) - Clean, lightweight protocol buffers.
 
 ## Date and Time
 
@@ -385,7 +385,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [derive4j ★290](https://github.com/derive4j/derive4j) - Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching and morphisms.
 * [Fugue](https://bitbucket.org/atlassian/fugue) - Functional extensions to Guava.
 * [Functional Java](http://www.functionaljava.org) - Implements numerous basic and advanced programming abstractions that assist composition-oriented development.
-* [jOOλ ★1094](https://github.com/jOOQ/jOOL) - Extension to Java 8 that aims to fix gaps in lambda by providing numerous missing types and a rich set of sequential Stream API additions.
+* [jOOλ ★1117](https://github.com/jOOQ/jOOL) - Extension to Java 8 that aims to fix gaps in lambda by providing numerous missing types and a rich set of sequential Stream API additions.
 * [protonpack ★310](https://github.com/poetix/protonpack) - Collection of stream utilities.
 * [StreamEx ★709](https://github.com/amaembo/streamex) - Enhances Java 8 Streams.
 * [Vavr](http://www.vavr.io/) - Functional component library that provides persistent data types and functional control structures.

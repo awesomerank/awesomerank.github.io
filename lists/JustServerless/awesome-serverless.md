@@ -808,7 +808,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [How to deploy multiple micro-services under one API](https://serverless.com/blog/api-gateway-multiple-services/) - Post on how to deploy multiple micro-services under one API domain with the Serverless Framework.
 - [Serverless monitoring - the good, the bad and the ugly](https://serverless.com/blog/serverless-monitoring-the-good-the-bad-and-the-ugly/) - How to setup and operate a monitoring and logging system for serverless applications.
 - [What's next for the serverless platform?](https://thenewstack.io/whats-next-serverless-platform/) - Post by Austen Collins about the future of serverless computing and the road ahead for Serverless, inc.
-- [Introducing live debugging in AWS Lambda](https://www.trek10.com/blog/aws-lambda-debugger/) - Post which introduces and explains the [AWS Lambda debugger ★167](https://github.com/trek10inc/aws-lambda-debugger) project.
+- [Introducing live debugging in AWS Lambda](https://www.trek10.com/blog/aws-lambda-debugger/) - Post which introduces and explains the [AWS Lambda debugger ★188](https://github.com/trek10inc/aws-lambda-debugger) project.
 - [Processing 100,000 events per second on Azure Functions](https://blogs.msdn.microsoft.com/appserviceteam/2017/09/19/processing-100000-events-per-second-on-azure-functions/) - Post about an example event processing pipeline built with Azure Functions.
 - [Enable API Gateway caching on request parameters](https://medium.com/@theburningmonk/serverless-1-x-enable-api-gateway-caching-on-request-parameters-894b31762068) - How to enable API Gateway caching on request parameters for Serverless v1.x.
 - [Versioning in AWS Lambda](https://medium.com/aaptiv-engineering/https-medium-com-aaptiv-engineering-getting-started-with-versioning-in-aws-lambda-92c617e2f5f1) - How to properly use AWS Lambda versioning.
@@ -1427,7 +1427,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Derek ★110](https://github.com/alexellis/derek) - A serverless bot to manage PRs and issues.
 - [Serverless By Design ★39](https://github.com/danilop/ServerlessByDesign) - Visual tool to create serverless architectures.
 - [Serverless Blog](https://serverlessblog.com) - Run your blog on AWS Lambda using [Flask-Blogging ★353](https://github.com/gouthambs/Flask-Blogging).
-- [AWS Lambda debugger ★167](https://github.com/trek10inc/aws-lambda-debugger) - Debugging support for AWS Lambda Node 6.10.
+- [AWS Lambda debugger ★188](https://github.com/trek10inc/aws-lambda-debugger) - Debugging support for AWS Lambda Node 6.10.
 - [Pyroclast](http://pyroclast.io) - Turn event streams into (micro)services.
 - [Serverless Atom dashboard ★4](https://github.com/horike37/serverless-dashboard-for-atom) - Atom plugin which implements a dashboard for Serverless Framework applications.
 - [ReadMe Build](https://readme.build) - Build flexible, powerful APIs in seconds.

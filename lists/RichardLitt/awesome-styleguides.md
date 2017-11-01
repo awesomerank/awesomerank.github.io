@@ -108,7 +108,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Sun](http://javascript.crockford.com/javacodeconventions.pdf)
 
 ## Javascript
-* [AirBnB ★58921](https://github.com/airbnb/javascript)
+* [AirBnB ★60333](https://github.com/airbnb/javascript)
 * [bevacqua's JS sg ★2398](https://github.com/bevacqua/js)
 * [feross/standard](https://github.com/feross/standard)
 * [Google](https://google.github.io/styleguide/jsguide.html)
@@ -122,7 +122,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 ### AngularJS
 * [gocardless ★1533 ⏳1Y](https://github.com/gocardless/angularjs-style-guide)
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
-* [johnpapa's opinionated sg for  AngularJS ★23277](https://github.com/johnpapa/angular-styleguide)
+* [johnpapa's opinionated sg for  AngularJS ★23354](https://github.com/johnpapa/angular-styleguide)
 * [mgechev's community best practices ★4990](https://github.com/mgechev/angularjs-style-guide)
 * [srph's AngularJS structure sg ★282 ⏳1Y](https://github.com/srph/angularjs-structure-styleguide)
 * [Todd Motto's for AngularJS ★5833](https://github.com/toddmotto/angularjs-styleguide)

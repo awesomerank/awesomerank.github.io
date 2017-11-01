@@ -154,6 +154,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [scimitar ★2](https://github.com/tompko/scimitar) - Rust.
 - [FunGBC ★7](https://github.com/andreasjhkarlsson/fungbc) - F#.
 - [barnacleboy ★23](https://github.com/rep-nop/barnacleboy) - Rust.
+- [node-gameboy ★5](https://github.com/nakardo/node-gameboy) - Node.js.
 
 
 ## Software Development
@@ -202,6 +203,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [assemblydigest ★38 ⏳3Y](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques.
 - [Reverse Engineering for Beginners](https://beginners.re/) - Free ebook (1060 pages) by Dennis Yurichev.
 - [FlappyBoy: Making a simple Game Boy Game](http://voidptr.io/blog/2017/01/21/GameBoy.html)
+- [bootstrap.gb ★13](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
 
 #### Glitches and exploits
 - [DMA hijacking](https://github.com/avivace/awesome-gbdev/blob/master/articles/dma_hijacking.md) - A simple technique that allows you to run custom code in most GB/SGB/CGB games, provided you have an ACE exploit. [Demo video](http://gbdev.gg8.se/forums/viewtopic.php?id=430).

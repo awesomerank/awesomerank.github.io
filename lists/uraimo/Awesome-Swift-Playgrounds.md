@@ -71,7 +71,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Swifter Tips ★86 ⏳1Y](https://github.com/swifter-tips/Playground) - Examples for every feature of the Swift language.
 * [About Swift ★23](https://github.com/NicolaLancellotti-About/About-Swift) - A playground about Swift language.
 * [MPCS51032 UChicago iOS Course ★3](https://github.com/uchicago-mobi/mcps51032-2017-spring-playground) - Playgrounds from the 2017 Spring iOS course of the University of Chicago.
-* [What's new in Swift 4 ★1702](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟 
+* [What's new in Swift 4 ★1759](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showing off the new features in Swift 4.0. 🍁 🌟 
 
 ## Learning Swift: Advanced Topics
 *Advanced topics, useful once you have mastered the basics of the language*

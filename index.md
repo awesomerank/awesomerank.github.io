@@ -276,7 +276,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Machine Learning ★26231](lists/josephmisiti/awesome-machine-learning.md)
 	- [Tutorials ★5053](lists/ujjwalkarn/Machine-Learning-Tutorials.md)
 	- [ML with Ruby ★673](lists/arbox/machine-learning-with-ruby.md) - Learning, implementing, and applying Machine Learning using Ruby.
-	- [Core ML Models ★1400](lists/likedan/Awesome-CoreML-Models.md) - Models for Apple's machine learning framework.
+	- [Core ML Models ★1647](lists/likedan/Awesome-CoreML-Models.md) - Models for Apple's machine learning framework.
 - [Speech and Natural Language Processing ★1579 ⏳1Y](lists/edobashira/speech-language-processing.md)
 	- [Spanish ★111 ⏳1Y](lists/dav009/awesome-spanish-nlp.md)
 	- [NLP with Ruby ★644](lists/arbox/nlp-with-ruby.md)

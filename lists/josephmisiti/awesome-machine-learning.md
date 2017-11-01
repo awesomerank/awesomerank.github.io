@@ -1319,7 +1319,7 @@ be
 * [Swift Brain ★296](https://github.com/vlall/Swift-Brain) - The first neural network / machine learning library written in Swift. This is a project for AI algorithms in Swift for iOS and OS X development. This project includes algorithms focused on Bayes theorem, neural networks, SVMs, Matrices, etc..
 * [Perfect TensorFlow ★88](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
 * [Awesome CoreML](https://github.com/NilStack/awesome-CoreML-models) - A curated list of pretrained CoreML models
-* [Awesome Core ML Models ★1400](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
+* [Awesome Core ML Models ★1647](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.
 
 <a name="tensor"></a>
 ## TensorFlow

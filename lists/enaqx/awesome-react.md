@@ -731,6 +731,8 @@ A collection of awesome things regarding React ecosystem.
 * [Fluxible ★1767](https://github.com/yahoo/fluxible)
 * [NuclearJS ★1794](https://github.com/optimizely/nuclear-js)
 * [Flummox ★1644](https://github.com/acdlite/flummox)
+* [Coflux ★11 ⏳1Y](https://github.com/blainekasten/coflux)
+* [MobX ★11524](https://github.com/mobxjs/mobx)
 
 #### Flux Tutorials
 * [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)

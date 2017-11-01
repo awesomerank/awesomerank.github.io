@@ -308,7 +308,7 @@ These frameworks make customizing your zsh setup easier.
 * [fzf-widgets](https://github.com/ytet5uy4/fzf-widgets) - Adds some ZLE widgets for [fzf ★10323](https://github.com/junegunn/fzf).
 * [fzf-z ★14](https://github.com/andrewferrier/fzf-z) - Brings together the *z* plugin and *fzf* to allow you to easily browse recently used directories at any point on the command line.
 * [geeknote ★11 ⏳1Y](https://github.com/s7anley/zsh-geeknote) - Geeknote plugin for ZSH.
-* [get-jquery ★0 ⏳2Y](https://github.com/voronkovich/get-jquery.plugin.zsh) - Plugin for fast downloading jQuery library from [code.jquery.com](code.jquery.com).
+* [get-jquery ★0 ⏳3Y](https://github.com/voronkovich/get-jquery.plugin.zsh) - Plugin for fast downloading jQuery library from [code.jquery.com](code.jquery.com).
 * [ghost-zeus ★3 ⏳3Y](https://github.com/fontno/ghost_zeus) - Lets you use zeus with normal rails commands.
 * [gimme ★0](https://github.com/folixg/gimme-ohmyzsh-plugin) - Manage Go installations with gimme.
 * [git-add-remote ★7 ⏳1Y](https://github.com/caarlos0/git-add-remote) - Easily add the upstream remote to your git fork.
@@ -544,7 +544,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [umake ★0](https://github.com/zlsun/umake) - Tab completion for Ubuntu umake
 * [vert.x-omz-plugin ★0 ⏳1Y](https://github.com/davidafsilva/vert.x-omz-plugin) - Provides autocomplete features for the [vertx](http://vertx.io/) command.
 * [zsh-_url-httplink ★2 ⏳4Y](https://github.com/Valodim/zsh-_url-httplink) - Extends zsh's \_urls completion, allowing it to complete urls from html pages.
-* [zsh-better-npm-completion ★86](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for `npm`.
+* [zsh-better-npm-completion ★96](https://github.com/lukechilds/zsh-better-npm-completion) - Better completion for `npm`.
 * [zsh-cabal-completion ★0 ⏳2Y](https://github.com/ehamberg/zsh-cabal-completion) - Add tab completion for cabal.
 * [zsh-completions ★1774](https://github.com/zsh-users/zsh-completions) - A collection of extra completions for ZSH.
 * [zsh-ipfs ★5 ⏳1Y](https://github.com/aramboi/zsh-ipfs) - Completions for the [Interplanetary File System](https://ipfs.io).

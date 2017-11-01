@@ -101,7 +101,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ## iOS tools
 - [BEMSimpleLineGraph ★2633](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
-- [Charts ★15950](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
+- [Charts ★16206](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
 - [JBChartView ★3722](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
 - [PNChart ★8847](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
 

@@ -602,7 +602,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [intro.js ★15859](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 * [shepherd ★5283](https://github.com/HubSpot/shepherd) - Guide your users through a tour of your app.
 * [bootstrap-tour ★3937](https://github.com/sorich87/bootstrap-tour) - Quick and easy product tours with Twitter Bootstrap Popovers.
-* [tourist ★1202 ⏳1Y](https://github.com/easelinc/tourist) - Simple, flexible tours for your app.
+* [tourist ★1202 ⏳2Y](https://github.com/easelinc/tourist) - Simple, flexible tours for your app.
 * [chardin.js ★4602 ⏳1Y](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps.
 * [pageguide ★869](https://github.com/tracelytics/pageguide) - An interactive guide for web page elements using jQuery and CSS3.
 * [hopscotch ★3809](https://github.com/linkedin/hopscotch) - A framework to make it easy for developers to add product tours to their pages.
