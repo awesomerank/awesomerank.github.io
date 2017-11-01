@@ -164,7 +164,7 @@ Additional lists you might find useful:
 
 - [Environments plugin ★48 ⏳1Y](https://github.com/josegonzalez/cakephp-environments) - Plugin to handle environments.
 - [Gourmet/Aroma plugin ★11 ⏳1Y](https://github.com/gourmet/aroma) - Database based configuration.
-- [Settings plugin ★22](https://github.com/cakemanager/cakephp-settings) - A plugin to manage your settings via your database.
+- [Settings plugin ★22 ⏳1Y](https://github.com/cakemanager/cakephp-settings) - A plugin to manage your settings via your database.
 - [Setup plugin ★28](https://github.com/dereuromark/cakephp-setup) - Plugin to handle very basic environments.
 
 ## Files

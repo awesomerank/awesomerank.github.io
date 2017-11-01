@@ -437,7 +437,7 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-cfn-custom-resource-examples ★53 ⏳3Y](https://github.com/awslabs/aws-cfn-custom-resource-examples) - Custom resource examples.
+* [aws-cfn-custom-resource-examples ★53 ⏳4Y](https://github.com/awslabs/aws-cfn-custom-resource-examples) - Custom resource examples.
 * [aws-cfn-resource-bridge ★69 ⏳2Y](https://github.com/aws/aws-cfn-resource-bridge) - Custom resource framework.
 * [cfncluster-cookbook ★24](https://github.com/awslabs/cfncluster-cookbook) - Sample Cookbook.
 * [cfncluster :fire::fire: ★240](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.

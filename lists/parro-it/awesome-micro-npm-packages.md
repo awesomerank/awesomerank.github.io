@@ -115,7 +115,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 ### Stream
 * [through2 ★1205](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
 * [through2-filter ★19 ⏳2Y](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
-* [through2-map ★53](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams.
+* [through2-map ★53 ⏳1Y](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams.
 * [stream-spigot ★15](https://github.com/brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams.
 * [concat-stream ★421](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
 * [JSONStream ★1312](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify

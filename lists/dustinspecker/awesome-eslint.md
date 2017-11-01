@@ -54,7 +54,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Backbone ★91](https://github.com/ilyavolodin/eslint-plugin-backbone) - Linting rules for Backbone
 - [Chai ★7 ⏳1Y](https://github.com/turbo87/eslint-plugin-chai-expect) - Linting rules for Chai
 - [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember
-- [Hapi ★16 ⏳1Y](https://github.com/continuationlabs/eslint-plugin-hapi) – Linting rules for hapi
+- [Hapi ★16 ⏳2Y](https://github.com/continuationlabs/eslint-plugin-hapi) – Linting rules for hapi
 - [Jasmine ★42](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine
 - [Jest](https://github.com/facebook/jest/tree/master/packages/eslint-plugin-jest) - Linting rules for Jest
 - [JSDoc ★104](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments

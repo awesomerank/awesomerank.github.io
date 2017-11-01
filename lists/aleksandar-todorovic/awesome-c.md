@@ -77,6 +77,7 @@ These are tools to automate the building and testing of projects in C.
 * [Jam][334] - Build system, designed to be easier than make. Understands C build rules implicitly. [[Jam License][335]]
 * [Libtool][172] - Generic library support script. Part of the Autotools. [[GNU GPL3][41] or later]
 * [Meson][368] - Extremely fast, user-friendly build system. Based on Ninja. [[Apache2.0][32]]
+* [Premake][403] - Build script generator for toolsets like Visual Studio, Xcode, or GNU Make. [[3-clause BSD][6]]
 
 ## Compilers ##
 
@@ -944,7 +945,9 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [399]: https://github.com/koanlogic/klone
 [400]: https://github.com/liteserver/binn
 [401]: https://github.com/raysan5/raylib
-[402]: https://github.com/vurtun/nuklear---
+[402]: https://github.com/vurtun/nuklear
+[403]: https://github.com/premake/premake-core
+---
 <p align="center">
 	This list is a copy of <a href="https://github.com/aleksandar-todorovic/awesome-c">aleksandar-todorovic/awesome-c</a> with ranks
 </p>

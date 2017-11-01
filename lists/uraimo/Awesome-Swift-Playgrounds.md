@@ -137,7 +137,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Function Composition in Swift ★38](https://github.com/ijoshsmith/function-composition-in-swift) - Exploration of function composition in Swift. 🌟
 * [Swift Adventures in Monad Land ★159 ⏳1Y](https://github.com/alskipp/Swift-Adventures-In-Monad-Land) - Learn about monads.
 * [Functional Design Patterns ★3](https://github.com/cmvicentehe/FunctionalProgrammingDesignPatterns) - A few functional programming concept and patterns.
-* [Learn about transducers ★78 ⏳2Y](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers. ⏳ 
+* [Learn about transducers ★78 ⏳3Y](https://github.com/mbrandonw/learn-transducers-playground) - A little tutorial that explains transducers. ⏳ 
 * [Swift Functors, Applicatives, and Monads in Pictures ★55](https://github.com/mokacoding/Swift-Functors-Applicative-Monads-In-Pictures-Playground) - Companion to the article: Swift Functors, Applicatves, and Monads in Pictures. ⏳ 
 * [Functors in Swift ★7 ⏳2Y](https://github.com/mokagio/Swift-Functor-Introduction-Playground) - A playground to introduce Functors in Swift, and their practical usage. ⏳ 
 

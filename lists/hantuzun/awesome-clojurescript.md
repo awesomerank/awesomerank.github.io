@@ -94,7 +94,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [Dominator ★72 ⏳2Y](https://github.com/dubiousdavid/dominator) – Virtual-Dom in ClojureScript.
 - [Dommy ★738 ⏳1Y](https://github.com/plumatic/dommy) – A no-nonsense ClojureScript templating and DOM manipulation library.
 - [Enfocus](http://ckirkendall.github.io/enfocus-site/) – A DOM manipulation and templating library for ClojureScript inspired by Enlive.
-- [Freactive ★370 ⏳1Y](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
+- [Freactive ★370 ⏳2Y](https://github.com/aaronc/freactive) – A high-performance, pure Clojurescript, declarative DOM library inspired by reagent, om, reflex and hiccup.
 - [Hiccups ★148](https://github.com/teropa/hiccups) – A ClojureScript port of the Hiccup.
 - [Hickory ★302](https://github.com/davidsantiago/hickory) – It parses HTML into Clojure data structures, so you can analyze, transform, and output back to HTML.
 - [json-html ★105](https://github.com/yogthos/json-html) – Provide JSON and get a DOM node with a human representation of that JSON.

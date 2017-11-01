@@ -244,7 +244,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Invisible Captcha ★349](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
 * [Rakismet ★332](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
 * [reCAPTCHA ★1338](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
-* [Voight-Kampff ★99](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
+* [Voight-Kampff ★99 ⏳1Y](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
 
 ## CLI Builder
 

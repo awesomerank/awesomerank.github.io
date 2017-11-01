@@ -66,7 +66,7 @@ A curated list of awesome Bioinformatics software, resources, and libraries. Mos
 * __[GNU `parallel`](http://www.gnu.org/software/parallel/)__ - General parallelizer that runs jobs in parallel on a single multi-core machine. [Here](https://www.biostars.org/p/63816/) are some example scripts using GNU `parallel`.
 * __[zindex ★438](https://github.com/mattgodbolt/zindex)__ - Create an index on a compressed text file.
 * __[tabix ★51](https://github.com/samtools/tabix)__ - Table file index.
-* __[wormtable ★19](https://github.com/wormtable/wormtable)__ - Write-once-read-many table for large datasets.
+* __[wormtable ★19 ⏳1Y](https://github.com/wormtable/wormtable)__ - Write-once-read-many table for large datasets.
 * __[grabix ★55](https://github.com/arq5x/grabix)__ - A wee tool for random access into BGZF files.
 * __[BioNode](http://www.bionode.io/)__ - Modular and universal bioinformatics, Bionode provides pipeable UNIX command line tools and JavaScript APIs for bioinformatics analysis workflows.
 

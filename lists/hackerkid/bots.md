@@ -105,6 +105,7 @@ Table of Contents
 
 ###### C#
 * [Discord.Net ★530](https://github.com/RogueException/Discord.Net)
+* [DSharpPlus ★102](https://github.com/NaamloosDT/DSharpPlus)
 
 ###### Python
 * [discord.py ★1443](https://github.com/Rapptz/discord.py)
@@ -117,6 +118,9 @@ Table of Contents
 
 ###### Lua
 * [Discordia ★77](https://github.com/SinisterRectus/Discordia)
+
+###### Go
+* [Discordgo ★387](https://github.com/bwmarrin/discordgo)
 
 ### Kik
 * [Python ★37](https://github.com/kikinteractive/kik-python)

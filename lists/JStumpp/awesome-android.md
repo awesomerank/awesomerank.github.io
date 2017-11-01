@@ -341,7 +341,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 #### Custom Dialog
 
-- [MediaRecorderDialog ★43](https://github.com/alhazmy13/MediaRecorderDialog) - Custom Dialog to record audio, store it and play it in your phone.
+- [MediaRecorderDialog ★43 ⏳1Y](https://github.com/alhazmy13/MediaRecorderDialog) - Custom Dialog to record audio, store it and play it in your phone.
 - [HijriDatePicker ★53](https://github.com/alhazmy13/HijriDatePicker) - offers a hijri (Islamic Calendar) Date Picker designed on Google's Material Design Principals For Pickers.
 - [Noty ★22](https://github.com/emre1512/Noty) - A simple library for creating animated alerts/dialogs/warnings.
 

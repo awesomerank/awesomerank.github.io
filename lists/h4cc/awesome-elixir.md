@@ -1401,7 +1401,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mailgun ★155](https://github.com/chrismccord/mailgun) - Elixir Mailgun Client.
 * [mandrill ★49](https://github.com/slogsdon/mandrill-elixir) - A Mandrill wrapper for Elixir.
 * [marvel ★6 ⏳2Y](https://github.com/bryanjos/marvel) - CLI and Elixir API Client for the Marvel API.
-* [mixpanel ★5](https://github.com/michihuber/mixpanel_ex) - An Elixir client for the Mixpanel HTTP API.
+* [mixpanel ★5 ⏳1Y](https://github.com/michihuber/mixpanel_ex) - An Elixir client for the Mixpanel HTTP API.
 * [mixpanel_data_client ★3 ⏳2Y](https://github.com/jeregrine/mixpanel_data_client) - Client for interacting with the Mixpanel Data Export API.
 * [mmExchangeRate ★0 ⏳2Y](https://github.com/Arkar-Aung/mmExchangeRate) - A simple exchange rate checker and calculator based on Central Bank of Myanmar Api.
 * [nadia ★129](https://github.com/zhyu/nadia) - Telegram Bot API Wrapper written in Elixir.

@@ -309,7 +309,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Boilerplate ★2531 ⏳1Y](https://github.com/jquery-boilerplate/jquery-boilerplate) - A jump-start for jQuery plugins development.
 * [Interlink](https://gist.github.com/Golpha/c5c7ae9b6ed11dc93ce6) - Event interlink plugin.
 * [Sisyphus ★1898](https://github.com/simsalabim/sisyphus) - Gmail-like client-side drafts and bit more.
-* [Slugify ★85 ⏳1Y](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
+* [Slugify ★85 ⏳2Y](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
 * [Readmore.js ★1170](https://github.com/jedfoster/Readmore.js) - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
 * [Yahoo! Emoticons](http://michael-designs.com/yahoo-emoticons-jquery-plugin/) - Yahoo! Emoticons JQuery Plugin.
 * [autoNumberic ★646](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.

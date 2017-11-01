@@ -269,7 +269,7 @@ These frameworks make customizing your zsh setup easier.
 * [completion-generator ★67](https://github.com/RobSis/zsh-completion-generator) - This plugin tries to read the list of options from the help text of programs and generate a completion function automatically. Note that this doesn't do it automatically, you have to explicitly call the generator.
 * [copyzshell ★15](https://github.com/rutchkiwi/copyzshell) - A ZSH plugin to copy your shell configuration to another machine over ssh.
 * [crash ★9](https://github.com/molovo/crash) - Adds proper error handling, exceptions and try/catch for ZSH.
-* [crayon-syntax-zsh ★0 ⏳3Y](https://github.com/Stibbons/crayon-syntax-zsh) - ZSH syntax highlighting for the Crayon Plugin for Wordpress.
+* [crayon-syntax-zsh ★0 ⏳4Y](https://github.com/Stibbons/crayon-syntax-zsh) - ZSH syntax highlighting for the Crayon Plugin for Wordpress.
 * [crystal](https://github.com/veelenga/crystal-zsh) - A plugin for [Crystal](https://github.com/manastech/crystal).
 * [czhttpd ★25 ⏳1Y](https://github.com/jsks/czhttpd) - A simple http server written in 99.9% pure zsh.
 * [deer ★200](https://github.com/Vifon/deer) - A file navigator for zsh heavily inspired by [ranger](http://ranger.nongnu.org/).
@@ -476,6 +476,7 @@ These frameworks make customizing your zsh setup easier.
 * [wd ★180](https://github.com/mfaerevaag/wd) - Warp directory lets you jump to custom directories in zsh, without using cd. Why? Because cd seems inefficient when the folder is frequently visited or has a long path.
 * [yeoman-zsh-plugin ★36](https://github.com/edouard-lopez/yeoman-zsh-plugin) - Edouard Lopez's Yeoman plugin for oh-my-zsh, compatible with yeoman version ≥1.0 (includes options and command auto-completion).
 * [you-should-use ★112](https://github.com/MichaelAquilina/zsh-you-should-use)- ZSH plugin that reminds you to use those aliases you defined.
+* [youtube-dl ★0](https://github.com/joow/youtube-dl) - Simple plugin for [youtube-dl](https://youtube-dl.org/)
 * [zaw ★382](https://github.com/zsh-users/zaw) - ZSH anything.el-like widget.
 * [zce ★27](https://github.com/hchbaw/zce.zsh) - Vim’s EasyMotion / Emacs’s ace-jump-mode for ZSH.
 * [zconvey ★13](https://github.com/zdharma/zconvey) - Adds ability to send commands to other Zsh sessions, you can use this to `cd $PWD` on all active Zshells, for example.
@@ -718,7 +719,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [refined](https://github.com/octarect/refined.zsh) - A ZSH theme focused on simpleness and usefulness.
 * [remiii ★7 ⏳4Y](https://github.com/Remiii/remiii.zsh-theme) - Based on agnoster, optimized for solarized terminal themes.
 * [rummik/zsh-theme ★0 ⏳1Y](https://github.com/rummik/zsh-theme) - Rummik's theme.
-* [rzh ★1](https://github.com/patwhatev/rzh) - Theme with git states indicated by emojis.
+* [rzh ★1 ⏳1Y](https://github.com/patwhatev/rzh) - Theme with git states indicated by emojis.
 * [schminitz](https://gist.github.com/schminitz/9931af23bbb59e772eec) - Shows if Vim is running in the background when using `:sh` command.
 * [seeker ★44 ⏳1Y](https://github.com/tonyseek/oh-my-zsh-seeker-theme) - This theme uses many special unicode characters to be fancy, but it may cause some problems without well supported fonts.
 * [sepshell ★8](https://github.com/sepehr/sepshell) - Clean and minimal ZSH theme based on the old lost taybalt theme, with git bisecting/merging/rebasing modes and configurable prompt symbols.

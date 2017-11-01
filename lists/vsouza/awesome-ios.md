@@ -473,7 +473,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftyTimer ★903](https://github.com/radex/SwiftyTimer) - Swifty API for NSTimer :large_orange_diamond:
 * [DateHelper ★854](https://github.com/melvitax/DateHelper) - Convenience extension for NSDate in Swift :large_orange_diamond:
 * [iso-8601-date-formatter ★599](https://github.com/boredzo/iso-8601-date-formatter) - A Cocoa NSFormatter subclass to convert dates to and from ISO-8601-formatted strings. Supports calendar, week, and ordinal formats.
-* [EmojiTimeFormatter ★73](https://github.com/thomaspaulmann/EmojiTimeFormatter) - Format your dates/times as emojis. :large_orange_diamond:
+* [EmojiTimeFormatter ★73 ⏳1Y](https://github.com/thomaspaulmann/EmojiTimeFormatter) - Format your dates/times as emojis. :large_orange_diamond:
 * [Kronos ★231](https://github.com/lyft/Kronos) - Elegant NTP date library in Swift :large_orange_diamond:
 * [TrueTime ★206](https://github.com/instacart/TrueTime.swift) - Get the true current time impervious to device clock time changes. (NTP library for Swift) . :large_orange_diamond:
 * [10Clock ★432](https://github.com/joedaniels29/10Clock) - This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer. :large_orange_diamond:
@@ -2483,7 +2483,7 @@ Most of these are paid services, some have free tiers.
 * [BuildTimeAnalyzer ★2010](https://github.com/RobertGummesson/BuildTimeAnalyzer-for-Xcode) - Build Time Analyzer for Swift :large_orange_diamond:
 * [Duration ★296](https://github.com/SwiftStudies/Duration) - A simple Swift package for measuring and reporting the time taken for operations :large_orange_diamond:
 * [Benchmark ★59](https://github.com/WorldDownTown/Benchmark) - The Benchmark⏲ module provides methods to measure and report the time used to execute Swift code. :large_orange_diamond:
-* [MBAssetsImporter ★68](https://github.com/MatiBot/MBAssetsImporter) - Import assets from Panoramio or from your macOS file system with their metadata to your iOS simulator (Swift 2.0) :large_orange_diamond:
+* [MBAssetsImporter ★68 ⏳1Y](https://github.com/MatiBot/MBAssetsImporter) - Import assets from Panoramio or from your macOS file system with their metadata to your iOS simulator (Swift 2.0) :large_orange_diamond:
 * [Realm Browser ★430](https://github.com/realm/realm-browser-osx) - Realm Browser is a macOS utility to open and modify realm database files.
 * [SuperDelegate ★386](https://github.com/square/SuperDelegate) – SuperDelegate provides a clean application delegate interface and protects you from bugs in the application lifecycle.
 * [fastlane-plugin-appicon ★159](https://github.com/KrauseFx/fastlane-plugin-appicon) - Generate required icon sizes and iconset from a master application icon.

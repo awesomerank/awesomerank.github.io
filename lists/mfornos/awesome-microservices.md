@@ -322,7 +322,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Registrator ★3260](https://github.com/gliderlabs/registrator) - Service registry bridge for Docker. Supports pluggable service registries, which currently includes Consul, Etcd and SkyDNS 2.
 - [Shaman ★71](https://github.com/nanopack/shaman) - Small, lightweight, api-driven DNS server.
 - [SkyDNS ★1653](https://github.com/skynetservices/skydns) - Distributed service for announcement and discovery of services built on top of etcd. It utilizes DNS queries to discover available services.
-- [SmartStack ★198](https://github.com/airbnb/smartstack-cookbook) - Airbnb's automated service discovery and registration framework.
+- [SmartStack ★198 ⏳1Y](https://github.com/airbnb/smartstack-cookbook) - Airbnb's automated service discovery and registration framework.
 - [Spring Cloud Config](http://cloud.spring.io/spring-cloud-config/) - Provides server and client-side support for externalized configuration in a distributed system.
 - [ZooKeeper](https://zookeeper.apache.org/) - Open source server which enables highly reliable distributed coordination.
 

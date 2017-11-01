@@ -189,6 +189,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [bmp2cgb ★5](https://github.com/gitendo/bmp2cgb) - 8bpp bitmap converter for Gameboy Color development.
 - [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
 - [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - Another Vim syntax highlighting file for RGBDS assembly.
+- [gbdk-lib-extension ★7 ⏳4Y](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Gameboy Development Kit by Michael Hope.
 
 ## Programming Tutorials
 ### ASM
@@ -224,6 +225,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [GBDK Joypad](http://gbdev.gg8.se/wiki/articles/GBDK_Joypad_Tutorial) - Details the use of the joypad with GBDK.
 - [Game Boy home of Flavor](http://www.personal.triticom.com/~erm/GameBoy/) - Some full games and sources.
 - [GBDK Configuring and Programming Tutorial](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/) - Configuring GBDK, Using Tiles, Colliding Sprites, GBTD, GBMB, Memory Management and ROM Banking.
+- [Simplified GBDK examples ★6](https://github.com/mrombout/gbdk_playground)
 
 #### Old articles
 [This](https://github.com/avivace/awesome-gbdev/tree/master/articles/salvage) folder is an historical archive of old articles, FAQs and in general text documents about Game Boy development. These may be wrong or obsolete - they are archived for historical reasons.
@@ -247,7 +249,9 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [Pokémon Christmas](https://github.com/TheFakeMateo/xmas)
 - [Sushi ★2](https://github.com/JustSid/Sushi)
 - [Flappy-boy-asm ★8](https://github.com/bitnenfer/flappy-boy-asm)
+- [kupman ★1](https://github.com/dubvulture/gbdev)
 - [Adjustris ★1](https://github.com/tbsp/Adjustris)
+- [exeman ★4](https://github.com/exezin/exeman)
 
 ### C
 - [flappybird-gb](https://github.com/LuckyLights/flappybird-gb)
@@ -276,7 +280,8 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [Reverse engineering Kirby's Dreamland 2](http://ecc-comp.blogspot.it/2016/03/reverse-engineering-kirbys-dreamland-2.html)
 - [pokemontools ★137](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Gameboy ROM challenge using radare2
-- [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/)
+- [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
+- [Link's Awakening DX Disassembly ★41](https://github.com/mojobojo/LADX-Disassembly)
 
 ## Related sites, posts and projects
 - [ArduinoBoy ★88](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop., and mGB.
@@ -300,6 +305,7 @@ Game Boy Classic fully functional FPGA implementation from scratch
 - [ArduinoGameBoy ★49 ⏳2Y](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 - [gameboy-brainfuck ★4](https://github.com/bitnenfer/gameboy-brainfuck) - 
 Implementation of a brainfuck interpreter.
+- [gb-save-states ★4](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 
 
 ## About

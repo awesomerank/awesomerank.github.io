@@ -289,6 +289,9 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 #### Desktop
 
+*Native desktop applications for managing and montoring docker hosts and clusters*
+
+* [Captain](https://getcaptain.co/) - Manage containers from the MacOSX menu bar by [@RickWong](https://github.com/rickwong)
 * [DockStation ★116](https://github.com/DockStation/dockstation) - A developer centric UI to configure, monitor, and manage services and containers [@dock_station](https://twitter.com/dock_station)
 * [Dockeron ★124](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop. [@fluency03](https://github.com/fluency03)
 * [Lifeboat ★7](https://github.com/jplhomer/lifeboat) - An easy way to launch Docker projects with a graphical interface on your Mac. [@jplhomer](https://github.com/jplhomer)
@@ -332,6 +335,8 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 ### Base Tools
 
+*Tools and applications that are either installed inside containers or designed to be run as a [sidecar](https://docs.microsoft.com/en-us/azure/architecture/patterns/sidecar)*
+
 * [amicontained ★260](https://github.com/jessfraz/amicontained) - Container introspection tool. Find out what container runtime is being used as well as features available by [@jessfraz][jessfraz]
 * [autodock ★41](https://github.com/prologic/autodock) - Daemon for Docker Automation by [@prologic][prologic]
 * [Chaperone ★112](https://github.com/garywiz/chaperone) - A single PID1 process designed for docker containers. Does user management, log management, startup, zombie reaping, all in one small package. by [@garywiz](https://github.com/garywiz)
@@ -346,7 +351,10 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 ### Builder
 
+*Applications designed to help or simplify building **new** images*
+
 * [container-factory ★53 ⏳2Y](https://github.com/mutable/container-factory) - Produces Docker images from tarballs of application source code by [@mutable](https://github.com/mutable)
+* [Derrick ★57](https://github.com/alibaba/derrick) - A tool help you to automate the generation of Dockerfile and dockerize application by scanning the code. By [@alibaba](https://github.com/alibaba). 
 * [dlayer ★68 ⏳1Y](https://github.com/wercker/dlayer) - Stats collector for Docker layers by [@wercker](https://github.com/wercker)
 * [docker-companion ★17](https://github.com/mudler/docker-companion) - A command line tool written in Golang to squash and unpack docker images by [@mudler](https://github.com/mudler/)
 * [docker-make ★57](https://github.com/CtripCloud/docker-make) - Build, tag,and push a bunch of related docker images via a single command.

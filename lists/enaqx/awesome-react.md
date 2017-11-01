@@ -92,7 +92,7 @@ A collection of awesome things regarding React ecosystem.
 - [Flow](#flow)
   - [Flow Resources](#flow-resources)
 - [Videos](#videos)
-  - [Video from Confs](#video-from-confs)
+  - [Video from Confs](#video-from-confs)`
   - [React.js Conf 2015 Playlist](#reactjs-conf-2015-playlist)
   - [ReactEurope Conf 2015 Day 1 Playlist](#reacteurope-conf-2015-day-1-playlist)
   - [ReactEurope Conf 2015 Day 2 Playlist](#reacteurope-conf-2015-day-2-playlist)
@@ -138,12 +138,12 @@ A collection of awesome things regarding React ecosystem.
 * [React Primer ★3700 ⏳1Y](https://github.com/mikechau/react-primer-draft)
 * [ReactJS: Keep Simple. Everything can be a component!](https://speakerdeck.com/pedronauck/reactjs-keep-simple-everything-can-be-a-component)
 * [React.js Koans: Practical exercises that will help you learn React.js from square one ★2920](https://github.com/arkency/reactjs_koans)
-* [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/)
 * [LearnCode React Tutorials](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b)
 * [Thinkster React topics](https://thinkster.io/topics/react)
 * [React tutorial - Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 * [Learn React by building the Hacker News front page ★405 ⏳1Y](https://github.com/mking/react-hn)
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+* [React cheatsheet](https://devhints.io/react)
 
 ##### React styling
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
@@ -156,6 +156,7 @@ A collection of awesome things regarding React ecosystem.
 * [Styletron ★2176](https://github.com/rtsao/styletron)
 * [TypeStyle ★1557](https://github.com/typestyle/typestyle)
 * [styled-components ★10569](https://github.com/styled-components/styled-components)
+* [JSS ★2591](https://github.com/cssinjs/jss)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
@@ -224,6 +225,7 @@ A collection of awesome things regarding React ecosystem.
 * [Golang Isomorphic Hot Reloadable/React/Flummox/Css-Module Starter Kit ★2064](https://github.com/olebedev/go-starter-kit)
 * [Serverside rendering with React + Hapi ★174](https://github.com/jedireza/hapi-react-views)
 * [Isomorphic React apps in PHP via dnode](http://ericescalante.com/2015/06/07/isomorphic/)
+* [React Server Side Rendering with Hypernova](https://blog.larah.me/2017/04/10/react-server-side-rendering/)
 
 ##### Compiling React Tutorials
 * [Webpack Howto by Pete Hunt ★9788](https://github.com/petehunt/webpack-howto)
@@ -237,6 +239,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Debugging React
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
 * [Reactotron: Control, monitor, and instrument](https://github.com/skellock/reactotron)
+* [React-fix-it: Automagically generate tests from errors ★1869](https://github.com/MicheleBertoli/react-fix-it)
 
 ##### Authentication
 * [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
@@ -253,6 +256,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Boilerplates
 * [Create React App ★35740](https://github.com/facebookincubator/create-react-app)
+* [React Boilerplate - Minimalistic boilerplate with React, Redux, Flowtype, Babel and Webpack2](https://github.com/nordsoftware/react-boilerplate)
 * [React App SDK - CLI tools and templates for authoring React apps with a single dev dependency and zero configurations ★388 ⏳1Y](https://github.com/kriasoft/react-app)
 * [React Starter Kit — isomorphic web app boilerplate (Node.js, GraphQL, React, Babel, Webpack, CSS Modules, HMR)](https://github.com/kriasoft/react-starter-kit)
 * [ASP.NET Core Starter Kit (C#) — Frontend: React, Babel, PostCSS, CSS Modules + backend: .NET Core, C#](https://github.com/kriasoft/aspnet-starter-kit)
@@ -269,6 +273,7 @@ A collection of awesome things regarding React ecosystem.
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra ★505](https://github.com/codefoundries/UniversalRelayBoilerplate)
 * [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
 * [Next.js - A minimalistic framework for server-rendered React applications](https://zeit.co/blog/next)
+* [ARc - A progressive React starter kit based on Atomic Design](https://arc.js.org)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -346,7 +351,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-anything-sortable - A sortable component with IE8 compatibility ★365](https://github.com/jasonslyvia/react-anything-sortable)
 * [react-controllables - Easily create controllable components ★238 ⏳2Y](https://github.com/matthewwithanm/react-controllables)
 * [react-datalist - A <datalist> polyfill for Reactjs ★33](https://github.com/asbjornenge/react-datalist)
-* [react-pad - Authoring tool for React components ★3 ⏳3Y](https://github.com/andreypopp/react-pad)
+* [react-pad - Authoring tool for React components ★3 ⏳4Y](https://github.com/andreypopp/react-pad)
 * [ogre.js - Object graph manager, built with ReactJS in mind ★4 ⏳2Y](https://github.com/elucidata/ogre.js)
 * [react-scroll-components - A set of components that react to page scrolling ★117 ⏳1Y](https://github.com/jeroencoumans/react-scroll-components)
 * [react-fullscreen-component - Create fullscreen toggles ★31 ⏳2Y](https://github.com/jeroencoumans/react-fullscreen-component)
@@ -413,7 +418,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-portal - A transportation of (not just) modals and lightboxes to document.body ★1199](https://github.com/tajo/react-portal)
 * [react-hotkeys - Declarative hotkey and focus area management for React ★811](https://github.com/Chrisui/react-hotkeys)
 * [react-data-grid - Data grid for React:Excel-like grid component built with React, with editors, keyboard navigation, copy & paste  ★1971](https://github.com/adazzle/react-data-grid)
-* [react-datagrid - A carefully crafted DataGrid for React](https://github.com/zippyui/react-datagrid)
+* [react-datagrid - A carefully crafted DataGrid for React ★2 ⏳2Y](https://github.com/nishp1/react-datagrid)
 * [react-panels - A multipurpose tabbed panel with many features ★109 ⏳1Y](https://github.com/Theadd/react-panels)
 * [autoresponsive-react - A Magical Layout Libary For React](http://xudafeng.github.io/autoresponsive-react)
 * [Belle - Set of easy to style React Components with great UX](http://nikgraf.github.io/belle/)
@@ -424,7 +429,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-range-slider - Collection of react slider components ★69](https://github.com/jpuri/react-range-slider)
 * [react-ui-tree - React tree component with drag and drop support ★436](https://github.com/pqx/react-ui-tree)
 * [react-frame - React components within an iframe for isolated css styling ★36](https://github.com/pqx/react-frame)
-* [rodal - A React modal with animations](http://rodal.cn)
+* [rodal - A React modal with animations ★364](https://github.com/chenjiahan/rodal)
 * [react-scrollbar - Simple ScrollArea component built for React ★272](https://github.com/souhe/reactScrollbar)
 * [react-experiments - Implement A/B tests with randomized parameterizations of your components ★225](https://github.com/HubSpot/react-experiments)
 * [react-slide-deck - For swipe, tabs, carousel, one page scroll. With animation hooks. tweening, tween callbacks ★65 ⏳1Y](https://github.com/jl-/react-slide-deck)
@@ -455,6 +460,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-offcanvas - Off-canvas menus for React ★10 ⏳1Y](https://github.com/vutran/react-offcanvas)
 * [react-svg-pan-zoom - Adds pan and zoom features to the SVG images](http://chrvadala.github.io/react-svg-pan-zoom/)
 * [react-virtualized - React components for efficiently rendering large lists and tabular data  ★7291](https://github.com/bvaughn/react-virtualized)
+* [react-instantsearch - Search Interface building blocks for Algolia ★255](https://github.com/algolia/react-instantsearch)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system ★301](https://github.com/LouisBarranqueiro/reapop)
@@ -476,6 +482,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-icons - svg react icons of popular icon packs ★1255](https://github.com/gorangajic/react-icons)
 * [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc... ★213](https://github.com/Wildhoney/Keo)
 * [Blueprint - A React-based UI toolkit for the web ★7091](https://github.com/palantir/blueprint)
+* [AtlasKit -  Atlassian's React UI library](https://atlaskit.atlassian.com/)
 
 ##### Integration
 * [ReactJS.NET](http://reactjs.net/)
@@ -554,13 +561,12 @@ A collection of awesome things regarding React ecosystem.
 * [formjs - A form generator for Reactjs ★44 ⏳3Y](https://github.com/zackify/formjs)
 * [react-form-builder - A Form Builder for React.js ★49](https://github.com/quri/react-form-builder)
 * [plexus-form - A dynamic form component for react using JSON-Schema ★125 ⏳2Y](https://github.com/AppliedMathematicsANU/plexus-form)
-* [tcomb-form - UI library for developing forms writing less code](https://gcanti.github.io/tcomb-form)
+* [tcomb-form - UI library for developing forms writing less code ★1063](https://github.com/gcanti/tcomb-form)
 * [formsy-react - A form input builder and validator for React JS ★2288](https://github.com/christianalfoni/formsy-react)
 * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 * [Winterfell - Generate complex, validated and extendable JSON-based forms in React ★565](https://github.com/andrewhathaway/Winterfell)
 * [Redux-Autoform - Create Redux-Forms dynamically out of metadata ★100](https://github.com/redux-autoform/redux-autoform)
 * [uniforms - Bunch of React components and helpers to easily generate and validate forms ★336](https://github.com/vazco/uniforms)
-
 
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro ★14 ⏳2Y](https://github.com/tonyspiro/react-typeahead-search)
@@ -731,7 +737,7 @@ A collection of awesome things regarding React ecosystem.
 * [Flux: A simple architecture model to build Client-side apps](https://speakerdeck.com/pedronauck/flux-a-simple-architecture-model-to-build-client-side-apps)
 * [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
 * [Async requests with React.js and Flux](http://www.code-experience.com/async-requests-with-react-js-and-flux-revisited/)
-* [Implementing Flux in CoffeeScript](http://jamesfriend.com.au/implementing-flux-coffeescript)
+* [Implementing Flux in CoffeeScript](http://archive.is/l9ih6)
 * [React: Flux Architecture](https://egghead.io/series/react-flux-architecture)
 * [Understanding Flux](https://medium.com/@garychambers108/understanding-flux-f93e9f650af7)
 * [Yo in Flux](http://davidandsuzi.com/yo-in-flux/)
@@ -822,6 +828,7 @@ A collection of awesome things regarding React ecosystem.
 #### Testing Utilities
 * [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 * [enzyme - JavaScript Testing utilities for React ★11059](https://github.com/airbnb/enzyme)
+* [chai-immutable - Chai assertions for Facebook's Immutable library for JavaScript collections ★140](https://github.com/astorije/chai-immutable)
 
 ##### Testing Tutorials
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
@@ -845,7 +852,6 @@ A collection of awesome things regarding React ecosystem.
 #### GraphQL Tutorials
 * [GraphQL Introduction](http://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
 * [First Thoughts on GraphQL](http://hueypetersen.com/posts/2015/02/02/first-thoughts-on-graph-ql/)
-* [Learn GraphQL](https://learngraphql.com/)
 * [Modeling Queries in a GraphQL Like Way](http://hueypetersen.com/posts/2015/02/08/modeling-queries-graph-ql-like/)
 * [Thin and Graphy](http://hueypetersen.com/posts/2015/02/22/thin-and-graphy/)
 * [GraphQL and g2sd](https://fistfulofbytes.com/graphql-and-g2sd)
@@ -993,6 +999,7 @@ A collection of awesome things regarding React ecosystem.
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [Fullstack React: The Complete Guide to ReactJS and Friends](https://www.fullstackreact.com/)
+* [React: Up & Running: Building Web Applications](https://www.amazon.com/React-Running-Building-Web-Applications/dp/1491931825)
 
 
 ---
@@ -1029,6 +1036,7 @@ A collection of awesome things regarding React ecosystem.
 * [sound-redux - A Soundcloud client built with React / Redux ★3704](https://github.com/andrewngu/sound-redux)
 * [react-pomodoro - A Pomodoro timer for developers ★255](https://github.com/afonsopacifer/react-pomodoro)
 * [Do - Notes management application built with React and Redux ★149 ⏳1Y](https://github.com/1ven/do)
+* [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless ★20](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
 
 ---
 ### Real Apps

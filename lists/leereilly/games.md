@@ -455,7 +455,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Frogatto ★344](https://github.com/frogatto/frogatto) - Action-adventure game, starring a certain quixotic frog.
 * [Gorillas ★242 ⏳3Y](https://github.com/Lyndir/Gorillas) - iPhone(or iPod touch) port of the popular old QBasic game.
 * [Green Mahjong ★37](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
-* [Light Jockey ★16 ⏳4Y](https://github.com/jmfieldman/Light-Jockey) - iOS Auditorium-like game.
+* [Light Jockey ★16 ⏳5Y](https://github.com/jmfieldman/Light-Jockey) - iOS Auditorium-like game.
 * [Lumio](https://github.com/joannecdyer/lumio) - Puzzle game for iOS developed using Cocos2D. Available free on the App Store.
 * [Sakura Fly](https://github.com/l800891/Sakura-Fly) - iOS action game developed using SpriteKit. Available free on the App Store.
 * [Wolfenstein 3D ★322 ⏳5Y](https://github.com/id-Software/Wolf3D-iOS) - Wolfenstein 3D for iOS Source Release.

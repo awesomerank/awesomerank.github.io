@@ -154,7 +154,7 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
     - [VMCloak ★193](https://github.com/jbremer/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.
 
 - Binary debugger
-    - [Hexgolems - Schem Debugger Frontend ★136 ⏳1Y](https://github.com/hexgolems/schem) - A debugger frontend.
+    - [Hexgolems - Schem Debugger Frontend ★136 ⏳2Y](https://github.com/hexgolems/schem) - A debugger frontend.
     - [Hexgolems - Pint Debugger Backend ★28 ⏳4Y](https://github.com/hexgolems/pint) - A debugger backend and LUA wrapper for PIN.
 
 - Mobile Analysis Tool

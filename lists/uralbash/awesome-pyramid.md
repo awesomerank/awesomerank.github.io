@@ -68,7 +68,7 @@ based on [awesome-python ★39191](https://github.com/vinta/awesome-python).
   different backend to provide resources. [New Architecture](
   <http://pyramid-sacrud.readthedocs.io/pages/contribute/architecture.html>)
   built on the resources and mechanism traversal, allows to use it in various cases.
-    * [ps_alchemy ★6](https://github.com/sacrud/ps_alchemy) - extension for pyramid_sacrud
+    * [ps_alchemy ★6 ⏳1Y](https://github.com/sacrud/ps_alchemy) - extension for pyramid_sacrud
       which provides SQLAlchemy models.
     * [ps_tree ★2 ⏳2Y](https://github.com/sacrud/ps_tree) - extension for
       [pyramid_sacrud ★43](https://github.com/sacrud/pyramid_sacrud) which displays

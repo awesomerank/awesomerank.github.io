@@ -207,7 +207,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [merge-stream ★126](https://github.com/grncdr/merge-stream) - Merge multiple streams into one interleaved stream.
 * [streamqueue ★58](https://github.com/nfroidure/StreamQueue) - Pipe queued streams progressively.
 * [run-sequence ★895](https://github.com/OverZealous/run-sequence) - Run a series of dependent gulp tasks in order.
-* [gulp-if ★556](https://github.com/robrich/gulp-if) - Conditionally run a task.
+* [gulp-if ★556 ⏳1Y](https://github.com/robrich/gulp-if) - Conditionally run a task.
 
 ### Logging
 * [gulp-notify ★560](https://github.com/mikaelbr/gulp-notify) - Notification plugin for gulp.

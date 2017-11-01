@@ -422,6 +422,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [Weevely ★1028](https://github.com/epinna/weevely3) - Weaponized web shell by [@epinna](https://github.com/epinna).
 * [Webshell-Sniper ★68](https://github.com/WangYihang/Webshell-Sniper) - Manage your website via terminal by [@WangYihang](https://github.com/WangYihang).
 * [Reverse-Shell-Manager ★48](https://github.com/WangYihang/Reverse-Shell-Manager) - Reverse Shell Manager via Terminal [@WangYihang](https://github.com/WangYihang).
+* [Linux后门整理合集（脉搏推荐）](https://www.secpulse.com/archives/59674.html) - Written by [armyzer0](https://www.secpulse.com/archives/author/armyzer0).
 
 <a name="tools-disassembler"></a>
 ### Disassembler
@@ -458,6 +459,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 ## Twitter Users
 
+* [@HackwithGitHub](https://twitter.com/HackwithGithub) - Initiative to showcase open source hacking tools for hackers and pentesters
 * [@filedescriptor](https://twitter.com/filedescriptor) - Active penetrator often tweets and writes useful articles
 * [@cure53berlin](https://twitter.com/cure53berlin) - [Cure53](https://cure53.de/) is a German cybersecurity firm.
 * [@XssPayloads](https://twitter.com/XssPayloads) - The wonderland of JavaScript unexpected usages, and more.

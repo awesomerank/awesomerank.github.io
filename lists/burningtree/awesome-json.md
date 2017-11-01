@@ -97,6 +97,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 * [JSONlite ★800](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (Bash)
 
 ## Datasets
+* [country.io](http://country.io/data) - Various country related datasets, as JSON inc currency, country codes, names and more
 * [countries ★3319](https://github.com/mledoze/countries) - World countries.
 * [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
 * [MTG JSON](http://mtgjson.com/) - Up to date Magic the Gathering card data.
@@ -249,6 +250,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 * [Rx](http://rx.codesimply.com/) - Simple, Extensible Schemata.
 
 ## Services
+* [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
 * [JSONProxy ★236](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
 * [Telize](http://www.telize.com/) - JSON IP and GeoIP REST API.
@@ -345,6 +347,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 * [DLL.js ★52](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
 * [JSONSchema.net](https://jsonschema.net//) - JSON Schema generator from JSON object.
 * [js-schema ★338](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
+* [aptos ★110](https://github.com/pennsignals/aptos) - A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats.
 
 ## JSON Schema Resources
 * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
