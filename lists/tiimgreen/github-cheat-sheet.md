@@ -353,14 +353,14 @@ table.add_row('Tim Green', 'tiimgreen@gmail.com')
 puts table.to_s
 ```
 
-GitHub uses [Linguist ★5103](https://github.com/github/linguist) to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
+GitHub uses [Linguist ★5183](https://github.com/github/linguist) to perform language detection and syntax highlighting. You can find out which keywords are valid by perusing the [languages YAML file](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml).
 
 [*Read more about GitHub Flavored Markdown.*](https://help.github.com/articles/github-flavored-markdown/)
 
 ### Emojis
 Emojis can be added to Pull Requests, Issues, commit messages, repository descriptions, etc. using `:name_of_emoji:`.
 
-The full list of supported Emojis on GitHub can be found at [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/) or [scotch-io/All-Github-Emoji-Icons ★548](https://github.com/scotch-io/All-Github-Emoji-Icons).
+The full list of supported Emojis on GitHub can be found at [emoji-cheat-sheet.com](http://www.emoji-cheat-sheet.com/) or [scotch-io/All-Github-Emoji-Icons ★572](https://github.com/scotch-io/All-Github-Emoji-Icons).
 A handy emoji search engine can be found at [emoji.muan.co](http://emoji.muan.co/).
 
 The top 5 used Emojis on GitHub are:
@@ -594,7 +594,7 @@ GitHub can display several common image formats, including PNG, JPG, GIF, and PS
 [*Read more about rendering and diffing images.*](https://help.github.com/articles/rendering-and-diffing-images/)
 
 ### Hub
-[Hub ★11387](https://github.com/github/hub) is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.
+[Hub ★11610](https://github.com/github/hub) is a command line Git wrapper that gives you extra features and commands that make working with GitHub easier.
 
 This allows you to do things like:
 
@@ -602,7 +602,7 @@ This allows you to do things like:
 $ hub clone tiimgreen/toc
 ```
 
-[*Check out some more cool commands Hub has to offer.* ★11397](https://github.com/github/hub#commands)
+[*Check out some more cool commands Hub has to offer.* ★11620](https://github.com/github/hub#commands)
 
 ### Contribution Guidelines
 GitHub supports adding 3 different files which help users contribute to your project.
@@ -841,7 +841,7 @@ produces:
 
 Credit to [Palesz](http://stackoverflow.com/users/88355/palesz)
 
-*This can be aliased using the instructions found [here ★23226](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
+*This can be aliased using the instructions found [here ★23468](https://github.com/tiimgreen/github-cheat-sheet#aliases).*
 
 [*Read more about the Git `log` command.*](http://git-scm.com/docs/git-log)
 

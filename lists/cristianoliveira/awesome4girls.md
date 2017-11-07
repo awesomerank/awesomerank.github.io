@@ -74,6 +74,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Js-Girls is a 1-day workshop for girls who want to learn Javascript, one of the most popular languages for web development.
 
+  - [Js4Girls](http://webschool.io/js4girls/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
+
+    A Brazilian initiative to provide free javascript classes to women in a male-free environment.
+
   - [JsLadies BR](https://github.com/jsladiesbr) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
     A group for women interested in web development and javascript with open and free meetings, workshops and talks.
@@ -134,9 +138,13 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
 
     Ada Lovelace Day, a yearly holiday held on the second Tuesday in the month of October, is an international holiday to celebrate women in STEM fields. It is a day to celebrate contributions made in STEM fields by women, and to encourage other women to pursue those fields by raising awareness of those contributions. There is a main event, held in London, England, but anyone can celebrate ALD by organizing an event or sharing their own story online.
 
+  - [Anitas](http://anitas.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30">
+
+    Anitas is a group of women engaged with female empowerment in the fields of technology and entrepreneurship, based on the exchange of ideias, knowledge and experience. In order to do so, Anitas organize courses, workshops, talks, and also participate of initiatives which aim at including women in technology and entrepreneurship.
+
   - [Bay Area Girls](http://girlgeek.io/about/)
 
-    Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communits. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
+    Sponsored dinners in San Francisco where the women coming from all over are invited to share their experiences, alongside prominent speakers from the female tech communities. The events also offer networking and potential recruiting by the sponsoring company. It has been hosted by 100+ companies and has several events per month.
 
   - [Byte Girl](http://bytegirl.com.br/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 
@@ -178,7 +186,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Wonder Women Tech Summit](https://wonderwomentech.com/)
 
     Wonder Women Tech’s mission is to highlight, celebrate and educate women and the underrepresented in STEM industries. Conferences events and workshops bring together changemakers, pioneers, innovators, high-level speakers and attendees to explore ideas, discussions, and solutions for women and the underrepresented to succeed and thrive.
-
 
 ## Initiatives/Programs
 ([Go to top](#awesome4girls---))
@@ -249,7 +256,6 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Tech Girlz](http://www.techgirlz.org/)
 
     We are a nonprofit dedicated to reducing — and, we hope, ultimately eliminating — the gender gap in technology occupations. We hold workshops and an annual entrepreneurial summer camp aimed at giving middle-school girls hands-on experience with different kinds of technology and enable them to interact with women who have carved out successful careers in technology fields.
-
 
 ### Linux/OpenSource
 ([Go to top](#awesome4girls---))
@@ -469,6 +475,10 @@ A curated list of awesome inclusive events/projects/initiatives for women in the
   - [Made with Code](https://www.madewithcode.com/)
 
     Made with Code is an initiative launched by Google on 19 July 2014. Google's aim is to to empower young women in middle and high schools with computer programming skills. The website revolves around providing online activities for young girls to learn to code.
+
+  - [OxenTIMenina](http://oxentimenina.com.br)
+
+    They aim to connect girls and women with the opportunity to have experience and make technology no matter which social class they're come from, their knowlodge or anything that is considered a limitation.
 
   - [PrograMaria](http://www.programaria.org/) - *Loc:* <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Brazil" width="30"> - *Lang: PT-BR only*
 

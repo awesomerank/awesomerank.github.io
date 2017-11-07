@@ -29,11 +29,11 @@ List of content
 
 
 # Utilities
-* [Pycoin ★505](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library.
+* [Pycoin ★541](https://github.com/richardkiss/pycoin) Python-based Bitcoin and alt-coin utility library.
 * [sx](https://github.com/spesmilo/sx/) sx - command line Bitcoin to empower the sysadmin
-* [bx ★120](https://github.com/libbitcoin/libbitcoin-explorer) Bitcoin Command Line Tool
-* [txwatcher ★22 ⏳2Y](https://github.com/tsileo/txwatcher)A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
-* [hellobitcoin ★177](https://github.com/prettymuchbryce/hellobitcoin) A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
+* [bx ★135](https://github.com/libbitcoin/libbitcoin-explorer) Bitcoin Command Line Tool
+* [txwatcher ★23 ⏳2Y](https://github.com/tsileo/txwatcher)A little Python utility that lets you monitor Bitcoin addresses through Blockchain Websocket API and perform custom callbacks.
+* [hellobitcoin ★182](https://github.com/prettymuchbryce/hellobitcoin) A collection of simple programs which can generate bitcoin wallets, create and sign transactions, and send transactions over the bitcoin network.
 * [Mining visualization](http://www.yogh.io/#mine:last)
 
 # Blockchain API and Web services
@@ -63,39 +63,39 @@ List of content
 * [Blockchain.info](https://blockchain.info)
 * [BlockTrail](https://www.blocktrail.com/BTC) 
 * [Blockr](https://blockr.io)
-* [Bitcoin Transaction Explorer ★61](https://github.com/JornC/bitcoin-transaction-explorer)
-* [Blockexplorer.com ★157 ⏳2Y](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php)
+* [Bitcoin Transaction Explorer ★70](https://github.com/JornC/bitcoin-transaction-explorer)
+* [Blockexplorer.com ★160 ⏳2Y](https://github.com/bitcoin-blockexplorer/old-blockexplorer-php)
 * [Smartbit](https://www.smartbit.com.au)
 
 # JavaScript Libraries
-* [Awesome CryptoCoinJS ★13 ⏳1Y](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
-* [Bitcore Library ★200](https://github.com/bitpay/bitcore-lib)
-* [Bitcoinjs-lib ★1752](https://github.com/bitcoinjs/bitcoinjs-lib)
-* [Cryptocoin ★83 ⏳3Y](https://github.com/cryptocoinjs/cryptocoin)
-* [BlockTrail SDK NodeJS ★24](https://github.com/blocktrail/blocktrail-sdk-nodejs)
-* [bcoin ★1016](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
+* [Awesome CryptoCoinJS ★14 ⏳1Y](https://github.com/cryptocoinjs/awesome-cryptocoinjs)
+* [Bitcore Library ★216](https://github.com/bitpay/bitcore-lib)
+* [Bitcoinjs-lib ★1869](https://github.com/bitcoinjs/bitcoinjs-lib)
+* [Cryptocoin ★87 ⏳3Y](https://github.com/cryptocoinjs/cryptocoin)
+* [BlockTrail SDK NodeJS ★27](https://github.com/blocktrail/blocktrail-sdk-nodejs)
+* [bcoin ★1094](https://github.com/bcoin-org/bcoin) Javascript bitcoin library for node.js and browsers 
 
 # PHP Libraries
-* [PHP-OP_RETURN ★43](https://github.com/coinspark/php-OP_RETURN)
-* [BlockTrail PHP SDK ★21](https://github.com/blocktrail/blocktrail-sdk-php)
+* [PHP-OP_RETURN ★44](https://github.com/coinspark/php-OP_RETURN)
+* [BlockTrail PHP SDK ★23](https://github.com/blocktrail/blocktrail-sdk-php)
 
 # Ruby Libraries
-* [Bitcoin-ruby ★664](https://github.com/lian/bitcoin-ruby)
+* [Bitcoin-ruby ★681](https://github.com/lian/bitcoin-ruby)
 
 # Python Libraries
 * [BlockTrail SDK Python ★11](https://github.com/blocktrail/blocktrail-sdk-python)
 * [btctxstore ★4 ⏳1Y](https://github.com/F483/btctxstore) simple library to store/retrieve information in bitcoin transactions using OP_RETURN
-* [pybitcointools ★771](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Not really maintained
-* [pycoin ★505](https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
+* [pybitcointools ★826](https://github.com/vbuterin/pybitcointools) Python library for Bitcoin signatures and transactions from Vitalik Buterin. Not really maintained
+* [pycoin ★541](https://github.com/richardkiss/pycoin) Python library for Bitcoin keys, signatures, transactions. Includes full VM implementation and tools for manipulating keys (ku) and transactions (tx).
 
 # Java Libraries
 * [BitcoinJ](https://bitcoinj.github.io)
-* [XChange ★1318](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
+* [XChange ★1387](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
 # .Net Libraries
 * [NBitcoin ★521](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
-* [BitcoinLib ★184](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
-* [QBitNinja ★18](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
+* [BitcoinLib ★191](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
+* [QBitNinja ★20](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
 
 # Playgrounds
 * [Script Playground](http://www.crmarsh.com/script-playground/)
@@ -103,23 +103,23 @@ List of content
 * [Debug Script Execution](https://webbtc.com/script)
 * [Bitcore Playground](https://bitcore.io/playground/)
 * [Mnemonic Code generator](https://dcpos.github.io/bip39/)
-* [blockchain-demo ★1431](https://github.com/anders94/blockchain-demo) A web-based demonstration of blockchain concepts
+* [blockchain-demo ★1568](https://github.com/anders94/blockchain-demo) A web-based demonstration of blockchain concepts
 
 # Blockchain dump
 * [WebBTC](http://dumps.webbtc.com/bitcoin/) These are postgres database dumps of the bitcoin-ruby-blockchain database generated by webbtc.com.
-* [BitcoinDatabaseGenerator ★38](https://github.com/ladimolnar/BitcoinDatabaseGenerator) A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database
-* [Blockparser+SQL ★39 ⏳4Y](https://github.com/mcdee/blockparser) Fast, quick and dirty bitcoin blockchain parser
-* [BitcoinABE ★579](https://github.com/bitcoin-abe/bitcoin-abe) Abe: block browser for Bitcoin and similar currencies
-* [NBitcoin.Indexer ★13](https://github.com/MetacoSA/NBitcoin.Indexer) Scalable and fault-tolerant block chain indexer for Azure cloud platform.
+* [BitcoinDatabaseGenerator ★39](https://github.com/ladimolnar/BitcoinDatabaseGenerator) A high performance data transfer tool that can be used to copy data from Bitcoin Core blockchain files to a SQL Server database
+* [Blockparser+SQL ★40 ⏳4Y](https://github.com/mcdee/blockparser) Fast, quick and dirty bitcoin blockchain parser
+* [BitcoinABE ★591](https://github.com/bitcoin-abe/bitcoin-abe) Abe: block browser for Bitcoin and similar currencies
+* [NBitcoin.Indexer ★15](https://github.com/MetacoSA/NBitcoin.Indexer) Scalable and fault-tolerant block chain indexer for Azure cloud platform.
 
 # Full nodes
 * [Bitcoinjs-server](https://github.com/bitcoinjs/bitcoinjs-server) Bitcoin network node in JavaScript using Node.js / LevelDB
-* [Bitcoin-ruby-node ★19 ⏳1Y](https://github.com/mhanne/bitcoin-ruby-node) bitcoin node based on bitcoin-ruby-blockchain
+* [Bitcoin-ruby-node ★20 ⏳1Y](https://github.com/mhanne/bitcoin-ruby-node) bitcoin node based on bitcoin-ruby-blockchain
 * [Toshi by Coinbase](https://toshi.io/) An open source Bitcoin node built to power large scale web applications
 * [Fullnode](https://github.com/ryanxcharles/fullnode) Javascript implementation of bitcoin
-* [Insight API ★287](https://github.com/bitpay/insight-api) A bitcoin blockchain API for web wallets
+* [Insight API ★310](https://github.com/bitpay/insight-api) A bitcoin blockchain API for web wallets
 * [Bitcoind.JS ★42 ⏳2Y](https://github.com/bitpay/bitcoind.js) bitcoind linked to node.js by BitPay
-* [Bitcore ★2222](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
+* [Bitcore ★2295](https://github.com/bitpay/bitcore) Formerly just a Nodejs library, now a full node
 
 # Read
 * [Mastering Bitcoin](https://github.com/aantonop/bitcoinbook)

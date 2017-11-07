@@ -242,7 +242,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Email
 *Libraries for sending and parsing email.*
 
-* [CssToInlineStyles ★951](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
+* [CssToInlineStyles ★951 ⏳1Y](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 * [Email Reply Parser ★443](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
 * [Email Validator ★84](https://github.com/nojacko/email-validator) - A small email address validation library.
 * [Fetch ★441](https://github.com/tedious/Fetch) - An IMAP library.
@@ -349,7 +349,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
-* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★4681](https://github.com/jedisct1/libsodium).
+* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★4815](https://github.com/jedisct1/libsodium).
 * [HTML Purifier ★1010](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [IniScan ★1235](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [Optimus ★696](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
@@ -397,7 +397,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Parser ★3068](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Refactoring Browser ★549](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [PHP Semantic Versioning Checker ★371](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-* [phan ★2404](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+* [phan ★2481](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 * [PHPCheckstyle ★97](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHPCPD ★1308](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 * [PhpDependencyAnalysis ★280](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
@@ -679,7 +679,7 @@ Libraries to help manage database schemas and migrations.
 * [Aura.Filter ★105](https://github.com/auraphp/Aura.Filter) - Provides tools to validate and sanitize objects and arrays.
 * [Cake Validation ★18](https://github.com/cakephp/validation) - Another validation library (CP).
 * [DMS Filter ★79 ⏳1Y](https://github.com/rdohms/DMS-Filter) - An annotation filtering library.
-* [Filterus ★381](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
+* [Filterus ★381 ⏳1Y](https://github.com/ircmaxell/filterus) - A simple PHP filtering library.
 * [ISO-codes ★481](https://github.com/ronanguilloux/IsoCodes) - A library for validating inputs according standards from ISO, International Finance, Public Administrations, GS1, Book Industry, Phone numbers & Zipcodes for many countries
 * [MetaYaml ★62 ⏳1Y](https://github.com/romaricdrigon/MetaYaml) - A schema validation library that supports YAML, JSON and XML.
 * [Respect Validation ★4164](https://github.com/Respect/Validation) - A simple validation library.

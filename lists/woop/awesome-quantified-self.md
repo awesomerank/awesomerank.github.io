@@ -195,10 +195,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Open Source Projects
 
 - [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-- [Connector DB ★75](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
+- [Connector DB ★77](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
 - [Quantifier ★15](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-- [Fluxtream ★129 ⏳1Y](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
-- [Flow Dashboard ★901](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
+- [Fluxtream ★128 ⏳1Y](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+- [Flow Dashboard ★925](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 
 ## License
 

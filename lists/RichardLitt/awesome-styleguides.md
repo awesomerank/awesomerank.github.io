@@ -55,22 +55,22 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 # How to build a styleguide
 * [_A Maintainable Style Guide_](http://ianfeather.co.uk/a-maintainable-style-guide/) by Ian Feather of Lonely Planet. Advocates Style Guide Driven Development, which is pretty snazzy.
-* [Huge's Styleguide Tool ★1670](https://github.com/hugeinc/styleguide) A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
+* [Huge's Styleguide Tool ★1683](https://github.com/hugeinc/styleguide) A tool to make creating and maintaining style guides easy. Looks pretty decent, with a few uses cases and a significant following on GitHub.
 * [An In-Depth Overview Of Living Style Guide Tools](http://www.smashingmagazine.com/2015/04/an-in-depth-overview-of-living-style-guide-tools/) A good overview of what is out there.
 
 
 # Other Styleguide Lists
 * [Brand Style Guides](https://saijogeorge.com/brand-style-guide-examples/). A beautiful website that lists where to find other styleguides. Maintained by [@SaijoGeorge](https://twitter.com/SaijoGeorge).
-* [Narkoz ★1337](https://github.com/narkoz/guides)
+* [Narkoz ★1362](https://github.com/narkoz/guides)
 * [paulmillr ★162 ⏳4Y](https://github.com/paulmillr/code-style-guides)
-* [SalGnt ★1448](https://github.com/SalGnt/cscs)
-* [Styleguides.io ★549](https://github.com/maban/styleguides)
+* [SalGnt ★1457](https://github.com/SalGnt/cscs)
+* [Styleguides.io ★568](https://github.com/maban/styleguides)
 * [UI Styleguides](http://kevinwuhoo.github.io/ui-styleguides)
 
 # Styleguides
 
 ## Generic
-* [frontend-guidelines ★6827 ⏳1Y](https://github.com/bendc/frontend-guidelines)
+* [frontend-guidelines ★6863](https://github.com/bendc/frontend-guidelines)
 * [isobar](https://isobar-idev.github.io/code-standards/)
 
 ## CSS
@@ -109,7 +109,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Javascript
 * [AirBnB ★60333](https://github.com/airbnb/javascript)
-* [bevacqua's JS sg ★2398](https://github.com/bevacqua/js)
+* [bevacqua's JS sg ★2405](https://github.com/bevacqua/js)
 * [feross/standard](https://github.com/feross/standard)
 * [Google](https://google.github.io/styleguide/jsguide.html)
 * [hapi](http://hapijs.com/styleguide)
@@ -117,45 +117,45 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [jscs ★5156](https://github.com/jscs-dev/node-jscs)
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
-* [rsjs ★114](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
+* [rsjs ★119](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_
 
 ### AngularJS
-* [gocardless ★1533 ⏳1Y](https://github.com/gocardless/angularjs-style-guide)
+* [gocardless ★1531 ⏳1Y](https://github.com/gocardless/angularjs-style-guide)
 * [Google](https://google.github.io/styleguide/angularjs-google-style.html)
 * [johnpapa's opinionated sg for  AngularJS ★23354](https://github.com/johnpapa/angular-styleguide)
-* [mgechev's community best practices ★4990](https://github.com/mgechev/angularjs-style-guide)
-* [srph's AngularJS structure sg ★282 ⏳1Y](https://github.com/srph/angularjs-structure-styleguide)
-* [Todd Motto's for AngularJS ★5833](https://github.com/toddmotto/angularjs-styleguide)
-  * [jmcunningham's fork ★238 ⏳2Y](https://github.com/jmcunningham/angularjs-styleguide)
+* [mgechev's community best practices ★5009](https://github.com/mgechev/angularjs-style-guide)
+* [srph's AngularJS structure sg ★280 ⏳1Y](https://github.com/srph/angularjs-structure-styleguide)
+* [Todd Motto's for AngularJS ★5878](https://github.com/toddmotto/angularjs-styleguide)
+  * [jmcunningham's fork ★237 ⏳2Y](https://github.com/jmcunningham/angularjs-styleguide)
 
 ### CoffeeScript
-* [Polarmobile ★1648](https://github.com/polarmobile/coffeescript-style-guide)
+* [Polarmobile ★1647](https://github.com/polarmobile/coffeescript-style-guide)
 
 ### HTTP Design
-* [http-api-design ★12501 ⏳1Y](https://github.com/interagent/http-api-design)
-* [http-api-guide ★1857](https://github.com/bolasblack/http-api-guide) _Chinese_
+* [http-api-design ★12540 ⏳1Y](https://github.com/interagent/http-api-design)
+* [http-api-guide ★1878](https://github.com/bolasblack/http-api-guide) _Chinese_
 
 ### JSON
 * [Google](https://google.github.io/styleguide/jsoncstyleguide.xml)
 
 ### jQuery
-* [Pragmatic jQuery ★121 ⏳3Y](https://github.com/yuanyan/pragmatic-jquery)
+* [Pragmatic jQuery ★122 ⏳3Y](https://github.com/yuanyan/pragmatic-jquery)
 
 ### Modules
 * [mattdesl ★952 ⏳2Y](https://github.com/mattdesl/module-best-practices)
 
 ### npm
-* [npm Style Guide ★39 ⏳1Y](https://github.com/voorhoede/npm-style-guide#readme) An opinionated collection of best practices for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
+* [npm Style Guide ★40 ⏳1Y](https://github.com/voorhoede/npm-style-guide#readme) An opinionated collection of best practices for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
 
 ### React
 * [John Cobb](https://web-design-weekly.com/2015/01/29/opinionated-guide-react-js-best-practices-conventions/)
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/react.md)
 
 ### Riot
-* [RiotJS Style Guide ★226](https://github.com/voorhoede/riotjs-style-guide#readme) Opinionated RiotJS Style Guide for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
+* [RiotJS Style Guide ★233](https://github.com/voorhoede/riotjs-style-guide#readme) Opinionated RiotJS Style Guide for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
 
 ## Lisp
-* [emacs-lips-style-guide ★440](https://github.com/bbatsov/emacs-lisp-style-guide)
+* [emacs-lips-style-guide ★446](https://github.com/bbatsov/emacs-lisp-style-guide)
 
 ## Objective-C
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0)
@@ -180,12 +180,12 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/writing/style/)
 
 ## Ruby
-* [AirBnB ★1951](https://github.com/airbnb/ruby)
-* [bbatsov ★13023](https://github.com/bbatsov/ruby-style-guide)
+* [AirBnB ★1982](https://github.com/airbnb/ruby)
+* [bbatsov ★13150](https://github.com/bbatsov/ruby-style-guide)
 * [Github](https://github.com/styleguide/ruby) Based on bbatsov style guide
 
 ### Ruby on Rails
-* [bbastov's Ruby on Rails 4 styleguide ★5237](https://github.com/bbatsov/rails-style-guide)
+* [bbastov's Ruby on Rails 4 styleguide ★5272](https://github.com/bbatsov/rails-style-guide)
 
 ## Rust
 * [aturon](https://aturon.github.io)

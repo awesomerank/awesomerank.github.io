@@ -67,6 +67,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 ## Books
 
 - [How to Create a Mind](https://www.amazon.com/How-Create-Mind-Thought-Revealed/dp/B009VSFXZ4) - The audio version is nice to listen to while commuting. This book is motivating about reverse-engineering the mind and thinking on how to code AI.
+- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) - This book covers many of the core concepts behind neural networks and deep learning. 
 - [Deep Learning - An MIT Press book](http://www.deeplearningbook.org/) - Yet halfway through the book, it contains satisfying math content on how to think about actual deep learning.
 - [Some other books I have read](https://books.google.ca/books?hl=en&as_coll=4&num=10&uid=103409002069648430166&source=gbs_slider_cls_metadata_4_mylibrary_title) - Some books listed here are less related to deep learning but are still somehow relevant to this list.
 
@@ -97,7 +98,7 @@ I find that the key of intelligence and cognition is a very interesting subject 
 <a name="librairies-and-implementations" />
 
 ### Librairies and Implementations
-- [TensorFlow's GitHub repository ★71496](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible.
+- [TensorFlow's GitHub repository ★75642](https://github.com/tensorflow/tensorflow) - Most known deep learning framework, both high-level and low-level while staying flexible.
 - [skflow ★3072](https://github.com/tensorflow/skflow) - TensorFlow wrapper à la scikit-learn.
 - [Keras](https://keras.io/) - Keras is another intersting deep learning framework like TensorFlow, it is mostly high-level.
 - [carpedm20's repositories](https://github.com/carpedm20) - Many interesting neural network architectures are implemented by the Korean guy Taehoon Kim, A.K.A. carpedm20.
@@ -131,7 +132,8 @@ Those are resources I have found that seems interesting to develop models onto.
 
 ### Gradient Descent Algorithms & Optimization Theory
 
-- [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/chap2.html) - Overview on how does the backpropagation algorithm works.
+- [Neural Networks and Deep Learning, ch.2](http://neuralnetworksanddeeplearning.com/chap2.html) - Overview on how does the backpropagation algorithm works.
+- [Neural Networks and Deep Learning, ch.4](http://neuralnetworksanddeeplearning.com/chap4.html) - A visual proof that neural nets can compute any function.
 - [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b#.mr5wq61fb) - Exposing backprop's caveats and the importance of knowing that while training models.
 - [Artificial Neural Networks: Mathematics of Backpropagation](http://briandolhansky.com/blog/2013/9/27/artificial-neural-networks-backpropagation-part-4) - Picturing backprop, mathematically.
 - [Deep Learning Lecture 12: Recurrent Neural Nets and LSTMs](https://www.youtube.com/watch?v=56TYLaQN4N8) - Unfolding of RNN graphs is explained properly, and potential problems about gradient descent algorithms are exposed.

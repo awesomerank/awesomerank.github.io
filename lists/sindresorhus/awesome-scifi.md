@@ -13,7 +13,7 @@ title: Awesome Rank for sindresorhus/awesome-scifi
 
 I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920) for recommendations as I want to get into reading Sci-Fi novels. The below is the result. Thanks everyone for recommending your favorites! :)
 
-*For fantasy books, see [awesome-fantasy ★247](https://github.com/RichardLitt/awesome-fantasy).*
+*For fantasy books, see [awesome-fantasy ★259](https://github.com/RichardLitt/awesome-fantasy).*
 
 *Please read the [Contributing Guidelines](https://github.com/sindresorhus/awesome-scifi/blob/master/contributing.md) before contributing.*
 
@@ -56,6 +56,16 @@ I [asked on Twitter](https://twitter.com/sindresorhus/status/557586610850897920)
 
 
 ### Science Fiction
+
+#### [Bobiverse Series](https://www.goodreads.com/book/show/32109569-we-are-legion-we-are-bob) (2016) *by [Dennis E. Taylor](https://www.goodreads.com/author/show/12130438.Dennis_E_Taylor)* [4.35] 
+
+Like Accelerando, this series is an excellent exploration of posthumanism.  It also has themes of space exploration, references to various other series, and is all around a great amount of fun to read.  It's also free if you have kindle unlimited. - [@AlexKeyes](https://github.com/alex-keyes)
+
+>Bob Johansson has just sold his software company and is looking forward to a life of leisure. There are places to go, books to read, and movies to watch. So it's a little unfair when he gets himself killed crossing the street. 
+>Bob wakes up a century later to find that corpsicles have been declared to be without rights, and he is now the property of the state. He has been uploaded into computer hardware and is slated to be the controlling AI in an interstellar probe looking for habitable planets. The stakes are high: no less than the first claim to entire worlds. If he declines the honor, he'll be switched off, and they'll try again with someone else. If he accepts, he becomes a prime target. There are at least three other countries trying to get their own probes launched first, and they play dirty. 
+> The safest place for Bob is in space, heading away from Earth at top speed. Or so he thinks. Because the universe is full of nasties, and trespassers make them mad - very mad.
+
+
 
 #### [Accelerando](http://www.goodreads.com/book/show/17863.Accelerando) (2005) *by [Charles Stross](https://en.wikipedia.org/wiki/Charles_Stross)* [3.9]
 
@@ -810,7 +820,7 @@ Twitter user: My favorite novel. Movie was worse than terrible.
 
 ### Fantasy
 
-_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list ★247](https://github.com/RichardLitt/awesome-fantasy)._
+_Fantasy books which contain elements of science fiction. For pure fantasy, see [this list ★259](https://github.com/RichardLitt/awesome-fantasy)._
 
 #### [The Book of the Long Sun](https://www.goodreads.com/series/43253-the-book-of-the-long-sun) (1993, 1994, 1996) *by [Gene Wolfe](https://en.wikipedia.org/wiki/Gene_Wolfe)* [4.0]
 
@@ -1587,6 +1597,14 @@ Categories: `action` `adventure` `drama`
 In contrast to the setting of the other Star Trek TV shows, DS9 takes place on a space station instead of a starship. This made continuing story arcs and appearance of recurring characters much more feasible. The show is noted for well-developed characters, originality, complex plots, religious themes and for starring the only black captain of all the Star Trek series to be featured as the show's protagonist. The series often showcased darker themes, less physical exploration of space, and (in later seasons) an emphasis on many aspects of war. - [@augustopedro](https://github.com/augustopedro)
 
 > Orbiting the liberated planet of Bajor, a Federation space station guards the opening of a stable wormhole to the far side of the galaxy.
+
+#### [Star Trek: Discovery](http://www.imdb.com/title/tt5171438/) (2017-) [7.3]
+
+Categories: `action` `adventure` `drama`
+
+While Discovery is fundamentally quite different from much of the Trek that's come before, its engagement with the franchise, and willingness to both celebrate and examine its core values, keep it true to that spirit. As the medium of television evolves, it's comforting to know that Star Trek is there to evolve right along with it. - [@augustopedro](https://github.com/augustopedro)
+
+> Ten years before Kirk, Spock and the Enterprise, the USS Discovery discovers new worlds and lifeforms as one Starfleet officer learns to understand all things alien.
 
 #### [Star Trek: Enterprise](http://www.imdb.com/title/tt0244365/) (2001–2005) [7.5]
 

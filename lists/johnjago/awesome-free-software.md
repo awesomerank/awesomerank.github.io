@@ -139,7 +139,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 ### Programming
 
-- [GNU Compiler Collection](https://www.gnu.org/software/gcc/) - Compiler for C, C++, Objective-C, Fortran, Ada, and Go. ([GNU GPLv3](https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=COPYING3;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=f0cd56a4ae4b7114ad5df0d34fa1d75c8d3469dc))
+- [GNU Compiler Collection](https://www.gnu.org/software/gcc/) - Compiler for C, C++, Objective-C, Fortran, Ada, Go, and D. ([GNU GPLv3](https://gcc.gnu.org/git/?p=gcc.git;a=blob;f=COPYING3;h=94a9ed024d3859793618152ea559a168bbcbb5e2;hb=f0cd56a4ae4b7114ad5df0d34fa1d75c8d3469dc))
 
 ### Scientific Work
 
@@ -217,7 +217,7 @@ Note: Some of these may contain or allow installation of nonfree software. See t
 
 - [Backbone.js](http://backbonejs.org/) - Provides a minimal structure for JavaScript in web applications. ([MIT](https://github.com/jashkenas/backbone/blob/master/LICENSE))
 - [HyperApp](https://hyperapp.glitch.me/) - One kilobyte JavaScript library with virtual DOM. ([MIT](https://github.com/hyperapp/hyperapp/blob/master/LICENSE.md))
-- [Nano ★118 ⏳1Y](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
+- [Nano ★119 ⏳1Y](https://github.com/rwarasaurus/nano) - Small PHP 5+ boilerplate framework. ([Unlicense](https://github.com/rwarasaurus/nano/blob/master/unlicense.txt))
 
 ## Hardware
 > Libre-friendly.

@@ -43,6 +43,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
  * [Accept payments on your site with nextjs, stripe, and micro](https://hackernoon.com/accept-payments-on-your-site-with-nextjs-stripe-and-micro-371de95b22d5?source=activity---post_recommended)
  * [Next.js on Cloud Functions for Firebase with Firebase Hosting](https://medium.com/@jthegedus/next-js-on-cloud-functions-for-firebase-with-firebase-hosting-7911465298f2)
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
+ * [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
 
 
 ## Boilerplates
@@ -74,10 +75,11 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Dashboard ★277](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 * [Snape ★59](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. 
 * [Trello Resume ★3](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
-* [Server Authentication with JWT ★4](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
+* [Server Authentication with JWT ★13](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 * [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI. 
 * [Cookie handler with server render ★0](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 * [Gank ★0](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
+* [Decoupled CMS example with GraphQL and Next.js ★4](https://github.com/janit/decoupled-cms-nextjs-graphql)
 
 ## Videos
 

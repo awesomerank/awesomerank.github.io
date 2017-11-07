@@ -146,11 +146,11 @@ A curated list of cryptography resources and links.
 
 - [crypto-algorithms ★438](https://github.com/B-Con/crypto-algorithms) - Basic implementations of standard cryptography algorithms, like AES and SHA-1.
 - [libgcrypt](http://directory.fsf.org/wiki/Libgcrypt) - Cryptographic library developed as a separated module of GnuPG.
-- [libsodium ★4681](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
-- [libtomcrypt ★557](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
+- [libsodium ★4815](https://github.com/jedisct1/libsodium) - Modern and easy-to-use crypto library.
+- [libtomcrypt ★569](https://github.com/libtom/libtomcrypt) - Fairly comprehensive, modular and portable cryptographic toolkit.
 - [monocypher](http://loup-vaillant.fr/projects/monocypher/) - small, portable, easy to use crypto library inspired by libsodium and TweetNaCl.
 - [NaCl](https://nacl.cr.yp.to/) - High-speed library for network communication, encryption, decryption, signatures, etc.
-- [OpenSSL ★5462](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
+- [OpenSSL ★5633](https://github.com/openssl/openssl) - TLS/SSL and crypto library.
 - [PolarSSL](https://tls.mbed.org/) - PolarSSL makes it trivially easy for developers to include cryptographic and SSL/TLS capabilities in their (embedded) products, facilitating this functionality with a minimal coding footprint.
 - [RHash ★136](https://github.com/rhash/RHash) - Great utility for computing hash sums.
 - [themis ★426](https://github.com/cossacklabs/themis) - High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption). Ported on many languages and platforms, suitable for client-server infastructures.
@@ -177,14 +177,14 @@ A curated list of cryptography resources and links.
 ### Clojure
 
 - [buddy-core](https://funcool.github.io/buddy-core/latest/) - Cryptographic Api.
-- [clj-crypto ★22](https://github.com/macourtney/clj-crypto) - Wrapper for Bouncy Castle.
+- [clj-crypto ★22 ⏳1Y](https://github.com/macourtney/clj-crypto) - Wrapper for Bouncy Castle.
 - [pandect ★176 ⏳1Y](https://github.com/xsc/pandect) - Fast and easy-to-use Message Digest, Checksum and HMAC library for Clojure.
 
 ### Common Lisp
 
 - [crypto-shortcuts ★10](https://github.com/Shinmera/crypto-shortcuts) - Collection of common cryptography functions.
 - [ironclad](http://method-combination.net/lisp/ironclad/) - Collection of common crypto shortcuts.
-- [trivial-ssh ★15](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
+- [trivial-ssh ★17](https://github.com/eudoxia0/trivial-ssh) - SSH client library for Common Lisp (Built on libssh2).
 
 ### Delphi
 
@@ -195,14 +195,14 @@ A curated list of cryptography resources and links.
 
 ### Elixir
 
-- [cipher ★30](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
-- [cloak ★148](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
+- [cipher ★32](https://github.com/rubencaro/cipher) - Elixir crypto library to encrypt/decrypt arbitrary binaries.
+- [cloak ★157](https://github.com/danielberkompas/cloak) - Cloak makes it easy to use encryption with Ecto.
 - [comeonin](https://github.com/elixircnx/comeonin) - Password authorization (bcrypt) library for Elixir.
 - [elixir-rsa ★13 ⏳2Y](https://github.com/trapped/elixir-rsa) - `:public_key` cryptography wrapper for Elixir.
 - [elixir_tea ★1 ⏳2Y](https://github.com/keichan34/elixir_tea) - TEA implementation in Elixir.
-- [ex_crypto ★36](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
-- [exgpg ★8 ⏳2Y](https://github.com/rozap/exgpg) - Use gpg from Elixir.
-- [pot ★52](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
+- [ex_crypto ★42](https://github.com/ntrepid8/ex_crypto) - Elixir wrapper for Erlang `:crypto` and `:public_key` modules. Provides sensible defaults for many crypto functions to make them easier to use.
+- [exgpg ★11 ⏳2Y](https://github.com/rozap/exgpg) - Use gpg from Elixir.
+- [pot ★56](https://github.com/yuce/pot) - Erlang library for generating one time passwords compatible with Google Authenticator.
 - [siphash-elixir](https://github.com/zackehh/siphash-elixir) - Elixir implementation of the SipHash hash family.
 
 ### Erlang
@@ -262,11 +262,11 @@ A curated list of cryptography resources and links.
 - [Apache Shiro](http://shiro.apache.org/) - Performs authentication, authorization, cryptography and session management.
 - [Bouncy Castle](https://www.bouncycastle.org/java.html) - All-purpose cryptographic library. JCA provider, wide range of functions from basic helpers to PGP/SMIME operations.
 - [Flexiprovider](http://www.flexiprovider.de/) - Powerful toolkit for the Java Cryptography Architecture.
-- [Google Keyczar ★912](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
+- [Google Keyczar ★921](https://github.com/google/keyczar) - Easy to use, yet safe encryption framework with key versioning.
 - [Google Tink ★772](https://github.com/google/tink) - A small crypto library that provides a safe, simple, agile and fast way to accomplish some common crypto tasks.
 - [Java Themis](https://github.com/cossacklabs/themis/wiki/Java-and-Android-Howto) - Java/Android wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 - [keywhiz ★1815](https://github.com/square/keywhiz) - A system for distributing and managing secrets.
-- [pac4j ★1017](https://github.com/pac4j/pac4j) - Security engine.
+- [pac4j ★1050](https://github.com/pac4j/pac4j) - Security engine.
 - [scrypt ★305 ⏳1Y](https://github.com/wg/scrypt) - Pure Java implementation of the scrypt key derivation function and a JNI interface to the C implementations, including the SSE2 optimized version.
 
 ### Julia
@@ -302,12 +302,12 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 - [charm ★188](https://github.com/JHUISI/charm) - Framework for rapidly prototyping cryptosystems.
 - [cryptography](https://cryptography.io/en/latest/) - Python library which exposes cryptographic recipes and primitives.
 - [cryptopy](https://sourceforge.net/projects/cryptopy/) - Pure python implmentation of cryptographic algorithms and applications.
-- [hashids ★647](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
+- [hashids ★658](https://github.com/davidaurelio/hashids-python) - Implementation of [hashids](http://hashids.org) in Python.
 - [paramiko](http://www.paramiko.org/) - Python implementation of the SSHv2 protocol, providing both client and server functionality.
-- [Privy ★176](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
+- [Privy ★182](https://github.com/ofek/privy) - An easy, fast lib to correctly password-protect your data.
 - [pycryptodome ★288](https://github.com/Legrandin/pycryptodome) - Self-contained Python package of low-level cryptographic primitives.
 - [PyElliptic ★97](https://github.com/yann2192/pyelliptic) - Python OpenSSL wrapper. For modern cryptography with ECC, AES, HMAC, Blowfish.
-- [pynacl ★402](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
+- [pynacl ★413](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library.
 - [pythemis](https://github.com/cossacklabs/themis/wiki/Python-Howto) - Python wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### R
@@ -317,19 +317,19 @@ encryption library providing MD5, SHA1, SHA2 hashing and HMAC functionality, as 
 ### Ruby
 
 - [bcrypt-ruby ★1218](https://github.com/codahale/bcrypt-ruby) - Ruby binding for the OpenBSD bcrypt() password hashing algorithm, allowing you to easily store a secure hash of your users' passwords.
-- [RbNaCl ★676](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
+- [RbNaCl ★689](https://github.com/cryptosphere/rbnacl) - Ruby binding to the Networking and Cryptography (NaCl) library.
 - [Ruby Themis](https://github.com/cossacklabs/themis/wiki/Ruby-Howto) - Ruby wrapper on Themis. High level crypto library for storing data (AES), secure messaging (ECC + ECDSA / RSA + PSS + PKCS#7) and session-oriented, forward secrecy data exchange (ECDH key agreement, ECC & AES encryption).
 
 ### Rust
 
-- [octavo ★118 ⏳1Y](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
-- [ring ★607](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
-- [rust-crypto ★613](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
-- [rust-openssl ★302](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
-- [rustls ★558](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
+- [octavo ★121](https://github.com/libOctavo/octavo) - Highly modular & configurable hash & crypto library.
+- [ring ★634](https://github.com/briansmith/ring) - Safe, fast, small crypto using Rust & BoringSSL's cryptography primitives.
+- [rust-crypto ★622](https://github.com/DaGenix/rust-crypto) - Mostly pure-Rust implementation of various cryptographic algorithms.
+- [rust-openssl ★312](https://github.com/sfackler/rust-openssl) - OpenSSL bindings for Rust.
+- [rustls ★572](https://github.com/ctz/rustls) - Rustls is a new, modern TLS library written in Rust.
 - [sodiumoxide ★239](https://github.com/dnaq/sodiumoxide) - Sodium Oxide: Fast cryptographic library for Rust (bindings to libsodium).
-- [suruga ★123 ⏳1Y](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
-- [webpki ★95](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
+- [suruga ★122 ⏳1Y](https://github.com/klutzy/suruga) - TLS 1.2 implementation in Rust.
+- [webpki ★98](https://github.com/briansmith/webpki) - Web PKI TLS X.509 certificate validation in Rust.
 
 ### Scala
 

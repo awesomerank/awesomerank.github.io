@@ -103,7 +103,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 ## DSL
 
-- [RubyJmeter ★582](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
+- [RubyJmeter ★590](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
 
 ## Distributions
 
@@ -115,15 +115,15 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JMeter Plugins list](https://docs.google.com/spreadsheets/d/1FYMw3zCMr2Y37QCG_vOyC3HyrLxxi7x5I3khWLj3isU/edit?usp=sharing) - List of available plugins and extensions.
 - [JMeter Plugins](http://jmeter-plugins.org/) - Independent set of plugins for Apache JMeter.
 - [UBIK Load Pack](http://ubikloadpack.com/) - Productivity extensions for Apache JMeter.
-- [AtlantBH Custom JMeter Components ★66](https://github.com/ATLANTBH/jmeter-components) - Set of JMeter extensions developed by AtlantBH (currently included into JMeter Plugins project).
+- [AtlantBH Custom JMeter Components ★68](https://github.com/ATLANTBH/jmeter-components) - Set of JMeter extensions developed by AtlantBH (currently included into JMeter Plugins project).
 
 ## CI
 
 - Tools & Plugins
     - [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/) - Ant task to automate running JMeter test plans.
-    - [JMeter Maven Plugin ★222](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+    - [JMeter Maven Plugin ★225](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
     - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
-    - [TeamCity Performance Tests Analysis Plugin ★11](https://github.com/jtorgan/jmeter_plugin)
+    - [TeamCity Performance Tests Analysis Plugin ★12](https://github.com/jtorgan/jmeter_plugin)
     - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
     - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard.
     - [Lightning](http://deliverymind.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
@@ -184,7 +184,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [JMeter Result Analysis: The Ultimate Guide](https://octoperf.com/blog/2017/10/19/how-to-analyze-jmeter-results/)
 - [BlazeMeter Sense](https://sense.blazemeter.com/) - Service for storing and analysing performance test results.
 - [JAnalyser](http://epireum.com/page-section/janalyser/) - Browser-based results analysis tool.
-- [JMeter Result Analysis Plugin ★38 ⏳1Y](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
+- [JMeter Result Analysis Plugin ★40 ⏳1Y](https://github.com/afranken/jmeter-analysis-maven-plugin) - Maven plugin that parses JMeter test results and generates detailed reports with charts.
 - [JMeter Results Analyser](http://sourceforge.net/projects/jmstats/) - Web-based application for collating, analysing and reporting JMeter test results.
 - DB Result Collectors
     - [JMeter DBCollector Plugin](http://sourceforge.net/projects/jmeterdbcollect/) - Plugin to enable results logging into a database for more effective reporting.

@@ -205,7 +205,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 
 ## Interviewing
-  1. [andreis/interview ★5590](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
+  1. [andreis/interview ★5850](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
   2. [awesome-interviews ★16432](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
   3. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
   4. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
@@ -218,10 +218,11 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Newsletters
   1. [Remote Internships](http://foundersgrid.com/)
-  1. [Remote Report](http://remote.report) - A collection of the best remote, support focused and non-technical jobs delivered weekly.
+  1. [Remote Report](http://remote.report) - A collection of the best remote, support focused and non-technical jobs delivered weekly
+  1. [Remoteur](http://www.remoteur.com) - Remote jobs in Europe delivered to your inbox bi-weekly
   1. [Remotive - productive remote workers](http://remotive.io/) - A weekly newsletter on Remote Tips & Jobs sent to 10,000+ Remote Workers
-  1. [Working Nomads](http://workingnomads.co/) - Job posts.
-  1. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast.
+  1. [Working Nomads](http://workingnomads.co/) - Job posts
+  1. [Yonder Newsletter](https://yonder.io/newsletter) - Daily remote work tips, links, articles, and the Yonder Podcast
 
 ## Podcasts
   1. [Free People Move Podcast](https://teleport.org/podcast/) - mostly interviews with founders attacking the location independence / remote work space from different angles
@@ -333,7 +334,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Mobile Jazz](https://mobilejazz.com/) - We are a dedicated team of highly-skilled engineers, designers and marketing experts on a mission to build a more beautiful digital world. We are a remote friendly company with headquarters in Barcelona.
   1. [Modern Tribe](http://tri.be/about/join-our-team/) - A digital agency with a modern twist. All freelancers. All experts.
   1. [Modus Create](https://moduscreate.com/) - Modus is a digital design-build agency driven by world-class talent. PHP, Javascript.
-  1. [Mokriya](http://mokriya.com/careers) - Crafting smart, beautiful software for mobile, IoT, and beyond.
   1. [Mosalingua](https://www.mosalingua.com/en/jobs/) - Learn words, enjoy the world.
   1. [Mozilla](https://careers.mozilla.org/listings/) - Firefox has a 'Remote' option under it's location searchbar
   1. [Nectafy](http://nectafy.com/jobs/) - Inbound marketing and content creation.
@@ -355,6 +355,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [PreviousNext](https://www.previousnext.com.au) - Australian based Drupal agency.
   1. [Prezly](https://www.prezly.com/) - SaaS PR platform. PHP, React, JS, Postgres. 100% remote.
   1. [RainforestQA](https://www.rainforestqa.com/jobs/) - On demand QA as a service.
+  1. [Reaction Commerce](https://reactioncommerce.com/careers/) - Fastest-growing open source ecommerce platform. Node.js, MongoDB, Kubernetes, Docker.
   1. [Real HQ](https://realhq.com) - Maker of Agent Pronto, software designed to help make home buying and selling a better experience. We've been remote since the start, now 50+ spread across the globe. Ruby, Rails, React.js, iOS/Android.
   1. [RebelMouse](https://blog.rebelmouse.com/careers/) - Social publishing platform. Python, JS & iOS/Android developers. All over the world team.
   1. [Recurly](https://recurly.com/jobs/) - recurring billing management for subscription-based businesses
@@ -382,6 +383,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [TED](http://www.ted.com/about/our-organization/jobs-at-ted) - Technology team supports ted.com and internal tools. All engineers are remote. Ruby on Rails, JavaScript, Ember.js
   1. [Teleport](https://teleport.org/jobs/)
   1. [Tesera](https://tesera.com/) - We disrupt conventional thinking to expand what is possible. We ignite change in the future we share.
+  1. [The Grid](http://thegrid.io/) - AI website builder. 100% distributed team.
   1. [Thermeon](http://thermeon.com/jobs.html) - Car rental software - 100% remote technical team
   1. [TimeDoctor](https://www.timedoctor.com/about-us.html) - Time tracking with screenshots, web and app usage monitoring, and integrations.
   1. [Toggl](https://jobs.toggl.com/)
@@ -439,6 +441,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [PukkaTeam](https://www.pukkateam.com) - Real team presence through regular automated selfies and one-click video calling
   1. [Rocket.Chat](https://rocket.chat/) — The Ultimate Open Source WebChat Platform.
   1. [ScreenHero](https://screenhero.com) - Real-time, HD screen sharing for collaboration in teams.
+  2. [Signal](https://signal.org/) - Encrypted, secure chat and video calls.
   1. [Skype](https://www.skype.com/) – Video calls.
   1. [Slack](https://slack.com/) – Chat system with loads of integration options.
   1. [Talky](https://talky.io/) — Truly simple video chat and screen sharing for groups
@@ -462,13 +465,13 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [1099 contractors](http://www.wisegeek.com/what-is-a-1099-contractor.htm) – US based companies can hire remote workers as.
 
 ## Others
-  1. [awesome-digital-nomads ★177](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
+  1. [awesome-digital-nomads ★203](https://github.com/cbovis/awesome-digital-nomads) - 🏝 A curated list of awesome resources for Digital Nomads.
   1. [Hacker Spaces](https://wiki.hackerspaces.org/List_of_Hacker_Spaces) - List of hacker spaces.
   1. [LiquidSpace](https://liquidspace.com/) - Daily & Hourly Office & Meeting Room Rental.
   1. [Nomad List](https://nomadlist.io/) - Compare cost and quality of living in different cities.
   1. [Regus USA](http://www.regus.com/) - Executive suites, virtual offices & conference room space.
   1. [Remote Companies on Careers SO](http://talent.stackoverflow.com/companies?searchTerm=&location=&allowsremote=true)
-  1. [Remote Working ★1788](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
+  1. [Remote Working ★1846](https://github.com/greatghoul/remote-working) - A list of remote working resources for Chinese.
   1. [The Caravanserai](http://www.thecaravanserai.co/) - Co-living provider.
   1. [WorkFrom](https://workfrom.co/) - Find coffee shops that are good to work from.
 

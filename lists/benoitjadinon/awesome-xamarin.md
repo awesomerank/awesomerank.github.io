@@ -57,8 +57,8 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [LinqToAwait ★86](https://github.com/paulcbetts/LinqToAwait) - A Task-based LINQ designed to work with async/await
 
 ## Charts
-* [OxyPlot ★1045](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET
-* [MicroCharts ★254](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
+* [OxyPlot ★1063](https://github.com/oxyplot/oxyplot) - Cross-platform plotting library for .NET
+* [MicroCharts ★441](https://github.com/aloisdeniel/Microcharts) - Create cross-platform (Xamarin, Windows, ...) simple charts.
 
 ## Cloud
 * [Azure](https://developer.xamarin.com/guides/cross-platform/azure/) - Microsoft Azure
@@ -113,7 +113,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [I18NPortable ★14](https://github.com/xleon/I18N-Portable) - Simple and cross platform internationalization/translations for Xamarin and .NET
 
 ## Layout
-* [Flex ★80](https://github.com/xamarin/flex) - Flexible box layout system.
+* [Flex ★93](https://github.com/xamarin/flex) - Flexible box layout system.
 
 ## Media
 * [EZ-Compress ★6](https://github.com/VictorGrunn/EZ-Compress-for-Xamarin) - A simple image stream compression plugin for Xamarin

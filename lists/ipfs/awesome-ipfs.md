@@ -45,8 +45,10 @@ place to ask about it might be in [ipfs/apps ★41](https://github.com/ipfs/apps
 * [Blokaly](https://www.blokaly.com) - A badge issuing, sharing and display platform based on IPFS.
 * [Boards](https://ipfs.io/ipns/boards.ydns.eu) - Distributed social platform that runs in the browser. [GitHub ★140 ⏳1Y](https://github.com/fazo96/ipfs-boards)
 * [Cohort ★15 ⏳1Y](https://github.com/zignig/cohort) - A golang app to preset a threejs interface and get all of its assets out of IPFS.
+* [Computes](https://computes.io) - Computes.io is a distributed supercomputer powered by IPFS.
 * [dapple](https://github.com/nexusdev/dapple) - Dapple is a Solidity developer multitool designed to manage the growing complexity of interconnected smart contract systems.
 * [digx](https://www.dgx.io/) - Digix is an asset-tokenisation platform built on Ethereum and IPFS.
+* [dtube](https://d.tube) - Distributed video sharing with steem.it intergrations, using ipfs for backend storage. 
 * [Ethlance](http://ethlance.com) - First completely decentralised job market platform built on Ethereum and IPFS. [Github](https://github.com/madvas/ethlance)
 * [git-ipfs-rehost ★76 ⏳1Y](https://github.com/whyrusleeping/git-ipfs-rehost) - A script to rehost your git repos in ipfs.
 * [Global Upload](https://globalupload.io/) - File transportation service for IPFS, upload files to the future of distributed web.
@@ -59,11 +61,12 @@ place to ask about it might be in [ipfs/apps ★41](https://github.com/ipfs/apps
 * [ipfs-share ★22 ⏳2Y](https://github.com/rameshvarun/ipfs-share) - Pastebin/Image host/File sharing application
 * [ipfs.pics ★815](https://github.com/ipfspics/ipfspics-server) - Upload and share pics.
 * [IPFSBin ★91 ⏳1Y](https://github.com/victorbjelkholm/ipfsbin) - Pastebin clone build.
+* [IPFSStore](https://ipfsstore.it) - Pinning paid with Bitcoin
 * [markup.rocks ★14 ⏳2Y](https://github.com/davidar/markup.rocks) - Pandoc-based markup editor/previewer/converter, ported to IPFS. [Example](https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u)
 * [Orbit](https://github.com/haadcode/orbit) - Distributed, peer-to-peer chat application on IPFS.
 * [Partyshare](https://partysha.re) - A simple file sharing app.
-* [Philes](http://philes.co) - Philes is a browser-based, IPFS-powered distributed notepad (editor & viewer).
 * [Playback](https://mafintosh.github.io/playback/) - IPFS playback support. This allows casting a video in IPFS to a Chromecast.
+* [PushToTalk](http://timothy.hobbs.cz/push-to-talk/index.html) - Push to Talk lets you edit audio essays and publish them with IPFS.
 * [ujo](http://ujomusic.com/) - A blockchain marketplace for musicians.
 * [uport](https://uport.me/#home) - Uport is a mobile, self-sovereign identity and key management system, built on the Ethereum blockchain.
 * [gogo.tattoo](http://gogo.tattoo) - Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to offer tattoo artists and wearers an unbreakable lifetime record of their portfolios. gogo.tattoo app already has a feature to share works directly to IPFS.
@@ -82,6 +85,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
   https://ipfs.io/ipfs/QmccqhJg5wm5kNjAP4k4HrYxoqaXUGNuotDUqfvYBx8jrR/qr#enter%20text%20here
 )
 - [IPFessay](https://gitlab.com/stavros/IPFessay) - A simple way to publish uncensorable essays on IPFS.
+- [Hardbin ★73](https://github.com/jes/hardbin) - Hardbin is an encrypted pastebin, with the decryption key passed in the URL fragment
 - [hasteIPFS](https://ipfs.io/ipns/bin.ipfs.ovh/) - IPFS based code bin. (Read only for now)
 - [Gorilla REPL viewer ★4 ⏳1Y](https://github.com/keorn/ipfs-gorilla-repl) - [example](https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j)
 
@@ -94,7 +98,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipfs-chrome-station ★43](https://github.com/fbaiodias/ipfs-chrome-station) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-chrome-extension ★57 ⏳1Y](https://github.com/dylanPowers/ipfs-chrome-extension) - Chrome extension to redirect ipfs.io traffic to local gateway
 * [ipfs-companion ★112](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway
-* [ipfs-gui ★10](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
+* [ipfs-gui ★13](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
 * [ipfs-linux-service ★33 ⏳2Y](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
 * [ipfs-paste ★16 ⏳1Y](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 * [ipfs-screencap ★26 ⏳1Y](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
@@ -116,6 +120,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 
 ## Articles and Press
 
+* 2017-06-13: [Decentralized & Distributed Edge Computing Comes to Computes.io] (https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85)(medium.com)
 * 2017-03-31: [Using IPFS for IoT Communications](https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a) (medium.com)
 * 2016-09-12: [IPFS: The Internet Democratised](https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b) (medium.com)
 * 2016-05-20: [Changelog Podcast](https://changelog.com/204/) (changelog.com)

@@ -30,13 +30,13 @@ Below is a curated list of awesome digital tools for activism. These are tools f
 
  * [Contact Congress (Open Source) ★26 ⏳3Y](https://github.com/EFForg/contact-congress) - Send emails to members of the US Congress. This was developed by EFF as an open source project. They use it for their own campaigns internally. There is also a hosted version run by Fight for the Future (see below.
  * [Call Congress](https://github.com/fightforthefuture/call-congress) - Coordinate call-in days to US Congress, the President, or local or corporate targets. Original project from Fight for the Future and Taskforce.is, but with lots of development from [Mozilla ★2 ⏳2Y](https://github.com/mozilla/call-congress) and the [EFF](https://github.com/effOrg/call-congress/tree/refactor/master). Frontend looks like this, [https://call.mozilla.org](https://call.mozilla.org]) and the backend looks like [http://callpower.org](http://callpower.org/easy-to-use/). A hosted version is available, and the code is AGPL.
- * [Twilio.org's Rapid Response Kit ★267](https://github.com/Twilio-org/rapid-response-kit) - Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)
+ * [Twilio.org's Rapid Response Kit ★270](https://github.com/Twilio-org/rapid-response-kit) - Collection phone-related tools using Twilio's service. Kit includes: Auto-Respond (inbound voice/sms responder), Broadcast (simple way to broadcast texts/calls to a list), Conference Line, Forwarder, Ringdown (call down a list of people, if 1st person doesn't answer go on to the next), Help Line (Press 1 for..., Press 2 for...)
  * [Ushahidi](https://www.ushahidi.com/) - Platform for data management and visualization. Other tools include CrowdMap, CrisisNET (data about world crises), Ping (tool for checking is someone is ok after an emergency), SMSsync (two-way SMS gateway). Check out their [github repos](https://github.com/ushahidi).
  * [Crowdring ★11 ⏳3Y](https://github.com/therules/CrowdRing) - web app where people around the world can place a free missed call to sign a petition
  * [Self Starter ★3101 ⏳1Y](https://github.com/lockitron/selfstarter) - roll your own crowdfunding site
  * [TakeCharge.io ★9](https://github.com/controlshift/prague-server) - opensource or SaaS online donations powered by Stripe.
  * [VictoryKit](http://www.victorykitapp.com) - Optimize petition campaign content. Not actively maintained.
- * [Countdown ★22 ⏳1Y](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
+ * [Countdown ★23 ⏳1Y](https://github.com/drewrwilson/countdown) - A quick & simple tool for making your own webpage with a countdown to your upcoming event.
 
 ## Software as a service:
 

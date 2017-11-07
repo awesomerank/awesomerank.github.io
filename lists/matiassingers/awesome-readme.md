@@ -15,30 +15,31 @@ title: Awesome Rank for matiassingers/awesome-readme
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
 ## Examples
-- [aimeos/aimeos-typo3 ★20](https://github.com/aimeos/aimeos-typo3) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
-- [amitmerchant1990/electron-markdownify ★295](https://github.com/amitmerchant1990/electron-markdownify) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
-- [anfederico/Clairvoyant ★1116](https://github.com/anfederico/Clairvoyant) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
-- [angular-medellin/meetup ★109](https://github.com/angular-medellin/meetup) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
-- [athityakumar/colorls ★1121](https://github.com/athityakumar/colorls) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
-- [choojs/choo ★4563](https://github.com/choojs/choo) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
-- [Day8/re-frame ★2740](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
+- [aimeos/aimeos-typo3 ★22](https://github.com/aimeos/aimeos-typo3) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+- [amitmerchant1990/electron-markdownify ★318](https://github.com/amitmerchant1990/electron-markdownify) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+- [anfederico/Clairvoyant ★1131](https://github.com/anfederico/Clairvoyant) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
+- [angular-medellin/meetup ★116](https://github.com/angular-medellin/meetup) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
+- [athityakumar/colorls ★1201](https://github.com/athityakumar/colorls) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
+- [choojs/choo ★4696](https://github.com/choojs/choo) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
+- [Day8/re-frame ★2816](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
 - [gitpoint/git-point ★2541](https://github.com/gitpoint/git-point) - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
+- [Hexworks/Zircon ★85](https://github.com/Hexworks/zircon) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
 - [iharsh234/WebApp ★16](https://github.com/iharsh234/WebApp) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
-- [jakubroztocil/httpie ★31698](https://github.com/jakubroztocil/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
-- [karan/joe ★2476](https://github.com/karan/joe) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
-- [Martinsos/edlib ★84](https://github.com/Martinsos/edlib) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
-- [node-chat ★381](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
-- [NSRare/NSGIF ★746](https://github.com/NSRare/NSGIF) - Project logo. GIF Demo. Usage artwork. Usage code samples.
+- [jakubroztocil/httpie ★32397](https://github.com/jakubroztocil/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
+- [karan/joe ★2490](https://github.com/karan/joe) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
+- [Martinsos/edlib ★92](https://github.com/Martinsos/edlib) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
+- [node-chat ★393](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
+- [NSRare/NSGIF ★753](https://github.com/NSRare/NSGIF) - Project logo. GIF Demo. Usage artwork. Usage code samples.
 - [petkaantonov/bluebird ★15563](https://github.com/petkaantonov/bluebird) - Build badges. Clear description of what the project does. TOC for easy navigation. Project logo. Extensive explanations and examples.
-- [rstacruz/hicat ★330 ⏳2Y](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
+- [rstacruz/hicat ★331 ⏳2Y](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
 - [ryanoasis/nerd-fonts ★5771](https://github.com/ryanoasis/nerd-fonts) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
-- [sebyddd/SDVersion ★1216](https://github.com/sebyddd/SDVersion) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
-- [shama/gaze ★980](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
+- [sebyddd/SDVersion ★1227](https://github.com/sebyddd/SDVersion) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
+- [shama/gaze ★994](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
 - [sindresorhus/pageres ★8127](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
-- [skywinder/github-changelog-generator ★3975](https://github.com/skywinder/github-changelog-generator) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
-- [teles/array-mixer ★6](https://github.com/teles/array-mixer) - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
-- [vhesener/Closures ★3](https://github.com/vhesener/Closures) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
-- [webpro/release-it ★576](https://github.com/webpro/release-it) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
+- [skywinder/github-changelog-generator ★4079](https://github.com/skywinder/github-changelog-generator) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
+- [teles/array-mixer ★7](https://github.com/teles/array-mixer) - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
+- [vhesener/Closures ★1181](https://github.com/vhesener/Closures) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
+- [webpro/release-it ★604](https://github.com/webpro/release-it) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
 
 ## Articles
 - ["Art of Readme - Learn the art of writing quality READMEs." ★4524](https://github.com/noffle/art-of-readme) - *Stephen Whitmore*
@@ -49,9 +50,9 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 
 ## Tools
 
-- [Common Readme ★211](https://github.com/noffle/common-readme) - A common readme style for Node. Includes a guide and a readme generator.
-- [Feedmereadmes ★144](https://github.com/lappleapple/feedmereadmes) - README editing and project analysis/feedback.
-- [Standard Readme ★618](https://github.com/RichardLitt/standard-readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
+- [Common Readme ★215](https://github.com/noffle/common-readme) - A common readme style for Node. Includes a guide and a readme generator.
+- [Feedmereadmes ★908](https://github.com/lappleapple/feedmereadmes) - README editing and project analysis/feedback.
+- [Standard Readme ★646](https://github.com/RichardLitt/standard-readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
 - [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md) - Simple template to help you cover all the basics.
 
 ## Creating GIFs

@@ -102,7 +102,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
 ### Example Hybrid (iOS/Andriod) App's
-[RubyMotion Hybrid Sample ★42 ⏳2Y](https://github.com/HipByte/rubymotion-hybrid-sample) - Example from HipByte of a RubyMotion hybrid (iOS + Android) app.
+[RubyMotion Hybrid Sample ★42 ⏳3Y](https://github.com/HipByte/rubymotion-hybrid-sample) - Example from HipByte of a RubyMotion hybrid (iOS + Android) app.
 
 
 ### Example macOS Apps

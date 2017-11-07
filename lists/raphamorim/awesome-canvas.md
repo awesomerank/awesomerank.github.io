@@ -11,7 +11,7 @@ title: Awesome Rank for raphamorim/awesome-canvas
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python ★39191](https://github.com/vinta/awesome-python).
+A curated list of awesome Canvas examples, related articles and posts. Inspired by [awesome-python ★40545](https://github.com/vinta/awesome-python).
 
 ## Contributing
 
@@ -90,7 +90,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/r
 - [fabric.js](http://fabricjs.com) provides interactive object model on top of canvas element
 and also has SVG-to-canvas (and canvas-to-SVG) parser
 - [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications
-- [Konva ★1468](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. 
+- [Konva ★1531](https://github.com/konvajs/konva) - Konva.js is an HTML5 Canvas JavaScript framework that extends the 2d context by enabling canvas interactivity for desktop and mobile applications. 
 - [Origami.js ★631](https://github.com/raphamorim/origami.js) - JS Lib to redesign canvas API interface
 - [Paper.js ★8355](https://github.com/paperjs/paper.js) - Scriptographer ported to JavaScript and the browser, using HTML5 Canvas.
 - [Pixi.js](http://www.pixijs.com) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback

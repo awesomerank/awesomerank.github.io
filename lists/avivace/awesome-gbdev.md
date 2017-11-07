@@ -130,7 +130,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 
 
 ### Open-source emulators
-- [Mooneye-gb ★177](https://github.com/Gekkio/mooneye-gb) -  A Game Boy research project and emulator written in Rust.
+- [Mooneye-gb ★182](https://github.com/Gekkio/mooneye-gb) -  A Game Boy research project and emulator written in Rust.
 - [jsGB ★433 ⏳7Y](https://github.com/Two9A/jsGB) - Javascript.
 - [php-terminal-Game Boy-emulator ★1218](https://github.com/gabrielrcouto/php-terminal-gameboy-emulator) - PHP Terminal
 - [gameboy-Online ★192 ⏳1Y](https://github.com/taisel/gameboy-Online) - Javascript, HTML5 canvas and JavaScript audio APIs.
@@ -155,6 +155,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [FunGBC ★7](https://github.com/andreasjhkarlsson/fungbc) - F#.
 - [barnacleboy ★23](https://github.com/rep-nop/barnacleboy) - Rust.
 - [node-gameboy ★5](https://github.com/nakardo/node-gameboy) - Node.js.
+- [PlutoBoy ★29](https://github.com/RossMeikleham/PlutoBoy) - Cross platform (Windows, OSX, Linux/Unix, Android, iOS, Web Browsers, and Sony PSP) emulator.
 
 
 ## Software Development
@@ -191,13 +192,14 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [Vim syntax file for the Game Boy assembler RGBASM](http://www.vim.org/scripts/script.php?script_id=819) - Vim syntax highlighting for RGBDS assembly.
 - [Vim syntax file for RGBDS](https://github.com/Leandros/dotfiles/blob/master/.vim/syntax/rgbds.vim) - Another Vim syntax highlighting file for RGBDS assembly.
 - [gbdk-lib-extension ★7 ⏳4Y](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Gameboy Development Kit by Michael Hope.
+- [GB-convert ★5](https://github.com/exezin/gb-convert) - Gameboy tile conversion and map editor tool (converts to assembly).
+- [cart-dumper ★3](https://github.com/Palmr/cart-dumper) - Gameboy Cartridge Dumper ROM.
 
 ## Programming Tutorials
 ### ASM
 - [ASMSchool](http://gameboy.mongenel.com/asmschool.html) - A set of lessons by Duo about coding in Assembly for GB/GBC and disassembling.
 - [dev'rs ASM section](http://www.devrs.com/gb/asmcode.php) - A lot of working demos and sources.
-- [Assembly tutorial by David Pello](http://wiki.ladecadence.net/doku.php?do=show&id=tutorial_de_ensamblador) - Good document to actually learn to produce working asm code for gb. Brief explanations of many important topics. Many examples with commented source code (spanish only).
-- [Assembly tutorial by David Pello](https://avivace.ovh/apps/gbdev/salvage/tutorial_de_ensamblador%20%5bLa%20decadence%5d.html) - The english version of the resource above.
+- [Assembly tutorial by David Pello](http://wiki.ladecadence.net/doku.php?do=show&id=tutorial_de_ensamblador) - Good document to actually learn to produce working asm code for gb. Brief explanations of many important topics. Many examples with commented source code. An english version is available [here](https://avivace.com/apps/gbdev/salvage/tutorial_de_ensamblador%20[La%20decadence].html).
 - [Beginner's Guide to Reverse Engineering GB](http://web.archive.org/web/20150511145100/http://www.bennvenn.com/Beginners_Guide_To_Reverse_Engineering.htm) - Some starting tips on disassembling and reverse engineering.
 - [gb-template ★5 ⏳1Y](https://github.com/exezin/gb-template) - A template with basic functions pre-made such as joypad input, DMA transfers, and map/tile data loading.
 - [assemblydigest ★38 ⏳3Y](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques.
@@ -251,9 +253,11 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [Pokémon Christmas](https://github.com/TheFakeMateo/xmas)
 - [Sushi ★2](https://github.com/JustSid/Sushi)
 - [Flappy-boy-asm ★8](https://github.com/bitnenfer/flappy-boy-asm)
-- [kupman ★1](https://github.com/dubvulture/gbdev)
+- [kupman ★1](https://github.com/dubvulture/gbdev) and some other projects
 - [Adjustris ★1](https://github.com/tbsp/Adjustris)
 - [exeman ★4](https://github.com/exezin/exeman)
+- [Aevilia ★7](https://github.com/ISSOtm/Aevilia-GB)
+- [GBSlides ★10](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
 
 ### C
 - [flappybird-gb](https://github.com/LuckyLights/flappybird-gb)
@@ -272,6 +276,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [Hives](https://refreshgames.co.uk/2017/04/24/ludum-dare-38-entry-hives/)
 - [Bubble Factory ★6](https://github.com/DonaldHays/bubblefactory)
 - [GBC Atari Boxing ★0](https://github.com/rubfi/gbc-atari-boxing) - Atari 2600 Boxing clone for the Game Boy (Color).
+- [GB raycaster, Vision-8](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) and some other projects
 
 ## ROMs Disassembly
 - [Sonic 1 ★11 ⏳3Y](https://github.com/Kroc/Sonic1-Z80-ASM)
@@ -284,9 +289,10 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Gameboy ROM challenge using radare2
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
 - [Link's Awakening DX Disassembly ★41](https://github.com/mojobojo/LADX-Disassembly)
+- [Disassembly of Tetris ★4](https://github.com/osnr/tetris) - Based on Jeff Frohwein's original disassembly.
 
 ## Related sites, posts and projects
-- [ArduinoBoy ★88](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop., and mGB.
+- [ArduinoBoy ★88](https://github.com/trash80/Arduinoboy) - Serial communication (MIDI) from an Arduino to the Game Boy for music applications such as LittleSoundDJ, Nanoloop, and mGB.
 - [papiGB ★4](https://github.com/diegovalverde/papiGB) - 
 Game Boy Classic fully functional FPGA implementation from scratch
 - [fpgaboy ★44 ⏳1Y](https://github.com/trun/fpgaboy) - Implementation Nintendo's Game Boy console on an FPGA.

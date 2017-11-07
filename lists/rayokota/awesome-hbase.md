@@ -47,7 +47,7 @@ A curated list of awesome HBase projects and resources.
 
 * [asynchbase ★466](https://github.com/OpenTSDB/asynchbase) - Fully asynchronous, non-blocking HBase client.
 * [gohbase ★165](https://github.com/tsuna/gohbase) - Pure Go client for HBase.
-* [happybase ★351](https://github.com/wbolster/happybase) - Python client for HBase.
+* [happybase ★350](https://github.com/wbolster/happybase) - Python client for HBase.
 
 
 ### Cloud
@@ -81,7 +81,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Graph
 * [Gradoop ★83](https://github.com/dbs-leipzig/gradoop) - Research framework for scalable graph analytics built on Flink and HBase.
-* [HGraphDB ★78](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database.
+* [HGraphDB ★81](https://github.com/rayokota/hgraphdb) - HBase as a TinkerPop graph database.
 * [JanusGraph](http://janusgraph.org/) - Scalable graph database with support for Cassandra, HBase, Google Cloud Bigtable, and BerkeleyDB.
 * [S2Graph](http://s2graph.incubator.apache.org) - High-performance distributed graph database built on HBase.
 

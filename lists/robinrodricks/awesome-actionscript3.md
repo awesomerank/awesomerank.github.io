@@ -140,7 +140,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3spec ★23 ⏳7Y](https://github.com/f1337/as3spec) - Tiny BDD framework for AS3, inspired by Bacon and RSpec.
 * [Flexunit ★275 ⏳3Y](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects.
 * [ASunit ★50 ⏳6Y](https://github.com/patternpark/asunit) - The only unit test framework that supports Flash Players 6, 7, 8, 9 and 10.
-* [RobotEyes ★48 ⏳6Y](https://github.com/Stray/RobotEyes) - End-to-end testing for TDD. Hybrid of WindowLicker and Drew Bourne's Mockolate.
+* [RobotEyes ★48 ⏳7Y](https://github.com/Stray/RobotEyes) - End-to-end testing for TDD. Hybrid of WindowLicker and Drew Bourne's Mockolate.
 
 ## User Interface
 #### UI Components
@@ -178,7 +178,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Multi Touch
 
 * [AS3TouchLib ★16 ⏳4Y](https://github.com/turbosqel/AS3TouchLib) - Touch library for read CCV TCP/FlashXML data, TUIO UDP/TCP or TouchEvents from other devices.
-* [TUIO Client ★2 ⏳1Y](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash)).
+* [TUIO Client ★2 ⏳2Y](https://github.com/lagerkoller/tuio-as3) - Common framework for multi-touch hardware, supporting TUIO/FLC and TUIO/TCP ([web](http://www.tuio.org/?flash)).
 * [Gestouch ★362 ⏳1Y](https://github.com/fljot/Gestouch) - Multitouch gesture recognition library for building better Natural User Interfaces.
 * [Gestures.IO ★0 ⏳3Y](https://github.com/GesturesIO/gesturesio-as3) - Simplifies the way you create gesture-based Natural Interactions.
 * [TouchScript ★14 ⏳4Y](https://github.com/TouchScript/TouchScript.as3) - Multitouch framework that makes handling complex gesture interactions on large touch surfaces easier.
@@ -224,7 +224,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Image
 
 * [Scale9Image ★13 ⏳4Y](https://github.com/Tibus/Scale9Image) - Optimized scale9Grid image for starling.
-* [ASImageLib ★7 ⏳3Y](https://github.com/terrynoya/ASImageLib) - BMP/PNG decoder for actionscript.
+* [ASImageLib ★7 ⏳4Y](https://github.com/terrynoya/ASImageLib) - BMP/PNG decoder for actionscript.
 * [Async-Image-Encoders ★18 ⏳4Y](https://github.com/LeeBurrows/Async-Image-Encoders) - Asynchronously encode BitmapData objects into image file format.
 * [Flip-Planes-AS3 ★14 ⏳6Y](https://github.com/jamesflorentino/Flip-Planes-AS3) - Photo slideshow effects.
 * [AS3-transitions-lib ★9 ⏳2Y](https://github.com/foo123/as3-transitions-lib) - Image Transitions Library.
@@ -453,7 +453,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### OAuth
 
 * [Actionscript-oauth2 ★109 ⏳3Y](https://github.com/charlesbihis/actionscript-oauth2) - Interfacing with OAuth 2.0 services.
-* [oauth-flex ★7 ⏳3Y](https://github.com/oauth-io/oauth-flex) - OAuth.io plugin for Apache Flex/ActionScript.
+* [oauth-flex ★7 ⏳4Y](https://github.com/oauth-io/oauth-flex) - OAuth.io plugin for Apache Flex/ActionScript.
 * [oauth-as3 ★4 ⏳7Y](https://github.com/mlepicki/oauth-as3) - Mavenized, RSL version of oauth-as3 library - OAuth for ActionScript 3.
 
 #### HTTP
@@ -581,7 +581,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [MIL ★2 ⏳7Y](https://github.com/ser1zw/MIL) - A MIL language VM and interpreter written in ActionScript.
 * [TALES ★1 ⏳5Y](https://github.com/oaubert/tales4as) - TALES interpreter for ActionScript.
 * [Scheme ★1 ⏳6Y](https://github.com/hrundik/fScheme) - Scheme interpreter in ActionScript.
-* [Lisp ★2 ⏳3Y](https://github.com/rzubek/as_lisp) - Lisp dialect written in Actionscript, with compiler and bytecode interpreter.
+* [Lisp ★2 ⏳4Y](https://github.com/rzubek/as_lisp) - Lisp dialect written in Actionscript, with compiler and bytecode interpreter.
 * [Lisp Compiler ★92 ⏳6Y](https://github.com/aemoncannon/las3r) - A lisp compiler for the AVM2.
 * [CannonML ★3 ⏳5Y](https://github.com/abiyasa/cannonml_as3) - keim's CannonML (shmup scripting language) interpreter.
 

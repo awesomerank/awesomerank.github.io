@@ -164,13 +164,13 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 ### UI
 
 - [react-native-toast-native★10](https://github.com/onemolegames/react-native-toast-native) React Native Toast component for both Android and iOS.
+- [rn-ab-hoc★13](https://github.com/mfrachet/rn-ab-hoc) - Poor intrusive way to make A/B Testing by using an HoC instead of components.
 - [rn-placeholder★252](https://github.com/mfrachet/rn-placeholder) - Display some placeholder stuff before rendering your text or media content in React Native (+ React Native Web !)
 - [react-native-scrollview-smart★41](https://github.com/bolket/react-native-scrollview-smart) - A Smart ScrollView component for IOS and Android.
 - [react-native-fast-image★265](https://github.com/DylanVann/react-native-fast-image) - FastImage, performant React Native image component.
 - [react-native-pagination ★5](https://github.com/garrettmac/react-native-pagination) - A Beautiful Pagination Plugin For Lists.
 - [react-native-search-box★87](https://github.com/crabstudio/react-native-search-box) - A simple search box with animation, inspired from ios search bar.
 - [rn-sliding-up-panel ★22](https://github.com/octopitus/rn-sliding-up-panel) - React Native draggable sliding up panel purly implemented in Javascript. Works nicely on both iOS and Android.
-- [react-native-ab-hoc★1](https://github.com/mfrachet/react-native-ab-hoc) - A HoC alternative to create A/B tests on react native
 - [react-native-splash-screen ★383](https://github.com/crazycodeboy/react-native-splash-screen) - A splash screen for react-native, hide when application loaded ,it works on iOS and Android.
 - [react-native-display ★23](https://github.com/sundayhd/react-native-display) - This module brings "Display: none" (css style) to turn on/off components from render. Using this module will improve your app performance and appearance with the enter/exit animations.
 - [react-native-check-box ★65](https://github.com/crazycodeboy/react-native-check-box) - Checkbox component for react native, it works on iOS and Android.
@@ -210,7 +210,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-bar-collapsible ★11](https://github.com/caroaguilar/react-native-bar-collapsible) - A Bar component that can be collapsible (toggle/accordion), clickable or text-only.
 - [react-native-beautiful-video-recorder ★27](https://github.com/phuochau/react-native-beautiful-video-recorder) - The video recorder component that extends from react-native-camera. It works for both iOS & Android.
 - [react-native-beautiful-image ★12](https://github.com/phuochau/react-native-beautiful-image) - The Beautiful Image component that supports fadeIn animation and shows placeholderSource if the main source can't be loaded.
-- [react-native-big-slider ★1](https://github.com/netbeast/react-native-big-slider) - Yet another, big one, pure JS easily customisable and hackable react-native slider component.
+- [react-native-big-slider ★6](https://github.com/netbeast/react-native-big-slider) - Yet another, big one, pure JS easily customisable and hackable react-native slider component.
 - [react-native-blur ★1021](https://github.com/Kureev/react-native-blur) - React Native Blur component
 - [react-native-bouncy-drawer ★2](https://github.com/SoftZen/react-native-bouncy-drawer) - Highly customizable Bouncy Drawer
 - [react-native-fxblurview ★26](https://github.com/magus/react-native-fxblurview) - React Native wrapper for popular FXBlurView library for realtime, fine-tuned blur effects
@@ -322,7 +322,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-mapbox-gl ★696](https://github.com/mapbox/react-native-mapbox-gl) - A Mapbox GL react native module for creating custom maps
 - [react-native-maps ★3330](https://github.com/lelandrichardson/react-native-maps) - React Native Map components for iOS + Android
 - [react-native-google-place-picker ★59](https://github.com/q6112345/react-native-google-place-picker) - React Native Wrapper of Google Place Picker for both Android and iOS.
-- [react-native-markdown-editor ★6](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
+- [react-native-markdown-editor ★9](https://github.com/kunall17/react-native-markdown-editor) - Markdown editor like github comment editor (contains preview, markdown buttons)
 - [react-native-marquee-label ★37](https://github.com/remobile/react-native-marquee-label) - A marquee label for react-native
 - [react-native-masked-view ★33](https://github.com/gilbox/react-native-masked-view) - A  element for react-native
 - [react-native-masked-text ★41](https://github.com/benhurott/react-native-masked-text) - A simple masked text and input text component for React-Native.
@@ -703,6 +703,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-billing ★171](https://github.com/idehub/react-native-billing) - In-app purchase implementation for React Native on Android.
 - [react-native-haptic ★29](https://github.com/charlesvinette/react-native-haptic) - iOS 10 + haptic feedback for React Native applications
 - [react-native-quick-actions ★287](https://github.com/madriska/react-native-quick-actions) - A react-native interface for 3D Touch home screen quick actions
+- [react-native-firebase ★1420](https://github.com/invertase/react-native-firebase) - A well tested feature rich Firebase implementation for React Native, supporting both iOS & Android platforms for 10+ Firebase modules (including Cloud Firestore).
 
 ### Web
 
@@ -895,7 +896,7 @@ Useful React Native tooling.
 - [generact](http://github.com/diegohaz/generact) - CLI that generates components based on existing ones no matter how you structure your app
 - [react-native-rename ★403](https://github.com/junedomingo/react-native-rename) - Rename react-native app with just one command
 - [Storybook](https://storybook.js.org) - UI development environment for your React components
-- [Makeicon ★28](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
+- [Makeicon ★34](https://github.com/beplus/makeicon) - Generates mobile app icons in all resolutions for both iOS and Android
 - [BugSnag](https://www.bugsnag.com/platforms/react-native-error-reporting/) - A tool that logs native & JS errors. Has a free tier. Includes useful data about the user, environment, session, release, etc.
 - [React Native Actions ★18](https://github.com/lucasbento/react-native-actions) - Run React Native actions from within VSCode.
 
@@ -1042,6 +1043,7 @@ Walkthroughs and tutorials that help you learn React Native.
 - [Introducing React Native (on Ray Wenderlich's)](http://www.raywenderlich.com/99473/introducing-react-native-building-apps-javascript)
 - [Leverage Existing iOS Views In Your React Native App](http://moduscreate.com/leverage-existing-ios-views-react-native-app/)
 - [Official React Native tutorial](http://facebook.github.io/react-native/docs/tutorial.html#content)
+- [React Native Android Widget Proof of Concept ★41](https://github.com/netbeast/react-native-android-widget-poc)
 - [React Native Periscope Hearts Animation](http://browniefed.com/blog/2015/09/07/react-native-periscope-hearts-animation/)
 - [React Native Youtube Animated Video Slide](http://browniefed.com/blog/2015/08/31/react-native-youtube-animated-video-slide/)
 - [React Native and Socket.io](https://bullpen.bullish.io/how-to-actually-use-socket-io-in-react-native-39082d8d6172)

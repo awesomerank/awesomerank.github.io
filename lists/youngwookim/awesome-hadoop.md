@@ -53,7 +53,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 * [Kiji Project](http://www.kiji.org/)
 * [Genie ★777](https://github.com/Netflix/genie) - Genie provides REST-ful APIs to run Hadoop, Hive and Pig jobs, and to manage multiple Hadoop resources and perform job submissions across them.
 * [Apache Kylin](http://kylin.incubator.apache.org/) - Apache Kylin is an open source Distributed Analytics Engine from eBay Inc. that provides SQL interface and multi-dimensional analysis (OLAP) on Hadoop supporting extremely large datasets
-* [Crunch ★157 ⏳2Y](https://github.com/jondot/crunch) - Go-based toolkit for ETL and feature extraction on Hadoop
+* [Crunch ★157 ⏳3Y](https://github.com/jondot/crunch) - Go-based toolkit for ETL and feature extraction on Hadoop
 * [Apache Ignite](http://ignite.apache.org/) - Distributed in-memory platform
 
 ## YARN
@@ -67,7 +67,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 
 * [Apache HBase](http://hbase.apache.org) - Apache HBase
 * [Apache Phoenix](http://phoenix.apache.org/) - A SQL skin over HBase supporting secondary indices
-* [happybase ★351](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
+* [happybase ★350](https://github.com/wbolster/happybase) - A developer-friendly Python library to interact with Apache HBase.
 * [Hannibal ★155](https://github.com/sentric/hannibal) - Hannibal is tool to help monitor and maintain HBase-Clusters that are configured for manual splitting.
 * [Haeinsa ★141](https://github.com/VCNC/haeinsa) - Haeinsa is linearly scalable multi-row, multi-table transaction library for HBase
 * [hindex ★444](https://github.com/Huawei-Hadoop/hindex) - Secondary Index for HBase
@@ -197,7 +197,7 @@ A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspi
 ## Machine learning and Big Data analytics
 
 * [Apache Mahout](http://mahout.apache.org)
-* [Oryx 2 ★1237](https://github.com/OryxProject/oryx) - Lambda architecture on Spark, Kafka for real-time large scale machine learning
+* [Oryx 2 ★1252](https://github.com/OryxProject/oryx) - Lambda architecture on Spark, Kafka for real-time large scale machine learning
 * [MLlib](https://spark.apache.org/mllib/) - MLlib is Apache Spark's scalable machine learning library.
 * [R](http://www.r-project.org/) - R is a free software environment for statistical computing and graphics.
 * [RHadoop](https://github.com/RevolutionAnalytics/RHadoop/wiki) including RHDFS, RHBase, RMR2, plyrmr

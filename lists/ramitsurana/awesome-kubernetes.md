@@ -164,10 +164,10 @@ Installers
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique - [Apache-2.0](https://github.com/supergiant/supergiant/blob/master/LICENSE)
 * [Archon ★125](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubeup/archon/blob/master/LICENSE)
 * [KubeNow ★112](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostique - [Apache-2.0](https://github.com/kubenow/KubeNow/blob/master/LICENSE)
-* [Kubicorn ★663](https://github.com/kris-nova/kubicorn) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kris-nova/kubicorn/blob/master/LICENSE)
-* [Simplekube ★45](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
+* [Kubicorn ★785](https://github.com/kris-nova/kubicorn) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kris-nova/kubicorn/blob/master/LICENSE)
+* [Simplekube ★50](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
 * [Conjure-up ★176](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique - [MIT](https://github.com/conjure-up/conjure-up/blob/master/LICENSE)
-* [Kube-ansible ★6](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
+* [Kube-ansible ★11](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
 
 Main Resources
 =======================================================================
@@ -175,7 +175,7 @@ Main Resources
 *Official resources from the Kubernetes team*
 
 * [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-* [Kubernetes Source ★27306](https://github.com/kubernetes/kubernetes)
+* [Kubernetes Source ★28449](https://github.com/kubernetes/kubernetes)
 * [Kubernetes Troubleshooting](https://kubernetes.io/docs/tasks/debug-application-cluster/troubleshooting/)
 
 
@@ -285,8 +285,8 @@ Managed Kubernetes
   - [Deis Workflow](https://deis.com/) - [Deprecated Public Releases](https://deis.com/blog/2017/deis-workflow-final-release/)
   - [Kel](http://www.kelproject.com)
   - [WSO2](http://wso2.com)
+  - [Kumoru](https://medium.com/@kumoru_io) - [Deprecated](https://www.youtube.com/watch?v=_5XQmE7rx9o) - Not Official
   - [Rancher](http://rancher.com/running-kubernetes-aws-rancher/)
-  - [Kumoru](https://medium.com/@kumoru_io)
   - [OpenShift Origin](https://www.openshift.org/)
   - [Eldarion Cloud](http://eldarion.cloud)
   - [IBM Bluemix Container Service](https://www.ibm.com/cloud-computing/bluemix/containers)
@@ -345,7 +345,7 @@ Persistent Volume Providers
 * [QuoByte](https://www.quobyte.com/)
 * [Kube-Aliyun ★53](https://github.com/kubeup/kube-aliyun)
 * [Portworx](https://portworx.com/)
-* [OpenEBS ★2270](https://github.com/openebs/openebs)
+* [OpenEBS ★2418](https://github.com/openebs/openebs)
 
 Developer Libraries
 =======================================================================
@@ -366,7 +366,7 @@ Projects
 
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
 
-* [Argo ★146](https://github.com/argoproj/argo) The Workflow Engine for Kubernetes
+* [Argo ★196](https://github.com/argoproj/argo) The Workflow Engine for Kubernetes
 * [Hypernetes ★465](https://github.com/hyperhq/hypernetes)
 * [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 * [kmachine ★169](https://github.com/skippbox/kmachine)
@@ -379,7 +379,7 @@ Projects
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](https://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
-* [Fission Workflows ★27](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
+* [Fission Workflows ★52](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
 * [Ambassador](https://www.getambassador.io) - API Gateway built on the Envoy Proxy
 
 ## Package Managers
@@ -403,13 +403,13 @@ Projects
 * [Sysdig Monitoring](https://www.sysdig.com/)
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [Weave Scope](https://www.weave.works/products/weave-scope/)
-* [Searchlight ★67](https://github.com/appscode/searchlight)
+* [Searchlight ★74](https://github.com/appscode/searchlight)
 
 ## Testing
 
 *Test your applications running on Kubernetes*
 
-* [kube-monkey ★407](https://github.com/asobti/kube-monkey)
+* [kube-monkey ★426](https://github.com/asobti/kube-monkey)
 
 ## Continuous Delivery
 
@@ -482,12 +482,12 @@ Projects
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
-  * [rktlet ★57](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes
+  * [rktlet ★61](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes
 * [containerd ★1776](https://github.com/containerd/containerd)
 * [CRI-O (OCI) ★667](https://github.com/kubernetes-incubator/cri-o)
 * [Hyper.sh/frakti ★194](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
-* [virtlet ★95](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads
-* [infranetes ★13](https://github.com/apporbit/infranetes)
+* [virtlet ★106](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads
+* [infranetes ★14](https://github.com/apporbit/infranetes)
 
 ## Database
 
@@ -512,11 +512,11 @@ Projects
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [Cilium ★1053](https://github.com/cilium/cilium)
 * [Linen ★19](https://github.com/John-Lin/linen-cni)
-* [Multu ★72](https://github.com/Intel-Corp/multus-cni)
-* [CNI-Genie ★58](https://github.com/Huawei-PaaS/CNI-Genie)
+* [Multu ★78](https://github.com/Intel-Corp/multus-cni)
+* [CNI-Genie ★64](https://github.com/Huawei-PaaS/CNI-Genie)
 * [Romana](http://romana.io/)
-* [Infoblox ★2](https://github.com/infobloxopen/cni-infoblox)
-* [External DNS ★431](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
+* [Infoblox ★3](https://github.com/infobloxopen/cni-infoblox)
+* [External DNS ★488](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
 
 ## Service mesh
 
@@ -552,7 +552,7 @@ Projects
 
 ## API/CLI adaptors
 
-* [kube-prompt ★367](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
+* [kube-prompt ★401](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
 * [Kube-shell ★376](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
 * [Kubebot ★61 ⏳1Y](https://github.com/harbur/kubebot)
 * [kubectx ★194](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
@@ -573,7 +573,7 @@ Projects
 * [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
 * [Nulecule ★225 ⏳1Y](https://github.com/projectatomic/nulecule)
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
-* [Psykube ★26](https://github.com/commercialtribe/psykube)
+* [Psykube ★31](https://github.com/commercialtribe/psykube)
 * [Brigade ★186](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
 
 ## Configuration
@@ -631,7 +631,7 @@ Projects
 
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
 * [kompose ★1721](https://github.com/kubernetes/kompose)
-* [kubeval ★240](https://github.com/garethr/kubeval)
+* [kubeval ★254](https://github.com/garethr/kubeval)
 
 ## Tuning
 

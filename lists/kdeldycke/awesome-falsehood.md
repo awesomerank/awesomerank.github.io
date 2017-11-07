@@ -99,7 +99,7 @@ Economics are not simple or rational.
 definitions](http://unicode.org/cldr/trac/browser/tags/release-31/common/supplemental/supplementalData.xml#L81) -
 Currency validity date ranges overlap due to revolts, invasions, new
 constitutions, and slow planned adoption.
-- [`tax` ★190](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
+- [`tax` ★191](https://github.com/commerceguys/tax) - A PHP 5.4+ tax management
 library.
 
 
@@ -195,7 +195,7 @@ Localized representations of the components of a person’s name.
 Language](http://garbled.benhamill.com/2017/04/18/falsehoods-programmers-believe-about-language/) -
 Translating a software from English is not as straightforward as it seems to
 be.
-- [i18n Testing Data ★26 ⏳1Y](https://github.com/patch/i18n-testing) - Real-word
+- [i18n Testing Data ★30 ⏳1Y](https://github.com/patch/i18n-testing) - Real-word
 international and diverse name data for unit testing and QA.
 - [Internationalis(z)ing Code](https://www.youtube.com/watch?v=0j74jcxSunY) -
 A video about things you need to keep in mind when internationalizing your
@@ -225,13 +225,13 @@ Assumptions that programmers new to distributed applications invariably make.
 - [Falsehoods About Phone
 Numbers](https://github.com/googlei18n/libphonenumber/blob/master/FALSEHOODS.md) -
 Covers phone numbers, their representation and meaning.
-- [`libphonenumber` ★5796](https://github.com/googlei18n/libphonenumber) - Google's
+- [`libphonenumber` ★6030](https://github.com/googlei18n/libphonenumber) - Google's
 common Java, C++ and JavaScript library for parsing, formatting, and validating
 international phone numbers. Also available for
-[C# ★170](https://github.com/erezak/libphonenumber-csharp),
+[C# ★171](https://github.com/erezak/libphonenumber-csharp),
 [Objective-C ★1713](https://github.com/iziz/libPhoneNumber-iOS),
-[Python ★1631](https://github.com/daviddrysdale/python-phonenumbers),
-[Ruby ★518](https://github.com/sstephenson/global_phone) and
+[Python ★1669](https://github.com/daviddrysdale/python-phonenumbers),
+[Ruby ★525](https://github.com/sstephenson/global_phone) and
 [PHP ★1987](https://github.com/giggsey/libphonenumber-for-php).
 
 
@@ -243,12 +243,12 @@ Covers streets, postal codes, buildings, cities and countries.
 - [Letter Delivered Despite No Name, No
 Address](https://twitter.com/loriskumo/status/735851511331356672) - Ultimate
 falsehood about postal addresses: you do not need one.
-- [`libaddressinput` ★276](https://github.com/googlei18n/libaddressinput) - Google's
+- [`libaddressinput` ★282](https://github.com/googlei18n/libaddressinput) - Google's
 common C++ and Java library for parsing, formatting, and validating
 international postal addresses.
-- [`addressing` ★519](https://github.com/commerceguys/addressing) - A PHP 5.4+
+- [`addressing` ★527](https://github.com/commerceguys/addressing) - A PHP 5.4+
 addressing library, powered by Google's dataset.
-- [`postal-address` ★61](https://github.com/scaleway/postal-address) - Python
+- [`postal-address` ★64](https://github.com/scaleway/postal-address) - Python
 module to parse, normalize and render postal addresses.
 
 
@@ -297,7 +297,7 @@ your assumptions about strings.
 
 ## Typography
 
-- [Falsehoods About Fonts ★55](https://github.com/RoelN/Font-Falsehoods) -
+- [Falsehoods About Fonts ★62](https://github.com/RoelN/Font-Falsehoods) -
 Assumptions about typography on the web and in desktop applications.
 
 

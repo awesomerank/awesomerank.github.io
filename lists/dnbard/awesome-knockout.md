@@ -44,7 +44,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 
 ## Custom Bindings
 - [Punches ★247 ⏳1Y](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes
-- [Switch Case ★171](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings
+- [Switch Case ★171 ⏳1Y](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings
 - [Repeat ★131](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler
 - [Table ★87 ⏳1Y](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
 

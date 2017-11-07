@@ -117,7 +117,7 @@ Name | License | Demo
 [ToggleExpandLayout ★753](https://github.com/fenjuly/ToggleExpandLayout) | [MIT](http://opensource.org/licenses/MIT) | <img src="/art/ToggleExpandLayout.gif" width="49%">
 [FlowingDrawer ★1904](https://github.com/mxn21/FlowingDrawer) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlowingDrawer.gif" width="65%">
 [WaveView ★1082](https://github.com/gelitenight/WaveView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/gelitenight-WaveView.gif" width="65%">
-[FoldableLayout ★512 ⏳1Y](https://github.com/worldline/FoldableLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FoldableLayout.gif" width="49%">
+[FoldableLayout ★512 ⏳2Y](https://github.com/worldline/FoldableLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FoldableLayout.gif" width="49%">
 [TriangleLabelView ★650 ⏳1Y](https://github.com/shts/TriangleLabelView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/TriangleLabelView.jpg" width="49%">
 [FlexboxLayout ★9508](https://github.com/google/flexbox-layout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/FlexboxLayout.gif" width="49%"> <img src="/art/FlexboxLayout2.gif" width="49%">
 [Vorolay ★758](https://github.com/Quatja/Vorolay) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Vorolay.png" width="49%"> <img src="/art/Vorolay2.png" width="49%">
@@ -313,7 +313,7 @@ Graph
 ======================
 Name | License | Demo
 --- | --- | ---
-[EazeGraph ★1290](https://github.com/blackfizz/EazeGraph) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/EazeGraph.png" width="49%"> <img src="/art/EazeGraph2.png" width="49%"> <img src="/art/EazeGraph3.png" width="49%"> <img src="/art/EazeGraph4.png" width="49%">
+[EazeGraph ★1290 ⏳1Y](https://github.com/blackfizz/EazeGraph) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/EazeGraph.png" width="49%"> <img src="/art/EazeGraph2.png" width="49%"> <img src="/art/EazeGraph3.png" width="49%"> <img src="/art/EazeGraph4.png" width="49%">
 [GraphView](https://github.com/jjoe64/GraphView) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/graphview-zooming.gif" width="65%"> <img src="/art/graphview-anim.gif" width="65%">
 [hellocharts-android ★4969](https://github.com/lecho/hellocharts-android) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/hellocharts-android.gif" width="49%"> <img src="/art/hellocharts-android2.png" width="49%"> <img src="/art/hellocharts-android3.png" width="49%">
 [MPAndroidChart ★18572](https://github.com/PhilJay/MPAndroidChart) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0)  | <img src="/art/MPAndroidChart.png" width="49%"> <img src="/art/MPAndroidChart2.png" width="49%"> <img src="/art/MPAndroidChart3.png" width="49%"> <img src="/art/MPAndroidChart4.png" width="49%">

@@ -97,7 +97,7 @@ Graphics
 * :tada: [Libgdx Texture Packer](https://github.com/libgdx/libgdx/wiki/Texture-packer) - Texture Packer built into Libgdx
 * :free: [Littera](http://kvazars.com/littera) - Bitmap font generator
 * :free: [ShoeBox](http://renderhjs.net/shoebox/) - Adobe Air based app with game and ui related tools.
-* :tada: [Sprite Sheet Packer ★11](https://github.com/nickgravelyn/SpriteSheetPacker) - Combine multiple images into a single sprite sheet and generate a txt map of it.
+* :tada: [Sprite Sheet Packer ★15](https://github.com/nickgravelyn/SpriteSheetPacker) - Combine multiple images into a single sprite sheet and generate a txt map of it.
 * :money_with_wings: [TexturePacker](https://www.codeandweb.com/texturepacker) - Great spritesheet creation editor.
 
 #### Bitmap Compression
@@ -250,15 +250,15 @@ Code
 * :moneybag: [CopperCube3D](http://www.ambiera.com/coppercube/) - CopperCube is an all-in-one 3D game engine.Very easy to use.
 * :tada: [Coquette](http://coquette.maryrosecook.com/) - A micro framework for JavaScript games. Handles collision detection, the game update loop, canvas rendering, and keyboard and mouse input.
 * :free: [Corona SDK](https://coronalabs.com/) - A Cross-Platform Mobile App Development for iOS and Android.
-* :tada: [Dash ★360 ⏳1Y](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
+* :tada: [Dash ★362 ⏳1Y](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D.
 * :free: [Defold](http://www.defold.com/) - Free 2D Game Engine for Cross-Platform Publishing
 * :tada: [Duality](http://duality.adamslair.net/) - C# / OpenGL 2D Game Engine that comes with visual editor.
 * :tada: [ENGi ★375 ⏳1Y](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 * :tada: [Ebiten](https://hajimehoshi.github.io/ebiten/) - A simple 2D game library in Go.
 * :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 * :tada: [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
-* :tada: [FXGL ★387](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux.
-* :tada: [Farseer ★117](https://github.com/VelcroPhysics/VelcroPhysics) - a collision detection system with realistic physics responses.
+* :tada: [FXGL ★413](https://github.com/AlmasB/FXGL) - A JavaFX/Kotlin game engine for Win/Mac/Linux.
+* :tada: [Farseer ★135](https://github.com/VelcroPhysics/VelcroPhysics) - a collision detection system with realistic physics responses.
 * :tada: [FlashPunk](http://useflashpunk.net/) - free ActionScript 3 library designed for developing 2D Flash games.
 * :tada: [Flixel](http://flixel.org/index.html) - an open source game-making written in ActionScript3.
 * :moneybag: [GameMaker](http://www.yoyogames.com/studio) - GameMaker accommodates the creation of cross-platform video games using drag and drop or a scripting language known as Game Maker Language, which can be used to develop more advanced games that could not be created just by using the drag and drop features.
@@ -338,7 +338,7 @@ Code
 * :tada: [WhiteStorm.js](https://github.com/WhitestormJS/whitestorm.js) - 3d javacript framework for building apps and games
 * :tada: [XNA](http://mxa.codeplex.com/) - Microsoft's game development framework.
 * :tada: [Xenko](http://xenko.com/) - Open Source C# Game Engine.
-* :tada: [bgfx ★3488](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
+* :tada: [bgfx ★3687](https://github.com/bkaradzic/bgfx) - Cross-platform, graphics API agnostic, "Bring Your Own Engine/Framework" style rendering library.
 * :tada: [gameplay](http://gameplay3d.io/) - A free, open-source, cross-platform, 2D + 3D game framework written in C++. It is aimed towards indie game developers who are creating desktop and mobile games.
 * :tada: [ggez](http://ggez.rs/) - A Rust library to create Good Games Easily.
 * :tada: [iio.js](https://github.com/iioinc/iio.js) - A javascript library that speeds the creation and deployment of HTML5 Canvas applications

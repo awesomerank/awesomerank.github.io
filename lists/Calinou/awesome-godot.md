@@ -79,7 +79,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 
 - [Add Primitives ★51](https://github.com/TheHX/add_primitives) - Add cylinders, spheres, cubes easily.
 - [Atlas importer](https://github.com/Geequlim/godot-code/tree/master/addons/atlas_importer) - The plugin to import packed atlas from [TexturePacker](https://www.codeandweb.com/texturepacker), [Attila ★23 ⏳1Y](https://github.com/r-lyeh/attila) and [Kenney Assets](https://kenney.nl/assets)
-- [Auto Tile Layer ★11](https://github.com/leezh/autotile) -  addon that allows automatic 2D tiling using RPG Maker's Autotile format
+- [Auto Tile Layer ★11 ⏳1Y](https://github.com/leezh/autotile) -  addon that allows automatic 2D tiling using RPG Maker's Autotile format
 - [Camera2D Screen Shake](https://godotengine.org/qa/438/camera2d-screen-shake-extension) - Screen shake effect for Camera2D.
 - [Create Tileset ★41 ⏳1Y](https://github.com/vinod8990/godot_plugins) - Plugin to generate Godot tilesets based on atlas images
 - [CRT Shader ★36 ⏳1Y](https://github.com/henriquelalves/SimpleGodotCRTShader) - Godot shader that simulates CRT Displays.

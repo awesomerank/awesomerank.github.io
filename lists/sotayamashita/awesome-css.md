@@ -124,7 +124,7 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 * [Tacit](https://yegor256.github.io/tacit/) - Tacit is a CSS framework for dummies with zero skills of graphic design.
 * [Pills](http://arkpod.in/pills) - A simple, responsive, and tiny CSS grid for humans.
 
-_[You can find more frameworks at "awesome-css-frameworks" ★14](https://github.com/troxler/awesome-css-frameworks)_
+_[You can find more frameworks at "awesome-css-frameworks" ★29](https://github.com/troxler/awesome-css-frameworks)_
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -207,7 +207,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 ## Style Guide Generators :slot_machine:
 
-- [Hologram ★2093](https://github.com/trulia/hologram)
+- [Hologram ★2102](https://github.com/trulia/hologram)
 - [mdcss ★625](https://github.com/jonathantneal/mdcss)
 - [Source](https://sourcejs.com/)
 - [styledoc ★4 ⏳5Y](https://github.com/Joony/styledoc)

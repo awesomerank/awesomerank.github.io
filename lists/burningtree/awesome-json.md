@@ -45,7 +45,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 
 ## Applications
 **OS X**
-* [Visual JSON](https://itunes.apple.com/app/id488709442) ([github ★234 ⏳1Y](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
+* [Visual JSON](https://itunes.apple.com/app/id488709442) ([github ★238 ⏳1Y](https://github.com/youknowone/VisualJSON)) - simple JSON pretty-viewer for Mac OS X.
 * [JSONExport ★2863](https://github.com/Ahmed-Ali/JSONExport) - convert a object to a class of one of the currently supported languages.
 
 ## Binary Serialization
@@ -54,51 +54,51 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 * [UBJSON](http://ubjson.org/) - The universally compatible format specification for binary JSON.
 * [CBOR](https://tools.ietf.org/html/rfc7049) - Concise Binary Object Representation.
 * [Smile](http://wiki.fasterxml.com/SmileFormatSpec) - A efficient binary data format.
-* [PSON ★249](https://github.com/dcodeIO/PSON) - Protocol JSON, super efficient binary serialization format.
+* [PSON ★253](https://github.com/dcodeIO/PSON) - Protocol JSON, super efficient binary serialization format.
 
 ## Browser Extensions
 **Chrome**
-* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) ([github ★1116](https://github.com/callumlocke/json-formatter)) - Makes JSON easy to read. Open source.
-* [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) ([github ★737](https://github.com/tulios/json-viewer)) - It is a Chrome extension for printing JSON and JSONP.
+* [JSON Formatter](https://chrome.google.com/webstore/detail/json-formatter/bcjindcccaagfpapjjmafapmmgkkhgoa) ([github ★1175](https://github.com/callumlocke/json-formatter)) - Makes JSON easy to read. Open source.
+* [JSON Viewer](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh) ([github ★782](https://github.com/tulios/json-viewer)) - It is a Chrome extension for printing JSON and JSONP.
 * [JSON Browser](https://chrome.google.com/webstore/detail/json-browser/hngfgkmimoikmpohakflgadcajkfnoba) ([github ★10 ⏳3Y](https://github.com/platy/json-browser)) - Browse a JSON web with the help of JSON schemas.
-* [JSON Finder](https://chrome.google.com/webstore/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) ([github ★24](https://github.com/rapee/jsonfinder)) - Browse like you do it in Finder.
+* [JSON Finder](https://chrome.google.com/webstore/detail/json-finder/flhdcaebggmmpnnaljiajhihdfconkbj) ([github ★27](https://github.com/rapee/jsonfinder)) - Browse like you do it in Finder.
 
 **Firefox**
-* [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github ★663](https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
+* [JSONView](https://addons.mozilla.org/en-US/firefox/addon/jsonview/) ([github ★673](https://github.com/bhollis/jsonview)) - View JSON documents in the browser.
 * [JSON-DataView](https://addons.mozilla.org/en-us/firefox/addon/json-dataview/) ([github ★9 ⏳2Y](https://github.com/warren-bank/moz-json-data-view)) - Displays data in a collapsible tree structure with syntax highlights.
 
 **Safari**
-* [JSONAce](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) ([github ★60](https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
-* [JSONView](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonview-56Q494QF3L) ([github ★252 ⏳2Y](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
+* [JSONAce](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonace-56Q494QF3L) ([github ★61](https://github.com/acrogenesis/JSONAce)) - Formats & syntax highlights JSON viewed inside of the web browser using the ACE editor.
+* [JSONView](https://safari-extensions.apple.com/details/?id=com.acrogenesis.jsonview-56Q494QF3L) ([github ★256 ⏳2Y](https://github.com/acrogenesis/jsonview-safari)) - A port of the JSONView Firefox extension that formats and syntax highlights JSON viewed inside of the browser
 
 ## Command-line tools
-* [jsoncat ★12](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
+* [jsoncat ★13](https://github.com/pantuza/jsoncat) - Pretty-print Json in terminal with colors and adjusting tabs size.
 * [jq](http://stedolan.github.io/jq/) - A lightweight and flexible command-line JSON processor.
 * [json](http://trentm.com/json/) - A "json" command for massaging JSON on your Unix command line.
 * [jshon](http://kmkeen.com/jshon/) - A parser designed for maximum convenience within the shell.
 * [jarg](http://jdp.github.io/jarg/) - Shorthand JSON and form encoding syntax in the shell.
-* [jsawk ★1210 ⏳1Y](https://github.com/micha/jsawk) - Like awk, but for JSON.
-* [gron ★696](https://github.com/tomnomnom/gron) - Convert a JSON file into discrete assignments that are greppable.
-* [jid ★4232](https://github.com/simeji/jid) - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
-* [jiq ★107](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
-* [jv ★13](https://github.com/maxzender/jv) - jv (for jsonviewer) helps you view your JSON.
+* [jsawk ★1214 ⏳1Y](https://github.com/micha/jsawk) - Like awk, but for JSON.
+* [gron ★703](https://github.com/tomnomnom/gron) - Convert a JSON file into discrete assignments that are greppable.
+* [jid ★4258](https://github.com/simeji/jid) - Incremental Digger. Drill down JSON interactively by using filtering queries like jq.
+* [jiq ★113](https://github.com/fiatjaf/jiq) - It's `jid` with `jq`. You can drill down interactively by using `jq` filtering queries.
+* [jv ★16](https://github.com/maxzender/jv) - jv (for jsonviewer) helps you view your JSON.
 
 ## Databases
 * [MongoDB](https://www.mongodb.com/) - an open-source document database, and the leading NoSQL database.
 * [RethinkDB](https://rethinkdb.com/) - An open-source distributed document database with a pleasant and powerful query language.
 * [EJDB](http://ejdb.org/) - Embedded JSON Database engine. (C)
 * [lowdb ★5433](https://github.com/typicode/lowdb) - Flat file database built on lodash API. (Javascript)
-* [Lawnchair ★2148](https://github.com/brianleroux/lawnchair) - A lightweight clientside document store. (Javascript)
-* [JSON ODM ★53](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
-* [JSON Server ★25704](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
-* [Kinto ★3257](https://github.com/Kinto/kinto) - A lightweight JSON storage service with synchronisation and sharing abilities.
+* [Lawnchair ★2146](https://github.com/brianleroux/lawnchair) - A lightweight clientside document store. (Javascript)
+* [JSON ODM ★55](https://github.com/konsultaner/jsonOdm) - Object document mapper for JavaScript to use on the server or in the browser. (Javascript)
+* [JSON Server ★26480](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds.
+* [Kinto ★3307](https://github.com/Kinto/kinto) - A lightweight JSON storage service with synchronisation and sharing abilities.
 * [CouchDB](http://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
-* [RxDB ★5711](https://github.com/pubkey/rxdb) - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)
-* [JSONlite ★800](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (Bash)
+* [RxDB ★5840](https://github.com/pubkey/rxdb) - Event-driven JSON-Database with JSON-Schema, mango-Query and CouchDB-sync. (Javascript)
+* [JSONlite ★804](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (Bash)
 
 ## Datasets
 * [country.io](http://country.io/data) - Various country related datasets, as JSON inc currency, country codes, names and more
-* [countries ★3319](https://github.com/mledoze/countries) - World countries.
+* [countries ★3398](https://github.com/mledoze/countries) - World countries.
 * [vat-rates](http://jsonvat.com/) - VAT rates for all EU countries.
 * [MTG JSON](http://mtgjson.com/) - Up to date Magic the Gathering card data.
 * [Heartstone JSON](https://hearthstonejson.com/) - Up to date Hearthstone card data.
@@ -109,15 +109,15 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 
 ## Data generation
 * [jsonymize ★10 ⏳2Y](https://github.com/cameronhunter/jsonymize) - Reads data from standard input, anonymizes, then writes to standard output.
-* [dyson ★652](https://github.com/webpro/dyson) - Server for dynamic, fake JSON. (node.js)
+* [dyson ★659](https://github.com/webpro/dyson) - Server for dynamic, fake JSON. (node.js)
 
 ## Differencing
 * [JSONPatch](http://jsonpatch.com/) - A format for describing changes to a document.
-* [JSON-Patch ★660](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). (Javascript)
-* [jiff ★294 ⏳1Y](https://github.com/cujojs/jiff) - JSON Patch and diff based on rfc6902. (Javascript)
-* [json-patch-php ★56 ⏳1Y](https://github.com/mikemccabe/json-patch-php) - implementation of JSON-patch (IETF RFC 6902) (PHP)
+* [JSON-Patch ★676](https://github.com/Starcounter-Jack/JSON-Patch) - Lean and mean Javascript implementation of the JSON-Patch standard (RFC 6902). (Javascript)
+* [jiff ★301 ⏳1Y](https://github.com/cujojs/jiff) - JSON Patch and diff based on rfc6902. (Javascript)
+* [json-patch-php ★57](https://github.com/mikemccabe/json-patch-php) - implementation of JSON-patch (IETF RFC 6902) (PHP)
 * [dffptch ★159](https://github.com/paldepind/dffptch) - A micro library for diffing and patching using a compact diff format. (Javascript)
-* [jsondiffpatch ★2129](https://github.com/benjamine/jsondiffpatch) - Diff & patch for JavaScript objects. (Javascript)
+* [jsondiffpatch ★2184](https://github.com/benjamine/jsondiffpatch) - Diff & patch for JavaScript objects. (Javascript)
 
 ## Editors
 * [JSONEdit](http://mb21.github.io/JSONedit/) - User friendly, visual editor built as an AngularJS directive.
@@ -136,7 +136,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 * [Collection+JSON](http://amundsen.com/media-types/collection/) - A read/write hypermedia-type designed to support management and querying of simple collections.
 * [hal-json](http://stateless.co/hal_specification.html) - A set of conventions for expressing hyperlinks in either JSON or XML.
 * [JSON Activity Streams](http://activitystrea.ms/) - A format for syndicating social activities around the web.
-* [JSON-stat ★12](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
+* [JSON-stat ★13](https://github.com/jsonstat/jsonstat) - Simple lightweight format for data dissemination.
 * [/contribute.json](https://www.contributejson.org/) - Making open source contribution information easier to access, across projects.
 * [JSON Table Schema](http://frictionlessdata.io/guides/json-table-schema/) - a simple schema for tabular data
 * [NDJSON](http://ndjson.org/) (Newline delimited JSON) - a standard for delimiting JSON in stream protocols.
@@ -144,7 +144,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 * [JSON Meta Application Protocol (JMAP)](http://jmap.io/) - A protocol for synchronising JSON-based data objects efficiently, with support for push and out-of-band binary data upload/download.
 
 ## Frontend components
-* [JSON editor jQuery plugin ★447 ⏳3Y](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
+* [JSON editor jQuery plugin ★450 ⏳3Y](https://github.com/DavidDurman/FlexiJsonEditor) - component for you web apps/pages. (jQuery)
 * [jqTree](http://mbraak.github.io/jqTree/) - Widget for displaying a tree structure in html. (jQuery)
 * [jsTree](https://www.jstree.com/docs/json/) - jquery plugin, that provides interactive trees. (jQuery)
 * [Dynatable.js](https://www.dynatable.com/) - A funner, semantic, HTML5+JSON, interactive table plugin. (jQuery)
@@ -156,13 +156,13 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 * [jsmn](http://zserge.com/jsmn.html) - A minimalistic parser in C. It can be easily integrated into the resource-limited projects or embedded systems.
 
 **C++**
-* [ArduinoJson ★2260](https://github.com/bblanchon/ArduinoJson) - An efficient library for embedded systems.
+* [ArduinoJson ★2348](https://github.com/bblanchon/ArduinoJson) - An efficient library for embedded systems.
 * [JSON++ ★34 ⏳1Y](https://github.com/tunnuz/json) - A self contained Flex/Bison parser for C++11.
-* [json11 ★1394](https://github.com/dropbox/json11) - A tiny library for C++11.
+* [json11 ★1428](https://github.com/dropbox/json11) - A tiny library for C++11.
 * [RapidJSON](https://github.com/miloyip/rapidjson) - A fast JSON parser/generator for C++ with both SAX/DOM style API
 
 **Clojure**
-* [data.json ★297](https://github.com/clojure/data.json) - parser/generator to/from Clojure data structures.
+* [data.json ★300](https://github.com/clojure/data.json) - parser/generator to/from Clojure data structures.
 
 **Fortran**
 * [JSON-Fortran ★86](https://github.com/jacobwilliams/json-fortran) - A Fortran library for writing, reading, and manipulating JSON files and data structures.
@@ -171,55 +171,55 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 * [aeson-qq ★40](https://github.com/sol/aeson-qq) - JSON quasiquoter for Haskell.
 
 **Java**
-* [JSON-java ★2585](https://github.com/stleary/JSON-java) - A reference implementation.
-* [Fast JSON Processor ★10875](https://github.com/alibaba/fastjson)
+* [JSON-java ★2625](https://github.com/stleary/JSON-java) - A reference implementation.
+* [Fast JSON Processor ★11314](https://github.com/alibaba/fastjson)
 * [Gson ★10442](https://github.com/google/gson) - A Java library to convert JSON to Java objects and vice-versa.
 * [Jackson](http://wiki.fasterxml.com/JacksonHome) - A multi-purpose Java library for processing JSON data format.
 * [moshi ★3213](https://github.com/square/moshi) - A modern JSON library for Android and Java.
 
 **Javascript**
-* [JSON-js ★7074](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
+* [JSON-js ★7128](https://github.com/douglascrockford/JSON-js) - JSON in JavaScript.
 * [JSON 3](http://bestiejs.github.io/json3/) - A modern implementation.
 * [oboe.js](https://oboejs.com/) - A streaming approach, speeds up web applications by providing parsed objects before the response completes.
 
 **Objective-C**
-* [JSONKit ★6137 ⏳1Y](https://github.com/johnezang/JSONKit) - Objective-C library.
+* [JSONKit ★6143 ⏳1Y](https://github.com/johnezang/JSONKit) - Objective-C library.
 * [SBJson](http://www.sbjson.org/) - Parse one or more chunks of data.
 
 **Perl**
 * [JSON::Tiny ★10](https://github.com/daoswald/JSON-Tiny) - Perl module for encoding and decoding JSON in a minimalistic way.
 
 **PL/SQL**
-* [PL/JSON ★163](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
+* [PL/JSON ★166](https://github.com/pljson/pljson) - A generic JSON object written in PL/SQL.
 
 **PHP**
 * [Webmozart JSON ★324](https://github.com/webmozart/json) - A robust decoder/encoder with support for schema validation.
 
 **Python**
-* [simplejson ★863](https://github.com/simplejson/simplejson) - A simple, fast, extensible encoder/decoder
+* [simplejson ★875](https://github.com/simplejson/simplejson) - A simple, fast, extensible encoder/decoder
 * [jsonpickle](http://jsonpickle.github.io/) - Library for serializing any arbitrary object graph.
 * [metamagic.json](https://pypi.python.org/pypi/metamagic.json/0.9.6) - An ultra-fast Python 3 implementation of a JSON encoder.
 
 **Ruby**
-* [oj ★1851](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
-* [MultiJSON ★574](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
+* [oj ★1877](https://github.com/ohler55/oj) - A fast JSON parser and Object marshaller as a Ruby gem.
+* [MultiJSON ★577](https://github.com/intridea/multi_json) - A generic swappable back-end for JSON handling.
 
 **React**
-* [json2react ★128](https://github.com/txgruppi/json2react) - Use JSON to create React Stateless Components.
+* [json2react ★129](https://github.com/txgruppi/json2react) - Use JSON to create React Stateless Components.
 
 **.NET**
 * [jsonfx ★349](https://github.com/jsonfx/jsonfx) - serialization framework for .NET.
 
 **Scala**
-* [spray-json ★662](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
-* [circe ★1053](https://github.com/circe/circe) - Yet another JSON library for Scala.
-* [scala-jsonapi ★90](https://github.com/scala-jsonapi/scala-jsonapi) - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
+* [spray-json ★677](https://github.com/spray/spray-json) - A lightweight, clean and simple implementation in Scala.
+* [circe ★1093](https://github.com/circe/circe) - Yet another JSON library for Scala.
+* [scala-jsonapi ★91](https://github.com/scala-jsonapi/scala-jsonapi) - Support library for integrating the JSON:API spec with Play, Spray and/or Circe backends.
 
 **Swift**
 * [SwiftyJSON ★15603](https://github.com/SwiftyJSON/SwiftyJSON) - The better way to deal with data in Swift.
 
 ## Linters
-* [jsonlint ★1122](https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (Javascript)
+* [jsonlint ★1136](https://github.com/zaach/jsonlint) - Parser and validator with a CLI. (Javascript)
 * [JSON Lint ★245](https://github.com/Seldaek/jsonlint) - PHP linter. (PHP)
 
 ## Online tools
@@ -251,7 +251,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 
 ## Services
 * [ipinfo.io](https://ipinfo.io) - JSON IP and GeoIP REST API.
-* [JSONProxy ★236](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
+* [JSONProxy ★237](https://github.com/afeld/jsonp) - Simple HTTP proxy that enables cross-domain requests to any JSON API.
 * [Myjson](http://myjson.com/) - A simple store for your web or mobile app.
 * [Telize](http://www.telize.com/) - JSON IP and GeoIP REST API.
 * [jsonpad](https://jsonpad.io/) - a simple JSON storage platform.
@@ -259,12 +259,12 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 
 ## Supersets
 * [YAML](http://yaml.org) - A human friendly data serialization standard for all programming languages.
-* [HanSON ★121 ⏳1Y](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
-* [μson ★58 ⏳1Y](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
+* [HanSON ★123 ⏳1Y](https://github.com/timjansen/hanson) - JSON for Humans - with unquoted identifiers, multi-line strings and comments.
+* [μson ★59 ⏳1Y](https://github.com/burningtree/uson) (uson) - a shorthand for JSON.
 * [HOCON](https://github.com/typesafehub/config/blob/master/HOCON.md#hocon-human-optimized-config-object-notation) - Human-Optimized Config Object Notation.
 * [ASON](http://www.americanteeth.org/libason/ason_spec.pdf) - A semantically complete superset of JSON (draft).
-* [TOML ★6404](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
-* [HCL ★1154](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
+* [TOML ★6536](https://github.com/toml-lang/toml) - A minimal configuration file format that's easy to read due to obvious semantics.
+* [HCL ★1212](https://github.com/hashicorp/hcl) - A structured configuration language that is both human and machine friendly.
 
 ## Tutorials
 * [Introducing JSON](http://json.org/)
@@ -275,47 +275,47 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 
 ## Related formats
 * [AXON](https://intellimath.bitbucket.io/axon/) - A simple text based format for interchanging of objects, documents and data. It tries to combine the best of JSON, XML and YAML.
-* [CSON ★1050](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
-* [MSON ★624](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
+* [CSON ★1061](https://github.com/bevry/cson) - CoffeeScript-Object-Notation. JSON for CoffeeScript objects.
+* [MSON ★637](https://github.com/apiaryio/mson) - Markdown syntax compatible with describing JSON and JSON Schema.
 * [ArchieML](http://archieml.org/) - Structured text format optimized for human writability.
 
 
 ## Templates
 * [Jsonnet](http://jsonnet.org/) - A domain specific configuration language that helps you define JSON data.
-* [rabl ★3492](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support. (Ruby)
+* [rabl ★3503](https://github.com/nesquena/rabl) - General ruby templating with json, bson, xml, plist and msgpack support. (Ruby)
 * [json2html](http://json2html.com/) - HTML templating library with wrappers for both jQuery and Node.js. (Javascript)
 
 ## Testing
 * [JSON Test](http://www.jsontest.com/) - Testing platform for services utilizing JavaScript Object Notation (JSON).
-* [JSONassert ★406](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
-* [JsonUnit ★222](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
+* [JSONassert ★420](https://github.com/skyscreamer/JSONassert) - Write JSON unit tests in less code. Great for testing REST interfaces. (Java)
+* [JsonUnit ★233](https://github.com/lukas-krecan/JsonUnit) - A library that simplifies JSON comparison in unit tests. It's strongly inspired by XmlUnit.
 
 ## Text Editor Plugins
 **Emacs**
-* [JSON Reformat ★120 ⏳1Y](https://github.com/gongo/json-reformat) - Reformat tool.
+* [JSON Reformat ★119 ⏳1Y](https://github.com/gongo/json-reformat) - Reformat tool.
 
 **Vim**
-* [vim-json ★856](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.
+* [vim-json ★874](https://github.com/elzr/vim-json) - A better JSON for Vim: distinct highlighting of keywords vs values, JSON-specific (non-JS) warnings, quote concealing. Pathogen-friendly.
 
 ## Transformations
 * [json-sharp ★5](https://github.com/globocom/json-sharp) - Javascript tool to process operations on pure JSON objects. (Javascript)
-* [json2json ★158](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
+* [json2json ★157](https://github.com/joelvh/json2json) - Transform (reformat) structures from one to another. (Javascript)
 * [trans ★175 ⏳1Y](https://github.com/gabesoft/trans) - The ultimate object transformer. (Javascript)
-* [osmtogeojson ★256](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
-* [x2js ★533](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
-* [JSONC ★396](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
+* [osmtogeojson ★264](https://github.com/tyrasd/osmtogeojson) - Converts OSM data to GeoJSON. (Javascript)
+* [x2js ★553](https://github.com/abdmob/x2js) - XML to JSON and vice versa javascript conversion functions. (Javascript)
+* [JSONC ★403](https://github.com/tcorral/JSONC) - JSON compressor and decompressor. (Javascript)
 * [JsonMapper ★686](https://github.com/cweiske/jsonmapper) - Map nested structures onto PHP classes (PHP)
 * [SassyJSON ★172 ⏳1Y](https://github.com/HugoGiraudel/SassyJSON) - Sass-powered API. (Sass)
 * [json.human.js](http://marianoguerra.github.io/json.human.js/) - A small library to convert a JSON object into a human readable HTML representation that is easy to style for different purposes.
 * [JSONtoFoundation ★42 ⏳2Y](https://github.com/fmscode/JSONtoFoundation) - OS X utility that converts a JSON object to a Foundation object that can be used in Cocoa/Cocoa Touch development. (Swift)
-* [fanci ★16](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
+* [fanci ★17](https://github.com/liip/fanci) - Extract, rename and transform JSON based on a template. (node.js)
 * [Pinch ★23 ⏳3Y](https://github.com/Baggz/Pinch) - String.replace for JavaScript objects. (Javascript)
 * [deepjson](http://deepjson.jacoborus.codes/) - A better way to load big json config files. (node.js)
 * [jsontl ★5 ⏳2Y](https://github.com/DoublePrecisionSoftware/jsontl) - allow transformation using a JSON-based transformation language. (node.js)
-* [json-transforms ★25 ⏳1Y](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
+* [json-transforms ★28 ⏳1Y](https://github.com/ColinEberhardt/json-transforms) - A recursive, pattern-matching, approach to transforming JSON structures.
 * [normalizr ★10249](https://github.com/paularmstrong/normalizr) - Normalizes nested JSON according to a schema. (Javascript)
-* [JSON-populate ★3](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
-* [CircularJSON ★239](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
+* [JSON-populate ★8](https://github.com/eiriklv/json-populate) - Tool for populating JSON data with infinitely recursive circular references. Sort of like Falcor, but for plain JSON.
+* [CircularJSON ★256](https://github.com/WebReflection/circular-json) - JSON does not handle circular references. Now it does.
 
 ## Queries
 * [JMESPath](http://jmespath.org/) - A query language for JSON.
@@ -323,62 +323,62 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 * [JSONiq](http://www.jsoniq.org/) - The JSON Query Language.
 * [ObjectPath](http://objectpath.org/) - The agile query language for semi-structured data. (Python)
 * [DefiantJS](http://www.defiantjs.com/) - Lightning-fast searches using XPath expressions, and transform using XSL. (Javascript)
-* [JSONSelect ★1569 ⏳1Y](https://github.com/lloyd/JSONSelect) - CSS-like selectors. (Javascript)
+* [JSONSelect ★1571 ⏳1Y](https://github.com/lloyd/JSONSelect) - CSS-like selectors. (Javascript)
 * [JSONPath](http://goessner.net/articles/JsonPath/) - XPath implementation. (Javascript/PHP)
-* [searchjs ★138](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
+* [searchjs ★141](https://github.com/deitch/searchjs) - A library for filtering based on a json SQL-like language.
 * [json-rel ★7 ⏳1Y](https://github.com/slurmulon/json-where) - Transparent references in JSON.
 
 ## JSON Schema Frontend components
-* [JSON Editor ★4209](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)
-* [angular-schema-form ★2070](https://github.com/json-schema-form/angular-schema-form) - Generate forms. (AngularJS)
+* [JSON Editor ★4297](https://github.com/jdorn/json-editor) - JSON Schema Based Editor. (jQuery)
+* [angular-schema-form ★2101](https://github.com/json-schema-form/angular-schema-form) - Generate forms. (AngularJS)
 * [JSON Schema View ★32](https://github.com/mohsen1/json-schema-view) - An AngularJS directive for rendering JSON Schema in HTML (AngularJS)
 * [Angular JSON Schema Form ★22 ⏳1Y](https://github.com/mohsen1/angular-json-schema-form) - Angular directive for making forms out of JSON Schema. (AngularJS)
 * [AlpacaJS](http://www.alpacajs.org) - Generates JSON Schema driven forms on top of Bootstrap, jQuery Mobile, jQuery UI and HTML (jQuery)
 
 
 ## JSON Schema Tools
-* [prmd ★1785](https://github.com/interagent/prmd) - Tools and doc generation for HTTP APIs.
-* [generate-schema ★374](https://github.com/Nijikokun/generate-schema) - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
-* [Docson ★352](https://github.com/lbovet/docson) - Documentation for your types.
-* [Orderly JSON ★186 ⏳7Y](https://github.com/lloyd/orderly) - A textual format for describing JSON compiled into JSONSchema.
-* [jsonschema2pojo ★3219](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
+* [prmd ★1808](https://github.com/interagent/prmd) - Tools and doc generation for HTTP APIs.
+* [generate-schema ★389](https://github.com/Nijikokun/generate-schema) - Effortlessly convert your JSON Object to JSON Schema, Mongoose Schema, or a Generic template for quick documentation / upstart.
+* [Docson ★353](https://github.com/lbovet/docson) - Documentation for your types.
+* [Orderly JSON ★187 ⏳7Y](https://github.com/lloyd/orderly) - A textual format for describing JSON compiled into JSONSchema.
+* [jsonschema2pojo ★3294](https://github.com/joelittlejohn/jsonschema2pojo) - Generates Java types and annotates those types for data-binding with Jackson 1.x or 2.x, Gson, etc.
 * [Matic ★154](https://github.com/mattyod/matic) - Build tool for generating HTML documentation.
-* [JSON Schema + Faker ★965](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
+* [JSON Schema + Faker ★1025](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 * [DLL.js ★52](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
 * [JSONSchema.net](https://jsonschema.net//) - JSON Schema generator from JSON object.
-* [js-schema ★338](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
+* [js-schema ★339](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 * [aptos ★110](https://github.com/pennsignals/aptos) - A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats.
 
 ## JSON Schema Resources
 * [Understanding JSON Schema](https://spacetelescope.github.io/understanding-json-schema/) - A website aiming to provide more accessible documentation for JSON schema.
 * [JSON Schema Store](http://schemastore.org/json/) - A collection of popular schemas.
-* [JSON Archetypes ★132 ⏳2Y](https://github.com/servant-app/json-archetypes) - Community-Driven Standards For Popular Types Of Data.
+* [JSON Archetypes ★133 ⏳2Y](https://github.com/servant-app/json-archetypes) - Community-Driven Standards For Popular Types Of Data.
 * [Using JSON Schema](http://usingjsonschema.com/) - a Book and GitHub project, showing how JSON Schema can be used for a variety of tasks and in different programming contexts.
 
 ## JSON Schema Validators
 **Javascript and Node.js**
-* [json-schema-benchmark ★202](https://github.com/ebdrup/json-schema-benchmark) - Performance benchmark for Node.js validators.
+* [json-schema-benchmark ★207](https://github.com/ebdrup/json-schema-benchmark) - Performance benchmark for Node.js validators.
 * [is-my-json-valid ★720](https://github.com/mafintosh/is-my-json-valid) - A validator that uses code generation to be extremely fast.
-* [jsen ★125](https://github.com/bugventure/jsen) - A validator built for speed.
-* [themis ★58 ⏳2Y](https://github.com/playlyfe/themis) - A blazing fast validator.
+* [jsen ★127](https://github.com/bugventure/jsen) - A validator built for speed.
+* [themis ★59 ⏳2Y](https://github.com/playlyfe/themis) - A blazing fast validator.
 * [jsck ★159](https://github.com/pandastrike/jsck) - JSON Schema Compiled checK.
-* [z-schema ★228](https://github.com/zaggino/z-schema) - validator written in JavaScript for NodeJS and Browsers.
-* [jjv ★183](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
+* [z-schema ★231](https://github.com/zaggino/z-schema) - validator written in JavaScript for NodeJS and Browsers.
+* [jjv ★184](https://github.com/acornejo/jjv) - Javascript Library for Schema Validation.
 * [request-validator ★0 ⏳2Y](https://github.com/bugventure/request-validator) - Flexible request validator middleware for express and connect.
-* [tv4 ★905](https://github.com/geraintluff/tv4) - Tiny Validator.
+* [tv4 ★915](https://github.com/geraintluff/tv4) - Tiny Validator.
 * [ajv ★2371](https://github.com/epoberezkin/ajv) - The fastest validator. Supports v5/6 proposals.
 
 
 **PHP**
-* [JSON Schema for PHP ★983](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
+* [JSON Schema for PHP ★997](https://github.com/justinrainbow/json-schema) - PHP implementation of JSON schema.
 * [JSON Guard](http://json-guard.thephpleague.com) - A validator for JSON Schema Draft 4.
 
 **Python**
-* [jsonschema ★1303](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
+* [jsonschema ★1340](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
 * [JSON Schema Toolkit ★25 ⏳1Y](https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
 
 **Ruby**
-* [Ruby JSON Schema Validator ★897](https://github.com/ruby-json-schema/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
+* [Ruby JSON Schema Validator ★912](https://github.com/ruby-json-schema/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.
 
 ## Contribute
 Contributions welcome! Read the [contribution guidelines](https://github.com/burningtree/awesome-json/blob/master/CONTRIBUTING.md) first.

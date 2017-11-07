@@ -101,13 +101,13 @@ Notes:
 
 Plugins:
 
-- [MagicPython ★895](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
+- [MagicPython ★911](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 - [Rope ★413](https://github.com/python-rope/rope) — a Python refactoring library.
 - [SublimeLinter PEP 257](https://github.com/SublimeLinter/SublimeLinter-pep257) — an interface to [PEP 257](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) (docstring style checker).
 - [Djaneiro ★804](https://github.com/squ1b3r/Djaneiro) — Django support.
 - [SublimePythonTidy ★41 ⏳4Y](https://github.com/witsch/SublimePythonTidy) — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
-- [Anaconda ★1609](https://github.com/DamnWidget/anaconda) — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
-- [SublimeJEDI ★751](https://github.com/srusskih/SublimeJEDI) — Python autocompletion.
+- [Anaconda ★1645](https://github.com/DamnWidget/anaconda) — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
+- [SublimeJEDI ★759](https://github.com/srusskih/SublimeJEDI) — Python autocompletion.
 
 ### JavaScript Profile
 
@@ -136,7 +136,7 @@ Plugins:
 
 - [GotoDocumentation ★126](https://github.com/kemayo/sublime-text-2-goto-documentation) — a plugin to jump to documentation for the current word.
 - [DashDoc ★1188](https://github.com/farcaller/DashDoc) — [Dash](https://kapeli.com/dash) integration for Sublime Text.
-- [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool ★5828](https://github.com/gleitz/howdoi).
+- [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool ★5900](https://github.com/gleitz/howdoi).
 
 ## Integration
 
@@ -152,7 +152,7 @@ Plugins:
 - [Soda](http://buymeasoda.github.io/soda-theme/) — Dark and light custom UI themes.
 - [Spacegray](http://kkga.github.io/spacegray/) — A set of custom UI themes for Sublime Text 2/3. It's all about hype and minimal. Comes in different flavors with accompanying Base16 color schemes. http://kkga.github.io/spacegray
 - [Cobalt2 ★1345](https://github.com/wesbos/cobalt2) — A full featured Sublime Text blue theme
-- [Flatland ★2755](https://github.com/thinkpixellab/flatland) — A simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
+- [Flatland ★2755 ⏳1Y](https://github.com/thinkpixellab/flatland) — A simple theme and accompanying color scheme for Sublime Text 2 & 3. It is mostly derived from Soda, the right place to start for any custom theme development for Sublime.
 - [Material theme ★9885](https://github.com/equinusocio/material-theme) — This theme brings the Material Design visual language. http://equinsuocha.io/material-theme
 - [Comfort ★1 ⏳1Y](https://github.com/devanshdalal/Comfort) — A Wonderful theme for sublime Text!.
 - [Predawn ★1814](https://github.com/jamiewilson/predawn) — Dark interface and syntax theme for Sublime Text and Atom. http://jamiewilson.io/predawn
@@ -167,6 +167,7 @@ Related extensions:
 - [colorsublime.com](http://colorsublime.com) - huge collection of color schemes for Sublime Text.
 - http://tmtheme-editor.herokuapp.com — online editor for `tmTheme` format, with large gallery of Sublime Text/Textmate color schemes. GitHib project page: https://github.com/aziz/tmTheme-Editor
 - [Schemr ★140](https://github.com/benweier/Schemr) — allows you to quickly change your color scheme using the command palette and keyboard shortcuts.
+- [Themer](https://themer.mjswensen.com) - tool for generating color schemes (and matching themes for your other development tools, including wallpaper) from your favorite colors.
 
 Some of the most popular schemes:
 

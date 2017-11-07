@@ -7,7 +7,7 @@ title: Awesome Rank for enaqx/awesome-react
 	This list is a copy of <a href="https://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
 </p>
 ---
-### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/enaqx/awesome-react.svg?branch=master)](https://travis-ci.org/enaqx/awesome-react)
+### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 
 
 A collection of awesome things regarding React ecosystem.
@@ -20,6 +20,7 @@ A collection of awesome things regarding React ecosystem.
     - [React General Tutorials](#react-general-tutorials)
     - [React styling](#react-styling)
     - [React Charts Tutorials](#react-charts-tutorials)
+    - [React and Ruby on Rails](#react-and-ruby-on-rails)
     - [React and Meteor](#react-and-meteor)
     - [React and Angular](#react-and-angular)
     - [React and Bootstrap](#react-and-bootstrap)
@@ -115,6 +116,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Official Site](http://facebook.github.io/react/)
 * [React GitHub ★78120](https://github.com/facebook/react)
 * [React Community GitHub](https://github.com/reactjs)
+* [React FAQ](https://reactfaq.site/)
 
 #### React Community
 * [Reactiflux](http://www.reactiflux.com/)
@@ -122,6 +124,8 @@ A collection of awesome things regarding React ecosystem.
 * [React StackOverflow](http://stackoverflow.com/questions/tagged/reactjs)
 * [React Twitter](https://twitter.com/reactjs)
 * [React Core meeting notes ★898](https://github.com/reactjs/core-notes)
+* [Made with React - Collection of websites and applications using ReactJS](http://madewithreact.com/)
+* [The React newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe)
 
 #### React Online Playground
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
@@ -143,7 +147,14 @@ A collection of awesome things regarding React ecosystem.
 * [React tutorial - Cloning Yelp](https://www.fullstackreact.com/articles/react-tutorial-cloning-yelp/)
 * [Learn React by building the Hacker News front page ★405 ⏳1Y](https://github.com/mking/react-hn)
 * [React.js in patterns](http://krasimirtsonev.com/blog/article/react-js-in-design-patterns)
+* [DIY guide to build your own React](https://engineering.hexacta.com/didact-learning-how-react-works-by-building-it-from-scratch-51007984e5c5)
 * [React cheatsheet](https://devhints.io/react)
+
+##### React best practices
+
+* [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
+* [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
+* [React.js Best Practices](https://github.com/ximet/awesome-best-practices/blob/master/frontend/react/bestPracticeReact.md)
 
 ##### React styling
 * [React: CSS in JS](http://blog.vjeux.com/2014/javascript/react-css-in-js-nationjs.html)
@@ -156,11 +167,16 @@ A collection of awesome things regarding React ecosystem.
 * [Styletron ★2176](https://github.com/rtsao/styletron)
 * [TypeStyle ★1557](https://github.com/typestyle/typestyle)
 * [styled-components ★10569](https://github.com/styled-components/styled-components)
+* [gloss ★13](https://github.com/motion/gloss)
 * [JSS ★2591](https://github.com/cssinjs/jss)
 
 ##### React Charts Tutorials
 * [Integrating D3.js visualizations in a React app](http://nicolashery.com/integrating-d3js-visualizations-in-a-react-app/)
 * [D3 and React - the future of charting components?](http://10consulting.com/2014/02/19/d3-plus-reactjs-for-charting/)
+
+##### React and Ruby on Rails
+* [React on Rails - integration of React, Webpack, React-Router with Ruby on Rails ★3559](https://github.com/shakacode/react_on_rails)
+* [reactrails.com - live example site using React on Rails with source code](http://www.reactrails.com/)
 
 ##### React and Meteor
 * [Meteor official Guide](http://guide.meteor.com/react.html)
@@ -186,7 +202,7 @@ A collection of awesome things regarding React ecosystem.
 ##### React and ClojureScript
 * [The Future of JavaScript MVC Frameworks](http://swannodette.github.io/2013/12/17/the-future-of-javascript-mvcs)
 * [The Case for React.js and ClojureScript](http://murilopereira.com/the-case-for-reactjs-and-clojurescript/)
-* [A Reagent Framework For Writing SPAs ★2740](https://github.com/Day8/re-frame)
+* [A Reagent Framework For Writing SPAs ★2816](https://github.com/Day8/re-frame)
 
 ##### React and CoffeeScript
 * [React & CoffeeScript](http://blog.vjeux.com/2013/javascript/react-coffeescript.html)
@@ -196,7 +212,6 @@ A collection of awesome things regarding React ecosystem.
 * [React and Datatables](https://github.com/wyvernnot/react-datatables-example)
 
 ##### React and Haskell
-* [Animating Web UI with React and Haskell](http://joelburget.com/react-haskell/index.html)
 * [stackage-view, built with Yesod and GHCJS+React ★21 ⏳2Y](https://github.com/fpco/stackage-view)
 * [TodoMVC example with Shade (Haste+React) ★13 ⏳3Y](https://github.com/takeoutweight/shade-todomvc)
 * [react-haskell, to be used with Haste](https://hackage.haskell.org/package/react-haskell) ([blog post](http://joelburget.com/react-haskell/))
@@ -251,6 +266,8 @@ A collection of awesome things regarding React ecosystem.
 ##### API Integration
 * [react-flux-cosmicjs Data-driven react application connected to the Cosmic JS API ★39 ⏳2Y](https://github.com/tonyspiro/react-flux-cosmicjs)
 
+##### History of React
+* [The Evolution of React](https://blog.pusher.com/the-evolution-of-react)
 
 #### React Tools
 
@@ -266,14 +283,19 @@ A collection of awesome things regarding React ecosystem.
 * [este - Robust and comfortable dev stack for mobile/offline/frontend first isomorphic web apps ★0](https://github.com/steida/este)
 * [frontend-boilerplate - webpack-react-redux-babel-autoprefixer-hmr-postcss-css-modules-rucksack-boilerplate ★3045](https://github.com/tj/frontend-boilerplate)
 * [react-engine - A composite render engine for isomorphic express apps ★1361](https://github.com/paypal/react-engine)
-* [react-webpack-node - Boilerplate for an universal/isomorphic React + Redux/alt Flux](https://github.com/choonkending/react-webpack-node)
+* [reactGo - Boilerplate for an universal/isomorphic React + Redux/alt Flux app ★2391](https://github.com/reactGo/reactGo)
 * [react-native-nw-react-calculator - Mobile, desktop and website Apps with the same code ★3981](https://github.com/benoitvallon/react-native-nw-react-calculator)
 * [StarHackIt - An ES6/ES7 full-stack starter kit with authentication and authorization code ★1018](https://github.com/FredericHeem/starhackit)
 * [react-cordova-boilerplate - TodoMVC example for React to build a Cordova application ★162](https://github.com/unimonkiez/react-cordova-boilerplate)
 * [UniversalRelayBoilerplate - Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Material-UI), Relay, GraphQL, JWT, Node.js, Apache Cassandra ★505](https://github.com/codefoundries/UniversalRelayBoilerplate)
 * [react-boilerplate - A highly scalable, offline-first foundation with the best developer experience and a focus on performance and best practices.](http://reactboilerplate.com)
 * [Next.js - A minimalistic framework for server-rendered React applications](https://zeit.co/blog/next)
+* [react-express-stripe - A minimal boilerplate to accept payments in a React App ★45](https://github.com/rwieruch/react-express-stripe)
+* [React-PWA - BoilerPlate with PWA and support for Code-Splitting, SSR, SEO, Page and API caching, Image optimization and much more. ★546](https://github.com/Atyantik/react-pwa)
 * [ARc - A progressive React starter kit based on Atomic Design](https://arc.js.org)
+* [react-webpack-starter - A simple boiler plate for creating react applications bundled by webpack (using ES6, Babel, SASS and webpack development server) ★33](https://github.com/temilaj/react-webpack-starter)
+* [Happyreaction - React/Spring/Java maven archetype for bootstraping a new project quickly ★15](https://github.com/ignl/happyreaction)
+* [Create React NPM Component - CLI tool for creating a component for distribution on NPM ★21](https://github.com/deltaskelta/create-react-npm-component)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -284,6 +306,7 @@ A collection of awesome things regarding React ecosystem.
 * [MJML - The only framework that makes responsive-email easy. Based on React](https://mjml.io)
 
 ##### Components
+* [React Responsive Tables ★23](https://github.com/adam-hanna/react-responsive-tables)
 * [React Component List](http://dvemac.github.io/react-component-list/)
 * [JS.coach - A catalog of React components](https://js.coach/)
 * [iReact: Fantastic React Components and Libraries!](http://ireact.cn/)
@@ -291,6 +314,7 @@ A collection of awesome things regarding React ecosystem.
 * [VistarMedia Components](http://cmpnt.vistarmedia.com/)
 * [React Topcoat UI components ★97 ⏳2Y](https://github.com/kjda/react-topui)
 * [react-material - Material design components written with React.js and React Style](https://github.com/SanderSpies/react-material)
+* [react-md - Set of React components and sass files for implementing Google's Material Design ★1410](https://github.com/mlaursen/react-md)
 * [material-ui - A CSS Framework and a Set of React Components for Material Design ★29405](https://github.com/callemall/material-ui)
 * [react-google-login-component ★59](https://github.com/kennetpostigo/react-google-login-component)
 * [react-facebook-login-component ★57](https://github.com/kennetpostigo/react-facebook-login-component)
@@ -299,6 +323,7 @@ A collection of awesome things regarding React ecosystem.
 * [UXCore - A React UI Component Set living for enterprise backend application ★460](https://github.com/uxcore/uxcore)
 * [react-desktop - OS X and Windows UI components built with React ★6694](https://github.com/gabrielbull/react-desktop)
 * [react-aim - Determine the cursor aim for triggering mouse events ★299](https://github.com/gabrielbull/react-aim)
+* [react-uwp - React Components that Implement Microsoft's UWP Design & Fluent Design. ★365](https://github.com/myxvisual/react-uwp)
 * [react-touch - React photo viewer for mobile ★434 ⏳1Y](https://github.com/petehunt/react-touch)
 * [griddle - A simple grid component for use with React](http://dynamictyped.github.io/Griddle/)
 * [react-grid - Data grid for React ★71 ⏳2Y](https://github.com/prometheusresearch/react-grid)
@@ -374,6 +399,7 @@ A collection of awesome things regarding React ecosystem.
 * [olay-react - Olay implemented as a React component ★15](https://github.com/orgsync/olay-react)
 * [reactable - Fast, flexible, and simple data tables in React ★1423](https://github.com/glittershark/reactable)
 * [react-tabs - React tabs component](https://github.com/mzabriskie/react-tabs)
+* [react-draggable-tabs - Atom-fashioned draggable tabs ★24](https://github.com/ZaninAndrea/react-draggable-tabs)
 * [react-simpletabs - Just a simple tabs component ★168](https://github.com/pedronauck/react-simpletabs)
 * [react-draggable - React draggable component ★1975](https://github.com/mzabriskie/react-draggable)
 * [react-resizable - A tiny Resizable component based on react-draggable ★400](https://github.com/strml/react-resizable)
@@ -396,6 +422,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-component-width-mixin - React mixin which sets width ★31 ⏳1Y](https://github.com/KyleAMathews/react-component-width-mixin)
 * [react-micro-bar-chart - React component for micro bar-charts rendered with D3 ★98 ⏳1Y](https://github.com/KyleAMathews/react-micro-bar-chart)
 * [react-horizontal-bar-chart - Simple horizontal bar chart component, using D3 scales only ★9 ⏳1Y](https://github.com/laem/react-horizontal-bar-chart)
+* [react-boxplot - Simple SVG box plots in React ★8 ⏳2Y](https://github.com/bodylabs/react-boxplot)
 * [react-infinity - A UITableView Inspired list and grid display ★436 ⏳1Y](https://github.com/nmn/react-infinity)
 * [react-timeago - A simple time-ago component for React ★416](https://github.com/nmn/react-timeago)
 * [react-spinkit - A collection of loading indicators animated with CSS for React ★733](https://github.com/KyleAMathews/react-spinkit)
@@ -460,14 +487,21 @@ A collection of awesome things regarding React ecosystem.
 * [react-offcanvas - Off-canvas menus for React ★10 ⏳1Y](https://github.com/vutran/react-offcanvas)
 * [react-svg-pan-zoom - Adds pan and zoom features to the SVG images](http://chrvadala.github.io/react-svg-pan-zoom/)
 * [react-virtualized - React components for efficiently rendering large lists and tabular data  ★7291](https://github.com/bvaughn/react-virtualized)
+* [react-data-menu - Smart data-driven menu rendered in an overlay, never clipped by other components or screen edges ★47](https://github.com/dkozar/react-data-menu)
+* [omnibar - Extensible search component for React. ★28](https://github.com/vutran/omnibar)
+* [react-virtualized-sticky-tree - Render virtualized tree structures with support for position: sticky  ★15](https://github.com/marchaos/react-virtualized-sticky-tree)
+* [react-flexbox-svg - Flexbox for SVG in React, using css-layout ★1](https://github.com/paulmelnikow/react-flexbox-svg)
 * [react-instantsearch - Search Interface building blocks for Algolia ★255](https://github.com/algolia/react-instantsearch)
+* [react-d3-tree - Create interactive D3 tree graphs ★22](https://github.com/bkrem/react-d3-tree)
+* [react-redux-modal-flex - Accessible modal dialog component for React, easy to install and use with Redux. ★1](https://github.com/tronghiep92/react-redux-modal-flex)
+* [react-switch - A draggable, customizable and accessible toggle-switch component. ★9](https://github.com/yogaboll/react-switch)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system ★301](https://github.com/LouisBarranqueiro/reapop)
 
 ##### Libraries
 * [react-magic - Automatically AJAXify plain HTML with the power of React ★648](https://github.com/reactjs/react-magic)
-* [react-toolbox - A set of React components implementing Google's Material Design specification](http://www.react-toolbox.com)
+* [react-toolbox - A set of React components implementing Google's Material Design specification ★7302](https://github.com/react-toolbox/react-toolbox)
 * [tcomb-react -  Library allowing you to check all the props of your React components ★181](https://github.com/gcanti/tcomb-react)
 * [react-responsive - Media queries in react for responsive design](https://github.com/wearefractal/react-responsive)
 * [react-cursor - Functional state management abstraction for use with Facebook React ★1035](https://github.com/dustingetz/react-cursor)
@@ -482,6 +516,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-icons - svg react icons of popular icon packs ★1255](https://github.com/gorangajic/react-icons)
 * [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc... ★213](https://github.com/Wildhoney/Keo)
 * [Blueprint - A React-based UI toolkit for the web ★7091](https://github.com/palantir/blueprint)
+* [Bit - A virtual repository for managing and using react and other web components across applications ★753](https://github.com/teambit/bit)
 * [AtlasKit -  Atlassian's React UI library](https://atlaskit.atlassian.com/)
 
 ##### Integration
@@ -492,7 +527,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Rails ★4465](https://github.com/reactjs/react-rails)
 * [React on Rails](https://github.com/elierotenberg/react-rails)
 * [om - ClojureScript interface](https://github.com/swannodette/om)
-* [quiescent - A lightweight ClojureScript abstraction over React ★588 ⏳1Y](https://github.com/levand/quiescent)
+* [quiescent - A lightweight ClojureScript abstraction over React ★591 ⏳1Y](https://github.com/levand/quiescent)
 * [Reagent - A minimalistic ClojureScript interface to React.js ★2752](https://github.com/reagent-project/reagent)
 * [react-haskell - React bindings for Haskell ★297 ⏳2Y](https://github.com/joelburget/react-haskell)
 * [Express React views ★1691](https://github.com/reactjs/express-react-views)
@@ -504,13 +539,14 @@ A collection of awesome things regarding React ecosystem.
 * [React Laravel ★807](https://github.com/talyssonoc/react-laravel)
 * [React Meteor](https://github.com/reactjs/react-meteor)
 * [Coffee React ★429](https://github.com/jsdf/coffee-react)
-* [react-coffee - Build React components using natural CoffeeScript syntax ★18 ⏳2Y](https://github.com/elucidata/react-coffee)
+* [react-coffee - Build React components using natural CoffeeScript syntax ★18 ⏳3Y](https://github.com/elucidata/react-coffee)
 * [coffee-react-transform - Provides React JSX support for Coffeescript ★437](https://github.com/jsdf/coffee-react-transform)
 * [sprockets-coffee-react - Sprockets preprocessor for CJSX ★86 ⏳1Y](https://github.com/jsdf/sprockets-coffee-react)
 * [react-kup -  A simple, non-intrusive alternative to jsx for coffeescript ★22 ⏳1Y](https://github.com/snd/react-kup)
 * [turbo-react - Combine Turbolinks and React to apply DOM diffs ★242](https://github.com/ssorallen/turbo-react)
 * [react-bacon - A little module for using React with Bacon.js ★118 ⏳2Y](https://github.com/jamesmacaulay/react-bacon)
 * [msx - React's JSX Transformer, tweaked to output calls to Mithril ★372](https://github.com/insin/msx)
+* [React.withBackbone - React 16 ready backbone binding ★1](https://github.com/beanworks/React.withBackbone)
 * [Backbone React Component ★832](https://github.com/magalhas/backbone-react-component)
 * [react-backbone - Backbone-aware mixins for react ★130 ⏳2Y](https://github.com/jhudson8/react-backbone)
 * [NestedReact - transparent integration with Backbone Views and NestedTypes models ★78](https://github.com/Volicon/NestedReact)
@@ -537,10 +573,9 @@ A collection of awesome things regarding React ecosystem.
 * [React.hiccup - A complete replacement for JSX written in sweet.js ★58 ⏳3Y](https://github.com/lantiga/react.hiccup)
 * [react-play - Rendering React components in the Play Framework with JDK8's Nashorn ★202](https://github.com/ssorallen/react-play)
 * [rx-react - Utilitiels to works with React in a RxJS ★596 ⏳1Y](https://github.com/fdecampredon/rx-react)
-* [react-typescript - Wrapper to make react play nicely with typescript ★51 ⏳2Y](https://github.com/fdecampredon/react-typescript)
 * [react-with-di - A hacked prototype of React.js with DI ★29 ⏳3Y](https://github.com/vojtajina/react-with-di)
 * [reactfire - ReactJS mixin for easy Firebase integration ★1273](https://github.com/firebase/reactfire)
-* [firedux - Firebase + Redux for ReactJS](https://github.com/adjohnson916/firedux)
+* [firedux - Firebase + Redux for ReactJS ★147](https://github.com/AndersDJohnson/firedux)
 * [react-clickdrag-mixin - ClickDrag mixin for React component](https://github.com/tleunen/react-clickdrag-mixin)
 * [Rewrite the Admin UI of KeystoneJS in React](https://github.com/keystonejs/keystone/issues/503)
 * [react-masonry-mixin - Standalone mixin for Masonry (@desandro) ★175 ⏳1Y](https://github.com/eiriklv/react-masonry-mixin)
@@ -556,7 +591,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-formal - Better form validation and value management for React, Provides minimal wiring ★364](https://github.com/jquense/react-formal)
 * [react-forms - Forms library for React ★1124](https://github.com/prometheusresearch/react-forms)
 * [valuelink - full-featured two-way data binding with extended React links](https://github.com/Volicon/valuelink)
-* [wingspan-forms - A dynamic form library for Facebook React ★291](https://github.com/wingspan/wingspan-forms)
+* [wingspan-forms - A dynamic form library for Facebook React ★291 ⏳1Y](https://github.com/wingspan/wingspan-forms)
 * [newforms - Isomorphic form-handling for React ★634](https://github.com/insin/newforms)
 * [formjs - A form generator for Reactjs ★44 ⏳3Y](https://github.com/zackify/formjs)
 * [react-form-builder - A Form Builder for React.js ★49](https://github.com/quri/react-form-builder)
@@ -567,6 +602,8 @@ A collection of awesome things regarding React ecosystem.
 * [Winterfell - Generate complex, validated and extendable JSON-based forms in React ★565](https://github.com/andrewhathaway/Winterfell)
 * [Redux-Autoform - Create Redux-Forms dynamically out of metadata ★100](https://github.com/redux-autoform/redux-autoform)
 * [uniforms - Bunch of React components and helpers to easily generate and validate forms ★336](https://github.com/vazco/uniforms)
+* [formik - Forms in React, without tears ★3394](https://github.com/jaredpalmer/formik)
+* [NeoForm – Modular HOCs for form state management and validation](https://github.com/zero-plus-x/neoform) 
 
 ##### Autocomplete
 * [react-typeahead-search by @tonyspiro ★14 ⏳2Y](https://github.com/tonyspiro/react-typeahead-search)
@@ -584,7 +621,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-art - React Bridge to the ART Drawing Library](https://github.com/facebook/react-art)
 * [react-canvas - High performance <canvas> rendering for React components ★10561](https://github.com/Flipboard/react-canvas)
 * [react-famous - Complex 3D animations UI at 60 FPS with Famo.us ★161 ⏳2Y](https://github.com/pilwon/react-famous)
-* [react-kinetic - HTML5 Canvas via KineticJS using React ★65 ⏳2Y](https://github.com/freiksenet/react-kinetic)
+* [react-kinetic - HTML5 Canvas via KineticJS using React ★65 ⏳3Y](https://github.com/freiksenet/react-kinetic)
 * [react-svg-morph - morph your svg components one into another ★431](https://github.com/gorangajic/react-svg-morph)
 
 ##### Model Libraries
@@ -602,14 +639,15 @@ A collection of awesome things regarding React ecosystem.
 * [valuable - An immutable data store for React ★102 ⏳2Y](https://github.com/josephsavona/valuable)
 * [react-resolver - Isomorphic library to recursively lazy-load data for React components ★1532](https://github.com/ericclemmons/react-resolver)
 * [freezer-js - Lightweight and reactive immutable data structure for React ★1115](https://github.com/arqex/freezer)
-* [MobX - Simple, scalable state management](https://mobxjs.github.io/mobx)
-* [baobab - JavaScript persistent and optionally immutable data tree with cursors ★2674](https://github.com/Yomguithereal/baobab)
+* [MobX - Simple, scalable state management](#mobx)
+* [baobab - JavaScript persistent and optionally immutable data tree with cursors ★2698](https://github.com/Yomguithereal/baobab)
 * [baobab-react - React integration for Baobab ★271](https://github.com/Yomguithereal/baobab-react)
-* [datascript - Immutable database and Datalog query engine in ClojureScript ★2676](https://github.com/tonsky/datascript)
+* [datascript - Immutable database and Datalog query engine in ClojureScript ★2701](https://github.com/tonsky/datascript)
 * [immstruct - Immutable data structures with history for top-to-bottom properties in component based libraries like React ★368](https://github.com/omniscientjs/immstruct)
 * [seamless-immutable - Immutable data structures for JavaScript which are backwards-compatible with normal JS Arrays and Objects ★3992](https://github.com/rtfeldman/seamless-immutable)
 * [tydel - Typed Models and Collections, with React bindings](http://tydel.js.org)
 * [extendable-immutable - Extend any Immutable.js data structure ★45](https://github.com/philpl/extendable-immutable)
+* [statty - A tiny and unobtrusive state management library for React and Preact apps ★448](https://github.com/vesparny/statty)
 
 ##### React Development Experience
 * [react-devtools - React Chrome Developer Tools ★5304](https://github.com/facebook/react-devtools)
@@ -622,7 +660,7 @@ A collection of awesome things regarding React ecosystem.
 * [vim-react-snippets - Vim version of the snippets from sublime-react ★116](https://github.com/justinj/vim-react-snippets)
 * [vim-babel - Wrapper around babel.js for vim ★47 ⏳1Y](https://github.com/jbgutierrez/vim-babel)
 * [web-mode.el - An autonomous emacs major-mode for editing web templates](http://web-mode.org/)
-* [eslint-plugin-react - React specific linting rules for ESLint ★3117](https://github.com/yannickcr/eslint-plugin-react)
+* [eslint-plugin-react - React specific linting rules for ESLint ★3249](https://github.com/yannickcr/eslint-plugin-react)
 * [generator-react-webpack - Yeoman generator for ReactJS and Webpack](https://github.com/newtriks/generator-react-webpack)
 * [generator-react-gulp-browserify - Yeoman generator for React ★428 ⏳1Y](https://github.com/randylien/generator-react-gulp-browserify)
 * [generator-reactapp - Yeoman generator for react app with redux, webpack, gulp and restful.js etc. ★18 ⏳1Y](https://github.com/Jackong/generator-reactapp)
@@ -637,7 +675,7 @@ A collection of awesome things regarding React ecosystem.
 
 ##### Maps
 * [react-googlemaps - React interface to Google maps ★209 ⏳1Y](https://github.com/pieterv/react-googlemaps)
-* [react-maps - A map component for React ★46 ⏳2Y](https://github.com/matnel/react-maps)
+* [react-maps - A map component for React ★46 ⏳3Y](https://github.com/matnel/react-maps)
 * [react-google-maps - React.js Google Maps integration component ★2448](https://github.com/tomchentw/react-google-maps)
 * [react-gmaps - A Google Maps component for React.js ★242](https://github.com/MicheleBertoli/react-gmaps)
 * [react-map-gl - A React wrapper for MapboxGL-js plus overlay API ★3128](https://github.com/uber/react-map-gl)
@@ -645,9 +683,9 @@ A collection of awesome things regarding React ecosystem.
 * [react-mapbox-gl - A mapbox-gl-js wrapper to make the API react friendly ★469](https://github.com/alex3165/react-mapbox-gl)
 
 ##### Charts
-* [react-d3 - Modular React charts made with d3.js ★1664 ⏳1Y](https://github.com/esbullington/react-d3)
 * [react-chartjs - Common react charting components using chart.js](https://github.com/jhudson8/react-chartjs)
 * [react-stockcharts - Highly customizable stock charts with ReactJS and d3 ★995](https://github.com/rrag/react-stockcharts)
+* [Number Picture - Low-level React + D3 building blocks](http://numberpicture.com/library)
 * [VictoryJS - A collection of composable React components for building interactive data visualizations ★5097](https://github.com/FormidableLabs/victory)
 * [Recharts - A charting library built on D3 with an awesome declarative API ★6892](https://github.com/recharts/recharts)
 
@@ -693,9 +731,12 @@ A collection of awesome things regarding React ecosystem.
 * [NBAreact ★56](https://github.com/jbkuczma/NBAreact)
 
 #### React Native Boilerplates
+* [Create React Native App - Create a React Native app on any OS with no build config, with or without Expo ★6946](https://github.com/react-community/create-react-native-app)
 * [Snowflake - React Native iOS & Android with Redux, Parse.com, Jest (88% coverage) ★3707](https://github.com/bartonhammond/snowflake)
+* [Ignite - The hottest CLI for React Native, boilerplates, plugins, generators, and more! ★6480](https://github.com/infinitered/ignite)
 
 #### React Native Awesome Components
+* [react-native-social-share - Use the iOS and Android native Twitter and Facebook share popup with React Native ★275](https://github.com/doefler/react-native-social-share)
 * [react-native-fbsdk - A wrapper around the iOS Facebook SDK ★1583](https://github.com/facebook/react-native-fbsdk)
 * [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
 * [react-native-mapbox-gl - A Mapbox GL react native module ★953](https://github.com/mapbox/react-native-mapbox-gl)
@@ -720,6 +761,7 @@ A collection of awesome things regarding React ecosystem.
 #### Flux General Resources
 * [Flux Official Site](http://facebook.github.io/flux/)
 * [Flux GitHub ★14444](https://github.com/facebook/flux)
+* [Awesome Flux ★31](https://github.com/yanmagale/awesome-flux)
 
 #### Flux Implementations
 * [Flux Comparision ★2618](https://github.com/voronianski/flux-comparison)
@@ -732,7 +774,7 @@ A collection of awesome things regarding React ecosystem.
 * [NuclearJS ★1794](https://github.com/optimizely/nuclear-js)
 * [Flummox ★1644](https://github.com/acdlite/flummox)
 * [Coflux ★11 ⏳1Y](https://github.com/blainekasten/coflux)
-* [MobX ★11524](https://github.com/mobxjs/mobx)
+* [MobX](#mobx)
 
 #### Flux Tutorials
 * [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
@@ -797,13 +839,14 @@ A collection of awesome things regarding React ecosystem.
 * [Redux with React introduction for beginners](http://vulgairedev.fr/blog/article/intro-Redux-ReactJS)
 * [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 1](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-1/)
 * [Getting Started with React, Redux and Immutable: a Test-Driven Tutorial: Part 2](http://www.theodo.fr/blog/2016/03/getting-started-with-react-redux-and-immutable-a-test-driven-tutorial-part-2/)
+* [Full-Stack Redux Tutorial](http://teropa.info/blog/2015/09/10/full-stack-redux-tutorial.html)
 * [Server-Side Rendering with Redux and React-Router](https://www.codementor.io/reactjs/tutorial/redux-server-rendering-react-router-universal-web-app)
 * [Deep Introduction to Redux](https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros)
 * [Unit Testing Redux Apps](https://www.codementor.io/reactjs/tutorial/redux-unit-test-mocha-mocking)
 * [Secure Your React and Redux App with JWT Authentication](https://auth0.com/blog/2016/01/04/secure-your-react-and-redux-app-with-jwt-authentication/)
 * [Build an Image Gallery Using React, Redux and redux-saga](http://joelhooks.com/blog/2016/03/20/build-an-image-gallery-using-redux-saga)
 * [A simplified approach to calling APIs with redux](http://www.sohamkamani.com/blog/2016/06/05/redux-apis/)
-* [React Redux based blood donor demo application] (https://github.com/smanne/reduxnor)
+* [React Redux based blood donor demo application ★44 ⏳1Y](https://github.com/smanne/reduxnor)
 * [LearnCode.academy Redux Tutorials Series](https://www.youtube.com/watch?v=1w-oQ-i1XB8&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b&index=15)
 
 
@@ -821,7 +864,8 @@ A collection of awesome things regarding React ecosystem.
 #### MobX Tutorials
 * [Ten minute introduction to MobX and React](https://mobxjs.github.io/mobx/getting-started.html)
 * [Manage Complex State in React Apps with MobX](https://egghead.io/courses/manage-complex-state-in-react-apps-with-mobx)
-* [Refactor from Redux to MobX in real world SoundCloud Client in React](http://www.robinwieruch.de/mobx-react)
+* [Refactor your application from Redux to MobX](http://www.robinwieruch.de/mobx-react)
+* [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
 
 ---
 ### Testing
@@ -861,18 +905,20 @@ A collection of awesome things regarding React ecosystem.
 * [Writing a Basic API with GraphQL](http://davidandsuzi.com/writing-a-basic-api-with-graphql/)
 * [Building a GraphQL Server with Node.js and SQL](https://www.reindex.io/blog/building-a-graphql-server-with-node-js-and-sql/)
 * [GraphQL Tour: Variables](https://medium.com/the-graphqlhub/graphql-tour-variables-58c6abd10f56#.wj9dsgyoy)
+* [How to Graphql - The Fullstack Tutorial for GraphQL](https://howtographql.com/)
+
 
 #### GraphQL Implementations
 * [graphql-js - A reference implementation of GraphQL for **JavaScript** ★8076](https://github.com/graphql/graphql-js)
 * [react-transmit - Relay-inspired library based on **JavaScript Promises** ★1300](https://github.com/RickWong/react-transmit)
-* [graphql-ruby - **Ruby** implementation of Facebook's GraphQL ★2163](https://github.com/rmosolgo/graphql-ruby)
+* [graphql-ruby - **Ruby** implementation of Facebook's GraphQL ★2250](https://github.com/rmosolgo/graphql-ruby)
 * [graphql-java - GraphQL **Java** implementation](https://github.com/andimarek/graphql-java)
 * [sangria - **Scala** GraphQL client and server library](https://github.com/OlegIlyenko/sangria)
 * [graphql-php - A **PHP** port of GraphQL reference implementation ★1470](https://github.com/webonyx/graphql-php)
 * [graphene - GraphQL in **Python** made simple](http://graphene-python.org/)
 * [graphqllib - GraphQL implementation for **Python** ★163 ⏳1Y](https://github.com/dittos/graphqllib)
 * [graphql-dotnet - GraphQL for **.NET** ★1337](https://github.com/graphql-dotnet/graphql-dotnet)
-* [graphql-go - GraphQL for Go/Golang ★1962](https://github.com/graphql-go/graphql)
+* [graphql-go - GraphQL for Go/Golang ★2117](https://github.com/graphql-go/graphql)
 
 #### Server Integration
 * [express-graphql - Create a GraphQL HTTP server with **Express** ★2535](https://github.com/graphql/express-graphql)
@@ -903,7 +949,7 @@ A collection of awesome things regarding React ecosystem.
 * [graphql-relay-js - A library to help construct a graphql-js server supporting react-relay ★847](https://github.com/graphql/graphql-relay-js)
 * [react-router-relay - Relay integration for React Router ★551](https://github.com/relay-tools/react-router-relay)
 * [relay-local-schema - Use Relay without a GraphQL server ★178](https://github.com/relay-tools/relay-local-schema)
-* [relay-codemod -  Codemod scripts based for on jsodeshift to update Relay APIs ★2495](https://github.com/facebook/jscodeshift)
+* [relay-codemod -  Codemod scripts based for on jsodeshift to update Relay APIs ★2629](https://github.com/facebook/jscodeshift)
 
 
 ---
@@ -930,8 +976,6 @@ A collection of awesome things regarding React ecosystem.
 ### Videos
 
 #### Video from Confs
-* [Pete Hunt: React: Rethinking best practices - JSConf EU 2013](https://www.youtube.com/watch?v=x7cQ3mrcKaY)
-* [Pete Hunt: React: Rethinking Best Practices (updated) - JSConf.Asia 2013](https://www.youtube.com/watch?v=DgVS-zXgMTk)
 * [Tom Occhino and Jordan Walke: JS Apps at Facebook - JSConfUS 2013](https://www.youtube.com/watch?v=GW0rj4sNH2w)
 * [Pete Hunt: High performance functional programming with React and Meteor -- Devshop 11](https://www.youtube.com/watch?v=qqVbr_LaCIo)
 * [Stoyan Stefanov: Introduction to React - LAWebSpeed meetup](https://www.youtube.com/watch?v=SMMRJif5QW0)
@@ -1001,8 +1045,13 @@ A collection of awesome things regarding React ecosystem.
 ### Books
 * [SurviveJS - Webpack and React](http://survivejs.com/)
 * [Fullstack React: The Complete Guide to ReactJS and Friends](https://www.fullstackreact.com/)
+* [The Road to learn React](https://www.robinwieruch.de/the-road-to-learn-react/)
+* [Isomorphic Development with JavaScript](https://www.manning.com/books/isomorphic-development-with-javascript)
+* [React in Action](https://www.manning.com/books/react-in-action)
+* [React Quickly](https://www.manning.com/books/react-quickly)
+* [The Road to learn React](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
+* [Taming the State in React](https://roadtoreact.com/course-details?courseId=TAMING_THE_STATE)
 * [React: Up & Running: Building Web Applications](https://www.amazon.com/React-Running-Building-Web-Applications/dp/1491931825)
-
 
 ---
 ### Demos
@@ -1029,6 +1078,7 @@ A collection of awesome things regarding React ecosystem.
 * [Hapi+React+Flux user management system ★1105](https://github.com/jedireza/aqua)
 * [Redux TodoMVC](https://github.com/gaearon/redux/tree/master/examples/todomvc)
 * [react-babel-webpack - CRUD demo app featuring React, React Router, Flux, Webpack, Bootstrap](https://github.com/arcseldon/react-babel-webpack-starter-app.git)
+* [React/Redux CRUD with persistent state in Local Storage ★17 ⏳1Y](https://github.com/cristianszwarc/react_crud_localStorage)
 
 
 ---
@@ -1038,15 +1088,20 @@ A collection of awesome things regarding React ecosystem.
 * [sound-redux - A Soundcloud client built with React / Redux ★3704](https://github.com/andrewngu/sound-redux)
 * [react-pomodoro - A Pomodoro timer for developers ★255](https://github.com/afonsopacifer/react-pomodoro)
 * [Do - Notes management application built with React and Redux ★149 ⏳1Y](https://github.com/1ven/do)
+* [soundcloud-react-redux - A SoundCloud Client built with React / Redux ★979](https://github.com/rwieruch/favesound-redux)
+* [soundcloud-react-mobx - A SoundCloud Client built with React / MobX ★300](https://github.com/rwieruch/favesound-mobx)
+* [A Reimplementation of Winamp 2.9 with React and Redux ★2560](https://github.com/captbaritone/winamp2-js)
 * [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless ★20](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
 
 ---
 ### Real Apps
 * [reddit/reddit-mobile ★1160](https://github.com/reddit/reddit-mobile)
 * [khan/perseus ★885](https://github.com/khan/perseus)
-* [mozilla/payments-ui ★113](https://github.com/mozilla/payments-ui)
+* [mozilla/payments-ui ★113 ⏳1Y](https://github.com/mozilla/payments-ui)
 * [webbylab/itsquiz-wall ★456](https://github.com/webbylab/itsquiz-wall)
 * [brainfock/brainfock ★311](https://github.com/brainfock/brainfock)
+* [HVF/franchise ★2972](https://github.com/HVF/franchise)
+* [KELiON/cerebro ★3967](https://github.com/KELiON/cerebro)
 
 ---
 ### Contribution

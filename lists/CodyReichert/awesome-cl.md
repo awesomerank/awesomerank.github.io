@@ -30,7 +30,6 @@ sellers who aren't evil for physical resources.
 <!-- markdown-toc start - Don't edit this section. Run M-x markdown-toc-generate-toc again -->
 **Table of Contents**
 
-- [Awesome Common Lisp ★67308](https://github.com/sindresorhus/awesome)
 - [Build Systems](#build-systems)
 - [Crypto](#crypto)
 - [Database](#database)
@@ -68,8 +67,8 @@ sellers who aren't evil for physical resources.
     - [URI handling](#uri-handling)
     - [Javascript](#javascript)
     - [Websockets](#websockets)
-    - [Third-party APIs](#third-party-apis)
     - [Static site generators](#static-site-generators)
+    - [Third-party APIs](#third-party-apis)
     - [Others](#others)
 - [Numerical and Scientific](#numerical-and-scientific)
 - [Parallelism and Concurrency](#parallelism-and-concurrency)
@@ -78,11 +77,15 @@ sellers who aren't evil for physical resources.
 - [Text Editor Resources](#text-editor-resources)
     - [Emacs](#emacs)
     - [Vim](#vim)
+    - [Sublime Text](#sublime-text)
+    - [Atom](#atom)
+    - [Notebooks](#notebooks)
 - [Tools](#tools)
 - [Unit Testing](#unit-testing)
 - [Utilities](#utilities)
     - [Language extensions](#language-extensions)
     - [Files and directories](#files-and-directories)
+    - [Git](#git)
     - [Date and time](#date-and-time)
     - [Data validation](#data-validation)
     - [CSV](#csv)
@@ -91,6 +94,7 @@ sellers who aren't evil for physical resources.
     - [Plotting](#plotting)
     - [i18n](#i18n)
     - [Logging](#logging)
+    - [Text Processing](#text-processing)
     - [Other](#other)
 - [XML](#xml)
 - [Contributing](#contributing)
@@ -102,34 +106,34 @@ Build Systems
 =============
 
 * [ASDF](https://common-lisp.net/project/asdf/) - Another System Definition Facility; a build system for Common Lisp. [Expat][14].
-* [asdf-linguist ★16 ⏳2Y](https://github.com/eudoxia0/asdf-linguist) - Extensions for ASDF. [Expat][14].
+* [asdf-linguist ★17 ⏳2Y](https://github.com/eudoxia0/asdf-linguist) - Extensions for ASDF. [Expat][14].
 
 Crypto
 ======
 
 * [crypto-shortcuts ★10](https://github.com/Shinmera/crypto-shortcuts) - Collection of common crypto shortcuts. [Artistic License 2.0][51].
 * [Ironclad](http://method-combination.net/lisp/ironclad/) - A library of crypto functions for Common Lisp. Not considered secure, but is still useful for the message digest functions. [Expat][14].
-* [trivial-ssh ★15](https://github.com/eudoxia0/trivial-ssh) - An SSH client library. [Expat][14].
+* [trivial-ssh ★17](https://github.com/eudoxia0/trivial-ssh) - An SSH client library. [Expat][14].
 
 Database
 ========
 
-* [cl-dbi ★91](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL][8].
+* [cl-dbi ★93](https://github.com/fukamachi/cl-dbi) - A database-independent interface for Common Lisp. [LLGPL][8].
 * [cl-memcached ★16 ⏳2Y](https://github.com/quasi/cl-memcached) - Fast, thread-safe interface to the Memcached object caching system. [Expat][14].
-* [cl-mongo ★109](https://github.com/fons/cl-mongo) - MongoDB client. [Expat][14].
+* [cl-mongo ★110](https://github.com/fons/cl-mongo) - MongoDB client. [Expat][14].
 * [cl-redis ★112 ⏳1Y](https://github.com/vseloved/cl-redis) - Redis client. [Expat][14].
 * [cl-disque ★8 ⏳2Y](https://github.com/CodyReichert/cl-disque) - Disque client. [3-clause BSD][15].
 * [cl-rethinkdb ★42 ⏳1Y](https://github.com/orthecreedence/cl-rethinkdb) - RethinkDB client. [Expat][14].
-* [cl-sqlite ★30 ⏳6Y](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
+* [cl-sqlite ★31 ⏳6Y](https://github.com/dmitryvk/cl-sqlite) - Bindings for SQLite. Public domain.
 * [clsql](http://www.cliki.net/CLSQL) - An SQL database with a Common Lisp interface. [LLGPL][8].
 * [clache ★0 ⏳3Y](https://github.com/html/clache) - General caching facility. No license specified.
 * [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD][39].
-* [crane ★161 ⏳1Y](https://github.com/eudoxia0/crane) - Another ORM. [Expat][14].
-* [datafly ★57](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD][15].
-* [mito ★49](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL][8].
+* [crane ★163 ⏳1Y](https://github.com/eudoxia0/crane) - Another ORM. [Expat][14].
+* [datafly ★58](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD][15].
+* [mito ★51](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL][8].
 * [postmodern](http://marijnhaverbeke.nl/postmodern/) - A library for interacting with PostgreSQL. [zlib][33].
-* [pgloader ★1235](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
-* [sxql ★104](https://github.com/fukamachi/sxql) - A DSL for generating SQL. [3-clause BSD][15].
+* [pgloader ★1270](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
+* [sxql ★105](https://github.com/fukamachi/sxql) - A DSL for generating SQL. [3-clause BSD][15].
 * [bknr.datastore ★30 ⏳1Y](https://github.com/hanshuebner/bknr-datastore) - a CLOS-based lisp-only database in RAM with transaction logging persistence. [licence](http://bknr.net/html/license.html). (see also chap. 21 of "Common Lisp Recipes")
 * [elephant](https://common-lisp.net/project/elephant/) - Elephant is a persistent object database for Common Lisp with full transaction semantics. [LLGPL][8].
 * [ubiquitous ★8](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [Artistic License 2.0][51].
@@ -140,8 +144,8 @@ Foreign Function Interface
 
 ## C ##
 
-* [CFFI ★161](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat][14].
-* [cl-autowrap ★94](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD][39].
+* [CFFI ★166](https://github.com/cffi/cffi) - Portable, easy-to-use C foreign function interface. [Expat][14].
+* [cl-autowrap ★97](https://github.com/rpav/cl-autowrap) - Automatically parses header files into CFFI definitions. [FreeBSD][39].
 
 ## Java ##
 
@@ -153,29 +157,38 @@ Foreign Function Interface
 
 ## Python ##
 
-* [burgled-batteries ★39](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. Not available on Quicklisp. No license specified.
+* [burgled-batteries ★48](https://github.com/pinterface/burgled-batteries) - A bridge between Python and Common Lisp. Not available on Quicklisp. No license specified.
 
 Game Development
 ================
 
 * [Xelf](http://xelf.me/) - Extensible game library. Not available on Quicklisp. [GNU LGPL2.1][11].
+* [Trial ★42](https://github.com/shirakumo/trial) - Trial is an OpenGL
+  game engine with a heavy focus on modularity. It is supposed to
+  provide a large toolkit of useful bits and pieces from which you can
+  create a game. [Artistic License 2.0][47].
+* [cl-mpg123](https://shirakumo.github.io/cl-mpg123) and
+  [cl-out123](https://shirakumo.github.io/cl-out123), bindings
+  libraries for libmpg123 and libout123 respectively, giving you fast
+  and easy to use mp3 decoding and cross-platform audio
+  output. [Artistic License 2.0][47].
 
 Graphics
 ========
 
 These are libraries for working with graphics, rather than making GUIs (i.e. widget toolkits), which have their own section.
 
-* [cl-cairo2 ★39](https://github.com/rpav/cl-cairo2) - Cairo bindings. [Boost 1.0][54]
+* [cl-cairo2 ★41](https://github.com/rpav/cl-cairo2) - Cairo bindings. [Boost 1.0][54]
 * [cl-gd](http://weitz.de/cl-gd/) - A library providing an interface to the GD graphics library. [FreeBSD][39].
 * [cl-horde3d ★14 ⏳4Y](https://github.com/anwyn/cl-horde3d) - FFI bindings to the Horde3D graphics library. Not available on Quicklisp. [EPL 1.0][59]
-* [cl-opengl ★170](https://github.com/3b/cl-opengl) - CFFI bindings to OpenGL, GLU and GLUT APIs. [3-clause BSD][15].
-* [cl-sdl2 ★112](https://github.com/lispgames/cl-sdl2) - Bindings for SDL2 using C2FFI. [Expat][14].
+* [cl-opengl ★169](https://github.com/3b/cl-opengl) - CFFI bindings to OpenGL, GLU and GLUT APIs. [3-clause BSD][15].
+* [cl-sdl2 ★119](https://github.com/lispgames/cl-sdl2) - Bindings for SDL2 using C2FFI. [Expat][14].
 * [cl-svg](https://code.google.com/archive/p/cl-svg) - A basic library for producing SVG files. [Expat][14].
-* [CLinch ★201](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39].
+* [CLinch ★203](https://github.com/BradWBeer/CLinch) - Common Lisp 2D/3D graphics engine for OpenGL. [FreeBSD][39].
 * [donuts ★12](https://github.com/tkych/donuts) - Graph drawing DSL for Common Lisp. [Expat][14].
 * [lispbuilder-sdl ★88](https://github.com/lispbuilder/lispbuilder) - A set of bindings for SDL. [Expat][14].
 * [okra ★20 ⏳3Y](https://github.com/aerique/okra) - CFFI bindings to Ogre. Not available on Quicklisp. [3-clause BSD][15].
-* [Varjo ★100](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. Not available on Quicklisp. [LLGPL][8].
+* [Varjo ★101](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. Not available on Quicklisp. [LLGPL][8].
 * [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
 * [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD][39].
 * [Sketch ★659](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200].
@@ -190,7 +203,7 @@ GUI
 * [Qtools ★79](https://github.com/Shinmera/qtools) - A Qt toolkit, based on CommonQt. [Artistic License 2.0][51]
 * [ltk](http://www.peter-herth.de/ltk/) - A binding for the Tk toolkit. [LLGPL][8] or [GNU LGPL2.1][11].
 * [ceramic](https://ceramic.github.io/) - Desktop web apps with Common Lisp. [Expat][14].
-* [CocoaInterface ★5](https://github.com/plkrueger/CocoaInterface) -
+* [CocoaInterface ★7](https://github.com/plkrueger/CocoaInterface) -
 Cocoa interface for Clozure Common Lisp. Build Cocoa user interface
 windows dynamically using Lisp code and bypass the typical Xcode
 processes. It has 
@@ -211,8 +224,8 @@ Implementations
 JSON
 ====
 
-* [cl-json ★47](https://github.com/hankhero/cl-json) - A JSON encoder and decoder. [Expat][14].
-* [jsown ★49](https://github.com/madnificent/jsown) - A reader and writer for the JSON format. [Expat][14].
+* [cl-json ★49](https://github.com/hankhero/cl-json) - A JSON encoder and decoder. [Expat][14].
+* [jsown ★50](https://github.com/madnificent/jsown) - A reader and writer for the JSON format. [Expat][14].
 
 
 Learning and Tutorials
@@ -248,6 +261,7 @@ Reference
 
 * [Common Lisp Quick Reference](http://clqr.boundp.org/index.html) - A distilled, pocket-size version of the ANSI CL spec. Available for download as a PDF.
 * [CLHS](http://www.lispworks.com/documentation/lw50/CLHS/Front/index.htm) - The Common Lisp HyperSpec; the ANSI CL standard, in hypertext form.
+* [Common Lisp Standard Draft](http://cvberry.com/tech_writings/notes/common_lisp_standard_draft.html) - The final draft of the Common Lisp specifications, in a well formatted PDF.
 * [Common Lisp the Langauge](http://www.cs.cmu.edu/Groups/AI/html/cltl/cltl2.html) - The original standard for Common Lisp before the ANSI spec.
 * [Minispec](http://minispec.org/index.html) - A friendlier, but less-complete, version of CLHS. Also contains documentation for some commonly-used CL libraries (such as Alexandria).
 * [Quickdocs](http://quickdocs.org/) - A reference for the libraries provided by Quicklisp.
@@ -277,8 +291,8 @@ Advanced
 Library Manager
 ===============
 
-* [Roswell ★633](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200].
-* [qlot ★106](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat][14].
+* [Roswell ★645](https://github.com/roswell/roswell) - a Lisp implementation installer, script launcher and more. [MIT][200].
+* [qlot ★108](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat][14].
 * [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
 * [Quickutil ★57](https://github.com/tarballs-are-good/quickutil) - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15].
 
@@ -297,17 +311,17 @@ See [Cliki](http://www.cliki.net/Web) for more.
 
 HTTP clients
 ------------
-* [Dexador ★79](https://github.com/fukamachi/dexador) - An HTTP client, that aims at [replacing Drakma](http://quickdocs.org/dexador/). [MIT][200].
+* [Dexador ★82](https://github.com/fukamachi/dexador) - An HTTP client, that aims at [replacing Drakma](http://quickdocs.org/dexador/). [MIT][200].
 
 HTTP Servers
 ------------
-* [Clack ★634](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (default is Hunchentoot).
+* [Clack ★646](https://github.com/fukamachi/clack) - A web application environment inspired by Rack and WSGI. [LLGPL][8].  Provides a unified interface to a webserver of choice (default is Hunchentoot).
 * [Hunchentoot](http://weitz.de/hunchentoot/) - A web server. [2-clause BSD][207]
 * [aserve ★79](https://github.com/franzinc/aserve) - AllegroServe; a web server. [LLGPL][8].
 * [clack-errors ★17 ⏳1Y](https://github.com/eudoxia0/clack-errors) - Error page middleware for Clack. [LLGPL][8].
 * [hermetic ★17](https://github.com/eudoxia0/hermetic) - Security for Clack-based web applications. [Expat][14].
 * [wookie ★141](https://github.com/orthecreedence/wookie) - Asynchronous HTTP server. [Expat][14].
-* [woo ★564](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT][200].
+* [woo ★580](https://github.com/fukamachi/woo) - A fast non-blocking HTTP server on top of libev. [MIT][200].
 
 ### Clack plugins
 
@@ -320,12 +334,12 @@ HTTP Servers
 
 Web frameworks
 --------------
-* [Caveman ★442](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL][8].
+* [Caveman ★443](https://github.com/fukamachi/caveman) - A powerful web framework. [LLGPL][8].
   Example projects: [Quickdocs](https://github.com/quickdocs)
 * [hh-web ★33 ⏳3Y](https://github.com/hargettp/hh-web) - Framework for building modern web apps. [Expat][14].
-* [ningle ★137](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL][8].
-* [radiance ★64](https://github.com/Shirakumo/radiance) - An extensible framework library and multi-application CMS. [Artistic License 2.0][51].
-* [Lucerne ★100 ⏳1Y](https://github.com/eudoxia0/lucerne) - A minimal web framework built on Clack, inspired by Flask. [MIT][200].
+* [ningle ★139](https://github.com/fukamachi/ningle) - A super-micro web framework. [LLGPL][8].
+* [radiance ★69](https://github.com/Shirakumo/radiance) - An extensible framework library and multi-application CMS. [Artistic License 2.0][51].
+* [Lucerne ★103 ⏳1Y](https://github.com/eudoxia0/lucerne) - A minimal web framework built on Clack, inspired by Flask. [MIT][200].
 
 There are more projects, more or less discontinued but interesting. See the other ressources.
 
@@ -353,10 +367,10 @@ See also XML below.
 HTML generators and templates
 -----------------------------
 * [cl-who](http://weitz.de/cl-who/) - An HTML generator. [FreeBSD][39].
-* [spinneret ★49](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat][14].
-* [cl-markup ★45 ⏳2Y](https://github.com/arielnetworks/cl-markup) - Modern markup generation library. [LLGPL][8].
-* [Djula ★55](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat][14].
-* [eco ★15](https://github.com/eudoxia0/eco) - Fast, flexible, designer-friendly template engine. [Expat][14].
+* [spinneret ★51](https://github.com/ruricolist/spinneret) - Common Lisp HTML5 generator. [Expat][14].
+* [cl-markup ★44 ⏳2Y](https://github.com/arielnetworks/cl-markup) - Modern markup generation library. [LLGPL][8].
+* [Djula ★56](https://github.com/mmontone/djula) - A port of Django's template engine to Common Lisp. [Expat][14].
+* [eco ★16](https://github.com/eudoxia0/eco) - Fast, flexible, designer-friendly template engine. [Expat][14].
 
 URI handling
 ------------
@@ -369,7 +383,7 @@ Javascript
 
 * [Parenscript](https://github.com/vsedach/Parenscript) - A translator from Common Lisp to Javascript. [3-clause BSD][15]. See [Trident-mode ★35 ⏳4Y](https://github.com/johnmastro/trident-mode.el), an Emacs mode that provides live interaction with the browser.[unlicence][5].
 * [parse-js](http://marijnhaverbeke.nl/parse-js/) - A package for parsing ECMAScript 3. [zlib][33].
-* [JSCL ★380](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
+* [JSCL ★385](https://github.com/jscl-project/jscl) - A CL-to-JS compiler designed to be self-hosting from day one. Lacks CLOS, format and loop.
 * [CL-JavaScript](http://marijnhaverbeke.nl/cl-javascript/) - A translator from Javascript to Common Lisp. Not available on Quicklisp. [Expat][14].
 * [Wuwei](https://github.com/mtravers/wuwei/) - A toolkit to build Ajax-based web pages. [MIT][200]. See also [this fork ★0](https://github.com/fare-patches/wuwei) for [these improvements](https://github.com/mtravers/wuwei/pull/16).
 * [Panic ★22 ⏳1Y](https://github.com/michaeljforster/panic), a Parenscript library for React. Not in Quicklisp. [MIT][200]. Its [TodoMVC example](https://github.com/40ants/todomvc/blob/common-lisp-example/examples/common-lisp-react/src/app.lisp).
@@ -377,7 +391,7 @@ Javascript
 Websockets
 ----------
 
-* [websocket-driver ★38](https://github.com/fukamachi/websocket-driver) - a WebSocket server/client implementation, backend agnostic (Clack). [3-clause BSD][15].
+* [websocket-driver ★40](https://github.com/fukamachi/websocket-driver) - a WebSocket server/client implementation, backend agnostic (Clack). [3-clause BSD][15].
 
 See more [on cliki](http://www.cliki.net/site/search?query=websockets).
 
@@ -391,6 +405,10 @@ Static site generators
 Third-party APIs
 ----------------
 
+* [north](https://shinmera.github.io/north) - The successor to the
+  South (Simple OaUTH) library, implementing the full oAuth 1.0a
+  protocol, both client and server sides. Using North you can easily
+  become an oAuth provider or consumer. [Artistic License 2.0][51].
 * [avatar-api ★8 ⏳2Y](https://github.com/eudoxia0/avatar-api) - Get avatars from Google+, Gravatar and others. [Expat][14].
 * [chirp ★40](https://github.com/Shinmera/chirp) - A Twitter client library. [Artistic License 2.0][51].
 * [cl-irc](https://www.common-lisp.net/project/cl-irc/) - An IRC client library. [Expat][14].
@@ -401,22 +419,28 @@ Third-party APIs
 Others
 ------
 
-* [cl-closure-template ★65 ⏳2Y](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates. [LLGPL][8].
-* [colleen ★27](https://github.com/Shinmera/colleen) - IRC bot with a modular framework. [Artistic License 2.0][51].
-* [css-lite ★52 ⏳5Y](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat][14].
+* [cl-closure-template ★66 ⏳2Y](https://github.com/archimag/cl-closure-template) - Implementation of Google's Closure templates. [LLGPL][8].
+* [colleen ★28](https://github.com/Shinmera/colleen) - IRC bot with a modular framework. [Artistic License 2.0][51].
+* [css-lite ★53 ⏳5Y](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat][14].
 * [Postmaster ★3 ⏳2Y](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
-* [usocket ★55](https://github.com/usocket/usocket) - A portable TCP and UDP socket interface. [Expat][14].
+* [usocket ★56](https://github.com/usocket/usocket) - A portable TCP and UDP socket interface. [Expat][14].
 * [find-port ★5 ⏳1Y](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT][200].
 
 
 Numerical and Scientific
 ========================
 
-* [cl-spark ★52 ⏳2Y](https://github.com/tkych/cl-spark) - Generates sparkline strings for lists of numbers. [Expat][14].
+* [cl-spark ★53 ⏳2Y](https://github.com/tkych/cl-spark) - Generates sparkline strings for lists of numbers. [Expat][14].
 * [GSLL](https://common-lisp.net/project/gsll/) - GNU Scientific Library for Lisp; allows the use of the GSL from Common Lisp. [GNU LGPL2.1][11].
-* [common-lisp-stat ★131 ⏳2Y](https://github.com/blindglobe/common-lisp-stat) - Common Lisp statistics library. [FreeBSD][39].
-* [lisp-matrix ★46 ⏳2Y](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD][39].
+* [common-lisp-stat ★132 ⏳2Y](https://github.com/blindglobe/common-lisp-stat) - Common Lisp statistics library. [FreeBSD][39].
 * [maxima](http://maxima.sourceforge.net/) - Computer algebra system. Not available on Quicklisp. [GNU GPL3][2].
+* [lisp-matrix ★46 ⏳2Y](https://github.com/blindglobe/lisp-matrix) - A matrix package. [FreeBSD][39].
+* [3-matrices](https://shinmera.github.io/3d-matrices) - A library implementing
+  common matrix calculations, with an emphasis on 2x2,3x3, and 4x4
+  matrices as commonly used in graphics. It provides some numerical
+  functions as well, but those are not the focus. The library is
+  heavily optimised, so it is not made of pretty
+  code. [Artistic License 2.0][51].
 
 
 Parallelism and Concurrency
@@ -424,11 +448,17 @@ Parallelism and Concurrency
 
 * [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/) - Portable, shared-state concurrency. [Expat][14].
 * [chanl ★98 ⏳1Y](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat][14], with parts under [3-clause BSD][15].
-* [cl-async ★158 ⏳1Y](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat][14].
+* [cl-async ★159](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat][14].
 * [lesque ★14 ⏳3Y](https://github.com/fukamachi/lesque) - A clone of Resque. Not available on Quicklisp. [Expat][14].
-* [lparallel ★120](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
-* [Xecto ★30 ⏳1Y](https://github.com/pkhuong/Xecto) - A library for regular array parallelism. [3-clause BSD][15].
+* [lparallel ★121](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
+* [Xecto ★30 ⏳2Y](https://github.com/pkhuong/Xecto) - A library for regular array parallelism. [3-clause BSD][15].
 * [Moira ★12](https://github.com/TBRSS/moira) -  Monitor and restart background threads. In-lisp process supervisor. No license specified.
+* [simple-tasks ★6](https://github.com/Shinmera/simple-tasks) - A very
+  simple task scheduling framework. [Artistic License 2.0][51].
+* [deeds ★4](https://github.com/Shinmera/deeds) - Deeds is an Extensible
+  Event Delivery System. It allows for efficient event delivery to
+  multiple handlers with a complex event filtering
+  system. [Artistic License 2.0][51].
 
 Regex
 =====
@@ -439,18 +469,26 @@ Regex
 Scripting
 =========
 
-* [Roswell ★633](https://github.com/roswell/roswell#scripting-with-roswell) -
+* [Roswell ★645](https://github.com/roswell/roswell#scripting-with-roswell) -
   a lisp installer and scripting environment (helper, launcher,
   installer) and more. [MIT][200].
 * [Shelly ★64 ⏳3Y](https://github.com/fukamachi/shelly) - execute Common Lisp
   functions like a shell command, without the need to write a command
   line arguments parser. And it also can be used as a Make-like
   build-tool. [FreeBSD][39].
-* [Unix-opts ★20](https://github.com/mrkkrp/unix-opts) - a command line
+* [cl-readline ★17](https://github.com/mrkkrp/cl-readline) - a set of
+  functions to edit lines as they are typed in, to maintain a list of
+  previously-entered command lines, to recall and reedit them and
+  perform csh-like history expansion.  Emacs and vi editing
+  modes. [GPL3][2].
+* [Unix-opts ★22](https://github.com/mrkkrp/unix-opts) - a command line
   options parser with a concise declaration of options. [MIT][200].
 * [CLON ★22](https://github.com/didierverna/clon) - Command Line Options
   Nuker. [ISC](https://github.com/didierverna/clon/blob/master/LICENSE).
-* [Deploy ★19](https://github.com/Shinmera/deploy) - a system to help you
+* [cl-ansi-term ★7](https://github.com/mrkkrp/cl-ansi-term) - print
+  colorized text, horizontal lines, progress bars, (un)ordered lists
+  and tables on ANSI-compliant terminals. [GPL3][2].
+* [Deploy ★21](https://github.com/Shinmera/deploy) - a system to help you
   easily and quickly deploy standalone common lisp applications as
   binaries. Specifically it is geared towards applications with
   foreign library dependencies that run some kind of
@@ -465,19 +503,31 @@ This contains plugins and other goodies for various text editors.
 
 ## Emacs ##
 
-* [SLIME ★818](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
+* [SLIME ★832](https://github.com/slime/slime) - Superior Lisp Interaction Mode for Emacs; a full-blown environment for Common Lisp inside of Emacs. Public domain.
 * [PORTACLE](https://shinmera.github.io/portacle/) - A portable and multiplatform Common Lisp environment: SBCL, Quicklisp, Emacs, Slime, Git.
-* [LISP-MACHINE ★12](https://github.com/listp/lisp-machine) - A Common Lisp IDE in a Docker Container:  Roswell Managed, Clozure CL, Spacemacs, Quicklisp, CLHS
+* [LISP-MACHINE ★11](https://github.com/listp/lisp-machine) - A Common Lisp IDE in a Docker Container:  Roswell Managed, Clozure CL, Spacemacs, Quicklisp, CLHS
 
 ## Vim ##
 
-* [SLIMV ★230](https://github.com/kovisoft/slimv) - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
-* [Vlime ★52](https://github.com/l04m33/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT][200].
+* [SLIMV ★232](https://github.com/kovisoft/slimv) - Superior Lisp Interaction Mode for Vim; a full-blown environment for Common Lisp inside of Vim. No license specified.
+* [Vlime ★56](https://github.com/l04m33/vlime) - VLIME: Vim plus Lisp Is Mostly Evil. A Common Lisp dev environment for Vim (and Neovim). [MIT][200].
 
 ## Sublime Text ##
 
 * [Sublime Text](http://www.sublimetext.com/3) has Common Lisp support
   with its "SublimeREPL" package. [Proprietary].
+
+## Atom ##
+
+* [ATOM-SLIME](https://atom.io/packages/atom-slime) allows you to
+  interactively develop Common Lisp code, helping turn Atom into a
+  full-featured Lisp IDE. [MIT][200].
+
+## Notebooks ##
+
+* [cl-jupyter ★102](https://github.com/fredokun/cl-jupyter) - A Common Lisp kernel for Jupyter notebooks [custom licence](https://github.com/fredokun/cl-jupyter/blob/master/LICENSE).
+* [Darkmatter ★275](https://github.com/tamamu/darkmatter) - A
+  notebook-style Common Lisp environment. [MIT][200].
 
 Tools
 =====
@@ -485,21 +535,31 @@ Tools
 These are applications or bits of code that make development in Common Lisp easier without being Common Lisp libraries themselves.
 
 * [quickapp][188] - A project for generating template projects with SBCL and buildapp. Also includes a command-line argparser. [3-clause BSD][15].
-* [quickapp-cli ★3 ⏳2Y](https://github.com/triclops200/quickapp-cli) - [quickapp][188] as a command-line utility. [3-clause BSD][15].
-* [quicksearch ★19 ⏳3Y](https://github.com/tkych/quicksearch) - Look up online libraries from the REPL. [Expat][14].
+* [quickapp-cli ★2 ⏳2Y](https://github.com/triclops200/quickapp-cli) - [quickapp][188] as a command-line utility. [3-clause BSD][15].
+* [quicksearch ★21 ⏳3Y](https://github.com/tkych/quicksearch) - Look up online libraries from the REPL. [Expat][14].
 * [SWIG](http://www.swig.org/) - A tool for generating FFI code from C/C++ header files. [GNU GPL3][2].
-* [cl-project ★86](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL][8].
+* [cl-project ★90](https://github.com/fukamachi/cl-project) - General modern project skeletons. [LLGPL][8].
 
 
 Unit Testing
 ============
 
-* [FiveAM ★85](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
+* [FiveAM ★86](https://github.com/sionescu/fiveam) - Simple regression testing framework. [FreeBSD][39].
 * [CLUnit ★15](https://github.com/tgutu/clunit) - A unit testing library. [Expat][14].
-* [Lift ★19 ⏳2Y](https://github.com/gwkkwg/lift) - Another testing framework. [A range of licenses, all free][176].
-* [Stefil](http://dwim.hu/project/hu.dwim.stefil?_x=BGZm&_f=SnpbobKv) - A test framework that aims to be transparent. Public domain.
-* [Prove ★140](https://github.com/fukamachi/prove) - Yet another unit testing framework [Expat][14].
+* [Prove ★147](https://github.com/fukamachi/prove) - Yet another unit testing framework [Expat][14].
+* [Parachute ★5](https://github.com/Shinmera/parachute) - An extensible
+  and cross-compatible testing framework. With test dependencies,
+  conditions, fixtures and restarts. [Artistic License 2.0][51].
+* [Mockingbird ★6](https://github.com/Chream/mockingbird) - A small
+  stubbing and mocking library for Common Lisp. Can also check wether
+  a stubbed function was called, how many times and with which
+  arguments. [MIT][200].
 * [Check-it ★19](https://github.com/DalekBaldwin/check-it) - A QuickCheck-style randomized property-based testing. [LLGPL][8].
+* [cl-coveralls ★20 ⏳1Y](https://github.com/fukamachi/cl-coveralls) - a helper
+  library to post test coverage to Coveralls. See
+  [continuous-integration on lisp-lang.org](http://lisp-lang.org/learn/continuous-integration)
+  and
+  [SBCL's code coverage tool](http://www.sbcl.org/manual/index.html#sb_002dcover). [FreeBSD][39].
 
 
 Utilities
@@ -508,22 +568,34 @@ Utilities
 Language extensions
 -------------------
 
-* [cl21 ★643](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat][14].
+* [cl21 ★653](https://github.com/cl21/cl21) - An experimental project to move Common Lisp into the 21st century. [Expat][14].
 * [alexandria](https://common-lisp.net/project/alexandria/) - A general-purpose utility library. Public domain.
-* [serapeum ★66](https://github.com/TBRSS/serapeum) - Another general-purpose utility library. [Expat][14].
+* [serapeum ★68](https://github.com/TBRSS/serapeum) - Another general-purpose utility library. [Expat][14].
 * [anaphora](https://common-lisp.net/project/anaphora/) - A collection of anaphoric macros. Public domain.
 * [cl-algebraic-data-type](https://bitbucket.org/tarballs_are_good/cl-algebraic-data-type) - A library for defining algebraic data types in a similar spirit to Haskell or ML. [3-clause BSD][15].
 * [FSet](http://quickdocs.org/fset/) - A functional, set-theoretic collections data structure library. [LLGPL][8].
 * [iterate](https://common-lisp.net/project/iterate/) - An iteration construct for Common Lisp which is extensible and Lispier. No license specified.
+* [for](shinmera.github.io/for/) - A concise, lispy and extensible
+  iteration macro. Unlike loop it is extensible and sensible, and
+  unlike iterate it does not require code-walking and is easier to
+  extend. [Artistic License 2.0][51].
 * [series](https://github.com/tokenrove/series/wiki) - Functional style without any runtime penalty at all. [MIT][200].
-* [optima ★198 ⏳1Y](https://github.com/m2ym/optima) - Optimized pattern-matching library. [LLGPL][8].
-* [trivial-types ★26 ⏳5Y](https://github.com/m2ym/trivial-types) - Trivial type definitions. [LLGPL][8].
+* [optima ★199 ⏳1Y](https://github.com/m2ym/optima) - Optimized pattern-matching library. [LLGPL][8].
+* [trivial-types ★27 ⏳5Y](https://github.com/m2ym/trivial-types) - Trivial type definitions. [LLGPL][8].
 * [interface](https://bitbucket.org/tarballs_are_good/interface) - A protocol library. [3-clause BSD][15].
 * [cl-syntax ★30 ⏳1Y](https://github.com/m2ym/cl-syntax) - Reader syntax conventions. [LLGPL][8].
 * [closer-mop](http://cliki.net/closer-mop) - A compatibility layer that rectifies many absent or incorrect MOP features. [Expat][14].
 * [cl-2dsyntax](http://www.cliki.net/cl-2dsyntax) - An indentation-sensitive reader system. Not available on Quicklisp. No license specified.
-* [cl-annot ★88 ⏳2Y](https://github.com/m2ym/cl-annot) - Python-like annotations for Common Lisp. [LLGPL][8].
+* [cl-annot ★89 ⏳2Y](https://github.com/m2ym/cl-annot) - Python-like annotations for Common Lisp. [LLGPL][8].
 * [cl-interpol](http://www.cliki.net/cl-interpol) - A set of reader modifications to allow string interpolation. No license specified.
+* [dissect](https://shinmera.github.io/dissect) - when a lot of
+  projects use the “trivial-backtrace” system that just gives them a
+  string with a backtrace, Dissect allows you to capture, step, and
+  completely inspect the stack trace on a variety of Lisp
+  implementations. Also very useful for logging and other situations
+  where execution is automatically continued, but the information of
+  the current stack is still useful to store
+  somewhere. [Artistic License 2.0][51].
 
 
 
@@ -534,6 +606,15 @@ Files and directories
   (replaces [cl-fad](http://weitz.de/cl-fad/)). uiop is part of ASDF3
   and as thus is shipped in many implementations. [MIT][200].
 * [osicat](https://common-lisp.net/project/osicat/) - A lightweight operating system interface on POSIX-like systems (directory iteration and deletion, environment variables, file permissions, etc) [Expat][14].
+* [pathname-utils ★3](https://github.com/Shinmera/pathname-utils) - A
+  collection of utilities to help with pathname
+  operations. [Artistic License 2.0][51].
+
+Git
+---
+
+* [legit](https://shinmera.github.io/legit/) - an interface to the Git
+  binary. [Artistic License 2.0][51].
 
 Date and time
 -------------
@@ -582,16 +663,17 @@ i18n
 Logging
 -------
 
-* [log4cl ★69 ⏳1Y](https://github.com/7max/log4cl) - Logging framework modelled after Log4J. [Apache2.0][89].
+* [log4cl ★71](https://github.com/7max/log4cl) - Logging framework modelled after Log4J. [Apache2.0][89].
 
-Text
-----
+Text Processing
+---------------
 
 * [montezuma ★12](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
 * [mk-string-metrics ★11](https://github.com/mrkkrp/mk-string-metrics) -
   Calculate various string metrics efficiently in Common Lisp
   (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
   etc). [MIT][200].
+* [cl-yacc ★29](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200].
 
 
 Other
@@ -599,23 +681,24 @@ Other
 
 This contains anything which doesn't fit into another category.
 
-* [babel ★43](https://github.com/cl-babel/babel) - A charset encoding/decoding library. [Expat][14].
+* [babel ★45](https://github.com/cl-babel/babel) - A charset encoding/decoding library. [Expat][14].
 * [chipz ★11](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD][15].
-* [cl-cuda ★115](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL][8].
+* [cl-cuda ★117](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL][8].
 * [envy ★27](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD][39].
-* [esrap ★74 ⏳1Y](https://github.com/nikodemus/esrap) - Packrat parser. [Expat][14].
-* [fast-io ★88](https://github.com/rpav/fast-io) - Fast octet-vector/stream I/O. [3-clause BSD][15].
-* [glyphs ★16 ⏳2Y](https://github.com/ahungry/glyphs) - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3][2].
-* [iolib ★101](https://github.com/sionescu/iolib) - I/O library. [Expat][14].
+* [esrap ★75 ⏳1Y](https://github.com/nikodemus/esrap) - Packrat parser. [Expat][14].
+* [fast-io ★90](https://github.com/rpav/fast-io) - Fast octet-vector/stream I/O. [3-clause BSD][15].
+* [glyphs ★17 ⏳2Y](https://github.com/ahungry/glyphs) - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3][2].
+* [iolib ★103](https://github.com/sionescu/iolib) - I/O library. [Expat][14].
 * [mixalot ★20 ⏳1Y](https://github.com/ahefner/mixalot) - A loosely-coupled collection of audio libraries. No license specified.
 * [named-readtables ★15 ⏳2Y](https://github.com/melisgl/named-readtables) - Provides a readtable namespace, akin to package namespaces. [3-clause BSD][15].
 * [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD][39].
 * [simple-currency ★3 ⏳2Y](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD][39].
 * [template](https://bitbucket.org/tarballs_are_good/template) - A library for templates and functions, similar to C++. [3-clause BSD][15].
 * [texp](http://mr.gy/software/texp/) - A DSL to generate TeX. No license specified.
-* [trivial-benchmark ★14](https://github.com/Shinmera/trivial-benchmark) - Tiny benchmarking library. [Artistic Licence 2.0][51].
+* [trivial-benchmark ★15](https://github.com/Shinmera/trivial-benchmark) - Tiny benchmarking library. [Artistic Licence 2.0][51].
 * [trivial-garbage ★18](https://github.com/trivial-garbage/trivial-garbage) - A portable finalizer, weak hash-table and weak pointer API. Public domain.
 * [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/) - A small library for doing UTF-8-based I/O. Not available on Quicklisp. No license specified.
+* [montezuma ★12](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
 * [ubiquitous ★8](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [Artistic License 2.0][51].
 
 

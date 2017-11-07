@@ -128,7 +128,8 @@ title: Awesome Rank for lvwzhen/tools
 ### API Debugging
 
 * [Hurl.it](https://www.hurl.it/)
-* [requestb.in](http://requestb.in/) 
+* [requestb.in](http://requestb.in/)
+* [Beeceptor.com](http://beeceptor.com/)
 
 ### API Doc
 

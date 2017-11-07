@@ -56,11 +56,11 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 
 ## CCU Alternatives
 
-* [Hmcon ★25](https://github.com/hobbyquaker/hmcon) - Homematic Interface and Configuration. 
+* [Hmcon ★26](https://github.com/hobbyquaker/hmcon) - Homematic Interface and Configuration. 
 * [Homegear](https://www.homegear.eu/index.php/Main_Page) - Free and open source program to interface your smart home devices with your home automation software or your own scripts.
 * [piVCCU ★1](https://github.com/alexreinert/piVCCU) - Install the original Homematic CCU2 firmware inside a virtualized container (lxc) on a Raspberry Pi running Raspbian Jessie or Stretch.
-* [RaspberryMatic ★122](https://github.com/jens-maus/RaspberryMatic) - Lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
-* [YAHM ★80](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container.
+* [RaspberryMatic ★141](https://github.com/jens-maus/RaspberryMatic) - Lightweight, Linux/buildroot-based distribution for running a HomeMatic CCU on embedded devices like the RaspberryPi.
+* [YAHM ★84](https://github.com/leonsio/YAHM) - Setup Scripts to run the CCU software in a LXC Container.
 
 
 ## Alternative Sensors and Actuators
@@ -79,20 +79,20 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 * [Email ★12](https://github.com/jens-maus/hm_email) - HomeMatic CCU Addon for sending Emails.
 * [Hm-print ★5](https://github.com/litti/hm-print) - Print CCU Programs.
 * [Homeputer](https://www.contronics.de/shop/HomeMatic-System/Zentralen-und-Software.html) - **$**
-* [Homematic-addon-hue ★6](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic addon to control Philips Hue Lighting.
+* [Homematic-addon-hue ★7](https://github.com/j-a-n/homematic-addon-hue) - HomeMatic addon to control Philips Hue Lighting.
 * [homematic_check_mk ★3](https://github.com/alexreinert/homematic_check_mk) - Addon for the Homematic CCU2 or a Raspberrymatic device which acts as an check_mk_agent.
-* [HQ-WebUI ★21](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU.
+* [HQ-WebUI ★23](https://github.com/hobbyquaker/hq-webui) - Fast alternative WebUI for the Homematic CCU.
 * [WebMatic](http://webmatic.lmdsoft.de/tiki-index.php) - WebUI for the Homematic CCU.
-* [XML-API ★21](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML.
+* [XML-API ★23](https://github.com/hobbyquaker/xml-api) - Simplified CCU Access via HTTP/XML.
 
 
 ## Interfacing Software
 
 * [Homebridge-homematic](https://github.com/thkl/homebridge-homematic) - Supports the Homematic System on [HomeBridge ★6598](https://github.com/nfarina/homebridge) Platform.
-* [Homematic-Virtual-Interface ★11](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue).
-* [Hm2mqtt.js ★8](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT.
+* [Homematic-Virtual-Interface ★12](https://github.com/thkl/Homematic-Virtual-Interface) - Virtual Interface for Homematic CCU with plugins to connect other devices to your CCU (e.g. Philips Hue).
+* [Hm2mqtt.js ★11](https://github.com/hobbyquaker/hm2mqtt.js) - Interface between Homematic and MQTT.
 * [Hmcompanion ★11 ⏳1Y](https://github.com/owagner/hmcompanion) - Generic telnet based interface.
-* [Node-red-contrib-homematic ★5](https://github.com/firsttris/node-red-contrib-homematic) - Integrate your Homematic devices with [Node-RED](https://nodered.org).
+* [Node-red-contrib-homematic ★6](https://github.com/firsttris/node-red-contrib-homematic) - Integrate your Homematic devices with [Node-RED](https://nodered.org).
 
 
 ## Misc Software
@@ -101,7 +101,7 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 * [Check_homematic ★0](https://github.com/hobbyquaker/check_homematic) - Nagios/Icinga Plugin for checking Homematic CCU.
 * [Hm-simulator ★0](https://github.com/hobbyquaker/hm-simulator) - Simulates (partly) a Homematic CCU.
 * [HMXMLBIN ★4 ⏳5Y](https://github.com/leonsio/HMXMLBIN) - Converter between BINRPC and XMLRPC.
-* [Homematic-manager ★43](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear).
+* [Homematic-manager ★46](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear).
 * [Language-homematic ★2](https://github.com/Ayngush/language-homematic) - Adds syntax highlighting and snippets to HomeMatic Script files in Atom.
 
 ## Software Modules
@@ -109,10 +109,10 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 * [Binrpc ★7](https://github.com/hobbyquaker/binrpc) - Xmlrpc_bin protocol client and server Node.js module.
 * [Hmcfgusb](https://git.zerfleddert.de/cgi-bin/gitweb.cgi/hmcfgusb) - Utilities to use the HM-CFG-USB(2) on Linux/Unix.
 * [Homematic-rega ★0](https://github.com/hobbyquaker/homematic-rega) - Node.js Homematic CCU ReGaHSS Remote Script Interface.
-* [Homematicip-rest-api ★13](https://github.com/coreGreenberet/homematicip-rest-api) - Python wrapper for the homematicIP REST API (Cloud / Access Point Based).
+* [Homematicip-rest-api ★20](https://github.com/coreGreenberet/homematicip-rest-api) - Python wrapper for the homematicIP REST API (Cloud / Access Point Based).
 * [Homematic-xmlrpc ★1 ⏳1Y](https://github.com/hobbyquaker/homematic-xmlrpc) - Xmlrpc client and server Node.js module.
-* [Pmatic ★19](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use.
-* [Pyhomematic ★22](https://github.com/danielperna84/pyhomematic) - Python 3 Interface to interact with Homematic devices.
+* [Pmatic ★20](https://github.com/LarsMichelsen/pmatic) - Python API for Homematic. Easy to use.
+* [Pyhomematic ★25](https://github.com/danielperna84/pyhomematic) - Python 3 Interface to interact with Homematic devices.
 
 ## Generic Smart Home Software
 

@@ -50,6 +50,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [G1](http://www.oracle.com/technetwork/java/javase/tech/g1-intro-jsp-135488.html) - The Garbage-First Garbage Collector.
 * [Shenandoah](http://openjdk.java.net/jeps/189) - Ultra-Low-Pause-Time Garbage Collector.
 * [The Garbage Collection Handbook](http://gchandbook.org) - Book that addresses new challenges to garbage collection made by recent advances in hardware and software.
+* [ZGC](http://mail.openjdk.java.net/pipermail/announce/2017-October/000237.html) - Garbage collector optimized for low latency and very large heaps.
 
 ## Load tools
 
@@ -114,7 +115,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [injector ★55 ⏳2Y](https://github.com/belliottsmith/injector) -  A new Executor for Java.
 * [java-string-similarity ★1353](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
-* [jOOL ★1094](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
+* [jOOL ★1117](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [LevelDB ★795](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
 * [lightweight_trie ★37 ⏳5Y](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
@@ -145,11 +146,11 @@ A curated list of awesome JVM low level and performance related stuff.
 * [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
 * [stormpot ★114 ⏳1Y](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [stream-lib ★1678](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
-* [streamvbyte ★92](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
+* [streamvbyte ★102](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
 * [transducers-java ★98 ⏳2Y](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 * [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
-* [wire ★2136](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
+* [wire ★2168](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
 * [Zero-Allocation-Hashing ★251](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 
 ## Metaprogramming
@@ -245,7 +246,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
 * [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
 * [GCViewer ★1885](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
-* [grav ★147](https://github.com/epickrram/grav) - A collection of tools to help visualise process execution.
+* [grav ★167](https://github.com/epickrram/grav) - A collection of tools to help visualise process execution.
 * [hawkshaw ★39 ⏳1Y](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
 * [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 * [hdrhistogram-metrics-reservoir](https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir) - A Metrics Reservoir implementation backed by HdrHistogram.
@@ -270,6 +271,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [leakcanary ★17106](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
 * [metrics](http://metrics.dropwizard.io/) - Measure the behavior of critical components in production environment.
 * [Overseer](http://www.peternier.com/projects/overseer/overseer.php) - Low-Level Hardware Monitoring and Management for Java.
+* [OpenTracing](http://opentracing.io/) - A vendor-neutral open standard for distributed tracing.
 * [perf-map-agent](https://github.com/jrudolph/perf-map-agent) - Generate method mappings to use with the linux `perf` tool.
 * [perfj ★301 ⏳2Y](https://github.com/coderplay/perfj) - Linux perf for java programs.
 * [polarbear ★18 ⏳5Y](https://github.com/Cue/polarbear) - A tool to help diagnose OutOfMemoryError conditions.
@@ -313,6 +315,7 @@ A curated list of awesome JVM low level and performance related stuff.
 ## Documentation
 
 *Documentation related to JVM*
+* [Linux tracing workshop ★386](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
 * [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) - mini-post series where every post goes deep for only a single topic by Aleksey Shipilёv.
 * [Coordinated Omission problem](https://groups.google.com/forum/#!msg/mechanical-sympathy/icNZJejUHfE/BfDekfBEs_sJ) - Discussion on Mechanical Sympathy.
 * [False sharing](http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html) - Threads impact the performance of each other while modifying independent variables sharing the same cache line. Martin Thompson.

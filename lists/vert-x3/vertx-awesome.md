@@ -59,15 +59,14 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 
 ## Build tools
 
-* [Vert.x Maven plugin ★12](https://github.com/fabric8io/vertx-maven-plugin)
+* [Vert.x Maven plugin ★13](https://github.com/fabric8io/vertx-maven-plugin)
 * [Vert.x Gradle plugin](https://plugins.gradle.org/plugin/io.vertx.vertx-plugin)
 
 ## Web Frameworks
 
 * [Vert.x Web ★337](https://github.com/vert-x3/vertx-web)  <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Full featured web toolkit for Vert.x.
 * [Vert.x Jersey](https://github.com/englishtown/vertx-jersey) - Create JAX-RS [Jersey](https://jersey.java.net/) resources in Vert.x.
-* [Vert.x Nubes](https://github.com/aesteve/vertx-nubes) - Provides an annotation layer on top of Vert.x Web.
-* [Kovert ★78](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
+* [Kovert ★83](https://github.com/kohesive/kovert) - Invisible REST framework for Kotlin + Vert.x Web.
 * [Handlers ★2 ⏳1Y](https://github.com/spriet2000/vertx-handlers-http) - Open web framework for Vert.x.
 * [QBit ★587](https://github.com/advantageous/qbit) - REST and WebSocket method call marshaling and reactive library.
 * [vertx-rest-storage ★13](https://github.com/swisspush/vertx-rest-storage) - Persistence for REST resources in the filesystem or a redis database.
@@ -140,13 +139,13 @@ For Vert.x version 2 check [this page](./vert-x2.md).
   * [Meteor ★16 ⏳1Y](https://github.com/jmusacchio/vertxbus) - Meteor integration support through Vert.x event bus.
 
 * Metrics
-  * [Hawkular metrics ★5 ⏳1Y](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI.
+  * [Hawkular metrics ★5 ⏳2Y](https://github.com/tsegismont/vertx-monitor) - [Hawkular](http://www.hawkular.org/) implementation of the Vert.x Metrics SPI.
   * [DropWizard metrics ★18](https://github.com/vert-x3/vertx-dropwizard-metrics) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Stack" height="16px"> - Metrics implementation using DropWizard metrics.
   * [OpenTsDb Metrics ★8 ⏳1Y](https://github.com/cyngn/vertx-opentsdb) - [OpenTsDb](http://opentsdb.net/) metrics client for Vert.x.
   * [Bosun Monitoring ★3 ⏳2Y](https://github.com/cyngn/vertx-bosun) - [Bosun](https://bosun.org/) client library for Vert.x.
 
 * Netflix - Hystrix
-  * [Hystrix Metrics Stream](https://github.com/kennedyoliveira/hystrix-vertx-metrics-stream.git) - Emits metrics for Hystrix Dashboard from a Vertx application with [Hystrix ★11194](https://github.com/Netflix/Hystrix).
+  * [Hystrix Metrics Stream](https://github.com/kennedyoliveira/hystrix-vertx-metrics-stream.git) - Emits metrics for Hystrix Dashboard from a Vertx application with [Hystrix ★11462](https://github.com/Netflix/Hystrix).
 
 * Dart
   * [Vert.x Dart SockJS ★1](https://github.com/wem/vertx-dart-sockjs) - [Dart](https://www.dartlang.org/) integration for [Vert.x SockJS bridge](http://vertx.io/docs/vertx-web/java/#_sockjs_event_bus_bridge) and plain SockJS with use of dart:js.
@@ -236,7 +235,7 @@ For Vert.x version 2 check [this page](./vert-x2.md).
 * [Service Discovery - Redis backend ★47](https://github.com/vert-x3/vertx-service-discovery) <img src="https://rawgit.com/vert-x3/vertx-awesome/d93d327/vertx-favicon.svg" alt="(stack)" title="Vert.x Service Discovery - Redis backend" height="16px"> - [Redis](http://redis.io/) storage backend for Vert.x Service Discovery.
 * [Vert.x GraphQL Service Discovery ★21](https://github.com/engagingspaces/vertx-graphql-service-discovery) - [GraphQL](http://graphql.org/) service discovery and querying for your Vert.x microservices.
 * [HTTP Request Multiplexer - Kalfor ★6](https://github.com/derveloper/kalfor) - Combine multiple HTTP GET requests into a single POST. A dead simple alternative to Facebook's [GraphQL](http://graphql.org/) and Netflix's [Falcor](http://netflix.github.io/falcor/).
-* [Resilience4j ★431](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
+* [Resilience4j ★482](https://github.com/resilience4j/resilience4j) - Resilience4j is a fault tolerance library designed for Java8 and functional programming. Resilience4j provides modules for Circuit Breaking, Rate Limiting, Bulkheading, Automatic retrying, Response caching and Metric measuring.
 
 ## Search Engines
 

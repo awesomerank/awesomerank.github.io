@@ -55,7 +55,7 @@ Table of Contents
 * [Gupshup](https://www.gupshup.io/developer/home) - Easiest & fastest way to build & deploy your bots on any channel.
 * [Haven OnDemand](https://dev.havenondemand.com/apis) - They are similar APIs as that of watson, but far well documented   and have a freemium version.
 * [Recast.AI](https://recast.ai) - Collaborative Bot Platform for developers: build conversational bots easily.
-* [ChatterBot ★4296](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python
+* [ChatterBot ★4543](https://github.com/gunthercox/ChatterBot) - Machine-learning based conversational dialog engine build in Python
 * [Google Cloud Platform](https://cloud.google.com/natural-language) - Use sentiment analysis on a block of text to add decision tree logic for a conversation bot.
 
 ## Tools For Bot Analytics
@@ -74,57 +74,57 @@ Table of Contents
 ## Libraries
 
 ### General
-* [Qtypes ★128 ⏳1Y](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
-* [BotKit ★7103](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
-* [Claudia Bot Builder ★1240](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
+* [Qtypes ★132 ⏳1Y](https://github.com/superscriptjs/qtypes) - Rule based Answer Type classification system in Node.js.
+* [BotKit ★7295](https://github.com/howdyai/botkit) - Botkit is a toolkit for making bot applications.
+* [Claudia Bot Builder ★1270](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
 
 ### Facebook Messenger
-* [Go ★220](https://github.com/paked/messenger)
+* [Go ★224](https://github.com/paked/messenger)
 
 ### Slack
 * [Node.js (Official)](https://github.com/slackhq/node-slack-sdk)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
-* [Relax (scalable RTM library to scale to 1000's of teams) ★147](https://github.com/zerobotlabs/relax)
+* [Relax (scalable RTM library to scale to 1000's of teams) ★149](https://github.com/zerobotlabs/relax)
 
 ### Telegram
-* [Node.js ★2011](https://github.com/yagop/node-telegram-bot-api)
-* [Node.js ★527](https://github.com/telegraf/telegraf)
-* [PHP ★875](https://github.com/irazasyed/telegram-bot-sdk)
-* [Python ★3138](https://github.com/python-telegram-bot/python-telegram-bot)
+* [Node.js ★2087](https://github.com/yagop/node-telegram-bot-api)
+* [Node.js ★617](https://github.com/telegraf/telegraf)
+* [PHP ★913](https://github.com/irazasyed/telegram-bot-sdk)
+* [Python ★3345](https://github.com/python-telegram-bot/python-telegram-bot)
 * [C#](https://github.com/MrRoundRobin/telegram.bot)
-* [Go ★333](https://github.com/tucnak/telebot)
+* [Go ★344](https://github.com/tucnak/telebot)
 
 ### Discord
 ###### Node.js
-* [Eris ★256](https://github.com/abalabahaha/eris)
-* [Discord.js ★1555](https://github.com/hydrabolt/discord.js)
-* [Discordie ★167](https://github.com/qeled/discordie)
-* [Discord.io ★359](https://github.com/izy521/discord.io)
+* [Eris ★277](https://github.com/abalabahaha/eris)
+* [Discord.js ★1694](https://github.com/hydrabolt/discord.js)
+* [Discordie ★170](https://github.com/qeled/discordie)
+* [Discord.io ★373](https://github.com/izy521/discord.io)
 
 ###### C#
-* [Discord.Net ★530](https://github.com/RogueException/Discord.Net)
+* [Discord.Net ★554](https://github.com/RogueException/Discord.Net)
 * [DSharpPlus ★102](https://github.com/NaamloosDT/DSharpPlus)
 
 ###### Python
-* [discord.py ★1443](https://github.com/Rapptz/discord.py)
+* [discord.py ★1542](https://github.com/Rapptz/discord.py)
 
 ###### Java
-* [JDA ★350](https://github.com/DV8FromTheWorld/JDA)
+* [JDA ★377](https://github.com/DV8FromTheWorld/JDA)
 
 ###### Rust
-* [Serenity ★130](https://github.com/zeyla/serenity)
+* [Serenity ★138](https://github.com/zeyla/serenity)
 
 ###### Lua
-* [Discordia ★77](https://github.com/SinisterRectus/Discordia)
+* [Discordia ★85](https://github.com/SinisterRectus/Discordia)
 
 ###### Go
-* [Discordgo ★387](https://github.com/bwmarrin/discordgo)
+* [Discordgo ★412](https://github.com/bwmarrin/discordgo)
 
 ### Kik
 * [Python ★37](https://github.com/kikinteractive/kik-python)
-* [Node.JS ★75](https://github.com/kikinteractive/kik-node)
+* [Node.JS ★74](https://github.com/kikinteractive/kik-node)
 
 
 ## Bot Stores
@@ -148,7 +148,7 @@ Table of Contents
 * [A Beginner’s Guide To Your First Bot.](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.rreq2dp6r)
 * [Pair Programming a Facebook Messenger Bot.](https://www.youtube.com/watch?v=zFO1cRr5-qY)
 * [A beginner’s guide to your first bot](https://slackhq.com/a-beginner-s-guide-to-your-first-bot-97e5b0b7843d#.b1rilkua8) 
-* [Facebook Chatbot Tutorial ★9](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
+* [Facebook Chatbot Tutorial ★10](https://github.com/AdrianKrebs/facebook-chatbot-tutorial)
 
 ## Communities
 * [Bots](https://www.facebook.com/groups/chatbot/) - Facebook group.

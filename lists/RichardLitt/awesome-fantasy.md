@@ -11,7 +11,7 @@ title: Awesome Rank for RichardLitt/awesome-fantasy
 
 > Fantasy literature worth reading
 
-*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi ★1450](https://github.com/sindresorhus/awesome-scifi).*
+*Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing. For science fiction books, see [awesome-scifi ★1478](https://github.com/sindresorhus/awesome-scifi).*
 
 *Please read the [Contributing Guidelines](https://github.com/RichardLitt/awesome-fantasy/blob/master/contributing.md) before contributing.*
 

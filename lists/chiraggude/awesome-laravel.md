@@ -11,7 +11,7 @@ title: Awesome Rank for chiraggude/awesome-laravel
 
 > A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem.
 
-Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
+Inspired by [ziadoz/awesome-php ★17013](https://github.com/ziadoz/awesome-php)
 
 ## Table of Contents
 
@@ -103,6 +103,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 * [Google2FA ★646](https://github.com/antonioribeiro/google2fa) - Google Two-Factor Authentication Module
 * [Laravel User Verification ★411](https://github.com/jrean/laravel-user-verification) - Handle the user verification flow and validate email
 * [Adldap2 Laravel ★299](https://github.com/Adldap2/Adldap2-Laravel) - LDAP authentication and Active Directory management
+* [Doorman ★558](https://github.com/clarkeash/doorman) - Limit access to your Laravel applications by using invite codes.
 
 ##### Utilities
 
@@ -126,7 +127,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 * [Laravel Collection Macros ★372](https://github.com/spatie/laravel-collection-macros) - A set of handy collection macros
 * [Laravel Cookie Consent ★218](https://github.com/spatie/laravel-cookie-consent) - Make your Laravel app comply with the crazy EU cookie law
 * [Laravel Datatables ★1686](https://github.com/yajra/laravel-datatables) - jQuery DataTables API for Laravel 4|5
-* [Laravel Dot Env Generator ★172](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code
+* [Laravel Dot Env Generator ★172 ⏳1Y](https://github.com/mathiasgrimm/laravel-dot-env-gen) - Generate .env.gen file based on the project source code
 * [Laravel Excel ★3984](https://github.com/Maatwebsite/Laravel-Excel) - Import and export Excel and CSV files
 * [Laravel Failed Job Monitor ★287](https://github.com/spatie/laravel-failed-job-monitor) - Get notified when a queued job fails
 * [Laravel GeoIP ★572](https://github.com/Torann/laravel-geoip) - Determine the geographical location of website visitors based on their IP addresses
@@ -143,6 +144,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 * [Laravel Pjax ★285](https://github.com/spatie/laravel-pjax) - A pjax middleware for Laravel 5
 * [Laravel Responsecache ★516](https://github.com/spatie/laravel-responsecache) - Speed up a Laravel app by caching the entire response
 * [Laravel Snappy ★767](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
+* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator using [dompdf ★3983](https://github.com/dompdf/dompdf)
 * [Laravel Stapler ★520](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel url signer ★388](https://github.com/spatie/laravel-url-signer) - Create and validate signed URLs with a limited lifetime
 * [Laravel Tail ★214](https://github.com/spatie/laravel-tail) - The missing tail command
@@ -205,7 +207,7 @@ Inspired by [ziadoz/awesome-php ★16697](https://github.com/ziadoz/awesome-php)
 * [Dingo API ★6599](https://github.com/dingo/api) - Multi-purpose toolkit for developing RESTful APIs
 * [Laravel CORS ★1922](https://github.com/barryvdh/laravel-cors) - Add CORS (Cross-Origin Resource Sharing) headers support
 * [Laravel Fractal ★812](https://github.com/spatie/laravel-fractal) - Output complex, flexible, AJAX/RESTful data structures with Fractal in Laravel and Lumen
-* [Laravel GraphQL ★776](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5. It supports Relay, eloquent models, validation and GraphiQL.
+* [Laravel GraphQL ★850](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5. It supports Relay, eloquent models, validation and GraphiQL.
 
 ##### Tasks, Commands and Scheduling
 

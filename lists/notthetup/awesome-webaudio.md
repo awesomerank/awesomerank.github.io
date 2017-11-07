@@ -36,7 +36,7 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 
 ### Frameworks
 - [Tone.js ★3404](https://github.com/Tonejs/Tone.js) - A framework for making interactive music in the browser.
-- [Gibberish ★239](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
+- [Gibberish ★246](https://github.com/gibber-cc/gibberish) - A JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques.
 - [lissajous ★311 ⏳2Y](https://github.com/kylestetz/lissajous) -  A tool for programmatic audio performance.
 - [SSSynthesiser.js ★33 ⏳1Y](https://github.com/surikov/SSSynthesiser.js) -  A wavetable synthesizer for interactive music and sound effects.
 - [Bap](http://bapjs.org/) - A toolkit for making beats and composing sequences, inspired by the classic MPC60/2000.
@@ -72,10 +72,10 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [bpm-detective ★28](https://github.com/tornqvist/bpm-detective) – Detects the BPM of a song or audio sample.
 - [web-audio-utils ★5 ⏳2Y](https://github.com/mohayonao/web-audio-utils) - Commonly needed utility functions for Web Audio API.
 - [Audion ★96](https://github.com/google/audion) - Chrome extension that adds a Web Audio panel to Developer Tools.
-- [web-audio-oscillators ★0](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
+- [web-audio-oscillators ★2](https://github.com/lukehorvat/web-audio-oscillators) - A collection of Web Audio custom oscillators.
 
 ### MIDI
-- [midimessage ★16 ⏳1Y](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
+- [midimessage ★16 ⏳2Y](https://github.com/notthetup/midimessage) - A simple MIDI Message parser.
 - [midi-ports ★9 ⏳1Y](https://github.com/AndrejHronco/midi-ports) -  handy library to make it easier to work with attached MIDI devices.
 - [Midi Logger](http://outputchannel.com/midi-logger/) - This Midi Logger will print all midi input to your browser for debugging.
 
@@ -84,10 +84,10 @@ Please raise a [Pull-Request](https://github.com/notthetup/awesome-webaudio/pull
 - [X Sound](https://korilakkuma.github.io/X-Sound/) - Multi Sound Application that uses XSound.js.
 - [Molgav ★2 ⏳1Y](https://github.com/surikov/molgav) - Musical Step Sequencer for melodies exchange.
 - [Code Player ★18](https://github.com/jcppman/code-player) - An experimental app that makes your codes sing for you.
-- [mod-synth.io ★22](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
+- [mod-synth.io ★24](https://github.com/andrevenancio/mod-synth.io) - Create your own modular synthesizer, or emulate different synths.
 - [GridSound](https://gridsound.github.io) - A work-in-progress DAW (Digital Audio Workstation).
 - [Learning Music](https://learningmusic.ableton.com/) - Learn the basics of music making.
-- [Super Oscillator ★0](https://github.com/lukehorvat/super-oscillator) - An interactive, 3D music synthesizer for the Web.
+- [Super Oscillator ★4](https://github.com/lukehorvat/super-oscillator) - An interactive, 3D music synthesizer for the Web.
 
 ## Resources
 

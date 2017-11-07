@@ -809,7 +809,7 @@ Webpage: http://4sq.com/XuO7me
 
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
-✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) |
+✔ | ? | [Avenida da República, 25 A – Saldanha](https://goo.gl/maps/WLA3JDrVkY12) | Sun-Sat 7:00 - 20:00
 
 
 #### Confeitaria Lisboa
@@ -1042,6 +1042,18 @@ Webpage: http://breadandhearth.com/
 Wifi | Power | Address | Open Hours
 ---- | ----- | ------- | ----------
 ✔ | ? | [18 Keong Saik Road, 089125](https://goo.gl/maps/hyWVdRe7Dys) | Daily 8:30AM–9.30PM
+
+## one north
+
+#### Jimmy Monkey
+
+> Friendly to keyboard warriors, they also do a selection of simple-done-right munchies. 
+
+Webpage: http://www.jimmymonkey.com/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [9 one-north gateway, #01-51 one-north residences, Singapore 138643](https://goo.gl/maps/oJ85HFm9QKQ2) | Daily 7:00AM–6.00PM
 
 
 # Spain 🇪🇸
@@ -1424,7 +1436,15 @@ Webpage: https://aws.amazon.com/start-ups/loft/ny-loft/
 
 Wifi | Power | Coffee | Address | Open Hours
 ---- | ----- | -------| ------- | ----------
-open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm |
+open, password on wall | ✔ | ✔ | [350 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Monday - Friday, 10:00am - 6:00pm 
+
+#### Ground Support Cafe
+> Great spot in Soho for getting things done and feeling like you belong with the cool soho crowd
+
+Webpage: http://www.groundsupportcafe.com/
+Wifi | Power | Coffee | Address | Open Hours
+---- | ----- | -------| ------- | ----------
+open, password on wall | ✔ | ✔ | [399 W Broadway, New York, NY 10013](https://goo.gl/maps/ZW3sm9LDkJm) | Open Weekdays 7am - 8pm Weekends 8am - 8pm |
 
 #### Pushcart Coffee Chelsea
 

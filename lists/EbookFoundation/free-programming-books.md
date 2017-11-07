@@ -60,6 +60,7 @@ Please read [CONTRIBUTING](https://github.com/EbookFoundation/free-programming-b
 
 ### Free Online Courses
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-en.md)
++ [German](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-de.md)
 + [Russian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-courses-ru.md)
 
 
@@ -83,6 +84,7 @@ Free Podcasts and Screencasts:
 + [English](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-en.md)
 + [Portuguese (Brazil)](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-pt_BR.md)
 + [Russian](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-ru.md)
++ [Swedish](https://github.com/EbookFoundation/free-programming-books/blob/master//free-podcasts-screencasts-se.md)
 
 
 ### Programming Playgrounds

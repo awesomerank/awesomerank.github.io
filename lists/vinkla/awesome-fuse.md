@@ -101,7 +101,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [FormulaFuse ★0 ⏳1Y](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation ★1](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components
 - [Fuse PM ★30](https://github.com/bolav/fusepm) - A Fusetools package manager.
-- [Fuse Pokedex ★4](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
+- [Fuse Pokedex ★4 ⏳1Y](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
 - [Fuse Review ★0](https://github.com/LuisRodriguezLD/Fuse-RequestReview) - Get reviews from your users without making them leave the app.
 - [Fuse Samples ★155](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 - [Fuse Taptic-Feedback ★0](https://github.com/LuisRodriguezLD/Fuse-TapticFeedback) - Get access to the iPhone 7's taptic engine.
@@ -115,7 +115,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
 - [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 - [Syncano ★5 ⏳1Y](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
-- [UnityAds Sample ★5](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse.
+- [UnityAds Sample ★5 ⏳1Y](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse.
 
 ## Plugins
 

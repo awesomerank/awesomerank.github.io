@@ -228,7 +228,7 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 * [Sphinx](http://sphinx-doc.org): RestructuredText as source files, powerful, flexible and modularized.
 * [Gitbook](https://www.gitbook.com/): A new but promising tool for HTML, pdf, and epub with both online editors and local editors. Plugins like quizzes and math can be helpful to writing science.
-* [Git-scribe ★1309 ⏳2Y](https://github.com/schacon/git-scribe): Good for writing ebooks.
+* [Git-scribe ★1315 ⏳2Y](https://github.com/schacon/git-scribe): Good for writing ebooks.
 * [Static Site Generator](#static-site-generator): For more please refer to [Static Site Generator](#static-site-generator).
 
 
@@ -237,7 +237,7 @@ Make use of [GitHub](http://github.com) to cooperate with others. [GitHub pages]
 
 * Themes
   * [rtd theme](https://github.com/snide/sphinx_rtd_theme): Developed by ReadtheDocs.org
-  * [Alabaster ★335](https://github.com/bitprophet/alabaster): Clean and simple
+  * [Alabaster ★348](https://github.com/bitprophet/alabaster): Clean and simple
   * [Some beautiful themes](https://github.com/vkvn/sphinx-themes)
   * [Bootstrap theme](https://ryan-roemer.github.io/sphinx-bootstrap-theme/)
 
@@ -280,7 +280,7 @@ These programs are running on the server and can be [hosted using these services
 
 * [Wordpress](https://wordpress.org/) (`PHP`): Very popular but requires a lot of maintenance.
 * [Ghost ★24116](https://github.com/tryghost/Ghost) (`Node.js`): Open, Simple, non-profit; write with markdown and live preview.
-* [Pico ★2669](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
+* [Pico ★2690](https://github.com/picocms/Pico) (`PHP`): Lightweight cms, open source, no database.
 * [Dropplets](https://github.com/circa75/dropplets) (`PHP`): Open source, simple, and elegant blog system; write in Markdown.
 
 
@@ -297,7 +297,7 @@ These programs are running on the server and can be [hosted using these services
 * [Octopress](http://octopress.org/) (Written in `Ruby`)(`Markdown`): Octopress is easier to use compared with Jekyll while being somewhat compatible with Jekyll.
 * [Hexo](https://hexo.io/) (Written in `Node.js`)(`Markdown`): "A fast, simple & powerful blog framework" as they say on their website. It supports GFM.
 * [Pelican](http://getpelican.com) (Written in `Python`)(`reStructuredText`,`Markdown`,`AsciiDoc`): Pelican is a modularized framework and is perfect for blogging.
-  * [Pelican Svbtle Theme ★144 ⏳1Y](https://github.com/wting/pelican-svbtle)
+  * [Pelican Svbtle Theme ★145 ⏳1Y](https://github.com/wting/pelican-svbtle)
 * [Nikola](https://getnikola.com/) (Written in `Python`)(`reStructuredText`,`Markdown`,`IPython Notebook/Jupyter`,`PHP`, etc): It takes in multiple input formats including reStructuredText and many others.
 * [Hugo](http://gohugo.io/)(Written in `Go`)(`Markdown`): Easy to use and really fast. It also supports more input formats through plugins.
 
@@ -334,7 +334,7 @@ Markdown, reStructuredText, and LaTeX are the three chosen languages.
 * [jbt/markdown-editor](http://jbt.github.io/markdown-editor/)(`Cloud`): Just another online Markdown editor without math support.
 * [Mou](http://25.io/mou/)(`Mac`): Mou used to be the best Markdown editor on Mac. It is not bad but DO NOT preorder Mou 1.0. This project is dead, unofficially. [了解为什么死掉，请阅读此文。](http://matrix.sspai.com/p/c7a3c9c0)
 * [MarkdownPad](http://markdownpad.com/) (`Win`): If you have no bad feelings about .NET, this is pretty good.
-* [ReText ★658](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
+* [ReText ★690](https://github.com/retext-project/retext) (`Mac`,`Win`,`Linux`): ReText one of the best, even on Linux. It also supports reStructuredText input.
 * [Madoko](https://www.madoko.net/) (`Cloud`): **LaTeX** &times; Markdown &sup2;
 * [eme ★1608](https://github.com/egoist/eme) (`Win`,`Mac`,`Linux`): Math support.
 * [Moeditor](https://moeditor.org/) (`Win`,`Mac`,`Linux`): All purpose markdown editor.
@@ -356,8 +356,8 @@ Notebook softwares that you can write in Markdown:
 
 **You can also host one using your own machine.**
 
-* [FlyLaTeX ★781 ⏳1Y](https://github.com/alabid/flylatex): A free, open source version of sharelatex
-* [ShareLaTeX Source Code ★4525](https://github.com/sharelatex/sharelatex): ShareLaTeX open sourced their codes. This is a great move I would say.
+* [FlyLaTeX ★782 ⏳1Y](https://github.com/alabid/flylatex): A free, open source version of sharelatex
+* [ShareLaTeX Source Code ★4586](https://github.com/sharelatex/sharelatex): ShareLaTeX open sourced their codes. This is a great move I would say.
 * [TeXStudio](http://www.texstudio.org) - Cross-platform LaTeX editor that stems from TeXMaker.
 * [WinEdt](http://www.winedt.com) - The LaTeX editor many people swear by.
 * [TeXnicCenter](http://www.texniccenter.org) - A quite old but free and decent editor for LaTeX.
@@ -371,7 +371,7 @@ Notebook softwares that you can write in Markdown:
 
 Use IPython Notebook to help with your research. IPython Notebook can be previewed on GitHub directly. Here are some examples of how IPython notebook can be used.
 
-* [Scientific Python Lectures ★1864](https://github.com/jrjohansson/scientific-python-lectures)
+* [Scientific Python Lectures ★1909](https://github.com/jrjohansson/scientific-python-lectures)
 * [Reproduced Papers](http://reproduced-papers.github.io/)
 * [More](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks): For more IPython notebook on GitHub please read this enormous list.
 
@@ -388,20 +388,20 @@ Use IPython Notebook to help with your research. IPython Notebook can be preview
 
 **Online**
 
-* [KityMinder By Baidu ★2174 ⏳2Y](https://github.com/fex-team/kityminder) : Chinese Interface
-* [my-mind](http://my-mind.github.io/): repo [here ★1732 ⏳1Y](https://github.com/ondras/my-mind).
+* [KityMinder By Baidu ★2251 ⏳2Y](https://github.com/fex-team/kityminder) : Chinese Interface
+* [my-mind](http://my-mind.github.io/): repo [here ★1749](https://github.com/ondras/my-mind).
 * [beautiful Mind](http://beautifulmind.io/): repo [here ★111 ⏳2Y](https://github.com/ierror/BeautifulMind.io)
 * [Mindmup](https://www.mindmup.com/): repo [here](https://github.com/mindmup)
-* [mindmaps](http://drichard.org/mindmaps/): repo [here ★1178](https://github.com/drichard/mindmaps)
+* [mindmaps](http://drichard.org/mindmaps/): repo [here ★1200](https://github.com/drichard/mindmaps)
 
 
 **MINDMAP HTML**
 
 * [gojs](http://gojs.net/latest/samples/mindMap.html)
 * [mapjs](http://coderbay.com/create-mind-maps-with-javascript-mapjs/)
-* [jsmind ★473](https://github.com/hizzgdev/jsmind)
+* [jsmind ★498](https://github.com/hizzgdev/jsmind)
 * [jsmind](http://sourceforge.net/projects/jsmind/)
-* [mindmaps ★1178](https://github.com/drichard/mindmaps)
+* [mindmaps ★1200](https://github.com/drichard/mindmaps)
 
 
 ### Concept Map and Diagrams
@@ -448,8 +448,8 @@ It is important to keep your computer awake during the presentation. Instead of 
 * [Google Drive](https://drive.google.com/): no introduction needed
 * [Sway](https://sway.com/): Microsoft
 * [Strut ★1437](https://github.com/tantaman/Strut)
-* [Impressionist ★596 ⏳4Y](https://github.com/harish-io/Impressionist)
-* [hovercraft ★910](https://github.com/regebro/hovercraft)
+* [Impressionist ★598 ⏳4Y](https://github.com/harish-io/Impressionist)
+* [hovercraft ★924](https://github.com/regebro/hovercraft)
 
 
 
@@ -465,13 +465,13 @@ Use [colors ★7710](https://github.com/mrmrs/colors) to make your HTML feels be
 * [Jimpress](http://jmpressjs.github.io/jmpress.js/): A jQuery version of impress.js
 * [Reveal.js ★37007](https://github.com/hakimel/reveal.js)
 * [Beckpoke.js ★4226](https://github.com/bespokejs/bespoke)
-* [CSSS ★1485](https://github.com/LeaVerou/CSSS)
-* [Scrolldeck ★691 ⏳1Y](https://github.com/johnpolacek/scrolldeck.js)
+* [CSSS ★1493](https://github.com/LeaVerou/CSSS)
+* [Scrolldeck ★692 ⏳1Y](https://github.com/johnpolacek/scrolldeck.js)
 * [Deck.js ★5204](https://github.com/imakewebthings/deck.js)
-* [Shower ★3734](https://github.com/shower/shower)
+* [Shower ★3794](https://github.com/shower/shower)
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
-* [Flowtime.js ★1200](https://github.com/marcolago/flowtime.js)
-* [Slides ★433 ⏳1Y](https://github.com/briancavalier/slides)
+* [Flowtime.js ★1202](https://github.com/marcolago/flowtime.js)
+* [Slides ★440 ⏳1Y](https://github.com/briancavalier/slides)
 
 
 ### IPython Notebook
@@ -519,8 +519,8 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 * [Sublime Text](https://www.sublimetext.com/)(`Free Evaluation`,`Cross-platform`,`Plugins`): cross-platform, fast, and with plugins. Not free but can be freely used forever.
 * [JetBrains](https://www.jetbrains.com/)(`Free for Students`, `Cross-platform`,`Plugins`): beautiful IDE's with many debugging and editing modes integrated.
 * [vim ★10383](https://github.com/vim/vim)(`Free`,`Cross-platform`,`Plugins`): no words can describe the almighty vim.
-  * [Vundle ★15898](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
-  * [vimrc from amix ★10639](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
+  * [Vundle ★16157](https://github.com/VundleVim/Vundle.vim): the vim plugin manager
+  * [vimrc from amix ★11046](https://github.com/amix/vimrc): "The ultimate Vim configuration: vimrc"
 
 
 ### Softwares
@@ -528,7 +528,7 @@ Julia or Python language, even R is supported in [IPython Notebook/Jupyter](http
 * [Mathematica](http://www.wolfram.com/mathematica/): One Software to Rule Them All
 * [iPython Notebook](http://ipython.org/notebook.html) (`Python`): a useful tool for inline calculation, making graphs and writing notes.
   * [wakari.io](https://wakari.io/) is a comercial one mostly aimed for data analysis.
-  * [jiffylab ★187 ⏳3Y](https://github.com/ptone/jiffylab) is an open source one but not that well done.
+  * [jiffylab ★188 ⏳3Y](https://github.com/ptone/jiffylab) is an open source one but not that well done.
   * [supervised-ipython-nbserver ★8 ⏳4Y](https://github.com/writefaruq/supervised-ipython-nbserver) is a multiuser version of notebook using Django/Pinax.
 * [Matlab](http://www.mathworks.com/products/matlab/)
 * [RStudio](https://www.rstudio.com/) (`R`)
@@ -568,7 +568,7 @@ This might be not so straightforward but remember this. Reuse your own work does
 
 ### Add Citations to Your Code
 
-* [duecredit ★84](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
+* [duecredit ★85](https://github.com/duecredit/duecredit): Allows you to add decorators to Python functions that encode bibliographic details.
 
 ### Open Science
 
@@ -677,7 +677,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 
 **Python**
 
-* [matplotlib ★644](https://github.com/jbmouret/matplotlib_for_papers)
+* [matplotlib ★661](https://github.com/jbmouret/matplotlib_for_papers)
 * [ggplot for python](http://ggplot.yhathq.com/)
 * [statistical data vis](http://stanford.edu/~mwaskom/software/seaborn/)
 * [plot.ly](https://plot.ly/ipython-notebooks/): Internet required, interactive plotting.
@@ -689,7 +689,7 @@ CC Licenses can be found at [Creative Commons](http://creativecommons.org/). For
 Professional graphs should be made using professional tools.
 
 * [GeoGebra](http://www.geogebra.org/)(`Cloud`,`Mac`,`Win`,`Linux`,`Android`,`iOS`,`Win Store`): Geogebra is a very cool tool to make math graphs both 2D and 3D.
-* [LaTeXDraw ★148](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
+* [LaTeXDraw ★153](https://github.com/arnobl/latexdraw)(`Linux`): "A vector drawing editor for LaTeX."
 * [TikZ](http://www.texample.net/tikz/)(`LaTeX`)
 * [BoxPlotR](http://shiny.chemgrid.org/boxplotr/)(`Web`): A web-tool for generation of box plots.
 
@@ -736,10 +736,10 @@ Professional graphs should be made using professional tools.
 
 ### Terminal
 
-* [plot in terminal ★733](https://github.com/glamp/bashplotlib)
+* [plot in terminal ★742](https://github.com/glamp/bashplotlib)
 * [asciinema](https://asciinema.org/): Command line recording.
-* [bashplot ★733](https://github.com/glamp/bashplotlib): plot in terminal.
-* [fuck ★237 ⏳2Y](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
+* [bashplot ★742](https://github.com/glamp/bashplotlib): plot in terminal.
+* [fuck ★241 ⏳2Y](https://github.com/EricFreeman/fuck): correct the command by typing in fuck.
 
 ### Free Multimedia
 

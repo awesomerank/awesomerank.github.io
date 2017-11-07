@@ -77,9 +77,10 @@ We're looking for pull requests related to papers we should add, better organiza
 
 ### Other Good Places to Find Papers
 
+* [2 Minute Papers](https://www.youtube.com/user/keeroyz)
 * [Bell System Technical Journal, 1922-1983](https://www.alcatel-lucent.com/bell-labs-journals)
 * [Best Paper Awards in Computer Science](http://jeffhuang.com/best_paper_awards.html)
-* [Facebook](https://www.facebook.com/publications)
+* [Facebook](https://research.fb.com/publications/)
 * [Google Scholar](http://scholar.google.com/citations?view_op=top_venues&hl=en&vq=eng) (choose a subcategory)
 * [Microsoft Research](http://research.microsoft.com/apps/catalog/default.aspx?t=publications)
 * [Functional Programming Books Review](http://alexott.net/en/fp/books/)
@@ -105,7 +106,7 @@ Please check out our [wiki-page](https://github.com/papers-we-love/papers-we-lov
 Reading a paper is not the same as reading a blogpost or a novel. Here are a few handy resources to help you get started.
 
 * [How to read an academic article](http://organizationsandmarkets.com/2010/08/31/how-to-read-an-academic-article/)
-* [Advice on reading academic papers](http://www4.ncsu.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
+* [Advice on reading academic papers](https://www.cc.gatech.edu/~akmassey/posts/2012-02-15-advice-on-reading-academic-papers.html)
 * [How to read and understand a scientific paper](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 * [Should I Read Papers?](http://michaelrbernste.in/2014/10/21/should-i-read-papers.html)
 * [The Refreshingly Rewarding Realm of Research Papers](https://www.youtube.com/watch?v=8eRx5Wo3xYA)

@@ -104,7 +104,7 @@ title: Awesome Rank for brillout/awesome-redux
 
 ## React Integration
 
- - [redux-test-recorder ★408 ⏳1Y](https://github.com/conorhastings/redux-test-recorder) - Redux middleware to automatically generate tests for reducers through ui interaction.
+ - [redux-test-recorder ★416 ⏳1Y](https://github.com/conorhastings/redux-test-recorder) - Redux middleware to automatically generate tests for reducers through ui interaction.
  - [react-redux ★9470](https://github.com/reactjs/react-redux) - Official React bindings for Redux.
  - [react-easy-universal ★210 ⏳1Y](https://github.com/keystonejs/react-easy-universal) - Universal Routing &amp; Rendering with React &amp; Redux was too hard. Now it&#39;s easy.
  - [redux-form-material-ui ★473](https://github.com/erikras/redux-form-material-ui) - Set of wrapper components to facilitate using Material UI with Redux Form.
@@ -155,7 +155,7 @@ title: Awesome Rank for brillout/awesome-redux
  - [redux-observable ★3763](https://github.com/redux-observable/redux-observable) - RxJS middleware for action side effects in Redux using &quot;Epics&quot;.
  - [rx-redux ★290 ⏳2Y](https://github.com/jas-chen/rx-redux) - Reimplementation of Redux using RxJS.
  - [redux-rx ★920 ⏳1Y](https://github.com/acdlite/redux-rx) - RxJS utilities for Redux.
- - [redurx ★94](https://github.com/shiftyp/redurx) - Redux&#39;ish Functional State Management using RxJS.
+ - [redurx ★94 ⏳1Y](https://github.com/shiftyp/redurx) - Redux&#39;ish Functional State Management using RxJS.
 
 
 ### Electron

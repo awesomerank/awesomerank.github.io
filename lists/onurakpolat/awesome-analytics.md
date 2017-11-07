@@ -134,7 +134,7 @@ Often there is no clear differentiation between social media management and anal
 - Other awesome lists [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness).
 - Even more lists [awesome ★67308](https://github.com/sindresorhus/awesome).
 - Another list? [list ★4518](https://github.com/jnv/lists).
-- WTF! [awesome-awesome-awesome ★948](https://github.com/t3chnoboy/awesome-awesome-awesome).
+- WTF! [awesome-awesome-awesome ★966](https://github.com/t3chnoboy/awesome-awesome-awesome).
 - Analytics [awesome-bigdata ★5255](https://github.com/onurakpolat/awesome-bigdata).
 ---
 <p align="center">

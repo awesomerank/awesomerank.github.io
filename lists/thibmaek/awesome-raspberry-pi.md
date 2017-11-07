@@ -61,6 +61,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [NetBSD](https://wiki.netbsd.org/ports/evbarm/raspberry_pi/) - NetBSD is a free, fast, secure, and highly portable Unix-like Open Source operating system.
 - [Hass.io](https://home-assistant.io/hassio/installation/) - Home automation operating system/application for embedded device, also available standalone.
 - [Android Things](https://developer.android.com/things/hardware/raspberrypi.html) - Build connected devices for a wide variety of consumer, retail, and industrial applications. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-3.png)
+- [Gladys Project](https://gladysproject.com/en/) - Gladys, Your home assistant. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-3.png)
 
 ## Tools
 - [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
@@ -77,6 +78,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [RaspAP-webgui ★377](https://github.com/billz/raspap-webgui) - A simple, responsive web interface to control wifi, hostapd and related services on the Raspberry Pi.
 - [HealthyPi ★28](https://github.com/Protocentral/HealthyPi) - HAT which includes vital health monitoring like ECG, respiration, pulse oximetry and optional blood pressure & body temperature sensing. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 - [PoisonTap ★4292](https://github.com/samyk/poisontap) - Exploits locked/password protected computers over USB, drops persistent WebSocket-based backdoor, exposes internal router, and siphons cookies using Raspberry Pi Zero & Node.js. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-0.png)
+- [P4wnP1 ★690](https://github.com/mame82/P4wnP1) - P4wnP1 is a highly customizable USB attack platform, based on a low cost Raspberry Pi Zero or Raspberry Pi Zero W (required for HID backdoor). ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-0.png)
 
 ## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
@@ -89,7 +91,6 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Building a Ceph Cluster on Raspberry Pi](http://bryanapperson.com/blog/the-definitive-guide-ceph-cluster-on-raspberry-pi/) - Highly redundant and low power usage RADOS home storage solution.
 - [Smart Mirror ★2008](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror with IoT integration. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
 - [Magic Mirror](http://magicmirror.builders) - The original open source modular smart mirror platform. ![Supports Raspberry Pi 2+](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-2+.png)
-- [Door bot](https://blog.haschek.at/post/f31aa) - Door bot that senses when a door is opened and sends you chat messages.
 - [Chromebook Charger Kiosk](https://www.reddit.com/r/raspberry_pi/comments/53nj1z/chromebook_charger_kiosk_last_minute_charge_for/) - Timed charging station for students using Chromebooks at school.
 - [Jasper](https://jasperproject.github.io/) - Flexible open source personal assistant.
 - [Lightberry](https://lightberry.eu) - Led lighting solution dedicated for raspberry pi and your TV.
@@ -116,7 +117,7 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [Looper/synth/drum thing ★407](https://github.com/otem/Raspberry-Pi-Looper-synth-drum-thing) - Sequencer/Drumpad, like Native Instruments' Maschine for the Pi.
 - [Waves ★9](https://github.com/euniceylee/waves) - Transforming the transience of the spoken word into something concrete and physical through a microphone, waveform and thermal printer.
 - [DIY USB Rubber Ducky](https://hackaday.io/project/17598-diy-usb-rubber-ducky) - Raspberry Pi Zero Rubber Ducky recognized as a USB HID by just about anything with a USB port, thus allowing you to run custom scripts as if it were a keyboard. ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-0.png)
-- [Kubernetes on ARM ★381](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
+- [Kubernetes on ARM ★394](https://github.com/luxas/kubernetes-on-arm) - Get your ARM device up and running Kubernetes in less than ten minutes.
 - [Lumos](https://www.instructables.com/id/LUMOS-Smart-Lamp-for-Better-Health/) - Smart Lamp for Better Sleep. ![Supports Raspberry Pi 3](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-3.png) ![Supports Raspberry Pi Zero](https://github.com/thibmaek/awesome-raspberry-pi/blob/master//media/badges/rpi-0.png)
 - [Vinyl Shelf Finder](https://valentingalea.github.io/vinyl-shelf-finder/) - Uses a tilt & pan laser to find a record in a record collection.
 - [Building Timelapse with Resin](https://steveedson.co.uk/project-matilda/) - Remotely deploying timelapse camera using Docker, Resin, and 3G internet.
@@ -143,7 +144,6 @@ Contributions *very welcome* but first see [Contributing](#contributing)
 - [How To Make a Raspberry Pi Turn on a Lamp with iBeacon™ Technology](http://developer.radiusnetworks.com/2014/04/27/how-to-make-a-raspberry-pi-turn-on-a-lamp-with-an-ibeacon.html) - Good beginners-guide to working with Beacon technology.
 - [Build a $35 Time Capsule](https://raymii.org/s/articles/Build_a_35_dollar_Time_Capsule_-_Raspberry_Pi_Time_Machine.html) - Time Machine Backup Server.
 - [Raspberry Pi Game Console](https://lifehacker.com/how-to-turn-your-raspberry-pi-into-a-retro-game-console-498561192) - How to Build a Raspberry Pi Retro Game Console for $35.
-- [Sending and Visualizing Thermal Data](https://www.griddb.net/en/blog/raspberry-pi-tutorial-sending-thermal-data-to-griddb-via-the-kairosdb-connector/) - Send thermal data to an easily-queryable database and visualize the results. 
 - [Docker Swarm with LetsEncrypt](https://aaron.haurwitz.com/#!/posts/raspberry-pi-docker-swarm-with-lets-encrypt) - Clear guidelines on how to set up a cluster with Docker, distributing services with Docker Compose and signing valid SSL certs with Letsencrypt.
 - [DIY Neural Network](http://hackaday.com/2017/06/14/diy-raspberry-neural-network-sees-all-recognizes-some/) - Uses image recognition and Google’s Inception to recognize specific objects.
 - [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) - Beginners guide to setting up a Plex media server to stream all of your media content.

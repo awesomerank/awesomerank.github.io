@@ -54,7 +54,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## AI
 *Navigation, Decision-Making and AI Libraries*
 
-* [Jumper ★403](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library
+* [Jumper ★411](https://github.com/Yonaba/Jumper) - Grid-based pathfinding library
 
 ## Animation
 *Animation & Frame-Managing Libraries*
@@ -83,7 +83,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Lovebird ★142](https://github.com/rxi/lovebird) - Browser-based debug console
 * [Lovecat ★16 ⏳2Y](https://github.com/CoffeeKitty/lovecat) - Edit your game parameters in a browser and see the changes in the running game in real time
 * [LoveDebug ★57 ⏳1Y](https://github.com/Ranguna/LOVEDEBUG) - Inline console-like debugger utility
-* [lurker ★103 ⏳2Y](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
+* [lurker ★104 ⏳2Y](https://github.com/rxi/lurker) - Auto-swaps changed Lua files in a running game
 * [LÖVE API ★88](https://github.com/love2d-community/love-api) - The complete API documentation of LÖVE in a Lua table
 
 ## Drawing
@@ -94,7 +94,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Autobatch ★35](https://github.com/rxi/autobatch) - Small LÖVE module to automate the use of SpriteBatches
 * [HSLUV ★15](https://github.com/hsluv/hsluv-lua) - Lua implementation of HSLuv (a human-friendly alternative to HSL)
 * [Maid64 ★16](https://github.com/adekto/maid64) - Low resolution scaler for LÖVE
-* [Möan.lua ★28](https://github.com/twentytwoo/Moan.lua) - Multiple-choice VN-esque messagebox library for LÖVE
+* [Möan.lua ★31](https://github.com/twentytwoo/Moan.lua) - Multiple-choice VN-esque messagebox library for LÖVE
 * [renderplanet ★8](https://github.com/meric/renderplanet) - realistic orthographic planet rendering
 * [Sölar ★1](https://github.com/JanWerder/soelar) - a fairly simple solar system simulator
 * [svglover ★15](https://github.com/globalcitizen/svglover) - Library to import and display simple SVGs in LÖVE
@@ -115,7 +115,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [lovely-windows ★3](https://github.com/flamendless/lovely-windows) - A Window/Screen Manager Module for virtual windows.
 * [love-state-switcher ★3](https://github.com/nekromoff/love-state-switcher) - State switcher class for Lua LÖVE Engine
 * [lue ★26](https://github.com/Ulydev/lue) - lue is a LÖVE library that allows you to display hue color effects in your game
-* [lume ★215](https://github.com/rxi/lume) - Collection of functions for Lua, geared towards game development
+* [lume ★223](https://github.com/rxi/lume) - Collection of functions for Lua, geared towards game development
 * [rotLove ★109](https://github.com/paulofmandown/rotLove) - Roguelike Toolkit in Love. A Love2D/lua port of rot.js
 * [ScreenManager ★13](https://github.com/rm-code/screenmanager) - Screen/State Management for the LÖVE framework
 * [shack ★24 ⏳1Y](https://github.com/Ulydev/shack) - shack is a LÖVE library that lets you easily add screen effects such as shake and rotation
@@ -156,17 +156,17 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 *Networking & Online-Play Libraries*
 
 * [Grease](https://github.com/bartbes/love-misc-libs/tree/master/grease) - Networking library intended to make networking easy for lovers (TCP, UDP, Enet)
-* [NoobHub ★169](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging
+* [NoobHub ★172](https://github.com/Overtorment/NoobHub) - OpenSource multiplayer and network messaging
 * [Sock.lua ★55](https://github.com/camchenry/sock.lua) - A Lua networking library for LÖVE games
 
 ## <a name="object"></a>Object Orientation
 *Object Orientation Libraries that support [Class-Commons ★32 ⏳2Y](https://github.com/bartbes/Class-Commons)*
 
-* [30log ★230](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
+* [30log ★232](https://github.com/Yonaba/30log) - Minified framework for object-orientation in Lua. It features named (and unnamed) classes, single inheritance and a basic support for mixins
 * [classic ★161 ⏳1Y](https://github.com/rxi/classic) - Tiny class module for Lua. Attempts to stay simple and provide decent performance by avoiding unnecessary over-abstraction
 * [hump.class](http://hump.readthedocs.io/en/latest/class.html) - Small, fast class/prototype implementation with multiple inheritance (class-commons)
 * [knife.base](https://github.com/airstruck/knife/blob/master/readme/base.md) - Extremely minimal base class providing single inheritance and constructors.
-* [middleclass ★869](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
+* [middleclass ★878](https://github.com/kikito/middleclass) - Simple OOP library for Lua; has inheritance, metamethods (operators), class variables and weak mixin support (class-commons)
 
 ## Performance
 *Performance measurement tools*
@@ -178,7 +178,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Physics
 *Collision Detection & Physics Wrappers*
 
-* [Bump ★349](https://github.com/kikito/bump.lua) - Collision detection library for Lua
+* [Bump ★366](https://github.com/kikito/bump.lua) - Collision detection library for Lua
 * [HC](http://hc.readthedocs.io/en/latest/) - Collision detection with arbitrary polygons; allows rotation of objects
 * [Windfield ★63](https://github.com/SSYGEN/windfield) - Physics module wrapper for LÖVE
 
@@ -221,7 +221,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 
 * [busted](http://olivinelabs.com/busted/) - Simple unit-testing framework with customizable assertions
 * [knife.test](https://github.com/airstruck/knife/blob/master/readme/test.md) - Fixture-free test framework
-* [Luassert ★50](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests
+* [Luassert ★51](https://github.com/Olivine-Labs/luassert) - Extends `assert()` with additional, customizable tests
 * [lua-TestMore](http://fperrad.github.io/lua-TestMore/) - Port of Perl's `Test::More` package
 * [Lunatest ★61 ⏳2Y](https://github.com/silentbicycle/lunatest) - xUnit-style randomized unit testing framework
 * [lust ★24 ⏳1Y](https://github.com/bjornbytes/lust) - Minimal test framework
@@ -231,10 +231,10 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 ## Tweening
 *Smoothing & Timer Libraries*
 
-* [Flux ★125 ⏳1Y](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
+* [Flux ★130 ⏳1Y](https://github.com/rxi/flux) - A fast, lightweight tweening library for Lua
 * [hump.timer](http://hump.readthedocs.io/en/latest/timer.html) - Timer and tweening library with flexible tweening methods
 * [knife.timer](https://github.com/airstruck/knife/blob/master/readme/timer.md) - Create timers and tweens with ease.
-* [tween.lua ★259 ⏳1Y](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
+* [tween.lua ★265 ⏳1Y](https://github.com/kikito/tween.lua) - Tweening/Easing/Interpolating functions for Lua inspired on jQuery's animate method
 
 ## UI
 *User Interface Libraries*
@@ -314,7 +314,7 @@ Please see [CONTRIBUTING](https://github.com/love2d-community/awesome-love2d/blo
 
 # Other Awesome Lists
 
-* [awesome-lua ★1489](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
+* [awesome-lua ★1510](https://github.com/LewisJEllis/awesome-lua) - A list like this one, but more general and encompassing all of Lua's uses
 * [awesome-love-shaders ★32 ⏳2Y](https://github.com/karai17/awesome-love-shaders) - A collection of shaders designed to work in LÖVE
 * [awesome-pico8 ★653](https://github.com/felipebueno/awesome-PICO-8) - A curated list of PICO-8 resources, tutorials, tools and more
 

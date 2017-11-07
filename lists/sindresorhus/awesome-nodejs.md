@@ -293,7 +293,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [yargs ★3556](https://github.com/yargs/yargs) - Command-line parser that automatically generates an elegant user-interface.
 - [DraftLog ★821](https://github.com/ivanseidel/node-draftlog) - Create multiple updatable log lines. Works just like `console.log`.
 - [Bit ★753](https://github.com/teambit/bit) - Create, maintain, find and use small modules and components across repositories.
-- [gradient-string ★201](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
+- [gradient-string ★210](https://github.com/bokub/gradient-string) - Beautiful color gradients in terminal output.
 
 
 ### Build tools
@@ -355,6 +355,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [seneca ★2550](https://github.com/senecajs/seneca) - Toolkit for writing microservices.
 - [AdonisJs](http://adonisjs.com) - A true MVC framework for Node.js built on solid foundations of Dependency Injection and IoC container.
 - [Hemera ★326](https://github.com/hemerajs/hemera) - Write reliable and fault-tolerant microservices with [NATS](https://nats.io).
+- [Micro ★5301](https://github.com/zeit/micro) - Minimalistic microservice framework with an async approach.
 
 
 ### Documentation
@@ -501,7 +502,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [ndarray ★665](https://github.com/scijs/ndarray) - Multidimensional arrays.
 - [mathjs ★4965](https://github.com/josdejong/mathjs) - An extensive math library.
-- [math-sum ★4](https://github.com/sindresorhus/math-sum) - Sum numbers.
+- [math-sum ★4 ⏳1Y](https://github.com/sindresorhus/math-sum) - Sum numbers.
 - [math-clamp ★4 ⏳1Y](https://github.com/sindresorhus/math-clamp) - Clamp a number.
 - [algebra ★43](https://github.com/fibo/algebra) - Algebraic structures.
 
@@ -645,7 +646,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [WebdriverIO](http://webdriver.io) - Automated testing based on the WebDriver protocol.
 - [Jest ★12778](https://github.com/facebook/jest) - Painless JavaScript testing.
 - [TestCafe ★3425](https://github.com/DevExpress/testcafe) - Automated browser testing.
-- [abstruse ★28](https://github.com/bleenco/abstruse) - Continuous Integration server.
+- [abstruse ★33](https://github.com/bleenco/abstruse) - Continuous Integration server.
 
 
 ### Security
@@ -653,7 +654,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [snyk ★612](https://github.com/Snyk/snyk) - CLI and build-time tool to find & fix vulnerable npm dependencies.
 - [nsp ★1070](https://github.com/nodesecurity/nsp) - CLI tool to identify known vulnerabilities in your project.
 - [RegEx-DoS ★56 ⏳1Y](https://github.com/jagracey/RegEx-DoS) - CLI tool to identify possible regex denial of service (ReDos) vulnerabilities in your project.
-- [credential-plus ★21](https://github.com/simonepri/credential-plus) - Password hashing and verification made easy.
+- [credential-plus ★24](https://github.com/simonepri/credential-plus) - Password hashing and verification made easy.
 
 
 ### Benchmarking
@@ -685,7 +686,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [Nodemailer](https://github.com/andris9/Nodemailer) - The fastest way to handle email.
 - [emailjs ★1511](https://github.com/eleith/emailjs) - Send text/HTML emails with attachments to any SMTP server.
-- [email-templates ★1695](https://github.com/niftylettuce/email-templates) - Create, preview, and send custom email templates.
+- [email-templates ★1739](https://github.com/niftylettuce/email-templates) - Create, preview, and send custom email templates.
 
 
 ### Job queues

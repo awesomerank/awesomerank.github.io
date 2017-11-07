@@ -55,7 +55,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [DevTools Backend ★15](https://github.com/christian-bromann/devtools-backend) - Standalone implementation of the Chrome DevTools backend to debug arbitrary web environments. 
 - [RemoteDebug](https://github.com/RemoteDebug) - Initiative to normalize debugging protocols across today's browsers.
 - [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) - The official Selenium/WebDriver implementation for Chrome is implemented on top of the DevTools Protocol.
-- [Chrome Protocol Proxy ★29](https://github.com/wendigo/chrome-protocol-proxy) - tool for debugging clients using devtools protocol
+- [Chrome Protocol Proxy ★30](https://github.com/wendigo/chrome-protocol-proxy) - tool for debugging clients using devtools protocol
 - [Puppeteer ★15368](https://github.com/GoogleChrome/puppeteer) - Node.js offering a high-level API to control headless Chrome over the DevTools Protocol
 
 #### Protocol driver libraries (in various languages)
@@ -63,15 +63,15 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - TypeScript/Node.js: [chrome-debugging-client ★38](https://github.com/krisselden/chrome-debugging-client) - A TypeScript async/await-friendly debugging client
 - Java: [cdp4j ★84](https://github.com/webfolderio/cdp4j) - Java library for CDP
 - Python: [PyChromeDevTools ★25](https://github.com/marty90/PyChromeDevTools) - Python wrapper for Google Chrome Dev Protocol
-- Python: [chromewhip ★12](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
-- Python: [pychrome ★72](https://github.com/fate0/pychrome) - A Python Package for the Google Chrome Dev Protocol
-- Go: [chromedp ★1454](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
-- Go: [cdp ★49](https://github.com/mafredri/cdp) - A Golang library for the protocol
+- Python: [chromewhip ★18](https://github.com/chuckus/chromewhip) - Python 3 asyncio driver to manage concurrent requests to Google Chrome Devtools endpoints
+- Python: [pychrome ★85](https://github.com/fate0/pychrome) - A Python Package for the Google Chrome Dev Protocol
+- Go: [chromedp ★1523](https://github.com/knq/chromedp) - High level actions and tasks for driving browsers via the Chrome Debugging Protocol
+- Go: [cdp ★57](https://github.com/mafredri/cdp) - A Golang library for the protocol
 - Go: [gcd ★121](https://github.com/wirepair/gcd) - A different client library in Go
 - Go: [godet ★158](https://github.com/raff/godet) - Also different, also Go.
 - C#/dotnet: [chrome-dev-tools](https://github.com/BaristaLabs/chrome-dev-tools) - Protocol wrapper generator that can be customized by editing handlebars templates. Includes .Net Core template.
-- Ruby: [ChromeRemote ★11](https://github.com/cavalle/chrome_remote) - A client implementation of the Chrome DevTools Protocol in Ruby
-- Kotlin: [chrome-reactive-kotlin ★15](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
+- Ruby: [ChromeRemote ★14](https://github.com/cavalle/chrome_remote) - A client implementation of the Chrome DevTools Protocol in Ruby
+- Kotlin: [chrome-reactive-kotlin ★17](https://github.com/wendigo/chrome-reactive-kotlin) - reactive (rxjava 2.x), low-level client library in Kotlin
 
 #### Developing with the protocol
 - [chrome-remote-interface Wiki](https://github.com/cyrus-and/chrome-remote-interface/wiki) - Many useful recipes

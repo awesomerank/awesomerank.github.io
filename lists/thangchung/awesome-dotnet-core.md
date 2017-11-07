@@ -130,9 +130,9 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Authentication and Authorization
 * [AspNet.Security.OpenIdConnect.Server ★335](https://github.com/aspnet-contrib/AspNet.Security.OpenIdConnect.Server) - OpenID Connect/OAuth2 server framework for OWIN/Katana and ASP.NET Core.
-* [Auth0 ★58](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
+* [Auth0 ★61](https://github.com/auth0/auth0.net) - Hosted, enterprise-grade platform for modern identity.
 * [Identity ★1350](https://github.com/aspnet/Identity) - ASP.NET Core Identity is the membership system for building ASP.NET Core web applications, including membership, login, and user data.
-* [IdentityServer ★1889](https://github.com/IdentityServer/IdentityServer4) - IdentityServer for ASP.NET Core 1.0
+* [IdentityServer ★1889](https://github.com/IdentityServer/IdentityServer4) - IdentityServer for ASP.NET Core 1.0 & 2.0
   * [IdentityServer4.EntityFramework ★78](https://github.com/IdentityServer/IdentityServer4.EntityFramework) - EntityFramework persistence layer
   * [IdentityServer4.MongoDB ★20](https://github.com/diogodamiani/IdentityServer4.MongoDB) - MongoDB persistence layer
   * [IdentityServer4.EntityFrameworkCore ★42 ⏳1Y](https://github.com/2020IP/TwentyTwenty.IdentityServer4.EntityFrameworkCore) - Entity Framework Core persistence layer
@@ -169,8 +169,8 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### CMS
 * [Blogifier.Core ★52](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET applications to provide common blogging functionality.
-* [Lynicon ★9](https://github.com/jamesej/lyniconanc) - O/S ASP.Net Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
-* [OrchardCMS2](https://github.com/OrchardCMS/Orchard2) - The implementation of Orchard CMS in ASP.NET Core (also known as DNX).
+* [Lynicon ★29](https://github.com/jamesej/lyniconanc) - O/S ASP.Net Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
+* [Orchard Core CMS ★1186](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
 * [Platformus](https://github.com/Platformus) - Free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
 * [SimpleContent ★154](https://github.com/joeaudette/cloudscribe.SimpleContent) - Simple, yet flexible content and blog engine for ASP.NET Core that can work with or without a database.
 * [Squidex ★105](https://github.com/Squidex/squidex) - Headless CMS, based on MongoDB, CQRS and Event Sourcing.
@@ -205,7 +205,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [npgsql ★1053](https://github.com/npgsql/npgsql) - .NET data provider for PostgreSQL. It allows any program developed for .NET framework to access a PostgreSQL database server. It is implemented in 100% C# code. PostgreSQL versions since 9.1 are officially supported, others may work. [http://www.npgsql.org](http://www.npgsql.org)
 * [ravendb](https://github.com/ayende/ravendb/tree/v4.0) - Linq enabled document database for .NET.
 * [RethinkDb.Driver ★224](https://github.com/bchavez/RethinkDb.Driver) - C#/.NET RethinkDB driver with 100% ReQL API coverage.
-* [progaudi.tarantool ★20](https://github.com/progaudi/progaudi.tarantool) - .NET client for Tarantool NoSql database.
+* [progaudi.tarantool ★22](https://github.com/progaudi/progaudi.tarantool) - .NET client for Tarantool NoSql database.
 
 ### Date and Time
 * [Exceptionless.DateTimeExtensions ★31](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
@@ -242,7 +242,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 ### GUI
 * [Avalonia ★2862](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 * [AvaloniaEdit](https://github.com/AvaloniaUI/AvaloniaEdit/) - The Avalonia-based text editor component forked from [AvalonEdit ★499](https://github.com/icsharpcode/AvalonEdit)
-* [WinApi ★64](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+* [WinApi ★86](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 
 ### IDE
 * [rider](https://www.jetbrains.com/rider/) - Cross-platform C# IDE based on the IntelliJ platform and ReSharper.
@@ -267,7 +267,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [dnxcore-logging-logstash ★4 ⏳1Y](https://github.com/jvandevelde/dnxcore-logging-logstash) - Logstash logging extension for .NET Core applications with UDP and Redis transports.
 * [Exceptionless ★116](https://github.com/exceptionless/Exceptionless.Net) - Exceptionless .NET Client
 * [Foundatio](https://github.com/exceptionless/Foundatio#logging) - A fluent logging api that can be used to log messages throughout your application.
-* [log4net ★90](https://github.com/apache/logging-log4net) - log4net is a port of the excellent Apache log4j™ framework to the Microsoft® .NET runtime.
+* [log4net ★101](https://github.com/apache/logging-log4net) - log4net is a port of the excellent Apache log4j™ framework to the Microsoft® .NET runtime.
 * [NLog ★2620](https://github.com/NLog/NLog) - Advanced .NET, Silverlight and Xamarin Logging.
 * [Q42.Logging.ApplicationInsights ★2](https://github.com/Q42/Q42.Logging.ApplicationInsights) - Log appender for the build in ASP.NET Core logging to send all logs to Application Insights.
 * [serilog ★1577](https://github.com/serilog/serilog) - Simple .NET logging with fully-structured events.
@@ -298,7 +298,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [datatables](https://github.com/ALMMa/datatables.aspnet/tree/dev) - Microsoft ASP.NET server-side support and helpers for jQuery DataTables.
 * [Docker.DotNet ★365](https://github.com/Microsoft/Docker.DotNet) - .NET (C#) Client Library for Docker API.
 * [Enums.NET ★409](https://github.com/TylerBrinkley/Enums.NET) - Enums.NET is a high-performance type-safe .NET enum utility library
-* [FluentFTP ★288](https://github.com/robinrodricks/FluentFTP) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
+* [FluentFTP ★314](https://github.com/robinrodricks/FluentFTP) - FTP and FTPS client, with extensive FTP commands, SSL/TLS connections, hashing/checksums and more.
 * [FluentValidation ★2587](https://github.com/JeremySkinner/FluentValidation) - Small validation library for .NET that uses a fluent interface and lambda expressions for building validation rules.
 * [httpclient-interception ★17](https://github.com/justeat/httpclient-interception) - .NET Standard library for intercepting server-side HTTP dependencies.
 * [Humanizer ★2839](https://github.com/Humanizr/Humanizer) - Humanizer meets all your .NET needs for manipulating and displaying strings, enums, dates, times, timespans, numbers and quantities.
@@ -381,7 +381,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [jose-jwt ★332](https://github.com/dvsekhvalnov/jose-jwt) - Library for processing JOSE objects (JWT, JWA, JWS and related).
 * [NWebsec ★212](https://github.com/NWebsec/NWebsec) - Security libraries for ASP.NET [https://www.nwebsec.com](https://www.nwebsec.com).
 * [roslyn-security-guard ★137](https://github.com/dotnet-security-guard/roslyn-security-guard) - Roslyn analyzers that aim to help security audit on .NET applications.
-* [OwaspHeaders ★3](https://github.com/GaProgMan/OwaspHeaders.Core) - .NET Core middleware for injecting the Owasp recommended HTTP Headers for increased security.
+* [OwaspHeaders ★8](https://github.com/GaProgMan/OwaspHeaders.Core) - .NET Core middleware for injecting the Owasp recommended HTTP Headers for increased security.
 * [Security ★691](https://github.com/aspnet/Security) - Middleware for security and authorization of web apps.
 
 ### Searching
@@ -437,14 +437,14 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [GitInfo ★67](https://github.com/kzu/GitInfo) - Git and SemVer Info from MSBuild, C# and VB.
 * [ICanHasDotnetCore ★40](https://github.com/OctopusDeploy/ICanHasDotnetCore) - Scans uploaded packages.config files or GitHub repository and determines whether the nuget packages target .NET Standard [https://icanhasdot.net](https://icanhasdot.net).
 * [json2csharp](http://json2csharp.com) - Generate C# classes from JSON.
-* [OctoLinker ★2316](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
+* [OctoLinker ★2359](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
 * [Opserver ★3175](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System.
 * [ShareX ★6503](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. [https://getsharex.com](https://getsharex.com)
 * [X.Web.Sitemap ★17](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
 * [X.Web.RSS ★6](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 
 ### Web Framework
-* [Blazor ★1403](https://github.com/SteveSanderson/Blazor) - UI framework running .NET in the browser via WebAssembly.
+* [Blazor ★1501](https://github.com/SteveSanderson/Blazor) - UI framework running .NET in the browser via WebAssembly.
 * [ReactJS.NET ★1223](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
 * [redux.NET](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux ★34851](https://github.com/reactjs/redux).
 
@@ -484,14 +484,15 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [distributed-playground ★15 ⏳1Y](https://github.com/jvandevelde/distributed-playground) - Distributed service playground with Vagrant, Consul, Docker & ASP.NET Core.
 * [DotNetClub ★202](https://github.com/scheshan/DotNetClub) - Tiny club written in ASP.NET Core.
 * [Entropy ★306](https://github.com/aspnet/Entropy) - Chaotic experimental playground for new features and ideas - check here for small and simple samples for individual features.
-* [EquinoxProject ★741](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing.
+* [EquinoxProject ★807](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 2.0 application with DDD, CQRS and Event Sourcing.
 * [eShopOnContainers](https://github.com/dotnet/eShopOnContainers) - Microservices Architecture and Containers based Reference Application.
 * [guidance-identity-management-for-multitenant-apps ★44](https://github.com/Azure-Samples/guidance-identity-management-for-multitenant-apps) - How to manage user identities in a multitenant app on Microsoft Azure, using Azure Active Directory for authentication.
 * [magazine-website ★73](https://github.com/thangchung/magazine-website) - Magazine website (using .NET Core, ASP.NET Core, EF Core) with DDD, CQRS, microservices, asynchronous programming applied.
 * [MegaMine ★18](https://github.com/Nootus/MegaMine) - Open source mining solution that helps miners in extracting Gold, Quartz, Granite etc. This solution is built using ASP.NET Core and AngularJS utilizing multiple light weight components in a Microservices way.
 * [minicompiler ★6](https://github.com/ealsur/minicompiler) - Minification, bundling and compiling sample.
 * [MusicStore ★1135](https://github.com/aspnet/MusicStore) - Sample MusicStore application that uses MVC and Entity Framework.
-* [NLayerAppV3 ★10](https://github.com/cesarcastrocuba/nlayerappv3) - NLayerAppV3 N-Layered Architecture with .NET Core Preview 2.
+* [NLayerAppV3 ★13](https://github.com/cesarcastrocuba/nlayerappv3) - NLayerAppV3 N-Layered Architecture with .NET Core Preview 2.
+* [Orchard Core - Modular and Multi-tenant applications ★10](https://github.com/OrchardCMS/OrchardCore.Samples) - Use Orchard Core Framework to create Modular and Multi-tenant applications.
 * [ReactiveTraderCloud ★699](https://github.com/AdaptiveConsulting/ReactiveTraderCloud) - Real-time trading platform demo showcasing reactive programming principles applied across the full application stack.
 * [PhotoGallery ★327](https://github.com/chsakell/aspnet5-angular2-typescript) - Cross-platform Single Page Applications with ASP.NET Core, Angular 2 & TypeScript [http://wp.me/p3mRWu-11L](http://wp.me/p3mRWu-11L).
 * [Practical ASP.NET Core ★984](https://github.com/dodyg/practical-aspnetcore) - A daily updated micro samples of ASP.NET Core features and facilities.
@@ -504,6 +505,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [The 68 things the CLR does before executing a single line of your code](http://mattwarren.org/2017/02/07/The-68-things-the-CLR-does-before-executing-a-single-line-of-your-code/)
   * The comparison between .NET Core and Nodejs at [here](https://manuel-rauber.com/2016/03/07/node-js-asp-net-core-1-0-a-usage-comparison/), [here](https://gist.github.com/ilyaigpetrov/f6df3e6f825ae1b5c7e2) and [here ★48 ⏳1Y](https://github.com/thinktecture/nodejs-aspnetcore-webapi)
   * [Understanding ASP.NET Core Initialization](http://developer.telerik.com/featured/understanding-asp-net-core-initialization/)
+  * [Why you should join .NET Core and ASP.NET Core train](https://codingblast.com/why-you-should-join-asp-net-core/)
 * Cloud Development
   * [Configuring the AWS SDK in .NET Core](https://aws.amazon.com/blogs/developer/configuring-aws-sdk-with-net-core/)
   * [Serverless Architecture using C# and AWS Amazon Gateway Api/Lambda](https://www.codeproject.com/Articles/1178781/Serverless-Architecture-using-Csharp-and-AWS-Amazo)
@@ -520,6 +522,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
   * [.NET Core Data Access](https://blogs.msdn.microsoft.com/dotnet/2016/11/09/net-core-data-access/)
   * [A very good example about EF Core ★90](https://github.com/rowanmiller/Demo-EFCore)
 * Miraculous
+  * [Getting started with Orchard Core as a NuGet package](http://www.ideliverable.com/blog/getting-started-with-orchard-core-as-a-nuget-package)
   * [How to export HTML to PDF in ASP.NET Core](https://code.msdn.microsoft.com/How-to-export-HTML-to-PDF-c5afd0ce)
   * [Vue.js server side rendering with ASP.NET Core](http://mgyongyosi.com/2016/Vuejs-server-side-rendering-with-aspnet-core/)
 * Security

@@ -239,7 +239,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 > Pro Tip: you can do **a lot** more at [http://httpbin.org](http://httpbin.org/).
 
 ## Media
-* [Giphy ★1737](https://github.com/Giphy/GiphyAPI)
+* [Giphy ★1747](https://github.com/Giphy/GiphyAPI)
   * [Cats](http://api.giphy.com/v1/gifs/search?q=cats&api_key=dc6zaTOxFJmzC)
   * [Dogs](http://api.giphy.com/v1/gifs/search?q=dogs&api_key=dc6zaTOxFJmzC)
   * [Surprised](http://api.giphy.com/v1/gifs/search?q=surprised&api_key=dc6zaTOxFJmzC)
@@ -399,13 +399,13 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 
 ## More Awesome Lists
 * [Awesome ★67308](https://github.com/sindresorhus/awesome) *(The OG List)*
-* [Help Wanted ★41](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
-* [JSON ★530](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
+* [Help Wanted ★41 ⏳1Y](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
+* [JSON ★551](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 * [WPO ★6022](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
 * [Shell ★10528](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
-* [Public APIs ★27983](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
+* [Public APIs ★29264](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 * [Public Datasets ★20772](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
-* [Style Guides ★720](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
+* [Style Guides ★723](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*
 
 ## Contributing
 If you want to contribute, please read the [contribution guidelines](https://github.com/jdorfman/awesome-json-datasets/blob/master/CONTRIBUTING.md).

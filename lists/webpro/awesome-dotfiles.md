@@ -86,8 +86,8 @@ Title | Description | Focus
 Title | Description | Focus
 :--|:--|:--
 [oh-my-fish ★2702](https://github.com/oh-my-fish/oh-my-fish) | Community Fish framework. | Includes many plugins and themes, with installation, auto-update, and scaffolding tools.
-[Paul's dotfiles ★2853](https://github.com/paulirish/dotfiles) | Abundant dotfiles with a plethora of cool custom functions | Fish, macOS, Homebrew, Custom Shell functions
-[rkalis's dotfiles ★15](https://github.com/rkalis/dotfiles) | Well-maintained dotfiles featuring Fish, repository management and Hammerspoon | Fish, macOS, Homebrew, Repository management, Hammerspoon
+[Paul's dotfiles ★2891](https://github.com/paulirish/dotfiles) | Abundant dotfiles with a plethora of cool custom functions | Fish, macOS, Homebrew, Custom Shell functions
+[rkalis's dotfiles ★19](https://github.com/rkalis/dotfiles) | Well-maintained dotfiles featuring Fish, repository management and Hammerspoon | Fish, macOS, Homebrew, Repository management, Hammerspoon
 
 
 ## Tools

@@ -16,7 +16,7 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP ★16697](https://github.com/ziadoz/awesome-php)
+- [Awesome PHP ★17013](https://github.com/ziadoz/awesome-php)
 - [Awesome Awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -175,7 +175,7 @@ Additional lists you might find useful:
 - [FriendsOfCake/Upload plugin ★512](https://github.com/FriendsOfCake/cakephp-upload) - A customisable plugin that uses [Flysystem](http://flysystem.thephpleague.com/) to write to multiple backends (Dropbox, FTP, S3, Local, etc.).
 - [Image plugin ★17 ⏳1Y](https://github.com/josbeir/image) - Image behavior that works much like Cake's built in TranslateBehavior.
 - [Proffer plugin ★97](https://github.com/davidyell/CakePHP3-Proffer) - A customisable upload plugin with thumbnail generation.
-- [Upload plugin ★26](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file.
+- [Upload plugin ★26 ⏳1Y](https://github.com/Xety/Cake3-Upload) - A little plugin to upload file.
 
 ## Filtering and Validation
 *Plugins for filtering and validating data.*
@@ -325,7 +325,6 @@ Additional lists you might find useful:
 - [Muffin/Tags plugin ★14 ⏳1Y](https://github.com/usemuffin/tags) - For tagging and finding tagged records.
 - [PlumSearch plugin ★18](https://github.com/skie/plum_search) - Search plugin implements custom, flexible and extendable search strategies. Implements PRG pattern.
 - [FriendsOfCake/Search plugin ★82](https://github.com/FriendsOfCake/search) - Search provides a searching/filter module for CakePHP applications.
-- [Search plugin ★349](https://github.com/CakeDC/search) - Search plugin built on PRG pattern.
 - [SphinxSearch plugin ★3 ⏳1Y](https://github.com/voycey/cakephp-sphinxsearch) - Basic behaviour implementation for querying SphinxSearch indexes.
 
 ## Security

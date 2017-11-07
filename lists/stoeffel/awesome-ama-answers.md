@@ -13,7 +13,7 @@ title: Awesome Rank for stoeffel/awesome-ama-answers
 
 Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list thing.
 
-Check out [awesome AMAs ★848](https://github.com/sindresorhus/amas) to find AMAs of your favorite dev.
+Check out [awesome AMAs ★859](https://github.com/sindresorhus/amas) to find AMAs of your favorite dev.
 
 ***
 

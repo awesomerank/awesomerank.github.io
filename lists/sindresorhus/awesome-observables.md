@@ -39,12 +39,12 @@ You might also like [awesome-nodejs ★19279](https://github.com/sindresorhus/aw
 
 ## Packages
 
-- [any-observable ★36 ⏳1Y](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill.
-- [is-observable ★16 ⏳1Y](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable.
+- [any-observable ★37 ⏳1Y](https://github.com/sindresorhus/any-observable) - Support any Observable library and polyfill.
+- [is-observable ★16](https://github.com/sindresorhus/is-observable) - Check if a value is an Observable.
 - [observable-to-promise ★24](https://github.com/sindresorhus/observable-to-promise) - Convert an Observable to a Promise.
-- [stream-to-observable ★51 ⏳1Y](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable.
+- [stream-to-observable ★52 ⏳1Y](https://github.com/jamestalmage/stream-to-observable) - Convert a Node.js stream into an Observable.
 - [symbol-observable](https://github.com/blesh/symbol-observable) - `Symbol.observable` ponyfill.
-- [obsify ★33 ⏳1Y](https://github.com/samverschueren/obsify) - Observableify a callback-style function.
+- [obsify ★34 ⏳1Y](https://github.com/samverschueren/obsify) - Observableify a callback-style function.
 - [localForage-observable](https://github.com/thgreasi/localForage-observable) - Observables for localForage.
 
 

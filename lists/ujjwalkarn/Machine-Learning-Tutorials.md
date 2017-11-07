@@ -13,7 +13,7 @@ title: Awesome Rank for ujjwalkarn/Machine-Learning-Tutorials
 
 - If you want to contribute to this list, please read [Contributing Guidelines](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/contributing.md).
 
-- [Curated list of R tutorials for Data Science, NLP and Machine Learning ★822](https://github.com/ujjwalkarn/DataScienceR).
+- [Curated list of R tutorials for Data Science, NLP and Machine Learning ★873](https://github.com/ujjwalkarn/DataScienceR).
 
 - [Curated list of Python tutorials for Data Science, NLP and Machine Learning ★2756](https://github.com/ujjwalkarn/DataSciencePython).
 
@@ -66,7 +66,7 @@ title: Awesome Rank for ujjwalkarn/Machine-Learning-Tutorials
 
 - [Dive into Machine Learning ★7298](https://github.com/hangtwenty/dive-into-machine-learning)
 
-- [A curated list of awesome Machine Learning frameworks, libraries and software ★26231](https://github.com/josephmisiti/awesome-machine-learning)
+- [A curated list of awesome Machine Learning frameworks, libraries and software ★27278](https://github.com/josephmisiti/awesome-machine-learning)
 
 - [A curated list of awesome data visualization libraries and resources. ★1280](https://github.com/fasouto/awesome-dataviz)
 
@@ -405,7 +405,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 ## Deep Learning
 
-- [A curated list of awesome Deep Learning tutorials, projects and communities ★5614](https://github.com/ChristosChristofidis/awesome-deep-learning)
+- [A curated list of awesome Deep Learning tutorials, projects and communities ★6161](https://github.com/ChristosChristofidis/awesome-deep-learning)
 
 - [Lots of Deep Learning Resources](http://deeplearning4j.org/documentation.html)
 
@@ -538,7 +538,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
             
         - [Simplified Scikit-learn Style Interface to TensorFlow ★3072](https://github.com/tensorflow/skflow)
         
-        - [Learning TensorFlow GitHub Repo ★9 ⏳1Y](https://github.com/chetannaik/learning_tensorflow)
+        - [Learning TensorFlow GitHub Repo ★9 ⏳2Y](https://github.com/chetannaik/learning_tensorflow)
         
         - [Benchmark TensorFlow GitHub](https://github.com/soumith/convnet-benchmarks/issues/66)
         
@@ -1152,7 +1152,7 @@ Elastic Net](https://web.stanford.edu/~hastie/Papers/elasticnet.pdf)
 
 ## Other Tutorials
 
-- For a collection of Data Science Tutorials using R, please refer to [this list ★822](https://github.com/ujjwalkarn/DataScienceR).
+- For a collection of Data Science Tutorials using R, please refer to [this list ★873](https://github.com/ujjwalkarn/DataScienceR).
 
 - For a collection of Data Science Tutorials using Python, please refer to [this list ★2756](https://github.com/ujjwalkarn/DataSciencePython).
 ---

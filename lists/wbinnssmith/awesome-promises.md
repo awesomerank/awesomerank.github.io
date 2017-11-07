@@ -91,9 +91,9 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [loud-rejection ★174 ⏳1Y](https://github.com/sindresorhus/loud-rejection) - Make unhandled promise rejections fail loudly instead of the default silent fail.
 * [hard-rejection ★51](https://github.com/sindresorhus/hard-rejection) - Make unhandled promise rejections fail hard right away instead of the default silent fail
 * [p-queue ★128](https://github.com/sindresorhus/p-queue) - Promise queue with concurrency control
-* [p-break ★6](https://github.com/sindresorhus/p-break) - Break out of a promise chain
+* [p-break ★6 ⏳1Y](https://github.com/sindresorhus/p-break) - Break out of a promise chain
 * [p-lazy ★45](https://github.com/sindresorhus/p-lazy) - Create a lazy promise that defers execution until `.then()` or `.catch()` is called
-* [p-defer ★14](https://github.com/sindresorhus/p-defer) - Create a deferred promise
+* [p-defer ★14 ⏳1Y](https://github.com/sindresorhus/p-defer) - Create a deferred promise
 * [p-if ★33 ⏳1Y](https://github.com/sindresorhus/p-if) - Conditional promise chains
 * [p-tap ★30 ⏳1Y](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
 * [p-map ★126](https://github.com/sindresorhus/p-map) - Map over promises concurrently

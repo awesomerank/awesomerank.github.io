@@ -217,12 +217,13 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [FocusTvButton ★32](https://github.com/dcordero/FocusTvButton) - Light wrapper of UIButton that allows extra customization for tvOS :large_orange_diamond:
 * [TvOSMoreButton ★18](https://github.com/cgoldsby/TvOSMoreButton) - A basic tvOS button which truncates long text with '... More'. :large_orange_diamond:
 * [TvOSPinKeyboard ★88](https://github.com/zattoo/TvOSPinKeyboard) - PIN keyboard for tvOS :large_orange_diamond:
-* [TvOSScribble ★150](https://github.com/dcordero/TvOSScribble) - Handwriting numbers recognizer for Siri Remote :large_orange_diamond:
-* [TvOSCustomizableTableViewCell ★11](https://github.com/zattoo/TvOSCustomizableTableViewCell) - Light wrapper of UITableViewCell that allows extra customization for tvOS :large_orange_diamond:
+* [TvOSScribble ★156](https://github.com/dcordero/TvOSScribble) - Handwriting numbers recognizer for Siri Remote :large_orange_diamond:
+* [TvOSCustomizableTableViewCell ★16](https://github.com/zattoo/TvOSCustomizableTableViewCell) - Light wrapper of UITableViewCell that allows extra customization for tvOS :large_orange_diamond:
 
 ## ARKit
 * [ARKit-CoreLocation ★2826](https://github.com/ProjectDent/ARKit-CoreLocation) -Combines the high accuracy of AR with the scale of GPS data. :large_orange_diamond:
 * [Virtual Objects ★109](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
+* [ARVideoKit ★17](https://github.com/AFathi/ARVideoKit) - Record and capture ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆. :large_orange_diamond:
 
 ## Authentication
 * [Heimdallr.swift ★267](https://github.com/trivago/Heimdallr.swift) - Easy to use OAuth 2 library for iOS, written in Swift. :large_orange_diamond:
@@ -239,7 +240,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [InstagramSimpleOAuth ★82](https://github.com/rbaumbach/InstagramSimpleOAuth) - A quick and simple way to authenticate an Instagram user in your iPhone or iPad app.
 * [DropboxSimpleOAuth ★42](https://github.com/rbaumbach/DropboxSimpleOAuth) - A quick and simple way to authenticate a Dropbox user in your iPhone or iPad app.
 * [BoxSimpleOAuth ★15](https://github.com/rbaumbach/BoxSimpleOAuth) - A quick and simple way to authenticate a Box user in your iPhone or iPad app.
-* [IGAuth ★13](https://github.com/AnderGoig/IGAuth) - A simple way to authenticate Instagram accounts on iOS. :large_orange_diamond:
+* [InstagramLogin ★17](https://github.com/AnderGoig/InstagramLogin) - A simple way to authenticate Instagram accounts on iOS. :large_orange_diamond:
 
 ## Bridging
 * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and macOS applications for iPhone, iPad and Mac, all using the Ruby language.
@@ -261,7 +262,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [RocketData ★518](https://github.com/linkedin/RocketData) - A caching and consistency solution for immutable models. :large_orange_diamond:
 * [PINCache ★1763](https://github.com/pinterest/PINCache) - Fast, non-deadlocking parallel object cache for iOS and macOS
 * [Johnny ★25](https://github.com/zolomatok/Johnny) - Melodic Caching for Swift :large_orange_diamond:
-* [Disk ★1533](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data. 🔶
+* [Disk ★1632](https://github.com/saoudrizwan/Disk) - Delightful framework for iOS to easily persist structs, images, and data. 🔶
 * [Cachyr ★92](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS, written in Swift :large_orange_diamond:
 
 ## Charts
@@ -290,7 +291,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [PieCharts ★308](https://github.com/i-schuetz/PieCharts) - Easy to use and highly customizable pie charts library for iOS. :large_orange_diamond:
 * [CSPieChart ★26](https://github.com/youkchansim/CSPieChart) - iOS PieChart Opensource. This is very easy to use and customizable. :large_orange_diamond:
 * [DDSpiderChart ★27](https://github.com/dadalar/DDSpiderChart) - Easy to use and customizable Spider (Radar) Chart library for iOS written in Swift. :large_orange_diamond:
-* [core-plot ★2485](https://github.com/core-plot/core-plot) - a 2D plotting lib which is highly customizable and capable of drawing many types of plots.
+* [core-plot ★2499](https://github.com/core-plot/core-plot) - a 2D plotting lib which is highly customizable and capable of drawing many types of plots.
 
 ## Code Quality
 * [Bootstrap ★1859](https://github.com/krzysztofzablocki/Bootstrap) - iOS project bootstrap aimed at high quality coding.
@@ -304,7 +305,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Tailor ★1114](https://github.com/sleekbyte/tailor) - Cross-platform static analyzer for Swift that helps you to write cleaner code and avoid bugs.
 * [SwiftCop ★498](https://github.com/andresinaka/SwiftCop) -  SwiftCop is a validation library fully written in Swift and inspired by the clarity of Ruby On Rails Active Record validations. :large_orange_diamond:
 * [Trackable ★127](https://github.com/VojtaStavik/Trackable) - Trackable is a simple analytics integration helper library. It’s especially designed for easy and comfortable integration with existing projects. :large_orange_diamond:
-* [MLeaksFinder ★2604](https://github.com/Tencent/MLeaksFinder) - Find memory leaks in your iOS app at develop time.
+* [MLeaksFinder ★2737](https://github.com/Tencent/MLeaksFinder) - Find memory leaks in your iOS app at develop time.
 * [HeapInspector-for-iOS ★1622](https://github.com/tapwork/HeapInspector-for-iOS) - Find memory issues & leaks in your iOS app without instruments
 * [FBMemoryProfiler ★2770](https://github.com/facebook/FBMemoryProfiler) - iOS tool that helps with profiling iOS Memory usage.
 * [FBRetainCycleDetector ★2650](https://github.com/facebook/FBRetainCycleDetector) - iOS library to help detecting retain cycles in runtime.
@@ -375,7 +376,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Threadly ★40](https://github.com/nvzqz/Threadly) - Type-safe thread-local storage in Swift :large_orange_diamond:
 * [Flow-iOS ★10](https://github.com/roytornado/Flow-iOS) - Make your logic flow and data flow clean and human readable :large_orange_diamond:
 * [Queuer ★657](https://github.com/FabrizioBrancati/Queuer) - A queue manager, built on top of OperationQueue and Dispatch (aka GCD). :large_orange_diamond:
-* [SwiftQueue ★12](https://github.com/lucas34/SwiftQueue) - Job Scheduler with Concurrent run, failure/retry, persistence, repeat, delay and more. :large_orange_diamond:
+* [SwiftQueue ★14](https://github.com/lucas34/SwiftQueue) - Job Scheduler with Concurrent run, failure/retry, persistence, repeat, delay and more. :large_orange_diamond:
 
 ## Core Data
 * [CWCoreData ★71 ⏳2Y](https://github.com/jayway/CWCoreData) - Additions and utilities to make it concurrency easier with the Core Data framework.
@@ -438,8 +439,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Nora ★200](https://github.com/SD10/Nora) - Nora is a Firebase abstraction layer for working with FirebaseDatabase and FirebaseStorage. :large_orange_diamond:
 * [PersistentStorageSerializable ★161](https://github.com/IvanRublev/PersistentStorageSerializable) - Swift library that makes easier to serialize the user's preferences (app's settings) with system User Defaults or Property List file on disk. :large_orange_diamond:
 * [WCDB ★4217](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
-* [StorageKit ★142](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
-* [UserDefaults ★723](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS :large_orange_diamond:
+* [StorageKit ★158](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
+* [UserDefaults ★769](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS :large_orange_diamond:
 * [Default ★34](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support :large_orange_diamond:
 
 
@@ -479,8 +480,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [10Clock ★432](https://github.com/joedaniels29/10Clock) - This Control is a beautiful time-of-day picker heavily inspired by the iOS 10 "Bedtime" timer. :large_orange_diamond:
 * [NSDate-TimeAgo ★1690](https://github.com/kevinlawler/NSDate-TimeAgo) - A "time ago", "time since", "relative date", or "fuzzy date" category for NSDate and iOS, Objective-C, Cocoa Touch, iPhone, iPad.
 * [AnyDate ★141](https://github.com/Kawoou/AnyDate) - Swifty Date & Time API inspired from Java 8 DateTime API. :large_orange_diamond:
-* [TimeZonePicker ★83](https://github.com/gligorkot/TimeZonePicker) - A TimeZonePicker UIViewController similar to the iOS Settings app. :large_orange_diamond:
-* [Time ★373](https://github.com/dreymonde/Time) - Type-safe time calculations in Swift, powered by generics. :large_orange_diamond:[e]
+* [TimeZonePicker ★85](https://github.com/gligorkot/TimeZonePicker) - A TimeZonePicker UIViewController similar to the iOS Settings app. :large_orange_diamond:
+* [Time ★597](https://github.com/dreymonde/Time) - Type-safe time calculations in Swift, powered by generics. :large_orange_diamond:[e]
 
 ## EventBus
 * [SwiftEventBus ★578](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. :large_orange_diamond:
@@ -541,7 +542,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Graphicz ★29](https://github.com/SwiftKitz/Graphicz) - Light-weight, operator-overloading-free complements to CoreGraphics! :large_orange_diamond:
 * [PKCoreTechniques ★142 ⏳2Y](https://github.com/pkluz/PKCoreTechniques) - The code for my CoreGraphics+CoreAnimation talk, held during the 2012 iOS Game Design Seminar at the Technical University Munich.
 * [MPWDrawingContext ★90 ⏳2Y](https://github.com/mpw/MPWDrawingContext) - An Objective-C wrapper for CoreGraphics CGContext
-* [DePict ★28](https://github.com/davidcairns/DePict) - A simple, declarative, functional drawing framework, in Swift! :large_orange_diamond:
+* [DePict ★28 ⏳1Y](https://github.com/davidcairns/DePict) - A simple, declarative, functional drawing framework, in Swift! :large_orange_diamond:
 * [SwiftSVG ★829](https://github.com/mchoe/SwiftSVG) -  A single pass SVG parser with multiple interface options (String, NS/UIBezierPath, CAShapeLayer, and NS/UIView). :large_orange_diamond:
 * [InkKit ★343](https://github.com/shaps80/InkKit) - Write-Once, Draw-Everywhere for iOS and macOS -- Now in Swift! :large_orange_diamond:
 * [YYAsyncLayer ★341](https://github.com/ibireme/YYAsyncLayer) - iOS utility classes for asynchronous rendering and display.
@@ -584,15 +585,16 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [CameraEngine ★417](https://github.com/remirobert/CameraEngine) - 🐒📷 Camera engine for iOS, written in Swift, above AVFoundation. 🐒 :large_orange_diamond:
 * [SwiftyCam ★1008](https://github.com/Awalz/SwiftyCam) -  A Snapchat Inspired iOS Camera Framework written in Swift. :large_orange_diamond:
 * [CameraBackground ★15](https://github.com/yonat/CameraBackground) -  Show camera layer as a background to any UIView. :large_orange_diamond:
+* [Lumina ★44](https://github.com/dokun1/Lumina) - Full service camera that takes photos, videos, streams frames, detects metadata, and streams CoreML predictions :largeorangediamond:
 
 #### Force Touch
 * [QuickActions ★199](https://github.com/ricardopereira/QuickActions) - Swift wrapper for iOS Home Screen Quick Actions (App Icon Shortcuts) :large_orange_diamond:
 * [JustPeek ★58](https://github.com/justeat/JustPeek) - JustPeek is an iOS Library that adds support for Force Touch-like Peek and Pop interactions on devices that do not natively support this kind of interaction. :large_orange_diamond:
-* [PeekView ★97](https://github.com/itsmeichigo/PeekView) - PeekView supports peek, pop and preview actions for iOS devices without 3D Touch capibility. 🔶
+* [PeekView ★100](https://github.com/itsmeichigo/PeekView) - PeekView supports peek, pop and preview actions for iOS devices without 3D Touch capibility. 🔶
 
 #### iBeacon
 * [Proxitee ★15 ⏳2Y](https://github.com/Proxitee/iOS-SDK) - Allows developers to create proximity aware applications utilizing iBeacons & geo fences.
-* [OWUProximityManager ★358 ⏳3Y](https://github.com/ohayon/OWUProximityManager) - iBeacons + CoreBluetooth.
+* [OWUProximityManager ★358 ⏳4Y](https://github.com/ohayon/OWUProximityManager) - iBeacons + CoreBluetooth.
 * [Vicinity ★361 ⏳1Y](https://github.com/Instrument/Vicinity) - Vicinity replicates iBeacons (by analyzing RSSI) and supports broadcasting and detecting low-energy Bluetooth devices in the background.
 * [BeaconEmitter ★801 ⏳3Y](https://github.com/lgaches/BeaconEmitter) - Turn your Mac as an iBeacon.
 * [MOCA Proximity](https://mocaplatform.com/features) - Paid proximity marketing platform that lets you add amazing proximity  experiences to your app.
@@ -639,9 +641,9 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Cupcake ★164](https://github.com/nerdycat/Cupcake) - An easy way to create and layout UI components for iOS. :large_orange_diamond:
 * [MiniLayout ★4](https://github.com/yonat/MiniLayout) - Minimal AutoLayout convenience layer. Program constraints succinctly. :large_orange_diamond:
 * [Bamboo ★36](https://github.com/wordlessj/Bamboo) - Bamboo makes Auto Layout (and manual layout) elegant and concise. :large_orange_diamond:
-* [FlexLayout](https://github.com/lucdion/FlexLayout) - FlexLayout gently wraps the highly optimized [facebook/yoga ★8426](https://github.com/facebook/yoga) flexbox implementation in a concise, intuitive & chainable syntax. 🔶
-* [Layout ★1031](https://github.com/schibsted/layout) - A declarative UI framework for iOS :large_orange_diamond:
-* [CGLayout ★16](https://github.com/k-o-d-e-n/CGLayout) - Powerful autolayout framework based on constraints, that can manage UIView(NSView), CALayer and not rendered views. Not Apple Autolayout wrapper. 🔶
+* [FlexLayout](https://github.com/lucdion/FlexLayout) - FlexLayout gently wraps the highly optimized [facebook/yoga ★8578](https://github.com/facebook/yoga) flexbox implementation in a concise, intuitive & chainable syntax. 🔶
+* [Layout ★1132](https://github.com/schibsted/layout) - A declarative UI framework for iOS :large_orange_diamond:
+* [CGLayout ★20](https://github.com/k-o-d-e-n/CGLayout) - Powerful autolayout framework based on constraints, that can manage UIView(NSView), CALayer and not rendered views. Not Apple Autolayout wrapper. 🔶
 * [YogaKit](https://github.com/facebook/yoga/tree/master/YogaKit) - Powerful layout engine which implements Flexbox. Developed and maintained by Facebook.
 
 #### Location
@@ -714,7 +716,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [GodEye ★2738](https://github.com/zixun/GodEye) - Automatically display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. :large_orange_diamond:
 
 ## Machine Learning
-* [Swift-AI ★5001](https://github.com/Swift-AI/Swift-AI) - Highly optimized Artificial Intelligence and Machine Learning library written in Swift. :large_orange_diamond:
 * [Swift-Brain ★296](https://github.com/vlall/Swift-Brain) - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI. :large_orange_diamond:
 * [AIToolbox ★628](https://github.com/KevinCoble/AIToolbox) - A toolbox of AI modules written in Swift: Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians. :large_orange_diamond:
 * [Tensorflow-iOS](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/examples/ios) - The official Google-built powerful neural network library port for iOS.
@@ -722,7 +723,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Caffe2 ★6016](https://github.com/caffe2/caffe2) - Lightweight, modular, and scalable deep learning framework.
 * [CoreML-samples ★16](https://github.com/ytakzk/CoreML-samples) - Sample code for Core ML using ResNet50 provided by Apple and a custom model generated by coremltools. :large_orange_diamond:
 * [Revolver ★11](https://github.com/petrmanek/Revolver) - A framework for building fast genetic algorithms in Swift. Comes with modular architecture, pre-implemented operators and loads of examples. :large_orange_diamond:
-* [CoreML-Models ★1400](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+* [CoreML-Models ★1647](https://github.com/likedan/Awesome-CoreML-Models) - A collection of unique Core ML Models.
+* [Serrano ★18](https://github.com/pcpLiu/Serrano) - A deep learning library for iOS and macOS. :large_orange_diamond:
 
 ## Maps
 * [Route-me ★1302 ⏳5Y](https://github.com/route-me/route-me) - Open source map library for iOS.
@@ -748,7 +750,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [VectorMath ★154](https://github.com/nicklockwood/VectorMath) - A Swift library for Mac and iOS that implements common 2D and 3D vector and matrix functions, useful for games or vector-based graphics :large_orange_diamond:
 * [Expression ★306](https://github.com/nicklockwood/Expression) - A Mac and iOS library for evaluating numeric expressions at runtime :large_orange_diamond:
 * [Metron ★896](https://github.com/toineheuvelmans/Metron) - Metron is a comprehensive collection of geometric functions and types that extend the 2D geometric primitives provided by CoreGraphics. :large_orange_diamond:
-* [NumericAnnex ★23](https://github.com/xwu/NumericAnnex) - NumericAnnex supplements the numeric facilities provided in the Swift standard library with generic integer algorithms, complex numbers, rational numbers, and pseudorandom number generators (written in, and for, Swift 4) :large_orange_diamond:
+* [NumericAnnex ★25](https://github.com/xwu/NumericAnnex) - NumericAnnex supplements the numeric facilities provided in the Swift standard library with generic integer algorithms, complex numbers, rational numbers, and pseudorandom number generators (written in, and for, Swift 4) :large_orange_diamond:
 
 ## Media
 #### Audio
@@ -775,7 +777,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftySound ★503](https://github.com/adamcichy/SwiftySound) - Super simple library that lets you play sounds with a single line of code (and much more). Written in Swift 3, supports iOS, macOS and tvOS. CocoaPods and Carthage compatible. :large_orange_diamond:
 * [BPMAnalyser ★10](https://github.com/Luccifer/BPM-Analyser) - Fast and simple instrument to get the BPM rate from your audio-files. :large_orange_diamond:
 * [PandoraPlayer ★559](https://github.com/AppliKeySolutions/PandoraPlayer) - A lightweight music player for iOS, based on AudioKit and completely written in Swift :large_orange_diamond:
-* [BPMAnalyser ★2](https://github.com/Luccifer/SonogramView) - Fast and simple instrument to get the BPM rate from your audio-files. :large_orange_diamond:
+* [BPMAnalyser ★4](https://github.com/Luccifer/SonogramView) - Fast and simple instrument to get the BPM rate from your audio-files. :large_orange_diamond:
 
 #### GIF
 * [YLGIFImage ★1678 ⏳1Y](https://github.com/liyong03/YLGIFImage) - Async GIF image decoder and Image viewer supporting play GIF images. It just use very less memory.
@@ -867,9 +869,10 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AZImagePreview ★11](https://github.com/Minitour/AZImagePreview) - A framework that makes image viewing easy. :large_orange_diamond:
 * [FaceCropper ★381](https://github.com/KimDarren/FaceCropper) - Crop faces, inside of your image, with iOS 11 Vision api :large_orange_diamond:
 * [Paparazzo ★481](https://github.com/avito-tech/Paparazzo) - Custom iOS camera and photo picker with editing capabilities :large_orange_diamond:
-* [ZImageCropper ★22](https://github.com/ZaidPathan/ZImageCropper) - A Swift  project to crop image in any shape. :large_orange_diamond:
-* [InitialsImageView ★75](https://github.com/bachonk/InitialsImageView) - An UIImageView extension that generates letter initials as a placeholder for user profile images, with a randomized background color. :large_orange_diamond:
-* [DTPhotoViewerController ★57](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController, inspired by Facebook photo viewer. :large_orange_diamond:
+* [ZImageCropper ★26](https://github.com/ZaidPathan/ZImageCropper) - A Swift  project to crop image in any shape. :large_orange_diamond:
+* [InitialsImageView ★80](https://github.com/bachonk/InitialsImageView) - An UIImageView extension that generates letter initials as a placeholder for user profile images, with a randomized background color. :large_orange_diamond:
+* [DTPhotoViewerController ★66](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController, inspired by Facebook photo viewer. :large_orange_diamond:
+* [LetterAvatarKit ★38](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars written in Swift. :large_orange_diamond:
 
 #### Media Processing
 * [SwiftOCR ★2772](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift :large_orange_diamond:
@@ -901,7 +904,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [XCDYouTubeKit ★2188](https://github.com/0xced/XCDYouTubeKit) - YouTube video player for iOS, tvOS and macOS
 * [AVAnimator](http://www.modejong.com/AVAnimator/) - An open source iOS native library that makes it easy to implement non-trivial video/audio enabled apps.
 * [Periscope VideoViewController ★470 ⏳1Y](https://github.com/gontovnik/Periscope-VideoViewController) - Video view controller with Periscope fast rewind control :large_orange_diamond:
-* [Pip ★180](https://github.com/immrss/Pip) - A video player that support both local and network resource.
+* [Pip ★181](https://github.com/immrss/Pip) - A video player that support both local and network resource.
 * [MHVideoPhotoGallery ★1935](https://github.com/mariohahn/MHVideoPhotoGallery) - A Photo and Video Gallery
 * [PlayerView ★92 ⏳1Y](https://github.com/davidlondono/PlayerView) - Player View is a delegated view using AVPlayer of Swift :large_orange_diamond:
 * [SRGMediaPlayer-iOS ★67](https://github.com/SRGSSR/SRGMediaPlayer-iOS) - The SRG Media Player library for iOS provides a simple way to add a universal audio / video player to any iOS application.
@@ -999,6 +1002,8 @@ Also see [push notifications](#push-notifications)
 * [WANetworkRouting ★10](https://github.com/Wasappli/WANetworkRouting) - An iOS library to route API paths to objects on client side with request, mapping, routing and auth layers
 * [Reactor ★179 ⏳1Y](https://github.com/MailOnline/Reactor) - Powering your RAC architecture :large_orange_diamond:
 * [SWNetworking ★4](https://github.com/isamankumara/skywite) - Powerful high-level iOS, macOS and tvOS networking library. from the creator of SWNetworking 🔶
+* [Digger ★260](https://github.com/cornerAnt/Digger) - Digger is a lightweight download framework that requires only one line of code to complete the file download task
+. :large_orange_diamond:
 
 #### Email
 
@@ -1090,7 +1095,7 @@ Most of these are paid services, some have free tiers.
 * [Motis ★247](https://github.com/mobilejazz/Motis) - Easy JSON to NSObject mapping using Cocoa's key value coding (KVC).
 * [NSTEasyJSON ★5](https://github.com/bernikowich/NSTEasyJSON) - The easiest way to deal with JSON data in Objective-C (similar to SwiftyJSON).
 * [Serpent ★268](https://github.com/nodes-ios/Serpent) - A protocol to serialize Swift structs and classes for encoding and decoding. :large_orange_diamond:
-* [MagicMapper ★25](https://github.com/adrianitech/magic-mapper-swift) - :star2: Super light and easy automatic JSON to model mapper. :large_orange_diamond:
+* [MagicMapper ★25 ⏳1Y](https://github.com/adrianitech/magic-mapper-swift) - :star2: Super light and easy automatic JSON to model mapper. :large_orange_diamond:
 * [FlatBuffersSwift ★468](https://github.com/mzaks/FlatBuffersSwift) - This project brings FlatBuffers (an efficient cross platform serialization library) to Swift. :large_orange_diamond:
 * [CodableAlamofire ★464](https://github.com/Otbivnoe/CodableAlamofire) - An extension for Alamofire that converts JSON data into Decodable objects (Swift 4). :large_orange_diamond:
 * [WAMapping ★9](https://github.com/Wasappli/WAMapping) - A library to turn dictionary into object and vice versa for iOS. Designed for speed!
@@ -1127,7 +1132,7 @@ Most of these are paid services, some have free tiers.
 * [Stripe](https://stripe.com) - Payment integration on your app with PAY. Suitable for people with low knowledge on Backend.
 * [Braintree](https://www.braintreepayments.com) - Free payment processing on your first $50k. Requires Backend.
 * [Venmo ★136](https://github.com/venmo/venmo-ios-sdk) Make and accept payments in your iOS app via Venmo.
-* [Moltin](https://www.moltin.com/ios-ecommerce-sdk/) - Add eCommerce to your app with a simple SDK, so you can create a store and sell physical products, no backend required.
+* [Moltin](https://moltin.com/ios-ecommerce-sdk/) - Add eCommerce to your app with a simple SDK, so you can create a store and sell physical products, no backend required.
 * [PatronKit ★357](https://github.com/MosheBerman/PatronKit) - A framework to add patronage to your apps. :large_orange_diamond:
 * [SwiftyStoreKit ★2475](https://github.com/bizz84/SwiftyStoreKit) - Lightweight In App Purchases Swift framework for iOS 8.0+ and macOS 9.0+ :large_orange_diamond:
 * [InAppFramework ★38 ⏳1Y](https://github.com/sandorgyulai/InAppFramework) - In App Purchase Manager framework for iOS :large_orange_diamond:
@@ -1141,7 +1146,7 @@ Most of these are paid services, some have free tiers.
 * [RMStore ★2027](https://github.com/robotmedia/RMStore) - A lightweight iOS library for In-App Purchases
 * [MFCard ★264](https://github.com/mobilefirstinc/MFCard) - Easily integrate Credit Card payments in iOS App / Customisable Card UI
 * [TPInAppReceipt ★30](https://github.com/tikhop/TPInAppReceipt) - Reading and Validating In App Store Receipt :large_orange_diamond:
-* [iCard ★231](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL :large_orange_diamond:
+* [iCard ★247](https://github.com/eliakorkmaz/iCard) - Bank Card Generator with Swift using SnapKit DSL :large_orange_diamond:
 
 ## Permissions
 * [Proposer ★743](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location). :large_orange_diamond:
@@ -1193,7 +1198,7 @@ Most of these are paid services, some have free tiers.
 * [ACKReactiveExtensions ★8](https://github.com/AckeeCZ/ACKReactiveExtensions) - Useful extensions for ReactiveCocoa :large_orange_diamond:
 * [ReactiveLocation ★14](https://github.com/AckeeCZ/ReactiveLocation) - CoreLocation made reactive :large_orange_diamond:
 * [Hanson ★461](https://github.com/blendle/Hanson) - Lightweight observations and bindings in Swift, with support for KVO and NotificationCenter. :large_orange_diamond:
-* [Observable ★128](https://github.com/roberthein/Observable) - The easiest way to observe values in Swift. 🔶
+* [Observable ★139](https://github.com/roberthein/Observable) - The easiest way to observe values in Swift. 🔶
 
 ## React-Like
 * [Render ★1610](https://github.com/alexdrone/Render) - Swift and UIKit a la React. :large_orange_diamond:
@@ -1221,7 +1226,7 @@ Most of these are paid services, some have free tiers.
 #### Official
 
 * [Spotify ★778](https://github.com/spotify/ios-sdk) Spotify iOS SDK.
-* [SpotifyLogin ★198](https://github.com/spotify/SpotifyLogin) Spotify SDK Login in Swift. :large_orange_diamond:
+* [SpotifyLogin ★208](https://github.com/spotify/SpotifyLogin) Spotify SDK Login in Swift. :large_orange_diamond:
 * [Facebook ★5815](https://github.com/facebook/facebook-ios-sdk) Facebook iOS SDK.
 * [Facebook Swift ★1209](https://github.com/facebook/facebook-sdk-swift) Integrate your iOS apps in Swift with Facebook Platform.
 * [Google Analytics](https://developers.google.com/analytics/devguides/collection/ios/v3/) Google Analytics SDK for iOS
@@ -1258,7 +1263,7 @@ Most of these are paid services, some have free tiers.
 * [UberKit ★96 ⏳1Y](https://github.com/sachinkesiraju/UberKit) - A simple, easy-to-use Objective-C wrapper for the Uber API.
 * [InstagramKit ★904](https://github.com/shyambhat/InstagramKit) - Instagram iOS SDK.
 * [DribbbleSDK ★79 ⏳1Y](https://github.com/agilie/dribbble-ios-sdk) - Dribbble iOS SDK.
-* [objectiveflickr ★728 ⏳1Y](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
+* [objectiveflickr ★728 ⏳2Y](https://github.com/lukhnos/objectiveflickr) - ObjectiveFlickr, a Flickr API framework for Objective-C.
 * [Easy Social ★129 ⏳1Y](https://github.com/pjebs/EasySocial) - Twitter & Facebook Integration.
 * [das-quadrat ★169](https://github.com/Constantine-Fry/das-quadrat) - A Swift wrapper for Foursquare API. iOS and macOS. :large_orange_diamond:
 * [SocialLib ★10 ⏳1Y](https://github.com/darkcl/SocialLib) - SocialLib handles sharing message to multiple social media.
@@ -1276,9 +1281,9 @@ Most of these are paid services, some have free tiers.
 * [Swiftly Salesforce ★58](https://github.com/mike4aday/SwiftlySalesforce) - An easy-to-use framework for building iOS apps that integrate with Salesforce, using Swift and promises. :large_orange_diamond:
 * [Spartan ★22](https://github.com/Daltron/Spartan) - An Elegant Spotify Web API Library Written in Swift for iOS and macOS. :large_orange_diamond:
 * [BigBoard ★38](https://github.com/Daltron/BigBoard) - An Elegant Financial Markets Library Written in Swift that makes requests to Yahoo Finance API's under the hood. :large_orange_diamond:
-* [SwiftyVK ★134](https://github.com/west0r/SwiftyVK) Library for easy interact with VK social network API written in Swift 🔶
-* [ARKKit ★6](https://github.com/sleepdefic1t/ARKKit) - [ARK Ecosystem](https://ark.io) Cryptocurrency API Framework for iOS & macOS, written purely in Swift 4.0. :large_orange_diamond:
-* [SwiftInstagram ★6](https://github.com/AnderGoig/SwiftInstagram) - Swift Client for Instagram API. :large_orange_diamond:
+* [SwiftyVK ★137](https://github.com/SwiftyVK/SwiftyVK) Library for easy interact with VK social network API written in Swift 🔶
+* [ARKKit ★7](https://github.com/sleepdefic1t/ARKKit) - [ARK Ecosystem](https://ark.io) Cryptocurrency API Framework for iOS & macOS, written purely in Swift 4.0. :large_orange_diamond:
+* [SwiftInstagram ★325](https://github.com/AnderGoig/SwiftInstagram) - Swift Client for Instagram API. :large_orange_diamond:
 
 ## Security
 * [cocoapods-keys ★896](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
@@ -1292,7 +1297,7 @@ Most of these are paid services, some have free tiers.
 * [BiometricAuth ★16](https://github.com/vasilenkoigor/BiometricAuth) - Simple framework for biometric authentication (via TouchID) in your application 🔶
 * [SAPinViewController ★15](https://github.com/siavashalipour/SAPinViewController) - Simple and easy to use default iOS PIN screen. This simple library allows you to draw a fully customisable PIN screen same as the iOS default PIN view. My inspiration to create this library was form THPinViewController, however SAPinViewController is completely implemented in Swift. Also the main purpose of creating this library was to have simple, easy to use and fully customisable PIN screen. 🔶
 * [VoiceItAPI1IosSDK ★4](https://github.com/voiceittech/VoiceItAPI1IosSDK) - A super easy way to add Voice Authentication(Biometrics) to your iOS apps, conveniently usable via cocoapods :large_orange_diamond:
-* [TOPasscodeViewController ★193](https://github.com/timoliver/TOPasscodeViewController) - A modal passcode input and validation view controller for iOS
+* [TOPasscodeViewController ★209](https://github.com/timoliver/TOPasscodeViewController) - A modal passcode input and validation view controller for iOS
 
 #### Encryption
 * [AESCrypt-ObjC ★690 ⏳1Y](https://github.com/Gurpartap/AESCrypt-ObjC) - A simple and opinionated AES encrypt / decrypt Objective-C class that just works.
@@ -1435,7 +1440,7 @@ Most of these are paid services, some have free tiers.
 * [robotframework-appiumlibrary ★139](https://github.com/serhatbolsu/robotframework-appiumlibrary) - AppiumLibrary is an appium testing library for RobotFramework.
 * [Cucumber](https://cucumber.io/) - Behavior driver development for iOS.
 * [Kif ★5072](https://github.com/kif-framework/KIF) - An iOS Functional Testing Framework.
-* [Subliminal ★790 ⏳1Y](https://github.com/inkling/Subliminal) - An understated approach to iOS integration testing.
+* [Subliminal ★790 ⏳2Y](https://github.com/inkling/Subliminal) - An understated approach to iOS integration testing.
 * [ios-driver](http://ios-driver.github.io/ios-driver/index.html) - Test any iOS native, hybrid, or mobile web application using Selenium / WebDriver.
 * [Zucchini ★163 ⏳3Y](https://github.com/zucchini-src/zucchini) - A visual iOS testing framework that loves your apps.
 * [Remote ★647](https://github.com/johnno1962/Remote) - Control your iPhone from inside Xcode for end-to-end testing.
@@ -1625,12 +1630,13 @@ Most of these are paid services, some have free tiers.
 * [ViewComposer ★14](https://github.com/Sajjon/ViewComposer) - `let lbl: UILabel = [.text("Hello"), .textColor(.red)]` - Create views using array literal of enum expressing view attributes.
 * [BatteryView ★9](https://github.com/yonat/BatteryView) - Simple battery shaped UIView. 🔶
 * [ShadowView ★205](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView :large_orange_diamond:
-* [Pulley ★571](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI :large_orange_diamond:
+* [Pulley ★622](https://github.com/52inc/Pulley) - A library to imitate the iOS 10 Maps UI :large_orange_diamond:
 * [N8iveKit ★18](https://github.com/n8iveapps/N8iveKit) - A set of frameworks making iOS development more fun. :large_orange_diamond:
 * [Panda ★3](https://github.com/wordlessj/Panda) - Create view hierarchies declaratively. :large_orange_diamond:
-* [NotchKit ★1619](https://github.com/HarshilShah/NotchKit) - A simple way to hide the notch on the iPhone X :large_orange_diamond:
+* [NotchKit ★1742](https://github.com/HarshilShah/NotchKit) - A simple way to hide the notch on the iPhone X :large_orange_diamond:
 * [Overlay ★34](https://github.com/TintPoint/Overlay) - Overlay is a flexible UI framework designed for Swift. It allows you to write CSS like Swift code. :large_orange_diamond:
 * [SwiftyUI ★100](https://github.com/haoking/SwiftyUI) - High performance and lightweight(one class each UI) UIView, UIImage, UIImageView, UIlabel, UIButton, Promise and more. 🔶
+* [NotchToolkit ★25](https://github.com/AFathi/NotchToolkit) - A framework for iOS that allow developers use the iPhone X notch in creative ways. 🔶
 
 #### Activity Indicator
 
@@ -1668,7 +1674,7 @@ Most of these are paid services, some have free tiers.
 * [MBCircularProgressBar ★688](https://github.com/MatiBot/MBCircularProgressBar) -  A circular, animatable & highly customizable progress bar, editable from the Interface Builder using IBDesignable.
 * [WSProgressHUD ★530](https://github.com/devSC/WSProgressHUD) - This is a beautiful hud view for iPhone & iPad
 * [DBMetaballLoading ★54 ⏳1Y](https://github.com/dabing1022/DBMetaballLoading) - A metaball loading written in Swift. :large_orange_diamond:
-* [FillableLoaders ★1734](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths written in Swift :large_orange_diamond:
+* [FillableLoaders ★1747](https://github.com/polqf/FillableLoaders) - Completely customizable progress based loaders drawn using custom CGPaths written in Swift :large_orange_diamond:
 * [PageControls ★628](https://github.com/popwarsweet/PageControls) - This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here :large_orange_diamond:
 * [VHUD ★124](https://github.com/xxxAIRINxxx/VHUD) Simple HUD. :large_orange_diamond:
 * [SwiftSpinner ★1636](https://github.com/icanzilb/SwiftSpinner) - A beautiful activity indicator and modal alert written in Swift using blur effects, translucency, flat and bold design :large_orange_diamond:
@@ -1782,7 +1788,7 @@ Most of these are paid services, some have free tiers.
 * [PresenterKit ★406](https://github.com/jessesquires/PresenterKit) - Swifty view controller presentation for iOS :large_orange_diamond:
 * [Transition ★1756](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions. :large_orange_diamond:
 * [Gagat ★713](https://github.com/Boerworz/Gagat) - A delightful way to transition between visual styles in your iOS applications. :large_orange_diamond:
-* [DeckTransition ★1462](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition :large_orange_diamond:
+* [DeckTransition ★1543](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition :large_orange_diamond:
 
 #### Alert & Action Sheet
 
@@ -1839,8 +1845,9 @@ Most of these are paid services, some have free tiers.
 * [Alertift ★65](https://github.com/sgr-ksmt/Alertift) - Swifty, modern UIAlertController wrapper. :large_orange_diamond:
 * [PCLBlurEffectAlert ★123](https://github.com/hryk224/PCLBlurEffectAlert) - Swift AlertController with UIVisualEffectView. :large_orange_diamond:
 * [JDropDownAlert ★33](https://github.com/trilliwon/JDropDownAlert) - Multi dirction dropdown alert view. 🔶
-* [BulletinBoard ★177](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS :large_orange_diamond:
+* [BulletinBoard ★2002](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS :large_orange_diamond:
 * [Cards ★515](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views. :large_orange_diamond:
+* [CFNotify ★107](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views. :large_orange_diamond:
 
 #### Badge
 * [MIBadgeButton ★285](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons. :large_orange_diamond:
@@ -1867,7 +1874,7 @@ Most of these are paid services, some have free tiers.
 * [WYMaterialButton ★56](https://github.com/Yu-w/WYMaterialButton) - Interactive and fully animated Material Design button for iOS developers.
 * [DynamicButton ★861](https://github.com/yannickl/DynamicButton) - Yet another animated flat buttons in Swift :large_orange_diamond:
 * [OnOffButton ★411](https://github.com/rakaramos/OnOffButton) - Custom On/Off Animated UIButton, written in Swift. By Creativedash :large_orange_diamond:
-* [CRNetworkButton ★603](https://github.com/Cleveroad/CRNetworkButton) - Send Button for iOS :large_orange_diamond:
+* [CRNetworkButton ★603 ⏳1Y](https://github.com/Cleveroad/CRNetworkButton) - Send Button for iOS :large_orange_diamond:
 * [WCLShineButton ★948](https://github.com/imwcl/WCLShineButton) - This is a UI lib for iOS. Effects like shining. :large_orange_diamond:
 * [EasySocialButton ★127](https://github.com/Minitour/EasySocialButton) - An easy way to create beautiful social authentication buttons. :large_orange_diamond:
 * [NFDownloadButton ★261](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. 🔶
@@ -1876,7 +1883,7 @@ Most of these are paid services, some have free tiers.
 * [PMSuperButton ★364](https://github.com/Codeido/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard! 🔶
 * [JSButton ★0](https://github.com/imjog/JSButton) - A fully customisable swift subclass on UIButton which allows you to create beautiful buttons without writing any line of code. 🔶
 * [TransitionButton ★322](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation :large_orange_diamond:
-* [ButtonProgressBar-iOS ★179](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible UIButton subclass with animated loading progress, and completion animation. :large_orange_diamond:
+* [ButtonProgressBar-iOS ★228](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible UIButton subclass with animated loading progress, and completion animation. :large_orange_diamond:
 
 #### Calendar
 * [CVCalendar ★2719](https://github.com/CVCalendar/CVCalendar) - A custom visual calendar for iOS 8+ written in Swift (2.0). :large_orange_diamond:
@@ -1894,8 +1901,9 @@ Most of these are paid services, some have free tiers.
 * [RCalendarPicker ★51](https://github.com/roycms/RCalendarPicker) - RCalendarPicker A date picker control.
 * [CalendarKit ★764](https://github.com/richardtop/CalendarKit) - Fully customizable calendar day view. :large_orange_diamond:
 * [GDPersianCalendar ★4](https://github.com/saeid/GDPersianCalendar) - Customizable and easy to use Persian Calendar component. 🔶
-* [MBCalendarKit ★540](https://github.com/MosheBerman/MBCalendarKit) - A calendar framework for iOS built with customization, and localization in mind.
+* [MBCalendarKit ★541](https://github.com/MosheBerman/MBCalendarKit) - A calendar framework for iOS built with customization, and localization in mind.
 * [PTEventView ★21](https://github.com/amantaneja/PTEventView) - An Event View based on Apple's Event Detail View within Calender.Supports ARC, Autolayout and editing via StoryBoard. 🔶
+* [KDCalendarView ★82](https://github.com/mmick66/CalendarView) - A calendar component for iOS written in Swift 4.0. It features both vertical and horizontal layout (and scrolling) and the display of native calendar events.
 
 #### Form & Settings
 * [Form ★1585](https://github.com/hyperoslo/Form) - The most flexible and powerful way to build a form on iOS
@@ -1904,7 +1912,7 @@ Most of these are paid services, some have free tiers.
 * [YALField ★452](https://github.com/Yalantis/YALField) - Custom Field component with validation for creating easier form-like UI from interface builder.
 * [Former ★932](https://github.com/ra1028/Former) - Former is a fully customizable Swift2 library for easy creating UITableView based form. :large_orange_diamond:
 * [SwiftForms ★1108](https://github.com/ortuman/SwiftForms) - A small and lightweight library written in Swift that allows you to easily create forms. :large_orange_diamond:
-* [APValidators ★114](https://github.com/Alterplay/APValidators) - Codeless solution for form validation in iOS!
+* [APValidators ★114 ⏳1Y](https://github.com/Alterplay/APValidators) - Codeless solution for form validation in iOS!
 * [Formalist ★125](https://github.com/seedco/Formalist) - Declarative form building framework for iOS :large_orange_diamond:
 * [SwiftyFORM ★701](https://github.com/neoneye/SwiftyFORM) - SwiftyFORM is a form framework for iOS written in Swift :large_orange_diamond:
 * [FXForms ★3024](https://github.com/nicklockwood/FXForms) - FXForms is an Objective-C library for easily creating table-based forms on iOS. It is ideal for settings pages, or user data entry tasks.
@@ -1926,7 +1934,7 @@ Most of these are paid services, some have free tiers.
 * [TPKeyboardAvoiding ★5373](https://github.com/michaeltyson/TPKeyboardAvoiding) - A drop-in universal solution for moving text fields out of the way of the keyboard in iOS
 * [YYKeyboardManager ★373](https://github.com/ibireme/YYKeyboardManager) - iOS utility class allows you to access keyboard view and track keyboard animation.
 * [KeyboardMan ★332](https://github.com/nixzhu/KeyboardMan) - KeyboardMan helps you make keyboard animation. :large_orange_diamond:
-* [MakemojiSDK ★83](https://github.com/makemoji/MakemojiSDK) - Emoji Keyboard SDK (iOS)
+* [MakemojiSDK ★83 ⏳1Y](https://github.com/makemoji/MakemojiSDK) - Emoji Keyboard SDK (iOS)
 * [Typist ★818](https://github.com/totocaster/Typist) - Small, drop-in Swift UIKit keyboard manager for iOS apps-helps manage keyboard's screen presence and behavior without notification center. :large_orange_diamond:
 * [KeyboardHideManager ★47](https://github.com/bonyadmitr/KeyboardHideManager) - Codeless manager to hide keyboard by tapping on views for iOS written in Swift :large_orange_diamond:
 * [Toolbar ★349](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar. :large_orange_diamond:
@@ -2004,7 +2012,7 @@ Most of these are paid services, some have free tiers.
 * [AirBar ★124](https://github.com/uptechteam/AirBar) - UIScrollView driven expandable menu written in Swift 3. :large_orange_diamond:
 * [FAPanels ★545](https://github.com/fahidattique55/FAPanels) - FAPanels for transition :large_orange_diamond:
 * [SwipeMenuViewController ★306](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController. :large_orange_diamond:
-* [DTPagerController ★34](https://github.com/tungvoduc/DTPagerController) - A fully customizable container view controller to display set of ViewControllers in horizontal scroller 🔶
+* [DTPagerController ★46](https://github.com/tungvoduc/DTPagerController) - A fully customizable container view controller to display set of ViewControllers in horizontal scroller 🔶
 * [PagingKit ★156](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI It has more flexible layout and design than the other libraries.  🔶
 
 #### Navigation Bar
@@ -2039,7 +2047,7 @@ Most of these are paid services, some have free tiers.
 * [SelectionDialog ★69](https://github.com/kciter/SelectionDialog) - Simple selection dialog. :large_orange_diamond:
 * [AZDialogViewController ★509](https://github.com/Minitour/AZDialogViewController) - A highly customizable alert dialog controller that mimics Snapchat's alert dialog. :large_orange_diamond:
 * [MIBlurPopup ★339](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
-* [LNPopupController ★1923](https://github.com/LeoNatan/LNPopupController) - a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
+* [LNPopupController ★1952](https://github.com/LeoNatan/LNPopupController) - a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
 
 #### Pull to Refresh
 * [DGElasticPullToRefresh ★2938](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift :large_orange_diamond:
@@ -2077,8 +2085,8 @@ Most of these are paid services, some have free tiers.
 * [AppStoreStyleHorizontalScrollView ★566](https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView) - App store style horizontal scroll view. :large_orange_diamond:
 * [PullToDismiss ★184](https://github.com/sgr-ksmt/PullToDismiss) - You can dismiss modal viewcontroller by pulling scrollview or navigationbar in Swift. :large_orange_diamond:
 * [SpreadsheetView ★1983](https://github.com/kishikawakatsumi/SpreadsheetView) - Full configurable spreadsheet view user interfaces for iOS applications. With this framework, you can easily create complex layouts like schedule, gantt chart or timetable as if you are using Excel. :large_orange_diamond:
-*  [VegaScroll ★1248](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9 :large_orange_diamond:
-*  [ShelfView-iOS ★86](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf :large_orange_diamond:
+*  [VegaScroll ★1414](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9 :large_orange_diamond:
+*  [ShelfView-iOS ★162](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf :large_orange_diamond:
 
 #### Slider
 * [VolumeControl ★59](https://github.com/12Rockets/VolumeControl) - Custom volume control for iPhone featuring a well-designed round slider.
@@ -2102,10 +2110,11 @@ Most of these are paid services, some have free tiers.
 * [SectionedSlider ★137](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider. :large_orange_diamond:
 * [MultiSlider ★4](https://github.com/yonat/MultiSlider) - UISlider clone with multiple thumbs and values, optional snap intervals, optional value labels. :large_orange_diamond:
 * [AGCircularPicker ★405](https://github.com/agilie/AGCircularPicker) - AGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter. :large_orange_diamond:
+* [VSVerticalSlider ★4](https://github.com/vsmithers1087/VSVerticalSlider) - An animatable and customizable vertical slider written in Swift4.🔶
 
 #### Splash View
 * [CBZSplashView ★1420](https://github.com/callumboddy/CBZSplashView) - Twitter style Splash Screen View. Grows to reveal the Initial view behind.
-* [SKSplashView ★452](https://github.com/sachinkesiraju/SKSplashView) - Create custom animated splash views similar to the ones in the Twitter, Uber and Ping iOS app.
+* [SKSplashView ★452 ⏳1Y](https://github.com/sachinkesiraju/SKSplashView) - Create custom animated splash views similar to the ones in the Twitter, Uber and Ping iOS app.
 * [RevealingSplashView ★768](https://github.com/PiXeL16/RevealingSplashView) - A Splash view that animates and reveals its content, inspired by Twitter splash :large_orange_diamond:
 
 #### Stepper
@@ -2238,9 +2247,9 @@ Most of these are paid services, some have free tiers.
 * [CollapsibleTableSectionViewController ★46](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A swift library to support collapsible sections in a table view. :large_orange_diamond:
 * [CollapsibleTable ★20](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views. 🔶
 * [ExpandableCell ★171](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Awesome expandable, collapsible tableview cell for iOS written in Swift 3 🔶
-* [DataSources ★305](https://github.com/muukii/DataSources) - Type-safe data-driven List-UI Framework. (We can also use ASCollectionNode) 🔶
+* [DataSources ★315](https://github.com/muukii/DataSources) - Type-safe data-driven List-UI Framework. (We can also use ASCollectionNode) 🔶
 * [KDDragAndDropCollectionView ★247](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging & Dropping data across multiple UICollectionViews. 🔶
-* [ListPlaceholder ★205](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views :large_orange_diamond:
+* [ListPlaceholder ★252](https://github.com/malkouz/ListPlaceholder) - ListPlaceholder is a swift library allows you to easily add facebook style animated loading placeholder to your tableviews or collection views :large_orange_diamond:
 * [SectionScrubber ★126](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections :large_orange_diamond:
 
 #### Tag
@@ -2294,8 +2303,8 @@ Most of these are paid services, some have free tiers.
 * [TaniwhaTextField ★18](https://github.com/iceman201/TaniwhaTextField) - TaniwhaTextField is a lightweight and beautiful swift textfield framework. It has float label pattern, and also you can highly customise it. it's written with Swift. 🔶
 * [InstantSearch iOS ★376](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search applications on iOS. 🔶
 * [SearchTextField ★222](https://github.com/apasccon/SearchTextField) - UITextField subclass with autocompletion suggestions list  :large_orange_diamond:
-* [PYSearch ★2452](https://github.com/iphone5solo/PYSearch) - An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad).
-* [styled-text ★194](https://github.com/blueapron/styled-text) - Declarative text styles and streamlined Dynamic Type support for iOS. 🔶
+* [PYSearch ★2508](https://github.com/ko1o/PYSearch) - An elegant search controller which replaces the UISearchController for iOS (iPhone & iPad).
+* [styled-text ★202](https://github.com/blueapron/styled-text) - Declarative text styles and streamlined Dynamic Type support for iOS. 🔶
 
 #### Web View
 * [Otafuku ★48 ⏳1Y](https://github.com/tasanobu/Otafuku) - Otafuku provides utility classes to use WKWebView in Swift. :large_orange_diamond:
@@ -2373,8 +2382,8 @@ Most of these are paid services, some have free tiers.
  * [MMWormhole ★3303](https://github.com/mutualmobile/MMWormhole) - Message passing between iOS apps and extensions.
  * [DefaultStringConvertible ★129](https://github.com/jessesquires/DefaultStringConvertible) - A default CustomStringConvertible implementation for Swift types 🔶[e]
  * [FluxCapacitor ★90](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias. 🔶
- * [VTAcknowledgementsViewController ★772](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
- * [Closures ★3](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation. 🔶
+ * [VTAcknowledgementsViewController ★808](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
+ * [Closures ★1181](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation. 🔶
 
 ## VR
 * [VR Toolkit iOS ★75 ⏳1Y](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS :large_orange_diamond:
@@ -2384,7 +2393,7 @@ Most of these are paid services, some have free tiers.
 ## Walkthrough / Intro / Tutorial
 * [Onboard ★5792](https://github.com/mamaral/Onboard) - Easily create a beautiful and engaging onboarding experience with only a few lines of code.
 * [EAIntroView ★3490](https://github.com/ealeksandrov/EAIntroView) - Highly customizable drop-in solution for introduction views.
-* [MYBlurIntroductionView ★1538](https://github.com/MatthewYork/MYBlurIntroductionView) - A super-charged version of MYIntroductionView for building custom app introductions and tutorials.
+* [MYBlurIntroductionView ★1538 ⏳1Y](https://github.com/MatthewYork/MYBlurIntroductionView) - A super-charged version of MYIntroductionView for building custom app introductions and tutorials.
 * [BWWalkthrough ★2474](https://github.com/ariok/BWWalkthrough) - A class to build custom walkthroughs for your iOS App. :large_orange_diamond:
 * [GHWalkThrough ★738](https://github.com/GnosisHub/GHWalkThrough) - A UICollectionView backed drop-in component for introduction views.
 * [ICETutorial ★824](https://github.com/icepat/ICETutorial) - A nice tutorial like the one introduced in the Path 3.X App.
@@ -2426,7 +2435,7 @@ Most of these are paid services, some have free tiers.
  * [AlecrimAsyncKit ★66](https://github.com/Alecrim/AlecrimAsyncKit) - Bringing async and await to Swift world with some flavouring. :large_orange_diamond:
  * [GrandSugarDispatch ★31 ⏳1Y](https://github.com/jessesquires/GrandSugarDispatch) - Syntactic sugar for Grand Central Dispatch (GCD) :large_orange_diamond:
  * [Threader ★39 ⏳1Y](https://github.com/mitchtreece/Threader) - Pretty GCD calls and easier code execution.
- * [Dispatch ★170 ⏳1Y](https://github.com/JARMourato/Dispatch) - Just a tiny library to make using GCD easier and intuitive :large_orange_diamond:
+ * [Dispatch ★170](https://github.com/JARMourato/Dispatch) - Just a tiny library to make using GCD easier and intuitive :large_orange_diamond:
  * [GCDTimer ★163](https://github.com/hemantasapkota/GCDTimer) - Well tested Grand Central Dispatch (GCD) Timer in Swift. :large_orange_diamond:
  * [Chronos-Swift ★249](https://github.com/comyar/Chronos-Swift) - :hourglass: Grand Central Dispatch Utilities :large_orange_diamond:
  * [Me ★193](https://github.com/pascalbros/Me) - A super slim solution to the nested asynchronous computations. :large_orange_diamond:
@@ -2438,6 +2447,8 @@ Most of these are paid services, some have free tiers.
 * [amaro ★381](https://github.com/crushlovely/Amaro) - iOS Boilerplate full of delights.
 * [chairs ★235 ⏳2Y](https://github.com/orta/chairs) - Swap around your iOS Simulator Documents
 * [SwiftPlate ★1217](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform Swift framework projects from the command line. :large_orange_diamond:
+* [xclint ★25](https://github.com/xcodeswift/xclint) - Validate the state of your Xcode projects.
+* [xcproj ★390](https://github.com/xcodeswift/xcproj) - Read and update Xcode projects.
 
 # Dependency / Package Manager
 * [CocoaPods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
@@ -2514,7 +2525,7 @@ Most of these are paid services, some have free tiers.
 * [AppDevKit ★1318](https://github.com/yahoo/AppDevKit) - AppDevKit is an iOS development library that provides developers with useful features to fulfill their everyday iOS app development needs.
 * [Tweaks ★4627](https://github.com/facebook/Tweaks) - An easy way to fine-tune, and adjust parameters for iOS apps in development.
 * [FengNiao ★1295](https://github.com/onevcat/FengNiao) - A command line tool for cleaning unused resources in Xcode. :large_orange_diamond:
-* [LifetimeTracker ★978](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner. :large_orange_diamond:
+* [LifetimeTracker ★1327](https://github.com/krzysztofzablocki/LifetimeTracker) - Find retain cycles / memory leaks sooner. :large_orange_diamond:
 * [Plank ★354](https://github.com/pinterest/plank) - A tool for generating immutable model objects.
 
 # Rapid Development
@@ -2651,13 +2662,15 @@ Most of these are paid services, some have free tiers.
 * [swift-project-template ★22](https://github.com/artemnovichkov/swift-project-template) - Template for iOS Swift project generation.
 * [Swift-VIPER-Module ★209](https://github.com/Juanpe/Swift-VIPER-Module) - Xcode template for create modules with VIPER Architecture written in Swift 3 :large_orange_diamond:
 * [ViperC ★31](https://github.com/abdullahselek/ViperC) - Xcode template for VIPER Architecture for both Objective-C and Swift :large_orange_diamond:
+* [XcodeCodeSnippets ★7](https://github.com/ismetanin/XcodeCodeSnippets) - A set of code snippets for iOS development, includes code and comments snippets.
 
 # Reference
 * [Swift Cheat Sheet ★688](https://github.com/iwasrobbed/Swift-CheatSheet) - A quick reference cheat sheet for common, high level topics in Swift. :large_orange_diamond:
 * [Objective-C Cheat Sheet ★942](https://github.com/iwasrobbed/Objective-C-CheatSheet) - A quick reference cheat sheet for common, high level topics in Objective-C.
 * [SwiftSnippets ★99](https://github.com/hyperoslo/SwiftSnippets) - A collection of Swift snippets to be used in Xcode
 * [App Store Checklist ★16](https://github.com/whitef0x0/app-store-checklist) - A checklist of what to look for before submitting your app to the App Store.
-* [whats-new-in-swift-4 ★1702](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0. :large_orange_diamond:
+* [whats-new-in-swift-4 ★1759](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0. :large_orange_diamond:
+* [WWDC17-Recap ★93](https://github.com/erenkabakci/WWDC17-Recap) - Markdown collection repo for the sessions at WWDC17.
 
 # Style Guides
 * [NY Times - Objective C Style Guide ★4510](https://github.com/NYTimes/objective-c-style-guide) - The Objective-C Style Guide used by The New York Times.
@@ -2829,10 +2842,10 @@ Other amazingly awesome lists can be found in the
 * [Awesome-iOS-Companies](https://ioscompanies.info/about/welcome) - A curated geographical directory of companies doing iOS development.
 * [iOS-Playbook ★70](https://github.com/bakkenbaeck/iOS-handbook) - Guidelines and best practices for excellent iOS apps
 * [iOS-Learning-Materials ★53](https://github.com/jVirus/iOS-Learning-Materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
-* [Awesome-iOS-Twitter ★136](https://github.com/carolanitz/Awesome-iOS-Twitter) - A curated list of awesome iOS Twitter accounts
-* [Marketing for Engineers ★1840](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
-* [Awesome-ARKit ★2661](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.
-* [CocoaConferences ★694](https://github.com/Lascorbe/CocoaConferences) - List of cocoa conferences for iOS & macOS developers.
+* [Awesome-iOS-Twitter ★150](https://github.com/carolanitz/Awesome-iOS-Twitter) - A curated list of awesome iOS Twitter accounts
+* [Marketing for Engineers ★3938](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
+* [Awesome-ARKit ★3068](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.
+* [CocoaConferences ★719](https://github.com/Lascorbe/CocoaConferences) - List of cocoa conferences for iOS & macOS developers.
 
 # Contributing and License
  * [See the guide](https://github.com/vsouza/awesome-ios/blob/master/.github/CONTRIBUTING.md)

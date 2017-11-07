@@ -87,7 +87,7 @@ Inspired by the `awesome-*` trend on GitHub.
     * [xgrid](https://github.com/xblox/xgrid) - dgrid extensions.
 * [grunt-dojo ★35 ⏳1Y](https://github.com/phated/grunt-dojo) - Build Dojo inside a Grunt task
 * [grunt-dojo2 ★4](https://github.com/dojo/grunt-dojo2) - Build Dojo2 inside a Grunt task
-* [karma-dojo ★1 ⏳3Y](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit.
+* [karma-dojo ★1 ⏳4Y](https://github.com/garcimouche/karma-dojo) - A [Karma](http://karma-runner.github.io/) plugin. Adapter for Dojo Toolkit.
 * [Leadfoot ★151](https://github.com/theintern/leadfoot) - A JavaScript client library that brings cross-platform consistency to the Selenium WebDriver API
 * [Sitepen dstore ★259](https://github.com/SitePen/dstore) - Data infrastructure framework, providing the tools for modelling and interacting with data collections and objects.
 * [xaction](https://github.com/xblox/xaction) - Component providing UI and logic for user actions.

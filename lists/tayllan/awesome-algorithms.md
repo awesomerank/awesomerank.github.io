@@ -78,29 +78,29 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 *Implementations of the most classic algorithms in a wide variety of programming languages*
 
-* [C ★953 ⏳1Y](https://github.com/fragglet/c-algorithms)
+* [C ★973 ⏳1Y](https://github.com/fragglet/c-algorithms)
 * [CoffeeScript ★34](https://github.com/BrunoRB/algorithms.coffee)
 * C#
     * [by @shkolovy](https://github.com/shkolovy/classic-algorithms)
     * [by @aalhour ★1274](https://github.com/aalhour/C-Sharp-Algorithms)
     * [by @justcoding121 ★17](https://github.com/justcoding121/Advanced-Algorithms)
 * C++
-    * [by @xtaci ★1761](https://github.com/xtaci/algorithms)
+    * [by @xtaci ★1827](https://github.com/xtaci/algorithms)
     * [by @PetarV- ★112](https://github.com/PetarV-/Algorithms)
     * [by @faheel ★98](https://github.com/faheel/Algos)
-* [Erlang ★83](https://github.com/aggelgian/erlang-algorithms)
+* [Erlang ★84](https://github.com/aggelgian/erlang-algorithms)
 * [Go ★1217 ⏳2Y](https://github.com/arnauddri/algorithms)
 * Java
-    * [by @jpa99 ★5](https://github.com/jpa99/Algorithms)
+    * [by @jpa99 ★8](https://github.com/jpa99/Algorithms)
     * [by @phishman3579 ★1560](https://github.com/phishman3579/java-algorithms-implementation)
     * [by @asmolich ★7 ⏳3Y](https://github.com/asmolich/algorithms)
     * [by @psjava ★38 ⏳1Y](https://github.com/psjava/psjava)
     * [by @jeandersonbc ★12](https://github.com/jeandersonbc/algorithms-and-ds)
     * [by @pedrovgs ★2176](https://github.com/pedrovgs/Algorithms)
-    * [by @Erdos-Graph-Framework ★63](https://github.com/Erdos-Graph-Framework/Erdos)
+    * [by @Erdos-Graph-Framework ★64](https://github.com/Erdos-Graph-Framework/Erdos)
     * [by @deepak-malik ★4](https://github.com/deepak-malik/Data-Structures-In-Java)
 * JavaScript
-    * [by @jiayihu ★1884](https://github.com/jiayihu/pretty-algorithms)
+    * [by @jiayihu ★1905](https://github.com/jiayihu/pretty-algorithms)
     * [by @felipernb ★2659](https://github.com/felipernb/algorithms.js)
     * [by @nzakas ★4917 ⏳1Y](https://github.com/nzakas/computer-science-in-javascript)
     * [by @duereg ★573](https://github.com/duereg/js-algorithms)
@@ -108,12 +108,12 @@ If you want to contribute, please read the [contribution guidelines](https://git
 * Objective-C
     * [by @ EvgenyKarkan ★2264](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
-    * [by @nryoung ★2463](https://github.com/nryoung/algorithms)
+    * [by @nryoung ★2509](https://github.com/nryoung/algorithms)
     * [by @prakhar1989 ★1911](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce ★210](https://github.com/laurentluce/python-algorithms)
     * [by @nbro ★17](https://github.com/nbro/ands)
 * Ruby
-    * [by @kanwei ★2180](https://github.com/kanwei/algorithms)
+    * [by @kanwei ★2193](https://github.com/kanwei/algorithms)
     * [by @sagivo ★2870](https://github.com/sagivo/algorithms)
     * [by @kumar91gopi ★56](https://github.com/kumar91gopi/Algorithms-and-Data-Structures-in-Ruby)
 * [Scala ★899](https://github.com/vkostyukov/scalacaster)

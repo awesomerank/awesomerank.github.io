@@ -108,10 +108,10 @@ These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a 
 
 - [Vim](http://www.vim.org) [![Vim][awesome] ★7459](https://github.com/mhinz/vim-galore) ![foss][foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss][foss]
-	- [LaTeX Live Preview ★232](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss]
+	- [LaTeX Live Preview ★247](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss]
 
 - [IntelliJ](https://www.jetbrains.com/idea/)
-	- [TeXiFy-IDEA ★28](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss]
+	- [TeXiFy-IDEA ★36](https://github.com/Ruben-Sten/TeXiFy-IDEA) - Free LaTeX plugin for IntelliJ IDEA. ![foss][foss]
 
 ### Online editors
 
@@ -137,7 +137,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 
 - [Arara](https://www.ctan.org/pkg/arara) ([GitHub repo ★161](https://github.com/cereda/arara)) - Simple tool that allows you to specify which tools to call inside your document and it can be extended quite easily. ![foss][foss]
 - [latexmk](https://www.ctan.org/pkg/latexmk) - Build tool that is the commonly used by many LaTeX editors (LaTeXing, TeXShop, ...) to build your LaTeX files. ![foss][foss]
-- [latex-makefile ★1](https://github.com/alejandrogallo/latex-makefile) - `Makefile` based build tool that attempts to be as general and lightweight as possible. ![foss][foss]
+- [latex-makefile ★2](https://github.com/alejandrogallo/latex-makefile) - `Makefile` based build tool that attempts to be as general and lightweight as possible. ![foss][foss]
 
 ## Misc. Tools
 
@@ -152,7 +152,7 @@ Compiling LaTeX documents can be tedious, build tools help you to manage the com
 ## LaTeX-compatible GUI tools
 
 - [TikzEdt](http://www.tikzedt.org) (also:  [GitHub repo ★2 ⏳2Y](https://github.com/hchapman/tikzedt)) - WYSIWYG and text-based editor for TikZ pictures. ![foss][foss]
-- [TikZ-Editor ★82](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![Mac][Mac] ![Linux][Linux] ![foss][foss]
+- [TikZ-Editor ★83](https://github.com/fredokun/TikZ-Editor) - Live-previewing editor for TikZ figures. ![Mac][Mac] ![Linux][Linux] ![foss][foss]
 - [IPE](http://ipe.otfried.org) - Drawing tool that integrates well with LaTeX commands and documents. ![foss][foss]
 - [GeoGebra](http://www.geogebra.org/cms/) - Cross-platform geometry tool with output to TikZ. ![foss][foss]
 - [Dia](https://wiki.gnome.org/Apps/Dia) - Cross-platform diagramming tool that can export to PSTricks and MetaPost code. ![foss][foss]
@@ -184,12 +184,12 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [tkz](http://altermundus.com/pages/tkz/index.html) - A collection of TikZ-based packages to make plots and graphs.
 - [pgfplots](http://pgfplots.sourceforge.net) - A truely awesome plotting library on top of and in the style of TikZ/pgf. This library can load in CSV data files, perform some calculations and create beautiful plots.
 - [A very minimal introduction to TikZ (PDF)](http://bit.ly/gNfVn9) - A short introductory document to the world of TikZ, written by Jacques Crémer.
-- [PetarV-/TikZ ★17](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
+- [PetarV-/TikZ ★20](https://github.com/PetarV-/TikZ) - A collection of publication-ready PGF/TikZ figures by Petar Veličković.
 
 ## Templates
 
 - [LaTeX templates](http://www.latextemplates.com) - Collection of templates for papers, posters, resumés, theses, books, presentations, … for LaTeX.
-- [Ultimate Beamer Theme List ★182 ⏳1Y](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
+- [Ultimate Beamer Theme List ★198](https://github.com/martinbjeldbak/ultimate-beamer-theme-list) - Links to various beamer themes along with PDF previews.
 
 ## Symbols
 
@@ -205,7 +205,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 - [TeXample](http://www.texample.net) - Blog about LaTex, with a big collection of TikZ figures.
 - [LaTeX cookbook](http://latex-cookbook.net) - Sibling of TeXample, contains quite a bit of example code.
 - [Visual FAQ](http://mirrors.ctan.org/info/visualFAQ/visualFAQ.pdf) - Typesetting issues and a link to appropriate TeX FAQ answers.
-- [MartinThoma's LaTeX example ★328](https://github.com/MartinThoma/LaTeX-examples) - GitHub repository containing example LaTeX documents.
+- [MartinThoma's LaTeX example ★348](https://github.com/MartinThoma/LaTeX-examples) - GitHub repository containing example LaTeX documents.
 - [MacTeX Wiki: TeX Extras](http://mactex-wiki.tug.org/wiki/index.php/TeX_Extras) - Overview of useful tools for LaTeX. Many of them are specific for Mac, but quite a bit are useful for other platforms as well.
 - [LaTeX community](http://latex-community.org/index.php) - Forum and blog about LaTeX.
 - German: [Neue TeX FAQ](http://texfragen.de/) - A modern and updated LaTeX FAQ in German.

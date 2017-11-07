@@ -15,7 +15,7 @@ title: Awesome Rank for quozd/awesome-dotnet
 
 A collection of awesome .NET libraries, tools, frameworks, and software.
 
-Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks ★1322](https://github.com/dreikanter/ruby-bookmarks).
+Inspired by [awesome-ruby](https://github.com/markets/awesome-ruby), [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [ruby-bookmarks ★1334](https://github.com/dreikanter/ruby-bookmarks).
 
 Contributions are always welcome! Please take a look at the [contribution guidelines and quality standard](https://github.com/quozd/awesome-dotnet/blob/master/CONTRIBUTING.md) pages first. We accept proprietary and commercial software too.
 
@@ -318,7 +318,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [Streamstone ★159](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 * [Ignite ★1240](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 * [Yessql ★318](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
-* [JsonFlatFileDataStore ★18](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
+* [JsonFlatFileDataStore ★20](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
 
 ## Database Drivers
 
@@ -436,7 +436,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
  * [SharpMap](https://github.com/SharpMap) An easy-to-use mapping library for use in web and desktop applications
  * [OsmSharp](http://www.osmsharp.com/) - C# library to work with OpenStreetMap (OSM) data. Provides reading, writing and route-planning for OSM data.
  * [GeoJSON4EntityFramework ★8](https://github.com/alatas/GeoJSON4EntityFramework) - A library to create GeoJSON from Entity Framework Spatial Data or Well-Known Text (WKT) inputs.
- * [GeoJSON.NET ★148](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
+ * [GeoJSON.NET ★149](https://github.com/GeoJSON-Net/GeoJSON.Net) - .Net library for GeoJSON types & corresponding Json.Net (de)serializers
 
 ## Git Tools
 
@@ -447,7 +447,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [LibGit2Sharp ★1284](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .NET and Mono.
 * [NGit ★240](https://github.com/mono/ngit) - NGit is a port of JGit to C#
 * [posh-git ★2476](https://github.com/dahlbyk/posh-git) - A PowerShell environment for Git
-* [RepoZ ★2](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
+* [RepoZ ★3](https://github.com/awaescher/RepoZ) - A Git repository information aggregator with Windows Explorer & CLI-enhancements
 * [Git Credential Manager for Windows ★1086](https://github.com/Microsoft/Git-Credential-Manager-for-Windows) - Helps solving issues of credentials, made by Microsoft
 
 ## Graphics
@@ -482,7 +482,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [FastColoredTextBox ★494](https://github.com/PavelTorgashov/FastColoredTextBox) - Fast Colored TextBox is text editor component for .NET. Allows you to create custom text editor with syntax highlighting. It works well with small, medium, large and very-very large files.
 * [Avalonia ★2862](https://github.com/AvaloniaUI/Avalonia) - A multi-platform .NET UI framework (formerly known as Perspex).
 * [Modern UI for WPF - MUI ★1277](https://github.com/firstfloorsoftware/mui) - Set of controls and styles to convert WPF applications into a great looking Modern UI apps.
-* [WinApi ★64](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
+* [WinApi ★86](https://github.com/prasannavl/WinApi) - A simple, direct, ultra-thin CLR library for high-performance Win32 Native Interop with automation, windowing, DirectX, OpenGL and Skia helpers.
 * [Neutronium ★159](https://github.com/NeutroniumCore/Neutronium) - Build .NET desktop applications using HTML, CSS, javascript and MVVM bindings such as with WPF.
 
 ## HTML and CSS
@@ -546,7 +546,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [CppSharp ★865](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 * [Sharpen ★255 ⏳1Y](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
 * [CXXI ★175 ⏳5Y](https://github.com/mono/cxxi) - C++ interop framework
-* [pythonnet ★863](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
+* [pythonnet ★894](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
 * [LegacyWrapper ★6](https://github.com/CodefoundryDE/LegacyWrapper) - LegacyWrapper uses a wrapper process to call DLLs from a process of the opposing architecture (x86 or AMD64).
 
 ## IoC
@@ -633,7 +633,7 @@ metadata in media files, including video, audio, and photo formats
 * [Foundatio ★615](https://github.com/FoundatioFx/Foundatio#metrics) - A common interface with in-memory, Redis, StatsD, and Metrics.NET implementations.
 
 ## Micro Framework
-* [.NET Micro Framework Interpreter ★341](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
+* [.NET Micro Framework Interpreter ★341 ⏳1Y](https://github.com/NETMF/netmf-interpreter) - Microsoft® .NET Micro Framework (NETMF) for developing embedded applications on small devices using Visual Studio
 
 ## Minification
 
@@ -677,7 +677,7 @@ metadata in media files, including video, audio, and photo formats
 * [ReactiveUI ★3297](https://github.com/reactiveui/reactiveui) - An MVVM framework for .NET that integrates the Reactive Extensions (Rx) framework, enabling developers to build elegant, testable applications using WPF, Windows Store Apps, WP8 or Xamarin.
 * [Okra App Framework](http://okraframework.github.io) - An app centric MVVM framework for Windows 8.1 built with dependency injection in mind, including a full set of Visual Studio MVVM templates.
 * [Prism ★1774](https://github.com/PrismLibrary/Prism) - A cross-platform desktop and mobile MVVM development framework.
-* [Win Application Framework (WAF) ★163](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
+* [Win Application Framework (WAF) ★166](https://github.com/jbe2277/waf) - A lightweight Framework that helps you to create well structured WPF and UWP Applications. It supports you in applying a Layered Architecture and the Model-View-ViewModel pattern.
 * [MVVMCross ★2232](https://github.com/MvvmCross/MvvmCross) - Cross-platform mvvm mobile development framework for WPF, Silverlight for WP7 and WP8, Mono for Android, MonoTouch for iOS, Windows Universal projects (WPA8.1 and Windows 8.1 Store apps). Makes extensive use of Portable Class Libraries (PCL) to provide maintainable cross platform C# native applications.
 * [Stylet ★88](https://github.com/canton7/stylet) - Minimal MVVM framework inspired by Caliburn Micro, with good documentation, high test coverage, and its own IoC container
 * [Gemini ★458](https://github.com/tgjones/gemini) - IDE framework similar in concept to the Visual Studio Shell. Built on WPF, AvalonDock, and Caliburn Micro.
@@ -699,12 +699,12 @@ metadata in media files, including video, audio, and photo formats
 * [EPPlus](http://epplus.codeplex.com/) - EPPlus is a .NET library that reads and writes Excel 2007/2010 files using the Open Office XML format (xlsx).
 * [Open XML SDK ★1374](https://github.com/officedev/open-xml-sdk) - The Open XML SDK provides open-source libraries for working with Open XML Documents (DOCX, XLSX, and PPTX).
 * [DocX](https://github.com/WordDocX/DocX) - DocX is a .NET library that allows developers to manipulate Word 2007/2010/2013 files, it does not require Microsoft Word or Office to be installed.
-* [ExcelDataReader ★771](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
+* [ExcelDataReader ★815](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files (2.0-2007).
 
 ## ORM
 
-* [Entity Framework 6 ★495](https://github.com/aspnet/EntityFramework6) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
-* [Entity Framework Core ★5054](https://github.com/aspnet/EntityFrameworkCore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
+* [Entity Framework 6 ★527](https://github.com/aspnet/EntityFramework6) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
+* [Entity Framework Core ★5159](https://github.com/aspnet/EntityFrameworkCore) - Object-relational mapper that enables .NET developers to work with relational data using domain-specific objects
 * [Dapper ★7289](https://github.com/StackExchange/Dapper) - A simple object mapper for .NET by [StackExchange](https://stackexchange.github.io/)
 * [Dapper Extensions ★807](https://github.com/tmsmith/Dapper-Extensions) - Small library that complements Dapper by adding basic CRUD operations (Get, Insert, Update, Delete) for your POCOs
 * [Dapper.FastCRUD ★167](https://github.com/MoonStorm/Dapper.FastCRUD) - The fastest micro-ORM extension for Dapper
@@ -742,7 +742,7 @@ metadata in media files, including video, audio, and photo formats
 ## Protocols
 
 * [SSH.NET ★741](https://github.com/sshnet/SSH.NET) - A Secure Shell (SSH) library for .NET, optimized for parallelism. Provides SSH commands, SFTP/SCP uploads and downloads, and SOCKS4/SOCKS5/HTTP proxies.
-* [FluentFTP ★288](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
+* [FluentFTP ★314](https://github.com/robinrodricks/FluentFTP) - An FTP and FTPS library for .NET, optimized for speed. Provides extensive FTP commands, file uploads/downloads and FTP proxies.
 * [SharpSnmpLib](https://docs.sharpsnmp.com/en/latest/) - An open source SNMP implementation for .NET/Mono/Xamarin. Versioin 1, 2c, and 3 are supported.
 
 ## Push Notifications
@@ -813,7 +813,7 @@ metadata in media files, including video, audio, and photo formats
 * [FileHelpers ★501](https://github.com/MarcosMeli/FileHelpers) - free and easy to use .NET library to import or export data from fixed length or delimited records in files, strings or streams.
 * [FsPickler ★205](https://github.com/mbraceproject/FsPickler) - A fast multi-format message serializer for .NET
 * [Migrant ★41](https://github.com/antmicro/Migrant) - Fast and flexible serialization framework usable on undecorated classes.
-* [Utf8Json ★541](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
+* [Utf8Json ★628](https://github.com/neuecc/Utf8Json) - Fast and Zero Allocation JSON Serializer for C#(.NET, .NET Core, Unity and Xamarin), this serializer write/read directly to UTF8 binary so boostup performance.
 
 ## SMS and Phone calls
 
@@ -874,7 +874,7 @@ metadata in media files, including video, audio, and photo formats
 
 * [Fiddler](http://www.telerik.com/fiddler) -  The free web debugging proxy for any browser, system or platform
 * [Open Live Writer ★2053](https://github.com/OpenLiveWriter/OpenLiveWriter) - Blog writer which integrated with WordPress, Blogger, et. al. Open Live Writer makes it easy to write, preview, and post to your blog. For more information see http://openlivewriter.org .
-* [CodeHub ★10687](https://github.com/CodeHubApp/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
+* [CodeHub ★11334](https://github.com/CodeHubApp/CodeHub) - CodeHub is the best way to browse and maintain your GitHub repositories on any iOS device!
 * [ShareX ★6503](https://github.com/ShareX/ShareX) - ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
 * [Myrtille ★308](https://github.com/cedrozor/myrtille) - A native HTML4/5 Remote Desktop Protocol client, HTTP gateway written in C# for .NET
 * [Opserver ★3175](https://github.com/Opserver/Opserver) - Stack Exchange's Monitoring System

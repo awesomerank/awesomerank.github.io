@@ -30,6 +30,7 @@ WebExtensions are a cross-browser system for developing browser add-ons. To a la
 - [Browser support for WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions/Browser_support_for_JavaScript_APIs) - Compatibility table for Chrome, Edge, Firefox, and Opera.
 - [Mozilla Firefox API support](http://arewewebextensionsyet.com) - Detailed WebExtensions support for Firefox.
 - [Microsoft Edge API support](https://docs.microsoft.com/en-us/microsoft-edge/extensions/api-support/extension-api-roadmap) - Detailed WebExtensions support for Edge.
+- [Safari Extensions documentation](https://developer.apple.com/safari/extensions/) - Developer documentation on building Safari extensions
 - [Opera API support](https://dev.opera.com/extensions/apis/) - Detailed WebExtensions support for Opera.
 - [Porting Chrome Extensions to Firefox](https://hacks.mozilla.org/2015/10/porting-chrome-extensions-to-firefox-with-webextensions/) - Guide to prepare, install, and debug Chrome extensions to be ported in Firefox.
 - [Browser Extension Standard](https://browserext.github.io/browserext/) - Standard for the API, supported by Mozilla, Opera and Microsoft.
@@ -80,8 +81,8 @@ Apps that help you manage your extensions.
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.
 
-- [npmhub ★288](https://github.com/npmhub/npmhub)
-- [Hide Files on GitHub ★177](https://github.com/sindresorhus/hide-files-on-github)
+- [npmhub ★298](https://github.com/npmhub/npmhub)
+- [Hide Files on GitHub ★180](https://github.com/sindresorhus/hide-files-on-github)
 - [Refined GitHub ★2655](https://github.com/sindresorhus/refined-github)
 - [mdn/webextension-examples ★784](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 

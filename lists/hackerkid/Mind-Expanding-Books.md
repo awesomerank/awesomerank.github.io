@@ -22,6 +22,7 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 * [Logic and Problem Solving](#logic-and-problem-solving)
 * [Politics](#politics)
 * [Economics](#economics)
+* [Gender](#gender)
 * [Sexuality](#sexuality)
 * [Education](#education)
 * [Writing](#writing)
@@ -109,6 +110,7 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 | Bulfinch's Mythology | Thomas Bulfinch | [4.13](https://www.goodreads.com/book/show/588147.Bulfinch_s_Mythology) | 1998 |  
 | Ego Is the Enemy | Ryan Holiday | [4.12](https://www.goodreads.com/book/show/27036528-ego-is-the-enemy) | 2016 |  
 | Awaken the Giant Within: How to Take Immediate Control of Your Mental, Emotional, Physical and Financial Destiny! | Anthony Robbins | [4.11](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within) |  |  
+| The Power of Now: A Guide to Spiritual Enlightenment | Eckhart Tolle | [4.11](https://www.goodreads.com/book/show/6708.The_Power_of_Now) | 1997 |  
 | Predictably Irrational | Dan Ariely | [4.10](https://www.goodreads.com/book/show/1713426.Predictably_Irrational) | 2008 |  
 | Flow: The Psychology of Optimal Experience | Mihaly Csikszentmihalyi | [4.10](https://www.goodreads.com/book/show/66354.Flow) | 1990 |  
 | Thinking, Fast and Slow | Daniel Kahneman | [4.09](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow) | 2011 |  
@@ -249,7 +251,8 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 
 ## Politics
 | Name | Author | Goodreads Rating | Year Published |  
-|------|--------|------------------|----------------|  
+|------|--------|------------------|----------------|
+| The New Jim Crow: Mass Incarceration in the Age of Colorblindness | Michelle Alexander | [4.49](https://www.goodreads.com/book/show/6792458-the-new-jim-crow)| 2010
 | Justice: What's the Right Thing to Do? | Michael J. Sandel | [4.25](https://www.goodreads.com/book/show/6452731-justice) |  |  
 | The Righteous Mind: Why Good People are Divided by Politics and Religion |  Jonathan Haidt | [4.16](https://www.goodreads.com/book/show/11324722-the-righteous-mind) | 2012 |  
 | Strangers in Their Own Land: Anger and Mourning on the American Right | Arlie Russell Hochschild | [4.15](https://www.goodreads.com/book/show/28695425-strangers-in-their-own-land) | 2016 |  
@@ -275,6 +278,10 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 | Super Crunchers: Why Thinking-By-Numbers is the New Way To Be Smart | Ian Ayres | [3.70](https://www.goodreads.com/book/show/1081413.Super_Crunchers) |  |  
 | A Farewell to Alms : A Brief Economic History of the World | Gregory Clark | [3.67](https://www.goodreads.com/book/show/150437.A_Farewell_to_Alms) | 2007 |  
 
+## Gender
+| Name | Author | Goodreads Rating | Year Published |  
+|------|--------|------------------|----------------|  
+| Delusions of Gender: How Our Minds, Society, and Neurosexism Create Difference | Cordelia Fine | [4.15](https://www.goodreads.com/book/show/8031168-delusions-of-gender) | 2010
 ## Sexuality
 | Name | Author | Goodreads Rating | Year Published |  
 |------|--------|------------------|----------------|  
@@ -457,6 +464,7 @@ title: Awesome Rank for hackerkid/Mind-Expanding-Books
 | Pattern Language: Towns, Buildings, Construction | Christopher Alexander, Sara Ishikawa, Murray Silverstein, Max Jacobson, Ingrid Fiksdahl-King and Shlomo Angel | [4.38](https://www.goodreads.com/book/show/79766.A_Pattern_Language) | 1977 |  
 | Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability | Steve Krug | [4.24](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited) | 2014 |  
 | The Design of Everyday Things | Donald Norman | [4.18](http://www.goodreads.com/book/show/840.The_Design_of_Everyday_Things) | 2002 |  
+| The Art of Looking Sideways | Alan Fletcher | [4.10](https://www.goodreads.com/book/show/15778.The_Art_of_Looking_Sideways) | 2001 |  
 
 ## Travel
 | Name | Author | Goodreads Rating | Year Published |  

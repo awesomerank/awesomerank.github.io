@@ -225,7 +225,7 @@ A framework is only as great as the software that uses it.  Fortunately, much gr
 - [Malwarebytes](https://www.malwarebytes.com) - Your Windows desktop's personal bodyguard.
 - [Parallels Desktop](https://www.parallels.com/products/desktop) - Consumer-focused virtualization.
 - [Qt Creator](https://www.qt.io/ide) [:octocat:](https://github.com/qtproject/qt-creator) - Something something eating your own dog food. Listed in the [official tools](#official-tools), but not listing it here doesn't feel right.
-- [Rolisteam](http://www.rolisteam.org) [:octocat: ★43](https://github.com/Rolisteam/rolisteam) - Virtual tabletop for remote Role Playing Games.
+- [Rolisteam](http://www.rolisteam.org) [:octocat: ★47](https://github.com/Rolisteam/rolisteam) - Virtual tabletop for remote Role Playing Games.
 - [RUBE](https://www.iforce2d.net/rube) - Level design tool for any game that uses the Box2D physics engine.
 - [Skype](https://www.skype.com/en/download-skype/skype-for-linux) - Yes, *that* Skype.  Only the Linux version uses Qt.
 - [TeamSpeak](https://www.teamspeak.com) - When gamers want to voice chat in a game that doesn't support it, they'll use this.

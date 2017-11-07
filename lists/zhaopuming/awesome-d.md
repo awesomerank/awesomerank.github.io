@@ -10,7 +10,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 # Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
 =========
 
-  A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python ★39191](https://github.com/vinta/awesome-python).
+  A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python ★40545](https://github.com/vinta/awesome-python).
   
   I created this list so that when I needed something in the future, it would be easy to find. Most of the documents and links are collected from the [D forum](http://forum.dlang.org), the [D wiki](http://wiki.dlang.org), and the [D package repository](http://code.dlang.org). Exploring GitHub also helps as many of the libs are hosted there.
   
@@ -105,7 +105,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 * [LDC Developers](https://github.com/ldc-developers) - LDC releated projects.
 * [DerelictOrg](https://github.com/DerelictOrg) - A GitHub organization hosting all Derelict bindings including OpenGL and other multimedia/game related library bindings. (OpenGL 3, Bgfx, ENet,  SDL 2, GLFW 3，OpenGLES, Free Image, Assimp3, libtheora, libogg, libvorbis, SFML 2, libpq, PhysicsFS, Open Dynamics Engine, Lua, DevIL, OpenAL, ALURE).
 * [DlangScience](https://github.com/DlangScience) -A focal point and first port of call for scientific libraries and tooling for D.
-* [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash ★360 ⏳1Y](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
+* [Circular Studios](https://github.com/Circular-Studios) - We are a group of game developers at Rochester Institute of Technology building games and game tech. Hosts [Dash ★362 ⏳1Y](https://github.com/Circular-Studios/Dash), a 3D game engine written in D, and other related libs.
 * [d-gamedev-team](https://github.com/d-gamedev-team) - An organization of gamedev related repos, including a D gamedev toolkit called [gfm](https://github.com/d-gamedev-team/gfm) and an [opengl tutorial in D ★48 ⏳2Y](https://github.com/d-gamedev-team/opengl-tutorials).
 * [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
 * [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
@@ -123,7 +123,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 *D related tutorials.*
 * [The Dlang Tour](http://tour.dlang.io/) - An interactive tutorial for D, inspired by Golang Tour.
 * [Pragmatic D tutorial](http://qznc.github.io/d-tut/index.html) - This is a pragmatic introduction to the D Programming Language. by Andreas Zwinkau.
-* [D Template Tutorial ★163](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
+* [D Template Tutorial ★166](https://github.com/PhilippeSigaud/D-templates-tutorial) - A tutorial dedicated to D Templates. Very good explanation about templates. Has pdf version. by Philippe Sigaud.
 * [Component programming in D](http://www.drdobbs.com/architecture-and-design/component-programming-in-d/240008321) - An article written by Walter Bright that details how D's functional support leads to a flexible and beautiful component programming style.
 * [Component programming with ranges](http://wiki.dlang.org/Component_programming_with_ranges) - A detailed blog post about how to do component programming in a idiomatic D way with ranges, with a full working example.
 * [Functional image processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/) - A very interesting tutorial about writing an image processing lib in D. Shows the power of D's templates/CTFE/Ranges/UFCS for functional style programming.
@@ -156,16 +156,16 @@ title: Awesome Rank for zhaopuming/awesome-d
 *Libraries for package and dependency management.*
 
 * [code.dlang.org](http://code.dlang.org/) - Official D library repository. Backed by dub.
-* [dub ★382](https://github.com/dlang/dub) - Official package and build management system for D.
+* [dub ★383](https://github.com/dlang/dub) - Official package and build management system for D.
 
  
 ## Compilers
 
 *Compile software from source code.*
 
-* [dmd ★1676](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
-* [ldc ★618](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
-* [gdc ★322](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
+* [dmd ★1695](https://github.com/dlang/dmd) - The reference compiler for the D programming language. Stable, builds insanely fast, very good for learning and rapid prototyping/development. Currently the frontend is implemented in D, and shared between dmd, ldc and gdc, the backend is implemented in C++.
+* [ldc ★629](https://github.com/ldc-developers/ldc) - The LLVM-based D compiler. Uses the DMD frontend and LLVM backend. Builds slower than dmd, but generates more optimized code than DMD. It supports all the target platforms of LLVM.
+* [gdc ★324](https://github.com/D-Programming-GDC/GDC) - GNU D Compiler. Use DMD frontend and GCC backend. Currently targets the most platforms due to the use of GCC. Generated code runs faster than DMD in most cases, on par with LDC. In the process of integration with the official GCC toolchain.
 * [sdc ★148](https://github.com/SDC-Developers/SDC) - The Stupid D Compiler. Written in D. Grows Smarter every day.
 * [dil](https://code.google.com/p/dil/) - A compiler for the D programming language. Written in D.
 
@@ -174,12 +174,12 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 *Manage projects and compile software from source code.*
 
-* [dub ★382](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
+* [dub ★383](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
 * [scons-d](http://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
 * [premake ★2](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
-* [reggae ★46](https://github.com/atilaneves/reggae) - meta build system in D
+* [reggae ★47](https://github.com/atilaneves/reggae) - meta build system in D
 * [Makefile ★17 ⏳1Y](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
-* [cmake-d ★28](https://github.com/dcarp/cmake-d) - CMake D Projects
+* [cmake-d ★27](https://github.com/dcarp/cmake-d) - CMake D Projects
 * [cook2 ★16 ⏳2Y](https://github.com/gecko0307/Cook2) - Fast incremental build tool intended for projects in D
 * [button](http://jasonwhite.github.io/button/) - A universal build system to build your software at the push of a button.
 * [wild](https://github.com/Vild/Wild) - Wild build system, used to build the [PowerNex](https://github.com/Vild/PowerNex) kernel
@@ -188,48 +188,48 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 *Integrated Development Environment.*
 
-* [Mono-D ★112](https://github.com/aBothe/Mono-D) - A D language addon for [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/). With dub support.
-* [Visual D ★176](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
+* [Mono-D ★111](https://github.com/aBothe/Mono-D) - A D language addon for [Xamarin Studio](http://xamarin.com/)/[MonoDevelop](http://www.monodevelop.com/). With dub support.
+* [Visual D ★177](https://github.com/dlang/visuald) - Visual Studio extension for the D programming language.
 * [DDT](http://ddt-ide.github.io/) - Eclipse plugin for the D programming language.
 * [DCD](https://github.com/Hackerpilot/DCD) - Independent auto-complete program for the D programming language. Could be used with editors like vim, emacs, sublime text, textadept, and zeus. See [editors support](https://github.com/Hackerpilot/DCD/wiki/IDEs-and-Editors-with-DCD-support).
-* [Coedit ★160](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries.
-* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI ★363](https://github.com/buggins/dlangui). This is a pure D implementation.
+* [Coedit ★162](https://github.com/BBasile/Coedit) - IDE for the D programming language, its compilers, tools and libraries.
+* [Dlang IDE](https://github.com/buggins/dlangide) - D language IDE based on [DlangUI ★371](https://github.com/buggins/dlangui). This is a pure D implementation.
 
  
 ## Lexers, Parsers, Parser Generators
 
 * [libdparse](https://github.com/Hackerpilot/libdparse) - A D language lexer and parser, (possibly) future standard D parser/lexer.
 * [Martin Nowak's Lexer ★8 ⏳3Y](https://github.com/MartinNowak/lexer) - A lexer generator.
-* [Mono-D's DParser ★24 ⏳1Y](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
-* [Pegged ★317](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
+* [Mono-D's DParser ★25 ⏳1Y](https://github.com/aBothe/D_Parser) - A D parser written in C# and used in Mono-D.
+* [Pegged ★323](https://github.com/PhilippeSigaud/Pegged) - A Parsing Expression Grammar (PEG) module written in D.
 * [Goldie](https://bitbucket.org/Abscissa/goldie/wiki/Home) - Goldie Parsing System.
-* [ctpg ★40 ⏳2Y](https://github.com/youxkei/ctpg) - Compile-Time Parser (with converter) Generator written in D.
+* [ctpg ★41 ⏳2Y](https://github.com/youxkei/ctpg) - Compile-Time Parser (with converter) Generator written in D.
 * [dunnart ★8](https://github.com/pwil3058/dunnart) - LALR(1) Parser Generator written in D.
 
 ## Preprocesors
 
-* [warp ★440 ⏳2Y](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
+* [warp ★443 ⏳2Y](https://github.com/facebookarchive/warp) - A fast preprocessor for C and C++ used in Facebook infrastructure. Written by Walter Bright.
 
 ## Javascript
-* [higgs ★772](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
+* [higgs ★769](https://github.com/higgsjs/Higgs) -  Higgs JavaScript Virtual Machine, implemented in D.
 
 
 ## Containers
-* [EMSI containers ★83](https://github.com/economicmodeling/containers) -  Containers that do not use the GC 
-- [memutils ★33](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
-- [dlib.container ★110](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
-- [std.rcstring ★6 ⏳1Y](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
+* [EMSI containers ★84](https://github.com/economicmodeling/containers) -  Containers that do not use the GC 
+- [memutils ★32](https://github.com/etcimon/memutils) - Overhead allocators, allocator-aware containers and lifetime management for D objects
+- [dlib.container ★116](https://github.com/gecko0307/dlib) - generic data structures (GC-free dynamic and associative arrays and more)
+- [std.rcstring ★7 ⏳1Y](https://github.com/burner/std.rcstring) - A reference counted string implementation for D's build in string construct
 
 ## Web Frameworks
 
 *Networking library*
-* [libasync ★105](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
+* [libasync ★107](https://github.com/etcimon/libasync) -  Cross-platform event loop library of asynchronous objects
 * [libhttp2 ★30](https://github.com/etcimon/libhttp2) -  HTTP/2 library in D, translated from nghttp2
 * [collie](https://github.com/putaolabs/collie) -  An asynchronous event-driven Cross-platform network framework written in D,like facebook/wangle.
 
 *Full stack web frameworks.*
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
-* [arsd ★283](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
+* [arsd ★285](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed ★16 ⏳2Y](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
 
 *RPC library*
@@ -239,7 +239,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 *Json, XML, protobuf and other data serialization libs.*
 
 ### Binary Serilization
-* [cerealed ★58](https://github.com/atilaneves/cerealed)  - Serialisation library for D 
+* [cerealed ★59](https://github.com/atilaneves/cerealed)  - Serialisation library for D 
 * [dproto ★35](https://github.com/msoucy/dproto) - Google Protocol Buffer support in D.
 
 ### JSON
@@ -248,8 +248,8 @@ title: Awesome Rank for zhaopuming/awesome-d
 * [fast.json ★72](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
 * [painlessjson ★16](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
-* [std.data.json ★23 ⏳1Y](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
-* [asdf ★32](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisatoin.
+* [std.data.json ★24 ⏳1Y](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
+* [asdf ★36](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisatoin.
 
 ### XML
 
@@ -261,35 +261,35 @@ title: Awesome Rank for zhaopuming/awesome-d
 *Clients and bindings to C bliencts for relational and nosql databases.*
 
 * [vibe.d](https://github.com/rejectedsoftware/vibe.d) - Vibe.d has internal support for Redis and MongoDB, which are very stable. Soon, the database drivers will be separated into independent projects.
-* [mysql-native ★54](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
+* [mysql-native ★55](https://github.com/mysql-d/mysql-native) - A MySQL client implemented in native D.
 * [ddb ★41](https://github.com/pszturmaj/ddb) - Database access for D2. Currently only supports PostgreSQL.
-* [arsd ★283](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
+* [arsd ★285](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's library; in addition to a Web backend, it also has support for database access with database.d, sqlite.d, mysql.d and postgres.d.
 * [ddbc ★42](https://github.com/buggins/ddbc) - DDBC is a DB Connector for D language (similar to JDBC). HibernateD (see below) uses ddbc for database abstraction.
-* [hibernated ★66](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](http://hibernate.org/)).
+* [hibernated ★67](https://github.com/buggins/hibernated) - HibernateD is an ORM for D (similar to [Hibernate](http://hibernate.org/)).
 * [dvorm ★19 ⏳1Y](https://github.com/rikkimax/Dvorm) - An ORM for D with Vibe support. Works with vibe.d and mysql-d, giving it the ability to access MongoDB and MySQL.
 * [Tiny Redis](http://adilbaig.github.io/Tiny-Redis/) - Redis driver for D. Fast, Simple, Stable. Has no dependencies.
 
 ## Command Line
-* [tilix ★1866](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
-* [scriptlike ★64](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
-* [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise ★1757](https://github.com/antirez/linenoise).
-* [d-colorize](http://code.dlang.org/packages/colorize) - A port of the ruby library [colorize ★776](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
-* [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd ★283](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
+* [tilix ★1964](https://github.com/gnunn1/tilix) -  A tiling terminal emulator for Linux using GTK+ 3.
+* [scriptlike ★63](https://github.com/Abscissa/scriptlike) - Utility library to aid writing script-like programs in D.
+* [todod](https://github.com/BlackEdder/todod) - Todod is a command line based todo list manager. It also has support for shell interaction based on [linenoise ★1779](https://github.com/antirez/linenoise).
+* [d-colorize](http://code.dlang.org/packages/colorize) - A port of the ruby library [colorize ★785](https://github.com/fazibear/colorize). It add some methods to set color, background color and text effect on console easier using ANSI escape sequences.
+* [terminal.d](https://github.com/adamdruppe/arsd/blob/master/terminal.d) - Part of Adam Ruppe's [arsd ★285](https://github.com/adamdruppe/arsd) library supporting cursor and color manipulation on the console.
 * [dexpect ★10 ⏳2Y](https://github.com/grogancolin/dexpect) -  A D implementation of the expect framework. Handy for bash emulation.
 * [Argon ★8](https://github.com/markuslaker/Argon) -  A processor for command-line arguments, an alternative to Getopt, written in D. 
-* [argsd ★5](https://github.com/burner/argsd) - A command line and config file parser for DLang
+* [argsd ★6](https://github.com/burner/argsd) - A command line and config file parser for DLang
 
 ## GUI Libs
 *Libraries for working with graphical user interface applications.*
 
 
-* [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE ★196](https://github.com/buggins/dlangide).
-* [GtkD ★187](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
-* [DWT ★83](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
+* [DLangUI](https://github.com/buggins/dlangui) - Cross Platform GUI for D programming language. My personal favorate, because it is written in D(not a binding), and is cross platform. DLangUI also has a good showcase in the IDE [DLangIDE ★204](https://github.com/buggins/dlangide).
+* [GtkD ★189](https://github.com/gtkd-developers/GtkD) - GtkD is a D binding and OO wrapper of GTK+. GtkD is actively maintained and is currently the most stable GUI lib for D.
+* [DWT ★84](https://github.com/d-widget-toolkit/dwt) - A library for creating cross-platform GUI applications. GWT is a port of the Java SWT library to D. DWT was promoted as a semi-standard GUI library for D, but unfortunately didn't catch up popularity yet.
 * [tkD ★85](https://github.com/nomad-software/tkd) - GUI toolkit for the D programming language based on Tcl/Tk.
-* [dqml ★25](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
+* [dqml ★27](https://github.com/filcuc/dqml) -  Qt Qml bindings for the D programming language.
 * [Sciter-Dport](https://github.com/midiway/sciter-dport) - D bindings for the [Sciter](http://sciter.com) - crossplatform HTML/CSS/script desktop UI toolkit.
-* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui ★4630](https://github.com/andlabs/libui)
+* [LibUI](https://github.com/Extrawurst/DerelictLibui) - Dynamic Binding for [libui ★4682](https://github.com/andlabs/libui)
 
 *Note*: You can also find a list of GUI libs on [wiki.dlang.org](http://wiki.dlang.org/Libraries_and_Frameworks#GUI_Libraries), but not all of the libraries are actively maintained now.
 
@@ -299,7 +299,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 * [PowerNex](https://github.com/Vild/PowerNex) -  A kernel written in D 
 * [Trinix](https://github.com/Bloodmanovski/Trinix) -  Hybrid operating system for x64 PC written in D
-* [XOmB ★296 ⏳4Y](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
+* [XOmB ★297 ⏳4Y](https://github.com/xomboverlord/xomb) - An exokernel operating system written in D
 
 ## Game Bindings
 
@@ -328,12 +328,12 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 ## Game Frameworks
 
-* [DGame ★67](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
-* [gfm ★144](https://github.com/d-gamedev-team/gfm) - D gamedev toolkit. see <http://d-gamedev-team.github.io/gfm/>.
-* [Dash ★360 ⏳1Y](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <http://circularstudios.com/dash>.
+* [DGame ★69](https://github.com/Dgame/Dgame) - A 2D framework for the D programming Language. see <http://dgame-dev.de/>.
+* [gfm ★147](https://github.com/d-gamedev-team/gfm) - D gamedev toolkit. see <http://d-gamedev-team.github.io/gfm/>.
+* [Dash ★362 ⏳1Y](https://github.com/Circular-Studios/Dash) - A free and open 3D game engine written in D. see <http://circularstudios.com/dash>.
 * [DSFML ★85](https://github.com/Jebbs/DSFML) - A static binding of SFML in a way that makes sense for D. see <http://dsfml.com/>.
 * [DAllegro5](https://github.com/SiegeLord/DAllegro5/tree/master/allegro5) - D binding/wrapper to Allegro 5, a modern game programming library.
-* [Voxelman ★87](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
+* [Voxelman ★88](https://github.com/MrSmith33/voxelman) -  Plugin-based client-server voxel game engine written in D language
 
 ## Games
 
@@ -347,21 +347,21 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 * [ArmageddonEngine](https://github.com/CyberShadow/ae/tree/master/utils/graphics) - Vladimir Panteleev's ae library has a package for image processing in functional style, which is described in the article [Functional Image Processing in D](http://blog.thecybershadow.net/2014/03/21/functional-image-processing-in-d/).
 * [Blogsort](https://bitbucket.org/infognition/bsort/) -  A simple Windows app for viewing photos and preparing them for a blog.
-* [dlib.image ★110](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
+* [dlib.image ★116](https://github.com/gecko0307/dlib) - image processing (8 and 16 bits per channel, floating point operations, filtering, FFT, HDRI, graphics formats support including JPEG and PNG)
 * [color.d](https://github.com/adamdruppe/arsd/blob/master/color.d) + [bmp.d](https://github.com/adamdruppe/arsd/blob/master/bmp.d), [jpg.d](https://github.com/adamdruppe/arsd/blob/master/jpg.d), [png.d](https://github.com/adamdruppe/arsd/blob/master/png.d) - basic color struct, HSL functions and reading and writing image files
 
 ## Machine Learning
 
-* [vectorflow ★817](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
+* [vectorflow ★870](https://github.com/Netflix/vectorflow) - Nexflix's opensource deep learning framework.
 
 ## Scientific
 *Scientific programming*
 
-* [scid ★76](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
-* [dstats ★14](https://github.com/DlangScience/dstats) -  A statistics library for D. 
-* [mir ★151](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
-* [mir-algorithm ★151](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
-* [mir-random ★12](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
+* [scid ★75](https://github.com/DlangScience/scid) -  Scientific library for the D programming language
+* [dstats ★15](https://github.com/DlangScience/dstats) -  A statistics library for D. 
+* [mir ★156](https://github.com/libmir/mir) -  Sandbox for some mir packages: sparse tensors, Hoffman and others.
+* [mir-algorithm ★156](https://github.com/libmir/mir) - N-dimensional arrays (matrixes, tensors), algorithms, general purpose library.
+* [mir-random ★19](https://github.com/libmir/mir-random) -  Advanced Random Number Generators.
 
 ## Text Processing
 
@@ -376,9 +376,9 @@ title: Awesome Rank for zhaopuming/awesome-d
 ## Configuration
 *Parsing configuration files*
 
-- [sdlang ★52](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
+- [sdlang ★54](https://github.com/Abscissa/SDLang-D) - An SDL (Simple Declarative Language) library for D.
 - [D:YAML](https://github.com/kiith-sa/D-YAML) - YAML parser and emitter for the D programming language.
-- [inifile-D ★16](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
+- [inifile-D ★15](https://github.com/burner/inifiled) - A compile time ini file parser and writter generator for D
 
 ## Blog Engine
 *Hosting blogs yourself*
@@ -388,7 +388,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 ## Testing
 
 - [dunit ★56 ⏳1Y](https://github.com/nomad-software/dunit) - Advanced unit testing & mocking toolkit
-- [unit-threaded ★69](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
+- [unit-threaded ★70](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) projects.

@@ -529,7 +529,7 @@ AWS Repos:
 
 Community Repos:
 
-* [capeless/warrant ★69](https://github.com/capless/warrant) - Python library for using Cognito.
+* [capeless/warrant ★83](https://github.com/capless/warrant) - Python library for using Cognito.
 
 ### Data Pipeline
 
@@ -707,7 +707,7 @@ AWS Repos:
 * [amazon-kinesis-data-visualization-sample :fire: ★122](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app.
 * [amazon-kinesis-learning ★35](https://github.com/awslabs/amazon-kinesis-learning) - Learning Kinesis Development.
 * [amazon-kinesis-producer :fire: ★142](https://github.com/awslabs/amazon-kinesis-producer) - Producer Library.
-* [amazon-kinesis-scaling-utils :fire: ★198](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams.
+* [amazon-kinesis-scaling-utils :fire::fire: ★198](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams.
 * [aws-fluent-plugin-kinesis :fire: ★153](https://github.com/awslabs/aws-fluent-plugin-kinesis) - Fluent Plugin.
 * [dynamodb-streams-kinesis-adapter ★33](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - DynamoDB Streams Adapter.
 * [kinesis-log4j-appender ★46](https://github.com/awslabs/kinesis-log4j-appender) - Log4J Appender.
@@ -755,7 +755,7 @@ Community Repos:
 * [nficano/python-lambda :fire::fire::fire: ★521](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in Lambda.
 * [serverless/serverless :fire::fire::fire::fire::fire: ★19646](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 * [Tim-B/grunt-aws-lambda :fire::fire: ★245](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
-* [trek10inc/aws-lambda-debugger :fire: ★167](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
+* [trek10inc/aws-lambda-debugger :fire: ★188](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
 
 ### Machine Learning
 
@@ -989,7 +989,7 @@ Community Repos:
 * [segmentio/stack :fire::fire::fire::fire: ★1369](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
 * [j2labs/microarmy  ★0 ⏳1Y](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
 * [jpillora/grunt-aws :fire: ★177](https://github.com/jpillora/grunt-aws) - Grunt interface into the Node.JS SDK.
-* [jvehent/haproxy-aws :fire::fire: ★236 ⏳1Y](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
+* [jvehent/haproxy-aws :fire::fire: ★236 ⏳2Y](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
 * [localstack/localstack  ★20](https://github.com/atlassian/localstack) - A fully functional local AWS cloud stack. Develop and test your cloud apps offline!
 * [meducation/propono :fire::fire:](https://github.com/meducation/propono) - Easy-to-use pub/sub in Ruby.
 * [mozilla/awsbox :fire::fire::fire: ★787 ⏳1Y](https://github.com/mozilla/awsbox) - A featherweight PaaS on top of EC2 for deploying node apps.

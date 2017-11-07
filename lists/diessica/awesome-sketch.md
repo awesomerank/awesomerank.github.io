@@ -77,24 +77,24 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 > A plugin manager like [Sketchpacks](https://sketchpacks.com) is highly recommended.
 
 ###### Must-have :heart:
-- [Content Generator ★4007](https://github.com/timuric/Content-generator-sketch-plugin)
-- [RenameIt ★861](https://github.com/rodi01/RenameIt)
-- [Sketch Measure ★5026](https://github.com/utom/sketch-measure)
-- [Style Inventory ★1739](https://github.com/getflourish/Sketch-Style-Inventory)
-- [Dynamic Button ★1076 ⏳1Y](https://github.com/ddwht/sketch-dynamic-button)
-- [Page Switch ★66 ⏳3Y](https://github.com/mauehara/sketch-page-switch)
-- [Sketch Flex Layout ★1735](https://github.com/hrescak/Sketch-Flex-Layout)
+- [Content Generator ★4062](https://github.com/timuric/Content-generator-sketch-plugin)
+- [RenameIt ★886](https://github.com/rodi01/RenameIt)
+- [Sketch Measure ★5111](https://github.com/utom/sketch-measure)
+- [Style Inventory ★1749](https://github.com/getflourish/Sketch-Style-Inventory)
+- [Dynamic Button ★1083 ⏳1Y](https://github.com/ddwht/sketch-dynamic-button)
+- [Page Switch ★65 ⏳3Y](https://github.com/mauehara/sketch-page-switch)
+- [Sketch Flex Layout ★1742](https://github.com/hrescak/Sketch-Flex-Layout)
 
 ###### Nice-to-have :thumbsup:
-- [Handy Tools ★124](https://github.com/webpatch/Handy-Tools)
+- [Handy Tools ★126](https://github.com/webpatch/Handy-Tools)
 - [Easier.cc](http://easier.cc/) (Files up to 5 MB)
-- [User Flow ★1162](https://github.com/abynim/UserFlows)
+- [User Flow ★1185](https://github.com/abynim/UserFlows)
 - [Sketch Runner](http://sketchrunner.com)
-- [Efficiency ★108](https://github.com/x-raizor/Efficiency)
+- [Efficiency ★109](https://github.com/x-raizor/Efficiency)
 
 ##### Get more plugins
 - [SketchApp Resources: Plugins for Sketch](http://www.sketchappsources.com/plugins.html)
-- [Sketch Plugin Directory ★2748](https://github.com/sketchplugins/plugin-directory)
+- [Sketch Plugin Directory ★2779](https://github.com/sketchplugins/plugin-directory)
 - [SketchPlugins mailing list](http://sketchplugins.com/)
 - [Awesome Sketch Plugins](http://awesome-sket.ch/)
 - Websites related to resources (see [Other](#other) section).
@@ -102,8 +102,8 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 
 ## Templates & UI Kits
 - [Responsive Web Design Template ★23 ⏳2Y](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
-- [Sketch iOS Templates ★858 ⏳3Y](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
-- [Teracy Wireframe Kit ★1223 ⏳2Y](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
+- [Sketch iOS Templates ★861 ⏳3Y](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
+- [Teracy Wireframe Kit ★1230 ⏳2Y](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
 
 ## Services
 - [Zeplin](https://zeplin.io) – design, prototyping and collaboration

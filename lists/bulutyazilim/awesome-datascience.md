@@ -59,6 +59,7 @@ Preview | Description
 [<img src="http://i.imgur.com/b9xYdZB.jpg" width="150" />](http://i.imgur.com/aoz1BJy.jpg) | From [this article](http://berkeleysciencereview.com/how-to-become-a-data-scientist-before-you-graduate/) by Berkeley Science Review.
 [<img src="http://i.imgur.com/TWkB4X6.png" width="150" />](http://i.imgur.com/0TydZ4M.png) | Data Science Wars: R vs Python
 [<img src="http://i.imgur.com/gtTlW5I.png" width="150" />](http://i.imgur.com/HnRwlce.png) | How to select statistical or machine learning techniques
+[<img src="http://scikit-learn.org/stable/_static/ml_map.png" width="150" />](http://scikit-learn.org/stable/_static/ml_map.png) | Choosing the Right Estimator
 [<img src="http://i.imgur.com/3JSyUq1.png" width="150" />](http://i.imgur.com/uEqMwZa.png) | The Data Science Industry: Who Does What
 [<img src="http://i.imgur.com/DQqFwwy.png" width="150" />](http://i.imgur.com/RsHqY84.png) | Data Science Venn Diagram
 [<img src="https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png" width="150" height="150" />](https://www.springboard.com/blog/wp-content/uploads/2016/03/20160324_springboard_vennDiagram.png) | Different Data Science Skills and Roles from [this article](https://www.springboard.com/blog/data-science-career-paths-different-roles-industry/) by Springboard
@@ -504,12 +505,12 @@ interactive data analytics and collaborative documents with SQL, Scala and more
 ## Other Awesome Lists
 
  - Other amazingly awesome lists can be found in the [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) list.
- - [Awesome Machine Learning ★26231](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
+ - [Awesome Machine Learning ★27278](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
  - [lists ★4518](https://github.com/jnv/lists)
  - [awesome-dataviz ★1280](https://github.com/fasouto/awesome-dataviz)
- - [awesome-python ★39191](https://github.com/vinta/awesome-python)
+ - [awesome-python ★40545](https://github.com/vinta/awesome-python)
  - [Data Science IPython Notebooks. ★10387](https://github.com/donnemartin/data-science-ipython-notebooks)
- - [awesome-r ★2392](https://github.com/qinwf/awesome-R)
+ - [awesome-r ★2457](https://github.com/qinwf/awesome-R)
  - [awesome-datasets ★20772](https://github.com/caesar0301/awesome-public-datasets) – An awesome list of high-quality open datasets in public domains
  - [awesome-Machine Learning & Deep Learning Tutorials](https://github.com/ujjwalkarn/Machine-Learning-Tutorials/blob/master/README.md)
  - [Awesome Data Science Ideas ★337](https://github.com/JosPolfliet/awesome-datascience-ideas)

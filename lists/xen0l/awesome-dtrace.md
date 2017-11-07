@@ -145,7 +145,7 @@ List of software with DTrace support.
 
 #### Lua
 
-- [lua-usdt ★5 ⏳4Y](https://github.com/chrisa/lua-usdt) - Libusdt bindings for Lua.
+- [lua-usdt ★6 ⏳4Y](https://github.com/chrisa/lua-usdt) - Libusdt bindings for Lua.
 
 #### Node.js
 
@@ -180,14 +180,14 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph ★4780](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
+- [FlameGraph ★4961](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
 - [node-stackvis ★324](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
 
 ## Tools
 
 - [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
-- [dtrace-cloud-tools ★153 ⏳3Y](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
-- [pgsql tools ★109 ⏳2Y](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
+- [dtrace-cloud-tools ★152 ⏳4Y](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
+- [pgsql tools ★110 ⏳2Y](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
 - [portsnoop ★3 ⏳3Y](https://github.com/davepacheco/portsnoop) - Trace event port activity.
 - [storage tools ★24 ⏳1Y](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.
 

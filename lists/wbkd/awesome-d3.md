@@ -27,10 +27,11 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [dagre-d3 ★1080](https://github.com/cpettitt/dagre-d3) - Layout directed graphs on the client-side
 - [dc](http://dc-js.github.io/dc.js/) - For heavy amounts of data
 - [dimple](http://dimplejs.org) - An object-oriented API for business analytics
+- [d2b](http://www.d2bjs.org/) - Reusable chart library, using D3 v4+ and including support for axis, pie, sankey, sunburst charts and more 
 - [d3.chart](http://misoproject.com/d3-chart/) - Framework for building reusable charts
 - [d3.chart.sankey ★66](https://github.com/q-m/d3.chart.sankey) - Reusable D3 Sankey diagram
 - [d3-bar ★142](https://github.com/tj/d3-bar) - Bar chart
-- [d3-beeswarm ★14](https://github.com/Kcnarf/d3-beeswarm) - Plugin which computes a beeswarm arrangement
+- [d3-beeswarm ★15](https://github.com/Kcnarf/d3-beeswarm) - Plugin which computes a beeswarm arrangement
 - [d3-bumps-chart ★2](https://github.com/johnwalley/d3-bumps-chart) - Plugin for visualizing bumps charts
 - [d3-circle ★115](https://github.com/tj/d3-circle) - Circle chart
 - [d3-dot ★114 ⏳1Y](https://github.com/tj/d3-dot) - Dot chart
@@ -58,7 +59,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [metricsgraphics](http://metricsgraphicsjs.org/) - Optimized for visualizing time-series data
 - [micropolar](http://micropolar.org/) - A polar chart library
 - [mpld3](http://mpld3.github.io/) - Export matplotlib graphics to work in the Browser
-- [neo4jd3 ★83](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
+- [neo4jd3 ★97](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components
 - [peek](http://mtmacdonald.github.io/peek) - Object-oriented chart library
 - [plotly ★6919](https://github.com/plotly/plotly.js) - High level charting library
@@ -72,8 +73,8 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [uvCharts](http://imaginea.github.io/uvCharts/index.html)  - Supports lots of different chart types
 - [vega](http://trifacta.github.io/vega/) - A visualization grammar
 - [vega-lite](https://vega.github.io/vega-lite/) - A high-level grammar of interactive graphics
-- [venn.js ★525](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
-- [visavail ★78](https://github.com/flrs/visavail) - Time data availability visualization
+- [venn.js ★540](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
+- [visavail ★84](https://github.com/flrs/visavail) - Time data availability visualization
 - [vizabi](https://github.com/Gapminder/vizabi) - A framework for building visual data exploration tools
 - [xkcdgraphs ★307 ⏳2Y](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs
 
@@ -84,7 +85,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 simplecharts](https://wordpress.org/plugins/d3-simplecharts/) - A d3 wordpress plugin
 - [ember charts](http://addepar.github.io/#/ember-charts/overview) - Charts for Ember
 - [n3-charts](http://n3-charts.github.io/line-chart/#/) - Charts for Angular
-- [nivo ★1697](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability
+- [nivo ★1793](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability
 - [numberpicture](http://numberpicture.com/library) - Collection of React components for composing visualizations
 - [react-d3 ★1664 ⏳1Y](https://github.com/esbullington/react-d3) - Charts for React
 - [react-d3-components ★1277](https://github.com/codesuki/react-d3-components) - D3 Components
@@ -92,7 +93,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [react-stockcharts](http://rrag.github.io/react-stockcharts) - Highly customizable stock charts
 - [react-vis](https://github.com/uber-common/react-vis) - A collection of react components to render common data visualization charts
 - [recharts](http://recharts.org/) - Re-designed charting library built with React
-- [semiotic ★817](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3
+- [semiotic ★939](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3
 - [victory ★5097](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [vx ★2879](https://github.com/hshoff/vx) - Visualization components for React
 
@@ -131,6 +132,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3scription ★23](https://github.com/GlobalWebIndex/d3scription) - Tooltip with window edge collision detection
 - [d3-annotation](http://d3-annotation.susielu.com/) - Annotaion helper with built-in annotation types
 - [d3-area-label ★23](https://github.com/curran/d3-area-label) - A library for placing labels in areas
+- [d3-breadcrumbs](https://bumbeishvili.github.io/d3-breadcrumbs/) - Simplifies breadcrumbs usage
 - [d3-component ★55](https://github.com/curran/d3-component) - Lightweight component abstraction
 - [d3-extended ★259](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
 - [d3-helpers ★24 ⏳2Y](https://github.com/bahmutov/d3-helpers) - Little utility functions
@@ -150,6 +152,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-starterkit ★122](https://github.com/1wheel/d3-starterkit) - Helper functions simplifying common and verbose d3 patterns
 - [d3-tip ★958](https://github.com/Caged/d3-tip) - Tooltip helper
 - [d3-tipy ★85](https://github.com/tj/d3-tipy) - Tooltip helper
+- [d3-tooltip](https://bumbeishvili.github.io/d3-tooltip/) - Arrow shaped tooltip with shadows, dynamic content and customization options
 - [d3-trail ★125 ⏳2Y](https://github.com/bmschmidt/D3-trail) - A layout for creating better path elements
 - [d3-xray](http://www.vijithassar.com/d3-xray) - Bookmarklet which logs the results of the data joins as you mouse over
 - [d3.slider ★220](https://github.com/MasterMaps/d3-slider) - jQuery UI inspired slider

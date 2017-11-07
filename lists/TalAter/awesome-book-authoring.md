@@ -44,7 +44,7 @@ A collection of [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Book Contract: What’s Negotiable and What’s Not](http://www.writersdigest.com/online-editor/book-contract-whats-negotiable-and-whats-not)
 - [Scott Meyers' Advice on Contracts](http://www.aristeia.com/authorAdvice.html#contracts)
 - [The Contract (O'Reilly: So You Want to Write a Book?)](http://web.archive.org/web/20130704110948/http://oreilly.com/oreilly/author/ch03.html)
-- [Apress Standard Contract](http://www.apress.com/files/Apress_Contract.pdf)
+- [Apress Standard Contract](https://web.archive.org/web/20161010102603/http://www.apress.com/files/Apress_Contract.pdf)
 - [No Starch Press Standard Contract](https://www.nostarch.com/download/nspagreement.pdf)
 
 ## Royalties, Advances, and Other Money Stuff

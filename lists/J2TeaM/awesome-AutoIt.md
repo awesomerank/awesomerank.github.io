@@ -456,7 +456,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 - [awesome-awesome ★129](https://github.com/erichs/awesome-awesome) by @erichs
 - [awesome-awesome ★61](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
 - [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) by @bayandin
-- [awesome-awesomes ★476](https://github.com/fleveque/awesome-awesomes) by @fleveque
+- [awesome-awesomes ★482](https://github.com/fleveque/awesome-awesomes) by @fleveque
 - [awesome-collection ★96](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
 - [lists ★4518](https://github.com/jnv/lists) by @jnv
 

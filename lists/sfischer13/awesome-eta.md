@@ -13,7 +13,7 @@ title: Awesome Rank for sfischer13/awesome-eta
 
 > Useful resources for the [Eta](http://eta-lang.org/) programming language
 
-You might also like [awesome-haskell ★1224](https://github.com/krispo/awesome-haskell).
+You might also like [awesome-haskell ★1255](https://github.com/krispo/awesome-haskell).
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-eta/blob/master/contributing.md) before contributing.*
 

@@ -171,10 +171,10 @@ Please, add yourself and your economics-related projects.
 ### Projects
 
 * [economics-book ★5](https://github.com/philschatz/economics-book) - Economics Textbook (Openstax).
-* [pyeconomics ★71 ⏳3Y](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
+* [pyeconomics ★73 ⏳3Y](https://github.com/davidrpugh/pyeconomics) - Computational economics in Python.
 * [QuantEcon](https://github.com/QuantEcon/) - A library for quantitative economics.
 * [quantecon_nyu_2016 ★37 ⏳1Y](https://github.com/jstac/quantecon_nyu_2016) - Topics in Computational Economics
-* [zice-2014 ★13 ⏳3Y](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
+* [zice-2014 ★14 ⏳3Y](https://github.com/davidrpugh/zice-2014) - Course materials for Zurich Initiative for Computational Economics (ZICE) 2014.
 * [VFI Toolkit](https://github.com/vfitoolkit) - Matlab toolkit for Value Function Iteration on GPU.
 
 ### Links Sent by Readers
@@ -182,7 +182,7 @@ Please, add yourself and your economics-related projects.
 * [Economics Games](http://economics-games.com/) - Free online classroom games for teaching economics.
 * [Top 100 Economics Blogs](https://www.intelligenteconomist.com/top-economics-blogs-2016/) - Links to popular economics blogs, with brief descriptions.
 * [Deveconodata Blogspot](http://devecondata.blogspot.com/) - Development economics datasets. Updated regularly.
-* [fecon235 ★207](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
+* [fecon235 ★221](https://github.com/rsvp/fecon235) - Computational tools for financial economics, Python code base and tutorials using Jupyter notebooks, includes data retrieval, graphics, and optimization.
 * [Quantitative Economics](https://lectures.quantecon.org/py/index.html) - Lecture series by Thomas J. Sargent and John Stachurski using Python computational tools.
 
 

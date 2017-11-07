@@ -38,7 +38,7 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 * [SaltStack site](https://saltstack.com/) - Company website.
-* [GitHub repo ★8145](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
+* [GitHub repo ★8241](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 * [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 * [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
@@ -102,10 +102,10 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tools
 
-* [SaltPad ★595](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
-* [SaltShaker ★125 ⏳1Y](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
-* [SaltGUI ★30 ⏳1Y](https://github.com/oliverdunk/SaltGUI) - A web interface for managing SaltStack based infrastructure.
-* [Pepperboard ★9](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
+* [SaltPad ★604](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
+* [SaltShaker ★130 ⏳1Y](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
+* [SaltGUI ★31 ⏳1Y](https://github.com/oliverdunk/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+* [Pepperboard ★8](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 
 ## Presentations
 

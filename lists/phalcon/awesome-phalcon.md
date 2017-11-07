@@ -13,7 +13,7 @@ title: Awesome Rank for phalcon/awesome-phalcon
 [![Build Status](https://api.travis-ci.org/phalcon/awesome-phalcon.svg?branch=master)](https://travis-ci.org/phalcon/awesome-phalcon)
 
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go ★23880](https://github.com/avelino/awesome-go).
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go ★24821](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
@@ -137,7 +137,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Admin Panels & Dashboards.*
 
 * [dasshy ★26 ⏳2Y](https://github.com/phalcon/dasshy) - Statistics dashboard with Mongo/Phalcon
-* [PhalconTime ★1](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton
+* [PhalconTime ★2](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton
 
 
 ## Debug
@@ -229,7 +229,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Enterprise ★7](https://github.com/techpivot/phalcon-enterprise) - Provides extended enterprise functionality for the Phalcon PHP framework
 * [phalcon-recaptcha ★33 ⏳4Y](https://github.com/pavlosadovyi/phalcon-recaptcha) - Minimalist wrapper with which you can easily integrate reCAPTCHA
 * [phalcon-widget ★3 ⏳2Y](https://github.com/serebro/phalcon-widget) - Widgets for Phalcon apps
-* [PhalconBlacklist ★4 ⏳1Y](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
+* [PhalconBlacklist ★4 ⏳2Y](https://github.com/touhonoob/PhalconBlacklist) - PHP IP/CIDR Blacklist Library Built With Phalcon + MySQL
 * [PhalconPoll ★4 ⏳2Y](https://github.com/touhonoob/PhalconPoll) - Simple PHP Poll Service Built With Phalcon PHP Framework + MySQL + Redis
 * [Phalcony ★19 ⏳1Y](https://github.com/ovr/phalcony) - Library for expansion the base functional of Phalcon PHP Framework
 * [yarak ★10](https://github.com/zachleigh/yarak) - Laravel inspired Phalcon devtools
@@ -271,7 +271,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [PhalconRest ★208 ⏳1Y](https://github.com/cmoore4/phalcon-rest) - A Base project for APIs using the Phalcon PHP Framework
 * [phest ★23 ⏳1Y](https://github.com/ovide/phest) - REST API library for Phalcon
 * [php-hmac-rest-api ★157](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application
-* [PhREST API ★27](https://github.com/phrest/api) - Phalcon PHP Framework REST API Package
+* [PhREST API ★27 ⏳1Y](https://github.com/phrest/api) - Phalcon PHP Framework REST API Package
 * [rest-seed ★6 ⏳3Y](https://github.com/michaelkrone/rest-seed) - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
 
 
@@ -347,7 +347,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 *ORM and Forms validators.*
 
-* [Phalcon Validators ★3 ⏳3Y](https://github.com/renatoneto/phalcon-validators) - Extra validators for Phalcon PHP Framework
+* [Phalcon Validators ★3 ⏳4Y](https://github.com/renatoneto/phalcon-validators) - Extra validators for Phalcon PHP Framework
 * [phalswag ★2 ⏳1Y](https://github.com/tomi20v/phalswag) - Validate request input against swagger config in Phalcon PHP Framework
 * [PHP Request Validator ★21 ⏳1Y](https://github.com/progsmile/request-validator) - Easy PHP validation with the Phalcon support
 * [zvps-phalcon-validators ★2 ⏳1Y](https://github.com/zVPS/zvps-phalcon-validators) - Additional form and data validators extending the inbuilt Phalcon validate interface

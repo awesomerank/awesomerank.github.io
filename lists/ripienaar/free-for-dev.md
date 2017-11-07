@@ -160,7 +160,7 @@ Table of Contents
   * [semaphoreci.com](https://semaphoreci.com/) — Free for Open Source, 100 private builds per month
   * [shippable.com](https://app.shippable.com/) — 150 private builds/month, free for 1 build container, private and public repos
   * [appveyor.com](http://www.appveyor.com/) — CD service for Windows, free for Open Source
-  * [github.com ★411](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
+  * [github.com ★425](https://github.com/ligurio/Continuous-Integration-services) — Comparison of Continuous Integration services
   * [ftploy.com](http://ftploy.com/) — 1 project with unlimited deployments
   * [deployhq.com](http://www.deployhq.com/) — 1 project with 10 daily deployments
   * [hub.jazz.net](https://hub.jazz.net/) — 60 minutes of free build time/month
@@ -378,6 +378,7 @@ Table of Contents
   * [stackstorm.com](https://stackstorm.com/) — Event-driven automation for apps, services and workflows, free without flow, access control, LDAP,...
   * [simperium.com](https://simperium.com/) — Move data everywhere instantly and automatically, multi-platform, unlimited sending and storage of structured data, max. 2,500 users/month
   * [stamplay.com](https://stamplay.com/) — Connect services together with a visual interface. 50,000 API calls, 100 GB data transfer and 1 GB storage for free
+  * [pushcrew.com](https://pushcrew.com/) — Push notification service. Unlimited notifications up to 2000 Subscribers
 
 ## Web Hosting
 
@@ -648,7 +649,7 @@ Table of Contents
 
 ## Other Free Resources
   * [github.com - FOSS for Dev](https://github.com/httpsGithubParty/FOSS-for-Dev) — A hub of free and Open Source software for developers
-  * [github.com - Free for nonprofit ★56](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
+  * [github.com - Free for nonprofit ★57](https://github.com/pborreli/free-for-nonprofit) — List of free services for nonprofit organizations
   * [getawesomeness](https://getawesomeness.herokuapp.com) — Retrieve all amazing awesomeness from GitHub... a must see
   * [education.github.com](https://education.github.com/pack) — Collection of free services for students. Registration required
 ---

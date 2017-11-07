@@ -44,26 +44,26 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [Official list](http://elm-lang.org/examples) - Examples from _basic_ to _big-project_ in official website.
 * [Builtwithelm](http://builtwithelm.co/) - Web site built with elm with list of projects and apps built with Elm.
-* [Elm Joust ★19](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
+* [Elm Joust ★21](https://github.com/stefankreitmayer/elm-joust) — a two-player fighting game written in Elm.
 * [Elmtris](http://people.cs.umass.edu/~jcollard/elmtris/) — A Tetris game for the web browser written in Elm.
 * [Vessel ★94 ⏳2Y](https://github.com/slawrence/vessel) - A "tunnel" game written in Elm!
-* [Sliding Puzzle ★48 ⏳1Y](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
-* [TodoMVC ★845](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
-* [TodoMVC with JSON API ★86](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
-* [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture ★3504](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
-* [\<elm-ement\> ★34](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
+* [Sliding Puzzle ★48 ⏳2Y](https://github.com/moroshko/sliding-puzzle) - Configurable sliding puzzle game written in Elm.
+* [TodoMVC ★866](https://github.com/evancz/elm-todomvc) - Proper implementation of the TodoMVC app.
+* [TodoMVC with JSON API ★88](https://github.com/andrewsuzuki/elm-todo-rest-api) - Bare-bones, modular, heavily-documented todo app with JSON API persistence.
+* [TodoMVC/Firebase](https://github.com/ThomasWeiser/todomvc-elmfire) - Fork of TodoMVC demonstrating start-app, [The Elm Architecture ★3541](https://github.com/evancz/elm-architecture-tutorial) and Firebase as backend.
+* [\<elm-ement\> ★37](https://github.com/ohanhi/elm-ement) – Minimal example of a custom element.
 * [Elm Playground](http://elm-playground.maciejsmolinski.com/) - Tiny Elm projects implemented for the sake of learning by example.
-* [TodoMVC in Electron ★80](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the Elm TodoMVC app in Electron.
-* [Gipher ★213 ⏳1Y](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
-* [Elm Architecture in Android ★47 ⏳1Y](https://github.com/glung/elm-architecture-android) - An example Android application implemented with the Elm Architecture using the Kotlin programming language and Anko library.
-* [Collection of examples ★133](https://github.com/halfzebra/elm-examples) - A collection of examples with advanced techniques for real-world Elm apps.
-* [Elm Flatris ★249](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
-* [Elm + Phoenix + Webpack ★31](https://github.com/ronanyeah/elm-phoenix-example) - A minimal Elm + Phoenix setup, using webpack instead of Brunch.
-* [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - Full stack Elm app w/ CRUD operations, Auth, routing, pagination and more. [Code ★1192](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
-* [Spotify Mapper ★30](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
-* [Elm Hangman ★13](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
+* [TodoMVC in Electron ★82](https://github.com/nirgn975/Elmctron) -  Documented and tested implementation of the Elm TodoMVC app in Electron.
+* [Gipher ★216 ⏳1Y](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
+* [Elm Architecture in Android ★48 ⏳1Y](https://github.com/glung/elm-architecture-android) - An example Android application implemented with the Elm Architecture using the Kotlin programming language and Anko library.
+* [Collection of examples ★137](https://github.com/halfzebra/elm-examples) - A collection of examples with advanced techniques for real-world Elm apps.
+* [Elm Flatris ★257](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
+* [Elm + Phoenix + Webpack ★35](https://github.com/ronanyeah/elm-phoenix-example) - A minimal Elm + Phoenix setup, using webpack instead of Brunch.
+* [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - Full stack Elm app w/ CRUD operations, Auth, routing, pagination and more. [Code ★1261](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
+* [Spotify Mapper ★36](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.
+* [Elm Hangman ★15](https://github.com/puemos/elm-hangman) - The game of Hangman written in Elm.
 * [Pokelmon ★6](https://github.com/brenopanzolini/pokelmon) - Elm project consuming PokéAPI.
-* [JWT auth with Django + Elm ★4](https://github.com/apirobot/django-elm-auth-with-jwt) - JSON Web Token (JWT) authentication using Django (backend) and Elm (frontend).
+* [JWT auth with Django + Elm ★7](https://github.com/apirobot/django-elm-auth-with-jwt) - JSON Web Token (JWT) authentication using Django (backend) and Elm (frontend).
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -75,14 +75,14 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Official tutorial](http://elm-lang.org/docs) — General information and in-depth guide with examples.
 * [Elm in Action](https://www.manning.com/books/elm-in-action?a_aid=elm_in_action&a_bid=b15edc5c) — In-depth book for Elm beginners, from Manning Publications.
 * [Elm’s Time Traveling Debugger](http://debug.elm-lang.org/) - Debugger that lets you travel backwards and forwards in time.
-* [Architecture Tutorial ★3504](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
-* [Start app ★409 ⏳1Y](https://github.com/evancz/start-app) - Make an app, start it up.
+* [Architecture Tutorial ★3541](https://github.com/evancz/elm-architecture-tutorial) - How to create modular Elm code that scales nicely with your app.
+* [Start app ★408 ⏳1Y](https://github.com/evancz/start-app) - Make an app, start it up.
 * [Elm: Building Reactive Web Apps](https://pragmaticstudio.com/elm) - Learn how to build reactive web apps using Elm.
 * [Learn you an Elm](http://learnyouanelm.github.io/) - Elm tutorial with exhaustive examples and descriptions.
 * [Writing native](https://github.com/NoRedInk/take-home/wiki/Writing-Native) - Learn how to create native JavaScript modules for Elm.
 * [Elm: Functional frontend development](https://dennisreimann.de/articles/elm.html) - Series of articles about fundamentals and advanced topics.
 * [Elm Tutorial](http://www.elm-tutorial.org/) - A tutorial on developing single page web applications with Elm.
-* [Elm cheat sheet ★673](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
+* [Elm cheat sheet ★687](https://github.com/izdi/elm-cheat-sheet) - Syntax and features overview.
 * [Learn Elm in Y Minutes](https://learnxinyminutes.com/docs/elm/) - Syntax and features overview. The Elm page on [learnxinyminutes.com](https://learnxinyminutes.com)
 * [A Concise Introduction to Elm](https://www.cis.upenn.edu/~matuszek/Concise%20Guides/Concise%20Elm.html) - High overview of language features.
 * [Elm Maybe - Dealing with null/Nothing](http://rundis.github.io/blog/2016/elm_maybe.html) - Working with the Maybe type, with nicely commented code examples.
@@ -91,7 +91,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm Seeds](https://elmseeds.thaterikperson.com/) - Short screencasts to teach you the Elm programming language from Erik Person.
 * [Elm For Beginners - Video Course](http://courses.knowthen.com/courses/elm-for-beginners) - Build your first Elm Web App.
 * [Single-Page Web Apps in Elm](https://www.linkedin.com/pulse/single-page-web-apps-elm-part-one-getting-started-new-kevin-greene) - Five parts tutorial on Elm.
-* [Elm Koans ★173](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
+* [Elm Koans ★176](https://github.com/robertjlooby/elm-koans) - Practice exercises for learning Elm.
 * [Beginning Elm](http://elmprogramming.com/) - A gentle introduction to the Elm programming language.
 * [Elm Tutorials on Codementor](https://www.codementor.io/elm/tutorial) - Two tutorials on building web apps with Elm.
 * [Elm FAQ](http://faq.elm-community.org/) - Elm FAQ from [Elm Community](http://elm-community.org/).
@@ -176,18 +176,18 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Useful helpers to build apps.*
 
-* [core ★1376](https://github.com/elm-lang/core) - Elm Core Libraries.
-* [html ★217](https://github.com/elm-lang/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
-* [elm-test ★252](https://github.com/elm-community/elm-test) - A unit testing framework for Elm.
+* [core ★1448](https://github.com/elm-lang/core) - Elm Core Libraries.
+* [html ★227](https://github.com/elm-lang/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
+* [elm-test ★258](https://github.com/elm-community/elm-test) - A unit testing framework for Elm.
 * [elm-router ★96 ⏳1Y](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
-* [http ★50](https://github.com/elm-lang/http) - Make HTTP requests in Elm.
-* [elm-http-builder ★104](https://github.com/lukewestby/elm-http-builder) - Build and handle JSON requests more naturally than with low-level elm-http.
+* [http ★56](https://github.com/elm-lang/http) - Make HTTP requests in Elm.
+* [elm-http-builder ★110](https://github.com/lukewestby/elm-http-builder) - Build and handle JSON requests more naturally than with low-level elm-http.
 * [elm-console ★53 ⏳1Y](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.
-* [lazy ★14](https://github.com/elm-lang/lazy) - Lazy Evaluation in Elm.
-* [elm-ui ★618](https://github.com/gdotdesign/elm-ui) - UI Library in Elm.
-* [elm-mdl ★800](https://github.com/debois/elm-mdl) - Material Design component library in Elm. With [demo](https://debois.github.io/elm-mdl/).
+* [lazy ★17](https://github.com/elm-lang/lazy) - Lazy Evaluation in Elm.
+* [elm-ui ★632](https://github.com/gdotdesign/elm-ui) - UI Library in Elm.
+* [elm-mdl ★827](https://github.com/debois/elm-mdl) - Material Design component library in Elm. With [demo](https://debois.github.io/elm-mdl/).
 * [elmfire](https://github.com/ThomasWeiser/elmfire) - Use Firebase as backend. For higher level API: [elmfire-extra ★15 ⏳1Y](https://github.com/ThomasWeiser/elmfire-extra).
-* [elm-bootstrap ★176](https://github.com/rundis/elm-bootstrap) - Comprehensive Bootstrap 4 library for Elm. [Docs site](http://elm-bootstrap.info).
+* [elm-bootstrap ★184](https://github.com/rundis/elm-bootstrap) - Comprehensive Bootstrap 4 library for Elm. [Docs site](http://elm-bootstrap.info).
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -196,23 +196,23 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Tools around Elm platform.*
 
-* [elm-compiler ★4067](https://github.com/elm-lang/elm-compiler) - Compiler for the Elm programming language.
-* [elm-make ★140](https://github.com/elm-lang/elm-make) - A build tool for Elm projects.
-* [elm-reactor ★389](https://github.com/elm-lang/elm-reactor) - Interactive development tool that makes it easy to develop and debug Elm programs.
-* [elm-live ★437](https://github.com/tomekwi/elm-live) - A flexible dev server for Elm. Live reload included!
-* [elm-repl ★155](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
-* [elm-package ★170](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
+* [elm-compiler ★4133](https://github.com/elm-lang/elm-compiler) - Compiler for the Elm programming language.
+* [elm-make ★146](https://github.com/elm-lang/elm-make) - A build tool for Elm projects.
+* [elm-reactor ★395](https://github.com/elm-lang/elm-reactor) - Interactive development tool that makes it easy to develop and debug Elm programs.
+* [elm-live ★457](https://github.com/tomekwi/elm-live) - A flexible dev server for Elm. Live reload included!
+* [elm-repl ★161](https://github.com/elm-lang/elm-repl) - A REPL for Elm.
+* [elm-package ★184](https://github.com/elm-lang/elm-package) - CLI to share Elm libraries.
 * [elm-init ★9 ⏳1Y](https://github.com/JustusAdam/elm-init) - Interactive setup for new Elm projects.
-* [elm-new ★68](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
-* [elm-format ★807](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
+* [elm-new ★69](https://github.com/simonewebdesign/elm-new) - Generate initial project scaffolding based on a template.
+* [elm-format ★824](https://github.com/avh4/elm-format) - Automatic Elm code formatter adhering to [Elm Style Guide](http://elm-lang.org/docs/style-guide).
 * [grunt-elm ★17](https://github.com/rtfeldman/grunt-elm) - Grunt plugin that compiles Elm files to JavaScript.
 * [elm-webpack-loader](https://github.com/rtfeldman/elm-webpack-loader) - Webpack loader for the Elm programming language.
 * [servelm ★122](https://github.com/eeue56/servelm) - A project enabling server-side use of Elm.
-* [elm-oracle ★131](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
-* [create-elm-app ★561](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
+* [elm-oracle ★135](https://github.com/ElmCast/elm-oracle) - Query for information about values in elm source files. Used by most editor plugins.
+* [create-elm-app ★619](https://github.com/halfzebra/create-elm-app) - Create Elm apps with no build configuration.
 * [html-to-elm](http://mbylstra.github.io/html-to-elm/) - Convert HTML to Elm Html. Useful when porting an app to Elm.
 * [elm-instant](https://atom.io/packages/elm-instant) - atom package to try your elm code from the editor. Provides a visual REPL and a preview pane.
-* [elm-analyse ★158](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
+* [elm-analyse ★168](https://github.com/stil4m/elm-analyse) - Linter for the Elm programming language.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -226,12 +226,12 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [atom-language-elm](https://atom.io/packages/language-elm) - Syntax highlighting and autocompletion for the Atom editor.
 * [elmjutsu](https://atom.io/packages/elmjutsu) - Autocompletion, go to definition, find usages, rename symbol, etc. for the Atom editor.
 * [atom-elm-navigator](https://atom.io/packages/elm-navigator) - A side panel that helps to navigate to any function, type definition or port in your project.
-* [emacs-elm-mode ★234](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
-* [elm-light-table ★117](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
+* [emacs-elm-mode ★239](https://github.com/jcollard/elm-mode) - Syntax highlighting, Elm REPL, Elm make and Elm format integration for the Emacs editor.
+* [elm-light-table ★119](https://github.com/rundis/elm-light) - Syntax highlighting, REPL, autocompletion, package management and much more for Light Table.
 * [Elm Language Support](https://packagecontrol.io/packages/Elm%20Language%20Support) - Syntax highlighting, REPL, autocompletion, and more for Sublime Text 2 and 3.
-* [Elm-vim ★335](https://github.com/ElmCast/elm-vim) - Elm mode for vim.
+* [Elm-vim ★343](https://github.com/ElmCast/elm-vim) - Elm mode for vim.
 * [vim-elm-help ★5 ⏳1Y](https://github.com/hoelzro/vim-elm-help) - Offline Elm documentation access in your editor.
-* [emmet-vim ★3898](https://github.com/mattn/emmet-vim) - Markup expansion with elm support.
+* [emmet-vim ★3926](https://github.com/mattn/emmet-vim) - Markup expansion with elm support.
 * [elm-plugin](https://plugins.jetbrains.com/plugin/8192) - Elm plugin for IntelliJ IDEA.
 * [Elm Visual Studio Code Support](https://marketplace.visualstudio.com/items?itemName=sbrink.elm) - Syntax highlighting, Snippets, Function information, REPL, Reactor support (Webserver/Debugger) - Starting/Stopping
 * [HTML to Elm for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=Rubymaniac.vscode-html-to-elm) - VSCode plugin to convert HTML to Elm
@@ -242,7 +242,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 *Place to share Elm libraries.*
 
-* [elm-package ★170](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
+* [elm-package ★184](https://github.com/elm-lang/elm-package) - Command line tool to share Elm libraries.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -251,7 +251,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 *Good starting point for a new Elm project.*
 
 * [elm-webpack-starter](https://github.com/moarwick/elm-webpack-starter) - A simple Webpack setup for writing Elm apps.
-* [elm-app-boilerplate ★110](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
+* [elm-app-boilerplate ★113](https://github.com/gkubisa/elm-app-boilerplate) - A fully-featured base project for Elm apps: Webpack, HMR, ES6, JS and Elm tests, Semantic UI, sample code and more.
 * [elmkit ★27](https://github.com/khusnetdinov/elmkit) - A lightweight Brunch based setup for web app. Includes Brunch, Hot Module Replacement, Elm, Scss, Elm tests.
 * [elm-boilerplate ★1](https://github.com/guillaumearm/elm-boilerplate) - A simple Makefile able to create Elm app
 
@@ -263,9 +263,9 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 
 * [Elm Search](http://klaftertief.github.io/elm-search/) - Search Elm documentation for operators, function signatures, etc.
 * [Try Elm](http://elm-lang.org/try) - Write and compile elm code online!
-* [404 Elm Street ★148](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
+* [404 Elm Street ★147](https://github.com/zalando/elm-street-404) - A fun WebGL game built with Elm.
 * [Debug Elm](http://debug.elm-lang.org/try) - Debug elm code online.
-* [Haskell to Elm ★57](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
+* [Haskell to Elm ★59](https://github.com/eeue56/haskell-to-elm) - Collection of examples on places where Elm is different to Haskell, targeted at Elm beginners coming from Haskell backgrounds.
 * [runelm.io](https://runelm.io) - A place to share and run Elm code.
 * [Ellie](https://ellie-app.com/new) - The **El**m **Li**ve **E**ditor
 * [Online REPL](http://elmrepl.cuberoot.in) - The ELM Online REPL

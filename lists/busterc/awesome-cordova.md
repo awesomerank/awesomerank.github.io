@@ -62,7 +62,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
       - [cordova-resource-generators ★36 ⏳1Y](https://github.com/busterc/cordova-resource-generators)
     - Icons
       - [cordova-icon ★536](https://github.com/AlexDisler/cordova-icon)
-      - [cordova-icon-gm ★4](https://github.com/disusered/cordova-icon-gm)
+      - [cordova-icon-gm ★4 ⏳1Y](https://github.com/disusered/cordova-icon-gm)
       - [cordova-res-builder ★0 ⏳2Y](https://github.com/mettbox/cordova-res-builder)
       - [cordova-resource-generators ★36 ⏳1Y](https://github.com/busterc/cordova-resource-generators)
     - Splash Screens

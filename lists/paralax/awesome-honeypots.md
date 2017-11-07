@@ -26,25 +26,26 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
 - [Guides](#guides)
 
 ## Related Lists
-- [awesome-pcaptools ★921](https://github.com/caesar0301/awesome-pcaptools), useful in network traffic analysis.
-- [awesome-malware-analysis ★2652](https://github.com/rshipp/awesome-malware-analysis), with some overlap here for artifact analysis.
+- [awesome-pcaptools ★967](https://github.com/caesar0301/awesome-pcaptools), useful in network traffic analysis.
+- [awesome-malware-analysis ★2785](https://github.com/rshipp/awesome-malware-analysis), with some overlap here for artifact analysis.
 
 ## <a name="honeypots"></a> Honeypots
 
 - Database Honeypots
     - [MongoDB-HoneyProxy ★47](https://github.com/Plazmaz/MongoDB-HoneyProxy) - A MongoDB honeypot proxy.
-    - [Elastic honey ★93 ⏳2Y](https://github.com/jordan-wright/elastichoney) - A Simple Elasticsearch Honeypot.
+    - [Elastic honey ★94 ⏳2Y](https://github.com/jordan-wright/elastichoney) - A Simple Elasticsearch Honeypot.
     - [mysql ★10 ⏳5Y](https://github.com/schmalle/MysqlPot) - A mysql honeypot, still very very early stage.
-    - [NoSQLpot ★83](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
+    - [NoSQLpot ★84](https://github.com/torque59/nosqlpot) - The NoSQL Honeypot Framework.
     - [ESPot ★8 ⏳3Y](https://github.com/mycert/ESPot) - An Elasticsearch honeypot written in NodeJS, to capture every attempts to exploit CVE-2014-3120.
     - [Delilah ★26 ⏳2Y](https://github.com/Novetta/delilah) - An Elasticsearch Honeypot written in Python.
+    - [mysql-honeypotd ★1](https://github.com/sjinks/mysql-honeypotd) - Low interaction MySQL honeypot written in C.
 
 - Web honeypots
-    - [Glastopf ★294 ⏳1Y](https://github.com/mushorg/glastopf) - Web Application Honeypot.
+    - [Glastopf ★304 ⏳1Y](https://github.com/mushorg/glastopf) - Web Application Honeypot.
     - Snare/Tanner - successors to Glastopf
-      - [Snare ★59](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot
-      - [Tanner ★35](https://github.com/mushorg/tanner) - Evaluating SNARE events
-    - [phpmyadmin_honeypot ★33 ⏳2Y](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpMyAdmin honeypot.
+      - [Snare ★65](https://github.com/mushorg/snare) - Super Next generation Advanced Reactive honEypot
+      - [Tanner ★38](https://github.com/mushorg/tanner) - Evaluating SNARE events
+    - [phpmyadmin_honeypot ★34 ⏳2Y](https://github.com/gfoss/phpmyadmin_honeypot) - - A simple and effective phpMyAdmin honeypot.
     - [Nodepot ★18 ⏳2Y](https://github.com/schmalle/Nodepot)  - A nodejs web application honeypot.
     - [basic-auth-pot ★10 ⏳2Y](https://github.com/bjeborn/basic-auth-pot) bap - http Basic Authentication honeyPot.
     - [Shadow Daemon](https://shadowd.zecure.org/overview/introduction/) - A modular Web Application Firewall / High-Interaction Honeypot for PHP, Perl & Python apps.
@@ -52,56 +53,56 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
     - [Google Hack Honeypot](http://ghh.sourceforge.net) - designed to provide reconnaissance against attackers that use search engines as a hacking tool against your resources.
     - [smart-honeypot ★11 ⏳3Y](https://github.com/freak3dot/smart-honeypot) - PHP Script demonstrating a smart honey pot.
     - [Bukkit Honeypot ★6 ⏳6Y](https://github.com/Argomirr/Honeypot) Honeypot - A honeypot plugin for Bukkit.
-    - [Laravel Application Honeypot ★285](https://github.com/msurguy/Honeypot) - Honeypot - Simple spam prevention package for Laravel applications.
-    - [stack-honeypot ★16 ⏳3Y](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses.
-    - [EoHoneypotBundle ★23](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
+    - [Laravel Application Honeypot ★289](https://github.com/msurguy/Honeypot) - Honeypot - Simple spam prevention package for Laravel applications.
+    - [stack-honeypot ★17 ⏳3Y](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses.
+    - [EoHoneypotBundle ★22](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
     - [shockpot ★40 ⏳1Y](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
     - [django-admin-honeypot ★400](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
     - WordPress honeypots
         - [HonnyPotter ★19 ⏳1Y](https://github.com/MartinIngesen/HonnyPotter) - A WordPress login honeypot for collection and analysis of failed login attempts.
-        - [HoneyPress ★51 ⏳1Y](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container.
-        - [wp-smart-honeypot ★15](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot.
-        - [wordpot ★106 ⏳2Y](https://github.com/gbrindisi/wordpot) - A WordPress Honeypot.
+        - [HoneyPress ★52 ⏳1Y](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container.
+        - [wp-smart-honeypot ★16](https://github.com/freak3dot/wp-smart-honeypot) - WordPress plugin to reduce comment spam with a smarter honeypot.
+        - [wordpot ★107 ⏳2Y](https://github.com/gbrindisi/wordpot) - A WordPress Honeypot.
 
 - Service Honeypots
     - [honeyntp ★34 ⏳3Y](https://github.com/fygrave/honeyntp) - NTP logger/honeypot.
     - [honeypot-camera ★31 ⏳2Y](https://github.com/alexbredo/honeypot-camera) - observation camera honeypot.
     - [troje ★33 ⏳3Y](https://github.com/dutchcoders/troje) - a honeypot built around lxc containers. It will run each connection with the service within a seperate lxc container.
-    - [HoneyPy ★250](https://github.com/foospidy/HoneyPy) - A low interaction honeypot.
-    - [Ensnare ★66](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
-    - [RDPy ★608 ⏳1Y](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python.
+    - [HoneyPy ★257](https://github.com/foospidy/HoneyPy) - A low interaction honeypot.
+    - [Ensnare ★67](https://github.com/ahoernecke/ensnare) - Easy to deploy Ruby honeypot.
+    - [RDPy ★617 ⏳2Y](https://github.com/citronneur/rdpy) - A Microsoft Remote Desktop Protocol (RDP) honeypot in python.
     - [Honeyprint ★7 ⏳1Y](https://github.com/glaslos/honeyprint) - Printer honeypot.
     - [Tom's Honeypot ★8 ⏳2Y](https://github.com/inguardians/toms_honeypot) - Low interaction Python honeypot.
-    - [Honeyport ★17](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python.
+    - [Honeyport ★19](https://github.com/securitygeneration/Honeyport) - A simple honeyport written in Bash and Python.
     - [AMTHoneypot ★2](https://github.com/packetflare/amthoneypot) - Honeypot for Intel's AMT Firmware Vulnerability CVE-2017-5689.
     - [Lyrebird](https://hub.docker.com/r/lyrebird/honeypot-base/) - A modern high-interaction honeypot framework.
 
 - Distributed Honeypots
-    - [DemonHunter ★7](https://github.com/RevengeComing/DemonHunter) - Low interaction Honepot Server.
+    - [DemonHunter ★9](https://github.com/RevengeComing/DemonHunter) - Low interaction Honepot Server.
 
 - Anti-honeypot stuff
-    - [kippo_detect ★36 ⏳2Y](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
+    - [kippo_detect ★37 ⏳2Y](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
 
 - ICS/SCADA honeypots
-    - [Conpot ★367](https://github.com/mushorg/conpot) - ICS/SCADA honeypot.
-    - [gridpot ★26 ⏳2Y](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets .
+    - [Conpot ★374](https://github.com/mushorg/conpot) - ICS/SCADA honeypot.
+    - [gridpot ★27 ⏳2Y](https://github.com/sk4ld/gridpot) - Open source tools for realistic-behaving electric grid honeynets .
     - [scada-honeynet](http://www.digitalbond.com/blog/2007/07/24/scada-honeynet-article-in-infragard-publication/) - mimics many of the services from a popular PLC and better helps SCADA researchers understand potential risks of exposed control system devices.
     - [SCADA honeynet](http://scadahoneynet.sourceforge.net) - Building Honeypots for Industrial Networks.
-    - [GasPot ★50 ⏳1Y](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST, common in the oil and gas industry.
+    - [GasPot ★52 ⏳1Y](https://github.com/sjhilt/GasPot) - Veeder Root Gaurdian AST, common in the oil and gas industry.
 
 - Other/random
-    - [NOVA ★38 ⏳2Y](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
+    - [NOVA ★40 ⏳2Y](https://github.com/DataSoft/Nova) uses honeypots as detectors, looks like a complete system.
     - [Open Canary](https://pypi.python.org/pypi/opencanary) - A low interaction honeypot intended to be run on internal networks.
-    - [OFPot ★5 ⏳4Y](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
-    - [OpenCanary ★251](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot.
+    - [OFPot ★6 ⏳4Y](https://github.com/upa/ofpot) - OpenFlow Honeypot, redirects traffic for unused IPs to a honeypot. Built on POX.
+    - [OpenCanary ★261](https://github.com/thinkst/opencanary) - Modular and decentralised honeypot.
     - [DSHP ★2 ⏳1Y](https://github.com/naorlivne/dshp) - Damn Simple HoneyPot with pluggable handlers.
 
 - Botnet C2 tools
-    - [Hale ★78 ⏳5Y](https://github.com/pjlantz/Hale) - Botnet command &amp; control monitor.
+    - [Hale ★82](https://github.com/pjlantz/Hale) - Botnet command &amp; control monitor.
     - [dnsMole](https://code.google.com/archive/p/dns-mole/) -  analyse dns traffic, and to potentionaly detect botnet C&C server and infected hosts.
 
 - IPv6 attack detection tool
-    - [ipv6-attack-detector ★17](https://github.com/mzweilin/ipv6-attack-detector)  - Google Summer of Code 2012 project, supported by The Honeynet Project organization.
+    - [ipv6-attack-detector ★18](https://github.com/mzweilin/ipv6-attack-detector)  - Google Summer of Code 2012 project, supported by The Honeynet Project organization.
 
 - Dynamic code instrumentation toolkit
     - [Frida](https://www.frida.re) - Inject JavaScript to explore native apps on Windows, Mac, Linux, iOS and Android.
@@ -114,7 +115,7 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
 
 - Distributed sensor deployment
     - [Smarthoneypot](https://smarthoneypot.com/) - custom honeypot intelligence system that is simple to deploy and easy to manage.
-    - [Modern Honey Network ★1249](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
+    - [Modern Honey Network ★1278](https://github.com/threatstream/mhn) - Multi-snort and honeypot sensor management, uses a network of VMs, small footprint SNORT installations, stealthy dionaeas, and a centralized server for management.
     - [ADHD](https://sourceforge.net/projects/adhd/) -  Active Defense Harbinger Distribution (ADHD) is a Linux distro based on Ubuntu LTS. It comes with many tools aimed at active defense preinstalled and configured.
 
 - Network Analysis Tool
@@ -134,10 +135,10 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
 
 - System instrumentation
     - [Sysdig](https://www.sysdig.org) - open source, system-level exploration: capture system state and activity from a running Linux instance, then save, filter and analyze.
-    - [Fibratus ★387](https://github.com/rabbitstack/fibratus) - tool for exploration and tracing of the Windows kernel.
+    - [Fibratus ★391](https://github.com/rabbitstack/fibratus) - tool for exploration and tracing of the Windows kernel.
 
 - Honeypot for USB-spreading malware
-    - [Ghost-usb ★39 ⏳2Y](https://github.com/honeynet/ghost-usb-honeypot) -  honeypot for malware that propagates via USB storage devices.
+    - [Ghost-usb ★42 ⏳2Y](https://github.com/honeynet/ghost-usb-honeypot) -  honeypot for malware that propagates via USB storage devices.
     - [Honeystick](http://www.ukhoneynet.org/research/honeystick-howto/)  - low interaction honeypot on USB stick
 
 - Data Collection
@@ -150,16 +151,16 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
 - VM monitoring and tools
     - [vmscope](http://cs.gmu.edu/~xwangc/Publications/RAID07-VMscope.pdf) - Monitoring of VM-based.
     - [vmitools](http://libvmi.com/) - C library with Python bindings that makes it easy to monitor the low-level details of a running virtual machine.
-    - [Antivmdetect ★198](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder.
-    - [VMCloak ★193](https://github.com/jbremer/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.
+    - [Antivmdetect ★207](https://github.com/nsmfoo/antivmdetection) - Script to create templates to use with VirtualBox to make vm detection harder.
+    - [VMCloak ★200](https://github.com/jbremer/vmcloak) - Automated Virtual Machine Generation and Cloaking for Cuckoo Sandbox.
 
 - Binary debugger
-    - [Hexgolems - Schem Debugger Frontend ★136 ⏳2Y](https://github.com/hexgolems/schem) - A debugger frontend.
+    - [Hexgolems - Schem Debugger Frontend ★139 ⏳2Y](https://github.com/hexgolems/schem) - A debugger frontend.
     - [Hexgolems - Pint Debugger Backend ★28 ⏳4Y](https://github.com/hexgolems/pint) - A debugger backend and LUA wrapper for PIN.
 
 - Mobile Analysis Tool
-    - [APKinspector ★525 ⏳4Y](https://github.com/honeynet/apkinspector) - APKinspector is a powerful GUI tool for analysts to analyze the Android applications.
-    - [Androguard ★1674](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more.
+    - [APKinspector ★530 ⏳4Y](https://github.com/honeynet/apkinspector) - APKinspector is a powerful GUI tool for analysts to analyze the Android applications.
+    - [Androguard ★1713](https://github.com/androguard/androguard) - Reverse engineering, Malware and goodware analysis of Android applications ... and more.
 
 - Low interaction honeypot
     - [Honeyperl](https://sourceforge.net/projects/honeyperl/) - Honeypot software based in Perl with plugins developed for many functions like : wingates, telnet, squid, smtp, etc.
@@ -172,25 +173,27 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
     - [Honeysink](http://www.honeynet.org/node/773) - open source network sinkhole that provides a mechanism for detection and prevention of malicious traffic on a given network.
     - [KFSensor](http://www.keyfocus.net/kfsensor/) - Windows based honeypot Intrusion Detection System (IDS).
     - [Honeyd ★1 ⏳2Y](https://github.com/provos/honeyd) Also see [more honeyd tools](#honeyd).
-    - [UDPot Honeypot ★22 ⏳3Y](https://github.com/jekil/UDPot) - Simple UDP / DNS honeypot scripts.
+    - [UDPot Honeypot ★24 ⏳3Y](https://github.com/jekil/UDPot) - Simple UDP / DNS honeypot scripts.
     - [Conpot](http://conpot.org/) - ow interactive server side Industrial Control Systems honeypot.
     - [Bifrozt ★3 ⏳1Y](https://github.com/Ziemeck/bifrozt-ansible) - Automatic deploy bifrozt with ansible.
     - [Beeswarm](http://www.beeswarm-ids.org/) - Honeypot deployment made easy.
     - [Bait and Switch](http://baitnswitch.sourceforge.net) - redirects all hostile traffic to a honeypot that is partially mirroring your production system.
-    - [Artillery ★277](https://github.com/trustedsec/artillery) - open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
+    - [Artillery ★279](https://github.com/trustedsec/artillery) - open-source blue team tool designed to protect Linux and Windows operating systems through multiple methods.
     - [slipm-honeypot ★5 ⏳4Y](https://github.com/rshipp/slipm-honeypot) - A simple low-interaction port monitoring honeypot.
     - [HoneyWRT ★12 ⏳2Y](https://github.com/CanadianJeff/honeywrt) - low interaction Python honeypot designed to mimic services or ports that might get targeted by attackers.
     - [Amun](http://amunhoney.sourceforge.net) - vulnerability emulation honeypot.
-    - [TelnetHoney ★2 ⏳1Y](https://github.com/AnguisCaptor/TelnetHoney) - A simple telnet honeypot.
-    - [Hontel ★59](https://github.com/stamparm/hontel) - Telnet Honeypot.
-    - [MTPot ★76](https://github.com/Cymmetria/MTPot) - Open Source Telnet Honeypot, focused on Mirai malware.
-    - [Heralding ★117](https://github.com/johnnykv/heralding) - A credentials catching honeypot.
+    - [TelnetHoney ★3 ⏳1Y](https://github.com/AnguisCaptor/TelnetHoney) - A simple telnet honeypot.
+    - [Hontel ★67](https://github.com/stamparm/hontel) - Telnet Honeypot.
+    - [MTPot ★78](https://github.com/Cymmetria/MTPot) - Open Source Telnet Honeypot, focused on Mirai malware.
+    - [Heralding ★121](https://github.com/johnnykv/heralding) - A credentials catching honeypot.
     - [vnclowpot ★5](https://github.com/magisterquis/vnclowpot) - A low interaction VNC honeypot.
     - [SIREN ★4](https://github.com/blaverick62/SIREN) - Semi-Intelligent HoneyPot Network - HoneyNet Intelligent Virtual Environment.
-    - [telnetlogger ★167](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet.
-    - [honeytrap ★61](https://github.com/tillmannw/honeytrap) - a low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services. 
+    - [telnetlogger ★169](https://github.com/robertdavidgraham/telnetlogger) - A Telnet honeypot designed to track the Mirai botnet.
+    - [honeytrap ★62](https://github.com/tillmannw/honeytrap) - a low-interaction honeypot and network security tool written to catch attacks against TCP and UDP services. 
     - [mwcollectd](https://www.openhub.net/p/mwcollectd) - a versatile malware collection daemon, uniting the best features of nepenthes and honeytrap.
     - [portlurker ★1](https://github.com/bartnv/portlurker) - Port listener / honeypot in Rust with protocol guessing and safe string display.
+    - [arctic-swallow ★0](https://github.com/ajackal/arctic-swallow) - a low interaction honeypot.
+    - [glutton ★45](https://github.com/mushorg/glutton) - All eating honeypot.
 
 - IDS signature generation
     - [Honeycomb](http://www.icir.org/christian/honeycomb/) - Automated signature creation using honeypots.
@@ -204,7 +207,7 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
 - Data Collection / Data Sharing
     - [HPfriends](http://hpfriends.honeycloud.net/#/home) - Honeypot data-sharing platform.
       - [hpfriends - real-time social data-sharing](http://heipei.github.io/sigint-hpfriends/) - Presentation about HPFriends feed system 
-    - [HPFeeds ★141 ⏳1Y](https://github.com/rep/hpfeeds) - lightweight authenticated publish-subscribe protocol.
+    - [HPFeeds ★142 ⏳1Y](https://github.com/rep/hpfeeds) - lightweight authenticated publish-subscribe protocol.
 
 - central management tool
     - [PHARM](http://www.nepenthespharm.com/) - Manage , Report, Analyze your distributed Nepenthes instances.
@@ -221,15 +224,15 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
 
 
 - Client
-    - [Pwnypot ★25 ⏳4Y](https://github.com/shjalayeri/pwnypot) - High Interaction Client Honeypot
+    - [Pwnypot ★26 ⏳4Y](https://github.com/shjalayeri/pwnypot) - High Interaction Client Honeypot
     - [MonkeySpider](http://monkeyspider.sourceforge.net)
     - [Capture-HPC-NG ★8 ⏳5Y](https://github.com/CERT-Polska/HSN-Capture-HPC-NG)
     - [URLQuery](https://urlquery.net/)
     - [Trigona](https://www.honeynet.org/project/Trigona)
     - [Thug](https://buffer.github.io/thug/)
     - [Shelia](http://www.cs.vu.nl/~herbertb/misc/shelia/)
-    - [PhoneyC ★17 ⏳2Y](https://github.com/honeynet/phoneyc)
-    - [Jsunpack-n ★80 ⏳2Y](https://github.com/urule99/jsunpack-n)
+    - [PhoneyC ★19 ⏳2Y](https://github.com/honeynet/phoneyc)
+    - [Jsunpack-n ★82 ⏳2Y](https://github.com/urule99/jsunpack-n)
     - [HoneyC](https://projects.honeynet.org/honeyc)
     - [HoneyBOT](http://www.atomicsoftwaresolutions.com/)
     - [CWSandbox / GFI Sandbox](https://www.gfi.com/products-and-solutions/all-products)
@@ -247,7 +250,7 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
     - [Deception Toolkit](http://www.all.net/dtk/dtk.html)
 
 - PDF document inspector
-    - [peepdf ★254](https://github.com/jesparza/peepdf)
+    - [peepdf ★265](https://github.com/jesparza/peepdf)
 
 - Distribution system
     - [Thug Distributed Task Queuing](https://thug-distributed.readthedocs.io/en/latest/index.html)
@@ -261,16 +264,18 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
 - SSH Honeypots
     - [Kojoney](http://kojoney.sourceforge.net/)
     - [Kojoney2 ★30 ⏳2Y](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
-    - [Kippo ★960 ⏳1Y](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
+    - [Kippo ★970 ⏳1Y](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
        - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
        - [DRG SSH Username and Password Authentication Tag Clouds](https://www.dragonresearchgroup.org/insight/sshpwauth-cloud.html) - live updated word clouds of SSH login honeypot data
-    - [Cowrie ★1274](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
+    - [Cowrie ★1303](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
     - [sshlowpot ★5](https://github.com/magisterquis/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
-    - [sshhipot ★108](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
+    - [sshhipot ★110](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
     - [DShield docker ★3 ⏳1Y](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
     - [hornet ★18](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot that supports multiple virtual hosts
-    - [ssh-honeypot ★117](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords.
+    - [ssh-honeypot ★122](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords.
     - [Kippo_JunOS ★10 ⏳1Y](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
+    - [ssh-honeypotd ★4](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C.
+    - [sshesame ★797](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)
@@ -301,7 +306,7 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
     - [xebek](https://code.google.com/archive/p/xebek/) - Sebek on Xen
 
 - SSH proxy
-    - [HonSSH ★193](https://github.com/tnich/honssh)
+    - [HonSSH ★219](https://github.com/tnich/honssh)
 
 - behavioral analysis tool for win32
     - [Capture BAT](https://www.honeynet.org/node/315)
@@ -310,12 +315,12 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
     - [DAVIX](http://www.secviz.org/node/89)
 
 - Spamtrap
-    - [Mailoney ★115](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
+    - [Mailoney ★117](https://github.com/awhitehatter/mailoney) - SMTP honeypot, Open Relay, Cred Harvester written in python.
     - [Spamhole](http://www.spamhole.net/)
     - [spamd](http://man.openbsd.org/cgi-bin/man.cgi?query=spamd%26apropos=0%26sektion=0%26manpath=OpenBSD+Current%26arch=i386%26format=html)
     - [Mail::SMTP::Honeypot](http://search.cpan.org/~miker/Mail-SMTP-Honeypot-0.11/Honeypot.pm) - perl module that appears to provide the functionality of a standard SMTP server
     - [honeypot ★1 ⏳1Y](https://github.com/jadb/honeypot) - The Project Honey Pot un-official PHP SDK
-    - [SpamHAT ★13 ⏳1Y](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
+    - [SpamHAT ★14 ⏳1Y](https://github.com/miguelraulb/spamhat) - Spam Honeypot Tool
     - [SendMeSpamIDS.py ★10](https://github.com/johestephan/SendMeSpamIDS.py) Simple SMTP fetch all IDS and analyzer
     - [Shiva ★95 ⏳1Y](https://github.com/shiva-spampot/shiva) - Spam Honeypot with Intelligent Virtual Analyzer
         - [Shiva The Spam Honeypot Tips And Tricks For Getting It Up And Running](https://www.pentestpartners.com/security-blog/shiva-the-spam-honeypot-tips-and-tricks-for-getting-it-up-and-running/)
@@ -336,10 +341,10 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
 
 - Dockerized Low Interaction packaging
     - [Manuka ★11 ⏳2Y](https://github.com/andrewmichaelsmith/manuka) - Docker based honeypot (Dionaea & Kippo).
-    - [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/) - A dockerized [Thug ★596](https://github.com/buffer/thug) to analyze malicious web content.
-    - [Dockerpot ★103 ⏳2Y](https://github.com/mrschyte/dockerpot) - A docker based honeypot.
-    - [Docker honeynet ★11 ⏳2Y](https://github.com/sreinhardt/Docker-Honeynet) - Several Honeynet tools set up for Docker containers.
-    - [mhn-core-docker ★5](https://github.com/MattCarothers/mhn-core-docker) - Core elements of the Modern Honey Network implemented in Docker.
+    - [Dockerized Thug](https://hub.docker.com/r/honeynet/thug/) - A dockerized [Thug ★606](https://github.com/buffer/thug) to analyze malicious web content.
+    - [Dockerpot ★106 ⏳2Y](https://github.com/mrschyte/dockerpot) - A docker based honeypot.
+    - [Docker honeynet ★12 ⏳2Y](https://github.com/sreinhardt/Docker-Honeynet) - Several Honeynet tools set up for Docker containers.
+    - [mhn-core-docker ★7](https://github.com/MattCarothers/mhn-core-docker) - Core elements of the Modern Honey Network implemented in Docker.
 
 - Network analysis
     - [Quechua](https://bitbucket.org/zaccone/quechua)
@@ -352,10 +357,10 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
     - [HoneyThing ★51 ⏳1Y](https://github.com/omererdem/honeything) - TR-069 Honeypot
 
 - Honeytokens
-    - [Honeyλ ★332](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway.
-    - [Honeybits ★85](https://github.com/0x4D31/honeybits) - A simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your production servers and workstations to lure the attacker toward your honeypots.
-    - [CanaryTokens ★163](https://github.com/thinkst/canarytokens)
-    - [dcept ★371 ⏳1Y](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens
+    - [Honeyλ ★338](https://github.com/0x4D31/honeylambda) - honeyLambda 'serverless trap' is a simple, serverless application designed to create and monitor URL honeytokens, on top of AWS Lambda and Amazon API Gateway.
+    - [Honeybits ★87](https://github.com/0x4D31/honeybits) - A simple tool designed to enhance the effectiveness of your traps by spreading breadcrumbs & honeytokens across your production servers and workstations to lure the attacker toward your honeypots.
+    - [CanaryTokens ★172](https://github.com/thinkst/canarytokens) - 
+    - [dcept ★373 ⏳1Y](https://github.com/secureworks/dcept) - A tool for deploying and detecting use of Active Directory honeytokens.
 
 ## <a name="honeyd"></a> Honeyd Tools
 
@@ -384,11 +389,11 @@ the honeyd daemon and generate configuration files
 
 - Sandbox
     - [RFISandbox](https://monkey.org/~jose/software/rfi-sandbox/) - a PHP 5.x script sandbox built on top of [funcall](https://pecl.php.net/package/funcall)
-    - [dorothy2 ★170 ⏳2Y](https://github.com/m4rco-/dorothy2) - A malware/botnet analysis framework written in Ruby
+    - [dorothy2 ★172 ⏳2Y](https://github.com/m4rco-/dorothy2) - A malware/botnet analysis framework written in Ruby
     - [COMODO automated sandbox](https://help.comodo.com/topic-72-1-451-4768-.html)
     - [Argos](http://www.few.vu.nl/argos/) - An emulator for capturing zero-day attacks
-    - [libemu ★24](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
-    - [Pylibemu ★81 ⏳1Y](https://github.com/buffer/pylibemu) - A Libemu Cython wrapper.
+    - [libemu ★27 ⏳1Y](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
+    - [Pylibemu ★88 ⏳1Y](https://github.com/buffer/pylibemu) - A Libemu Cython wrapper.
     - [imalse ★5 ⏳3Y](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator.
     - [Cuckoo](https://cuckoosandbox.org/) - he leading open source automated malware analysis system.
 
@@ -429,7 +434,7 @@ the honeyd daemon and generate configuration files
 ## <a name="guides"></a>Guides
 
 - [T-Pot: A Multi-Honeypot Platform](https://dtag-dev-sec.github.io/mediator/feature/2015/03/17/concept.html)
-- [Honeypot (Dionaea and kippo) setup script ★64](https://github.com/andrewmichaelsmith/honeypot-setup-script)
+- [Honeypot (Dionaea and kippo) setup script ★65 ⏳1Y](https://github.com/andrewmichaelsmith/honeypot-setup-script)
 
 - Deployment
     - [Dionaea and EC2 in 20 Minutes](http://andrewmichaelsmith.com/2012/03/dionaea-honeypot-on-ec2-in-20-minutes/) - a tutorial on setting up Dionaea on an EC2 instance

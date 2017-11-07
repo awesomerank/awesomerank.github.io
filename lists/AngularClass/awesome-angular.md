@@ -464,7 +464,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Cloudinary](https://github.com/cloudinary/cloudinary_angular/tree/angular_next) - Angular2 SDK for image and video management in the cloud
 * [angular2-simple-countdown ★18](https://github.com/previousdeveloper/angular2-simple-countdown) - a simple countdown angular2 directive with multiple language
 * [ng-http-cache ★17](https://github.com/davguij/angular-http-cache) - Speed up your remote requests by automatically caching them on client.
-* [ng-animate ★96](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
+* [ng-animate ★123](https://github.com/jiayihu/ng-animate) - 🌙 A collection of cool, reusable and flexible animations for Angular
 * [lottie-angular2 ★85](https://github.com/chenqingspring/ng-lottie) - Render After Effects animations on Angular2 based on Bodymovin.
 * [ngx-restangular ★480](https://github.com/2muchcoffeecom/ngx-restangular) - Restangular for Angular 2 and higher versions.
 * [ngfb-sortable-table ★16](https://github.com/NodeArt/Angular-Firebase-Sortable-Table) - Angular Firebase Sortable Table. Ability to filter and sort data with own firebase quering tools.
@@ -482,12 +482,12 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-avatar ★35](https://github.com/HaithemMosbahi/ngx-avatar) - Avatar component that makes it possible to genearte / fetch avatar based on the information you have about the user.
 * [ngx-qrcode2 ★24](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes 
 * [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission` ★1099](https://github.com/Narzerus/angular-permission).
-* [ng-s-resource ★2](https://github.com/hiyali/ng-s-resource) - Simplify RESTful http resource generator for Angular 4+.
-* [ngx-siema ★35](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.
+* [ng-s-resource ★3](https://github.com/hiyali/ng-s-resource) - Simplify RESTful http resource generator for Angular 4+.
+* [ngx-siema ★37](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team
 * [ng-snotify ★104](https://github.com/artemsky/ng-snotify) - Angular 4 Notification Center
-* [ngx-permissions ★64](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
-* [nebular ★430](https://github.com/akveo/nebular) - Full-featured framework based on Angular
+* [ngx-permissions ★84](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
+* [nebular ★638](https://github.com/akveo/nebular) - Full-featured framework based on Angular
 * [ng-select ★20](https://github.com/ng-select/ng-select) Angular ng-select - All in One UI Select, Multiselect and Autocomplete
                                                                         
 #### Site Templates
@@ -570,7 +570,7 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [ng-skeleton ★30](https://github.com/born2net/ng-skeleton) - The ultimate Angular seed with ngrx, bootstrap and two factor auth
 * [angular2-demo ★91 ⏳1Y](https://github.com/amcdnl/angular2-demo) Minimal Angular2 Demo using TypeScript / Sass / Npm Tasks
 * [Angular 2 Dashboard Starter ★103](https://github.com/hasanhameed07/angular2-dashboard-starter) - Ready to use dashboard control panel seed project based on Angular 2 and AdminLTE bootstrap theme.
-* [ngx-admin ★8048](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
+* [ngx-admin ★8553](https://github.com/akveo/ngx-admin) - Admin template based on Nebular framework (Angular 4+, Bootstrap 4+)
 * [Angular 2 quickstart seed ★85](https://github.com/valor-software/angular2-quickstart)
 * [Angular 2 full code coverage ★16 ⏳1Y](https://github.com/danday74/angular2-coverage) - Solid tested SystemJS and gulp workflow ready for your code using Angular2 final release (2.1.0) .. Demonstrates unit testing and full code coverage
 * [Angular 2 webpack](https://github.com/michaelbazos/angular2-starter) - Tour of Heroes official typescript tutorial built with webpack
@@ -581,7 +581,9 @@ TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
 * [Angular NPM Module Seed ★38](https://github.com/davguij/angular-npm-module-seed) - Starting point for developing Angular modules and publishing them on NPM.
 * [Angular2 D3v4 Seed ★11](https://github.com/gp187/angular2-d3v4-graph) - Angular2 D3v4 implementation of charts, graphs, area and view porting seed project
 * [ng-seed/spa](https://github.com/ng-seed/spa) - Seed project for Angular apps featuring Webpack, dev/prod modes, DLLs, AoT compilation, HMR, SCSS compilation, lazy loading, config, cache, i18n, SEO, and TSLint/codelyzer by @fulls1z3
-* [Reboard ★9](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
+* [Reboard ★12](https://github.com/ksiabani/reboard) - Angular 4 + Material 2 starter dashboard with ngx-charts, based on generator-ngx-rocket (Typescript, SASS, Webpack, Jasmine+Karma, Protractor, TSLint, Codelyzer, Stylelint, ngx-translate, Lodash, Angular Flex-Layout)
+* [Angular5 + Redux + Graphql + MySQL quickstart ★10](https://github.com/rafaesc/fullstack-graphql-angular) - Simple Fullstack GraphQL Application with Angular CLI + Redux + Express + GraphQL + Sequelize (supports MySQL, Postgres, Sqlite and MSSQL).
+* [Angular5 + Firebase + Structure ★6](https://github.com/naologic/angular5-starter) - Angular 5 + Firebase + a very good router/module structure to make it your own so easy
 * [**{{** add_your_repo **}}**](https://github.com/angularclass/awesome-angular/edit/gh-pages/README.md)
 
 

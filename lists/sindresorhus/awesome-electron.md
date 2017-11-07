@@ -178,8 +178,9 @@ Made with Electron.
 - [Wexond](https://github.com/sential/wexond) - Web browser with material UI and extensions API.
 - [Buka ★264](https://github.com/oguzhaninan/Buka) - E-book management.
 - [Insomnia ★4728](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
-- [Tusk ★191](https://github.com/champloohq/tusk) - Unofficial Evernote app.
+- [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 - [ProtonMail Desktop ★134](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
+- [Comma Chameleon ★160](https://github.com/theodi/comma-chameleon) - CSV editor.
 
 ### Closed Source
 
@@ -239,8 +240,8 @@ Made with Electron.
 - [electron-quick-start ★3003](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 - [bozon ★516](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue ★3245](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
-- [electron-next-skeleton ★58](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
-- [electron-sandbox ★5](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
+- [electron-next-skeleton ★68](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
+- [electron-sandbox ★9](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
 
 
 ## Tools
@@ -256,7 +257,7 @@ Made with Electron.
 - [electron-gh-release ★181](https://github.com/jenslind/electron-gh-releases) - Auto-update by releasing on GitHub.
 - [electron-release ★61 ⏳1Y](https://github.com/jenslind/electron-release) - Publish a new release of your app to GitHub.
 - [electron-updater](https://github.com/evolvelabs/electron-updater) - Auto-updater leveraging npm to deploy updates.
-- [fix-path ★87](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
+- [fix-path ★87 ⏳1Y](https://github.com/sindresorhus/fix-path) - Fix the $PATH on macOS when run from a GUI app. Useful when spawning a child process.
 - [auto-launch ★401](https://github.com/Teamwork/node-auto-launch) - Launch apps at system startup.
 - [nuts ★694](https://github.com/GitbookIO/nuts) - Releases server with auto-updater and GitHub as a backend.
 - [electron-dl ★304](https://github.com/sindresorhus/electron-dl) - Simplified file downloads.
@@ -302,6 +303,7 @@ Made with Electron.
 - [electron-unhandled ★73](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 - [electron-process-manager ★37](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux ★3](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
+- [electron-util ★77](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
 
 ### Using Electron
 
@@ -310,7 +312,7 @@ Made with Electron.
 - [electron-stream ★85](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 - [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (alternative to PhantomJS).
 - [electron-pdf ★698](https://github.com/fraserxu/electron-pdf) - Generate PDF from URL, HTML, or Markdown files on the command-line.
-- [Geojsonapp ★305 ⏳1Y](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
+- [Geojsonapp ★305 ⏳2Y](https://github.com/mick/geojsonapp) - Preview GeoJSON locally.
 - [electron-mocha ★255](https://github.com/jprichardson/electron-mocha) - Run Mocha tests in Electron.
 - [electron-har ★24](https://github.com/shyiko/electron-har) - Command-line tool for generating HTTP Archive (HAR).
 - [electron-windows-store](https://github.com/catalystcode/electron-windows-store) - Turn Electron apps into Windows Store AppX packages.
@@ -371,6 +373,7 @@ Made with Electron.
 - [Electron: Building Cross Platform Desktop Apps - Lynda](https://www.lynda.com/Electron-tutorials/Electron-Building-Cross-Platform-Desktop-Apps/518051-2.html) 💲
 - [Automatically Build and Publish Node and Electron Applications for Linux](https://pusher.com/sessions/meetup/london-node-user-group/automatically-build-and-publish-node-and-electron-applications-for-linux)
 - [Build a desktop application with Electron - Egghead](https://egghead.io/courses/build-a-desktop-application-with-electron) 💲
+- [Build Cross-Platform Desktop Apps with Electron - Frontend Masters](https://frontendmasters.com/courses/electron/) 💲
 
 
 ## Podcasts

@@ -67,29 +67,29 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 ### Utilities
 
 - [Gifgen ★173](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
-- [Gifify ★3789](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF
-- [Gifify (not the same) ★860 ⏳1Y](https://github.com/jclem/gifify) - convert screen recording into GIF
-- [Gifsicle ★467](https://github.com/pornel/giflossy) - lossy GIF compressor
-- [Gifs ★1529](https://github.com/jglovier/gifs) - storage place for GIFs - [demo](http://gifs.joelglovier.com)
-- [Gifshot ★2870](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo - [demo](http://yahoo.github.io/gifshot/)
+- [Gifify ★3872](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF
+- [Gifify (not the same) ★881 ⏳1Y](https://github.com/jclem/gifify) - convert screen recording into GIF
+- [Gifsicle ★491](https://github.com/pornel/giflossy) - lossy GIF compressor
+- [Gifs ★1531](https://github.com/jglovier/gifs) - storage place for GIFs - [demo](http://gifs.joelglovier.com)
+- [Gifshot ★2887](https://github.com/yahoo/gifshot) - create animated GIFs from media by Yahoo - [demo](http://yahoo.github.io/gifshot/)
 - [Gifsockets ★1598 ⏳5Y](https://github.com/videlalvaro/gifsockets) - Real Time communication library using Animated GIFs as a transport
-- [X-gif ★1893](https://github.com/geelen/x-gif) - a web component for flexible GIF playback
-- [gifme ★324 ⏳3Y](https://github.com/holman/gifme) - generate animated GIFs
-- [GifW00t ★689 ⏳2Y](https://github.com/yaronn/GifW00t) - javascript web recorder
+- [X-gif ★1900](https://github.com/geelen/x-gif) - a web component for flexible GIF playback
+- [gifme ★326 ⏳3Y](https://github.com/holman/gifme) - generate animated GIFs
+- [GifW00t ★692 ⏳2Y](https://github.com/yaronn/GifW00t) - javascript web recorder
 - [gif-machine ★54 ⏳2Y](https://github.com/lelandbatey/gif-machine) - GIF creation from Youtube videos
-- [gifstreaming ★130](https://github.com/jbochi/gifstreaming) - Live video streaming server
-- [Screengif ★966](https://github.com/dergachev/screengif) - Create animated GIF screencasts
-- [vnc-over-gif ★516](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http
+- [gifstreaming ★132](https://github.com/jbochi/gifstreaming) - Live video streaming server
+- [Screengif ★979](https://github.com/dergachev/screengif) - Create animated GIF screencasts
+- [vnc-over-gif ★517](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http
 - [gifdeck ★92 ⏳2Y](https://github.com/jaipandya/gifdeck) - Convert your SlideShares into animated GIFs
 - [Gifbot ★38 ⏳3Y](https://github.com/schuyler/gifbot) - GIF search for Slack
 - [Gif-camera ★20 ⏳4Y](https://github.com/FuzzyWobble/GIF-Camera) - create animated GIFs using webcam
 - [Gifline ★54](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails
 - [Gifdrop ★36 ⏳1Y](https://github.com/markjaquith/gifdrop) - Create a repository for your collection of gif images
 - [Gh-gif ★21](https://github.com/node-gh/gh-gif) - NodeGH plugin for commenting on pull requests/issues using GIF reactions
-- [Tty2gif ★140 ⏳2Y](https://github.com/z24/tty2gif) - record scripts and their outputs into both binary and GIF formats
+- [Tty2gif ★141 ⏳2Y](https://github.com/z24/tty2gif) - record scripts and their outputs into both binary and GIF formats
 - [Giftoppr ★36 ⏳4Y](https://github.com/desktoppr/giftoppr) - Sync your favourite GIFs with Dropbox
-- [Gifit ★99](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video
-- [Ccapture.js ★907](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas
+- [Gifit ★98](https://github.com/Fauntleroy/GIFit) - Chrome extension to make a GIF from a YouTube video
+- [Ccapture.js ★945](https://github.com/spite/ccapture.js) - Capture animations created with HTML5 canvas
 - [Kap](https://getkap.co/) - Beautiful open-source app to capture your screen and export to GIF.
 - [Gifit (the other one) ★7](https://github.com/rotblauer/gifit) - Get a search resulting giphy GIF in markdown in stdout, ala `$ gifit kittens`.
 
@@ -101,8 +101,8 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### C++
 
-- [Node-gif ★162 ⏳2Y](https://github.com/pkrumins/node-gif) - C++ library to make GIF
-- [Gif-h ★146 ⏳3Y](https://github.com/ginsweater/gif-h) - C++ one-header library for the creation of animated GIFs
+- [Node-gif ★163 ⏳2Y](https://github.com/pkrumins/node-gif) - C++ library to make GIF
+- [Gif-h ★149 ⏳3Y](https://github.com/ginsweater/gif-h) - C++ one-header library for the creation of animated GIFs
 - [OfxGifEncoder ★90](https://github.com/jesusgollonet/ofxGifEncoder) - C++ openframeworks addon to export animated GIFs
 
 <h3 id="c-sharp">C#</h2>
@@ -113,34 +113,34 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Haxe
 
-- [Gif ★24](https://github.com/snowkit/gif) - Haxe GIF encoder
+- [Gif ★25](https://github.com/snowkit/gif) - Haxe GIF encoder
 
 #### Java
 
-- [Android-gif-drawable ★5118](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android
+- [Android-gif-drawable ★5247](https://github.com/koral--/android-gif-drawable) - Views and Drawable for displaying animated GIFs on Android
 - [gifanimateddrawable ★219 ⏳3Y](https://github.com/Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable
 - [GifView ★79 ⏳4Y](https://github.com/RoiSoleil/GifView) - android library to deal with GIF
 - [Gif Movie View ★444 ⏳1Y](https://github.com/sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations
 - [GifImageView ★895](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images
-- [Gif-animation ★101](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF
-- [Android-gif-encoder ★201 ⏳5Y](https://github.com/nbadal/android-gif-encoder) - animated GIF encoder for Android
-- [GIFDroid ★90 ⏳2Y](https://github.com/quackware/GIFDroid) - Android video to GIF converter
+- [Gif-animation ★103](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF
+- [Android-gif-encoder ★208 ⏳5Y](https://github.com/nbadal/android-gif-encoder) - animated GIF encoder for Android
+- [GIFDroid ★91 ⏳2Y](https://github.com/quackware/GIFDroid) - Android video to GIF converter
 - [Android-GifStitch ★39 ⏳5Y](https://github.com/CaptPhunkosis/Android-GifStitch) - create and share animated GIFs
 
 #### JavaScript
 
-- [Gif.js ★2321](https://github.com/jnordberg/gif.js) - Javascript - create GIF from the DOM
-- [Omggif ★372](https://github.com/deanm/omggif) - Javascript - GIF 89a encoder and decoder
-- [Animated_GIF ★154 ⏳1Y](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs
-- [Gifffer ★565](https://github.com/krasimir/gifffer) JavaScript library that prevents the autoplaying of the animated GIFs
-- [Gifplayer ★335](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs
-- [Jsgif ★382 ⏳1Y](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player
-- [node-gify ★214 ⏳1Y](https://github.com/tj/node-gify) - Javascript convert videos to GIFs using ffmpeg and gifsicle
-- [Gifencoder ★197](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js
+- [Gif.js ★2347](https://github.com/jnordberg/gif.js) - Javascript - create GIF from the DOM
+- [Omggif ★378](https://github.com/deanm/omggif) - Javascript - GIF 89a encoder and decoder
+- [Animated_GIF ★155 ⏳1Y](https://github.com/sole/Animated_GIF) - Javascript library for creating animated GIFs
+- [Gifffer ★572](https://github.com/krasimir/gifffer) JavaScript library that prevents the autoplaying of the animated GIFs
+- [Gifplayer ★345](https://github.com/rubentd/gifplayer) - jquery plugin to play and stop animated GIFs
+- [Jsgif ★389 ⏳1Y](https://github.com/shachaf/jsgif) - JavaScript GIF parser and player
+- [node-gify ★217 ⏳1Y](https://github.com/tj/node-gify) - Javascript convert videos to GIFs using ffmpeg and gifsicle
+- [Gifencoder ★203](https://github.com/eugeneware/gifencoder) - Server side animated GIF generation for node.js
 - [Gif-video ★57 ⏳3Y](https://github.com/hughsk/gif-video) - Javascript Convert a GIF image into an HTML5-ready video
 - [Gif-player ★61 ⏳3Y](https://github.com/apankrat/gif-player) - On-demand GIF loader/player in Javascript
 - [GifgifLab-face ★6 ⏳2Y](https://github.com/Viral-MediaLab/gifgifLab-face) - Facial-emotion detectors
-- [node-youtube ★131 ⏳1Y](https://github.com/javascipt/node-youtube) - Youtube to snapshots and GIFs.
+- [node-youtube ★133 ⏳1Y](https://github.com/javascipt/node-youtube) - Youtube to snapshots and GIFs.
 
 #### PHP
 
@@ -151,17 +151,17 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 #### Objective-C
 
 - [AnimatedGIFImageSerialization ★1026](https://github.com/mattt/AnimatedGIFImageSerialization) - decodes an UIImage from Animated GIFs image data
-- [UIimage from GIF ★809 ⏳1Y](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs
-- [GIFRefreshControl ★302 ⏳3Y](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control
+- [UIimage from GIF ★811 ⏳1Y](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs
+- [GIFRefreshControl ★303 ⏳3Y](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control
 - [UIImageView-PlayGIF ★417 ⏳1Y](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF
 - [FLAnimatedImage ★6117](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard
 - [Animated-GIF-iPhone ★133 ⏳2Y](https://github.com/arturogutierrez/Animated-GIF-iPhone) - Support for Animated GIF on iOS
 - [UzysAnimatedGifPullToRefresh ★1403 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView
-- [SvGifView ★83 ⏳3Y](https://github.com/smileEvday/SvGifView) - iOS load and display GIF
+- [SvGifView ★84 ⏳3Y](https://github.com/smileEvday/SvGifView) - iOS load and display GIF
 - [GifHUD ★158 ⏳2Y](https://github.com/cemolcay/GiFHUD) - iOS progress hud for displaying only animated GIF images
 - [Video-Background GIF ★152 ⏳1Y](https://github.com/ElvinJin/Video-Background-GIF) - iOS Video Background GIF
 - [AnimatedGifExample ★40 ⏳7Y](https://github.com/kasatani/AnimatedGifExample) - iOS animated and transparent GIFs
-- [OLImageView ★869 ⏳2Y](https://github.com/dtorres/OLImageView) - iOS OLImage and OLImageView support for animated GIFs
+- [OLImageView ★868 ⏳2Y](https://github.com/dtorres/OLImageView) - iOS OLImage and OLImageView support for animated GIFs
 
 #### Swift
 
@@ -172,9 +172,9 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 - [Glyph](http://www.glyph.video/) - tool for generating seamlessly looping GIFs and cinemagraphs from videos
 - [Qgifer](https://sourceforge.net/projects/qgifer/)
-- [GIFs ★586 ⏳1Y](https://github.com/orta/GIFs) - Mac App for finding GIFs
+- [GIFs ★591 ⏳1Y](https://github.com/orta/GIFs) - Mac App for finding GIFs
 - [VineGifR ★87 ⏳4Y](https://github.com/esten/VineGifR) - Mac app to turn Vine videos into GIFs
-- [GifPro ★42 ⏳6Y](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
+- [GifPro ★43 ⏳6Y](https://github.com/unixpickle/GifPro) - GIF encoder for Mac
 - [Gif Maker](https://gifmaker.movielala.com) - High quailty GIF maker with filters for Mac
 - [AnimatedGif ★39](https://github.com/Waitsnake/AnimatedGif) - Mac Screensaver for playing GIFs
 
@@ -200,7 +200,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 ### Niche
 
-- [Starwars-dot-gif ★468 ⏳1Y](https://github.com/LindseyB/starwars-dot-gif) - Python script to generate GIFs from star wars
+- [Starwars-dot-gif ★472](https://github.com/LindseyB/starwars-dot-gif) - Python script to generate GIFs from star wars
 
 ### Scripts
 
@@ -245,7 +245,7 @@ else # use crappy gif-algorithm from ffmpeg
     $FFMPEG -f image2 -framerate ${FPS} -i "$1/%08d.${suffix}" "$3"
 fi
 ```
-From [DeepDreamVideo ★1822](https://github.com/graphific/DeepDreamVideo), [source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh)
+From [DeepDreamVideo ★1832](https://github.com/graphific/DeepDreamVideo), [source](https://github.com/graphific/DeepDreamVideo/blob/master/frames2gif.sh)
 
 
 #### GIF to frames
@@ -400,7 +400,7 @@ function(status) {
   }
 });
 ```
-or use [ccapture.js ★907](https://github.com/spite/ccapture.js).
+or use [ccapture.js ★945](https://github.com/spite/ccapture.js).
 
 ### Miscellaneous
 

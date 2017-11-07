@@ -307,7 +307,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 ### Other
 
 - [Juho, Johannes, Tobias & Sean on JavaScript Air](http://jsair.io/webpack) - [JavaScript Air](https://javascriptair.com) podcast
-- [Webpack interview questions ★35](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
+- [Webpack interview questions ★37](https://github.com/styopdev/webpack-interview-questions) - Interview questions with answers.
 
 [Back to top](#table-of-contents)
 

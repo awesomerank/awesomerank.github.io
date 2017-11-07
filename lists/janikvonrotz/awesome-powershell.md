@@ -43,12 +43,12 @@ It includes a command-line shell and an associated scripting language.
 ## API Wrapper
 
 - [HipChatAdmin ★1](https://github.com/cofonseca/HipChatAdmin) - A module for simple integration with Atlassian HipChat via the HipChat API.
-- [PSGitHub ★37](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API. 
-- [Posh-Github ★51 ⏳1Y](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
+- [PSGitHub ★40](https://github.com/pcgeek86/PSGitHub) - This PowerShell module contains commands to manage GitHub through its REST API. 
+- [Posh-Github ★52 ⏳1Y](https://github.com/Iristyle/Posh-GitHub) - Powershell cmdlets that expose the GitHub API.
 - [Posh-Gist ★19 ⏳1Y](https://github.com/dfinke/Posh-Gist) - PowerShell cmdlets for interacting with GitHub Gist.
-- [PSGist ★13 ⏳1Y](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
-- [PSAppVeyor ★8](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
-- [PSSlack ★73](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration.
+- [PSGist ★16 ⏳1Y](https://github.com/dotps1/PSGist) - A PowerShell module to work with GitHub Gists.
+- [PSAppVeyor ★9](https://github.com/dotps1/PSAppVeyor) - A PowerShell Module to interact with the AppVeyor REST Api.
+- [PSSlack ★77](https://github.com/RamblingCookieMonster/PSSlack) - PowerShell module for simple Slack integration.
 
 ## Blogs
 
@@ -71,9 +71,9 @@ It includes a command-line shell and an associated scripting language.
 
 * [psake ★999](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
 * [Invoke-Build ★205](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
-* [PSDeploy ★139](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
-* [BuildHelpers ★52](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
-* [YDeliver ★31 ⏳2Y](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
+* [PSDeploy ★141](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
+* [BuildHelpers ★59](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
+* [YDeliver ★33 ⏳2Y](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
 
 ## Code and Package Repositories
 
@@ -84,14 +84,14 @@ It includes a command-line shell and an associated scripting language.
 ## Commandline Productivity
 
 - [posh-git ★2476](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
-- [PSReadLine ★915](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
-- [TabExpansionPlusPlus ★105](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
+- [PSReadLine ★938](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
+- [TabExpansionPlusPlus ★106](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump ★5993](https://github.com/wting/autojump) implementation for powershell.
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh ★7348](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
 - [thefuck ★31499](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
-- [pslinq ★26 ⏳3Y](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell.
-- [posh-with ★4 ⏳1Y](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.
-- [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco ★4105](https://github.com/peco/peco) implementation. Interactive filtering tool.
+- [pslinq ★28 ⏳3Y](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell.
+- [posh-with ★5 ⏳1Y](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.
+- [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco ★4162](https://github.com/peco/peco) implementation. Interactive filtering tool.
 
 ## Communities
 
@@ -103,7 +103,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Documentation Helper
 
-- [platyPS ★172](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
+- [platyPS ★181](https://github.com/PowerShell/platyPS) - Write PowerShell External Help in Markdown.
 - [Invoke-CreateModuleHelpFile ★14 ⏳3Y](https://github.com/gravejester/Invoke-CreateModuleHelpFile) - PowerShell function to create a HTML help file for a module and all it's commands.
 - [PScribo ★78](https://github.com/iainbrighton/PScribo) - PowerShell documentation framework what can create HTML, Word, text files based on PowerShell-based DSL (domain specific language).
 
@@ -111,11 +111,11 @@ It includes a command-line shell and an associated scripting language.
 
 - [PowerShell Studio](https://www.sapien.com/software/powershell_studio) - Powerful PowerShell IDE with module, help, and user interface development tools, high DPI support and regular updates.
 - [PowerShell for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell) - Provides IntelliSense, code navigations, script analysis, script debugging, and more for the [Visual Studio Code](https://code.visualstudio.com) editor.
-- [PoshTools for Visual Studio ★547](https://github.com/adamdriscoll/PoshTools) - Provides IntelliSense, script debugging, and Pester testing support for PowerShell to Visual Studio.
+- [PoshTools for Visual Studio ★555](https://github.com/adamdriscoll/PoshTools) - Provides IntelliSense, script debugging, and Pester testing support for PowerShell to Visual Studio.
 - [PowerShell ISE](https://msdn.microsoft.com/en-us/powershell/scripting/core-powershell/ise/using-the-windows-powershell-ise) - Official PowerShell development environment included with Microsoft Windows.
 - [ISE Steroids](http://www.powertheshell.com/isesteroids/) - Add-on for the PowerShell ISE which provides a rich set of additional features to complete the ISE development experience.
 - [PowerShell Plus](https://www.idera.com/productssolutions/freetools/powershellplus) - All in one IDE.
-- [SublimeText package ★206 ⏳1Y](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
+- [SublimeText package ★207 ⏳1Y](https://github.com/SublimeText/PowerShell) - PowerShell language support for Sublime Text.
 - [Atom package](https://github.com/jugglingnutcase/language-powershell) - PowerShell language support for Atom.
 
 ## Frameworks
@@ -126,15 +126,15 @@ It includes a command-line shell and an associated scripting language.
 
 ## Package Managers
 
-- [PowershellGet ★105](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. Packages are available on [PowerShellGallery](https://www.PowerShellGallery.com).
+- [PowershellGet ★114](https://github.com/powershell/powershellget) - PowerShellGet is the Package Manager for PowerShell. Packages are available on [PowerShellGallery](https://www.PowerShellGallery.com).
 - [PsGet](http://psget.net/) - Set of commands to install modules from central directory, local file or from the web.
 - [Chocolatey](https://chocolatey.org/) - The package manager for Windows. The sane way to manage software on Windows.
 - [GitLab ★10](https://github.com/akamac/GitLabProvider) - Use a GitLab server as Package Provider.
 
 ## Parallel Processing
 
-- [PoshRSJob ★223](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background.
-- [Invoke-Parallel ★150](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel.
+- [PoshRSJob ★231](https://github.com/proxb/PoshRSJob) - Provides an alternative to PSjobs with greater performance and less overhead to run commands in the background.
+- [Invoke-Parallel ★157](https://github.com/RamblingCookieMonster/Invoke-Parallel) - This function will take in a script or scriptblock, and run it against specified objects(s) in parallel.
 
 ## Podcasts
 
@@ -143,22 +143,22 @@ It includes a command-line shell and an associated scripting language.
 ## Security
 
 - [File System Security](https://gallery.technet.microsoft.com/scriptcenter/1abd77a5-9c0b-4a2b-acef-90dbb2b84e85) - Allows a much easier management of permissions on files and folders.
-- [PowerShellArsenal ★381](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer.
+- [PowerShellArsenal ★389](https://github.com/mattifestation/PowerShellArsenal) - Module used to aid a reverse engineer.
 - [PowerTools](https://github.com/Veil-Framework/PowerTools) - Collection of projects with a focus on offensive operations.
-- [PowerForensics ★614](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows.
-- [PowerSploit ★3057](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework.
+- [PowerForensics ★633](https://github.com/Invoke-IR/PowerForensics) - Popular live disk forensics platform for windows.
+- [PowerSploit ★3164](https://github.com/PowerShellMafia/PowerSploit) - Post-exploitation framework.
 - [PowerShellEmpire](https://github.com/PowerShellEmpire/Empire) - Post-exploitation agent.
-- [PSReflect ★64](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell. Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
+- [PSReflect ★71](https://github.com/mattifestation/PSReflect) - Easily define in-memory enums, structs, and Win32 functions in PowerShell. Useful for attacks, [example](https://github.com/FuzzySecurity/PowerShell-Suite/tree/master/Bypass-UAC).
 
 ## Testing
 
-- [Pester ★1165](https://github.com/pester/Pester) - Powershell BDD style testing framework.
+- [Pester ★1195](https://github.com/pester/Pester) - Powershell BDD style testing framework.
 - [Format-Pester](https://github.com/equelin/format-pester) - Powershell module for documenting Pester's results - exports Pester results to HTML, Word, text files using [PScribo ★78](https://github.com/iainbrighton/PScribo) .
 
 ## Themes
 
-- [Oh-My-Posh ★266](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
-- [Powerline ★143](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts.
+- [Oh-My-Posh ★301](https://github.com/JanJoris/oh-my-posh) - Tons of beautiful theme that can be enabled by one single command (includes many awesome powerline theme).
+- [Powerline ★146](https://github.com/Jaykul/PowerLine) - PowerShell Classes for richer output and prompts.
 
 ## Videos
 
@@ -172,10 +172,10 @@ It includes a command-line shell and an associated scripting language.
 
 ## Webserver
 
-- [Flancy ★118 ⏳1Y](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell.
-- [NancyPS ★21](https://github.com/Jaykul/NancyPS) - Nancy, self-hosted in PowerShell, with script method handlers.
+- [Flancy ★124 ⏳1Y](https://github.com/toenuff/flancy) - Web microframework for Windows PowerShell.
+- [NancyPS ★23](https://github.com/Jaykul/NancyPS) - Nancy, self-hosted in PowerShell, with script method handlers.
 - [PoSH Server](http://www.poshserver.net/) - Secure, flexible and lightweight web server to meet your requirements.
-- [WebCommander ★129](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
+- [WebCommander ★130](https://github.com/vmware/webcommander) - Run scripts and view results, in a friendly web GUI or via a web service.
 
 ## SharePoint
 
@@ -193,7 +193,7 @@ It includes a command-line shell and an associated scripting language.
 - [poke ★28 ⏳1Y](https://github.com/oising/poke) - Crazy cool reflection module for powershell.
   Explore and invoke private APIs like nobody is watching.
   Useful for security research, testing and quick hacks.
-- [psInlineProgress ★24 ⏳1Y](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. 
+- [psInlineProgress ★26 ⏳1Y](https://github.com/gravejester/psInlineProgress) - Write inline progress bars in PowerShell. 
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/janikvonrotz/awesome-powershell">janikvonrotz/awesome-powershell</a> with ranks

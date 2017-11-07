@@ -55,7 +55,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [Akka Streams](http://doc.akka.io/docs/akka/2.4.16/scala/stream/stream-introduction.html) [Scala] - stream processing library on Akka Actors. 
 * [Swave](http://swave.cc/) [Scala] - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
 * [FS2(prev. 'Scalaz-Stream') ★901](https://github.com/functional-streams-for-scala/fs2) [Scala] - Compositional, streaming I/O library for Scala.
-* [monix ★882](https://github.com/monix/monix) [Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
+* [monix ★911](https://github.com/monix/monix) [Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
 
 ### Streaming Application
 
@@ -72,7 +72,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [coast ★59 ⏳1Y](https://github.com/bkirwi/coast) [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
 * [Apache Beam](https://github.com/apache/incubator-beam) [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 * [Esper ★309](https://github.com/espertechinc/esper) [Java] - component for complex event processing (CEP) and event series analysis.
-* [Streamparse ★1199](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
+* [Streamparse ★1216](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
 
 ### Data Pipeline
 
@@ -102,7 +102,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [pipelinedb ★1440](https://github.com/pipelinedb/pipelinedb) [C] - An open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
 * [squall ★261](https://github.com/epfldata/squall) [Java] - Squall executes SQL queries on top of Storm for doing online processing.
 * [StreamCQL ★324](https://github.com/HuaweiBigData/StreamCQL) [Java] - Continuous Query Language on RealTime Computation System.
-* [KSQL ★924](https://github.com/confluentinc/ksql) [Java] - a Streaming SQL Engine for Apache Kafka.
+* [KSQL ★1048](https://github.com/confluentinc/ksql) [Java] - a Streaming SQL Engine for Apache Kafka.
 
 
 ### Benchmark

@@ -138,47 +138,47 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [du ★20](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
 * [file-size ★194 ⏳2Y](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [tmp ★328](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
-* [fs-promise ★177](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
+* [fs-promise ★176](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
 
 ### Browser
 
 * [delegate ★75](https://github.com/zenorocha/delegate) - Lightweight event delegation.
 * [insert-css ★185](https://github.com/substack/insert-css) - Insert a string of css into the head
 * [dom-element-value ★3](https://github.com/crysalead-js/dom-element-value) - DOM element value getter/setter.
-* [image-promise ★32](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
+* [image-promise ★35](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
 * [get-media-size ★5 ⏳1Y](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
-* [document-ready ★32](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
+* [document-ready ★33](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
 
 ### Semver
 
 * [semver ★1942](https://github.com/npm/node-semver) - The semantic version parser used by npm.
 * [semver-max ★1 ⏳2Y](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver.
-* [semver-first-satisfied ★3 ⏳1Y](https://github.com/parro-it/semver-first-satisfied) - Find minimum in an array of version that satisfies a semver range.
+* [semver-first-satisfied ★2 ⏳1Y](https://github.com/parro-it/semver-first-satisfied) - Find minimum in an array of version that satisfies a semver range.
 
 
 
 ### CLI
 
-* [abbrev ★110](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
-* [glob ★3834](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
-* [username ★70](https://github.com/sindresorhus/username) - Get the username of the current user.
+* [abbrev ★113](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
+* [glob ★3926](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
+* [username ★74](https://github.com/sindresorhus/username) - Get the username of the current user.
 * [minimist ★2499](https://github.com/substack/minimist) - Parse argument options.
 * [png-to-ico ★23](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 * [help-version ★1 ⏳1Y](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application
 
 ### Module management
 
-* [pkg-conf ★61 ⏳1Y](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
+* [pkg-conf ★63 ⏳1Y](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 * [normalize-pkg ★11](https://github.com/jonschlinkert/normalize-pkg) - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
 ### Generators
 
-* [is-generator ★9](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
+* [is-generator ★10](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
 
 ### Other
 
-* [node-uuid ★140](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
-* [node-mime ★989](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
+* [node-uuid ★153](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
+* [node-mime ★1001](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
 * [not-defined ★1](https://github.com/fibo/not-defined) - Is a shortcut to `(typeof foo === 'undefined') || (foo === null)`.
 * [is-fqdn ★13](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name.
 

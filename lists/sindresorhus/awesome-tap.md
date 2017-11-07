@@ -33,22 +33,22 @@ title: Awesome Rank for sindresorhus/awesome-tap
 ### JavaScript
 
 - [tap-dot ★21](https://github.com/scottcorgan/tap-dot) - Dotted output.
-- [tap-spec ★223](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter.
-- [tap-nyan ★102](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat.
+- [tap-spec ★225](https://github.com/scottcorgan/tap-spec) - Mocha-like spec reporter.
+- [tap-nyan ★106](https://github.com/calvinmetcalf/tap-nyan) - Nyan cat.
 - [tap-min ★29](https://github.com/gummesson/tap-min) - Minimal output.
 - [tap-difflet ★40 ⏳1Y](https://github.com/namuol/tap-difflet) - Minimal output with diffing.
-- [tap-diff ★62 ⏳1Y](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
+- [tap-diff ★65 ⏳1Y](https://github.com/axross/tap-diff) - Human-friendly output with diffing.
 - [tap-simple ★6 ⏳2Y](https://github.com/joeybaker/tap-simple) - Simple output.
-- [faucet ★474](https://github.com/substack/faucet) - Human-readable summarizer.
+- [faucet ★478 ⏳1Y](https://github.com/substack/faucet) - Human-readable summarizer.
 - [tap-mocha-reporter](https://github.com/isaacs/tap-mocha-reporter) - Use any of the [Mocha reporters](https://github.com/isaacs/tap-mocha-reporter/tree/master/lib/reporters).
-- [tap-summary ★25](https://github.com/zoubin/tap-summary) - Summarized output.
+- [tap-summary ★26](https://github.com/zoubin/tap-summary) - Summarized output.
 - [tap-pessimist ★13](https://github.com/clux/tap-pessimist) - Only shows failed tests.
-- [tap-prettify ★30 ⏳4Y](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
+- [tap-prettify ★31 ⏳4Y](https://github.com/toolness/tap-prettify) - Nice readable output with diffing.
 - [tap-colorize ★27 ⏳2Y](https://github.com/substack/tap-colorize) - Colorize the output while preserving machine-readability.
-- [tap-bail ★19](https://github.com/juliangruber/tap-bail) - Bail out when the first test fails.
-- [tap-notify ★48](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows.
+- [tap-bail ★20](https://github.com/juliangruber/tap-bail) - Bail out when the first test fails.
+- [tap-notify ★51](https://github.com/axross/tap-notify) - Notifier for macOS, Linux and Windows.
 - [tap-json ★18 ⏳1Y](https://github.com/gummesson/tap-json) - JSON output.
-- [tap-xunit ★25](https://github.com/aghassemi/tap-xunit) - xUnit output.
+- [tap-xunit ★26](https://github.com/aghassemi/tap-xunit) - xUnit output.
 - [tap-teamcity ★6](https://github.com/smockle/tap-teamcity) - Output for TeamCity.
 
 
@@ -64,7 +64,7 @@ Things that produce TAP output.
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap ★73](https://github.com/twada/qunit-tap) - TAP output for QUnit.
-- [jasmine-reporters ★375](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
+- [jasmine-reporters ★378](https://github.com/larrymyers/jasmine-reporters) - TAP output for Jasmine.
 - [karma-tap-reporter ★7 ⏳1Y](https://github.com/fumiakiy/karma-tap-reporter) - TAP output for Karma.
 - [mos](https://github.com/zkochan/mos) - Markdown file generator and tester. `$ mos test --tap`
 
@@ -98,8 +98,8 @@ Things that consume TAP output.
 
 - [tap-dev-tool ★26 ⏳2Y](https://github.com/Jam3/tap-dev-tool) - Prettify TAP in the browser console.
 - [tap-merge ★4](https://github.com/anko/tap-merge) - Merge multiple TAP streams.
-- [smokestack ★219 ⏳2Y](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`.
-- [chutney](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack ★219 ⏳2Y](https://github.com/hughsk/smokestack) alternative.
+- [smokestack ★220 ⏳2Y](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`.
+- [chutney](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack ★220 ⏳2Y](https://github.com/hughsk/smokestack) alternative.
 
 ### Python
 
@@ -113,7 +113,7 @@ Things that consume TAP output.
 
 ## Tutorials
 
-- [test-anything ★115](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop.
+- [test-anything ★116](https://github.com/finnp/test-anything) - Learn to test anything with TAP through an interactive workshop.
 
 
 ## Documentation

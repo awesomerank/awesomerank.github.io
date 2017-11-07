@@ -263,7 +263,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [arbor ★2441 ⏳1Y](https://github.com/samizdatco/arbor) - A graph visualization library using web workers and jQuery.
 * [cubism ★4595](https://github.com/square/cubism) - A D3 plugin for visualizing time series.
 * [dc.js ★5914](https://github.com/dc-js/dc.js) - Multi-Dimensional charting built to work natively with crossfilter rendered with d3.js
-* [vega ★17 ⏳1Y](https://github.com/trifacta/vega) - A visualization grammar.
+* [vega ★17 ⏳2Y](https://github.com/trifacta/vega) - A visualization grammar.
 * [processing.js](http://processingjs.org/) - Processing.js makes your data visualizations work using web standards and without any plug-ins
 * [envisionjs ★1576 ⏳4Y](https://github.com/HumbleSoftware/envisionjs) - Dynamic HTML5 visualization.
 * [rickshaw ★6118](https://github.com/shutterstock/rickshaw) - JavaScript toolkit for creating interactive real-time graphs.
@@ -332,7 +332,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Ronn ★984](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
 * [dox ★2020](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
 * [jsdox ★198 ⏳1Y](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
-* [ESDoc ★1648](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
+* [ESDoc ★1698](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
 * [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 * [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
 * [sphinx](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
@@ -432,7 +432,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [jStorage ★1493](https://github.com/andris9/jStorage) - jStorage is a simple key/value database to store data on browser side.
 * [cross-storage ★1129](https://github.com/zendesk/cross-storage) - Cross domain local storage, with permissions.
 * [basket.js ★3056](https://github.com/addyosmani/basket.js) - A script and resource loader for caching & loading scripts with localStorage.
-* [bag.js ★70](https://github.com/nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
+* [bag.js ★70 ⏳1Y](https://github.com/nodeca/bag.js) - A caching script and resource loader, similar to basket.js, but with additional k/v interface and localStorage / websql / indexedDB support.
 * [basil.js ★1893](https://github.com/Wisembly/basil.js) - The missing Javascript smart persistent layer.
 * [jquery-cookie ★8389](https://github.com/carhartl/jquery-cookie) - A simple, lightweight jQuery plugin for reading, writing and deleting cookies.
 * [js-cookie ★7367](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies

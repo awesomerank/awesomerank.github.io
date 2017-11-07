@@ -33,7 +33,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * Traceur: [gulp-traceur ★180 ⏳1Y](https://github.com/sindresorhus/gulp-traceur)
 * Regenerator: [gulp-regenerator ★19 ⏳1Y](https://github.com/sindresorhus/gulp-regenerator)
 * ES6 Module Transpiler: [gulp-es6-module-transpiler ★63 ⏳1Y](https://github.com/ryanseddon/gulp-es6-module-transpiler)
-* es6-transpiler: [gulp-es6-transpiler ★48 ⏳1Y](https://github.com/sindresorhus/gulp-es6-transpiler) - ES6 → ES5
+* es6-transpiler: [gulp-es6-transpiler ★48 ⏳2Y](https://github.com/sindresorhus/gulp-es6-transpiler) - ES6 → ES5
 * es6-jstransform: [gulp-jstransform](https://github.com/hemanth/gulp-jstransform) - ES6 → ES5 using FB's [jstransform](https://github.com/facebook/jstransform)
 * regexpu: [gulp-regexpu ★4 ⏳2Y](https://github.com/mathiasbynens/gulp-regexpu)
 * TypeScript: [gulp-typescript ★589](https://github.com/ivogabe/gulp-typescript)
@@ -45,7 +45,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * Regenerator: [grunt-regenerator ★20](https://github.com/sindresorhus/grunt-regenerator) - ES6 generator functions to ES5
 * [grunt-microlib ★29 ⏳4Y](https://github.com/thomasboyt/grunt-microlib) - tools for libs using ES6 module transpiler (sample [Gruntfile](https://github.com/jakearchibald/es6-promise/blob/c3336087fffc52e66cf5398e5b56b23a291080fc/Gruntfile.js))
 * [grunt-defs ★5](https://github.com/EE/grunt-defs) - ES6 block scoped const and let variables, to ES3
-* es6-transpiler: [grunt-es6-transpiler ★12 ⏳1Y](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
+* es6-transpiler: [grunt-es6-transpiler ★12 ⏳2Y](https://github.com/sindresorhus/grunt-es6-transpiler) - ES6 → ES5
 * TypeScript: [grunt-ts ★265](https://github.com/TypeStrong/grunt-ts) - ES6+ > ES5/ES3 transpilation
 
 ### Broccoli Plugins
@@ -59,7 +59,7 @@ title: Awesome Rank for addyosmani/es6-tools
 
 ### Brunch Plugins
 * Babel: [babel-brunch ★55](https://github.com/babel/babel-brunch)
-* ES6 Module Transpiler: [es6-module-transpiler-brunch ★8 ⏳3Y](https://github.com/gcollazo/es6-module-transpiler-brunch)
+* ES6 Module Transpiler: [es6-module-transpiler-brunch ★8 ⏳4Y](https://github.com/gcollazo/es6-module-transpiler-brunch)
 * TypeScript: [typescript-brunch](https://github.com/joshheyse/typescript-brunch)
 
 ## Webpack plugins
@@ -117,7 +117,7 @@ title: Awesome Rank for addyosmani/es6-tools
 
 ## Code generation
 
-* [generator-node-esnext ★4 ⏳2Y](https://github.com/briandipalma/generator-node-esnext) - Yeoman generator for Traceur apps
+* [generator-node-esnext ★4 ⏳3Y](https://github.com/briandipalma/generator-node-esnext) - Yeoman generator for Traceur apps
 * [generator-es6-babel ★10 ⏳2Y](https://github.com/HenriqueLimas/generator-es6-babel) - Yeoman generator for Babel apps
 * [generator-gulp-babelify ★2 ⏳1Y](https://github.com/HenriqueLimas/generator-gulp-babelify) - Yeoman generator for [Babel](https://babeljs.io/), [Browserify](http://browserify.org/) and [Gulp](http://gulpjs.com/)
 * [grunt-init-es6](https://www.npmjs.com/package/grunt-init-es6) - scaffold node modules with unit tests, authored in ES6
@@ -131,12 +131,12 @@ title: Awesome Rank for addyosmani/es6-tools
 * [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
 * Polymer's [WeakMap shim ★41 ⏳3Y](https://github.com/Polymer/WeakMap)
 * [`String.prototype.startsWith` ★83](https://github.com/mathiasbynens/String.prototype.startsWith)
-* [`String.prototype.endsWith` ★22 ⏳2Y](https://github.com/mathiasbynens/String.prototype.endsWith)
+* [`String.prototype.endsWith` ★22 ⏳3Y](https://github.com/mathiasbynens/String.prototype.endsWith)
 * [`String.prototype.at` ★37 ⏳3Y](https://github.com/mathiasbynens/String.prototype.at)
 * [`String.prototype.repeat` ★25 ⏳2Y](https://github.com/mathiasbynens/String.prototype.repeat)
 * [`String.prototype.includes` ★55 ⏳2Y](https://github.com/mathiasbynens/String.prototype.includes)
-* [`String.prototype.codePointAt` ★34 ⏳2Y](https://github.com/mathiasbynens/String.prototype.codePointAt)
-* [`String.fromCodePoint` ★40 ⏳2Y](https://github.com/mathiasbynens/String.fromCodePoint)
+* [`String.prototype.codePointAt` ★34 ⏳3Y](https://github.com/mathiasbynens/String.prototype.codePointAt)
+* [`String.fromCodePoint` ★40 ⏳3Y](https://github.com/mathiasbynens/String.fromCodePoint)
 * [`Array.prototype.find` ★30](https://github.com/paulmillr/Array.prototype.find)
 * [`Array.prototype.findIndex` ★23](https://github.com/paulmillr/Array.prototype.findIndex)
 * [`Array.from` ★48](https://github.com/mathiasbynens/Array.from)
