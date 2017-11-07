@@ -515,7 +515,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Godmode-as3 ★28 ⏳3Y](https://github.com/tconkling/godmode-as3) - Behavior tree implementation (artificial intelligence).
 * [DecisionTree ★3 ⏳5Y](https://github.com/pzUH/DecisionTree) - Binary decision tree for AI bot/agent.
 * [FuzzyStateMachine ★2 ⏳5Y](https://github.com/pzUH/FuzzyStateMachine) - Fuzzy State Machine (FuSM) for AI bot/agent.
-* [SmartKid ★3 ⏳4Y](https://github.com/skyfeiyun/SmartKid) - Powerful AI engine for 2D & 3D games.
+* [SmartKid ★3 ⏳5Y](https://github.com/skyfeiyun/SmartKid) - Powerful AI engine for 2D & 3D games.
 
 #### Async
 
