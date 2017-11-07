@@ -194,6 +194,7 @@ An online converter, translates gameboy assembly into Pokémon R/B/Y items ([Sou
 - [gbdk-lib-extension ★7 ⏳4Y](https://github.com/ProGM/gbdk-lib-extension) - A small set of sources and tools for the Gameboy Development Kit by Michael Hope.
 - [GB-convert ★5](https://github.com/exezin/gb-convert) - Gameboy tile conversion and map editor tool (converts to assembly).
 - [cart-dumper ★3](https://github.com/Palmr/cart-dumper) - Gameboy Cartridge Dumper ROM.
+- [Game Boy LCD sniffing ★87](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
 
 ## Programming Tutorials
 ### ASM
