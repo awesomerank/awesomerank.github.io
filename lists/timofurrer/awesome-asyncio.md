@@ -91,6 +91,7 @@ Find some of those *awesome* packages here and if you are missing one we count o
 
 * [aiofiles ★318](https://github.com/Tinche/aiofiles) - File support for asyncio.
 * [aiodebug ★6](https://github.com/qntln/aiodebug) - A tiny library for monitoring and testing asyncio programs.
+* [aiorun ★1](https://github.com/cjrh/aiorun) - A `run()` function that handles all the usual boilerplate for startup and graceful shutdown.
 
 ## Writings
 

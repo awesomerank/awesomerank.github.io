@@ -268,7 +268,7 @@ section on the [Data Science with Ruby][ds-with-ruby] list.
 - 2013
   - _Sentiment Analysis using Support Vector Machines in Ruby_ by [Matthew Kirk](https://twitter.com/mjkirk)
     <sup>[[video](https://www.youtube.com/watch?v=iSug6CgxWxc) |
-          [code ★14 ⏳3Y](https://github.com/hexgnu/sentiment_analyzer)]</sup>
+          [code ★14 ⏳4Y](https://github.com/hexgnu/sentiment_analyzer)]</sup>
   - _Recommender Systems with Ruby_ by [Marcel Caraciolo](https://twitter.com/marcelcaraciolo)
     <sup>[[slides](https://www.slideshare.net/marcelcaraciolo/recommender-systems-with-ruby-adding-machine-learning-statistics-etc)]</sup>
 - 2012

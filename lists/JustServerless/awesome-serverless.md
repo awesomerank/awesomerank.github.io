@@ -884,6 +884,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [The fear and frustration of migrating a simple web app to serverless](https://read.acloud.guru/adventures-in-migrating-to-serverless-a63556b39042) - Post about the migration story of a Flask app to run on AWS Lambda.
 - [Building the Catalyst serverless platform at Uber](https://serverless.com/blog/shawn-burke-building-catalyst-serverless-platform-emit-2017/) - How and why Uber built their own serverless platform.
 - [Models for event-driven programming](https://serverless.com/blog/cornelia-davis-models-event-driven-programming-emit-2017/) - How programmers should (re)-think when dealing with event-driven systems.
+- [The state of serverless multi-cloud](https://serverless.com/blog/state-of-serverless-multi-cloud/) - Overview of the current status-quo about serverless computing in a multi-cloud context.
 
 ## Screencasts
 
@@ -1072,6 +1073,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [No-Side JavaScript and the serverless revolution (SeattleJS)](https://www.youtube.com/watch?v=g_tvdALkTXk) - Talk by Ryan H. Lewis about the serverless revolution at SeattleJS conference 2017.
 - [No-Side JavaScript and the serverless revolution (UtahJS)](https://www.youtube.com/watch?v=LIGpu7Bbfr8) - Talk by Ryan H. Lewis about the serverless revolution at UtahJS conference 2017.
 - [Develop serverless apps with AWS Lambda and Azure Functions](https://vimeo.com/208056992) - Raj Wilkhus talk on how to use AWS Lambda and Azure Functions to develop serverless applications.
+- [Who’s in charge of automated security](https://thenewstack.io/lori-macvittie-f5-networks-whos-charge-automated-security/) - Podcast about automated security in a serverless world.
 
 ## Amazon AWS resources
 

@@ -1776,7 +1776,7 @@ Most of these are paid services, some have free tiers.
 * [ZFDragableModalTransition ★2298](https://github.com/zoonooz/ZFDragableModalTransition) - Custom animation transition for present modal view controller
 * [ImageOpenTransition ★785](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images written in Swift. :large_orange_diamond:
 * [ZOZolaZoomTransition ★872 ⏳1Y](https://github.com/NewAmsterdamLabs/ZOZolaZoomTransition) - Zoom transition that animates the entire view heirarchy. Used extensively in the Zola iOS application.
-* [JTMaterialTransition ★882](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design.
+* [JTMaterialTransition ★882 ⏳1Y](https://github.com/jonathantribouharet/JTMaterialTransition) - An iOS transition for controllers based on material design.
 * [AnimatedTransitionGallery ★2220](https://github.com/shu223/AnimatedTransitionGallery) - Collection of iOS 7 custom animated transitions using UIViewControllerAnimatedTransitioning protocol.
 * [TransitionTreasury ★1896](https://github.com/DianQK/TransitionTreasury) - Easier way to push your viewController. :large_orange_diamond:
 * [Presenter ★9 ⏳1Y](https://github.com/muukii/Presenter) - Screen transition with safe and clean code.  :large_orange_diamond:

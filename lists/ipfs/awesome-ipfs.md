@@ -100,7 +100,7 @@ These are narrowly-scoped, little JS "apps" deployed through IPFS.
 * [ipfs-companion ★112](https://github.com/ipfs/ipfs-companion) - Firefox addon to provide access to IPFS via local gateway
 * [ipfs-gui ★13](https://github.com/marcin212/ipfs-gui) - Windows UI integration and IPFS installer
 * [ipfs-linux-service ★33 ⏳2Y](https://github.com/dylanPowers/ipfs-linux-service) - IPFS Linux Init Daemon
-* [ipfs-paste ★16 ⏳1Y](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
+* [ipfs-paste ★16 ⏳2Y](https://github.com/jbenet/ipfs-paste) - Paste stdin and clipboard to IPFS
 * [ipfs-screencap ★26 ⏳1Y](https://github.com/jbenet/ipfs-screencap) - Capture screenshots, publish them to IPFS, and copy the link to the clipboard.
 * [ipfscrape ★115 ⏳1Y](https://github.com/victorbjelkholm/ipfscrape) - Scrape a webpage with all assets and put it in IPFS
 * [ipget ★65](https://github.com/ipfs/ipget) - :satellite: wget for IPFS: retrieve files over IPFS and save them locally.

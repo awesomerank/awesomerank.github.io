@@ -191,6 +191,7 @@ A collection of awesome things regarding React ecosystem.
 * [Improving AngularJS long list rendering performance using ReactJS](http://www.mono-software.com/blog/post/Mono/242/Improving-AngularJS-long-list-rendering-performance-using-ReactJS/)
 * [How can React and Flux help us create better Angular applications?](https://medium.com/@gilbox/how-can-react-and-flux-help-us-create-better-stronger-faster-angular-applications-639247898fb)
 * [Achieving Reasonable and Scalable Routing in AngularJS with Flux](https://medium.com/@gilbox/achieving-reasonable-and-scalable-routing-in-angularjs-with-flux-2655e06cd5ee)
+* [Angular to React/Redux, a Guide for Angular v1 Experts Looking to Learn React/Redux ★96](https://github.com/GoTeamEpsilon/angular-to-react-redux)
 
 ##### React and Bootstrap
 * [Better Bootstrap modals and popover with React.js](http://clozeit.wordpress.com/2014/01/08/bootstrap-modals-and-popover-in-react-js/)
@@ -487,6 +488,8 @@ A collection of awesome things regarding React ecosystem.
 * [react-offcanvas - Off-canvas menus for React ★10 ⏳1Y](https://github.com/vutran/react-offcanvas)
 * [react-svg-pan-zoom - Adds pan and zoom features to the SVG images](http://chrvadala.github.io/react-svg-pan-zoom/)
 * [react-virtualized - React components for efficiently rendering large lists and tabular data  ★7291](https://github.com/bvaughn/react-virtualized)
+* [react-colorizer - A library for generation of harmonious color themes for React ★33](https://github.com/opensource-cards/react-colorizer)
+* [react-skeletor - Display a skeleton preview of your application's content before the data get loaded ★249](https://github.com/trainline/react-skeletor)
 * [react-data-menu - Smart data-driven menu rendered in an overlay, never clipped by other components or screen edges ★47](https://github.com/dkozar/react-data-menu)
 * [omnibar - Extensible search component for React. ★28](https://github.com/vutran/omnibar)
 * [react-virtualized-sticky-tree - Render virtualized tree structures with support for position: sticky  ★15](https://github.com/marchaos/react-virtualized-sticky-tree)
@@ -579,7 +582,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-clickdrag-mixin - ClickDrag mixin for React component](https://github.com/tleunen/react-clickdrag-mixin)
 * [Rewrite the Admin UI of KeystoneJS in React](https://github.com/keystonejs/keystone/issues/503)
 * [react-masonry-mixin - Standalone mixin for Masonry (@desandro) ★175 ⏳1Y](https://github.com/eiriklv/react-masonry-mixin)
-* [react-packery-mixin - Standalone mixin for Packery (Metafizzy) ★22 ⏳1Y](https://github.com/eiriklv/react-packery-mixin)
+* [react-packery-mixin - Standalone mixin for Packery (Metafizzy) ★22 ⏳2Y](https://github.com/eiriklv/react-packery-mixin)
 * [react-dropzone - Simple HTML5 drag-drop zone with React.js.](https://github.com/paramaggarwal/react-dropzone)
 * [aframe-react - A-Frame VR + React ★2](https://github.com/ngokevin/aframe)
 * [react-three - React bindings to create and control a 3D scene using three.js ★1195](https://github.com/Izzimach/react-three)
@@ -649,7 +652,7 @@ A collection of awesome things regarding React ecosystem.
 * [extendable-immutable - Extend any Immutable.js data structure ★45](https://github.com/philpl/extendable-immutable)
 * [statty - A tiny and unobtrusive state management library for React and Preact apps ★448](https://github.com/vesparny/statty)
 
-##### React Development Experience
+##### React Developer Experience
 * [react-devtools - React Chrome Developer Tools ★5304](https://github.com/facebook/react-devtools)
 * [react-transform-hmr - A React Transform that enables hot reloading React ★722 ⏳1Y](https://github.com/gaearon/react-transform-hmr)
 * [Nuclide - An open IDE for web and native mobile development, built on top of Atom](http://nuclide.io/)
@@ -718,7 +721,7 @@ A collection of awesome things regarding React ecosystem.
 * [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Test driving react native applications](http://www.multunus.com/blog/2016/07/test-driving-react-native-applications/)
 
-#### React Native Development Experience
+#### React Native Developer Experience
 * [react-native-webpack-server - Build React Native apps with Webpack ★899 ⏳1Y](https://github.com/mjohnston/react-native-webpack-server)
 * [react-native-code-push - React Native plugin for the CodePush service ★3555](https://github.com/Microsoft/react-native-code-push)
 * [Preview your React Native apps in your Github Pull Request](http://tech.m6web.fr/preview-android-ios-react-native-on-github-pull-request/)
