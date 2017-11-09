@@ -492,8 +492,8 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 ### Number
 
-- [random-int ★25](https://github.com/sindresorhus/random-int) - Generate a random integer.
-- [random-float ★13](https://github.com/sindresorhus/random-float) - Generate a random float.
+- [random-int ★25 ⏳1Y](https://github.com/sindresorhus/random-int) - Generate a random integer.
+- [random-float ★13 ⏳1Y](https://github.com/sindresorhus/random-float) - Generate a random float.
 - [unique-random ★41](https://github.com/sindresorhus/unique-random) - Generate random numbers that are consecutively unique.
 - [round-to ★74](https://github.com/sindresorhus/round-to) - Round a number to a specific number of decimal places: `1.234` → `1.2`.
 

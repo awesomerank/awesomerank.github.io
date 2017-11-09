@@ -64,7 +64,7 @@ Made with Electron.
 - [Git-it ★1568](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
 - [Caprine ★2588](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
 - [Simplenote ★1375](https://github.com/Automattic/simplenote-electron) - Note keeper.
-- [nuTorrent ★184 ⏳1Y](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
+- [nuTorrent ★184 ⏳2Y](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
 - [Abricotine ★1330](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
 - [Medis ★4786](https://github.com/luin/medis) - Redis database management.
 - [Kakapo ★321](https://github.com/bluedaniel/kakapo-app) - Ambient sound mixer for relaxation or productivity.
@@ -115,7 +115,7 @@ Made with Electron.
 - [Light Table ★9861](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
 - [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar.
 - [Google Play Music Desktop Player ★5448](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
-- [Chrome DevTools ★1428 ⏳1Y](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
+- [Chrome DevTools ★1428 ⏳2Y](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
 - [Yeobara ★7 ⏳1Y](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
 - [Proton ★117](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 - [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
@@ -277,7 +277,7 @@ Made with Electron.
 - [ipc-stream ★77 ⏳1Y](https://github.com/jprichardson/electron-ipc-stream) - Duplex stream over IPC.
 - [is-electron-renderer ★50](https://github.com/jprichardson/is-electron-renderer) - Check if your code is running in `main` or `renderer`.
 - [electron-osx-sign ★203](https://github.com/electron-userland/electron-osx-sign) - Code-signing for macOS apps.
-- [electron-detach ★47 ⏳1Y](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
+- [electron-detach ★47 ⏳2Y](https://github.com/parro-it/electron-detach) - Restart an Electron app as a detached process.
 - [ember-electron ★685](https://github.com/felixrieseberg/ember-electron) - Build, test, and package Ember apps.
 - [electrify ★234 ⏳1Y](https://github.com/arboleya/electrify) - Package Meteor apps.
 - [spectron ★765](https://github.com/electron/spectron) - Test Electron apps using ChromeDriver.

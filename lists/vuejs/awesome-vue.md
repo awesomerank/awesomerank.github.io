@@ -221,7 +221,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Vue.js TodoMVC](https://github.com/vuejs/vue/tree/dev/examples/todomvc)
   - [CoffeeScript Version ★14 ⏳1Y](https://github.com/anfelor/TodoMVC-CoffeeScript-and-Vue.js)
 - [**Vue.js HackerNews Clone** ★2299](https://github.com/vuejs/vue-hackernews)
-- [**Vue.js 2.0 HackerNews Clone** ★5899](https://github.com/vuejs/vue-hackernews-2.0)
+- [**Vue.js 2.0 HackerNews Clone** ★6140](https://github.com/vuejs/vue-hackernews-2.0)
 
 ### Tutorials
 
@@ -323,6 +323,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [프론트엔드 개발자를 위한 Vue.js 입문서](https://joshua1988.github.io/web-development/vuejs/vuejs-tutorial-for-beginner/)
 - [누구나 다루기 쉬운 Vue.js (Video)](https://www.inflearn.com/course/vue-pwa-vue-js-%EA%B8%B0%EB%B3%B8/) on [Inflearn](https://www.inflearn.com/) by [Captain Pangyo](https://joshua1988.github.io/)
 - [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) on [Snipcart](https://snipcart.com/)
+- [Getting Started with VueJS 2](https://www.udemy.com/getting-started-with-vue-js) by Sachin Bhatnagar [@sachinbee](https://www.twitter.com/sachinbee) on [Udemy](https://udemy.com/)
 
 ### Examples
 
@@ -502,7 +503,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [vuejs-extension-pack vscode ★6](https://github.com/mubaidr/vuejs-extension-pack) - An extension packf or vscode with popular VS Code extensions for Vue.js development.
 - [vue2-text-swimlane ★3](https://github.com/mubaidr/vue-swimlane) - A Text Swimlane plugin for Vue.js
 - [Wiki.js ★893](https://github.com/Requarks/wiki) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown
-- [vue-pwa-speech ★2](https://github.com/aofdev/vue-pwa-speech) - A Speech to text With Google Cloud Speech on Vue2 + Vuetify + Progressive Web App
+- [vue-pwa-speech ★16](https://github.com/aofdev/vue-pwa-speech) - A Speech to text With Google Cloud Speech on Vue2 + Vuetify + Progressive Web App
 - [vue-speech-streaming ★0](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
 - [My Animation List ★3](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
 - [vue-input-streaming ★3](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
@@ -511,6 +512,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [concept-to-clinic ★226](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
 - [grid-awesome ★0](https://github.com/louisbourque/grid-awesome) - Generate boilerplate css for grid layouts using the css display: grid; property.
 - [Light Bootstrap Dashboard ★19](https://github.com/cristijora/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
+- [Hubaga ★4](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
 
 ### Commercial Products
 
@@ -619,6 +621,8 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [MadeWithVueJs](https://madewithvuejs.com/) - A Gallery of Projects made with Vue.js (also the Site itself uses Vue.js)
   - [CodeDependencyScanner ★0](https://github.com/NeutroniumCore/CodeDependencyScanner) - A C# dektop application that display .Net assembly code dependencies build with Vue, Neutronium and D3.js.
   - [Thousand Ether Homepage](https://thousandetherhomepage.com) - The Million Dollar Homepage reimagined as an Ethereum DApp. Build on Vue.js and open source.
+  - [Let's Enchance](https://letsenhance.io/) - free online image upscale and enhancement with neural networks.
+  - [Pi.TEAM - Online Invoicing and Accounting](https://pi.team) - Simple to use online accounting and invoicing, free for single users and freelancers.
 
 
 ### Interactive Experiences
@@ -712,7 +716,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vuex-flash ★9](https://github.com/ahmed-dinar/vuex-flash) - Flash message component for VueJS 2.x within Vuex 2.x.
  - [vue-snotify ★98](https://github.com/artemsky/vue-snotify) - Vue.js 2 Notification Center
  - [vue-notify-me ★58](https://github.com/PygmySlowLoris/vue-notify-me) - Stackable notification Alert for Vue
- - [vue-noty ★25](https://github.com/renoguyon/vuejs-noty) - A Vue.js 2 wrapper around Noty
+ - [vue-noty ★35](https://github.com/renoguyon/vuejs-noty) - A Vue.js 2 wrapper around Noty
 
 ### Loader
 
@@ -763,11 +767,11 @@ Tooltips / popovers
 - [vue-pure-lightbox ★8](https://github.com/DCzajkowski/vue-pure-lightbox) - Very simple lightbox plugin without any dependencies - only Vue! 🖼
 - [v-viewer](https://github.com/mirari/v-viewer) - Image viewer component for vue, supports rotation, scale, zoom and so on, based on [viewer.js ★2345](https://github.com/fengyuanchen/viewerjs)
 - [vue-messagebox ★5](https://github.com/zhangxiang958/vue-messageBox) - Easy and made-to-order messagebox component on Vue.
-- [vuejs-dialog ★42](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
+- [vuejs-dialog ★52](https://github.com/Godofbrowser/vuejs-dialog) - A lightweight, promise based alert, prompt and confirm dialog.
 - [@hscmap/vue-window ★25](https://github.com/michitaro/vue-window) - Window UI Component for vue2.
 - [vue-gallery ★35](https://github.com/RobinCK/vue-gallery) - VueJS responsive and customizable image and video gallery, carousel and lightbox, optimized for both mobile and desktop web browsers. Based on blueimp-gallery
 - [vue-swal ★21](https://github.com/anteriovieira/vue-swal) - A small wrapper for integrating SweetAlert to Vuejs. (Compatible with SSR)
-- [vue-modal-dialogs ★5](https://github.com/hjkcai/vue-modal-dialogs) - A Promise-based modal dialog helper for Vue.js
+- [vue-modal-dialogs ★11](https://github.com/hjkcai/vue-modal-dialogs) - A Promise-based modal dialog helper for Vue.js
 
 ### Parallax
 
@@ -872,7 +876,7 @@ Tooltips / popovers
 
 ### Pull-to-refresh
  - [vue-pull-refresh ★50](https://github.com/lakb248/vue-pull-refresh) - A pull to refresh component for Vue.js 2.0.
- - [vue-pull-to ★49](https://github.com/stackjie/vue-pull-to) - A pull-down refresh and pull-up load more and infinite scroll for Vue.js component.
+ - [vue-pull-to ★85](https://github.com/stackjie/vue-pull-to) - A pull-down refresh and pull-up load more and infinite scroll for Vue.js component.
  - [vue-data-loading ★1](https://github.com/bedlate/vue-data-loading) - Another component for infinite scroll and pull down/up to load data.
 
 ### Markdown
@@ -1002,7 +1006,7 @@ Tooltips / popovers
  - [awe-dnd ★206](https://github.com/hilongjw/vue-dragging) - A sortable list directive with Vue.
  - [vue-draggable-resizable ★129](https://github.com/mauricius/vue-draggable-resizable) - Vue2 component for draggable and resizable elements.
  - [vddl ★94](https://github.com/hejianxian/vddl) - Vue components for modifying lists with the HTML5 drag & drop API, supports VueJs versions 1 and 2.
- - [vue-drag-drop ★13](https://github.com/cameronhimself/vue-drag-drop) - A minimal and lightweight wrapper for the HTML5 Drag and Drop API.
+ - [vue-drag-drop ★23](https://github.com/cameronhimself/vue-drag-drop) - A minimal and lightweight wrapper for the HTML5 Drag and Drop API.
 
 #### Autocomplete
 
@@ -1075,7 +1079,7 @@ Tooltips / popovers
  - [vue2-multi-uploader ★41](https://github.com/abarta/vue2-multi-uploader) - A drag and drop multiple file uploader component that uses Vue.js v2 and Axios. Uploader shows file names, sizes and total size of files added. It also allows setting a minimum required number of files to upload.
  - [vue-dropzone ★488](https://github.com/rowanwins/vue-dropzone) - A Vue.js (vue2) component for Dropzone.js - a drag’n’drop file uploads utility with image previews.
  - [vue-transmit ★94](https://github.com/alexsasharegan/vue-transmit) - A purely Vue.js drag & drop uploader component based on Dropzone.js for Vue 2.0
- - [vue-upload-component ★420](https://github.com/lian-yue/vue-upload-component) - Vue upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory. Supports  Vue >= 2.0
+ - [vue-upload-component ★531](https://github.com/lian-yue/vue-upload-component) - Vue upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory. Supports  Vue >= 2.0
  - [vue-uploader ★162](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
 
 #### Context Menu
@@ -1285,8 +1289,8 @@ Tooltips / popovers
 - [vue-scrollview ★25](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
 - [vue-scrollactive ★49](https://github.com/eddiemf/vue-scrollactive) - Adds an active class in a menu item based on the current section in viewport, also scrolling to the section when clicking the menu item.
 - [vue-intersect ★53](https://github.com/heavyy/vue-intersect) - A Vue component to add intersection-observer to a Vue component or HTML element.
-- [vue-scrollmonitor ★5](https://github.com/AlexandreBonaventure/vue-scrollmonitor) - A Vue plugin to watch visibility state of elements inside viewport with a wide range of browsers supported (use provide/inject so compat vue@2.2.x)
-- [vue-stroll ★71](https://github.com/xiaoluoboding/vue-stroll) - An Awesome CSS3 list scroll effects component for Vue.js 2.x.
+- [vue-scrollmonitor ★7](https://github.com/AlexandreBonaventure/vue-scrollmonitor) - A Vue plugin to watch visibility state of elements inside viewport with a wide range of browsers supported (use provide/inject so compat vue@2.2.x)
+- [vue-stroll ★76](https://github.com/xiaoluoboding/vue-stroll) - An Awesome CSS3 list scroll effects component for Vue.js 2.x.
 
 *Customize the scroll behavior*
 
@@ -1582,7 +1586,7 @@ Payment utilities.
  - [vuejs/vuefire ★1044](https://github.com/vuejs/vuefire) - Official Firebase Integration for VueJS
  - [vuefire ★2](https://github.com/nigeltiany/vuefire) - Firebase for VueJS and Vuex
  - [vue-runkit ★1](https://github.com/maple3142/vue-runkit) - RunKit Embed for Vue.js
- - [vue-youtube ★4](https://github.com/anteriovieira/vue-youtube) - Provides a simple layer for you to use your imagination while over the [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference). (Compatible with SSR)
+ - [vue-youtube ★12](https://github.com/anteriovieira/vue-youtube) - Provides a simple layer for you to use your imagination while over the [YouTube IFrame Player API](https://developers.google.com/youtube/iframe_api_reference). (Compatible with SSR)
  - [vue-introjs ★4](https://github.com/alex-oleshkevich/vue-introjs) - Integrates intro.js step-by-step guide and feature introduction with Vue.js [http://introjs.com/](http://introjs.com/).
  - [vue-loopback ★6](https://github.com/InCuca/vue-loopback) - Loopback and Vue application template
 
@@ -1715,7 +1719,7 @@ Payment utilities.
  - [vue-seed ★15](https://github.com/dulin666/vue-seed) - vue-seed is minimal seed for those looking to get up-and-running with Vue
  - [nuxt-seed ★3](https://github.com/dulin666/nuxt-seed) - nuxt-seed is minimal seed for those looking to get up-and-running with Vue and Nuxt
  - [rails_vue_melt ★1](https://github.com/midnightSuyama/rails_vue_melt) - Rails view with webpack=vue optimizer.
- - [vue-starter ★29](https://github.com/rohitkrai03/vue-starter) - A Vue.js starter kit that lets you focus on more programming and less configuration.
+ - [vue-starter ★31](https://github.com/rohitkrai03/vue-starter) - A Vue.js starter kit that lets you focus on more programming and less configuration.
  - [vue-standalone-component ★10](https://github.com/InCuca/vue-standalone-component) - A standalone component generator with documentation support using jsdoc and vue-styleguidist
  - [vuejs-wordpress-theme-starter ★51](https://github.com/EvanAgee/vuejs-wordpress-theme-starter) - A WordPress theme with the guts ripped out and replaced with Vue
  - [Cordovue ★36](https://github.com/TheMushrr00m/cordovue) - A sample Apache Cordova application using Vue.

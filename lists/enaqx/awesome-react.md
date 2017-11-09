@@ -297,6 +297,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-webpack-starter - A simple boiler plate for creating react applications bundled by webpack (using ES6, Babel, SASS and webpack development server) ★33](https://github.com/temilaj/react-webpack-starter)
 * [Happyreaction - React/Spring/Java maven archetype for bootstraping a new project quickly ★15](https://github.com/ignl/happyreaction)
 * [Create React NPM Component - CLI tool for creating a component for distribution on NPM ★21](https://github.com/deltaskelta/create-react-npm-component)
+* [Suicrux - Universal starter with ultimate hot-reloading. PWA/LL/SSR/React/Redux/i18n. ★677](https://github.com/Metnew/suicrux)
 
 ##### Routing
 * [react-router - A complete routing library for React](https://github.com/reactjs/react-router)
@@ -780,6 +781,7 @@ A collection of awesome things regarding React ecosystem.
 * [MobX](#mobx)
 
 #### Flux Tutorials
+* [Building Applications with React and Flux](https://app.pluralsight.com/library/courses/react-flux-building-applications/table-of-contents)
 * [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
 * [Flux: A simple architecture model to build Client-side apps](https://speakerdeck.com/pedronauck/flux-a-simple-architecture-model-to-build-client-side-apps)
 * [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
@@ -836,6 +838,7 @@ A collection of awesome things regarding React ecosystem.
 * [redux-react-i18n - An i18n solution for redux/react ★48](https://github.com/derzunov/redux-react-i18n)
 
 #### Redux Tutorials
+* [Building Applications with React and Redux in ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 * [Redux Tutorial ★3535](https://github.com/happypoulp/redux-tutorial)

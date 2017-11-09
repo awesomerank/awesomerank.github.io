@@ -702,6 +702,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [scrivener_html ★64](https://github.com/mgwidmann/scrivener_html) - Helpers built to work with Scrivener's page struct to easily build HTML output for various CSS frameworks.
 * [sentinel ★96](https://github.com/britton-jb/sentinel) - An authentication framework for Phoenix extending guardian with routing and other basic functionality.
 * [trailing_format_plug ★19](https://github.com/mschae/trailing_format_plug) - An Elixir plug to support legacy APIs that use a rails-like trailing format.
+* [turn_the_page](https://hex.pm/packages/turn_the_page) - Fast, simple and lightweight pagination system for your Elixir application.
 * [webassembly](https://github.com/herenowcoder/webassembly) - Web DSL for Elixir.
 * [weebo ★3 ⏳2Y](https://github.com/stevenschobert/weebo) - An XML-RPC parser/formatter for Elixir, with full support for datatype mapping.
 
@@ -770,6 +771,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mochiweb ★1554](https://github.com/mochi/mochiweb) - MochiWeb is an Erlang library for building lightweight HTTP servers.
 * [neuron ★47](https://github.com/uesteibar/neuron) - A GraphQL client for Elixir.
 * [plug_wait1 ★1](https://github.com/wait1/plug_wait1) - Plug adapter for the wait1 protocol.
+* [raxx ★86](https://github.com/CrowdHailer/raxx) - Interface for HTTP webservers, frameworks and clients.
 * [river ★66](https://github.com/peburrows/river) - An HTTP/2 client that is lightweight and lightning fast.
 * [scrape ★191](https://github.com/Anonyfox/elixir-scrape) - Scrape any website, article or RSS/Atom Feed with ease.
 * [spell ★57](https://github.com/MyMedsAndMe/spell) - Spell is a [Web Application Messaging Protocol](http://wamp-proto.org/) (WAMP) client implementation in Elixir.
@@ -1406,7 +1408,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [forecast_io ★6](https://github.com/r-icarus/forecast_io) - Simple wrapper for Forecast.IO API.
 * [gcmex ★7 ⏳2Y](https://github.com/dukex/gcmex) - Google Cloud Messaging client library for elixir.
 * [google_sheets ★30](https://github.com/GrandCru/GoogleSheets) - Elixir library for fetching and polling Google spreadsheet data in CSV format.
-* [govtrack ★2](https://github.com/walterbm/govtrack-elixir) - A simple Elixir wrapper for the [govtrack.us](https://www.govtrack.us/developers) API.
+* [govtrack ★2 ⏳1Y](https://github.com/walterbm/govtrack-elixir) - A simple Elixir wrapper for the [govtrack.us](https://www.govtrack.us/developers) API.
 * [hexoku ★7 ⏳3Y](https://github.com/JonGretar/Hexoku) - Heroku API client and Heroku Mix tasks for Elixir projects.
 * [honeywell ★0 ⏳1Y](https://github.com/jeffutter/honeywell-elixir) - A client for the Honeywell Lyric, Round and Water Leak & Freeze Detector APIs.
 * [kane ★39](https://github.com/peburrows/kane) - A [Google Cloud Pub/Sub](https://cloud.google.com/pubsub/overview) client.
@@ -1436,6 +1438,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [qiita_ex ★6 ⏳2Y](https://github.com/ma2gedev/qiita_ex) - A Qiita API v2 Interface for Elixir.
 * [qiniu ★52](https://github.com/tony612/qiniu) - Qiniu SDK for Elixir.
 * [random_user ★7 ⏳1Y](https://github.com/katgironpe/random_user) - An Elixir client for randomuser.me API.
+* [random_user_api](https://hex.pm/packages/random_user_api) - Another simple randomuser.me API client.
 * [reap ★3 ⏳3Y](https://github.com/Raynes/reap) - Reap is a simple Elixir library for working with the refheap API.
 * [reddhl ★4 ⏳2Y](https://github.com/MonkeyIsNull/reddhl) - An headline and link puller for Reddit and its various subreddits.
 * [redtube ★6 ⏳2Y](https://github.com/kkirsche/Redtube_Elixir) - Redtube API Wrapper written in Elixir.

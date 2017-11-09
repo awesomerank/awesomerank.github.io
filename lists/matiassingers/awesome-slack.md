@@ -48,7 +48,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - Windows - [SlackUI ★92](https://github.com/rfgamaral/SlackUI)
 
 ## Lists
-- [awesome-open-slack ★17](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
+- [awesome-open-slack ★17 ⏳1Y](https://github.com/tyshgc/awesome-open-slack) - repository of Slack open team list
 - [Community-built integrations](https://api.slack.com/community)
 
 ## Third-party services

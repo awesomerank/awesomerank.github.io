@@ -74,7 +74,7 @@ A curated list of delightful [Visual Studio Code](https://code.visualstudio.com/
   - [Settings Sync](#settings-sync)
   - [Yo](#yo)
 - [Formatting/Beautification](#formatting--beautification)
-  - [Align](#align)
+  - [Better Align](#better-align)
   - [Auto Close Tag](#auto-close-tag)
   - [Auto Rename Tag](#auto-rename-tag)
   - [beautify](#beautify)
@@ -131,6 +131,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Fortran](https://marketplace.visualstudio.com/items?itemName=Gimly81.fortran)
 - [Handlebars](https://marketplace.visualstudio.com/items?itemName=andrejunges.Handlebars)
 - [Java](https://marketplace.visualstudio.com/items?itemName=redhat.java)
+- [KL](https://marketplace.visualstudio.com/items?itemName=melmass.kl)
 - [Kotlin](https://marketplace.visualstudio.com/items?itemName=mathiasfrohlich.Kotlin)
 - [Mason](https://marketplace.visualstudio.com/items?itemName=viatsko.html-mason)
 - [Parser 3](https://marketplace.visualstudio.com/items?itemName=viatsko.parser3)
@@ -142,6 +143,7 @@ Language packages extend the editor with syntax highlighting and/or snippets for
 - [Stylus](https://marketplace.visualstudio.com/items?itemName=sysoev.language-stylus)
 - [Swift](https://marketplace.visualstudio.com/items?itemName=Kasik96.swift)
 - [Twig](https://marketplace.visualstudio.com/items?itemName=whatwedo.twig)
+- [VEX](https://marketplace.visualstudio.com/items?itemName=melmass.vex)
 
 ## Editor Keymaps
 
@@ -219,6 +221,7 @@ Unlike some other editors, VS Code supports IntelliSense, linting, outline out-o
 
 ### PHP
 
+- [php-intellisense](https://marketplace.visualstudio.com/items?itemName=felixfbecker.php-intellisense) - PHP IntelliSense
 - [phpcs](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) - PHP CodeSniffer for Visual Studio Code
 
 ### Python
@@ -423,11 +426,13 @@ Features full workbench theming
 
 ## Formatting & Beautification
 
-### [Align](https://marketplace.visualstudio.com/items?itemName=steve8708.Align)
+### [Better Align](https://marketplace.visualstudio.com/items?itemName=wwm.better-align)
 
-> Align text in vscode like the atom-alignment package
+> Align your code by colon(:), assignment(=,+=,-=,*=,/=) and arrow(=>). It has additional support for comma-first coding style and trailing comment.
+>
+> And it doesn't require you to select what to be aligned, the extension will figure it out by itself.
 
-![](https://cdn-images-1.medium.com/max/1600/1*U0MbxS9dVaRRJibCoyVS9g.png)
+![Better Align](https://raw.githubusercontent.com/WarWithinMe/better-align/master/images/2.gif)
 
 ### [Auto Close Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
 

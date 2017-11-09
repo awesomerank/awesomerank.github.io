@@ -488,7 +488,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng-snotify ★104](https://github.com/artemsky/ng-snotify) - Angular 4 Notification Center
 * [ngx-permissions ★84](https://github.com/AlexKhymenko/ngx-permissions) - Permission and roles based access control for your angular(angular 2, angular 4,5+) applications(AOT, lazy modules compatible)
 * [nebular ★638](https://github.com/akveo/nebular) - Full-featured framework based on Angular
-* [ng-select ★20](https://github.com/ng-select/ng-select) Angular ng-select - All in One UI Select, Multiselect and Autocomplete
+* [ng-select ★35](https://github.com/ng-select/ng-select) Angular ng-select - All in One UI Select, Multiselect and Autocomplete
                                                                         
 #### Site Templates
 * [NG-Dashboard](https://github.com/YagoLopez/ng-dashboard) - Dashboard for Angular 4+. UI Components based on [Material Light ★32](https://github.com/YagoLopez/material-light). Chart Component based on [MetricsGraficsJS](https://www.metricsgraphicsjs.org). Map Directive based on [LeafletJS](http://leafletjs.com). [DEMO ONLINE](http://yagolopez.js.org/ng-dashboard/dist/)

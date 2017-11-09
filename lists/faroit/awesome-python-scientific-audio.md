@@ -48,7 +48,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [pyAV](https://mikeboers.github.io/PyAV/) [:octocat:](https://mikeboers.github.io/PyAV/) - PyAV is a Pythonic binding for FFmpeg or Libav.
 * [(Py)Soundfile](http://pysoundfile.readthedocs.io/) [:octocat: ★117](https://github.com/bastibe/PySoundFile) [:package:](https://pypi.python.org/pypi/SoundFile) - Library based on libsndfile, CFFI, and NumPy.
 * [pySox](https://github.com/rabitt/pysox) [:octocat: ★62](https://github.com/rabitt/pysox) [:package:](https://pypi.python.org/pypi/pysox/) - Wrapper for sox.
-* [PySynth](http://mdoege.github.io/PySynth) [:octocat: ★149](https://github.com/mdoege/PySynth) - simple midi-to-wav synthesizer.
+* [PySynth](http://mdoege.github.io/PySynth) [:octocat: ★161](https://github.com/mdoege/PySynth) - simple midi-to-wav synthesizer.
 * [tinytag](https://github.com/devsnd/tinytag) [:octocat: ★259](https://github.com/devsnd/tinytag) [:package:](https://pypi.python.org/pypi/tinytag/) - reading music meta data of MP3, OGG, FLAC and Wave files.
 
 #### Transformations - General DSP
@@ -63,7 +63,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [pydub](http://pydub.com) [:octocat: ★2133](https://github.com/jiaaro/pydub) [:package:](https://pypi.python.org/pypi/mdct) - Manipulate audio with a simple and easy high level interface.
 * [pytftb](http://tftb.nongnu.org) [:octocat: ★32](https://github.com/scikit-signal/pytftb) - Implementation of the MATLAB Time-Frequency Toolbox.
 * [PyRubberband](https://github.com/bmcfee/pyrubberband) [:octocat: ★11](https://github.com/bmcfee/pyrubberband) [:package:](https://pypi.python.org/pypi/pyrubberband/) - Wrapper for [rubberband](http://breakfastquay.com/rubberband/) to do pitch-shifting and time-stretching.
-* [PyWavelets](http://pywavelets.readthedocs.io) [:octocat: ★252](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
+* [PyWavelets](http://pywavelets.readthedocs.io) [:octocat: ★268](https://github.com/PyWavelets/pywt) [:package:](https://pypi.python.org/pypi/PyWavelets) - Discrete Wavelet Transform in Python.
 * [Resampy](http://resampy.readthedocs.io) [:octocat: ★49](https://github.com/bmcfee/resampy) [:package:](https://pypi.python.org/pypi/resampy) - Sample rate conversion.
 * [STFT](http://stft.readthedocs.io) [:octocat: ★16 ⏳1Y](https://github.com/nils-werner/stft) [:package:](https://pypi.python.org/pypi/stft) - Standalone package for Short-Time Fourier Transform.
 

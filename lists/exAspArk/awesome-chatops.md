@@ -294,7 +294,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Visual Studio Online
 
-* [Hubot](https://hubot.github.com/) + [adapter ★12 ⏳2Y](https://github.com/scrumdod/hubot-VSOnline) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★12 ⏳3Y](https://github.com/scrumdod/hubot-VSOnline) (CoffeeScript, Node.js)
 
 ### Vkontakte
 

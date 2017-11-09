@@ -150,7 +150,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 * [Meteor-CollectionFS ★1071](https://github.com/CollectionFS/Meteor-CollectionFS) - Meteor webbased filesystem handling up and downloads.
 * [ostrio:files ★665](https://github.com/VeliovGroup/Meteor-Files) - Upload files via DDP, HTTP and WebRTC/DC. To Meteor server FS, AWS, GridFS, DropBox or Google Drive. Fast, secure and robust.
-* [netanelgilad:excel ★50](https://github.com/netanelgilad/meteor-excel) - Parsing and generating excel files (xlsx, xls).
+* [netanelgilad:excel ★50 ⏳1Y](https://github.com/netanelgilad/meteor-excel) - Parsing and generating excel files (xlsx, xls).
 
 ## Search, sort and paginate
 
@@ -238,7 +238,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [Microscope ★925](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app
 * [Wekan ★11497](https://github.com/wekan/wekan) - Open source Trello-like kanban
 * [Reaction Commerce ★5680](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor
-* [Crowducate Platform ★178](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by meteor
+* [Crowducate Platform ★178 ⏳1Y](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by meteor
 * [Orion CMS](http://orionjs.org/)
 
 ## Front End Frameworks

@@ -273,7 +273,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CMocka](https://cmocka.org/) - unit testing framework for C with support for mock objects. [Apache2]
 * [CppUnit](http://www.freedesktop.org/wiki/Software/cppunit/) - C++ port of JUnit. [LGPL2]
 * [CTest](https://cmake.org/cmake/help/v2.8.8/ctest.html) - The CMake test driver program. [BSD]
-* [fff ★149](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. [MIT]
+* [fff ★154](https://github.com/meekrosoft/fff) - A micro-framework for creating fake C functions. [MIT]
 * [Google Mock](https://github.com/google/googletest/blob/master/googlemock/README.md) - A library for writing and using C++ mock classes. [BSD]
 * [Google Test ★6406](https://github.com/google/googletest) - Google C++ Testing Framework. [BSD]
 * [ig-debugheap ★101 ⏳2Y](https://github.com/deplinenoise/ig-debugheap) - Multiplatform debug heap useful for tracking down memory errors. [BSD]
@@ -750,7 +750,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Articles
 *Fantastic C/C++ related articles.*
 
-* [CppCon 2017 Presentation Materials ★299](https://github.com/CppCon/CppCon2017) - CppCon 2017 Presentation Materials.
+* [CppCon 2017 Presentation Materials ★559](https://github.com/CppCon/CppCon2017) - CppCon 2017 Presentation Materials.
 * [CppCon 2016 Presentation Materials ★1327](https://github.com/CppCon/CppCon2016) - CppCon 2016 Presentation Materials.
 * [CppCon 2015 Presentation Materials ★1360](https://github.com/CppCon/CppCon2015) - CppCon 2015 Presentation Materials.
 * [CppCon 2014 Presentation Materials ★1836 ⏳1Y](https://github.com/CppCon/CppCon2014) - CppCon 2014 Presentation Materials.

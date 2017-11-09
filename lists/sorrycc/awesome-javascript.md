@@ -774,7 +774,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  * [mobile-boilerplate ★4034 ⏳2Y](https://github.com/h5bp/mobile-boilerplate) - A front-end template that helps you build fast, modern mobile web apps.
  * [webplate ★583](https://github.com/chrishumboldt/webplate) - An awesome front-end framework that lets you stay focused on building your site or app while remaining really easy to use.
  * [Cerberus ★2498](https://github.com/TedGoas/Cerberus) - A few simple, but solid patterns for responsive HTML emails. Even in Outlook.
- * [full-page-intro-and-navigation ★30 ⏳2Y](https://github.com/CodyHouse/full-page-intro-and-navigation) - An intro page with a full width background image, a bold animated menu and an iOS-like blurred effect behind the navigation
+ * [full-page-intro-and-navigation ★30 ⏳3Y](https://github.com/CodyHouse/full-page-intro-and-navigation) - An intro page with a full width background image, a bold animated menu and an iOS-like blurred effect behind the navigation
  * [Fluid-Squares ★27 ⏳2Y](https://github.com/crozynski/Fluid-Squares) - A fluid grid of square units.
  * [Mobile-First-RWD ★57 ⏳5Y](https://github.com/bradfrost/Mobile-First-RWD) - An example of a mobile-first responsive web design
  * [this-is-responsive ★1497](https://github.com/bradfrost/this-is-responsive) - This Is Responsive

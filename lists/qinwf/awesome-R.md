@@ -186,7 +186,7 @@ for <a target="_blank" href="https://github.com/rstudio/RStartHere/blob/master/t
 *Packages to surf the web.*
 
 * [Web Technologies List ★130](https://github.com/ropensci/webservices) - Information about how to use R and the world wide web together.
-* [shiny <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny ★63](https://github.com/grabear/awesome-rshiny)
+* [shiny <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/rstudio/shiny) - Easy interactive web applications with R. See also [awesome-rshiny ★82](https://github.com/grabear/awesome-rshiny)
 * [shinyjs ★284](https://github.com/daattali/shinyjs) -  Easily improve the user interaction and user experience in your Shiny apps in seconds.
 * [RCurl](http://cran.r-project.org/web/packages/RCurl/index.html) - General network (HTTP/FTP/...) client interface for R.
 * [httr <img class="emoji" alt="heart" src="https://awesome-r.com/heart.png" height="20" align="absmiddle" width="20">](https://github.com/hadley/httr) - User-friendly RCurl wrapper.
@@ -608,7 +608,7 @@ Where to discover new R-esources.
 
 * [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness)
 * [lists ★4518](https://github.com/jnv/lists)
-* [awesome-rshiny ★63](https://github.com/grabear/awesome-rshiny)
+* [awesome-rshiny ★82](https://github.com/grabear/awesome-rshiny)
 
 # Contributing
 Your contributions are always welcome!

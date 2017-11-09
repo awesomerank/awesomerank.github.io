@@ -110,6 +110,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 * [EMSI](https://github.com/economicmodeling) - A Career building company that uses D as their main language. Hosts their opensource projects.
 * [infognition](http://www.infognition.com/company.html) - Infognition is a self-funded and self-sustained company specializing in video processing and compression technologies for end-users and developers. They provide several opensource video related applications & tools written in D, hosted on [bitbucket](https://bitbucket.org/infognition/). They are also porting their main product--[Video Enchanser](http://www.infognition.com/VideoEnhancer/) from C/C++ to D.
 * [libmir](https://github.com/libmir) - D's numeric library development team
+* [sociomantic labs](https://www.sociomantic.com) - Berlin based company specializing in real-time bidding for online advertising. Main sponsor of the [annual D language conference](http://dconf.org). Has open-sourced large parts of their codebase as part of the [tsunami](https://github.com/sociomantic-tsunami) organization.
 
 ## Books
 *D related books.* You can find another list of books on the [Books](http://wiki.dlang.org/Books) D wiki page.
@@ -231,9 +232,10 @@ title: Awesome Rank for zhaopuming/awesome-d
 * [vibe.d](http://vibed.org/) - Asynchronous I/O Web Framework that doesn’t get in your way, written in D.
 * [arsd ★285](https://github.com/adamdruppe/arsd) - Adam D. Ruppe's web framework.
 * [cmsed ★16 ⏳2Y](https://github.com/rikkimax/Cmsed) - A component library for Vibe that functions as a CMS.
+* [diamond ★11](https://github.com/DiamondMVC/Diamond) - Powerful MVC / Template Framework inspired by ASP.NET, based on vibe.d
 
 *RPC library*
-* [Hprose ★22](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
+* [Hprose ★22 ⏳1Y](https://github.com/hprose/hprose-d) - A very newbility RPC Library for D, and it support 25+ languages now.
 
 ## Data serialization
 *Json, XML, protobuf and other data serialization libs.*

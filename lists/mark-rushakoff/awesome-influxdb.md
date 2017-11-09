@@ -66,7 +66,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [gopherwx ★6](https://github.com/chrissnell/gopherwx) - a service that pulls live weather data from a Davis Instruments Vantage Pro2 station and stores it in InfluxDB
 * [grade ★13](https://github.com/influxdata/grade) - Track Go benchmark performance over time by storing results in InfluxDB
 * [Influx-Capacitor ★37](https://github.com/poxet/Influx-Capacitor) - Influx-Capacitor collects metrics from windows machines using Performance Counters. Data is sent to influxDB to be viewable by grafana
-* [Influxdb-Powershell ★2](https://github.com/vsavornin/Influxdb-Powershell) - Powershell script to send Windows Performance counters to an InfluxDB Server
+* [Influxdb-Powershell ★2 ⏳1Y](https://github.com/vsavornin/Influxdb-Powershell) - Powershell script to send Windows Performance counters to an InfluxDB Server
 * [influxdb-logger](https://github.com/codersaur/SmartThings/tree/master/smartapps/influxdb-logger) - SmartApp to log [SmartThings](https://www.smartthings.com/) device attributes to an InfluxDB database
 * [influxdb-sqlserver ★32](https://github.com/zensqlmonitor/influxdb-sqlserver) - Collect Microsoft SQL Server metrics for reporting to InfluxDB and visualize them with Grafana
 * [k6 ★3081](https://github.com/loadimpact/k6) - A modern load testing tool, using Go and JavaScript
@@ -94,7 +94,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [Graphios ★267](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
 * [heapster ★1500](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](https://kubernetes.io/) cluster
 * [heka ★3284 ⏳1Y](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
-* [internet_data_usage ★2 ⏳1Y](https://github.com/precurse/internet_data_usage) - Python based application to pull data plan usage for different carriers such as Telus and Koodo
+* [internet_data_usage ★2 ⏳2Y](https://github.com/precurse/internet_data_usage) - Python based application to pull data plan usage for different carriers such as Telus and Koodo
 * [jmxtrans ★1258](https://github.com/jmxtrans/jmxtrans) - Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.
 * [logary ★304](https://github.com/logary/logary) - High performance, multi-target logging, metric and health-check library for mono and .Net
 * [metrics.sh ★53](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts

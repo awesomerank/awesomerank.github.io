@@ -445,7 +445,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Build Tools
 *Project build and automation tools.*
 
-* [Bob ★97 ⏳3Y](https://github.com/CHH/bob) - A simple project automation tool.
+* [Bob ★97 ⏳4Y](https://github.com/CHH/bob) - A simple project automation tool.
 * [Box ★1079](https://github.com/box-project/box2) - A utility to build PHAR files.
 * [Construct ★240](https://github.com/jonathantorres/construct) - A PHP project/micro-package generator.
 * [Phake ★382 ⏳1Y](https://github.com/jaz303/phake) - A rake PHP clone library.

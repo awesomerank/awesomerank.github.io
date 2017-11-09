@@ -118,7 +118,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
  * [sshoogr ★256](https://github.com/aestasit/sshoogr) - DSL library for working with remote servers through SSH.
 
 ## Rule Engines
-* [grules ★29](https://github.com/zhaber/grules) - rule engine for data preprocessing
+* [grules ★29 ⏳1Y](https://github.com/zhaber/grules) - rule engine for data preprocessing
 * [n-cube ★80](https://github.com/jdereg/n-cube) - a Rules Engine, Decision Table, Decision Tree, Templating Engine, and Enterprise Spreadsheet, built as a hyper-space.
 
 # Resources

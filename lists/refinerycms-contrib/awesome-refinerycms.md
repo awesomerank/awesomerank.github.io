@@ -19,7 +19,7 @@ A collection of awesome [Refinery CMS](http://www.refinerycms.com/) extensions, 
 * [refinerycms-products ★6](https://github.com/bisscomm/refinerycms-products) - Display products
 * [refinerycms-retailers ★3 ⏳1Y](https://github.com/bisscomm/refinerycms-retailers) - Display retailers
 * [refinerycms-teams ★3 ⏳1Y](https://github.com/bisscomm/refinerycms-teams) - Display teams
-* [refinerycms-testimonials ★2](https://github.com/anitagraham/refinerycms-testimonials) - Manage and display testimonials
+* [refinerycms-testimonials ★2 ⏳1Y](https://github.com/anitagraham/refinerycms-testimonials) - Manage and display testimonials
 * [refinerycms-videos ★2](https://github.com/bisscomm/refinerycms-videos) - Basic display of Youtube videos
 
 ## Backoffice extensions

@@ -380,7 +380,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AwesomeCache ★1076](https://github.com/aschuch/AwesomeCache) - Manage cache easy.
 * [Cache ★892](https://github.com/hyperoslo/Cache) - Nothing but Cache.
-* [Cachyr ★92](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS.
+* [Cachyr ★96](https://github.com/YR/Cachyr) - A small key-value data cache for iOS, macOS and tvOS.
 * [Carlos ★446](https://github.com/WeltN24/Carlos) - A simple but flexible cache.
 * [EVURLCache ★247](https://github.com/evermeer/EVURLCache) - If you want to make your app still works when it's offline.
 * [SwiftMemCache ★49 ⏳1Y](https://github.com/ctews/SwiftMemCache) - Memory Cache with namespace & TTL support.
@@ -407,7 +407,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ChromaColorPicker ★68](https://github.com/joncardasis/ChromaColorPicker) - An intuitive and fun iOS color picker.
 * [Colorify ★68](https://github.com/czater/Colorify) - Colorify - simple, yet powerful color library.
 * [Colors ★24](https://github.com/icodeforlove/Colors) - Library for using ANSI codes.
-* [CSS3ColorsSwift ★52](https://github.com/WorldDownTown/CSS3ColorsSwift) - A UIColor extension with CSS3 Colors name.
+* [CSS3ColorsSwift ★52 ⏳1Y](https://github.com/WorldDownTown/CSS3ColorsSwift) - A UIColor extension with CSS3 Colors name.
 * [DynamicColor ★1707](https://github.com/yannickl/DynamicColor) - An extension to manipulate colors easily.
 * [FlatUIColors ★137](https://github.com/brynbellomy/FlatUIColors) - Flat UI color palette.
 * [Google Material Color ★45 ⏳1Y](https://github.com/katopz/google-material-color-swift) - Google Material Color Palette.
@@ -467,7 +467,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [QueryKit ★1277](https://github.com/QueryKit/QueryKit) - An easy way to play with Core Data filtering.
 * [Skopelos ★178](https://github.com/albertodebortoli/Skopelos) - A minimalistic, thread safe, non-boilerplate and super easy to use version of Active Record on Core Data.
 * [SugarRecord ★1953](https://github.com/carambalabs/SugarRecord) - Helps with Core Data and Realm.
-* [SuperRecord ★392](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with Core Data a bit easier.
+* [SuperRecord ★392 ⏳1Y](https://github.com/michaelarmstrong/SuperRecord) - A small set of utilities to make working with Core Data a bit easier.
 
 #### JSON
 *Struggling using json data? Here are some interesting ways to handle it.* [back to top](#readme) 
@@ -905,7 +905,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [Arithmosophi ★54](https://github.com/phimage/Arithmosophi) - Set of protocols for Arithmetic and Logical operations.
-* [BigInt ★214](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
+* [BigInt ★326](https://github.com/attaswift/BigInt) - Arbitrary-precision arithmetic.
 * [DDMathParser ★652](https://github.com/davedelong/DDMathParser) - DDMathParser makes it easy to parse a String and evaluate it as a mathematical expression.
 * [PlotKit ★31](https://github.com/aleph7/PlotKit) - Plots made easy.
 * [SigmaSwiftStatistics ★474](https://github.com/evgenyneu/SigmaSwiftStatistics) - A collection of functions for statistical calculation.
@@ -1042,7 +1042,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [CryptoSwift ★4476](https://github.com/krzyzanowskim/CryptoSwift) :penguin: - Crypto related functions and helpers.
 * [IDZSwiftCommonCrypto ★349](https://github.com/iosdevzone/IDZSwiftCommonCrypto) - A wrapper for Apple's Common Crypto library.
-* [Siphash ★191](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
+* [Siphash ★193](https://github.com/attaswift/SipHash) - Simple and secure hashing with the SipHash algorithm.
 * [SweetHMAC ★31 ⏳1Y](https://github.com/jancassio/SweetHMAC) - A tiny and easy to use class to encrypt strings using HMAC algorithms.
 * [Swift-Sodium ★181](https://github.com/jedisct1/swift-sodium) - Interface to the Sodium library for common crypto operations for iOS and OS X.
 * [SwiftSSL ★182 ⏳1Y](https://github.com/SwiftP2P/SwiftSSL) - Crypto toolkit.
@@ -1479,7 +1479,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Persei ★2803](https://github.com/Yalantis/Persei) - Animated top menu for UITableView / UICollectionView / UIScrollView.
 * [PullToRefreshSwift ★486](https://github.com/dekatotoro/PullToRefreshSwift) - PullToRefresh library.
 * [ReverseExtension ★1140](https://github.com/marty-suzuki/ReverseExtension) - UITableView extension that enables the insertion of cells the from bottom of a table view.
-* [SectionScrubber ★126](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
+* [SectionScrubber ★137](https://github.com/bakkenbaeck/SectionScrubber) - A component to quickly scroll between collection view sections.
 * [Shoyu ★263](https://github.com/yukiasai/Shoyu) - Easier way to represent the structure of UITableView.
 * [SwipeCellKit ★2478](https://github.com/SwipeCellKit/SwipeCellKit) - Swipeable UITableViewCell based on the stock Mail.app.
 * [YNExpandableCell ★318](https://github.com/younatics/YNExpandableCell) - Awesome expandable, collapsible tableview cell for iOS.

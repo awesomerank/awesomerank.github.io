@@ -439,7 +439,7 @@ Projects
 * [Iron.io](http://iron.io)
 * [OpenFaaS](https://github.com/alexellis/faas)
 * [FaaS-netes](https://github.com/alexellis/faas-netes)
-* [Nuclio ★128](https://github.com/nuclio/nuclio)
+* [Nuclio ★907](https://github.com/nuclio/nuclio)
 
 ## Operators
 
@@ -559,7 +559,7 @@ Projects
 * [kubens ★194](https://github.com/ahmetb/kubectx) - switch between namespaces on kubectl
 * [StackStorm ★2265](https://github.com/StackStorm/st2)
 * [Kubefuse](https://opencredo.com/introducing-kubefuse-file-system-kubernetes/)
-* [Ksql ★84](https://github.com/brendandburns/ksql)
+* [Ksql ★84 ⏳1Y](https://github.com/brendandburns/ksql)
 * [kubectld ★9](https://github.com/rancher/kubectld)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
 * [Kubectl Aliases ★96](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl

@@ -71,7 +71,7 @@ A curated list of Awesome Alfred Workflows.
 - [Emoji Snippet Pack](http://joelcalifa.com/blog/alfred-emoji-snippet-pack/) - Snippet Pack for Emojis.
 - [Emoj ★124](https://github.com/sindresorhus/alfred-emoj) - Find relevant emoji from text.
 - [Kaomoji ★7](https://github.com/vinkla/alfred-kaomoji) - Find relevant kaomoji from text.
-- [Things ★3](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
+- [Things ★12](https://github.com/xilopaint/alfred-things) - Interact with Things 3 using Alfred.
 - [WebScreenshot](https://github.com/vitorgalvao/alfred-workflows/tree/master/WebScreenshot) - Take screenshots directly to imgur.
 
 ## Security

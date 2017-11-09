@@ -650,7 +650,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [MoPub ★27](https://github.com/StickSports/MoPub-ANE) - ANE for MoPub advertising.
 * [UMAnalytics ★10 ⏳2Y](https://github.com/ColerYu/ANE-UMAnalytics) - ANE for UMAnalytics SDK (iOS and Android).
 * [Localytics ★10 ⏳5Y](https://github.com/randori/ANE-Localytics) - Localytics analytics for mobile Adobe AIR applications (iOS & Android).
-* [Testflight ★26 ⏳4Y](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
+* [Testflight ★26 ⏳5Y](https://github.com/jlopez/ane-testflight) - Apple TestFlight ANE.
 * [Chartboost ★48 ⏳2Y](https://github.com/ChartBoost/air) - ANE for the Chartboost SDK with compile scripts.
 ---
 <p align="center">

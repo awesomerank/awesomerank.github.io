@@ -44,7 +44,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [AutoMapper ★4,111](https://github.com/AutoMapper/AutoMapper) - A convention-based object-object mapper in .NET
 * [Humanizer ★2,407](https://github.com/Humanizr/Humanizer) - Manipulation and displaying of strings, enums, dates, times, timespans, numbers and quantities
 * [Fluent Validation ★1,893](https://github.com/JeremySkinner/FluentValidation) - Fluent interface and lambda expressions for building validation rules
-* [NodaTime](http://nodatime.org/) - Alternative date and time API for .NET
+* [NodaTime](https://nodatime.org/) - Alternative date and time API for .NET
 * [Polly ★1,913](https://github.com/App-vNext/Polly) - Exception handling policies such as Retry, Retry Forever, Wait and Retry or Circuit Breaker
 
 ## Architecture
@@ -150,6 +150,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [Reachability ★12](https://github.com/has-taiar/Reachability.Net) - Online/offline connected check
 * [Refit ★1,092](https://github.com/paulcbetts/refit) - The automatic type-safe REST library for Xamarin and .NET
 * [RestEase ★81](https://github.com/canton7/RestEase) - Refit on steroids, simpler auth, parsing...
+* [RestLess ★20](https://github.com/letsar/RestLess) - The automatic type-safe-reflectionless REST API client library for .Net Standard.
 * [Sockets ★113](https://github.com/rdavisau/sockets-for-pcl) - An abstraction over the socket helper classes of .NET and WinRT
 
 ## Reactive

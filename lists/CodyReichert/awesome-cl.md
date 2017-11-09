@@ -375,7 +375,10 @@ HTML generators and templates
 URI handling
 ------------
 
-* [puri-unicode ★11 ⏳2Y](https://github.com/archimag/puri-unicode) - Pure URI library with Unicode support. [LLGPL][8].
+* [quri ★49](https://github.com/fukamachi/quri) - Another URI library for
+  Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
+  utilities,… [BSD_3Clause][15].
+* [purl ★2](https://github.com/eugeneia/purl) - Provides a parser and defines a type for URLs as specified in RFC1738. [GNU GPL3][2].
 * [cl-slug ★15](https://github.com/EuAndreh/cl-slug) - a small library to make slugs, mainly for URIs, transform in CamelCase, remove accentuation and punctuation, for english and beyound. [LLGPL][8].
 
 Javascript
@@ -449,6 +452,7 @@ Parallelism and Concurrency
 * [BordeauxThreads](https://common-lisp.net/project/bordeaux-threads/) - Portable, shared-state concurrency. [Expat][14].
 * [chanl ★98 ⏳1Y](https://github.com/zkat/chanl) - Portable, channel-based concurrency. [Expat][14], with parts under [3-clause BSD][15].
 * [cl-async ★159](https://github.com/orthecreedence/cl-async) - A library for general-purpose, non-blocking programming. [Expat][14].
+* [erlangen](https://github.com/eugeneia/erlangen) - Distributed, asynchronous message passing system for Clozure Common Lisp. [GNU GPL3][2]. See also the [Actors ★0](https://github.com/aarvid/Actors) package for LispWorks ([discussion](https://www.reddit.com/r/Common_Lisp/comments/77vsft/david_mcclains_actors_package_for_lispworks/)) [MIT][200].
 * [lesque ★14 ⏳3Y](https://github.com/fukamachi/lesque) - A clone of Resque. Not available on Quicklisp. [Expat][14].
 * [lparallel ★121](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
 * [Xecto ★30 ⏳2Y](https://github.com/pkhuong/Xecto) - A library for regular array parallelism. [3-clause BSD][15].

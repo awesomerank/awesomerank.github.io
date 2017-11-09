@@ -146,7 +146,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Converters
  * [human_file_size.cr ★0](https://github.com/johnjansen/human_file_size.cr) - JSON & YAML mapping converter for human file sizes in serialized data
  * [moola](https://github.com/dorkrawk/moola) - Library for dealing with money and conversion (inspired by [RubyMoney ★1851](https://github.com/RubyMoney/money))
- * [ms ★12](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
+ * [ms ★12 ⏳1Y](https://github.com/SuperPaintman/ms) - Library to easily convert various time formats to milliseconds and milliseconds to human readable format
  * [sass.cr](https://github.com/straight-shoota/sass.cr) - Compile SASS/SCSS to CSS ([libsass ★3591](https://github.com/sass/libsass) binding)
  * [time_format.cr ★0](https://github.com/vladfaust/time_format.cr) - Convert time in human readable format with ease
  * [turkish-number ★6](https://github.com/izniburak/turkish-number) - Turn integers into the Turkish words

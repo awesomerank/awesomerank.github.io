@@ -273,7 +273,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [leaf-python-mqtt ★12](https://github.com/glynhudson/leaf-python-mqtt) - Extract data from Nissan Leaf API and post to mqtt.
 * [miflora-mqtt-daemon ★20](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker.
 * [mqtt2ble ★9](https://github.com/hardillb/mqtt2ble) - A way to bridge MQTT topics to BLE Gatt characteristics.
-* [mqttclpro ★18](https://github.com/dc297/mqttclpro) - MQTT Client with tasker integration Android app.
+* [mqttclpro ★24](https://github.com/dc297/mqttclpro) - MQTT Client with tasker integration Android app.
 * [mqttDB ★4](https://github.com/hobbyquaker/mqttDB) - A JSON store with MQTT interface.
 * [node-mqtt-for-anki-overdrive ★37 ⏳1Y](https://github.com/IBM-Bluemix/node-mqtt-for-anki-overdrive) - Node.js Controller and MQTT API for Anki Overdrive.
 * [parrot-sample ★17](https://github.com/IBM-Bluemix/parrot-sample) - Sample code which uses MQTT to control a Parrot AR Drone.

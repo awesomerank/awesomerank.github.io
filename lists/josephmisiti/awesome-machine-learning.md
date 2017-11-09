@@ -237,7 +237,7 @@ Further resources:
 <a name="common-lisp-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [mgl ★139 ⏳1Y](https://github.com/melisgl/mgl) - Neural networks  (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes
+* [mgl ★139 ⏳2Y](https://github.com/melisgl/mgl) - Neural networks  (boltzmann machines, feed-forward and recurrent nets), Gaussian Processes
 * [mgl-gpr ★35 ⏳2Y](https://github.com/melisgl/mgl-gpr) - Evolutionary algorithms
 * [cl-libsvm ★13 ⏳3Y](https://github.com/melisgl/cl-libsvm) - Wrapper for the libsvm support vector machine library
 * [cl-online-learning ★26](https://github.com/masatoi/cl-online-learning) - Online learning algorithms (Perceptron, AROW, SCW, Logistic Regression)
@@ -973,7 +973,7 @@ be
 * [windML](http://www.windml.org) - A Python Framework for Wind Energy Analysis and Prediction
 * [vispy ★1433](https://github.com/vispy/vispy) - GPU-based high-performance interactive OpenGL 2D/3D data visualization library
 * [cerebro2 ★15 ⏳2Y](https://github.com/numenta/nupic.cerebro2) A web-based visualization and debugging platform for NuPIC.
-* [NuPIC Studio ★71 ⏳1Y](https://github.com/htm-community/nupic.studio) An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool!
+* [NuPIC Studio ★71 ⏳2Y](https://github.com/htm-community/nupic.studio) An all-in-one NuPIC Hierarchical Temporal Memory visualization and debugging super-tool!
 * [SparklingPandas ★305](https://github.com/sparklingpandas/sparklingpandas) Pandas on PySpark (POPS)
 * [Seaborn](http://seaborn.pydata.org/) - A python visualization library based on matplotlib
 * [bqplot ★1543](https://github.com/bloomberg/bqplot) - An API for plotting in Jupyter (IPython)

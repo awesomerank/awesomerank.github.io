@@ -37,6 +37,7 @@ title: Awesome Rank for nicolesaidy/awesome-web-design
 * [Sitepoint](https://www.sitepoint.com/design-ux/): A hub for web developers & designers to share their passion for building incredible internet things.
 * [Designer News](https://www.designernews.co/): Where the design community meets.
 * [Reddit Web Design](https://www.reddit.com/r/web_design/): A place for designers to contribute useful posts, ask questions or engage in discussion.
+* [Morning Reader](https://morningreader.com): Breaking tech news.
 
 ## Inspiration
 * [Awwwards](http://awwwards.com): Best web design trends.

@@ -375,7 +375,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 
 **Python**
 * [jsonschema ★1340](https://github.com/Julian/jsonschema) - Python implementation of jsonschema.
-* [JSON Schema Toolkit ★25 ⏳1Y](https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
+* [JSON Schema Toolkit ★25 ⏳2Y](https://github.com/petrounias/json-schema-toolkit) - Programmatic building of JSON schemas (recursive field mappings) with validation, a Django JSON Field, and native PostgreSQL JSON type constraints.
 
 **Ruby**
 * [Ruby JSON Schema Validator ★912](https://github.com/ruby-json-schema/json-schema) - validating against a JSON schema conforming to JSON Schema Draft 4.

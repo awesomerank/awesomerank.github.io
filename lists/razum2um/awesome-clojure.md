@@ -221,7 +221,7 @@ title: Awesome Rank for razum2um/awesome-clojure
 
   * [Validateur](http://clojurevalidations.info/)
   * [Prismatic's schema ★1786](https://github.com/plumatic/schema)
-  * [domaintypes ★5 ⏳2Y](https://github.com/friemen/domaintypes)
+  * [domaintypes ★5 ⏳3Y](https://github.com/friemen/domaintypes)
   * [Bouncer ★312](https://github.com/leonardoborges/bouncer)
   * [clova ★9](https://github.com/markwoodhall/clova)
   * [Orchestra ★152](https://github.com/jeaye/orchestra)

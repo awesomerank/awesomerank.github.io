@@ -73,7 +73,7 @@ A curated list of only awesome TinkerPop libraries on Github.
 * [Ferma ★56](https://github.com/Syncleus/Ferma) - An ORM / OGM for the TinkerPop graph stack.
 
 ##### Javascript
-* [ts-tinkerpop ★26 ⏳1Y](https://github.com/RedSeal-co/ts-tinkerpop) - Utilities for using TinkerPop3 via the node-java API in Typescript.
+* [ts-tinkerpop ★26 ⏳2Y](https://github.com/RedSeal-co/ts-tinkerpop) - Utilities for using TinkerPop3 via the node-java API in Typescript.
 * [gremlin-javascript ★145](https://github.com/jbmusso/gremlin-javascript) (js) - A Gremlin Server driver for JavaScript.
 
 ##### PHP

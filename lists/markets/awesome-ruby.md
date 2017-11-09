@@ -1168,7 +1168,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [LinkThumbnailer ★376](https://github.com/gottfrois/link_thumbnailer) - Ruby gem that generates thumbnail images and videos from a given URL. Much like popular social website with link preview.
 * [Mechanize ★3517](https://github.com/sparklemotion/mechanize) - Mechanize is a ruby library that makes automated web interaction easy.
 * [MetaInspector ★757](https://github.com/jaimeiniesta/metainspector) - Ruby gem for web scraping purposes.
-* [Upton ★1566 ⏳1Y](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping.
+* [Upton ★1566 ⏳2Y](https://github.com/propublica/upton) - A batteries-included framework for easy web-scraping.
 * [Wombat ★1016](https://github.com/felipecsl/wombat) - Web scraper with an elegant DSL that parses structured data from web pages.
 
 ## Web Frameworks

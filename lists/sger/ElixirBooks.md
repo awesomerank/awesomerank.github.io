@@ -28,6 +28,12 @@ Contents
 
 Official Elixir starting guide that will take you through the language foundations. You will also explore how to build projects with Mix and OTP, and it will introduce you to more advanvced techniques suchs as meta-programming.
 
+### [Adopting Elixir](https://pragprog.com/book/tvmelixir/adopting-elixir)
+
+<img src="https://covers.oreillystatic.com/images/9781680502527/cat.gif" width="180px" title="Elixir logo" />
+
+Adoption is more than programming. Elixir is an exciting new language, but to successfully get your application from start to finish, you’re going to need to know more than just the language. You need the case studies and strategies in this book. Learn the best practices for the whole life of your application, from design and team-building, to managing stakeholders, to deployment and monitoring. Go beyond the syntax and the tools to learn the techniques you need to develop your Elixir application from concept to production.
+
 ### [Elixir School](http://elixirschool.com/) *Free*
 
 <img src="http://elixir-lang.org/images/learning/elixir-school.jpg" width="120px"/>
@@ -171,7 +177,6 @@ Elixir and Phoenix are generating tremendous excitement as an unbeatable platfor
 * [Reddit](https://www.reddit.com/r/elixir)
 * [Stack Overflow](http://stackoverflow.com/questions/tagged/elixir)
 * [Exercism.io](http://exercism.io/languages/elixir)
-* [Functional Elixir Newsletter](http://newsletter.elixir-devs.com)
 * [Elixir Radar Newsletter](http://plataformatec.com.br/elixir-radar)
 * [Elixir Koans](http://elixirkoans.io)
 * [Erlang Factory](https://www.youtube.com/channel/UCKrD_GYN3iDpG_uMmADPzJQ)

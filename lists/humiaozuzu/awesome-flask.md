@@ -128,7 +128,7 @@ Plugins
     - [Flask-MongoKit ★68 ⏳3Y](https://github.com/jarus/flask-mongokit) - Flask-MongoKit simplifies the use of MongoKit (a powerful MongoDB ORM for Python) within Flask applications
     - [Flask-SQLAlchemy ★1802](https://github.com/mitsuhiko/flask-sqlalchemy) - Adds SQLAlchemy support to Flask
     - [Flask-Redis ★191](https://github.com/underyx/Flask-Redis) - Redis support for Flask. Not much else to say.
-    - [Flask-And-Redis ★54](https://github.com/playpauseandstop/Flask-And-Redis) - Simple as dead support of Redis database for Flask apps
+    - [Flask-And-Redis ★54 ⏳1Y](https://github.com/playpauseandstop/Flask-And-Redis) - Simple as dead support of Redis database for Flask apps
     - [Flask-CouchDBKit ★20 ⏳5Y](https://github.com/sirn/flask-couchdbkit) - Flask extension that provides integration with CouchDBKit
     - [Flask-OrientDB ★12 ⏳2Y](https://github.com/calthoff/flask-orientdb) - Flask extension for OrientDB Graph&Document Database
     - [Flask-Z3950 ★2](https://github.com/alexandermendes/Flask-Z3950) - Z39.50 integration for Flask applications.

@@ -220,6 +220,7 @@ These frameworks make customizing your zsh setup easier.
 
 * [256color ★37 ⏳2Y](https://github.com/chrissicool/zsh-256color) - Enhances the terminal environment with 256 colors. It looks at the chosen TERM environment variable and sees if there is respective ncurses' terminfo with 256 colors available. The result is a multicolor terminal, if available.
 * [abbrev-alias ★4](https://github.com/momo-lab/zsh-abbrev-alias) - Provides functionality similar to Vim's abbreviation expansion.
+* [abbr-path ★0](https://github.com/felixgravila/zsh-abbr-path) - Adds functionality of the `theme_title_use_abbreviated_path` parameter from some oh-my-fish themes.
 * [accurev-zsh ★1 ⏳2Y](https://github.com/dalefukami/accurev-zsh) - ZSH plugin for accurev.
 * [alias-tips ★202](https://github.com/djui/alias-tips) - An oh-my-zsh plugin to help remembering those aliases you defined once.
 * [allergen ★1](https://github.com/stanislas/allergen) - A collection of custom zsh plugins to use with antigen.
@@ -584,7 +585,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [bashi](https://github.com/eli-oat/bashi) - Optimized for Ahmet Sülek's [Flat UI Terminal Theme](https://github.com/ahmetsulek/flat-terminal) and Pasquale D'Silva's [Saturn Terminal Theme ★73 ⏳1Y](https://github.com/psql/saturn-colors).
 * [bilibili ★5](https://github.com/jingjinghack/bilibili-zshtheme) - BiliBili Theme
 * [bklyn](https://github.com/gporrata/bklyn-zsh) - Variant of [Powerlevel9k ★2969](https://github.com/bhilburn/powerlevel9k) with customizations applied.
-* [blinks-xfan ★1](https://github.com/ixfan/blinks-xfan) - Based on the existing theme blinks.
+* [blinks-xfan ★1 ⏳1Y](https://github.com/ixfan/blinks-xfan) - Based on the existing theme blinks.
 * [blox-zsh-theme ★12](https://github.com/yardnsm/blox-zsh-theme) - A minimal and fast ZSH theme that shows you what you need. It consists of blocks: each block is shown inside a pair of \[square brackets\], and you can add blocks by simply creating a function.
 * [bluehigh ★0](https://github.com/abouthiroppy/bluehigh.zsh-theme) - Minimal theme, displays git information.
 * [bluelines ★2 ⏳3Y](https://github.com/apbarrero/bluelines) - Clear and blue theme.
@@ -771,7 +772,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [zemm-blinks ★8 ⏳3Y](https://github.com/aranasaurus/zemm-blinks.zsh-theme) - Customized version of oh-my-zsh blinks with mercurial support and other changes.
 * [zero ★11 ⏳2Y](https://github.com/arlimus/zero.zsh) - Zero's theme & plugin.
 * [zeta ★59](https://github.com/skylerlee/zeta-zsh-theme) - Shows username, git information, machine name, current working directory.
-* [zsh-blackrain ★4](https://github.com/ginfuru/zsh-blackrain) - Another git-aware theme.
+* [zsh-blackrain ★4 ⏳1Y](https://github.com/ginfuru/zsh-blackrain) - Another git-aware theme.
 * [zsh-megaprompt](https://github.com/willghatch/zsh-megaprompt) - A maximalist prompt including keyboard mode, ownership info, and other contextual info, with λ as the prompt character. Requires the [hooks ★14 ⏳2Y](https://github.com/willghatch/zsh-hooks) plugin.
 * [zsh-prompt-powerline ★48 ⏳1Y](https://github.com/Valodim/zsh-prompt-powerline) - A fairly heavyweight ZSH prompt, based on the powerline font from the popular eponymous vim plugin, which works well for a dark background.
 * [zsh-theme-nerdish ★3 ⏳1Y](https://github.com/nyarla/zsh-theme-nerdish) - A prompt theme for ZSH with Nerd Fonts.

@@ -94,7 +94,7 @@ title: Awesome Rank for addyosmani/es6-tools
 ## Sprockets plugins
 * Babel: [sprockets-es6](https://github.com/josh/sprockets-es6)
 * Traceur: [sprockets-traceur ★25 ⏳2Y](https://github.com/gunpowderlabs/sprockets-traceur)
-* TypeScript: [typescript-rails ★215](https://github.com/typescript-ruby/typescript-rails)
+* TypeScript: [typescript-rails ★215 ⏳1Y](https://github.com/typescript-ruby/typescript-rails)
 
 ## Browser plugins
 * [Scratch JS ★332](https://github.com/richgilbank/Scratch-JS) - A Chrome/Opera DevTools extension to run ES6 on a page with either Babel or Traceur
