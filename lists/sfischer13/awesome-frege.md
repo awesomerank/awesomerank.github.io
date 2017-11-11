@@ -172,7 +172,7 @@ You might also like [awesome-haskell ★1255](https://github.com/krispo/awesome-
 
 ### Graphics
 
-- [Frege-RayTracer ★4](https://github.com/mchav/Frege-RayTracer) - Ray tracer in Frege.
+- [Frege-RayTracer ★4 ⏳1Y](https://github.com/mchav/Frege-RayTracer) - Ray tracer in Frege.
 
 ### GUI
 

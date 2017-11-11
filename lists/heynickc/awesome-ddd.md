@@ -163,7 +163,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [Event Sourcing and CQRS Examples ★16](https://github.com/andreschaffer/event-sourcing-cqrs-examples) - A pragmatic application of Event Sourcing and CQRS in Java with good references for common related problems, e.g. event ordering and idempotency.
 - [DDD Wish List ★77](https://github.com/franzose/symfony-ddd-wishlist) - A sample application in PHP built with Symfony 3 and Vue.js.
 - [Event Sourcing and CQRS Sample ★36](https://github.com/pilloPl/event-source-cqrs-sample) - Sample event sourced application with Command Query Responsibility Segregation
-- [wolkenkit-todomvc ★3](https://github.com/thenativeweb/wolkenkit-todomvc) - TodoMVC built with DDD, CQRS and event-sourcing
+- [wolkenkit-todomvc ★6](https://github.com/thenativeweb/wolkenkit-todomvc) - TodoMVC built with DDD, CQRS and event-sourcing
 
 ## Libraries and Frameworks
 
@@ -172,7 +172,7 @@ The term was coined by Eric Evans in his book of the same title.
 - [MessageRouter ★39 ⏳1Y](https://github.com/QuickenLoans/MessageRouter) - Described in this video: [The Beating Heart of CQRS, or Actor-Based Message Routing on the CLR](https://vimeo.com/171178586) by Paulmichael Blasucci at the New York F# .NET User Group.
 - [NEventStore ★1164](https://github.com/NEventStore/NEventStore) - A persistence library used to abstract different storage implementations when using event sourcing as storage mechanism.
 - [Projac ★81](https://github.com/yreynhout/Projac) - Projac is a set of projection libraries that allow you to write projections targetting various backing stores.
-- [Streamstone ★159](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
+- [Streamstone ★168](https://github.com/yevhen/Streamstone) - Event Store for Azure Table Storage.
 - [Value ★34](https://github.com/tpierrain/Value) - Help you to easily implement Value Types in your C# projects without making errors nor polluting your domain logic with boiler-plate code.
 - [Cirqus ★178](https://github.com/d60/Cirqus) - d60 event sourcing + CQRS framework.
 - [Its.Cqrs ★51](https://github.com/jonsequitur/Its.Cqrs) - A set of libraries for CQRS and Event Sourcing, with a Domain-Driven Design flavor.

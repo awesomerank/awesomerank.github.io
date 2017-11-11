@@ -228,7 +228,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 * [Motion-support ★135 ⏳1Y](https://github.com/rubymotion/motion-support) - Port of ActiveSupport to RubyMotion.
 * [ProMotion ★1265](https://github.com/infinitered/ProMotion) - Full featured RubyMotion framework that makes iPhone development less like Objective-C and more like Ruby, designed to get up and running fast.
 * [ProMotion-XLForm ★21 ⏳1Y](https://github.com/bmichotte/ProMotion-XLForm) - ProMotion-XLForm is a ProMotion plugin for XLForm.
-* [ProMotion-form ★21 ⏳1Y](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way.
+* [ProMotion-form ★21 ⏳2Y](https://github.com/infinitered/ProMotion-form) - ProMotion::FormScreen - forms the ProMotion way.
 * [ProMotion-iap ★19](https://github.com/infinitered/ProMotion-iap) - ProMotion-iap is in-app purchase notification support for the popular RubyMotion gem ProMotion.
 * [ProMotion-menu ★77](https://github.com/infinitered/ProMotion-menu) - RubyMotion gem allowing you to easily setup a facebook or Path style hidden slide menu easily with the ProMotion gem.
 * [ProMotion-push ★18](https://github.com/infinitered/ProMotion-push) - Push notification support for ProMotion.

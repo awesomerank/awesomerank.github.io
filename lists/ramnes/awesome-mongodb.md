@@ -230,7 +230,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
  - [HumongouS.io](https://www.humongous.io) - Easy online GUI and data-visualization dashboards
  - [mongo-express ★2387](https://github.com/mongo-express/mongo-express) - Web-based admin interface written with Node.js, Express and Bootstrap3
  - [mongoadmin ★260 ⏳5Y](https://github.com/thomasst/mongoadmin) - Admin interface for MongoDB built using Django and Bootstrap
- - [mongri ★64](https://github.com/dongri/mongri) - Web-based user interface for MongoDB (written in JavaScript)
+ - [mongri ★64 ⏳1Y](https://github.com/dongri/mongri) - Web-based user interface for MongoDB (written in JavaScript)
  - [Rockmongo ★783](https://github.com/iwind/rockmongo) - PHPMyAdmin for MongoDB, sort of
 
 ## Applications

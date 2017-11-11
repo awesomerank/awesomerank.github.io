@@ -36,7 +36,7 @@ For more terminal shell goodness, please also see this list's sister list [Aweso
     - [Skim](#skim)
     - [Terminal](#terminal)
     - [TextEdit](#textedit)
-    - [Virtual Studio Code](#visual-studio-code)
+    - [Visual Studio Code](#visual-studio-code)
 - [Backup](#backup)
     - [Time Machine](#time-machine)
 - [Developer](#developer)
@@ -55,6 +55,7 @@ For more terminal shell goodness, please also see this list's sister list [Aweso
 - [Functions](#functions)
 - [Hardware](#hardware)
     - [Bluetooth](#bluetooth)
+    - [Harddisks](#harddisks)
     - [Hardware Information](#hardware-information)
     - [Infrared Receiver](#infrared-receiver)
     - [Power Management](#power-management)
@@ -839,6 +840,14 @@ sudo defaults write /Library/Preferences/com.apple.Bluetooth ControllerPowerStat
 # Disable
 sudo defaults write /Library/Preferences/com.apple.Bluetooth ControllerPowerState -int 0 && \
 sudo killall -HUP blued
+```
+
+### Harddisks
+
+#### Force Enable Trim
+Enable Trim for non-Apple SSDs. This command is available since Yosemite.
+```bash
+forcetrim
 ```
 
 ### Hardware Information

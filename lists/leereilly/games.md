@@ -231,7 +231,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pop Pop Win](https://github.com/dart-lang/pop-pop-win) - Implementation of Minesweeper in Dart. [Play it now!](http://dart-lang.github.io/sample-pop_pop_win/)
 * [Prism ★19 ⏳2Y](https://github.com/Zolmeister/prism) - Match all the colors. [Play it now!](http://prism.clay.io/game/prism)
 * [Push and Fork ★35 ⏳4Y](https://github.com/Octocarina/game-off-2012) - Puzzle game in which you carry a fork, push blocks, and go back in time.. [Play it now!](http://gelisam.com/octocarina/)
-* [Shape Experiment ★0 ⏳3Y](https://github.com/binarymax/shape) - The shape recognition reflex game. [Play it now!](http://shapex.org/)
+* [Shape Experiment ★0 ⏳4Y](https://github.com/binarymax/shape) - The shape recognition reflex game. [Play it now!](http://shapex.org/)
 * [Sliding Puzzle ★5 ⏳3Y](https://github.com/gamedolphin/sliding_puzzle) - Sliding blocks puzzle game. [Play it now!](http://gamedolph.in/sample-page/sliding-puzzle/)
 * [Sudoku JS ★2](https://github.com/baruchel/sudoku-js) - A Sudoku puzzle game with a clean design and mobile devices in mind. [Play it now](http://baruchel.insomnia247.nl/sudoku-js/sudoku.html)
 * [Swap ★155](https://github.com/nmoroze/swap) - New(award winning) take on the classic tile-based puzzle game, where you change which character you're controlling to reach your goal. [Play it now!](http://nmoroze.github.io/swap/)
@@ -563,7 +563,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Halo::Reach::API ★10 ⏳3Y](https://github.com/agoragames/halo-reach-api) - Ruby gem for interacting with the Halo:Reach API.
 * [IodineGBA ★446](https://github.com/taisel/IodineGBA) - GameBoy Advance emulator written entirely in JavaScript and powered by HTML5.
 * [itch ★697](https://github.com/itchio/itch) - An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.
-* [JavaScript Breakouts ★493 ⏳1Y](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of [*Breakout*](http://en.wikipedia.org/wiki/Breakout_%28video_game%29).
+* [JavaScript Breakouts ★493 ⏳2Y](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of [*Breakout*](http://en.wikipedia.org/wiki/Breakout_%28video_game%29).
 * [Leaderboard(Java) ★20 ⏳1Y](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis(in Java).
 * [Leaderboard(PHP) ★25 ⏳6Y](https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis(in PHP).
 * [Leaderboard(Python) ★17 ⏳2Y](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis(in Python).

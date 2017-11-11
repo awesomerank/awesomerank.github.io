@@ -16,10 +16,10 @@ A curated list of good design and experience principles.
 Know a resource that isn't listed below? Feel free to create a new [pull request](https://github.com/robinstickel/awesome-design-principles/pulls), or open an [issue](https://github.com/robinstickel/awesome-design-principles/issues/new). Please read the [contribution guidelines](https://github.com/robinstickel/awesome-design-principles/blob/master/CONTRIBUTING.md) before contributing.
 
 ### Contents
-- [Principles within bigger Design Systems ★11](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems)
-- [Articles about Design Principles ★11](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles)
-- [Other Resources ★11](https://github.com/robinstickel/awesome-design-principles#other-resources)
-- [Credits and Notes ★11](https://github.com/robinstickel/awesome-design-principles#credits-and-notes)
+- [Principles within bigger Design Systems ★27](https://github.com/robinstickel/awesome-design-principles#principles-within-bigger-design-systems)
+- [Articles about Design Principles ★27](https://github.com/robinstickel/awesome-design-principles#articles-about-design-principles)
+- [Other Resources ★27](https://github.com/robinstickel/awesome-design-principles#other-resources)
+- [Credits and Notes ★27](https://github.com/robinstickel/awesome-design-principles#credits-and-notes)
 
 ## Principles within bigger Design Systems
 
@@ -52,7 +52,7 @@ Know a resource that isn't listed below? Feel free to create a new [pull request
 - [Principles of Product Design](http://bokardo.com/principles-of-product-design/) - Long list with well explained principles by Joshua Porter
 
 ### Credits and Notes
-This list is heavily inspired by [Awesome Design Systems ★4980](https://github.com/alexpate/awesome-design-systems) by Alex Pate. As an UX designer I find myself writing design and/or experience principles quite often. I created this list for reference and to get inspiration for better design principles.
+This list is heavily inspired by [Awesome Design Systems ★5181](https://github.com/alexpate/awesome-design-systems) by Alex Pate. As an UX designer I find myself writing design and/or experience principles quite often. I created this list for reference and to get inspiration for better design principles.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/robinstickel/awesome-design-principles">robinstickel/awesome-design-principles</a> with ranks

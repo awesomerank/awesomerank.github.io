@@ -296,7 +296,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [groupcache ★5884](https://github.com/golang/groupcache) - Groupcache is a caching and cache-filling library, intended as a replacement for memcached in many cases.
 * [influxdb](https://github.com/influxdb/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 * [ledisdb ★2285](https://github.com/siddontang/ledisdb) - Ledisdb is a high performance NoSQL like Redis based on LevelDB.
-* [levigo ★315](https://github.com/jmhodges/levigo) - Levigo is a Go wrapper for LevelDB.
+* [levigo ★315 ⏳1Y](https://github.com/jmhodges/levigo) - Levigo is a Go wrapper for LevelDB.
 * [moss ★374](https://github.com/couchbase/moss) - Moss is a simple LSM key-value storage engine written in 100% Go.
 * [piladb ★141](https://github.com/fern4lvarez/piladb) - Lightweight RESTful database engine based on stack data structures.
 * [prometheus ★12470](https://github.com/prometheus/prometheus) - Monitoring system and time series database.
@@ -728,7 +728,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-nsq ★900](https://github.com/nsqio/go-nsq) - the official Go package for NSQ.
 * [go-socket.io ★1907](https://github.com/googollee/go-socket.io) - socket.io library for golang, a realtime application framework.
 * [go-vitotrol ★2](https://github.com/maxatome/go-vitotrol) - Client library to Viessmann Vitotrol web service.
-* [Gollum ★561](https://github.com/trivago/gollum) - A n:m multiplexer that gathers messages from different sources and broadcasts them to a set of destinations.
+* [Gollum ★564](https://github.com/trivago/gollum) - A n:m multiplexer that gathers messages from different sources and broadcasts them to a set of destinations.
 * [golongpoll ★350 ⏳1Y](https://github.com/jcuga/golongpoll) - HTTP longpoll server library that makes web pub-sub simple.
 * [goose ★30 ⏳2Y](https://github.com/ian-kent/goose) - Server Sent Events in Go.
 * [gopush-cluster ★1596](https://github.com/Terry-Mao/gopush-cluster) - gopush-cluster is a go push server cluster.
@@ -778,6 +778,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [gountries ★139](https://github.com/pariz/gountries) - Package that exposes country and subdivision data.
 * [hanu ★35](https://github.com/sbstjn/hanu) - Framework for writing Slack bots.
 * [health ★253](https://github.com/dimiro1/health) - Easy to use, extensible health check library.
+* [healthcheck ★14](https://github.com/etherlabsio/healthcheck) - An opinionated and concurrent health-check HTTP handler for RESTful services.
 * [hostutils ★0](https://github.com/Wing924/hostutils) - A golang library for packing and unpacking FQDNs list.
 * [indigo ★24](https://github.com/osamingo/indigo) - Distributed unique ID generator of using Sonyflake and encoded by Base58.
 * [jobs ★403](https://github.com/albrow/jobs) - Persistent and flexible background jobs library.
@@ -814,7 +815,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [icu ★14](https://github.com/goodsign/icu) - Cgo binding for icu4c C library detection and conversion functions. Guaranteed compatibility with version 50.1.
 * [libtextcat ★8 ⏳4Y](https://github.com/goodsign/libtextcat) - Cgo binding for libtextcat C library. Guaranteed compatibility with version 2.2.
 * [MMSEGO ★53 ⏳5Y](https://github.com/awsong/MMSEGO) - This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm.
-* [nlp ★293](https://github.com/Shixzie/nlp) - Extract values from strings and fill your structs with nlp.
+* [nlp ★299](https://github.com/Shixzie/nlp) - Extract values from strings and fill your structs with nlp.
 * [nlp ★66](https://github.com/james-bowman/nlp) - Go Natural Language Processing library supporting LSA (Latent Semantic Analysis).
 * [paicehusk ★19 ⏳3Y](https://github.com/rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
 * [petrovich ★0](https://github.com/striker2000/petrovich) - Petrovich is the library which inflects Russian names to given grammatical case.
@@ -838,7 +839,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [arp ★104](https://github.com/mdlayher/arp) - Package arp implements the ARP protocol, as described in RFC 826.
 * [buffstreams ★180](https://github.com/stabbycutyou/buffstreams) - Streaming protocolbuffer data over TCP made easy.
 * [canopus ★85](https://github.com/zubairhamed/canopus) - CoAP Client/Server implementation (RFC 7252).
-* [cidranger ★196](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup for Go.
+* [cidranger ★207](https://github.com/yl2chen/cidranger) - Fast IP to CIDR lookup for Go.
 * [dhcp6 ★28](https://github.com/mdlayher/dhcp6) - Package dhcp6 implements a DHCPv6 server, as described in RFC 3315.
 * [dns ★2393](https://github.com/miekg/dns) - Go library for working with DNS.
 * [ether ★45 ⏳1Y](https://github.com/songgao/ether) - Cross-platform Go package for sending and receiving ethernet frames.
@@ -894,7 +895,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [beego orm](https://github.com/astaxie/beego/tree/master/orm) - Powerful orm framework for go. Support: pq/mysql/sqlite3.
 * [go-pg ★1219](https://github.com/go-pg/pg) - PostgreSQL ORM with focus on PostgreSQL specific features and performance.
-* [go-queryset ★212](https://github.com/jirfag/go-queryset) - 100% type-safe ORM with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support based on GORM.
+* [go-queryset ★220](https://github.com/jirfag/go-queryset) - 100% type-safe ORM with code generation and MySQL, PostgreSQL, Sqlite3, SQL Server support based on GORM.
 * [go-store ★84](https://github.com/gosuri/go-store) - Simple and fast Redis backed key-value store library for Go.
 * [gomodel ★55](https://github.com/cosiner/gomodel) - Lightweight, fast, orm-like library helps interactive with database.
 * [GORM ★6954](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly.
@@ -940,7 +941,6 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [esc ★244](https://github.com/mjibson/esc) - Embeds files into Go programs and provides http.FileSystem interfaces to them.
 * [fileb0x ★178](https://github.com/UnnoTed/fileb0x) - Simple tool to embed files in go with focus on "customization" and ease to use.
-* [go-bindata ★3261](https://github.com/jteeuwen/go-bindata) - Package that converts any file into managable Go source code.
 * [go-embed ★8 ⏳1Y](https://github.com/pyros2097/go-embed) - Generates go code to embed resource files into your library or executable.
 * [go-resources ★128](https://github.com/omeid/go-resources) - Unfancy resources embedding with Go.
 * [go.rice ★1097](https://github.com/GeertJohan/go.rice) - go.rice is a Go package that makes working with resources such as html,js,css,images and templates very easy.
@@ -989,7 +989,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-yara](https://github.com/hillu/go-yara) - Go Bindings for [YARA ★53 ⏳1Y](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
 * [goSecretBoxPassword ★3](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
 * [lego ★2148](https://github.com/xenolf/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
-* [memguard ★639](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
+* [memguard ★657](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
 * [passlib ★170 ⏳1Y](https://github.com/hlandau/passlib) - Futureproof password hashing library.
 * [secure ★789](https://github.com/unrolled/secure) - HTTP middleware for Go that facilitates some quick security wins.
 * [simple-scrypt ★119](https://github.com/elithrar/simple-scrypt) - Scrypt package with a simple, obvious API and automatic cost calibration built-in.
@@ -1143,6 +1143,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
     * [parseargs-go](https://github.com/nproc/parseargs-go) - string argument parser that understands quotes and backslashes.
     * [parth ★15](https://github.com/codemodus/parth) - URL path segmentation parsing.
     * [radix ★23](https://github.com/yourbasic/radix) - fast string sorting algorithm.
+    * [xj2go ★4](https://github.com/stackerzzq/xj2go) - Convert xml or json to go struct.
     * [xurls ★301](https://github.com/mvdan/xurls) - Extract urls from text.
 
 ## Third-party APIs
@@ -1237,6 +1238,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [delve ★6634](https://github.com/derekparker/delve) - Go debugger.
 * [dlog ★8](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
 * [ergo ★93](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
+* [evaluator ★5](https://github.com/nullne/evaluator) - Evaluate an expression dynamicly based on s-expression. It's simple and easy to extend. 
 * [excelize ★1550](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 * [fastlz ★6 ⏳2Y](https://github.com/digitalcrab/fastlz) - Wrap over [FastLz](http://fastlz.org/) (free, open-source, portable real-time compression library) for GoLang.
 * [filetype ★198](https://github.com/h2non/filetype) - Small package to infer the file type checking the magic numbers signature.

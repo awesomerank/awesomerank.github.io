@@ -749,7 +749,7 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [White-Oak/qml-rust ★117](https://github.com/White-Oak/qml-rust) — QML bindings. [<img src="https://api.travis-ci.org/White-Oak/qml-rust.svg?branch=master">](https://travis-ci.org/White-Oak/qml-rust)
 * [saurvs/nfd-rs](https://github.com/saurvs/nfd-rs) — [nativefiledialog ★466](https://github.com/mlabbe/nativefiledialog) bindings
 * [Sciter](https://sciter.com/)
-  * [sciter-sdk/rust-sciter ★106](https://github.com/sciter-sdk/rust-sciter) — Sciter bindings [<img src="https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true">](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
+  * [sciter-sdk/rust-sciter ★108](https://github.com/sciter-sdk/rust-sciter) — Sciter bindings [<img src="https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true">](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
 * [Termbox ★1135](https://github.com/nsf/termbox)
   * [gchp/rustbox ★294](https://github.com/gchp/rustbox) — a Rust implementation of Termbox [<img src="https://api.travis-ci.org/gchp/rustbox.svg?branch=master">](https://travis-ci.org/gchp/rustbox)
   * [ticki/termion ★561](https://github.com/ticki/termion) — A bindless library for controlling terminals/TTY - provides a full-featured alternative to Termbox [<img src="https://api.travis-ci.org/ticki/termion.svg?branch=master">](https://travis-ci.org/ticki/termion)
@@ -847,7 +847,7 @@ See also [About Rust’s Machine Learning Community](https://medium.com/@autumn_
 ### Platform specific
 
 * Linux
-  * [inotify-rs/inotify ★59](https://github.com/inotify-rs/inotify) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [<img src="https://api.travis-ci.org/inotify-rs/inotify.svg?branch=master">](https://travis-ci.org/inotify-rs/inotify)
+  * [inotify-rs/inotify ★65](https://github.com/inotify-rs/inotify) — [inotify](https://en.wikipedia.org/wiki/Inotify) bindings [<img src="https://api.travis-ci.org/inotify-rs/inotify.svg?branch=master">](https://travis-ci.org/inotify-rs/inotify)
   * [yaa110/rust-iptables ★10](https://github.com/yaa110/rust-iptables) — [iptables](https://www.netfilter.org/projects/iptables/index.html) bindings [<img src="https://api.travis-ci.org/yaa110/rust-iptables.svg?branch=master">](https://travis-ci.org/yaa110/rust-iptables)
 * Unix-like
   * [nix-rust/nix ★547](https://github.com/nix-rust/nix) — Unix-like API bindings [<img src="https://api.travis-ci.org/nix-rust/nix.svg?branch=master">](https://travis-ci.org/nix-rust/nix)

@@ -345,7 +345,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [**vue-zhihu-daily** ★1102](https://github.com/hilongjw/vue-zhihu-daily) by [hilongjw](https://github.com/hilongjw)
   - [jwt-example ★28 ⏳1Y](https://github.com/PetervMeijgaard/jwt-example) by [@petervmeijgaard](https://github.com/petervmeijgaard)
   - [**VueChess** ★137](https://github.com/gustaYo/vue-chess) -Multiplayer online chess game  by [gustaYo](https://github.com/gustaYo)
-  - [Ngexplorer-vuejs-client](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer ★2](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)
+  - [Ngexplorer-vuejs-client](https://github.com/gustaYo/ngexplorer-vuejs-client) -Vue client for [Ngexplorer ★2 ⏳1Y](https://github.com/gustaYo/ngexplorer-MEAN)   by [gustaYo](https://github.com/gustaYo)
   - [Vue 2048 (Vue + Webpack)](https://pengfu.github.io/vue-2048/) by [@pengfu](https://github.com/pengfu): Popular 2048-Game implemented using Vue,Webpack,Sass,ES6
   - [Vue Simple PWA ★126](https://github.com/BosNaufal/vue-simple-pwa) by [BosNaufal](https://github.com/BosNaufal)
   - [Tour of Heroes (Vue 2.0)](https://github.com/aweber1/tour-of-heroes-vue2): A Vue 2.0 port of the Angular 2.0 [Tour of Heroes](https://angular.io/docs/ts/latest/tutorial/) demo app. Highlights: ES6/7, render functions, JSX, [revue](https://github.com/revue/revue) (redux bindings for Vue), [vue-router ★7269](https://github.com/vuejs/vue-router), [Airbnb eslint](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb-base), webpack. by [@aweber1](https://github.com/aweber1)
@@ -698,7 +698,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
  - [vue-easytable ★325](https://github.com/huangshuwei/vue-easytable) - A powerful table components based on Vue2.x
  - [vue2-datatable-component ★104](https://github.com/OneWayTech/vue2-datatable) - The best Datatable for Vue.js 2.x which never sucks
  - [vue-js-grid ★151](https://github.com/euvl/vue-js-grid) - Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering
- - [vue-handsontable-official ★65](https://github.com/handsontable/vue-handsontable-official) A Vue.js wrapper for the the Handsontable spreadsheet component
+ - [vue-handsontable-official ★93](https://github.com/handsontable/vue-handsontable-official) A Vue.js wrapper for the the Handsontable spreadsheet component
 
 ### Notification
 
@@ -783,7 +783,7 @@ Tooltips / popovers
  - [vue-awesome ★825](https://github.com/Justineo/vue-awesome) - Font Awesome component for Vue.js, using inline SVG.
  - [vue-material-design-icons](https://gitlab.com/robcresswell/vue-material-design-icons "vue-material-design-icons on GitLab") - A collection of SVG Material Design icons as single file components.
  - [vue-icon-font ★4](https://github.com/ganl/vue-icon-font) - A iconfont plugin for Vuejs (support Font-class and Symbol).
- - [vue-ionicons ★2](https://github.com/mazipan/vue-ionicons) - Vue Icon Set Components from Ionic Team.
+ - [vue-ionicons ★4](https://github.com/mazipan/vue-ionicons) - Vue Icon Set Components from Ionic Team.
  - [vue-ico ★2](https://github.com/paulcollett/vue-ico) - Dead easy icons for Vue with drop-in browser support & selective bundling
 
 ### Menu
@@ -900,6 +900,7 @@ Tooltips / popovers
 ### Social Sharing
 
  - [vue-social-sharing ★237](https://github.com/nicolasbeauvais/vue-social-sharing) - A Vue.js component for sharing links to social networks, work with Vue.js 1.X or 2.X.
+ - [vue-goodshare ★22](https://github.com/koddr/vue-goodshare) - Vue.js component for social share with beautiful button design. Simple install, extensive documentation, developer support, SEO friendly, clean code without scripts tracking user activity on the page, high speed. Work with Vue.js 2.x.
 
 ### QR Code
 
@@ -963,7 +964,7 @@ Tooltips / popovers
 #### Picker
 
  - [vue-smooth-picker ★39](https://github.com/hiyali/vue-smooth-picker) - A smooth picker component for Vue 2.x, like iOS native datetime picker.
- 
+
 #### Generator
 
  - [vue-json-schema ★39](https://github.com/demsking/vue-json-schema) - Generate a form using JSON Schema and Vue.js
@@ -1106,7 +1107,7 @@ Tooltips / popovers
  - [vuetify-google-autocomplete ★12](https://github.com/MadimetjaShika/vuetify-google-autocomplete) - A Vuetify ready Vue.js (2.x) autosuggest component for the Google Maps Places API.
  - [vue-ripple-directive ★91](https://github.com/PygmySlowLoris/vue-ripple-directive) - Material Ripple Effect as Vue Directive.
  - [vue-fab ★43](https://github.com/PygmySlowLoris/vue-fab) - Vue Floating Action Button.
- - [vue-complexify ★2](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js.
+ - [vue-complexify ★4](https://github.com/mazipan/vue-complexify) - Vuejs porting library from jquery.complexify.js.
  - [vue-mc ★56](https://github.com/FiguredLimited/vue-mc) - Models and Collections for Vue.js
  - [vue-stars](https://www.tallent.us/vue-stars/) - Highly customizable rating control (using stars or other characters)
 
@@ -1165,7 +1166,7 @@ Tooltips / popovers
  - [bootstrap-vue](https://bootstrap-vue.github.io) - Implementation of [bootstrap-4](https://v4-alpha.getbootstrap.com/) grid and components for Vue.js 2.
  - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
  - [Zircle UI](https://zircleui.github.io/zircleUI/) - A circular zooming UI library based on Vue.js 2.
-
+ 
 ### Mobile
 
 *UI frameworks for mobile*
@@ -1198,6 +1199,7 @@ Tooltips / popovers
 
  - [mint-ui ★7987](https://github.com/ElemeFE/mint-ui) - Mobile UI elements for Vue.js.
  - [vant ★999](https://github.com/youzan/vant) - A Vue.js 2.0 Mobile UI From YouZan.
+ - [cube-ui](https://didi.github.io/cube-ui) - A fantastic mobile ui lib implement by Vue.js 2.
 
 ### Admin Template
 
@@ -1300,6 +1302,7 @@ Tooltips / popovers
 
  - [vue-router ★7269](https://github.com/vuejs/vue-router) - The official router for Vue.js.
  - [vue-router-storage ★28](https://github.com/ElderJames/vue-router-storage) - Router storage & resolve solution for Vue.js 2 & vue-router 2
+ - [vue-tidyroutes ★3](https://github.com/edgarnadal/vue-tidyroutes) - Decentralized vue-router routes definitions
 
 ### Lazy Load
 
@@ -1328,6 +1331,7 @@ Tooltips / popovers
  - [vue-lottie ★79](https://github.com/chenqingspring/vue-lottie) - A Vue.js 2.x plugin to render after effects animations based on bodymovin
  - [Vueg ★362](https://github.com/jaweii/vueg) - Make vue-router have a transition effect / 为 webApp 提供转场特效的开源 Vue 插件
  - [v-animate-css](https://jofftiquez.github.io/v-animate-css/) - The easiest to implement Vue 2 directive for Animate.css
+ - [vue-mixin-tween ★0](https://github.com/lukechinworth/vue-mixin-tween) - Mixin factory that adds tweened values to component context for animations
 
 ### Meta Tags
 

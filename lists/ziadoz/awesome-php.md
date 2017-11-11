@@ -112,7 +112,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Dependency Management Extras
 *Extras related to dependency management.*
 
-* [Composed ★26](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
+* [Composed ★26 ⏳1Y](https://github.com/joshdifabio/composed) - A library to parse your project's Composer environment at runtime.
 * [Composer Checker ★12 ⏳3Y](https://github.com/silpion/composer-checker) - A tool to validate Composer configurations.
 * [Composer Merge Plugin ★311](https://github.com/wikimedia/composer-merge-plugin) - A composer plugin to merge several composer.json files.
 * [Composition ★102 ⏳1Y](https://github.com/bamarni/composition) - A library to check your Composer environment at runtime.
@@ -244,7 +244,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 * [CssToInlineStyles ★951 ⏳1Y](https://github.com/tijsverkoyen/CssToInlineStyles) - A library to inline CSS in email templates.
 * [Email Reply Parser ★443](https://github.com/willdurand/EmailReplyParser) - An email reply parser library.
-* [Email Validator ★84](https://github.com/nojacko/email-validator) - A small email address validation library.
+* [Email Validator ★84 ⏳1Y](https://github.com/nojacko/email-validator) - A small email address validation library.
 * [Fetch ★441](https://github.com/tedious/Fetch) - An IMAP library.
 * [Mautic ★1934](https://github.com/mautic/mautic) - Email marketing automation
 * [PHPMailer ★9726](https://github.com/PHPMailer/PHPMailer) - Another mailer solution.
@@ -383,7 +383,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Athletic ★310 ⏳1Y](https://github.com/polyfractal/athletic) - An annotation based benchmark framework.
 * [Better Reflection ★423](https://github.com/Roave/BetterReflection) - AST-based reflection library that allows analysis and manipulation of code
 * [Code Climate](https://codeclimate.com) - An automated code review.
-* [Dissect ★181](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
+* [Dissect ★181 ⏳1Y](https://github.com/jakubledl/dissect) - A set of tools for lexical and syntactical analysis.
 * [Exakat ★84](https://github.com/exakat/exakat) - A static analysis engine for PHP.
 * [GrumPHP ★1919](https://github.com/phpro/grumphp) - A composer plugin to defend code quality.
 * [Mondrian ★335 ⏳2Y](https://github.com/Trismegiste/Mondrian) - A code analysis tool using Graph Theory.
@@ -638,7 +638,7 @@ Libraries to help manage database schemas and migrations.
 * [Ciconia ★377 ⏳1Y](https://github.com/kzykhys/Ciconia) - Another Markdown parser that supports Github flavoured Markdown.
 * [CommonMark PHP ★868](https://github.com/thephpleague/commonmark) - A Markdown parser which supports the full [CommonMark spec](http://spec.commonmark.org/).
 * [Decoda ★167](https://github.com/milesj/decoda) - A lightweight markup parser library.
-* [Emoji ★32](https://github.com/heyupdate/Emoji) - A library that converts unicode characters and names into emoji images.
+* [Emoji ★32 ⏳1Y](https://github.com/heyupdate/Emoji) - A library that converts unicode characters and names into emoji images.
 * [HTML to Markdown ★637](https://github.com/thephpleague/html-to-markdown) - Converts HTML into Markdown.
 * [HTML5 PHP ★446](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer library.
 * [Parsedown ★4690](https://github.com/erusev/parsedown) - Another Markdown parser.

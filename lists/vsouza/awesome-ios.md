@@ -222,7 +222,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 
 ## ARKit
 * [ARKit-CoreLocation ★2826](https://github.com/ProjectDent/ARKit-CoreLocation) -Combines the high accuracy of AR with the scale of GPS data. :large_orange_diamond:
-* [Virtual Objects ★109](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
+* [Virtual Objects ★134](https://github.com/ignacio-chiazzo/ARKit) - Placing Virtual Objects in Augmented Reality.
 * [ARVideoKit ★17](https://github.com/AFathi/ARVideoKit) - Record and capture ARKit videos 📹, photos 🌄, Live Photos 🎇, and GIFs 🎆. :large_orange_diamond:
 
 ## Authentication
@@ -406,6 +406,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [DATAStack ★163](https://github.com/3lvis/DATAStack) - 100% Swift Simple Boilerplate Free Core Data Stack. NSPersistentContainer. :large_orange_diamond:
 * [JustPersist ★92](https://github.com/justeat/JustPersist) - JustPersist is the easiest and safest way to do persistence on iOS with Core Data support out of the box.
 * [PrediKit ★472](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS, macOS, tvOS, & watchOS. Inspired by SnapKit and lovingly written in Swift. :large_orange_diamond:
+* [Records ★7](https://github.com/rob-nash/Records) - https://github.com/rob-nash/Records :large_orange_diamond:
 
 ## Database
 * [Realm ★11355](https://github.com/realm/realm-cocoa) - The alternative to CoreData and SQLite: Simple, modern and fast.
@@ -565,6 +566,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Bleu ★436](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U  :large_orange_diamond:
 * [Bluejay ★592](https://github.com/steamclock/bluejay) - A simple Swift framework for building reliable Bluetooth LE apps. :large_orange_diamond:
 * [BabyBluetooth ★3178](https://github.com/coolnameismy/BabyBluetooth) - The easiest way to use Bluetooth (BLE) in iOS/MacOS.
+* [ExtendaBLE ★48](https://github.com/AntonTheDev/ExtendaBLE) - Simple Blocks-Based BLE Client for iOS/tvOS/watchOS/OSX/Android. Quickly configuration for centrals/peripherals, perform packet based read/write operations, and callbacks for characteristic updates.
 
 #### Camera
 * [TGCameraViewController ★1394](https://github.com/tdginternet/TGCameraViewController) - Custom camera with AVFoundation. Beautiful, light and easy to integrate with iOS projects.
@@ -708,7 +710,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [XLFacility ★262](https://github.com/swisspol/XLFacility) - Elegant and extensive logging facility for macOS & iOS (includes database, Telnet and HTTP servers)
 * [Atlantis ★200](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability. :large_orange_diamond:
 * [StoryTeller ★8](https://github.com/drekka/StoryTeller) - Taking a completely different approach to logging, Story Teller replacing fixed logging levels in It then uses dynamic expressions to control the logging so you only see what is important.
-* [LumberMill ★3](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging for iOS 10 and Swift 3.0
+* [LumberMill ★3 ⏳1Y](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging for iOS 10 and Swift 3.0
 * [TinyConsole ★1721](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app. Written in Swift 3. :large_orange_diamond:
 * [Lighty ★37](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux with Swift 3. :large_orange_diamond:
 * [JustLog ★185](https://github.com/justeat/JustLog) - Console, file and remote Logstash logging via TCP socket. :large_orange_diamond:
@@ -874,6 +876,8 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [InitialsImageView ★80](https://github.com/bachonk/InitialsImageView) - An UIImageView extension that generates letter initials as a placeholder for user profile images, with a randomized background color. :large_orange_diamond:
 * [DTPhotoViewerController ★66](https://github.com/tungvoduc/DTPhotoViewerController) - A fully customizable photo viewer ViewController, inspired by Facebook photo viewer. :large_orange_diamond:
 * [LetterAvatarKit ★38](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars written in Swift. :large_orange_diamond:
+* [AXPhotoViewer ★217](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos :large_orange_diamond:
+* [TJProfileImage ★27](https://github.com/tejas-ardeshna/TJProfileImage) - Live rendering of componet’s properties in Interface Builder. :large_orange_diamond:
 
 #### Media Processing
 * [SwiftOCR ★2772](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift :large_orange_diamond:
@@ -1696,6 +1700,7 @@ Most of these are paid services, some have free tiers.
 * [BPBlockActivityIndicator ★23](https://github.com/ppth0608/BPBlockActivityIndicator) - A simple and awesome Loading Activity Indicator(with funny block animation) for your iOS app. :large_orange_diamond:
 * [JustHUD ★11](https://github.com/shubh10/JustHUD) - JustHUD is an iOS drop-in class written in Swift that displays a translucent HUD. :large_orange_diamond:
 * [JDBreaksLoading ★120](https://github.com/jamesdouble/JDBreaksLoading) - You can easily start up a little breaking game indicator by one line. :large_orange_diamond:
+* [SkeletonView ★617](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting. :large_orange_diamond:
 
 #### Animation
 * [Pop ★18217](https://github.com/facebook/pop) - An extensible iOS and macOS animation library, useful for physics-based interactions.
@@ -1707,7 +1712,7 @@ Most of these are paid services, some have free tiers.
 * [Canvas ★5235 ⏳2Y](https://github.com/CanvasPod/Canvas) - Animate in Xcode without code http://canvaspod.io
 * [Fluent ★303](https://github.com/matthewcheok/Fluent) - Swift animation made easy :large_orange_diamond:
 * [Cheetah ★558 ⏳1Y](https://github.com/suguru/Cheetah) - Easy animation library on iOS with Swift2. :large_orange_diamond:
-* [RadialLayer ★52 ⏳1Y](https://github.com/soheil/RadialLayer) - Animation for clickable elements (similar to Youtube Music). :large_orange_diamond:
+* [RadialLayer ★52 ⏳2Y](https://github.com/soheil/RadialLayer) - Animation for clickable elements (similar to Youtube Music). :large_orange_diamond:
 * [Pop By Example ★177 ⏳2Y](https://github.com/hossamghareeb/Facebook-POP-Tutorial) - A project tutorial in how to use Pop animation framework by example.
 * [AppAnimations](http://www.appanimations.com) - Collection of iOS animations to inspire your next project
 * [EasyAnimation ★2474](https://github.com/icanzilb/EasyAnimation) - A Swift library to take the power of UIView.animateWithDuration() to a whole new level - layers, springs, chain-able animations, and mixing view/layer animations together. :large_orange_diamond:
@@ -1883,7 +1888,7 @@ Most of these are paid services, some have free tiers.
 * [MultiToggleButton ★26](https://github.com/yonat/MultiToggleButton) - A UIButton subclass that implements tap-to-toggle button text (Like the camera flash and timer buttons). :large_orange_diamond:
 * [PMSuperButton ★364](https://github.com/Codeido/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard! 🔶
 * [JSButton ★0](https://github.com/imjog/JSButton) - A fully customisable swift subclass on UIButton which allows you to create beautiful buttons without writing any line of code. 🔶
-* [TransitionButton ★322](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation :large_orange_diamond:
+* [TransitionButton ★348](https://github.com/AladinWay/TransitionButton) - UIButton sublass for loading and transition animation :large_orange_diamond:
 * [ButtonProgressBar-iOS ★228](https://github.com/thePsguy/ButtonProgressBar-iOS) - A small and flexible UIButton subclass with animated loading progress, and completion animation. :large_orange_diamond:
 
 #### Calendar
@@ -2034,6 +2039,7 @@ Most of these are paid services, some have free tiers.
 * [AIDatePickerController ★83](https://github.com/alikaragoz/AIDatePickerController) - :date: UIDatePicker modally presented with iOS 7 custom transitions.
 * [CountryPicker ★56](https://github.com/4taras4/CountryCode) - :date: UIPickerView with Country names flags and phoneCodes 🔶
 * [McPicker ★34](https://github.com/kmcgill88/McPicker-iOS) - A customizable, closure driven UIPickerView drop-in solution with animations that is rotation ready. :large_orange_diamond:
+* [Mandoline ★480](https://github.com/blueapron/Mandoline) - An iOS picker view to serve all your "picking" needs :large_orange_diamond:
 
 #### Popup
 * [PopupKit](https://github.com/rynecheow/PopupKit) - A simple and flexible class for presenting custom views as a popup in iOS and tvOS, maintained from [KLCPopup ★1655](https://github.com/jmascia/KLCPopup).
@@ -2246,7 +2252,7 @@ Most of these are paid services, some have free tiers.
 * [PJFDataSource ★81](https://github.com/square/PJFDataSource) - PJFDataSource is a small library that provides a simple, clean architecture for your app to manage its data sources while providing a consistent user interface for common content states (i.e. loading, loaded, empty, and error).
 * [HGPlaceholders ★874](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any UITableView/UICollectionView in your project 🔶
 * [CollapsibleTableSectionViewController ★46](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A swift library to support collapsible sections in a table view. :large_orange_diamond:
-* [CollapsibleTable ★20](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views. 🔶
+* [CollapsibleTable ★25](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views. 🔶
 * [ExpandableCell ★171](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Awesome expandable, collapsible tableview cell for iOS written in Swift 3 🔶
 * [DataSources ★315](https://github.com/muukii/DataSources) - Type-safe data-driven List-UI Framework. (We can also use ASCollectionNode) 🔶
 * [KDDragAndDropCollectionView ★247](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging & Dropping data across multiple UICollectionViews. 🔶
@@ -2520,7 +2526,7 @@ Most of these are paid services, some have free tiers.
 * [Struct](https://www.get-struct.tools) - A tool for iOS and Mac developers to automate the creation and management of Xcode projects.
 * [Nori ★285](https://github.com/yukiasai/Nori) - Easier to apply code based style guide to storyboard. :large_orange_diamond:
 * [DBDebugToolkit ★563](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
-* [Attabench ★573](https://github.com/attaswift/Attabench) - Microbenchmarking app for Swift with nice log-log plots :large_orange_diamond:
+* [Attabench ★582](https://github.com/attaswift/Attabench) - Microbenchmarking app for Swift with nice log-log plots :large_orange_diamond:
 * [Gluten ★7](https://github.com/wilbertliu/Gluten) - Nano library to unify XIB and it's code. :large_orange_diamond:
 * [LicensePlist ★971](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications. :large_orange_diamond:
 * [Swizzlean ★80](https://github.com/rbaumbach/Swizzlean) - An Objective-C Swizzle Helper Class
@@ -2670,7 +2676,7 @@ Most of these are paid services, some have free tiers.
 * [Swift Cheat Sheet ★688](https://github.com/iwasrobbed/Swift-CheatSheet) - A quick reference cheat sheet for common, high level topics in Swift. :large_orange_diamond:
 * [Objective-C Cheat Sheet ★942](https://github.com/iwasrobbed/Objective-C-CheatSheet) - A quick reference cheat sheet for common, high level topics in Objective-C.
 * [SwiftSnippets ★99](https://github.com/hyperoslo/SwiftSnippets) - A collection of Swift snippets to be used in Xcode
-* [App Store Checklist ★16](https://github.com/whitef0x0/app-store-checklist) - A checklist of what to look for before submitting your app to the App Store.
+* [App Store Checklist ★16 ⏳1Y](https://github.com/whitef0x0/app-store-checklist) - A checklist of what to look for before submitting your app to the App Store.
 * [whats-new-in-swift-4 ★1759](https://github.com/ole/whats-new-in-swift-4) - An Xcode playground showcasing the new features in Swift 4.0. :large_orange_diamond:
 * [WWDC17-Recap ★93](https://github.com/erenkabakci/WWDC17-Recap) - Markdown collection repo for the sessions at WWDC17.
 
@@ -2843,7 +2849,7 @@ Other amazingly awesome lists can be found in the
 * [awesome-interview-questions ★16419](https://github.com/MaximAbramchuck/awesome-interview-questions#ios) - A curated awesome list of lists of interview questions including iOS.
 * [Awesome-iOS-Companies](https://ioscompanies.info/about/welcome) - A curated geographical directory of companies doing iOS development.
 * [iOS-Playbook ★70](https://github.com/bakkenbaeck/iOS-handbook) - Guidelines and best practices for excellent iOS apps
-* [iOS-Learning-Materials ★53](https://github.com/jVirus/iOS-Learning-Materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
+* [iOS-Learning-Materials ★59](https://github.com/jVirus/iOS-Learning-Materials) - Curated list of articles, web-resources, tutorials and code repositories that may help you dig a little bit deeper into iOS.
 * [Awesome-iOS-Twitter ★150](https://github.com/carolanitz/Awesome-iOS-Twitter) - A curated list of awesome iOS Twitter accounts
 * [Marketing for Engineers ★3938](https://github.com/LisaDziuba/Marketing-for-Engineers) - A curated collection of marketing articles & tools to grow your product.
 * [Awesome-ARKit ★3068](https://github.com/olucurious/Awesome-ARKit) - A curated list of awesome ARKit projects and resources.

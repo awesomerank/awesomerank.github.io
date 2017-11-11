@@ -96,6 +96,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Archive of related files](http://gbdev.gg8.se/files/)
 - [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) - Page with loads of information on the actual hardware, custom boards to interface with the console and other related projects.
 - [Gameboy 2BPP Graphics Format](http://www.huderlem.com/demos/gameboy2bpp.html) - Information on how the Gameboy interprets VRAM tile data to color pixels.
+- [Game Boy Crib Sheet](http://gbdev.gg8.se/files/docs/GBCribSheet000129.pdf) - A handy printable reference sheet with ASM opcodes, memory locations, and much more.
 
 ### Peripherals
 - [Game Boy Camera RE ★20 ⏳2Y](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino UNO.
@@ -194,6 +195,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [GB-convert ★5](https://github.com/exezin/gb-convert) - Gameboy tile conversion and map editor tool (converts to assembly).
 - [cart-dumper ★3](https://github.com/Palmr/cart-dumper) - Gameboy Cartridge Dumper ROM.
 - [Game Boy LCD sniffing ★87](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
+- [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
 
 ## Programming Tutorials
 ### ASM
@@ -275,7 +277,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [loderunner](http://www.tensi.eu/thomas/programming/gameboy/loderunner.html)
 - [Hives](https://refreshgames.co.uk/2017/04/24/ludum-dare-38-entry-hives/)
 - [Bubble Factory ★6](https://github.com/DonaldHays/bubblefactory)
-- [GBC Atari Boxing ★0](https://github.com/rubfi/gbc-atari-boxing) - Atari 2600 Boxing clone for the Game Boy (Color).
+- [GBC Atari Boxing ★2](https://github.com/rubfi/gbc-atari-boxing) - Atari 2600 Boxing clone for the Game Boy (Color).
 - [GB raycaster, Vision-8](https://github.com/haroldo-ok/really-old-stuff/tree/master/gameboy) and some other projects
 
 ## ROMs Disassembly

@@ -488,7 +488,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Subrion](http://www.subrion.org) - Subrion is a free open source content management system that allows you to build websites for any purpose. Yes, from blog to corporate mega portal. ([Demo](http://demos.subrion.com), [Source Code ★149](https://github.com/intelliants/subrion)) `GPLv3` `PHP`
   * [Textpattern](http://textpattern.com/) - A flexible, elegant and easy-to-use CMS. ([Demo](http://textpattern.co/demo), [Source Code ★271](https://github.com/textpattern/textpattern)) `GPLv2` `PHP`
   * [TYPO3](https://typo3.org/) - A powerful and advanced CMS with a large community. ([Source Code ★497](https://github.com/TYPO3/TYPO3.CMS)) `GPLv2` `PHP`
-  * [Umbraco](https://umbraco.com/) - The friendly CMS. Free and open source with an amazing community. ([Source Code ★1772](https://github.com/umbraco/Umbraco-CMS)) `MIT` `.NET`
+  * [Umbraco](https://umbraco.com/) - The friendly CMS. Free and open source with an amazing community. ([Source Code ★1797](https://github.com/umbraco/Umbraco-CMS)) `MIT` `.NET`
   * [WonderCMS](http://www.wondercms.com) - WonderCMS is the smallest flat file CMS since 2008. ([Demo](https://www.wondercms.com/demo), [Source Code ★76](https://github.com/robiso/wondercms)) `MIT` `PHP`
   * [WordPress](https://wordpress.org/) - The worlds most-used blogging and CMS engine. ([Source Code ★10036](https://github.com/WordPress/WordPress)) `GPLv2` `PHP`
 
@@ -796,7 +796,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
 
   * [CyTube ★596](https://github.com/calzoneman/sync) - CyTube is a web application providing media synchronization, chat, and more for an arbitrary number of channels. ([Demo](http://cytu.be)) `MIT` `Nodejs`
   * [Emby](http://emby.media/) - A home media server built using other popular open source technologies. ([Source Code ★1468](https://github.com/MediaBrowser/Emby)) `GPLv2` `C#`
-  * [Flumotion](http://flumotion.net/) - A streaming media server with intuitive graphical administration tools. ([Source Code ★13 ⏳1Y](https://github.com/Flumotion/flumotion)) `LGPLv2` `Python`
+  * [Flumotion](http://flumotion.net/) - A streaming media server with intuitive graphical administration tools. ([Source Code ★13 ⏳2Y](https://github.com/Flumotion/flumotion)) `LGPLv2` `Python`
   * [Hellowlol HTPC Manager fork](https://github.com/Hellowlol/HTPC-Manager) - A fully responsive interface to manage all your favorite media on your HTPC. ([Source Code ★480](https://github.com/styxit/HTPC-Manager)) `MIT` `Python`
   * [Icecast 2](http://www.icecast.org/) - streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. ([Source Code](https://git.xiph.org/?p=icecast-server.git;a=summary)) `GPLv2` `C`
   * [MistServer](http://mistserver.org/) - A streaming media server that works well in any streaming environment. ([Source Code ★134](https://github.com/DDVTECH/mistserver)) `AGPLv3` `C++`

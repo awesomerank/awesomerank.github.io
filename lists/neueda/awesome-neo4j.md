@@ -147,7 +147,7 @@ Neo4j graph database.
 # Import
 
 - [GraphAware Neo4j Importer ★15](https://github.com/graphaware/neo4j-importer) - Java importer skeleton for complicated, business-logic-heavy high-performance Neo4j imports directly from SQL databases, CSV files, etc.
-- [neo4j-csv-firehose ★7 ⏳1Y](https://github.com/sarmbruster/neo4j-csv-firehose) - Enables Neo4j’s `LOAD CSV` Cypher command to load from other datasources as well.
+- [neo4j-csv-firehose ★7 ⏳2Y](https://github.com/sarmbruster/neo4j-csv-firehose) - Enables Neo4j’s `LOAD CSV` Cypher command to load from other datasources as well.
 - [neo4j-rdbms-import ★26 ⏳1Y](https://github.com/jexp/neo4j-rdbms-import) - An automatic importer for relational databases into Neo4j.
 - [Doc manager for Neo4j ★63 ⏳1Y](https://github.com/neo4j-contrib/neo4j_doc_manager) - The Neo4j Doc Manager takes MongoDB documents and makes it easy to query them for relationships by making them available in a Neo4j graph structure, following the format specified by Mongo Connector.
 

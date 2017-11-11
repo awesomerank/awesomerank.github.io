@@ -123,7 +123,7 @@ An "awesome" list of the Ionic resources
 
 #### Open Source Projects
 * [Ionic Conference App](https://github.com/driftyco/ionic-conference-app)
-* [IonicRealty ★270](https://github.com/ccoenraets/ionic2-realty)
+* [IonicRealty ★270 ⏳1Y](https://github.com/ccoenraets/ionic2-realty)
 * [Ionic Firebase Chat App ★32](https://github.com/ionic2blueprints/firebase-chat)
 * [Ionic Ecommerce App ★20 ⏳1Y](https://github.com/ionic2blueprints/ionic2-marketcloud)
 * [Ionic Conference App based on Lanyrd API ★6 ⏳1Y](https://github.com/ionic2blueprints/conference-app)

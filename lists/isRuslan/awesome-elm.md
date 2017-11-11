@@ -57,7 +57,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Gipher ★216 ⏳1Y](https://github.com/matthieu-beteille/gipher) - A Tinder-like application for gifs built with elm and firebase!
 * [Elm Architecture in Android ★48 ⏳1Y](https://github.com/glung/elm-architecture-android) - An example Android application implemented with the Elm Architecture using the Kotlin programming language and Anko library.
 * [Collection of examples ★137](https://github.com/halfzebra/elm-examples) - A collection of examples with advanced techniques for real-world Elm apps.
-* [Elm Flatris ★257](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
+* [Elm Flatris ★257 ⏳1Y](https://github.com/w0rm/elm-flatris) - A Flatris clone in Elm language v0.18.
 * [Elm + Phoenix + Webpack ★35](https://github.com/ronanyeah/elm-phoenix-example) - A minimal Elm + Phoenix setup, using webpack instead of Brunch.
 * [Elm SPA Example](http://rtfeldman.github.io/elm-spa-example/) - Full stack Elm app w/ CRUD operations, Auth, routing, pagination and more. [Code ★1261](https://github.com/rtfeldman/elm-spa-example) / [Article](https://dev.to/rtfeldman/tour-of-an-open-source-elm-spa)
 * [Spotify Mapper ★36](https://github.com/FidelisClayton/elm-spotify-mapper) - Elm app integrated with Spotify Api to search and explore new artists.

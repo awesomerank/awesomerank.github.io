@@ -208,7 +208,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 ## Style Guide Generators :slot_machine:
 
 - [Hologram ★2102](https://github.com/trulia/hologram)
-- [mdcss ★625](https://github.com/jonathantneal/mdcss)
+- [mdcss ★625 ⏳1Y](https://github.com/jonathantneal/mdcss)
 - [Source](https://sourcejs.com/)
 - [styledoc ★4 ⏳5Y](https://github.com/Joony/styledoc)
 - [styledocco ★1082 ⏳2Y](https://github.com/jacobrask/styledocco)

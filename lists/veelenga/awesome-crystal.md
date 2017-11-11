@@ -207,14 +207,14 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [exercism-crystal ★34](https://github.com/exercism/crystal) - Exercism exercises
  * [jihantoro-cr-mysql ★0](https://github.com/codenoid/jihantoro-cr-mysql) - Crystal MySQL from scratch sample app
  * [jihantoro.sd ★0](https://github.com/codenoid/jihantoro.sd) - Crystal & Kemal version of Serdar Dogruyol blog
- * [kemal-chat ★34](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
+ * [kemal-chat ★34 ⏳1Y](https://github.com/sdogruyol/kemal-chat) - Build realtime applications with Kemal and WebSocket
  * [kemal-heroku-example ★2](https://github.com/cagataycali/kemal-heroku-example) - This repository shows, how you can publish your open source apps which powered kemal framework publish as heroku app in seconds
  * [kemal-mysql-blog ★1](https://github.com/codenoid/kemal-mysql-blog) - Blog written with Crystal, Kemal and MySQL
  * [kemal-react-chat ★53 ⏳1Y](https://github.com/f/kemal-react-chat) - Build Realtime Web applications with Kemal and React
  * [lattice-core-card-game ★138](https://github.com/jasonl99/card_game) - A demo web app for (WebSocket-based) lattice-core
  * [medley ★8 ⏳1Y](https://github.com/jwoertink/medley) - A mixture of music related methods
  * [os-crystal ★32 ⏳1Y](https://github.com/lbguilherme/os-crystal) - x86 Kernel implemented in Crystal
- * [realtime-todo-app ★12](https://github.com/Angarsk8/realtime-todo-app) - Realtime Todo application developed with Kemal, Websockets, React, ES2015 and PostgreSQL
+ * [realtime-todo-app ★12 ⏳1Y](https://github.com/Angarsk8/realtime-todo-app) - Realtime Todo application developed with Kemal, Websockets, React, ES2015 and PostgreSQL
  * [rocky ★77](https://github.com/codingphasedotcom/rocky) - React Over Crystal Kemal and Yarn
  * [try.cr ★14](https://github.com/maiha/try.cr) - Try monad
 

@@ -110,7 +110,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [cyanaudit](https://pgxn.org/dist/cyanaudit/) - Cyan Audit provides in-database logging of all DML activity on a column-by-column basis.
 * [pglogical ★192](https://github.com/2ndQuadrant/pglogical) - Extension that provides logical streaming replication.
 * [pg\_partman ★538](https://github.com/keithf4/pg_partman) - Partition management extension for PostgreSQL.
-* [pg\_paxos ★254](https://github.com/citusdata/pg_paxos) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
+* [pg\_paxos ★254 ⏳1Y](https://github.com/citusdata/pg_paxos) - Basic implementation of Paxos and Paxos-based table replication for a cluster of PostgreSQL nodes.
 * [pg\_shard ★1066 ⏳1Y](https://github.com/citusdata/pg_shard) - Extension to scale out real-time reads and writes.
 * [PGStrom](https://wiki.postgresql.org/wiki/PGStrom) - Extension to offload CPU intensive workloads to GPU.
 * [pgxn](https://pgxn.org/) PostgreSQL Extension Network - central distribution point for many open-source PostgreSQL extensions

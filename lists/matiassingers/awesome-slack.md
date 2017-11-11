@@ -323,7 +323,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [notifyme ★175](https://github.com/notifymehq/notifyme) - Provides a common interface for notification services
 - [opauth-slack ★1 ⏳2Y](https://github.com/t1mmen/opauth-slack) - Slack authentication strategy for Opauth
 - [phlack ★53 ⏳1Y](https://github.com/mcrumm/phlack) - PHP API Wrapper
-- [php-slack ★121](https://github.com/Frlnc/php-slack) - A lightweight PHP implementation of Slack's API
+- [php-slack ★121 ⏳1Y](https://github.com/Frlnc/php-slack) - A lightweight PHP implementation of Slack's API
 - [PHP-Slack](https://github.com/ConnorVG/PHP-Slack) - PHP API Wrapper with Laravel support
 - [php-slack-error-reporter ★7 ⏳2Y](https://github.com/tailored-tunes/php-slack-error-reporter) - Library to report errors to slack.
 - [pslackr ★8 ⏳2Y](https://github.com/fullybaked/pslackr) - Library for sending messages from your app to Slack

@@ -194,7 +194,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Sass](http://sass-lang.com) - Sass makes CSS fun again.
 * [Sprockets ★2684 ⏳1Y](https://github.com/sstephenson/sprockets) - Rack-based asset packaging system.
 * [Torba ★166 ⏳1Y](https://github.com/torba-rb/torba) - Bower-less bundler for Sprockets.
-* [Webpacker ★2276](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
+* [Webpacker ★2403](https://github.com/rails/webpacker) - Use Webpack to manage app-like JavaScript modules in Rails.
 
 ## Authentication and OAuth
 
@@ -891,7 +891,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Profiler and Optimization
 
-* [batch-loader ★262](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
+* [batch-loader ★285](https://github.com/exaspark/batch-loader) – A generic lazy batching mechanism to avoid N+1 DB queries, HTTP queries, etc.
 * [benchmark-ips ★1013](https://github.com/evanphx/benchmark-ips) - Provides iteration per second benchmarking for Ruby.
 * [bullet ★4845](https://github.com/flyerhzm/bullet) - Help to kill N+1 queries and unused eager loading.
 * [Derailed Benchmarks ★1779](https://github.com/schneems/derailed_benchmarks) - A series of things you can use to benchmark any Rack based app.

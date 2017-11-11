@@ -72,7 +72,7 @@ title: Awesome Rank for Kazhnuz/awesome-gnome
 - [Geary](https://wiki.gnome.org/Apps/Geary) - Modern mail client for GNOME, created originally by Yorba.
 - [FeedReader](https://jangernert.github.io/FeedReader/) - RSS feeds reader.
 - [Corebird](http://corebird.baedert.org/) - Twitter client.
-- [Something for Reddit ★131](https://github.com/samdroid-apps/something-for-reddit) - Reddit client for GNOME.
+- [Something for Reddit ★131 ⏳1Y](https://github.com/samdroid-apps/something-for-reddit) - Reddit client for GNOME.
 - [Ring-GTK](https://ring.cx/) - GTK/GNOME client for Ring, a secure communication tool.
 - [GNOME Twitch](http://gnome-twitch.vinszent.com/) - GTK/GNOME client for watching Twitch.
 - [Haguichi](https://www.haguichi.net/) - Graphical frontend for Hamachi on Linux.

@@ -142,7 +142,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 ## Application Frameworks
 
-* [ASP.NET Boilerplate ★3395](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
+* [ASP.NET Boilerplate ★3562](https://github.com/aspnetboilerplate/aspnetboilerplate) - A starting point for new modern ASP.NET MVC web applications with best practices and most popular tools.
 * [ASP.NET MVC Boilerplate Framework ★47](https://github.com/ASP-NET-Core-Boilerplate/Framework) - ASP.NET MVC Extensions and Helper NuGet packages.
 * [Orleans ★3161](https://github.com/dotnet/orleans) - Orleans is a framework that provides a straight-forward approach to building distributed high-scale computing applications, without the need to learn and apply complex concurrency or other scaling patterns
 * [CoreFX ★12611](https://github.com/dotnet/corefx) -  The corefx repo contains the library implementation (called "CoreFX") for .NET Core. It includes System.Collections, System.IO, System.Xml and many other components. It builds and runs on Windows. You can 'watch' the repo to see Linux and Mac support being added over the next few months.
@@ -243,7 +243,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [N2CMS ★331](https://github.com/n2cms/n2cms) - Open source, lightweight, code-first CMS able to seamlessly integrate into any MVC project.
 * [Orchard  ★1490](https://github.com/OrchardCMS/Orchard) - Free, open source, community-focused project aimed at delivering applications and reusable components on the ASP.NET platform
 * [Piranha CMS ★384](https://github.com/PiranhaCMS/Piranha) - Piranha is the fun, fast and lightweight .NET framework for developing cms-based web applications with an extra bite. It's built on ASP.NET MVC and Web Pages and is fully compatible with both Visual Studio and WebMatrix. http://piranhacms.org
-* [Umbraco ★1772](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
+* [Umbraco ★1797](https://github.com/umbraco/Umbraco-CMS) - Umbraco is a free open source Content Management System built on the ASP.NET platform
 * [BetterCMS](http://www.bettercms.com) - Open Source .NET Intuitive User Interface for Developer and Publisher
 * [DotNetNuke](http://www.dnnsoftware.com/community/download) - DNN Platform is our free, open source web CMS and the foundation of every professional DNN solution. Over 750,000 organizations worldwide have built websites powered by the DNN Platform.
 
@@ -316,7 +316,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 * [RavenDB ★1744](https://github.com/ravendb/ravendb) - A LINQ-enabled document database for .NET
 * [Marten ★617](https://github.com/JasperFx/marten) - PostgreSQL as a document database and event store for .NET applications
 * [Realm Xamarin ★572](https://github.com/realm/realm-dotnet) - A fast, easy-to-use alternative to SQLite & ORMs - https://realm.io/docs/xamarin/latest/
-* [Streamstone ★159](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
+* [Streamstone ★168](https://github.com/yevhen/Streamstone) - Event store for Azure Table Storage
 * [Ignite ★1240](https://github.com/apache/ignite) - Distributed in-memory platform: document database with SQL and LINQ support; distributed computations; distributed services and events.
 * [Yessql ★318](https://github.com/sebastienros/yessql) - A .NET document database working on any RDBMS
 * [JsonFlatFileDataStore ★20](https://github.com/ttu/json-flatfile-datastore) - Simple JSON flat file data store with support for typed and dynamic data
@@ -442,7 +442,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 ## Git Tools
 
 * [Bonobo Git Server ★1152](https://github.com/jakubgarfield/Bonobo-Git-Server) - Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your Git repositories. https://bonobogitserver.com/
-* [GitExtensions ★2331](https://github.com/gitextensions/gitextensions) - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. http://gitextensions.github.io/
+* [GitExtensions ★2354](https://github.com/gitextensions/gitextensions) - GitExtensions is a shell extension, a Visual Studio 2008/2010/2012/2013 plugin and a standalone Git repository tool. http://gitextensions.github.io/
 * [GitLink ★388](https://github.com/GitTools/GitLink) - let's users step through their code hosted on GitHub or BitBucket
 * [GitVersion ★780](https://github.com/GitTools/GitVersion) - Generate a Semantic Version Number based on the state of your Git repository
 * [LibGit2Sharp ★1284](https://github.com/libgit2/libgit2sharp) - LibGit2Sharp brings all the might and speed of libgit2, a native Git implementation, to the managed world of .NET and Mono.

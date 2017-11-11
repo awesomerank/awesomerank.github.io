@@ -390,7 +390,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-spritesmith ★1166](https://github.com/Ensighten/grunt-spritesmith) - Grunt task for converting a set of images into a spritesheet and corresponding CSS variables.
 * [Grunt-sprite-css-replace](https://www.npmjs.com/package/grunt-sprite-css-replace) - Grunt task that generates a sprite from images referenced in a stylesheet and then updates the references with the new sprite image and positions.
 * [Grunt-svg-sprite](https://www.npmjs.com/package/grunt-svg-sprite) - SVG sprites & stacks galore — Grunt plugin wrapping around svg-sprite that reads in a bunch of SVG files, optimizes them and creates SVG sprites and CSS resources in various flavours.
-* [Gulp-sprite ★15 ⏳1Y](https://github.com/aslansky/gulp-sprite) - gulp task for creating an image sprite and the corresponding stylesheets for Gulp.
+* [Gulp-sprite ★15 ⏳2Y](https://github.com/aslansky/gulp-sprite) - gulp task for creating an image sprite and the corresponding stylesheets for Gulp.
 * [Gulp-svg-sprites ★286](https://github.com/shakyShane/gulp-svg-sprites) - gulp task for creating svg sprites.
 * [SvgToCSS ★1 ⏳1Y](https://github.com/kajyr/SvgToCSS) - Optimizes and renders SVG files in css / sass sprites.
 * [Assetgraph-sprite ★33](https://github.com/assetgraph/assetgraph-sprite) - Assetgraph transform for auto generating sprites based on the CSS dependency graph.

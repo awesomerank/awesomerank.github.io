@@ -63,6 +63,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [node-slug ★833](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
 * [rtrim ★0 ⏳1Y](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 * [slice.js ★18](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style.
+* [strip-ansi ★93](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
 
 ### Date & Time
 
@@ -79,7 +80,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [filter-obj ★24](https://github.com/sindresorhus/filter-obj) - Filter object keys and values into a new object.
 * [object-values ★14](https://github.com/sindresorhus/object-values) - Get the values of an object.
 * [object-pairs ★2 ⏳2Y](https://github.com/eush77/object-pairs) - Turn an object into list of [key, value] pairs for mapping, iterating or other purposes.
-* [zipmap ★4 ⏳2Y](https://github.com/landau/zipmap) - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
+* [zipmap ★4 ⏳3Y](https://github.com/landau/zipmap) - Returns a map with the keys mapped to the corresponding vals. zipmap also accepts a single value of objects or pairs.
 * [just-pluck ★5 ⏳1Y](https://github.com/jarofghosts/just-pluck) - Pluck without the madness.
 * [deep-equal ★243](https://github.com/substack/node-deep-equal) - Node's assert.deepEqual() algorithm as a standalone module.
 * [deep-assign ★228](https://github.com/sindresorhus/deep-assign) - Recursive Object.assign().
@@ -100,7 +101,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 ### Function
 
-* [compose-function ★29 ⏳1Y](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x)).
+* [compose-function ★29 ⏳1Y](https://github.com/stoeffel/compose-function) - Compose a new function from smaller functions `f(g(x))`.
 * [curry ★262 ⏳1Y](https://github.com/dominictarr/curry) - A curry function without anything too clever.
 * [once ★128](https://github.com/isaacs/once) - Run a function exactly one time.
 * [deep-bind ★7 ⏳1Y](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.

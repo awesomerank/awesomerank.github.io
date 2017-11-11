@@ -41,7 +41,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-horizon-chart](http://kmandov.github.io/d3-horizon-chart/) - Horizon charts module
 - [d3-message-sequence ★53](https://github.com/koudelka/d3-message-sequence) - A dynamic/static message sequence chart
 - [d3-timeline ★578](https://github.com/commodityvectors/d3-timeline) - responsive timeline charts
-- [d3fc](http://scottlogic.github.io/d3fc/) - A collection of interactive chart components
+- [d3fc](https://d3fc.io/) - A collection of interactive chart components
 - [D3Funnel ★167](https://github.com/jakezatecky/d3-funnel) - A funnel and pyramid chart library
 - [d3panels ★25](https://github.com/kbroman/d3panels) - Interactive charts with linked brushing
 - [d3pie ★304](https://github.com/benkeen/d3pie) - A configurable pie chart lib and generator
@@ -135,7 +135,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3-breadcrumbs](https://bumbeishvili.github.io/d3-breadcrumbs/) - Simplifies breadcrumbs usage
 - [d3-component ★55](https://github.com/curran/d3-component) - Lightweight component abstraction
 - [d3-extended ★259](https://github.com/wbkd/d3-extended) - Extends d3 with some common jQuery functions
-- [d3-helpers ★24 ⏳2Y](https://github.com/bahmutov/d3-helpers) - Little utility functions
+- [d3-helpers ★24 ⏳3Y](https://github.com/bahmutov/d3-helpers) - Little utility functions
 - [d3-history ★38](https://github.com/vijithassar/d3-history) - Proper URL bar history
 - [d3-iconarray ★55 ⏳1Y](https://github.com/tomgp/d3-iconarray) - A plug-in for aligning elements in grids
 - [d3-kit ★335](https://github.com/twitter/d3kit) - A set of tools to speed D3 related project development

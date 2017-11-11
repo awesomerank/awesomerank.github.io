@@ -448,6 +448,7 @@ These frameworks make customizing your zsh setup easier.
 * [symfony.plugin.zsh ★2](https://github.com/voronkovich/symfony.plugin.zsh) - ZSH plugin for Symfony 2 and 3.
 * [syntax-highlighting-filetypes ★60 ⏳3Y](https://github.com/trapd00r/zsh-syntax-highlighting-filetypes) - ZSH syntax highlighting with dircolors in realtime.
 * [syntax-highlighting ★4141](https://github.com/zsh-users/zsh-syntax-highlighting) - Add syntax highlighting to your ZSH. Make sure you load this _before_ zsh-users/zsh-history-substring-search or they will both break.
+* [sys-diver-zsh ★0](https://github.com/ToruIwashita/sys-diver-zsh) - A zsh plugin for directory change or editor startup with only key operations using widgits without typing command.
 * [sysadmin-util ★427 ⏳1Y](https://github.com/skx/sysadmin-util) - Steve Kemp's collection of tool scripts for sysadmins.
 * [t32 ★2 ⏳3Y](https://github.com/chrissicool/zsh-t32) - Plugin for the Lauterbach Trace32 toolset. It automatically registers fonts and sets all necessary environment variables to run the t32 toolset.
 * [terminal-app](https://github.com/the8/zsh-terminal-app) - A plugin for integrating with the new El Capitan Terminal.app features.
@@ -533,7 +534,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [npm-run.plugin.zsh ★19](https://github.com/akoenig/npm-run.plugin.zsh) - Autocompletion support for `npm run`.
 * [nova ★6 ⏳2Y](https://github.com/rbirnie/oh-my-zsh-nova) - Provides auto-complete for nova.
 * [pass-zsh-completion ★0](https://github.com/ninrod/pass-zsh-completion) - convenience repo to easily obtain [pass](https://www.passwordstore.org/) command completion for ZSH.
-* [spring-boot-plugin ★8 ⏳1Y](https://github.com/linux-china/oh-my-zsh-spring-boot-plugin) - Adds autocompletions for [spring-boot](http://projects.spring.io/spring-boot/) commands.
+* [spring-boot-plugin ★8 ⏳2Y](https://github.com/linux-china/oh-my-zsh-spring-boot-plugin) - Adds autocompletions for [spring-boot](http://projects.spring.io/spring-boot/) commands.
 * [razor_plugin](https://github.com/dalang/oh-my-zsh_razor_plugin) - Provides autocomplete for [Razor ★17 ⏳3Y](https://github.com/puppetlabs/Razor).
 * [parallels-zsh-plugin ★6 ⏳4Y](https://github.com/benclark/parallels-zsh-plugin) - Add completions for Parallels desktop.
 * [pebble-zsh-completion ★11 ⏳2Y](https://github.com/Neal/pebble-zsh-completion) - completion script for [pebble](https://developer.getpebble.com/guides/publishing-tools/pebble-tool).
@@ -541,7 +542,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [rake-completion.zshplugin ★7 ⏳1Y](https://github.com/unixorn/rake-completion.zshplugin) - Add fast tab completion for rakefile targets.
 * [rancher-zsh-completion ★3](https://github.com/go/rancher-zsh-completion) - Add completions for the Rancher CLI.
 * [snappy ★0](https://github.com/Arlon1/Snappy_zsh_autocompletion) - Add completions for snappy.
-* [ssh-agent ★3](https://github.com/hkupty/ssh-agent) - Automatically starts `ssh-agent` to set up and load whichever credentials you want for ssh connections.
+* [ssh-agent ★3 ⏳1Y](https://github.com/hkupty/ssh-agent) - Automatically starts `ssh-agent` to set up and load whichever credentials you want for ssh connections.
 * [surf.plugin.zsh](https://github.com/markussom/surf.plugin.zsh) - Add completions for surf.
 * [test-kitchen-zsh-plugin ★4 ⏳3Y](https://github.com/pelletiermaxime/test-kitchen-zsh-plugin) - Add completions for [Test Kitchen](http://kitchen.ci/).
 * [tmux pane words](https://gist.github.com/blueyed/6856354) - Key bindings to complete words from your tmux pane.

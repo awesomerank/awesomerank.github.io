@@ -79,7 +79,7 @@ Title | Description | Focus
 [holman does dotfiles ★4680](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
 [antigen](http://antigen.sharats.me/) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins. Antigen is to zsh, what Vundle is to vim.
 [Dries's dotfiles ★206](https://github.com/driesvints/dotfiles) | Simplified approach to dotfiles for macOS | Zsh, Oh My Zsh, macOS, Homebrew, Mackup
-[sobolevn's dotfiles ★58](https://github.com/sobolevn/dotfiles) | Dotfiles for the developer happiness | Zsh, Brew, Sublime, Python, Node, Elixir
+[sobolevn's dotfiles ★111](https://github.com/sobolevn/dotfiles) | Dotfiles for the developer happiness | Zsh, Brew, Sublime, Python, Node, Elixir
 
 ### Fish
 

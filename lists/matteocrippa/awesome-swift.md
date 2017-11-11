@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-936-orange.svg) | November 07, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-937-orange.svg) | November 10, 2017
 
 ### Contributing
 
@@ -1214,6 +1214,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SectionedSlider ★137](https://github.com/LeonardoCardoso/SectionedSlider) - Control Center Slider.
 * [SelectionDialog ★69](https://github.com/kciter/SelectionDialog) - Simple selection dialog.
 * [ShadowView ★205](https://github.com/PierrePerrin/ShadowView) - Make shadows management easy on UIView.
+* [SkeletonView ★617](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting.
 * [SKPhotoBrowser ★1344](https://github.com/suzuki-0000/SKPhotoBrowser) - Simple PhotoBrowser/Viewer inspired by facebook, twitter photo browsers.
 * [SMSwipeableTabView ★28](https://github.com/smahajan28/SMSwipeableTabView) - Fully customizable control which is mixture of UIPageViewController and Scrollable Tab Bar.
 * [Sonar ★99](https://github.com/thefuntasty/Sonar) - Cool radar-style view.
@@ -1294,7 +1295,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [NFDownloadButton ★261](https://github.com/LeonardoCardoso/NFDownloadButton) - Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.
 * [PMSuperButton ★364](https://github.com/Codeido/PMSuperButton) - A powerful UIButton with super powers, customizable from Storyboard.
 * [SwiftShareBubbles ★152](https://github.com/takecian/SwiftShareBubbles) - Animated social share buttons control for iOS.
-* [TransitionButton ★322](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
+* [TransitionButton ★348](https://github.com/AladinWay/TransitionButton) - UIButton subclass for loading and transition animation.
 * [TVButton ★935](https://github.com/marmelroy/TVButton) - Recreating the cool parallax icons from Apple TV as iOS UIButtons.
 * [ZFRippleButton ★1284](https://github.com/zoonooz/ZFRippleButton) - A ripple button animation.
 
@@ -1467,7 +1468,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [AZTableViewController ★36](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
-* [CollapsibleTable ★20](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views.
+* [CollapsibleTable ★25](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views.
 * [DTTableViewManager ★315](https://github.com/DenHeadless/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 * [ExpandableCell ★171](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate
 * [ExpyTableView ★143](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.

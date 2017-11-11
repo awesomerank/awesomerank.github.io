@@ -110,7 +110,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Things To Watch Out For While Working Remotely](https://www.toptal.com/remote/remote-work-burnout-a-cautionary-tale)
   1. [How to Work Remotely and Still Be the Best](https://www.toptal.com/freelance/how-to-work-remotely-and-still-be-the-best)
   1. [The Ultimate Remote Team Culture](https://www.toptal.com/remote/the-ultimate-remote-culture)
-  1. [How to Get a Remote Job](https://goodroot.ca/post/2017/02/24/how-to-get-a-remote-job/)
+  1. [How to Get a Remote Job](https://medium.com/@GOODROOT/how-to-get-a-remote-job-bb746e22a874)
   1. [How to Handle Client Work Remotely: Our Communication Stack](https://marsbased.com/blog/2015/12/07/how-to-handle-client-work-remotely-our-communication-stack/)
   1. [How a Week of Remote Work Boosts my Productivity Enormously](http://www.alexrodba.com/2016/07/24/How-a-week-of-remote-work-boosts-my-productivity-enormously/)
   1. [How to Keep Your Remote Workers Productive](http://www.alexrodba.com/2016/03/22/How-To-Keep-Your-Remote-Workers-Productive/)
@@ -187,7 +187,6 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [Blackbox](http://blackbox.vc) - Coliving space in Silicon Valley
   1. [Common](https://www.hicommon.com/) - Coliving House in NewYork
   1. [Coworking in the Sun](http://www.coworkinginthesun.com) - Coliving & coworking space in Tenerife island in Spain
-  1. [Etincelle Coworking](http://www.etincelle-coworking.com) - Coworking spaces in south of France
   1. [Hive Arena](http://hivearena.com/) - Coworking & Coliving Space in Seoul, South Korea
   1. [HubBOG](http://hubbog.com/) - Coworking Space + Startup Accelerator. Bogota, Colombia
   1. [Hus24](http://hus24.org/en/) - Coliving space in Sweden

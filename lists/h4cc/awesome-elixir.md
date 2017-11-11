@@ -310,7 +310,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [coffee_rotor ★16 ⏳3Y](https://github.com/HashNuke/coffee_rotor) - Rotor plugin to compile CoffeeScript files.
 * [dismake ★3 ⏳2Y](https://github.com/jarednorman/dismake) - Mix compiler running make.
 * [etude ★10 ⏳1Y](https://github.com/exstruct/etude) - Parallel computation coordination compiler for Erlang/Elixir.
-* [ExMake ★16 ⏳2Y](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
+* [ExMake ★16 ⏳3Y](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
 * [Exscript ★5](https://github.com/liveforeverx/exscript) - Elixir escript library.
 * [mad ★121](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 * [pc ★27](https://github.com/blt/port_compiler) - A rebar3 port compiler.
@@ -1334,7 +1334,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [slime ★168](https://github.com/slime-lang/slime) - An Elixir library for rendering slim-like templates.
 * [slugger ★94](https://github.com/h4cc/slugger) - Slugger can generate slugs from given strings that can be used in URLs or file names.
 * [stemmer ★118](https://github.com/fredwu/stemmer) - An English (Porter2) stemming implementation in Elixir.
-* [tau ★2 ⏳1Y](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
+* [tau ★2 ⏳2Y](https://github.com/FranklinChen/tau) - Provide the famous mathematical constant, tau, τ = 6.2831....
 * [tomlex ★29](https://github.com/zamith/tomlex) - A TOML parser for Elixir.
 * [ua_inspector ★31](https://github.com/elixytics/ua_inspector) - User agent parser library like `piwik/device-detector`.
 * [ua_parser2 ★1 ⏳1Y](https://github.com/nazipov/ua_parser2-elixir) - A port of ua-parser2 to Elixir. User agent parser library.

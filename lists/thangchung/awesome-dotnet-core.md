@@ -103,7 +103,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [WebAPIContrib for ASP.NET CORE ★240](https://github.com/WebApiContrib/WebAPIContrib.Core) - Community Contributions for ASP.NET Core.
 
 ### Application Frameworks
-* [ABP ★3395](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate is a general purpose application framework especially designed for new modern web applications. It uses already familiar tools and implements best practices arround them to provide you a SOLID development experience.
+* [ABP ★3562](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate is a general purpose application framework especially designed for new modern web applications. It uses already familiar tools and implements best practices arround them to provide you a SOLID development experience.
 * [Aeron.NET ★143](https://github.com/AdaptiveConsulting/Aeron.NET) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport - .NET port of Aeron.
 * [akka.net ★2469](https://github.com/akkadotnet/akka.net) - Toolkit and runtime for building highly concurrent, distributed, and fault tolerant event-driven applications on .NET & Mono.
 * [ASP.NET MVC ★4678](https://github.com/aspnet/Mvc) - Model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor.
@@ -324,7 +324,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### ORM
 * [Entity Framework Core](https://github.com/aspnet/EntityFramework) - Familiar developer experience to previous versions of EF, including LINQ, POCO, and Code First support.
-  * [Pomelo.EntityFrameworkCore.MySql ★403](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector.
+  * [Pomelo.EntityFrameworkCore.MySql ★431](https://github.com/PomeloFoundation/Pomelo.EntityFrameworkCore.MySql) - Entity Framework Core provider for MySql built on top of mysql-net/MySqlConnector.
 * [Dapper ★7289](https://github.com/StackExchange/Dapper) - Simple object mapper for .NET.
   * [Dapper-FluentMap ★112](https://github.com/henkmollema/Dapper-FluentMap) - Provides a simple API to fluently map POCO properties to database columns when using Dapper.
   * [Dommel ★75](https://github.com/henkmollema/Dommel) - Simple CRUD operations for Dapper.
@@ -401,7 +401,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [msgpack-cli ★493](https://github.com/msgpack/msgpack-cli) - MessagePack implementation for Common Language Infrastructure / [msgpack.org](http://msgpack.org).
 * [Newtonsoft.Json ★4782](https://github.com/JamesNK/Newtonsoft.Json) - Popular high-performance JSON framework for .NET.
 * [protobuf-net ★1565](https://github.com/mgravell/protobuf-net) - Protocol Buffers library for idiomatic .NET.
-* [Schema.NET ★83](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
+* [Schema.NET ★88](https://github.com/RehanSaeed/Schema.NET) - Schema.org objects turned into strongly typed C# POCO classes for use in .NET. All classes can be serialized into JSON/JSON-LD and XML, typically used to represent structured data in the head section of html page.
 * [ServiceStack.Text ★859](https://github.com/ServiceStack/ServiceStack.Text) - JSON, JSV and CSV Text Serializers.
 * [TinyCsvParser ★45](https://github.com/bytefish/TinyCsvParser) - Easy to use, easy to extend and high-performance library for CSV parsing with .NET.
 * [Wire ★303](https://github.com/rogeralsing/Wire) - Binary serializer for POCO objects.
@@ -463,7 +463,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ## Starter Kits
 * [ASP.NET Core Starter Kit ★805](https://github.com/kriasoft/aspnet-starter-kit) - Opinionated boilerplate for web development based on .NET Core, Kestrel, GraphQL on the backend and Babel, Webpack, React and Redux on the frontend. This boilerplate comes in both C# and F# flavors.
-* [ASP.NET Boilerplate ★3395](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools. It's aimed to be a SOLID model, a general-purpose application framework and a project template. `4.5.x or above`
+* [ASP.NET Boilerplate ★3562](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate is a starting point for new modern web applications using best practices and most popular tools. It's aimed to be a SOLID model, a general-purpose application framework and a project template. `4.5.x or above`
 * [aspnetcore-spa generator ★2500](https://github.com/aspnet/JavaScriptServices) - Yeoman generator to build a brand-new ASP.NET Core single page application that uses Angular 2 / React / React With Redux / Knockout / Aurelia on the client.
 * [bitwarden-core ★674](https://github.com/bitwarden/core) - The core infrastructure backend (API, database, etc) [https://bitwarden.com](https://bitwarden.com).
 * [dotNetify ★289](https://github.com/dsuryd/dotNetify) - Simple, lightweight, yet powerful way to build real-time HTML5/C# .NET web apps.

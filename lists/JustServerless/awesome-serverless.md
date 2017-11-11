@@ -886,6 +886,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Models for event-driven programming](https://serverless.com/blog/cornelia-davis-models-event-driven-programming-emit-2017/) - How programmers should (re)-think when dealing with event-driven systems.
 - [The state of serverless multi-cloud](https://serverless.com/blog/state-of-serverless-multi-cloud/) - Overview of the current status-quo about serverless computing in a multi-cloud context.
 - [Announcing Serverless workshops](https://serverless.com/blog/announcing-serverless-workshops/) - Announcement blog post about the [Serverless Workshops](https://serverless.com/workshops/) program.
+- [The serverless guide to AWS re:Invent 2017](https://serverless.com/blog/serverless-guide-aws-reinvent-2017/) - Post about all things serverless at AWS re:invent 2017.
+- [Birth of the NearCloud](http://highscalability.com/blog/2017/11/6/birth-of-the-nearcloud-serverless-crdts-edge-is-the-new-next.html) - Post about the SAE (Serverless@Edge) technology and it's potential.
 
 ## Screencasts
 
@@ -1460,6 +1462,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Graphcool Framework ★2314](https://github.com/graphcool/framework) - Framework to develop & deploy serverless GraphQL backends.
 - [Jazz ★24](https://github.com/tmobile/jazz) - Jazz serverless development platform.
 - [Firecamp ★49](https://github.com/cloudstax/firecamp) - Serverless platform for the stateful services.
+- [Cloudstax](https://www.cloudstax.io) - Serverless and Open Source services.
+- [Kuhiro](http://kuhiro.com) - Edge Compute Network.
 
 ## Plugins
 

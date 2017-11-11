@@ -157,7 +157,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Java ★14295](lists/akullpp/awesome-java.md)
 	- [RxJava ★145 ⏳1Y](lists/eleventigers/awesome-rxjava.md)
 - [Kotlin ★3198](lists/KotlinBy/awesome-kotlin.md)
-- [OCaml ★1075](lists/rizo/awesome-ocaml.md)
+- [OCaml ★1103](lists/rizo/awesome-ocaml.md)
 - [ColdFusion ★46](lists/seancoyne/awesome-coldfusion.md)
 - [Fortran ★121](lists/rabbiabram/awesome-fortran.md)
 - [.NET ★5304](lists/quozd/awesome-dotnet.md)
@@ -272,7 +272,7 @@ title: Awesome Rank for sindresorhus/awesome
 
 - [University Courses ★21168](lists/prakhar1989/awesome-courses.md)
 - [Data Science ★4627](lists/bulutyazilim/awesome-datascience.md)
-	- [Tutorials ★57](lists/siboehm/awesome-learn-datascience.md)
+	- [Tutorials ★166](lists/siboehm/awesome-learn-datascience.md)
 - [Machine Learning ★27278](lists/josephmisiti/awesome-machine-learning.md)
 	- [Tutorials ★5053](lists/ujjwalkarn/Machine-Learning-Tutorials.md)
 	- [ML with Ruby ★673](lists/arbox/machine-learning-with-ruby.md) - Learning, implementing, and applying Machine Learning using Ruby.
@@ -396,7 +396,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [TinkerPop ★54](lists/mohataher/awesome-tinkerpop.md) - Graph computing framework.
 - [PostgreSQL ★3652](lists/dhamaniasad/awesome-postgres.md) - Object-relational database.
 - [CouchDB ★43](lists/quangv/awesome-couchdb.md) - Document-oriented NoSQL database.
-- [HBase ★26](lists/rayokota/awesome-hbase.md) - Distributed, scalable, big data store.
+- [HBase ★34](lists/rayokota/awesome-hbase.md) - Distributed, scalable, big data store.
 
 
 ## Media
@@ -490,7 +490,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Bitcoin ★308](lists/igorbarinov/awesome-bitcoin.md) - Bitcoin services and tools for software developers.
 - [Ripple ★68](lists/vhpoet/awesome-ripple.md) - Open source distributed settlement network.
 - [Non-Financial Blockchain ★177](lists/machinomy/awesome-non-financial-blockchain.md) - Non-financial blockchain applications.
-- [Mastodon ★27](lists/tleb/awesome-mastodon.md) - Open source decentralized microblogging network.
+- [Mastodon ★36](lists/tleb/awesome-mastodon.md) - Open source decentralized microblogging network.
 
 ## Miscellaneous
 
@@ -581,8 +581,8 @@ title: Awesome Rank for sindresorhus/awesome
 - [Ledger ★6](lists/sfischer13/awesome-ledger.md) - Double-entry accounting on the command-line.
 - [Uncopyright ★150](lists/johnjago/awesome-uncopyright.md) - Public domain works.
 - [Crypto Currency Tools & Algorithms ★2038](lists/kennethreitz/awesome-coins.md) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Open Source Supporters ★63](lists/zachflower/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
-- [Design Principles ★11](lists/robinstickel/awesome-design-principles.md) - Create better and more consistent designs and experiences.
+- [Open Source Supporters ★243](lists/zachflower/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
+- [Design Principles ★27](lists/robinstickel/awesome-design-principles.md) - Create better and more consistent designs and experiences.
 - [Visual Regression Testing ★136](lists/mojoaxel/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
 - [Theravada ★18](lists/johnjago/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT ★3](lists/inspectit-labs/awesome-inspectit.md) - Open source Java app performance management tool.
