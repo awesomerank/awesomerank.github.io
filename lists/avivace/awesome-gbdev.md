@@ -252,7 +252,6 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Carazu ★8 ⏳1Y](https://github.com/mholtkamp/carazu)
 - [Snake-gb ★9](https://github.com/DonaldHays/snake-gb)
 - [GB303 ★22](https://github.com/furrtek/GB303) - GB303 wavetable-based TB-303 style synthesizer for the Nintendo Gameboy.
-- [Pokémon Christmas](https://github.com/TheFakeMateo/xmas)
 - [Sushi ★2](https://github.com/JustSid/Sushi)
 - [Flappy-boy-asm ★8](https://github.com/bitnenfer/flappy-boy-asm)
 - [kupman ★1](https://github.com/dubvulture/gbdev) and some other projects
@@ -262,7 +261,6 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [GBSlides ★10](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
 
 ### C
-- [flappybird-gb](https://github.com/LuckyLights/flappybird-gb)
 - [FlappyBoy ★10 ⏳2Y](https://github.com/bitnenfer/FlappyBoy)
 - [flappybird-gameboy ★2](https://github.com/pashutk/flappybird-gameboy) - Yet another gbdk powered Flappybird clone.
 - [Novascape](http://ludumdare.com/compo/ludum-dare-34/?action=preview&uid=6823)
@@ -314,7 +312,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [ArduinoGameBoy ★49 ⏳2Y](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 - [gameboy-brainfuck ★4](https://github.com/bitnenfer/gameboy-brainfuck) - Implementation of a brainfuck interpreter.
 - [gb-save-states ★4](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
-
+- [The Game Boy Archive](https://github.com/gb-archive) - A library of Game Boy related software, hardware and literature. Aimed to mirror and preserve old and fragmented contributions from the last three decades.
 
 ## About
 

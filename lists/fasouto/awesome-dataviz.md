@@ -46,11 +46,11 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [dc.js ★5914](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
 - [Dimple](http://dimplejs.org/) - An object-oriented API for business analytics.
 - [Dygraphs](http://dygraphs.com/) - Interactive line charts library that works with huge datasets.
-- [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper ★790](https://github.com/hustcc/echarts-for-react)
+- [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper ★835](https://github.com/hustcc/echarts-for-react)
 - [Epoch ★4887](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Optimized for time-series data.
 - [NVD3 ★6207](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
-- [Plotly.js ★6919](https://github.com/plotly/plotly.js) - Powerful declarative library with support for 20 chart types.
+- [Plotly.js ★7091](https://github.com/plotly/plotly.js) - Powerful declarative library with support for 20 chart types.
 - [TechanJS](http://techanjs.org/) - Stock and financial charts.
 
 ### Charting libraries for graphs
@@ -65,11 +65,11 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [DataMaps ★2541](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js.
 - [Leaflet](http://leafletjs.com) - JavaScript library for mobile-friendly interactive maps.
 - [Leaflet Data Visualization Framework ★509](https://github.com/humangeo/leaflet-dvf)  - A framework designed to simplify data visualization and thematic mapping using Leaflet.
-- [Mapael ★825](https://github.com/neveldo/jQuery-Mapael) - jQuery plugin based on raphael.js to display vector maps.
+- [Mapael ★832](https://github.com/neveldo/jQuery-Mapael) - jQuery plugin based on raphael.js to display vector maps.
 
 
 ### d3
-- See [Awesome D3 ★3413](https://github.com/wbkd/awesome-d3)
+- See [Awesome D3 ★3474](https://github.com/wbkd/awesome-d3)
 
 ### React
 - [React-vis ★2520](https://github.com/uber/react-vis) - React components to build data visualizations.
@@ -114,7 +114,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [holoviews](http://holoviews.org/) - Complex and declarative visualizations from annotated data.
 - [matplotlib](http://matplotlib.org/) - 2D plotting library.
 - [missingno ★679](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
-- [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js ★6919](https://github.com/plotly/plotly.js)
+- [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js ★7091](https://github.com/plotly/plotly.js)
 - [pygal](http://www.pygal.org/en/latest/) - A dynamic SVG charting library.
 - [PyQtGraph](http://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 - [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.

@@ -295,7 +295,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Searching tools & libraries.*
 
 * [ElasticsearchIndexer ★5 ⏳1Y](https://github.com/SidRoberts/phalcon-elasticsearchindexer) - Elasticsearch indexer component for Phalcon
-* [phalcon-datatables ★42](https://github.com/m1ome/phalcon-datatables) - Phalcon adapter for DataTables
+* [phalcon-datatables ★42 ⏳1Y](https://github.com/m1ome/phalcon-datatables) - Phalcon adapter for DataTables
 * [phalcon-elasticsearch ★29](https://github.com/ovr/phalcon-elasticsearch) - Phalcon + Elastic
 * [Searcher ★22 ⏳2Y](https://github.com/stanislav-web/Searcher) - Database searcher for Phalcon PHP Framework
 

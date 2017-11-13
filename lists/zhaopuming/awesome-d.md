@@ -177,7 +177,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 
 * [dub ★383](https://github.com/dlang/dub) - De facto official package and build management system for D. Will be included officially soon.
 * [scons-d](http://scons.org/) - Scons has built-in support for building D projects, thanks to Russel Winder.
-* [premake ★2](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
+* [premake ★2 ⏳1Y](https://github.com/premake/premake-dlang) - Premake has built-in support for D projects
 * [reggae ★47](https://github.com/atilaneves/reggae) - meta build system in D
 * [Makefile ★17 ⏳1Y](https://github.com/bioinfornatics/MakefileForD) - Makefile template for D projects
 * [cmake-d ★27](https://github.com/dcarp/cmake-d) - CMake D Projects
@@ -249,7 +249,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 * [vibe.data.json](http://vibed.org/api/vibe.data.json/) - JSON functions in Vibe.d. Currently the best implementation I used.
 * [fast.json ★72](https://github.com/mleise/fast) -  A library for D that aims to provide the fastest possible implementation of some every day routines.
 * [std.json](http://dlang.org/phobos/std_json.html) - D's standard library JSON module. Needs refinement.
-* [painlessjson ★16](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
+* [painlessjson ★16 ⏳1Y](https://github.com/BlackEdder/painlessjson) - Convert between D types and std.json.
 * [std.data.json ★24 ⏳1Y](https://github.com/s-ludwig/std_data_json) - Phobos candidate for JSON serialization (based on Vibed)
 * [asdf ★36](https://github.com/tamediadigital/asdf) - Cache oriented string based JSON representation for fast read & writes and serialisatoin.
 

@@ -191,7 +191,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 **[`^        back to top        ^`](#)**
 
   * [Bookie ★619](https://github.com/bookieio/Bookie) - Python based delicious.com replacement. `AGPLv3` `Python`
-  * [dyu/bookmarks ★25](https://github.com/dyu/bookmarks) - Single-threaded/process bookmark app powered by leveldb and uWebSockets. Supports importing from Delicious and Chrome. ([Demo](https://dyuproject.com/bookmarks/)) `Apache` `Java`
+  * [dyu/bookmarks ★28](https://github.com/dyu/bookmarks) - Single-threaded/process bookmark app powered by leveldb and uWebSockets. Supports importing from Delicious and Chrome. ([Demo](https://dyuproject.com/bookmarks/)) `Apache` `Java`
   * [Firefox Auth Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - This project implements the core server-side API for Firefox Accounts. ([Source Code ★303](https://github.com/mozilla/fxa-auth-server)) `MPLv2` `Nodejs`
    * [Firefox Content Server](https://docs.services.mozilla.com/howtos/run-fxa.html) - Static server that hosts Firefox Account sign up, sign in, email verification, etc. flows. ([Source Code ★125](https://github.com/mozilla/fxa-content-server)) `MPLv2` `Java`
    * [Firefox Sync Server](https://docs.services.mozilla.com/howtos/run-sync-1.5.html) - Sync Firefox bookmarks, passwords, history, tabs, preferences. ([Source Code ★400](https://github.com/mozilla-services/syncserver)) `MPLv2` `Python`
@@ -282,7 +282,7 @@ _simple deployment of a mail server, e.g. for inexperienced or impatient admins.
   * [Mailu](https://mailu.io/) - Mailu is a simple yet full-featured mail server as a set of Docker images. ([Demo](https://github.com/Mailu/Mailu/wiki/Demo-server), [Source Code ★314](https://github.com/Mailu/Mailu)) `MIT` `Docker/Python`
   * [Mail-in-a-Box](https://mailinabox.email/) - Turns any Ubuntu server into a fully functional mail server with one command. ([Source Code ★6705](https://github.com/mail-in-a-box/mailinabox)) `CC0` `Shell`
   * [Modoboa](http://modoboa.org/en/) - Modoboa is a mail hosting and management platform including a modern and simplified Web User Interface. ([Source Code](https://github.com/tonioo/modoboa)) `MIT` `Python`
-  * [Postal ★7291](https://github.com/atech/postal) - Postal is a complete and full featured mail server for use by websites and web servers. `MIT` `Ruby`
+  * [Postal ★7369](https://github.com/atech/postal) - Postal is a complete and full featured mail server for use by websites and web servers. `MIT` `Ruby`
 
 #### Mail Transfer Agents
 
@@ -291,7 +291,7 @@ _MTAs / SMTP servers_
 * [Courier MTA](http://www.courier-mta.org/) - Fast, scalable, enterprise mail/groupware server providing ESMTP, IMAP, POP3, webmail, mailing list, basic web-based calendaring and scheduling services. ([Source Code](http://www.courier-mta.org/repo.html)) `GPLv3` `C`
 * [Exim](https://www.exim.org/) - Message transfer agent (MTA) developed at the University of Cambridge. ([Source Code](http://git.exim.org/exim.git)) `GPLv3` `C`
 * [Haraka](http://haraka.github.io/) - A high-performance, pluginable SMTP server written in Javascript. ([Source Code ★2705](https://github.com/haraka/Haraka)) `MIT` `Javascript`
-* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ([Source Code ★4057](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
+* [MailCatcher](http://mailcatcher.me/) - Ruby gem that deploys a simply SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. ([Source Code ★4100](https://github.com/sj26/mailcatcher)) `MIT` `Ruby`
 * [Maildrop ★620](https://github.com/m242/maildrop) - Disposable email SMTP server, also useful for development. `MIT` `Scala`
 * [MailHog ★2650](https://github.com/mailhog/MailHog) - Small Golang executable which runs an SMTP MTA gateway that accepts all mail and displays in web interface. Useful for debugging or development. `MIT` `Go`
 * [OpenSMTPD](https://opensmtpd.org/) - Secure SMTP server implementation from the OpenBSD project. ([Source Code](http://cvsweb.openbsd.org/cgi-bin/cvsweb/src/usr.sbin/smtpd/)) `ISC` `C`
@@ -316,9 +316,9 @@ _Mailing lists servers and mass mailing software - one message to many recipient
   * [Mailman](https://www.gnu.org/software/mailman/) - The Gnu mailing list server. `GPL` `Python`
   * [Mailtrain](https://mailtrain.org/) - self hosted newsletter application built on Node.js (v5+) and MySQL (v5.5+ or MariaDB). ([Source Code](https://github.com/andris9/mailtrain)) `GPLv3` `Nodejs`
   * [MailyHerald](http://mailyherald.org/) - Self-hosted Mailchimp alternative that you can easily integrate with your site. Helps you send and manage your application mailings. It support email marketing and conducting the daily stream of notifications you send to your users. ([Source Code ★409](https://github.com/Sology/maily_herald)) `LGPLv3` `Ruby`
-  * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code ★1934](https://github.com/mautic/mautic)) `GPLv3` `PHP`
+  * [Mautic](https://www.mautic.org/) - Mautic is marketing automation software (email, social & more). ([Source Code ★2014](https://github.com/mautic/mautic)) `GPLv3` `PHP`
   * [phpList](https://phplist.org) - Newsletter and email marketing with advanced management of subscribers, bounces, and plugins. ([Source Code](https://github.com/phpList/)) `AGPLv3` `PHP`
-  * [postal ★7291](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. `MIT` `Ruby`
+  * [postal ★7369](https://github.com/atech/postal) - A fully featured open source mail delivery platform for incoming & outgoing e-mail. `MIT` `Ruby`
   * [Schleuder](https://schleuder.nadir.org/) - A GPG-enabled mailing list manager with resending-capabilities. ([Source Code](https://0xacab.org/schleuder/schleuder/tree/master)) `GPLv3` `Ruby`
   * [Sympa](https://www.sympa.org/) - A mailing list manager. `GPLv2` `Perl`
 
@@ -472,7 +472,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [Noosfero](http://noosfero.org/) - Noosfero is a web platform for social and solidarity economy networks with blog, e-Portfolios, CMS, RSS, thematic discussion, events agenda and collective intelligence for solidarity economy in the same system. ([Source Code](https://gitlab.com/noosfero/noosfero)) `AGPLv3` `Ruby`
   * [october](http://octobercms.com/) - Free, open-source, self-hosted CMS platform. ([Source Code ★6407](https://github.com/octobercms/october)) `MIT` `PHP`
   * [Omeka](http://omeka.org) - Create complex narratives and share rich collections, adhering to Dublin Core standards with Omeka on your server, designed for scholars, museums, libraries, archives, and enthusiasts. ([Demo](http://omeka.org/showcase/), [Source Code ★199](https://github.com/omeka/Omeka)) `GPLv3` `PHP`
-  * [Pagekit](https://pagekit.com/) - A new modern CMS to create and share. ([Source Code ★4469](https://github.com/pagekit/pagekit)) `MIT` `PHP`
+  * [Pagekit](https://pagekit.com/) - A new modern CMS to create and share. ([Source Code ★4507](https://github.com/pagekit/pagekit)) `MIT` `PHP`
   * [Pico](http://picocms.org/) - A stupidly simple, blazing fast, flat file CMS. ([Source Code ★2690](https://github.com/picocms/Pico)) `MIT` `PHP`
   * [Pimcore](https://www.pimcore.org/) - Multi-Channel Experience and Engagement Management Platform. ([Source Code ★813](https://github.com/pimcore/pimcore)) `BSD` `PHP`
   * [Plone](https://plone.org/) - Powerful open-source CMS system. ([Source Code](https://github.com/plone)) `Zope` `Python`
@@ -781,7 +781,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [GNU FM](https://gnu.io/fm/) - Running music community websites, alternative to last.fm. ([Source Code](http://git.savannah.gnu.org/cgit/librefm.git/)) `AGPLv3` `PHP`
   * [Groove Basin ★1657](https://github.com/andrewrk/groovebasin) - A music player server with a web-based user interface inspired by Amarok 1.4. `MIT` `Nodejs`
   * [Icecast 2](http://www.icecast.org/) - streaming audio/video server which can be used to create an Internet radio station or a privately running jukebox and many things in between. ([Source Code](https://git.xiph.org/?p=icecast-server.git;a=summary)) `GPLv2` `C`
-  * [koel](http://koel.phanan.net/) - A personal music streaming server that works. ([Source Code ★8235](https://github.com/phanan/koel)) `MIT` `PHP`
+  * [koel](http://koel.phanan.net/) - A personal music streaming server that works. ([Source Code ★8386](https://github.com/phanan/koel)) `MIT` `PHP`
   * [Libresonic](http://libresonic.org/) - Open-source web-based media streamer and jukebox. A fork of Subsonic's last open-source release, before it switched licenses. `GPLv3` `Java`
   * [Mopidy](http://mopidy.readthedocs.org/) - Extensible music server. Offers a superset of the mpd API, as well as integration with 3rd party services like Spotify, SoundCloud etc. ([Source Code ★4412](https://github.com/mopidy/mopidy)) `Apache` `Python`
     * [Moped ★364](https://github.com/martijnboland/moped) - Responsive HTML5 + Javascript client for the Mopidy music server. `MIT` `HTML5`
@@ -820,7 +820,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [CrushPaper](https://www.crushpaper.com/) - Research the web for relevant sources, save quotations from them to CrushPaper and then combine them with your own insights into a paper. ([Source Code ★57 ⏳1Y](https://github.com/ZapBlasterson/crushpaper)) `AGPLv3` `Java`
   * [DomainMOD](https://domainmod.org) - An application to manage your domains and other internet assets in a central location. DomainMOD includes a Data Warehouse framework that allows you to import your WHM/cPanel web server data so that you can view, export, and report on your data. ([Demo](https://demo.domainmod.org), [Source Code ★89](https://github.com/domainmod/domainmod)) `GPLv3` `PHP`
   * [EasyBook Project](http://easybook-project.org/) - Book publishing as easy as it should be. ([Source Code ★680](https://github.com/javiereguiluz/easybook)) `MIT` `PHP`
-  * [Flox ★292](https://github.com/devfake/flox) `⚠` - Self hosted movie, TV series and anime watch list with a 3-point rating system. Uses The Movie Database backend for information. ([Demo](http://80.240.132.120/flox-demo/public/)) `MIT` `PHP`
+  * [Flox ★301](https://github.com/devfake/flox) `⚠` - Self hosted movie, TV series and anime watch list with a 3-point rating system. Uses The Movie Database backend for information. ([Demo](http://80.240.132.120/flox-demo/public/)) `MIT` `PHP`
   * [GeneWeb](https://geneweb.tuxfamily.org/wiki/GeneWeb) - GeneWeb is an open source genealogy software written in OCaml. It comes with a Web interface and can be used off-line or as a Web service. ([Demo](https://demo.geneweb.tuxfamily.org/gw7/), [Source Code ★55](https://github.com/geneweb/geneweb)) `GPLv2` `OCAML`
   * [How Secure Is My Password ★191](https://github.com/howsecureismypassword/hsimp) - Rather than just saying a password is "weak" or "strong", How Secure is My Password? lets your users know how long it would take someone to crack their password. ([Demo](https://howsecureismypassword.net/)) `MIT` `Javascript`
   * [google-webfonts-helper ★2399](https://github.com/majodev/google-webfonts-helper) `⚠` - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://google-webfonts-helper.herokuapp.com/)) `MIT` `Nodejs`
@@ -912,7 +912,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
 
 **[`^        back to top        ^`](#)**
 
- * [Bitwarden](https://bitwarden.com/) - Password manager with webapp, browser extension, and mobile app. ([Source Code ★674](https://github.com/bitwarden/core)) `AGPLv3` `C#`
+ * [Bitwarden](https://bitwarden.com/) - Password manager with webapp, browser extension, and mobile app. ([Source Code ★732](https://github.com/bitwarden/core)) `AGPLv3` `C#`
  * [keeweb](https://keeweb.info/) - This webapp is a browser and desktop password manager compatible with KeePass databases. ([Source Code ★5511](https://github.com/keeweb/keeweb)) `MIT` `HTML5`
  * [sysPass](http://www.syspass.org/) - Multiuser password management system. ([Demo](http://demo.syspass.org/), [Source Code ★250](https://github.com/nuxsmin/sysPass)) `GPLv3` `PHP`
  * [Teampass](http://teampass.net/) - Password manager dedicated for managing passwords in a collaborative way on any server Apache, MySQL and PHP. ([Source Code ★732](https://github.com/nilsteampassnet/TeamPass)) `GPLv3` `PHP`
@@ -1012,7 +1012,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 
 **[`^        back to top        ^`](#)**
 
-  * [http2-serverpush-proxy ★9](https://github.com/n1try/http2-serverpush-proxy) - A reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone application. `MIT` `Nodejs`
+  * [http2-serverpush-proxy ★9 ⏳1Y](https://github.com/n1try/http2-serverpush-proxy) - A reverse proxy that helps to automatically utilize HTTP/2.0's server push mechanism for static websites. Available as middleware and standalone application. `MIT` `Nodejs`
   * [iodine](http://code.kryo.se/iodine/) - A ipv4 over DNS tunnel solution, enabling you to start up a socks5 proxy listener. ([Source Code ★1997](https://github.com/yarrick/iodine)) `ISC` `C`
   * [microproxy](https://github.com/thekvs/microproxy) - lightweight non-caching HTTP/HTTPS proxy server. ([Source Code ★49](https://github.com/thekvs/microproxy)) `MIT` `Go`
   * [miniProxy](https://github.com/joshdick/miniProxy/) - Simple web proxy written in PHP that can allow you to bypass Internet content filters, or to browse the internet anonymously. Only one php file. ([Source Code ★346](https://github.com/joshdick/miniProxy)) `GPLv3` `PHP`
@@ -1053,7 +1053,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 _See also [Ticketing](#ticketing), [Task management/To-do lists](#task-managementto-do-lists)_
 
   * [Apache Bloodhound](https://bloodhound.apache.org/) - Manage software products, Keep track of features, tasks and bugs. `Apache` `Python`
-  * [Bonobo Git Server](https://bonobogitserver.com/) - Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface. ([Source Code ★1152](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
+  * [Bonobo Git Server](https://bonobogitserver.com/) - Set up your own self hosted git server on IIS for Windows. Manage users and have full control over your repositories with a nice user friendly graphical interface. ([Source Code ★1176](https://github.com/jakubgarfield/Bonobo-Git-Server)) `MIT` `C#`
   * [CaseBox](https://www.casebox.org) - Manage all your organisation's information in one system. ([Source Code ★175](https://github.com/KETSE/casebox)) `AGPLv3` `PHP/Java`
   * [Fossil](https://www.fossil-scm.org/index.html/doc/trunk/www/index.wiki) - Distributed version control system featuring wiki and bug tracker. `BSD` `C`
   * [Gitblit](http://gitblit.com/) - A pure Java stack for managing, viewing, and serving Git repositories. ([Source Code ★1362](https://github.com/gitblit/gitblit)) `Apache` `Java`
@@ -1169,7 +1169,7 @@ See https://staticsitegenerators.net and https://www.staticgen.com
   * [todo ★4](https://github.com/prologic/todo) - Simple todo list manager. ([Demo](https://todo.mills.io)) `MIT` `Go`
   * [Tracks](http://www.getontracks.org/) - A web-based application to help you implement David Allen’s [Getting Things Done™](https://en.wikipedia.org/wiki/Getting_Things_Done) methodology. ([Source Code ★852](https://github.com/TracksApp/tracks)) `GPLv2` `Ruby`
   * [Volition](https://www.usevolition.com) - Opinionated open-source task management. ([Source Code ★0](https://github.com/garrettqmartin8/volition)) `MIT` `Ruby`
-  * [Wekan](https://wekan.github.io/) - An open-source Trello-like kanban. ([Demo](https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h), [Source Code ★11497](https://github.com/wekan/wekan)) `MIT` `Nodejs`
+  * [Wekan](https://wekan.github.io/) - An open-source Trello-like kanban. ([Demo](https://oasis.sandstorm.io/appdemo/m86q05rdvj14yvn78ghaxynqz7u2svw6rnttptxx49g1785cdv1h), [Source Code ★11804](https://github.com/wekan/wekan)) `MIT` `Nodejs`
 
 
 ## Ticketing

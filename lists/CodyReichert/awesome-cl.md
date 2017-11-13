@@ -427,7 +427,7 @@ Others
 * [css-lite ★53 ⏳5Y](https://github.com/paddymul/css-lite) - A CSS grammar. [Expat][14].
 * [Postmaster ★3 ⏳2Y](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
 * [usocket ★56](https://github.com/usocket/usocket) - A portable TCP and UDP socket interface. [Expat][14].
-* [find-port ★5 ⏳1Y](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT][200].
+* [find-port ★5 ⏳2Y](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT][200].
 
 
 Numerical and Scientific

@@ -69,8 +69,8 @@ It includes a command-line shell and an associated scripting language.
 
 ## Build Tools
 
-* [psake ★999](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
-* [Invoke-Build ★205](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
+* [psake ★1014](https://github.com/psake/psake) - Build automation tool inspired by rake (aka make in Ruby) and bake (aka make in Boo).
+* [Invoke-Build ★214](https://github.com/nightroman/Invoke-Build) - Build and test automation tool inspired by psake.
 * [PSDeploy ★141](https://github.com/RamblingCookieMonster/PSDeploy) - Module built for the purpose of simplifying multiple types of deployments.
 * [BuildHelpers ★59](https://github.com/RamblingCookieMonster/BuildHelpers) - Variety of helper functions for CI/CD scenarios.
 * [YDeliver ★33 ⏳2Y](https://github.com/manojlds/YDeliver) - Build and deployment framework aimed at .NET projects.
@@ -83,7 +83,7 @@ It includes a command-line shell and an associated scripting language.
 
 ## Commandline Productivity
 
-- [posh-git ★2476](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
+- [posh-git ★2526](https://github.com/dahlbyk/posh-git) - Set of PowerShell scripts which provide Git/PowerShell integration.
 - [PSReadLine ★938](https://github.com/lzybkr/PSReadLine) - Bash inspired readline implementation for PowerShell. Keeps history between sessions, adds reverse-history search and makes the commandline experience much better overall.
 - [TabExpansionPlusPlus ★106](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump ★5993](https://github.com/wting/autojump) implementation for powershell.

@@ -84,7 +84,7 @@ title: Awesome Rank for nikgraf/awesome-draft-js
   - [Undo](https://www.draft-js-plugins.com/plugin/undo) - Undo & Redo button.
   - [Video](https://www.draft-js-plugins.com/plugin/video)
 * [Draft.js Gutter ★11 ⏳1Y](https://github.com/seejamescode/draft-js-gutter) - Compliments line number gutter.
-* [Draft.js Basic HTML Editor ★61](https://github.com/dburrows/draft-js-basic-html-editor) - Accept html as its input format, and return html to an onChange.
+* [Draft.js Basic HTML Editor ★61 ⏳1Y](https://github.com/dburrows/draft-js-basic-html-editor) - Accept html as its input format, and return html to an onChange.
 * [Draft.js Prism ★213](https://github.com/SamyPesse/draft-js-prism)- Highlight code blocks using Prism.
 * [Draft.js Typeahead ★88](https://github.com/dooly-ai/draft-js-typeahead) - Support for typeahead functionality.
 * [Draft Extend ★51](https://github.com/HubSpot/draft-extend) - Build extensible Draft.js editors with configurable plugins and integrated serialization.

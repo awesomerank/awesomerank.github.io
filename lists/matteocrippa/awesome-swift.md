@@ -310,7 +310,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [spruce-ios ★2121](https://github.com/willowtreeapps/spruce-ios) - Choreograph animations on the screen.
 * [Stellar ★2438](https://github.com/AugustRush/Stellar) - A Physical animation library.
 * [SwiftyAnimate ★143](https://github.com/rchatham/SwiftyAnimate) - Composable animations.
-* [ViewAnimator ★110](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
+* [ViewAnimator ★2506](https://github.com/marcosgriselli/ViewAnimator) - Brings your UI to life with just one line.
 * [Walker ★135](https://github.com/RamonGilabert/Walker) - An animation engine to make your animations easy and more readable.
 * [YapAnimator ★1711](https://github.com/yapstudios/YapAnimator) - Your fast and friendly physics-based animation system.
 * [ZoomTransitioning ★540](https://github.com/WorldDownTown/ZoomTransitioning) - A custom transition with image zooming animation.
@@ -599,7 +599,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Dependency injection libs* [back to top](#readme) 
 
 * [Cleanse ★936](https://github.com/square/Cleanse) - A Lightweight Dependency Injection Framework by Square.
-* [Corridor ★19](https://github.com/symentis/Corridor) - A Coreader-like Dependency Injection μFramework.
+* [Corridor ★39](https://github.com/symentis/Corridor) - A Coreader-like Dependency Injection μFramework.
 * [Dip ★556](https://github.com/AliSoftware/Dip) - A simple Dependency Injection Container.
 * [Swinject ★1915](https://github.com/Swinject/Swinject) - A dependency injection framework.
 * [Typhoon ★2255](https://github.com/appsquickly/Typhoon) - Dependency injection toolkit.
@@ -1351,7 +1351,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [GuillotineMenu ★2536](https://github.com/Yalantis/GuillotineMenu) - Guillotine style menu.
 * [InteractiveSideMenu ★298](https://github.com/handsomecode/InteractiveSideMenu) - Customizable iOS Interactive Side Menu.
 * [KWDrawerController ★54](https://github.com/Kawoou/KWDrawerController) - Drawer view controller that easy to use.
-* [MediumMenu ★294](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
+* [MediumMenu ★294 ⏳1Y](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app.
 * [MenuItemKit ★331](https://github.com/cxa/MenuItemKit) - `UIMenuItem` with image and block (closure) support.
 * [Pagemenu ★4339](https://github.com/PageMenu/PageMenu) - Pagination enabled view controller.
 * [PagingKit ★156](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI
@@ -1458,7 +1458,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [GravitySlider ★20](https://github.com/ApplikeySolutions/GravitySlider) - Beautiful alternative to the standard UICollectionView flow layout.
 * [RAReorderableLayout ★782](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout which can move an item with drag and drop.
 * [ReplaceAnimation ★802 ⏳1Y](https://github.com/fruitcoder/ReplaceAnimation) - Pull-to-refresh animation in UICollectionView with a sticky header flow layout.
-* [Sapporo ★229](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager.
+* [Sapporo ★229 ⏳1Y](https://github.com/nghialv/Sapporo) - A cellmodel-driven CollectionView manager.
 * [ShelfView-iOS ★162](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf.
 * [SwiftSpreadsheet ★404](https://github.com/stuffrabbit/SwiftSpreadsheet) - Fully customizable spreadsheet CollectionViewLayout.
 * [TagCellLayout ★112](https://github.com/riteshhgupta/TagCellLayout) - UICollectionView layout for Tags with Left, Center & Right alignments.

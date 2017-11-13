@@ -68,13 +68,13 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 * [StageXL](http://www.stagexl.org/) - StageXL offers an easy to use and complete API (based on the Flash API) for impressive 2D content like games and other rich applications.
 * [DartRocket ★41 ⏳2Y](https://github.com/StrykerKKD/dartrocket) - DartRocket is a HTML5 game framework written in Dart and which uses the StageXL rendering engine.
-* [Pixi Dart ★22 ⏳2Y](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
+* [Pixi Dart ★22 ⏳3Y](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
 * [Ranger ★15 ⏳2Y](https://github.com/wdevore/Ranger-Dart) - A game engine centered around HTML5 Canvas and a scene graph.
 
 ## Animation
 
 * [Universal Tween Engine ★21 ⏳1Y](https://github.com/xaguzman/tween-engine-dart) - A port of the original java Universal Tween Engine created by Aurelien Ribbon.
-* [Spine Dart ★6 ⏳2Y](https://github.com/FedeOmoto/spine) - An implementation of the Esoteric Software Spine runtime.
+* [Spine Dart ★6 ⏳3Y](https://github.com/FedeOmoto/spine) - An implementation of the Esoteric Software Spine runtime.
 
 ## Template
 

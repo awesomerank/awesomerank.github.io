@@ -121,7 +121,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [gifanimateddrawable ★219 ⏳3Y](https://github.com/Hipmob/gifanimateddrawable) - Use an animated GIF as an Android Drawable
 - [GifView ★79 ⏳4Y](https://github.com/RoiSoleil/GifView) - android library to deal with GIF
 - [Gif Movie View ★444 ⏳1Y](https://github.com/sbakhtiarov/gif-movie-view) - Android View widget for displaying GIF animations
-- [GifImageView ★895](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images
+- [GifImageView ★913](https://github.com/felipecsl/GifImageView) - Android ImageView that handles animated GIF images
 - [Gif-animation ★103](https://github.com/extrapixel/gif-animation) - Processing library to play and export GIF
 - [Android-gif-encoder ★208 ⏳5Y](https://github.com/nbadal/android-gif-encoder) - animated GIF encoder for Android
 - [GIFDroid ★91 ⏳2Y](https://github.com/quackware/GIFDroid) - Android video to GIF converter
@@ -144,9 +144,9 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### PHP
 
-- [GifCreator ★237](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images
+- [GifCreator ★239](https://github.com/Sybio/GifCreator) - PHP class that creates animated GIF from multiple images
 - [Spacer.gif ★16 ⏳1Y](https://github.com/msng/spacer.gif) - PHP script offering spacer.gif 1x1
-- [GifFrameExtractor ★97 ⏳1Y](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF
+- [GifFrameExtractor ★98 ⏳1Y](https://github.com/Sybio/GifFrameExtractor) - PHP class that separates all the frames of an animated GIF
 
 #### Objective-C
 

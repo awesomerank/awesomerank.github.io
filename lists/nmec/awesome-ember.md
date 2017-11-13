@@ -34,7 +34,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 ## Tools
 
 - [Ember-cli](http://ember-cli.com/) - 'The command line interface for ambitious web applications' - Officially maintained.
-- [Ember Inspector ★837](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
+- [Ember Inspector ★841](https://github.com/emberjs/ember-inspector) - Adds an Ember tab to Chrome or Firefox Developer Tools that allows you to inspect Ember objects in your application. - Officially maintained.
 - [gulp-ember-handlebars ★12 ⏳3Y](https://github.com/fuseelements/gulp-ember-handlebars) - Compiles Handlebars templates to JS ready for Ember.
 - [Ember Data Sails Adapter ★90 ⏳2Y](https://github.com/bmac/ember-data-sails-adapter) - An Ember data adaptor for the Sails.js sockets.
 - [Ember Data WordPress Adapter ★39 ⏳3Y](https://github.com/HeyHumanAgency/Ember-Data-WordPress) - An Ember data adapter for the WordPress JSON API.
@@ -49,7 +49,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [Getting into Ember.js](http://code.tutsplus.com/tutorials/getting-into-emberjs--net-30709) - A five part introductory course to Ember.
 - [Ember Components: A Deep Dive](http://code.tutsplus.com/tutorials/ember-components-a-deep-dive--net-35551) - A closer look at using Ember Components.
 - [Getting Started with Ember.js using Ember CLI](http://thetechcofounder.com/getting-started-with-ember-js-using-ember-cli/) - Building a Todo app with Ember CLI.
-- [Ember runloop handbook ★346](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember JS runloop.
+- [Ember runloop handbook ★348](https://github.com/eoinkelly/ember-runloop-handbook) - A deep dive into the Ember JS runloop.
 - [Ember with Phoenix (AKA The PEEP Stack)](https://medium.com/peep-stack) - Developing an Ember front-end alongside a [JSON API](http://jsonapi.org/)-compliant [Phoenix](http://www.phoenixframework.org/) backend.
 
 ## Screencasts
@@ -111,8 +111,8 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 
 ### UI Components
 
-- [ember-cli-flash ★315](https://github.com/poteto/ember-cli-flash) — simple, highly configurable flash messages for ember-cli.
-- [ember-modal-dialog ★333](https://github.com/yapplabs/ember-modal-dialog) — components to implement modal dialogs throughout an Ember application using a simple, consistent pattern.
+- [ember-cli-flash ★319](https://github.com/poteto/ember-cli-flash) — simple, highly configurable flash messages for ember-cli.
+- [ember-modal-dialog ★338](https://github.com/yapplabs/ember-modal-dialog) — components to implement modal dialogs throughout an Ember application using a simple, consistent pattern.
 - [ui-bootstrap](https://www.npmjs.com/package/ui-bootstrap) — collection of Bootstrap components: label, pill, progressbar, card, navbar. Includes Bootstrap 4 SASS as bower dependency.
 - [ui-button](https://www.npmjs.com/package/ui-button) — customizable button component with Bootstrap theme.
 - [ui-datepicker](https://www.npmjs.com/package/ui-datepicker) — customizable datepicker component.
@@ -126,7 +126,7 @@ See also: [Built with Ember](http://builtwithember.io/) and [16 Opensource Ember
 - [ember-cli-stylist](https://www.npmjs.com/package/ember-cli-stylist) — provide HTML style attributes dynamically and safely.
 - [ember-i18n](https://www.npmjs.com/package/ember-i18n) — internationalization for your Ember application.
 - [ember-tether ★108](https://github.com/yapplabs/ember-tether) — a component that allows for 'tethering' a block to a target somewhere else on the page.
-- [ember-wormhole ★244](https://github.com/yapplabs/ember-wormhole) — a component that allows for rendering a block to a DOM element somewhere else on the page.
+- [ember-wormhole ★249](https://github.com/yapplabs/ember-wormhole) — a component that allows for rendering a block to a DOM element somewhere else on the page.
 
 ### Testing
 

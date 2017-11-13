@@ -53,7 +53,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Language Bindings
 
 * [Flambo ★522](https://github.com/yieldbot/flambo) - Clojure DSL.
-* [Mobius ★663](https://github.com/Microsoft/Mobius) - C# bindings.
+* [Mobius ★675](https://github.com/Microsoft/Mobius) - C# bindings.
 * [sparklyr](https://github.com/rstudio/sparklyr) - An alternative R backend, using [`dplyr`](https://github.com/hadley/dplyr).
 * [sparkle ★273](https://github.com/tweag/sparkle) - Haskell on Apache Spark.
 
@@ -77,7 +77,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 * [Spark Cassandra Connector ★1287](https://github.com/datastax/spark-cassandra-connector) - Cassandra support including data source and API and support for arbitrary queries.
 * [Spark Riak Connector ★35](https://github.com/basho/spark-riak-connector) - Riak TS & Riak KV connector.
 * [Mongo-Spark ★306](https://github.com/mongodb/mongo-spark) - Official MongoDB connector.
-* [OrientDB-Spark ★3](https://github.com/orientechnologies/spark-orientdb) - Official OrientDB connector.
+* [OrientDB-Spark ★4](https://github.com/orientechnologies/spark-orientdb) - Official OrientDB connector.
 
 ### Bioinformatics
 
@@ -143,7 +143,7 @@ Users of Apache Spark may choose between different the Python, R, Scala and Java
 ### Testing
 
 * [spark-testing-base ★581](https://github.com/holdenk/spark-testing-base) - Collection of base test classes.
-* [spark-fast-tests ★9](https://github.com/MrPowers/spark-fast-tests) - A lightweight and fast testing framework.
+* [spark-fast-tests ★11](https://github.com/MrPowers/spark-fast-tests) - A lightweight and fast testing framework.
 
 ### Workflow Management
 

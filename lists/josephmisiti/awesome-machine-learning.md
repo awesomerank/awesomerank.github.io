@@ -454,7 +454,7 @@ Further resources:
 * [chartjs](http://www.chartjs.org/)
 * [dimple](http://dimplejs.org/)
 * [amCharts](https://www.amcharts.com/)
-* [D3xter ★347 ⏳1Y](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3.
+* [D3xter ★346 ⏳1Y](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3.
 * [statkit ★42 ⏳2Y](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript.
 * [datakit ★291](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
 * [science.js ★748 ⏳1Y](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
@@ -804,12 +804,12 @@ be
 <a name="php-nlp"></a>
 ### Natural Language Processing
 
-* [jieba-php ★425](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
+* [jieba-php ★444](https://github.com/fukuball/jieba-php) - Chinese Words Segmentation Utilities.
 
 <a name="php-general-purpose"></a>
 ### General-Purpose Machine Learning
 
-* [PHP-ML ★4347](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
+* [PHP-ML ★4595](https://github.com/php-ai/php-ml) - Machine Learning library for PHP. Algorithms, Cross Validation, Neural Network, Preprocessing, Feature Extraction and much more in one library.
 * [PredictionBuilder ★71](https://github.com/denissimon/prediction-builder) - A library for machine learning that builds predictions using a linear regression.
 
 <a name="python"></a>

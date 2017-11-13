@@ -406,7 +406,7 @@ These frameworks make customizing your zsh setup easier.
 * [pctl ★5](https://github.com/ytet5uy4/pctl) - Toggle the environment variables for proxying.
 * [peco-history ★16](https://github.com/jimeh/zsh-peco-history) - Search shell history with Peco when pressing ctrl+r.
 * [pg](https://github.com/caarlos0/zsh-pg) - Adds utility functions to work with PosgreSQL.
-* [phpcs.plugin.zsh](https://github.com/voronkovich/phpcs.plugin.zsh) - Plugin for [PHP code sniffer ★3973](https://github.com/squizlabs/PHP_CodeSniffer).
+* [phpcs.plugin.zsh](https://github.com/voronkovich/phpcs.plugin.zsh) - Plugin for [PHP code sniffer ★4081](https://github.com/squizlabs/PHP_CodeSniffer).
 * [phpunit.plugin.zsh ★1](https://github.com/voronkovich/phpunit.plugin.zsh) - Plugin for [PHPUnit](https://phpunit.de/).
 * [pip-app ★24](https://github.com/sharat87/pip-app) - Makes it easy to install python applications into distinct virtualenvs so they don't conflict with any other python requirements on your system.
 * [plugin-ibtool ★0 ⏳4Y](https://github.com/RudthMael/zsh-plugin-ibtool) - Adds ibtool shortcuts to generate localized XIB files.
@@ -638,6 +638,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [gitsome](https://github.com/mtully/gitsome) - Super simple prompt with git info, optimized for the [Flat Terminal ★548 ⏳4Y](https://github.com/ahmetsulek/flat-terminal) color scheme.
 * [gitster](https://github.com/shashankmehta/dotfiles/blob/master/thesetup/zsh/.oh-my-zsh/custom/themes/gitster.zsh-theme) - When in a git repo, it shows the location from the git's root folder. When not in a git repo, it shows the path relative to home, `~`.
 * [glimmer ★1 ⏳2Y](https://github.com/martnu/glimmer) - Includes git branch, time and user@host.
+* [guri](https://github.com/victorfsf/guri) - A Simple and fast Oh-My-Zsh theme, based on [Pure ★4024](https://github.com/sindresorhus/pure)'s design.
 * [hacker-quotes ★16](https://github.com/oldratlee/hacker-quotes) - Outputs a hacker quote randomly when you open a terminal.
 * [hackersaurus](https://github.com/bhilburn/hackersaurus) - A theme with git status and exit code of last command run embedded in the prompt. Related to [powerlevel9k ★2969](https://github.com/bhilburn/powerlevel9k).
 * [haribo ★4 ⏳2Y](https://github.com/haribo/omz-haribo-theme) - Simple git status + timestamp in prompt.
@@ -729,6 +730,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [rzh ★1 ⏳1Y](https://github.com/patwhatev/rzh) - Theme with git states indicated by emojis.
 * [schminitz](https://gist.github.com/schminitz/9931af23bbb59e772eec) - Shows if Vim is running in the background when using `:sh` command.
 * [seeker ★44 ⏳1Y](https://github.com/tonyseek/oh-my-zsh-seeker-theme) - This theme uses many special unicode characters to be fancy, but it may cause some problems without well supported fonts.
+* [seltzer ★0](https://github.com/GrantSeltzer/seltzer.zsh-theme) - Inspired by dieter theme, uses color-coding to provide information.
 * [sepshell ★11](https://github.com/sepehr/sepshell) - Clean and minimal ZSH theme based on the old lost taybalt theme, with git bisecting/merging/rebasing modes and configurable prompt symbols.
 * [sfz ★0](https://github.com/mreinhardt/sfz-prompt.zsh) - An evolution of lean prompt which itself is a rewrite of pure.
 * [shellder ★141](https://github.com/simnalamburt/shellder) - Minimal theme with git branch display. Requires a powerline font.

@@ -105,7 +105,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [ipfs ★1271](https://github.com/ipfs/js-ipfs) - Distributed file system that seeks to connect all computing devices with the same system of files.
 - [GitTorrent ★3740 ⏳2Y](https://github.com/cjb/GitTorrent) - Peer-to-peer network of Git repositories being shared over BitTorrent.
 - [stackgl](http://stack.gl) - Open software ecosystem for WebGL, built on top of browserify and npm.
-- [peerwiki ★258 ⏳2Y](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
+- [peerwiki ★258 ⏳3Y](https://github.com/mafintosh/peerwiki) - All of Wikipedia on BitTorrent.
 - [peercast ★347 ⏳3Y](https://github.com/mafintosh/peercast) - Stream a torrent video to Chromecast.
 - [BitcoinJS](http://bitcoinjs.org) - Clean, readable, proven Bitcoin library.
 - [Bitcore](https://bitcore.io) - Pure and powerful Bitcoin library.

@@ -27,7 +27,7 @@ title: Awesome Rank for Kikobeats/awesome-network-js
 * [peercast ★347 ⏳3Y](https://github.com/mafintosh/peercast) – Like peerflix but for Chromecast.
 * [peerflix ★4438](https://github.com/mafintosh/peerflix) – Streaming torrent client.
 * [peervisionary ★38 ⏳2Y](https://github.com/mafintosh/peervisionary) – Stream p2p content over your local network.
-* [peerwiki ★258 ⏳2Y](https://github.com/mafintosh/peerwiki) – browse all of wikipedia using bittorrent.
+* [peerwiki ★258 ⏳3Y](https://github.com/mafintosh/peerwiki) – browse all of wikipedia using bittorrent.
 * [screencat ★2022 ⏳1Y](https://github.com/maxogden/screencat) – WebRTC screensharing app.
 * [signalhub ★289](https://github.com/mafintosh/signalhub) – Simple signalling server that can be used to coordinate handshaking with webrtc or other fun stuff.
 * [torrent-mount ★1090 ⏳2Y](https://github.com/mafintosh/torrent-mount) – Mount a torrent (or magnet link) as a filesystem in real time using torrent-stream and fuse.

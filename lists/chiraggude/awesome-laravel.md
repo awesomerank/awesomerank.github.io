@@ -119,7 +119,7 @@ Inspired by [ziadoz/awesome-php ★17013](https://github.com/ziadoz/awesome-php)
 * [HTML ★1117](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
 * [Hyn/multi-tenant ★414](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of a.o. routes, assets and databases
 * [Laravel 5 form builder ★719](https://github.com/kristijanhusak/laravel-form-builder) - Form builder for Laravel 5 inspired by Symfony's form builder.
-* [Intervention Image ★5713](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
+* [Intervention Image ★5839](https://github.com/Intervention/image) - Image handling library for creating, editing and composing images
 * [Laravel Activitylog ★1117](https://github.com/spatie/laravel-activitylog) - Log activity inside your Laravel app
 * [Laravel Auditing ★648](https://github.com/owen-it/laravel-auditing) - Audit for Eloquent models
 * [Laravel Blade Javascript ★256](https://github.com/spatie/laravel-blade-javascript) - A Blade directive to export variables to JavaScript
@@ -144,7 +144,7 @@ Inspired by [ziadoz/awesome-php ★17013](https://github.com/ziadoz/awesome-php)
 * [Laravel Pjax ★285](https://github.com/spatie/laravel-pjax) - A pjax middleware for Laravel 5
 * [Laravel Responsecache ★516](https://github.com/spatie/laravel-responsecache) - Speed up a Laravel app by caching the entire response
 * [Laravel Snappy ★767](https://github.com/barryvdh/laravel-snappy) - HTML to PDF generator using wkhtmltopdf
-* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator using [dompdf ★3983](https://github.com/dompdf/dompdf)
+* [Laravel DOMPDF](https://github.com/barryvdh/laravel-dompdf) - HTML to PDF generator using [dompdf ★4056](https://github.com/dompdf/dompdf)
 * [Laravel Stapler ★520](https://github.com/CodeSleeve/laravel-stapler) - ORM-based file upload manager
 * [Laravel url signer ★388](https://github.com/spatie/laravel-url-signer) - Create and validate signed URLs with a limited lifetime
 * [Laravel Tail ★214](https://github.com/spatie/laravel-tail) - The missing tail command
@@ -152,7 +152,7 @@ Inspired by [ziadoz/awesome-php ★17013](https://github.com/ziadoz/awesome-php)
 * [Laravel Uptime Monitor ★421](https://github.com/spatie/laravel-uptime-monitor) - A powerful and easy to configure uptime and ssl monitor
 * [Laravel Stats Tracker ★1296](https://github.com/antonioribeiro/tracker) - Gather information from requests to identify and store
 * [Listify ★97](https://github.com/lookitsatravis/listify) - Add sorting/ordering capabilities to any Eloquent model
-* [noCAPTCHA ★168](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
+* [noCAPTCHA ★171](https://github.com/ARCANEDEV/noCAPTCHA) - Helper for Google's new noCAPTCHA (reCAPTCHA)
 * [Purifier ★639](https://github.com/mewebstudio/purifier) - HTMLPurifier for Laravel 5 - HTML filter
 * [Revisionable ★1384](https://github.com/VentureCraft/revisionable) - Create a revision history for Eloquent models
 * [SEOTools ★747](https://github.com/artesaos/seotools) - Helpers for some common SEO techniques
@@ -214,12 +214,12 @@ Inspired by [ziadoz/awesome-php ★17013](https://github.com/ziadoz/awesome-php)
 * [Dispatcher ★1017 ⏳1Y](https://github.com/indatus/dispatcher) - Scheduler for Artisan commands
 * [Elixir ★1086](https://github.com/laravel/elixir) - Node(NPM) package to run Gulp tasks that watch files, run tests, minify CSS, concatenate scripts etc.
 * [Mix ★1443](https://github.com/JeffreyWay/laravel-mix) - Laravel Mix provides a clean, fluent API for defining basic webpack build steps for your Laravel application. Mix supports several common CSS and JavaScript pre-processors.
-* [Envoy ★945](https://github.com/laravel/envoy) - SSH Task Runner
+* [Envoy ★960](https://github.com/laravel/envoy) - SSH Task Runner
 
 ##### Payments
 
 * [Cashier ★1121](https://github.com/laravel/cashier) - Subscription billing with Stripe
-* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay ★3771](https://github.com/thephpleague/omnipay) PHP library
+* [Omnipay for Laravel](https://github.com/ignited/laravel-omnipay) - Integrate the [Omnipay ★3817](https://github.com/thephpleague/omnipay) PHP library
 
 ##### Optimization
 
@@ -289,7 +289,7 @@ Inspired by [ziadoz/awesome-php ★17013](https://github.com/ziadoz/awesome-php)
 
 * [Envoyer](https://envoyer.io/) - Zero down-time Deployer for PHP & Laravel projects
  * [Deployments with Envoyer](https://laracasts.com/series/envoyer) (Laracasts)
-* [Rocketeer ★2505](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
+* [Rocketeer ★2522](https://github.com/rocketeers/rocketeer) - Task runner and deployment package
 
 ## Articles, Tutorials, Blogs etc.
 
@@ -445,7 +445,7 @@ Inspired by [ziadoz/awesome-php ★17013](https://github.com/ziadoz/awesome-php)
 * [Deployer ★566](https://github.com/REBELinBLUE/deployer) - Application deployment system
 * [GitScrum](https://github.com/renatomarinho/laravel-gitscrum) - Task management of the day-to-day. Git + Scrum = Team More Productive
 * [Invoice Ninja ★3132](https://github.com/invoiceninja/invoiceninja) - Invoicing, expenses, & time-tracking application
-* [Koel ★8235](https://github.com/phanan/koel) - Personal music streaming server
+* [Koel ★8386](https://github.com/phanan/koel) - Personal music streaming server
 * [Laravel Tricks ★917 ⏳1Y](https://github.com/CodepadME/laravel-tricks) - Source for the Laravel Tricks website
 * [Laravel.io](https://github.com/laravelio/laravel.io) - Source for the Laravel.io Community Portal
 * [Paperwork ★6114](https://github.com/twostairs/paperwork) - Note-taking & archiving application
@@ -457,7 +457,7 @@ Inspired by [ziadoz/awesome-php ★17013](https://github.com/ziadoz/awesome-php)
 * [Antvel ★245](https://github.com/ant-vel/App) - Ecommerce platform
 * [Jigsaw](http://jigsaw.tighten.co) - Static site generator
 * [Canvas](https://github.com/austintoddj/Canvas) - Minimal Blogging Application For Developers.
-* [Vuedo ★1494](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
+* [Vuedo ★1541](https://github.com/Vuedo/vuedo) - Vuedo is blog platform, built with Laravel and Vue.js
 * [Screeenly ★109](https://github.com/stefanzweifel/screeenly) - Create website screenshots through an API
 * [Voten ★686](https://github.com/voten-co/voten) - A real-time social bookmarking for the 21st century
 
@@ -475,7 +475,7 @@ Inspired by [ziadoz/awesome-php ★17013](https://github.com/ziadoz/awesome-php)
 * [Quarx ★353](https://github.com/yabhq/quarx)
 * [WebEd CMS ★343](https://github.com/sgsoft-studio/webed)
 * [Borgert CMS ★182](https://github.com/odirleiborgert/borgert-cms)
-* [PJ Blog ★1364](https://github.com/jcc/blog)
+* [PJ Blog ★1425](https://github.com/jcc/blog)
 * [Laralum](https://laralum.com/)
 
 ## Newsletters

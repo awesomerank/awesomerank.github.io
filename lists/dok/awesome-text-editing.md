@@ -16,7 +16,7 @@ A curated collection of text editing libraries, services, and resources for the 
 * [CKEditor](http://ckeditor.com/) - Started back in 2003. Has both iframe and inline style rich-text editing
 * [Squire ★3716](https://github.com/neilj/Squire) - HTML5 rich text editor
 * [ProseMirror](http://prosemirror.net/) - From the maker of CodeMirror
-* [Scribe ★3547](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team
+* [Scribe ★3557](https://github.com/guardian/scribe) - From the [Guardian](http://www.theguardian.com/) team
 * [Quill](http://quilljs.com/) - Quill is a free, open source WYSIWYG editor built for the modern web
 * [Summernote](http://summernote.org/) - Bootstrap dependent rich-text editor
 * [wysihtml](http://wysihtml.com/) - Made by Voog
@@ -26,13 +26,13 @@ A curated collection of text editing libraries, services, and resources for the 
 * [Textbox.IO](https://textbox.io/) - From the makers of TinyMCE
 * [Froala](https://www.froala.com/wysiwyg-editor) - A simple to use rich text editor, with mobile support, lots of examples, high performance and inline editing
 * [Redactor](http://imperavi.com/redactor/) - Advanced, clean and smooth, Redactor Rich Text Editor offers an excellent immersive user experience
-* [Ritzy ★802](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor
+* [Ritzy ★805](https://github.com/ritzyed/ritzy) - Collaborative web-based rich text editor
 * [Aloha Editor](http://www.alohaeditor.org/Content.Node/index.html) - Open Source browser based html5 enabled rich text editor
 * [WYMeditor](http://www.wymeditor.org/) - Open Source XHTML editor focusing on semantic markup
 * [Dijit Editor](http://dojotoolkit.org/) - a Dojo-based rich text editor component
 * [YUI Rich Text Editor](http://yui.github.io/yui2/) - a Yahoo! rich text editor component
-* [KindEditor ★1076](https://github.com/kindsoft/kindeditor) - Open Source HTML editor
-* [Hallo ★2469](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
+* [KindEditor ★1101](https://github.com/kindsoft/kindeditor) - Open Source HTML editor
+* [Hallo ★2470](https://github.com/bergie/hallo) - Simple rich text editor (contentEditable) for jQuery UI
 * [markitup](http://markitup.jaysalvat.com/home/) - universal markup jQuery editor
 * [openwysiwyg](http://www.openwebware.com/) - Free cross-browser WYSIWYG editor
 * [tejQuery](http://jqueryte.com/) - Lightweight (19.5 KB) and very useful HTML editor
@@ -52,7 +52,7 @@ A curated collection of text editing libraries, services, and resources for the 
 
 ## Markdown editors
 
-* [markdown-js ★6234](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
+* [markdown-js ★6308](https://github.com/evilstreak/markdown-js) - A Markdown parser for javascript
 * [pagedown](https://code.google.com/p/pagedown/wiki/PageDown) - PageDown is the JavaScript Markdown previewer used on Stack Overflow and the rest of the Stack Exchange network
 
 ## Heuristic for contenteditable rich-text editors

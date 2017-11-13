@@ -132,7 +132,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [circle2slack ★1 ⏳4Y](https://github.com/dstrelau/circle2slack) - Proxy CircleCI webhooks to Slack
 - [enotify-slack ★24 ⏳1Y](https://github.com/daikikohara/enotify-slack) - A tool to get event information and send it to Slack
 - [gdrive2slack ★77 ⏳1Y](https://github.com/optionfactory/gdrive2slack) - Frictionless integration between Google Drive and Slack
-- [go-bot ★22 ⏳1Y](https://github.com/fabioxgn/go-bot) - IRC bot written in go
+- [go-bot ★22 ⏳2Y](https://github.com/fabioxgn/go-bot) - IRC bot written in go
 - [hal ★273 ⏳1Y](https://github.com/danryan/hal) - A chat bot in Go
 - [hipchat-notifications-to-slack ★17 ⏳2Y](https://github.com/agerlic/hipchat-notifications-to-slack) - forward notifications from HipChat to Slack
 - [marvin ★20 ⏳1Y](https://github.com/RobotsAndPencils/marvin) - Slack bot written in Go
@@ -170,7 +170,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 ### Java
 
 - [AcraSlack ★8 ⏳2Y](https://github.com/tolmachevroman/AcraSlack) - Sample project for Android Studio showing how to implement ACRA and Slack integration
-- [gitblit-slack-plugin ★5 ⏳1Y](https://github.com/gitblit/gitblit-slack-plugin) - Post Gitblit events to a Slack channel
+- [gitblit-slack-plugin ★5 ⏳2Y](https://github.com/gitblit/gitblit-slack-plugin) - Post Gitblit events to a Slack channel
 - [rundeck-slack-incoming-webhook-plugin ★52 ⏳1Y](https://github.com/higanworks/rundeck-slack-incoming-webhook-plugin) - A Rundeck Plugin for Slack Incoming WebHooks
 - [rundeck-slack-plugin ★30 ⏳1Y](https://github.com/bitplaces/rundeck-slack-plugin) - A Rundeck Plugin for Slack
 - [simple-slack-api ★327](https://github.com/Ullink/simple-slack-api) - A Slack client library in Java
@@ -319,7 +319,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [make-it-rain ★304 ⏳1Y](https://github.com/fitztrev/make-it-rain) - Animated gif notifications whenever you get paid through Stripe
 - [MantisBT-Slack ★40](https://github.com/infojunkie/MantisBT-Slack) - MantisBT plugin to send bug updates to Slack
 - [mediawiki-slack ★37 ⏳1Y](https://github.com/grundleborg/mediawiki-slack) - Mediawiki integration for Slack
-- [monolog ★6553](https://github.com/Seldaek/monolog) - Sends your logs to Slack
+- [monolog ★6656](https://github.com/Seldaek/monolog) - Sends your logs to Slack
 - [notifyme ★175](https://github.com/notifymehq/notifyme) - Provides a common interface for notification services
 - [opauth-slack ★1 ⏳2Y](https://github.com/t1mmen/opauth-slack) - Slack authentication strategy for Opauth
 - [phlack ★53 ⏳1Y](https://github.com/mcrumm/phlack) - PHP API Wrapper

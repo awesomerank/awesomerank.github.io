@@ -888,6 +888,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Announcing Serverless workshops](https://serverless.com/blog/announcing-serverless-workshops/) - Announcement blog post about the [Serverless Workshops](https://serverless.com/workshops/) program.
 - [The serverless guide to AWS re:Invent 2017](https://serverless.com/blog/serverless-guide-aws-reinvent-2017/) - Post about all things serverless at AWS re:invent 2017.
 - [Birth of the NearCloud](http://highscalability.com/blog/2017/11/6/birth-of-the-nearcloud-serverless-crdts-edge-is-the-new-next.html) - Post about the SAE (Serverless@Edge) technology and it's potential.
+- [Functions vs. Containers](https://medium.com/oracledevs/containers-vs-functions-51c879216b97) - Post about the similarities and differences between serverless and container technologies.
 
 ## Screencasts
 
@@ -934,6 +935,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [FaaS performance comparison](https://www.youtube.com/watch?v=JS2h8pmqsww) - Comparing serverless function performance.
 - [Introduction to Kubeless](https://www.youtube.com/watch?v=ROA7Ig7tD5s) - Video which introduces the Kubeless project and their Serverless Framework integration.
 - [What's new in Serverless v1.22](https://www.youtube.com/watch?v=ykkeliDAs-c) - Video walkthrough about all the new features in Serverless v1.22.
+- [Kuhiro: Birth of the NearCloud](https://www.youtube.com/watch?v=BQXCn6xBYzA) - Video which explains the concepts of NearCloud.
 
 ## Talks
 
@@ -1077,6 +1079,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [No-Side JavaScript and the serverless revolution (UtahJS)](https://www.youtube.com/watch?v=LIGpu7Bbfr8) - Talk by Ryan H. Lewis about the serverless revolution at UtahJS conference 2017.
 - [Develop serverless apps with AWS Lambda and Azure Functions](https://vimeo.com/208056992) - Raj Wilkhus talk on how to use AWS Lambda and Azure Functions to develop serverless applications.
 - [Who’s in charge of automated security](https://thenewstack.io/lori-macvittie-f5-networks-whos-charge-automated-security/) - Podcast about automated security in a serverless world.
+- [Does serverless have a place in DevOps?](https://thenewstack.io/serverless-abstract-architectures-place-devops/) - Podcast about serverless computing in a DevOps context.
 
 ## Amazon AWS resources
 
@@ -1177,7 +1180,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Redirect example ★6 ⏳1Y](https://github.com/GorillaStack/serverless-redirect-example) - Example of how to implement redirects in the Serverless framework.
 - [Meetup event collector ★7](https://github.com/mavi888/meetup-event-collector-node) - Node project to collect events and create a calendar feed of meetup events.
 - [Yesterdaytabase ★16 ⏳1Y](https://github.com/ryansb/yesterdaytabase) - Cascade data from production to staging with AWS RDS and Lambda.
-- [Serverless dotenv WSGI ★2](https://github.com/braahyan/serverless-dotenv-wsgi) - Demonstrating the use of the `serverless-wsgi` plugin and the `serverless-plugin-dotenv` plugin.
+- [Serverless dotenv WSGI ★2 ⏳1Y](https://github.com/braahyan/serverless-dotenv-wsgi) - Demonstrating the use of the `serverless-wsgi` plugin and the `serverless-plugin-dotenv` plugin.
 - [Serverless PHP ★49](https://github.com/ZeroSharp/serverless-php) - Example using an AWS Lambda which runs a PHP function.
 - [Newsletter Signup ★8](https://github.com/ivanderbu2/serverless-newsletter-signup) - Newsletter Signup API in Serverless.
 - [Express Serverless Boilerplate ★3](https://github.com/SharathHuddar/express-serverless-boilerplate) - A simple boilerplate for using expressjs with serverless v1.2.1.
@@ -1631,12 +1634,14 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Offline SNS ★7](https://github.com/mj1618/serverless-offline-sns) - Run an SNS server and call Lambdas with events notifications.
 - [Alibaba Cloud Function Compute ★12](https://github.com/aliyun/serverless-aliyun-function-compute) - Alibaba Cloud Function Compute Plugin – Add Alibaba Cloud Function Compute support to the Serverless Framework.
 - [Bootstrap ★5](https://github.com/dougmoscrop/serverless-plugin-bootstrap) - Checks that the environment around your Serverless service has been set up and is up-to-date.
-- [API docs ★1](https://github.com/8select/serverless-plugin-api-docs) - Automatically create a Lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.
+- [API docs ★6](https://github.com/8select/serverless-plugin-api-docs) - Automatically create a Lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.
 - [SSM fetch ★3](https://github.com/gozup/serverless-ssm-fetch) - Sets SSM parameters into function environment variables.
 - [Secrets ★26](https://github.com/serverless/serverless-secrets-plugin) - Plugin to manage Secrets.
 - [State manager ★3](https://github.com/jeremydaly/serverless-stage-manager) - Super simple plugin for validating stage names before deployment.
 - [StackStorm ★2](https://github.com/StackStorm/serverless-plugin-stackstorm) - Run StackStorm actions serverless and stackstormless.
 - [SPA ★4](https://github.com/gilmarsquinelato/serverless-spa) - Deploy your static website with webpack to AWS using the Serverless Framework.
+- [AWS resource names ★1](https://github.com/concon121/serverless-plugin-aws-resource-names) - Enable custom AWS resource names.
+- [Nested stacks ★1](https://github.com/concon121/serverless-plugin-nested-stacks) - Nested stacks support.
 
 ## Literature / Education
 

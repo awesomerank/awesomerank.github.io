@@ -140,6 +140,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
    - [[https://github.com/ReanGD/emacs-multi-compile][multi-compile]] - Multi target interface to compile.
    - [[https://github.com/rakanalh/emacs-dashboard][Dashboard]] - A startup dashboard which provides certain information about your recent Emacs activities.
    - [[HTTPS://github.com/ch11ng/exwm][EXWM]] - EXWM turns Emacs into a full-featured tiling X window manager.
+   - [[https://github.com/cyrus-and/zoom][Zoom]] - Fixed and automatic balanced window layout for Emacs.
 
 ** File Manager
 
@@ -333,7 +334,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
      - [[https://github.com/clojure-emacs/clj-refactor.el][clj-refactor.el]] - A collection of Clojure refactoring functions for Emacs.
 
 **** Emacs Lisp
-
+     - [[https://github.com/Fanael/highlight-defined][highlight-defined]] - Highlight defined functions' / variables' name.
      - [[https://www.emacswiki.org/emacs/InferiorEmacsLispMode][ielm]] - =[built-in]= A simple Emacs Lisp REPL.
      - [[https://github.com/Silex/elmacro][elmacro]] - Display keyboard macros or latest interactive commands as Emacs Lisp.
      - [[https://github.com/Wilfred/suggest.el][suggest.el]] - Discover elisp functions that do what you want.

@@ -240,7 +240,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Polydoxical ★0](https://github.com/kirkbyo/Polydoxical) - Interactive playground to experiment with roulettes and polygons.
 * [Abstract Algebra ★42](https://github.com/taketo1024/SwiftyAlgebra) - Abstract algebra concepts implemented in Swift.
 * [Swift Accelerate ★89](https://github.com/haginile/SwiftAccelerate) - Using the Accelerate framework and Swift for Linear Algebra. ⏳
-* [Swifty Mathematics ★1](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics. ⏳
+* [Swifty Mathematics ★1 ⏳1Y](https://github.com/DylanModesitt/swiftyMathematics) - A collection of swift playground about mathematics. ⏳
 * [Numerical Algorithms](https://www.raywenderlich.com/99559/numeric-algorithms-using-playgrounds) - Numerical argorithms playground from Ray Wenderlich. ⏳
 
 ## Libraries and APIs

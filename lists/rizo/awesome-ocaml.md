@@ -426,15 +426,15 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 
 ## Regular Expressions
 
-- [Re ★88](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
-- [ocaml-pcre ★12](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
+- [Re ★89](https://github.com/ocaml/ocaml-re) – a pure OCaml regular expressions library with combinators, supporting several formats (glob, posix, str...)
+- [ocaml-pcre ★14](https://github.com/mmottl/pcre-ocaml) – bindings to the PCRE library (perl-compatible regular expressions)
 - [Humane-re ★16 ⏳2Y](https://github.com/rgrinberg/humane-re) – Humane-re attempts to provide an easy interface for 90% of your regex needs Courtesy of ocaml-re
-- [Tyre ★94](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
+- [Tyre ★95](https://github.com/Drup/tyre) - Tyre is a set of combinators to build type-safe regular expressions, allowing automatic extraction and modification of matched groups.
 
 
 ## Security
 
-- [ocaml-tls ★185](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
+- [ocaml-tls ★188](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
 - [cryptokit ★19](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
 - [nocrypto ★55](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
 
@@ -448,19 +448,19 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 
 ## Serialization
 
-- [bencode ★8 ⏳3Y](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
+- [bencode ★9 ⏳3Y](https://github.com/rgrinberg/bencode) — Bencode (.torrent file format) reader/writer.
 - [biniou ★24](https://github.com/mjambon/biniou) – Extensible binary data format, like JSON but faster.
 - [jsonm](http://erratique.ch/software/jsonm) — Non-blocking streaming JSON codec for OCaml.
 - [xmlm](http://erratique.ch/software/xmlm) — A streaming codec to decode and encode the XML data format.
 - [yojson ★84](https://github.com/mjambon/yojson) — An optimized parsing and printing library for the JSON format.
-- [sexplib ★57](https://github.com/janestreet/sexplib) – A S-expression parser and printer
+- [sexplib ★62](https://github.com/janestreet/sexplib) – A S-expression parser and printer
 
 
 ## System Programming
 
-- [Mirage OS ★966](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
-- [ocaml-fat ★10](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
-- [ocaml-git ★157](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
+- [Mirage OS ★979](https://github.com/mirage/mirage) – Mirage is a programming framework for constructing secure, high-performance network applications across a variety of cloud computing and mobile platforms.
+- [ocaml-fat ★9](https://github.com/mirage/ocaml-fat) – Read and write FAT format filesystems from OCaml.
+- [ocaml-git ★158](https://github.com/mirage/ocaml-git) – Pure OCaml low-level git bindings.
 - [ocaml-vchan ★25](https://github.com/mirage/ocaml-vchan) – Pure OCaml implementation of the "vchan" shared-memory communication protocol.
 
 
@@ -468,7 +468,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 
 - [Alcotest ★0](https://github.com/samoht/alcotest) – A lightweight and colourful test framework.
 - [OUnit](http://ounit.forge.ocamlcore.org/) – OUnit is a unit test framework for OCaml. It allows one to easily create unit-tests for OCaml code. It is based on HUnit, a unit testing framework for Haskell.
-- [QCheck ★57](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
+- [QCheck ★58](https://github.com/c-cube/qcheck) — QCheck is a property testing library inspired from Haskell's QuickCheck
 - [iTeML ★36](https://github.com/vincent-hugot/iTeML) (formerly known as [qtest](http://batteries.vhugot.com/qtest/))  — supports inline pragma's to generate tests.
 - [Kaputt](http://kaputt.x9c.fr) —  comprehensive testing framework.
 - [Pa_test](https://ocaml.janestreet.com/ocaml-core/111.28.00/doc/pa_test) —  General inline testing macro's.
@@ -478,10 +478,10 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 ## Web Development
 
 - **Frameworks**:
-  - [Opium ★281](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
+  - [Opium ★290](https://github.com/rgrinberg/opium) – Sinatra like web toolkit for OCaml.
   - [Ocsigen Eliom](http://ocsigen.org/eliom/) – Eliom is a full-featured multi-tier framework, for developing multi-platform Web and mobile apps as 100% OCaml distributed applications. It can also be used for more traditional Web or mobile apps: Web sites, single page applications, REST API, etc.
   - [Ohm](http://ohm-framework.com/) - Ohm was an open source web framework for the OCaml language which is now dead.
-  - [webmachine ★115](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
+  - [webmachine ★118](https://github.com/inhabitedtype/ocaml-webmachine) – A REST toolkit for OCaml. OCaml webmachine is a layer on top of cohttp that implements a state-machine-based HTTP request processor. It's particularly well-suited for writing RESTful APIs. As the name suggests, this is an OCaml port of the webmachine project.
 
 - **Tools**:
   - [COW ★75](https://github.com/mirage/ocaml-cow) – Caml on the Web (COW) is a set of parsers and syntax extensions to let you manipulate HTML, CSS, XML, JSON and Markdown directly from OCaml code.
@@ -501,16 +501,16 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
   - [js_of_ocaml](http://ocsigen.org/js_of_ocaml) – Js_of_ocaml is a compiler of OCaml bytecode to Javascript. It makes it possible to run Ocaml programs in a Web browser.
     - [commonjs_of_ocaml ★9 ⏳1Y](https://github.com/AngryLawyer/commonjs_of_ocaml) - Easily import and export CommonJS modules from a js_of_ocaml project.
   - [BuckleScript](https://github.com/bloomberg/bucklescript) - BuckleScript is backend for OCaml to generate debuggable Javascript. It enables OCaml to integrate Javascript platform in a seamless way.
-  - [ocaml-uri ★38](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
+  - [ocaml-uri ★39](https://github.com/mirage/ocaml-uri) – RFC3986 URI parsing library.
   - [Goji ★29 ⏳3Y](https://github.com/klakplok/goji) – An OCaml bindings generator for JavaScript libraries.
   - [Syndic ★22](https://github.com/Cumulus/Syndic) – RSS and Atom feed parsing
   - [ocaml-mustache ★27](https://github.com/rgrinberg/ocaml-mustache) – mustache.js logic-less templates in OCaml.
   - [atdjs ★10 ⏳4Y](https://github.com/barko/atdjs) – atd code generator for OCaml/js_of_ocaml.
   - [jingoo ★51](https://github.com/tategakibunko/jingoo) – OCaml template engine almost compatible with jinja2.
-  - [dispatch ★20](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
-  - [Lambda Soup ★140](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
-  - [Markup.ml ★76](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
-  - [gen_js_api ★62](https://github.com/LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
+  - [dispatch ★22](https://github.com/inhabitedtype/ocaml-dispatch) – Path-based dispatching for client- and server-side applications.
+  - [Lambda Soup ★146](https://github.com/aantron/lambda-soup) - Functional HTML scraping and manipulation with CSS selectors, à la Python's Beautiful Soup.
+  - [Markup.ml ★77](https://github.com/aantron/markup.ml) - Error-recovering streaming HTML5 and XML parsers, serializers.
+  - [gen_js_api ★64](https://github.com/LexiFi/gen_js_api) - gen_js_api aims at simplifying the creation of OCaml bindings for Javascript libraries.
 
 - **Open Source Projects**:
   - [Cumulus ★36 ⏳2Y](https://github.com/Cumulus/Cumulus) – Hacker news like website with the OCaml framework Ocsigen

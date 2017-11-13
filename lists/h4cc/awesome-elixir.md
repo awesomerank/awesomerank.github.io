@@ -182,7 +182,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [sorted_set ★14](https://github.com/SenecaSystems/sorted_set) - Sorted Sets for Elixir.
 * [spacesaving ★2 ⏳1Y](https://github.com/rozap/spacesaving) - stream count distinct element estimation using the "space saving" algorithm.
 * [structurez ★11 ⏳2Y](https://github.com/hamiltop/structurez) - A playground for data structures in Elixir.
-* [supermemo ★5 ⏳2Y](https://github.com/edubkendo/supermemo) - An Elixir implementation of the [Supermemo 2 algorithm](https://www.supermemo.com/english/ol/sm2.htm).
+* [supermemo ★5 ⏳3Y](https://github.com/edubkendo/supermemo) - An Elixir implementation of the [Supermemo 2 algorithm](https://www.supermemo.com/english/ol/sm2.htm).
 * [tfidf ★11 ⏳2Y](https://github.com/OCannings/tf-idf) - An Elixir implementation of term frequency–inverse document frequency.
 * [the_fuzz ★32](https://github.com/smashedtoatoms/the_fuzz) - Fuzzy string-matching algorithm implementations.
 * [tinymt ★26](https://github.com/jj1bdx/tinymt-erlang) - Tiny Mersenne Twister (TinyMT) for Erlang.
@@ -609,7 +609,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Libraries and implementations for working with files and directories.*
 
 * [arc ★677](https://github.com/stavro/arc) - Flexible file upload and attachment library for Elixir.
-* [cassius ★7 ⏳1Y](https://github.com/jquadrin/cassius) - Monitor Linux file system events.
+* [cassius ★7 ⏳2Y](https://github.com/jquadrin/cassius) - Monitor Linux file system events.
 * [dir_walker ★20 ⏳1Y](https://github.com/pragdave/dir_walker) - DirWalker lazily traverses one or more directory trees, depth first, returning successive file names.
 * [elixgrep ★27](https://github.com/bbense/elixgrep) - A framework for doing Hadoop style Map/Reduce operations on collections of files.
 * [ex_guard ★51](https://github.com/slashmili/ex_guard) - ExGuard is a mix command to handle events on file system modifications.
@@ -1259,7 +1259,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mock ★264](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 * [pavlov ★127 ⏳1Y](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
 * [plug_test_helpers ★9 ⏳2Y](https://github.com/xavier/plug_test_helpers) - A simple testing DSL for Plugs.
-* [ponos ★100 ⏳1Y](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
+* [ponos ★100 ⏳2Y](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
 * [power_assert ★143](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
 * [proper ★553](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.
 * [setup_tag ★1 ⏳1Y](https://github.com/vic/setup_tag) - Easily mix and match functions marked with tags to setup your test context.
@@ -1363,7 +1363,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cashier ★18](https://github.com/swelham/cashier) - Payment gateway offering a common interface into multiple payment providers.
 * [cleverbot ★3 ⏳1Y](https://github.com/BlakeWilliams/Elixir-Cleverbot) - Simple implementation of the Cleverbot API in Elixir.
 * [coinbase ★8 ⏳2Y](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
-* [commerce_billing ★126](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
+* [commerce_billing ★126 ⏳1Y](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
 * [currently ★4 ⏳1Y](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 * [darkskyx ★3](https://github.com/techgaun/darkskyx) - A Darksky.com (formerly forecast.io) API client for Elixir.
 * [digitalocean ★12 ⏳1Y](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
@@ -1389,7 +1389,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_statsd ★87](https://github.com/CargoSense/ex_statsd) - A statsd client implementation for Elixir.
 * [ex_twilio ★134](https://github.com/danielberkompas/ex_twilio) - Twilio API client for Elixir.
 * [ex_twiml ★20](https://github.com/danielberkompas/ex_twiml) - Generate TwiML for your Twilio integration, right inside Elixir.
-* [exdesk ★3 ⏳1Y](https://github.com/deadkarma/exdesk) - Elixir library for the Desk.com API.
+* [exdesk ★3 ⏳2Y](https://github.com/deadkarma/exdesk) - Elixir library for the Desk.com API.
 * [exfacebook ★15](https://github.com/oivoodoo/exfacebook) - Facebook API, written in Elixir using similar methods like Ruby koala gem.
 * [exgenius ★1 ⏳2Y](https://github.com/jeffweiss/exgenius) - Elixir library for the (undocumented) Rap Genius API.
 * [exgravatar ★13](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.

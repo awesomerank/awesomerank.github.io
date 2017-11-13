@@ -118,7 +118,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 
 * [django-compressor ★1945](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [django-gears ★55 ⏳2Y](https://github.com/gears/django-gears) - Compiles and concatenates JavaScript and CSS assets.
-* [django-htmlmin ★358](https://github.com/cobrateam/django-htmlmin) - HTML minifier for Python with full support for HTML 5 and Django.
+* [django-htmlmin ★361](https://github.com/cobrateam/django-htmlmin) - HTML minifier for Python with full support for HTML 5 and Django.
 * [django-pipeline ★1195](https://github.com/jazzband/django-pipeline) - Asset packaging for Django.
 * [django-systemjs ★42](https://github.com/sergei-maertens/django-systemjs) - Django SystemJS brings the Javascript of tomorrow to Django, today. (JSPM integration in Django)
 * [django-webpack-loader ★1059](https://github.com/ezhome/django-webpack-loader) - Transparent webpack integration for django.
@@ -216,7 +216,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-querycount ★103](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 * [django-silk ★1207](https://github.com/jazzband/silk) - Silky smooth profiling for Django
 * [nplusone ★293](https://github.com/jmcarp/nplusone) - Auto-detecting the n+1 queries problem in Django (and other ORMs)
-* [sentry ★14120](https://github.com/getsentry/sentry) - A modern error logging and aggregation platform.
+* [sentry ★14531](https://github.com/getsentry/sentry) - A modern error logging and aggregation platform.
 * [django-web-profiler ★26](https://github.com/MicroPyramid/django-web-profiler) - A django profiling tool which logs, stores debug toolbar statistics and also a set of URL's statistics using a management command.
 
 ## Email

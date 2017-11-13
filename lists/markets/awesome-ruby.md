@@ -409,7 +409,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Database Tools
 
-* [connection_pool ★942](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
+* [connection_pool ★953](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
 * [Database Cleaner ★2157](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner is a set of strategies for cleaning your database in Ruby.
 * [Foreigner ★1353](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
 * [Large Hadron Migrator ★1443](https://github.com/soundcloud/lhm) - Online MySQL schema migrations without locking the table.

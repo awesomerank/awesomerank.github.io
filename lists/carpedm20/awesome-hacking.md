@@ -107,7 +107,7 @@ For a list of free hacking books available for download, go [here ★1061](https
  * [JAD](http://varaneckas.com/jad/) - JAD Java Decompiler (closed-source, unmaintained)
  * [dotPeek](https://www.jetbrains.com/decompiler/) - a free-of-charge .NET decompiler from JetBrains
  * [ILSpy ★4021](https://github.com/icsharpcode/ILSpy) - an open-source .NET assembly browser and decompiler
- * [dnSpy ★3064](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger 
+ * [dnSpy ★3317](https://github.com/0xd4d/dnSpy) - .NET assembly editor, decompiler, and debugger 
  * [de4dot ★1795](https://github.com/0xd4d/de4dot) - .NET deobfuscator and unpacker. 
  * [antinet ★102 ⏳3Y](https://github.com/0xd4d/antinet) - .NET anti-managed debugger and anti-profiler code 
  * [UPX](http://upx.sourceforge.net/) - the Ultimate Packer for eXecutables

@@ -107,7 +107,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [deep-bind ★7 ⏳1Y](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
 * [identity-function ★6 ⏳1Y](https://github.com/substack/identity-function) - Always return the input argument. 
 * [mem ★301](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
-* [throttle-debounce ★129](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
+* [throttle-debounce ★134](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 
 ### Math
 

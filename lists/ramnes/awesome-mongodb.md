@@ -94,7 +94,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
  - [mongo-cxx-driver ★414](https://github.com/mongodb/mongo-cxx-driver) - Official C++ driver
 
 ### C#/.NET ###
- - [mongo-csharp-driver ★1674](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
+ - [mongo-csharp-driver ★1703](https://github.com/mongodb/mongo-csharp-driver) - Official C# driver
  - [mongo-queue-csharp ★24 ⏳2Y](https://github.com/dominionenterprises/mongo-queue-csharp) - C# message queue backed by MongoDB
  - [MongoDB Messaging ★38](https://github.com/loresoft/MongoDB.Messaging) - Lightweight queue pub/sub processing library
  - [MongoRepository ★195](https://github.com/RobThree/MongoRepository) - Repository abstraction layer on top of the C# driver

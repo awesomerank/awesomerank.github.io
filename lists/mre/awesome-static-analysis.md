@@ -49,7 +49,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 
 ## Awk
 
-* [gawk --lint](https://www.gnu.org/software/gawk/manual/html_node/Options.html) warns about constructs that are dubious or nonportable to other awk implementations.
+* [gawk --lint](https://www.gnu.org/software/gawk/manual/html_node/Options.html) - warns about constructs that are dubious or nonportable to other awk implementations.
 
 ## C/C++
 
@@ -186,29 +186,29 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [dephpend ★217](https://github.com/mihaeu/dephpend) - Dependency analysis tool
 * [deptrac ★539](https://github.com/sensiolabs-de/deptrac) - Enforce rules for dependencies between software layers.
 * [DesignPatternDetector ★74](https://github.com/Halleck45/DesignPatternDetector) - detection of design patterns in PHP code
-* [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - combine [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ★4903](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
-* [exakat ★84](https://github.com/exakat/exakat) - An automated code reviewing engine for PHP
-* [GrumPHP ★1919](https://github.com/phpro/grumphp) - checks code on every commit
-* [Mondrian ★335 ⏳2Y](https://github.com/Trismegiste/Mondrian) - a set of static analysis and refactoring tools which use graph theory
+* [EasyCodingStandard](https://github.com/Symplify/EasyCodingStandard) - combine [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer) and [PHP-CS-Fixer ★5015](https://github.com/FriendsOfPHP/PHP-CS-Fixer)
+* [exakat ★93](https://github.com/exakat/exakat) - An automated code reviewing engine for PHP
+* [GrumPHP ★1971](https://github.com/phpro/grumphp) - checks code on every commit
+* [Mondrian ★343 ⏳2Y](https://github.com/Trismegiste/Mondrian) - a set of static analysis and refactoring tools which use graph theory
 * [Parse ★166](https://github.com/psecio/parse) - A Static Security Scanner
 * [phan](https://github.com/etsy/phan) - a modern static analyzer from etsy
 * [Php Inspections (EA Extended) ★435](https://github.com/kalessil/phpinspectionsea) - A Static Code Analyzer for PHP.
-* [PHP Refactoring Browser ★549](https://github.com/QafooLabs/php-refactoring-browser) - Refactoring helper
-* [PHP-Parser ★3068](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
+* [PHP Refactoring Browser ★551](https://github.com/QafooLabs/php-refactoring-browser) - Refactoring helper
+* [PHP-Parser ★3122](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP
 * [PHP-Token-Reflection ★186](https://github.com/Andrewsville/PHP-Token-Reflection) - Library emulating the PHP internal reflection
 * [php7cc ★1181](https://github.com/sstalle/php7cc) - PHP 7 Compatibility Checker
 * [php7mar ★493](https://github.com/Alexia/php7mar) - assist developers in porting their code quickly to PHP 7
-* [PHP_CodeSniffer ★3973](https://github.com/squizlabs/PHP_CodeSniffer) - detects violations of a defined set of coding standards
-* [phpcpd ★1308](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
+* [PHP_CodeSniffer ★4081](https://github.com/squizlabs/PHP_CodeSniffer) - detects violations of a defined set of coding standards
+* [phpcpd ★1331](https://github.com/sebastianbergmann/phpcpd) - Copy/Paste Detector (CPD) for PHP code.
 * [phpdcd ★345 ⏳2Y](https://github.com/sebastianbergmann/phpdcd) - Dead Code Detector (DCD) for PHP code.
-* [PhpDependencyAnalysis ★280](https://github.com/mamuz/PhpDependencyAnalysis) - builds a dependency graph for a project
+* [PhpDependencyAnalysis ★282](https://github.com/mamuz/PhpDependencyAnalysis) - builds a dependency graph for a project
 * [phpdoc-to-typehint ★203](https://github.com/dunglas/phpdoc-to-typehint) - Add scalar type hints and return types to existing PHP projects using PHPDoc annotations
 * [PHPMD](https://phpmd.org/) - finds possible bugs in your code
 * [PhpMetrics](https://github.com/Halleck45/PhpMetrics) - calculates code complexity metrics
-* [PHPQA ★161](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics)
+* [PHPQA ★171](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics)
 * [phpqa ★324](https://github.com/jmolivas/phpqa) - PHPQA all-in-one Analyzer CLI tool
 * [phpsa ★616](https://github.com/ovr/phpsa) - Static analysis tool for PHP.
-* [PHPStan ★2263](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
+* [PHPStan ★2395](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 * [Psalm ★441](https://github.com/vimeo/psalm) - Static analysis tool for finding errors in PHP applications
 * [RIPS ★148 ⏳1Y](https://github.com/ripsscanner/rips) - A static source code analyser for vulnerabilities in PHP scripts
 * [Tuli ★163 ⏳2Y](https://github.com/ircmaxell/Tuli) - A static analysis engine
@@ -291,7 +291,7 @@ Wrappers:
 ## TypeScript
 
 * [Codelyzer ★1357](https://github.com/mgechev/codelyzer) - A set of tslint rules for static code analysis of Angular 2 TypeScript projects.
-* [TSLint ★2400](https://github.com/palantir/tslint) - An extensible linter for the TypeScript language.
+* [TSLint ★2560](https://github.com/palantir/tslint) - An extensible linter for the TypeScript language.
 * [tslint-microsoft-contrib ★218](https://github.com/Microsoft/tslint-microsoft-contrib) - A set of tslint rules for static code analysis of TypeScript projects maintained by Microsoft.
 
 # Multiple languages
@@ -318,7 +318,7 @@ Wrappers:
 * [STOKE ★227](https://github.com/StanfordPL/stoke) - a programming-language agnostic stochastic optimizer for the x86_64 instruction set. It uses random search to explore the extremely high-dimensional space of all possible program transformations
 * [Undebt ★1476](https://github.com/Yelp/undebt) - Language-independent tool for massive, automatic, programmable refactoring based on simple pattern definitions
 * [WALA](http://wala.sourceforge.net/wiki/index.php/Main_Page) - static analysis capabilities for Java bytecode and related languages and for JavaScript
-* [XCode](https://developer.apple.com/xcode/) [PROPRIETARY/OSS] - XCode provides a pretty decend UI for [Clang's](http://clang-analyzer.llvm.org/xcode.html) static code analyzer (C/C++, Obj-C)
+* [XCode](https://developer.apple.com/xcode/) :copyright: - XCode provides a pretty decent UI for [Clang's](http://clang-analyzer.llvm.org/xcode.html) static code analyzer (C/C++, Obj-C)
 
 # Other
 
@@ -337,7 +337,7 @@ Wrappers:
 * [clair ★2671](https://github.com/coreos/clair) - Vulnerability Static Analysis for Containers
 * [collector ★169](https://github.com/banyanops/collector) - Run arbitrary scripts inside containers, and gather useful information
 * [dagda ★301](https://github.com/eliasgranderubio/dagda) - Perform static analysis of known vulnerabilities in docker images/containers.
-* [Docker Label Inspector ★63 ⏳1Y](https://github.com/garethr/docker-label-inspector) - Lint and validate Dockerfile labels
+* [Docker Label Inspector ★63 ⏳2Y](https://github.com/garethr/docker-label-inspector) - Lint and validate Dockerfile labels
 * [Haskell Dockerfile Linter ★691](https://github.com/lukasmartinelli/hadolint) - A smarter Dockerfile linter that helps you build best practice Docker images
 
 ## Config Files
@@ -403,7 +403,7 @@ Wrappers:
 * [ember-template-lint ★91](https://github.com/rwjblue/ember-template-lint) - Linter for Ember or Handlebars templates.
 * [haml-lint ★165](https://github.com/brigade/haml-lint) - Tool for writing clean and consistent HAML
 * [slim-lint ★89](https://github.com/sds/slim-lint) - Configurable tool for analyzing Slim templates
-* [yamllint ★251](https://github.com/adrienverge/yamllint) -Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
+* [yamllint ★251](https://github.com/adrienverge/yamllint) - Checks YAML files for syntax validity, key repetition and cosmetic problems such as lines length, trailing spaces, and indentation.
 
 ## Translation
 
@@ -429,7 +429,7 @@ Wrappers:
 * [QuantifiedCode](https://www.quantifiedcode.com/) :copyright: - Automated code review & repair
 * [Scrutinizer](https://scrutinizer-ci.com/) :copyright: - A proprietery code quality checker that can be integrated with GitHub
 * [SensioLabs Insight](https://insight.sensiolabs.com/) :copyright: - Detect security risks, find bugs and provide actionable metrics for PHP projects
-* [SideCI](https://sideci.com):copyright: - An automated code reviewing tool. Improving developers' productivity.
+* [SideCI](https://sideci.com) :copyright: - An automated code reviewing tool. Improving developers' productivity.
 * [Snyk](https://snyk.io/) :copyright: - Vulnerability scanner for dependencies of node.js apps (free for Open Source Projects)
 * [Teamscale](http://www.teamscale.com/) :copyright: - analyze, monitor, and improve the quality of your code.
 * [Upsource](https://www.jetbrains.com/upsource/) :copyright: - Code review tool with static code analysis and code-aware navigation for Java, PHP, JavaScript and Kotlin.

@@ -213,7 +213,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Exoplayer ★8200](https://github.com/google/ExoPlayer) - ExoPlayer is an application level media player for Android, allow  playing audio and video both locally and over the Internet.
    Supports features like Dynamic adaptive streaming over HTTP (DASH), SmoothStreaming and Common Encryption
 - [Easy-Video-Player ★1020](https://github.com/afollestad/easy-video-player) - Easy Video Player is very simple and easy to use in our app. 
-- [VideoPlayView ★0](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
+- [VideoPlayView ★45](https://github.com/MarcinMoskala/VideoPlayView) - Custom Android view with video player, play/stop, loader and placeholder image.
 
 #### Camera
 
@@ -392,7 +392,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Android-Link-Preview ★270](https://github.com/LeonardoCardoso/Android-Link-Preview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images.
 - [Sensey ★2078](https://github.com/nisrulz/sensey) - Detecting gestures in a snap.
 - [UserAwareVideoView ★44](https://github.com/kevalpatel2106/UserAwareVideoView) - A customized video view that will automatically pause video is user is not looking at device screen!
-- [Flexbox Layout ★9508](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
+- [Flexbox Layout ★9811](https://github.com/google/flexbox-layout) - FlexboxLayout is a library which brings the similar capabilities of CSS Flexible Box Layout Module to Android. 
 - [Agile Boiler Plate ★39](https://github.com/xresco/Android-Agile-Boiler-Plate) - The boiler plate is based on MVP architecture and it is fully based on Dependency Injection design pattern using Dagger2.
 
 ## Resources

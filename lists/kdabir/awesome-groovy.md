@@ -59,7 +59,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Gmongo ★179 ⏳1Y](https://github.com/poiati/gmongo) - A Groovy wrapper to the mongodb Java driver
 * [Gstorm ★65](https://github.com/kdabir/gstorm) - A simple ORM for simple databases and CSV files to be used in groovy scripts
 * [Tayra ★135](https://github.com/EqualExperts/Tayra) - Incremental backup tool for MongoDB
-* [Groovy-liquibase ★72 ⏳1Y](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
+* [Groovy-liquibase ★72 ⏳2Y](https://github.com/tlberglund/groovy-liquibase) - Yet Another Groovy DSL for Liquibase
 * [Effigy ★5 ⏳1Y](https://github.com/cjstehno/effigy) - Groovy annotation-driven JDBC row mapping framework
 * [elasticsearch-groovy ★37](https://github.com/elastic/elasticsearch-groovy) - Elasticsearch Groovy client
 

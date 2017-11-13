@@ -275,7 +275,7 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
     - [ssh-honeypot ★122](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords.
     - [Kippo_JunOS ★10 ⏳1Y](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
     - [ssh-honeypotd ★4](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C.
-    - [sshesame ★797](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
+    - [sshesame ★797 ⏳1Y](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
 
 - Distributed sensor project
     - [DShield Web Honeypot Project](https://sites.google.com/site/webhoneypotsite/)

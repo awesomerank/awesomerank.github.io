@@ -153,9 +153,9 @@ You might also like [awesome-haskell ★1255](https://github.com/krispo/awesome-
 
 - [FregeAndroid ★15 ⏳2Y](https://github.com/trilogysci/FregeAndroid) - Frege interface to the Android API.
 - [frege-on-android ★1 ⏳1Y](https://github.com/ppelleti/frege-on-android) - How to use Frege on Android.
-- [FregeAndroid ★9](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege.
+- [FregeAndroid ★8](https://github.com/mchav/FregeAndroid) - Proof of concept Android application in Frege.
 - [GeoQuiz-Frege ★8](https://github.com/mchav/GeoQuiz-Frege) - Port of the BigNerd Ranch GeoQuiz application in Frege.
-- [froid ★82](https://github.com/mchav/froid) - Library for using Frege in Android development.
+- [froid ★85](https://github.com/mchav/froid) - Library for using Frege in Android development.
 
 ### Big Data
 
@@ -176,13 +176,13 @@ You might also like [awesome-haskell ★1255](https://github.com/krispo/awesome-
 
 ### GUI
 
-- [FregeFX ★29](https://github.com/Frege/FregeFX) - Frege bindings for JavaFX.
+- [FregeFX ★30](https://github.com/Frege/FregeFX) - Frege bindings for JavaFX.
 
 ### Web Frameworks
 
 - [Chinook ★27 ⏳1Y](https://github.com/fregelab/chinook) - Frege web framework based on SparkJava.
 - [Fregelet ★5 ⏳1Y](https://github.com/mmhelloworld/fregelet) - Frege web framework based on servlet.
-- [Play ★17 ⏳1Y](https://github.com/mmhelloworld/hello-play-frege) - Play framework with Frege.
+- [Play ★17 ⏳2Y](https://github.com/mmhelloworld/hello-play-frege) - Play framework with Frege.
 
 ## Sample Applications
 
@@ -197,7 +197,7 @@ You might also like [awesome-haskell ★1255](https://github.com/krispo/awesome-
 ### Web
 
 - [RESTful Todo Manager ★5 ⏳1Y](https://github.com/y-taka-23/restful-todo) - Task list manager written in Frege.
-- [Play Framework ★17 ⏳1Y](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege.
+- [Play Framework ★17 ⏳2Y](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege.
 - [Fervor ★0](https://github.com/mchav/fervor) - Server for local directories.
 
 ## Tools
@@ -217,7 +217,7 @@ You might also like [awesome-haskell ★1255](https://github.com/krispo/awesome-
 
 ### REPLs
 
-- [Console REPL ★63](https://github.com/Frege/frege-repl) - REPL on the console.
+- [Console REPL ★64](https://github.com/Frege/frege-repl) - REPL on the console.
 - [GUI REPL ★21](https://github.com/Dierk/frepl-gui) - GUI based REPL.
 - [Web REPL](http://try.frege-lang.org/) - Web based REPL.
 

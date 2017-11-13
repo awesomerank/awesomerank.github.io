@@ -44,7 +44,7 @@ List of content
 * [Chain.com](https://chain.com)
 * [Toshi by Coinbase](https://toshi.io/)
 * [Smartbit](https://www.smartbit.com.au)
-* [Cashier-BTC ★32](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway.
+* [Cashier-BTC ★60](https://github.com/Overtorment/Cashier-BTC) - self-hosted payment gateway.
 
 # Wallets API
 * [BitGo](https://www.bitgo.com/api/)
@@ -93,7 +93,7 @@ List of content
 * [XChange ★1387](https://github.com/timmolter/XChange) Library that provides a simple and consistent API for interacting with 50+ Bitcoin currency exchanges.
 
 # .Net Libraries
-* [NBitcoin ★521](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
+* [NBitcoin ★563](https://github.com/MetacoSA/NBitcoin)Comprehensive Bitcoin library for the .NET framework.
 * [BitcoinLib ★191](https://github.com/GeorgeKimionis/BitcoinLib) The most complete, up-to-date, battle-tested .net Library and RPC Wrapper for Bitcoin and Altcoins in C#.
 * [QBitNinja ★20](https://github.com/MetacoSA/QBitNinja) An Open Source and powerful blockchain API
 

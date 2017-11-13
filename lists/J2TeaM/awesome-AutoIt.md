@@ -438,7 +438,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [Crayon Syntax Highlighter](https://wordpress.org/plugins/crayon-syntax-highlighter/) (WordPress Plugin) - Added AutoIt since version 1.8.2
 - [WP Syntax](https://wordpress.org/plugins/wp-syntax/) (WordPress Plugin) - based on GeSHi.
 - [PrismJS](http://prismjs.com/) - Added AutoIt since version 1.1.0
-- [AutoIt - Visual Studio ★12](https://github.com/loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
+- [AutoIt - Visual Studio ★13](https://github.com/loganch/AutoIt-VSCode) - AutoIt extension for Visual Studio.
 
 ## License
 
@@ -451,13 +451,13 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 ## Other Awesome Lists
 
 - [awesome ★67308](https://github.com/sindresorhus/awesome) by @sindresorhus
-- [awesome-all ★98](https://github.com/bradoyler/awesome-all) by @bradoyler
+- [awesome-all ★99](https://github.com/bradoyler/awesome-all) by @bradoyler
 - [awesome-awesome ★921](https://github.com/emijrp/awesome-awesome) by @emijrp
-- [awesome-awesome ★129](https://github.com/erichs/awesome-awesome) by @erichs
-- [awesome-awesome ★61](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
+- [awesome-awesome ★145](https://github.com/erichs/awesome-awesome) by @erichs
+- [awesome-awesome ★62](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
 - [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) by @bayandin
 - [awesome-awesomes ★482](https://github.com/fleveque/awesome-awesomes) by @fleveque
-- [awesome-collection ★96](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
+- [awesome-collection ★97](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
 - [lists ★4518](https://github.com/jnv/lists) by @jnv
 
 [[Back to Top](#awesome-autoit)]

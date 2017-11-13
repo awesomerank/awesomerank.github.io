@@ -159,20 +159,20 @@ title: Awesome Rank for sindresorhus/awesome
 - [Kotlin ★3198](lists/KotlinBy/awesome-kotlin.md)
 - [OCaml ★1103](lists/rizo/awesome-ocaml.md)
 - [ColdFusion ★46](lists/seancoyne/awesome-coldfusion.md)
-- [Fortran ★121](lists/rabbiabram/awesome-fortran.md)
+- [Fortran ★124](lists/rabbiabram/awesome-fortran.md)
 - [.NET ★5304](lists/quozd/awesome-dotnet.md)
-	- [Core ★3095](lists/thangchung/awesome-dotnet-core.md)
+	- [Core ★3400](lists/thangchung/awesome-dotnet-core.md)
 - [PHP ★17013](lists/ziadoz/awesome-php.md)
-	- [Composer ★231](lists/jakoch/awesome-composer.md) - Package manager.
-- [Delphi ★353](lists/Fr0sT-Brutal/awesome-delphi.md)
-- [Assembler ★174](lists/jaspergould/awesome-asm.md)
-- [AutoHotkey ★542](lists/ahkscript/awesome-AutoHotkey.md)
-- [AutoIt ★163](lists/J2TeaM/awesome-AutoIt.md)
-- [Crystal ★1260](lists/veelenga/awesome-crystal.md)
+	- [Composer ★248](lists/jakoch/awesome-composer.md) - Package manager.
+- [Delphi ★366](lists/Fr0sT-Brutal/awesome-delphi.md)
+- [Assembler ★194](lists/jaspergould/awesome-asm.md)
+- [AutoHotkey ★578](lists/ahkscript/awesome-AutoHotkey.md)
+- [AutoIt ★174](lists/J2TeaM/awesome-AutoIt.md)
+- [Crystal ★1329](lists/veelenga/awesome-crystal.md)
 - [Frege ★13](lists/sfischer13/awesome-frege.md) - Haskell for the JVM.
 - [CMake ★866](lists/onqtam/awesome-cmake.md) - Build, test, and package software.
 - [ActionScript 3 ★38](lists/robinrodricks/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
-- [Eta ★25](lists/sfischer13/awesome-eta.md) - Functional programming language for the JVM.
+- [Eta ★27](lists/sfischer13/awesome-eta.md) - Functional programming language for the JVM.
 - [Idris ★41](lists/joaomilho/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
 
@@ -180,49 +180,49 @@ title: Awesome Rank for sindresorhus/awesome
 
 - [ES6 Tools ★3504](lists/addyosmani/es6-tools.md)
 - [Web Performance Optimization ★6022](lists/davidsonfellipe/awesome-wpo.md)
-- [Web Tools ★284](lists/lvwzhen/tools.md)
+- [Web Tools ★290](lists/lvwzhen/tools.md)
 - [CSS ★1208](lists/sotayamashita/awesome-css.md)
-	- [Critical-Path Tools ★889 ⏳1Y](lists/addyosmani/critical-path-css-tools.md)
-	- [Scalability ★1205](lists/davidtheclark/scalable-css-reading-list.md)
-	- [Must-Watch Talks ★2319](lists/AllThingsSmitty/must-watch-css.md)
-	- [Protips ★9782](lists/AllThingsSmitty/css-protips.md)
+	- [Critical-Path Tools ★902 ⏳1Y](lists/addyosmani/critical-path-css-tools.md)
+	- [Scalability ★1215](lists/davidtheclark/scalable-css-reading-list.md)
+	- [Must-Watch Talks ★2335](lists/AllThingsSmitty/must-watch-css.md)
+	- [Protips ★9836](lists/AllThingsSmitty/css-protips.md)
 - [React ★21705](lists/enaqx/awesome-react.md) - App framework.
-	- [Relay ★176](lists/expede/awesome-relay.md) - Framework for building data-driven React apps.
-- [Web Components ★953](lists/mateusortiz/webcomponents-the-right-way.md)
-- [Polymer ★322](lists/Granze/awesome-polymer.md) - JavaScript library to develop Web Components.
-- [Angular ★4820](lists/AngularClass/awesome-angular.md) - App framework.
+	- [Relay ★179](lists/expede/awesome-relay.md) - Framework for building data-driven React apps.
+- [Web Components ★971](lists/mateusortiz/webcomponents-the-right-way.md)
+- [Polymer ★329](lists/Granze/awesome-polymer.md) - JavaScript library to develop Web Components.
+- [Angular ★4951](lists/AngularClass/awesome-angular.md) - App framework.
 - [Backbone ★368 ⏳1Y](lists/sadcitizen/awesome-backbone.md) - App framework.
-- [HTML5 ★771](lists/diegocard/awesome-html5.md) - Markup language used for websites & web apps.
+- [HTML5 ★787](lists/diegocard/awesome-html5.md) - Markup language used for websites & web apps.
 - [SVG ★3367](lists/willianjusten/awesome-svg.md) - XML-based vector image format.
-- [Canvas ★281](lists/raphamorim/awesome-canvas.md)
-- [KnockoutJS ★63](lists/dnbard/awesome-knockout.md)
-- [Dojo Toolkit ★57](lists/petk/awesome-dojo.md)
-- [Inspiration ★502](lists/NoahBuscher/Inspire.md)
-- [Ember ★243](lists/nmec/awesome-ember.md) - App framework.
-- [Android UI ★25979](lists/wasabeef/awesome-android-ui.md)
+- [Canvas ★296](lists/raphamorim/awesome-canvas.md)
+- [KnockoutJS ★65](lists/dnbard/awesome-knockout.md)
+- [Dojo Toolkit ★60](lists/petk/awesome-dojo.md)
+- [Inspiration ★514](lists/NoahBuscher/Inspire.md)
+- [Ember ★249](lists/nmec/awesome-ember.md) - App framework.
+- [Android UI ★26750](lists/wasabeef/awesome-android-ui.md)
 - [iOS UI ★9778](lists/cjwirth/awesome-ios-ui.md)
 - [Meteor ★1088](lists/Urigo/awesome-meteor.md)
-- [BEM ★336](lists/sturobson/BEM-resources.md)
-- [Flexbox ★718](lists/afonsopacifer/awesome-flexbox.md)
-- [Web Typography ★264](lists/deanhume/typography.md)
-- [Web Accessibility ★548](lists/brunopulis/awesome-a11y.md)
-- [Material Design ★465](lists/sachin1092/awesome-material.md)
-- [D3 ★3413](lists/wbkd/awesome-d3.md) - Library for producing dynamic, interactive data visualizations.
-- [Emails ★327](lists/jonathandion/awesome-emails.md)
-- [jQuery ★442](lists/petk/awesome-jquery.md) - Easy to use JavaScript library for DOM manipulation.
-	- [Tips ★3964](lists/AllThingsSmitty/jquery-tips-everyone-should-know.md)
-- [Web Audio ★266](lists/notthetup/awesome-webaudio.md)
-- [Offline-First ★2189](lists/pazguille/offline-first.md)
+- [BEM ★339](lists/sturobson/BEM-resources.md)
+- [Flexbox ★742](lists/afonsopacifer/awesome-flexbox.md)
+- [Web Typography ★271](lists/deanhume/typography.md)
+- [Web Accessibility ★578](lists/brunopulis/awesome-a11y.md)
+- [Material Design ★472](lists/sachin1092/awesome-material.md)
+- [D3 ★3474](lists/wbkd/awesome-d3.md) - Library for producing dynamic, interactive data visualizations.
+- [Emails ★354](lists/jonathandion/awesome-emails.md)
+- [jQuery ★459](lists/petk/awesome-jquery.md) - Easy to use JavaScript library for DOM manipulation.
+	- [Tips ★3976](lists/AllThingsSmitty/jquery-tips-everyone-should-know.md)
+- [Web Audio ★288](lists/notthetup/awesome-webaudio.md)
+- [Offline-First ★2231](lists/pazguille/offline-first.md)
 - [Static Website Services](https://github.com/aharris88/awesome-static-website-services)
-- [A-Frame VR ★1214](lists/aframevr/awesome-aframe.md) - Virtual reality for web browsers.
-- [Cycle.js ★687](lists/cyclejs-community/awesome-cyclejs.md) - Functional and reactive JavaScript framework.
-- [Text Editing ★67 ⏳1Y](lists/dok/awesome-text-editing.md)
-- [Motion UI Design ★425](lists/fliptheweb/motion-ui-design.md)
-- [Vue.js ★23597](lists/vuejs/awesome-vue.md) - App framework.
+- [A-Frame VR ★1240](lists/aframevr/awesome-aframe.md) - Virtual reality for web browsers.
+- [Cycle.js ★697](lists/cyclejs-community/awesome-cyclejs.md) - Functional and reactive JavaScript framework.
+- [Text Editing ★73 ⏳1Y](lists/dok/awesome-text-editing.md)
+- [Motion UI Design ★436](lists/fliptheweb/motion-ui-design.md)
+- [Vue.js ★24942](lists/vuejs/awesome-vue.md) - App framework.
 - [Marionette.js ★142](lists/sadcitizen/awesome-marionette.md) - App framework.
 - [Aurelia ★236](lists/behzad888/awesome-aurelia.md) - App framework.
 - [Charting ★717 ⏳1Y](lists/zingchart/awesome-charting.md)
-- [Ionic Framework 2 ★588](lists/candelibas/awesome-ionic.md)
+- [Ionic Framework 2 ★610](lists/candelibas/awesome-ionic.md)
 - [Chrome DevTools ★2412](lists/ChromeDevTools/awesome-chrome-devtools.md)
 - [PostCSS ★198](lists/jjaderg/awesome-postcss.md) - CSS preprocessor.
 - [Draft.js ★1027](lists/nikgraf/awesome-draft-js.md) - Rich text editor framework for React.
@@ -343,7 +343,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Game Talks ★479 ⏳1Y](lists/hzoo/awesome-gametalks.md)
 - [Godot ★481](lists/Calinou/awesome-godot.md) - Game engine.
 - [Open Source Games ★9766](lists/leereilly/games.md)
-- [Unity ★1478](lists/RyanNielson/awesome-unity.md) - Game engine.
+- [Unity ★1556](lists/RyanNielson/awesome-unity.md) - Game engine.
 - [Chess ★72](lists/hkirat/awesome-chess.md)
 - [LÖVE ★772](lists/love2d-community/awesome-love2d.md) - Game engine.
 - [PICO-8 ★653](lists/felipebueno/awesome-PICO-8.md) - Fantasy console.
@@ -556,7 +556,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Pokémon ★309](lists/tobiasbueschel/awesome-pokemon.md) - Pokémon and Pokémon GO.
 - [ChatOps ★209](lists/exAspArk/awesome-chatops.md) - Managing technical and business operations through a chat.
 - [Falsehood ★6327](lists/kdeldycke/awesome-falsehood.md) - Falsehoods programmers believe in.
-- [Domain-Driven Design ★2130](lists/heynickc/awesome-ddd.md) - Software development approach for complex needs by connecting the implementation to an evolving model.
+- [Domain-Driven Design ★2223](lists/heynickc/awesome-ddd.md) - Software development approach for complex needs by connecting the implementation to an evolving model.
 - [Quantified Self ★130](lists/woop/awesome-quantified-self.md) - Self-tracking through technology.
 - [SaltStack ★58](lists/hbokh/awesome-saltstack.md) - Python-based config management system.
 - [Web Design ★396](lists/nicolesaidy/awesome-web-design.md) - For digital designers.

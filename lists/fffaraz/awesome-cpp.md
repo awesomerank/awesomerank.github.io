@@ -606,7 +606,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [c-smart-pointers ★627](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. [MIT]
 * [cxx-prettyprint ★294](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
-* [gcc-poison ★126 ⏳3Y](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
+* [gcc-poison ★126 ⏳4Y](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
 * [HTTP Parser ★3596](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. [MIT]
 * [Kangaru ★42](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. [MIT]
 * [Klib ★1829](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [MIT]

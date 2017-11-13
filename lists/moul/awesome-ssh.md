@@ -139,7 +139,7 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 * [cowrie](https://github.com/micheloosterhof/cowrie) [![stars](https://img.shields.io/github/stars/micheloosterhof/cowrie.svg?style=social&label=stars) ★1303](https://github.com/micheloosterhof/cowrie) - *SSH* Honeypot (based on kippo).
 * [sshmitm](http://linux.die.net/man/8/sshmitm) - *SSH* monkey-in-the-middle.
 * [ssh-audit](https://github.com/arthepsy/ssh-audit) [![stars](https://img.shields.io/github/stars/arthepsy/ssh-audit.svg?style=social&label=stars) ★1594](https://github.com/arthepsy/ssh-audit) - A tool for *SSH* server auditing.
-* [sshesame](https://github.com/jaksi/sshesame) [![stars](https://img.shields.io/github/stars/jaksi/sshesame.svg?style=social&label=stars) ★797](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
+* [sshesame](https://github.com/jaksi/sshesame) [![stars](https://img.shields.io/github/stars/jaksi/sshesame.svg?style=social&label=stars) ★797 ⏳1Y](https://github.com/jaksi/sshesame) - A fake SSH server that lets everyone in and logs their activity.
 
 
 ### Alternatives to *SSH*

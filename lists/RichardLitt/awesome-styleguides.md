@@ -78,8 +78,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [CSSWizardry](http://cssguidelin.es/) This is the best there is. Made by one guy who consults for a lot of companies, this document pretty much sets the standards for how CSS should be used. Highly suggested.
 * [GitHub](http://primercss.io)
 * [Google](https://google.github.io/styleguide/htmlcssguide.xml)
-* [Idiomatic-CSS ★5322](https://github.com/necolas/idiomatic-css)
-* [rscss ★3415](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
+* [Idiomatic-CSS ★5355](https://github.com/necolas/idiomatic-css)
+* [rscss ★3439](https://github.com/rstacruz/rscss) _Reasonable Standard for CSS Stylesheet Structure_
 * [Smashing Magazine](http://www.smashingmagazine.com/2008/05/improving-code-readability-with-css-styleguides/)
 * [Trello](https://gist.github.com/bobbygrace/9e961e8982f42eb91b80)
 * [Wordpress.org](https://make.wordpress.org/core/handbook/best-practices/coding-standards/css/)

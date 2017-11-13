@@ -69,7 +69,7 @@ Write performant functional code by using the right data structures for the task
 * [Immutable.js ★20940](https://github.com/facebook/immutable-js) – Immutable persistent data collections.
 * [Mori ★2772](https://github.com/swannodette/mori) – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [Baobab ★2698](https://github.com/Yomguithereal/baobab) – persistent and optionally immutable data tree with cursors.
-* [immutable-sequence.js](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees ★18](https://github.com/qiao/fingertree.js).
+* [immutable-sequence.js](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees ★18 ⏳1Y](https://github.com/qiao/fingertree.js).
 * [Timm](http://guigrpa.github.io/timm/) – Immutability helpers with fast reads and acceptable writes.
 * [Lazy.js ★4420](https://github.com/dtao/lazy.js) – A utility library with a lazy engine under the hood that strives to do as little work as possible while being as flexible as possible.
 * [DerivableJS ★435](https://github.com/ds300/derivablejs) – Functional Reactive State for JavaScript and TypeScript. DerivableJS enables you to make elegant declarative statements about how your bits of state are related.

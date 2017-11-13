@@ -250,7 +250,7 @@ Processing Unit (GPU).
 * [Phaser](https://phaser.io/) - Open source HTML5 2D game framework for Canvas and WebGL, supports mobile web browsers.
 * [PixiJS](http://www.pixijs.com/) - powerful 2D Javascript renderer based on WebGL.
 * [Planck.js ★2734](https://github.com/shakiba/planck.js) - 2D physics engine for cross-platform HTML5 game development.
-* [Stage.js ★1152](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
+* [Stage.js ★1166](https://github.com/shakiba/stage.js) - 2D Library for cross-platform HTML5 game development.
 
 ### Maps and Visualizations
 * [Cesium](https://cesiumjs.org/) - Open-source library for world-class 3D globes and maps.
@@ -268,14 +268,14 @@ Processing Unit (GPU).
 
 ### WebVR
 * [A-Frame](https://aframe.io/) - Web framework for building virtual reality experiences.
-  * [Awesome-AFrame ★1214](https://github.com/aframevr/awesome-aframe)
+  * [Awesome-AFrame ★1240](https://github.com/aframevr/awesome-aframe)
 * [Hologram](https://hologram.cool/) - Desktop app that let you create and prototype WebVR in interactive way needing no previous coding knowledge.
 * [LÖVR](http://lovr.org/) - Simple framework for creating VR with Lua.
 * [ReactVR](https://facebook.github.io/react-vr/) - Build VR websites and interactive 360 experiences with React.
 * [Primrose](https://www.primrosevr.com/) - Rapidly prototype VR applications in your browser.
 
 ### Others
-* [Ammo.js ★1201](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
+* [Ammo.js ★1229](https://github.com/kripken/ammo.js) - Direct port of the Bullet physics engine to JavaScript using Emscripten.
 * [Babylon.js](https://www.babylonjs.com/) - Complete JavaScript framework for building 3D games with HTML5, WebGL and Web Audio.
 * [Blend4Web](https://www.blend4web.com/en/) - Tool for interactive 3D visualization on the Internet.
 * [CopperLicht](http://www.ambiera.com/copperlicht/index.html) - JavaScript library and WebGL 3D engine for creating games and 3D applications.
@@ -317,7 +317,7 @@ Processing Unit (GPU).
 Please see [CONTRIBUTING](https://github.com/sjfricke/awesome-webgl/blob/master/CONTRIBUTING.md) for details.
 
 ## Testing
-Travis CI testing automation thanks to [awesome_bot ★399](https://github.com/dkhamsing/awesome_bot)!
+Travis CI testing automation thanks to [awesome_bot ★414](https://github.com/dkhamsing/awesome_bot)!
 
 ## License
 

@@ -119,13 +119,13 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 ### PHP
 
 * [Microrest ★189 ⏳1Y](https://github.com/marmelab/microrest.php) - Micro-web application providing a REST API on top of any relational database.
-* [Negotiation ★405](https://github.com/willdurand/Negotiation) - Content negotiation library.
-* [Drest ★81](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints.
-* [Restler ★1214](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
-* [HAL ★185 ⏳1Y](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
+* [Negotiation ★409](https://github.com/willdurand/Negotiation) - Content negotiation library.
+* [Drest ★83](https://github.com/leedavis81/drest) - Library for exposing Doctrine entities as REST resource endpoints.
+* [Restler ★1224](https://github.com/Luracast/Restler) - Lightweight framework to expose PHP methods as RESTful web API.
+* [HAL ★188 ⏳1Y](https://github.com/blongden/hal) - Hypertext Application Language (HAL) builder library.
 * [Apigility ★462](https://github.com/zfcampus/zf-apigility-skeleton) - API builder built with Zend Framework 2.
 * [phprest ★315 ⏳1Y](https://github.com/phprest/phprest) - Specialized REST microframework for PHP.
-* [Hateoas ★770](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
+* [Hateoas ★773](https://github.com/willdurand/Hateoas) - PHP library to support implementing representations for HATEOAS REST web services.
 * [Fusio ★267](https://github.com/apioo/fusio) - Open source API management platform.
 
 #### Symfony2
@@ -134,7 +134,7 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [FOSRestBundle ★1560](https://github.com/FriendsOfSymfony/FOSRestBundle) - Bundle handling view, routing, error handling, etc. for your REST API.
 * [stanlemon/rest-bundle ★131](https://github.com/stanlemon/rest-bundle) - Build a REST API based on Doctrine entities using conventions over configuration.
 * [lakion/Lionframe](http://lakion.com/lionframe) - Glu between several community libraries to ease API development.
-* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas ★770](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
+* [BazingaHateoasBundle](https://github.com/willdurand/BazingaHateoasBundle) - Integrate the [Hateoas ★773](https://github.com/willdurand/Hateoas) library into a Symfony2 application.
 * [Symfony REST Edition ★616](https://github.com/gimler/symfony-rest-edition) - Start with a Symfony2 application with all REST-friendly bundles pre-configured.
 * [NgAdminGeneratorBundle ★73 ⏳2Y](https://github.com/marmelab/NgAdminGeneratorBundle) - Boostrap ng-admin configuration based on `stanlemon/rest-bundle`.
 * [DunglasApiBundle](https://github.com/dunglas/DunglasApiBundle) - Build a REST API which follow Hydra/JSON-LD specification.

@@ -367,7 +367,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 - [Math as code ★2920](https://github.com/Jam3/math-as-code) - Cheat-sheet for mathematical notation in code form.
 - [Coding Math](https://www.youtube.com/user/codingmath) - Teaches you the math you need to understand as a programmer.
-- [Math snippets ★25](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
+- [Math snippets ★25 ⏳1Y](https://github.com/terkelg/math) - Math snippets with graphic programming in mind.
 - [Formul Animations](https://www.youtube.com/watch?v=0ifChJ0nJfM) - The principles of painting with maths.
 - [Learning Maths again ★123 ⏳2Y](https://github.com/silviopaganini/maths) - Collection of JS and GLSL math snippets.
 - [Eases ★188](https://github.com/mattdesl/eases) - Grab-bag of modular easing equations.
@@ -467,7 +467,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 - [Awesome opengl ★615](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 - [Awesome webgl ★142](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
-- [Awesome canvas ★281](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
+- [Awesome canvas ★296](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 - [Awesome audio visualization ★1475](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
 - [Awesome computer vision ★3338](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 - [Awesome visualization research ★215](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.

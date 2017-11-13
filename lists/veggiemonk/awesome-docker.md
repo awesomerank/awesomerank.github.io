@@ -28,7 +28,7 @@ If this list is not complete, you can [contribute][editREADME] to make it so. He
 The creators and maintainers of this list do not receive and should not receive any form of payment to accept a change made by any contributor.
 The goal of this repo is to index open-source projects, not to advertise for profit.
 
-All the links are monitored and tested with [awesome_bot ★399](https://github.com/dkhamsing/awesome_bot) made by [@dkhamsing](https://github.com/dkhamsing)
+All the links are monitored and tested with [awesome_bot ★414](https://github.com/dkhamsing/awesome_bot) made by [@dkhamsing](https://github.com/dkhamsing)
 
 # Contents
 
@@ -297,7 +297,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 
 * [Captain](https://getcaptain.co/) - Manage containers from the MacOSX menu bar by [@RickWong](https://github.com/rickwong)
 * [DockStation ★190](https://github.com/DockStation/dockstation) - A developer centric UI to configure, monitor, and manage services and containers [@dock_station](https://twitter.com/dock_station)
-* [Dockeron ★124](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop. [@fluency03](https://github.com/fluency03)
+* [Dockeron ★154](https://github.com/dockeron/dockeron) - A project built on Electron + Vue.js for Docker on desktop. [@fluency03](https://github.com/fluency03)
 * [Lifeboat ★7](https://github.com/jplhomer/lifeboat) - An easy way to launch Docker projects with a graphical interface on your Mac. [@jplhomer](https://github.com/jplhomer)
 
 #### Terminal
@@ -412,7 +412,7 @@ Services to securely store your Docker images.
 * [Docket ★587 ⏳2Y](https://github.com/netvarun/docket) - Custom docker registry that allows for lightning fast deploys through bittorrent by [@netvarun](https://github.com/netvarun/)
 * [Docker Hub](https://hub.docker.com/) provided by Docker Inc.
 * [Docker Registry v2][distribution] - The Docker toolset to pack, ship, store, and deliver content
-* [Europa :heavy_dollar_sign: ★89](https://github.com/Distelli/europa) - Private docker registry with support for image pipelines and  webhooks. By [@Distelli](https://github.com/Distelli)
+* [Europa :heavy_dollar_sign: ★90](https://github.com/Distelli/europa) - Private docker registry with support for image pipelines and  webhooks. By [@Distelli](https://github.com/Distelli)
 * [GCE Container Registry](https://cloud.google.com/container-registry/) Fast, private Docker image storage on Google Cloud Platform
 * [GitLab Container Registry](https://docs.gitlab.com/ce/user/project/container_registry.html) - Repositories focused on using it images in GitLab CI
 * [Private Docker Registry :heavy_dollar_sign:](https://private-docker-registry.com) - Dedicated Conainer Registry Service with unlimited private repositories, users, teams, namespaces together with enterprise grade authentication LDAP/AD/OAuth/SAML.
@@ -433,7 +433,7 @@ Services to securely store your Docker images.
 * [docker-maven-plugin (1) ★1223](https://github.com/spotify/docker-maven-plugin) - A Maven plugin for building and pushing Docker images by [@spotify][spotify]
 * [docker-maven-plugin (2) ★698](https://github.com/fabric8io/docker-maven-plugin) - A Maven plugin for running and creating Docker images by [@fabric8io](https://github.com/fabric8io)
 * [Docker-PowerShell ★226](https://github.com/Microsoft/Docker-PowerShell) - PowerShell Module for Docker
-* [Docker.DotNet ★365](https://github.com/Microsoft/Docker.DotNet) - C#/.NET HTTP client for the Docker remote API by [@ahmetalpbalkan](ahmetalpbalkan)
+* [Docker.DotNet ★404](https://github.com/Microsoft/Docker.DotNet) - C#/.NET HTTP client for the Docker remote API by [@ahmetalpbalkan](ahmetalpbalkan)
 * [dockerode ★1488](https://github.com/apocas/dockerode) - Docker Remote API node.js module by [@apocas](https://github.com/apocas)
 * [DoMonit ★44](https://github.com/eon01/DoMonit) - A simple Docker Monitoring wrapper For Docker API
 * [go-dockerclient ★1147](https://github.com/fsouza/go-dockerclient) - Go HTTP client for the Docker remote API by [@fsouza](https://github.com/fsouza/)

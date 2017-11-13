@@ -58,7 +58,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 ## Frameworks
 - [Bootstrap 4 ★116649](https://github.com/twbs/bootstrap) - Bootstrap version 4, the most popular HTML, CSS, and JS framework for developing responsive, mobile first projects on the web.
 - [Bootstrap-sass ★12419](https://github.com/twbs/bootstrap-sass) - Official Sass port of Bootstrap 2 and 3.
-- [Foundation for Sites ★26414](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+- [Foundation for Sites ★26614](https://github.com/zurb/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
 - [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 - [Sierra](http://sierra-library.github.io/) - Micro SCSS library to help you build websites, without all the arbitrary selectors.
 - [Kickoff](http://trykickoff.com) - Kickoff is a lightweight front-end framework for creating scalable, performant and responsive sites.
@@ -115,7 +115,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Buttons ★5083](https://github.com/alexwolfe/Buttons) - CSS button library built using Sass and Compass.
 - [Modular Scale ★1701](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass.
 - [Scut ★753](https://github.com/davidtheclark/scut) - Collection of Sass utilities to ease and improve the implementations of common style-code patterns.
-- [Sass flexbox mixin ★1112](https://github.com/mastastealth/sass-flex-mixin) - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
+- [Sass flexbox mixin ★1121](https://github.com/mastastealth/sass-flex-mixin) - Set of mixins for those who want to mess around with flexbox using the native support of current browsers.
 - [Angled Edges ★743](https://github.com/josephfusco/angled-edges) - Sass mixin for creating angled edges on sections by dynamically encoding SVGs.
 - [retina.js](https://github.com/imulus/retinajs) - JavaScript, SCSS, Sass, Less, and Stylus helpers for rendering high-resolution image variants.
 - [Sass Accoutrement](http://oddbird.net/accoutrement/) - Accoutrement modules are Sass toolkits that work together to form the central configuration of a project. The tools can be used individually, or integrated for extra power.
@@ -128,7 +128,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Hugo Giraudel's Sass Guidelines](https://sass-guidelin.es/) - Guidelines for writing sane, maintainable and scalable Sass.
 - [BigCommerce Sass Coding Guidelines ★228](https://github.com/bigcommerce/sass-style-guide) - Guidelines in use at BigCommerce.
 - [Airbnb Sass and CSS Style Guide ★3219](https://github.com/airbnb/css) - Sass and CSS style guide by Airbnb.
-- [Dropbox (S)CSS Style Guide ★569 ⏳1Y](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
+- [Dropbox (S)CSS Style Guide ★572 ⏳1Y](https://github.com/dropbox/css-style-guide) - Dropbox’s (S)CSS authoring style guide.
 
 ## Articles
 - [Hugo Giraudel Personal Awesome Sass List ★646 ⏳1Y](https://github.com/HugoGiraudel/awesome-sass) - Records of Hugo Giraudel's works on Sass.
@@ -146,7 +146,7 @@ The second, older syntax is known as the indented syntax (or just "Sass"). Inspi
 - [Advanced SCSS, or, 16 cool things you may not have known your stylesheets could do](https://gist.github.com/jareware/4738651)
 
 ## Tools
-- [libsass ★3591](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
+- [libsass ★3618](https://github.com/sass/libsass) - C/C++ implementation of a Sass compiler.
 - [node-sass ★4297](https://github.com/sass/node-sass) - Node.js bindings to libsass.
 - [dart-sass ★321](https://github.com/sass/dart-sass) - Dart implementation of Sass.
 - [SassDoc](http://sassdoc.com/) - Documentation system (like JSDoc for JavaScript) to build pretty and powerful docs in the blink of an eye.

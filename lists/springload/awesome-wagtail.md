@@ -108,7 +108,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ### SEO and SMO
 
 - [wagtail-metadata ★17](https://github.com/takeflight/wagtail-metadata) - A tool to assist with metadata for social media and search engines.
-- [wagtail-metadata-mixin ★17](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
+- [wagtail-metadata-mixin ★17 ⏳1Y](https://github.com/bashu/wagtail-metadata-mixin) - OpenGraph, Twitter Card and Google+ snippet tags for Wagtail CMS pages.
 - [wagtail-schema.org ★19](https://github.com/takeflight/wagtail-schema.org) - Schema.org JSON-LD tags for Wagtail sites.
 
 ### Analytics

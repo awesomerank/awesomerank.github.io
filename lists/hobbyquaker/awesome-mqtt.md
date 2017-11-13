@@ -104,7 +104,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [M2Mqtt](https://m2mqtt.wordpress.com/) - A MQTT client available for all .Net platforms (.Net Framework, .Net Compact Framework and .Net Micro Framework) and WinRT platforms (Windows 8.1, Windows Phone 8.1 and Windows 10).
 * [Mosquitto-PHP ★215](https://github.com/mgdm/Mosquitto-PHP) - A wrapper for the Mosquitto MQTT client library for PHP.
 * [mqtt-client ★11 ⏳2Y](https://github.com/centamiv/mqtt-client) - A Polymer Web Component that implements a MQTT client (uses Paho mqttws31.js).
-* [MQTT-Client-Framework ★780](https://github.com/ckrey/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework.
+* [MQTT-Client-Framework ★786](https://github.com/novastone-media/MQTT-Client-Framework) - iOS, OSX, tvOS native ObjectiveC MQTT Client Framework.
 * [mqtt.dart ★11](https://github.com/jnguillerme/mqtt.dart) - Dart mqtt client.
 * [mqtt-elements ★21 ⏳1Y](https://github.com/mqttjs/mqtt-elements) - Polymer elements for MQTT.
 * [mqttex ★41 ⏳2Y](https://github.com/alfert/mqttex) - MQTT implementation in Elixir.
@@ -266,10 +266,12 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 #### Misc
 
 * [AlexaMqttBridge ★9](https://github.com/mhdawson/AlexaMqttBridge) - Bridge between Amazon Alexa and Mqtt.
+* [buderus2mqtt ★0](https://github.com/krambox/buderus2mqtt) - Bridge between Buderus KM200 internet gateway and Mqtt.
 * [dashbutton2mqtt ★6](https://github.com/hobbyquaker/dashbutton2mqtt) - Publish Amazon Dash Button presses to MQTT.
 * [flowerpower2mqtt ★4 ⏳2Y](https://github.com/hobbyquaker/flowerpower2mqtt) - Publish measurements from Parrot Flower Power plant sensors to MQTT.
 * [haiku2mqtt ★0](https://github.com/forty2/haiku2mqtt) - A bridge between Haiku smart fans and MQTT.
 * [homely ★7 ⏳1Y](https://github.com/baol/homely) - Collection of Go daemons for connecting Domoticz and other stuff.
+* [kobold2mqtt ★0](https://github.com/krambox/kobold2mqtt) - Bridge between Vorwerk Kobold Vr200 internet gateway and Mqtt.
 * [leaf-python-mqtt ★12](https://github.com/glynhudson/leaf-python-mqtt) - Extract data from Nissan Leaf API and post to mqtt.
 * [miflora-mqtt-daemon ★20](https://github.com/ThomDietrich/miflora-mqtt-daemon) - Linux service to send Xiaomi Mi Flora plant sensor data to an MQTT broker.
 * [mqtt2ble ★9](https://github.com/hardillb/mqtt2ble) - A way to bridge MQTT topics to BLE Gatt characteristics.

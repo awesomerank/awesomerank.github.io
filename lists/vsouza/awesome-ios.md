@@ -406,7 +406,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [DATAStack ★163](https://github.com/3lvis/DATAStack) - 100% Swift Simple Boilerplate Free Core Data Stack. NSPersistentContainer. :large_orange_diamond:
 * [JustPersist ★92](https://github.com/justeat/JustPersist) - JustPersist is the easiest and safest way to do persistence on iOS with Core Data support out of the box.
 * [PrediKit ★472](https://github.com/KrakenDev/PrediKit) - An NSPredicate DSL for iOS, macOS, tvOS, & watchOS. Inspired by SnapKit and lovingly written in Swift. :large_orange_diamond:
-* [Records ★7](https://github.com/rob-nash/Records) - https://github.com/rob-nash/Records :large_orange_diamond:
+* [Records ★7](https://github.com/rob-nash/Records) - In just a few minutes, setup a fully functioning CoreData implementation that embraces the static, type-safe nature of Swift. :large_orange_diamond:
 
 ## Database
 * [Realm ★11355](https://github.com/realm/realm-cocoa) - The alternative to CoreData and SQLite: Simple, modern and fast.
@@ -709,7 +709,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [XLTestLog ★59 ⏳1Y](https://github.com/xareelee/XLTestLog) - Styling and coloring your XCTest logs on Xcode Console
 * [XLFacility ★262](https://github.com/swisspol/XLFacility) - Elegant and extensive logging facility for macOS & iOS (includes database, Telnet and HTTP servers)
 * [Atlantis ★200](https://github.com/DrewKiino/Atlantis) - A powerful input-agnostic swift logging framework made to speed up development with maximum readability. :large_orange_diamond:
-* [StoryTeller ★8](https://github.com/drekka/StoryTeller) - Taking a completely different approach to logging, Story Teller replacing fixed logging levels in It then uses dynamic expressions to control the logging so you only see what is important.
+* [StoryTeller ★8 ⏳1Y](https://github.com/drekka/StoryTeller) - Taking a completely different approach to logging, Story Teller replacing fixed logging levels in It then uses dynamic expressions to control the logging so you only see what is important.
 * [LumberMill ★3 ⏳1Y](https://github.com/ubclaunchpad/LumberMill) - Stupidly simple logging for iOS 10 and Swift 3.0
 * [TinyConsole ★1721](https://github.com/Cosmo/TinyConsole) - A tiny log console to display information while using your iOS app. Written in Swift 3. :large_orange_diamond:
 * [Lighty ★37](https://github.com/abdullahselek/Lighty) - Easy to use and lightweight logger for iOS, macOS, tvOS, watchOS and Linux with Swift 3. :large_orange_diamond:
@@ -1466,7 +1466,7 @@ Most of these are paid services, some have free tiers.
 * [Vinyl ★205](https://github.com/Velhotes/Vinyl) - Network testing à la VCR in Swift :large_orange_diamond:
 * [Mockit ★59](https://github.com/sabirvirtuoso/Mockit) - A simple mocking framework for Swift, inspired by the famous Mockito for Java :large_orange_diamond:
 * [Cribble ★273 ⏳1Y](https://github.com/maxsokolov/Cribble) - Swifty tool for visual testing iPhone and iPad apps :large_orange_diamond:
-* [second_curtain ★112 ⏳1Y](https://github.com/ashfurrow/second_curtain) - Upload failing iOS snapshot tests cases to S3
+* [second_curtain ★112 ⏳2Y](https://github.com/ashfurrow/second_curtain) - Upload failing iOS snapshot tests cases to S3
 * [trainer ★94](https://github.com/KrauseFx/trainer) - Convert xcodebuild plist files to JUnit reports
 * [Buildasaur ★717](https://github.com/buildasaurs/Buildasaur) - Automatic testing of your Pull Requests on GitHub and BitBucket using Xcode Server. Keep your team productive and safe. Get up and running in minutes. @buildasaur :large_orange_diamond:
 * [Kakapo ★729](https://github.com/devlucky/Kakapo) - 🐤Dynamically Mock server behaviors and responses in Swift :large_orange_diamond:
@@ -1602,7 +1602,7 @@ Most of these are paid services, some have free tiers.
 * [ConfettiView ★216](https://github.com/OrRon/ConfettiView) - Confetti View lets you create a magnificent confetti view in your app :large_orange_diamond:
 * [BouncyPageViewController ★604 ⏳1Y](https://github.com/BohdanOrlov/BouncyPageViewController) - Page view controller with bounce effect :large_orange_diamond:
 * [LTHRadioButton ★190](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty fill animation. :large_orange_diamond:
-* [CRRulerControl ★92](https://github.com/Cleveroad/CRRulerControl) - Customizable component is aimed at turning a simple ruler into a handy and smart instrument.
+* [CRRulerControl ★92 ⏳1Y](https://github.com/Cleveroad/CRRulerControl) - Customizable component is aimed at turning a simple ruler into a handy and smart instrument.
 * [Macaw-Examples ★145](https://github.com/exyte/Macaw-Examples) - Various usages of the Macaw library. :large_orange_diamond:
 * [KVCardSelectionVC ★14](https://github.com/kunalverma25/KVCardSelectionVC) - Awesome looking Dial like card selection ViewController. :large_orange_diamond:
 * [Reactions ★434](https://github.com/yannickl/Reactions) - Fully customizable Facebook reactions control :large_orange_diamond:
@@ -1704,7 +1704,7 @@ Most of these are paid services, some have free tiers.
 
 #### Animation
 * [Pop ★18217](https://github.com/facebook/pop) - An extensible iOS and macOS animation library, useful for physics-based interactions.
-* [AnimationEngine ★1030 ⏳1Y](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
+* [AnimationEngine ★1030 ⏳2Y](https://github.com/intuit/AnimationEngine) - Easily build advanced custom animations on iOS.
 * [Awesome-iOS-Animation ★829](https://github.com/jackymelb/awesome-ios-animation) - Collection of Animation projects
 * [RZTransitions ★1730](https://github.com/Raizlabs/RZTransitions) - A library of custom iOS View Controller Animations and Interactions.
 * [DCAnimationKit ★729 ⏳1Y](https://github.com/daltoniam/DCAnimationKit) - A collection of animations for iOS. Simple, just add water animations.
@@ -1769,7 +1769,7 @@ Most of these are paid services, some have free tiers.
 * [Bubble ★179](https://github.com/goldmoment/Bubble) - Fruit Animation :large_orange_diamond:
 * [Gemini ★1953](https://github.com/shoheiyokoyama/Gemini) - Gemini is rich scroll based animation framework for iOS, written in Swift :large_orange_diamond:
 * [WaterDrops ★199](https://github.com/LeFal/WaterDrops) - Simple water drops animation for iOS in Swift :large_orange_diamond:
-* [ViewAnimator ★110](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line. 🔶
+* [ViewAnimator ★2506](https://github.com/marcosgriselli/ViewAnimator) - ViewAnimator brings your UI to life with just one line. 🔶
 
 ##### Transition
 * [BlurryModalSegue ★923 ⏳1Y](https://github.com/Citrrus/BlurryModalSegue) - A custom modal segue for providing a blurred overlay effect.
@@ -1975,7 +1975,7 @@ Most of these are paid services, some have free tiers.
 * [cariocamenu ★568](https://github.com/arn00s/cariocamenu) - The fastest zero-tap iOS menu. :large_orange_diamond:
 * [VLDContextSheet ★168 ⏳2Y](https://github.com/vangelov/VLDContextSheet) - Context menu similar to the one in the Pinterest iOS app
 * [GuillotineMenu ★2536](https://github.com/Yalantis/GuillotineMenu) - Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine. :large_orange_diamond:
-* [MediumMenu ★294](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app. :large_orange_diamond:
+* [MediumMenu ★294 ⏳1Y](https://github.com/pixyzehn/MediumMenu) - A menu based on Medium iOS app. :large_orange_diamond:
 * [SwiftySideMenu ★78 ⏳2Y](https://github.com/hossamghareeb/SwiftySideMenu) - SwiftySideMenu is a lightweight and easy to use side menu controller to add left menu and center view controllers with scale animation based on Pop framework.
 * [LLSlideMenu ★548](https://github.com/lilei644/LLSlideMenu) - This is a spring slide menu for iOS apps
 * [Swift-Slide-Menu ★58 ⏳2Y](https://github.com/PhilippeBoisney/Swift-Slide-Menu) - A Slide Menu, written in Swift, inspired by Slide Menu Material Design. :large_orange_diamond:
@@ -2210,7 +2210,7 @@ Most of these are paid services, some have free tiers.
 * [Reusable ★1240](https://github.com/AliSoftware/Reusable) - A Swift mixin for UITableViewCells and UICollectionViewCells :large_orange_diamond:
 * [VTMagic ★1443](https://github.com/tianzhuo112/VTMagic) - VTMagic is a page container library for iOS.
 * [MCSwipeTableViewCell ★3012](https://github.com/alikaragoz/MCSwipeTableViewCell) - :point_up_2: Convenient UITableViewCell subclass that implements a swippable content to trigger actions (similar to the Mailbox app).
-* [Sapporo ★229](https://github.com/nghialv/Sapporo) - Cellmodel-driven collectionview manager :large_orange_diamond:
+* [Sapporo ★229 ⏳1Y](https://github.com/nghialv/Sapporo) - Cellmodel-driven collectionview manager :large_orange_diamond:
 * [MYTableViewIndex ★310](https://github.com/mindz-eye/MYTableViewIndex) - A pixel perfect replacement for UITableView section index, written in Swift :large_orange_diamond:
 * [RAReorderableLayout ★782](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout which can move item with drag and drop.
 * [PageFeedControl ★29](https://github.com/rob-nash/PageFeedControl) - Add paging to your table views with a cool animation.
