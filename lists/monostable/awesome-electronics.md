@@ -96,7 +96,7 @@ This list is for websites, services, software, tools and more: everything that y
 ## PCB Batching Services
 - [PCB Shopper](http://pcbshopper.com) - Comparison service for quite a lot of different PCB batching and assembly services.
 - [OSH Park](https://oshpark.com) - Low cost PCB batching service with high quality boards with a signature purple silkscreen.
-- [Aisler Go](https://go.aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
+- [Aisler](https://aisler.net) - Affordable quality circuit boards made in and shipped from Europe (Germany).
 - [Dirty PCBs](http://dirtypcbs.com) - Low cost PCB batching service that prides itself on its "dirty" quality.
 
 ## Part Search Engines
@@ -107,7 +107,6 @@ This list is for websites, services, software, tools and more: everything that y
 ## Project Sharing Platforms
 - [Kitnic.it](https://kitnic.it) - Project sharing site that helps you buy parts and re-build projects. Open source and developed by yours truly.
 - [Hackaday.io](https://hackaday.io) - Social site for sharing projects from the popular blog.
-- [Aisler.net](https://aisler.net) - Search engine for open source electronics published on GitHub.
 
 ## Inventory Management and Purchasing
 - [1-click BOM](https://1clickBOM.com) - Browser extensions that automates purchasing and part searching. 
@@ -176,6 +175,7 @@ This list is for websites, services, software, tools and more: everything that y
 
 - [PCB/EDA software list on the EEVblog forums](http://www.eevblog.com/forum/eda/pcbeda-software-list/) - A much more comprehensive list of all the software tools available. 
 - [intajay/open-electronics ★46](https://github.com/intajay/open-electronics) - Another GitHub list: resources for Electronics Enthusiasts and Hardware Hackers
+- [Vitorian/awesome-fpga ★60](https://github.com/Vitorian/awesome-fpga) - Awesome list of FPGA resources
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/monostable/awesome-electronics">monostable/awesome-electronics</a> with ranks

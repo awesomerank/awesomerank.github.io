@@ -102,9 +102,8 @@ A curated list of awesome JVM low level and performance related stuff.
 * [commons-math](http://commons.apache.org/proper/commons-math) - Library of lightweight, self-contained mathematics and statistics components.
 * [CuckooFilter4J ★43](https://github.com/MGunlogson/CuckooFilter4J) - Bloom filter replacement for approximated set-membership queries.
 * [cyclops ★372](https://github.com/aol/cyclops) - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
-* [java-concurrent-hash-trie-map ★103](https://github.com/romix/java-concurrent-hash-trie-map) - Java port of a concurrent trie hash map implementation from Scala collections.
-* [java-hll ★189 ⏳1Y](https://github.com/aggregateknowledge/java-hll) - Java library for the HyperLogLog algorithm.
-* [JavaFastPFOR ★278](https://github.com/lemire/JavaFastPFOR) - Library to compress and uncompress arrays of integers very fast.
+* [Eclipse Collections ★397](https://github.com/eclipse/eclipse-collections) - Collections framework for Java.
+* [failsafe ★1912](https://github.com/jhalterman/failsafe) - A lightweight, zero-dependency library for handling failures.
 * [fasttuple ★129](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
 * [geohash ★214](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
@@ -112,7 +111,10 @@ A curated list of awesome JVM low level and performance related stuff.
 * [hollow ★569](https://github.com/Netflix/hollow) - Java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets.
 * [high-scale-lib ★289 ⏳2Y](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [hppc ★414](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
-* [injector ★55 ⏳2Y](https://github.com/belliottsmith/injector) -  A new Executor for Java.
+* [injector ★55 ⏳2Y](https://github.com/belliottsmith/injector) - A new Executor for Java.
+* [java-concurrent-hash-trie-map ★103](https://github.com/romix/java-concurrent-hash-trie-map) - Java port of a concurrent trie hash map implementation from Scala collections.
+* [java-hll ★189 ⏳1Y](https://github.com/aggregateknowledge/java-hll) - Java library for the HyperLogLog algorithm.
+* [JavaFastPFOR ★278](https://github.com/lemire/JavaFastPFOR) - Library to compress and uncompress arrays of integers very fast.
 * [java-string-similarity ★1353](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [jOOL ★1117](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
@@ -166,6 +168,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [error-prone ★3021](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
 * [GHCVM](https://github.com/rahulmutt/ghcvm) - A Haskell to JVM compiler that supports GHC Haskell.
 * [Graal](http://openjdk.java.net/projects/graal/) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
+* [grappa ★60 ⏳1Y](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
 * [immutables](http://immutables.github.io/) - Generate simple, safe and consistent value objects.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
 * [javaparser ★1339](https://github.com/javaparser/javaparser) - Java 1.8 Parser and Abstract Syntax Tree for Java.

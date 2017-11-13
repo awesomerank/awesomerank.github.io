@@ -238,7 +238,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Firetype ★106 ⏳2Y](https://github.com/MaxDidIt/firetype) - Parse OpenType fonts and render them using Stage3D.
 * [BMFontRenderer ★33 ⏳6Y](https://github.com/bengarney/BMFontRenderer) - AS3 renderer for bitmap font data in the BMFont format.
-* [HanFont ★14 ⏳6Y](https://github.com/kyoji2/HanFont) - AIR app for Chinese Font Embeding in ActionScript.
+* [HanFont ★14 ⏳7Y](https://github.com/kyoji2/HanFont) - AIR app for Chinese Font Embeding in ActionScript.
 * [Ficon.as ★4 ⏳5Y](https://github.com/dv/Ficon.as) - Library to easily include icon fonts.
 
 #### Particle

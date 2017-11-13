@@ -591,6 +591,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 * [AppDynamics ![c]](https://www.appdynamics.com/) - Performance monitor.
 * [Automon ★423 ⏳1Y](https://github.com/stevensouza/automon) - Combines the power of AOP with monitoring and/or logging tools.
+* [Failsafe Actuator ★14](https://github.com/zalando-incubator/failsafe-actuator) - Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment.
 * [Glowroot](https://glowroot.org/) - Open-source Java APM.
 * [Instrumental ![c]](https://instrumentalapp.com) - Real-time Java application performance monitoring. A commercial service with free development accounts.
 * [JavaMelody ★1111](https://github.com/javamelody/javamelody) - Performance monitoring and profiling.
@@ -785,6 +786,8 @@ A curated list of awesome Java frameworks, libraries and software.
 
 * [Handlebars.java](http://jknack.github.io/handlebars.java/) - Logicless and semantic Mustache templates.
 * [Jtwig](http://jtwig.org/) - Modular, configurable and fully tested template engine.
+* [Jade4J ★574](https://github.com/neuland/jade4j) - Implementation of jade.
+* [Pebble](http://www.mitchellbosecke.com/pebble/home) - Inspired by Twig and separates itself with it's inheritance feature and it's easy-to-read syntax. It ships with built-in autoescaping for security and it includes integrated support for internationalization.
 * [Thymeleaf](http://www.thymeleaf.org/) - Aims to be a substitute for JSP and works for XML files.
 
 ## Testing

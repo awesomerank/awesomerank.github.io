@@ -163,7 +163,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [todomvc ★22528](https://github.com/tastejs/todomvc) - Helping you select an MV\* framework - todo app examples
 * [Dojo2 Example ★19](https://github.com/dojo/examples) - Dojo 2 Examples
 * [xamiro](https://github.com/xblox/xamiro) - IDE alike file manager in PHP and JavaScript with minimal dependencies.
-* [Windows-dist ★0](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
+* [Windows-dist ★0 ⏳1Y](https://github.com/flysurfer28/windows-dist) - Full automation suite for IoT and prototyping.
 
 [Back to top](#awesome-dojo)
 

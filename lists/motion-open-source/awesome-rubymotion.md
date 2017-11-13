@@ -297,7 +297,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 #### Element Wrappers
 * [Simple_si ★20 ⏳3Y](https://github.com/forrestgrant/simple_si) - RubyMotion wrapper for SIAlertView.
-* [Motion-blitz ★28 ⏳1Y](https://github.com/dblandin/motion-blitz) - RubyMotion wrapper for SVProgressHUD.
+* [Motion-blitz ★28 ⏳2Y](https://github.com/dblandin/motion-blitz) - RubyMotion wrapper for SVProgressHUD.
 
 
 ### Graphic Libraries
