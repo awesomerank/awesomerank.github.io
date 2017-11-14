@@ -761,7 +761,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [fuzzyurl](https://github.com/gamache/fuzzyurl.ex) - An Elixir library for parsing, constructing, and wildcard-matching URLs. Also available for [Ruby](https://github.com/gamache/fuzzyurl.rb) and [JavaScript ★3 ⏳1Y](https://github.com/gamache/fuzzyurl.js).
 * [hackney ★747](https://github.com/benoitc/hackney) - Simple HTTP client written in Erlang.
 * [http ★11 ⏳2Y](https://github.com/slogsdon/http) - HTTP server for Elixir.
-* [http_digex ★1](https://github.com/techgaun/http_digex) - A module to create basic digest HTTP auth header.
+* [http_digex ★1 ⏳1Y](https://github.com/techgaun/http_digex) - A module to create basic digest HTTP auth header.
 * [http_proxy ★25](https://github.com/KazuCocoa/http_proxy) - Multi port HTTP Proxy.
 * [httpoison ★1142](https://github.com/edgurgel/httpoison) - Yet Another HTTP client for Elixir powered by hackney.
 * [httpotion ★602](https://github.com/myfreeweb/httpotion) - Fancy HTTP client for Elixir, based on ibrowse.
@@ -926,7 +926,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dye ★16 ⏳1Y](https://github.com/Kabie/dye) - A library for dyeing your terminal output.
 * [dynamic_compile ★0 ⏳3Y](https://github.com/okeuday/dynamic_compile) - Compile and load Erlang modules from string input.
 * [ecto_autoslug_field ★42](https://github.com/sobolevn/ecto_autoslug_field) - Automatically creates slugs for your Ecto models.
-* [egaugex ★1](https://github.com/Brightergy/egaugex) - Client to fetch and parse realtime data from egauge devices.
+* [egaugex ★1 ⏳1Y](https://github.com/Brightergy/egaugex) - Client to fetch and parse realtime data from egauge devices.
 * [elixir-browser ★32](https://github.com/tuvistavie/elixir-browser) - Browser detection for Elixir.
 * [erlang_term ★16](https://github.com/okeuday/erlang_term) - Provide the in-memory size of Erlang terms, ignoring where these are stored.
 * [ex2ms ★43](https://github.com/ericmj/ex2ms) - Translates Elixir functions to match specifications for use with `ets`.

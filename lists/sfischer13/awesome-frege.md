@@ -192,7 +192,7 @@ You might also like [awesome-haskell ★1255](https://github.com/krispo/awesome-
 
 ### Media
 
-- [Zwana ★4](https://github.com/mchav/Zwana) - Piano using Java Midi.
+- [Zwana ★4 ⏳1Y](https://github.com/mchav/Zwana) - Piano using Java Midi.
 
 ### Web
 

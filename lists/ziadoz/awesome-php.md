@@ -329,7 +329,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [CircleCI](https://circleci.com) - A continuous integration platform.
 * [GitlabCi](https://about.gitlab.com/gitlab-ci/) - Let GitLab CI test, build, deploy your code. TravisCi like.
 * [Jenkins](https://jenkins.io/index.html) - A continous integration platform with [PHP support](http://jenkins-php.org/index.html).
-* [JoliCi ★649](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
+* [JoliCi ★649 ⏳1Y](https://github.com/jolicode/JoliCi) - A continuous integration client written in PHP and powered by Docker.
 * [PHPCI](https://www.phptesting.org/) - An open source continuous integration platform for PHP.
 * [SemaphoreCI](https://semaphoreci.com/) - A continuous integration platform for open source and private projects.
 * [Shippable](https://app.shippable.com/) - A docker based continious integration platform for open source and private projects.
@@ -477,7 +477,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 *Libraries for geocoding addresses and working with latitudes and longitudes.*
 
 * [GeoCoder](http://geocoder-php.org/) - A geocoding library.
-* [GeoJSON ★127](https://github.com/jmikola/geojson) - A GeoJSON implementation.
+* [GeoJSON ★127 ⏳1Y](https://github.com/jmikola/geojson) - A GeoJSON implementation.
 * [GeoTools ★837](https://github.com/thephpleague/geotools) - A library of geo-related tools.
 * [PHPGeo ★894](https://github.com/mjaschen/phpgeo) - A simple geo library.
 

@@ -192,6 +192,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [termbox-go ★2464](https://github.com/nsf/termbox-go) - Termbox is a library for creating cross-platform text-based interfaces.
 * [termtables](https://github.com/apcera/termtables) - Go port of the Ruby library [terminal-tables ★933](https://github.com/tj/terminal-table) for simple ASCII table generation as well as providing markdown and HTML output.
 * [termui](https://github.com/gizak/termui) - Go terminal dashboard based on **termbox-go** and inspired by [blessed-contrib ★10466](https://github.com/yaronn/blessed-contrib).
+* [tui-go ★999](https://github.com/marcusolsson/tui-go) - Go UI library for building rich terminal applications.
 * [uilive ★587](https://github.com/gosuri/uilive) - Library for updating terminal output in realtime.
 * [uiprogress ★1022](https://github.com/gosuri/uiprogress) - Flexible library to render progress bars in terminal applications.
 * [uitable ★399](https://github.com/gosuri/uitable) - Library to improve readability in terminal apps using tabular data.

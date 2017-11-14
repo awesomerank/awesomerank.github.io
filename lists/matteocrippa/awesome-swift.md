@@ -1549,7 +1549,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftyUtils ★165](https://github.com/tbaranes/SwiftyUtils) - All the reusable code that we need in each project.
 * [Swiftz ★2998](https://github.com/typelift/Swiftz) - Functional programming.
 * [Then ★1889](https://github.com/devxoul/Then) - Super sweet syntactic sugar for initializers.
-* [undefined ★55](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined.
+* [undefined ★55 ⏳1Y](https://github.com/weissi/swift-undefined) - Nano framework which defines Haskell's undefined.
 * [UTIKit ★191](https://github.com/cockscomb/UTIKit) - an UTI (Uniform Type Identifier) wrapper.
 * [WhatsNew ★556](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote.
 * [XestiMonitors ★236](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework.

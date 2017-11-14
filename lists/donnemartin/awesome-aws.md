@@ -283,7 +283,7 @@ Related Repos:
 * [Repo with S3 Sample ★22 ⏳2Y](https://github.com/awslabs/aws-ruby-sample)
 * [Install](http://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/setup-install.html)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-ruby/)
-* [Samples :fire:](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/)
+* [Samples :fire::fire:](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/)
 
 Related Repos:
 

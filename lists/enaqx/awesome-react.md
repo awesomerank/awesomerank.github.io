@@ -350,7 +350,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-stripe-checkout - Easily load Stripe Checkout as a React component ★399](https://github.com/azmenak/react-stripe-checkout)
 * [react-swipe - Brad Birdsall's swipe.js, as a React component](https://github.com/jed/react-swipe)
 * [react-smart-time-ago - Show relative "time ago" dates ★30 ⏳2Y](https://github.com/KyleAMathews/react-smart-time-ago)
-* [react-autoupdate-time - Renders a <time> element that autoupdates ★20 ⏳1Y](https://github.com/KyleAMathews/react-autoupdate-time)
+* [react-autoupdate-time - Renders a <time> element that autoupdates ★20 ⏳2Y](https://github.com/KyleAMathews/react-autoupdate-time)
 * [react-time - Component for React to render relative and/or formatted dates into <time> ★188](https://github.com/andreypopp/react-time)
 * [react-crouton - A message component for reactjs ★136](https://github.com/xeodou/react-crouton)
 * [react-ago-component - Renders the approximate time ago in words from a specific past date ★23](https://github.com/martinandert/react-ago-component)
@@ -922,7 +922,7 @@ A collection of awesome things regarding React ecosystem.
 * [sangria - **Scala** GraphQL client and server library](https://github.com/OlegIlyenko/sangria)
 * [graphql-php - A **PHP** port of GraphQL reference implementation ★1561](https://github.com/webonyx/graphql-php)
 * [graphene - GraphQL in **Python** made simple](http://graphene-python.org/)
-* [graphqllib - GraphQL implementation for **Python** ★164 ⏳1Y](https://github.com/dittos/graphqllib)
+* [graphqllib - GraphQL implementation for **Python** ★164 ⏳2Y](https://github.com/dittos/graphqllib)
 * [graphql-dotnet - GraphQL for **.NET** ★1423](https://github.com/graphql-dotnet/graphql-dotnet)
 * [graphql-go - GraphQL for Go/Golang ★2117](https://github.com/graphql-go/graphql)
 

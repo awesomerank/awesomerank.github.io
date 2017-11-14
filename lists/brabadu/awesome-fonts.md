@@ -59,7 +59,7 @@ A curated list of fonts and typography resources.
 * [alfred-emoji-workflow ★556](https://github.com/carlosgaldino/alfred-emoji-workflow) - Alfred 2 workflow for searching emoji codes
 * [emoji-cheat-sheet.com ★5458](https://github.com/WebpageFX/emoji-cheat-sheet.com) - A one pager for emojis on Campfire and GitHub
 * [emoji-data-js ★53 ⏳1Y](https://github.com/mroth/emoji-data-js) - Emoji encoding swiss army knife for NodeJS
-* [emoji-minesweeper ★235](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
+* [emoji-minesweeper ★235 ⏳1Y](https://github.com/muan/emoji-minesweeper) - Minesweeper game made with emojis
 * [emoji-regex ★308](https://github.com/mathiasbynens/emoji-regex) - A regular expression to match all Emoji-only symbols as per the Unicode Standard
 * [emoji-rspec ★170 ⏳3Y](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec
 * [emoji-translate ★737](https://github.com/notwaldorf/emoji-translate) - Translate text to emoji

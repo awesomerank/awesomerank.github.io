@@ -179,7 +179,7 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [core ★1448](https://github.com/elm-lang/core) - Elm Core Libraries.
 * [html ★227](https://github.com/elm-lang/html) - Use HTML in Elm, based on the idea of a "virtual DOM".
 * [elm-test ★258](https://github.com/elm-community/elm-test) - A unit testing framework for Elm.
-* [elm-router ★96 ⏳1Y](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
+* [elm-router ★96 ⏳2Y](https://github.com/TheSeamau5/elm-router) - Easy routing in Elm.
 * [http ★56](https://github.com/elm-lang/http) - Make HTTP requests in Elm.
 * [elm-http-builder ★110](https://github.com/lukewestby/elm-http-builder) - Build and handle JSON requests more naturally than with low-level elm-http.
 * [elm-console ★53 ⏳1Y](https://github.com/laszlopandy/elm-console) - Elm library to read and write to the console in Node.

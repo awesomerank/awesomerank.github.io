@@ -46,7 +46,7 @@ A curated list of awesome plugins for [Knockout framework](http://knockoutjs.com
 - [Punches ★247 ⏳1Y](https://github.com/mbest/knockout.punches) - Collection of enhanced binding syntaxes
 - [Switch Case ★170 ⏳1Y](https://github.com/mbest/knockout-switch-case) - Powerful control flow bindings
 - [Repeat ★131](https://github.com/mbest/knockout-repeat) - The repeat binding can replace foreach in many instances and is faster and simpler
-- [Table ★89 ⏳1Y](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
+- [Table ★89 ⏳2Y](https://github.com/mbest/knockout-table) - Table binding plugin for Knockout
 
 ## Components
 - [Cart ★87 ⏳4Y](https://github.com/robconery/knockout-cart) - Simple browser-based shopping cart that uses local storage

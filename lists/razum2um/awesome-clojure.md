@@ -158,7 +158,7 @@ title: Awesome Rank for razum2um/awesome-clojure
 
 *Keeps database and others in sync*
 
-  * [Lobos ★263](https://github.com/budu/lobos)
+  * [Lobos ★263 ⏳1Y](https://github.com/budu/lobos)
   * [Ragtime ★371](https://github.com/weavejester/ragtime)
   * [Joplin ★255](https://github.com/juxt/joplin)
   * [Migratus ★249](https://github.com/yogthos/migratus)

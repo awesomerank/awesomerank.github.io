@@ -85,7 +85,7 @@ Pull requests are more then welcome.
 - [ripple-blobvault ★32 ⏳1Y](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
 - [ripple-authd ★6 ⏳2Y](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
 - [rippled-historical-database ★31](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
-- [ripple-data-api ★45 ⏳1Y](https://github.com/ripple/ripple-data-api)
+- [ripple-data-api ★45 ⏳2Y](https://github.com/ripple/ripple-data-api)
 - [ripple-vault-client](ripple-vault-client)
 - [federation-php ★9 ⏳4Y](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
 - [federation-python ★2 ⏳3Y](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
