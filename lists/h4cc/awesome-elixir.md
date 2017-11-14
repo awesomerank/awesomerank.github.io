@@ -1258,7 +1258,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mixunit ★2 ⏳2Y](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
 * [mock ★264](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
 * [pavlov ★127 ⏳1Y](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
-* [plug_test_helpers ★9 ⏳2Y](https://github.com/xavier/plug_test_helpers) - A simple testing DSL for Plugs.
+* [plug_test_helpers ★9 ⏳3Y](https://github.com/xavier/plug_test_helpers) - A simple testing DSL for Plugs.
 * [ponos ★100 ⏳2Y](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
 * [power_assert ★143](https://github.com/ma2gedev/power_assert_ex) - Power Assert in Elixir. Shows evaluation results each expression.
 * [proper ★553](https://github.com/manopapad/proper) - PropEr (PROPerty-based testing tool for ERlang) is a QuickCheck-inspired open-source property-based testing tool for Erlang.

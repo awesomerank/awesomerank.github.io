@@ -1289,9 +1289,9 @@ Most of these are paid services, some have free tiers.
 * [Spartan ★22](https://github.com/Daltron/Spartan) - An Elegant Spotify Web API Library Written in Swift for iOS and macOS. :large_orange_diamond:
 * [BigBoard ★38](https://github.com/Daltron/BigBoard) - An Elegant Financial Markets Library Written in Swift that makes requests to Yahoo Finance API's under the hood. :large_orange_diamond:
 * [SwiftyVK ★137](https://github.com/SwiftyVK/SwiftyVK) Library for easy interact with VK social network API written in Swift 🔶
-* [ARKKit ★7](https://github.com/sleepdefic1t/ARKKit) - [ARK Ecosystem](https://ark.io) Cryptocurrency API Framework for iOS & macOS, written purely in Swift 4.0. :large_orange_diamond:
+* [ARKKit ★7](https://github.com/sleepdefic1t/ARKKit) - ARK Ecosystem Cryptocurrency API Framework for iOS & macOS, written purely in Swift 4.0. :large_orange_diamond:
 * [SwiftInstagram ★325](https://github.com/AnderGoig/SwiftInstagram) - Swift Client for Instagram API. :large_orange_diamond:
-* [SwiftyArk ★6](https://github.com/Awalz/SwiftyArk) - A simple, lightweight, fully-asynchronous cryptocurrency framework for the [ARK Ecosystem](https://ark.io). :large_orange_diamond:
+* [SwiftyArk ★6](https://github.com/Awalz/SwiftyArk) - A simple, lightweight, fully-asynchronous cryptocurrency framework for the ARK Ecosystem. :large_orange_diamond:
 
 ## Security
 * [cocoapods-keys ★896](https://github.com/orta/cocoapods-keys) - A key value store for storing environment and application keys.
@@ -2396,6 +2396,7 @@ Most of these are paid services, some have free tiers.
  * [FluxCapacitor ★90](https://github.com/marty-suzuki/FluxCapacitor) - FluxCapacitor makes implementing Flux design pattern easily with protocols and typealias. 🔶
  * [VTAcknowledgementsViewController ★808](https://github.com/vtourraine/VTAcknowledgementsViewController) - Ready to use “Acknowledgements”/“Licenses”/“Credits” view controller for CocoaPods.
  * [Closures ★1181](https://github.com/vhesener/Closures) - Swifty closures for UIKit and Foundation. 🔶
+ * [WhatsNew ★556](https://github.com/BalestraPatrick/WhatsNew) - Showcase new features after an app update similar to Pages, Numbers and Keynote :large_orange_diamond:
 
 ## VR
 * [VR Toolkit iOS ★75 ⏳1Y](https://github.com/Aralekk/VR_Toolkit_iOS) - A sample project that provides the basics to create an interactive VR experience on iOS :large_orange_diamond:

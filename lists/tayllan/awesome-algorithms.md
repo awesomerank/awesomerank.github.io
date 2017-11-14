@@ -109,7 +109,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
     * [by @ EvgenyKarkan ★2264](https://github.com/EvgenyKarkan/EKAlgorithms)
 * Python
     * [by @nryoung ★2509](https://github.com/nryoung/algorithms)
-    * [by @prakhar1989 ★1911](https://github.com/prakhar1989/Algorithms)
+    * [by @prakhar1989 ★1911 ⏳1Y](https://github.com/prakhar1989/Algorithms)
     * [by @laurentluce ★210](https://github.com/laurentluce/python-algorithms)
     * [by @nbro ★17](https://github.com/nbro/ands)
 * Ruby
