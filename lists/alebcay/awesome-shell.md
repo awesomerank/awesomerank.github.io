@@ -231,7 +231,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [jrnl ★2513](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger ★2148](https://github.com/ledger/ledger) - Command line accounting
 * [licen ★24 ⏳2Y](https://github.com/lord63/licen) - Generate your license. Yet another lice, but implement with Jinja2 and docopt
-* [moviemon ★79](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
+* [moviemon ★79 ⏳1Y](https://github.com/iCHAIT/moviemon) - Everything about your movies within the command line.
 * [pockyt ★190](https://github.com/arvindch/pockyt) - Read, Manage, and Automate your [Pocket](https://getpocket.com) collection.
 * [pushblast ★91 ⏳1Y](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash ★180](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API

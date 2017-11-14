@@ -246,7 +246,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [Mibew](https://mibew.org) - Mibew Messenger is an open-source live support application written in PHP and MySQL. It enables one-on-one chat assistance in real-time directly from your website. ([Demo](https://mibew.org/demo2), [Source Code ★300](https://github.com/Mibew/mibew)) `Apache` `PHP`
   * [Mumble](http://wiki.mumble.info/wiki/Main_Page) - Low-latency, high quality voice/text chat software. ([Source Code ★1772](https://github.com/mumble-voip/mumble)) `BSD` `C++`
     * [Mumblecop](https://bitbucket.org/Flandoo/mumblecop) - Stream audio from youtube and soundcloud, simulate dice rolls, or write your own commands with a simple plugin format. `MIT` `Ruby`
-  * [Niltalk](http://niltalk.com/) - A simple, private, persistence-free web based multi-room chat server + client. ([Source Code ★677](https://github.com/knadh/niltalk)) `AGPLv3` `Go`
+  * [Niltalk](http://niltalk.com/) - A simple, private, persistence-free web based multi-room chat server + client. ([Source Code ★677 ⏳1Y](https://github.com/knadh/niltalk)) `AGPLv3` `Go`
   * [Node-Chat ★393](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. `MIT` `Nodejs`
   * [Pushjet](https://pushjet.io/) - A self hosted push notification service built with a simple API making sending notifications easy. ([Source Code ★191](https://github.com/Pushjet/Pushjet-Server-Api)) `BSD` `Python`
   * [Rallly](http://rallly.co) - Rallly is a free collaborative scheduling service. ([Source Code ★103](https://github.com/lukevella/Rallly)) `CCBYSA` `Nodejs`

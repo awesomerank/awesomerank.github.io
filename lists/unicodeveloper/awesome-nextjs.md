@@ -80,6 +80,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Cookie handler with server render ★0](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 * [Gank ★0](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
 * [Decoupled CMS example with GraphQL and Next.js ★4](https://github.com/janit/decoupled-cms-nextjs-graphql)
+* [DS ★1](https://github.com/divyenduz/ds) - Personal site manager.
 
 ## Videos
 

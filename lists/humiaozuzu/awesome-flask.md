@@ -110,7 +110,7 @@ Plugins
     - [Flask-Login ★1526](https://github.com/maxcountryman/flask-login) - Flask user session management
     - [Authomatic](https://github.com/peterhudec/authomatic) - Authomatic provides out of the box support for a number of providers using OAuth 1.0a (Twitter, Tumblr and more) and OAuth 2.0 (Facebook, Foursquare, GitHub, Google, LinkedIn, PayPal and more)
     - [flask-googlefed ★58 ⏳1Y](https://github.com/kennethreitz/flask-googlefed) - Google Federated Logins for Flask
-    - [Flask-OpenID ★176](https://github.com/mitsuhiko/flask-openid) - Flask-OpenID adds openid support to flask applications
+    - [Flask-OpenID ★176 ⏳1Y](https://github.com/mitsuhiko/flask-openid) - Flask-OpenID adds openid support to flask applications
     - [Flask-Social ★194](https://github.com/mattupstate/flask-social) - OAuth Provider Integration for Flask-Security
     - [Flask-OAuthlib ★1105](https://github.com/lepture/flask-oauthlib) - OAuthlib implementation for Flask
     - [GitHub-Flask](https://github.com/cenk/github-flask) - Flask extension for authenticating users with GitHub and making requests to the API
