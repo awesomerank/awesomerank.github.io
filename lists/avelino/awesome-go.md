@@ -551,7 +551,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [gopherjs ★5766](https://github.com/gopherjs/gopherjs) - Compiler from Go to JavaScript.
 * [llgo ★852 ⏳2Y](https://github.com/go-llvm/llgo) - LLVM-based compiler for Go.
-* [tardisgo ★355](https://github.com/tardisgo/tardisgo) - Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.
+* [tardisgo ★355 ⏳1Y](https://github.com/tardisgo/tardisgo) - Golang to Haxe to CPP/CSharp/Java/JavaScript transpiler.
 
 ## Goroutines
 

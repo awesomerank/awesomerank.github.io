@@ -53,7 +53,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 
 
 ### Client/Server Communication
-- Cumulo [server](https://github.com/Cumulo/cumulo-server)/[client ★0](https://github.com/Cumulo/cumulo-client) – A pair of libries to sync data among clients, based on WebSocets and diff/patch.
+- Cumulo [server](https://github.com/Cumulo/cumulo-server)/[client ★0 ⏳1Y](https://github.com/Cumulo/cumulo-client) – A pair of libries to sync data among clients, based on WebSocets and diff/patch.
 - [Fetch ★199](https://github.com/LightTable/fetch) – A ClojureScript library that makes client/server interaction painless.
 
 
@@ -177,7 +177,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 
 
 ### Testing
-- [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) – Integrated test framework for ClojureScript (merged from [clojurescript.test ★168 ⏳1Y](https://github.com/cemerick/clojurescript.test)) 
+- [cljs.test](https://github.com/clojure/clojurescript/wiki/Testing) – Integrated test framework for ClojureScript (merged from [clojurescript.test ★168 ⏳2Y](https://github.com/cemerick/clojurescript.test)) 
 - [Expectations](http://jayfields.com/expectations/) – A minimalist's unit testing framework.
 - [Speclj ★380](https://github.com/slagyr/speclj) – A TDD/BDD framework for Clojure and ClojureScript.
 - [test.check ★784](https://github.com/clojure/test.check) – A generative property-based testing tool inspired by QuickCheck.

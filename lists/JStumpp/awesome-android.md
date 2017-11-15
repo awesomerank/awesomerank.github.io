@@ -458,7 +458,7 @@ My personal recommendation is (for now) to use the android api to build a native
 ### Groovy
 - [Groovy on Android](http://melix.github.io/blog/2014/06/grooid.html) - Introduction to Groovy on Android.
 - [Groovy Language Support for Android ★720](https://github.com/groovy/groovy-android-gradle-plugin) - Gradle Plugin for Compiling Groovy for Android.
-- [SwissKnife ★258 ⏳1Y](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
+- [SwissKnife ★258 ⏳2Y](https://github.com/Arasthel/SwissKnife) - A multi-purpose Groovy library containing view injection and threading for Android using annotations.
 
 ### Kotlin
 - [Anko ★8137](https://github.com/Kotlin/anko) - DSL for Android written in Kotlin by JetBrains.

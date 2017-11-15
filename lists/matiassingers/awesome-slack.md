@@ -424,7 +424,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [dogetip-slack ★9 ⏳1Y](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack
 - [doorbell-server ★17](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell
 - [fastlane ★18650](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
-- [gifbot ★38 ⏳3Y](https://github.com/schuyler/gifbot) - Integrated animated GIF search for Slack
+- [gifbot ★38 ⏳4Y](https://github.com/schuyler/gifbot) - Integrated animated GIF search for Slack
 - [hatebu-hooker ★4 ⏳3Y](https://github.com/kmrshntr/hatebu-hooker) - Post Hatena::Bookmark to Slack
 - [kickslacker ★5](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack
 - [lita-slack](https://github.com/kenjij/lita-slack) - Lita adapter for Slack

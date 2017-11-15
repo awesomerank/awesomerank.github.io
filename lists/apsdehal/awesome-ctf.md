@@ -74,7 +74,7 @@ It takes time to build up collection of tools used in ctf and remember them all.
 - [OpenCTF ★39](https://github.com/easyctf/openctf) - CTF in a box. Minimal setup required
 - [PicoCTF Platform 2 ★87](https://github.com/picoCTF/picoCTF-Platform-2) - A genericized version of picoCTF 2014 that can be easily adapted to host CTF or programming competitions.
 - [PyChallFactory ★5](https://github.com/pdautry/py_chall_factory) - Small framework to create/manage/package jeopardy CTF challenges
-- [RootTheBox ★228](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager
+- [RootTheBox ★228](https://github.com/moloch--/RootTheBox) - A Game of Hackers (CTF Scoreboard & Game Manager)
 - [Scorebot ★34](https://github.com/legitbs/scorebot) - Platform for CTFs by Legitbs (Defcon)
 - [SecGen ★1221](https://github.com/cliffe/SecGen) - Security Scenario Generator. Creates randomly vulnerable virtual machines
 
@@ -320,9 +320,10 @@ Check solve section for steganography.
 - [ROP Wargames](https://game.rop.sh/) - ROP Wargames
 - [SmashTheStack](http://smashthestack.org/) - A variety of wargames maintained by the SmashTheStack Community.
 - [VulnHub](https://www.vulnhub.com/) - VM-based for practical in digital security, computer application & network administration.
+- [W3Challs](https://w3challs.com) - A penetration testing training platform, which offers various computer challenges, in various categories.
 - [WebHacking](http://webhacking.kr) - Hacking challenges for web.
 - [WeChall](https://www.wechall.net/) - Always online challenge site.
-- [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts.
+- [WTHack OnlineCTF](https://onlinectf.com) - CTF Practice platform for every level of cyber security enthusiasts. 
 
 *Self-hosted CTFs*
 

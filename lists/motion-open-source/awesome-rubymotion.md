@@ -141,7 +141,7 @@ Please take a look at the [contribution guidelines and quality standard](https:/
 
 
 ## Developer Tools
-* [Objc2rubymotion ★26 ⏳1Y](https://github.com/bensheldon/objc2rubymotion) - convert objective-c code to rubymotion.
+* [Objc2rubymotion ★26 ⏳2Y](https://github.com/bensheldon/objc2rubymotion) - convert objective-c code to rubymotion.
 * [MLogger](https://motionobj.com/mlogger/) - Simple, log server for development.
 
 

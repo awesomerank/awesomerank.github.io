@@ -993,6 +993,7 @@ Tooltips / popovers
   - [stf-vue-select ★38](https://github.com/stfalcon-studio/stf-vue-select) - most flexible and customized select Vue2
  - [vue-select-image ★12](https://github.com/mazipan/vue-select-image) - Vue 2 Component for selecting image from list
  - [@riophae/vue-treeselect ★35](https://github.com/riophae/vue-treeselect) - A multi-select component with nested options for Vue.js
+ - [@k186/pd-select ★32](https://github.com/k186/pd-select) - A mobile UI component like IOS picker for Vue 2.x,can be wheel pick what ever you defined.
 
 #### Slider
 
@@ -1316,6 +1317,7 @@ Tooltips / popovers
  - [v-lazy-img ★11](https://github.com/nkoehring/v-lazy-img) - Tiny (<0.6kb) directive for progressive image loading for Vue 2.
  - [vue-clazy-load ★28](https://github.com/matheusgrieger/vue-clazy-load) - Lightweight transitionable image lazy loading component using IntersecionObserver for Vue 2.
  - [vue-lazy-this ★6](https://github.com/thangman22/vue-lazy-this) - Lazyloading component using Intersection Observer API.
+
 ### Pagination
 
  - [vue-paginate ★323](https://github.com/TahaSh/vue-paginate) - A simple vue.js plugin to paginate data.
@@ -1440,6 +1442,8 @@ the amazing Vue.js.
  - [vue-pouch](https://github.com/qurateinc/vue-pouch) - Live and reactive bindings for PouchDB. Persist data in IndexedDB and sync with CouchDB.
  - [vue-idb ★12](https://github.com/ddgll/vue-idb) - Lists and huge lists management with IndexedDB (Dexie.js) only or automatically created and extendible vuex modules
  - [vuejs-storage ★19](https://github.com/maple3142/vuejs-storage) - Vue.js and vuex plugin to persistence data with localStorage/sessionStorage.
+ - [vue-browserstore ★0](https://github.com/gvost/vue-browserstore) - Browser storage wrapper.
+ - [VueStorage ★1](https://github.com/SeregPie/VueStorage) - Allows components to save and load their data across browser sessions.
 
 ### State Management
 

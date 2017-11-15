@@ -841,7 +841,7 @@ Community Repos:
 * [MathieuLoutre/grunt-aws-s3 :fire::fire: ★296](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
 * [minio/mc :fire::fire::fire: ★580](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
 * [minio/minio :fire::fire::fire::fire::fire: ★8721](https://github.com/minio/minio) - Object storage server compatible with S3.
-* [mumrah/s3-multipart :fire: ★131 ⏳1Y](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
+* [mumrah/s3-multipart :fire: ★131 ⏳2Y](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 * [ncw/rclone :fire::fire::fire::fire::fire: ★7196](https://github.com/ncw/rclone) - Rsync for various cloud storage providers such as S3.
 * [owocki/s3_disk_util :fire: ★159 ⏳1Y](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
 * [pgherveou/gulp-awspublish :fire::fire: ★353](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.

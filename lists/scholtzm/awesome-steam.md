@@ -133,6 +133,7 @@ The purpose of this document is to provide a quick overview over existing packag
 - [steamodd ★61 ⏳1Y](https://github.com/Lagg/steamodd) - Steam tools library.
 - [steampy ★61](https://github.com/bukson/steampy) - Fully automated Steam trade offers library with SteamGuard support.
 - [SteamAPI ★268](https://github.com/smiley/steamapi) - An object-oriented Python 2.7+ library for accessing the Steam Web API.
+- [Steam-Trade ★0](https://github.com/Zwork101/steam-trade) - An asynchronous, event-based trade library.
 
 #### Game Interaction
 
@@ -141,7 +142,6 @@ The purpose of this document is to provide a quick overview over existing packag
 
 #### Misc
 
-- [backpack.py ★3](https://github.com/Zwork101/backpack.py) - Library for interacting with backpack.tf.
 - [vpk ★9](https://github.com/ValvePython/vpk) - Python module for working with Valve's Pack format.
 - [vdf ★20](https://github.com/ValvePython/vdf) - Python module for working with Valve's KeyValue format.
 

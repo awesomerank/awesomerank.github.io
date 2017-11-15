@@ -104,7 +104,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [gphoto2.cr ★8](https://github.com/Sija/gphoto2.cr) - Bindings for the [libgphoto2](http://www.gphoto.org/) library
  * [icu.cr ★2](https://github.com/olbat/icu.cr) - Bindings for the [ICU](http://site.icu-project.org/) library
  * [java.cr ★8](https://github.com/ysbaddaden/java.cr) - Java Native Interface (JNI) bindings (and generator)
- * [libnotify.cr ★11](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
+ * [libnotify.cr ★11 ⏳1Y](https://github.com/splattael/libnotify.cr) - Bindings for Libnotify
  * [libui.cr](https://github.com/Fusion/libui.cr) - Bindings for [libui ★4682](https://github.com/andlabs/libui)
  * [pcap.cr ★13](https://github.com/maiha/pcap.cr) - Bindings for libpcap
  * [posix ★18](https://github.com/ysbaddaden/posix) - POSIX/C bindings

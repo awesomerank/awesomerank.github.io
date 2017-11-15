@@ -130,7 +130,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [task.js ★1616 ⏳1Y](https://github.com/mozilla/task.js) - Write async functions in a blocking style using promises and generators. Like `bluebird.coroutine`.
 * [co ★8864](https://github.com/tj/co) - Like `task.js` and `bluebird.coroutine`, but supports thunks too.
 * [lie-fs](https://www.npmjs.com/package/lie-fs) - Promise wrappers for Node's FS API.
-* [promise-do-until ★0 ⏳1Y](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
+* [promise-do-until ★0 ⏳2Y](https://github.com/busterc/promise-do-until) - Calls a function repeatedly until a condition returns true and then resolves the promise.
 * [promise-do-whilst ★2 ⏳1Y](https://github.com/busterc/promise-do-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise.
 * [promise-semaphore ★28 ⏳1Y](https://github.com/samccone/promise-semaphore) - Push a set of work to be done in a configurable serial fashion
 * [promise-nodeify ★0](https://github.com/kevinoid/promise-nodeify) - Standalone `nodeify` method which calls a Node-style callback on resolution or rejection.

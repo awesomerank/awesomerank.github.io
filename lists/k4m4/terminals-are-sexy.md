@@ -205,6 +205,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [homebrew-cask ★11897](https://github.com/caskroom/homebrew-cask) - CLI workflow for the administration of macOS applications distributed as binaries.
 * [mps-youtube ★3040](https://github.com/mps-youtube/mps-youtube) - Terminal based YouTube player and downloader
 * [colorls ★1201](https://github.com/athityakumar/colorls) - Beautify the terminal's `ls` command, with color and font-awesome icons.
+* [buku ★1579](https://github.com/jarun/Buku) - command-line bookmark manager.
 
 ## Communication
 

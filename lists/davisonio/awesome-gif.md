@@ -81,7 +81,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [Screengif ★979](https://github.com/dergachev/screengif) - Create animated GIF screencasts
 - [vnc-over-gif ★517](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http
 - [gifdeck ★92 ⏳2Y](https://github.com/jaipandya/gifdeck) - Convert your SlideShares into animated GIFs
-- [Gifbot ★38 ⏳3Y](https://github.com/schuyler/gifbot) - GIF search for Slack
+- [Gifbot ★38 ⏳4Y](https://github.com/schuyler/gifbot) - GIF search for Slack
 - [Gif-camera ★20 ⏳4Y](https://github.com/FuzzyWobble/GIF-Camera) - create animated GIFs using webcam
 - [Gifline ★54](https://github.com/zehfernandes/gifline) - Chrome extension to put GIFs in your emails
 - [Gifdrop ★36 ⏳1Y](https://github.com/markjaquith/gifdrop) - Create a repository for your collection of gif images

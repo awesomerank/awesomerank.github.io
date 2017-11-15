@@ -187,7 +187,7 @@ A curated list of tools and resources for security incident response, aimed to h
 * [Metadefender Cloud](https://www.metadefender.com) - Metadefender is a free threat intelligence platform providing multiscanning, data sanitization and vulnerability assesment of files
 * [Viper ★990](https://github.com/viper-framework/viper) - Viper is a python based binary analysis and management framework, that works well with Cuckoo and YARA
 * [Virustotal](https://www.virustotal.com) - Virustotal, a subsidiary of Google, is a free online service that analyzes files and URLs enabling the identification of viruses, worms, trojans and other kinds of malicious content detected by antivirus engines and website scanners
-* [Visualize_Logs ★79](https://github.com/keithjjones/visualize_logs) - Open source 
+* [Visualize_Logs ★79 ⏳1Y](https://github.com/keithjjones/visualize_logs) - Open source 
   visualization library and command line tools for logs.  (Cuckoo, Procmon, more to come...)
 
 ### Timeline tools

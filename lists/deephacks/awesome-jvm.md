@@ -112,7 +112,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [high-scale-lib ★289 ⏳2Y](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
 * [hppc ★414](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
 * [injector ★55 ⏳2Y](https://github.com/belliottsmith/injector) - A new Executor for Java.
-* [java-concurrent-hash-trie-map ★103](https://github.com/romix/java-concurrent-hash-trie-map) - Java port of a concurrent trie hash map implementation from Scala collections.
+* [java-concurrent-hash-trie-map ★103 ⏳1Y](https://github.com/romix/java-concurrent-hash-trie-map) - Java port of a concurrent trie hash map implementation from Scala collections.
 * [java-hll ★189 ⏳1Y](https://github.com/aggregateknowledge/java-hll) - Java library for the HyperLogLog algorithm.
 * [JavaFastPFOR ★278](https://github.com/lemire/JavaFastPFOR) - Library to compress and uncompress arrays of integers very fast.
 * [java-string-similarity ★1353](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.

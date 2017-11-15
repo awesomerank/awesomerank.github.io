@@ -38,7 +38,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 
 ## Tools
 - [n98-magerun2](http://magerun.net/) - The CLI Swiss Army Knife for Magento 2.
-- [Documentation Search for Alfred ★5](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily integrate the official Magento 2 Search into your Alfred Workflows.
+- [Documentation Search for Alfred ★5 ⏳1Y](https://github.com/DavidLambauer/Alfred-Workflow-Magento-2-DevDocs-Search) - Easily integrate the official Magento 2 Search into your Alfred Workflows.
 - [Tablerates Generator](https://elgentos.nl/tablerates/) - Generate Tablerates with an online Tool.
 - [Pestle ★279](https://github.com/astorm/pestle) - Code Generation Tool by Alan Storm.
 - [Mage2Gen](https://mage2gen.com/) - Online Module Creator.

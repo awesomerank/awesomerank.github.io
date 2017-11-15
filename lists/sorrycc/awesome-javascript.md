@@ -11,6 +11,10 @@ title: Awesome Rank for sorrycc/awesome-javascript
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
+<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/4nLcpb15dDGjqky6oYYGz6f7/sorrycc/awesome-javascript'>
+  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/4nLcpb15dDGjqky6oYYGz6f7/sorrycc/awesome-javascript.svg' />
+</a>
+
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
@@ -918,11 +922,9 @@ http://www.listjs.com
 * [dinbror/you-might-not-need-jquery-plugins ★10 ⏳2Y](https://github.com/dinbror/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews ★16432](https://github.com/MaximAbramchuck/awesome-interview-questions)
 
-
 # Contributing
 
 Contributions welcome! Read the [contribution guidelines](https://github.com/sorrycc/awesome-javascript/blob/master/CONTRIBUTING.md) first.
-
 
 # License
 

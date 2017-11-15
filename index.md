@@ -190,7 +190,7 @@ title: Awesome Rank for sindresorhus/awesome
 	- [Relay ★179](lists/expede/awesome-relay.md) - Framework for building data-driven React apps.
 - [Web Components ★971](lists/mateusortiz/webcomponents-the-right-way.md)
 - [Polymer ★329](lists/Granze/awesome-polymer.md) - JavaScript library to develop Web Components.
-- [Angular ★4951](lists/AngularClass/awesome-angular.md) - App framework.
+- [Angular ★4962](lists/gdi2290/awesome-angular.md) - App framework.
 - [Backbone ★368 ⏳1Y](lists/sadcitizen/awesome-backbone.md) - App framework.
 - [HTML5 ★787](lists/diegocard/awesome-html5.md) - Markup language used for websites & web apps.
 - [SVG ★3367](lists/willianjusten/awesome-svg.md) - XML-based vector image format.

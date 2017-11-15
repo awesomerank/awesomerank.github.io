@@ -61,6 +61,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
 - [git-recall](#git-recall)
 - [git-standup](#git-standup)
 - [Commitizen](#commitizen)
+- [git-fresh](#git-fresh)
 
 
 ## [git-extras ★10566](https://github.com/tj/git-extras)
@@ -1513,6 +1514,11 @@ Line 1 will be cropped at 100 characters. All other lines will be wrapped after 
   perf:     A code change that improves performance
   test:     Adding missing tests or correcting existing tests
 ```
+
+
+## [git-fresh ★422](https://github.com/imsky/git-fresh)
+
+TBD
 
 
 ## License
