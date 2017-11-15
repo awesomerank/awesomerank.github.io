@@ -447,7 +447,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Refinery CMS ★18 ⏳1Y](lists/refinerycms-contrib/awesome-refinerycms.md) - Ruby on Rails CMS.
 - [Wagtail ★360](lists/springload/awesome-wagtail.md) - Django CMS focused on flexibility and user experience.
 - [Textpattern ★33](lists/drmonkeyninja/awesome-textpattern.md) - Lightweight PHP-based CMS.
-- [Drupal ★28](lists/nirgn975/awesome-drupal.md) - Extensible PHP-based CMS.
+- [Drupal ★28 ⏳1Y](lists/nirgn975/awesome-drupal.md) - Extensible PHP-based CMS.
 - [Craft CMS ★93](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
 
 

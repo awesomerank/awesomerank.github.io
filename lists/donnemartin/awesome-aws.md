@@ -458,7 +458,7 @@ Community Repos:
 
 AWS Repos:
 
-* [cloudsearchable ★41 ⏳1Y](https://github.com/awslabs/cloudsearchable) - An ActiveRecord-style ORM query interface.
+* [cloudsearchable ★41 ⏳2Y](https://github.com/awslabs/cloudsearchable) - An ActiveRecord-style ORM query interface.
 
 Community Repos:
 
