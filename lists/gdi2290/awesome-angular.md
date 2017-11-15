@@ -483,6 +483,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ngx-qrcode2 ★28](https://github.com/techiediaries/ngx-qrcode) - An Angular 4+ Component library for Generating QR (Quick Response ) Codes 
 * [ng2-permission](https://github.com/JavadRasouli/ng2-permission) - Fully featured permission based access control for your angular 4+ applications. This module inspired from [`angular-permission` ★1110](https://github.com/Narzerus/angular-permission).
 * [ng-s-resource ★3](https://github.com/hiyali/ng-s-resource) - Simplify RESTful http resource generator for Angular 4+.
+* [ng-data-picker ★1](https://github.com/hiyali/ng-data-picker) - 🏄🏼 A data picker based on Angular 4+ (like iOS native datetime picker)
 * [ngx-siema ★37](https://github.com/lexzhukov/ngx-siema) - Lightweight and simple carousel with no dependencies.
 * [ng-bootstrap](https://ng-bootstrap.github.io) - Angular 4 directives for Bootstrap 4 by the ui-bootstrap team
 * [ng-snotify ★119](https://github.com/artemsky/ng-snotify) - Angular 4 Notification Center

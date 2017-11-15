@@ -547,7 +547,7 @@ To the extent possible under law, [Vitali Fokin](https://github.com/quozd) has w
 
 * [CppSharp ★895](https://github.com/mono/CppSharp) - Tools to surface C++ APIs to C#
 * [Sharpen ★256 ⏳1Y](https://github.com/mono/sharpen) - Sharpen is an Eclipse plugin created by db4o that allows you to convert your Java project into C#
-* [CXXI ★174 ⏳5Y](https://github.com/mono/cxxi) - C++ interop framework
+* [CXXI ★174 ⏳6Y](https://github.com/mono/cxxi) - C++ interop framework
 * [pythonnet ★894](https://github.com/pythonnet/pythonnet) - Python and .NET interop framework
 * [LegacyWrapper ★7](https://github.com/CodefoundryDE/LegacyWrapper) - LegacyWrapper uses a wrapper process to call DLLs from a process of the opposing architecture (x86 or AMD64).
 
