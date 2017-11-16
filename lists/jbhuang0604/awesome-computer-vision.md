@@ -8,7 +8,7 @@ title: Awesome Rank for jbhuang0604/awesome-computer-vision
 </p>
 ---
 
-# Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 A curated list of awesome computer vision resources, inspired by [awesome-php ★17013](https://github.com/ziadoz/awesome-php).
 
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
@@ -475,7 +475,7 @@ Non-uniform Deblurring
  * [SPP-Net ★257 ⏳1Y](https://github.com/ShaoqingRen/SPP_net)
  * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
  * [Edge Boxes ★361 ⏳1Y](https://github.com/pdollar/edges)
- * [ReInspect ★352](https://github.com/Russell91/ReInspect)
+ * [ReInspect ★352 ⏳1Y](https://github.com/Russell91/ReInspect)
 
 #### Nearest Neighbor Search
 

@@ -7,7 +7,7 @@ title: Awesome Rank for RichardLitt/awesome-styleguides
 	This list is a copy of <a href="https://github.com/RichardLitt/awesome-styleguides">RichardLitt/awesome-styleguides</a> with ranks
 </p>
 ---
-awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+awesome-styleguides [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 ===================
 
 _:clipboard: A list of styleguides_
@@ -142,7 +142,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Pragmatic jQuery ★122 ⏳3Y](https://github.com/yuanyan/pragmatic-jquery)
 
 ### Modules
-* [mattdesl ★952 ⏳2Y](https://github.com/mattdesl/module-best-practices)
+* [mattdesl ★978 ⏳2Y](https://github.com/mattdesl/module-best-practices)
 
 ### npm
 * [npm Style Guide ★40 ⏳1Y](https://github.com/voorhoede/npm-style-guide#readme) An opinionated collection of best practices for teams by [@deVoorhoede](https://twitter.com/devoorhoede).
@@ -159,15 +159,15 @@ If you have used any of these styleguides, please add a comment if you can! The 
 
 ## Objective-C
 * [Dropbox Objective-C Style Guide](https://dl.dropboxusercontent.com/s/5utnlwhr18ax05c/style-guide.html?dl=0)
-* [Futurice iOS Good Practices ★6672](https://github.com/futurice/ios-good-practices) iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
-* [Github - Style guide & coding conventions for Swift projects ★4337](https://github.com/github/swift-style-guide) A guide to our Swift style and conventions by @github.
-* [Github Objective-C Style Guide ★1664 ⏳1Y](https://github.com/github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
+* [Futurice iOS Good Practices ★6829](https://github.com/futurice/ios-good-practices) iOS starting guide and good practices suggestions by [@futurice](https://github.com/futurice).
+* [Github - Style guide & coding conventions for Swift projects ★4395](https://github.com/github/swift-style-guide) A guide to our Swift style and conventions by @github.
+* [Github Objective-C Style Guide ★1665](https://github.com/github/objective-c-style-guide) Style guide & coding conventions for Objective-C projects.
 * [Khan ★15 ⏳2Y](https://github.com/Khan/objective-c-style-guide)
-* [NY Times - Objective C Style Guide ★4510](https://github.com/NYTimes/objective-c-style-guide) The Objective-C Style Guide used by The New York Times.
+* [NY Times - Objective C Style Guide ★4575](https://github.com/NYTimes/objective-c-style-guide) The Objective-C Style Guide used by The New York Times.
 * [Objective-C Coding Convention and Best Practices](https://gist.github.com/soffes/812796) Gist with coding conventions.
-* [raywenderlich Style Guide ★2672](https://github.com/raywenderlich/objective-c-style-guide) A style guide that outlines the coding conventions for raywenderlich.com.
-* [Spotify Objective-C Coding Style ★200](https://github.com/spotify/ios-style) Guidelines for iOS development in use at Spotify.
-* [Swift Style Guide by @raywenderlich ★7800](https://github.com/raywenderlich/swift-style-guide) The official Swift style guide for raywenderlich.com.
+* [raywenderlich Style Guide ★2698](https://github.com/raywenderlich/objective-c-style-guide) A style guide that outlines the coding conventions for raywenderlich.com.
+* [Spotify Objective-C Coding Style ★201](https://github.com/spotify/ios-style) Guidelines for iOS development in use at Spotify.
+* [Swift Style Guide by @raywenderlich ★7927](https://github.com/raywenderlich/swift-style-guide) The official Swift style guide for raywenderlich.com.
 
 ## PHP
 * [PSR-1: Basic Coding Standard](http://www.php-fig.org/psr/psr-1/)
@@ -191,8 +191,8 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [aturon](https://aturon.github.io)
 
 ## Swift
-* [GitHub ★4337](https://github.com/github/swift-style-guide)
-* [raywenderlich ★7800](https://github.com/raywenderlich/swift-style-guide)
+* [GitHub ★4395](https://github.com/github/swift-style-guide)
+* [raywenderlich ★7927](https://github.com/raywenderlich/swift-style-guide)
 * [SlideShareInc ★93 ⏳1Y](https://github.com/SlideShareInc/swift-style-guide)
 
 # Non-Code

@@ -8,7 +8,7 @@ title: Awesome Rank for fasouto/awesome-dataviz
 </p>
 ---
 # Awesome dataviz 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [![Build Status](https://api.travis-ci.org/fasouto/awesome-dataviz.svg?branch=master)](https://travis-ci.org/fasouto/awesome-dataviz)
 
 
 A curated list of awesome data visualizations frameworks, libraries and software. Inspired by [awesome-python ★40545](https://github.com/vinta/awesome-python).
@@ -87,8 +87,8 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ## Android tools
 - [DecoView ★820](https://github.com/bmarrdev/android-DecoView-charting) - Animated circular wheel chart library.
-- [MPAndroidChart ★18572](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
-- [WilliamChart ★3450](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
+- [MPAndroidChart ★19104](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
+- [WilliamChart ★3505](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
 
 ## C++ tools
 - [LargeVis ★335](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
@@ -100,10 +100,10 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 
 ## iOS tools
-- [BEMSimpleLineGraph ★2633](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
+- [BEMSimpleLineGraph ★2643](https://github.com/Boris-Em/BEMSimpleLineGraph) - Highly customizable and interactive line graphs.
 - [Charts ★16206](https://github.com/danielgindi/Charts) -  iOS port of MPAndroidChart. You can create charts for both platforms with very similar code.
-- [JBChartView ★3722](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
-- [PNChart ★8847](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
+- [JBChartView ★3736](https://github.com/Jawbone/JBChartView) - Charting library for both line and bar graphs.
+- [PNChart ★8900](https://github.com/kevinzhow/PNChart) - A simple and beautiful chart lib used in Piner and CoinsMan.
 
 ## Python tools
 - [altair](https://altair-viz.github.io/) - Declarative statistical visualizations, based on Vega-lite.

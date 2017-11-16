@@ -7,7 +7,7 @@ title: Awesome Rank for vinta/awesome-python
 	This list is a copy of <a href="https://github.com/vinta/awesome-python">vinta/awesome-python</a> with ranks
 </p>
 ---
-# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Python [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome Python frameworks, libraries, software and resources.
 
@@ -1229,6 +1229,7 @@ Inspired by [awesome-php ★17013](https://github.com/ziadoz/awesome-php).
 
 * [AutobahnPython ★1584](https://github.com/crossbario/autobahn-python) - WebSocket & WAMP for Python on Twisted and [asyncio](https://docs.python.org/3/library/asyncio.html).
 * [Crossbar ★1379](https://github.com/crossbario/crossbar) - Open-source Unified Application Router (Websocket & WAMP for Python on Autobahn).
+* [django-channels ★2438](https://github.com/django/channels) - Developer-friendly asynchrony for Django
 * [django-socketio ★1064](https://github.com/stephenmcd/django-socketio) - WebSockets for Django.
 * [WebSocket-for-Python ★861](https://github.com/Lawouach/WebSocket-for-Python) - WebSocket client and server library for Python 2 and 3 as well as PyPy.
 
@@ -1301,7 +1302,7 @@ Where to discover new Python libraries.
 List of lists.
 
 * Monty
-    * [awesome ★67308](https://github.com/sindresorhus/awesome)
+    * [awesome ★69735](https://github.com/sindresorhus/awesome)
     * [lists ★4518](https://github.com/jnv/lists)
 * Python
     * [pycrumbs ★2613](https://github.com/kirang89/pycrumbs)

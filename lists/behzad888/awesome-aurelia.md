@@ -13,7 +13,7 @@ title: Awesome Rank for behzad888/awesome-aurelia
   </a>
 </p>
 
-# Aurelia Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/aurelia/discuss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aurelia/discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/behzad888/awesome-aurelia.svg?branch=master)](https://travis-ci.org/behzad888/awesome-aurelia)
+# Aurelia Awesome [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/aurelia/discuss](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/aurelia/discuss?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Build Status](https://travis-ci.org/behzad888/awesome-aurelia.svg?branch=master)](https://travis-ci.org/behzad888/awesome-aurelia)
 
 A curated list of amazingly awesome Aurelia libraries, resources and shiny things.
 

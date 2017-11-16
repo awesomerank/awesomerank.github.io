@@ -79,12 +79,12 @@ title: Awesome Rank for sindresorhus/awesome
 
 ## Platforms
 
-- [Node.js ★19279](lists/sindresorhus/awesome-nodejs.md) - JavaScript runtime built on Chrome's V8 JavaScript engine.
-- [Frontend Development ★22791](lists/dypsilon/frontend-dev-bookmarks.md)
-- [iOS ★22020](lists/vsouza/awesome-ios.md) - Mobile operating system for Apple phones and tablets.
-- [Android ★4494](lists/JStumpp/awesome-android.md)
-- [IoT & Hybrid Apps ★274 ⏳1Y](lists/weblancaster/awesome-IoT-hybrid.md)
-- [Electron ★12442](lists/sindresorhus/awesome-electron.md) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
+- [Node.js ★19878](lists/sindresorhus/awesome-nodejs.md) - JavaScript runtime built on Chrome's V8 JavaScript engine.
+- [Frontend Development ★22987](lists/dypsilon/frontend-dev-bookmarks.md)
+- [iOS ★22555](lists/vsouza/awesome-ios.md) - Mobile operating system for Apple phones and tablets.
+- [Android ★4636](lists/JStumpp/awesome-android.md)
+- [IoT & Hybrid Apps ★283](lists/weblancaster/awesome-IoT-hybrid.md)
+- [Electron ★12754](lists/sindresorhus/awesome-electron.md) - Cross-platform native desktop apps using JavaScript/HTML/CSS.
 - [Cordova ★196](lists/busterc/awesome-cordova.md) - JavaScript API for hybrid apps.
 - [React Native ★15194](lists/jondot/awesome-react-native.md)
 - [Xamarin ★610](lists/benoitjadinon/awesome-xamarin.md) - Mobile app development IDE, testing, and distribution.
@@ -120,15 +120,15 @@ title: Awesome Rank for sindresorhus/awesome
 	- [Micro npm Packages ★974](lists/parro-it/awesome-micro-npm-packages.md)
 	- [Mad Science npm Packages ★638](lists/feross/awesome-mad-science.md) - Impossible sounding projects that exist.
 	- [Maintenance Modules ★299 ⏳1Y](lists/maxogden/maintenance-modules.md) - For npm packages.
-	- [npm ★2614](lists/sindresorhus/awesome-npm.md) - Package manager.
+	- [npm ★2667](lists/sindresorhus/awesome-npm.md) - Package manager.
 	- [AVA ★227](lists/avajs/awesome-ava.md) - Test runner.
 	- [ESLint ★977](lists/dustinspecker/awesome-eslint.md) - Linter.
 	- [Functional Programming ★2147](lists/stoeffel/awesome-fp-js.md)
-	- [Observables ★203 ⏳1Y](lists/sindresorhus/awesome-observables.md)
+	- [Observables ★207 ⏳1Y](lists/sindresorhus/awesome-observables.md)
 	- [npm scripts ★321](lists/RyanZim/awesome-npm-scripts.md) - Task runner.
-- [Swift ★13015](lists/matteocrippa/awesome-swift.md)
-	- [Education ★5242](lists/hsavit1/Awesome-Swift-Education.md)
-	- [Playgrounds ★1833](lists/uraimo/Awesome-Swift-Playgrounds.md)
+- [Swift ★13277](lists/matteocrippa/awesome-swift.md)
+	- [Education ★5273](lists/hsavit1/Awesome-Swift-Education.md)
+	- [Playgrounds ★1887](lists/uraimo/Awesome-Swift-Playgrounds.md)
 - [Python ★40545](lists/vinta/awesome-python.md)
 	- [Asyncio ★300](lists/timofurrer/awesome-asyncio.md) - Asynchronous I/O in Python 3.
 	- [Scientific Audio ★105](lists/faroit/awesome-python-scientific-audio.md) - Scientific research in audio/music.
@@ -154,7 +154,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Perl ★369](lists/hachiojipm/awesome-perl.md)
 - [Groovy ★406](lists/kdabir/awesome-groovy.md)
 - [Dart ★274](lists/yissachar/awesome-dart.md)
-- [Java ★14295](lists/akullpp/awesome-java.md)
+- [Java ★14672](lists/akullpp/awesome-java.md)
 	- [RxJava ★145 ⏳1Y](lists/eleventigers/awesome-rxjava.md)
 - [Kotlin ★3198](lists/KotlinBy/awesome-kotlin.md)
 - [OCaml ★1103](lists/rizo/awesome-ocaml.md)
@@ -200,8 +200,8 @@ title: Awesome Rank for sindresorhus/awesome
 - [Inspiration ★514](lists/NoahBuscher/Inspire.md)
 - [Ember ★249](lists/nmec/awesome-ember.md) - App framework.
 - [Android UI ★26750](lists/wasabeef/awesome-android-ui.md)
-- [iOS UI ★9778](lists/cjwirth/awesome-ios-ui.md)
-- [Meteor ★1088](lists/Urigo/awesome-meteor.md)
+- [iOS UI ★9844](lists/cjwirth/awesome-ios-ui.md)
+- [Meteor ★1118](lists/Urigo/awesome-meteor.md)
 - [BEM ★339](lists/sturobson/BEM-resources.md)
 - [Flexbox ★742](lists/afonsopacifer/awesome-flexbox.md)
 - [Web Typography ★271](lists/deanhume/typography.md)
@@ -501,7 +501,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Conferences ★597](lists/RichardLitt/awesome-conferences.md)
 - [Sysadmin ★5765](lists/n1trux/awesome-sysadmin.md)
 - [Radio ★92 ⏳2Y](lists/kyleterry/awesome-radio.md)
-- [Awesome ★67308](https://github.com/sindresorhus/awesome) - Recursion illustrated.
+- [Awesome ★69735](https://github.com/sindresorhus/awesome) - Recursion illustrated.
 - [Analytics ★831](lists/onurakpolat/awesome-analytics.md)
 - [REST ★1415](lists/marmelab/awesome-rest.md)
 - [Selenium ★273](lists/christian-bromann/awesome-selenium.md)

@@ -7,7 +7,7 @@ title: Awesome Rank for zachflower/awesome-open-source-supporters
 	This list is a copy of <a href="https://github.com/zachflower/awesome-open-source-supporters">zachflower/awesome-open-source-supporters</a> with ranks
 </p>
 ---
-# Awesome Open Source Supporters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Open Source Supporters [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome companies that offer their tools and services for free to Open Source and public projects.
 

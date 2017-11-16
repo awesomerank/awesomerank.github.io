@@ -9,7 +9,7 @@ title: Awesome Rank for sbilly/awesome-security
 ---
 # Awesome Security
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
 
@@ -315,7 +315,7 @@ Thanks to all [contributors](https://github.com/sbilly/awesome-security/graphs/c
 
 Other amazingly awesome lists:
 
-- [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) - awesome-* or *-awesome lists.
+- [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) - awesome-* or *-awesome lists.
 - [lists ★4518](https://github.com/jnv/lists) - The definitive list of (awesome) lists curated on GitHub.
 - [Movies For Hacker ★5893](https://github.com/k4m4/movies-for-hackers) - A curated list of movies every hacker & cyberpunk must watch.
 

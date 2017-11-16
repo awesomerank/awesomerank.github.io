@@ -10,7 +10,7 @@ title: Awesome Rank for kennethreitz/awesome-coins
 # ₿ Awesome Crypto Currency Tools & Algorithms
 
 [![GitHub stars](https://img.shields.io/github/stars/kennethreitz/awesome-coins.svg?style=social&label=Star) ★2038](https://github.com/kennethreitz/awesome-coins)
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 [![Say Thanks!](https://img.shields.io/badge/SayThanks-!-1EAEDB.svg)](https://saythanks.io/to/kennethreitz)
 
 From Wikipedia—
@@ -157,7 +157,7 @@ Actual Hosted Coin Wallets:
 - [URI scheme for Blockchain exploration](https://lists.linuxfoundation.org/pipermail/bitcoin-dev/2015-August/010712.html)
 - [Blockply](https://blockply.com/) — Collection of the most interesting and outstanding blockchain projects
 - [Blockchain demo ★1568](https://github.com/anders94/blockchain-demo) — Web-based demonstration of blockchain concepts.
-- [Silly Gamble](http://sillygamble.com) — Simple, fair and transparent bitcoin betting game.
+- [Silly Gamble](https://www.sillygamble.com) — Simple, fair and transparent bitcoin betting game.
 
 ## ☤ Algos supported by [NiceHash Stratum Proxy](https://www.nicehash.com/?refby=386829)
 

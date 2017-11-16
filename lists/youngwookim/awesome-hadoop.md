@@ -7,7 +7,7 @@ title: Awesome Rank for youngwookim/awesome-hadoop
 	This list is a copy of <a href="https://github.com/youngwookim/awesome-hadoop">youngwookim/awesome-hadoop</a> with ranks
 </p>
 ---
-# Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Hadoop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of amazingly awesome Hadoop and Hadoop ecosystem resources. Inspired by [Awesome PHP](https://github.com/ziadoz/awesome-php), [Awesome Python](https://github.com/vinta/awesome-python) and [Awesome Sysadmin ★16061](https://github.com/kahun/awesome-sysadmin)
 
@@ -325,7 +325,7 @@ Various resources, such as books, websites and articles.
 * [Hadoop Summit](http://hadoopsummit.org/)
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome ★67308](https://github.com/sindresorhus/awesome) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness) and [awesome ★69735](https://github.com/sindresorhus/awesome) list.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/youngwookim/awesome-hadoop">youngwookim/awesome-hadoop</a> with ranks

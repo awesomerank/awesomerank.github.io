@@ -9,7 +9,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 ---
 # AwesomeRails
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/awesome-rails/Lobby](https://badges.gitter.im/awesome-rails/Lobby.svg)](https://gitter.im/awesome-rails/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [![Join the chat at https://gitter.im/awesome-rails/Lobby](https://badges.gitter.im/awesome-rails/Lobby.svg)](https://gitter.im/awesome-rails/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) 
 
 > A curated list of awesome things related to Ruby on Rails (recent changes were inspired by [awesome-vue ★24942](https://github.com/vuejs/awesome-vue))
 
@@ -58,6 +58,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [RailsCasts](http://railscasts.com)
 - [GoRails](https://gorails.com)
 - [Drifting Ruby](https://www.driftingruby.com/)
+- [Ruby on Windows Guides](http://rubyonwindowsguides.github.io)
 
 ### Jobs
 

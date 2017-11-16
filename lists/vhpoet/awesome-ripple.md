@@ -7,7 +7,7 @@ title: Awesome Rank for vhpoet/awesome-ripple
 	This list is a copy of <a href="https://github.com/vhpoet/awesome-ripple">vhpoet/awesome-ripple</a> with ranks
 </p>
 ---
-# Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Ripple [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > A curated list of Ripple resources.
 

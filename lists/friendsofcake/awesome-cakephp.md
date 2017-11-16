@@ -7,7 +7,7 @@ title: Awesome Rank for friendsofcake/awesome-cakephp
 	This list is a copy of <a href="https://github.com/friendsofcake/awesome-cakephp">friendsofcake/awesome-cakephp</a> with ranks
 </p>
 ---
-# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome CakePHP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome **CakePHP 3.x** plugins, resources and shiny things.
 
 If you are looking for CakePHP 2.x resources please visit:
@@ -17,7 +17,7 @@ If you are looking for CakePHP 2.x resources please visit:
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
 - [Awesome PHP ★17013](https://github.com/ziadoz/awesome-php)
-- [Awesome Awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness)
+- [Awesome Awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
 > plugin subparts (instead of only the whole plugin/repo), more granular
@@ -443,7 +443,7 @@ Various resources, such as books, websites and articles, for improving your Cake
 - [cakephpbrasil.com.br](http://cakephpbrasil.com.br/) - The brazilian community website.
 - [CakePHP-FR.org](http://cakephp-fr.org) - The french community website.
 - [CakePHP.ir](http://forum.cakephp.ir/) - discussion with other devs and generic questions for Persian community.
-- [Google Group](https://groups.google.com/forum/#!forum/cake-php) - This is for generic questions and alike.
+- [Official CakePHP Forum](http://discourse.cakephp.org/) - This is for generic questions and alike.
 - [IRC Channel](http://www.dereuromark.de/2013/01/27/irc-cakephp-channel/) - Live chat/discussion with other devs and core devs.
 - [stackoverflow.com/questions/tagged/cakephp](http://stackoverflow.com/questions/tagged/cakephp) - This is for specific questions, ideally along with some example code.
 

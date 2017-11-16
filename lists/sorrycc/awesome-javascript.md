@@ -7,7 +7,7 @@ title: Awesome Rank for sorrycc/awesome-javascript
 	This list is a copy of <a href="https://github.com/sorrycc/awesome-javascript">sorrycc/awesome-javascript</a> with ranks
 </p>
 ---
-# Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome JavaScript [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
@@ -122,9 +122,9 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 ## Bundlers
 
 * [browserify](https://github.com/substack/node-browserify) - Browserify lets you require('modules') in the browser by bundling up all of your dependencies.
-* [webpack ★32841](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
-* [Rollup ★10579](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
-* [Brunch ★6189](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
+* [webpack ★33905](https://github.com/webpack/webpack) - Packs CommonJs/AMD modules for the browser.
+* [Rollup ★10836](https://github.com/rollup/rollup) - Next-generation ES6 module bundler.
+* [Brunch ★6234](https://github.com/brunch/brunch) - Fast front-end web app build tool with simple declarative config.
 
 
 ## Testing Frameworks
@@ -134,19 +134,19 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [mocha ★13536](https://github.com/mochajs/mocha) - Simple, flexible, fun javascript test framework for node.js & the browser.
 * [jasmine ★12927](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework.
 * [qunit](https://github.com/jquery/qunit) - An easy-to-use JavaScript Unit Testing framework.
-* [jest ★12778](https://github.com/facebook/jest) - Painless Javascript Unit Testing.
+* [jest ★13441](https://github.com/facebook/jest) - Painless Javascript Unit Testing.
 * [prova ★325](https://github.com/azer/prova) - Node & Browser test runner based on Tape and Browserify
 * [DalekJS ★724](https://github.com/dalekjs/dalek) - Automated cross browser functional testing with JavaScript
 * [Protractor ★6983](https://github.com/angular/protractor) - Protractor is an end-to-end test framework for AngularJS applications.
-* [tape ★4180](https://github.com/substack/tape) - Tap-producing test harness for node and browsers.
-* [TestCafe ★3425](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+* [tape ★4243](https://github.com/substack/tape) - Tap-producing test harness for node and browsers.
+* [TestCafe ★3581](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 * [ava ★11658](https://github.com/avajs/ava) - 🚀 Futuristic JavaScript test runner
 
 ### Assertion
 
 * [chai ★4616](https://github.com/chaijs/chai) - BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.
 * [Enzyme](http://airbnb.io/enzyme/index.html) - Enzyme is a JavaScript Testing utility for React that makes it easier to assert, manipulate, and traverse your React Components' output.
-* [Sinon.JS ★4876](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
+* [Sinon.JS ★5044](https://github.com/sinonjs/sinon) - Test spies, stubs, and mocks for JavaScript.
 * [expect.js ★1776](https://github.com/Automattic/expect.js) - Minimalistic BDD-style assertions for Node.JS and the browser.
 
 ### Coverage
@@ -163,8 +163,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [zombie ★4671](https://github.com/assaf/zombie) - Insanely fast, full-stack, headless browser testing using node.js.
 * [totoro ★548 ⏳2Y](https://github.com/totorojs/totoro) - A simple and stable cross-browser testing tool.
 * [karma ★9074](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
-* [nightwatch ★7279](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
-* [intern ★3836](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
+* [nightwatch ★7422](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
+* [intern ★3872](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
 * [yolpo](http://www.yolpo.com) - A statement-by-statement javascript interpreter in the browser.
 
 
@@ -174,7 +174,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [JSHint ★7465](https://github.com/jshint/jshint) - JSHint is a tool that helps to detect errors and potential problems in your JavaScript code.
 * [jscs ★5156](https://github.com/jscs-dev/node-jscs) - JavaScript Code Style checker.
 * [jsfmt ★1709](https://github.com/rdio/jsfmt) - For formatting, searching, and rewriting JavaScript.
-* [jsinspect ★1560](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
+* [jsinspect ★1595](https://github.com/danielstjules/jsinspect) - Detect copy-pasted and structurally similar code.
 * [buddy.js ★586](https://github.com/danielstjules/buddy.js) - Magic number detection for JavaScript.
 * [ESLint ★8925](https://github.com/eslint/eslint) - A fully pluggable tool for identifying and reporting on patterns in JavaScript.
 * [JSLint ★3053](https://github.com/douglascrockford/JSLint) - High-standards, strict & opinionated code quality tool, aiming to keep only good parts of the language.
@@ -197,7 +197,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [hyperapp ★6566](https://github.com/hyperapp/hyperapp) - 1kb JavaScript library for building frontend applications. 
 * [preact ★15777](https://github.com/developit/preact) - Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM.
 * [nativescript ★11420](https://github.com/NativeScript/NativeScript) - Build truly native cross-platform iOS and Android apps with JavaScript
-* [react-native ★54650](https://github.com/facebook/react-native) - A framework for building native apps with React.
+* [react-native ★55953](https://github.com/facebook/react-native) - A framework for building native apps with React.
 * [riot ★12474](https://github.com/riot/riot) - React-like library, but with very small size.
 * [thorax ★1369 ⏳2Y](https://github.com/walmartlabs/thorax) - Strengthening your Backbone.
 * [chaplin ★2967](https://github.com/chaplinjs/chaplin) - An architecture for JavaScript applications using the Backbone.js library.
@@ -230,17 +230,17 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 *Templating engines allow you to perform string interpolation.*
 
 * [mustache.js ★11266](https://github.com/janl/mustache.js) - Minimal templating with {{mustaches}} in JavaScript.
-* [handlebars.js ★12523](https://github.com/wycats/handlebars.js) - An extension to the Mustache templating language.
+* [handlebars.js ★12651](https://github.com/wycats/handlebars.js) - An extension to the Mustache templating language.
 * [hogan.js ★4822](https://github.com/twitter/hogan.js) - A compiler for the Mustache templating language.
 * [doT ★3630](https://github.com/olado/doT) - The fastest + concise javascript template engine for nodejs and browsers.
 * [dustjs ★2647](https://github.com/linkedin/dustjs) - Asynchronous templates for the browser and node.js.
 * [eco ★1771 ⏳2Y](https://github.com/sstephenson/eco) - Embedded CoffeeScript templates.
 * [JavaScript-Templates ★1258](https://github.com/blueimp/JavaScript-Templates) - < 1KB lightweight, fast & powerful JavaScript templating engine with zero dependencies.
 * [t.js ★772](https://github.com/jasonmoo/t.js) - A tiny javascript templating framework in ~400 bytes gzipped.
-* [Pug ★15364](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs. (formerly known as Jade)
-* [EJS ★1793](https://github.com/mde/ejs) - Effective JavaScript templating.
+* [Pug ★15561](https://github.com/pugjs/pug) - Robust, elegant, feature rich template engine for nodejs. (formerly known as Jade)
+* [EJS ★1874](https://github.com/mde/ejs) - Effective JavaScript templating.
 * [xtemplate ★384](https://github.com/xtemplate/xtemplate) - eXtensible Template Engine lib for node and the browser
-* [marko ★5357](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
+* [marko ★5549](https://github.com/marko-js/marko) - A fast, lightweight, HTML-based templating engine for Node.js and the browser with async, streaming, custom tags and CommonJS modules as compiled output.
 * [swig](http://paularmstrong.github.io/swig/) - A simple, powerful, and extendable Node.js and browser-based JavaScript template engine.
 
 ## Articles and Posts
@@ -334,7 +334,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [docco](http://jashkenas.github.io/docco/) is a quick-and-dirty, hundred-line-long, literate-programming-style documentation generator.
 * [styledocco](http://jacobrask.github.io/styledocco/) generates documentation and style guide documents from your stylesheets.
 * [Ronn ★984](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
-* [dox ★2020](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
+* [dox ★2030](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
 * [jsdox ★198 ⏳1Y](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
 * [ESDoc ★1698](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
 * [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
@@ -362,7 +362,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [underscore ★21662](https://github.com/jashkenas/underscore) - JavaScript's utility _ belt.
 * [lodash ★26900](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 * [Sugar ★3380](https://github.com/andrewplummer/Sugar) - A Javascript library for working with native objects.
-* [lazy.js ★4420](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
+* [lazy.js ★4446](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
 * [ramda ★32](https://github.com/CrossEye/ramda) - A practical functional library for Javascript programmers.
 * [mout ★760](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [mesh ★1028](https://github.com/crcn/mesh.js) - Streamable data synchronization utility.
@@ -383,7 +383,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Data Structure
 *Data structure libraries to build a more sophisticated application.*
 
-* [immutable-js ★20940](https://github.com/facebook/immutable-js) - Immutable Data Collections including Sequence, Range, Repeat, Map, OrderedMap, Set and a sparse Vector.
+* [immutable-js ★21354](https://github.com/facebook/immutable-js) - Immutable Data Collections including Sequence, Range, Repeat, Map, OrderedMap, Set and a sparse Vector.
 * [mori ★2772](https://github.com/swannodette/mori) - A library for using ClojureScript's persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [buckets ★771](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap ★275](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
@@ -407,15 +407,15 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [voca ★1813](https://github.com/panzerdp/voca) - The ultimate JavaScript string library
 * [selecting ★59 ⏳2Y](https://github.com/EvandroLG/selecting) - A library that allows you to access the text selected by the user
-* [underscore.string ★3226](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
+* [underscore.string ★3246](https://github.com/epeli/underscore.string) - String manipulation extensions for Underscore.js javascript library.
 * [string.js ★1530](https://github.com/jprichardson/string.js) - Extra JavaScript string methods.
-* [he ★1226](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
+* [he ★1267](https://github.com/mathiasbynens/he) - A robust HTML entity encoder/decoder written in JavaScript.
 * [multiline ★1431 ⏳1Y](https://github.com/sindresorhus/multiline) - Multiline strings in JavaScript.
 * [query-string ★1441](https://github.com/sindresorhus/query-string) - Parse and stringify URL query strings.
-* [URI.js ★4956](https://github.com/medialize/URI.js) - Javascript URL mutation library.
+* [URI.js ★5017](https://github.com/medialize/URI.js) - Javascript URL mutation library.
 * [jsurl ★388](https://github.com/Mikhus/domurl) - Lightweight URL manipulation with JavaScript.
 * [sprintf.js ★1507](https://github.com/alexei/sprintf.js) - A sprintf implementation.
-* [url-pattern ★284](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings
+* [url-pattern ★305](https://github.com/snd/url-pattern) - Easier than regex string matching patterns for urls and other strings. Turn strings into data or data into strings
 
 ## Number
 
@@ -461,7 +461,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 * [i18next ★2518](https://github.com/i18next/i18next) - internationalisation (i18n) with javascript the easy way.
 * [polyglot ★2451](https://github.com/airbnb/polyglot.js) - tiny i18n helper library.
-* [babelfish ★166 ⏳1Y](https://github.com/nodeca/babelfish) - i18n with human friendly API and built in plurals support.
+* [babelfish ★172 ⏳1Y](https://github.com/nodeca/babelfish) - i18n with human friendly API and built in plurals support.
 
 ## Class
 
@@ -472,11 +472,11 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## Control Flow
 
-* [async ★22455](https://github.com/caolan/async) - Async utilities for node and the browser.
+* [async ★22694](https://github.com/caolan/async) - Async utilities for node and the browser.
 * [q ★13696](https://github.com/kriskowal/q) - A tool for making and composing asynchronous promises in JavaScript.
 * [step ★2143](https://github.com/creationix/step) - An async control-flow library that makes stepping through logic easy.
 * [contra ★723 ⏳1Y](https://github.com/bevacqua/contra) - Asynchronous flow control with a functional taste to it.
-* [Bluebird ★15563](https://github.com/petkaantonov/bluebird) - fully featured promise library with focus on innovative features and performance.
+* [Bluebird ★15756](https://github.com/petkaantonov/bluebird) - fully featured promise library with focus on innovative features and performance.
 * [when ★3262](https://github.com/cujojs/when) - A solid, fast Promises/A+ and when() implementation, plus other async goodies.
 * [ObjectEventTarget ★8 ⏳1Y](https://github.com/gartz/ObjectEventTarget) - Provide a prototype that add support to event listeners (with same behavior of EventTarget from DOMElements available on browsers).
 
@@ -520,7 +520,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 
 ## API
 
-* [bottleneck ★308](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
+* [bottleneck ★321](https://github.com/SGrondin/bottleneck) - A powerful rate limiter that makes throttling easy.
 * [oauth-signature-js ★189](https://github.com/bettiolo/oauth-signature-js) - JavaScript OAuth 1.0a signature generator for node and the browser.
 * [amygdala ★402](https://github.com/lincolnloop/amygdala) - RESTful HTTP client for JavaScript powered web applications.
 * [jquery.rest ★588](https://github.com/jpillora/jquery.rest) - A jQuery plugin for easy consumption of RESTful APIs.
@@ -552,7 +552,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 ## Benchmark
 
 * [benchmark.js ★3034](https://github.com/bestiejs/benchmark.js) - A benchmarking library. As used on jsPerf.com.
-* [matcha ★455](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
+* [matcha ★458](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
 ## Code highlighting
 
@@ -852,7 +852,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## Image Processing
 
 * [lena.js ★132](https://github.com/davidsonfellipe/lena.js) - A Library for image processing with filters and util functions.
-* [pica ★919](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
+* [pica ★960](https://github.com/nodeca/pica) - High quality image resize (with fast Lanczos filter, implemented in pure JS).
 * [cropper ★6015](https://github.com/fengyuanchen/cropper) - A simple jQuery image cropping plugin.
 
 
@@ -905,8 +905,8 @@ http://www.listjs.com
 # Other Awesome Lists
 * [sotayamashita/awesome-css ★1208](https://github.com/sotayamashita/awesome-css)
 * [emijrp/awesome-awesome ★921](https://github.com/emijrp/awesome-awesome)
-* [bayandin/awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness)
-* [sindresorhus/awesome ★67308](https://github.com/sindresorhus/awesome)
+* [bayandin/awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness)
+* [sindresorhus/awesome ★69735](https://github.com/sindresorhus/awesome)
 * [jnv/list ★4518](https://github.com/jnv/lists)
 * [gianarb/angularjs ★2257](https://github.com/gianarb/awesome-angularjs)
 * [peterkokot/awesome-dojo](https://github.com/peterkokot/awesome-dojo)

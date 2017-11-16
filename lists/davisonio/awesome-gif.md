@@ -7,7 +7,7 @@ title: Awesome Rank for davisonio/awesome-gif
 	This list is a copy of <a href="https://github.com/davisonio/awesome-gif">davisonio/awesome-gif</a> with ranks
 </p>
 ---
-# [Awesome GIF](https://davison.io/awesome-gif/) :sunglasses: [![](https://img.shields.io/travis/davisonio/awesome-gif.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-gif) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# [Awesome GIF](https://davison.io/awesome-gif/) :sunglasses: [![](https://img.shields.io/travis/davisonio/awesome-gif.svg?style=flat-square)](https://travis-ci.org/davisonio/awesome-gif) [![](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome [GIF](https://en.wikipedia.org/wiki/GIF) resources
 
@@ -150,13 +150,13 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Objective-C
 
-- [AnimatedGIFImageSerialization ★1026](https://github.com/mattt/AnimatedGIFImageSerialization) - decodes an UIImage from Animated GIFs image data
+- [AnimatedGIFImageSerialization ★1030](https://github.com/mattt/AnimatedGIFImageSerialization) - decodes an UIImage from Animated GIFs image data
 - [UIimage from GIF ★811 ⏳1Y](https://github.com/mayoff/uiimage-from-animated-gif) - UIImage category that loads animated GIFs
 - [GIFRefreshControl ★303 ⏳3Y](https://github.com/cyndibaby905/GIFRefreshControl) - "Twitter music" and "Yahoo! Weather" like pull-to-refresh control
 - [UIImageView-PlayGIF ★417 ⏳1Y](https://github.com/yfme/UIImageView-PlayGIF) - UIImageView category/subclass for playing GIF
-- [FLAnimatedImage ★6117](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard
+- [FLAnimatedImage ★6192](https://github.com/Flipboard/FLAnimatedImage) - Gif engine for iOS by FlipBoard
 - [Animated-GIF-iPhone ★133 ⏳2Y](https://github.com/arturogutierrez/Animated-GIF-iPhone) - Support for Animated GIF on iOS
-- [UzysAnimatedGifPullToRefresh ★1403 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView
+- [UzysAnimatedGifPullToRefresh ★1405 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - PullToRefresh using animated GIF to any scrollView
 - [SvGifView ★84 ⏳3Y](https://github.com/smileEvday/SvGifView) - iOS load and display GIF
 - [GifHUD ★158 ⏳2Y](https://github.com/cemolcay/GiFHUD) - iOS progress hud for displaying only animated GIF images
 - [Video-Background GIF ★152 ⏳1Y](https://github.com/ElvinJin/Video-Background-GIF) - iOS Video Background GIF
@@ -165,8 +165,8 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 #### Swift
 
-- [Gifu ★1838](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift
-- [SwiftGif ★707](https://github.com/bahlo/SwiftGif) - UIImage extension with GIF support
+- [Gifu ★1861](https://github.com/kaishin/gifu) - animated GIF support for iOS in Swift
+- [SwiftGif ★729](https://github.com/bahlo/SwiftGif) - UIImage extension with GIF support
 
 ### GUI
 

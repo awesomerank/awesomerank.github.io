@@ -7,7 +7,7 @@ title: Awesome Rank for avelino/awesome-go
 	This list is a copy of <a href="https://github.com/avelino/awesome-go">avelino/awesome-go</a> with ranks
 </p>
 ---
-# Awesome Go [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [awesome-go chat channel](http://gophers.slack.com/messages/awesome-go)
+# Awesome Go [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [awesome-go chat channel](http://gophers.slack.com/messages/awesome-go)
 
 A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python ★40545](https://github.com/vinta/awesome-python).
 
@@ -105,6 +105,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [go_mediainfo ★16 ⏳1Y](https://github.com/zhulik/go_mediainfo) - libmediainfo bindings for go.
 * [gosamplerate ★3](https://github.com/dh1tw/gosamplerate) - libsamplerate bindings for go.
 * [id3v2 ★50](https://github.com/bogem/id3v2) - Fast and stable ID3 parsing and writing library for Go.
+* [malgo ★11](https://github.com/gen2brain/malgo) - Mini audio library.
 * [mix ★66](https://github.com/go-mix/mix) - Sequence-based Go-native audio mixer for music apps.
 * [mp3 ★63](https://github.com/tcolgate/mp3) - Native Go MP3 decoder.
 * [music-theory ★176 ⏳1Y](https://github.com/go-music-theory/music-theory) - Music theory models in Go.
@@ -1401,7 +1402,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [sawsij ★1 ⏳1Y](https://github.com/jaybill/sawsij) - lightweight, open-source web framework for building high-performance, data-driven web applications.
 * [tango ★657](https://github.com/lunny/tango) - Micro & pluggable web framework for Go.
 * [tigertonic ★968](https://github.com/rcrowley/go-tigertonic) - Go framework for building JSON web services inspired by Dropwizard.
-* [traffic ★519 ⏳1Y](https://github.com/pilu/traffic) - Sinatra inspired regexp/pattern mux and web framework for Go.
+* [traffic ★519 ⏳2Y](https://github.com/pilu/traffic) - Sinatra inspired regexp/pattern mux and web framework for Go.
 * [utron ★1947](https://github.com/gernest/utron) - Lightweight MVC framework for Go(Golang).
 * [violetear ★76](https://github.com/nbari/violetear) - Go HTTP router.
 * [YARF ★39](https://github.com/yarf-framework/yarf) - Fast micro-framework designed to build REST APIs and web services in a fast and simple way.
@@ -1569,6 +1570,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [Hey ★2268](https://github.com/rakyll/hey) - Hey is a tiny program that sends some load to a web application.
 * [kala ★1104](https://github.com/ajvb/kala) - Simplistic, modern, and performant job scheduler.
 * [kubernetes ★28449](https://github.com/kubernetes/kubernetes) - Container Cluster Manager from Google.
+* [manssh ★18](https://github.com/xwjdsh/manssh) - manssh is a command line tool for managing your ssh alias config easily.
 * [Moby ★46191](https://github.com/moby/moby) - Collaborative project for the container ecosystem to assemble container-based systems.
 * [Mora ★220](https://github.com/emicklei/mora) - REST server for accessing MongoDB documents and meta data.
 * [ostent ★147](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB.
@@ -1728,7 +1730,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [Awesome Go @LibHunt](https://go.libhunt.com) - Your go-to Go Toolbox.
 * [Awesome Remote Job ★10419](https://github.com/lukasz-madon/awesome-remote-job) - Curated list of awesome remote jobs. A lot of them are looking for Go hackers.
-* [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
+* [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) - List of other amazingly awesome lists.
 * [Flipboard - Go Magazine](https://flipboard.com/section/the-golang-magazine-bVP7nS) - Collection of Go articles and tutorials.
 * [Go Blog](http://blog.golang.org) - The official Go blog.
 * [Go Challenge](http://golang-challenge.org/) - Learn Go by solving problems and getting feedback from Go experts.

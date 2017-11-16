@@ -7,7 +7,7 @@ title: Awesome Rank for vinjn/awesome-vulkan
 	This list is a copy of <a href="https://github.com/vinjn/awesome-vulkan">vinjn/awesome-vulkan</a> with ranks
 </p>
 ---
-# Awesome Vulkan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Vulkan [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 <img src="https://raw.githubusercontent.com/SaschaWillems/Vulkan/master/images/vulkanlogoscene.png" alt="Vulkan demo scene" height="256px">
 
@@ -219,7 +219,7 @@ drm/kms.
 *  [Stack Overflow](http://stackoverflow.com/questions/tagged/vulkan)
 
 ## Related lists
-*  [awesome ★67308](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
+*  [awesome ★69735](https://github.com/sindresorhus/awesome) - Curated list of awesome lists.
 *  [awesome-opengl ★615](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
 *  [gamedev ★4245](https://github.com/ellisonleao/magictools) - Awesome list about game development.
 *  [graphics-resources ★1042 ⏳1Y](https://github.com/mattdesl/graphics-resources) - List of graphic programming resources.

@@ -7,7 +7,7 @@ title: Awesome Rank for inspectit-labs/awesome-inspectit
 	This list is a copy of <a href="https://github.com/inspectit-labs/awesome-inspectit">inspectit-labs/awesome-inspectit</a> with ranks
 </p>
 ---
-# Awesome inspectIT  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome inspectIT  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome inspectIT documentations and resources.
 
@@ -39,6 +39,7 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 ## Videos
 
 * [inspectIT in 7 Minutes](https://www.youtube.com/watch?v=bqZPBsTxAc4) - Short introduction of inspectIT at the 2015 Software Quality Days in Vienna.
+* [Integration of inspectIT into a Sping Boot or Java application](https://www.youtube.com/watch?v=x0fnYSANIFk) - Tutorial on integrating an inspectIT agent into a Spring (Boot) or Java application.
 
 ## Blog Posts
 

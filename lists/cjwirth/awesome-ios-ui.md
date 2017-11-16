@@ -7,7 +7,7 @@ title: Awesome Rank for cjwirth/awesome-ios-ui
 	This list is a copy of <a href="https://github.com/cjwirth/awesome-ios-ui">cjwirth/awesome-ios-ui</a> with ranks
 </p>
 ---
-awesome-ios-ui [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+awesome-ios-ui [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 ==============
 
 A curated list of awesome iOS UI/UX libraries.
@@ -37,20 +37,20 @@ Animations and Transitions
 ==========================
 Repo | Demo
 --- | ---
-[AnimatedTransitionGallery ★2220](https://github.com/shu223/AnimatedTransitionGallery) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/AnimatedTransitionGallery)](https://github.com/shu223/AnimatedTransitionGallery/stargazers) <br> Language: Obj-C <br> License: [Unknown][Unknown] | <img src="/assets/AnimatedTransitionGallery1.gif">
-[RZTransitions ★1730](https://github.com/Raizlabs/RZTransitions) <br> [![](http://gh-btns.cjwirth.com/stars/Raizlabs/RZTransitions)](https://github.com/Raizlabs/RZTransitions/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/RZTransitions1.gif" width="49%" >
-[DCAnimationKit ★729 ⏳1Y](https://github.com/daltoniam/DCAnimationKit) <br> [![](http://gh-btns.cjwirth.com/stars/daltoniam/DCAnimationKit)](https://github.com/daltoniam/DCAnimationKit/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/DCAnimationKit1.gif" width="49%" > <img src="/assets/DCAnimationKit2.gif" width="49%" >
-[PMTween ★338 ⏳1Y](https://github.com/poetmountain/PMTween) <br> [![](http://gh-btns.cjwirth.com/stars/poetmountain/PMTween)](https://github.com/poetmountain/PMTween/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PMTween1.gif"> <img src="/assets/PMTween2.gif">
+[AnimatedTransitionGallery ★2243](https://github.com/shu223/AnimatedTransitionGallery) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/AnimatedTransitionGallery)](https://github.com/shu223/AnimatedTransitionGallery/stargazers) <br> Language: Obj-C <br> License: [Unknown][Unknown] | <img src="/assets/AnimatedTransitionGallery1.gif">
+[RZTransitions ★1746](https://github.com/Raizlabs/RZTransitions) <br> [![](http://gh-btns.cjwirth.com/stars/Raizlabs/RZTransitions)](https://github.com/Raizlabs/RZTransitions/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/RZTransitions1.gif" width="49%" >
+[DCAnimationKit ★728 ⏳1Y](https://github.com/daltoniam/DCAnimationKit) <br> [![](http://gh-btns.cjwirth.com/stars/daltoniam/DCAnimationKit)](https://github.com/daltoniam/DCAnimationKit/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/DCAnimationKit1.gif" width="49%" > <img src="/assets/DCAnimationKit2.gif" width="49%" >
+[PMTween ★337 ⏳1Y](https://github.com/poetmountain/PMTween) <br> [![](http://gh-btns.cjwirth.com/stars/poetmountain/PMTween)](https://github.com/poetmountain/PMTween/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PMTween1.gif"> <img src="/assets/PMTween2.gif">
 [SAHistoryNavigationViewController](https://github.com/szk-atmosphere/SAHistoryNavigationViewController) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAHistoryNavigationViewController)](https://github.com/szk-atmosphere/SAHistoryNavigationViewController/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/SAHistoryNavigationViewController1.gif">
 [WobbleView ★2196](https://github.com/inFullMobile/WobbleView) <br> [![](http://gh-btns.cjwirth.com/stars/inFullMobile/WobbleView)](https://github.com/inFullMobile/WobbleView/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/wobble-view.gif">
-[CBZSplashView ★1420](https://github.com/callumboddy/CBZSplashView) <br> [![](http://gh-btns.cjwirth.com/stars/callumboddy/CBZSplashView)](https://github.com/callumboddy/CBZSplashView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/CBZSplashView1.gif" width="49%" >
+[CBZSplashView ★1432](https://github.com/callumboddy/CBZSplashView) <br> [![](http://gh-btns.cjwirth.com/stars/callumboddy/CBZSplashView)](https://github.com/callumboddy/CBZSplashView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/CBZSplashView1.gif" width="49%" >
 
 
 Badges
 ======
 Repo | Demo
 --- | ---
-[RKNotificationHub ★2780](https://github.com/cwRichardKim/RKNotificationHub) <br> [![](http://gh-btns.cjwirth.com/stars/cwRichardKim/RKNotificationHub)](https://github.com/cwRichardKim/RKNotificationHub/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/RKNotificationHub1.gif">
+[RKNotificationHub ★2801](https://github.com/cwRichardKim/RKNotificationHub) <br> [![](http://gh-btns.cjwirth.com/stars/cwRichardKim/RKNotificationHub)](https://github.com/cwRichardKim/RKNotificationHub/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/RKNotificationHub1.gif">
 [BBBadgeBarButtonItem ★952 ⏳1Y](https://github.com/TanguyAladenise/BBBadgeBarButtonItem) <br> [![](http://gh-btns.cjwirth.com/stars/TanguyAladenise/BBBadgeBarButtonItem)](https://github.com/TanguyAladenise/BBBadgeBarButtonItem/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/BBBadgeBarButtonItem1.png">
 [JSBadgeView ★1145 ⏳1Y](https://github.com/JaviSoto/JSBadgeView) <br> [![](http://gh-btns.cjwirth.com/stars/JaviSoto/JSBadgeView)](https://github.com/JaviSoto/JSBadgeView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JSBadgeView1.png"> <img src="/assets/JSBadgeView2.png">
 
@@ -60,16 +60,16 @@ Calendars
 Repo | Demo
 --- | ---
 [FSCalendar](https://github.com/WenchaoIOS/FSCalendar) <br> [![](http://gh-btns.cjwirth.com/stars/WenchaoIOS/FSCalendar)](https://github.com/WenchaoIOS/FSCalendar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FSCalendar1.jpg">
-[GLCalendarView ★807](https://github.com/Glow-Inc/GLCalendarView) <br> [![](http://gh-btns.cjwirth.com/stars/Glow-Inc/GLCalendarView)](https://github.com/Glow-Inc/GLCalendarView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/GLCalendarView1.gif">
-[JTCalendar ★2404](https://github.com/jonathantribouharet/JTCalendar) <br> [![](http://gh-btns.cjwirth.com/stars/jonathantribouharet/JTCalendar)](https://github.com/jonathantribouharet/JTCalendar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JTCalendar1.gif"> <img src="/assets/JTCalendar2.png">
+[GLCalendarView ★813](https://github.com/Glow-Inc/GLCalendarView) <br> [![](http://gh-btns.cjwirth.com/stars/Glow-Inc/GLCalendarView)](https://github.com/Glow-Inc/GLCalendarView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/GLCalendarView1.gif">
+[JTCalendar ★2435](https://github.com/jonathantribouharet/JTCalendar) <br> [![](http://gh-btns.cjwirth.com/stars/jonathantribouharet/JTCalendar)](https://github.com/jonathantribouharet/JTCalendar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JTCalendar1.gif"> <img src="/assets/JTCalendar2.png">
 
 
 Effects
 =======
 Repo | Demo
 --- | ---
-[FLAnimatedImage ★6117](https://github.com/Flipboard/FLAnimatedImage) <br> [![](http://gh-btns.cjwirth.com/stars/Flipboard/FLAnimatedImage)](https://github.com/Flipboard/FLAnimatedImage/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FLAnimatedImage1.gif" width="49%" >
-[PulsingHalo ★1600](https://github.com/shu223/PulsingHalo) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/PulsingHalo)](https://github.com/shu223/PulsingHalo/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PulsingHalo1.gif">
+[FLAnimatedImage ★6192](https://github.com/Flipboard/FLAnimatedImage) <br> [![](http://gh-btns.cjwirth.com/stars/Flipboard/FLAnimatedImage)](https://github.com/Flipboard/FLAnimatedImage/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FLAnimatedImage1.gif" width="49%" >
+[PulsingHalo ★1610](https://github.com/shu223/PulsingHalo) <br> [![](http://gh-btns.cjwirth.com/stars/shu223/PulsingHalo)](https://github.com/shu223/PulsingHalo/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PulsingHalo1.gif">
 [UITextField-Shake ★693](https://github.com/andreamazz/UITextField-Shake) <br> [![](http://gh-btns.cjwirth.com/stars/andreamazz/UITextField-Shake)](https://github.com/andreamazz/UITextField-Shake/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/UITextField-Shake1.gif">
 
 
@@ -77,7 +77,7 @@ Material Design
 ===============
 Repo | Demo
 --- | ---
-[Material ★8621](https://github.com/CosmicMind/Material) <br> [![](http://gh-btns.cjwirth.com/stars/CosmicMind/Material)](https://github.com/CosmicMind/Material/stargazers) <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/Material1.gif"> <img src="/assets/Material2.gif"> <img src="/assets/Material3.gif">
+[Material ★8828](https://github.com/CosmicMind/Material) <br> [![](http://gh-btns.cjwirth.com/stars/CosmicMind/Material)](https://github.com/CosmicMind/Material/stargazers) <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/Material1.gif"> <img src="/assets/Material2.gif"> <img src="/assets/Material3.gif">
 [MaterialKit ★2497](https://github.com/nghialv/MaterialKit) <br> [![](http://gh-btns.cjwirth.com/stars/nghialv/MaterialKit)](https://github.com/nghialv/MaterialKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/MaterialKit1.gif">
 
 
@@ -92,7 +92,7 @@ Repo | Demo
 [SimpleAlert ★292](https://github.com/KyoheiG3/SimpleAlert) <br> [![](http://gh-btns.cjwirth.com/stars/KyoheiG3/SimpleAlert)](https://github.com/KyoheiG3/SimpleAlert/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/SimpleAlert1.gif">
 [JFMinimalNotifications ★971](https://github.com/atljeremy/JFMinimalNotifications) <br> [![](http://gh-btns.cjwirth.com/stars/atljeremy/JFMinimalNotifications)](https://github.com/atljeremy/JFMinimalNotifications/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JFMinimalNotifications1.gif" width="49%" > <img src="/assets/JFMinimalNotifications2.gif" width="49%" > <img src="/assets/JFMinimalNotifications3.jpeg">
 [MGFashionMenuView ★362 ⏳3Y](https://github.com/matteogobbi/MGFashionMenuView) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGFashionMenuView)](https://github.com/matteogobbi/MGFashionMenuView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MGFashionMenuView1.gif">
-[KLCPopup ★1655](https://github.com/jmascia/KLCPopup) <br> [![](http://gh-btns.cjwirth.com/stars/jmascia/KLCPopup)](https://github.com/jmascia/KLCPopup/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/KLCPopup1.gif" width="49%" >
+[KLCPopup ★1664](https://github.com/jmascia/KLCPopup) <br> [![](http://gh-btns.cjwirth.com/stars/jmascia/KLCPopup)](https://github.com/jmascia/KLCPopup/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/KLCPopup1.gif" width="49%" >
 [MZFormSheetController ★2612 ⏳1Y](https://github.com/m1entus/MZFormSheetController) <br> [![](http://gh-btns.cjwirth.com/stars/m1entus/MZFormSheetController)](https://github.com/m1entus/MZFormSheetController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MZFormSheetController1.png" width="49%" > <img src="/assets/MZFormSheetController2.gif" width="49%" >
 [Notie ★79](https://github.com/thii/Notie) <br> [![](http://gh-btns.cjwirth.com/stars/thii/Notie)](https://github.com/thii/Notie/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/Notie1.gif" width="49%" >
 [LNNotificationsUI ★807](https://github.com/LeoNatan/LNNotificationsUI) <br> [![](http://gh-btns.cjwirth.com/stars/LeoNatan/LNNotificationsUI)](https://github.com/LeoNatan/LNNotificationsUI/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/LNNotificationsUI1.gif">
@@ -102,19 +102,19 @@ Onboarding and Tutorials
 ========================
 Repo | Demo
 --- | ---
-[JazzHands ★6300](https://github.com/IFTTT/JazzHands) <br> [![](http://gh-btns.cjwirth.com/stars/IFTTT/JazzHands)](https://github.com/IFTTT/JazzHands/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JazzHands1.gif">
-[MYBlurIntroductionView ★1538 ⏳1Y](https://github.com/MatthewYork/MYBlurIntroductionView) <br> [![](http://gh-btns.cjwirth.com/stars/MatthewYork/MYBlurIntroductionView)](https://github.com/MatthewYork/MYBlurIntroductionView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MYBlurIntroductionView1.gif" width="49%" >
-[Onboard ★5792](https://github.com/mamaral/Onboard) <br> [![](http://gh-btns.cjwirth.com/stars/mamaral/Onboard)](https://github.com/mamaral/Onboard/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/Onboard1.gif" width="49%" >
+[JazzHands ★6317](https://github.com/IFTTT/JazzHands) <br> [![](http://gh-btns.cjwirth.com/stars/IFTTT/JazzHands)](https://github.com/IFTTT/JazzHands/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JazzHands1.gif">
+[MYBlurIntroductionView ★1538](https://github.com/MatthewYork/MYBlurIntroductionView) <br> [![](http://gh-btns.cjwirth.com/stars/MatthewYork/MYBlurIntroductionView)](https://github.com/MatthewYork/MYBlurIntroductionView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MYBlurIntroductionView1.gif" width="49%" >
+[Onboard ★5871](https://github.com/mamaral/Onboard) <br> [![](http://gh-btns.cjwirth.com/stars/mamaral/Onboard)](https://github.com/mamaral/Onboard/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/Onboard1.gif" width="49%" >
 
 
 Photo and Video
 ===============
 Repo | Demo
 --- | ---
-[MWPhotoBrowser ★7750](https://github.com/mwaterfall/MWPhotoBrowser) <br> [![](http://gh-btns.cjwirth.com/stars/mwaterfall/MWPhotoBrowser)](https://github.com/mwaterfall/MWPhotoBrowser/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MWPhotoBrowser1.png" width="49%" > <img src="/assets/MWPhotoBrowser2.png" width="49%" > <img src="/assets/MWPhotoBrowser3.png" width="49%" > <img src="/assets/MWPhotoBrowser4.png" width="49%" >
-[XCDYouTubeKit ★2188](https://github.com/0xced/XCDYouTubeKit) <br> [![](http://gh-btns.cjwirth.com/stars/0xced/XCDYouTubeKit)](https://github.com/0xced/XCDYouTubeKit/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/XCDYouTubeKit1.png">
-[MHVideoPhotoGallery ★1935](https://github.com/mariohahn/MHVideoPhotoGallery) <br> [![](http://gh-btns.cjwirth.com/stars/mariohahn/MHVideoPhotoGallery)](https://github.com/mariohahn/MHVideoPhotoGallery/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MHVideoPhotoGallery1.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery2.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery3.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery4.gif" width="49%" >
-[EBPhotoPages ★1606](https://github.com/EddyBorja/EBPhotoPages) <br> [![](http://gh-btns.cjwirth.com/stars/EddyBorja/EBPhotoPages)](https://github.com/EddyBorja/EBPhotoPages/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/EBPhotoPages1.png" width="49%" > <img src="/assets/EBPhotoPages2.png" width="49%" > <img src="/assets/EBPhotoPages3.png" width="49%" > <img src="/assets/EBPhotoPages4.png" width="49%" >
+[MWPhotoBrowser ★7814](https://github.com/mwaterfall/MWPhotoBrowser) <br> [![](http://gh-btns.cjwirth.com/stars/mwaterfall/MWPhotoBrowser)](https://github.com/mwaterfall/MWPhotoBrowser/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MWPhotoBrowser1.png" width="49%" > <img src="/assets/MWPhotoBrowser2.png" width="49%" > <img src="/assets/MWPhotoBrowser3.png" width="49%" > <img src="/assets/MWPhotoBrowser4.png" width="49%" >
+[XCDYouTubeKit ★2217](https://github.com/0xced/XCDYouTubeKit) <br> [![](http://gh-btns.cjwirth.com/stars/0xced/XCDYouTubeKit)](https://github.com/0xced/XCDYouTubeKit/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/XCDYouTubeKit1.png">
+[MHVideoPhotoGallery ★1940](https://github.com/mariohahn/MHVideoPhotoGallery) <br> [![](http://gh-btns.cjwirth.com/stars/mariohahn/MHVideoPhotoGallery)](https://github.com/mariohahn/MHVideoPhotoGallery/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MHVideoPhotoGallery1.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery2.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery3.gif" width="49%" > <img src="/assets/MHVideoPhotoGallery4.gif" width="49%" >
+[EBPhotoPages ★1614](https://github.com/EddyBorja/EBPhotoPages) <br> [![](http://gh-btns.cjwirth.com/stars/EddyBorja/EBPhotoPages)](https://github.com/EddyBorja/EBPhotoPages/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/EBPhotoPages1.png" width="49%" > <img src="/assets/EBPhotoPages2.png" width="49%" > <img src="/assets/EBPhotoPages3.png" width="49%" > <img src="/assets/EBPhotoPages4.png" width="49%" >
 [ASMediaFocusManager ★925](https://github.com/autresphere/ASMediaFocusManager) <br> [![](http://gh-btns.cjwirth.com/stars/autresphere/ASMediaFocusManager)](https://github.com/autresphere/ASMediaFocusManager/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/ASMediaFocusManager1.gif"> <img src="/assets/ASMediaFocusManager2.gif">
 [VideoSplashKit](https://github.com/movielala/VideoSplashKit) <br> [![](http://gh-btns.cjwirth.com/stars/movielala/VideoSplashKit)](https://github.com/movielala/VideoSplashKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/VideoSplash1.gif">
 
@@ -123,35 +123,35 @@ Progress Views
 ==============
 Repo | Demo
 --- | ---
-[MBProgressHUD ★13797](https://github.com/jdg/MBProgressHUD) <br> [![](http://gh-btns.cjwirth.com/stars/jdg/MBProgressHUD)](https://github.com/jdg/MBProgressHUD/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MBProgressHUD1.png"> <img src="/assets/MBProgressHUD2.png"> <img src="/assets/MBProgressHUD3.png"> <img src="/assets/MBProgressHUD4.png"> <img src="/assets/MBProgressHUD5.png"> <img src="/assets/MBProgressHUD6.png"> <img src="/assets/MBProgressHUD7.png">
-[MRProgress ★2582](https://github.com/mrackwitz/MRProgress) <br> [![](http://gh-btns.cjwirth.com/stars/mrackwitz/MRProgress)](https://github.com/mrackwitz/MRProgress/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MRProgress2.jpg"> <img src="/assets/MRProgress4.jpg"> <img src="/assets/MRProgress6.jpg">
-[M13ProgressSuite ★3598](https://github.com/Marxon13/M13ProgressSuite) <br> [![](http://gh-btns.cjwirth.com/stars/Marxon13/M13ProgressSuite)](https://github.com/Marxon13/M13ProgressSuite/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/M13ProgressSuite1.gif"> <img src="/assets/M13ProgressSuite2.gif"> <img src="/assets/M13ProgressSuite3.gif"> <img src="/assets/M13ProgressSuite4.gif"> <img src="/assets/M13ProgressSuite5.gif"> <img src="/assets/M13ProgressSuite6.gif"> <img src="/assets/M13ProgressSuite7.gif"> <img src="/assets/M13ProgressSuite8.gif">
-[FFCircularProgressView ★1004 ⏳1Y](https://github.com/elbryan/FFCircularProgressView) <br> [![](http://gh-btns.cjwirth.com/stars/elbryan/FFCircularProgressView)](https://github.com/elbryan/FFCircularProgressView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FFCircularProgressView1.gif">
+[MBProgressHUD ★13924](https://github.com/jdg/MBProgressHUD) <br> [![](http://gh-btns.cjwirth.com/stars/jdg/MBProgressHUD)](https://github.com/jdg/MBProgressHUD/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MBProgressHUD1.png"> <img src="/assets/MBProgressHUD2.png"> <img src="/assets/MBProgressHUD3.png"> <img src="/assets/MBProgressHUD4.png"> <img src="/assets/MBProgressHUD5.png"> <img src="/assets/MBProgressHUD6.png"> <img src="/assets/MBProgressHUD7.png">
+[MRProgress ★2586](https://github.com/mrackwitz/MRProgress) <br> [![](http://gh-btns.cjwirth.com/stars/mrackwitz/MRProgress)](https://github.com/mrackwitz/MRProgress/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MRProgress2.jpg"> <img src="/assets/MRProgress4.jpg"> <img src="/assets/MRProgress6.jpg">
+[M13ProgressSuite ★3621](https://github.com/Marxon13/M13ProgressSuite) <br> [![](http://gh-btns.cjwirth.com/stars/Marxon13/M13ProgressSuite)](https://github.com/Marxon13/M13ProgressSuite/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/M13ProgressSuite1.gif"> <img src="/assets/M13ProgressSuite2.gif"> <img src="/assets/M13ProgressSuite3.gif"> <img src="/assets/M13ProgressSuite4.gif"> <img src="/assets/M13ProgressSuite5.gif"> <img src="/assets/M13ProgressSuite6.gif"> <img src="/assets/M13ProgressSuite7.gif"> <img src="/assets/M13ProgressSuite8.gif">
+[FFCircularProgressView ★1003 ⏳1Y](https://github.com/elbryan/FFCircularProgressView) <br> [![](http://gh-btns.cjwirth.com/stars/elbryan/FFCircularProgressView)](https://github.com/elbryan/FFCircularProgressView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FFCircularProgressView1.gif">
 [GaugeKit ★896](https://github.com/skywinder/GaugeKit) <br> [![](http://gh-btns.cjwirth.com/stars/skywinder/GaugeKit)](https://github.com/skywinder/GaugeKit/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/GaugeKit1.gif">
-[NVActivityIndicatorView ★5885](https://github.com/ninjaprox/NVActivityIndicatorView) <br> [![](http://gh-btns.cjwirth.com/stars/ninjaprox/NVActivityIndicatorView)](https://github.com/ninjaprox/NVActivityIndicatorView/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/NVActivityIndicatorView1.gif">
+[NVActivityIndicatorView ★6040](https://github.com/ninjaprox/NVActivityIndicatorView) <br> [![](http://gh-btns.cjwirth.com/stars/ninjaprox/NVActivityIndicatorView)](https://github.com/ninjaprox/NVActivityIndicatorView/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/NVActivityIndicatorView1.gif">
 
 
 RefreshControls
 ===============
 Repo | Demo
 --- | ---
-[CBStoreHouseRefreshControl ★3950](https://github.com/coolbeet/CBStoreHouseRefreshControl) <br> [![](http://gh-btns.cjwirth.com/stars/coolbeet/CBStoreHouseRefreshControl)](https://github.com/coolbeet/CBStoreHouseRefreshControl/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/CBStoreHouseRefreshControl1.gif"> <img src="/assets/CBStoreHouseRefreshControl2.gif">
-[UzysAnimatedGifPullToRefresh ★1403 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) <br> [![](http://gh-btns.cjwirth.com/stars/uzysjung/UzysAnimatedGifPullToRefresh)](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/UzysAnimatedGifPullToRefresh1.gif">
-[BOZPongRefreshControl ★897 ⏳2Y](https://github.com/boztalay/BOZPongRefreshControl) <br> [![](http://gh-btns.cjwirth.com/stars/boztalay/BOZPongRefreshControl)](https://github.com/boztalay/BOZPongRefreshControl/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/BOZPongRefreshControl1.gif">
-[mntpulltoreact ★781 ⏳2Y](https://github.com/mentionapp/mntpulltoreact) <br> [![](http://gh-btns.cjwirth.com/stars/mentionapp/mntpulltoreact)](https://github.com/mentionapp/mntpulltoreact/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/MNTPullToReact1.gif">
+[CBStoreHouseRefreshControl ★3964](https://github.com/coolbeet/CBStoreHouseRefreshControl) <br> [![](http://gh-btns.cjwirth.com/stars/coolbeet/CBStoreHouseRefreshControl)](https://github.com/coolbeet/CBStoreHouseRefreshControl/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/CBStoreHouseRefreshControl1.gif"> <img src="/assets/CBStoreHouseRefreshControl2.gif">
+[UzysAnimatedGifPullToRefresh ★1405 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) <br> [![](http://gh-btns.cjwirth.com/stars/uzysjung/UzysAnimatedGifPullToRefresh)](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/UzysAnimatedGifPullToRefresh1.gif">
+[BOZPongRefreshControl ★898 ⏳2Y](https://github.com/boztalay/BOZPongRefreshControl) <br> [![](http://gh-btns.cjwirth.com/stars/boztalay/BOZPongRefreshControl)](https://github.com/boztalay/BOZPongRefreshControl/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/BOZPongRefreshControl1.gif">
+[mntpulltoreact ★780 ⏳2Y](https://github.com/mentionapp/mntpulltoreact) <br> [![](http://gh-btns.cjwirth.com/stars/mentionapp/mntpulltoreact)](https://github.com/mentionapp/mntpulltoreact/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/MNTPullToReact1.gif">
 [UzysCircularProgressPullToRefresh ★350 ⏳2Y](https://github.com/uzysjung/UzysCircularProgressPullToRefresh) <br> [![](http://gh-btns.cjwirth.com/stars/uzysjung/UzysCircularProgressPullToRefresh)](https://github.com/uzysjung/UzysCircularProgressPullToRefresh/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/UzysCircularProgressPullToRefresh1.gif">
-[PullToRefreshCoreText ★314 ⏳1Y](https://github.com/cemolcay/PullToRefreshCoreText) <br> [![](http://gh-btns.cjwirth.com/stars/cemolcay/PullToRefreshCoreText)](https://github.com/cemolcay/PullToRefreshCoreText/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PullToRefreshCoreText1.gif">
+[PullToRefreshCoreText ★315 ⏳1Y](https://github.com/cemolcay/PullToRefreshCoreText) <br> [![](http://gh-btns.cjwirth.com/stars/cemolcay/PullToRefreshCoreText)](https://github.com/cemolcay/PullToRefreshCoreText/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/PullToRefreshCoreText1.gif">
 
 
 Side Menu
 =========
 Repo | Demo
 --- | ---
-[RESideMenu ★7040](https://github.com/romaonthego/RESideMenu) <br> [![](http://gh-btns.cjwirth.com/stars/romaonthego/RESideMenu)](https://github.com/romaonthego/RESideMenu/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/RESideMenu1.gif">
+[RESideMenu ★7053](https://github.com/romaonthego/RESideMenu) <br> [![](http://gh-btns.cjwirth.com/stars/romaonthego/RESideMenu)](https://github.com/romaonthego/RESideMenu/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/RESideMenu1.gif">
 [REFrostedViewController ★3022 ⏳1Y](https://github.com/romaonthego/REFrostedViewController) <br> [![](http://gh-btns.cjwirth.com/stars/romaonthego/REFrostedViewController)](https://github.com/romaonthego/REFrostedViewController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/REFrostedViewController1.gif" width="49%" >
 [TWTSideMenuViewController ★897 ⏳3Y](https://github.com/twotoasters/TWTSideMenuViewController) <br> [![](http://gh-btns.cjwirth.com/stars/twotoasters/TWTSideMenuViewController)](https://github.com/twotoasters/TWTSideMenuViewController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/TWTSideMenuViewController1.gif">
 [AMSlideMenu ★1224 ⏳2Y](https://github.com/SocialObjects-Software/AMSlideMenu) <br> [![](http://gh-btns.cjwirth.com/stars/SocialObjects-Software/AMSlideMenu)](https://github.com/SocialObjects-Software/AMSlideMenu/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/AMSlideMenu1.gif">
-[CariocaMenu ★568](https://github.com/arn00s/cariocamenu) <br> [![](http://gh-btns.cjwirth.com/stars/arn00s/CariocaMenu)](https://github.com/arn00s/CariocaMenu/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/cariocamenu.gif">
+[CariocaMenu ★575](https://github.com/arn00s/cariocamenu) <br> [![](http://gh-btns.cjwirth.com/stars/arn00s/CariocaMenu)](https://github.com/arn00s/CariocaMenu/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/cariocamenu.gif">
 
 
 Tab Bars
@@ -159,9 +159,9 @@ Tab Bars
 Repo | Demo
 --- | ---
 [MinimalTabBar ★146](https://github.com/jamesdunay/MinimalTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/jamesdunay/MinimalTabBar)](https://github.com/jamesdunay/MinimalTabBar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MinimalTabBar1.gif">
-[adaptive-tab-bar ★1772](https://github.com/Ramotion/adaptive-tab-bar) <br> [![](http://gh-btns.cjwirth.com/stars/Ramotion/adaptive-tab-bar)](https://github.com/Ramotion/adaptive-tab-bar/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/adaptive-tab-bar1.png">
-[FoldingTabBar.iOS ★3345](https://github.com/Yalantis/FoldingTabBar.iOS) <br> [![](http://gh-btns.cjwirth.com/stars/Yalantis/FoldingTabBar.iOS)](https://github.com/Yalantis/FoldingTabBar.iOS/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FoldingTabBar.iOS1.gif">
-[GGTabBar ★152](https://github.com/Goles/GGTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/Goles/GGTabBar)](https://github.com/Goles/GGTabBar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/GGTabBar1.png">
+[adaptive-tab-bar ★1781](https://github.com/Ramotion/adaptive-tab-bar) <br> [![](http://gh-btns.cjwirth.com/stars/Ramotion/adaptive-tab-bar)](https://github.com/Ramotion/adaptive-tab-bar/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/adaptive-tab-bar1.png">
+[FoldingTabBar.iOS ★3382](https://github.com/Yalantis/FoldingTabBar.iOS) <br> [![](http://gh-btns.cjwirth.com/stars/Yalantis/FoldingTabBar.iOS)](https://github.com/Yalantis/FoldingTabBar.iOS/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FoldingTabBar.iOS1.gif">
+[GGTabBar ★153](https://github.com/Goles/GGTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/Goles/GGTabBar)](https://github.com/Goles/GGTabBar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/GGTabBar1.png">
 [BFPaperTabBarController ★335](https://github.com/bfeher/BFPaperTabBarController) <br> [![](http://gh-btns.cjwirth.com/stars/bfeher/BFPaperTabBarController)](https://github.com/bfeher/BFPaperTabBarController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/BFPaperTabBarController1.gif">
 
 
@@ -177,7 +177,7 @@ Repo | Demo
 [BLKFlexibleHeightBar ★2958](https://github.com/bryankeller/BLKFlexibleHeightBar) <br> [![](http://gh-btns.cjwirth.com/stars/bryankeller/BLKFlexibleHeightBar)](https://github.com/bryankeller/BLKFlexibleHeightBar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/BLKFlexibleHeightBar1.gif" width="49%" > <img src="/assets/BLKFlexibleHeightBar2.gif" width="49%" >
 [SAParallaxViewControllerSwift](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift) <br> [![](http://gh-btns.cjwirth.com/stars/szk-atmosphere/SAParallaxViewControllerSwift)](https://github.com/szk-atmosphere/SAParallaxViewControllerSwift/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/SAParallaxViewControllerSwift1.gif">
 [MGSpotyViewController ★1014 ⏳1Y](https://github.com/matteogobbi/MGSpotyViewController) <br> [![](http://gh-btns.cjwirth.com/stars/matteogobbi/MGSpotyViewController)](https://github.com/matteogobbi/MGSpotyViewController/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MGSpotyViewController1.gif">
-[RAReorderableLayout ★782](https://github.com/ra1028/RAReorderableLayout) <br> [![](http://gh-btns.cjwirth.com/stars/ra1028/RAReorderableLayout)](https://github.com/ra1028/RAReorderableLayout/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/RAReorderableLayout1.gif">
+[RAReorderableLayout ★786](https://github.com/ra1028/RAReorderableLayout) <br> [![](http://gh-btns.cjwirth.com/stars/ra1028/RAReorderableLayout)](https://github.com/ra1028/RAReorderableLayout/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/RAReorderableLayout1.gif">
 
 
 User Input
@@ -185,13 +185,13 @@ User Input
 Repo | Demo
 --- | ---
 [RKRichTextView ★135 ⏳3Y](https://github.com/ren6/RKRichTextView) <br> [![](http://gh-btns.cjwirth.com/stars/ren6/RKRichTextView)](https://github.com/ren6/RKRichTextView/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/RKRichTextView1.png">
-[ZSSRichTextEditor ★2603](https://github.com/nnhubbard/ZSSRichTextEditor) <br> [![](http://gh-btns.cjwirth.com/stars/nnhubbard/ZSSRichTextEditor)](https://github.com/nnhubbard/ZSSRichTextEditor/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/ZSSRichTextEditor1.gif">
-[RichEditorView ★939](https://github.com/cjwirth/RichEditorView) <br> [![](http://gh-btns.cjwirth.com/stars/cjwirth/RichEditorView)](https://github.com/cjwirth/RichEditorView/stargazers) <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/RichEditorView1.gif">
-[TextFieldEffects ★4221](https://github.com/raulriera/TextFieldEffects) <br> [![](http://gh-btns.cjwirth.com/stars/raulriera/TextFieldEffects)](https://github.com/raulriera/TextFieldEffects/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/TextFieldEffects.gif">
-[SlackTextViewController ★8017](https://github.com/slackhq/SlackTextViewController) <br> [![](http://gh-btns.cjwirth.com/stars/slackhq/SlackTextViewController)](https://github.com/slackhq/SlackTextViewController/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/SlackTextViewController1.gif">
-[JVFloatLabeledTextField ★6480](https://github.com/jverdi/JVFloatLabeledTextField) <br> [![](http://gh-btns.cjwirth.com/stars/jverdi/JVFloatLabeledTextField)](https://github.com/jverdi/JVFloatLabeledTextField/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JVFloatLabeledTextField1.gif" width="100%" >
-[ActionSheetPicker-3.0 ★2793](https://github.com/skywinder/ActionSheetPicker-3.0) <br> [![](http://gh-btns.cjwirth.com/stars/skywinder/ActionSheetPicker-3.0)](https://github.com/skywinder/ActionSheetPicker-3.0/stargazers) <br> Language: Obj-C <br> License: [BSD-3][BSD-3] | <img src="/assets/ActionSheetPicker3.gif">
-[HTYTextField ★223](https://github.com/hanton/HTYTextField) <br> [![](http://gh-btns.cjwirth.com/stars/hanton/HTYTextField)](https://github.com/hanton/HTYTextField/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/HTYTextField1.gif">
+[ZSSRichTextEditor ★2634](https://github.com/nnhubbard/ZSSRichTextEditor) <br> [![](http://gh-btns.cjwirth.com/stars/nnhubbard/ZSSRichTextEditor)](https://github.com/nnhubbard/ZSSRichTextEditor/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/ZSSRichTextEditor1.gif">
+[RichEditorView ★951](https://github.com/cjwirth/RichEditorView) <br> [![](http://gh-btns.cjwirth.com/stars/cjwirth/RichEditorView)](https://github.com/cjwirth/RichEditorView/stargazers) <br> Language: Swift <br> License: [BSD-3][BSD-3] | <img src="/assets/RichEditorView1.gif">
+[TextFieldEffects ★4282](https://github.com/raulriera/TextFieldEffects) <br> [![](http://gh-btns.cjwirth.com/stars/raulriera/TextFieldEffects)](https://github.com/raulriera/TextFieldEffects/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/TextFieldEffects.gif">
+[SlackTextViewController ★8101](https://github.com/slackhq/SlackTextViewController) <br> [![](http://gh-btns.cjwirth.com/stars/slackhq/SlackTextViewController)](https://github.com/slackhq/SlackTextViewController/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/SlackTextViewController1.gif">
+[JVFloatLabeledTextField ★6514](https://github.com/jverdi/JVFloatLabeledTextField) <br> [![](http://gh-btns.cjwirth.com/stars/jverdi/JVFloatLabeledTextField)](https://github.com/jverdi/JVFloatLabeledTextField/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/JVFloatLabeledTextField1.gif" width="100%" >
+[ActionSheetPicker-3.0 ★2826](https://github.com/skywinder/ActionSheetPicker-3.0) <br> [![](http://gh-btns.cjwirth.com/stars/skywinder/ActionSheetPicker-3.0)](https://github.com/skywinder/ActionSheetPicker-3.0/stargazers) <br> Language: Obj-C <br> License: [BSD-3][BSD-3] | <img src="/assets/ActionSheetPicker3.gif">
+[HTYTextField ★224](https://github.com/hanton/HTYTextField) <br> [![](http://gh-btns.cjwirth.com/stars/hanton/HTYTextField)](https://github.com/hanton/HTYTextField/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/HTYTextField1.gif">
 
 
 

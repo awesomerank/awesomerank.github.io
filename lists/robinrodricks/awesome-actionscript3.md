@@ -9,7 +9,7 @@ title: Awesome Rank for robinrodricks/awesome-actionscript3
 ---
 [<img src="https://rawgit.com/hgupta9/awesome-actionscript3/master/AS3_AIR.png" align="right" width="150">](https://www.adobe.com/products/air.html)
 
-# Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome ActionScript 3 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome libraries and components for ActionScript 3 and Adobe AIR.
 
@@ -396,7 +396,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AlivePDF](https://code.google.com/archive/p/alivepdf/) - Client side PDF generation ([docs](http://alivepdf.bytearray.org/), [github ★9](https://github.com/riadvice/alivepdf)).
 * [PurePDF ★127 ⏳4Y](https://github.com/sephiroth74/purePDF) - Complete PDF library, port of Java iText.
 * [HalcyonPDF ★2 ⏳6Y](https://github.com/systemed/halcyon_pdf) - OpenStreetMap PDF renderer.
-* [PDFCase ★2 ⏳4Y](https://github.com/dickclaus/pdfcase) - PDF Library.
+* [PDFCase ★2 ⏳5Y](https://github.com/dickclaus/pdfcase) - PDF Library.
 * [PDFView ★2 ⏳1Y](https://github.com/jankapunkt/PDFView) - PDF viewer built from scratch.
 
 #### PSD

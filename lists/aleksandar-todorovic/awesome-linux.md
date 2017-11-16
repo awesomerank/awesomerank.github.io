@@ -356,7 +356,7 @@ For more KDE-based apps, visit: https://www.kde.org/applications/
 
 * [Corebird](http://corebird.baedert.org/) - Twitter client.
 * [GNOME Twitch](http://gnome-twitch.vinszent.com/) - Twitch player.
-* [Caprine ★2588](https://github.com/sindresorhus/caprine) - Facebook's Messenger client with some added privacy features.
+* [Caprine ★2660](https://github.com/sindresorhus/caprine) - Facebook's Messenger client with some added privacy features.
 * [PB for Desktop ★190](https://github.com/sidneys/pb-for-desktop) - Pushbullet client.
 * [ramme ★2349](https://github.com/terkelg/ramme) - Instagram client.
 * [ScudCloud ★1184](https://github.com/raelgc/scudcloud) - Slack client with additional features (compared to the original Slack client).
@@ -392,7 +392,7 @@ You might also be interested in checking out [awesome-shell](https://github.com/
 * [ranger ★2705](https://github.com/ranger/ranger) - Vim-inspired file manager for the console.
 * [screenFetch ★1840](https://github.com/KittyKatt/screenFetch) - Fetches system/theme information in terminal.
 * [shellcheck ★9016](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts.
-* [speed-test ★2573](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
+* [speed-test ★2831](https://github.com/sindresorhus/speed-test) - Test your Internet connection speed and ping using [speedtest.net](http://www.speedtest.net/).
 * [testdisk](http://www.cgsecurity.org/wiki/TestDisk) - A tool for disk partition recovery.
 * [tig](http://jonas.nitro.dk/tig/) - Text-mode interface for git. It functions mainly as a Git repository browser.
 * [vim](http://vim.org) - Advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set.

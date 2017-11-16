@@ -7,7 +7,7 @@ title: Awesome Rank for roaldnefs/awesome-prometheus
 	This list is a copy of <a href="https://github.com/roaldnefs/awesome-prometheus">roaldnefs/awesome-prometheus</a> with ranks
 </p>
 ---
-# Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Prometheus  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome Prometheus resources, projects and tools.
 

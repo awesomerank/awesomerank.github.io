@@ -7,7 +7,7 @@ title: Awesome Rank for podo/awesome-framer
 	This list is a copy of <a href="https://github.com/podo/awesome-framer">podo/awesome-framer</a> with ranks
 </p>
 ---
-# Awesome Framer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Framer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 [<img src="logo.png" align="right" width="75">](https://framer.com/)
 
@@ -90,7 +90,7 @@ title: Awesome Rank for podo/awesome-framer
 ## Modules
 * [framer-googlefonts ★57 ⏳2Y](https://github.com/peteschaffner/framer-googlefonts) - Google Fonts loader module for your Framer prototypes.
 * [tabBarModule ★92 ⏳1Y](https://github.com/petterheterjag/tabBarModule) - Module for Framer that replicates the iOS tab bar.
-* [framer-animation-collections ★56 ⏳1Y](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations.
+* [framer-animation-collections ★56 ⏳2Y](https://github.com/isaacw/framer-animation-collections) - Framer classes for managing large sets of animations.
 * [framer.iosnotification ★22 ⏳2Y](https://github.com/leinerud/framer.iosnotification) - Framer module that mimics an iOS notification.
 * [Framer-Grid ★21 ⏳1Y](https://github.com/nilshoenson/Framer-Grid) - Flexible Framer Module that creates a grid overlay on top of your prototype to precisely align content or experiment early on in the design process.
 * [shortcuts-for-framer ★422](https://github.com/facebook/shortcuts-for-framer) - Collection of useful functions to make mobile prototyping with Framer easier.

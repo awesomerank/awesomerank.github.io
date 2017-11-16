@@ -13,11 +13,11 @@ title: Awesome Rank for donnemartin/awesome-aws
 </p>
 <br/>
 
-# Awesome AWS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome AWS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources.
 
-Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list.
+Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list.
 
 ## The Fiery Meter of AWSome
 
@@ -191,7 +191,7 @@ Related Repos:
 
 ### iOS SDK
 
-* [Repo :fire::fire::fire: ★894](https://github.com/aws/aws-sdk-ios)
+* [Repo :fire::fire::fire: ★908](https://github.com/aws/aws-sdk-ios)
 * [Repo with Samples :fire::fire::fire: ★597](https://github.com/awslabs/aws-sdk-ios-samples)
 * [Install](http://sdk-for-ios.amazonwebservices.com/latest/aws-ios-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-ios/)
@@ -1432,7 +1432,7 @@ Check out the [Credits page](https://github.com/donnemartin/awesome-aws/blob/mas
 
 ## Other Awesome Lists
 
-Other awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness).
+Other awesome lists can be found in [awesome](https://github.com/sindresorhus/awesome) and [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness).
 
 ## Contact Info
 

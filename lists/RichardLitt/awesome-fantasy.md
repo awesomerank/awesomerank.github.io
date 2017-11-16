@@ -7,7 +7,7 @@ title: Awesome Rank for RichardLitt/awesome-fantasy
 	This list is a copy of <a href="https://github.com/RichardLitt/awesome-fantasy">RichardLitt/awesome-fantasy</a> with ranks
 </p>
 ---
-# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# awesome-fantasy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > Fantasy literature worth reading
 

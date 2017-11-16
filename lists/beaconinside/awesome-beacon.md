@@ -7,7 +7,7 @@ title: Awesome Rank for beaconinside/awesome-beacon
 	This list is a copy of <a href="https://github.com/beaconinside/awesome-beacon">beaconinside/awesome-beacon</a> with ranks
 </p>
 ---
-# Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Bluetooth Beacon [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open source projects, libraries, tools and tutorials. This repo is part of the [Beacon Developer Hub](http://developers.beaconinside.com) project.
 
@@ -108,13 +108,13 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 * [Udemy: iBeacon development for iPhone](https://www.udemy.com/ibeacon-development-for-iphone/)
 * [HiBeacons ★1100 ⏳1Y](https://github.com/nicktoumpelis/HiBeacons) A nice iBeacon demo app in Swift.
 * [PubNub.com - Two-Way iBeacon Communication with Swift Programming Language](https://www.pubnub.com/blog/2014-08-19-smart-ibeacon-communication-in-the-swift-programming-language/)
-* [iOS & OSX Bluetooth library for RxSwift ★618](https://github.com/Polidea/RxBluetoothKit)
+* [iOS & OSX Bluetooth library for RxSwift ★645](https://github.com/Polidea/RxBluetoothKit)
 * [JMCiBeaconManager ★134 ⏳1Y](https://github.com/izotx/JMCBeaconManager) - An iBeacon Manager class that is responsible for detecting beacons nearby.
 
 ## Objective-C
 
 * [Generic iBeacon Management and Utilities by KinveyLabs](https://github.com/KinveyLabs/KCSIBeacon/)
-* [Replicates detecting and broadcasting iBeacons in the background ★361 ⏳1Y](https://github.com/Instrument/Vicinity)
+* [Replicates detecting and broadcasting iBeacons in the background ★364 ⏳1Y](https://github.com/Instrument/Vicinity)
 
 
 ## Stackoverflow Q&A
@@ -170,7 +170,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 # Cordova, Phonegap, Xamarin, Titanium
 
-* [Cordova iBeacon Plugin ★629](https://github.com/petermetz/cordova-plugin-ibeacon)
+* [Cordova iBeacon Plugin ★637](https://github.com/petermetz/cordova-plugin-ibeacon)
 * [Using iBeacon with Xamarin.iOS and Xamarin.Android](http://de.slideshare.net/glennthomasstephens/ibeacon-support)
 * [iBeacon advertising and scanning in a Titanium module ★145 ⏳1Y](https://github.com/jbeuckm/TiBeacons)
 

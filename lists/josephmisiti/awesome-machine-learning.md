@@ -7,7 +7,7 @@ title: Awesome Rank for josephmisiti/awesome-machine-learning
 	This list is a copy of <a href="https://github.com/josephmisiti/awesome-machine-learning">josephmisiti/awesome-machine-learning</a> with ranks
 </p>
 ---
-# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome machine learning frameworks, libraries and software (by language). Inspired by `awesome-php`.
 
@@ -437,10 +437,10 @@ Further resources:
 <a name="javascript-nlp"></a>
 #### Natural Language Processing
 
-* [Twitter-text ★1717](https://github.com/twitter/twitter-text) - A JavaScript implementation of Twitter's text processing library.
-* [natural ★6956](https://github.com/NaturalNode/natural) - General natural language facilities for node.
+* [Twitter-text ★1780](https://github.com/twitter/twitter-text) - A JavaScript implementation of Twitter's text processing library.
+* [natural ★7070](https://github.com/NaturalNode/natural) - General natural language facilities for node.
 * [Knwl.js](https://github.com/loadfive/Knwl.js) - A Natural Language Processor in JS.
-* [Retext ★1349](https://github.com/wooorm/retext) - Extensible system for analyzing and manipulating natural language.
+* [Retext ★1371](https://github.com/wooorm/retext) - Extensible system for analyzing and manipulating natural language.
 * [NLP Compromise ★7003](https://github.com/nlp-compromise/compromise) - Natural Language processing in the browser.
 
 
@@ -1310,16 +1310,16 @@ be
 <a name="swift-general-purpose"></a>
 #### General-Purpose Machine Learning
 
-* [Bender ★1267](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
+* [Bender ★1292](https://github.com/xmartlabs/Bender) - Fast Neural Networks framework built on top of Metal. Supports TensorFlow models.
 * [Swift AI](https://github.com/collinhundley/Swift-AI) - Highly optimized artificial intelligence and machine learning library written in Swift.
 * [BrainCore ★349](https://github.com/aleph7/BrainCore) - The iOS and OS X neural network framework.
 * [swix ★519](https://github.com/stsievert/swix) - A bare bones library that
   includes a general matrix language and wraps some OpenCV for iOS development.
 * [DeepLearningKit](http://deeplearningkit.org/) an Open Source Deep Learning Framework for Apple’s iOS, OS X and tvOS.
   It currently allows using deep convolutional neural network models trained in Caffe on Apple operating systems.
-* [AIToolbox ★628](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
+* [AIToolbox ★633](https://github.com/KevinCoble/AIToolbox) - A toolbox framework of AI modules written in Swift:  Graphs/Trees, Linear Regression, Support Vector Machines, Neural Networks, PCA, KMeans, Genetic Algorithms, MDP, Mixture of Gaussians.
 * [MLKit ★90](https://github.com/Somnibyte/MLKit) - A simple Machine Learning Framework written in Swift. Currently features Simple Linear Regression, Polynomial Regression, and Ridge Regression.
-* [Swift Brain ★296](https://github.com/vlall/Swift-Brain) - The first neural network / machine learning library written in Swift. This is a project for AI algorithms in Swift for iOS and OS X development. This project includes algorithms focused on Bayes theorem, neural networks, SVMs, Matrices, etc...
+* [Swift Brain ★298](https://github.com/vlall/Swift-Brain) - The first neural network / machine learning library written in Swift. This is a project for AI algorithms in Swift for iOS and OS X development. This project includes algorithms focused on Bayes theorem, neural networks, SVMs, Matrices, etc...
 * [Perfect TensorFlow ★88](https://github.com/PerfectlySoft/Perfect-TensorFlow) - Swift Language Bindings of TensorFlow. Using native TensorFlow models on both macOS / Linux.
 * [Awesome CoreML](https://github.com/NilStack/awesome-CoreML-models) - A curated list of pretrained CoreML models.
 * [Awesome Core ML Models ★1647](https://github.com/likedan/Awesome-CoreML-Models) - A curated list of machine learning models in CoreML format.

@@ -155,7 +155,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [overcommit ★2145](https://github.com/brigade/overcommit) - A fully configurable and extendable Git hook manager
 * [pre-commit](http://pre-commit.com) - A framework for managing and maintaining multi-language pre-commit hooks
 * [repren ★144 ⏳1Y](https://github.com/jlevy/repren) - Command-line search-and-replace and file-renaming swiss army knife
-* [slap ★4735](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
+* [slap ★4772](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor that runs on Node.js
 * [shipit ★348](https://github.com/sapegin/shipit) - Minimalistic SSH deployment
 * [starring ★97](https://github.com/ritz078/starring) - Automatically star the npm-packages that you are using on GitHub.
 * [tag ★442](https://github.com/aykamko/tag) - Instantly jump to your ag matches.
@@ -226,7 +226,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [geeknote ★1842](https://github.com/VitaliyRodnenko/geeknote) - Command line evernote client
 * [haxor-news ★2395](https://github.com/donnemartin/haxor-news) - Browse Hacker News like a haxor
 * [hn-cli ★388 ⏳1Y](https://github.com/rafaelrinaldi/hn-cli) - Browse Hacker News from the comfort of your Terminal
-* [iponmap ★125 ⏳1Y](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
+* [iponmap ★128 ⏳1Y](https://github.com/nogizhopaboroda/iponmap) - Draw point on world map using ip address
 * [isitup ★21 ⏳2Y](https://github.com/lord63/isitup) - Check whether a website is up or down
 * [jrnl ★2513](https://github.com/maebert/jrnl) - A simple command line journal application that stores your journal in a plain text file
 * [ledger ★2148](https://github.com/ledger/ledger) - Command line accounting
@@ -320,7 +320,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 # Other Awesome Lists
 
-Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness).
+Other amazingly awesome lists can be found in [awesome-awesome](https://github.com/emijrp/awesome-awesome) and [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness).
 
 ### See also
 

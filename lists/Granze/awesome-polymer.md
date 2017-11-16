@@ -7,7 +7,7 @@ title: Awesome Rank for Granze/awesome-polymer
 	This list is a copy of <a href="https://github.com/Granze/awesome-polymer">Granze/awesome-polymer</a> with ranks
 </p>
 ---
-# Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Polymer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 <a href="https://www.polymer-project.org"><img src="https://www.polymer-project.org/images/logos/p-logo.png" align="left" height="64" width="92"></a>
 > A collection of awesome Polymer resources
 
@@ -145,7 +145,7 @@ title: Awesome Rank for Granze/awesome-polymer
 
 
 ## Other awesome resources
-**If you want more awesome resources, check the [awesome ★67308](https://github.com/sindresorhus/awesome) list!**
+**If you want more awesome resources, check the [awesome ★69735](https://github.com/sindresorhus/awesome) list!**
 
 ---
 

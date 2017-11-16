@@ -7,7 +7,7 @@ title: Awesome Rank for mojoaxel/awesome-regression-testing
 	This list is a copy of <a href="https://github.com/mojoaxel/awesome-regression-testing">mojoaxel/awesome-regression-testing</a> with ranks
 </p>
 ---
-# Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Visual Regression Testing [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 > Curated list of awesome visual regression testing resources.
 
 Regression testing is a type of software testing which verifies that software which was previously developed and tested still performs the same way after it was changed or interfaced with other software. The purpose of regression testing is to ensure that changes to the software have not introduced new faults.
@@ -64,7 +64,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium ★8188](https://github.com/SeleniumHQ/selenium).
 - [Look-alike ★15 ⏳2Y](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing scrennshots.
 - [Hardy ★332 ⏳2Y](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
-- [TestCafe ★3425](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
+- [TestCafe ★3581](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 - [Needle ★503](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
 - [dpxdt [Depicted] ★1382](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 - [gatling ★48 ⏳4Y](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).

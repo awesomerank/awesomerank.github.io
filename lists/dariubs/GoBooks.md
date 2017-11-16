@@ -7,7 +7,7 @@ title: Awesome Rank for dariubs/GoBooks
 	This list is a copy of <a href="https://github.com/dariubs/GoBooks">dariubs/GoBooks</a> with ranks
 </p>
 ---
-Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+Go Books [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 ====
 * [Books](#books)
  * [Starter Books](#starter-books)

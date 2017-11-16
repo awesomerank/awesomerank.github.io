@@ -10,7 +10,7 @@ title: Awesome Rank for unixorn/awesome-zsh-plugins
 
 # awesome-zsh-plugins
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 ## Status
 
@@ -255,7 +255,7 @@ These frameworks make customizing your zsh setup easier.
 * [bumblebee ★0](https://github.com/Niverton/zsh-bumblebee-plugin) - A plugin to toggle optirun in the command line.
 * [calc.plugin.zsh ★36](https://github.com/arzzen/calc.plugin.zsh) - A calculator for zsh.
 * [caniuse.plugin.zsh ★12](https://github.com/walesmd/caniuse.plugin.zsh) - Add [Can I Use...](https://caniuse.com) support to ZSH.
-* [carthage](https://github.com/cfdrake/zsh-carthage) - Provides completions and aliases for use with [Carthage ★10255](https://github.com/Carthage/Carthage).
+* [carthage](https://github.com/cfdrake/zsh-carthage) - Provides completions and aliases for use with [Carthage ★10432](https://github.com/Carthage/Carthage).
 * [cd-gitroot ★25 ⏳1Y](https://github.com/mollifier/cd-gitroot) - A zsh plugin to cd to the git repository root directory.
 * [cd-reporoot ★0](https://github.com/P4Cu/cd-reporoot) - A zsh plugin to cd to the google-repo repository root directory.
 * [cd-ssh ★0](https://github.com/jeffwalter/zsh-plugin-cd-ssh) - `ssh` to a server when you accidentally `cd` to it.
@@ -585,6 +585,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [bandit ★0 ⏳1Y](https://github.com/Holger-Will/zsh_bandit) - Another Powerline variant.
 * [bashi](https://github.com/eli-oat/bashi) - Optimized for Ahmet Sülek's [Flat UI Terminal Theme](https://github.com/ahmetsulek/flat-terminal) and Pasquale D'Silva's [Saturn Terminal Theme ★73 ⏳1Y](https://github.com/psql/saturn-colors).
 * [bilibili ★5](https://github.com/jingjinghack/bilibili-zshtheme) - BiliBili Theme
+* [birame ★0](https://github.com/maniat1k/birame) - Based on [bira](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/bira.zsh-theme).
 * [bklyn](https://github.com/gporrata/bklyn-zsh) - Variant of [Powerlevel9k ★2969](https://github.com/bhilburn/powerlevel9k) with customizations applied.
 * [blinks-xfan ★1 ⏳1Y](https://github.com/ixfan/blinks-xfan) - Based on the existing theme blinks.
 * [blox-zsh-theme ★12](https://github.com/yardnsm/blox-zsh-theme) - A minimal and fast ZSH theme that shows you what you need. It consists of blocks: each block is shown inside a pair of \[square brackets\], and you can add blocks by simply creating a function.
@@ -846,7 +847,7 @@ I've documented some recommendations for writing a new plugin [here](https://git
 * [awesome-sysadmin ★5765](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources
 * [Terminals Are Sexy ★5354](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
 
-Find other useful awesome-* lists at the [awesome collection ★67308](https://github.com/sindresorhus/awesome)
+Find other useful awesome-* lists at the [awesome collection ★69735](https://github.com/sindresorhus/awesome)
 
 ### Other References
 

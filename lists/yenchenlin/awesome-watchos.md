@@ -9,7 +9,7 @@ title: Awesome Rank for yenchenlin/awesome-watchos
 ---
 <img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/title.png" width="500">
 =========================
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 [![Build Status](https://travis-ci.org/yenchenlin1994/awesome-watchos.svg?branch=master)](https://travis-ci.org/yenchenlin1994/awesome-watchos)
 
 A curated list of awesome watchOS frameworks, libraries, sample apps.
@@ -34,7 +34,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 # Libraries And Frameworks
 
 ### Connectivity
- * [MMWormhole ★3303](https://github.com/mutualmobile/MMWormhole) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
+ * [MMWormhole ★3325](https://github.com/mutualmobile/MMWormhole) - A powerful toolkit for synthesizing, processing, and analyzing sounds.
 
   <space><space><img src="https://github.com/mutualmobile/MMWormhole/blob/master/MMWormhole.gif" width="500") alt="Example App"/>
 
@@ -162,17 +162,17 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
 # Other Awesome Lists
 Other amazingly awesome lists can be found in the
- * [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) list.
- * [Open Source apps ★14500](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
+ * [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) list.
+ * [Open Source apps ★14822](https://github.com/dkhamsing/open-source-ios-apps) list of open source ios apps
  * Awesome-swift
-   * [@matteocrippa ★13015](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
-   * [@Wolg ★4276](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
- * [awesome watchkit apps ★195 ⏳2Y](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.
- * [iOS Learning Resources ★241](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
+   * [@matteocrippa ★13277](https://github.com/matteocrippa/awesome-swift) - A collaborative list of awesome swift resources.
+   * [@Wolg ★4342](https://github.com/Wolg/awesome-swift) - A curated list of awesome Swift frameworks, libraries and software.
+ * [awesome watchkit apps ★197 ⏳2Y](https://github.com/sanketfirodiya/sample-watchkit-apps) curated list of sample watchkit apps and tutorials.
+ * [iOS Learning Resources ★244](https://github.com/sanketfirodiya/iOS-learning-resources) Comprenehensive collection of high quality, frequently updated and well maintained iOS tutorial sites.
  * [awesome-ios-animation](https://github.com/sxyx2008/awesome-ios-animation) - A curated list of awesome iOS animation, including Objective-C and Swift libraries.
  * [awesome-ios-chart](https://github.com/sxyx2008/awesome-ios-chart) - A curated list of awesome iOS chart libraries, including Objective-C and Swift.
- * [awesome-gists ★171](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
- * [awesome-ios-ui ★9778](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
+ * [awesome-gists ★180](https://github.com/vsouza/awesome-gists#ios) - A list of amazing gists (iOS section).
+ * [awesome-ios-ui ★9844](https://github.com/cjwirth/awesome-ios-ui) - A curated list of awesome iOS UI/UX libraries.
  * [iOS App Development on Medium](https://medium.com/ios-os-x-development) - Stories and technical tips about building apps for iOS, Apple Watch, and iPad/iPhone
 
 # Contributing

@@ -7,7 +7,7 @@ title: Awesome Rank for enaqx/awesome-react
 	This list is a copy of <a href="https://github.com/enaqx/awesome-react">enaqx/awesome-react</a> with ranks
 </p>
 ---
-### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+### **Awesome React** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 
 A collection of awesome things regarding React ecosystem.
@@ -501,6 +501,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-switch - A draggable, customizable and accessible toggle-switch component. ★9](https://github.com/yogaboll/react-switch)
 * [react-credit-card-input - A simple credit/debit card input field for React. ★5](https://github.com/medipass/react-credit-card-input)
 * [react-creditcard - An awesome react credit card component. ★10](https://github.com/medipass/react-creditcard)
+* [email-autocomplete-input - Simple email autocomplete input. ★4](https://github.com/alex-cory/email-autocomplete-input)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system ★323](https://github.com/LouisBarranqueiro/reapop)
@@ -522,7 +523,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-icons - svg react icons of popular icon packs ★1358](https://github.com/gorangajic/react-icons)
 * [Keo - Plain functions for a more functional Deku approach to creating React components, with functional goodies such as pipe, memoize, etc... ★213](https://github.com/Wildhoney/Keo)
 * [Blueprint - A React-based UI toolkit for the web ★7524](https://github.com/palantir/blueprint)
-* [Bit - A virtual repository for managing and using react and other web components across applications ★753](https://github.com/teambit/bit)
+* [Bit - A virtual repository for managing and using react and other web components across applications ★800](https://github.com/teambit/bit)
 * [AtlasKit -  Atlassian's React UI library](https://atlaskit.atlassian.com/)
 
 ##### Integration
@@ -637,7 +638,7 @@ A collection of awesome things regarding React ecosystem.
 * [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
 
 ##### Data Managing
-* [Immutable.js - Immutable Data Collections for Javascript ★20940](https://github.com/facebook/immutable-js)
+* [Immutable.js - Immutable Data Collections for Javascript ★21354](https://github.com/facebook/immutable-js)
 * [cortex - A javascript library for centrally managing data with React ★1054](https://github.com/mquan/cortex)
 * [avers - A modern client-side model abstraction library ★3](https://github.com/wereHamster/avers)
 * [imvvm - Immutable Model-View-ViewModel for React](https://github.com/entrendipity/imvvm)
@@ -702,7 +703,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Native General Resources
 * [React Native Official Site](https://facebook.github.io/react-native/)
-* [React Native GitHub ★54650](https://github.com/facebook/react-native)
+* [React Native GitHub ★55953](https://github.com/facebook/react-native)
 * [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
 * [React Native Playground](https://rnplay.org/)
 * [React Native Awesome List ★15194](https://github.com/jondot/awesome-react-native)
@@ -783,7 +784,7 @@ A collection of awesome things regarding React ecosystem.
 * [MobX](#mobx)
 
 #### Flux Tutorials
-* [Building Applications with React and Flux](https://app.pluralsight.com/library/courses/react-flux-building-applications/table-of-contents)
+* [Building Applications with React and Flux](https://www.pluralsight.com/courses/react-flux-building-applications)
 * [Flux Application Architecture](http://facebook.github.io/flux/docs/overview.html)
 * [Flux: A simple architecture model to build Client-side apps](https://speakerdeck.com/pedronauck/flux-a-simple-architecture-model-to-build-client-side-apps)
 * [Isomorphic Flux examples using Dispatchr and Fetchr from Yahoo](https://github.com/yahoo/flux-examples)
@@ -840,7 +841,7 @@ A collection of awesome things regarding React ecosystem.
 * [redux-react-i18n - An i18n solution for redux/react ★50](https://github.com/derzunov/redux-react-i18n)
 
 #### Redux Tutorials
-* [Building Applications with React and Redux in ES6](https://app.pluralsight.com/library/courses/react-redux-react-router-es6/table-of-contents)
+* [Building Applications with React and Redux in ES6](https://www.pluralsight.com/courses/react-redux-react-router-es6)
 * [Getting Started with Redux](https://egghead.io/series/getting-started-with-redux)
 * [Building React Applications with Idiomatic Redux](https://egghead.io/series/building-react-applications-with-idiomatic-redux)
 * [Redux Tutorial ★3572](https://github.com/happypoulp/redux-tutorial)

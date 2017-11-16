@@ -7,7 +7,7 @@ title: Awesome Rank for stetso/awesome-gideros
 	This list is a copy of <a href="https://github.com/stetso/awesome-gideros">stetso/awesome-gideros</a> with ranks
 </p>
 ---
-# Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Gideros [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 <h1 align="center">
 	<a href="http://giderosmobile.com"><img width="200" src="gideros_logo.png" alt="Awesome Gideros"></a>

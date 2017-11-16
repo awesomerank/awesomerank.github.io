@@ -7,7 +7,7 @@ title: Awesome Rank for chentsulin/awesome-graphql
 	This list is a copy of <a href="https://github.com/chentsulin/awesome-graphql">chentsulin/awesome-graphql</a> with ranks
 </p>
 ---
-# awesome-graphql [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# awesome-graphql [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > Awesome list of GraphQL & Relay
 
@@ -334,7 +334,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [GraphQL ★371](https://github.com/GraphQLSwift/GraphQL) - Build GraphQL APIs with Swift.
 * [Gryphin ★8](https://github.com/dbart01/Gryphin) - Type-safe GraphQL client for iOS and MacOS written in Swift.
-* [Apollo-iOS ★814](https://github.com/apollographql/apollo-ios) - Strongly typed, code-generating, caching GraphQL client for Swift.
+* [Apollo-iOS ★859](https://github.com/apollographql/apollo-ios) - Strongly typed, code-generating, caching GraphQL client for Swift.
 * [LiveGQL ★28](https://github.com/florianmari/LiveGQL) - GraphQL Subscription client in Swift.
 
 <a name="lib-ocaml" />

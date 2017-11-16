@@ -7,13 +7,13 @@ title: Awesome Rank for eleventigers/awesome-rxjava
 	This list is a copy of <a href="https://github.com/eleventigers/awesome-rxjava">eleventigers/awesome-rxjava</a> with ranks
 </p>
 ---
-# Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome RxJava [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 [<img src="http://reactivex.io/assets/Rx_Logo_S.png" align="right" width="100">](http://reactivex.io/)
 
-> Useful resources for working with [RxJava ★27966](https://github.com/ReactiveX/RxJava)
+> Useful resources for working with [RxJava ★28734](https://github.com/ReactiveX/RxJava)
 
-*Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list thing.*
+*Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list thing.*
 
 ## Bindings
 
@@ -32,7 +32,7 @@ title: Awesome Rank for eleventigers/awesome-rxjava
 * [RxAnimationBinding ★80 ⏳1Y](https://github.com/blipinsk/RxAnimationBinding) - RxJava binding APIs for Android's animations.
 
 ## Utilities
-* [RxJavaAsyncUtil ★108](https://github.com/ReactiveX/RxJavaAsyncUtil) - Async utilities for RxJava.
+* [RxJavaAsyncUtil ★108 ⏳1Y](https://github.com/ReactiveX/RxJavaAsyncUtil) - Async utilities for RxJava.
 * [RxJavaJoins ★80 ⏳2Y](https://github.com/ReactiveX/RxJavaJoins) - Joins operators for RxJava.
 * [RxJavaMath ★88 ⏳1Y](https://github.com/ReactiveX/RxJavaMath) - Math operators for RxJava.
 * [RxJavaString ★113](https://github.com/ReactiveX/RxJavaString) - 

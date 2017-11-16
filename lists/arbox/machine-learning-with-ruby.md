@@ -13,7 +13,7 @@ title: Awesome Rank for arbox/machine-learning-with-ruby
  [RubyDataScience ★330](https://github.com/arbox/data-science-with-ruby) |
  [RubyInterop ★4](https://github.com/arbox/ruby-interoperability)]
 
-# Awesome Machine Learning with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Machine Learning with Ruby [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 [<img src="ruby.jpg" align="right" width="100px" height="100px" />][ruby]
 

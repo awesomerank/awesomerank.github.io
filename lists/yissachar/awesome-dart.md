@@ -7,10 +7,10 @@ title: Awesome Rank for yissachar/awesome-dart
 	This list is a copy of <a href="https://github.com/yissachar/awesome-dart">yissachar/awesome-dart</a> with ranks
 </p>
 ---
-Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+Awesome Dart [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 ============
 
-A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) lists.
+A curated list of awesome Dart frameworks, libraries, and software. Items on the list are actively maintained, well documented, and popular in the Dart community. Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) lists.
 
 ### Contributing
 
@@ -116,7 +116,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 ## Validation
 
 * [Constrain](https://pub.dartlang.org/packages/constrain) - Provides a constraint based Validation library inspired by Java Bean Validation but leveraging the superior language capabilities of Dart.
-* [validator.dart ★19 ⏳2Y](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
+* [validator.dart ★19 ⏳3Y](https://github.com/karan/validator.dart) - String validation and sanitization for Dart.
 
 ## ORM
 

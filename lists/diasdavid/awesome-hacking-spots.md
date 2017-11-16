@@ -7,10 +7,10 @@ title: Awesome Rank for diasdavid/awesome-hacking-spots
 	This list is a copy of <a href="https://github.com/diasdavid/awesome-hacking-spots">diasdavid/awesome-hacking-spots</a> with ranks
 </p>
 ---
-Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+Awesome Hacking Spots [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 ===============================
 
-> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★67308](https://github.com/sindresorhus/awesome) thing.
+> List of Awesome Hacking places, organised by Country and City, listing if it features power and wifi. Inspired by the [awesome lists ★69735](https://github.com/sindresorhus/awesome) thing.
 
 ## Index
 
@@ -770,6 +770,17 @@ Wifi | Power | Address | Open Hours
 ✔ | ✔ | [Rua Joao Mendonca 17, 3880-200 Aveiro](https://goo.gl/maps/ay2aTFp8EQr) | Tue-Thu, Sun 20:00-01:00, Fri-Sat 20:00-2:00
 
 ## Braga
+
+#### Jeronymo
+
+> Starbucks like café near the city center. As cool sofas and tables to work. To use the wifi you have to buy something and ask for the password.
+
+Webpage: http://www.jeronymo.pt/coffee-shops/jeronymo-coffee-shops/av-liberdade-braga/
+
+Wifi | Power | Address | Open Hours
+---- | ----- | ------- | ----------
+✔ | ✔ | [Avenida da Liberdade, 712, 4710-249 Braga](https://goo.gl/maps/2n1gT7P1MEz) | Mon-Sun 8:00 - 21:00
+
 
 #### Café São Martinho
 

@@ -7,7 +7,7 @@ title: Awesome Rank for lnishan/awesome-competitive-programming
 	This list is a copy of <a href="https://github.com/lnishan/awesome-competitive-programming">lnishan/awesome-competitive-programming</a> with ranks
 </p>
 ---
-# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Competitive Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome `Competitive Programming`, `Algorithm` and `Data Structure` resources.
 
@@ -393,7 +393,7 @@ Learn helpful tips, tutorials and insights from these people :)
 | Algorithm Visualization | [enjalot/algovis ★740](https://github.com/enjalot/algovis) |
 | Math | [rossant/awesome-math ★908](https://github.com/rossant/awesome-math) |
 | C++ | [fffaraz/awesome-cpp ★9841](https://github.com/fffaraz/awesome-cpp) |
-| Java | [akullpp/awesome-java ★14295](https://github.com/akullpp/awesome-java) |
+| Java | [akullpp/awesome-java ★14672](https://github.com/akullpp/awesome-java) |
 | Courses | [prakhar1989/awesome-courses ★21168](https://github.com/prakhar1989/awesome-courses) |
 | Free Programming Books | [vhf/free-programming-books](https://github.com/vhf/free-programming-books) |
 

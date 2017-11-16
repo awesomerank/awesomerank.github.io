@@ -7,7 +7,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 	This list is a copy of <a href="https://github.com/matiassingers/awesome-slack">matiassingers/awesome-slack</a> with ranks
 </p>
 ---
-# awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# awesome-slack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 > A curated list of awesome Slack related things
 
 ## Table of Contents
@@ -386,7 +386,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-w3w ★10 ⏳3Y](https://github.com/samzhang111/slack-w3w) - Slack Webhook for linking to What3Words
 - [slack-workout ★548](https://github.com/brandonshin/slackbot-workout) - A fun hack that gets Slackbot to force your teammates to work out!
 - [slack-zenoss ★5 ⏳1Y](https://github.com/ssplatt/slack-zenoss) - A Slack incoming webhook to show events from Zenoss
-- [slackard ★41](https://github.com/aelse/slackard) - A bot for Slack
+- [slackard ★41 ⏳1Y](https://github.com/aelse/slackard) - A bot for Slack
 - [slackbot ★680](https://github.com/lins05/slackbot) - A chat bot for Slack
 - [slackbot-python ★47 ⏳3Y](https://github.com/fsalum/slackbot-python) - A Slack.com bot in Python integrated with Amazon SQS
 - [slackbridge ★16](https://github.com/ossobv/slackbridge) - Bridge Slack channels between companies
@@ -423,7 +423,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [chef-slack\_handler ★11 ⏳1Y](https://github.com/dcm-ops/chef-slack_handler) - Chef handler for Slack
 - [dogetip-slack ★9 ⏳1Y](https://github.com/tenforwardconsulting/dogetip-slack) - Sinatra app to enable Dogecoin tipping via slack
 - [doorbell-server ★17](https://github.com/Lostmyname/doorbell-server) - Simple Sinatra app which acts a bridge between Slack and the LMN doorbell
-- [fastlane ★18650](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
+- [fastlane ★19224](https://github.com/fastlane/fastlane) - iOS deployment workflow that posts notifications to Slack
 - [gifbot ★38 ⏳4Y](https://github.com/schuyler/gifbot) - Integrated animated GIF search for Slack
 - [hatebu-hooker ★4 ⏳3Y](https://github.com/kmrshntr/hatebu-hooker) - Post Hatena::Bookmark to Slack
 - [kickslacker ★5](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack

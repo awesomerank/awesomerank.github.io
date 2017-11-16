@@ -7,7 +7,7 @@ title: Awesome Rank for mohataher/awesome-tinkerpop
 	This list is a copy of <a href="https://github.com/mohataher/awesome-tinkerpop">mohataher/awesome-tinkerpop</a> with ranks
 </p>
 ---
-# Awesome TinkerPop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome TinkerPop [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 ![alt tag](https://raw.githubusercontent.com/mohataher/awesome-tinkerpop/master/tinkerpop-splash.png)
 

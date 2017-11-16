@@ -7,7 +7,7 @@ title: Awesome Rank for deephacks/awesome-jvm
 	This list is a copy of <a href="https://github.com/deephacks/awesome-jvm">deephacks/awesome-jvm</a> with ranks
 </p>
 ---
-# Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome JVM [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome JVM low level and performance related stuff.
 
@@ -142,7 +142,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [RoaringBitmap ★662](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
 * [rollinghashjava ★46 ⏳1Y](https://github.com/lemire/rollinghashjava) - Rolling hash functions in Java.
 * [Reactor](http://projectreactor.io/) - Reactive data applications on the JVM for Java, Groovy, Clojure and other.
-* [RxJava ★27966](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences.
+* [RxJava ★28734](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences.
 * [SmoothieMap ★123 ⏳1Y](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
 * [Simple Binary Encoding ★1194](https://github.com/real-logic/simple-binary-encoding) - High Performance Message Codec.
 * [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
@@ -208,7 +208,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [K3PO ★28](https://github.com/k3po/k3po) - Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.
 * [muxy ★575](https://github.com/mefellows/muxy) - Simulating real-world distributed system failures.
 * [Netty](http://netty.io/) - Async event-driven network library for high performance protocol servers & clients.
-* [okhttp ★22925](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
+* [okhttp ★23489](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
 * [RSocket](http://rsocket.io/) - RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron.
 * [SimianArmy ★5863](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
 * [pcap4j ★382](https://github.com/kaitoy/pcap4j) - Java library for capturing, crafting, and sending packets using libpcap.
@@ -271,7 +271,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [JVMTI](https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/) - Provide a native API to inspect the state and to control the execution of applications running in the JVM.
 * [jvmtop ★590](https://github.com/patric-r/jvmtop) - Lightweight console application to monitor running jvms on a machine in top-like manner.
 * [MAT](https://eclipse.org/mat/) - Java heap analyzer that help find memory leaks and reduce memory consumption.
-* [leakcanary ★17106](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
+* [leakcanary ★17448](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
 * [metrics](http://metrics.dropwizard.io/) - Measure the behavior of critical components in production environment.
 * [Overseer](http://www.peternier.com/projects/overseer/overseer.php) - Low-Level Hardware Monitoring and Management for Java.
 * [OpenTracing](http://opentracing.io/) - A vendor-neutral open standard for distributed tracing.

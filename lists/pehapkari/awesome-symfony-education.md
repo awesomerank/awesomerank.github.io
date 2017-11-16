@@ -7,7 +7,7 @@ title: Awesome Rank for pehapkari/awesome-symfony-education
 	This list is a copy of <a href="https://github.com/pehapkari/awesome-symfony-education">pehapkari/awesome-symfony-education</a> with ranks
 </p>
 ---
-# Awesome Symfony Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Symfony Education [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 [![Build Status](https://img.shields.io/travis/pehapkari/awesome-symfony-education/master.svg?style=flat-square)](https://travis-ci.org/pehapkari/awesome-symfony-education)
 

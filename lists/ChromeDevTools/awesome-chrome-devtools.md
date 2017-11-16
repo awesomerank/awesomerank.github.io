@@ -7,7 +7,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 	This list is a copy of <a href="https://github.com/ChromeDevTools/awesome-chrome-devtools">ChromeDevTools/awesome-chrome-devtools</a> with ranks
 </p>
 ---
-# Awesome chrome-devtools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome chrome-devtools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > Awesome tooling and resources in the Chrome DevTools ecosystem
 
@@ -92,7 +92,7 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 ### Using DevTools frontend with other targets/platforms
 
 ##### Android
-- [Facebook Stetho ★8615](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools
+- [Facebook Stetho ★8788](https://github.com/facebook/stetho) - Native Android debugging with Chrome DevTools
 
 ##### ClosureScript
 - [Dirac ★488](https://github.com/binaryage/dirac) - Debugging of ClojsureScript
@@ -101,15 +101,15 @@ title: Awesome Rank for ChromeDevTools/awesome-chrome-devtools
 - [Mare ★199](https://github.com/muzuiget/mare) - Lua debugging with Chrome DevTools
 
 #### iOS
-- [PonyDebugger ★5467](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
+- [PonyDebugger ★5484](https://github.com/square/PonyDebugger) - Remote network and data debugging iOS apps with Chrome DevTools
 
 ##### Go
 - [go-debugger-devtools](https://github.com/allada/go-debugger-devtools)
 
 ##### Node.js
 - [Debugging Node.js with Chrome DevTools](https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27) - Guide on using the full debugging and profiling support in Node v6.3+
-- [devtool ★3751](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
-- [buggerJS ★150](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
+- [devtool ★3750](https://github.com/Jam3/devtool) - Debug & profile Node.js apps with Chrome DevTools (using Electron).
+- [buggerJS ★151](https://github.com/buggerjs/bugger) - Provides Chrome DevTools bindings for node.
 
 
 ---

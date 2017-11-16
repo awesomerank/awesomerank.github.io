@@ -7,7 +7,7 @@ title: Awesome Rank for ciconia/awesome-music
 	This list is a copy of <a href="https://github.com/ciconia/awesome-music">ciconia/awesome-music</a> with ranks
 </p>
 ---
-# Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Music [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A categorized collection of awesome music libraries, tools, frameworks and software.
 
@@ -139,7 +139,7 @@ Thanks to all [contributors](https://github.com/ciconia/awesome-music/graphs/con
 * [Awesome Music Production ★36 ⏳1Y](https://github.com/adius/awesome-music-production) - A curated list of software and resources to create music.
 * [Awesome Web Audio ★288](https://github.com/notthetup/awesome-webaudio) - A curated list of awesome WebAudio packages and resources.
 
-Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) list.
+Other amazingly awesome lists can be found in the [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) list.
 
 ## License
 

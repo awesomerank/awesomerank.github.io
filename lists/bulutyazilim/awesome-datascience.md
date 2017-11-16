@@ -7,7 +7,7 @@ title: Awesome Rank for bulutyazilim/awesome-datascience
 	This list is a copy of <a href="https://github.com/bulutyazilim/awesome-datascience">bulutyazilim/awesome-datascience</a> with ranks
 </p>
 ---
-# Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Data Science [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 
 *An open source Data Science repository to learn and apply towards solving real world problems.*
@@ -411,7 +411,7 @@ Collaborate on, scale, and deploy data analysis and advanced analytics projects 
  * [Caffe](http://caffe.berkeleyvision.org/) Deep Learning Framework
  * [Torch](http://torch.ch/) A SCIENTIFIC COMPUTING FRAMEWORK FOR LUAJIT
  * [Nervana's python based Deep Learning Framework ★3253](https://github.com/NervanaSystems/neon)
- * [Skale ★175](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS
+ * [Skale](https://github.com/skale-me/skale-engine) - High performance distributed data processing in NodeJS
  * [Aerosolve](http://airbnb.io/aerosolve/) - A machine learning package built for humans.
  * [Intel framework ★321 ⏳1Y](https://github.com/01org/idlf) - Intel® Deep Learning Framework
  * [Datawrapper](https://www.datawrapper.de/) – An open source data visualization platform helping everyone to create simple, correct and embeddable charts. Also at [github.com ★849](https://github.com/datawrapper/datawrapper)
@@ -508,7 +508,7 @@ Quick Start
 
 ## Other Awesome Lists
 
- - Other amazingly awesome lists can be found in the [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) list.
+ - Other amazingly awesome lists can be found in the [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) list.
  - [Awesome Machine Learning ★27278](https://github.com/josephmisiti/awesome-machine-learning) A curated list of awesome Machine Learning frameworks, libraries and software.
  - [lists ★4518](https://github.com/jnv/lists)
  - [awesome-dataviz ★1280](https://github.com/fasouto/awesome-dataviz)

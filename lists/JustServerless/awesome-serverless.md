@@ -7,13 +7,13 @@ title: Awesome Rank for JustServerless/awesome-serverless
 	This list is a copy of <a href="https://github.com/JustServerless/awesome-serverless">JustServerless/awesome-serverless</a> with ranks
 </p>
 ---
-# Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Serverless [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/justserverless/awesome-serverless/master/logo-serverless.jpg" align="right" width="100">](http://serverless.com)
 
 > A curated list of resources regarding the [Serverless Framework](https://serverless.com) (formerly JAWS) and the serverless architecture.
 
-*Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list project.*
+*Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list project.*
 
 **Say *hello* on [Twitter](https://twitter.com/pmmuens).**
 
@@ -892,6 +892,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Supercharge your serverless with CRDTs at the edge](https://serverless.com/blog/crdt-explained-supercharge-serverless-at-edge/) - What CRDTs are and how they can be used for Serverless@Edge.
 - [Occupy the cloud: distributed computing for the 99%](https://blog.acolyer.org/2017/10/30/occupy-the-cloud-distributed-computing-for-the-99/) - Analysis of the serverless computing model as the centerpiece for distributed data processing systems.
 - [TIBCO forays into edge and serverless computing](https://www.forbes.com/sites/janakirammsv/2017/11/13/tibco-forays-into-edge-and-serverless-computing-with-project-flogo/#45e7a044523b) - Post about TIBCOs recent investment into edge- and serverless computing.
+- [Building a multi-region serverless application](https://aws.amazon.com/de/blogs/compute/building-a-multi-region-serverless-application-with-amazon-api-gateway-and-aws-lambda/) - How to build a multi-region serverless application with AWS Lambda and API Gateway.
+- [The ABCs of IAM permissions](https://serverless.com/blog/abcs-of-iam-permissions/) - How IAM permissions work and how you can use them within the Serverless Framework.
 
 ## Screencasts
 

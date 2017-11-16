@@ -7,7 +7,7 @@ title: Awesome Rank for busterc/awesome-cordova
 	This list is a copy of <a href="https://github.com/busterc/awesome-cordova">busterc/awesome-cordova</a> with ranks
 </p>
 ---
-# Awesome Cordova [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/busterc/awesome-cordova.svg?branch=master)](https://travis-ci.org/busterc/awesome-cordova)
+# Awesome Cordova [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/busterc/awesome-cordova.svg?branch=master)](https://travis-ci.org/busterc/awesome-cordova)
 
 A curated list of amazingly awesome Cordova libraries, resources and shiny things.
 
@@ -83,7 +83,7 @@ A curated list of amazingly awesome Cordova libraries, resources and shiny thing
     - [Bugfender ★1](https://github.com/bugfender/cordova-plugin-bugfender)
 
 # Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) list.
+Other amazingly awesome lists can be found in the [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) list.
 
 # Contributing
 Your contributions are always welcome!

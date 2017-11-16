@@ -7,7 +7,7 @@ title: Awesome Rank for h4cc/awesome-elixir
 	This list is a copy of <a href="https://github.com/h4cc/awesome-elixir">h4cc/awesome-elixir</a> with ranks
 </p>
 ---
-# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Elixir [![Build Status](https://api.travis-ci.org/h4cc/awesome-elixir.svg?branch=master)](https://travis-ci.org/h4cc/awesome-elixir) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 A curated list of amazingly awesome Elixir libraries, resources, and shiny things inspired by [awesome-php ★17013](https://github.com/ziadoz/awesome-php).
 
 If you think a package should be added, please add a :+1: (`:+1:`) at the according issue or create a new one.
@@ -338,7 +338,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 
 * [cachex](https://github.com/zackehh/cachex) - A powerful caching library for Elixir with a wide featureset.
 * [con_cache ★370](https://github.com/sasa1977/con_cache) - ConCache is an ETS based key/value storage.
-* [elixir_locker ★12 ⏳1Y](https://github.com/tsharju/elixir_locker) - Locker is an Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
+* [elixir_locker ★12 ⏳2Y](https://github.com/tsharju/elixir_locker) - Locker is an Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
 * [jc ★14](https://github.com/jr0senblum/jc) - In-memory, distributable cache with pub/sub, JSON-query and consistency support.
 * [locker ★132 ⏳1Y](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
 * [lru_cache ★17](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
@@ -505,7 +505,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [bureaucrat ★134](https://github.com/api-hogs/bureaucrat) - Generate Phoenix API documentation from tests.
 * [ex_doc ★484](https://github.com/elixir-lang/ex_doc) - ExDoc is a tool to generate documentation for your Elixir projects.
 * [ex_doc_dash ★60 ⏳1Y](https://github.com/JonGretar/ExDocDash) - Formatter for ExDoc to generate docset documentation for use in Dash.app.
-* [hexdocset ★18 ⏳1Y](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
+* [hexdocset ★18 ⏳2Y](https://github.com/yesmeck/hexdocset) - Convert hex doc to Dash.app's docset format.
 * [inch-ci](http://inch-ci.org/) - Documentation badges for Ruby & Elixir.
 * [maru_swagger](https://github.com/falood/maru_swagger) - Add swagger compliant documentation to your maru API.
 * [phoenix_api_docs ★17](https://github.com/smoku/phoenix_api_docs) - Generate API Blueprint documentation from controllers and tests in the Phoenix framework.
@@ -1215,7 +1215,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exgen ★21](https://github.com/rwdaigle/exgen) - A templating library for quickly generating Elixir projects.
 * [expug ★54](https://github.com/rstacruz/expug) - Pug templates for Elixir.
 * [mustache ★19](https://github.com/schultyy/Mustache.ex) - Mustache templates for Elixir.
-* [mustachex ★12 ⏳1Y](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
+* [mustachex ★12 ⏳2Y](https://github.com/jui/mustachex) - Mustache for Elixir - Logic-less templates.
 * [templates ★2 ⏳2Y](https://github.com/sugar-framework/templates) - Helper library for adding templating to web applications.
 
 ## Testing

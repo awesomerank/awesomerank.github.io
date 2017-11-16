@@ -9,7 +9,7 @@ title: Awesome Rank for k4m4/terminals-are-sexy
 ---
 [![Terminals_Are_Sexy_Logo](http://nikolaskama.me/content/images/2017/02/terminals_are_sexy.png)](http://terminalsare.sexy/)
 
-# Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Terminals Are Sexy [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > A curated list of Terminal frameworks, plugins & resources for CLI lovers.
 
@@ -106,9 +106,9 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [Konsole](https://konsole.kde.org/) - Terminal emulator for the K Desktop Environment.
 * [MacTerm](https://www.macterm.net/) - Powerful replacement for macOS Terminal.
 * [xterm](http://invisible-island.net/xterm/) - Terminal emulator for the X Window System.
-* [Hyper ★19340](https://github.com/zeit/hyper) - Terminal built on web technologies.
+* [Hyper ★19821](https://github.com/zeit/hyper) - Terminal built on web technologies.
 * [ZOC](https://www.emtec.com/zoc/index.html) - SSH/Telnet Client and Terminal Emulator for macOS and Windows.
-* [Upterm ★17452](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
+* [Upterm ★17620](https://github.com/railsware/upterm) - Terminal emulator for the 21st century.
 * [TotalTerminal](https://totalterminal.binaryage.com/) - System-wide terminal available on a hot-key.
 * [Go2Shell](http://zipzapmac.com/Go2Shell) - Opens a terminal window to the current directory in Finder.
 * [Cathode](http://www.secretgeometry.com/apps/cathode/) - Vintage terminal for macOS.
@@ -168,7 +168,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [jed](http://www.jedsoft.org/jed/) - Freely available text editor for Unix, VMS, MSDOS, OS/2, BeOS, QNX, and win9X/NT platforms.
 * [kakoune](http://kakoune.org/) - Modal editor with multiple selections and orthogonal design.
 * [vis ★2547](https://github.com/martanne/vis) - Highly efficient text editor.
-* [slap ★4735](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
+* [slap ★4772](https://github.com/slap-editor/slap) - Sublime-like terminal-based text editor.
 
 ## Tools and Plugins
 

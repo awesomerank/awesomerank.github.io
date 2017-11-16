@@ -7,9 +7,9 @@ title: Awesome Rank for opencompany/awesome-open-company
 	This list is a copy of <a href="https://github.com/opencompany/awesome-open-company">opencompany/awesome-open-company</a> with ranks
 </p>
 ---
-# Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Open Company [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 A community-curated list of awesome [open companies](#what-is-an-open-company),
-inspired by the many [awesome-x lists ★67308](https://github.com/sindresorhus/awesome) out there.
+inspired by the many [awesome-x lists ★69735](https://github.com/sindresorhus/awesome) out there.
 
 (**[click here](#companies)** to jump straight to the list below.)
 
@@ -57,7 +57,7 @@ Company | Openness Pledge | Open Product | Open Standards | Statement | Open Cha
 ![Arduino LLC](http://www.google.com/s2/favicons?domain=arduino.cc) [**Arduino LLC**](http://www.arduino.cc) | [Arduino - Introduction](http://www.arduino.cc/en/Guide/Introduction) | :octocat:[Arduino ★7320](https://github.com/arduino/Arduino) |  |  |  |
 ![Atlassian](http://www.google.com/s2/favicons?domain=atlassian.com) [**Atlassian**](https://www.atlassian.com/) | [Company values \| Atlassian](https://www.atlassian.com/company/about/values) | N/A |  |  |  |
 ![Balsamiq](http://www.google.com/s2/favicons?domain=balsamiq.com) [**Balsamiq**](https://balsamiq.com/) | [Company \| Balsamiq](https://balsamiq.com/company/#goodcitizen) | N/A |  |  |  |
-![Bevry](http://www.google.com/s2/favicons?domain=bevry.me) [**Bevry**](https://bevry.me) | [Bevry](https://bevry.me) | [DocPad ★2932](https://github.com/docpad/docpad) |  |  |  |
+![Bevry](http://www.google.com/s2/favicons?domain=bevry.me) [**Bevry**](https://bevry.me) | [Bevry](https://bevry.me) | [DocPad ★2936](https://github.com/docpad/docpad) |  |  |  |
 ![Buffer](http://www.google.com/s2/favicons?domain=buffer.com) [**Buffer**](https://buffer.com/) | [Buffer's transparency dashboard: Public salaries, equity and more](https://buffer.com/transparency) | :octocat:[Misc](https://github.com/bufferapp/) |  |*[Why we have a core value of transparency at our startup](http://joel.is/why-we-have-a-core-value-of-transparency-at-our-startup/)*|  | [Revenue](https://open.buffer.com/buffer-public-revenue-dashboard/)
 ![CodeCombat](http://www.google.com/s2/favicons?domain=codecombat.com/) [**CodeCombat**](http://codecombat.com/) | [CodeCombat - Learn how to code by playing a game](http://codecombat.com/legal) | :octocat:[CodeCombat ★5821](https://github.com/codecombat/codecombat) |  |*[Why you should open-source your startup](http://blog.codecombat.com/why-you-should-open-source-your-startup)*|  |
 ![Couchbase](http://www.google.com/s2/favicons?domain=couchbase.com) [**Couchbase**](http://www.couchbase.com/) | [Open Source Projects](http://www.couchbase.com/open-source) | :octocat:[All Products](https://github.com/couchbase) |  |  |  |

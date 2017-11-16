@@ -7,18 +7,18 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 	This list is a copy of <a href="https://github.com/parro-it/awesome-micro-npm-packages">parro-it/awesome-micro-npm-packages</a> with ranks
 </p>
 ---
-# Awesome Micro npm Packages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Micro npm Packages [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > A curated list of small, focused Node.js modules.
 
-*Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list thing.*
+*Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list thing.*
 
 
 ## Articles
 
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 * [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
-* [Module best practices ★952 ⏳2Y](https://github.com/mattdesl/module-best-practices)
+* [Module best practices ★978 ⏳2Y](https://github.com/mattdesl/module-best-practices)
 * [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/) 
 * [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
 * [Small modules: it’s not quite that simple](https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4)
@@ -67,7 +67,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 ### Date & Time
 
-* [pretty-ms ★239](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
+* [pretty-ms ★245](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 * [hirestime ★5](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
 * [periods ★1 ⏳2Y](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
 * [fecha ★1187](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
@@ -106,7 +106,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [once ★128](https://github.com/isaacs/once) - Run a function exactly one time.
 * [deep-bind ★7 ⏳1Y](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
 * [identity-function ★6 ⏳1Y](https://github.com/substack/identity-function) - Always return the input argument. 
-* [mem ★301](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+* [mem ★305](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 * [throttle-debounce ★134](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 
 ### Math
@@ -114,12 +114,12 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [is-number ★27](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
 
 ### Stream
-* [through2 ★1205](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
+* [through2 ★1231](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
 * [through2-filter ★19 ⏳2Y](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
 * [through2-map ★53 ⏳1Y](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams.
 * [stream-spigot ★15](https://github.com/brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams.
 * [concat-stream ★421](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
-* [JSONStream ★1312](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify
+* [JSONStream ★1336](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify
 * [through2-map-promise ★0 ⏳1Y](https://github.com/RangerMauve/through2-map-promise) - A small promise-based wrapper for through2.
 * [pump ★400](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
 * [split ★276](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
@@ -127,14 +127,14 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 ### Promise
 
-* [pify ★692](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
+* [pify ★719](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
 * [promise-all-props ★6](https://github.com/Siilwyn/promise-all-props) - Like `Promise.all` but for object properties.
 * [sleep-promise ★23 ⏳1Y](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
 * [is-promise ★45 ⏳1Y](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise.
 
 ### File System
 
-* [rimraf ★1978](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf).
+* [rimraf ★2052](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf).
 * [mkdirp ★1523](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p.
 * [du ★20](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
 * [file-size ★194 ⏳2Y](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
@@ -152,7 +152,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 ### Semver
 
-* [semver ★1942](https://github.com/npm/node-semver) - The semantic version parser used by npm.
+* [semver ★1984](https://github.com/npm/node-semver) - The semantic version parser used by npm.
 * [semver-max ★1 ⏳2Y](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver.
 * [semver-first-satisfied ★2 ⏳1Y](https://github.com/parro-it/semver-first-satisfied) - Find minimum in an array of version that satisfies a semver range.
 
@@ -163,7 +163,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [abbrev ★113](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
 * [glob ★3926](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 * [username ★74](https://github.com/sindresorhus/username) - Get the username of the current user.
-* [minimist ★2499](https://github.com/substack/minimist) - Parse argument options.
+* [minimist ★2559](https://github.com/substack/minimist) - Parse argument options.
 * [png-to-ico ★23](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 * [help-version ★1 ⏳1Y](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application
 
@@ -187,8 +187,8 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
 
-* [awesome-nodejs ★19279](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
-* [awesome-npm ★2614](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips.
+* [awesome-nodejs ★19878](https://github.com/sindresorhus/awesome-nodejs) - A curated list of delightful Node.js packages and resources.
+* [awesome-npm ★2667](https://github.com/sindresorhus/awesome-npm) - Awesome npm resources and tips.
 
 ## Small modules rockstars to follow
 

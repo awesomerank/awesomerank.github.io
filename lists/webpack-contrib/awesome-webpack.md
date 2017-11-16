@@ -12,15 +12,15 @@ title: Awesome Rank for webpack-contrib/awesome-webpack
 	<br>
 </h3>
 
-**[webpack ★32841](https://github.com/webpack/webpack)** is a **module bundler**.
+**[webpack ★33905](https://github.com/webpack/webpack)** is a **module bundler**.
 
 webpack takes modules with dependencies and generates static assets representing those modules.
 <br>
-## Awesome Webpack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/webpack-contrib/awesome-webpack.svg?branch=master)](https://travis-ci.org/webpack-contrib/awesome-webpack)
+## Awesome Webpack [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [![Build Status](https://travis-ci.org/webpack-contrib/awesome-webpack.svg?branch=master)](https://travis-ci.org/webpack-contrib/awesome-webpack)
 
 > A curated list of awesome Webpack resources, libraries, tools and applications
 
-Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/webpack-contrib/awesome-webpack/blob/master/contributing.md)!
+Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list. Feel free to improve this list by [contributing](https://github.com/webpack-contrib/awesome-webpack/blob/master/contributing.md)!
 <!--lint disable list-item-indent-->
 
 ### Contents

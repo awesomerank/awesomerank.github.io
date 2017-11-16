@@ -9,13 +9,13 @@ title: Awesome Rank for paralax/awesome-honeypots
 ---
 # Awesome Honeypots  
 
-[![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+[![Awesome Honeypots](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome honeypots, tools, components and much more. The list is divided into categories such as web, services, and others, focusing on open source projects.
 
 There is no pre-established order of items in each category, the order is for contribution. If you want to contribute, please read the [guide](https://github.com/paralax/awesome-honeypots/blob/master/CONTRIBUTING.md).
 
-Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.com/sindresorhus/awesome).
+Discover more awesome lists at [sindresorhus/awesome ★69735](https://github.com/sindresorhus/awesome).
 
 ### Sections
 
@@ -271,7 +271,7 @@ Discover more awesome lists at [sindresorhus/awesome ★67308](https://github.co
     - [sshlowpot ★5](https://github.com/magisterquis/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
     - [sshhipot ★110](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
     - [DShield docker ★3 ⏳1Y](https://github.com/xme/dshield-docker) - Docker container running cowrie with DShield output enabled.
-    - [hornet ★18](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot that supports multiple virtual hosts
+    - [hornet ★18 ⏳1Y](https://github.com/czardoz/hornet) - Medium interaction SSH Honeypot that supports multiple virtual hosts
     - [ssh-honeypot ★122](https://github.com/droberson/ssh-honeypot) - Fake sshd that logs ip addresses, usernames, and passwords.
     - [Kippo_JunOS ★10 ⏳1Y](https://github.com/gregcmartin/Kippo_JunOS) - Kippo configured to be a backdoored netscreen.
     - [ssh-honeypotd ★4](https://github.com/sjinks/ssh-honeypotd) - A low-interaction SSH honeypot written in C.

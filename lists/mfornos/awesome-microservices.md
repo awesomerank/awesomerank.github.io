@@ -7,7 +7,7 @@ title: Awesome Rank for mfornos/awesome-microservices
 	This list is a copy of <a href="https://github.com/mfornos/awesome-microservices">mfornos/awesome-microservices</a> with ranks
 </p>
 ---
-# Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Microservices [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of Microservice Architecture related principles and technologies.
 
@@ -360,7 +360,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Logging
 
-- [Bunyan ★4460](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
+- [Bunyan ★4543](https://github.com/trentm/node-bunyan) - Simple and fast JSON logging library for Node.js services.
 - [Fluentd](http://www.fluentd.org/) - Open source data collector for unified logging layer.
 - [Graylog](https://www.graylog.org/) - Fully integrated open source log management platform.
 - [Kibana](https://www.elastic.co/products/kibana) - Flexible analytics and visualization platform.
@@ -452,7 +452,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Fastjson ★11314](https://github.com/alibaba/fastjson) - Fast JSON Processor.
 - [Ffjson ★2000](https://github.com/pquerna/ffjson) - Faster JSON serialization for Go.
 - [FST ★849](https://github.com/RuedigerMoeller/fast-serialization) - Fast java serialization drop in-replacemen.
-- [Jackson ★3312](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
+- [Jackson ★3381](https://github.com/FasterXML/jackson) -  A multi-purpose Java library for processing JSON data format.
 - [Jackson Afterburner ★88 ⏳1Y](https://github.com/FasterXML/jackson-module-afterburner) - Jackson module that uses bytecode generation to further speed up data binding (+30-40% throughput for serialization, deserialization).
 - [Kryo ★2931](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 - [MessagePack](http://msgpack.org/) - Efficient binary serialization format.

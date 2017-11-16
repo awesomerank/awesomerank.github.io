@@ -9,11 +9,11 @@ title: Awesome Rank for ramnes/awesome-mongodb
 ---
 ![Awesome MongoDB](https://github.com/ramnes/awesome-mongodb/blob/master/logo.png)
 
-# Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome MongoDB [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome MongoDB resources, libraries, tools and applications
 
-Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
+Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list thing. Feel free to improve this list by [contributing](https://github.com/ramnes/awesome-mongodb/blob/master/CONTRIBUTING.md)!
 
 ## Table of Contents
  - [Resources](#resources)
@@ -130,7 +130,7 @@ Inspired by the [awesome ★67308](https://github.com/sindresorhus/awesome) list
  - [Mongoose ★13805](https://github.com/Automattic/mongoose) - Node.js asynchronous ODM
  - [mongration](https://github.com/eberhara/mongration) - Node.js migration framework
  - [Moonridge ★55](https://github.com/capaj/Moonridge) - Framework with live querying on top of Mongoose and socket.io
- - [node-mongodb-native ★6072](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
+ - [node-mongodb-native ★6188](https://github.com/mongodb/node-mongodb-native) - Official Node.js driver
 
 ### Julia
  - [Mongo.jl ★27 ⏳1Y](https://github.com/Lytol/Mongo.jl) - Bindings on MongoDB official C driver

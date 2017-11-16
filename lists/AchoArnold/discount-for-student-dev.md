@@ -7,7 +7,7 @@ title: Awesome Rank for AchoArnold/discount-for-student-dev
 	This list is a copy of <a href="https://github.com/AchoArnold/discount-for-student-dev">AchoArnold/discount-for-student-dev</a> with ranks
 </p>
 ---
-# discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# discount-for-student-dev [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 This is list of discounts on software (SaaS, PaaS, IaaS, etc.) and other offerings for developers who happen to be students.
 This list is greatly inspired by the [free-for-dev list ★17314](https://github.com/ripienaar/free-for-dev).
 

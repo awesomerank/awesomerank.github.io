@@ -7,13 +7,13 @@ title: Awesome Rank for sindresorhus/awesome-electron
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-electron">sindresorhus/awesome-electron</a> with ranks
 </p>
 ---
-# Awesome Electron [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Electron [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 [<img src="https://rawgit.com/sindresorhus/awesome-electron/master/electron-logo.svg" align="right" width="100">](http://electron.atom.io)
 
 > Useful resources for creating apps with [Electron](http://electron.atom.io)
 
-You might also like [awesome-nodejs ★19279](https://github.com/sindresorhus/awesome-nodejs).
+You might also like [awesome-nodejs ★19878](https://github.com/sindresorhus/awesome-nodejs).
 
 <a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome-electron'>
   <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/tmkVF4Qm7RNE8e9RVwnim6gU/sindresorhus/awesome-electron.svg' />
@@ -43,71 +43,71 @@ Made with Electron.
 
 ###### Featured
 
-- [Beaker ★1984](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
-- [Hyper ★19340](https://github.com/zeit/hyper) - Terminal.
+- [Beaker ★2231](https://github.com/beakerbrowser/beaker) - Browser with peer-to-peer web protocols.
+- [Hyper ★19821](https://github.com/zeit/hyper) - Terminal.
 - [WebTorrent](https://github.com/feross/webtorrent-app) - Streaming torrent client.
-- [Kap ★5894](https://github.com/wulkano/kap) - Screen recorder with GIF support.
-- [Min ★2091](https://github.com/minbrowser/min) - Minimal web browser.
-- [Mancy ★2382](https://github.com/princejwesley/Mancy) - JavaScript REPL.
-- [SpaceRadar ★670](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
-- [Nocturn ★542](https://github.com/k0kubun/Nocturn) - Twitter client.
-- [Mojibar ★1753](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
-- [Playback ★1663](https://github.com/mafintosh/playback) - Video player.
-- [Upterm ★17452](https://github.com/railsware/upterm) - Terminal.
-- [Atom ★40978](https://github.com/atom/atom) - Code editor.
-- [Visual Studio Code ★35698](https://github.com/Microsoft/vscode) - Cross-platform IDE.
+- [Kap ★6088](https://github.com/wulkano/kap) - Screen recorder with GIF support.
+- [Min ★2171](https://github.com/minbrowser/min) - Minimal web browser.
+- [Mancy ★2395](https://github.com/princejwesley/Mancy) - JavaScript REPL.
+- [SpaceRadar ★684](https://github.com/zz85/space-radar) - Interactive disk space and memory visualization.
+- [Nocturn ★560](https://github.com/k0kubun/Nocturn) - Twitter client.
+- [Mojibar ★1762](https://github.com/muan/mojibar) - Emoji searcher in your menubar.
+- [Playback ★1677](https://github.com/mafintosh/playback) - Video player.
+- [Upterm ★17620](https://github.com/railsware/upterm) - Terminal.
+- [Atom ★41692](https://github.com/atom/atom) - Code editor.
+- [Visual Studio Code ★38398](https://github.com/Microsoft/vscode) - Cross-platform IDE.
 - [Nylas N1](https://github.com/nylas/N1) - Extensible email client.
-- [Brave ★5950](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
+- [Brave ★6143](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
 
 ###### Other
 
-- [Git-it ★1568](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
-- [Caprine ★2588](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
-- [Simplenote ★1375](https://github.com/Automattic/simplenote-electron) - Note keeper.
-- [nuTorrent ★184 ⏳2Y](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
-- [Abricotine ★1330](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
-- [Medis ★4786](https://github.com/luin/medis) - Redis database management.
-- [Kakapo ★321](https://github.com/bluedaniel/kakapo-app) - Ambient sound mixer for relaxation or productivity.
-- [SmartMirror ★2008](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
+- [Git-it ★1651](https://github.com/jlord/git-it-electron) - Teaches you Git and GitHub.
+- [Caprine ★2660](https://github.com/sindresorhus/caprine) - Unofficial Facebook Messenger app.
+- [Simplenote ★1397](https://github.com/Automattic/simplenote-electron) - Note keeper.
+- [nuTorrent ★185 ⏳2Y](https://github.com/LeeChSien/nuTorrent) - BitTorrent client.
+- [Abricotine ★1346](https://github.com/brrd/Abricotine) - Markdown editor with inline preview.
+- [Medis ★4930](https://github.com/luin/medis) - Redis database management.
+- [Kakapo ★322](https://github.com/bluedaniel/kakapo-app) - Ambient sound mixer for relaxation or productivity.
+- [SmartMirror ★2030](https://github.com/evancohen/smart-mirror) - Voice controlled smart mirror.
 - [Koko](https://github.com/hachibasu/koko) - IRC client.
-- [KeeWeb ★5511](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
+- [KeeWeb ★5627](https://github.com/keeweb/keeweb) - Unofficial KeePass app.
 - [Gitify](https://github.com/ekonstantinidis/gitify) - GitHub notifications in your menubar.
-- [Friends ★2811](https://github.com/moose-team/friends) - P2P chat.
-- [Cumulus ★852](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
+- [Friends ★2833](https://github.com/moose-team/friends) - P2P chat.
+- [Cumulus ★870](https://github.com/gillesdemey/Cumulus) - SoundCloud player in your menubar.
 - [Kitematic](https://kitematic.com) - Docker container management.
-- [FatFileFinder ★121](https://github.com/pwambach/fat-file-finder) - Find large files on your machine.
-- [ScreenCat ★2022 ⏳1Y](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
-- [Gulp ★969](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from your menubar.
+- [FatFileFinder ★122](https://github.com/pwambach/fat-file-finder) - Find large files on your machine.
+- [ScreenCat ★2039 ⏳1Y](https://github.com/maxogden/screencat) - Screen sharing & remote collaboration.
+- [Gulp ★972](https://github.com/sindresorhus/gulp-app) - Run Gulp tasks from your menubar.
 - [Mapbox Studio](https://github.com/mapbox/mapbox-studio) - Map designer.
 - [LevelUI](https://github.com/hij1nx/levelui) - LevelDB management.
-- [Kart ★368 ⏳2Y](https://github.com/maddox/kart) - Front-end for RetroArch.
-- [Vmd ★709](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
+- [Kart ★369 ⏳2Y](https://github.com/maddox/kart) - Front-end for RetroArch.
+- [Vmd ★719](https://github.com/yoshuawuyts/vmd) - Preview Markdown files.
 - [Kyoku ★70](https://github.com/cheeaun/kyoku) - Displays current iTunes song.
 - [GReader](https://github.com/Nekle/greader) - Collect and read offline readme files of GitHub repos.
-- [Leanote ★1039](https://github.com/leanote/desktop-app) - Cloud notepad.
-- [Snapper ★85](https://github.com/pt2121/Snapper) - Screen capturing & recording for Android devices.
-- [Imagemin ★654](https://github.com/imagemin/imagemin-app) - Minify images.
+- [Leanote ★1058](https://github.com/leanote/desktop-app) - Cloud notepad.
+- [Snapper ★87](https://github.com/pt2121/Snapper) - Screen capturing & recording for Android devices.
+- [Imagemin ★661](https://github.com/imagemin/imagemin-app) - Minify images.
 - [We Build SG ★38](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
-- [Piglet ★63 ⏳1Y](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar.
+- [Piglet ★64 ⏳1Y](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
-- [Loop Drop ★611](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
-- [Toby ★89](https://github.com/frankhale/toby) - YouTube player.
-- [Kaku ★728](https://github.com/EragonJ/Kaku) - Music player.
-- [Yeoman ★949](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
+- [Loop Drop ★620](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.
+- [Toby ★92](https://github.com/frankhale/toby) - YouTube player.
+- [Kaku ★731](https://github.com/EragonJ/Kaku) - Music player.
+- [Yeoman ★958](https://github.com/yeoman/yeoman-app) - Scaffold projects using Yeoman.
 - [Markn ★122 ⏳1Y](https://github.com/minodisk/markn) - Markdown viewer.
-- [Shiba ★542](https://github.com/rhysd/Shiba) - Live Markdown preview with linting.
-- [Yays ★57 ⏳1Y](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
-- [TimoFM ★227 ⏳1Y](https://github.com/sapjax/TimoFM) - DoubanFM music player.
-- [Monu ★1072 ⏳1Y](https://github.com/maxogden/monu) - Process monitoring.
+- [Shiba ★545](https://github.com/rhysd/Shiba) - Live Markdown preview with linting.
+- [Yays ★59 ⏳1Y](https://github.com/Bahlaouane-Hamza/Yays) - YouTube music player in your menubar.
+- [TimoFM ★226 ⏳1Y](https://github.com/sapjax/TimoFM) - DoubanFM music player.
+- [Monu ★1082 ⏳1Y](https://github.com/maxogden/monu) - Process monitoring.
 - [Tèsèvè](https://teseve.github.io) - Static webserver.
 - [DevDocs](https://github.com/egoist/devdocs-app) - Unofficial DevDocs.io app.
 - [Trendy](https://rhysd.github.io/Trendy/) - Trending GitHub repos in your menubar.
-- [google-music-electron ★232](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
+- [google-music-electron ★236](https://github.com/twolfson/google-music-electron) - Unofficial Google music app.
 - [Pomodoro](https://g07cha.github.io/pomodoro/) - Timer based on the Pomodoro Technique.
 - [Sia-UI](http://sia.tech) - Decentralized file storage system based on cryptocurrency technology.
-- [MarkRight ★901](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
-- [Mongotron ★2291](https://github.com/officert/mongotron) - MongoDB management tool.
-- [Colonizers ★111 ⏳2Y](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
+- [MarkRight ★900](https://github.com/dvcrn/markright) - GitHub flavored Markdown editor with live preview.
+- [Mongotron ★2310](https://github.com/officert/mongotron) - MongoDB management tool.
+- [Colonizers ★113 ⏳2Y](https://github.com/colonizers/colonizers-desktop) - "Catan" inspired board game.
 - [Eintopf ★59 ⏳1Y](https://github.com/mazehall/eintopf) - Manage development projects with Docker.
 - [WhatsDesktop ★200](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
 - [Sqlectron ★1746](https://github.com/sqlectron/sqlectron-gui) - SQL client.
@@ -288,7 +288,7 @@ Made with Electron.
 - [electron-store ★576](https://github.com/sindresorhus/electron-store) - Save and load data like user preferences, app state, cache, etc.
 - [electron-context-menu ★344](https://github.com/sindresorhus/electron-context-menu) - Extensible context menu.
 - [electron-require ★14 ⏳1Y](https://github.com/brrd/electron-require) - Simplified require.
-- [NeDB ★7227](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
+- [NeDB ★7358](https://github.com/louischatriot/nedb) - Embedded persistent or in-memory database.
 - [electron-devtools-installer](https://github.com/GPMDP/electron-devtools-installer) - Install DevTools extensions from the Chrome Web Store.
 - [electron-log ★158](https://github.com/megahertz/electron-log) - Simple logging.
 - [electron-redux ★138](https://github.com/hardchor/electron-redux) - Synchronize Redux state across windows.
@@ -300,7 +300,7 @@ Made with Electron.
 - [electron-router ★22](https://github.com/m0n0l0c0/electron-router) - Router tidying up IPC message passing.
 - [electron-lets-move ★159](https://github.com/tommoor/electron-lets-move) - Automatically move your app to `/Applications` on macOS.
 - [electron-settings ★271](https://github.com/nathanbuchar/electron-settings) - Reads and writes user settings to disk.
-- [got ★2005](https://github.com/sindresorhus/got) - Simplified HTTP requests.
+- [got ★2089](https://github.com/sindresorhus/got) - Simplified HTTP requests.
 - [electron-unhandled ★73](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 - [electron-process-manager ★37](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux ★3](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
@@ -308,7 +308,7 @@ Made with Electron.
 
 ### Using Electron
 
-- [devtool ★3751](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
+- [devtool ★3750](https://github.com/Jam3/devtool) - Debug Node.js with Chrome DevTools.
 - [nativefier ★12171](https://github.com/jiahaog/nativefier) - Create an app of any website.
 - [electron-stream ★85](https://github.com/juliangruber/electron-stream) - Streaming wrapper.
 - [Nightmare](http://www.nightmarejs.org) - High-level browser automation library (alternative to PhantomJS).

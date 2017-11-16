@@ -7,7 +7,7 @@ title: Awesome Rank for angrykoala/awesome-esolangs
 	This list is a copy of <a href="https://github.com/angrykoala/awesome-esolangs">angrykoala/awesome-esolangs</a> with ranks
 </p>
 ---
-# Awesome Esolangs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Esolangs [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 <img src="logo_piet.png" align="right">
 

@@ -7,7 +7,7 @@ title: Awesome Rank for exAspArk/awesome-chatops
 	This list is a copy of <a href="https://github.com/exAspArk/awesome-chatops">exAspArk/awesome-chatops</a> with ranks
 </p>
 ---
-# Awesome ChatOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome ChatOps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A collection of awesome things about [ChatOps](https://www.pagerduty.com/blog/what-is-chatops/).
 
@@ -138,7 +138,7 @@ These open source projects will help you to build a bot in order to automate you
 
 * [Botkit ★7295](https://github.com/howdyai/botkit) (JavaScript, Node.js)
 * [FacebookMessenger](https://github.com/hyperoslo/facebook-messenger) (Ruby)
-* [Hubot](https://hubot.github.com/) + [adapter ★38](https://github.com/ClaudeBot/hubot-messenger-bot) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★38 ⏳1Y](https://github.com/ClaudeBot/hubot-messenger-bot) (CoffeeScript, Node.js)
 * [Lita](https://www.lita.io/) + [adapter ★0 ⏳1Y](https://github.com/ASoftCo/lita-facebook) (Ruby)
 * [opsdroid](https://opsdroid.github.io/) + [connector ★0](https://github.com/opsdroid/connector-facebook) (Python)
 

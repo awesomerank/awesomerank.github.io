@@ -7,7 +7,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 	This list is a copy of <a href="https://github.com/zhaopuming/awesome-d">zhaopuming/awesome-d</a> with ranks
 </p>
 ---
-# Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome D [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 =========
 
   A curated list of awesome D frameworks, libraries and software. Inspired by [awesome-python ★40545](https://github.com/vinta/awesome-python).
@@ -393,7 +393,7 @@ title: Awesome Rank for zhaopuming/awesome-d
 - [unit-threaded ★70](https://github.com/atilaneves/unit-threaded) - Multi-threaded unit test framework
 
 ## Other Awesome Lists
-Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness) projects.
+Other amazingly awesome lists can be found in the [awesome-awesome](https://github.com/emijrp/awesome-awesome) and  [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) projects.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/zhaopuming/awesome-d">zhaopuming/awesome-d</a> with ranks

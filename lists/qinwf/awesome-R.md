@@ -9,7 +9,7 @@ title: Awesome Rank for qinwf/awesome-R
 ---
 # Awesome R
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome R packages and tools. Inspired by [awesome-machine-learning ★27278](https://github.com/josephmisiti/awesome-machine-learning).
 
@@ -607,7 +607,7 @@ Where to discover new R-esources.
 
 # Other Awesome Lists
 
-* [awesome-awesomeness ★19811](https://github.com/bayandin/awesome-awesomeness)
+* [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness)
 * [lists ★4518](https://github.com/jnv/lists)
 * [awesome-rshiny ★82](https://github.com/grabear/awesome-rshiny)
 

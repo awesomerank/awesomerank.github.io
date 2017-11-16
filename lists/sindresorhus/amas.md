@@ -7,7 +7,7 @@ title: Awesome Rank for sindresorhus/amas
 	This list is a copy of <a href="https://github.com/sindresorhus/amas">sindresorhus/amas</a> with ranks
 </p>
 ---
-# Awesome & Marvelous Amas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome & Marvelous Amas [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > [AMA](https://en.wikipedia.org/wiki/Reddit#IAmA_and_AMA) → Ask Me Anything
 
@@ -63,7 +63,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Chris Missal ★1 ⏳2Y](https://github.com/chrismissal/ama) - Maker of Internet things in Austin, TX. A goofball, nerd, and OSS lover.
 - [Acho Arnold](https://github.com/najela/ama) - Full stack web developer with great passion in [Social Psychology](https://en.wikipedia.org/wiki/Social_psychology).
 - [Rob Furlong ★1 ⏳2Y](https://github.com/robbbz/ama) - Maker of cool things with the web, freelancer.
-- [Honza Bittner ★1](https://github.com/HoBi/ama) - Student at [FIT CTU](http://fit.cvut.cz/en), Sass and Angular 2 lover, INTJ.
+- [Honza Bittner ★1](https://github.com/tenhobi/ama) - Student at [FIT CTU](http://fit.cvut.cz/en), Dart lover.
 - [Jan Sanchez ★0 ⏳2Y](https://github.com/jansanchez/ama) - Front-end developer. Creator of css-url-versioner, open source contributor.
 - [Adrián Arroyo Calle](https://github.com/AdrianArroyoCalle/ama) - Currently a student in Spain doing any kind of development which uses C++, Rust, JavaScript and TypeScript.
 - [Richard Littauer ★1 ⏳2Y](https://github.com/RichardLitt/ama) - Full stack developer, linguist, and sometime digital nomad. Creating with the MIT Media Lab, wrote the Na'vi Dictionary, NodeSchool organizer, The User Is Drunk.

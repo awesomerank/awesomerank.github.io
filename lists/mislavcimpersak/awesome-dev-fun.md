@@ -7,7 +7,7 @@ title: Awesome Rank for mislavcimpersak/awesome-dev-fun
 	This list is a copy of <a href="https://github.com/mislavcimpersak/awesome-dev-fun">mislavcimpersak/awesome-dev-fun</a> with ranks
 </p>
 ---
-# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome Dev Fun [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > A curated list of fun libs/packages/languages that have no real purpose but to make a developer chuckle.
 

@@ -7,13 +7,13 @@ title: Awesome Rank for jwaterfaucett/awesome-foss-apps
 	This list is a copy of <a href="https://github.com/jwaterfaucett/awesome-foss-apps">jwaterfaucett/awesome-foss-apps</a> with ranks
 </p>
 ---
-# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+# Awesome FOSS apps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
 > A curated list of awesome production grade free and open source software organized by category.
 
 This list is for developers who are looking for non-trivial quality applications they can analyze and learn from.
 
-*Inspired by Sindre Sorhus's [awesome ★67308](https://github.com/sindresorhus/awesome).*
+*Inspired by Sindre Sorhus's [awesome ★69735](https://github.com/sindresorhus/awesome).*
 
 ## TOC
 
@@ -105,7 +105,7 @@ This list is for developers who are looking for non-trivial quality applications
 > Blender is 3D Graphic Software that can visually compete with Maya and 3DS Max. The end product is an amazing example of a cross-platform 3D Tooling piece of software. It is a very mature project having been in development since 1994. It has an embedded python scripting engine, a game logic engine and is loaded with implementations of 3d manipulation, rendering, and compositing algorithms.
 
 
-### [Atom ★40978](https://github.com/atom/atom)
+### [Atom ★41692](https://github.com/atom/atom)
 
 * coffeescript, electron, node
 * MIT License

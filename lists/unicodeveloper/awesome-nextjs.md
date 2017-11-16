@@ -7,7 +7,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 	This list is a copy of <a href="https://github.com/unicodeveloper/awesome-nextjs">unicodeveloper/awesome-nextjs</a> with ranks
 </p>
 ---
-# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
+# Awesome Next.js [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) ![](https://img.shields.io/badge/unicodeveloper-approved-brightgreen.svg)
 
 [<img src="https://rawgit.com/ooade/awesome-nextjs/master/nextjs-logo.svg" align="right" width="250"> ★18057](https://github.com/zeit/next.js)
 

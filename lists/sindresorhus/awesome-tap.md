@@ -7,7 +7,7 @@ title: Awesome Rank for sindresorhus/awesome-tap
 	This list is a copy of <a href="https://github.com/sindresorhus/awesome-tap">sindresorhus/awesome-tap</a> with ranks
 </p>
 ---
-# Awesome TAP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
+# Awesome TAP [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [<img src="https://testanything.org/images/tap.png" width="67" align="right">](https://testanything.org)
 
 
 > Useful resources for the [Test Anything Protocol](https://testanything.org)<br>
@@ -60,7 +60,7 @@ Things that produce TAP output.
 
 - [AVA](https://github.com/sindresorhus/ava) - Futuristic test runner. `$ ava --tap`
 - [tap](https://github.com/isaacs/node-tap) - TAP test framework for Node.js.
-- [tape ★4180](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
+- [tape ★4243](https://github.com/substack/tape) - TAP-producing test harness for Node.js and browsers.
 - [ESLint](http://eslint.org/docs/user-guide/formatters/#tap) - Pluggable JavaScript linter. `$ eslint --format=tap`
 - [Mocha](https://mochajs.org) - Feature-rich test framework for Node.js and browsers. `$ mocha reporter=tap`
 - [qunit-tap ★73](https://github.com/twada/qunit-tap) - TAP output for QUnit.

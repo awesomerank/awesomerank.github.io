@@ -7,9 +7,9 @@ title: Awesome Rank for lucasviola/awesome-functional-programming
 	This list is a copy of <a href="https://github.com/lucasviola/awesome-functional-programming">lucasviola/awesome-functional-programming</a> with ranks
 </p>
 ---
-## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★67308](https://github.com/sindresorhus/awesome)
+## Awesome Functional Programming [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
-Based on the [Awesome ★67308](https://github.com/sindresorhus/awesome) project
+Based on the [Awesome ★69735](https://github.com/sindresorhus/awesome) project
 
 ## What is this about?
 
