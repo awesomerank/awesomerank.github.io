@@ -57,7 +57,7 @@ Discover more awesome lists at [sindresorhus/awesome ★69735](https://github.co
     - [stack-honeypot ★17 ⏳3Y](https://github.com/CHH/stack-honeypot) - Inserts a trap for spam bots into responses.
     - [EoHoneypotBundle ★22](https://github.com/eymengunay/EoHoneypotBundle) - Honeypot type for Symfony2 forms.
     - [shockpot ★40 ⏳1Y](https://github.com/threatstream/shockpot) - WebApp Honeypot for detecting Shell Shock exploit attempts.
-    - [django-admin-honeypot ★400](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
+    - [django-admin-honeypot ★404](https://github.com/dmpayton/django-admin-honeypot) - A fake Django admin login screen to notify admins of attempted unauthorized access. 
     - WordPress honeypots
         - [HonnyPotter ★19 ⏳1Y](https://github.com/MartinIngesen/HonnyPotter) - A WordPress login honeypot for collection and analysis of failed login attempts.
         - [HoneyPress ★52 ⏳1Y](https://github.com/dustyfresh/HoneyPress) - python based WordPress honeypot in a docker container.

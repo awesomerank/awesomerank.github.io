@@ -98,9 +98,9 @@ on the relationship between math and Algebraic Data Types, which is the Type Sys
 - [Isabelle/HOL](https://www.cl.cam.ac.uk/research/hvg/Isabelle/) - Generic proof assistant based on Higher Order Logic	
 
 ### Repos
-- [Idris Koans ★118 ⏳2Y](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
+- [Idris Koans ★126 ⏳2Y](https://github.com/idris-hackers/idris-koans) - Project for teaching Idris. A General Purpose Functional Programming with Dependent Types
 - [Functional Javascript Workshop ★1547](https://github.com/timoxley/functional-javascript-workshop) - A functional Javascript workshop.
-- [J-Bob ★248 ⏳1Y](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
+- [J-Bob ★252 ⏳1Y](https://github.com/the-little-prover/j-bob) - The proof assistant from the book `The Little Prover`
 - [Haskell Must Watch](https://github.com/olehkuchuk/haskell-must-watch) - A list of videos, talks and courses on Haskell.
 - [Intro SML](http://www.it.dtu.dk/introSML/) - Code, corrections and info on the book: `Introduction to Programming using SML`
 - [Functional Programming In JavaScript ★216](https://github.com/busypeoples/functional-programming-javascript) - List of functional programming resources in JavaScript.

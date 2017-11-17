@@ -141,7 +141,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [OpenAPS](https://openaps.org/) - The Open Artificial Pancreas System project is an open and transparent effort to make safe and effective basic Artificial Pancreas System.
 
 ### Bioinformatics
-  * [ADAM ★663](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
+  * [ADAM ★672](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
   * [Bcbio ★490](https://github.com/chapmanb/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
   * [Wregex](http://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.

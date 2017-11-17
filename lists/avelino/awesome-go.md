@@ -280,7 +280,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Databases implemented in Go.*
 
-* [badger ★2535](https://github.com/dgraph-io/badger) - Fast key-value store in Go.
+* [badger ★2686](https://github.com/dgraph-io/badger) - Fast key-value store in Go.
 * [BigCache ★1241](https://github.com/allegro/bigcache) - Efficient key/value cache for gigabytes of data.
 * [bolt ★7202](https://github.com/boltdb/bolt) - Low-level key/value database for Go.
 * [buntdb ★1603](https://github.com/tidwall/buntdb) - Fast, embeddable, in-memory key/value database for Go with custom indexing and spatial support.
@@ -402,7 +402,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [carbon ★143](https://github.com/uniplaces/carbon) - Simple Time extension with a lot of util methods, ported from PHP Carbon library.
 * [date ★5](https://github.com/rickb777/date) - Augments Time for working with dates, date ranges, time spans, periods, and time-of-day.
-* [dateparse ★51](https://github.com/araddon/dateparse) - Parse date's without knowing format in advance.
+* [dateparse ★58](https://github.com/araddon/dateparse) - Parse date's without knowing format in advance.
 * [durafmt ★165](https://github.com/hako/durafmt) - Time duration formatting library for Go.
 * [feiertage ★6](https://github.com/wlbr/feiertage) - Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving...
 * [go-persian-calendar ★28](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
@@ -410,7 +410,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [now ★1006](https://github.com/jinzhu/now) - Now is a time toolkit for golang.
 * [NullTime ★3](https://github.com/kirillDanshin/nulltime) - Nullable `time.Time`.
 * [timeutil ★139 ⏳2Y](https://github.com/leekchan/timeutil) - Useful extensions (Timedelta, Strftime, ...) to the golang's time package.
-* [tuesday ★1](https://github.com/osteele/tuesday) - Ruby-compatible Strftime function.
+* [tuesday ★2](https://github.com/osteele/tuesday) - Ruby-compatible Strftime function.
 
 ## Distributed Systems
 
@@ -419,6 +419,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [celeriac ★26](https://github.com/svcavallar/celeriac.v1) - Library for adding support for interacting and monitoring Celery workers, tasks and events in Go.
 * [digota ★147](https://github.com/digota/digota) - grpc ecommerce microservice.
 * [drmaa ★19](https://github.com/dgruber/drmaa) - Job submission library for cluster schedulers based on the DRMAA standard.
+* [emitter-io ★156](https://github.com/emitter-io/emitter) - High performance, distributed, secure and low latency publish-subscribe platform built with MQTT, Websockets and love.
 * [flowgraph ★32](https://github.com/vectaport/flowgraph) - MPI-style ready-send coordination layer.
 * [gleam ★945](https://github.com/chrislusf/gleam) - Fast and scalable distributed map/reduce system written in pure Go and Luajit, combining Go's high concurrency with Luajit's high performance, runs standalone or distributed.
 * [glow ★1789](https://github.com/chrislusf/glow) - Easy-to-Use scalable distributed big data processing, Map-Reduce, DAG execution, all in pure Go.
@@ -528,7 +529,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [goworld ★369](https://github.com/xiaonanln/goworld) - Scalable game server engine, featuring space-entity framework and hot-swapping
 * [Leaf ★1629](https://github.com/name5566/leaf) - Lightweight game server framework.
 * [nano ★299](https://github.com/lonnng/nano) - Lightweight, facility, high performance golang based game server framework
-* [Oak ★386](https://github.com/oakmound/oak) - Pure Go game engine.
+* [Oak ★406](https://github.com/oakmound/oak) - Pure Go game engine.
 * [Pixel ★766](https://github.com/faiface/pixel) - Hand-crafted 2D game library in Go.
 * [raylib-go ★175](https://github.com/gen2brain/raylib-go) - Go bindings for [raylib](http://www.raylib.com/), a simple and easy-to-use library to learn videogames programming.
 * [termloop ★802](https://github.com/JoelOtter/termloop) - Terminal-based game engine for Go, built on top of Termbox.
@@ -567,7 +568,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [semaphore ★13](https://github.com/kamilsk/semaphore) - Semaphore pattern implementation with timeout of lock/unlock operations based on channel and context.
 * [tunny ★617](https://github.com/Jeffail/tunny) - Goroutine pool for golang.
 * [worker-pool ★5](https://github.com/vardius/worker-pool) - goworker is a Go simple async worker pool.
-* [workerpool ★3](https://github.com/gammazero/workerpool) - Goroutine pool that limits the concurrency of task execution, not the number of tasks queued.
+* [workerpool ★5](https://github.com/gammazero/workerpool) - Goroutine pool that limits the concurrency of task execution, not the number of tasks queued.
 
 ## GUI
 
@@ -722,7 +723,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [dbus ★181](https://github.com/godbus/dbus) - Native Go bindings for D-Bus.
 * [drone-line ★41](https://github.com/appleboy/drone-line) - Sending [Line](https://business.line.me/en/services/bot) notifications using a binary, docker or Drone CI.
 * [emitter ★158](https://github.com/olebedev/emitter) - Emits events using Go way, with wildcard, predicates, cancellation possibilities and many other good wins.
-* [event ★3](https://github.com/agoalofalife/event) - Implementation of the pattern observer.
+* [event ★4](https://github.com/agoalofalife/event) - Implementation of the pattern observer.
 * [EventBus ★301](https://github.com/asaskevich/EventBus) - The lightweight event bus with async compatibility.
 * [gaurun-client ★4](https://github.com/osamingo/gaurun-client) - Gaurun Client written in Go.
 * [Glue ★245](https://github.com/desertbit/glue) - Robust Go and Javascript Socket Library (Alternative to Socket.io).
@@ -814,6 +815,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [gojieba](https://github.com/yanyiwu/gojieba) - This is a Go implementation of [jieba ★10645](https://github.com/fxsjy/jieba) which a Chinese word splitting algorithm.
 * [golibstemmer ★12 ⏳3Y](https://github.com/rjohnsondev/golibstemmer) - Go bindings for the snowball libstemmer library including porter 2.
 * [gounidecode ★55 ⏳2Y](https://github.com/fiam/gounidecode) - Unicode transliterator (also known as unidecode) for Go.
+* [gse ★77](https://github.com/go-ego/gse) - Go efficient text segmentation; support english, chinese, japanese and other.
 * [icu ★14](https://github.com/goodsign/icu) - Cgo binding for icu4c C library detection and conversion functions. Guaranteed compatibility with version 50.1.
 * [libtextcat ★8 ⏳4Y](https://github.com/goodsign/libtextcat) - Cgo binding for libtextcat C library. Guaranteed compatibility with version 2.2.
 * [MMSEGO ★53 ⏳5Y](https://github.com/awsong/MMSEGO) - This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm.
@@ -879,7 +881,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [water ★327](https://github.com/songgao/water) - Simple TUN/TAP library.
 * [winrm ★134](https://github.com/masterzen/winrm) - Go WinRM client to remotely execute commands on Windows machines.
 * [xtcp ★23](https://github.com/xfxdev/xtcp) - TCP Server Framework with simultaneous full duplex communication,graceful shutdown,custom protocol.
-* [YANNFF ★163](https://github.com/intel-go/yanff) - Framework for rapid development of performant network functions for cloud and bare-metal.
+* [YANNFF ★186](https://github.com/intel-go/yanff) - Framework for rapid development of performant network functions for cloud and bare-metal.
 
 ## OpenGL
 
@@ -971,7 +973,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [gonum/mat64 ★463](https://github.com/gonum/matrix) - The general purpose package for matrix computation. Package mat64 provides basic linear algebra operations for float64 matrices.
 * [gonum/plot ★638](https://github.com/gonum/plot) - gonum/plot provides an API for building and drawing plots in Go.
 * [goraph ★415](https://github.com/gyuho/goraph) - Pure Go graph theory library(data structure, algorith visualization).
-* [gosl ★926](https://github.com/cpmech/gosl) - Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more.
+* [gosl ★947](https://github.com/cpmech/gosl) - Go scientific library for linear algebra, FFT, geometry, NURBS, numerical methods, probabilities, optimisation, differential equations, and more.
 * [gostat ★18](https://github.com/ematvey/gostat) - Statistics library for the go language.
 * [graph ★18](https://github.com/yourbasic/graph) - Library of basic graph algorithms.
 * [ode ★2](https://github.com/ChristopherRabotin/ode) - Ordinary differential equation (ODE) solver which supports extended states and channel-based iteration stop conditions.
@@ -1003,7 +1005,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [asn1](https://github.com/PromonLogicalis/asn1) - Asn.1 BER and DER encoding library for golang.
 * [bambam ★57 ⏳1Y](https://github.com/glycerine/bambam) - generator for Cap'n Proto schemas from go.
-* [colfer ★276](https://github.com/pascaldekloe/colfer) - Code generation for the Colfer binary format.
+* [colfer ★290](https://github.com/pascaldekloe/colfer) - Code generation for the Colfer binary format.
 * [go-capnproto ★254](https://github.com/glycerine/go-capnproto) - Cap'n Proto library and parser for go.
 * [go-codec ★839](https://github.com/ugorji/go) - High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support.
 * [gogoprotobuf ★1241](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets.
@@ -1021,7 +1023,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [devd ★2437](https://github.com/cortesi/devd) - Local webserver for developers.
 * [etcd ★15387](https://github.com/coreos/etcd) - Highly-available key value store for shared configuration and service discovery.
 * [Fider ★146](https://github.com/getfider/fider) - Fider is an open platform to collect and organize customer feedback.
-* [minio ★8721](https://github.com/minio/minio) - Minio is a distributed object storage server.
+* [minio ★9051](https://github.com/minio/minio) - Minio is a distributed object storage server.
 * [nsq](http://nsq.io/) - A realtime distributed messaging platform.
 * [yakvs ★21](https://github.com/sci4me/yakvs) - Small, networked, in-memory key-value store.
 
@@ -1057,7 +1059,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
     * [badio ★3 ⏳1Y](https://github.com/cavaliercoder/badio) - Extensions to Go's `testing/iotest` package.
     * [baloo ★424](https://github.com/h2non/baloo) - Expressive and versatile end-to-end HTTP API testing made easy.
     * [bro ★16 ⏳1Y](https://github.com/marioidival/bro) - Watch files in directory and run tests for them.
-    * [cupaloy ★10](https://github.com/bradleyjkemp/cupaloy) - Simple snapshot testing addon for your test framework.
+    * [cupaloy ★11](https://github.com/bradleyjkemp/cupaloy) - Simple snapshot testing addon for your test framework.
     * [dbcleaner ★23](https://github.com/khaiql/dbcleaner) - Clean database for testing purpose, inspired by `database_cleaner` in Ruby.
     * [dsunit ★4](https://github.com/viant/dsunit) - Datastore testing for SQL, NoSQL, structured files.
     * [frisby ★208](https://github.com/verdverm/frisby) - REST API testing framework.
@@ -1154,7 +1156,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [amazon-product-advertising-api ★20](https://github.com/ngs/go-amazon-product-advertising-api) - Go Client Library for [Amazon Product Advertising API](https://affiliate-program.amazon.com/gp/advertising/api/detail/main.html).
 * [anaconda ★789](https://github.com/ChimeraCoder/anaconda) - Go client library for the Twitter 1.1 API.
-* [aws-sdk-go ★3477](https://github.com/aws/aws-sdk-go) - The official AWS SDK for the Go programming language.
+* [aws-sdk-go ★3541](https://github.com/aws/aws-sdk-go) - The official AWS SDK for the Go programming language.
 * [brewerydb ★11 ⏳2Y](https://github.com/naegelejd/brewerydb) - Go library for accessing the BreweryDB API.
 * [cachet ★38](https://github.com/andygrunwald/cachet) - Go client library for [Cachet (open source status page system)](https://cachethq.io/).
 * [circleci ★15](https://github.com/jszwedko/go-circleci) - Go client library for interacting with CircleCI's API.
@@ -1239,7 +1241,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [Deepcopier ★123](https://github.com/ulule/deepcopier) - Simple struct copying for Go.
 * [delve ★6634](https://github.com/derekparker/delve) - Go debugger.
 * [dlog ★8](https://github.com/kirillDanshin/dlog) - Compile-time controlled logger to make your release smaller without removing debug calls.
-* [ergo ★93](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
+* [ergo ★112](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
 * [evaluator ★5](https://github.com/nullne/evaluator) - Evaluate an expression dynamicly based on s-expression. It's simple and easy to extend.
 * [excelize ★1550](https://github.com/360EntSecGroup-Skylar/excelize) - Golang library for reading and writing Microsoft Excel™ (XLSX) files.
 * [fastlz ★6 ⏳2Y](https://github.com/digitalcrab/fastlz) - Wrap over [FastLz](http://fastlz.org/) (free, open-source, portable real-time compression library) for GoLang.
@@ -1278,7 +1280,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [goreq ★623](https://github.com/franela/goreq) - Minimal and simple request library for Go language.
 * [goreq ★52 ⏳1Y](https://github.com/smallnest/goreq) - Enhanced simplified HTTP client based on gorequest.
 * [gorequest ★1396](https://github.com/parnurzeal/gorequest) - Simplified HTTP client with rich features for Go.
-* [goseaweedfs ★3](https://github.com/linxGnu/goseaweedfs) - SeaweedFS client library with almost full features.
+* [goseaweedfs ★4](https://github.com/linxGnu/goseaweedfs) - SeaweedFS client library with almost full features.
 * [gotenv ★70](https://github.com/subosito/gotenv) - Load environment variables from `.env` or any `io.Reader` in Go.
 * [goxlsxwriter ★7](https://github.com/fterrag/goxlsxwriter) - Golang bindings for libxlsxwriter for writing XLSX (Microsoft Excel) files.
 * [gpath ★19](https://github.com/tenntenn/gpath) - Library to simplify access struct fields with Go's expression in reflection.
@@ -1297,7 +1299,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [jsonhal ★6](https://github.com/RichardKnop/jsonhal) - Simple Go package to make custom structs marshal into HAL compatible JSON responses.
 * [kazaam ★54](https://github.com/Qntfy/kazaam) - API for arbitrary transformation of JSON documents.
 * [lrserver ★86](https://github.com/jaschaephraim/lrserver) - LiveReload server for Go.
-* [mc ★580](https://github.com/minio/mc) - Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems.
+* [mc ★593](https://github.com/minio/mc) - Minio Client provides minimal tools to work with Amazon S3 compatible cloud storage and filesystems.
 * [mergo ★348](https://github.com/imdario/mergo) - Helper to merge structs and maps in Golang. Useful for configuration default values, avoiding messy if-statements.
 * [minify ★1081](https://github.com/tdewolff/minify) - Fast minifiers for HTML, CSS, JS, XML, JSON and SVG file formats.
 * [mmake ★1286](https://github.com/tj/mmake) - Modern Make.
@@ -1577,7 +1579,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [Packer](https://github.com/mitchellh/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 * [Pewpew ★124](https://github.com/bengadbois/pewpew) - Flexible HTTP command line stress tester.
 * [Rodent ★31](https://github.com/alouche/rodent) - Rodent helps you manage Go versions, projects and track dependencies.
-* [s3gof3r ★849](https://github.com/rlmcpherson/s3gof3r) - Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3.
+* [s3gof3r ★866](https://github.com/rlmcpherson/s3gof3r) - Small utility/library optimized for high speed transfer of large objects into and out of Amazon S3.
 * [Scaleway-cli ★361](https://github.com/scaleway/scaleway-cli) - Manage BareMetal Servers from Command Line (as easily as with Docker).
 * [sg ★1 ⏳1Y](https://github.com/ChristopherRabotin/sg) - Benchmarks a set of HTTP endpoints (like ab), with possibility to use the reponse code and data between each call for specific server stress based on its previous response.
 * [skm ★140](https://github.com/TimothyYe/skm) - SKM is a simple and powerful SSH Keys Manager, it helps you to manage your multiple SSH keys easily!
@@ -1591,7 +1593,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [borg](https://github.com/crufter/borg) - Terminal based search engine for bash snippets.
 * [boxed ★63 ⏳1Y](https://github.com/tejo/boxed) - Dropbox based blog engine.
 * [Cherry ★137](https://github.com/rafael-santiago/cherry) - Tiny webchat server in Go.
-* [Circuit ★1583](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
+* [Circuit ★1583 ⏳1Y](https://github.com/gocircuit/circuit) - Circuit is a programmable platform-as-a-service (PaaS) and/or Infrastructure-as-a-Service (IaaS), for management, discovery, synchronization and orchestration of services and hosts comprising cloud applications.
 * [Comcast ★5042](https://github.com/tylertreat/Comcast) - Simulate bad network connections.
 * [confd ★4297](https://github.com/kelseyhightower/confd) - Manage local application configuration files using templates and data from etcd or consul.
 * [DDNS ★31](https://github.com/skibish/ddns) - Personal DDNS client with Digital Ocean Networking DNS as backend.

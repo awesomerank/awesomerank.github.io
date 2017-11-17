@@ -96,7 +96,7 @@ Curated list of boilerplates and templates to enhance productivity.
     - [Polymer Seed Element ★290](https://github.com/PolymerElements/seed-element) An element providing a starting point for your own reusable Polymer elements.
     - [Yeoman Polymer Generator ★983](https://github.com/yeoman/generator-polymer) Yeoman's polymer Generator
 - [Electron](#electron)
-    - [Electron Boilerplate ★519](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
+    - [Electron Boilerplate ★533](https://github.com/sindresorhus/electron-boilerplate) Boilerplate for electron-node
     - [WhiteStormJS - React/Redux - three.js - TypeScript boilerplate ★264](https://github.com/WhitestormJS/whitestorm-typescript-boilerplate) A starter kit for crafting 3D applications using modern technologies
 
 ## Hybrid Mobile App Frameworks
@@ -107,13 +107,13 @@ Curated list of boilerplates and templates to enhance productivity.
 ## Python
 
 *Boilerplates and templates for Python*
-- [Django Hackathon Starter ★1113](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
+- [Django Hackathon Starter ★1137](https://github.com/DrkSephy/django-hackathon-starter) A boilerplate for Django web applications, providing various social logins and several popular API examples.
 - [CookieCutter ★5902](https://github.com/audreyr/cookiecutter#python) List of various python templates by Audrey.
 - [bootstrapy ★274 ⏳4Y](https://github.com/kirang89/bootstrapy) A bootstrap Python application, so that you can focus on writing code.
-- [Fbone ★1441](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
+- [Fbone ★1451](https://github.com/imwilsonxu/fbone) Fbone (Flask bone) is a Flask (Python microframework) template/bootstrap/boilerplate application.
 - [Flask-Bootstrap ★164](https://github.com/esbullington/flask-bootstrap) A Flask app template with integrated SQLAlchemy, authentication, and Bootstrap frontend.
 - [Flask Boilerplate ★5 ⏳2Y](https://github.com/melvin0008/FlaskBoilerplate) A very simple flask boilerplate with folder structures.
-- [Flask Foundation ★1071](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
+- [Flask Foundation ★1079](https://github.com/JackStouffer/Flask-Foundation) App built with best practices.
 - [GoogleAppEngine Webapp2 Boilerplate ★709 ⏳1Y](https://github.com/coto/gae-boilerplate) A Complete boilerplate for Python Webapp2 on Google App Engine
 - [Flask Appengine Template ★1018](https://github.com/kamalgill/flask-appengine-template) Flask App engine Template
 - [Django Starter Template ★76](https://github.com/fasouto/django-starter-template) An easy to use project template for Django that follows best practices.

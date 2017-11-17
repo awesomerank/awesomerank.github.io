@@ -66,7 +66,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [plottablejs](http://plottablejs.org/) - Flexible, interactive charts for the web
 - [pykcharts](https://pykih.com/products/pykCharts) - Themeable, responsive, modular, real-time charts and 109+ maps
 - [radar chart ★306](https://github.com/alangrafu/radar-chart-d3) - Radar chart module
-- [rickshaw ★6118](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
+- [rickshaw ★6146](https://github.com/shutterstock/rickshaw) - Toolkit for creating interactive real-time graphs
 - [sankey](https://github.com/d3/d3-plugins/tree/master/sankey) - Plugin to create Sankey Diagrams
 - [taucharts](https://www.taucharts.com/) - Charts with a focus on design and flexibility
 - [techanjs](http://techanjs.org/) - A visual, stock charting and technical analysis
@@ -112,7 +112,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 geo projection ★568](https://github.com/d3/d3-geo-projection) - Extended geographic projections
 - [d3 geomap](http://d3-geomap.github.io/) - Library for creating geographic maps
 - [d3.geo2rect ★148](https://github.com/sebastian-meier/d3.geo2rect) - Morphing geojson polygons into rectangles
-- [earthjs.js ★34](https://github.com/earthjs/earthjs) - Easy building orthographic globe, using D3v4 with SVG, Canvas & WebGL(Threejs) 
+- [earthjs.js ★39](https://github.com/earthjs/earthjs) - Easy building orthographic globe, using D3v4 with SVG, Canvas & WebGL(Threejs) 
 - [mapmap.js ★80 ⏳1Y](https://github.com/floledermann/mapmap.js) - A data-driven API for interactive thematic maps
 - [mapsense.js ★82 ⏳2Y](https://github.com/mapsense/mapsense.js) - Full resolution vector maps with D3
 - [maptable ★48](https://github.com/Packet-Clearing-House/maptable) - Convert any dataset to a customizable set of visual components (Map, Filters, Table)
@@ -172,7 +172,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [comic.js ★111 ⏳1Y](https://github.com/balint42/comic.js) - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
 - [dragit ★152 ⏳1Y](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics
 - [d3moji ★99](https://github.com/mathisonian/d3moji) - First class emoji support
-- [d3-cloud ★2241](https://github.com/jasondavies/d3-cloud) - Word clouds
+- [d3-cloud ★2289](https://github.com/jasondavies/d3-cloud) - Word clouds
 - [d3-context-menu ★63](https://github.com/patorjk/d3-context-menu) - Helper to create context-menus
 - [d3-force-gravity ★17 ⏳1Y](https://github.com/sohamkamani/d3-force-gravity) - Implement gravitational attraction (or force-field-like repulsion) using d3-force
 - [d3-resume ★24 ⏳2Y](https://github.com/glena/d3-resume) - Resume visualizer

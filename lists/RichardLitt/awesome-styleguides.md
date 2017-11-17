@@ -114,7 +114,7 @@ If you have used any of these styleguides, please add a comment if you can! The 
 * [Google](https://google.github.io/styleguide/jsguide.html)
 * [hapi](http://hapijs.com/styleguide)
 * [Joyent](https://www.joyent.com/developers/node/design)
-* [jscs ★5156](https://github.com/jscs-dev/node-jscs)
+* [jscs ★5161](https://github.com/jscs-dev/node-jscs)
 * [Khan](https://github.com/Khan/style-guides/blob/master/style/javascript.md)
 * [Mozilla/pdf.js](https://github.com/mozilla/pdf.js/wiki/Style-Guide)
 * [rsjs ★119](https://github.com/rstacruz/rsjs) _Reasonable Standard for JavaScript Structure_

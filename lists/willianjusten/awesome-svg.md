@@ -57,7 +57,7 @@ Your contributions are always welcome! [Click Here to read the guidelines](https
 ## Other Awesome Lists
 
 * [Awesome ★69735](https://github.com/sindresorhus/awesome)
-* [Awesome-awesome ★921](https://github.com/emijrp/awesome-awesome)
+* [Awesome-awesome ★947](https://github.com/emijrp/awesome-awesome)
 * [Awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness)
 
 ## License

@@ -40,8 +40,8 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [Nginx Configuration Primer](http://blog.martinfjordvald.com/2010/07/nginx-primer/)
 - [Nginx Primer 2: From Apache to Nginx](http://blog.martinfjordvald.com/2011/02/nginx-primer-2-from-apache-to-nginx/)
 - [Understanding the Nginx Configuration Inheritance Model](http://blog.martinfjordvald.com/2012/08/understanding-the-nginx-configuration-inheritance-model/)
-- [Nginx HTTP server boilerplate configs ★6229](https://github.com/h5bp/server-configs-nginx)
-- [Nginx Boilerplate - Configuration template and a set of handy must-have snippets ★2171](https://github.com/nginx-boilerplate/nginx-boilerplate)
+- [Nginx HTTP server boilerplate configs ★6330](https://github.com/h5bp/server-configs-nginx)
+- [Nginx Boilerplate - Configuration template and a set of handy must-have snippets ★2184](https://github.com/nginx-boilerplate/nginx-boilerplate)
 - [Cranking Nginx to 11](https://speakerdeck.com/helgi/cranking-nginx-to-11)
 - [Nginx and PHP, match made in heaven](https://speakerdeck.com/helgi/nginx-and-php-match-made-in-heaven)
 - [How to Configure OCSP Stapling in Apache and Nginx](https://sslmate.com/blog/post/ocsp_stapling_in_apache_and_nginx)
@@ -49,7 +49,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 ## Tutorials
 
 - [NGINX and NGINX Plus Admin Guide](https://www.nginx.com/resources/admin-guide/)
-- [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source ★1822 ⏳1Y](https://github.com/openresty/nginx-tutorials))
+- [agentzh's Nginx Tutorials](https://openresty.org/download/agentzh-nginx-tutorials-en.html) ([Source ★1845 ⏳1Y](https://github.com/openresty/nginx-tutorials))
 - [Introduction to nginx.conf scripting](http://agentzh.org/misc/slides/nginx-conf-scripting/nginx-conf-scripting.html)
 - [Load Balancing with NGINX and NGINX Plus](https://www.nginx.com/blog/load-balancing-with-nginx-plus/) ([Part 2](https://www.nginx.com/blog/load-balancing-with-nginx-plus-part2/))
 - [Optimizing Nginx for High Traffic Loads](http://blog.martinfjordvald.com/2011/04/optimizing-nginx-for-high-traffic-loads/)
@@ -122,7 +122,7 @@ This list is maintained by [Frederic Cambus](https://www.cambus.net). For update
 - [An Introduction To OpenResty](http://openmymind.net/An-Introduction-To-OpenResty-Nginx-Lua/)
 - [Developing OpenResty Framework using decoupled libraries](http://www.iresty.com/download/ebook/2015_con/aapo.pdf) ([Video](https://www.youtube.com/watch?v=VqBt5icKCI8))
 - [Programming OpenResty (written by the OpenResty creator)](https://www.gitbook.com/book/openresty/programming-openresty/details)
-- [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards ★3613](https://github.com/alexazhou/VeryNginx)
+- [VeryNginx - Nginx distribution which provides WAF, Control Panel, and Dashboards ★3679](https://github.com/alexazhou/VeryNginx)
 
 - [OpenResty Con 2015](http://www.iresty.com)
 

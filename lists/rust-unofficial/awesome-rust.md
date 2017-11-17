@@ -90,7 +90,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * [imjacobclark/Herd ★70 ⏳1Y](https://github.com/imjacobclark/Herd) — an experimental HTTP load testing application
 * [intecture/api ★13](https://github.com/intecture/api) — an API-driven server management and configuration tool [<img src="https://api.travis-ci.org/intecture/api.svg?branch=master">](https://travis-ci.org/intecture/api)
 * [jedisct1/flowgger ★270](https://github.com/jedisct1/flowgger) — a fast, simple and lightweight data collector
-* [jwilm/alacritty ★7270](https://github.com/jwilm/alacritty) — a cross-platform, GPU enhanced terminal emulator
+* [jwilm/alacritty ★7751](https://github.com/jwilm/alacritty) — a cross-platform, GPU enhanced terminal emulator
 * [kbknapp/docli ★26 ⏳1Y](https://github.com/kbknapp/docli-rs) — a command line utility for managing DigitalOcean infrastructure [<img src="https://api.travis-ci.org/kbknapp/docli-rs.svg?branch=master">](https://travis-ci.org/kbknapp/docli-rs)
 * [MaidSafe](https://maidsafe.net) — a decentralized platform.
 * [notty ★1559](https://github.com/withoutboats/notty) — A new kind of terminal
@@ -148,7 +148,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [Aaronepower/tokei ★478](https://github.com/Aaronepower/tokei) — counts the lines of code [<img src="https://img.shields.io/travis/Aaronepower/tokei.svg">](https://travis-ci.org/Aaronepower/tokei)
   * [buster/rrun ★57](https://github.com/buster/rrun) — a command launcher for Linux, similar to gmrun  [<img src="https://api.travis-ci.org/buster/rrun.svg?branch=master">](https://travis-ci.org/buster/rrun)
   * [cristianoliveira/funzzy ★55](https://github.com/cristianoliveira/funzzy) — a configurable filesystem watcher inspired by [entr](http://entrproject.org/) [<img src="https://api.travis-ci.org/cristianoliveira/funzzy.svg?branch=master">](https://travis-ci.org/cristianoliveira/funzzy)
-  * [k0pernicus/zou ★13](https://github.com/k0pernicus/zou) — a download accelerator [<img src="https://api.travis-ci.org/k0pernicus/zou.svg?branch=master">](https://travis-ci.org/k0pernicus/zou)
+  * [k0pernicus/zou ★24](https://github.com/k0pernicus/zou) — a download accelerator [<img src="https://api.travis-ci.org/k0pernicus/zou.svg?branch=master">](https://travis-ci.org/k0pernicus/zou)
   * [lotabout/skim ★295](https://github.com/lotabout/skim) — A fuzzy finder in pure rust [<img src="https://api.travis-ci.org/lotabout/skim.svg?branch=master">](https://travis-ci.org/lotabout/skim)
   * [mmstick/parallel ★829](https://github.com/mmstick/parallel) — a command-line CPU load balancer
   * [mmstick/systemd-manager ★386](https://github.com/mmstick/systemd-manager) — a systemd service manager written in Rust using GTK-rs.
@@ -169,7 +169,7 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
   * [yaa110/rubigo ★31](https://github.com/yaa110/rubigo) — Golang dependency tool and package manager, written in Rust [<img src="https://api.travis-ci.org/yaa110/rubigo.svg?branch=master">](https://travis-ci.org/yaa110/rubigo)
   * [amar-laksh/workstation ★1](https://github.com/amar-laksh/workstation) - A commandline tool to help you manage your workstation by distancing you from your screen, locking your screen when you aren't there among other things with OPENCV!
 * **Virtualization**
-  * [tailhook/vagga ★1301](https://github.com/tailhook/vagga) — a containerization tool without daemons [<img src="https://api.travis-ci.org/tailhook/vagga.svg?branch=master">](https://travis-ci.org/tailhook/vagga)
+  * [tailhook/vagga ★1323](https://github.com/tailhook/vagga) — a containerization tool without daemons [<img src="https://api.travis-ci.org/tailhook/vagga.svg?branch=master">](https://travis-ci.org/tailhook/vagga)
 * **Window Managers**
   * [way-cooler/way-cooler ★1125](https://github.com/way-cooler/way-cooler) — a customizable Wayland compositor (window manager) [<img src="https://api.travis-ci.org/way-cooler/way-cooler.svg?branch=master">](https://travis-ci.org/way-cooler/way-cooler)
 * **Web**
@@ -232,9 +232,9 @@ See also [Friends of Rust](https://www.rust-lang.org/friends.html) (organization
 * Docker
   * [emk/rust-musl-builder ★220](https://github.com/emk/rust-musl-builder) — Docker images for compiling static Rust binaries using musl-libc and musl-gcc, with static versions of useful C libraries
   * [kpcyrd/mini-docker-rust ★53](https://github.com/kpcyrd/mini-docker-rust) — An example project for very small rust docker images [<img src="https://api.travis-ci.org/kpcyrd/mini-docker-rust.svg?branch=master">](https://travis-ci.org/kpcyrd/mini-docker-rust)
-  * [liuchong/docker-rustup ★11](https://github.com/liuchong/docker-rustup) — a multiple version (with musl tools) Rust Docker image
+  * [liuchong/docker-rustup ★12](https://github.com/liuchong/docker-rustup) — a multiple version (with musl tools) Rust Docker image
   * [messense/rust-musl-cross ★13](https://github.com/messense/rust-musl-cross) - Docker images for compiling static Rust binaries using musl-cross [<img src="https://api.travis-ci.org/messense/rust-musl-cross.svg?branch=master">](https://travis-ci.org/messense/rust-musl-cross)
-  * [rust-lang-nursery/docker-rust ★18](https://github.com/rust-lang-nursery/docker-rust) — the official Rust Docker image
+  * [rust-lang-nursery/docker-rust ★20](https://github.com/rust-lang-nursery/docker-rust) — the official Rust Docker image
 * Google App Engine
   * [DenisKolodin/rust-app-engine ★15 ⏳1Y](https://github.com/DenisKolodin/rust-app-engine) — App Engine Rust boilerplate
 * Heroku
@@ -419,9 +419,9 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
 ### Cloud
 
 * AWS [[aws](https://crates.io/keywords/aws)]
-  * [rusoto/rusoto ★437](https://github.com/rusoto/rusoto) — [<img src="https://api.travis-ci.org/rusoto/rusoto.svg?branch=master">](https://travis-ci.org/rusoto/rusoto)
+  * [rusoto/rusoto ★446](https://github.com/rusoto/rusoto) — [<img src="https://api.travis-ci.org/rusoto/rusoto.svg?branch=master">](https://travis-ci.org/rusoto/rusoto)
 * DigitalOcean
-  * [kbknapp/doapi ★19](https://github.com/kbknapp/doapi-rs) — DigitalOcean v2 API bindings [<img src="https://api.travis-ci.org/kbknapp/doapi-rs.svg?branch=master">](https://travis-ci.org/kbknapp/doapi-rs)
+  * [kbknapp/doapi ★19 ⏳1Y](https://github.com/kbknapp/doapi-rs) — DigitalOcean v2 API bindings [<img src="https://api.travis-ci.org/kbknapp/doapi-rs.svg?branch=master">](https://travis-ci.org/kbknapp/doapi-rs)
 
 
 ### Command-line argument parsing
@@ -756,7 +756,7 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [sciter-sdk/rust-sciter ★108](https://github.com/sciter-sdk/rust-sciter) — Sciter bindings [<img src="https://ci.appveyor.com/api/projects/status/github/sciter-sdk/rust-sciter?svg=true">](https://ci.appveyor.com/project/sciter-sdk/rust-sciter)
 * [Termbox ★1135](https://github.com/nsf/termbox)
   * [gchp/rustbox ★294](https://github.com/gchp/rustbox) — a Rust implementation of Termbox [<img src="https://api.travis-ci.org/gchp/rustbox.svg?branch=master">](https://travis-ci.org/gchp/rustbox)
-  * [ticki/termion ★561](https://github.com/ticki/termion) — A bindless library for controlling terminals/TTY - provides a full-featured alternative to Termbox [<img src="https://api.travis-ci.org/ticki/termion.svg?branch=master">](https://travis-ci.org/ticki/termion)
+  * [ticki/termion ★584](https://github.com/ticki/termion) — A bindless library for controlling terminals/TTY - provides a full-featured alternative to Termbox [<img src="https://api.travis-ci.org/ticki/termion.svg?branch=master">](https://travis-ci.org/ticki/termion)
 
 
 ### Image processing
@@ -916,7 +916,7 @@ See also [Are we web yet?](http://www.arewewebyet.org) and [Rust web framework c
   * [hyperium/hyper ★2890](https://github.com/hyperium/hyper) — an HTTP implementation [<img src="https://api.travis-ci.org/hyperium/hyper.svg?branch=master">](https://travis-ci.org/hyperium/hyper)
   * [seanmonstar/reqwest ★384](https://github.com/seanmonstar/reqwest) — an ergonomic HTTP Client for Rust. [<img src="https://api.travis-ci.org/seanmonstar/reqwest.svg?branch=master">](https://travis-ci.org/seanmonstar/reqwest)
 * HTTP Server
-  * [Gotham ★411](https://github.com/gotham-rs/gotham) — A flexible web framework that does not sacrifice safety, security or speed. [<img src="https://api.travis-ci.org/gotham-rs/gotham.svg?branch=master">](https://travis-ci.org/gotham-rs/gotham)
+  * [Gotham ★440](https://github.com/gotham-rs/gotham) — A flexible web framework that does not sacrifice safety, security or speed. [<img src="https://api.travis-ci.org/gotham-rs/gotham.svg?branch=master">](https://travis-ci.org/gotham-rs/gotham)
   * [hyperium/hyper ★2890](https://github.com/hyperium/hyper) — an HTTP implementation [<img src="https://api.travis-ci.org/hyperium/hyper.svg?branch=master">](https://travis-ci.org/hyperium/hyper)
   * [GildedHonour/frank_jwt ★89](https://github.com/GildedHonour/frank_jwt) — JSON Web Token implementation in Rust. [<img src="https://api.travis-ci.org/iron/iron.svg?branch=master">](https://travis-ci.org/iron/iron)
   * [Iron ★4552](https://github.com/iron/iron) — a middleware-based server framework [<img src="https://api.travis-ci.org/GildedHonour/frank_jwt.svg?branch=master">](https://travis-ci.org/GildedHonour/frank_jwt)

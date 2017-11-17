@@ -117,7 +117,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [plpgsql\_check ★86](https://github.com/okbob/plpgsql_check) - Extension that allows to check plpgsql source code.
 * [PostGIS](http://postgis.net/) - Spatial and Geographic objects for PostgreSQL.
 * [PG\_Themis ★18](https://github.com/cossacklabs/pg_themis) - Postgres binding as extension for crypto library Themis, providing various security services on PgSQL's side.
-* [zomboDB ★1251](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
+* [zomboDB ★1278](https://github.com/zombodb/zombodb) - Extension that enables efficient full-text searching via the use of indexes backed by Elasticsearch.
 * [pgMemento ★105](https://github.com/pgMemento/pgMemento) - Provides an audit trail for your data inside a PostgreSQL database using triggers and server-side functions written in PL/pgSQL.
 * [Timescale](https://www.timescale.com/) - Open-source time-series database fully compatible with Postgres, distributed as extension
 * [pgTAP](http://pgtap.org/) - Database testing framework for Postgres

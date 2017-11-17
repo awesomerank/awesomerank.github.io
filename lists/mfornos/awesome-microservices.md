@@ -81,7 +81,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Fabric8](http://fabric8.io/) - Open source microservices platform based on Docker, Kubernetes and Jenkins. Makes it easy to create, edit, deploy and manage microservices and go faster.
 - [Hook.io](https://hook.io) - Open source provider of microservice and webhook hosting.
 - [Lightbend ![c]](https://www.lightbend.com/) - Platform for building scalable reactive systems on the JVM.
-- [Mantl ★2979](https://github.com/mantl/mantl) - Platform for rapidly deploying globally distributed services.
+- [Mantl ★2996](https://github.com/mantl/mantl) - Platform for rapidly deploying globally distributed services.
 - [Netflix OSS](https://netflix.github.io/) - Netflix open source software ecosystem.
 - [OpenWhisk](http://openwhisk.org/) - Serverless, open source cloud platform that executes functions in response to events at any scale.
 - [STUPS](https://stups.io/) - A set of tools and components by Zalando to provide a convenient and audit-compliant PaaS for multiple autonomous teams on top of AWS.
@@ -111,7 +111,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 ### Polyglot
 
-- [Apex ★6218](https://github.com/apex/apex) - Tool for deploying and managing AWS Lambda functions. With shims for languages not yet supported by Lambda, you can use Golang out of the box.
+- [Apex ★6332](https://github.com/apex/apex) - Tool for deploying and managing AWS Lambda functions. With shims for languages not yet supported by Lambda, you can use Golang out of the box.
 - [CoAP](http://coap.technology/impls.html) - Constrained application protocol implementations.
 - [GRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first. Libraries in C, C++, Java, Go, Node.js, Python, Ruby, Objective-C, PHP and C#.
 - [Hprose](http://github.com/hprose) - A very newbility RPC Library, support 25+ languages now.
@@ -210,7 +210,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Ja-micro ★567](https://github.com/Sixt/ja-micro) - Lightweight Java framework for building microservices (compatible with go-micro).
 - [Jersey](https://jersey.github.io/) - RESTful services in Java. JAX-RS reference implementation.
 - [MSF4J ★240](https://github.com/wso2/msf4j) - High throughput & low memory footprint Java microservices framework.
-- [QBit ★587](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
+- [QBit ★590](https://github.com/advantageous/qbit) - Reactive programming library for building microservices.
 - [Ratpack](https://ratpack.io/) - Set of Java libraries that facilitate fast, efficient, evolvable and well tested HTTP applications. specific support for the Groovy language is provided.
 - [Restlet](http://restlet.com/) - Helps Java developers build web APIs that follow the REST architecture style.
 - [Spark](http://sparkjava.com/) - A micro-framework for creating web applications in Java 8 with minimal effort.
@@ -244,7 +244,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Moleculer](http://moleculer.services/) - Fast & powerful microservices framework for NodeJS.
 - [Restify](http://restify.com/) - Node.js module built specifically to enable you to build correct REST web services.
 - [Seneca](http://senecajs.org/) - A microservices toolkit for Node.js
-- [Serverless ★19646](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
+- [Serverless ★20224](https://github.com/serverless/serverless) - Build and maintain web, mobile and IoT applications running on AWS Lambda and API Gateway (formerly known as JAWS).
 - [StdLib](https://stdlib.com/) - Standard library for microservices.
 
 ### Perl
@@ -274,7 +274,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Tornado](http://www.tornadoweb.org/) - Web framework and asynchronous networking library.
 - [Twisted](https://twistedmatrix.com/trac/) - Event-driven network programming engine.
 - [Web.py ★4618](https://github.com/webpy/webpy) - Minimalist web framework for Python.
-- [Zappa ★5152](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
+- [Zappa ★5422](https://github.com/Miserlou/Zappa) - Framework for building and deploying server-less Python event-driven and web applications.
 
 ### Ruby
 
@@ -308,7 +308,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Traffic Server ★618](https://github.com/apache/trafficserver) - High-performance building block for cloud services.
 - [Tyk](https://tyk.io/) - Open source, fast and scalable API gateway, portal and API management platform.
 - [Vulcand ★2503](https://github.com/vulcand/vulcand) - Programmatic load balancer backed by Etcd.
-- [Zuul ★3240](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
+- [Zuul ★3366](https://github.com/Netflix/zuul) - An edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ### Configuration and Discovery
 
@@ -352,7 +352,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [Celery](http://www.celeryproject.org) - Asynchronous task queue/job queue based on distributed message passing. Focused on real-time operation and supports scheduling.
 - [Chronos ★3847](https://github.com/mesos/chronos) - Fault tolerant job scheduler for Mesos which handles dependencies and ISO8601 based schedules.
-- [Fenzo ★575](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
+- [Fenzo ★583](https://github.com/Netflix/Fenzo) - Extensible scheduler for Mesos frameworks.
 - [JobScheduler](http://www.sos-berlin.com/jobscheduler) - Open Source solution for enterprise-level workload automation. It is used to launch executable files and shell scripts and to run database procedures automatically.
 - [OpenLava](http://www.openlava.org/) - Workload scheduler that supports a variety of HPC and analytic applications.
 - [Rundeck](http://rundeck.org/) - Job scheduler and runbook automation. Enable self-service access to existing scripts and tools.
@@ -371,7 +371,7 @@ A curated list of Microservice Architecture related principles and technologies.
 
 - [ØMQ](http://zeromq.org/) - Brokerless intelligent transport layer.
 - [ActiveMQ](http://activemq.apache.org/) - Powerful open source messaging and integration patterns server.
-- [Aeron ★2986](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
+- [Aeron ★3036](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 - [Apollo](http://activemq.apache.org/apollo/) - Faster, more reliable, easier to maintain messaging broker built from the foundations of the original ActiveMQ.
 - [Ascoltatori ★383](https://github.com/mcollina/ascoltatori) - Pub/sub library for Node.
 - [Beanstalk](http://kr.github.io/beanstalkd/) - Simple, fast work queue.
@@ -423,7 +423,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Resilient HTTP](http://resilient-http.github.io/) - A smart HTTP client with super powers like fault tolerance, dynamic server discovery, auto balancing and reactive recovery, designed for distributed systems.
 - [Saboteur ★326 ⏳2Y](https://github.com/tomakehurst/saboteur) - Causing deliberate network mayhem for better resilience.
 - [Semian ★493](https://github.com/Shopify/semian) - Resiliency toolkit for Ruby for failing fast.
-- [Simian Army ★5863](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
+- [Simian Army ★5960](https://github.com/Netflix/SimianArmy) - Suite of tools for keeping your cloud operating in top form. Chaos Monkey, the first member, is a resiliency tool that helps ensure that your applications can tolerate random instance failures.
 - [Toxiproxy ★2239](https://github.com/shopify/toxiproxy) - TCP proxy to simulate network and system conditions for chaos and resiliency testing.
 
 ### Security
@@ -477,7 +477,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Elliptics](http://reverbrain.com/elliptics/) - Fault tolerant distributed key/value storage.
 - [Geode](http://geode.incubator.apache.org/) - Open source, distributed, in-memory database for scale-out applications.
 - [Infinispan](http://infinispan.org/) - Highly concurrent key/value datastore used for caching.
-- [InfluxDB ★11697](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
+- [InfluxDB ★11901](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics.
 - [Manta](https://www.joyent.com/manta) - Highly scalable, distributed object storage service with integrated compute.
 - [MemSQL ![c]](http://www.memsql.com/) - High-performance, in-memory database that combines the horizontal scalability of distributed systems with the familiarity of SQL.
 - [OpenTSDB](http://opentsdb.net) - Scalable and distributed time series database written on top of Apache HBase.

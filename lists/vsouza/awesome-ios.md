@@ -1040,7 +1040,7 @@ Most of these are paid services, some have free tiers.
 
 * [Urban Airship](https://www.urbanairship.com/products/mobile-app-engagement )
 * [Growth Push](https://growthpush.com) - Popular in Japan.
-* [Appboy](https://www.appboy.com)
+* [Braze](https://www.braze.com/)
 * [Batch](https://batch.com)
 * [Boxcar](https://boxcar.io)
 * [Carnival](http://www.carnival.io)
@@ -1952,6 +1952,7 @@ Most of these are paid services, some have free tiers.
 * [Typist ★826](https://github.com/totocaster/Typist) - Small, drop-in Swift UIKit keyboard manager for iOS apps-helps manage keyboard's screen presence and behavior without notification center. :large_orange_diamond:
 * [KeyboardHideManager ★48](https://github.com/bonyadmitr/KeyboardHideManager) - Codeless manager to hide keyboard by tapping on views for iOS written in Swift :large_orange_diamond:
 * [Toolbar ★360](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar. :large_orange_diamond:
+* [IHKeyboardAvoiding ★1020](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - A drop-in universal solution for keeping any UIView visible when the keyboard is being shown - no more UIScrollViews! 🔶
 
 #### Label
 * [LTMorphingLabel ★6002](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift. :large_orange_diamond:

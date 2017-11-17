@@ -94,19 +94,19 @@ Some of the most awesome editor for LaTeX do just that: edit LaTeX
 
 These editors are no one-trick ponies: sure, they edit LaTeX, but they can do a lot more!
 
-- [Atom](https://atom.io) [![Atom][awesome] ★1355](https://github.com/mehcode/awesome-atom) ![foss][foss]
+- [Atom](https://atom.io) [![Atom][awesome] ★1406](https://github.com/mehcode/awesome-atom) ![foss][foss]
 	- [LaTeXTools](https://atom.io/packages/latextools) - An Atom port of the Sublime Text package of the same name. ![foss][foss]
 
-- [Sublime Text](http://www.sublimetext.com) [![Sublime Text][awesome] ★554](https://github.com/dreikanter/sublime-bookmarks)
+- [Sublime Text](http://www.sublimetext.com) [![Sublime Text][awesome] ★560](https://github.com/dreikanter/sublime-bookmarks)
 	- [LaTeXing](http://www.latexing.com) - Commercial plug-in to edit LaTeX.
-	- [LaTeXTools ★1531](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss]
+	- [LaTeXTools ★1555](https://github.com/SublimeText/LaTeXTools) - Free LaTeX plugin for Sublime Text. ![foss][foss]
 
-- [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome] ★3154](https://github.com/emacs-tw/awesome-emacs) ![foss][foss]
+- [Emacs](https://www.gnu.org/software/emacs/)  [![Emacs][awesome] ★3225](https://github.com/emacs-tw/awesome-emacs) ![foss][foss]
 	- [AucTeX](https://www.gnu.org/software/auctex/) - Emacs plugin for LaTeX that also shows a preview of equations and figures. ![foss][foss]	
 	- [RefTeX](https://www.gnu.org/software/auctex/reftex) - Emacs plugin for LaTeX that adds support for labels, references, and citations. ![foss][foss]
 
 
-- [Vim](http://www.vim.org) [![Vim][awesome] ★7459](https://github.com/mhinz/vim-galore) ![foss][foss]
+- [Vim](http://www.vim.org) [![Vim][awesome] ★7618](https://github.com/mhinz/vim-galore) ![foss][foss]
 	- [Vim-LaTeX](http://vim-latex.sourceforge.net) ![foss][foss]
 	- [LaTeX Live Preview ★247](https://github.com/xuhdev/vim-latex-live-preview) - Instantly previews your LaTeX document. ![foss][foss]
 

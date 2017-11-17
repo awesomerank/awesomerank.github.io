@@ -333,7 +333,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Light Table](http://lighttable.com/) - The next generation code editor.
   * [Lime](http://limetext.org/) - Aims to provide an open source solution to Sublime Text
   * [Notepad++](https://notepad-plus-plus.org/) - GPLv2 multi-language editor with syntax highlighting for Windows.
-  * [TextMate ★11457](https://github.com/textmate/textmate) - A graphical text editor for OS X.
+  * [TextMate ★11485](https://github.com/textmate/textmate) - A graphical text editor for OS X.
   * [Vim](http://www.vim.org) - A highly configurable text editor built to enable efficient editing.
   * [Visual Studio Code](https://code.visualstudio.com/) - An open source cross-platform extensible code editor from Microsoft
   * [Nano](http://nano-editor.org) - Easy to use, customizable text editor.
@@ -407,7 +407,7 @@ title: Awesome Rank for n1trux/awesome-sysadmin
   * [Bosun](http://bosun.org/) - Monitoring and alerting system by Stack Exchange ([Source Code ★2394](https://github.com/bosun-monitor/bosun), [Documentation](http://bosun.org/quickstart.html)) `MIT` `Go`
   * [Cacti](http://www.cacti.net) - Web-based network monitoring and graphing tool.
   * [Cabot](http://cabotapp.com/) - Monitoring and alerts, similar to PagerDuty.
-  * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code ★6296](https://github.com/google/cadvisor)) `Apache` `Go`
+  * [cadvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers ([Source Code ★6433](https://github.com/google/cadvisor)) `Apache` `Go`
   * [check_mk](http://mathias-kettner.com/check_mk.html) - Collection of extensions for Nagios.
   * [Dash ★7922](https://github.com/afaqurk/linux-dash) - A low-overhead monitoring web dashboard for a GNU/Linux machine.
   * [eZ Server Monitor](http://www.ezservermonitor.com) - A lightweight and simple dashboard monitor for Linux, available in Web and Bash application.
@@ -460,12 +460,12 @@ ils and flask.
   * [RRDtool](http://oss.oetiker.ch/rrdtool/) - Industry standard, high performance data logging and graphing system for time series data.
   * [Dashing](http://dashing.io/) - Ruby gem that allows for rapid statistical dashboard development. An all HTML5 approach allows for big screen displays in data centers or conference rooms.
   * [Facette](http://facette.io) - Time series data visualization and graphing software written in Go.
-  * [Freeboard ★4728](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
+  * [Freeboard ★4779](https://github.com/Freeboard/freeboard) - A damn-sexy front-end real-time dashboard for the internet of things. Transforms raw JSON into delicious UI.
   * [Netdata](http://netdata.firehol.org/) - Real-time performance monitoring for Linux systems with plugin support.
 
 * Storage
   * [OpenTSDB](http://opentsdb.net/) - Store and server massive amounts of time series data without losing granularity.
-  * [KairosDB ★1119](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
+  * [KairosDB ★1126](https://github.com/kairosdb/kairosdb) - Fast distributed scalable time series database, fork of OpenTSDB 1.x.
   * [InfluxDB](https://influxdb.com/) - Distributed time series database with no external dependencies.
 
 * Packages
@@ -593,7 +593,7 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
   + [grml](https://grml.org) – bootable Debian Live CD with powerful CLI tools.
   * [mitmproxy](http://mitmproxy.org/) - A Python tool used for intercepting, viewing and modifying network traffic. Invaluable in troubleshooting certain problems.
   * [mtr](https://www.bitwizard.nl/mtr/) - Network utility that combines traceroute and ping.
-  * [perf-tools ★3678](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
+  * [perf-tools ★3748](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
   * [Sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
   * [Dripcap ★1522](https://github.com/dripcap/dripcap) - Caffeinated Packet Analyzer.
   * [Wireshark](https://www.wireshark.org/) - The world's foremost network protocol analyzer.

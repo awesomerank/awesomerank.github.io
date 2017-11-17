@@ -13,7 +13,7 @@ title: Awesome Rank for pehapkari/awesome-symfony-education
 
 A curated list of amazingly awesome Symfony **articles, series and books**.
 
-*For bundles selection, check [sitepoint-editors/awesome-symfony ★1102](https://github.com/sitepoint-editors/awesome-symfony).*
+*For bundles selection, check [sitepoint-editors/awesome-symfony ★1122](https://github.com/sitepoint-editors/awesome-symfony).*
 
 
 ## Single Action Controller

@@ -46,7 +46,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 
 ## Erlang
 
-* [riak ★2871](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
+* [riak ★2882](https://github.com/basho/riak) - Riak is a decentralized datastore from Basho Technologies.
 * [Pulsedb](http://pulsedb.io) - Pulsedb is a time series database server and library.
 
 ## Go-lang
@@ -67,7 +67,7 @@ A curated list of amazingly awesome database libraries, resources and shiny thin
 ## JAVA
 * [cassandra ★3934](https://github.com/apache/cassandra) - Cassandra is a partitioned row store. Rows are organized into tables with a required primary key.
 * [elasticsearch](https://github.com/elasticsearch/elasticsearch) - Open Source, Distributed, RESTful Search Engine [website](http://elasticsearch.org)
-* [lmdbjni ★165](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
+* [lmdbjni ★166](https://github.com/deephacks/lmdbjni) - LMDB for Java, which is a very fast embedded key/value store with full ACID semantics.
 * [mapdb ★2844](https://github.com/jankotek/MapDB) - MapDB provides concurrent Maps, Sets and Queues backed by disk storage or off-heap-memory. It is a fast and easy to use embedded Java database engine.http://www.mapdb.org
 * [neo4j ★4326](https://github.com/neo4j/neo4j) - [Neo4j](http://neo4j.org) is the world’s leading Graph Database.
 * [orientdb ★3221](https://github.com/orientechnologies/orientdb) - OrientDB is an Open Source NoSQL DBMS with the features of both Document and Graph DBMSs.

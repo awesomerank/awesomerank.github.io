@@ -33,7 +33,7 @@ title: Awesome Rank for tleb/awesome-mastodon
 ## Official
 
 * [Website](https://joinmastodon.org)
-* [GitHub repository ★10799](https://github.com/tootsuite/mastodon)
+* [GitHub repository ★11307](https://github.com/tootsuite/mastodon)
 * [Frequently Asked Questions](https://github.com/tootsuite/documentation/blob/master/Using-Mastodon/FAQ.md)
 
 ## Documentation

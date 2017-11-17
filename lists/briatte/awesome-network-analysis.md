@@ -11,7 +11,7 @@ title: Awesome Rank for briatte/awesome-network-analysis
 
 An [awesome list ★69735](https://github.com/sindresorhus/awesome) of resources to construct, analyze and visualize network data.
 
-Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math ★908](https://github.com/rossant/awesome-math) and others.
+Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning), [Awesome Math ★982](https://github.com/rossant/awesome-math) and others.
 
 [![Adamic and Glance’s network of political blogs, 2004.](https://raw.githubusercontent.com/briatte/awesome-network-analysis/master/illustration.png)](http://www.maths.tcd.ie/~mnl/store/AdamicGlance2004a.pdf)
 
@@ -529,7 +529,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 ### Algorithms
 
 > Network placement and community detection algorithms that do not fit in any of the next subsections.  
-> See also the [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) and [Awesome Algorithm Visualization ★740](https://github.com/enjalot/algovis) lists for more algorithmic awesomess.
+> See also the [Awesome Algorithms](https://github.com/tayllan/awesome-algorithms) and [Awesome Algorithm Visualization ★754](https://github.com/enjalot/algovis) lists for more algorithmic awesomess.
 
 -   [algo.graph ★16](https://github.com/clojure/algo.graph) - Basic graph theory algorithms written in Clojure.
 -   [CONGA and CONGO](http://www.cs.bris.ac.uk/~steve/networks/index.html) - Algorithms to detect overlapping communities in networks, written in Java.
@@ -542,7 +542,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### C / C++
 
-> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) and [Awesome C / C++ ★9841](https://github.com/fffaraz/awesome-cpp) lists.
+> For more awesome C / C++ content, see the [Awesome C](https://github.com/aleksandar-todorovic/awesome-c) and [Awesome C / C++ ★10260](https://github.com/fffaraz/awesome-cpp) lists.
 
 -   [Benchmark Graphs to Test Community Detection Algorithms](https://sites.google.com/site/santofortunato/inthepress2) - C++ code to generate weighted and unweighted graphs.
 -   [BGL - Boost Graph Library](http://www.boost.org/doc/libs/1_60_0/libs/graph/doc/) - C++ library that provides a generic interface to access graph structures.
@@ -561,7 +561,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
 
 ### JavaScript
 
-> For more awesome JavaScript libraries, see the [Awesome JavaScript ★12340](https://github.com/sorrycc/awesome-javascript) list.
+> For more awesome JavaScript libraries, see the [Awesome JavaScript ★12561](https://github.com/sorrycc/awesome-javascript) list.
 
 -   [Cytoscape.js](http://js.cytoscape.org/) - Network analysis and visualization library.
 -   [d3.js](https://d3js.org/) - JavaScript visualization library that can plot [force-directed graphs](http://bl.ocks.org/mbostock/4062045).
@@ -589,7 +589,7 @@ Inspired by [Awesome Deep Learning](https://github.com/ChristosChristofidis/awes
   -   [Creating Network Diagrams in Plotly from Julia](http://badhessian.org/2014/05/creating-network-diagrams-in-plotly-from-julia/).
 -   [JuliaGraphs](https://github.com/JuliaGraphs) - Suite of Julia packages for network analysis.
   -   [GraphVisualize.jl](https://github.com/JuliaGraphs/GraphVisualize.jl) - Graph visualization built on top of [GLVisualize.jl ★163](https://github.com/JuliaGL/GLVisualize.jl).
-  -   [LightGraphs.jl ★142](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
+  -   [LightGraphs.jl ★148](https://github.com/JuliaGraphs/LightGraphs.jl) - Graph library with a focus on performance and simplicity.
   -   [LightGraphsExtras.jl ★7](https://github.com/JuliaGraphs/LightGraphsExtras.jl) - Community detection and other functionalities for the LightGraphs.jl package.
   -   [NetworkLayout.jl ★17](https://github.com/JuliaGraphs/NetworkLayout.jl) - Layout algorithms for graphs and trees.
   -   [Networks.jl ★5](https://github.com/JuliaGraphs/Networks.jl) - Additional graph functions for the LightGraphs.jl package.

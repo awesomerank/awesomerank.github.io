@@ -149,12 +149,12 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 ### PHP
  - [Doctrine MongoDB ★299](https://github.com/doctrine/mongodb) - Wrapper around the native PHP Mongo PECL extension to provide additional functionality
  - [eloquent-mongodb-repository](https://github.com/PHPRepository/php-eloquent-mongodb-repository) - Repository implementation built on top of laravel-mongodb
- - [laravel-mongodb ★2869](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
+ - [laravel-mongodb ★2941](https://github.com/jenssegers/laravel-mongodb) - Eloquent model and query builder for Laravel
  - [mongodb-repository](https://github.com/PHPRepository/php-mongodb-repository) - Repository implementation
  - [pecl/mongodb ★423](https://github.com/mongodb/mongo-php-driver) - Official PHP driver
 
 ### Python
- - [Flask-PyMongo ★352](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
+ - [Flask-PyMongo ★360](https://github.com/dcrosta/flask-pymongo) - PyMongo support for Flask applications
  - [MongoEngine ★1947](https://github.com/MongoEngine/mongoengine) - Python ODM on top of PyMongo
  - [MongoLog ★102 ⏳4Y](https://github.com/puentesarrin/mongodb-log) - MongoDB logging handler
  - [Mongo-Thingy ★7](https://github.com/numberly/mongo-thingy) - The most Pythonic and friendly-yet-powerful way to use MongoDB
@@ -177,7 +177,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 ### Scala
  - [mongo-scala-driver ★172](https://github.com/mongodb/mongo-scala-driver) - Official Scala driver
  - [ReactiveMongo ★735](https://github.com/ReactiveMongo/ReactiveMongo) - Non-blocking Scala driver
- - [Spark-MongoDB ★287 ⏳1Y](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
+ - [Spark-MongoDB ★289 ⏳1Y](https://github.com/Stratio/Spark-MongoDB) - Read/write data with Spark SQL
 
 ## Tools
 ### Administration
@@ -235,7 +235,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 ## Applications
  - [Leanote ★6207](https://github.com/leanote/leanote) - Evernote clone built with Go and MongoDB
- - [Quokka ★1721](https://github.com/quokkaproject/quokka) - Python CMS built on top of Flask and MongoDB
+ - [Quokka ★1732](https://github.com/quokkaproject/quokka) - Python CMS built on top of Flask and MongoDB
  - [uptime ★3356](https://github.com/fzaninotto/uptime) - Remote monitoring application using Node.js, MongoDB, and Bootstrap
 
 ## License

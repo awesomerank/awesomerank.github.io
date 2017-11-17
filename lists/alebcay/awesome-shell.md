@@ -106,7 +106,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [sshrc ★3817](https://github.com/Russell91/sshrc) - Bring your .bashrc, .vimrc, etc. with you when you SSH
 * [sudocabulary ★82](https://github.com/badarsh2/Sudocabulary) - Learn English Vocabulary from your terminal
 * [surfraw](http://surfraw.alioth.debian.org/) - browse specific site and search the web from your terminal without browser.
-* [thefuck ★31499](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
+* [thefuck ★32099](https://github.com/nvbn/thefuck) - Fix common shell mistakes by using an easy to remember command
 * [tldr ★130](https://github.com/raylee/tldr) - A fully-functional bash client for tldr, simplified and community-driven man pages
 * [tmux](http://tmux.github.io/) - Amazing terminal multiplexer
 * [up ★40](https://github.com/shannonmoeller/up) - Ascend directories by name or count; for bash, zsh, and fish.
@@ -139,7 +139,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 *Command-line development, version control, and deployment.*
 
 * [bcal ★57](https://github.com/jarun/bcal) - Byte CALculator for storage conversions and calculations
-* [bocker ★4515 ⏳2Y](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
+* [bocker ★4594 ⏳2Y](https://github.com/p8952/bocker) - Docker implemented in 100 lines of bash
 * [cloc ★3536](https://github.com/AlDanial/cloc) - Count Lines of Code
 * [doclt ★14](https://github.com/omgimanerd/doclt) - A command line interface to Digital Ocean
 * [dokku ★14366](https://github.com/dokku/dokku) - Docker powered mini-Heroku. The smallest PaaS implementation you've ever seen.
@@ -168,7 +168,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [ccat ★1912](https://github.com/jingweno/ccat) - ccat is the colorizing cat. It works similar to cat but displays content with syntax highlighting.
 * [colorex](https://bitbucket.org/linibou/colorex/wiki/Home) - Displays files or sdtin with pretty colors for matched patterns.
 * [progress ★3460](https://github.com/Xfennec/progress) - Linux tool to show progress for cp, rm, dd, ...
-* [glances ★8384](https://github.com/nicolargo/glances) - Glances an Eye on your system
+* [glances ★8631](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [goaccess ★5897](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems.
 * [histstat ★34](https://github.com/vesche/histstat) - History for netstat
 * [htop ★2556](https://github.com/hishamhm/htop) - A ncurses based interactive process viewer which aims to be a better `top`
@@ -193,7 +193,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [httpie ★32397](https://github.com/jakubroztocil/httpie) - HTTPie is a command line HTTP client, a user-friendly cURL replacement
 * [ngincat ★104 ⏳3Y](https://github.com/jaburns/ngincat) - Tiny Bash HTTP server using netcat
 * [resty ★2181](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines
-* [youtube-dl ★30150](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
+* [youtube-dl ★31060](https://github.com/rg3/youtube-dl) - Small command-line program to download videos from YouTube.com and other video sites
 
 ## Multimedia and File Formats
 
@@ -201,7 +201,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 * [adb-export ★48](https://github.com/snatik/adb-export) - Export Android content providers to CSV format
 * [Android-Kitchen ★767 ⏳1Y](https://github.com/dsixda/Android-Kitchen) - A text-based kitchen for Android ROM customization. Uses shell scripts and works with Cygwin/OS X/Linux
-* [Beets ★6241](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
+* [Beets ★6302](https://github.com/beetbox/beets) - Music library manager and MusicBrainz tagger
 * [cmus ★2271](https://github.com/cmus/cmus) - Cross-platform cli audio player.
 * [gifgen ★173](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 * [image-scraper ★383](https://github.com/sananth12/ImageScraper) - A cool command line image scraper with a lot of features.
@@ -236,7 +236,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [pushblast ★91 ⏳1Y](https://github.com/alebcay/pushblast) - Get PushBullet notifications when a shell program exits
 * [pushbullet-bash ★180](https://github.com/Red5d/pushbullet-bash) - Bash interface to the PushBullet API
 * [Reddit Terminal Viewer ★1578](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
-* [SAWS ★3386](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
+* [SAWS ★3410](https://github.com/donnemartin/saws) - A Supercharged AWS CLI
 * [taskwarrior](https://taskwarrior.org/) - A command-line TODO list manager
 * [terjira ★345](https://github.com/keepcosmos/terjira) - Command line power tool for Jira
 * [transfer.sh](https://transfer.sh/) — Quickly upload and share files from your shell
@@ -260,7 +260,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 
 *Tools for managing multiple shell configurations. For zsh-specific tools, see the Zsh section.*
 
-* [bash-it ★6858](https://github.com/Bash-it/bash-it) - A community Bash framework
+* [bash-it ★7029](https://github.com/Bash-it/bash-it) - A community Bash framework
 * [basher ★292](https://github.com/basherpm/basher) - A package manager for shell scripts
 * [bpkg](http://www.bpkg.sh/) - JavaScript has npm, Ruby has Gems, Python has pip and now Shell has bpkg
 * [dotdrop ★63](https://github.com/deadc0de6/dotdrop) - Save your dotfiles once, deploy them everywhere
@@ -293,7 +293,7 @@ A curated list of awesome command-line frameworks, toolkits, guides and gizmos. 
 * [revolver ★40](https://github.com/molovo/revolver) - A reusable progress spinner for shell scripts
 * [semver_bash ★107](https://github.com/cloudflare/semver_bash) - Semantic Versioning in Bash
 * [sh-semver ★10](https://github.com/qzb/sh-semver) - Semver tool for bash - finds versions matching to specified rules
-* [shellcheck ★9016](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
+* [shellcheck ★9318](https://github.com/koalaman/shellcheck) - Static analysis tool for shell scripts
 * [shellfire ★1080 ⏳1Y](https://github.com/shellfire-dev/shellfire) -  A repository of namespaced, composable shell (bash, sh and dash) function libraries
 * [shpec ★288](https://github.com/rylnd/shpec) - A shell testing framework
 * [shutit](https://ianmiell.github.io/shutit/) - Automation framework based on bash and pexpect

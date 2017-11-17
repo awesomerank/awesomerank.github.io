@@ -143,7 +143,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [Arduino-CMake-Template ★3](https://github.com/maxbader/Arduino-CMake-Template) - Starting point for Arduino development using CMake. ```[NO LICENSE]```
 * [c-template ★26](https://github.com/fletcher/c-template) - Boilerplate to set up a c project, include CuTest, CMake build setup. [```[MIT]```][MIT]
 * [cpp_project_template ★21](https://github.com/duckie/cpp_project_template) - Simple template to start quickly a C++ project managed by CMake. ```[NO LICENSE]```
-* [cpp-boilerplate ★9](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI [```[MIT]```][MIT]
+* [cpp-boilerplate ★13](https://github.com/Lectem/cpp-boilerplate) - Template that aims to be a reference for modern CMake and CI [```[MIT]```][MIT]
 * [ci_helloworld ★54](https://github.com/ainfosec/ci_helloworld) - A simple example of how to setup a complete CI environment for C and C++ [```[MIT]```][MIT]
 
 ## Other

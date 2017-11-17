@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-948-orange.svg) | November 16, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-949-orange.svg) | November 17, 2017
 
 ### Contributing
 
@@ -235,7 +235,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 ## Demo Apps
 *Check out apps on these projects:* 
-* [awesome-macOS ★6680](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
+* [awesome-macOS ★6847](https://github.com/iCHAIT/awesome-macOS) - A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * [open-source-ios-apps ★14822](https://github.com/dkhamsing/open-source-ios-apps) - A collaborative list of open-source iOS Apps.
 
 ## Dependency Managers
@@ -440,7 +440,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Kommander ★100](https://github.com/intelygenz/Kommander-iOS) - Manage the task execution in different threads through Kommands.
 * [Overdrive ★816](https://github.com/arikis/Overdrive) - Fast async task based API with focus on type safety, concurrency and multi threading.
 * [Queuer ★679](https://github.com/FabrizioBrancati/Queuer) :penguin: - A queue manager, built on top of OperationQueue and Dispatch (aka GCD).
-* [Safe ★402](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization.
+* [Safe ★403](https://github.com/tidwall/Safe) - Modern Concurrency and Synchronization.
 * [Threadly ★41](https://github.com/nvzqz/Threadly) :penguin: - Type-safe thread-local storage.
 * [Venice ★1326](https://github.com/Zewo/Venice) :penguin: - Communicating sequential processes (CSP), Linux ready.
 
@@ -799,6 +799,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [TinyCrayon ★1458](https://github.com/TinyCrayon/TinyCrayon-iOS-SDK) - A smart and easy-to-use image masking and cutout SDK for mobile apps.
 * [Toucan ★2059](https://github.com/gavinbunney/Toucan) - Image processing api.
 * [UIImageColors ★1712](https://github.com/jathu/UIImageColors) - iTunes style color fetcher for UIImage.
+* [Viewer ★292](https://github.com/bakkenbaeck/Viewer) - Image viewer (or Lightbox) with support for local and remote videos and images.
 * [Vulcan ★275](https://github.com/jinSasaki/Vulcan) - Multi image downloader with priority.
 * [WDImagePicker ★74](https://github.com/justwudi/WDImagePicker) - Image picker with customizable crop rectangle (getting update).
 * [XAnimatedImage ★575 ⏳1Y](https://github.com/khaledmtaha/XAnimatedImage) - XAnimatedImage is a performant animated GIF engine for iOS based on FLAnimatedImage.
@@ -974,7 +975,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SocketIO-Kit ★143](https://github.com/ricardopereira/SocketIO-Kit) - Socket.io iOS and OSX Client.
 * [sockets ★479](https://github.com/vapor/sockets) :penguin: - TCP, UDP; Client, Server; Linux, OS X.
 * [Starscream ★3291](https://github.com/daltoniam/Starscream) - Websockets for iOS and OSX.
-* [SwiftDSSocket ★23](https://github.com/csujedihy/SwiftDSSocket) - Asynchronous socket framework built atop DispatchSource.
+* [SwiftDSSocket ★26](https://github.com/csujedihy/SwiftDSSocket) - Asynchronous socket framework built atop DispatchSource.
 * [SwiftSocket ★680](https://github.com/swiftsocket/SwiftSocket) - Simple TCP socket library.
 * [SwiftWebSocket ★897](https://github.com/tidwall/SwiftWebSocket) - A high performance WebSocket client library .
 
@@ -1231,7 +1232,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [StepProgressView ★53](https://github.com/yonat/StepProgressView) - Step-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.
 * [SurfingRefreshControl ★49 ⏳1Y](https://github.com/peiweichen/SurfingRefreshControl) - Customizable pull-to-refresh control.
 * [SwiftTheme ★952](https://github.com/jiecao-fm/SwiftTheme) - Powerful theme/skin manager for iOS 7+.
-* [SwiftyUI ★100](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
+* [SwiftyUI ★106](https://github.com/haoking/SwiftyUI) - High performance and lightweight UIView, UIImage, UIImageView, UIlabel, UIButton and more.
 * [SYBlinkAnimationKit ★101](https://github.com/shoheiyokoyama/SYBlinkAnimationKit) - A blink effect animation framework.
 * [TagListView ★1161](https://github.com/ElaWorkshop/TagListView) - Simple but highly customizable iOS tag list view.
 * [Toaster ★873](https://github.com/devxoul/Toaster) - Notification toasts.

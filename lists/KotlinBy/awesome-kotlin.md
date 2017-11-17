@@ -201,7 +201,7 @@ Here awesome badge for your project:
 * [MarioAriasC/KotlinPrimavera ★67](https://github.com/MarioAriasC/KotlinPrimavera) - Spring support libraries for Kotlin.
 * [kohesive/kovert ★83](https://github.com/kohesive/kovert) - An invisible, super easy and powerful REST and Web framework over Vert.x or Undertow.
 * [sdeleuze/spring-kotlin](https://github.com/sdeleuze/spring-kotlin) - Kotlin extensions for Spring projects.
-* [pgutkowski/KGraphQL ★21](https://github.com/pgutkowski/KGraphQL) - A GraphQL implementation written in Kotlin
+* [pgutkowski/KGraphQL ★36](https://github.com/pgutkowski/KGraphQL) - A GraphQL implementation written in Kotlin
 * [taskworld/kraph](https://github.com/taskworld/kraph) - GraphQL request string builder written in Kotlin
 * [sepatel/tekniq ★13](https://github.com/sepatel/tekniq) - Full-feature HTTP DSL Framework, HTTP Client, JDBC DSL, Loading Cache and Configuration
 * [vert-x3/vertx-lang-kotlin ★40](https://github.com/vert-x3/vertx-lang-kotlin) - This module provides Kotlin language bindings including DSL and extension functions for vert.x 3
@@ -317,7 +317,7 @@ Here awesome badge for your project:
 
 ### <a name="libraries-frameworks-syntax-highlighters"></a>Syntax Highlighters <sup>[Back ⇈](#libraries-frameworks-syntax-highlighters-subcategory)</sup>
 * [jneen/rouge ★2085](https://github.com/jneen/rouge) - A pure-ruby code highlighter that is compatible with pygments. (wip)
-* [isagalaev/highlight.js ★10872](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (out-of-date)
+* [isagalaev/highlight.js ★11069](https://github.com/isagalaev/highlight.js) - Javascript syntax highlighter. (out-of-date)
 * [github/linguist ★5183](https://github.com/github/linguist) - For Ruby/Github, uses Sublime package
 * [birkenfeld/pygments-main](https://bitbucket.org/birkenfeld/pygments-main) - Python syntax highlighter.
 * [cansik/kotlin-latex-listing ★8](https://github.com/cansik/kotlin-latex-listing) - A syntax highlighting template for the Kotlin language in LaTeX listings.
@@ -357,7 +357,7 @@ Here awesome badge for your project:
 * [cretz/asmble ★77](https://github.com/cretz/asmble) - Compile WebAssembly to JVM and other WASM tools.
 * [h0tk3y/better-parse ★20](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
 * [Kotlin/kotlinx.atomicfu ★62](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
-* [vjames19/kotlin-futures ★27](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
+* [vjames19/kotlin-futures ★31](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
 * [kunalsheth/units-of-measure ★3](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
 * [spoptchev/kotlin-preconditions ★3](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
 * [soywiz/klock ★2](https://github.com/soywiz/klock) - Consistent and portable date and time utilities for multiplatform kotlin (JVM, JS and Common).
@@ -382,11 +382,11 @@ Here awesome badge for your project:
 * [kotlin-graphics/uno-sdk ★4](https://github.com/kotlin-graphics/uno-sdk) - Unofficial OpenGL SDK
 * [kotlin-graphics/ovr ★1](https://github.com/kotlin-graphics/ovr) - Oculus binding
 * [kotlin-graphics/openvr ★3](https://github.com/kotlin-graphics/openvr) - OpenVR binding
-* [kotlin-graphics/assimp ★11](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
+* [kotlin-graphics/assimp ★12](https://github.com/kotlin-graphics/assimp) - Open Asset Import Library port
 * [GlimpseFramework/glimpse-framework ★8](https://github.com/GlimpseFramework/glimpse-framework) - OpenGL made simple.
 * [java-opengl-labs/modern-jogl-examples ★38](https://github.com/java-opengl-labs/modern-jogl-examples) - port of 'Learning Modern 3D Graphic Programming' by J.L.McKesson (jogl)
 * [java-opengl-labs/learn-OpenGL ★7](https://github.com/java-opengl-labs/learn-OpenGL) - port of https://learnopengl.com/ tutorial (lwjgl)
-* [kotlin-graphics/imgui ★27](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
+* [kotlin-graphics/imgui ★32](https://github.com/kotlin-graphics/imgui) - jvm port of imgui
 * [Jonatino/JOGL2D ★8](https://github.com/Jonatino/JOGL2D) - Zero-overhead 2D rendering library for JOGL using Kotlin.
 
 ### <a name="libraries-frameworks-data-science"></a>Data Science <sup>[Back ⇈](#libraries-frameworks-data-science-subcategory)</sup>
@@ -432,7 +432,7 @@ Here awesome badge for your project:
 * [lice-lang/lice ★53](https://github.com/lice-lang/lice) - A Lisp-like language's interpreter written in Kotlin
 * [sureshg/InstallCerts ★2](https://github.com/sureshg/InstallCerts) - Create a PKCS12 TrustStore by retrieving server certificates.
 * [vicboma1/GameBoyEmulatorEnvironment ★8](https://github.com/vicboma1/GameBoyEmulatorEnvironment) - Front-End developed with Kotlin Experimental for my GameBoy Emulator (coroutines).
-* [borisf/classyshark-bytecode-viewer ★139](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
+* [borisf/classyshark-bytecode-viewer ★144](https://github.com/borisf/classyshark-bytecode-viewer) - View your Kotlin generated classes as Java and bytecode format.
 * [jenkinsci/doktor-plugin ★3](https://github.com/jenkinsci/doktor-plugin) - Jenkins plugin for automated documentation uploading to Confluence.
 * [mkobit/jenkins-pipeline-shared-libraries-gradle-plugin ★8](https://github.com/mkobit/jenkins-pipeline-shared-libraries-gradle-plugin) - Gradle plugin to help with build and test of Jenkins Pipeline Shared Libraries.
 
@@ -524,7 +524,7 @@ Here awesome badge for your project:
 * [SimpleMobileTools/Simple-Gallery ★265](https://github.com/SimpleMobileTools/Simple-Gallery) - A gallery for viewing photos and videos without ads.
 * [SimpleMobileTools/Simple-Notes ★62](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
 * [ahong222/happy21 ★2](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
-* [AllanWang/KAU ★30](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
+* [AllanWang/KAU ★36](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
 * [hanjoongcho/aaf-easyphotomap ★2](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
 * [Karumi/KataScreenshotKotlin ★31](https://github.com/Karumi/KataScreenshotKotlin) - A full exercise to learn how to create screenshot tests for Android
 * [massivedisaster/AFM ★2](https://github.com/massivedisaster/AFM) - An library to help android developers working easly with activities and fragments with Kotlin

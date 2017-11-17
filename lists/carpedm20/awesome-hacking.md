@@ -136,14 +136,14 @@ For a list of free hacking books available for download, go [here ★1061](https
  * [NetworkMiner](http://www.netresec.com/?page=NetworkMiner) - A Network Forensic Analysis Tool (NFAT)
  * [tcpdump](http://www.tcpdump.org/) - A powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture
  * [Paros](http://sourceforge.net/projects/paros/) - A Java-based HTTP/HTTPS proxy for assessing web application vulnerability
- * [pig ★294](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
+ * [pig ★297](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool
  * [ZAP](https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project) - The Zed Attack Proxy (ZAP) is an easy to use integrated penetration testing tool for finding vulnerabilities in web applications
  * [mitmproxy](https://mitmproxy.org/) - An interactive, SSL-capable man-in-the-middle proxy for HTTP with a console interface
  * [mitmsocks4j ★21 ⏳4Y](https://github.com/Akdeniz/mitmsocks4j) - Man-in-the-middle SOCKS Proxy for Java
  * [nmap](https://nmap.org/) - Nmap (Network Mapper) is a security scanner
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
- * [Nipe ★239](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
+ * [Nipe ★244](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
  * [Habu ★67](https://github.com/portantier/habu) - Python Network Hacking Toolkit
 
 

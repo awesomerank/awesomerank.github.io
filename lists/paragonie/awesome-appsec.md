@@ -532,7 +532,7 @@ If you're using PHP 5.3.7+ or 5.4, use this to hash passwords
 
 Useful for generating random strings or numbers
 
-### [thephpleague/oauth2-server ★3158](https://github.com/thephpleague/oauth2-server)
+### [thephpleague/oauth2-server ★3226](https://github.com/thephpleague/oauth2-server)
 
 A secure OAuth2 server implementation
 
@@ -540,7 +540,7 @@ A secure OAuth2 server implementation
 
 PHP 7 offers a new set of CSPRNG functions: `random_bytes()` and `random_int()`. This is a community effort to expose the same API in PHP 5 projects (forward compatibility layer). Permissively MIT licensed.
 
-### [psecio/gatekeeper ★330](https://github.com/psecio/gatekeeper)
+### [psecio/gatekeeper ★330 ⏳1Y](https://github.com/psecio/gatekeeper)
 
 A secure authentication and authorization library that implements Role-Based Access Controls and Paragon Initiative Enterprises' recommendaitons for [secure "remember me" checkboxes](https://paragonie.com/blog/2015/04/secure-authentication-php-with-long-term-persistence#title.2).
 

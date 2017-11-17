@@ -78,7 +78,7 @@ Recursion schemes are simple, composable combinators, that automate the process 
   Presented by Anthony Burzillo at the NYC Haskell User's Group.
 - [A Gentle Introduction to Recursion Schemes](https://www.youtube.com/watch?v=i5A2Amfcir8) -
   Presented by Jean Remi Desjardins at Lambdaconf 2016.
-- [recursion-scheme-talk ★95](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes.
+- [recursion-scheme-talk ★101](https://github.com/sellout/recursion-scheme-talk) - Collection of slide decks about recursion schemes.
 - [Bracer: Transforming Real-World Languages with Coproducts and Recursion Schemes](https://www.youtube.com/watch?v=5Kr7IykGMzU) - High-level talk about structuring programs with coproducts and recursion schemes by Patrick Thomson.
 - [Recursion: Where Functional Programming Hits Bottom](https://www.youtube.com/watch?v=24UoRaoKLjM) - Introduction to recursive fix point data structures and recursion schemes in Haskell and Scala by Greg Pfeil.
 - [Programming with algebras](https://www.youtube.com/watch?v=-98fR9VmLbQ) - Bartosz Milewski's article in talk form, presented at LambdaCon.
@@ -92,16 +92,16 @@ Recursion schemes are simple, composable combinators, that automate the process 
 
 ## Implementations
 
-- [recursion-schemes ★70](https://github.com/ekmett/recursion-schemes) for
+- [recursion-schemes ★75](https://github.com/ekmett/recursion-schemes) for
   Haskell - The canonical implementation by Edward Kmett.
-- [Matryoshka ★427](https://github.com/slamdata/matryoshka) for Scala -
+- [Matryoshka ★454](https://github.com/slamdata/matryoshka) for Scala -
   Generalized folds, unfolds, and traversals for fixed point data structures.
 - [recursion\_schemes ★26](https://github.com/vmchale/recursion_schemes) for
   Idris, based off Edward Kmett's Haskell library.
-- [purescript-matryoshka ★30](https://github.com/slamdata/purescript-matryoshka) for PureScript -
+- [purescript-matryoshka ★31](https://github.com/slamdata/purescript-matryoshka) for PureScript -
   Work-in-process port of matryoshka.
 - [static-land-recursion-schemes ★7](https://github.com/JosephJNK/static-land-recursion-schemes) for JavaScript/Flow -
-  Schemes for data structures written in the style of [flow-static-land ★365](https://github.com/gcanti/flow-static-land).
+  Schemes for data structures written in the style of [flow-static-land ★372](https://github.com/gcanti/flow-static-land).
 - [Kategory-recursion](https://github.com/kategory/kategory/tree/master/kategory-recursion) for Kotlin - a re-envisioning based off Matryoshka using lightweight higher kinded polymorphism.
 
 ## License

@@ -57,7 +57,7 @@ title: Awesome Rank for avajs/awesome-ava
 - [start-ava ★6](https://github.com/start-runner/ava) - Run tests with Start.
 - [sigh-ava ★0](https://github.com/unlight/sigh-ava) - Run tests with Sigh.
 - [ava-rethinkdb ★25](https://github.com/rrdelaney/ava-rethinkdb) - Test helpers for RethinkDB.
-- [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint ★8925](https://github.com/eslint/eslint) plugins with AVA.
+- [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint ★9293](https://github.com/eslint/eslint) plugins with AVA.
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift ★2629](https://github.com/facebook/jscodeshift) codemods with AVA.
 - [ava-preact-init ★9](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
 - [ava-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/ava-check) - Generative property testing with [`TestCheck.js` ★725](https://github.com/leebyron/testcheck-js).

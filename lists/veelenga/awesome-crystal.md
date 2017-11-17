@@ -223,7 +223,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Framework Components
  * [cr-melon ★5](https://github.com/gdotdesign/cr-melon) - Class based Http APIs
- * [Crystal-DI ★10](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
+ * [Crystal-DI ★11](https://github.com/funk-yourself/crystal-di) - Lightweight DI Container
  * [crystal-mime ★17](https://github.com/spalger/crystal-mime) - Mimetypes for Crystal
  * [graphql-crystal ★58](https://github.com/ziprandom/graphql-crystal) - [Graphql](http://graphql.org) implementation
  * [kave ★17](https://github.com/jwoertink/kave) - Kemal API Version Extension
@@ -314,7 +314,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [emoji.cr ★11](https://github.com/veelenga/emoji.cr) - Emoji library
  * [hoop ★169](https://github.com/0x73/hoop) - Building native OSX apps
  * [html_builder ★26](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
- * [i18n.cr ★2](https://github.com/vladfaust/i18n.cr) - Internationalization shard
+ * [i18n.cr ★5](https://github.com/vladfaust/i18n.cr) - Internationalization shard
  * [immutable ★121](https://github.com/lucaong/immutable) - Implementation of thread-safe, persistent, immutable collections
  * [inflector.cr ★22](https://github.com/phoffer/inflector.cr) - Singularize, pluralize, camelize, etc (port from ActiveSupport)
  * [lirith ★15](https://github.com/lirith-engine/lirith) - Graphics engine
@@ -339,7 +339,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [active_record.cr ★166](https://github.com/waterlink/active_record.cr) - Active Record pattern implementation
  * [core ★20](https://github.com/vladfaust/core.cr) - Pure, transparent and efficient ORM
  * [crecto ★155](https://github.com/Crecto/crecto) - Database wrapper, based on Ecto
- * [granite-orm ★53](https://github.com/amberframework/granite-orm) - ORM for Postgres, Mysql, Sqlite
+ * [granite-orm ★67](https://github.com/amberframework/granite-orm) - ORM for Postgres, Mysql, Sqlite
  * [jennifer.cr ★90](https://github.com/imdrasil/jennifer.cr) - Active Record pattern implementation with flexible query chainable builder and migration system
  * [ohm-crystal ★42](https://github.com/soveran/ohm-crystal) - Object-hash mapping library for Redis
  * [redis-tsv.cr ★4](https://github.com/maiha/redis-tsv.cr) - Import and export data from Redis in TSV format
@@ -443,11 +443,11 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [rcpu ★29](https://github.com/ddfreyne/rcpu) - A virtual machine emulator and assembler
 
 ## Web Frameworks
- * [amber ★275](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
+ * [amber ★446](https://github.com/amberframework/amber) - Open source efficient and cohesive web application framework
  * [kemal ★1904](https://github.com/kemalcr/kemal) - Lightning Fast, Super Simple web framework. Inspired by Sinatra
  * [lattice-core ★43](https://github.com/jasonl99/lattice-core) - A WebSocket-first object-oriented framework (based on Kemal)
  * [luckyframework](https://github.com/luckyframework) - Fast, maintainable and confidence boosting web framework
- * [raze ★46](https://github.com/samueleaton/raze) - Modular, light web framework
+ * [raze ★55](https://github.com/samueleaton/raze) - Modular, light web framework
 
 ## Web Servers
  * [fast-http-server ★114](https://github.com/sdogruyol/fast-http-server) - Super fast, zero configuration command line HTTP Server

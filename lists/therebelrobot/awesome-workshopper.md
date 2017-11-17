@@ -64,7 +64,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [npm-tutor ★22 ⏳3Y](https://github.com/timoxley/npm-tutor) | npm tutor for nodeconf 2014 |
 | [oobootcamp ★6 ⏳3Y](https://github.com/winsonwq/OOBootcamp.js) | Object-Oriented JavaScript Bootcamp |
 | [planetproto ★200](https://github.com/sporto/planetproto) | Understanding JavaScript Prototypes |
-| [promise-it-wont-hurt ★498](https://github.com/stevekane/promise-it-wont-hurt) | A Workshopper module that teaches you to use promises in javascript |
+| [promise-it-wont-hurt ★514](https://github.com/stevekane/promise-it-wont-hurt) | A Workshopper module that teaches you to use promises in javascript |
 | [secureyournode ★19 ⏳2Y](https://github.com/someoneweird/secureyournode) | Security workshop |
 | [security-adventure ★300 ⏳4Y](https://github.com/toolness/security-adventure) | Go on an educational Web security adventure! |
 | [stream-adventure](https://github.com/substack/stream-adventure) | go on an educational stream adventure! |

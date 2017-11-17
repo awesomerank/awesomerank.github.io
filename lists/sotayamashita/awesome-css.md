@@ -396,7 +396,7 @@ Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Con
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Awesome CSS  maintainers ★1208](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Awesome CSS  maintainers ★1265](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/sotayamashita/awesome-css">sotayamashita/awesome-css</a> with ranks

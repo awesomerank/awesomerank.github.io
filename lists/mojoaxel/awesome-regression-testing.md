@@ -39,28 +39,28 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 ## Browser automation
 
 - [Selenium ★8188](https://github.com/SeleniumHQ/selenium) - Browser automation framework and ecosystem.
-- [PhantomJS ★23522](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
-- [SlimerJS ★2352](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
+- [PhantomJS ★23807](https://github.com/ariya/phantomjs) - Scriptable Headless WebKit.
+- [SlimerJS ★2370](https://github.com/laurentj/slimerjs) - Scriptable browser like PhantomJS, based on Firefox.
 - [trifleJS ★724 ⏳1Y](https://github.com/sdesalas/trifleJS) - Headless automation for Internet Explorer.
-- [CasperJS ★6884](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS.
+- [CasperJS ★6935](https://github.com/casperjs/casperjs) - Navigation scripting and testing utility for PhantomJS and SlimerJS.
 - [Webdriver.io ★3461](https://github.com/webdriverio/webdriverio) - Node.js bindings implementation for the W3C WebDriver protocol.
 - [Navalia ★633](https://github.com/joelgriffith/navalia) - Browser Automation based on headless Chrome and GraphQL.
-- [Chromeless ★10765](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [Chromeless ★11127](https://github.com/graphcool/chromeless) - Chrome automation made simple. Runs locally or headless on AWS Lambda.
 - [Cypress.io](https://www.cypress.io/) - An automation framework that runs in-browser.
 
 ## Tools and frameworks
 
-- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with [PhantomJS](https://github.com/ariya/phantomjs) or [SlimerJS ★2352](https://github.com/laurentj/slimerjs).
+- [PhantomCSS](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with [PhantomJS](https://github.com/ariya/phantomjs) or [SlimerJS ★2370](https://github.com/laurentj/slimerjs).
 - [Wraith ★4148](https://github.com/BBC-News/wraith) - Easy to use ruby tool with docker support.
 - [BackstopJS ★2494](https://github.com/garris/BackstopJS) - Config-driven automated screenshot test framework.
 - [Galen](https://github.com/galenframework/galen) - Java framework based on [Selenium ★8188](https://github.com/SeleniumHQ/selenium).
-- [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and  [CasperJS ★6884](https://github.com/casperjs/casperjs).
+- [Gemini](https://github.com/gemini-testing/gemini) - Feature rich framework with support for [Selenium](https://github.com/SeleniumHQ/selenium) and  [CasperJS ★6935](https://github.com/casperjs/casperjs).
 - [Huxlay ★4081](https://github.com/facebookarchive/huxley) - Python framework based on [Selenium Webdriver](https://github.com/SeleniumHQ/selenium/tree/master/javascript/node/selenium-webdriver).
 - [PhantomFlow ★661](https://github.com/Huddle/PhantomFlow) - Experimental approach to UI testing, based on Decision Trees.
 - [CSSCritic ★408 ⏳1Y](https://github.com/cburgmer/csscritic) - Lightweight CSS regression testing.
 - [Spectre ★217](https://github.com/wearefriday/spectre) - Provides image comparison capabilities and an admin interface for managing screenshots.
 - [Shoov ★32](https://github.com/shoov/shoov) - UI regression and functional testing focused on Drupal 7 sites.
-- [OcularJS](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS ★23522](https://github.com/ariya/phantomjs).
+- [OcularJS](https://github.com/mmacartney10/ocularjs) - uses [PhantomJS ★23807](https://github.com/ariya/phantomjs).
 - [WebdriverCSS](https://github.com/webdriverio/webdrivercss) - WebdriverCSS sits on top of [Webdriver.io](https://github.com/webdriverio/webdriverio/) and hooks into [Selenium ★8188](https://github.com/SeleniumHQ/selenium).
 - [Look-alike ★15 ⏳2Y](https://github.com/kdzwinel/Look-alike) - Chrome Extension for taking and comparing scrennshots.
 - [Hardy ★332 ⏳2Y](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.

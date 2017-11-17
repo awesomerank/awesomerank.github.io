@@ -237,7 +237,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 * [VulcanJS ★6309](https://github.com/VulcanJS/Vulcan) - A toolkit to quickly build apps with React, GraphQL & Meteor
 * [Microscope ★928](https://github.com/DiscoverMeteor/Microscope) - The Discover Meteor book's example app
 * [Wekan ★11804](https://github.com/wekan/wekan) - Open source Trello-like kanban
-* [Reaction Commerce ★5680](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor
+* [Reaction Commerce ★5931](https://github.com/reactioncommerce/reaction) - Open source Commerce platform developed with Meteor
 * [Crowducate Platform ★181 ⏳1Y](https://github.com/Crowducate/crowducate-platform) - Open source education platform Powered by meteor
 * [Orion CMS](http://orionjs.org/)
 

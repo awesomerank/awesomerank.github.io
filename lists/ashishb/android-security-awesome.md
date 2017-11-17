@@ -76,7 +76,7 @@ Static Analysis Tools
 App Vulnerability Scanners
 ----
 
-1. [QARK ★1425](https://github.com/linkedin/qark) - QARK by LinkedIn is for app developers to scan app for security issues
+1. [QARK ★1448](https://github.com/linkedin/qark) - QARK by LinkedIn is for app developers to scan app for security issues
 2. [AndroBugs ★465](https://github.com/AndroBugs/AndroBugs_Framework)
 3. [Nogotofail ★2189](https://github.com/google/nogotofail)
 4. [Devknox](https://devknox.io/) - Autocorrect security issues as if it was spell check from your IDE

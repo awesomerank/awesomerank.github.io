@@ -300,7 +300,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [Vim](https://vim.sourceforge.io/) - Vim is a highly configurable text editor built to make creating and changing any kind of text very efficient
 	* [Vim LOVE Docs ★15](https://github.com/davisdude/vim-love-docs) - Syntax highlighting for Vim
 * [Notepad++](https://notepad-plus-plus.org/) - Notepad++ is a free source code editor and Notepad replacement that supports several languages
-	* [LÖVE API for Notepad++ ★5](https://github.com/dail8859/love-api-npp) - Code completion and documentation for Notepad++
+	* [LÖVE API for Notepad++ ★5 ⏳1Y](https://github.com/dail8859/love-api-npp) - Code completion and documentation for Notepad++
 * [Visual Studio Code](https://code.visualstudio.com/) - VS Code is a new type of tool that combines the simplicity of a code editor with what developers need for their core edit-build-debug cycle
 	* [Visual Studio Code LÖVE Launcher](https://marketplace.visualstudio.com/items?itemName=JanW.love-launcher) - A Löve Launcher Extension for Visual Studio Code
 

@@ -15,7 +15,7 @@ title: Awesome Rank for terkelg/awesome-creative-coding
 
 Creative coding is a different discipline than programming systems in which the goal is to create something expressive instead of something functional. **Interaction design**, **information visualization** and **generative art** are all different types of creative coding – which has become a household term describing **artworks articulated as code**.
 
-*You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL ★615](https://github.com/eug/awesome-opengl).*
+*You might also like [Graphics resources](https://github.com/mattdesl/graphics-resources) and [Awesome OpenGL ★633](https://github.com/eug/awesome-opengl).*
 
 *Please read the [contribution guidelines](https://github.com/terkelg/awesome-creative-coding/blob/master/contributing.md) before contributing.*
 
@@ -164,7 +164,7 @@ Creative coding is a different discipline than programming systems in which the 
 
 ### Web Programming • Libraries
 
-- [three.js ★35925](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [three.js ★36708](https://github.com/mrdoob/three.js) - JavaScript 3D library.
 - [regl ★1671](https://github.com/regl-project/regl) - Functional WebGL.
 - [Stackgl](http://stack.gl/) - Open software ecosystem for WebGL, built on top of browserify and npm.
 - [Paper.js](http://paperjs.org/) - The swiss army knife of vector graphics scripting.
@@ -467,18 +467,18 @@ Creative coding is a different discipline than programming systems in which the 
 
 ## Related
 
-- [Awesome opengl ★615](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
-- [Awesome webgl ★142](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
+- [Awesome opengl ★633](https://github.com/eug/awesome-opengl) - Curated list of awesome OpenGL libraries, debuggers and resources.
+- [Awesome webgl ★157](https://github.com/sjfricke/awesome-webgl) - Curated list of awesome WebGL libraries, resources and much more.
 - [Awesome canvas ★296](https://github.com/raphamorim/awesome-canvas) - Curated list of awesome HTML5 canvas with examples, related articles and posts.
 - [Awesome audio visualization ★1475](https://github.com/willianjusten/awesome-audio-visualization) - Curated list about Audio Visualization.
-- [Awesome computer vision ★3338](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
+- [Awesome computer vision ★3738](https://github.com/jbhuang0604/awesome-computer-vision) - Curated list of awesome computer vision resources.
 - [Awesome visualization research ★215](https://github.com/mathisonian/awesome-visualization-research) - Curated list of recommended research papers and other readings on data visualization.
 - [Awesome livecoding ★319](https://github.com/lvm/awesome-livecoding) - Curated list of livecoding languages and tools.
 - [Awesome graphics ★329](https://github.com/ericjang/awesome-graphics) - Curated list of computer graphics tutorials and resources.
-- [Graphics resources ★1042 ⏳1Y](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
-- [Magic tools ★4245](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
+- [Graphics resources ★1055 ⏳1Y](https://github.com/mattdesl/graphics-resources) - Curated list of graphic programming resources.
+- [Magic tools ★4345](https://github.com/ellisonleao/magictools) - Curated list of game development resources to make magic happen.
 - [Hanecci’s link collection](http://d.hatena.ne.jp/hanecci/20131005/p1) - Link collection of ray marching on the GPU.
-- [Awesome public datasets ★20772](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
+- [Awesome public datasets ★21226](https://github.com/caesar0301/awesome-public-datasets) - Curated list of public avalible datasets, mostly free resources.
 - [Link collection of ray marching on the GPU](http://d.hatena.ne.jp/hanecci/20131005/p1) - Curated list from 2013.
 
 

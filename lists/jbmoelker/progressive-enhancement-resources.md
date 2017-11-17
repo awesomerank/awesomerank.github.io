@@ -132,7 +132,7 @@ With progressive enhancement you support different experiences in different envi
 ### Images
 
 * [Responsive Carousel](http://filamentgroup.github.io/responsive-carousel/test/functional/fade-auto.html) - List of images enhanced into responsive carousel with various behaviour options.
-* [Lazy Progressive Enhancement ★176](https://github.com/tvler/lazy-progressive-enhancement) - Lazy load images inside `<noscript>` tags. (note: Evergreen browsers only)
+* [Lazy Progressive Enhancement ★179](https://github.com/tvler/lazy-progressive-enhancement) - Lazy load images inside `<noscript>` tags. (note: Evergreen browsers only)
 
 ### Menus
 
@@ -143,10 +143,10 @@ With progressive enhancement you support different experiences in different envi
 Asynchronously fetch and transition between static pages using ajax and `history.pushState`:
 
 * [Barba.js](http://barbajs.org/) - Add page transitions with event hooks, cache and prefetch support.
-* [SmoothState.js ★4103](https://github.com/miguel-perez/smoothState.js) - Add page transitions with event hooks, cache and prefetch support. (requires jQuery).
-* [jquery-pjax ★15343](https://github.com/defunkt/jquery-pjax) - Add page transitions with support for multiple containers / content slots (requires jQuery).
-* [MoOx/pjax ★458](https://github.com/MoOx/pjax) - Similar tot jquery-pjax, but without the jQuery dependency.
-* [Turbolinks ★4302](https://github.com/turbolinks/turbolinks) - Add page transitions with event hooks and cache support. Has adapters to bind to native navigation controls on iOS and Android.
+* [SmoothState.js ★4130](https://github.com/miguel-perez/smoothState.js) - Add page transitions with event hooks, cache and prefetch support. (requires jQuery).
+* [jquery-pjax ★15413](https://github.com/defunkt/jquery-pjax) - Add page transitions with support for multiple containers / content slots (requires jQuery).
+* [MoOx/pjax ★468](https://github.com/MoOx/pjax) - Similar tot jquery-pjax, but without the jQuery dependency.
+* [Turbolinks ★4418](https://github.com/turbolinks/turbolinks) - Add page transitions with event hooks and cache support. Has adapters to bind to native navigation controls on iOS and Android.
 
 
 ## Related Articles

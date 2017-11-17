@@ -165,7 +165,7 @@ title: Awesome Rank for willianjusten/awesome-audio-visualization
 
 - [web-audio-analyser ★141 ⏳1Y](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
 - [web-audio-player ★139](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player.
-- [web-media-playback ★6 ⏳1Y](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser.
+- [web-media-playback ★6 ⏳2Y](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser.
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
 - [ThreeAudio.js ★418 ⏳2Y](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
 - [Beeplay.js](https://watilde.github.io/beeplay/) - Write a song In JavaScript.

@@ -168,7 +168,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [BouncyCastle PCL ★88](https://github.com/onovotny/BouncyCastle-PCL) - The Bouncy Castle Crypto package is a C# implementation of cryptographic algorithms and protocols.
 
 ### CMS
-* [Blogifier.Core ★52](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET applications to provide common blogging functionality.
+* [Blogifier.Core ★64](https://github.com/blogifierdotnet/Blogifier.Core) - ASP.NET applications to provide common blogging functionality.
 * [Lynicon ★29](https://github.com/jamesej/lyniconanc) - O/S ASP.Net Core/.Net Core CMS with paid for modules: JSON content, works with variety of data stores, c# content types
 * [Orchard Core CMS ★1186](https://github.com/OrchardCMS/OrchardCore) - Open Source Content Management System built with ASP.NET Core on top of a Modular and Extensible Application Framework.
 * [Platformus](https://github.com/Platformus) - Free, open source and cross-platform CMS based on ASP.NET Core 1.0 and ExtCore framework.
@@ -210,7 +210,7 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 
 ### Date and Time
 * [Exceptionless.DateTimeExtensions ★32](https://github.com/exceptionless/Exceptionless.DateTimeExtensions) - DateTimeRange, Business Day and various DateTime, DateTimeOffset, TimeSpan extension methods.
-* [FluentDateTime ★105](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
+* [FluentDateTime ★111](https://github.com/FluentDateTime/FluentDateTime) - Allows you to write cleaner DateTime expressions and operation. Partially inspired by Ruby DateTime Extensions.
 
 ### Distributed Computing
 * [Foundatio](https://github.com/exceptionless/Foundatio) - Pluggable foundation blocks for building distributed apps.
@@ -355,18 +355,18 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [RawRabbit ★271](https://github.com/pardahlman/RawRabbit) - Modern .NET framework for communication over RabbitMq.
 * [Rebus ★667](https://github.com/rebus-org/Rebus) - Simple and lean service bus implementation for .NET.
 * [Restbus](http://restbus.org) - Messaging library for RabbitMq.
-* [Tossit ★21](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
+* [Tossit ★23](https://github.com/turgayozgur/tossit) - Simple, easy to use library for distributed job/worker logic. Distributed messages handled by built in RabbitMQ implementation.
 
 ### Scheduler and Job
 * [Chroniton.NetCore ★96 ⏳1Y](https://github.com/leosperry/Chroniton) - Lightweight robust library for running tasks(jobs) on schedules.
 * [FluentScheduler ★1081](https://github.com/fluentscheduler/FluentScheduler) - Automated job scheduler with fluent interface.
 * [HangfireIO ★3111](https://github.com/HangfireIO/Hangfire) - Easy way to perform fire-and-forget, delayed and recurring tasks inside ASP.NET apps [http://hangfire.io](http://hangfire.io).
-* [LiquidState ★82](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
+* [LiquidState ★86](https://github.com/prasannavl/LiquidState) - Efficient asynchronous and synchronous state machines for .NET
 * [quartznet](https://github.com/quartznet/quartznet/tree/quartznet-3) - Quartz Enterprise Scheduler .NET [http://www.quartz-scheduler.net](http://www.quartz-scheduler.net).
 * [stateless ★1839](https://github.com/dotnet-state-machine/stateless) - Simple library for creating state machines in C# code.
 
 ### SDKs
-* [AWS SDK ★719](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.
+* [AWS SDK ★734](https://github.com/aws/aws-sdk-net) - The Amazon Web Services (AWS) .NET Core SDK components. Each AWS service has its own NuGet package.
 * [azure-event-hubs-dotnet ★41](https://github.com/azure/azure-event-hubs-dotnet) - .NET Standard client library for Azure Event Hubs.
 * [DarkSkyCore ★16](https://github.com/amweiss/dark-sky-core) - A .NET Standard wrapper for the [Dark Sky API](https://darksky.net/dev/docs).
 * [NBitcoin ★563](https://github.com/MetacoSA/NBitcoin) - Comprehensive Bitcoin library for the .NET framework.
@@ -440,14 +440,14 @@ Thanks to all [contributors](https://github.com/thangchung/awesome-dotnet-core/g
 * [json2csharp](http://json2csharp.com) - Generate C# classes from JSON.
 * [OctoLinker ★2359](https://github.com/OctoLinker/browser-extension) - Navigate through `projects.json` files efficiently with the OctoLinker browser extension for GitHub.
 * [Opserver ★3193](https://github.com/opserver/Opserver) - Stack Exchange's Monitoring System.
-* [ShareX ★6503](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. [https://getsharex.com](https://getsharex.com)
+* [ShareX ★6645](https://github.com/ShareX/ShareX) - Free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from. [https://getsharex.com](https://getsharex.com)
 * [X.Web.Sitemap ★18](https://github.com/dncuug/X.Web.Sitemap) – Simple sitemap generator for .NET and .NET Core
 * [X.Web.RSS ★6](https://github.com/dncuug/X.Web.RSS) – Simple RSS Feed generator for .NET and .NET Core
 
 ### Web Framework
 * [Blazor ★1501](https://github.com/SteveSanderson/Blazor) - UI framework running .NET in the browser via WebAssembly.
 * [ReactJS.NET ★1254](https://github.com/reactjs/React.NET) - .NET library for JSX compilation and server-side rendering of React components.
-* [redux.NET](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux ★34851](https://github.com/reactjs/redux).
+* [redux.NET](https://github.com/GuillaumeSalles/redux.NET) - Predictable state container for .NET apps. Inspired by [https://github.com/reactjs/redux ★35718](https://github.com/reactjs/redux).
 
 ### Web Socket
 * [SignalR Server ★1151](https://github.com/aspnet/signalr) - Real-time web functionality for web apps, including server-side push.

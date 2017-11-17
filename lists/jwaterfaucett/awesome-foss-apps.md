@@ -58,7 +58,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Ghost provides a simple publishing platform for bloggers. The code contains an emberjs client and node server backend that handle authorization, role management, tagging, blog posting, data persistence, and most things you'd expect from a quality blogging platform. The only thing that Ghost doesn't handle is i18n. It also contains a comprehensive test suite with both integration and unit tests that hit the whole ember/node stack.
 
-### [Gitlab ★19958](https://github.com/gitlabhq/gitlabhq)
+### [Gitlab ★20083](https://github.com/gitlabhq/gitlabhq)
 
 * ruby, rails, coffescript, redis, sidekiq,
 * MIT License
@@ -120,21 +120,21 @@ This list is for developers who are looking for non-trivial quality applications
 ### Games
 ----
 
-### [0ad ★996](https://github.com/0ad/0ad)
+### [0ad ★1001](https://github.com/0ad/0ad)
 
 * c++, python
 * GPLv2 License
 
 > 0 A.D is a cross-platform real-time strategy game of ancient warfare. Every aspect of the game's implementation is modern and impressive - from the AI to the graphics. It also has an embedded SpiderMonkey scripting engine, which is a great example for adding js scriptability to an existing cpp project.
 
-### [Hedgewars ★191](https://github.com/hedgewars/hw)
+### [Hedgewars ★199](https://github.com/hedgewars/hw)
 
 * c, c++, pascal, haskell
 * GPLv2 License
 
 > Hedgewars is a 2D turn-based strategy game like worms but with hedgehogs. Its graphics, animation, and gameplay can compete with worms on every level. The game server is an impressive real-world example of Haskell and the frontend provides a clean interface between QT and the backend game.
 
-### [Wesnoth ★1211](https://github.com/wesnoth/wesnoth)
+### [Wesnoth ★1250](https://github.com/wesnoth/wesnoth)
 
 * c, c++, lua
 * GPLv2 License

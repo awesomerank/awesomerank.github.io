@@ -235,7 +235,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Open CV](http://opencv.org/)
 * [mexopencv](http://kyamagu.github.io/mexopencv/)
 * [SimpleCV](http://simplecv.org/)
-* [Open source Python module for computer vision ★1181](https://github.com/jesolem/PCV)
+* [Open source Python module for computer vision ★1208](https://github.com/jesolem/PCV)
 * [ccv: A Modern Computer Vision Library ★5981](https://github.com/liuliu/ccv)
 * [VLFeat](http://www.vlfeat.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
@@ -256,7 +256,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [Clustering Views for Multi-view Stereo](http://www.di.ens.fr/cmvs/)
 * [Floating Scale Surface Reconstruction](http://www.gris.informatik.tu-darmstadt.de/projects/floating-scale-surface-recon/)
 * [Large-Scale Texturing of 3D Reconstructions](http://www.gcc.tu-darmstadt.de/home/proj/texrecon/)
-* [Awesome 3D reconstruction list ★501](https://github.com/openMVG/awesome_3DReconstruction_list)
+* [Awesome 3D reconstruction list ★546](https://github.com/openMVG/awesome_3DReconstruction_list)
 
 
 #### Feature Detection and Extraction
@@ -272,10 +272,10 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
   * A. Alahi, R. Ortiz, and P. Vandergheynst, "FREAK: Fast Retina Keypoint", CVPR 2012
 * [AKAZE](http://www.robesafe.com/personal/pablo.alcantarilla/kaze.html)
   * Pablo F. Alcantarilla, Adrien Bartoli and Andrew J. Davison, "KAZE Features", ECCV 2012
-* [Local Binary Patterns ★65](https://github.com/nourani/LBP)
+* [Local Binary Patterns ★67](https://github.com/nourani/LBP)
 
 #### High Dynamic Range Imaging
-* [HDR_Toolbox ★59](https://github.com/banterle/HDR_Toolbox)
+* [HDR_Toolbox ★63](https://github.com/banterle/HDR_Toolbox)
 
 #### Semantic Segmentation
 * [List of Semantic Segmentation algorithms](http://www.it-caesar.com/list-of-contemporary-semantic-segmentation-datasets/)
@@ -407,7 +407,7 @@ Non-uniform Deblurring
  * [SEEDS](http://www.mvdblive.org/seeds/)
  * [SEEDS Revised ★27](https://github.com/davidstutz/seeds-revised)
  * [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
- * [Fast Edge Detection Using Structured Forests ★361 ⏳1Y](https://github.com/pdollar/edges)
+ * [Fast Edge Detection Using Structured Forests ★371 ⏳1Y](https://github.com/pdollar/edges)
 
 #### Interactive Image Segmentation
  * [Random Walker](http://cns.bu.edu/~lgrady/software.html)
@@ -437,19 +437,19 @@ Non-uniform Deblurring
 ###### Tracking/Odometry:
  * [LIBVISO2: C++ Library for Visual Odometry 2](http://www.cvlibs.net/software/libviso/)
  * [PTAM: Parallel tracking and mapping](http://www.robots.ox.ac.uk/~gk/PTAM/)
- * [KFusion: Implementation of KinectFusion ★84 ⏳2Y](https://github.com/GerhardR/kfusion)
- * [kinfu_remake: Lightweight, reworked and optimized version of Kinfu. ★105](https://github.com/Nerei/kinfu_remake)
+ * [KFusion: Implementation of KinectFusion ★87 ⏳2Y](https://github.com/GerhardR/kfusion)
+ * [kinfu_remake: Lightweight, reworked and optimized version of Kinfu. ★111](https://github.com/Nerei/kinfu_remake)
  * [LVR-KinFu: kinfu_remake based Large Scale KinectFusion with online reconstruction](http://las-vegas.uni-osnabrueck.de/related-projects/lvr-kinfu/)
  * [InfiniTAM: Implementation of multi-platform large-scale depth tracking and fusion](http://www.robots.ox.ac.uk/~victor/infinitam/)
  * [VoxelHashing: Large-scale KinectFusion](https://github.com/nachtmar/VoxelHashing)
  * [SLAMBench: Multiple-implementation of KinectFusion](http://apt.cs.manchester.ac.uk/projects/PAMELA/tools/SLAMBench/)
- * [SVO: Semi-direct visual odometry ★793](https://github.com/uzh-rpg/rpg_svo)
- * [DVO: dense visual odometry ★244 ⏳1Y](https://github.com/tum-vision/dvo_slam)
+ * [SVO: Semi-direct visual odometry ★813](https://github.com/uzh-rpg/rpg_svo)
+ * [DVO: dense visual odometry ★251 ⏳1Y](https://github.com/tum-vision/dvo_slam)
  * [FOVIS: RGB-D visual odometry](https://code.google.com/p/fovis/)
 
 ###### Graph Optimization:
  * [GTSAM: General smoothing and mapping library for Robotics and SFM](https://collab.cc.gatech.edu/borg/gtsam?destination=node%2F299) -- Georgia Institute of Technology
- * [G2O: General framework for graph optomization ★563](https://github.com/RainerKuemmerle/g2o)
+ * [G2O: General framework for graph optomization ★583](https://github.com/RainerKuemmerle/g2o)
 
 ###### Loop Closure:
  * [FabMap: appearance-based loop closure system](http://www.robots.ox.ac.uk/~mjc/Software.htm) - also available in [OpenCV2.4.11](http://docs.opencv.org/2.4/modules/contrib/doc/openfabmap.html)
@@ -457,8 +457,8 @@ Non-uniform Deblurring
 
 ###### Localization & Mapping:
  * [RatSLAM](https://code.google.com/p/ratslam/)
- * [LSD-SLAM ★1179](https://github.com/tum-vision/lsd_slam)
- * [ORB-SLAM ★581](https://github.com/raulmur/ORB_SLAM)
+ * [LSD-SLAM ★1211](https://github.com/tum-vision/lsd_slam)
+ * [ORB-SLAM ★590](https://github.com/raulmur/ORB_SLAM)
 
 #### Single-view Spatial Understanding
  * [Geometric Context](http://web.engr.illinois.edu/~dhoiem/projects/software.html) - Derek Hoiem (CMU)
@@ -469,13 +469,13 @@ Non-uniform Deblurring
 #### Object Detection
  * [INRIA Object Detection and Localization Toolkit](http://pascal.inrialpes.fr/soft/olt/)
  * [Discriminatively trained deformable part models](http://www.cs.berkeley.edu/~rbg/latent/)
- * [VOC-DPM ★395](https://github.com/rbgirshick/voc-dpm)
+ * [VOC-DPM ★401](https://github.com/rbgirshick/voc-dpm)
  * [Histograms of Sparse Codes for Object Detection](http://www.ics.uci.edu/~dramanan/software/sparse/)
- * [R-CNN: Regions with Convolutional Neural Network Features ★1169](https://github.com/rbgirshick/rcnn)
- * [SPP-Net ★257 ⏳1Y](https://github.com/ShaoqingRen/SPP_net)
+ * [R-CNN: Regions with Convolutional Neural Network Features ★1234](https://github.com/rbgirshick/rcnn)
+ * [SPP-Net ★264 ⏳1Y](https://github.com/ShaoqingRen/SPP_net)
  * [BING: Objectness Estimation](http://mmcheng.net/bing/comment-page-9/)
- * [Edge Boxes ★361 ⏳1Y](https://github.com/pdollar/edges)
- * [ReInspect ★352 ⏳1Y](https://github.com/Russell91/ReInspect)
+ * [Edge Boxes ★371 ⏳1Y](https://github.com/pdollar/edges)
+ * [ReInspect ★354 ⏳1Y](https://github.com/Russell91/ReInspect)
 
 #### Nearest Neighbor Search
 
@@ -529,7 +529,7 @@ Non-uniform Deblurring
  * [GTSAM](https://collab.cc.gatech.edu/borg/gtsam/) - Factor graph based lease-square optimization solver
 
 #### Deep Learning
- * [Awesome Deep Vision ★5253](https://github.com/kjw0612/awesome-deep-vision)
+ * [Awesome Deep Vision ★5437](https://github.com/kjw0612/awesome-deep-vision)
 
 #### Machine Learning
  * [Awesome Machine Learning ★27278](https://github.com/josephmisiti/awesome-machine-learning)

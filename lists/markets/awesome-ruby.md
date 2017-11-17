@@ -241,10 +241,10 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Captchas and anti-spam
 
-* [Invisible Captcha ★349](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
+* [Invisible Captcha ★348](https://github.com/markets/invisible_captcha) - Unobtrusive and flexible spam protection based on the honeypot strategy. It also provides a time-sensitive form submission.
 * [Rakismet ★332](https://github.com/joshfrench/rakismet) - Easy Akismet and TypePad AntiSpam integration for Rails.
-* [reCAPTCHA ★1338](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
-* [Voight-Kampff ★99 ⏳1Y](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
+* [reCAPTCHA ★1340](https://github.com/ambethia/recaptcha) - reCaptcha API helpers for ruby apps.
+* [Voight-Kampff ★101 ⏳1Y](https://github.com/biola/Voight-Kampff) - A Ruby gem that detects bots, spiders, crawlers and replicants.
 
 ## CLI Builder
 
@@ -274,7 +274,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 
 ## Cloud
 
-* [AWS SDK for Ruby ★2461](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
+* [AWS SDK for Ruby ★2487](https://github.com/aws/aws-sdk-ruby) - The official AWS SDK for Ruby.
 * [browse-everything](https://github.com/projecthydra/browse-everything) - Multi-provider Rails engine providing access to files in cloud storage.
 * [Fog ★4068](https://github.com/fog/fog) - The Ruby cloud services library.
 
@@ -411,7 +411,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 * [connection_pool ★953](https://github.com/mperham/connection_pool) - Generic connection pooling for Ruby, that can be used with anything, e.g. Redis, Dalli, etc.
 * [Database Cleaner ★2157](https://github.com/DatabaseCleaner/database_cleaner) - Database Cleaner is a set of strategies for cleaning your database in Ruby.
-* [Foreigner ★1353](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
+* [Foreigner ★1353 ⏳1Y](https://github.com/matthuhiggins/foreigner) - Adds foreign key helpers to migrations and correctly dumps foreign keys to schema.rb.
 * [Large Hadron Migrator ★1443](https://github.com/soundcloud/lhm) - Online MySQL schema migrations without locking the table.
 * [Lol DBA ★838](https://github.com/plentz/lol_dba) - Scan your models and displays a list of columns that probably should be indexed.
 * [Polo ★548](https://github.com/IFTTT/polo) - Creates sample database snapshots to work with real world data in development.
@@ -691,7 +691,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Clipboard ★232](https://github.com/janlelis/clipboard) - Access to the system clipboard on Linux, MacOS and Windows.
 * [Hirb ★1430](https://github.com/cldwalker/hirb) - A mini view framework for console/irb that's easy to use, even while under its influence. Console goodies include a no-wrap table, auto-pager, tree and menu.
 * [irbtools ★728](https://github.com/janlelis/irbtools) - Improvements for Ruby's IRB.
-* [Looksee ★332 ⏳1Y](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
+* [Looksee ★335 ⏳1Y](https://github.com/oggy/looksee) - A tool for illustrating the ancestry and method lookup path of objects. Handy for exploring unfamiliar codebases.
 * [Pry ★4880](https://github.com/pry/pry) - A powerful alternative to the standard IRB shell for Ruby.
 
 ## Logging
@@ -709,7 +709,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Machine Learning
 
-* [Awesome Machine Learning with Ruby ★673](https://github.com/arbox/machine-learning-with-ruby) - A Curated List of Ruby Machine Learning Links and Resources.
+* [Awesome Machine Learning with Ruby ★717](https://github.com/arbox/machine-learning-with-ruby) - A Curated List of Ruby Machine Learning Links and Resources.
 * [PredictionIO Ruby SDK](https://github.com/PredictionIO/PredictionIO-Ruby-SDK) - The PredictionIO Ruby SDK provides a convenient API to quickly record your users' behavior and retrieve personalized predictions for them.
 * [rb-libsvm ★254 ⏳2Y](https://github.com/febeling/rb-libsvm) - Ruby language bindings for LIBSVM. SVM is a machine learning and classification algorithm.
 * [Ruby Datumbox Wrapper ★11 ⏳3Y](https://github.com/marloncarvalho/ruby-datumbox) - It's a simple Ruby Datumbox Wrapper. At the moment the API currently allows you to build applications that make use of machine learning algorithms.
@@ -739,7 +739,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Music and Sound
 
-* [Sonic Pi ★2341](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
+* [Sonic Pi ★2415](https://github.com/samaaron/sonic-pi) - A live coding synth for everyone originally designed to support computing and music lessons.
 * [play ►](https://github.com/play/play) - Your company's dj.
 
 ## Natural Language Processing
@@ -911,12 +911,12 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Bunny ★858](https://github.com/ruby-amqp/bunny) - Bunny is a popular, easy to use, well-maintained Ruby client for RabbitMQ (3.3+).
 * [Delayed::Job ★4199](https://github.com/collectiveidea/delayed_job) - Database backed asynchronous priority queue.
 * [Gush ★662](https://github.com/chaps-io/gush) - A parallel runner for complex workflows using only Redis and Sidekiq.
-* [Karafka ★450](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
+* [Karafka ★524](https://github.com/karafka/karafka) - Framework used to simplify Apache Kafka (a distributed streaming platform) based Ruby applications development.
 * [March Hare ★82](https://github.com/ruby-amqp/march_hare) - Idiomatic, fast and well-maintained JRuby client for RabbitMQ.
 * [Resque ★8005](https://github.com/resque/resque) - A Redis-backed Ruby library for creating background jobs.
 * [Que ★1160](https://github.com/chanks/que) - A Ruby job queue that uses PostgreSQL's advisory locks for speed and reliability.
 * [RocketJob](http://rocketjob.io) - Enterprise Batch Processing System focused on performance, scalability, reliability, and visibility of every job in the system. Outgrown existing solutions? Or, start small and scale up later.
-* [Shoryuken ★1072](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
+* [Shoryuken ★1091](https://github.com/phstc/shoryuken) - A super efficient AWS SQS thread based message processor for Ruby.
 * [Sidekiq](http://sidekiq.org) - A full-featured background processing framework for Ruby. It aims to be simple to integrate with any modern Rails application and much higher performance than other existing solutions.
 * [Sneakers ★1550](https://github.com/jondot/sneakers) - A fast background processing framework for Ruby and RabbitMQ.
 * [Sucker Punch ★2148](https://github.com/brandonhilkert/sucker_punch) - A single process background processing library using Celluloid. Aimed to be Sidekiq's little brother.
@@ -1180,7 +1180,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Hyperloop](http://ruby-hyperloop.org/) - A Complete Isomorphic Ruby Framework using React, Rails and Opal
 * [Padrino](http://www.padrinorb.com) - A full-stack ruby framework built upon Sinatra.
 * [Pakyow](https://www.pakyow.org/) - A framework for building modern web-apps in Ruby. It helps you build working software faster with a development process that remains friendly to both designers and developers.
-* [Rack::App ★329](https://github.com/rack-app/rack-app) - Bare bone minimalistic framework for building rack apps.
+* [Rack::App ★332](https://github.com/rack-app/rack-app) - Bare bone minimalistic framework for building rack apps.
 * [Ramaze](http://ramaze.net/) - A simple, light and modular open-source web application framework written in Ruby.
 * [Roda](http://roda.jeremyevans.net/) - A routing tree web framework.
 * [Ruby on Rails](http://rubyonrails.org) - A web-application framework that includes everything needed to create database-backed web applications according to the Model-View-Controller (MVC) pattern.

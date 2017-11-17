@@ -309,7 +309,7 @@ List of lists.
   - [Incident Response ★1517](https://github.com/meirwah/awesome-incident-response)
 - Meta
   - [awesome ★69735](https://github.com/sindresorhus/awesome)
-  - [lists ★4518](https://github.com/jnv/lists)
+  - [lists ★4569](https://github.com/jnv/lists)
 
 # Contributing
 

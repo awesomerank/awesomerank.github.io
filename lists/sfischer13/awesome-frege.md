@@ -9,7 +9,7 @@ title: Awesome Rank for sfischer13/awesome-frege
 ---
 # Awesome Frege [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
-[<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege"> ★2885](https://github.com/Frege/frege)
+[<img src="https://github.com/Frege/frege/blob/master/resources/Frege_logo.png" align="right" width="100" alt="Frege"> ★2908](https://github.com/Frege/frege)
 
 > Useful resources for the [Frege](https://en.wikipedia.org/wiki/Frege_(programming_language)) programming language
 
@@ -65,7 +65,7 @@ You might also like [awesome-haskell ★1255](https://github.com/krispo/awesome-
 
 ### Overview
 
-- [Frege ★2885](https://github.com/Frege/frege) - Official website.
+- [Frege ★2908](https://github.com/Frege/frege) - Official website.
 - [Wikipedia](https://en.wikipedia.org/wiki/Frege_(programming_language)) - Wikipedia entry about Frege.
 
 ### First Steps
@@ -198,7 +198,7 @@ You might also like [awesome-haskell ★1255](https://github.com/krispo/awesome-
 
 - [RESTful Todo Manager ★5 ⏳1Y](https://github.com/y-taka-23/restful-todo) - Task list manager written in Frege.
 - [Play Framework ★17 ⏳2Y](https://github.com/mmhelloworld/hello-play-frege) - Play application written in Frege.
-- [Fervor ★0](https://github.com/mchav/fervor) - Server for local directories.
+- [Fervor ★0 ⏳1Y](https://github.com/mchav/fervor) - Server for local directories.
 
 ## Tools
 

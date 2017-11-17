@@ -323,7 +323,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-component - A Collection of React UI Components](http://react-component.github.io/badgeboard/)
 * [Ant Design - An enterprise-class UI design language and React-based implementation ★19478](https://github.com/ant-design/ant-design)
 * [UXCore - A React UI Component Set living for enterprise backend application ★470](https://github.com/uxcore/uxcore)
-* [react-desktop - OS X and Windows UI components built with React ★6694](https://github.com/gabrielbull/react-desktop)
+* [react-desktop - OS X and Windows UI components built with React ★6822](https://github.com/gabrielbull/react-desktop)
 * [react-aim - Determine the cursor aim for triggering mouse events ★307](https://github.com/gabrielbull/react-aim)
 * [react-uwp - React Components that Implement Microsoft's UWP Design & Fluent Design. ★365](https://github.com/myxvisual/react-uwp)
 * [react-touch - React photo viewer for mobile ★436 ⏳1Y](https://github.com/petehunt/react-touch)
@@ -601,7 +601,7 @@ A collection of awesome things regarding React ecosystem.
 * [wingspan-forms - A dynamic form library for Facebook React ★291 ⏳1Y](https://github.com/wingspan/wingspan-forms)
 * [newforms - Isomorphic form-handling for React ★634](https://github.com/insin/newforms)
 * [formjs - A form generator for Reactjs ★44 ⏳3Y](https://github.com/zackify/formjs)
-* [react-form-builder - A Form Builder for React.js ★49](https://github.com/quri/react-form-builder)
+* [react-form-builder - A Form Builder for React.js ★49 ⏳1Y](https://github.com/quri/react-form-builder)
 * [plexus-form - A dynamic form component for react using JSON-Schema ★126 ⏳2Y](https://github.com/AppliedMathematicsANU/plexus-form)
 * [tcomb-form - UI library for developing forms writing less code ★1063](https://github.com/gcanti/tcomb-form)
 * [formsy-react - A form input builder and validator for React JS ★2333](https://github.com/christianalfoni/formsy-react)
@@ -632,7 +632,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-svg-morph - morph your svg components one into another ★446](https://github.com/gorangajic/react-svg-morph)
 
 ##### Model Libraries
-* [mori - ClojureScript's persistent data structures and supporting API ★2772](https://github.com/swannodette/mori)
+* [mori - ClojureScript's persistent data structures and supporting API ★2792](https://github.com/swannodette/mori)
 * [NestedTypes - fast mutable models with "pure render" support ★95](https://github.com/Volicon/NestedTypes)
 * [swarm - JavaScript replicated model (M of MVC) library ★2251](https://github.com/gritzko/swarm)
 * [caplet - JavaScript models library](https://github.com/mojo-js/caplet.js)
@@ -694,7 +694,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-stockcharts - Highly customizable stock charts with ReactJS and d3 ★1082](https://github.com/rrag/react-stockcharts)
 * [Number Picture - Low-level React + D3 building blocks](http://numberpicture.com/library)
 * [VictoryJS - A collection of composable React components for building interactive data visualizations ★5245](https://github.com/FormidableLabs/victory)
-* [Recharts - A charting library built on D3 with an awesome declarative API ★6892](https://github.com/recharts/recharts)
+* [Recharts - A charting library built on D3 with an awesome declarative API ★7166](https://github.com/recharts/recharts)
 
 
 ---
@@ -706,7 +706,7 @@ A collection of awesome things regarding React ecosystem.
 * [React Native GitHub ★55953](https://github.com/facebook/react-native)
 * [React Native Newsletter](http://brentvatne.ca/react-native-newsletter/)
 * [React Native Playground](https://rnplay.org/)
-* [React Native Awesome List ★15194](https://github.com/jondot/awesome-react-native)
+* [React Native Awesome List ★15724](https://github.com/jondot/awesome-react-native)
 * [React Native StackOverflow](http://stackoverflow.com/questions/tagged/react-native)
 * [React Native Radio](https://devchat.tv/react-native-radio/)
 
@@ -747,7 +747,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-native-fbsdk - A wrapper around the iOS Facebook SDK ★1627](https://github.com/facebook/react-native-fbsdk)
 * [react-native-side-menu - Simple customizable component to create side menu](https://github.com/Kureev/react-native-side-menu)
 * [react-native-mapbox-gl - A Mapbox GL react native module ★1041](https://github.com/mapbox/react-native-mapbox-gl)
-* [react-native-icons - Quick and easy icons in React Native ★1138](https://github.com/corymsmith/react-native-icons)
+* [react-native-icons - Quick and easy icons in React Native ★1142](https://github.com/corymsmith/react-native-icons)
 * [react-native-vector-icons - 3000 Customizable Icons for React Native with support for NavBar/TabBar ★6489](https://github.com/oblador/react-native-vector-icons)
 * [react-native-google-signin - Google Signin for React Native](https://github.com/apptailor/react-native-google-signin)
 
@@ -818,7 +818,7 @@ A collection of awesome things regarding React ecosystem.
 > Predictable State Container for JavaScript Apps
 
 #### Redux General Resources
-* [Redux GitHub ★34851](https://github.com/reactjs/redux)
+* [Redux GitHub ★35718](https://github.com/reactjs/redux)
 * [Redux Official Site](http://redux.js.org/)
 * [Awesome Redux List ★9651](https://github.com/xgrommx/awesome-redux)
 
@@ -864,7 +864,7 @@ A collection of awesome things regarding React ecosystem.
 > Simple, scalable state management for JavaScript Apps
 
 #### MobX General Resources
-* [MobX GitHub ★11524](https://github.com/mobxjs/mobx)
+* [MobX GitHub ★11967](https://github.com/mobxjs/mobx)
 * [MobX Official Site](https://mobxjs.github.io/mobx/)
 
 #### MobX Tools
@@ -1110,7 +1110,7 @@ A collection of awesome things regarding React ecosystem.
 * [webbylab/itsquiz-wall ★463](https://github.com/webbylab/itsquiz-wall)
 * [brainfock/brainfock ★320](https://github.com/brainfock/brainfock)
 * [HVF/franchise ★2972](https://github.com/HVF/franchise)
-* [KELiON/cerebro ★3967](https://github.com/KELiON/cerebro)
+* [KELiON/cerebro ★4105](https://github.com/KELiON/cerebro)
 
 ---
 ### Contribution

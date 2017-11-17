@@ -88,7 +88,7 @@ It includes a command-line shell and an associated scripting language.
 - [TabExpansionPlusPlus ★106](https://github.com/lzybkr/TabExpansionPlusPlus) - PowerShell module to make customizing tab completion easier and add a library of custom argument completers.
 - [Jump-Location](https://github.com/tkellogg/Jump-Location) - Powershell `cd` that reads your mind. [Autojump ★5993](https://github.com/wting/autojump) implementation for powershell.
 - [Zlocation](https://github.com/vors/ZLocation) - [z.sh ★7348](https://github.com/rupa/z) implementation for PowerShell. Similar to Jump-Location.
-- [thefuck ★31499](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
+- [thefuck ★32099](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command (by typing `fuck`).
 - [pslinq ★28 ⏳3Y](https://github.com/manojlds/pslinq) - LINQ (LINQ2Objects) for Powershell.
 - [posh-with ★5 ⏳1Y](https://github.com/JanJoris/posh-with) - Command prefixing for continuous workflow using a single tool.
 - [poco](https://gist.github.com/yumura/8df37c22ae1b7942dec7) - [peco ★4162](https://github.com/peco/peco) implementation. Interactive filtering tool.

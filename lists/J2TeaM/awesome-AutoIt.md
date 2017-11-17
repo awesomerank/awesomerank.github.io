@@ -452,13 +452,13 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 - [awesome ★69735](https://github.com/sindresorhus/awesome) by @sindresorhus
 - [awesome-all ★99](https://github.com/bradoyler/awesome-all) by @bradoyler
-- [awesome-awesome ★921](https://github.com/emijrp/awesome-awesome) by @emijrp
+- [awesome-awesome ★947](https://github.com/emijrp/awesome-awesome) by @emijrp
 - [awesome-awesome ★145](https://github.com/erichs/awesome-awesome) by @erichs
 - [awesome-awesome ★62](https://github.com/oyvindrobertsen/awesome-awesome) by @oyvindrobertsen
 - [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) by @bayandin
 - [awesome-awesomes ★482](https://github.com/fleveque/awesome-awesomes) by @fleveque
 - [awesome-collection ★97](https://github.com/flyhigher139/awesome-collection) by @flyhigher139
-- [lists ★4518](https://github.com/jnv/lists) by @jnv
+- [lists ★4569](https://github.com/jnv/lists) by @jnv
 
 [[Back to Top](#awesome-autoit)]
 ---

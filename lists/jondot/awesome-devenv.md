@@ -76,13 +76,13 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Data
 *Tools for handling online and offline data*
 
-* [s3cmd ★2418](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
+* [s3cmd ★2452](https://github.com/s3tools/s3cmd) - the S3 CLI tool for Amazon
 
 
 ## Diagnostics
 *Tools for checking diagnosing your system while you work*
 
-* [glances ★8384](https://github.com/nicolargo/glances)
+* [glances ★8631](https://github.com/nicolargo/glances)
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
 
 
@@ -130,16 +130,16 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [AdvancedNewFile ★722](https://github.com/skuroda/Sublime-AdvancedNewFile) - File creation plugin.
 * [Emmet ★5036](https://github.com/sergeche/emmet-sublime)
-* [Git Gutter ★3595](https://github.com/jisaacks/GitGutter) - display changed/added lines in the margin of the editor window.
-* [jsFormat ★1299](https://github.com/jdc0589/JsFormat) - Javascript formatting.
+* [Git Gutter ★3615](https://github.com/jisaacks/GitGutter) - display changed/added lines in the margin of the editor window.
+* [jsFormat ★1302](https://github.com/jdc0589/JsFormat) - Javascript formatting.
 * [LiveReload](https://github.com/dz0ny/LiveReload-sublimetext2) - LiveReload plugin.
-* [MarkdownEditing ★2175](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes.
+* [MarkdownEditing ★2202](https://github.com/SublimeText-Markdown/MarkdownEditing) - Markdown syntax understanding and good color schemes.
 * [Package Control](https://sublime.wbond.net/installation) - The Sublime Text package manager.
 * [RubyTest ★748](https://github.com/maltize/sublime-text-2-ruby-tests) - Plugin for running Ruby tests.
-* [Side Bar Enhancments ★104](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
+* [Side Bar Enhancments ★107](https://github.com/titoBouzout/SideBarEnhancements) - Enhancements to Sublime Text sidebar. Files and folders.
 * [Sublime Git ★2717](https://github.com/kemayo/sublime-text-git) - Git Integration for Sublime.
-* [Sublime Linter ★1364](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting.
-* [TrailingSpaces ★809](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
+* [Sublime Linter ★1387](https://github.com/SublimeLinter/SublimeLinter3) - Interactive code linting.
+* [TrailingSpaces ★815](https://github.com/SublimeText/TrailingSpaces) - Highlight trailing spaces and delete them in a flash.
 
 ### Intellij
 
@@ -169,16 +169,16 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 ## Orchestration
 *Tools for orchestrating awesome development environments*
 
-* [azk ★823](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
+* [azk ★826](https://github.com/azukiapp/azk) - a lightweight open source engine to orchestrate development environments
 * [Nanobox ★1069](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere https://nanobox.io.
 
 ## Presentation
 *Tools for presenting your work*
 
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
-* [impress.js ★32467](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
+* [impress.js ★32658](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
 * [remark ★6791](https://github.com/gnab/remark) - markdown based presentation on your browser
-* [reveal.js ★37007](https://github.com/hakimel/reveal.js) - markdown based presentation on your browser
+* [reveal.js ★37574](https://github.com/hakimel/reveal.js) - markdown based presentation on your browser
 * [deck.js ★5204](https://github.com/imakewebthings/deck.js) - markdown based presentation on your browser
 * [vimdeck ★1089](https://github.com/tybenz/vimdeck) - present inside your Vim
 * [WebSlides](https://github.com/jlantunez/webslides) - Making HTML presentations easy
@@ -188,11 +188,11 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - List of zsh plugins usable with [zgen](https://github.com/tarjoilija/zgen) and other [oh-my-zsh ★60452](https://github.com/robbyrussell/oh-my-zsh) compatible zsh frameworks
 * [fish-shell ★8339](https://github.com/fish-shell/fish-shell) - The user-friendly command line shell
-* [oh-my-fish ★2702](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh.
+* [oh-my-fish ★2812](https://github.com/oh-my-fish/oh-my-fish) - Framework for managing your fish shell configuration inspired by oh-my-zsh.
 * [oh-my-zsh ★60452](https://github.com/robbyrussell/oh-my-zsh) - A community driven framework for managing zsh configuration.
-* [zgen ★802](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
+* [zgen ★812](https://github.com/tarjoilija/zgen) - Faster framework for managing your zsh configuration, backward compatible with oh-my-zsh plugins
 * [zsh](http://www.zsh.org/) - A shell designed for interactive use, although it is also a powerful scripting language.
-* [shellcheck ★9016](https://github.com/koalaman/shellcheck) - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts
+* [shellcheck ★9318](https://github.com/koalaman/shellcheck) - Lint for shell. Will find deprecated and/or dangerous usage in shell scripts
 * [zsh quickstart kit ★118](https://github.com/unixorn/zsh-quickstart-kit) - Quick intro for getting set up with zsh and zgen
 
 ## Text

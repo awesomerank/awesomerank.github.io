@@ -124,7 +124,7 @@ These frameworks make customizing your zsh setup easier.
 
 **oh-my-zsh** is a community-driven framework for managing your zsh configuration. Includes 120+ optional plugins (rails, git, macOS, hub, capistrano, brew, ant, macports, etc), over 120 themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
 
-### [prezto ★8128](https://github.com/sorin-ionescu/prezto)
+### [prezto ★8253](https://github.com/sorin-ionescu/prezto)
 
 **Prezto** enriches the ZSH command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 
@@ -136,7 +136,7 @@ These frameworks make customizing your zsh setup easier.
 
 **Zeesh** is a cross-platform Zsh framework. It's similar to, but incompatible with, oh-my-zsh. It has a modular plugin architecture making it easy to extend. It has a rich set of defaults, but is designed to be as lightweight as possible.
 
-### [zgen ★802](https://github.com/tarjoilija/zgen)
+### [zgen ★812](https://github.com/tarjoilija/zgen)
 
 **Zgen** is a lightweight plugin manager for ZSH inspired by Antigen. The goal is to have a minimal overhead when starting up the shell because nobody likes waiting. The script generates a static `init.zsh` file which does nothing but source your plugins and append them to your `fpath`. The downside is that you have to refresh the init script manually with `zgen reset` whenever you update your `.zshrc`. Can load oh-my-zsh compatible plugins and themes, and will automagically clone them for you when you add them to your plugin list.
 
@@ -249,7 +249,7 @@ These frameworks make customizing your zsh setup easier.
 * [bash ★14 ⏳3Y](https://github.com/chrissicool/zsh-bash) - Makes ZSH more Bash compatible. It redefines the source command to act more like Bash does. It also enables Bash completions.
 * [bd ★229](https://github.com/Tarrasch/zsh-bd) - Jump back to a specific directory, without doing `cd ../../..`.
 * [bitbucket-git-helpers ★8](https://github.com/unixorn/bitbucket-git-helpers.plugin.zsh) - Adds helper scripts to allow you to create bitbucket PRs or open a directory in the current branch.
-* [blackbox ★3784](https://github.com/StackExchange/blackbox) - Stack Exchange's toolkit for storing keys/credentials securely in a git repository.
+* [blackbox ★3847](https://github.com/StackExchange/blackbox) - Stack Exchange's toolkit for storing keys/credentials securely in a git repository.
 * [branch-manager ★1](https://github.com/elstgav/branch-manager) - A plugin for managing git branches.
 * [browse-commit ★11 ⏳1Y](https://github.com/adolfoabegg/browse-commit) - A plugin that lets you open any commit in your browser from the command line.
 * [bumblebee ★0](https://github.com/Niverton/zsh-bumblebee-plugin) - A plugin to toggle optirun in the command line.
@@ -279,7 +279,7 @@ These frameworks make customizing your zsh setup easier.
 * [diractions ★11](https://github.com/AdrieanKhisbe/diractions) - Allow you to map a short logical/mnemonic name to directories to quickly access them, or perform actions in them.
 * [dircolors-solarized ★31 ⏳1Y](https://github.com/joel-porquet/zsh-dircolors-solarized) - Solarized dircolors plugin.
 * [dircycle ★0](https://github.com/michaelxmcbride/zsh-dircycle) - Cycle through the directory stack.
-* [directory-history ★80](https://github.com/tymm/zsh-directory-history) - A per directory history for ZSH.
+* [directory-history ★80 ⏳1Y](https://github.com/tymm/zsh-directory-history) - A per directory history for ZSH.
 * [dirstack ★1 ⏳2Y](https://github.com/gepoch/oh-my-zsh-dirstack) - Plugin for displaying dirstack info on a single line.
 * [docker-aliases ★0](https://github.com/webyneter/docker-aliases) Docker aliases for everyday use.
 * [docker-compose ★24 ⏳1Y](https://github.com/sroze/docker-compose-zsh-plugin) Show docker container status in your prompt.
@@ -510,7 +510,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [codeception-zsh-plugin ★10 ⏳2Y](https://github.com/shengyou/codeception-zsh-plugin) - Adds command completion for the Codeception Testing Framework.
 * [codemachine ★3 ⏳3Y](https://github.com/CodeMonkeyMike/ZshTheme-CodeMachine) - Displays git info, whether you're logged in via ssh, return code of last command.
 * [dbic ★0 ⏳3Y](https://github.com/lejeunerenard/dbic-migration-env) - Automatically sets up Environment variables for DBIx::Class::Migration's script and Dancer.
-* [docker-enter-completion](https://github.com/primait/docker-enter-completion) - Command completion for [docker-enter ★1818 ⏳1Y](https://github.com/jpetazzo/nsenter).
+* [docker-enter-completion](https://github.com/primait/docker-enter-completion) - Command completion for [docker-enter ★1838 ⏳1Y](https://github.com/jpetazzo/nsenter).
 * [docker-zsh-completion ★212](https://github.com/felixr/docker-zsh-completion) - Add completions for docker.
 * [dropbox](https://github.com/horosgrisa/zsh-dropbox) - A dropbox plugin for Zsh that provides `dropbox-cli` and `dropbox-uploader` commands.
 * [drush_zsh_completion ★41 ⏳1Y](https://github.com/webflo/drush_zsh_completion) - Drush autocomplete awesomeness for ZSH.
@@ -562,7 +562,7 @@ These plugins add tab completion without adding extra functions or aliases.
 
 ## Themes
 
-If you're using [Antigen](https://github.com/zsh-users/antigen), you can test these themes in a running ZSH with `antigen theme githubuser/repo`. If you're using [zgen ★802](https://github.com/tarjoilija/zgen), add them to your `init.zsh` with `zgen load githubuser/reponame`.
+If you're using [Antigen](https://github.com/zsh-users/antigen), you can test these themes in a running ZSH with `antigen theme githubuser/repo`. If you're using [zgen ★812](https://github.com/tarjoilija/zgen), add them to your `init.zsh` with `zgen load githubuser/reponame`.
 
 * [aaron-zsh-theme ★2 ⏳2Y](https://github.com/aaronjamesyoung/aaron-zsh-theme) - Based on the Sorin theme.
 * [absolute ★3](https://github.com/NelsonBrandao/absolute) - Very clean looking theme with git status, node version and the exit code from the last command.
@@ -689,6 +689,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [nextbike ★0](https://github.com/meierjan/nextbike-zsh-theme) - A very basic theme which just features an macOS bike icon.
 * [ningxia ★0 ⏳2Y](https://github.com/wangyandong-ningxia/ningxia.zsh-theme) - Based on af-magic.
 * [nknu ★0](https://github.com/aanc/oh-my-zsh-nknu-theme) - A simple OMZ theme.
+* [nmaxcom ★0](https://github.com/nmaxcom/nmaxcom-zsh-theme) - Minimalist ZSH theme with git decorations.
 * [nodeys ★20 ⏳1Y](https://github.com/marszall87/nodeys-zsh-theme) - Based on ys theme, with added NodeJS version (from NVM plugin).
 * [nt9 ★14](https://github.com/lenguyenthanh/nt9-oh-my-zsh-theme) - Clean, distraction free and git focused development theme. Shows path relative to git root (or ~ when outside git repo), time since last commit, current SHA, branch and branch state.
 * [odin ★68](https://github.com/tylerreckart/odin) - Odin is a git-flavored ZSH theme.
@@ -795,7 +796,7 @@ Some of the themes listed here require Powerline-compatible fonts, here are a fe
 * [Input Mono](http://input.fontbureau.com/) - A family of fonts designed specifically for code. It offers both monospaced and proportional fonts and includes powerline glyphs.
 * [Monoid](http://larsenwork.com/monoid/) - Monoid is customizable and optimized for coding with bitmap-like sharpness at 15px line-height even on low res displays.
 * [nerd fonts ★5771](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts (over 2,000 variations) & FontForge font patcher python script for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons. Includes: Droid Sans, Meslo, Source Code, AnonymousPro, Hack, ProFont, Inconsolata, and many more.
-* [Powerline patched font collection ★9598](https://github.com/powerline/fonts) - A collection of a dozen or so fonts patched to include powerline gylphs.
+* [Powerline patched font collection ★9911](https://github.com/powerline/fonts) - A collection of a dozen or so fonts patched to include powerline gylphs.
 * [Terminus](http://files.ax86.net/terminus-ttf/) - TTF version of Terminus that includes powerline glyphs.
 
 ## Installation
@@ -816,13 +817,13 @@ Most of these plugins can be installed by adding `antigen bundle githubuser/repo
 2. `git clone repo`
 3. Add the repo to your plugin list
 
-### [Prezto ★8128](https://github.com/sorin-ionescu/prezto)
+### [Prezto ★8253](https://github.com/sorin-ionescu/prezto)
 
 1. Clone the plugin into your prezto modules directory
 2. Add the plugin to your `.zpreztorc` file
 3. Open a new terminal window or tab
 
-### [Zgen ★802](https://github.com/tarjoilija/zgen)
+### [Zgen ★812](https://github.com/tarjoilija/zgen)
 
 Most of these plugins can be installed by adding `zgen load githubuser/reponame` to your .zshrc file in the same function you're doing your other `zgen load` calls in. Zgen will automatically clone the repositories for you when you do a `zgen save`.
 
@@ -844,7 +845,7 @@ I've documented some recommendations for writing a new plugin [here](https://git
 ### Other Useful Lists
 
 * [awesome-devenv ★921](https://github.com/jondot/awesome-devenv) - A curated list of awesome tools, resources and workflow tips making an awesome development environment
-* [awesome-sysadmin ★5765](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources
+* [awesome-sysadmin ★5908](https://github.com/n1trux/awesome-sysadmin) - A curated list of awesome open source sysadmin resources
 * [Terminals Are Sexy ★5354](https://github.com/k4m4/terminals-are-sexy) - A curated list for CLI lovers.
 
 Find other useful awesome-* lists at the [awesome collection ★69735](https://github.com/sindresorhus/awesome)

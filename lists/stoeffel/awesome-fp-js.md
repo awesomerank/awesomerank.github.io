@@ -33,7 +33,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 
 * [Ramda ★9880](https://github.com/ramda/ramda) – A practical functional library for JavaScript that is designed specifically for a functional programming style. A style that makes it easy to create functional pipelines and never mutates user data.
 * [Folktale](http://folktale.origamitower.com/) – A standard library for functional programming in JavaScript.
-* [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash ★26900](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods.
+* [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash ★27643](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods.
 * [functional.js](http://functionaljs.com) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 * [101 ★1504](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.
 * [fnuc ★15 ⏳1Y](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
@@ -44,7 +44,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [1-liners ★478](https://github.com/1-liners/1-liners) – Functional tools that couldn’t be simpler. A dead simple functional utility belt, hand-crafted with love and attention.
 * [fn-curry ★5 ⏳3Y](https://github.com/thunklife/fn-curry) – A simple function to curry a function.
 * [curry ★72 ⏳1Y](https://github.com/thisables/curry) – Curry your functions using function bind syntax.
-* [compose-function ★29 ⏳1Y](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
+* [compose-function ★30 ⏳1Y](https://github.com/stoeffel/compose-function) – Compose a new function from smaller functions.
 * [functionize ★43 ⏳2Y](https://github.com/paldepind/functionize) – A collection of functions which aid in making non-functional libraries functional.
 * [lambdajs ★124 ⏳3Y](https://github.com/loop-recur/lambdajs) – The full ECMAScript API done a functional way.
 * [fp-dom](https://github.com/fp-dom/) – Making the DOM functional.
@@ -57,7 +57,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [FPO.js ★266](https://github.com/getify/fpo) – FP library for JavaScript by Kyle Simpson (aka getify). Supports named-argument style methods.
 * [Javascript Parser Combinator](https://github.com/d-plaindoux/parsec) – Javascript parser combinator implementation inspired by the Haskell's Parsec
 * [fun-task ★214](https://github.com/rpominov/fun-task) – An abstraction for managing asynchronous code in JS. Tasks are similar to Promises with the key difference that Tasks can represent a computation while Promises can represent only the results of a computation. Ships with Flow type definitions.
-* [most ★2351](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
+* [most ★2411](https://github.com/cujojs/most) – Ultra-high performance reactive programming to help you compose asynchronous operations on streams of values and events without many of the hazards of side effects and mutable shared state.
 * [zen-signals ★6](https://github.com/joaomilho/zen-signals) – ☯ The simplest signal library possible
 * [funfix ★266](https://github.com/funfix/funfix) – Funfix is a library of type classes and data types for Functional Programming in JavaScript, TypeScript and Flow.
 
@@ -67,7 +67,7 @@ Write performant functional code by using the right data structures for the task
 
 * [Icepick ★301](https://github.com/aearly/icepick) Utilities for treating frozen JavaScript objects as persistent immutable collections
 * [Immutable.js ★21354](https://github.com/facebook/immutable-js) – Immutable persistent data collections.
-* [Mori ★2772](https://github.com/swannodette/mori) – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
+* [Mori ★2792](https://github.com/swannodette/mori) – ClojureScript’s persistent data structures and supporting API from the comfort of vanilla JavaScript.
 * [Baobab ★2698](https://github.com/Yomguithereal/baobab) – persistent and optionally immutable data tree with cursors.
 * [immutable-sequence.js](https://github.com/qiao/immutable-sequence.js) –  High performance implementation of Immutable Sequence in JavaScript, based on [Finger Trees ★18 ⏳1Y](https://github.com/qiao/fingertree.js).
 * [Timm](http://guigrpa.github.io/timm/) – Immutability helpers with fast reads and acceptable writes.

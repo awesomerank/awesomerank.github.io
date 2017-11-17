@@ -157,11 +157,11 @@ A curated list of awesome OpenGL libraries, debuggers and resources.
 
 *Similar awesome lists*
 * [awesome ★69735](https://github.com/sindresorhus/awesome) - A curated list of awesome lists.
-* [awesome-computer-vision ★3338](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
-* [awesome-webgl ★142](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
-* [awesome-vulkan ★622](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
-* [gamedev ★4245](https://github.com/ellisonleao/magictools) - A awesome list about game development.
-* [graphics-resources ★1042 ⏳1Y](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
+* [awesome-computer-vision ★3738](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources.
+* [awesome-webgl ★157](https://github.com/sjfricke/awesome-webgl) - A curated list of awesome WebGL libraries, resources and much more.
+* [awesome-vulkan ★646](https://github.com/vinjn/awesome-vulkan) - A curated list of awesome Vulkan projects and ecosystem.
+* [gamedev ★4345](https://github.com/ellisonleao/magictools) - A awesome list about game development.
+* [graphics-resources ★1055 ⏳1Y](https://github.com/mattdesl/graphics-resources) - A list of graphic programming resources.
 
 
 ## License

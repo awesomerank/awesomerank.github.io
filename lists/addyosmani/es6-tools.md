@@ -11,8 +11,8 @@ title: Awesome Rank for addyosmani/es6-tools
 
 ## Transpilers
 
-* [Babel ★23019](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime
-* [Traceur compiler ★7451 ⏳1Y](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
+* [Babel ★24086](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime
+* [Traceur compiler ★7478](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
 * [es6ify ★604](https://github.com/thlorenz/es6ify) - Traceur compiler wrapped as a [Browserify](http://browserify.org/) v2 transform
 * [babelify ★1462](https://github.com/babel/babelify) - Babel transpiler wrapped as a [Browserify](http://browserify.org/) transform
 * [es6-transpiler ★222 ⏳2Y](https://github.com/termi/es6-transpiler) - ES6 > ES5. Includes classes, destructuring, default parameters, spread
@@ -126,7 +126,7 @@ title: Awesome Rank for addyosmani/es6-tools
 
 ## Polyfills
 
-* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel ★23019](https://github.com/babel/babel).
+* [core-js](https://github.com/zloirock/core-js) - Modular and compact polyfills for ES6 including Symbols, Map, Set, Iterators, Promises, setImmediate, Array generics, etc. The standard library used by [Babel ★24086](https://github.com/babel/babel).
 * [es6-shim ★2397](https://github.com/paulmillr/es6-shim) - almost all new ES6 methods — from Map, Set, String, Array, Object, Object.is and more.
 * [WeakMap, Map, Set, HashMap - ES6 Collections](https://github.com/Benvie/harmony-collections)
 * Polymer's [WeakMap shim ★41 ⏳3Y](https://github.com/Polymer/WeakMap)
@@ -168,7 +168,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * [Esprima](http://esprima.org) - JavaScript parser supporting ES6, parses to [ESTree AST format ★1353](https://github.com/estree/estree)
 * [Acorn ★2907](https://github.com/ternjs/acorn) - A small, fast, JavaScript-based JavaScript parser with ES6 support, parses to [SpiderMonkey AST](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API) format.
 * [esparse ★99](https://github.com/zenparsing/esparse) - ES6 parser written in ES6.
-* [Traceur compiler ★7451 ⏳1Y](https://github.com/google/traceur-compiler) also has built-in parser available under `traceur.syntax.Parser`.
+* [Traceur compiler ★7478](https://github.com/google/traceur-compiler) also has built-in parser available under `traceur.syntax.Parser`.
 
 ## Other
 

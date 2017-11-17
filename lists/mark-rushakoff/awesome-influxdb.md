@@ -86,23 +86,24 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 Tools that generate data that feed into multiple backends, InfluxDB included.
 
-* [cAdvisor ★6296](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers
+* [cAdvisor ★6433](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers
 * [cernan ★168](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
 * [cloudwatch-sender ★53 ⏳1Y](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
-* [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine ★582](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
+* [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine ★590](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
 * [Domoticz](https://www.domoticz.com) - Open source Home Automation System
 * [gatling ★3263](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
-* [Glances ★8384](https://github.com/nicolargo/glances) - Glances an Eye on your system
+* [Glances ★8631](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [Graphios ★267](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
-* [heapster ★1500](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](https://kubernetes.io/) cluster
-* [heka ★3284 ⏳1Y](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
+* [heapster ★1561](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](https://kubernetes.io/) cluster
+* [heka ★3292 ⏳1Y](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
 * [internet_data_usage ★2 ⏳2Y](https://github.com/precurse/internet_data_usage) - Python based application to pull data plan usage for different carriers such as Telus and Koodo
+* [iobroker] (http://www.iobroker.net/) - Homeautomation / IoT Platform uses Influxdb to store [history data](https://github.com/ioBroker/ioBroker.influxdb/blob/master/README.md)
 * [jmxtrans ★1258](https://github.com/jmxtrans/jmxtrans) - Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.
 * [logary ★304](https://github.com/logary/logary) - High performance, multi-target logging, metric and health-check library for mono and .Net
 * [metrics.sh ★53](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
 * [OpenHAB](http://www.openhab.org/) - a universal integration platform for all things around home automation
 * [Riemann ★3420](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure
-* [statsd-jvm-profiler ★246 ⏳1Y](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD
+* [statsd-jvm-profiler ★249 ⏳1Y](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD
 * [statsite ★1567](https://github.com/statsite/statsite) - C implementation of statsd
 
 ### Libraries
@@ -162,7 +163,7 @@ Tools to import a fixed set of data into InfluxDB.
 ### Other tools
 
 * [hubot-influxdb-alerts ★10 ⏳1Y](https://github.com/amwelch/hubot-influxdb-alerts) - Create and manage alerts in your chatroom using [hubot](https://hubot.github.com/) and influxdb
-* [influx-alert ★22](https://github.com/joshrendek/influx-alert) - A tool to query InfluxDB and send alerts based on a YAML config
+* [influx-alert ★22 ⏳1Y](https://github.com/joshrendek/influx-alert) - A tool to query InfluxDB and send alerts based on a YAML config
 * [influxdb_google_sheets ★7](https://github.com/HormyAJP/influxdb_google_sheets) - Google Sheets script for fetching and formatting InfluxDB data
 * [Morgoth ★195](https://github.com/nathanielc/morgoth) - Metric anomaly detection
 
@@ -194,17 +195,17 @@ Projects that don't seem to fit in any other category.
 
 ### Awesome lists that include links to InfluxDB
 
-* [awesome-bigdata ★5255](https://github.com/onurakpolat/awesome-bigdata)
+* [awesome-bigdata ★5398](https://github.com/onurakpolat/awesome-bigdata)
 * [awesome-dashboard ★485](https://github.com/obazoud/awesome-dashboard)
-* [awesome-data-engineering ★1132](https://github.com/igorbarinov/awesome-data-engineering)
+* [awesome-data-engineering ★1165](https://github.com/igorbarinov/awesome-data-engineering)
 * [awesome-db ★514](https://github.com/numetriclabz/awesome-db)
 * [awesome-go ★24821](https://github.com/avelino/awesome-go)
-* [awesome-sysadmin ★16061](https://github.com/kahun/awesome-sysadmin)
+* [awesome-sysadmin ★16204](https://github.com/kahun/awesome-sysadmin)
 
 ### Lists of awesome lists that include awesome-influxdb
 
 * [awesome ★69735](https://github.com/sindresorhus/awesome)
-* [lists ★4518](https://github.com/jnv/lists)
+* [lists ★4569](https://github.com/jnv/lists)
 
 ## License
 

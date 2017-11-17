@@ -38,7 +38,7 @@ A curated list of awesome JVM low level and performance related stuff.
 
 * [asmtools](https://wiki.openjdk.java.net/display/CodeTools/asmtools) - Used to develop tools for the production of Java .class files.
 * [Byte Buddy](http://bytebuddy.net) - Code generation library creating Java classes at runtime without the help of a compiler.
-* [Jitescript ★142 ⏳1Y](https://github.com/qmx/jitescript) - Bytecode generation library similar to BiteScript. 
+* [Jitescript ★144 ⏳1Y](https://github.com/qmx/jitescript) - Bytecode generation library similar to BiteScript. 
 
 ## Garbage collectors
 
@@ -57,7 +57,7 @@ A curated list of awesome JVM low level and performance related stuff.
 *Tools that generate load and measure the system accurately without coordinated omission*
 
 * [Gatling](http://gatling.io) - Asynchronous non-blocking scenario driven load testing tool for testing HTTP servers.
-* [wrk2 ★1076](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk.
+* [wrk2 ★1100](https://github.com/giltene/wrk2) - A constant throughput, correct latency recording variant of wrk.
 
 ## Languages
 
@@ -66,8 +66,8 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Clojure](http://clojure.org/) - Dialect of Lisp created by Rich Hickey. Dynamically typed with emphasis on functional programming.
 * [Erjang](http://www.erjang.org) - A JVM-based Erlang VM.
 * [Eta](http://eta-lang.org/) - Pure, lazy, strongly typed functional programming language on the JVM.
-* [Frege ★2885](https://github.com/Frege/frege) - Pure functional programming language in the spirit of Haskell.
-* [gojava ★144 ⏳1Y](https://github.com/sridharv/gojava) - Java bindings for Go packages.
+* [Frege ★2908](https://github.com/Frege/frege) - Pure functional programming language in the spirit of Haskell.
+* [gojava ★147 ⏳1Y](https://github.com/sridharv/gojava) - Java bindings for Go packages.
 * [Golo](http://golo-lang.org/) - A simple dynamic language that makes extensive usage of `invokedynamic`.
 * [Groovy](http://www.groovy-lang.org/) - Optionally typed and dynamic language, with static-typing and static compilation capabilities.
 * [Java](http://www.oracle.com/technetwork/java/javase/overview/index.html) - General-purpose, concurrent, strongly typed, class-based object-oriented language.
@@ -79,7 +79,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [LuaJ](http://www.luaj.org/luaj/3.0/README.html) - Java-centric implementation of lua vm built to leverage standard Java features.
 * [Nashorn](http://openjdk.java.net/projects/nashorn/) - Lightweight high-performance JavaScript runtime in Java with a native JVM.
 * [OCaml-Java](http://www.ocamljava.org/) - Supports OCaml language v4. Generates plain Java bytecode and have seamless integration with Java.
-* [Rembulan ★89](https://github.com/mjanicek/rembulan) - Rembulan is an implementation of Lua 5.3 for the JVM, written in pure Java with minimal dependencies.
+* [Rembulan ★92](https://github.com/mjanicek/rembulan) - Rembulan is an implementation of Lua 5.3 for the JVM, written in pure Java with minimal dependencies.
 * [Renjin](http://www.renjin.org/) - JVM-based interpreter for the R language for the statistical analysis
 * [Scala](http://www.scala-lang.org/) - Strong and static programming language that combine object-oriented and functional programming ideas.
 * [Xtend](http://www.eclipse.org/xtend/) - Flexible and expressive dialect of Java, which compiles into Java 5 source code.
@@ -88,97 +88,97 @@ A curated list of awesome JVM low level and performance related stuff.
 
 *Tools and data structures for efficient memory layout and concurrent access.*
 
-* [Agera ★6805](https://github.com/google/agera) - Reactive Programming for Android by Google.
-* [Agrona ★876](https://github.com/real-logic/Agrona) - Library of data structures and utility methods that are a common need when building high-performance applications.
+* [Agera ★6870](https://github.com/google/agera) - Reactive Programming for Android by Google.
+* [Agrona ★907](https://github.com/real-logic/Agrona) - Library of data structures and utility methods that are a common need when building high-performance applications.
 * [Apache Arrow](http://arrow.apache.org/) - A high-performance cross-system data layer for columnar in-memory analytics.
 * [bloofi ★53 ⏳1Y](https://github.com/lemire/bloofi) - Java implementation of multidimensional Bloom filters
 * [Cap’n Proto](https://capnproto.org/) - Insanely fast data interchange format and capability-based RPC system.
-* [caffeine ★3159](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8.
-* [Chronicle-Bytes ★76](https://github.com/OpenHFT/Chronicle-Bytes) - Low level memory access wrappers.
-* [Chronicle-Queue ★1233](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk.
-* [Chronicle-Map ★1111](https://github.com/OpenHFT/Chronicle-Map) - In-memory key-value store designed for low-latency and/or multi-process applications.
-* [clj-ds ★209 ⏳4Y](https://github.com/krukow/clj-ds) - Clojure's data structures modified for use outside of Clojure.
-* [colfer ★276](https://github.com/pascaldekloe/colfer) - Binary serialization format and class generator.
+* [caffeine ★3300](https://github.com/ben-manes/caffeine) - A high performance caching library for Java 8.
+* [Chronicle-Bytes ★82](https://github.com/OpenHFT/Chronicle-Bytes) - Low level memory access wrappers.
+* [Chronicle-Queue ★1252](https://github.com/OpenHFT/Chronicle-Queue) - Micro second messaging that stores everything to disk.
+* [Chronicle-Map ★1144](https://github.com/OpenHFT/Chronicle-Map) - In-memory key-value store designed for low-latency and/or multi-process applications.
+* [clj-ds ★208 ⏳4Y](https://github.com/krukow/clj-ds) - Clojure's data structures modified for use outside of Clojure.
+* [colfer ★290](https://github.com/pascaldekloe/colfer) - Binary serialization format and class generator.
 * [commons-math](http://commons.apache.org/proper/commons-math) - Library of lightweight, self-contained mathematics and statistics components.
-* [CuckooFilter4J ★43](https://github.com/MGunlogson/CuckooFilter4J) - Bloom filter replacement for approximated set-membership queries.
-* [cyclops ★372](https://github.com/aol/cyclops) - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
+* [CuckooFilter4J ★46](https://github.com/MGunlogson/CuckooFilter4J) - Bloom filter replacement for approximated set-membership queries.
+* [cyclops ★380](https://github.com/aol/cyclops) - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
 * [Eclipse Collections ★397](https://github.com/eclipse/eclipse-collections) - Collections framework for Java.
 * [failsafe ★1912](https://github.com/jhalterman/failsafe) - A lightweight, zero-dependency library for handling failures.
 * [fasttuple ★129](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
-* [geohash ★214](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
-* [gs-collections ★1691 ⏳1Y](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
-* [hollow ★569](https://github.com/Netflix/hollow) - Java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets.
-* [high-scale-lib ★289 ⏳2Y](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
-* [hppc ★414](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
+* [geohash ★217](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
+* [gs-collections ★1698 ⏳1Y](https://github.com/goldmansachs/gs-collections) - Goldman Sachs collections framework.
+* [hollow ★579](https://github.com/Netflix/hollow) - Java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets.
+* [high-scale-lib ★293 ⏳2Y](https://github.com/boundary/high-scale-lib) - Cliff Click's High Scale Library.
+* [hppc ★423](https://github.com/carrotsearch/hppc) - High Performance Primitive Collections.
 * [injector ★55 ⏳2Y](https://github.com/belliottsmith/injector) - A new Executor for Java.
-* [java-concurrent-hash-trie-map ★103 ⏳1Y](https://github.com/romix/java-concurrent-hash-trie-map) - Java port of a concurrent trie hash map implementation from Scala collections.
-* [java-hll ★189 ⏳1Y](https://github.com/aggregateknowledge/java-hll) - Java library for the HyperLogLog algorithm.
-* [JavaFastPFOR ★278](https://github.com/lemire/JavaFastPFOR) - Library to compress and uncompress arrays of integers very fast.
-* [java-string-similarity ★1353](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
+* [java-concurrent-hash-trie-map ★105 ⏳1Y](https://github.com/romix/java-concurrent-hash-trie-map) - Java port of a concurrent trie hash map implementation from Scala collections.
+* [java-hll ★193 ⏳1Y](https://github.com/aggregateknowledge/java-hll) - Java library for the HyperLogLog algorithm.
+* [JavaFastPFOR ★289](https://github.com/lemire/JavaFastPFOR) - Library to compress and uncompress arrays of integers very fast.
+* [java-string-similarity ★1380](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [jOOL ★1117](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
-* [LevelDB ★795](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
+* [LevelDB ★806](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
 * [lightweight_trie ★37 ⏳5Y](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
-* [lmdbjni ★165](https://github.com/deephacks/lmdbjni) - Java API to LMDB (HawtJNI) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
-* [lmdbjava ★143](https://github.com/lmdbjava/lmdbjava) - Java API to LMDB (JNR) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
-* [low-gc-membuffers ★121 ⏳3Y](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
-* [lwjgl3 ★1430](https://github.com/LWJGL/lwjgl3) - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
+* [lmdbjni ★166](https://github.com/deephacks/lmdbjni) - Java API to LMDB (HawtJNI) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
+* [lmdbjava ★148](https://github.com/lmdbjava/lmdbjava) - Java API to LMDB (JNR) which is an ultra-fast, ultra-compact key-value embedded data store written in C.
+* [low-gc-membuffers ★122 ⏳3Y](https://github.com/cowtowncoder/low-gc-membuffers) - In-memory circular buffers that use direct ByteBuffers to minimize GC overhead.
+* [lwjgl3 ★1472](https://github.com/LWJGL/lwjgl3) - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
 * [MapDB](http://www.mapdb.org) - Collections backed by off-heap or on-disk storage.
 * [netty-buffers](http://netty.io/wiki/using-as-a-generic-library.html#wiki-h2-1) - Memory buffer pool implementation similar to jemalloc.
 * [ObjectLayout](http://objectlayout.org) - A layout-optimized Java data structure package.
-* [ohc ★218](https://github.com/snazy/ohc) - Java large off heap cache developed for Apache Cassandra 3.0.
-* [okio ★4304](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
-* [one-nio ★204](https://github.com/odnoklassniki/one-nio) - library for building high performance Java servers.
+* [ohc ★225](https://github.com/snazy/ohc) - Java large off heap cache developed for Apache Cassandra 3.0.
+* [okio ★4375](https://github.com/square/okio) - Modern Java IO library that do clever things to save CPU and memory.
+* [one-nio ★216](https://github.com/odnoklassniki/one-nio) - library for building high performance Java servers.
 * [onyx-java ★5](https://github.com/onyx-platform/onyx-java) - Mirrors the Onyx Platform core API by providing a Java equivalent for each component of an Onyx workflow.
 * [parquet](https://parquet.apache.org/) - Columnar storage format that uses the record shredding and assembly algorithm described in the Dremel paper.
-* [PauselessHashMap ★130 ⏳3Y](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
-* [pcollections ★409](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
+* [PauselessHashMap ★129 ⏳3Y](https://github.com/giltene/PauselessHashMap) - A java.util.HashMap compatible map that won't stall puts or gets when resizing.
+* [pcollections ★415](https://github.com/hrldcpr/pcollections) - A Persistent Java Collections Library.
 * [protobuf](https://developers.google.com/protocol-buffers) - Google's data interchange format.
 * [Quasar](http://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
-* [rtree ★546](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R*-tree implementations in Java with reactive api.
+* [rtree ★561](https://github.com/davidmoten/rtree) - Immutable in-memory R-tree and R*-tree implementations in Java with reactive api.
 * [Reactive Streams](http://www.reactive-streams.org/) - Standard for asynchronous stream processing with non-blocking back pressure.
-* [RoaringBitmap ★662](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
-* [rollinghashjava ★46 ⏳1Y](https://github.com/lemire/rollinghashjava) - Rolling hash functions in Java.
+* [RoaringBitmap ★700](https://github.com/RoaringBitmap/RoaringBitmap) - A better compressed bitset in Java.
+* [rollinghashjava ★48 ⏳1Y](https://github.com/lemire/rollinghashjava) - Rolling hash functions in Java.
 * [Reactor](http://projectreactor.io/) - Reactive data applications on the JVM for Java, Groovy, Clojure and other.
 * [RxJava ★28734](https://github.com/ReactiveX/RxJava) - Library for composing asynchronous and event-based programs using observable sequences.
-* [SmoothieMap ★123 ⏳1Y](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
-* [Simple Binary Encoding ★1194](https://github.com/real-logic/simple-binary-encoding) - High Performance Message Codec.
+* [SmoothieMap ★132 ⏳1Y](https://github.com/OpenHFT/SmoothieMap) - java.util.Map impl with worst put latencies more than 100 times smaller than java.util.HashMap.
+* [Simple Binary Encoding ★1216](https://github.com/real-logic/simple-binary-encoding) - High Performance Message Codec.
 * [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
-* [stormpot ★114 ⏳1Y](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
-* [stream-lib ★1678](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
+* [stormpot ★116 ⏳1Y](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
+* [stream-lib ★1709](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
 * [streamvbyte ★102](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
 * [transducers-java ★98 ⏳2Y](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 * [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
 * [wire ★2168](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
-* [Zero-Allocation-Hashing ★251](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
+* [Zero-Allocation-Hashing ★258](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 
 ## Metaprogramming
 
 *Parsers, interpreters, compilers and source generation targeted for the JVM.*
 
 * [Antlr](http://www.antlr.org/) - Parser generator for reading, processing, executing, or translating structured text or binary files.
-* [auto ★5727](https://github.com/google/auto) - A collection of source code generators for Java.
+* [auto ★5833](https://github.com/google/auto) - A collection of source code generators for Java.
 * [Apache Calcite](http://calcite.apache.org/docs/) - Dynamic data management framework and SQL parser plugin.
 * [Checker Framework](http://types.cs.washington.edu/checker-framework/) - Compiler plug-ins that find bugs or verify their absence.
-* [compile-testing ★390](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
-* [derive4j ★290](https://github.com/derive4j/derive4j) - Algebraic data types constructors, pattern-matching, morphisms, optics and typeclasses.
-* [error-prone ★3021](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
+* [compile-testing ★397](https://github.com/google/compile-testing) - Testing tools for javac and annotation processors.
+* [derive4j ★295](https://github.com/derive4j/derive4j) - Algebraic data types constructors, pattern-matching, morphisms, optics and typeclasses.
+* [error-prone ★3153](https://github.com/google/error-prone) - Catch common Java mistakes as compile-time errors.
 * [GHCVM](https://github.com/rahulmutt/ghcvm) - A Haskell to JVM compiler that supports GHC Haskell.
 * [Graal](http://openjdk.java.net/projects/graal/) - New experimental just-in-time compiler for Java that is integrated with the HotSpot virtual machine.
 * [grappa ★60 ⏳1Y](https://github.com/fge/grappa) - Java fork of Parboiled. Write grammars with no preprocessing phase.
 * [immutables](http://immutables.github.io/) - Generate simple, safe and consistent value objects.
 * [javacc](https://javacc.java.net/) - Parser generator for use with Java.
-* [javaparser ★1339](https://github.com/javaparser/javaparser) - Java 1.8 Parser and Abstract Syntax Tree for Java.
-* [JavaPoet ★4252](https://github.com/square/javapoet) - A Java API for generating .java source files.
-* [jparsec ★195](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
+* [javaparser ★1389](https://github.com/javaparser/javaparser) - Java 1.8 Parser and Abstract Syntax Tree for Java.
+* [JavaPoet ★4354](https://github.com/square/javapoet) - A Java API for generating .java source files.
+* [jparsec ★200](https://github.com/jparsec/jparsec) - Builds mini parsers in pure Java a la Haskell Parsec.
 * [JSweet](http://www.jsweet.org/) - A transpiler from Java to TypeScript/JavaScript.
 * [MPS](https://www.jetbrains.com/mps/) - Design and build extensible DSLs and editors.
-* [parboiled ★1027](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
-* [Sulong ★380](https://github.com/graalvm/sulong) - LLVM IR interpreter written in Java using Truffle and Graal.
-* [TeaVM ★495](https://github.com/konsoletyper/teavm) - Ahead-of-time translating compiler (transpiler) from Java bytecode to JavaScript.
+* [parboiled ★1035](https://github.com/sirthias/parboiled) - Parsing of arbitrary input text based on parsing expression grammars.
+* [Sulong ★388](https://github.com/graalvm/sulong) - LLVM IR interpreter written in Java using Truffle and Graal.
+* [TeaVM ★522](https://github.com/konsoletyper/teavm) - Ahead-of-time translating compiler (transpiler) from Java bytecode to JavaScript.
 * [Truffle](https://github.com/graalvm/truffle) - Framework for implementing languages as simple interpreters.
 * [Xtext](https://eclipse.org/Xtext/) - Framework for development of programming languages and DSLs.
 
@@ -187,35 +187,35 @@ A curated list of awesome JVM low level and performance related stuff.
 *Interconnecting JVM and native code* 
 
 * [hawtjni ★63](https://github.com/fusesource/hawtjni) - A JNI code generator based on the JNI generator used in Eclipse SWT.
-* [j2v8 ★806](https://github.com/eclipsesource/j2v8) - Java API for Google's V8 JavaScript engine.
-* [JavaCPP ★2094](https://github.com/bytedeco/javacpp) - JavaCPP provides efficient access to native C++ inside Java.
-* [jnr-ffi ★457](https://github.com/jnr/jnr-ffi) - Load native libraries without writing JNI code by hand.
+* [j2v8 ★835](https://github.com/eclipsesource/j2v8) - Java API for Google's V8 JavaScript engine.
+* [JavaCPP ★2122](https://github.com/bytedeco/javacpp) - JavaCPP provides efficient access to native C++ inside Java.
+* [jnr-ffi ★464](https://github.com/jnr/jnr-ffi) - Load native libraries without writing JNI code by hand.
 * [jssembly ★108](https://github.com/dvx/jssembly) - Execution of native assembly from Java.
-* [NuProcess ★239](https://github.com/brettwooldridge/NuProcess) - A low-overhead, non-blocking I/O, external Process execution implementation for Java.
+* [NuProcess ★253](https://github.com/brettwooldridge/NuProcess) - A low-overhead, non-blocking I/O, external Process execution implementation for Java.
 * [Project Panama](http://openjdk.java.net/projects/panama/) - Enriching the connections between the JVM and APIs used by C programmers.
 
 ## Network
 
 *Tools for network programming, packet capture, monitoring, testing and resiliency.*
 
-* [Aeron ★2986](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
-* [armeria ★909](https://github.com/line/armeria) - Asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift.
-* [comcast ★5020](https://github.com/tylertreat/comcast) - Simulating shitty network connections.
+* [Aeron ★3036](https://github.com/real-logic/Aeron) - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
+* [armeria ★927](https://github.com/line/armeria) - Asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift.
+* [comcast ★5069](https://github.com/tylertreat/comcast) - Simulating shitty network connections.
 * [gor](https://github.com/buger/gor) - HTTP traffic replay in real-time.
 * [gRPC](http://www.grpc.io/) - A high performance, open source, general RPC framework that puts mobile and HTTP/2 first.
-* [jRT ★29 ⏳1Y](https://github.com/LatencyUtils/jRT) - Measures response time of a java application to socket-based requests.
+* [jRT ★31 ⏳1Y](https://github.com/LatencyUtils/jRT) - Measures response time of a java application to socket-based requests.
 * [JXIO ★43](https://github.com/accelio/JXIO) - Java API over AccelIO (C library), a high-performance asynchronous reliable messaging and RPC library optimized for hardware acceleration.
 * [K3PO ★28](https://github.com/k3po/k3po) - Create arbitrary network traffic and behavior to certify whether a network endpoint behaves correctly.
 * [muxy ★575](https://github.com/mefellows/muxy) - Simulating real-world distributed system failures.
 * [Netty](http://netty.io/) - Async event-driven network library for high performance protocol servers & clients.
 * [okhttp ★23489](https://github.com/square/okhttp) - An HTTP+HTTP/2 client for Android and Java applications.
 * [RSocket](http://rsocket.io/) - RSocket is a binary protocol for use on byte stream transports such as TCP, WebSockets, and Aeron.
-* [SimianArmy ★5863](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
-* [pcap4j ★382](https://github.com/kaitoy/pcap4j) - Java library for capturing, crafting, and sending packets using libpcap.
-* [pig ★294](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
+* [SimianArmy ★5960](https://github.com/Netflix/SimianArmy) - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
+* [pcap4j ★398](https://github.com/kaitoy/pcap4j) - Java library for capturing, crafting, and sending packets using libpcap.
+* [pig ★297](https://github.com/rafael-santiago/pig) - A Linux packet crafting tool.
 * [tcpdump](http://www.tcpdump.org/) - Packet analyzer for network traffic capture.
-* [tcpflow ★726](https://github.com/simsong/tcpflow) - Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.
-* [tcpreplay ★265](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools.
+* [tcpflow ★741](https://github.com/simsong/tcpflow) - Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.
+* [tcpreplay ★271](https://github.com/appneta/tcpreplay) - Pcap editing and replay tools.
 
 ## Nix tools
 
@@ -229,11 +229,11 @@ A curated list of awesome JVM low level and performance related stuff.
 * [jstack](http://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstack.html) - Prints stack traces of threads for a given Java process.
 * [jstat](https://docs.oracle.com/javase/8/docs/technotes/tools/unix/jstat.html) - Monitors GC and compiler statistics in the JVM.
 * [hwloc](http://linux.die.net/man/7/hwloc) - Reports the structure of the processor, number of cores, hyperthreads and cache size.
-* [likwid ★447](https://github.com/RRZE-HPC/likwid) - Read hardware performance counters on Intel and AMD processors.
+* [likwid ★460](https://github.com/RRZE-HPC/likwid) - Read hardware performance counters on Intel and AMD processors.
 * [numactl](http://linux.die.net/man/8/numactl) - Control NUMA policy for processes or shared memory.
 * [oprofile](http://oprofile.sourceforge.net/news/) - System-wide hardware performance monitoring with easy-to-use interface at low overhead.
 * [perf](https://perf.wiki.kernel.org/index.php/Main_Page) - Linux profiling with performance counters.
-* [perf-tools ★3678](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
+* [perf-tools ★3748](https://github.com/brendangregg/perf-tools) - Performance analysis tools based on Linux perf_events (aka perf) and ftrace.
 * [sysdig](http://www.sysdig.org/) - Capture system state and activity from a running Linux instance, then save, filter and analyze.
 * [sysstat](http://sebastien.godard.pagesperso-orange.fr) - Performance monitoring tools for Linux.
 * [taskset](http://linuxcommand.org/man_pages/taskset1.html) - Retrieve or set a processes’s CPU affinity.
@@ -243,71 +243,71 @@ A curated list of awesome JVM low level and performance related stuff.
 
 *Tools that provide profiling and tracing information to aid program optimization*
 
-* [allocation-instrumenter ★219](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
-* [aprof ★105](https://github.com/Devexperts/aprof) - Java memory allocation profiler.
-* [async-profiler ★334](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU profiler for Java featuring AsyncGetCallTrace + perf_events.
+* [allocation-instrumenter ★226](https://github.com/google/allocation-instrumenter) - Java agent that rewrites bytecode to instrument allocation sites.
+* [aprof ★108](https://github.com/Devexperts/aprof) - Java memory allocation profiler.
+* [async-profiler ★387](https://github.com/jvm-profiling-tools/async-profiler) - Sampling CPU profiler for Java featuring AsyncGetCallTrace + perf_events.
 * [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
 * [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
-* [GCViewer ★1885](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
+* [GCViewer ★1916](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
 * [grav ★167](https://github.com/epickrram/grav) - A collection of tools to help visualise process execution.
 * [hawkshaw ★39 ⏳1Y](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
 * [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 * [hdrhistogram-metrics-reservoir](https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir) - A Metrics Reservoir implementation backed by HdrHistogram.
-* [HdrLogProcessing ★21 ⏳1Y](https://github.com/nitsanw/HdrLogProcessing) - Utilities for HDR Histogram logs manipulation.
-* [heapster ★344 ⏳1Y](https://github.com/mariusae/heapster) - Production heap profiling for the JVM.
+* [HdrLogProcessing ★21](https://github.com/nitsanw/HdrLogProcessing) - Utilities for HDR Histogram logs manipulation.
+* [heapster ★345 ⏳1Y](https://github.com/mariusae/heapster) - Production heap profiling for the JVM.
 * [honest-profiler](https://github.com/RichardWarburton/honest-profiler) - Sampling JVM profiler without the safepoint sample bias.
-* [jamm ★400](https://github.com/jbellis/jamm) - Measure actual object memory use including JVM overhead.
+* [jamm ★405](https://github.com/jbellis/jamm) - Measure actual object memory use including JVM overhead.
 * [Java Flight Recorder (JFR)](http://www.oracle.com/technetwork/java/javaseproducts/mission-control/java-mission-control-1998576.html) - Tool for collecting diagnostic and profiling data about a running Java application with almost no performance overhead.
-* [java-sizeof ★108 ⏳1Y](https://github.com/dweiss/java-sizeof) - Memory consumption estimator for Java.
+* [java-sizeof ★111 ⏳1Y](https://github.com/dweiss/java-sizeof) - Memory consumption estimator for Java.
 * [jcstress](http://openjdk.java.net/projects/code-tools/jcstress/) - Experimental harness and tests to aid the research in the correctness of concurrency support in the JVM, class libraries, and hardware.
-* [jfr-flame-graph ★115](https://github.com/chrishantha/jfr-flame-graph) - Converting JFR Method Profiling Samples to FlameGraph compatible format.
-* [jitwatch ★1214](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler.
-* [jitwatch-intellij ★140 ⏳1Y](https://github.com/yole/jitwatch-intellij) - JITWatch plugin for IntelliJ IDEA.
+* [jfr-flame-graph ★118](https://github.com/chrishantha/jfr-flame-graph) - Converting JFR Method Profiling Samples to FlameGraph compatible format.
+* [jitwatch ★1234](https://github.com/AdoptOpenJDK/jitwatch) - Log analyser / visualiser for Java HotSpot JIT compiler.
+* [jitwatch-intellij ★139 ⏳1Y](https://github.com/yole/jitwatch-intellij) - JITWatch plugin for IntelliJ IDEA.
 * [jHiccup](http://www.azul.com/jhiccup/) - jHiccup is an open source tool designed to measure the pauses and stalls associated with an application’s underlying Java runtime platform.
 * [jmh](http://openjdk.java.net/projects/code-tools/jmh/) - Micro benchmarks written in Java and other languages targetting the JVM.
 * [jmh-compare-gui ★46 ⏳1Y](https://github.com/akarnokd/jmh-compare-gui) - GUI for comparing JMH results.
 * [JOL](http://openjdk.java.net/projects/code-tools/jol/) - Analyze actual object layout schemes, footprint, and references in JVMs.
 * [JProfiler](https://www.ej-technologies.com/products/jprofiler/overview.html) - Helps resolve performance bottlenecks, pin down memory leaks and understand threading issues.
 * [JVMTI](https://docs.oracle.com/javase/8/docs/technotes/guides/jvmti/) - Provide a native API to inspect the state and to control the execution of applications running in the JVM.
-* [jvmtop ★590](https://github.com/patric-r/jvmtop) - Lightweight console application to monitor running jvms on a machine in top-like manner.
+* [jvmtop ★616](https://github.com/patric-r/jvmtop) - Lightweight console application to monitor running jvms on a machine in top-like manner.
 * [MAT](https://eclipse.org/mat/) - Java heap analyzer that help find memory leaks and reduce memory consumption.
 * [leakcanary ★17448](https://github.com/square/leakcanary) - A memory leak detection library for Android and Java.
 * [metrics](http://metrics.dropwizard.io/) - Measure the behavior of critical components in production environment.
 * [Overseer](http://www.peternier.com/projects/overseer/overseer.php) - Low-Level Hardware Monitoring and Management for Java.
 * [OpenTracing](http://opentracing.io/) - A vendor-neutral open standard for distributed tracing.
 * [perf-map-agent](https://github.com/jrudolph/perf-map-agent) - Generate method mappings to use with the linux `perf` tool.
-* [perfj ★301 ⏳2Y](https://github.com/coderplay/perfj) - Linux perf for java programs.
+* [perfj ★302 ⏳2Y](https://github.com/coderplay/perfj) - Linux perf for java programs.
 * [polarbear ★18 ⏳5Y](https://github.com/Cue/polarbear) - A tool to help diagnose OutOfMemoryError conditions.
-* [Riemann JVM Profiler ★267 ⏳2Y](https://github.com/riemann/riemann-jvm-profiler) - JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.
-* [statsd-jvm-profiler ★246 ⏳1Y](https://github.com/etsy/statsd-jvm-profiler) - JVM agent profiler that sends profiling data to StatsD.
-* [Swiss Java Knife ★1460](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
+* [Riemann JVM Profiler ★268 ⏳2Y](https://github.com/riemann/riemann-jvm-profiler) - JVM agent which sends function-level profiler telemetry to a Riemann server for analysis, visualization, and storage.
+* [statsd-jvm-profiler ★249 ⏳1Y](https://github.com/etsy/statsd-jvm-profiler) - JVM agent profiler that sends profiling data to StatsD.
+* [Swiss Java Knife ★1488](https://github.com/aragozin/jvm-tools) - Small set of tools for JVM troublshooting, monitoring and profiling.
 * [Takipi](https://www.takipi.com/) - Tells you when and why code breaks in production.
-* [Tracer ★62](https://github.com/zalando/tracer) - Manages custom trace identifiers and carries them through distributed systems.
+* [Tracer ★64](https://github.com/zalando/tracer) - Manages custom trace identifiers and carries them through distributed systems.
 * [YourKit](https://www.yourkit.com/) - Fully featured, easy to use, low overhead profiler.
-* [Zipkin ★6790](https://github.com/openzipkin/zipkin) - A distributed tracing system gather timing data for disparate services developed by Twitter.
+* [Zipkin ★7026](https://github.com/openzipkin/zipkin) - A distributed tracing system gather timing data for disparate services developed by Twitter.
 
 
 ## Runtimes
 
 *Tools for managing jvm runtime processes*
-* [Capsule ★1051](https://github.com/puniverse/capsule) - Dead-Simple Packaging and Deployment for JVM Apps.
+* [Capsule ★1057](https://github.com/puniverse/capsule) - Dead-Simple Packaging and Deployment for JVM Apps.
 * [CRaSH](http://www.crashub.org/) - The shell for the Java Platform.
-* [Drip ★1400](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
-* [HotswapAgent ★825](https://github.com/HotswapProjects/HotswapAgent) - Redefine classes at runtime and skip the redeploy process.
-* [jvmkill ★48 ⏳1Y](https://github.com/airlift/jvmkill) - Agent that forcibly terminates the JVM when it is unable to allocate memory or create a thread.
+* [Drip ★1405](https://github.com/ninjudd/drip) - Fast JVM launching without the hassle of persistent JVMs.
+* [HotswapAgent ★851](https://github.com/HotswapProjects/HotswapAgent) - Redefine classes at runtime and skip the redeploy process.
+* [jvmkill ★50 ⏳1Y](https://github.com/airlift/jvmkill) - Agent that forcibly terminates the JVM when it is unable to allocate memory or create a thread.
 * [Nailgun](http://martiansoftware.com/nailgun/) - Nailgun is a client, protocol, and server for running Java programs from the command line without incurring the JVM startup overhead.
 
 ## Virtual Machines
 
 *Virtual machines that implement the JVM specification or parts of it.*
-* [Avian ★1000](https://github.com/ReadyTalk/avian) - Lightweight highly portable JVM with an option for AOT compilation.
+* [Avian ★1015](https://github.com/ReadyTalk/avian) - Lightweight highly portable JVM with an option for AOT compilation.
 * [Dalvik](https://source.android.com/devices/tech/dalvik/) - Android runtime (ART) is the managed runtime used by applications and some system services on Android.
 * [DCEVM](http://dcevm.github.io) - Modification of Java HotSwap VM with unlimited support for reloading classes at runtime.
 * [HotSpot](http://openjdk.java.net/groups/hotspot/) - HotSpot virtual machine maintained and distributed by Oracle Corporation.
 * [IBM J9](http://www.ibm.com/developerworks/java/jdk/) - JVM developed by IBM.
 * [Eclipse OpenJ9 ★1076](https://github.com/eclipse/openj9) - Eclipse OpenJ9.
-* [J2ObjC ★4905](https://github.com/google/j2objc) - Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps. 
-* [jvm.go ★1977](https://github.com/zxh0/jvm.go) - A JVM written in Go.
+* [J2ObjC ★4947](https://github.com/google/j2objc) - Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps. 
+* [jvm.go ★2003](https://github.com/zxh0/jvm.go) - A JVM written in Go.
 * [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) - An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the [Codename One](https://www.codenameone.com/) WORA for mobile project.
 * <strike>[RoboVM](https://robovm.com/) - Create native iOS and Android apps in Java.</strike> - Discontinued
 * [Zing](https://www.azul.com/products/zing/) - The only JVM that eliminates Java garbage collection pauses for large heap sizes.
@@ -331,7 +331,7 @@ Machine Specification Java SE 8 Edition.
 * [Topics in High-Performance Messaging](https://www.informatica.com/downloads/1568_high_perf_messaging_wp/Topics-in-High-Performance-Messaging.htm) - Design decisions, experience and constraints explained in high performance messaging systems.
 * [Top 10 Performance Mistakes](http://www.infoq.com/articles/top-10-performance-mistakes) - Digest of the top 10 performance related mistakes Martin Thompson has seen in production.
 * [The USE method](http://www.brendangregg.com/usemethod.html) - The Utilization Saturation and Errors (USE) Method is a methodology for analyzing the performance of any system. Brendan Gregg.
-* [An introduction to distributed systems ★3592](https://github.com/aphyr/distsys-class) - Kyle Kingsbury (author of Jepsen).
+* [An introduction to distributed systems ★3674](https://github.com/aphyr/distsys-class) - Kyle Kingsbury (author of Jepsen).
 * [Using JDK 9 Memory Order Modes](http://gee.cs.oswego.edu/dl/html/j9mm.html) - For expert programmers familiar with Java concurrency, but unfamiliar with the memory order modes available in JDK 9 provided by VarHandles.
 * [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) - Measure instructions per cycle (IPC) for CPU utilization. Brendan Gregg.
 * [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) - Brendan Gregg.

@@ -71,7 +71,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [RabbitMQ](https://www.rabbitmq.com/mqtt.html) - RabbitMQ offers a MQTT Adapter.
 * [SurgeMQ](http://zhen.org/categories/surgemq/) - High Performance MQTT Server and Client Libraries in Go.
 * [VerneMQ](https://vernemq.com/) - an Apache2 licensed distributed MQTT broker, developed in Erlang.
-* [Vert.x MQTT ★44](https://github.com/vert-x3/vertx-mqtt) - Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.
+* [Vert.x MQTT ★47](https://github.com/vert-x3/vertx-mqtt) - Vert.x component to handle connections, communication and messages exchange with remote MQTT clients.
 
 
 ### Tools
@@ -119,7 +119,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [ruby-mqtt ★292](https://github.com/njh/ruby-mqtt) - Pure Ruby gem that implements the MQTT protocol.
 * [tcl-mqtt ★2 ⏳3Y](https://github.com/Tingenek/tcl-mqtt) - Small library to connect to a MQTT broker. Very, very basic.
 * [TMQTTClient](http://jamiei.com/blog/code/mqtt-client-library-for-delphi/) - MQTT Client Library for Delphi.
-* [Vert.x MQTT ★44](https://github.com/vert-x3/vertx-mqtt) - Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics.
+* [Vert.x MQTT ★47](https://github.com/vert-x3/vertx-mqtt) - Vert.x component that provides methods for connecting/disconnecting to a broker, publishing messages and subscribing to topics.
 * [wolfMQTT](https://www.wolfssl.com/products/wolfmqtt/) - A client implementation of the MQTT written in C for embedded use. It supports SSL/TLS via the wolfSSL library.
 
 
@@ -241,7 +241,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 * [kodi2mqtt ★42](https://github.com/owagner/kodi2mqtt) - Interface between a Kodi media center instance and MQTT.
 * [harmony-api ★168](https://github.com/maddox/harmony-api) - A simple server allowing you to query/control multiple local Harmony Home Hubs over HTTP or MQTT.
 * [htd2mqtt ★0 ⏳1Y](https://github.com/TheOriginalAndrobot/htd2mqtt) - Bridge between an HTD Lync audio system and MQTT.
-* [lgtv2mqtt ★15](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT.
+* [lgtv2mqtt ★16](https://github.com/hobbyquaker/lgtv2mqtt) - Interface between LG WebOS Smart TVs and MQTT.
 * [lirc2mqtt ★9](https://github.com/hobbyquaker/lirc2mqtt) - Send and receive infrared via [LIRC](www.lirc.org).
 * [mqtt2atlonamatrix ★0](https://github.com/forty2/mqtt2atlonamatrix) - Control Atlona HDMI matrix switches with MQTT.
 * [mqtt2tivoremote ★2](https://github.com/forty2/mqtt2tivoremote) - Make TiVo DVR remote control available through an MQTT smarthome style interface.

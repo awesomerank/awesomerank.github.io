@@ -72,7 +72,7 @@ Markdown is a markup language created by John Gruber in collaboration with Aaron
 
 - [commonmark-java ★590](https://github.com/atlassian/commonmark-java) - Java implementation of CommonMark, a specification of the Markdown format.
 - [flexmark-java ★355](https://github.com/vsch/flexmark-java) - Java Implementation of Markdown parser with source level AST.
-- [pegdown ★1181](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions.
+- [pegdown ★1185](https://github.com/sirthias/pegdown) - A pure-Java Markdown processor based on a parboiled PEG parser supporting a number of extensions.
 
 ### JavaScript
 

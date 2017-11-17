@@ -191,7 +191,7 @@ These are libraries for working with graphics, rather than making GUIs (i.e. wid
 * [Varjo ★101](https://github.com/cbaggers/varjo) - Lisp to GLSL translator. Not available on Quicklisp. [LLGPL][8].
 * [Vecto](http://www.xach.com/lisp/vecto/) - Simple vector drawing library. [FreeBSD][39].
 * [zpng](http://www.xach.com/lisp/zpng/) - A library for creating PNG files. [FreeBSD][39].
-* [Sketch ★659](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200].
+* [Sketch ★670](https://github.com/vydd/sketch) - A CL framework for the creation of electronic art, graphics, and lots more. [MIT][200].
 
 GUI
 ===
@@ -401,7 +401,7 @@ See more [on cliki](http://www.cliki.net/site/search?query=websockets).
 Static site generators
 ----------------------
 
-* [coleslaw ★249](https://github.com/kingcons/coleslaw) and its
+* [coleslaw ★255](https://github.com/kingcons/coleslaw) and its
   [coleslaw-cli ★2](https://github.com/40ants/coleslaw-cli) - Flexible
   Lisp Blogware similar to Frog, Jekyll, or Hakyll. [BSD][15].
 
@@ -456,7 +456,7 @@ Parallelism and Concurrency
 * [lesque ★14 ⏳3Y](https://github.com/fukamachi/lesque) - A clone of Resque. Not available on Quicklisp. [Expat][14].
 * [lparallel ★121](https://github.com/lmj/lparallel) - A library for parallel programming. [3-clause BSD][15].
 * [Xecto ★30 ⏳2Y](https://github.com/pkhuong/Xecto) - A library for regular array parallelism. [3-clause BSD][15].
-* [Moira ★12](https://github.com/TBRSS/moira) -  Monitor and restart background threads. In-lisp process supervisor. No license specified.
+* [Moira ★13](https://github.com/TBRSS/moira) -  Monitor and restart background threads. In-lisp process supervisor. No license specified.
 * [simple-tasks ★6](https://github.com/Shinmera/simple-tasks) - A very
   simple task scheduling framework. [Artistic License 2.0][51].
 * [deeds ★4](https://github.com/Shinmera/deeds) - Deeds is an Extensible
@@ -672,7 +672,7 @@ Logging
 Text Processing
 ---------------
 
-* [montezuma ★12](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
+* [montezuma ★14](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
 * [mk-string-metrics ★11](https://github.com/mrkkrp/mk-string-metrics) -
   Calculate various string metrics efficiently in Common Lisp
   (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
@@ -702,7 +702,7 @@ This contains anything which doesn't fit into another category.
 * [trivial-benchmark ★15](https://github.com/Shinmera/trivial-benchmark) - Tiny benchmarking library. [Artistic Licence 2.0][51].
 * [trivial-garbage ★18](https://github.com/trivial-garbage/trivial-garbage) - A portable finalizer, weak hash-table and weak pointer API. Public domain.
 * [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/) - A small library for doing UTF-8-based I/O. Not available on Quicklisp. No license specified.
-* [montezuma ★12](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
+* [montezuma ★14](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
 * [ubiquitous ★8](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [Artistic License 2.0][51].
 
 

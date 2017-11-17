@@ -351,11 +351,11 @@ There's obviously a million posts on the topic. I'm sure this is not a good sele
 
   Another list of SaaS, PaaS, and Iaas offerings that have free tiers for developers on a budget. Very useful for exploring ideas and building out proof of concept. By [Guillaume (256kb)](https://github.com/255kb/).
 
-- **[Tools Of The Trade ★6916](https://github.com/cjbarber/ToolsOfTheTrade)**
+- **[Tools Of The Trade ★6971](https://github.com/cjbarber/ToolsOfTheTrade)**
 
   Spectacular list of categorized tools for developers resulting from HackerNews threads. By [Chris Barber](https://twitter.com/chrisbarber) and [Craig Davison](https://twitter.com/davisonio).
 
-- **[awesome-selfhosted ★18764](https://github.com/Kickball/awesome-selfhosted)**
+- **[awesome-selfhosted ★19258](https://github.com/Kickball/awesome-selfhosted)**
 
   "This is a list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of locally hosting and managing applications instead of renting from SaaS providers." Lots of salvageable software :P by [Edward D](https://github.com/Kickball).
 

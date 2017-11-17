@@ -40,7 +40,7 @@ Software, libraries and frameworks for development purposes.
 
 - [Nengo ★254](https://github.com/nengo/nengo) - Library for creating and simulating large-scale brain models.
 - [Nitime ★102](https://github.com/nipy/nitime) - Timeseries analysis for neuroscience data.
-- [Nilearn ★299](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
+- [Nilearn ★308](https://github.com/nilearn/nilearn) - Module for performing statistical learning/machine learning on NeuroImaging data.
 - [DIPY ★134](https://github.com/nipy/dipy) - Toolbox for analysis of MR diffusion imaging.
 - [MNE-Python ★356](https://github.com/mne-tools/mne-python) - Community-driven software for processing time-resolved neural signals including electroencephalography (EEG) and magnetoencephalography (MEG).
 - [NiBabel ★161](https://github.com/nipy/nibabel) - Provides read and write access to some common medical and neuroimaging file formats.

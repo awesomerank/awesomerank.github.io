@@ -353,7 +353,7 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 - **HTTP Tools**:
   - [ocaml-cohttp ★297](https://github.com/mirage/ocaml-cohttp) – Very lightweight HTTP server using Lwt or Async.
   - [ocurl ★24](https://github.com/ygrek/ocurl) – OCaml bindings to libcurl.
-  - [httpaf ★46](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
+  - [httpaf ★53](https://github.com/inhabitedtype/httpaf) – A high performance, memory efficient, and scalable web server written in OCaml.
 - [ocaml-dns ★43](https://github.com/mirage/ocaml-dns) – A pure OCaml implementation of the DNS protocol.
 - [fluent-logger ★4 ⏳3Y](https://github.com/fluent/fluent-logger-ocaml) – Fluentd logger for OCaml.
 - [charrua-unix](https://github.com/haesbaert/charrua-unix) - charrua-unix is a Unix DHCP daemon based on [charrua-core](https://github.com/haesbaert/charrua-core).
@@ -435,8 +435,8 @@ Two concurrency libraries exist in OCaml: _Lwt_ and _Async_. They provide very s
 ## Security
 
 - [ocaml-tls ★188](https://github.com/mirleft/ocaml-tls) – TLS in pure OCaml.
-- [cryptokit ★19](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
-- [nocrypto ★55](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
+- [cryptokit ★22](https://github.com/xavierleroy/cryptokit) – The Cryptokit library for OCaml provides a variety of cryptographic primitives that can be used to implement cryptographic protocols in security-sensitive applications.
+- [nocrypto ★59](https://github.com/mirleft/ocaml-nocrypto) – A small cryptographic library behind the ocaml-tls project. It is built to be straightforward to use, adhere to functional programming principles and able to run in a Xen-based unikernel.
 
 > Note: The differences between `nocrypto` and `cryptokit` cryptographic libraries are described in the following blog post: [OCaml-TLS: building the nocrypto library core](https://mirage.io/blog/introducing-nocrypto).
 

@@ -88,7 +88,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [Appium Workshop Selnium Conf 2016 ★8](https://github.com/isonic1/appium-workshop) - Repo for Appium Workshop at the 2016 Selenium Conference - Justin Ison.
 
 ## Cloud Solutions & DevOps
-- [Appium Tests in AWS Device Farm ★43](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
+- [Appium Tests in AWS Device Farm ★44](https://github.com/awslabs/aws-device-farm-appium-tests-for-sample-app) - Sample Appium tests runs on AWS Device Farm.
 - [Appium Tests in OpenSTF Device Farm ★47](https://github.com/openstf/stf-appium-example) - Sample Appium tests runs on STF Device Farm.
 - [Official Appium Docker Images ★77](https://github.com/appium/appium-docker-android) - DockerFile for Appium Android Real Devices.
 - [Appium Docker Images ★89](https://github.com/butomo1989/docker-android) - DockerFile for Appium Android.

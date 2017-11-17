@@ -78,7 +78,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 ## Fody
 * [Fody ★1,325](https://github.com/Fody/Fody) - Extensible tool for weaving .net assemblies 
 * [AutoDependencyProperty.Fody](https://bitbucket.org/robertvazan/autodependencyproperty.fody/overview) - Automatically generates DependencyProperty boilerplate from simple C# properties
-* [PropertyChanged.Fody ★603](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
+* [PropertyChanged.Fody ★626](https://github.com/Fody/PropertyChanged) - Injects INotifyPropertyChanged code into properties at compile time
 * [ReactiveUI.Fody ★60](https://github.com/kswoll/ReactiveUI.Fody) - Generate RaisePropertyChange notifications for properties and ObservableAsPropertyHelper properties
 
 ## Framework
@@ -138,7 +138,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
   * [MvvmNano ★26](https://github.com/aspnetde/MvvmNano) - Small and smart MVVM framework made with ❤ for Xamarin.Forms
   * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework
 * [Bind ★125](https://github.com/praeclarum/Bind) - Bind gives you easy two-way data binding between properties of objects.
-* [Wires ★24](https://github.com/aloisdeniel/Wires) - Wires is a simple binding library.
+* [Wires ★25](https://github.com/aloisdeniel/Wires) - Wires is a simple binding library.
 
 ## Network
 * [Flurl ★470](https://github.com/tmenier/Flurl) - Flurl is a modern, fluent, asynchronous, testable, portable, buzzword-laden URL builder and HTTP client library.
@@ -156,7 +156,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 ## Reactive
 * [Akavache ★1,323](https://github.com/akavache/Akavache) - An Asynchronous Key-Value Store for Native Applications
 * [ReactiveUI ★2,780](https://github.com/reactiveui/ReactiveUI) - Rx MVVM framework 
-* [Sensors ★15](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
+* [Sensors ★19](https://github.com/aritchie/sensors) - ACR Reactive Sensors Plugin for Xamarin & Windows
 * [Refit ★1,092](https://github.com/paulcbetts/refit) - Refit is a library heavily inspired by Square's Retrofit library, and it turns your REST API into a live interface
 * [RxFlow ★16](https://github.com/ugaya40/RxFlow) - Simple Flow Control Library with Rx(Reactive Extensions)
 
@@ -183,7 +183,7 @@ A hand-picked bookmark collection of subjectively modern/interesting libraries/t
 * [XamFormsMvxTemplate ★8](https://github.com/JTOne123/XamFormsMvxTemplate) [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=PaulDatsiuk.XamarinFormswithMvvmCross5SolutionTemplate) - MVVMCross.Forms Visual Studio 2017 project template (iOS, Android, UWP)
 
 ## UI
-* [NControl ★209](https://github.com/chrfalch/NControl) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
+* [NControl ★216](https://github.com/chrfalch/NControl) - Xamarin.Forms wrapper control built around the NGraphics library enabling developers to create custom controls
 * [Passcode ★10](https://github.com/kevinskrei/XamarinPasscode) - Xamarin component for locking an app with a passcode
 
 ## Wearable

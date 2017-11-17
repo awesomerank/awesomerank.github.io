@@ -205,7 +205,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
 
 ## Interviewing
   1. [andreis/interview ★5850](https://github.com/andreis/interview) - Everything you need to kick ass on your coding interview
-  2. [awesome-interviews ★16432](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
+  2. [awesome-interviews ★16830](https://github.com/MaximAbramchuck/awesome-interview-questions) - A curated awesome list of lists of interview questions
   3. [interviewing.io](https://interviewing.io/) - Become awesome at technical interviews
   4. [remoteinterview.io](https://www.remoteinterview.io/) - Coding tests & pair programming interview tools
   5. [skillmeter.com](https://skillmeter.com/) - Online skills testing platform for recruiters & companies

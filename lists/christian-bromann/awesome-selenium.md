@@ -77,7 +77,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 #### C#
 
 - [Selenium with C#](http://seleniumhq.github.io/selenium/docs/api/dotnet/index.html) - Selenium C# bindings
-- [Atata ★60](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
+- [Atata ★71](https://github.com/atata-framework/atata) - Automated web testing full featured framework based on Selenium WebDriver.
 
 #### Groovy
 

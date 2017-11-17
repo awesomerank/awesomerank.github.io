@@ -136,7 +136,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [datastructures ★172](https://github.com/meh/elixir-datastructures) - A collection of protocols, implementations and wrappers to work with data structures.
 * [dlist ★2 ⏳2Y](https://github.com/stocks29/dlist) - Deque implementations in Elixir.
 * [eastar](https://github.com/herenowcoder/eastar) - A* graph pathfinding in pure Elixir.
-* [ecto_materialized_path ★9](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
+* [ecto_materialized_path ★10](https://github.com/asiniy/ecto_materialized_path) - Tree structure, hierarchy and ancestry for the ecto models.
 * [ecto_state_machine ★50](https://github.com/asiniy/ecto_state_machine) - Finite state machine pattern implemented on Elixir and  adopted for Ecto.
 * [elistrix ★9 ⏳2Y](https://github.com/tobz/elistrix) - A latency / fault tolerance library to help isolate your applications from an uncertain world of slow or failed services.
 * [erlang-algorithms ★84](https://github.com/aggelgian/erlang-algorithms) - Implementations of popular data structures and algorithms.
@@ -477,7 +477,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [eh ★15 ⏳2Y](https://github.com/Frost/eh) - A tool to look up Elixir documentation from the command line.
 * [eper ★405](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 * [ether ★3 ⏳2Y](https://github.com/maarek/ether) - Ether provides functionality to hook Elixir into the Erlang debugger.
-* [ex_debug_toolbar ★277](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
+* [ex_debug_toolbar ★293](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
 * [exrun ★65](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 * [observer_cli ★346](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 * [quaff ★60 ⏳1Y](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
@@ -487,7 +487,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 *Installing and running your code automatically on other machines.*
 
 * [ansible-elixir-stack ★254](https://github.com/HashNuke/ansible-elixir-stack) - 1-command setup & deploys to servers, with first-class support for Phoenix apps.
-* [bootleg ★158](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
+* [bootleg ★226](https://github.com/labzero/bootleg) - Simple deployment and server automation for Elixir.
 * [bottler ★26](https://github.com/rubencaro/bottler) - Bottler is a collection of tools that aims to help you generate releases, ship them to your servers, install them there, and get them live on production.
 * [edeliver](https://github.com/boldpoker/edeliver) - Deployment for Elixir and Erlang.
 * [elixir-on-docker ★89](https://github.com/CrowdHailer/elixir-on-docker) - A project template to get started developing clustered Elixir applications for cloud environments.
@@ -564,7 +564,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## Eventhandling
 *Sending/Emitting and receiving/handling Events in Elixir.*
 
-* [event_bus ★65](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
+* [event_bus ★68](https://github.com/mustafaturan/event_bus) - Simple event bus implementation with topic filtering and built-in event store and event watcher.
 * [goldrush ★62](https://github.com/DeadZen/goldrush) - Small, Fast event processing and monitoring for Erlang/OTP applications.
 * [reaxive ★149 ⏳1Y](https://github.com/alfert/reaxive) - Reaxive is a reactive event handling library, inspired by [Elm](http://elm-lang.org) and Reactive Extensions.
 
@@ -903,7 +903,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pit ★14](https://github.com/vic/pit) - Transform values as they flow inside a pipe.
 * [rebind ★0 ⏳2Y](https://github.com/camshaft/rebind) - rebind parse transform for Erlang.
 * [rulex](https://github.com/awetzel/rulex) - Simple rule handler using Elixir pattern matching.
-* [shorter_maps ★81](https://github.com/meyercm/shorter_maps) - ~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
+* [shorter_maps ★85](https://github.com/meyercm/shorter_maps) - ~M sigil for map shorthand. `~M{id name} ~> %{id: id, name: name}`.
 
 ## Markdown
 *Libraries and tools working with Markdown and such.*
@@ -1400,7 +1400,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exstagram ★11 ⏳1Y](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
 * [extripe ★20](https://github.com/princemaple/extripe) - Feature complete Stripe API wrapper.
 * [extwitter ★280](https://github.com/parroty/extwitter) - Twitter client library for Elixir.
-* [exurban ★1 ⏳2Y](https://github.com/oscar-lopez/exurban) - Elixir wrapper for UrbanAirship API.
+* [exurban ★1 ⏳3Y](https://github.com/oscar-lopez/exurban) - Elixir wrapper for UrbanAirship API.
 * [facebook ★78](https://github.com/mweibel/facebook.ex) - Facebook Graph API Wrapper written in Elixir.
 * [feedlex ★3 ⏳1Y](https://github.com/essenciary/feedlex) - Feedly RSS reader client for Elixir.
 * [fluent_client ★4 ⏳2Y](https://github.com/trustatom-oss/elixir-fluent-client) - Minimalistic fluentd client.

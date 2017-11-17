@@ -38,7 +38,7 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Criminal Mind](https://livingabook.com) - Interactive story book [(​iOS)](https://itunes.apple.com/us/app/mente-criminal-living-a-book/id924788775) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.mentecriminal).
 - [Dark Forest](https://livingabook.com) - Interactive book [(​iOS)](https://itunes.apple.com/mx/app/dark-forest-living-a-book/id695442145) [(Android)](https://play.google.com/store/apps/details?id=com.livingabook.darkforest).
 - [Deem](http://deemapp.co/) - The ultimate way to see movie reviews worldwide [(​iOS)](https://itunes.apple.com/app/deem-movies/id1057365760) [(Android)](https://play.google.com/store/apps/details?id=com.deem).
-- [FuseCloud ★54](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(iOS)](https://itunes.apple.com/us/app/fusecloud/id1173516856) [(Android)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en).
+- [FuseCloud ★55](https://github.com/fusetools/FuseCloud) - A SoundCloud<sup>®</sup> player that uses the free SoundCloud API [(iOS)](https://itunes.apple.com/us/app/fusecloud/id1173516856) [(Android)](https://play.google.com/store/apps/details?id=com.fuse.fusecloud&hl=en).
 - [GameCalculator](https://itunes.apple.com/us/app/gamecalculator/id952709405) - A custom game calculator for parties [(​iOS)](https://itunes.apple.com/us/app/gamecalculator/id952709405) [(Android)](https://play.google.com/store/apps/details?id=com.GameCalculator).
 - [Gig](https://play.google.com/store/apps/details?id=com.littleboat.gig) - Discover local nightlife [(Android)](https://play.google.com/store/apps/details?id=com.littleboat.gig).
 - [Guias Doop](http://guiadoop.com.br/download/) - Celebrity lifestyle guide. [(​iOS)](https://itunes.apple.com/br/app/guias-doop/id1235335392) [(Android)](https://play.google.com/store/apps/details?id=br.com.guiadoop.fuse)
@@ -90,37 +90,37 @@ Like `awesome-fuse`? Reach out to me and say *hi* on [Twitter](https://twitter.c
 - [Features Status](https://www.fusetools.com/docs/features) - List of current and upcoming Fuse features.
 - [Packages](https://www.fusetools.com/docs/packages) - A curated list of third party Fuse packages created by the community.
 - [Plugin API](https://www.fusetools.com/docs/technical-corner/fuse-protocol) - The official Fuse plugin API.
-- [Samples ★155](https://github.com/fusetools/fuse-samples) - Samples demonstrating the use of various Fuse and FuseJS APIs.
+- [Samples ★161](https://github.com/fusetools/fuse-samples) - Samples demonstrating the use of various Fuse and FuseJS APIs.
 - [Tour De Fuse ★9](https://github.com/englekk/TourDeFuse) - The sample for introducing functions of the Fuse.
 
 ## Open Source
 
-- [11t ★68](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon
+- [11t ★69](https://github.com/jeroensmeets/mastodon-app) - 11t is an iOS and Android app for connecting to Mastodon
 - [500px Gallery Demo ★25 ⏳1Y](https://github.com/jveres/D500px) - Nifty gallery demo app using 500px API.
-- [Firebase ★43](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
+- [Firebase ★44](https://github.com/fuse-compound/Fuse.Firebase) - Firebase bindings for Fuse.
 - [FormulaFuse ★0 ⏳1Y](https://github.com/sanderdan/FormulaFuse) - Formula 1 Fuse application.
 - [Fuse Input Validation ★1](https://github.com/mokko-lab/fuse-input-validation) - Reusable and highly functional input validation methods in Fuse components
 - [Fuse PM ★30](https://github.com/bolav/fusepm) - A Fusetools package manager.
-- [Fuse Pokedex ★4 ⏳1Y](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
+- [Fuse Pokedex ★4](https://github.com/franzsilva/FusePokeDex) - A Pokedex created using Fuse.
 - [Fuse Review ★0](https://github.com/LuisRodriguezLD/Fuse-RequestReview) - Get reviews from your users without making them leave the app.
-- [Fuse Samples ★155](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
+- [Fuse Samples ★161](https://github.com/fusetools/fuse-samples) - A collection of smaller examples using the various features of Fuse and FuseJS.
 - [Fuse Taptic-Feedback ★0](https://github.com/LuisRodriguezLD/Fuse-TapticFeedback) - Get access to the iPhone 7's taptic engine.
-- [fuse.QrScanner ★1](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode.
+- [fuse.QrScanner ★2](https://github.com/glenfordwilliams/fuse.QrScanner) - A small library for scanning QrCode.
 - [Fuse Tags with Firebase ★14 ⏳1Y](https://github.com/LuisRodriguezLD/Fuse-Tags-with-Firebase) - Simple Tags app. Adds and retrieves tags from Firebase.
 - [FuseBus](http://tmn.github.io/FuseBus/) - A simple Fuse application for testing and funtimes.
 - [Haxe ★29 ⏳2Y](https://github.com/elsassph/fusetools-haxe) - Haxe compiler for Fuse tools.
-- [Hikr ★38](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
+- [Hikr ★40](https://github.com/fusetools/hikr) - An example app case to accompany [Fuse's end-to-end tutorial](https://www.fusetools.com/docs/tutorial/tutorial).
 - [Infinite Scroll](https://bitbucket.org/uzeidurs/fuse-infinite-scroll/) - An example implementation of "infinite scroll" for use with Fuse Tools version 0.26 and above.
-- [Motion ★11](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.
+- [Motion ★12](https://github.com/AlexGustafsson/fuse-motion) - iOS accelerometer, gyroscope, magnetometer readings and more for Fuse.
 - [slush-xfuse](https://www.npmjs.com/package/slush-xfuse) - Fuse slush generator with Gulp, Rollup and Babel integration.
 - [Snake](https://bitbucket.org/uzeidurs/fuse-snake/) - A proof-of-concept experimental game of snake made with Fusetools.
 - [Syncano ★5 ⏳1Y](https://github.com/Syncano/syncano-fuse-example) - Simple example of integration Syncano with Fuse.
-- [UnityAds Sample ★5 ⏳1Y](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse.
+- [UnityAds Sample ★6 ⏳1Y](https://github.com/englekk/Fusetools_UnityAdsSample) - Simple example of integration UnityAds with Fuse.
 
 ## Plugins
 
 - [Alfred Workflow ★1 ⏳1Y](https://github.com/Hazealign/fuse-alfred-workflow) - Integrate Fuse on Alfred.
-- [Atom ★27](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse.
+- [Atom ★28](https://github.com/fusetools/Fuse.AtomPlugin) - Atom Editor plugin for Fuse.
 - [Bash Completion ★3 ⏳1Y](https://github.com/fusetools/UnoBashCompletion) - Simple bash completion script for UNO.
 - [Emacs ★4](https://github.com/kristianhasselknippe/fuse-mode) - Emacs plugin for Fuse.
 - [Sublime ★21](https://github.com/fusetools/Fuse.SublimePlugin) - Sublime Text 3 plugin for Fuse.

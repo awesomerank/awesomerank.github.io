@@ -75,7 +75,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [muda](https://muda.readthedocs.io/en/latest/) [:octocat: ★47](https://github.com/bmcfee/muda) [:package:](https://pypi.python.org/pypi/muda) -  Musical Data Augmentation.
 * [python_speech_features](https://github.com/jameslyons/python_speech_features) [:octocat: ★561](https://github.com/jameslyons/python_speech_features) [:package:](https://pypi.python.org/pypi/python_speech_features) - Common speech features for ASR.
 * [pyYAAFE](http://yaafe.sourceforge.net) [:octocat: ★112](https://github.com/Yaafe/Yaafe) - Python bindings for YAAFE.
-* [speechpy](https://github.com/astorfi/speechpy) [:octocat: ★368](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
+* [speechpy](https://github.com/astorfi/speechpy) [:octocat: ★382](https://github.com/astorfi/speechpy) [:package:](https://pypi.python.org/pypi/speechpy) - Library for Speech Processing and Recognition, mostly feature extraction for now.
 
 #### Speech Processing
 
@@ -130,11 +130,11 @@ The aim of this repository is to create a comprehensive, curated list of python 
 
 #### Audio related APIs and Datasets
 
-* [beets](http://beets.io/) [:octocat: ★6241](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
+* [beets](http://beets.io/) [:octocat: ★6302](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 * [dsdtools](http://dsdtools.readthedocs.io) [:octocat: ★14](https://github.com/faroit/dsdtools) [:package:](https://pypi.python.org/pypi/dsdtools) - Parse and process the [demixing secrets dataset](http://sisec17.audiolabs-erlangen.de/#/dataset).
 * [medleydb](http://medleydb.readthedocs.io) [:octocat: ★38](https://github.com/marl/medleydb) - Parse [medleydb](http://medleydb.weebly.com/) audio + annotations.
 * [Soundcloud API](https://github.com/soundcloud/soundcloud-python) [:octocat: ★449](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) - Wrapper for [Soundcloud API](https://developers.soundcloud.com/).
-* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: ★30150](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
+* [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: ★31060](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
 
 #### Wrappers for Audio Plugins
 

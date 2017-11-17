@@ -686,7 +686,7 @@ This Chrome extension extends the file search of a pull request to allow for act
 </details>
 
 
-## [Refined GitHub ★2655](https://github.com/sindresorhus/refined-github)
+## [Refined GitHub ★2817](https://github.com/sindresorhus/refined-github)
 <a href="https://chrome.google.com/webstore/detail/refined-github/hlepfoohegkhhmjieoechaddaejaokhf"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://github.com/fantattitude/refined-github-safari"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/safari/safari_48x48.png" width="24" /></a>
 

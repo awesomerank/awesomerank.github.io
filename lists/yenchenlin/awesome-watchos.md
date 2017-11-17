@@ -43,15 +43,15 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
   <space><space><img src="https://github.com/Instagram/IGInterfaceDataTable/blob/master/images/example.jpg" width="500") alt="Example App"/>
 
- * [JBWatchActivityIndicator ★490 ⏳1Y](https://github.com/mikeswanson/JBWatchActivityIndicator) - An easy way to generate activity indicator images for Apple Watch.
+ * [JBWatchActivityIndicator ★501 ⏳1Y](https://github.com/mikeswanson/JBWatchActivityIndicator) - An easy way to generate activity indicator images for Apple Watch.
 
   <space><space><img src="https://camo.githubusercontent.com/3bc9d761836a40e088f45285ac52dd5fef89df1b/687474703a2f2f7777772e6d696b657377616e736f6e2e636f6d2f66696c65732f4a4257617463684163746976697479496e64696361746f722f4a4257617463684163746976697479496e64696361746f722e676966" width="300") alt="Example App"/>
 ### Charts
- * [YOChartImageKit ★356](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS.
+ * [YOChartImageKit ★362](https://github.com/yasuoza/YOChartImageKit) - A chart image framework for watchOS.
 
   <space><space><img src="https://raw.githubusercontent.com/yasuoza/YOChartImageKit/assets/images/watchos/all.png") alt="Example App" width="760"/>
 
- * [NKWatchChart ★248 ⏳1Y](https://github.com/NilStack/NKWatchChart) - A chart library for Apple Watch based on PNChart and ios-charts.
+ * [NKWatchChart ★250 ⏳1Y](https://github.com/NilStack/NKWatchChart) - A chart library for Apple Watch based on PNChart and ios-charts.
 
   <space><space><img src="https://db.tt/UAWEZ1AF") alt="Example App" width="250"/>
 
@@ -73,8 +73,8 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
  * [thinkapps for watch](http://thinkapps.com/watch-apps) - A website help you create your free Apple Watch App prototype in just 10 minutes.
 
 ### Images Generator
- * [RadialChartImageGenerator ★408 ⏳1Y](https://github.com/hmaidasani/RadialChartImageGenerator) - A radial bar chart generator for apple watch.
- * [KFWatchKitAnimations ★352](https://github.com/kiavashfaisali/KFWatchKitAnimations) - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.
+ * [RadialChartImageGenerator ★410 ⏳1Y](https://github.com/hmaidasani/RadialChartImageGenerator) - A radial bar chart generator for apple watch.
+ * [KFWatchKitAnimations ★353](https://github.com/kiavashfaisali/KFWatchKitAnimations) - An image generator that creates beautiful 60 FPS animations for  Watch by recording animations from the iOS Simulator.
 
 # Sample Apps
  * [Lister](https://developer.apple.com/library/ios/samplecode/Lister/Introduction/Intro.html) - An official sample app demonstrates Apple Watch integration.
@@ -82,7 +82,7 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
    <space><space><img src="https://github.com/yenchenlin1994/awesome-watchos/blob/master/resources/lister.png") alt="Example App" width="260"/>
 
  * [WatchKit Catalog](https://developer.apple.com/library/ios/samplecode/WKInterfaceCatalog/Introduction/Intro.html) - An official sample app demonstrates how to use UI elements available in the WatchKit framework.
- * [Cherry ★366 ⏳2Y](https://github.com/kenshin03/Cherry) - A mini pomodoro timer app designed for the  Watch.
+ * [Cherry ★367 ⏳2Y](https://github.com/kenshin03/Cherry) - A mini pomodoro timer app designed for the  Watch.
 
    <space><space><img src="https://raw.githubusercontent.com/kenshin03/Cherry/master/cherry-screencaps.gif") alt="Example App" width="250"/>
 
@@ -94,16 +94,16 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
    <space><space><img src="https://raw.githubusercontent.com/sugarso/WWDC/master/Assets/watch1.png") alt="Example App" width="230"/>
 
- * [SwiftHN ★1469](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift.
- * [BaiduFM-Swift ★570](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM.
+ * [SwiftHN ★1481](https://github.com/Dimillian/SwiftHN) - A Hacker News reader written in Swift.
+ * [BaiduFM-Swift ★574](https://github.com/belm/BaiduFM-Swift) - A apple watch app for BaiduFM.
 
     <space><space><img src="https://raw.githubusercontent.com/belm/BaiduFM-Swift/master/ScreenShot/BaiduFM-Swift_AppleWatch_00.png") alt="Example App" width="250"/>
 
- * [done-swift ★107](https://github.com/FancyPixel/done-swift) - A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.
+ * [done-swift ★109](https://github.com/FancyPixel/done-swift) - A sample app to demonstrate data sharing between a WatchKit app and its main app using Realm.
 
     <space><space><img src="https://raw.githubusercontent.com/FancyPixel/done-swift/master/assets/screenshot.gif") alt="Example App" width="400"/>
 
- * [HighstreetWatchApp ★352 ⏳2Y](https://github.com/GetHighstreet/HighstreetWatchApp) - The watchKit app built on the <http://highstreetapp.com> platform.
+ * [HighstreetWatchApp ★353 ⏳2Y](https://github.com/GetHighstreet/HighstreetWatchApp) - The watchKit app built on the <http://highstreetapp.com> platform.
 
     <space><space><img src="https://github.com/GetHighstreet/HighstreetWatchApp/blob/master/Documentation/Assets/walkthrough.gif") alt="Example App" width="350"/>
 
@@ -115,12 +115,12 @@ A curated list of awesome watchOS frameworks, libraries, sample apps.
 
     <space><space><img src="https://camo.githubusercontent.com/689a09260a6427ede9580b298c141320132796df/68747470733a2f2f646c2e64726f70626f7875736572636f6e74656e742e636f6d2f752f32303131363433342f57617463684e6f7465732e676966") alt="Example App" width="500"/>
 
- * [WatchPics ★83 ⏳2Y](https://github.com/D-32/WatchPics) - Instagram for the Apple Watch.
+ * [WatchPics ★84 ⏳2Y](https://github.com/D-32/WatchPics) - Instagram for the Apple Watch.
 
     <space><space><img src="https://camo.githubusercontent.com/544c66f439b1328155ca4463c2fa73e514f80800/687474703a2f2f34362e3130352e32362e312f75706c6f6164732f7761746368706963732e6a7067") alt="Example App" width="500"/>
 
- * [WatchKit-Apps ★1067](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit.
- * [watchOS-2-Sampler ★1017](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2.
+ * [WatchKit-Apps ★1073](https://github.com/kostiakoval/WatchKit-Apps) - Tutorials app for WatchKit.
+ * [watchOS-2-Sampler ★1018](https://github.com/shu223/watchOS-2-Sampler) - Code examples for new features of watchOS 2.
 
  * [soon ★64 ⏳2Y](https://github.com/sandofsky/soon) - A countdown app.
 

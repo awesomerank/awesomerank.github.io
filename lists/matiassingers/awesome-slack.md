@@ -44,7 +44,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ## Unofficial clients
 - Linux - [PlaidChat ★512](https://github.com/plaidchat/plaidchat)
-- Linux - [ScudCloud ★1184](https://github.com/raelgc/scudcloud)
+- Linux - [ScudCloud ★1191](https://github.com/raelgc/scudcloud)
 - Windows - [SlackUI ★92](https://github.com/rfgamaral/SlackUI)
 
 ## Lists
@@ -375,7 +375,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [python-slackclient](https://github.com/slackhq/python-slackclient) ([pypi](https://pypi.python.org/pypi/slackclient/0.13)) - A basic client for Slack, which can optionally connect to the RTM API
 - [reach-slack-rtm ★16 ⏳1Y](https://github.com/izdi/react-slack-rtm) - Simple Slack RTM chat built with ReactJS and Django
 - [relay ★10 ⏳2Y](https://github.com/matsengrp/relay) - Bare-bones continuous integration using Docker Hub and Slack
-- [scudcloud ★1184](https://github.com/raelgc/scudcloud) - Ubuntu client for Slack
+- [scudcloud ★1191](https://github.com/raelgc/scudcloud) - Ubuntu client for Slack
 - [sscaas ★41](https://github.com/danielsamuels/sscaas) - Slack Slash Commands as a Service
 - [slack ★91 ⏳2Y](https://github.com/kn/slack) - A simple and comprehensive Slack API client
 - [slack-echo-chamber ★7 ⏳3Y](https://github.com/balloon-studios/slack-echo-chamber) - Crosspost messages from one channel into another
@@ -452,7 +452,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-ruby-client ★12](https://github.com/dblock/slack-ruby-client) - A Ruby client for the Slack Web and RealTime Messaging APIs
 - [slack-ruby-gem ★224](https://github.com/aki017/slack-ruby-gem) - A Ruby wrapper for the Slack API
 - [slack-semaphore-integration ★4 ⏳3Y](https://github.com/brunoadacosta/slack-semaphore-integration) - Send build status messages from Semaphore to Slack
-- [slack-shuffle ★5 ⏳2Y](https://github.com/romulomachado/slack-shuffle) - Slack integration for shuffling a list with your team members
+- [slack-shuffle ★5 ⏳3Y](https://github.com/romulomachado/slack-shuffle) - Slack integration for shuffling a list with your team members
 - [slack-slam ★1 ⏳2Y](https://github.com/matthewdu/slack-slam) - A key-value store for Slack
 - [slack-timezone-converter ★37](https://github.com/caiosba/slack-timezone-converter) - Converts any time string in a message to all timezones where the team is
 - [slackbot ★11 ⏳4Y](https://github.com/typekit/slackbot) - The laziest bot around

@@ -43,13 +43,13 @@ A curated list of awesome data visualizations frameworks, libraries and software
 ### Charting libraries
 - [Chart.js](http://www.chartjs.org/) - Charts with the canvas tag.
 - [Chartist.js](http://gionkunz.github.io/chartist-js/) - Responsive charts with great browser compatibility.
-- [dc.js ★5914](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
+- [dc.js ★5949](https://github.com/dc-js/dc.js) is an multi-Dimensional charting built to work natively with crossfilter.
 - [Dimple](http://dimplejs.org/) - An object-oriented API for business analytics.
 - [Dygraphs](http://dygraphs.com/) - Interactive line charts library that works with huge datasets.
 - [Echarts](https://github.com/ecomfe/echarts) - Highly customizable and interactive charts ready for big datasets. [React wrapper ★835](https://github.com/hustcc/echarts-for-react)
-- [Epoch ★4887](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
+- [Epoch ★4894](https://github.com/epochjs/epoch) - Perfect to create real-time charts.
 - [MetricsGraphics.js](https://metricsgraphicsjs.org/) - Optimized for time-series data.
-- [NVD3 ★6207](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
+- [NVD3 ★6246](https://github.com/novus/nvd3) - A reusable charting library written in d3.js.
 - [Plotly.js ★7091](https://github.com/plotly/plotly.js) - Powerful declarative library with support for 20 chart types.
 - [TechanJS](http://techanjs.org/) - Stock and financial charts.
 
@@ -60,8 +60,8 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [VivaGraph ★2414](https://github.com/anvaka/VivaGraphJS) - Graph drawing library for JavaScript.
 
 ### Maps
-- [CARTO ★1598](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
-- [Cesium ★2526](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
+- [CARTO ★1628](https://github.com/CartoDB/cartodb) - CARTO is an open source tool that allows for the storage and visualization of geospatial data on the web.
+- [Cesium ★2603](https://github.com/AnalyticalGraphicsInc/cesium) - WebGL 3D globes and maps.
 - [DataMaps ★2541](https://github.com/markmarkoh/datamaps) - Interactive SVG maps using D3.js.
 - [Leaflet](http://leafletjs.com) - JavaScript library for mobile-friendly interactive maps.
 - [Leaflet Data Visualization Framework ★509](https://github.com/humangeo/leaflet-dvf)  - A framework designed to simplify data visualization and thematic mapping using Leaflet.
@@ -73,7 +73,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 
 ### React
 - [React-vis ★2520](https://github.com/uber/react-vis) - React components to build data visualizations.
-- [Recharts ★6892](https://github.com/recharts/recharts) - Declarative react components to render D3 charts.
+- [Recharts ★7166](https://github.com/recharts/recharts) - Declarative react components to render D3 charts.
 - [Victory](https://formidable.com/open-source/victory/) - Composable components for building interactive data visualizations
 - [nivo ★1793](https://github.com/plouc/nivo) - Supercharged dataviz components for React with isomorphic ability, [demo](http://nivo.rocks).
 
@@ -132,7 +132,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [visNetwork](http://dataknowledge.github.io/visNetwork/) - Interactive network visualisations
 
 ## Ruby tools
-- [Chartkick ★4516](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
+- [Chartkick ★4555](https://github.com/ankane/chartkick) - Create charts with one line of Ruby.
 
 ## Other tools
 Tools that are not tied to a particular platform or language.

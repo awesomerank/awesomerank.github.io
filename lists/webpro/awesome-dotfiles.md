@@ -62,10 +62,10 @@ A collection of the most popular, well-maintained, and collaborative dotfiles re
 
 Title | Description | Focus
 :--|:--|:--
-[Bash it ★6858](https://github.com/Bash-it/bash-it) | Community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
+[Bash it ★7029](https://github.com/Bash-it/bash-it) | Community bash framework. | Autocompletion, themes, aliases, custom functions. Well-structured framework.
 [Mathias’s dotfiles](https://github.com/mathiasbynens/dotfiles) | Sensible hacker defaults for macOS | Lots of goodness here, great collaborative community effort.
 [Maximum Awesome ★4807](https://github.com/square/maximum-awesome) | Config files for vim and tmux | Vim, tmux. Built for Mac OS X.
-[dev-setup ★3076](https://github.com/donnemartin/dev-setup) | Mac OS X development environment setup | Extensive setup of developer tools on OS X.
+[dev-setup ★3145](https://github.com/donnemartin/dev-setup) | Mac OS X development environment setup | Extensive setup of developer tools on OS X.
 [webpro's dotfiles ★221](https://github.com/webpro/dotfiles) | macOS dotfiles | Bash, Homebrew, Brew Cask, Git, Node.js, Hammerspoon.
 
 ### Zsh
@@ -74,7 +74,7 @@ Title | Description | Focus
 :--|:--|:--
 [thoughtbot dotfiles](https://github.com/thoughtbot/dotfiles) | Set of vim, zsh, git, and tmux configuration files | Zsh, vim, tmux, git, homebrew. Uses [rcm ★1643](https://github.com/thoughtbot/rcm).
 [oh-my-zsh](http://ohmyz.sh/) | Community-driven framework for managing your zsh configuration. | Includes 200+ optional plugins (rails, git, OSX, hub, capistrano, brew, ant, php, python, etc), over 140 themes to spice up your morning, and an auto-update tool.
-[Prezto ★8128](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
+[Prezto ★8253](https://github.com/sorin-ionescu/prezto) | The configuration framework for Zsh. | Enriches the command line interface environment with sane defaults, aliases, functions, auto completion, and prompt themes.
 [YADR](http://skwp.github.io/dotfiles/) | The best vim, git, zsh plugins and the cleanest vimrc you've ever seen | Homebrew, zsh, git, vim, and more. Active repository.
 [holman does dotfiles ★4680](https://github.com/holman/dotfiles) | holman does dotfiles | Organized well around topics. Author wants it to work for everyone.
 [antigen](http://antigen.sharats.me/) | Plugin manager for zsh, inspired by oh-my-zsh and vundle. | Antigen is a small set of functions that help you easily manage your shell (zsh) plugins. Antigen is to zsh, what Vundle is to vim.
@@ -85,7 +85,7 @@ Title | Description | Focus
 
 Title | Description | Focus
 :--|:--|:--
-[oh-my-fish ★2702](https://github.com/oh-my-fish/oh-my-fish) | Community Fish framework. | Includes many plugins and themes, with installation, auto-update, and scaffolding tools.
+[oh-my-fish ★2812](https://github.com/oh-my-fish/oh-my-fish) | Community Fish framework. | Includes many plugins and themes, with installation, auto-update, and scaffolding tools.
 [Paul's dotfiles ★2891](https://github.com/paulirish/dotfiles) | Abundant dotfiles with a plethora of cool custom functions | Fish, macOS, Homebrew, Custom Shell functions
 [rkalis's dotfiles ★19](https://github.com/rkalis/dotfiles) | Well-maintained dotfiles featuring Fish, repository management and Hammerspoon | Fish, macOS, Homebrew, Repository management, Hammerspoon
 
@@ -101,7 +101,7 @@ Title | Description | Focus
 * [GNU Stow](http://www.gnu.org/software/stow/) - Symlink farm manager which takes distinct packages of software and/or data located in separate directories on the filesystem, and makes them appear to be installed in the same place.
 * [homeshick ★1116](https://github.com/andsens/homeshick) - Git dotfile synchronizer written in Bash.
 * [homesick ★1942](https://github.com/technicalpickles/homesick) - Your home directory is your castle. Don't leave your dotfiles behind ([article](https://technicalpickles.com/posts/never-leave-your-dotfiles-behind-again-with-homesick)).
-* [mackup ★6420](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
+* [mackup ★6541](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux).
 * [rcm ★1643](https://github.com/thoughtbot/rcm) - rc file (dotfile) management
 * [SaltStack](https://saltstack.com/) - Intelligent orchestration for the software-defined data center ([article](https://medium.com/@rawkode/managing-dotfiles-with-saltstack-eb600867073e)).
 * [themer ★100](https://github.com/mjswensen/themer) - Manage and generate themes across your development tools from within your dotfiles.
@@ -112,7 +112,7 @@ Title | Description | Focus
 
 * [Cider ★776](https://github.com/msanders/cider) - Hassle-free bootstrapping with Homebrew.
 * [dockutil ★496](https://github.com/kcrawford/dockutil) - Command line tool for managing dock items
-* [mas ★3634](https://github.com/mas-cli/mas) - Mac App Store command line interface
+* [mas ★3729](https://github.com/mas-cli/mas) - Mac App Store command line interface
 
 ## Miscellaneous
 

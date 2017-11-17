@@ -129,7 +129,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-anywhere ★556](https://github.com/apollographql/graphql-anywhere) - Run a GraphQL query anywhere, against any data, with no schema.
 * [graphql-tag ★394](https://github.com/apollographql/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries.
 * [modelizr ★143](https://github.com/julienvincent/modelizr) - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
-* [vue-apollo ★1064](https://github.com/Akryum/vue-apollo) - Vue integration for apollo.
+* [vue-apollo ★1194](https://github.com/Akryum/vue-apollo) - Vue integration for apollo.
 * [graphql-thinky ★57](https://github.com/fenos/graphql-thinky) - Build an optimized GraphQL schema from Thinky RethinkDB models.
 * [graphql-pouch ★124](https://github.com/MikeBild/graphql-pouch) - A GraphQL-API runtime on top of PouchDB created by GraphQL shorthand notation as a self contained service with CouchDB synchronization.
 * [gql-tools ★14](https://github.com/almilo/gql-tools) - Tool library with CLI for schema generation and manipulation.
@@ -227,8 +227,8 @@ If you want to contribute to this list (please do), send me a pull request.
 * [spring-graphql-common ★84](https://github.com/oembedler/spring-graphql-common) - Spring Framework GraphQL Library.
 * [graphql-spring-boot ★115](https://github.com/graphql-java/graphql-spring-boot) - GraphQL and GraphiQL Spring Framework Boot Starters.
 * [neo4j-graphql ★129](https://github.com/neo4j-graphql/neo4j-graphql) - GraphQL bindings for Neo4j, generates and runs Cypher.
-* [vertx-graphql-service-discovery ★21](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
-* [vertx-dataloader ★32](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
+* [vertx-graphql-service-discovery ★22](https://github.com/engagingspaces/vertx-graphql-service-discovery) - Asynchronous GraphQL service discovery and querying for your microservices.
+* [vertx-dataloader ★34](https://github.com/engagingspaces/vertx-dataloader) - Port of Facebook DataLoader for efficient, asynchronous batching and caching in clustered GraphQL environments
 * [LiveGQL](https://github.com/Billy-Bichon/LiveGQL) - GraphQL subscription client in Java.
 * [rdbms-to-graphql ★7](https://github.com/ebridges/rdbms-to-graphql) - A Java CLI program that generates a GraphQL schema from a JDBC data source.
 
@@ -450,7 +450,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [graphql-express-sqlite ★55 ⏳2Y](https://github.com/mrblueblue/graphql-express-sqlite) - GraphQL server with Sqlite and Express
 * [koa-graphql-relay-example](https://github.com/chentsulin/koa-graphql-relay-example) - Example of [koa-graphql ★452](https://github.com/chentsulin/koa-graphql)
 * [relay-fullstack ★857](https://github.com/lvarayut/relay-fullstack) - Relay Starter Kit integrated with Relay, GraphQL, Express, ES6/ES7, JSX, Webpack, Babel, Material Design Lite, and PostCSS.
-* [serverless-graphql-blog ★671](https://github.com/serverless/serverless-graphql-blog) - A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint
+* [serverless-graphql-blog ★690](https://github.com/serverless/serverless-graphql-blog) - A Serverless Blog leveraging GraphQL to offer a REST API with only 1 endpoint
 * [relay-cart ★18](https://github.com/soonlive/relay-cart) - A simple shopping cart example leveraging relay & GraphQL with routing and pagination.
 * [graphql-loader ★40 ⏳1Y](https://github.com/applification/graphql-loader) - Example project to illustrate GraphQL, Express and Facebook DataLoader to connect to third party REST API
 * [swapi-graphql-lambda ★14 ⏳1Y](https://github.com/alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/

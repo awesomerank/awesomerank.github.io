@@ -94,7 +94,7 @@ Project Atomic provides the best platform for your Linux Docker Kubernetes (LDK)
 Ubuntu Core is the perfect system for large-scale cloud container deployments, bringing transactional updates to the world’s favourite container platform.
 * [ResinOS](https://resinos.io/)  
 A host OS tailored for containers, designed for reliability, proven in production.
-* [Photon ★1304](https://github.com/vmware/photon)  
+* [Photon ★1337](https://github.com/vmware/photon)  
 Photon OS is a minimal Linux container host designed to have a small footprint and tuned for VMware platforms. Photon is intended to invite collaboration around running containerized and Linux applications in a virtualized environment.
 * [Clear Linux Project](https://clearlinux.org/documentation/gs_getting_started.html)  
 The Clear Linux Project for Intel Architecture is a distribution built for various Cloud use cases.
@@ -106,24 +106,24 @@ OSv is the open source operating system designed for the cloud. Built from the g
 
 ## Hypervisors
 
-* [Docker ★8284](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)  
+* [Docker ★8614](https://github.com/veggiemonk/awesome-docker#cloud-infrastructure)  
 An open platform for distributed applications for developers and sysadmins. **Standard de facto**.
-* [LXD ★1492](https://github.com/lxc/lxd)  
+* [LXD ★1530](https://github.com/lxc/lxd)  
 Daemon based on liblxc offering a REST API to manage LXC containers.
 * [OpenVZ](https://openvz.org/Main_Page)  
 OpenVZ is container-based virtualization for Linux. OpenVZ creates multiple secure, isolated Linux containers (otherwise known as VEs or VPSs) on a single physical server enabling better server utilization and ensuring that applications do not conflict.
 
 ## Containers
 
-* [runc ★4115](https://github.com/opencontainers/runc)  
+* [runc ★4184](https://github.com/opencontainers/runc)  
 runc is a CLI tool for spawning and running containers according to the OCS specification.
-* [Bocker ★4515 ⏳2Y](https://github.com/p8952/bocker)  
+* [Bocker ★4594 ⏳2Y](https://github.com/p8952/bocker)  
 Docker implemented in around 100 lines of bash.
 * [Rocket](https://github.com/coreos/rkt)  
 rkt (pronounced "rock-it") is a CLI for running app containers on Linux. rkt is designed to be composable, secure, and fast. Based on AppC specification.
-* [LXC ★1848](https://github.com/lxc/lxc)  
+* [LXC ★1886](https://github.com/lxc/lxc)  
 LXC is the well known set of tools, templates, library and language bindings. It's pretty low level, very flexible and covers just about every containment feature supported by the upstream kernel.
-* [Vagga ★1301](https://github.com/tailhook/vagga)  
+* [Vagga ★1323](https://github.com/tailhook/vagga)  
 Vagga is a fully-userspace container engine inspired by Vagrant and Docker, specialized for development environments.
 * [libct ★89](https://github.com/xemul/libct)  
 Libct is a containers management library which provides convenient API for frontend programs to rule a container during its whole lifetime.
@@ -131,30 +131,30 @@ Libct is a containers management library which provides convenient API for front
 A big toolkit to interact with the virtualization capabilities of recent versions of Linux (and other OSes).
 * [systemd-nspawn](http://manpages.ubuntu.com/manpages/utopic/man1/systemd-nspawn.1.html)  
 Spawn a namespace container for debugging, testing and building. Part of [systemd](https://wiki.freedesktop.org/www/Software/systemd/).
-* [porto ★181](https://github.com/yandex/porto)  
+* [porto ★188](https://github.com/yandex/porto)  
 The main goal of Porto is to create a convenient, reliable interface over several Linux kernel mechanism such as cgroups, namespaces, mounts, networking etc.
-* [udocker ★179](https://github.com/indigo-dc/udocker)  
+* [udocker ★203](https://github.com/indigo-dc/udocker)  
 A basic user tool to execute simple containers in batch or interactive systems without root privileges.
-* [Let Me Contain That For You ★3066 ⏳2Y](https://github.com/google/lmctfy)  
+* [Let Me Contain That For You ★3071 ⏳2Y](https://github.com/google/lmctfy)  
 LMCTFY is the open source version of Google’s container stack, which provides Linux application containers.
 * [cc-oci-runtime ★406](https://github.com/01org/cc-oci-runtime)  
 Intel Clear Linux OCI (Open Containers Initiative) compatible runtime.
-* [railcar ★627](https://github.com/oracle/railcar)  
+* [railcar ★642](https://github.com/oracle/railcar)  
 Railcar is a rust implementation of the opencontainers initiative's runtime spec. It is similar to the reference implementation runc, but it is implemented completely in rust for memory safety without needing the overhead of a garbage collector or multiple threads.
 
 ## Sandboxes
 
 * [Firejail](https://l3net.wordpress.com/projects/firejail/)  
 Firejail is a SUID sandbox program that reduces the risk of security breaches by restricting the running environment of untrusted applications using Linux namespaces, seccomp-bpf and Linux capabilities.
-* [NsJail ★803](https://github.com/google/nsjail)  
+* [NsJail ★875](https://github.com/google/nsjail)  
 NsJail is a process isolation tool for Linux. It makes use of the namespacing, resource control, and seccomp-bpf syscall filter subsystems of the Linux kernel.
-* [Subuser ★651](https://github.com/subuser-security/subuser)  
+* [Subuser ★659](https://github.com/subuser-security/subuser)  
 Securing the Linux desktop with Docker.
 * [Snappy](https://wiki.ubuntu.com/SecurityTeam/Specifications/SnappyConfinement)  
 Snappy Ubuntu Core is a new rendition of Ubuntu with transactional updates - a minimal server image with the same libraries as today’s Ubuntu, but applications are provided through a simpler mechanism.
 * [xdg-app](https://wiki.gnome.org/Projects/SandboxedApps)  
 xdg-app is a system for building, distributing and running sandboxed desktop applications on Linux.
-* [Bubblewrap ★545](https://github.com/projectatomic/bubblewrap)  
+* [Bubblewrap ★569](https://github.com/projectatomic/bubblewrap)  
 Run applications in a sandbox using Linux namespaces without root privileges, with user namespacing provided via setuid binary.
 
 ## Partial Access
@@ -165,11 +165,11 @@ Run program with namespaces of other processes. Part of the util-linux.
 Process network namespace management. Part of the iproute2.
 * [unshare](http://man7.org/linux/man-pages/man1/unshare.1.html)  
 Run program with some namespaces unshared from parent. Part of the util-linux.
-* [python-nsenter ★54](https://github.com/zalando/python-nsenter)  
+* [python-nsenter ★56](https://github.com/zalando/python-nsenter)  
 This Python package allows entering Linux kernel namespaces (mount, IPC, net, PID, user and UTS) by doing the "setns" syscall.
 * [butter](https://pypi.python.org/pypi/butter)  
 Python library to interface to low level linux features (inotify, fanotify, timerfd, signalfd, eventfd, containers) with asyncio support.
-* [pyspaces ★58 ⏳1Y](https://github.com/Friz-zy/pyspaces)  
+* [pyspaces ★59 ⏳1Y](https://github.com/Friz-zy/pyspaces)  
 Works with Linux namespaces through glibc with pure python.
 * [CRIU](https://criu.org/Main_Page)  
 Checkpoint/Restore In Userspace is a software tool for Linux operating system. Using this tool, you can freeze a running application (or part of it) and checkpoint it to a hard drive as a collection of files. CRIU integrated with Docker and LXC to implement Live migration of containers.
@@ -189,19 +189,19 @@ A collaborative project to document container-based application architecture, cr
 
 ### Tools
 
-* [Docker bench security ★2713](https://github.com/docker/docker-bench-security)  
+* [Docker bench security ★2831](https://github.com/docker/docker-bench-security)  
 The Docker Bench for Security is a script that checks for dozens of common best-practices around deploying Docker containers in production.
 * [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers/)  
 Open Source Vulnerability Analysis for your Containers.
 * [bane](https://github.com/jfrazelle/bane)  
 Custom AppArmor profile generator for docker containers.
-* [OpenSCAP ★201](https://github.com/OpenSCAP/container-compliance)  
+* [OpenSCAP ★205](https://github.com/OpenSCAP/container-compliance)  
 The OpenSCAP ecosystem provides multiple tools to assist administrators and auditors with assessment, measurement and enforcement of security baselines.
 * [drydock ★47 ⏳1Y](https://github.com/zuBux/drydock)  
 Drydock provides a flexible way of assessing the security of your Docker daemon configuration and containers using editable audit templates.
 * [trireme](https://www.aporeto.com/trireme/)  
 Security by segmentation for Docker and Kubernetes.
-* [goss ★1671](https://github.com/aelsabbahy/goss)  
+* [goss ★1740](https://github.com/aelsabbahy/goss)  
 Quick and Easy server testing/validation.
 
 

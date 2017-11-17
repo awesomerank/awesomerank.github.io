@@ -30,24 +30,24 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 
 ## Open Source
 
-* [dropwizard-swagger ★103](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints.
-* [dropwizard-jaxws ★41](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API.
+* [dropwizard-swagger ★104](https://github.com/smoketurner/dropwizard-swagger) - Serves Swagger UI static content and loads Swagger endpoints.
+* [dropwizard-jaxws ★42](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API.
 * [dropwizard-redirect-bundle ★13 ⏳1Y](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects.
-* [dropwizard-template-config ★40](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template.
+* [dropwizard-template-config ★41](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template.
 * [dropwizard-caching-bundle ★8 ⏳1Y](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses.
-* [dropwizard-xml ★26 ⏳1Y](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs
+* [dropwizard-xml ★28 ⏳1Y](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs
 * [dropwizard-crypto ★13](https://github.com/meltmedia/dropwizard-crypto) - A Cryptographic Bundle for Dropwizard
 * [dropwizard-circuitbreaker ★23](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard
 * [dropwizard-maxmind-bundle ★3](https://github.com/phaneesh/dropwizard-maxmind-bundle) - MaxMind GeoIP2 support for dropwizard
 * [dropwizard-protobuf ★35](https://github.com/dropwizard/dropwizard-protobuf) - Support for reading and writing Google Protocol Buffer objects within Dropwizard
 * [dropwizard-activemq-bundle ★29](https://github.com/mbknor/dropwizard-activemq-bundle) - send and receive JSON via ActiveMQ in your Dropwizard application
-* [dropwizard-consul ★46](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard
+* [dropwizard-consul ★47](https://github.com/smoketurner/dropwizard-consul) - A Consul bundle for Dropwizard
 * [dropwizard-zipkin ★33](https://github.com/smoketurner/dropwizard-zipkin) - A Zipkin bundle for Dropwizard
-* [dropwizard-graphql ★14](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard
+* [dropwizard-graphql ★16](https://github.com/smoketurner/dropwizard-graphql) - A GraphQL bundle for Dropwizard
 * [dropwizard-money ★1](https://github.com/smoketurner/dropwizard-money) - A Money bundle for Dropwizard
 * [breakerbox ★60](https://github.com/yammer/breakerbox) - Frontend for Tenacity + Archaius
 * [tenacity ★205](https://github.com/yammer/tenacity) - A Hystrix bundle for Dropwizard
-* [dropwizard-grpc ★12](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service
+* [dropwizard-grpc ★15](https://github.com/msteinhoff/dropwizard-grpc) - use a gRPC server in a Dropwizard service
 * [sqs-dropwizard](https://github.com/bascan/sqs-dropwizard) - Amazon SQS integration
 * [dropwizard-simple-cors ★0](https://github.com/ojacobson/dropwizard-simple-cors) - A Dropwizard bundle to provide simple, sensible CORS support
 * [dropwizard-version-info ★5](https://github.com/palantir/dropwizard-version-info) - A Dropwizard bundle which exposes a version endpoint
@@ -55,11 +55,11 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 ### Authentication
 
 * [dropwizard-auth-ldap ★32](https://github.com/yammer/dropwizard-auth-ldap) - LDAP authentication for Dropwizard
-* [dropwizard-jwt-cookie-authentication ★18](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) - Dropwizard bundle managing authentication through JWT cookies
+* [dropwizard-jwt-cookie-authentication ★19](https://github.com/dhatim/dropwizard-jwt-cookie-authentication) - Dropwizard bundle managing authentication through JWT cookies
 
 ### Assets
 
-* [dropwizard-configurable-assets-bundle ★60 ⏳1Y](https://github.com/bazaarvoice/dropwizard-configurable-assets-bundle) - An implementation of an AssetBundle for use in Dropwizard that allows user configuration.
+* [dropwizard-configurable-assets-bundle ★59 ⏳1Y](https://github.com/bazaarvoice/dropwizard-configurable-assets-bundle) - An implementation of an AssetBundle for use in Dropwizard that allows user configuration.
 * [dropwizard-markdown-assets-bundle ★2 ⏳1Y](https://github.com/rnorth/dropwizard-markdown-assets-bundle) - renders Markdown files as pretty HTML
 
 ### Data Stores
@@ -79,21 +79,21 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 
 ### Logging
 
-* [dropwizard-gelf ★46](https://github.com/gini/dropwizard-gelf) - Addon bundle for Dropwizard to support logging to a GELF-enabled servers
+* [dropwizard-gelf ★47](https://github.com/gini/dropwizard-gelf) - Addon bundle for Dropwizard to support logging to a GELF-enabled servers
 * [dropwizard-raven ★15](https://github.com/tradier/dropwizard-raven) - Dropwizard integration for error logging to Sentry
 * [dropwizard-logstash-encoder ★13](https://github.com/Wikia/dropwizard-logstash-encoder) - Dropwizard logging addon for sending logs using the logstash-logback-encoder
 
 ### Scheduled/Recurrence Jobs
 
 * [dropwizard-quartz ★54 ⏳2Y](https://github.com/jaredstehler/dropwizard-quartz) - Simple Job Scheduler implementation integrating Guice and Quartz.
-* [dropwizard-jobs ★97](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard
+* [dropwizard-jobs ★102](https://github.com/spinscale/dropwizard-jobs) - Quartz integration for dropwizard
 * [dropwizard-sundial ★26](https://github.com/timmolter/dropwizard-sundial) - Scheduled jobs in Dropwizard using Sundial
 
 ### Guice
 
-* [dropwizard-guice ★240](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice.
-* [dropwizard-guicey ★109](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration
-* [dropwizard-guicier ★15](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration.
+* [dropwizard-guice ★242](https://github.com/HubSpot/dropwizard-guice) - Adds support for Guice.
+* [dropwizard-guicey ★110](https://github.com/xvik/dropwizard-guicey) - Dropwizard guice integration
+* [dropwizard-guicier ★17](https://github.com/HubSpot/dropwizard-guicier) - A Dropwizard bundle to handle Guice integration.
 
 ### Deployment
 

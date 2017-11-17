@@ -51,7 +51,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 ## General resources
 
 - [Official site](https://wagtail.io/)
-- [GitHub repository ★4797](https://github.com/wagtail/wagtail)
+- [GitHub repository ★4877](https://github.com/wagtail/wagtail)
 - [Twitter account](https://twitter.com/wagtailcms)
 - [Roadmap](https://github.com/wagtail/wagtail/projects/1)
 - [Other resources](#resources)
@@ -73,7 +73,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 - [Wagtail TinyMCE ★24](https://github.com/isotoma/wagtailtinymce) - A TinyMCE editor integration for Wagtail.
 - [Wagtail Froala ★8](https://github.com/jaydensmith/wagtailfroala) - Extends Wagtail to use the Froala WYSIWYG editor in RichTextField/RichTextBlock.
 - [Wagtail Medium Editor ★10](https://github.com/dperetti/Django-wagtailmedium) - A customizable Medium Editor for Wagtail, with link anchors support.
-- [WagtailDraftail](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail](https://github.com/springload/draftail) and [draftjs_exporter ★16](https://github.com/springload/draftjs_exporter).
+- [WagtailDraftail](https://github.com/springload/wagtaildraftail) – Draft.js editor for Wagtail, built upon [Draftail](https://github.com/springload/draftail) and [draftjs_exporter ★18](https://github.com/springload/draftjs_exporter).
 
 ### Widgets
 
@@ -134,7 +134,7 @@ Awesome Wagtail [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38
 
 ### Translations
 
-- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation ★535](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
+- [Wagtail Modeltranslation](https://github.com/infoportugal/wagtail-modeltranslation) - Simple app containing a mixin model that integrates [django-modeltranslation ★549](https://github.com/deschler/django-modeltranslation) into Wagtail panels system.
 - [wagtailtrans ★33](https://github.com/LUKKIEN/wagtailtrans) - A Wagtail add-on for supporting multilingual sites.
 
 ### Forms

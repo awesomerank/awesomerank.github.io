@@ -104,7 +104,7 @@ A curated list of awesome HBase projects and resources.
 
 #### Secondary Indices
 
-* [hindex ★444](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase.
+* [hindex ★453](https://github.com/Huawei-Hadoop/hindex) - Secondary index for HBase.
 * [Lily HBase Indexer](http://ngdata.github.io/hbase-indexer/) - Quickly and easily search for content stored in HBase.
 
 #### Transactions

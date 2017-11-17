@@ -124,13 +124,13 @@ A curated list of fonts and typography resources.
   * [Source Sans Pro ★2089](https://github.com/adobe-fonts/source-sans-pro)
   * [Source Serif Pro ★1220](https://github.com/adobe-fonts/source-serif-pro)
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-* [Codeface ★4223](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
+* [Codeface ★4276](https://github.com/chrissimpkins/codeface) - Gallery of monospaced fonts for developers
 * [Fantasque Sans Mono ★3368](https://github.com/belluzj/fantasque-sans)
 * [Go Fonts](https://blog.golang.org/go-fonts) - Open source fonts from Golang Project
 * [Hack ★10314](https://github.com/source-foundry/Hack)
 * [Inconsolata](http://levien.com/type/myfonts/inconsolata.html)
 * [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
-* [Meslo-Font ★1790 ⏳2Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
+* [Meslo-Font ★1806 ⏳2Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Mononoki](http://madmalik.github.io/mononoki/)
 * [Nerd Fonts ★5771](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 
@@ -146,7 +146,7 @@ A curated list of fonts and typography resources.
 * [Font.js](http://pomax.nihongoresources.com/pages/Font.js/)
 * [fontkit ★241](https://github.com/devongovett/fontkit) - An advanced font engine for Node and the browser ([demo](https://fontkit-demo.now.sh/))
 * [fontmin ★2344](https://github.com/ecomfe/fontmin) - Font minifier
-* [Lettering.js ★4909](https://github.com/davatron5000/Lettering.js)
+* [Lettering.js ★4940](https://github.com/davatron5000/Lettering.js)
 * [localFont ★858 ⏳1Y](https://github.com/jaicab/localFont) - Save fonts in localStorage
 * [opentype.js ★1782](https://github.com/nodebox/opentype.js) - Parser and writer for TrueType and OpenType fonts
 * [Typefont ★1277](https://github.com/Sirvasile/Typefont) - Algorithm that tries to recognize the font of a text in a photo
@@ -166,7 +166,7 @@ A curated list of fonts and typography resources.
 * [Command line font-manager ★16 ⏳1Y](https://github.com/alyssais/font)
 * [Font Squirrel Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Upload OTF or TTF fonts, receive webfonts
 * [FontForge ★1676](https://github.com/fontforge/fontforge) - Cross-platform font editor
-* [Powerline Fonts ★9598](https://github.com/powerline/fonts) - Patched fonts for Powerline users
+* [Powerline Fonts ★9911](https://github.com/powerline/fonts) - Patched fonts for Powerline users
 
 ## License
 

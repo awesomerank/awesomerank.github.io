@@ -117,7 +117,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [CNTK ★12922](https://github.com/Microsoft/CNTK) - Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit. [Boost]
 * [tiny-dnn ★3431](https://github.com/tiny-dnn/tiny-dnn) - A header only, dependency-free deep learning framework in C++11. [BSD]
 * [Veles ★838](https://github.com/Samsung/veles) - Distributed platform for rapid Deep learning application development. [Apache]
-* [Kaldi ★2592](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. [Apache]
+* [Kaldi ★2769](https://github.com/kaldi-asr/kaldi) - Toolkit for speech recognition. [Apache]
 
 ## Asynchronous Event Loop
 
@@ -237,7 +237,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [Nettle](http://www.lysator.liu.se/~nisse/nettle/) - A low-level cryptographic library. [LGPL]
 * [OpenSSL ★5633](https://github.com/openssl/openssl) - A robust, commercial-grade, full-featured, and Open Source cryptography library. [Apache] [website](http://www.openssl.org/)
 * [retter ★17](https://github.com/MaciejCzyzewski/retter) - A collection of hash functions, ciphers, tools, libraries, and materials related to cryptography.
-* [s2n ★2883](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. [Apache]
+* [s2n ★2909](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols. [Apache]
 * [Tiny AES128 in C](https://github.com/kokke/tiny-AES128-C) - A small and portable implementation of the AES128 ECB encryption algorithm implemented in C. [PublicDomain]
 * [Themis ★440](https://github.com/cossacklabs/themis) - crypto library for painless data security, providing symmetric and asymmetric encryption, secure sockets with forward secrecy, for mobile and server platforms. [Apache2]
 
@@ -463,7 +463,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [GStreamer](http://gstreamer.freedesktop.org/) - A library for constructing graphs of media-handling components. [LGPL]
 * [LIVE555 Streaming Media](http://www.live555.com/liveMedia/) - Multimedia streaming library using open standard protocols (RTP/RTCP, RTSP, SIP). [LGPL]
 * [libVLC](https://wiki.videolan.org/LibVLC) - libVLC (VLC SDK) media framework. [GPL]
-* [QtAv ★1307](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
+* [QtAv ★1357](https://github.com/wang-bin/QtAV) - A multimedia playback framework based on Qt and FFmpeg to write a player easily. [LGPL] [website](http://wang-bin.github.io/QtAV/)
 * [SDL](http://www.libsdl.org/) :zap: - Simple DirectMedia Layer. [zlib]
 * [SFML ★3776](https://github.com/SFML/SFML) :zap: - Simple and Fast Multimedia Library. [zlib] [website](http://www.sfml-dev.org/)
 
@@ -547,7 +547,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [MessagePack ★1154](https://github.com/msgpack/msgpack-c) - Efficient binary serialization format "like JSON" for C/C++. [Apache2] [website](http://msgpack.org/)
 * [protobuf ★21171](https://github.com/google/protobuf) - Protocol Buffers - Google's data interchange format. [BSD]
 * [protobuf-c ★754](https://github.com/protobuf-c/protobuf-c) - Protocol Buffers implementation in C. [BSD]
-* [SimpleBinaryEncoding ★1194](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
+* [SimpleBinaryEncoding ★1216](https://github.com/real-logic/simple-binary-encoding) - encoding and decoding application messages in binary format for low-latency applications. [Apache2]
 
 ## Video
 
@@ -602,7 +602,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios [Simplified BSD]
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
 * [CppVerbalExpressions ★223](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. [MIT]
-* [QtVerbalExpressions ★30 ⏳2Y](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
+* [QtVerbalExpressions ★31 ⏳2Y](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
 * [c-smart-pointers ★627](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. [MIT]
 * [cxx-prettyprint ★294](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
@@ -833,14 +833,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 # Other Awesome Lists
 *Other amazingly awesome lists*
 
-* [lists ★4518](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
+* [lists ★4569](https://github.com/jnv/lists) - List of (awesome) lists curated on GitHub.
 * [awesome-awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness) - A curated list of awesome awesomeness.
 * [awesome ★69735](https://github.com/sindresorhus/awesome) :zap: - A curated list of awesome lists.
 * [C++ links ★585](https://github.com/MattPD/cpplinks) - A categorized list of C++ resources.
 * [Awesome C/C++](https://getawesomeness.herokuapp.com/get/cpp) - getAwesomeness()'s mirror.
 * [Awesome C/C++](https://cpp.libhunt.com/) - LibHunt's mirror.
 * [Awesome C](https://notabug.org/koz.ross/awesome-c) 1
-* [Awesome C ★733](https://github.com/aleksandar-todorovic/awesome-c) 2
+* [Awesome C ★785](https://github.com/aleksandar-todorovic/awesome-c) 2
 * [free-programming-books](https://github.com/vhf/free-programming-books) - List of Freely Available Programming Books.
 * [Inqlude](http://inqlude.org/) - The Qt library archive.
 * [papers-we-love ★25580](https://github.com/papers-we-love/papers-we-love) - Papers from the computer science community to read and discuss.

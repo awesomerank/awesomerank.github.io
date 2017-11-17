@@ -159,7 +159,7 @@ search engines do not use this meta tag
 * **[Piwik](https://piwik.org/):** an open analytics platform
 * **[SEMrush](https://www.semrush.com/):** SEMrush is a powerful and versatile competitive intelligence suite for online marketing, from SEO and PPC to social media and video advertising research.
 * **[Seomator](https://seomator.com/):**  SEO Audit Tool and website crawler for SEO performance improving with How-to-Fix tips.
-* **[SEOstats ★1133](https://github.com/eyecatchup/SEOstats):** SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
+* **[SEOstats ★1147](https://github.com/eyecatchup/SEOstats):** SEOstats is a powerful open source PHP library to request a bunch of SEO relevant metrics.
 * **[SimilarWeb](https://www.similarweb.com/):** compare website traffic with SimilarWeb.com's advanced traffic estimator tool. See any website's traffic sources & uncover their online marketing strategies.
 * **[Twitter Analytics](https://analytics.twitter.com/):** measure and boost your impact on Twitter.
 
@@ -188,14 +188,14 @@ search engines do not use this meta tag
 * **[Twitter card validator](https://cards-dev.twitter.com/validator):** enter the URL of the page with the meta tags to validate
 
 ### Bookmarklets
-* **[OuiSEO ★28 ⏳3Y](https://github.com/carlsednaoui/seo-bookmarklet):** an open-source bookmarklet that shows you on-page SEO and social meta data information.
+* **[OuiSEO ★29 ⏳3Y](https://github.com/carlsednaoui/seo-bookmarklet):** an open-source bookmarklet that shows you on-page SEO and social meta data information.
 * **[SEO Bookmarklet](https://twkm.ca/projects/seo-bookmarklet):** a One-Stop SEO Bookmarklet to Quickly Review On-Site SEO
 
 ### Browser Extensions
 * **[MozBar](https://moz.com/tools/seo-toolbar):** the SEO Toolbar from Moz gives you quick access to many on-page SEO factors, Domain & Page Authority plus a quick nofollow toggle. Download the Free Toolbar today!
 
 ### Jekyll Plugins
-* **[Jekyll SEO Tag ★533](https://github.com/jekyll/jekyll-seo-tag):** A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
+* **[Jekyll SEO Tag ★558](https://github.com/jekyll/jekyll-seo-tag):** A Jekyll plugin to add metadata tags for search engines and social networks to better index and display your site's content.
 
 ### TYPO3 Extensions
 * **[Basic SEO Features](https://typo3.org/extensions/repository/view/seo_basics):** Adds a separate field for the title-tag per page, easy and SEO-friendly keywords and description editing in a new module as well as a flexible Google Sitemap.
