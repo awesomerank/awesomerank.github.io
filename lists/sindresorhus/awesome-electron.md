@@ -181,6 +181,7 @@ Made with Electron.
 - [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 - [ProtonMail Desktop ★134](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
 - [Comma Chameleon ★160](https://github.com/theodi/comma-chameleon) - CSV editor.
+- [Buttercup Desktop ★1753](https://github.com/buttercup/buttercup-desktop) - Password manager.
 
 ### Closed Source
 

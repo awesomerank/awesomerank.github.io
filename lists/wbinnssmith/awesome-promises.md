@@ -97,7 +97,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-if ★36 ⏳1Y](https://github.com/sindresorhus/p-if) - Conditional promise chains
 * [p-tap ★31 ⏳1Y](https://github.com/sindresorhus/p-tap) - Tap into a promise chain without affecting its value or state
 * [p-map ★133](https://github.com/sindresorhus/p-map) - Map over promises concurrently
-* [p-all ★40](https://github.com/sindresorhus/p-all) - Run promise-returning & async functions concurrently with optional limited concurrency
+* [p-all ★40 ⏳1Y](https://github.com/sindresorhus/p-all) - Run promise-returning & async functions concurrently with optional limited concurrency
 * [p-limit ★52 ⏳1Y](https://github.com/sindresorhus/p-limit) - Run multiple promise-returning & async functions with limited concurrency
 * [p-times ★13](https://github.com/sindresorhus/p-times) - Run promise-returning & async functions a specific number of times concurrently
 * [p-catch-if ★25](https://github.com/sindresorhus/p-catch-if) - Conditional promise catch handler
@@ -118,7 +118,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-any ★16](https://github.com/sindresorhus/p-any) - Wait for any promise to be fulfilled
 * [p-some ★16](https://github.com/sindresorhus/p-some) - Wait for a specified number of promises to be fulfilled
 * [p-pipe ★43](https://github.com/sindresorhus/p-pipe) - Compose promise-returning & async functions into a reusable pipeline
-* [p-each-series ★18](https://github.com/sindresorhus/p-each-series) - Iterate over promises serially
+* [p-each-series ★18 ⏳1Y](https://github.com/sindresorhus/p-each-series) - Iterate over promises serially
 * [p-map-series ★16 ⏳1Y](https://github.com/sindresorhus/p-map-series) - Map over promises serially
 * [p-reduce ★21](https://github.com/sindresorhus/p-reduce) - Reduce a list of values using promises into a promise for a value
 * [p-props ★41](https://github.com/sindresorhus/p-props) - Like `Promise.all()` but for `Map` and `Object`

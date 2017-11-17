@@ -64,6 +64,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 
 - [GitHub Jobs](https://jobs.github.com/positions?description=Rails)
 - [StackOverflow](http://careers.stackoverflow.com/jobs/tag/ruby-on-rails)
+- [Jobs for Ruby and Rails developers](http://rubyjobs.ru)
 
 ### Community
 
