@@ -402,7 +402,7 @@ You can also change the country e.g. `sold_in_uk=1`, `sold_in_de=1`, etc.
 * [Help Wanted ★41 ⏳1Y](https://github.com/fullstackla/awesome-help-wanted) *(Open Source projects looking for Help)*
 * [JSON ★551](https://github.com/burningtree/awesome-json) *(Libraries and Resources)*
 * [WPO ★6057](https://github.com/davidsonfellipe/awesome-wpo) *(Web Performance Optimization)*
-* [Shell ★10528](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
+* [Shell ★10899](https://github.com/alebcay/awesome-shell) *(CLI Frameworks, Toolkits and Guides)*
 * [Public APIs ★29264](https://github.com/toddmotto/public-apis) *(JSON APIs for use in web dev, some of which require authentication)*
 * [Public Datasets ★21226](https://github.com/caesar0301/awesome-public-datasets) *(Datasets beyond just JSON)*
 * [Style Guides ★723](https://github.com/kciter/awesome-style-guide) *(Programming Languages, Platforms, Frameworks)*

@@ -344,23 +344,23 @@ title: Awesome Rank for sindresorhus/awesome
 - [Godot ★515](lists/Calinou/awesome-godot.md) - Game engine.
 - [Open Source Games ★9921](lists/leereilly/games.md)
 - [Unity ★1556](lists/RyanNielson/awesome-unity.md) - Game engine.
-- [Chess ★72](lists/hkirat/awesome-chess.md)
+- [Chess ★74](lists/hkirat/awesome-chess.md)
 - [LÖVE ★772](lists/love2d-community/awesome-love2d.md) - Game engine.
-- [PICO-8 ★653](lists/felipebueno/awesome-PICO-8.md) - Fantasy console.
-- [Game Boy Development ★530](lists/avivace/awesome-gbdev.md)
-- [Construct 2 ★8](lists/armaldio/awesome-construct.md) - Game engine.
+- [PICO-8 ★684](lists/felipebueno/awesome-PICO-8.md) - Fantasy console.
+- [Game Boy Development ★585](lists/avivace/awesome-gbdev.md)
+- [Construct 2 ★9](lists/armaldio/awesome-construct.md) - Game engine.
 - [Gideros ★4](lists/stetso/awesome-gideros.md) - Game engine.
 
 
 ## Development Environment
 
 - [Quick Look Plugins ★9978](lists/sindresorhus/quick-look-plugins.md) - For macOS.
-- [Dev Env ★921](lists/jondot/awesome-devenv.md)
-- [Dotfiles ★2052](lists/webpro/awesome-dotfiles.md)
-- [Shell ★10528](lists/alebcay/awesome-shell.md)
+- [Dev Env ★953](lists/jondot/awesome-devenv.md)
+- [Dotfiles ★2151](lists/webpro/awesome-dotfiles.md)
+- [Shell ★10899](lists/alebcay/awesome-shell.md)
 - [Fish](https://github.com/jbucaran/awesome-fish) - User-friendly shell.
 - [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
-- [ZSH Plugins ★3308](lists/unixorn/awesome-zsh-plugins.md)
+- [ZSH Plugins ★3434](lists/unixorn/awesome-zsh-plugins.md)
 - [GitHub ★316](lists/phillipadsmith/awesome-github.md) - Hosting service for Git repositories.
 	- [Browser Extensions ★919](lists/stefanbuck/awesome-browser-extensions-for-github.md)
 	- [Cheat Sheet ★23458](lists/tiimgreen/github-cheat-sheet.md)
@@ -372,7 +372,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Hyper ★4680](lists/bnb/awesome-hyper.md) - Cross-platform terminal app built on web technologies.
 - [PowerShell ★332](lists/janikvonrotz/awesome-powershell.md) - Cross-platform object-oriented shell.
 - [Alfred Workflows ★593](lists/derimagia/awesome-alfred-workflows.md) - Productivity app for macOS.
-- [Terminals Are Sexy ★5354](lists/k4m4/terminals-are-sexy.md)
+- [Terminals Are Sexy ★5462](lists/k4m4/terminals-are-sexy.md)
 
 
 ## Entertainment

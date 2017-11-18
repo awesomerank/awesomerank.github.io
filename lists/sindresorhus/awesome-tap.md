@@ -70,11 +70,11 @@ Things that produce TAP output.
 
 ### Fish
 
-- [Fishtape ★210](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
+- [Fishtape ★211](https://github.com/fisherman/fishtape) - TAP producer and test harness for fish.
 
 ### Bash
 
-- [bats ★4102](https://github.com/sstephenson/bats) - Bash Automated Testing System.
+- [bats ★4201](https://github.com/sstephenson/bats) - Bash Automated Testing System.
 
 [More...](https://testanything.org/producers.html)
 

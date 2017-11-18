@@ -111,7 +111,7 @@ _Web Analytics_
   * [AWStats](http://www.awstats.org/) - Generates web, streaming, ftp or mail server statistics graphically. ([Source Code ★68](https://github.com/eldy/awstats)) `GPLv3` `Perl`
   * [Countly](https://count.ly) - Real time mobile & web analytics, crash reporting and push notifications platform. ([Source Code](https://github.com/countly)) `AGPLv3` `Javascript`
   * [Druid](http://druid.io/) - A distributed, column-oriented, real-time analytics data store. ([Source Code ★5700](https://github.com/druid-io/druid)) `Apache` `Java`
-  * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code ★5897](https://github.com/allinurl/goaccess)) `GPLv2` `C`
+  * [GoAccess](http://goaccess.io/) - Real-time web log analyzer and interactive viewer that runs in a terminal. ([Source Code ★6024](https://github.com/allinurl/goaccess)) `GPLv2` `C`
   * [Open Web Analytics](http://www.openwebanalytics.com/) - Google Analytics and Piwik alternative. ([Source Code ★518](https://github.com/padams/Open-Web-Analytics)) `GPLv2` `PHP`
   * [Piwik](https://piwik.org/) - Leading open-source analytics platform that gives you more than just powerful analytics. ([Source Code](https://github.com/piwik/)) `GPLv3` `PHP`
   * [Rakam](https://rakam.io/) - Custom analytics platform that allows you to create your own analytics services. Integrate with any data source (web, mobile, IoT etc.), analyze data with SQL and create dashboards. ([Source Code ★588](https://github.com/rakam-io/rakam)) `Apache` `Java`
@@ -264,7 +264,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [TextBelt ★1410](https://github.com/typpo/textbelt) `⚠` - An outgoing SMS API that uses carrier-specific gateways to deliver your text messages for free, and without ads. `MIT` `Javascript`
   * [Tox](https://tox.chat/) - A distributed, secure messenger with audio and video chat capabilities. ([Source Code ★8272](https://github.com/irungentoo/toxcore)) `GPLv3` `C`
   * [Tuber](https://blog.trailofbits.com/2015/12/15/self-hosted-video-chat-with-tuber/) - Peer-to-peer video chat that works. ([Source Code ★202](https://github.com/trailofbits/tubertc)) `MIT` `Javascript`
-  * [ZeroNet](https://zeronet.io/) `⚠` - Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network. ([Source Code ★9868](https://github.com/HelloZeroNet/ZeroNet)) `GNU` `Python`
+  * [ZeroNet](https://zeronet.io/) `⚠` - Open, free, and uncensorable websites, using Bitcoin cryptography and BitTorrent network. ([Source Code ★10272](https://github.com/HelloZeroNet/ZeroNet)) `GNU` `Python`
   * [Zulip](https://zulip.org) - Zulip is a powerful, open source group chat application. ([Source Code ★5506](https://github.com/zulip/zulip)) `Apache/Other` `Python`
 
 ### Email
@@ -403,7 +403,7 @@ _[IPBX](https://en.wikipedia.org/wiki/IP_PBX) telephony software_
   * [PPnet ★109](https://github.com/pixelpark/ppnet) - Create and host your own social network. `MIT` `Javascript`
   * [Pump.io](http://pump.io/) - Stream server that does most of what people really want from a social network. ([Source Code](https://github.com/e14n/pump.io)) `Apache` `Nodejs`
   * [Reddit](https://www.reddit.com/) - Social networking and news website where registered community members can submit content. ([Demo](https://www.reddit.com/), [Source Code ★14143](https://github.com/reddit/reddit)) `CPALv1` `Python`
-  * [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/public/), [Source Code ★48](https://github.com/jaywink/socialhome)) `AGPLv3` `Python`
+  * [Socialhome](https://socialhome.network) - Federated and decentralized profile builder and social network engine. ([Demo](https://socialhome.network/public/), [Source Code ★50](https://github.com/jaywink/socialhome)) `AGPLv3` `Python`
   * [Symphony](https://hacpai.com/) - A modern community (forum/SNS/blog) platform written in Java. ([Source Code ★1946](https://github.com/b3log/symphony)) `GPLv3` `Java`
   * [Telescope](http://www.telescopeapp.org/) - An open-source social news app built with Meteor. ([Demo](http://demo.telescopeapp.org/), [Source Code](https://github.com/TelescopeJS/Telescope)) `MIT` `Nodejs`
   * [Tokumei](https://tokumei.co/) - Anonymous microblogging platform. ([Demo](https://demo.tokumei.co/), [Source Code](https://kfarwell.org/projects/tokumei/git/)) `ISC` `rc`
@@ -700,7 +700,7 @@ _Command-line file upload_
   * [Hextris ★1340](https://github.com/Hextris/hextris) - Fast paced HTML5 puzzle game inspired by Tetris. ([Demo](http://hextris.io/)) `GPLv3` `HTML5`
   * [Posio ★398 ⏳1Y](https://github.com/abrenaut/posio) - A geography multiplayer game. ([Demo](https://posio.abrenaut.com/)) `MIT` `Python`
   * [SourceBans++](https://sbpp.github.io) - Admin, ban, and communication management system for games running on the Source engine. ([Source Code ★99](https://github.com/sbpp/sourcebans-pp)) `CCBYSA` `PHP`
-  * [Spyfall ★210](https://github.com/mpcovcd/spyfall) - Fan made web version of the Spyfall party game. ([Demo](http://spyfall.crabhat.com/)) `MIT` `HTML/Javascript`
+  * [Spyfall ★218](https://github.com/mpcovcd/spyfall) - Fan made web version of the Spyfall party game. ([Demo](http://spyfall.crabhat.com/)) `MIT` `HTML/Javascript`
   * [TournamentMango](http://tournamentmango.com/) - TournamentMango is an open source tournament bracket and user management system. You can build an archive of players and keep track of all their scores over time as well as their regular characters, games, and aliases. ([Source Code ★95](https://github.com/seiyria/tournamentmango)) `MIT` `Javascript`
 
 
@@ -722,7 +722,7 @@ _Command-line file upload_
   * [Cozy Cloud](https://cozy.io) - A personal cloud where you can read your emails or manage and sync your contact, files or calendars, with an app store full of community contributions. ([Source Code](https://github.com/cozy)) `GPLv3` `Nodejs`
   * [egroupware](http://www.egroupware.org/) - Software suite including calendars, address books, notepad, project management tools, client relationship management tools (CRM), knowledge management tools, a wiki and a CMS. ([Source Code ★45](https://github.com/EGroupware/egroupware)) `GPLv2` `PHP`
   * [Horde](http://www.horde.org/) - The Horde Project is about creating high quality Open Source applications and libraries, based on PHP and the Horde Framework. ([Demo](http://demo.horde.org/login.php), [Source Code ★250](https://github.com/horde/horde)) `GPLv2` `PHP`
-  * [HRCloud2](https://www.honestrepair.net/index.php/hrcloud2/) - A full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool & more. ([Source Code ★28](https://github.com/zelon88/HRCloud2)) `GPLv3` `PHP`
+  * [HRCloud2](https://www.honestrepair.net/index.php/hrcloud2/) - A full-featured home hosted Cloud Drive, Personal Assistant, App Launcher, File Converter, Streamer, Share Tool & more. ([Source Code ★32](https://github.com/zelon88/HRCloud2)) `GPLv3` `PHP`
   * [Kolab](https://kolab.org/) - Kolab community is a unified communication and collaboration system. ([Source Code](https://git.kolab.org/)) `Multiple` `C++/Python/PHP`
   * [Kopano](https://kopano.com/) - Groupware suite including e-mail, calendars, tasks, todos and notes. Featuring a modern WebApp, DeskApp and mobile access over Z-Push/ActiveSync. ([Demo](http://demo.kopano.com), [Source Code](https://stash.kopano.io)) `AGPLv3` `C/Python/PHP`
   * [Mayan EDMS](http://www.mayan-edms.com) - Free Open Source Electronic Document Management System. An electronic vault for your documents with preview generation, OCR, and automatic categorization among other features. ([Demo](http://demo.mayan-edms.com), [Source Code](https://gitlab.com/mayan-edms/mayan-edms)) `Apache` `Python`
@@ -1051,7 +1051,7 @@ See https://github.com/n1trux/awesome-sysadmin#metric--metric-collection
 **[`^        back to top        ^`](#)**
 
   * [Gigablast](http://www.gigablast.com/) - open source search engine. ([Demo](http://www.gigablast.com/), [Source Code ★820](https://github.com/gigablast/open-source-search-engine)) `Apache` `C++`
-  * [Seeks](https://beniz.github.io/seeks/) - A websearch proxy and collaborative distributed tool for websearch. ([Source Code ★158 ⏳2Y](https://github.com/beniz/seeks)) `AGPLv3` `C++`
+  * [Seeks](https://beniz.github.io/seeks/) - A websearch proxy and collaborative distributed tool for websearch. ([Source Code ★162 ⏳2Y](https://github.com/beniz/seeks)) `AGPLv3` `C++`
   * [Searx](https://asciimoo.github.io/searx/) - A privacy-respecting, hackable metasearch engine. ([Demo](https://searx.me/), [Source Code ★2175](https://github.com/asciimoo/searx)) `AGPLv3` `Python`
   * [Yacy](http://yacy.net/en/index.html) - Peer based, decentralized search engine server. ([Demo](http://search.yacy.net/), [Source Code ★393](https://github.com/yacy/yacy_search_server)) `GPLv2` `Java`
 
@@ -1246,7 +1246,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [BookStack](https://www.bookstackapp.com/) - BookStack is a simple, self-hosted, easy-to-use platform for organizing and storing information. It allows for documentation to be stored in a book like fashion. ([Demo](https://www.bookstackapp.com/#demo), [Source Code](https://github.com/ssddanbrown/BookStack)) `MIT` `PHP`
   * [django-wiki ★839](https://github.com/django-wiki/django-wiki) - A wiki system with complex functionality for simple integration and a superb interface. Store your knowledge with style: Use django models. ([Demo](https://demo.django.wiki/)) `GPLv3` `Python`
   * [Documize](https://documize.com) - Modern Docs + Wiki software with built-in workflow, single binary executable, just bring MySQL/Percona. ([Source Code ★305](https://github.com/documize/community)) `AGPLv3` `Go`
-  * [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. ([Source Code ★1902](https://github.com/splitbrain/dokuwiki)) `GPLv2` `PHP`
+  * [Dokuwiki](https://www.dokuwiki.org/DokuWiki) - An easy to use, lightweight, standards-compliant wiki engine with a simple syntax allowing reading the data outside the wiki. All data is stored in plain files, therefore no database is required. ([Source Code ★1939](https://github.com/splitbrain/dokuwiki)) `GPLv2` `PHP`
   * [Gitit ★1460](https://github.com/jgm/gitit) - A wiki program that stores pages and uploaded files in a git repository, which can then be modified using the VCS command line tools or the wiki's web interface. `GPLv2` `Haskell`
   * [Gollum ★8693](https://github.com/gollum/gollum) - A simple, Git-powered wiki with a sweet API and local frontend. `MIT` `Ruby`
   * [jingo](https://github.com/claudioc/jingo) - A git based wiki engine written for node.js, with a decent design, a search capability and a good typography. ([Demo](http://jingo.cica.li:6067/wiki/home), [Source Code ★788](https://github.com/claudioc/jingo)) `MIT` `NodeJS`

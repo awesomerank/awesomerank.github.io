@@ -190,8 +190,8 @@ the Design of Network-based Software Architectures](https://www.ics.uci.edu/~fie
 * [Hurl.it](https://www.hurl.it/) - Make HTTP requests with a simple web-based HTTP client -- like `curl` in the cloud.
 * [httpie](https://github.com/jkbrzt/httpie) - Command line HTTP client, far more dev-friendly than `curl`.
 * [Postman REST Client](https://chrome.google.com/webstore/detail/postman-rest-client/fdmmgilgnpjigdojojpjoooidkmcomcm) - Chrome extension essential to test manually REST API.
-* [resty ★2181](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
-* [jq ★9848](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
+* [resty ★2223](https://github.com/micha/resty) - Little command line REST client that you can use in pipelines (bash or zsh).
+* [jq ★10064](https://github.com/stedolan/jq) - Command line JSON processor, to use in combination with a command-line HTTP client like cURL.
 * [HttpMaster](http://www.httpmaster.net) - GUI tool for testing REST APIs and services. Windows OS only.
 * [Http-console ★1298](https://github.com/cloudhead/http-console) - Command line interface for HTTP that let you *speak HTTP like a local*
 * [rest-assured ★2538](https://github.com/rest-assured/rest-assured) - Java DSL for easy testing of REST services.

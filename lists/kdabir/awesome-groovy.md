@@ -101,7 +101,7 @@ Curated list of awesome groovy libraries, frameworks and resources. Inspired by 
 * [Groovy-stream ★64](https://github.com/timyates/groovy-stream) - A collection of classes to give a fluent builder for Streams (Lazy Groovy Generators)
 * [Flipside ★24](https://github.com/johnnywey/flipside) - Simple Groovy options library
 * [groovy-common-extensions ★60 ⏳1Y](https://github.com/timyates/groovy-common-extensions) - Lets you add things commonly useful to the Groovy language via the extension system
-* [groovy-extra-list-behaviour ★2 ⏳1Y](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system
+* [groovy-extra-list-behaviour ★2 ⏳2Y](https://github.com/dnahodil/groovy-extra-list-behaviour) - Adds extra methods to Lists via the extension system
 * [GPerfUtils](https://github.com/gperfutils) - Groovy-based tools verifying performance of your code
   * [gprof ★27 ⏳2Y](https://github.com/gperfutils/gprof) - The profiling module for Groovy
   * [gbench ★24 ⏳2Y](https://github.com/gperfutils/gbench) - The benchmarking module for Groovy

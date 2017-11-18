@@ -310,7 +310,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Elm Libraries
 
 * [jamesmacaulay/elm-graphql ★182](https://github.com/jamesmacaulay/elm-graphql) - Client library that lets you build GraphQL queries in Elm.
-* [ghivert/elm-graphql ★21](https://github.com/ghivert/elm-graphql) - Client library that lets you build GraphQL queries in Elm with your own decoders.
+* [ghivert/elm-graphql ★24](https://github.com/ghivert/elm-graphql) - Client library that lets you build GraphQL queries in Elm with your own decoders.
 * [jahewson/elm-graphql ★286 ⏳1Y](https://github.com/jahewson/elm-graphql) - Command-line tool that generates Elm code from queries in .graphql files.
 
 <a name="lib-clojure" />
@@ -396,14 +396,14 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Voyager ★2430](https://github.com/APIs-guru/graphql-voyager) - Represent any GraphQL API as an interactive graph.
 * [GraphQL Docs](https://graphql-docs.com) - Instantly create beautiful GraphQL API docs hosted online.
 * [GraphQL Faker ★416](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
-* [ts-graphql-plugin ★127](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
+* [ts-graphql-plugin ★140](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 * [Apollo Launchpad](https://launchpad.graphql.com/) - Like JSFiddle for GraphQL server code, write and deploy a GraphQL API directly from your browser.
 * [Apollo Tracing ★52](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
 * [Altair GraphQL Client ★61](https://github.com/imolorhe/altair) - An sleek graphQL client app for querying GraphQL servers, like Postman for graphQL. It also comes as a chrome extension.
 * [Apollo Storybook Decorator ★63](https://github.com/abhiaiyer91/apollo-storybook-decorator) - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
 * [GraphQL Metrics ★3](https://github.com/Workpop/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
 * [GraphQL Rover ★72](https://github.com/Brbb/graphql-rover) - GraphQL schema interactive navigation, rearrange nodes, search and explore types and fields.
-* [json-graphql-server ★115](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
+* [json-graphql-server ★145](https://github.com/marmelab/json-graphql-server) - Get a full fake GraphQL API with zero coding in less than 30 seconds, based on a JSON data file.
 * [Insomnia](https://insomnia.rest/) – An full-featured API client with first-party GraphQL query editor
 * [Graphcool Framework ★2314](https://github.com/graphcool/framework) - Framework to develop and deploy serverless GraphQL backends.
 
@@ -469,7 +469,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [Intuitive GraphQL Resolver Example](https://github.com/xpepermint/graphql-example) - GraphQL application example using [RawModel.js ★69](https://github.com/xpepermint/rawmodeljs).
 * [ReactQL starter kit](https://reactql.org) - Universal React + Apollo + Redux + React Router 4, with SSR-enabled GraphQL, store (de/re)hydration and production code bundling.
 * [microhn ★65 ⏳1Y](https://github.com/stubailo/microhn) - Simple Hacker News client built on top of GraphQLHub
-* [Apollo Web&Mobile Universal Starter Kit with Hot Code Reload ★370](https://github.com/sysgears/apollo-universal-starter-kit) -  Apollo, GraphQL, React, React Native, Expo, Redux, Express, SQL and Twitter Bootstrap. Hot Code Reload of back end & front end using Webpack and Hot Module Replacement.
+* [Apollo Web&Mobile Universal Starter Kit with Hot Code Reload ★424](https://github.com/sysgears/apollo-universal-starter-kit) -  Apollo, GraphQL, React, React Native, Expo, Redux, Express, SQL and Twitter Bootstrap. Hot Code Reload of back end & front end using Webpack and Hot Module Replacement.
 
 <a name="example-ts" />
 

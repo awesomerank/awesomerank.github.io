@@ -348,7 +348,7 @@ Parallax
 ======================
 Name | License | Demo
 --- | --- | ---
-[ParallaxEverywhere ★646](https://github.com/Narfss/ParallaxEverywhere) | [MIT](http://opensource.org/licenses/MIT) | ![](/art/parallax-everywhere.gif)
+[ParallaxEverywhere ★646 ⏳1Y](https://github.com/Narfss/ParallaxEverywhere) | [MIT](http://opensource.org/licenses/MIT) | ![](/art/parallax-everywhere.gif)
 
 Effect
 ======================

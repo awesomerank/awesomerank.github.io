@@ -537,7 +537,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * [Pony ★1064 ⏳1Y](https://github.com/benprew/pony) - The express way to send mail from Ruby.
 * [premailer-rails ★1046](https://github.com/fphilipe/premailer-rails) - CSS styled emails without the hassle.
 * [Roadie ★1148](https://github.com/Mange/roadie) - Roadie tries to make sending HTML emails a little less painful by inlining stylesheets and rewriting relative URLs for you inside your emails.
-* [Sup ★650](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
+* [Sup ★650 ⏳1Y](https://github.com/sup-heliotrope/sup) - A curses threads-with-tags style email client.
 
 ## Encryption
 

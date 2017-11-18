@@ -66,7 +66,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 
 ### Utilities
 
-- [Gifgen ★173](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
+- [Gifgen ★186](https://github.com/lukechilds/gifgen) - Simple high quality GIF encoding
 - [Gifify ★3872](https://github.com/vvo/gifify) - Convert any video file to an optimized animated GIF
 - [Gifify (not the same) ★881 ⏳1Y](https://github.com/jclem/gifify) - convert screen recording into GIF
 - [Gifsicle ★491](https://github.com/pornel/giflossy) - lossy GIF compressor

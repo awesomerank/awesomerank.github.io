@@ -467,7 +467,7 @@ Use [colors ★7892](https://github.com/mrmrs/colors) to make your HTML feels be
 * [Beckpoke.js ★4278](https://github.com/bespokejs/bespoke)
 * [CSSS ★1493](https://github.com/LeaVerou/CSSS)
 * [Scrolldeck ★692 ⏳1Y](https://github.com/johnpolacek/scrolldeck.js)
-* [Deck.js ★5204](https://github.com/imakewebthings/deck.js)
+* [Deck.js ★5215](https://github.com/imakewebthings/deck.js)
 * [Shower ★3794](https://github.com/shower/shower)
 * [HTML5 Rocks](http://slides.html5rocks.com/#formula-outro-slide)
 * [Flowtime.js ★1202](https://github.com/marcolago/flowtime.js)

@@ -813,7 +813,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [folsom_ddb ★4](https://github.com/dalmatinerdb/folsom_ddb) - DalmatinerDB backend to store folsom metrics.
 * [graphitex ★2](https://github.com/msoedov/graphitex) - Graphite/Carbon client for Elixir.
 * [instream ★94](https://github.com/mneudert/instream) - InfluxDB driver for Elixir.
-* [instrumental ★9 ⏳1Y](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
+* [instrumental ★9 ⏳2Y](https://github.com/undeadlabs/instrumental-ex) - An Elixir client for [Instrumental](https://instrumentalapp.com/).
 * [newrelic.ex ★46](https://github.com/romul/newrelic.ex) - Collects metrics from your Elixir/Phoenix application and sends them to [NewRelic](https://newrelic.com/).
 * [prometheus ★100](https://github.com/deadtrickster/prometheus.erl) - [Prometheus.io](https://prometheus.io) monitoring system and time series database client in Erlang.
 * [prometheus-ecto ★18](https://github.com/deadtrickster/prometheus-ecto) - Ecto instrumenter for prometheus.ex.

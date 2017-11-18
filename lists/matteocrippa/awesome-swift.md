@@ -456,7 +456,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Core Data
 *No more pain with Core Data, here are some interesting libs to handle data management.* [back to top](#readme) 
 
-* [AERecord ★284](https://github.com/tadija/AERecord) - Super awesome Core Data wrapper library for iOS.
+* [AERecord ★284 ⏳1Y](https://github.com/tadija/AERecord) - Super awesome Core Data wrapper library for iOS.
 * [AlecrimCoreData ★732](https://github.com/Alecrim/AlecrimCoreData) - Simple Core Data wrapper library.
 * [Cadmium ★93](https://github.com/jmfieldman/cadmium) - Framework that hides the complexity of managed object contexts.
 * [CoreStore ★1707](https://github.com/JohnEstropia/CoreStore) - simple and elegant way to handle Core Data.
@@ -1110,7 +1110,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [BonMot ★1858](https://github.com/Raizlabs/BonMot) - Beautiful, easy attributed strings for iOS.
 * [edhita ★891](https://github.com/tnantoka/edhita) - Fully open source text editor for iOS.
 * [Format ★1143](https://github.com/marmelroy/Format) - Formatting kit for numbers, addresses and colors.
-* [Markdown ★66](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown).
+* [Markdown ★66 ⏳1Y](https://github.com/crossroadlabs/Markdown) :penguin: - Markdown templates for Swift. Based on Discount library (a library used deep down by GitHub markdown).
 * [MarkdownKit ★112](https://github.com/ivanbruel/MarkdownKit) - A simple and customizable Markdown Parser.
 * [MarkdownView ★1005](https://github.com/keitaoouchi/MarkdownView) - iOS Markdown view.
 * [MarkyMark ★62](https://github.com/M2Mobi/Marky-Mark) - Converts Markdown into native views or attributed strings.
@@ -1149,7 +1149,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 ### UI
 *A collection of pre-packaged transitions & cool ui stuffs.* [back to top](#readme) 
 
-* [AECoreDataUI ★284](https://github.com/tadija/AERecord) - Core Data driven UI.
+* [AECoreDataUI ★284 ⏳1Y](https://github.com/tadija/AERecord) - Core Data driven UI.
 * [AGCircularPicker ★416](https://github.com/agilie/AGCircularPicker) - Helpful component for creating a controller aimed to manage any calculated parameter.
 * [AmazingBubbles ★37](https://github.com/GlebRadchenko/AmazingBubbles) - Apple Music like Bubble Picker using Dynamic Animation (faster / more lightweight than SpriteKit).
 * [AMScrollingNavbar ★5034](https://github.com/andreamazz/AMScrollingNavbar) - Scrollable UINavigationBar that follows the scrolling of a UIScrollView.

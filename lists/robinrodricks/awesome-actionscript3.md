@@ -173,7 +173,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [TransformTool ★54](https://github.com/senocular/TransformTool) - Free Transform Tool (AS, JS) for manipulating objects in 2D space.
 * [Argilla-Mosaic ★3 ⏳3Y](https://github.com/folletto/Argilla-Mosaic) - Dynamic layout library.
 * [xrope ★34 ⏳2Y](https://github.com/evan-liu/xrope) - Simple layout library for native AS3 display objects.
-* [miglayout-as ★15 ⏳4Y](https://github.com/develar/miglayout-as) - Port of MigLayout, a superbly versatile Flash/Flex/FlashCocoa (SWT/Swing/JavaFX) layout manager.
+* [miglayout-as ★15 ⏳5Y](https://github.com/develar/miglayout-as) - Port of MigLayout, a superbly versatile Flash/Flex/FlashCocoa (SWT/Swing/JavaFX) layout manager.
 
 #### Multi Touch
 

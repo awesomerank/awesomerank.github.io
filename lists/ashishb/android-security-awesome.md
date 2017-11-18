@@ -70,8 +70,8 @@ Static Analysis Tools
 16. [ConDroid ★22 ⏳1Y](https://github.com/JulianSchuette/ConDroid) - Performs a combination of symoblic + concrete execution of the app
 17. [DroidRA ★11](https://github.com/serval-snt-uni-lu/DroidRA)
 18. [RiskInDroid ★9](https://github.com/ClaudiuGeorgiu/RiskInDroid) - A tool for calculating the risk of Android apps based on their permissions, with online demo available.
-19. [SUPER ★128](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
-20. [ClassyShark ★4158](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important infos.
+19. [SUPER ★133](https://github.com/SUPERAndroidAnalyzer/super) - Secure, Unified, Powerful and Extensible Rust Android Analyzer
+20. [ClassyShark ★4294](https://github.com/google/android-classyshark) - Standalone binary inspection tool which can browse any Android executable and show important infos.
 
 App Vulnerability Scanners
 ----

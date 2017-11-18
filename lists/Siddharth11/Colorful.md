@@ -90,7 +90,7 @@ Inspired by the __[awesome ★69735](https://github.com/sindresorhus/awesome)__ 
 - [Color Farm](http://color.farm/) - Handpicked colors from the popular Dribbble shots.
 - [WebGradients](https://webgradients.com/) - A free collection of 180 linear gradients.
 - [Dave Green's 'cubehelix' colour scheme](http://www.mrao.cam.ac.uk/~dag/CUBEHELIX/) - Resources for the cubehelix family of colour schemes.
-- [Color Name List ★201](https://github.com/meodai/color-names) - Huge curated list of unique color names.
+- [Color Name List ★214](https://github.com/meodai/color-names) - Huge curated list of unique color names.
 
 ## Articles
 - [Finding the Right Color Palettes for Data Visualizations](https://blog.graphiq.com/finding-the-right-color-palettes-for-data-visualizations-fcd4e707a283#.k1zjxtfet)

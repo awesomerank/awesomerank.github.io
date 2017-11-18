@@ -226,7 +226,7 @@ Discover more awesome lists at [sindresorhus/awesome ★69735](https://github.co
 - Client
     - [Pwnypot ★26 ⏳4Y](https://github.com/shjalayeri/pwnypot) - High Interaction Client Honeypot
     - [MonkeySpider](http://monkeyspider.sourceforge.net)
-    - [Capture-HPC-NG ★8 ⏳5Y](https://github.com/CERT-Polska/HSN-Capture-HPC-NG)
+    - [Capture-HPC-NG ★8 ⏳6Y](https://github.com/CERT-Polska/HSN-Capture-HPC-NG)
     - [URLQuery](https://urlquery.net/)
     - [Trigona](https://www.honeynet.org/project/Trigona)
     - [Thug](https://buffer.github.io/thug/)

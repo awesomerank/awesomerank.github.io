@@ -103,6 +103,7 @@ title: Awesome Rank for hobbyquaker/awesome-homematic
 * [HMXMLBIN ★4 ⏳5Y](https://github.com/leonsio/HMXMLBIN) - Converter between BINRPC and XMLRPC.
 * [Homematic-manager ★46](https://github.com/hobbyquaker/homematic-manager) - Manage homematic interface processes (rfd/hs485d/homegear).
 * [Language-homematic ★2](https://github.com/Ayngush/language-homematic) - Adds syntax highlighting and snippets to HomeMatic Script files in Atom.
+* [occu-test ★1](https://github.com/hobbyquaker/occu-test) - Automated System Tests of ReGaHss - the HomeMatic (O)CCU "Logic Layer".
 
 ## Software Modules
 

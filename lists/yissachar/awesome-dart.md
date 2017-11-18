@@ -49,6 +49,8 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 * [Polymer](https://www.dartlang.org/polymer/) - Use polymer to build structured, encapsulated, client-side web apps with web components.
 * [uix ★74](https://github.com/localvoid/uix) - Library to build Web User Interfaces in Dart inspired by React.
 * [MDL/Dart](http://www.material-design-lite.pub/) - Material Design Lite for Dart is a framework of components for web developers based on Google's Material Design philosophy.
+* [OverReact](https://workiva.github.io/over_react/) - A library for building statically-typed React UI components.
+
 
 ## Server Frameworks
 

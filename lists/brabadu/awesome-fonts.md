@@ -68,7 +68,7 @@ A curated list of fonts and typography resources.
 * [emoji ★415 ⏳1Y](https://github.com/wpeterson/emoji) - A gem. For Emoji. For everyone.
 * [emojidex ★3](https://github.com/emojidex/emojidex) - Emoji-as-a-service provider and set of tools and assets
 * [emojify.js ★1706](https://github.com/emojione/emojify.js) - A Javascript module to convert Emoji keywords to images
-* [emojify ★912](https://github.com/mrowa44/emojify) - Emoji on the command line
+* [emojify ★925](https://github.com/mrowa44/emojify) - Emoji on the command line
 * [emojilib ★689](https://github.com/muan/emojilib) - Emoji keyword library
 * [emojillate ★226](https://github.com/notwaldorf/emojillate) - Pixellate an image into emoji
 * [emojione ★3743](https://github.com/emojione/emojione) - EmojiOne™ is the open emoji standard
@@ -132,7 +132,7 @@ A curated list of fonts and typography resources.
 * [Input](http://input.fontbureau.com) - Flexible system of fonts designed specifically for code
 * [Meslo-Font ★1806 ⏳2Y](https://github.com/andreberg/Meslo-Font) - Customized version of Apple's Menlo font
 * [Mononoki](http://madmalik.github.io/mononoki/)
-* [Nerd Fonts ★5771](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
+* [Nerd Fonts ★6076](https://github.com/ryanoasis/nerd-fonts) - Collection of over 20 patched fonts for Powerline, Font Awesome, Octicons, Devicons, and Vim Devicons
 
 #### Programming fonts with ligatures
 * [FiraCode ★18325](https://github.com/tonsky/FiraCode) - Monospaced font with programming ligatures

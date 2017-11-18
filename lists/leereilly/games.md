@@ -524,58 +524,58 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Matter.js ★6280](https://github.com/liabru/matter-js) - Matter.js is a JavaScript 2D rigid body physics engine for the web.
 * [melonJS ★1988](https://github.com/melonjs/melonJS) - HTML5 game framework for 2D games.
 * [MonoGame](https://github.com/mono/MonoGame) - XNA Implementation for Mono based platforms (supports iOS, Android, Linux, and started work on PS Suite and NaCli ).
-* [Oimo.js ★1373](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for javascript.
-* [OpenRTS ★581](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
-* [Oxygine ★442](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
+* [Oimo.js ★1388](https://github.com/lo-th/Oimo.js) - Lightweight 3d physics engine for javascript.
+* [OpenRTS ★587](https://github.com/methusalah/OpenRTS) - Real-Time Strategy game 3D engine coded in java 7.
+* [Oxygine ★450](https://github.com/oxygine/oxygine-framework) - C++ engine and framework for 2D games on iOS, Android, Windows, Linux and Mac.
 * [panda.js](https://github.com/ekelokorpi/panda.js) - Free HTML5 game engine for mobile and desktop with Canvas and WebGL rendering.
 * [Phaser ★16707](https://github.com/photonstorm/phaser) - Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
 * [PhysicsJS ★3073](https://github.com/wellcaffeinated/PhysicsJS) - Modular, extendable, and easy-to-use physics engine for JavaScript.
 * [pixi.js](https://github.com/GoodBoyDigital/pixi.js) - Super fast HTML 5 2D rendering engine that uses webGL with canvas fallback.
 * [Plasma ★101](https://github.com/H-uru/Plasma) - Cyan Worlds's Plasma game engine.
-* [PlayCanvas ★2966](https://github.com/playcanvas/engine) - 3D WebGL game engine with online toolset.
-* [QICI Engine ★510 ⏳1Y](https://github.com/qiciengine/qiciengine) - free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games.
-* [Quasi-Engine ★45 ⏳2Y](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development.
-* [Ren'py ★828](https://github.com/renpy/renpy) - A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.
+* [PlayCanvas ★3034](https://github.com/playcanvas/engine) - 3D WebGL game engine with online toolset.
+* [QICI Engine ★518 ⏳1Y](https://github.com/qiciengine/qiciengine) - free JavaScript game engine library with a web-based comprehensive suite of toolset for making HTML5 games.
+* [Quasi-Engine ★46 ⏳2Y](https://github.com/INdT/Quasi-Engine) - a QtQuick framework that intends to be a complete toolset to ease 2d game development.
+* [Ren'py ★879](https://github.com/renpy/renpy) - A Visual Novel Engine, written in python, for both mobile (iOS beta) and desktop platforms.
 * [SFML](https://github.com/LaurentGomila/SFML) - Simple and Fast Multimedia Library.
 * [Solarus](https://github.com/christopho/solarus) - An Action-RPG game engine written in C++.
-* [Spring ★1266](https://github.com/spring/spring) - Real Time Strategy game engine.
+* [Spring ★1291](https://github.com/spring/spring) - Real Time Strategy game engine.
 * [Starling ★2138](https://github.com/Gamua/Starling-Framework) - ActionScript 3 library that mimics the conventional Flash display tree architecture, can be deployed to mobile devices (iOS, Android), the desktop (Windows, OS X), and to the browser (via the Flash plugin).
 * [Superpowers](https://github.com/superpowers) - TypeScript & ThreeJS powered game engine and framework (2D & 3D with WebGL)
-* [Tesseract ★160](https://github.com/lsalzman/tesseract) - Make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
+* [Tesseract ★161](https://github.com/lsalzman/tesseract) - Make mapping more fun by using modern dynamic rendering techniques, sothat you can get instant feedback on lighting changes, not just geometry.
 * [three.js ★36708](https://github.com/mrdoob/three.js) - JavaScript 3D library used in many browser games.
 * [tiled ★5047](https://github.com/bjorn/tiled) - Tiled is a general purpose tile map editor. It is meant to be used for editing maps of any tile-based game, be it an RPG, a platformer or a Breakout clone.
 * [Torque 2D ★1290](https://github.com/GarageGames/Torque2D) - MIT Licensed version of Torque 2D from GarageGames.
 * [Torque 3D ★2685](https://github.com/GarageGames/Torque3D) - MIT Licensed version of Torque 3D from GarageGames.
-* [Turbulenz Engine ★2766 ⏳1Y](https://github.com/turbulenz/turbulenz_engine) - HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
+* [Turbulenz Engine ★2777 ⏳1Y](https://github.com/turbulenz/turbulenz_engine) - HTML5 game engine and server-side APIs available in JavaScript and TypeScript for building and distributing 2D and 3D games.
 * [Urho3D ★1977](https://github.com/urho3d/Urho3D) - Urho3D is a free lightweight, cross-platform 2D and 3D game engine implemented in C++ and released under the MIT license. Greatly inspired by OGRE and Horde3D.
-* [Wurfel Engine ★25](https://github.com/BSVogler/WurfelEngineSDK) An isometric game engine for games with an open world made of blocks or voxels.
-* [XLE ★277](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
+* [Wurfel Engine ★24](https://github.com/BSVogler/WurfelEngineSDK) An isometric game engine for games with an open world made of blocks or voxels.
+* [XLE ★276](https://github.com/xlgames-inc/XLE) - Rendering engine with advanced features such as Image Based Lighting, dynamic area lights, and a node based material editor. Flexible and modular, it is designed to drop into existing solutions. XLE is the "hackable" engine, intended to be customised for specialised requirements.
 
 -------
 
 # Maps/Hacks/Plugins/Utilities/All of the Things™
 
-* [Bfxr ★490 ⏳2Y](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
-* [Brood War API ★986](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
+* [Bfxr ★491 ⏳2Y](https://github.com/increpare/bfxr) - Flash + AIR sound effects generator. Based on Sfxr.
+* [Brood War API ★1017](https://github.com/bwapi/bwapi) - C++ framework to interact with the Real Time Strategy (RTS) game Starcraft: Broodwar.
 * [FlxCollisions ★1 ⏳6Y](https://github.com/gamebytes/FlxCollisions) - Simple set of 2d physics + collision demos for flixel v2.0. [Play it now!](http://flixel.org/flxcollisions/)
 * [Gamertag ★18 ⏳3Y](https://github.com/barisbalic/gamertag) - Gem for retrieving Xbox Live Gamertag information from various sources.
-* [Greenworks ★667](https://github.com/greenheartgames/greenworks) - A node.js/nw.js addon allowing you to integrate HTML5 game with Steamworks.
+* [Greenworks ★680](https://github.com/greenheartgames/greenworks) - A node.js/nw.js addon allowing you to integrate HTML5 game with Steamworks.
 * [Halo::Reach::API ★10 ⏳3Y](https://github.com/agoragames/halo-reach-api) - Ruby gem for interacting with the Halo:Reach API.
-* [IodineGBA ★446](https://github.com/taisel/IodineGBA) - GameBoy Advance emulator written entirely in JavaScript and powered by HTML5.
+* [IodineGBA ★456](https://github.com/taisel/IodineGBA) - GameBoy Advance emulator written entirely in JavaScript and powered by HTML5.
 * [itch ★723](https://github.com/itchio/itch) - An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.
-* [JavaScript Breakouts ★493 ⏳2Y](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of [*Breakout*](http://en.wikipedia.org/wiki/Breakout_%28video_game%29).
-* [Leaderboard(Java) ★20 ⏳1Y](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis(in Java).
-* [Leaderboard(PHP) ★25 ⏳6Y](https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis(in PHP).
-* [Leaderboard(Python) ★17 ⏳2Y](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis(in Python).
-* [Leaderboard(Ruby) ★431](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis(in Ruby).
-* [Leaderboard(Scala) ★10 ⏳6Y](https://github.com/agoragames/scala-leaderboard) - Leaderboards backed by Redis (in Scala).
-* [libfreenect ★2574](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X.
+* [JavaScript Breakouts ★496 ⏳2Y](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of [*Breakout*](http://en.wikipedia.org/wiki/Breakout_%28video_game%29).
+* [Leaderboard(Java) ★19 ⏳1Y](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis(in Java).
+* [Leaderboard(PHP) ★24 ⏳6Y](https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis(in PHP).
+* [Leaderboard(Python) ★16 ⏳2Y](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis(in Python).
+* [Leaderboard(Ruby) ★433](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis(in Ruby).
+* [Leaderboard(Scala) ★9 ⏳6Y](https://github.com/agoragames/scala-leaderboard) - Leaderboards backed by Redis (in Scala).
+* [libfreenect ★2599](https://github.com/OpenKinect/libfreenect) - Drivers and libraries for the Xbox Kinect device on WIndows, Linux, and OS X.
 * [OpenEmu ★8136](https://github.com/OpenEmu/OpenEmu) - Project to bring game emulation to OS X as a first class citizen.
-* [Mudlet ★124](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
+* [Mudlet ★128](https://github.com/Mudlet/Mudlet) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 * [stats.js ★4523](https://github.com/mrdoob/stats.js) - JavaScript performance monitor.
-* [Tassadar ★46 ⏳2Y](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
+* [Tassadar ★45 ⏳2Y](https://github.com/agoragames/tassadar) - Starcraft 2 replay parser written in pure Ruby.
 * [World of Warcraft Addons](https://github.com/TekNoLogic) - Various World of Warcraft addons written in Lua.
-* [World of Warcraft API Docs ★474 ⏳2Y](https://github.com/Blizzard/api-wow-docs) - Public documentation for the RESTful web service provided as part of the World of Warcraft community site.
+* [World of Warcraft API Docs ★472 ⏳2Y](https://github.com/Blizzard/api-wow-docs) - Public documentation for the RESTful web service provided as part of the World of Warcraft community site.
 
 # License
 

@@ -39,6 +39,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 	- [Networking](#networking)
 	- [PDF](#pdf)
 	- [Physics](#physics)
+	- [Regular Expression](#regular-expression)
 	- [Robotics](#robotics)
 	- [Scientific Computing](#scientific-computing)
 	- [Scripting](#scripting)
@@ -222,14 +223,14 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Cryptography
 *Cryptography and Encryption Libraries*
 
-* [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors.
-* [BeeCrypt](http://beecrypt.sourceforge.net/)
+* [Bcrypt](http://bcrypt.sourceforge.net/) - A cross platform file encryption utility. Encrypted files are portable across all supported operating systems and processors. [BSD]
+* [BeeCrypt](http://beecrypt.sourceforge.net/) - A portable and fast cryptography library. [LGPLv2.1+]
 * [Botan](http://botan.randombit.net/) - A crypto library for C++. [BSD-2]
-* [Crypto++](http://www.cryptopp.com/) - A free C++ class library of cryptographic schemes. [Boost]
+* [Crypto++ ★819](https://github.com/weidai11/cryptopp) - A free C++ class library of cryptographic schemes. [Boost] [website](http://www.cryptopp.com/)
 * [GnuPG](https://www.gnupg.org/) - A complete and free implementation of the OpenPGP standard. [GPL]
 * [GnuTLS](http://www.gnutls.org/) - A secure communications library implementing the SSL, TLS and DTLS protocols. [LGPL2.1]
-* [Libgcrypt](http://www.gnu.org/software/libgcrypt/)
-* [libmcrypt]()
+* [Libgcrypt](http://www.gnu.org/software/libgcrypt/) - A general purpose cryptographic library originally based on code from GnuPG. [LGPLv2.1+]
+* [libhydrogen ★121](https://github.com/jedisct1/libhydrogen) - A lightweight, secure, easy-to-use crypto library for constrained environments. [ISC]
 * [LibreSSL](http://www.libressl.org/) - A free version of the SSL/TLS protocol forked from OpenSSL in 2014. [?]
 * [libsodium ★4815](https://github.com/jedisct1/libsodium) - P(ortable|ackageable) NaCl-based crypto library, opinionated and easy to use. [ISC]
 * [LibTomCrypt ★569](https://github.com/libtom/libtomcrypt) - A fairly comprehensive, modular and portable cryptographic toolkit. [WTFPL]
@@ -295,6 +296,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [GamePlay ★2244](https://github.com/gameplay3d/GamePlay) - A cross-platform native C++ game framework for creating 2D/3D mobile and desktop games. [Apache2]
 * [Godot ★11108](https://github.com/godotengine/godot) - A fully featured, open source, MIT licensed, game engine. [MIT]
 * [Grit](http://www.gritengine.com/) - Community project to build a free game engine for implementing open world 3D games. [MIT]
+* [KlayGE ★777](https://github.com/gongminmin/KlayGE) - a cross-platform open source game engine with plugin-based architecture. [GPLv2] [website](http://www.klayge.org/)
 * [Oxygine](http://oxygine.org/) - A cross-platform 2D C++ game engine. [MIT]
 * [Panda3D ★914](https://github.com/panda3d/panda3d) - A game engine, a framework for 3D rendering and game development for Python and C++ programs. [Modified BSD] [website](https://www.panda3d.org/)
 * [Polycode ★2333](https://github.com/ivansafrin/Polycode) - A cross-platform framework for creative code in C++ (with Lua bindings). [MIT] [website](http://polycode.org/)
@@ -478,11 +480,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [cpr ★1339](https://github.com/whoshuu/cpr) - A modern C++ HTTP requests library with a simple but powerful interface. Modeled after the Python Requests module. [MIT] [website](https://whoshuu.github.io/cpr/)
 * [curlcpp ★311](https://github.com/JosephP91/curlcpp) - An object oriented C++ wrapper for CURL(libcurl). [MIT]
 * [Dyad.c ★882 ⏳1Y](https://github.com/rxi/dyad) - Asynchronous networking for C. [MIT]
+* [HTTP Parser ★3596](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. [MIT]
 * [libcurl](http://curl.haxx.se/libcurl/) - Multiprotocol file transfer library. [MIT/X derivate license]
 * [libjingle](https://code.google.com/p/libjingle/) - Google talk voice and P2P interoperability library. [BSD]
+* [libquic ★826 ⏳1Y](https://github.com/devsisters/libquic) - A QUIC protocol library extracted from Chromium's QUIC Implementation. [BSD]
+* [libwebsockets ★1377](https://github.com/warmcat/libwebsockets) - A lightweight pure C WebSocket implementation that provides both client and server libraries. [LGPL2.1 + static link exception] [website](https://libwebsockets.org/)
 * [Mongoose ★4069](https://github.com/cesanta/mongoose) - Extremely lightweight webserver. [GPL2]
 * [Muduo ★3678](https://github.com/chenshuo/muduo) - A C++ non-blocking network library for multi-threaded server in Linux. [BSD]
-* [net_skeleton ★332 ⏳1Y](https://github.com/cesanta/fossa) - TCP client/server library for C/C++. [GPL2]
 * [nope.c](https://github.com/riolet/nope.c) - A C language-based ultra-light software platform for scalable server-side and networking applications. Think node.js for C programmers. [GPL2]
 * [Onion ★1291](https://github.com/davidmoreno/onion) - HTTP server library in C designed to be lightweight and easy to use. [Apache2/GPL2]
 * [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] [website](http://pocoproject.org/)
@@ -512,6 +516,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [ODE](http://www.ode.org/) - Open Dynamics Engine - An open source, high performance library for simulating rigid body dynamics. [BSD&LGPL]
 * [ofxBox2d ★231](https://github.com/vanderlin/ofxBox2d) - openFrameworks wrapper for Box2D. [BSD-like]
 * [Simbody ★1092](https://github.com/simbody/simbody) - High-performance C++ multibody dynamics/physics library for simulating articulated biomechanical and mechanical systems like vehicles, robots, and the human skeleton. [Apache2]
+
+## Regular Expression
+
+* [CppVerbalExpressions ★223](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. [MIT]
+* [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
+* [RE2 ★2155](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory. [BSD-3-Clause]
+* [SLRE ★366](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPLv2/Commercial]
 
 ## Robotics
 
@@ -593,7 +604,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Miscellaneous
 *Useful libraries or tools that don't fit in the categories above or maybe just not categorised yet*
 
-* [access_profiler ★47 ⏳3Y](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. [GPL3]
+* [access_profiler ★47 ⏳4Y](https://github.com/arvidn/access_profiler) - A tool to count accesses to member variables in c++ programs. [GPL3]
 * [American fuzzy lop](http://lcamtuf.coredump.cx/afl/) a.k.a. afl-fuzz - Crazy fuzzing tool that automatically discovers bugs given time and minimal example input. [Apache2]
 * [Better Enums ★405](https://github.com/aantron/better-enums) - Reflective enums (to string, iteration). Single header. [BSD] [website](http://aantron.github.io/better-enums/)
 * [Better String](http://bstring.sourceforge.net) - An alternative to the string library for C which is more functional and does not have buffer overflow overrun problems. Also includes a C++ wrapper. [BSD, GPL2]
@@ -601,13 +612,11 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [{fmt} ★3050](https://github.com/fmtlib/fmt) :zap: - Small, safe and fast formatting library for C++. [Simplified BSD]
 * [FastFormat](http://www.fastformat.org) - Fast, Safe C++ Formatting inspired by log4j and Pantheios [Simplified BSD]
 * [casacore](https://code.google.com/p/casacore/) - A set of c++ core libraries derived from aips++. [LGPL]
-* [CppVerbalExpressions ★223](https://github.com/VerbalExpressions/CppVerbalExpressions) - C++ regular expressions made easy. [MIT]
 * [QtVerbalExpressions ★31 ⏳2Y](https://github.com/VerbalExpressions/QtVerbalExpressions) - This Qt lib is based off of the C++ VerbalExpressions library. [MIT]
 * [c-smart-pointers ★627](https://github.com/Snaipe/libcsptr) - Smart pointers for the (GNU) C programming language. [MIT]
 * [cxx-prettyprint ★294](https://github.com/louisdx/cxx-prettyprint) - A pretty printing library for C++ containers. [Boost]
 * [DynaPDF](http://www.dynaforms.com/) - An easy-to-use PDF generation library. [Commercial]
 * [gcc-poison ★126 ⏳4Y](https://github.com/leafsr/gcc-poison) - A simple header file for developers to ban unsafe C/C++ functions from applications.
-* [HTTP Parser ★3596](https://github.com/nodejs/http-parser) :zap: - A http request/response parser for C. [MIT]
 * [Kangaru ★42](https://github.com/gracicot/kangaru) - A dependency injection container for C++11 and C++14. [MIT]
 * [Klib ★1829](https://github.com/attractivechaos/klib) - Small and lightweight implementations of common algorithms and data structures. [MIT]
 * [libsigc++](http://libsigc.sourceforge.net/) - A typesafe callback system for standard C++. [LGPL]
@@ -616,9 +625,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libnih ★41 ⏳3Y](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7 ★858](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
-* [PCRE](http://pcre.org/) - A regular expression C library inspired by the regular expression capabilities in Perl. [BSD]
 * [pdqsort ★849](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]
-* [RE2 ★2155](https://github.com/google/re2) - A software library for regular expressions via a finite-state machine using automata theory.
 * [PHP-CPP ★943](https://github.com/CopernicaMarketingSoftware/PHP-CPP) - A library to build PHP extensions with C++. [Apache2] [website](http://www.php-cpp.com/)
 * [Remote Call Framework](http://www.deltavsoft.com/) - Inter-process communication framework for C++. [GPL2/Commercial]
 * [Scintilla](http://scintilla.org/) - A free source code editing component. [MIT]
@@ -626,8 +633,6 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [semver.c ★97](https://github.com/h2non/semver.c) - A semver parser and render in ANSI C. [MIT]
 * [Serial Communication Library ★434](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++. [MIT]
 * [sigslot](http://sigslot.sourceforge.net/) - C++ Signal/Slot Library. [PublicDomain]
-* [SLDR](https://github.com/cesanta/sldr) - Super Light DNS Resolver. [GPL2/Commercial]
-* [SLRE ★366](https://github.com/cesanta/slre) - Super Light Regexp engine for C/C++. [GPL2/Commercial]
 * [Stage ★165](https://github.com/rtv/Stage) - Mobile robot simulator. [GPL2]
 * [stdman ★357](https://github.com/jeaye/stdman) Formatted C++11/14 stdlib man pages (from cppreference). [MIT]
 * [stb ★6159](https://github.com/nothings/stb) :zap: - A range of single-file libraries for C/C++. [PublicDomain]

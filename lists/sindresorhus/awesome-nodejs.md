@@ -219,6 +219,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [node-fetch ★2305](https://github.com/bitinn/node-fetch) - `window.fetch` for Node.js.
 - [flashheart ★73](https://github.com/bbc/flashheart) - REST client.
 - [http-fake-backend ★119](https://github.com/micromata/http-fake-backend) - Build a fake backend by providing the content of JSON files or JavaScript objects through configurable routes.
+- [cacheable-request ★75](https://github.com/lukechilds/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support.
 
 
 ### Debugging / Profiling
@@ -428,7 +429,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 - [through2 ★1231](https://github.com/rvagg/through2) - Tiny wrapper around streams2 Transform to avoid explicit subclassing noise.
 - [from2 ★84](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
-- [get-stream ★84](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
+- [get-stream ★84 ⏳1Y](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
 - [into-stream ★47](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
 - [duplexify ★111](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
 - [pumpify ★109 ⏳1Y](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
@@ -622,6 +623,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - Other
 	- [NeDB ★7358](https://github.com/louischatriot/nedb) - Embedded persistent database written in JavaScript.
 	- [Lowdb ★5625](https://github.com/typicode/lowdb) - Small JavaScript database powered by Lodash.
+	- [Keyv ★287](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends.
 
 
 ### Testing

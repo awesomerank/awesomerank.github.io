@@ -144,7 +144,7 @@ For a list of free hacking books available for download, go [here ★1061](https
  * [Aircrack-ng](http://www.aircrack-ng.org/) - An 802.11 WEP and WPA-PSK keys cracking program
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
  * [Nipe ★244](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
- * [Habu ★67](https://github.com/portantier/habu) - Python Network Hacking Toolkit
+ * [Habu ★79](https://github.com/portantier/habu) - Python Network Hacking Toolkit
 
 
 # Forensic

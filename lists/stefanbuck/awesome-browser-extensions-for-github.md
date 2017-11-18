@@ -485,7 +485,7 @@ A Chrome and Firefox extension that shows notifications when something happens i
 </details>
 
 
-## [Notifications Preview for GitHub ★16](https://github.com/tanmayrajani/notifications-preview-github)
+## [Notifications Preview for GitHub ★17](https://github.com/tanmayrajani/notifications-preview-github)
 <a href="https://chrome.google.com/webstore/detail/notifications-preview-for/kgilejfahkjidpaclkepbdoeioeohfmj"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/en-US/firefox/addon/notifications-preview-github/"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 
@@ -698,7 +698,7 @@ Extension that simplifies the GitHub interface and adds useful features.
 </details>
 
 
-## [Render Whitespace on GitHub ★9](https://github.com/glebm/render-whitespace-on-github)
+## [Render Whitespace on GitHub ★11](https://github.com/glebm/render-whitespace-on-github)
 <a href="https://chrome.google.com/webstore/detail/ifdbipohclgnokjgpejhnbjdlgjkkhom"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/chrome/chrome_48x48.png" width="24" /></a>
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/render-whitespace-on-github"><img src="https://raw.githubusercontent.com/alrra/browser-logos/master/src/firefox/firefox_48x48.png" width="24" /></a>
 

@@ -76,7 +76,7 @@ You might also like [awesome-beancount ★62 ⏳1Y](https://github.com/wzyboy/aw
 
 ## Miscellaneous
 
-- [Code ★2148](https://github.com/ledger/ledger) - Code on GitHub.
+- [Code ★2174](https://github.com/ledger/ledger) - Code on GitHub.
 - [Ports](https://github.com/ledger/ledger/wiki/Ports) - List of alternative implementations.
 
 ## License

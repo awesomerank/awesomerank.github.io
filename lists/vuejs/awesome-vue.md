@@ -508,12 +508,13 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [vue-speech-streaming ★0](https://github.com/aofdev/vue-speech-streaming) - A Performing Streaming Speech Recognition results in real time Speech To Text with Google Cloud Speech + socket.io on Progressive Web App
 - [My Animation List ★5](https://github.com/limichange/my-animation-list) - A tool to easy get css animation code
 - [vue-input-streaming ★4](https://github.com/aofdev/vue-input-streaming) - A TextInput Streaming RealTime And Two Way Data Binding Broadcasting with Pusher
-- [TidyTab ★24](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
-- [peregrine-cms ★7](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
+- [TidyTab ★30](https://github.com/eggplanetio/tidytab) - A Chrome extension for tidying up those tabs.
+- [peregrine-cms ★9](https://github.com/headwirecom/peregrine-cms) - A Vue.js and Apache Sling based head-optional CMS
 - [concept-to-clinic ★226](https://github.com/concept-to-clinic/concept-to-clinic) - Lung cancer prediction project with Vue.js interface
 - [grid-awesome ★0](https://github.com/louisbourque/grid-awesome) - Generate boilerplate css for grid layouts using the css display: grid; property.
 - [Light Bootstrap Dashboard ★19](https://github.com/cristijora/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
 - [Hubaga ★4](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
+- [vue-webpack-buefy ★1](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
 
 ### Commercial Products
 
@@ -616,7 +617,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [WynnStats](https://maple3142.github.io/wynn/) - A unofficial WynnCraft statistics.
   - [Save Coins](https://savecoins.me) - Save Coins helps Nintendo Switch owners to save money on Nintendo eShop.
   - [Vectr](https://vectr.com/new) - A free vector graphics software
-  - [brain bits ★38](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
+  - [brain bits ★42](https://github.com/dashersw/brain-bits) - A P300 online spelling mechanism for Emotiv headsets
   - [Coin Dashboard](https://www.coin-dashboard.com) - The fully client-side cryptocurrency asset dashboard.
   - [Habitica](https://habitica.com/) - online task management application in  the form of a role-playing game.
   - [MadeWithVueJs](https://madewithvuejs.com/) - A Gallery of Projects made with Vue.js (also the Site itself uses Vue.js)
@@ -945,7 +946,7 @@ Tooltips / popovers
  - [vue-flat-surface-shader](https://github.com/grzhan/vue-flat-surface-shader) - A Vue component for [flat surface shader ★2109 ⏳1Y](https://github.com/wagerfield/flat-surface-shader)
  - [vue-easteregg ★1](https://github.com/ddgll/vue-easteregg) - Easey add an easteregg to your vue app (default with konami code)
  - [vue-barcode-scanner ★18](https://github.com/noomerzx/vue-barcode-scanner)
- - [vue-heatmapjs ★2](https://github.com/BrockReece/vue-heatmapjs) - A Vue directive for tracking and visualising mouse activity
+ - [vue-heatmapjs ★27](https://github.com/BrockReece/vue-heatmapjs) - A Vue directive for tracking and visualising mouse activity
  - [vue-maze ★3](https://github.com/meganetaaan/vue-maze) - An itty-bitty maze game made as Vue.js component
  - [vue-drag-verify ★1](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up.
  - [vue-balloon ★12](https://github.com/kevinwarne/vue-balloon) - Vue components for creating fixed, zoomable containers in the corner of a page. Similar to the mail composition wrapper used in gmail.
@@ -1087,7 +1088,7 @@ Tooltips / popovers
  - [vue-dropzone ★540](https://github.com/rowanwins/vue-dropzone) - A Vue.js (vue2) component for Dropzone.js - a drag’n’drop file uploads utility with image previews.
  - [vue-transmit ★94](https://github.com/alexsasharegan/vue-transmit) - A purely Vue.js drag & drop uploader component based on Dropzone.js for Vue 2.0
  - [vue-upload-component ★531](https://github.com/lian-yue/vue-upload-component) - Vue upload component, Multi-file upload, Upload directory, Drag upload, Drag the directory. Supports  Vue >= 2.0
- - [vue-uploader ★162](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
+ - [vue-uploader ★205](https://github.com/simple-uploader/vue-uploader) - A Vue.js upload component powered by simple-uploader.js
 
 #### Context Menu
 
@@ -1172,6 +1173,7 @@ Tooltips / popovers
  - [bootstrap-vue](https://bootstrap-vue.github.io) - Implementation of [bootstrap-4](https://v4-alpha.getbootstrap.com/) grid and components for Vue.js 2.
  - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
  - [Zircle UI](https://zircleui.github.io/zircleUI/) - A circular zooming UI library based on Vue.js 2.
+ - [vue-mdc-adapter ★36](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
  
 ### Mobile
 
@@ -1652,6 +1654,8 @@ Payment utilities.
  - [vue-md-loader ★5](https://github.com/wxsms/vue-md-loader) - Markdown files to ALIVE Vue components.
  - [@vuedoc/parser ★18](https://github.com/vuedoc/parser) - Generate a JSON documentation for a Vue file component.
  - [@vuedoc/md ★48](https://github.com/vuedoc/md) - Generate a Markdown Documentation for a Vue file.
+ - [jsdoc-vue-component ★0](https://github.com/ccqgithub/jsdoc-vue-component) - A jsodc3 plugin that extract vue SFC info(name, props, events...) to document.
+ - [jsdoc-vuedoc ★0](https://github.com/ccqgithub/jsdoc-vuedoc) - A jsdoc3 plugin use `@vuedoc/md`.
 
 ### Test
 

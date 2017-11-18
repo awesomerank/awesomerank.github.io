@@ -106,12 +106,12 @@ Please read the [contribution guidelines](https://github.com/moul/awesome-ssh/bl
 ### *SSH* agent
 
 * [ssh-ident](https://github.com/ccontavalli/ssh-ident) [![stars](https://img.shields.io/github/stars/ccontavalli/ssh-ident.svg?style=social&label=stars) ★527](https://github.com/ccontavalli/ssh-ident) - Different agents and different keys for different projects, with `ssh`.
-* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social&label=stars) ★60452](https://github.com/robbyrussell/oh-my-zsh) - `ssh-agent` plugin for `zsh`.
+* [oh-my-zsh/plugins/ssh-agent](https://github.com/robbyrussell/oh-my-zsh) [![stars](https://img.shields.io/github/stars/robbyrussell/oh-my-zsh.svg?style=social&label=stars) ★61965](https://github.com/robbyrussell/oh-my-zsh) - `ssh-agent` plugin for `zsh`.
 * [sshecret ★34](https://github.com/thcipriani/sshecret) - Automatically create and manage multiple agents for multiple keys.
 
 ### Tools
 
-* [sshrc](https://github.com/Russell91/sshrc) [![stars](https://img.shields.io/github/stars/Russell91/sshrc.svg?style=social&label=stars) ★3817](https://github.com/Russell91/sshrc) - Bring your `.bashrc`, `.vimrc`, etc. with you when you `ssh`.
+* [sshrc](https://github.com/Russell91/sshrc) [![stars](https://img.shields.io/github/stars/Russell91/sshrc.svg?style=social&label=stars) ★3850](https://github.com/Russell91/sshrc) - Bring your `.bashrc`, `.vimrc`, etc. with you when you `ssh`.
 * [kyrat](https://github.com/fsquillace/kyrat) [![stars](https://img.shields.io/github/stars/fsquillace/kyrat.svg?style=social&label=stars) ★20](https://github.com/fsquillace/kyrat) - SSH wrapper script that brings your dotfiles always with you on Linux and OSX.
 * [ssh-vault](https://github.com/ssh-vault/ssh-vault) [![stars](https://img.shields.io/github/stars/ssh-vault/ssh-vault.svg?style=social&label=stars) ★95](https://github.com/ssh-vault/ssh-vault) - encrypt/decrypt files using ssh keys
 * [ssh-ping](https://github.com/vaporup/ssh-tools) [![stars](https://img.shields.io/github/stars/vaporup/ssh-tools.svg?style=social&label=stars) ★2](https://github.com/vaporup/ssh-tools) - check if host is reachable using ssh_config

@@ -539,7 +539,7 @@ A collection of awesome things regarding React ecosystem.
 * [Reagent - A minimalistic ClojureScript interface to React.js ★2797](https://github.com/reagent-project/reagent)
 * [react-haskell - React bindings for Haskell ★300 ⏳2Y](https://github.com/joelburget/react-haskell)
 * [Express React views ★1740](https://github.com/reactjs/express-react-views)
-* [Express Coffee-React views - render coffee-react on the server ★4 ⏳2Y](https://github.com/duereg/express-coffee-react-views)
+* [Express Coffee-React views - render coffee-react on the server ★4 ⏳3Y](https://github.com/duereg/express-coffee-react-views)
 * [React Page Middleware](https://github.com/reactjs/react-page-middleware)
 * [ngReact - React Components in Angular](https://github.com/davidchang/ngReact)
 * [React Python](https://github.com/reactjs/react-python)

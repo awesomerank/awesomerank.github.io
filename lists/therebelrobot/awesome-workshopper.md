@@ -74,7 +74,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [test-anything ★116](https://github.com/finnp/test-anything) | Introduction to testing |
 | [thinking-in-react ★138](https://github.com/asbjornenge/thinking-in-react) | Introduction to React |
 | [tower-of-babel ★563](https://github.com/yosuke-furukawa/tower-of-babel) | A tour of the features of Babel.js |
-| [unix-adventure ★69 ⏳1Y](https://github.com/substack/unix-adventure) | become a unix wizard |
+| [unix-adventure ★69 ⏳2Y](https://github.com/substack/unix-adventure) | become a unix wizard |
 
 ### Additional Tools
 | Module Name  | Description |
