@@ -430,7 +430,7 @@ Community Repos:
 
 * [achiku/jungle :fire::fire::fire: ★832](https://github.com/achiku/jungle) - Operations by EC2 and ELB cli should be simpler.
 * [donnemartin/saws :fire::fire::fire::fire::fire: ★3410](https://github.com/donnemartin/saws) - A Supercharged AWS Command Line Interface.
-* [timkay/aws :fire::fire: ★356](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
+* [timkay/aws :fire::fire: ★356 ⏳1Y](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
 * [wallix/awless :fire::fire::fire::fire::fire: ★3239](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go.
 
 ### CloudFormation
@@ -712,7 +712,7 @@ AWS Repos:
 * [dynamodb-streams-kinesis-adapter ★34](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - DynamoDB Streams Adapter.
 * [kinesis-log4j-appender ★47](https://github.com/awslabs/kinesis-log4j-appender) - Log4J Appender.
 * [kinesis-poster-worker ★48 ⏳2Y](https://github.com/awslabs/kinesis-poster-worker) - Simple multi-threaded Python Poster and Worker.
-* [kinesis-storm-spout ★101](https://github.com/awslabs/kinesis-storm-spout) - Spout for Storm.
+* [kinesis-storm-spout :fire: ★101](https://github.com/awslabs/kinesis-storm-spout) - Spout for Storm.
 * [mqtt-kinesis-bridge ★31](https://github.com/awslabs/mqtt-kinesis-bridge) - Simple MQTT bridge in Python.
 
 Community Repos:

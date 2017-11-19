@@ -313,7 +313,7 @@ provide new storage backends.*
 
 * [pyramid_mako ★19](https://github.com/Pylons/pyramid_mako) - Mako templating
   system bindings for the Pyramid web framework.
-* [pyramid_chameleon ★9](https://github.com/Pylons/pyramid_chameleon) - Chameleon
+* [pyramid_chameleon ★9 ⏳1Y](https://github.com/Pylons/pyramid_chameleon) - Chameleon
   template compiler for pyramid.
 * [pyramid_jinja2 ★68](https://github.com/Pylons/pyramid_jinja2) - Jinja2
   templating system bindings for the Pyramid web framework.

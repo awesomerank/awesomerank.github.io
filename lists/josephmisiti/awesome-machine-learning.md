@@ -593,7 +593,7 @@ Further resources:
 * [Torch7](http://torch.ch/)
   * [cephes ★27 ⏳1Y](https://github.com/deepmind/torch-cephes) - Cephes mathematical functions library, wrapped for Torch. Provides and wraps the 180+ special mathematical functions from the Cephes mathematical library, developed by Stephen L. Moshier. It is used, among many other places, at the heart of SciPy.
   * [autograd ★523](https://github.com/twitter/torch-autograd) - Autograd automatically differentiates native Torch code. Inspired by the original Python version.
-  * [graph ★31](https://github.com/torch/graph) - Graph package for Torch.
+  * [graph ★31 ⏳1Y](https://github.com/torch/graph) - Graph package for Torch.
   * [randomkit ★28 ⏳1Y](https://github.com/deepmind/torch-randomkit) - Numpy's randomkit, wrapped for Torch.
   * [signal](http://soumith.ch/torch-signal/signal/) - A signal processing toolbox for Torch-7. FFT, DCT, Hilbert, cepstrums, stft.
   * [nn ★985](https://github.com/torch/nn) - Neural Network package for Torch.

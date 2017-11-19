@@ -158,6 +158,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [node-gameboy ★5](https://github.com/nakardo/node-gameboy) - Node.js.
 - [PlutoBoy ★29](https://github.com/RossMeikleham/PlutoBoy) - Cross platform (Windows, OSX, Linux/Unix, Android, iOS, Web Browsers, and Sony PSP) emulator.
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
+- [Coffee GB ★22](https://github.com/trekawek/coffee-gb) - Java
 
 
 ## Software Development
@@ -198,6 +199,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [cart-dumper ★3](https://github.com/Palmr/cart-dumper) - Gameboy Cartridge Dumper ROM.
 - [Game Boy LCD sniffing ★87](https://github.com/svendahlstrand/game-boy-lcd-sniffing) - Sniff your Game Boy's LCD using a logic analyzer.
 - [Dot Matrix Game Editor](http://www.dotmatrixgame.com/) - An IDE for Game Boy programming in a C-like language called GBL, with many other features like tile and map extraction, WLA-DX assembly, and more.
+- [brewtool](http://make.vg/brewtool/) - A collection of primitive editor/converter tools for making assets used with homebrew ROM development.
 
 ## Programming Tutorials
 ### ASM

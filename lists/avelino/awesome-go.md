@@ -875,7 +875,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [sftp ★412](https://github.com/pkg/sftp) - Package sftp implements the SSH File Transfer Protocol as described in https://filezilla-project.org/specs/draft-ietf-secsh-filexfer-02.txt.
 * [ssh ★507](https://github.com/gliderlabs/ssh) - Higher-level API for building SSH servers (wraps crypto/ssh).
 * [sslb ★96 ⏳1Y](https://github.com/eduardonunesp/sslb) - It's a Super Simples Load Balancer, just a little project to achieve some kind of performance.
-* [stun ★28](https://github.com/go-rtc/stun) - Go implementation of RFC 5389 STUN protocol.
+* [stun](https://github.com/go-rtc/stun) - Go implementation of RFC 5389 STUN protocol.
 * [tcp_server ★146](https://github.com/firstrow/tcp_server) - Go library for building tcp servers faster.
 * [utp ★117](https://github.com/anacrolix/utp) - Go uTP micro transport protocol implementation.
 * [water ★327](https://github.com/songgao/water) - Simple TUN/TAP library.
@@ -1186,7 +1186,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-unsplash ★2](https://github.com/hbagdi/go-unsplash) - Go client library for the [Unsplash.com](https://unsplash.com) API.
 * [go-xkcd ★22 ⏳1Y](https://github.com/nishanths/go-xkcd) - Go client for the xkcd API.
 * [goamz ★669](https://github.com/mitchellh/goamz) - Popular fork of [goamz](https://launchpad.net/goamz) which adds some missing API calls to certain packages.
-* [golyrics ★18](https://github.com/mamal72/golyrics) - Golyrics is a Go library to fetch music lyrics data from the Wikia website.
+* [golyrics ★18 ⏳1Y](https://github.com/mamal72/golyrics) - Golyrics is a Go library to fetch music lyrics data from the Wikia website.
 * [GoMusicBrainz ★24](https://github.com/michiwend/gomusicbrainz) - Go MusicBrainz WS2 client library.
 * [google ★1168](https://github.com/google/google-api-go-client) - Auto-generated Google APIs for Go.
 * [google-analytics ★8 ⏳2Y](https://github.com/chonthu/go-google-analytics) - Simple wrapper for easy google analytics reporting.
@@ -1346,7 +1346,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 *Libraries for validation.*
 
 * [govalidator ★2164](https://github.com/asaskevich/govalidator) - Validators and sanitizers for strings, numerics, slices and structs.
-* [govalidator ★145](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
+* [govalidator ★160](https://github.com/thedevsaddam/govalidator) - Validate Golang request data with simple rules. Highly inspired by Laravel's request validation.
 * [ozzo-validation ★475](https://github.com/go-ozzo/ozzo-validation) - Supports validation of various data types (structs, strings, maps, slices, etc.) with configurable and extensible validation rules specified in usual code constructs instead of struct tags.
 * [validate ★22](https://github.com/markbates/validate) - This package provides a framework for writing validations for Go applications.
 * [validator ★1286](https://github.com/go-playground/validator) - Go Struct and Field validation, including Cross Field, Cross Struct, Map, Slice and Array diving.

@@ -505,7 +505,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 #### Key Value Store
 [back to top](#readme) 
 
-* [Default ★34](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support
+* [Default ★278](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support
 * [DefaultsKit ★769](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS.
 * [Palau ★389](https://github.com/symentis/Palau) - Typesafe NSUserDefaults with custom rules.
 * [Prephirences ★440](https://github.com/phimage/Prephirences) - Manage application preferences, NSUserDefaults, iCloud, Keychain and more.
@@ -727,7 +727,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Bluetonium ★125](https://github.com/e-sites/Bluetonium) - Library that makes it easy to communicate with Bluetooth devices.
 * [BluetoothKit ★1582](https://github.com/rhummelmose/BluetoothKit) - Easily communicate between iOS/OSX devices using BLE.
 * [RxBluetoothKit ★634](https://github.com/polidea/RxBluetoothKit) - iOS & OSX Bluetooth library for RxSwift.
-* [SwiftyBluetooth ★29](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
+* [SwiftyBluetooth ★33](https://github.com/jordanebelanger/SwiftyBluetooth) - Simple and reliable closure based wrapper around CoreBluetooth.
 
 #### Camera
 *Awesome camera libs* [back to top](#readme) 

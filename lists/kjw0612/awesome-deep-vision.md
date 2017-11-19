@@ -158,7 +158,7 @@ Please feel free to [pull requests](https://github.com/kjw0612/awesome-deep-visi
   * Jure Žbontar, Yann LeCun, Computing the Stereo Matching Cost with a Convolutional Neural Network, CVPR, 2015.
 * Colorful Image Colorization Richard Zhang, Phillip Isola, Alexei A. Efros, ECCV, 2016 [[Paper]](http://arxiv.org/pdf/1603.08511.pdf), [[Code] ★1333](https://github.com/richzhang/colorization)
 * Ryan Dahl, [[Blog]](http://tinyclouds.org/colorize/)
-* Feature Learning by Inpainting[[Paper]](https://arxiv.org/pdf/1604.07379v1.pdf)[[Code] ★319](https://github.com/pathak22/context-encoder)
+* Feature Learning by Inpainting[[Paper]](https://arxiv.org/pdf/1604.07379v1.pdf)[[Code] ★319 ⏳1Y](https://github.com/pathak22/context-encoder)
   * Deepak Pathak, Philipp Krahenbuhl, Jeff Donahue, Trevor Darrell, Alexei A. Efros, Context Encoders: Feature Learning by Inpainting, CVPR, 2016
 
 ### Edge Detection

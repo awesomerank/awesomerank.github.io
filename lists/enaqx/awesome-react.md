@@ -461,7 +461,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-frame - React components within an iframe for isolated css styling ★37](https://github.com/pqx/react-frame)
 * [rodal - A React modal with animations ★364](https://github.com/chenjiahan/rodal)
 * [react-scrollbar - Simple ScrollArea component built for React ★275](https://github.com/souhe/reactScrollbar)
-* [react-experiments - Implement A/B tests with randomized parameterizations of your components ★230](https://github.com/HubSpot/react-experiments)
+* [react-experiments - Implement A/B tests with randomized parameterizations of your components ★230 ⏳1Y](https://github.com/HubSpot/react-experiments)
 * [react-slide-deck - For swipe, tabs, carousel, one page scroll. With animation hooks. tweening, tween callbacks ★67 ⏳1Y](https://github.com/jl-/react-slide-deck)
 * [react-resizable-box - Resizable component for React](https://github.com/bokuweb/react-resizable-box)
 * [react-ios-switch - React switch component](https://github.com/clariussystems/react-ios-switch)

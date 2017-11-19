@@ -510,7 +510,7 @@ Http is available as an injectable class, with methods to perform http requests.
 #### Generators
 * Node.js
   * Slush
-    * [TheVelourFog/slush-angular2 ★44](https://github.com/RyanMetin/slush-angular2)
+    * [TheVelourFog/slush-angular2 ★44 ⏳1Y](https://github.com/RyanMetin/slush-angular2)
   * Yeoman
     * [swirlycheetah/generator-angular2 ★270 ⏳1Y](https://github.com/chrisdwheatley/generator-angular2)
   * Faristo

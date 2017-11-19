@@ -124,7 +124,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraysQL ★24](https://github.com/larsbs/graysql) - A GraphQL manager and loader.
 * [graysql-orm-loader ★5 ⏳1Y](https://github.com/larsbs/graysql-orm-loader) - A GraysQL extension to load a GraphQL schema from an ORM.
 * [Annotated GraphQL ★1 ⏳1Y](https://github.com/almilo/annotated-graphql) - Proof of Concept for annotations in GraphQL (i.e.: transform an existing REST api into a GraphQL endpoint).
-* [Apollo Client ★4644](https://github.com/apollographql/apollo-client) - A well-documented GraphQL client that integrates with Redux. Has React and Angular bindings.
+* [Apollo Client ★4644](https://github.com/apollographql/apollo-client) - A well-documented GraphQL client. Has React and Angular bindings.
 * [graphql-tools ★1180](https://github.com/apollographql/graphql-tools) - Tool library for building and maintaining GraphQL-JS servers.
 * [graphql-anywhere ★556](https://github.com/apollographql/graphql-anywhere) - Run a GraphQL query anywhere, against any data, with no schema.
 * [graphql-tag ★394](https://github.com/apollographql/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries.
@@ -164,7 +164,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [relay-sink ★129](https://github.com/acdlite/relay-sink) - Use Relay to fetch and store data outside of a React component.
 * [recompose-relay](https://github.com/acdlite/recompose/tree/master/src/packages/recompose-relay) - Recompose helpers for Relay.
 * [Graylay ★24](https://github.com/larsbs/graysql#Graylay) - A GraysQL extension to create a Relay compatible Schema.
-* [Apollo Client ★4644](https://github.com/apollographql/apollo-client) - A simple alternative to Relay, integrates with Redux and comes with React and Angular bindings.
+* [Apollo Client ★4644](https://github.com/apollographql/apollo-client) - A simple alternative to Relay, comes with React and Angular bindings.
 * [react-relay-network-layer ★267](https://github.com/nodkz/react-relay-network-layer) - A network layer for Relay with query batching and middleware support (urlThunk, retryThunk, auth, defer and other).
 * [relay-subscriptions ★185](https://github.com/edvinerikson/relay-subscriptions) - Subscription support for Relay.
 * [Portfolio Relay Example ★9](https://github.com/alex-cory/portfolio) - An example website that fetches data from various apis and uses Relay and GraphQL to feed the data to React components!
@@ -398,7 +398,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [GraphQL Faker ★416](https://github.com/APIs-guru/graphql-faker) - 🎲 Mock or extend your GraphQL API with faked data. No coding required.
 * [ts-graphql-plugin ★140](https://github.com/Quramy/ts-graphql-plugin) - A language service plugin complete and validate GraphQL query in TypeScript template strings.
 * [Apollo Launchpad](https://launchpad.graphql.com/) - Like JSFiddle for GraphQL server code, write and deploy a GraphQL API directly from your browser.
-* [Apollo Tracing ★52](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
+	* [Apollo Tracing ★52](https://github.com/apollographql/apollo-tracing) - GraphQL extension that enables you to easily get resolver-level performance information as part of a GraphQL response.
 * [Altair GraphQL Client ★61](https://github.com/imolorhe/altair) - An sleek graphQL client app for querying GraphQL servers, like Postman for graphQL. It also comes as a chrome extension.
 * [Apollo Storybook Decorator ★63](https://github.com/abhiaiyer91/apollo-storybook-decorator) - Wrap your React Storybook stories with Apollo Client, provide mocks for isolated UI testing with GraphQL
 * [GraphQL Metrics ★3](https://github.com/Workpop/graphql-metrics) - instrument GraphQL resolvers, logging response times and statuses (if there was an error or not) to the console as well as to InfluxDB.
@@ -412,7 +412,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Databases
 
 * [ArangoDB](https://www.arangodb.com/) - Multi-model database that supports GraphQL schemas in JavaScript inside the database.
-* [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with GraphQL as the query language
+* [Dgraph](https://dgraph.io/) - Scalable, distributed, low latency, high throughput Graph database with a GraphQL like language (called [GraphQL+](https://docs.dgraph.io/query-language/)) as the query language. Dgrapqh can be queried with graphql by using [dgraphql ★23](https://github.com/dpeek/dgraphql)
 
 <a name="services" />
 

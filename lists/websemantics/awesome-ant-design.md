@@ -106,7 +106,7 @@ Projects that are built with Vue.js and Ant Design.
 A list of UI components built with Ant Design.
 
 - [react-lz-editor ★335](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
-- [React Grid ★10](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
+- [React Grid ★10 ⏳1Y](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
 - [Antd Kit ★21 ⏳1Y](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
 - [antd-data-table ★21](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
 

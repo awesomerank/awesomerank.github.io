@@ -614,7 +614,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 
 ## Git Tools
 
-* [ginatra ★501 ⏳1Y](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
+* [ginatra ★501 ⏳2Y](https://github.com/NARKOZ/ginatra) - A web frontend for Git repositories.
 * [git-auto-bisect ★78 ⏳2Y](https://github.com/grosser/git-autobisect) - Find the commit that broke master.
 * [git_reflow ★1385](https://github.com/reenhanced/gitreflow) - An automated quality control workflow for Agile teams.
 * [git-spelunk ★38 ⏳1Y](https://github.com/osheroff/git-spelunk) - Dig through git blame history.

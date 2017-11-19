@@ -895,6 +895,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Building a multi-region serverless application](https://aws.amazon.com/de/blogs/compute/building-a-multi-region-serverless-application-with-amazon-api-gateway-and-aws-lambda/) - How to build a multi-region serverless application with AWS Lambda and API Gateway.
 - [The ABCs of IAM permissions](https://serverless.com/blog/abcs-of-iam-permissions/) - How IAM permissions work and how you can use them within the Serverless Framework.
 - [How medical supply startup Medinas uses serverless](https://aws.amazon.com/de/blogs/startups/how-medical-supply-startup-medinas-is-using-serverless-to-tackle-a-765-billion-problem/) - How medical supply startup Medinas is using serverless to tackle a $765 billion problem.
+- [Build a Python REST API](https://serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb/) - How to build a serverless Python REST API based on Flask.
+- [Funtainers: The beauty of running containers as functions](https://thenewstack.io/funtainers-beauty-running-containers-functions/) - How containers can be utilized to run functions on demand.
 
 ## Screencasts
 
@@ -1237,7 +1239,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Roolbar example ★2](https://github.com/GorillaStack/serverless-rollbar-example) - Service which showcases how you can use Rollbar with the Serverless Framework.
 - [Serverless Docker](https://github.com/gertjvr/serverless-docker) - PoC to see if we can replicate Amazon API Gateway using Docker images to run Lambda.
 - [Boilerplate Azure Functions ★1](https://github.com/pragnagopa/boilerplate-azurefunctions) - Boilerplate which helps to use the Azure Functions provider plugin.
-- [URL shortener ★43](https://github.com/aletheia/serverless-url-shortener) - A simple url-shortener, using Serverless Framework.
+- [URL shortener ★43 ⏳1Y](https://github.com/aletheia/serverless-url-shortener) - A simple url-shortener, using Serverless Framework.
 - [Falke ★1](https://github.com/sbstjn/falke) - Alexa skill to check when a Tatort is broadcasted.
 - [LambdaAuth ★1117](https://github.com/danilop/LambdAuth) - Serverless authentication service.
 - [Elasticpypi ★133](https://github.com/khornberg/elasticpypi) - Serverless PyPI service.
@@ -1643,8 +1645,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Bootstrap ★5](https://github.com/dougmoscrop/serverless-plugin-bootstrap) - Checks that the environment around your Serverless service has been set up and is up-to-date.
 - [API docs ★6](https://github.com/8select/serverless-plugin-api-docs) - Automatically create a Lambda function which returns Swagger-UI HTML API Documentation Page based on the given swagger spec JSON file.
 - [SSM fetch ★7](https://github.com/gozup/serverless-ssm-fetch) - Sets SSM parameters into function environment variables.
-- [Secrets ★26](https://github.com/serverless/serverless-secrets-plugin) - Plugin to manage Secrets.
-- [State manager ★3](https://github.com/jeremydaly/serverless-stage-manager) - Super simple plugin for validating stage names before deployment.
+- [Secrets ★28](https://github.com/serverless/serverless-secrets-plugin) - Plugin to manage Secrets.
+- [State manager ★6](https://github.com/jeremydaly/serverless-stage-manager) - Super simple plugin for validating stage names before deployment.
 - [StackStorm ★2](https://github.com/StackStorm/serverless-plugin-stackstorm) - Run StackStorm actions serverless and stackstormless.
 - [SPA ★4](https://github.com/gilmarsquinelato/serverless-spa) - Deploy your static website with webpack to AWS using the Serverless Framework.
 - [AWS resource names ★1](https://github.com/concon121/serverless-plugin-aws-resource-names) - Enable custom AWS resource names.

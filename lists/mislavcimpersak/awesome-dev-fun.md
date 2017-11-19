@@ -47,7 +47,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 
 ## JavaScript
 
-- [ComcastifyJS ★1164 ⏳2Y](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast.
+- [ComcastifyJS ★1164 ⏳3Y](https://github.com/theonion/comcastifyjs) - Sometimes images just load too damned fast.
 - [Elevator.js ★4374](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 - [Echochamber.js ★3728 ⏳2Y](https://github.com/tessalt/echo-chamber-js) - Commenting without the comments - providing a single-sided user comments just stored in local storage.
 - [Fapfap.js](http://fapfapjs.io) - Handcrafted JavaScript framework for DIY enthusiasts.

@@ -740,7 +740,7 @@ Inspired by [awesome-php ★17013](https://github.com/ziadoz/awesome-php).
 * [doit](http://pydoit.org/) - A task runner and build tool.
 * [gunnery ★652 ⏳2Y](https://github.com/gunnery/gunnery) - Multipurpose task execution tool for distributed systems with web-based interface.
 * [Joblib](http://pythonhosted.org/joblib/index.html) - A set of tools to provide lightweight pipelining in Python.
-* [Plan ★1009](https://github.com/fengsp/plan) - Writing crontab file in Python like a charm.
+* [Plan ★1009 ⏳1Y](https://github.com/fengsp/plan) - Writing crontab file in Python like a charm.
 * [schedule ★3630](https://github.com/dbader/schedule) - Python job scheduling for humans.
 * [Spiff ★520](https://github.com/knipknap/SpiffWorkflow) - A powerful workflow engine implemented in pure Python.
 * [TaskFlow](https://docs.openstack.org/developer/taskflow/) - A Python library that helps to make task execution easy, consistent and reliable.

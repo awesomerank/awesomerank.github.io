@@ -133,7 +133,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [cmake-examples ★135](https://github.com/ttroy50/cmake-examples) - Useful CMake examples in a tutorial format. [```[MIT]```][MIT]
 * [cmake-templates ★137](https://github.com/district10/cmake-templates) - Some CMake Templates. Qt, Boost, OpenCV, C++11, etc. [```[MIT]```][MIT]
 * [CppProjectTemplate ★129 ⏳1Y](https://github.com/Barthelemy/CppProjectTemplate) - Basic, but working, C++ project using CMake, boost and Doxygen. [```[MIT]```][MIT]
-* [mini-cmake-qt ★72](https://github.com/euler0/mini-cmake-qt) - Minimal CMake template for Qt 5 projects. [```[LICENSE]```](https://github.com/euler0/mini-cmake-qt/blob/master/LICENSE)
+* [mini-cmake-qt ★72 ⏳1Y](https://github.com/euler0/mini-cmake-qt) - Minimal CMake template for Qt 5 projects. [```[LICENSE]```](https://github.com/euler0/mini-cmake-qt/blob/master/LICENSE)
 * [CMake-VisualStudio-Example ★39](https://github.com/cognitivewaves/CMake-VisualStudio-Example) - CMake example for Visual Studio developers - [blog post](http://cognitivewaves.wordpress.com/cmake-and-visual-studio/). ```[NO LICENSE]```
 * [Cpp-Project-Template ★39 ⏳2Y](https://github.com/NewProggie/Cpp-Project-Template) - C++ bootstrap project template including CMake build system. [```[MIT]```][MIT]
 * [BASIS ★11](https://github.com/cmake-basis/BASIS) - CMake [BASIS](https://cmake-basis.github.io) makes it easy to create sharable software and libraries that work together. [```[BSD2]```][BSD-2-Clause]

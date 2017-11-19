@@ -249,7 +249,7 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
     * [Mumblecop](https://bitbucket.org/Flandoo/mumblecop) - Stream audio from youtube and soundcloud, simulate dice rolls, or write your own commands with a simple plugin format. `MIT` `Ruby`
   * [Niltalk](http://niltalk.com/) - A simple, private, persistence-free web based multi-room chat server + client. ([Source Code ★677 ⏳1Y](https://github.com/knadh/niltalk)) `AGPLv3` `Go`
   * [Node-Chat ★393](https://github.com/IgorAntun/node-chat) - A not-so-basic open-source chat with admin features. `MIT` `Nodejs`
-  * [Pushjet](https://pushjet.io/) - A self hosted push notification service built with a simple API making sending notifications easy. ([Source Code ★191](https://github.com/Pushjet/Pushjet-Server-Api)) `BSD` `Python`
+  * [Pushjet](https://pushjet.io/) - A self hosted push notification service built with a simple API making sending notifications easy. ([Source Code ★191 ⏳1Y](https://github.com/Pushjet/Pushjet-Server-Api)) `BSD` `Python`
   * [Rallly](http://rallly.co) - Rallly is a free collaborative scheduling service. ([Source Code ★103](https://github.com/lukevella/Rallly)) `CCBYSA` `Nodejs`
   * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code ★540](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
   * [Ring](https://ring.cx/) - Free software for universal communication which respects freedoms and privacy of its users. ([Source Code ★65](https://github.com/savoirfairelinux/ring-project)) `GPLv3` `C++`

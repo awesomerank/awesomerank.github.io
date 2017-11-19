@@ -143,7 +143,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-cli ★13 ⏳2Y](https://github.com/siddontang/slack-cli) - A command tool to communicate with Slack
 - [slack-fingerbumpbot ★4 ⏳3Y](https://github.com/grantmd/slack-fingerbumpbot) - A bot for Slack that never leaves a finger bump hanging
 - [slack-markov ★48](https://github.com/grantmd/slack-markov) - A markov chain bot for your Slack channel
-- [slack-oldbot ★14 ⏳3Y](https://github.com/grantmd/slack-oldbot) - A bot for Slack that politely reports when a link has been used before in the channel
+- [slack-oldbot ★14 ⏳4Y](https://github.com/grantmd/slack-oldbot) - A bot for Slack that politely reports when a link has been used before in the channel
 - [slack-upvote ★17 ⏳2Y](https://github.com/tampajohn/slack-upvote) - Slack voting integration
 - [slackbot ★3 ⏳3Y](https://github.com/collinvandyck/slackbot) - A silly little slackhq robot
 - [slackbot ★232](https://github.com/trinchan/slackbot) (II) - Framework for building slash commands for Slack

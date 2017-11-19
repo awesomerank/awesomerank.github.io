@@ -76,7 +76,7 @@ This is a list of tools, scripts, libraries, examples & other resources related 
 - [X-gif ★1900](https://github.com/geelen/x-gif) - a web component for flexible GIF playback
 - [gifme ★326 ⏳3Y](https://github.com/holman/gifme) - generate animated GIFs
 - [GifW00t ★692 ⏳2Y](https://github.com/yaronn/GifW00t) - javascript web recorder
-- [gif-machine ★54 ⏳2Y](https://github.com/lelandbatey/gif-machine) - GIF creation from Youtube videos
+- [gif-machine ★54 ⏳3Y](https://github.com/lelandbatey/gif-machine) - GIF creation from Youtube videos
 - [gifstreaming ★132](https://github.com/jbochi/gifstreaming) - Live video streaming server
 - [Screengif ★979](https://github.com/dergachev/screengif) - Create animated GIF screencasts
 - [vnc-over-gif ★517](https://github.com/sidorares/vnc-over-gif) - Serves screen updates as animated GIF over http

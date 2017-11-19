@@ -143,7 +143,7 @@ Made with Electron.
 - [Backer Timetracker](https://github.com/MayGo/backer-timetracker) - Tracks your time.
 - [Ghost ★825](https://github.com/tryghost/ghost-desktop) - Professional publishing platform.
 - [Mattermost ★608](https://github.com/mattermost/desktop) - Mattermost client.
-- [PupaFM ★271](https://github.com/xwartz/PupaFM) - DoubanFM music player.
+- [PupaFM ★271 ⏳1Y](https://github.com/xwartz/PupaFM) - DoubanFM music player.
 - [MediumDesk](https://github.com/sivragav/mediumdesk) - Unofficial Medium app.
 - [Lightgallery ★791 ⏳1Y](https://github.com/sachinchoolur/lightgallery-desktop) - Image viewer.
 - [Crypter ★228](https://github.com/HR/Crypter) - Secure encryption client.

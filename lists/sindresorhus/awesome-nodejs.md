@@ -247,7 +247,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [winston ★8766](https://github.com/winstonjs/winston) - Multi-transport async logging library.
 - [Bunyan ★4543](https://github.com/trentm/node-bunyan) - JSON logging library.
 - [intel](http://seanmonstar.github.io/intel/) - Logging library (handlers, filters, formatters, console injection).
-- [console-log-level ★19](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
+- [console-log-level ★19 ⏳1Y](https://github.com/watson/console-log-level) - The most simple logger imaginable with support for log levels and custom prefixes.
 - [storyboard ★389](https://github.com/guigrpa/storyboard) - End-to-end, hierarchical, real-time, colorful logs and stories.
 
 

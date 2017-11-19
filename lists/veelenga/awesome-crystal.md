@@ -304,14 +304,14 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Misc
  * [aasm.cr ★20](https://github.com/veelenga/aasm.cr) - Easy to use finite state machine for Crystal classes
- * [accord ★14](https://github.com/neovintage/accord) - Sharable validations for Crystal objects
+ * [accord ★14 ⏳1Y](https://github.com/neovintage/accord) - Sharable validations for Crystal objects
  * [any_hash.cr ★11](https://github.com/Sija/any_hash.cr) - Recursive Hash with better JSON::Any included
  * [circuit_breaker ★14](https://github.com/TPei/circuit_breaker) - Implementation of the circuit breaker pattern
  * [crystal-binary_parser ★2](https://github.com/DanSnow/crystal-binary_parser) - Binary parser
  * [crystal-futures ★42](https://github.com/dhruvrajvanshi/crystal-futures) - Future type implementation
  * [crz ★16](https://github.com/dhruvrajvanshi/crz) - Functional programming library
  * [denetmen ★19](https://github.com/izniburak/denetmen) - Useful micro validator / check library
- * [emoji.cr ★11](https://github.com/veelenga/emoji.cr) - Emoji library
+ * [emoji.cr ★11 ⏳1Y](https://github.com/veelenga/emoji.cr) - Emoji library
  * [hoop ★169](https://github.com/0x73/hoop) - Building native OSX apps
  * [html_builder ★26](https://github.com/crystal-lang/html_builder) - DSL for creating HTML
  * [i18n.cr ★5](https://github.com/vladfaust/i18n.cr) - Internationalization shard

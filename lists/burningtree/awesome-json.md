@@ -346,7 +346,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 * [JSON Schema + Faker ★1025](https://github.com/json-schema-faker/json-schema-faker) - Fake your schemas.
 * [DLL.js ★52](https://github.com/moll/js-ddl) - Gets you a JSON Schema from PostgreSQL or SQLite3.
 * [JSONSchema.net](https://jsonschema.net//) - JSON Schema generator from JSON object.
-* [js-schema ★339](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
+* [js-schema ★339 ⏳1Y](https://github.com/molnarg/js-schema) - A new way of describing object schemas in JavaScript. It has a clean and simple syntax, and it is capable of serializing to/from the popular JSON Schema format.
 * [aptos ★110](https://github.com/pennsignals/aptos) - A tool for validating data using JSON Schema and converting JSON Schema documents into different data-interchange formats.
 
 ## JSON Schema Resources

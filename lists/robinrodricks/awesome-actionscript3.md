@@ -344,7 +344,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Fcss ★87 ⏳6Y](https://github.com/theflashbum/fcss) - Flash Cascading StyleSheet Library.
 * [Stylekit-as3 ★43 ⏳5Y](https://github.com/videojuicer/stylekit-as3) -  Skinnable user interfaces using CSS3.
 * [Sass4as ★4 ⏳7Y](https://github.com/jeremyruppel/sass4as) - Syntactically Awesome Stylesheets for ActionScript 3.
-* [Jakute-CSS ★10 ⏳5Y](https://github.com/kakenbok/Jakute-Styling-Engine) - Jakute is a CSS framework for ActionScript/Flash.
+* [Jakute-CSS ★10 ⏳6Y](https://github.com/kakenbok/Jakute-Styling-Engine) - Jakute is a CSS framework for ActionScript/Flash.
 * [CSS.as](https://gist.github.com/trxcllnt/1161266) - Single-file CSS parser, part of TinyTLF project.
 
 #### BSON

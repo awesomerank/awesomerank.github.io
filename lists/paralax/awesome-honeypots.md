@@ -394,7 +394,7 @@ the honeyd daemon and generate configuration files
     - [Argos](http://www.few.vu.nl/argos/) - An emulator for capturing zero-day attacks
     - [libemu ★27 ⏳1Y](https://github.com/buffer/libemu) - Shellcode emulation library, useful for shellcode detection.
     - [Pylibemu ★88 ⏳1Y](https://github.com/buffer/pylibemu) - A Libemu Cython wrapper.
-    - [imalse ★5 ⏳3Y](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator.
+    - [imalse ★5 ⏳4Y](https://github.com/hbhzwj/imalse) - Integrated MALware Simulator and Emulator.
     - [Cuckoo](https://cuckoosandbox.org/) - he leading open source automated malware analysis system.
 
 - Sandbox-as-a-Service

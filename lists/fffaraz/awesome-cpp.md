@@ -160,11 +160,13 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 *Console/Terminal User Interface, Command Line Interface*
 
  * [Argh! ★162](https://github.com/adishavit/argh) - A minimalist, frustration-free, header-only argument handler. [BSD]
+ * [Taywee/args ★257](https://github.com/taywee/args) - A simple header-only C++ argument parser library. [MIT]
  * [Boost.Program_options](http://www.boost.org/doc/libs/1_57_0/doc/html/program_options.html) - A library to obtain program options via conventional methods such as command line and config file. [Boost]
  * [docopt.cpp ★526](https://github.com/docopt/docopt.cpp) - A library to generate option parser from docstring. [MIT/Boost]
  * [gflags](https://gflags.github.io/gflags/) - Commandline flags module for C++. [BSD]
  * [Ncurses](http://invisible-island.net/ncurses/) - A terminal user interfaces. [MIT]
  * [PDCurses ★160](https://github.com/wmcbrine/PDCurses) - Public domain curses library with both source code and pre-compiled library available. [PublicDomain]
+ * [TCLAP](http://tclap.sourceforge.net) - A mature, stable and feature-rich library for defining and accessing command line arguments in ANSI C++. [MIT]
  * [termbox ★1135](https://github.com/nsf/termbox) - A C library for writing text-based user interfaces. [BSD]
 
 ## Compression
@@ -492,7 +494,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [POCO](https://github.com/pocoproject) :zap: - C++ class libraries and frameworks for building network- and internet-based applications that run on desktop, server, mobile and embedded systems. [Boost] [website](http://pocoproject.org/)
 * [Proxygen ★5163](https://github.com/facebook/proxygen) - Facebook's collection of C++ HTTP libraries including an easy to use HTTP server. [BSD]
 * [RakNet](https://github.com/OculusVR/RakNet) - A cross platform, open source, C++ networking engine for game programmers. [BSD]
-* [Seasocks ★230](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. [BSD]
+* [Seasocks ★241](https://github.com/mattgodbolt/seasocks) - Simple, small, C++ embeddable webserver with WebSockets support. [BSD]
 * [Silicon](http://siliconframework.org) - A high performance, middleware oriented C++14 http web framework. [MIT]
 * [Tufão ★336](https://github.com/vinipsmaker/tufao) - An asynchronous web framework for C++ built on top of Qt. [LGPL2]
 * [wdt ★1966](https://github.com/facebook/wdt) - An embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. [BSD-3-Clause]
@@ -622,7 +624,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 * [libsigc++](http://libsigc.sourceforge.net/) - A typesafe callback system for standard C++. [LGPL]
 * [libcpuid ★114](https://github.com/anrieff/libcpuid) - A small C library for x86 CPU detection and feature extraction. [BSD]
 * [libevil ★9 ⏳5Y](https://github.com/avati/libevil) - The Evil License Manager. [GPLv3]
-* [libnih ★41 ⏳3Y](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
+* [libnih ★41 ⏳4Y](https://github.com/keybuk/libnih) - A lightweight library of C functions and structures. [GPL2.1]
 * [libusb](http://www.libusb.org/) - A universal USB library which allows for portable access to USB devices. [LGPL2]
 * [Mach7 ★858](https://github.com/solodon4/Mach7) - A Pattern-matching library for C++. [BSD]
 * [pdqsort ★849](https://github.com/orlp/pdqsort) - Pattern-defeating quicksort. [zlib]

@@ -28,6 +28,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 - [For Developers: Software Craftspersonship, Teamwork, Technical Debt](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/For-Developers-Teamwork-TechDebt.md)
 - [Influence, Delegation, and Decision-Making](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Influence-Delegation-and-Decision-Making.md)
 - [Leader List](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leader-List.md)
+- [Leadership Media](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Media.md)
 - [Leadership Philosophies and Styles](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Leadership-Philosophies-and-Styles.md)
 - [Meetings and Time Management](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/Meetings-and-Time-Management.md)
 - [Motivation and “Retention”](https://github.com/LappleApple/awesome-leading-and-managing/blob/master//Motivation-Retention.md)
@@ -39,7 +40,7 @@ In summer 2017 [Lauri Apple](https://twitter.com/lauritaapplez) found out about 
 * "If I have seen further, it is by standing on the shoulders of giants." — Sir Isaac Newton <br>
 * "If I have not seen as far, it is because giants were standing on my shoulders." — lots of people, including Leigh Caplan<br>
 * "A leader is best when people barely know he exists, when their work‘s done, her aim fulfilled, they will say: we did it ourselves." — Lao Tzu*
-* "People need to stop using the phrase "natural-born leader." No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)
+* "People need to stop using the phrase 'natural-born leader.' No one is a natural born leader." — [Kate Heddleston](https://twitter.com/heddle317)
 
 ## Contribute Your Favorites
 Please share/promote your favorite managing and leading resources/go-to's (books, articles, Twitter feeds, videos, etc.) by adding them to this list. It's easy: Review our [contributor guidelines](https://github.com/LappleApple/awesome-leading-and-managing/blob/master/CONTRIBUTING.md) and make a pull request (one per item/entry). 

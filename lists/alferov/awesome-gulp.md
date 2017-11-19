@@ -218,7 +218,7 @@ title: Awesome Rank for alferov/awesome-gulp
 * [gulp-mocha](https://github.com/sindresorhus/gulp-mocha) - Run [Mocha ★13840](https://github.com/mochajs/mocha) tests.
 * [gulp-jasmine](https://github.com/sindresorhus/gulp-jasmine) - Run [Jasmine 2 ★13036](https://github.com/jasmine/jasmine) tests in Node.js.
 * [gulp-protractor](https://github.com/mllrsohn/gulp-protractor) - Gulp wrapper for [Protractor ★7071](https://github.com/angular/protractor) tests.
-* [gulp-coverage ★60](https://github.com/dylanb/gulp-coverage) - Coverage reporting for Node.js that is independent of the test runner.
+* [gulp-coverage ★60 ⏳1Y](https://github.com/dylanb/gulp-coverage) - Coverage reporting for Node.js that is independent of the test runner.
 * [gulp-karma ★312 ⏳1Y](https://github.com/karma-runner/gulp-karma) - Karma test runner for gulp.
 * [gulp-ava](https://github.com/sindresorhus/gulp-ava)- Run [AVA](https://github.com/sindresorhus/ava) tests with gulp.
 

@@ -301,7 +301,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 ## BSON
 *Libraries and implementations working with BSON.*
 
-* [BSONMap ★5](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
+* [BSONMap ★5 ⏳1Y](https://github.com/Nebo15/bsoneach) - Elixir package that applies a function to each document in a BSON file and has a low memory consumption.
 
 ## Build Tools
 *Project build and automation tools.*
@@ -660,7 +660,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [phoenix_html ★118](https://github.com/phoenixframework/phoenix_html) - Phoenix.HTML functions for working with HTML strings and templates.
 * [phoenix_html_sanitizer ★13](https://github.com/elixirstatus/phoenix_html_sanitizer) - HTML Sanitizer integration for Phoenix.
 * [phoenix_html_simplified_helpers ★16](https://github.com/ikeikeikeike/phoenix_html_simplified_helpers) - Some helpers for phoenix html (truncate, time_ago_in_words, number_with_delimiter).
-* [phoenix_linguist ★13 ⏳1Y](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
+* [phoenix_linguist ★13 ⏳2Y](https://github.com/jxs/phoenix_linguist) - A project that integrates Phoenix with Linguist, providing a plug and view helpers.
 * [phoenix_live_reload ★92](https://github.com/phoenixframework/phoenix_live_reload) - Provides live-reload functionality for Phoenix.
 * [phoenix_pubsub_postgres ★23 ⏳2Y](https://github.com/opendrops/phoenix-pubsub-postgres) - Postgresql PubSub adapter for Phoenix apps.
 * [phoenix_pubsub_rabbitmq ★32 ⏳2Y](https://github.com/pma/phoenix_pubsub_rabbitmq) - RabbitMQ adapter for Phoenix's PubSub layer.
@@ -1364,7 +1364,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [cleverbot ★3 ⏳1Y](https://github.com/BlakeWilliams/Elixir-Cleverbot) - Simple implementation of the Cleverbot API in Elixir.
 * [coinbase ★8 ⏳2Y](https://github.com/gregpardo/coinbase-elixir) - A unofficial Coinbase API v1 Client.
 * [commerce_billing ★126 ⏳1Y](https://github.com/joshnuss/commerce_billing) - A payment-processing library for Elixir that supports multiple gateways (e.g. Bogus & Stripe).
-* [currently ★4 ⏳1Y](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
+* [currently ★4 ⏳2Y](https://github.com/chatgris/currently) - A tool to display cards currently assigns on Trello.
 * [darkskyx ★3](https://github.com/techgaun/darkskyx) - A Darksky.com (formerly forecast.io) API client for Elixir.
 * [digitalocean ★12 ⏳1Y](https://github.com/lukeed/elixir-digitalocean) - Elixir wrapper for the Digital Ocean API v2.
 * [digoc](https://github.com/kevinmontuori/digoc) - Digital Ocean API v2 Elixir Client.
@@ -1395,7 +1395,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [exgravatar ★13](https://github.com/scrogson/exgravatar) - An Elixir module for generating Gravatar URLs.
 * [exgrid ★7](https://github.com/bradleyd/exgrid) - interact with Sendgrid's API.
 * [exjira ★5 ⏳2Y](https://github.com/mattweldon/exjira) - JIRA client library for Elixir.
-* [exlingr ★1 ⏳2Y](https://github.com/mtwtkman/exlingr) - A Lingr client module.
+* [exlingr ★1 ⏳3Y](https://github.com/mtwtkman/exlingr) - A Lingr client module.
 * [explay ★14](https://github.com/sheharyarn/explay) - Unofficial Google Play API in Elixir.
 * [exstagram ★11 ⏳1Y](https://github.com/arthurcolle/exstagram) - Elixir library for Instagram v1 API.
 * [extripe ★20](https://github.com/princemaple/extripe) - Feature complete Stripe API wrapper.

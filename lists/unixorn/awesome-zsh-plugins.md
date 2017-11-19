@@ -233,7 +233,7 @@ These frameworks make customizing your zsh setup easier.
 * [apache2.plugin.zsh ★2 ⏳1Y](https://github.com/voronkovich/apache2.plugin.zsh) - Adds aliases and functions for managing Apache2.
 * [asciidoctor ★1 ⏳1Y](https://github.com/sparsick/asciidoctor-zsh) - A plugin for AsciiDoctor.
 * [async ★167](https://github.com/mafredri/zsh-async) - Library for running asynchronous tasks in zsh without requiring any external tools.
-* [atom-plugin ★0](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) - A plugin for Oh My Zsh that lets you launch a file or folder in Atom from iTerm2. It's based on the Sublime plugin. Only supports macOS.
+* [atom-plugin ★1](https://github.com/CorradoRossi/oh-my-zsh-atom-plugin) - A plugin for Oh My Zsh that lets you launch a file or folder in Atom from iTerm2. It's based on the Sublime plugin. Only supports macOS.
 * [atom_plugin.zsh ★1 ⏳1Y](https://github.com/kingsj/atom_plugin.zsh) - A plugin for the Atom editor on macOS.
 * [auto-fu.zsh ★337](https://github.com/hchbaw/auto-fu.zsh) - Automatic complete-word and list-choices. Originally incr-0.2.zsh by y.fujii <y-fujii at mimosa-pudica.net>.
 * [auto-ls ★11](https://github.com/desyncr/auto-ls) - Automatically `ls` when cding to a new directory.
@@ -434,6 +434,7 @@ These frameworks make customizing your zsh setup easier.
 * [send.zsh ★8](https://github.com/robertzk/send.zsh) - Single command to git add, git commit, and git push for much faster git workflow.
 * [sensei-git ★1](https://github.com/aswitalski/oh-my-zsh-sensei-git-plugin) - Adds many git aliases and helper shell functions.
 * [setenv ★3](https://github.com/kalpakrg/setenv) - Runs a script when you change directories.
+* [simple-agnoster ★0](https://github.com/iwat/simple-agnoster.zsh-theme) - Powerline-inspired simple theme with git decorations.
 * [simpleserver](https://github.com/sathish09/zsh_plugins/tree/master/simpleserver) - Plugin to easily start python SimpleHTTPServer and SimpleHTTPSServer.
 * [smart-cd ★13 ⏳2Y](https://github.com/dbkaplun/smart-cd) - Runs `ls` and `git status` after chpwd.
 * [snippets ★18 ⏳1Y](https://github.com/willghatch/zsh-snippets) - Command line snippet expansion.
@@ -531,7 +532,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [keybase ★8 ⏳1Y](https://github.com/rbirnie/oh-my-zsh-keybase) - Completions for [keybase](https://keybase.io/docs/command_line).
 * [newman](https://github.com/selop/newman-autocomplete) - Provides autocompletion for the [Newman CLI ★2182](https://github.com/postmanlabs/newman).
 * [nix-zsh-completions ★39](https://github.com/spwhitt/nix-zsh-completions) - Completions for [nix](https://nixos.org/nix/), [NixOS](https://nixos.org/), and [NixOps](http://nixos.org/nixops/).
-* [npm-run.plugin.zsh ★20](https://github.com/akoenig/npm-run.plugin.zsh) - Autocompletion support for `npm run`.
+* [npm-run.plugin.zsh ★20 ⏳1Y](https://github.com/akoenig/npm-run.plugin.zsh) - Autocompletion support for `npm run`.
 * [nova ★6 ⏳2Y](https://github.com/rbirnie/oh-my-zsh-nova) - Provides auto-complete for nova.
 * [pass-zsh-completion ★0](https://github.com/ninrod/pass-zsh-completion) - convenience repo to easily obtain [pass](https://www.passwordstore.org/) command completion for ZSH.
 * [spring-boot-plugin ★8 ⏳2Y](https://github.com/linux-china/oh-my-zsh-spring-boot-plugin) - Adds autocompletions for [spring-boot](http://projects.spring.io/spring-boot/) commands.
@@ -728,7 +729,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [random-emoji](https://gist.github.com/oshybystyi/2c30543cd48b2c9ecab0) - Random emoji.
 * [refined](https://github.com/octarect/refined.zsh) - A ZSH theme focused on simpleness and usefulness.
 * [remiii ★7 ⏳4Y](https://github.com/Remiii/remiii.zsh-theme) - Based on agnoster, optimized for solarized terminal themes.
-* [rummik/zsh-theme ★0 ⏳1Y](https://github.com/rummik/zsh-theme) - Rummik's theme.
+* [rummik/zsh-theme ★0 ⏳1Y](https://github.com/rummik/zsh-theme) - @rummik's theme.
 * [remolueoend ★0](https://github.com/remolueoend/remolueoend.zsh-theme) - Prezto ZSH theme based on Sorin, using emojis for tracking GIT context.
 * [rzh ★1 ⏳1Y](https://github.com/patwhatev/rzh) - Theme with git states indicated by emojis.
 * [schminitz](https://gist.github.com/schminitz/9931af23bbb59e772eec) - Shows if Vim is running in the background when using `:sh` command.

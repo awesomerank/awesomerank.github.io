@@ -443,7 +443,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [WCDB ★4400](https://github.com/Tencent/wcdb) - WCDB is an efficient, complete, easy-to-use mobile database framework for iOS, macOS.
 * [StorageKit ★158](https://github.com/StorageKit/StorageKit) - Your Data Storage Troubleshooter 🛠
 * [UserDefaults ★769](https://github.com/nmdias/DefaultsKit) - Simple, Strongly Typed UserDefaults for iOS, macOS and tvOS :large_orange_diamond:
-* [Default ★34](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support :large_orange_diamond:
+* [Default ★278](https://github.com/Nirma/Default) - Modern interface to UserDefaults + Codable support :large_orange_diamond:
 
 
 ## Data Structures / Algorithms
@@ -566,7 +566,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Apple Family ★31](https://github.com/kirankunigiri/Apple-Family) - Quickly connect Apple devices together with Bluetooth, wifi, and USB.  :large_orange_diamond:
 * [Bleu ★444](https://github.com/1amageek/Bleu) - BLE (Bluetooth LE) for U  :large_orange_diamond:
 * [Bluejay ★603](https://github.com/steamclock/bluejay) - A simple Swift framework for building reliable Bluetooth LE apps. :large_orange_diamond:
-* [BabyBluetooth ★3178](https://github.com/coolnameismy/BabyBluetooth) - The easiest way to use Bluetooth (BLE) in iOS/MacOS.
+* [BabyBluetooth ★3230](https://github.com/coolnameismy/BabyBluetooth) - The easiest way to use Bluetooth (BLE) in iOS/MacOS.
 * [ExtendaBLE ★48](https://github.com/AntonTheDev/ExtendaBLE) - Simple Blocks-Based BLE Client for iOS/tvOS/watchOS/OSX/Android. Quickly configuration for centrals/peripherals, perform packet based read/write operations, and callbacks for characteristic updates.
 * [PeerConnectivity ★25](https://github.com/rchatham/PeerConnectivity) - Functional wrapper for Apple's MultipeerConnectivity framework. :large_orange_diamond:
 
@@ -803,7 +803,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [UIImage DSP ★376 ⏳4Y](https://github.com/gdawg/uiimage-dsp) - iOS UIImage processing functions using the vDSP/Accelerate framework for speed.
 * [AsyncImageView ★944](https://github.com/nicklockwood/AsyncImageView) - Simple extension of UIImageView for loading and displaying images asynchronously without lock up the UI.
 * [SDWebImage ★18862](https://github.com/rs/SDWebImage) - Asynchronous image downloader with cache support with an UIImageView category.
-* [DFImageManager ★1217](https://github.com/kean/DFImageManager) - Modern framework for fetching images from various sources. Zero config yet immense customization and extensibility. Uses NSURLSession.
+* [DFImageManager ★1217 ⏳1Y](https://github.com/kean/DFImageManager) - Modern framework for fetching images from various sources. Zero config yet immense customization and extensibility. Uses NSURLSession.
 * [MapleBacon ★194](https://github.com/JanGorman/MapleBacon) - An image download and caching library for iOS written in Swift. :large_orange_diamond:
 * [NYTPhotoViewer ★2231](https://github.com/NYTimes/NYTPhotoViewer) - Slideshow and image viewer.
 * [IDMPhotoBrowser ★2466](https://github.com/thiagoperes/IDMPhotoBrowser) - Photo Browser / Viewer.
@@ -1407,7 +1407,7 @@ Most of these are paid services, some have free tiers.
 * [CocoaMarkdown ★944](https://github.com/indragiek/CocoaMarkdown) - Markdown parsing and rendering for iOS and macOS. :large_orange_diamond:
 * [Apodimark ★439](https://github.com/loiclec/Apodimark) - Fast, flexible markdown parser written in Swift. :large_orange_diamond:
 * [Notepad ★305](https://github.com/ruddfawcett/Notepad) - A fully themeable markdown editor with live syntax highlighting. :large_orange_diamond:
-* [KKStringValidator ★15](https://github.com/krizhanovskii/KKStringValidator) - Fast and simple string validation for iOS. With UITextField extension. :large_orange_diamond:
+* [KKStringValidator ★15 ⏳1Y](https://github.com/krizhanovskii/KKStringValidator) - Fast and simple string validation for iOS. With UITextField extension. :large_orange_diamond:
 * [ISO8859 ★10](https://github.com/Cosmo/ISO8859) - 📄⚙ Convert ISO8859 1-16 Encoded Text to String in Swift. Supports iOS, tvOS, watchOS and macOS. :large_orange_diamond:
 * [Emojica](https://github.com/xoudini/emojica) - Replace standard emoji in strings with a custom emoji set, such as [Twemoji](https://github.com/twitter/twemoji) or [EmojiOne ★3743](https://github.com/emojione/emojione). :large_orange_diamond:
 * [SwiftRichString ★1244](https://github.com/malcommac/SwiftRichString) - Elegant & Painless Attributed Strings Management Library in Swift. :large_orange_diamond:
@@ -2722,7 +2722,7 @@ Most of these are paid services, some have free tiers.
 * [iOS Dev Nuggets](http://hboon.com/iosdevnuggets/) :large_orange_diamond:
 * [This Week in Swift](https://swiftnews.curated.co/) :large_orange_diamond:
 * [iOS Developer and Designer interview ★1383](https://github.com/9magnets/iOS-Developer-and-Designer-Interview-Questions) - A small guide to help those looking to hire a developer or designer for iOS work.
-* [iOS9-day-by-day ★1435 ⏳1Y](https://github.com/shinobicontrols/iOS9-day-by-day) :large_orange_diamond:
+* [iOS9-day-by-day ★1435 ⏳2Y](https://github.com/shinobicontrols/iOS9-day-by-day) :large_orange_diamond:
 * [Code Facebook](https://code.facebook.com/ios/)
 * [iOS Cookies](http://www.ioscookies.com/) - A hand curated collection of iOS libraries written in Swift :large_orange_diamond:
 * [Feeds for iOS Developer ★73](https://github.com/rgnlax/Feeds-for-iOS-Developer) - The list of RSS feeds for iOS developers.

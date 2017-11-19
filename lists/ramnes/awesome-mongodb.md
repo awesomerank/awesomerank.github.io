@@ -190,7 +190,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
  - [MongoMultiMaster ★54 ⏳5Y](https://github.com/rick446/mmm) - Multi-Master MongoDB replication
  - [MoSQL ★1396](https://github.com/stripe/mosql) - MongoDB to PostgreSQL streaming replication
  - [mtools ★991](https://github.com/rueckstiess/mtools) - Collection of scripts to set up MongoDB test environments and parse and visualize MongoDB log files
- - [nginx-gridfs ★762 ⏳3Y](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from MongoDB's GridFS
+ - [nginx-gridfs ★762 ⏳4Y](https://github.com/mdirolf/nginx-gridfs) - Nginx module for serving files from MongoDB's GridFS
  - [nginx-mongodb-rest ★31 ⏳6Y](https://github.com/minhajuddin/nginx-mongodb-rest) - MongoDB REST client written as an Nginx module
  - [Variety ★1052](https://github.com/variety/variety) - Schema analyzer: see what fields are in your collection and what's their content
 

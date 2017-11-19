@@ -410,7 +410,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Pax Britannica ★77 ⏳6Y](https://github.com/henkboom/pax-britannica) - Underwater one-button real-time strategy game.
 * [PCOTM (Phone Case of the Monster) ★2 ⏳4Y](https://github.com/jwoertink/pcotm) - Ruby game, where you play as a phone-collecting monster.
 * [Pioneer ★623](https://github.com/pioneerspacesim/pioneer) - Game of lonely space adventure.
-* [Polly-B-Gone ★45 ⏳4Y](https://github.com/mbostock/polly-b-gone) - Physics platform game about a plucky wheeled robot named Polly.
+* [Polly-B-Gone ★45 ⏳5Y](https://github.com/mbostock/polly-b-gone) - Physics platform game about a plucky wheeled robot named Polly.
 * [OpenRCT2 ★5125](https://github.com/OpenRCT2/OpenRCT2) - Open source recreation of Rollercoaster Tycoon 2.
 * [Race into Space ★57](https://github.com/raceintospace/raceintospace) - Turn-based space race strategy game originally by Interplay.
 * [Seven Kingdoms: Ancient Adversaries ★70](https://github.com/the3dfxdude/7kaa) - Classic RTS game liberated in 2009.
