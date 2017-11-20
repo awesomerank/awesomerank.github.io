@@ -58,6 +58,8 @@ Organizations bringing diversity to tech.
 - [Trans*H4CK](http://www.transhack.org/) - Trans\*H4CK empowers trans, gender non conforming, agender and nonbinary people through improving access to social services, promoting gender safety and community sustainability while bringing visibility to trans* tech innovators and entrepreneurs.
 - [Women Techmakers](https://www.womentechmakers.com/) - Google's program that provides visibility, community, and resources for women in technology.
 - [Women Who Code](https://www.womenwhocode.com/) - Women Who Code is a global community empowering women to excel in technology fields through resources, job boards, conference scholarships and other member benefits.
+- [Women Who Tech](https://www.womenwhotech.com/) - Nonprofit organization to bring together talented and renowned women breaking new ground in technology to transform the world and inspire change. 
+- [Wonder Women Tech](https://wonderwomentech.com/) - Organization that produces year-round programming and national and international conferences that highlight, educate, and celebrate women and diversity in STEAM (Science, Technology, Engineering, Arts, Math), innovation and entrepreneurialism.
 - [YesWeTech](http://yeswetech.org/) - Feminist community working for an egalitarian and proud culture of women interested in technology.
 
 ## Conferences
@@ -93,6 +95,7 @@ The following is a list of individual resources with actionable items for being 
 
 Both articles and posts on diversity and inclusiveness in technology.
 
+- [100 Women in Tech and Founders to Follow on Twitter](https://medium.com/athena-talks/100-women-in-tech-and-founders-to-follow-on-twitter-f98560b1a3c7) - By Allyson Kapin.
 - [30+ diversity and inclusion activists and organisations I look up to](https://medium.com/@fox/30-diversity-and-inclusion-activists-and-organisations-8b39b6bf537b) - By Karolina Szczur.
 - [A Brief History Of Women In Computing](https://hackernoon.com/a-brief-history-of-women-in-computing-e7253ac24306) - By Faruk Ateş.
 - [A Study Used Sensors to Show That Men and Women Are Treated Differently at Work](https://hbr.org/2017/10/a-study-used-sensors-to-show-that-men-and-women-are-treated-differently-at-work) - By Stephen Turban, Laura Freeman and Ben Waber.

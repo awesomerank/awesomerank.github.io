@@ -131,7 +131,7 @@ The official Meteor resources page can be found [here](https://www.meteor.com/to
 
 *Tools for Meteor offline support*
 
-* [ground:db ★544](https://github.com/GroundMeteor/db) - GroundDB is a thin layer providing Meteor offline database and methods.
+* [ground:db ★544 ⏳1Y](https://github.com/GroundMeteor/db) - GroundDB is a thin layer providing Meteor offline database and methods.
 
 ## Testing
 

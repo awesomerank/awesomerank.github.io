@@ -752,6 +752,7 @@ Tooltips / popovers
  - [vue-popper-component ★26](https://github.com/antongorodezkiy/vue-popper-component) - Popper.js directive for Vue.js.
  - [vue-directive-tooltip ★51](https://github.com/hekigan/vue-directive-tooltip) - Simple, flexible tooltip directive (based on Popper.js) [![Vue.js](https://img.shields.io/badge/vue-2-green.svg)](https://vuejs.org)
  - [vue-popperjs ★71](https://github.com/RobinCK/vue-popper) - VueJS 2.x popover component based [popper.js](https://popper.js.org/)
+ - [vue-tooltipster ★1](https://github.com/cpfarher/vue-tooltipster) - VueJS 2.x tooltip component based [tooltipster.js](http://iamceege.github.io/tooltipster/). Support html content, hover and hover+click events.
 
 ### Overlay
 
@@ -1214,7 +1215,8 @@ Tooltips / popovers
 
 *Set of admin template*
 
-  - [iView Vue Admin ★18](https://github.com/TonyLuo/iview-vue-admin) - iView vue Admin / An admin management system template
+  - [iView Vue Admin ★18](https://github.com/TonyLuo/iview-vue-admin) - iView Vue Admin / An admin portal template based on iView 2.x
+  - [element Vue Admin ★1](https://github.com/TonyLuo/element-vue-admin) - element Vue Admin / An admin portal template based on Element UI 2.x
 
 ### Other
 

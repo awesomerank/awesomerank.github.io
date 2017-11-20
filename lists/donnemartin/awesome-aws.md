@@ -790,7 +790,7 @@ AWS Repos:
 * [opsworks-demo-rails-photo-share-app ★11 ⏳2Y](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - A sample Rails app.
 * [opsworks-elasticsearch-cookbook ★35 ⏳3Y](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - Elasticsearch sample cookbook.
 * [opsworks-example-cookbooks ★87](https://github.com/awslabs/opsworks-example-cookbooks) - Cookbooks used with the sample apps.
-* [opsworks-first-cookbook ★8 ⏳2Y](https://github.com/awslabs/opsworks-first-cookbook) - Cookbook used to demonstrate simple recipes.
+* [opsworks-first-cookbook ★8 ⏳3Y](https://github.com/awslabs/opsworks-first-cookbook) - Cookbook used to demonstrate simple recipes.
 * [opsworks-windows-demo- ★12](https://github.com/awslabs/opsworks-windows-demo-nodejs) - A sample Node.JS app.
 * [opsworks-windows-demo-cookbooks ★5 ⏳2Y](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - Cookbooks for Windows.
 * [todo-sample-app-cookbooks ★5 ⏳2Y](https://github.com/awslabs/todo-sample-app-cookbooks) - Custom cookbooks associated with the todo-sample-app.

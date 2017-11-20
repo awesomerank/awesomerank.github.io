@@ -671,6 +671,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [lime ★10 ⏳1Y](https://github.com/yous/lime) - Simple standalone ZSH theme.
 * [linuxer ★0](https://github.com/patrick330602/linuxer) - Inspired by Yaris Alex Gutierrez's classyTouch, Yad Smood's ys, and Bureau theme.
 * [liquidprompt ★3278](https://github.com/nojhan/liquidprompt) - A full-featured & carefully designed adaptive prompt for Bash & ZSH.
+* [llama ★5](https://github.com/PsychoLlama/llama.zsh-theme) - Minimalist theme used by discerning llamas.
 * [lone-star](https://github.com/designfrontier/lonestar-zsh-theme/blob/master/lone-star.zsh-theme) - Texas-themed theme based on Sindre Sorhus' pure theme.
 * [magico ★0 ⏳1Y](https://github.com/IOsonoTAN/magico) - IOsonoTAN's magico theme.
 * [materialshell ★415](https://github.com/carloscuesta/materialshell) - A [material design](https://material.google.com/style/color.html) theme for your shell with a good contrast and color pops at the important parts. Designed to be easy on the eyes.

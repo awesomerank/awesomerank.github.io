@@ -554,7 +554,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [PEG.js ★2521](https://github.com/pegjs/pegjs) - Simple parser generator that produces fast parsers with excellent error reporting.
 - [x-ray](https://github.com/lapwinglabs/x-ray) - Web scraping utility.
 - [nearley ★1621](https://github.com/Hardmath123/nearley) - Simple, fast, powerful parsing for JavaScript.
-- [binary-extract ★136](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
+- [binary-extract ★136 ⏳1Y](https://github.com/juliangruber/binary-extract) - Extract a value from a buffer of JSON without parsing the whole thing.
 - [json-mask ★479 ⏳1Y](https://github.com/nemtsov/json-mask) - Tiny language and engine for selecting parts of an object, hiding/masking the rest.
 - [Stylecow ★119](https://github.com/stylecow/stylecow) - Parse, manipulate and convert modern CSS to make it compatible with all browsers. Extensible with plugins.
 - [js-yaml ★2531](https://github.com/nodeca/js-yaml) - Very fast YAML parser.

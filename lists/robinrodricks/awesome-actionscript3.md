@@ -81,7 +81,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [Starling](https://gamua.com/starling/) - High-performance 2D graphics engine built on Stage3D. API identical to Flash API. ([github ★2138](https://github.com/Gamua/Starling-Framework), [help](http://wiki.starling-framework.org/start)).
 * [Feathers UI](https://feathersui.com/) - User interface components for Starling Framework ([github ★942](https://github.com/BowlerHatLLC/feathers), [help](https://feathersui.com/help/index.html)).
 * [Flow ★30 ⏳3Y](https://github.com/artman/Flow) - Layout, effects, data binding and remoting framework to be used instead of Flex.
-* [AS3Commons UI ★60 ⏳5Y](https://github.com/AS3Commons/as3commons-ui) - Layouting, focus and keyboard management framework ([site](http://sibirjak.com/osflash/projects/as3commons-ui/)).
+* [AS3Commons UI ★60 ⏳6Y](https://github.com/AS3Commons/as3commons-ui) - Layouting, focus and keyboard management framework ([site](http://sibirjak.com/osflash/projects/as3commons-ui/)).
 * [Swiz ★236 ⏳4Y](https://github.com/swiz/swiz-framework) - Brutally simple micro-architecture for creating RIAs with AS3 and Adobe Flex.
 * [Hiddenwood ★4 ⏳5Y](https://github.com/raweden/Project-Hiddenwood) - User interface library developed for a web app project, written in AS3 and in a MVC pattern.
 * [Elastic-Lists ★107 ⏳6Y](https://github.com/MoritzStefaner/Elastic-Lists) - Fluid and powerful interface for facet browsing.

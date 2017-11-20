@@ -400,7 +400,7 @@ Inspired by [awesome-php ★17013](https://github.com/ziadoz/awesome-php).
     * [PyMongo](https://docs.mongodb.com/ecosystem/drivers/python/) - The official Python client for MongoDB.
     * [redis-py ★5529](https://github.com/andymccurdy/redis-py) - The Redis Python Client.
     * [telephus ★93 ⏳3Y](https://github.com/driftx/Telephus) - Twisted based client for Cassandra.
-    * [txRedis ★118](https://github.com/deldotdr/txRedis) - Twisted based client for Redis.
+    * [txRedis ★118 ⏳1Y](https://github.com/deldotdr/txRedis) - Twisted based client for Redis.
 
 ## Date and Time
 

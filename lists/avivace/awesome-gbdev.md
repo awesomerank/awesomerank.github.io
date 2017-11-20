@@ -97,6 +97,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [fruttenboel](http://verhoeven272.nl/fruttenboel/Gameboy/index.html) - Page with loads of information on the actual hardware, custom boards to interface with the console and other related projects.
 - [Gameboy 2BPP Graphics Format](http://www.huderlem.com/demos/gameboy2bpp.html) - Information on how the Gameboy interprets VRAM tile data to color pixels.
 - [Game Boy Crib Sheet](http://gbdev.gg8.se/files/docs/GBCribSheet000129.pdf) - A handy printable reference sheet with ASM opcodes, memory locations, and much more.
+- [Introduction to Game Boy Hacking](http://pepijndevos.nl/sha2017/workshop.pdf) - Workshop introducing basic assembly, debugging and reverse engineering.
 
 ### Peripherals
 - [Game Boy Camera RE ★20 ⏳2Y](https://github.com/AntonioND/gbcam-rev-engineer) - Documentation about GB Camera and tools used to reverse engineer it by using Arduino UNO.
@@ -128,6 +129,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Writing a Game Boy emulator, Cinoop](https://cturt.github.io/cinoop.html)
 - [RealBoy Emulator](https://realboyemulator.wordpress.com/posts/) - A series of posts about the design and implementation of the RealBoy Emulator.
 - [Codeslinger](http://www.codeslinger.co.uk/pages/projects/gameboy.html) - Another series of posts documenting the building of an emulator.
+- [Why did I spend 1.5 months creating a Gameboy emulator?](http://blog.rekawek.eu/2017/02/09/coffee-gb/) - Blog post.
 
 
 ### Open-source emulators
@@ -158,7 +160,8 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [node-gameboy ★5](https://github.com/nakardo/node-gameboy) - Node.js.
 - [PlutoBoy ★29](https://github.com/RossMeikleham/PlutoBoy) - Cross platform (Windows, OSX, Linux/Unix, Android, iOS, Web Browsers, and Sony PSP) emulator.
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
-- [Coffee GB ★22](https://github.com/trekawek/coffee-gb) - Java
+- [Coffee GB ★22](https://github.com/trekawek/coffee-gb) - Java 8.
+- [gomeboycolor ★242 ⏳4Y](https://github.com/djhworld/gomeboycolor) - Go, cross platform [documented](http://djhworld.github.io/gomeboycolor/) emulator.
 
 
 ## Software Development
@@ -208,10 +211,12 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Assembly tutorial by David Pello](http://wiki.ladecadence.net/doku.php?do=show&id=tutorial_de_ensamblador) - Good document to actually learn to produce working asm code for gb. Brief explanations of many important topics. Many examples with commented source code. An english version is available [here](https://avivace.com/apps/gbdev/salvage/tutorial_de_ensamblador%20[La%20decadence].html).
 - [Beginner's Guide to Reverse Engineering GB](http://web.archive.org/web/20150511145100/http://www.bennvenn.com/Beginners_Guide_To_Reverse_Engineering.htm) - Some starting tips on disassembling and reverse engineering.
 - [gb-template ★6 ⏳1Y](https://github.com/exezin/gb-template) - A template with basic functions pre-made such as joypad input, DMA transfers, and map/tile data loading.
+- [https://github.com/nezticle/rgbds-template] - Basic hello-world example for GameBoy using rgbds.
 - [assemblydigest ★39](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques.
 - [Reverse Engineering for Beginners](https://beginners.re/) - Free ebook (1060 pages) by Dennis Yurichev.
 - [FlappyBoy: Making a simple Game Boy Game](http://voidptr.io/blog/2017/01/21/GameBoy.html)
 - [bootstrap.gb ★13](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
+- [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - Simple template code with memory defines, copy routines and IBM font tilemap.
 - [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) - Step by step tutorial to implement Super Game Boy features (frame and palettes).
 
 #### Glitches and exploits
@@ -224,6 +229,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Mode3 Sprite Timing](https://www.reddit.com/r/EmuDev/comments/59pawp/gb_mode3_sprite_timing/)
 - [GameBoy Color DMA-Transfers v0.0.1](http://gameboy.mongenel.com/dmg/gbc_dma_transfers.txt)
 - [STAT interrupt timings](http://gameboy.mongenel.com/dmg/istat98.txt)
+- [Video Timing](https://github.com/jdeblese/gbcpu/wiki/Video-Timing)
 
 ### C
 - [8-Bit Wonderland](http://belial.blarzwurst.de/gbpaper/paper.pdf) - Well-written introductory document about how the Game Boy works and how to start developing working code for it.
@@ -237,6 +243,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Game Boy home of Flavor](http://www.personal.triticom.com/~erm/GameBoy/) - Some full games and sources.
 - [GBDK Configuring and Programming Tutorial](https://videlais.com/2016/07/03/programming-game-boy-games-using-gbdk-part-1-configuring-programming-and-compiling/) - Configuring GBDK, Using Tiles, Colliding Sprites, GBTD, GBMB, Memory Management and ROM Banking.
 - [Simplified GBDK examples ★6](https://github.com/mrombout/gbdk_playground)
+
 
 #### Old articles
 [This](https://github.com/avivace/awesome-gbdev/tree/master/articles/salvage) folder is an historical archive of old articles, FAQs and in general text documents about Game Boy development. These may be wrong or obsolete - they are archived for historical reasons.
@@ -318,6 +325,8 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [gameboy-brainfuck ★5](https://github.com/bitnenfer/gameboy-brainfuck) - Implementation of a brainfuck interpreter.
 - [gb-save-states ★4](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 - [The Game Boy Archive](https://github.com/gb-archive) - A library of Game Boy related software, hardware and literature. Aimed to mirror and preserve old and fragmented contributions from the last three decades.
+- [gbcpu ★2 ⏳4Y](https://github.com/jdeblese/gbcpu) - A CPU and peripherals implementing the Gameboy (TM) instruction set and functionality.
+
 
 ## About
 
@@ -329,8 +338,7 @@ Licensed under **GPLv3**.
 See [LICENSE](LICENSE) for more information.
 
 ### Special Thanks
-[Every](https://github.com/avivace/awesome-gbdev/graphs/contributors) contributor of this project, Jeff Frohwein, Pascal Felber, KOOPa, Pan of Anthrox, GABY, Marat Fayzullin, Paul Robson, Martin Korth, BOWSER, neviksti, Martin “nocash" Korth, Nitro2k01, Duo, Chris Antonellis, Michael Hope, Beware, Jonathan “Lord Nightmare” Gevaryahu, Marat Fayzullin, Paul Robson, Carsten Sorense, Sindre Aamås, Otaku No Zoku, GeeBee.
----
+[Every](https://github.com/avivace/awesome-gbdev/graphs/contributors) contributor of this project, Jeff Frohwein, Pascal Felber, KOOPa, Pan of Anthrox, GABY, Marat Fayzullin, Paul Robson, BOWSER, neviksti, Martin “nocash" Korth, Nitro2k01, Duo, Chris Antonellis, Michael Hope, Beware, Jonathan “Lord Nightmare” Gevaryahu, Carsten Sorense, Sindre Aamås, Otaku No Zoku, GeeBee.---
 <p align="center">
 	This list is a copy of <a href="https://github.com/avivace/awesome-gbdev">avivace/awesome-gbdev</a> with ranks
 </p>

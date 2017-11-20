@@ -100,7 +100,7 @@ title: Awesome Rank for nikgraf/awesome-draft-js
 * [Draft.js exporter (Ruby) ★8](https://github.com/ignitionworks/draftjs_exporter) - Export Draft.js content state into HTML.
 * [Draft.js exporter (Python) ★18](https://github.com/springload/draftjs_exporter) - Library to convert Draft.js raw ContentState to HTML
 * [Draft.js AST Exporter ★22](https://github.com/icelab/draft-js-ast-exporter) - Export content into an abstract syntax tree (AST).
-* [Draft.js AST Importer ★4](https://github.com/icelab/draft-js-ast-importer)- Emport an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
+* [Draft.js AST Importer ★4](https://github.com/icelab/draft-js-ast-importer)- Import an abstract syntax tree (AST) output from the companion draft-js-ast-exporter.
 * [Draft.js Multidecorators ★21](https://github.com/SamyPesse/draft-js-multidecorators) - Combine multiple decorators.
 * [Draft.js SimpleDecorator ★15](https://github.com/Soreine/draft-js-simpledecorator) - Easily create flexible decorators.
 * [DraftJS Utils ★84](https://github.com/jpuri/draftjs-utils) - Set of utility functions for DraftJS.
