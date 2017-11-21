@@ -128,6 +128,7 @@ A collection of awesome things regarding React ecosystem.
 * [The React newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe)
 
 #### React Online Playground
+* [CodeSandbox](https://codesandbox.io)
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
 * [Babel REPL](https://babeljs.io/repl/)
@@ -503,6 +504,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-credit-card-input - A simple credit/debit card input field for React. ★5](https://github.com/medipass/react-credit-card-input)
 * [react-creditcard - An awesome react credit card component. ★10](https://github.com/medipass/react-creditcard)
 * [email-autocomplete-input - Simple email autocomplete input. ★4](https://github.com/alex-cory/email-autocomplete-input)
+* [rlist-view - List view for react with pulling refresh and infinite data load  ★9](https://github.com/gitpadtech/rlist-view)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system ★323](https://github.com/LouisBarranqueiro/reapop)
@@ -1049,7 +1051,8 @@ A collection of awesome things regarding React ecosystem.
 * [React & Flux by: Christian Lilley](https://www.youtube.com/watch?v=mK4_a7u2cgI)
 * [React for beginners](https://reactforbeginners.com/)
 * [React For Everyone](https://www.youtube.com/playlist?list=PLLnpHn493BHFfs3Uj5tvx17mXk4B4ws4p)
-
+* [React Native in Arabic - Create a real app series](https://www.youtube.com/playlist?list=PLk-CkzAysw4BLLNtATmnZOA8E8I6TP8MS)
+* [Start Using React to Build Web Applications](https://egghead.io/courses/react-fundamentals)
 
 ---
 ### Books
@@ -1059,8 +1062,6 @@ A collection of awesome things regarding React ecosystem.
 * [Isomorphic Development with JavaScript](https://www.manning.com/books/isomorphic-development-with-javascript)
 * [React in Action](https://www.manning.com/books/react-in-action)
 * [React Quickly](https://www.manning.com/books/react-quickly)
-* [The Road to learn React](https://roadtoreact.com/course-details?courseId=THE_ROAD_TO_LEARN_REACT)
-* [Taming the State in React](https://roadtoreact.com/course-details?courseId=TAMING_THE_STATE)
 * [React: Up & Running: Building Web Applications](https://www.amazon.com/React-Running-Building-Web-Applications/dp/1491931825)
 
 ---

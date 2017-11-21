@@ -1366,6 +1366,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 
 * [gmf ★308](https://github.com/3d0c/gmf) - Go bindings for FFmpeg av\* libraries.
 * [go-astisub ★31](https://github.com/asticode/go-astisub) - Manipulate subtitles in GO (.srt, .stl, .ttml, .webvtt, .ssa/.ass, teletext, .smi, etc.).
+* [go-astits ★89](https://github.com/asticode/go-astits) - Parse and demux MPEG Transport Streams (.ts) natively in GO.
 * [goav ★372](https://github.com/giorgisio/goav) - Comphrensive Go bindings for FFmpeg.
 * [gst ★133 ⏳2Y](https://github.com/ziutek/gst) - Go bindings for GStreamer.
 * [libgosubs ★4](https://github.com/wargarblgarbl/libgosubs) - Subtitle format support for go. Supports .srt, .ttml, and .ass.

@@ -68,7 +68,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [secureyournode ★19 ⏳2Y](https://github.com/someoneweird/secureyournode) | Security workshop |
 | [security-adventure ★300 ⏳4Y](https://github.com/toolness/security-adventure) | Go on an educational Web security adventure! |
 | [stream-adventure](https://github.com/substack/stream-adventure) | go on an educational stream adventure! |
-| [stylist-workshop ★40 ⏳2Y](https://github.com/alanshaw/stylist) | Introduction to CSS |
+| [stylist-workshop ★40 ⏳3Y](https://github.com/alanshaw/stylist) | Introduction to CSS |
 | [swirl ★661](https://github.com/swirldev/swirl) | Learn the statistical computing and graphics programming language R, in R |
 | [tapeshopper ★6 ⏳2Y](https://github.com/tomgco/tapeshopper) | Learn how to test with tape! (tap-producing test harness for node) |
 | [test-anything ★116](https://github.com/finnp/test-anything) | Introduction to testing |

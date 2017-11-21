@@ -47,6 +47,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [Magento 2 Bitnami VM](https://bitnami.com/stack/magento/virtual-machine) - Focused to development process, works so fine.
 - [Mage Chrome Toolbar ★125](https://github.com/magespecialist/mage-chrome-toolbar) - A MUST-HAVE Chrome Extension for Magento 2 by [MageSpecialist](https://github.com/magespecialist).
 - [convertm1m2 ★108](https://github.com/unirgy/convertm1m2) - A simple script to convert extensions from Magento1 to Magento 2.
+- [Magento 2 data migration tool ★144](https://github.com/magento/data-migration-tool) - Official Magento 1 to Magento 2 migration tool
 ---
 
 ## Open Source Extensions
@@ -119,13 +120,17 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [Customer Force Login ★53](https://github.com/bitExpert/magento2-force-login) - Login as a Customer for support reasons.
 - [Checkout Tester ★19](https://github.com/yireo/Yireo_CheckoutTester2) - Extension to quickly test Checkout changes.
 - [Firebear Import/Export](https://github.com/firebearstudio/importexport) - Import/Export Improvements for Standard Magento Importer.
+- [FireGento Fast Simple Import ★69](https://github.com/firegento/FireGento_FastSimpleImport2) - Wrapper for Magento 2 ImportExport functionality, which imports products and customers from arrays
+- [Magento 2 Import Framework ★30](https://github.com/techdivision/import) - A library supporting generic Magento 2 import functionality
 - [Image Resizer ★34](https://github.com/staempfli/magento2-module-image-resizer) - Magento 2 Module to add simple image resizing capabilities in all blocks and .phtml templates by [Staempfli](https://commercehero.io/staempfli).
 - [Excel Spreadsheet ★4 ⏳1Y](https://github.com/staempfli/magento2-module-spreadsheet) - Magento 2 Module for parsing xlsx, xlsm and csv files from Excel by [Staempfli](https://commercehero.io/staempfli).
 - [PDF Generator ★18](https://github.com/EaDesgin/magento2-pdf-generator2) - Invoice PDF Generator For Magento 2 by [EaDesign](https://commercehero.io/eadesign).
 - [Mobile Detection ★9](https://github.com/EaDesgin/magento2-mobiledetect) - Mobile detect change theme and redirect based on device type by [EaDesign](https://commercehero.io/eadesign).
 - [Menu Editor ★50](https://github.com/SnowdogApps/magento2-menu) - Provides powerful menu editor to replace category based menus in Magento 2.
-- [PageNotFound ★13](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database.
+- [PageNotFound ★13](https://github.com/experius/Magento-2-Module-PageNotFound) - Saves upcoming 404 in your Database with the possibility to created a redirect.
+- [EmailCatcher / Logger ★11](https://github.com/experius/Magento-2-Module-Experius-Email-Catcher) - Saves all emails send by Magento in your database. Adds a grid where they can be viewed.
 - [Reset Customer Password ★16](https://github.com/Vinai/module-customer-password-command) - Set a customer password with bin/magento by [Vinai Kopp](https://github.com/Vinai/).
+- [Admin Auto Login ★7 ⏳1Y](https://github.com/rogyar/magento2-autologin) - Automatically login to Magento 2 admin, veru useful for demo
 
 ### Security 
 
@@ -194,6 +199,8 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q)
 - [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Free YouTube Series for learning Magento 2.
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
+- [Mage2.tv](https://mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
+- [Nomad Mage](https://nomadmage.com/) - virtual user group for Magento developers, monthly meetings
 
 ---
 
@@ -259,6 +266,8 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [Unirgy](http://www.unirgy.com/)
 - [WebShopApps](http://webshopapps.com/eu/)
 - [Yireo](https://www.yireo.com/)
+- [MageNerds](http://www.magenerds.com/)
+- [FireBear Studio](https://firebearstudio.com/)
 
 > **Magento Extension Developers Network (ExtDN)**
 > The Magento Extension Developers Network (ExtDN) is a vetted network of extension developers whose core business is to

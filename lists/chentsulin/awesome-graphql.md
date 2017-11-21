@@ -95,6 +95,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Tel Aviv](https://www.meetup.com/GraphQL-TLV/)
 * [Buenos Aires](https://www.meetup.com/es-ES/GraphQL-BA/)
 * [Munich](https://www.meetup.com/GraphQL-Munich/)
+* [Toronto](https://www.meetup.com/GraphQL-Toronto/)
 
 <a name="lib" />
 
@@ -187,6 +188,7 @@ If you want to contribute to this list (please do), send me a pull request.
 
 * [graphql-php ★1561](https://github.com/webonyx/graphql-php) - A PHP port of GraphQL reference implementation.
 * [graphql-relay-php ★116](https://github.com/ivome/graphql-relay-php) - Relay helpers for GraphQL & PHP.
+* [API Platform ★2003](https://github.com/api-platform/api-platform) - API framework compatible with Symfony having native GraphQL support.
 * [laravel-graphql ★850](https://github.com/Folkloreatelier/laravel-graphql) - Facebook GraphQL for Laravel 5.
 * [laravel-graphql-relay ★41 ⏳1Y](https://github.com/nuwave/laravel-graphql-relay) - A Laravel library to help construct a server supporting react-relay.
 * [graphql-mapper ★32](https://github.com/4rthem/graphql-mapper) - This library allows to build a GraphQL schema based on your model.
@@ -374,6 +376,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ## Tools
 
 * [graphiql ★4281](https://github.com/graphql/graphiql) - An in-browser IDE for exploring GraphQL.
+* [GraphQL Playground ★1145](https://github.com/graphcool/graphql-playground) - GraphQL IDE that supports multi-column schema docs, tabs, query history, configuration of HTTP headers and GraphQL Subscriptions.
 * [GraphiQL.app ★990](https://github.com/skevy/graphiql-app) - A light, Electron-based wrapper around GraphiQL.
 * [GraphQLviz ★68](https://github.com/Macroz/GraphQLviz) - GraphQLviz marries GraphQL (schemas) with Graphviz.
 * [graphqlviz ★258](https://github.com/sheerun/graphqlviz) - GraphQL API visualizer in Node.js
@@ -422,6 +425,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [Graphcool](https://www.graph.cool/) - Your own GraphQL backend in under 5 minutes. Works with every GraphQL client such as Relay and Apollo.
 * [Reindex](https://www.reindex.io/) - Instant GraphQL Backend for Your React Apps.
 * [Scaphold](https://scaphold.io/) - GraphQL as a service that includes API integrations such as Stripe and Mailgun.
+* [Tipe](https://tipe.io/) - Next Generation API-first CMS with a GraphQL or REST API. Stop letting your CMS decide how you build your apps.
 
 <a name="example" />
 

@@ -1257,6 +1257,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [mix_test_watch ★351](https://github.com/lpil/mix-test.watch) - Automatically run your Elixir project's tests each time you save a file.
 * [mixunit ★2 ⏳2Y](https://github.com/talentdeficit/mixunit) - An EUnit task for Mix based projects.
 * [mock ★264](https://github.com/jjh42/mock) - Mocking library for the Elixir language.
+* [mockery ★20](https://github.com/appunite/mockery) - Simple mocking library for asynchronous testing.
 * [pavlov ★127 ⏳1Y](https://github.com/sproutapp/pavlov) - BDD framework for your Elixir projects.
 * [plug_test_helpers ★9 ⏳3Y](https://github.com/xavier/plug_test_helpers) - A simple testing DSL for Plugs.
 * [ponos ★100 ⏳2Y](https://github.com/klarna/ponos) - Ponos is an Erlang application that exposes a flexible load generator API.
@@ -1588,7 +1589,7 @@ Various resources, such as books, websites and articles, for improving your Elix
 * [atom-elixir ★402](https://github.com/msaraiva/atom-elixir) - An Atom package for Elixir.
 * [atom-iex ★15 ⏳1Y](https://github.com/indiejames/atom-iex) - Run an IEx session in Atom.
 * [elixir-tmbundle](https://github.com/elixir-lang/elixir-tmbundle) - A TextMate and SublimeText bundle for Elixir.
-* [elixir_generator ★8 ⏳1Y](https://github.com/jadercorrea/elixir_generator.vim) - Vim plugin to generate Elixir module and test files with one command.
+* [elixir_generator ★8 ⏳2Y](https://github.com/jadercorrea/elixir_generator.vim) - Vim plugin to generate Elixir module and test files with one command.
 * [ElixirSublime ★356](https://github.com/vishnevskiy/ElixirSublime) - Elixir plugin for SublimeText 3 that provides code completion and linting.
 * [ilexir ★5](https://github.com/dm1try/ilexir) - IDE-like things for Elixir in Neovim.
 * [intellij_elixir ★0](https://github.com/KronicDeth/intellij_elixir) - Elixir helpers for intellj-elixir, the Elixir plugin for JetBrains IDEs.

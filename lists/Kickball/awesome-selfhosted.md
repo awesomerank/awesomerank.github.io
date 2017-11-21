@@ -891,7 +891,7 @@ See https://github.com/n1trux/awesome-sysadmin#monitoring and https://github.com
   * [HackMD](https://www.hackmd.io) - Realtime collaborative markdown notes on all platforms. ([Source Code ★3025](https://github.com/hackmdio/hackmd)) `MIT` `Node.js`
   * [Laverna](https://laverna.cc/) - Laverna is a Javascript note taking application with Markdown editor and encryption support. Consider it like open source alternative to Evernote. ([Demo](https://laverna.cc/index.html#notes), [Source Code ★7022](https://github.com/Laverna/laverna)) `MPLv2` `Nodejs`
   * [Leanote](http://leanote.org/) - Leanote, Not Just A Notepad! Open source cloud notepad. ([Demo](https://leanote.com/note), [Source Code ★6207](https://github.com/leanote/leanote)) `GPLv2` `Go`
-  * [Markdown Edit](http://georgeosddev.github.com/markdown-edit/) - Online markdown editor/viewer. ([Source Code ★145 ⏳1Y](https://github.com/georgeOsdDev/markdown-edit)) `MIT` `HTML5`
+  * [Markdown Edit](http://georgeosddev.github.com/markdown-edit/) - Online markdown editor/viewer. ([Source Code ★145 ⏳2Y](https://github.com/georgeOsdDev/markdown-edit)) `MIT` `HTML5`
   * [Meemo](https://meemo.minimal-space.de/) - Personal notes stream with Markdown support. ([Source Code ★112](https://github.com/nebulade/meemo)) `MIT` `Nodejs`
   * [minimalist-web-notepad ★79](https://github.com/pereorga/minimalist-web-notepad) - A minimalist notepad.cc clone. `Apache` `PHP`
   * [MiniNote ★14](https://github.com/n1try/mininote) - A simple Markdown note-taking app with persistence. `MIT` `Nodejs`

@@ -104,7 +104,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-time ★51 ⏳1Y](https://github.com/sindresorhus/p-time) - Measure the time a promise takes to resolve
 * [p-log ★15 ⏳1Y](https://github.com/sindresorhus/p-log) - Log the value/error of a promise
 * [p-filter ★18 ⏳1Y](https://github.com/sindresorhus/p-filter) - Filter promises concurrently
-* [p-settle ★23](https://github.com/sindresorhus/p-settle) - Settle promises concurrently and get their fulfillment value or rejection reason
+* [p-settle ★23 ⏳1Y](https://github.com/sindresorhus/p-settle) - Settle promises concurrently and get their fulfillment value or rejection reason
 * [p-memoize ★29](https://github.com/sindresorhus/p-memoize) - Memoize promise-returning & async functions
 * [p-whilst ★29](https://github.com/sindresorhus/p-whilst) - Calls a function repeatedly while a condition returns true and then resolves the promise
 * [p-throttle ★35](https://github.com/sindresorhus/p-throttle) - Throttle promise-returning & async functions

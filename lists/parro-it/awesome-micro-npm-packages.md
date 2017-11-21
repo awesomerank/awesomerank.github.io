@@ -105,7 +105,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [curry ★269 ⏳1Y](https://github.com/dominictarr/curry) - A curry function without anything too clever.
 * [once ★131](https://github.com/isaacs/once) - Run a function exactly one time.
 * [deep-bind ★7 ⏳1Y](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
-* [identity-function ★6 ⏳1Y](https://github.com/substack/identity-function) - Always return the input argument. 
+* [identity-function ★6 ⏳2Y](https://github.com/substack/identity-function) - Always return the input argument. 
 * [mem ★305](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 * [throttle-debounce ★134](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 

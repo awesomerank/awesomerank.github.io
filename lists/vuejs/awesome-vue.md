@@ -1176,6 +1176,7 @@ Tooltips / popovers
  - [fish-ui](https://myliang.github.io/fish-ui) - A Vue.js 2.0 UI Toolkit for Web
  - [Zircle UI](https://zircleui.github.io/zircleUI/) - A circular zooming UI library based on Vue.js 2.
  - [vue-mdc-adapter ★36](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
+ - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web ★6658](https://github.com/material-components/material-components-web) for Vue.js
  
 ### Mobile
 
