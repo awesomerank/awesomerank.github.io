@@ -130,7 +130,7 @@ Database
 * [clache ★0 ⏳3Y](https://github.com/html/clache) - General caching facility. No license specified.
 * [clouchdb](https://common-lisp.net/project/clouchdb/) - Library for interacting with CouchDB. [FreeBSD][39].
 * [crane ★163 ⏳1Y](https://github.com/eudoxia0/crane) - Another ORM. [Expat][14].
-* [datafly ★58](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD][15].
+* [datafly ★58 ⏳1Y](https://github.com/fukamachi/datafly) - A lightweight database library. [3-clause BSD][15].
 * [mito ★51](https://github.com/fukamachi/mito) - An ORM for Common Lisp with migrations, relationships and PostgreSQL support [LLGPL][8].
 * [postmodern](http://marijnhaverbeke.nl/postmodern/) - A library for interacting with PostgreSQL. [zlib][33].
 * [pgloader ★1270](https://github.com/dimitri/pgloader) - a data loading tool for PostgreSQL. [PostgreSQL Licence][205].
@@ -641,6 +641,7 @@ Date and time
 -------------
 
 * [localtime](https://common-lisp.net/project/local-time/) - A development library for manipulating date and time information in a semi-standard manner. [3-clause BSD][15].
+* [chronicity ★28 ⏳1Y](https://github.com/chaitanyagupta/chronicity) - A natural language date and time parse, to parse strings like "3 days from now". [BSD_3Clause][15].
 
 Data validation
 ---------------

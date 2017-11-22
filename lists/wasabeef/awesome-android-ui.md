@@ -101,7 +101,7 @@ Name | License | Demo
 [Pull-to-Refresh.Tours ★1529](https://github.com/Yalantis/Taurus) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Taurus.gif" width="65%">
 [InboxLayout ★661 ⏳2Y](https://github.com/zhaozhentao/InboxLayout) | UnKnown | <img src="/art/InboxLayout.gif" width="49%">
 [SwipeBack ★1281](https://github.com/liuguangqiang/SwipeBack) | UnKnown | <img src="/art/SwipeBack.gif" width="49%"> <img src="/art/SwipeBack2.gif" width="49%">
-[ArcLayout ★1107](https://github.com/ogaclejapan/ArcLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/arclayout1.gif" width="49%">
+[ArcLayout ★1107 ⏳1Y](https://github.com/ogaclejapan/ArcLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/arclayout1.gif" width="49%">
 [Dragger ★1162 ⏳1Y](https://github.com/ppamorim/Dragger) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/Dragger.gif" width="100%">
 [PhysicsLayout ★532](https://github.com/Jawnnypoo/PhysicsLayout) | [Apache License V2](https://www.apache.org/licenses/LICENSE-2.0) | <img src="/art/PhysicsLayout.gif" width="49%">
 [BottomSheet ★3441](https://github.com/Flipboard/bottomsheet) | [License](https://github.com/Flipboard/bottomsheet/blob/master/LICENSE) | <img src="/art/BottomSheet.gif" width="49%">

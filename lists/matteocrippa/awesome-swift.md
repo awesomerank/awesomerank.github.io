@@ -19,7 +19,7 @@ PLEASE DO NOT UPDATE THIS FILE, UPDATE CONTENTS.JSON INSTEAD. THANK YOU :-)
 
 | iOS App | Awesome | Linux | Projects | Updated
 | :-: | :-: | :-: | :-: | :-:
-| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-949-orange.svg) | November 17, 2017
+| [![Download on the App Store](https://img.shields.io/badge/download-app%20store-ff69b4.svg)](https://itunes.apple.com/us/app/awesome-for-swift-cheatsheet/id1078115427) | [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) |  :penguin: | ![](https://img.shields.io/badge/swift%20projects-949-orange.svg) | November 22, 2017
 
 ### Contributing
 
@@ -260,7 +260,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [SwiftGen ★3994](https://github.com/SwiftGen/SwiftGen) - A suite of tools to auto-generate code for various assets of your project.
 * [SwiftPlate ★1306](https://github.com/JohnSundell/SwiftPlate) - Easily generate cross platform framework projects from the command line.
 * [Toybox ★63](https://github.com/giginet/Toybox) - Xcode Playground management made easy.
-* [XcodeGen ★0](https://github.com/yonaskolb/XcodeProj) - Tool for generating Xcode projects from a YAML file and your project directory.
+* [XcodeGen ★532](https://github.com/yonaskolb/XcodeGen) - Tool for generating Xcode projects from a YAML file and your project directory.
 
 ## Libs
 *Here you can find a list of snippets and libs for your Swift projects.* 
@@ -664,6 +664,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Signals ★264](https://github.com/artman/Signals) - Replaces delegates and notifications.
 * [Snail ★66](https://github.com/UrbanCompass/Snail) - An Observables framework.
 * [SwiftEventBus ★586](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS.
+* [VueFlux ★47](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture - Inspired by Vuex and Flux.
 * [When ★120](https://github.com/vadymmarkov/When) - A lightweight implementation of Promises.
 
 ### Files
@@ -986,7 +987,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Blackfire ★949](https://github.com/elliottminns/blackfire) :penguin: - A minimal, fast and unopinionated web framework.
 * [Curassow ★393](https://github.com/kylef/Curassow) :penguin: - HTTP server using the pre-fork worker model.
 * [Dynamo ★65](https://github.com/johnno1962/Dynamo) :penguin: - High performance web server supporting dynamic content.
-* [Edge ★286](https://github.com/SwiftOnEdge/Edge) :penguin: - Multiplatform Web and Networking Framework.
+* [Edge ★286](https://github.com/skylab-inc/Edge) :penguin: - Multiplatform Web and Networking Framework.
 * [Embassy ★127](https://github.com/envoy/Embassy) :penguin: - Super lightweight async HTTP server library.
 * [Express ★848](https://github.com/crossroadlabs/Express) :penguin: - Web Application framework, supporting both Synchronous and Asynchronous (Futures based) styles. Inspired by Play framework and Express.js.
 * [Frank ★381](https://github.com/kylef/Frank) :penguin: - Frank is a DSL for quickly writing web applications.
@@ -1187,7 +1188,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [ImagePickerSheetController ★1362](https://github.com/lbrndnr/ImagePickerSheetController) - A component that replicates the custom photo action sheet in iMessage.
 * [InfoView ★35 ⏳1Y](https://github.com/anatoliyv/InfoView) - Simple information view with pointed arrow.
 * [InstantSearch iOS ★390](https://github.com/algolia/instantsearch-ios) - A library of widgets and helpers to build instant-search features on iOS.
-* [KALoader ★17](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
+* [KALoader ★33](https://github.com/Kirillzzy/KALoader) - Beautiful animated placeholders for showing loading of data.
 * [KDInteractiveNavigationController ★117](https://github.com/kingiol/KDInteractiveNavigationController) - A UINavigationController subclass that support pop interactive UINavigationBar with hidden or show.
 * [KMNavigationBarTransition ★2262](https://github.com/MoZhouqi/KMNavigationBarTransition) - A drop-in universal library helps you to manage the navigation bar styles and makes transition animations smooth between different navigation bar styles while pushing or popping a view controller for all orientations.
 * [KMPlaceholderTextView ★474](https://github.com/MoZhouqi/KMPlaceholderTextView) - A UITextView subclass that adds support for multiline placeholder.
@@ -1446,7 +1447,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [AudioIndicatorBars ★166](https://github.com/LeonardoCardoso/AudioIndicatorBars) - AIB indicates for your app users which audio is playing. Just like the Podcasts app.
 * [BubbleTransition ★2588](https://github.com/andreamazz/BubbleTransition) - Bubble transition in an easy way.
-* [Cards XI ★515](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
+* [Cards XI ★2014](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views.
 * [ElasticTransition ★1803](https://github.com/lkzhao/ElasticTransition) - An interactive transition that simulates an elastic drag.
 * [Hero ★11251](https://github.com/lkzhao/Hero) - Elegant transition library for iOS.
 * [ImageOpenTransition ★791](https://github.com/mcmatan/ImageOpenTransition) - Beautiful and precise transitions between ViewControllers images.
@@ -1480,7 +1481,6 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 [back to top](#readme) 
 
 * [AZTableViewController ★36](https://github.com/AfrozZaheer/AZTableViewController) - Elegant and easy way to integrate pagination with placeholder views.
-* [CollapsibleTable ★25](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views.
 * [DTTableViewManager ★316](https://github.com/DenHeadless/DTTableViewManager) - Protocol-oriented UITableView management, powered by generics and associated types.
 * [ExpandableCell ★180](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Easiest usage of expandable & collapsible cell for iOS. You can customize expandable UITableViewCell whatever you like. ExpandableCell is made because insertRows and deleteRows is hard to use. Just inheirt ExpandableDelegate
 * [ExpyTableView ★151](https://github.com/okhanokbay/ExpyTableView) - Make your table view expandable just by implementing one method.

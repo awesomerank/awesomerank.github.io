@@ -138,7 +138,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [permissions2 ★242](https://github.com/xyproto/permissions2) - Library for keeping track of users, login states and permissions. Uses secure cookies and bcrypt.
 * [securecookie ★9](https://github.com/chmike/securecookie) - Efficient secure cookie encoding/decoding.
 * [session ★44](https://github.com/icza/session) - Go session management for web servers (including support for Google App Engine - GAE).
-* [sessiongate-go ★2](https://github.com/f0rmiga/sessiongate-go) - Go session management using the SessionGate Redis module.
+* [sessiongate-go ★3](https://github.com/f0rmiga/sessiongate-go) - Go session management using the SessionGate Redis module.
 * [sessions ★25](https://github.com/adam-hanna/sessions) - Dead simple, highly performant, highly customizable sessions service for go http servers.
 * [traefik ★10811](https://github.com/containous/traefik) - Reverse proxy and load balancer with support for multiple backends.
 * [yubigo ★81](https://github.com/GeertJohan/yubigo) - Yubikey client package that provides a simple API to integrate the Yubico Yubikey into a go application.
@@ -405,7 +405,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [dateparse ★58](https://github.com/araddon/dateparse) - Parse date's without knowing format in advance.
 * [durafmt ★165](https://github.com/hako/durafmt) - Time duration formatting library for Go.
 * [feiertage ★6](https://github.com/wlbr/feiertage) - Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving...
-* [go-persian-calendar ★28](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
+* [go-persian-calendar ★28 ⏳1Y](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
 * [go-sunrise ★1](https://github.com/nathan-osman/go-sunrise) - Calculate the sunrise and sunset times for a given location.
 * [goweek ★12](https://github.com/grsmv/goweek) - Library for working with week entity in golang.
 * [now ★1006](https://github.com/jinzhu/now) - Now is a time toolkit for golang.
@@ -788,7 +788,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [jobs ★403](https://github.com/albrow/jobs) - Persistent and flexible background jobs library.
 * [lk ★18](https://github.com/hyperboloide/lk) - A simple licensing library for golang.
 * [margelet ★48 ⏳1Y](https://github.com/zhulik/margelet) - Framework for building Telegram bots.
-* [persian ★1](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
+* [persian ★3](https://github.com/mavihq/persian) - Some utilities for Persian language in go.
 * [secdl ★5](https://github.com/xor-gate/secdl) - Lighttpd ModSecDownload algorithm ported to go to secure download urls.
 * [shellwords ★0](https://github.com/Wing924/shellwords) - A Golang library to manipulate strings according to the word parsing rules of the UNIX Bourne shell.
 * [shortid ★177](https://github.com/teris-io/shortid) - Distributed generation of super short, unique, non-sequential, URL friendly IDs.
@@ -905,7 +905,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [gomodel ★55](https://github.com/cosiner/gomodel) - Lightweight, fast, orm-like library helps interactive with database.
 * [GORM ★6954](https://github.com/jinzhu/gorm) - The fantastic ORM library for Golang, aims to be developer friendly.
 * [gorp ★2584](https://github.com/go-gorp/gorp) - Go Relational Persistence, ORM-ish library for Go.
-* [lore ★0](https://github.com/abrahambotros/lore) - Simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go.
+* [lore ★3](https://github.com/abrahambotros/lore) - Simple and lightweight pseudo-ORM/pseudo-struct-mapping environment for Go.
 * [Marlow ★11](https://github.com/dadleyy/marlow) - Generated ORM from project structs for compile time safety assurances.
 * [pop/soda ★353](https://github.com/markbates/pop) - Database migration, creation, ORM, etc... for MySQL, PostgreSQL, and SQLite.
 * [QBS ★468](https://github.com/coocood/qbs) - Stands for Query By Struct. A Go ORM.
@@ -992,7 +992,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [acmetool ★1352](https://github.com/hlandau/acme) - ACME (Let's Encrypt) client tool with automatic renewal.
 * [BadActor ★208](https://github.com/jaredfolkins/badactor) - In-memory, application-driven jailer built in the spirit of fail2ban.
 * [go-yara](https://github.com/hillu/go-yara) - Go Bindings for [YARA ★53 ⏳1Y](https://github.com/plusvic/yara), the "pattern matching swiss knife for malware researchers (and everyone else)".
-* [goSecretBoxPassword ★3](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
+* [goSecretBoxPassword ★5](https://github.com/dwin/goSecretBoxPassword) - A probably paranoid package for securely hashing and encrypting passwords.
 * [lego ★2148](https://github.com/xenolf/lego) - Pure Go ACME client library and CLI tool (for use with Let's Encrypt).
 * [memguard ★657](https://github.com/awnumar/memguard) - A pure Go library for handling sensitive values in memory.
 * [passlib ★170 ⏳1Y](https://github.com/hlandau/passlib) - Futureproof password hashing library.

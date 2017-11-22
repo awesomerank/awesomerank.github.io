@@ -33,7 +33,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 ## Android
 
 - [Stevie Wonder Simulator](https://play.google.com/store/apps/details?id=erseco.soft.stevie.wonder.simulator) - Feel for a moment as the great Stevie Wonder with this simulator for Android.
-- [Mindf@*k Keyboard ★7](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press.
+- [Mindf@*k Keyboard ★7 ⏳1Y](https://github.com/terriblehackskeyboard/keyboard) - Terrible terrible soft-keyboard that randomises keys on every press.
 - [holdr ★28 ⏳2Y](https://github.com/starakaj/holdr) - Solves the problem of knowing when you're holding your phone.
 
 

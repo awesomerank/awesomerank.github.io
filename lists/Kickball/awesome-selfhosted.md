@@ -211,7 +211,7 @@ See also [Static Site Generators](#static-site-generators), [Content Management 
 
 Some [Groupware](#groupware) solutions also feature calendar/address book editing and synchronization.
 
-  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code](https://github.com/adobo/agendav)) `GPLv3` `PHP`
+  * [AgenDAV](http://agendav.org/) - Multilanguage CalDAV web client with a rich AJAX interface and shared calendars support. ([Source Code ★298](https://github.com/agendav/agendav)) `GPLv3` `PHP`
   * [Baïkal](http://baikal-server.com/) - Lightweight CalDAV+CardDAV server. ([Source Code](https://github.com/fruux/Baikal)) `GPLv3` `PHP`
   * [CalendarServer](http://trac.calendarserver.org/) - A standards-compliant server implementing the CalDAV and CardDAV protocols. `Apache` `Python`
   * [calypso](http://keithp.com/calypso/) - A python-based CalDAV/CardDAV server. ([Source Code](https://keithp.com/git/calypso.git)) `GPLv3` `Python`
@@ -1110,6 +1110,7 @@ See **[Ticketing](#ticketing)**
   * [Koding](http://www.koding.com/) - The simplest way to manage your entire Dev Infrastructure. ([Source Code ★656](https://github.com/koding/koding)) `Apache` `Nodejs`
   * [Microglark](http://micro.glark.io) - A hacky minimalistic remote pair programming editor. ([Demo](http://micro.glark.io), [Source Code ★75 ⏳1Y](https://github.com/Bluefinch/microglark)) `AGPLv3` `Nodejs`
   * [Regexr](http://regexr.com/) - RegExr is a HTML/JS based tool for creating, testing, and learning about Regular Expressions. ([Source Code ★4095](https://github.com/gskinner/regexr)) `MIT` `Nodejs`
+  * [RequestBin](https://requestb.in/) - Inspect HTTP requests. Debug webhooks. ([Source Code ★607](https://github.com/Runscope/requestbin)) `MIT` `python`
   * [RStudio Server](https://www.rstudio.com/products/rstudio/#Server) - Web browser based IDE for R. ([Source Code ★1898](https://github.com/rstudio/rstudio)) `AGPLv3` `Java/C++`
   * [Selenoid](http://aerokube.com/selenoid/latest/) - A lightweight Selenium hub implementation launching browsers within Docker containers. ([Source Code ★289](https://github.com/aerokube/selenoid)) `Apache` `Go`
   * [Wide ★2208](https://github.com/b3log/wide) - A Web-based IDE for Teams using Go programming language/Golang. ([Demo](http://wide.b3log.org/signup)) `Apache` `Go`

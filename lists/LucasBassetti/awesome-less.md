@@ -85,7 +85,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 ### Grid
 
 - [Bootstrap Grid Only ★423](https://github.com/zirafa/bootstrap-grid-only) - Bootstrap's responsive grid and responsive utility classes only, without any extras. Lightweight yet still powerful. Style to taste.
-- [Framework ★729](https://github.com/jonikorpi/Less-Framework) - Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.
+- [Framework ★729 ⏳1Y](https://github.com/jonikorpi/Less-Framework) - Less Framework is a CSS grid system for designing adaptive web sites. It contains 4 layouts and 3 sets of typography presets, all based on a single grid.
 - [Flexible Grid System](http://flexible.gs/) - This framework will let you create your web applications in a flexible way that you've never experienced before.
 - [Fluidable](http://fluidable.com/) - Fluidable is a mobile first, responsive grid system. It is standalone, lightweight & built using Less.
 - [Grid System ★5 ⏳2Y](https://github.com/goodpixels/less-grid-system) - Super-easy to use, markup-independent grid system.

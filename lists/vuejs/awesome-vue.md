@@ -360,7 +360,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [ngexplorer-quasar](https://github.com/gustaYo/ngexplorer-quasar) -Implementation of [Ngexplorer](https://github.com/gustaYo/ngexplorer-MEAN) with [quasar framework](https://github.com/rstoenescu/quasar-framework) by [gustaYo](https://github.com/gustaYo)
   - [zhihu-daily-vue ★24](https://github.com/moonou/zhihu-daily-vue) a zhihu daily base on vue2.0 by [moonou](https://github.com/moonou)
   - [loopback-vue ★138](https://github.com/qxl1231/generator-loopback-vue) loopback+vue+vue-resource,ionic-app,vue page分页功能,authenticate 权限控制,accesstoken机制,credentials,CI,docker  [qxl1231](https://github.com/qxl1231)
-  - [**vue-s3-dropzone** ★213](https://github.com/kfei/vue-s3-dropzone) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
+  - [**vue-s3-dropzone** ★213 ⏳1Y](https://github.com/kfei/vue-s3-dropzone) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
   - [**easy-vue** ★589](https://github.com/TIGERB/easy-vue) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0,
 vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
   - [Vuex Events Messaging Demo ★3](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
@@ -864,7 +864,7 @@ Tooltips / popovers
  - [vue-choropleth ★19](https://github.com/voluntadpear/vue-choropleth) - Vue 2.x component to display a choropleth map.
  - [vuelayers ★33](https://github.com/ghettovoice/vuelayers) - Vue 2 components to work with OpenLayers.
  - [vue-googlemaps ★67](https://github.com/Akryum/vue-googlemaps) - Vue 2.x components to integrate Google Maps.
- - [vue-static-map ★0](https://github.com/eperedo/vue-static-map) - Vue 2.x simple component to generate an static google map
+ - [vue-static-map ★3](https://github.com/eperedo/vue-static-map) - Vue 2.x simple component to generate an static google map
 
 ### Audio / Video
 
@@ -913,7 +913,7 @@ Tooltips / popovers
 
  - [vue-qriously ★66](https://github.com/theomessin/vue-qriously) - A Vue.js 2 component to draw QR codes on an HTML Canvas using qrious.
  - [vue-qart ★153](https://github.com/superman66/vue-qart) - The directive of vue 2.x for qart.js.
- - [vue-qrcode-reader ★5](https://github.com/gruhn/vue-qrcode-reader) - A Vue.js 2 component which detects and decodes QR codes from a camera stream.
+ - [vue-qrcode-reader ★19](https://github.com/gruhn/vue-qrcode-reader) - A Vue.js 2 component which detects and decodes QR codes from a camera stream.
 
 ### Search
  - [vue-fuse ★69](https://github.com/shayneo/vue-fuse) - A lightweight pluggin for fuzzy search library, Fuse.js
@@ -951,7 +951,7 @@ Tooltips / popovers
  - [vue-barcode-scanner ★18](https://github.com/noomerzx/vue-barcode-scanner)
  - [vue-heatmapjs ★27](https://github.com/BrockReece/vue-heatmapjs) - A Vue directive for tracking and visualising mouse activity
  - [vue-maze ★11](https://github.com/meganetaaan/vue-maze) - An itty-bitty maze game made as Vue.js component
- - [vue-drag-verify ★1](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up.
+ - [vue-drag-verify ★6](https://github.com/AshleyLv/vue-drag-verify) - This is a vue component, which is sliding to unlock for login or sign up.
  - [vue-balloon ★12](https://github.com/kevinwarne/vue-balloon) - Vue components for creating fixed, zoomable containers in the corner of a page. Similar to the mail composition wrapper used in gmail.
  - [vue-sticker ★40](https://github.com/KamilOcean/vue-sticker) - Sticker effect to any directions
 
@@ -1148,7 +1148,7 @@ Tooltips / popovers
  - [vue-inview ★17](https://github.com/rachmanzz/vue-inview) - [Vue 2.x] Viewport, get notification when DOM element is entered or leave.
  - [dnd-grid ★77](https://github.com/dattn/dnd-grid) - A vuejs grid with draggable and resizable boxes
  - [vue-extend-layout ★24](https://github.com/ktquez/vue-extend-layout) - Extend the default layout or create custom layouts for the pages of your Vue.js SPA
- - [vue-masonry-css ★3](https://github.com/paulcollett/vue-masonry-css) - Vue.js Masonry layout component powered by CSS, dependancy free
+ - [vue-masonry-css ★27](https://github.com/paulcollett/vue-masonry-css) - Vue.js Masonry layout component powered by CSS, dependancy free
 
 
 
@@ -1558,7 +1558,7 @@ the amazing Vue.js.
 - [vue-inject ★67](https://github.com/jpex-js/vue-inject) - Dependency injection for Vue 2.x Components
 - [vue-deepset ★23](https://github.com/bhoriuchi/vue-deepset) - Interact with deeply nested fields in Vue/Vuex objects/state with v-model in Vue 1.x and 2.x
 - [vue-gaspard ★2](https://github.com/lucaperret/vue-gaspard) - DOM helpers plugin for Vue.js
-- [vue-configuration ★2](https://github.com/alex-oleshkevich/vue-config) - A static configuration object for Vue.js
+- [vue-configuration ★10](https://github.com/alex-oleshkevich/vue-config) - A static configuration object for Vue.js
 
 ### Web Workers
 - [vue-worker ★111](https://github.com/israelss/vue-worker) - A Vue.js plugin to use webworkers in a simply way.

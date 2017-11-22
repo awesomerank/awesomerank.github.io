@@ -349,6 +349,7 @@ Persistent Volume Providers
 * [Kube-Aliyun ★58](https://github.com/kubeup/kube-aliyun)
 * [Portworx](https://portworx.com/)
 * [OpenEBS ★2418](https://github.com/openebs/openebs)
+* [StorageOS](https://storageos.com)
 
 Developer Libraries/ Scripts
 =======================================================================

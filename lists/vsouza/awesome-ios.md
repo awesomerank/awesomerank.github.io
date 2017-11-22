@@ -1860,7 +1860,7 @@ Most of these are paid services, some have free tiers.
 * [PCLBlurEffectAlert ★126](https://github.com/hryk224/PCLBlurEffectAlert) - Swift AlertController with UIVisualEffectView. :large_orange_diamond:
 * [JDropDownAlert ★35](https://github.com/trilliwon/JDropDownAlert) - Multi dirction dropdown alert view. 🔶
 * [BulletinBoard ★2002](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS :large_orange_diamond:
-* [Cards ★515](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views. :large_orange_diamond:
+* [Cards ★2014](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views. :large_orange_diamond:
 * [CFNotify ★107](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views. :large_orange_diamond:
 
 #### Badge
@@ -2002,7 +2002,7 @@ Most of these are paid services, some have free tiers.
 * [XXXRoundMenuButton ★294](https://github.com/zsy78191/XXXRoundMenuButton) - A simple circle style menu.
 * [IGCMenu ★89](https://github.com/sunilsharma08/IGCMenu) - Grid and Circular menu with animation.Easy to customise.
 * [EEJSelectMenu ★16 ⏳1Y](https://github.com/eejahromi/EEJSelectMenu) - Single selection menu with cool animations, responsive with all screen sizes.
-* [IGLDropDownMenu ★1106](https://github.com/bestwnh/IGLDropDownMenu) - An iOS drop down menu with pretty animation and easy to customize.
+* [IGLDropDownMenu ★1106 ⏳1Y](https://github.com/bestwnh/IGLDropDownMenu) - An iOS drop down menu with pretty animation and easy to customize.
 * [Side-Menu.iOS ★2439](https://github.com/Yalantis/Side-Menu.iOS) - Animated side menu with customizable UI :large_orange_diamond:
 * [PopMenu ★815 ⏳1Y](https://github.com/xhzengAIB/PopMenu) - PopMenu is pop animation menu inspired by Sina weibo / NetEase app.
 * [FlowingMenu ★753](https://github.com/yannickl/FlowingMenu) - Interactive view transition to display menus with flowing and bouncing effects in Swift :large_orange_diamond:
@@ -2635,7 +2635,7 @@ Most of these are paid services, some have free tiers.
 * [CopyIssue ★179 ⏳1Y](https://github.com/hanton/CopyIssue-Xcode-Plugin) - Makes Copy Xcode Issue Description Easy.
 * [RTImageAssets ★2404](https://github.com/rickytan/RTImageAssets) - A Xcode plugin to automatically generate all the App icons needed.
 * [BBUncrustifyPlugin-Xcode ★1209](https://github.com/benoitsan/BBUncrustifyPlugin-Xcode) - Xcode plugin to format source code using ClangFormat or Uncrustify.
-* [Aviator ★31](https://github.com/marksands/Aviator) - Xcode plugin that brings ⇧⌘T (source/test toggle) from AppCode over to Xcode.
+* [Aviator ★31 ⏳1Y](https://github.com/marksands/Aviator) - Xcode plugin that brings ⇧⌘T (source/test toggle) from AppCode over to Xcode.
 * [JumpMarks ★55](https://github.com/merrickp/JumpMarks) - Navigate your code files with numbered bookmarks.
 * [XCSnippetr ★95](https://github.com/dzenbot/XCSnippetr) - An Xcode Plugin to upload code snippets directly into Slack and Gist.
 * [Peckham ★732 ⏳1Y](https://github.com/markohlebar/Peckham) - Add #import-s from anywhere in the code.

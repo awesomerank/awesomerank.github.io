@@ -403,7 +403,7 @@ Http is available as an injectable class, with methods to perform http requests.
 
 #### Components
 * [Material 2 ★11807](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
-* [Element Angular ★175](https://github.com/eleme/element-angular) - Element Design components built on top of Angular 2
+* [Element Angular ★287](https://github.com/eleme/element-angular) - Element Design components built on top of Angular 2
 * [Axponents: of Accessible Web Components (Dylan Barrell)](https://github.com/dylanb/Axponents/tree/master/angular2)
 * [ng2-bootstrap ★3364](https://github.com/valor-software/ngx-bootstrap) Native Angular2 Bootstrap 3&4 components
 * [ng2-charts ★976](https://github.com/valor-software/ng2-charts) Beautiful charts for Angular2 based on Chart.js
@@ -427,7 +427,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [angular-cesium ★34](https://github.com/TGFTech/angular-cesium) Creating map based web apps using Cesium and Angular
 * [ng2-radio-group ★39](https://github.com/pleerock/ngx-select-controls) Angular2 directives for radio and checkbox inputs and radio input groups
 * [ng2-dropdown ★67](https://github.com/pleerock/ngx-dropdown) Dropdown menu for angular2 and bootstrap 3
-* [angular2-multiselect-dropdown ★26](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
+* [angular2-multiselect-dropdown ★36](https://github.com/CuppaLabs/angular2-multiselect-dropdown) Angular 2 multiselect dropdown component for web applications
 * [ng2-progress-bar ★20](https://github.com/pleerock/ngx-progress-bar) Simple progress bar for angular2 and bootstrap 3
 * [ng2-tabs ★32](https://github.com/pleerock/ngx-tabs) Tabs control for angular2 and bootstrap 3
 * [ng2-modal ★103](https://github.com/pleerock/ngx-modal) Modal window for angular2 and bootstrap 3

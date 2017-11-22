@@ -73,7 +73,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 - [License](#license)
 
 ## Frontend
-* [SitePoint](https://www.sitepoint.com/newsletter/). [Archive](https://www.sitepoint.com/newsletter-archive/).
 * [Front-end Front](http://frontendfront.us9.list-manage.com/subscribe?u=b033c4814d034fca4f850fe82&id=ceaf5763d0). [Frontendfront](https://frontendfront.com/)
 * [Front End Newsletter](http://frontendnewsletter.com/). The free, weekly newsletter of the best Front End related news, articles, projects, and more. JavaScript, React, Angular, Ember, Polymer, Meteor, RxJS, Elm, and more. [Archive](http://frontendnewsletter.com/issues).
 * [Dev Tips](https://umaar.com/dev-tips/). A developer tip, in the form of a gif, in your inbox each week.
@@ -104,6 +103,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [React Digest](https://www.getrevue.co/profile/the-react-digest). A hand-picked weekly selection of the best React JS resources.
 * [React Digest 2](https://reactdigest.net/). 5 links; Flux, Redux, MobX, React and React Native we are watching everything so sign up and get your portion of javascript awesomeness every week.
 * [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe). A weekly newsletter about React and ecosystem.
+* [React Status](https://react.statuscode.com/). A weekly roundup of the latest React and React Native links and tutorials.
 
 #### AngularJS
 * [AngularJS Weekly Newsletter](http://www.ng-newsletter.com/). The free, weekly newsletter of the best AngularJS content on the web.
@@ -144,7 +144,7 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [eWebDesign](https://ewebdesign.com/). Latest web news and articles from industry experts.
 * [The UI Animation Newsletter](http://valhead.us2.list-manage2.com/subscribe?u=6fbaddc8c1fce7588d1a35cb2&id=8f4de2c2e5). The UI Animation Newsletter keeps you up to date on the best web animation, motion design, and UX resources.
 * [Web Animation Weekly](http://webanimationweekly.com/). A hand-picked selection of articles, videos, book reviews, and other goodies pertaining to the wonderful worlds of web animation and motion design!
-* [Design Systems News](https://designsystems.curated.co/). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide. [Archive](https://designsystems.curated.co/issues).
+* [Design Systems News](http://news.design.systems/). Latest news, articles, repos, code, frameworks, videos and podcasts on Design Systems, Pattern Libraries and Styleguide. [Archive](http://news.design.systems/issues).
 * [Designgest](http://designgest.com/). Designgest is an easy way to get fresh information about interactive design trends.
 * [Design Systems Weekly](https://designsystems.email/). Get the latest on how others are building, scaling and preventing entropy in their design systems delivered to your inbox.
 
@@ -152,7 +152,6 @@ Thanks to all [contributors](https://github.com/vredniy/awesome-newsletters/grap
 * [FrontEnd Focus](https://frontendfoc.us). A once–weekly HTML5 and Web Platform technology roundup. CSS 3, Canvas, WebSockets, WebGL, Native Client, and more.
 * [Gamedev.js Weekly](http://gamedevjsweekly.com/). Weekly newsletter about HTML5 Game Development.
 * [Phaser World](http://phaser.io/community/newsletter). Weekly newsletter as a summary of all the new content -game releases, tutorials, videos, etc- added to Phaser site over the last week.
-* [Weekly Polymer](http://weeklypolymer.com). Polymer & web-components development.
 
 ### SVG
 * [SVG Weekly](https://tinyletter.com/svgweekly). A weekly email focused on Scalable Vector Graphics (SVG), sharing tutorials, tools, experiments, talks and data.
