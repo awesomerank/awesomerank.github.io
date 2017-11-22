@@ -129,6 +129,7 @@ A collection of awesome things regarding React ecosystem.
 
 #### React Online Playground
 * [CodeSandbox](https://codesandbox.io)
+* [Online VS Code IDE for React](https://stackblitz.com)
 * [React JSFiddle Integration with JSX](https://jsfiddle.net/reactjs/69z2wepo/)
 * [React JSFiddle Integration without JSX](https://jsfiddle.net/reactjs/5vjqabv3/)
 * [Babel REPL](https://babeljs.io/repl/)
@@ -362,7 +363,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-proxy-loader - Hot Module Replacement and Code Splitting](https://github.com/webpack/react-proxy-loader)
 * [RCSS - Turn your JavaScript objects into CSS classes ★287 ⏳2Y](https://github.com/chenglou/RCSS)
 * [ReactiveElements - Allows to use React.js component as HTML element ★600](https://github.com/PixelsCommander/ReactiveElements)
-* [react-chosen - React wrapper for Chosen jQuery ★88 ⏳1Y](https://github.com/chenglou/react-chosen)
+* [react-chosen - React wrapper for Chosen jQuery ★88 ⏳2Y](https://github.com/chenglou/react-chosen)
 * [react-inlinesvg - An SVG loader component for React](https://github.com/matthewwithanm/react-inlinesvg)
 * [react-imageloader - A React component for wrangling image loading ★330](https://github.com/hzdg/react-imageloader)
 * [expose - A React mixin for lazy loading ★3 ⏳2Y](https://github.com/dok/expose)

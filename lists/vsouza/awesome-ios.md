@@ -2355,7 +2355,7 @@ Most of these are paid services, some have free tiers.
  * [Datez ★206](https://github.com/SwiftKitz/Datez) - Swift library for dealing with `NSDate`, `NSCalendar`, and `NSDateComponents`. :large_orange_diamond:
  * [BFKit ★760](https://github.com/FabrizioBrancati/BFKit) - An Objective-C collection of useful classes to develop Apps faster.
  * [BFKit-Swift ★664](https://github.com/FabrizioBrancati/BFKit-Swift) - A Swift collection of useful classes to develop Apps faster. :large_orange_diamond:
- * [Scale ★300](https://github.com/onmyway133/scale) - Unit converter in Swift (available via CocoaPods) :large_orange_diamond:
+ * [Scale ★300 ⏳1Y](https://github.com/onmyway133/scale) - Unit converter in Swift (available via CocoaPods) :large_orange_diamond:
  * [Standard Template Protocols ★379 ⏳1Y](https://github.com/cconeil/Standard-Template-Protocols) - Protocols for your every day iOS needs :large_orange_diamond:
  * [TimeLord ★6](https://github.com/JonFir/TimeLord) - Easy DateTime (NSDate) management in Swift :large_orange_diamond:
  * [AppVersionMonitor ★223](https://github.com/eure/AppVersionMonitor) - Monitor iOS app version easily.

@@ -325,6 +325,7 @@ title: Awesome Rank for vuejs/awesome-vue
 - [Build a Vue.js Blog in 2 hours tops](https://snipcart.com/blog/vuejs-blog-demo#tutorial) on [Snipcart](https://snipcart.com/)
 - [Getting Started with VueJS 2](https://www.udemy.com/getting-started-with-vue-js) by Sachin Bhatnagar [@sachinbee](https://www.twitter.com/sachinbee) on [Udemy](https://udemy.com/)
 - [Getting Started with Vuex: Managing State in Vue.js](https://sabe.io/tutorials/getting-started-with-vuex) on [Sabe.io](https://sabe.io/)
+- [Vue2 ACL using CASL](https://medium.com/@sergiy.stotskiy/vue-acl-with-casl-781a374b987a) by Sergii Stotskyi
 
 ### Examples
 
@@ -334,7 +335,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [HackerNews clone with vue.js + vue-router ★16 ⏳2Y](https://github.com/kazupon/vue-router-hackernews) by @kazupon
   - [**Electron + Vue example** ★627](https://github.com/bradstewart/electron-boilerplate-vue) by @bradstewart
   - [Single page application example (Vue + Voie) ★55 ⏳1Y](https://github.com/inca/voie-example) by [Boris Okunskiy](https://github.com/inca)
-  - [Begin - Task Manager SPA written in Vue + Lumen ★58](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
+  - [Begin - Task Manager SPA written in Vue + Lumen ★58 ⏳1Y](https://github.com/rajabishek/begin) by [Raj Abishek](https://github.com/rajabishek)
   - [Vue Mini Shop ★152 ⏳1Y](https://github.com/BosNaufal/vue-mini-shop) by [BosNaufal](https://github.com/BosNaufal)
   - [Vue SoundCloud ★44](https://github.com/mul14/vue-soundcloud) by [mul14](https://github.com/mul14)
   - [Feature Requests (Laravel + Vue Combo) ★13 ⏳1Y](https://github.com/haydenbbickerton/feature-requests-app) by [haydenbbickerton](https://github.com/haydenbbickerton)
@@ -515,6 +516,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Light Bootstrap Dashboard ★19](https://github.com/cristijora/vue-light-bootstrap-dashboard) - Creative Tim Light Bootstrap Dashboard made for Vue
 - [Hubaga ★4](https://github.com/picocodes/hubaga) - A free and lightweight WordPress eCommerce plugin for developers and other digital shops.
 - [vue-webpack-buefy ★1](https://github.com/ndro/vue-webpack-buefy) - Vue.js starter with full-featured Webpack and Buefy
+- [Coypu ★1](https://github.com/bkzl/coypu) - Text-editor-like weekly planner
 
 ### Commercial Products
 
@@ -573,7 +575,6 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [WizzAir](https://wizzair.com/)
   - [Moving to HTTPS](https://movingtohttps.com/) - Guide to moving different platform/hosting sites to HTTPS
   - [Booknshelf](https://booknshelf.com/) - Discover great books and bookshelves on different topics.
-  - [Coypu](https://coypu.co) - Text-editor-like weekly planner
   - [Top HN](https://tophn.info/) - A real time display of top news activity on Hacker News
   - [Euronews](http://www.euronews.com) - Euronews is a multilingual news media service, headquartered in Lyon, France.
   - [Roozame روزامه](http://www.roozame.com) - Roozame is a persian smart news media service.
@@ -799,6 +800,7 @@ Tooltips / popovers
  - [vue-slideout](https://github.com/vouill/vue-slideout) - Vue implementation of the popular library [slideout ★6969](https://github.com/Mango/slideout)
  - [vue-quick-menu ★31](https://github.com/AshleyLv/vue-quick-menu) - This is web navigation component base on vue.js2.
  - [@hscmap/vue-menu ★38](https://github.com/michitaro/vue-menu) - Menu / Context Menu component for vue2.
+ - [vue-router-nav ★0](https://github.com/classicalconditioning/vue-router-nav) - Minimalistic responsive navigation bar that renders routes of vue-router.
 
 ### Carousel
 
@@ -1177,7 +1179,7 @@ Tooltips / popovers
  - [Zircle UI](https://zircleui.github.io/zircleUI/) - A circular zooming UI library based on Vue.js 2.
  - [vue-mdc-adapter ★36](https://github.com/stasson/vue-mdc-adapter) - Material Components integration for Vue.js as per MDC Team's [guidelines](https://github.com/material-components/material-components-web/blob/master/docs/integrating-into-frameworks.md).
  - [Material Components Vue](https://github.com/matsp/material-components-vue) - wrapper around [material-components-web ★6658](https://github.com/material-components/material-components-web) for Vue.js
- 
+
 ### Mobile
 
 *UI frameworks for mobile*
@@ -1367,6 +1369,8 @@ Tooltips / popovers
  - [morphling ★27](https://github.com/jofftiquez/morphling) - A collection of standard and custom filters for Vue 2.
  - [vue-currency-filter ★16](https://github.com/mazipan/vue-currency-filter) - Lightweight and Customizeable Vue 2 Currency Filter.
  - [vue-trans ★1](https://github.com/Trekels/vue-trans) - A simple filter to provide a similar way of translating to the Symfony trans.
+ - [vue-string-filter ★1](https://github.com/mazipan/vue-string-filter) - Lightweight Vue 2 String Manipulation Filter.
+
 ### SVG
 
  - [vue-svgicon ★220](https://github.com/MMF-FE/vue-svgicon) - A tool to create svg icon components. (vue 2.x).

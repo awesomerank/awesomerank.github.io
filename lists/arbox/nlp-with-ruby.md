@@ -213,7 +213,7 @@ are often collected in dictionaries.
 
 - [n_gram ★33 ⏳7Y](https://github.com/reddavis/N-Gram) -
   N-Gram generator.
-- [ruby-ngram ★8 ⏳3Y](https://github.com/tkellen/ruby-ngram) -
+- [ruby-ngram ★8 ⏳4Y](https://github.com/tkellen/ruby-ngram) -
   Break words and phrases into ngrams.
 - [raingrams ★67 ⏳5Y](https://github.com/postmodern/raingrams) -
   Flexible and general-purpose ngrams library written in pure Ruby.

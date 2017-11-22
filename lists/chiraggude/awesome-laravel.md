@@ -115,7 +115,7 @@ Inspired by [ziadoz/awesome-php ★17013](https://github.com/ziadoz/awesome-php)
 * [Eloquent Filter ★210](https://github.com/Tucker-Eric/EloquentFilter) - An Eloquent Way To Filter Laravel Models And Their Relationships
 * [Eloquent Sluggable ★1743](https://github.com/cviebrock/eloquent-sluggable) - Create slugs for Eloquent models
 * [Eloquent Sortable ★313](https://github.com/spatie/eloquent-sortable) - Sortable behaviour for Eloquent models
-* [Presenter ★579 ⏳1Y](https://github.com/laracasts/Presenter) - Presenter for Models
+* [Presenter ★579 ⏳2Y](https://github.com/laracasts/Presenter) - Presenter for Models
 * [HTML ★1144](https://github.com/LaravelCollective/html) - HTML and Form Builders for Laravel
 * [Hyn/multi-tenant ★457](https://github.com/hyn/multi-tenant) - Flexible multi tenancy with secure separation of a.o. routes, assets and databases
 * [Laravel 5 form builder ★734](https://github.com/kristijanhusak/laravel-form-builder) - Form builder for Laravel 5 inspired by Symfony's form builder.

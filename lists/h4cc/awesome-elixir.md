@@ -731,6 +731,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [distance_api_matrix ★24 ⏳1Y](https://github.com/C404/distance-matrix-api) - Provide distance and heading calculations via Google distance matrix api.
 * [geo ★294](https://github.com/bryanjos/geo) - A collection of GIS functions for Elixir.
 * [geocalc ★35](https://github.com/yltsrc/geocalc) - Calculate distance, bearing and more between latitude/longitude points.
+* [geocoder ★43](https://github.com/knrz/geocoder) - A simple, efficient geocoder/reverse geocoder with a built-in cache.
 * [geohash ★10](https://github.com/polmuz/elixir-geohash) - Geohash encode/decode library.
 * [geohax ★3](https://github.com/evuez/geohax) - Geohash encoding and decoding with neighbors finder.
 * [geoip ★22](https://github.com/navinpeiris/geoip) - Find geolocation for a given IP, hostname or `Plug.Conn`.
@@ -1452,7 +1453,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [slack ★367](https://github.com/BlakeWilliams/Elixir-Slack) - Slack real time messaging client in Elixir.
 * [sparkpost ★31](https://github.com/SparkPost/elixir-sparkpost) - An Elixir library for sending email using SparkPost.
 * [statix ★86](https://github.com/lexmag/statix) - Expose app metrics in the StatsD protocol.
-* [stripe ★20 ⏳2Y](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
+* [stripe ★20 ⏳3Y](https://github.com/SenecaSystems/stripe) - An Elixir Library wrapping Stripe's API.
 * [stripity_stripe](https://github.com/robconery/stripity-stripe) - An Elixir Library for [Stripe](https://stripe.com/).
 * [tagplay ★0 ⏳2Y](https://github.com/tagplay/elixir-tagplay) - Elixir client for Tagplay API.
 * [telephonist ★28 ⏳1Y](https://github.com/danielberkompas/telephonist) - Elixir state machines for Twilio calls.
@@ -1497,7 +1498,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pubsub ★27](https://github.com/simonewebdesign/elixir_pubsub) - A Publish-Subscribe utility library that implements a pub-sub mechanism to ease the burden of communication on the business logic processes.
 * [quark](https://github.com/robot-overlord/quark) - A library for common functional programming idioms: combinators, currying, and partial application.
 * [retry ★88](https://github.com/safwank/ElixirRetry) - Simple Elixir macros for linear retry, exponential backoff and wait with composable delays.
-* [sips_downloader ★13](https://github.com/DavsX/SipsDownloader) - Elixir module for downloading the ElixirSips episodes and all other files.
+* [sips_downloader ★13 ⏳1Y](https://github.com/DavsX/SipsDownloader) - Elixir module for downloading the ElixirSips episodes and all other files.
 * [sitemap ★49](https://github.com/ikeikeikeike/sitemap) - Sitemap is the easiest way to generate Sitemaps in Elixir.
 
 ## Validations

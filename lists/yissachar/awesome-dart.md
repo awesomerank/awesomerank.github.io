@@ -122,7 +122,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 ## ORM
 
-* [Objectory ★42](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
+* [Objectory ★42 ⏳1Y](https://github.com/vadimtsushko/objectory) - Objectory provides typed, checked environment to model, save and query data persisted on MongoDb.
 
 ## Image
 

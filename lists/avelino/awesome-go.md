@@ -250,7 +250,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [bloom](https://github.com/zhenjl/bloom) - Bloom filters implemented in Go.
 * [bloom ★2](https://github.com/yourbasic/bloom) - Golang Bloom filter implementation.
 * [boomfilters ★866](https://github.com/tylertreat/BoomFilters) - Probabilistic data structures for processing continuous, unbounded streams.
-* [concurrent-writer ★5](https://github.com/alin-sinpalean/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`.
+* [concurrent-writer ★5](https://github.com/free/concurrent-writer) - Highly concurrent drop-in replacement for `bufio.Writer`.
 * [count-min-log ★34](https://github.com/seiflotfy/count-min-log) - Go implementation Count-Min-Log sketch: Approximately counting with approximate counters (Like Count-Min sketch but using less memory).
 * [cuckoofilter ★245](https://github.com/seiflotfy/cuckoofilter) - Cuckoo filter: a good alternative to a counting bloom filter implemented in Go.
 * [encoding ★76 ⏳3Y](https://github.com/zhenjl/encoding) - Integer Compression Libraries for Go.
@@ -406,6 +406,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [durafmt ★165](https://github.com/hako/durafmt) - Time duration formatting library for Go.
 * [feiertage ★6](https://github.com/wlbr/feiertage) - Set of functions to calculate public holidays in Germany, incl. specialization on the states of Germany (Bundesländer). Things like Easter, Pentecost, Thanksgiving...
 * [go-persian-calendar ★28](https://github.com/yaa110/go-persian-calendar) - The implementation of the Persian (Solar Hijri) Calendar in Go (golang).
+* [go-sunrise ★1](https://github.com/nathan-osman/go-sunrise) - Calculate the sunrise and sunset times for a given location.
 * [goweek ★12](https://github.com/grsmv/goweek) - Library for working with week entity in golang.
 * [now ★1006](https://github.com/jinzhu/now) - Now is a time toolkit for golang.
 * [NullTime ★3](https://github.com/kirillDanshin/nulltime) - Nullable `time.Time`.
@@ -475,7 +476,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [gopher-lua ★1859](https://github.com/yuin/gopher-lua) - Lua 5.1 VM and compiler written in Go.
 * [ngaro ★8 ⏳1Y](https://github.com/db47h/ngaro) - Embeddable Ngaro VM implementation enabling scripting in Retro.
 * [otto ★3275](https://github.com/robertkrimen/otto) - JavaScript interpreter written in Go.
-* [purl ★18 ⏳2Y](https://github.com/ian-kent/purl) - Perl 5.18.2 embedded in Go.
+* [purl ★18 ⏳3Y](https://github.com/ian-kent/purl) - Perl 5.18.2 embedded in Go.
 
 ## Files
 
@@ -1120,6 +1121,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
     * [enca ★3 ⏳1Y](https://github.com/endeveit/enca) - Minimal cgo bindings for [libenca](http://cihar.com/software/enca/).
     * [genex ★41 ⏳1Y](https://github.com/alixaxel/genex) - Count and expand Regular Expressions into all matching Strings.
     * [github_flavored_markdown](https://godoc.org/github.com/shurcooL/github_flavored_markdown) - GitHub Flavored Markdown renderer (using blackfriday) with fenced code block highlighting, clickable header anchor links.
+    * [go-fixedwidth ★3](https://github.com/ianlopshire/go-fixedwidth) - Fixed-width text formatting (encoder/decoder with reflection).
     * [go-humanize ★1170](https://github.com/dustin/go-humanize) - Formatters for time, numbers, and memory size to human readable format.
     * [go-nmea ★34](https://github.com/adrianmo/go-nmea) - NMEA parser library for the Go language.
     * [go-pkg-rss ★302 ⏳1Y](https://github.com/jteeuwen/go-pkg-rss) - This package reads RSS and Atom feeds and provides a caching mechanism that adheres to the feed specs.
@@ -1628,6 +1630,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [Seaweed File System ★4767](https://github.com/chrislusf/seaweedfs) - Fast, Simple and Scalable Distributed File System with O(1) disk seek.
 * [shell2http ★157](https://github.com/msoap/shell2http) - Executing shell commands via http server (for prototyping or remote control).
 * [snap ★1607](https://github.com/intelsdi-x/snap) - Powerful telemetry framework.
+* [Snitch ★13](https://github.com/lucasgomide/snitch) - Simple way to notify your team and many tools when someone has deployed any application via Tsuru.
 * [Stack Up ★1563](https://github.com/pressly/sup) - Stack Up, a super simple deployment tool - just Unix - think of it like 'make' for a network of servers.
 * [syncthing](https://syncthing.net/) - Open, decentralized file synchronization tool and protocol.
 * [Tenyks ★162](https://github.com/kyleterry/tenyks) - Service oriented IRC bot using Redis and JSON for messaging.

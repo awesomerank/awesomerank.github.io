@@ -250,7 +250,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
 * [GCViewer ★1916](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
 * [grav ★167](https://github.com/epickrram/grav) - A collection of tools to help visualise process execution.
-* [hawkshaw ★39 ⏳1Y](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
+* [hawkshaw ★39 ⏳2Y](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
 * [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 * [hdrhistogram-metrics-reservoir](https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir) - A Metrics Reservoir implementation backed by HdrHistogram.
 * [HdrLogProcessing ★21](https://github.com/nitsanw/HdrLogProcessing) - Utilities for HDR Histogram logs manipulation.

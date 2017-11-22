@@ -572,7 +572,7 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 - [pretty-ms ★245](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: `1337000000` → `15d 11h 23m 20s`.
 - [ms](https://github.com/rauchg/ms.js) - Tiny millisecond conversion utility.
 - [pretty-error ★840](https://github.com/AriaMinaei/pretty-error) - Errors with less clutter.
-- [humanize ★349 ⏳1Y](https://github.com/taijinlee/humanize) - Data formatter for human readability.
+- [humanize ★349 ⏳2Y](https://github.com/taijinlee/humanize) - Data formatter for human readability.
 - [read-art ★228](https://github.com/Tjatse/node-readability) - Extract readable content from any page.
 
 

@@ -326,6 +326,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [EasyDeviceInfo ★1311](https://github.com/nisrulz/easydeviceinfo) - Get device information in a super easy way.
 - [Ask-Permission ★43](https://github.com/Kishanjvaghela/Ask-Permission) - Simple RunTime permission manager.
 - [Shutter-Android ★11](https://github.com/levibostian/Shutter-Android) - Capture photos/videos from device camera or get photos/video from gallery app with no runtime permissions needed.
+- [Validator ★5](https://github.com/anderscheow/Validator) - An utilities class to validate text inside TextInputLayout.
 
 ### Debugging Tools
 

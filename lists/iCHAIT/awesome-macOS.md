@@ -316,7 +316,7 @@ title: Awesome Rank for iCHAIT/awesome-macOS
 - [Catch](http://www.giorgiocalderolla.com/index.html#catch) - The easiest way to use ShowRSS. [![Open-Source Software][OSS Icon] ★279](https://github.com/mipstian/catch) ![Freeware][Freeware Icon]
 - [Clocker](https://itunes.apple.com/us/app/clocker-menubar-world-clock/id1056643111?ls=1&mt=12) - Check time in multiple timezones from your Mac menubar. [![Open-Source Software][OSS Icon]](https://github.com/Abhishaker17/Clocker) ![Freeware][Freeware Icon]
 - [gInbox](https://github.com/chenasraf/gInbox) - gInbox is a wrapper made for Mac around Inbox by Gmail. [![Open-Source Software][OSS Icon] ★620 ⏳1Y](https://github.com/chenasraf/gInbox) ![Freeware][Freeware Icon]
-- [hacker-menu](https://hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon] ★917 ⏳1Y](https://github.com/jingweno/hacker-menu) ![Freeware][Freeware Icon]
+- [hacker-menu](https://hackermenu.io/) - Hacker News Delivered to Desktop. [![Open-Source Software][OSS Icon] ★917 ⏳2Y](https://github.com/jingweno/hacker-menu) ![Freeware][Freeware Icon]
 - [PopKey](http://popkey.co/send-gifs) -  Allows easy access to animated GIFs from the Mac menu bar.
 - [Sonora](https://github.com/sonoramac/Sonora) -  A minimal, beautifully designed music player. [![Open-Source Software][OSS Icon] ★874 ⏳2Y](https://github.com/sonoramac/Sonora) ![Freeware][Freeware Icon]
 - [SoundCleod](http://soundcleod.com/) - A browser for SoundCloud. [![Open-Source Software][OSS Icon] ★738](https://github.com/salomvary/soundcleod) ![Freeware][Freeware Icon]

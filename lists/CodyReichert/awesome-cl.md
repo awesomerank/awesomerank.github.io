@@ -80,9 +80,11 @@ sellers who aren't evil for physical resources.
     - [Sublime Text](#sublime-text)
     - [Atom](#atom)
     - [Notebooks](#notebooks)
+- [Text Processing](#text-processing)
 - [Tools](#tools)
 - [Unit Testing](#unit-testing)
 - [Utilities](#utilities)
+    - [Configuration](#configuration)
     - [Language extensions](#language-extensions)
     - [Files and directories](#files-and-directories)
     - [Git](#git)
@@ -94,7 +96,6 @@ sellers who aren't evil for physical resources.
     - [Plotting](#plotting)
     - [i18n](#i18n)
     - [Logging](#logging)
-    - [Text Processing](#text-processing)
     - [Other](#other)
 - [XML](#xml)
 - [Contributing](#contributing)
@@ -375,7 +376,7 @@ HTML generators and templates
 URI handling
 ------------
 
-* [quri ★49](https://github.com/fukamachi/quri) - Another URI library for
+* [quri ★49 ⏳1Y](https://github.com/fukamachi/quri) - Another URI library for
   Common Lisp. Supports userinfo, IPv6 hostname, encoding/decoding
   utilities,… [BSD_3Clause][15].
 * [purl ★2](https://github.com/eugeneia/purl) - Provides a parser and defines a type for URLs as specified in RFC1738. [GNU GPL3][2].
@@ -533,6 +534,16 @@ This contains plugins and other goodies for various text editors.
 * [Darkmatter ★275](https://github.com/tamamu/darkmatter) - A
   notebook-style Common Lisp environment. [MIT][200].
 
+Text Processing
+===============
+
+* [montezuma ★14](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
+* [mk-string-metrics ★11](https://github.com/mrkkrp/mk-string-metrics) -
+  Calculate various string metrics efficiently in Common Lisp
+  (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
+  etc). [MIT][200].
+* [cl-yacc ★29](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200].
+
 Tools
 =====
 
@@ -568,6 +579,12 @@ Unit Testing
 
 Utilities
 =========
+
+Configuration
+-------------
+
+* [envy ★27 ⏳1Y](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD][39].
+* [py-configparser](https://common-lisp.net/project/py-configparser/) - reads and writes Python's ConfigParser-like configuration files. [MIT][200].
 
 Language extensions
 -------------------
@@ -669,16 +686,6 @@ Logging
 
 * [log4cl ★71](https://github.com/7max/log4cl) - Logging framework modelled after Log4J. [Apache2.0][89].
 
-Text Processing
----------------
-
-* [montezuma ★14](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
-* [mk-string-metrics ★11](https://github.com/mrkkrp/mk-string-metrics) -
-  Calculate various string metrics efficiently in Common Lisp
-  (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
-  etc). [MIT][200].
-* [cl-yacc ★29](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200].
-
 
 Other
 -----
@@ -688,12 +695,11 @@ This contains anything which doesn't fit into another category.
 * [babel ★45](https://github.com/cl-babel/babel) - A charset encoding/decoding library. [Expat][14].
 * [chipz ★11](https://github.com/froydnj/chipz) - A decompression library. [3-clause BSD][15].
 * [cl-cuda ★117](https://github.com/takagi/cl-cuda) - A library to use NVIDIA CUDA in Common Lisp programs. [LLGPL][8].
-* [envy ★27](https://github.com/fukamachi/envy) - Configuration switcher. [FreeBSD][39].
 * [esrap ★75 ⏳1Y](https://github.com/nikodemus/esrap) - Packrat parser. [Expat][14].
 * [fast-io ★90](https://github.com/rpav/fast-io) - Fast octet-vector/stream I/O. [3-clause BSD][15].
 * [glyphs ★17 ⏳2Y](https://github.com/ahungry/glyphs) - A library for cutting down the verboseness of Common Lisp in places. [GNU GPL3][2].
 * [iolib ★103](https://github.com/sionescu/iolib) - I/O library. [Expat][14].
-* [mixalot ★20 ⏳1Y](https://github.com/ahefner/mixalot) - A loosely-coupled collection of audio libraries. No license specified.
+* [mixalot ★20 ⏳2Y](https://github.com/ahefner/mixalot) - A loosely-coupled collection of audio libraries. No license specified.
 * [named-readtables ★15 ⏳2Y](https://github.com/melisgl/named-readtables) - Provides a readtable namespace, akin to package namespaces. [3-clause BSD][15].
 * [Salza2](http://www.xach.com/lisp/salza2/) - A library for creating compressed data. [FreeBSD][39].
 * [simple-currency ★3 ⏳2Y](https://github.com/a0-prw/simple-currency) - A currency conversion library using daily information published by the ECB. [FreeBSD][39].
@@ -703,7 +709,6 @@ This contains anything which doesn't fit into another category.
 * [trivial-garbage ★18](https://github.com/trivial-garbage/trivial-garbage) - A portable finalizer, weak hash-table and weak pointer API. Public domain.
 * [trivial-utf8](https://common-lisp.net/project/trivial-utf-8/) - A small library for doing UTF-8-based I/O. Not available on Quicklisp. No license specified.
 * [montezuma ★14](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
-* [ubiquitous ★8](https://github.com/Shinmera/ubiquitous) - A library providing easy-to-use persistent configuration storage. [Artistic License 2.0][51].
 
 
 XML

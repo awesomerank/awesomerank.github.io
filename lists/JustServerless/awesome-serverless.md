@@ -897,6 +897,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [How medical supply startup Medinas uses serverless](https://aws.amazon.com/de/blogs/startups/how-medical-supply-startup-medinas-is-using-serverless-to-tackle-a-765-billion-problem/) - How medical supply startup Medinas is using serverless to tackle a $765 billion problem.
 - [Build a Python REST API](https://serverless.com/blog/flask-python-rest-api-serverless-lambda-dynamodb/) - How to build a serverless Python REST API based on Flask.
 - [Funtainers: The beauty of running containers as functions](https://thenewstack.io/funtainers-beauty-running-containers-functions/) - How containers can be utilized to run functions on demand.
+- [Birth of the NearCloud](https://serverless.com/blog/near-cloud-crdt-kuhiro/) - On CRDTs and Kuhiro.
 
 ## Screencasts
 
@@ -1186,7 +1187,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Web API scaffold](https://github.com/jch254/serverless-es6-dynamodb-webapi) - Simple web API powered by Serverless (Node.js) and DynamoDB.
 - [Serverless Notifications ★65](https://github.com/zanon-io/serverless-notifications) - Project which uses the Serverless Framework and AWS IoT for notifications.
 - [Redirect example ★6 ⏳1Y](https://github.com/GorillaStack/serverless-redirect-example) - Example of how to implement redirects in the Serverless framework.
-- [Meetup event collector ★7](https://github.com/mavi888/meetup-event-collector-node) - Node project to collect events and create a calendar feed of meetup events.
+- [Meetup event collector ★7 ⏳1Y](https://github.com/mavi888/meetup-event-collector-node) - Node project to collect events and create a calendar feed of meetup events.
 - [Yesterdaytabase ★16 ⏳1Y](https://github.com/ryansb/yesterdaytabase) - Cascade data from production to staging with AWS RDS and Lambda.
 - [Serverless dotenv WSGI ★2 ⏳1Y](https://github.com/braahyan/serverless-dotenv-wsgi) - Demonstrating the use of the `serverless-wsgi` plugin and the `serverless-plugin-dotenv` plugin.
 - [Serverless PHP ★55](https://github.com/ZeroSharp/serverless-php) - Example using an AWS Lambda which runs a PHP function.
@@ -1403,7 +1404,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Node Lambda ★926](https://github.com/motdotla/node-lambda) - Command line tool to locally run and deploy your Node.js application to AWS Lambda.
 - [Redsift](https://redsift.com) - A serverless, full stack, polyglot PaaS ([introduction blog post](https://medium.com/redsift-outbox/introducing-redsift-a-serverless-full-stack-polyglot-paas-7cdf3801c4b9)).
 - [Lambda TV ★2](https://github.com/jeshan/lambdatv) - Sample code for demos on Lambda TV.
-- [Squeezer.IO](https://squeezer.io) - Event-Driven APIs and web apps on serverless microservices.
+- [Squeezer.IO](https://squeezer.io) - Event-Driven APIs and web apps on serverless microservices ([GitHub project]([Squeezer ★25](https://github.com/SqueezerIO/squeezer))).
 - [Nanoscale.io](https://www.nanoscale.io) - The fastest way to build microservices.
 - [Pyroclast](http://pyroclast.io) - Turn event streams into (micro) services.
 - [OpenWhisk Slackapp ★16](https://github.com/IBM-Bluemix/openwhisk-slackapp) - Slack app built with Slack Events API and IBM Bluemix OpenWhisk.
@@ -1476,6 +1477,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Cloudstax](https://www.cloudstax.io) - Serverless and Open Source services.
 - [Kuhiro](http://kuhiro.com) - Edge Compute Network.
 - [Flogo](http://www.flogo.io) - Ultralight edge microservices framework ([GitHub project ★302](https://github.com/TIBCOSoftware/flogo)).
+- [Add custom resource ★6](https://github.com/dougmoscrop/add-custom-resource) - Library which is meant to be used in a Serverless plugin when a custom resource is needed.
 
 ## Plugins
 

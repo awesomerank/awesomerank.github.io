@@ -33,7 +33,7 @@ Curated list of boilerplates and templates to enhance productivity.
 
 *Boilerplates and templates for Android*
 
-- [Android Bootstrap ★4302 ⏳1Y](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
+- [Android Bootstrap ★4302 ⏳2Y](https://github.com/AndroidBootstrap/android-bootstrap) A template/bootstrap/boilerplate application that includes tons of great open source tools and frameworks.
 - [Android Material Drawer Template ★701 ⏳2Y](https://github.com/kanytu/android-material-drawer-template) An Android template with navigation drawer for material design.
 - [material-design-icons-adt-template ★433 ⏳1Y](https://github.com/intrications/material-design-icons-adt-template) Android Studio / Eclipse ADT template for material-design-icons resources.
 - [AndroidKickststarter ★623 ⏳4Y](https://github.com/e-biz/androidkickstartr) Framework kickstarts development which help you focus on coding.

@@ -278,7 +278,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [Clonepoint ★28](https://github.com/rohit-n/Clonepoint) - Libre clone of Gunpoint, a game in which you hack and punch your way to victory.
 * [DynaDungeons ★75](https://github.com/akien-mga/dynadungeons) - Bomberman clone using the awesome open source Godot game engine.
 * [Duckmarines ★57 ⏳1Y](https://github.com/SimonLarsen/duckmarines) - A ChuChu Rocket remake for PC.
-* [Epic Inventor ★71](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
+* [Epic Inventor ★71 ⏳1Y](https://github.com/BlkStormy/epic-inventor) - Indie, side-scrolling, action, RPG.
 * [Falling Time ★13 ⏳1Y](https://github.com/cxong/FallingTime) - Arcade game inspired by Fall Down.
 * [Kroniax ★9 ⏳2Y](https://github.com/AlexAUT/Kroniax) - Sidescrolling skill-based game.
 * [Missile Command ★3 ⏳1Y](https://github.com/chadpaulson/missile-command) - Missile Command clone in Lua with LÖVE.

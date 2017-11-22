@@ -87,7 +87,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [da_DK](https://magentodanmark.dk/) 🇩🇰 - Danish Language Package.
 - [es_ES ★7](https://github.com/eusonlito/magento2-language-es_es) :es: - Spanish Language Package.
 - [pt_BR ★0](https://github.com/rafaelstz/traducao_magento2_pt_br) 🇧🇷 - Portuguese Brazil Language Package.
-- [it_IT ★15](https://github.com/antoniocarboni/magento2-traduzione-italiana) :it: - Italian Language Package.
+- [it_IT ★4](https://github.com/mageplaza/magento-2-italian-language-pack) :it: - Italian Language.
 - [nl_NL ★17](https://github.com/ho-nl/magento2-nl_NL) [alt.](https://bitbucket.org/creaminternet/language-nl_nl.git) 🇳🇱 - Dutch Language Package.
 - [pl_PL ★14](https://github.com/SnowdogApps/magento2-pl_pl) 🇵🇱 - Polish Language Package.
 - [tr_TR ★10 ⏳1Y](https://github.com/hidonet/magento2-language-tr_tr) :tr: - Turkish Language Package.
@@ -184,6 +184,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [inchoo](http://inchoo.net/category/magento-2/)
 - [integer_net blog](https://www.integer-net.com/blog/)
 - [MageComp](https://magecomp.com/blog/category/magento-2/)
+- [Experius Codeblog] (https://codeblog.experius.nl)
 
 #### Other
 - [Max Pronko's Devletter](https://maxpronko.us13.list-manage.com/subscribe/post?u=1522a03b7b9e6dea003fad97a&id=dc6b454824) - Monthly Development Newsletter.
@@ -199,7 +200,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [Max Pronko DevChannel](https://www.youtube.com/channel/UCxbWGz6h6KNQsi2ughRUV2Q)
 - [The Magento 2 Beginner Tutorial Class](https://www.youtube.com/playlist?list=PLtaXuX0nEZk9eL59JGE3ny-_GAU-z5X5D&utm_content=buffer797bf&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) - Free YouTube Series for learning Magento 2.
 - [Vinai Kopp Mage2Katas](https://www.youtube.com/channel/UCRFDWo7jTlrpEsJxzc7WyPw)
-- [Mage2.tv](https://mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
+- [Mage2.tv](http://mage2.tv) - Magento 2 Developer Screencasts by Vinai Kopp
 - [Nomad Mage](https://nomadmage.com/) - virtual user group for Magento developers, monthly meetings
 
 ---
@@ -259,7 +260,7 @@ title: Awesome Rank for DavidLambauer/awesome-magento2
 - [Mage Inferno](https://mageinferno.com/)
 - [Modulwerft](https://www.modulwerft.com/)
 - [Paradox Labs](https://www.paradoxlabs.com/)
-- [The Extension Lab](https://www.theextensionlab.com/)
+- [The Extension Lab](https://github.com/theextensionlab/)
 - [Sweet Tooth](https://www.sweettoothrewards.com/)
 - [Rocket Web](http://rocketweb.com/)
 - [ProxiBlue](https://www.proxiblue.com.au/)

@@ -79,18 +79,22 @@ Table of Contents
 * [Claudia Bot Builder ★1270](https://github.com/claudiajs/claudia-bot-builder) - Create chat bots for FB, Slack, Skype and Telegram and deploy to AWS Lambda in minutes.
 * [Universal Bot Framework](https://bitbucket.org/phips28/universal-bot-framework/overview) - Create crossplatform chat bots for FB Messenger, Kik, Telegram and Skype with just one logic.
 * [Pandorabots](http://www.pandorabots.com/) - web service for building and deploying chatbots.
+* [Bottender ★1672](https://github.com/Yoctol/bottender) - Make Bots in Your Way, Fast and Flexibly.
 
 ### Facebook Messenger
+* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-messenger)
 * [Go ★224](https://github.com/paked/messenger)
 
 ### Slack
 * [Node.js (Official)](https://github.com/slackhq/node-slack-sdk)
+* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-slack)
 * [Python (Official)](https://github.com/slackhq/python-slackclient)
 * [Relax (scalable RTM library to scale to 1000's of teams) ★149](https://github.com/zerobotlabs/relax)
 
 ### Telegram
 * [Node.js ★2087](https://github.com/yagop/node-telegram-bot-api)
 * [Node.js ★617](https://github.com/telegraf/telegraf)
+* [Node.js](https://github.com/Yoctol/messaging-apis/tree/master/packages/messaging-api-telegram)
 * [PHP ★913](https://github.com/irazasyed/telegram-bot-sdk)
 * [Python ★3345](https://github.com/python-telegram-bot/python-telegram-bot)
 * [C#](https://github.com/MrRoundRobin/telegram.bot)
