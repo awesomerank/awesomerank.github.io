@@ -75,7 +75,7 @@ Listing of libraries of **[user defined functions](https://en.wikipedia.org/wiki
 - [SAPWizard (by ozmike)](https://www.autoitscript.com/forum/index.php?showtopic=149540) - SAPWizard UDF.
 - [Service (by arcker)](https://www.autoitscript.com/forum/index.php?showtopic=80201) - Build your own service with AutoIt code.
 - [WiFi (by MattyD)](https://www.autoitscript.com/forum/index.php?showtopic=91018) - Low level control over your wireless LAN.
-- [AutoItMonkey ★7](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
+- [AutoItMonkey ★7 ⏳1Y](https://github.com/ohtejera/AutoItMonkey) - The AutoItMonkey is an UDF that runs on your Android emulator or device and generates pseudo-random streams of user events such as clicks, touches, or gestures, as well as a number of system-level events.
 - [ImperiusAutoIt](https://ohtejera.github.io/ImperiusAutoIt/) - Imperius AutoIt is an [ImperiusGeorge ★9 ⏳3Y](https://github.com/lookout/ImperiusGeorge) client for mobile test automation that support native Android apps.
 
 #### Browsers

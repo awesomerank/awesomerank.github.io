@@ -1704,6 +1704,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [Golang Boston](https://www.meetup.com/bostongo/)
 * [Golang DC, Arlington, VA](https://www.meetup.com/Golang-DC/)
 * [Golang Israel](https://www.meetup.com/Go-Israel/)
+* [Golang Joinville - Brazil](https://www.meetup.com/Joinville-Go-Meetup/)
 * [Golang Lima - Peru](https://www.meetup.com/Golang-Peru/)
 * [Golang Lyon](https://www.meetup.com/Golang-Lyon/)
 * [Golang Melbourne](https://www.meetup.com/golang-mel/)

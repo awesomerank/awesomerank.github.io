@@ -1504,6 +1504,7 @@ the amazing Vue.js.
  - [vuejs-storage ★19](https://github.com/maple3142/vuejs-storage) - Vue.js and vuex plugin to persistence data with localStorage/sessionStorage.
  - [vuex-orm ★101](https://github.com/revolver-app/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
  - [object-to-vuex-store ★1](https://github.com/Raiondesu/object-to-vuex-store) - Convert any JS object into a valid vuex-store object.
+ - [vuex-async-module ★0](https://github.com/liqueflies/vuex-async-module) - Reduce async boilerplate code generating Vuex modules. Compatible with Vue 2.x.
 
 ###### Sync Between Tabs
 

@@ -43,7 +43,7 @@ title: Awesome Rank for matiassingers/awesome-slack
   - [Zephir](#zephir)
 
 ## Unofficial clients
-- Linux - [PlaidChat ★512](https://github.com/plaidchat/plaidchat)
+- Linux - [PlaidChat ★512 ⏳1Y](https://github.com/plaidchat/plaidchat)
 - Linux - [ScudCloud ★1191](https://github.com/raelgc/scudcloud)
 - Windows - [SlackUI ★92](https://github.com/rfgamaral/SlackUI)
 

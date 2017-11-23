@@ -617,7 +617,7 @@ Further resources:
   * [cunn ★164](https://github.com/torch/cunn) - Torch CUDA Neural Network Implementation.
   * [imgraph ★17](https://github.com/clementfarabet/lua---imgraph) - An image/graph library for Torch. This package provides routines to construct graphs on images, segment them, build trees out of them, and convert them back to images.
   * [videograph ★8 ⏳4Y](https://github.com/clementfarabet/videograph) - A video/graph library for Torch. This package provides routines to construct graphs on videos, segment them, build trees out of them, and convert them back to videos.
-  * [saliency ★3 ⏳3Y](https://github.com/marcoscoffier/torch-saliency) - code and tools around integral images. A library for finding interest points based on fast integral histograms.
+  * [saliency ★3 ⏳4Y](https://github.com/marcoscoffier/torch-saliency) - code and tools around integral images. A library for finding interest points based on fast integral histograms.
   * [stitch ★3 ⏳5Y](https://github.com/marcoscoffier/lua---stitch) - allows us to use hugin to stitch images and apply same stitching to a video sequence.
   * [sfm ★3 ⏳5Y](https://github.com/marcoscoffier/lua---sfm) - A bundle adjustment/structure from motion package.
   * [fex ★8 ⏳3Y](https://github.com/koraykv/fex) - A package for feature extraction in Torch. Provides SIFT and dSIFT modules.

@@ -241,6 +241,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [DropboxSimpleOAuth ★42](https://github.com/rbaumbach/DropboxSimpleOAuth) - A quick and simple way to authenticate a Dropbox user in your iPhone or iPad app.
 * [BoxSimpleOAuth ★15](https://github.com/rbaumbach/BoxSimpleOAuth) - A quick and simple way to authenticate a Box user in your iPhone or iPad app.
 * [InstagramLogin ★17](https://github.com/AnderGoig/InstagramLogin) - A simple way to authenticate Instagram accounts on iOS. :large_orange_diamond:
+* [ReCaptcha ★38](https://github.com/fjcaetano/ReCaptcha) - [In]visible ReCaptcha for iOS. :large_orange_diamond:
 
 ## Bridging
 * [RubyMotion](http://www.rubymotion.com/) - RubyMotion is a revolutionary toolchain that lets you quickly develop and test native iOS and macOS applications for iPhone, iPad and Mac, all using the Ruby language.
@@ -881,6 +882,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [LetterAvatarKit ★38](https://github.com/vpeschenkov/LetterAvatarKit) - A UIImage extension that generates letter-based avatars written in Swift. :large_orange_diamond:
 * [AXPhotoViewer ★217](https://github.com/alexhillc/AXPhotoViewer) - An iPhone/iPad photo gallery viewer, useful for viewing a large (or small!) number of photos :large_orange_diamond:
 * [TJProfileImage ★27](https://github.com/tejas-ardeshna/TJProfileImage) - Live rendering of componet’s properties in Interface Builder. :large_orange_diamond:
+* [Viewer ★292](https://github.com/bakkenbaeck/Viewer) - Image viewer (or Lightbox) with support for local and remote videos and images :large_orange_diamond:
 
 #### Media Processing
 * [SwiftOCR ★2869](https://github.com/garnele007/SwiftOCR) - Fast and simple OCR library written in Swift :large_orange_diamond:
@@ -1803,6 +1805,7 @@ Most of these are paid services, some have free tiers.
 * [Transition ★1781](https://github.com/Touchwonders/Transition) - Easy interactive interruptible custom ViewController transitions. :large_orange_diamond:
 * [Gagat ★723](https://github.com/Boerworz/Gagat) - A delightful way to transition between visual styles in your iOS applications. :large_orange_diamond:
 * [DeckTransition ★1543](https://github.com/HarshilShah/DeckTransition) - A library to recreate the iOS Apple Music now playing transition :large_orange_diamond:
+* [TransitionableTab ★216](https://github.com/Interactive-Studio/TransitionableTab) - TransitionableTab makes it easy to animate when switching between tab :large_orange_diamond:
 
 #### Alert & Action Sheet
 
@@ -2202,7 +2205,6 @@ Most of these are paid services, some have free tiers.
 * [MEVFloatingButton ★278](https://github.com/manuelescrig/MEVFloatingButton) - An iOS drop-in UITableView, UICollectionView and UIScrollView superclass category for showing a customizable floating button on top of it.
 * [AMWaveTransition ★2338](https://github.com/andreamazz/AMWaveTransition) - Custom transition between viewcontrollers holding tableviews.
 * [Dwifft ★1415](https://github.com/jflinter/Dwifft) - Swift Diff :large_orange_diamond:
-* [CollapsableTable ★198](https://github.com/rob-nash/CollapsableTable) - A kit for building tableviews with a collapsable animation, for each section.
 * [AEAccordion ★161](https://github.com/tadija/AEAccordion) - UITableViewController with accordion effect (expand / collapse cells). :large_orange_diamond:
 * [SWTableViewCell ★6939](https://github.com/CEWendel/SWTableViewCell) - An easy-to-use UITableViewCell subclass that implements a swippable content view which exposes utility buttons (similar to iOS 7 Mail Application)
 * [ZYThumbnailTableView ★892](https://github.com/liuzhiyi1992/ZYThumbnailTableView) - a TableView have thumbnail cell only, and you can use gesture let it expands other expansionView, all diy :large_orange_diamond:
@@ -2222,7 +2224,6 @@ Most of these are paid services, some have free tiers.
 * [Sapporo ★231 ⏳1Y](https://github.com/nghialv/Sapporo) - Cellmodel-driven collectionview manager :large_orange_diamond:
 * [MYTableViewIndex ★315](https://github.com/mindz-eye/MYTableViewIndex) - A pixel perfect replacement for UITableView section index, written in Swift :large_orange_diamond:
 * [RAReorderableLayout ★786](https://github.com/ra1028/RAReorderableLayout) - A UICollectionView layout which can move item with drag and drop.
-* [PageFeedControl ★29](https://github.com/rob-nash/PageFeedControl) - Add paging to your table views with a cool animation.
 * [StickyCollectionView-Swift ★205](https://github.com/matbeich/StickyCollectionView-Swift) - UICollectionView layout for presenting of the overlapping cells. :large_orange_diamond:
 * [ios-dragable-table-cells ★38](https://github.com/palmin/ios-dragable-table-cells) - Support for drag-n-drop of UITableViewCells in a navigation hierarchy of view controllers. You drag cells by tapping and holding them.
 * [TLLayoutTransitioning ★330](https://github.com/SwiftKickMobile/TLLayoutTransitioning) - Enhanced transitioning between UICollectionView layouts in iOS.
@@ -2261,7 +2262,6 @@ Most of these are paid services, some have free tiers.
 * [PJFDataSource ★82](https://github.com/square/PJFDataSource) - PJFDataSource is a small library that provides a simple, clean architecture for your app to manage its data sources while providing a consistent user interface for common content states (i.e. loading, loaded, empty, and error).
 * [HGPlaceholders ★910](https://github.com/HamzaGhazouani/HGPlaceholders) - Nice library to show and create placeholders and Empty States for any UITableView/UICollectionView in your project 🔶
 * [CollapsibleTableSectionViewController ★54](https://github.com/jeantimex/CollapsibleTableSectionViewController) - A swift library to support collapsible sections in a table view. :large_orange_diamond:
-* [CollapsibleTable ★25](https://github.com/rob-nash/CollapsibleTable) - Collapsable table view sections with custom section header views. 🔶
 * [ExpandableCell ★180](https://github.com/younatics/ExpandableCell) - Fully refactored YNExapnadableCell with more concise, bug free. Awesome expandable, collapsible tableview cell for iOS written in Swift 3 🔶
 * [DataSources ★315](https://github.com/muukii/DataSources) - Type-safe data-driven List-UI Framework. (We can also use ASCollectionNode) 🔶
 * [KDDragAndDropCollectionView ★252](https://github.com/mmick66/KDDragAndDropCollectionView) - Dragging & Dropping data across multiple UICollectionViews. 🔶

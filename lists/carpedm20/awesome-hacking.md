@@ -35,6 +35,7 @@ For a list of free hacking books available for download, go [here ★1061](https
 - [Network](#network)
     - [Tutorials](#network-tutorials)
     - [Tools](#network-tools)
+- [BugBounty](#bugbounty)
 - [Forensic](#forensic)
     - [Tutorials](#forensic-tutorials)
     - [Tools](#forensic-tools)
@@ -145,6 +146,9 @@ For a list of free hacking books available for download, go [here ★1061](https
  * [Charles Proxy](https://charlesproxy.com) - A cross-platform GUI web debugging proxy to view intercepted HTTP and HTTPS/SSL live traffic
  * [Nipe ★244](https://github.com/GouveaHeitor/nipe) - A script to make Tor Network your default gateway. 
  * [Habu ★79](https://github.com/portantier/habu) - Python Network Hacking Toolkit
+ * [Wifi Jammer](https://n0where.net/wifijammer/) - Free program to jam all wifi clients in range
+ * [Firesheep](https://codebutler.github.io/firesheep/) - Free program for HTTP session hijacking attacks.
+ * [Scapy ★1629](https://github.com/secdev/scapy) - A Python tool and library for low level packet creation and maniputalion
 
 
 # Forensic
@@ -193,6 +197,8 @@ For a list of free hacking books available for download, go [here ★1061](https
 ## Cryptography
  * [OverTheWire - Krypton](http://overthewire.org/wargames/krypton/)
 
+## Bug bounty
+  * [Awsome bug bounty resourses by Edoverflow ★411](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 # CTF
 

@@ -1150,7 +1150,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWS Serverless SoundCloud ★3 ⏳1Y](https://github.com/trunghieu138/aws-serverless-soundcloud) - Get artists tracks from SoundCloud.
 - [PhantomJS Lambda pack ★50 ⏳1Y](https://github.com/justengland/phantomjs-lambda-pack) - PhantomJS wrapper for AWS Lambda.
 - [Garden Aid](https://github.com/garden-aid) - Serverless IoT project to track gardening related data.
-- [Serverless Cloud Vision ★20](https://github.com/ramhiser/serverless-cloud-vision) - A project which uses Google Cloud Vision together with the Serverless framework.
+- [Serverless Cloud Vision ★20 ⏳1Y](https://github.com/ramhiser/serverless-cloud-vision) - A project which uses Google Cloud Vision together with the Serverless framework.
 - [Wolfram Lambda](https://bitbucket.org/pstreule/wolfram-lambda) - HipChat Chatbot which integrates with WolframAlpha.
 - [Yith](https://github.com/craftship/yith) - Serverless private npm registry.
 - [Trevorbot ★12](https://github.com/conveyal/trevorbot) - Slackbot which will say you where Trevor is.
