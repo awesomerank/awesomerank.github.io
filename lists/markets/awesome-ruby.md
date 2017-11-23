@@ -186,7 +186,7 @@ Thanks to all [contributors](https://github.com/markets/awesome-ruby/graphs/cont
 * [Asset Sync ★1648](https://github.com/AssetSync/asset_sync) - Synchronises Assets between Rails and S3.
 * [Autoprefixer ★1050](https://github.com/ai/autoprefixer-rails) - Parse CSS and add vendor prefixes to rules by Can I Use.
 * [Bourbon ★8372](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set.
-* [bower-rails ★1525](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
+* [bower-rails ★1525 ⏳1Y](https://github.com/rharriso/bower-rails) - Bower support for Rails projects.
 * [Emoji ★415 ⏳1Y](https://github.com/wpeterson/emoji) - Exposes the Phantom Open Emoji library unicode/image assets and APIs for working with them.
 * [Less Rails ★347](https://github.com/metaskills/less-rails) - The dynamic stylesheet language for the Rails asset pipeline.
 * [Less ★117](https://github.com/cowboyd/less.rb) - Leaner CSS, in your browser or Ruby.

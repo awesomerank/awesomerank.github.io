@@ -65,7 +65,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Next News ★390](https://github.com/now-examples/next-news) - HackerNews written in Next.js.
 * [Password ★65](https://github.com/dotcypress/password) - One password, right way.
 * [Next Todos ★91](https://github.com/lipp/next-todos) - Todo list written in Next.js.
-* [Hacker News ★35](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
+* [Hacker News ★35 ⏳1Y](https://github.com/lipp/hackernews) - Another Hacker News written in Next.js.
 * [Jet Chat ★0](https://github.com/lipp/jet-chat) - Jet and Next.js powered Chat demo.
 * [Nextgram ★10](https://github.com/arunoda/nextgram) - Sample Next.js v2 app for showing off its capabilities.
 * [Rauchg Blog ★223](https://github.com/rauchg/blog) - Blog built by a Next.js core maintainer.
