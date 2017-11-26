@@ -457,7 +457,7 @@ A curated list of Microservice Architecture related principles and technologies.
 - [Kryo ★2931](https://github.com/EsotericSoftware/kryo) - Java serialization and cloning: fast, efficient, automatic.
 - [MessagePack](http://msgpack.org/) - Efficient binary serialization format.
 - [Protostuff](http://www.protostuff.io/) - A serialization library with built-in support for forward-backward compatibility (schema evolution) and validation.
-- [SBinary ★78 ⏳1Y](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
+- [SBinary ★78 ⏳2Y](https://github.com/harrah/sbinary) - Library for describing binary formats for Scala types.
 - [Thrift](http://thrift.apache.org/) - The Apache Thrift software framework, for scalable cross-language services development.
 
 ### Storage

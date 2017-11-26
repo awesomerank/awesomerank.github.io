@@ -244,7 +244,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Preact ★133](lists/ooade/awesome-preact.md) - App framework.
 - [Progressive Enhancement ★30](lists/jbmoelker/progressive-enhancement-resources.md)
 - [Next.js ★551](lists/unicodeveloper/awesome-nextjs.md) - Framework for server-rendered React apps.
-- [Hyperapp ★80](lists/hyperapp/awesome-hyperapp.md) - Tiny JavaScript library for building web apps.
+- [Hyperapp](https://github.com/hyperapp/awesome-hyperapp) - Tiny JavaScript library for building web apps.
 
 
 ## Back-End Development

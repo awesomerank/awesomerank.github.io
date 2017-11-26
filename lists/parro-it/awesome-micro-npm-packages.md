@@ -114,7 +114,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [is-number ★28](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
 
 ### Stream
-* [through2 ★1231](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
+* [through2 ★1231 ⏳1Y](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
 * [through2-filter ★21 ⏳2Y](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
 * [through2-map ★56 ⏳1Y](https://github.com/brycebaril/through2-map) - A through2 to create an Array.prototype.map analog for streams.
 * [stream-spigot ★15](https://github.com/brycebaril/node-stream-spigot) - A readable stream generator, useful for testing or converting simple functions into Readable streams.

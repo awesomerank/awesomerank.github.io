@@ -348,7 +348,7 @@ Code
 
 ### AI
 
-* :tada: [Fluent Behaviour Tree ★132](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
+* :tada: [Fluent Behaviour Tree ★132 ⏳1Y](https://github.com/codecapers/Fluent-Behaviour-Tree) - C# behaviour tree library with a fluent API released under MIT.
 * :tada: [SimpleAI ★97](https://github.com/mgerhardy/simpleai) - C++11 behaviour tree based library with a QT5 based remote debugger (and with optional LUA bindings) released under MIT.
 
 

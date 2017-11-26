@@ -36,7 +36,7 @@ Functional programming is a [style of programming](https://wiki.haskell.org/Func
 * [lodash/fp](https://github.com/lodash/lodash/wiki/FP-Guide) – An instance of [Lodash ★27643](https://github.com/lodash/lodash) with its methods wrapped to produce immutable, auto-curried, iteratee-first, data-last methods.
 * [functional.js](http://functionaljs.com) – A lightweight functional JavaScript library that facilitates currying and point-free / tacit programming.
 * [101 ★1504](https://github.com/tjmehta/101) – A modern and modular JavaScript utility library made to work well with vanilla JavaScript methods.
-* [fnuc ★15 ⏳1Y](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
+* [fnuc ★15 ⏳2Y](https://github.com/algesten/fnuc) – A functional library for CoffeeScript (and JavaScript) to facilitate functional composition and higher order functions.
 * [barely-functional ★59](https://github.com/cullophid/barely-functional) – A tiny (2.7kb) functional programming library using native ES5/6 operations.
 * [bluebird-promisell ★43](https://github.com/zhangchiqing/bluebird-promisell) - A practical functional programming library for promises.
 * [prelude.ls](http://gkz.github.io/prelude-ls/) – A functionally oriented utility library somewhat based off of Haskell's Prelude module.

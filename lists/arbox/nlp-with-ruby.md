@@ -211,7 +211,7 @@ are often collected in dictionaries.
 
 ### Phrasal Level Processing
 
-- [n_gram ★33 ⏳7Y](https://github.com/reddavis/N-Gram) -
+- [n_gram ★33 ⏳8Y](https://github.com/reddavis/N-Gram) -
   N-Gram generator.
 - [ruby-ngram ★8 ⏳4Y](https://github.com/tkellen/ruby-ngram) -
   Break words and phrases into ngrams.

@@ -246,7 +246,7 @@ A categorized community-driven collection of high-quality, awesome [LÖVE](http:
 * [LoveFrames Fork](https://github.com/unek/LoveFrames/commits/master) - 0.10 Fork of a GUI library
 * [Love Imgui ★113](https://github.com/slages/love-imgui) - imgui module for the LÖVE game engine
 * [Löve-Nuklear ★96](https://github.com/keharriso/love-nuklear) - Lightweight immediate mode GUI for LÖVE games
-* [Patchy ★16 ⏳1Y](https://github.com/excessive/patchy) - 9patch library
+* [Patchy ★16 ⏳2Y](https://github.com/excessive/patchy) - 9patch library
 * [Polywell](https://gitlab.com/technomancy/polywell) - A highly-configurable text editor / coding tool written in Lua that runs on the LÖVE game engine.
 * [SafeWord ★1 ⏳2Y](https://github.com/josefnpat/safeword) - An overscan detection library for LÖVE
 * [SUIT ★235](https://github.com/vrld/SUIT) - small immediate mode GUI library

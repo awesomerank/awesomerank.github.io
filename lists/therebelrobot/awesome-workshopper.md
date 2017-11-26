@@ -60,7 +60,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [mongoose-adventure ★4 ⏳4Y](https://github.com/wearefractal/mongoose-adventure) | Introduction to Mongoose |
 | [node-debug-school ★37 ⏳2Y](https://github.com/joyent/node-debug-school) | nodeschool curriculum for debugging Node.js |
 | [nodebot-workshop ★171](https://github.com/tableflip/nodebot-workshop) | Arduino / Johnny-five (robotics) |
-| [nodenext ★0 ⏳3Y](https://github.com/geek/nodenext) | Learn about the next version of node |
+| [nodenext ★0 ⏳4Y](https://github.com/geek/nodenext) | Learn about the next version of node |
 | [npm-tutor ★22 ⏳3Y](https://github.com/timoxley/npm-tutor) | npm tutor for nodeconf 2014 |
 | [oobootcamp ★6 ⏳3Y](https://github.com/winsonwq/OOBootcamp.js) | Object-Oriented JavaScript Bootcamp |
 | [planetproto ★200](https://github.com/sporto/planetproto) | Understanding JavaScript Prototypes |

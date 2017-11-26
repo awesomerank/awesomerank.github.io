@@ -1074,7 +1074,7 @@ Best suited for map-reduce or e.g. parallel downloads/uploads.
 * Frameworks
   * [RSpec ★2083](https://github.com/rspec/rspec) - Behaviour Driven Development for Ruby.
     * Formatters
-      * [Emoji-RSpec ★170 ⏳3Y](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec.
+      * [Emoji-RSpec ★170 ⏳4Y](https://github.com/cupakromer/emoji-rspec) - Custom Emoji Formatters for RSpec.
       * [Fuubar ★706 ⏳1Y](https://github.com/thekompanee/fuubar) - The instafailing RSpec progress bar formatter.
       * [Nyan Cat ★656](https://github.com/mattsears/nyan-cat-formatter) - Nyan Cat inspired RSpec formatter!
   * [Aruba ★792](https://github.com/cucumber/aruba) - Testing command line applications with cucumber and rspec.

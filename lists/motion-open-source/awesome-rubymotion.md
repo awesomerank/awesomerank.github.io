@@ -278,7 +278,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 
 #### Menu's & Toolbars
-* [MenuMotion ★44 ⏳2Y](https://github.com/codelation/menu-motion) - RubyMotion wrapper for creating macOS menus.
+* [MenuMotion ★44 ⏳3Y](https://github.com/codelation/menu-motion) - RubyMotion wrapper for creating macOS menus.
 * [Better_toolbar ★7 ⏳3Y](https://github.com/FluffyJack/better_toolbars) - Better way to work with toolbars.
 * [EverydayMenu ★11](https://github.com/henderea/everyday-menu) - Easy way to define menu items and visually lay out menus for your macOS apps.
 * [StatusBar ★16 ⏳4Y](https://github.com/holgersindbaek/status_bar) - Notifications for the statusbar.

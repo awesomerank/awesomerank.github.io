@@ -133,7 +133,7 @@ The aim of this repository is to create a comprehensive, curated list of python 
 * [beets](http://beets.io/) [:octocat: ★6302](https://github.com/beetbox/beets) [:package:](https://pypi.python.org/pypi/beets) - Music library manager and [MusicBrainz](https://musicbrainz.org/) tagger.
 * [dsdtools](http://dsdtools.readthedocs.io) [:octocat: ★14](https://github.com/faroit/dsdtools) [:package:](https://pypi.python.org/pypi/dsdtools) - Parse and process the [demixing secrets dataset](http://sisec17.audiolabs-erlangen.de/#/dataset).
 * [medleydb](http://medleydb.readthedocs.io) [:octocat: ★38](https://github.com/marl/medleydb) - Parse [medleydb](http://medleydb.weebly.com/) audio + annotations.
-* [Soundcloud API](https://github.com/soundcloud/soundcloud-python) [:octocat: ★449](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) - Wrapper for [Soundcloud API](https://developers.soundcloud.com/).
+* [Soundcloud API](https://github.com/soundcloud/soundcloud-python) [:octocat: ★449 ⏳1Y](https://github.com/soundcloud/soundcloud-python) [:package:](https://pypi.python.org/pypi/soundcloud) - Wrapper for [Soundcloud API](https://developers.soundcloud.com/).
 * [Youtube-Downloader](http://rg3.github.io/youtube-dl/) [:octocat: ★31060](https://github.com/rg3/youtube-dl) [:package:](https://pypi.python.org/pypi/youtube_dl) - Download youtube videos (and the audio).
 
 #### Wrappers for Audio Plugins

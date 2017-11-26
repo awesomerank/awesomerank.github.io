@@ -155,7 +155,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [indifferent ★6](https://github.com/vic/indifferent) - Indifferent access for Elixir maps/list/tuples with custom key conversion.
 * [isaac ★2 ⏳2Y](https://github.com/arianvp/elixir-isaac) - Isaac is an elixir module for ISAAC: a fast cryptographic random number generator.
 * [key2value ★4](https://github.com/okeuday/key2value) - Erlang 2-way Set Associative Map.
-* [lfsr ★4](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
+* [lfsr ★4 ⏳1Y](https://github.com/pma/lfsr) - Elixir implementation of a binary Galois Linear Feedback Shift Register.
 * [loom ★152](https://github.com/asonge/loom) - A CRDT library with δ-CRDT support.
 * [luhn ★8](https://github.com/ma2gedev/luhn_ex) - Luhn algorithm in Elixir.
 * [lz4 ★43](https://github.com/szktty/erlang-lz4) - LZ4 bindings for Erlang for fast data compressing.
@@ -311,7 +311,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dismake ★3 ⏳2Y](https://github.com/jarednorman/dismake) - Mix compiler running make.
 * [etude ★10 ⏳1Y](https://github.com/exstruct/etude) - Parallel computation coordination compiler for Erlang/Elixir.
 * [ExMake ★16 ⏳3Y](https://github.com/lycus/exmake) - A modern, scriptable, dependency-based build tool loosely based on Make principles.
-* [Exscript ★5](https://github.com/liveforeverx/exscript) - Elixir escript library.
+* [Exscript ★5 ⏳1Y](https://github.com/liveforeverx/exscript) - Elixir escript library.
 * [mad ★121](https://github.com/synrc/mad) - Small and Fast Rebar Replacement.
 * [pc ★27](https://github.com/blt/port_compiler) - A rebar3 port compiler.
 * [reaxt](https://github.com/awetzel/reaxt) - React template into your Elixir application for server rendering.
@@ -341,7 +341,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [elixir_locker ★12 ⏳2Y](https://github.com/tsharju/elixir_locker) - Locker is an Elixir wrapper for the locker Erlang library that provides some useful libraries that should make using locker a bit easier.
 * [jc ★14](https://github.com/jr0senblum/jc) - In-memory, distributable cache with pub/sub, JSON-query and consistency support.
 * [locker ★132 ⏳1Y](https://github.com/wooga/locker) - Atomic distributed "check and set" for short-lived keys.
-* [lru_cache ★17](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
+* [lru_cache ★17 ⏳1Y](https://github.com/arago/lru_cache) - Simple LRU Cache, implemented with ets.
 * [stash](https://github.com/zackehh/stash) - A straightforward, fast, and user-friendly key/value store.
 
 ## Chatting
@@ -1043,7 +1043,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [erlastic_search ★117](https://github.com/tsloughter/erlastic_search) - An Erlang app for communicating with Elastic Search's rest interface.
 * [esqlite ★48](https://github.com/mmzeeman/esqlite) - Erlang NIF for sqlite.
 * [eternal](https://github.com/zackehh/eternal) - Keep your ETS tables alive forever, safely and easily.
-* [ets_map ★6 ⏳1Y](https://github.com/antipax/ets_map) - An Elixir package that provides a Map-like interface (Map/Access/Enumerable/Collectable) backed by an ETS table.
+* [ets_map ★6 ⏳2Y](https://github.com/antipax/ets_map) - An Elixir package that provides a Map-like interface (Map/Access/Enumerable/Collectable) backed by an ETS table.
 * [eventstore](https://github.com/slashdotdash/eventstore) - A CQRS EventStore using Postgres for persistence, written in Elixir.
 * [ex_bitcask ★9 ⏳2Y](https://github.com/JonGretar/ExBitcask) - Elixir wrapper of Basho's Bitcask Key/Value store.
 * [ex_sider ★5 ⏳1Y](https://github.com/ephe-meral/ex_sider) - Elixir Map/List/Set interfaces for Redis data structures (uses Redix, but that is configurable).
@@ -1306,7 +1306,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ex_uc ★8](https://github.com/carturoch/ex_uc) - Extensible Units Converter for Elixir.
 * [exmoji ★54](https://github.com/mroth/exmoji) - Emoji encoding Swiss Army knife for Elixir/Erlang.
 * [expletive ★18](https://github.com/xavier/expletive) - Profanity filter library for Elixir.
-* [expr ★6](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
+* [expr ★6 ⏳1Y](https://github.com/Rob-bie/Expr) - An Elixir library for parsing and evaluating mathematical expressions.
 * [faust ★21 ⏳1Y](https://github.com/jquadrin/faust) - Markov Text Generator for Elixir.
 * [haikunator ★18](https://github.com/knrz/Haikunator) - Generate Heroku-like memorable random names to use in your apps or anywhere else.
 * [hashids ★137](https://github.com/alco/hashids-elixir) - Hashids lets you obfuscate numerical identifiers via reversible mapping.
@@ -1358,7 +1358,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [asanaficator ★2 ⏳2Y](https://github.com/trenpixster/asanaficator) - Simple Elixir wrapper for the Asana API. Based on Tentacat.
 * [assembla_api ★0 ⏳1Y](https://github.com/Assembla/ex_assembla_api) - Assembla API client for Elixir.
 * [balalaika_bear ★3](https://github.com/ayrat555/balalaika_bear) - Simple VK API client for Elixir.
-* [balanced ★2 ⏳2Y](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
+* [balanced ★2 ⏳3Y](https://github.com/bryanjos/balanced-elixir) - Balanced API Client for Elixir.
 * [bandwidth](https://github.com/bandwidthcom/elixir-bandwidth) - An Elixir client library for the Bandwidth Application Platform.
 * [bing_translator ★6](https://github.com/ikeikeikeike/bing_translator) - A simple Elixir interface to Bing's translation API.
 * [bitpay ★22 ⏳2Y](https://github.com/bitpay/elixir-client) - Elixir core library for connecting to bitpay.com.

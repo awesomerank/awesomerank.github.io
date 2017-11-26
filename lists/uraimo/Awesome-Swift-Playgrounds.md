@@ -95,7 +95,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Swift DSL Example ★13](https://github.com/cfdrake/swift-dsl-example) - Implementation of a DSL in Swift.
 * [Katan ★13](https://github.com/marciok/katan) - A micro web server that replies "Hello world!" to every request, an example of how to use sockets in Swift.
 * [Swift Regular Expressions ★2](https://github.com/ogulcan/SwiftRegEx) - A playground to learn regular expressions with Swift.
-* [Network Stack ★1](https://github.com/AndrejKolar/NetworkStack) - Clean & simple Swift networking stack playground.
+* [Network Stack ★2](https://github.com/AndrejKolar/NetworkStack) - Clean & simple Swift networking stack playground.
 * [Swiftly Typed Resources ★73](https://github.com/jstart/Swiftly-Typed-Resources) - A playground showing how Swift makes Strings, Colors, Fonts, Images, etc easier to deal with. ⏳
 * [Swift KVO Closures ★10 ⏳3Y](https://github.com/rectalogic/KVOPlayground) - Swift KVO playground. ⏳ 
 * [Swift Date Tutorial ★7 ⏳1Y](https://github.com/liuyubobobo/Swift-NSDate-Tutorial) - Learn everythig about NSDate. ⏳ 
@@ -108,7 +108,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [iOS Design Patterns ★21](https://github.com/haxpor/ios-design-patterns) - Sample projects for MVC, MVP, MVVM, and VIPER.
 * [Design Patterns in Swift ★8747](https://github.com/ochococo/Design-Patterns-In-Swift) - Design patterns in Swift 3.
 * [GOF Swift ★13](https://github.com/SebastianBoldt/GOFSwift) - Learn all 23 Gang of Four patterns using Swift.
-* [The Principles of OOD in Swift 4 ★1246](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁
+* [The Principles of OOD in Swift 4 ★1264](https://github.com/ochococo/OOD-Principles-In-Swift) - The Principles of OOD based on Uncle Bob articles.🍁
 
 ### Protocol Oriented Programming
 
@@ -163,7 +163,7 @@ Apple's playgrounds distributed as zip archives have to be downloaded manually.
 * [Julia Fractal Playground ★182](https://github.com/gongzhang/julia-set-playground#julia-set-playground) - A Swift playground that generates beautiful Julia set fractal images. 
 * [A Star ★4](https://github.com/Dev1an/A-Star) - Protocol oriented A* pathfinding algorithm implementation in Swift 4.🍁
 * [Sorting Algorithms ★1](https://github.com/bwide/Sorting-Algorithms-Playground) - Live Visualization of some famous sorting algorithms and your experiments.
-* [Animated Sorting Algorithms ★2](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
+* [Animated Sorting Algorithms ★3](https://github.com/p-sun/Animated-Sorting-Algorithms) - Swift 4 playgrounds to view and manipulate sorting algorithms.🍁
 * [DataStructures Playground ★14 ⏳2Y](https://github.com/oliverfoggin/DataStructuresPlayground) - Data Structures and Algorithms in Swift. ⏳
 * [Swiftography ★8 ⏳1Y](https://github.com/sketchytech/Swiftography) - Standard cryptographic algorithms in a Swift Playground. ⏳
 * [Algorithms Playground ★3 ⏳2Y](https://github.com/ashokgelal/AlgorithmsPlayground) - Various algorithm implementation in Swift. ⏳

@@ -153,7 +153,7 @@ Neo4j graph database.
 
 # Benchmarking
 
-- [neoprofiler ★23 ⏳2Y](https://github.com/moxious/neoprofiler) - Neo4J database profiling utility.
+- [neoprofiler ★23 ⏳3Y](https://github.com/moxious/neoprofiler) - Neo4J database profiling utility.
 
 # Extensions
 

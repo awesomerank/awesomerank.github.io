@@ -51,7 +51,7 @@ Code meant become part of the extension.
 - [webext-options-sync ★14](https://github.com/bfred-it/webext-options-sync) - Helps you manage and autosave your extension's options.
 - [webext-inject-on-install ★1](https://github.com/bfred-it/webext-inject-on-install) - Automatically add content scripts to existing tabs when your extension is installed. Chrome + Firefox.
 - [redux-webext](https://github.com/ivantsov/redux-webext) - Uses [redux ★35718](https://github.com/reactjs/redux) for managing the state of your WebExtension
-- [mozilla/webextension-polyfill ★177](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
+- [mozilla/webextension-polyfill ★210](https://github.com/mozilla/webextension-polyfill) - Polyfill to support the standardized promise based API in the `browser` namespace.
 
 ## Tools
 
@@ -63,7 +63,7 @@ Apps that help you manage your extensions.
 - [chrome-ext-downloader ★16 ⏳2Y](https://github.com/jiripospisil/chrome-ext-downloader) - Download any extension on Chrome Web Store to see how they do it.
 - [unzip-crx ★9 ⏳1Y](https://github.com/peerigon/unzip-crx) - Unzips Google Chrome (crx) files.
 - [chrome-store-api ★9 ⏳1Y](https://github.com/acvetkov/chrome-store-api) - Chrome Web Store API wrapper.
-- [Chrome extension source viewer ★203](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
+- [Chrome extension source viewer ★210](https://github.com/Rob--W/crxviewer) - WebExtension to view source code of extensions directly on the store.
 
 ## Testing
 
@@ -84,7 +84,7 @@ These are simple and modern WebExtensions repositories that could help you figur
 - [npmhub ★298](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub ★180](https://github.com/sindresorhus/hide-files-on-github)
 - [Refined GitHub ★2817](https://github.com/sindresorhus/refined-github)
-- [mdn/webextension-examples ★784](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
+- [mdn/webextension-examples ★888](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.
 
 ## License
 

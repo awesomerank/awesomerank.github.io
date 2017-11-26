@@ -640,7 +640,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [bespoke.js ★4278](https://github.com/bespokejs/bespoke) - DIY Presentation Micro-Framework
 * [Strut ★1456](https://github.com/tantaman/Strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 * [PhotoSwipe ★15274](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent.
-* [jcSlider ★37 ⏳1Y](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
+* [jcSlider ★37 ⏳2Y](https://github.com/JoanClaret/jcSlider) - A responsive slider jQuery plugin with CSS animations.
 * [basic-jquery-slider ★569 ⏳2Y](https://github.com/jcobb/basic-jquery-slider) - Simple to use, simple to theme, simple to customise.
 * [jQuery.adaptive-slider ★51 ⏳3Y](https://github.com/creative-punch/jQuery.adaptive-slider) - A jQuery plugin for a slider with adaptive colored figcaption and navigation.
 * [slidr ★1498 ⏳2Y](https://github.com/bchanx/slidr) - add some slide effects.

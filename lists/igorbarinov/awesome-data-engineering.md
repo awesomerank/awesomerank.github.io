@@ -41,7 +41,7 @@ List of content
 	* [Redis](http://redis.io/) An open source, BSD licensed, advanced key-value cache and store.
 	* [Riak](https://docs.basho.com/riak/latest/) A distributed database designed to deliver maximum data availability by distributing data across multiple servers.
 	* [AWS DynamoDB](http://aws.amazon.com/dynamodb/) A fast and flexible NoSQL database service for all applications that need consistent, single-digit millisecond latency at any scale.
-	* [HyperDex ★1224](https://github.com/rescrv/HyperDex) HyperDex is a scalable, searchable key-value store
+	* [HyperDex ★1224 ⏳1Y](https://github.com/rescrv/HyperDex) HyperDex is a scalable, searchable key-value store
 	* [SSDB](http://ssdb.io) A high performance NoSQL database supporting many data structures, an alternative to Redis
 	* [Kyoto Tycoon](https://github.com/sapo/kyoto) Kyoto Tycoon is a lightweight network server on top of the Kyoto Cabinet key-value database, built for high-performance and concurrency
 	* [IonDB ★474](https://github.com/iondbproject/iondb) A key-value store for microcontroller and IoT applications

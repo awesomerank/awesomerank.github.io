@@ -101,6 +101,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
   - [[#appearance][Appearance]]
   - [[#theme][Theme]]
   - [[#multimedia][Multimedia]]
+  - [[#finance][Finance]]
   - [[#fun][Fun]]
   - [[#starter-kit][Starter Kit]]
   - [[#noteworthy-configurations][Noteworthy Configurations]]
@@ -156,6 +157,7 @@ Most of the following packages are available in [[https://github.com/melpa/melpa
    - [[https://github.com/ralesi/ranger.el][Ranger]] - [[http://ranger.nongnu.org/][ranger]] like file manager based on Dired.
    - [[https://github.com/escherdragon/sunrise-commander][Sunrise Commander]] - Twin-pane file manager for Emacs based on Dired and inspired by Midnight Commander.
    - [[https://github.com/Alexander-Miller/treemacs][Treemacs]] - a tree layout file explorer for Emacs.
+   - [[https://github.com/sebastiencs/sidebar.el][Sidebar.el]] - A customizable file explorer with git integration for emacs.
 
 ** Navigation
 
@@ -536,6 +538,7 @@ External Guides:
    - [[https://github.com/sshaw/git-link][git-link]] - Get the GitHub/Bitbucket/GitLab etc... URL for a buffer location.
    - [[https://github.com/ananthakumaran/monky][monky]] - An interactive interface for mercurial.
    - [[https://bitbucket.org/agriggio/ahg/][aHg]] - An Emacs front-end for the Mercurial SCM.
+   - [[https://github.com/jwiegley/git-undo-el][git-undo]] - A command for Emacs to regress or "undo" a region back through its Git history.
 
 ** Integration
 
@@ -752,6 +755,10 @@ External Guides:
    - [[https://github.com/dbrock/bongo/][Bongo]] - A flexible and usable media player for GNU Emacs.
    - [[https://github.com/nlamirault/dionysos][Dionysos]] - A simple music player for Emacs.
    - [[https://github.com/pft/mingus][Mingus]] - An Emacs front end to the Music Player Daemon with an interface that resembles ncmpc.
+
+** Finance
+
+   - [[https://github.com/NicolasPetton/elbank][Elbank]] - Personal finances application for Emacs.
 
 ** Fun
 

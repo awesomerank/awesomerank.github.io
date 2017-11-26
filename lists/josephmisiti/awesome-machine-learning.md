@@ -313,7 +313,7 @@ Further resources:
 #### Natural Language Processing
 
 * [go-porterstemmer ★138 ⏳1Y](https://github.com/reiver/go-porterstemmer) - A native Go clean room implementation of the Porter Stemming algorithm.
-* [paicehusk ★20 ⏳3Y](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
+* [paicehusk ★20 ⏳4Y](https://github.com/Rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
 * [snowball ★7](https://github.com/tebeka/snowball) - Snowball Stemmer for Go.
 * [go-ngram ★80 ⏳1Y](https://github.com/Lazin/go-ngram) - In-memory n-gram index with compression.
 * [word-embedding ★81](https://github.com/ynqa/word-embedding) - Word Embeddings: the full implementation of word2vec, GloVe in Go.
@@ -340,7 +340,7 @@ Further resources:
 * [go-graph ★79 ⏳2Y](https://github.com/StepLg/go-graph) - Graph library for Go/Golang language.
 * [SVGo](http://www.svgopen.org/2011/papers/34-SVGo_a_Go_Library_for_SVG_generation/) - The Go Language library for SVG generation.
 * [RF ★86 ⏳3Y](https://github.com/fxsjy/RF.go) - Random forests implementation in Go.
-* [Glot ★151](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot. 
+* [Glot ★161](https://github.com/arafatk/glot) - Glot is a plotting library for Golang built on top of gnuplot. 
 
 <a name="haskell"></a>
 ## Haskell
@@ -351,7 +351,7 @@ Further resources:
 * [HLearn ★1324 ⏳1Y](https://github.com/mikeizbicki/HLearn) - a suite of libraries for interpreting machine learning models according to their algebraic structure.
 * [hnn](https://wiki.haskell.org/HNN) - Haskell Neural Network library.
 * [hopfield-networks ★14 ⏳3Y](https://github.com/ajtulloch/hopfield-networks) - Hopfield Networks for unsupervised learning in Haskell.
-* [caffegraph ★626 ⏳1Y](https://github.com/ajtulloch/dnngraph) - A DSL for deep neural networks.
+* [caffegraph ★626 ⏳2Y](https://github.com/ajtulloch/dnngraph) - A DSL for deep neural networks.
 * [LambdaNet ★344 ⏳1Y](https://github.com/jbarrow/LambdaNet) - Configurable Neural Networks in Haskell.
 
 <a name="java"></a>
@@ -457,7 +457,7 @@ Further resources:
 * [D3xter ★346 ⏳1Y](https://github.com/NathanEpstein/D3xter) - Straight forward plotting built on D3.
 * [statkit ★42 ⏳3Y](https://github.com/rigtorp/statkit) - Statistics kit for JavaScript.
 * [datakit ★293](https://github.com/nathanepstein/datakit) - A lightweight framework for data analysis in JavaScript
-* [science.js ★756 ⏳1Y](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
+* [science.js ★756 ⏳2Y](https://github.com/jasondavies/science.js) - Scientific and statistical computing in JavaScript.
 * [Z3d ★88 ⏳2Y](https://github.com/NathanEpstein/Z3d) - Easily make interactive 3d plots built on Three.js
 * [Sigma.js](http://sigmajs.org/) - JavaScript library dedicated to graph drawing.
 * [C3.js](http://c3js.org/)- customizable library based on D3.js for easy chart drawing.
@@ -533,7 +533,7 @@ Further resources:
 * [Mamba ★139](https://github.com/brian-j-smith/Mamba.jl) - Markov chain Monte Carlo (MCMC) for Bayesian analysis in Julia.
 * [GLM ★150](https://github.com/JuliaStats/GLM.jl) - Generalized linear models in Julia.
 * [Gaussian Processes ★49](https://github.com/STOR-i/GaussianProcesses.jl) - Julia package for Gaussian processes.
-* [Online Learning ★12 ⏳2Y](https://github.com/lendle/OnlineLearning.jl)
+* [Online Learning ★12 ⏳3Y](https://github.com/lendle/OnlineLearning.jl)
 * [GLMNet](https://github.com/simonster/GLMNet.jl) - Julia wrapper for fitting Lasso/ElasticNet GLM models using glmnet.
 * [Clustering ★85](https://github.com/JuliaStats/Clustering.jl) - Basic functions for clustering data: k-means, dp-means, etc.
 * [SVM ★29 ⏳1Y](https://github.com/JuliaStats/SVM.jl) - SVM's for Julia.
@@ -902,7 +902,7 @@ be
 * [neuropredict ★19](https://github.com/raamana/neuropredict) - Aimed at novice machine learners and non-expert programmers, this package offers easy (no coding needed) and comprehensive machine learning (evaluation and full report of predictive performance WITHOUT requiring you to code) in Python for NeuroImaging and any other type of features. This is aimed at absorbing the much of the ML workflow, unlike other packages like nilearn and pymvpa, which require you to learn their API and code to produce anything useful.
 * [imbalanced-learn](http://contrib.scikit-learn.org/imbalanced-learn/) - Python module to perform under sampling and over sampling with various techniques.
 * [Shogun ★1655](https://github.com/shogun-toolbox/shogun) - The Shogun Machine Learning Toolbox.
-* [Pyevolve ★264](https://github.com/perone/Pyevolve) - Genetic algorithm framework.
+* [Pyevolve ★264 ⏳1Y](https://github.com/perone/Pyevolve) - Genetic algorithm framework.
 * [Caffe](http://caffe.berkeleyvision.org)  - A deep learning framework developed with cleanliness, readability, and speed in mind.
 * [breze ★90 ⏳1Y](https://github.com/breze-no-salt/breze) - Theano based library for deep and recurrent neural networks.
 * [pyhsmm ★319](https://github.com/mattjj/pyhsmm) - library for approximate unsupervised inference in Bayesian Hidden Markov Models (HMMs) and explicit-duration Hidden semi-Markov Models (HSMMs), focusing on the Bayesian Nonparametric extensions, the HDP-HMM and HDP-HSMM, mostly with weak-limit approximations.

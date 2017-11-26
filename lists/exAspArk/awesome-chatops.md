@@ -192,7 +192,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Let's chat
 
-* [Hubot](https://hubot.github.com/) + [adapter ★52 ⏳1Y](https://github.com/sdelements/hubot-lets-chat) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★52 ⏳2Y](https://github.com/sdelements/hubot-lets-chat) (CoffeeScript, Node.js)
 
 ### Lingr
 
@@ -250,7 +250,7 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Spark
 
-* [opsdroid](https://opsdroid.github.io/) + [connector ★0](https://github.com/opsdroid/connector-ciscospark) (Python)
+* [opsdroid](https://opsdroid.github.io/) + [connector ★1](https://github.com/opsdroid/connector-ciscospark) (Python)
 
 ### Talker
 

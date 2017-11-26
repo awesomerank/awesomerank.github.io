@@ -1124,7 +1124,7 @@ Most of these are paid services, some have free tiers.
 
 #### Other Parsing
 * [WKZombie ★878](https://github.com/mkoehnke/WKZombie) - WKZombie is a Swift framework for iOS/macOS to navigate within websites and collect data without the need of User Interface or API, also known as Headless browser. It can be used to run automated tests or manipulate websites using Javascript. :large_orange_diamond:
-* [URLPreview ★182](https://github.com/itsmeichigo/URLPreview) - An NSURL extension for showing preview info of webpages :large_orange_diamond:
+* [URLPreview ★182 ⏳1Y](https://github.com/itsmeichigo/URLPreview) - An NSURL extension for showing preview info of webpages :large_orange_diamond:
 * [FeedKit ★379](https://github.com/nmdias/FeedKit) - An RSS and Atom feed parser written in Swift :large_orange_diamond:
 * [Erik ★252](https://github.com/phimage/Erik) - Erik is an headless browser based on WebKit. An headless browser allow to run functional tests, to access and manipulate webpages using javascript. :large_orange_diamond:
 * [URLEmbeddedView ★425](https://github.com/marty-suzuki/URLEmbeddedView) - Automatically caches the object that is confirmed the Open Graph Protocol, and displays it as URL embedded card. :large_orange_diamond:
@@ -1214,7 +1214,7 @@ Most of these are paid services, some have free tiers.
 ## React-Like
 * [Render ★1652](https://github.com/alexdrone/Render) - Swift and UIKit a la React. :large_orange_diamond:
 * [Katana ★1624](https://github.com/BendingSpoons/katana-swift) - Swift apps a la React and Redux. :large_orange_diamond:
-* [TemplateKit ★126](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces in Swift. :large_orange_diamond:
+* [TemplateKit ★126 ⏳1Y](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces in Swift. :large_orange_diamond:
 * [Komponents 📦 ★146](https://github.com/freshOS/Komponents) - React-inspired UIKit Components. :large_orange_diamond:
 * [Reactant ★308](https://github.com/Brightify/Reactant) - Reactant is a reactive architecture for iOS :large_orange_diamond:
 
@@ -1393,7 +1393,7 @@ Most of these are paid services, some have free tiers.
 * [Reductio ★346](https://github.com/fdzsergio/Reductio) - Automatic summarizer text in Swift :large_orange_diamond:
 * [SmarkDown ★60 ⏳1Y](https://github.com/SwiftStudies/SmarkDown) - A Pure Swift implementation of the markdown mark-up language :large_orange_diamond:
 * [SwiftyMarkdown ★768](https://github.com/SimonFairbairn/SwiftyMarkdown) - Converts Markdown files and strings into NSAttributedString :large_orange_diamond:
-* [SZMentions ★8](https://github.com/szweier/SZMentions) - Library to help handle mentions
+* [SZMentions ★8 ⏳1Y](https://github.com/szweier/SZMentions) - Library to help handle mentions
 * [SZMentionsSwift ★28](https://github.com/szweier/SZMentionsSwift) - Library to help handle mentions.
 * [Heimdall ★293](https://github.com/henrinormak/Heimdall) - Heimdall is a wrapper around the Security framework for simple encryption/decryption operations. :large_orange_diamond:
 * [NoOptionalInterpolation ★41](https://github.com/T-Pham/NoOptionalInterpolation) - Get rid of "Optional(...)" and "nil" in string interpolation. Easy pluralization.🔶[e]
@@ -1853,7 +1853,7 @@ Most of these are paid services, some have free tiers.
 * [Hedwig ★16](https://github.com/dereklimbus/hedwig) - Interactive notification :large_orange_diamond:
 * [Jelly ★1426](https://github.com/SebastianBoldt/Jelly) - Jelly provides custom view controller transitions with just a few lines of code. :large_orange_diamond:
 * [Malert ★161](https://github.com/vitormesquita/Malert) - Malert is a simple, easy and custom iOS UIAlertView written in Swift 🔶
-* [RAlertView ★43](https://github.com/roycms/AlertView) - AlertView, iOS popup window, A pop-up framework, Can be simple and convenient to join your project.
+* [RAlertView ★43 ⏳1Y](https://github.com/roycms/AlertView) - AlertView, iOS popup window, A pop-up framework, Can be simple and convenient to join your project.
 * [NoticeBar ★226](https://github.com/qiuncheng/NoticeBar) - 😍A simple NoticeBar written by Swift 3, similar with QQ notice view. :large_orange_diamond:
 * [LIHAlert ★23](https://github.com/Lasithih/LIHAlert) - Advance animated banner alerts for iOS :large_orange_diamond:
 * [BPStatusBarAlert ★68](https://github.com/ppth0608/BPStatusBarAlert) - A simple alerts that appear on the status bar and below navigation bar(like Facebook).🔶
@@ -2075,7 +2075,7 @@ Most of these are paid services, some have free tiers.
 * [UzysAnimatedGifPullToRefresh ★1405 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) - Add PullToRefresh using animated GIF to any scrollView with just simple code
 * [PullToRefreshCoreText ★315 ⏳1Y](https://github.com/cemolcay/PullToRefreshCoreText) - PullToRefresh extension for all UIScrollView type classes with animated text drawing style
 * [BOZPongRefreshControl ★898 ⏳2Y](https://github.com/boztalay/BOZPongRefreshControl) - A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app
-* [CBStoreHouseRefreshControl ★3964](https://github.com/coolbeet/CBStoreHouseRefreshControl) - Fully customizable pull-to-refresh control inspired by Storehouse iOS app
+* [CBStoreHouseRefreshControl ★3964 ⏳1Y](https://github.com/coolbeet/CBStoreHouseRefreshControl) - Fully customizable pull-to-refresh control inspired by Storehouse iOS app
 * [SurfingRefreshControl ★49 ⏳1Y](https://github.com/peiweichen/SurfingRefreshControl) - Inspired by CBStoreHouseRefreshControl.Customizable pull-to-refresh control,written in pure Swift :large_orange_diamond:
 * [mntpulltoreact ★780 ⏳2Y](https://github.com/mentionapp/mntpulltoreact) - One gesture, many actions. An evolution of Pull to Refresh.
 * [ADChromePullToRefresh ★233](https://github.com/Antondomashnev/ADChromePullToRefresh) - Chrome iOS app style pull to refresh with multiple actions.
@@ -2147,7 +2147,7 @@ Most of these are paid services, some have free tiers.
 #### Switch
 * [AnimatedSwitch ★160](https://github.com/alsedi/AnimatedSwitch) - UISwitch which paints over the parent view with the color in Swift. :large_orange_diamond:
 * [ViralSwitch ★318](https://github.com/andreamazz/ViralSwitch) - A UISwitch that infects its superview with its tint color.
-* [JTMaterialSwitch ★234 ⏳1Y](https://github.com/JunichiT/JTMaterialSwitch) - A customizable switch UI with ripple effect and bounce animations, inspired from Google's Material Design.
+* [JTMaterialSwitch ★234 ⏳2Y](https://github.com/JunichiT/JTMaterialSwitch) - A customizable switch UI with ripple effect and bounce animations, inspired from Google's Material Design.
 * [TKSwitcherCollection ★505](https://github.com/TBXark/TKSwitcherCollection) - An animate switch collection :large_orange_diamond:
 * [SevenSwitch ★749](https://github.com/bvogelzang/SevenSwitch) - iOS7 style drop in replacement for UISwitch. :large_orange_diamond:
 * [DGRunkeeperSwitch ★1819](https://github.com/gontovnik/DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) :large_orange_diamond:
@@ -2382,14 +2382,14 @@ Most of these are paid services, some have free tiers.
  * [ReadabilityKit ★624](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift. 🔶
  * [MissionControl-iOS ★99 ⏳1Y](https://github.com/appculture/MissionControl-iOS) - Super powerful remote config utility written in Swift (iOS, watchOS, tvOS, macOS) :large_orange_diamond:
  * [SwiftTweaks ★972](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling! :large_orange_diamond:
- * [UnsupportedOSVersionAlert ★9](https://github.com/caloon/UnsupportedOSVersionAlert) - Alerts users with a popup if they use an app with an unsupported version of iOS (e.g. iOS betas) :large_orange_diamond:
+ * [UnsupportedOSVersionAlert ★9 ⏳1Y](https://github.com/caloon/UnsupportedOSVersionAlert) - Alerts users with a popup if they use an app with an unsupported version of iOS (e.g. iOS betas) :large_orange_diamond:
  * [SwiftRouter ★153](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS, written in Swift 3 :large_orange_diamond:
  * [SwiftSortUtils ★57](https://github.com/dsmatter/SwiftSortUtils) - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift. :large_orange_diamond:
  * [Retry ★432](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` . :large_orange_diamond:
  * [ObjectiveKit ★698](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions. :large_orange_diamond:
  * [MoyaSugar ★72](https://github.com/devxoul/MoyaSugar) -  Syntactic sugar for Moya. :large_orange_diamond:
  * [SwifterSwift ★4065](https://github.com/SwifterSwift/SwifterSwift) -  A handy collection of more than 400 native Swift 3 extensions to boost your productivity. :large_orange_diamond:
- * [Eject ★511](https://github.com/Raizlabs/Eject) - An eject button for Interface Builder to generate swift code. :large_orange_diamond:
+ * [Eject ★511 ⏳1Y](https://github.com/Raizlabs/Eject) - An eject button for Interface Builder to generate swift code. :large_orange_diamond:
  * [ContactsWrapper ★17](https://github.com/abdullahselek/ContactsWrapper) - Easy to use wrapper for both contacts and contacts group with Objective-C.
  * [XestiMonitors ★240](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework written in Swift :large_orange_diamond:
  * [OpenSourceController ★25](https://github.com/terflogag/OpenSourceController) - The simplest way to display the libraries licences used in your application. :large_orange_diamond:
@@ -2598,7 +2598,7 @@ Most of these are paid services, some have free tiers.
 
 #### Extensions (Xcode 8+)
 * [CleanClosureXcode ★149 ⏳1Y](https://github.com/BalestraPatrick/CleanClosureXcode) - An Xcode Source Editor extension to clean the closure syntax. :large_orange_diamond:
-* [xTextHandler ★1378](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension Toolset (Plugins for Xcode 8) :large_orange_diamond:
+* [xTextHandler ★1378 ⏳1Y](https://github.com/cyanzhong/xTextHandler) - Xcode Source Editor Extension Toolset (Plugins for Xcode 8) :large_orange_diamond:
 * [SwiftInitializerGenerator ★524](https://github.com/Bouke/SwiftInitializerGenerator) - Xcode 8 Source Code Extension to Generate Swift Initializers. :large_orange_diamond:
 * [XcodeEquatableGenerator ★166 ⏳1Y](https://github.com/sergdort/XcodeEquatableGenerator) - Xcode 8 Source Code Extension will generate conformance to Swift Equatable protocol based on type and fields selection. :large_orange_diamond:
 * [Import ★693](https://github.com/markohlebar/Import) - Xcode extension for adding imports from anywhere in the code. :large_orange_diamond:

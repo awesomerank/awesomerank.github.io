@@ -135,7 +135,7 @@ RefreshControls
 ===============
 Repo | Demo
 --- | ---
-[CBStoreHouseRefreshControl ★3964](https://github.com/coolbeet/CBStoreHouseRefreshControl) <br> [![](http://gh-btns.cjwirth.com/stars/coolbeet/CBStoreHouseRefreshControl)](https://github.com/coolbeet/CBStoreHouseRefreshControl/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/CBStoreHouseRefreshControl1.gif"> <img src="/assets/CBStoreHouseRefreshControl2.gif">
+[CBStoreHouseRefreshControl ★3964 ⏳1Y](https://github.com/coolbeet/CBStoreHouseRefreshControl) <br> [![](http://gh-btns.cjwirth.com/stars/coolbeet/CBStoreHouseRefreshControl)](https://github.com/coolbeet/CBStoreHouseRefreshControl/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/CBStoreHouseRefreshControl1.gif"> <img src="/assets/CBStoreHouseRefreshControl2.gif">
 [UzysAnimatedGifPullToRefresh ★1405 ⏳1Y](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) <br> [![](http://gh-btns.cjwirth.com/stars/uzysjung/UzysAnimatedGifPullToRefresh)](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/UzysAnimatedGifPullToRefresh1.gif">
 [BOZPongRefreshControl ★898 ⏳2Y](https://github.com/boztalay/BOZPongRefreshControl) <br> [![](http://gh-btns.cjwirth.com/stars/boztalay/BOZPongRefreshControl)](https://github.com/boztalay/BOZPongRefreshControl/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/BOZPongRefreshControl1.gif">
 [mntpulltoreact ★780 ⏳2Y](https://github.com/mentionapp/mntpulltoreact) <br> [![](http://gh-btns.cjwirth.com/stars/mentionapp/mntpulltoreact)](https://github.com/mentionapp/mntpulltoreact/stargazers) <br> Language: Obj-C <br> License: [Apache v2][Apache v2] | <img src="/assets/MNTPullToReact1.gif">
@@ -158,7 +158,7 @@ Tab Bars
 ========
 Repo | Demo
 --- | ---
-[MinimalTabBar ★146](https://github.com/jamesdunay/MinimalTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/jamesdunay/MinimalTabBar)](https://github.com/jamesdunay/MinimalTabBar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MinimalTabBar1.gif">
+[MinimalTabBar ★146 ⏳1Y](https://github.com/jamesdunay/MinimalTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/jamesdunay/MinimalTabBar)](https://github.com/jamesdunay/MinimalTabBar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/MinimalTabBar1.gif">
 [adaptive-tab-bar ★1781](https://github.com/Ramotion/adaptive-tab-bar) <br> [![](http://gh-btns.cjwirth.com/stars/Ramotion/adaptive-tab-bar)](https://github.com/Ramotion/adaptive-tab-bar/stargazers) <br> Language: Swift <br> License: [MIT][MIT] | <img src="/assets/adaptive-tab-bar1.png">
 [FoldingTabBar.iOS ★3382](https://github.com/Yalantis/FoldingTabBar.iOS) <br> [![](http://gh-btns.cjwirth.com/stars/Yalantis/FoldingTabBar.iOS)](https://github.com/Yalantis/FoldingTabBar.iOS/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/FoldingTabBar.iOS1.gif">
 [GGTabBar ★153](https://github.com/Goles/GGTabBar) <br> [![](http://gh-btns.cjwirth.com/stars/Goles/GGTabBar)](https://github.com/Goles/GGTabBar/stargazers) <br> Language: Obj-C <br> License: [MIT][MIT] | <img src="/assets/GGTabBar1.png">

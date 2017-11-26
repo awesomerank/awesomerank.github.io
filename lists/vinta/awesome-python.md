@@ -136,7 +136,7 @@ Inspired by [awesome-php ★17013](https://github.com/ziadoz/awesome-php).
 *Libraries for fighting spam.*
 
 * [django-simple-captcha ★587](https://github.com/mbi/django-simple-captcha) - A simple and highly customizable Django app to add captcha images to any Django form.
-* [django-simple-spam-blocker ★17 ⏳4Y](https://github.com/moqada/django-simple-spam-blocker) - Simple spam blocker for Django.
+* [django-simple-spam-blocker ★17 ⏳5Y](https://github.com/moqada/django-simple-spam-blocker) - Simple spam blocker for Django.
 
 ## Asset Management
 

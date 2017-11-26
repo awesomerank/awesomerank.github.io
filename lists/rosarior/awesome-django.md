@@ -244,7 +244,7 @@ Twitter feed: [twitter.com/AwesomeDjango](https://twitter.com/AwesomeDjango)
 * [django-bitfield ★290](https://github.com/disqus/django-bitfield) - A BitField extension for Django models.
 * [django-countries ★446](https://github.com/SmileyChris/django-countries) - Provides country choices for forms, flag icons, and a CountryField.
 * [django-enumfield ★108](https://github.com/5monkeys/django-enumfield) - Custom Django field for using enumerations of named constants.
-* [django-image-tools ★33 ⏳1Y](https://github.com/bonsaistudio/django-image-tools) - A package to handle images in Django.
+* [django-image-tools ★33 ⏳2Y](https://github.com/bonsaistudio/django-image-tools) - A package to handle images in Django.
 * [django-imagekit ★1264](https://github.com/matthewwithanm/django-imagekit) - Automated image processing for Django.
 * [django-jsonfield](https://pypi.python.org/pypi/django-jsonfield) - JSONField for Django models.
 * [django-location-field ★299](https://github.com/caioariede/django-location-field) - Location field and widget integrated with google maps.

@@ -152,7 +152,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [apollo-fetch ★337](https://github.com/apollographql/apollo-fetch) - Lightweight GraphQL client that supports custom fetch functions, middleware, and afterware
 * [Spikenail ★253](https://github.com/spikenail/spikenail) - Node.js framework for building GraphQL API almost without coding.
 * [graphql-lodash ★375](https://github.com/APIs-guru/graphql-lodash) - Data manipulation for GraphQL queries with lodash syntax.
-* [apollo-angular ★276](https://github.com/apollographql/apollo-angular) - Angular integration for Apollo.
+* [apollo-angular ★298](https://github.com/apollographql/apollo-angular) - Angular integration for Apollo.
 
 ##### Relay Related
 

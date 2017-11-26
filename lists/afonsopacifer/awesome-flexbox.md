@@ -189,7 +189,7 @@ Inspired by [awesome-webcomponents](https://github.com/obetomuniz/awesome-webcom
 * [Flexbox tester](http://madebymike.com.au/demos/flexbox-tester/) - Understand how to calculate the width of flex items.
 * [Flexbox layout ★9811](https://github.com/google/flexbox-layout) - FlexboxLayout is a library project which brings the similar capabilities of CSS Flexible Box Layout Module to Android.
 * [FlexLayout for iOS ★85](https://github.com/lucdion/FlexLayout) - FlexLayout brings flexbox to iOS using Swift. Concise, intuitive & chainable syntax.
-* [grid-styled ★844](https://github.com/jxnblk/grid-styled) - Flexbox based responsive ReactJS grid system built with styled-components
+* [grid-styled ★904](https://github.com/jxnblk/grid-styled) - Flexbox based responsive ReactJS grid system built with styled-components
 * [iron-flex-layout](https://www.webcomponents.org/element/PolymerElements/iron-flex-layout) - Style mixins for cross-platform flex-box layouts
 * [Post Apocalypse Flexbox ★27 ⏳1Y](https://github.com/afonsopacifer/post-apocalypse-flexbox)
 * [React-flexbox ★154](https://github.com/tcoopman/react-flexbox) - Implementation of css flexbox in react with inline styles.

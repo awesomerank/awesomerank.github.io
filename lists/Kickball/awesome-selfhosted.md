@@ -459,7 +459,7 @@ CMS are a practical way to setup a website with many features. CMS often come wi
   * [APIQ CMS](https://www.apiq.io/) - Simple and powerful Ruby on Rails CMS for developers. ([Demo](http://demo.apiq.io/), [Source Code ★280](https://github.com/apiqcms/kms)) `MIT` `Ruby`
   * [Apostrophe](http://apostrophecms.org/) - A node.js CMS with a focus on extensible in-context editing tools. ([Demo](http://demo.apostrophecms.org/), [Source Code ★1788](https://github.com/punkave/apostrophe)) `MIT` `Nodejs`
   * [Backdrop CMS](https://backdropcms.org/) - The comprehensive CMS for small to medium sized businesses and non-profits. ([Source Code ★626](https://github.com/backdrop/backdrop)) `GPLv2` `PHP`
-  * [Baun](https://bauncms.com/) - A modern, lightweight, extensible CMS for PHP. ([Source Code ★263](https://github.com/BaunCMS/Baun)) `MIT` `PHP`
+  * [Baun](https://bauncms.com/) - A modern, lightweight, extensible CMS for PHP. ([Source Code ★263 ⏳1Y](https://github.com/BaunCMS/Baun)) `MIT` `PHP`
   * [BigTree CMS](https://www.bigtreecms.org/) - Straightforward, well documented, and capable written with PHP and MySQL. ([Source Code ★157](https://github.com/bigtreecms/BigTree-CMS)) `LGPLv2` `PHP`
   * [Bolt CMS](https://bolt.cm/) - Open source Content Management Tool, which strives to be as simple and straightforward as possible. ([Demo](https://try.bolt.cm/), [Source Code ★3485](https://github.com/bolt/bolt)) `MIT` `PHP`
   * [CMS Made Simple](http://www.cmsmadesimple.org/) - Open source content management system, faster and easier management of website contents, scalable for small businesses to large corporations. ([Source Code](http://svn.cmsmadesimple.org/svn/cmsmadesimple/trunk/)) `GPL` `PHP`
@@ -838,7 +838,7 @@ See also <https://en.wikipedia.org/wiki/List_of_streaming_media_systems>, <https
   * [google-webfonts-helper ★2399](https://github.com/majodev/google-webfonts-helper) `⚠` - A Hassle-Free Way to Self-Host Google Fonts. Get eot, ttf, svg, woff and woff2 files + CSS snippets. ([Demo](https://google-webfonts-helper.herokuapp.com/)) `MIT` `Nodejs`
   * [Kimai](http://www.kimai.org/) - Simple time and project tracking. ([Demo](http://www.kimai.org/demo/), [Source Code ★438](https://github.com/kimai/kimai)) `GPLv3` `PHP`
   * [King Phisher ★552](https://github.com/securestate/king-phisher) - King Phisher is a tool for testing and promoting user awareness by simulating real world phishing attacks. `BSD` `Python`
-  * [LicAPI](https://projects.miguelpiedrafita.com/LicAPI) - A PHP API to manage license info. ([Source Code ★10](https://github.com/m1guelpf/LicAPI)) `MPLv2` `PHP`
+  * [LicAPI](https://projects.miguelpiedrafita.com/LicAPI) - A PHP API to manage license info. ([Source Code ★10 ⏳1Y](https://github.com/m1guelpf/LicAPI)) `MPLv2` `PHP`
   * [Mindmaps ★1200](https://github.com/drichard/mindmaps) - An open source, offline capable, mind mapping application. ([Demo](http://drichard.org/mindmaps/)) `AGPLv3` `HTML5`
   * [Monica](https://monicahq.com/) - Personal relationship manager, and a new kind of CRM to organize interactions with your friends and family. ([Source Code ★3646](https://github.com/monicahq/monica)) `AGPLv3` `PHP`
   * [Musical Artifacts](https://musical-artifacts.com/) - Helping to catalog, preserve and free the artifacts you need to produce music. ([Source Code ★24](https://github.com/lfzawacki/musical-artifacts)) `MIT` `Ruby`

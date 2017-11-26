@@ -218,7 +218,7 @@ A curated list of awesome C/C++ frameworks, libraries, resources, and shiny thin
 ## Containers
 
 * [C++ B-tree](https://code.google.com/p/cpp-btree/) - A template library that implements ordered in-memory containers based on a B-tree data structure. [Apache2]
-* [Hashmaps ★121 ⏳1Y](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
+* [Hashmaps ★121 ⏳2Y](https://github.com/goossaert/hashmap) - Implementation of open addressing hash table algorithms in C++. [MIT]
 * [Hopscotch map ★92](https://github.com/Tessil/hopscotch-map) - A fast header-only hash map which uses hopscotch hashing for collisions resolution. [MIT]
 * [LSHBOX ★111](https://github.com/RSIA-LIESMARS-WHU/LSHBOX) - A c++ toolbox of locality-sensitive hashing (LSH), provides several popular LSH algorithms, also support Python and MATLAB. [GPL]
 

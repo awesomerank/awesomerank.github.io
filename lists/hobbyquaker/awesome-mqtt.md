@@ -224,7 +224,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 #### Lighting
 
-* [chromoflex2mqtt ★2 ⏳1Y](https://github.com/owagner/chromoflex2mqtt) - Control Chromoflex USP3 RGB LED modules via MQTT.
+* [chromoflex2mqtt ★2 ⏳2Y](https://github.com/owagner/chromoflex2mqtt) - Control Chromoflex USP3 RGB LED modules via MQTT.
 * [h801/mqtt](https://github.com/open-homeautomation/h801/tree/master/mqtt) - Alternative firmware for the H801 LED dimmer that uses MQTT as a control channel.
 * [hue2mqtt.js ★3](https://github.com/hobbyquaker/hue2mqtt.js) - Interface between the Philips Hue bridge and MQTT.
 * [MQTT DMX Controller ★6](https://github.com/hobbyquaker/mqtt-dmx-controller) - DMX Controller with MQTT support.
@@ -260,7 +260,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 * [mqtt-irc-bot ★13 ⏳2Y](https://github.com/dobermai/mqtt-irc-bot) - A MQTT to IRC / IRC to MQTT bridge or bot.
 * [mqttwarn ★598](https://github.com/jpmens/mqttwarn) - Subscribe to MQTT topics (with wildcards) and notifiy pluggable services.
-* [twitter-to-mqtt ★12 ⏳4Y](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
+* [twitter-to-mqtt ★12 ⏳5Y](https://github.com/knolleary/twitter-to-mqtt) - A python daemon that uses the Twitter Streaming API to access tweets and republishes them to an MQTT topic.
 
 
 #### Misc

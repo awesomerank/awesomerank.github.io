@@ -30,6 +30,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Plugins](#plugins)
 - [Literature / Education](#literature--education)
 - [Professional services](#professional-services)
+- [Content Management Systems](#content-management-systems)
 - [Deprecated](#deprecated)
   - [General](#general)
   - [Blog posts (v0.5)](#blog-posts-v05)
@@ -900,6 +901,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Birth of the NearCloud](https://serverless.com/blog/near-cloud-crdt-kuhiro/) - On CRDTs and Kuhiro.
 - [Azure Functions on IoT Edge](https://blogs.msdn.microsoft.com/appserviceteam/2017/11/15/azure-functions-on-iot-edge/) - How to run Azure Functions in IoT Edge.
 - [Your Lambda function might execute twice](https://cloudonaut.io/your-lambda-function-might-execute-twice-deal-with-it/) - What to do to prevent a Lambda function from executing twice.
+- [Hacking a bathroom queue with serverless and IoT](https://serverless.com/blog/game-throne-hacking-bathroom-serverless-iot/) - How to develop a bathroom queue with serverless and IoT technologies.
+- [Looking back to see forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62) - Post about the future of serverless computing derived and inspired by the past of tech trends.
 
 ## Screencasts
 
@@ -1139,7 +1142,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [SC5 boilerplate ★42](https://github.com/SC5/sc5-serverless-boilerplate) - Serverless boilerplate by [SC5](https://sc5.io/).
 - [Facebook messenger chatbot ★18 ⏳1Y](https://github.com/JustServerless/serverless-facebook-messenger-chatbot) - Facebook messenger chatbot who searches for GitHub repositories.
 - [Facebook messenger bot ★34](https://github.com/michalsanger/serverless-facebook-messenger-bot) - Feature rich Facebook messenger chatbot.
-- [Discuss ★82](https://github.com/JustServerless/discuss) - Forum software powered by Serverless, GraphQL, React and Redux.
+- [Discuss ★82 ⏳1Y](https://github.com/JustServerless/discuss) - Forum software powered by Serverless, GraphQL, React and Redux.
 - [Elasticommerce search service ★4 ⏳1Y](https://github.com/amimoto-ami/serverless-elasticommerce-search-service) - Elasticsearch service for WooCommerce shops.
 - [Serverless starter Python ★35](https://github.com/alexcasalboni/serverless-starter-python) - Starter project for Python based project.
 - [Serverless (v1.0) Python Sample ★40](https://github.com/bennybauer/serverless-python-sample) - A simple Serverless Python sample with REST API endpoints and dependencies.
@@ -1301,7 +1304,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWS Lambda power tuning ★151](https://github.com/alexcasalboni/aws-lambda-power-tuning) - Step Functions state machine generator for AWS Lambda power tuning.
 - [YouTube podcasts ★6](https://github.com/sedden/serverless-youtube-podcasts) - Access YouTube playlists in podcast format.
 - [Lambda view server ★3](https://github.com/kiva/lambda-view-server) - A no-db web server using AWS Lambda.
-- [Thumbnail ★21](https://github.com/krisgholson/serverless-thumbnail) - Recreate the thumbnail service using the Serverless Framework.
+- [Thumbnail ★21 ⏳1Y](https://github.com/krisgholson/serverless-thumbnail) - Recreate the thumbnail service using the Serverless Framework.
 - [Ruby ★47](https://github.com/stewartlord/serverless-ruby) - Call a Ruby function from AWS Lambda.
 - [TypeScript starter](https://github.com/pietrasiak/serverless-typescript-starter) - Serverless with TypeScript and serverless-offline.
 - [GitHub CodeBuild webhook ★44](https://github.com/svdgraaf/github-codebuild-webhook) - Service which shows how one can integrate CodeBuild and GitHub.
@@ -1415,7 +1418,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Lambdacult](https://lambdacult.com) - Services on top of AWS Lambda.
 - [Scar ★158](https://github.com/grycap/scar) - Serverless Container-aware ARchitectures (e.g. Docker containers in AWS Lambda).
 - [Serverless Computing: Current Trends and open problems](https://arxiv.org/pdf/1706.03178.pdf) - Research paper on serverless computing.
-- [Lambda session auth ★16](https://github.com/sedenardi/lambda-session-auth) - Cookie-based session authentication using AWS Lambda and Node.js.
+- [Lambda session auth ★16 ⏳1Y](https://github.com/sedenardi/lambda-session-auth) - Cookie-based session authentication using AWS Lambda and Node.js.
 - [CloudBoost ★1146](https://github.com/cloudboost/cloudboost) - One complete serverless platform for the next web.
 - [Lambda test ★64 ⏳1Y](https://github.com/berezovskyi/lambda-test) - Test (pseudo) AWS Lambda runtime startup time.
 - [StdLib ★2853](https://github.com/stdlib/lib) - The standard library for Functions as a Service ([StdLib](https://stdlib.com)).
@@ -1655,6 +1658,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [SPA ★4](https://github.com/gilmarsquinelato/serverless-spa) - Deploy your static website with webpack to AWS using the Serverless Framework.
 - [AWS resource names ★1](https://github.com/concon121/serverless-plugin-aws-resource-names) - Enable custom AWS resource names.
 - [Nested stacks ★1](https://github.com/concon121/serverless-plugin-nested-stacks) - Nested stacks support.
+- [Alexa skills ★9](https://github.com/marcy-terui/serverless-alexa-skills) - Manage your Alexa skills with Serverless Framework.
 
 ## Literature / Education
 
@@ -1695,6 +1699,10 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Emerging Technology Advisors](https://www.emergingtechnologyadvisors.com) - Consultancy.
 - [OneSpeed](https://onespeed.io) - Agency.
 
+## Content Management Systems
+
+- [Tipe](https://tipe.io) - Next generation serverless CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API.
+
 ---
 
 ## Deprecated
@@ -1706,7 +1714,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Community repository](https://github.com/serverless/serverless-community) - Resources for the community.
 - [Readme.io](https://serverless.readme.io) - Official documentation.
 - [Community plugins](https://github.com/serverless/community-plugins) - Repository for Serverless community plugins.
-- [AWSM ★170 ⏳1Y](https://github.com/awsm-org/awsm) - Official GitHub organization for modules.
+- [AWSM ★170 ⏳2Y](https://github.com/awsm-org/awsm) - Official GitHub organization for modules.
 - [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated).
 - [Serverless starter ★162](https://github.com/serverless/serverless-starter) - Boilerplate for new projects.
 - [JAWS local server ★3 ⏳1Y](https://github.com/martinlindenberg/JawsLocalServer) - Local server which lets you execute Lambda functions locally.

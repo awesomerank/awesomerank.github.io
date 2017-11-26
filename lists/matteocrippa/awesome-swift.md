@@ -590,7 +590,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Datez ★206](https://github.com/SwiftKitz/Datez) - Library for dealing with `NSDate`, `NSCalendar`, `NSDateComponents`, and `NSTimeInterval`.
 * [Datify ★36](https://github.com/hemangshah/Datify) - Easypeasy date functions.
 * [NSDate-Extensions ★1372](https://github.com/erica/NSDate-Extensions) - Practical real-world dates.
-* [Punctual.swift ★316](https://github.com/harlanhaskins/Punctual.swift) :penguin: - Date handler.
+* [Punctual.swift ★316 ⏳1Y](https://github.com/harlanhaskins/Punctual.swift) :penguin: - Date handler.
 * [SwiftDate ★3393](https://github.com/malcommac/SwiftDate) - Easy NSDate Management.
 * [SwiftMoment ★1495](https://github.com/akosma/SwiftMoment) - A time and calendar manipulation library.
 * [Time ★597](https://github.com/dreymonde/Time) - Type-safe time calculations, powered by generics.
@@ -619,7 +619,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 *Generate documentation for Swift code* [back to top](#readme) 
 
 * [jazzy ★4839](https://github.com/realm/jazzy) - Soulful docs.
-* [SourceDocs ★15](https://github.com/eneko/SourceDocs) - Generate Markdown reference documentation that lives with your code.
+* [SourceDocs ★25](https://github.com/eneko/SourceDocs) - Generate Markdown reference documentation that lives with your code.
 * [swiftdoc-parser ★42](https://github.com/SwiftDocOrg/swiftdoc-parser) - SwiftDoc.org header parsing and HTML generating utilities.
 
 ### Email
@@ -1295,7 +1295,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [CRNetworkButton ★609 ⏳1Y](https://github.com/Cleveroad/CRNetworkButton) - Send Button for iOS.
 * [DOFavoriteButton ★2920](https://github.com/okmr-d/DOFavoriteButton) - Cute Animated Button.
 * [Floaty ★581](https://github.com/kciter/Floaty) - Floating Action Button for iOS.
-* [Hamburger button transition ★2213](https://github.com/robb/hamburger-button) - Hamburger button transition.
+* [Hamburger button transition ★2213 ⏳1Y](https://github.com/robb/hamburger-button) - Hamburger button transition.
 * [HamburgerButton ★185 ⏳1Y](https://github.com/fastred/HamburgerButton) - Hamburger button with a slick animation.
 * [LGButton ★1498](https://github.com/loregr/LGButton) - A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.
 * [LTHRadioButton ★193](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty animation.
@@ -1426,7 +1426,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 
 * [Stencil ★1183](https://github.com/kylef/Stencil) - Simple and powerful template language.
 * [SwiftCssParser ★231](https://github.com/100mango/SwiftCssParser) - Extensible CSS parser.
-* [TemplateKit ★126](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces.
+* [TemplateKit ★126 ⏳1Y](https://github.com/mcudich/TemplateKit) - React-inspired framework for building component-based user interfaces.
 * [Themes ★164](https://github.com/onmyway133/Themes) - Theme management.
 
 #### TextField

@@ -19,7 +19,7 @@ GeoJSON utilities that will make your life easier.
 * [geojson-extent](https://www.npmjs.com/package/geojson-extent): compute the bounding box of geojson features
 * [geojson-flatten](https://github.com/tmcw/geojson-flatten): flatten multi geometries into normal geometries
 * [geojson-multiply ★1 ⏳1Y](https://github.com/haoliangyu/geojson-multiply):  merge normal geojson features into one multi geometry type feature
-* [geojson-js-utils ★337](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
+* [geojson-js-utils ★337 ⏳1Y](https://github.com/maxogden/geojson-js-utils): JavaScript helper functions for manipulating GeoJSON
 * [geojson-merge ★64](https://github.com/mapbox/geojson-merge): Merge multiple GeoJSON files into one FeatureCollection.
 * [geojson-normalize ★16](https://github.com/mapbox/geojson-normalize): normalize any geojson object into a geojson featurecollection
 * [geojson-pick](https://www.npmjs.com/package/geojson-pick): remove all but specified properties from features in a geojson featurecollection

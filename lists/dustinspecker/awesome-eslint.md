@@ -57,7 +57,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 - [Ember](https://github.com/netguru/eslint-plugin-ember) - Linting rules for Ember
 - [Hapi ★16](https://github.com/continuationlabs/eslint-plugin-hapi) – Linting rules for hapi
 - [Jasmine ★45](https://github.com/tlvince/eslint-plugin-jasmine) - Linting rules for Jasmine
-- [Jest](https://github.com/facebook/jest/tree/master/packages/eslint-plugin-jest) - Linting rules for Jest
+- [Jest ★22](https://github.com/jest-community/eslint-plugin-jest) - Linting rules for Jest
 - [JSDoc ★109](https://github.com/gajus/eslint-plugin-jsdoc) - Linting rules for JSDoc comments
 - [Lodash ★121](https://github.com/wix/eslint-plugin-lodash) - Lodash specific linting rules
 - [Lodash/fp ★97](https://github.com/jfmengels/eslint-plugin-lodash-fp) - Lodash/fp specific linting rules
@@ -94,7 +94,7 @@ If you want to contribute, please read the [contribution guidelines](https://git
 
 ### Practices
 
-- [array-func ★0](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions.
+- [array-func ★1](https://github.com/freaktechnik/eslint-plugin-array-func) - Avoid redundancy when using es2015 array methods and functions.
 - [fp ★319](https://github.com/jfmengels/eslint-plugin-fp) - ESLint rules for functional programming
 - [Immutable ★699](https://github.com/jhusain/eslint-plugin-immutable) - Disable all mutation in JavaScript
 - [JSX a11y ★663](https://github.com/evcohen/eslint-plugin-jsx-a11y) - Accessibility rules on JSX elements

@@ -81,7 +81,7 @@ Discover more awesome lists at [sindresorhus/awesome ★69735](https://github.co
     - [DemonHunter ★9](https://github.com/RevengeComing/DemonHunter) - Low interaction Honepot Server.
 
 - Anti-honeypot stuff
-    - [kippo_detect ★37 ⏳2Y](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
+    - [kippo_detect ★37 ⏳3Y](https://github.com/andrew-morris/kippo_detect) - This is not a honeypot, but it detects kippo. (This guy has lots of more interesting stuff)
 
 - ICS/SCADA honeypots
     - [Conpot ★374](https://github.com/mushorg/conpot) - ICS/SCADA honeypot.

@@ -427,10 +427,10 @@ Just type [`node.cool`](https://node.cool) to go here ✨
 
 ### Streams
 
-- [through2 ★1231](https://github.com/rvagg/through2) - Tiny wrapper around streams2 Transform to avoid explicit subclassing noise.
+- [through2 ★1231 ⏳1Y](https://github.com/rvagg/through2) - Tiny wrapper around streams2 Transform to avoid explicit subclassing noise.
 - [from2 ★84](https://github.com/hughsk/from2) - Convenience wrapper for ReadableStream, inspired by `through2`.
 - [get-stream ★84 ⏳1Y](https://github.com/sindresorhus/get-stream) - Get a stream as a string or buffer.
-- [into-stream ★47](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
+- [into-stream ★47 ⏳1Y](https://github.com/sindresorhus/into-stream) - Convert a buffer/string/array/object into a stream.
 - [duplexify ★111](https://github.com/mafintosh/duplexify) - Turn a writeable and readable stream into a single streams2 duplex stream.
 - [pumpify ★109 ⏳1Y](https://github.com/mafintosh/pumpify) - Combine an array of streams into a single duplex stream.
 - [peek-stream ★35](https://github.com/mafintosh/peek-stream) - Transform stream that lets you peek the first line before deciding how to parse it.

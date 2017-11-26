@@ -119,7 +119,7 @@ Fully automate your package's releases. This will determine not only which versi
 npm i semantic-release --save-dev
 ```
 
-### [collaborator ★46](https://github.com/maxogden/collaborator) by [maxogden](https://www.npmjs.com/~maxogden)
+### [collaborator ★46 ⏳1Y](https://github.com/maxogden/collaborator) by [maxogden](https://www.npmjs.com/~maxogden)
 
 Easily add new collaborators to your github repos + npm packages from the CLI, and then generate a `collaborators.md` file with the newly updated list of collaborators. Use this to add new maintainers to your projects.
 

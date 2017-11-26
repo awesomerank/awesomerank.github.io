@@ -399,7 +399,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [Angular2-Meteor](http://angular-meteor.com/angular2)
 * [nativescript-angular ★703](https://github.com/NativeScript/nativescript-angular)
 * [react-native-renderer ★715](https://github.com/angular/react-native-renderer)
-* [GraphQL + Angular ★276](https://github.com/apollographql/apollo-angular)
+* [GraphQL + Angular ★298](https://github.com/apollographql/apollo-angular)
 
 #### Components
 * [Material 2 ★11807](https://github.com/angular/material2) - Angular team's Material Design components built on top of Angular 2
@@ -417,7 +417,7 @@ Http is available as an injectable class, with methods to perform http requests.
 * [ng2-bs ★12 ⏳2Y](https://github.com/pkozlowski-opensource/ng2-bs) Experiments with Angular 2 directives for Bootstrap.
 * [ng-lightning ★557](https://github.com/ng-lightning/ng-lightning) Native Angular 2 components & directives for Lightning Design System
 * [ag-grid](https://www.ag-grid.com/) Advanced Datagrid for Pure Javascript / AngularJS 1.x / AngularJS 2 / Web Components
-* [angular2-query-builder ★1](https://github.com/zebzhao/Angular-QueryBuilder) Modernized query builder based on jquery QueryBuilder
+* [angular2-query-builder ★5](https://github.com/zebzhao/Angular-QueryBuilder) Modernized query builder based on jquery QueryBuilder
 * [angular2-grid ★300](https://github.com/BTMorton/angular2-grid) A drag/drop/resize grid-based plugin directive for angular2.
 * [angular2-jwt ★1439](https://github.com/auth0/angular2-jwt) Library for sending authenticated HTTP requests and decoding JWTs
 * [angular2-cookie ★103](https://github.com/salemdar/angular2-cookie) Library that implements Angular 1.x $cookies service in Angular 2

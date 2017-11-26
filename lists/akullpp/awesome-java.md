@@ -186,8 +186,8 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Libraries that provide external configuration.*
 
-* [centraldogma ★119](https://github.com/line/centraldogma) - Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
-* [cfg4j ★306](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps written in Java.
+* [centraldogma ★134](https://github.com/line/centraldogma) - Highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2.
+* [cfg4j ★315](https://github.com/cfg4j/cfg4j) - Modern configuration library for distributed apps written in Java.
 * [config](https://github.com/typesafehub/config) - Configuration library for JVM languages.
 * [dotenv ★7](https://github.com/shyiko/dotenv) - A twelve-factor configuration library for Java.
 * [ini4j](http://ini4j.sourceforge.net/) - Provides an API for handling Windows' INI files.
@@ -263,7 +263,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 * [Almanac Converter](https://github.com/hypotemoose/almanac-converter) - Simple conversion between different calendar systems.
 * [iCal4j ★236](https://github.com/ical4j/ical4j) - Parse and build iCalendar [RFC 5545](https://tools.ietf.org/html/rfc5545) data models.
-* [ThreeTen-Extra ★138](https://github.com/ThreeTen/threeten-extra) - Additional date-time classes that complement those in JDK 8.
+* [ThreeTen-Extra ★141](https://github.com/ThreeTen/threeten-extra) - Additional date-time classes that complement those in JDK 8.
 * [Time4J ★157](https://github.com/MenoData/Time4J) - Advanced date and time library.
 
 ## Dependency Injection
@@ -452,13 +452,14 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Genson](https://owlike.github.io/genson/) - Powerful and easy-to-use Java-to-JSON conversion library.
 * [Gson ★10786](https://github.com/google/gson) - Serializes objects to JSON and vice versa. Good performance with on-the-fly usage.
 * [HikariJSON ★99](https://github.com/brettwooldridge/HikariJSON) - High-performance JSON parser, 2x faster than Jackson.
+* [jackson-modules-java8 ★93](https://github.com/FasterXML/jackson-modules-java8) - Set of Jackson modules for Java 8 datatypes and features.
 * [Jackson-datatype-money ★62](https://github.com/zalando/jackson-datatype-money) - Open-source Jackson module to support JSON serialization and deserialization of JavaMoney data types.
 * [Jackson ★3381](https://github.com/FasterXML/jackson) - Similar to GSON, but offers performance gains if you need to instantiate the library more often.
 * [JSON-io ★206](https://github.com/jdereg/json-io) - Convert Java to JSON. Convert JSON to Java. Pretty print JSON. Java JSON serializer.
 * [jsoniter](http://jsoniter.com) - Fast and flexible library with iterator and lazy parsing API.
 * [LoganSquare ★3029](https://github.com/bluelinelabs/LoganSquare) - JSON parsing and serializing library based on Jackson's streaming API. Outperforms GSON & Jackson's library.
 * [Moshi ★3298](https://github.com/square/moshi) - Modern JSON library, less opinionated and uses built-in types like List and Map.
-* [Yasson ★60](https://github.com/eclipse/yasson) - Binding layer between classes and JSON documents similar to JAXB.
+* [Yasson ★68](https://github.com/eclipse/yasson) - Binding layer between classes and JSON documents similar to JAXB.
 
 ## JSON Processing
 
@@ -542,7 +543,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [JPad](http://jpad.io/) - Snippet runner.
 * [Lanterna ★672](https://github.com/mabe02/lanterna) - Easy console text-GUI library, similar to curses.
 * [LightAdmin](http://lightadmin.org/) - Pluggable CRUD UI library for rapid application development.
-* [Maven Wrapper ★549](https://github.com/takari/maven-wrapper) - Analogue of Gradle Wrapper for Maven, allows build projects without installing maven.
+* [Maven Wrapper ★549](https://github.com/takari/maven-wrapper) - Analogue of Gradle Wrapper for Maven, allows building projects without installing maven.
 * [Membrane Service Proxy ★183](https://github.com/membrane/service-proxy) - An open-source, reverse-proxy framework written in Java.
 * [Multi-OS Engine](https://software.intel.com/en-us/multi-os-engine) - An open-source, cross-platform engine to develop native mobile (iOS, Android, etc.) apps.
 * [Modern Java - A Guide to Java 8 ★8160](https://github.com/winterbe/java8-tutorial) - Popular Java 8 guide.
@@ -552,7 +553,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Smooks ★178](https://github.com/smooks/smooks) - Extensible framework for building applications that process data which means bindings, transformations, message processing and enrichment.
 * [Togglz](https://www.togglz.org/) - Implementation of the Feature Toggles pattern.
 * [TypeTools ★286](https://github.com/jhalterman/typetools) - Tools for resolving generic types.
-* [XMLBeam ★38](https://github.com/SvenEwald/xmlbeam) - Processes XML by using annotations or XPath within code.
+* [XMLBeam ★40](https://github.com/SvenEwald/xmlbeam) - Processes XML by using annotations or XPath within code.
 
 ## Microservice
 
@@ -608,13 +609,15 @@ A curated list of awesome Java frameworks, libraries and software.
 *Libraries for building network servers.*
 
 * [Comsat ★444](https://github.com/puniverse/comsat) - Integrates standard Java web-related APIs with Quasar fibers and actors.
+* [Dubbo ★13813](https://github.com/alibaba/dubbo) - High-performance RPC framework.
 * [Finagle ★6047](https://github.com/twitter/finagle) - Extensible RPC system for constructing high-concurrency servers. It implements uniform client and server APIs for several protocols, and is protocol-agnostic to simplify implementation of new protocols.
 * [Grizzly](https://javaee.github.io/grizzly) - NIO framework. Used as a network layer in Glassfish.
 * [gRPC ★3352](https://github.com/grpc/grpc-java) - RPC framework based on protobuf and HTTP/2.
-* [KryoNet ★1137](https://github.com/EsotericSoftware/kryonet) - Provides a clean and simple API for efficient TCP and UDP client/server network communication using NIO and Kryo.
+* [KryoNet ★1158](https://github.com/EsotericSoftware/kryonet) - Provides a clean and simple API for efficient TCP and UDP client/server network communication using NIO and Kryo.
 * [MINA](https://mina.apache.org/) - Abstract, event-driven async I/O API for network operations over TCP/IP and UDP/IP via Java NIO.
 * [Netty](https://netty.io/) - Framework for building high-performance network applications.
 * [Nifty ★754](https://github.com/facebook/nifty) - Implementation of Thrift clients and servers on Netty.
+* [sshj ★1013](https://github.com/hierynomus/sshj) - Programatically use SSH, SCP or SFTP.
 * [Undertow](http://undertow.io/) - Web server providing both blocking and non-blocking APIs based on NIO. Used as a network layer in WildFly.
 * [urnlib ★6](https://github.com/slub/urnlib) - Represent, parse and encode URNs, as in RFC 2141.
 
@@ -799,7 +802,7 @@ A curated list of awesome Java frameworks, libraries and software.
 
 *Everything related to the creation and handling of random data.*
 
-* [Beanmother ★30](https://github.com/keepcosmos/beanmother) - Sets up beans from YAML fixtures.
+* [Beanmother ★37](https://github.com/keepcosmos/beanmother) - Sets up beans from YAML fixtures.
 * [Fixture Factory ★233](https://github.com/six2six/fixture-factory) - Generates fake objects from a template.
 * [JFairy ★0](https://github.com/Codearte/jfairy) - Fake data generator.
 * [Randomized Testing ★110](https://github.com/randomizedtesting/randomizedtesting) - JUnit test runner and plugins for running JUnit tests with pseudo-randomness.
@@ -904,8 +907,8 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Play](https://www.playframework.com/) - Built on Akka, it provides predictable and minimal resource consumption (CPU, memory, threads) for highly-scalable applications in Java and Scala.
 * [PrimeFaces](https://primefaces.org/) - JSF framework with both free and commercial/support versions and frontend components.
 * [Ratpack](https://ratpack.io/) - Set of libraries that facilitate fast, efficient, evolvable and well-tested HTTP applications.
-* [Takes ★349](https://github.com/yegor256/takes) - Opinionated web framework which is build around the concepts of True Object-Oriented Programming and immutablity.
-* [Vaadin](https://vaadin.com/home) - Event-driven framework build on top of GWT. Uses server-side architecture with Ajax on the client side.
+* [Takes ★349](https://github.com/yegor256/takes) - Opinionated web framework which is built around the concepts of True Object-Oriented Programming and immutability.
+* [Vaadin](https://vaadin.com/home) - Event-driven framework built on top of GWT. Uses server-side architecture with Ajax on the client side.
 
 # Resources
 

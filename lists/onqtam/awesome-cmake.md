@@ -23,7 +23,7 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 - [Modules](#modules)
 - [Utility Scripts](#utility-scripts)
 - [Toolchains](#toolchains)
-- [Tutorials / Examples / Templates](#tutorials--examples--templates)
+- [Examples / Templates](#examples--templates)
 - [Other](#other)
 
 ## Community
@@ -51,6 +51,8 @@ Your contributions are highly welcome (first see [CONTRIBUTING.md](https://githu
 * [Article - The architecture of CMake](http://aosabook.org/en/cmake.html).
 * [Lecture - Effective CMake - by Daniel Pfeifer, C++Now 2017](https://www.youtube.com/watch?v=bsXLMQ6WgIk).
 * [Article - Building Cross-Platform CUDA Applications with CMake](https://devblogs.nvidia.com/parallelforall/building-cuda-applications-cmake/).
+* [Tutorial - A step-by-step guide for understanding CMake](https://github.com/Wigner-GPU-Lab/Teaching/tree/master/CMake).
+* [Article - Embracing Modern CMake - by Stephen Kelly](https://steveire.wordpress.com/2017/11/05/embracing-modern-cmake/).
 
 ## Package Management / Build Systems
 
@@ -118,7 +120,7 @@ These provide a wide range of functionality - from dealing with compiler flags t
 * [toolchains ★14](https://github.com/mosra/toolchains) - For crosscompiling with CMake. They are meant to be mainly used on ArchLinux. ```[NO LICENSE]```
 * [cmake](https://github.com/staticlibs/cmake/tree/master/toolchains) - Collection of CMake toolchain files, mostly for static linking. [```[APACHE2]```][APACHE2]
 
-## Tutorials / Examples / Templates
+## Examples / Templates
 
 * [cmake-init ★169](https://github.com/cginternals/cmake-init) - Template for reliable, cross-platform C++ project setup using CMake. [```[LICENSE]```](https://github.com/cginternals/cmake-init/blob/master/LICENSE)
 * [learning-cmake ★369](https://github.com/Akagi201/learning-cmake) - This is a simple CMake practice project which contains some different scenarios. [```[GPL2]```][GPL2]

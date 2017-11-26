@@ -255,7 +255,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## HTTP
  * [cossack ★67](https://github.com/crystal-community/cossack) - Simple flexible HTTP client
- * [crest ★19](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
+ * [crest ★23](https://github.com/mamantoha/crest) - Simple HTTP and REST client, inspired by the Ruby's RestClient gem
  * [crul ★94](https://github.com/porras/crul) - Command line HTTP client
  * [cryload ★107](https://github.com/sdogruyol/cryload) - HTTP benchmarking tool
  * [halite ★28](https://github.com/icyleaf/halite) - Yet another simple HTTP and REST client with a chainable API, built-in sessions and timeouts
@@ -285,7 +285,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 
 ## Logging and monitoring
  * [crometheus](https://gitlab.com/ezrast/crometheus) - A [Prometheus](https://prometheus.io/) client library
- * [crystal-logreader ★0](https://github.com/arcage/crystal-logreader) - Tailing log file
+ * [crystal-logreader ★0 ⏳1Y](https://github.com/arcage/crystal-logreader) - Tailing log file
  * [fluent-logger-crystal ★2](https://github.com/TobiasGSmollett/fluent-logger-crystal) - A structured logger for [Fluentd](https://www.fluentd.org/)
  * [katip ★19](https://github.com/guvencenanguvenal/katip) - JSONbase logger
  * [statsd.cr](https://github.com/miketheman/statsd.cr) - [Statsd ★12203](https://github.com/etsy/statsd) client library
@@ -329,7 +329,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 ## Networking
  * [amqp.cr ★31](https://github.com/datanoise/amqp.cr) - AMQP 0.9.1 client with RabbitMQ extensions
  * [bson.cr ★12](https://github.com/jeromegn/bson.cr) - Native BSON implementation
- * [CrystalIrc ★11](https://github.com/Meoowww/CrystalIrc) - IRC implementation (Client, Server, Bots)
+ * [Crirc ★12](https://github.com/Meoowww/Crirc) - IRC protocol implementation (Client, Server, Bots)
  * [fast_irc.cr ★5](https://github.com/RX14/fast_irc.cr) - Fast IRC parser/generator
  * [ipaddress.cr ★10](https://github.com/Sija/ipaddress.cr) - Library to handle IPv4 and IPv6 addresses
  * [jwt ★67](https://github.com/crystal-community/jwt) - Implementation of JWT (JSON Web Token)
@@ -375,7 +375,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
  * [toro ★59](https://github.com/soveran/toro) - Tree Oriented Routing
 
 ## Scheduling
- * [cron_scheduler ★22](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
+ * [cron_scheduler ★22 ⏳1Y](https://github.com/kostya/cron_scheduler) - Job scheduler with crontab patterns
  * [quartz ★3](https://github.com/andrewhamon/quartz) - Crystal clear timers
  * [schedule.cr ★34](https://github.com/hugoabonizio/schedule.cr) - Run periodic tasks
 
@@ -468,6 +468,7 @@ Contributions are welcome. Please take a quick look at the [contribution guideli
 # Resources
  * [Crystal for Rubyists](http://www.crystalforrubyists.com/) - free book to bootstrap your Crystal journey
  * [crystal-lang.org](https://crystal-lang.org) - Official language site
+ * [devdocs.io](https://devdocs.io/crystal/) - API Documentation Browser with Crystal support
 
 ## Official Documentation Translations
  * [br.crystal-lang.org](http://br.crystal-lang.org/) - Brazilian

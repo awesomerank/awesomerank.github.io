@@ -89,7 +89,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [catarse ★1318](https://github.com/catarse/catarse) - The first open source crowdfunding platform for creative projects in the world  [Live](https://catarse.me/)
 - [coderwall](https://github.com/assemblymade/coderwall) - Professional network for software engineers  [Live](https://coderwall.com)
 - [codetriage.com ★794](https://github.com/codetriage/codetriage) -  Help out your favorite open source projects and become a better developer while doing it.  [Live](https://www.codetriage.com/)
-- [CoRM ★18](https://github.com/SIGIRE/CoRM) - Easier than a CRM [Live](http://www.corm.fr)
+- [CoRM ★18 ⏳1Y](https://github.com/SIGIRE/CoRM) - Easier than a CRM [Live](http://www.corm.fr)
 - [coursemology2 ★40](https://github.com/Coursemology/coursemology2) - Rails 4 re-write of Coursemology  
 - [covoiturage-libre ★57](https://github.com/covoiturage-libre/covoiturage-libre) - a Carpooling Open Source platform in Rails 5
 - [crabgrass-core ★73](https://github.com/riseuplabs/crabgrass-core) - A web application designed for activist groups to be better able to collaborate online
@@ -144,7 +144,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [publify ★1715](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
 - [quant ★132 ⏳2Y](https://github.com/jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker
 - [racing_on_rails ★36](https://github.com/scottwillson/racing_on_rails) -  Manage a bike racing association: riders, teams, calendars, competitions, and results [Live](http://racingonrails.rocketsurgeryllc.com)
-- [RapidFTR ★291](https://github.com/rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
+- [RapidFTR ★291 ⏳1Y](https://github.com/rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
 - [redmine ★2412](https://github.com/edavis10/redmine) - A flexible project management web application written using Ruby on Rails  [Live](http://demo.redmine.org)
 - [rentmybikes-rails ★59 ⏳3Y](https://github.com/balanced/rentmybikes-rails) - A fully functional, deployable marketplace implementation using Balanced API for Rails
 - [reservations ★91](https://github.com/YaleSTC/reservations) - Manages reservations for equipment (allows student reservations) [Live](http://yalestc.github.io/reservations)

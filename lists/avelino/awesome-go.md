@@ -313,6 +313,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 * [darwin ★47](https://github.com/GuiaBolso/darwin) - Database schema evolution library for Go.
 * [go-fixtures ★4](https://github.com/RichardKnop/go-fixtures) - Django style fixtures for Golang's excellent built-in database/sql library.
+* [gondolier ★5](https://github.com/emvicom/gondolier) - Gondolier is a library to auto migrate database schemas using structs.
 * [goose ★50 ⏳1Y](https://github.com/steinbacher/goose) - Database migration tool. You can manage your database's evolution by creating incremental SQL or Go scripts.
 * [gormigrate ★69](https://github.com/go-gormigrate/gormigrate) - Database schema migration helper for Gorm ORM.
 * [migrate ★1713](https://github.com/mattes/migrate) - Database migrations. CLI and Golang library.
@@ -822,7 +823,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [MMSEGO ★53 ⏳5Y](https://github.com/awsong/MMSEGO) - This is a GO implementation of [MMSEG](http://technology.chtsai.org/mmseg/) which a Chinese word splitting algorithm.
 * [nlp ★299](https://github.com/Shixzie/nlp) - Extract values from strings and fill your structs with nlp.
 * [nlp ★66](https://github.com/james-bowman/nlp) - Go Natural Language Processing library supporting LSA (Latent Semantic Analysis).
-* [paicehusk ★19 ⏳3Y](https://github.com/rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
+* [paicehusk ★19 ⏳4Y](https://github.com/rookii/paicehusk) - Golang implementation of the Paice/Husk Stemming Algorithm.
 * [petrovich ★5](https://github.com/striker2000/petrovich) - Petrovich is the library which inflects Russian names to given grammatical case.
 * [porter ★5 ⏳4Y](https://github.com/a2800276/porter) - This is a fairly straightforward port of Martin Porter's C implementation of the Porter stemming algorithm.
 * [porter2](https://github.com/zhenjl/porter2) - Really fast Porter 2 stemmer.
@@ -1169,7 +1170,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [fcm ★21](https://github.com/maddevsio/fcm) - Go library for Firebase Cloud Messaging.
 * [gads ★26 ⏳1Y](https://github.com/emiddleton/gads) - Google Adwords Unofficial API.
 * [gami ★22](https://github.com/bit4bit/gami) - Go library for Asterisk Manager Interface.
-* [gcm ★30 ⏳1Y](https://github.com/Aorioli/gcm) - Go library for Google Cloud Messaging.
+* [gcm ★30 ⏳2Y](https://github.com/Aorioli/gcm) - Go library for Google Cloud Messaging.
 * [geo-golang ★204](https://github.com/codingsince1985/geo-golang) - Go Library to access [Google Maps](https://developers.google.com/maps/documentation/geocoding/intro), [MapQuest](http://open.mapquestapi.com/geocoding/), [Nominatim](http://open.mapquestapi.com/nominatim/), [OpenCage](http://geocoder.opencagedata.com/api.html), [HERE](https://developer.here.com/rest-apis/documentation/geocoder), [Bing](https://msdn.microsoft.com/en-us/library/ff701715.aspx), [Mapbox](https://www.mapbox.com/developers/api/geocoding/), and [OpenStreetMap](https://wiki.openstreetmap.org/wiki/Nominatim) geocoding / reverse geocoding APIs.
 * [ghost ★21 ⏳1Y](https://github.com/neuegram/ghost) - Go Library for accessing the Snapchat API.
 * [github ★2996](https://github.com/google/go-github) - Go library for accessing the GitHub REST API v3.
@@ -1540,7 +1541,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [go-pkg-complete ★30](https://github.com/skelterjohn/go-pkg-complete) - Bash completion for go and wgo.
 * [go-swagger ★1603](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go. Swagger is a simple yet powerful representation of your RESTful API.
 * [OctoLinker ★2359](https://github.com/OctoLinker/browser-extension) - Navigate through go files efficiently with the OctoLinker browser extension for GitHub.
-* [richgo ★208](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.
+* [richgo ★216](https://github.com/kyoh86/richgo) - Enrich `go test` outputs with text decorations.
 * [rts ★148](https://github.com/galeone/rts) - RTS: response to struct. Generates Go structs from server responses.
 
 ## Software Packages

@@ -118,7 +118,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [ConsoleZ ★2298](https://github.com/cbucher/console) - Windows console window enhancement. It is a fork of [Console](https://sourceforge.net/projects/console) project.
 * [Mosh ★6814](https://github.com/mobile-shell/mosh) - Remote terminal application that allows roaming and supports intermittent connectivity.
 * [Tilix](https://gnunn1.github.io/tilix-web/) - Advanced GTK3 tiling terminal emulator that follows the Gnome Human Interface Guidelines.
-* [Tilda ★480](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
+* [Tilda ★517](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix
 
 ## Package Managers
 
@@ -218,7 +218,7 @@ Check out my [blog](https://nikolaskama.me/) and follow me on [Twitter](https://
 * [centerim](http://www.centerim.org/index.php/Main_Page) - Terminal based, multi-protocol Instant Messaging client with support for IRC.
 * [weechat](http://weechat.org/) - Fast, light and extensible chat client.
 * [epic](http://www.epicsol.org/) - IRC client that has been under active development for 20+ years in 5 generations.
-* [Slackadaisical ★42](https://github.com/bkanber/Slackadaisical) - Simple Slack client for the CLI.
+* [Slackadaisical ★101](https://github.com/bkanber/Slackadaisical) - Simple Slack client for the CLI.
 * [go-jira ★599](https://github.com/Netflix-Skunkworks/go-jira) - Simple jira command line client in Go.
 
 # Community

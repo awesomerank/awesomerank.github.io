@@ -372,7 +372,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-pressable - Add onRelease, onReleaseInside, onReleaseOutside, and onPress events ★16 ⏳2Y](https://github.com/hzdg/react-pressable)
 * [react-google-analytics - Google analytics component ★92](https://github.com/hzdg/react-google-analytics)
 * [react-layers - A library for layering components in React ★51 ⏳3Y](https://github.com/pieterv/react-layers)
-* [react-gcal-events-list - A Reusable component that pulls events from your google calendar ★12](https://github.com/VinSpee/react-gcal-events-list)
+* [react-gcal-events-list - A Reusable component that pulls events from your google calendar ★12 ⏳1Y](https://github.com/VinSpee/react-gcal-events-list)
 * [reactdi - Dependency injection for ReactJS components ★28 ⏳3Y](https://github.com/hzdg/reactdi)
 * [qrcode.react - A <QRCode/> component for use with React ★541](https://github.com/zpao/qrcode.react)
 * [react-swf - Shockwave Flash Player component for React ★52](https://github.com/syranide/react-swf)
@@ -506,6 +506,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-creditcard - An awesome react credit card component. ★10](https://github.com/medipass/react-creditcard)
 * [email-autocomplete-input - Simple email autocomplete input. ★4](https://github.com/alex-cory/email-autocomplete-input)
 * [rlist-view - List view for react with pulling refresh and infinite data load  ★9](https://github.com/gitpadtech/rlist-view)
+* [react-breadcrumbs-dynamic - Extremely flexible and completely router-independent react breadcrumbs solution ★16](https://github.com/oklas/react-breadcrumbs-dynamic)
 
 ##### Containers
 * [Reapop - A React & Redux notifications system ★323](https://github.com/LouisBarranqueiro/reapop)

@@ -20,7 +20,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * Facebook's [regenerator ★2123](https://github.com/facebook/regenerator) - transform ES6 yield/generator functions to ES5
 * Facebook's [jstransform ★453 ⏳1Y](https://github.com/facebookarchive/jstransform) - A simple utility for pluggable JS syntax transforms. Comes with a small set of ES6 -> ES5 transforms
 * [defs ★118 ⏳2Y](https://github.com/olov/defs) - ES6 block-scoped const and let variables to ES3 vars
-* [es6_module_transpiler-rails ★87 ⏳2Y](https://github.com/DavyJonesLocker/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
+* [es6_module_transpiler-rails ★87 ⏳3Y](https://github.com/DavyJonesLocker/es6_module_transpiler-rails) - ES6 Modules in the Rails Asset Pipeline
 * [Some Sweet.js macros ★227 ⏳3Y](https://github.com/jlongster/es6-macros) that compile from ES6 to ES5
 * Bitovi's [transpile ★20](https://github.com/stealjs/transpile) - Converts ES6 to AMD, CJS, and StealJS.
 * [regexpu ★125](https://github.com/mathiasbynens/regexpu) — Transform Unicode-aware ES6 regular expressions to ES5

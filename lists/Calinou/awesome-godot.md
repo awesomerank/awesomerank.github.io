@@ -68,7 +68,7 @@ A curated list of [free/libre](https://gnu.org/philosophy/free-sw.html) games, p
 *Stuff integrated into Godot core (C++).*
 
 - [Gdnet](https://github.com/jrimclean/gdnet) - An ENet wrapper for Godot.
-- [Head tracking using OpenCV ★4 ⏳2Y](https://github.com/antarktikali/godot-opencv-gpu-perspective)
+- [Head tracking using OpenCV ★4 ⏳3Y](https://github.com/antarktikali/godot-opencv-gpu-perspective)
 - [Open Adaptive Music Library ★15](https://github.com/oamldev/oamlGodotModule)
 - [RawPacker](https://github.com/jrimclean/rawpacker) - Simple binary packing/unpacking for RawArray.
 - [WaterSplash 2D node ★18](https://github.com/laverneth/WaterSplash)

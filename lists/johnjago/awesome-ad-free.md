@@ -24,7 +24,7 @@ title: Awesome Rank for johnjago/awesome-ad-free
   - [Music](#music)
   - [Publications](#publications)
   - [Reference](#reference)
-  - [Social Networks](#social-networks)
+  - [Social](#social)
   - [Utilities](#utilities)
   - [Video](#video)
 - [Resources](#resources)
@@ -68,21 +68,22 @@ title: Awesome Rank for johnjago/awesome-ad-free
 
 - [Adbusters](https://www.adbusters.org/) - Magazine about the takeover of psychological, physical, and cultural environments by commercial forces.
 - [Aeon](https://aeon.co/) - Digital magazine that publishes original thinking on science, philosophy, society, and the arts.
-- [Consumerist](https://consumerist.com/) - Independent, not-for-profit source of consumer news and information.
+- [Common Dreams](https://www.commondreams.org/) -  Progressive news website.
+- [Consumerist](https://consumerist.com/) - Independent source of consumer news and information.
 - [Ello](https://ello.co/) - Media platform for creators and artists that does not sell user data.
 - [RealSport](https://realsport101.com/) - Fans write articles on football, basketball, cricket, e-sports, motorsports, and most other sports out there. This site is committed to maintaining an experience free of pop-ups, fake news, click-bait, and ads.
 - [The Conversation](https://theconversation.com/) - High quality, authenticated, explanatory journalism funded by universities.
 
 ### Reference
 
-- [Everythingcars.net](https://everythingcars.net/) - Automotive reference desk with links to hundreds of car related resources.
 - [OpenStreetMap](https://www.openstreetmap.org) - Map of the world created by users and released under an open license.
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - Encyclopedia that anyone can edit.
 - [Wiktionary](https://www.wiktionary.org/) - Dictionary that anyone can edit.
 
-### Social Networks
+### Social
 
 - [GNUsocial.no](https://gnusocial.no) - Allows users to connect and share with each other; expenses are covered by donations.
+- [Lobsters](https://lobste.rs/) - Simple link aggregation site with explanations required to downvote.
 - [Mastodon](https://mastodon.social) - Free, open source, and decentralized social network server.
 - [Quitter.se](https://quitter.se) - Twitter clone that is part of the federated GNU social network.
 

@@ -583,7 +583,7 @@ Projects
 * [Nulecule ★225 ⏳1Y](https://github.com/projectatomic/nulecule)
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
 * [Psykube ★31](https://github.com/commercialtribe/psykube)
-* [Brigade ★186](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
+* [Brigade ★628](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
 
 ## Configuration
 

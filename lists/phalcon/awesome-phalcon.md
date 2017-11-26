@@ -87,7 +87,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [Phalcon Boilerplate ★77 ⏳1Y](https://github.com/mikegioia/phalcon-boilerplate) - Template for building large-scale Phalcon Applications
 * [Phalcon Framework App ★3 ⏳4Y](https://github.com/eristoddle/phalcon-gumby2-experiment) - A project currently using Phalcon PHP Framework and Gumby 2 for RAD
 * [Phalcon HMVC Skeleton ★8 ⏳1Y](https://github.com/zekiunal/PhalconHMVCSkeletonApplication) - Phalcon HMVC Skeleton with Mustache
-* [Phalcon Jumpstart ★6](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator
+* [Phalcon Jumpstart ★6 ⏳1Y](https://github.com/nguyenducduy/phalcon-jumpstart) - Fast development web apps with CRUD code generator
 * [Phalcon Module Skeleton ★130 ⏳1Y](https://github.com/ovr/phalcon-module-skeleton) - Application template for building beauty applications on Phalcon PHP Framework
 * [phalcon.angular.bootstrap ★10 ⏳1Y](https://github.com/zhegwood/phalcon.angular.bootstrap) - Boilerplate for a non single page implementation of Angular, Phalcon, and Bootstrap
 * [PhalconPHP-Setup-Example ★14 ⏳3Y](https://github.com/ewartx/PhalconPHP-Setup-Example) - Phalcon PHP Framework + Grunt + Composer + Bower

@@ -383,7 +383,7 @@ This is a list of resources for learning C programming in general, or something 
 
 * [cchan][243] - Small library for channel constructs for inter-thread communication. [Public domain]
 * [ck][242] - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures. [[FreeBSD][24]]
-* [mill][352] - Go-style concurrency in C. [[X11][353]]
+* [mill][352] - Go-style concurrency in C. [[X11][100]]
 * [MPICH][285] - Another implementation of MPI. [[MPICH licence][286]]
 * [OpenMP][37] - Set of C pragmas designed to allow for easy parallelization of code. [Standard (licensing not applicable)]
 * [OpenMPI][284] - Message passing interface implementation. [[3-clause BSD][6]]
@@ -438,6 +438,7 @@ This contains standard C libraries.
 * [SDS][29] - Simple Dynamic Strings; a library for handling C strings in a simpler way, but one that is compatible with normal C string functions. Available via [clib][26]. [[FreeBSD][24]]
 * [shoco][363] - Compressor for small text strings. [[Expat][11]]
 * [smaz][364] - Efficient string compression library. [[3-clause BSD][6]]
+* [utf8.h][405] - Single header utf8 string functions. [[Unlicense][406]]
 
 ## Testing ##
 
@@ -543,7 +544,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 * [rabbitmq-c][228] - Client library for [RabbitMQ][229]. [[Expat][11]]
 * [Ragel][54] - DSL for state machines that compiles to C. [[GNU GPL2.1][8] only]
 * [uthash][117] - Hash table implementation, allowing existing structures to be stored in a hash table easily. [[1-clause BSD][118]]
-* [Viola][241] - Simplification of libCello. [[Expat][11]]
 * [zlib][230] - Massively-spiffy yet delicately-unobtrusive compression library. [[3-clause BSD][6]]
 
 ## XML ##
@@ -626,7 +626,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [69]: http://lodev.org/lodepng/
 [70]: http://www.fftw.org/
 [71]: https://sourceforge.net/projects/kissfft/
-[72]: http://www.yeppp.info/
+[72]: https://bitbucket.org/MDukhan/yeppp
 [73]: https://graphics.stanford.edu/~seander/bithacks.html
 [74]: http://pcc.ludd.ltu.se/
 [75]: http://pcc.ludd.ltu.se/licenses/
@@ -659,14 +659,14 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [102]: http://shop.oreilly.com/product/0636920015482.do
 [103]: http://ccodearchive.net/
 [104]: http://ccodearchive.net/list.html
-[105]: https://symas.com/offerings/lightning-memory-mapped-database/
+[105]: https://github.com/LMDB/lmdb
 [106]: https://directory.fsf.org/wiki/License:OpenLDAPv2.7
 [107]: https://github.com/ioquake/ioq3
 [108]: https://libgit2.github.com/
 [109]: https://github.com/libgit2/libgit2/blob/master/COPYING
 [110]: https://www.openssl.org/
 [111]: https://www.openssl.org/source/license.html
-[112]: http://www.gnutls.org/
+[112]: https://www.gnutls.org/
 [113]: https://github.com/RhysU/c99sh
 [114]: https://github.com/nothings/stb
 [115]: https://tinycthread.github.io/
@@ -721,7 +721,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [165]: https://www.gnu.org/software/libmicrohttpd/
 [166]: http://www.hughes.com.au/products/libhttpd/
 [167]: https://wiki.gnome.org/action/show/Projects/libsoup?action=show&redirect=LibSoup
-[168]: http://www.webdav.org/neon/
 [169]: http://mihl.sourceforge.net/
 [170]: https://github.com/davidmoreno/onion
 [171]: https://github.com/cesanta/mongoose
@@ -769,8 +768,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [213]: http://home.netcom.com/~tjensen/ptr/pointers.htm
 [214]: https://github.com/adamierymenko/huffandpuff
 [215]: https://sourceforge.net/projects/vtd-xml/
-[216]: https://michaelrsweet.github.io?Z3
-[217]: http://svn.msweet.org/mxml/trunk/COPYING
+[216]: https://github.com/michaelrsweet/mxml
+[217]: https://github.com/michaelrsweet/mxml/blob/master/COPYING
 [218]: http://ezxml.sourceforge.net/
 [219]: https://github.com/blunderer/libroxml
 [220]: https://github.com/json-c/json-c/wiki
@@ -794,7 +793,6 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [238]: https://github.com/orangeduck/mpc
 [239]: https://github.com/vstakhov/libucl
 [240]: https://snai.pe/c/c-smart-pointers/
-[241]: https://github.com/eatonphil/Viola
 [242]: https://github.com/concurrencykit/ck
 [243]: http://repo.hu/projects/cchan/
 [244]: https://github.com/pmwkaa/sophia
@@ -819,13 +817,12 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [263]: https://computing.llnl.gov/tutorials/pthreads/
 [264]: https://computing.llnl.gov/tutorials/openMP/
 [265]: https://computing.llnl.gov/tutorials/mpi/
-[266]: https://www.securecoding.cert.org/confluence/display/c/SEI+CERT+C+Coding+Standard
+[266]: https://wiki.sei.cmu.edu/confluence/display/c/SEI+CERT+C+Coding+Standard
 [267]: http://blog.pkh.me/p/20-templating-in-c.html
-[268]: http://lipforge.ens-lyon.fr/www/crlibm/index.html
 [269]: https://github.com/AbsInt/CompCert
 [270]: https://github.com/docopt/docopt.c
 [271]: http://marek.vavrusa.com/c/memory/2015/02/20/memory/
-[272]: https://kukuruku.co/hub/programming/i-do-not-know-c
+[272]: https://kukuruku.co/post/i-do-not-know-c/
 [273]: http://kamalatta.ddnss.de/otherdocs/pikestyle.html
 [274]: https://github.com/andlabs/qo
 [275]: http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html
@@ -846,7 +843,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [290]: http://dotat.at/prog/unifdef/
 [291]: https://tls.mbed.org/
 [292]: http://www.fefe.de/djb/
-[293]: http://www.canonware.com/jemalloc/
+[293]: http://jemalloc.net/
 [295]: https://github.com/gperftools/gperftools
 [296]: https://github.com/ThrowTheSwitch/Unity
 [297]: https://github.com/ThrowTheSwitch/CMock
@@ -904,12 +901,11 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [350]: https://github.com/watmough/jwHash
 [351]: https://www.gnu.org/software/gperf/
 [352]: http://libmill.org/
-[353]: https://directory.fsf.org/wiki/License:X11
 [354]: https://github.com/libimobiledevice/libimobiledevice
 [355]: http://kitsune-dsu.com/
 [356]: https://github.com/abiggerhammer/hammer
 [357]: http://250bpm.com/blog:56
-[358]: http://www.samnip.ps/thought/macro-storage-for-inverse-comma
+[358]: https://github.com/Fedjmike/Fedjmike.github.io/blob/master/_thought/macro-storage-for-inverse-comma.md
 [359]: https://github.com/awslabs/s2n
 [360]: https://www.gnu.org/software/recutils/
 [361]: https://pp.ipd.kit.edu/firm/
@@ -944,7 +940,7 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [391]: http://libccv.org
 [392]: https://github.com/rafael-santiago/cutest
 [393]: https://github.com/rafael-santiago/pig
-[394]: https://www.qt.io/qt-features-libraries-apis-tools-and-ide
+[394]: https://www.qt.io/qt-features-libraries-apis-tools-and-ide/
 [395]: https://github.com/qtproject/qt-creator/blob/master/LICENSE.GPL3-EXCEPT
 [396]: https://pjreddie.com/darknet/
 [397]: https://www.spinellis.gr/cscout/
@@ -955,6 +951,8 @@ This is a 'catch-all' category for anything that doesn't fit well anywhere else.
 [402]: https://github.com/vurtun/nuklear
 [403]: https://github.com/premake/premake-core
 [404]: https://github.com/zephyrproject-rtos/zephyr
+[405]: https://github.com/sheredom/utf8.h
+[406]: http://unlicense.org/
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/aleksandar-todorovic/awesome-c">aleksandar-todorovic/awesome-c</a> with ranks

@@ -74,7 +74,7 @@ Alive projects only, with Sublime Text version 3 support.
 - [Origami ★963](https://github.com/SublimeText/Origami) — split the window however you like! Create new panes, delete panes, move and clone views from pane to pane.
 - [Sync Settings ★95](https://github.com/mfuentesg/SyncSettings) - The cross-platform solution to keep Sublime Text configuration synchronized
 - [SublimeFileBrowser ★313](https://github.com/aziz/SublimeFileBrowser) - Ditch the sidebar and browse your files in a normal tab with your keyboard, like a pro! Also, [Dired](https://en.wikipedia.org/wiki/Dired) lets you modify your directory structure using the powerful text editing feature that ST provides.
-- [PackageResourceViewer ★229](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
+- [PackageResourceViewer ★229 ⏳1Y](https://github.com/skuroda/PackageResourceViewer) — View and Edit Sublime package resources. Helpful for extensions and themes development.
 
 ### Ruby Profile
 
@@ -88,7 +88,7 @@ Plugins:
 
 - [RSpec plugin ★121](https://github.com/SublimeText/RSpec)
 - [BeautifyRuby ★236](https://github.com/CraigWilliams/BeautifyRuby) — beautifies Ruby code.
-- [Sublime Ruby Debugger ★430](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
+- [Sublime Ruby Debugger ★430 ⏳1Y](https://github.com/shuky19/sublime_debugger) — a debugger plugin for interactive ruby and RoR debugging on Sublime Text.
 - [ProductiveSnippetsRuby ★112](https://github.com/janlelis/productive-sublime-snippets-ruby) — consistent set of alternative snippets, focusing on core and stdlib ([Cheatsheet](https://github.com/janlelis/productive-sublime-snippets-ruby/blob/master/CHEATSHEET.md))
 
 ### Python Profile

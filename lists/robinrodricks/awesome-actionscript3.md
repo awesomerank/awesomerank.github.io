@@ -267,7 +267,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### Sound
 
 * [SoundAS ★143](https://github.com/treefortress/SoundAS) - Modern & lightweight sound manager for AS3.
-* [Standingwave3 ★164 ⏳4Y](https://github.com/maxl0rd/standingwave3) - Dynamic audio library.
+* [Standingwave3 ★164 ⏳5Y](https://github.com/maxl0rd/standingwave3) - Dynamic audio library.
 * [Standingwave3-addons ★1 ⏳2Y](https://github.com/charlesclements/standingwave3-addons) - Addons for SW3.
 * [Soundtouch-as3 ★58 ⏳7Y](https://github.com/also/soundtouch-as3) - AS3 Port of the SoundTouch Sound Processing Library.
 * [SeiON ★10 ⏳6Y](https://github.com/cardin/SeiON) - Sound Management Library.
@@ -366,7 +366,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [AS3gif ★21 ⏳7Y](https://github.com/audreyt/as3gif) - Play and encode Animated GIFs.
 * [GIF Player ★55 ⏳2Y](https://github.com/theturtle32/Flash-Animated-GIF-Library) - Play Animated GIFs in Flash.
-* [Async-gif-decoder ★10 ⏳2Y](https://github.com/honzabrecka/async-gif-decoder) - Asynchronous GIF decoder & player.
+* [Async-gif-decoder ★10 ⏳3Y](https://github.com/honzabrecka/async-gif-decoder) - Asynchronous GIF decoder & player.
 
 #### ICAL
 
@@ -388,7 +388,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 #### MP3
 
-* [AS3id3lib ★1 ⏳5Y](https://github.com/devxoul/as3id3lib) - Parse MP3 ID3 data.
+* [AS3id3lib ★1 ⏳6Y](https://github.com/devxoul/as3id3lib) - Parse MP3 ID3 data.
 * [AS3Icy ★26 ⏳7Y](https://github.com/claus/as3icy) - Decode and play live MP3 streams from Shoutcast, Icecast and Limewire.
 
 #### PDF

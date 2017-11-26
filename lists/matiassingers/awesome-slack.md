@@ -236,7 +236,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [slack-integrator ★0 ⏳2Y](https://github.com/way2-technology/slack-integrator) - Easily integrate Slack with your apps!
 - [slack-invite ★11 ⏳2Y](https://github.com/wski/slack-invite) - Invite people to your awesome slack group
 - [slack-irc ★484](https://github.com/ekmartin/slack-irc) - Connects Slack and IRC channels by sending messages back and forth
-- [slack-irc-plugin ★75 ⏳2Y](https://github.com/jimmyhillis/slack-irc-plugin) - Sync IRC with your Slack account
+- [slack-irc-plugin ★75 ⏳3Y](https://github.com/jimmyhillis/slack-irc-plugin) - Sync IRC with your Slack account
 - [slack-jira-plugin ★211](https://github.com/gsingers/slack-jira-plugin) - Watches Slack channels for messages about JIRA and acts accordingly
 - [slack-meme ★13 ⏳2Y](https://github.com/chrismeyersfsu/slack-meme) - Slack meme integration
 - [slack-middle-server ★0 ⏳3Y](https://github.com/clonn/slack-middle-server) - Intermediate webhook server for Slack
@@ -428,7 +428,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [hatebu-hooker ★4 ⏳3Y](https://github.com/kmrshntr/hatebu-hooker) - Post Hatena::Bookmark to Slack
 - [kickslacker ★5](https://github.com/marcroberts/kickslacker) - Post progress updates on a kickstarter project to Slack
 - [lita-slack](https://github.com/kenjij/lita-slack) - Lita adapter for Slack
-- [lita-slack-handler ★7 ⏳2Y](https://github.com/kenjij/lita-slack-handler) - Lita handler for Slack
+- [lita-slack-handler ★7 ⏳3Y](https://github.com/kenjij/lita-slack-handler) - Lita handler for Slack
 - [mina\_slack ★9 ⏳2Y](https://github.com/mbajur/mina_slack) - Slack notifications for Mina
 - [Monit to Slack](https://gist.github.com/jlecour/9830941) - Post alerts from Monit to Slack
 - [mslabs-slack-bridge ★1 ⏳3Y](https://github.com/ms-digital-labs/mslabs-slack-bridge) - Bridge between our cloud services and Slack

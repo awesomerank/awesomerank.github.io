@@ -35,6 +35,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
     * [Aurelia Podcasts](#aurelia-podcasts)
     * [Aurelia Videos](#aurelia-videos)
     * [Aurelia Books](#aurelia-books)
+    * [Aurelia Articles](#aurelia-articles)
   * [Material Design](#material-design)
   * [Aurelia Plugins](#aurelia-plugins)
   * [Aurelia Implementation](#aurelia-implementation)
@@ -148,6 +149,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 * [Practical Aurelia](https://leanpub.com/practical-aurelia) by Behzad Abbasi (behzad888)
 * [Learning Aurelia](https://www.packtpub.com/web-development/learning-aurelia) by Manuel Guilbault
 * [Amazing Aurelia](https://www.gitbook.com/book/kristianmandrup/aurelia-app-amazement/details) By Kristian Mandrup
+* [Aurelia in Action](https://www.manning.com/books/aurelia-in-action) By Sean Hunter
 
 ##### Aurelia Articles
 
@@ -264,7 +266,7 @@ A curated list of amazingly awesome Aurelia libraries, resources and shiny thing
 
 #### Typescript Seed Projects
 
-* [Aurelia Typescript ★154 ⏳1Y](https://github.com/cmichaelgraham/aurelia-typescript) * A starter kit for working with the Aurelia TypeScript type definitions by @cmichaelgraham
+* [Aurelia Typescript ★154 ⏳2Y](https://github.com/cmichaelgraham/aurelia-typescript) * A starter kit for working with the Aurelia TypeScript type definitions by @cmichaelgraham
 * [aurelia-axel ★1 ⏳1Y](https://github.com/cmichaelgraham/aurelia-axel) * As a Visual Studio TypeScript and C# developer building web-based, spatial information systems targeting a variety of platforms that leverage ESRI and SQL Server, I want a starter kit so that I can rapidly build implementations
 * [aurelia-axel-northwind ★2 ⏳1Y](https://github.com/cmichaelgraham/aurelia-axel-northwind) * As a user, I want a walk through of creating a web app from the `aurelia-axel` starter kit, based of a familiar database (Northwind)
 * [aurelia-skeleton-navigation-gulp-typescript ★12 ⏳2Y](https://github.com/Enrapt/aurelia-skeleton-navigation-gulp-typescript) * Aurelia navigation skeleton implemented with Gulp and Typescript

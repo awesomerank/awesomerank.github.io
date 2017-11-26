@@ -158,7 +158,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 ### Android SDK
 
 * [Repo :fire::fire: ★399](https://github.com/aws/aws-sdk-android)
-* [Repo with Samples :fire::fire: ★499](https://github.com/awslabs/aws-sdk-android-samples)
+* [Repo with Samples :fire::fire::fire: ★499](https://github.com/awslabs/aws-sdk-android-samples)
 * [Install](http://sdk-for-android.amazonwebservices.com/latest/aws-android-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-android/)
 * [Learn More](https://aws.amazon.com/mobile/sdk/)
@@ -586,7 +586,7 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-eb-glassfish-dockerfiles ★22 ⏳1Y](https://github.com/aws/aws-eb-glassfish-dockerfiles) - GlassFish docker files.
+* [aws-eb-glassfish-dockerfiles ★22 ⏳2Y](https://github.com/aws/aws-eb-glassfish-dockerfiles) - GlassFish docker files.
 * [aws-eb-python-dockerfiles ★48](https://github.com/aws/aws-eb-python-dockerfiles) - Python docker files.
 * [eb-demo-php-simple-app ★89](https://github.com/awslabs/eb-demo-php-simple-app) - Simple PHP app.
 * [eb-docker-multiple-ports ★43 ⏳2Y](https://github.com/awslabs/eb-docker-multiple-ports) - Simple Node.js and Tomcat apps using Docker images.
@@ -723,7 +723,7 @@ Community Repos:
 
 AWS Repos:
 
-* [amazon-elasticsearch-lambda-samples :fire: ★198](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis.
+* [amazon-elasticsearch-lambda-samples :fire: ★198 ⏳1Y](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis.
 * [aws-lambda-java-libs :fire: ★111](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
 * [aws-lambda-redshift-loader :fire::fire: ★358](https://github.com/awslabs/aws-lambda-redshift-loader) - Redshift loader.
 * [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) - Python Serverless Microframework.

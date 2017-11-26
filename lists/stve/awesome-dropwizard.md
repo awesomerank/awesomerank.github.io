@@ -34,7 +34,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/stv
 * [dropwizard-jaxws ★42](https://github.com/roskart/dropwizard-jaxws) - enables building SOAP web services and clients using JAX-WS API.
 * [dropwizard-redirect-bundle ★13 ⏳1Y](https://github.com/bazaarvoice/dropwizard-redirect-bundle) - allows for HTTP redirects.
 * [dropwizard-template-config ★41](https://github.com/tkrille/dropwizard-template-config) - enables you to write your config.yaml as a Freemarker template.
-* [dropwizard-caching-bundle ★8 ⏳1Y](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses.
+* [dropwizard-caching-bundle ★8 ⏳2Y](https://github.com/bazaarvoice/dropwizard-caching-bundle) - generate cache-control options for resources and caching responses.
 * [dropwizard-xml ★28 ⏳1Y](https://github.com/yunspace/dropwizard-xml) - Dropwizard bundle for processing and validating XMLs
 * [dropwizard-crypto ★13](https://github.com/meltmedia/dropwizard-crypto) - A Cryptographic Bundle for Dropwizard
 * [dropwizard-circuitbreaker ★23](https://github.com/mtakaki/dropwizard-circuitbreaker) - A circuit breaker design pattern for dropwizard

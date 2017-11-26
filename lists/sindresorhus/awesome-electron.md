@@ -116,7 +116,7 @@ Made with Electron.
 - [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar.
 - [Google Play Music Desktop Player ★5585](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.
 - [Chrome DevTools ★1432 ⏳2Y](https://github.com/auchenberg/chrome-devtools-app) - Chrome DevTools packaged as an app.
-- [Yeobara ★7 ⏳1Y](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
+- [Yeobara ★7 ⏳2Y](https://github.com/yeobara/yeobara-desktop) - Meetup check-in with beacon.
 - [Proton ★119](https://github.com/steventhanna/proton) - Markdown editor with live preview.
 - [James](https://github.com/uxebu/james) - HTTP proxy to view and intercept browser requests.
 - [DTCP ★38](https://github.com/alchen/DTCP) - Twitter client.
