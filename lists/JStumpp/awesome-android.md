@@ -131,6 +131,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [Flow ★2417](https://github.com/square/flow) - Library that helps with describing an app as a collection of moderately independent screens.
 - [Crouton ★3032 ⏳2Y](https://github.com/keyboardsurfer/Crouton) - Context sensitive notifications for Android
 - [DragSortListView ★3160 ⏳1Y](https://github.com/bauerca/drag-sort-listview) - Extension of the Android ListView that enables drag-and-drop reordering (No longer maintained).
+- [SortableTableView ★830](https://github.com/ISchwarz23/SortableTableView) - An Android library containing a simple TableView and an advanced SortableTableView providing a lot of customisation possibilities to fit all needs.
 - [MaterialProgressBar ★1402](https://github.com/DreaminginCodeZH/MaterialProgressBar) - Material design ProgressBar with consistent appearance.
 - [AndroidFillableLoaders ★1691 ⏳1Y](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders) - Fillable progress view working with SVG paths. Nice option too for creating interesting app logos.
 - [NexusDialog ★160](https://github.com/dkharrat/NexusDialog) - Allows you to easily and quickly create forms in Android with little code.
@@ -158,6 +159,9 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 - [LGSnackbar ★27](https://github.com/loregr/LGSnackbar) - An easy to use and customisable wrapper of the native Android Snackbar which stays visible across multiple activities.
 - [ShimmerLayout ★1070](https://github.com/team-supercharge/ShimmerLayout) - Memory efficient shimmering effect for Android applications.
 - [CircleProgressBar ★9](https://github.com/emre1512/CircleProgressBar) - A simple library for creating circular progressbars for Android.
+
+#### Paginate
+- [NoPaginate ★41](https://github.com/NoNews/NoPaginate) - Simple Android pagination library
 
 #### ActionBar
 - [ActionBarSherlock](http://actionbarsherlock.com) - ActionBar for older Android versions.
@@ -368,6 +372,7 @@ A curated list of awesome Android [libraries](#libraries) and [resources](#resou
 
 - [Permission Dispatcher ★6005](https://github.com/permissions-dispatcher/PermissionsDispatcher) - Simple annotation-based API to handle runtime permissions.
 - [RxPermissions ★4840](https://github.com/tbruyelle/RxPermissions) - Android runtime permissions powered by RxJava.
+- [NoPermission ★61](https://github.com/NoNews/NoPermission) - Simple Android library for permissions request. Consists of only one class.
 
 ### Other
 

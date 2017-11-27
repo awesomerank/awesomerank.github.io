@@ -132,7 +132,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [opencongress ★45 ⏳1Y](https://github.com/sunlightlabs/opencongress) - An open website for opening Congress
 - [OpenFarm ★505](https://github.com/openfarmcc/OpenFarm) -  A free and open database for farming and gardening knowledge  
 - [openproject ★1674](https://github.com/opf/openproject) - A web based project management system built on Ruby on Rails  [Live](https://www.openproject.org)
-- [opensit ★44](https://github.com/danbartlett/opensit) - An open source meditation community [Live](http://opensit.com)
+- [opensit ★44 ⏳1Y](https://github.com/danbartlett/opensit) - An open source meditation community [Live](http://opensit.com)
 - [openstreetmap-website ★698](https://github.com/openstreetmap/openstreetmap-website) - Mirror of the Rails application powering  [Live](http://www.openstreetmap.org)
 - [ossfriday ★563](https://github.com/ossfriday/ossfriday) - a movement to encourage companies, people and maintainers to contribute to open source every Friday
 - [otwarchive ★292](https://github.com/otwcode/otwarchive) -  An open-source web application intended for hosting archives of fanworks, including fanfic, fanart, and fan vids  [Live](http://archiveofourown.org)

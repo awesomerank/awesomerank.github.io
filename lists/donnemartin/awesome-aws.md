@@ -960,7 +960,7 @@ AWS Repos:
 * [reinvent2013-js-blog-demo ★27 ⏳1Y](https://github.com/awslabs/reinvent2013-js-blog-demo) - Demo blogging app from re:Invent 2013.
 * [reinvent2013-mobile-photo-share ★20 ⏳1Y](https://github.com/awslabs/reinvent2013-mobile-photo-share) - Mobile photo share app from re:Invent 2014.
 * [reinvent2014-scalable-site-management ★56](https://github.com/awslabs/reinvent2014-scalable-site-management) - Scalable site management sample from re:Invent 2014.
-* [reinvent2015-dev309 ★5 ⏳1Y](https://github.com/awslabs/reinvent2015-dev309) - Large Scale Metrics Analysis from re:Invent 2015.
+* [reinvent2015-dev309 ★5 ⏳2Y](https://github.com/awslabs/reinvent2015-dev309) - Large Scale Metrics Analysis from re:Invent 2015.
 * [timely-security-analytics ★24 ⏳2Y](https://github.com/awslabs/timely-security-analytics) - Security analytics sample from 2015 re:Invent 2015.
 * [todo-app-railsconf ★13 ⏳2Y](https://github.com/awslabs/todo-app-railsconf) - Simple "Todo" app from RailsConf 2015.
 * [todo-sample-app ★22 ⏳1Y](https://github.com/awslabs/todo-sample-app) - Simple "Todo" app from RailsConf 2014.

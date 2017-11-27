@@ -63,7 +63,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Configuration Management
 *Libraries and tools related to configuration management.*
 
-* [stillir ★34](https://github.com/heroku/stillir) - Cache environment variables as Erlang app variables.
+* [stillir ★34 ⏳1Y](https://github.com/heroku/stillir) - Cache environment variables as Erlang app variables.
 
 ## Codebase Maintenance
 *Libraries and tools to maintain a clean codebase.*

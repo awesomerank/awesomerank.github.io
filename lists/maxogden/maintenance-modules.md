@@ -47,7 +47,7 @@ Helper tool for the usual steps to create a module. Creates empty github repo, g
 npm i create-module --save-dev
 ```
 
-### [travisjs ★29](https://github.com/finnp/node-travisjs) by [finnp](https://www.npmjs.com/~finnpauls)
+### [travisjs ★29 ⏳1Y](https://github.com/finnp/node-travisjs) by [finnp](https://www.npmjs.com/~finnpauls)
 
 A command line module for travis, especially targeted for managing tests for node modules. Helps you quickly add a travis hook + generate a travis badge for your readme.
 

@@ -152,6 +152,7 @@ Please take a quick look at the [contribution guidelines](https://github.com/yis
 
 * [Hello Dart](http://code.makery.ch/library/hello-dart/) - A playful introduction to Dart.
 * [Darrrt](https://www.dartlang.org/codelabs/darrrt/) - Web app code lab.
+* [Getting Started with Dart & React](https://www.leejamesrobinson.com/blog/getting-started-with-dart-and-react/)
 
 ## Community
 

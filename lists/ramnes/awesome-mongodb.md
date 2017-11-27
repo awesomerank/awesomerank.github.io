@@ -28,6 +28,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
    - [C++](#c-1)
    - [C#/.NET](#cnet)
    - [Delphi](#delphi)
+   - [Elixir](#elixir)
    - [Erlang](#erlang)
    - [Go](#go)
    - [Haskell](#haskell)
@@ -101,6 +102,10 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 ### Delphi
  - [TMongoWire ★67](https://github.com/stijnsanders/TMongoWire) - Minimal community Delphi driver
+
+### Elixir
+ - [mongodb ★221](https://github.com/ankhers/mongodb) - Community Elixir driver
+ - [mongodb_ecto ★241](https://github.com/ankhers/mongodb_ecto) - Adapter for the Ecto database wrapper
 
 ### Erlang
  - [mongodb-erlang ★259](https://github.com/comtihon/mongodb-erlang) - Community Erlang driver

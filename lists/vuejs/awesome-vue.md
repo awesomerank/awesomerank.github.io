@@ -414,6 +414,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Vue2-PWA-Blog ★4](https://github.com/deepak-singh/vue-blog-pwa) by @deepak-singh
   - [vue-firebase-auth-vuex ★9](https://github.com/aofdev/vue-firebase-auth-vuex) A Vue2 Firebase Authentication with Vuex and support Progressive Web Apps
   - [vue-chart-stater-kit ★3](https://github.com/joshua1988/vue-chart-starter-kit) Quick starter using Vue Router, Vue Chart, Element-UI
+  - [vue2.0-demos ★28](https://github.com/qianyinghuanmie/vue2.0-demos) using mint-ui, Element-UI,And have Some demos（select city and so on）
   - [conway ★0](https://github.com/edge/conway) Conway's Game of Life in Vue.
   - [vuex-feature-scoped-structure ★8](https://github.com/igeligel/vuex-feature-scoped-structure) An example application of the feature scoped vuex application structure
   - [vuex-examples ★37](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
@@ -631,6 +632,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [Let's Enchance](https://letsenhance.io/) - free online image upscale and enhancement with neural networks.
   - [Pi.TEAM - Online Invoicing and Accounting](https://pi.team) - Simple to use online accounting and invoicing, free for single users and freelancers.
   - [Vuethwallet ★2](https://github.com/sc0vu/vuethwallet) - A simple app generate ethereum wallet with vuejs.
+  - [Tipe](https://tipe.io) - Next Generation API-first CMS. Create your content with powerful editing tools and access it from anywhere with a GraphQL or REST API. Stop letting your CMS decide how you build your apps.
 
 
 ### Interactive Experiences

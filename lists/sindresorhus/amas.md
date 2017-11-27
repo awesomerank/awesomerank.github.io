@@ -128,7 +128,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Miguel Durán](https://github.com/miduga/ama) - Developer of things and stuff at Typeform, creator of [React Slidy ★11](https://github.com/miduga/react-slidy). Love videogames, embrace StandardJS. Living in Barcelona.
 - [Jesse Palmer](https://github.com/jesselpalmer/ama) - Author of [Testing Angular 2 Applications](http://testing-angular-2-applications.com). Master Software Engineer, Manager at Capital One.
 - [Chris 'Freddy' Getsfred ★0 ⏳1Y](https://github.com/elderfo/ama) - Black hoodie aficionado, full-stack developer, JavaScript lover, new open source contributer, former script nerd, former technology instructor.
-- [Seth Holladay ★0](https://github.com/sholladay/ama) - A human seeking a full stack of pancakes and software, bug free.
+- [Seth Holladay ★0 ⏳1Y](https://github.com/sholladay/ama) - A human seeking a full stack of pancakes and software, bug free.
 - [Nikita Voloboev](https://github.com/nikitavoloboev/ama) - [macOS enthusiast](https://github.com/nikitavoloboev/my-mac-os), [open knowledge](https://github.com/nikitavoloboev/my-notes) evangelist, [writer](https://medium.com/@NikitaVoloboev) and an aspiring web developer.
 - [Sitesh Shrivastava ★0](https://github.com/SITZ/ama) - About Technology, Quantitative Finance, Products & Extreme Sports.
 - [Zach Leatherman ★0 ⏳1Y](https://github.com/zachleat/ama) - I have a beard sometimes.

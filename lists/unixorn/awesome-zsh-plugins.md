@@ -504,7 +504,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [autopkg-zsh-completion ★6 ⏳2Y](https://github.com/fuzzylogiq/autopkg-zsh-completion) - Completions for autopkg.
 * [aws_manager_plugin ★0 ⏳1Y](https://github.com/EslamElHusseiny/aws_manager_plugin) - Add completions for the aws_manager CLI.
 * [berkshelf-zsh-plugin ★16 ⏳1Y](https://github.com/berkshelf/berkshelf-zsh-plugin) - Adds tab completion for berkshelf.
-* [bosh-zsh-autocompletion ★2 ⏳2Y](https://github.com/krujos/bosh-zsh-autocompletion) - Adds BOSH autocompletion.
+* [bosh-zsh-autocompletion ★2 ⏳3Y](https://github.com/krujos/bosh-zsh-autocompletion) - Adds BOSH autocompletion.
 * [brew-services ★13 ⏳2Y](https://github.com/vasyharan/zsh-brew-services) - Completion plugin for homebrew services.
 * [cabal ★0 ⏳3Y](https://github.com/d12frosted/cabal.plugin.zsh) - Adds autocompletion for cabal.
 * [cf-zsh-autocomplete-plugin](https://github.com/frodenas/cf-zsh-autocomplete-plugin) - Adds autocomplete for all [Cloud Foundry CLI](https://docs.cloudfoundry.org/devguide/installcf/) commands.
@@ -776,7 +776,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [work-line ★5](https://github.com/afnizarnur/work-line) - Theme with nice emojis.
 * [xremix ★1 ⏳1Y](https://github.com/xremix/oh-my-zsh-xremix-theme) - An oh-my-zsh shell theme based on the Jreese theme plugin.
 * [xxf](https://gist.github.com/xfanwu/18fd7c24360c68bab884) - Shows Current commit shorten hash and message.
-* [yairshefi ★0](https://github.com/yaireclipse/yairshefi-ohmyzsh-theme) - Minimal theme with line separated prompts.
+* [yairshefi ★0](https://github.com/yaireclipse/yairshefi-ohmyzsh-theme) - Minimal theme with line separated prompts. Based on [Robby Russell's theme](https://github.com/robbyrussell/oh-my-zsh/blob/master/themes/robbyrussell.zsh-theme)
 * [ykmam](https://github.com/julienvanderkluft/ykmam-zsh-theme/blob/master/ykmam.zsh-theme) - Modified from ys theme. Optimized for a dark background.
 * [ys ★0](https://github.com/cristiancavalli/ys-zsh-custom-theme) - Clean, simple, compatible and meaningful theme meant for dark backgrounds.
 * [yuki ★3](https://github.com/yuki-torii/yuki-zsh-theme) - A dark optimized ZSH theme.

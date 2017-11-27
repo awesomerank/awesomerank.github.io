@@ -9,7 +9,7 @@ title: Awesome Rank for lvwzhen/tools
 ---
 # Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
 
->Tools for web
+>An awesome list of hosted tools for web development.
 
 ### Response
 
@@ -129,7 +129,7 @@ title: Awesome Rank for lvwzhen/tools
 
 * [Hurl.it](https://www.hurl.it/)
 * [requestb.in](http://requestb.in/)
-* [Beeceptor.com](http://beeceptor.com/)
+* [Beeceptor.com](https://beeceptor.com/)
 
 ### API Doc
 

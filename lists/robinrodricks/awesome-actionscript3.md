@@ -295,7 +295,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 #### SQLite
 * [AS3Query ★3 ⏳2Y](https://github.com/kemsky/as3Query) - Another SQLite ORM and query DSL for ActionScript.
 * [AIRdb ★34 ⏳7Y](https://github.com/dkeskar/airdb) - AIR ORM for using client-side SQLite within AIR and Flex apps. Supports ActiveRecord style models, migrations and associations.
-* [Flexine ★4 ⏳4Y](https://github.com/riadvice/Flexine) - SQLite ORM for AIR.
+* [Flexine ★4 ⏳5Y](https://github.com/riadvice/Flexine) - SQLite ORM for AIR.
 * [AIR-sqlite ★77 ⏳5Y](https://github.com/probertson/air-sqlite) - Utilities for working with SQLite databases in AIR.
 
 #### MongoDB

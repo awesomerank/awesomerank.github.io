@@ -128,7 +128,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [bloomex ★36](https://github.com/gmcabrita/bloomex) - A pure Elixir implementation of Scalable Bloom Filters.
 * [clope ★3](https://github.com/ayrat555/clope) - Elixir implementation of [CLOPE](http://www.inf.ufrgs.br/~alvares/CMP259DCBD/clope.pdf): A Fast and Effective Clustering Algorithm for Transactional Data.
 * [combination ★13](https://github.com/seantanly/elixir-combination) - Elixir library to generate combinations and permutations from Enumerable collection.
-* [count_buffer ★2 ⏳1Y](https://github.com/camshaft/count_buffer) - Buffer a large set of counters and flush periodically.
+* [count_buffer ★2 ⏳2Y](https://github.com/camshaft/count_buffer) - Buffer a large set of counters and flush periodically.
 * [cuckoo ★21](https://github.com/gmcabrita/cuckoo) - A pure Elixir implementation of [Cuckoo Filters](https://www.cs.cmu.edu/%7Edga/papers/cuckoo-conext2014.pdf).
 * [cuid ★21](https://github.com/duailibe/cuid) - Collision-resistant ids optimized for horizontal scaling and sequential lookup performance, written in Elixir.
 * [data_morph](https://hex.pm/packages/data_morph) - Create Elixir structs from data.
@@ -956,7 +956,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [pact ★41](https://github.com/BlakeWilliams/pact) - Better dependency injection in Elixir for cleaner code and testing.
 * [phone ★49](https://github.com/fcevado/phone) - A parser to get useful info from telephone numbers.
 * [porcelain ★551](https://github.com/alco/porcelain) - Porcelain implements a saner approach to launching and communicating with external OS processes from Elixir.
-* [presentex ★9 ⏳1Y](https://github.com/Cobenian/Presentex) - Elixir to HTML/JavaScript based presentation framework.
+* [presentex ★9 ⏳2Y](https://github.com/Cobenian/Presentex) - Elixir to HTML/JavaScript based presentation framework.
 * [ratx ★17](https://github.com/liveforeverx/ratx) - Rate limiter and overload protection for erlang application.
 * [reprise](https://github.com/herenowcoder/reprise) - Simplified module reloader for Elixir.
 * [spawndir ★3 ⏳3Y](https://github.com/jtmoulia/spawndir) - Spawns processes from the file system.
@@ -1296,7 +1296,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [dicer ★3 ⏳2Y](https://github.com/olhado/dicer) - A dice roller expression evaluator.
 * [eden](https://github.com/jfacorro/Eden) - [EDN ★1546 ⏳1Y](https://github.com/edn-format/edn) encoder/decoder for Elixir.
 * [elixilorem ★7](https://github.com/mgamini/elixilorem) - Lorem Ipsum generator for Elixir.
-* [elixir-range-extras ★6 ⏳1Y](https://github.com/lnikkila/elixir-range-extras) - Elixir range utilities: constant-time random sampling and set operations.
+* [elixir-range-extras ★6 ⏳2Y](https://github.com/lnikkila/elixir-range-extras) - Elixir range utilities: constant-time random sampling and set operations.
 * [elixir_bencode ★10 ⏳2Y](https://github.com/AntonFagerberg/elixir_bencode) - Bencode implemented in Elixir.
 * [erldn](https://github.com/marianoguerra/erldn) - [EDN ★1546 ⏳1Y](https://github.com/edn-format/edn) format parser for the Erlang platform.
 * [event_source_encoder ★3 ⏳2Y](https://github.com/chatgris/event_source_encoder) - Encode data into EventSource compliant data.
@@ -1465,7 +1465,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [vultr ★1](https://github.com/avitex/elixir-vultr) - Simple wrapper for the Vultr API.
 * [xe ★18 ⏳1Y](https://github.com/paulodiniz/xe) - Real time conversion for currencies.
 * [xend ★2](https://github.com/saulecabrera/xend) - Simple Elixir wrapper for Facebook's Send API.
-* [zanox ★1 ⏳1Y](https://github.com/rafaelss/zanox) - Zanox API.
+* [zanox ★1 ⏳2Y](https://github.com/rafaelss/zanox) - Zanox API.
 
 ## Translations and Internationalizations
 *Libraries providing translations or internationalizations.*

@@ -109,7 +109,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * [js-loaders ★55 ⏳3Y](https://github.com/jorendorff/js-loaders) - Mozilla's spec-compliant loader prototype
 * [JSPM](http://jspm.io/) - ES6, AMD, CJS module loading/package management
 * [Babel Module Loader ★2233](https://github.com/babel/babel-loader)
-* [beck.js ★5 ⏳3Y](https://github.com/unscriptable/beck) - toolkit for ES6 Module Loader pipelines, shim for legacy environments
+* [beck.js ★5 ⏳4Y](https://github.com/unscriptable/beck) - toolkit for ES6 Module Loader pipelines, shim for legacy environments
 
 ## Boilerplates
 * [es6-boilerplate ★87 ⏳3Y](https://github.com/davidjnelson/es6-boilerplate) - Tooling to allow the community to use es6 now via traceur in conjunction with amd and browser global modules, with source maps, concatenation, minification, compression, and unit testing in real browsers.
@@ -184,7 +184,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * [es6-translate ★5 ⏳3Y](https://github.com/calvinmetcalf/es6-translate) - Uses the ES6 loader hooks to load (node flavored) commonjs packages in ES6.
 * [Isparta ★640 ⏳1Y](https://github.com/douglasduteil/isparta)
 * [babel-node](https://babeljs.io/docs/usage/cli/#babel-node) - Run node cli with ES6 transpiling using Babel.
-* [ES6 Lab setup ★28](https://github.com/hemanth/es6-lab-setup) - A simple setup for transpiling ES6 to ES5 using `Babel` or `traceur` with `gulp` and `jasmine` support.
+* [ES6 Lab setup ★28 ⏳1Y](https://github.com/hemanth/es6-lab-setup) - A simple setup for transpiling ES6 to ES5 using `Babel` or `traceur` with `gulp` and `jasmine` support.
 * [TypeScript](http://www.typescriptlang.org/) - A superset of ECMAScript with strict typing that aims to align with ES6
 * [Rollup](http://rollupjs.org/) - Rollup is a next-generation JavaScript module bundler. Author your app or library using ES2015 modules, then efficiently bundle them up into a single file for use in browsers and Node.js
 ---

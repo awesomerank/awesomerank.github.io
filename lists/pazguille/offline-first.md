@@ -49,8 +49,41 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 ## Posts
 
+[Accessibility Testing for Offline First Applications](https://medium.com/ibm-watson-data-lab/accessibility-testing-for-offline-first-applications-d8d2bfd24a6e)
+(Maureen McElaney - Nov 6, 2017)
+
+[How to add an “Offline” notification to your PWA](https://medium.com/@argo49/how-to-add-an-offline-notification-to-your-pwa-c11ee640822b)
+(Tyler Argo - Oct 28, 2017)
+
+[Building Offline-First App using MVVM, RxJava, Room and Priority Job Queue](https://proandroiddev.com/offline-apps-its-easier-than-you-think-9ff97701a73f)
+(James Shvarts - Oct 8, 2017)
+
+[Supporting Offline Users — What Happens When it Breaks?](https://medium.com/offline-camp/supporting-offline-users-what-happens-when-it-breaks-562f7dcea0a9)
+(John Kleinschmidt - Sep 27, 2017)
+
+[Using React and Preact to Build My First Offline First Apps](https://medium.com/offline-camp/using-react-and-preact-to-build-my-first-offline-first-apps-8df4a1e5471b)
+(Nick Kasten - Sep 5, 2017)
+
+[Offline-Friendly Forms](https://mxb.at/blog/offline-forms/)
+(Max Böck - Aug 23, 2017)
+
+[Service Worker: One fallback offline image for any aspect ratio](https://hackernoon.com/service-worker-one-fallback-offline-image-for-any-aspect-ratio-b427c0f897fb)
+(Sebastian Eberlein - Aug 14, 2017)
+
+[You're Offline](https://mxb.at/blog/youre-offline/)
+(Max Böck - Jul 12, 2017)
+
+[[Part 2] Get rapid offline capability in your Angular app with service worker](https://medium.com/onehourcode/part-2-get-rapid-offline-capability-in-your-angular-app-with-service-worker-954f17109dd0)
+(Hugo Dolan - Jun 28, 2017)
+
 [Persistent Storage API: Building for the offline web](https://deanhume.com/Home/BlogPost/persistent-storage-api--building-for-the-offline-web/10161)
 (Dean Hume - Jun 26, 2017)
+
+[[Part 1] Get rapid offline capability in your Angular app with service worker](https://medium.com/onehourcode/part-1-get-rapid-offline-capability-in-your-angular-app-with-service-worker-762a889a503d)
+(Hugo Dolan - Jun 21, 2017)
+
+[Building an offline Web App that works in very low internet conditions using ServiceWorkers](https://medium.com/progressive-web-apps/building-offline-webapp-using-serviceworkers-8939a694cc5)
+(Hari krishna - Jun 16, 2017)
 
 [Offline POSTs in Progressive Web Apps](https://medium.com/@nitish404/offline-post-in-progressive-web-apps-3d02f893b223)
 (Nitish Thakur - Jun 23, 2017)
@@ -183,6 +216,9 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 [Offline Reading List](https://chrisruppel.com/blog/service-worker-offline-content-list/)
 (Chris Ruppel - Oct 5, 2016)
+
+[Almost any web page can work offline ★4](https://github.com/homam/service-workers-example) 
+(Homam Hosseini - Sep 24, 2016)
 
 [Enabling Offline First Experiences on the Web with Service Workers](https://medium.com/offline-camp/enabling-offline-first-experiences-on-the-web-with-service-workers-e4bc8c773dae#.c6ui0i9cs)
 (Dan Zajdband - Sep 12, 2016)
@@ -849,7 +885,10 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [bro-fs ★10](https://github.com/vitalets/bro-fs): Promise-based wrapper over [HTML5 Filesystem API](https://www.w3.org/TR/file-system-api/) allowing to work with sandboxed filesystem in Chrome.
 
+[Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
+
 [workbox ★3359](https://github.com/GoogleChrome/workbox): JavaScript libraries for Offline Caching
+
 
 ## Books
 

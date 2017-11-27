@@ -272,7 +272,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 * [phest ★23 ⏳1Y](https://github.com/ovide/phest) - REST API library for Phalcon
 * [php-hmac-rest-api ★158](https://github.com/jeteokeeffe/php-hmac-rest-api) - PHP HMAC Restful API that uses Phalcon Micro Application
 * [PhREST API ★27 ⏳1Y](https://github.com/phrest/api) - Phalcon PHP Framework REST API Package
-* [rest-seed ★6 ⏳3Y](https://github.com/michaelkrone/rest-seed) - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
+* [rest-seed ★6 ⏳4Y](https://github.com/michaelkrone/rest-seed) - Scaffold a REST API Application Phalcon (multi module), Angular and Bootstrap (using Yeoman, Bower and Grunt)
 
 
 ## Routing

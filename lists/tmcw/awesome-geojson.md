@@ -86,7 +86,7 @@ GeoJSON utilities that will make your life easier.
 * [natural earth](http://www.naturalearthdata.com/): country, province, and geographical data
 * [geojson.xyz](http://geojson.xyz/): natural earth data in web-friendly sizes with hotlinking
 * [world-atlas ★470](https://github.com/topojson/world-atlas): customizable simplified versions of natural earth data
-* [geo-countries ★23](https://github.com/simonepri/geo-countries): GeoJSON political boundaries from OSM
+* [geo-maps ★649](https://github.com/simonepri/geo-maps): High Quality GeoJSON maps programmatically generated.
 * [openflights-geojson](https://github.com/tmcw/openflights-geojson): [openflights](http://openflights.org/) airports & airplane routes
 * [us-atlas ★540](https://github.com/topojson/us-atlas): geojson & topojson for United States features
 * [metro-extracts](https://mapzen.com/data/metro-extracts/): regional OpenStreetMap data as GeoJSON
