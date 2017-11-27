@@ -742,6 +742,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [PXGoogleDirections ★195](https://github.com/poulpix/PXGoogleDirections) - Google Directions API helper for iOS, written in Swift :large_orange_diamond:
 * [Cluster ★752](https://github.com/efremidze/Cluster) - Easy Map Annotation Clustering. :large_orange_diamond:
 * [JDSwiftHeatMap ★43](https://github.com/jamesdouble/JDSwiftHeatMap) - JDSwiftMap is an IOS Native MapKit Library. You can easily make a highly customized HeatMap. :large_orange_diamond:
+* [ClusterKit ★223](https://github.com/hulab/ClusterKit) - An iOS map clustering framework targeting MapKit, Google Maps and Mapbox.
 
 ## Math
 * [Euler ★861](https://github.com/mattt/Euler) - Swift Custom Operators for Mathematical Notation :large_orange_diamond:

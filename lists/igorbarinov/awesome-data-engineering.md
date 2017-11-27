@@ -170,7 +170,7 @@ multi-processor, multi-core machines
 - Batch SQL
 	* [Presto](https://prestodb.io/docs/current/index.html) A distributed SQL query engine designed to query large data sets distributed over one or more heterogeneous data sources.
 	* [Hive](http://hive.apache.org) Data warehouse software facilitates querying and managing large datasets residing in distributed storage. 
-		* [Hivemall ★500](https://github.com/myui/hivemall) Scalable machine learning library for Hive/Hadoop.
+		* [Hivemall ★500 ⏳1Y](https://github.com/myui/hivemall) Scalable machine learning library for Hive/Hadoop.
 		* [PyHive ★526](https://github.com/dropbox/PyHive) Python interface to Hive and Presto.
 	* [Drill](https://drill.apache.org/) Schema-free SQL Query Engine for Hadoop, NoSQL and Cloud Storage.
 
