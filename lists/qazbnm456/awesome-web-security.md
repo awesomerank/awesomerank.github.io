@@ -92,10 +92,12 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 ## Forums
 
-* [Drops (backup)](https://drops.secquan.org/) - Drops was known as a famous knowledge base for hacking technology.
-* [Paper from Seebug](http://paper.seebug.org/) - Knowledge base for hacking technology built by [Seebug](http://seebug.org/).
+* [安全客](http://bobao.360.cn/) - 有思想的安全新媒体 by [360网络攻防实验室](https://m.weibo.cn/u/5738163260).
+* [Paper - 安全技术精粹](http://paper.seebug.org/) - Knowledge base for hacking technology built by 404 Team from [knownsec](https://www.knownsec.com/).
 * [Freebuf](http://www.freebuf.com/) - Freebuf is the most popular forum in China for exchanging and sharing hacking technology.
+* [指尖安全](https://www.secfree.com/) - 垂直互联网安全媒体 by [指尖安全](指尖安全).
 * [安全脉搏](https://www.secpulse.com/) - Blog for Security things.
+* [Drops (backup)](https://drops.secquan.org/) - Drops was known as a famous knowledge base for hacking technology.
 * [HackDig](http://en.hackdig.com/) - Dig high-quality web security articles for hacker.
 * [T00LS](https://www.t00ls.net/) - T00LS - 低调求发展 - 潜心习安全.
 
@@ -301,10 +303,12 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 * [URL Hacking - 前端猥琐流](http://php.ph/wydrops/drops/URL%20Hacking%20-%20前端猥琐流.pdf) - Written by [0x_Jin](http://xssec.lofter.com/).
 * [Phishing with Unicode Domains](https://www.xudongz.com/blog/2017/idn-phishing/) - Written by [Xudong Zheng](https://www.xudongz.com/).
 * [Unicode Domains are bad and you should feel bad for supporting them](https://www.vgrsec.com/post20170219.html) - Written by [VRGSEC](https://www.vgrsec.com/).
+* [[dev.twitter.com] XSS](http://blog.blackfan.ru/2017/09/devtwittercom-xss.html) - Written by [Sergey Bobrov](http://blog.blackfan.ru/).
 
 <a name="tricks-others"></a>
 ### Others
 
+* [How I hacked Google’s bug tracking system itself for $15,600 in bounties](https://medium.freecodecamp.org/messing-with-the-google-buganizer-system-for-15-600-in-bounties-58f86cc9f9a5) - Written by [@alex.birsan](https://medium.freecodecamp.org/@alex.birsan).
 * [Some Tricks From My Secret Group](https://www.leavesongs.com/SHARE/some-tricks-from-my-secret-group.html) - Written by [PHITHON](https://www.leavesongs.com/).
 * [CTF比赛总是输？你还差点Tricks!](https://docs.google.com/presentation/d/1Cx0vI2Mzy0zwdTrgic3S3TwGMCpH-QhMUdHU1r3AYfI/edit#slide=id.g35f391192_065) - Written by [PHITHON](https://www.leavesongs.com/).
 * [隱匿的攻擊之-Domain Fronting](https://evi1cg.me/archives/Domain_Fronting.html) - Written by [Evi1cg](https://evi1cg.me/).
@@ -452,6 +456,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 
 * [Orange](http://blog.orange.tw/) - Taiwan's talented web penetrator.
 * [leavesongs](https://www.leavesongs.com/) - China's talented web penetrator.
+* [James Kettle](http://albinowax.skeletonscribe.net/) - Head of Research at [PortSwigger Web Security](https://portswigger.net/).
 * [Broken Browser](https://www.brokenbrowser.com/) - Fun with Browser Vulnerabilities.
 * [Blog of Osanda](https://osandamalith.com/) - Security Researching and Reverse Engineering.
 * [BRETT BUERHAUS](https://buer.haus/) - Vulnerability disclosures and rambles on application security.

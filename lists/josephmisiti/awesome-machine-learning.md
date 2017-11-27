@@ -373,7 +373,7 @@ Further resources:
 * [Stanford Temporal Tagger](http://nlp.stanford.edu/software/sutime.shtml) - SUTime is a library for recognizing and normalizing time expressions.
 * [Stanford SPIED](http://nlp.stanford.edu/software/patternslearning.shtml) - Learning entities from unlabeled text starting with seed sets using patterns in an iterative fashion.
 * [Stanford Topic Modeling Toolbox](http://nlp.stanford.edu/software/tmt/tmt-0.4/) - Topic modeling tools to social scientists and others who wish to perform analysis on datasets.
-* [Twitter Text Java ★373 ⏳2Y](https://github.com/twitter/twitter-text-java) - A Java implementation of Twitter's text processing library.
+* [Twitter Text Java ★373 ⏳3Y](https://github.com/twitter/twitter-text-java) - A Java implementation of Twitter's text processing library.
 * [MALLET](http://mallet.cs.umass.edu/) - A Java-based package for statistical natural language processing, document classification, clustering, topic modeling, information extraction, and other machine learning applications to text.
 * [OpenNLP](https://opennlp.apache.org/) - a machine learning based toolkit for the processing of natural language text.
 * [LingPipe](http://alias-i.com/lingpipe/index.html) - A tool kit for processing text using computational linguistics.
@@ -951,7 +951,7 @@ be
 * [NetworkX](https://networkx.github.io/) - A high-productivity software for complex networks.
 * [igraph](http://igraph.org/python/) - binding to igraph library - General purpose graph library.
 * [Pandas](http://pandas.pydata.org/) - A library providing high-performance, easy-to-use data structures and data analysis tools.
-* [Open Mining ★808](https://github.com/mining/mining) - Business Intelligence (BI) in Python (Pandas web interface)
+* [Open Mining ★808 ⏳1Y](https://github.com/mining/mining) - Business Intelligence (BI) in Python (Pandas web interface)
 * [PyMC ★589](https://github.com/pymc-devs/pymc) - Markov Chain Monte Carlo sampling toolkit.
 * [zipline ★5732](https://github.com/quantopian/zipline) - A Pythonic algorithmic trading library.
 * [PyDy](http://www.pydy.org/) - Short for Python Dynamics, used to assist with workflow in the modeling of dynamic motion based around NumPy, SciPy, IPython, and matplotlib.
@@ -1077,7 +1077,7 @@ be
 * [Ruby Wordnet](https://deveiate.org/projects/Ruby-WordNet/) - This library is a Ruby interface to WordNet.
 * [Raspel](https://sourceforge.net/projects/raspell/) - raspell is an interface binding for ruby.
 * [UEA Stemmer ★44](https://github.com/ealdent/uea-stemmer) - Ruby port of UEALite Stemmer - a conservative stemmer for search and indexing.
-* [Twitter-text-rb ★628 ⏳2Y](https://github.com/twitter/twitter-text-rb) - A library that does auto linking and extraction of usernames, lists and hashtags in tweets.
+* [Twitter-text-rb ★628 ⏳3Y](https://github.com/twitter/twitter-text-rb) - A library that does auto linking and extraction of usernames, lists and hashtags in tweets.
 
 <a name="ruby-general-purpose"></a>
 #### General-Purpose Machine Learning

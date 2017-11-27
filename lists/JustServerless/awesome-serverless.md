@@ -903,6 +903,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Your Lambda function might execute twice](https://cloudonaut.io/your-lambda-function-might-execute-twice-deal-with-it/) - What to do to prevent a Lambda function from executing twice.
 - [Hacking a bathroom queue with serverless and IoT](https://serverless.com/blog/game-throne-hacking-bathroom-serverless-iot/) - How to develop a bathroom queue with serverless and IoT technologies.
 - [Looking back to see forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62) - Post about the future of serverless computing derived and inspired by the past of tech trends.
+- [State of serverless report 2017](https://blog.newrelic.com/2017/11/21/aws-lambda-state-of-serverless/) - AWS Lambda in production - State of serverless report 2017.
 
 ## Screencasts
 
@@ -1717,7 +1718,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWSM ★170 ⏳2Y](https://github.com/awsm-org/awsm) - Official GitHub organization for modules.
 - [Getting started with JAWS on AWS](https://aws.amazon.com/de/blogs/compute/getting-started-with-jaws-on-amazon-web-services/) - Getting started guide with Serverless by Amazon (might be deprecated).
 - [Serverless starter ★162](https://github.com/serverless/serverless-starter) - Boilerplate for new projects.
-- [JAWS local server ★3 ⏳1Y](https://github.com/martinlindenberg/JawsLocalServer) - Local server which lets you execute Lambda functions locally.
+- [JAWS local server ★3 ⏳2Y](https://github.com/martinlindenberg/JawsLocalServer) - Local server which lets you execute Lambda functions locally.
 - [Shark Notes ★2 ⏳1Y](https://github.com/JustServerless/shark-notes) - Full note taking tool (frontend and backend) which shows how to do CRUD with Serverless.
 - [Serverless Registry](https://justserverless.github.io/serverless-registry) - Unofficial plugin and module search.
 

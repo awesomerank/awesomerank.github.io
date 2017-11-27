@@ -499,7 +499,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [FastMM ★133](https://github.com/pleriche/FastMM4). Lightning fast replacement memory manager for Embarcadero Delphi Win32 and Win64 applications that is not prone to memory fragmentation, and supports shared memory without the use of external .DLL files.
 // *Used as stock memory manager since 2006 but in simplified version. Provides powerful memory leak/corruption detection instruments.*
 
-* [ScaleMM ★41](https://github.com/andremussche/scalemm). Fast scaling memory manager for Delphi
+* [ScaleMM ★41 ⏳1Y](https://github.com/andremussche/scalemm). Fast scaling memory manager for Delphi
 
 * [BrainMM ★35](https://github.com/d-mozulyov/BrainMM). Extremely fast memory manager for Delphi.
 // *Advanced memory allocation functions for faster aligned operations.*

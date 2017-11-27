@@ -124,6 +124,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Form & Settings](#form--settings)
         - [Keyboard](#keyboard)
         - [Label](#label)
+        - [Login](#login)
         - [Menu](#menu)
         - [Navigation Bar](#navigation-bar)
         - [PickerView](#pickerview)
@@ -236,7 +237,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [SwiftyOAuth ★458](https://github.com/delba/SwiftyOAuth) - A simple OAuth library for iOS with a built-in set of providers :large_orange_diamond:
 * [Simplicity ★636](https://github.com/SimplicityMobile/Simplicity) - A simple way to implement Facebook and Google login in your iOS and macOS apps. :large_orange_diamond:
 * [InstagramAuthViewController ★33 ⏳1Y](https://github.com/Isuru-Nanayakkara/InstagramAuthViewController) - A ViewController for Instagram authentication. :large_orange_diamond:
-* [Cely ★83](https://github.com/chaione/Cely) - Plug-n-Play login framework written in Swift. :large_orange_diamond:
 * [InstagramSimpleOAuth ★82](https://github.com/rbaumbach/InstagramSimpleOAuth) - A quick and simple way to authenticate an Instagram user in your iPhone or iPad app.
 * [DropboxSimpleOAuth ★42](https://github.com/rbaumbach/DropboxSimpleOAuth) - A quick and simple way to authenticate a Dropbox user in your iPhone or iPad app.
 * [BoxSimpleOAuth ★15](https://github.com/rbaumbach/BoxSimpleOAuth) - A quick and simple way to authenticate a Box user in your iPhone or iPad app.
@@ -1588,7 +1588,6 @@ Most of these are paid services, some have free tiers.
 * [Popover ★1301](https://github.com/corin8823/Popover) - Popover is a balloon library like Facebook app. It is written in pure swift. :large_orange_diamond:
 * [YangMingShan ★615](https://github.com/yahoo/YangMingShan) - YangMingShan is a collection of iOS UI components that we created while building Yahoo apps.
 * [TOActionSheet ★158](https://github.com/TimOliver/TOActionSheet) - A custom-designed reimplementation of the UIActionSheet control for iOS
-* [LFLoginController ★88](https://github.com/awesome-labs/LFLoginController) - Customizable login screen, written in Swift :large_orange_diamond:
 * [nui ★3754](https://github.com/tombenner/nui) - Style iOS apps with a stylesheet, similar to CSS
 * [RedBeard](http://www.redbeard.io/) - It's a complete framework that takes away much of the pain of getting a beautiful, powerful iOS App crafted.
 * [Material ★8828](https://github.com/CosmicMind/Material) - Material is an animation and graphics framework that allows developers to easily create beautiful applications. :large_orange_diamond:
@@ -1634,7 +1633,6 @@ Most of these are paid services, some have free tiers.
 * [CHIPageControl ★1597](https://github.com/ChiliLabs/CHIPageControl) - A set of cool animated page controls to replace boring UIPageControl. :large_orange_diamond:
 * [Magnetic ★695](https://github.com/efremidze/Magnetic) - SpriteKit Floating Bubble Picker (inspired by Apple Music). 🔶
 * [AmazingBubbles ★37](https://github.com/GlebRadchenko/AmazingBubbles) - Apple Music like Bubble Picker using Dynamic Animation. 🔶
-* [LoginKit ★422](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.  🔶
 * [Haptica ★200](https://github.com/efremidze/Haptica) - Easy Haptic Feedback Generator. :large_orange_diamond:
 * [GDCheckbox ★3](https://github.com/saeid/GDCheckbox) - An easy to use custom checkbox/radio button component for iOS, with support of IBDesign Inspector. 🔶
 * [HamsterUIKit ★9](https://github.com/ChromieIsDangerous/HamsterUIKit) - A simple and elegant UIKit(Chart) for iOS.  🔶
@@ -1979,6 +1977,11 @@ Most of these are paid services, some have free tiers.
 * [NumericAnimatedLabel ★21](https://github.com/javalnanda/NumericAnimatedLabel) -  Swift UIView for showing numeric label with incremental and decremental step animation while changing value. Useful for scenarios like displaying currency. :large_orange_diamond:
 * [JSLabel ★1](https://github.com/imjog/JSLabel) -  A simple designable subclass on UILabel with extra IBDesignable and Blinking features. :large_orange_diamond:
 
+#### Login
+* [LFLoginController ★88](https://github.com/awesome-labs/LFLoginController) - Customizable login screen, written in Swift. :large_orange_diamond:
+* [LoginKit ★422](https://github.com/IcaliaLabs/LoginKit) - LoginKit is a quick and easy way to add a Login/Signup UX to your iOS app.  🔶
+* [Cely ★83](https://github.com/chaione/Cely) - Plug-n-Play login framework written in Swift. :large_orange_diamond:
+
 #### Menu
 * [ENSwiftSideMenu ★1712](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift. :large_orange_diamond:
 * [RESideMenu ★7053](https://github.com/romaonthego/RESideMenu) - iOS 7/8 style side menu with parallax effect inspired by Dribbble shots.
@@ -2068,6 +2071,9 @@ Most of these are paid services, some have free tiers.
 * [AZDialogViewController ★518](https://github.com/Minitour/AZDialogViewController) - A highly customizable alert dialog controller that mimics Snapchat's alert dialog. :large_orange_diamond:
 * [MIBlurPopup ★356](https://github.com/MarioIannotta/MIBlurPopup) - MIBlurPopup let you create amazing popups with a blurred background.
 * [LNPopupController ★1952](https://github.com/LeoNatan/LNPopupController) - a framework for presenting view controllers as popups of other view controllers, much like the Apple Music and Podcasts apps.
+
+#### ProgressView
+* [ProgressMeter ★14](https://github.com/khawajafarooq/ProgressMeter) - Display the progress on a meter with customized annotations for iOS developed in Swift :large_orange_diamond:
 
 #### Pull to Refresh
 * [DGElasticPullToRefresh ★2965](https://github.com/gontovnik/DGElasticPullToRefresh) - Elastic pull to refresh for iOS developed in Swift :large_orange_diamond:
@@ -2474,7 +2480,7 @@ Most of these are paid services, some have free tiers.
 * [CocoaPods](https://cocoapods.org/) - CocoaPods is the dependency manager for Objective-C projects. It has thousands of libraries and can help you scale your projects elegantly.
 * [Xcode Maven](http://sap-production.github.io/xcode-maven-plugin/site/) - The Xcode Maven Plugin can be used in order to run Xcode builds embedded in a Maven lifecycle.
 * [Carthage ★10432](https://github.com/Carthage/Carthage) - A simple, decentralized dependency manager for Cocoa. :large_orange_diamond:
-* [SWM (Swift Modules) ★53 ⏳2Y](https://github.com/jankuca/swm) - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of Xcode. :large_orange_diamond:
+* [SWM (Swift Modules) ★53 ⏳3Y](https://github.com/jankuca/swm) - A package/dependency manager for Swift projects similar to npm (node.js package manager) or bower (browser package manager from Twitter). Does not require the use of Xcode. :large_orange_diamond:
 * [Alcatraz](http://alcatraz.io/) - The package manager for Xcode.
 * [CocoaSeeds ★339](https://github.com/devxoul/CocoaSeeds) - Git Submodule Alternative for Cocoa.
 * [swift-package-manager ★5873](https://github.com/apple/swift-package-manager) - The Package Manager for the Swift Programming Language :large_orange_diamond:

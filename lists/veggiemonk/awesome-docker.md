@@ -285,7 +285,7 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 * [Netshare ★552](https://github.com/ContainX/docker-volume-netshare) Docker NFS, AWS EFS, Ceph & Samba/CIFS Volume Plugin. By [@ContainX](https://github.com/ContainX)
 * [Docker Machine NFS ★696](https://github.com/adlogix/docker-machine-nfs) Activates NFS for an existing boot2docker box created through Docker Machine on OS X.
 * [Local Persist ★271](https://github.com/CWSpear/local-persist) Specify a mountpoint for your local volumes (created via `docker volume create`) so that files will always persist and so you can mount to different directories in different containers.
-* [Minio ★23](https://github.com/jelastic-jps/minio) - S3 compatible object storage server in Docker containers
+* [Minio ★23 ⏳1Y](https://github.com/jelastic-jps/minio) - S3 compatible object storage server in Docker containers
 * [portworx](https://portworx.com) :heavy_dollar_sign: - Decentralized storage solution for persistent, shared and replicated volumes.
 * [REX-Ray ★886](https://github.com/thecodeteam/rexray) Vendor agnostic storage orchestration engine to provide persistent storage for Docker containers as well as Mesos frameworks and tasks. By[@Dell](https://github.com/thecodeteam)
 * [quobyte](https://www.quobyte.com/) :heavy_dollar_sign: - fully fault-tolerant distributed file system with a docker volume driver

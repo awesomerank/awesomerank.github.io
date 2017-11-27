@@ -96,6 +96,7 @@ sellers who aren't evil for physical resources.
     - [Plotting](#plotting)
     - [i18n](#i18n)
     - [Logging](#logging)
+    - [Text Processing](#text-processing)
     - [Other](#other)
 - [XML](#xml)
 - [Contributing](#contributing)
@@ -207,7 +208,7 @@ GUI
 * [CocoaInterface ★7](https://github.com/plkrueger/CocoaInterface) -
 Cocoa interface for Clozure Common Lisp. Build Cocoa user interface
 windows dynamically using Lisp code and bypass the typical Xcode
-processes. It has 
+processes. It has
 [good documentation and a tutorial](blob/master/Documentation/UserInterfaceTutorial.pdf).
 * [McCLIM](https://common-lisp.net/project/mcclim/) - An implementation of the Common Lisp Interface Manager, version II. [GNU LGPL2.1][11].
 
@@ -244,6 +245,8 @@ Beginner
 * [Learn LISP: Simply Easy Learning](http://www.tutorialspoint.com/lisp/index.htm) - A good set of introductory tutorials; includes interactive examples.
 * [Successful Lisp](https://www.psg.com/~dlamkins/sl/cover.html) - A good book for beginners with some programming background.
 * [Common Lisp Koans][201] - The project guides the learner progressively through many Common Lisp language features.
+* [Lisp Quickstart](https://cs.gmu.edu/~sean/lisp/LispTutorial.html) - A good tutorial to get up and code Common Lisp quickly.
+
 
 Intermediate
 ------------
@@ -298,6 +301,7 @@ Library Manager
 * [qlot ★108](https://github.com/fukamachi/qlot) - A project-local library installer, similar to Bundler or Carton. [Expat][14].
 * [Quicklisp][16] - A library manager containing many libraries, with easy depencency management. [Expat][14].
 * [Quickutil ★57 ⏳1Y](https://github.com/tarballs-are-good/quickutil) - A utility manager, similar to Quicklisp, but for small utilities rather than whole libraries. [3-clause BSD][15].
+* [Qi ★47](https://github.com/CodyReichert/qi) - A package manager with a traditionnal approach. [BSD][15].
 
 
 Natural Language Processing
@@ -432,7 +436,7 @@ Others
 * [Postmaster ★3 ⏳3Y](https://github.com/eudoxia0/postmaster) - A simple, easy-to-use SMTP/IMAP library. [Expat][14].
 * [usocket ★56](https://github.com/usocket/usocket) - A portable TCP and UDP socket interface. [Expat][14].
 * [find-port ★5 ⏳2Y](https://github.com/eudoxia0/find-port) -  Programmatically find open ports. [MIT][200].
-
+* [Cl-forms ★6](https://github.com/mmontone/cl-forms) -  Web forms handling library for Common lisp. [MIT][200].
 
 Numerical and Scientific
 ========================
@@ -633,6 +637,7 @@ Files and directories
 * [pathname-utils ★3](https://github.com/Shinmera/pathname-utils) - A
   collection of utilities to help with pathname
   operations. [Artistic License 2.0][51].
+* [archive ★16](https://github.com/froydnj/archive) - a library for reading and creating archive (tar, cpio) files. [BSD_3Clause][15]. A pure Common Lisp replacement for the 'tar' program.
 
 Git
 ---
@@ -689,6 +694,17 @@ Logging
 -------
 
 * [log4cl ★71](https://github.com/7max/log4cl) - Logging framework modelled after Log4J. [Apache2.0][89].
+
+
+Text Processing
+---------------
+
+* [montezuma ★14](https://github.com/sharplispers/montezuma) -  Full-text indexing and search for Common Lisp. [Expat][14].
+* [mk-string-metrics ★11](https://github.com/mrkkrp/mk-string-metrics) -
+  Calculate various string metrics efficiently in Common Lisp
+  (Damerau-Levenshtein, Hamming, Jaro, Jaro-Winkler, Levenshtein,
+  etc). [MIT][200].
+* [cl-yacc ★29](https://github.com/jech/cl-yacc) - a LALR(1) parser generator. [MIT][200].
 
 
 Other

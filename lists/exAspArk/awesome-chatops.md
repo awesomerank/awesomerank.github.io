@@ -107,6 +107,7 @@ These open source projects will help you to build a bot in order to automate you
 * [WeChat](#wechat)
 * [XMPP / Jabber](#xmpp--jabber)
 * [Yammer](#yammer)
+* [Zulip](#zulip)
 
 ### AIM
 
@@ -313,7 +314,12 @@ These open source projects will help you to build a bot in order to automate you
 
 ### Yammer
 
-* [Hubot](https://hubot.github.com/) [adapter ★32](https://github.com/athieriot/hubot-yammer) (CoffeeScript, Node.js)
+* [Hubot](https://hubot.github.com/) + [adapter ★32](https://github.com/athieriot/hubot-yammer) (CoffeeScript, Node.js)
+
+### Zulip
+
+* [Errbot](http://errbot.io/) + [adapter ★1](https://github.com/zulip/errbot-backend-zulip) (Python)
+* [Hubot](https://hubot.github.com/) + [adapter ★12](https://github.com/zulip/hubot-zulip) (CoffeeScript, Node.js)
 
 ---
 
