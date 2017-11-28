@@ -948,7 +948,7 @@ AWS Repos:
 *Repos Accompanying Blogs, Training Events, and Conferences.*
 
 * [aws-arch-backoff-simulator ★72 ⏳2Y](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
-* [aws-big-data-blog :fire::fire: ★500](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
+* [aws-big-data-blog :fire::fire::fire: ★500](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
 * [aws-demo-php-simple-app ★7](https://github.com/awslabs/aws-demo-php-simple-app) - PHP apps from the AWS Blogs.
 * [aws-mobile-sample-wif ★2 ⏳2Y](https://github.com/awslabs/aws-mobile-sample-wif) - Samples from the AWS Mobile SDK blog.
 * [aws-mobile-self-paced-labs-samples ★11 ⏳2Y](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) - Android Snake Game from a self-paced lab.

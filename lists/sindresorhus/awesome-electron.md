@@ -111,7 +111,7 @@ Made with Electron.
 - [Eintopf ★58 ⏳1Y](https://github.com/mazehall/eintopf) - Manage development projects with Docker.
 - [WhatsDesktop ★203](https://github.com/mawie81/whatsdesktop) - Unofficial WhatsApp app.
 - [Sqlectron ★1854](https://github.com/sqlectron/sqlectron-gui) - SQL client.
-- [docker-indicator ★30](https://github.com/khornberg/docker-indicator) - Unofficial Docker menubar app.
+- [docker-indicator ★30 ⏳1Y](https://github.com/khornberg/docker-indicator) - Unofficial Docker menubar app.
 - [Light Table ★9912](https://github.com/LightTable/LightTable) - Code editor with instant feedback.
 - [Tubehead](https://github.com/makotot/Tubehead) - YouTube music player in your menubar.
 - [Google Play Music Desktop Player ★5585](https://github.com/MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-) - Unofficial Google Play Music app.

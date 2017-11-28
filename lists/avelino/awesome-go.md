@@ -7,7 +7,9 @@ title: Awesome Rank for avelino/awesome-go
 	This list is a copy of <a href="https://github.com/avelino/awesome-go">avelino/awesome-go</a> with ranks
 </p>
 ---
-# Awesome Go [![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [awesome-go chat channel](http://gophers.slack.com/messages/awesome-go)
+# Awesome Go 
+
+[![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [awesome-go chat channel](http://gophers.slack.com/messages/awesome)
 
 A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python ★40545](https://github.com/vinta/awesome-python).
 
@@ -149,6 +151,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for building standard or basic Command Line applications.*
 
+* [argparse ★1](https://github.com/akamensky/argparse) - Command line argument parser inspired by Python's argparse module.
 * [argv ★3](https://github.com/cosiner/argv) - Go library to split command line string as arguments array using the bash syntax.
 * [cli ★315](https://github.com/mkideal/cli) - Feature-rich and easy to use command-line package based on golang struct tags.
 * [cli ★14](https://github.com/teris-io/cli) - Simple and complete API for building command line interfaces in Go.

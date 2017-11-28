@@ -143,6 +143,7 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [TortoiseGit](https://tortoisegit.org/) - Git client with full shell integration. [![Open-Source Software][OSS Icon] ★563](https://github.com/tortoisegit/tortoisegit) ![Freeware][Freeware Icon]
 - [TortoiseSVN](https://tortoisesvn.net/) - Subversion client with full shell integration. [![Open-Source Software][OSS Icon]](https://sourceforge.net/projects/tortoisesvn/) ![Freeware][Freeware Icon]
 - [Vagrant](https://www.vagrantup.com/) - A tool for building and managing virtual machines. [![Open-Source Software][OSS Icon]](https://github.com/mitchellh/vagrant)
+- [Velocity](http://velocity.silverlakesoftware.com/) - Offline API Documentation Tool. (like [Dash](https://kapeli.com/dash) for macOS) 
 - [Visual Studio](https://www.visualstudio.com/) - Ultimate Microsoft Developer Tool.
 - [Visual Studio Code](https://code.visualstudio.com/) - Lightweight Source Code Editor.
 - [Wamp](http://www.wampserver.com/en/) - Web development environment.
@@ -172,7 +173,8 @@ title: Awesome Rank for Awesome-Windows/Awesome
 
 - [MailBird](https://www.mailbird.com/) - IMAP and POP3 email client, featuring customization, complete touch support and multiple language support.
 - [Thunderbird](https://www.mozilla.org/en-US/thunderbird/) - Email client with minimalistic design. ![Freeware][Freeware Icon]
-- [Nylas N1](https://www.nylas.com/download/) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
+- [Mailspring](https://getmailspring.com/) - A fast and maintained fork of Nylas Mail, built on modern web technologies. [![Open-Source Software][OSS Icon] ★1785](https://github.com/Foundry376/Mailspring) ![Freeware][Freeware Icon]
+- [Nylas Mail](https://www.nylas.com/download/) - An extensible desktop mail app built on the modern web. [![Open-Source Software][OSS Icon]](https://github.com/nylas/N1) ![Freeware][Freeware Icon]
 - [Postbox](https://postbox-inc.com/) - The Power Email App
 
 ### Games
@@ -275,6 +277,7 @@ title: Awesome Rank for Awesome-Windows/Awesome
 - [Putty](http://www.chiark.greenend.org.uk/~sgtatham/putty/download.html) - SSH and telnet client.
 - [Kitty](http://www.9bis.net/kitty/) - advanced Putty (SSH and telnet client).
 - [Terminus](https://eugeny.github.io/terminus/) - modern, highly configurable terminal app based on web technologies. [![Open-Source Software][OSS Icon] ★1875](https://github.com/Eugeny/terminus) ![Freeware][Freeware Icon]
+- [ColorTool](https://github.com/Microsoft/Console/tree/master/tools/ColorTool) - Set custom color schemes for the Windows Console with support for iTerm color schemes.
 
 
 ### Utilities

@@ -126,7 +126,7 @@ Reverse Engineering
 5. [Androguard ★1713](https://github.com/androguard/androguard) – powerful, integrates well with other tools
 6. [Apktool](https://ibotpeaches.github.io/Apktool/) – really useful for compilation/decompilation (uses smali)
 7. [Android Framework for Exploitation ★125 ⏳2Y](https://github.com/appknox/AFE)
-8. [Bypass signature and permission checks for IPCs ★44 ⏳3Y](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
+8. [Bypass signature and permission checks for IPCs ★44 ⏳4Y](https://github.com/iSECPartners/Android-KillPermAndSigChecks)
 9. [Android OpenDebug ★60 ⏳4Y](https://github.com/iSECPartners/Android-OpenDebug) – make any application on device debuggable (using cydia substrate).
 10. [Dare](http://siis.cse.psu.edu/dare/index.html) – .dex to .class converter
 11. [Dex2Jar ★3787](https://github.com/pxb1988/dex2jar) - dex to jar converter

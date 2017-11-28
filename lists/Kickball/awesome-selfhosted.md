@@ -255,7 +255,6 @@ Some [Groupware](#groupware) solutions also feature calendar/address book editin
   * [RetroShare](http://retroshare.org) - Secured and decentralized communication system. Offers decentralized chat, forums, messaging, file transfer. ([Source Code ★540](https://github.com/RetroShare/RetroShare)) `GPLv2` `С++`
   * [Ring](https://ring.cx/) - Free software for universal communication which respects freedoms and privacy of its users. ([Source Code ★65](https://github.com/savoirfairelinux/ring-project)) `GPLv3` `C++`
   * [Rocket.Chat](https://rocket.chat/) - Teamchat solution similar to Gitter.im or Slack. ([Source Code ★14777](https://github.com/RocketChat/Rocket.Chat)) `MIT` `Nodejs`
-  * [Scrollback](https://scrollback.io/) - Embeddable cross-platform chat for communities. ([Source Code ★573 ⏳1Y](https://github.com/scrollback/scrollback)) `AGPLv3` `Nodejs`
   * [Spectrum 2](http://spectrum.im/) - Spectrum 2 is an open source instant messaging transport.  It allows users to chat together even when they are using different IM networks. ([Source Code](https://github.com/hanzz/spectrum2)) `GPLv3` `C++`
   * [Spreed](https://www.spreed.me/) - WebRTC audio/video calls, conferencing server, and web client. ([Source Code ★589](https://github.com/strukturag/spreed-webrtc)) `AGPLv3` `Go`
   * [Synapse](http://matrix.org/docs/projects/server/synapse.html) - A server for [Matrix](https://matrix.org/), an open standard for decentralized persistent communication. ([Source Code ★2325](https://github.com/matrix-org/synapse)) `Apache` `Python`
@@ -1270,6 +1269,7 @@ See also [Documentation Generators](#documentation-generators), [Wikimatrix](htt
   * [Tiki](https://tiki.org) - Wiki CMS Groupware with the most built-in features. ([Demo](https://tiki.org/Demo), [Source Code](https://sourceforge.net/p/tikiwiki/code/HEAD/tree/)) `LGPLv2` `PHP`
   * [TWiki](http://twiki.org/) - TWiki is a Perl-based structured wiki application, typically used to run a collaboration platform, knowledge or document management system, a knowledge base, or team portal. ([Demo](http://twiki.org/cgi-bin/view/Sandbox/WebHome), [Source Code](http://svn.twiki.org/svn/twiki/)) `GPL` `Perl`
   * [wiki ★12](https://github.com/prologic/wiki) - Simple Markdown based wiki engine. ([Demo](https://wiki.mills.io)) `MIT` `Go`
+  * [Wiki.js](https://wiki.js.org/) - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown. ([Demo](https://docs.requarks.io/wiki)) `AGPLv3` `Nodejs`
   * [Wikifeat ★92 ⏳1Y](https://github.com/rhinoman/wikifeat) - Wikifeat is an open source collaboration platform built around the ever-popular Wiki concept. `BSD` `GO`
   * [WiKiss](http://wikiss.tuxfamily.org/) - A Wiki, simple to use and install. ([Source Code](https://svnweb.tuxfamily.org/listing.php?repname=wikiss/svn&path=%2F&sc=0)) `GPLv2` `PHP`
   * [XWiki](http://www.xwiki.org) - A second generation wiki that allows the user to extend its functionalities with a powerful extension-based architecture. ([Demo](http://playground.xwiki.org), [Source Code ★264](https://github.com/xwiki/xwiki-platform)) `LGPLv2` `Java`

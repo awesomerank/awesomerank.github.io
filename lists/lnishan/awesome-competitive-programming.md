@@ -227,7 +227,7 @@ Paste your codes at [ideone](https://ideone.com/), [pastebin](https://pastebin.c
 | ★★☆ | [jaehyunp/stanfordacm ★670](https://github.com/jaehyunp/stanfordacm) | Stanford's team notebook is well maintained and the codes within are of high-quality. |
 | ★★☆ | [ngthanhtrung23/ACM_Notebook_new ★109](https://github.com/ngthanhtrung23/ACM_Notebook_new), by team RR Watameda (I_love_Hoang_Yen, flashmt, nguyenhungtam) from National University of Singapore | RR Watameda represented National University of Singapore for the 2016 ACM-ICPC World Finals. The items in this notebook are pretty standard and well-organized. | 
 | ★★☆ | [bobogei81123/bcw_codebook ★57](https://github.com/bobogei81123/bcw_codebook), by team bcw0x1bd2 (darkhh, bobogei81123, step5) from National Taiwan University | bcw0x1bd2 represented National Taiwan University for the 2016 ACM-ICPC World Finals. This notebook contains robust implementations for advanced data structures and algorithms. |
-| ★☆☆ | [foreverbell/acm-icpc-cheat-sheet ★73](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
+| ★☆☆ | [foreverbell/acm-icpc-cheat-sheet ★73 ⏳1Y](https://github.com/foreverbell/acm-icpc-cheat-sheet), by foreverbell (foreverbell) | A notebook with some advanced data structures and algorithms including some from the China informatics scene. |
 | ★☆☆ | [igor's code archive](http://shygypsy.com/tools/), by Igor Naverniouk (Abednego) | A good notebook by Igor Naverniouk who is currently a software engineer at Google and part of the Google Code Jam team. |
 
 

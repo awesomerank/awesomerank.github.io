@@ -164,7 +164,7 @@ This is a collection of static analysis tools and code quality checkers. Pull re
 * [quality](https://github.com/jden/quality) - zero configuration code and module linting
 * [standard](http://standardjs.com/) - An npm module that checks for Javascript Styleguide issues
 * [XO ★3061](https://github.com/sindresorhus/xo) - Enforce strict code style. Never discuss code style on a pull request again!
-* [yardstick ★23](https://github.com/calmh/yardstick) - Javascript code metrics
+* [yardstick ★23 ⏳1Y](https://github.com/calmh/yardstick) - Javascript code metrics
 
 ## Kotlin
 

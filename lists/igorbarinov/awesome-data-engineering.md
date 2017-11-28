@@ -92,7 +92,7 @@ List of content
 
 # Data Ingestion
 * [Kafka](http://kafka.apache.org/) Publish-subscribe messaging rethought as a distributed commit log.
-	* [Camus ★726 ⏳1Y](https://github.com/linkedin/camus) LinkedIn's Kafka to HDFS pipeline.
+	* [Camus ★726 ⏳2Y](https://github.com/linkedin/camus) LinkedIn's Kafka to HDFS pipeline.
 	* [BottledWater ★1252](https://github.com/confluentinc/bottledwater-pg) Change data capture from PostgreSQL into Kafka
 	* [kafkat ★316](https://github.com/airbnb/kafkat) Simplified command-line administration for Kafka brokers
 	* [kafkacat ★814](https://github.com/edenhill/kafkacat) Generic command line non-JVM Apache Kafka producer and consumer
@@ -184,6 +184,7 @@ multi-processor, multi-core machines
 * [PyXley ★2005](https://github.com/stitchfix/pyxley) Python helpers for building dashboards using Flask and React
 * [Plotly ★2763](https://github.com/plotly/dash) Flask, JS, and CSS boilerplate for interactive, web-based visualization apps in Python
 * [Apache Superset](https://github.com/airbnb/superset) Apache Superset (incubating) is a modern, enterprise-ready business intelligence web application
+* [Metabase ★7357](https://github.com/metabase/metabase) Metabase is the easy, open source way for everyone in your company to ask questions and learn from data.
 
 # Workflow
 * [Luigi ★7998](https://github.com/spotify/luigi) Luigi is a Python module that helps you build complex pipelines of batch jobs.

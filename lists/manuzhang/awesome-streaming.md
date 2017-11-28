@@ -81,7 +81,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [metaq ★1054](https://github.com/killme2008/Metamorphosis) [Java] - Taobao's high available, high performance distributed messaging system
 * [nsq](https://github.com/bitly/nsq) [Go] - realtime distributed messaging platform designed to operate at scale, handling billions of messages per day.
 * [NATS streaming ★633](https://github.com/nats-io/nats-streaming-server) [Go] - fast disk-backed messaging solution
-* [camus ★726 ⏳1Y](https://github.com/linkedin/camus) [Java] - Linkedin's Kafka -> HDFS pipeline.
+* [camus ★726 ⏳2Y](https://github.com/linkedin/camus) [Java] - Linkedin's Kafka -> HDFS pipeline.
 * [databus ★1711](https://github.com/linkedin/databus) [Java] - Linkedin's source-agnostic distributed change data capture system.
 * [flume ★1140](https://github.com/apache/flume) [Java] - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 * [Redis Streams](http://antirez.com/news/114) - Redis implementation of a unified log structure

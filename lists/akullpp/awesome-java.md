@@ -308,6 +308,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Orbit](http://www.orbit.cloud/) - Virtual actors; adds another level of abstraction to traditional actors.
 * [Quasar](https://www.paralleluniverse.co/quasar/) - Lightweight threads and actors for the JVM.
 * [resilience4j ★482](https://github.com/resilience4j/resilience4j) - Functional fault tolerance library.
+* [ScaleCube ★84](https://github.com/scalecube/scalecube) - Embeddable Cluster-Membership library based on SWIM and gossip protocol.
 * [Zuul ★3366](https://github.com/Netflix/zuul) - A gateway service that provides dynamic routing, monitoring, resiliency, security, and more.
 
 ## Distributed Transactions
@@ -573,6 +574,7 @@ A curated list of awesome Java frameworks, libraries and software.
 * [Failsafe Actuator ★14](https://github.com/zalando-incubator/failsafe-actuator) - Out of the box monitoring of Failsafe Circuit Breaker in Spring-Boot environment.
 * [BugSnag ![c]](https://www.bugsnag.com/) - Exception and error monitoring with a integration of several third party tools for a better workflow and a free hobbyist tier.
 * [Glowroot](https://glowroot.org/) - Open-source Java APM.
+* [inspectIT](http://www.inspectit.rocks) - Captures detailed run-time information via hooks that can be changed on the fly. It supports tracing over multiple systems via the OpenTracing API and can correlate the data with end user monitoring.
 * [Instrumental ![c]](https://instrumentalapp.com) - Real-time Java application performance monitoring. A commercial service with free development accounts.
 * [JavaMelody ★1111](https://github.com/javamelody/javamelody) - Performance monitoring and profiling.
 * [jmxtrans ★1258](https://github.com/jmxtrans/jmxtrans) - Connect to multiple JVMs and query them for their attributes via JMX. Its query language is based on JSON, which allows non-Java programmers to access the JVM attributes. Supports different output writes, including Graphite, Ganglia, and StatsD.

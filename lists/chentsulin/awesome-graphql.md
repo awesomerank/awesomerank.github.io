@@ -112,6 +112,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [codemirror-graphql ★85](https://github.com/graphql/codemirror-graphql) - GraphQL mode and helpers for CodeMirror.
 * [graphql-schema ★125 ⏳2Y](https://github.com/devknoll/graphql-schema) - Create GraphQL schemas with a fluent/chainable interface.
 * [graphql-sequelize ★888](https://github.com/mickhansen/graphql-sequelize) - Sequelize helpers for GraphQL.
+* [graphql-sequelize-crud ★78](https://github.com/Glavin001/graphql-sequelize-crud) - Automatically generate queries and mutations from Sequelize models.
 * [graffiti ★1048](https://github.com/RisingStack/graffiti) - Node.js GraphQL ORM.
 * [graffiti-mongoose ★392](https://github.com/RisingStack/graffiti-mongoose) - Mongoose (MongoDB) adapter for graffiti (Node.js GraphQL ORM).
 * [babel-plugin-graphql ★64 ⏳2Y](https://github.com/ooflorent/babel-plugin-graphql) - Babel plugin that compile GraphQL tagged template strings.

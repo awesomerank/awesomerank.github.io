@@ -969,7 +969,7 @@ be
 * [Kartograph.py ★924](https://github.com/kartograph/kartograph.py) - Rendering beautiful SVG maps in Python.
 * [pygal](http://pygal.org/en/stable/) - A Python SVG Charts Creator.
 * [PyQtGraph ★855](https://github.com/pyqtgraph/pyqtgraph) - A pure-python graphics and GUI library built on PyQt4 / PySide and NumPy.
-* [pycascading ★221 ⏳3Y](https://github.com/twitter/pycascading)
+* [pycascading ★221 ⏳4Y](https://github.com/twitter/pycascading)
 * [Petrel ★250](https://github.com/AirSage/Petrel) - Tools for writing, submitting, debugging, and monitoring Storm topologies in pure Python.
 * [Blaze ★2163](https://github.com/blaze/blaze) - NumPy and Pandas interface to Big Data.
 * [emcee ★739](https://github.com/dfm/emcee) - The Python ensemble sampling toolkit for affine-invariant MCMC.

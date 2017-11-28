@@ -496,7 +496,7 @@ phone numbers.
 * [django-summernote ★383](https://github.com/summernote/django-summernote) - Summernote is a simple WYSIWYG editor. django-summernote allows you to embed Summernote into Django very handy. Support admin mixins and widgets.
 * [django-tinymce ★652](https://github.com/aljosa/django-tinymce) - TinyMCE integration for Django.
 * [django-redactoreditor ★23 ⏳3Y](https://github.com/mazelife/django-redactoreditor) - This package helps integrate the Redactor Javascript WYSIWYG-editor in Django.
-* [django-wysiwyg ★445](https://github.com/pydanny-archive/django-wysiwyg) - A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.
+* [django-wysiwyg ★445 ⏳1Y](https://github.com/pydanny-archive/django-wysiwyg) - A Django application for making Django textareas rich text editors. Certainly as a template tag and possibly as a form widget.
 
 ## Wikis
 

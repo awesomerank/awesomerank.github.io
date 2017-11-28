@@ -363,7 +363,7 @@ title: Awesome Rank for vuejs/awesome-vue
   - [**vue-s3-dropzone** ★213 ⏳1Y](https://github.com/kfei/vue-s3-dropzone) A Vue.js drag-and-drop component uploads files to AWS S3 serverlessly
   - [**easy-vue** ★589](https://github.com/TIGERB/easy-vue) a easy example using the vue to implement easy web with vue 2.0, vuex 2.0,
 vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https://github.com/tigerb)
-  - [Vuex Events Messaging Demo ★3](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
+  - [Vuex Events Messaging Demo ★3 ⏳1Y](https://github.com/metricloop/vuex-events-messaging-demo) by [Metric Loop](https://metricloop.com/blog)
   - [vue-memo ★67](https://github.com/akifo/vue-memo) a simple demo build with Vue.js(>2.x.), vue-router(>2.x.), vuex(>2.x.), vuex-router-sync@next(>3.x.) and Firebase(>3.6.x) by [akifo](https://github.com/akifo)
   - [Resume Vue ★12 ⏳1Y](https://github.com/ChangJoo-Park/Resume-Vue) JSON based Resume based on Vue 2.0 by [ChangJoo Park](https://github.com/ChangJoo-Park/)
   - [**App example with JWT Authentication**](https://github.com/Angarsk8/phoenix_vuejs_authentication_example) developed with [**Phoenix Framework**](http://phoenixframework.org), **Vue** and **Vue Router** ([_**demo**_](https://phoenix-vue-auth.herokuapp.com)) by [@Angarsk8](https://github.com/Angarsk8)
@@ -418,6 +418,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
   - [conway ★0](https://github.com/edge/conway) Conway's Game of Life in Vue.
   - [vuex-feature-scoped-structure ★8](https://github.com/igeligel/vuex-feature-scoped-structure) An example application of the feature scoped vuex application structure
   - [vuex-examples ★37](https://github.com/ooade/vuex-examples) - Simple Examples on using Vuex to build Real World Apps
+  - [vue-vuex-todomvc ★0](https://github.com/bahmutov/vue-vuex-todomvc) - Example TodoMVC Vue.js app with Vuex store and server backend via REST and full set of E2E tests using [Cypress.io](https://www.cypress.io/) test runner.
 
 ### Books
 
@@ -428,7 +429,7 @@ vue-router 2.0, vue-infinite-scroll 2.0, vue-progressbar 2.0 by [TIGERB](https:/
 - [Vue.js in Action](https://www.manning.com/books/vue-js-in-action) by Erik Hanchett and Benjamin Listwon (Spring 2018)
 - [Testing Vue.js Applications](https://www.manning.com/books/testing-vuejs-applications) by Edd Yerburgh (Summer 2018)
 - [Vue.js 2 and Bootstrap 4 Web Development](https://www.packtpub.com/web-development/vuejs-2-and-bootstrap-4-web-development) by Olga Filipova, Packt. (September 2017)
-
+- [Front-end com Vue.js](https://www.casadocodigo.com.br/products/livro-frontend-vue) by Leonardo Vilarinho, Casa do Código. (November 2017)
 
 
 
@@ -1033,6 +1034,7 @@ Tooltips / popovers
  - [v-autocomplete ★75](https://github.com/paliari/v-autocomplete) - Autocomplete component for Vue.js
  - [vue-awesomplete ★9](https://github.com/sandi-racy/vue-awesomplete) - Vue wrapper for Awesomplete
  - [vue-auto-complete ★9](https://github.com/charliekassel/vuejs-autocomplete) - Autocomplete for Vue2. Works with objects or api calls.
+ - [vue-autosuggest ★6](https://github.com/Educents/vue-autosuggest) - WAI-ARIA complete Autosuggest component with full customization over rendering and styling.
 
 #### Type Select
 
@@ -1306,8 +1308,8 @@ Tooltips / popovers
  - [VBar ★130](https://github.com/luiguild/v-bar) - The virtual responsive cross-browser scrollbar component for Vue.js 2x.
  - [Vuebar](http://serafin.io/vuebar/) - Vue 2 directive for custom scrollbar that uses native scroll behavior. Lightweight, performant, customizable and without dependencies.
  - [vue-detached-scrollbar ★0](https://github.com/ozangulle/vue-detached-scrollbar) - A simple scrollbar that can be detached from the container it is scrolling.
- - [vuescroll ★0](https://github.com/wangyi7099/vuescroll) - A virtual scrollbar based on vue.js 2x. 
-  
+ - [vuescroll ★0](https://github.com/wangyi7099/vuescroll) - A virtual scrollbar based on vue.js 2x.
+
 *Detect when components enter viewport*
 
 - [vue-scrollview ★29](https://github.com/chrishurlburt/vue-scrollview) - A component utilizing scoped slots to detect when a vue component enters and leaves the viewport.
@@ -1356,6 +1358,7 @@ Tooltips / popovers
  - [Vueg ★404](https://github.com/jaweii/vueg) - Make vue-router have a transition effect / 为 webApp 提供转场特效的开源 Vue 插件
  - [v-animate-css](https://jofftiquez.github.io/v-animate-css/) - The easiest to implement Vue 2 directive for Animate.css
  - [vue-mixin-tween ★0](https://github.com/lukechinworth/vue-mixin-tween) - Mixin factory that adds tweened values to component context for animations
+ - [v-odometer ★12](https://github.com/JefferyHus/v-odometer) - Smoothly transitions numbers with ease. Use this library to give your application a smooth animation, only applicable on numbers.
 
 ### Meta Tags
 
@@ -1410,7 +1413,7 @@ Tooltips / popovers
 
 *Utilities not directly related to the UI*
  - [vue-underscore ★1](https://github.com/HKskn/vue-underscore) - simple vue plugin to implement underscore
- 
+
 ### Typescript
 
  - [vue-typed ★55](https://github.com/vue-typed/vue-typed) - Sets of ECMAScript / Typescript decorators that helps you write Vue component easily.
@@ -1434,6 +1437,7 @@ Tooltips / popovers
  - [vue-fast-axios ★4](https://github.com/leonardovilarinho/vue-fast-axios) - Make requests with validations in a simple and beautiful way.
  - [vue-async-properties ★3](https://github.com/blainehansen/vue-async-properties) - An `asyncData` and `asyncComputed` plugin with support for debouncing, transforming results, error handlers, loading/pending flags, lazy/eager requests.
  - [vue-axios-plugin ★9](https://github.com/yugasun/vue-axios-plugin) - A plugin that combines axios with Vuejs, making http request more easier.
+ - [vuex-api ★1](https://github.com/vouill/vuex-api) - A vuex plugin for effortlessly handle api calls.
 
 ### i18n
 
@@ -1450,6 +1454,7 @@ Tooltips / popovers
  - [vue-polyglot ★42](https://github.com/guillaumevincent/vue-polyglot) - Basic translation plugin for Vue.js 2 with async loading.
  - [v-localize ★6](https://github.com/neetjn/v-localize) - Simple localization plugin for
 the amazing Vue.js.
+ - [vue-simple-i18n ★24](https://github.com/ClassicOldSong/vue-simple-i18n) - Probably the thinnest library to end all Vue i18n solutions within 1kb
 
 ### Custom Events
 
@@ -1490,6 +1495,7 @@ the amazing Vue.js.
  - [revue ★530](https://github.com/revue/revue) - Redux binding for Vue.
  - [vuedeux ★60](https://github.com/Vuedeux/vuedeux) - Binding Solutions for Vue & Redux.
     - [redux-store-mixin ★0](https://github.com/kolesoffac/redux-store-mixin) - Mixin for integrate action creators in methods of vue-component
+ - [vuejs-redux ★4](https://github.com/titouancreach/vuejs-redux) - High order component facilities for Vue and Redux.  
 
 #### Mobx
 
@@ -1516,6 +1522,7 @@ the amazing Vue.js.
  - [vuex-orm ★101](https://github.com/revolver-app/vuex-orm) - The Vuex plugin to enable Object-Relational Mapping access to the Vuex Store.
  - [object-to-vuex-store ★1](https://github.com/Raiondesu/object-to-vuex-store) - Convert any JS object into a valid vuex-store object.
  - [vuex-async-module ★0](https://github.com/liqueflies/vuex-async-module) - Reduce async boilerplate code generating Vuex modules. Compatible with Vue 2.x.
+ - [vuex-api ★1](https://github.com/vouill/vuex-api) - A vuex plugin for effortlessly handle api calls.
 
 ###### Sync Between Tabs
 
@@ -1599,6 +1606,7 @@ Payment utilities.
 ###### Stripe
 
 - [vue-stripe-checkout ★32](https://github.com/jofftiquez/vue-stripe-checkout) A simple vue plugin for Stripe checkout.
+- [vue-stripe-payment ★6](https://github.com/samturrell/vue-stripe-payment) Vue wrapper for jquery.payment by Stripe.
 
 ## Integrations
 
@@ -1634,7 +1642,7 @@ Payment utilities.
  - [vue-ua ★144](https://github.com/ScreamZ/vue-analytics) - Google Universal Analytics support in Vue.js.
  - [vue-analytics ★324](https://github.com/MatteoGabriele/vue-analytics) - Vue plugin for Google Analytics.
  - [vue-gtm ★18](https://github.com/mib200/vue-gtm) - Vue plugin for Google Tag Manager
- - [vue-ya-metrica ★3](https://github.com/shershen08/vue-ya-metrica) - Vue plugin for Yandex.Metrica 
+ - [vue-ya-metrica ★3](https://github.com/shershen08/vue-ya-metrica) - Vue plugin for Yandex.Metrica
 
 
 

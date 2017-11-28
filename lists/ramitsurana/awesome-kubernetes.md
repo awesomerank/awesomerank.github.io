@@ -241,7 +241,7 @@ Useful Articles
 * [Manage Kubernetes Clusters on AWS Using Kops](https://aws.amazon.com/blogs/compute/kubernetes-clusters-aws-kops/)
 * [Kubernetes with SaltStack revisited](http://www.dasblinkenlichten.com/kubernetes-with-saltstack-revisited/)
 * [Introducing Kubic Project](https://www.suse.com/communities/blog/introducing-kubic-project-new-open-source-project/)
-* [Three post learn k8s](https://blog.alexellis.io/tag/learn-k8s/)
+* [Three post learn k8s](http://blog.alexellis.io/tag/learn-k8s/)
 * [Kubernetes tips & tricks](https://opsnotice.xyz/kubernetes-tips-tricks/)
 * [Jenkins declarative pipelines with Kubernetes](https://radu-matei.com/blog/kubernetes-jenkins-azure/)
 * [Kubernetes with OpenStack Cloud Provider: Current state and upcoming changes (part 1 of 2)](https://medium.com/@arthur.souzamiranda/kubernetes-with-openstack-cloud-provider-current-state-and-upcoming-changes-part-1-of-2-48b161ea449a)
@@ -255,6 +255,7 @@ Managed Kubernetes
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
+  - [Kubermatic](https://kubermatic.io/)
 
 
   ### [Developer Platform](#developer-platform)
@@ -271,6 +272,7 @@ Managed Kubernetes
   - [CoreOS Tectonic](https://tectonic.com)
   - [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](https://www.suse.com/betaprogram/caasp-beta/)
+  - [Kubermatic](https://kubermatic.io/)
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 
@@ -589,7 +591,7 @@ Projects
 
 * [Kompose ★1812](https://github.com/kubernetes/kompose)
 * [Jsonnet](https://github.com/google/jsonnet/tree/master/case_studies/kubernetes)
-* [Spread](http://redspread.com)
+* Spread - Acquired by [CoreOS](https://coreos.com/blog/coreos-welcomes-redspread.html)
 * [K8comp ★7](https://github.com/cststack/k8comp)
 * [Ktmpl ★146](https://github.com/InQuicker/ktmpl)
 * [Konfd ★421](https://github.com/kelseyhightower/konfd)
@@ -740,17 +742,21 @@ Interesting Twitter Accounts
 Amazing People
 =======================================================================
 
-* [Bredan Burns](https://twitter.com/brendandburns), Partner Architect at Microsoft
-* [Kelsey Hightower](https://twitter.com/kelseyhightower), Staff Developer Advocate at Google
+* [Aparna Sinha](https://twitter.com/apbhatnagar), Group Product Manager - Kubernetes at Google
 * [Arun Gupta](https://twitter.com/arungupta), Principal Open Source Technologist at Amazon Web Services
-* [Carlos Sanchez](https://www.twitter.com/csanchez), Senior Software Engineer, CloudBees
-* [Joseph Jacks](https://twitter.com/asynchio), Entrepreneur In Residence at Quantum Corporation
-* [Joe Beda](https://twitter.com/jbeda), Founder and CTO at Heptio
-* [Patrick Reilly](https://twitter.com/preillyme), Office of the CTO at Cisco, Cisco board of member for CNCF
 * [Brandon Philips](https://twitter.com/BrandonPhilips), CTO at CoreOS
-* [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
-* [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
+* [Bredan Burns](https://twitter.com/brendandburns), Partner Architect at Microsoft
 * [Brian Grant](https://github.com/bgrant0607), Principal Engineer at Google, Lead Architect of Kubernetes
+* [Carlos Sanchez](https://www.twitter.com/csanchez), Senior Software Engineer, CloudBees
+* [Eric Tune](https://twitter.com/eric_tune), Senior Staff Engineer at Google
+* [Jessie Frazzelle](https://github.com/jessfraz), Cloud Developer Advocate at Microsoft
+* [Joe Beda](https://twitter.com/jbeda), Founder and CTO at Heptio
+* [Joseph Jacks](https://twitter.com/asynchio), Entrepreneur In Residence at Quantum Corporation
+* [Kelsey Hightower](https://twitter.com/kelseyhightower), Staff Developer Advocate at Google
+* [Kris Nova](https://github.com/kris-nova), Engineer at Heptio, Creator of Kubicorn
+* [Michelle Noorali](https://github.com/michelleN), Software Engineer at Microsoft
+* [Patrick Reilly](https://twitter.com/preillyme), Office of the CTO at Cisco, Cisco board of member for CNCF
+* [Tim Hockin](https://twitter.com/thockin), Senior Staff SW Engineer / Engineering Manager at Google
 
 Meetup Groups
 =======================================================================

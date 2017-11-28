@@ -869,7 +869,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 ## SDK
 
 * [javascript-sdk-design](https://github.com/huei90/javascript-sdk-design) - Javascript SDK design guide extracted from work and personal experience
-* [Spotify SDK ★135](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
+* [Spotify SDK ★135 ⏳1Y](https://github.com/loverajoel/spotify-sdk) - Entity oriented SDK to work with the Spotify Web API.
 
 
 ## Misc

@@ -52,6 +52,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
     - [Database](#database)
     - [Data Structures / Algorithms](#data-structures--algorithms)
     - [Date & Time](#date--time)
+    - [Debugging](#debugging)
     - [EventBus](#eventbus)
     - [Files](#files)
     - [Functional Programming](#functional-programming)
@@ -299,8 +300,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Bootstrap ★1874](https://github.com/krzysztofzablocki/Bootstrap) - iOS project bootstrap aimed at high quality coding.
 * [KZAsserts ★106](https://github.com/krzysztofzablocki/KZAsserts) - Set of custom assertions that automatically generate NSError's, allow for both Assertions in Debug and Error handling in Release builds, with beautiful DSL.
 * [PSPDFUIKitMainThreadGuard](https://gist.github.com/steipete/5664345) - Simple snippet generating assertions when UIKit is used on background threads.
-* [Flex ★8548](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS.
-* [chisel ★6349](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps.
 * [ocstyle ★249](https://github.com/Cue/ocstyle) - Objective-C style checker.
 * [spacecommander ★791](https://github.com/square/spacecommander) - Commit fully-formatted Objective-C code as a team without even trying.
 * [DWURecyclingAlert ★563](https://github.com/diwu/DWURecyclingAlert) - Optimizing UITableViewCell For Fast Scrolling.
@@ -315,7 +314,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Warnings-xcconfig ★429 ⏳2Y](https://github.com/boredzo/Warnings-xcconfig) - An xcconfig (Xcode configuration) file for easily turning on a boatload of warnings in your project or its targets.
 * [Aardvark ★196](https://github.com/square/Aardvark) - Aardvark is a library that makes it dead simple to create actionable bug reports.
 * [Stats ★148](https://github.com/shu223/Stats) - In-app memory usage monitoring.
-* [Alpha ★660](https://github.com/Legoless/Alpha) - Next generation debugging framework for iOS.
 * [GlueKit ★352](https://github.com/attaswift/GlueKit) - A type-safe observer framework for Swift. :large_orange_diamond:
 * [SwiftFormat ★1609](https://github.com/nicklockwood/SwiftFormat) - A code library and command-line formatting tool for reformatting Swift code. :large_orange_diamond:
 * [PSTModernizer ★214](https://github.com/PSPDFKit-labs/PSTModernizer) - Makes it easier to support older versions of iOS by fixing things and adding missing methods.
@@ -324,7 +322,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Fallback ★33 ⏳1Y](https://github.com/devxoul/Fallback) - Syntactic sugar for nested do-try-catch. :large_orange_diamond:
 * [ODUIThreadGuard ★700](https://github.com/olddonkey/ODUIThreadGuard) - A guard to help you check if you make UI changes not in main thread. :large_orange_diamond:
 * [IBAnalyzer ★843](https://github.com/fastred/IBAnalyzer) - Find common xib and storyboard-related problems without running your app or writing unit tests. :large_orange_diamond:
-* [Dotzu ★1193](https://github.com/remirobert/Dotzu) - iOS app debugger while using the app. Crash report, logs, network.
 * [CleanArchitectureRxSwift ★897](https://github.com/sergdort/CleanArchitectureRxSwift) - Example of Clean Architecture of iOS app using RxSwift. :large_orange_diamond:
 * [DecouplingKit ★112](https://github.com/coderyi/DecouplingKit) - decoupling between modules in your iOS Project.
 * [Clue ★239](https://github.com/Geek-1001/Clue) - Flexible bug report framework for iOS with screencast, networking, interactions and view structure.
@@ -485,6 +482,19 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [AnyDate ★146](https://github.com/Kawoou/AnyDate) - Swifty Date & Time API inspired from Java 8 DateTime API. :large_orange_diamond:
 * [TimeZonePicker ★85](https://github.com/gligorkot/TimeZonePicker) - A TimeZonePicker UIViewController similar to the iOS Settings app. :large_orange_diamond:
 * [Time ★597](https://github.com/dreymonde/Time) - Type-safe time calculations in Swift, powered by generics. :large_orange_diamond:[e]
+
+## Debugging
+* [Xniffer](https://github.com/vsouza/awesome-ios/issues/1841) - A swift network profiler built on top of URLSession. 🔶
+* [Netfox ★2007](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / macOS network debugging library! :large_orange_diamond:
+* [PonyDebugger ★5484](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools.
+* [DBDebugToolkit ★572](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
+* [Flex ★8548](https://github.com/Flipboard/FLEX) - An in-app debugging and exploration tool for iOS.
+* [chisel ★6349](https://github.com/facebook/chisel) - Collection of LLDB commands to assist debugging iOS apps.
+* [Alpha ★660](https://github.com/Legoless/Alpha) - Next generation debugging framework for iOS.
+* [AEConsole ★76](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App. :large_orange_diamond:
+* [GodEye ★2783](https://github.com/zixun/GodEye) - Automatically display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. :large_orange_diamond:
+* [NetworkEye ★1020](https://github.com/coderyi/NetworkEye) - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
+* [Dotzu ★1193](https://github.com/remirobert/Dotzu) - iOS app debugger while using the app. Crash report, logs, network.
 
 ## EventBus
 * [SwiftEventBus ★586](https://github.com/cesarferreira/SwiftEventBus) - A publish/subscribe event bus optimized for iOS8. :large_orange_diamond:
@@ -703,7 +713,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Colors ★25](https://github.com/icodeforlove/Colors) - A pure Swift library for using ANSI codes. Basically makes command-line coloring and styling very easy! :large_orange_diamond:[e]
 * [Loggerithm ★265](https://github.com/honghaoz/Loggerithm) - A lightweight Swift logger, uses `print` in development and `NSLog` in production. Support colourful and formatted output. :large_orange_diamond:
 * [AELog ★13](https://github.com/tadija/AELog) - Simple, lightweight and flexible debug logging framework written in Swift. :large_orange_diamond:
-* [AEConsole ★76](https://github.com/tadija/AEConsole) - Customizable Console UI overlay with debug log on top of your iOS App. :large_orange_diamond:
 * [ReflectedStringConvertible ★49](https://github.com/mattcomi/ReflectedStringConvertible) - A protocol that allows any class to be printed as if it were a struct. :large_orange_diamond:
 * [Evergreen ★67](https://github.com/knly/Evergreen) - Most natural Swift logging :large_orange_diamond:
 * [SwiftTrace ★123](https://github.com/johnno1962/SwiftTrace) - Trace Swift and Objective-C method invocations :large_orange_diamond:
@@ -720,7 +729,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [JustLog ★191](https://github.com/justeat/JustLog) - Console, file and remote Logstash logging via TCP socket. :large_orange_diamond:
 * [Twitter Logging Service ★160](https://github.com/twitter/ios-twitter-logging-service) - Twitter Logging Service is a robust and performant logging framework for iOS clients.
 * [Reqres ★20](https://github.com/AckeeCZ/Reqres) - Network request and response body logger with Alamofire support :large_orange_diamond:
-* [GodEye ★2783](https://github.com/zixun/GodEye) - Automatically display Log,Crash,Network,ANR,Leak,CPU,RAM,FPS,NetFlow,Folder and etc with one line of code based on Swift. :large_orange_diamond:
 
 ## Machine Learning
 * [Swift-Brain ★298](https://github.com/vlall/Swift-Brain) - Artificial Intelligence/Machine Learning data structures and Swift algorithms for future iOS development. Bayes theorem, Neural Networks, and more AI. :large_orange_diamond:
@@ -965,8 +973,6 @@ Also see [push notifications](#push-notifications)
 * [CocoaAsyncSocket ★9363](https://github.com/robbiehanson/CocoaAsyncSocket) - Asynchronous socket networking library for Mac and iOS.
 * [Siesta](https://bustoutsolutions.github.io/siesta/) - Elegant abstraction for RESTful resources that untangles stateful messes. An alternative to callback- and delegate-based networking. :large_orange_diamond:
 * [Reachability.swift ★4423](https://github.com/ashleymills/Reachability.swift) - Replacement for Apple's Reachability re-written in Swift with closures :large_orange_diamond:
-* [NetworkEye ★1020](https://github.com/coderyi/NetworkEye) - a iOS network debug library, It can monitor HTTP requests within the App and displays information related to the request.
-* [Netfox ★2007](https://github.com/kasketis/netfox) - A lightweight, one line setup, iOS / macOS network debugging library! :large_orange_diamond:
 * [OctopusKit ★1 ⏳1Y](https://github.com/icoco/OctopusKit) - A simplicity but graceful solution for invoke RESTful web service APIs.
 * [Moya ★7471](https://github.com/Moya/Moya) - Network abstraction layer written in Swift. :large_orange_diamond:
 * [TWRDownloadManager ★333 ⏳1Y](https://github.com/chasseurmic/TWRDownloadManager) - A modern download manager based on NSURLSession to deal with asynchronous downloading, management and persistence of multiple files.
@@ -1211,6 +1217,7 @@ Most of these are paid services, some have free tiers.
 * [Hanson ★465](https://github.com/blendle/Hanson) - Lightweight observations and bindings in Swift, with support for KVO and NotificationCenter. :large_orange_diamond:
 * [Observable ★139](https://github.com/roberthein/Observable) - The easiest way to observe values in Swift. 🔶
 * [SimpleApiClient ★62](https://github.com/jaychang0917/SimpleApiClient-ios) - A configurable api client based on Alamofire4 and RxSwift4 for iOS. 🔶
+* [VueFlux ★47](https://github.com/ra1028/VueFlux) - Unidirectional Data Flow State Management Architecture for Swift - Inspired by Vuex and Flux 🔶
 
 ## React-Like
 * [Render ★1652](https://github.com/alexdrone/Render) - Swift and UIKit a la React. :large_orange_diamond:
@@ -1467,7 +1474,6 @@ Most of these are paid services, some have free tiers.
 
 #### Other Testing
 * [NaughtyKeyboard ★584 ⏳2Y](https://github.com/Palleas/NaughtyKeyboard) - The Big List of Naughty Strings is a list of strings which have a high probability of causing issues when used as user-input data. This is a keyboard to help you test your app from your iOS device.
-* [PonyDebugger ★5484](https://github.com/square/PonyDebugger) - Remote network and data debugging for your native iOS app using Chrome Developer Tools
 * [Fakery ★771](https://github.com/vadymmarkov/Fakery) - Swift fake data generator. :large_orange_diamond:
 * [DVR ★508](https://github.com/venmo/DVR) - Network testing for Swift :large_orange_diamond:
 * [Cuckoo ★630](https://github.com/Brightify/Cuckoo) - First boilerplate-free mocking framework for Swift :large_orange_diamond:
@@ -2036,6 +2042,7 @@ Most of these are paid services, some have free tiers.
 * [SwipeMenuViewController ★343](https://github.com/yysskk/SwipeMenuViewController) - Swipable tab and menu View and ViewController. :large_orange_diamond:
 * [DTPagerController ★46](https://github.com/tungvoduc/DTPagerController) - A fully customizable container view controller to display set of ViewControllers in horizontal scroller 🔶
 * [PagingKit ★475](https://github.com/kazuhiro4949/PagingKit) - PagingKit provides customizable menu UI It has more flexible layout and design than the other libraries.  🔶
+* [Dropdowns ★64](https://github.com/hyperoslo/Dropdowns) - 💧 Dropdown in Swift
 
 #### Navigation Bar
 * [HidingNavigationBar ★650](https://github.com/tristanhimmelman/HidingNavigationBar) - Easily hide and show a view controller's navigation bar (and tab bar) as a user scrolls :large_orange_diamond:
@@ -2543,7 +2550,6 @@ Most of these are paid services, some have free tiers.
 * [Traits ★860](https://github.com/krzysztofzablocki/Traits) - Library for a real-time design and behavior modification of native iOS apps without recompiling (code and interface builder changes are supported). :large_orange_diamond:
 * [Struct](https://www.get-struct.tools) - A tool for iOS and Mac developers to automate the creation and management of Xcode projects.
 * [Nori ★286](https://github.com/yukiasai/Nori) - Easier to apply code based style guide to storyboard. :large_orange_diamond:
-* [DBDebugToolkit ★572](https://github.com/dbukowski/DBDebugToolkit) - Set of easy to use debugging tools for iOS developers & QA engineers.
 * [Attabench ★582](https://github.com/attaswift/Attabench) - Microbenchmarking app for Swift with nice log-log plots :large_orange_diamond:
 * [Gluten ★9](https://github.com/wilbertliu/Gluten) - Nano library to unify XIB and it's code. :large_orange_diamond:
 * [LicensePlist ★1005](https://github.com/mono0926/LicensePlist) - A license list generator of all your dependencies for iOS applications. :large_orange_diamond:

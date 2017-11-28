@@ -782,7 +782,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [uri_template ★11](https://github.com/pezra/ex-uri-template) - RFC6570 compliant URI template processor for Elixir.
 * [web_socket ★48](https://github.com/slogsdon/plug-web-socket) - An exploration into a stand-alone library for Plug applications to easily adopt WebSockets.
 * [webdriver ★84 ⏳1Y](https://github.com/stuart/elixir-webdriver) - This is an implementation of the WebDriver protocol client. It currently supports PhantomJS, FireFox, ChromeDriver and remote webdriver servers (e.g. Selenium).
-* [yuri ★7 ⏳1Y](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
+* [yuri ★7 ⏳2Y](https://github.com/kemonomachi/yuri) - Simple struct for representing URIs.
 
 ## Images
 *Libraries for working with and manipulating images.*
