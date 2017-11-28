@@ -478,7 +478,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [eper ★405](https://github.com/massemanet/eper) - Erlang performance and debugging tools.
 * [ether ★3 ⏳2Y](https://github.com/maarek/ether) - Ether provides functionality to hook Elixir into the Erlang debugger.
 * [ex_debug_toolbar ★293](https://github.com/kagux/ex_debug_toolbar) - A toolbar for Phoenix projects to interactively debug code and display useful information about requests: logs, timelines, database queries etc.
-* [exrun ★65](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
+* [exrun ★65 ⏳1Y](https://github.com/liveforeverx/exrun) - Distributed tracing for Elixir with rate limiting and simple macro-based interface.
 * [observer_cli ★346](https://github.com/zhongwencool/observer_cli) - Visualize Elixir & Erlang nodes on the command line, it aims to helpe developers debug production systems.
 * [quaff ★60 ⏳1Y](https://github.com/qhool/quaff) - The Debug module provides a simple helper interface for running Elixir code in the erlang graphical debugger.
 * [visualixir ★655](https://github.com/koudelka/visualixir) - A process visualizer for remote BEAM nodes.
