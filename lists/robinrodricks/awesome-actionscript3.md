@@ -493,7 +493,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AIRplay ★22 ⏳5Y](https://github.com/mikkoh/AS3-Airplay) - Client-side implementation of Apple's Airplay.
 * [TeaTime ★11 ⏳8Y](https://github.com/aemoncannon/croqodile) - AS3/Erlang implementation of the Croquet project's TeaTime protocol.
 * [XMPP ★9 ⏳7Y](https://github.com/lyokato/as3xmppclient) - Client-side implementation of XMPP library.
-* [XMPP ★2 ⏳7Y](https://github.com/bluef/kuching) - Lightweight implementation of XMPP library.
+* [XMPP ★2 ⏳8Y](https://github.com/bluef/kuching) - Lightweight implementation of XMPP library.
 * [AMQP ★44 ⏳2Y](https://github.com/0x6e6562/as3-amqp) - Client-side implementation of the 0-8 version of AMQP.
 * [NTP ★5 ⏳4Y](https://github.com/charlespalen/AS3-NTP-Implementation) - Client-side implementation of NTP Client (Network Time Protocol).
 * [FUDI ★1 ⏳7Y](https://github.com/matthiasbreuer/FUDI-as3) - Client-side implementation of the Puredata FUDI protocol.

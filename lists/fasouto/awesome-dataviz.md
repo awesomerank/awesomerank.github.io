@@ -33,6 +33,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 	- [Other tools](#other-tools)
 - [Resources](#resources)
 	- [Books](#books)
+	- [Podcasts](#podcasts)
 	- [Twitter accounts](#twitter-accounts)
  	- [Websites](#websites)
 - [Contributing](#contributing)
@@ -119,6 +120,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [PyQtGraph](http://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 - [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
 - [toyplot](http://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.
+- [veusz](https://veusz.github.io/) - Python multiplatform GUI plotting tool and graphing library
 - [VisPy](http://vispy.org/) - High-performance scientific visualization based on OpenGL.
 
 ## R tools
@@ -155,6 +157,9 @@ Tools that are not tied to a particular platform or language.
 - [Interactive Data Visualization for the Web](http://chimera.labs.oreilly.com/books/1230000000345) by Scott Murray. Available to read online. Focused on D3.
 - [Data Visualization Toolkit](http://datavisualizationtoolkit.com) by Barrett Austin Clark. Uses D3, Ruby on Rails, Postgres, PostGIS, & Leaflet.
 
+## Podcasts
+- [Data Stories](http://datastori.es/)
+
 ## Twitter accounts
 - [Alberto Cairo](https://twitter.com/albertocairo)
 - [Benjamin Wiederkehr](https://twitter.com/datavis)
@@ -165,12 +170,25 @@ Tools that are not tied to a particular platform or language.
 - [Visualizing](https://twitter.com/VisualizingOrg)
 
 ## Websites
-- [FlowingData](http://flowingdata.com/)
-- [Gnuplotting](http://www.gnuplotting.org/) - [Gnuplot](http://www.gnuplot.info/) tutorials
-- [Information is Beautiful](http://www.informationisbeautiful.net/)
-- [The Pudding](https://pudding.cool/)
-- [The Data Visualization Catalogue](http://www.datavizcatalogue.com/) - A collection of data visualization methods, with pros and cons.
-- [Visual Complexity](http://www.visualcomplexity.com/vc/) - A site about the visualization of complex networks.
+- [Ann K. Emery](http://annkemery.com/)'s blog  
+- [eagereyes](https://eagereyes.org/)  
+- [EvergreenData](http://stephanieevergreen.com/)  
+- [FlowingData](http://flowingdata.com/)  
+- [Gnuplotting](http://www.gnuplotting.org/) - [Gnuplot](http://www.gnuplot.info/) tutorials  
+- [Information is Beautiful](http://www.informationisbeautiful.net/)  
+- [InfoVis Group @ UBC Computer Science](http://www.cs.ubc.ca/group/infovis/)  
+- [Junk Charts](http://junkcharts.typepad.com/) - Kaiser Fung takes apart why certain datavizes work/don't work
+- [Lisa Rost thinks and discusses about why we dataviz](https://lisacharlotterost.github.io/)  
+- [Makeover Monday](http://www.makeovermonday.co.uk/) blog - [#MakeoverMonday](https://twitter.com/search?q=%23makeovermonday) on twitter  
+- [roadtolarissa](https://roadtolarissa.com/)  
+- [The Data Visualization Catalogue](http://www.datavizcatalogue.com/) - A collection of data visualization methods, with pros and cons.  
+- [the functional art](http://www.thefunctionalart.com/)  
+- [The Open News](https://source.opennews.org/articles/) blog -  Open news has some good dataviz related articles from time to time  
+- [The Pudding](https://pudding.cool/) - [Dataviz Pro-Tips](https://pudding.cool/#pro-tips) 
+- [Truth & Beauty Operations](https://truth-and-beauty.net/) 
+- [University of Washington Interactive Data Lab Papers](http://idl.cs.washington.edu/papers)  
+- [vis4.net](https://www.vis4.net/blog/) - Random thoughts on visualization and data journalism by Gregor Aisch  
+- [Visual Complexity](http://www.visualcomplexity.com/vc/) - A site about the visualization of complex networks.  
 
 
 # Contributing

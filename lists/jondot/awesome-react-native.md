@@ -644,7 +644,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 
 
 ### System
-
+- [react-native-incall-manager ★172](https://github.com/zxcpoiu/react-native-incall-manager) - Handling media-routes/sensors/events during a audio/video chat on React Native
 - [react-native-addressbook ★65](https://github.com/rt2zz/react-native-addressbook) - AddressBook module for react-native
 - [react-native-android-sms-listener ★66](https://github.com/CentaurWarchief/react-native-android-sms-listener) - Allows you to listen for incoming SMS messages
 - [react-native-android-sms ★34](https://github.com/msmakhlouf/react-native-android-sms) - A react native android module to list/send sms.
@@ -737,7 +737,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-webview-crosswalk ★42](https://github.com/jordansexton/react-native-webview-crosswalk) - Crosswalk's WebView for React Native on Android
 
 ### Media
-
+- [react-native-interactive-image-gallery ★3](https://github.com/InterfaceKit/react-native-interactive-image-gallery) - A React Native component to display a gallery of images.
 - [react-native-android-audio-streaming-aac ★19](https://github.com/EstebanFuentealba/react-native-android-audio-streaming-aac) - A react native streaming player
 - [react-native-audio-manager ★13](https://github.com/Tricy/react-native-audio-manager) - Audio player library for react native Android
 - [react-native-audio-player ★11](https://github.com/sh3rawi/react-native-audio-player) - A React Native module to play audio on Android
@@ -782,6 +782,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-store ★442](https://github.com/thewei/react-native-store) - A simple database base on react-native AsyncStorage.
 - [realm ★1755](https://github.com/realm/realm-js) - An alternative mobile database to SQLite & key-value stores.
 - [pouchdb-adapter-react-native-sqlite ★11](https://github.com/noradaiko/pouchdb-adapter-react-native-sqlite) - PouchDB adapter using ReactNative SQLite as its backing store
+- [react-native-persistent-job ★55](https://github.com/Gabrn/react-native-persistent-job) - Run async tasks that retry after a crash, connection loss or exception
 
 ### Backend
 
@@ -955,6 +956,7 @@ Libraries / SDK type additions for React Native development.
 ## Open Source Apps
 
 Open source React Native apps and other examples.
+- [Bristol Pound](http://blog.scottlogic.com/2017/11/22/developing-bristol-pound-an-open-source-react-native-app.html) - An app for the Bristol Pound, a UK-based local currency.
 - [ASOS ★1](https://github.com/edwinbosire/ASOS) - E-commerce app for ASOS (clone)
 - [Urban Dictionary ★16](https://github.com/edwinbosire/Urbandict) - Mobile implementation of the popular Urban Dictionary website.
 - [Appointments  ★58](https://github.com/iZaL/my-appointment) - Full-fledged ReactNative App for Booking Appointments

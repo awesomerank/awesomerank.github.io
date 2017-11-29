@@ -37,6 +37,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 - [Getting Started](#getting-started)
 - [Library and Frameworks](#libraries-and-frameworks)
     - [Analytics](#analytics)
+    - [App Routing](#app--routing)
     - [Apple TV](#apple-tv)
     - [ARKit](#arkit)
     - [Authentication](#authentication)
@@ -133,6 +134,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Pull to Refresh](#pull-to-refresh)
         - [Rating Stars](#rating-stars)
         - [ScrollView](#scrollview)
+        - [Segmented Control](#segmented-control)
         - [Slider](#slider)
         - [Splash View](#splash-view)
         - [Stepper](#stepper)
@@ -142,7 +144,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
         - [Tag](#tag)
         - [TextField & TextView](#textfield--textview)
         - [Web View](#web--view)
-    - [URL Scheme](#url-scheme)
     - [Utility](#utility)
     - [VR](#vr)
     - [Walkthrough / Intro / Tutorial](#walkthrough--intro--tutorial)
@@ -207,6 +208,20 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Abbi ★2](https://github.com/abbiio/iosdk) - A Simple SDK for developers to manage and maximise conversions of all in-app promotions.
 * [devtodev](https://www.devtodev.com/) - Comprehensive analytics service that improves your project and saves time for product development.
 * [Bugsnag](https://www.bugsnag.com/platforms/ios-crash-reporting/) - Error tracking with a free tier. Error reports include data on device, release, user, and allows arbitrary data.
+
+## App Routing
+* [WAAppRouting ★559 ⏳1Y](https://github.com/Wasappli/WAAppRouting) - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
+* [DeepLinkKit ★2999](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
+* [IntentKit ★1806](https://github.com/intentkit/IntentKit) - An easier way to handle third-party URL schemes in iOS apps.
+* [JLRoutes ★3861](https://github.com/joeldev/JLRoutes) - URL routing library for iOS with a simple block-based API.
+* [IKRouter ★92 ⏳2Y](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks :large_orange_diamond:
+* [Compass ★559](https://github.com/hyperoslo/Compass) - :earth_africa: Compass helps you setup a central navigation system for your application :large_orange_diamond:
+* [Appz ★872](https://github.com/SwiftKitz/Appz) - Easily launch and deeplink into external applications, falling back to web if not installed. :large_orange_diamond:
+* [URLNavigator ★1362](https://github.com/devxoul/URLNavigator) - ⛵️ Elegant URL Routing for Swift :large_orange_diamond:
+* [Marshroute ★134](https://github.com/avito-tech/Marshroute) - Marshroute is an iOS Library for making your Routers simple but extremely powerful. :large_orange_diamond: 
+* [SwiftRouter ★153](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS, written in Swift 3 :large_orange_diamond:
+* [Router ★89](https://github.com/freshOS/Router) - 🛣 Simple Navigation for iOS. :large_orange_diamond:
+* [ApplicationCoordinator ★213](https://github.com/AndreyPanov/ApplicationCoordinator) - Coordinator is an object that handles navigation flow and shares flow’s handling for the next coordinator after switching on the next chain.
 
 ## Apple TV
 * [Voucher ★491](https://github.com/rsattar/Voucher) - A simple library to make authenticating tvOS apps easy via their iOS counterparts.
@@ -326,7 +341,6 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [DecouplingKit ★112](https://github.com/coderyi/DecouplingKit) - decoupling between modules in your iOS Project.
 * [Clue ★239](https://github.com/Geek-1001/Clue) - Flexible bug report framework for iOS with screencast, networking, interactions and view structure.
 * [Viperit ★201](https://github.com/ferranabello/Viperit) - Viper Framework for iOS. Develop an app following VIPER architecture in an easy way. Written and tested in Swift. :large_orange_diamond:
-* [Marshroute ★134](https://github.com/avito-tech/Marshroute) - Marshroute is an iOS Library for making your Routers simple but extremely powerful. :large_orange_diamond:
 
 #### Linter
 * [OCLint ★2085](https://github.com/oclint/oclint) - Static code analysis tool for improving quality and reducing defects.
@@ -1435,6 +1449,23 @@ Most of these are paid services, some have free tiers.
 * [MarkdownView ★1005](https://github.com/keitaoouchi/MarkdownView) - Markdown View for iOS. 🔶
 * [Highlighter ★643](https://github.com/younatics/Highlighter) - Highlight whatever you want! Highlighter will magically find UI objects such as UILabel, UITextView, UITexTfield, UIButton in your UITableViewCell or other Class. :large_orange_diamond:
 
+#### Font
+* [FontBlaster ★856](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app. :large_orange_diamond:
+* [GoogleMaterialIconFont ★136 ⏳1Y](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Design Icons for Swift and ObjC project :large_orange_diamond:
+* [ios-fontawesome ★1742](https://github.com/alexdrone/ios-fontawesome) - NSString+FontAwesome.
+* [FontAwesome.swift ★901](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects. :large_orange_diamond:
+* [SwiftFontName ★91 ⏳1Y](https://github.com/morizotter/SwiftFontName) - OS font complements library. Localized font supported :large_orange_diamond:
+* [SwiftIconFont ★801](https://github.com/0x73/SwiftIconFont) - Icons fonts for iOS (FontAwesome, Iconic, Ionicon, Octicon, Themify, MapIcon, MaterialIcon) :large_orange_diamond:
+* [FontAwesomeKit ★2565](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
+* [Iconic ★1388](https://github.com/dzenbot/Iconic) - Auto-generated icon font library for iOS, watchOS and tvOS  :large_orange_diamond:
+* [GoogleMaterialDesignIcons ★363](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - Google Material Design Icons Font for iOS. :large_orange_diamond:
+* [OcticonsKit ★33](https://github.com/keitaoouchi/OcticonsKit) - Use Octicons as UIImage / UIFont in your projects with Swifty manners. :large_orange_diamond:
+* [IoniconsKit ★294](https://github.com/keitaoouchi/IoniconsKit) - Use Ionicons as UIImage / UIFont in your projects with Swifty manners. :large_orange_diamond:
+* [FontAwesomeKit.Swift ★156](https://github.com/qiuncheng/FontAwesomeKit.Swift) - A better choice for iOS Developer to use FontAwesome Icon. :large_orange_diamond:
+* [UIFontComplete ★899](https://github.com/Nirma/UIFontComplete) - Make working with UIFont faster and less error-prone. :large_orange_diamond:
+* [Swicon ★34](https://github.com/UglyTroLL/Swicon) - Use 1600+ icons (and more!) from FontAwesome and Google Material Icons in your swift/iOS project in an easy and space-efficient way! :large_orange_diamond:
+* [SwiftIcons ★344](https://github.com/ranesr/SwiftIcons) - A library for using different font icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather. It supports UIImage, UIImageView, UILabel, UIButton, UISegmentedControl, UITabBarItem, UISlider, UIBarButtonItem, UIViewController, UITextfield, UIStepper. :large_orange_diamond:
+
 ## Testing
 
 #### TDD / BDD
@@ -1489,23 +1520,6 @@ Most of these are paid services, some have free tiers.
 * [MetovaTestKit ★19](https://github.com/metova/MetovaTestKit) - A collection of testing utilities to turn crashing test suites into failing test suites. :large_orange_diamond:
 * [MirrorDiffKit ★95](https://github.com/Kuniwak/MirrorDiffKit) - Pretty diff between any structs or classes :large_orange_diamond:
 * [SnappyTestCase ★8](https://github.com/tooploox/SnappyTestCase) - iOS Simulator type agnostic snapshot testing, built on top of the FBSnapshotTestCase. :large_orange_diamond:
-
-#### Font
-* [FontBlaster ★856](https://github.com/ArtSabintsev/FontBlaster) - Programmatically load custom fonts into your iOS app. :large_orange_diamond:
-* [GoogleMaterialIconFont ★136 ⏳1Y](https://github.com/kitasuke/GoogleMaterialIconFont) - Google Material Design Icons for Swift and ObjC project :large_orange_diamond:
-* [ios-fontawesome ★1742](https://github.com/alexdrone/ios-fontawesome) - NSString+FontAwesome.
-* [FontAwesome.swift ★901](https://github.com/thii/FontAwesome.swift) - Use FontAwesome in your Swift projects. :large_orange_diamond:
-* [SwiftFontName ★91 ⏳1Y](https://github.com/morizotter/SwiftFontName) - OS font complements library. Localized font supported :large_orange_diamond:
-* [SwiftIconFont ★801](https://github.com/0x73/SwiftIconFont) - Icons fonts for iOS (FontAwesome, Iconic, Ionicon, Octicon, Themify, MapIcon, MaterialIcon) :large_orange_diamond:
-* [FontAwesomeKit ★2565](https://github.com/PrideChung/FontAwesomeKit) - Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
-* [Iconic ★1388](https://github.com/dzenbot/Iconic) - Auto-generated icon font library for iOS, watchOS and tvOS  :large_orange_diamond:
-* [GoogleMaterialDesignIcons ★363](https://github.com/dekatotoro/GoogleMaterialDesignIcons) - Google Material Design Icons Font for iOS. :large_orange_diamond:
-* [OcticonsKit ★33](https://github.com/keitaoouchi/OcticonsKit) - Use Octicons as UIImage / UIFont in your projects with Swifty manners. :large_orange_diamond:
-* [IoniconsKit ★294](https://github.com/keitaoouchi/IoniconsKit) - Use Ionicons as UIImage / UIFont in your projects with Swifty manners. :large_orange_diamond:
-* [FontAwesomeKit.Swift ★156](https://github.com/qiuncheng/FontAwesomeKit.Swift) - A better choice for iOS Developer to use FontAwesome Icon. :large_orange_diamond:
-* [UIFontComplete ★899](https://github.com/Nirma/UIFontComplete) - Make working with UIFont faster and less error-prone. :large_orange_diamond:
-* [Swicon ★34](https://github.com/UglyTroLL/Swicon) - Use 1600+ icons (and more!) from FontAwesome and Google Material Icons in your swift/iOS project in an easy and space-efficient way! :large_orange_diamond:
-* [SwiftIcons ★344](https://github.com/ranesr/SwiftIcons) - A library for using different font icons: dripicons, emoji, font awesome, icofont, ionicons, linear icons, map icons, material icons, open iconic, state, weather. It supports UIImage, UIImageView, UILabel, UIButton, UISegmentedControl, UITabBarItem, UISlider, UIBarButtonItem, UIViewController, UITextfield, UIStepper. :large_orange_diamond:
 
 ## UI
 * [FlatUIKit ★7671 ⏳1Y](https://github.com/Grouper/FlatUIKit) - A collection of awesome flat UI components for iOS.
@@ -2121,6 +2135,18 @@ Most of these are paid services, some have free tiers.
 *  [VegaScroll ★1414](https://github.com/AppliKeySolutions/VegaScroll) - VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9 :large_orange_diamond:
 *  [ShelfView-iOS ★162](https://github.com/tdscientist/ShelfView-iOS) - iOS custom view to display books on shelf :large_orange_diamond:
 
+#### Segmented Control
+* [BetterSegmentedControl ★898](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch. :large_orange_diamond:
+* [LUNSegmentedControl ★207](https://github.com/Stormotion-Mobile/LUNSegmentedControl) - Customizable segmented control with interactive animation.
+* [AKASegmentedControl ★404 ⏳1Y](https://github.com/alikaragoz/AKASegmentedControl) - :chocolate_bar: Fully customizable Segmented Control for iOS.
+* [TwicketSegmentedControl ★1193](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement for iOS, written in Swift. :large_orange_diamond:
+* [SJFluidSegmentedControl ★689](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations. Written in Swift 3.0. :large_orange_diamond:
+* [HMSegmentedControl ★3159](https://github.com/HeshamMegid/HMSegmentedControl) - A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
+* [YUSegment ★94](https://github.com/afishhhhh/YUSegment) - A customizable segmented control for iOS. Supports both text and image.
+* [MultiSelectSegmentedControl ★77](https://github.com/yonat/MultiSelectSegmentedControl) - adds Multiple-Selection to the standard `UISegmentedControl`.
+* [DynamicMaskSegmentSwitch ★290 ⏳1Y](https://github.com/KittenYang/DynamicMaskSegmentSwitch) - A segment switcher with dynamic text mask effect :large_orange_diamond:
+* [PinterestSegment ★285](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation. :large_orange_diamond:
+
 #### Slider
 * [VolumeControl ★60](https://github.com/12Rockets/VolumeControl) - Custom volume control for iPhone featuring a well-designed round slider.
 * [WESlider ★79 ⏳1Y](https://github.com/Ekhoo/WESlider) - Simple and light weight slider with chapter management
@@ -2167,19 +2193,9 @@ Most of these are paid services, some have free tiers.
 * [DGRunkeeperSwitch ★1819](https://github.com/gontovnik/DGRunkeeperSwitch) - Runkeeper design switch control (two part segment control) :large_orange_diamond:
 * [PMZSwitch ★52 ⏳1Y](https://github.com/kovpas/PMZSwitch) - Yet another animated toggle :large_orange_diamond:
 * [Switcher ★165](https://github.com/knn90/Switcher) - Swift - Custom UISwitcher with animation when change status :large_orange_diamond:
-* [BetterSegmentedControl ★898](https://github.com/gmarm/BetterSegmentedControl) - An easy to use, customizable replacement for UISegmentedControl & UISwitch. :large_orange_diamond:
 * [RAMPaperSwitch ★2338](https://github.com/Ramotion/paper-switch) - RAMPaperSwitch is a Swift module which paints over the parent view when the switch is turned on. :large_orange_diamond:
-* [DynamicMaskSegmentSwitch ★290 ⏳1Y](https://github.com/KittenYang/DynamicMaskSegmentSwitch) - A segment switcher with dynamic text mask effect :large_orange_diamond:
-* [LUNSegmentedControl ★207](https://github.com/Stormotion-Mobile/LUNSegmentedControl) - Customizable segmented control with interactive animation.
-* [AKASegmentedControl ★404 ⏳1Y](https://github.com/alikaragoz/AKASegmentedControl) - :chocolate_bar: Fully customizable Segmented Control for iOS
 * [AIFlatSwitch ★642](https://github.com/cocoatoucher/AIFlatSwitch) - A flat component alternative to UISwitch on iOS :large_orange_diamond:
 * [Switch ★71](https://github.com/T-Pham/Switch) - An iOS switch control implemented in Swift with full Interface Builder support.🔶
-* [TwicketSegmentedControl ★1193](https://github.com/twicketapp/TwicketSegmentedControl) - Custom UISegmentedControl replacement for iOS, written in Swift. :large_orange_diamond:
-* [SJFluidSegmentedControl ★689](https://github.com/sasojadrovski/SJFluidSegmentedControl) - A segmented control with custom appearance and interactive animations. Written in Swift 3.0. :large_orange_diamond:
-* [HMSegmentedControl ★3159](https://github.com/HeshamMegid/HMSegmentedControl) - A drop-in replacement for UISegmentedControl mimicking the style of the segmented control used in Google Currents and various other Google products.
-* [PinterestSegment ★285](https://github.com/TBXark/PinterestSegment) - A Pinterest-like segment control with masking animation. :large_orange_diamond:
-* [YUSegment ★94](https://github.com/afishhhhh/YUSegment) - A customizable segmented control for iOS. Supports both text and image.
-* [MultiSelectSegmentedControl ★77](https://github.com/yonat/MultiSelectSegmentedControl) - adds Multiple-Selection to the standard `UISegmentedControl`.
 
 #### Tab Bar
 * [ESTabBarController ★99 ⏳1Y](https://github.com/ezescaruli/ESTabBarController) - A tab bar controller for iOS that allows highlighting buttons and setting custom actions to them.
@@ -2343,16 +2359,6 @@ Most of these are paid services, some have free tiers.
 * [SVWebViewController ★2546](https://github.com/TransitApp/SVWebViewController) - A drop-in inline browser for your iOS app.
 * [PTPopupWebView ★69](https://github.com/pjocprac/PTPopupWebView) - PTPopupWebView is a simple and useful WebView for iOS, which can be popup and has many of the customized item. :large_orange_diamond:
 
-## URL Scheme
-* [WAAppRouting ★559 ⏳1Y](https://github.com/Wasappli/WAAppRouting) - iOS routing done right. Handles both URL recognition and controller displaying with parsed parameters. All in one line, controller stack preserved automatically!
-* [DeepLinkKit ★2999](https://github.com/button/DeepLinkKit) - A splendid route-matching, block-based way to handle your deep links.
-* [IntentKit ★1806](https://github.com/intentkit/IntentKit) - An easier way to handle third-party URL schemes in iOS apps.
-* [JLRoutes ★3861](https://github.com/joeldev/JLRoutes) - URL routing library for iOS with a simple block-based API.
-* [IKRouter ★92 ⏳2Y](https://github.com/IanKeen/IKRouter) - URLScheme router than supports auto creation of UIViewControllers for associated url parameters to allow creation of navigation stacks :large_orange_diamond:
-* [Compass ★559](https://github.com/hyperoslo/Compass) - :earth_africa: Compass helps you setup a central navigation system for your application :large_orange_diamond:
-* [Appz ★872](https://github.com/SwiftKitz/Appz) - Easily launch and deeplink into external applications, falling back to web if not installed. :large_orange_diamond:
-* [URLNavigator ★1362](https://github.com/devxoul/URLNavigator) - ⛵️ Elegant URL Routing for Swift :large_orange_diamond:
-
 ## Utility
  * [Underscore.m ★1518](https://github.com/robb/Underscore.m) - A DSL for Data Manipulation.
  * [XExtensionItem ★81 ⏳2Y](https://github.com/tumblr/XExtensionItem) - Easier sharing of structured data between iOS applications and share extensions.
@@ -2397,7 +2403,6 @@ Most of these are paid services, some have free tiers.
  * [MissionControl-iOS ★99 ⏳1Y](https://github.com/appculture/MissionControl-iOS) - Super powerful remote config utility written in Swift (iOS, watchOS, tvOS, macOS) :large_orange_diamond:
  * [SwiftTweaks ★972](https://github.com/Khan/SwiftTweaks) - Tweak your iOS app without recompiling! :large_orange_diamond:
  * [UnsupportedOSVersionAlert ★9 ⏳1Y](https://github.com/caloon/UnsupportedOSVersionAlert) - Alerts users with a popup if they use an app with an unsupported version of iOS (e.g. iOS betas) :large_orange_diamond:
- * [SwiftRouter ★153](https://github.com/skyline75489/SwiftRouter) - A URL Router for iOS, written in Swift 3 :large_orange_diamond:
  * [SwiftSortUtils ★57](https://github.com/dsmatter/SwiftSortUtils) - This library takes a shot at making sorting in Swift more pleasant. It also allows you to reuse your old NSSortDescriptor instances in Swift. :large_orange_diamond:
  * [Retry ★432](https://github.com/icanzilb/Retry) - Haven't you wished for `try` to sometimes try a little harder? Meet `retry` . :large_orange_diamond:
  * [ObjectiveKit ★698](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions. :large_orange_diamond:

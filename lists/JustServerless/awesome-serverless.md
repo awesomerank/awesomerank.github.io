@@ -1198,7 +1198,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Serverless dotenv WSGI ★2 ⏳1Y](https://github.com/braahyan/serverless-dotenv-wsgi) - Demonstrating the use of the `serverless-wsgi` plugin and the `serverless-plugin-dotenv` plugin.
 - [Serverless PHP ★55](https://github.com/ZeroSharp/serverless-php) - Example using an AWS Lambda which runs a PHP function.
 - [Newsletter Signup ★9](https://github.com/ivanderbu2/serverless-newsletter-signup) - Newsletter Signup API in Serverless.
-- [Express Serverless Boilerplate ★3](https://github.com/SharathHuddar/express-serverless-boilerplate) - A simple boilerplate for using expressjs with serverless v1.2.1.
+- [Express Serverless Boilerplate ★3 ⏳1Y](https://github.com/SharathHuddar/express-serverless-boilerplate) - A simple boilerplate for using expressjs with serverless v1.2.1.
 - [GraphQL Dad Jokes ★22 ⏳1Y](https://github.com/kevinold/serverless-graphql-dadjokes) - Example Serverless GraphQL v1.0 "Dad Jokes" service from React Rally 2016.
 - [Serverless HTTP ★100](https://github.com/dougmoscrop/serverless-http) - Middleware wrapper for serverless use.
 - [Coca Cola Session ★26](https://github.com/C0k3/session) - Serverless API example: create and manage user sessions via OAuth tokens.
@@ -1660,6 +1660,7 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [AWS resource names ★1](https://github.com/concon121/serverless-plugin-aws-resource-names) - Enable custom AWS resource names.
 - [Nested stacks ★1](https://github.com/concon121/serverless-plugin-nested-stacks) - Nested stacks support.
 - [Alexa skills ★9](https://github.com/marcy-terui/serverless-alexa-skills) - Manage your Alexa skills with Serverless Framework.
+- [Attach Managed Policy ★0](https://github.com/Nordstrom/serverless-attach-managed-policy) - Automatically attach an AWS Managed IAM Policy (or Policies) to all IAM Roles created by the service.
 
 ## Literature / Education
 

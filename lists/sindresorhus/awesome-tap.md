@@ -97,7 +97,7 @@ Things that consume TAP output.
 ### JavaScript
 
 - [tap-dev-tool ★26 ⏳2Y](https://github.com/Jam3/tap-dev-tool) - Prettify TAP in the browser console.
-- [tap-merge ★4](https://github.com/anko/tap-merge) - Merge multiple TAP streams.
+- [tap-merge ★4 ⏳1Y](https://github.com/anko/tap-merge) - Merge multiple TAP streams.
 - [smokestack ★220 ⏳2Y](https://github.com/hughsk/smokestack) - Run TAP tests in a browser and write the output to `stdout`.
 - [chutney](https://github.com/derhuerst/chutney) - Run TAP tests at Sauce Labs. Lightweight [smokestack ★220 ⏳2Y](https://github.com/hughsk/smokestack) alternative.
 

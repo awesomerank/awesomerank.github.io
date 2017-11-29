@@ -701,7 +701,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [odin ★68](https://github.com/tylerreckart/odin) - Odin is a git-flavored ZSH theme.
 * [oh-my-git ★2723](https://github.com/arialdomartini/oh-my-git) - An opinionated prompt for bash and ZSH.
 * [oh-my-via ★8](https://github.com/badouralix/oh-my-via) - Theme for ZSH which mainly forks the historical theme used on VIA servers.
-* [oh-my-zsh-node-theme ★34 ⏳1Y](https://github.com/skuridin/oh-my-zsh-node-theme) - OMZ's node theme, broken out to make it easier to use with other plugin managers.
+* [oh-my-zsh-node-theme ★34 ⏳2Y](https://github.com/skuridin/oh-my-zsh-node-theme) - OMZ's node theme, broken out to make it easier to use with other plugin managers.
 * [orobbl ★5 ⏳5Y](https://github.com/robbl/oh-my-zsh-config) - Shows the git/svn status including the time since last commit and rvm status in prompt.
 * [ozono ★4](https://github.com/sfabrizio/ozono-zsh-theme) 🌏 OZ0NO - Let's Breathe a clean ZSH.
 * [pad ★2](https://github.com/eproxus/pad.zsh-theme) - A concise and colorful oh-my-zsh theme.

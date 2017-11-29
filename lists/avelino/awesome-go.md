@@ -655,6 +655,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 
 *Libraries for generating and working with log files.*
 
+* [distillog ★0](https://github.com/amoghe/distillog) - distilled levelled logging (think of it as stdlib + log levels).
 * [glg ★4](https://github.com/kpango/glg) - glg is simple and fast leveled logging library for Go.
 * [glog ★1555](https://github.com/golang/glog) - Leveled execution logs for Go.
 * [go-cronowriter ★2](https://github.com/utahta/go-cronowriter) - Simple writer that rotate log files automatically based on current date and time, like cronolog.
@@ -1011,6 +1012,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [asn1](https://github.com/PromonLogicalis/asn1) - Asn.1 BER and DER encoding library for golang.
 * [bambam ★57 ⏳1Y](https://github.com/glycerine/bambam) - generator for Cap'n Proto schemas from go.
 * [colfer ★290](https://github.com/pascaldekloe/colfer) - Code generation for the Colfer binary format.
+* [csvutil ★7](https://github.com/jszwec/csvutil) - High Performance, idiomatic CSV record encoding and decoding to native Go structures.
 * [go-capnproto ★254](https://github.com/glycerine/go-capnproto) - Cap'n Proto library and parser for go.
 * [go-codec ★839](https://github.com/ugorji/go) - High Performance, feature-Rich, idiomatic encode, decode and rpc library for msgpack, cbor and json, with runtime-based OR code-generation support.
 * [gogoprotobuf ★1241](https://github.com/gogo/protobuf) - Protocol Buffers for Go with Gadgets.

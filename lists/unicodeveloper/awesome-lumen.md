@@ -78,7 +78,7 @@ title: Awesome Rank for unicodeveloper/awesome-lumen
 
 
 ## Made With Lumen
-* [Slack Invitator ★54](https://github.com/vluzrmos/lumen-slackin) - A Slack Invitator made with Lumen Framework
+* [Slack Invitator ★54 ⏳1Y](https://github.com/vluzrmos/lumen-slackin) - A Slack Invitator made with Lumen Framework
 * [Email Microservice ★39 ⏳2Y](https://github.com/rlacerda83/lumen-email-microservice) - Microservice for sending emails with Lumen
 * [Lissandra ★12](https://github.com/laravelista/Lissandra) - API for Laracasts Feed built with Lumen.
 * [Lumen Solder ★1 ⏳2Y](https://github.com/TechnicPack/LumenSolder) - An implementation of Solder in Laravel's Lumen Framework.

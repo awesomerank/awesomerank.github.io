@@ -59,7 +59,7 @@ title: Awesome Rank for avajs/awesome-ava
 - [ava-rethinkdb ★25](https://github.com/rrdelaney/ava-rethinkdb) - Test helpers for RethinkDB.
 - [eslint-ava-rule-tester](https://github.com/jfmengels/eslint-ava-rule-tester) - Test [ESLint ★9293](https://github.com/eslint/eslint) plugins with AVA.
 - [jscodeshift-ava-tester](https://github.com/jfmengels/jscodeshift-ava-tester) - Test [jscodeshift ★2629](https://github.com/facebook/jscodeshift) codemods with AVA.
-- [ava-preact-init ★9](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
+- [ava-preact-init ★9 ⏳1Y](https://github.com/avajs/ava-preact-init) - Set up AVA for Preact.
 - [ava-check](https://github.com/leebyron/testcheck-js/tree/master/integrations/ava-check) - Generative property testing with [`TestCheck.js` ★725](https://github.com/leebyron/testcheck-js).
 - [ava-fixture ★2](https://github.com/unional/ava-fixture) - Run fixture/baseline tests with AVA.
 - [ava-playback ★88](https://github.com/dempfi/ava-playback) - Record and playback HTTP requests.

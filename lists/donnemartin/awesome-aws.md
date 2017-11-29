@@ -567,7 +567,7 @@ AWS Repos:
 * [aws-dynamodb-session-tomcat ★86](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
 * [aws-sessionstore-dynamodb-ruby ★42](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
 * [dynamodb-cross-region-library :fire::fire: ★213](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication.
-* [dynamodb-geo :fire: ★199](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
+* [dynamodb-geo :fire::fire: ★199](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
 * [dynamodb-import-export-tool ★52](https://github.com/awslabs/dynamodb-import-export-tool) - Import and export examples.
 * [dynamodb-online-index-violation-detector ★4 ⏳2Y](https://github.com/awslabs/dynamodb-online-index-violation-detector) - Finds violations on an online GSI's hash key and range key.
 * [dynamodb-streams-kinesis-adapter ★34](https://github.com/awslabs/dynamodb-streams-kinesis-adapter) - Kinesis interface to consume and process data from a DynamoDB stream.

@@ -153,7 +153,7 @@ List of software with DTrace support.
 
 #### Perl
 
-- [perl-Devel-DTrace-Provider ★2 ⏳4Y](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
+- [perl-Devel-DTrace-Provider ★2 ⏳5Y](https://github.com/chrisa/perl-Devel-DTrace-Provider) - Perl wrapper for libusdt.
 
 #### PHP
 
