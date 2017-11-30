@@ -145,7 +145,7 @@ Apps people use when taking transit.
 - [Veridict LiveMap](https://livemap.veridict.com/) - Millions of individually tracked public transport units across the entire world. Based on a number of sources, including GTFS and GTFS-RT. 
 - [Graphs in Transit](https://gtfs-graph.herokuapp.com/) - Graph centrality metrics displayed over rapid transit networks for New York City, Boston, and Paris.
 - [SEPTA Rail OTP Report ★3](https://github.com/fulldecent/septa-regionalrail-otp) - An online on-time performance reporing & drill down tool using GTFS.
-- [TransitFlow ★86](https://github.com/transitland/transitland-processing-animation) Animate GTFS data around the world using Processing and Transitland.
+- [TransitFlow ★95](https://github.com/transitland/transitland-processing-animation) Animate GTFS data around the world using Processing and Transitland.
 
 ### Resources
 
@@ -189,7 +189,7 @@ Converters from various static schedule formats to GTFS.
 - [Open-Transport SYNTHESE Convertors](https://github.com/Open-Transport/synthese/wiki) - Converts French-Transmodel, SIRI, NETeX, HAFAS, HASTUS, VDV452, and more.
 - [Chouette](http://www.chouette.mobi/) - Converts French-Transmodel, SIRI, NETeX. See Chouette.mobi website for more info.
 - [osm2gtfs ★28](https://github.com/grote/osm2gtfs) - Turn OpenStreetMap data and schedule information into GTFS.
-- [GTFS-OSM-Sync ★49](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for syncrhonizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
+- [GTFS-OSM-Sync ★49](https://github.com/CUTR-at-USF/gtfs-osm-sync) - A Java tool for synchronizing data in GTFS format with [OpenStreetMap.org](http://www.openstreetmap.org/).
  
 #### GTFS Tools
 
@@ -225,7 +225,7 @@ Converters from various static schedule formats to GTFS.
 #### GTFS Realtime Validators
 
 - [gtfs-realtime-validator](https://github.com/CUTR-at-USF/gtfs-realtime-validator) - A GTFS-realtime validation tool developed by the Center for Urban Transportation Research at the University of South Florida.  Also includes an integrated version of the [gtfs-validator ★16](https://github.com/conveyal/gtfs-validator) tool.
-- [Web gtfs-realtime-validator (hosted by TransitScreen)](http://gtfsrealtimevalidator.transitscreen.com/) - A web-based interface to [gtfs-realtime-validator ★21](https://github.com/CUTR-at-USF/gtfs-realtime-validator).
+- [Web gtfs-realtime-validator (hosted by TransitScreen)](http://gtfsrealtimevalidator.transitscreen.com/) - A hosted version of the [gtfs-realtime-validator ★21](https://github.com/CUTR-at-USF/gtfs-realtime-validator).
 
 #### GTFS Realtime Archival Tools
 

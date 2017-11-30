@@ -192,7 +192,7 @@ Here awesome badge for your project:
 
 ## <a name="libraries-frameworks"></a>Libraries/Frameworks <sup>[Back ⇈](#libraries-frameworks-category)</sup>
 ### <a name="libraries-frameworks-web"></a>Web <sup>[Back ⇈](#libraries-frameworks-web-subcategory)</sup>
-* [ktorio/ktor ★1609](https://github.com/ktorio/ktor) - Web backend framework for Kotlin. Easy to use, fun and asynchronous.
+* [ktorio/ktor ★1916](https://github.com/ktorio/ktor) - Web backend framework for Kotlin. Easy to use, fun and asynchronous.
 * [TinyMission/kara ★465](https://github.com/TinyMission/kara) - Web framework written in Kotlin.
 * [http4k/http4k](http://www.http4k.org) - Toolkit for serving and consuming HTTP services in a functional and consistent way.
 * [jean79/yested ★77](https://github.com/jean79/yested) - A Kotlin framework for building web applications in Javascript.
@@ -214,7 +214,7 @@ Here awesome badge for your project:
 * [hexagonkt/hexagon ★47](https://github.com/hexagonkt/hexagon) - A Microservices framework that takes care of HTTP, serializtion and storage.
 * [danneu/kog ★24](https://github.com/danneu/kog) - A web framework focused on simplicity, middleware, and functional composition
 * [tipsy/javalin ★297](https://github.com/tipsy/javalin) - A Simple REST API Library for Java/Kotlin.
-* [laviua/komock ★2](https://github.com/laviua/komock) - HTTP/Consul/SMTP/Spring Config mocker framework written in Kotlin
+* [laviua/komock ★3](https://github.com/laviua/komock) - HTTP/Consul/SMTP/Spring Config mocker framework written in Kotlin
 
 ### <a name="libraries-frameworks-tests"></a>Tests <sup>[Back ⇈](#libraries-frameworks-tests-subcategory)</sup>
 * [JetBrains/spek](https://github.com/jetbrains/spek) - A specification framework for Kotlin.
@@ -257,7 +257,7 @@ Here awesome badge for your project:
 * [michaelbull/kotlin-result ★12](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
 * [pakoito/Komprehensions ★48](https://github.com/pakoito/Komprehensions) - Do comprehensions for Kotlin and 3rd party libraries.
 * [h0tk3y/kotlin-monads ★50](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
-* [Kategory/Kategory ★351](https://github.com/Kategory/Kategory) - Functional datatypes & abstractions for Kotlin.
+* [Kategory/Kategory ★545](https://github.com/Kategory/Kategory) - Functional datatypes & abstractions for Kotlin.
 * [poetix/klenses ★18 ⏳1Y](https://github.com/poetix/klenses) - Lenses for Kotlin.
 * [reactor/reactor-kotlin-extensions ★35](https://github.com/reactor/reactor-kotlin-extensions) - Kotlin extensions for Reactor.
 * [UrbanCompass/Snail-Kotlin ★24](https://github.com/UrbanCompass/Snail-Kotlin) - An observables framework for Kotlin.
@@ -326,7 +326,7 @@ Here awesome badge for your project:
 * [libktx/ktx ★207](https://github.com/libktx/ktx) - Kotlin utilities for LibGDX applications.
 * [AlmasB/FXGL ★413](https://github.com/AlmasB/FXGL) - JavaFX 8 Game Library written in Java + Kotlin
 * [icela/FriceEngine ★164](https://github.com/icela/FriceEngine) - Make game developing easy again!
-* [vassilibykov/AdventKT ★1](https://github.com/vassilibykov/AdventKT) - A Kotlin-based DSL for text adventures, with a partial replica of the classic Colossal Cave as an example.
+* [vassilibykov/AdventKT ★2](https://github.com/vassilibykov/AdventKT) - A Kotlin-based DSL for text adventures, with a partial replica of the classic Colossal Cave as an example.
 
 ### <a name="libraries-frameworks-misc"></a>Misc <sup>[Back ⇈](#libraries-frameworks-misc-subcategory)</sup>
 * [Kotlin/kotlinx.reflect.lite ★30 ⏳1Y](https://github.com/Kotlin/kotlinx.reflect.lite) - Lightweight library allowing to introspect basic stuff about Kotlin symbols.
@@ -358,13 +358,13 @@ Here awesome badge for your project:
 * [h0tk3y/better-parse ★20](https://github.com/h0tk3y/better-parse) - A nice parser combinator library for Kotlin
 * [Kotlin/kotlinx.atomicfu ★62](https://github.com/Kotlin/kotlinx.atomicfu) - The idiomatic way to use atomic operations in Kotlin.
 * [vjames19/kotlin-futures ★31](https://github.com/vjames19/kotlin-futures) - A collections of extension functions to make the JVM Future, CompletableFuture, ListenableFuture API more functional and Kotlin like.
-* [kunalsheth/units-of-measure ★3](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
-* [spoptchev/kotlin-preconditions ★3](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
-* [soywiz/klock ★2](https://github.com/soywiz/klock) - Consistent and portable date and time utilities for multiplatform kotlin (JVM, JS and Common).
+* [kunalsheth/units-of-measure ★5](https://github.com/kunalsheth/units-of-measure) - A type-safe dimensional analysis library for Kotlin.
+* [spoptchev/kotlin-preconditions ★4](https://github.com/spoptchev/kotlin-preconditions) - Precondition error checking in kotlin.
+* [soywiz/klock](https://github.com/soywiz/klock) - Consistent and portable date and time utilities for multiplatform kotlin (JVM, JS and Common).
 
 ### <a name="libraries-frameworks-extensions"></a>Extensions <sup>[Back ⇈](#libraries-frameworks-extensions-subcategory)</sup>
 * [Kotlin/kotlinx.support ★45](https://github.com/Kotlin/kotlinx.support) - Extension and top-level functions to use JDK7/JDK8 features in Kotlin 1.0.
-* [vanshg/KrazyKotlin ★5](https://github.com/vanshg/KrazyKotlin) - A collection of useful Kotlin Extension
+* [vanshg/KrazyKotlin ★12](https://github.com/vanshg/KrazyKotlin) - A collection of useful Kotlin Extension
 
 ### <a name="libraries-frameworks-configuration"></a>Configuration <sup>[Back ⇈](#libraries-frameworks-configuration-subcategory)</sup>
 * [npryce/konfig ★85](https://github.com/npryce/konfig) - A Type Safe Configuration API for Kotlin
@@ -496,7 +496,7 @@ Here awesome badge for your project:
 * [costular/kotlin-android-utils ★23](https://github.com/costular/kotlin-android-utils) - Android utilities for easier and faster Kotlin programming.
 * [rakshakhegde/ObservableFlow ★15](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
 * [programmerr47/ganalytics ★4](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
-* [line/clay ★56](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
+* [line/clay ★59](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
 * [WindSekirun/RichUtilsKt ★30](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
@@ -525,10 +525,10 @@ Here awesome badge for your project:
 * [SimpleMobileTools/Simple-Notes ★62](https://github.com/SimpleMobileTools/Simple-Notes) - A simple textfield for adding quick notes without ads.
 * [ahong222/happy21 ★2](https://github.com/ahong222/happy21) - A simple game of Black-Jack write with kotlin
 * [AllanWang/KAU ★36](https://github.com/AllanWang/KAU) - An extensive collection of Kotlin Android Utils
-* [hanjoongcho/aaf-easyphotomap ★2](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
-* [Karumi/KataScreenshotKotlin ★31](https://github.com/Karumi/KataScreenshotKotlin) - A full exercise to learn how to create screenshot tests for Android
-* [massivedisaster/AFM ★2](https://github.com/massivedisaster/AFM) - An library to help android developers working easly with activities and fragments with Kotlin
-* [mustafaberkaymutlu/uv-index ★16](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
+* [hanjoongcho/aaf-easyphotomap ★4](https://github.com/hanjoongcho/aaf-easyphotomap) - This is a photomap app that shows photos taken on a map.
+* [Karumi/KataScreenshotKotlin ★43](https://github.com/Karumi/KataScreenshotKotlin) - A full exercise to learn how to create screenshot tests for Android
+* [massivedisaster/AFM ★4](https://github.com/massivedisaster/AFM) - An library to help android developers working easly with activities and fragments with Kotlin
+* [mustafaberkaymutlu/uv-index ★27](https://github.com/mustafaberkaymutlu/uv-index) - A simple ultraviolet index viewer app for demonstrating Instant Apps + Kotlin + Dagger + MVP
 * [Karumi/KataSuperHeroesKotlin ★13](https://github.com/Karumi/KataSuperHeroesKotlin) - A full exercise to learn how to create espresso tests using test doubles and a dependency injector for Android written in Kotlin.
 * [Karumi/KataContactsKotlin ★2](https://github.com/Karumi/KataContactsKotlin) - An exercise to learn how to write software based on Clean Architecture using Kotlin.
 * [Karumi/KataTODOApiClientKotlin ★9](https://github.com/Karumi/KataTODOApiClientKotlin) - A full exercise to learn how to use stubbing HTTP in Kotlin.
@@ -541,7 +541,7 @@ Here awesome badge for your project:
 * [kiruto/debug-bottle ★755](https://github.com/kiruto/debug-bottle) - Debug Bottle is an Android runtime debug / develop tools written using kotlin language.
 
 ### <a name="android-tests"></a>Tests <sup>[Back ⇈](#android-tests-subcategory)</sup>
-* [agoda-com/Kakao ★267](https://github.com/agoda-com/Kakao) -  Nice and simple DSL for Espresso in Kotlin.
+* [agoda-com/Kakao ★308](https://github.com/agoda-com/Kakao) -  Nice and simple DSL for Espresso in Kotlin.
 
 
 ## <a name="kotlin-javascript"></a>Kotlin JavaScript <sup>[Back ⇈](#kotlin-javascript-category)</sup>

@@ -54,6 +54,7 @@ If you want to contribute, please read [this](https://github.com/rust-unofficial
   - [Graph processing](#graph-processing)
   - [GUI](#gui)
   - [Image processing](#image-processing)
+  - [Language specification](#language-specification)
   - [Logging](#logging)
   - [Machine learning](#machine-learning)
   - [Markup language](#markup-language)
@@ -407,7 +408,7 @@ See also [Are we (I)DE yet?](https://areweideyet.com/) and [Rust and IDEs](https
 
 * [jaysonsantos/bmemcached-rs ★13](https://github.com/jaysonsantos/bmemcached-rs) — Memcached library written in pure rust [<img src="https://api.travis-ci.org/jaysonsantos/bmemcached-rs.svg?branch=master">](https://travis-ci.org/jaysonsantos/bmemcached-rs)
 * [jaemk/cached ★28](https://github.com/jaemk/cached) — Simple function caching/memoization
-* [aisk/rust-memcache ★15](https://github.com/aisk/rust-memcache) - Memcached client library [<img src="https://api.travis-ci.org/aisk/rust-memcache.svg?branch=master">](https://travis-ci.org/aisk/rust-memcache)
+* [aisk/rust-memcache ★18](https://github.com/aisk/rust-memcache) - Memcached client library [<img src="https://api.travis-ci.org/aisk/rust-memcache.svg?branch=master">](https://travis-ci.org/aisk/rust-memcache)
 
 ### Concurrency
 
@@ -734,6 +735,7 @@ See also [Are we game yet?](http://arewegameyet.com)
   * [servo/cocoa-rs ★272](https://github.com/servo/cocoa-rs)
 * [GTK+](https://www.gtk.org/) [[gtk](https://crates.io/keywords/gtk)]
   * [gtk-rs/gtk ★609](https://github.com/gtk-rs/gtk) — GTK+ bindings [<img src="https://api.travis-ci.org/gtk-rs/gtk.svg?branch=master">](https://travis-ci.org/gtk-rs/gtk)
+  * [relm ★519](https://github.com/antoyo/relm) — Asynchronous, GTK+-based, GUI library, inspired by Elm [<img src="https://api.travis-ci.org/antoyo/relm.svg?branch=master">](https://travis-ci.org/antoyo/relm)
 * [gyscos/Cursive ★368](https://github.com/gyscos/Cursive) [[cursive](https://crates.io/crates/cursive)] — [<img src="https://api.travis-ci.org/gyscos/Cursive.svg?branch=master">](https://travis-ci.org/gyscos/Cursive)
 * [ImGui ★8481](https://github.com/ocornut/imgui)
   * [imgui-rs ★248](https://github.com/Gekkio/imgui-rs) — Rust bindings for ImGui [<img src="https://api.travis-ci.org/Gekkio/imgui-rs.svg?branch=master">](https://travis-ci.org/Gekkio/imgui-rs)
@@ -767,6 +769,11 @@ See also [Are we game yet?](http://arewegameyet.com)
 * [PistonDevelopers/image ★561](https://github.com/PistonDevelopers/image) — Basic imaging processing functions and methods for converting to and from image formats [<img src="https://api.travis-ci.org/PistonDevelopers/image.svg?branch=master">](https://travis-ci.org/PistonDevelopers/image)
 * [kali/opencv-rust ★92 ⏳1Y](https://github.com/kali/opencv-rust) — Rust bindings for OpenCV [<img src="https://api.travis-ci.org/kali/opencv-rust.svg?branch=cv2">](https://travis-ci.org/kali/opencv-rust)
 * [teovoinea/steganography ★14](https://github.com/teovoinea/steganography) [[steganography](https://crates.io/crates/steganography)] — A simple steganography library [<img src="https://api.travis-ci.org/teovoinea/steganography.svg?branch=master">](https://travis-ci.org/teovoinea/steganography)
+
+
+### Language specification
+
+* [snewt/bnf ★4](https://github.com/snewt/bnf) — A library for parsing Backus–Naur form context-free grammars. [<img src="https://api.travis-ci.org/snewt/bnf.svg?branch=master">](https://travis-ci.org/snewt/bnf)
 
 
 ### Logging

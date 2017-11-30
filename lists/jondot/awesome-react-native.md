@@ -188,7 +188,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-progress ★593](https://github.com/oblador/react-native-progress) - Progress indicators and spinners for React Native using ReactART.
 - [react-native-accordion ★236](https://github.com/naoufal/react-native-accordion) - An Accordion Component for React Native
 - [react-native-action-button ★722](https://github.com/mastermoo/react-native-action-button) - A customizable Float Button Component for React Native
-- [react-native-custom-actionsheet ★0](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
+- [react-native-custom-actionsheet ★2](https://github.com/valerybugakov/react-native-custom-actionsheet) - Fully customizable ActionSheet for React Native.
 - [react-native-actionsheet-native ★11](https://github.com/slowpath/react-native-actionsheet) - Android ActionSheet support for React Native
 - [react-native-activity-view ★297](https://github.com/naoufal/react-native-activity-view) - iOS share and action sheets for React Native
 - [react-native-adbannerview ★40](https://github.com/Purii/react-native-adbannerview) - React Native Bridge for ADBannerView
@@ -243,7 +243,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-collapsible ★365](https://github.com/oblador/react-native-collapsible) - Animated collapsible component for React Native using the new Animated API with fallback. Good for accordions, toggles etc
 - [react-native-collapsing-toolbar ★44](https://github.com/cesardeazevedo/react-native-collapsing-toolbar) - wrapper for android CollapsingToolbarLayout
 - [react-native-compress ★4](https://github.com/phuochau/react-native-compress) - Compress video for react native. Only for iOS, Android will be coming.
-- [react-native-color-wheel ★14](https://github.com/netbeast/react-native-color-wheel) - A react native reusable color picker wheel
+- [react-native-color-wheel ★31](https://github.com/netbeast/react-native-color-wheel) - A react native reusable color picker wheel
 - [react-native-countdown ★17](https://github.com/buhe/react-native-countdown) - react native countdown button
 - [react-native-country-picker ★5](https://github.com/tofugear/react-native-country-picker) - React Native Country Picker
 - [react-native-country-picker-modal ★136](https://github.com/xcarpentier/react-native-country-picker-modal) - Country picker provides a modal allowing a user to select a country from a list. It display a flag next to each country name.

@@ -867,9 +867,9 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [How Droplr scales to millions](https://serverless.com/blog/how-droplr-scales-to-millions-serverless-framework/) - How Droplr scales to millions with the Serverless Framework.
 - [Toward a functional programming analogy for microservices](https://serverless.com/blog/bobby-calderwood-functional-programming-microservices-emit-2017/) - How functional programming and thinking can help in a serverless microservice world.
 - [Microsoft launches Brigade -  An event-driven scripting tool for Kubernetes](https://thenewstack.io/microsoft-launches-brigade-event-driven-scripting-tool-kubernetes/) - Post about the recent [Brigade](http://brigade.sh) release by Microsoft.
-- [Introducing the Graphcool Framework](https://blog.graph.cool/introducing-the-graphcool-framework-d9edab2a7816) - Announcement blog post about the [Graphcool Framework ★2314](https://github.com/graphcool/framework).
+- [Introducing the Graphcool Framework](https://blog.graph.cool/introducing-the-graphcool-framework-d9edab2a7816) - Announcement blog post about the [Graphcool Framework ★3478](https://github.com/graphcool/framework).
 - [Unikernels and event-driven serverless platforms](https://serverless.com/blog/madhuri-yechuri-unikernels-event-driven-serverless-emit-2017/) - How unikernels can provide value in a serverless environment.
-- [Introducing Jazz - T-Mobile's serverless development platform](https://medium.com/@dev.satishm/introducing-jazz-t-mobiles-serverless-development-platform-da4c27aaf855) - Announcement blog post about T-Mobile's serverless development platform called [Jazz ★24](https://github.com/tmobile/jazz).
+- [Introducing Jazz - T-Mobile's serverless development platform](https://medium.com/@dev.satishm/introducing-jazz-t-mobiles-serverless-development-platform-da4c27aaf855) - Announcement blog post about T-Mobile's serverless development platform called [Jazz ★34](https://github.com/tmobile/jazz).
 - [AWS Lambda and Kinesis streams at busuu](https://tech.busuu.com/going-serverless-aws-lambda-and-kinesis-streams-at-busuu-1434afe62041) - How busuu started the transition to a serverless architecture.
 - [Amtrak rolls past containers into a serverless infrastructure](https://thenewstack.io/amtrak-rolls-past-containers-serverless/) - How Amtrak uses serverless technologies to power their business.
 - [Many-faced threats to serverless security](https://hackernoon.com/many-faced-threats-to-serverless-security-519e94d19dba) - Post about different security threats for serverless applications.
@@ -904,6 +904,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Hacking a bathroom queue with serverless and IoT](https://serverless.com/blog/game-throne-hacking-bathroom-serverless-iot/) - How to develop a bathroom queue with serverless and IoT technologies.
 - [Looking back to see forward](https://m.subbu.org/serverless-looking-back-to-see-forward-74dd1a02cb62) - Post about the future of serverless computing derived and inspired by the past of tech trends.
 - [State of serverless report 2017](https://blog.newrelic.com/2017/11/21/aws-lambda-state-of-serverless/) - AWS Lambda in production - State of serverless report 2017.
+- [Serverless announcements @ AWS re:Invent 2017](https://serverless.com/blog/ultimate-list-serverless-announcements-reinvent/) - The ultimate guide to serverless announcements @ AWS re:Invent 2017.
+- [Serverless strangler pattern on AWS](https://medium.com/@rmmeans/serverless-strangler-pattern-on-aws-31c88191268d) - How to implement the [strangler application pattern](https://www.martinfowler.com/bliki/StranglerApplication.html) in a serverless context on AWS.
 
 ## Screencasts
 
@@ -1477,8 +1479,8 @@ title: Awesome Rank for JustServerless/awesome-serverless
 - [Composer ★60](https://github.com/ibm-functions/composer) - Programming model for composing IBM Cloud Functions, built on Apache OpenWhisk.
 - [Thundra](https://www.thundra.io) - Full observability for AWS Lambda.
 - [Brigade](http://brigade.sh) - Event-driven scripting for Kubernetes.
-- [Graphcool Framework ★2314](https://github.com/graphcool/framework) - Framework to develop & deploy serverless GraphQL backends.
-- [Jazz ★24](https://github.com/tmobile/jazz) - Jazz serverless development platform.
+- [Graphcool Framework ★3478](https://github.com/graphcool/framework) - Framework to develop & deploy serverless GraphQL backends.
+- [Jazz ★34](https://github.com/tmobile/jazz) - Jazz serverless development platform.
 - [Firecamp ★49](https://github.com/cloudstax/firecamp) - Serverless platform for the stateful services.
 - [Cloudstax](https://www.cloudstax.io) - Serverless and Open Source services.
 - [Kuhiro](http://kuhiro.com) - Edge Compute Network.

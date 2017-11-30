@@ -166,7 +166,7 @@ These frameworks make customizing your zsh setup easier.
 
 ### [zplugin ★80](https://github.com/zdharma/zplugin)
 
-**Zplugin** gives reports from plugin load. Plugins are no longer black boxes, report will tell what aliases, functions, bindkeys, Zle widgets, zstyles, completions, variables, PATH and FPATH elements a plugin has set up. Supported is **unloading** of plugin and ability to list, uninstall, reinstall and selectively disable, enable plugin's completions. Also, every plugin is compiled and the user can control this function. The system does not use $FPATH, it's kept clean!
+**Zplugin** is a next-era plugin manager with [semigraphical UI ★3](https://github.com/zdharma/zplugin-crasis).
 
 ### [ZPM](https://github.com/horosgrisa/ZPM)
 
@@ -613,7 +613,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [cordial ★9](https://github.com/stevelacy/cordial-zsh-theme) - Clean and effective zsh theme with git and npm support.
 * [cute-theme ★17 ⏳2Y](https://github.com/dogrocker/oh-my-zsh-powerline-cute-theme) - An macOS oh-my-zsh shell theme with Cute emoji based on the Powerline Vim plugin.
 * [darkblood-modular ★1 ⏳3Y](https://github.com/InAnimaTe/darkblood-modular) - This version of the popular [darkblood](https://github.com/BinaryMuse/oh-my-zsh/blob/binarymuse/themes/darkblood.zsh-theme) theme has been enhanced with a near complete rewrite enabling modularity and a few new features.
-* [delta-prompt ★5](https://github.com/cusxio/delta-prompt) - A minimal ZSH prompt.
+* [delta-prompt ★5 ⏳1Y](https://github.com/cusxio/delta-prompt) - A minimal ZSH prompt.
 * [dexter ★2 ⏳1Y](https://github.com/shvenkat/zsh-theme-dexter) - A theme with an emphasis on the right side (hence the name) of the terminal.
 * [dp ★0](https://github.com/davidparsson/zsh-dp-theme) - Low contrast theme that shows current git branch, if the repository is dirty and the value of `$PYENV_VERSION`.
 * [dissonance ★1 ⏳1Y](https://github.com/RyanScottLewis/theme-dissonance-zsh) - Comes with custom LSCOLORS and LS_COLORS settings files, works with both dark and light terminal themes.
@@ -682,7 +682,7 @@ If you're using [Antigen](https://github.com/zsh-users/antigen), you can test th
 * [maxulysse/myzsh ★0](https://github.com/MaxUlysse/myzsh) - Maxime Garcia's myzsh theme.
 * [megaprompt](https://github.com/willghatch/zsh-megaprompt) - A maximalist prompt including keyboard mode, ownership info, and other contextual info, with λ as the prompt character. Requires the [hooks ★15 ⏳2Y](https://github.com/willghatch/zsh-hooks) plugin.
 * [min ★8](https://github.com/andrepolischuk/min) - A minimalistic ZSH prompt.
-* [mindful-space ★2 ⏳2Y](https://github.com/syndbg/mindful-space-zsh-theme) - ZSH theme with space in mind.
+* [mindful-space ★2 ⏳3Y](https://github.com/syndbg/mindful-space-zsh-theme) - ZSH theme with space in mind.
 * [minimal ★51](https://github.com/subnixr/minimal) - Minimal yet feature-rich theme.
 * [misa ★1 ⏳4Y](https://github.com/misalabs/misa.zsh-theme) - Misalabs' ZSH theme.
 * [mixed](https://github.com/dnavtoparts/mixed-zsh-theme) - Optimized for Dark Background.

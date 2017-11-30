@@ -266,7 +266,6 @@ Discover more awesome lists at [sindresorhus/awesome ★69735](https://github.co
     - [Kojoney2 ★30 ⏳2Y](https://github.com/madirish/kojoney2) - low interaction SSH honeypot written in Python. Based on Kojoney by Jose Antonio Coret
     - [Kippo ★970 ⏳1Y](https://github.com/desaster/kippo) - Medium interaction SSH honeypot
        - [LongTail Log Analysis @ Marist College](http://longtail.it.marist.edu/honey/) - analyzed SSH honeypot logs
-       - [DRG SSH Username and Password Authentication Tag Clouds](https://www.dragonresearchgroup.org/insight/sshpwauth-cloud.html) - live updated word clouds of SSH login honeypot data
     - [Cowrie ★1303](https://github.com/micheloosterhof/cowrie) - Cowrie SSH Honeypot (based on kippo)
     - [sshlowpot ★5](https://github.com/magisterquis/sshlowpot) - Yet another no-frills low-interaction ssh honeypot in Go.    
     - [sshhipot ★110](https://github.com/magisterquis/sshhipot) - High-interaction MitM SSH honeypot
@@ -294,7 +293,6 @@ Discover more awesome lists at [sindresorhus/awesome ★69735](https://github.co
     - [HoneyDrive](http://bruteforcelab.com/honeydrive)
 
 - Honeypot sensor
-    - [Dragon Research Group Distro](https://www.dragonresearchgroup.org/drg-distro.html)
     - [Honeeepi] (https://redmine.honeynet.org/projects/honeeepi/wiki) - Honeeepi is a honeypot sensor on Raspberry Pi which based on customized Raspbian OS.
 
 - File carving
@@ -308,7 +306,7 @@ Discover more awesome lists at [sindresorhus/awesome ★69735](https://github.co
 - SSH proxy
     - [HonSSH ★219](https://github.com/tnich/honssh)
 
-- behavioral analysis tool for win32
+- Behavioral analysis tool for win32
     - [Capture BAT](https://www.honeynet.org/node/315)
 
 - Live CD
@@ -329,8 +327,8 @@ Discover more awesome lists at [sindresorhus/awesome ★69735](https://github.co
     - [Project Honeypot](https://www.projecthoneypot.org)
 
 - Commercial honeynet
-    - [Specter](http://www.specter.com/default50.htm)
-    - [HONEYPOINT SECURITY SERVER](http://microsolved.com/HoneyPoint-server.html) - distributed honeypot, includes IT and SCADA emulators
+    - [HONEYPOINT SECURITY SERVER](http://microsolved.com/HoneyPoint-server.html) - distributed honeypot, includes IT and SCADA emulators.
+    - [Cymmetria Mazerunner](https://cymmetria.com/product/mazerunner/) - MazeRunner leads attackers away from real targets and creates a footprint of the attack.
 
 
 - Server (Bluetooth)
@@ -410,8 +408,8 @@ the honeyd daemon and generate configuration files
 - Front Ends
     - [Tango ★201](https://github.com/aplura/Tango) - Honeypot Intelligence with Splunk.
     - [Django-kippo ★10 ⏳5Y](https://github.com/jedie/django-kippo) - Django App for kippo SSH Honeypot.
-    - [Wordpot-Frontend ★0 ⏳1Y](https://github.com/GovCERT-CZ/Wordpot-Frontend) - a full featured script to visualize statistics from a Wordpot honeypot.
-    - [Shockpot-Frontend ★0 ⏳1Y](https://github.com/GovCERT-CZ/Shockpot-Frontend) - a full featured script to visualize statistics from a Shockpot honeypot. 
+    - [Wordpot-Frontend ★0 ⏳2Y](https://github.com/GovCERT-CZ/Wordpot-Frontend) - a full featured script to visualize statistics from a Wordpot honeypot.
+    - [Shockpot-Frontend ★0 ⏳2Y](https://github.com/GovCERT-CZ/Shockpot-Frontend) - a full featured script to visualize statistics from a Shockpot honeypot. 
     - [honeypotDisplay ★2 ⏳1Y](https://github.com/Joss-Steward/honeypotDisplay) - A flask website which displays data I've gathered with my SSH Honeypot. 
     - [honeyalarmg2 ★3](https://github.com/schmalle/honeyalarmg2) - Simplified UI for showing honeypot alarms.
     - [DionaeaFR ★37](https://github.com/rubenespadas/DionaeaFR) - Front Web to Dionaea low-interaction honeypot.
@@ -421,7 +419,7 @@ the honeyd daemon and generate configuration files
     - [Kippo stats ★17 ⏳6Y](https://github.com/mfontani/kippo-stats) - Mojolicious app to display statistics for your kippo SSH honeypot. 
     - [HoneyStats](https://sourceforge.net/projects/honeystats/) - A statistical view of the recorded activity on a Honeynet. 
     - [HoneyMap ★184 ⏳1Y](https://github.com/fw42/honeymap) - Real-time websocket stream of GPS events on a fancy SVG world map. 
-    - [HoneyMalt ★10 ⏳2Y](https://github.com/SneakersInc/HoneyMalt) - Maltego tranforms for mapping Honeypot systems.
+    - [HoneyMalt ★10 ⏳3Y](https://github.com/SneakersInc/HoneyMalt) - Maltego tranforms for mapping Honeypot systems.
     - [Glastopf Analytics ★0 ⏳1Y](https://github.com/katkad/Glastopf-Analytics) - easy honeypot statistics
     - [Afterglow Cloud ★13 ⏳4Y](https://github.com/ayrus/afterglow-cloud)
     - [Afterglow](http://afterglow.sourceforge.net/)

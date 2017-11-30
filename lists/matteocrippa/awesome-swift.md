@@ -1254,7 +1254,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [Alertift ★69](https://github.com/sgr-ksmt/Alertift) - Modern, easy UIAlertController wrapper.
 * [AlertKit ★18 ⏳1Y](https://github.com/thii/AlertKit) - Alert with a single line of code.
 * [CDAlertView ★742](https://github.com/candostdagdeviren/CDAlertView) - Highly customizable alert/notification/success/error/alarm popup.
-* [CFNotify ★107](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable alert views.
+* [CFNotify ★372](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable alert views.
 * [EZAlertController ★280](https://github.com/thellimist/EZAlertController) - Easy UIAlertController.
 * [GoogleWearAlert ★444 ⏳1Y](https://github.com/AshRobinson/GoogleWearAlert) - Google Wear Alert style.
 * [GSMessage ★262](https://github.com/wxxsw/GSMessages) - A simple style messages/notifications for iOS 7+.

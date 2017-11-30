@@ -213,7 +213,7 @@ Typically, it is easier to get to work with `pdflatex` than PSTricks is.
 ## Tutorials
 
 - [The (Not So) Short Introduction to LaTeX2e](http://mirrors.ctan.org/info/lshort/english/lshort.pdf) - A very comprehensive introduction to LaTeX.
-- [Begin LaTeX in minutes ★2015](https://github.com/LewisVo/Begin-Latex-in-minutes) - Brief Intro to LaTeX for beginners that helps you use LaTeX with ease
+- [Begin LaTeX in minutes ★2051](https://github.com/LewisVo/Begin-Latex-in-minutes) - Brief Intro to LaTeX for beginners that helps you use LaTeX with ease
 
 ## Books
 

@@ -9,7 +9,7 @@ title: Awesome Rank for avelino/awesome-go
 ---
 # Awesome Go 
 
-[![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [awesome-go chat channel](http://gophers.slack.com/messages/awesome)
+[![Build Status](https://travis-ci.org/avelino/awesome-go.svg?branch=master)](https://travis-ci.org/avelino/awesome-go) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome) [![Slack Widget](https://s3.eu-central-1.amazonaws.com/ngtuna/join-us-on-slack.png)](http://gophers.slack.com/messages/awesome)
 
 A curated list of awesome Go frameworks, libraries and software. Inspired by [awesome-python ★40545](https://github.com/vinta/awesome-python).
 
@@ -719,7 +719,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [probab ★7 ⏳2Y](https://github.com/ThePaw/probab) - Probability distribution functions. Bayesian inference. Written in pure Go.
 * [regommend ★169](https://github.com/muesli/regommend) - Recommendation & collaborative filtering engine.
 * [shield ★108 ⏳1Y](https://github.com/eaigner/shield) - Bayesian text classifier with flexible tokenizers and storage backends for Go.
-* [tfgo ★563](https://github.com/galeone/tfgo) - Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python.
+* [tfgo ★636](https://github.com/galeone/tfgo) - Easy to use Tensorflow bindings: simplifies the usage of the official Tensorflow Go bindings. Define computational graphs in Go, load and execute models trained in Python.
 
 ## Messaging
 
@@ -1434,7 +1434,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [alice ★1396](https://github.com/justinas/alice) - Painless middleware chaining for Go.
 * [catena ★6](https://github.com/codemodus/catena) - http.Handler wrapper catenation (same API as "chain").
 * [chain ★62](https://github.com/codemodus/chain) - Handler wrapper chaining with scoped data (net/context-based "middleware").
-* [go-wrap ★52 ⏳2Y](https://github.com/go-on/wrap) - Small middlewares package for net/http.
+* [go-wrap ★52 ⏳3Y](https://github.com/go-on/wrap) - Small middlewares package for net/http.
 * [gores ★57](https://github.com/alioygur/gores) - Go package that handles HTML, JSON, XML and etc. responses. Useful for RESTful APIs.
 * [interpose ★278](https://github.com/carbocation/interpose) - Minimalist net/http middleware for golang.
 * [muxchain ★199 ⏳3Y](https://github.com/stephens2424/muxchain) - Lightweight middleware for net/http.
@@ -1611,7 +1611,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [fleet ★2401](https://github.com/coreos/fleet) - Distributed init System.
 * [Go Package Store ★795](https://github.com/shurcooL/Go-Package-Store) - App that displays updates for the Go packages in your GOPATH.
 * [gocc ★143](https://github.com/goccmack/gocc) - Gocc is a compiler kit for Go written in Go.
-* [GoDNS ★157](https://github.com/timothyye/godns) - A dynamic DNS client tool, supports DNSPod & HE.net, written in Go.
+* [GoDNS ★166](https://github.com/timothyye/godns) - A dynamic DNS client tool, supports DNSPod & HE.net, written in Go.
 * [GoDocTooltip ★11 ⏳1Y](https://github.com/diankong/GoDocTooltip) - Chrome extension for Go Doc sites, which shows function description as tooltip at funciton list.
 * [Gogland](https://jetbrains.com/go) - Full featured cross-platform Go IDE.
 * [Gor](https://github.com/buger/gor) - Http traffic replication tool, for replaying traffic from production to stage/dev environments in real-time.

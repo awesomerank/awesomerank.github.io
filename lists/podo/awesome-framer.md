@@ -158,7 +158,7 @@ title: Awesome Rank for podo/awesome-framer
 * [MapboxLayer ★12](https://github.com/bpxl-labs/MapboxLayer) - Module for creating powerful Mapbox maps in your prototypes.
 * [Framer Sheet ★13](https://github.com/andrewliebchen/framer-sheet) - Import information from Google Sheets into Framer.
 * [FramerAudio ★38](https://github.com/benjamindenboer/FramerAudio) — Module that allows you to design audio interfaces in Framer.
-* [Framer Slider ★24](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated.
+* [Framer Slider ★31](https://github.com/benjamindenboer/FramerSlider) - Module that allows you to design sliders and then bring them to life, without losing customizability. Appearance and logic—separated.
 
 ## Sites
 * [Prototyping With Framer](http://www.prototypingwithframer.com) - Blog by Kenny Chen with lots of great examples, tutorials.

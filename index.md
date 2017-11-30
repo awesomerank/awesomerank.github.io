@@ -178,7 +178,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [CMake ★910](lists/onqtam/awesome-cmake.md) - Build, test, and package software.
 - [ActionScript 3 ★38](lists/robinrodricks/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
 - [Eta ★27](lists/sfischer13/awesome-eta.md) - Functional programming language for the JVM.
-- [Idris ★41](lists/joaomilho/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
+- [Idris ★48](lists/joaomilho/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
 
 ## Front-End Development
@@ -586,11 +586,11 @@ title: Awesome Rank for sindresorhus/awesome
 - [Ledger ★6](lists/sfischer13/awesome-ledger.md) - Double-entry accounting on the command-line.
 - [Uncopyright ★150](lists/johnjago/awesome-uncopyright.md) - Public domain works.
 - [Crypto Currency Tools & Algorithms ★2038](lists/kennethreitz/awesome-coins.md) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
-- [Diversity ★125](lists/folkswhocode/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
+- [Diversity ★202](lists/folkswhocode/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
 - [Open Source Supporters ★243](lists/zachflower/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles ★27](lists/robinstickel/awesome-design-principles.md) - Create better and more consistent designs and experiences.
-- [Visual Regression Testing ★136](lists/mojoaxel/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
-- [Theravada ★18](lists/johnjago/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
+- [Visual Regression Testing ★225](lists/mojoaxel/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
+- [Theravada ★36](lists/johnjago/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
 - [inspectIT ★3](lists/inspectit-labs/awesome-inspectit.md) - Open source Java app performance management tool.
 
 

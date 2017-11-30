@@ -16,7 +16,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 
 ---
 
-
+  - [Books](#books)
   - [Canvas](#canvas)
   - [Client/Server Communication](#clientserver-communication)
   - [Code Analysis](#code-analysis)
@@ -46,6 +46,8 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 
 * * *
 
+### Books
+- [Transforming Data with ClojureScript](http://langintro.com/cljsbook/index.html) – A Beginner's guide to ClojureScript with interactive examples and exercises
 
 ### Canvas
 - [Monet ★143](https://github.com/rm-hull/monet) – A small ClojureScript library to make it easier to work with canvas and visuals.
@@ -85,7 +87,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 - [Lumo ★1142](https://github.com/anmonteiro/lumo) – Fast, cross-platform, standalone ClojureScript environment.
 - [Planck ★763](https://github.com/mfikes/planck) – A stand-alone ClojureScript REPL for macOS and Linux based on JavaScriptCore.
 - [Ribol](http://docs.caudate.me/ribol/) – Conditional restarts for clojure/clojurescript.
-- [shadow-build ★105](https://github.com/thheller/shadow-build) – A ClojureScript build library capable of compiling multiple output files.
+- [shadow-cljs ★293](https://github.com/thheller/shadow-cljs) - ClojureScript compilation made easy
 
 
 ### Document Object Model
@@ -116,6 +118,7 @@ title: Awesome Rank for hantuzun/awesome-clojurescript
 
 ### Internationalization
 - [Tower ★250 ⏳1Y](https://github.com/ptaoussanis/tower) – A Clojure(Script) i18n & L10n library.
+- [Tempura ★116](https://github.com/ptaoussanis/tempura) - A Clojure(Script) i18n library, succeeding Tower
 
 
 ### JavaScript Interoperability

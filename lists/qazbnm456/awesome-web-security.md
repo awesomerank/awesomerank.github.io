@@ -348,7 +348,7 @@ Check out my [repos](https://github.com/qazbnm456) 🐾 or say *hi* on my [Twitt
 <a name="tools-auditing"></a>
 ### Auditing
 
-* [prowler ★371](https://github.com/Alfresco/prowler) - Tool for AWS security assessment, auditing and hardening by [@Alfresco](https://github.com/Alfresco).
+* [prowler ★426](https://github.com/Alfresco/prowler) - Tool for AWS security assessment, auditing and hardening by [@Alfresco](https://github.com/Alfresco).
 
 <a name="tools-reconnaissance"></a>
 ### Reconnaissance

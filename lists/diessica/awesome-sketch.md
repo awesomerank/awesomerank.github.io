@@ -103,7 +103,7 @@ Found something cool? Please, **[contribute](https://github.com/diessica/awesome
 ## Templates & UI Kits
 - [Responsive Web Design Template ★23 ⏳2Y](https://github.com/luandro/sketch-responsive-design-template), a template with [Font-Awesome](https://fortawesome.github.io/Font-Awesome/) and [Bootstrap UI Kit](http://bootstrapuikit.com/) as symbols for fast web design.
 - [Sketch iOS Templates ★861 ⏳3Y](https://github.com/nvk/sketch-ios), a collection of many iOS templates.
-- [Teracy Wireframe Kit ★1230 ⏳2Y](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
+- [Teracy Wireframe Kit ★1230 ⏳3Y](https://github.com/teracyhq/wireframe), created to help speed up your wireframing process. Includes basics UI elements for web, mobile and other devices.
 
 ## Services
 - [Zeplin](https://zeplin.io) – design, prototyping and collaboration

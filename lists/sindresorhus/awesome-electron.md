@@ -87,7 +87,7 @@ Made with Electron.
 - [Leanote ★1058](https://github.com/leanote/desktop-app) - Cloud notepad.
 - [Snapper ★87](https://github.com/pt2121/Snapper) - Screen capturing & recording for Android devices.
 - [Imagemin ★661](https://github.com/imagemin/imagemin-app) - Minify images.
-- [We Build SG ★38](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
+- [We Build SG ★38 ⏳1Y](https://github.com/webuildsg/osx) - Upcoming events & recently updated repos from webuild.sg.
 - [Piglet ★64 ⏳1Y](https://github.com/jenslind/piglet) - Run Grunt tasks from your menubar.
 - [Yoda](https://github.com/whoisandie/yoda) - Browse and download YouTube videos.
 - [Loop Drop ★620](https://github.com/mmckegg/loop-drop-app) - MIDI looper and synth for live electronic music performances.

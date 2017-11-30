@@ -85,7 +85,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 - [ArnoldC ★5112](https://github.com/lhartikk/ArnoldC) - Arnold Schwarzenegger based programming language.
 - [TrumpScript ★5659](https://github.com/samshadwell/TrumpScript) - Make Python great again.
 - [Vigil ★1685](https://github.com/munificent/vigil) - Vigil, the eternal morally vigilant programming language.
-- [Spooky ★94](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
+- [Spooky ★105](https://github.com/ftripier/spookyc) - The Programming Language of Fear 🌚.
 
 
 ## SaaS

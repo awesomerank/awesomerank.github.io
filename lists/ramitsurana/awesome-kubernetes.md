@@ -573,7 +573,7 @@ Projects
 * [Ksql ★84 ⏳1Y](https://github.com/brendandburns/ksql)
 * [kubectld ★10](https://github.com/rancher/kubectld)
 * [Kubesh](https://github.com/projectodd/kubernetes/blob/kubesh/cmd/kubesh/README.md) - Work around kubectl
-* [Kubectl Aliases ★96](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
+* [Kubectl Aliases ★151](https://github.com/ahmetb/kubectl-aliases) - Aliases for Kubectl
 
 ## Application deployment orchestration
 

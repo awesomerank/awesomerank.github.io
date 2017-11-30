@@ -225,7 +225,7 @@ Further resources:
 
 <a name="cpp-sequence"></a>
 #### Sequence Analysis
-* [ToPS ★26](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
+* [ToPS ★26 ⏳1Y](https://github.com/ayoshiaki/tops) - This is an objected-oriented framework that facilitates the integration of probabilistic models for sequences over a user defined alphabet.
 
 <a name="cpp-gestures"></a>
 #### Gesture Detection

@@ -95,7 +95,7 @@ http://oleg.fi/graafi/
 * [fabiothiroki/cyclejs-starwars ★2](https://github.com/fabiothiroki/cyclejs-starwars) - A Star Wars character search app using Cycle.js, RxJS and Virtual DOM tests.
 * [staltz/mmmmm-mobile ★124](https://github.com/staltz/mmmmm-mobile/) - A React Native + Cycle.js app to implement a social network on Secure Scuttlebutt networks
 * [cyclejs/todomvc-cycle ★214](https://github.com/cyclejs/todomvc-cycle/) - TodoMVC [example](https://cyclejs.github.io/todomvc-cycle/) implemented in Cycle.js
-* [jefersondaniel/cyclejs-notes ★0](https://github.com/jefersondaniel/cyclejs-notes) - Notes app using Cycle.js and Orbit.js https://jefersondaniel.com/cyclejs-notes
+* [jefersondaniel/cyclejs-notes ★1](https://github.com/jefersondaniel/cyclejs-notes) - Notes app using Cycle.js and Orbit.js https://jefersondaniel.com/cyclejs-notes
 * [staltz/dat-installer ★77](https://github.com/staltz/dat-installer) - Download, install, and update Android apps through Dat
 * [usm4n/cycle-hn ★25](https://github.com/usm4n/cycle-hn) - Hackernews Clone Using CycleJS
 

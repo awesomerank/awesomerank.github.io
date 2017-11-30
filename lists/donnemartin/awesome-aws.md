@@ -288,7 +288,7 @@ Related Repos:
 Related Repos:
 
 * [aws-sdk-rails :fire: ★195](https://github.com/aws/aws-sdk-rails)
-* [appoxy/aws :fire::fire: ★235 ⏳1Y](https://github.com/appoxy/aws)
+* [appoxy/aws :fire::fire: ★235 ⏳2Y](https://github.com/appoxy/aws)
 * [rightscale/right_aws :fire::fire: ★461](https://github.com/rightscale/right_aws)
 
 ### Rust SDK
@@ -939,7 +939,7 @@ Community Repos:
 * [Netflix/bless :fire::fire::fire::fire: ★1288](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
 * [Netflix/security_monkey :fire::fire::fire::fire: ★1802](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
 * [sebsto/AWSVPN :fire: ★162 ⏳1Y](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
-* [trailofbits/algo :fire::fire::fire::fire::fire: ★6256](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
+* [trailofbits/algo :fire::fire::fire::fire::fire: ★6564](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
 
 ### Accompanying Repos
 

@@ -243,7 +243,7 @@ A curated list of awesome iBeacon and Eddystone Bluetooth beacon resources, open
 
 * [BeaconCtrl](https://github.com/upnext/BeaconCtrl) Setup and manage large beacon deployments with BeaconCtrl Open Source platform
 * [The Open and Interoperable Proximity Beacon Specification](http://altbeacon.org/)
-* [Open iBeacon Credentials](http://blog.awwapps.com/blog/2014/05/29/open-ibeacon-credentials/)  [on Github ★16 ⏳2Y](https://github.com/AwwApps/Open-Beacon-Credentials)
+* [Open iBeacon Credentials](http://blog.awwapps.com/blog/2014/05/29/open-ibeacon-credentials/)  [on Github ★16 ⏳3Y](https://github.com/AwwApps/Open-Beacon-Credentials)
 * [Policies about beacon IDs](http://blog.awwapps.com/blog/2014/05/20/manual-ibeacon-entry-to-be-removed/)
 
 

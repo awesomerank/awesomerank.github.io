@@ -334,7 +334,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 
 * [Dragula ★16837](https://github.com/bevacqua/dragula) - Framework agnostic drag and drop library, supports jQuery integration.
 * [jQuery UI](http://jqueryui.com/) - Curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery.
-* [jQuery Enhanced Splitter ★23 ⏳1Y](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content.
+* [jQuery Enhanced Splitter ★23 ⏳2Y](https://github.com/hiltonjanfield/jquery.enhsplitter) - Create draggable content splitters to emulate frames and separate content.
 * [tabulous.js ★592 ⏳1Y](https://github.com/aarondo/tabulous.js) - Tabs for todays web
 * [X-editable ★5813](https://github.com/vitalets/x-editable) - In-place editing with Twitter Bootstrap, jQuery UI or pure jQuery.
 
