@@ -385,10 +385,10 @@ Docker EE is on the same code base as Docker CE, so also built from Moby, with c
 Examples by:
 * [@arun-gupta ★159](https://github.com/arun-gupta/docker-images)
 * [@crosbymichael ★294](https://github.com/crosbymichael/Dockerfiles)
-* [@jessfraz ★4832](https://github.com/jessfraz/Dockerfiles)
+* [@jessfraz ★5008](https://github.com/jessfraz/Dockerfiles)
 * [@komljen ★393 ⏳1Y](https://github.com/komljen/dockerfile-examples)
 * [@kstaken ★579](https://github.com/kstaken/dockerfile-examples)
-* [@llitfkitfk ★40](https://github.com/llitfkitfk/docker-compose-demo)
+* [@awesome-startup]( https://github.com/awesome-startup/docker-compose)
 * [@ondrejmo ★19](https://github.com/ondrejmo/Dockerfiles)
 * [@pandrew ★31](https://github.com/pandrew/dockerfiles)
 * [@vimagick ★589](https://github.com/vimagick/dockerfiles)
@@ -398,7 +398,7 @@ Examples by:
 
 * [dockfmt ★169 ⏳1Y](https://github.com/jessfraz/dockfmt) :construction: - Dockerfile formatter and parser by [@jessfraz][jessfraz]
 * [dockerfile_lint ★193](https://github.com/projectatomic/dockerfile_lint) - A rule-based 'linter' for Dockerfiles by [@redhataccess](https://github.com/redhataccess)
-* [Hadolint ★726](https://github.com/lukasmartinelli/hadolint) - A Dockerfile linter written in Haskell by [@lukasmartinelli](https://github.com/lukasmartinelli)
+* [Hadolint ★736](https://github.com/hadolint/hadolint) - A Dockerfile linter written in Haskell by [@lukasmartinelli](https://github.com/lukasmartinelli)
 * [Whale-linter ★29](https://github.com/jeromepin/whale-linter) - A simple and small Dockerfile linter written in Python3+ without dependencies by [@jeromepin](https://github.com/jeromepin)
 
 ### Registry

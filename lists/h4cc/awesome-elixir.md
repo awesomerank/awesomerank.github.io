@@ -210,6 +210,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [Phoenix Trello ★2010](https://github.com/bigardone/phoenix-trello) - Trello tribute done in Elixir, Phoenix Framework, React and Redux.
 * [poxa ★616](https://github.com/edgurgel/poxa) - Open Pusher implementation, compatible with Pusher libraries.
 * [Queerlink ★19 ⏳1Y](https://github.com/Queertoo/Queerlink) - A simple yet efficient URL shortening service written in Elixir.
+* [RemoteRetro ★105](https://github.com/stride-nyc/remote_retro) - A real-time application for conducting Agile retrospectives at [remoteretro.org](https://remoteretro.org) written in Elixir/Phoenix/React.
 * [Sprint Poker ★146](https://github.com/elpassion/sprint-poker) - Online estimation tool for Agile teams, written using Elixir Lang, Phoenix Framework and React.
 * [Startup Job ★37](https://github.com/tsurupin/job_search) - An umbrella project to search startup jobs scraped from websites written in Elixir/Phoenix and React/Redux.
 * [tty2048 ★135 ⏳1Y](https://github.com/lexmag/tty2048) - Terminal-based 2048 game written in Elixir.

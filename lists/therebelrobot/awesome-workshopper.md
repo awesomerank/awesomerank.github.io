@@ -37,7 +37,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [es5-workshop ★2 ⏳3Y](https://github.com/timoxley/es5-workshop) | Introduction to ES5 methods |
 | [expressworks ★541](https://github.com/azat-co/expressworks) | an automated Express.js workshop |
 | [footballbot-workshop](https://github.com/alanshaw/footballbot-workshop) | A step by step guide to building your own footballbot (robotics) |
-| [functional-javascript-workshop ★1547](https://github.com/timoxley/functional-javascript-workshop) | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5. |
+| [functional-javascript-workshop ★1563](https://github.com/timoxley/functional-javascript-workshop) | A functional javascript workshop. No libraries required (i.e. no underscore), just ES5. |
 | [git-it ★1640](https://github.com/jlord/git-it) | A workshopper for learning Git and GitHub. |
 | [goingnative ★305](https://github.com/workshopper/goingnative) | Learn how to write native Node.js addons |
 | [how-to-npm](https://github.com/npm/how-to-npm) | A module to teach you how to module. |

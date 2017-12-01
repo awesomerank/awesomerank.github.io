@@ -115,6 +115,7 @@ For now this is a really short list, so please contribute. Read [the guide](http
 
 ## Miscellaneous
 - [Filefile ★64 ⏳1Y](https://github.com/cobyism/Filefile) - File to keep track of all the files you have in your repo that end in "file" eg. [Filefile](Filefile).
+- [Xkcd Excuse](https://xkcd-excuse.com) - The easiest way to get your slacking excuse in hip xkcd format!
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/mislavcimpersak/awesome-dev-fun">mislavcimpersak/awesome-dev-fun</a> with ranks

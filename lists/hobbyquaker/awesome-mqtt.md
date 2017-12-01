@@ -95,7 +95,7 @@ MQTT is a lightweight client-server publish/subscribe messaging protocol, optimi
 
 ### Clients
 
-* [CocoaMQTT ★552](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
+* [CocoaMQTT ★567](https://github.com/emqtt/CocoaMQTT) - MQTT for iOS and OS X written with Swift.
 * [emqttc ★97](https://github.com/emqtt/emqttc) - Asynchronous Erlang MQTT Client.
 * [Moscapsule ★173](https://github.com/flightonary/Moscapsule) - MQTT Client for iOS written in Swift.
 * [hbmqtt ★232](https://github.com/beerfactory/hbmqtt) - Python MQTT client using asyncio.

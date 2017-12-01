@@ -158,7 +158,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [scimitar ★2](https://github.com/tompko/scimitar) - Rust.
 - [FunGBC ★7](https://github.com/andreasjhkarlsson/fungbc) - F#.
 - [barnacleboy ★24](https://github.com/rep-nop/barnacleboy) - Rust.
-- [node-gameboy ★5](https://github.com/nakardo/node-gameboy) - Node.js.
+- [node-gameboy ★6](https://github.com/nakardo/node-gameboy) - Node.js.
 - [PlutoBoy ★29](https://github.com/RossMeikleham/PlutoBoy) - Cross platform (Windows, OSX, Linux/Unix, Android, iOS, Web Browsers, and Sony PSP) emulator.
 - [SuperGameHerm](https://code.foxkit.us/emulators/supergameherm) - Cross platform emulator written in C11.
 - [Coffee GB ★22](https://github.com/trekawek/coffee-gb) - Java 8.
@@ -217,7 +217,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [assemblydigest ★39](https://github.com/assemblydigest/gameboy) - Exploring Game Boy programming techniques.
 - [Reverse Engineering for Beginners](https://beginners.re/) - Free ebook (1060 pages) by Dennis Yurichev.
 - [FlappyBoy: Making a simple Game Boy Game](http://voidptr.io/blog/2017/01/21/GameBoy.html)
-- [bootstrap.gb ★13](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
+- [bootstrap.gb ★15](https://github.com/yenatch/bootstrap.gb) - An example Game Boy project.
 - [Game Boy Assembly Language Primer](http://www.devrs.com/gb/files/galp.zip) - Simple template code with memory defines, copy routines and IBM font tilemap.
 - [Super Game Boy development](https://imanoleasgames.blogspot.no/2016/12/games-aside-1-super-game-boy.html) - Step by step tutorial to implement Super Game Boy features (frame and palettes).
 - [GameBoy programming tutorial: Hello World!](http://peterwynroberts.com/?p=10) - Step by step tutorial.
