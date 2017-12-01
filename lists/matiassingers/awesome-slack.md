@@ -312,7 +312,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [Archibald](https://github.com/lgaechter/Archibald) - A Slack integration to post GIF replies from replygif.net
 - [beanstalk-slack ★5 ⏳3Y](https://github.com/percipioglobal/beanstalk-slack) - Integrates your deploy commits from Beanstalk directly into Slack
 - [CLSlackBundle ★39 ⏳1Y](https://github.com/cleentfaar/CLSlackBundle) - Symfony bundle that lets you interact with the Slack API and webhooks
-- [ExceptionHandler ★14 ⏳1Y](https://github.com/hexa2k9/ExceptionHandler) - PHP Exception Handler to post exceptions to a Slack channel
+- [ExceptionHandler ★14 ⏳2Y](https://github.com/hexa2k9/ExceptionHandler) - PHP Exception Handler to post exceptions to a Slack channel
 - [Gifbot ★21 ⏳3Y](https://github.com/josephschmitt/gifbot) - GIFs for your Slack channel
 - [GifBot ★74 ⏳2Y](https://github.com/gstjohn/GifBot) - Random GIF generator for your Slack channels
 - [jira-slack-php ★21 ⏳2Y](https://github.com/HotAlexx/jira-slack-php) - JIRA-Slack Integration in PHP
@@ -325,7 +325,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 - [phlack ★53 ⏳1Y](https://github.com/mcrumm/phlack) - PHP API Wrapper
 - [php-slack ★121 ⏳1Y](https://github.com/Frlnc/php-slack) - A lightweight PHP implementation of Slack's API
 - [PHP-Slack](https://github.com/ConnorVG/PHP-Slack) - PHP API Wrapper with Laravel support
-- [php-slack-error-reporter ★7 ⏳2Y](https://github.com/tailored-tunes/php-slack-error-reporter) - Library to report errors to slack.
+- [php-slack-error-reporter ★7 ⏳3Y](https://github.com/tailored-tunes/php-slack-error-reporter) - Library to report errors to slack.
 - [pslackr ★8 ⏳2Y](https://github.com/fullybaked/pslackr) - Library for sending messages from your app to Slack
 - [redmine-command ★15 ⏳2Y](https://github.com/digitalicagroup/redmine-command) - Redmine-Slack integration to manage issues
 - [rocketeer-slack ★27](https://github.com/rocketeers/rocketeer-slack) - Slack plugin for Rocketeer
@@ -492,7 +492,7 @@ title: Awesome Rank for matiassingers/awesome-slack
 
 ### Shell
 
-- [git-slack-hook ★273](https://github.com/chriseldredge/git-slack-hook) - Git receive hook to notify Slack channels
+- [git-slack-hook ★273 ⏳1Y](https://github.com/chriseldredge/git-slack-hook) - Git receive hook to notify Slack channels
 - [Sholat-Prayer-Times-Slack ★10 ⏳2Y](https://github.com/ainunnajib/Sholat-Prayer-Times-Slack) - Salat Prayer Times bot for Slack integration
 - [slack ★97 ⏳1Y](https://github.com/rcrowley/slack) - Runs the test suite of a Ruby On Rails application and post the results to Slack
 - [slack-hack ★1 ⏳3Y](https://github.com/steinn/slack-hack) - Random bot

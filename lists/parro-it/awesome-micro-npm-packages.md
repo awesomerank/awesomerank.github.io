@@ -73,6 +73,7 @@ title: Awesome Rank for parro-it/awesome-micro-npm-packages
 * [fecha ★1231](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
 * [akamai-time-reference ★0 ⏳1Y](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
 * [timeago.js ★2886](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement.
+* [count-days-in-month ★1 ⏳1Y](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month.
 
 ### Object
 

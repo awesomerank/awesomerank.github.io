@@ -98,7 +98,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Anthony Ramella ★1 ⏳2Y](https://github.com/tonyynot/ama) - I went from zero to hired web developer in 5 months. I [blog](http://anthonyramella.com) about my experiences learning code and working as a junior developer.
 - [Diki Andriansyah ★2](https://github.com/dikiaap/ama) - Freelance full stack developer. Laravel addict.
 - [Steel Brain ★0 ⏳2Y](https://github.com/steelbrain/ama) - The Rebel™, also a Node.js, PHP and HackLang developer.
-- [CJ Patoilo ★0 ⏳1Y](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, [DEV IO](https://github.com/deviofoundation) Co-Founder.
+- [CJ Patoilo ★0 ⏳2Y](https://github.com/cjpatoilo/ama) - Front-end engineer, JavaScript evangelist, [DEV IO](https://github.com/deviofoundation) Co-Founder.
 - [Armagan Amcalar ★0 ⏳1Y](https://github.com/dashersw/ama) - Head of Software Engineering at [unu GmbH](http://unumotors.com). Software architect, entrepreneur, conference speaker, mentor, electronics engineer, guitar lover, singer.
 - [Breno Polanski ★1 ⏳2Y](https://github.com/brenopolanski/ama) - Front-end software engineer at [Meteorite BI](http://www.meteorite.bi).
 - [Camilo Nova ★3 ⏳1Y](https://github.com/camilonova/ama) - Full stack software developer in Colombia.
@@ -162,7 +162,7 @@ title: Awesome Rank for sindresorhus/amas
 - [Code Monkey Health ★0 ⏳2Y](https://github.com/codemonkeyhealth/ama) - Helping developers and others with tips, tricks, recipes and programs focused on Lifestyle, Exercise, Attitude and Food [LEAF](http://codemonkeyhealth.com).
 - [Ruby Taiwan ★109 ⏳2Y](https://github.com/rubytaiwan/AMA) - Helping developers in Taiwan with any questions. Can ask in English or Chinese.
 - [DevOps Taiwan ★41 ⏳2Y](https://github.com/DevOpsTW/AMA) - Helping DevOps engineers with any questions.
-- [Vim Taiwan ★7 ⏳1Y](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions.
+- [Vim Taiwan ★7 ⏳2Y](https://github.com/vim-tw/ama) - Helping vimmers in Taiwan with any questions.
 - [From the Front ★0 ⏳1Y](https://github.com/fromthefront/ama) - Nonprofit organization behind the "From the Front" conference series in Italy.
 - [HackCU ★4 ⏳2Y](https://github.com/HackCU/ama) - A collegiate hackathon at the University of Colorado that operates a free bi-annual event for students to learn coding or push their skills building things.
 - [Ansible Taiwan ★6 ⏳1Y](https://github.com/ansible-tw/ama) - Helping Ansible users in Taiwan with any questions.

@@ -25,6 +25,7 @@ A curated list of awesome data visualizations frameworks, libraries and software
 		- [Misc](#misc)
 	- [Android tools](#android-tools)
 	- [C++ tools](#c-tools)
+	- [Excel tools](#excel-tools)
 	- [Golang tools](#golang-tools)
 	- [iOS tools](#ios-tools)
 	- [Python tools](#python-tools)
@@ -91,6 +92,9 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [MPAndroidChart ★19104](https://github.com/PhilJay/MPAndroidChart) - A powerful & easy to use chart library.
 - [WilliamChart ★3505](https://github.com/diogobernardino/WilliamChart) - Simple chart library.
 
+## Excel tools
+- [Best Excel Maps](http://bestexcelmaps.com/) - Choropleth maps for Microsoft Excel.
+
 ## C++ tools
 - [LargeVis ★335](https://github.com/lferry007/LargeVis) - implementation of the [LargeVis paper](https://arxiv.org/abs/1602.00370), used to visualize large-scale and high-dimensional data.
 - [PlotJuggler ★77](https://github.com/facontidavide/PlotJuggler) - open-source Qt5 application to plot charts (based on Qwt).
@@ -116,7 +120,6 @@ A curated list of awesome data visualizations frameworks, libraries and software
 - [matplotlib](http://matplotlib.org/) - 2D plotting library.
 - [missingno ★679](https://github.com/ResidentMario/missingno) - provides flexible toolset of data-visualization utilities that allows quick visual summary of the completeness of your dataset, based on matplotlib.
 - [plotly](https://plot.ly/python/) - Interactive web based visualization built on top of [plotly.js ★7091](https://github.com/plotly/plotly.js)
-- [pygal](http://www.pygal.org/en/latest/) - A dynamic SVG charting library.
 - [PyQtGraph](http://www.pyqtgraph.org/) - Interactive and realtime 2D/3D/Image plotting and science/engineering widgets.
 - [seaborn](https://seaborn.pydata.org/) - A library for making attractive and informative statistical graphics.
 - [toyplot](http://toyplot.readthedocs.io/en/stable/) - The kid-sized plotting toolkit for Python with grownup-sized goals.

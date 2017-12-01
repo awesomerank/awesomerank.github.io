@@ -229,7 +229,7 @@ Here awesome badge for your project:
 * [dmcg/k-sera ★6](https://github.com/dmcg/k-sera) - A JMock wrapper for Kotlin.
 * [dam5s/aspen ★26](https://github.com/dam5s/aspen) - Aspen is an RSpec and Spek inspired test runner for Kotlin.
 * [qwertukg/SeleniumBuilder ★23](https://github.com/qwertukg/SeleniumBuilder) - DSL for Selenium 2.0. Provide a possibility to write tests in Kotlin builder style.
-* [oleksiyp/mockk ★18](https://github.com/oleksiyp/mockk) - Pure Kotlin mocking library.
+* [oleksiyp/mockk ★131](https://github.com/oleksiyp/mockk) - Pure Kotlin mocking library.
 
 ### <a name="libraries-frameworks-dependency-injection"></a>Dependency Injection <sup>[Back ⇈](#libraries-frameworks-dependency-injection-subcategory)</sup>
 * [SalomonBrys/Kodein ★706](https://github.com/SalomonBrys/Kodein) - Painless Kotlin Dependency Injection .
@@ -254,7 +254,7 @@ Here awesome badge for your project:
 * [brianegan/bansa ★356](https://github.com/brianegan/bansa) - A state container for Kotlin & Java, inspired by Elm & Redux.
 * [pardom/redux-kotlin ★172](https://github.com/pardom/redux-kotlin) - Direct port of Redux for Kotlin.
 * [beyondeye/Reduks ★90](https://github.com/beyondeye/Reduks) - A "batteries included" port of Reduxjs for Kotlin+Android
-* [michaelbull/kotlin-result ★12](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
+* [michaelbull/kotlin-result ★13](https://github.com/michaelbull/kotlin-result) - A Result monad for modelling success or failure operations - inspired by Elm, Rust, & Haskell.
 * [pakoito/Komprehensions ★48](https://github.com/pakoito/Komprehensions) - Do comprehensions for Kotlin and 3rd party libraries.
 * [h0tk3y/kotlin-monads ★50](https://github.com/h0tk3y/kotlin-monads) - Monads for Kotlin
 * [Kategory/Kategory ★545](https://github.com/Kategory/Kategory) - Functional datatypes & abstractions for Kotlin.
@@ -497,7 +497,7 @@ Here awesome badge for your project:
 * [rakshakhegde/ObservableFlow ★15](https://github.com/rakshakhegde/ObservableFlow) - Functional Constructs for Databinding + Kotlin + RxJava
 * [programmerr47/ganalytics ★4](https://github.com/programmerr47/ganalytics) - A tiny api layer for any analytics in application.
 * [line/clay ★59](https://github.com/line/clay) - Clay is an Android library project that provides image trimming which is originally an UI component of LINE Creators Studio.
-* [WindSekirun/RichUtilsKt ★30](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin
+* [WindSekirun/RichUtilsKt ★33](https://github.com/WindSekirun/RichUtilsKt) - Advancement Utils for Android Developer written in Kotlin
 
 ### <a name="android-frameworks"></a>Frameworks <sup>[Back ⇈](#android-frameworks-subcategory)</sup>
 * [nekocode/kotgo](https://github.com/nekocode/kotgo) - An android development framwork on kotlin using MVP architecture.

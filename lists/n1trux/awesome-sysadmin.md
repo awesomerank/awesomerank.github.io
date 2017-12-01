@@ -431,7 +431,7 @@ ils and flask.
   * [Riemann](http://riemann.io/) - Flexible and fast events processor allowing complex events/metrics analysis.
   * [rtop ★1594](https://github.com/rapidloop/rtop) - an interactive, remote system monitoring tool based on SSH.
   * [Sensu](https://sensuapp.org/) - Monitoring framework.
-  * [ServerStatus BotoX ★258](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
+  * [ServerStatus BotoX ★258 ⏳1Y](https://github.com/BotoX/ServerStatus) - Display and monitor your servers statistics in a beatiful way.
   * [ServerStatus moejda ★279](https://github.com/mojeda/ServerStatus) - Server Status website script, displays uptime (days), free RAM, free HDD
   * [Shinken](http://www.shinken-monitoring.org/) - Another monitoring framework.
   * [SWMP - Server Web Monitor Page](https://swmp.fuzzytek.ml/) - A responsive, eye-pleasing Linux server statistics dashboard.([Source Code ★213](https://github.com/fuzzymannerz/swmp))

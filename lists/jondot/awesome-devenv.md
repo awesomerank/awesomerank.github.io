@@ -44,6 +44,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
   - [Vim](#vim)
   - [IntelliJ](#intellij)
 - [Git](#git)
+- [Misc](#misc)
 - [Notifications](#notifications)
 - [Orchestration](#orchestration)
 - [Presentation](#presentation)
@@ -84,6 +85,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 * [glances ★8631](https://github.com/nicolargo/glances)
 * [nmon](http://nmon.sourceforge.net/pmwiki.php)
+* [gtop ★6361](https://github.com/aksakalli/gtop)
 
 
 ## Desktop
@@ -122,6 +124,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 
 ### Vim
 
+* [Completor ★580](https://github.com/maralla/completor.vim) - async autocomplete with support for omni and semantic completion.
 * [Powerline](https://github.com/Lokaltog/powerline) - improved status bar for your buffers.
 * [snipmate ★1602](https://github.com/garbas/vim-snipmate) - textual snippets compatiable with Textmate snippets.
 * [The Ultimate Vim Distribution](http://vim.spf13.com/) - spf13-vim is a distribution of vim plugins and resources for Vim, GVim and MacVim.
@@ -154,12 +157,18 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 * [git-extra-commands ★216](https://github.com/unixorn/git-extra-commands) - collected git helper scripts
 * [git-extras](https://github.com/visionmedia/git-extras) - GIT utilities -- repo summary, repl, changelog population, author commit percentages and more
 * [git-it-on ★45](https://github.com/peterhurford/git-it-on.zsh) - ZSH plugin, adds a gitit command that opens the current directory on github in your current branch
+* [git-secret ★671](https://github.com/sobolevn/git-secret) - A bash-tool to store your private data inside a git repository.
 * [git-semver ★123](https://github.com/markchalloner/git-semver) - A git plugin to make Semantic Versioning 2.0.0 and Change Log management easier.
 * [git-sweep ★1661](https://github.com/arc90/git-sweep) - safely removes branches that have been merged into the master
 * [git-up ★2733](https://github.com/aanand/git-up) - a better 'git pull'
 * [hub](https://hub.github.com/) - git CLI wrapper which makes working with GitHub easier
 * [scm_breeze](https://github.com/ndbroadbent/scm_breeze) Streamline your git workflow
 * [tig](http://jonas.nitro.dk/tig/) - an ncurses-based text-mode interface for git
+
+## Misc
+*Useful tools that cannot find a home in other categories*
+
+* [Mockoon](https://mockoon.com) - an API / HTTP REST mocking desktop application
 
 ## Notifications
 *Tools that notify developers about changes in their work environment*
@@ -176,6 +185,7 @@ _Note: for an OS specific tool, please do your best to mark with `OSX/WIN/*NIX/L
 *Tools for presenting your work*
 
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
+* [hacker-slides ★41](https://github.com/msoedov/hacker-slides) - Reveal.js based presentation tool
 * [impress.js ★32658](https://github.com/impress/impress.js) - presentation framework based on the power of CSS3 transforms and transitions
 * [remark ★6942](https://github.com/gnab/remark) - markdown based presentation on your browser
 * [reveal.js ★37574](https://github.com/hakimel/reveal.js) - markdown based presentation on your browser
@@ -233,6 +243,7 @@ to `/home/Users/yourself/projects`.
 * [watchman ★6003](https://github.com/facebook/watchman) - Facebook's better
   `watch` - note it works as a service.
 * [Zappr ★321](https://github.com/zalando/zappr) - GitHub integration built to enhance your project workflow via enable/disable pull request approval checks.
+* [ergo ★112](https://github.com/cristianoliveira/ergo) - The management of multiple local services running over different ports made easy.
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/jondot/awesome-devenv">jondot/awesome-devenv</a> with ranks

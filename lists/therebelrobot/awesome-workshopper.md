@@ -20,7 +20,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | Project Name  |
 | ------------- |
 | Adventure [substack/adventure](https://github.com/substack/adventure)|
-| Workshopper [rvagg/workshopper ★1057](https://github.com/workshopper/workshopper) |
+| Workshopper [rvagg/workshopper ★1057 ⏳1Y](https://github.com/workshopper/workshopper) |
 
 ## Workshoppers
 | Module Name  | Description |
@@ -83,7 +83,7 @@ If you know of any other workshopper/adventure tutorials, feel free to fork/PR o
 | [adventure-time ★94](https://github.com/maxogden/adventure-time) | Web-based adventures |
 | [browser-menu](https://www.npmjs.com/package/browser-menu) | Browser Menu (web based) |
 | [example-adventure ★17 ⏳1Y](https://github.com/substack/example-adventure) | Forkable starter example for writing nodeschool challenges with adventure |
-| [generator-workshopper ★3 ⏳2Y](https://github.com/mindcookin/generator-workshopper) | Yeoman generator for the marvelous workshopper from nodeschool.io |
+| [generator-workshopper ★3 ⏳3Y](https://github.com/mindcookin/generator-workshopper) | Yeoman generator for the marvelous workshopper from nodeschool.io |
 
 ## Workshopper Requests
 Any wishes for workshopper topics go here. I may end up making them, or, if you're feeling adventurous, make it yourself then open a PR for your new list addition. If you have an idea for a workshopper/adventure, open an issue and I'll add it on.

@@ -185,7 +185,7 @@ title: Awesome Rank for brillout/awesome-redux
  - [generator-react-aspnet-boilerplate ★254](https://github.com/pauldotknopf/react-aspnet-boilerplate) - Starting point for building isomorphic React applications with ASP.NET Core 1, leveraging existing techniques.
  - [generator-redux ★251 ⏳1Y](https://github.com/banderson/generator-redux) - CLI tools for Redux: next-gen functional Flux/React with devtools.
  - [generator-react-webpack-redux ★535](https://github.com/stylesuxx/generator-react-webpack-redux) - React Webpack Generator including Redux support.
- - [socrates ★548](https://github.com/matthewmueller/socrates) - Small (8kb), batteries-included Redux store to reduce boilerplate and promote good habits.
+ - [socrates ★548 ⏳1Y](https://github.com/matthewmueller/socrates) - Small (8kb), batteries-included Redux store to reduce boilerplate and promote good habits.
 
 
 ## Miscellaneous

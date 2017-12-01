@@ -166,7 +166,7 @@ These frameworks make customizing your zsh setup easier.
 
 ### [zplugin ★80](https://github.com/zdharma/zplugin)
 
-**Zplugin** is a next-era plugin manager with [semigraphical UI ★3](https://github.com/zdharma/zplugin-crasis).
+**Zplugin** is a next-era plugin manager with [semigraphical UI](https://github.com/zdharma/zplugin-crasis) and a [Turbo Mode ★84](https://github.com/zdharma/zplugin#turbo-mode).
 
 ### [ZPM](https://github.com/horosgrisa/ZPM)
 
@@ -529,7 +529,7 @@ These plugins add tab completion without adding extra functions or aliases.
 * [gulp ★31 ⏳1Y](https://github.com/akoenig/gulp.plugin.zsh) - Autocompletion for your gulp.js tasks in the Z-Shell (ZSH).
 * [jtool-completion ★0](https://github.com/beaugalbraith/jtool-completion) - ZSH completions for jtool
 * [jumpstorm-zsh-plugin](https://github.com/netresearch/jumpstorm-zsh-plugin) - Adds autocompletion for [jumpstorm ★43 ⏳4Y](https://github.com/netresearch/jumpstorm)
-* [keybase ★8 ⏳1Y](https://github.com/rbirnie/oh-my-zsh-keybase) - Completions for [keybase](https://keybase.io/docs/command_line).
+* [keybase ★8 ⏳2Y](https://github.com/rbirnie/oh-my-zsh-keybase) - Completions for [keybase](https://keybase.io/docs/command_line).
 * [newman](https://github.com/selop/newman-autocomplete) - Provides autocompletion for the [Newman CLI ★2182](https://github.com/postmanlabs/newman).
 * [nix-zsh-completions ★39](https://github.com/spwhitt/nix-zsh-completions) - Completions for [nix](https://nixos.org/nix/), [NixOS](https://nixos.org/), and [NixOps](http://nixos.org/nixops/).
 * [npm-run.plugin.zsh ★20 ⏳1Y](https://github.com/akoenig/npm-run.plugin.zsh) - Autocompletion support for `npm run`.

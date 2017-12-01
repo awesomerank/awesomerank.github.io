@@ -433,7 +433,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 ## Android
 
 * [ChaseWhisplyProject ★427](https://github.com/tvbarthel/ChaseWhisplyProject) - Chase Whisply is a FPS. You have to seek, find and kill the ghosts living around you.
-* [Colorphun ★39 ⏳2Y](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
+* [Colorphun ★39 ⏳3Y](https://github.com/prakhar1989/colorphun) - ColorPhun is a simple color based Android Game.
 * [Game of Life ★42 ⏳1Y](https://github.com/zsoltk/GameOfLife) - Conway's Game of Life with editable rules
 * [Gidi Games](https://github.com/chuvidi2003/GidiGames) - Lexis, TicTacToe, Puzzlemania - a collection of 3 board games done with Cocos2d for Android.
 * [Green Mahjong ★39](https://github.com/danbeck/green-mahjong) - Solitaire mahjong game done in HTML/CSS/JS.
@@ -564,7 +564,7 @@ A selection of major game studios, publishers, etc. using GitHub:
 * [IodineGBA ★456](https://github.com/taisel/IodineGBA) - GameBoy Advance emulator written entirely in JavaScript and powered by HTML5.
 * [itch ★723](https://github.com/itchio/itch) - An electron cross-platform game downloader, installer, and library manager for itch.io written in TypeScript.
 * [JavaScript Breakouts ★496 ⏳2Y](https://github.com/city41/breakouts) - Collection of JavaScript engine implementations of [*Breakout*](http://en.wikipedia.org/wiki/Breakout_%28video_game%29).
-* [Leaderboard(Java) ★19 ⏳1Y](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis(in Java).
+* [Leaderboard(Java) ★19 ⏳2Y](https://github.com/agoragames/java-leaderboard) - Leaderboards backed by Redis(in Java).
 * [Leaderboard(PHP) ★24 ⏳6Y](https://github.com/agoragames/php-leaderboard) - Leaderboards backed by Redis(in PHP).
 * [Leaderboard(Python) ★16 ⏳2Y](https://github.com/agoragames/python-leaderboard) - Leaderboards backed by Redis(in Python).
 * [Leaderboard(Ruby) ★433](https://github.com/agoragames/leaderboard) - Leaderboards backed by Redis(in Ruby).

@@ -120,7 +120,7 @@ Native and strictly spec-compliant promises are awesome for compatibility, futur
 * [p-pipe ★43](https://github.com/sindresorhus/p-pipe) - Compose promise-returning & async functions into a reusable pipeline
 * [p-each-series ★18 ⏳1Y](https://github.com/sindresorhus/p-each-series) - Iterate over promises serially
 * [p-map-series ★16 ⏳1Y](https://github.com/sindresorhus/p-map-series) - Map over promises serially
-* [p-reduce ★21](https://github.com/sindresorhus/p-reduce) - Reduce a list of values using promises into a promise for a value
+* [p-reduce ★21 ⏳1Y](https://github.com/sindresorhus/p-reduce) - Reduce a list of values using promises into a promise for a value
 * [p-props ★41](https://github.com/sindresorhus/p-props) - Like `Promise.all()` but for `Map` and `Object`
 
 ### Others

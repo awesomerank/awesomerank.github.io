@@ -996,7 +996,7 @@ Community Repos:
 * [Netflix/aminator :fire::fire::fire: ★724](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
 * [Netflix/archaius :fire::fire::fire::fire: ★1478](https://github.com/Netflix/archaius) - Library for configuration management API.
 * [Netflix/asgard :fire::fire::fire::fire::fire: ★2180](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
-* [Netflix/aws-autoscaling :fire::fire: ★401 ⏳1Y](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
+* [Netflix/aws-autoscaling :fire::fire: ★401 ⏳2Y](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
 * [Netflix/chaosmonkey :fire::fire::fire::fire::fire: ★3203](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
 * [Netflix/eureka :fire::fire::fire::fire::fire: ★4307](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover.
 * [Netflix/EVCache :fire::fire::fire: ★680](https://github.com/Netflix/EVCache) - A distributed in-memory data store.

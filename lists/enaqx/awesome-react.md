@@ -257,7 +257,7 @@ A collection of awesome things regarding React ecosystem.
 ##### Debugging React
 * [Trace Logging with React](http://www.garysieling.com/blog/trace-logging-react)
 * [Reactotron: Control, monitor, and instrument](https://github.com/skellock/reactotron)
-* [React-fix-it: Automagically generate tests from errors ★1869](https://github.com/MicheleBertoli/react-fix-it)
+* [React-fix-it: Automagically generate tests from errors ★1880](https://github.com/MicheleBertoli/react-fix-it)
 
 ##### Authentication
 * [Adding authentication to your React Flux app](https://auth0.com/blog/2015/04/09/adding-authentication-to-your-react-flux-app/)
@@ -462,7 +462,7 @@ A collection of awesome things regarding React ecosystem.
 * [react-range-slider - Collection of react slider components ★70](https://github.com/jpuri/react-range-slider)
 * [react-ui-tree - React tree component with drag and drop support ★445](https://github.com/pqx/react-ui-tree)
 * [react-frame - React components within an iframe for isolated css styling ★37](https://github.com/pqx/react-frame)
-* [rodal - A React modal with animations ★364](https://github.com/chenjiahan/rodal)
+* [rodal - A React modal with animations ★373](https://github.com/chenjiahan/rodal)
 * [react-scrollbar - Simple ScrollArea component built for React ★275](https://github.com/souhe/reactScrollbar)
 * [react-experiments - Implement A/B tests with randomized parameterizations of your components ★230 ⏳1Y](https://github.com/HubSpot/react-experiments)
 * [react-slide-deck - For swipe, tabs, carousel, one page scroll. With animation hooks. tweening, tween callbacks ★67 ⏳1Y](https://github.com/jl-/react-slide-deck)
@@ -499,7 +499,7 @@ A collection of awesome things regarding React ecosystem.
 * [omnibar - Extensible search component for React. ★28](https://github.com/vutran/omnibar)
 * [react-virtualized-sticky-tree - Render virtualized tree structures with support for position: sticky  ★15](https://github.com/marchaos/react-virtualized-sticky-tree)
 * [react-flexbox-svg - Flexbox for SVG in React, using css-layout ★1](https://github.com/paulmelnikow/react-flexbox-svg)
-* [react-instantsearch - Search Interface building blocks for Algolia ★255](https://github.com/algolia/react-instantsearch)
+* [react-instantsearch - Search Interface building blocks for Algolia ★293](https://github.com/algolia/react-instantsearch)
 * [react-d3-tree - Create interactive D3 tree graphs ★22](https://github.com/bkrem/react-d3-tree)
 * [react-redux-modal-flex - Accessible modal dialog component for React, easy to install and use with Redux. ★1](https://github.com/tronghiep92/react-redux-modal-flex)
 * [react-switch - A draggable, customizable and accessible toggle-switch component. ★9](https://github.com/yogaboll/react-switch)
@@ -609,7 +609,7 @@ A collection of awesome things regarding React ecosystem.
 * [formjs - A form generator for Reactjs ★44 ⏳3Y](https://github.com/zackify/formjs)
 * [react-form-builder - A Form Builder for React.js ★49 ⏳1Y](https://github.com/quri/react-form-builder)
 * [plexus-form - A dynamic form component for react using JSON-Schema ★126 ⏳2Y](https://github.com/AppliedMathematicsANU/plexus-form)
-* [tcomb-form - UI library for developing forms writing less code ★1063](https://github.com/gcanti/tcomb-form)
+* [tcomb-form - UI library for developing forms writing less code ★1071](https://github.com/gcanti/tcomb-form)
 * [formsy-react - A form input builder and validator for React JS ★2333](https://github.com/christianalfoni/formsy-react)
 * [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
 * [Winterfell - Generate complex, validated and extendable JSON-based forms in React ★584](https://github.com/andrewhathaway/Winterfell)
@@ -889,7 +889,7 @@ A collection of awesome things regarding React ecosystem.
 #### Testing Utilities
 * [Jest - Painless JavaScript Unit Testing](http://facebook.github.io/jest/)
 * [enzyme - JavaScript Testing utilities for React ★11505](https://github.com/airbnb/enzyme)
-* [chai-immutable - Chai assertions for Facebook's Immutable library for JavaScript collections ★140](https://github.com/astorije/chai-immutable)
+* [chai-immutable - Chai assertions for Facebook's Immutable library for JavaScript collections ★142](https://github.com/astorije/chai-immutable)
 
 ##### Testing Tutorials
 * [Approaches to testing React components - an overview](http://reactkungfu.com/2015/07/approaches-to-testing-react-components-an-overview/)
@@ -1105,7 +1105,7 @@ A collection of awesome things regarding React ecosystem.
 * [soundcloud-react-redux - A SoundCloud Client built with React / Redux ★979](https://github.com/rwieruch/favesound-redux)
 * [soundcloud-react-mobx - A SoundCloud Client built with React / MobX ★300](https://github.com/rwieruch/favesound-mobx)
 * [A Reimplementation of Winamp 2.9 with React and Redux ★2560](https://github.com/captbaritone/winamp2-js)
-* [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless ★20](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
+* [ComingOrNot - Event Planner built with react, react-router, redux, graphQL & serverless ★26](https://github.com/lakshmantgld/comingOrNot#reactjs-redux-serverless-graphql-event-planner)
 
 ---
 ### Real Apps

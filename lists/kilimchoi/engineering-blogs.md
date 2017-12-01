@@ -39,6 +39,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 
 #### A companies
 * AdRoll http://tech.adroll.com/blog/
+* Addepar https://medium.com/build-addepar
 * Airbrake https://airbrake.io/blog/
 * AirPair https://www.airpair.com/software-experts
 * Advanced Web Machinery https://advancedweb.hu/
@@ -68,6 +69,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Bandcamp https://bandcamptech.wordpress.com/
 * Base Lab https://lab.getbase.com/category/engineering/
 * Bazaarvoice https://blog.developer.bazaarvoice.com/
+* BBC https://medium.com/bbc-design-engineering/
 * Benchling https://benchling.engineering/
 * BenefitFocus https://www.benefitfocus.com/blogs/design-engineering
 * Bigcommerce http://www.bigeng.io/
@@ -76,6 +78,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * BitTorrent http://engineering.bittorrent.com/
 * BlaBlaCar http://blablatech.com/blog/
 * BlackRock http://rockthecode.io/
+* Blender https://code.blender.org/
 * Blogfoster http://engineering.blogfoster.com/
 * BloomReach http://engineering.bloomreach.com/
 * Booking.com https://blog.booking.com/
@@ -155,6 +158,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Flickr http://code.flickr.net/
 * Flipboard http://engineering.flipboard.com/
 * Foursquare https://engineering.foursquare.com/
+* Freeletics https://freeletics.engineering/ 
 * Funding Circle https://engineering.fundingcircle.com/
 * Future Processing https://www.future-processing.pl/technical-blog/
 * Fynd http://gofynd.io/blog
@@ -162,6 +166,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 #### G companies
 * Galois https://galois.com/blog/
 * GameChanger http://tech.gc.com/
+* Geoblink https://tech.geoblink.com
 * Gilt http://tech.gilt.com
 * GitHub https://githubengineering.com/
 * GitHub Old https://github.com/blog/category/engineering
@@ -321,6 +326,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * RisingStack https://blog.risingstack.com/
 * Robert Elder Software http://blog.robertelder.org/
 * RoseHosting https://www.rosehosting.com/blog/
+* Runtastic https://www.runtastic.com/blog/en/category/tech/
 
 #### S companies
 * Salesforce https://developer.salesforce.com/blogs/engineering/
@@ -414,6 +420,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Wealthfront http://eng.wealthfront.com/
 * We Are Wizards https://blog.wearewizards.io/
 * WebEngage http://engineering.webengage.com/
+* WePay https://wecode.wepay.com/
 * Wimdu http://tech.wimdu.com/
 * Wingify http://engineering.wingify.com/
 * Wix https://www.wix.engineering/
@@ -435,6 +442,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 
 #### Z companies
 * Zalando https://tech.zalando.com/blog/
+* Zapier https://zapier.com/engineering/
 * ZeeMee https://zeemee.engineering/
 * Zendesk https://medium.com/zendesk-engineering
 * Zendesk(old) https://developer.zendesk.com/blog
@@ -462,11 +470,12 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Alex Russell https://infrequently.org/
 * Allan MacGregor http://coderoncode.com/
 * Allison Kaptur http://akaptur.com/
+* Amit Merchant https://www.amitmerchant.com/
 * Anders Aarvik http://aarvik.dk/
 * Andrew Bancroft http://www.andrewcbancroft.com/
 * Andrew Brampton https://blog.bramp.net/
 * Andrew Ray https://blog.andrewray.me/
-* Andrey Akinshin http://aakinshin.net/en/blog/content/
+* Andrey Akinshin http://aakinshin.net/blog/
 * Antirez http://antirez.com/latest/0
 * Ariejan de Vroom https://ariejan.net/
 * Ariya Hidayat https://ariya.io/
@@ -520,7 +529,6 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Dragan Djuric http://dragan.rocks
 * Dragan Gaic http://www.gajotres.net/
 * Drew DeVault https://drewdevault.com/
-* Ducode.org https://ducode.org/tag/tutorial
 
 #### E individuals
 * Edan Kwan http://blog.edankwan.com/
@@ -565,6 +573,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 
 #### J individuals
 * Jacopo Tarantino https://jack.ofspades.com/
+* Jake Trent https://jaketrent.com
 * Jake Wharton http://jakewharton.com/blog
 * Jake Yesbeck http://jakeyesbeck.com/
 * James Hague http://prog21.dadgum.com/
@@ -617,6 +626,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Matt Cutts https://www.mattcutts.com/blog/
 * Matt Might http://matt.might.net/articles/
 * Matt Warren http://mattwarren.org/
+* Matthew Green https://blog.cryptographyengineering.com/
 * Michael Crump https://michaelcrump.net/
 * Michaël Gallego http://www.michaelgallego.fr/articles/
 * Michael Herman http://mherman.org/
@@ -653,6 +663,7 @@ title: Awesome Rank for kilimchoi/engineering-blogs
 * Paul Graham http://www.paulgraham.com/articles.html
 * Paul Irish https://www.paulirish.com/
 * Paul Lewis https://aerotwist.com/blog/
+* Paweł Chudzik https://blog.pchudzik.com/
 * Peter Norvig http://norvig.com/
 * Peter Steinberger http://petersteinberger.com/
 * Peteris Krumins http://www.catonmat.net/blog/

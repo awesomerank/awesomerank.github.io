@@ -270,8 +270,8 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Sushi ★2](https://github.com/JustSid/Sushi)
 - [Flappy-boy-asm ★9](https://github.com/bitnenfer/flappy-boy-asm)
 - [kupman ★1](https://github.com/dubvulture/gbdev) and some other projects
-- [Adjustris ★1](https://github.com/tbsp/Adjustris)
-- [exeman ★4](https://github.com/exezin/exeman)
+- [Adjustris ★2](https://github.com/tbsp/Adjustris)
+- [exeman ★5](https://github.com/exezin/exeman)
 - [Aevilia ★7](https://github.com/ISSOtm/Aevilia-GB)
 - [GBSlides ★10](https://github.com/Kartones/gameboy) - A simple Game Boy Powerpoint-like slides viewer.
 
@@ -303,7 +303,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [pokemontools ★142](https://github.com/pret/pokemon-reverse-engineering-tools) - a python module that provides various reverse engineering components for various Pokémon games.
 - [Reverse Engineering a Gameboy ROM with radare2](https://www.megabeets.net/reverse-engineering-a-gameboy-rom-with-radare2) - A walkthrough to reverse engineer a Gameboy ROM challenge using radare2.
 - [Disassembling Link's Awakening](http://kemenaran.winosx.com/posts/category-disassembling-links-awakening/) - A series of blog posts about disassembling Link's Awakening DX.
-- [Link's Awakening DX Disassembly ★41](https://github.com/mojobojo/LADX-Disassembly)
+- [Link's Awakening DX Disassembly ★43](https://github.com/mojobojo/LADX-Disassembly)
 - [Disassembly of Tetris ★4](https://github.com/osnr/tetris) - Based on Jeff Frohwein's original disassembly.
 
 ## Related sites, posts and projects
@@ -313,7 +313,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [Piglet ★34 ⏳3Y](https://github.com/danShumway/Piglet) - A LUA-driven AI that plays classic Game Boy color games using experimentation. In active development.
 - [The Game Boy Project](http://marc.rawer.de/Gameboy/Docs/GBProject.pdf) - Provides a study on the hardware and detailed constructional information for the realisation of three 8-bit bidirectional parallel ports.
 - [gbdk-n](https://github.com/rotmoset/gbdk-n) - Aims to update the gbdk libraries to be compatible with new versions of SDCC and provide helpers for building roms.
-- [Wiz ★43 ⏳2Y](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
+- [Wiz ★44 ⏳2Y](https://github.com/wiz-lang/wiz) - A high-level assembly language for writing homebrew on retro console platforms (Game Boy, NES, Atari 2600, and more).
 - [Gatesboy](https://web.archive.org/web/*/http://www.gatesboy.com/) - Non-gaming purposes applications development.
 - [pdroms.de](http://pdroms.de/news/gameboy/) Game Boy releases.
 - [Game Boy Demospotting](http://gameboy.modermodemet.se/en) - A collection of demos.
@@ -326,7 +326,7 @@ If you aim to develop your software for SGB or GBC, or you want to know how it r
 - [GBVideoPlayer ★41](https://github.com/LIJI32/GBVideoPlayer) - A technical demo demonstrating how the Gameboy LCD controller can be hacked to make a Gameboy Color play a full motion video in color, together with music.
 - [ArduinoGameBoy ★49 ⏳2Y](https://github.com/drhelius/arduinogameboy) - Arduino based Game Boy cartridge reader and writer.
 - [gameboy-brainfuck ★5](https://github.com/bitnenfer/gameboy-brainfuck) - Implementation of a brainfuck interpreter.
-- [gb-save-states ★4](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
+- [gb-save-states ★5](https://github.com/mattcurrie/gb-save-states) - Patches to add save state support to Game Boy games when playing on the original hardware.
 - [The Game Boy Archive](https://github.com/gb-archive) - A library of Game Boy related software, hardware and literature. Aimed to mirror and preserve old and fragmented contributions from the last three decades.
 - [gbcpu ★2 ⏳4Y](https://github.com/jdeblese/gbcpu) - A CPU and peripherals implementing the Gameboy (TM) instruction set and functionality.
 

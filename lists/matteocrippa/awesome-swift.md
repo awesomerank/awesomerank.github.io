@@ -1141,7 +1141,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [AwaitKit ★313](https://github.com/yannickl/AwaitKit) - The ES7 Async/Await control flow.
 * [Chronos ★249](https://github.com/comyar/Chronos-Swift) - Grand Central Dispatch Utilities.
 * [Dispatcher ★109](https://github.com/aleclarson/dispatcher) - Queues, timers, and task groups.
-* [Each ★730](https://github.com/dalu93/Each) - Each is a NSTimer bridge library.
+* [Each ★730 ⏳1Y](https://github.com/dalu93/Each) - Each is a NSTimer bridge library.
 * [EKI ★35](https://github.com/kodlian/Eki) - Make Grand Central Dispatch easy and fun to use (queue, task, group, timer and semaphore).
 * [GCDKit ★283](https://github.com/JohnEstropia/GCDKit) - Grand Central Dispatch simplified.
 * [GCDTimer ★164](https://github.com/hemantasapkota/GCDTimer) - A well-tested GCD timer.

@@ -201,7 +201,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [ExShop ★158 ⏳1Y](https://github.com/authentic-pixels/ex-shop) - Digital goods shop & blog created using Phoenix framework.
 * [Hydra ★38 ⏳1Y](https://github.com/doomspork/hydra) - A multi-headed beast: API gateway, request cache, and data transformations.
 * [majremind](https://bitbucket.org/Anwen/majremind) - A self-maintained database of your updated server which tells you which one needs to be updated.
-* [medex ★4 ⏳1Y](https://github.com/xerions/medex) - Medical Examination - application for register health check callbacks and represent their state via HTTP.
+* [medex ★4 ⏳2Y](https://github.com/xerions/medex) - Medical Examination - application for register health check callbacks and represent their state via HTTP.
 * [medusa_server ★2](https://github.com/IcaliaLabs/medusa_server) - A simple cowboy web server written in Elixir to stack images.
 * [n2o ★1067](https://github.com/synrc/n2o) - WebSocket Application Server.
 * [Nvjorn ★7 ⏳1Y](https://github.com/tchoutri/Nvjorn) - A multi-protocol network services monitor written in Elixir using Poolboy.
@@ -1250,7 +1250,7 @@ There are [other sites with curated lists of elixir packages](#other-awesome-lis
 * [faker ★330](https://github.com/igas/faker) - Faker is a pure Elixir library for generating fake data.
 * [faker_elixir ★104](https://github.com/GesJeremie/faker-elixir) - FakerElixir is an Elixir package that generates fake data for you.
 * [fqc ★1 ⏳2Y](https://github.com/project-fifo/fqc) - FiFo Quickcheck helper, a set of helpers for running EQC.
-* [gimei ★2 ⏳1Y](https://github.com/KazuCocoa/elixir-gimei) - Gimei is a pure Elixir library for generating Japanese fake data.
+* [gimei ★2 ⏳2Y](https://github.com/KazuCocoa/elixir-gimei) - Gimei is a pure Elixir library for generating Japanese fake data.
 * [hound ★871](https://github.com/HashNuke/hound) - Elixir library for writing integration tests and browser automation.
 * [hypermock ★23 ⏳2Y](https://github.com/stevegraham/hypermock) - HTTP request stubbing and expectation Elixir library.
 * [ignorant ★9 ⏳1Y](https://github.com/campezzi/ignorant) - Partial `Map` comparison that ensures fields are present while ignoring their values.

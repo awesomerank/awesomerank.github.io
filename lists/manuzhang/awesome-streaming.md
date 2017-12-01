@@ -85,7 +85,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [databus ★1711](https://github.com/linkedin/databus) [Java] - Linkedin's source-agnostic distributed change data capture system.
 * [flume ★1140](https://github.com/apache/flume) [Java] - distributed, reliable, and available service for efficiently collecting, aggregating, and moving large amounts of log data.
 * [Redis Streams](http://antirez.com/news/114) - Redis implementation of a unified log structure
-* [suro ★640 ⏳1Y](https://github.com/Netflix/suro) [Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
+* [suro ★640 ⏳2Y](https://github.com/Netflix/suro) [Java] - data pipeline service for collecting, aggregating, and dispatching large volume of application events including log data.
 * [StreamSets Data Collector ★365](https://github.com/streamsets/datacollector) [Java] - continuous big data ingestion infrastructure that reads from and writes to a large number of end-points, including S3, JDBC, Hadoop, Kafka, Cassandra and many others.
 
 ### Online Machine Learning 

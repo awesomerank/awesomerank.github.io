@@ -883,7 +883,7 @@ Awesome-iOS is an amazing list for people who need a certain feature on their ap
 * [Imaginary ★343](https://github.com/hyperoslo/Imaginary) - 🦄 Remote images, as easy as one, two, three. :large_orange_diamond:
 * [PPAssetsActionController ★51](https://github.com/pantuspavel/PPAssetsActionController) - Highly customizable Action Sheet Controller with Assets Preview. :large_orange_diamond:
 * [Vulcan ★275](https://github.com/jinSasaki/Vulcan) - Multi image downloader with priority in Swift. :large_orange_diamond:
-* [FacebookImagePicker ★91](https://github.com/terflogag/FacebookImagePicker) - Facebook album photo picker written in Swift. :large_orange_diamond:
+* [FacebookImagePicker ★93](https://github.com/floriangbh/FacebookImagePicker) - Facebook album photo picker written in Swift. :large_orange_diamond:
 * [Lightbox ★207](https://github.com/hyperoslo/Lightbox) - A convenient and easy to use image viewer for your iOS app. :large_orange_diamond:
 * [AvatarImageView ★208](https://github.com/ayushn21/AvatarImageView) - AvatarImageView is a UIImageView subclass designed to show a user's profile picture, falling back to their initials when a picture is unavailable. :large_orange_diamond:
 * [Ebblink ★3](https://github.com/ebbapp/ebblinkSDK) - An iOS SDK for sharing photos that automatically expire and can be deleted at any time.
@@ -1035,6 +1035,7 @@ Also see [push notifications](#push-notifications)
 * [SWNetworking ★4](https://github.com/isamankumara/skywite) - Powerful high-level iOS, macOS and tvOS networking library. from the creator of SWNetworking 🔶
 * [Digger ★260](https://github.com/cornerAnt/Digger) - Digger is a lightweight download framework that requires only one line of code to complete the file download task
 . :large_orange_diamond:
+* [Ciao ★18](https://github.com/AlTavares/Ciao) - Publish and discover services using mDNS(Bonjour, Zeroconf). :large_orange_diamond:
 
 #### Email
 
@@ -1182,7 +1183,7 @@ Most of these are paid services, some have free tiers.
 ## Permissions
 * [Proposer ★748](https://github.com/nixzhu/Proposer) - Make permission request easier (Supports Camera, Photos, Microphone, Contacts, Location). :large_orange_diamond:
 * [ICanHas ★81](https://github.com/wircho/ICanHas) - Simplifies iOS user permission requests (Supports location, push notifications, camera, contacts, calendar, photos). :large_orange_diamond:
-* [VWWPermissionKit ★131 ⏳1Y](https://github.com/zakkhoyt/VWWPermissionKit) - A visual permission manager for iOS.
+* [VWWPermissionKit ★131 ⏳2Y](https://github.com/zakkhoyt/VWWPermissionKit) - A visual permission manager for iOS.
 * [ISHPermissionKit ★577](https://github.com/iosphere/ISHPermissionKit) - A unified way for iOS apps to request user permissions.
 * [JLPermissions ★403 ⏳1Y](https://github.com/jlaws/JLPermissions) - An iOS pre-permissions utility that lets developers ask users on their own dialog for calendar, contacts, location, photos, reminders, twitter, push notifications and more, before making the system-based permission request.
 * [ClusterPrePermissions ★1203](https://github.com/rsattar/ClusterPrePermissions) - Reusable pre-permissions utility that lets developers ask users for access in their own dialog, before making the system-based request.
@@ -1383,7 +1384,7 @@ Most of these are paid services, some have free tiers.
 * [Redis ★345](https://github.com/vapor/redis) - Pure-Swift Redis client implemented from the original protocol spec. macOS + Linux compatible. :large_orange_diamond:
 * [NetworkObjects ★268 ⏳2Y](https://github.com/colemancda/NetworkObjects) - Swift backend / server framework (Pure Swift, Supports Linux) :large_orange_diamond:
 * [Noze.io](http://noze.io) - Evented I/O streams a.k.a. Node.js for Swift. :large_orange_diamond:
-* [Edge ★286](https://github.com/SwiftOnEdge/Edge) - A Swift Multiplatform Web and Networking Framework. :large_orange_diamond:
+* [Edge ★286](https://github.com/skylab-inc/Edge) - A Swift Multiplatform Web and Networking Framework. :large_orange_diamond:
 * [SwiftGD ★177](https://github.com/twostraws/swiftgd) - A simple Swift wrapper for libgd. :large_orange_diamond:
 * [Jobs ★153](https://github.com/BrettRToomey/Jobs) - A job system for Swift backends. :large_orange_diamond:
 * [ApacheExpress ★168](https://github.com/ApacheExpress/ApacheExpress) - Write Apache Modules in Swift! :large_orange_diamond:
@@ -1632,7 +1633,7 @@ Most of these are paid services, some have free tiers.
 * [LTHRadioButton ★193](https://github.com/rolandleth/LTHRadioButton) - A radio button with a pretty fill animation. :large_orange_diamond:
 * [CRRulerControl ★92 ⏳1Y](https://github.com/Cleveroad/CRRulerControl) - Customizable component is aimed at turning a simple ruler into a handy and smart instrument.
 * [Macaw-Examples ★149](https://github.com/exyte/Macaw-Examples) - Various usages of the Macaw library. :large_orange_diamond:
-* [KVCardSelectionVC ★14](https://github.com/kunalverma25/KVCardSelectionVC) - Awesome looking Dial like card selection ViewController. :large_orange_diamond:
+* [KVCardSelectionVC ★14 ⏳1Y](https://github.com/kunalverma25/KVCardSelectionVC) - Awesome looking Dial like card selection ViewController. :large_orange_diamond:
 * [Reactions ★439](https://github.com/yannickl/Reactions) - Fully customizable Facebook reactions control :large_orange_diamond:
 * [Newly ★173](https://github.com/dhirajjadhao/Newly) - Newly is a drop in solution to add Twitter/Facebook/Linkedin-style new updates/tweets/posts available button :large_orange_diamond:
 * [CardStackController ★334](https://github.com/jobandtalent/CardStackController) - iOS custom controller used in Jobandtalent app to present new view controllers as cards :large_orange_diamond:
@@ -1670,6 +1671,7 @@ Most of these are paid services, some have free tiers.
 * [SwiftyUI ★106](https://github.com/haoking/SwiftyUI) - High performance and lightweight(one class each UI) UIView, UIImage, UIImageView, UIlabel, UIButton, Promise and more. 🔶
 * [NotchToolkit ★25](https://github.com/AFathi/NotchToolkit) - A framework for iOS that allow developers use the iPhone X notch in creative ways. 🔶
 * [PullUpController ★345](https://github.com/MarioIannotta/PullUpController) - Pull up controller with multiple sticky points like in iOS Maps. 🔶
+* [DrawerKit ★394](https://github.com/Babylonpartners/DrawerKit) - DrawerKit lets an UIViewController modally present another UIViewController in a manner similar to the way Apple's Maps app works. :large_orange_diamond:
 
 #### Activity Indicator
 
@@ -1730,6 +1732,7 @@ Most of these are paid services, some have free tiers.
 * [JDBreaksLoading ★123](https://github.com/jamesdouble/JDBreaksLoading) - You can easily start up a little breaking game indicator by one line. :large_orange_diamond:
 * [SkeletonView ★617](https://github.com/Juanpe/SkeletonView) - An elegant way to show users that something is happening and also prepare them to which contents he is waiting. :large_orange_diamond:
 * [Windless ★162](https://github.com/Interactive-Studio/Windless) - Windless makes it easy to implement invisible layout loading view. :large_orange_diamond:
+* [Skeleton ★297](https://github.com/gonzalonunez/Skeleton) - An easy way to create sliding CAGradientLayer animations! Works great for creating skeleton screens for loading content. 🔶
 
 #### Animation
 * [Pop ★18321](https://github.com/facebook/pop) - An extensible iOS and macOS animation library, useful for physics-based interactions.
@@ -1858,7 +1861,7 @@ Most of these are paid services, some have free tiers.
 * [AlertViewLoveNotification ★25](https://github.com/PhilippeBoisney/AlertViewLoveNotification) - A simple and attractive AlertView to ask permission to your users for Push Notification. 🔶
 * [CRToast ★3968](https://github.com/cruffenach/CRToast) - A modern iOS toast view that can fit your notification needs
 * [JLToast ★873](https://github.com/devxoul/Toaster) - Toast for iOS with very simple interface. :large_orange_diamond:
-* [CuckooAlert ★5 ⏳1Y](https://github.com/singcodes/CuckooAlert) - Multiple use of presentViewController for UIAlertController. 🔶
+* [CuckooAlert ★5 ⏳1Y](https://github.com/rollmind/CuckooAlert) - Multiple use of presentViewController for UIAlertController. 🔶
 * [KRAlertController ★34](https://github.com/krimpedance/KRAlertController) - A colored alert view for your iOS. :large_orange_diamond:
 * [Dodo ★774](https://github.com/evgenyneu/Dodo) - A message bar for iOS written in Swift. :large_orange_diamond:
 * [MaterialActionSheetController ★84 ⏳1Y](https://github.com/ntnhon/MaterialActionSheetController) - A Google like action sheet for iOS written in Swift. :large_orange_diamond:
@@ -1883,7 +1886,7 @@ Most of these are paid services, some have free tiers.
 * [JDropDownAlert ★35](https://github.com/trilliwon/JDropDownAlert) - Multi dirction dropdown alert view. 🔶
 * [BulletinBoard ★2002](https://github.com/alexaubry/BulletinBoard) - Generate and Display Bottom Card Interfaces on iOS :large_orange_diamond:
 * [Cards ★2014](https://github.com/PaoloCuscela/Cards) - Awesome iOS 11 AppStore's Card Views. :large_orange_diamond:
-* [CFNotify ★107](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views. :large_orange_diamond:
+* [CFNotify ★372](https://github.com/hallelujahbaby/CFNotify) - A customizable framework to create draggable views. :large_orange_diamond:
 
 #### Badge
 * [MIBadgeButton ★292](https://github.com/mustafaibrahim989/MIBadgeButton-Swift) - Notification badge for UIButtons. :large_orange_diamond:
@@ -2397,7 +2400,7 @@ Most of these are paid services, some have free tiers.
  * [Cent ★164](https://github.com/ankurp/Cent) - Extensions for Swift Standard Types and Classes :large_orange_diamond:
  * [AssistantKit ★413](https://github.com/anatoliyv/AssistantKit) - Easy way to detect iOS device properties, OS versions and work with screen sizes. Powered by Swift. :large_orange_diamond:
  * [SwiftLinkPreview ★740](https://github.com/LeonardoCardoso/SwiftLinkPreview) - It makes a preview from an url, grabbing all the information such as title, relevant texts and images. 🔶
- * [BundleInfos ★0 ⏳1Y](https://github.com/singcodes/BundleInfos) - Simple getter for Bundle informations. like short version from bundle. 🔶
+ * [BundleInfos ★0 ⏳1Y](https://github.com/rollmind/BundleInfos) - Simple getter for Bundle informations. like short version from bundle. 🔶
  * [YAML.framework ★185](https://github.com/mirek/YAML.framework) - Proper YAML support for Objective-C based on `LibYAML`.
  * [ReadabilityKit ★624](https://github.com/exyte/ReadabilityKit) - Metadata extractor for news, articles and full-texts in Swift. 🔶
  * [MissionControl-iOS ★99 ⏳1Y](https://github.com/appculture/MissionControl-iOS) - Super powerful remote config utility written in Swift (iOS, watchOS, tvOS, macOS) :large_orange_diamond:
@@ -2411,7 +2414,7 @@ Most of these are paid services, some have free tiers.
  * [Eject ★511 ⏳1Y](https://github.com/Raizlabs/Eject) - An eject button for Interface Builder to generate swift code. :large_orange_diamond:
  * [ContactsWrapper ★17](https://github.com/abdullahselek/ContactsWrapper) - Easy to use wrapper for both contacts and contacts group with Objective-C.
  * [XestiMonitors ★240](https://github.com/eBardX/XestiMonitors) - An extensible monitoring framework written in Swift :large_orange_diamond:
- * [OpenSourceController ★25](https://github.com/terflogag/OpenSourceController) - The simplest way to display the libraries licences used in your application. :large_orange_diamond:
+ * [OpenSourceController ★26](https://github.com/floriangbh/OpenSourceController) - The simplest way to display the libraries licences used in your application. :large_orange_diamond:
  * [App-Update-Tracker ★23 ⏳1Y](https://github.com/Stunner/App-Update-Tracker) - Easily detect and run code upon app installation or update.
  * [ExtensionalSwift ★2](https://github.com/4taras4/SwiftExtension) - Useful swift extensions in one place 🔶[e]
  * [InAppSettingsKit ★2815](https://github.com/futuretap/InAppSettingsKit) - This iOS framework allows settings to be in-app in addition to or instead of being in the Settings app.

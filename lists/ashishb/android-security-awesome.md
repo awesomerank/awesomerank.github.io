@@ -114,7 +114,7 @@ Dynamic Analysis Tools
 27. [DroidAnalytics ★19 ⏳2Y](https://github.com/zhengmin1989/DroidAnalytics) - incomplete
 28. [Vezir Project ★51 ⏳1Y](https://github.com/oguzhantopgul/Vezir-Project) - Virtual Machine for Mobile Application Pentesting and Mobile Malware Analysis
 29. [MARA ★208](https://github.com/xtiankisutsa/MARA_Framework) - Mobile Application Reverse engineering and Analysis Framework
-30. ~~[Taintdroid](https://appanalysis.org/download.html)~~ - requires AOSP compilation
+30. [Taintdroid](http://appanalysis.org/download.html) - requires AOSP compilation
 
 Reverse Engineering
 ----

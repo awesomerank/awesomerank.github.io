@@ -53,7 +53,7 @@ title: Awesome Rank for addyosmani/es6-tools
 * Traceur: [broccoli-traceur ★30 ⏳1Y](https://github.com/sindresorhus/broccoli-traceur)
 * Regenerator: [broccoli-regenerator ★7 ⏳1Y](https://github.com/sindresorhus/broccoli-regenerator)
 * ES6 Transpiler: [broccoli-transpiler ★11 ⏳1Y](https://github.com/sindresorhus/broccoli-es6-transpiler)
-* ES6 Module Transpiler: [broccoli-es6-module-transpiler ★5 ⏳2Y](https://github.com/mmun/broccoli-es6-module-transpiler)
+* ES6 Module Transpiler: [broccoli-es6-module-transpiler ★5 ⏳3Y](https://github.com/mmun/broccoli-es6-module-transpiler)
 * ES6 fat arrow transpiler: [broccoli-es6-arrow](https://github.com/hemanth/broccoli-es6-arrow.git)
 * TypeScript: [broccoli-tsc ★1 ⏳2Y](https://github.com/ngParty/broccoli-tsc)
 
@@ -119,7 +119,7 @@ title: Awesome Rank for addyosmani/es6-tools
 
 * [generator-node-esnext ★4 ⏳3Y](https://github.com/briandipalma/generator-node-esnext) - Yeoman generator for Traceur apps
 * [generator-es6-babel ★10 ⏳2Y](https://github.com/HenriqueLimas/generator-es6-babel) - Yeoman generator for Babel apps
-* [generator-gulp-babelify ★3 ⏳1Y](https://github.com/HenriqueLimas/generator-gulp-babelify) - Yeoman generator for [Babel](https://babeljs.io/), [Browserify](http://browserify.org/) and [Gulp](http://gulpjs.com/)
+* [generator-gulp-babelify ★3 ⏳2Y](https://github.com/HenriqueLimas/generator-gulp-babelify) - Yeoman generator for [Babel](https://babeljs.io/), [Browserify](http://browserify.org/) and [Gulp](http://gulpjs.com/)
 * [grunt-init-es6](https://www.npmjs.com/package/grunt-init-es6) - scaffold node modules with unit tests, authored in ES6
 * [Loom generators with ES6 ember modules ★15 ⏳4Y](https://github.com/ryanflorence/loom-generators-ember)
 * Brunch [plugin](https://www.npmjs.com/package/es6-module-transpiler-brunch) for ES6 module transpilation

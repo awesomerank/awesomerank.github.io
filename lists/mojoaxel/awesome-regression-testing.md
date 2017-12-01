@@ -66,7 +66,7 @@ Finally, I'm sure everyone who reads this list has one thing they want to add. P
 - [Hardy ★333 ⏳2Y](https://github.com/thingsinjars/Hardy) - Selenium-driven, cucumber-powered CSS testing.
 - [TestCafe ★3581](https://github.com/DevExpress/testcafe) - Automated browser testing for the modern web development stack.
 - [Needle ★506](https://github.com/python-needle/needle) - Needle is a tool for testing visuals with Selenium and nose (Python).
-- [dpxdt [Depicted] ★1387](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
+- [dpxdt [Depicted] ★1387 ⏳1Y](https://github.com/bslatkin/dpxdt) - End-to-end testing with Python.
 - [gatling ★47 ⏳4Y](https://github.com/gabrielrotbart/gatling) - Integrated visual RSpec matcher which makes real visual testing easy (Ruby).
 - [grunt-photobox ★278 ⏳1Y](https://github.com/stefanjudis/grunt-photobox) - Plugin to prevent your project of broken layout via screenshot photo sessions of your site.
 - [vrtest ★5](https://github.com/nathanmarks/vrtest) - JavaScript library for running visual regression tests on your components cross browser via selenium.

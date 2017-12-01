@@ -371,7 +371,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [GenPhrase ★68](https://github.com/timoh6/GenPhrase) - A library for generating secure random passphrases.
 * [Password Compat ★1902](https://github.com/ircmaxell/password_compat) - A compatibility library for the new PHP 5.5 password functions.
 * [Password Policy ★54 ⏳1Y](https://github.com/ircmaxell/password-policy) - A password policy library for PHP and JavaScript.
-* [Password Validator ★137](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
+* [Password Validator ★137 ⏳1Y](https://github.com/jeremykendall/password-validator) - A library for validating and upgrading password hashes.
 * [Password-Generator ★83](https://github.com/hackzilla/password-generator) - PHP library to generate random passwords.
 * [PHP Password Lib ★365](https://github.com/ircmaxell/PHP-PasswordLib) - A library for generating and validating passwords.
 * [phpass](http://www.openwall.com/phpass/) - A portable password hashing framework.
@@ -780,7 +780,7 @@ Libraries to help manage database schemas and migrations.
 *Useful libraries or tools that don't fit in the categories above.*
 
 * [Annotations ★221](https://github.com/doctrine/annotations) - An annotations library (part of Doctrine).
-* [BotMan](https://github.com/mpociot/botman) - A framework agnostic PHP library to build cross-platform chat bots.
+* [BotMan ★3112](https://github.com/botman/botman) - A framework agnostic PHP library to build cross-platform chat bots.
 * [Cake Utility ★34](https://github.com/cakephp/utility) - Utility classes such as Inflector, String, Hash, Security and Xml (CP).
 * [Chief ★38](https://github.com/adamnicholson/Chief) - A command bus library.
 * [ClassPreloader ★229](https://github.com/ClassPreloader/ClassPreloader) - A library for optimising autoloading.

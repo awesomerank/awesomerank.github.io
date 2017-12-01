@@ -53,7 +53,7 @@ title: Awesome Rank for dhamaniasad/awesome-postgres
 * [OmniPITR ★143](https://github.com/omniti-labs/omnipitr) - Advanced WAL File Management Tools for PostgreSQL.
 * [pg\_probackup ★75](https://github.com/postgrespro/pg_probackup) – A fork of pg\_arman, improved by @PostgresPro, supports incremental backups, backups from replica, multithreaded backup and restore, and anonymous backup without archive command.
 * [pgBackRest](http://pgbackrest.org/) - Reliable PostgreSQL Backup & Restore.
-* [pg\_back ★26](https://github.com/orgrim/pg_back) - pg\_back is a simple backup script 
+* [pg\_back ★26 ⏳1Y](https://github.com/orgrim/pg_back) - pg\_back is a simple backup script 
 * [pghoard ★406](https://github.com/ohmu/pghoard) - Backup and restore tool for cloud object stores (AWS S3, Azure, Google Cloud, OpenStack Swift).
 * [wal-e ★2408](https://github.com/wal-e/wal-e) - Simple Continuous Archiving for PostgreSQL to S3, Azure, or Swift by Heroku.
 * [pitrery](https://dalibo.github.io/pitrery/) - pitrery is a set of Bash scripts to manage Point In Time Recovery (PITR) backups for PostgreSQL.

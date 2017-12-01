@@ -215,12 +215,13 @@ Table of Contents
 
 ## Log Management
 
-  * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 100 MB/month
   * [logentries.com](https://logentries.com/) — Free up to 5 GB/month with 7 days retention
   * [loggly.com](https://www.loggly.com/) — Free for a single user, see the lite option
+  * [logz.io](http://logz.io/) — Free up to 1 GB/day, 3 days retention
+  * [papertrailapp.com](https://papertrailapp.com/) — 48 hours search, 7 days archive, 100 MB/month
+  * [rollbar.com](https://rollbar.com) — Free up to 5000 events/month, 30 days retention
   * [sematext.com](https://sematext.com//logsene) — Free up to 500 MB/day, 7 days retention
   * [sumologic.com](https://www.sumologic.com/) — Free up to 500 MB/day, 7 days retention
-  * [logz.io](http://logz.io/) — Free up to 1 GB/day, 3 days retention
 
 ## Translation Management
 
@@ -397,7 +398,7 @@ Table of Contents
   * [tilda.cc](https://tilda.cc/) — One site, 50 pages, 50 MB storage, only the main pre-defined blocks among 170+ available, no fonts, no favicon and no custom domain
   * [surge.sh](https://surge.sh/) — Static web publishing for Front-End developers. Unlimited sites with custom domain support
   * [neocities.org](https://neocities.org) — Static, 1 GB free storage with 200 GB Bandwidth.
-  * [txti.es](https://txt.es) — Quickly create web pages with markdown.
+  * [txti.es](http://txti.es/) — Quickly create web pages with markdown.
 
 ## DNS
 

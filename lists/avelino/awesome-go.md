@@ -1142,7 +1142,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
     * [GoQuery ★4776](https://github.com/PuerkitoBio/goquery) - GoQuery brings a syntax and a set of features similar to jQuery to the Go language.
     * [goregen ★27 ⏳1Y](https://github.com/zach-klippenstein/goregen) - Library for generating random strings from regular expressions.
     * [gotext ★141](https://github.com/leonelquinteros/gotext) - GNU gettext utilities for Go.
-    * [guesslanguage ★34 ⏳2Y](https://github.com/endeveit/guesslanguage) - Functions to determine the natural language of a unicode text.
+    * [guesslanguage ★34 ⏳3Y](https://github.com/endeveit/guesslanguage) - Functions to determine the natural language of a unicode text.
     * [inject ★731](https://github.com/facebookgo/inject) - Package inject provides a reflect based injector.
     * [mxj ★208](https://github.com/clbanning/mxj) - Encode / decode XML as JSON or map[string]interface{}; extract values with dot-notation paths and wildcards. Replaces x2j and j2x packages.
     * [sh ★754](https://github.com/mvdan/sh) - Shell parser and formatter.
@@ -1293,7 +1293,7 @@ See [go-hardware ★572](https://github.com/rakyll/go-hardware) for a comprehens
 * [goxlsxwriter ★7](https://github.com/fterrag/goxlsxwriter) - Golang bindings for libxlsxwriter for writing XLSX (Microsoft Excel) files.
 * [gpath ★19](https://github.com/tenntenn/gpath) - Library to simplify access struct fields with Go's expression in reflection.
 * [grequests ★951](https://github.com/levigross/grequests) - Elegant and simple `net/http` wrapper that follows Python's requests library.
-* [gron ★468](https://github.com/roylee0704/gron) - Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly.
+* [gron ★468 ⏳1Y](https://github.com/roylee0704/gron) - Define time-based tasks using a simple Go API and Gron’s scheduler will run them accordingly.
 * [htcat ★442 ⏳2Y](https://github.com/htcat/htcat) - Parallel and Pipelined HTTP GET Utility.
 * [httpcontrol ★461 ⏳2Y](https://github.com/facebookgo/httpcontrol) - Package httpcontrol allows for HTTP transport level control around timeouts and retries.
 * [hub ★11610](https://github.com/github/hub) - wrap git commands with additional functionality to interact with github from the terminal.

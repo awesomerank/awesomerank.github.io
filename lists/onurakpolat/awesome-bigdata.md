@@ -220,7 +220,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [GraphLab PowerGraph](https://turi.com/products/create/docs/) - a core C++ GraphLab API and a collection of high-performance machine learning and data mining toolkits built on top of the GraphLab API.
 * [GraphX](https://amplab.cs.berkeley.edu/publication/graphx-grades/) - resilient Distributed Graph System on Spark.
 * [Gremlin ★1646](https://github.com/tinkerpop/gremlin) - graph traversal Language.
-* [Infovore ★142 ⏳2Y](https://github.com/paulhoule/infovore) - RDF-centric Map/Reduce framework.
+* [Infovore ★142 ⏳3Y](https://github.com/paulhoule/infovore) - RDF-centric Map/Reduce framework.
 * [Intel GraphBuilder](https://01.org/graphbuilder/) - tools to construct large-scale graphs on top of Hadoop.
 * [MapGraph](https://www.blazegraph.com/mapgraph-technology/) - Massively Parallel Graph processing on GPUs.
 * [Neo4j](https://neo4j.com/) - graph database writting entirely in Java.
@@ -343,7 +343,7 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [LinkedIn Kamikaze ★21 ⏳3Y](https://github.com/linkedin/kamikaze) - utility package for compressing sorted integer arrays.
 * [LinkedIn White Elephant ★186 ⏳4Y](https://github.com/linkedin/white-elephant) - log aggregator and dashboard.
 * [Logstash](https://www.elastic.co/products/logstash) - a tool for managing events and logs.
-* [Netflix Suro ★640 ⏳1Y](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
+* [Netflix Suro ★640 ⏳2Y](https://github.com/Netflix/suro) - log agregattor like Storm and Samza based on Chukwa.
 * [Pinterest Secor ★1054](https://github.com/pinterest/secor) - is a service implementing Kafka log persistance.
 * [Linkedin Gobblin](https://github.com/linkedin/gobblin) - linkedin's universal data ingestion framework.
 * [Skizze ★751 ⏳1Y](https://github.com/skizzehq/skizze) - sketch data store to deal with all problems around counting and sketching using probabilistic data-structures.

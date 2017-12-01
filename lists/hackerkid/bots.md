@@ -109,7 +109,7 @@ Table of Contents
 
 ###### C#
 * [Discord.Net ★554](https://github.com/RogueException/Discord.Net)
-* [DSharpPlus ★102](https://github.com/NaamloosDT/DSharpPlus)
+* [DSharpPlus ★156](https://github.com/NaamloosDT/DSharpPlus)
 
 ###### Python
 * [discord.py ★1542](https://github.com/Rapptz/discord.py)

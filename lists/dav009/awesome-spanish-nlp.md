@@ -24,7 +24,7 @@ Curated list of Linguistic Resources for doing Spanish NLP & CL.
 - [Stanford - POSTagger](http://nlp.stanford.edu/software/tagger.shtml)
 - [Freeling](http://nlp.lsi.upc.edu/freeling/)
 - [ixa-pipe-pos ★10](https://github.com/ixa-ehu/ixa-pipe-pos)
-- [Ruby Snowball Implementation ★3 ⏳4Y](https://github.com/MaG21/estem)
+- [Ruby Snowball Implementation ★3 ⏳5Y](https://github.com/MaG21/estem)
 - [Spaguetti POSTagger(Based on NLTK +  CESS corpus](https://code.google.com/p/spaghetti-tagger/)
 
 # Multiword Expressions  Extractors (MLWE)

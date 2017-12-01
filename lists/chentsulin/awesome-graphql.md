@@ -132,7 +132,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql-tag ★394](https://github.com/apollographql/graphql-tag) - A JavaScript template literal tag that parses GraphQL queries.
 * [modelizr ★143](https://github.com/julienvincent/modelizr) - A library for simplifying the process of writing GraphQL queries, mocking them and normalizing their responses.
 * [vue-apollo ★1194](https://github.com/Akryum/vue-apollo) - Vue integration for apollo.
-* [graphql-thinky ★57](https://github.com/fenos/graphql-thinky) - Build an optimized GraphQL schema from Thinky RethinkDB models.
+* [graphql-thinky ★57 ⏳1Y](https://github.com/fenos/graphql-thinky) - Build an optimized GraphQL schema from Thinky RethinkDB models.
 * [graphql-pouch ★124](https://github.com/MikeBild/graphql-pouch) - A GraphQL-API runtime on top of PouchDB created by GraphQL shorthand notation as a self contained service with CouchDB synchronization.
 * [gql-tools ★14](https://github.com/almilo/gql-tools) - Tool library with CLI for schema generation and manipulation.
 * [graphql-iso-date ★83](https://github.com/excitement-engineer/graphql-iso-date) - A GraphQL date scalar type to be used with GraphQL.js. This scalar represents a date in the ISO 8601 format YYYY-MM-DD.
@@ -290,7 +290,7 @@ If you want to contribute to this list (please do), send me a pull request.
 * [graphql_relay ★32](https://github.com/graphql-elixir/graphql_relay) - Relay helpers for GraphQL Elixir.
 * [graphql_parser](https://github.com/graphql-elixir/graphql_parser) - Elixir bindings for [libgraphqlparser ★464](https://github.com/graphql/libgraphqlparser)
 * [graphql ★88 ⏳2Y](https://github.com/asonge/graphql) - Elixir GraphQL parser.
-* [plot ★29 ⏳1Y](https://github.com/peburrows/plot) - GraphQL parser and resolver for Elixir.
+* [plot ★29 ⏳2Y](https://github.com/peburrows/plot) - GraphQL parser and resolver for Elixir.
 
 <a name="lib-haskell" />
 
@@ -465,7 +465,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [graphql-loader ★40 ⏳1Y](https://github.com/applification/graphql-loader) - Example project to illustrate GraphQL, Express and Facebook DataLoader to connect to third party REST API
 * [swapi-graphql-lambda ★14 ⏳1Y](https://github.com/alvinthen/swapi-graphql-lambda) - A GraphQL schema hosted in AWS Lambda wrapping http://swapi.co/
 * [Apollo Client documentation](http://dev.apollodata.com/react/) - Documentation and example for building GraphQL apps using apollo client
-* [Apollo Server tools documentation](http://dev.apollodata.com/tools/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
+* [Apollo Server tools, products, and libraries documentation](https://www.apollographql.com/docs/) - Documentation, tutorial and examples for building GraphQL server and connecting to SQL, MongoDB and REST endpoints.
 * [Apollo Link](https://www.apollographql.com/docs/link/) - The official guide for getting started with Apollo Link - a standard interface for modifying control flow of GraphQL requests and fetching GraphQL results.
 * [f8-apollo ★98](https://github.com/nnance/f8app-apollo) - Refactored version of the official F8 app of 2016, powered by React Native and the Apollo Stack.
 * [f8app ★10816](https://github.com/fbsamples/f8app) - Source code of the official F8 app of 2016, powered by React Native and other Facebook open source projects. [http://makeitopen.com](http://makeitopen.com)
@@ -480,6 +480,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 * [ReactQL starter kit](https://reactql.org) - Universal React + Apollo + Redux + React Router 4, with SSR-enabled GraphQL, store (de/re)hydration and production code bundling.
 * [microhn ★65 ⏳1Y](https://github.com/stubailo/microhn) - Simple Hacker News client built on top of GraphQLHub
 * [Apollo Web&Mobile Universal Starter Kit with Hot Code Reload ★424](https://github.com/sysgears/apollo-universal-starter-kit) -  Apollo, GraphQL, React, React Native, Expo, Redux, Express, SQL and Twitter Bootstrap. Hot Code Reload of back end & front end using Webpack and Hot Module Replacement.
+* [Building Decoupled Sites and Apps with GraphQL and Next.js](https://malloc.fi/building-decoupled-sites-and-apps-with-graphql-and-next-js)
 
 <a name="example-ts" />
 
@@ -529,6 +530,7 @@ Boilerplate + examples for React Native (iOS, Android), React (isomorphic, Mater
 ### PHP Examples
 * [Siler's GraphQL guide](https://siler.leocavalcante.com/graphql/) - A guide on how to build a PHP GraphQL endpoint.
 * [Laravel GraphQL ★24](https://github.com/ardani/laravel-graphql) - A sample integrating GraphQL with Laravel
+* [Adding a GraphQL API to your Symfony Flex application](https://symfony.fi/entry/adding-a-graphql-api-to-your-symfony-flex-app)
 
 <a name="example-reasonml" />
 
