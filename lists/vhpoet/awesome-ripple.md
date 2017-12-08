@@ -58,21 +58,21 @@ Pull requests are more then welcome.
 
 #### Code
 ###### Rippled - The Guy!
-- [rippled ★1651](https://github.com/ripple/rippled): Ripple peer-to-peer network daemon
+- [rippled ★1710](https://github.com/ripple/rippled): Ripple peer-to-peer network daemon
 
 ###### Libs - Libraries for talking to the Ripple API
-- [ripple-rest ★66](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
-- [ripple-lib ★481](https://github.com/ripple/ripple-lib): Java Script
+- [ripple-rest ★68](https://github.com/ripple/ripple-rest): A RESTful API for submitting payments and monitoring accounts on the Ripple Network
+- [ripple-lib ★490](https://github.com/ripple/ripple-lib): Java Script
 - [ripple-lib-java ★74](https://github.com/ripple/ripple-lib-java): Java
 - [ripple-lib-ruby ★4 ⏳3Y](https://github.com/kevinejohn/ripple-lib-rpc-ruby): Ruby
 - [ripple-python ★22](https://github.com/miracle2k/ripple-python): Python Lib
 - [ripple-haskell ★1 ⏳2Y](https://github.com/singpolyma/ripple-haskell): Haskell
-- [rubblelabs/ripple ★30](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
-- [RippleKit ★3](https://github.com/xasos/RippleKit): Swift
+- [rubblelabs/ripple ★34](https://github.com/rubblelabs/ripple): Go packages to interact with the Ripple protocol
+- [RippleKit ★4](https://github.com/xasos/RippleKit): Swift
 
 ###### Clients / Apps
-- [ripple-client ★1276](https://github.com/ripple/ripple-client): Web client
-- [ripple-client-desktop ★65 ⏳1Y](https://github.com/ripple/ripple-client-desktop): Desktop client
+- [ripple-client ★1286](https://github.com/ripple/ripple-client): Web client
+- [ripple-client-desktop ★70 ⏳1Y](https://github.com/ripple/ripple-client-desktop): Desktop client
 - [ripple-client-ios ★33 ⏳3Y](https://github.com/ripple-unmaintained/ripple-client-ios): iOS client
 - [ripplecharts](https://github.com/ripple/ripplecharts/): RippleCharts.com Charting Website
 - [ripple-graph ★21 ⏳3Y](https://github.com/ripple-unmaintained/ripple-graph): Ripple graph
@@ -85,7 +85,7 @@ Pull requests are more then welcome.
 - [ripple-blobvault ★32 ⏳1Y](https://github.com/ripple/ripple-blobvault): Server for storing persistent data for Ripple clients
 - [ripple-authd ★6 ⏳2Y](https://github.com/ripple/ripple-authd): Ripple peer-assisted key derivation server
 - [rippled-historical-database ★31](https://github.com/ripple/rippled-historical-database): SQL database as a canonical source of historical data in Ripple
-- [ripple-data-api ★45 ⏳2Y](https://github.com/ripple/ripple-data-api)
+- [ripple-data-api ★46 ⏳2Y](https://github.com/ripple/ripple-data-api)
 - [ripple-vault-client](ripple-vault-client)
 - [federation-php ★9 ⏳4Y](https://github.com/ripple-unmaintained/federation-php): Simple PHP federation endpoint with a static JSON dataset
 - [federation-python ★2 ⏳3Y](https://github.com/miracle2k/ripple-federation-python): Python module for a simple federation endpoint.
@@ -93,7 +93,7 @@ Pull requests are more then welcome.
 - [Ripple Gen ★19 ⏳4Y](https://github.com/CodeShark/RippleGen)
 - [Ripple Checkout ★6 ⏳3Y](https://github.com/emschwartz/ripple-donate-widget): An embeddable widget for paying with Ripple.
 - [Magento plugin](http://www.magentocommerce.com/magento-connect/ripple-json-rpc.html)
-- [rubblelabs/tx ★10 ⏳2Y](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
+- [rubblelabs/tx ★11 ⏳2Y](https://github.com/rubblelabs/tx): Tool for executing transactions on the Ripple network
 
 #### Hosted Tools
 ###### Clients

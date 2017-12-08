@@ -171,7 +171,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Bootstrap Multiselect ★2776](https://github.com/davidstutz/bootstrap-multiselect) - Multiselect for Bootstrap.
 * [File Upload ★27844](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag&drop support, progress bar, validation and preview images, audio and video.
 * [Ideal Forms ★755 ⏳2Y](https://github.com/elclanrs/jq-idealforms) - Framework for building and validating responsive HTML5 forms.
-* [jQuery Form Plugin ★4327](https://github.com/jquery-form/form) - Easy and unobtrusive HTML forms upgrade to use AJAX.
+* [jQuery Form Plugin ★4366](https://github.com/jquery-form/form) - Easy and unobtrusive HTML forms upgrade to use AJAX.
 * [jquery-minicolors ★858](https://github.com/claviska/jquery-minicolors) - A tiny color picker plugin.
 * [Justified Gallery ★1030](https://github.com/miromannino/Justified-Gallery) - Allows you to create a gallery with a justified grid.
 * [Labelauty ★891](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful plugin for radio and checkbox inputs.
@@ -296,7 +296,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [FormValidation ★2739](https://github.com/formvalidation/formvalidation) - Form fields validator, designed for Bootstrap, Foundation, Pure, Semantic UI, UIKit and other frameworks.
 * [h5Validate ★587 ⏳1Y](https://github.com/ericelliott/h5Validate) - An HTML5 form validation plugin for jQuery.
 * [jQuery Form Validator ★846](https://github.com/victorjonsson/jQuery-Form-Validator) - Validate user input while keeping your HTML markup clean from JavaScript code.
-* [jquery-validation ★8219](https://github.com/jquery-validation/jquery-validation) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
+* [jquery-validation ★8318](https://github.com/jquery-validation/jquery-validation) - Drop-in validation for your existing forms, while making all kinds of customizations to fit your application really easy.
 * [jQuery.validationEngine ★2477](https://github.com/posabsolute/jQuery-Validation-Engine) - Validation of form fields in the browser.
 
 [Back to top](#awesome-jquery)
@@ -312,7 +312,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
 * [Slugify ★85 ⏳2Y](https://github.com/pmcelhaney/jQuery-Slugify-Plugin) - Creates a URL slug as you type a page title (like Django slugify()).
 * [Readmore.js ★1183](https://github.com/jedfoster/Readmore.js) - A lightweight jQuery plugin for collapsing and expanding long blocks of text with "Read more" and "Close" links.
 * [Yahoo! Emoticons](http://michael-designs.com/yahoo-emoticons-jquery-plugin/) - Yahoo! Emoticons JQuery Plugin.
-* [autoNumberic ★658](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
+* [autoNumberic ★678](https://github.com/autoNumeric/autoNumeric) - autoNumeric is a standalone library that provides live as-you-type formatting for international numbers and currencies.
 
 [Back to top](#awesome-jquery)
 
@@ -365,7 +365,7 @@ A curated list of awesome [jQuery](http://jquery.com/) plugins, resources and ot
     * [django-static-jquery](https://pypi.python.org/pypi/django-static-jquery/) - jQuery packaged in an handy Django app to speed up new applications and deployment.
 * Ruby:
     * [jquery-rails ★740](https://github.com/rails/jquery-rails) - A gem to automate using jQuery with Rails.
-    * [jquery-ui-rails ★1084](https://github.com/jquery-ui-rails/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
+    * [jquery-ui-rails ★1091](https://github.com/jquery-ui-rails/jquery-ui-rails) - jQuery UI for the Rails asset pipeline.
 
 [Back to top](#awesome-jquery)
 

@@ -48,16 +48,16 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [Raptor](https://developer.mozilla.org/en-US/Firefox_OS/Automated_testing/Raptor) - Performance testing CLI for Firefox developers.
 - [iTunes-remote ★274](https://github.com/mischah/itunes-remote) - Control iTunes on the CLI.
 - [phunt ★97 ⏳1Y](https://github.com/Kristories/phunt) - Access [Product Hunt](https://www.producthunt.com/) on the CLI. *Trended on (you guessed it) Product Hunt.*
-- [trelew ★69 ⏳1Y](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
-- [wat ★378 ⏳1Y](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
+- [trelew ★68 ⏳1Y](https://github.com/websitesfortrello/trelew) - Access [Trello](https://trello.com/) on the CLI.
+- [wat ★382 ⏳1Y](https://github.com/dthree/wat) - Community-built docs for every language, platform and library.
 - [metronome ★6 ⏳2Y](https://github.com/AljoschaMeyer/metronome-cli) - A live metronome on the CLI.
 - [fastack ★27 ⏳1Y](https://github.com/fastack/cli) - A zero-config tool that makes developing client-side apps easy.
 - [cbcluster](https://www.npmjs.com/package/cbcluster) - CLI for Couchbase Server Clusters.
 - [quotr ★60 ⏳1Y](https://github.com/andrerpena/quotr) - View stock exchange quotes.
 - [Vantage ★3361](https://github.com/dthree/vantage) - `CLI` + `SSH` + `REPL` for your live Node app.
-- [birdknife ★22 ⏳1Y](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI.
-- [tv-remote-cli ★15](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV.
-- [launch ★26](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more
+- [birdknife ★23 ⏳1Y](https://github.com/vanita5/birdknife) - A full featured [Twitter](https://twitter.com/) CLI.
+- [tv-remote-cli ★16](https://github.com/Glavin001/tv-remote-cli) - CLI for remotely controlling your Smart TV.
+- [launch ★27](https://github.com/NewSpring/meteor-launch) - Automating meteor builds to the AppStore, TestFlight, Hockey, Google Play, and more
 - [lifxsh ★4](https://github.com/ristomatti/lifxsh) - Interactive shell for controlling [LIFX](http://www.lifx.com) smart lights.
 
 ## Extensions
@@ -67,12 +67,12 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 #### POSIX implementations
 
 - [less ★11 ⏳1Y](https://github.com/vorpaljs/vorpal-less) - Implementation of the `less` command.
-- [grep ★9 ⏳1Y](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command.
+- [grep ★10 ⏳1Y](https://github.com/vorpaljs/vorpal-grep) - Implementation of the `grep` command.
 
 #### Development tools
 
 - [repl ★13 ⏳2Y](https://github.com/vorpaljs/vorpal-repl) - Drops your CLI into a REPL within your app's context.
-- [tour ★11 ⏳2Y](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
+- [tour ★12 ⏳2Y](https://github.com/vorpaljs/vorpal-tour) - Build an interactive tour for your Vorpal app.
 - [watch ★2 ⏳2Y](https://github.com/vantagejs/vantage-watch) - Updates your live Vorpal extensions in realtime.
 - [log ★9 ⏳1Y](https://github.com/AljoschaMeyer/vorpal-log) - Advanced logging utility.
 - [set-or-print ★3 ⏳2Y](https://github.com/AljoschaMeyer/vorpal-setorprint) - Easily set / get arguments with commands.

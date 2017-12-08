@@ -102,7 +102,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [WebExtensions ★179](lists/bfred-it/Awesome-WebExtensions.md) - Cross-browser extension system.
 - [RubyMotion ★52](lists/motion-open-source/awesome-rubymotion.md) - Write cross-platform native apps for iOS, Android, macOS, tvOS, and watchOS in Ruby.
 - [Smart TV ★43](lists/vitalets/awesome-smart-tv.md) - Create apps for different TV platforms.
-- [GNOME ★29](lists/Kazhnuz/awesome-gnome.md) - Simple and distraction-free desktop environment for Linux.
+- [GNOME ★44](lists/Kazhnuz/awesome-gnome.md) - Simple and distraction-free desktop environment for Linux.
 
 
 ## Programming Languages
@@ -114,51 +114,51 @@ title: Awesome Rank for sindresorhus/awesome
 	- [Tips ★10599](lists/loverajoel/jstips.md)
 	- [Network Layer ★342](lists/Kikobeats/awesome-network-js.md)
 	- [Micro npm Packages ★1040](lists/parro-it/awesome-micro-npm-packages.md)
-	- [Mad Science npm Packages ★638](lists/feross/awesome-mad-science.md) - Impossible sounding projects that exist.
-	- [Maintenance Modules ★299 ⏳1Y](lists/maxogden/maintenance-modules.md) - For npm packages.
+	- [Mad Science npm Packages ★651](lists/feross/awesome-mad-science.md) - Impossible sounding projects that exist.
+	- [Maintenance Modules ★302 ⏳1Y](lists/maxogden/maintenance-modules.md) - For npm packages.
 	- [npm ★2667](lists/sindresorhus/awesome-npm.md) - Package manager.
-	- [AVA ★227](lists/avajs/awesome-ava.md) - Test runner.
-	- [ESLint ★977](lists/dustinspecker/awesome-eslint.md) - Linter.
-	- [Functional Programming ★2147](lists/stoeffel/awesome-fp-js.md)
+	- [AVA ★231](lists/avajs/awesome-ava.md) - Test runner.
+	- [ESLint ★1024](lists/dustinspecker/awesome-eslint.md) - Linter.
+	- [Functional Programming ★2262](lists/stoeffel/awesome-fp-js.md)
 	- [Observables ★207 ⏳1Y](lists/sindresorhus/awesome-observables.md)
-	- [npm scripts ★321](lists/RyanZim/awesome-npm-scripts.md) - Task runner.
+	- [npm scripts ★336](lists/RyanZim/awesome-npm-scripts.md) - Task runner.
 - [Swift ★13277](lists/matteocrippa/awesome-swift.md)
 	- [Education ★5273](lists/hsavit1/Awesome-Swift-Education.md)
 	- [Playgrounds ★1887](lists/uraimo/Awesome-Swift-Playgrounds.md)
-- [Python ★40545](lists/vinta/awesome-python.md)
-	- [Asyncio ★300](lists/timofurrer/awesome-asyncio.md) - Asynchronous I/O in Python 3.
-	- [Scientific Audio ★105](lists/faroit/awesome-python-scientific-audio.md) - Scientific research in audio/music.
-- [Rust ★5474](lists/rust-unofficial/awesome-rust.md)
-- [Haskell ★1255](lists/krispo/awesome-haskell.md)
-- [PureScript ★155](lists/passy/awesome-purescript.md)
-- [Go ★24821](lists/avelino/awesome-go.md)
-- [Scala ★5356](lists/lauris/awesome-scala.md)
-- [Ruby ★7886](lists/markets/awesome-ruby.md)
-	- [Events ★195](lists/planetruby/awesome-events.md)
-- [Clojure ★1142](lists/razum2um/awesome-clojure.md)
-- [ClojureScript ★530](lists/hantuzun/awesome-clojurescript.md)
-- [Elixir ★7253](lists/h4cc/awesome-elixir.md)
-- [Elm ★2383](lists/isRuslan/awesome-elm.md)
-- [Erlang ★750](lists/drobakowski/awesome-erlang.md)
-- [Julia ★519](lists/svaksha/Julia.jl.md)
-- [Lua ★1510](lists/LewisJEllis/awesome-lua.md)
+- [Python ★42063](lists/vinta/awesome-python.md)
+	- [Asyncio ★351](lists/timofurrer/awesome-asyncio.md) - Asynchronous I/O in Python 3.
+	- [Scientific Audio ★136](lists/faroit/awesome-python-scientific-audio.md) - Scientific research in audio/music.
+- [Rust ★5736](lists/rust-unofficial/awesome-rust.md)
+- [Haskell ★1289](lists/krispo/awesome-haskell.md)
+- [PureScript ★163](lists/passy/awesome-purescript.md)
+- [Go ★25806](lists/avelino/awesome-go.md)
+- [Scala ★5445](lists/lauris/awesome-scala.md)
+- [Ruby ★8043](lists/markets/awesome-ruby.md)
+	- [Events ★196](lists/planetruby/awesome-events.md)
+- [Clojure ★1174](lists/razum2um/awesome-clojure.md)
+- [ClojureScript ★543](lists/hantuzun/awesome-clojurescript.md)
+- [Elixir ★7409](lists/h4cc/awesome-elixir.md)
+- [Elm ★2419](lists/isRuslan/awesome-elm.md)
+- [Erlang ★773](lists/drobakowski/awesome-erlang.md)
+- [Julia ★539](lists/svaksha/Julia.jl.md)
+- [Lua ★1545](lists/LewisJEllis/awesome-lua.md)
 - [C ★785](lists/aleksandar-todorovic/awesome-c.md)
 - [C/C++ ★10260](lists/fffaraz/awesome-cpp.md)
-- [R ★2457](lists/qinwf/awesome-R.md)
-- [D ★256](lists/zhaopuming/awesome-d.md)
-- [Common Lisp ★537](lists/CodyReichert/awesome-cl.md)
+- [R ★2562](lists/qinwf/awesome-R.md)
+- [D ★261](lists/zhaopuming/awesome-d.md)
+- [Common Lisp ★559](lists/CodyReichert/awesome-cl.md)
 - [Perl ★369](lists/hachiojipm/awesome-perl.md)
-- [Groovy ★406](lists/kdabir/awesome-groovy.md)
-- [Dart ★274](lists/yissachar/awesome-dart.md)
+- [Groovy ★413](lists/kdabir/awesome-groovy.md)
+- [Dart ★289](lists/yissachar/awesome-dart.md)
 - [Java ★14672](lists/akullpp/awesome-java.md)
-	- [RxJava ★145 ⏳1Y](lists/eleventigers/awesome-rxjava.md)
-- [Kotlin ★3198](lists/KotlinBy/awesome-kotlin.md)
+	- [RxJava ★153 ⏳1Y](lists/eleventigers/awesome-rxjava.md)
+- [Kotlin ★3563](lists/KotlinBy/awesome-kotlin.md)
 - [OCaml ★1103](lists/rizo/awesome-ocaml.md)
 - [ColdFusion ★46](lists/seancoyne/awesome-coldfusion.md)
 - [Fortran ★124](lists/rabbiabram/awesome-fortran.md)
 - [.NET ★5523](lists/quozd/awesome-dotnet.md)
 	- [Core ★3400](lists/thangchung/awesome-dotnet-core.md)
-- [PHP ★17013](lists/ziadoz/awesome-php.md)
+- [PHP ★17326](lists/ziadoz/awesome-php.md)
 	- [Composer ★248](lists/jakoch/awesome-composer.md) - Package manager.
 - [Delphi ★366](lists/Fr0sT-Brutal/awesome-delphi.md)
 - [Assembler ★194](lists/jaspergould/awesome-asm.md)
@@ -167,7 +167,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Crystal ★1329](lists/veelenga/awesome-crystal.md)
 - [Frege ★13](lists/sfischer13/awesome-frege.md) - Haskell for the JVM.
 - [CMake ★910](lists/onqtam/awesome-cmake.md) - Build, test, and package software.
-- [ActionScript 3 ★38](lists/robinrodricks/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
+- [ActionScript 3 ★52](lists/robinrodricks/awesome-actionscript3.md) - Object-oriented language targeting Adobe AIR.
 - [Eta ★27](lists/sfischer13/awesome-eta.md) - Functional programming language for the JVM.
 - [Idris ★48](lists/joaomilho/awesome-idris.md) - General purpose pure functional programming language with dependent types influenced by Haskell and ML.
 
@@ -240,11 +240,11 @@ title: Awesome Rank for sindresorhus/awesome
 
 ## Back-End Development
 
-- [Django ★6310](lists/rosarior/awesome-django.md)
-- [Flask ★4488](lists/humiaozuzu/awesome-flask.md)
+- [Django ★6528](lists/rosarior/awesome-django.md)
+- [Flask ★4626](lists/humiaozuzu/awesome-flask.md)
 - [Docker ★8615](lists/veggiemonk/awesome-docker.md)
 - [Vagrant ★291](lists/iJackUA/awesome-vagrant.md)
-- [Pyramid ★381](lists/uralbash/awesome-pyramid.md)
+- [Pyramid ★387](lists/uralbash/awesome-pyramid.md)
 - [Play1 Framework ★35 ⏳1Y](lists/PerfectCarl/awesome-play1.md)
 - [CakePHP ★606](lists/friendsofcake/awesome-cakephp.md) - PHP framework.
 - [Symfony](https://github.com/sitepoint/awesome-symfony)
@@ -269,23 +269,23 @@ title: Awesome Rank for sindresorhus/awesome
 - [University Courses ★21568](lists/prakhar1989/awesome-courses.md)
 - [Data Science ★4788](lists/bulutyazilim/awesome-datascience.md)
 	- [Tutorials ★166](lists/siboehm/awesome-learn-datascience.md)
-- [Machine Learning ★27278](lists/josephmisiti/awesome-machine-learning.md)
+- [Machine Learning ★28131](lists/josephmisiti/awesome-machine-learning.md)
 	- [Tutorials ★5434](lists/ujjwalkarn/Machine-Learning-Tutorials.md)
 	- [ML with Ruby ★717](lists/arbox/machine-learning-with-ruby.md) - Learning, implementing, and applying Machine Learning using Ruby.
 	- [Core ML Models ★1841](lists/likedan/Awesome-CoreML-Models.md) - Models for Apple's machine learning framework.
 - [Speech and Natural Language Processing ★1592 ⏳1Y](lists/edobashira/speech-language-processing.md)
 	- [Spanish ★115 ⏳1Y](lists/dav009/awesome-spanish-nlp.md)
-	- [NLP with Ruby ★665](lists/arbox/nlp-with-ruby.md)
+	- [NLP with Ruby ★679](lists/arbox/nlp-with-ruby.md)
 - [Linguistics ★82](lists/theimpossibleastronaut/awesome-linguistics.md)
 - [Cryptography ★739](lists/sobolevn/awesome-cryptography.md)
 - [Computer Vision ★3738](lists/jbhuang0604/awesome-computer-vision.md)
-- [Deep Learning ★6161](lists/ChristosChristofidis/awesome-deep-learning.md) - Neural networks.
+- [Deep Learning ★6549](lists/ChristosChristofidis/awesome-deep-learning.md) - Neural networks.
 	- [TensorFlow ★9359](lists/jtoy/awesome-tensorflow.md) - Library for machine intelligence.
 	- [Papers ★12611](lists/terryum/awesome-deep-learning-papers.md) - The most cited deep learning papers.
 	- [Education ★654](lists/guillaume-chevalier/awesome-deep-learning-resources.md)
 - [Deep Vision ★5437](lists/kjw0612/awesome-deep-vision.md)
 - [Open Source Society University](https://github.com/open-source-society/computer-science)
-- [Functional Programming ★303](lists/lucasviola/awesome-functional-programming.md)
+- [Functional Programming ★313](lists/lucasviola/awesome-functional-programming.md)
 - [Static Analysis & Code Quality ★1967](lists/mre/awesome-static-analysis.md)
 - [Information Retrieval ★131](lists/harpribot/awesome-information-retrieval.md) - Learn to develop your own search engine.
 
@@ -302,9 +302,9 @@ title: Awesome Rank for sindresorhus/awesome
 
 ## Theory
 
-- [Papers We Love ★25580](lists/papers-we-love/papers-we-love.md)
-- [Talks ★1956](lists/JanVanRyswyck/awesome-talks.md)
-- [Algorithms ★3105](lists/tayllan/awesome-algorithms.md)
+- [Papers We Love ★27614](lists/papers-we-love/papers-we-love.md)
+- [Talks ★1990](lists/JanVanRyswyck/awesome-talks.md)
+- [Algorithms ★3234](lists/tayllan/awesome-algorithms.md)
 - [Algorithm Visualizations ★754](lists/enjalot/algovis.md)
 - [Artificial Intelligence ★3091](lists/owainlewis/awesome-artificial-intelligence.md)
 - [Search Engine Optimization ★621](lists/marcobiedermann/search-engine-optimization.md)
@@ -317,8 +317,8 @@ title: Awesome Rank for sindresorhus/awesome
 
 - [Free Programming Books ★97291](lists/EbookFoundation/free-programming-books.md)
 - [Free Software Testing Books](https://github.com/ligurio/free-software-testing-books/blob/master/free-software-testing-books.md)
-- [Go Books ★4078](lists/dariubs/GoBooks.md)
-- [R Books ★71](lists/RomanTsegelskyi/rbooks.md)
+- [Go Books ★4242](lists/dariubs/GoBooks.md)
+- [R Books ★76](lists/RomanTsegelskyi/rbooks.md)
 - [Mind Expanding Books ★2853](lists/hackerkid/Mind-Expanding-Books.md)
 - [Book Authoring ★63](lists/TalAter/awesome-book-authoring.md)
 - [Elixir Books ★425](lists/sger/ElixirBooks.md)
@@ -341,7 +341,7 @@ title: Awesome Rank for sindresorhus/awesome
 - [Open Source Games ★9921](lists/leereilly/games.md)
 - [Unity ★1556](lists/RyanNielson/awesome-unity.md) - Game engine.
 - [Chess ★74](lists/hkirat/awesome-chess.md)
-- [LÖVE ★772](lists/love2d-community/awesome-love2d.md) - Game engine.
+- [LÖVE ★807](lists/love2d-community/awesome-love2d.md) - Game engine.
 - [PICO-8 ★684](lists/felipebueno/awesome-PICO-8.md) - Fantasy console.
 - [Game Boy Development ★585](lists/avivace/awesome-gbdev.md)
 - [Construct 2 ★9](lists/armaldio/awesome-construct.md) - Game engine.
@@ -357,232 +357,232 @@ title: Awesome Rank for sindresorhus/awesome
 - [Fish](https://github.com/jbucaran/awesome-fish) - User-friendly shell.
 - [Command-Line Apps](https://github.com/aharris88/awesome-cli-apps)
 - [ZSH Plugins ★3434](lists/unixorn/awesome-zsh-plugins.md)
-- [GitHub ★316](lists/phillipadsmith/awesome-github.md) - Hosting service for Git repositories.
-	- [Browser Extensions ★919](lists/stefanbuck/awesome-browser-extensions-for-github.md)
-	- [Cheat Sheet ★23458](lists/tiimgreen/github-cheat-sheet.md)
-- [Git Cheat Sheet & Git Flow ★1677](lists/arslanbilal/git-cheat-sheet.md)
-- [Git Tips ★11368](lists/git-tips/tips.md)
-- [Git Add-ons ★532](lists/stevemao/awesome-git-addons.md) - Enhance the `git` CLI.
-- [SSH ★640](lists/moul/awesome-ssh.md)
+- [GitHub ★321](lists/phillipadsmith/awesome-github.md) - Hosting service for Git repositories.
+	- [Browser Extensions ★947](lists/stefanbuck/awesome-browser-extensions-for-github.md)
+	- [Cheat Sheet ★23818](lists/tiimgreen/github-cheat-sheet.md)
+- [Git Cheat Sheet & Git Flow ★1710](lists/arslanbilal/git-cheat-sheet.md)
+- [Git Tips ★11721](lists/git-tips/tips.md)
+- [Git Add-ons ★557](lists/stevemao/awesome-git-addons.md) - Enhance the `git` CLI.
+- [SSH ★670](lists/moul/awesome-ssh.md)
 - [FOSS for Developers](https://github.com/httpsGithubParty/FOSS-for-Dev)
-- [Hyper ★4680](lists/bnb/awesome-hyper.md) - Cross-platform terminal app built on web technologies.
-- [PowerShell ★332](lists/janikvonrotz/awesome-powershell.md) - Cross-platform object-oriented shell.
-- [Alfred Workflows ★593](lists/derimagia/awesome-alfred-workflows.md) - Productivity app for macOS.
+- [Hyper ★4947](lists/bnb/awesome-hyper.md) - Cross-platform terminal app built on web technologies.
+- [PowerShell ★372](lists/janikvonrotz/awesome-powershell.md) - Cross-platform object-oriented shell.
+- [Alfred Workflows ★644](lists/derimagia/awesome-alfred-workflows.md) - Productivity app for macOS.
 - [Terminals Are Sexy ★5462](lists/k4m4/terminals-are-sexy.md)
 
 
 ## Entertainment
 
-- [Science Fiction ★1478](lists/sindresorhus/awesome-scifi.md) - Scifi.
-- [Fantasy ★259](lists/RichardLitt/awesome-fantasy.md)
-- [Podcasts ★1010](lists/guipdutra/awesome-geek-podcasts.md)
-- [Email Newsletters ★622](lists/vredniy/awesome-newsletters.md)
-- [IT Quotes ★58](lists/victorlaerte/awesome-it-quotes.md)
+- [Science Fiction ★1547](lists/sindresorhus/awesome-scifi.md) - Scifi.
+- [Fantasy ★274](lists/RichardLitt/awesome-fantasy.md)
+- [Podcasts ★1037](lists/guipdutra/awesome-geek-podcasts.md)
+- [Email Newsletters ★681](lists/vredniy/awesome-newsletters.md)
+- [IT Quotes ★67](lists/victorlaerte/awesome-it-quotes.md)
 
 
 ## Databases
 
-- [Database ★514](lists/numetriclabz/awesome-db.md)
+- [Database ★535](lists/numetriclabz/awesome-db.md)
 - [MySQL](https://github.com/shlomi-noach/awesome-mysql/blob/gh-pages/index.md)
-- [SQLAlchemy ★1483](lists/dahlia/awesome-sqlalchemy.md)
-- [InfluxDB ★347](lists/mark-rushakoff/awesome-influxdb.md)
-- [Neo4j ★174](lists/neueda/awesome-neo4j.md)
-- [MongoDB ★569](lists/ramnes/awesome-mongodb.md) - NoSQL database.
+- [SQLAlchemy ★1518](lists/dahlia/awesome-sqlalchemy.md)
+- [InfluxDB ★366](lists/mark-rushakoff/awesome-influxdb.md)
+- [Neo4j ★182](lists/neueda/awesome-neo4j.md)
+- [MongoDB ★599](lists/ramnes/awesome-mongodb.md) - NoSQL database.
 - [RethinkDB ★74 ⏳1Y](lists/d3viant0ne/awesome-rethinkdb.md)
-- [TinkerPop ★54](lists/mohataher/awesome-tinkerpop.md) - Graph computing framework.
-- [PostgreSQL ★3652](lists/dhamaniasad/awesome-postgres.md) - Object-relational database.
-- [CouchDB ★43](lists/quangv/awesome-couchdb.md) - Document-oriented NoSQL database.
+- [TinkerPop ★58](lists/mohataher/awesome-tinkerpop.md) - Graph computing framework.
+- [PostgreSQL ★3748](lists/dhamaniasad/awesome-postgres.md) - Object-relational database.
+- [CouchDB ★45](lists/quangv/awesome-couchdb.md) - Document-oriented NoSQL database.
 - [HBase ★34](lists/rayokota/awesome-hbase.md) - Distributed, scalable, big data store.
 
 
 ## Media
 
-- [Creative Commons Media ★185](lists/shime/creative-commons-media.md)
-- [Fonts ★273](lists/brabadu/awesome-fonts.md)
+- [Creative Commons Media ★188](lists/shime/creative-commons-media.md)
+- [Fonts ★284](lists/brabadu/awesome-fonts.md)
 - [Codeface ★4276](lists/chrissimpkins/codeface.md) - Text editor fonts.
-- [Stock Resources ★6066](lists/neutraltone/awesome-stock-resources.md)
-- [GIF ★246](lists/davisonio/awesome-gif.md) - Image format known for animated images.
-- [Music ★249](lists/ciconia/awesome-music.md)
-- [Open Source Documents ★964](lists/hubtee/awesome-opensource-documents.md)
-- [Audio Visualization ★1475](lists/willianjusten/awesome-audio-visualization.md)
-- [Broadcasting ★212](lists/ebu/awesome-broadcasting.md)
-- [Pixel Art ★165](lists/Siilwyn/awesome-pixel-art.md) - Pixel-level digital art.
+- [Stock Resources ★6116](lists/neutraltone/awesome-stock-resources.md)
+- [GIF ★251](lists/davisonio/awesome-gif.md) - Image format known for animated images.
+- [Music ★257](lists/ciconia/awesome-music.md)
+- [Open Source Documents ★971](lists/hubtee/awesome-opensource-documents.md)
+- [Audio Visualization ★1544](lists/willianjusten/awesome-audio-visualization.md)
+- [Broadcasting ★232](lists/ebu/awesome-broadcasting.md)
+- [Pixel Art ★179](lists/Siilwyn/awesome-pixel-art.md) - Pixel-level digital art.
 
 
 ## Learn
 
-- [CLI Workshoppers ★305 ⏳1Y](lists/therebelrobot/awesome-workshopper.md) - Interactive tutorials.
-- [Learn to Program ★359](lists/karlhorky/learn-to-program.md)
-- [Speaking ★554](lists/matteofigus/awesome-speaking.md)
-- [Tech Videos ★246](lists/lucasviola/awesome-tech-videos.md)
+- [CLI Workshoppers ★310 ⏳1Y](lists/therebelrobot/awesome-workshopper.md) - Interactive tutorials.
+- [Learn to Program ★379](lists/karlhorky/learn-to-program.md)
+- [Speaking ★578](lists/matteofigus/awesome-speaking.md)
+- [Tech Videos ★254 ⏳1Y](lists/lucasviola/awesome-tech-videos.md)
 - [Dive into Machine Learning ★7468](lists/hangtwenty/dive-into-machine-learning.md)
-- [Computer History ★820](lists/watson/awesome-computer-history.md)
-- [Programming for Kids ★390](lists/HollyAdele/awesome-programming-for-kids.md)
-- [Educational Games ★103](lists/yrgo/awesome-eg.md) - Learn while playing.
-- [JavaScript Learning ★639](lists/micromata/awesome-javascript-learning.md)
+- [Computer History ★848](lists/watson/awesome-computer-history.md)
+- [Programming for Kids ★396](lists/HollyAdele/awesome-programming-for-kids.md)
+- [Educational Games ★110](lists/yrgo/awesome-eg.md) - Learn while playing.
+- [JavaScript Learning ★708](lists/micromata/awesome-javascript-learning.md)
 
 
 ## Security
 
-- [Application Security ★2709](lists/paragonie/awesome-appsec.md)
-- [Security ★2207](lists/sbilly/awesome-security.md)
-- [CTF ★1537](lists/apsdehal/awesome-ctf.md) - Capture The Flag.
-- [Malware Analysis ★2785](lists/rshipp/awesome-malware-analysis.md)
-- [Android Security ★2537](lists/ashishb/android-security-awesome.md)
-- [Hacking ★3122](lists/carpedm20/awesome-hacking.md)
-- [Honeypots ★1870](lists/paralax/awesome-honeypots.md) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
-- [Incident Response ★1517](lists/meirwah/awesome-incident-response.md)
-- [Vehicle Security and Car Hacking ★614](lists/jaredthecoder/awesome-vehicle-security.md)
-- [Web Security ★793](lists/qazbnm456/awesome-web-security.md) - Security of web apps & services.
-- [Lockpicking ★133](lists/meitar/awesome-lockpicking.md) - The art of unlocking a lock by manipulating its components without the key.
+- [Application Security ★2755](lists/paragonie/awesome-appsec.md)
+- [Security ★2325](lists/sbilly/awesome-security.md)
+- [CTF ★1670](lists/apsdehal/awesome-ctf.md) - Capture The Flag.
+- [Malware Analysis ★2937](lists/rshipp/awesome-malware-analysis.md)
+- [Android Security ★2634](lists/ashishb/android-security-awesome.md)
+- [Hacking ★3235](lists/carpedm20/awesome-hacking.md)
+- [Honeypots ★1941](lists/paralax/awesome-honeypots.md) - Deception trap, designed to entice an attacker into attempting to compromise the information systems in an organization.
+- [Incident Response ★1602](lists/meirwah/awesome-incident-response.md)
+- [Vehicle Security and Car Hacking ★644](lists/jaredthecoder/awesome-vehicle-security.md)
+- [Web Security ★865](lists/qazbnm456/awesome-web-security.md) - Security of web apps & services.
+- [Lockpicking ★145](lists/meitar/awesome-lockpicking.md) - The art of unlocking a lock by manipulating its components without the key.
 
 
 ## Content Management Systems
 
-- [Umbraco ★95](lists/leekelleher/awesome-umbraco.md)
+- [Umbraco ★100](lists/leekelleher/awesome-umbraco.md)
 - [Refinery CMS ★18 ⏳1Y](lists/refinerycms-contrib/awesome-refinerycms.md) - Ruby on Rails CMS.
-- [Wagtail ★360](lists/springload/awesome-wagtail.md) - Django CMS focused on flexibility and user experience.
-- [Textpattern ★33](lists/drmonkeyninja/awesome-textpattern.md) - Lightweight PHP-based CMS.
+- [Wagtail ★375](lists/springload/awesome-wagtail.md) - Django CMS focused on flexibility and user experience.
+- [Textpattern ★34](lists/drmonkeyninja/awesome-textpattern.md) - Lightweight PHP-based CMS.
 - [Drupal ★28 ⏳1Y](lists/nirgn975/awesome-drupal.md) - Extensible PHP-based CMS.
-- [Craft CMS ★93](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
+- [Craft CMS ★98](https://github.com/chasegiunta/awesome-craft) - Content-first CMS.
 
 
 ## Hardware
 
-- [Robotics ★635](lists/Kiloreux/awesome-robotics.md)
-- [Internet of Things ★899](lists/HQarroum/awesome-iot.md)
-- [Electronics ★2098](lists/monostable/awesome-electronics.md) - For electronic engineers and hobbyists.
-- [Bluetooth Beacons ★407](lists/beaconinside/awesome-beacon.md)
-- [Electric Guitar Specifications ★33](lists/gitfrage/guitarspecs.md) - Checklist for building your own electric guitar.
+- [Robotics ★672](lists/Kiloreux/awesome-robotics.md)
+- [Internet of Things ★926](lists/HQarroum/awesome-iot.md)
+- [Electronics ★2144](lists/monostable/awesome-electronics.md) - For electronic engineers and hobbyists.
+- [Bluetooth Beacons ★428](lists/beaconinside/awesome-beacon.md)
+- [Electric Guitar Specifications ★34](lists/gitfrage/guitarspecs.md) - Checklist for building your own electric guitar.
 
 
 ## Business
 
-- [Open Companies ★162](lists/opencompany/awesome-open-company.md)
-- [Places to Post Your Startup ★2471](lists/mmccaff/PlacesToPostYourStartup.md)
-- [OKR Methodology ★282](lists/domenicosolazzo/awesome-okr.md) - Goal setting & communication best practices.
-- [Leading and Managing ★616](lists/LappleApple/awesome-leading-and-managing.md) - Leading people and being a manager in a technology company/environment.
-- [Indie ★4025](lists/mezod/awesome-indie.md) - Independent developer businesses.
+- [Open Companies ★170](lists/opencompany/awesome-open-company.md)
+- [Places to Post Your Startup ★2508](lists/mmccaff/PlacesToPostYourStartup.md)
+- [OKR Methodology ★297](lists/domenicosolazzo/awesome-okr.md) - Goal setting & communication best practices.
+- [Leading and Managing ★736](lists/LappleApple/awesome-leading-and-managing.md) - Leading people and being a manager in a technology company/environment.
+- [Indie ★4141](lists/mezod/awesome-indie.md) - Independent developer businesses.
 
 
 ## Work
 
-- [Slack ★489](lists/matiassingers/awesome-slack.md) - Team collaboration.
-	- [Communities ★198](lists/filipelinhares/awesome-slack.md)
-- [Remote Jobs ★10419](lists/lukasz-madon/awesome-remote-job.md)
-- [Productivity ★215](lists/jyguyomarch/awesome-productivity.md)
-- [Niche Job Boards ★140](lists/wfhio/awesome-job-boards.md)
+- [Slack ★506](lists/matiassingers/awesome-slack.md) - Team collaboration.
+	- [Communities ★204](lists/filipelinhares/awesome-slack.md)
+- [Remote Jobs ★10723](lists/lukasz-madon/awesome-remote-job.md)
+- [Productivity ★245](lists/jyguyomarch/awesome-productivity.md)
+- [Niche Job Boards ★146](lists/wfhio/awesome-job-boards.md)
 - [Programming Interviews ★16830](lists/MaximAbramchuck/awesome-interview-questions.md)
 
 
 ## Networking
 
-- [Software-Defined Networking ★186](lists/sdnds-tw/awesome-sdn.md)
-- [Network Analysis ★691](lists/briatte/awesome-network-analysis.md)
-- [PCAPTools ★967](lists/caesar0301/awesome-pcaptools.md)
+- [Software-Defined Networking ★216](lists/sdnds-tw/awesome-sdn.md)
+- [Network Analysis ★740](lists/briatte/awesome-network-analysis.md)
+- [PCAPTools ★1025](lists/caesar0301/awesome-pcaptools.md)
 
 ## Decentralized Systems
 
-- [Bitcoin ★308](lists/igorbarinov/awesome-bitcoin.md) - Bitcoin services and tools for software developers.
-- [Ripple ★68](lists/vhpoet/awesome-ripple.md) - Open source distributed settlement network.
-- [Non-Financial Blockchain ★177](lists/machinomy/awesome-non-financial-blockchain.md) - Non-financial blockchain applications.
+- [Bitcoin ★348](lists/igorbarinov/awesome-bitcoin.md) - Bitcoin services and tools for software developers.
+- [Ripple ★70](lists/vhpoet/awesome-ripple.md) - Open source distributed settlement network.
+- [Non-Financial Blockchain ★208](lists/machinomy/awesome-non-financial-blockchain.md) - Non-financial blockchain applications.
 - [Mastodon ★36](lists/tleb/awesome-mastodon.md) - Open source decentralized microblogging network.
 
 ## Miscellaneous
 
-- [JSON ★551](lists/burningtree/awesome-json.md) - Text based data interchange format.
-	- [GeoJSON ★554](lists/tmcw/awesome-geojson.md)
-	- [Datasets ★886](lists/jdorfman/awesome-json-datasets.md)
-- [Discounts for Student Developers ★886](lists/AchoArnold/discount-for-student-dev.md)
-- [Conferences ★597](lists/RichardLitt/awesome-conferences.md)
+- [JSON ★569](lists/burningtree/awesome-json.md) - Text based data interchange format.
+	- [GeoJSON ★583](lists/tmcw/awesome-geojson.md)
+	- [Datasets ★926](lists/jdorfman/awesome-json-datasets.md)
+- [Discounts for Student Developers ★906](lists/AchoArnold/discount-for-student-dev.md)
+- [Conferences ★608](lists/RichardLitt/awesome-conferences.md)
 - [Sysadmin ★5908](lists/n1trux/awesome-sysadmin.md)
-- [Radio ★92 ⏳2Y](lists/kyleterry/awesome-radio.md)
+- [Radio ★93 ⏳2Y](lists/kyleterry/awesome-radio.md)
 - [Awesome ★69735](https://github.com/sindresorhus/awesome) - Recursion illustrated.
 - [Analytics ★862](lists/onurakpolat/awesome-analytics.md)
-- [REST ★1415](lists/marmelab/awesome-rest.md)
-- [Selenium ★273](lists/christian-bromann/awesome-selenium.md)
-- [Appium ★90](lists/SrinivasanTarget/awesome-appium.md) - Test automation tool for apps.
-- [Continuous Delivery ★520](lists/ciandcd/awesome-ciandcd.md)
+- [REST ★1476](lists/marmelab/awesome-rest.md)
+- [Selenium ★285](lists/christian-bromann/awesome-selenium.md)
+- [Appium ★99](lists/SrinivasanTarget/awesome-appium.md) - Test automation tool for apps.
+- [Continuous Delivery ★553](lists/ciandcd/awesome-ciandcd.md)
 - [Services Engineering ★2419 ⏳2Y](lists/mmcgrana/services-engineering.md)
-- [Free for Developers ★17314](lists/ripienaar/free-for-dev.md)
-- [Answers ★501](lists/cyberglot/awesome-answers.md) - Stack Overflow, Quora, etc.
-- [Sketch ★589](lists/diessica/awesome-sketch.md) - Design app for macOS.
-- [Boilerplate Projects ★510](lists/melvin0008/awesome-projects-boilerplates.md)
-- [Readme ★1491](lists/matiassingers/awesome-readme.md)
+- [Free for Developers ★17662](lists/ripienaar/free-for-dev.md)
+- [Answers ★512](lists/cyberglot/awesome-answers.md) - Stack Overflow, Quora, etc.
+- [Sketch ★602](lists/diessica/awesome-sketch.md) - Design app for macOS.
+- [Boilerplate Projects ★528](lists/melvin0008/awesome-projects-boilerplates.md)
+- [Readme ★1813](lists/matiassingers/awesome-readme.md)
 - [Tools ★6971](lists/cjbarber/ToolsOfTheTrade.md)
-- [Styleguides ★413](lists/RichardLitt/awesome-styleguides.md)
-- [Design and Development Guides ★1362](lists/NARKOZ/guides.md)
+- [Styleguides ★425](lists/RichardLitt/awesome-styleguides.md)
+- [Design and Development Guides ★1378](lists/NARKOZ/guides.md)
 - [Software Engineering Blogs ★12304](lists/kilimchoi/engineering-blogs.md)
 - [Self Hosted ★19258](lists/Kickball/awesome-selfhosted.md)
-- [FOSS Production Apps ★111](lists/jwaterfaucett/awesome-foss-apps.md)
-- [Gulp ★335](lists/alferov/awesome-gulp.md) - Task runner.
-- [AMA ★859](lists/sindresorhus/amas.md) - Ask Me Anything.
+- [FOSS Production Apps ★115](lists/jwaterfaucett/awesome-foss-apps.md)
+- [Gulp ★356](lists/alferov/awesome-gulp.md) - Task runner.
+- [AMA ★869](lists/sindresorhus/amas.md) - Ask Me Anything.
 	- [Answers ★100 ⏳2Y](lists/stoeffel/awesome-ama-answers.md)
-- [Open Source Photography ★131](lists/ibaaj/awesome-OpenSourcePhotography.md)
+- [Open Source Photography ★138](lists/ibaaj/awesome-OpenSourcePhotography.md)
 - [OpenGL ★633](lists/eug/awesome-opengl.md) - Cross-platform API for rendering 2D and 3D graphics.
-- [GraphQL ★5859](lists/chentsulin/awesome-graphql.md)
-- [Transit ★296](lists/luqmaan/awesome-transit.md)
-- [Research Tools ★249](lists/emptymalei/awesome-research.md)
+- [GraphQL ★6068](lists/chentsulin/awesome-graphql.md)
+- [Transit ★309](lists/luqmaan/awesome-transit.md)
+- [Research Tools ★261](lists/emptymalei/awesome-research.md)
 - [Data Visualization ★1345](lists/fasouto/awesome-dataviz.md)
 - [Social Media Share Links](https://github.com/vinkla/awesome-share)
-- [Microservices ★4847](lists/mfornos/awesome-microservices.md)
-- [Unicode ★387](lists/jagracey/Awesome-Unicode.md) - Unicode standards, quirks, packages and resources.
-	- [Code Points ★106](lists/Codepoints/awesome-codepoints.md)
-- [Beginner-Friendly Projects ★3632](lists/MunGell/awesome-for-beginners.md)
-- [Katas ★252](lists/gamontalvo/awesome-katas.md)
-- [Tools for Activism ★547](lists/drewrwilson/toolsforactivism.md)
-- [Citizen Science ★38](lists/dylanrees/citizen-science.md) - For community-based and non-institutional scientists.
-- [TAP ★369](lists/sindresorhus/awesome-tap.md) - Test Anything Protocol.
-- [MQTT ★331](lists/hobbyquaker/awesome-mqtt.md) - "Internet of Things" connectivity protocol.
-- [Hacking Spots ★514](lists/diasdavid/awesome-hacking-spots.md)
-- [For Girls ★199](lists/cristianoliveira/awesome4girls.md)
-- [Vorpal ★97](lists/vorpaljs/awesome-vorpal.md) - Node.js CLI framework.
+- [Microservices ★5042](lists/mfornos/awesome-microservices.md)
+- [Unicode ★397](lists/jagracey/Awesome-Unicode.md) - Unicode standards, quirks, packages and resources.
+	- [Code Points ★159](lists/Codepoints/awesome-codepoints.md)
+- [Beginner-Friendly Projects ★3906](lists/MunGell/awesome-for-beginners.md)
+- [Katas](https://github.com/gamontalvo/awesome-katas)
+- [Tools for Activism ★552](lists/drewrwilson/toolsforactivism.md)
+- [Citizen Science ★42](lists/dylanrees/citizen-science.md) - For community-based and non-institutional scientists.
+- [TAP ★379](lists/sindresorhus/awesome-tap.md) - Test Anything Protocol.
+- [MQTT ★351](lists/hobbyquaker/awesome-mqtt.md) - "Internet of Things" connectivity protocol.
+- [Hacking Spots ★528](lists/diasdavid/awesome-hacking-spots.md)
+- [For Girls ★205](lists/cristianoliveira/awesome4girls.md)
+- [Vorpal ★98](lists/vorpaljs/awesome-vorpal.md) - Node.js CLI framework.
 - [Vulkan ★646](lists/vinjn/awesome-vulkan.md) - Low-overhead, cross-platform 3D graphics and compute API.
-- [LaTeX ★181](lists/egeerardyn/awesome-LaTeX.md) - Typesetting language.
-- [Economics ★215](lists/antontarasenko/awesome-economics.md) - An economist's starter kit.
-- [Funny Markov Chains ★94 ⏳1Y](lists/sublimino/awesome-funny-markov.md)
-- [Bioinformatics ★295](lists/danielecook/Awesome-Bioinformatics.md)
-- [Colorful ★326](lists/Siddharth11/Colorful.md) - Choose your next color scheme.
-- [Steam ★166](lists/scholtzm/awesome-steam.md) - Digital distribution platform.
-- [Bots ★512](lists/hackerkid/bots.md) - Building bots.
-- [Site Reliability Engineering ★1330](lists/dastergon/awesome-sre.md)
-- [Empathy in Engineering ★298 ⏳1Y](lists/KimberlyMunoz/empathy-in-engineering.md) - Building and promoting more compassionate engineering cultures.
-- [DTrace ★61](lists/xen0l/awesome-dtrace.md) - Dynamic tracing framework.
-- [Userscripts ★179](lists/brunocvcunha/awesome-userscripts.md) - Enhance your browsing experience.
-- [Pokémon ★309](lists/tobiasbueschel/awesome-pokemon.md) - Pokémon and Pokémon GO.
-- [ChatOps ★209](lists/exAspArk/awesome-chatops.md) - Managing technical and business operations through a chat.
-- [Falsehood ★6327](lists/kdeldycke/awesome-falsehood.md) - Falsehoods programmers believe in.
+- [LaTeX ★191](lists/egeerardyn/awesome-LaTeX.md) - Typesetting language.
+- [Economics ★227](lists/antontarasenko/awesome-economics.md) - An economist's starter kit.
+- [Funny Markov Chains ★98 ⏳1Y](lists/sublimino/awesome-funny-markov.md)
+- [Bioinformatics ★320](lists/danielecook/Awesome-Bioinformatics.md)
+- [Colorful ★340](lists/Siddharth11/Colorful.md) - Choose your next color scheme.
+- [Steam ★177](lists/scholtzm/awesome-steam.md) - Digital distribution platform.
+- [Bots ★563](lists/hackerkid/bots.md) - Building bots.
+- [Site Reliability Engineering ★1411](lists/dastergon/awesome-sre.md)
+- [Empathy in Engineering ★304 ⏳1Y](lists/KimberlyMunoz/empathy-in-engineering.md) - Building and promoting more compassionate engineering cultures.
+- [DTrace ★62](lists/xen0l/awesome-dtrace.md) - Dynamic tracing framework.
+- [Userscripts ★189](lists/brunocvcunha/awesome-userscripts.md) - Enhance your browsing experience.
+- [Pokémon ★316](lists/tobiasbueschel/awesome-pokemon.md) - Pokémon and Pokémon GO.
+- [ChatOps ★238](lists/exAspArk/awesome-chatops.md) - Managing technical and business operations through a chat.
+- [Falsehood ★6483](lists/kdeldycke/awesome-falsehood.md) - Falsehoods programmers believe in.
 - [Domain-Driven Design ★2223](lists/heynickc/awesome-ddd.md) - Software development approach for complex needs by connecting the implementation to an evolving model.
-- [Quantified Self ★130](lists/woop/awesome-quantified-self.md) - Self-tracking through technology.
-- [SaltStack ★58](lists/hbokh/awesome-saltstack.md) - Python-based config management system.
-- [Web Design ★396](lists/nicolesaidy/awesome-web-design.md) - For digital designers.
-- [JMeter ★88](lists/aliesbelik/awesome-jmeter.md) - Load testing and performance measurement tool.
-- [Creative Coding ★2705](lists/terkelg/awesome-creative-coding.md) - Programming something expressive instead of something functional.
-- [No-Login Web Apps ★397](lists/aviaryan/awesome-no-login-web-apps.md) - Web apps that work without login.
-- [Testing ★92](lists/TheJambo/awesome-testing.md) - Software testing.
-- [Free Software ★74](lists/johnjago/awesome-free-software.md) - Free as in freedom.
-- [Framer ★303](lists/podo/awesome-framer.md) - Prototyping interactive UI designs.
-- [Markdown ★126](lists/BubuAnabelas/awesome-markdown.md) - Markup language.
-- [Dev Fun ★57](lists/mislavcimpersak/awesome-dev-fun.md) - Funny developer projects.
-- [Events in the Netherlands ★24](lists/awkward/awesome-netherlands-events.md) - Tech-related events in the Netherlands.
-- [Healthcare ★234](lists/kakoni/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
-- [Magento 2 ★246](lists/DavidLambauer/awesome-magento2.md) - Open Source eCommerce built with PHP.
-- [TikZ ★113](lists/xiaohanyu/awesome-tikz.md) - Graph drawing packages for TeX/LaTeX/ConTeXt.
-- [Neuroscience ★171](lists/analyticalmonk/awesome-neuroscience.md) - Study of the nervous system and brain.
-- [Effective Altruism ★78](lists/sheonhan/awesome-effective-altruism.md) - Evidence-driven philanthropy.
-- [Ad-Free ★93](lists/johnjago/awesome-ad-free.md) - Ad-free alternatives.
-- [Esolangs ★88](lists/angrykoala/awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use.
-- [Prometheus ★66](lists/roaldnefs/awesome-prometheus.md) - Open-source monitoring system.
-- [Homematic ★14](lists/hobbyquaker/awesome-homematic.md) - Smart home devices.
-- [Ledger ★6](lists/sfischer13/awesome-ledger.md) - Double-entry accounting on the command-line.
-- [Uncopyright ★150](lists/johnjago/awesome-uncopyright.md) - Public domain works.
-- [Crypto Currency Tools & Algorithms ★2038](lists/kennethreitz/awesome-coins.md) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
+- [Quantified Self ★153](lists/woop/awesome-quantified-self.md) - Self-tracking through technology.
+- [SaltStack ★66](lists/hbokh/awesome-saltstack.md) - Python-based config management system.
+- [Web Design ★424](lists/nicolesaidy/awesome-web-design.md) - For digital designers.
+- [JMeter ★93](lists/aliesbelik/awesome-jmeter.md) - Load testing and performance measurement tool.
+- [Creative Coding ★2843](lists/terkelg/awesome-creative-coding.md) - Programming something expressive instead of something functional.
+- [No-Login Web Apps ★426](lists/aviaryan/awesome-no-login-web-apps.md) - Web apps that work without login.
+- [Testing ★101](lists/TheJambo/awesome-testing.md) - Software testing.
+- [Free Software ★95](lists/johnjago/awesome-free-software.md) - Free as in freedom.
+- [Framer ★319](lists/podo/awesome-framer.md) - Prototyping interactive UI designs.
+- [Markdown ★132](lists/BubuAnabelas/awesome-markdown.md) - Markup language.
+- [Dev Fun ★60](lists/mislavcimpersak/awesome-dev-fun.md) - Funny developer projects.
+- [Events in the Netherlands ★25](lists/awkward/awesome-netherlands-events.md) - Tech-related events in the Netherlands.
+- [Healthcare ★257](lists/kakoni/awesome-healthcare.md) - Open source healthcare software for facilities, providers, developers, policy experts, and researchers.
+- [Magento 2 ★268](lists/DavidLambauer/awesome-magento2.md) - Open Source eCommerce built with PHP.
+- [TikZ ★128](lists/xiaohanyu/awesome-tikz.md) - Graph drawing packages for TeX/LaTeX/ConTeXt.
+- [Neuroscience ★187](lists/analyticalmonk/awesome-neuroscience.md) - Study of the nervous system and brain.
+- [Effective Altruism ★82](lists/sheonhan/awesome-effective-altruism.md) - Evidence-driven philanthropy.
+- [Ad-Free ★95](lists/johnjago/awesome-ad-free.md) - Ad-free alternatives.
+- [Esolangs ★93](lists/angrykoala/awesome-esolangs.md) - Programming languages designed for experimentation or as jokes rather than actual use.
+- [Prometheus ★98](lists/roaldnefs/awesome-prometheus.md) - Open-source monitoring system.
+- [Homematic ★15](lists/hobbyquaker/awesome-homematic.md) - Smart home devices.
+- [Ledger ★18](lists/sfischer13/awesome-ledger.md) - Double-entry accounting on the command-line.
+- [Uncopyright ★154](lists/johnjago/awesome-uncopyright.md) - Public domain works.
+- [Crypto Currency Tools & Algorithms ★2153](lists/kennethreitz/awesome-coins.md) — Digital currency where encryption is used to regulate the generation of units and verify transfers.
 - [Diversity ★202](lists/folkswhocode/awesome-diversity.md) - Creating a more inclusive and diverse tech community.
 - [Open Source Supporters ★243](lists/zachflower/awesome-open-source-supporters.md) - Companies that offer their tools and services for free to open source projects.
 - [Design Principles ★27](lists/robinstickel/awesome-design-principles.md) - Create better and more consistent designs and experiences.
 - [Visual Regression Testing ★225](lists/mojoaxel/awesome-regression-testing.md) - Ensures changes did not break the functionality or style.
 - [Theravada ★36](lists/johnjago/awesome-theravada.md) - Teachings from the Theravada Buddhist tradition.
-- [inspectIT ★3](lists/inspectit-labs/awesome-inspectit.md) - Open source Java app performance management tool.
+- [inspectIT ★4](lists/inspectit-labs/awesome-inspectit.md) - Open source Java app performance management tool.
 
 
 ## License

@@ -16,7 +16,7 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 ## Official resources
 
 * [Vagrant site](https://www.vagrantup.com/) - installation instruction, official manuals and docs.
-* [GitHub repo ★15626](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration.
+* [GitHub repo ★15821](https://github.com/hashicorp/vagrant) - source code, issues discussion and collaboration.
 
 
 ## Boxes
@@ -47,8 +47,8 @@ A curated list of awesome Vagrant resources, plugins, tutorials and other nice t
 * [vagrant-host-shell ★106](https://github.com/phinze/vagrant-host-shell) - a vagrant provisioner to run commands on the host when a VM boots.
 * [vagrant-ansible-local ★63 ⏳2Y](https://github.com/jaugustin/vagrant-ansible-local)  allow provisioning your VM with ansible playbooks directly from the guest VM.
 * [sahara ★707 ⏳2Y](https://github.com/jedi4ever/sahara) - easy manage VM state (commit/rollback while experimenting with software stack).
-* [vagrant-registration ★31 ⏳1Y](https://github.com/projectatomic/adb-vagrant-registration) - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux).
-* [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB) ★78](https://github.com/projectatomic/adb-atomic-developer-bundle).
+* [vagrant-registration ★34 ⏳1Y](https://github.com/projectatomic/adb-vagrant-registration) - add "register" and "unregister" capabilities to Vagrant guests for updates on systems with a subscription model(like Red Hat Enterprise Linux).
+* [vagrant-service-manager](https://github.com/projectatomic/vagrant-service-manager) - enable easier access to the features and services provided by the [Atomic Developer Bundle (ADB) ★80](https://github.com/projectatomic/adb-atomic-developer-bundle).
 
 ## Helpers / Tools
 
@@ -100,7 +100,7 @@ for any IP address.
 * [Joomla-Vagrant ★134](https://github.com/joomlatools/joomlatools-vagrant).
 * [VDD](https://www.drupal.org/project/vdd) - Vagrant Drupal Development.
 * [Drupal VM](https://www.drupalvm.com/) - A VM for local Drupal development, built with Vagrant + Ansible
-* [Try Yii2 ★47 ⏳1Y](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
+* [Try Yii2 ★47 ⏳2Y](https://github.com/iJackUA/try-yii2) - try Yii2 with Vagrant VM + Ansible provisioning = Complete readymade virtual server playground.
 * [Laravel4-Vagrant ★503 ⏳2Y](https://github.com/bryannielsen/Laravel4-Vagrant) - run Laravel 4 inside a Ubuntu 12.04 Vagrant Virtual Machine w/PHP 5.5.
 * [OpenStack on Ansible with Vagrant ★215](https://github.com/openstack-ansible/openstack-ansible).
 * [Laravel Homestead](https://laravel.com/docs/master/homestead) - Official Vagrant Box for Laravel development, based on Ubuntu 16.04 LTS, PHP 7, Nginx, and multiple database platforms.

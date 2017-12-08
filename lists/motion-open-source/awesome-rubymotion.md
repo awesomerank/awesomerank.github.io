@@ -205,7 +205,7 @@ Because Android support is quite new we're keeping the libraries together in thi
 
 ### Dependencies Management
 * [MotionBundler ★103 ⏳4Y](https://github.com/archan937/motion-bundler) - Require and mock Ruby gems (including their dependencies) within RubyMotion applications.
-* [Motion-acknowledgements ★33 ⏳2Y](https://github.com/OTGApps/motion-acknowledgements) - This gem makes it easy to include the CocoaPods acknowledgements file in your application.
+* [Motion-acknowledgements ★33 ⏳3Y](https://github.com/OTGApps/motion-acknowledgements) - This gem makes it easy to include the CocoaPods acknowledgements file in your application.
 
 
 ### Device support

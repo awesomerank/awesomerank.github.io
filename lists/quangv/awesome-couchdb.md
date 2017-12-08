@@ -123,7 +123,7 @@ Pull-Requests are welcomed.
 ### Companies
 
 - [Couchbase](https://www.couchbase.com/) - NoSQL database.
-- [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices ★127 ⏳1Y](https://github.com/eHealthAfrica/couchdb-best-practices).
+- [eHealth Africa](https://github.com/eHealthAfrica) - Big user of CouchDB, check out their [best practices ★129 ⏳1Y](https://github.com/eHealthAfrica/couchdb-best-practices).
 
 
 #### Hosting

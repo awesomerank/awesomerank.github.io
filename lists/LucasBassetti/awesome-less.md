@@ -182,7 +182,7 @@ Less is a open source dynamic style sheet language that can be compiled into Cas
 
 ### Python
 
-- [Pyhton Compiler ★106](https://github.com/lesscpy/lesscpy) - Compiler written in Python.
+- [Pyhton Compiler ★106 ⏳1Y](https://github.com/lesscpy/lesscpy) - Compiler written in Python.
 
 **[Back to top](#contents)**
 

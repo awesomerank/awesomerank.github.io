@@ -625,7 +625,7 @@ per successful charge. | Payments, Rebooted. | Accepting credit card payments fr
 * Convo | https://www.convo.com/
 * Zoom | https://www.zoom.us/
 
-[HipChat Alternatives ★236 ⏳1Y](https://github.com/cjbarber/hipchat-alternatives)
+[HipChat Alternatives ★237 ⏳1Y](https://github.com/cjbarber/hipchat-alternatives)
 
 ### Remote Collaboration
 

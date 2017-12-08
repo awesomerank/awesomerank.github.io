@@ -60,7 +60,6 @@ Made with Electron.
 - [Upterm ★17620](https://github.com/railsware/upterm) - Terminal.
 - [Atom ★41692](https://github.com/atom/atom) - Code editor.
 - [Visual Studio Code ★38398](https://github.com/Microsoft/vscode) - Cross-platform IDE.
-- [Nylas N1](https://github.com/nylas/N1) - Extensible email client.
 - [Brave ★6143](https://github.com/brave/browser-laptop) - Privacy-focused web browser.
 
 ###### Other
@@ -184,8 +183,9 @@ Made with Electron.
 - [Insomnia ★5070](https://github.com/getinsomnia/insomnia) - Create and manage HTTP requests.
 - [Tusk](https://github.com/champloohq/tusk) - Unofficial Evernote app.
 - [ProtonMail Desktop ★158](https://github.com/protonmail-desktop/application) - Unofficial ProtonMail app.
-- [Comma Chameleon ★160](https://github.com/theodi/comma-chameleon) - CSV editor.
+- [Comma Chameleon ★171](https://github.com/theodi/comma-chameleon) - CSV editor.
 - [Buttercup Desktop ★1753](https://github.com/buttercup/buttercup-desktop) - Password manager.
+- [Mailspring ★1785](https://github.com/Foundry376/Mailspring) - Extensible email client. (Fork of Nylas Mail)
 
 ### Closed Source
 
@@ -225,6 +225,7 @@ Made with Electron.
 - [CashNotify](https://cashnotify.com) - Monitor your Stripe accounts from your menu bar.
 - [Mockoon](https://mockoon.com) - Mock servers in seconds.
 - [Twitch](https://app.twitch.tv) - Official Twitch app.
+- [Fenêtre](https://fenêt.re) - Picture-in-picture for your Mac.
 
 ### Samples
 
@@ -246,8 +247,8 @@ Made with Electron.
 - [electron-quick-start ★3138](https://github.com/electron/electron-quick-start) - Clone the repo to try a simple app.
 - [bozon ★519](https://github.com/railsware/bozon) - Scaffold, run, test, and package your app.
 - [electron-vue ★3555](https://github.com/SimulatedGREG/electron-vue) - Easily build your app with Vue and common plugins.
-- [electron-next-skeleton ★68](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
-- [electron-sandbox ★9](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
+- [electron-next-skeleton ★80](https://github.com/leo/electron-next-skeleton) - Boilerplate to build your app with Next.js.
+- [electron-sandbox ★11](https://github.com/kewde/electron-sandbox) - Boilerplate and tutorial for creating secure apps (sandbox & communication over IPC).
 
 
 ## Tools
@@ -309,7 +310,7 @@ Made with Electron.
 - [electron-unhandled ★77](https://github.com/sindresorhus/electron-unhandled) - Catch unhandled errors and promise rejections.
 - [electron-process-manager ★41](https://github.com/getstation/electron-process-manager) - Process manager UI (like Chrome's task manager).
 - [ipc-flux ★3](https://github.com/harryparkdotio/ipc-flux) - Flux-like state and action management across processes.
-- [electron-util ★77](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
+- [electron-util ★168](https://github.com/sindresorhus/electron-util) - Useful utilities for developing apps and modules.
 
 ### Using Electron
 

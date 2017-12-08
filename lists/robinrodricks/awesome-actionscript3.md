@@ -137,7 +137,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [AS3unit ★5 ⏳2Y](https://github.com/Hoten/as3unit) - Unit testing framework for ActionScript 3.
 * [hamcrest-as3 ★187 ⏳5Y](https://github.com/drewbourne/hamcrest-as3) - Matcher objects allowing 'match' rules to be defined declaratively.
 * [expect.as ★10 ⏳2Y](https://github.com/krzysztof-o/expect.as) - BDD-style assertion library for ActionScript 3.
-* [AS3spec ★23 ⏳7Y](https://github.com/f1337/as3spec) - Tiny BDD framework for AS3, inspired by Bacon and RSpec.
+* [AS3spec ★23 ⏳8Y](https://github.com/f1337/as3spec) - Tiny BDD framework for AS3, inspired by Bacon and RSpec.
 * [Flexunit ★275 ⏳3Y](https://github.com/flexunit/flexunit) - FlexUnit project for Actionscript 3 and Flex projects.
 * [ASunit ★50 ⏳6Y](https://github.com/patternpark/asunit) - The only unit test framework that supports Flash Players 6, 7, 8, 9 and 10.
 * [RobotEyes ★48 ⏳7Y](https://github.com/Stray/RobotEyes) - End-to-end testing for TDD. Hybrid of WindowLicker and Drew Bourne's Mockolate.
@@ -284,7 +284,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 
 * [Flowplayer ★267 ⏳1Y](https://github.com/flowplayer/flash) - Flowplayer Flash, the video player for the Web.
 * [Goplayer ★18 ⏳6Y](https://github.com/dbrock/goplayer) - Modern open-source video player written in ActionScript 3.
-* [OSFlashVideoPlayer ★104 ⏳5Y](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player.
+* [OSFlashVideoPlayer ★104 ⏳6Y](https://github.com/FlashJunior/OSFlashVideoPlayer) - Open source flash video player.
 * [F4player ★113 ⏳3Y](https://github.com/gokercebeci/f4player) - Open Source AS3 Flash Video Player.
 * [dashas ★101 ⏳1Y](https://github.com/castlabs/dashas) - MPEG-DASH player written in ActionScript.
 * [hlsplayer ★62 ⏳4Y](https://github.com/erlyvideo/hlsplayer) - HLS player for OSMF flash framework.
@@ -483,7 +483,7 @@ Contributions welcome. To add a useful project simply create an [Issue](https://
 * [FlashSocket.IO ★218 ⏳1Y](https://github.com/simb/FlashSocket.IO) - Clients connect to Socket.IO servers from AS3/AIR clients.
 * [Socket.io ★35 ⏳7Y](https://github.com/ascorbic/socket-io-actionscript) - Socket.IO Actionscript 3 client.
 * [AMFsocket ★10 ⏳2Y](https://github.com/chadrem/amf_socket) - Bi-directional RPC library for high performance network communication.
-* [Sockpuppet ★2 ⏳7Y](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF.
+* [Sockpuppet ★2 ⏳8Y](https://github.com/rjungemann/sockpuppet) - Complete Ruby/ActionScript socket client/server with AMF.
 * [Socket.io-flash ★45 ⏳4Y](https://github.com/sinnus/socket.io-flash) - Communication to Socket.IO v.0.8+ servers.
 * [ws-flash-client ★17 ⏳5Y](https://github.com/youurayy/ws-flash-client) - Reliable minimalistic WebSocket client (uses Adobe Flash where native WebSocket is not available).
 

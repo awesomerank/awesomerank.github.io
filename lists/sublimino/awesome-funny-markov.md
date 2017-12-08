@@ -13,7 +13,7 @@ A facetiously curated list of delightfully amusing Markov chain output, inspired
 
 If you want to [contribute](https://github.com/sublimino/awesome-funny-markov/blob/master/contributing.md) to this list (please do), send a pull request or contact me [@sublimino](https://twitter.com/sublimino). 
 
-Looking for more information on Markov Chains? Try [Awesome Machine Learning ★27278](https://github.com/josephmisiti/awesome-machine-learning).
+Looking for more information on Markov Chains? Try [Awesome Machine Learning ★28131](https://github.com/josephmisiti/awesome-machine-learning).
 
 
 ## Table of Contents

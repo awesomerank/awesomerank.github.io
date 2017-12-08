@@ -47,6 +47,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 		- [Logging](#logging)
 		- [Other non-visual](#other-non-visual)
 	- [OS](#os)
+	- [Report generating](#report-generating)
 	- [Unit Testing](#unit-testing)
 	- [Debugging / error handling](#debugging--error-handling)
 	- [Utilities](#utilities)
@@ -156,14 +157,14 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [AggPasMod ★28](https://github.com/CWBudde/AggPasMod). Modernized Pascal Anti-Grain Geometry. Based on AggPas, which is itself based on the Anti-Grain Geometry, this project offers support for the latest Delphi Versions (XE and above) and contains some helper classes (VCL components and FireMonkey interface). 2D vector graphics library. Basically, you can think of AggPas as of a rendering engine that produces pixel images in memory from some vectorial data. But of course, AGG can do much more than that.
 // *Vector graphic library, renders SVG and much more*
 
-* [delphi-shader ★14](https://github.com/WouterVanNifterick/delphi-shader). Hundreds of graphical effects, and a library that provides GLSL functionality in pure Delphi code. This project produces an executable with more than a hundred real-time graphical effects. All that is a 100% pascal implementation, without the use of exernal libraries or hardware acceleration.
+* [delphi-shader ★14 ⏳1Y](https://github.com/WouterVanNifterick/delphi-shader). Hundreds of graphical effects, and a library that provides GLSL functionality in pure Delphi code. This project produces an executable with more than a hundred real-time graphical effects. All that is a 100% pascal implementation, without the use of exernal libraries or hardware acceleration.
 
 * [dglOpenGL ★32](https://github.com/SaschaWillems/dglOpenGL). Delphi / Pascal OpenGL header translation.
 
 
 ## Game dev ##
 
-* [RecastNavigation ★9 ⏳1Y](https://github.com/Kromster80/RecastNavigationDelphi). Recast is state of the art navigation mesh construction toolset for games. Recast is accompanied with Detour, path-finding and spatial reasoning toolkit. You can use any navigation mesh with Detour, but of course the data generated with Recast fits perfectly. This is a port of the original RecastNavigation written in C++.
+* [RecastNavigation ★9 ⏳2Y](https://github.com/Kromster80/RecastNavigationDelphi). Recast is state of the art navigation mesh construction toolset for games. Recast is accompanied with Detour, path-finding and spatial reasoning toolkit. You can use any navigation mesh with Detour, but of course the data generated with Recast fits perfectly. This is a port of the original RecastNavigation written in C++.
 
 * [Kraft Physics Engine ★29](https://github.com/BeRo1985/kraft). Open source Object Pascal physics engine library that can be used in 3D games. Compatible with: Delphi 7-XE7 (but not with the Android and iOS targets), FreePascal >= 2.6.2 (with almost all FPC-supported targets including Android and iOS) 
 
@@ -174,7 +175,15 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [CrystalPathFinding ★16 ⏳2Y](https://github.com/d-mozulyov/CrystalPathFinding). Simple and effective library with an open source intended for the searching of the shortest paths by algorithms A*/WA* for maps based on tiles with 4 (simple), 8 (diagonal/diagonalex) or 6 (hexagonal) neighbors.
 
-* [Allegro-Pas](https://sourceforge.net/projects/allegro-pas) ([GitHub ★1](https://github.com/niuniomartinez/allegro-pas)). Wrapper to use the Allegro game librery with Pascal/Delphi.
+* [Allegro-Pas](https://sourceforge.net/projects/allegro-pas) ([GitHub ★1](https://github.com/niuniomartinez/allegro-pas)). Wrapper to use the Allegro game library with Pascal/Delphi.
+
+* [Castle Engine ★77](https://github.com/castle-engine/castle-engine). Complete Pascal Game Engine. Cross-platform 3D and 2D game engine with a lot of graphic effects and a scene graph based on X3D.
+
+* [TileEngine ★82](https://github.com/megamarc/Tilengine). Wrapper to use the Tilengine game library with Pascal/Delphi. Tilengine is a cross-platform 2D graphics engine for creating classic/retro games with tilemaps, sprites and palettes. Its scanline-based rendering algorithm makes raster effects a core feature, a technique used by many games running on real 2D graphics chips.
+
+* [SDL2](http://www.freepascal-meets-sdl.net/) ([GitHub ★56](https://github.com/ev1313/Pascal-SDL-2-Headers)). Pascal SDL 2 Headers. Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D.
+
+* [SFML ★28](https://github.com/CWBudde/PasSFML). Pascal SFML Headers. SFML provides a simple interface to the various components of your PC, to ease the development of games and multimedia applications. It is composed of five modules: system, window, graphics, audio and network. Currently Delphi and FPC/Lazarus are supported. However, due to a compiler incompatibility with the Delphi compiler (solved with workarounds), FPC is recommended at the moment.
 
 
 ## Communications ##
@@ -299,7 +308,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [HtmlViewer ★139](https://github.com/BerndGabriel/HtmlViewer). Delphi/Lazarus HtmlViewer/FrameViewer.
 // *Html visualiser supporting majority of tags, inline styles and CSS.*
 
-* [SciDe ★26 ⏳1Y](https://github.com/da-baranov/SciDe). [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
+* [SciDe ★26 ⏳2Y](https://github.com/da-baranov/SciDe). [Sciter](https://sciter.com) (Embeddable HTML/CSS/script engine) wrapper for Delphi.
 
 
 ## Other GUI
@@ -503,7 +512,7 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 
 * [ScaleMM ★41 ⏳1Y](https://github.com/andremussche/scalemm). Fast scaling memory manager for Delphi
 
-* [BrainMM ★35](https://github.com/d-mozulyov/BrainMM). Extremely fast memory manager for Delphi.
+* [BrainMM ★35 ⏳1Y](https://github.com/d-mozulyov/BrainMM). Extremely fast memory manager for Delphi.
 // *Advanced memory allocation functions for faster aligned operations.*
 
 
@@ -628,6 +637,13 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 // *Free with source for non-commercial usage (only) with some [conditions](http://help.madshi.net/License.htm). Available to download as part of `madCollection` installer. Pretty well documented. Requires `madBasic` package.*
 
 
+## Report generating ##
+
+* [Report Manager](http://reportman.sourceforge.net/). Report manager is a reporting application (Report Manager Designer) and a set of libraries and utilities to preview, export or print reports. Include native .Net and Delphi/C++Builder libraries, ActiveX component and also standard dynamic link library for use in any language like GNU C.
+
+* [FortesReport ★66](https://github.com/fortesinformatica/fortesreport-ce). The FortesReport is a powerful report generator available as a package of components for Delphi.
+
+
 ## Unit Testing ##
 
 * [DUnitX ★172](https://github.com/VSoftTechnologies/DUnitX). New test framework, taking ideas from DUnit, NUnit and other test frameworks. It is designed to work with Delphi 2010 or later, it makes use of language/RTL features that are not available in older versions of Delphi.
@@ -706,6 +722,8 @@ This awesome collection is also available on [Delphi.ZEEF.com](https://delphi.ze
 * [Browse and Doc It](http://www.davidghoyle.co.uk/WordPress/?page_id=872). Plug-in allows you to document and browse your code from within the IDE.
 
 * [Integrated Testing Helper](http://www.davidghoyle.co.uk/WordPress/?page_id=874). Plugin for Delphi and RAD Studio that allows you to run command-line application before and after the compilation of you projects. It also provides the ability to zip you projects files into an archive on each compile/build and manage the application's version information.
+
+
 ## Documentation ##
 
 * [SynProject ★12](https://github.com/synopse/SynProject) ([docs](http://synopse.info/fossil/wiki?name=SynProject)). Tool for code source versioning and automated documentation of Delphi projects.

@@ -7,7 +7,7 @@ title: Awesome Rank for bfred-it/Awesome-WebExtensions
 	This list is a copy of <a href="https://github.com/bfred-it/Awesome-WebExtensions">bfred-it/Awesome-WebExtensions</a> with ranks
 </p>
 ---
-# Awesome WebExtensions [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
+# Awesome WebExtensions [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome resources for [WebExtensions](https://developer.mozilla.org/en-US/Add-ons/WebExtensions) development.
 
@@ -81,7 +81,7 @@ Apps that help you manage your extensions.
 
 These are simple and modern WebExtensions repositories that could help you figure out where pieces go, including automatic deployment via Travis CI.
 
-- [npmhub ★298](https://github.com/npmhub/npmhub)
+- [npmhub ★297](https://github.com/npmhub/npmhub)
 - [Hide Files on GitHub ★180](https://github.com/sindresorhus/hide-files-on-github)
 - [Refined GitHub ★2817](https://github.com/sindresorhus/refined-github)
 - [mdn/webextension-examples ★888](https://github.com/mdn/webextensions-examples) - Various example extensions curated for the MDN documentation.

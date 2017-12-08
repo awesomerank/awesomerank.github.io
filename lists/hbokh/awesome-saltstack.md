@@ -38,7 +38,7 @@ A :gem: means **really _awesome / useful_**.
 ## Official resources
 
 * [SaltStack site](https://saltstack.com/) - Company website.
-* [GitHub repo ★8241](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
+* [GitHub repo ★8354](https://github.com/saltstack/salt) - Salt's source code, issues discussion and collaboration.
 * [SaltStack Documentation](https://docs.saltstack.com/en/latest/) - Official documentation.
 * [Salt in 10 minutes](https://docs.saltstack.com/en/latest/topics/tutorials/walkthrough.html) - Official walkthrough.
 * [SaltStack Get Started](https://docs.saltstack.com/en/getstarted/) - These tutorials walk you through the basics of getting SaltStack up and running. :gem:
@@ -74,12 +74,12 @@ A :gem: means **really _awesome / useful_**.
 * [Getting started with Salt Structure](https://blog.badgerops.net/2017/04/22/getting-started-with-salt-structure-2/) - Learn how to setup a structured SaltStack workspace.
 * [Writing a custom Salt Grain](https://blog.badgerops.net/2017/05/23/writing-a-custom-salt-grain/) - Writing a custom Salt Grain, and why you might want to.
 * [Building Self-Healing Applications](http://bencane.com/2014/12/30/building-self-healing-applications-with-salt-api/) - Automate the detection and first action to correct errors in your infrastructure.
-* [Introduction to SaltStack ★12](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
+* [Introduction to SaltStack ★13](https://github.com/redmage123/Introduction-to-Saltstack) - A two day course designed to quickly introduce System Administrators and Application Developers on how to start using Saltstack.
 
 ## Code
 
-* [zulily/alkali ★6 ⏳1Y](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
-* [zulily/buoyant ★4 ⏳1Y](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
+* [zulily/alkali ★7 ⏳2Y](https://github.com/zulily/alkali) - A collections of SaltStack states and pillar data that provide just the basics for provisioning Linux instances that may be built upon.
+* [zulily/buoyant ★4 ⏳2Y](https://github.com/zulily/buoyant) - Leverages docker to provide an alternative to VM-centric SaltStack development environments.
 
 ## Books
 
@@ -102,10 +102,10 @@ A :gem: means **really _awesome / useful_**.
 
 ## Tools
 
-* [SaltPad ★604](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
-* [SaltShaker ★130 ⏳1Y](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
-* [SaltGUI ★31 ⏳1Y](https://github.com/oliverdunk/SaltGUI) - A web interface for managing SaltStack based infrastructure.
-* [Pepperboard ★8](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
+* [SaltPad ★605](https://github.com/Lothiraldan/saltpad) - SaltPad is a GUI tool to manage SaltStack deployments + orchestration.
+* [SaltShaker ★133 ⏳1Y](https://github.com/yueyongyue/saltshaker) - Another good looking GUI for SaltStack.
+* [SaltGUI](https://github.com/oliverdunk/SaltGUI) - A web interface for managing SaltStack based infrastructure.
+* [Pepperboard ★9](https://github.com/webedia-dev/pepperboard) - A simple and modular dashboard toolkit for SaltStack.
 
 ## Presentations
 
@@ -149,7 +149,7 @@ A :gem: means **really _awesome / useful_**.
 
 ## Cheat sheets
 
-* [SaltStack Cheat Sheet Plus ★8](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz.
+* [SaltStack Cheat Sheet Plus ★9](https://github.com/fmdlc/saltstack-cheatsheet) - by Facu de la Cruz.
 * [Salt Commands cheat sheet](https://sites.google.com/site/bladelogicwiki/salt-stack/guides/salt-commands) - List of common Salt commands (by "Bladelogic").
 * [SaltStack Cheat Sheet](http://www.xenuser.org/saltstack-cheat-sheet/) - by Valentin Höbel.
 * [SaltStack Wiki](https://github.com/saltstack/salt/wiki/Cheat-Sheet) - Cheat sheet in the SaltStack GitHub Wiki.

@@ -27,21 +27,21 @@ This list is for developers who are looking for non-trivial quality applications
 ## Web Apps (frontend only)
 ----
 
-### [CircleCI ★872](https://github.com/circleci/frontend)
+### [CircleCI ★879](https://github.com/circleci/frontend)
 
 * clojurescript, om, react
 * Eclipse Public License
 
 > CircleCI provides a continuous integration and deployment platform. The frontend is an impressive example of a large application built with the immutable data structures of clojurescript. The frontend integrates with pusher, intercom, d3, and google analytics and has a great example of navigation routing and communication via real-time events, websockets, and backend API servers. Its test suite is not that extensive but does provide a good example of how to test clojurescript/om apps using karma.
 
-### [Precursor App ★472](https://github.com/PrecursorApp/precursor)
+### [Precursor App ★477](https://github.com/PrecursorApp/precursor)
 
 * clojurescript, om, react
 * Eclipse Public License
 
 > Precursor is a highly interactive prototyping webapp. Its frontend is built from the ground up with clojurescript. The project has a simple enough routing and event passing system such that newer clojurescript developers could easily understand how routing in clojurescript applications can work. It is also full of many examples of how to build a component based frontend architecture that is part of an interactive graphics application i.e. where many components manipulate the HTML5 canvas or work with HTML5 APIs. 
 
-### [The Guardian ★3700](https://github.com/guardian/frontend)
+### [The Guardian ★3760](https://github.com/guardian/frontend)
 
 * play2, scala, node
 * Apache 2.0 License
@@ -51,7 +51,7 @@ This list is for developers who are looking for non-trivial quality applications
 ### Web Apps (fullstack)
 ----
 
-### [Ghost ★24257](https://github.com/TryGhost/Ghost)
+### [Ghost ★24514](https://github.com/TryGhost/Ghost)
 
 * node, express, ember
 * MIT License
@@ -65,7 +65,7 @@ This list is for developers who are looking for non-trivial quality applications
 
 > Gitlab is a code collaboration tool. It is used by more than 100,000 organizations. It has just about everything you could imagine in a webapp, user management, user roles, OAuth, i18n, many modules designed for integrating with third-parties, deep git integration, and an extensive asynchronous task system using Sidekiq. It has an exemplary test suite using cucumber and rspec.
 
-### [Discourse ★23112](https://github.com/discourse/discourse)
+### [Discourse ★23416](https://github.com/discourse/discourse)
 
 * ruby, rails, ember
 * GPLv2 License

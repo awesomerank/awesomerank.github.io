@@ -149,7 +149,7 @@ List of software with DTrace support.
 
 #### Node.js
 
-- [node-dtrace-provider ★287](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps.
+- [node-dtrace-provider ★291](https://github.com/chrisa/node-dtrace-provider) - Native DTrace probes for Node.js apps.
 
 #### Perl
 
@@ -180,13 +180,13 @@ List of software with DTrace support.
 
 ### Visualization
 
-- [FlameGraph ★4961](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
-- [node-stackvis ★324](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
+- [FlameGraph ★5137](https://github.com/brendangregg/FlameGraph) - Stack trace visualizer.
+- [node-stackvis ★325](https://github.com/joyent/node-stackvis) - Stack trace visualizer.
 
 ## Tools
 
 - [DTraceToolkit](http://www.brendangregg.com/dtracetoolkit.html) - A collection of useful documented DTrace scripts.
-- [dtrace-cloud-tools ★152 ⏳4Y](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
+- [dtrace-cloud-tools ★151 ⏳4Y](https://github.com/brendangregg/dtrace-cloud-tools) - DTrace tools written for the SmartOS/SmartDataCenter cloud (illumos-based).
 - [pgsql tools ★110 ⏳2Y](https://github.com/joyent/pgsqlstat) - Report top-level PostgreSQL stats.
 - [portsnoop ★3 ⏳3Y](https://github.com/davepacheco/portsnoop) - Trace event port activity.
 - [storage tools ★24 ⏳1Y](https://github.com/richardelling/tools) - Report NFS, CIFS and iSCSI stats.

@@ -30,7 +30,7 @@ Idris is a general purpose pure functional programming language with dependent t
 ### Official resources
 
 * [Official website](https://www.idris-lang.org/)
-* [Official repo ★2123](https://github.com/idris-lang/Idris-dev)
+* [Official repo ★2186](https://github.com/idris-lang/Idris-dev)
 
 ### Articles
 

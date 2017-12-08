@@ -27,7 +27,7 @@ inspectIT is an open source APM (Application Performance Management) tool for an
 ## Official Resources
 
 * [Website](http://www.inspectit.rocks/) - Official website.
-* [GitHub Repository ★350](https://github.com/inspectIT/inspectIT) - inspectIT's source code repository.
+* [GitHub Repository ★365](https://github.com/inspectIT/inspectIT) - inspectIT's source code repository.
 * [Issue Tracking](https://inspectit-performance.atlassian.net/browse/INSPECTIT) - inspectIT's issue tracking system.
 * [Documentation](https://inspectit-performance.atlassian.net/wiki/) - Official documentation.
 

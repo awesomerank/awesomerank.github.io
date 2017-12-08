@@ -444,13 +444,13 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 24.  [RNNLIB - A recurrent neural network library](http://sourceforge.net/p/rnnl/wiki/Home/)
 25.  [char-rnn ★6946](https://github.com/karpathy/char-rnn)
 26.  [MatConvNet: CNNs for MATLAB ★872](https://github.com/vlfeat/matconvnet)
-27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU ★614 ⏳1Y](https://github.com/dmlc/minerva)
+27.  [Minerva - a fast and flexible tool for deep learning on multi-GPU ★620 ⏳1Y](https://github.com/dmlc/minerva)
 28.  [Brainstorm - Fast, flexible and fun neural networks. ★1269](https://github.com/IDSIA/brainstorm)
-29.  [Tensorflow - Open source software library for numerical computation using data flow graphs ★75642](https://github.com/tensorflow/tensorflow)
+29.  [Tensorflow - Open source software library for numerical computation using data flow graphs ★80786](https://github.com/tensorflow/tensorflow)
 30.  [DMTK - Microsoft Distributed Machine Learning Tookit ★2300](https://github.com/Microsoft/DMTK)
 31.  [Scikit Flow - Simplified interface for TensorFlow (mimicking Scikit Learn)](https://github.com/google/skflow)
 32.  [MXnet - Lightweight, Portable, Flexible Distributed/Mobile Deep Learning framework](https://github.com/dmlc/mxnet/)
-33.  [Veles - Samsung Distributed machine learning platform ★838](https://github.com/Samsung/veles)
+33.  [Veles - Samsung Distributed machine learning platform ★844](https://github.com/Samsung/veles)
 34.  [Marvin - A Minimalist GPU-only N-Dimensional ConvNets Framework ★375](https://github.com/PrincetonVision/marvin)
 35.  [Apache SINGA - A General Distributed Deep Learning Platform](http://singa.incubator.apache.org/)
 36.  [DSSTNE - Amazon's library for building Deep Learning models](https://github.com/amznlabs/amazon-dsstne)
@@ -463,7 +463,7 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 43.  [nolearn - wrappers and abstractions around existing neural network libraries, most notably Lasagne ★855](https://github.com/dnouri/nolearn)
 44.  [Sonnet - a library for constructing neural networks by Google's DeepMind ★5540](https://github.com/deepmind/sonnet)
 45.  [PyTorch - Tensors and Dynamic neural networks in Python with strong GPU acceleration ★9184](https://github.com/pytorch/pytorch)
-46.  [CNTK - Microsoft Cognitive Toolkit ★12922](https://github.com/Microsoft/CNTK)
+46.  [CNTK - Microsoft Cognitive Toolkit ★13299](https://github.com/Microsoft/CNTK)
 
 ### Miscellaneous
 
@@ -497,8 +497,8 @@ title: Awesome Rank for ChristosChristofidis/awesome-deep-learning
 29. [Machine Learning for Software Engineers ★17146](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
 30. [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471#.oa4rzez3g)
 31. [Siraj Raval's Deep Learning tutorials](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-32. [Dockerface ★82](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
-33. [Awesome Deep Learning Music ★109](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
+32. [Dockerface ★92](https://github.com/natanielruiz/dockerface) - Easy to install and use deep learning Faster R-CNN face detection for images and video in a docker container.
+33. [Awesome Deep Learning Music ★155](https://github.com/ybayle/awesome-deep-learning-music) - Curated list of articles related to deep learning scientific research applied to music
 
 -----
 ### Contributing

@@ -36,7 +36,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 - [DevDocs](http://devdocs.io/javascript) - Search MDN comfortably. Even offline.
 - [Simplified JavaScript Jargon](http://jargon.js.org) – Glossary which explains all the buzzwords from the JavaScript eco system.
 - [Functional Programming Jargon](https://functional.works-hub.com/blog/Functional-Programming-Jargon) - Explains terms used in functional programming in the JavaScript context.
-- [Modern JavaScript Cheatsheet ★13981](https://github.com/mbeaudru/modern-js-cheatsheet) – Helps developers with basic knowledge to get familiar with modern codebases.
+- [Modern JavaScript Cheatsheet ★14526](https://github.com/mbeaudru/modern-js-cheatsheet) – Helps developers with basic knowledge to get familiar with modern codebases.
 - [ECMAScript® Language Specification](http://ecma-international.org/publications/standards/Ecma-262.htm) - The standard JavaScript is based on. Only for very advanced learners.
 
 ## Tutorials
@@ -54,7 +54,7 @@ This list is mainly about JavaScript – the language. Not about APIs, tooling, 
 ## Free eBooks
 
 - [Eloquent JavaScript](http://eloquentjavascript.net) – Covering the language and runtime specifics.
-- [You Don't Know JS (book series) ★69738](https://github.com/getify/You-Dont-Know-JS) – Series of books diving deep into language.
+- [You Don't Know JS (book series) ★71752](https://github.com/getify/You-Dont-Know-JS) – Series of books diving deep into language.
 - [Speaking JavaScript](http://speakingjs.com) - In-depth guide beginning with the basics.
 - [JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Classical and JavaScript specific design patterns.
 
@@ -103,7 +103,7 @@ Thin books which you can get through in a few days.
 
 ## Node.js
 
-- [The Art of Node ★6949](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics. 
+- [The Art of Node ★7047](https://github.com/maxogden/art-of-node#readme) - Introductory tutorial covering the basics. 
 - [NodeSchool](https://nodeschool.io) - Interactive self guided workshops you can also do on your own.
 - [Node Patterns](http://nodepatternsbooks.com) - Short books about code and networking patterns related to Node.js.
 - [Learn Node](https://learnnode.com) - A premium training course to learn to build apps with Node.js, Express, MongoDB.

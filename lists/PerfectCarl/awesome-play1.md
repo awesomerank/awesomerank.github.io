@@ -11,7 +11,7 @@ title: Awesome Rank for PerfectCarl/awesome-play1
 
 A collection of awesome Play 1.x [modules](#modules), [tools](#tools), and [resources](#resources).
 
->Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [awesome-ruby ★7886](https://github.com/markets/awesome-ruby).
+>Inspired by [awesome-php](https://github.com/ziadoz/awesome-php), [awesome-python](https://github.com/vinta/awesome-python), [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) and [awesome-ruby ★8043](https://github.com/markets/awesome-ruby).
 
 [Contributions](https://github.com/PerfectCarl/awesome-play1/blob/master/CONTRIBUTING.md) are always welcome! 
 

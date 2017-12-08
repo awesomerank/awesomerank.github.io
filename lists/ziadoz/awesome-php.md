@@ -131,7 +131,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [Laravel 5](https://laravel.com/) - Another PHP framework (L5).
 * [Nette](https://nette.org) - Another framework comprised of individual components.
 * [Phalcon](https://phalconphp.com/en/) - A framework implemented as a C extension.
-* [PPI Framework 2](http://www.ppi.io) - An interoperability framework.
+* [PPI Framework 2](https://github.com/ppi) - An interoperability framework.
 * [Symfony](https://symfony.com/) - A framework comprised of individual components (SF).
 * [Yii2 ★11080](https://github.com/yiisoft/yii2) - Another PHP framework.
 * [Zend Framework 2](https://framework.zend.com) - Another framework comprised of individual components (ZF2).
@@ -349,7 +349,7 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 ## Security
 *Libraries for generating secure random numbers, encrypting data and scanning for vulnerabilities.*
 
-* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★4815](https://github.com/jedisct1/libsodium).
+* [Halite](https://paragonie.com/project/halite) - A simple library for encryption using [libsodium ★4962](https://github.com/jedisct1/libsodium).
 * [HTML Purifier ★1024](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [IniScan ★1246](https://github.com/psecio/iniscan) - A tool that scans PHP INI files for security.
 * [Optimus ★712](https://github.com/jenssegers/optimus) - Id obfuscation based on Knuth's multiplicative hashing method.
@@ -397,13 +397,13 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 * [PHP Parser ★3122](https://github.com/nikic/PHP-Parser) - A PHP parser written in PHP.
 * [PHP Refactoring Browser ★551](https://github.com/QafooLabs/php-refactoring-browser) - A command line utility for refactoring PHP code.
 * [PHP Semantic Versioning Checker ★371](https://github.com/tomzx/php-semver-checker) - A command line utility that compares two source sets and determines the appropriate semantic versioning to apply.
-* [phan ★2481](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
+* [phan ★2521](https://github.com/phan/phan) - A static analyzer based on PHP 7+ and the php-ast extension.
 * [PHPCheckstyle ★102](https://github.com/PHPCheckstyle/phpcheckstyle) - A tool to help adhere to certain coding conventions.
 * [PHPCPD ★1331](https://github.com/sebastianbergmann/phpcpd) - A library that detects copied and pasted code.
 * [PhpDependencyAnalysis ★282](https://github.com/mamuz/PhpDependencyAnalysis) - A tool to create customisable dependency graphs.
 * [PHPLOC ★1327](https://github.com/sebastianbergmann/phploc) - A tool for quickly measuring the size of a PHP project.
 * [PHPQA ★171](https://github.com/EdgedesignCZ/phpqa) - A tool for running QA tools (phploc, phpcpd, phpcs, pdepend, phpmd, phpmetrics).
-* [PHPPHP ★663](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
+* [PHPPHP ★663 ⏳1Y](https://github.com/ircmaxell/PHPPHP) - A PHP VM implementation in PHP.
 * [PHPSandbox ★94](https://github.com/Corveda/PHPSandbox) - A PHP sandbox environment.
 * [PHPStan ★2395](https://github.com/phpstan/phpstan) - A PHP Static Analysis Tool.
 * [Qafoo Quality Analyzer ★409](https://github.com/Qafoo/QualityAnalyzer) - A tool to visualize metrics and source code.
@@ -759,7 +759,7 @@ Libraries to help manage database schemas and migrations.
 
 * [Amazon Web Service SDK ★2685](https://github.com/aws/aws-sdk-php) - The official PHP AWS SDK library.
 * [Campaign Monitor](http://campaignmonitor.github.io/createsend-php/) - The official Campaign Monitor PHP library.
-* [Digital Ocean ★159 ⏳2Y](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
+* [Digital Ocean ★159 ⏳3Y](https://github.com/toin0u/DigitalOcean) - A library to interface with the Digital Ocean API.
 * [Dropbox SDK ★217](https://github.com/dropbox/dropbox-sdk-php) - The official PHP Dropbox SDK library.
 * [Github ★64 ⏳4Y](https://github.com/dsyph3r/github-api3-php) - A library to interface with the Github API.
 * [Mailgun ★616](https://github.com/mailgun/mailgun-php) The official Mailgun PHP API.
@@ -874,7 +874,7 @@ Libraries to help manage database schemas and migrations.
 * [phpMyAdmin ★2669](https://github.com/phpmyadmin/phpmyadmin) - A web interface for MySQL/MariaDB.
 * [Adminer](https://www.adminer.org/) - Database management in a single PHP file.
 * [Grav ★7984](https://github.com/getgrav/grav) - A modern flat-file CMS.
-* [Lychee ★3967](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
+* [Lychee ★4012](https://github.com/electerious/Lychee) - An easy to use and great looking photo-management-system.
 
 ## Infrastructure
 *Infrastructure for providing PHP applications and services.*

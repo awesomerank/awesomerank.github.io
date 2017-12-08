@@ -11,10 +11,6 @@ title: Awesome Rank for sorrycc/awesome-javascript
 
 A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) libraries, resources and shiny things.
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/4nLcpb15dDGjqky6oYYGz6f7/sorrycc/awesome-javascript'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/4nLcpb15dDGjqky6oYYGz6f7/sorrycc/awesome-javascript.svg' />
-</a>
-
 * [Awesome JavaScript](#awesome-javascript)
   * [Package Managers](#package-managers)
   * [Loaders](#loaders)
@@ -336,7 +332,7 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [Ronn ★987](https://github.com/rtomayko/ronn) builds manuals. It converts simple, human readable textfiles to roff for terminal display, and also to HTML for the web.
 * [dox ★2030](https://github.com/tj/dox) is a JavaScript documentation generator written with node. Dox no longer generates an opinionated structure or style for your docs, it simply gives you a JSON representation, allowing you to use markdown and JSDoc-style tags.
 * [jsdox ★198 ⏳1Y](https://github.com/sutoiku/jsdox) is a JSDoc3 to Markdown documentation generator.
-* [ESDoc ★1698](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
+* [ESDoc ★1765](https://github.com/esdoc/esdoc) is a good documentation generator for JavaScript.
 * [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 * [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
 * [sphinx](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
@@ -486,8 +482,8 @@ There're also some great commercial libraries, like [amchart](https://www.amchar
 * [director ★4985](https://github.com/flatiron/director) - A tiny and isomorphic URL router for JavaScript.
 * [page.js ★5199](https://github.com/visionmedia/page.js) - Micro client-side router inspired by the Express router (~1200 bytes).
 * [pathjs ★1063](https://github.com/mtrpcic/pathjs) - Simple, lightweight routing for web browsers.
-* [crossroads ★1390](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
-* [davis.js ★536](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
+* [crossroads ★1390 ⏳1Y](https://github.com/millermedeiros/crossroads.js) - JavaScript Routes.
+* [davis.js ★536 ⏳1Y](https://github.com/olivernn/davis.js) - RESTful degradable JavaScript routing using pushState.
 
 
 ## Security

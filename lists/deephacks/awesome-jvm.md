@@ -102,8 +102,8 @@ A curated list of awesome JVM low level and performance related stuff.
 * [commons-math](http://commons.apache.org/proper/commons-math) - Library of lightweight, self-contained mathematics and statistics components.
 * [CuckooFilter4J ★46](https://github.com/MGunlogson/CuckooFilter4J) - Bloom filter replacement for approximated set-membership queries.
 * [cyclops ★380](https://github.com/aol/cyclops) - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
-* [Eclipse Collections ★397](https://github.com/eclipse/eclipse-collections) - Collections framework for Java.
-* [failsafe ★1912](https://github.com/jhalterman/failsafe) - A lightweight, zero-dependency library for handling failures.
+* [Eclipse Collections ★457](https://github.com/eclipse/eclipse-collections) - Collections framework for Java.
+* [failsafe ★1956](https://github.com/jhalterman/failsafe) - A lightweight, zero-dependency library for handling failures.
 * [fasttuple ★129](https://github.com/boundary/fasttuple) - Collections that are laid out adjacently in both on- and off-heap memory.
 * [FlatBuffers](http://google.github.io/flatbuffers/) - Efficient cross platform serialization library for C++, C#, Go, Java, JavaScript, PHP, and Python.
 * [geohash ★217](https://github.com/davidmoten/geo) - Java utility methods for geohashing.
@@ -118,7 +118,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [java-string-similarity ★1380](https://github.com/tdebatty/java-string-similarity) - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
 * [JCTools](http://jctools.github.io/JCTools/) - Concurrent data structures currently missing from the JDK.
 * [jsoniter](http://jsoniter.com/) - Claims to be the fastest JSON parser ever.
-* [jOOL ★1117](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
+* [jOOL ★1141](https://github.com/jOOQ/jOOL) - Useful extensions to Java 8 lambdas.
 * [Koloboke](https://github.com/OpenHFT/Koloboke) - Java Collections til the last breadcrumb of memory and performance.
 * [LevelDB ★806](https://github.com/dain/leveldb) - Rewrite (port) of LevelDB in Java.
 * [lightweight_trie ★37 ⏳5Y](https://github.com/bryanduxbury/lightweight_trie) - A very memory-efficient trie (radix tree) implementation.
@@ -149,11 +149,11 @@ A curated list of awesome JVM low level and performance related stuff.
 * [DataSketches](https://datasketches.github.io/) - A Java software library of stochastic streaming algorithms.
 * [stormpot ★116 ⏳1Y](https://github.com/chrisvest/stormpot) - A fast object pool for the JVM.
 * [stream-lib ★1709](https://github.com/addthis/stream-lib) - A Java library for summarizing data in streams for which it is infeasible to store all events.
-* [streamvbyte ★102](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
+* [streamvbyte ★111](https://github.com/lemire/streamvbyte) - Fast integer compression in C using the StreamVByte codec.
 * [TraneIO](http://trane.io/) - High-performance implementation of the Future abstraction.
 * [transducers-java ★98 ⏳2Y](https://github.com/cognitect-labs/transducers-java) - Composable algorithmic transformations independent from the context of their input and output sources.
 * [vavr](http://www.vavr.io/) - Functional Library for Java 8+.
-* [wire ★2168](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
+* [wire ★2187](https://github.com/square/wire) - Clean, lightweight protocol buffers for Android and Java.
 * [Zero-Allocation-Hashing ★258](https://github.com/OpenHFT/Zero-Allocation-Hashing) - Hashing any sequences of bytes in Java, including all kinds of primitive arrays, buffers, CharSequences and more.
 
 ## Metaprogramming
@@ -250,7 +250,7 @@ A curated list of awesome JVM low level and performance related stuff.
 * [BTrace](https://github.com/jbachorik/btrace) - a safe, dynamic tracing tool for the Java platform.
 * [Chronon](http://chrononsystems.com) - Record your entire java program. Replay on any machine.
 * [GCViewer ★1916](https://github.com/chewiebug/GCViewer) - GCViewer is a tool that visualizes verbose GC output.
-* [grav ★167](https://github.com/epickrram/grav) - A collection of tools to help visualise process execution.
+* [grav ★170](https://github.com/epickrram/grav) - A collection of tools to help visualise process execution.
 * [hawkshaw ★39 ⏳2Y](https://github.com/jClarity/hawkshaw) - Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.
 * [HdrHistogram](http://hdrhistogram.github.io/HdrHistogram/) - A Histogram that supports recording and analyzing sampled data value counts.
 * [hdrhistogram-metrics-reservoir](https://bitbucket.org/marshallpierce/hdrhistogram-metrics-reservoir) - A Metrics Reservoir implementation backed by HdrHistogram.
@@ -319,7 +319,7 @@ A curated list of awesome JVM low level and performance related stuff.
 ## Documentation
 
 *Documentation related to JVM*
-* [Linux tracing workshop ★386](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
+* [Linux tracing workshop ★437](https://github.com/goldshtn/linux-tracing-workshop) - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
 * [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) - mini-post series where every post goes deep for only a single topic by Aleksey Shipilёv.
 * [Coordinated Omission problem](https://groups.google.com/forum/#!msg/mechanical-sympathy/icNZJejUHfE/BfDekfBEs_sJ) - Discussion on Mechanical Sympathy.
 * [False sharing](http://mechanical-sympathy.blogspot.se/2011/07/false-sharing.html) - Threads impact the performance of each other while modifying independent variables sharing the same cache line. Martin Thompson.
@@ -336,6 +336,7 @@ Machine Specification Java SE 8 Edition.
 * [Using JDK 9 Memory Order Modes](http://gee.cs.oswego.edu/dl/html/j9mm.html) - For expert programmers familiar with Java concurrency, but unfamiliar with the memory order modes available in JDK 9 provided by VarHandles.
 * [CPU Utilization is Wrong](http://www.brendangregg.com/blog/2017-05-09/cpu-utilization-is-wrong.html) - Measure instructions per cycle (IPC) for CPU utilization. Brendan Gregg.
 * [Linux Load Averages: Solving the Mystery](http://www.brendangregg.com/blog/2017-08-08/linux-load-averages.html) - Brendan Gregg.
+* [What every programmer should know about solid-state drives](http://codecapsule.com/2014/02/12/coding-for-ssds-part-6-a-summary-what-every-programmer-should-know-about-solid-state-drives/) - Emmanuel Goossaert.
 
 ## Communities
 
@@ -385,6 +386,7 @@ Machine Specification Java SE 8 Edition.
 * [Cliff Click podcast 2017/10/04](http://www.cliffc.org/blog/2017/10/04/the-3-hardest-problems-in-programming/) - The 3 Hardest Problems in Programming.
 * [Cliff Click podcast 2017/11/05](http://cliffc.org/blog/2017/11/05/modern-hardware-performance-cache-lines/) - Modern Hardware Performance and Cache Lines.
 * [Cliff Click podcast 2017/11/09](http://cliffc.org/blog/2017/11/09/queuing-in-practice/) - Queuing In Practice.
+* [Which technique do programming language parsers and interpreters use?](https://www.quora.com/Which-technique-do-programming-language-parsers-and-interpreters-use/answer/Cliff-Click-1?srid=dZAx) - Cliff Click.
 * [Everything about Stack Traces and Heap Dumps](https://vimeo.com/233820012) - Andrei Pangin.
 * [Fast and safe production monitoring of JVM with BPF tools](http://s.sashag.net/velny17-jvm) - Sasha Goldshtein.
 * [The Future of the Linux Page Cache](https://www.youtube.com/watch?time_continue=1&v=xxWaa-lPR-8) - Matthew Wilcox.
@@ -393,6 +395,7 @@ Machine Specification Java SE 8 Edition.
 
 *People that influence JVM development and/or the community around it*
 * [Aleksey Shipilëv](http://shipilev.net/) - Developing Oracle/Open JDK/Hotspot and other Java-related technologies.
+* [Andrey Breslav](https://twitter.com/abreslav) - Lead Language Designer of Kotlin @ JetBrains.
 * [Brian Goetz](https://twitter.com/BrianGoetz) - Java Language Architect at Oracle.
 * [Ben Christensen](https://twitter.com/benjchristensen) - Facebook, Netflix, Apple engineering.
 * [Brendan Gregg](http://www.brendangregg.com) - Cloud performance, kernel engineer, speaker, author.
@@ -402,6 +405,8 @@ Machine Specification Java SE 8 Edition.
 * [Dávid Karnok](http://akarnokd.blogspot.se/) - RxJava committer that blogs about advanced RxJava.
 * [Doug Lea](http://g.oswego.edu/) - Author of the Java memory model.
 * [Gil Tene](https://twitter.com/giltene) - Azul Systems.
+* [Heinz Kabutz](https://twitter.com/heinzkabutz) - Author of 250+ Java Specialists' Newsletters.
+* [Jake Wharton](https://twitter.com/JakeWharton) - Square, Google, open source hacker.
 * [John Rose](https://blogs.oracle.com/jrose/) - HotSpot developer.
 * [Jonas Bonér](https://twitter.com/jboner) - Founder & CTO of Lightbend.
 * [Marcus Lagergren](https://twitter.com/lagergren) - Java language team alumnus.

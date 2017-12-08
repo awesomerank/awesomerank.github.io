@@ -44,7 +44,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [SPQR ★26 ⏳1Y](https://github.com/ottogroup/SPQR) [Java] - dynamic framework for processing high volumn data streams through pipelines.
 * [tigon ★244](https://github.com/caskdata/tigon) [C++/Java] - high throughput real-time streaming processing framework built on Hadoop and HBase.
 * [hailstorm ★76 ⏳3Y](https://github.com/hailstorm-hs/hailstorm) [Haskell] - distributed stream processing with exactly-once semantics based on Storm.
-* [Teknek ★5 ⏳1Y](https://github.com/edwardcapriolo/teknek-core) [Java] - Simple elegant stream processing with interactive prototying shell SOL (Stream Operator Language)
+* [Teknek ★5 ⏳2Y](https://github.com/edwardcapriolo/teknek-core) [Java] - Simple elegant stream processing with interactive prototying shell SOL (Stream Operator Language)
 * [concord](http://concord.io/) [C++] - a distributed stream processing framework built in C++ on top of Apache Mesos, designed for high performance data processing jobs that require flexibility & control.
 * [StreamBox](https://engineering.purdue.edu/~xzl/xsel/p/streambox/) - a modern stream processing engine which can handle out-of-order streaming data and achieve high throughput with low latency.
 * [Wallaroo](http://www.wallaroolabs.com/community) [Python] - The ultrafast and elastic data processing engine. Big or fast data - no fuss, no Java needed.
@@ -55,7 +55,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [Akka Streams](http://doc.akka.io/docs/akka/2.4.16/scala/stream/stream-introduction.html) [Scala] - stream processing library on Akka Actors. 
 * [Swave](http://swave.cc/) [Scala] - A lightweight Reactive Streams Infrastructure Toolkit for Scala.
 * [FS2(prev. 'Scalaz-Stream') ★923](https://github.com/functional-streams-for-scala/fs2) [Scala] - Compositional, streaming I/O library for Scala.
-* [monix ★911](https://github.com/monix/monix) [Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
+* [monix ★936](https://github.com/monix/monix) [Scala] - high-performance Scala / Scala.js library for composing asynchronous and event-based programs.
 
 ### Streaming Application
 
@@ -72,7 +72,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [coast ★60 ⏳1Y](https://github.com/bkirwi/coast) [Scala] - a DSL that builds DAGs on top of Samza and provides exactly-once semantics.
 * [Apache Beam](https://github.com/apache/incubator-beam) [Java] - unified model and set of language-specific SDKs for defining and executing data processing workflows, and also data ingestion and integration flows, supporting Enterprise Integration Patterns (EIPs) and Domain Specific Languages (DSLs), open sourced by Google.
 * [Esper ★324](https://github.com/espertechinc/esper) [Java] - component for complex event processing (CEP) and event series analysis.
-* [Streamparse ★1216](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
+* [Streamparse ★1227](https://github.com/Parsely/streamparse) [Python] - lets you run Python code against real-time streams of data via Apache Storm.
 
 ### Data Pipeline
 
@@ -103,7 +103,7 @@ A curated list of awesome [streaming (stream processing)](http://radar.oreilly.c
 * [pipelinedb ★1472](https://github.com/pipelinedb/pipelinedb) [C] - An open-source relational database that runs SQL queries continuously on streams, incrementally storing results in tables.
 * [squall ★261](https://github.com/epfldata/squall) [Java] - Squall executes SQL queries on top of Storm for doing online processing.
 * [StreamCQL ★332](https://github.com/HuaweiBigData/StreamCQL) [Java] - Continuous Query Language on RealTime Computation System.
-* [KSQL ★1048](https://github.com/confluentinc/ksql) [Java] - a Streaming SQL Engine for Apache Kafka.
+* [KSQL ★1173](https://github.com/confluentinc/ksql) [Java] - a Streaming SQL Engine for Apache Kafka.
 
 
 ### Benchmark

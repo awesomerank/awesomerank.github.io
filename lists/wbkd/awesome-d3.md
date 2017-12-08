@@ -61,7 +61,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [metricsgraphics ★6757](https://github.com/mozilla/metrics-graphics) - Optimized for visualizing time-series data
 - [micropolar ★113](https://github.com/biovisualize/micropolar) - A polar chart library
 - [mpld3 ★1543](https://github.com/mpld3/mpld3) - Export matplotlib graphics to work in the Browser
-- [neo4jd3 ★97](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
+- [neo4jd3 ★108](https://github.com/eisman/neo4jd3) - Neo4j graph visualization
 - [nvd3 ★6246](https://github.com/novus/nvd3) - Re-usable charts and chart components
 - [peek ★64 ⏳1Y](https://github.com/mtmacdonald/peek) - Object-oriented chart library
 - [plotly ★7091](https://github.com/plotly/plotly.js) - High level charting library
@@ -75,8 +75,8 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [uvCharts ★232](https://github.com/imaginea/uvCharts)  - Supports lots of different chart types
 - [vega ★5424](https://github.com/vega/vega) - A visualization grammar
 - [vega-lite ★982](https://github.com/vega/vega-lite) - A high-level grammar of interactive graphics
-- [venn.js ★540](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
-- [visavail ★84](https://github.com/flrs/visavail) - Time data availability visualization
+- [venn.js ★552](https://github.com/benfred/venn.js) - Area proportional Venn and Euler diagrams
+- [visavail ★90](https://github.com/flrs/visavail) - Time data availability visualization
 - [vizabi](https://github.com/Gapminder/vizabi) - A framework for building visual data exploration tools
 - [xkcdgraphs ★312](https://github.com/imkevinxu/xkcdgraphs) - Xkcd style graphs
 
@@ -87,7 +87,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [d3 simplecharts ★4 ⏳4Y](https://github.com/mrBigJS/d3-simpleCharts) - A d3 wordpress plugin
 - [ember charts ★771](https://github.com/Addepar/ember-charts) - Charts for Ember
 - [n3-charts ★1218](https://github.com/n3-charts/line-chart) - Charts for Angular
-- [nivo ★1793](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability
+- [nivo ★1851](https://github.com/plouc/nivo) - Dataviz components for React with isomorphic ability
 - [numberpicture ★81](https://github.com/finnfiddle/number-picture) - Collection of React components for composing visualizations
 - [react-d3 ★1675 ⏳1Y](https://github.com/esbullington/react-d3) - Charts for React
 - [react-d3-components ★1288](https://github.com/codesuki/react-d3-components) - D3 Components
@@ -95,7 +95,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 - [react-stockcharts ★1082](https://github.com/rrag/react-stockcharts) - Highly customizable stock charts
 - [react-vis](https://github.com/uber-common/react-vis) - A collection of react components to render common data visualization charts
 - [recharts ★7166](https://github.com/recharts/recharts) - Re-designed charting library built with React
-- [semiotic ★939](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3
+- [semiotic ★996](https://github.com/emeeks/semiotic) - A data visualization framework combining React & D3
 - [victory ★5245](https://github.com/FormidableLabs/victory) - A collection of composable React components for building interactive data visualizations
 - [vx ★3052](https://github.com/hshoff/vx) - Visualization components for React
 
@@ -103,7 +103,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 - [carto map ★220 ⏳2Y](https://github.com/emeeks/d3-carto-map) - A mapping API that uses D3 geospatial functionality
 - [composite-projections ★37](https://github.com/rveciana/d3-composite-projections) - Set of projections for showing countries' distant lands together
-- [datamaps ★2541](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file
+- [datamaps ★2588](https://github.com/markmarkoh/datamaps) - Customizable map visualizations in one file
 - [d3 cartogram ★255](https://github.com/shawnbot/topogram) - Cartograms with D3 & TopoJSON
 - [d3 exploder ★80](https://github.com/bsouthga/d3-exploder) - Lets you easily move and resize geographic features
 - [d3 geo projection ★568](https://github.com/d3/d3-geo-projection) - Extended geographic projections
@@ -163,7 +163,7 @@ Curators: [Moritz Klack](https://twitter.com/moklick) and [Christopher Möller](
 
 ## Miscellaneous
 
-- [chess-dataviz ★32](https://github.com/ebemunk/chess-dataviz) - Chess dataviz library
+- [chess-dataviz ★32 ⏳1Y](https://github.com/ebemunk/chess-dataviz) - Chess dataviz library
 - [codeflower ★447](https://github.com/fzaninotto/CodeFlower) - Bird's eye view of the whole code
 - [comic.js ★111 ⏳1Y](https://github.com/balint42/comic.js) - Cartoon style drawing (works also for canvas, Raphael & SVG.js)
 - [dragit ★152 ⏳1Y](https://github.com/romsson/dragit) - A toolkit to enable the manipulation of data graphics

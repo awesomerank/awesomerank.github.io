@@ -165,10 +165,11 @@ Installers
 * [Supergiant](http://supergiant.io/) - CoreOS - Cloud Agnostique - [Apache-2.0](https://github.com/supergiant/supergiant/blob/master/LICENSE)
 * [Archon ★130](https://github.com/kubeup/archon) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kubeup/archon/blob/master/LICENSE)
 * [KubeNow ★124](https://github.com/kubenow/KubeNow) - Ubuntu - Cloud Agnostique - [Apache-2.0](https://github.com/kubenow/KubeNow/blob/master/LICENSE)
-* [Kubicorn ★785](https://github.com/kris-nova/kubicorn) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kris-nova/kubicorn/blob/master/LICENSE)
-* [Simplekube ★50](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
+* [Kubicorn ★850](https://github.com/kris-nova/kubicorn) - OS Agnostique - Cloud Agnostique - [Apache-2.0](https://github.com/kris-nova/kubicorn/blob/master/LICENSE)
+* [Simplekube ★57](https://github.com/valentin2105/Simplekube) - `systemd` OS - Cloud Agnostique
 * [Conjure-up ★197](https://github.com/conjure-up/conjure-up) - Ubuntu - Cloud Agnostique - [MIT](https://github.com/conjure-up/conjure-up/blob/master/LICENSE)
-* [Kube-ansible ★11](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
+* [Kube-ansible ★24](https://github.com/kairen/kube-ansible) - OS Agnostique - Cloud Agnostique - [MIT](https://github.com/kairen/kube-ansible/blob/master/LICENSE)
+* [matchbox ★470](https://github.com/coreos/matchbox) - CoreOS - Network boot and provision Container Linux clusters (e.g. etcd3, Kubernetes, more).
 
 Main Resources
 =======================================================================
@@ -176,7 +177,7 @@ Main Resources
 *Official resources from the Kubernetes team*
 
 * [Kubernetes Documentation](https://kubernetes.io/docs/home/)
-* [Kubernetes Source ★28449](https://github.com/kubernetes/kubernetes)
+* [Kubernetes Source ★29736](https://github.com/kubernetes/kubernetes)
 * [Kubernetes Troubleshooting](https://kubernetes.io/docs/tasks/debug-application-cluster/troubleshooting/)
 
 
@@ -250,12 +251,12 @@ Useful Articles
 Managed Kubernetes
 =======================================================================
 
-  - [Platform9](https://github.com/platform9)
-  - [Gravitational](https://github.com/gravitational)
+  - [Platform9](http://platform9.com)
+  - [Gravitational](https://gravitational.com/)
   - [OpenShift Online](https://www.openshift.com/devpreview/index.html)
   - [Eldarion Cloud](http://eldarion.cloud/)
   - [StackPoint Cloud](https://stackpointcloud.com/)
-  - [Kubermatic](https://kubermatic.io/)
+  - [Kubermatic](http://www.loodse.com//)
 
 
   ### [Developer Platform](#developer-platform)
@@ -272,7 +273,7 @@ Managed Kubernetes
   - [CoreOS Tectonic](https://tectonic.com)
   - [OpenShift - Container Platform](https://www.openshift.com/container-platform/index.html)
   - [SUSE Container as a Service](https://www.suse.com/betaprogram/caasp-beta/)
-  - [Kubermatic](https://kubermatic.io/)
+  - [Kubermatic](http://www.loodse.com/)
 
   ### [Public/Private Cloud](#publicprivate-cloud)
 
@@ -350,7 +351,7 @@ Persistent Volume Providers
 * [QuoByte](https://www.quobyte.com/)
 * [Kube-Aliyun ★58](https://github.com/kubeup/kube-aliyun)
 * [Portworx](https://portworx.com/)
-* [OpenEBS ★2418](https://github.com/openebs/openebs)
+* [OpenEBS ★2506](https://github.com/openebs/openebs)
 * [StorageOS](https://storageos.com)
 
 Developer Libraries/ Scripts
@@ -376,7 +377,7 @@ Projects
 
 *Projects built to make life with Kubernetes even better, more powerful, more scalable*
 
-* [Argo ★196](https://github.com/argoproj/argo) The Workflow Engine for Kubernetes
+* [Argo ★238](https://github.com/argoproj/argo) The Workflow Engine for Kubernetes
 * [Hypernetes ★470](https://github.com/hyperhq/hypernetes)
 * [Kubernetes Cluster Federation (previously Ubernetes)](https://kubernetes.io/docs/concepts/cluster-administration/federation/)
 * [kmachine ★173](https://github.com/skippbox/kmachine)
@@ -389,7 +390,7 @@ Projects
 * [Client Libraries](https://github.com/kubernetes/community/blob/master/contributors/devel/client-libraries.md)
 * [Kubic-Project](https://github.com/kubic-project)
 * [Telepresence](https://www.telepresence.io) - Locally develop/debug services against a remote Kubernetes cluster
-* [Fission Workflows ★52](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
+* [Fission Workflows ★72](https://github.com/fission/fission-workflows) - Workflow-based serverless function composition
 * [Ambassador](https://www.getambassador.io) - API Gateway built on the Envoy Proxy
 
 ## Package Managers
@@ -406,6 +407,7 @@ Projects
 * [Heapster ★1561](https://github.com/kubernetes/heapster)
 * [Kube-ui](https://github.com/kubernetes/kube-ui)
 * [Kubedash](https://github.com/kubernetes/kubedash)
+* [Kubernetes Operational View ★277](https://github.com/hjacobs/kube-ops-view) - read-only system dashboard for multiple K8s clusters
 * [Kubetail ★388](https://github.com/johanhaleby/kubetail)
 * [Kubewatch ★147](https://github.com/skippbox/kubewatch)
 * [Netsil ★56](https://github.com/netsil/manifests)
@@ -413,13 +415,13 @@ Projects
 * [Sysdig Monitoring](https://www.sysdig.com/)
 * [Sysdig Open Source](http://www.sysdig.org/)
 * [Weave Scope](https://www.weave.works/products/weave-scope/)
-* [Searchlight ★74](https://github.com/appscode/searchlight)
+* [Searchlight ★83](https://github.com/appscode/searchlight)
 
 ## Testing
 
 *Test your applications running on Kubernetes*
 
-* [kube-monkey ★426](https://github.com/asobti/kube-monkey)
+* [kube-monkey ★459](https://github.com/asobti/kube-monkey)
 * [k8s-testsuite ★13](https://github.com/mrahbar/k8s-testsuite) - Helm chart for network and loadtesting of a Kubernetes cluster
 
 ## Continuous Delivery
@@ -455,26 +457,22 @@ Projects
 ## Operators
 
 * [Prometheus ★557](https://github.com/coreos/prometheus-operator)
-
 * [Kong API ★39](https://github.com/upmc-enterprises/kong-operator)
-
 * [Kubernetes Operators ★44](https://github.com/sapcc/kubernetes-operators)
-
 * [K8s Operator Workshop ★3](https://github.com/lukebond/cc-au-k8s-operators-workshop)
-
 * [Cert Operator ★17](https://github.com/giantswarm/cert-operator)
 * [Cert manager ★761](https://github.com/kelseyhightower/kube-cert-manager)
-
 * [Operator Kit ★40](https://github.com/rook/operator-kit)
 * [Container Linux Update Operator ★73](https://github.com/coreos/container-linux-update-operator)
-
 * [DB Operator ★17](https://github.com/k8sdb/operator)
 * [etcd ★441](https://github.com/coreos/etcd-operator)
 * [Elasticsearch ★184](https://github.com/upmc-enterprises/elasticsearch-operator)
 * [Memcached ★6](https://github.com/kbst/memcached)
 * [MongoDB ★4](https://github.com/kbst/mongodb)
 * [PostgreSQL ★179](https://github.com/CrunchyData/postgres-operator)
+* [PostgreSQL](https://github.com/zalando-incubator/postgres-operator) - manage PostgreSQL clusters using StatefulSets and [Patroni ★1284](https://github.com/zalando/patroni).
 * [Kafka ★93](https://github.com/krallistic/kafka-operator)
+* [TensorFlow jobs Operator ★119](https://github.com/tensorflow/k8s)
 
 
 ## Custom Schedulers
@@ -493,12 +491,13 @@ Projects
 * [Docker](http://docker.com):
 * [Rkt](http://coreos.com/rkt)
   * [Rktnetes](http://kubernetes.io/docs/getting-started-guides/rkt/)
-  * [rktlet ★61](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes
+  * [rktlet ★71](https://github.com/kubernetes-incubator/rktlet) - Rkt implementation of a Kubernetes
 * [containerd ★1881](https://github.com/containerd/containerd)
+* [cri-containerd ★135](https://github.com/kubernetes-incubator/cri-containerd) - Containerd-based implementation of Kubernetes Container Runtime Interface
 * [CRI-O (OCI) ★767](https://github.com/kubernetes-incubator/cri-o)
 * [Hyper.sh/frakti ★209](https://github.com/kubernetes/frakti) - Hypervisor-based container runtime
-* [virtlet ★106](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads
-* [infranetes ★14](https://github.com/apporbit/infranetes)
+* [virtlet ★114](https://github.com/Mirantis/virtlet) - Kubernetes CRI implementation for running VM workloads
+* [infranetes ★15](https://github.com/apporbit/infranetes)
 
 ## Database
 
@@ -523,11 +522,12 @@ Projects
 * [Kube-router](http://github.com/cloudnativelabs/kube-router)
 * [Cilium ★1172](https://github.com/cilium/cilium)
 * [Linen ★20](https://github.com/John-Lin/linen-cni)
-* [Multu ★78](https://github.com/Intel-Corp/multus-cni)
-* [CNI-Genie ★64](https://github.com/Huawei-PaaS/CNI-Genie)
+* [Multu ★98](https://github.com/Intel-Corp/multus-cni)
+* [CNI-Genie ★82](https://github.com/Huawei-PaaS/CNI-Genie)
 * [Romana](http://romana.io/)
-* [Infoblox ★3](https://github.com/infobloxopen/cni-infoblox)
-* [External DNS ★488](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
+* [Infoblox ★4](https://github.com/infobloxopen/cni-infoblox)
+* [External DNS ★553](https://github.com/kubernetes-incubator/external-dns) - To control DNS records dynamically via Kube resources
+* [cni-ipvlan-vpc-k8s ★94](https://github.com/lyft/cni-ipvlan-vpc-k8s)
 
 ## Service mesh
 
@@ -536,6 +536,7 @@ Projects
 * [Linkerd](https://linkerd.io/getting-started/k8s/)
 * [Amalgam8](http://www.amalgam8.io/)
 * [WeaveWorks](http://www.weave.works/weave-for-kubernetes/)
+* [Conduit](https://conduit.io/)
 
 ## RPC
 
@@ -563,7 +564,7 @@ Projects
 
 ## API/CLI adaptors
 
-* [kube-prompt ★401](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
+* [kube-prompt ★445](https://github.com/c-bata/kube-prompt) - Interactive kubernetes client built using go-prompt.
 * [Kube-shell ★414](https://github.com/cloudnativelabs/kube-shell) - Integrated shell for working with the Kubernetes CLI
 * [Kubebot ★66 ⏳1Y](https://github.com/harbur/kubebot)
 * [kubectx ★304](https://github.com/ahmetb/kubectx) - switch between clusters on kubectl
@@ -584,7 +585,7 @@ Projects
 * [IBM UrbanCode](https://developer.ibm.com/urbancode/plugin/kubernetes/)
 * [Nulecule ★225 ⏳1Y](https://github.com/projectatomic/nulecule)
 * [Deployment manager](https://cloud.google.com/deployment-manager/)
-* [Psykube ★31](https://github.com/commercialtribe/psykube)
+* [Psykube ★52](https://github.com/commercialtribe/psykube)
 * [Brigade ★628](https://github.com/Azure/brigade) - Event Based Scripting using JavaScript
 
 ## Configuration
@@ -642,7 +643,7 @@ Projects
 
 * [Kube.libsonnet](https://github.com/heptio/kube.libsonnet) - Currently Unstable
 * [kompose ★1812](https://github.com/kubernetes/kompose)
-* [kubeval ★254](https://github.com/garethr/kubeval)
+* [kubeval ★265](https://github.com/garethr/kubeval)
 
 ## Tuning
 
@@ -793,7 +794,7 @@ Conferences
 
 * [Kubecon](http://events.linuxfoundation.org/events/kubecon)
 * [Container Camp](https://container.camp/)
-* [GCP Next](https://cloudplatformonline.com/Next2016.html)
+* [GCP Next](https://cloudnext.withgoogle.com/)
 * [Docker Con](http://dockercon.com)
 * [Devoxx](http://devoxx.com)
 

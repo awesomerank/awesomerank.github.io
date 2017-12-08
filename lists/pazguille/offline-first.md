@@ -887,7 +887,7 @@ See the [Mozilla MakeDrive Wiki page](https://wiki.mozilla.org/Webmaker/MakeDriv
 
 [Orbit.js](http://orbitjs.com/): Framework for orchestrating access, transformation, and synchronization between data sources.
 
-[workbox ★3359](https://github.com/GoogleChrome/workbox): JavaScript libraries for Offline Caching
+[workbox ★3617](https://github.com/GoogleChrome/workbox): JavaScript libraries for Offline Caching
 
 
 ## Books

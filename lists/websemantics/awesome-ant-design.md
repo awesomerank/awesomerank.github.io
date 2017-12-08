@@ -45,13 +45,15 @@ Ant Design, a design language for middleware, is refined by Experience Technolog
 - [Frameworks](#frameworks)
 - [Boilerplates](#boilerplates)
 - [Non-JavaScript Libraries](#non-javascript-libraries)
+- [Electron](#electron)
 - [Contributing](#contributing)
 
 ## Resources
 
 Official projects and resources of Ant Design,
 
-- [Ant Design](http://ant.design/) - Enterprise-class UI design language and React-based implementation.
+- [Ant Design](http://ant.design/) - An Enterprise-class UI design language and React-based implementation.
+- [Ant Design Pro](http://pro.ant.design/) - An out-of-box UI solution for enterprise applications :fire::fire::fire:
 - [Ant Design Mobile](http://mobile.ant.design/) - Configurable Mobile UI specification and React-based implementation.
 - [Ant Design of React](http://react-component.github.io/badgeboard/) - Graceful UI components out of the box, based on React.
 - [Ant Design of Ember](http://idcos.github.io/antd-ember/#/home) - Enterprise-class UI framework based on Ant Design and Emberjs.
@@ -88,7 +90,7 @@ Ant Design family of projects.
 
 Projects that are built with Angular and Ant Design.
 
-- [NG-ZORRO ★1682](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
+- [NG-ZORRO ★1923](https://github.com/NG-ZORRO/ng-zorro-antd) - Ant Design of Angular.
 
 ## Vue.js
 
@@ -108,7 +110,7 @@ A list of UI components built with Ant Design.
 - [react-lz-editor ★335](https://github.com/leejaen/react-lz-editor) - An open source rich react editor based on draft-Js and ant design.
 - [React Grid ★10 ⏳1Y](https://github.com/kagawagao/react-grid) __[Deprecated]__ - Grid React UI Component based on Ant Design.
 - [Antd Kit ★21 ⏳1Y](https://github.com/huhulab/antd-kit) - Advanced Ant Design components.
-- [antd-data-table ★21](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
+- [antd-data-table ★28](https://github.com/NewbeeFE/antd-data-table) - A component that combines antd's Table and Form to do the search, display, and operating jobs for data.
 
 ## Applications
 
@@ -136,7 +138,7 @@ A list of starter projects and boilerplates built with Ant Design.
 - [Webbf ★238](https://github.com/peterchenhdu/webbf) - Java demo that uses Maven to build the backend with Spring, Spring MVC and Mybatis. React, Reflux, Eebpack, jQuery, React-bootstrap and Ant Design.
 - [React Redux Antd Starter ★60 ⏳1Y](https://github.com/BetaRabbit/react-redux-antd-starter) - Front-end boilerplate built with React, Redux and Ant Design.
 - [Koa ★49 ⏳1Y](https://github.com/yukrain/koa-antd-admin) - Example app to build Admin UI built with React, Ant Design and Koa.
-- [Star Admin ★71](https://github.com/pookpal/star-initReact-example) - Demo app built with React, Ant Design, Redux, React-router, Webpack and Babel.
+- [Star Admin ★71 ⏳1Y](https://github.com/pookpal/star-initReact-example) - Demo app built with React, Ant Design, Redux, React-router, Webpack and Babel.
 - [React Redux Intro ★31 ⏳1Y](https://github.com/LeuisKen/react-redux-intro) - Demo app built with Ant Design and can be configured to initialize a Redux dependencies.
 - [React Start Kit ★99](https://github.com/jovey-zheng/react-start-kit) - SPA Boilerplate built with React, Webpack, ES6+, Redux, Router, Babel, Express, Ant Design.
 - [CL React ★72](https://github.com/chenliang2016/CLReactAntDesign) - Based on Ant Design front-end framework structures for enterprise back-office software.
@@ -147,14 +149,20 @@ A list of starter projects and boilerplates built with Ant Design.
 - [Dva Ant Admin ★2](https://github.com/jiangbo2015/learn-dva) - A front-end boilerplate built with Dva, Ant-Design
 - [Aspnet Core Antd Boilerplate ★7](https://github.com/bang88/aspnet-core-react-antd-boilerplate) - Server Side Rendering with Asp.net core.
 - [React Redux Universal ★15](https://github.com/subenksaha/react-redux-universal) - Universal/Isomorphic boilerplate using react router 4 and webpack 2.5+. All latest packages.
-- [CRA-TS-Antd ★25](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
-- [Ng-Alain ★274](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
+
+- [CRA-TS-Antd ★32](https://github.com/comerc/cra-ts-antd) - Create-React-App + TypeScript + Ant-Design (without Eject).
+- [Ng-Alain ★558](https://github.com/cipchk/ng-alain) - Angular Admin UI built on Ant Design (with ng-zorro-antd).
 
 ## Non-JavaScript Libraries
 
 A list of libraries that are written for non-JavaScript languages.
 
 - [Antizer ★96](https://github.com/priornix/antizer) - Ant Design library for [ClojureScript](https://clojurescript.org/), an immutable, functional language that cross-compiles to JavaScript.
+
+## Electron
+
+- [StarCabinet ★98](https://github.com/thundernet8/StarCabinet) - Github Stars-based cross-platform tool based on React, Electronand and Ant Design.
+- [Nowa ★106](https://github.com/nowa-webpack/nowa-gui) - A webpack based front-end plug-in scaffolding and development solution.
 
 ## Contributing
 

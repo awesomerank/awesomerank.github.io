@@ -270,7 +270,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Imagemin ★1701](https://github.com/imagemin/imagemin) - Minify images seamlessly with Node.js.
 * [Sharp ★6619](https://github.com/lovell/sharp) - The typical use case for this high speed Node.js module is to convert large images of many formats to smaller, web-friendly JPEG, PNG and WebP images of varying dimensions.
 * [Gm ★4527](https://github.com/aheckmann/gm) - GraphicsMagick and ImageMagick for node.
-* [Exexif ★7253](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
+* [Exexif ★7409](https://github.com/h4cc/awesome-elixir) - Pure elixir library to extract tiff and exif metadata from jpeg files.
 * [OptiPNG](http://optipng.sourceforge.net/) - OptiPNG is a PNG optimizer that recompresses image files to a smaller size, without losing any information.
 * [Grunt-contrib-imagemin ★1187](https://github.com/gruntjs/grunt-contrib-imagemin) - Minify PNG and JPEG images for Grunt.
 * [Gulp-imagemin ★1359](https://github.com/sindresorhus/gulp-imagemin) - Minify PNG, JPEG, GIF and SVG images with imagemin for Gulp.
@@ -284,7 +284,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Shrinkray](https://shrinkray.io) - One-click optimization for images in your Github repos
 * [mozjpeg ★2764](https://github.com/mozilla/mozjpeg) - Improved JPEG encoder.
 * [Jpegoptim ★614](https://github.com/tjko/jpegoptim) - Utility to optimize/compress JPEG files.
-* [ZopfliPNG ★1994](https://github.com/google/zopfli) - A command line program to optimize PNG images.
+* [ZopfliPNG ★2027](https://github.com/google/zopfli) - A command line program to optimize PNG images.
 * [AdvPNG](http://www.advancemame.it/doc-advpng.html) - Recompress png files to get the smallest possible size.
 * [Leanify ★428](https://github.com/JayXon/Leanify) - Lightweight lossless file minifier/optimizer.
 * [Trimage](http://trimage.org/) - A cross-platform tool for losslessly optimizing PNG and JPG files.
@@ -356,7 +356,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [Grunt-contrib-concat ★813](https://github.com/gruntjs/grunt-contrib-concat) - A Grunt plugin to concatenate files.
 * [Grunt-contrib-uglify ★1402](https://github.com/gruntjs/grunt-contrib-uglify) - A Grunt plugin to concatenate and minify Javascript files.
 * [Clean-css ★2683](https://github.com/jakubpawlowicz/clean-css) - A fast, efficient, and well tested CSS minifier for node.js.
-* [Django-compressor ★1945](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
+* [Django-compressor ★1966](https://github.com/django-compressor/django-compressor) - Compresses linked and inline javascript or CSS into a single cached file.
 * [Django-pipeline](https://github.com/cyberdelia/django-pipeline) - Pipeline is an asset packaging library for Django, providing both CSS and JavaScript concatenation and compression, built-in JavaScript template support, and optional data-URI image and font embedding.
 * [JShrink ★487](https://github.com/tedious/JShrink) - JShrink is a PHP class that minifies javascript so that it can be delivered to the client quicker.
 * [JSCompress](http://jscompress.com/) - The most minimalistic online JS Compress tool.
@@ -428,7 +428,7 @@ A curated list of Web Performance Optimization. Everyone can contribute here!
 * [HTTPerf.rb ★13 ⏳2Y](https://github.com/jmervine/httperfrb) - Simple Ruby interface for httperf, written in Ruby.
 * [PHP-httperf ★5 ⏳3Y](https://github.com/jmervine/php-httperf) - PHP Port of HTTPerf.rb.
 * [HTTPerf.js ★23 ⏳3Y](https://github.com/jmervine/httperfjs) - JS Port of HTTPerf.rb.
-* [HTTPerf.py ★11 ⏳2Y](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb.
+* [HTTPerf.py ★11 ⏳3Y](https://github.com/jmervine/httperfpy) - Python Port of HTTPerf.rb.
 * [Gohttperf ★5 ⏳2Y](https://github.com/jmervine/gohttperf) - Go Port of HTTPerf.rb.
 * [wrk ★13969](https://github.com/wg/wrk) - A HTTP benchmarking tool (with optional Lua scripting for request generation, response
   processing, and custom reporting)

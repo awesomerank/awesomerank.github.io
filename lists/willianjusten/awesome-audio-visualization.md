@@ -163,21 +163,21 @@ title: Awesome Rank for willianjusten/awesome-audio-visualization
 
 ## Libraries Audio
 
-- [web-audio-analyser ★141 ⏳1Y](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
-- [web-audio-player ★139](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player.
+- [web-audio-analyser ★142 ⏳1Y](https://github.com/hughsk/web-audio-analyser) - A thin wrapper around the Web Audio API that takes an <audio> element and gives you its waveform/frequency data in return.
+- [web-audio-player ★142](https://github.com/Jam3/web-audio-player) - A cross-browser Web Audio player.
 - [web-media-playback ★6 ⏳2Y](https://github.com/hughsk/web-media-playback) - Retrieve playback and buffering information about audio or video playing in the browser.
 - [Pizzicato.js](https://alemangui.github.io/pizzicato/) - Simplify the way you create and manipulate sounds via the Web Audio API.
-- [ThreeAudio.js ★418 ⏳2Y](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
+- [ThreeAudio.js ★422 ⏳2Y](https://github.com/unconed/ThreeAudio.js) - Helps you create music visualizations in Three.js or tQuery.
 - [Beeplay.js](https://watilde.github.io/beeplay/) - Write a song In JavaScript.
-- [MIDI.js ★2351](https://github.com/mudcube/MIDI.js) - Making life easy to create a MIDI-app on the web.
-- [Beep.js ★1183 ⏳2Y](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers.
-- [p5.sound ★257](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
+- [MIDI.js ★2376](https://github.com/mudcube/MIDI.js) - Making life easy to create a MIDI-app on the web.
+- [Beep.js ★1184 ⏳2Y](https://github.com/stewdio/beep.js) - A JavaScript toolkit for building browser-based synthesizers.
+- [p5.sound ★267](https://github.com/processing/p5.js-sound) - Brings the Processing approach to Web Audio and p5.js.
 - [Audiolet](https://www.jhtrnr.com/Audiolet/) - A JavaScript library for real-time audio synthesis and composition.
 - [coffee-collider](https://www.npmjs.com/package/coffee-collider) - A language for real time audio synthesis and algorithmic composition in HTML5.
 - [audio-render](https://github.com/audio-lab/render) - A pass-through audio stream, providing structure for rendering stream audio data.
 - [Octavian ★104 ⏳2Y](https://github.com/stevekinney/octavian) - Utilities for reasoning about musical notes, frequencies, and intervals
 - [waveform-data](https://www.npmjs.com/package/waveform-data) - Audio Waveform Data Manipulation API – resample, offset and segment waveform data in JavaScript.
-- [audiowaveform ★406](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
+- [audiowaveform ★418](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files.
 
 ## Libraries Visualization
 
@@ -191,10 +191,10 @@ title: Awesome Rank for willianjusten/awesome-audio-visualization
 - [Cinder](https://libcinder.org/) - A community-developed, free and open source library for professional-quality creative coding in C++.
 - [Processing](https://www.processing.org/) - An open source programming language and integrated development environment built for the electronic arts, new media art, and visual design communities.
 - [HYPE_processing](http://www.hypeframework.org/) - Collection of Processing classes that performs heavy lifting tasks while using a minimal amount of code writing.
-- [The Force ★89](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
-- [Hylogen ★351](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
+- [The Force ★91](https://github.com/shawnlawson/The_Force) - Live coded shader editing with audio input.
+- [Hylogen ★354](https://github.com/sleexyz/hylogen) - Purely functional language embedded in Haskell for expressive live coding of fragment shaders (with audio input).
 - [Peaks.js](https://www.npmjs.com/package/peaks.js) - Modular client-side JavaScript component designed for the display of and interaction with audio waveform material in the browser.
-- [Clubber.js ★174](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations.
+- [Clubber.js ★186](https://github.com/wizgrav/clubber) - Application of music theory in audio reactive visualizations.
 - [Vuo](https://vuo.org) — A realtime visual programming language for interactive media.
 - [wavesurfer.js](https://wavesurfer-js.org/) - A customizable audio waveform visualization, built on top of Web Audio API and HTML5 Canvas
 

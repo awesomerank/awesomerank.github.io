@@ -127,7 +127,13 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 
 ### Mood
 - [MoodCast](https://2appstudio.com/moodcast/) - Keep track of your daily mood & activities (Android).
-- [Daylio](http://daylio.webflow.io/) - Capture your day without writing down a single line (iOS & Android).
+- [Daylio](http://daylio.webflow.io/) - Capture your day without writing down a single line. Exportable data with Premium Version. (iOS & Android).
+- [MoodNotes](http://moodnotes.thriveport.com/) - Capture your feelings with a modifiable smiling or frowning face. Exportable data. (iOS and Apple Watch).
+- [MoodPanda](http://moodpanda.com/) - One of the oldest moodtrackers available online. Rate your mood and share to support. Exportable data. Sync and extend via API (Web, iOS, Android).
+- [MoodJam](http://moodjam.com/) - Track your moods with colors. (Web only).
+- [iMoodJournal](https://www.imoodjournal.com/) - Mood Tracking on a 10-point scale from Really great to Couldn't be worse. Exportable data. (Android, iOS, Apple Watch).
+- [Perspective](https://itunes.apple.com/us/app/perspective-daily-journal/id1186753097?mt=8) - Journaling to captures Thoughts, Moods, and Interests with the goal of helping you reflect and find perspective. (iOS).
+- [Moods by Mokriya](https://itunes.apple.com/us/app/moods-tracking-for-better-mental-health/id1023271188?mt=8) - Quick track your mood as good, okay or bad. Specify feelings using a word cloud. No data export option. (iOS, Apple Watch).
 
 ### Sleep
 - [Sleep as Android](http://sleep.urbandroid.org/) - Full featured sleep tracker with wearable integration (Android).
@@ -195,10 +201,10 @@ Contributions welcome. Add links through pull requests or create an issue to sta
 ## Open Source Projects
 
 - [Open mHealth](http://www.openmhealth.org/) - Open source health data integration tools.
-- [Connector DB ★77](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
+- [Connector DB ★82](https://github.com/connectordb/connectordb) - A repository for all of your quantified-self data.
 - [Quantifier ★15](https://github.com/tsubery/quantifier) - A Quantified Self app that tracks various fitness and productivity metrics.
-- [Fluxtream ★128 ⏳1Y](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
-- [Flow Dashboard ★925](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
+- [Fluxtream ★129 ⏳1Y](https://github.com/fluxtream/fluxtream-app) - An open-source non-profit personal data visualization framework.
+- [Flow Dashboard ★941](https://github.com/onejgordon/flow-dashboard) - Habit tracker and personal data analytics app.
 
 ## License
 

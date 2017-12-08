@@ -45,6 +45,8 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
  * [Building a Blog With Next.js](https://timber.io/blog/building-a-blog-with-next-js)
  * [Using Google Analytics with Next.js](https://malloc.fi/using-google-analytics-with-next-js)
  * [Build a Universal JavaScript App with Next.js and Redux _[Russian]_](https://habrahabr.ru/post/323588/)
+ * [Next.js — React Server Side Rendering Done Right](https://hackernoon.com/next-js-react-server-side-rendering-done-right-f9700078a3b6)
+ * [5 (of the Many Reasons) to love Zeit's Next.js](https://www.codementor.io/tgreco/5-of-the-many-things-to-love-about-zeit-s-next-js-bpszu99g1)
 
 
 ## Boilerplates
@@ -53,7 +55,7 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [RAN! ★1114](https://github.com/sly777/ran) - Production-ready boilerplate with support for GraphQL, SSR, Hot-reload, CSS-in-JS, caching, and more.
 * [Next Simple Blog ★280](https://github.com/tscanlin/next-blog) - Simple Markdown based blog built with Next.js with static exports.
 * [Create-Next-App](https://open.segment.com/create-next-app) - Fork of Facebook's create-react-app to create a next application.
-* [phox ★1](https://github.com/herschel666/phox) - Create a static photo blog.
+* [phox ★3](https://github.com/herschel666/phox) - Create a static photo blog.
 
 ## Extensions
 * [Next Routes ★433](https://github.com/fridays/next-routes) - Universal named routes for Next.js.
@@ -76,11 +78,11 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Dashboard ★298](https://github.com/danielbayerlein/dashboard) - Create your own team dashboard with custom widgets.
 * [Snape ★65](https://github.com/ritz078/snape) - A torrent client to search, stream and download torrents. 
 * [Trello Resume ★3](https://github.com/juliandavidmr/TrelloResume) - Converts trello data into fast read information.
-* [Server Authentication with JWT ★13](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
+* [Server Authentication with JWT ★14](https://github.com/estrada9166/server-authentication-next.js) - Server authentication, prevent render before validation.
 * [Alexander Kachkaev’s website](https://gitlab.com/kachkaev/website-frontend/) – personal homepage built with Next.js, GraphQL, Docker and Kubernetes. Uses apollo client, react-intl, styled-components and recompose. Docker images are automatically built by GitLab CI. 
 * [Cookie handler with server render ★0](https://github.com/estrada9166/cookie-handler-next.js) - Cookie handler with server render, access the cookie before render.
 * [Gank ★20](https://github.com/OrangeXC/gank) - A Next.js App use gank-api, mobx and antd
-* [Decoupled CMS example with GraphQL and Next.js ★4](https://github.com/janit/decoupled-cms-nextjs-graphql)
+* [Decoupled CMS example with GraphQL and Next.js ★5](https://github.com/janit/decoupled-cms-nextjs-graphql)
 * [DS ★1](https://github.com/divyenduz/ds) - Personal site manager.
 
 ## Videos
@@ -92,6 +94,12 @@ title: Awesome Rank for unicodeveloper/awesome-nextjs
 * [Introduction to Next.js](https://www.youtube.com/watch?v=Fnw3lNeH-XI)
 * [Next.js in production](https://www.youtube.com/watch?v=h6rETZH6Ym0)
 * [Parameterized Routing with Next.js](https://www.youtube.com/watch?v=2cJya4h5ync)
+* [JSHeroes 2017 | Guillermo Rauch - Static and Dynamic Next.js](https://www.youtube.com/watch?v=lLNJsuXB4CI)
+* [Programming the Universal Future with Next.js - Guillermo Rauch · JSConf China 2017](https://www.youtube.com/watch?v=w9Or7B4kTRY)
+* [BPJS: Special - Introduction to Next.js](https://www.youtube.com/watch?v=4cfozXTyjWQ)
+* [Next for Next.js](https://www.youtube.com/watch?v=ms2aOV06_qk)
+* [Data Management With Next.js and GraphQL](https://www.youtube.com/watch?v=g_LA1quUIi8)
+* [Next.js Register User](https://www.youtube.com/watch?v=oQ60Grn4RYQ)
 
 ## Contributing
 Found an awesome package, article, blog, video etc.? Send me a pull request! Just follow the [guidelines](https://github.com/unicodeveloper/awesome-nextjs/blob/master//CONTRIBUTING.md). Thank you!

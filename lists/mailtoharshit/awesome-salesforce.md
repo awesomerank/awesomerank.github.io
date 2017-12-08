@@ -107,7 +107,7 @@ Read [the awesome manifesto](https://github.com/mailtoharshit/awesome-salesforce
 
 <img src="https://raw.githubusercontent.com/mailtoharshit/awesome-salesforce/master/src/package.png" align="right" width="220">
 
-* [Apex Commons Sample Code ★53](https://github.com/financialforcedev/fflib-apex-common-samplecode)- Samples application illustrating the Apex Enterprise Patterns library
+* [Apex Commons Sample Code ★53 ⏳1Y](https://github.com/financialforcedev/fflib-apex-common-samplecode)- Samples application illustrating the Apex Enterprise Patterns library
     Must deploy [Apex Common  ★210](https://github.com/financialforcedev/fflib-apex-common) before deploying this library<br/>
     <a href="https://githubsfdeploy.herokuapp.com?owner=financialforcedev&repo=fflib-apex-common-samplecode"><img alt="Deploy to Salesforce" src="https://raw.githubusercontent.com/afawcett/githubsfdeploy/master/src/main/webapp/resources/img/deploy.png">
 </a>
@@ -204,7 +204,7 @@ This library has been extended by five libraries <br/>
 * [ngForce ★148](https://github.com/noeticpenguin/ngForce) -A set of Angular.js modules that facilitate quick and sustainable Angular.js application development on the Force.com Platform.
 * [ForceTK ★292](https://github.com/developerforce/Force.com-JavaScript-REST-Toolkit)- ForceTK - a minimal Force.com REST API for JavaScript apps
 * [ForceEng ★49](https://github.com/ccoenraets/forceng) - Micro-Library to use Salesforce REST API in AngularJS apps
-* [Formulon ★13](https://github.com/leifg/formulon) - Formula parser completely implemented in ES6. [See Demo](http://formulon.io)
+* [Formulon ★13 ⏳1Y](https://github.com/leifg/formulon) - Formula parser completely implemented in ES6. [See Demo](http://formulon.io)
 * [Scripting Toolkit](https://www.adminbooster.com/tool/scripting-toolkit) - Windows based toolkit to run native Javascript to access Salesforce data.
 
 

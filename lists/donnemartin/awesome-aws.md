@@ -529,7 +529,7 @@ AWS Repos:
 
 Community Repos:
 
-* [capeless/warrant ★83](https://github.com/capless/warrant) - Python library for using Cognito.
+* [capeless/warrant ★97](https://github.com/capless/warrant) - Python library for using Cognito.
 
 ### Data Pipeline
 
@@ -562,7 +562,7 @@ AWS Repos:
 * [aws-dotnet-session-provider ★16](https://github.com/aws/aws-dotnet-session-provider) - A session state provider for ASP.NET apps.
 * [aws-dotnet-trace-listener ★8 ⏳1Y](https://github.com/aws/aws-dotnet-trace-listener) - A trace listener for System.Diagnostics that can be used to log events.
 * [aws-dynamodb-encryption-java ★83](https://github.com/awslabs/aws-dynamodb-encryption-java) - Encryption Client for Java.
-* [aws-dynamodb-examples ★96](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
+* [aws-dynamodb-examples :fire: ★96](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
 * [aws-dynamodb-mars-json-demo ★46 ⏳3Y](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images.
 * [aws-dynamodb-session-tomcat ★86](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
 * [aws-sessionstore-dynamodb-ruby ★42](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
@@ -755,7 +755,7 @@ Community Repos:
 * [nficano/python-lambda :fire::fire::fire: ★554](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in Lambda.
 * [serverless/serverless :fire::fire::fire::fire::fire: ★20224](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 * [Tim-B/grunt-aws-lambda :fire::fire: ★248](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
-* [trek10inc/aws-lambda-debugger :fire: ★188](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
+* [trek10inc/aws-lambda-debugger :fire: ★198](https://github.com/trek10inc/aws-lambda-debugger) - Remote debugging tool for Lambda functions running on Node 6.10
 
 ### Machine Learning
 

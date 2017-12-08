@@ -516,7 +516,7 @@ $ git psykorebase master feature
 ```
 
 
-## [gitflow (AVH Edition) ★2326](https://github.com/petervanderdoes/gitflow-avh)
+## [gitflow (AVH Edition) ★2393](https://github.com/petervanderdoes/gitflow-avh)
 
 ### flow init
 
@@ -571,7 +571,7 @@ $ git flow support
 ```
 
 
-## [git-up ★2733](https://github.com/aanand/git-up)
+## [git-up ★2729](https://github.com/aanand/git-up)
 
 ```
 $ git up
@@ -583,7 +583,7 @@ returning to 4.0
 ```
 
 
-## [hub ★11610](https://github.com/github/hub)
+## [hub ★11799](https://github.com/github/hub)
 
 ### clone
 
@@ -746,7 +746,7 @@ success
 ```
 
 
-## [git-deploy ★2071](https://github.com/mislav/git-deploy)
+## [git-deploy ★2076](https://github.com/mislav/git-deploy)
 
 ```
 $ git remote add production "user@example.com:/apps/mynewapp"
@@ -756,12 +756,12 @@ $ git push production master
 ```
 
 
-## [git-cal ★983](https://github.com/k4rthik/git-cal)
+## [git-cal ★986](https://github.com/k4rthik/git-cal)
 
 ![68747470733a2f2f7261772e6769746875622e636f6d2f6b34727468696b2f6769742d63616c2f6d61737465722f73637265656e73686f74732f696d67322e706e67](https://cloud.githubusercontent.com/assets/6316590/12465623/17d828ea-c023-11e5-8077-2e9a284defd6.png)
 
 
-## [git-hooks ★806](https://github.com/icefox/git-hooks)
+## [git-hooks ★814](https://github.com/icefox/git-hooks)
 
 ```
 $ git hooks --install
@@ -780,7 +780,7 @@ pre-commit/bsd 	- Check for the BSD license.
 ```
 
 
-## [git-imerge ★1774](https://github.com/mhagger/git-imerge)
+## [git-imerge ★1785](https://github.com/mhagger/git-imerge)
 
 ### imerge start
 
@@ -958,7 +958,7 @@ Date:   Thu Aug 27 10:39:10 2015 +1000
 ```
 
 
-## [git-plus ★74](https://github.com/tkrajina/git-plus)
+## [git-plus ★76](https://github.com/tkrajina/git-plus)
 
 ### multi
 
@@ -1000,7 +1000,7 @@ $ git recent
 ```
 
 
-## [git-test ★116](https://github.com/spotify/git-test)
+## [git-test ★119](https://github.com/spotify/git-test)
 
 ```
 $ git test -v
@@ -1011,7 +1011,7 @@ iter commit  tree    result
 ```
 
 
-## [legit ★4520](https://github.com/kennethreitz/legit)
+## [legit ★4540](https://github.com/kennethreitz/legit)
 
 ### branches
 
@@ -1135,7 +1135,7 @@ Unpublishing master.
 ```
 
 
-## [git-when-merged ★200 ⏳1Y](https://github.com/mhagger/git-when-merged)
+## [git-when-merged ★202 ⏳1Y](https://github.com/mhagger/git-when-merged)
 
 ```
 $ git when-merged a2c9e695ecf3600f21fa731e705fd1a0503632d9
@@ -1145,7 +1145,7 @@ refs/heads/master                      Commit is directly on this branch.
 ```
 
 
-## [git-playback ★77 ⏳1Y](https://github.com/jianli/git-playback)
+## [git-playback ★78 ⏳1Y](https://github.com/jianli/git-playback)
 
 ```
 $ git playback README.md
@@ -1177,7 +1177,7 @@ $ git open upstream master
 ```
 
 
-## [git-my ★16](https://github.com/davidosomething/git-my)
+## [git-my ★17](https://github.com/davidosomething/git-my)
 
 ```
 $ git my
@@ -1218,7 +1218,7 @@ $ git ink
 ```
 
 
-## [recursive-blame ★52 ⏳1Y](https://github.com/scottgonzalez/recursive-blame)
+## [recursive-blame ★53 ⏳1Y](https://github.com/scottgonzalez/recursive-blame)
 
 ```
 $ git recursive-blame version package.json
@@ -1259,7 +1259,7 @@ Match:  1 of 1
 ```
 
 
-## [git-fire ★1904](https://github.com/qw3rtman/git-fire)
+## [git-fire ★1988](https://github.com/qw3rtman/git-fire)
 
 ```
 $ git fire
@@ -1278,12 +1278,12 @@ Leave building!
 ```
 
 
-## [git-town ★1471](https://github.com/Originate/git-town)
+## [git-town ★1492](https://github.com/Originate/git-town)
 
 TBD
 
 
-## [git-blame-someone-else ★4321](https://github.com/jayphelps/git-blame-someone-else)
+## [git-blame-someone-else ★4505](https://github.com/jayphelps/git-blame-someone-else)
 
 ```
 $ git blame-someone-else 'Steve Mao <maochenyan@gmail.com>' 2efb4e3a061a2e8aaa58033e9c13c3e0e5fcde4b
@@ -1291,7 +1291,7 @@ Steve Mao  is now the author of 2efb4e3. You're officially an asshole.
 ```
 
 
-## [diff-so-fancy ★8787](https://github.com/so-fancy/diff-so-fancy)
+## [diff-so-fancy ★8935](https://github.com/so-fancy/diff-so-fancy)
 
 ```
 $ git dsf
@@ -1300,7 +1300,7 @@ $ git dsf
 ![diff-so-fancy](https://cloud.githubusercontent.com/assets/39191/13622719/7cc7c54c-e555-11e5-86c4-7045d91af041.png)
 
 
-## [git-stats ★4446](https://github.com/IonicaBizau/git-stats)
+## [git-stats ★4473](https://github.com/IonicaBizau/git-stats)
 
 ![](http://i.imgur.com/PpM0i3v.png)
 
@@ -1358,7 +1358,7 @@ done. all 1 files are revealed.
 ```
 
 
-## [git-fixup ★106](https://github.com/keis/git-fixup)
+## [git-fixup ★109](https://github.com/keis/git-fixup)
 
 ```
 $ git diff --cached -U0
@@ -1375,7 +1375,7 @@ $ git fixup 6d623f6525dd94b4aaea6f6ae2e7a59edc39bdb8
 ```
 
 
-## [git-recent ★624](https://github.com/paulirish/git-recent)
+## [git-recent ★629](https://github.com/paulirish/git-recent)
 
 ```
 $ git recent
@@ -1408,7 +1408,7 @@ Options:
 ```
 
 
-## [git-user ★10](https://github.com/gesquive/git-user)
+## [git-user ★11](https://github.com/gesquive/git-user)
 
 ```
 # add a work profile for Henry
@@ -1449,17 +1449,17 @@ Saved Profiles:
 ![git-cleanup-branch](https://raw.githubusercontent.com/ne-sachirou/git-cleanup-branch/master/demo.gif)
 
 
-## [gitsome ★5373](https://github.com/donnemartin/gitsome)
+## [gitsome ★5424](https://github.com/donnemartin/gitsome)
 
 TBD
 
 
-## [git-hound ★100](https://github.com/ezekg/git-hound)
+## [git-hound ★106](https://github.com/ezekg/git-hound)
 
 TBD
 
 
-## [git-recall ★1907](https://github.com/Fakerr/git-recall)
+## [git-recall ★1908](https://github.com/Fakerr/git-recall)
 
 ![](https://camo.githubusercontent.com/eb306717b95724c33dd0de91faa535a4818cc7d0/687474703a2f2f696d6775722e636f6d2f7a7577324c71572e676966)
 
@@ -1479,7 +1479,7 @@ $ git recall -f
 ```
 
 
-## [git-standup ★4550](https://github.com/kamranahmedse/git-standup)
+## [git-standup ★4670](https://github.com/kamranahmedse/git-standup)
 
 ```
 $ git standup
@@ -1495,7 +1495,7 @@ a1097116 - add versioning to readme (14 hours ago) <Steve Mao>
 ```
 
 
-## [commitizen ★2123](https://github.com/commitizen/cz-cli)
+## [commitizen ★2327](https://github.com/commitizen/cz-cli)
 
 ```
 $ git cz

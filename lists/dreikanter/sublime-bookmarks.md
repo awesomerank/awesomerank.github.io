@@ -101,13 +101,13 @@ Notes:
 
 Plugins:
 
-- [MagicPython ★911](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
+- [MagicPython ★923](https://github.com/MagicStack/MagicPython) — Syntax highlighter for cutting edge Python for Sublime Text and Atom.
 - [Rope ★423](https://github.com/python-rope/rope) — a Python refactoring library.
 - [SublimeLinter PEP 257](https://github.com/SublimeLinter/SublimeLinter-pep257) — an interface to [PEP 257](https://github.com/GreenSteam/pep257#pep-257-docstring-style-checker) (docstring style checker).
 - [Djaneiro ★806](https://github.com/squ1b3r/Djaneiro) — Django support.
 - [SublimePythonTidy ★41 ⏳4Y](https://github.com/witsch/SublimePythonTidy) — [PythonTidy](https://pypi.python.org/pypi/PythonTidy/) integration.
-- [Anaconda ★1645](https://github.com/DamnWidget/anaconda) — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
-- [SublimeJEDI ★759](https://github.com/srusskih/SublimeJEDI) — Python autocompletion.
+- [Anaconda ★1670](https://github.com/DamnWidget/anaconda) — autocompletion, code linting, IDE features, autopep8 formating, McCabe complexity checker and Vagrant for Sublime Text 3 using Jedi, PyFlakes, pep8, PyLint, pep257 and McCabe that will never freeze your Sublime Text.
+- [SublimeJEDI ★774](https://github.com/srusskih/SublimeJEDI) — Python autocompletion.
 
 ### JavaScript Profile
 
@@ -136,7 +136,7 @@ Plugins:
 
 - [GotoDocumentation ★127](https://github.com/kemayo/sublime-text-2-goto-documentation) — a plugin to jump to documentation for the current word.
 - [DashDoc ★1198](https://github.com/farcaller/DashDoc) — [Dash](https://kapeli.com/dash) integration for Sublime Text.
-- [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool ★5900](https://github.com/gleitz/howdoi).
+- [HowDoI](https://github.com/azac/sublime-howdoi-direct-paste) — integration for instant [coding answers search tool ★5979](https://github.com/gleitz/howdoi).
 
 ## Integration
 

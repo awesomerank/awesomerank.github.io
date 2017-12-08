@@ -13,7 +13,7 @@ title: Awesome Rank for phalcon/awesome-phalcon
 [![Build Status](https://api.travis-ci.org/phalcon/awesome-phalcon.svg?branch=master)](https://travis-ci.org/phalcon/awesome-phalcon)
 
 
-A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go ★24821](https://github.com/avelino/awesome-go).
+A curated list of awesome Phalcon libraries and resources. Inspired by [awesome-go ★25806](https://github.com/avelino/awesome-go).
 
 
 ### Contributing
@@ -137,7 +137,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 *Admin Panels & Dashboards.*
 
 * [dasshy ★26 ⏳2Y](https://github.com/phalcon/dasshy) - Statistics dashboard with Mongo/Phalcon
-* [PhalconTime ★2](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton
+* [PhalconTime ★3](https://github.com/Videles/PhalconTime) - TimeKeeping tool / Dashboard skeleton
 
 
 ## Debug
@@ -296,7 +296,7 @@ Join us on [Discord](https://discordapp.com/invite/kRc2N2M) to chat with other a
 
 * [ElasticsearchIndexer ★5 ⏳1Y](https://github.com/SidRoberts/phalcon-elasticsearchindexer) - Elasticsearch indexer component for Phalcon
 * [phalcon-datatables ★42 ⏳1Y](https://github.com/m1ome/phalcon-datatables) - Phalcon adapter for DataTables
-* [phalcon-elasticsearch ★29](https://github.com/ovr/phalcon-elasticsearch) - Phalcon + Elastic
+* [phalcon-elasticsearch ★29 ⏳1Y](https://github.com/ovr/phalcon-elasticsearch) - Phalcon + Elastic
 * [Searcher ★23 ⏳2Y](https://github.com/stanislav-web/Searcher) - Database searcher for Phalcon PHP Framework
 
 

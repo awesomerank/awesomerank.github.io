@@ -101,7 +101,7 @@ title: Awesome Rank for johnjago/awesome-ad-free
 
 ### Ad Blocker
 
-- [uBlock Origin ★10487](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
+- [uBlock Origin ★10927](https://github.com/gorhill/uBlock) - General-purpose blocker that removes ads and privacy-invading trackers by default.
 
 ### Articles
 

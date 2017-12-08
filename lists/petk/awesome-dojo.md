@@ -68,7 +68,7 @@ Inspired by the `awesome-*` trend on GitHub.
 * [Dojo Boilerplate ★391 ⏳2Y](https://github.com/csnover/dojo-boilerplate) - A starting boilerplate for developing with Dojo Toolkit
 * [Dojo Twitter bootstrap ★183](https://github.com/xsokev/Dojo-Bootstrap) - An implementation of the Twitter Bootstrap framework using Dojo
 * [dojo.js ★16 ⏳1Y](https://github.com/gpedro/dojo.js) - Minimalistic boilerplate to start your dojo with Jasmine and Gulp.
-* [dojo-node-boilerplate ★19 ⏳2Y](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS
+* [dojo-node-boilerplate ★19 ⏳3Y](https://github.com/kitsonk/dojo-node-boilerplate) - A quickstart "template" for using Dojo Toolkit on NodeJS
 
 [Back to top](#awesome-dojo)
 

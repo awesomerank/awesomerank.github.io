@@ -31,6 +31,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 - [Data](#data)
 - [Datasets](#datasets)
 - [Enterprise Master Patient Index](#empi)
+- [Machine Learning](#machine-learning)
 
 ### EHR
   * [Bahmni](http://www.bahmni.org/) - Hospital system.
@@ -38,7 +39,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [EHRServers](http://cabolabs.com/en/projects) - The openEHR clinical data repository.
   * [GNU Health](http://health.gnu.org/) - Electronic Medical Record, Hospital Management, and Health Information System.
   * [GNUmed](http://wiki.gnumed.de/bin/view/Gnumed) - Electronic Medical Record software.
-  * [EHRServer ★49](https://github.com/ppazos/cabolabs-ehrserver) - Generic, minimal, standards-based, service-oriented, openEHR clinical data storage.
+  * [EHRServer ★53](https://github.com/ppazos/cabolabs-ehrserver) - Generic, minimal, standards-based, service-oriented, openEHR clinical data storage.
   * [FreeHealth EHR](https://freehealth.io) - Electronic Health Record software.
   * [FreeMedForms EMR](https://freemedforms.com) - Electronic Medical Record software.
   * [HospitalRun](http://hospitalrun.io/) - HospitalRun is built to provide the most modern Hospital Information System possible to the least resourced environments.
@@ -46,7 +47,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [HOSxP](http://hosxp.net/joomla25/) - Thai Hospital Information System that aims to ease the healthcare workflow of health centers and central hospitals.
   * [LibreHealth EHR](http://librehealth.io/projects/lh-ehr/) - Clinically-focused Electronic Health Record System.
   * [MedinTux](https://medintux.org/) - French Medical Practice Management System.
-  * [Odoo Medical ★137](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
+  * [Odoo Medical ★138](https://github.com/OCA/vertical-medical) - Universal Health and Hospital Information System.
   * [OpenClinic](http://openclinic.sourceforge.net/) - Medical Records System.
   * [OpenEMR](http://www.open-emr.org/) - Electronic Health Records and Medical Practice Management application.
   * [OpenEyes](http://www.openeyes.org.uk) - Electronic Medical Record application for ophthalmology.
@@ -74,6 +75,7 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Imaging
   * [3D Slicer](https://www.slicer.org) - Cross-platform application for analyzing, visualizing and understanding medical image data.
+  * [Cornerstome ★582](https://github.com/cornerstonejs/cornerstone) - An open source project with a goal to deliver a complete web based medical imaging platform.
   * [dcm4che](http://www.dcm4che.org/) - Clinical Image and Object Management.
   * [Drishti](http://sf.anu.edu.au/Vizlab/drishti/) - Tomography and electron-microscopy data visualizer aimed for scientists and lay people.
   * [Endrov](http://www.endrov.net/) - Image and data viewer software aimed for complex spatio-temporal image data, mainly obtained from microscopes in biological research.
@@ -85,10 +87,12 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [LibreHealth Radiology](http://librehealth.io/projects/lh-radiology/) - Customized version of LibreHealth Toolkit with additional tools for radiology and imaging professionals.
   * [OpenREM](http://openrem.org/) - Radiation Exposure Monitoring for physicists.
   * [Orthanc](http://www.orthanc-server.com) - Lightweight DICOM server for healthcare and medical research.
+  * [Papaya ★189](https://github.com/rii-mango/Papaya) - Pure JavaScript medical research image viewer.
   * [VTK](http://www.vtk.org/) - 3 dimensional visualization toolkit supporting a variety of algorithms and modeling techniques.
 
 ### Dental
   * [Open Dental](http://www.opendental.com) - Practice Management Software.
+  * [OpenMolar](http://openmolar.com/) - Dental Practice Management Software. 
 
 ### Laboratory
   * [Bika](https://www.bikalims.org/) - LIMS.
@@ -100,25 +104,25 @@ Curated list of awesome open source healthcare software, libraries, tools and re
   * [CareKit ★1379](https://github.com/carekit-apple/CareKit) - CareKit is an open source software framework for creating apps that help people better understand and manage their health.
   * [Clinical Meteor project](https://github.com/clinical-meteor) - Meteor for FDA, HIPPA, and HL7 compliant applications.
   * [FHIRBase](http://fhirbase.github.io) - Storage based on the FHIR Standard.
-  * [Intervention Engine FHIR Server ★49](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
+  * [Intervention Engine FHIR Server ★52](https://github.com/intervention-engine/fhir) - Generic FHIR server implementation in GoLang.
   * [Opal](http://opal.openhealthcare.org.uk/) - Framework for building clinical applications.
   * [ResearchKit ★4924](https://github.com/ResearchKit/ResearchKit) - Software framework that makes it easy to create apps for medical research or for other research projects.
-  * [Spark ★77](https://github.com/furore-fhir/spark) - FHIR server.
+  * [Spark ★78](https://github.com/furore-fhir/spark) - FHIR server.
   * [Swift-SMART ★53](https://github.com/smart-on-fhir/Swift-SMART) - Swift SMART on FHIR framework for iOS and OS X.
 
 ### Libraries
-  * [FHIR .NET API ★208](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR.
-  * [fhir.js ★101](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
-  * [HAPI FHIR ★448](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
-  * [Health data standards ★81](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
+  * [FHIR .NET API ★217](https://github.com/ewoutkramer/fhir-net-api) - The official .NET API for HL7 FHIR.
+  * [fhir.js ★104](https://github.com/FHIR/fhir.js) - JavaScript client for FHIR.
+  * [HAPI FHIR ★458](https://github.com/jamesagnew/hapi-fhir) - Java API for HL7 FHIR Clients and Servers.
+  * [Health data standards ★82](https://github.com/projectcypress/health-data-standards) - Ruby library for generating and consuming various healthcare related formats. These include HITSP C32, QRDA Category I, and QRDA Category III.
   * [MITK](http://mitk.org/wiki/MITK) - The Medical Imaging Interaction Toolkit.
-  * [Node HL7 ★10](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
-  * [Python HL7 ★96 ⏳1Y](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
-  * [Ruby FHIR ★27](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
-  * [Ruby HL7 ★90 ⏳4Y](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
+  * [Node HL7 ★12](https://github.com/MatthewVita/node-hl7-complete) - Node module that is bridged with the Java Hapi HL7 library.
+  * [Python HL7 ★98 ⏳1Y](https://github.com/johnpaulett/python-hl7) - Simple library for parsing messages of HL7 version 2.x into Python objects.
+  * [Ruby FHIR ★28](https://github.com/fhir-crucible/fhir_client) - FHIR client implementation in Ruby.
+  * [Ruby HL7 ★91 ⏳4Y](https://github.com/segfault/ruby-hl7) - Ruby HL7 library.
 
 ### Applications
-  * [Intervention Engine ★13](https://github.com/intervention-engine/ie) - The Intervention Engine project provides a web-application for data-driven team huddles.
+  * [Intervention Engine ★15](https://github.com/intervention-engine/ie) - The Intervention Engine project provides a web-application for data-driven team huddles.
   * [SMART Pediatric Growth Chart ★19](https://github.com/smart-on-fhir/growth-chart-app) - Pediatric growth charts.
 
 ### PHR
@@ -142,22 +146,27 @@ Curated list of awesome open source healthcare software, libraries, tools and re
 
 ### Bioinformatics
   * [ADAM ★672](https://github.com/bigdatagenomics/adam) - Genomics analysis platform.
-  * [Bcbio ★490](https://github.com/chapmanb/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
+  * [Bcbio ★501](https://github.com/chapmanb/bcbio-nextgen) - Validated, scalable, community developed variant calling, RNA-seq and small RNA analysis.
   * [Galaxy](https://galaxyproject.org/) - Open web-based platform for data intensive biomedical research.
   * [Wregex](http://ehubio.ehu.eus/wregex/) - Amino acid motif searching software with optional Position-Specific Scoring Matrix.
 
 ### Data
   * [Caisis](http://www.caisis.org/) - Oncology research software with a Patient Data Management System.
+  * [Cedar](http://projectcedar.org/) - Open source tool for testing the strength of Electronic Clinical Quality Measure
   * [cTAKES](http://ctakes.apache.org/) - Natural Language Processing System for extraction of information from Electronic Medical Record clinical free-text.
   * [DHIS](http://dhiskp.gov.pk/) - District Health Management Information System and data warehouse.
   * [HRHIS](https://www.ihris.org/toolkit/) - Health Information System for management of human resources for health.
-  * [Synthea Patient Generator ★73](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
+  * [Synthea Patient Generator ★82](https://github.com/synthetichealth/synthea) - Synthetic patient generator that models the medical history of synthetic patients.
 
 ### Datasets
-  * [Medical Data for Machine Learning ★1259](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning.
+  * [Medical Data for Machine Learning ★1365](https://github.com/beamandrew/medical-data) - A curated list of medical data for machine learning.
 
 ### EMPI
   * [MEDIC Client Registry RI ★5](https://github.com/MohawkMEDIC/client-registry) - The Mohawk College MARC-HI/MEDIC Client Registry EMPI Implementation.
+  
+### Machine learning
+  * [Computational Healthcare Library](http://www.computationalhealthcare.com/library) - A platform for analysis & development of machine learning models using large de-identified healthcare datasets. 
+  * [Healthcare.ai](https://healthcare.ai) - Python and R tools for healthcare machine learning 
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/kakoni/awesome-healthcare">kakoni/awesome-healthcare</a> with ranks

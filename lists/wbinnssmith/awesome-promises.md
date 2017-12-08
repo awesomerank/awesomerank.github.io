@@ -62,7 +62,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 These implement no more or less than the es6 spec. They make great polyfills and are exceptionally compatible with native promises.
 
 * [pinkie](https://github.com/floatdrop/pinkie) - Ponyfill. Node-oriented, but [browserifyable](https://github.com/substack/node-browserify). *Extremely* small implementation.
-* [native-promise-only ★584](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible.
+* [native-promise-only ★584 ⏳1Y](https://github.com/getify/native-promise-only) - Polyfill. Browser and node-compatible.
 * [es6-promise ★5133](https://github.com/stefanpenner/es6-promise) - Opt-in polyfill. A strict-spec subset of rsvp.js.
 * [lie ★584](https://github.com/calvinmetcalf/lie) - Small, browserifyable with an opt-in polyfill.
 

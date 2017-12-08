@@ -71,7 +71,7 @@ More info [here](http://tensorflow.org).
 * [GoogleNet Convolutional Neural Network Groups Movie Scenes By Setting ★276 ⏳1Y](https://github.com/agermanidis/thingscoop) - Search, filter, and describe videos based on objects, places, and other things that appear in them
 * [Neural machine translation between the writings of Shakespeare and modern English using TensorFlow ★185](https://github.com/tokestermw/tensorflow-shakespeare) - This performs a monolingual translation, going from modern English to Shakespeare and vice-versa.
 * [Chatbot ★1274](https://github.com/Conchylicultor/DeepQA) - Implementation of ["A neural conversational model"](http://arxiv.org/abs/1506.05869)
-* [Colornet - Neural Network to colorize grayscale images ★3175](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
+* [Colornet - Neural Network to colorize grayscale images ★3175 ⏳1Y](https://github.com/pavelgonchar/colornet) - Neural Network to colorize grayscale images
 * [Neural Caption Generator ★321](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show and Tell"](http://arxiv.org/abs/1411.4555)
 * [Neural Caption Generator with Attention ★321](https://github.com/jazzsaxmafia/show_attend_and_tell.tensorflow) - Implementation of ["Show, Attend and Tell"](http://arxiv.org/abs/1502.03044)
 * [Weakly_detector ★257](https://github.com/jazzsaxmafia/Weakly_detector) - Implementation of ["Learning Deep Features for Discriminative Localization"](http://cnnlocalization.csail.mit.edu/)
@@ -95,7 +95,7 @@ More info [here](http://tensorflow.org).
 * [Lip Reading - Cross Audio-Visual Recognition using 3D Architectures in TensorFlow ★264](https://github.com/astorfi/lip-reading-deeplearning) - TensorFlow Implementation of ["Cross Audio-Visual Recognition in the Wild Using Deep Learning"](https://arxiv.org/abs/1706.05739) by Torfi et al.
 * [Attentive Object Tracking ★59](https://github.com/akosiorek/hart) - Implementation of ["Hierarchical Attentive Recurrent Tracking"](https://arxiv.org/abs/1706.09262)
 * [Holographic Embeddings for Graph Completion and Link Prediction ★0](https://github.com/laxatives/TensorFlow-TransX) - Implementation of [Holographic Embeddings of Knowledge Graphs](http://arxiv.org/abs/1510.04935)
-* [Unsupervised Object Counting ★13](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
+* [Unsupervised Object Counting ★16](https://github.com/akosiorek/attend_infer_repeat) - Implementation of ["Attend, Infer, Repeat"](https://papers.nips.cc/paper/6230-attend-infer-repeat-fast-scene-understanding-with-generative-models)
 
 <a name="github-powered-by" />
 
@@ -110,13 +110,13 @@ More info [here](http://tensorflow.org).
 
 ## Libraries
 
-* [Lattice ★239](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
+* [Lattice ★258](https://github.com/tensorflow/lattice) - Implementation of Monotonic Calibrated Interpolated Look-Up Tables in TensorFlow
 * [tf.contrib.learn](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/learn/python/learn) - Simplified interface for Deep/Machine Learning (now part of TensorFlow)
 * [tensorflow.rb ★573](https://github.com/somaticio/tensorflow.rb) - TensorFlow native interface for ruby using SWIG
 * [tflearn ★7080](https://github.com/tflearn/tflearn) - Deep learning library featuring a higher-level API
 * [TensorFlow-Slim](https://github.com/tensorflow/models/tree/master/inception/inception/slim) - High-level library for defining models
 * [TensorFrames](https://github.com/tjhunter/tensorframes) - TensorFlow binding for Apache Spark
-* [TensorForce ★812](https://github.com/reinforceio/tensorforce) - TensorForce: A TensorFlow library for applied reinforcement learning
+* [TensorForce ★1038](https://github.com/reinforceio/tensorforce) - TensorForce: A TensorFlow library for applied reinforcement learning
 * [TensorFlowOnSpark ★1917](https://github.com/yahoo/TensorFlowOnSpark) - initiative from Yahoo! to enable distributed TensorFlow with Apache Spark.
 * [caffe-tensorflow ★1721](https://github.com/ethereon/caffe-tensorflow) - Convert Caffe models to TensorFlow format
 * [keras](http://keras.io) - Minimal, modular deep learning library for TensorFlow and Theano
@@ -225,7 +225,7 @@ More info on the [guidelines](https://github.com/jtoy/awesome-tensorflow/blob/ma
 
 ## Credits
 
-* Some of the python libraries were cut-and-pasted from [vinta ★40545](https://github.com/vinta/awesome-python)
+* Some of the python libraries were cut-and-pasted from [vinta ★42063](https://github.com/vinta/awesome-python)
 * The few go reference I found where pulled from [this page](https://code.google.com/p/go-wiki/wiki/Projects#Machine_Learning)
 ---
 <p align="center">

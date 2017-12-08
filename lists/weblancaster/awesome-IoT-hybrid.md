@@ -57,7 +57,7 @@ title: Awesome Rank for weblancaster/awesome-IoT-hybrid
 - [Electron](https://github.com/atom/electron)
 - [Chromium Embedded Framework](https://bitbucket.org/chromiumembedded/cef)
 - [AppJS](http://appjs.com/)
-- [MAcGap](https://github.com/MacGapProject)
+- [MacGap](https://github.com/MacGapProject)
 - [TideSDK](http://www.tidesdk.org/)
 
 ## Hybrid Mobile

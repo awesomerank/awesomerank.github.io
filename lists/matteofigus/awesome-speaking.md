@@ -35,7 +35,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 * [Call to Speakers](http://calltospeakers.com/) - A list of open applications for conference talks. Get notified of new opportunities via a weekly newsletter, Twitter account, or RSS feed.
 * [Callback Women](http://www.callbackwomen.com/) - Sharing CFPs via [Twitter](https://twitter.com/callbackwomen).
 * [PaperCall](https://papercall.io/) - Place to manage your talks and submissions.
-* [IT CFP List ★111](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
+* [IT CFP List ★121](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
 
 ## Clubs/Organizations
 * [Toastmasters](https://www.toastmasters.org/Find-a-Club) - An international non-profit educational organizations that facilitates the creation and growth of clubs around the world. The goal of the clubs is to improve the leadership and public speaking skills of members.
@@ -56,7 +56,7 @@ A collection of awesome resources about public speaking. Please read the [contri
 ## Websites
 * [ConferenceList](https://conferencelist.io/) - by Cezar Floroiu. A list of conferences around the world.
 * [Speaking.io](http://speaking.io) - Tips for preparing your talk and get ready to deliver it
-* [awesome-talks ★1956](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
+* [awesome-talks ★1990](https://github.com/JanVanRyswyck/awesome-talks) - a collection of awesome tech talks
 * [We Are All Awesome!](http://weareallaweso.me/) - a collection of interesting posts about speaking, preparing, motivation, etc
 * [HelpMeAbstract](http://helpmeabstract.com/) - Get feedback from veteran speakers before you submit your talk.
 

@@ -292,7 +292,7 @@ A vulnerability research and exploit development class by Owen Redwood of Florid
 
 **Be sure to check out the [lectures](https://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)!**
 
-### [Hack Night ★659](https://github.com/isislab/Hack-Night)
+### [Hack Night ★677](https://github.com/isislab/Hack-Night)
 
 Developed from the materials of NYU Poly's old Penetration Testing and Vulnerability Analysis course, Hack Night is a sobering introduction to offensive security. A lot of complex technical content is covered very quickly as students are introduced to a wide variety of complex and immersive topics over thirteen weeks.
 

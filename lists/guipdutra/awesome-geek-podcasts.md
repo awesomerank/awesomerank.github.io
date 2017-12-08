@@ -305,7 +305,7 @@ A curated list of podcasts we like to listen to.
 * [Pocket Casts](http://www.shiftyjelly.com/pocketcasts)
 * [Overcast](https://overcast.fm) - An elegant podcast tracker for iOS and the web
 * [AntennaPod](http://antennapod.org) - (Android and Open Source)
-* [Soundwaves ★93](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
+* [Soundwaves ★94](https://github.com/bottiger/SoundWaves) - (Android and Open Source)
 * [DoggCatcher](http://www.doggcatcher.com) - Android Podcast player
 * [gPodder](http://gpodder.org/) / [gPodder Director](https://gpodder.net/) - (Multi-plataform Open Source and Podcast Directory)
 * [RadioPublic](http://www.radiopublic.com/)

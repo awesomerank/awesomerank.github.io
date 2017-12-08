@@ -30,7 +30,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 #### Javascript
 
 - [selenium-webdriver](https://github.com/SeleniumHQ/selenium/wiki/WebDriverJs) - The official WebDriver JavaScript bindings from the Selenium project.
-- [WD ★1237](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
+- [WD ★1255](https://github.com/admc/wd) - WebDriver/Selenium 2 node.js client.
 - [WebdriverIO](http://webdriver.io) - better implementation of WebDriver bindings with predefined 50+ actions.
 - [CasperJS](http://casperjs.org/) - open source navigation scripting & testing utility.
 - [Zombie.js](http://zombie.js.org/) - Insanely fast, headless full-stack testing.
@@ -48,15 +48,16 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 - [Selenium with Ruby](http://seleniumhq.github.io/selenium/docs/api/rb/index.html) - Selenium Ruby bindings
 - [Watir](http://watir.github.io) - Automated testing that doesn’t hurt
-- [Anemone ★1593](https://github.com/chriskite/anemone) - Anemone web-spider framework.
+- [Anemone ★1596](https://github.com/chriskite/anemone) - Anemone web-spider framework.
 - [Mechanize](http://docs.seattlerb.org/mechanize/) - automating interaction with websites.
-- [Spidr ★516](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
+- [Spidr ★520](https://github.com/postmodern/spidr) - web spidering library that can spider a site, multiple domains, certain links or infinitely.
 - [cobweb](https://rubygems.org/gems/cobweb) - web crawler that can use resque to cluster crawls to quickly crawl extremely large sites.
+- [Capybara](https://rubygems.org/gems/capybara) - an integration testing tool for rack based web applications. It simulates how a user would interact with a website.
 
 #### PHP
-- [Facebook WebDriver ★1924](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
-- [Selenium Setup ★23](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
-- [Steward ★122](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
+- [Facebook WebDriver ★1967](https://github.com/facebook/php-webdriver) - A PHP client for webdriver.
+- [Selenium Setup ★24](https://github.com/bogdananton/Selenium-Setup) - A tool for PHP developers to start their own Selenium server.
+- [Steward ★129](https://github.com/lmc-eu/steward) - A test runner integrating php-webdriver with PHPUnit.
 
 #### Python
 
@@ -70,7 +71,7 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [Selenium with Java](http://seleniumhq.github.io/selenium/docs/api/java/index.html) - Selenium Java bindings
 - [Conductor](http://conductor.ddavison.io) - Turbo-boosted Selenium framework that makes test writing a breeze.
 - [darcy ★15](https://github.com/darcy-framework/darcy-webdriver) - Page object framework for structured, maintainable automation.
-- [Selenide ★608](https://github.com/codeborne/selenide) - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API.
+- [Selenide ★630](https://github.com/codeborne/selenide) - A framework for writing easy-to-read and easy-to-maintain automated tests using a Fluent API.
 - [Galen Framework](http://galenframework.com/) - Automated testing of look and feel for your responsive websites.
 - [Serenity](http://www.thucydides.info/) - It is an open source library for writing better quality automated acceptance tests faster. (Formerly Thucydides).
 
@@ -85,25 +86,25 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 
 ### CSS Regression Testing
 
-- [PhantomCSS ★4607](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS.
-- [WebdriverCSS ★540](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
+- [PhantomCSS ★4629](https://github.com/Huddle/PhantomCSS) - Visual/CSS regression testing with PhantomJS.
+- [WebdriverCSS ★546](https://github.com/webdriverio/webdrivercss) - Regression testing tool for [WebdriverIO](http://webdriver.io) (currently deprecated, please use [wdio-screenshot](https://www.npmjs.com/package/wdio-screenshot) for the time being).
 
 ### Containers
 
 #### Docker
 
-- [elgalu/docker-selenium ★800](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
-- [Ggr ★64](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
-- [SeleniumHQ/docker-selenium ★1874](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
-- [Selenoid ★289](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
-- [zalando/zalenium ★550](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
+- [elgalu/docker-selenium ★829](https://github.com/elgalu/docker-selenium) - Selenium in Docker with Chrome & Firefox plus video recording support.
+- [Ggr ★70](https://github.com/aerokube/ggr) - A lightweight load balancer used to create big Selenium clusters.
+- [SeleniumHQ/docker-selenium ★1953](https://github.com/SeleniumHQ/docker-selenium) - Docker images for Selenium Standalone Server, Hub, and Node configurations with Chrome and Firefox.
+- [Selenoid ★337](https://github.com/aerokube/selenoid) - A lightweight Selenium hub implementation launching browsers in Docker containers.
+- [zalando/zalenium ★608](https://github.com/zalando/zalenium) - Allows anyone to have a disposable and flexible Selenium Grid infrastructure
 
 ### Driver
 
 #### Desktop
 
 - [Firefox](https://github.com/SeleniumHQ/selenium/wiki/FirefoxDriver) - Firefox driver (for FF < v48) is included in the selenium-server-standalone.jar available in the downloads.
-- [Geckodriver ★1248](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
+- [Geckodriver ★1344](https://github.com/mozilla/geckodriver) - Firefox driver (for FF > v48), supported with Selenium >= v3
 - [Chrome](https://sites.google.com/a/chromium.org/chromedriver/home) - ChromeDriver is a standalone server which implements WebDriver's wire protocol for Chromium.
 - [Internet Explorer](https://github.com/SeleniumHQ/selenium/wiki/InternetExplorerDriver) - The InternetExplorerDriver is a standalone server which implements WebDriver's wire protocol.
 - [Edgedriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) - Microsoft Webdriver server for Edge
@@ -115,11 +116,11 @@ Inspired by the [awesome ★69735](https://github.com/sindresorhus/awesome) list
 - [Appium](http://appium.io/) - Appium is an open source test automation framework for use with native and hybrid mobile apps. It drives iOS, Android and Windows Apps using the WebDriver protocol.
 - [Selendroid](http://selendroid.io/mobileWeb.html) - Selendroid is based on the Android instrumentation framework.
 - [ios-driver](http://ios-driver.github.io/ios-driver/) - Test any IOS native, hybrid, or mobile web application using Selenium / WebDriver.  
-- [Winium ★132](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
+- [Winium ★138](https://github.com/2gis/Winium) - Automation framework for Windows platforms. It is free. It is opensource. It is Selenium-based. Supports: Windows Desktop (WPF, WinForms); Windows Store or Universal Apps for Windows Phone; Windows Phone Silverlight Apps.
 
 ### Desktop Tools
 
-- [SWD Page Recorder ★154](https://github.com/dzharii/swd-recorder) - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates.
+- [SWD Page Recorder ★159](https://github.com/dzharii/swd-recorder) - Windows Desktop application that makes it easy to create, test and debug new Selenium Webdriver PageObject classes. It works with C#, Java, Python and Ruby out of the box and you may add own code generation templates.
 
 ### Cloud Services
 

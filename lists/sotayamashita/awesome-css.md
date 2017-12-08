@@ -11,31 +11,26 @@ title: Awesome Rank for sotayamashita/awesome-css
 [awesome-badge]: https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg
 [travis-link]:   https://travis-ci.org/sotayamashita/awesome-css
 [travis-badge]:  https://travis-ci.org/sotayamashita/awesome-css.svg?branch=master
-[welcom-badge]:  https://img.shields.io/badge/PRs%20&%20Issues-welcome-brightgreen.svg
-[welcome-link]:  https://github.com/sotayamashita/awesome-css/pulls
-[standard-readme-badge]:  https://img.shields.io/badge/readme%20style-standard-brightgreen.svg
-[standard-readme-link]:   https://github.com/RichardLitt/standard-readme
 
-# Awesome CSS
+# Awesome CSS [![Awesome][awesome-badge]][awesome-link] [![Travis Build Status][travis-badge]][travis-link] {
 
-[![Awesome][awesome-badge]][awesome-link]
-[![Travis Build Status][travis-badge]][travis-link]
-[![PRs & Issues Welcome][welcom-badge]][welcome-link]
-[![standard-readme compliant][standard-readme-badge]][standard-readme-link]
+> /* A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS. */
 
+## Introduction
 
-> A curated list of awesome frameworks, style guide and other cool nuggets for the amazing CSS.
+### Motivation
 
-<a target='_blank' rel='nofollow' href='https://app.codesponsor.io/link/E6eEpbHX7CWqMYsJTQcs1Qkz/sotayamashita/awesome-css'>
-  <img alt='Sponsor' width='888' height='68' src='https://app.codesponsor.io/embed/E6eEpbHX7CWqMYsJTQcs1Qkz/sotayamashita/awesome-css.svg' />
-</a>
+This document is a curated list of awesome framework, style guide and other cool nuggets for the amazing CSS. It does not help everyone understand what CSS is not only find great cool stuffs.
 
+### Complementary Resources
 
-#### Contents
+When you struggle to understand a notion, I suggest you look for answers on the following resources:
 
-<details>
+- [CSS - MDN - Mozilla](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [Reddit (CSS)](https://www.reddit.com/r/css/)
+- [StackOverflow (CSS)](https://stackoverflow.com/questions/tagged/css)
 
-<!-- toc -->
+## Table of Contents
 
 - [CSS Working Group](#css-working-group)
 - [Editor's Draft](#editors-draft-black_nib)
@@ -58,10 +53,6 @@ title: Awesome Rank for sotayamashita/awesome-css
 - [Videos](#videos-tv)
 - [Books](#books-books)
 - [Tutorials](#tutorials-clapper)
-
-<!-- tocstop -->
-
-</details>
 
 ## CSS Working Group
 
@@ -103,28 +94,23 @@ _[Find more CSS preprocessors on wiki](https://github.com/sotayamashita/awesome-
 
 ## Frameworks :art:
 
-* [960 Grid System](http://960.gs/) - An effort to streamline web development workflow.
-* [Blueprint](http://www.blueprintcss.org/) - CSS framework which gives you an easy-to-use grid system, sensible typography, useful plugins and a stylesheet for printing.
 * [Bootstrap](http://getbootstrap.com/) - The most popular HTML, CSS, and JS framework.
 * [Bulma](http://bulma.io/) - A modern CSS framework based on Flexbox.
 * [inuit.css](http://inuitcss.com/) - Powerful, scalable, Sass-based, BEM, OOCSS framework.
 * [Foundation](http://foundation.zurb.com/) - advanced responsive front-end framework.
-* [Material Design Lite](https://getmdl.io/started/) - Great framework to make cool Material Design websites.
 * [Materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design.
+* [material-components-web ★6658](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web.
 * [Milligram](http://milligram.io) - A minimalist CSS framework.
 * [Pure.css](http://purecss.io/) - A set of small, responsive CSS modules that you can use in every web project.
-* [Scooter](http://dropbox.github.io/scooter/) - SCSS framework built to provide base styles, CSS components, and rapid static prototyping for Dropbox.
 * [Semantic UI](http://semantic-ui.com/) - Powerful framework that uses human-friendly HTML.
-* [Skeleton](http://getskeleton.com/) - A dead simple, responsive boilerplate.
 * [Spectre.css](https://picturepan2.github.io/spectre/index.html) - A lightweight, responsive and modern CSS framework.
 * [Wing](http://usewing.ml) - A Minimal, Lightweight, Responsive framework.
 * [UIkit](http://getuikit.com/) - A lightweight and modular front-end framework.
 * [unsemantic](http://unsemantic.com/) - Fluid grid for mobile, tablet, and desktop.
 * [Tachyons](http://tachyons.io/) - Functional CSS for humans.
 * [Tacit](https://yegor256.github.io/tacit/) - Tacit is a CSS framework for dummies with zero skills of graphic design.
-* [Pills](http://arkpod.in/pills) - A simple, responsive, and tiny CSS grid for humans.
 
-_[You can find more frameworks at "awesome-css-frameworks" ★29](https://github.com/troxler/awesome-css-frameworks)_
+_[You can find more frameworks at "awesome-css-frameworks" ★40](https://github.com/troxler/awesome-css-frameworks)_
 
 <sub>[⇧ back to top](#contents)</sub>
 
@@ -207,7 +193,7 @@ View more style guides at [Website Style Guide Resources](http://styleguides.io/
 
 ## Style Guide Generators :slot_machine:
 
-- [Hologram ★2102](https://github.com/trulia/hologram)
+- [Hologram ★2106](https://github.com/trulia/hologram)
 - [mdcss ★631 ⏳1Y](https://github.com/jonathantneal/mdcss)
 - [Source](https://sourcejs.com/)
 - [styledoc ★4 ⏳5Y](https://github.com/Joony/styledoc)
@@ -391,12 +377,13 @@ Feel free to dive in! Open an issue or submit PRs.
 
 Awesome CSS follows the [Contributor Covenant][contributor-covenant] Code of Conduct.
 
-
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Awesome CSS  maintainers ★1265](https://github.com/sotayamashita/awesome-css) has waived all copyright and related or neighboring rights to this work.
+
+# }
 ---
 <p align="center">
 	This list is a copy of <a href="https://github.com/sotayamashita/awesome-css">sotayamashita/awesome-css</a> with ranks

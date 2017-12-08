@@ -16,7 +16,7 @@ If you are looking for CakePHP 2.x resources please visit:
 
 Additional lists you might find useful:
 - [CakePHP Plugins](https://plugins.cakephp.org)
-- [Awesome PHP ★17013](https://github.com/ziadoz/awesome-php)
+- [Awesome PHP ★17326](https://github.com/ziadoz/awesome-php)
 - [Awesome Awesomeness ★20083](https://github.com/bayandin/awesome-awesomeness)
 
 > For those wondering; this list differs from plugins.cakephp.org by supporting
@@ -92,7 +92,7 @@ Additional lists you might find useful:
 - [AssetCompress plugin ★362](https://github.com/markstory/asset_compress) - A complete asset manager for CakePHP.
 - [Assets plugin ★4](https://github.com/mirko-pagliai/assets) - Dynamic and "on the fly" asset files.
 - [Less plugin ★16](https://github.com/elboletaire/less-cake-plugin) - Less parser plugin for CakePHP.
-- [MinifyHtml plugin ★13 ⏳1Y](https://github.com/WyriHaximus/MinifyHtml) - Compress HTML output.
+- [MinifyHtml plugin ★13 ⏳2Y](https://github.com/WyriHaximus/MinifyHtml) - Compress HTML output.
 
 ## Auditing / Logging
 *Plugins for auditing and logging.*
@@ -285,7 +285,7 @@ Additional lists you might find useful:
 - [Money plugin](https://github.com/gourmet/money) - Money data type for CakePHP entities using [sebastianbergmann/money ★706](https://github.com/sebastianbergmann/money).
 - [Muffin/Orderly plugin ★15](https://github.com/usemuffin/orderly) - Allows setting default order for your tables.
 - [Muffin/Trash plugin ★51](https://github.com/usemuffin/trash) - Soft-delete behavior for CakePHP.
-- [PersistRelatedData plugin ★10](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
+- [PersistRelatedData plugin ★10 ⏳1Y](https://github.com/riesenia/persist-related-data) - Behavior for persisting selected fields of related models.
 - [Robotusers/Excel plugin ★7](https://github.com/robotusers/cakephp-excel) - ORM wrapper for PHPExcel.
 - [Robotusers/TableInheritance plugin ★2](https://github.com/robotusers/cakephp-table-inheritance) - Singe Table Inheritance (STI) plugin.
 - [RowLocker plugin ★18 ⏳1Y](https://github.com/lorenzo/row-locker) - Exclusive locks for rows in your tables.

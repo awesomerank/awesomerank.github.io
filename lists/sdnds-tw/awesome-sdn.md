@@ -57,20 +57,20 @@ SONiC
 # Software Switch
 
 - [OpenvSwtich](http://openvswitch.org/) - Open vSwitch is a production quality, multilayer virtual switch.
-- [Indigo ★55](https://github.com/floodlight/indigo) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
-- [CPqD ★180](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
+- [Indigo ★57](https://github.com/floodlight/indigo) - Indigo is an open source project aimed at enabling support for OpenFlow on physical and hypervisor switches.
+- [CPqD ★181](https://github.com/CPqD/ofsoftswitch13)- An OpenFlow 1.3 compatible user-space software switch implementation
 - [Lagopus](https://lagopus.github.io) - A high-performance software OpenFlow 1.3 switch.
 - [LINC-Switch ★196 ⏳2Y](https://github.com/FlowForwarding/LINC-Switch) - A pure OpenFlow software switch written in Erlang
 - [snabbswitch](https://github.com/SnabbCo/snabbswitch) - An open source virtualized Ethernet networking stack.
-- [ZeroTier ★1791](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
+- [ZeroTier ★1934](https://github.com/zerotier/ZeroTierOne) - ZeroTier is a software-based managed Ethernet switch for planet Earth.
 - [PISCES](http://pisces.cs.princeton.edu/) - A Programmable, Protocol-Independent Software Switch.
-- [BESS ★77](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
+- [BESS ★82](https://github.com/NetSys/bess) - Berkeley Extensible Software Switch, BESS is a modular framework for software switches.
 - [FD.IO](https://fd.io/) - Relentlessly focused on data IO speed and efficiency for more flexible and scalable networks and storage
 
 # Network Virtualization
 
-- [FlowVisor ★119 ⏳4Y](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
-- [OpenVirtex ★48 ⏳2Y](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
+- [FlowVisor ★120 ⏳4Y](https://github.com/opennetworkinglab/flowvisor) - An OpenFlow controller that acts as a hypervisor/proxy between a switch and multiple controllers. Can slice multiple switches in parallel, effectively slicing a network.
+- [OpenVirtex ★47 ⏳2Y](https://github.com/opennetworkinglab/OpenVirteX) - A network hypervisor that can create multiple virtual and programmable networks on top of a single physical infrastructure.
 
 # Protocol
 
@@ -85,17 +85,17 @@ SONiC
 # Controller
 
 - [NOX](http://www.noxrepo.org) - An open source development platform for C++-based software-defined networking (*SDN*) control applications.
-- [NodeFlow ★52 ⏳5Y](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
+- [NodeFlow ★51 ⏳5Y](https://github.com/gaberger/NodeFLow) - An OpenFlow Controller Node Style.
 - [ONOS](http://onosproject.org) - Open Network Operating System.
 - [OpenDaylight](https://www.opendaylight.org) - OpenDaylight Platform
 - [Ryu](https://osrg.github.io/ryu) - A component-based software defined networking framework.
-- [Floodlight ★473](https://github.com/floodlight/floodlight) - A java-based OpenFlow controller.
-- [Vyatta ★41 ⏳2Y](https://github.com/BRCDcomm/BVC) - The first commercial Controller built directly from OpenDaylight.
+- [Floodlight ★481](https://github.com/floodlight/floodlight) - A java-based OpenFlow controller.
+- [Vyatta ★42 ⏳2Y](https://github.com/BRCDcomm/BVC) - The first commercial Controller built directly from OpenDaylight.
 - [OpenContrail](http://www.opencontrail.org/) - A SDN project that utilizes SDN & NFV and provides all the necessary components for network virtualization.
 - [IRIS](http://openiris.etri.re.kr/) - A Resursive SDN Openflow Controller created by SDN Research Section, ETRI.
 - [Open MUL](http://www.openmul.org/openmul-controller.html) - A lightweight SDN/Openflow controller written almost entirely in C from scratch.
 - [OESS ★14](https://github.com/globalnoc/oess) - The Open Exchange Software Suite to configure and control OpenFlow Enabled switches.
-- [Beehive Network Controller ★33 ⏳1Y](https://github.com/kandoo/beehive-netctrl) - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
+- [Beehive Network Controller ★35 ⏳1Y](https://github.com/kandoo/beehive-netctrl) - A distributed SDN controller built on top of Beehive. It supports OpenFlow but can be easily extended for other southbound protocols.
 - [Ravel ★4](https://github.com/ravel-net/ravel) - A software-defined networking (SDN) controller that uses a standard SQL database to represent the network.
 - [Trema](https://trema.github.io/trema/) - A full-stack, easy-to-use framework for developing OpenFlow controllers in Ruby and C.
 - [Open Security Controller](https://www.opensecuritycontroller.org/) - Software-defined security orchestration solution that automates deployment of virtualized network security functions, like next-generation firewall, intrusion prevention systems and application data controllers
@@ -106,7 +106,7 @@ SONiC
 - [OpenNet](http://github.com/dlinknctu/opennet) - A simulator for software-defined wireless local area network
 - [EstiNet](http://www.estinet.com/products.php?lv1=13&sn=13) - A world-renowned software tool for network planning
 - [ns-3](https://www.nsnam.org/) - A discrete-event network simulator that supports OpenFlow environment.
-- [Containernet ★27](https://github.com/containernet/containernet) - Mininet fork that allows to use Docker containers as hosts in emulated networks
+- [Containernet ★31](https://github.com/containernet/containernet) - Mininet fork that allows to use Docker containers as hosts in emulated networks
 - [Tinynet ★19](https://github.com/John-Lin/tinynet) - A lightweight instant virtual network for rapid prototyping SDN
 - [MaxiNet](http://maxinet.github.io) - MaxiNet extends the famous Mininet emulation environment to span the emulation across several physical machines. This allows to emulate very large software-defined networks. 
 
@@ -114,24 +114,24 @@ SONiC
 
 - [P4](http://p4.org/) - A declarative language for expressing how packets are processed by the pipeline of a network forwarding element such as a switch, NIC, router or network function appliance.
 - [POF](http://www.poforwarding.org/) - Protocol Oblivious Forwarding
-- [Frenetic ★138](https://github.com/frenetic-lang/frenetic) - The Frenetic Programming Language and Runtime System
+- [Frenetic ★140](https://github.com/frenetic-lang/frenetic) - The Frenetic Programming Language and Runtime System
 - [Pyretic](http://www.frenetic-lang.org/pyretic/) - Pyretic is one member of the Frenetic family of SDN programming languages.
 - [NEMO](https://wiki.onosproject.org/display/ONOS/NEMO+Language) - A domain specific language (DSL) based on abstraction of network models and conclusion of operation patterns.
 
 # Library
 
-- [loxigen ★69](https://github.com/floodlight/loxigen) - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
+- [loxigen ★66](https://github.com/floodlight/loxigen) - LoxiGen is a tool that generates OpenFlow protocol libraries for a number of languages.
 - [openfaucet ★28 ⏳5Y](https://github.com/rlenglet/openfaucet) - openfaucet is a pure Python implementation of the OpenFlow 1.0.0
 protocol, based on Twisted.
 - [oflib-node ★15 ⏳6Y](https://github.com/TrafficLab/oflib-node) - Oflib-node is an OpenFlow protocol library for Node. It converts between OpenFlow wire protocol messages and Javascript objects.
 - [OpenFlowJ](https://bitbucket.org/openflowj/openflowj) - A Java implementation of low-level OpenFlow packet marshalling/unmarshalling and IO operations.
 - [nettle](http://haskell.cs.yale.edu/other-projects/nettle/) - A Haskell library for working with the OpenFlow protocol.
-- [OCaml OpenFlow ★9 ⏳2Y](https://github.com/frenetic-lang/ocaml-openflow) - A serialization and protocol library for OpenFlow.
+- [OCaml OpenFlow ★10 ⏳2Y](https://github.com/frenetic-lang/ocaml-openflow) - A serialization and protocol library for OpenFlow.
 - [Scapy](http://www.secdev.org/projects/scapy/) - Scapy is a powerful interactive packet manipulation program.
 
 # Test
 
-- [oftest ★67](https://github.com/floodlight/oftest) - OpenFlow Testing Framework
+- [oftest ★69](https://github.com/floodlight/oftest) - OpenFlow Testing Framework
 - [STS](https://ucb-sts.github.com/sts/) - SDN Troubleshooting System, simulates network devices, allowing programmatically test cases generation.
 - [nice-of](https://code.google.com/archive/p/nice-of/) - A tool to test OpenFlow controller application for the NOX controller platform.
 - [OpenSDNCore](http://www.opensdncore.org/) - Virtualisation Testbed for NFV/SDN Environment.
@@ -154,8 +154,8 @@ protocol, based on Twisted.
 - [FRRouting](https://frrouting.org/) - An IP routing protocol suite for Linux and Unix platforms which includes protocol daemons for BGP4, BGP4+, OSPFv2, OSPFv3, RIPv1, RIPv2, RIPng, PIM-SM/MSDP and LDP as well as very early support for IS-IS, EIGRP and NHRP.
 - [BGPFeeder](https://projects.bytemark.co.uk/projects/bgpfeeder)
 - [bgp4r ★21 ⏳1Y](https://github.com/jesnault/bgp4r)
-- [gobgp ★1070](https://github.com/osrg/gobgp)
-- [yabgp ★90](https://github.com/smartbgp/yabgp)
+- [gobgp ★1102](https://github.com/osrg/gobgp)
+- [yabgp ★92](https://github.com/smartbgp/yabgp)
 
 # Misc
 

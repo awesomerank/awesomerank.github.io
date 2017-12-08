@@ -9,7 +9,7 @@ title: Awesome Rank for jbhuang0604/awesome-computer-vision
 ---
 
 # Awesome Computer Vision: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) ★69735](https://github.com/sindresorhus/awesome)
-A curated list of awesome computer vision resources, inspired by [awesome-php ★17013](https://github.com/ziadoz/awesome-php).
+A curated list of awesome computer vision resources, inspired by [awesome-php ★17326](https://github.com/ziadoz/awesome-php).
 
 For a list people in computer vision listed with their academic genealogy, please visit [here](https://github.com/jbhuang0604/awesome-computer-vision/blob/master/people.md)
 
@@ -236,7 +236,7 @@ Please feel free to send me [pull requests](https://github.com/jbhuang0604/aweso
 * [mexopencv](http://kyamagu.github.io/mexopencv/)
 * [SimpleCV](http://simplecv.org/)
 * [Open source Python module for computer vision ★1208](https://github.com/jesolem/PCV)
-* [ccv: A Modern Computer Vision Library ★5981](https://github.com/liuliu/ccv)
+* [ccv: A Modern Computer Vision Library ★6020](https://github.com/liuliu/ccv)
 * [VLFeat](http://www.vlfeat.org/)
 * [Matlab Computer Vision System Toolbox](http://www.mathworks.com/products/computer-vision/)
 * [Piotr's Computer Vision Matlab Toolbox](http://vision.ucsd.edu/~pdollar/toolbox/doc/index.html)
@@ -405,7 +405,7 @@ Non-uniform Deblurring
  * [Entropy Rate Superpixel](http://mingyuliu.net/)
  * [Contour Relaxed Superpixels](http://www.vsi.cs.uni-frankfurt.de/research/current-projects/research/superpixel-segmentation/)
  * [SEEDS](http://www.mvdblive.org/seeds/)
- * [SEEDS Revised ★27](https://github.com/davidstutz/seeds-revised)
+ * [SEEDS Revised ★27 ⏳1Y](https://github.com/davidstutz/seeds-revised)
  * [Multiscale Combinatorial Grouping](http://www.eecs.berkeley.edu/Research/Projects/CS/vision/grouping/mcg/)
  * [Fast Edge Detection Using Structured Forests ★371 ⏳1Y](https://github.com/pdollar/edges)
 
@@ -532,7 +532,7 @@ Non-uniform Deblurring
  * [Awesome Deep Vision ★5437](https://github.com/kjw0612/awesome-deep-vision)
 
 #### Machine Learning
- * [Awesome Machine Learning ★27278](https://github.com/josephmisiti/awesome-machine-learning)
+ * [Awesome Machine Learning ★28131](https://github.com/josephmisiti/awesome-machine-learning)
  * [Bob: a free signal processing and machine learning toolbox for researchers](http://idiap.github.io/bob/)
  * [LIBSVM -- A Library for Support Vector Machines](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
@@ -722,8 +722,8 @@ Non-uniform Deblurring
 ## Links
 * [The Computer Vision Industry](http://www.cs.ubc.ca/~lowe/vision.html) - David Lowe
 * [German Computer Vision Research Groups & Companies](http://hci.iwr.uni-heidelberg.de/Links/German_Vision/)
-* [awesome-deep-learning ★6161](https://github.com/ChristosChristofidis/awesome-deep-learning)
-* [awesome-machine-learning ★27278](https://github.com/josephmisiti/awesome-machine-learning)
+* [awesome-deep-learning ★6549](https://github.com/ChristosChristofidis/awesome-deep-learning)
+* [awesome-machine-learning ★28131](https://github.com/josephmisiti/awesome-machine-learning)
 * [Cat Paper Collection](http://www.eecs.berkeley.edu/~junyanz/cat/cat_papers.html)
 * [Computer Vision News](http://www.rsipvision.com/computer-vision-news/)
 *

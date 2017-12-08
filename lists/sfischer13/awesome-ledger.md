@@ -11,7 +11,7 @@ title: Awesome Rank for sfischer13/awesome-ledger
 
 > Useful resources for the [Ledger](http://ledger-cli.org/) command-line accounting system
 
-You might also like [awesome-beancount ★62 ⏳1Y](https://github.com/wzyboy/awesome-beancount).
+You might also like [awesome-beancount ★66 ⏳1Y](https://github.com/wzyboy/awesome-beancount).
 
 *Please read the [contribution guidelines](https://github.com/sfischer13/awesome-ledger/blob/master/contributing.md) before contributing.*
 
@@ -47,19 +47,19 @@ You might also like [awesome-beancount ★62 ⏳1Y](https://github.com/wzyboy/aw
 ## Documentation
 
 - [Cheat Sheet](http://ricostacruz.com/cheatsheets/ledger.html) - Summary of the most common commands.
-- [Book ★59](https://github.com/rolfschr/GSWL-book) - Introductory book on Ledger.
+- [Book ★65](https://github.com/rolfschr/GSWL-book) - Introductory book on Ledger.
 - [Manual](http://ledger-cli.org/3.0/doc/ledger3.html) - Official manual.
 - [man page](http://ledger-cli.org/3.0/doc/ledger.1.html) - Description of command-line options.
 
 ## Editors
-- [vim ★149](https://github.com/ledger/vim-ledger) - Vim plugin.
+- [vim ★150](https://github.com/ledger/vim-ledger) - Vim plugin.
 - [Emacs](http://www.ledger-cli.org/3.0/doc/ledger-mode.html) - Ledger mode.
 - [Atom](https://atom.io/packages/language-ledger) - Atom package.
 
 ## Tools
 
-- [ledgerhelpers ★34](https://github.com/Rudd-O/ledgerhelpers) - Collection of helper programs.
-- [node-ledger-web ★94](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data.
+- [ledgerhelpers ★35](https://github.com/Rudd-O/ledgerhelpers) - Collection of helper programs.
+- [node-ledger-web ★95](https://github.com/slashdotdash/node-ledger-web) - Web front-end to Ledger data.
 
 ## Social
 

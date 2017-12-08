@@ -9,12 +9,12 @@ title: Awesome Rank for planetruby/awesome-events
 ---
 Awesome Series @ Planet Ruby
 
-[Rubies (Virtual Machines, Compilers, ...) ★201](https://github.com/planetruby/awesome-rubies) •
-[ActiveRecord ★258](https://github.com/planetruby/awesome-activerecord)  •
-[Webframeworks (Micro, Macro, APIs, ...) ★111 ⏳2Y](https://github.com/planetruby/awesome-webframeworks) •
+[Rubies (Virtual Machines, Compilers, ...) ★200](https://github.com/planetruby/awesome-rubies) •
+[ActiveRecord ★262](https://github.com/planetruby/awesome-activerecord)  •
+[Webframeworks (Micro, Macro, APIs, ...) ★113 ⏳2Y](https://github.com/planetruby/awesome-webframeworks) •
 [Webservers (Single-Threaded, Multi-Threaded, Evented, ...) ★148](https://github.com/planetruby/awesome-webservers) •
 [Static Generators (Sites, Books, Presentations, ...) ★1 ⏳2Y](https://github.com/planetruby/awesome-staticgen) •
-[Events (Conferences, Camps, Meetups, ...) ★195](https://github.com/planetruby/awesome-events) •
+[Events (Conferences, Camps, Meetups, ...) ★196](https://github.com/planetruby/awesome-events) •
 [Blogs (News, Opinions, Podcasts, ...) ★4 ⏳2Y](https://github.com/planetruby/awesome-blogs)
 
 

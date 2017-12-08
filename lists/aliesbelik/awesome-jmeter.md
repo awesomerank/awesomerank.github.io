@@ -103,7 +103,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 ## DSL
 
-- [RubyJmeter ★590](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
+- [RubyJmeter ★595](https://github.com/flood-io/ruby-jmeter) - A Ruby based DSL for building JMeter test plans.
 
 ## Distributions
 
@@ -121,9 +121,9 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 
 - Tools & Plugins
     - [JMeter Ant Task](http://www.programmerplanet.org/projects/jmeter-ant-task/) - Ant task to automate running JMeter test plans.
-    - [JMeter Maven Plugin ★225](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
+    - [JMeter Maven Plugin ★229](https://github.com/jmeter-maven-plugin/jmeter-maven-plugin) - Maven plugin that provides the ability to run JMeter tests as part of the build.
     - [Jenkins Performance Plugin](https://wiki.jenkins-ci.org/display/JENKINS/Performance+Plugin) - Jenkins plugin to capture reports from JMeter and generate graphic charts with the trend report of performance and robustness.
-    - [TeamCity Performance Tests Analysis Plugin ★12](https://github.com/jtorgan/jmeter_plugin)
+    - [TeamCity Performance Tests Analysis Plugin ★13](https://github.com/jtorgan/jmeter_plugin)
     - Bamboo JMeter Aggregator Plugin: [documentation](https://marketplace.atlassian.com/plugins/jmeterAggregator/server/overview), [sources](https://bitbucket.org/atlassian/bamboo-jmeter-plugin) - Bamboo plugin to collect, assert and graph JMeter test results.
     - [Sonar JMeter Plugin](https://github.com/SonarCommunity/sonar-jmeter) - Plugin to collect JMeter performance tests results and display in Sonar dashboard.
     - [Lightning](http://deliverymind.github.io/lightning/) - Framework to integrate JMeter non-functional tests with CI/CD server.
@@ -131,7 +131,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
     - Jenkins
         - [Automated performance testing using JMeter and Maven](http://blogs.atlassian.com/2009/10/automated_performance_testing_using_jmeter_and_maven/)
         - [Performance Tests with JMeter, Maven and Hudson](http://www.theserverlabs.com/blog/?p=280)
-        - [CI with Jenkins, Git, Maven, Grunt, and JMeter ★8 ⏳2Y](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
+        - [CI with Jenkins, Git, Maven, Grunt, and JMeter ★9 ⏳2Y](https://github.com/dzuluagaapigee/apigee-ci-jenkins-git-maven-jmeter)
         - [Continuous automated web tests using Jenkins and JMeter](https://www.linkedin.com/pulse/continuous-automated-web-tests-using-jenkins-jmeter-mahanta)
         - [Automating JMeter tests with Maven and Jenkins](https://blog.codecentric.de/en/2014/01/automating-jmeter-tests-maven-jenkins/)
         - How to automate JMeter tests with Maven and Jenkins: [part 1](https://ribblescode.wordpress.com/2012/04/16/how-to-run-jmeter-tests-with-maven/), [part 2](https://ribblescode.wordpress.com/2012/04/16/how-to-automate-jmeter-tests-with-maven-and-jenkins-hudson-8/)
@@ -169,6 +169,7 @@ This list grew up from [my answer on Stack Exchange](http://sqa.stackexchange.co
 - [RedLine13](http://redline13.com/) - AWS-based load testing service with JMeter, Gatling and Selenium scenarios support.
 - [HP StormRunner Load](https://saas.hpe.com/en-us/software/stormrunner-load) - HP cloud-based solution for web and mobile performance testing with JMeter and Gatling support.
 - [Loadster](http://www.loadsterperformance.com/) - Solution for distributes load testing of web applications and services.
+- [Loadium](http://loadium.io/) - AWS-based load testing service with JMeter support.
 
 ## Monitoring
 

@@ -98,8 +98,8 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [cyberdojo ★221](https://github.com/JonJagger/cyber-dojo) -  Free in-browser coding-dojo [Live](http://cyber-dojo.org)
 - [danbooru ★511](https://github.com/r888888888/danbooru) - A taggable image board written in Rails 3 [Live](http://testbooru.donmai.us)
 - [dgi-db ★28](https://github.com/griffithlab/dgi-db) -  Rails frontend to The Genome Institute's drug gene interaction database
-- [diaspora ★11460](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [Live](https://diasporafoundation.org)
-- [discourse ★23112](https://github.com/discourse/discourse) -A platform for community discussion  [Live](https://try.discourse.org/)
+- [diaspora ★11503](https://github.com/diaspora/diaspora) - Distributed and contextual social networking [Live](https://diasporafoundation.org)
+- [discourse ★23416](https://github.com/discourse/discourse) -A platform for community discussion  [Live](https://try.discourse.org/)
 - [ekylibre ★132](https://github.com/ekylibre/ekylibre) - Simple agricultural ERP [Live](http://ekylibre.org)
 - [encrypt.to ★86](https://github.com/encrypt-to/encrypt.to) - Send encrypted messages by one click  [Live](https://encrypt.to)
 - [eol ★54](https://github.com/EOL/eol) - Encyclopedia of Life  [Live](http://eol.org)
@@ -141,7 +141,7 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [people ★51](https://github.com/netguru/people) - Manage people within the projects
 - [planningalerts-app ★45](https://github.com/openaustralia/planningalerts) - Find out and have your say about what's being built and knocked down in your area
 - [popHealth ★119](https://github.com/pophealth/popHealth) -  An Open Source Population Health Reporting Prototype  
-- [publify ★1715](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
+- [publify ★1713](https://github.com/publify/publify) - A self hosted Web publishing platform on Rails
 - [quant ★132 ⏳2Y](https://github.com/jdjkelly/quant) -  Quant is a prototype/experiment of a personal health tracker
 - [racing_on_rails ★36](https://github.com/scottwillson/racing_on_rails) -  Manage a bike racing association: riders, teams, calendars, competitions, and results [Live](http://racingonrails.rocketsurgeryllc.com)
 - [RapidFTR ★291 ⏳1Y](https://github.com/rapidftr/RapidFTR) -  An Android-based mobile application that lets aid workers collect, sort and share information about children in emergency situations
@@ -157,8 +157,8 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 - [sharetribe ★1230](https://github.com/sharetribe/sharetribe) - A platform for setting up your own peer-to-peer marketplace online [Live](https://www.sharetribe.com)
 - [socify ★260](https://github.com/scaffeinate/socify) - an open source social networking platform written in Ruby on Rails
 - [spokenvote ★43 ⏳2Y](https://github.com/Spokenvote/spokenvote) -  A social voting app for reaching consensus in a group of any size  [Live](http://www.spokenvote.org)
-- [Spree ★8813](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
-- [stackneveroverflow ★63](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support.
+- [Spree ★8883](https://github.com/spree/spree) -  Spree is a complete open source e-commerce solution for Ruby on Rails.  [Live](https://spreecommerce.com/)
+- [stackneveroverflow ★95](https://github.com/liaoziyang/stackneveroverflow) - A simple Q&A platform using with markdown support.
 - [teambox](https://github.com/teambox/teambox) - The award-winning collaboration solution, inspired by Basecamp, Yammer and Twitter  [Live](https://redbooth.com)
 - [theodinproject ★567](https://github.com/TheOdinProject/theodinproject) -  A project that aims to teach web development for free  [Live](https://www.theodinproject.com/)
 - [tracks ★853](https://github.com/TracksApp/tracks) - A "Getting Things Done" application  [Live](http://www.getontracks.org)
@@ -212,13 +212,13 @@ title: Awesome Rank for ekremkaraca/awesome-rails
 
 #### Platforms
 
-- [Nanobox ★1069](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io).
+- [Nanobox ★1106](https://github.com/nanobox-io/nanobox) - A micro-PaaS (μPaaS) for creating consistent, isolated, development environments deployable anywhere [Live](https://nanobox.io).
 
 #### Generators
 
 | Generator | Ready to run | Complex Apps | Sets git | Heroku |
 | --------- | ------------ | ------------ | -------- | ------ |
-| [Rails Composer ★3179](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
+| [Rails Composer ★3206](https://github.com/RailsApps/rails-composer)| yes, but Stripe needs to be configured | Example apps reaching a SaaS with Stripe. | yes | yes |
 | [Prelang](http://prelang.com) | Had to modify database credentials manually | Customizable models. But no payments. | yes | no |
 | [Hobo](http://www.hobocentral.net) | Rails version problems, if using a late version | It seems according screencast, helps a lot with MVC boilerplate. | no | no |
 
